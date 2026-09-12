@@ -166,6 +166,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+| techcrunch.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -303,13 +304,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| mathandai.org | 1 |
 | cel.cs.brown.edu | 1 |
+| tomshardware.com | 1 |
 | economist.com | 1 |
 | tedium.co | 1 |
-| tomshardware.com | 1 |
 | wired.com | 1 |
 | blog.trailofbits.com | 1 |
+| withspecific.com | 1 |
 | lightrag.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
@@ -1243,7 +1244,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | themarkup.org | 1 |
 | eccv2008.inrialpes.fr | 1 |
 | hourofai.org | 1 |
-| techcrunch.com | 1 |
 | content.govdelivery.com | 1 |
 | mmm.ucar.edu | 1 |
 | lmod.readthedocs.io | 1 |

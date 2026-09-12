@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang
 hn_url: https://news.ycombinator.com/item?id=49671159
-score: 79
+score: 98
 author: ColinWright
-comments_count: 42
+comments_count: 44
 published_at: '2026-09-12T16:43:38+05:30'
-collected_at: '2026-09-13T00:00:42.646948+05:30'
+collected_at: '2026-09-13T03:54:08.453079+05:30'
 tags:
 - agents
 - ai
 - hackernews
 status: active
-resource_id: hackernews:the-worst-spam-emails-inside-ilands-ai-agent-hustl
+resource_id: hackernews:the-worst-spam-emails-ilands-ai-agent-hustle
 first_seen: '2026-09-12T17:46:32.494687+05:30'
-last_seen: '2026-09-13T00:00:42.646948+05:30'
-last_checked: '2026-09-13T00:00:42.646948+05:30'
+last_seen: '2026-09-13T03:54:08.453079+05:30'
+last_checked: '2026-09-13T03:54:08.453079+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ColinWright. Score: 79, Comments: 42.
+Hacker News story by ColinWright. Score: 98, Comments: 44.
 Original Link: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ColinWright
-- Score: 79 Upvotes
-- Comments: 42 Discussions
+- Score: 98 Upvotes
+- Comments: 44 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49671159
 - Original Article: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang
 

@@ -13,13 +13,14 @@ collected_at: '2026-09-13T00:00:43.468412+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-misalignment-of-ai-in-mathematics
 first_seen: '2026-09-12T00:44:08.293079+05:30'
 last_seen: '2026-09-13T00:00:43.468412+05:30'
 last_checked: '2026-09-13T00:00:43.468412+05:30'
 health_score: 100
 ---
+
 
 # A misalignment of AI in mathematics
 

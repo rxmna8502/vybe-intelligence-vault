@@ -6338,11 +6338,12 @@ Resources organized by keyword tags.
 ## ai
 
   - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
-  - [A misalignment of AI in mathematics](../ai/community/a-misalignment-of-ai-in-mathematics.md)
   - [How Trail of Bits helps verify the integrity of Signal chats](../ai/community/how-trail-of-bits-helps-verify-the-integrity-of-si.md)
   - [I fixed a tractor using John Deere's self-repair service. Farmers aren't sold](../ai/community/i-fixed-a-tractor-using-john-deere-s-self-repair-s.md)
   - [LG denies TV spying claims, says tracking and snooping concerns 'not true'](../ai/community/lg-denies-tv-spying-claims-says-tracking-and-snoop.md)
   - [Nvidia is the central bank of AI](../ai/community/nvidia-is-the-central-bank-of-ai.md)
+  - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](../ai/community/openai-s-sam-altman-says-it-would-be-ill-advised-t.md)
+  - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](../ai/community/real-swe-benchmarking-ai-models-on-private-real-wo.md)
   - [The worst spam emails: iLands AI agent hustle](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md)
 
 ## animation
@@ -14627,6 +14628,7 @@ Resources organized by keyword tags.
   - [Reading or Guessing? Visual Grounding Failures of Vision-Language Models for OCR in Ancient Greek Editions](../ai/research/arxiv-2605-27750.md)
   - [Reading the News: Adapting Large Language Models to Swedish Journalism Through Continued Pre-Training](../ai/research/arxiv-2608-30609.md)
   - [Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment](../ai/research/arxiv-2606-24851.md)
+  - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](../ai/community/real-swe-benchmarking-ai-models-on-private-real-wo.md)
   - [Real-Time Driver Safety Scoring Through Inverse Crash Probability Modeling](../ai/agents/arxiv-2603-14841.md)
   - [Real-Time Neuromorphic Spectrum Intelligence Simulator](../ai/agents/arxiv-2609-00585.md)
   - [Real-World Evaluation of an AI Agent Drafting Translational Impact Summaries](../ai/agents/arxiv-2607-16989.md)
@@ -25583,7 +25585,6 @@ Resources organized by keyword tags.
   - [A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection](../ai/research/arxiv-2608-20322.md)
   - [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](../ai/rag/arxiv-2607-24663.md)
   - [A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics](../ai/research/arxiv-2608-10235.md)
-  - [A misalignment of AI in mathematics](../ai/community/a-misalignment-of-ai-in-mathematics.md)
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
@@ -27702,6 +27703,7 @@ Resources organized by keyword tags.
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
+  - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](../ai/community/openai-s-sam-altman-says-it-would-be-ill-advised-t.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -28005,6 +28007,7 @@ Resources organized by keyword tags.
   - [ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](../ai/rag/arxiv-2606-13316.md)
   - [React](../ai/resources/react.md)
   - [Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment](../ai/research/arxiv-2606-24851.md)
+  - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](../ai/community/real-swe-benchmarking-ai-models-on-private-real-wo.md)
   - [Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval](../ai/rag/arxiv-2607-00448.md)
   - [Real-Time Monitoring of MHD Liquid Metal Flows with Shallow Recurrent Decoders](../ai/research/arxiv-2608-28366.md)
   - [Real-time Spatial Retrieval Augmented Generation for Urban Environments](../ai/rag/arxiv-2505-02271.md)
@@ -36534,6 +36537,7 @@ Resources organized by keyword tags.
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
+  - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](../ai/community/openai-s-sam-altman-says-it-would-be-ill-advised-t.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](../ai/rag/arxiv-2509-24900.md)
   - [OpenSanctions Pairs: Large-Scale Entity Matching with LLMs](../ai/research/arxiv-2603-11051.md)
@@ -61352,4 +61356,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-13T00:16:56.312098+05:30*
+*Index generated on 2026-09-13T04:10:23.538536+05:30*
