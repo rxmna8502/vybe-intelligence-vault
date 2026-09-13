@@ -1,19 +1,31 @@
 ---
-title: "BrokkAi/anvil"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Agent Client Protocol (ACP)", "JSON-RPC", "MCP (Model Context Protocol)", "WASM", "Homebrew", "crates.io"]
+title: BrokkAi/anvil
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Agent Client Protocol (ACP)
+- JSON-RPC
+- MCP (Model Context Protocol)
+- WASM
+- Homebrew
+- crates.io
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Agent Runtime", "Model Routing", "ACP Server", "Sandboxing", "MCP Integration"]
-source: "https://github.com/BrokkAi/anvil"
+deployment_complexity: Medium
+tags:
+- Agent Runtime
+- Model Routing
+- ACP Server
+- Sandboxing
+- MCP Integration
+source: https://github.com/BrokkAi/anvil
 stars: 6
-language: "Rust"
-last_updated: "2026-08-03T13:38:19Z"
-discovered_at: "2026-08-03T13:42:09Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-03T13:38:19Z'
+discovered_at: '2026-08-03T13:42:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

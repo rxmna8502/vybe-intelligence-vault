@@ -1,19 +1,32 @@
 ---
-title: "docdyhr/simplenote-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Docker", "Kubernetes", "Simplenote API", "AES-256-GCM (for encryption)", "Prometheus (for metrics)", "Helm (for Kubernetes deployments)"]
+title: docdyhr/simplenote-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Docker
+- Kubernetes
+- Simplenote API
+- AES-256-GCM (for encryption)
+- Prometheus (for metrics)
+- Helm (for Kubernetes deployments)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Note Management", "Claude Desktop Integration", "Encryption", "Simplenote"]
-source: "https://github.com/docdyhr/simplenote-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Note Management
+- Claude Desktop Integration
+- Encryption
+- Simplenote
+source: https://github.com/docdyhr/simplenote-mcp-server
 stars: 17
-language: "Python"
-last_updated: "2026-07-13T10:16:10Z"
-discovered_at: "2026-07-13T10:24:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T10:16:10Z'
+discovered_at: '2026-07-13T10:24:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

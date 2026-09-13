@@ -1,19 +1,32 @@
 ---
-title: "EGC-india/mirror-mind"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Next.js 15", "TypeScript", "Prisma", "PostgreSQL", "NextAuth.js", "Tailwind CSS", "Claude AI (claude-sonnet-4-6)", "Vercel"]
+title: EGC-india/mirror-mind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Next.js 15
+- TypeScript
+- Prisma
+- PostgreSQL
+- NextAuth.js
+- Tailwind CSS
+- Claude AI (claude-sonnet-4-6)
+- Vercel
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI journaling", "decision intelligence", "personal knowledge base", "cognitive twin", "reflective AI"]
-source: "https://github.com/EGC-india/mirror-mind"
+deployment_complexity: Medium
+tags:
+- AI journaling
+- decision intelligence
+- personal knowledge base
+- cognitive twin
+- reflective AI
+source: https://github.com/EGC-india/mirror-mind
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T17:47:30Z"
-discovered_at: "2026-08-04T17:49:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T17:47:30Z'
+discovered_at: '2026-08-04T17:49:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

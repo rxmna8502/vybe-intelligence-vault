@@ -1,19 +1,32 @@
 ---
-title: "kdcube/kdcube"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "REST APIs", "MCP (Model Context Protocol)", "OIDC", "Git", "Streaming protocols", "Isolated execution environments"]
+title: kdcube/kdcube
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Docker
+- REST APIs
+- MCP (Model Context Protocol)
+- OIDC
+- Git
+- Streaming protocols
+- Isolated execution environments
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI runtime", "agent orchestration", "self-hosted", "multi-user serving", "isolation"]
-source: "https://github.com/kdcube/kdcube"
+deployment_complexity: Medium
+tags:
+- AI runtime
+- agent orchestration
+- self-hosted
+- multi-user serving
+- isolation
+source: https://github.com/kdcube/kdcube
 stars: 14
-language: "Python"
-last_updated: "2026-08-02T11:52:11Z"
-discovered_at: "2026-08-02T12:02:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T11:52:11Z'
+discovered_at: '2026-08-02T12:02:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

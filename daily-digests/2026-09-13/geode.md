@@ -1,19 +1,32 @@
 ---
-title: "8thpark/geode"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Obsidian Plugin API", "MCP Server", "REST API", "GitHub Actions", "CodeQL", "Dependabot"]
+title: 8thpark/geode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Obsidian Plugin API
+- MCP Server
+- REST API
+- GitHub Actions
+- CodeQL
+- Dependabot
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Obsidian", "remote sync", "MCP server", "agent integration", "encryption"]
-source: "https://github.com/8thpark/geode"
+deployment_complexity: Medium
+tags:
+- Obsidian
+- remote sync
+- MCP server
+- agent integration
+- encryption
+source: https://github.com/8thpark/geode
 stars: 32
-language: "TypeScript"
-last_updated: "2026-08-02T10:39:55Z"
-discovered_at: "2026-08-02T10:41:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T10:39:55Z'
+discovered_at: '2026-08-02T10:41:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

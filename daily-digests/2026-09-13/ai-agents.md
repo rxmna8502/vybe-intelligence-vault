@@ -1,19 +1,30 @@
 ---
-title: "hard-suturasagittalis344/AI-Agents"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "Groq", "DuckDuckGo", "Streamlit"]
+title: hard-suturasagittalis344/AI-Agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- Groq
+- DuckDuckGo
+- Streamlit
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["AI agents", "tool-use", "ReAct pattern", "Windows application", "beginner-friendly"]
-source: "https://github.com/hard-suturasagittalis344/AI-Agents"
+deployment_complexity: Low
+tags:
+- AI agents
+- tool-use
+- ReAct pattern
+- Windows application
+- beginner-friendly
+source: https://github.com/hard-suturasagittalis344/AI-Agents
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T11:00:22Z"
-discovered_at: "2026-07-11T11:03:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T11:00:22Z'
+discovered_at: '2026-07-11T11:03:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

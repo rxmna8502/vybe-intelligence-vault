@@ -1,19 +1,29 @@
 ---
-title: "saturnone1/vs_2022_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 9", "Visual Studio SDK", "Model Context Protocol (MCP)", "VSIX packaging"]
+title: saturnone1/vs_2022_mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- C#
+- .NET 9
+- Visual Studio SDK
+- Model Context Protocol (MCP)
+- VSIX packaging
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Visual Studio", "MCP Server", "AI IDE Integration", "Code Automation", "Debugging Tools"]
-source: "https://github.com/saturnone1/vs_2022_mcp"
+deployment_complexity: Medium
+tags:
+- Visual Studio
+- MCP Server
+- AI IDE Integration
+- Code Automation
+- Debugging Tools
+source: https://github.com/saturnone1/vs_2022_mcp
 stars: 0
-language: "C#"
-last_updated: "2026-08-07T15:57:48Z"
-discovered_at: "2026-08-07T16:02:40Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T15:57:48Z'
+discovered_at: '2026-08-07T16:02:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

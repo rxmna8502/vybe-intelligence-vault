@@ -1,19 +1,34 @@
 ---
-title: "callibrity/mocapi"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Java 25+", "Spring Boot 4", "Maven 3.9+", "Model Context Protocol (MCP) 2026-07-28", "Micrometer Observation", "SLF4J", "Jakarta Bean Validation", "Spring Security", "GraalVM", "OpenTelemetry"]
+title: callibrity/mocapi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Java 25+
+- Spring Boot 4
+- Maven 3.9+
+- Model Context Protocol (MCP) 2026-07-28
+- Micrometer Observation
+- SLF4J
+- Jakarta Bean Validation
+- Spring Security
+- GraalVM
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Spring Boot", "Java", "Stateless", "Observability"]
-source: "https://github.com/callibrity/mocapi"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Spring Boot
+- Java
+- Stateless
+- Observability
+source: https://github.com/callibrity/mocapi
 stars: 0
-language: "Java"
-last_updated: "2026-08-01T16:01:50Z"
-discovered_at: "2026-08-01T16:06:58Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-01T16:01:50Z'
+discovered_at: '2026-08-01T16:06:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

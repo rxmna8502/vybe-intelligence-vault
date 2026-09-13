@@ -1,19 +1,31 @@
 ---
-title: "RFingAdam/mcp-openems"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "openEMS", "FDTD (Finite-Difference Time-Domain)", "CSXCAD", "NumPy", "Matplotlib"]
+title: RFingAdam/mcp-openems
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- openEMS
+- FDTD (Finite-Difference Time-Domain)
+- CSXCAD
+- NumPy
+- Matplotlib
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["antenna design", "RF simulation", "FDTD", "openEMS", "MCP server"]
-source: "https://github.com/RFingAdam/mcp-openems"
+deployment_complexity: Medium
+tags:
+- antenna design
+- RF simulation
+- FDTD
+- openEMS
+- MCP server
+source: https://github.com/RFingAdam/mcp-openems
 stars: 4
-language: "Python"
-last_updated: "2026-08-10T15:04:09Z"
-discovered_at: "2026-08-10T15:04:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T15:04:09Z'
+discovered_at: '2026-08-10T15:04:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

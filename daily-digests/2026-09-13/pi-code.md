@@ -1,19 +1,30 @@
 ---
-title: "ilovepixelart/pi-code"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "Git", "MCP (Model Context Protocol)", "DuckDuckGo Web Search"]
+title: ilovepixelart/pi-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- Git
+- MCP (Model Context Protocol)
+- DuckDuckGo Web Search
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Claude Code", "pi coding agent", "MCP integration", "AI development tools", "configuration management"]
-source: "https://github.com/ilovepixelart/pi-code"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- pi coding agent
+- MCP integration
+- AI development tools
+- configuration management
+source: https://github.com/ilovepixelart/pi-code
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-07T08:10:04Z"
-discovered_at: "2026-08-07T08:16:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T08:10:04Z'
+discovered_at: '2026-08-07T08:16:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

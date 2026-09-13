@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 52, Downloads: 1209342)
+Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 53, Downloads: 1209342)
 
 ## Use Cases
 

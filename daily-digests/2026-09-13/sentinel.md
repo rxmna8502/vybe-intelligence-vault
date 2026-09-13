@@ -1,19 +1,33 @@
 ---
-title: "marcuspat/Sentinel"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "ratatui", "clap", "tokio", "serde", "sha2", "rcgen", "rustls", "LLM backends (Anthropic, OpenAI, Ollama)"]
+title: marcuspat/Sentinel
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- ratatui
+- clap
+- tokio
+- serde
+- sha2
+- rcgen
+- rustls
+- LLM backends (Anthropic, OpenAI, Ollama)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agentic systems", "audit logging", "policy engine", "system administration", "LLM safety"]
-source: "https://github.com/marcuspat/Sentinel"
+deployment_complexity: Medium
+tags:
+- agentic systems
+- audit logging
+- policy engine
+- system administration
+- LLM safety
+source: https://github.com/marcuspat/Sentinel
 stars: 0
-language: "Rust"
-last_updated: "2026-08-08T22:22:36Z"
-discovered_at: "2026-08-08T22:31:53Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T22:22:36Z'
+discovered_at: '2026-08-08T22:31:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

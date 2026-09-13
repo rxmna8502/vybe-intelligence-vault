@@ -1,19 +1,33 @@
 ---
-title: "Staks-sor/ai-free"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Electron", "Playwright", "SQLite", "Chromium", "OpenAI API", "Anthropic API", "VS Code Extension"]
+title: Staks-sor/ai-free
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- JavaScript
+- Node.js
+- Electron
+- Playwright
+- SQLite
+- Chromium
+- OpenAI API
+- Anthropic API
+- VS Code Extension
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local AI client", "code agent", "memory management", "IDE integration", "multi-provider support"]
-source: "https://github.com/Staks-sor/ai-free"
+deployment_complexity: Medium
+tags:
+- local AI client
+- code agent
+- memory management
+- IDE integration
+- multi-provider support
+source: https://github.com/Staks-sor/ai-free
 stars: 122
-language: "JavaScript"
-last_updated: "2026-07-11T09:19:19Z"
-discovered_at: "2026-07-11T09:27:19Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-11T09:19:19Z'
+discovered_at: '2026-07-11T09:27:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

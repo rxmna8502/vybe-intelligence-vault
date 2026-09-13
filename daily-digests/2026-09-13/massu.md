@@ -1,19 +1,33 @@
 ---
-title: "massu-ai/massu"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "YAML", "Claude Code", "Prisma", "tRPC", "Next.js", "Supabase"]
+title: massu-ai/massu
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- YAML
+- Claude Code
+- Prisma
+- tRPC
+- Next.js
+- Supabase
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI governance", "session memory", "code intelligence", "feature registry", "observability"]
-source: "https://github.com/massu-ai/massu"
+deployment_complexity: Medium
+tags:
+- AI governance
+- session memory
+- code intelligence
+- feature registry
+- observability
+source: https://github.com/massu-ai/massu
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-07T23:29:21Z"
-discovered_at: "2026-08-07T23:36:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T23:29:21Z'
+discovered_at: '2026-08-07T23:36:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

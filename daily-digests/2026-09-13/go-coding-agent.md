@@ -1,19 +1,29 @@
 ---
-title: "mctang24/go-coding-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "DeepSeek API", "Ripgrep (rg)", "JSONL", "CLI/TTY"]
+title: mctang24/go-coding-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- DeepSeek API
+- Ripgrep (rg)
+- JSONL
+- CLI/TTY
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "harness", "context management", "safety boundaries", "tool calling"]
-source: "https://github.com/mctang24/go-coding-agent"
+deployment_complexity: Medium
+tags:
+- coding agent
+- harness
+- context management
+- safety boundaries
+- tool calling
+source: https://github.com/mctang24/go-coding-agent
 stars: 0
-language: "Go"
-last_updated: "2026-08-05T11:12:37Z"
-discovered_at: "2026-08-05T11:22:20Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-05T11:12:37Z'
+discovered_at: '2026-08-05T11:22:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "yiyan-yixing/researcher-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Markdown", "Shell Scripting", "Agent-based Automation"]
+title: yiyan-yixing/researcher-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Claude Code
+- Markdown
+- Shell Scripting
+- Agent-based Automation
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["research automation", "agent skills", "workflow optimization", "knowledge distillation", "experiment design"]
-source: "https://github.com/yiyan-yixing/researcher-skills"
+deployment_complexity: Medium
+tags:
+- research automation
+- agent skills
+- workflow optimization
+- knowledge distillation
+- experiment design
+source: https://github.com/yiyan-yixing/researcher-skills
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T16:08:02Z"
-discovered_at: "2026-08-02T16:11:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T16:08:02Z'
+discovered_at: '2026-08-02T16:11:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

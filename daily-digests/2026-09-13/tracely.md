@@ -1,19 +1,34 @@
 ---
-title: "Jwuthri/Tracely"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Next.js", "ClickHouse", "PostgreSQL", "Redis", "Celery", "OTLP", "Docker", "Docker Compose"]
+title: Jwuthri/Tracely
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- ClickHouse
+- PostgreSQL
+- Redis
+- Celery
+- OTLP
+- Docker
+- Docker Compose
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent observability", "regression testing", "CI/CD for AI", "failure detection", "hermetic replay"]
-source: "https://github.com/Jwuthri/Tracely"
+deployment_complexity: Medium
+tags:
+- AI agent observability
+- regression testing
+- CI/CD for AI
+- failure detection
+- hermetic replay
+source: https://github.com/Jwuthri/Tracely
 stars: 373
-language: "Python"
-last_updated: "2026-08-05T21:06:44Z"
-discovered_at: "2026-08-05T22:15:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T21:06:44Z'
+discovered_at: '2026-08-05T22:15:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

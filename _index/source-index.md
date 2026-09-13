@@ -23936,7 +23936,7 @@ Resources organized by publisher feed and query sources.
   - [ilexistools/agents-sdk-templates](../ai/agents/ilexistools-agents-sdk-templates.md)
   - [imadmaalouf02/RAG](../ai/rag/imadmaalouf02-rag.md)
   - [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
-  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow-2.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [interviewstreet/hiring-agent](../ai/agents/interviewstreet-hiring-agent.md)
   - [ipython/ipyparallel](../ai/resources/ipython-ipyparallel.md)
@@ -24350,10 +24350,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AgentsDock: An IDE designed for agentic AI research](../ai/community/agentsdock-an-ide-designed-for-agentic-ai-research.md)
-  - [Everyone should slow down AI development except for me](../ai/community/everyone-should-slow-down-ai-development-except-fo.md)
-  - [LG denies TV spying claims, says tracking and snooping concerns 'not true'](../ai/community/lg-denies-tv-spying-claims-says-tracking-and-snoop.md)
-  - [Nvidia is the central bank of AI](../ai/community/nvidia-is-the-central-bank-of-ai.md)
+  - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](../ai/community/david-sacks-openai-and-anthropic-don-t-need-regula.md)
+  - [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](../ai/community/garry-tan-wants-us-open-weight-ai-labs-to-distill.md)
+  - [Sean Carroll explains the biggest ideas in the universe – Full Interview [video]](../ai/community/youtube-tbnjyztai0.md)
   - [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](../ai/community/feralfirmware-tailtalk.md)
   - [Why are AI agents lying, cheating and coordinating?](../ai/community/why-are-ai-agents-lying-cheating-and-coordinating.md)
 
@@ -25455,7 +25454,6 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -26805,7 +26803,6 @@ Resources organized by publisher feed and query sources.
   - [Licences and regulators when holding money as Interest and Stocks | Wise Help Centre](../ai/resources/licences-and-regulators-when-holding-money-as-inte.md)
   - [Licenses List - Creative Commons](../ai/resources/licenses-list-creative-commons.md)
   - [Life and work - The State of Developer Ecosystem in 2025](../ai/resources/life-and-work-the-state-of-developer-ecosystem-in.md)
-  - [LightRAG](../ai/rag/lightrag.md)
   - [Lightbox2](../ai/resources/lightbox2.md)
   - [Lighthouse | Chrome for Developers](../ai/resources/lighthouse-chrome-for-developers.md)
   - [Lightweight Cryptography | CSRC](../ai/rag/lightweight-cryptography-csrc.md)
@@ -27206,9 +27203,7 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
-  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
-  - [RAG GitHub Repos Gaining Traction — 2026 | GitTrend](../ai/rag/rag-github-repos-gaining-traction-2026-gittrend.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
@@ -27568,7 +27563,6 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
-  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -27608,7 +27602,6 @@ Resources organized by publisher feed and query sources.
   - [The Sovereign AI Platform for Agents](../ai/rag/the-sovereign-ai-platform-for-agents.md)
   - [The Stack Overflow Blog - Stack Overflow](../ai/rag/the-stack-overflow-blog-stack-overflow.md)
   - [The Synack Red Team | Synack](../ai/rag/the-synack-red-team-synack.md)
-  - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Wayback Machine – Internet Archive Help Center](../ai/resources/the-wayback-machine-internet-archive-help-center.md)
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
@@ -27632,7 +27625,6 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
-  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -28224,4 +28216,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-13T19:10:23.639670+05:30*
+*Index generated on 2026-09-14T00:39:23.367648+05:30*

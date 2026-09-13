@@ -1,19 +1,31 @@
 ---
-title: "berntpopp/uniprot-link"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.12+", "FastAPI", "SPARQL 1.1", "QLever", "MCP (Model Context Protocol)", "Docker", "GitHub Actions"]
+title: berntpopp/uniprot-link
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Python 3.12+
+- FastAPI
+- SPARQL 1.1
+- QLever
+- MCP (Model Context Protocol)
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["protein data", "SPARQL", "MCP server", "UniProt", "biomedical AI"]
-source: "https://github.com/berntpopp/uniprot-link"
+deployment_complexity: Medium
+tags:
+- protein data
+- SPARQL
+- MCP server
+- UniProt
+- biomedical AI
+source: https://github.com/berntpopp/uniprot-link
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T19:08:09Z"
-discovered_at: "2026-07-19T19:13:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T19:08:09Z'
+discovered_at: '2026-07-19T19:13:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "rachitkumarrastogi/unity-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Unity", "NPM"]
+title: rachitkumarrastogi/unity-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Unity
+- NPM
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Unity", "MCP Server", "AI Integration", "Project Analysis", "IDE Tooling"]
-source: "https://github.com/rachitkumarrastogi/unity-mcp-server"
+deployment_complexity: Low
+tags:
+- Unity
+- MCP Server
+- AI Integration
+- Project Analysis
+- IDE Tooling
+source: https://github.com/rachitkumarrastogi/unity-mcp-server
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-04T17:45:39Z"
-discovered_at: "2026-08-04T17:51:01Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T17:45:39Z'
+discovered_at: '2026-08-04T17:51:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

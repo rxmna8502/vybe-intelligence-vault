@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
 hn_url: https://news.ycombinator.com/item?id=49678969
-score: 346
+score: 507
 author: jonifico
-comments_count: 407
+comments_count: 589
 published_at: '2026-09-13T06:52:31+05:30'
-collected_at: '2026-09-13T18:54:02.841336+05:30'
+collected_at: '2026-09-14T00:23:06.678034+05:30'
 tags:
 - agents
 - ai
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:why-are-ai-agents-lying-cheating-and-coordinating
 first_seen: '2026-09-13T18:54:02.841336+05:30'
-last_seen: '2026-09-13T18:54:02.841336+05:30'
-last_checked: '2026-09-13T18:54:02.841336+05:30'
+last_seen: '2026-09-14T00:23:06.678034+05:30'
+last_checked: '2026-09-14T00:23:06.678034+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by jonifico. Score: 346, Comments: 407.
+Hacker News story by jonifico. Score: 507, Comments: 589.
 Original Link: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: jonifico
-- Score: 346 Upvotes
-- Comments: 407 Discussions
+- Score: 507 Upvotes
+- Comments: 589 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49678969
 - Original Article: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
 

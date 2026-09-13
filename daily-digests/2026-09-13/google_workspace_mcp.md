@@ -1,19 +1,32 @@
 ---
-title: "taylorwilsdon/google_workspace_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "OAuth 2.1", "Google Workspace APIs", "CLI", "HTTP/Streamable Transport", "Docker", "OpenTelemetry (optional)"]
+title: taylorwilsdon/google_workspace_mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastMCP
+- OAuth 2.1
+- Google Workspace APIs
+- CLI
+- HTTP/Streamable Transport
+- Docker
+- OpenTelemetry (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Google Workspace", "MCP Server", "AI Integration", "OAuth 2.1", "Automation"]
-source: "https://github.com/taylorwilsdon/google_workspace_mcp"
+deployment_complexity: Medium
+tags:
+- Google Workspace
+- MCP Server
+- AI Integration
+- OAuth 2.1
+- Automation
+source: https://github.com/taylorwilsdon/google_workspace_mcp
 stars: 2956
-language: "Python"
-last_updated: "2026-08-02T20:44:29Z"
-discovered_at: "2026-08-02T20:54:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T20:44:29Z'
+discovered_at: '2026-08-02T20:54:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

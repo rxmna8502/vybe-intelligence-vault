@@ -1,19 +1,34 @@
 ---
-title: "mountainowl/bubo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LLM (Codex, Claude, etc.)", "GitLab API", "GitHub API", "Docker", "PostgreSQL", "OpenTelemetry", "Sigstore (cosign)", "Ruff", "uv (package manager)"]
+title: mountainowl/bubo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- LLM (Codex, Claude, etc.)
+- GitLab API
+- GitHub API
+- Docker
+- PostgreSQL
+- OpenTelemetry
+- Sigstore (cosign)
+- Ruff
+- uv (package manager)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["code review", "self-hosted", "LLM integration", "GitLab", "GitHub"]
-source: "https://github.com/mountainowl/bubo"
+deployment_complexity: Medium
+tags:
+- code review
+- self-hosted
+- LLM integration
+- GitLab
+- GitHub
+source: https://github.com/mountainowl/bubo
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T22:02:13Z"
-discovered_at: "2026-08-03T22:10:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T22:02:13Z'
+discovered_at: '2026-08-03T22:10:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

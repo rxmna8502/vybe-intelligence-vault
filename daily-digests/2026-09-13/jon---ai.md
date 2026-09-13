@@ -1,19 +1,35 @@
 ---
-title: "Lightning702/Jon---AI"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Electron", "React", "TypeScript", "Ollama", "LM Studio", "Whisper", "SQLite", "WebRTC", "WebGL"]
+title: Lightning702/Jon---AI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- Electron
+- React
+- TypeScript
+- Ollama
+- LM Studio
+- Whisper
+- SQLite
+- WebRTC
+- WebGL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI desktop assistant", "multi-provider LLM", "system automation", "local AI", "voice control"]
-source: "https://github.com/Lightning702/Jon---AI"
+deployment_complexity: Medium
+tags:
+- AI desktop assistant
+- multi-provider LLM
+- system automation
+- local AI
+- voice control
+source: https://github.com/Lightning702/Jon---AI
 stars: 1
-language: "C++"
-last_updated: "2026-08-07T11:47:25Z"
-discovered_at: "2026-08-07T11:56:19Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-07T11:47:25Z'
+discovered_at: '2026-08-07T11:56:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

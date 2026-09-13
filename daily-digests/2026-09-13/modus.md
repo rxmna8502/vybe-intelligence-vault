@@ -1,19 +1,34 @@
 ---
-title: "brandlll-lee/modus"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "React", "TypeScript", "Tailwind CSS", "Rust", "Node.js", "Monaco Editor", "xterm.js", "SQLite", "MCP SDK"]
+title: brandlll-lee/modus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Tailwind CSS
+- Rust
+- Node.js
+- Monaco Editor
+- xterm.js
+- SQLite
+- MCP SDK
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "AI coding agents", "desktop workspace", "model integration", "development environment"]
-source: "https://github.com/brandlll-lee/modus"
+deployment_complexity: Medium
+tags:
+- local-first
+- AI coding agents
+- desktop workspace
+- model integration
+- development environment
+source: https://github.com/brandlll-lee/modus
 stars: 25
-language: "TypeScript"
-last_updated: "2026-08-09T20:34:45Z"
-discovered_at: "2026-08-09T20:35:32Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T20:34:45Z'
+discovered_at: '2026-08-09T20:35:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

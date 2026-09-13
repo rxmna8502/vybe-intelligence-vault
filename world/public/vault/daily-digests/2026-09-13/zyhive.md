@@ -1,19 +1,38 @@
 ---
-title: "Zyling-ai/ZyHive"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Vue 3", "JavaScript", "TypeScript", "Bash", "Docker", "WebSocket", "SSE (Server-Sent Events)", "SQLite", "Vector DB (for memory search)", "LLM Providers (OpenAI, Anthropic, DeepSeek, etc.)", "Telegram Bot API", "Feishu (Lark) API", "Rod (Browser Automation)"]
+title: Zyling-ai/ZyHive
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Go
+- Vue 3
+- JavaScript
+- TypeScript
+- Bash
+- Docker
+- WebSocket
+- SSE (Server-Sent Events)
+- SQLite
+- Vector DB (for memory search)
+- LLM Providers (OpenAI, Anthropic, DeepSeek, etc.)
+- Telegram Bot API
+- Feishu (Lark) API
+- Rod (Browser Automation)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "AI team management", "self-hosted", "agent collaboration", "memory system"]
-source: "https://github.com/Zyling-ai/ZyHive"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- AI team management
+- self-hosted
+- agent collaboration
+- memory system
+source: https://github.com/Zyling-ai/ZyHive
 stars: 19
-language: "Go"
-last_updated: "2026-08-01T19:14:47Z"
-discovered_at: "2026-08-01T19:19:03Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T19:14:47Z'
+discovered_at: '2026-08-01T19:19:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

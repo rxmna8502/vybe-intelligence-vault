@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/feralfirmware/tailtalk
 hn_url: https://news.ycombinator.com/item?id=49678423
-score: 7
+score: 54
 author: zdw
-comments_count: 0
+comments_count: 13
 published_at: '2026-09-13T05:13:31+05:30'
-collected_at: '2026-09-13T18:54:03.003746+05:30'
+collected_at: '2026-09-14T00:23:07.215902+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:feralfirmware/tailtalk
 first_seen: '2026-09-13T18:54:03.003746+05:30'
-last_seen: '2026-09-13T18:54:03.003746+05:30'
-last_checked: '2026-09-13T18:54:03.003746+05:30'
+last_seen: '2026-09-14T00:23:07.215902+05:30'
+last_checked: '2026-09-14T00:23:07.215902+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by zdw. Score: 7, Comments: 0.
+Hacker News story by zdw. Score: 54, Comments: 13.
 Original Link: https://github.com/FeralFirmware/TailTalk/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: zdw
-- Score: 7 Upvotes
-- Comments: 0 Discussions
+- Score: 54 Upvotes
+- Comments: 13 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49678423
 - Original Article: https://github.com/feralfirmware/tailtalk
 

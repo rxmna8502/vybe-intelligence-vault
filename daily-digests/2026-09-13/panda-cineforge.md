@@ -1,19 +1,34 @@
 ---
-title: "geniusdapeng-collab/panda-cineforge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "PostgreSQL", "Docker", "Node.js", "MCP (Model Context Protocol)", "DSL (Domain-Specific Language)", "Vector Search", "Agent Orchestration", "CI/CD Pipelines"]
+title: geniusdapeng-collab/panda-cineforge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Python
+- PostgreSQL
+- Docker
+- Node.js
+- MCP (Model Context Protocol)
+- DSL (Domain-Specific Language)
+- Vector Search
+- Agent Orchestration
+- CI/CD Pipelines
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Agents", "Film Production", "Skill Generation", "Automation", "Video Editing"]
-source: "https://github.com/geniusdapeng-collab/panda-cineforge"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- Film Production
+- Skill Generation
+- Automation
+- Video Editing
+source: https://github.com/geniusdapeng-collab/panda-cineforge
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:37:32Z"
-discovered_at: "2026-09-01T02:51:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:37:32Z'
+discovered_at: '2026-09-01T02:51:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

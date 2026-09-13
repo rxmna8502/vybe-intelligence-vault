@@ -1,19 +1,28 @@
 ---
-title: "pipeworx-io/mcp-yc-rejection"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "StupidAPIs", "REST API"]
+title: pipeworx-io/mcp-yc-rejection
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- StupidAPIs
+- REST API
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["MCP", "YC Rejection", "Startup Data", "AI Tooling", "Pipeworx"]
-source: "https://github.com/pipeworx-io/mcp-yc-rejection"
+deployment_complexity: Low
+tags:
+- MCP
+- YC Rejection
+- Startup Data
+- AI Tooling
+- Pipeworx
+source: https://github.com/pipeworx-io/mcp-yc-rejection
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T07:32:44Z"
-discovered_at: "2026-08-04T07:41:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:32:44Z'
+discovered_at: '2026-08-04T07:41:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

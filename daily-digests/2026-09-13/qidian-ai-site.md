@@ -1,19 +1,27 @@
 ---
-title: "yyh19930816-prog/qidian-ai-site"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["HTML", "JavaScript", "CSS"]
+title: yyh19930816-prog/qidian-ai-site
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- HTML
+- JavaScript
+- CSS
 quality_score: 4
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["enterprise AI", "RAG", "AI agents", "GEO", "company showcase"]
-source: "https://github.com/yyh19930816-prog/qidian-ai-site"
+deployment_complexity: Low
+tags:
+- enterprise AI
+- RAG
+- AI agents
+- GEO
+- company showcase
+source: https://github.com/yyh19930816-prog/qidian-ai-site
 stars: 0
-language: "HTML"
-last_updated: "2026-07-15T22:59:40Z"
-discovered_at: "2026-07-15T23:02:12Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-15T22:59:40Z'
+discovered_at: '2026-07-15T23:02:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

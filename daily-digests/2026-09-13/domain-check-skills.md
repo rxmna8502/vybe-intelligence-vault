@@ -1,19 +1,32 @@
 ---
-title: "seomarlboro/domain-check-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "RDAP", "DNS-over-HTTPS", "Fastly Domain Research", "Supabase Functions", "OpenAPI"]
+title: seomarlboro/domain-check-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- RDAP
+- DNS-over-HTTPS
+- Fastly Domain Research
+- Supabase Functions
+- OpenAPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["domain availability", "MCP server", "registrar pricing", "AI tool integration", "multi-TLD checker"]
-source: "https://github.com/seomarlboro/domain-check-skills"
+deployment_complexity: Low
+tags:
+- domain availability
+- MCP server
+- registrar pricing
+- AI tool integration
+- multi-TLD checker
+source: https://github.com/seomarlboro/domain-check-skills
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-07T21:35:48Z"
-discovered_at: "2026-08-07T21:41:21Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T21:35:48Z'
+discovered_at: '2026-08-07T21:41:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "david-darr/jarvis-app"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Electron", "Node.js", "SQLite", "Markdown", "Ollama", "llama.cpp", "Tailscale", "bcrypt", "TOTP"]
+title: david-darr/jarvis-app
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- Electron
+- Node.js
+- SQLite
+- Markdown
+- Ollama
+- llama.cpp
+- Tailscale
+- bcrypt
+- TOTP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted", "agent framework", "local AI", "markdown memory", "automation"]
-source: "https://github.com/david-darr/jarvis-app"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- agent framework
+- local AI
+- markdown memory
+- automation
+source: https://github.com/david-darr/jarvis-app
 stars: 0
-language: "Python"
-last_updated: "2026-09-04T02:02:57Z"
-discovered_at: "2026-09-04T02:14:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T02:02:57Z'
+discovered_at: '2026-09-04T02:14:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

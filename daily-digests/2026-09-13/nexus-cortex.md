@@ -1,19 +1,32 @@
 ---
-title: "Spitfire-Products/nexus-cortex"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "REST API", "CLI", "MCP (Model Context Protocol)", "JSONL", "Git", "Docker"]
+title: Spitfire-Products/nexus-cortex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- REST API
+- CLI
+- MCP (Model Context Protocol)
+- JSONL
+- Git
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-provider", "agent harness", "headless", "stateful server", "portable memory"]
-source: "https://github.com/Spitfire-Products/nexus-cortex"
+deployment_complexity: Medium
+tags:
+- multi-provider
+- agent harness
+- headless
+- stateful server
+- portable memory
+source: https://github.com/Spitfire-Products/nexus-cortex
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T20:53:00Z"
-discovered_at: "2026-08-02T20:54:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T20:53:00Z'
+discovered_at: '2026-08-02T20:54:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

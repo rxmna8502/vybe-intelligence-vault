@@ -1,19 +1,33 @@
 ---
-title: "ArtificialAnalysis/Stirrup"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Pydantic", "Asyncio", "Docker", "E2B Sandbox", "MCP (Model Context Protocol)", "LiteLLM", "MkDocs", "OpenAI-compatible APIs"]
+title: ArtificialAnalysis/Stirrup
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Pydantic
+- Asyncio
+- Docker
+- E2B Sandbox
+- MCP (Model Context Protocol)
+- LiteLLM
+- MkDocs
+- OpenAI-compatible APIs
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent-framework", "model-centric", "tool-integration", "context-management", "modular"]
-source: "https://github.com/ArtificialAnalysis/Stirrup"
+deployment_complexity: Medium
+tags:
+- agent-framework
+- model-centric
+- tool-integration
+- context-management
+- modular
+source: https://github.com/ArtificialAnalysis/Stirrup
 stars: 532
-language: "Python"
-last_updated: "2026-08-03T21:59:45Z"
-discovered_at: "2026-08-03T22:09:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T21:59:45Z'
+discovered_at: '2026-08-03T22:09:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "bzdOS/hubd"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Markdown", "JSONL", "CLI", "Git"]
+title: bzdOS/hubd
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Markdown
+- JSONL
+- CLI
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["project tracking", "AI agent coordination", "plain files", "task management", "MCP server"]
-source: "https://github.com/bzdOS/hubd"
+deployment_complexity: Medium
+tags:
+- project tracking
+- AI agent coordination
+- plain files
+- task management
+- MCP server
+source: https://github.com/bzdOS/hubd
 stars: 2
-language: "JavaScript"
-last_updated: "2026-09-02T02:00:32Z"
-discovered_at: "2026-09-02T02:14:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T02:00:32Z'
+discovered_at: '2026-09-02T02:14:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

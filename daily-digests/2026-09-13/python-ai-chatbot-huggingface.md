@@ -1,19 +1,28 @@
 ---
-title: "ibrahima0101/python-ai-chatbot-huggingface"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Hugging Face Transformers", "Gradio", "Docker (optional)"]
+title: ibrahima0101/python-ai-chatbot-huggingface
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Hugging Face Transformers
+- Gradio
+- Docker (optional)
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["local LLM", "chatbot interface", "Hugging Face", "Gradio", "experimentation"]
-source: "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+deployment_complexity: Low
+tags:
+- local LLM
+- chatbot interface
+- Hugging Face
+- Gradio
+- experimentation
+source: https://github.com/ibrahima0101/python-ai-chatbot-huggingface
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T12:05:59Z"
-discovered_at: "2026-08-07T13:03:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T12:05:59Z'
+discovered_at: '2026-08-07T13:03:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

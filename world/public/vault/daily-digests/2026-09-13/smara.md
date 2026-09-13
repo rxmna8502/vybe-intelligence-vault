@@ -1,19 +1,29 @@
 ---
-title: "jefffergunson118-beep/smara"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Local Vector Database", "MCP Server", "Windows Application", "Python (implied)", "SQLite (implied)"]
+title: jefffergunson118-beep/smara
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Local Vector Database
+- MCP Server
+- Windows Application
+- Python (implied)
+- SQLite (implied)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["persistent memory", "local vector DB", "AI tool integration", "context retention", "privacy-focused"]
-source: "https://github.com/jefffergunson118-beep/smara"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- local vector DB
+- AI tool integration
+- context retention
+- privacy-focused
+source: https://github.com/jefffergunson118-beep/smara
 stars: 1
-language: "None"
-last_updated: "2026-08-07T09:39:28Z"
-discovered_at: "2026-08-07T10:05:41Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T09:39:28Z'
+discovered_at: '2026-08-07T10:05:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

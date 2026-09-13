@@ -1,19 +1,31 @@
 ---
-title: "NotNull92/workforge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["PowerShell", "Model Context Protocol (MCP)", "Windows OS", "Git", "SHA-256", "Node.js", "WinGet"]
+title: NotNull92/workforge-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- PowerShell
+- Model Context Protocol (MCP)
+- Windows OS
+- Git
+- SHA-256
+- Node.js
+- WinGet
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP", "Windows automation", "AI workspace interaction", "Git integration", "PowerShell supervision"]
-source: "https://github.com/NotNull92/workforge-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- Windows automation
+- AI workspace interaction
+- Git integration
+- PowerShell supervision
+source: https://github.com/NotNull92/workforge-mcp
 stars: 0
-language: "PowerShell"
-last_updated: "2026-08-07T02:40:58Z"
-discovered_at: "2026-08-07T02:41:22Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-08-07T02:40:58Z'
+discovered_at: '2026-08-07T02:41:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

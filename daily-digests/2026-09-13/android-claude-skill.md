@@ -1,19 +1,34 @@
 ---
-title: "rinkuniks/android-claude-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Kotlin", "Jetpack Compose", "Android", "Hilt", "Room", "Retrofit", "Kotlin Coroutines", "Kotlin Flow", "Gradle", "Python"]
+title: rinkuniks/android-claude-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Kotlin
+- Jetpack Compose
+- Android
+- Hilt
+- Room
+- Retrofit
+- Kotlin Coroutines
+- Kotlin Flow
+- Gradle
+- Python
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Android development", "Claude Code skill", "code audit", "Jetpack Compose", "Clean Architecture"]
-source: "https://github.com/rinkuniks/android-claude-skill"
+deployment_complexity: Low
+tags:
+- Android development
+- Claude Code skill
+- code audit
+- Jetpack Compose
+- Clean Architecture
+source: https://github.com/rinkuniks/android-claude-skill
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T16:52:05Z"
-discovered_at: "2026-08-07T16:57:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T16:52:05Z'
+discovered_at: '2026-08-07T16:57:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "aashutosh396/mindpalace"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Max API", "Discord API", "SQLite", "Fast Text Search (FTS)", "CLI", "Systemd/Launchd (for service management)", "Git"]
+title: aashutosh396/mindpalace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Claude Max API
+- Discord API
+- SQLite
+- Fast Text Search (FTS)
+- CLI
+- Systemd/Launchd (for service management)
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-learning agent", "personal AI assistant", "Claude Max integration", "Discord bot", "knowledge vault"]
-source: "https://github.com/aashutosh396/mindpalace"
+deployment_complexity: Medium
+tags:
+- self-learning agent
+- personal AI assistant
+- Claude Max integration
+- Discord bot
+- knowledge vault
+source: https://github.com/aashutosh396/mindpalace
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T16:51:12Z"
-discovered_at: "2026-07-11T16:55:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T16:51:12Z'
+discovered_at: '2026-07-11T16:55:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

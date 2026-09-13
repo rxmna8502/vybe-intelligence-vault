@@ -1,19 +1,37 @@
 ---
-title: "pratyushpad/Lumina"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PostgreSQL + pgvector", "React", "TypeScript", "Sentence Transformers", "BM25 (rank-bm25)", "Cross-Encoder Reranker", "Docker", "Vite", "Tailwind CSS", "Zustand", "TanStack Query"]
+title: pratyushpad/Lumina
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL + pgvector
+- React
+- TypeScript
+- Sentence Transformers
+- BM25 (rank-bm25)
+- Cross-Encoder Reranker
+- Docker
+- Vite
+- Tailwind CSS
+- Zustand
+- TanStack Query
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Multimodal RAG", "Hybrid Retrieval", "Pipeline Tracing", "Privacy-First", "Production-Grade"]
-source: "https://github.com/pratyushpad/Lumina"
+deployment_complexity: Medium
+tags:
+- Multimodal RAG
+- Hybrid Retrieval
+- Pipeline Tracing
+- Privacy-First
+- Production-Grade
+source: https://github.com/pratyushpad/Lumina
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T05:57:33Z"
-discovered_at: "2026-08-09T06:59:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T05:57:33Z'
+discovered_at: '2026-08-09T06:59:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "codecoradev/uteke"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "SQLite", "ONNX Runtime", "EmbeddingGemma", "HNSW", "FTS5", "JSON-RPC", "HTTP", "Docker"]
+title: codecoradev/uteke
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- SQLite
+- ONNX Runtime
+- EmbeddingGemma
+- HNSW
+- FTS5
+- JSON-RPC
+- HTTP
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["local-first", "semantic memory", "offline AI", "persistent context", "single binary"]
-source: "https://github.com/codecoradev/uteke"
+deployment_complexity: Low
+tags:
+- local-first
+- semantic memory
+- offline AI
+- persistent context
+- single binary
+source: https://github.com/codecoradev/uteke
 stars: 178
-language: "Rust"
-last_updated: "2026-08-05T02:15:35Z"
-discovered_at: "2026-08-05T02:17:16Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T02:15:35Z'
+discovered_at: '2026-08-05T02:17:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

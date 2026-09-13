@@ -1,19 +1,33 @@
 ---
-title: "peintune/runjam"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Tauri 2", "Rust", "Vue 3", "TypeScript", "SQLite", "Monaco Editor", "xterm.js", "llama.cpp", "Tailwind CSS"]
+title: peintune/runjam
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Tauri 2
+- Rust
+- Vue 3
+- TypeScript
+- SQLite
+- Monaco Editor
+- xterm.js
+- llama.cpp
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent management", "local-first", "multi-agent orchestration", "desktop application", "llama.cpp integration"]
-source: "https://github.com/peintune/runjam"
+deployment_complexity: Medium
+tags:
+- AI agent management
+- local-first
+- multi-agent orchestration
+- desktop application
+- llama.cpp integration
+source: https://github.com/peintune/runjam
 stars: 8
-language: "Rust"
-last_updated: "2026-08-08T01:21:04Z"
-discovered_at: "2026-08-08T01:26:17Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T01:21:04Z'
+discovered_at: '2026-08-08T01:26:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

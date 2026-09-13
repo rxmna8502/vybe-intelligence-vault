@@ -1,19 +1,30 @@
 ---
-title: "geekjourneyx/md2wechat-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "CLI", "Markdown", "WeChat API", "JSON Discovery", "Image Generation (Volcengine, ModelScope, OpenAI, etc.)"]
+title: geekjourneyx/md2wechat-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- CLI
+- Markdown
+- WeChat API
+- JSON Discovery
+- Image Generation (Volcengine, ModelScope, OpenAI, etc.)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["WeChat publishing", "Markdown to HTML", "AI agent automation", "content generation", "typography"]
-source: "https://github.com/geekjourneyx/md2wechat-skill"
+deployment_complexity: Medium
+tags:
+- WeChat publishing
+- Markdown to HTML
+- AI agent automation
+- content generation
+- typography
+source: https://github.com/geekjourneyx/md2wechat-skill
 stars: 3612
-language: "Go"
-last_updated: "2026-09-01T02:43:12Z"
-discovered_at: "2026-09-01T02:50:53Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T02:43:12Z'
+discovered_at: '2026-09-01T02:50:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

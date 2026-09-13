@@ -1,19 +1,31 @@
 ---
-title: "mathix420/alacritree"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Alacritty", "Egui", "Git", "Model Context Protocol (MCP)", "Delta (for diffs)", "Wayland/X11 (GUI backend)"]
+title: mathix420/alacritree
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Alacritty
+- Egui
+- Git
+- Model Context Protocol (MCP)
+- Delta (for diffs)
+- Wayland/X11 (GUI backend)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Git worktrees", "terminal emulator", "MCP server", "AI agent integration", "worktree management"]
-source: "https://github.com/mathix420/alacritree"
+deployment_complexity: Medium
+tags:
+- Git worktrees
+- terminal emulator
+- MCP server
+- AI agent integration
+- worktree management
+source: https://github.com/mathix420/alacritree
 stars: 13
-language: "Rust"
-last_updated: "2026-08-07T10:59:13Z"
-discovered_at: "2026-08-07T11:04:27Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T10:59:13Z'
+discovered_at: '2026-08-07T11:04:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

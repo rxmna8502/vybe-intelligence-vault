@@ -1,19 +1,39 @@
 ---
-title: "ljp-super/AIzs"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 17", "Spring Boot 3", "Spring AI 1.0.0", "LangChain4j", "PgVector", "Vue 3", "Vite", "MCP", "ReAct Agent", "RAG", "Tool Calling", "SSE", "MySQL/H2", "Maven", "Node.js 18+"]
+title: ljp-super/AIzs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Java 17
+- Spring Boot 3
+- Spring AI 1.0.0
+- LangChain4j
+- PgVector
+- Vue 3
+- Vite
+- MCP
+- ReAct Agent
+- RAG
+- Tool Calling
+- SSE
+- MySQL/H2
+- Maven
+- Node.js 18+
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Agents", "RAG", "Tool Calling", "MCP", "Enterprise AI"]
-source: "https://github.com/ljp-super/AIzs"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- RAG
+- Tool Calling
+- MCP
+- Enterprise AI
+source: https://github.com/ljp-super/AIzs
 stars: 0
-language: "Java"
-last_updated: "2026-08-09T01:27:14Z"
-discovered_at: "2026-08-09T01:33:10Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-09T01:27:14Z'
+discovered_at: '2026-08-09T01:33:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "Alpha-Park/genpark-agent-toxicity-sentiment-drift-monitor-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "Standard Library Only"]
+title: Alpha-Park/genpark-agent-toxicity-sentiment-drift-monitor-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python 3.9+
+- Model Context Protocol (MCP)
+- JSON-RPC
+- Standard Library Only
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["toxicity detection", "sentiment analysis", "agent governance", "MCP integration", "zero dependencies"]
-source: "https://github.com/Alpha-Park/genpark-agent-toxicity-sentiment-drift-monitor-skill"
+deployment_complexity: Low
+tags:
+- toxicity detection
+- sentiment analysis
+- agent governance
+- MCP integration
+- zero dependencies
+source: https://github.com/Alpha-Park/genpark-agent-toxicity-sentiment-drift-monitor-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-03T15:29:05Z"
-discovered_at: "2026-09-03T15:42:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:29:05Z'
+discovered_at: '2026-09-03T15:42:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

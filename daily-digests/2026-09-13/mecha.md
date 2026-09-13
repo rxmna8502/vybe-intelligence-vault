@@ -1,19 +1,33 @@
 ---
-title: "ljchang/mecha"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "CLI", "TOML", "HTTP", "OAuth", "Docker", "Bubblewrap (bwrap)", "JSON/JSONL"]
+title: ljchang/mecha
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- CLI
+- TOML
+- HTTP
+- OAuth
+- Docker
+- Bubblewrap (bwrap)
+- JSON/JSONL
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent harness", "multi-provider", "MCP tools", "sandboxing", "RAG pipeline"]
-source: "https://github.com/ljchang/mecha"
+deployment_complexity: Medium
+tags:
+- agent harness
+- multi-provider
+- MCP tools
+- sandboxing
+- RAG pipeline
+source: https://github.com/ljchang/mecha
 stars: 0
-language: "Rust"
-last_updated: "2026-08-07T18:50:53Z"
-discovered_at: "2026-08-07T18:57:38Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T18:50:53Z'
+discovered_at: '2026-08-07T18:57:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

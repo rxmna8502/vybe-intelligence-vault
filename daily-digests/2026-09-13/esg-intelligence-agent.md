@@ -1,19 +1,32 @@
 ---
-title: "yenlikgaisina/esg-intelligence-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Anthropic API", "Tavily API", "Markdown", "ReportLab (PDF generation)", "GitHub Actions", "Pydantic (data validation)", "Pandas (data processing)"]
+title: yenlikgaisina/esg-intelligence-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Anthropic API
+- Tavily API
+- Markdown
+- ReportLab (PDF generation)
+- GitHub Actions
+- Pydantic (data validation)
+- Pandas (data processing)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Autonomous AI Agent", "ESG Intelligence", "Embodied Carbon LCA", "EU CBAM Compliance", "Construction Sector"]
-source: "https://github.com/yenlikgaisina/esg-intelligence-agent"
+deployment_complexity: Medium
+tags:
+- Autonomous AI Agent
+- ESG Intelligence
+- Embodied Carbon LCA
+- EU CBAM Compliance
+- Construction Sector
+source: https://github.com/yenlikgaisina/esg-intelligence-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T08:07:14Z"
-discovered_at: "2026-07-12T08:15:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T08:07:14Z'
+discovered_at: '2026-07-12T08:15:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "CSOAI-ORG/lead-scoring-ai-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Claude Desktop", "Smithery", "EU AI Act Compliance", "C2PA (Content Authenticity Initiative)", "HMAC-SHA256"]
+title: CSOAI-ORG/lead-scoring-ai-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- PyPI
+- Claude Desktop
+- Smithery
+- EU AI Act Compliance
+- C2PA (Content Authenticity Initiative)
+- HMAC-SHA256
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["lead scoring", "B2B automation", "EU AI Act compliance", "MCP server", "engagement tracking"]
-source: "https://github.com/CSOAI-ORG/lead-scoring-ai-mcp"
+deployment_complexity: Low
+tags:
+- lead scoring
+- B2B automation
+- EU AI Act compliance
+- MCP server
+- engagement tracking
+source: https://github.com/CSOAI-ORG/lead-scoring-ai-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T08:34:37Z"
-discovered_at: "2026-08-08T08:43:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T08:34:37Z'
+discovered_at: '2026-08-08T08:43:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

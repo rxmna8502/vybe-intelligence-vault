@@ -1,19 +1,32 @@
 ---
-title: "ColinVaughn/Synaptic"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tree-sitter", "Git", "MCP (Model Context Protocol)", "Cypher (query language)", "SQL (auditing)", "GraphQL (potential)", "CLI tools"]
+title: ColinVaughn/Synaptic
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Tree-sitter
+- Git
+- MCP (Model Context Protocol)
+- Cypher (query language)
+- SQL (auditing)
+- GraphQL (potential)
+- CLI tools
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code intelligence", "knowledge graph", "impact analysis", "AI-assisted maintenance", "dependency management"]
-source: "https://github.com/ColinVaughn/Synaptic"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- knowledge graph
+- impact analysis
+- AI-assisted maintenance
+- dependency management
+source: https://github.com/ColinVaughn/Synaptic
 stars: 20
-language: "Rust"
-last_updated: "2026-08-08T06:51:22Z"
-discovered_at: "2026-08-08T06:52:35Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T06:51:22Z'
+discovered_at: '2026-08-08T06:52:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

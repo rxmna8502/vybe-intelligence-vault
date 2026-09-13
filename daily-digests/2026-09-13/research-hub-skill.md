@@ -1,19 +1,33 @@
 ---
-title: "hillrelic/research-hub-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "faster-whisper", "pdfplumber", "yt-dlp", "ffmpeg", "Mermaid.js", "Obsidian", "Zotero API", "Markdown"]
+title: hillrelic/research-hub-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- faster-whisper
+- pdfplumber
+- yt-dlp
+- ffmpeg
+- Mermaid.js
+- Obsidian
+- Zotero API
+- Markdown
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["knowledge management", "structured analysis", "automated processing", "academic research", "self-learning"]
-source: "https://github.com/hillrelic/research-hub-skill"
+deployment_complexity: Medium
+tags:
+- knowledge management
+- structured analysis
+- automated processing
+- academic research
+- self-learning
+source: https://github.com/hillrelic/research-hub-skill
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T03:35:24Z"
-discovered_at: "2026-08-09T03:45:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T03:35:24Z'
+discovered_at: '2026-08-09T03:45:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

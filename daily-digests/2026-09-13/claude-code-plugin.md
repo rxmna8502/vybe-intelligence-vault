@@ -1,19 +1,30 @@
 ---
-title: "pipeworx-io/claude-code-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "TypeScript/JavaScript", "Python", "REST APIs", "OAuth", "GitHub Authentication"]
+title: pipeworx-io/claude-code-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- MCP (Model Context Protocol)
+- TypeScript/JavaScript
+- Python
+- REST APIs
+- OAuth
+- GitHub Authentication
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["data aggregation", "MCP plugin", "live data tools", "natural language routing", "API gateway"]
-source: "https://github.com/pipeworx-io/claude-code-plugin"
+deployment_complexity: Low
+tags:
+- data aggregation
+- MCP plugin
+- live data tools
+- natural language routing
+- API gateway
+source: https://github.com/pipeworx-io/claude-code-plugin
 stars: 0
-language: "None"
-last_updated: "2026-09-03T02:12:33Z"
-discovered_at: "2026-09-03T02:20:24Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-03T02:12:33Z'
+discovered_at: '2026-09-03T02:20:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

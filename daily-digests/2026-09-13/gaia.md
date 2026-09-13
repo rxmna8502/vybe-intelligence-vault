@@ -1,19 +1,33 @@
 ---
-title: "SalvucciFacundo/gaia"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "LLM Providers (OpenAI, Anthropic, Ollama, Copilot)", "Docker", "SSH", "Hexagonal Architecture", "Knowledge Graph", "REST APIs", "CLI/TUI", "Git"]
+title: SalvucciFacundo/gaia
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- LLM Providers (OpenAI, Anthropic, Ollama, Copilot)
+- Docker
+- SSH
+- Hexagonal Architecture
+- Knowledge Graph
+- REST APIs
+- CLI/TUI
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "multi-agent systems", "spec-driven development", "Go programming", "AI coding assistant"]
-source: "https://github.com/SalvucciFacundo/gaia"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- multi-agent systems
+- spec-driven development
+- Go programming
+- AI coding assistant
+source: https://github.com/SalvucciFacundo/gaia
 stars: 1
-language: "Go"
-last_updated: "2026-08-07T23:35:12Z"
-discovered_at: "2026-08-07T23:36:21Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T23:35:12Z'
+discovered_at: '2026-08-07T23:36:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

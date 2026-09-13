@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:agentsdock-an-ide-designed-for-agentic-ai-research
 first_seen: '2026-09-13T10:27:43.964689+05:30'
 last_seen: '2026-09-13T18:54:06.046723+05:30'
 last_checked: '2026-09-13T18:54:06.046723+05:30'
 health_score: 100
 ---
+
 
 # AgentsDock: An IDE designed for agentic AI research
 

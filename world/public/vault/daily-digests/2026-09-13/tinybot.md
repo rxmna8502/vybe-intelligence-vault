@@ -1,19 +1,34 @@
 ---
-title: "SudoJacky/tinybot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri", "Node.js", "Python (legacy backend)", "React", "TypeScript", "WebSocket", "SQLite", "Vector DB (for memory)", "MCP (Model Context Protocol)"]
+title: SudoJacky/tinybot
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Tauri
+- Node.js
+- Python (legacy backend)
+- React
+- TypeScript
+- WebSocket
+- SQLite
+- Vector DB (for memory)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "multi-agent systems", "memory management", "task automation", "desktop AI"]
-source: "https://github.com/SudoJacky/tinybot"
+deployment_complexity: Medium
+tags:
+- AI agents
+- multi-agent systems
+- memory management
+- task automation
+- desktop AI
+source: https://github.com/SudoJacky/tinybot
 stars: 186
-language: "Rust"
-last_updated: "2026-07-14T10:06:07Z"
-discovered_at: "2026-07-14T10:07:40Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-14T10:06:07Z'
+discovered_at: '2026-07-14T10:07:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

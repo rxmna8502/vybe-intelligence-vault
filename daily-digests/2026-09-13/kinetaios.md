@@ -1,19 +1,37 @@
 ---
-title: "phinn/KinetAios"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "Node.js", "SQLite", "better-sqlite3", "React-like vanilla TS", "MCP (Model Context Protocol)", "SSE (Server-Sent Events)", "Whisper (voice transcription)", "OpenAI API", "Anthropic API", "GLM (Zhipu AI)", "esbuild"]
+title: phinn/KinetAios
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Electron
+- TypeScript
+- Node.js
+- SQLite
+- better-sqlite3
+- React-like vanilla TS
+- MCP (Model Context Protocol)
+- SSE (Server-Sent Events)
+- Whisper (voice transcription)
+- OpenAI API
+- Anthropic API
+- GLM (Zhipu AI)
+- esbuild
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-engine AI", "local-first", "agent dashboard", "cross-engine memory", "plugin system"]
-source: "https://github.com/phinn/KinetAios"
+deployment_complexity: Medium
+tags:
+- multi-engine AI
+- local-first
+- agent dashboard
+- cross-engine memory
+- plugin system
+source: https://github.com/phinn/KinetAios
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-06T15:14:59Z"
-discovered_at: "2026-08-06T15:18:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T15:14:59Z'
+discovered_at: '2026-08-06T15:18:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
