@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-13T04:12:56.352488+05:30`
+Generated at: `2026-09-13T08:57:28.725111+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **The worst spam emails: iLands AI agent hustle** - Score: `98` in category `ai/community` ([Link](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang)) ([File](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md))
-- **Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases** - Score: `37` in category `ai/community` ([Link](https://withspecific.com/benchmarks/real-swe)) ([File](../ai/community/real-swe-benchmarking-ai-models-on-private-real-wo.md))
-- **OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026** - Score: `20` in category `ai/community` ([Link](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026)) ([File](../ai/community/openai-s-sam-altman-says-it-would-be-ill-advised-t.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **LG denies TV spying claims, says tracking and snooping concerns 'not true'** - Score: `343` (+268), Rank Change: `+3` ([File](../ai/community/lg-denies-tv-spying-claims-says-tracking-and-snoop.md))
-- **Nvidia is the central bank of AI** - Score: `320` (+131), Rank Change: `0` ([File](../ai/community/nvidia-is-the-central-bank-of-ai.md))
-- **I fixed a tractor using John Deere's self-repair service. Farmers aren't sold** - Score: `85` (+34), Rank Change: `+1` ([File](../ai/community/i-fixed-a-tractor-using-john-deere-s-self-repair-s.md))
-- **How Trail of Bits helps verify the integrity of Signal chats** - Score: `39` (+31), Rank Change: `+1` ([File](../ai/community/how-trail-of-bits-helps-verify-the-integrity-of-si.md))
-- **A Design Space Exploration of Async/Await** - Score: `412` (+21), Rank Change: `+1` ([File](../ai/community/a-design-space-exploration-of-async-await.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1012` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1013` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+9` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+9` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **SiyuLilyQian/ScipyTutorial2025_RAG** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/siyulilyqian-scipytutorial2025-rag.md))
+- **dannyblaker/rag-tutorial** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **7 Best GitHub Repositories For Mastering RAG Systems** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
+- **LightRAG** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/lightrag.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/malonge-ragoo.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **ParticleMedia/RAGTruth** - (Rank Change: `+1013`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **raganwald/raganwald.github.com** - (Rank Change: `+1012`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **amazon/chronos-2** - (Rank Change: `+966`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
-- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+966`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
-- **google-t5/t5-small** - (Rank Change: `+966`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
-- **BAAI/bge-m3** - (Rank Change: `+966`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
-- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+966`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
-- **google-bert/bert-base-uncased** - (Rank Change: `+966`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
-- **google/electra-base-discriminator** - (Rank Change: `+966`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
-- **BAAI/bge-small-en-v1.5** - (Rank Change: `+966`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **infiniflow/ragflow** - (Rank Change: `+25428`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25353`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17138`) ([File](../ai/rag/stanford-oval-storm.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1004`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1004`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+1004`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **SiyuLilyQian/ScipyTutorial2025_RAG** - (Rank Change: `+1004`) ([File](../ai/rag/siyulilyqian-scipytutorial2025-rag.md))
+- **dannyblaker/rag-tutorial** - (Rank Change: `+1004`) ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **7 Best GitHub Repositories For Mastering RAG Systems** - (Rank Change: `+1004`) ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
+- **LightRAG** - (Rank Change: `+1004`) ([File](../ai/rag/lightrag.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **A misalignment of AI in mathematics** (Category: `ai/community`) ([File](../ai/community/a-misalignment-of-ai-in-mathematics.md))
+No recently active resources transitioned to inactive.
+
