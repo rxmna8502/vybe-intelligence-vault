@@ -1,34 +1,19 @@
 ---
-title: TNT-Likely/PanWatch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- React
-- TypeScript
-- Tailwind CSS
-- SQLAlchemy
-- APScheduler
-- OpenAI SDK
-- Docker
-- TradingAgents
+title: "TNT-Likely/PanWatch"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "React", "TypeScript", "Tailwind CSS", "SQLAlchemy", "APScheduler", "OpenAI SDK", "Docker", "TradingAgents"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- stock monitoring
-- multi-agent AI
-- self-hosted
-- technical analysis
-- portfolio management
-source: https://github.com/TNT-Likely/PanWatch
+deployment_complexity: "Medium"
+tags: ["stock monitoring", "multi-agent AI", "self-hosted", "technical analysis", "portfolio management"]
+source: "https://github.com/TNT-Likely/PanWatch"
 stars: 724
-language: Python
-last_updated: '2026-08-01T23:47:28Z'
-discovered_at: '2026-08-01T23:57:20Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T23:47:28Z"
+discovered_at: "2026-08-01T23:57:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

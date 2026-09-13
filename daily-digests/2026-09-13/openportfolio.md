@@ -1,31 +1,19 @@
 ---
-title: seonglae/openportfolio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Convex
-- React
-- Node.js
-- Clerk
-- CoinGecko API
-- pnpm
+title: "seonglae/openportfolio"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Convex", "React", "Node.js", "Clerk", "CoinGecko API", "pnpm"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- portfolio tracking
-- self-hosted
-- financial aggregation
-- Brier scoring
-- multi-tenancy
-source: https://github.com/seonglae/openportfolio
+deployment_complexity: "Medium"
+tags: ["portfolio tracking", "self-hosted", "financial aggregation", "Brier scoring", "multi-tenancy"]
+source: "https://github.com/seonglae/openportfolio"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T11:30:49Z'
-discovered_at: '2026-08-09T11:32:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T11:30:49Z"
+discovered_at: "2026-08-09T11:32:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: santischurmann/VibeCodeProtocols
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- JavaScript
-- Node.js
-- Bash
-- PowerShell
-- Git
-- Markdown
-- JSON
+title: "santischurmann/VibeCodeProtocols"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Bash", "PowerShell", "Git", "Markdown", "JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-driven development
-- test-driven development
-- code review automation
-- structured workflow
-- traceability
-source: https://github.com/santischurmann/VibeCodeProtocols
+deployment_complexity: "Medium"
+tags: ["AI-driven development", "test-driven development", "code review automation", "structured workflow", "traceability"]
+source: "https://github.com/santischurmann/VibeCodeProtocols"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-01T18:53:10Z'
-discovered_at: '2026-09-01T19:07:51Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-01T18:53:10Z"
+discovered_at: "2026-09-01T19:07:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

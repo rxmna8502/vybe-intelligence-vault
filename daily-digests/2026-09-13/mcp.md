@@ -1,30 +1,19 @@
 ---
-title: javinfo/mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- CLI Integration
-- Unix Sockets
+title: "javinfo/mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "CLI Integration", "Unix Sockets"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- JAV metadata
-- MCP server
-- streaming
-- adult video API
-- CLI integration
-source: https://github.com/javinfo/mcp
+deployment_complexity: "Medium"
+tags: ["JAV metadata", "MCP server", "streaming", "adult video API", "CLI integration"]
+source: "https://github.com/javinfo/mcp"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T20:40:22Z'
-discovered_at: '2026-08-07T20:42:57Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T20:40:22Z"
+discovered_at: "2026-08-07T20:42:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

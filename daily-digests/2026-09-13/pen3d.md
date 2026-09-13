@@ -1,34 +1,19 @@
 ---
-title: zhandos717/pen3d
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- JavaScript
-- Three.js
-- Python
-- SQLite
-- Bambu Studio CLI
-- MQTT
-- FTPS
-- OpenAI-compatible APIs
-- CSG (Constructive Solid Geometry)
-- TLS
+title: "zhandos717/pen3d"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Three.js", "Python", "SQLite", "Bambu Studio CLI", "MQTT", "FTPS", "OpenAI-compatible APIs", "CSG (Constructive Solid Geometry)", "TLS"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- 3D modeling
-- Bambu Lab printer
-- AI-assisted design
-- LAN printing
-- browser-based editor
-source: https://github.com/zhandos717/pen3d
+deployment_complexity: "Medium"
+tags: ["3D modeling", "Bambu Lab printer", "AI-assisted design", "LAN printing", "browser-based editor"]
+source: "https://github.com/zhandos717/pen3d"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-02T18:52:19Z'
-discovered_at: '2026-09-02T19:12:56Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T18:52:19Z"
+discovered_at: "2026-09-02T19:12:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

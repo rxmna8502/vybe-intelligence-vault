@@ -1,35 +1,19 @@
 ---
-title: Nooshu/FractalAI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- WebGL
-- regl
-- JavaScript
-- Synaptic.js
-- Vite
-- Node.js
-- Vitest
-- Playwright
-- ESLint
-- Prettier
-- Stylelint
+title: "Nooshu/FractalAI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["WebGL", "regl", "JavaScript", "Synaptic.js", "Vite", "Node.js", "Vitest", "Playwright", "ESLint", "Prettier", "Stylelint"]
 quality_score: 9
 rag_relevance: 3
-deployment_complexity: Medium
-tags:
-- fractal generation
-- WebGL rendering
-- GPU acceleration
-- interactive visualization
-- machine learning
-source: https://github.com/Nooshu/FractalAI
+deployment_complexity: "Medium"
+tags: ["fractal generation", "WebGL rendering", "GPU acceleration", "interactive visualization", "machine learning"]
+source: "https://github.com/Nooshu/FractalAI"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-20T03:34:00Z'
-discovered_at: '2026-07-20T03:37:33Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-20T03:34:00Z"
+discovered_at: "2026-07-20T03:37:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

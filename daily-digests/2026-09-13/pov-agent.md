@@ -1,31 +1,19 @@
 ---
-title: ChabanovX/pov-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Flutter
-- Dart
-- YOLO (Ultralytics)
-- iOS (Swift/Objective-C)
-- AVAssetReader
-- Bloc (State Management)
-- Clean Architecture
+title: "ChabanovX/pov-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Flutter", "Dart", "YOLO (Ultralytics)", "iOS (Swift/Objective-C)", "AVAssetReader", "Bloc (State Management)", "Clean Architecture"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- multimodal AI
-- on-device inference
-- real-time object detection
-- Flutter application
-- local agent
-source: https://github.com/ChabanovX/pov-agent
+deployment_complexity: "Medium"
+tags: ["multimodal AI", "on-device inference", "real-time object detection", "Flutter application", "local agent"]
+source: "https://github.com/ChabanovX/pov-agent"
 stars: 0
-language: Dart
-last_updated: '2026-07-19T15:49:22Z'
-discovered_at: '2026-07-19T15:56:43Z'
-evaluated_by: mistral-small-latest
+language: "Dart"
+last_updated: "2026-07-19T15:49:22Z"
+discovered_at: "2026-07-19T15:56:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

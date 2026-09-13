@@ -1,30 +1,19 @@
 ---
-title: joanshirazi/n8n-stock-portfolio-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- n8n
-- OpenAI API
-- Marketstack API
-- Google Sheets API
-- PowerShell
-- LangChain
+title: "joanshirazi/n8n-stock-portfolio-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["n8n", "OpenAI API", "Marketstack API", "Google Sheets API", "PowerShell", "LangChain"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent
-- portfolio management
-- n8n workflow
-- market data integration
-- transaction logging
-source: https://github.com/joanshirazi/n8n-stock-portfolio-assistant
+deployment_complexity: "Medium"
+tags: ["AI agent", "portfolio management", "n8n workflow", "market data integration", "transaction logging"]
+source: "https://github.com/joanshirazi/n8n-stock-portfolio-assistant"
 stars: 0
-language: PowerShell
-last_updated: '2026-08-02T16:03:50Z'
-discovered_at: '2026-08-02T16:11:14Z'
-evaluated_by: mistral-small-latest
+language: "PowerShell"
+last_updated: "2026-08-02T16:03:50Z"
+discovered_at: "2026-08-02T16:11:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

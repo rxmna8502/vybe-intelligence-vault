@@ -1,31 +1,19 @@
 ---
-title: berntpopp/metadome-link
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python 3.12+
-- FastAPI
-- MCP (Model Context Protocol)
-- Celery
-- SQLite
-- Docker
-- uv (package manager)
+title: "berntpopp/metadome-link"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.12+", "FastAPI", "MCP (Model Context Protocol)", "Celery", "SQLite", "Docker", "uv (package manager)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- bioinformatics
-- genomics
-- variant annotation
-- MCP server
-- protein domains
-source: https://github.com/berntpopp/metadome-link
+deployment_complexity: "Medium"
+tags: ["bioinformatics", "genomics", "variant annotation", "MCP server", "protein domains"]
+source: "https://github.com/berntpopp/metadome-link"
 stars: 0
-language: Python
-last_updated: '2026-09-01T09:04:35Z'
-discovered_at: '2026-09-01T09:11:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T09:04:35Z"
+discovered_at: "2026-09-01T09:11:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

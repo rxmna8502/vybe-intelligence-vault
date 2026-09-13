@@ -1,30 +1,19 @@
 ---
-title: j5ik2o/takt-sdd
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- JavaScript
-- Node.js
-- YAML
-- takt
-- npm
-- CI/CD
+title: "j5ik2o/takt-sdd"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "YAML", "takt", "npm", "CI/CD"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Spec-Driven Development
-- AI Workflow Automation
-- State Machine
-- YAML Workflows
-- AI Agent Orchestration
-source: https://github.com/j5ik2o/takt-sdd
+deployment_complexity: "Low"
+tags: ["Spec-Driven Development", "AI Workflow Automation", "State Machine", "YAML Workflows", "AI Agent Orchestration"]
+source: "https://github.com/j5ik2o/takt-sdd"
 stars: 41
-language: JavaScript
-last_updated: '2026-08-05T14:05:47Z'
-discovered_at: '2026-08-05T14:06:54Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-05T14:05:47Z"
+discovered_at: "2026-08-05T14:06:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

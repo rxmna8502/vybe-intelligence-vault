@@ -1,28 +1,19 @@
 ---
-title: Europanlimeade375/9router_proxy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Rust
-- Windows API
-- Proxy Server
-- Network Traffic Inspection
+title: "Europanlimeade375/9router_proxy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Windows API", "Proxy Server", "Network Traffic Inspection"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- proxy
-- AI request management
-- data inspection
-- request modification
-- privacy tool
-source: https://github.com/Europanlimeade375/9router_proxy
+deployment_complexity: "Low"
+tags: ["proxy", "AI request management", "data inspection", "request modification", "privacy tool"]
+source: "https://github.com/Europanlimeade375/9router_proxy"
 stars: 0
-language: Rust
-last_updated: '2026-08-06T06:28:44Z'
-discovered_at: '2026-08-06T06:32:12Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-06T06:28:44Z"
+discovered_at: "2026-08-06T06:32:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

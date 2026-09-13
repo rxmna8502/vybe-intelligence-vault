@@ -1,32 +1,19 @@
 ---
-title: TeddyBobby/agent-chat-ui
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Next.js
-- Electron
-- SQLite
-- Node.js
-- pnpm
-- AES-256-GCM
-- SSE (Server-Sent Events)
+title: "TeddyBobby/agent-chat-ui"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Next.js", "Electron", "SQLite", "Node.js", "pnpm", "AES-256-GCM", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI programming assistant
-- local-first
-- multi-model support
-- secure credential management
-- SSE streaming
-source: https://github.com/TeddyBobby/agent-chat-ui
+deployment_complexity: "Medium"
+tags: ["AI programming assistant", "local-first", "multi-model support", "secure credential management", "SSE streaming"]
+source: "https://github.com/TeddyBobby/agent-chat-ui"
 stars: 4
-language: TypeScript
-last_updated: '2026-09-03T02:10:06Z'
-discovered_at: '2026-09-03T02:17:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T02:10:06Z"
+discovered_at: "2026-09-03T02:17:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

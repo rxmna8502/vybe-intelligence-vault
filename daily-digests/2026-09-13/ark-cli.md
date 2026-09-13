@@ -1,31 +1,19 @@
 ---
-title: volcengine/ark-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Node.js
-- TypeScript
-- Python
-- NPM
-- CLI
-- REST APIs
-- OAuth/SSO
+title: "volcengine/ark-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "TypeScript", "Python", "NPM", "CLI", "REST APIs", "OAuth/SSO"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- CLI
-- AI Agent Integration
-- Volcengine Ark
-- Multimodal
-- Model Deployment
-source: https://github.com/volcengine/ark-cli
+deployment_complexity: "Low"
+tags: ["CLI", "AI Agent Integration", "Volcengine Ark", "Multimodal", "Model Deployment"]
+source: "https://github.com/volcengine/ark-cli"
 stars: 67
-language: Python
-last_updated: '2026-07-15T12:13:05Z'
-discovered_at: '2026-07-15T12:14:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T12:13:05Z"
+discovered_at: "2026-07-15T12:14:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: kt0319/any-console
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Rust
-- Vue 3
-- Pinia
-- Vite
-- axum
-- xterm.js
-- tmux
-- Git
-- Tailscale
-- Web Push (VAPID)
-- PWA
+title: "kt0319/any-console"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Vue 3", "Pinia", "Vite", "axum", "xterm.js", "tmux", "Git", "Tailscale", "Web Push (VAPID)", "PWA"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal access
-- remote development
-- tmux integration
-- mobile-optimized
-- self-hosted
-source: https://github.com/kt0319/any-console
+deployment_complexity: "Medium"
+tags: ["terminal access", "remote development", "tmux integration", "mobile-optimized", "self-hosted"]
+source: "https://github.com/kt0319/any-console"
 stars: 1
-language: Rust
-last_updated: '2026-09-02T08:18:42Z'
-discovered_at: '2026-09-02T08:19:17Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-02T08:18:42Z"
+discovered_at: "2026-09-02T08:19:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

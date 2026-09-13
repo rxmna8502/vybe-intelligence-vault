@@ -1,30 +1,19 @@
 ---
-title: AgentSafe-AI/tooltrust-scanner
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- OSV (Open Source Vulnerabilities)
-- GitHub Actions
-- CLI
-- Static Analysis
+title: "AgentSafe-AI/tooltrust-scanner"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "OSV (Open Source Vulnerabilities)", "GitHub Actions", "CLI", "Static Analysis"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- security scanning
-- MCP tools
-- supply chain security
-- agent tool validation
-- static analysis
-source: https://github.com/AgentSafe-AI/tooltrust-scanner
+deployment_complexity: "Low"
+tags: ["security scanning", "MCP tools", "supply chain security", "agent tool validation", "static analysis"]
+source: "https://github.com/AgentSafe-AI/tooltrust-scanner"
 stars: 17
-language: Go
-last_updated: '2026-07-17T21:47:36Z'
-discovered_at: '2026-07-17T21:52:30Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-17T21:47:36Z"
+discovered_at: "2026-07-17T21:52:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

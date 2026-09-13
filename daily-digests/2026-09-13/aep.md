@@ -1,34 +1,19 @@
 ---
-title: axisrobo/aep
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Python
-- Go
-- Java
-- JSON Schema
-- SQLite
-- WebSocket
-- SSE
-- gRPC
-- CI/CD
+title: "axisrobo/aep"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Python", "Go", "Java", "JSON Schema", "SQLite", "WebSocket", "SSE", "gRPC", "CI/CD"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- asynchronous communication
-- multi-agent systems
-- event protocol
-- interoperability
-- task lifecycle
-source: https://github.com/axisrobo/aep
+deployment_complexity: "Medium"
+tags: ["asynchronous communication", "multi-agent systems", "event protocol", "interoperability", "task lifecycle"]
+source: "https://github.com/axisrobo/aep"
 stars: 3
-language: JavaScript
-last_updated: '2026-07-11T07:50:51Z'
-discovered_at: '2026-07-11T07:52:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T07:50:51Z"
+discovered_at: "2026-07-11T07:52:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

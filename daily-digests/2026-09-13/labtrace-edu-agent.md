@@ -1,31 +1,19 @@
 ---
-title: YYForReal/labtrace-edu-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Vue 3
-- DOCX (python-docx)
-- LLM (optional)
-- Node.js
-- Docker
-- Apache License 2.0
+title: "YYForReal/labtrace-edu-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Vue 3", "DOCX (python-docx)", "LLM (optional)", "Node.js", "Docker", "Apache License 2.0"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- educational AI
-- document processing
-- rubric-based grading
-- Word annotation
-- teacher workflow
-source: https://github.com/YYForReal/labtrace-edu-agent
+deployment_complexity: "Medium"
+tags: ["educational AI", "document processing", "rubric-based grading", "Word annotation", "teacher workflow"]
+source: "https://github.com/YYForReal/labtrace-edu-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-10T01:31:59Z'
-discovered_at: '2026-08-10T01:35:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T01:31:59Z"
+discovered_at: "2026-08-10T01:35:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

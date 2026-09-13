@@ -1,41 +1,19 @@
 ---
-title: openensemble/openensemble
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Node.js
-- JavaScript
-- TypeScript
-- Python
-- ESP32-S3
-- WebUSB
-- Web Serial
-- Docker
-- Bubblewrap
-- FFmpeg
-- OpenAI API
-- Claude API
-- Ollama
-- LM Studio
-- Node-llama-cpp
-- Cloudflare Tunnel
-- Tailscale
+title: "openensemble/openensemble"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "JavaScript", "TypeScript", "Python", "ESP32-S3", "WebUSB", "Web Serial", "Docker", "Bubblewrap", "FFmpeg", "OpenAI API", "Claude API", "Ollama", "LM Studio", "Node-llama-cpp", "Cloudflare Tunnel", "Tailscale"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- self-hosted AI
-- voice assistant
-- dashboard builder
-- multi-user isolation
-source: https://github.com/openensemble/openensemble
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "self-hosted AI", "voice assistant", "dashboard builder", "multi-user isolation"]
+source: "https://github.com/openensemble/openensemble"
 stars: 8
-language: JavaScript
-last_updated: '2026-09-02T15:42:06Z'
-discovered_at: '2026-09-02T15:49:42Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T15:42:06Z"
+discovered_at: "2026-09-02T15:49:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

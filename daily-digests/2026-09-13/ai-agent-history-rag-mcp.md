@@ -1,34 +1,19 @@
 ---
-title: no13productions/ai-agent-history-rag-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- LanceDB
-- Ollama
-- OpenAI API
-- vLLM
-- BM25
-- RRF Reranking
-- Docker
-- FastAPI
+title: "no13productions/ai-agent-history-rag-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "LanceDB", "Ollama", "OpenAI API", "vLLM", "BM25", "RRF Reranking", "Docker", "FastAPI"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- MCP
-- AI Agent History
-- Vector Search
-- Multi-Agent Memory
-source: https://github.com/no13productions/ai-agent-history-rag-mcp
+deployment_complexity: "Medium"
+tags: ["RAG", "MCP", "AI Agent History", "Vector Search", "Multi-Agent Memory"]
+source: "https://github.com/no13productions/ai-agent-history-rag-mcp"
 stars: 5
-language: Python
-last_updated: '2026-09-02T22:05:14Z'
-discovered_at: '2026-09-02T22:22:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:05:14Z"
+discovered_at: "2026-09-02T22:22:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

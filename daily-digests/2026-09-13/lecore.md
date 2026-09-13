@@ -1,33 +1,19 @@
 ---
-title: AnOversizedMooseWithSocks/leCore
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- NumPy
-- Numba
-- SymPy
-- Zig
-- Flask
-- Pillow
-- CuPy
-- HTTP Server (stdlib)
+title: "AnOversizedMooseWithSocks/leCore"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "NumPy", "Numba", "SymPy", "Zig", "Flask", "Pillow", "CuPy", "HTTP Server (stdlib)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- hypervector
-- associative memory
-- 3D rendering
-- physics simulation
-- deterministic computation
-source: https://github.com/AnOversizedMooseWithSocks/leCore
+deployment_complexity: "Medium"
+tags: ["hypervector", "associative memory", "3D rendering", "physics simulation", "deterministic computation"]
+source: "https://github.com/AnOversizedMooseWithSocks/leCore"
 stars: 10
-language: Python
-last_updated: '2026-08-07T13:15:57Z'
-discovered_at: '2026-08-07T14:20:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T13:15:57Z"
+discovered_at: "2026-08-07T14:20:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: yantrikos/yantrikdb-server
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- Rust
-- SQLite
-- HTTP API
-- MCP (Model Context Protocol)
-- Docker
-- Kubernetes
-- Prometheus
-- CRDTs
-- Embeddings
-- Python
-- AGPL-3.0
+title: "yantrikos/yantrikdb-server"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "SQLite", "HTTP API", "MCP (Model Context Protocol)", "Docker", "Kubernetes", "Prometheus", "CRDTs", "Embeddings", "Python", "AGPL-3.0"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- cognitive memory
-- temporal decay
-- contradiction detection
-- agent memory
-- token efficiency
-source: https://github.com/yantrikos/yantrikdb-server
+deployment_complexity: "Medium"
+tags: ["cognitive memory", "temporal decay", "contradiction detection", "agent memory", "token efficiency"]
+source: "https://github.com/yantrikos/yantrikdb-server"
 stars: 164
-language: Rust
-last_updated: '2026-07-17T19:56:42Z'
-discovered_at: '2026-07-17T20:05:31Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-17T19:56:42Z"
+discovered_at: "2026-07-17T20:05:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

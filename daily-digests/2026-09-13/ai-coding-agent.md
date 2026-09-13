@@ -1,31 +1,19 @@
 ---
-title: altamash-faraz/ai-coding-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python 3.11+
-- LLM APIs (OpenAI, Gemini, Anthropic)
-- Node.js
-- Express.js
-- Mongoose
-- Git
-- Shell Tools
+title: "altamash-faraz/ai-coding-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.11+", "LLM APIs (OpenAI, Gemini, Anthropic)", "Node.js", "Express.js", "Mongoose", "Git", "Shell Tools"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous coding
-- code modification
-- self-healing
-- multi-model LLM
-- zero-key evaluation
-source: https://github.com/altamash-faraz/ai-coding-agent
+deployment_complexity: "Medium"
+tags: ["autonomous coding", "code modification", "self-healing", "multi-model LLM", "zero-key evaluation"]
+source: "https://github.com/altamash-faraz/ai-coding-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-02T22:55:01Z'
-discovered_at: '2026-08-02T22:56:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T22:55:01Z"
+discovered_at: "2026-08-02T22:56:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

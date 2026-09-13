@@ -1,33 +1,19 @@
 ---
-title: stateletlab/statelet-sdk
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- gRPC
-- Protocol Buffers
-- Python
-- Node.js
-- Go
-- Rust
-- Java
-- C++
-- LangChain
+title: "stateletlab/statelet-sdk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["gRPC", "Protocol Buffers", "Python", "Node.js", "Go", "Rust", "Java", "C++", "LangChain"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- client SDK
-- distributed database
-- vector search
-- temporal graph
-- multi-language
-source: https://github.com/stateletlab/statelet-sdk
+deployment_complexity: "Medium"
+tags: ["client SDK", "distributed database", "vector search", "temporal graph", "multi-language"]
+source: "https://github.com/stateletlab/statelet-sdk"
 stars: 0
-language: Python
-last_updated: '2026-08-10T16:49:19Z'
-discovered_at: '2026-08-10T17:06:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T16:49:19Z"
+discovered_at: "2026-08-10T17:06:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

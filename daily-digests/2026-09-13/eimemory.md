@@ -1,35 +1,19 @@
 ---
-title: darrowz/eimemory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- SQLite
-- JSONL
-- CLI
-- RPC
-- Graph-based retrieval
-- Hybrid search (lexical + semantic)
-- Provenance tracking
-- Embeddings
-- Evaluation frameworks
-- Systemd (for deployment)
+title: "darrowz/eimemory"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "JSONL", "CLI", "RPC", "Graph-based retrieval", "Hybrid search (lexical + semantic)", "Provenance tracking", "Embeddings", "Evaluation frameworks", "Systemd (for deployment)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- memory runtime
-- autonomous agents
-- self-evolution
-- governed learning
-- durable storage
-source: https://github.com/darrowz/eimemory
+deployment_complexity: "Medium"
+tags: ["memory runtime", "autonomous agents", "self-evolution", "governed learning", "durable storage"]
+source: "https://github.com/darrowz/eimemory"
 stars: 1
-language: Python
-last_updated: '2026-09-02T15:37:41Z'
-discovered_at: '2026-09-02T15:51:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T15:37:41Z"
+discovered_at: "2026-09-02T15:51:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

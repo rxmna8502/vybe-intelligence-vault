@@ -1,47 +1,19 @@
 ---
-title: AriesChenL/nook
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Spring Boot 3.5.14
-- Spring Cloud 2025.0.2
-- Spring Cloud Gateway
-- Spring Cloud Alibaba 2025.0.0.0
-- Nacos 3.x
-- PostgreSQL
-- MyBatis-Flex 1.10.9
-- Redis
-- RabbitMQ
-- RustFS (S3-compatible object storage)
-- JWT (jjwt 0.12.6)
-- BCrypt
-- DeepSeek API (deepseek-v4-flash-0731)
-- agentscope-harness 2.0.2
-- Vue 3.5
-- Vite
-- TypeScript
-- Pinia
-- Element Plus
-- Stripe API
-- WebSocket (real-time messaging)
-- Docker
-- JDK 25
+title: "AriesChenL/nook"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Spring Boot 3.5.14", "Spring Cloud 2025.0.2", "Spring Cloud Gateway", "Spring Cloud Alibaba 2025.0.0.0", "Nacos 3.x", "PostgreSQL", "MyBatis-Flex 1.10.9", "Redis", "RabbitMQ", "RustFS (S3-compatible object storage)", "JWT (jjwt 0.12.6)", "BCrypt", "DeepSeek API (deepseek-v4-flash-0731)", "agentscope-harness 2.0.2", "Vue 3.5", "Vite", "TypeScript", "Pinia", "Element Plus", "Stripe API", "WebSocket (real-time messaging)", "Docker", "JDK 25"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- Instant Messaging
-- AI Agent Platform
-- Microservices
-- Real-time Communication
-- Stripe Integration
-source: https://github.com/AriesChenL/nook
+deployment_complexity: "High"
+tags: ["Instant Messaging", "AI Agent Platform", "Microservices", "Real-time Communication", "Stripe Integration"]
+source: "https://github.com/AriesChenL/nook"
 stars: 0
-language: Java
-last_updated: '2026-09-02T08:15:44Z'
-discovered_at: '2026-09-02T08:21:48Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-09-02T08:15:44Z"
+discovered_at: "2026-09-02T08:21:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

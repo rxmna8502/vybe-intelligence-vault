@@ -1,34 +1,19 @@
 ---
-title: vcmf/dim0
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- React
-- Python
-- Docker
-- OpenAI Agents SDK
-- Qdrant
-- Daytona
-- Iconify
-- WebSockets
-- Operational Transform
+title: "vcmf/dim0"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Python", "Docker", "OpenAI Agents SDK", "Qdrant", "Daytona", "Iconify", "WebSockets", "Operational Transform"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI canvas
-- real-time collaboration
-- agent integration
-- mini-apps
-- self-hostable
-source: https://github.com/vcmf/dim0
+deployment_complexity: "Medium"
+tags: ["AI canvas", "real-time collaboration", "agent integration", "mini-apps", "self-hostable"]
+source: "https://github.com/vcmf/dim0"
 stars: 83
-language: TypeScript
-last_updated: '2026-08-04T00:09:00Z'
-discovered_at: '2026-08-04T00:10:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T00:09:00Z"
+discovered_at: "2026-08-04T00:10:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

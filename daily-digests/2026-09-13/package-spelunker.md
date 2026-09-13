@@ -1,34 +1,19 @@
 ---
-title: dills122/package-spelunker
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- pnpm
-- Vitest
-- Biome
-- MCP Server
-- CLI
-- Compiler APIs
-- Workspace Analysis
+title: "dills122/package-spelunker"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "pnpm", "Vitest", "Biome", "MCP Server", "CLI", "Compiler APIs", "Workspace Analysis"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- monorepo analysis
-- package resolution
-- evidence-backed retrieval
-- TypeScript tooling
-- dependency intelligence
-source: https://github.com/dills122/package-spelunker
+deployment_complexity: "Medium"
+tags: ["monorepo analysis", "package resolution", "evidence-backed retrieval", "TypeScript tooling", "dependency intelligence"]
+source: "https://github.com/dills122/package-spelunker"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T01:59:38Z'
-discovered_at: '2026-09-02T02:15:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T01:59:38Z"
+discovered_at: "2026-09-02T02:15:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

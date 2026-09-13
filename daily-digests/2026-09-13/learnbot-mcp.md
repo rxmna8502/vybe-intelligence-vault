@@ -1,35 +1,19 @@
 ---
-title: sandraschi/learnbot-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python 3.12+
-- FastMCP
-- Node.js
-- SQLite
-- Tauri
-- React
-- three.js
-- Ruff
-- Gemini TTS
-- SAPI5 (Windows)
-- GitHub Actions
+title: "sandraschi/learnbot-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12+", "FastMCP", "Node.js", "SQLite", "Tauri", "React", "three.js", "Ruff", "Gemini TTS", "SAPI5 (Windows)", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP
-- language learning
-- chatbot orchestrator
-- VRM avatar
-- TTS
-source: https://github.com/sandraschi/learnbot-mcp
+deployment_complexity: "Medium"
+tags: ["MCP", "language learning", "chatbot orchestrator", "VRM avatar", "TTS"]
+source: "https://github.com/sandraschi/learnbot-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-02T17:58:06Z'
-discovered_at: '2026-08-02T18:02:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T17:58:06Z"
+discovered_at: "2026-08-02T18:02:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

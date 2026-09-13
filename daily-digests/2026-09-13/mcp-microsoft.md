@@ -1,32 +1,19 @@
 ---
-title: guinacio/mcp-microsoft
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastMCP
-- Microsoft Graph API
-- MSAL
-- httpx
-- Model Context Protocol (MCP)
-- Streamable HTTP
-- Azure AD / Entra ID
+title: "guinacio/mcp-microsoft"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "Microsoft Graph API", "MSAL", "httpx", "Model Context Protocol (MCP)", "Streamable HTTP", "Azure AD / Entra ID"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- Microsoft 365 integration
-- RAG tooling
-- Multi-account support
-- Enterprise AI
-source: https://github.com/guinacio/mcp-microsoft
+deployment_complexity: "Medium"
+tags: ["MCP server", "Microsoft 365 integration", "RAG tooling", "Multi-account support", "Enterprise AI"]
+source: "https://github.com/guinacio/mcp-microsoft"
 stars: 0
-language: Python
-last_updated: '2026-08-01T22:40:16Z'
-discovered_at: '2026-08-01T22:55:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T22:40:16Z"
+discovered_at: "2026-08-01T22:55:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

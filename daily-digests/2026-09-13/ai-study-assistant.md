@@ -1,31 +1,19 @@
 ---
-title: Mahee-Jain123/Ai-study-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Google Gemini
-- Gemini Embedding API
-- ChromaDB
-- LangChain
-- PyPDF
-- python-dotenv
+title: "Mahee-Jain123/Ai-study-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "Google Gemini", "Gemini Embedding API", "ChromaDB", "LangChain", "PyPDF", "python-dotenv"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- PDF QA
-- Gemini
-- ChromaDB
-- LangChain
-source: https://github.com/Mahee-Jain123/Ai-study-assistant
+deployment_complexity: "Medium"
+tags: ["RAG", "PDF QA", "Gemini", "ChromaDB", "LangChain"]
+source: "https://github.com/Mahee-Jain123/Ai-study-assistant"
 stars: 0
-language: Python
-last_updated: '2026-08-07T17:37:04Z'
-discovered_at: '2026-08-07T17:52:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T17:37:04Z"
+discovered_at: "2026-08-07T17:52:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

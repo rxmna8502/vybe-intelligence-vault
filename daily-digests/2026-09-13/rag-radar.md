@@ -1,32 +1,19 @@
 ---
-title: linny006/rag-radar
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- GitHub Actions
-- GitHub Search API
-- Python
-- Markdown
-- JavaScript
-- TypeScript
-- Go
-- Java
+title: "linny006/rag-radar"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["GitHub Actions", "GitHub Search API", "Python", "Markdown", "JavaScript", "TypeScript", "Go", "Java"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- RAG
-- GitHub monitoring
-- AI tools
-- knowledge tracking
-- automated discovery
-source: https://github.com/linny006/rag-radar
+deployment_complexity: "Low"
+tags: ["RAG", "GitHub monitoring", "AI tools", "knowledge tracking", "automated discovery"]
+source: "https://github.com/linny006/rag-radar"
 stars: 2
-language: Python
-last_updated: '2026-08-07T10:03:08Z'
-discovered_at: '2026-08-07T10:04:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T10:03:08Z"
+discovered_at: "2026-08-07T10:04:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

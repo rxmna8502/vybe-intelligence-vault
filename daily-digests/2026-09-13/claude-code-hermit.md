@@ -1,31 +1,19 @@
 ---
-title: gtapps/claude-code-hermit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Claude Code
-- Bun
-- Tmux
-- Docker
-- Shell Scripting
-- Markdown
+title: "gtapps/claude-code-hermit"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Claude Code", "Bun", "Tmux", "Docker", "Shell Scripting", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- stateful AI
-- learning loops
-- remote control
-- cost-aware
-source: https://github.com/gtapps/claude-code-hermit
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "stateful AI", "learning loops", "remote control", "cost-aware"]
+source: "https://github.com/gtapps/claude-code-hermit"
 stars: 73
-language: TypeScript
-last_updated: '2026-09-02T15:45:58Z'
-discovered_at: '2026-09-02T15:50:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:45:58Z"
+discovered_at: "2026-09-02T15:50:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

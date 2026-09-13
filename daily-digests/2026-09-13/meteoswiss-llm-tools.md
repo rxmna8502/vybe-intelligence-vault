@@ -1,31 +1,19 @@
 ---
-title: eins78/meteoswiss-llm-tools
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- Docker
-- MCP (Model Context Protocol)
-- HTTP APIs
-- pnpm
-- Prometheus (for metrics)
+title: "eins78/meteoswiss-llm-tools"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Docker", "MCP (Model Context Protocol)", "HTTP APIs", "pnpm", "Prometheus (for metrics)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- weather data
-- MeteoSwiss
-- MCP server
-- agent skills
-- Swiss meteorology
-source: https://github.com/eins78/meteoswiss-llm-tools
+deployment_complexity: "Medium"
+tags: ["weather data", "MeteoSwiss", "MCP server", "agent skills", "Swiss meteorology"]
+source: "https://github.com/eins78/meteoswiss-llm-tools"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-11T15:47:42Z'
-discovered_at: '2026-07-11T15:54:22Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T15:47:42Z"
+discovered_at: "2026-07-11T15:54:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

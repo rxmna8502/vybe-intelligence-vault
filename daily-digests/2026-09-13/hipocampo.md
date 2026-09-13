@@ -1,35 +1,19 @@
 ---
-title: carrasquelalex1/hipocampo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- PostgreSQL 17
-- pgvector
-- pg_trgm
-- Python 3.13+
-- FastMCP
-- NVIDIA NIM
-- Hugging Face Inference API
-- Docker
-- Streamable HTTP
-- HNSW
-- GIN Trigram Indexes
+title: "carrasquelalex1/hipocampo"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["PostgreSQL 17", "pgvector", "pg_trgm", "Python 3.13+", "FastMCP", "NVIDIA NIM", "Hugging Face Inference API", "Docker", "Streamable HTTP", "HNSW", "GIN Trigram Indexes"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory persistence
-- hybrid search
-- MCP server
-- prompt compression
-- AI agent learning
-source: https://github.com/carrasquelalex1/hipocampo
+deployment_complexity: "Medium"
+tags: ["memory persistence", "hybrid search", "MCP server", "prompt compression", "AI agent learning"]
+source: "https://github.com/carrasquelalex1/hipocampo"
 stars: 3
-language: Python
-last_updated: '2026-07-12T15:55:56Z'
-discovered_at: '2026-07-12T15:58:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T15:55:56Z"
+discovered_at: "2026-07-12T15:58:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

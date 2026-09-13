@@ -1,33 +1,19 @@
 ---
-title: DaizeDong/buy-me-a-car
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Claude Code
-- Playwright
-- Gmail API
-- Jinja2
-- PyYAML
-- Headless Chrome
-- HTML/CSS
-- Markdown
+title: "DaizeDong/buy-me-a-car"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "Playwright", "Gmail API", "Jinja2", "PyYAML", "Headless Chrome", "HTML/CSS", "Markdown"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- car buying
-- negotiation automation
-- OTD calculator
-- dealer outreach
-- Python plugin
-source: https://github.com/DaizeDong/buy-me-a-car
+deployment_complexity: "Medium"
+tags: ["car buying", "negotiation automation", "OTD calculator", "dealer outreach", "Python plugin"]
+source: "https://github.com/DaizeDong/buy-me-a-car"
 stars: 2
-language: Python
-last_updated: '2026-07-17T08:01:41Z'
-discovered_at: '2026-07-17T08:07:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T08:01:41Z"
+discovered_at: "2026-07-17T08:07:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

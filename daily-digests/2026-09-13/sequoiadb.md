@@ -1,28 +1,19 @@
 ---
-title: api-evangelist/sequoiadb
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- NoSQL
-- Distributed Database
-- Document-Oriented Database
-- Financial-Grade Systems
+title: "api-evangelist/sequoiadb"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["NoSQL", "Distributed Database", "Document-Oriented Database", "Financial-Grade Systems"]
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- NoSQL
-- distributed-database
-- financial-grade
-- enterprise-storage
-- document-database
-source: https://github.com/api-evangelist/sequoiadb
+deployment_complexity: "High"
+tags: ["NoSQL", "distributed-database", "financial-grade", "enterprise-storage", "document-database"]
+source: "https://github.com/api-evangelist/sequoiadb"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:42:06Z'
-discovered_at: '2026-08-08T03:29:47Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:42:06Z"
+discovered_at: "2026-08-08T03:29:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

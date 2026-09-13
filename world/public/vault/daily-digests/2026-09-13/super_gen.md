@@ -1,40 +1,19 @@
 ---
-title: xxx-888/super_gen
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- FastAPI
-- React
-- TypeScript
-- PostgreSQL
-- Redis
-- Celery
-- SQLAlchemy
-- Tiptap
-- React Flow
-- Vite
-- Arco Design
-- MiniMax H3
-- Zhipu GLM
-- ComfyUI
-- FFmpeg
-- Docker
+title: "xxx-888/super_gen"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["FastAPI", "React", "TypeScript", "PostgreSQL", "Redis", "Celery", "SQLAlchemy", "Tiptap", "React Flow", "Vite", "Arco Design", "MiniMax H3", "Zhipu GLM", "ComfyUI", "FFmpeg", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI video generation
-- short drama production
-- multi-model integration
-- video editing
-- prompt engineering
-source: https://github.com/xxx-888/super_gen
+deployment_complexity: "High"
+tags: ["AI video generation", "short drama production", "multi-model integration", "video editing", "prompt engineering"]
+source: "https://github.com/xxx-888/super_gen"
 stars: 5
-language: TypeScript
-last_updated: '2026-09-02T02:07:31Z'
-discovered_at: '2026-09-02T02:10:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T02:07:31Z"
+discovered_at: "2026-09-02T02:10:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: Yoh5/career_match_agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- OpenAI (tool-calling)
-- pypdf
-- pdfminer.six
-- python-docx
-- vanilla-JS
-- LLM (for text analysis and generation)
+title: "Yoh5/career_match_agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "OpenAI (tool-calling)", "pypdf", "pdfminer.six", "python-docx", "vanilla-JS", "LLM (for text analysis and generation)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- CV optimization
-- ATS compatibility
-- job application automation
-- LLM-powered agent
-- career tools
-source: https://github.com/Yoh5/career_match_agent
+deployment_complexity: "Medium"
+tags: ["CV optimization", "ATS compatibility", "job application automation", "LLM-powered agent", "career tools"]
+source: "https://github.com/Yoh5/career_match_agent"
 stars: 0
-language: Python
-last_updated: '2026-08-05T08:33:18Z'
-discovered_at: '2026-08-05T08:35:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T08:33:18Z"
+discovered_at: "2026-08-05T08:35:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

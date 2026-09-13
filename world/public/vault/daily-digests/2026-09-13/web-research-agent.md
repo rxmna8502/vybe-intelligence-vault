@@ -1,31 +1,19 @@
 ---
-title: Roxin-ChaI/web-research-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- Python
-- DeepSeek API
-- DuckDuckGo Search (DDGS)
-- OpenAI API Compatibility
-- CLI
-- Pytest
-- Ruff
+title: "Roxin-ChaI/web-research-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "DeepSeek API", "DuckDuckGo Search (DDGS)", "OpenAI API Compatibility", "CLI", "Pytest", "Ruff"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- ReAct
-- Tool Calling
-- Web Research
-- DeepSeek
-- DDGS
-source: https://github.com/Roxin-ChaI/web-research-agent
+deployment_complexity: "Low"
+tags: ["ReAct", "Tool Calling", "Web Research", "DeepSeek", "DDGS"]
+source: "https://github.com/Roxin-ChaI/web-research-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-09T03:43:04Z'
-discovered_at: '2026-08-09T03:45:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T03:43:04Z"
+discovered_at: "2026-08-09T03:45:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

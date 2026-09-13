@@ -1,37 +1,19 @@
 ---
-title: umeshkedimi/enterprise_rag_platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- Celery
-- PostgreSQL
-- Qdrant
-- MinIO
-- Redis
-- LangChain
-- SQLAlchemy
-- Pydantic
-- OpenTelemetry
-- Docker
-- Kubernetes
+title: "umeshkedimi/enterprise_rag_platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Celery", "PostgreSQL", "Qdrant", "MinIO", "Redis", "LangChain", "SQLAlchemy", "Pydantic", "OpenTelemetry", "Docker", "Kubernetes"]
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- RAG
-- multi-tenant
-- production-grade
-- asynchronous ingestion
-- hybrid retrieval
-source: https://github.com/umeshkedimi/enterprise_rag_platform
+deployment_complexity: "High"
+tags: ["RAG", "multi-tenant", "production-grade", "asynchronous ingestion", "hybrid retrieval"]
+source: "https://github.com/umeshkedimi/enterprise_rag_platform"
 stars: 0
-language: Python
-last_updated: '2026-08-07T16:42:51Z'
-discovered_at: '2026-08-07T16:57:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T16:42:51Z"
+discovered_at: "2026-08-07T16:57:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

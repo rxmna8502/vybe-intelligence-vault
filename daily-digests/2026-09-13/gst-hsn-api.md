@@ -1,33 +1,19 @@
 ---
-title: thedivine1/gst-hsn-api
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- PostgreSQL
-- Supabase
-- JavaScript/TypeScript
-- Model Context Protocol (MCP)
-- JWT
-- asyncpg
-- Uvicorn
+title: "thedivine1/gst-hsn-api"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "Supabase", "JavaScript/TypeScript", "Model Context Protocol (MCP)", "JWT", "asyncpg", "Uvicorn"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- GST
-- Tax Compliance
-- HSN/SAC Lookup
-- MCP Server
-- Indian Tax API
-source: https://github.com/thedivine1/gst-hsn-api
+deployment_complexity: "Low"
+tags: ["GST", "Tax Compliance", "HSN/SAC Lookup", "MCP Server", "Indian Tax API"]
+source: "https://github.com/thedivine1/gst-hsn-api"
 stars: 0
-language: HTML
-last_updated: '2026-07-12T19:02:14Z'
-discovered_at: '2026-07-12T19:02:28Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-12T19:02:14Z"
+discovered_at: "2026-07-12T19:02:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

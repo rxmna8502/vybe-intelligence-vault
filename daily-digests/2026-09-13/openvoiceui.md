@@ -1,40 +1,19 @@
 ---
-title: MCERQUA/OpenVoiceUI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Flask
-- JavaScript (Vanilla ES Modules)
-- Docker
-- OpenClaw
-- Claude Code
-- Suno (AI Music Generation)
-- Groq
-- OpenAI
-- Anthropic
-- Resemble AI
-- ElevenLabs
-- Deepgram
-- Clerk (Auth)
-- HTML/CSS
-- Web Speech API
+title: "MCERQUA/OpenVoiceUI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Flask", "JavaScript (Vanilla ES Modules)", "Docker", "OpenClaw", "Claude Code", "Suno (AI Music Generation)", "Groq", "OpenAI", "Anthropic", "Resemble AI", "ElevenLabs", "Deepgram", "Clerk (Auth)", "HTML/CSS", "Web Speech API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- voice-ai
-- agent-orchestration
-- live-canvas
-- self-hosted
-- plugin-system
-source: https://github.com/MCERQUA/OpenVoiceUI
+deployment_complexity: "Medium"
+tags: ["voice-ai", "agent-orchestration", "live-canvas", "self-hosted", "plugin-system"]
+source: "https://github.com/MCERQUA/OpenVoiceUI"
 stars: 58
-language: HTML
-last_updated: '2026-07-11T14:46:21Z'
-discovered_at: '2026-07-11T14:51:55Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-11T14:46:21Z"
+discovered_at: "2026-07-11T14:51:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: ontoramp/ontoramp-graph-query
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- REST API
-- JSON
-- Fly.io (hosting)
+title: "ontoramp/ontoramp-graph-query"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["MCP (Model Context Protocol)", "Streamable HTTP", "REST API", "JSON", "Fly.io (hosting)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- MCP server
-- architecture querying
-- governance constraints
-- evidence chains
-- AI agent integration
-source: https://github.com/ontoramp/ontoramp-graph-query
+deployment_complexity: "Low"
+tags: ["MCP server", "architecture querying", "governance constraints", "evidence chains", "AI agent integration"]
+source: "https://github.com/ontoramp/ontoramp-graph-query"
 stars: 0
-language: None
-last_updated: '2026-08-07T17:47:15Z'
-discovered_at: '2026-08-07T17:52:16Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T17:47:15Z"
+discovered_at: "2026-08-07T17:52:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

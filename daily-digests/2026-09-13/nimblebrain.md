@@ -1,35 +1,19 @@
 ---
-title: NimbleBrainInc/nimblebrain
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Bun
-- Node.js
-- Docker
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- React
-- Vite
-- Biome
-- Anthropic API
-- OAuth
+title: "NimbleBrainInc/nimblebrain"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Bun", "Node.js", "Docker", "MCP (Model Context Protocol)", "Streamable HTTP", "React", "Vite", "Biome", "Anthropic API", "OAuth"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP
-- agent automation
-- self-hosted
-- tool orchestration
-- multi-agent systems
-source: https://github.com/NimbleBrainInc/nimblebrain
+deployment_complexity: "Medium"
+tags: ["MCP", "agent automation", "self-hosted", "tool orchestration", "multi-agent systems"]
+source: "https://github.com/NimbleBrainInc/nimblebrain"
 stars: 19
-language: TypeScript
-last_updated: '2026-09-03T22:03:39Z'
-discovered_at: '2026-09-03T22:08:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T22:03:39Z"
+discovered_at: "2026-09-03T22:08:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

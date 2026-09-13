@@ -1,32 +1,19 @@
 ---
-title: oliverzhu823/vizruna
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- Pi Agent Runtime
-- SQLite
-- Zod
-- Vite
-- Electron (legacy)
+title: "oliverzhu823/vizruna"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "React", "Node.js", "Pi Agent Runtime", "SQLite", "Zod", "Vite", "Electron (legacy)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Agent Development
-- RAG Debugging
-- Local-First
-- Versioned Configurations
-- Evidence Tracking
-source: https://github.com/oliverzhu823/vizruna
+deployment_complexity: "Medium"
+tags: ["Agent Development", "RAG Debugging", "Local-First", "Versioned Configurations", "Evidence Tracking"]
+source: "https://github.com/oliverzhu823/vizruna"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-01T07:13:24Z'
-discovered_at: '2026-09-01T09:07:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T07:13:24Z"
+discovered_at: "2026-09-01T09:07:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: rsanandres/aphae
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Godot 4.6
-- GDScript
-- Ollama (LLM backend)
-- JSON (data/configuration)
-- Pixel art graphics
-- Procedural generation
+title: "rsanandres/aphae"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Godot 4.6", "GDScript", "Ollama (LLM backend)", "JSON (data/configuration)", "Pixel art graphics", "Procedural generation"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI agents
-- emergent behavior
-- procedural generation
-- Godot engine
-- LLM integration
-source: https://github.com/rsanandres/aphae
+deployment_complexity: "Medium"
+tags: ["AI agents", "emergent behavior", "procedural generation", "Godot engine", "LLM integration"]
+source: "https://github.com/rsanandres/aphae"
 stars: 4
-language: GDScript
-last_updated: '2026-08-01T06:21:49Z'
-discovered_at: '2026-08-01T06:28:56Z'
-evaluated_by: mistral-small-latest
+language: "GDScript"
+last_updated: "2026-08-01T06:21:49Z"
+discovered_at: "2026-08-01T06:28:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

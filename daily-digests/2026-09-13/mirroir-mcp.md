@@ -1,32 +1,19 @@
 ---
-title: jfarcand/mirroir-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Swift
-- Rust
-- Apple Vision OCR
-- YOLO CoreML
-- MCP (Model Context Protocol)
-- Node.js
-- Homebrew
-- GitHub Actions
+title: "jfarcand/mirroir-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Swift", "Rust", "Apple Vision OCR", "YOLO CoreML", "MCP (Model Context Protocol)", "Node.js", "Homebrew", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- iPhone automation
-- MCP server
-- UI interaction
-- AI agent tools
-- screen mirroring
-source: https://github.com/jfarcand/mirroir-mcp
+deployment_complexity: "Medium"
+tags: ["iPhone automation", "MCP server", "UI interaction", "AI agent tools", "screen mirroring"]
+source: "https://github.com/jfarcand/mirroir-mcp"
 stars: 148
-language: Swift
-last_updated: '2026-08-07T00:00:40Z'
-discovered_at: '2026-08-07T00:01:44Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-07T00:00:40Z"
+discovered_at: "2026-08-07T00:01:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

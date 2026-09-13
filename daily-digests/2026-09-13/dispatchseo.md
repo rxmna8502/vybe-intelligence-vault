@@ -1,33 +1,19 @@
 ---
-title: NeoZi12/dispatchseo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Docker
-- MCP (Model Context Protocol)
-- GitHub API
-- Google Search Console API
-- Claude Code
-- Codex
-- PostgreSQL
-- Redis
+title: "NeoZi12/dispatchseo"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Docker", "MCP (Model Context Protocol)", "GitHub API", "Google Search Console API", "Claude Code", "Codex", "PostgreSQL", "Redis"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- SEO automation
-- AI agent integration
-- content generation
-- rank tracking
-- GitHub pull requests
-source: https://github.com/NeoZi12/dispatchseo
+deployment_complexity: "Medium"
+tags: ["SEO automation", "AI agent integration", "content generation", "rank tracking", "GitHub pull requests"]
+source: "https://github.com/NeoZi12/dispatchseo"
 stars: 15
-language: TypeScript
-last_updated: '2026-08-02T10:36:43Z'
-discovered_at: '2026-08-02T10:41:24Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T10:36:43Z"
+discovered_at: "2026-08-02T10:41:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

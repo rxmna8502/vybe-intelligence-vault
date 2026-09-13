@@ -1,37 +1,19 @@
 ---
-title: 20231118185SSPU/DeepPPT
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Playwright
-- SVG
-- PPTX (DrawingML)
-- AI Agents (Claude Code, Cursor, Windsurf, etc.)
-- Playwright CDP
-- OpenAI API
-- Gemini API
-- Replicate API
-- Stability AI
-- GitHub Actions
-- JSON/YAML
-- PowerPoint COM (for video export)
+title: "20231118185SSPU/DeepPPT"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "SVG", "PPTX (DrawingML)", "AI Agents (Claude Code, Cursor, Windsurf, etc.)", "Playwright CDP", "OpenAI API", "Gemini API", "Replicate API", "Stability AI", "GitHub Actions", "JSON/YAML", "PowerPoint COM (for video export)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI-powered presentations
-- PPT generation
-- research automation
-- SVG to PPTX
-- deterministic workflows
-source: https://github.com/20231118185SSPU/DeepPPT
+deployment_complexity: "Medium"
+tags: ["AI-powered presentations", "PPT generation", "research automation", "SVG to PPTX", "deterministic workflows"]
+source: "https://github.com/20231118185SSPU/DeepPPT"
 stars: 1
-language: Python
-last_updated: '2026-08-03T16:20:14Z'
-discovered_at: '2026-08-03T16:25:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T16:20:14Z"
+discovered_at: "2026-08-03T16:25:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

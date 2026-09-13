@@ -1,34 +1,19 @@
 ---
-title: seattlily/auth0-fastapi-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- FastAPI
-- Auth0
-- Python
-- Jinja2
-- OpenAI API
-- Google Calendar API
-- Google Gmail API
-- Token Vault
-- CIBA (Continuous Access Evaluation)
-- PDF generation (stdlib)
+title: "seattlily/auth0-fastapi-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "Auth0", "Python", "Jinja2", "OpenAI API", "Google Calendar API", "Google Gmail API", "Token Vault", "CIBA (Continuous Access Evaluation)", "PDF generation (stdlib)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Auth0
-- RBAC
-- AI agent
-- multi-tenancy
-- FastAPI
-source: https://github.com/seattlily/auth0-fastapi-agent
+deployment_complexity: "Medium"
+tags: ["Auth0", "RBAC", "AI agent", "multi-tenancy", "FastAPI"]
+source: "https://github.com/seattlily/auth0-fastapi-agent"
 stars: 1
-language: Python
-last_updated: '2026-08-04T19:29:15Z'
-discovered_at: '2026-08-04T19:32:20Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T19:29:15Z"
+discovered_at: "2026-08-04T19:32:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

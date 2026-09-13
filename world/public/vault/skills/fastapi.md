@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 394 resources matched in the intelligence vault.
+Active signals: 395 resources matched in the intelligence vault.
 Recently detected signals:
+- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-09-13
 - [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-09-13
 - [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md) (Source: Unknown Source) - Collected 2026-09-13
 - [Exploring Quantization Backends in Diffusers](../ai/models/huggingface-blog-diffusers-quantization.md) (Source: Unknown Source) - Collected 2026-09-13
 - [Transformers backend integration in SGLang](../ai/models/huggingface-blog-transformers-backend-sglang.md) (Source: Unknown Source) - Collected 2026-09-13
-- [Any Custom Frontend with Gradio's Backend](../ai/models/huggingface-blog-introducing-gradio-server.md) (Source: Unknown Source) - Collected 2026-09-13
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -55,15 +55,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Pydantic-AI-GitHub-Agent**: A Python-based AI agent designed to automate GitHub repository analysis and interactions using Pydantic for structured data validation and AI-driven decision-making.
 
-### 6. [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) ([GitHub](https://github.com/hamzaahmedsheikh/fastapi-openai-agents-sdk-template))
-- Stars: 0
-- Language: Unknown
-- Description: No description provided.
-
-### 7. [vstorm-co/awesome-pydantic-ai](../ai/agents/vstorm-co-awesome-pydantic-ai.md) ([GitHub](https://github.com/vstorm-co/awesome-pydantic-ai))
+### 6. [vstorm-co/awesome-pydantic-ai](../ai/agents/vstorm-co-awesome-pydantic-ai.md) ([GitHub](https://github.com/vstorm-co/awesome-pydantic-ai))
 - Stars: 0
 - Language: Unknown
 - Description: An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
+
+### 7. [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) ([GitHub](https://github.com/hamzaahmedsheikh/fastapi-openai-agents-sdk-template))
+- Stars: 0
+- Language: Unknown
+- Description: No description provided.
 
 ### 8. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
@@ -145,55 +145,55 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization, supporting Docker deplo...
 
-### 24. [`langchain-google-genai` 4.0.0 Released! (Consolidated SDK, Vertex deprecations, and more) · langchain-ai/langchain-goog](../ai/rag/langchain-ai-langchain-google.md) ([GitHub](https://github.com/langchain-ai/langchain-google))
+### 24. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+- Stars: 0
+- Language: Unknown
+- Description: *   Comprehensive Python-based guide for full-stack Retrieval-Augmented Generation (RAG) system development.
+
+### 25. [`langchain-google-genai` 4.0.0 Released! (Consolidated SDK, Vertex deprecations, and more) · langchain-ai/langchain-goog](../ai/rag/langchain-ai-langchain-google.md) ([GitHub](https://github.com/langchain-ai/langchain-google))
 - Stars: 0
 - Language: Unknown
 - Description: - **SDK Consolidation**: Migration from `langchain-google-genai` to unified [`google-genai`](https://googleapis.github.io/python-genai/) SDK, deprecating legacy `google-ai-generativelanguage` and o...
 
-### 25. [langchain-ai/open-swe](../ai/agents/langchain-ai-open-swe.md) ([GitHub](https://github.com/langchain-ai/open-swe))
+### 26. [langchain-ai/open-swe](../ai/agents/langchain-ai-open-swe.md) ([GitHub](https://github.com/langchain-ai/open-swe))
 - Stars: 0
 - Language: Unknown
 - Description: - **Asynchronous Multi-Agent Framework**: Implements an event-driven, asynchronous architecture for concurrent task execution using Python's `asyncio`, enabling parallelized code generation, testin...
 
-### 26. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+### 27. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
 - Stars: 0
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 27. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
+### 28. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
 - Stars: 0
 - Language: Unknown
 - Description: - **Cross-platform desktop app framework** leveraging Chromium for rendering, Node.js for backend integration, and V8 for JavaScript execution, enabling native-like applications using HTML, CSS, an...
 
-### 28. [NanGePlus/CrewAITest](../ai/agents/nangeplus-crewaitest.md) ([GitHub](https://github.com/nangeplus/crewaitest))
+### 29. [NanGePlus/CrewAITest](../ai/agents/nangeplus-crewaitest.md) ([GitHub](https://github.com/nangeplus/crewaitest))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent System**: Implements a collaborative multi-agent architecture using CrewAI, enabling distributed task execution and coordination.
 
-### 29. [continuedev/continue](../ai/agents/continuedev-continue.md) ([GitHub](https://github.com/continuedev/continue))
+### 30. [continuedev/continue](../ai/agents/continuedev-continue.md) ([GitHub](https://github.com/continuedev/continue))
 - Stars: 0
 - Language: Unknown
 - Description: - **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, refactoring, and debugging via CLI or IDE integration.
 
-### 30. [zilliztech/attu](../ai/rag/zilliztech-attu.md) ([GitHub](https://github.com/zilliztech/attu))
+### 31. [zilliztech/attu](../ai/rag/zilliztech-attu.md) ([GitHub](https://github.com/zilliztech/attu))
 - Stars: 0
 - Language: Unknown
 - Description: - **Attu**: A web-based GUI designed as the primary management interface for Milvus, a vector database, providing user-friendly visualization and control over vector database operations.
 
-### 31. [zilliztech/milvus_cli](../ai/rag/zilliztech-milvus-cli.md) ([GitHub](https://github.com/zilliztech/milvus_cli))
+### 32. [zilliztech/milvus_cli](../ai/rag/zilliztech-milvus-cli.md) ([GitHub](https://github.com/zilliztech/milvus_cli))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a command-line interface (CLI) for interacting with Milvus, a vector database, enabling users to execute operations via terminal commands.
 
-### 32. [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md) ([GitHub](https://github.com/datawhalechina/wow-rag))
+### 33. [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md) ([GitHub](https://github.com/datawhalechina/wow-rag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter N...
-
-### 33. [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) ([GitHub](https://github.com/mjunaidca/create-daca))
-- Stars: 0
-- Language: Unknown
-- Description: Template for agentic Chat & Memory Agents with Dapr runtime, UV simplicity, and OpenAI Agents SDK.
 
 ### 34. [JoshuaC215/agent-service-toolkit](../ai/agents/joshuac215-agent-service-toolkit.md) ([GitHub](https://github.com/joshuac215/agent-service-toolkit))
 - Stars: 0
@@ -220,65 +220,65 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any LLM, enabling flexible model deployment and switching without vendor lock-in.
 
-### 39. [Keras 2 <> Keras 3 incompatibilities · Issue #18467 · keras-team/keras · GitHub](../ai/rag/keras-team-keras.md) ([GitHub](https://github.com/keras-team/keras))
+### 39. [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) ([GitHub](https://github.com/mjunaidca/create-daca))
+- Stars: 0
+- Language: Unknown
+- Description: Template for agentic Chat & Memory Agents with Dapr runtime, UV simplicity, and OpenAI Agents SDK.
+
+### 40. [Keras 2 <> Keras 3 incompatibilities · Issue #18467 · keras-team/keras · GitHub](../ai/rag/keras-team-keras.md) ([GitHub](https://github.com/keras-team/keras))
 - Stars: 0
 - Language: Unknown
 - Description: - **Breaking Changes in Keras 3**: Major incompatibilities include default `jit_compile=True`, removal of `tf.keras` SavedModel support, disallowance of deeply nested inputs/outputs, and disuse of ...
 
-### 40. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
+### 41. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
 - Stars: 0
 - Language: Unknown
 - Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 41. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+### 42. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
 - Language: Unknown
 - Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
 
-### 42. [goproxy/goproxy](../ai/rag/goproxy-goproxy.md) ([GitHub](https://github.com/goproxy/goproxy))
+### 43. [goproxy/goproxy](../ai/rag/goproxy-goproxy.md) ([GitHub](https://github.com/goproxy/goproxy))
 - Stars: 0
 - Language: Unknown
 - Description: - **Minimalist Go Module Proxy**: Implements a lightweight HTTP handler (`goproxy`) to serve Go modules, reducing overhead while maintaining compatibility with `go get` and `go mod download`.
 
-### 43. [aomediacodec/libavif](../ai/rag/aomediacodec-libavif.md) ([GitHub](https://github.com/aomediacodec/libavif))
+### 44. [aomediacodec/libavif](../ai/rag/aomediacodec-libavif.md) ([GitHub](https://github.com/aomediacodec/libavif))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: C-based library for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression.
 
-### 44. [neondatabase/neon](../ai/rag/neondatabase-neon.md) ([GitHub](https://github.com/neondatabase/neon))
+### 45. [neondatabase/neon](../ai/rag/neondatabase-neon.md) ([GitHub](https://github.com/neondatabase/neon))
 - Stars: 0
 - Language: Unknown
 - Description: - **Architecture**: Separates PostgreSQL compute and storage layers to enable autoscaling, branching (via logical replication), and "scale-to-zero" compute nodes for cost efficiency.
 
-### 45. [gothinkster/realworld](../ai/resources/gothinkster-realworld.md) ([GitHub](https://github.com/gothinkster/realworld))
+### 46. [gothinkster/realworld](../ai/resources/gothinkster-realworld.md) ([GitHub](https://github.com/gothinkster/realworld))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-framework demonstration**: Repository provides a "mother of all demo apps" showcasing full-stack implementations of a Medium.com clone across multiple frameworks (e.g., React, Angular, No...
 
-### 46. [docker/extensions-sdk](../ai/resources/docker-extensions-sdk.md) ([GitHub](https://github.com/docker/extensions-sdk))
+### 47. [docker/extensions-sdk](../ai/resources/docker-extensions-sdk.md) ([GitHub](https://github.com/docker/extensions-sdk))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a framework for developing Docker Desktop extensions, enabling integration of third-party tools and services into the Docker Desktop UI.
 
-### 47. [godotengine/godot](../ai/resources/godotengine-godot.md) ([GitHub](https://github.com/godotengine/godot))
+### 48. [godotengine/godot](../ai/resources/godotengine-godot.md) ([GitHub](https://github.com/godotengine/godot))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-platform 2D/3D Game Engine**: Open-source C++ framework supporting cross-platform game development with native Vulkan, OpenGL ES, and Direct3D 12 backends.
 
-### 48. [jupyter-widgets/ipywidgets](../ai/resources/jupyter-widgets-ipywidgets.md) ([GitHub](https://github.com/jupyter-widgets/ipywidgets))
+### 49. [jupyter-widgets/ipywidgets](../ai/resources/jupyter-widgets-ipywidgets.md) ([GitHub](https://github.com/jupyter-widgets/ipywidgets))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core Functionality**: Provides interactive UI widgets (sliders, buttons, etc.) for Jupyter Notebooks/Lab, enabling dynamic data exploration and visualization via bidirectional communication bet...
 
-### 49. [pytorch/pytorch](../ai/resources/pytorch-pytorch.md) ([GitHub](https://github.com/pytorch/pytorch))
+### 50. [pytorch/pytorch](../ai/resources/pytorch-pytorch.md) ([GitHub](https://github.com/pytorch/pytorch))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core Functionality**: PyTorch provides a Python-based framework for tensor computations and dynamic neural network construction with native GPU acceleration via CUDA.
-
-### 50. [jupyter-server/jupyter_server](../ai/resources/jupyter-server-jupyter-server.md) ([GitHub](https://github.com/jupyter-server/jupyter_server))
-- Stars: 0
-- Language: Unknown
-- Description: - Core backend service for Jupyter web applications, providing essential services, APIs, and REST endpoints.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-09-13T10:43:35.107229+05:30.838457+05:30.718581+05:30.921966+05:30.999416+05:30.458151+05:30.678210+05:30.432642+05:30.577253+05:30.747395+05:30.875728+05:30.883591+05:30.559490+05:30.395278+05:30.858953+05:30.251589+05:30.652817+05:30.353792+05:30.483535+05:30.938268+05:30.445356+05:30.716040+05:30.193765+05:30.611358+05:30.198585+05:30.924533+05:30.804594+05:30.830546+05:30.235798+05:30.888096+05:30.688152+05:30.300905+05:30.123878+05:30.298707+05:30.204585+05:30.929318+05:30.295347+05:30.306374+05:30.985058+05:30.064942+05:30.587270+05:30.303179+05:30.001353+05:30.363993+05:30.308315+05:30.645793+05:30.237695+05:30.991616+05:30.078484+05:30.964391+05:30.732148+05:30.817119+05:30.617192+05:30.550164+05:30.817045+05:30.335056+05:30.097468+05:30.907592+05:30.534134+05:30.696734+05:30.297488+05:30.190693+05:30.062435+05:30.911844+05:30.476473+05:30.750895+05:30.864834+05:30.365059+05:30.366333+05:30.784009+05:30.204961+05:30.809036+05:30.321386+05:30.834177+05:30.921170+05:30.638444+05:30.233435+05:30.269068+05:30.967266+05:30.400329+05:30.516425+05:30.717818+05:30.251362+05:30.812972+05:30.038030+05:30.680312+05:30.475564+05:30.967155+05:30.098016+05:30.848360+05:30.655718+05:30.500742+05:30.708410+05:30.175503+05:30.437310+05:30.873681+05:30.261477+05:30.797858+05:30.800179+05:30.778930+05:30.624722+05:30.416605+05:30.980517+05:30.628706+05:30.299085+05:30.948648+05:30.624898+05:30.310589+05:30.594167+05:30.658502+05:30.752693+05:30.155247+05:30.022560+05:30.283980+05:30.858501+05:30.234467+05:30.380362+05:30.406871+05:30.253530+05:30.349053+05:30.723980+05:30.318756+05:30.905328+05:30.686894+05:30.256154+05:30.000355+05:30.162440+05:30.276916+05:30.857904+05:30.498503+05:30.603768+05:30.859741+05:30.453329+05:30.054726+05:30.351179+05:30.840990+05:30.954287+05:30.551507+05:30.370336+05:30.947285+05:30.642184+05:30.186252+05:30.447201+05:30.100047+05:30.174580+05:30.511527+05:30.618034+05:30.228265+05:30.595227+05:30.785751+05:30.428701+05:30.368129+05:30.795632+05:30.566132+05:30.739765+05:30.238880+05:30.483561+05:30.277939+05:30.607276+05:30.378696+05:30.516305+05:30.356025+05:30.162262+05:30.903641+05:30.439382+05:30.935075+05:30.228084+05:30.086388+05:30.747669+05:30.996099+05:30.104731+05:30.855225+05:30.626862+05:30.426246+05:30.481575+05:30.209870+05:30.445087+05:30.085481+05:30.939201+05:30.072982+05:30.395940+05:30.080801+05:30.030163+05:30.647529+05:30.774714+05:30.784882+05:30.925266+05:30.992746+05:30.007727+05:30.880576+05:30.050162+05:30.663951+05:30.048614+05:30.476449+05:30.363603+05:30.271790+05:30.889089+05:30.324616+05:30.962375+05:30.263617+05:30.470395+05:30.882617+05:30.524737+05:30.306694+05:30.403710+05:30.164726+05:30.720671+05:30.555014+05:30.673295+05:30.553202+05:30.264571+05:30.084122+05:30.130746+05:30.755048+05:30.140094+05:30.506119+05:30.570340+05:30.123128+05:30.758907+05:30.212288+05:30.506738+05:30.473134+05:30.805051+05:30.839227+05:30.725103+05:30.603852+05:30.125727+05:30.271985+05:30.844255+05:30.294270+05:30.717321+05:30.926947+05:30.438472+05:30.827646+05:30.035069+05:30.129016+05:30.678286+05:30.876364+05:30.431958+05:30.458916+05:30.504658+05:30.794255+05:30.350175+05:30.155604+05:30.750309+05:30.216935+05:30.537886+05:30.453186+05:30.163690+05:30.432560+05:30.939268+05:30.040731+05:30.538169+05:30.996393+05:30.656776+05:30.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-09-13T19:09:59.318477+05:30.107229+05:30.838457+05:30.718581+05:30.921966+05:30.999416+05:30.458151+05:30.678210+05:30.432642+05:30.577253+05:30.747395+05:30.875728+05:30.883591+05:30.559490+05:30.395278+05:30.858953+05:30.251589+05:30.652817+05:30.353792+05:30.483535+05:30.938268+05:30.445356+05:30.716040+05:30.193765+05:30.611358+05:30.198585+05:30.924533+05:30.804594+05:30.830546+05:30.235798+05:30.888096+05:30.688152+05:30.300905+05:30.123878+05:30.298707+05:30.204585+05:30.929318+05:30.295347+05:30.306374+05:30.985058+05:30.064942+05:30.587270+05:30.303179+05:30.001353+05:30.363993+05:30.308315+05:30.645793+05:30.237695+05:30.991616+05:30.078484+05:30.964391+05:30.732148+05:30.817119+05:30.617192+05:30.550164+05:30.817045+05:30.335056+05:30.097468+05:30.907592+05:30.534134+05:30.696734+05:30.297488+05:30.190693+05:30.062435+05:30.911844+05:30.476473+05:30.750895+05:30.864834+05:30.365059+05:30.366333+05:30.784009+05:30.204961+05:30.809036+05:30.321386+05:30.834177+05:30.921170+05:30.638444+05:30.233435+05:30.269068+05:30.967266+05:30.400329+05:30.516425+05:30.717818+05:30.251362+05:30.812972+05:30.038030+05:30.680312+05:30.475564+05:30.967155+05:30.098016+05:30.848360+05:30.655718+05:30.500742+05:30.708410+05:30.175503+05:30.437310+05:30.873681+05:30.261477+05:30.797858+05:30.800179+05:30.778930+05:30.624722+05:30.416605+05:30.980517+05:30.628706+05:30.299085+05:30.948648+05:30.624898+05:30.310589+05:30.594167+05:30.658502+05:30.752693+05:30.155247+05:30.022560+05:30.283980+05:30.858501+05:30.234467+05:30.380362+05:30.406871+05:30.253530+05:30.349053+05:30.723980+05:30.318756+05:30.905328+05:30.686894+05:30.256154+05:30.000355+05:30.162440+05:30.276916+05:30.857904+05:30.498503+05:30.603768+05:30.859741+05:30.453329+05:30.054726+05:30.351179+05:30.840990+05:30.954287+05:30.551507+05:30.370336+05:30.947285+05:30.642184+05:30.186252+05:30.447201+05:30.100047+05:30.174580+05:30.511527+05:30.618034+05:30.228265+05:30.595227+05:30.785751+05:30.428701+05:30.368129+05:30.795632+05:30.566132+05:30.739765+05:30.238880+05:30.483561+05:30.277939+05:30.607276+05:30.378696+05:30.516305+05:30.356025+05:30.162262+05:30.903641+05:30.439382+05:30.935075+05:30.228084+05:30.086388+05:30.747669+05:30.996099+05:30.104731+05:30.855225+05:30.626862+05:30.426246+05:30.481575+05:30.209870+05:30.445087+05:30.085481+05:30.939201+05:30.072982+05:30.395940+05:30.080801+05:30.030163+05:30.647529+05:30.774714+05:30.784882+05:30.925266+05:30.992746+05:30.007727+05:30.880576+05:30.050162+05:30.663951+05:30.048614+05:30.476449+05:30.363603+05:30.271790+05:30.889089+05:30.324616+05:30.962375+05:30.263617+05:30.470395+05:30.882617+05:30.524737+05:30.306694+05:30.403710+05:30.164726+05:30.720671+05:30.555014+05:30.673295+05:30.553202+05:30.264571+05:30.084122+05:30.130746+05:30.755048+05:30.140094+05:30.506119+05:30.570340+05:30.123128+05:30.758907+05:30.212288+05:30.506738+05:30.473134+05:30.805051+05:30.839227+05:30.725103+05:30.603852+05:30.125727+05:30.271985+05:30.844255+05:30.294270+05:30.717321+05:30.926947+05:30.438472+05:30.827646+05:30.035069+05:30.129016+05:30.678286+05:30.876364+05:30.431958+05:30.458916+05:30.504658+05:30.794255+05:30.350175+05:30.155604+05:30.750309+05:30.216935+05:30.537886+05:30.453186+05:30.163690+05:30.432560+05:30.939268+05:30.040731+05:30.538169+05:30.996393+05:30.656776+05:30.235136+05:30.627298+05:30.871174+05:30.223926+05:30.006587+05:30.867644+05:30.599041+05:30.060511+05:30.218202+05:30.803846+05:30.892109+05:30.469655+05:30.598769+05:30.259238+05:30.415849+05:30.909972+05:30.547397+05:30.488526+05:30.318173+05:30.550517+05:30.100484+05:30.307721+05:30.023619+05:30.023798+05:30.057841+05:30.646784+05:30.624068+05:30.799577+05:30.664978+05:30.078478+05:30.420977+05:30.547698+05:30.531429+05:30.108240+05:30.255424+05:30.201316+05:30.614950+05:30.362155+05:30.601824+05:30.915572+05:30.316791+05:30.818733+05:30.260429+05:30.012496+05:30.407442+05:30.909714+05:30.722908+05:30.700951+05:30.640274+05:30.816789+05:30.678741+05:30.439495+05:30.536126+05:30.054340+05:30.961322+05:30.162935+05:30.316905+05:30.746906+05:30.604273+05:30.011835+05:30.187457+05:30.153218+05:30.049858+05:30.161651+05:30.974568+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

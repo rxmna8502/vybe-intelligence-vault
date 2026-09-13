@@ -1,32 +1,19 @@
 ---
-title: MaximStone/extenshi-io
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- npm
-- MCP (Model Context Protocol)
-- CLI tools
-- Browser APIs
-- Security scanning
-- Web scraping
+title: "MaximStone/extenshi-io"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "npm", "MCP (Model Context Protocol)", "CLI tools", "Browser APIs", "Security scanning", "Web scraping"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- browser extensions
-- security analysis
-- developer tools
-- MCP server
-- CLI utilities
-source: https://github.com/MaximStone/extenshi-io
+deployment_complexity: "Low"
+tags: ["browser extensions", "security analysis", "developer tools", "MCP server", "CLI utilities"]
+source: "https://github.com/MaximStone/extenshi-io"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-03T10:32:42Z'
-discovered_at: '2026-08-03T10:44:06Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T10:32:42Z"
+discovered_at: "2026-08-03T10:44:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

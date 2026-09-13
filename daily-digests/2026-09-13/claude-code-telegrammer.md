@@ -1,31 +1,19 @@
 ---
-title: scitex-ai/claude-code-telegrammer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Bun
-- MCP (Model Context Protocol)
-- Telegram Bot API
-- SQLite
-- GNU Screen
-- Claude Code
+title: "scitex-ai/claude-code-telegrammer"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Bun", "MCP (Model Context Protocol)", "Telegram Bot API", "SQLite", "GNU Screen", "Claude Code"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Telegram integration
-- Claude Code automation
-- MCP server
-- autonomous agents
-- TUI watchdog
-source: https://github.com/scitex-ai/claude-code-telegrammer
+deployment_complexity: "Medium"
+tags: ["Telegram integration", "Claude Code automation", "MCP server", "autonomous agents", "TUI watchdog"]
+source: "https://github.com/scitex-ai/claude-code-telegrammer"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-18T07:44:45Z'
-discovered_at: '2026-07-18T07:47:11Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T07:44:45Z"
+discovered_at: "2026-07-18T07:47:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

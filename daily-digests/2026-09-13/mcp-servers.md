@@ -1,32 +1,19 @@
 ---
-title: theluckystrike/mcp-servers
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- Cloudflare Workers
-- Stripe API
-- Ed25519
-- npm
-- TypeScript
+title: "theluckystrike/mcp-servers"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Cloudflare Workers", "Stripe API", "Ed25519", "npm", "TypeScript"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP servers
-- local automation
-- AI tooling
-- offline-first
-- productivity
-source: https://github.com/theluckystrike/mcp-servers
+deployment_complexity: "Medium"
+tags: ["MCP servers", "local automation", "AI tooling", "offline-first", "productivity"]
+source: "https://github.com/theluckystrike/mcp-servers"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-03T02:16:10Z'
-discovered_at: '2026-09-03T02:20:17Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-03T02:16:10Z"
+discovered_at: "2026-09-03T02:20:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

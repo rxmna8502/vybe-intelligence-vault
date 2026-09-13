@@ -1,29 +1,19 @@
 ---
-title: hermes-labs-ai/intent-verify
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Markdown
-- CLI
-- Natural Language Processing (NLP)
-- Tokenization
+title: "hermes-labs-ai/intent-verify"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "CLI", "Natural Language Processing (NLP)", "Tokenization"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- spec verification
-- lexical coverage
-- drift detection
-- CI guardrail
-- code quality
-source: https://github.com/hermes-labs-ai/intent-verify
+deployment_complexity: "Low"
+tags: ["spec verification", "lexical coverage", "drift detection", "CI guardrail", "code quality"]
+source: "https://github.com/hermes-labs-ai/intent-verify"
 stars: 0
-language: Python
-last_updated: '2026-08-04T09:59:53Z'
-discovered_at: '2026-08-04T10:41:03Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T09:59:53Z"
+discovered_at: "2026-08-04T10:41:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

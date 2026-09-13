@@ -1,32 +1,19 @@
 ---
-title: VectifyAI/PageIndex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- LLMs (OpenAI, LiteLLM)
-- PDF Parsing
-- Tree Indexing
-- OCR (optional)
-- MCP
-- API
-- Jupyter Notebooks
+title: "VectifyAI/PageIndex"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LLMs (OpenAI, LiteLLM)", "PDF Parsing", "Tree Indexing", "OCR (optional)", "MCP", "API", "Jupyter Notebooks"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- reasoning-based RAG
-- vectorless retrieval
-- document tree indexing
-- context-aware retrieval
-- agentic RAG
-source: https://github.com/VectifyAI/PageIndex
+deployment_complexity: "Medium"
+tags: ["reasoning-based RAG", "vectorless retrieval", "document tree indexing", "context-aware retrieval", "agentic RAG"]
+source: "https://github.com/VectifyAI/PageIndex"
 stars: 35070
-language: Python
-last_updated: '2026-08-08T08:18:59Z'
-discovered_at: '2026-08-08T08:43:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T08:18:59Z"
+discovered_at: "2026-08-08T08:43:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

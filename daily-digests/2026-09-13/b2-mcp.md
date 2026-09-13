@@ -1,32 +1,19 @@
 ---
-title: backblaze-labs/b2-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Backblaze B2 SDK
-- AWS S3 SDK
-- Docker
-- GitHub Actions
-- Jest/Vitest
+title: "backblaze-labs/b2-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Backblaze B2 SDK", "AWS S3 SDK", "Docker", "GitHub Actions", "Jest/Vitest"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Backblaze B2
-- cloud storage
-- AI tooling
-- data access
-source: https://github.com/backblaze-labs/b2-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Backblaze B2", "cloud storage", "AI tooling", "data access"]
+source: "https://github.com/backblaze-labs/b2-mcp"
 stars: 1
-language: None
-last_updated: '2026-09-01T15:46:04Z'
-discovered_at: '2026-09-01T15:56:31Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-01T15:46:04Z"
+discovered_at: "2026-09-01T15:56:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: partymola/bosch-flow-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- OAuth 2.0
-- SQLite
-- FastAPI
-- uv
-- GPLv3
+title: "partymola/bosch-flow-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "OAuth 2.0", "SQLite", "FastAPI", "uv", "GPLv3"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Bosch eBike Flow
-- MCP server
-- battery health
-- ride analytics
-- OAuth integration
-source: https://github.com/partymola/bosch-flow-mcp
+deployment_complexity: "Medium"
+tags: ["Bosch eBike Flow", "MCP server", "battery health", "ride analytics", "OAuth integration"]
+source: "https://github.com/partymola/bosch-flow-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-09T10:35:09Z'
-discovered_at: '2026-08-09T10:38:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T10:35:09Z"
+discovered_at: "2026-08-09T10:38:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

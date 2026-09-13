@@ -1,27 +1,19 @@
 ---
-title: aa814678389-del/reflection-engine
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Prompt Engineering
-- Natural Language Processing
-- Windows OS
+title: "aa814678389-del/reflection-engine"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Prompt Engineering", "Natural Language Processing", "Windows OS"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- AI memory analysis
-- personalization
-- prompt engineering
-- user profiling
-- evidence-grounded insights
-source: https://github.com/aa814678389-del/reflection-engine
+deployment_complexity: "Low"
+tags: ["AI memory analysis", "personalization", "prompt engineering", "user profiling", "evidence-grounded insights"]
+source: "https://github.com/aa814678389-del/reflection-engine"
 stars: 0
-language: None
-last_updated: '2026-08-06T06:29:39Z'
-discovered_at: '2026-08-06T06:32:08Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T06:29:39Z"
+discovered_at: "2026-08-06T06:32:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

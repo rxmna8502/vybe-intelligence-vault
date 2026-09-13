@@ -1,29 +1,19 @@
 ---
-title: geekma/hermes-wexin-heartbeat
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Cron Scheduler
-- Docker
-- Linux
-- macOS
+title: "geekma/hermes-wexin-heartbeat"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Cron Scheduler", "Docker", "Linux", "macOS"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- WeChat iLink
-- rate-limiting
-- heartbeat
-- task recovery
-- Hermes Agent
-source: https://github.com/geekma/hermes-wexin-heartbeat
+deployment_complexity: "Medium"
+tags: ["WeChat iLink", "rate-limiting", "heartbeat", "task recovery", "Hermes Agent"]
+source: "https://github.com/geekma/hermes-wexin-heartbeat"
 stars: 0
-language: Python
-last_updated: '2026-08-03T16:24:17Z'
-discovered_at: '2026-08-03T16:25:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T16:24:17Z"
+discovered_at: "2026-08-03T16:25:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

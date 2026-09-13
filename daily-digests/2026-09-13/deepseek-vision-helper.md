@@ -1,29 +1,19 @@
 ---
-title: JJ-Yvain/deepseek-vision-helper
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- ZCode CLI
-- Vision API (Agnes, Zhipu, MiMo)
-- JSON configuration
-- Shell scripting
+title: "JJ-Yvain/deepseek-vision-helper"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "ZCode CLI", "Vision API (Agnes, Zhipu, MiMo)", "JSON configuration", "Shell scripting"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- vision-enhancement
-- multi-modal
-- ZCode integration
-- image-recognition
-- AI-hook
-source: https://github.com/JJ-Yvain/deepseek-vision-helper
+deployment_complexity: "Medium"
+tags: ["vision-enhancement", "multi-modal", "ZCode integration", "image-recognition", "AI-hook"]
+source: "https://github.com/JJ-Yvain/deepseek-vision-helper"
 stars: 0
-language: Python
-last_updated: '2026-08-07T06:05:59Z'
-discovered_at: '2026-08-07T06:12:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T06:05:59Z"
+discovered_at: "2026-08-07T06:12:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

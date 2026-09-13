@@ -1,34 +1,19 @@
 ---
-title: vuhai2002/zalo-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- Vercel AI SDK
-- Hono
-- React
-- Tailwind CSS
-- Zod
-- AES-256-GCM
-- scrypt
+title: "vuhai2002/zalo-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "Vercel AI SDK", "Hono", "React", "Tailwind CSS", "Zod", "AES-256-GCM", "scrypt"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- self-hosted
-- multi-agent
-- Zalo integration
-- rich-text messaging
-- LLM provider-agnostic
-source: https://github.com/vuhai2002/zalo-agent
+deployment_complexity: "Medium"
+tags: ["self-hosted", "multi-agent", "Zalo integration", "rich-text messaging", "LLM provider-agnostic"]
+source: "https://github.com/vuhai2002/zalo-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T13:45:07Z'
-discovered_at: '2026-08-08T13:48:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T13:45:07Z"
+discovered_at: "2026-08-08T13:48:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

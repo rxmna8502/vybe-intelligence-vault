@@ -1,29 +1,19 @@
 ---
-title: XiucuiGuan/shumo-expert
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Natural Language Processing (NLP)
-- Prompt Engineering
-- Agentic Workflows
-- Bloom's Taxonomy
-- Socratic Questioning
+title: "XiucuiGuan/shumo-expert"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Natural Language Processing (NLP)", "Prompt Engineering", "Agentic Workflows", "Bloom's Taxonomy", "Socratic Questioning"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- mathematical modeling
-- AI agent
-- prompt engineering
-- educational tool
-- workflow guidance
-source: https://github.com/XiucuiGuan/shumo-expert
+deployment_complexity: "Low"
+tags: ["mathematical modeling", "AI agent", "prompt engineering", "educational tool", "workflow guidance"]
+source: "https://github.com/XiucuiGuan/shumo-expert"
 stars: 0
-language: None
-last_updated: '2026-09-02T08:18:05Z'
-discovered_at: '2026-09-02T08:19:24Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-02T08:18:05Z"
+discovered_at: "2026-09-02T08:19:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: mdowis/anansi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Playwright
-- FastMCP
-- Pydantic
-- SQLite
-- curl-cffi
-- Asyncio
-- CSS Selectors
-- TLS Fingerprinting
+title: "mdowis/anansi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "FastMCP", "Pydantic", "SQLite", "curl-cffi", "Asyncio", "CSS Selectors", "TLS Fingerprinting"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- web scraping
-- self-healing
-- anti-bot
-- LLM-driven
-- data extraction
-source: https://github.com/mdowis/anansi
+deployment_complexity: "Medium"
+tags: ["web scraping", "self-healing", "anti-bot", "LLM-driven", "data extraction"]
+source: "https://github.com/mdowis/anansi"
 stars: 100
-language: Python
-last_updated: '2026-07-17T20:04:12Z'
-discovered_at: '2026-07-17T20:05:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T20:04:12Z"
+discovered_at: "2026-07-17T20:05:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

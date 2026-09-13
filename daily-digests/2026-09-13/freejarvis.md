@@ -1,33 +1,19 @@
 ---
-title: openwarehq/freejarvis
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- React
-- Docker
-- Node.js
-- SQLite
-- OpenAI-compatible API
-- Web Speech API
-- ElevenLabs (optional)
-- Hermes Agent (self-hosted)
+title: "openwarehq/freejarvis"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Docker", "Node.js", "SQLite", "OpenAI-compatible API", "Web Speech API", "ElevenLabs (optional)", "Hermes Agent (self-hosted)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice interface
-- self-hosted AI
-- agent control
-- local processing
-- tool orchestration
-source: https://github.com/openwarehq/freejarvis
+deployment_complexity: "Medium"
+tags: ["voice interface", "self-hosted AI", "agent control", "local processing", "tool orchestration"]
+source: "https://github.com/openwarehq/freejarvis"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-09T12:46:35Z'
-discovered_at: '2026-08-09T12:50:05Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T12:46:35Z"
+discovered_at: "2026-08-09T12:50:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: Pact-Community-Organization/pact-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Kadena Chainweb
-- Pact 5
-- npm
-- pnpm
+title: "Pact-Community-Organization/pact-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Kadena Chainweb", "Pact 5", "npm", "pnpm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP servers
-- smart contracts
-- Kadena
-- Pact language
-- Chainweb
-source: https://github.com/Pact-Community-Organization/pact-mcp
+deployment_complexity: "Low"
+tags: ["MCP servers", "smart contracts", "Kadena", "Pact language", "Chainweb"]
+source: "https://github.com/Pact-Community-Organization/pact-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-03T02:48:37Z'
-discovered_at: '2026-08-03T02:54:40Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T02:48:37Z"
+discovered_at: "2026-08-03T02:54:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

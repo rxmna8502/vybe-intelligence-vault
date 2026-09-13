@@ -1,29 +1,19 @@
 ---
-title: azizjaz7890/claude-code-deep-dive
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Markdown
-- Documentation
-- Software Architecture
-- Agentic Systems
-- CLI Tools
+title: "azizjaz7890/claude-code-deep-dive"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "Documentation", "Software Architecture", "Agentic Systems", "CLI Tools"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- Claude Code
-- Agentic Systems
-- Code Analysis
-- Architecture Deep Dive
-- Developer Tools
-source: https://github.com/azizjaz7890/claude-code-deep-dive
+deployment_complexity: "Low"
+tags: ["Claude Code", "Agentic Systems", "Code Analysis", "Architecture Deep Dive", "Developer Tools"]
+source: "https://github.com/azizjaz7890/claude-code-deep-dive"
 stars: 0
-language: None
-last_updated: '2026-07-10T20:21:27Z'
-discovered_at: '2026-07-10T20:21:41Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-10T20:21:27Z"
+discovered_at: "2026-07-10T20:21:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

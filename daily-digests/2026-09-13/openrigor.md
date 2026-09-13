@@ -1,34 +1,19 @@
 ---
-title: wangyunjeff/OpenRigor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- React
-- Vite
-- PostgreSQL
-- Redis
-- SSE (Server-Sent Events)
-- Docker
-- gVisor
-- Firecracker
+title: "wangyunjeff/OpenRigor"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "React", "Vite", "PostgreSQL", "Redis", "SSE (Server-Sent Events)", "Docker", "gVisor", "Firecracker"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- AI agent workspace
-- persistent execution
-- sandboxed tools
-- streaming progress
-- clean-room implementation
-source: https://github.com/wangyunjeff/OpenRigor
+deployment_complexity: "High"
+tags: ["AI agent workspace", "persistent execution", "sandboxed tools", "streaming progress", "clean-room implementation"]
+source: "https://github.com/wangyunjeff/OpenRigor"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T15:32:25Z'
-discovered_at: '2026-08-09T15:35:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T15:32:25Z"
+discovered_at: "2026-08-09T15:35:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

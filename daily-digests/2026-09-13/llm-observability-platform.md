@@ -1,38 +1,19 @@
 ---
-title: Chief-Strategist-J/llm-observability-platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Docker
-- Kubernetes
-- Terraform
-- Ansible
-- PostgreSQL
-- ClickHouse
-- Redis
-- FastAPI
-- Grafana
-- Prometheus
-- Temporal
-- Kafka
-- ZooKeeper
+title: "Chief-Strategist-J/llm-observability-platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Docker", "Kubernetes", "Terraform", "Ansible", "PostgreSQL", "ClickHouse", "Redis", "FastAPI", "Grafana", "Prometheus", "Temporal", "Kafka", "ZooKeeper"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- observability
-- self-hosted
-- LLM monitoring
-- data sovereignty
-- multi-cloud
-source: https://github.com/Chief-Strategist-J/llm-observability-platform
+deployment_complexity: "High"
+tags: ["observability", "self-hosted", "LLM monitoring", "data sovereignty", "multi-cloud"]
+source: "https://github.com/Chief-Strategist-J/llm-observability-platform"
 stars: 3
-language: Python
-last_updated: '2026-08-07T12:54:52Z'
-discovered_at: '2026-08-07T13:02:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T12:54:52Z"
+discovered_at: "2026-08-07T13:02:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

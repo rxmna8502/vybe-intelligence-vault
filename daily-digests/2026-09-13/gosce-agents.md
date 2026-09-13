@@ -1,34 +1,19 @@
 ---
-title: mikerawsonnz/gosce-agents
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- A2A (Agent-to-Agent)
-- LangChain
-- OpenTelemetry
-- JWT
-- FastAPI
-- Docker
-- Nevermined x402
-- Smithery
+title: "mikerawsonnz/gosce-agents"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "LangChain", "OpenTelemetry", "JWT", "FastAPI", "Docker", "Nevermined x402", "Smithery"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- agent-orchestration
-- authentication
-- microservices
-- observability
-- production-ready
-source: https://github.com/mikerawsonnz/gosce-agents
+deployment_complexity: "Medium"
+tags: ["agent-orchestration", "authentication", "microservices", "observability", "production-ready"]
+source: "https://github.com/mikerawsonnz/gosce-agents"
 stars: 1
-language: Python
-last_updated: '2026-08-04T00:09:59Z'
-discovered_at: '2026-08-04T00:11:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T00:09:59Z"
+discovered_at: "2026-08-04T00:11:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

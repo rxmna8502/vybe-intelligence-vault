@@ -1,28 +1,19 @@
 ---
-title: Imaginationfinagler591/mcp-hello-world
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Kotlin
-- Model Context Protocol (MCP)
-- STDIO
-- Java Runtime Environment
+title: "Imaginationfinagler591/mcp-hello-world"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Kotlin", "Model Context Protocol (MCP)", "STDIO", "Java Runtime Environment"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP
-- Kotlin
-- STDIO
-- client-server
-- educational
-source: https://github.com/Imaginationfinagler591/mcp-hello-world
+deployment_complexity: "Low"
+tags: ["MCP", "Kotlin", "STDIO", "client-server", "educational"]
+source: "https://github.com/Imaginationfinagler591/mcp-hello-world"
 stars: 0
-language: Kotlin
-last_updated: '2026-09-01T22:09:07Z'
-discovered_at: '2026-09-01T22:18:48Z'
-evaluated_by: mistral-small-latest
+language: "Kotlin"
+last_updated: "2026-09-01T22:09:07Z"
+discovered_at: "2026-09-01T22:18:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

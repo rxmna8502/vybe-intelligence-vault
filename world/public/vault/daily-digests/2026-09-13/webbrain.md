@@ -1,36 +1,19 @@
 ---
-title: webbrain-one/webbrain
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- JavaScript
-- TypeScript
-- HTML/CSS
-- WebExtensions API
-- llama.cpp
-- Ollama
-- vLLM
-- LM Studio
-- LocalAI
-- OpenAI-compatible APIs
-- React
-- Node.js
+title: "webbrain-one/webbrain"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "TypeScript", "HTML/CSS", "WebExtensions API", "llama.cpp", "Ollama", "vLLM", "LM Studio", "LocalAI", "OpenAI-compatible APIs", "React", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- AI agent
-- multi-modal interaction
-- local LLM integration
-- workflow automation
-source: https://github.com/webbrain-one/webbrain
+deployment_complexity: "Medium"
+tags: ["browser automation", "AI agent", "multi-modal interaction", "local LLM integration", "workflow automation"]
+source: "https://github.com/webbrain-one/webbrain"
 stars: 991
-language: JavaScript
-last_updated: '2026-09-03T02:14:44Z'
-discovered_at: '2026-09-03T02:15:48Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-03T02:14:44Z"
+discovered_at: "2026-09-03T02:15:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

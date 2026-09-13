@@ -1,33 +1,19 @@
 ---
-title: oaknational/oak-open-curriculum-ecosystem
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Elasticsearch
-- OpenAPI
-- Node.js
-- Zod
-- Semantic Search
-- Knowledge Graphs
-- Agentic Engineering
+title: "oaknational/oak-open-curriculum-ecosystem"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Elasticsearch", "OpenAPI", "Node.js", "Zod", "Semantic Search", "Knowledge Graphs", "Agentic Engineering"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- education
-- curriculum
-- AI-native
-- MCP
-- semantic search
-source: https://github.com/oaknational/oak-open-curriculum-ecosystem
+deployment_complexity: "Medium"
+tags: ["education", "curriculum", "AI-native", "MCP", "semantic search"]
+source: "https://github.com/oaknational/oak-open-curriculum-ecosystem"
 stars: 8
-language: TypeScript
-last_updated: '2026-09-02T22:04:45Z'
-discovered_at: '2026-09-02T22:22:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T22:04:45Z"
+discovered_at: "2026-09-02T22:22:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

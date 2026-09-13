@@ -1,34 +1,19 @@
 ---
-title: Sunhaiy/Reflex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Electron
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Zustand
-- xterm.js
-- ssh2
-- React Markdown
-- Node.js
+title: "Sunhaiy/Reflex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "React", "TypeScript", "Vite", "Tailwind CSS", "Zustand", "xterm.js", "ssh2", "React Markdown", "Node.js"]
 quality_score: 9
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- SSH client
-- AI Agent
-- Developer Workbench
-- Cross-platform
-- System Monitoring
-source: https://github.com/Sunhaiy/Reflex
+deployment_complexity: "Medium"
+tags: ["SSH client", "AI Agent", "Developer Workbench", "Cross-platform", "System Monitoring"]
+source: "https://github.com/Sunhaiy/Reflex"
 stars: 21
-language: TypeScript
-last_updated: '2026-08-05T08:31:59Z'
-discovered_at: '2026-08-05T08:35:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T08:31:59Z"
+discovered_at: "2026-08-05T08:35:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: HillolPias/taskapi-backend
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- FastAPI
-- async SQLAlchemy 2.0
-- PostgreSQL
-- LangChain
-- LangGraph
-- OpenAI (gpt-4o-mini)
-- ChromaDB
-- LangSmith
-- Alembic
-- Neon (PostgreSQL hosting)
-- Render (deployment)
+title: "HillolPias/taskapi-backend"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "async SQLAlchemy 2.0", "PostgreSQL", "LangChain", "LangGraph", "OpenAI (gpt-4o-mini)", "ChromaDB", "LangSmith", "Alembic", "Neon (PostgreSQL hosting)", "Render (deployment)"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- ReAct agent
-- RAG
-- LangGraph
-- FastAPI
-- AI task manager
-source: https://github.com/HillolPias/taskapi-backend
+deployment_complexity: "Medium"
+tags: ["ReAct agent", "RAG", "LangGraph", "FastAPI", "AI task manager"]
+source: "https://github.com/HillolPias/taskapi-backend"
 stars: 0
-language: Python
-last_updated: '2026-08-09T21:15:35Z'
-discovered_at: '2026-08-09T21:35:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T21:15:35Z"
+discovered_at: "2026-08-09T21:35:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

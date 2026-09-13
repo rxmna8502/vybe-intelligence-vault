@@ -1,33 +1,19 @@
 ---
-title: corbet-labs/cfetch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Rust
-- Markdown
-- Git
-- Tree-sitter
-- BM25
-- Vector search
-- MCP (Model Context Protocol)
-- ONNX
-- CI/CD (GitHub Actions)
+title: "corbet-labs/cfetch"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Markdown", "Git", "Tree-sitter", "BM25", "Vector search", "MCP (Model Context Protocol)", "ONNX", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI agent memory
-- context control
-- Markdown recall
-- code navigation
-- MCP server
-source: https://github.com/corbet-labs/cfetch
+deployment_complexity: "Medium"
+tags: ["AI agent memory", "context control", "Markdown recall", "code navigation", "MCP server"]
+source: "https://github.com/corbet-labs/cfetch"
 stars: 3
-language: Rust
-last_updated: '2026-09-03T18:56:24Z'
-discovered_at: '2026-09-03T19:10:44Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-03T18:56:24Z"
+discovered_at: "2026-09-03T19:10:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

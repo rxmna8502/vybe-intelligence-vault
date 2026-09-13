@@ -1,30 +1,19 @@
 ---
-title: QNFO/qnfo-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- YAML
-- Git
-- R2 (Cloudflare)
-- DeepChat
-- Markdown
+title: "QNFO/qnfo-skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "YAML", "Git", "R2 (Cloudflare)", "DeepChat", "Markdown"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- skill management
-- agent orchestration
-- versioning
-- sync protocol
-- RAG
-source: https://github.com/QNFO/qnfo-skills
+deployment_complexity: "Medium"
+tags: ["skill management", "agent orchestration", "versioning", "sync protocol", "RAG"]
+source: "https://github.com/QNFO/qnfo-skills"
 stars: 0
-language: Python
-last_updated: '2026-08-07T19:58:00Z'
-discovered_at: '2026-08-07T19:58:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T19:58:00Z"
+discovered_at: "2026-08-07T19:58:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

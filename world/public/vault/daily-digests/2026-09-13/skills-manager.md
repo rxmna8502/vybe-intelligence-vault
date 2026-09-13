@@ -1,31 +1,19 @@
 ---
-title: sciman-top/skills-manager
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- PowerShell 7
-- PowerShell 5.1 (fallback)
-- JSON
-- Git
-- MCP (Model Context Protocol)
-- CLI
-- Windows-native tooling
+title: "sciman-top/skills-manager"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PowerShell 7", "PowerShell 5.1 (fallback)", "JSON", "Git", "MCP (Model Context Protocol)", "CLI", "Windows-native tooling"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI skills management
-- MCP synchronization
-- PowerShell automation
-- multi-agent orchestration
-- rule governance
-source: https://github.com/sciman-top/skills-manager
+deployment_complexity: "Medium"
+tags: ["AI skills management", "MCP synchronization", "PowerShell automation", "multi-agent orchestration", "rule governance"]
+source: "https://github.com/sciman-top/skills-manager"
 stars: 0
-language: PowerShell
-last_updated: '2026-08-03T18:49:48Z'
-discovered_at: '2026-08-03T18:52:37Z'
-evaluated_by: mistral-small-latest
+language: "PowerShell"
+last_updated: "2026-08-03T18:49:48Z"
+discovered_at: "2026-08-03T18:52:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

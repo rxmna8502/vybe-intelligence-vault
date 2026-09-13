@@ -1,32 +1,19 @@
 ---
-title: sriinnu/takumi
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- Rust
-- Ratatui
-- WebAssembly (WASM)
-- NDJSON JSON-RPC
-- Unix sockets
-- Language Server Protocol (LSP)
-- TypeScript (historical)
-- macOS Accessibility APIs
+title: "sriinnu/takumi"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Ratatui", "WebAssembly (WASM)", "NDJSON JSON-RPC", "Unix sockets", "Language Server Protocol (LSP)", "TypeScript (historical)", "macOS Accessibility APIs"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- terminal agent
-- multi-agent orchestration
-- workspace tools
-- plugin system
-- verification layer
-source: https://github.com/sriinnu/takumi
+deployment_complexity: "High"
+tags: ["terminal agent", "multi-agent orchestration", "workspace tools", "plugin system", "verification layer"]
+source: "https://github.com/sriinnu/takumi"
 stars: 0
-language: Rust
-last_updated: '2026-09-02T22:13:02Z'
-discovered_at: '2026-09-02T22:15:13Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-02T22:13:02Z"
+discovered_at: "2026-09-02T22:15:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

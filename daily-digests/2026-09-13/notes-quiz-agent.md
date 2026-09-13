@@ -1,33 +1,19 @@
 ---
-title: Wry-letters233/notes-quiz-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- Ollama
-- ChromaDB
-- React
-- Vite
-- TailwindCSS
-- Sentence Transformers
-- LLM
+title: "Wry-letters233/notes-quiz-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Ollama", "ChromaDB", "React", "Vite", "TailwindCSS", "Sentence Transformers", "LLM"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local LLM
-- offline processing
-- study assistant
-- vector database
-- privacy-focused
-source: https://github.com/Wry-letters233/notes-quiz-agent
+deployment_complexity: "Medium"
+tags: ["local LLM", "offline processing", "study assistant", "vector database", "privacy-focused"]
+source: "https://github.com/Wry-letters233/notes-quiz-agent"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T00:00:47Z'
-discovered_at: '2026-08-07T00:01:41Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T00:00:47Z"
+discovered_at: "2026-08-07T00:01:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

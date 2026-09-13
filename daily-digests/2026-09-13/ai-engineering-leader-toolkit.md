@@ -1,30 +1,19 @@
 ---
-title: marian-kamenistak/ai-engineering-leader-toolkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- Durable Objects
-- MCP (Model Context Protocol)
-- HTTP/Streaming
-- Wrangler (Cloudflare CLI)
+title: "marian-kamenistak/ai-engineering-leader-toolkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Cloudflare Workers", "Durable Objects", "MCP (Model Context Protocol)", "HTTP/Streaming", "Wrangler (Cloudflare CLI)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- engineering leadership
-- MCP server
-- salary calculator
-- team lead readiness
-- mentoring playbooks
-source: https://github.com/marian-kamenistak/ai-engineering-leader-toolkit
+deployment_complexity: "Low"
+tags: ["engineering leadership", "MCP server", "salary calculator", "team lead readiness", "mentoring playbooks"]
+source: "https://github.com/marian-kamenistak/ai-engineering-leader-toolkit"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T10:33:10Z'
-discovered_at: '2026-08-09T10:38:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T10:33:10Z"
+discovered_at: "2026-08-09T10:38:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

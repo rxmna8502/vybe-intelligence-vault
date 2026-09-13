@@ -1,38 +1,19 @@
 ---
-title: psyb0t/docker-claudebox
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Docker
-- Claude Code
-- Ubuntu 24.04
-- Go
-- Python
-- Node.js
-- Bash
-- YAML
-- JSON
-- Git
-- Docker-in-Docker
-- Model Context Protocol (MCP)
-- Telegram Bot API
-- REST API
+title: "psyb0t/docker-claudebox"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Docker", "Claude Code", "Ubuntu 24.04", "Go", "Python", "Node.js", "Bash", "YAML", "JSON", "Git", "Docker-in-Docker", "Model Context Protocol (MCP)", "Telegram Bot API", "REST API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Claude Code
-- Docker container
-- AI agent runtime
-- multi-interface
-- workspace isolation
-source: https://github.com/psyb0t/docker-claudebox
+deployment_complexity: "Medium"
+tags: ["Claude Code", "Docker container", "AI agent runtime", "multi-interface", "workspace isolation"]
+source: "https://github.com/psyb0t/docker-claudebox"
 stars: 18
-language: Shell
-last_updated: '2026-08-01T13:04:34Z'
-discovered_at: '2026-08-01T13:17:03Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-01T13:04:34Z"
+discovered_at: "2026-08-01T13:17:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
