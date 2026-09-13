@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://youtube.com/watch?v=_TBNJyztai0
 hn_url: https://news.ycombinator.com/item?id=49651567
-score: 16
+score: 64
 author: binyu
-comments_count: 2
+comments_count: 13
 published_at: '2026-09-11T05:02:12+05:30'
-collected_at: '2026-09-14T00:23:06.824725+05:30'
+collected_at: '2026-09-14T04:00:54.605219+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: youtube:_TBNJyztai0
 first_seen: '2026-09-14T00:23:06.824725+05:30'
-last_seen: '2026-09-14T00:23:06.824725+05:30'
-last_checked: '2026-09-14T00:23:06.824725+05:30'
+last_seen: '2026-09-14T04:00:54.605219+05:30'
+last_checked: '2026-09-14T04:00:54.605219+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by binyu. Score: 16, Comments: 2.
+Hacker News story by binyu. Score: 64, Comments: 13.
 Original Link: https://www.youtube.com/watch?v=_TBNJyztai0
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: binyu
-- Score: 16 Upvotes
-- Comments: 2 Discussions
+- Score: 64 Upvotes
+- Comments: 13 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49651567
 - Original Article: https://youtube.com/watch?v=_TBNJyztai0
 

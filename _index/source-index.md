@@ -24350,10 +24350,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](../ai/community/david-sacks-openai-and-anthropic-don-t-need-regula.md)
+  - [A computational constitution to stop LLM agents from bricking servers](../ai/community/misqe-zero-trust-llm.md)
+  - [AI recursive self-improvement might not come so quickly after all (August 2026)](../ai/community/ai-recursive-self-improvement-might-not-come-so-qu.md)
   - [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](../ai/community/garry-tan-wants-us-open-weight-ai-labs-to-distill.md)
+  - [Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace](../ai/community/reverse-engineering-claude-web-s-microvm-uncoverin.md)
   - [Sean Carroll explains the biggest ideas in the universe – Full Interview [video]](../ai/community/youtube-tbnjyztai0.md)
   - [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](../ai/community/feralfirmware-tailtalk.md)
+  - [There Is No AI (It's Just People) with Jaron Lanier](../ai/community/there-is-no-ai-it-s-just-people-with-jaron-lanier.md)
   - [Why are AI agents lying, cheating and coordinating?](../ai/community/why-are-ai-agents-lying-cheating-and-coordinating.md)
 
 ## Unknown Source (type: huggingface)
@@ -28216,4 +28219,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-14T00:39:23.367648+05:30*
+*Index generated on 2026-09-14T04:17:13.627820+05:30*

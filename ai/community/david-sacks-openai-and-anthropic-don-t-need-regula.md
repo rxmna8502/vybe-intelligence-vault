@@ -16,13 +16,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:david-sacks-openai-and-anthropic-don-t-need-regula
 first_seen: '2026-09-14T00:23:06.603576+05:30'
 last_seen: '2026-09-14T00:23:06.603576+05:30'
 last_checked: '2026-09-14T00:23:06.603576+05:30'
 health_score: 100
 ---
+
 
 # David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models
 

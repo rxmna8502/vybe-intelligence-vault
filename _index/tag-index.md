@@ -169,6 +169,7 @@ Resources organized by keyword tags.
   - [A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies](../ai/agents/arxiv-2609-11231.md)
   - [A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline](../ai/agents/arxiv-2606-07718.md)
   - [A computable representation of the physical laboratory enables verifiable workflows](../ai/agents/arxiv-2609-03621.md)
+  - [A computational constitution to stop LLM agents from bricking servers](../ai/community/misqe-zero-trust-llm.md)
   - [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](../ai/rag/arxiv-2607-24663.md)
   - [A foundation model of numerical intelligence with cross-disciplinary generalization](../ai/agents/arxiv-2607-28432.md)
   - [A framework for single and multi-agent human-AI curiosity ecosystems](../ai/agents/arxiv-2607-06214.md)
@@ -6337,10 +6338,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](../ai/community/david-sacks-openai-and-anthropic-don-t-need-regula.md)
+  - [AI recursive self-improvement might not come so quickly after all (August 2026)](../ai/community/ai-recursive-self-improvement-might-not-come-so-qu.md)
   - [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](../ai/community/garry-tan-wants-us-open-weight-ai-labs-to-distill.md)
   - [Sean Carroll explains the biggest ideas in the universe – Full Interview [video]](../ai/community/youtube-tbnjyztai0.md)
   - [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](../ai/community/feralfirmware-tailtalk.md)
+  - [There Is No AI (It's Just People) with Jaron Lanier](../ai/community/there-is-no-ai-it-s-just-people-with-jaron-lanier.md)
   - [Why are AI agents lying, cheating and coordinating?](../ai/community/why-are-ai-agents-lying-cheating-and-coordinating.md)
 
 ## animation
@@ -6544,7 +6546,6 @@ Resources organized by keyword tags.
   - [DataChain | AI Data at Scale - Curate, Enrich, and Version Datasets](../ai/rag/datachain-ai-data-at-scale-curate-enrich-and-versi.md)
   - [DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](../ai/agents/arxiv-2607-16617.md)
   - [DataHack Platform: Compete, Learn & Grow in Data Science](../ai/rag/datahack-platform-compete-learn-grow-in-data-scien.md)
-  - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](../ai/community/david-sacks-openai-and-anthropic-don-t-need-regula.md)
   - [Deep Agents Code - Docs by LangChain](../ai/rag/deep-agents-code-docs-by-langchain.md)
   - [DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs](../ai/rag/arxiv-2607-22555.md)
   - [Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents](../ai/agents/arxiv-2609-01487.md)
@@ -6853,6 +6854,7 @@ Resources organized by keyword tags.
   - [Rethinking the Evaluation of Harness Evolution for Agents](../ai/agents/arxiv-2607-12227.md)
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
   - [Retrieval augmented generation for 10 large language models and its generalizability in assessing medical fitness](../ai/research/retrieval-augmented-generation-for-10-large-langua.md)
+  - [Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace](../ai/community/reverse-engineering-claude-web-s-microvm-uncoverin.md)
   - [Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026](../ai/rag/arxiv-2608-16318.md)
   - [Robust Reasoning Benchmark](../ai/rag/arxiv-2604-08571.md)
   - [RuBench: A Repository-Level Agentic Coding Benchmark with Natively Authored Russian Task Specifications](../ai/agents/arxiv-2607-06411.md)
@@ -25576,6 +25578,7 @@ Resources organized by keyword tags.
   - [A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies](../ai/agents/arxiv-2609-11231.md)
   - [A cautionary tale on the cost-effectiveness of collaborative AI in real-world medical applications](../ai/research/arxiv-2412-06494.md)
   - [A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection](../ai/research/arxiv-2608-20322.md)
+  - [A computational constitution to stop LLM agents from bricking servers](../ai/community/misqe-zero-trust-llm.md)
   - [A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility](../ai/rag/arxiv-2607-24663.md)
   - [A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics](../ai/research/arxiv-2608-10235.md)
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
@@ -25628,6 +25631,7 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
+  - [AI recursive self-improvement might not come so quickly after all (August 2026)](../ai/community/ai-recursive-self-improvement-might-not-come-so-qu.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -26310,7 +26314,6 @@ Resources organized by keyword tags.
   - [Databricks Training & Certification Programs | Databricks](../ai/rag/databricks-training-certification-programs-databri.md)
   - [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../ai/rag/arxiv-2603-14830.md)
   - [Datenschutzrichtlinie - Shure Germany](../ai/rag/datenschutzrichtlinie-shure-germany.md)
-  - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](../ai/community/david-sacks-openai-and-anthropic-don-t-need-regula.md)
   - [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md)
   - [DeGLIF for Label Noise Robust Node Classification using GNNs](../ai/research/arxiv-2506-00244.md)
   - [DeMMO: Longitudinal and Cross-Disease Modelling of Digital Mobility Outcomes via Multi-Task Learning](../ai/research/arxiv-2608-25073.md)
@@ -28079,6 +28082,7 @@ Resources organized by keyword tags.
   - [Retrofitters, pragmatists and activists: Public interest litigation for accountable automated decision-making](../ai/rag/arxiv-2511-03211.md)
   - [Revealing Multi-View Hallucination in Large Vision-Language Models](../ai/research/arxiv-2603-23934.md)
   - [Reversal Q-Learning](../ai/rag/arxiv-2606-17551.md)
+  - [Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace](../ai/community/reverse-engineering-claude-web-s-microvm-uncoverin.md)
   - [Review Before Trust: Source-Grounded Integrity Gates for AI-Assisted Personal Health Records](../ai/research/arxiv-2608-29965.md)
   - [Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data](../ai/research/arxiv-2607-08384.md)
   - [Revisiting the shutdown problem](../ai/agents/arxiv-2606-08296.md)
@@ -28566,6 +28570,7 @@ Resources organized by keyword tags.
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
+  - [There Is No AI (It's Just People) with Jaron Lanier](../ai/community/there-is-no-ai-it-s-just-people-with-jaron-lanier.md)
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
@@ -29755,6 +29760,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [A computational constitution to stop LLM agents from bricking servers](../ai/community/misqe-zero-trust-llm.md)
 
 ## mdx
 
@@ -36280,7 +36289,6 @@ Resources organized by keyword tags.
   - [DataHack Platform: Compete, Learn & Grow in Data Science](../ai/rag/datahack-platform-compete-learn-grow-in-data-scien.md)
   - [DataLab | AI-powered data notebook for all skill levels](../ai/rag/datalab-ai-powered-data-notebook-for-all-skill-lev.md)
   - [Databricks Documentation](../ai/agents/databricks-documentation.md)
-  - [David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models](../ai/community/david-sacks-openai-and-anthropic-don-t-need-regula.md)
   - [Decomposing Wrong-Consensus Agreement in LLM Self-Consistency](../ai/research/arxiv-2608-18795.md)
   - [Deployment-Time Memorization in Foundation-Model Agents](../ai/agents/arxiv-2606-10062.md)
   - [Depression Symptoms and Relational Patterns in 187k ChatGPT Histories](../ai/research/arxiv-2607-05685.md)
@@ -58567,6 +58575,7 @@ Resources organized by keyword tags.
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
+  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -58608,7 +58617,6 @@ Resources organized by keyword tags.
   - [vercel-labs/coding-agent-template](../ai/rag/vercel-labs-coding-agent-template.md)
   - [vercel-labs/open-agents](../ai/rag/vercel-labs-open-agents.md)
   - [vercel-labs/workflow-builder-template](../ai/rag/vercel-labs-workflow-builder-template.md)
-  - [vercel/ai](../ai/agents/vercel-ai.md)
   - [vespa-engine/sample-apps](../ai/resources/vespa-engine-sample-apps.md)
   - [vespa-engine/vespa](../ai/rag/vespa-engine-vespa.md)
   - [vibrantlabsai/ragas](../ai/rag/vibrantlabsai-ragas.md)
@@ -61339,4 +61347,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-14T00:39:23.044438+05:30*
+*Index generated on 2026-09-14T04:17:13.308154+05:30*
