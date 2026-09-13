@@ -1,19 +1,49 @@
 ---
-title: "bablsoft/accessflow"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "JDBC", "SQL", "NoSQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch", "OpenSearch", "Neo4j", "DynamoDB", "Cassandra", "ScyllaDB", "Couchbase", "JWT", "SAML 2.0", "OAuth 2.0", "OIDC", "React", "TypeScript", "Docker", "Kubernetes", "Helm", "AI/ML (LLMs)"]
+title: bablsoft/accessflow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Java
+- JDBC
+- SQL
+- NoSQL
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Elasticsearch
+- OpenSearch
+- Neo4j
+- DynamoDB
+- Cassandra
+- ScyllaDB
+- Couchbase
+- JWT
+- SAML 2.0
+- OAuth 2.0
+- OIDC
+- React
+- TypeScript
+- Docker
+- Kubernetes
+- Helm
+- AI/ML (LLMs)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["database governance", "query proxy", "data security", "approval workflows", "AI query analysis"]
-source: "https://github.com/bablsoft/accessflow"
+deployment_complexity: Medium
+tags:
+- database governance
+- query proxy
+- data security
+- approval workflows
+- AI query analysis
+source: https://github.com/bablsoft/accessflow
 stars: 2
-language: "Java"
-last_updated: "2026-07-16T08:03:45Z"
-discovered_at: "2026-07-16T08:10:14Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-07-16T08:03:45Z'
+discovered_at: '2026-07-16T08:10:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "sirdath/frontendmaxxing"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["CSS", "JavaScript", "HTML", "Three.js", "GSAP", "WebGL", "SVG"]
+title: sirdath/frontendmaxxing
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- CSS
+- JavaScript
+- HTML
+- Three.js
+- GSAP
+- WebGL
+- SVG
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["UI components", "CSS snippets", "JavaScript snippets", "AI-native UI", "framework-agnostic"]
-source: "https://github.com/sirdath/frontendmaxxing"
+deployment_complexity: Low
+tags:
+- UI components
+- CSS snippets
+- JavaScript snippets
+- AI-native UI
+- framework-agnostic
+source: https://github.com/sirdath/frontendmaxxing
 stars: 0
-language: "CSS"
-last_updated: "2026-08-02T14:59:35Z"
-discovered_at: "2026-08-02T15:02:51Z"
-evaluated_by: "mistral-small-latest"
+language: CSS
+last_updated: '2026-08-02T14:59:35Z'
+discovered_at: '2026-08-02T15:02:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

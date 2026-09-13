@@ -1,19 +1,33 @@
 ---
-title: "chriswu727/loop-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12", "FastAPI", "Next.js 16", "PostgreSQL/SQLite", "ed25519 (for signing)", "Docker/Kubernetes (for sandboxing)", "Playwright (for browser automation)", "IMAP/SMTP (for email)", "CalDAV (for calendar)"]
+title: chriswu727/loop-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python 3.12
+- FastAPI
+- Next.js 16
+- PostgreSQL/SQLite
+- ed25519 (for signing)
+- Docker/Kubernetes (for sandboxing)
+- Playwright (for browser automation)
+- IMAP/SMTP (for email)
+- CalDAV (for calendar)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "sandboxed execution", "verifiable receipts", "least-authority security", "AI task automation"]
-source: "https://github.com/chriswu727/loop-agent"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- sandboxed execution
+- verifiable receipts
+- least-authority security
+- AI task automation
+source: https://github.com/chriswu727/loop-agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-14T22:48:04Z"
-discovered_at: "2026-07-14T22:56:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T22:48:04Z'
+discovered_at: '2026-07-14T22:56:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

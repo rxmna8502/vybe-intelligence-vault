@@ -1,19 +1,29 @@
 ---
-title: "dennishavermans/agentfile"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Markdown Parsing", "Static Analysis"]
+title: dennishavermans/agentfile
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Markdown Parsing
+- Static Analysis
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI agent configuration", "configuration validation", "drift detection", "MCP server analysis", "pre-commit hooks"]
-source: "https://github.com/dennishavermans/agentfile"
+deployment_complexity: Low
+tags:
+- AI agent configuration
+- configuration validation
+- drift detection
+- MCP server analysis
+- pre-commit hooks
+source: https://github.com/dennishavermans/agentfile
 stars: 9
-language: "TypeScript"
-last_updated: "2026-09-03T08:25:12Z"
-discovered_at: "2026-09-03T08:34:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T08:25:12Z'
+discovered_at: '2026-09-03T08:34:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

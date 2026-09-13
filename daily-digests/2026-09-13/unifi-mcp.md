@@ -1,19 +1,32 @@
 ---
-title: "sirkirby/unifi-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Cloudflare Workers", "TypeScript", "REST API", "GraphQL", "Docker"]
+title: sirkirby/unifi-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- Cloudflare Workers
+- TypeScript
+- REST API
+- GraphQL
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "UniFi", "AI agents", "Network automation", "IoT management"]
-source: "https://github.com/sirkirby/unifi-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- UniFi
+- AI agents
+- Network automation
+- IoT management
+source: https://github.com/sirkirby/unifi-mcp
 stars: 630
-language: "Python"
-last_updated: "2026-08-01T19:14:48Z"
-discovered_at: "2026-08-01T19:19:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:14:48Z'
+discovered_at: '2026-08-01T19:19:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

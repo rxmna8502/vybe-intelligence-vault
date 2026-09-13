@@ -1,19 +1,30 @@
 ---
-title: "Alchemyst-ai/awesome-saas"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "Python", "AI Agents", "OpenAPI", "REST APIs", "GitHub Actions"]
+title: Alchemyst-ai/awesome-saas
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Python
+- AI Agents
+- OpenAPI
+- REST APIs
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SaaS templates", "AI agents", "pre-built applications", "Alchemyst Platform", "developer tools"]
-source: "https://github.com/Alchemyst-ai/awesome-saas"
+deployment_complexity: Medium
+tags:
+- SaaS templates
+- AI agents
+- pre-built applications
+- Alchemyst Platform
+- developer tools
+source: https://github.com/Alchemyst-ai/awesome-saas
 stars: 421
-language: "TypeScript"
-last_updated: "2026-07-20T03:49:46Z"
-discovered_at: "2026-07-20T03:52:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T03:49:46Z'
+discovered_at: '2026-07-20T03:52:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

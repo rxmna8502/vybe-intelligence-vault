@@ -1,19 +1,33 @@
 ---
-title: "billybox1926-jpg/Terminai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Express", "Vite", "React", "OpenRouter API", "Gemini API", "Android Native (Java/Kotlin)", "GitHub Actions"]
+title: billybox1926-jpg/Terminai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- Vite
+- React
+- OpenRouter API
+- Gemini API
+- Android Native (Java/Kotlin)
+- GitHub Actions
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["terminal", "package manager", "AI command optimizer", "local-first", "Android development"]
-source: "https://github.com/billybox1926-jpg/Terminai"
+deployment_complexity: Medium
+tags:
+- terminal
+- package manager
+- AI command optimizer
+- local-first
+- Android development
+source: https://github.com/billybox1926-jpg/Terminai
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T23:51:17Z"
-discovered_at: "2026-07-12T23:52:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T23:51:17Z'
+discovered_at: '2026-07-12T23:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

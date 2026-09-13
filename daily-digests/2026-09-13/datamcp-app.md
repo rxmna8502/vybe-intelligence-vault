@@ -1,19 +1,31 @@
 ---
-title: "datamcpapp/datamcp-app"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["PostgreSQL", "OpenAPI 3.x", "HTTPS", "MCP (Model Context Protocol)", "AES-256-GCM (encryption)", "OAuth 2.0 with PKCE", "REST API"]
+title: datamcpapp/datamcp-app
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- PostgreSQL
+- OpenAPI 3.x
+- HTTPS
+- MCP (Model Context Protocol)
+- AES-256-GCM (encryption)
+- OAuth 2.0 with PKCE
+- REST API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP gateway", "PostgreSQL integration", "OpenAPI to MCP", "AI client access control", "remote MCP endpoints"]
-source: "https://github.com/datamcpapp/datamcp-app"
+deployment_complexity: Low
+tags:
+- MCP gateway
+- PostgreSQL integration
+- OpenAPI to MCP
+- AI client access control
+- remote MCP endpoints
+source: https://github.com/datamcpapp/datamcp-app
 stars: 0
-language: "None"
-last_updated: "2026-07-16T18:05:37Z"
-discovered_at: "2026-07-16T18:05:44Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-16T18:05:37Z'
+discovered_at: '2026-07-16T18:05:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

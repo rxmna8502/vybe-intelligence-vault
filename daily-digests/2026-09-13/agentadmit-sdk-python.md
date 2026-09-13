@@ -1,19 +1,31 @@
 ---
-title: "PhoenixCo-Founder/agentadmit-sdk-python"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Flask", "Django", "MCP (Model Context Protocol)", "WebAuthn", "HTTP/REST APIs"]
+title: PhoenixCo-Founder/agentadmit-sdk-python
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- Flask
+- Django
+- MCP (Model Context Protocol)
+- WebAuthn
+- HTTP/REST APIs
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent authorization", "scoped access control", "token generation", "MCP integration", "user consent management"]
-source: "https://github.com/PhoenixCo-Founder/agentadmit-sdk-python"
+deployment_complexity: Medium
+tags:
+- AI agent authorization
+- scoped access control
+- token generation
+- MCP integration
+- user consent management
+source: https://github.com/PhoenixCo-Founder/agentadmit-sdk-python
 stars: 0
-language: "Python"
-last_updated: "2026-07-20T03:46:07Z"
-discovered_at: "2026-07-20T03:52:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T03:46:07Z'
+discovered_at: '2026-07-20T03:52:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

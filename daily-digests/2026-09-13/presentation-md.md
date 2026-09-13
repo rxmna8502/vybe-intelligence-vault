@@ -1,19 +1,35 @@
 ---
-title: "isatimur/presentation-md"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "Python", "Node.js", "MCP (Model Context Protocol)", "PPTX", "HTML", "CSS", "React", "npm", "PyPI"]
+title: isatimur/presentation-md
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- JavaScript
+- Python
+- Node.js
+- MCP (Model Context Protocol)
+- PPTX
+- HTML
+- CSS
+- React
+- npm
+- PyPI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["slide generation", "AI agent integration", "PowerPoint export", "deck themes", "MCP tools"]
-source: "https://github.com/isatimur/presentation-md"
+deployment_complexity: Medium
+tags:
+- slide generation
+- AI agent integration
+- PowerPoint export
+- deck themes
+- MCP tools
+source: https://github.com/isatimur/presentation-md
 stars: 2
-language: "HTML"
-last_updated: "2026-08-01T14:59:18Z"
-discovered_at: "2026-08-01T15:01:19Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-01T14:59:18Z'
+discovered_at: '2026-08-01T15:01:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "ScrapeUnblocker/scrapeunblocker-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ScrapeUnblocker API"]
+title: ScrapeUnblocker/scrapeunblocker-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- ScrapeUnblocker API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["web scraping", "anti-bot bypass", "MCP server", "HTML fetching", "Claude integration"]
-source: "https://github.com/ScrapeUnblocker/scrapeunblocker-mcp"
+deployment_complexity: Low
+tags:
+- web scraping
+- anti-bot bypass
+- MCP server
+- HTML fetching
+- Claude integration
+source: https://github.com/ScrapeUnblocker/scrapeunblocker-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-20T19:39:19Z"
-discovered_at: "2026-07-20T19:53:46Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T19:39:19Z'
+discovered_at: '2026-07-20T19:53:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

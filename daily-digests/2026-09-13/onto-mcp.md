@@ -1,19 +1,30 @@
 ---
-title: "kangminlee-maker/onto-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "YAML", "CLI", "TUI (Terminal User Interface)"]
+title: kangminlee-maker/onto-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- YAML
+- CLI
+- TUI (Terminal User Interface)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["ontology validation", "MCP server", "LLM tooling", "structured review", "domain ontology"]
-source: "https://github.com/kangminlee-maker/onto-mcp"
+deployment_complexity: Medium
+tags:
+- ontology validation
+- MCP server
+- LLM tooling
+- structured review
+- domain ontology
+source: https://github.com/kangminlee-maker/onto-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-16T02:11:41Z"
-discovered_at: "2026-07-16T02:26:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T02:11:41Z'
+discovered_at: '2026-07-16T02:26:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

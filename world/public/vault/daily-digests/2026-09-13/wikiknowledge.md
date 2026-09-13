@@ -1,19 +1,30 @@
 ---
-title: "inckie/WikiKnowledge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "Git", "SQLite", "MongoDB (planned)", "MCP (planned)"]
+title: inckie/WikiKnowledge
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Python
+- Markdown
+- Git
+- SQLite
+- MongoDB (planned)
+- MCP (planned)
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["knowledge graph", "hierarchical knowledge", "fractal structure", "AI navigation", "structured learning"]
-source: "https://github.com/inckie/WikiKnowledge"
+deployment_complexity: Medium
+tags:
+- knowledge graph
+- hierarchical knowledge
+- fractal structure
+- AI navigation
+- structured learning
+source: https://github.com/inckie/WikiKnowledge
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T22:40:48Z"
-discovered_at: "2026-07-11T22:45:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T22:40:48Z'
+discovered_at: '2026-07-11T22:45:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

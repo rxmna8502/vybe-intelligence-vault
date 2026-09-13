@@ -1,19 +1,31 @@
 ---
-title: "launchapp-dev/animus-cli"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "YAML", "Unix sockets", "CLI", "MCP server", "Git worktrees", "Daemon scheduling"]
+title: launchapp-dev/animus-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- YAML
+- Unix sockets
+- CLI
+- MCP server
+- Git worktrees
+- Daemon scheduling
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "parallel workflows", "portfolio management", "autonomous coding", "plugin-based architecture"]
-source: "https://github.com/launchapp-dev/animus-cli"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- parallel workflows
+- portfolio management
+- autonomous coding
+- plugin-based architecture
+source: https://github.com/launchapp-dev/animus-cli
 stars: 37
-language: "Rust"
-last_updated: "2026-09-03T19:03:52Z"
-discovered_at: "2026-09-03T19:06:18Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T19:03:52Z'
+discovered_at: '2026-09-03T19:06:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

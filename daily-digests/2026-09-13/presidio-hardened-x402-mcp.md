@@ -1,19 +1,30 @@
 ---
-title: "presidio-v/presidio-hardened-x402-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Presidio (PII detection)", "spaCy (NLP for PII detection)", "Redis (optional for replay detection)", "PyPI (package distribution)"]
+title: presidio-v/presidio-hardened-x402-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Presidio (PII detection)
+- spaCy (NLP for PII detection)
+- Redis (optional for replay detection)
+- PyPI (package distribution)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["PII detection", "payment security", "MCP server", "agent safety", "x402"]
-source: "https://github.com/presidio-v/presidio-hardened-x402-mcp"
+deployment_complexity: Medium
+tags:
+- PII detection
+- payment security
+- MCP server
+- agent safety
+- x402
+source: https://github.com/presidio-v/presidio-hardened-x402-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-08-02T11:58:32Z"
-discovered_at: "2026-08-02T12:02:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T11:58:32Z'
+discovered_at: '2026-08-02T12:02:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

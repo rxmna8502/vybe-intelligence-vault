@@ -1,19 +1,48 @@
 ---
-title: "seungmanchoi/react-native-fsd-agent-template"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["React Native", "Expo", "TypeScript", "Feature-Sliced Design (FSD)", "Claude Code", "Zustand", "TanStack Query", "NativeWind", "Tailwind CSS", "Axios", "React Hook Form", "Zod", "ESLint", "Prettier", "EAS Build", "Reanimated", "Lottie", "FlashList", "Bottom Sheet", "Day.js", "Firebase Analytics", "AdMob", "SecureStore", "Vitest"]
+title: seungmanchoi/react-native-fsd-agent-template
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- React Native
+- Expo
+- TypeScript
+- Feature-Sliced Design (FSD)
+- Claude Code
+- Zustand
+- TanStack Query
+- NativeWind
+- Tailwind CSS
+- Axios
+- React Hook Form
+- Zod
+- ESLint
+- Prettier
+- EAS Build
+- Reanimated
+- Lottie
+- FlashList
+- Bottom Sheet
+- Day.js
+- Firebase Analytics
+- AdMob
+- SecureStore
+- Vitest
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["React Native", "Expo", "AI Agents", "Feature-Sliced Design", "Automated Development"]
-source: "https://github.com/seungmanchoi/react-native-fsd-agent-template"
+deployment_complexity: Medium
+tags:
+- React Native
+- Expo
+- AI Agents
+- Feature-Sliced Design
+- Automated Development
+source: https://github.com/seungmanchoi/react-native-fsd-agent-template
 stars: 44
-language: "TypeScript"
-last_updated: "2026-07-11T17:52:00Z"
-discovered_at: "2026-07-11T17:54:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T17:52:00Z'
+discovered_at: '2026-07-11T17:54:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

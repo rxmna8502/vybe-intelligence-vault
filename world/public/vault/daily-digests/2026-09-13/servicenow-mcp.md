@@ -1,19 +1,32 @@
 ---
-title: "aartiq/servicenow-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "OAuth", "JWT", "CLI", "Web Dashboard"]
+title: aartiq/servicenow-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- OAuth
+- JWT
+- CLI
+- Web Dashboard
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["ServiceNow", "MCP", "AI Integration", "ITSM Automation", "CLI Tool"]
-source: "https://github.com/aartiq/servicenow-mcp"
+deployment_complexity: Low
+tags:
+- ServiceNow
+- MCP
+- AI Integration
+- ITSM Automation
+- CLI Tool
+source: https://github.com/aartiq/servicenow-mcp
 stars: 274
-language: "TypeScript"
-last_updated: "2026-09-03T22:02:12Z"
-discovered_at: "2026-09-03T22:06:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T22:02:12Z'
+discovered_at: '2026-09-03T22:06:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

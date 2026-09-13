@@ -1,19 +1,36 @@
 ---
-title: "whykusanagi/celeste-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Bubble Tea (TUI framework)", "Tree-sitter (code parsing)", "MinHash + BM25 (semantic search)", "GPG (release verification)", "MCP (Model Context Protocol)", "xAI/Grok", "OpenAI", "Anthropic Claude", "Google Gemini", "Sakana AI", "Venice.ai"]
+title: whykusanagi/celeste-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- Bubble Tea (TUI framework)
+- Tree-sitter (code parsing)
+- MinHash + BM25 (semantic search)
+- GPG (release verification)
+- MCP (Model Context Protocol)
+- xAI/Grok
+- OpenAI
+- Anthropic Claude
+- Google Gemini
+- Sakana AI
+- Venice.ai
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["terminal AI assistant", "code graph analysis", "semantic search", "multi-provider LLM", "agentic development"]
-source: "https://github.com/whykusanagi/celeste-cli"
+deployment_complexity: Medium
+tags:
+- terminal AI assistant
+- code graph analysis
+- semantic search
+- multi-provider LLM
+- agentic development
+source: https://github.com/whykusanagi/celeste-cli
 stars: 1
-language: "Go"
-last_updated: "2026-08-08T10:33:27Z"
-discovered_at: "2026-08-08T10:34:54Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T10:33:27Z'
+discovered_at: '2026-08-08T10:34:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

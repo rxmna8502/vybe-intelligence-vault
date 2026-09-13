@@ -1,19 +1,40 @@
 ---
-title: "csmw-ai/LakeMind"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["SeaweedFS", "Apache Iceberg", "PyLance", "LanceDB", "Valkey", "PostgreSQL", "DuckDB", "Ray", "fastembed", "litellm", "SenseVoice (funasr)", "MCP (Model Context Protocol)", "LangGraph", "Docker", "Python", "Node.js"]
+title: csmw-ai/LakeMind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- SeaweedFS
+- Apache Iceberg
+- PyLance
+- LanceDB
+- Valkey
+- PostgreSQL
+- DuckDB
+- Ray
+- fastembed
+- litellm
+- SenseVoice (funasr)
+- MCP (Model Context Protocol)
+- LangGraph
+- Docker
+- Python
+- Node.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["Agent Infrastructure", "Multimodal Data Lake", "Unified Cognitive Layer", "MCP Protocol", "Enterprise AI"]
-source: "https://github.com/csmw-ai/LakeMind"
+deployment_complexity: High
+tags:
+- Agent Infrastructure
+- Multimodal Data Lake
+- Unified Cognitive Layer
+- MCP Protocol
+- Enterprise AI
+source: https://github.com/csmw-ai/LakeMind
 stars: 3
-language: "C"
-last_updated: "2026-08-07T10:33:59Z"
-discovered_at: "2026-08-07T11:05:30Z"
-evaluated_by: "mistral-small-latest"
+language: C
+last_updated: '2026-08-07T10:33:59Z'
+discovered_at: '2026-08-07T11:05:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

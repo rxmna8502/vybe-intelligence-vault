@@ -1,19 +1,28 @@
 ---
-title: "koei-kaji/zk-utils"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Docker", "zk CLI"]
+title: koei-kaji/zk-utils
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Docker
+- zk CLI
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "note management", "link analysis", "zk integration", "context protocol"]
-source: "https://github.com/koei-kaji/zk-utils"
+deployment_complexity: Medium
+tags:
+- MCP server
+- note management
+- link analysis
+- zk integration
+- context protocol
+source: https://github.com/koei-kaji/zk-utils
 stars: 1
-language: "Python"
-last_updated: "2026-08-04T10:38:31Z"
-discovered_at: "2026-08-04T10:39:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T10:38:31Z'
+discovered_at: '2026-08-04T10:39:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

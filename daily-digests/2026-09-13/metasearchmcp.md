@@ -1,19 +1,31 @@
 ---
-title: "gefsikatsinelou/MetaSearchMCP"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Docker", "HTML Scraping", "REST APIs", "Concurrent Processing"]
+title: gefsikatsinelou/MetaSearchMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Docker
+- HTML Scraping
+- REST APIs
+- Concurrent Processing
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["metasearch", "MCP server", "multi-provider aggregation", "LLM tooling", "structured search"]
-source: "https://github.com/gefsikatsinelou/MetaSearchMCP"
+deployment_complexity: Medium
+tags:
+- metasearch
+- MCP server
+- multi-provider aggregation
+- LLM tooling
+- structured search
+source: https://github.com/gefsikatsinelou/MetaSearchMCP
 stars: 54
-language: "Python"
-last_updated: "2026-09-03T01:57:20Z"
-discovered_at: "2026-09-03T02:24:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T01:57:20Z'
+discovered_at: '2026-09-03T02:24:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

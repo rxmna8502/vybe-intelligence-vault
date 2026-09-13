@@ -1,19 +1,34 @@
 ---
-title: "deepagent-ltd/deepagent-code"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Node.js", "Language Server Protocol (LSP)", "Model Context Protocol (MCP)", "React", "Node.js", "Git", "Express", "Docker"]
+title: deepagent-ltd/deepagent-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- Language Server Protocol (LSP)
+- Model Context Protocol (MCP)
+- React
+- Node.js
+- Git
+- Express
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "persistent memory", "multi-agent collaboration", "code intelligence", "human oversight"]
-source: "https://github.com/deepagent-ltd/deepagent-code"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- persistent memory
+- multi-agent collaboration
+- code intelligence
+- human oversight
+source: https://github.com/deepagent-ltd/deepagent-code
 stars: 9
-language: "TypeScript"
-last_updated: "2026-07-16T02:15:32Z"
-discovered_at: "2026-07-16T02:25:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T02:15:32Z'
+discovered_at: '2026-07-16T02:25:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

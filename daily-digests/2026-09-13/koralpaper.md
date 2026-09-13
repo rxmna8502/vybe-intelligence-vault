@@ -1,19 +1,33 @@
 ---
-title: "karagos/koralpaper"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["HTML5", "CSS3", "JavaScript", "PWA (Progressive Web App)", "SVG", "Canvas API", "MCP (Model Context Protocol)", "Google Fonts", "Material Icons"]
+title: karagos/koralpaper
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- HTML5
+- CSS3
+- JavaScript
+- PWA (Progressive Web App)
+- SVG
+- Canvas API
+- MCP (Model Context Protocol)
+- Google Fonts
+- Material Icons
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["diagram tool", "offline-first", "AI-assisted drawing", "PWA", "vector graphics"]
-source: "https://github.com/karagos/koralpaper"
+deployment_complexity: Low
+tags:
+- diagram tool
+- offline-first
+- AI-assisted drawing
+- PWA
+- vector graphics
+source: https://github.com/karagos/koralpaper
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-07T19:54:14Z"
-discovered_at: "2026-08-07T19:58:11Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T19:54:14Z'
+discovered_at: '2026-08-07T19:58:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

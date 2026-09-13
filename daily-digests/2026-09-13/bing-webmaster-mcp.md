@@ -1,19 +1,29 @@
 ---
-title: "stufently/bing-webmaster-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Bing Webmaster Tools API", "IndexNow protocol", "CLI"]
+title: stufently/bing-webmaster-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Bing Webmaster Tools API
+- IndexNow protocol
+- CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Bing Webmaster Tools", "IndexNow", "SEO", "MCP server", "URL submission"]
-source: "https://github.com/stufently/bing-webmaster-mcp"
+deployment_complexity: Medium
+tags:
+- Bing Webmaster Tools
+- IndexNow
+- SEO
+- MCP server
+- URL submission
+source: https://github.com/stufently/bing-webmaster-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-30T02:27:51Z"
-discovered_at: "2026-09-01T15:55:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-30T02:27:51Z'
+discovered_at: '2026-09-01T15:55:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

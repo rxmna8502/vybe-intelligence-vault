@@ -1,19 +1,39 @@
 ---
-title: "GuyMannDude/mnemo-cortex"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "REST APIs", "Claude Code/Desktop", "OpenClaw", "LM Studio", "AnythingLLM", "Agent Zero", "Hermes Agent", "Ollama", "ChatGPT (via Custom GPT Actions gate)", "Docker", "USB Courier (Cortex Stick)", "AES-256 Encryption"]
+title: GuyMannDude/mnemo-cortex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- REST APIs
+- Claude Code/Desktop
+- OpenClaw
+- LM Studio
+- AnythingLLM
+- Agent Zero
+- Hermes Agent
+- Ollama
+- ChatGPT (via Custom GPT Actions gate)
+- Docker
+- USB Courier (Cortex Stick)
+- AES-256 Encryption
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI memory", "persistent memory", "cross-agent synchronization", "local-first", "MCP server"]
-source: "https://github.com/GuyMannDude/mnemo-cortex"
+deployment_complexity: Medium
+tags:
+- AI memory
+- persistent memory
+- cross-agent synchronization
+- local-first
+- MCP server
+source: https://github.com/GuyMannDude/mnemo-cortex
 stars: 148
-language: "Python"
-last_updated: "2026-08-01T20:36:15Z"
-discovered_at: "2026-08-01T20:51:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T20:36:15Z'
+discovered_at: '2026-08-01T20:51:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

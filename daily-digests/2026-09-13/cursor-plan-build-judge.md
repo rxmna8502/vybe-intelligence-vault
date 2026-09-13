@@ -1,19 +1,29 @@
 ---
-title: "joker01-01/cursor-plan-build-judge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "GitHub Actions", "Cursor", "Claude Code"]
+title: joker01-01/cursor-plan-build-judge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Markdown
+- GitHub Actions
+- Cursor
+- Claude Code
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["agent workflow", "spec-first development", "coding agent reliability", "human-in-the-loop", "evidence-based review"]
-source: "https://github.com/joker01-01/cursor-plan-build-judge"
+deployment_complexity: Low
+tags:
+- agent workflow
+- spec-first development
+- coding agent reliability
+- human-in-the-loop
+- evidence-based review
+source: https://github.com/joker01-01/cursor-plan-build-judge
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T19:04:32Z"
-discovered_at: "2026-09-01T19:05:47Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T19:04:32Z'
+discovered_at: '2026-09-01T19:05:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

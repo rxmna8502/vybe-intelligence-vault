@@ -1,19 +1,32 @@
 ---
-title: "modelcontextprotocol/rust-sdk"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tokio", "Serde", "Schemars", "Procedural Macros", "JSON-RPC", "HTTP", "Model Context Protocol (MCP)"]
+title: modelcontextprotocol/rust-sdk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Tokio
+- Serde
+- Schemars
+- Procedural Macros
+- JSON-RPC
+- HTTP
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP", "Rust SDK", "Agentic AI", "Tool Integration", "Protocol Implementation"]
-source: "https://github.com/modelcontextprotocol/rust-sdk"
+deployment_complexity: Medium
+tags:
+- MCP
+- Rust SDK
+- Agentic AI
+- Tool Integration
+- Protocol Implementation
+source: https://github.com/modelcontextprotocol/rust-sdk
 stars: 3758
-language: "Rust"
-last_updated: "2026-08-05T14:03:14Z"
-discovered_at: "2026-08-05T14:07:54Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T14:03:14Z'
+discovered_at: '2026-08-05T14:07:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

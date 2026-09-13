@@ -12,9 +12,9 @@ Welcome to your private local Intelligence Vault.
 - **ai/companies/mistral**: 10 files
 - **ai/companies/openai**: 5 files
 - **ai/models**: 806 files
-- **ai/rag**: 8567 files
+- **ai/rag**: 8568 files
 - **ai/releases**: 1 files
-- **ai/research**: 12765 files
+- **ai/research**: 12764 files
 - **ai/resources**: 1537 files
 - **ai/trending**: 5 files
 
@@ -57,4 +57,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-09-13T04:10:23.050412+05:30*
+*Index generated on 2026-09-13T10:43:58.002552+05:30*

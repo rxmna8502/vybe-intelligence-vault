@@ -1,19 +1,35 @@
 ---
-title: "aotter/mantle"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "Cloudflare Workers", "React", "Tailwind CSS", "Better Auth", "YAML", "JSON Schema", "Zod", "MCP (Model Context Protocol)", "D1 (Cloudflare SQL)", "KV (Cloudflare Key-Value Store)"]
+title: aotter/mantle
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- React
+- Tailwind CSS
+- Better Auth
+- YAML
+- JSON Schema
+- Zod
+- MCP (Model Context Protocol)
+- D1 (Cloudflare SQL)
+- KV (Cloudflare Key-Value Store)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["headless CMS", "AI-native", "agent framework", "content modeling", "Cloudflare integration"]
-source: "https://github.com/aotter/mantle"
+deployment_complexity: Medium
+tags:
+- headless CMS
+- AI-native
+- agent framework
+- content modeling
+- Cloudflare integration
+source: https://github.com/aotter/mantle
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T13:06:32Z"
-discovered_at: "2026-08-01T13:16:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T13:06:32Z'
+discovered_at: '2026-08-01T13:16:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "nathansutton/chad"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MLX", "Hugging Face Transformers", "MLX Quantization", "prompt_toolkit", "FastAPI", "PyPI", "GitHub Actions"]
+title: nathansutton/chad
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- MLX
+- Hugging Face Transformers
+- MLX Quantization
+- prompt_toolkit
+- FastAPI
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local LLM", "offline coding agent", "Apple Silicon", "MLX inference", "speculative decoding"]
-source: "https://github.com/nathansutton/chad"
+deployment_complexity: Medium
+tags:
+- local LLM
+- offline coding agent
+- Apple Silicon
+- MLX inference
+- speculative decoding
+source: https://github.com/nathansutton/chad
 stars: 9
-language: "Python"
-last_updated: "2026-09-03T22:02:02Z"
-discovered_at: "2026-09-03T22:06:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T22:02:02Z'
+discovered_at: '2026-09-03T22:06:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

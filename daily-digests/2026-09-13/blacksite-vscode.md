@@ -1,19 +1,34 @@
 ---
-title: "RoofTopDude/blacksite-vscode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "VS Code Extension API", "SQLite", "pgvector", "Anthropic API", "OpenAI API", "OpenRouter API", "AWS Bedrock API", "MCP (Model Context Protocol)", "LSP (Language Server Protocol)"]
+title: RoofTopDude/blacksite-vscode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- SQLite
+- pgvector
+- Anthropic API
+- OpenAI API
+- OpenRouter API
+- AWS Bedrock API
+- MCP (Model Context Protocol)
+- LSP (Language Server Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI coding agent", "VS Code extension", "codebase mapping", "multi-phase planning", "local-first"]
-source: "https://github.com/RoofTopDude/blacksite-vscode"
+deployment_complexity: Low
+tags:
+- AI coding agent
+- VS Code extension
+- codebase mapping
+- multi-phase planning
+- local-first
+source: https://github.com/RoofTopDude/blacksite-vscode
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T17:58:53Z"
-discovered_at: "2026-08-01T17:59:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T17:58:53Z'
+discovered_at: '2026-08-01T17:59:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

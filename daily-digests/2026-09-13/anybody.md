@@ -1,19 +1,34 @@
 ---
-title: "sysfora/Anybody"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js 16", "React 19", "TypeScript 5", "Tailwind CSS 4", "Socket.IO", "Radix UI", "Lucide React", "PocketBase", "Stripe", "ESLint"]
+title: sysfora/Anybody
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Next.js 16
+- React 19
+- TypeScript 5
+- Tailwind CSS 4
+- Socket.IO
+- Radix UI
+- Lucide React
+- PocketBase
+- Stripe
+- ESLint
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI app generation", "real-time streaming", "WebSocket integration", "file attachment support", "open-source"]
-source: "https://github.com/sysfora/Anybody"
+deployment_complexity: Medium
+tags:
+- AI app generation
+- real-time streaming
+- WebSocket integration
+- file attachment support
+- open-source
+source: https://github.com/sysfora/Anybody
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-18T15:54:45Z"
-discovered_at: "2026-07-18T15:55:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T15:54:45Z'
+discovered_at: '2026-07-18T15:55:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -615,6 +615,7 @@ Resources organized by keyword tags.
   - [Agents unlock new capabilities through Switching LoRA Adapters as a Tool (SLAaaT)](../ai/agents/arxiv-2608-17034.md)
   - [Agents' Last Exam](../ai/rag/arxiv-2606-05405.md)
   - [Agents-K1: Towards Agent-native Knowledge Orchestration](../ai/agents/arxiv-2606-13669.md)
+  - [AgentsDock: An IDE designed for agentic AI research](../ai/community/agentsdock-an-ide-designed-for-agentic-ai-research.md)
   - [Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization](../ai/agents/arxiv-2607-17924.md)
   - [AgilePE: Autonomous UAV Pursuit-Evasion via Self-Play Reinforcement Learning](../ai/agents/arxiv-2608-14135.md)
   - [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](../ai/agents/arxiv-2606-24177.md)
@@ -5337,7 +5338,6 @@ Resources organized by keyword tags.
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The production of meaning in the processing of natural language](../ai/agents/arxiv-2603-20381.md)
   - [The reach of a verification tool decides its value: A controlled study of verification surface, artifact quality, and cost in AI coding agents](../ai/agents/arxiv-2608-28795.md)
-  - [The worst spam emails: iLands AI agent hustle](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md)
   - [The xAI Platform for OCI Generative AI](../ai/agents/the-xai-platform-for-oci-generative-ai.md)
   - [The-Pocket/PocketFlow-Template-Python](../ai/agents/the-pocket-pocketflow-template-python.md)
   - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
@@ -6337,14 +6337,14 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
+  - [AgentsDock: An IDE designed for agentic AI research](../ai/community/agentsdock-an-ide-designed-for-agentic-ai-research.md)
+  - [Align AI and Mathematics–To Something Else](../ai/community/align-ai-and-mathematics-to-something-else.md)
+  - [Everyone should slow down AI development except for me](../ai/community/everyone-should-slow-down-ai-development-except-fo.md)
   - [How Trail of Bits helps verify the integrity of Signal chats](../ai/community/how-trail-of-bits-helps-verify-the-integrity-of-si.md)
   - [I fixed a tractor using John Deere's self-repair service. Farmers aren't sold](../ai/community/i-fixed-a-tractor-using-john-deere-s-self-repair-s.md)
   - [LG denies TV spying claims, says tracking and snooping concerns 'not true'](../ai/community/lg-denies-tv-spying-claims-says-tracking-and-snoop.md)
   - [Nvidia is the central bank of AI](../ai/community/nvidia-is-the-central-bank-of-ai.md)
-  - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](../ai/community/openai-s-sam-altman-says-it-would-be-ill-advised-t.md)
   - [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](../ai/community/real-swe-benchmarking-ai-models-on-private-real-wo.md)
-  - [The worst spam emails: iLands AI agent hustle](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md)
 
 ## animation
 
@@ -25494,7 +25494,6 @@ Resources organized by keyword tags.
   - [A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes](../ai/research/arxiv-2609-09137.md)
   - [A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph](../ai/rag/arxiv-2609-11580.md)
   - [A Definition and Roadmap for World Models](../ai/research/arxiv-2607-06401.md)
-  - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A Distributionally Robust Optimisation Approach to Fair Credit Scoring](../ai/research/arxiv-2402-01811.md)
   - [A Docker Tutorial for Beginners](../ai/rag/a-docker-tutorial-for-beginners.md)
   - [A Dynamic Fusion Large Language Model for Traffic Flow Prediction](../ai/research/arxiv-2609-11314.md)
@@ -25752,12 +25751,14 @@ Resources organized by keyword tags.
   - [AgenticData: An Agentic Data Analytics System for Heterogeneous Data](../ai/agents/arxiv-2508-05002.md)
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
+  - [AgentsDock: An IDE designed for agentic AI research](../ai/community/agentsdock-an-ide-designed-for-agentic-ai-research.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
   - [Algebraic Decomposition Theory for Transformer Length Generalization](../ai/research/arxiv-2608-13433.md)
   - [Algebraic Multigrid Acceleration for Efficient Label Spreading](../ai/research/arxiv-2608-26309.md)
   - [Algorithms with Polynomially-Improved Approximation Factors for the $2 \rightarrow q$ Norm, and Applications](../ai/research/arxiv-2605-25303.md)
+  - [Align AI and Mathematics–To Something Else](../ai/community/align-ai-and-mathematics-to-something-else.md)
   - [All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams](../ai/rag/arxiv-2604-22476.md)
   - [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md)
   - [All-in-one Recruiting Software for Ambitious Teams | Ashby](../ai/resources/all-in-one-recruiting-software-for-ambitious-teams.md)
@@ -26569,6 +26570,7 @@ Resources organized by keyword tags.
   - [Evaluating the Scalability and Adversarial Generalization of GRPO-Trained NLI Models](../ai/research/arxiv-2504-18376.md)
   - [Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers](../ai/research/arxiv-2608-21223.md)
   - [Events | Twilio](../ai/agents/events-twilio.md)
+  - [Everyone should slow down AI development except for me](../ai/community/everyone-should-slow-down-ai-development-except-fo.md)
   - [Evidence-Grounded Retrieval for Investigation Hunt Lead Generation from CTI Reports](../ai/rag/arxiv-2609-08790.md)
   - [EvoLen: Evolution-Guided Tokenization for DNA Language Model](../ai/research/arxiv-2604-08698.md)
   - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](../ai/research/arxiv-2603-08173.md)
@@ -27703,7 +27705,6 @@ Resources organized by keyword tags.
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](../ai/community/openai-s-sam-altman-says-it-would-be-ill-advised-t.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -28573,7 +28574,6 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
-  - [The worst spam emails: iLands AI agent hustle](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md)
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
@@ -30851,7 +30851,6 @@ Resources organized by keyword tags.
   - [A Data-Driven Interpolation Method on Smooth Manifolds via Diffusion Processes and Voronoi Tessellations](../ai/research/arxiv-2509-03758.md)
   - [A Data-Efficient Analytical Prior Machine Learning Framework for Sound Reduction Frequency Prediction in Helmholtz Resonators](../ai/research/arxiv-2608-16873.md)
   - [A Deep Reinforcement Learning Algorithm for the Vehicle Routing Problem with Stochastic Demands and Outsourcing](../ai/rag/arxiv-2607-16875.md)
-  - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A Digital Twin Framework for Traffic-Aware UAV Pavement Monitoring in Open-Traffic Conditions](../ai/rag/arxiv-2606-20742.md)
   - [A Docker Tutorial for Beginners](../ai/rag/a-docker-tutorial-for-beginners.md)
   - [A Dual-Hypothesis Reasoning Framework for LLM Guardrails](../ai/research/arxiv-2607-17575.md)
@@ -36537,7 +36536,6 @@ Resources organized by keyword tags.
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
-  - [OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026](../ai/community/openai-s-sam-altman-says-it-would-be-ill-advised-t.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](../ai/rag/arxiv-2509-24900.md)
   - [OpenSanctions Pairs: Large-Scale Entity Matching with LLMs](../ai/research/arxiv-2603-11051.md)
@@ -61356,4 +61354,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-13T04:10:23.538536+05:30*
+*Index generated on 2026-09-13T10:43:58.628540+05:30*

@@ -1,19 +1,29 @@
 ---
-title: "gadaffihub/provably-fair-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "drand (public randomness beacon)", "SHA-256 (for hashing and verification)"]
+title: gadaffihub/provably-fair-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- drand (public randomness beacon)
+- SHA-256 (for hashing and verification)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["provably-fair", "randomness", "verification", "MCP server", "drand"]
-source: "https://github.com/gadaffihub/provably-fair-mcp"
+deployment_complexity: Low
+tags:
+- provably-fair
+- randomness
+- verification
+- MCP server
+- drand
+source: https://github.com/gadaffihub/provably-fair-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T15:56:10Z"
-discovered_at: "2026-08-07T16:02:43Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T15:56:10Z'
+discovered_at: '2026-08-07T16:02:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

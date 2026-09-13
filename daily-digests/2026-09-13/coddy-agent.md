@@ -1,19 +1,33 @@
 ---
-title: "coddy-project/coddy-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "ACP (Agent Client Protocol)", "MCP (Model Context Protocol)", "Telegram Bot API", "OpenAI API", "Docker", "Vite", "Ripgrep (optional)", "SSH (pure-Go implementation)"]
+title: coddy-project/coddy-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- ACP (Agent Client Protocol)
+- MCP (Model Context Protocol)
+- Telegram Bot API
+- OpenAI API
+- Docker
+- Vite
+- Ripgrep (optional)
+- SSH (pure-Go implementation)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent framework", "distroless-ready", "ReAct loop", "MCP integration", "OpenAI-compatible"]
-source: "https://github.com/coddy-project/coddy-agent"
+deployment_complexity: Medium
+tags:
+- AI agent framework
+- distroless-ready
+- ReAct loop
+- MCP integration
+- OpenAI-compatible
+source: https://github.com/coddy-project/coddy-agent
 stars: 106
-language: "Go"
-last_updated: "2026-08-04T10:30:51Z"
-discovered_at: "2026-08-04T10:39:25Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T10:30:51Z'
+discovered_at: '2026-08-04T10:39:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

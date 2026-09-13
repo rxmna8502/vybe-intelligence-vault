@@ -1,19 +1,33 @@
 ---
-title: "delimit-ai/delimit-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "HMAC-SHA256", "Git", "OpenAPI", "CycloneDX", "GitHub Actions"]
+title: delimit-ai/delimit-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- HMAC-SHA256
+- Git
+- OpenAPI
+- CycloneDX
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI governance", "attestation", "code review", "policy enforcement", "reproducibility"]
-source: "https://github.com/delimit-ai/delimit-mcp-server"
+deployment_complexity: Medium
+tags:
+- AI governance
+- attestation
+- code review
+- policy enforcement
+- reproducibility
+source: https://github.com/delimit-ai/delimit-mcp-server
 stars: 21
-language: "Python"
-last_updated: "2026-07-12T17:01:33Z"
-discovered_at: "2026-07-12T17:03:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T17:01:33Z'
+discovered_at: '2026-07-12T17:03:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

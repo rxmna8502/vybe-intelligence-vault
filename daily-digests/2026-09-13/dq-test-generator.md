@@ -1,19 +1,32 @@
 ---
-title: "Mona-Alkhatib/dq-test-generator"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Sonnet 4.6", "DuckDB", "dbt", "Pydantic", "PyYAML", "Typer", "pytest"]
+title: Mona-Alkhatib/dq-test-generator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Claude Sonnet 4.6
+- DuckDB
+- dbt
+- Pydantic
+- PyYAML
+- Typer
+- pytest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["dbt", "data quality", "test generation", "Claude", "DuckDB"]
-source: "https://github.com/Mona-Alkhatib/dq-test-generator"
+deployment_complexity: Medium
+tags:
+- dbt
+- data quality
+- test generation
+- Claude
+- DuckDB
+source: https://github.com/Mona-Alkhatib/dq-test-generator
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T22:43:50Z"
-discovered_at: "2026-07-12T22:44:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T22:43:50Z'
+discovered_at: '2026-07-12T22:44:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

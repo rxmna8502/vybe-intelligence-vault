@@ -1,19 +1,33 @@
 ---
-title: "PhiBao/las-vegas"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js", "TypeScript", "React", "Neon Postgres", "Cloudflare Worker", "Unicity Sphere SDK", "Vercel", "SHA-256", "Playwright"]
+title: PhiBao/las-vegas
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Next.js
+- TypeScript
+- React
+- Neon Postgres
+- Cloudflare Worker
+- Unicity Sphere SDK
+- Vercel
+- SHA-256
+- Playwright
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "peer-to-peer payments", "commit-reveal randomness", "blockchain gaming", "agentic commerce"]
-source: "https://github.com/PhiBao/las-vegas"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- peer-to-peer payments
+- commit-reveal randomness
+- blockchain gaming
+- agentic commerce
+source: https://github.com/PhiBao/las-vegas
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-10T16:22:44Z"
-discovered_at: "2026-07-10T16:24:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T16:22:44Z'
+discovered_at: '2026-07-10T16:24:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

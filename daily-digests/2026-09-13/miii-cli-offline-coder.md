@@ -1,19 +1,32 @@
 ---
-title: "daya7781r/miii-cli-offline-coder"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Node.js", "CLI", "YAML", "Terminal UI", "Git", "REST APIs"]
+title: daya7781r/miii-cli-offline-coder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Ollama
+- Node.js
+- CLI
+- YAML
+- Terminal UI
+- Git
+- REST APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous coding", "offline AI", "terminal agent", "local LLM", "privacy-focused"]
-source: "https://github.com/daya7781r/miii-cli-offline-coder"
+deployment_complexity: Medium
+tags:
+- autonomous coding
+- offline AI
+- terminal agent
+- local LLM
+- privacy-focused
+source: https://github.com/daya7781r/miii-cli-offline-coder
 stars: 0
-language: "HTML"
-last_updated: "2026-09-03T21:56:04Z"
-discovered_at: "2026-09-03T22:07:51Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T21:56:04Z'
+discovered_at: '2026-09-03T22:07:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

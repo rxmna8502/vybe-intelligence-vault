@@ -1,19 +1,27 @@
 ---
-title: "Pudlowska/utm-assistant-feature-request"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["GitHub Issues", "Issue Templates", "Markdown"]
+title: Pudlowska/utm-assistant-feature-request
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- GitHub Issues
+- Issue Templates
+- Markdown
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["feature requests", "bug tracking", "user feedback", "product management", "UTM tracking"]
-source: "https://github.com/Pudlowska/utm-assistant-feature-request"
+deployment_complexity: Low
+tags:
+- feature requests
+- bug tracking
+- user feedback
+- product management
+- UTM tracking
+source: https://github.com/Pudlowska/utm-assistant-feature-request
 stars: 0
-language: "None"
-last_updated: "2026-09-01T15:33:39Z"
-discovered_at: "2026-09-01T15:54:36Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-01T15:33:39Z'
+discovered_at: '2026-09-01T15:54:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

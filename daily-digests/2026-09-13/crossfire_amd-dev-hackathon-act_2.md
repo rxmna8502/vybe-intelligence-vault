@@ -1,19 +1,34 @@
 ---
-title: "VampFay/CROSSFIRE_AMD-DEV-HACKATHON-ACT_2"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "ROCm", "hipify-clang", "Gemma 4 12B", "vLLM", "LangGraph", "FastAPI", "SQLite", "Docker", "MI300X GPU"]
+title: VampFay/CROSSFIRE_AMD-DEV-HACKATHON-ACT_2
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- ROCm
+- hipify-clang
+- Gemma 4 12B
+- vLLM
+- LangGraph
+- FastAPI
+- SQLite
+- Docker
+- MI300X GPU
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CUDA-to-ROCm", "GPU migration", "AI-assisted translation", "AMD MI300X", "code validation"]
-source: "https://github.com/VampFay/CROSSFIRE_AMD-DEV-HACKATHON-ACT_2"
+deployment_complexity: Medium
+tags:
+- CUDA-to-ROCm
+- GPU migration
+- AI-assisted translation
+- AMD MI300X
+- code validation
+source: https://github.com/VampFay/CROSSFIRE_AMD-DEV-HACKATHON-ACT_2
 stars: 1
-language: "Python"
-last_updated: "2026-07-12T15:54:26Z"
-discovered_at: "2026-07-12T15:58:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T15:54:26Z'
+discovered_at: '2026-07-12T15:58:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

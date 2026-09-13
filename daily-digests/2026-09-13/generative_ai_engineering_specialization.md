@@ -1,19 +1,34 @@
 ---
-title: "KashifMaqbool/Generative_AI_Engineering_Specialization"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "PyTorch", "Keras", "Scikit-learn", "Flask", "Jupyter Notebook", "RESTful APIs", "Vector Databases", "Prompt Engineering"]
+title: KashifMaqbool/Generative_AI_Engineering_Specialization
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- LangChain
+- PyTorch
+- Keras
+- Scikit-learn
+- Flask
+- Jupyter Notebook
+- RESTful APIs
+- Vector Databases
+- Prompt Engineering
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Generative AI", "LLM", "Prompt Engineering", "AI Engineering", "NLP"]
-source: "https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization"
+deployment_complexity: Medium
+tags:
+- Generative AI
+- LLM
+- Prompt Engineering
+- AI Engineering
+- NLP
+source: https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization
 stars: 1
-language: "Jupyter Notebook"
-last_updated: "2026-08-07T17:42:43Z"
-discovered_at: "2026-08-07T17:52:19Z"
-evaluated_by: "mistral-small-latest"
+language: Jupyter Notebook
+last_updated: '2026-08-07T17:42:43Z'
+discovered_at: '2026-08-07T17:52:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

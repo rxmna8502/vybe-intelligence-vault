@@ -1,19 +1,29 @@
 ---
-title: "Luneswan/claude-rework"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "CLI", "JSON", "Semantic Search Libraries"]
+title: Luneswan/claude-rework
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- CLI
+- JSON
+- Semantic Search Libraries
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Claude AI", "memory augmentation", "session indexing", "token optimization", "context migration"]
-source: "https://github.com/Luneswan/claude-rework"
+deployment_complexity: Low
+tags:
+- Claude AI
+- memory augmentation
+- session indexing
+- token optimization
+- context migration
+source: https://github.com/Luneswan/claude-rework
 stars: 1
-language: "Python"
-last_updated: "2026-09-02T15:49:29Z"
-discovered_at: "2026-09-02T15:52:20Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:49:29Z'
+discovered_at: '2026-09-02T15:52:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

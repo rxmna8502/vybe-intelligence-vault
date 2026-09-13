@@ -1,19 +1,32 @@
 ---
-title: "AlexsJones/repo-steward"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "GitHub CLI (gh)", "systemd", "FastAPI (implied by dashboard/server)", "YAML (for configuration)", "HTML/CSS (for dashboard UI)", "Bash (for scripts like install.sh, tick.sh)"]
+title: AlexsJones/repo-steward
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Claude Code
+- GitHub CLI (gh)
+- systemd
+- FastAPI (implied by dashboard/server)
+- YAML (for configuration)
+- HTML/CSS (for dashboard UI)
+- Bash (for scripts like install.sh, tick.sh)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "repository management", "GitHub automation", "maintainer tools", "AI-driven workflows"]
-source: "https://github.com/AlexsJones/repo-steward"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- repository management
+- GitHub automation
+- maintainer tools
+- AI-driven workflows
+source: https://github.com/AlexsJones/repo-steward
 stars: 23
-language: "Python"
-last_updated: "2026-08-06T06:26:41Z"
-discovered_at: "2026-08-06T06:33:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T06:26:41Z'
+discovered_at: '2026-08-06T06:33:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

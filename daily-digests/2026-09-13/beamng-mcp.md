@@ -1,19 +1,37 @@
 ---
-title: "eric-rolph/beamng-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "BeamNGpy", "GELua", "WebSocket", "OpenCV", "Hugging Face SegFormer", "ONNX Runtime", "PyTorch", "CUDA", "Blender", "MessagePack", "Shared Memory"]
+title: eric-rolph/beamng-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- BeamNGpy
+- GELua
+- WebSocket
+- OpenCV
+- Hugging Face SegFormer
+- ONNX Runtime
+- PyTorch
+- CUDA
+- Blender
+- MessagePack
+- Shared Memory
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["autonomous driving", "simulation control", "MCP server", "BeamNG integration", "real-time perception"]
-source: "https://github.com/eric-rolph/beamng-mcp"
+deployment_complexity: High
+tags:
+- autonomous driving
+- simulation control
+- MCP server
+- BeamNG integration
+- real-time perception
+source: https://github.com/eric-rolph/beamng-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T22:47:29Z"
-discovered_at: "2026-08-01T22:55:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T22:47:29Z'
+discovered_at: '2026-08-01T22:55:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,40 @@
 ---
-title: "wink-wink-wink555/MarkiNote"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "Docker", "PostgreSQL", "SQLite", "NGINX", "Prometheus", "OpenTelemetry", "Vite", "CodeMirror", "TanStack Query", "Pydantic", "SQLAlchemy", "Alembic"]
+title: wink-wink-wink555/MarkiNote
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- Docker
+- PostgreSQL
+- SQLite
+- NGINX
+- Prometheus
+- OpenTelemetry
+- Vite
+- CodeMirror
+- TanStack Query
+- Pydantic
+- SQLAlchemy
+- Alembic
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI Agent", "Markdown Management", "Self-Hosted", "Document Automation", "RAG Optimization"]
-source: "https://github.com/wink-wink-wink555/MarkiNote"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- Markdown Management
+- Self-Hosted
+- Document Automation
+- RAG Optimization
+source: https://github.com/wink-wink-wink555/MarkiNote
 stars: 98
-language: "Python"
-last_updated: "2026-08-09T16:35:45Z"
-discovered_at: "2026-08-09T16:38:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T16:35:45Z'
+discovered_at: '2026-08-09T16:38:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

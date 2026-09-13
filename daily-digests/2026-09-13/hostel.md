@@ -1,19 +1,34 @@
 ---
-title: "compforge/hostel"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "HTTP API", "OpenSandbox", "bubblewrap (bwrap)", "Landlock LSM", "cgroup v2", "S3-compatible storage", "Chromium (CDP)", "Landlock", "Linux namespaces"]
+title: compforge/hostel
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- HTTP API
+- OpenSandbox
+- bubblewrap (bwrap)
+- Landlock LSM
+- cgroup v2
+- S3-compatible storage
+- Chromium (CDP)
+- Landlock
+- Linux namespaces
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["sandbox runtime", "multi-tenant execution", "AI agent isolation", "OpenSandbox API", "resource optimization"]
-source: "https://github.com/compforge/hostel"
+deployment_complexity: Medium
+tags:
+- sandbox runtime
+- multi-tenant execution
+- AI agent isolation
+- OpenSandbox API
+- resource optimization
+source: https://github.com/compforge/hostel
 stars: 4
-language: "Go"
-last_updated: "2026-08-04T04:05:34Z"
-discovered_at: "2026-08-04T04:14:35Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T04:05:34Z'
+discovered_at: '2026-08-04T04:14:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

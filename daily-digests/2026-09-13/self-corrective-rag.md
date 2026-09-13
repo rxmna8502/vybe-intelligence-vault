@@ -1,19 +1,29 @@
 ---
-title: "Jeroflo88/Self-Corrective-RAG"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "Google Gemini", "RAG", "Graph Architecture"]
+title: Jeroflo88/Self-Corrective-RAG
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- LangGraph
+- Google Gemini
+- RAG
+- Graph Architecture
 quality_score: 5
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG Optimization", "Query Rewriting", "LangGraph", "Self-Correction", "Document Relevance"]
-source: "https://github.com/Jeroflo88/Self-Corrective-RAG"
+deployment_complexity: Medium
+tags:
+- RAG Optimization
+- Query Rewriting
+- LangGraph
+- Self-Correction
+- Document Relevance
+source: https://github.com/Jeroflo88/Self-Corrective-RAG
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T12:40:46Z"
-discovered_at: "2026-08-09T12:51:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T12:40:46Z'
+discovered_at: '2026-08-09T12:51:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

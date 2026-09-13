@@ -1,19 +1,32 @@
 ---
-title: "SmooAI/chat-widget"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Web Components", "Shadow DOM", "WebSocket", "ES Modules", "CSS Custom Properties", "npm", "CI/CD (GitHub Actions)"]
+title: SmooAI/chat-widget
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Web Components
+- Shadow DOM
+- WebSocket
+- ES Modules
+- CSS Custom Properties
+- npm
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["chat widget", "web component", "streaming UI", "brand-adaptive", "RAG interface"]
-source: "https://github.com/SmooAI/chat-widget"
+deployment_complexity: Low
+tags:
+- chat widget
+- web component
+- streaming UI
+- brand-adaptive
+- RAG interface
+source: https://github.com/SmooAI/chat-widget
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-15T21:49:26Z"
-discovered_at: "2026-07-15T21:59:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T21:49:26Z'
+discovered_at: '2026-07-15T21:59:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

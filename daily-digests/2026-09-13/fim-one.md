@@ -1,19 +1,37 @@
 ---
-title: "fim-ai/fim-one"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Next.js", "React Flow", "PostgreSQL", "MySQL", "Redis", "Docker", "LLM APIs (OpenAI, Anthropic, etc.)", "Jina Embeddings", "LanceDB", "Stripe", "TypeScript"]
+title: fim-ai/fim-one
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- React Flow
+- PostgreSQL
+- MySQL
+- Redis
+- Docker
+- LLM APIs (OpenAI, Anthropic, etc.)
+- Jina Embeddings
+- LanceDB
+- Stripe
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Agent Orchestration", "Multi-System Integration", "Cross-Border Enterprise", "Dynamic Planning", "Guardrails"]
-source: "https://github.com/fim-ai/fim-one"
+deployment_complexity: High
+tags:
+- Agent Orchestration
+- Multi-System Integration
+- Cross-Border Enterprise
+- Dynamic Planning
+- Guardrails
+source: https://github.com/fim-ai/fim-one
 stars: 1340
-language: "Python"
-last_updated: "2026-07-16T08:04:27Z"
-discovered_at: "2026-07-16T08:10:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T08:04:27Z'
+discovered_at: '2026-07-16T08:10:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

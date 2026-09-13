@@ -1,19 +1,37 @@
 ---
-title: "rhenus-Q/Enterprise-Office-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "LangChain", "Chroma", "OpenAI", "FastAPI", "React", "TypeScript", "Vite", "Tavily", "Chromadb", "Pydantic", "uv"]
+title: rhenus-Q/Enterprise-Office-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- Chroma
+- OpenAI
+- FastAPI
+- React
+- TypeScript
+- Vite
+- Tavily
+- Chromadb
+- Pydantic
+- uv
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Agentic RAG", "LangGraph", "Enterprise AI", "Deterministic Routing", "Observability"]
-source: "https://github.com/rhenus-Q/Enterprise-Office-Agent"
+deployment_complexity: Medium
+tags:
+- Agentic RAG
+- LangGraph
+- Enterprise AI
+- Deterministic Routing
+- Observability
+source: https://github.com/rhenus-Q/Enterprise-Office-Agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T05:39:55Z"
-discovered_at: "2026-08-05T05:47:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:39:55Z'
+discovered_at: '2026-08-05T05:47:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

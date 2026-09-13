@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-worst-spam-emails-ilands-ai-agent-hustle
 first_seen: '2026-09-12T17:46:32.494687+05:30'
 last_seen: '2026-09-13T03:54:08.453079+05:30'
 last_checked: '2026-09-13T03:54:08.453079+05:30'
 health_score: 100
 ---
+
 
 # The worst spam emails: iLands AI agent hustle
 

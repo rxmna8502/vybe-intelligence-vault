@@ -1,19 +1,31 @@
 ---
-title: "dwgx/SmartCLI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PTY (Pseudo Terminal)", "pyte (terminal emulator library)", "MCP (Model Context Protocol)", "pywinpty (Windows PTY backend)", "ANSI escape codes", "TUI (Terminal User Interface) development"]
+title: dwgx/SmartCLI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- PTY (Pseudo Terminal)
+- pyte (terminal emulator library)
+- MCP (Model Context Protocol)
+- pywinpty (Windows PTY backend)
+- ANSI escape codes
+- TUI (Terminal User Interface) development
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["terminal automation", "TUI interaction", "screen perception", "PTY management", "AI agent tools"]
-source: "https://github.com/dwgx/SmartCLI"
+deployment_complexity: Medium
+tags:
+- terminal automation
+- TUI interaction
+- screen perception
+- PTY management
+- AI agent tools
+source: https://github.com/dwgx/SmartCLI
 stars: 2
-language: "Python"
-last_updated: "2026-08-06T15:09:40Z"
-discovered_at: "2026-08-06T15:20:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T15:09:40Z'
+discovered_at: '2026-08-06T15:20:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

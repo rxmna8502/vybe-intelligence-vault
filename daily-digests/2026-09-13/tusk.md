@@ -1,19 +1,32 @@
 ---
-title: "cstroie/tusk"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["PHP 7.4", "HTTP/JSON-RPC 2.0", "Composer", "cURL", "DOM", "SimpleXML", "mbstring", "Readability.php"]
+title: cstroie/tusk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- PHP 7.4
+- HTTP/JSON-RPC 2.0
+- Composer
+- cURL
+- DOM
+- SimpleXML
+- mbstring
+- Readability.php
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "PHP", "web scraping", "RAG tooling", "HTTP transport"]
-source: "https://github.com/cstroie/tusk"
+deployment_complexity: Medium
+tags:
+- MCP server
+- PHP
+- web scraping
+- RAG tooling
+- HTTP transport
+source: https://github.com/cstroie/tusk
 stars: 0
-language: "PHP"
-last_updated: "2026-08-08T08:43:08Z"
-discovered_at: "2026-08-08T08:43:30Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-08T08:43:08Z'
+discovered_at: '2026-08-08T08:43:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

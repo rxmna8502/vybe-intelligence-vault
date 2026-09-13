@@ -1,19 +1,36 @@
 ---
-title: "AndyForest/SoupNet"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["TypeScript", "React", "Hono", "PostgreSQL 17", "pgvector", "Drizzle ORM", "Vite", "MCP (Model Context Protocol)", "Gemini API", "Local embeddings (Hugging Face Transformers, Ollama, LM Studio)", "JWT", "Docker"]
+title: AndyForest/SoupNet
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- React
+- Hono
+- PostgreSQL 17
+- pgvector
+- Drizzle ORM
+- Vite
+- MCP (Model Context Protocol)
+- Gemini API
+- Local embeddings (Hugging Face Transformers, Ollama, LM Studio)
+- JWT
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["shared memory", "AI agent memory", "stigmergy", "semantic search", "judgment tracking"]
-source: "https://github.com/AndyForest/SoupNet"
+deployment_complexity: Medium
+tags:
+- shared memory
+- AI agent memory
+- stigmergy
+- semantic search
+- judgment tracking
+source: https://github.com/AndyForest/SoupNet
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-18T23:51:27Z"
-discovered_at: "2026-07-18T23:52:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T23:51:27Z'
+discovered_at: '2026-07-18T23:52:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

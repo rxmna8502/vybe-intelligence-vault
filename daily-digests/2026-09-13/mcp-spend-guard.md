@@ -1,19 +1,29 @@
 ---
-title: "waseemnasir2k26/mcp-spend-guard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "YAML", "JSON-RPC", "CLI"]
+title: waseemnasir2k26/mcp-spend-guard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- SQLite
+- YAML
+- JSON-RPC
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP", "cost control", "rate limiting", "agent safety", "budget enforcement"]
-source: "https://github.com/waseemnasir2k26/mcp-spend-guard"
+deployment_complexity: Low
+tags:
+- MCP
+- cost control
+- rate limiting
+- agent safety
+- budget enforcement
+source: https://github.com/waseemnasir2k26/mcp-spend-guard
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T14:49:53Z"
-discovered_at: "2026-09-04T02:20:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T14:49:53Z'
+discovered_at: '2026-09-04T02:20:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

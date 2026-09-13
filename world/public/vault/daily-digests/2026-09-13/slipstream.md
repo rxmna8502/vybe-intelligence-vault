@@ -1,19 +1,30 @@
 ---
-title: "DopamineDriven/slipstream"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Turborepo", "WebSockets", "Redis", "S3", "Node.js"]
+title: DopamineDriven/slipstream
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Turborepo
+- WebSockets
+- Redis
+- S3
+- Node.js
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI orchestration", "multi-provider LLM", "asset handling", "real-time streaming", "monorepo template"]
-source: "https://github.com/DopamineDriven/slipstream"
+deployment_complexity: Medium
+tags:
+- AI orchestration
+- multi-provider LLM
+- asset handling
+- real-time streaming
+- monorepo template
+source: https://github.com/DopamineDriven/slipstream
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T18:47:55Z"
-discovered_at: "2026-08-08T19:33:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T18:47:55Z'
+discovered_at: '2026-08-08T19:33:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

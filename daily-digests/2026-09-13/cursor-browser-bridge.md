@@ -1,19 +1,28 @@
 ---
-title: "scyzorykpl/cursor-browser-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "SSH", "Model Context Protocol (MCP)", "Electron"]
+title: scyzorykpl/cursor-browser-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- JavaScript
+- SSH
+- Model Context Protocol (MCP)
+- Electron
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["remote control", "MCP client integration", "Cursor IDE", "browser automation", "SSH bridging"]
-source: "https://github.com/scyzorykpl/cursor-browser-bridge"
+deployment_complexity: Low
+tags:
+- remote control
+- MCP client integration
+- Cursor IDE
+- browser automation
+- SSH bridging
+source: https://github.com/scyzorykpl/cursor-browser-bridge
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-17T02:49:16Z"
-discovered_at: "2026-07-17T02:52:13Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-17T02:49:16Z'
+discovered_at: '2026-07-17T02:52:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

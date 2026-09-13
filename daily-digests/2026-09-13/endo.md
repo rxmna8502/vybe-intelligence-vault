@@ -1,19 +1,30 @@
 ---
-title: "contour-terminal/endo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++", "F#", "Functional Programming", "Shell Scripting", "Type Inference", "Pattern Matching"]
+title: contour-terminal/endo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- C++
+- F#
+- Functional Programming
+- Shell Scripting
+- Type Inference
+- Pattern Matching
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["functional shell", "typed pipelines", "cross-platform scripting", "F#-inspired", "structured data"]
-source: "https://github.com/contour-terminal/endo"
+deployment_complexity: Medium
+tags:
+- functional shell
+- typed pipelines
+- cross-platform scripting
+- F#-inspired
+- structured data
+source: https://github.com/contour-terminal/endo
 stars: 30
-language: "C++"
-last_updated: "2026-08-07T20:32:45Z"
-discovered_at: "2026-08-07T20:42:56Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-07T20:32:45Z'
+discovered_at: '2026-08-07T20:42:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

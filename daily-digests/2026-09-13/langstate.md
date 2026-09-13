@@ -1,19 +1,29 @@
 ---
-title: "hermes-labs-ai/langstate"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Ollama", "OpenAI API", "Anthropic API", "Apache 2.0"]
+title: hermes-labs-ai/langstate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Ollama
+- OpenAI API
+- Anthropic API
+- Apache 2.0
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["context compression", "LLM conversation management", "fact validation", "inspectable state", "prompt engineering"]
-source: "https://github.com/hermes-labs-ai/langstate"
+deployment_complexity: Medium
+tags:
+- context compression
+- LLM conversation management
+- fact validation
+- inspectable state
+- prompt engineering
+source: https://github.com/hermes-labs-ai/langstate
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T12:27:30Z"
-discovered_at: "2026-08-06T15:20:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T12:27:30Z'
+discovered_at: '2026-08-06T15:20:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

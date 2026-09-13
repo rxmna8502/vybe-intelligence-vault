@@ -1,19 +1,29 @@
 ---
-title: "sfaustodev/Mycorrhiza-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "SHA-256", "MCP (Model Context Protocol)", "uv (package manager)"]
+title: sfaustodev/Mycorrhiza-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- SQLite
+- SHA-256
+- MCP (Model Context Protocol)
+- uv (package manager)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["persistent memory", "MCP server", "SHA-256 hash chain", "local SQLite storage", "AI continuity"]
-source: "https://github.com/sfaustodev/Mycorrhiza-MCP"
+deployment_complexity: Low
+tags:
+- persistent memory
+- MCP server
+- SHA-256 hash chain
+- local SQLite storage
+- AI continuity
+source: https://github.com/sfaustodev/Mycorrhiza-MCP
 stars: 2
-language: "Python"
-last_updated: "2026-07-11T17:51:00Z"
-discovered_at: "2026-07-11T17:54:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T17:51:00Z'
+discovered_at: '2026-07-11T17:54:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

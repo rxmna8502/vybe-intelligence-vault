@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-s-sam-altman-says-it-would-be-ill-advised-t
 first_seen: '2026-09-13T03:54:07.779745+05:30'
 last_seen: '2026-09-13T03:54:07.779745+05:30'
 last_checked: '2026-09-13T03:54:07.779745+05:30'
 health_score: 100
 ---
+
 
 # OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
 

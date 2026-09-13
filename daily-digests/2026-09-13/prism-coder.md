@@ -1,19 +1,33 @@
 ---
-title: "dcostenco/prism-coder"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "SQLite", "Ollama", "Qwen3.5", "Node.js", "Python", "MCP (Model Context Protocol)", "React", "Supabase"]
+title: dcostenco/prism-coder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- SQLite
+- Ollama
+- Qwen3.5
+- Node.js
+- Python
+- MCP (Model Context Protocol)
+- React
+- Supabase
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["persistent memory", "multi-agent coordination", "local-first AI", "knowledge graphs", "MCP server"]
-source: "https://github.com/dcostenco/prism-coder"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- multi-agent coordination
+- local-first AI
+- knowledge graphs
+- MCP server
+source: https://github.com/dcostenco/prism-coder
 stars: 153
-language: "TypeScript"
-last_updated: "2026-07-11T16:55:38Z"
-discovered_at: "2026-07-11T16:55:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T16:55:38Z'
+discovered_at: '2026-07-11T16:55:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
