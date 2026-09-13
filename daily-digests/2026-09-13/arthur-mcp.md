@@ -1,19 +1,33 @@
 ---
-title: "alexmmatos/arthur-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Node.js", "PostgreSQL", "Docker", "OpenAPI/Swagger", "JWT", "Prometheus", "OpenTelemetry"]
+title: alexmmatos/arthur-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- React
+- Node.js
+- PostgreSQL
+- Docker
+- OpenAPI/Swagger
+- JWT
+- Prometheus
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP", "Model Context Protocol", "API orchestration", "self-hosted", "governance"]
-source: "https://github.com/alexmmatos/arthur-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- Model Context Protocol
+- API orchestration
+- self-hosted
+- governance
+source: https://github.com/alexmmatos/arthur-mcp
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-16T20:01:26Z"
-discovered_at: "2026-07-16T20:02:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T20:01:26Z'
+discovered_at: '2026-07-16T20:02:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

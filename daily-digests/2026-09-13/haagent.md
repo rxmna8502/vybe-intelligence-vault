@@ -1,19 +1,31 @@
 ---
-title: "linbei0/HaAgent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Textual", "uv", "Ollama", "LM Studio", "OpenAI-compatible APIs", "pytest"]
+title: linbei0/HaAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Textual
+- uv
+- Ollama
+- LM Studio
+- OpenAI-compatible APIs
+- pytest
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local AI assistant", "Textual TUI", "workspace-aware", "session management", "model switching"]
-source: "https://github.com/linbei0/HaAgent"
+deployment_complexity: Medium
+tags:
+- local AI assistant
+- Textual TUI
+- workspace-aware
+- session management
+- model switching
+source: https://github.com/linbei0/HaAgent
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T16:56:38Z"
-discovered_at: "2026-07-12T17:03:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T16:56:38Z'
+discovered_at: '2026-07-12T17:03:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "yoloshii/ClawMem"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["TypeScript", "Bun", "SQLite", "SQLite-vec", "BM25", "Vector Search", "Reciprocal Rank Fusion", "Query Expansion", "Cross-Encoder Reranking", "GGUF", "llama.cpp", "MCP Server", "Node.js", "Systemd/launchd"]
+title: yoloshii/ClawMem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- SQLite-vec
+- BM25
+- Vector Search
+- Reciprocal Rank Fusion
+- Query Expansion
+- Cross-Encoder Reranking
+- GGUF
+- llama.cpp
+- MCP Server
+- Node.js
+- Systemd/launchd
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["On-device memory", "Hybrid RAG", "Agent integration", "Local SQLite vault", "MCP server"]
-source: "https://github.com/yoloshii/ClawMem"
+deployment_complexity: Medium
+tags:
+- On-device memory
+- Hybrid RAG
+- Agent integration
+- Local SQLite vault
+- MCP server
+source: https://github.com/yoloshii/ClawMem
 stars: 192
-language: "TypeScript"
-last_updated: "2026-07-19T15:51:57Z"
-discovered_at: "2026-07-19T15:56:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T15:51:57Z'
+discovered_at: '2026-07-19T15:56:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "socraticsurge/telugu-calendar-utilities"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "GitHub Pages", "PyPI", "MCP (Model Context Protocol)", "Swiss Ephemeris (pyswisseph)", "OpenStreetMap", "ICalendar (iCS) format"]
+title: socraticsurge/telugu-calendar-utilities
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Python
+- GitHub Actions
+- GitHub Pages
+- PyPI
+- MCP (Model Context Protocol)
+- Swiss Ephemeris (pyswisseph)
+- OpenStreetMap
+- ICalendar (iCS) format
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Panchangam", "Astrology", "Calendar Feeds", "MCP Server", "Telugu Calendar"]
-source: "https://github.com/socraticsurge/telugu-calendar-utilities"
+deployment_complexity: Medium
+tags:
+- Panchangam
+- Astrology
+- Calendar Feeds
+- MCP Server
+- Telugu Calendar
+source: https://github.com/socraticsurge/telugu-calendar-utilities
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T16:07:16Z"
-discovered_at: "2026-07-17T16:14:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T16:07:16Z'
+discovered_at: '2026-07-17T16:14:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

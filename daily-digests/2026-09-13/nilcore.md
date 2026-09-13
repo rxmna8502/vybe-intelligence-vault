@@ -1,19 +1,34 @@
 ---
-title: "RNT56/NilCore"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "Docker", "Headless Browser Automation", "HNSW Vector Index", "Mermaid Diagrams", "Telegram/Slack Bots", "OpenAI-Compatible APIs", "AST Parsers (19 languages)", "Pure-Go CDP Client"]
+title: RNT56/NilCore
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- SQLite
+- Docker
+- Headless Browser Automation
+- HNSW Vector Index
+- Mermaid Diagrams
+- Telegram/Slack Bots
+- OpenAI-Compatible APIs
+- AST Parsers (19 languages)
+- Pure-Go CDP Client
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["sandboxed execution", "verifier-owned completion", "multi-agent orchestration", "human-gated autonomy", "trust ledger"]
-source: "https://github.com/RNT56/NilCore"
+deployment_complexity: Medium
+tags:
+- sandboxed execution
+- verifier-owned completion
+- multi-agent orchestration
+- human-gated autonomy
+- trust ledger
+source: https://github.com/RNT56/NilCore
 stars: 1
-language: "Go"
-last_updated: "2026-07-12T02:23:26Z"
-discovered_at: "2026-07-12T02:32:53Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-12T02:23:26Z'
+discovered_at: '2026-07-12T02:32:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

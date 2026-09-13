@@ -1,19 +1,32 @@
 ---
-title: "Bronya0/ally-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Wails", "TypeScript", "HTML/CSS", "ripgrep", "MCP (Model Context Protocol)", "OpenAI API", "Anthropic API"]
+title: Bronya0/ally-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Go
+- Wails
+- TypeScript
+- HTML/CSS
+- ripgrep
+- MCP (Model Context Protocol)
+- OpenAI API
+- Anthropic API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["desktop assistant", "local AI", "code editing", "multi-agent", "workspace management"]
-source: "https://github.com/Bronya0/ally-agent"
+deployment_complexity: Medium
+tags:
+- desktop assistant
+- local AI
+- code editing
+- multi-agent
+- workspace management
+source: https://github.com/Bronya0/ally-agent
 stars: 18
-language: "Go"
-last_updated: "2026-07-17T10:42:17Z"
-discovered_at: "2026-07-17T10:46:22Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-17T10:42:17Z'
+discovered_at: '2026-07-17T10:46:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

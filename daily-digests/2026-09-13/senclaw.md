@@ -1,19 +1,40 @@
 ---
-title: "NortonBen/SenClaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Flutter", "SQLite", "MLX", "Candle", "MLP", "Whisper", "TTS", "OCR", "PaddleOCR", "Git", "HTTP/WebSocket", "Telegram", "Feishu/Lark", "QQ", "MCP"]
+title: NortonBen/SenClaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Flutter
+- SQLite
+- MLX
+- Candle
+- MLP
+- Whisper
+- TTS
+- OCR
+- PaddleOCR
+- Git
+- HTTP/WebSocket
+- Telegram
+- Feishu/Lark
+- QQ
+- MCP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal AI agents", "multi-agent orchestration", "local-first", "memory management", "Space Apps"]
-source: "https://github.com/NortonBen/SenClaw"
+deployment_complexity: Medium
+tags:
+- personal AI agents
+- multi-agent orchestration
+- local-first
+- memory management
+- Space Apps
+source: https://github.com/NortonBen/SenClaw
 stars: 1
-language: "Rust"
-last_updated: "2026-08-04T07:33:56Z"
-discovered_at: "2026-08-04T07:40:08Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-04T07:33:56Z'
+discovered_at: '2026-08-04T07:40:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

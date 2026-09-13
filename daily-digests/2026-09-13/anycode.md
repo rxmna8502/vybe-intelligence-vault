@@ -1,19 +1,33 @@
 ---
-title: "anycode-ade/anycode"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "React", "Rust", "Tree-sitter", "Web-tree-sitter", "WebSocket", "Agent Client Protocol (ACP)", "Git", "pnpm"]
+title: anycode-ade/anycode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- React
+- Rust
+- Tree-sitter
+- Web-tree-sitter
+- WebSocket
+- Agent Client Protocol (ACP)
+- Git
+- pnpm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["code editor", "agent integration", "collaborative IDE", "multi-device", "LSP support"]
-source: "https://github.com/anycode-ade/anycode"
+deployment_complexity: Medium
+tags:
+- code editor
+- agent integration
+- collaborative IDE
+- multi-device
+- LSP support
+source: https://github.com/anycode-ade/anycode
 stars: 25
-language: "TypeScript"
-last_updated: "2026-07-13T13:19:54Z"
-discovered_at: "2026-07-13T13:22:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T13:19:54Z'
+discovered_at: '2026-07-13T13:22:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

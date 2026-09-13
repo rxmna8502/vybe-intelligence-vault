@@ -1,19 +1,28 @@
 ---
-title: "glenn-agent/blueprint"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "OpenClaw", "Git", "Cron"]
+title: glenn-agent/blueprint
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Shell
+- OpenClaw
+- Git
+- Cron
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["workspace management", "agent setup", "configuration snapshot", "security boundaries", "automation"]
-source: "https://github.com/glenn-agent/blueprint"
+deployment_complexity: Low
+tags:
+- workspace management
+- agent setup
+- configuration snapshot
+- security boundaries
+- automation
+source: https://github.com/glenn-agent/blueprint
 stars: 0
-language: "Shell"
-last_updated: "2026-07-21T04:05:29Z"
-discovered_at: "2026-07-21T04:14:37Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-21T04:05:29Z'
+discovered_at: '2026-07-21T04:14:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

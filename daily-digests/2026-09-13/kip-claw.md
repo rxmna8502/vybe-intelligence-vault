@@ -1,19 +1,28 @@
 ---
-title: "kip-claw/kip-claw"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Svelte", "JavaScript", "TypeScript", "OpenClaw"]
+title: kip-claw/kip-claw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Svelte
+- JavaScript
+- TypeScript
+- OpenClaw
 quality_score: 3
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["AI assistant", "conversational UI", "frontend", "OpenClaw", "Svelte"]
-source: "https://github.com/kip-claw/kip-claw"
+deployment_complexity: Medium
+tags:
+- AI assistant
+- conversational UI
+- frontend
+- OpenClaw
+- Svelte
+source: https://github.com/kip-claw/kip-claw
 stars: 1
-language: "Svelte"
-last_updated: "2026-09-02T08:17:24Z"
-discovered_at: "2026-09-02T08:19:24Z"
-evaluated_by: "mistral-small-latest"
+language: Svelte
+last_updated: '2026-09-02T08:17:24Z'
+discovered_at: '2026-09-02T08:19:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

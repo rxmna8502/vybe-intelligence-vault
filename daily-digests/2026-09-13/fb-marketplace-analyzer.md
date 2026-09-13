@@ -1,19 +1,30 @@
 ---
-title: "its-me-prash/fb-marketplace-analyzer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "CLI", "JSON-LD", "Open Graph Protocol", "Web Scraping"]
+title: its-me-prash/fb-marketplace-analyzer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- CLI
+- JSON-LD
+- Open Graph Protocol
+- Web Scraping
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Facebook Marketplace", "Scam Detection", "Price Comparison", "Vehicle Analysis", "MCP Server"]
-source: "https://github.com/its-me-prash/fb-marketplace-analyzer"
+deployment_complexity: Low
+tags:
+- Facebook Marketplace
+- Scam Detection
+- Price Comparison
+- Vehicle Analysis
+- MCP Server
+source: https://github.com/its-me-prash/fb-marketplace-analyzer
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T22:51:42Z"
-discovered_at: "2026-08-04T23:04:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T22:51:42Z'
+discovered_at: '2026-08-04T23:04:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

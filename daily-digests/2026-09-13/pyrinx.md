@@ -1,19 +1,29 @@
 ---
-title: "pyrinx/pyrinx"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "RAG", "LLM", "Vector Databases", "Modular Pipelines"]
+title: pyrinx/pyrinx
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- RAG
+- LLM
+- Vector Databases
+- Modular Pipelines
 quality_score: 3
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["RAG", "pipeline", "modular", "LLM integration", "vector search"]
-source: "https://github.com/pyrinx/pyrinx"
+deployment_complexity: Low
+tags:
+- RAG
+- pipeline
+- modular
+- LLM integration
+- vector search
+source: https://github.com/pyrinx/pyrinx
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T08:26:23Z"
-discovered_at: "2026-09-03T08:33:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T08:26:23Z'
+discovered_at: '2026-09-03T08:33:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

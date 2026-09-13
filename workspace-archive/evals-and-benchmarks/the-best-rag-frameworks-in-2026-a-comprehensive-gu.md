@@ -40,7 +40,7 @@ selection_reason:
 
 ## Summary
 
-*   Leading RAG frameworks in 2026, including LangChain, LlamaIndex
+*   Leading RAG frameworks in 2026 include LangChain for modular, agentic
 
 ## Use Cases
 

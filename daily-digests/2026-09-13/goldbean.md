@@ -1,19 +1,34 @@
 ---
-title: "wuzenghai616-lang/goldbean"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "x402 Micropayments", "PayPal API", "Alipay API", "USDC (Base Network)", "Baidu AI APIs", "RESTful API", "SSE (Server-Sent Events)"]
+title: wuzenghai616-lang/goldbean
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- x402 Micropayments
+- PayPal API
+- Alipay API
+- USDC (Base Network)
+- Baidu AI APIs
+- RESTful API
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Baidu AI", "OCR", "Micropayments", "MCP Server", "Global Access"]
-source: "https://github.com/wuzenghai616-lang/goldbean"
+deployment_complexity: Medium
+tags:
+- Baidu AI
+- OCR
+- Micropayments
+- MCP Server
+- Global Access
+source: https://github.com/wuzenghai616-lang/goldbean
 stars: 1
-language: "JavaScript"
-last_updated: "2026-07-11T17:45:25Z"
-discovered_at: "2026-07-11T17:54:56Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-11T17:45:25Z'
+discovered_at: '2026-07-11T17:54:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

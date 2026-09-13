@@ -1,19 +1,33 @@
 ---
-title: "boommanpro/gaia-workflow-engine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["React", "TypeScript", "Spring Boot", "Java", "flowgram.ai", "MyBatis Plus", "SQLite", "Maven", "Node.js"]
+title: boommanpro/gaia-workflow-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- React
+- TypeScript
+- Spring Boot
+- Java
+- flowgram.ai
+- MyBatis Plus
+- SQLite
+- Maven
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["workflow automation", "AI agent", "visual editor", "low-code", "RAG pipeline"]
-source: "https://github.com/boommanpro/gaia-workflow-engine"
+deployment_complexity: Medium
+tags:
+- workflow automation
+- AI agent
+- visual editor
+- low-code
+- RAG pipeline
+source: https://github.com/boommanpro/gaia-workflow-engine
 stars: 184
-language: "TypeScript"
-last_updated: "2026-08-07T11:55:38Z"
-discovered_at: "2026-08-07T11:56:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:55:38Z'
+discovered_at: '2026-08-07T11:56:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

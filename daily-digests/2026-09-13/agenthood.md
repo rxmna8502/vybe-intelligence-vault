@@ -1,19 +1,33 @@
 ---
-title: "fworks-tech/agenthood"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Markdown", "LLM APIs (Groq, Anthropic, OpenAI, Ollama)", "Redis", "LanceDB", "Tree-sitter", "ESLint", "Git Hooks"]
+title: fworks-tech/agenthood
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Markdown
+- LLM APIs (Groq, Anthropic, OpenAI, Ollama)
+- Redis
+- LanceDB
+- Tree-sitter
+- ESLint
+- Git Hooks
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "AI agent standards", "software engineering automation", "RAG integration", "developer tooling"]
-source: "https://github.com/fworks-tech/agenthood"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- AI agent standards
+- software engineering automation
+- RAG integration
+- developer tooling
+source: https://github.com/fworks-tech/agenthood
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-08T21:25:25Z"
-discovered_at: "2026-08-08T21:33:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T21:25:25Z'
+discovered_at: '2026-08-08T21:33:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   Python RAG frameworks in 2026, including LangChain v0.
+*   Leading Python RAG frameworks in 2026 include LangChain v0.2
 
 ## Use Cases
 

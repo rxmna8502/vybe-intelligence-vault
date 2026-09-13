@@ -1,19 +1,32 @@
 ---
-title: "arimunandar/figsnap-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "Node.js", "MCP (Model Context Protocol)", "WebSocket", "HTTP", "Figma Plugin API", "esbuild"]
+title: arimunandar/figsnap-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- WebSocket
+- HTTP
+- Figma Plugin API
+- esbuild
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Figma integration", "MCP server", "design extraction", "local-first", "AI agent tools"]
-source: "https://github.com/arimunandar/figsnap-mcp"
+deployment_complexity: Medium
+tags:
+- Figma integration
+- MCP server
+- design extraction
+- local-first
+- AI agent tools
+source: https://github.com/arimunandar/figsnap-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-02T02:09:03Z"
-discovered_at: "2026-09-02T02:10:11Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T02:09:03Z'
+discovered_at: '2026-09-02T02:10:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

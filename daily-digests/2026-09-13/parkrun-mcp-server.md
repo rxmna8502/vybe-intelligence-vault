@@ -1,19 +1,28 @@
 ---
-title: "Michael-Hutchinson/parkrun-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "npm"]
+title: Michael-Hutchinson/parkrun-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- npm
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["MCP server", "parkrun", "event discovery", "TypeScript", "community data"]
-source: "https://github.com/Michael-Hutchinson/parkrun-mcp-server"
+deployment_complexity: Low
+tags:
+- MCP server
+- parkrun
+- event discovery
+- TypeScript
+- community data
+source: https://github.com/Michael-Hutchinson/parkrun-mcp-server
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T17:49:23Z"
-discovered_at: "2026-08-04T17:50:53Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T17:49:23Z'
+discovered_at: '2026-08-04T17:50:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

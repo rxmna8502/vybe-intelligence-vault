@@ -1,19 +1,33 @@
 ---
-title: "muneebrbaig/n2i-dev-cycle"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "C#", "Angular", ".NET", "GitLab CLI", "GitHub CLI", "DbUp", "Playwright", "Cypress"]
+title: muneebrbaig/n2i-dev-cycle
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Claude Code
+- C#
+- Angular
+- .NET
+- GitLab CLI
+- GitHub CLI
+- DbUp
+- Playwright
+- Cypress
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["automation", "claude-code", "development-lifecycle", "dotnet-angular", "code-review"]
-source: "https://github.com/muneebrbaig/n2i-dev-cycle"
+deployment_complexity: Low
+tags:
+- automation
+- claude-code
+- development-lifecycle
+- dotnet-angular
+- code-review
+source: https://github.com/muneebrbaig/n2i-dev-cycle
 stars: 0
-language: "None"
-last_updated: "2026-09-03T15:34:27Z"
-discovered_at: "2026-09-03T15:37:46Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-03T15:34:27Z'
+discovered_at: '2026-09-03T15:37:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

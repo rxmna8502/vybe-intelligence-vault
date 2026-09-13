@@ -1,19 +1,31 @@
 ---
-title: "SpaceMolt/www"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Vercel", "Server-Sent Events (SSE)", "WebSocket", "HTTP/MCP", "Node.js", "React"]
+title: SpaceMolt/www
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Vercel
+- Server-Sent Events (SSE)
+- WebSocket
+- HTTP/MCP
+- Node.js
+- React
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agents", "MMO", "gaming", "real-time data", "multiplayer"]
-source: "https://github.com/SpaceMolt/www"
+deployment_complexity: Low
+tags:
+- AI agents
+- MMO
+- gaming
+- real-time data
+- multiplayer
+source: https://github.com/SpaceMolt/www
 stars: 9
-language: "TypeScript"
-last_updated: "2026-07-16T18:01:35Z"
-discovered_at: "2026-07-16T18:05:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T18:01:35Z'
+discovered_at: '2026-07-16T18:05:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "timmo001/context"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "CLI", "MCP Server", "Node.js"]
+title: timmo001/context
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- CLI
+- MCP Server
+- Node.js
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["context retrieval", "MCP server", "CLI tool", "repository analysis", "deterministic output"]
-source: "https://github.com/timmo001/context"
+deployment_complexity: Low
+tags:
+- context retrieval
+- MCP server
+- CLI tool
+- repository analysis
+- deterministic output
+source: https://github.com/timmo001/context
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-10T20:21:22Z"
-discovered_at: "2026-07-10T20:22:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T20:21:22Z'
+discovered_at: '2026-07-10T20:22:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "seldonframe/reelier"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "GitHub Actions", "MCP (Model Context Protocol)", "JWT (for signed receipts)", "YAML/JSON (for configuration and traces)"]
+title: seldonframe/reelier
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- GitHub Actions
+- MCP (Model Context Protocol)
+- JWT (for signed receipts)
+- YAML/JSON (for configuration and traces)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent verification", "deterministic replay", "drift detection", "receipts", "dependency safety"]
-source: "https://github.com/seldonframe/reelier"
+deployment_complexity: Medium
+tags:
+- agent verification
+- deterministic replay
+- drift detection
+- receipts
+- dependency safety
+source: https://github.com/seldonframe/reelier
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T17:48:21Z"
-discovered_at: "2026-08-01T18:00:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T17:48:21Z'
+discovered_at: '2026-08-01T18:00:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

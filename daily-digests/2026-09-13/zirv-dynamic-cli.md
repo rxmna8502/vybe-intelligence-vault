@@ -1,19 +1,32 @@
 ---
-title: "Glubiz/zirv-dynamic-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "CLI", "YAML", "JSON", "TOML", "Terminal UI", "PTY", "Cross-platform"]
+title: Glubiz/zirv-dynamic-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- CLI
+- YAML
+- JSON
+- TOML
+- Terminal UI
+- PTY
+- Cross-platform
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["automation", "workflow", "CLI", "AI harness", "session management"]
-source: "https://github.com/Glubiz/zirv-dynamic-cli"
+deployment_complexity: Medium
+tags:
+- automation
+- workflow
+- CLI
+- AI harness
+- session management
+source: https://github.com/Glubiz/zirv-dynamic-cli
 stars: 1
-language: "Rust"
-last_updated: "2026-09-03T08:25:43Z"
-discovered_at: "2026-09-03T08:34:23Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T08:25:43Z'
+discovered_at: '2026-09-03T08:34:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

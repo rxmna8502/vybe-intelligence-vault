@@ -1,19 +1,36 @@
 ---
-title: "sherwood-exchange/sherwood"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Solidity", "Circom", "Groth16", "Poseidon Hash", "TypeScript", "React", "Vite", "Foundry", "Docker", "Web3.js/Ethers.js", "Uniswap v2/v3/v4", "Virtuals ACP"]
+title: sherwood-exchange/sherwood
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Solidity
+- Circom
+- Groth16
+- Poseidon Hash
+- TypeScript
+- React
+- Vite
+- Foundry
+- Docker
+- Web3.js/Ethers.js
+- Uniswap v2/v3/v4
+- Virtuals ACP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Zero-Knowledge Proofs", "Privacy-Preserving", "DEX Aggregator", "Autonomous Agent", "Cross-Chain"]
-source: "https://github.com/sherwood-exchange/sherwood"
+deployment_complexity: High
+tags:
+- Zero-Knowledge Proofs
+- Privacy-Preserving
+- DEX Aggregator
+- Autonomous Agent
+- Cross-Chain
+source: https://github.com/sherwood-exchange/sherwood
 stars: 0
-language: "Solidity"
-last_updated: "2026-07-17T02:49:20Z"
-discovered_at: "2026-07-17T02:52:03Z"
-evaluated_by: "mistral-small-latest"
+language: Solidity
+last_updated: '2026-07-17T02:49:20Z'
+discovered_at: '2026-07-17T02:52:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

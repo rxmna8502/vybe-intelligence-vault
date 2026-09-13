@@ -1,19 +1,36 @@
 ---
-title: "standardbeagle/standardbeagle-tools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "npm", "pnpm", "MCP (Model Context Protocol)", "Claude Code", "Python", "Go", "axe-core", "sharp", "svgo", "vitest"]
+title: standardbeagle/standardbeagle-tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- JavaScript
+- npm
+- pnpm
+- MCP (Model Context Protocol)
+- Claude Code
+- Python
+- Go
+- axe-core
+- sharp
+- svgo
+- vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agents", "MCP servers", "UX tooling", "accessibility", "design tokens"]
-source: "https://github.com/standardbeagle/standardbeagle-tools"
+deployment_complexity: Medium
+tags:
+- AI coding agents
+- MCP servers
+- UX tooling
+- accessibility
+- design tokens
+source: https://github.com/standardbeagle/standardbeagle-tools
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-02T16:10:54Z"
-discovered_at: "2026-08-02T16:11:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T16:10:54Z'
+discovered_at: '2026-08-02T16:11:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

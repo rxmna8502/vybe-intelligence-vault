@@ -1,19 +1,34 @@
 ---
-title: "aqm857886159/Nomi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "React", "Vite", "Tailwind CSS", "Node.js", "ComfyUI", "MCP (Model Context Protocol)", "OpenAI-compatible APIs", "FFmpeg"]
+title: aqm857886159/Nomi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Vite
+- Tailwind CSS
+- Node.js
+- ComfyUI
+- MCP (Model Context Protocol)
+- OpenAI-compatible APIs
+- FFmpeg
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI video generation", "local-first", "workbench", "MCP integration", "cost optimization"]
-source: "https://github.com/aqm857886159/Nomi"
+deployment_complexity: Medium
+tags:
+- AI video generation
+- local-first
+- workbench
+- MCP integration
+- cost optimization
+source: https://github.com/aqm857886159/Nomi
 stars: 470
-language: "TypeScript"
-last_updated: "2026-09-01T02:48:42Z"
-discovered_at: "2026-09-01T02:49:07Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:48:42Z'
+discovered_at: '2026-09-01T02:49:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

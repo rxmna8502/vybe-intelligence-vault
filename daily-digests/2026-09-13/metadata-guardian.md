@@ -1,19 +1,42 @@
 ---
-title: "HASSANFARYAD/metadata-guardian"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "FastAPI", "LangGraph", "Anthropic Claude", "OpenAI GPT-4o", "PostgreSQL", "SQLAlchemy", "Alembic", "Pydantic", "structlog", "PyGithub", "Slack SDK", "DataHub MCP/REST", "Docker", "Azure Pipelines", "pytest", "Locust", "k6"]
+title: HASSANFARYAD/metadata-guardian
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python 3.12+
+- FastAPI
+- LangGraph
+- Anthropic Claude
+- OpenAI GPT-4o
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Pydantic
+- structlog
+- PyGithub
+- Slack SDK
+- DataHub MCP/REST
+- Docker
+- Azure Pipelines
+- pytest
+- Locust
+- k6
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["metadata management", "LLM-powered agent", "DataHub integration", "GitHub monitoring", "autonomous corrections"]
-source: "https://github.com/HASSANFARYAD/metadata-guardian"
+deployment_complexity: Medium
+tags:
+- metadata management
+- LLM-powered agent
+- DataHub integration
+- GitHub monitoring
+- autonomous corrections
+source: https://github.com/HASSANFARYAD/metadata-guardian
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T08:40:58Z"
-discovered_at: "2026-08-09T08:45:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T08:40:58Z'
+discovered_at: '2026-08-09T08:45:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "liufeng1976/bossai-intelligence-brief-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "RSS/Atom feeds", "Hacker News API", "ArXiv API", "Reddit API", "OpenAI-compatible LLM APIs", "Webhook integrations"]
+title: liufeng1976/bossai-intelligence-brief-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- JavaScript
+- Node.js
+- RSS/Atom feeds
+- Hacker News API
+- ArXiv API
+- Reddit API
+- OpenAI-compatible LLM APIs
+- Webhook integrations
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["intelligence aggregation", "RSS processing", "AI agent tooling", "brief generation", "content triage"]
-source: "https://github.com/liufeng1976/bossai-intelligence-brief-skill"
+deployment_complexity: Medium
+tags:
+- intelligence aggregation
+- RSS processing
+- AI agent tooling
+- brief generation
+- content triage
+source: https://github.com/liufeng1976/bossai-intelligence-brief-skill
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-12T10:24:46Z"
-discovered_at: "2026-07-12T10:26:12Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-12T10:24:46Z'
+discovered_at: '2026-07-12T10:26:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

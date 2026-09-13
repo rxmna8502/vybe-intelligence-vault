@@ -1,19 +1,28 @@
 ---
-title: "Mcalesteryahoo411/Claudex"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PowerShell", "Windows API", "OpenAI API", "Claude Code"]
+title: Mcalesteryahoo411/Claudex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- PowerShell
+- Windows API
+- OpenAI API
+- Claude Code
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["Windows integration", "Codex access", "Claude Code bridge", "developer tools", "API key management"]
-source: "https://github.com/Mcalesteryahoo411/Claudex"
+deployment_complexity: Low
+tags:
+- Windows integration
+- Codex access
+- Claude Code bridge
+- developer tools
+- API key management
+source: https://github.com/Mcalesteryahoo411/Claudex
 stars: 0
-language: "PowerShell"
-last_updated: "2026-07-19T07:14:51Z"
-discovered_at: "2026-07-19T07:29:50Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-07-19T07:14:51Z'
+discovered_at: '2026-07-19T07:29:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "eastythenob8-svg/graph-memory"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "SQLite", "Node.js", "OpenAI-compatible APIs", "Personalized PageRank (PPR)", "Community Detection", "FTS5 Full-Text Search", "Vector Embeddings"]
+title: eastythenob8-svg/graph-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- SQLite
+- Node.js
+- OpenAI-compatible APIs
+- Personalized PageRank (PPR)
+- Community Detection
+- FTS5 Full-Text Search
+- Vector Embeddings
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge graph", "context compression", "cross-session recall", "RAG optimization", "agent memory"]
-source: "https://github.com/eastythenob8-svg/graph-memory"
+deployment_complexity: Medium
+tags:
+- knowledge graph
+- context compression
+- cross-session recall
+- RAG optimization
+- agent memory
+source: https://github.com/eastythenob8-svg/graph-memory
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-09T20:22:10Z"
-discovered_at: "2026-08-09T20:35:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T20:22:10Z'
+discovered_at: '2026-08-09T20:35:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

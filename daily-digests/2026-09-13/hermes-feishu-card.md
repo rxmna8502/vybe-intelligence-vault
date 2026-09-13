@@ -1,19 +1,29 @@
 ---
-title: "cmfok/hermes-feishu-card"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Feishu API", "Hermes", "JSON 2.0 Card Schema", "PATCH/POST HTTP Methods"]
+title: cmfok/hermes-feishu-card
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Feishu API
+- Hermes
+- JSON 2.0 Card Schema
+- PATCH/POST HTTP Methods
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Feishu", "Hermes", "Interactive Cards", "Patch Tool", "Process Message Preservation"]
-source: "https://github.com/cmfok/hermes-feishu-card"
+deployment_complexity: Medium
+tags:
+- Feishu
+- Hermes
+- Interactive Cards
+- Patch Tool
+- Process Message Preservation
+source: https://github.com/cmfok/hermes-feishu-card
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T16:53:16Z"
-discovered_at: "2026-08-07T16:57:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T16:53:16Z'
+discovered_at: '2026-08-07T16:57:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

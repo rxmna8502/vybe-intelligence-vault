@@ -1,19 +1,34 @@
 ---
-title: "rikitrader/glaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "X402 (USDC payment protocol)", "Claude/Codex (LLM providers)", "OCI (container packaging)", "GitHub Actions (CI/CD)", "Cloudflare Workers (for judicial discovery)", "SQLite/PostgreSQL (for data storage)", "Mermaid.js (for diagrams)", "Google Sheets (for bookkeeping)"]
+title: rikitrader/glaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- X402 (USDC payment protocol)
+- Claude/Codex (LLM providers)
+- OCI (container packaging)
+- GitHub Actions (CI/CD)
+- Cloudflare Workers (for judicial discovery)
+- SQLite/PostgreSQL (for data storage)
+- Mermaid.js (for diagrams)
+- Google Sheets (for bookkeeping)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["legal automation", "multi-agent orchestration", "document generation", "paid-agent economy", "compliance automation"]
-source: "https://github.com/rikitrader/glaw"
+deployment_complexity: High
+tags:
+- legal automation
+- multi-agent orchestration
+- document generation
+- paid-agent economy
+- compliance automation
+source: https://github.com/rikitrader/glaw
 stars: 3
-language: "HTML"
-last_updated: "2026-09-04T02:06:06Z"
-discovered_at: "2026-09-04T02:13:11Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-04T02:06:06Z'
+discovered_at: '2026-09-04T02:13:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

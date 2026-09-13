@@ -1,19 +1,30 @@
 ---
-title: "ahtishamdilawar/expense-tracker-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "JSON", "CLI", "Agent Skills Framework", "CSV"]
+title: ahtishamdilawar/expense-tracker-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- SQLite
+- JSON
+- CLI
+- Agent Skills Framework
+- CSV
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["finance", "ledger", "AI agents", "local-first", "deterministic"]
-source: "https://github.com/ahtishamdilawar/expense-tracker-skill"
+deployment_complexity: Medium
+tags:
+- finance
+- ledger
+- AI agents
+- local-first
+- deterministic
+source: https://github.com/ahtishamdilawar/expense-tracker-skill
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T18:59:08Z"
-discovered_at: "2026-09-01T19:06:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:59:08Z'
+discovered_at: '2026-09-01T19:06:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

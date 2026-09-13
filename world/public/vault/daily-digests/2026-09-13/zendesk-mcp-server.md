@@ -1,19 +1,31 @@
 ---
-title: "fruggr/zendesk-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth 2.1 PKCE", "Zendesk API", "Zod", "@modelcontextprotocol/sdk"]
+title: fruggr/zendesk-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OAuth 2.1 PKCE
+- Zendesk API
+- Zod
+- '@modelcontextprotocol/sdk'
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Zendesk integration", "AI assistant", "OAuth authentication", "ticket management"]
-source: "https://github.com/fruggr/zendesk-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Zendesk integration
+- AI assistant
+- OAuth authentication
+- ticket management
+source: https://github.com/fruggr/zendesk-mcp-server
 stars: 4
-language: "TypeScript"
-last_updated: "2026-09-01T02:45:06Z"
-discovered_at: "2026-09-01T02:51:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:45:06Z'
+discovered_at: '2026-09-01T02:51:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

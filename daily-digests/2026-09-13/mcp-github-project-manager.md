@@ -1,19 +1,34 @@
 ---
-title: "kunwarVivek/mcp-github-project-manager"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "GitHub GraphQL API", "Anthropic Claude", "OpenAI GPT", "Google Gemini", "Perplexity", "Zod", "Docker"]
+title: kunwarVivek/mcp-github-project-manager
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- GitHub GraphQL API
+- Anthropic Claude
+- OpenAI GPT
+- Google Gemini
+- Perplexity
+- Zod
+- Docker
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "AI-powered project management", "GitHub integration", "requirements traceability", "task automation"]
-source: "https://github.com/kunwarVivek/mcp-github-project-manager"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AI-powered project management
+- GitHub integration
+- requirements traceability
+- task automation
+source: https://github.com/kunwarVivek/mcp-github-project-manager
 stars: 94
-language: "TypeScript"
-last_updated: "2026-08-05T08:31:42Z"
-discovered_at: "2026-08-05T08:36:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:31:42Z'
+discovered_at: '2026-08-05T08:36:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

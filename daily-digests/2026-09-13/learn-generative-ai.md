@@ -1,19 +1,28 @@
 ---
-title: "areebahmed575/Learn-Generative-AI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Jupyter Notebook", "Python", "Generative AI", "Machine Learning"]
+title: areebahmed575/Learn-Generative-AI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Jupyter Notebook
+- Python
+- Generative AI
+- Machine Learning
 quality_score: 4
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["generative-ai", "education", "jupyter-notebooks", "machine-learning", "tutorial"]
-source: "https://github.com/areebahmed575/Learn-Generative-AI"
+deployment_complexity: Low
+tags:
+- generative-ai
+- education
+- jupyter-notebooks
+- machine-learning
+- tutorial
+source: https://github.com/areebahmed575/Learn-Generative-AI
 stars: 16
-language: "Jupyter Notebook"
-last_updated: "2026-08-08T13:27:48Z"
-discovered_at: "2026-08-08T13:49:30Z"
-evaluated_by: "mistral-small-latest"
+language: Jupyter Notebook
+last_updated: '2026-08-08T13:27:48Z'
+discovered_at: '2026-08-08T13:49:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

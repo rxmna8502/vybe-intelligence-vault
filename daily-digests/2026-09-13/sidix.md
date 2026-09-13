@@ -1,19 +1,38 @@
 ---
-title: "fahmiwol/sidix"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Qwen2.5-7B", "LoRA", "BM25", "vLLM", "RunPod", "Docker", "PostgreSQL", "Redis", "LangChain", "Pydantic", "IPFS", "Merkle proofs"]
+title: fahmiwol/sidix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- FastAPI
+- Qwen2.5-7B
+- LoRA
+- BM25
+- vLLM
+- RunPod
+- Docker
+- PostgreSQL
+- Redis
+- LangChain
+- Pydantic
+- IPFS
+- Merkle proofs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted AI", "autonomous agent", "distributed knowledge", "local LLM", "epistemological architecture"]
-source: "https://github.com/fahmiwol/sidix"
+deployment_complexity: Medium
+tags:
+- self-hosted AI
+- autonomous agent
+- distributed knowledge
+- local LLM
+- epistemological architecture
+source: https://github.com/fahmiwol/sidix
 stars: 17
-language: "Python"
-last_updated: "2026-07-11T18:51:25Z"
-discovered_at: "2026-07-11T18:59:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T18:51:25Z'
+discovered_at: '2026-07-11T18:59:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

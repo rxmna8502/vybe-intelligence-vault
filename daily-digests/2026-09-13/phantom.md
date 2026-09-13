@@ -1,19 +1,37 @@
 ---
-title: "OmYarewar/PHANTOM"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Express", "WebSocket", "SQLite", "Python", "Docker", "OpenAI-compatible APIs", "Vanilla JavaScript", "Vite", "Scrapling", "Jina Reader", "yt-dlp", "Model Context Protocol (MCP)"]
+title: OmYarewar/PHANTOM
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Node.js
+- Express
+- WebSocket
+- SQLite
+- Python
+- Docker
+- OpenAI-compatible APIs
+- Vanilla JavaScript
+- Vite
+- Scrapling
+- Jina Reader
+- yt-dlp
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "penetration testing", "multi-agent orchestration", "real-time streaming", "self-improving AI"]
-source: "https://github.com/OmYarewar/PHANTOM"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- penetration testing
+- multi-agent orchestration
+- real-time streaming
+- self-improving AI
+source: https://github.com/OmYarewar/PHANTOM
 stars: 60
-language: "JavaScript"
-last_updated: "2026-08-05T08:34:38Z"
-discovered_at: "2026-08-05T08:35:42Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T08:34:38Z'
+discovered_at: '2026-08-05T08:35:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

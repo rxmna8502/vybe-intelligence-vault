@@ -1,19 +1,45 @@
 ---
-title: "opencrawling/opencrawling"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Java 25", "Spring Boot", "Spring AI", "Apache Kafka", "Apache Iceberg", "Apache Ozone", "Apache Tika", "PostgreSQL", "Milvus", "Qdrant", "OpenSearch", "Vespa", "Redis", "Ollama", "Docker", "React", "OpenTelemetry", "Model Context Protocol (MCP)", "Flowable", "Camunda", "Alfresco"]
+title: opencrawling/opencrawling
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Java 25
+- Spring Boot
+- Spring AI
+- Apache Kafka
+- Apache Iceberg
+- Apache Ozone
+- Apache Tika
+- PostgreSQL
+- Milvus
+- Qdrant
+- OpenSearch
+- Vespa
+- Redis
+- Ollama
+- Docker
+- React
+- OpenTelemetry
+- Model Context Protocol (MCP)
+- Flowable
+- Camunda
+- Alfresco
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["data ingestion", "vector search", "enterprise integration", "AI observability", "Java Spring"]
-source: "https://github.com/opencrawling/opencrawling"
+deployment_complexity: High
+tags:
+- data ingestion
+- vector search
+- enterprise integration
+- AI observability
+- Java Spring
+source: https://github.com/opencrawling/opencrawling
 stars: 14
-language: "Java"
-last_updated: "2026-08-07T09:57:18Z"
-discovered_at: "2026-08-07T10:04:47Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T09:57:18Z'
+discovered_at: '2026-08-07T10:04:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

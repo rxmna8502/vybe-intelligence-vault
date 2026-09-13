@@ -1,19 +1,34 @@
 ---
-title: "luoziyan100/lumen"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Tauri", "SQLite", "WebSocket", "DeepSeek", "Claude", "OpenAI API"]
+title: luoziyan100/lumen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Vite
+- Tauri
+- SQLite
+- WebSocket
+- DeepSeek
+- Claude
+- OpenAI API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI research assistant", "local-first", "document analysis", "agent framework", "PDF processing"]
-source: "https://github.com/luoziyan100/lumen"
+deployment_complexity: Medium
+tags:
+- AI research assistant
+- local-first
+- document analysis
+- agent framework
+- PDF processing
+source: https://github.com/luoziyan100/lumen
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-14T05:21:32Z"
-discovered_at: "2026-07-14T05:28:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-14T05:21:32Z'
+discovered_at: '2026-07-14T05:28:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

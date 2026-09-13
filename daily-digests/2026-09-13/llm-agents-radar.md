@@ -1,19 +1,29 @@
 ---
-title: "linny006/llm-agents-radar"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "Python", "GitHub Search API", "Markdown", "JavaScript"]
+title: linny006/llm-agents-radar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- GitHub Actions
+- Python
+- GitHub Search API
+- Markdown
+- JavaScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["LLM Agents", "GitHub Indexer", "Real-time Tracking", "Agent Discovery", "Open Source"]
-source: "https://github.com/linny006/llm-agents-radar"
+deployment_complexity: Low
+tags:
+- LLM Agents
+- GitHub Indexer
+- Real-time Tracking
+- Agent Discovery
+- Open Source
+source: https://github.com/linny006/llm-agents-radar
 stars: 8
-language: "Python"
-last_updated: "2026-09-01T02:45:47Z"
-discovered_at: "2026-09-01T02:49:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T02:45:47Z'
+discovered_at: '2026-09-01T02:49:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -13,13 +13,14 @@ collected_at: '2026-09-13T10:27:45.145426+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-fixed-a-tractor-using-john-deere-s-self-repair-s
 first_seen: '2026-09-13T00:00:42.386436+05:30'
 last_seen: '2026-09-13T10:27:45.145426+05:30'
 last_checked: '2026-09-13T10:27:45.145426+05:30'
 health_score: 100
 ---
+
 
 # I fixed a tractor using John Deere's self-repair service. Farmers aren't sold
 

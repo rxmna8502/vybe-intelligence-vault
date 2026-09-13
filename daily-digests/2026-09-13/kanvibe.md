@@ -1,19 +1,34 @@
 ---
-title: "rookedsysc/kanvibe"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "tmux", "zellij", "WebSocket", "SQLite", "React", "Node.js", "Git", "GitHub CLI"]
+title: rookedsysc/kanvibe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Electron
+- tmux
+- zellij
+- WebSocket
+- SQLite
+- React
+- Node.js
+- Git
+- GitHub CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Kanban", "AI coding", "Terminal integration", "Task automation", "Keyboard-first"]
-source: "https://github.com/rookedsysc/kanvibe"
+deployment_complexity: Medium
+tags:
+- Kanban
+- AI coding
+- Terminal integration
+- Task automation
+- Keyboard-first
+source: https://github.com/rookedsysc/kanvibe
 stars: 138
-language: "TypeScript"
-last_updated: "2026-08-09T12:48:41Z"
-discovered_at: "2026-08-09T12:50:01Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T12:48:41Z'
+discovered_at: '2026-08-09T12:50:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

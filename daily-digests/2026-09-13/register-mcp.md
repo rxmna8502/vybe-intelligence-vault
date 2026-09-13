@@ -1,19 +1,32 @@
 ---
-title: "malkreide/register-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "httpx", "uv", "Docker", "OpenTelemetry (optional)", "JSON/REST APIs"]
+title: malkreide/register-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- httpx
+- uv
+- Docker
+- OpenTelemetry (optional)
+- JSON/REST APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Swiss Commercial Register", "Due Diligence", "Company Verification", "Public Data"]
-source: "https://github.com/malkreide/register-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Swiss Commercial Register
+- Due Diligence
+- Company Verification
+- Public Data
+source: https://github.com/malkreide/register-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T21:51:51Z"
-discovered_at: "2026-08-02T21:55:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T21:51:51Z'
+discovered_at: '2026-08-02T21:55:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

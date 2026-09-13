@@ -1,19 +1,30 @@
 ---
-title: "themonagroup/monapay-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "HMAC-SHA256", "OAuth 2.0"]
+title: themonagroup/monapay-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- HMAC-SHA256
+- OAuth 2.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "payment gateway", "VietQR", "webhook integration", "AI agent tooling"]
-source: "https://github.com/themonagroup/monapay-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- payment gateway
+- VietQR
+- webhook integration
+- AI agent tooling
+source: https://github.com/themonagroup/monapay-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-03T08:28:35Z"
-discovered_at: "2026-09-03T08:31:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T08:28:35Z'
+discovered_at: '2026-09-03T08:31:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

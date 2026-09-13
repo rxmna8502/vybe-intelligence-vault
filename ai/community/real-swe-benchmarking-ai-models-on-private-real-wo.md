@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:real-swe-benchmarking-ai-models-on-private-real-wo
 first_seen: '2026-09-13T03:54:05.158676+05:30'
 last_seen: '2026-09-13T10:27:42.407773+05:30'
 last_checked: '2026-09-13T10:27:42.407773+05:30'
 health_score: 100
 ---
+
 
 # Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
 

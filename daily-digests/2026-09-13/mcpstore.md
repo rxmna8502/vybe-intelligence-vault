@@ -1,19 +1,36 @@
 ---
-title: "ip2a/mcpstore"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Python", "PyO3", "HTTP API", "MCP (Model Context Protocol)", "LangChain", "LangGraph", "AutoGen", "CrewAI", "LlamaIndex", "Redis", "Docker"]
+title: ip2a/mcpstore
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Python
+- PyO3
+- HTTP API
+- MCP (Model Context Protocol)
+- LangChain
+- LangGraph
+- AutoGen
+- CrewAI
+- LlamaIndex
+- Redis
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP management", "AI framework integration", "Rust-Python hybrid", "distributed tool orchestration", "multi-agent systems"]
-source: "https://github.com/ip2a/mcpstore"
+deployment_complexity: Medium
+tags:
+- MCP management
+- AI framework integration
+- Rust-Python hybrid
+- distributed tool orchestration
+- multi-agent systems
+source: https://github.com/ip2a/mcpstore
 stars: 420
-language: "Rust"
-last_updated: "2026-07-21T07:19:06Z"
-discovered_at: "2026-07-21T07:32:26Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-21T07:19:06Z'
+discovered_at: '2026-07-21T07:32:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

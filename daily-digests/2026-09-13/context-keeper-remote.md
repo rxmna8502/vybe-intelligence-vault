@@ -1,19 +1,31 @@
 ---
-title: "jarmstrong158/context-keeper-remote"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare D1", "Model Context Protocol (MCP)", "Streamable HTTP", "Wrangler", "Node.js"]
+title: jarmstrong158/context-keeper-remote
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare D1
+- Model Context Protocol (MCP)
+- Streamable HTTP
+- Wrangler
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "Cloudflare Workers", "Rationale store", "claude.ai connector", "self-hosted"]
-source: "https://github.com/jarmstrong158/context-keeper-remote"
+deployment_complexity: Low
+tags:
+- MCP server
+- Cloudflare Workers
+- Rationale store
+- claude.ai connector
+- self-hosted
+source: https://github.com/jarmstrong158/context-keeper-remote
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T13:38:30Z"
-discovered_at: "2026-08-02T13:49:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T13:38:30Z'
+discovered_at: '2026-08-02T13:49:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

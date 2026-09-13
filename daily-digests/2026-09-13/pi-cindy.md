@@ -1,19 +1,31 @@
 ---
-title: "midmirror/pi-cindy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js (>=22.23)", "SQLite", "WebSocket", "PKCE OAuth", "AES-256-GCM", "CI/CD (GitHub Actions)"]
+title: midmirror/pi-cindy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Node.js (>=22.23)
+- SQLite
+- WebSocket
+- PKCE OAuth
+- AES-256-GCM
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Pi extension", "device-link sync", "Cindy mobile app", "session management", "AI agent control"]
-source: "https://github.com/midmirror/pi-cindy"
+deployment_complexity: Medium
+tags:
+- Pi extension
+- device-link sync
+- Cindy mobile app
+- session management
+- AI agent control
+source: https://github.com/midmirror/pi-cindy
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T15:31:09Z"
-discovered_at: "2026-08-08T15:32:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T15:31:09Z'
+discovered_at: '2026-08-08T15:32:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

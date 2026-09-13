@@ -1,19 +1,33 @@
 ---
-title: "wizard50/agentic-quant-studio"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Axum", "Tokio", "Parquet", "Polars", "Next.js", "React", "TypeScript", "MCP (Model Context Protocol)"]
+title: wizard50/agentic-quant-studio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Axum
+- Tokio
+- Parquet
+- Polars
+- Next.js
+- React
+- TypeScript
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["quantitative finance", "agentic AI", "market data", "computation graph", "MCP integration"]
-source: "https://github.com/wizard50/agentic-quant-studio"
+deployment_complexity: Medium
+tags:
+- quantitative finance
+- agentic AI
+- market data
+- computation graph
+- MCP integration
+source: https://github.com/wizard50/agentic-quant-studio
 stars: 0
-language: "Rust"
-last_updated: "2026-08-08T01:10:02Z"
-discovered_at: "2026-08-08T01:26:28Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T01:10:02Z'
+discovered_at: '2026-08-08T01:26:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

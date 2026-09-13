@@ -1,19 +1,29 @@
 ---
-title: "vehiclesdb/vehicles"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Ruby", "Rails", "MCP (Model Context Protocol)", "JSON", "SQLite (embedded)"]
+title: vehiclesdb/vehicles
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Ruby
+- Rails
+- MCP (Model Context Protocol)
+- JSON
+- SQLite (embedded)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["vehicle data", "Rails gem", "offline dataset", "MCP server", "validation"]
-source: "https://github.com/vehiclesdb/vehicles"
+deployment_complexity: Low
+tags:
+- vehicle data
+- Rails gem
+- offline dataset
+- MCP server
+- validation
+source: https://github.com/vehiclesdb/vehicles
 stars: 4
-language: "Ruby"
-last_updated: "2026-08-02T23:57:00Z"
-discovered_at: "2026-08-03T00:01:05Z"
-evaluated_by: "mistral-small-latest"
+language: Ruby
+last_updated: '2026-08-02T23:57:00Z'
+discovered_at: '2026-08-03T00:01:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

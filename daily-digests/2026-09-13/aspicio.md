@@ -1,19 +1,32 @@
 ---
-title: "frontsail-ai/aspicio"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "WebGL", "React", "Node.js", "Cloudflare Workers", "MCP (Model Context Protocol)", "Vite", "Bun"]
+title: frontsail-ai/aspicio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- WebGL
+- React
+- Node.js
+- Cloudflare Workers
+- MCP (Model Context Protocol)
+- Vite
+- Bun
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["DXF parsing", "CAD rendering", "AI agent tools", "MCP server", "WebGL viewer"]
-source: "https://github.com/frontsail-ai/aspicio"
+deployment_complexity: Medium
+tags:
+- DXF parsing
+- CAD rendering
+- AI agent tools
+- MCP server
+- WebGL viewer
+source: https://github.com/frontsail-ai/aspicio
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-21T12:17:54Z"
-discovered_at: "2026-07-21T12:23:53Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T12:17:54Z'
+discovered_at: '2026-07-21T12:23:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

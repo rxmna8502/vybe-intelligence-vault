@@ -1,19 +1,32 @@
 ---
-title: "linofcp007/advogado-pt"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "MCP (Model Context Protocol)", "Node.js", "Claude Code Plugin", "JSON", "CLI Tools", "Automated Testing"]
+title: linofcp007/advogado-pt
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- Node.js
+- Claude Code Plugin
+- JSON
+- CLI Tools
+- Automated Testing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["legal automation", "Portuguese law", "MCP server", "AI legal assistant", "document templates"]
-source: "https://github.com/linofcp007/advogado-pt"
+deployment_complexity: Medium
+tags:
+- legal automation
+- Portuguese law
+- MCP server
+- AI legal assistant
+- document templates
+source: https://github.com/linofcp007/advogado-pt
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T01:33:03Z"
-discovered_at: "2026-08-10T01:35:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T01:33:03Z'
+discovered_at: '2026-08-10T01:35:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

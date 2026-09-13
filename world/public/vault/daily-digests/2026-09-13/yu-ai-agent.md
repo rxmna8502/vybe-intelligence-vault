@@ -1,19 +1,29 @@
 ---
-title: "zubairporag/yu-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java", "Spring Boot 3", "Java 21", "RAG Retrieval", "Vector Databases"]
+title: zubairporag/yu-ai-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-13
+tech_stack:
+- Java
+- Spring Boot 3
+- Java 21
+- RAG Retrieval
+- Vector Databases
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI development", "RAG", "Java framework", "Spring Boot", "prompt engineering"]
-source: "https://github.com/zubairporag/yu-ai-agent"
+deployment_complexity: Medium
+tags:
+- AI development
+- RAG
+- Java framework
+- Spring Boot
+- prompt engineering
+source: https://github.com/zubairporag/yu-ai-agent
 stars: 0
-language: "Java"
-last_updated: "2026-08-07T11:01:06Z"
-discovered_at: "2026-08-07T11:05:17Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T11:01:06Z'
+discovered_at: '2026-08-07T11:05:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

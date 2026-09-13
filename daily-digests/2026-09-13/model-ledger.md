@@ -1,19 +1,32 @@
 ---
-title: "block/model-ledger"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQL", "REST API", "MCP (Model Context Protocol)", "SQLite", "Snowflake", "JSON", "CLI"]
+title: block/model-ledger
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- SQL
+- REST API
+- MCP (Model Context Protocol)
+- SQLite
+- Snowflake
+- JSON
+- CLI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["model inventory", "dependency tracking", "governance", "immutable ledger", "MCP server"]
-source: "https://github.com/block/model-ledger"
+deployment_complexity: Medium
+tags:
+- model inventory
+- dependency tracking
+- governance
+- immutable ledger
+- MCP server
+source: https://github.com/block/model-ledger
 stars: 5
-language: "Python"
-last_updated: "2026-07-21T17:12:31Z"
-discovered_at: "2026-07-21T17:16:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T17:12:31Z'
+discovered_at: '2026-07-21T17:16:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

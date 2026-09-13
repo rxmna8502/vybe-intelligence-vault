@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SiyuLilyQian/ScipyTutorial2025_RAG
-collected_at: '2026-09-12T17:47:32.627701+05:30'
+collected_at: '2026-09-13T18:55:00.515682+05:30'
 published_at: '2025-08-17T17:54:15Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-06-13T17:54:04Z'
 pushed_at: '2025-07-07T23:55:16Z'
 resource_id: github:siyulilyqian/scipytutorial2025_rag
-first_seen: '2026-09-12T17:47:32.627701+05:30'
-last_seen: '2026-09-12T17:47:32.627701+05:30'
-last_checked: '2026-09-12T17:47:32.627701+05:30'
+first_seen: '2026-09-13T18:55:00.515682+05:30'
+last_seen: '2026-09-13T18:55:00.515682+05:30'
+last_checked: '2026-09-13T18:55:00.515682+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Retrieval Augmented Generation (RAG) tutorial content.
-*   Designed for the 2025 Scipy conference.
-*   Implemented in Jupyter Notebook format.
+*   Retrieval Augmented Generation (RAG) tutorial.
+*   Developed for the 2025 Scipy conference.
+*   Implemented using Jupyter Notebooks.
 
 ## Why It Matters
 

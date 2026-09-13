@@ -1,19 +1,33 @@
 ---
-title: "troybrandonc-bit/Omem"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "SQLite", "FastAPI", "React", "TypeScript", "Docker", "PBKDF2-SHA256", "AES-GCM", "Embedding models (optional)"]
+title: troybrandonc-bit/Omem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Python
+- SQLite
+- FastAPI
+- React
+- TypeScript
+- Docker
+- PBKDF2-SHA256
+- AES-GCM
+- Embedding models (optional)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory layer", "audit trail", "belief tracking", "contradiction handling", "self-hosted"]
-source: "https://github.com/troybrandonc-bit/Omem"
+deployment_complexity: Medium
+tags:
+- memory layer
+- audit trail
+- belief tracking
+- contradiction handling
+- self-hosted
+source: https://github.com/troybrandonc-bit/Omem
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T18:56:49Z"
-discovered_at: "2026-09-01T19:08:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:56:49Z'
+discovered_at: '2026-09-01T19:08:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

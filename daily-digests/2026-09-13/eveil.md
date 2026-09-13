@@ -1,19 +1,34 @@
 ---
-title: "Dricle/eveil"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PHP 8.4", "Laravel", "Docker", "PostgreSQL", "Redis", "Nginx", "Supervisor", "SearXNG (search engine)", "IMAP/SMTP", "JavaScript"]
+title: Dricle/eveil
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- PHP 8.4
+- Laravel
+- Docker
+- PostgreSQL
+- Redis
+- Nginx
+- Supervisor
+- SearXNG (search engine)
+- IMAP/SMTP
+- JavaScript
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["cold outreach", "lead generation", "AI-driven marketing", "self-hosted", "email automation"]
-source: "https://github.com/Dricle/eveil"
+deployment_complexity: Medium
+tags:
+- cold outreach
+- lead generation
+- AI-driven marketing
+- self-hosted
+- email automation
+source: https://github.com/Dricle/eveil
 stars: 3
-language: "PHP"
-last_updated: "2026-09-01T18:59:55Z"
-discovered_at: "2026-09-01T19:06:01Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-09-01T18:59:55Z'
+discovered_at: '2026-09-01T19:06:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

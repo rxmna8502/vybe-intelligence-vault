@@ -1,19 +1,31 @@
 ---
-title: "plusky/bugwarden"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tokio", "Model Context Protocol (MCP)", "Bugzilla REST API", "TOML", "HTTP/JSON", "CLI"]
+title: plusky/bugwarden
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- Rust
+- Tokio
+- Model Context Protocol (MCP)
+- Bugzilla REST API
+- TOML
+- HTTP/JSON
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Bugzilla integration", "AI security guard", "Policy enforcement", "RAG safety"]
-source: "https://github.com/plusky/bugwarden"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Bugzilla integration
+- AI security guard
+- Policy enforcement
+- RAG safety
+source: https://github.com/plusky/bugwarden
 stars: 3
-language: "Rust"
-last_updated: "2026-08-04T19:26:38Z"
-discovered_at: "2026-08-04T19:33:12Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-04T19:26:38Z'
+discovered_at: '2026-08-04T19:33:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

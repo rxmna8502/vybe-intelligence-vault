@@ -1,19 +1,28 @@
 ---
-title: "pipeworx-io/mcp-worldbank-projects"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "JSON"]
+title: pipeworx-io/mcp-worldbank-projects
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-13
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST API
+- JSON
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["World Bank", "MCP", "Data Gateway", "AI Agents", "Project Data"]
-source: "https://github.com/pipeworx-io/mcp-worldbank-projects"
+deployment_complexity: Low
+tags:
+- World Bank
+- MCP
+- Data Gateway
+- AI Agents
+- Project Data
+source: https://github.com/pipeworx-io/mcp-worldbank-projects
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T07:31:14Z"
-discovered_at: "2026-08-04T07:41:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:31:14Z'
+discovered_at: '2026-08-04T07:41:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
