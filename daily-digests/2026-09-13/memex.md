@@ -1,28 +1,19 @@
 ---
-title: muhlsteinovajemima439-design/memex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Electron
-- Markdown
-- Windows API
+title: "muhlsteinovajemima439-design/memex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Electron", "Markdown", "Windows API"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- personal knowledge management
-- local wiki
-- offline-first
-- Markdown editor
-- file indexing
-source: https://github.com/muhlsteinovajemima439-design/memex
+deployment_complexity: "Low"
+tags: ["personal knowledge management", "local wiki", "offline-first", "Markdown editor", "file indexing"]
+source: "https://github.com/muhlsteinovajemima439-design/memex"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-11T11:00:10Z'
-discovered_at: '2026-07-11T11:04:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T11:00:10Z"
+discovered_at: "2026-07-11T11:04:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: agustincf/Arcade1v1
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Solidity
-- Base (Ethereum L2)
-- React
-- Node.js
-- MCP (Model Context Protocol)
-- WalletConnect
-- npm
-- Docker
+title: "agustincf/Arcade1v1"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Solidity", "Base (Ethereum L2)", "React", "Node.js", "MCP (Model Context Protocol)", "WalletConnect", "npm", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- AI benchmarking
-- on-chain verification
-- deterministic games
-- agent framework
-- multiplayer gaming
-source: https://github.com/agustincf/Arcade1v1
+deployment_complexity: "High"
+tags: ["AI benchmarking", "on-chain verification", "deterministic games", "agent framework", "multiplayer gaming"]
+source: "https://github.com/agustincf/Arcade1v1"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-17T12:08:14Z'
-discovered_at: '2026-07-17T12:08:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T12:08:14Z"
+discovered_at: "2026-07-17T12:08:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

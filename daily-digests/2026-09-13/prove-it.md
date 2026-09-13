@@ -1,28 +1,19 @@
 ---
-title: Nagacash/prove-it
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Markdown
-- Python (for verification commands)
-- Shell scripting (for verification checks)
-- Agent frameworks (Claude, Codex, Hermes, etc.)
+title: "Nagacash/prove-it"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "Python (for verification commands)", "Shell scripting (for verification checks)", "Agent frameworks (Claude, Codex, Hermes, etc.)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- verification
-- agent reliability
-- false completion detection
-- claim taxonomy
-- failure modes
-source: https://github.com/Nagacash/prove-it
+deployment_complexity: "Low"
+tags: ["verification", "agent reliability", "false completion detection", "claim taxonomy", "failure modes"]
+source: "https://github.com/Nagacash/prove-it"
 stars: 0
-language: None
-last_updated: '2026-08-10T17:54:05Z'
-discovered_at: '2026-08-10T18:01:30Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-10T17:54:05Z"
+discovered_at: "2026-08-10T18:01:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

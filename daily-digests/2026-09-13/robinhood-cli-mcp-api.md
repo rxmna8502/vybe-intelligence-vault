@@ -1,32 +1,19 @@
 ---
-title: zaydiscold/robinhood-cli-mcp-api
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- REST API
-- Python (for token injection)
-- Markdown (for documentation and memory)
-- Git
+title: "zaydiscold/robinhood-cli-mcp-api"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "REST API", "Python (for token injection)", "Markdown (for documentation and memory)", "Git"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- trading
-- cli
-- mcp
-- unofficial-api
-- agent-automation
-source: https://github.com/zaydiscold/robinhood-cli-mcp-api
+deployment_complexity: "Medium"
+tags: ["trading", "cli", "mcp", "unofficial-api", "agent-automation"]
+source: "https://github.com/zaydiscold/robinhood-cli-mcp-api"
 stars: 7
-language: TypeScript
-last_updated: '2026-07-10T21:58:16Z'
-discovered_at: '2026-07-10T22:00:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T21:58:16Z"
+discovered_at: "2026-07-10T22:00:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

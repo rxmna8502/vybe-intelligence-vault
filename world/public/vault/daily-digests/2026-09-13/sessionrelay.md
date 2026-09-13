@@ -1,33 +1,19 @@
 ---
-title: EwanJasper/SessionRelay
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- FTS5 (Full-Text Search)
-- jieba (Chinese text segmentation)
-- MCP (Model Context Protocol)
-- Mermaid.js (diagrams)
-- JSONL
-- SQLite FTS5
+title: "EwanJasper/SessionRelay"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "FTS5 (Full-Text Search)", "jieba (Chinese text segmentation)", "MCP (Model Context Protocol)", "Mermaid.js (diagrams)", "JSONL", "SQLite FTS5"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- memory layer
-- RAG context
-- AI agent integration
-- cross-tool synchronization
-- team handoff
-source: https://github.com/EwanJasper/SessionRelay
+deployment_complexity: "Medium"
+tags: ["memory layer", "RAG context", "AI agent integration", "cross-tool synchronization", "team handoff"]
+source: "https://github.com/EwanJasper/SessionRelay"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-03T02:09:54Z'
-discovered_at: '2026-09-03T02:21:20Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T02:09:54Z"
+discovered_at: "2026-09-03T02:21:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: rulego/rulego
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- Directed Acyclic Graph (DAG)
-- Coroutine Pools
-- Object Pools
-- Plugin System
-- REST
-- MQTT
-- Kafka
-- gRPC
-- JavaScript (for scripting nodes)
+title: "rulego/rulego"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Directed Acyclic Graph (DAG)", "Coroutine Pools", "Object Pools", "Plugin System", "REST", "MQTT", "Kafka", "gRPC", "JavaScript (for scripting nodes)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- rule engine
-- workflow orchestration
-- data integration
-- IoT
-- low-code
-source: https://github.com/rulego/rulego
+deployment_complexity: "Medium"
+tags: ["rule engine", "workflow orchestration", "data integration", "IoT", "low-code"]
+source: "https://github.com/rulego/rulego"
 stars: 1570
-language: Go
-last_updated: '2026-08-02T15:02:08Z'
-discovered_at: '2026-08-02T15:02:44Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T15:02:08Z"
+discovered_at: "2026-08-02T15:02:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

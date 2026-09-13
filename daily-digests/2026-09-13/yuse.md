@@ -1,37 +1,19 @@
 ---
-title: leoakok/yuse
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind CSS 4
-- shadcn/ui
-- Go 1.25
-- gqlgen
-- PostgreSQL 16
-- OpenAI API
-- NextAuth.js v5
-- Docker
-- Vercel
-- jsPDF
+title: "leoakok/yuse"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS 4", "shadcn/ui", "Go 1.25", "gqlgen", "PostgreSQL 16", "OpenAI API", "NextAuth.js v5", "Docker", "Vercel", "jsPDF"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- CV Builder
-- AI Assistant
-- Digital Twin
-- Resume Generation
-- Job Tracking
-source: https://github.com/leoakok/yuse
+deployment_complexity: "Medium"
+tags: ["CV Builder", "AI Assistant", "Digital Twin", "Resume Generation", "Job Tracking"]
+source: "https://github.com/leoakok/yuse"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-12T14:49:00Z'
-discovered_at: '2026-07-12T14:54:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T14:49:00Z"
+discovered_at: "2026-07-12T14:54:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

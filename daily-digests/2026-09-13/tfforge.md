@@ -1,32 +1,19 @@
 ---
-title: Mrg77/tfforge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- Terraform
-- Anthropic Messages API
-- Checkov
-- Trivy
-- TFSec
-- YAML
-- JSON
+title: "Mrg77/tfforge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Terraform", "Anthropic Messages API", "Checkov", "Trivy", "TFSec", "YAML", "JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Terraform automation
-- AI agent
-- Infrastructure as Code
-- Security scanning
-- Policy-as-code
-source: https://github.com/Mrg77/tfforge
+deployment_complexity: "Medium"
+tags: ["Terraform automation", "AI agent", "Infrastructure as Code", "Security scanning", "Policy-as-code"]
+source: "https://github.com/Mrg77/tfforge"
 stars: 0
-language: Go
-last_updated: '2026-08-01T06:23:31Z'
-discovered_at: '2026-08-01T06:28:51Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T06:23:31Z"
+discovered_at: "2026-08-01T06:28:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

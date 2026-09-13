@@ -1,34 +1,19 @@
 ---
-title: Meshpilot-AGI/meshpilot-digital-marketing-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- Claude (via OpenRouter)
-- PostgreSQL
-- Supabase
-- Discord.py
-- Cloudflare
-- Docker
-- OpenRouter API
-- MUapi (media generation)
+title: "Meshpilot-AGI/meshpilot-digital-marketing-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Claude (via OpenRouter)", "PostgreSQL", "Supabase", "Discord.py", "Cloudflare", "Docker", "OpenRouter API", "MUapi (media generation)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- AI marketing
-- self-hosted
-- multi-brand memory
-- tool-use loop
-source: https://github.com/Meshpilot-AGI/meshpilot-digital-marketing-agent
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "AI marketing", "self-hosted", "multi-brand memory", "tool-use loop"]
+source: "https://github.com/Meshpilot-AGI/meshpilot-digital-marketing-agent"
 stars: 2
-language: Python
-last_updated: '2026-09-03T02:09:20Z'
-discovered_at: '2026-09-03T02:17:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T02:09:20Z"
+discovered_at: "2026-09-03T02:17:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

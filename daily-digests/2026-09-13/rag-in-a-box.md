@@ -1,37 +1,19 @@
 ---
-title: DevNexsler/RAG-In-A-Box
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- LanceDB
-- Tantivy (BM25)
-- Prefect 3.x
-- Qwen3-Embedding-8B
-- GPT-4.1 Mini
-- Gemini Vision (OCR)
-- DeepSeek OCR2 (local OCR)
-- Qwen3-Reranker-8B
-- MCP (Model Context Protocol)
-- FastAPI
-- Ollama (local mode)
-- Docker
+title: "DevNexsler/RAG-In-A-Box"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LanceDB", "Tantivy (BM25)", "Prefect 3.x", "Qwen3-Embedding-8B", "GPT-4.1 Mini", "Gemini Vision (OCR)", "DeepSeek OCR2 (local OCR)", "Qwen3-Reranker-8B", "MCP (Model Context Protocol)", "FastAPI", "Ollama (local mode)", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG pipeline
-- MCP server
-- document indexing
-- hybrid search
-- LLM enrichment
-source: https://github.com/DevNexsler/RAG-In-A-Box
+deployment_complexity: "Medium"
+tags: ["RAG pipeline", "MCP server", "document indexing", "hybrid search", "LLM enrichment"]
+source: "https://github.com/DevNexsler/RAG-In-A-Box"
 stars: 4
-language: Python
-last_updated: '2026-07-14T15:55:40Z'
-discovered_at: '2026-07-14T16:14:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T15:55:40Z"
+discovered_at: "2026-07-14T16:14:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

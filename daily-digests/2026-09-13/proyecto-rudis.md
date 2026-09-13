@@ -1,30 +1,19 @@
 ---
-title: Quebranto/Proyecto-Rudis
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Architectural Design
-- Constitutional Framework
-- Distributed Governance
-- Cryptographic Verification
-- Legal and Economic Modeling
-- System Auditing
+title: "Quebranto/Proyecto-Rudis"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Architectural Design", "Constitutional Framework", "Distributed Governance", "Cryptographic Verification", "Legal and Economic Modeling", "System Auditing"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- governance
-- sovereignty
-- auditability
-- heterogeneous entities
-- resilience
-source: https://github.com/Quebranto/Proyecto-Rudis
+deployment_complexity: "High"
+tags: ["governance", "sovereignty", "auditability", "heterogeneous entities", "resilience"]
+source: "https://github.com/Quebranto/Proyecto-Rudis"
 stars: 0
-language: None
-last_updated: '2026-08-09T22:32:32Z'
-discovered_at: '2026-08-09T22:35:05Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-09T22:32:32Z"
+discovered_at: "2026-08-09T22:35:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: whiteguo233/OpenBiliClaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Flutter
-- SQLite
-- Ollama
-- Chrome Extension API
-- FastAPI
-- Tailnet (Tailscale)
-- Docker
-- LLM APIs (OpenAI, DeepSeek, etc.)
-- Go (for Tailnet helper)
+title: "whiteguo233/OpenBiliClaw"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Flutter", "SQLite", "Ollama", "Chrome Extension API", "FastAPI", "Tailnet (Tailscale)", "Docker", "LLM APIs (OpenAI, DeepSeek, etc.)", "Go (for Tailnet helper)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- personalized recommendation
-- local-first AI
-- cross-platform agent
-- privacy-focused
-- content discovery
-source: https://github.com/whiteguo233/OpenBiliClaw
+deployment_complexity: "Medium"
+tags: ["personalized recommendation", "local-first AI", "cross-platform agent", "privacy-focused", "content discovery"]
+source: "https://github.com/whiteguo233/OpenBiliClaw"
 stars: 3189
-language: Python
-last_updated: '2026-09-03T15:32:52Z'
-discovered_at: '2026-09-03T15:36:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:32:52Z"
+discovered_at: "2026-09-03T15:36:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

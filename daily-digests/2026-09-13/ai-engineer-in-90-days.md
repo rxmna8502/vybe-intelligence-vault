@@ -1,28 +1,19 @@
 ---
-title: decided-indication109/AI-Engineer-in-90-Days
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Windows
-- Mermaid (for diagrams)
-- Python (implied for underlying tools)
-- Markdown (for documentation)
+title: "decided-indication109/AI-Engineer-in-90-Days"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows", "Mermaid (for diagrams)", "Python (implied for underlying tools)", "Markdown (for documentation)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- AI education
-- learning roadmap
-- AI engineering
-- LLM fundamentals
-- AI agents
-source: https://github.com/decided-indication109/AI-Engineer-in-90-Days
+deployment_complexity: "Low"
+tags: ["AI education", "learning roadmap", "AI engineering", "LLM fundamentals", "AI agents"]
+source: "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
 stars: 2
-language: Mermaid
-last_updated: '2026-08-09T20:22:01Z'
-discovered_at: '2026-08-09T20:35:38Z'
-evaluated_by: mistral-small-latest
+language: "Mermaid"
+last_updated: "2026-08-09T20:22:01Z"
+discovered_at: "2026-08-09T20:35:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

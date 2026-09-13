@@ -1,34 +1,19 @@
 ---
-title: Mogplex/mogplex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Next.js
-- Supabase
-- PostgreSQL
-- Monaco Editor
-- Vercel
-- GitHub OAuth
-- Trigger.dev
-- Playwright
-- Docker
+title: "Mogplex/mogplex"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Next.js", "Supabase", "PostgreSQL", "Monaco Editor", "Vercel", "GitHub OAuth", "Trigger.dev", "Playwright", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI agent workspace
-- repository integration
-- development environment
-- automation
-- sandboxing
-source: https://github.com/Mogplex/mogplex
+deployment_complexity: "High"
+tags: ["AI agent workspace", "repository integration", "development environment", "automation", "sandboxing"]
+source: "https://github.com/Mogplex/mogplex"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-05T05:42:35Z'
-discovered_at: '2026-08-05T05:47:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T05:42:35Z"
+discovered_at: "2026-08-05T05:47:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

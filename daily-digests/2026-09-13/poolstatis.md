@@ -1,32 +1,19 @@
 ---
-title: lim5max/poolstatis
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- PostgreSQL
-- ClickHouse
-- Docker
-- MCP (Model Context Protocol)
-- HTTP API
-- React (headless admin SPA)
-- pnpm
+title: "lim5max/poolstatis"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "PostgreSQL", "ClickHouse", "Docker", "MCP (Model Context Protocol)", "HTTP API", "React (headless admin SPA)", "pnpm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- product analytics
-- agent-native
-- MCP integration
-- semantic metrics
-- self-hosted
-source: https://github.com/lim5max/poolstatis
+deployment_complexity: "Medium"
+tags: ["product analytics", "agent-native", "MCP integration", "semantic metrics", "self-hosted"]
+source: "https://github.com/lim5max/poolstatis"
 stars: 8
-language: TypeScript
-last_updated: '2026-08-04T10:25:43Z'
-discovered_at: '2026-08-04T10:40:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T10:25:43Z"
+discovered_at: "2026-08-04T10:40:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

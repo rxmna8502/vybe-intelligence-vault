@@ -1,40 +1,19 @@
 ---
-title: byewind1/openbrep
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- React
-- Tauri
-- Vite
-- Monaco Editor
-- Three.js
-- Rust
-- Streamlit (legacy)
-- LP_XMLConverter
-- FastAPI (ThreadingHTTPServer)
-- Ollama
-- Claude
-- GLM
-- OpenAI
-- DeepSeek
-- Gemini
+title: "byewind1/openbrep"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "React", "Tauri", "Vite", "Monaco Editor", "Three.js", "Rust", "Streamlit (legacy)", "LP_XMLConverter", "FastAPI (ThreadingHTTPServer)", "Ollama", "Claude", "GLM", "OpenAI", "DeepSeek", "Gemini"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- GDL Development
-- ArchiCAD Integration
-- AI-Assisted Coding
-- Parametric Design
-- HSF Format
-source: https://github.com/byewind1/openbrep
+deployment_complexity: "Medium"
+tags: ["GDL Development", "ArchiCAD Integration", "AI-Assisted Coding", "Parametric Design", "HSF Format"]
+source: "https://github.com/byewind1/openbrep"
 stars: 24
-language: Python
-last_updated: '2026-08-05T05:41:40Z'
-discovered_at: '2026-08-05T05:47:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T05:41:40Z"
+discovered_at: "2026-08-05T05:47:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: Herrscherd/herrscher-cursor-backend
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- Cursor Agent CLI
-- Herrscher Framework
-- JSON/Stream JSON protocols
+title: "Herrscherd/herrscher-cursor-backend"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Cursor Agent CLI", "Herrscher Framework", "JSON/Stream JSON protocols"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Cursor Agent
-- Herrscher
-- Backend Plugin
-- Stream Processing
-- Local AI
-source: https://github.com/Herrscherd/herrscher-cursor-backend
+deployment_complexity: "Low"
+tags: ["Cursor Agent", "Herrscher", "Backend Plugin", "Stream Processing", "Local AI"]
+source: "https://github.com/Herrscherd/herrscher-cursor-backend"
 stars: 0
-language: Go
-last_updated: '2026-07-31T12:48:14Z'
-discovered_at: '2026-08-04T13:03:46Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-31T12:48:14Z"
+discovered_at: "2026-08-04T13:03:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

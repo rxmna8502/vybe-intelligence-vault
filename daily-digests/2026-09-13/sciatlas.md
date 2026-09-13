@@ -1,31 +1,19 @@
 ---
-title: zjunlp/SciAtlas
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- CLI
-- REST API
-- Knowledge Graph
-- Graph Database
-- LLM Integration
-- Docker
+title: "zjunlp/SciAtlas"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "CLI", "REST API", "Knowledge Graph", "Graph Database", "LLM Integration", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- knowledge graph
-- literature review
-- scientific research
-- automated workflows
-- agent skills
-source: https://github.com/zjunlp/SciAtlas
+deployment_complexity: "Low"
+tags: ["knowledge graph", "literature review", "scientific research", "automated workflows", "agent skills"]
+source: "https://github.com/zjunlp/SciAtlas"
 stars: 136
-language: Python
-last_updated: '2026-07-16T14:57:19Z'
-discovered_at: '2026-07-16T15:00:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T14:57:19Z"
+discovered_at: "2026-07-16T15:00:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

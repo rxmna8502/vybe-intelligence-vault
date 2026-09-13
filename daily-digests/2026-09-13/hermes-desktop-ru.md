@@ -1,30 +1,19 @@
 ---
-title: warment/hermes-desktop-ru
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Bash
-- macOS LaunchAgent
-- i18n
-- Node.js
-- npm
+title: "warment/hermes-desktop-ru"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bash", "macOS LaunchAgent", "i18n", "Node.js", "npm"]
 quality_score: 8
 rag_relevance: 3
-deployment_complexity: Medium
-tags:
-- localization
-- i18n
-- hermes-agent
-- russian-language
-- desktop-app
-source: https://github.com/warment/hermes-desktop-ru
+deployment_complexity: "Medium"
+tags: ["localization", "i18n", "hermes-agent", "russian-language", "desktop-app"]
+source: "https://github.com/warment/hermes-desktop-ru"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-01T03:36:01Z'
-discovered_at: '2026-08-01T03:43:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T03:36:01Z"
+discovered_at: "2026-08-01T03:43:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

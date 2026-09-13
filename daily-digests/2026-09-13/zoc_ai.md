@@ -1,37 +1,19 @@
 ---
-title: htg-pro/zoc_ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Tauri v2
-- Rust
-- Python 3.11+
-- FastAPI
-- React
-- Vite
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-- llama.cpp
-- Pydantic v2
-- PyInstaller
-- CI/CD (GitHub Actions)
+title: "htg-pro/zoc_ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Tauri v2", "Rust", "Python 3.11+", "FastAPI", "React", "Vite", "TypeScript", "Tailwind CSS", "shadcn/ui", "llama.cpp", "Pydantic v2", "PyInstaller", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- local-first
-- agentic coding
-- multi-language
-- desktop app
-- RAG-ready
-source: https://github.com/htg-pro/zoc_ai
+deployment_complexity: "High"
+tags: ["local-first", "agentic coding", "multi-language", "desktop app", "RAG-ready"]
+source: "https://github.com/htg-pro/zoc_ai"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-06T09:48:57Z'
-discovered_at: '2026-08-07T14:18:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T09:48:57Z"
+discovered_at: "2026-08-07T14:18:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

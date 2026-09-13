@@ -1,29 +1,19 @@
 ---
-title: netresearch/github-project-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Shell
-- GitHub CLI
-- GraphQL API
-- Agent Skills Framework
-- GitHub Actions
+title: "netresearch/github-project-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Shell", "GitHub CLI", "GraphQL API", "Agent Skills Framework", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- GitHub automation
-- branch protection
-- PR workflows
-- Agent Skills
-- repository setup
-source: https://github.com/netresearch/github-project-skill
+deployment_complexity: "Low"
+tags: ["GitHub automation", "branch protection", "PR workflows", "Agent Skills", "repository setup"]
+source: "https://github.com/netresearch/github-project-skill"
 stars: 8
-language: Shell
-last_updated: '2026-08-07T17:50:21Z'
-discovered_at: '2026-08-07T17:52:05Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-07T17:50:21Z"
+discovered_at: "2026-08-07T17:52:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: vrraj/axiolex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- Redis
-- BM25S
-- ColBERT
-- MCP (Model Context Protocol)
-- A2A (Agent-to-Agent Protocol)
-- YAML
-- Docker
+title: "vrraj/axiolex"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Redis", "BM25S", "ColBERT", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent Protocol)", "YAML", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- tool discovery
-- MCP integration
-- A2A support
-- enterprise tools
-- intent ranking
-source: https://github.com/vrraj/axiolex
+deployment_complexity: "Medium"
+tags: ["tool discovery", "MCP integration", "A2A support", "enterprise tools", "intent ranking"]
+source: "https://github.com/vrraj/axiolex"
 stars: 0
-language: Python
-last_updated: '2026-09-03T22:00:27Z'
-discovered_at: '2026-09-03T22:10:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T22:00:27Z"
+discovered_at: "2026-09-03T22:10:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

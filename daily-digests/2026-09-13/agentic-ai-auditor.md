@@ -1,30 +1,19 @@
 ---
-title: ryawr/agentic-ai-auditor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Unstructured
-- Chroma DB
-- Groq API
-- Streamlit
-- Python
-- Jupyter Notebook
+title: "ryawr/agentic-ai-auditor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Unstructured", "Chroma DB", "Groq API", "Streamlit", "Python", "Jupyter Notebook"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- Compliance
-- Regulatory Documents
-- Vector Search
-- LLM Inference
-source: https://github.com/ryawr/agentic-ai-auditor
+deployment_complexity: "Medium"
+tags: ["RAG", "Compliance", "Regulatory Documents", "Vector Search", "LLM Inference"]
+source: "https://github.com/ryawr/agentic-ai-auditor"
 stars: 0
-language: Jupyter Notebook
-last_updated: '2026-08-07T22:59:51Z'
-discovered_at: '2026-08-07T23:36:35Z'
-evaluated_by: mistral-small-latest
+language: "Jupyter Notebook"
+last_updated: "2026-08-07T22:59:51Z"
+discovered_at: "2026-08-07T23:36:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

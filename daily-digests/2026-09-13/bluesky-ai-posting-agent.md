@@ -1,30 +1,19 @@
 ---
-title: jayadevrana/bluesky-ai-posting-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Claude API (Anthropic)
-- AT Protocol (Bluesky)
-- GitHub Actions (CI/CD)
-- YAML (config)
-- CLI (command-line interface)
+title: "jayadevrana/bluesky-ai-posting-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude API (Anthropic)", "AT Protocol (Bluesky)", "GitHub Actions (CI/CD)", "YAML (config)", "CLI (command-line interface)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Bluesky automation
-- AI content generation
-- social media posting
-- approval workflow
-- AT Protocol
-source: https://github.com/jayadevrana/bluesky-ai-posting-agent
+deployment_complexity: "Medium"
+tags: ["Bluesky automation", "AI content generation", "social media posting", "approval workflow", "AT Protocol"]
+source: "https://github.com/jayadevrana/bluesky-ai-posting-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-08T06:49:12Z'
-discovered_at: '2026-08-08T06:52:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T06:49:12Z"
+discovered_at: "2026-08-08T06:52:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

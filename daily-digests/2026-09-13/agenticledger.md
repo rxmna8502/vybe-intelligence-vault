@@ -1,33 +1,19 @@
 ---
-title: ShekharBhardwaj/AgenticLedger
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- SQLite
-- PostgreSQL
-- FastAPI
-- WebSockets
-- Docker
-- OpenTelemetry
-- Sigstore
-- LM Studio
+title: "ShekharBhardwaj/AgenticLedger"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "PostgreSQL", "FastAPI", "WebSockets", "Docker", "OpenTelemetry", "Sigstore", "LM Studio"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- observability
-- cost tracking
-- agent monitoring
-- LLM proxy
-- replay capabilities
-source: https://github.com/ShekharBhardwaj/AgenticLedger
+deployment_complexity: "Medium"
+tags: ["observability", "cost tracking", "agent monitoring", "LLM proxy", "replay capabilities"]
+source: "https://github.com/ShekharBhardwaj/AgenticLedger"
 stars: 2
-language: Python
-last_updated: '2026-08-01T20:50:51Z'
-discovered_at: '2026-08-01T20:51:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T20:50:51Z"
+discovered_at: "2026-08-01T20:51:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

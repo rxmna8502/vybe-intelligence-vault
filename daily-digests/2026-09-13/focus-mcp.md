@@ -1,32 +1,19 @@
 ---
-title: glassity/focus-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- DuckDB
-- Model Context Protocol (MCP)
-- Parquet
-- Docker
-- AWS S3
-- Google Cloud Storage (GCS)
-- BigQuery
+title: "glassity/focus-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "DuckDB", "Model Context Protocol (MCP)", "Parquet", "Docker", "AWS S3", "Google Cloud Storage (GCS)", "BigQuery"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- FOCUS
-- FinOps
-- Cloud Cost Analysis
-- MCP Server
-- Parquet Query Engine
-source: https://github.com/glassity/focus-mcp
+deployment_complexity: "Medium"
+tags: ["FOCUS", "FinOps", "Cloud Cost Analysis", "MCP Server", "Parquet Query Engine"]
+source: "https://github.com/glassity/focus-mcp"
 stars: 11
-language: Python
-last_updated: '2026-08-06T15:12:56Z'
-discovered_at: '2026-08-06T15:19:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T15:12:56Z"
+discovered_at: "2026-08-06T15:19:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

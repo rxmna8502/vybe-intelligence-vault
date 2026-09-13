@@ -1,30 +1,19 @@
 ---
-title: gadgethumans-dev/gadgethumans-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Model Context Protocol (MCP)
-- JavaScript
-- HTTP/HTTPS
-- Stripe API
-- x402 (payment protocol)
-- REST API
+title: "gadgethumans-dev/gadgethumans-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "JavaScript", "HTTP/HTTPS", "Stripe API", "x402 (payment protocol)", "REST API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP
-- AI agents
-- REST endpoints
-- pay-per-call
-- tool integration
-source: https://github.com/gadgethumans-dev/gadgethumans-mcp
+deployment_complexity: "Low"
+tags: ["MCP", "AI agents", "REST endpoints", "pay-per-call", "tool integration"]
+source: "https://github.com/gadgethumans-dev/gadgethumans-mcp"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-02T08:20:44Z'
-discovered_at: '2026-08-02T08:22:52Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T08:20:44Z"
+discovered_at: "2026-08-02T08:22:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

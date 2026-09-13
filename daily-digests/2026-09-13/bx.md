@@ -1,32 +1,19 @@
 ---
-title: grahambrooks/bx
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Rust
-- GitHub API
-- SHA-256 checksum verification
-- Apple Seatbelt (macOS sandboxing)
-- Bubblewrap (Linux sandboxing)
-- Windows AppContainer
-- TOML (configuration)
-- clap (CLI parsing)
+title: "grahambrooks/bx"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "GitHub API", "SHA-256 checksum verification", "Apple Seatbelt (macOS sandboxing)", "Bubblewrap (Linux sandboxing)", "Windows AppContainer", "TOML (configuration)", "clap (CLI parsing)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- binary execution
-- sandboxing
-- GitHub releases
-- cross-platform
-source: https://github.com/grahambrooks/bx
+deployment_complexity: "Medium"
+tags: ["MCP server", "binary execution", "sandboxing", "GitHub releases", "cross-platform"]
+source: "https://github.com/grahambrooks/bx"
 stars: 0
-language: Rust
-last_updated: '2026-08-09T18:36:56Z'
-discovered_at: '2026-08-09T18:43:49Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-09T18:36:56Z"
+discovered_at: "2026-08-09T18:43:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

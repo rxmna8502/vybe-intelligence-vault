@@ -1,32 +1,19 @@
 ---
-title: realZachi/frameflow
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- React 19
-- TypeScript
-- Vite
-- Tailwind CSS
-- Bun
-- IndexedDB
-- AI SDK (Moonshot, Google, Qwen, OpenAI, Anthropic, xAI)
-- shadcn UI
+title: "realZachi/frameflow"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["React 19", "TypeScript", "Vite", "Tailwind CSS", "Bun", "IndexedDB", "AI SDK (Moonshot, Google, Qwen, OpenAI, Anthropic, xAI)", "shadcn UI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI-driven design
-- local-first
-- canvas editor
-- App Store screenshots
-- editable AI output
-source: https://github.com/realZachi/frameflow
+deployment_complexity: "Low"
+tags: ["AI-driven design", "local-first", "canvas editor", "App Store screenshots", "editable AI output"]
+source: "https://github.com/realZachi/frameflow"
 stars: 23
-language: TypeScript
-last_updated: '2026-08-03T22:03:09Z'
-discovered_at: '2026-08-03T22:09:30Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T22:03:09Z"
+discovered_at: "2026-08-03T22:09:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

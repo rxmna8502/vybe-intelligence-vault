@@ -1,27 +1,19 @@
 ---
-title: 0308ya9392/bubble-agent-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Windows Desktop Application
+title: "0308ya9392/bubble-agent-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Windows Desktop Application"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- trend detection
-- MCP server
-- real-time data
-- AI assistant integration
-- open-source
-source: https://github.com/0308ya9392/bubble-agent-mcp
+deployment_complexity: "Low"
+tags: ["trend detection", "MCP server", "real-time data", "AI assistant integration", "open-source"]
+source: "https://github.com/0308ya9392/bubble-agent-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T18:38:44Z'
-discovered_at: '2026-08-09T18:43:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T18:38:44Z"
+discovered_at: "2026-08-09T18:43:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

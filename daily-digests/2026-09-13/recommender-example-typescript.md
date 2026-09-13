@@ -1,30 +1,19 @@
 ---
-title: pinecone-io/recommender-example-typescript
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Pinecone
-- Transformers.js
-- Node.js
-- CSV
-- dotenv
+title: "pinecone-io/recommender-example-typescript"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["TypeScript", "Pinecone", "Transformers.js", "Node.js", "CSV", "dotenv"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- recommender system
-- content-based filtering
-- embeddings
-- vector search
-- Pinecone
-source: https://github.com/pinecone-io/recommender-example-typescript
+deployment_complexity: "Medium"
+tags: ["recommender system", "content-based filtering", "embeddings", "vector search", "Pinecone"]
+source: "https://github.com/pinecone-io/recommender-example-typescript"
 stars: 57
-language: TypeScript
-last_updated: '2026-08-07T14:14:12Z'
-discovered_at: '2026-08-07T14:19:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T14:14:12Z"
+discovered_at: "2026-08-07T14:19:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

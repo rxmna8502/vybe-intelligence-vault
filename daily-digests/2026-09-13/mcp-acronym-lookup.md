@@ -1,27 +1,19 @@
 ---
-title: UnitVectorY-Labs/mcp-acronym-lookup
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- CSV parsing
+title: "UnitVectorY-Labs/mcp-acronym-lookup"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "CSV parsing"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP server
-- acronym lookup
-- configuration-driven
-- CSV ingestion
-- AI tooling
-source: https://github.com/UnitVectorY-Labs/mcp-acronym-lookup
+deployment_complexity: "Low"
+tags: ["MCP server", "acronym lookup", "configuration-driven", "CSV ingestion", "AI tooling"]
+source: "https://github.com/UnitVectorY-Labs/mcp-acronym-lookup"
 stars: 0
-language: Go
-last_updated: '2026-08-04T00:01:54Z'
-discovered_at: '2026-08-04T00:12:02Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T00:01:54Z"
+discovered_at: "2026-08-04T00:12:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

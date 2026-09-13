@@ -1,32 +1,19 @@
 ---
-title: robert7/remnote-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- WebSocket
-- npm
-- CLI
-- HTTP
-- REST API
+title: "robert7/remnote-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "WebSocket", "npm", "CLI", "HTTP", "REST API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- RemNote integration
-- AI agent bridge
-- knowledge base
-- local automation
-source: https://github.com/robert7/remnote-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "RemNote integration", "AI agent bridge", "knowledge base", "local automation"]
+source: "https://github.com/robert7/remnote-mcp-server"
 stars: 17
-language: TypeScript
-last_updated: '2026-07-17T08:05:51Z'
-discovered_at: '2026-07-17T08:07:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T08:05:51Z"
+discovered_at: "2026-07-17T08:07:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

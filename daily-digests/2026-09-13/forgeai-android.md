@@ -1,36 +1,19 @@
 ---
-title: GraphicMiles/forgeai-android
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Dart
-- Flutter
-- Java
-- llama.cpp
-- JNI
-- Android SDK
-- C++
-- AES/GCM
-- Android Keystore
-- Hugging Face
-- Ollama
-- OpenAI-compatible API
+title: "GraphicMiles/forgeai-android"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Dart", "Flutter", "Java", "llama.cpp", "JNI", "Android SDK", "C++", "AES/GCM", "Android Keystore", "Hugging Face", "Ollama", "OpenAI-compatible API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local-first
-- on-device AI
-- Android agent
-- file operations
-- model inference
-source: https://github.com/GraphicMiles/forgeai-android
+deployment_complexity: "Medium"
+tags: ["local-first", "on-device AI", "Android agent", "file operations", "model inference"]
+source: "https://github.com/GraphicMiles/forgeai-android"
 stars: 0
-language: Java
-last_updated: '2026-09-01T22:14:43Z'
-discovered_at: '2026-09-01T22:17:47Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-09-01T22:14:43Z"
+discovered_at: "2026-09-01T22:17:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: DunkelCloud/ToolMesh
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- OpenFGA
-- Redis
-- SQLite
-- JavaScript (goja)
-- Docker
-- Prometheus
-- YAML
+title: "DunkelCloud/ToolMesh"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "OpenFGA", "Redis", "SQLite", "JavaScript (goja)", "Docker", "Prometheus", "YAML"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP gateway
-- REST proxy
-- authorization
-- audit logging
-- credential injection
-source: https://github.com/DunkelCloud/ToolMesh
+deployment_complexity: "Medium"
+tags: ["MCP gateway", "REST proxy", "authorization", "audit logging", "credential injection"]
+source: "https://github.com/DunkelCloud/ToolMesh"
 stars: 5
-language: Go
-last_updated: '2026-08-05T16:36:33Z'
-discovered_at: '2026-08-05T16:46:08Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-05T16:36:33Z"
+discovered_at: "2026-08-05T16:46:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

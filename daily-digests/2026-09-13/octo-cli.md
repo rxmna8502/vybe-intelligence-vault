@@ -1,32 +1,19 @@
 ---
-title: Mininglamp-OSS/octo-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- Cobra
-- OpenAPI 3.x
-- REST API
-- Dependency Injection
-- JSON Schema
-- CLI
-- Dependency Injection
+title: "Mininglamp-OSS/octo-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Cobra", "OpenAPI 3.x", "REST API", "Dependency Injection", "JSON Schema", "CLI", "Dependency Injection"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- CLI
-- REST client
-- AI agents
-- metadata-driven
-- structured output
-source: https://github.com/Mininglamp-OSS/octo-cli
+deployment_complexity: "Low"
+tags: ["CLI", "REST client", "AI agents", "metadata-driven", "structured output"]
+source: "https://github.com/Mininglamp-OSS/octo-cli"
 stars: 416
-language: Go
-last_updated: '2026-08-08T09:38:01Z'
-discovered_at: '2026-08-08T09:40:18Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T09:38:01Z"
+discovered_at: "2026-08-08T09:40:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

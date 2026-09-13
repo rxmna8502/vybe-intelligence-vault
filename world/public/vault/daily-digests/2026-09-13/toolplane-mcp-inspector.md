@@ -1,30 +1,19 @@
 ---
-title: toolplane-io/toolplane-mcp-inspector
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- React 19
-- TypeScript
-- Vite 6
-- Tailwind CSS v4
-- '@modelcontextprotocol/sdk'
-- Node.js >= 20
+title: "toolplane-io/toolplane-mcp-inspector"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["React 19", "TypeScript", "Vite 6", "Tailwind CSS v4", "@modelcontextprotocol/sdk", "Node.js >= 20"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP
-- JSON-RPC
-- debugging
-- developer tools
-- OAuth
-source: https://github.com/toolplane-io/toolplane-mcp-inspector
+deployment_complexity: "Low"
+tags: ["MCP", "JSON-RPC", "debugging", "developer tools", "OAuth"]
+source: "https://github.com/toolplane-io/toolplane-mcp-inspector"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T17:32:17Z'
-discovered_at: '2026-08-09T17:35:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T17:32:17Z"
+discovered_at: "2026-08-09T17:35:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: zj-unicom-ai/UniEmployee
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- Vue 3
-- PostgreSQL
-- LangGraph
-- MCP (Model Context Protocol)
-- DeepSeek
-- Docker
-- JWT
-- StateGraph
+title: "zj-unicom-ai/UniEmployee"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Vue 3", "PostgreSQL", "LangGraph", "MCP (Model Context Protocol)", "DeepSeek", "Docker", "JWT", "StateGraph"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agents
-- Workflow Automation
-- Enterprise RAG
-- Human-in-the-Loop
-- Observability
-source: https://github.com/zj-unicom-ai/UniEmployee
+deployment_complexity: "Medium"
+tags: ["AI Agents", "Workflow Automation", "Enterprise RAG", "Human-in-the-Loop", "Observability"]
+source: "https://github.com/zj-unicom-ai/UniEmployee"
 stars: 26
-language: Python
-last_updated: '2026-09-01T08:57:46Z'
-discovered_at: '2026-09-01T09:08:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T08:57:46Z"
+discovered_at: "2026-09-01T09:08:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

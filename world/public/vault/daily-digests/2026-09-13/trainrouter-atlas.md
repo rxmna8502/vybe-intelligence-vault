@@ -1,32 +1,19 @@
 ---
-title: Flightmussy/trainrouter-atlas
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- CSV
-- JSON
-- GeoJSON
-- Python
-- Pandas
-- GeoPandas
-- JavaScript
-- MCP Server
+title: "Flightmussy/trainrouter-atlas"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["CSV", "JSON", "GeoJSON", "Python", "Pandas", "GeoPandas", "JavaScript", "MCP Server"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- open data
-- geospatial
-- transportation
-- MCP server
-- dataset
-source: https://github.com/Flightmussy/trainrouter-atlas
+deployment_complexity: "Low"
+tags: ["open data", "geospatial", "transportation", "MCP server", "dataset"]
+source: "https://github.com/Flightmussy/trainrouter-atlas"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-12T11:55:44Z'
-discovered_at: '2026-07-12T11:58:29Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-12T11:55:44Z"
+discovered_at: "2026-07-12T11:58:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: arsalan-anwari/2009scape-wiki-api
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- SQLite
-- Full-Text Search (FTS5)
-- MCP (Model Context Protocol)
-- Poetry (uv)
-- Docker
-- JWT (for token-based auth)
+title: "arsalan-anwari/2009scape-wiki-api"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "SQLite", "Full-Text Search (FTS5)", "MCP (Model Context Protocol)", "Poetry (uv)", "Docker", "JWT (for token-based auth)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- game data
-- knowledge base
-- MCP server
-- FastAPI
-- SQLite
-source: https://github.com/arsalan-anwari/2009scape-wiki-api
+deployment_complexity: "Medium"
+tags: ["game data", "knowledge base", "MCP server", "FastAPI", "SQLite"]
+source: "https://github.com/arsalan-anwari/2009scape-wiki-api"
 stars: 1
-language: Python
-last_updated: '2026-08-03T13:37:59Z'
-discovered_at: '2026-08-03T13:42:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T13:37:59Z"
+discovered_at: "2026-08-03T13:42:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: pipeworx-io/mcp-vessel-tracking
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- WebSocket (wss://stream.aisstream.io/v0/stream)
-- MCP (Model Context Protocol)
-- REST APIs
-- AIS (Automatic Identification System)
+title: "pipeworx-io/mcp-vessel-tracking"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "WebSocket (wss://stream.aisstream.io/v0/stream)", "MCP (Model Context Protocol)", "REST APIs", "AIS (Automatic Identification System)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- vessel tracking
-- AIS data
-- real-time
-- maritime
-- geospatial
-source: https://github.com/pipeworx-io/mcp-vessel-tracking
+deployment_complexity: "Low"
+tags: ["vessel tracking", "AIS data", "real-time", "maritime", "geospatial"]
+source: "https://github.com/pipeworx-io/mcp-vessel-tracking"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T20:37:27Z'
-discovered_at: '2026-08-01T20:51:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T20:37:27Z"
+discovered_at: "2026-08-01T20:51:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

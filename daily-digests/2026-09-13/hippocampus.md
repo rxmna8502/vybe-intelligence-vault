@@ -1,37 +1,19 @@
 ---
-title: fastbean-au/hippocampus
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- SQLite
-- PostgreSQL
-- MySQL
-- gRPC
-- HTTP
-- OpenTelemetry
-- JWT
-- OIDC
-- Docker
-- OpenSearch
-- Ollama
-- Model Context Protocol (MCP)
+title: "fastbean-au/hippocampus"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Go", "SQLite", "PostgreSQL", "MySQL", "gRPC", "HTTP", "OpenTelemetry", "JWT", "OIDC", "Docker", "OpenSearch", "Ollama", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory storage
-- biological-inspired
-- log retention
-- context management
-- audit trails
-source: https://github.com/fastbean-au/hippocampus
+deployment_complexity: "Medium"
+tags: ["memory storage", "biological-inspired", "log retention", "context management", "audit trails"]
+source: "https://github.com/fastbean-au/hippocampus"
 stars: 0
-language: Go
-last_updated: '2026-08-02T19:20:02Z'
-discovered_at: '2026-08-02T19:25:31Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T19:20:02Z"
+discovered_at: "2026-08-02T19:25:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,27 +1,19 @@
 ---
-title: bennettculinary759/wardrail
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Static Analysis
-- Windows Application
+title: "bennettculinary759/wardrail"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Static Analysis", "Windows Application"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- security
-- pre-commit
-- secret-scanner
-- AI agent protection
-- static analysis
-source: https://github.com/bennettculinary759/wardrail
+deployment_complexity: "Low"
+tags: ["security", "pre-commit", "secret-scanner", "AI agent protection", "static analysis"]
+source: "https://github.com/bennettculinary759/wardrail"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-06T06:28:55Z'
-discovered_at: '2026-08-06T06:32:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T06:28:55Z"
+discovered_at: "2026-08-06T06:32:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

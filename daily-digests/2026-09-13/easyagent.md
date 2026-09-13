@@ -1,32 +1,19 @@
 ---
-title: daviderosso-data/easyagent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Next.js
-- React
-- Node.js
-- Claude Code SDK
-- ESLint
-- Vitest
-- macOS/Windows OS Sandboxing
+title: "daviderosso-data/easyagent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Next.js", "React", "Node.js", "Claude Code SDK", "ESLint", "Vitest", "macOS/Windows OS Sandboxing"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent interface
-- Claude Code integration
-- visual diff approval
-- multi-agent orchestration
-- local deployment
-source: https://github.com/daviderosso-data/easyagent
+deployment_complexity: "Medium"
+tags: ["AI agent interface", "Claude Code integration", "visual diff approval", "multi-agent orchestration", "local deployment"]
+source: "https://github.com/daviderosso-data/easyagent"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-21T14:58:08Z'
-discovered_at: '2026-07-21T15:03:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T14:58:08Z"
+discovered_at: "2026-07-21T15:03:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

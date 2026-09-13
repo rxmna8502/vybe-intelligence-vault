@@ -1,34 +1,19 @@
 ---
-title: OpenPeach-ai/dgc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python 3.10+
-- Rich
-- Prompt Toolkit
-- Requests
-- Ollama
-- llama.cpp
-- LM Studio
-- vLLM
-- OpenAI API
-- Anthropic API
+title: "OpenPeach-ai/dgc"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.10+", "Rich", "Prompt Toolkit", "Requests", "Ollama", "llama.cpp", "LM Studio", "vLLM", "OpenAI API", "Anthropic API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- coding agent
-- terminal interface
-- multi-agent
-- permission controls
-- local LLM
-source: https://github.com/OpenPeach-ai/dgc
+deployment_complexity: "Low"
+tags: ["coding agent", "terminal interface", "multi-agent", "permission controls", "local LLM"]
+source: "https://github.com/OpenPeach-ai/dgc"
 stars: 1
-language: Python
-last_updated: '2026-09-03T15:28:03Z'
-discovered_at: '2026-09-03T15:39:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:28:03Z"
+discovered_at: "2026-09-03T15:39:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: sayik/clavis
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- PostgreSQL
-- Amazon S3
-- Async SQLAlchemy
-- Docker
-- Pydantic
-- UV
-- SQLite
+title: "sayik/clavis"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "Amazon S3", "Async SQLAlchemy", "Docker", "Pydantic", "UV", "SQLite"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- personal knowledge management
-- AI productivity
-- cloud storage
-- note organization
-- backend framework
-source: https://github.com/sayik/clavis
+deployment_complexity: "Medium"
+tags: ["personal knowledge management", "AI productivity", "cloud storage", "note organization", "backend framework"]
+source: "https://github.com/sayik/clavis"
 stars: 2
-language: Python
-last_updated: '2026-09-04T02:03:37Z'
-discovered_at: '2026-09-04T02:13:14Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-04T02:03:37Z"
+discovered_at: "2026-09-04T02:13:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

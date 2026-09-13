@@ -1,31 +1,19 @@
 ---
-title: alecswang/please-hire-me
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Claude Code
-- Bash
-- Python
-- Chrome Browser
-- JSON APIs
-- Markdown
-- Git
+title: "alecswang/please-hire-me"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "Bash", "Python", "Chrome Browser", "JSON APIs", "Markdown", "Git"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- job application automation
-- ATS form filling
-- autonomous agent
-- career tools
-- browser automation
-source: https://github.com/alecswang/please-hire-me
+deployment_complexity: "Medium"
+tags: ["job application automation", "ATS form filling", "autonomous agent", "career tools", "browser automation"]
+source: "https://github.com/alecswang/please-hire-me"
 stars: 1
-language: Shell
-last_updated: '2026-08-08T06:49:01Z'
-discovered_at: '2026-08-08T06:52:31Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-08T06:49:01Z"
+discovered_at: "2026-08-08T06:52:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

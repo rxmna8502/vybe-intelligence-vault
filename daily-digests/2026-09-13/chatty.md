@@ -1,38 +1,19 @@
 ---
-title: wwilson1017/chatty
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- JavaScript
-- SQLite
-- Ollama
-- Anthropic API
-- OpenAI API
-- Google AI API
-- Together AI
-- Node.js
-- React
-- FastAPI
-- Celery
-- Redis
-- Docker
+title: "wwilson1017/chatty"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "JavaScript", "SQLite", "Ollama", "Anthropic API", "OpenAI API", "Google AI API", "Together AI", "Node.js", "React", "FastAPI", "Celery", "Redis", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- multi-agent systems
-- local-first
-- scheduling
-- business integrations
-source: https://github.com/wwilson1017/chatty
+deployment_complexity: "Medium"
+tags: ["AI agents", "multi-agent systems", "local-first", "scheduling", "business integrations"]
+source: "https://github.com/wwilson1017/chatty"
 stars: 6
-language: Python
-last_updated: '2026-08-02T20:52:00Z'
-discovered_at: '2026-08-02T20:54:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T20:52:00Z"
+discovered_at: "2026-08-02T20:54:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

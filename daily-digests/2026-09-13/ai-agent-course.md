@@ -1,37 +1,19 @@
 ---
-title: NvidiaSeoul/ai-agent-course
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- LangChain
-- LangGraph
-- Streamlit
-- FastAPI
-- OpenAI API
-- Ollama
-- ChromaDB
-- OpenSearch
-- PostgreSQL
-- Pydantic
-- Tavily
-- EasyOCR
+title: "NvidiaSeoul/ai-agent-course"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangChain", "LangGraph", "Streamlit", "FastAPI", "OpenAI API", "Ollama", "ChromaDB", "OpenSearch", "PostgreSQL", "Pydantic", "Tavily", "EasyOCR"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI Agents
-- RAG
-- LangGraph
-- Streamlit
-- FastAPI
-source: https://github.com/NvidiaSeoul/ai-agent-course
+deployment_complexity: "Medium"
+tags: ["AI Agents", "RAG", "LangGraph", "Streamlit", "FastAPI"]
+source: "https://github.com/NvidiaSeoul/ai-agent-course"
 stars: 0
-language: Python
-last_updated: '2026-08-05T05:43:15Z'
-discovered_at: '2026-08-05T05:47:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T05:43:15Z"
+discovered_at: "2026-08-05T05:47:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: yanggujun/open-axle
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- CLI
-- LLM Integration
-- OpenAI API
-- File System Operations
-- Network Operations
+title: "yanggujun/open-axle"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "CLI", "LLM Integration", "OpenAI API", "File System Operations", "Network Operations"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent
-- CLI tool
-- skill-based automation
-- developer productivity
-- LLM integration
-source: https://github.com/yanggujun/open-axle
+deployment_complexity: "Medium"
+tags: ["AI agent", "CLI tool", "skill-based automation", "developer productivity", "LLM integration"]
+source: "https://github.com/yanggujun/open-axle"
 stars: 0
-language: Python
-last_updated: '2026-09-04T02:10:09Z'
-discovered_at: '2026-09-04T02:11:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-04T02:10:09Z"
+discovered_at: "2026-09-04T02:11:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

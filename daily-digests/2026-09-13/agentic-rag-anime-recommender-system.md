@@ -1,30 +1,19 @@
 ---
-title: drae1712/Agentic-RAG-Anime-Recommender-System
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Streamlit
-- Docker
-- Kubernetes
-- ChromaDB
-- Retrieval-Augmented Generation (RAG)
+title: "drae1712/Agentic-RAG-Anime-Recommender-System"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Streamlit", "Docker", "Kubernetes", "ChromaDB", "Retrieval-Augmented Generation (RAG)"]
 quality_score: 5
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- anime-recommendation
-- rag-system
-- semantic-search
-- ai-recommender
-- streamlit-app
-source: https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System
+deployment_complexity: "Medium"
+tags: ["anime-recommendation", "rag-system", "semantic-search", "ai-recommender", "streamlit-app"]
+source: "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
 stars: 2
-language: Python
-last_updated: '2026-08-09T12:45:39Z'
-discovered_at: '2026-08-09T12:50:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T12:45:39Z"
+discovered_at: "2026-08-09T12:50:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

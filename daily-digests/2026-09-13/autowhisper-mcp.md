@@ -1,29 +1,19 @@
 ---
-title: xnjiang/autowhisper-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- OAuth
+title: "xnjiang/autowhisper-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "OAuth"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP server
-- AI marketing automation
-- ad creative generation
-- multi-platform publishing
-- CMO assistant
-source: https://github.com/xnjiang/autowhisper-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "AI marketing automation", "ad creative generation", "multi-platform publishing", "CMO assistant"]
+source: "https://github.com/xnjiang/autowhisper-mcp"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-09T10:31:08Z'
-discovered_at: '2026-08-09T10:37:57Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-09T10:31:08Z"
+discovered_at: "2026-08-09T10:37:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

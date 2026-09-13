@@ -1,35 +1,19 @@
 ---
-title: Lowen-0621/LowenSSH
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Java 17
-- Spring Boot 3.4
-- Spring AI
-- Flutter
-- Dart
-- Node.js 20
-- TypeScript
-- Ink (TUI)
-- JSch (SSH)
-- MySQL
-- Docker
+title: "Lowen-0621/LowenSSH"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java 17", "Spring Boot 3.4", "Spring AI", "Flutter", "Dart", "Node.js 20", "TypeScript", "Ink (TUI)", "JSch (SSH)", "MySQL", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agent
-- SSH Automation
-- Safety Interception
-- Agentic Loop
-- Real-time Visualization
-source: https://github.com/Lowen-0621/LowenSSH
+deployment_complexity: "Medium"
+tags: ["AI Agent", "SSH Automation", "Safety Interception", "Agentic Loop", "Real-time Visualization"]
+source: "https://github.com/Lowen-0621/LowenSSH"
 stars: 3
-language: Dart
-last_updated: '2026-08-09T11:29:38Z'
-discovered_at: '2026-08-09T11:32:35Z'
-evaluated_by: mistral-small-latest
+language: "Dart"
+last_updated: "2026-08-09T11:29:38Z"
+discovered_at: "2026-08-09T11:32:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: teampolarity/cosmos-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- SQLite
-- OAuth
-- CLI
-- Swift (for macOS daemon app)
-- REST API
+title: "teampolarity/cosmos-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "OAuth", "CLI", "Swift (for macOS daemon app)", "REST API"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- personal knowledge graph
-- MCP server
-- data synchronization
-- RAG optimization
-- agent orchestration
-source: https://github.com/teampolarity/cosmos-mcp
+deployment_complexity: "Medium"
+tags: ["personal knowledge graph", "MCP server", "data synchronization", "RAG optimization", "agent orchestration"]
+source: "https://github.com/teampolarity/cosmos-mcp"
 stars: 3
-language: TypeScript
-last_updated: '2026-07-18T16:53:40Z'
-discovered_at: '2026-07-18T16:56:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T16:53:40Z"
+discovered_at: "2026-07-18T16:56:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

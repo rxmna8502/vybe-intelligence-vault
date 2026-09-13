@@ -1,34 +1,19 @@
 ---
-title: ys-ll/uniterm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Go
-- Vue.js
-- Wails
-- Electron (via Wails)
-- WebView2
-- WebKit
-- TypeScript
-- SQLite
-- Docker
-- Kubernetes
+title: "ys-ll/uniterm"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Vue.js", "Wails", "Electron (via Wails)", "WebView2", "WebKit", "TypeScript", "SQLite", "Docker", "Kubernetes"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal
-- AI agent
-- multi-protocol
-- remote access
-- developer tool
-source: https://github.com/ys-ll/uniterm
+deployment_complexity: "Medium"
+tags: ["terminal", "AI agent", "multi-protocol", "remote access", "developer tool"]
+source: "https://github.com/ys-ll/uniterm"
 stars: 370
-language: Vue
-last_updated: '2026-09-03T08:25:22Z'
-discovered_at: '2026-09-03T08:32:04Z'
-evaluated_by: mistral-small-latest
+language: "Vue"
+last_updated: "2026-09-03T08:25:22Z"
+discovered_at: "2026-09-03T08:32:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

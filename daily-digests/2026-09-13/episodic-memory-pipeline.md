@@ -1,28 +1,19 @@
 ---
-title: shiro1707778/episodic-memory-pipeline
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Qwen-2.5
-- BGE-M3
-- PyInstaller (for packaging)
+title: "shiro1707778/episodic-memory-pipeline"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Qwen-2.5", "BGE-M3", "PyInstaller (for packaging)"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- memory management
-- episodic memory
-- semantic memory
-- provenance tracking
-- multilingual AI
-source: https://github.com/shiro1707778/episodic-memory-pipeline
+deployment_complexity: "Medium"
+tags: ["memory management", "episodic memory", "semantic memory", "provenance tracking", "multilingual AI"]
+source: "https://github.com/shiro1707778/episodic-memory-pipeline"
 stars: 1
-language: Python
-last_updated: '2026-08-07T11:13:34Z'
-discovered_at: '2026-08-07T11:58:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:13:34Z"
+discovered_at: "2026-08-07T11:58:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

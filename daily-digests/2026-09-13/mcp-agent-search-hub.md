@@ -1,32 +1,19 @@
 ---
-title: Dan1el2109/mcp-agent-search-hub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- TypeScript
-- MCP (Model Context Protocol)
-- OpenAI API
-- Claude API
-- AI Dev Jobs API
-- YAML/JSON
-- Docker
+title: "Dan1el2109/mcp-agent-search-hub"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "TypeScript", "MCP (Model Context Protocol)", "OpenAI API", "Claude API", "AI Dev Jobs API", "YAML/JSON", "Docker"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- MCP server discovery
-- AI job matching
-- autonomous agents
-- multi-language framework
-- agent orchestration
-source: https://github.com/Dan1el2109/mcp-agent-search-hub
+deployment_complexity: "Medium"
+tags: ["MCP server discovery", "AI job matching", "autonomous agents", "multi-language framework", "agent orchestration"]
+source: "https://github.com/Dan1el2109/mcp-agent-search-hub"
 stars: 1
-language: HTML
-last_updated: '2026-09-02T22:01:37Z'
-discovered_at: '2026-09-02T22:23:44Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-02T22:01:37Z"
+discovered_at: "2026-09-02T22:23:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

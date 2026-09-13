@@ -1,32 +1,19 @@
 ---
-title: bd-loser/opencode-bionic
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Bionic libc
-- Termux
-- Bun runtime
-- Zig
-- TypeScript
-- Shell scripting
-- Git
-- Debian packaging
+title: "bd-loser/opencode-bionic"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Bionic libc", "Termux", "Bun runtime", "Zig", "TypeScript", "Shell scripting", "Git", "Debian packaging"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Android AI agent
-- Termux integration
-- Bionic libc compatibility
-- opencode port
-- mobile coding agent
-source: https://github.com/bd-loser/opencode-bionic
+deployment_complexity: "Medium"
+tags: ["Android AI agent", "Termux integration", "Bionic libc compatibility", "opencode port", "mobile coding agent"]
+source: "https://github.com/bd-loser/opencode-bionic"
 stars: 6
-language: Shell
-last_updated: '2026-08-08T07:47:48Z'
-discovered_at: '2026-08-08T07:51:48Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-08T07:47:48Z"
+discovered_at: "2026-08-08T07:51:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

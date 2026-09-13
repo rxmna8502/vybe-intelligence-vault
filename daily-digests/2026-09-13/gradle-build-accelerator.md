@@ -1,33 +1,19 @@
 ---
-title: Amirahmed0685/gradle-build-accelerator
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- GitHub Actions
-- Gradle
-- Machine Learning
-- Node.js
-- YAML
-- REST APIs
-- Docker
-- AI Integration (OpenAI, Anthropic)
-- Telemetry & Analytics
+title: "Amirahmed0685/gradle-build-accelerator"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["GitHub Actions", "Gradle", "Machine Learning", "Node.js", "YAML", "REST APIs", "Docker", "AI Integration (OpenAI, Anthropic)", "Telemetry & Analytics"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- CI/CD acceleration
-- Gradle optimization
-- Predictive caching
-- GitHub Actions
-- Build intelligence
-source: https://github.com/Amirahmed0685/gradle-build-accelerator
+deployment_complexity: "Medium"
+tags: ["CI/CD acceleration", "Gradle optimization", "Predictive caching", "GitHub Actions", "Build intelligence"]
+source: "https://github.com/Amirahmed0685/gradle-build-accelerator"
 stars: 1
-language: HTML
-last_updated: '2026-09-03T18:59:03Z'
-discovered_at: '2026-09-03T19:05:37Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-03T18:59:03Z"
+discovered_at: "2026-09-03T19:05:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

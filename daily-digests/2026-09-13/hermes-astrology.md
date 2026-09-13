@@ -1,32 +1,19 @@
 ---
-title: Erfix404/hermes-astrology
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- NASA JPL DE421 Ephemeris
-- Swiss Ephemeris
-- NumPy
-- FastAPI
-- MCP Server
-- CLI
-- REST API
+title: "Erfix404/hermes-astrology"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "NASA JPL DE421 Ephemeris", "Swiss Ephemeris", "NumPy", "FastAPI", "MCP Server", "CLI", "REST API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- astrology
-- celestial intelligence
-- multi-tradition
-- deterministic
-- AI agent backend
-source: https://github.com/Erfix404/hermes-astrology
+deployment_complexity: "Medium"
+tags: ["astrology", "celestial intelligence", "multi-tradition", "deterministic", "AI agent backend"]
+source: "https://github.com/Erfix404/hermes-astrology"
 stars: 1
-language: Python
-last_updated: '2026-09-02T08:10:41Z'
-discovered_at: '2026-09-02T08:22:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T08:10:41Z"
+discovered_at: "2026-09-02T08:22:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

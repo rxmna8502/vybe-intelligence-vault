@@ -1,29 +1,19 @@
 ---
-title: opencue/cuecards
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- YAML
-- Shell Scripting
-- Git
+title: "opencue/cuecards"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "YAML", "Shell Scripting", "Git"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- agent management
-- skill isolation
-- token optimization
-- multi-agent
-- profile-based
-source: https://github.com/opencue/cuecards
+deployment_complexity: "Low"
+tags: ["agent management", "skill isolation", "token optimization", "multi-agent", "profile-based"]
+source: "https://github.com/opencue/cuecards"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-01T06:03:24Z'
-discovered_at: '2026-08-01T06:29:20Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T06:03:24Z"
+discovered_at: "2026-08-01T06:29:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

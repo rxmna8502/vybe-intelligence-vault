@@ -1,30 +1,19 @@
 ---
-title: RFingAdam/copper-mountain-vna-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- SCPI
-- TCP/IP
-- asyncio
-- AGPL-3.0
+title: "RFingAdam/copper-mountain-vna-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "SCPI", "TCP/IP", "asyncio", "AGPL-3.0"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- VNA automation
-- RF engineering
-- MCP server
-- SCPI interface
-- hardware control
-source: https://github.com/RFingAdam/copper-mountain-vna-mcp
+deployment_complexity: "Medium"
+tags: ["VNA automation", "RF engineering", "MCP server", "SCPI interface", "hardware control"]
+source: "https://github.com/RFingAdam/copper-mountain-vna-mcp"
 stars: 2
-language: Python
-last_updated: '2026-08-10T14:58:42Z'
-discovered_at: '2026-08-10T15:04:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T14:58:42Z"
+discovered_at: "2026-08-10T15:04:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

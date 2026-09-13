@@ -1,30 +1,19 @@
 ---
-title: FeilixX/prompt-capsule
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- SvelteKit
-- Bun
-- SQLite
-- Zod
-- TypeScript
-- Model Context Protocol (MCP)
+title: "FeilixX/prompt-capsule"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["SvelteKit", "Bun", "SQLite", "Zod", "TypeScript", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- prompt sharing
-- short-lived links
-- agent integration
-- text/plain endpoints
-- MCP server
-source: https://github.com/FeilixX/prompt-capsule
+deployment_complexity: "Medium"
+tags: ["prompt sharing", "short-lived links", "agent integration", "text/plain endpoints", "MCP server"]
+source: "https://github.com/FeilixX/prompt-capsule"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-10T10:44:33Z'
-discovered_at: '2026-07-10T10:52:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T10:44:33Z"
+discovered_at: "2026-07-10T10:52:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

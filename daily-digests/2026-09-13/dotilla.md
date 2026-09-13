@@ -1,26 +1,19 @@
 ---
-title: gmr/dotilla
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Rust
-- Graph Database
+title: "gmr/dotilla"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Graph Database"]
 quality_score: 3
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- graph-database
-- rust
-- database
-- storage
-- learning-project
-source: https://github.com/gmr/dotilla
+deployment_complexity: "Medium"
+tags: ["graph-database", "rust", "database", "storage", "learning-project"]
+source: "https://github.com/gmr/dotilla"
 stars: 0
-language: Rust
-last_updated: '2026-08-10T18:29:04Z'
-discovered_at: '2026-08-10T19:02:33Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-10T18:29:04Z"
+discovered_at: "2026-08-10T19:02:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

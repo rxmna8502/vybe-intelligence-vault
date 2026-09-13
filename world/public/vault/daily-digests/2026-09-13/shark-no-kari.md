@@ -1,34 +1,19 @@
 ---
-title: HaiNick/Shark-no-Kari
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastMCP
-- Scrapling
-- CloakBrowser
-- Camoufox
-- Docker
-- Caddy
-- Pocket ID (OIDC)
-- JWT
-- GitHub Actions
+title: "HaiNick/Shark-no-Kari"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "Scrapling", "CloakBrowser", "Camoufox", "Docker", "Caddy", "Pocket ID (OIDC)", "JWT", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- web scraping
-- anti-bot evasion
-- MCP server
-- headless browser
-- Cloudflare bypass
-source: https://github.com/HaiNick/Shark-no-Kari
+deployment_complexity: "Medium"
+tags: ["web scraping", "anti-bot evasion", "MCP server", "headless browser", "Cloudflare bypass"]
+source: "https://github.com/HaiNick/Shark-no-Kari"
 stars: 0
-language: Python
-last_updated: '2026-07-13T21:48:34Z'
-discovered_at: '2026-07-13T21:55:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T21:48:34Z"
+discovered_at: "2026-07-13T21:55:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

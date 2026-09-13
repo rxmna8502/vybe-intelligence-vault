@@ -1,36 +1,19 @@
 ---
-title: jonascodes15/biostreamer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- PostgreSQL
-- Qdrant
-- MinIO
-- Apache Airflow
-- FastAPI
-- Streamlit
-- NumPy
-- pandas
-- sentence-transformers/all-MiniLM-L6-v2
-- langchain-text-splitters
-- Docker
-- Python
+title: "jonascodes15/biostreamer"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["PostgreSQL", "Qdrant", "MinIO", "Apache Airflow", "FastAPI", "Streamlit", "NumPy", "pandas", "sentence-transformers/all-MiniLM-L6-v2", "langchain-text-splitters", "Docker", "Python"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- hybrid RAG
-- bioreactor simulation
-- structured data
-- vector retrieval
-- scientific validation
-source: https://github.com/jonascodes15/biostreamer
+deployment_complexity: "Medium"
+tags: ["hybrid RAG", "bioreactor simulation", "structured data", "vector retrieval", "scientific validation"]
+source: "https://github.com/jonascodes15/biostreamer"
 stars: 0
-language: Python
-last_updated: '2026-08-07T13:27:38Z'
-discovered_at: '2026-08-07T14:20:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T13:27:38Z"
+discovered_at: "2026-08-07T14:20:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

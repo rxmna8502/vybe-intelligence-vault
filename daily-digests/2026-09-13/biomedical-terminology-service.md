@@ -1,34 +1,19 @@
 ---
-title: Firefox2100/biomedical-terminology-service
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- FastAPI
-- GraphQL
-- FHIR
-- MCP
-- Docker
-- PostgreSQL
-- Elasticsearch
-- Redis
-- Neo4j
+title: "Firefox2100/biomedical-terminology-service"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "GraphQL", "FHIR", "MCP", "Docker", "PostgreSQL", "Elasticsearch", "Redis", "Neo4j"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- biomedical
-- terminology
-- ontology
-- semantic search
-- healthcare
-source: https://github.com/Firefox2100/biomedical-terminology-service
+deployment_complexity: "Medium"
+tags: ["biomedical", "terminology", "ontology", "semantic search", "healthcare"]
+source: "https://github.com/Firefox2100/biomedical-terminology-service"
 stars: 0
-language: Python
-last_updated: '2026-08-10T16:00:06Z'
-discovered_at: '2026-08-10T16:07:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T16:00:06Z"
+discovered_at: "2026-08-10T16:07:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

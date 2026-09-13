@@ -1,31 +1,19 @@
 ---
-title: KnockOutEZ/wigolo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Headless Browser Automation
-- BM25 (for caching)
-- On-device Embeddings
-- LLM Integration (Gemini, Anthropic, OpenAI, Ollama, etc.)
+title: "KnockOutEZ/wigolo"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Headless Browser Automation", "BM25 (for caching)", "On-device Embeddings", "LLM Integration (Gemini, Anthropic, OpenAI, Ollama, etc.)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- local-first
-- web search
-- agent integration
-- keyless
-source: https://github.com/KnockOutEZ/wigolo
+deployment_complexity: "Medium"
+tags: ["MCP server", "local-first", "web search", "agent integration", "keyless"]
+source: "https://github.com/KnockOutEZ/wigolo"
 stars: 35
-language: TypeScript
-last_updated: '2026-07-12T20:36:16Z'
-discovered_at: '2026-07-12T20:42:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T20:36:16Z"
+discovered_at: "2026-07-12T20:42:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

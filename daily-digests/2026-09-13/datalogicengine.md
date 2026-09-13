@@ -1,37 +1,19 @@
 ---
-title: kherrera6219/DataLogicEngine
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Flask
-- SQLAlchemy
-- PostgreSQL
-- Redis
-- Neo4j
-- ChromaDB
-- Electron
-- Next.js
-- TypeScript
-- MCP (Model Context Protocol)
-- OpenAI API
-- Google Gemini API
+title: "kherrera6219/DataLogicEngine"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Flask", "SQLAlchemy", "PostgreSQL", "Redis", "Neo4j", "ChromaDB", "Electron", "Next.js", "TypeScript", "MCP (Model Context Protocol)", "OpenAI API", "Google Gemini API"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- governed LLM middleware
-- Universal Knowledge Graph
-- audit traceability
-- compliance-driven AI
-- multi-agent orchestration
-source: https://github.com/kherrera6219/DataLogicEngine
+deployment_complexity: "High"
+tags: ["governed LLM middleware", "Universal Knowledge Graph", "audit traceability", "compliance-driven AI", "multi-agent orchestration"]
+source: "https://github.com/kherrera6219/DataLogicEngine"
 stars: 5
-language: Python
-last_updated: '2026-08-09T02:21:48Z'
-discovered_at: '2026-08-09T03:45:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T02:21:48Z"
+discovered_at: "2026-08-09T03:45:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: WeftCut/WeftCut
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Electron
-- React 19
-- PixiJS v8
-- WebCodecs
-- Rust (napi-rs)
-- TypeScript
-- ffmpeg
-- MCP (Model Context Protocol)
-- '@modelcontextprotocol/sdk'
-- mediabunny (media container library)
+title: "WeftCut/WeftCut"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "React 19", "PixiJS v8", "WebCodecs", "Rust (napi-rs)", "TypeScript", "ffmpeg", "MCP (Model Context Protocol)", "@modelcontextprotocol/sdk", "mediabunny (media container library)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-driven video editing
-- MCP server integration
-- real-time agent collaboration
-- cross-platform desktop app
-- professional NLE timeline
-source: https://github.com/WeftCut/WeftCut
+deployment_complexity: "Medium"
+tags: ["AI-driven video editing", "MCP server integration", "real-time agent collaboration", "cross-platform desktop app", "professional NLE timeline"]
+source: "https://github.com/WeftCut/WeftCut"
 stars: 4
-language: TypeScript
-last_updated: '2026-09-04T01:59:32Z'
-discovered_at: '2026-09-04T02:19:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-04T01:59:32Z"
+discovered_at: "2026-09-04T02:19:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: jlivingston-Cipher/godot-breakpoint-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Godot Engine
-- GDScript
-- C#
-- Language Server Protocol (LSP)
-- Debug Adapter Protocol (DAP)
-- Python
+title: "jlivingston-Cipher/godot-breakpoint-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Godot Engine", "GDScript", "C#", "Language Server Protocol (LSP)", "Debug Adapter Protocol (DAP)", "Python"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Godot integration
-- debugging
-- GDScript
-- C# support
-source: https://github.com/jlivingston-Cipher/godot-breakpoint-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Godot integration", "debugging", "GDScript", "C# support"]
+source: "https://github.com/jlivingston-Cipher/godot-breakpoint-mcp"
 stars: 6
-language: Python
-last_updated: '2026-09-02T22:14:28Z'
-discovered_at: '2026-09-02T22:19:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:14:28Z"
+discovered_at: "2026-09-02T22:19:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

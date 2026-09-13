@@ -1,29 +1,19 @@
 ---
-title: juliusadroit905/RAG-vs-Fine-Tuning
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Electron
-- JavaScript
-- HTML/CSS
-- Python (for backend logic)
-- Markdown (for content generation)
+title: "juliusadroit905/RAG-vs-Fine-Tuning"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "JavaScript", "HTML/CSS", "Python (for backend logic)", "Markdown (for content generation)"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- RAG
-- Fine-Tuning
-- LLM Education
-- Decision Framework
-- AI Workflows
-source: https://github.com/juliusadroit905/RAG-vs-Fine-Tuning
+deployment_complexity: "Low"
+tags: ["RAG", "Fine-Tuning", "LLM Education", "Decision Framework", "AI Workflows"]
+source: "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
 stars: 1
-language: None
-last_updated: '2026-08-09T12:37:56Z'
-discovered_at: '2026-08-09T12:51:07Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-09T12:37:56Z"
+discovered_at: "2026-08-09T12:51:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: jyjeanne/solidspec
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- Rust
-- CLI
-- YAML
-- DAG (Directed Acyclic Graph)
-- Multi-agent integration (Claude Code, Copilot, Mistral Vibe, etc.)
+title: "jyjeanne/solidspec"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "CLI", "YAML", "DAG (Directed Acyclic Graph)", "Multi-agent integration (Claude Code, Copilot, Mistral Vibe, etc.)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-driven development
-- specification-driven development
-- multi-methodology workflows
-- traceability
-- quality gates
-source: https://github.com/jyjeanne/solidspec
+deployment_complexity: "Medium"
+tags: ["AI-driven development", "specification-driven development", "multi-methodology workflows", "traceability", "quality gates"]
+source: "https://github.com/jyjeanne/solidspec"
 stars: 6
-language: Rust
-last_updated: '2026-07-21T10:16:07Z'
-discovered_at: '2026-07-21T10:24:39Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-21T10:16:07Z"
+discovered_at: "2026-07-21T10:24:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

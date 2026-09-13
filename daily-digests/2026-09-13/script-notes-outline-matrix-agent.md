@@ -1,33 +1,19 @@
 ---
-title: asifdotpy/script-notes-outline-matrix-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Google ADK
-- Gemini 2.5 Flash
-- ClickHouse
-- FastAPI
-- mcp-clickhouse
-- pdfplumber
-- Google Cloud Platform
-- chDB
+title: "asifdotpy/script-notes-outline-matrix-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Google ADK", "Gemini 2.5 Flash", "ClickHouse", "FastAPI", "mcp-clickhouse", "pdfplumber", "Google Cloud Platform", "chDB"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- screenwriting
-- feedback analysis
-- agentic workflow
-- ClickHouse analytics
-- conflict resolution
-source: https://github.com/asifdotpy/script-notes-outline-matrix-agent
+deployment_complexity: "Medium"
+tags: ["screenwriting", "feedback analysis", "agentic workflow", "ClickHouse analytics", "conflict resolution"]
+source: "https://github.com/asifdotpy/script-notes-outline-matrix-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-06T15:11:27Z'
-discovered_at: '2026-08-06T15:18:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T15:11:27Z"
+discovered_at: "2026-08-06T15:18:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: Demonbane18/relmio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- JavaScript
-- Node.js 22+
-- Docker
-- n8n
-- OAuth 2.0
-- TypeScript (implied by modern JS practices)
-- npm
+title: "Demonbane18/relmio"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js 22+", "Docker", "n8n", "OAuth 2.0", "TypeScript (implied by modern JS practices)", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- OAuth bridge
-- n8n integration
-- ChatGPT authentication
-- sidecar architecture
-- self-hosted AI workflows
-source: https://github.com/Demonbane18/relmio
+deployment_complexity: "Medium"
+tags: ["OAuth bridge", "n8n integration", "ChatGPT authentication", "sidecar architecture", "self-hosted AI workflows"]
+source: "https://github.com/Demonbane18/relmio"
 stars: 17
-language: JavaScript
-last_updated: '2026-08-02T02:33:56Z'
-discovered_at: '2026-08-02T02:34:42Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T02:33:56Z"
+discovered_at: "2026-08-02T02:34:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

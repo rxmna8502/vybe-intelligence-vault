@@ -1,29 +1,19 @@
 ---
-title: sbroenne/mcp-server-powerpoint
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- C#
-- .NET 10
-- Microsoft.Office.Interop.PowerPoint
-- Model Context Protocol (MCP)
-- COM Automation
+title: "sbroenne/mcp-server-powerpoint"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET 10", "Microsoft.Office.Interop.PowerPoint", "Model Context Protocol (MCP)", "COM Automation"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- PowerPoint automation
-- COM interop
-- AI-driven presentations
-- MCP server
-- real-time editing
-source: https://github.com/sbroenne/mcp-server-powerpoint
+deployment_complexity: "Medium"
+tags: ["PowerPoint automation", "COM interop", "AI-driven presentations", "MCP server", "real-time editing"]
+source: "https://github.com/sbroenne/mcp-server-powerpoint"
 stars: 2
-language: C#
-last_updated: '2026-07-11T09:09:31Z'
-discovered_at: '2026-07-11T09:27:37Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-11T09:09:31Z"
+discovered_at: "2026-07-11T09:27:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

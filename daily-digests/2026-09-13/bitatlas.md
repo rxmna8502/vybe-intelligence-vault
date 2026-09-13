@@ -1,31 +1,19 @@
 ---
-title: bitatlas-group/bitatlas
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- AES-256-GCM
-- Model Context Protocol (MCP)
-- PBKDF2-SHA256
-- Docker
-- USDC (Base Network)
-- x402 Payment Standard
+title: "bitatlas-group/bitatlas"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["TypeScript", "AES-256-GCM", "Model Context Protocol (MCP)", "PBKDF2-SHA256", "Docker", "USDC (Base Network)", "x402 Payment Standard"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- zero-knowledge
-- AI agents
-- end-to-end encryption
-- MCP server
-- European data sovereignty
-source: https://github.com/bitatlas-group/bitatlas
+deployment_complexity: "Medium"
+tags: ["zero-knowledge", "AI agents", "end-to-end encryption", "MCP server", "European data sovereignty"]
+source: "https://github.com/bitatlas-group/bitatlas"
 stars: 1
-language: MDX
-last_updated: '2026-07-19T07:12:33Z'
-discovered_at: '2026-07-19T07:29:56Z'
-evaluated_by: mistral-small-latest
+language: "MDX"
+last_updated: "2026-07-19T07:12:33Z"
+discovered_at: "2026-07-19T07:29:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

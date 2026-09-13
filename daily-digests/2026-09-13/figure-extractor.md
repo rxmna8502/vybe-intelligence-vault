@@ -1,31 +1,19 @@
 ---
-title: Sunrich-HT/figure-extractor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- PyMuPDF
-- pypdf
-- BeautifulSoup4 (optional)
-- CLI
-- YAML
-- Markdown
+title: "Sunrich-HT/figure-extractor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PyMuPDF", "pypdf", "BeautifulSoup4 (optional)", "CLI", "YAML", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- figure extraction
-- table extraction
-- PDF processing
-- arXiv parsing
-- AI agent skill
-source: https://github.com/Sunrich-HT/figure-extractor
+deployment_complexity: "Low"
+tags: ["figure extraction", "table extraction", "PDF processing", "arXiv parsing", "AI agent skill"]
+source: "https://github.com/Sunrich-HT/figure-extractor"
 stars: 3
-language: Python
-last_updated: '2026-08-04T07:36:10Z'
-discovered_at: '2026-08-04T07:40:00Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T07:36:10Z"
+discovered_at: "2026-08-04T07:40:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

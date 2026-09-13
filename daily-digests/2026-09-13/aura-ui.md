@@ -1,30 +1,19 @@
 ---
-title: BlueStarSystem/aura-ui
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Laravel
-- Livewire
-- Alpine.js
-- Tailwind CSS
-- PHP
-- Blade
+title: "BlueStarSystem/aura-ui"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Laravel", "Livewire", "Alpine.js", "Tailwind CSS", "PHP", "Blade"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- Laravel components
-- UI library
-- Tailwind CSS
-- Livewire
-- Admin panel
-source: https://github.com/BlueStarSystem/aura-ui
+deployment_complexity: "Low"
+tags: ["Laravel components", "UI library", "Tailwind CSS", "Livewire", "Admin panel"]
+source: "https://github.com/BlueStarSystem/aura-ui"
 stars: 1
-language: Blade
-last_updated: '2026-08-05T16:32:38Z'
-discovered_at: '2026-08-05T16:46:11Z'
-evaluated_by: mistral-small-latest
+language: "Blade"
+last_updated: "2026-08-05T16:32:38Z"
+discovered_at: "2026-08-05T16:46:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

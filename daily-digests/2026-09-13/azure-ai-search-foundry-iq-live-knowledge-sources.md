@@ -1,33 +1,19 @@
 ---
-title: microsoft/azure-ai-search-foundry-iq-live-knowledge-sources
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Azure AI Search
-- Azure OpenAI
-- Fabric Ontology
-- Python
-- Node.js
-- Bicep
-- MCP Server
-- YAML
-- Static Web Apps
+title: "microsoft/azure-ai-search-foundry-iq-live-knowledge-sources"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Azure AI Search", "Azure OpenAI", "Fabric Ontology", "Python", "Node.js", "Bicep", "MCP Server", "YAML", "Static Web Apps"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- Knowledge Sources
-- Azure AI Search
-- Fabric Ontology
-- MCP Server
-source: https://github.com/microsoft/azure-ai-search-foundry-iq-live-knowledge-sources
+deployment_complexity: "Medium"
+tags: ["RAG", "Knowledge Sources", "Azure AI Search", "Fabric Ontology", "MCP Server"]
+source: "https://github.com/microsoft/azure-ai-search-foundry-iq-live-knowledge-sources"
 stars: 12
-language: Python
-last_updated: '2026-07-16T12:18:15Z'
-discovered_at: '2026-07-16T12:22:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T12:18:15Z"
+discovered_at: "2026-07-16T12:22:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

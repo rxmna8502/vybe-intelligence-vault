@@ -1,30 +1,19 @@
 ---
-title: icoretech/warden-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Bitwarden CLI (bw)
-- Docker
-- npm
+title: "icoretech/warden-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Bitwarden CLI (bw)", "Docker", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- credential management
-- MCP server
-- Vaultwarden
-- Bitwarden integration
-- AI agent security
-source: https://github.com/icoretech/warden-mcp
+deployment_complexity: "Medium"
+tags: ["credential management", "MCP server", "Vaultwarden", "Bitwarden integration", "AI agent security"]
+source: "https://github.com/icoretech/warden-mcp"
 stars: 12
-language: TypeScript
-last_updated: '2026-08-05T02:04:33Z'
-discovered_at: '2026-08-05T02:18:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T02:04:33Z"
+discovered_at: "2026-08-05T02:18:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

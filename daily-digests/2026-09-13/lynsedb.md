@@ -1,36 +1,19 @@
 ---
-title: BirchKwok/lynsedb
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Rust
-- Python
-- FastEmbed
-- HNSW
-- IVF
-- SPANN
-- DiskANN
-- BM25
-- SQL-style metadata filtering
-- HTTP API
-- Docker
-- Kubernetes
+title: "BirchKwok/lynsedb"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "Python", "FastEmbed", "HNSW", "IVF", "SPANN", "DiskANN", "BM25", "SQL-style metadata filtering", "HTTP API", "Docker", "Kubernetes"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector database
-- RAG
-- semantic search
-- Rust engine
-- scalable retrieval
-source: https://github.com/BirchKwok/lynsedb
+deployment_complexity: "Medium"
+tags: ["vector database", "RAG", "semantic search", "Rust engine", "scalable retrieval"]
+source: "https://github.com/BirchKwok/lynsedb"
 stars: 40
-language: Rust
-last_updated: '2026-08-07T10:12:30Z'
-discovered_at: '2026-08-07T11:06:14Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T10:12:30Z"
+discovered_at: "2026-08-07T11:06:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: ammarbinfaisal/tabductor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- Chrome DevTools Protocol
-- Node.js
+title: "ammarbinfaisal/tabductor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Chrome DevTools Protocol", "Node.js"]
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- browser automation
-- MCP server
-- Chrome integration
-- agent tools
-- stdio communication
-source: https://github.com/ammarbinfaisal/tabductor
+deployment_complexity: "Medium"
+tags: ["browser automation", "MCP server", "Chrome integration", "agent tools", "stdio communication"]
+source: "https://github.com/ammarbinfaisal/tabductor"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T03:45:16Z'
-discovered_at: '2026-08-09T03:45:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T03:45:16Z"
+discovered_at: "2026-08-09T03:45:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: henriqueironed385/comfyui-workflow-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- ComfyUI
-- Natural Language Processing
-- JSON
-- AI Agent Integration
+title: "henriqueironed385/comfyui-workflow-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "ComfyUI", "Natural Language Processing", "JSON", "AI Agent Integration"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- workflow generation
-- ComfyUI
-- natural language to JSON
-- AI agent skill
-- model automation
-source: https://github.com/henriqueironed385/comfyui-workflow-skill
+deployment_complexity: "Low"
+tags: ["workflow generation", "ComfyUI", "natural language to JSON", "AI agent skill", "model automation"]
+source: "https://github.com/henriqueironed385/comfyui-workflow-skill"
 stars: 0
-language: None
-last_updated: '2026-07-13T22:53:47Z'
-discovered_at: '2026-07-13T22:55:20Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-13T22:53:47Z"
+discovered_at: "2026-07-13T22:55:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

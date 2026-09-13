@@ -1,31 +1,19 @@
 ---
-title: onion-create/fathom-cross-border-cultural-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- HTML
-- JavaScript
-- DeepSeek API
-- Tavily API
-- AI Agents
-- WorkBuddy
-- Claude Code
+title: "onion-create/fathom-cross-border-cultural-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "JavaScript", "DeepSeek API", "Tavily API", "AI Agents", "WorkBuddy", "Claude Code"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- cultural intelligence
-- cross-border business
-- AI playbook generator
-- dialogue simulation
-- Hofstede GLOBE Trompenaars
-source: https://github.com/onion-create/fathom-cross-border-cultural-ai
+deployment_complexity: "Low"
+tags: ["cultural intelligence", "cross-border business", "AI playbook generator", "dialogue simulation", "Hofstede GLOBE Trompenaars"]
+source: "https://github.com/onion-create/fathom-cross-border-cultural-ai"
 stars: 0
-language: HTML
-last_updated: '2026-08-09T06:50:34Z'
-discovered_at: '2026-08-09T06:58:49Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-09T06:50:34Z"
+discovered_at: "2026-08-09T06:58:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

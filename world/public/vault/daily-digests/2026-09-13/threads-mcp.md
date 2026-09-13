@@ -1,29 +1,19 @@
 ---
-title: navidmoazzez/threads-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-13
-tech_stack:
-- TypeScript
-- Node.js
-- Meta Threads API
-- OAuth 2.0
-- Model Context Protocol (MCP)
+title: "navidmoazzez/threads-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Meta Threads API", "OAuth 2.0", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Threads API
-- MCP server
-- AI agent integration
-- social media automation
-- content management
-source: https://github.com/navidmoazzez/threads-mcp
+deployment_complexity: "Medium"
+tags: ["Threads API", "MCP server", "AI agent integration", "social media automation", "content management"]
+source: "https://github.com/navidmoazzez/threads-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T15:42:15Z'
-discovered_at: '2026-09-01T15:55:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T15:42:15Z"
+discovered_at: "2026-09-01T15:55:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

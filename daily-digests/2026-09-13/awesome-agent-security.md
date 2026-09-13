@@ -1,28 +1,19 @@
 ---
-title: nephritispeepshow717/awesome-agent-security
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Markdown
-- GitHub Releases
-- Windows
-- PDF Reader
+title: "nephritispeepshow717/awesome-agent-security"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "GitHub Releases", "Windows", "PDF Reader"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI security
-- agent safety
-- curated resources
-- authorization
-- DevSecOps
-source: https://github.com/nephritispeepshow717/awesome-agent-security
+deployment_complexity: "Low"
+tags: ["AI security", "agent safety", "curated resources", "authorization", "DevSecOps"]
+source: "https://github.com/nephritispeepshow717/awesome-agent-security"
 stars: 0
-language: None
-last_updated: '2026-08-05T21:23:41Z'
-discovered_at: '2026-08-05T22:15:13Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-05T21:23:41Z"
+discovered_at: "2026-08-05T22:15:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

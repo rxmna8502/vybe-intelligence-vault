@@ -1,27 +1,19 @@
 ---
-title: Itzzs6571/teacher-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-13
-tech_stack:
-- Python
-- Windows
-- Local Processing
+title: "Itzzs6571/teacher-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows", "Local Processing"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI tutoring
-- personalized learning
-- teacher modeling
-- skill extraction
-- local processing
-source: https://github.com/Itzzs6571/teacher-skill
+deployment_complexity: "Low"
+tags: ["AI tutoring", "personalized learning", "teacher modeling", "skill extraction", "local processing"]
+source: "https://github.com/Itzzs6571/teacher-skill"
 stars: 0
-language: Python
-last_updated: '2026-07-11T10:59:46Z'
-discovered_at: '2026-07-11T11:03:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T10:59:46Z"
+discovered_at: "2026-07-11T11:03:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
