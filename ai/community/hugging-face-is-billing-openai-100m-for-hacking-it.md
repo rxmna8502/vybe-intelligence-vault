@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:hugging-face-is-billing-openai-100m-for-hacking-it
 first_seen: '2026-09-16T01:17:20.053052+05:30'
 last_seen: '2026-09-16T01:17:20.053052+05:30'
 last_checked: '2026-09-16T01:17:20.053052+05:30'
 health_score: 100
 ---
+
 
 # Hugging Face is billing OpenAI $100M for hacking it
 

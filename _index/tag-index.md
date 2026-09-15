@@ -4951,6 +4951,7 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: Pizza Bot – An inbox for AI agents that work in the background](../ai/community/pizza-bot-app-pizza-bot.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
@@ -6535,8 +6536,9 @@ Resources organized by keyword tags.
 
   - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](../ai/community/a-single-firm-is-behind-openai-anthropic-and-meta.md)
   - [Cartesian – AI 3D Modeling for Design](../ai/community/cartesian-ai-3d-modeling-for-design.md)
-  - [Hugging Face is billing OpenAI $100M for hacking it](../ai/community/hugging-face-is-billing-openai-100m-for-hacking-it.md)
   - [Let's make quality the norm again](../ai/community/let-s-make-quality-the-norm-again.md)
+  - [Show HN: Pizza Bot – An inbox for AI agents that work in the background](../ai/community/pizza-bot-app-pizza-bot.md)
+  - [Suspected sabotage causes major Netherlands rail disruption](../ai/community/suspected-sabotage-causes-major-netherlands-rail-d.md)
 
 ## animation
 
@@ -27864,7 +27866,6 @@ Resources organized by keyword tags.
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [How we’re helping kids and families safely learn, grow and play online](../ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md)
   - [Hp30 & Hp60 - Kp-Index](../ai/rag/hp30-hp60-kp-index.md)
-  - [Hugging Face is billing OpenAI $100M for hacking it](../ai/community/hugging-face-is-billing-openai-100m-for-hacking-it.md)
   - [Human Vision Constrained Super-Resolution](../ai/research/arxiv-2411-17513.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-AI Co-Interpretation for Responsible AI: A Hermeneutic Perspective](../ai/research/arxiv-2609-00334.md)
@@ -28147,6 +28148,7 @@ Resources organized by keyword tags.
   - [Learning to Unlearn: Machine Unlearning via Learning the Unlearning Behaviors](../ai/research/arxiv-2608-16700.md)
   - [Learning to Walk With Less: A Dyna-Style Approach to Quadrupedal Locomotion](../ai/research/arxiv-2509-06296.md)
   - [Learning to reason with LLMs | OpenAI](../ai/rag/learning-to-reason-with-llms-openai.md)
+  - [Learning to solve hard problems in RL for LLMs by never giving up](../ai/community/learning-to-solve-hard-problems-in-rl-for-llms-by.md)
   - [Learning to summarize user information for personalized reinforcement learning from human feedback](../ai/research/arxiv-2507-13579.md)
   - [Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](../ai/agents/arxiv-2506-17913.md)
   - [Learning-Infused Formal Reasoning: From Contract Synthesis to Artifact Reuse and Formal Semantics](../ai/rag/arxiv-2602-02881.md)
@@ -29112,6 +29114,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Pizza Bot – An inbox for AI agents that work in the background](../ai/community/pizza-bot-app-pizza-bot.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -29270,6 +29273,7 @@ Resources organized by keyword tags.
   - [Surrogate-Assisted Genetic Programming with Phenotypic Characterisation in Dynamic Multi-Mode Project Scheduling](../ai/research/arxiv-2609-14418.md)
   - [Surveillance Self-Defense](../ai/resources/surveillance-self-defense.md)
   - [Surveying GenAI-based Automation in Printed Circuit Board Design and Test](../ai/research/arxiv-2606-17074.md)
+  - [Suspected sabotage causes major Netherlands rail disruption](../ai/community/suspected-sabotage-causes-major-netherlands-rail-d.md)
   - [Sustainable Materials Discovery in the Era of Artificial Intelligence](../ai/research/arxiv-2601-21527.md)
   - [SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery](../ai/agents/arxiv-2607-02807.md)
   - [SwiftExplorer: Training-free Diffusion Model Alignment with Swift Diversity Exploration](../ai/research/arxiv-2609-06651.md)
@@ -29756,6 +29760,7 @@ Resources organized by keyword tags.
   - [Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?](../ai/rag/arxiv-2603-24472.md)
   - [Why Fast-Growing Teams Outgrow Spreadsheets | beezwax blog](../ai/rag/why-fast-growing-teams-outgrow-spreadsheets-beezwa.md)
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
+  - [Why I'm still bearish on LLMs after Navier-Stokes](../ai/community/why-i-m-still-bearish-on-llms-after-navier-stokes.md)
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](../ai/research/arxiv-2608-26182.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
@@ -30650,6 +30655,11 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Learning to solve hard problems in RL for LLMs by never giving up](../ai/community/learning-to-solve-hard-problems-in-rl-for-llms-by.md)
+  - [Why I'm still bearish on LLMs after Navier-Stokes](../ai/community/why-i-m-still-bearish-on-llms-after-navier-stokes.md)
 
 ## mdx
 
@@ -37536,7 +37546,6 @@ Resources organized by keyword tags.
   - [How to get Apple Intelligence - Apple Support](../ai/rag/how-to-get-apple-intelligence-apple-support.md)
   - [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
-  - [Hugging Face is billing OpenAI $100M for hacking it](../ai/community/hugging-face-is-billing-openai-100m-for-hacking-it.md)
   - [I wanted it to feel more personal: Customization of social AI as AI individualism in practice](../ai/rag/arxiv-2607-17826.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO](../ai/agents/arxiv-2606-23032.md)
@@ -54003,7 +54012,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -63013,4 +63021,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-16T01:33:41.491320+05:30*
+*Index generated on 2026-09-16T04:46:10.400811+05:30*

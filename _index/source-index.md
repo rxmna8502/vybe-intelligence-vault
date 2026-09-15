@@ -25207,8 +25207,11 @@ Resources organized by publisher feed and query sources.
 
   - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](../ai/community/a-single-firm-is-behind-openai-anthropic-and-meta.md)
   - [Cartesian – AI 3D Modeling for Design](../ai/community/cartesian-ai-3d-modeling-for-design.md)
-  - [Hugging Face is billing OpenAI $100M for hacking it](../ai/community/hugging-face-is-billing-openai-100m-for-hacking-it.md)
+  - [Learning to solve hard problems in RL for LLMs by never giving up](../ai/community/learning-to-solve-hard-problems-in-rl-for-llms-by.md)
   - [Let's make quality the norm again](../ai/community/let-s-make-quality-the-norm-again.md)
+  - [Show HN: Pizza Bot – An inbox for AI agents that work in the background](../ai/community/pizza-bot-app-pizza-bot.md)
+  - [Suspected sabotage causes major Netherlands rail disruption](../ai/community/suspected-sabotage-causes-major-netherlands-rail-d.md)
+  - [Why I'm still bearish on LLMs after Navier-Stokes](../ai/community/why-i-m-still-bearish-on-llms-after-navier-stokes.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -29071,4 +29074,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-16T01:33:41.814710+05:30*
+*Index generated on 2026-09-16T04:46:10.724777+05:30*
