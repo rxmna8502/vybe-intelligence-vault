@@ -1,19 +1,30 @@
 ---
-title: "lodado/playwright-spec-for-AI-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Playwright", "Node.js", "pnpm", "JavaScript/TypeScript", "AI Agents", "Monorepo"]
+title: lodado/playwright-spec-for-AI-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Playwright
+- Node.js
+- pnpm
+- JavaScript/TypeScript
+- AI Agents
+- Monorepo
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["QA Automation", "AI-Assisted Testing", "Browser Exploration", "Persona-Driven", "Playwright Integration"]
-source: "https://github.com/lodado/playwright-spec-for-AI-Agent"
+deployment_complexity: Medium
+tags:
+- QA Automation
+- AI-Assisted Testing
+- Browser Exploration
+- Persona-Driven
+- Playwright Integration
+source: https://github.com/lodado/playwright-spec-for-AI-Agent
 stars: 11
-language: "JavaScript"
-last_updated: "2026-08-02T15:00:59Z"
-discovered_at: "2026-08-02T15:02:32Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T15:00:59Z'
+discovered_at: '2026-08-02T15:02:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "daidaiJ/websearch-mcpserver"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "HTTP/2", "TLS Fingerprinting", "MCP (Model Context Protocol)", "Docker", "systemd/launchd", "ModernC SQLite", "Go Modules"]
+title: daidaiJ/websearch-mcpserver
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Go
+- SQLite
+- HTTP/2
+- TLS Fingerprinting
+- MCP (Model Context Protocol)
+- Docker
+- systemd/launchd
+- ModernC SQLite
+- Go Modules
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Web Search", "Academic Search", "RAG Pipeline", "API Key Pooling"]
-source: "https://github.com/daidaiJ/websearch-mcpserver"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Web Search
+- Academic Search
+- RAG Pipeline
+- API Key Pooling
+source: https://github.com/daidaiJ/websearch-mcpserver
 stars: 15
-language: "Go"
-last_updated: "2026-07-19T07:14:17Z"
-discovered_at: "2026-07-19T07:29:53Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-19T07:14:17Z'
+discovered_at: '2026-07-19T07:29:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,42 @@
 ---
-title: "mdshoebkhanking/shell-ai-os-controller"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "React", "Vite", "Electron", "SQLite", "WebGL", "Gemini", "Silero VAD", "PyAutoGUI", "pywinauto", "Telegram Bot API", "SMTP", "BM25", "TF-IDF", "ONNX", "SQLite", "CI/CD", "GitHub Actions"]
+title: mdshoebkhanking/shell-ai-os-controller
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- React
+- Vite
+- Electron
+- SQLite
+- WebGL
+- Gemini
+- Silero VAD
+- PyAutoGUI
+- pywinauto
+- Telegram Bot API
+- SMTP
+- BM25
+- TF-IDF
+- ONNX
+- SQLite
+- CI/CD
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI desktop assistant", "automation platform", "local-first", "voice control", "runtime diagnostics"]
-source: "https://github.com/mdshoebkhanking/shell-ai-os-controller"
+deployment_complexity: Medium
+tags:
+- AI desktop assistant
+- automation platform
+- local-first
+- voice control
+- runtime diagnostics
+source: https://github.com/mdshoebkhanking/shell-ai-os-controller
 stars: 3
-language: "Python"
-last_updated: "2026-08-07T18:50:16Z"
-discovered_at: "2026-08-07T18:57:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T18:50:16Z'
+discovered_at: '2026-08-07T18:57:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

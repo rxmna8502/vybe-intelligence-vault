@@ -1,19 +1,30 @@
 ---
-title: "Wynelson94/longhand"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "ChromaDB", "ONNX", "Claude Code", "MCP (Model Context Protocol)"]
+title: Wynelson94/longhand
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- SQLite
+- ChromaDB
+- ONNX
+- Claude Code
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local memory", "Claude Code", "session recall", "lossless storage", "persistent history"]
-source: "https://github.com/Wynelson94/longhand"
+deployment_complexity: Medium
+tags:
+- local memory
+- Claude Code
+- session recall
+- lossless storage
+- persistent history
+source: https://github.com/Wynelson94/longhand
 stars: 11
-language: "Python"
-last_updated: "2026-07-10T20:20:27Z"
-discovered_at: "2026-07-10T20:22:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T20:20:27Z'
+discovered_at: '2026-07-10T20:22:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

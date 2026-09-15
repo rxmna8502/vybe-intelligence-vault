@@ -1,19 +1,28 @@
 ---
-title: "amikai/openings-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Docker", "Homebrew"]
+title: amikai/openings-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Docker
+- Homebrew
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["job search", "MCP server", "aggregator", "career sites", "automation"]
-source: "https://github.com/amikai/openings-mcp"
+deployment_complexity: Low
+tags:
+- job search
+- MCP server
+- aggregator
+- career sites
+- automation
+source: https://github.com/amikai/openings-mcp
 stars: 20
-language: "Go"
-last_updated: "2026-07-10T13:07:30Z"
-discovered_at: "2026-07-10T13:11:14Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-10T13:07:30Z'
+discovered_at: '2026-07-10T13:11:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

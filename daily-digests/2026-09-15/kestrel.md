@@ -1,19 +1,31 @@
 ---
-title: "John-MiracleWorker/Kestrel"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "Memvid v2", "MCP (Model Context Protocol)", "Docker", "Node.js", "OCI (Open Container Initiative)"]
+title: John-MiracleWorker/Kestrel
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- SQLite
+- Memvid v2
+- MCP (Model Context Protocol)
+- Docker
+- Node.js
+- OCI (Open Container Initiative)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent runtime", "memory-native", "local-first", "safe automation", "proactive routines"]
-source: "https://github.com/John-MiracleWorker/Kestrel"
+deployment_complexity: Medium
+tags:
+- AI agent runtime
+- memory-native
+- local-first
+- safe automation
+- proactive routines
+source: https://github.com/John-MiracleWorker/Kestrel
 stars: 5
-language: "Python"
-last_updated: "2026-08-04T21:12:32Z"
-discovered_at: "2026-08-04T21:14:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T21:12:32Z'
+discovered_at: '2026-08-04T21:14:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

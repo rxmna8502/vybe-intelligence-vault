@@ -1,19 +1,31 @@
 ---
-title: "toolate28/coherence-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "Rust (companion projects)", "Agda (formal verification)", "CUDA (companion projects)", "JSON-RPC"]
+title: toolate28/coherence-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- Rust (companion projects)
+- Agda (formal verification)
+- CUDA (companion projects)
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "SAIF framework", "governance", "safety primitives", "formal verification"]
-source: "https://github.com/toolate28/coherence-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- SAIF framework
+- governance
+- safety primitives
+- formal verification
+source: https://github.com/toolate28/coherence-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-02T20:52:45Z"
-discovered_at: "2026-08-02T20:54:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T20:52:45Z'
+discovered_at: '2026-08-02T20:54:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

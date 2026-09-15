@@ -1,19 +1,35 @@
 ---
-title: "MirLunaDEV/local-realtime-search"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SearXNG", "Docker", "LM Studio", "MCP (Model Context Protocol)", "SQLite", "wttr.in", "Crawl4AI", "uv (Python package manager)", "PowerShell"]
+title: MirLunaDEV/local-realtime-search
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastAPI
+- SearXNG
+- Docker
+- LM Studio
+- MCP (Model Context Protocol)
+- SQLite
+- wttr.in
+- Crawl4AI
+- uv (Python package manager)
+- PowerShell
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["local search", "MCP integration", "LM Studio", "real-time research", "SearXNG"]
-source: "https://github.com/MirLunaDEV/local-realtime-search"
+deployment_complexity: Medium
+tags:
+- local search
+- MCP integration
+- LM Studio
+- real-time research
+- SearXNG
+source: https://github.com/MirLunaDEV/local-realtime-search
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T14:53:46Z"
-discovered_at: "2026-08-02T15:03:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T14:53:46Z'
+discovered_at: '2026-08-02T15:03:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

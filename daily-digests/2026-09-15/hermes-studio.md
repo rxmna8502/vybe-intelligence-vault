@@ -1,19 +1,36 @@
 ---
-title: "EKKOLearnAI/hermes-studio"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Vue.js", "Node.js", "Electron", "SQLite", "Socket.IO", "Docker", "Python", "MCP (Model Context Protocol)", "REST APIs", "Cron", "WebSockets"]
+title: EKKOLearnAI/hermes-studio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Vue.js
+- Node.js
+- Electron
+- SQLite
+- Socket.IO
+- Docker
+- Python
+- MCP (Model Context Protocol)
+- REST APIs
+- Cron
+- WebSockets
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "AI workspace", "agent coordination", "local runtime", "automation"]
-source: "https://github.com/EKKOLearnAI/hermes-studio"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- AI workspace
+- agent coordination
+- local runtime
+- automation
+source: https://github.com/EKKOLearnAI/hermes-studio
 stars: 10804
-language: "TypeScript"
-last_updated: "2026-09-03T08:26:39Z"
-discovered_at: "2026-09-03T08:31:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T08:26:39Z'
+discovered_at: '2026-09-03T08:31:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

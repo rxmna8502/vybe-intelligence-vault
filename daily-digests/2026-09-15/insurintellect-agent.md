@@ -1,19 +1,32 @@
 ---
-title: "Phoenix0531-sudo/InsurIntellect-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Chroma (Vector DB)", "BM25 (with jieba)", "BGE (Embeddings)", "OpenAI-compatible LLM", "HTML/CSS/JS (UI)", "GitHub Actions (CI)"]
+title: Phoenix0531-sudo/InsurIntellect-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastAPI
+- Chroma (Vector DB)
+- BM25 (with jieba)
+- BGE (Embeddings)
+- OpenAI-compatible LLM
+- HTML/CSS/JS (UI)
+- GitHub Actions (CI)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "Insurance", "Clause-grounded", "Hybrid retrieval", "Evidence-based"]
-source: "https://github.com/Phoenix0531-sudo/InsurIntellect-Agent"
+deployment_complexity: Medium
+tags:
+- RAG
+- Insurance
+- Clause-grounded
+- Hybrid retrieval
+- Evidence-based
+source: https://github.com/Phoenix0531-sudo/InsurIntellect-Agent
 stars: 4
-language: "Python"
-last_updated: "2026-08-08T14:28:30Z"
-discovered_at: "2026-08-08T14:35:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T14:28:30Z'
+discovered_at: '2026-08-08T14:35:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

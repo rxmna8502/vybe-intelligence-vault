@@ -1,19 +1,31 @@
 ---
-title: "yanglongyun/deepseek-os"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Node.js", "React", "SQLite", "DeepSeek API", "Agent Framework"]
+title: yanglongyun/deepseek-os
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- React
+- SQLite
+- DeepSeek API
+- Agent Framework
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local AI", "agent framework", "Electron desktop", "persistent applications", "DeepSeek integration"]
-source: "https://github.com/yanglongyun/deepseek-os"
+deployment_complexity: Medium
+tags:
+- local AI
+- agent framework
+- Electron desktop
+- persistent applications
+- DeepSeek integration
+source: https://github.com/yanglongyun/deepseek-os
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T10:32:34Z"
-discovered_at: "2026-08-04T10:39:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T10:32:34Z'
+discovered_at: '2026-08-04T10:39:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

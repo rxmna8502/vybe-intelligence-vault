@@ -1,19 +1,39 @@
 ---
-title: "lyonzin/knowledge-rag"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "ONNX", "ChromaDB", "FastEmbed", "MCP (Model Context Protocol)", "NVIDIA CUDA", "PyPI", "NPM", "Docker", "pytest", "GitHub Actions", "Prometheus", "Bandit", "Semgrep", "CodeQL"]
+title: lyonzin/knowledge-rag
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- ONNX
+- ChromaDB
+- FastEmbed
+- MCP (Model Context Protocol)
+- NVIDIA CUDA
+- PyPI
+- NPM
+- Docker
+- pytest
+- GitHub Actions
+- Prometheus
+- Bandit
+- Semgrep
+- CodeQL
 quality_score: 10
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["local RAG", "MCP server", "hybrid search", "zero cloud", "ONNX"]
-source: "https://github.com/lyonzin/knowledge-rag"
+deployment_complexity: Medium
+tags:
+- local RAG
+- MCP server
+- hybrid search
+- zero cloud
+- ONNX
+source: https://github.com/lyonzin/knowledge-rag
 stars: 240
-language: "Python"
-last_updated: "2026-08-01T19:11:17Z"
-discovered_at: "2026-08-01T19:19:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:11:17Z'
+discovered_at: '2026-08-01T19:19:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

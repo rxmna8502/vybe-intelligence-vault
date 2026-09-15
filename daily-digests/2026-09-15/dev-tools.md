@@ -1,19 +1,34 @@
 ---
-title: "peshanghamd653-ctrl/dev-tools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri v2", "React 19", "SQLite", "WebView2", "Node.js", "pnpm", "Ollama", "Claude API", "Gemini API"]
+title: peshanghamd653-ctrl/dev-tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Tauri v2
+- React 19
+- SQLite
+- WebView2
+- Node.js
+- pnpm
+- Ollama
+- Claude API
+- Gemini API
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Windows development", "AI-powered tools", "keyboard-driven", "offline-first", "modular workspace"]
-source: "https://github.com/peshanghamd653-ctrl/dev-tools"
+deployment_complexity: Medium
+tags:
+- Windows development
+- AI-powered tools
+- keyboard-driven
+- offline-first
+- modular workspace
+source: https://github.com/peshanghamd653-ctrl/dev-tools
 stars: 1
-language: "Rust"
-last_updated: "2026-08-08T23:25:52Z"
-discovered_at: "2026-08-08T23:31:39Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T23:25:52Z'
+discovered_at: '2026-08-08T23:31:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

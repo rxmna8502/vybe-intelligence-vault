@@ -1,19 +1,27 @@
 ---
-title: "edouarduniversalistic5831/sbti-wiki"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "HTML/CSS/JavaScript", "Windows Installer"]
+title: edouarduniversalistic5831/sbti-wiki
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Electron
+- HTML/CSS/JavaScript
+- Windows Installer
 quality_score: 6
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["personality assessment", "desktop application", "Chinese language", "SBTI test", "offline reference"]
-source: "https://github.com/edouarduniversalistic5831/sbti-wiki"
+deployment_complexity: Low
+tags:
+- personality assessment
+- desktop application
+- Chinese language
+- SBTI test
+- offline reference
+source: https://github.com/edouarduniversalistic5831/sbti-wiki
 stars: 0
-language: "HTML"
-last_updated: "2026-07-11T11:02:02Z"
-discovered_at: "2026-07-11T11:03:31Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-11T11:02:02Z'
+discovered_at: '2026-07-11T11:03:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

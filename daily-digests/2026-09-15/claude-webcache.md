@@ -1,19 +1,30 @@
 ---
-title: "theYahia/claude-webcache"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "SQLite", "Node.js", "MCP (Model Context Protocol)", "TypeScript (implicit via Node.js 22.5+)", "CLI tools"]
+title: theYahia/claude-webcache
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- SQLite
+- Node.js
+- MCP (Model Context Protocol)
+- TypeScript (implicit via Node.js 22.5+)
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["caching", "Claude Code", "WebFetch", "persistent storage", "performance optimization"]
-source: "https://github.com/theYahia/claude-webcache"
+deployment_complexity: Low
+tags:
+- caching
+- Claude Code
+- WebFetch
+- persistent storage
+- performance optimization
+source: https://github.com/theYahia/claude-webcache
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-02T19:11:23Z"
-discovered_at: "2026-09-02T19:13:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T19:11:23Z'
+discovered_at: '2026-09-02T19:13:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

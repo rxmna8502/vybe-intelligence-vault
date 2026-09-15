@@ -1,19 +1,31 @@
 ---
-title: "anbturki/docsreader"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "Markdown", "MCP (Model Context Protocol)", "KaTeX", "Mermaid", "Shiki"]
+title: anbturki/docsreader
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Electron
+- Markdown
+- MCP (Model Context Protocol)
+- KaTeX
+- Mermaid
+- Shiki
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["markdown reader", "AI agent interface", "native desktop app", "MCP integration", "task management"]
-source: "https://github.com/anbturki/docsreader"
+deployment_complexity: Low
+tags:
+- markdown reader
+- AI agent interface
+- native desktop app
+- MCP integration
+- task management
+source: https://github.com/anbturki/docsreader
 stars: 4
-language: "TypeScript"
-last_updated: "2026-07-11T14:45:09Z"
-discovered_at: "2026-07-11T14:52:10Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T14:45:09Z'
+discovered_at: '2026-07-11T14:52:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "theYahia/sms-ru-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SMS.RU API"]
+title: theYahia/sms-ru-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SMS.RU API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["SMS integration", "MCP server", "Russian API", "AI assistant tools", "automation"]
-source: "https://github.com/theYahia/sms-ru-mcp"
+deployment_complexity: Low
+tags:
+- SMS integration
+- MCP server
+- Russian API
+- AI assistant tools
+- automation
+source: https://github.com/theYahia/sms-ru-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T19:12:09Z"
-discovered_at: "2026-09-02T19:13:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:12:09Z'
+discovered_at: '2026-09-02T19:13:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "0717376/bender"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Claude Agent SDK", "FastAPI", "Python", "React", "SQLite", "Docker", "Telegram Bot API", "Markdown", "PWA", "SSE (Server-Sent Events)", "Cron Scheduling"]
+title: 0717376/bender
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Claude Agent SDK
+- FastAPI
+- Python
+- React
+- SQLite
+- Docker
+- Telegram Bot API
+- Markdown
+- PWA
+- SSE (Server-Sent Events)
+- Cron Scheduling
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal AI agent", "self-hosted", "markdown wiki", "task management", "Telegram integration"]
-source: "https://github.com/0717376/bender"
+deployment_complexity: Medium
+tags:
+- personal AI agent
+- self-hosted
+- markdown wiki
+- task management
+- Telegram integration
+source: https://github.com/0717376/bender
 stars: 2
-language: "Python"
-last_updated: "2026-08-08T20:21:12Z"
-discovered_at: "2026-08-08T20:32:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T20:21:12Z'
+discovered_at: '2026-08-08T20:32:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

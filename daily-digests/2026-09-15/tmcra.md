@@ -1,19 +1,36 @@
 ---
-title: "reshuibuduo/tmcra"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "CUDA", "llama-server", "Qwen3.6-35B-A3B", "BAAI/bge-m3", "BAAI/bge-reranker-v2-m3", "SQLite", "FastAPI", "MCP", "Docker", "C++", "Mermaid.js"]
+title: reshuibuduo/tmcra
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- CUDA
+- llama-server
+- Qwen3.6-35B-A3B
+- BAAI/bge-m3
+- BAAI/bge-reranker-v2-m3
+- SQLite
+- FastAPI
+- MCP
+- Docker
+- C++
+- Mermaid.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["memory infrastructure", "self-hosted", "attributable evidence", "knowledge graph", "AI agents"]
-source: "https://github.com/reshuibuduo/tmcra"
+deployment_complexity: High
+tags:
+- memory infrastructure
+- self-hosted
+- attributable evidence
+- knowledge graph
+- AI agents
+source: https://github.com/reshuibuduo/tmcra
 stars: 1
-language: "Python"
-last_updated: "2026-09-03T19:01:58Z"
-discovered_at: "2026-09-03T19:08:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T19:01:58Z'
+discovered_at: '2026-09-03T19:08:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

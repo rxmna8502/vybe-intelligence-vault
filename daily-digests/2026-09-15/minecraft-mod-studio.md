@@ -1,19 +1,32 @@
 ---
-title: "XiLuovo/minecraft-mod-studio"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "React", "NeoForge", "Java", "Gradle", "TypeScript", "Node.js", "CI/CD (GitHub Actions)"]
+title: XiLuovo/minecraft-mod-studio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- React
+- NeoForge
+- Java
+- Gradle
+- TypeScript
+- Node.js
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Minecraft modding", "AI-assisted development", "sandboxed execution", "deterministic validation", "change management"]
-source: "https://github.com/XiLuovo/minecraft-mod-studio"
+deployment_complexity: Medium
+tags:
+- Minecraft modding
+- AI-assisted development
+- sandboxed execution
+- deterministic validation
+- change management
+source: https://github.com/XiLuovo/minecraft-mod-studio
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T13:01:11Z"
-discovered_at: "2026-08-07T13:02:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T13:01:11Z'
+discovered_at: '2026-08-07T13:02:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "Kartik281204/MCP-Tool-Server"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "FastAPI", "Pydantic", "Docker", "uv", "Starlette", "httpx", "pytest", "ruff", "mypy"]
+title: Kartik281204/MCP-Tool-Server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastMCP
+- FastAPI
+- Pydantic
+- Docker
+- uv
+- Starlette
+- httpx
+- pytest
+- ruff
+- mypy
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "AI agents", "tool server", "FastAPI", "Pydantic"]
-source: "https://github.com/Kartik281204/MCP-Tool-Server"
+deployment_complexity: Medium
+tags:
+- MCP
+- AI agents
+- tool server
+- FastAPI
+- Pydantic
+source: https://github.com/Kartik281204/MCP-Tool-Server
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T06:47:59Z"
-discovered_at: "2026-08-09T06:58:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T06:47:59Z'
+discovered_at: '2026-08-09T06:58:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

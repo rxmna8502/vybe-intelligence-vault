@@ -1,19 +1,30 @@
 ---
-title: "cizekmilan/llm-large-data-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LLM (Large Language Models)", "OpenAPI", "MCP (Model Context Protocol)", "JSON-RPC", "REST APIs"]
+title: cizekmilan/llm-large-data-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- LLM (Large Language Models)
+- OpenAPI
+- MCP (Model Context Protocol)
+- JSON-RPC
+- REST APIs
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["LLM orchestration", "context window management", "semantic reduction", "large-scale data processing", "adaptive chunking"]
-source: "https://github.com/cizekmilan/llm-large-data-agent"
+deployment_complexity: Medium
+tags:
+- LLM orchestration
+- context window management
+- semantic reduction
+- large-scale data processing
+- adaptive chunking
+source: https://github.com/cizekmilan/llm-large-data-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T09:16:21Z"
-discovered_at: "2026-07-18T09:23:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T09:16:21Z'
+discovered_at: '2026-07-18T09:23:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

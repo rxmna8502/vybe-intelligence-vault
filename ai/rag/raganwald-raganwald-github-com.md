@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-09-14T04:01:35.039899+05:30'
+collected_at: '2026-09-15T19:12:08.080788+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
 - html
 - rag
-- workflows
 stars: 30
 language: HTML
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-09-14T04:01:35.039899+05:30'
-last_seen: '2026-09-14T04:01:35.039899+05:30'
-last_checked: '2026-09-14T04:01:35.039899+05:30'
+first_seen: '2026-09-15T19:12:08.080788+05:30'
+last_seen: '2026-09-15T19:12:08.080788+05:30'
+last_checked: '2026-09-15T19:12:08.080788+05:30'
 health_score: 100
 ---
 
@@ -28,8 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   `raganwald/raganwald.github.com` serves as the Jekyll source for `raganwald.com`, indicating a static site generation workflow.
-*   The repository'
+*   Jekyll source repository (`raganwald/raganwald.github.com`) for `raganwald.com` static site generation.
+*   Primary codebase language is HTML, reflecting the output of the Jekyll build process.
+*   Repository last updated `2026-07-08T15:07:53Z`, with 30 stars and 59 forks indicating moderate community engagement.
 
 ## Why It Matters
 

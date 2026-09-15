@@ -1,19 +1,36 @@
 ---
-title: "LastSearch-HQ/lastsearch"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "REST API", "MCP Server", "LangChain", "Node.js", "FastAPI", "Vector Search", "LLM Integration", "Streaming (SSE)", "Exponential Backoff", "Session Management"]
+title: LastSearch-HQ/lastsearch
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Python
+- REST API
+- MCP Server
+- LangChain
+- Node.js
+- FastAPI
+- Vector Search
+- LLM Integration
+- Streaming (SSE)
+- Exponential Backoff
+- Session Management
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Evidence-backed search", "Confidence scoring", "Multi-agent research", "Anti-hallucination"]
-source: "https://github.com/LastSearch-HQ/lastsearch"
+deployment_complexity: Medium
+tags:
+- RAG
+- Evidence-backed search
+- Confidence scoring
+- Multi-agent research
+- Anti-hallucination
+source: https://github.com/LastSearch-HQ/lastsearch
 stars: 20
-language: "TypeScript"
-last_updated: "2026-09-02T08:08:50Z"
-discovered_at: "2026-09-02T08:23:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:08:50Z'
+discovered_at: '2026-09-02T08:23:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

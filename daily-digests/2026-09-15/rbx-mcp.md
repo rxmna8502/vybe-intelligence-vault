@@ -1,19 +1,31 @@
 ---
-title: "lolofuk123/rbx-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Lua", "Roblox Studio", "HTTP Server", "NPM"]
+title: lolofuk123/rbx-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Lua
+- Roblox Studio
+- HTTP Server
+- NPM
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Roblox", "MCP", "Lua execution", "AI agent integration", "Studio automation"]
-source: "https://github.com/lolofuk123/rbx-mcp"
+deployment_complexity: Medium
+tags:
+- Roblox
+- MCP
+- Lua execution
+- AI agent integration
+- Studio automation
+source: https://github.com/lolofuk123/rbx-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T08:32:29Z"
-discovered_at: "2026-08-05T08:35:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:32:29Z'
+discovered_at: '2026-08-05T08:35:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

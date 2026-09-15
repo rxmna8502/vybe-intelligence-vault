@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-09-12T17:47:31.611288+05:30'
-collected_at: '2026-09-12T17:47:31.611301+05:30'
+published_at: '2026-09-15T19:12:15.829251+05:30'
+collected_at: '2026-09-15T19:12:15.829268+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-09-12T17:47:31.611301+05:30'
-last_seen: '2026-09-12T17:47:31.611301+05:30'
-last_checked: '2026-09-12T17:47:31.611301+05:30'
+first_seen: '2026-09-15T19:12:15.829268+05:30'
+last_seen: '2026-09-15T19:12:15.829268+05:30'
+last_checked: '2026-09-15T19:12:15.829268+05:30'
 health_score: 100
 ---
 
@@ -36,9 +36,7 @@ health_score: 100
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by dynamically retrieving external, contextually relevant data from knowledge sources, mitigating knowledge cut-off and hallucination for improved response accuracy and domain specificity.
-*   RAG frameworks are architecturally modular and pipeline-centric, integrating components such as document loaders, text chunkers, embedding models, vector stores, sophisticated retrievers, and LLM generators to orchestrate context-aware response synthesis.
-*   Key open-source RAG toolkits (e.g., LangChain, Haystack, L
+*   Retrieval-Augmented Generation (RAG) systems enhance LLM capabilities
 
 ## Why It Matters
 
@@ -48,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-12T17:47:31.611288+05:30
+- Published: 2026-09-15T19:12:15.829251+05:30
 
 ## Related Tags
 

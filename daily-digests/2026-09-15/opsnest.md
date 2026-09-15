@@ -1,19 +1,30 @@
 ---
-title: "HANSHOJIN/opsnest"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "SSH", "AI Agent", "CodexShell", "Systemd", "Crontab"]
+title: HANSHOJIN/opsnest
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- SSH
+- AI Agent
+- CodexShell
+- Systemd
+- Crontab
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["server management", "AI-driven automation", "SSH management", "plain language control", "desktop shell"]
-source: "https://github.com/HANSHOJIN/opsnest"
+deployment_complexity: Medium
+tags:
+- server management
+- AI-driven automation
+- SSH management
+- plain language control
+- desktop shell
+source: https://github.com/HANSHOJIN/opsnest
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T09:38:57Z"
-discovered_at: "2026-08-06T09:42:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T09:38:57Z'
+discovered_at: '2026-08-06T09:42:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

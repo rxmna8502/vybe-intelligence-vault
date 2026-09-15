@@ -1,19 +1,34 @@
 ---
-title: "vgtitov/bsl-ai-toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "BSL (1C:Enterprise)", "Model Context Protocol (MCP)", "1C:EDT", "Git", "Docker", "Jira", "Confluence", "Zabbix", "Prometheus"]
+title: vgtitov/bsl-ai-toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- BSL (1C:Enterprise)
+- Model Context Protocol (MCP)
+- 1C:EDT
+- Git
+- Docker
+- Jira
+- Confluence
+- Zabbix
+- Prometheus
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-assisted development", "1C:Enterprise", "metadata editing", "multi-agent framework", "byte-perfect"]
-source: "https://github.com/vgtitov/bsl-ai-toolkit"
+deployment_complexity: Medium
+tags:
+- AI-assisted development
+- 1C:Enterprise
+- metadata editing
+- multi-agent framework
+- byte-perfect
+source: https://github.com/vgtitov/bsl-ai-toolkit
 stars: 11
-language: "Python"
-last_updated: "2026-08-04T17:49:30Z"
-discovered_at: "2026-08-04T17:50:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T17:49:30Z'
+discovered_at: '2026-08-04T17:50:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

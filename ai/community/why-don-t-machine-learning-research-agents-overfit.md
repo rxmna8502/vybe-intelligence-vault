@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - machine learning
-status: active
+status: inactive
 resource_id: hackernews:why-don-t-machine-learning-research-agents-overfit
 first_seen: '2026-09-15T10:32:53.987742+05:30'
 last_seen: '2026-09-15T10:32:53.987742+05:30'
 last_checked: '2026-09-15T10:32:53.987742+05:30'
 health_score: 100
 ---
+
 
 # Why don't machine learning research agents overfit?
 

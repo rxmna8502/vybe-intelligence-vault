@@ -1,19 +1,30 @@
 ---
-title: "perforate-org/gleaph"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Internet Computer (ICP)", "GQL (Graph Query Language)", "CSR (Compressed Sparse Row)", "Stable Memory", "Canister Architecture"]
+title: perforate-org/gleaph
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Internet Computer (ICP)
+- GQL (Graph Query Language)
+- CSR (Compressed Sparse Row)
+- Stable Memory
+- Canister Architecture
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["Graph Database", "Vector Search", "GraphRAG", "Decentralized", "Internet Computer"]
-source: "https://github.com/perforate-org/gleaph"
+deployment_complexity: High
+tags:
+- Graph Database
+- Vector Search
+- GraphRAG
+- Decentralized
+- Internet Computer
+source: https://github.com/perforate-org/gleaph
 stars: 2
-language: "Rust"
-last_updated: "2026-08-08T06:52:43Z"
-discovered_at: "2026-08-08T07:52:49Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T06:52:43Z'
+discovered_at: '2026-08-08T07:52:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

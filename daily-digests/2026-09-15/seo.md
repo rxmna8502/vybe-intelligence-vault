@@ -1,19 +1,35 @@
 ---
-title: "110kc3/seo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Cloudflare Workers", "GitHub Actions", "x402 (HTTP 402) payment protocol", "Blockchain (on-chain receipt verification)", "Analytics Engine", "JSON-LD", "Schema.org", "Ed25519 (HTTP Message Signatures)", "MCP (Model Context Protocol) server"]
+title: 110kc3/seo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- Cloudflare Workers
+- GitHub Actions
+- x402 (HTTP 402) payment protocol
+- Blockchain (on-chain receipt verification)
+- Analytics Engine
+- JSON-LD
+- Schema.org
+- Ed25519 (HTTP Message Signatures)
+- MCP (Model Context Protocol) server
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI product registry", "agent-discoverable", "blockchain payments", "static site generation", "autonomous registration"]
-source: "https://github.com/110kc3/seo"
+deployment_complexity: Medium
+tags:
+- AI product registry
+- agent-discoverable
+- blockchain payments
+- static site generation
+- autonomous registration
+source: https://github.com/110kc3/seo
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T08:57:53Z"
-discovered_at: "2026-08-01T09:06:34Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T08:57:53Z'
+discovered_at: '2026-08-01T09:06:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

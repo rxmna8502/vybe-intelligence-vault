@@ -1,19 +1,29 @@
 ---
-title: "rookie136/bg-tasks-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTP Dashboard", "JSONL Logging"]
+title: rookie136/bg-tasks-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- HTTP Dashboard
+- JSONL Logging
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["process management", "MCP server", "AI agent tools", "background tasks", "dev server automation"]
-source: "https://github.com/rookie136/bg-tasks-mcp"
+deployment_complexity: Low
+tags:
+- process management
+- MCP server
+- AI agent tools
+- background tasks
+- dev server automation
+source: https://github.com/rookie136/bg-tasks-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-09T09:41:24Z"
-discovered_at: "2026-08-09T09:43:06Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T09:41:24Z'
+discovered_at: '2026-08-09T09:43:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

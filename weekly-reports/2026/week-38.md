@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **1864** new resources across our source networks.
+During this cycle, we discovered **1007** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -23,7 +23,7 @@ This week had strong activity around frontend tools.
 |---|---:|
 | ai/models | 806 |
 | ai/research | 538 |
-| ai/rag | 319 |
+| ai/rag | 334 |
 | ai/agents | 231 |
 | web-development/nextjs | 66 |
 | web-development | 25 |
@@ -38,28 +38,28 @@ This week had strong activity around frontend tools.
 
 | Tag | Count |
 |---|---:|
-| benchmark | 469 |
-| rag | 319 |
-| agents | 311 |
-| models | 292 |
-| dataset | 257 |
-| paper | 173 |
-| hackernews | 124 |
-| frontend_ui | 120 |
-| youtube | 85 |
-| workflows | 62 |
-| meta-ai | 52 |
+| benchmark | 475 |
+| rag | 334 |
+| agents | 317 |
+| models | 299 |
+| dataset | 260 |
+| paper | 175 |
+| hackernews | 129 |
+| frontend_ui | 121 |
+| youtube | 89 |
+| workflows | 69 |
+| meta-ai | 58 |
 | leaderboard | 42 |
+| openai | 39 |
 | blog-post | 39 |
-| anthropic | 34 |
-| reddit | 34 |
+| reddit | 38 |
 
 ## Weekly Community Updates
 
-1. [OpenAI bots knew about the RubyGems caching vulnerability](../../ai/community/openai-bots-knew-about-the-rubygems-caching-vulner.md) ([Source](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive)) (HN Score: 411) - `ai/community`
-2. [Why don't machine learning research agents overfit?](../../ai/community/why-don-t-machine-learning-research-agents-overfit.md) ([Source](https://amazon.science/blog/why-dont-machine-learning-research-agents-overfit)) (HN Score: 115) - `ai/community`
-3. [Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](../../ai/community/ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ce.md) ([Source](https://theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)) (HN Score: 97) - `ai/community`
-4. [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](../../ai/community/dropping-ebpf-cpu-cost-by-about-90-with-memoizatio.md) ([Source](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90)) (HN Score: 73) - `ai/community`
+1. [OpenAI bots knew about the RubyGems caching vulnerability](../../ai/community/openai-bots-knew-about-the-rubygems-caching-vulner.md) ([Source](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive)) (HN Score: 490) - `ai/community`
+2. [Suspected sabotage causes major Netherlands rail disruption](../../ai/community/suspected-sabotage-causes-major-netherlands-rail-d.md) ([Source](https://bbc.com/news/articles/c8ly49w9g1edo)) (HN Score: 251) - `ai/community`
+3. [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](../../ai/community/dropping-ebpf-cpu-cost-by-about-90-with-memoizatio.md) ([Source](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90)) (HN Score: 141) - `ai/community`
+4. [OpenAI buys smartphone camera maker Glass Imaging for $300M](../../ai/community/openai-buys-smartphone-camera-maker-glass-imaging.md) ([Source](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says)) (HN Score: 39) - `ai/community`
 5. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
 6. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
 7. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
@@ -77,8 +77,8 @@ This week had strong activity around frontend tools.
 19. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
 20. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
 21. [allenai/c4](../../ai/models/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/models`
-22. [xlangai/ubuntu_osworld_file_cache](../../ai/models/huggingface-datasets-xlangai.md) ([Source](https://huggingface.co/datasets/xlangai)) - `ai/models`
-23. [tasl-lab/uniocc](../../ai/agents/huggingface-datasets-tasl-lab.md) ([Source](https://huggingface.co/datasets/tasl-lab)) - `ai/agents`
+22. [tasl-lab/uniocc](../../ai/agents/huggingface-datasets-tasl-lab.md) ([Source](https://huggingface.co/datasets/tasl-lab)) - `ai/agents`
+23. [xlangai/ubuntu_osworld_file_cache](../../ai/models/huggingface-datasets-xlangai.md) ([Source](https://huggingface.co/datasets/xlangai)) - `ai/models`
 24. [openai/gsm8k](../../ai/models/huggingface-datasets-openai.md) ([Source](https://huggingface.co/datasets/openai)) - `ai/models`
 25. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
 26. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
@@ -190,6 +190,14 @@ This week had strong activity around frontend tools.
 132. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
 133. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
 134. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
+135. [RAG Chatbot Application🤖 | RAG](../../ai/rag/rag-chatbot-application-rag.md) ([Source](https://todap.github.io/rag)) - `ai/rag`
+136. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
+137. [Google Colab](../../ai/rag/google-colab.md) ([Source](https://colab.research.google.com/github/shubham526/mst-rag-tutorial/blob/main/tutorials/rag_tutorial.ipynb)) - `ai/rag`
+138. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) - `ai/rag`
+139. [15 Best Open-Source RAG Frameworks in 2026](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
+140. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
+141. [Top RAG open-source projects (2026) | Trendshift](../../ai/rag/top-rag-open-source-projects-2026-trendshift.md) ([Source](https://trendshift.io/topics/rag)) - `ai/rag`
+142. [Medium](../../ai/rag/medium-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -2092,19 +2100,26 @@ No updates collected under this section this week.
 ## Weekly Product Launches
 
 1. [vercel/ai](../../ai/agents/vercel-ai.md) ([Source](https://github.com/vercel/ai)) (Stars: 0, Language: Unknown) - `ai/agents`
-2. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
-3. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+2. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+3. [NirDiamant/RAG_TECHNIQUES](../../ai/rag/nirdiamant-rag-techniques.md) ([Source](https://github.com/nirdiamant/rag_techniques)) (Stars: 0, Language: Unknown) - `ai/rag`
 4. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
-5. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
-6. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+5. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+6. [NVIDIA/workbench-example-hybrid-rag](../../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([Source](https://github.com/nvidia/workbench-example-hybrid-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+7. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+8. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+9. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+10. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+11. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+12. [dannyblaker/rag-tutorial](../../ai/rag/dannyblaker-rag-tutorial.md) ([Source](https://github.com/dannyblaker/rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
+13. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
-- [RAG](../../skills/rag.md) (320 updates)
-- [Vector Databases](../../skills/vector-databases.md) (320 updates)
-- [AI Agents](../../skills/ai-agents.md) (266 updates)
-- [Workflow Automation](../../skills/automation.md) (139 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (133 updates)
+- [RAG](../../skills/rag.md) (335 updates)
+- [Vector Databases](../../skills/vector-databases.md) (335 updates)
+- [AI Agents](../../skills/ai-agents.md) (267 updates)
+- [Workflow Automation](../../skills/automation.md) (152 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (140 updates)
 - [LLMOps](../../skills/llmops.md) (87 updates)
 - [Local LLMs & Inference](../../skills/local-llm.md) (38 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (36 updates)
@@ -2118,4 +2133,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-09-15T10:52:55.632959+05:30
+2026-09-15T19:27:34.427887+05:30

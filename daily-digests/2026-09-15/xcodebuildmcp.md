@@ -1,19 +1,31 @@
 ---
-title: "getsentry/XcodeBuildMCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Swift", "Xcode", "CLI", "Homebrew"]
+title: getsentry/XcodeBuildMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Swift
+- Xcode
+- CLI
+- Homebrew
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["iOS development", "macOS development", "MCP server", "AI agent tools", "Xcode automation"]
-source: "https://github.com/getsentry/XcodeBuildMCP"
+deployment_complexity: Medium
+tags:
+- iOS development
+- macOS development
+- MCP server
+- AI agent tools
+- Xcode automation
+source: https://github.com/getsentry/XcodeBuildMCP
 stars: 6101
-language: "TypeScript"
-last_updated: "2026-07-21T12:19:42Z"
-discovered_at: "2026-07-21T12:23:53Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T12:19:42Z'
+discovered_at: '2026-07-21T12:23:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

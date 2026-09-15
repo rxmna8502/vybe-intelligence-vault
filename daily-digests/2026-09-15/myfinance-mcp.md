@@ -1,19 +1,32 @@
 ---
-title: "alex-odoo/myfinance-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Bun", "Express", "MCP SDK", "OAuth 2.1", "Prisma", "PostgreSQL", "Docker", "TypeScript"]
+title: alex-odoo/myfinance-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Bun
+- Express
+- MCP SDK
+- OAuth 2.1
+- Prisma
+- PostgreSQL
+- Docker
+- TypeScript
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personal finance", "MCP server", "budget tracking", "multi-currency", "bank integration"]
-source: "https://github.com/alex-odoo/myfinance-mcp"
+deployment_complexity: Medium
+tags:
+- personal finance
+- MCP server
+- budget tracking
+- multi-currency
+- bank integration
+source: https://github.com/alex-odoo/myfinance-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-19T17:57:38Z"
-discovered_at: "2026-07-19T17:59:07Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T17:57:38Z'
+discovered_at: '2026-07-19T17:59:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

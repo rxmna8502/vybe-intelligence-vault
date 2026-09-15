@@ -1,19 +1,31 @@
 ---
-title: "kandarlubis31/ICIL"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["JavaScript", "Node.js", "Markdown", "GitHub Actions", "MCP (Model Context Protocol)", "CLI Tools", "JSON"]
+title: kandarlubis31/ICIL
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- Markdown
+- GitHub Actions
+- MCP (Model Context Protocol)
+- CLI Tools
+- JSON
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge base", "AI agent context", "curated data", "auto-routing", "MCP server"]
-source: "https://github.com/kandarlubis31/ICIL"
+deployment_complexity: Medium
+tags:
+- knowledge base
+- AI agent context
+- curated data
+- auto-routing
+- MCP server
+source: https://github.com/kandarlubis31/ICIL
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-04T19:30:03Z"
-discovered_at: "2026-08-04T19:32:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T19:30:03Z'
+discovered_at: '2026-08-04T19:32:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

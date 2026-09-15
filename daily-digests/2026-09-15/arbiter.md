@@ -1,19 +1,31 @@
 ---
-title: "tylerreckart/arbiter"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["C++", "SQLite", "HTTP/SSE", "A2A v1.0", "TUI (Terminal UI)", "Glob matching", "Sandboxing"]
+title: tylerreckart/arbiter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- C++
+- SQLite
+- HTTP/SSE
+- A2A v1.0
+- TUI (Terminal UI)
+- Glob matching
+- Sandboxing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent", "orchestration", "event-driven", "local-first", "agent framework"]
-source: "https://github.com/tylerreckart/arbiter"
+deployment_complexity: Medium
+tags:
+- multi-agent
+- orchestration
+- event-driven
+- local-first
+- agent framework
+source: https://github.com/tylerreckart/arbiter
 stars: 6
-language: "C++"
-last_updated: "2026-08-09T14:34:08Z"
-discovered_at: "2026-08-09T14:37:43Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-09T14:34:08Z'
+discovered_at: '2026-08-09T14:37:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

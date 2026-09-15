@@ -1,19 +1,30 @@
 ---
-title: "Bergschloss/Refine-Cycle-for-Hermes-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent Plugin System", "SQLite (state.db)", "JSON Schema", "LLM Structured Output", "Subagent Architecture"]
+title: Bergschloss/Refine-Cycle-for-Hermes-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Hermes Agent Plugin System
+- SQLite (state.db)
+- JSON Schema
+- LLM Structured Output
+- Subagent Architecture
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-improvement", "agent-trajectory-analysis", "error-fingerprinting", "continuous-learning", "hermes-agent"]
-source: "https://github.com/Bergschloss/Refine-Cycle-for-Hermes-Agent"
+deployment_complexity: Medium
+tags:
+- self-improvement
+- agent-trajectory-analysis
+- error-fingerprinting
+- continuous-learning
+- hermes-agent
+source: https://github.com/Bergschloss/Refine-Cycle-for-Hermes-Agent
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T02:39:03Z"
-discovered_at: "2026-09-01T02:51:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T02:39:03Z'
+discovered_at: '2026-09-01T02:51:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

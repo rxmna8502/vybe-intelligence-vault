@@ -1,19 +1,29 @@
 ---
-title: "EthanYoQ/Skill-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "JavaScript", "PowerShell", "Git", "AI Agent Frameworks (Codex, Claude Code, Antigravity)"]
+title: EthanYoQ/Skill-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Markdown
+- JavaScript
+- PowerShell
+- Git
+- AI Agent Frameworks (Codex, Claude Code, Antigravity)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI Agent Skills", "Prompt Engineering", "Workflow Automation", "Chinese Language", "SKILL.md Templates"]
-source: "https://github.com/EthanYoQ/Skill-hub"
+deployment_complexity: Low
+tags:
+- AI Agent Skills
+- Prompt Engineering
+- Workflow Automation
+- Chinese Language
+- SKILL.md Templates
+source: https://github.com/EthanYoQ/Skill-hub
 stars: 4
-language: "JavaScript"
-last_updated: "2026-07-19T14:45:54Z"
-discovered_at: "2026-07-19T14:54:22Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-19T14:45:54Z'
+discovered_at: '2026-07-19T14:54:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

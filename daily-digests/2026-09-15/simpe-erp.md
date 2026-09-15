@@ -1,19 +1,38 @@
 ---
-title: "gpbcom/simpe-erp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React", "PostgreSQL", "RabbitMQ", "MinIO", "Docker", "Kubernetes", "Prometheus", "Grafana", "OpenTelemetry", "Vite", "Alembic", "CP-SAT (Constraint Programming)"]
+title: gpbcom/simpe-erp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- RabbitMQ
+- MinIO
+- Docker
+- Kubernetes
+- Prometheus
+- Grafana
+- OpenTelemetry
+- Vite
+- Alembic
+- CP-SAT (Constraint Programming)
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["workforce management", "home-care ERP", "scheduling", "real-time notifications", "constraint programming"]
-source: "https://github.com/gpbcom/simpe-erp"
+deployment_complexity: High
+tags:
+- workforce management
+- home-care ERP
+- scheduling
+- real-time notifications
+- constraint programming
+source: https://github.com/gpbcom/simpe-erp
 stars: 1
-language: "Python"
-last_updated: "2026-08-10T17:52:43Z"
-discovered_at: "2026-08-10T18:01:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T17:52:43Z'
+discovered_at: '2026-08-10T18:01:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "AuraFriday/mcp-link-server"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Server-Sent Events (SSE)", "SQLite", "Docker", "RESTful API", "Browser Automation"]
+title: AuraFriday/mcp-link-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Server-Sent Events (SSE)
+- SQLite
+- Docker
+- RESTful API
+- Browser Automation
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Local AI Tools", "Sandboxing", "Browser Automation", "Enterprise Security"]
-source: "https://github.com/AuraFriday/mcp-link-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Local AI Tools
+- Sandboxing
+- Browser Automation
+- Enterprise Security
+source: https://github.com/AuraFriday/mcp-link-server
 stars: 14
-language: "Python"
-last_updated: "2026-08-04T12:59:08Z"
-discovered_at: "2026-08-04T13:04:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T12:59:08Z'
+discovered_at: '2026-08-04T13:04:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

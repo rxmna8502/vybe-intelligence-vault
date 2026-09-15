@@ -1,19 +1,29 @@
 ---
-title: "mnemoverse/mcp-memory-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "npm"]
+title: mnemoverse/mcp-memory-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- npm
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["memory persistence", "AI agent context", "MCP server", "hosted service", "cross-tool integration"]
-source: "https://github.com/mnemoverse/mcp-memory-server"
+deployment_complexity: Low
+tags:
+- memory persistence
+- AI agent context
+- MCP server
+- hosted service
+- cross-tool integration
+source: https://github.com/mnemoverse/mcp-memory-server
 stars: 13
-language: "JavaScript"
-last_updated: "2026-07-10T18:16:41Z"
-discovered_at: "2026-07-10T18:22:52Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T18:16:41Z'
+discovered_at: '2026-07-10T18:22:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

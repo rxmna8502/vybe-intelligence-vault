@@ -1,19 +1,31 @@
 ---
-title: "yuluyangguang1/hermes-portable"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "Hermes Agent", "Docker", "Shell Scripting", "Web UI (React/Node)", "Git"]
+title: yuluyangguang1/hermes-portable
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Node.js
+- Hermes Agent
+- Docker
+- Shell Scripting
+- Web UI (React/Node)
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["portable AI agent", "zero-install", "cross-platform", "USB deployment", "sandboxed execution"]
-source: "https://github.com/yuluyangguang1/hermes-portable"
+deployment_complexity: Medium
+tags:
+- portable AI agent
+- zero-install
+- cross-platform
+- USB deployment
+- sandboxed execution
+source: https://github.com/yuluyangguang1/hermes-portable
 stars: 37
-language: "Python"
-last_updated: "2026-07-13T10:22:14Z"
-discovered_at: "2026-07-13T10:24:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T10:22:14Z'
+discovered_at: '2026-07-13T10:24:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

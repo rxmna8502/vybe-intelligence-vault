@@ -1,19 +1,35 @@
 ---
-title: "CrowPus/Zelyq"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "React Native", "Expo", "Supabase", "SQLite", "PostgreSQL", "Node.js", "AI/LLM Integration", "Docker", "CI/CD"]
+title: CrowPus/Zelyq
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- React
+- React Native
+- Expo
+- Supabase
+- SQLite
+- PostgreSQL
+- Node.js
+- AI/LLM Integration
+- Docker
+- CI/CD
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent", "prompt-to-app", "full-stack development", "verification-driven", "engineering rigor"]
-source: "https://github.com/CrowPus/Zelyq"
+deployment_complexity: Medium
+tags:
+- AI agent
+- prompt-to-app
+- full-stack development
+- verification-driven
+- engineering rigor
+source: https://github.com/CrowPus/Zelyq
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-31T18:49:11Z"
-discovered_at: "2026-09-01T19:07:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-31T18:49:11Z'
+discovered_at: '2026-09-01T19:07:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

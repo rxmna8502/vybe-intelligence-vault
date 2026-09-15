@@ -1,19 +1,33 @@
 ---
-title: "XAGI-Lab/melra"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Python", "pnpm", "SQLite", "Playwright", "Docker", "AES-256-GCM", "SHA-256"]
+title: XAGI-Lab/melra
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Python
+- pnpm
+- SQLite
+- Playwright
+- Docker
+- AES-256-GCM
+- SHA-256
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous workflows", "policy enforcement", "durable execution", "MCP server", "evidence-based verification"]
-source: "https://github.com/XAGI-Lab/melra"
+deployment_complexity: Medium
+tags:
+- autonomous workflows
+- policy enforcement
+- durable execution
+- MCP server
+- evidence-based verification
+source: https://github.com/XAGI-Lab/melra
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T18:50:47Z"
-discovered_at: "2026-08-07T18:57:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T18:50:47Z'
+discovered_at: '2026-08-07T18:57:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

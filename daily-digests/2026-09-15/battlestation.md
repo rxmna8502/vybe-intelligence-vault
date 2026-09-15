@@ -1,19 +1,31 @@
 ---
-title: "stevekinney/battlestation"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "TOML", "JSON", "Model Context Protocol (MCP)", "Node.js (optional)", "macOS defaults command"]
+title: stevekinney/battlestation
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Bun
+- TOML
+- JSON
+- Model Context Protocol (MCP)
+- Node.js (optional)
+- macOS defaults command
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["macOS configuration", "system preferences", "declarative restoration", "TOML serialization", "MCP server"]
-source: "https://github.com/stevekinney/battlestation"
+deployment_complexity: Low
+tags:
+- macOS configuration
+- system preferences
+- declarative restoration
+- TOML serialization
+- MCP server
+source: https://github.com/stevekinney/battlestation
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T21:14:00Z"
-discovered_at: "2026-08-04T21:15:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T21:14:00Z'
+discovered_at: '2026-08-04T21:15:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

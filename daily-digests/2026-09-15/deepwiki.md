@@ -1,19 +1,29 @@
 ---
-title: "88plug/deepwiki"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "MCP (Model Context Protocol)", "Python", "GitHub API", "HTTP/REST"]
+title: 88plug/deepwiki
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Claude Code
+- MCP (Model Context Protocol)
+- Python
+- GitHub API
+- HTTP/REST
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["documentation", "MCP", "Claude Code", "GitHub integration", "AI agent tooling"]
-source: "https://github.com/88plug/deepwiki"
+deployment_complexity: Low
+tags:
+- documentation
+- MCP
+- Claude Code
+- GitHub integration
+- AI agent tooling
+source: https://github.com/88plug/deepwiki
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T14:41:13Z"
-discovered_at: "2026-07-17T14:43:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T14:41:13Z'
+discovered_at: '2026-07-17T14:43:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

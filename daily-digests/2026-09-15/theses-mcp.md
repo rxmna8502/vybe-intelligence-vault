@@ -1,19 +1,30 @@
 ---
-title: "koprjaa/theses-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Playwright", "Requests", "BeautifulSoup", "FastAPI"]
+title: koprjaa/theses-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Playwright
+- Requests
+- BeautifulSoup
+- FastAPI
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["thesis retrieval", "Czech academic content", "MCP server", "full-text search", "metadata extraction"]
-source: "https://github.com/koprjaa/theses-mcp"
+deployment_complexity: Medium
+tags:
+- thesis retrieval
+- Czech academic content
+- MCP server
+- full-text search
+- metadata extraction
+source: https://github.com/koprjaa/theses-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T11:49:56Z"
-discovered_at: "2026-08-02T12:02:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T11:49:56Z'
+discovered_at: '2026-08-02T12:02:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

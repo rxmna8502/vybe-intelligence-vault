@@ -1,19 +1,35 @@
 ---
-title: "lm203688/roboparts"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Supabase", "PostgreSQL", "Cloudflare Pages", "Python", "REST API", "URDF", "ROS2", "EtherCAT", "CANopen", "MQTT"]
+title: lm203688/roboparts
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Supabase
+- PostgreSQL
+- Cloudflare Pages
+- Python
+- REST API
+- URDF
+- ROS2
+- EtherCAT
+- CANopen
+- MQTT
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["robotics", "modular design", "component database", "AI model compatibility", "supply chain"]
-source: "https://github.com/lm203688/roboparts"
+deployment_complexity: Medium
+tags:
+- robotics
+- modular design
+- component database
+- AI model compatibility
+- supply chain
+source: https://github.com/lm203688/roboparts
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T21:34:40Z"
-discovered_at: "2026-08-07T21:41:22Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T21:34:40Z'
+discovered_at: '2026-08-07T21:41:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

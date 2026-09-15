@@ -1,19 +1,36 @@
 ---
-title: "Noveum/orbit"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Next.js", "React", "Bun", "PostgreSQL", "Redis", "Drizzle ORM", "WebSockets", "MCP (Model Context Protocol)", "Tailwind CSS", "Passkeys", "OAuth"]
+title: Noveum/orbit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- Bun
+- PostgreSQL
+- Redis
+- Drizzle ORM
+- WebSockets
+- MCP (Model Context Protocol)
+- Tailwind CSS
+- Passkeys
+- OAuth
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["project management", "realtime collaboration", "AI agent integration", "self-hosted", "keyboard-first"]
-source: "https://github.com/Noveum/orbit"
+deployment_complexity: Medium
+tags:
+- project management
+- realtime collaboration
+- AI agent integration
+- self-hosted
+- keyboard-first
+source: https://github.com/Noveum/orbit
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T08:10:12Z"
-discovered_at: "2026-08-07T08:16:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T08:10:12Z'
+discovered_at: '2026-08-07T08:16:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-chatbot-application-rag.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - mistral
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-*   Implements a Context-Aware Retrieval-Augmented Generation (RAG) chatbot leveraging Mistral-7B-Instruct-v0.3 for contextual response generation.
-*   Utilizes ChromaDB as the vector database for efficient document retrieval and knowledge base management.
-*   The Streamlit-based application integrates document upload, conversational history, and a user feedback mechanism for iterative improvement.
+*   Implements a Context-Aware RAG chatbot leveraging Mistral-7B-Instruct-v0.3 as the LLM and ChromaDB for vector storage, orchestrated via LangChain.
+*   Features dynamic document management for knowledge base population, enabling contextual retrieval and response generation from uploaded content.
+*   Maintains conversational history and incorporates a user feedback mechanism for iterative response quality improvement within a Streamlit application interface.
 
 ## Use Cases
 

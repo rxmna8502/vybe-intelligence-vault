@@ -1,19 +1,40 @@
 ---
-title: "psyb0t/docker-stealthy-auto-browse"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Docker", "Python", "PyAutoGUI", "Firefox (Camoufox)", "Xvfb", "noVNC", "Openbox", "FastAPI", "Model Context Protocol (MCP)", "Redis", "HAProxy", "ffmpeg", "uBlock Origin", "LocalCDN", "ClearURLs", "Consent-O-Matic"]
+title: psyb0t/docker-stealthy-auto-browse
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Docker
+- Python
+- PyAutoGUI
+- Firefox (Camoufox)
+- Xvfb
+- noVNC
+- Openbox
+- FastAPI
+- Model Context Protocol (MCP)
+- Redis
+- HAProxy
+- ffmpeg
+- uBlock Origin
+- LocalCDN
+- ClearURLs
+- Consent-O-Matic
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["browser automation", "stealth browsing", "bot detection evasion", "MCP server", "Dockerized"]
-source: "https://github.com/psyb0t/docker-stealthy-auto-browse"
+deployment_complexity: Medium
+tags:
+- browser automation
+- stealth browsing
+- bot detection evasion
+- MCP server
+- Dockerized
+source: https://github.com/psyb0t/docker-stealthy-auto-browse
 stars: 64
-language: "Python"
-last_updated: "2026-08-01T13:05:19Z"
-discovered_at: "2026-08-01T13:16:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:05:19Z'
+discovered_at: '2026-08-01T13:16:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

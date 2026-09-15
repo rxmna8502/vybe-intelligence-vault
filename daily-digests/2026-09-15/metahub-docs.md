@@ -1,19 +1,29 @@
 ---
-title: "metahub-ai/metahub-docs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "GitHub Pages", "CLI Documentation", "SDK Integration", "Web Documentation"]
+title: metahub-ai/metahub-docs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Markdown
+- GitHub Pages
+- CLI Documentation
+- SDK Integration
+- Web Documentation
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI tools registry", "MCP servers", "skills installation", "publisher observability", "eval framework"]
-source: "https://github.com/metahub-ai/metahub-docs"
+deployment_complexity: Low
+tags:
+- AI tools registry
+- MCP servers
+- skills installation
+- publisher observability
+- eval framework
+source: https://github.com/metahub-ai/metahub-docs
 stars: 0
-language: "None"
-last_updated: "2026-08-03T18:47:06Z"
-discovered_at: "2026-08-03T18:52:49Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-03T18:47:06Z'
+discovered_at: '2026-08-03T18:52:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

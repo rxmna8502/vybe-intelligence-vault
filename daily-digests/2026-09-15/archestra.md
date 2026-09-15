@@ -1,19 +1,37 @@
 ---
-title: "archestra-ai/archestra"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Kubernetes", "Docker", "PostgreSQL", "OpenTelemetry", "Prometheus", "OAuth", "SSO", "RBAC", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "Helm", "Terraform"]
+title: archestra-ai/archestra
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Kubernetes
+- Docker
+- PostgreSQL
+- OpenTelemetry
+- Prometheus
+- OAuth
+- SSO
+- RBAC
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent)
+- Helm
+- Terraform
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["enterprise AI", "agent orchestration", "MCP gateway", "guardrails", "observability"]
-source: "https://github.com/archestra-ai/archestra"
+deployment_complexity: High
+tags:
+- enterprise AI
+- agent orchestration
+- MCP gateway
+- guardrails
+- observability
+source: https://github.com/archestra-ai/archestra
 stars: 4239
-language: "TypeScript"
-last_updated: "2026-09-01T19:03:11Z"
-discovered_at: "2026-09-01T19:08:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T19:03:11Z'
+discovered_at: '2026-09-01T19:08:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

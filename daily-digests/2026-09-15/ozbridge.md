@@ -1,19 +1,32 @@
 ---
-title: "sena-labs/OzBridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "VS Code Extension API", "Model Context Protocol (MCP)", "Node.js", "React", "Warp Terminal", "HTTP+SSE", "YAML"]
+title: sena-labs/OzBridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Model Context Protocol (MCP)
+- Node.js
+- React
+- Warp Terminal
+- HTTP+SSE
+- YAML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "Warp Oz", "VS Code Extension", "Agent Integration", "IDE Tooling"]
-source: "https://github.com/sena-labs/OzBridge"
+deployment_complexity: Medium
+tags:
+- MCP
+- Warp Oz
+- VS Code Extension
+- Agent Integration
+- IDE Tooling
+source: https://github.com/sena-labs/OzBridge
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-01T19:08:59Z"
-discovered_at: "2026-08-01T19:19:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T19:08:59Z'
+discovered_at: '2026-08-01T19:19:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

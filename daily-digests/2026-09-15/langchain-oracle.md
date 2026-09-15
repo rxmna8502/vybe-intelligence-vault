@@ -1,19 +1,34 @@
 ---
-title: "oracle/langchain-oracle"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "JavaScript/TypeScript", "LangChain", "LangGraph", "OCI Generative AI", "OCI Data Science", "Oracle AI Vector Search", "Oracle Database", "PyPI", "npm"]
+title: oracle/langchain-oracle
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- JavaScript/TypeScript
+- LangChain
+- LangGraph
+- OCI Generative AI
+- OCI Data Science
+- Oracle AI Vector Search
+- Oracle Database
+- PyPI
+- npm
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["OCI integration", "vector search", "AI agents", "LangChain", "Oracle Database"]
-source: "https://github.com/oracle/langchain-oracle"
+deployment_complexity: Medium
+tags:
+- OCI integration
+- vector search
+- AI agents
+- LangChain
+- Oracle Database
+source: https://github.com/oracle/langchain-oracle
 stars: 59
-language: "Python"
-last_updated: "2026-08-07T19:38:26Z"
-discovered_at: "2026-08-07T19:59:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T19:38:26Z'
+discovered_at: '2026-08-07T19:59:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "hututuQQQ/sigma-code"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Vite", "Electron", "React", "Node.js", "Agent Client Protocol (ACP)", "Sigma Runtime"]
+title: hututuQQQ/sigma-code
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Vite
+- Electron
+- React
+- Node.js
+- Agent Client Protocol (ACP)
+- Sigma Runtime
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["coding agents", "cross-platform", "Sigma Runtime", "Agent Client Protocol", "AI-powered IDE"]
-source: "https://github.com/hututuQQQ/sigma-code"
+deployment_complexity: Medium
+tags:
+- coding agents
+- cross-platform
+- Sigma Runtime
+- Agent Client Protocol
+- AI-powered IDE
+source: https://github.com/hututuQQQ/sigma-code
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-06T03:15:20Z"
-discovered_at: "2026-08-06T03:18:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T03:15:20Z'
+discovered_at: '2026-08-06T03:18:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

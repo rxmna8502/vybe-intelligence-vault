@@ -1,19 +1,32 @@
 ---
-title: "berktopal/microsoft-foundry-local-rag"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "Microsoft Foundry Local", "Phi-3.5-mini", "Qwen3-Embedding-0.6b", "SQLite", "Streamlit", "PyPDF2", "NumPy"]
+title: berktopal/microsoft-foundry-local-rag
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Microsoft Foundry Local
+- Phi-3.5-mini
+- Qwen3-Embedding-0.6b
+- SQLite
+- Streamlit
+- PyPDF2
+- NumPy
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["offline RAG", "privacy-focused", "local embedding", "SQLite vector storage", "Phi-3.5-mini"]
-source: "https://github.com/berktopal/microsoft-foundry-local-rag"
+deployment_complexity: Medium
+tags:
+- offline RAG
+- privacy-focused
+- local embedding
+- SQLite vector storage
+- Phi-3.5-mini
+source: https://github.com/berktopal/microsoft-foundry-local-rag
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T10:47:11Z"
-discovered_at: "2026-08-08T11:31:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T10:47:11Z'
+discovered_at: '2026-08-08T11:31:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

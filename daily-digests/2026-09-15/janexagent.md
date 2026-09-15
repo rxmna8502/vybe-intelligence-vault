@@ -1,19 +1,34 @@
 ---
-title: "JaneHax/JanexAgent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Playwright", "Playwright", "MCP (Model Context Protocol)", "YAML", "CLI", "Discord API", "Telegram Bot API", "WhatsApp Business API"]
+title: JaneHax/JanexAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Playwright
+- Playwright
+- MCP (Model Context Protocol)
+- YAML
+- CLI
+- Discord API
+- Telegram Bot API
+- WhatsApp Business API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "browser automation", "security testing", "multi-agent systems", "CAPTCHA solving"]
-source: "https://github.com/JaneHax/JanexAgent"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- browser automation
+- security testing
+- multi-agent systems
+- CAPTCHA solving
+source: https://github.com/JaneHax/JanexAgent
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-04T10:36:33Z"
-discovered_at: "2026-08-04T10:39:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T10:36:33Z'
+discovered_at: '2026-08-04T10:39:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

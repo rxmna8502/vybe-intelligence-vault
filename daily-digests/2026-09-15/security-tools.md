@@ -1,19 +1,30 @@
 ---
-title: "KbWen/security-tools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Abstract Syntax Tree (AST) parsing", "Static Application Security Testing (SAST)", "Command-line interfaces (CLI)", "Configuration management (TOML)", "OWASP LLM Top 10 compliance"]
+title: KbWen/security-tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Abstract Syntax Tree (AST) parsing
+- Static Application Security Testing (SAST)
+- Command-line interfaces (CLI)
+- Configuration management (TOML)
+- OWASP LLM Top 10 compliance
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI security", "static analysis", "supply chain protection", "agent safety", "vulnerability scanning"]
-source: "https://github.com/KbWen/security-tools"
+deployment_complexity: Medium
+tags:
+- AI security
+- static analysis
+- supply chain protection
+- agent safety
+- vulnerability scanning
+source: https://github.com/KbWen/security-tools
 stars: 0
-language: "Python"
-last_updated: "2026-07-16T05:33:09Z"
-discovered_at: "2026-07-16T05:39:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T05:33:09Z'
+discovered_at: '2026-07-16T05:39:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

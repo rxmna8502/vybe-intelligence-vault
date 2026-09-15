@@ -1,19 +1,30 @@
 ---
-title: "jarmstrong158/agentsync-remote"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Cloudflare Workers", "TypeScript", "MCP (Model Context Protocol)", "GitHub API", "Streamable HTTP", "Fine-grained GitHub Personal Access Tokens"]
+title: jarmstrong158/agentsync-remote
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Cloudflare Workers
+- TypeScript
+- MCP (Model Context Protocol)
+- GitHub API
+- Streamable HTTP
+- Fine-grained GitHub Personal Access Tokens
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["coordination", "multi-agent", "Cloudflare Workers", "MCP server", "workflow synchronization"]
-source: "https://github.com/jarmstrong158/agentsync-remote"
+deployment_complexity: Medium
+tags:
+- coordination
+- multi-agent
+- Cloudflare Workers
+- MCP server
+- workflow synchronization
+source: https://github.com/jarmstrong158/agentsync-remote
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T13:38:23Z"
-discovered_at: "2026-08-02T13:49:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T13:38:23Z'
+discovered_at: '2026-08-02T13:49:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

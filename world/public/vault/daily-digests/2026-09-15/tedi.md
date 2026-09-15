@@ -1,19 +1,42 @@
 ---
-title: "IlhamriSKY/TEDI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Tauri 2", "Rust", "TypeScript", "React 19", "xterm.js", "CodeMirror 6", "Webview", "LM Studio", "Ollama", "llama.cpp", "vLLM", "Electron-free architecture", "PTY terminals", "SFTP", "Git", "SQL explorer", "AI agent frameworks", "Extension system"]
+title: IlhamriSKY/TEDI
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Tauri 2
+- Rust
+- TypeScript
+- React 19
+- xterm.js
+- CodeMirror 6
+- Webview
+- LM Studio
+- Ollama
+- llama.cpp
+- vLLM
+- Electron-free architecture
+- PTY terminals
+- SFTP
+- Git
+- SQL explorer
+- AI agent frameworks
+- Extension system
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["terminal", "AI integration", "developer tools", "Tauri", "extensible"]
-source: "https://github.com/IlhamriSKY/TEDI"
+deployment_complexity: Medium
+tags:
+- terminal
+- AI integration
+- developer tools
+- Tauri
+- extensible
+source: https://github.com/IlhamriSKY/TEDI
 stars: 107
-language: "TypeScript"
-last_updated: "2026-08-04T04:14:06Z"
-discovered_at: "2026-08-04T04:14:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T04:14:06Z'
+discovered_at: '2026-08-04T04:14:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

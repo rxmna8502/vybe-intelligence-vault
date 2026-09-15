@@ -1,19 +1,34 @@
 ---
-title: "jihedbfr-art/ai-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Spring AI", "PGVector", "LangChain", "Model Context Protocol (MCP)", "OpenTelemetry", "RAGAS", "HNSW", "GGUF/AWQ", "BM25", "JSON-Schema"]
+title: jihedbfr-art/ai-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Spring AI
+- PGVector
+- LangChain
+- Model Context Protocol (MCP)
+- OpenTelemetry
+- RAGAS
+- HNSW
+- GGUF/AWQ
+- BM25
+- JSON-Schema
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI engineering", "RAG pipelines", "LLM agents", "MCP integration", "production-grade"]
-source: "https://github.com/jihedbfr-art/ai-skills"
+deployment_complexity: Medium
+tags:
+- AI engineering
+- RAG pipelines
+- LLM agents
+- MCP integration
+- production-grade
+source: https://github.com/jihedbfr-art/ai-skills
 stars: 0
-language: "None"
-last_updated: "2026-08-07T16:05:48Z"
-discovered_at: "2026-08-07T16:57:21Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T16:05:48Z'
+discovered_at: '2026-08-07T16:57:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

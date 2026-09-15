@@ -1,19 +1,32 @@
 ---
-title: "Zuga-Technologies/agentpool-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastEmbed", "SQLite-vec", "MCP (Model Context Protocol)", "Docker", "Railway", "ZugaShield (content safety)", "Claude Code"]
+title: Zuga-Technologies/agentpool-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastEmbed
+- SQLite-vec
+- MCP (Model Context Protocol)
+- Docker
+- Railway
+- ZugaShield (content safety)
+- Claude Code
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["content safety", "agent collaboration", "prompt injection prevention", "semantic retrieval", "MCP server"]
-source: "https://github.com/Zuga-Technologies/agentpool-mcp"
+deployment_complexity: Medium
+tags:
+- content safety
+- agent collaboration
+- prompt injection prevention
+- semantic retrieval
+- MCP server
+source: https://github.com/Zuga-Technologies/agentpool-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-07-19T14:48:46Z"
-discovered_at: "2026-07-19T14:54:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T14:48:46Z'
+discovered_at: '2026-07-19T14:54:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

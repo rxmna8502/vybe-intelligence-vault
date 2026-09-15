@@ -1,19 +1,32 @@
 ---
-title: "doublegate/CyberChef-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "Chainguard distroless", "Piscina (worker threads)", "Zod (schema validation)", "Pino (logging)"]
+title: doublegate/CyberChef-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- Chainguard distroless
+- Piscina (worker threads)
+- Zod (schema validation)
+- Pino (logging)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Data Transformation", "CyberChef", "AI Tooling", "Forensic Analysis"]
-source: "https://github.com/doublegate/CyberChef-MCP"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Data Transformation
+- CyberChef
+- AI Tooling
+- Forensic Analysis
+source: https://github.com/doublegate/CyberChef-MCP
 stars: 18
-language: "JavaScript"
-last_updated: "2026-09-01T02:46:59Z"
-discovered_at: "2026-09-01T02:52:43Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T02:46:59Z'
+discovered_at: '2026-09-01T02:52:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

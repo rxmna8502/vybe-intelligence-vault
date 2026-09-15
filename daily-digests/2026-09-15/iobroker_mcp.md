@@ -1,19 +1,29 @@
 ---
-title: "ioBroker/ioBroker.mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "ioBroker", "MCP (Model Context Protocol)", "HTTP/HTTPS", "Streamable HTTP Transport"]
+title: ioBroker/ioBroker.mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- ioBroker
+- MCP (Model Context Protocol)
+- HTTP/HTTPS
+- Streamable HTTP Transport
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "ioBroker integration", "home automation", "API gateway", "real-time control"]
-source: "https://github.com/ioBroker/ioBroker.mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- ioBroker integration
+- home automation
+- API gateway
+- real-time control
+source: https://github.com/ioBroker/ioBroker.mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-01T03:29:53Z"
-discovered_at: "2026-08-01T03:44:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:29:53Z'
+discovered_at: '2026-08-01T03:44:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

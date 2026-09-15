@@ -13,13 +13,14 @@ collected_at: '2026-09-15T10:32:53.654056+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ce
 first_seen: '2026-09-15T10:32:53.654056+05:30'
 last_seen: '2026-09-15T10:32:53.654056+05:30'
 last_checked: '2026-09-15T10:32:53.654056+05:30'
 health_score: 100
 ---
+
 
 # Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
 
