@@ -1,19 +1,34 @@
 ---
-title: "Wide-Moat/open-computer-use"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "MCP (Model Context Protocol)", "Playwright", "Claude Code", "LibreOffice", "FFmpeg", "Node.js", "Java", "Bun"]
+title: Wide-Moat/open-computer-use
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Docker
+- MCP (Model Context Protocol)
+- Playwright
+- Claude Code
+- LibreOffice
+- FFmpeg
+- Node.js
+- Java
+- Bun
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "sandboxed execution", "document automation", "live browser", "multi-agent"]
-source: "https://github.com/Wide-Moat/open-computer-use"
+deployment_complexity: Medium
+tags:
+- MCP server
+- sandboxed execution
+- document automation
+- live browser
+- multi-agent
+source: https://github.com/Wide-Moat/open-computer-use
 stars: 112
-language: "Python"
-last_updated: "2026-08-10T16:02:34Z"
-discovered_at: "2026-08-10T16:07:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T16:02:34Z'
+discovered_at: '2026-08-10T16:07:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

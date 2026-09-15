@@ -1,19 +1,28 @@
 ---
-title: "jkieley/pi-todo-observer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Pi SDK", "Node.js", "npm"]
+title: jkieley/pi-todo-observer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Pi SDK
+- Node.js
+- npm
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["task management", "agent augmentation", "persistent observer", "hierarchical todos", "Pi integration"]
-source: "https://github.com/jkieley/pi-todo-observer"
+deployment_complexity: Low
+tags:
+- task management
+- agent augmentation
+- persistent observer
+- hierarchical todos
+- Pi integration
+source: https://github.com/jkieley/pi-todo-observer
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T03:37:00Z"
-discovered_at: "2026-08-01T03:43:48Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:37:00Z'
+discovered_at: '2026-08-01T03:43:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

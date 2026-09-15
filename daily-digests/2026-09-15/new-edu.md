@@ -1,19 +1,37 @@
 ---
-title: "xqbdew/new-edu"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Spring Boot 3", "Vue 3", "FastAPI", "LangChain", "MySQL", "Redis", "RabbitMQ", "ChromaDB", "Element Plus", "Pinia", "WebFlux", "PyMuPDF", "OSS (Aliyun)"]
+title: xqbdew/new-edu
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Spring Boot 3
+- Vue 3
+- FastAPI
+- LangChain
+- MySQL
+- Redis
+- RabbitMQ
+- ChromaDB
+- Element Plus
+- Pinia
+- WebFlux
+- PyMuPDF
+- OSS (Aliyun)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["RAG", "AI Agent", "Online Education", "Video Processing", "Idempotent Payments"]
-source: "https://github.com/xqbdew/new-edu"
+deployment_complexity: High
+tags:
+- RAG
+- AI Agent
+- Online Education
+- Video Processing
+- Idempotent Payments
+source: https://github.com/xqbdew/new-edu
 stars: 0
-language: "Java"
-last_updated: "2026-08-02T16:05:40Z"
-discovered_at: "2026-08-02T16:11:12Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-02T16:05:40Z'
+discovered_at: '2026-08-02T16:11:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

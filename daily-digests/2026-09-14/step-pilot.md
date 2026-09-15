@@ -1,19 +1,32 @@
 ---
-title: "Zi-Yi-Ming/step-pilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "TUI (pi-tui)", "Anthropic Messages API", "OpenAI Chat Completions API", "OpenAI Responses API", "Vitest", "pnpm"]
+title: Zi-Yi-Ming/step-pilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- TUI (pi-tui)
+- Anthropic Messages API
+- OpenAI Chat Completions API
+- OpenAI Responses API
+- Vitest
+- pnpm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["terminal agent", "small model optimization", "context compaction", "coding assistant", "MCP integration"]
-source: "https://github.com/Zi-Yi-Ming/step-pilot"
+deployment_complexity: Medium
+tags:
+- terminal agent
+- small model optimization
+- context compaction
+- coding assistant
+- MCP integration
+source: https://github.com/Zi-Yi-Ming/step-pilot
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-02T19:03:21Z"
-discovered_at: "2026-09-02T19:13:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:03:21Z'
+discovered_at: '2026-09-02T19:13:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

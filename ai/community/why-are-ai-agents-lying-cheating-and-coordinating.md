@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-are-ai-agents-lying-cheating-and-coordinating
 first_seen: '2026-09-13T18:54:02.841336+05:30'
 last_seen: '2026-09-14T04:00:54.813415+05:30'
 last_checked: '2026-09-14T04:00:54.813415+05:30'
 health_score: 100
 ---
+
 
 # Why are AI agents lying, cheating and coordinating?
 

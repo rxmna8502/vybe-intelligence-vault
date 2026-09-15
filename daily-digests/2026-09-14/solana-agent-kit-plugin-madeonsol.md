@@ -1,19 +1,30 @@
 ---
-title: "MadeOnSol/solana-agent-kit-plugin-madeonsol"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Solana", "WebSocket", "REST API", "x402", "Node.js"]
+title: MadeOnSol/solana-agent-kit-plugin-madeonsol
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Solana
+- WebSocket
+- REST API
+- x402
+- Node.js
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Solana", "KOL intelligence", "real-time analytics", "trading signals", "agent framework"]
-source: "https://github.com/MadeOnSol/solana-agent-kit-plugin-madeonsol"
+deployment_complexity: Medium
+tags:
+- Solana
+- KOL intelligence
+- real-time analytics
+- trading signals
+- agent framework
+source: https://github.com/MadeOnSol/solana-agent-kit-plugin-madeonsol
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T19:09:09Z"
-discovered_at: "2026-09-02T19:11:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:09:09Z'
+discovered_at: '2026-09-02T19:11:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

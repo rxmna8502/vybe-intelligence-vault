@@ -1,19 +1,33 @@
 ---
-title: "wh0ami3/tg-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Telegram Bot API", "LLM (Claude Code CLI)", "Gemini API (STT)", "FFmpeg", "PyAutoGUI", "HTTPX", "UV (package manager)", "systemd (optional)"]
+title: wh0ami3/tg-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Telegram Bot API
+- LLM (Claude Code CLI)
+- Gemini API (STT)
+- FFmpeg
+- PyAutoGUI
+- HTTPX
+- UV (package manager)
+- systemd (optional)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["computer automation", "Telegram bot", "GUI control", "voice command processing", "LLM integration"]
-source: "https://github.com/wh0ami3/tg-agent"
+deployment_complexity: Medium
+tags:
+- computer automation
+- Telegram bot
+- GUI control
+- voice command processing
+- LLM integration
+source: https://github.com/wh0ami3/tg-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T17:57:11Z"
-discovered_at: "2026-08-10T18:01:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T17:57:11Z'
+discovered_at: '2026-08-10T18:01:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

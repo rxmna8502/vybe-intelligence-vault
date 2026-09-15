@@ -1,19 +1,33 @@
 ---
-title: "Player-YN/PawWork_ZhuaZhua"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Chrome Extension (MV3)", "JavaScript", "Univer (Spreadsheets)", "tldraw (Slides/Documents)", "QuickJS VM", "esbuild-wasm", "IndexedDB", "OPFS (Origin Private File System)", "Node.js (for builds)"]
+title: Player-YN/PawWork_ZhuaZhua
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Chrome Extension (MV3)
+- JavaScript
+- Univer (Spreadsheets)
+- tldraw (Slides/Documents)
+- QuickJS VM
+- esbuild-wasm
+- IndexedDB
+- OPFS (Origin Private File System)
+- Node.js (for builds)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Chrome extension", "content extraction", "editable files", "browser automation", "sandboxed execution"]
-source: "https://github.com/Player-YN/PawWork_ZhuaZhua"
+deployment_complexity: Low
+tags:
+- Chrome extension
+- content extraction
+- editable files
+- browser automation
+- sandboxed execution
+source: https://github.com/Player-YN/PawWork_ZhuaZhua
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-01T02:47:32Z"
-discovered_at: "2026-09-01T02:49:12Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T02:47:32Z'
+discovered_at: '2026-09-01T02:49:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

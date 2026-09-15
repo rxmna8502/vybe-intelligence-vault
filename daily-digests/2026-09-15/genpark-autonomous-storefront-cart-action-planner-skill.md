@@ -1,19 +1,28 @@
 ---
-title: "alphaparkinc/genpark-autonomous-storefront-cart-action-planner-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "Standard Library Only"]
+title: alphaparkinc/genpark-autonomous-storefront-cart-action-planner-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python 3.9+
+- Model Context Protocol (MCP)
+- JSON-RPC
+- Standard Library Only
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP", "autonomous agents", "e-commerce", "deterministic planning", "zero dependencies"]
-source: "https://github.com/alphaparkinc/genpark-autonomous-storefront-cart-action-planner-skill"
+deployment_complexity: Low
+tags:
+- MCP
+- autonomous agents
+- e-commerce
+- deterministic planning
+- zero dependencies
+source: https://github.com/alphaparkinc/genpark-autonomous-storefront-cart-action-planner-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-03T08:29:33Z"
-discovered_at: "2026-09-03T08:37:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T08:29:33Z'
+discovered_at: '2026-09-03T08:37:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

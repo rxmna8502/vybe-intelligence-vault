@@ -1,19 +1,36 @@
 ---
-title: "Sheerabth/omniagent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PostgreSQL", "FastAPI", "Procrastinate (job queue)", "Claude SDK", "Google Antigravity", "Pydantic AI", "MinIO (S3-compatible storage)", "Monty (sandboxed code execution)", "Langfuse (observability)", "Docker", "SSE (Server-Sent Events)"]
+title: Sheerabth/omniagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- PostgreSQL
+- FastAPI
+- Procrastinate (job queue)
+- Claude SDK
+- Google Antigravity
+- Pydantic AI
+- MinIO (S3-compatible storage)
+- Monty (sandboxed code execution)
+- Langfuse (observability)
+- Docker
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "OpenAPI integration", "multi-LLM support", "self-hosted", "observability"]
-source: "https://github.com/Sheerabth/omniagent"
+deployment_complexity: Medium
+tags:
+- AI agents
+- OpenAPI integration
+- multi-LLM support
+- self-hosted
+- observability
+source: https://github.com/Sheerabth/omniagent
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T15:59:34Z"
-discovered_at: "2026-08-01T16:06:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T15:59:34Z'
+discovered_at: '2026-08-01T16:06:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

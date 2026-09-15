@@ -1,19 +1,31 @@
 ---
-title: "triggerdotdev/trigger.dev"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Docker", "Kubernetes", "React", "JavaScript", "Helm"]
+title: triggerdotdev/trigger.dev
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- Kubernetes
+- React
+- JavaScript
+- Helm
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agents", "workflow automation", "durable tasks", "TypeScript SDK", "self-hosting"]
-source: "https://github.com/triggerdotdev/trigger.dev"
+deployment_complexity: Medium
+tags:
+- AI agents
+- workflow automation
+- durable tasks
+- TypeScript SDK
+- self-hosting
+source: https://github.com/triggerdotdev/trigger.dev
 stars: 16181
-language: "TypeScript"
-last_updated: "2026-09-01T15:50:44Z"
-discovered_at: "2026-09-01T15:54:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T15:50:44Z'
+discovered_at: '2026-09-01T15:54:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "lownamlee/gpt-image-2-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OpenAI API", "Zod (input validation)", "Puppeteer (for ChatGPT web automation)"]
+title: lownamlee/gpt-image-2-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OpenAI API
+- Zod (input validation)
+- Puppeteer (for ChatGPT web automation)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "image generation", "OpenAI integration", "ChatGPT automation", "text-to-image"]
-source: "https://github.com/lownamlee/gpt-image-2-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- image generation
+- OpenAI integration
+- ChatGPT automation
+- text-to-image
+source: https://github.com/lownamlee/gpt-image-2-mcp
 stars: 24
-language: "TypeScript"
-last_updated: "2026-07-18T13:08:50Z"
-discovered_at: "2026-07-18T13:09:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T13:08:50Z'
+discovered_at: '2026-07-18T13:09:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "moltis-org/moltis"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Docker", "SQLite", "WebAssembly (WASM)", "Axum (HTTP/WS server)", "LLM Providers (OpenAI, GitHub Copilot, Local)", "STT/TTS (Speech-to-Text/ Text-to-Speech)", "Telegram, Discord, Signal, WhatsApp, Microsoft Teams", "MCP (Model Context Protocol)", "OpenTelemetry (Tracing)", "Prometheus (Metrics)"]
+title: moltis-org/moltis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Docker
+- SQLite
+- WebAssembly (WASM)
+- Axum (HTTP/WS server)
+- LLM Providers (OpenAI, GitHub Copilot, Local)
+- STT/TTS (Speech-to-Text/ Text-to-Speech)
+- Telegram, Discord, Signal, WhatsApp, Microsoft Teams
+- MCP (Model Context Protocol)
+- OpenTelemetry (Tracing)
+- Prometheus (Metrics)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personal agent", "sandboxed execution", "multi-provider LLM", "local-first", "secure AI"]
-source: "https://github.com/moltis-org/moltis"
+deployment_complexity: Medium
+tags:
+- personal agent
+- sandboxed execution
+- multi-provider LLM
+- local-first
+- secure AI
+source: https://github.com/moltis-org/moltis
 stars: 2774
-language: "Rust"
-last_updated: "2026-07-14T07:57:01Z"
-discovered_at: "2026-07-14T08:00:54Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-14T07:57:01Z'
+discovered_at: '2026-07-14T08:00:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "EBISPOT/ols4"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Java", "Spring Boot", "PostgreSQL", "pgvector", "React", "Docker", "Kubernetes", "Helm", "RDF/OWL", "HTTP/REST", "MCP (Model Context Protocol)"]
+title: EBISPOT/ols4
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Java
+- Spring Boot
+- PostgreSQL
+- pgvector
+- React
+- Docker
+- Kubernetes
+- Helm
+- RDF/OWL
+- HTTP/REST
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["ontology", "biomedical", "vector search", "knowledge graph", "semantic search"]
-source: "https://github.com/EBISPOT/ols4"
+deployment_complexity: High
+tags:
+- ontology
+- biomedical
+- vector search
+- knowledge graph
+- semantic search
+source: https://github.com/EBISPOT/ols4
 stars: 96
-language: "Java"
-last_updated: "2026-07-10T16:21:19Z"
-discovered_at: "2026-07-10T16:24:24Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-07-10T16:21:19Z'
+discovered_at: '2026-07-10T16:24:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

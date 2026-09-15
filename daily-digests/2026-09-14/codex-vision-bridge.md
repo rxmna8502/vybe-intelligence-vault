@@ -1,19 +1,30 @@
 ---
-title: "zouyuanqing/codex-vision-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "Pillow (PIL)", "Xiaomi MiMo V2.5 API", "OpenAI Compatible API"]
+title: zouyuanqing/codex-vision-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
+- Pillow (PIL)
+- Xiaomi MiMo V2.5 API
+- OpenAI Compatible API
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "vision primitives", "multimodal interaction", "image annotation", "OCR"]
-source: "https://github.com/zouyuanqing/codex-vision-bridge"
+deployment_complexity: Medium
+tags:
+- MCP server
+- vision primitives
+- multimodal interaction
+- image annotation
+- OCR
+source: https://github.com/zouyuanqing/codex-vision-bridge
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T17:57:15Z"
-discovered_at: "2026-08-01T18:00:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T17:57:15Z'
+discovered_at: '2026-08-01T18:00:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

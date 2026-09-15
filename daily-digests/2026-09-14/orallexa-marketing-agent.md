@@ -1,19 +1,38 @@
 ---
-title: "alex-jb/orallexa-marketing-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Pydantic", "Anthropic API", "Cloudflare Workers AI", "LiteLLM", "PRAW (Reddit API)", "OAuth 1.0a", "DSPy", "PostgreSQL", "Supabase", "GitHub Actions", "Docker", "Claude Code", "MCP Server"]
+title: alex-jb/orallexa-marketing-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Pydantic
+- Anthropic API
+- Cloudflare Workers AI
+- LiteLLM
+- PRAW (Reddit API)
+- OAuth 1.0a
+- DSPy
+- PostgreSQL
+- Supabase
+- GitHub Actions
+- Docker
+- Claude Code
+- MCP Server
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["marketing automation", "content generation", "AI tooling", "open-source distribution", "multi-platform posting"]
-source: "https://github.com/alex-jb/orallexa-marketing-agent"
+deployment_complexity: Medium
+tags:
+- marketing automation
+- content generation
+- AI tooling
+- open-source distribution
+- multi-platform posting
+source: https://github.com/alex-jb/orallexa-marketing-agent
 stars: 7
-language: "Python"
-last_updated: "2026-08-08T14:34:34Z"
-discovered_at: "2026-08-08T14:35:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T14:34:34Z'
+discovered_at: '2026-08-08T14:35:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

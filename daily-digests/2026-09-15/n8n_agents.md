@@ -1,19 +1,29 @@
 ---
-title: "Lepidopteratime302/n8n_agents"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["n8n", "JavaScript", "Node.js", "Workflow Automation", "Agentic Patterns"]
+title: Lepidopteratime302/n8n_agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- n8n
+- JavaScript
+- Node.js
+- Workflow Automation
+- Agentic Patterns
 quality_score: 4
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["automation", "workflow", "agentic", "n8n", "local deployment"]
-source: "https://github.com/Lepidopteratime302/n8n_agents"
+deployment_complexity: Low
+tags:
+- automation
+- workflow
+- agentic
+- n8n
+- local deployment
+source: https://github.com/Lepidopteratime302/n8n_agents
 stars: 0
-language: "None"
-last_updated: "2026-08-04T19:16:26Z"
-discovered_at: "2026-08-04T19:32:27Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-04T19:16:26Z'
+discovered_at: '2026-08-04T19:32:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

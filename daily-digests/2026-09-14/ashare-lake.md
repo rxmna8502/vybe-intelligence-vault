@@ -1,19 +1,33 @@
 ---
-title: "rootSunc/ashare-lake"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Parquet", "DuckDB", "Polars", "TDX (\u901a\u8fbe\u4fe1)", "Apache License 2.0", "GitHub Actions", "MCP (Model Context Protocol)", "CLI Tools"]
+title: rootSunc/ashare-lake
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Parquet
+- DuckDB
+- Polars
+- TDX (通达信)
+- Apache License 2.0
+- GitHub Actions
+- MCP (Model Context Protocol)
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["A-share data", "point-in-time data", "financial research", "survivorship bias-free", "local data lake"]
-source: "https://github.com/rootSunc/ashare-lake"
+deployment_complexity: Medium
+tags:
+- A-share data
+- point-in-time data
+- financial research
+- survivorship bias-free
+- local data lake
+source: https://github.com/rootSunc/ashare-lake
 stars: 78
-language: "Python"
-last_updated: "2026-08-02T22:55:23Z"
-discovered_at: "2026-08-02T22:56:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T22:55:23Z'
+discovered_at: '2026-08-02T22:56:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "IdanDavidAviv/virgo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "VS Code Extension API", "Microsoft Edge Neural TTS", "MCP (Model Context Protocol)", "Node.js", "Web Speech API"]
+title: IdanDavidAviv/virgo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Microsoft Edge Neural TTS
+- MCP (Model Context Protocol)
+- Node.js
+- Web Speech API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["TTS", "AI Assistant", "VS Code Extension", "MCP Integration", "Accessibility"]
-source: "https://github.com/IdanDavidAviv/virgo"
+deployment_complexity: Medium
+tags:
+- TTS
+- AI Assistant
+- VS Code Extension
+- MCP Integration
+- Accessibility
+source: https://github.com/IdanDavidAviv/virgo
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-12T14:51:22Z"
-discovered_at: "2026-07-12T14:54:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T14:51:22Z'
+discovered_at: '2026-07-12T14:54:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

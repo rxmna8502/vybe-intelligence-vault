@@ -1,19 +1,35 @@
 ---
-title: "WskYa/vuln-mgmt-platform"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLAlchemy", "PostgreSQL", "JWT", "React", "Vite", "Docker", "docker-compose", "GitHub Actions", "pytest"]
+title: WskYa/vuln-mgmt-platform
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- JWT
+- React
+- Vite
+- Docker
+- docker-compose
+- GitHub Actions
+- pytest
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["vulnerability management", "AI-driven development", "full-stack", "security tooling", "workflow automation"]
-source: "https://github.com/WskYa/vuln-mgmt-platform"
+deployment_complexity: Medium
+tags:
+- vulnerability management
+- AI-driven development
+- full-stack
+- security tooling
+- workflow automation
+source: https://github.com/WskYa/vuln-mgmt-platform
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T07:30:24Z"
-discovered_at: "2026-08-10T07:35:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T07:30:24Z'
+discovered_at: '2026-08-10T07:35:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

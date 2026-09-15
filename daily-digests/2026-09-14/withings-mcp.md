@@ -1,19 +1,29 @@
 ---
-title: "partymola/withings-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.13+", "Model Context Protocol (MCP)", "SQLite", "OAuth 2.0", "HTTP (stdlib)"]
+title: partymola/withings-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python 3.13+
+- Model Context Protocol (MCP)
+- SQLite
+- OAuth 2.0
+- HTTP (stdlib)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "Withings API", "health data", "OAuth", "trend analysis"]
-source: "https://github.com/partymola/withings-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Withings API
+- health data
+- OAuth
+- trend analysis
+source: https://github.com/partymola/withings-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T22:44:00Z"
-discovered_at: "2026-07-11T22:44:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T22:44:00Z'
+discovered_at: '2026-07-11T22:44:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

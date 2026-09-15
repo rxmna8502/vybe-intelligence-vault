@@ -1,19 +1,39 @@
 ---
-title: "vitali87/code-graph-rag"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Tree-sitter", "Memgraph", "Qdrant", "AST (Abstract Syntax Tree)", "Cypher (Graph Query Language)", "Docker", "Rust", "TypeScript", "JavaScript", "Go", "Java", "C/C++", "CI/CD (GitHub Actions)", "MCP (Model Context Protocol)"]
+title: vitali87/code-graph-rag
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Tree-sitter
+- Memgraph
+- Qdrant
+- AST (Abstract Syntax Tree)
+- Cypher (Graph Query Language)
+- Docker
+- Rust
+- TypeScript
+- JavaScript
+- Go
+- Java
+- C/C++
+- CI/CD (GitHub Actions)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["knowledge graph", "multi-language parsing", "AI-driven code editing", "RAG for codebases", "monorepo analysis"]
-source: "https://github.com/vitali87/code-graph-rag"
+deployment_complexity: High
+tags:
+- knowledge graph
+- multi-language parsing
+- AI-driven code editing
+- RAG for codebases
+- monorepo analysis
+source: https://github.com/vitali87/code-graph-rag
 stars: 4923
-language: "Python"
-last_updated: "2026-09-03T02:00:41Z"
-discovered_at: "2026-09-03T02:24:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T02:00:41Z'
+discovered_at: '2026-09-03T02:24:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

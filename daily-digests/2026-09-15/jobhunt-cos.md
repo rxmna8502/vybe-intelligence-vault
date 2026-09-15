@@ -1,19 +1,31 @@
 ---
-title: "ahhshaikh/jobhunt-cos"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "Playwright", "Claude Code", "Firecrawl", "Gmail API", "Chromium"]
+title: ahhshaikh/jobhunt-cos
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Node.js
+- Playwright
+- Claude Code
+- Firecrawl
+- Gmail API
+- Chromium
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["job search automation", "resume tailoring", "application form filling", "Claude Code integration", "privacy-focused"]
-source: "https://github.com/ahhshaikh/jobhunt-cos"
+deployment_complexity: Medium
+tags:
+- job search automation
+- resume tailoring
+- application form filling
+- Claude Code integration
+- privacy-focused
+source: https://github.com/ahhshaikh/jobhunt-cos
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T19:15:58Z"
-discovered_at: "2026-08-04T19:32:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T19:15:58Z'
+discovered_at: '2026-08-04T19:32:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "oaslananka/kicad-mcp-pro"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "KiCad EDA", "Tauri", "Streamable HTTP", "OpenTelemetry", "JLCPCB API", "DigiKey API", "Mouser API", "Nexar API"]
+title: oaslananka/kicad-mcp-pro
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- KiCad EDA
+- Tauri
+- Streamable HTTP
+- OpenTelemetry
+- JLCPCB API
+- DigiKey API
+- Mouser API
+- Nexar API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "KiCad automation", "PCB design", "AI agent integration", "EDA workflows"]
-source: "https://github.com/oaslananka/kicad-mcp-pro"
+deployment_complexity: Medium
+tags:
+- MCP server
+- KiCad automation
+- PCB design
+- AI agent integration
+- EDA workflows
+source: https://github.com/oaslananka/kicad-mcp-pro
 stars: 23
-language: "Python"
-last_updated: "2026-07-10T18:11:42Z"
-discovered_at: "2026-07-10T18:22:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T18:11:42Z'
+discovered_at: '2026-07-10T18:22:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "zouyuanqing/vision-primitives-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Pillow (PIL)", "OpenCV", "YOLO", "CRAFT (ONNX)", "NumPy", "JSON-RPC 2.0", "MiMo V2.5", "Qwen2.5-VL", "GLM-4v-flash"]
+title: zouyuanqing/vision-primitives-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Pillow (PIL)
+- OpenCV
+- YOLO
+- CRAFT (ONNX)
+- NumPy
+- JSON-RPC 2.0
+- MiMo V2.5
+- Qwen2.5-VL
+- GLM-4v-flash
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Vision Augmentation", "MCP Server", "VLM Integration", "OCR", "UI Automation"]
-source: "https://github.com/zouyuanqing/vision-primitives-mcp"
+deployment_complexity: Medium
+tags:
+- Vision Augmentation
+- MCP Server
+- VLM Integration
+- OCR
+- UI Automation
+source: https://github.com/zouyuanqing/vision-primitives-mcp
 stars: 5
-language: "Python"
-last_updated: "2026-08-05T11:16:05Z"
-discovered_at: "2026-08-05T11:22:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T11:16:05Z'
+discovered_at: '2026-08-05T11:22:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

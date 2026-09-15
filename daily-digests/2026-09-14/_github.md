@@ -1,19 +1,28 @@
 ---
-title: "ellmos-ai/.github"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["GitHub Actions", "Markdown", "HTML", "YAML"]
+title: ellmos-ai/.github
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- GitHub Actions
+- Markdown
+- HTML
+- YAML
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["organization profile", "repository index", "MCP servers", "LLM OS", "AI tooling"]
-source: "https://github.com/ellmos-ai/.github"
+deployment_complexity: Low
+tags:
+- organization profile
+- repository index
+- MCP servers
+- LLM OS
+- AI tooling
+source: https://github.com/ellmos-ai/.github
 stars: 0
-language: "HTML"
-last_updated: "2026-08-01T03:24:16Z"
-discovered_at: "2026-08-01T03:44:24Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-01T03:24:16Z'
+discovered_at: '2026-08-01T03:44:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

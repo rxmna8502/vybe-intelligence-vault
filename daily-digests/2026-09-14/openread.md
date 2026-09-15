@@ -1,19 +1,31 @@
 ---
-title: "0Smallcat0/OpenRead"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "WXT (Web Extension Toolkit)", "Vitest", "OpenCC", "Ollama", "Chrome Extensions API", "Node.js"]
+title: 0Smallcat0/OpenRead
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- WXT (Web Extension Toolkit)
+- Vitest
+- OpenCC
+- Ollama
+- Chrome Extensions API
+- Node.js
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["on-device translation", "privacy-focused", "browser extension", "PDF translation", "local LLM"]
-source: "https://github.com/0Smallcat0/OpenRead"
+deployment_complexity: Low
+tags:
+- on-device translation
+- privacy-focused
+- browser extension
+- PDF translation
+- local LLM
+source: https://github.com/0Smallcat0/OpenRead
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-06T09:42:07Z"
-discovered_at: "2026-08-06T09:42:19Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T09:42:07Z'
+discovered_at: '2026-08-06T09:42:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

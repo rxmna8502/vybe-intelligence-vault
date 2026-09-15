@@ -1,19 +1,36 @@
 ---
-title: "sponge-b0b/Polaris"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "PostgreSQL", "Qdrant", "Neo4j", "Prometheus", "Jaeger", "Grafana", "Docker", "Typer (CLI)", "OpenTelemetry", "SQLAlchemy", "Alembic (migrations)"]
+title: sponge-b0b/Polaris
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python 3.12+
+- PostgreSQL
+- Qdrant
+- Neo4j
+- Prometheus
+- Jaeger
+- Grafana
+- Docker
+- Typer (CLI)
+- OpenTelemetry
+- SQLAlchemy
+- Alembic (migrations)
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["portfolio analysis", "RAG pipeline", "workflow orchestration", "financial intelligence", "observability"]
-source: "https://github.com/sponge-b0b/Polaris"
+deployment_complexity: High
+tags:
+- portfolio analysis
+- RAG pipeline
+- workflow orchestration
+- financial intelligence
+- observability
+source: https://github.com/sponge-b0b/Polaris
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T07:46:12Z"
-discovered_at: "2026-07-11T07:52:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T07:46:12Z'
+discovered_at: '2026-07-11T07:52:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

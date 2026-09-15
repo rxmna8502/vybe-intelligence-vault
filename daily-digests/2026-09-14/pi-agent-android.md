@@ -1,19 +1,30 @@
 ---
-title: "Anatt562/pi-agent-android"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Termux", "Shell Scripting", "Proot", "Ubuntu", "Android", "AI Agents"]
+title: Anatt562/pi-agent-android
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Termux
+- Shell Scripting
+- Proot
+- Ubuntu
+- Android
+- AI Agents
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["mobile AI", "local LLM", "Termux", "Android AI", "offline processing"]
-source: "https://github.com/Anatt562/pi-agent-android"
+deployment_complexity: Medium
+tags:
+- mobile AI
+- local LLM
+- Termux
+- Android AI
+- offline processing
+source: https://github.com/Anatt562/pi-agent-android
 stars: 1
-language: "Shell"
-last_updated: "2026-08-06T06:28:40Z"
-discovered_at: "2026-08-06T06:33:08Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-06T06:28:40Z'
+discovered_at: '2026-08-06T06:33:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "Ignite-Solutions-Group/devbrain"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Azure Functions", "Cosmos DB", "C#", ".NET 10", "Azure Developer CLI (azd)", "Azure Entra ID (OAuth 2.0)", "Azure Key Vault", "Managed Identity", "MCP (Model Context Protocol)", "Dynamic Client Registration (DCR)"]
+title: Ignite-Solutions-Group/devbrain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Azure Functions
+- Cosmos DB
+- C#
+- .NET 10
+- Azure Developer CLI (azd)
+- Azure Entra ID (OAuth 2.0)
+- Azure Key Vault
+- Managed Identity
+- MCP (Model Context Protocol)
+- Dynamic Client Registration (DCR)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP server", "persistent knowledge", "Azure integration", "OAuth 2.0", "developer context"]
-source: "https://github.com/Ignite-Solutions-Group/devbrain"
+deployment_complexity: Medium
+tags:
+- MCP server
+- persistent knowledge
+- Azure integration
+- OAuth 2.0
+- developer context
+source: https://github.com/Ignite-Solutions-Group/devbrain
 stars: 1
-language: "C#"
-last_updated: "2026-08-09T07:54:30Z"
-discovered_at: "2026-08-09T07:58:48Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-09T07:54:30Z'
+discovered_at: '2026-08-09T07:58:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "xjoker/delamain"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JADX", "Android Reverse Engineering", "APK/DEX/AAB Parsing"]
+title: xjoker/delamain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JADX
+- Android Reverse Engineering
+- APK/DEX/AAB Parsing
 quality_score: 5
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Android reverse engineering", "MCP server", "JADX integration", "AI agent tooling", "APK analysis"]
-source: "https://github.com/xjoker/delamain"
+deployment_complexity: Medium
+tags:
+- Android reverse engineering
+- MCP server
+- JADX integration
+- AI agent tooling
+- APK analysis
+source: https://github.com/xjoker/delamain
 stars: 0
-language: "None"
-last_updated: "2026-07-21T10:13:32Z"
-discovered_at: "2026-07-21T10:24:50Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-21T10:13:32Z'
+discovered_at: '2026-07-21T10:24:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "Mingye-Lu/AgenticCrawler"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Chromium", "DevTools Protocol", "Model Context Protocol (MCP)", "JavaScript/TypeScript (for browser extension)", "LLM APIs (25 providers)"]
+title: Mingye-Lu/AgenticCrawler
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Chromium
+- DevTools Protocol
+- Model Context Protocol (MCP)
+- JavaScript/TypeScript (for browser extension)
+- LLM APIs (25 providers)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["browser automation", "web scraping", "LLM agent", "DevTools observability", "headless browser"]
-source: "https://github.com/Mingye-Lu/AgenticCrawler"
+deployment_complexity: Medium
+tags:
+- browser automation
+- web scraping
+- LLM agent
+- DevTools observability
+- headless browser
+source: https://github.com/Mingye-Lu/AgenticCrawler
 stars: 9
-language: "Rust"
-last_updated: "2026-07-12T14:46:44Z"
-discovered_at: "2026-07-12T14:54:51Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-12T14:46:44Z'
+discovered_at: '2026-07-12T14:54:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

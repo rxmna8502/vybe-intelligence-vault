@@ -1,19 +1,34 @@
 ---
-title: "Shanksg/clawskills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "MCP (Model Context Protocol)", "Node.js", "Python", "REST APIs", "GraphQL", "Webhooks", "Authentication (OAuth, JWT, API Keys)", "Rate Limiting & Retry Logic", "RAG (Retrieval-Augmented Generation)"]
+title: Shanksg/clawskills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Markdown
+- MCP (Model Context Protocol)
+- Node.js
+- Python
+- REST APIs
+- GraphQL
+- Webhooks
+- Authentication (OAuth, JWT, API Keys)
+- Rate Limiting & Retry Logic
+- RAG (Retrieval-Augmented Generation)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["SaaS integration", "API documentation", "AI agent tooling", "MCP server", "RAG context"]
-source: "https://github.com/Shanksg/clawskills"
+deployment_complexity: Low
+tags:
+- SaaS integration
+- API documentation
+- AI agent tooling
+- MCP server
+- RAG context
+source: https://github.com/Shanksg/clawskills
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T08:15:47Z"
-discovered_at: "2026-08-02T08:22:58Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T08:15:47Z'
+discovered_at: '2026-08-02T08:22:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

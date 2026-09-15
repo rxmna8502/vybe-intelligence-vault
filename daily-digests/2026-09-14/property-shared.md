@@ -1,19 +1,38 @@
 ---
-title: "paulieb89/property-shared"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "HTTP API", "CLI", "Docker", "AWS (Fly.io for deployment)", "GOV.UK EPC API", "Land Registry PPD", "Rightmove", "Companies House API", "DuckDB", "Zstandard", "Botocore"]
+title: paulieb89/property-shared
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- HTTP API
+- CLI
+- Docker
+- AWS (Fly.io for deployment)
+- GOV.UK EPC API
+- Land Registry PPD
+- Rightmove
+- Companies House API
+- DuckDB
+- Zstandard
+- Botocore
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["UK property data", "real estate analytics", "MCP server", "data aggregation", "property investment"]
-source: "https://github.com/paulieb89/property-shared"
+deployment_complexity: Medium
+tags:
+- UK property data
+- real estate analytics
+- MCP server
+- data aggregation
+- property investment
+source: https://github.com/paulieb89/property-shared
 stars: 16
-language: "Python"
-last_updated: "2026-09-01T02:47:24Z"
-discovered_at: "2026-09-01T02:52:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T02:47:24Z'
+discovered_at: '2026-09-01T02:52:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

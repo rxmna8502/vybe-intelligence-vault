@@ -1,19 +1,33 @@
 ---
-title: "Bibek-Dhakal/aegis-api"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "Python 3.12", "ONNX Runtime", "Gemini API", "FAISS", "HuggingFace Tokenizers", "PyPDF2", "Streamlit", "Uvicorn"]
+title: Bibek-Dhakal/aegis-api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- FastAPI
+- Python 3.12
+- ONNX Runtime
+- Gemini API
+- FAISS
+- HuggingFace Tokenizers
+- PyPDF2
+- Streamlit
+- Uvicorn
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "ReAct Agent", "Local Embeddings", "FastAPI", "Gemini Integration"]
-source: "https://github.com/Bibek-Dhakal/aegis-api"
+deployment_complexity: Medium
+tags:
+- RAG
+- ReAct Agent
+- Local Embeddings
+- FastAPI
+- Gemini Integration
+source: https://github.com/Bibek-Dhakal/aegis-api
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T15:14:39Z"
-discovered_at: "2026-08-06T15:18:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T15:14:39Z'
+discovered_at: '2026-08-06T15:18:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

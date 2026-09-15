@@ -1,19 +1,29 @@
 ---
-title: "pipeworx-io/mcp-bright-data"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Bright Data APIs", "Web Scraping", "SERP API"]
+title: pipeworx-io/mcp-bright-data
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Bright Data APIs
+- Web Scraping
+- SERP API
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP", "web scraping", "SERP", "data integration", "AI agents"]
-source: "https://github.com/pipeworx-io/mcp-bright-data"
+deployment_complexity: Low
+tags:
+- MCP
+- web scraping
+- SERP
+- data integration
+- AI agents
+source: https://github.com/pipeworx-io/mcp-bright-data
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T19:04:52Z"
-discovered_at: "2026-07-19T19:13:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T19:04:52Z'
+discovered_at: '2026-07-19T19:13:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

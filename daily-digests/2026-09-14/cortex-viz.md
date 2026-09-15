@@ -1,19 +1,33 @@
 ---
-title: "cdeust/cortex-viz"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Python", "PostgreSQL", "Claude Code", "MCP (Model Context Protocol)", "JavaScript/TypeScript (UI)", "3D Visualization (WebGL/Three.js)", "Neuroscience-inspired graph layout", "AST Parsing (10 languages)", "Git Integration"]
+title: cdeust/cortex-viz
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- PostgreSQL
+- Claude Code
+- MCP (Model Context Protocol)
+- JavaScript/TypeScript (UI)
+- 3D Visualization (WebGL/Three.js)
+- Neuroscience-inspired graph layout
+- AST Parsing (10 languages)
+- Git Integration
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["visualization", "memory analysis", "code graph", "Claude Code", "neural mapping"]
-source: "https://github.com/cdeust/cortex-viz"
+deployment_complexity: Medium
+tags:
+- visualization
+- memory analysis
+- code graph
+- Claude Code
+- neural mapping
+source: https://github.com/cdeust/cortex-viz
 stars: 2
-language: "Python"
-last_updated: "2026-08-02T16:05:34Z"
-discovered_at: "2026-08-02T16:11:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T16:05:34Z'
+discovered_at: '2026-08-02T16:11:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

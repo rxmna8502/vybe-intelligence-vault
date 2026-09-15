@@ -1,19 +1,35 @@
 ---
-title: "Maijied/Lorapok_AI_Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "Express.js", "Docker", "Jest", "Git", "GitHub Actions", "AES-256-GCM", "OpenRouter API", "Google AI Studio API", "Perplexity AI API"]
+title: Maijied/Lorapok_AI_Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Node.js
+- JavaScript
+- Express.js
+- Docker
+- Jest
+- Git
+- GitHub Actions
+- AES-256-GCM
+- OpenRouter API
+- Google AI Studio API
+- Perplexity AI API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agent", "terminal engineering", "multi-provider LLM", "Git orchestration", "REST API"]
-source: "https://github.com/Maijied/Lorapok_AI_Agent"
+deployment_complexity: Medium
+tags:
+- autonomous agent
+- terminal engineering
+- multi-provider LLM
+- Git orchestration
+- REST API
+source: https://github.com/Maijied/Lorapok_AI_Agent
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T17:53:55Z"
-discovered_at: "2026-08-01T18:00:07Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T17:53:55Z'
+discovered_at: '2026-08-01T18:00:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

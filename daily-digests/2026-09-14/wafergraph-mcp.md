@@ -1,19 +1,30 @@
 ---
-title: "jasonpalmer1/wafergraph-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers", "MCP (Model Context Protocol)", "SQLite", "Durable Objects", "Wrangler (Cloudflare CLI)"]
+title: jasonpalmer1/wafergraph-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- MCP (Model Context Protocol)
+- SQLite
+- Durable Objects
+- Wrangler (Cloudflare CLI)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "semiconductor supply chain", "AI dataset", "Cloudflare Workers", "M&A data"]
-source: "https://github.com/jasonpalmer1/wafergraph-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- semiconductor supply chain
+- AI dataset
+- Cloudflare Workers
+- M&A data
+source: https://github.com/jasonpalmer1/wafergraph-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T17:57:52Z"
-discovered_at: "2026-07-19T17:59:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T17:57:52Z'
+discovered_at: '2026-07-19T17:59:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

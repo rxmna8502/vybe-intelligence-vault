@@ -1,19 +1,32 @@
 ---
-title: "blackaxgit/clx"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "Ollama", "LLM (Qwen3)", "MCP (Model Context Protocol)", "SQLite-vec (vector embeddings)", "FTS5 (full-text search)", "Homebrew (packaging)"]
+title: blackaxgit/clx
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- SQLite
+- Ollama
+- LLM (Qwen3)
+- MCP (Model Context Protocol)
+- SQLite-vec (vector embeddings)
+- FTS5 (full-text search)
+- Homebrew (packaging)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["command validation", "context persistence", "semantic search", "coding agents", "security enforcement"]
-source: "https://github.com/blackaxgit/clx"
+deployment_complexity: Medium
+tags:
+- command validation
+- context persistence
+- semantic search
+- coding agents
+- security enforcement
+source: https://github.com/blackaxgit/clx
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T20:39:54Z"
-discovered_at: "2026-08-01T20:51:22Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T20:39:54Z'
+discovered_at: '2026-08-01T20:51:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

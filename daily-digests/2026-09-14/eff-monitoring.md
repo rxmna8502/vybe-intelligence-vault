@@ -1,19 +1,36 @@
 ---
-title: "Fausto-404/EFF-Monitoring"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "React", "TypeScript", "PostgreSQL", "LangGraph", "Python", "Docker", "OpenAI-Compatible APIs", "SQLAlchemy", "Pydantic", "Ant Design", "Vite"]
+title: Fausto-404/EFF-Monitoring
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- FastAPI
+- React
+- TypeScript
+- PostgreSQL
+- LangGraph
+- Python
+- Docker
+- OpenAI-Compatible APIs
+- SQLAlchemy
+- Pydantic
+- Ant Design
+- Vite
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Security Operations", "AI Agent", "Incident Management", "Threat Intelligence", "Automated Workflows"]
-source: "https://github.com/Fausto-404/EFF-Monitoring"
+deployment_complexity: Medium
+tags:
+- Security Operations
+- AI Agent
+- Incident Management
+- Threat Intelligence
+- Automated Workflows
+source: https://github.com/Fausto-404/EFF-Monitoring
 stars: 33
-language: "Python"
-last_updated: "2026-07-13T06:14:12Z"
-discovered_at: "2026-07-13T06:15:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T06:14:12Z'
+discovered_at: '2026-07-13T06:15:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

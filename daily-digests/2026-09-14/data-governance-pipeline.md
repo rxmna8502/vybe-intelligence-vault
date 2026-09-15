@@ -1,19 +1,37 @@
 ---
-title: "MatthewRyanWeber/data-governance-pipeline"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "PostgreSQL", "Docker", "Prometheus", "OpenLineage", "spaCy", "Fernet Encryption", "DuckDB", "Spark", "Kafka", "Kinesis", "QuickBooks Online"]
+title: MatthewRyanWeber/data-governance-pipeline
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- SQLite
+- PostgreSQL
+- Docker
+- Prometheus
+- OpenLineage
+- spaCy
+- Fernet Encryption
+- DuckDB
+- Spark
+- Kafka
+- Kinesis
+- QuickBooks Online
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["ETL", "Data Governance", "PII Masking", "Audit Ledger", "Compliance"]
-source: "https://github.com/MatthewRyanWeber/data-governance-pipeline"
+deployment_complexity: Medium
+tags:
+- ETL
+- Data Governance
+- PII Masking
+- Audit Ledger
+- Compliance
+source: https://github.com/MatthewRyanWeber/data-governance-pipeline
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T06:53:51Z"
-discovered_at: "2026-08-08T07:51:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T06:53:51Z'
+discovered_at: '2026-08-08T07:51:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "AcruxCore/AcruxCore"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "PostgreSQL", "Redis", "Docker", "Jinja2", "OpenAI", "Anthropic", "Gemini", "Better Auth"]
+title: AcruxCore/AcruxCore
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- PostgreSQL
+- Redis
+- Docker
+- Jinja2
+- OpenAI
+- Anthropic
+- Gemini
+- Better Auth
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["prompt management", "AI gateway", "tracing", "tool catalog", "LLM orchestration"]
-source: "https://github.com/AcruxCore/AcruxCore"
+deployment_complexity: Medium
+tags:
+- prompt management
+- AI gateway
+- tracing
+- tool catalog
+- LLM orchestration
+source: https://github.com/AcruxCore/AcruxCore
 stars: 4
-language: "TypeScript"
-last_updated: "2026-09-02T12:17:13Z"
-discovered_at: "2026-09-03T22:13:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T12:17:13Z'
+discovered_at: '2026-09-03T22:13:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

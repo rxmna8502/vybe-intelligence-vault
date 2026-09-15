@@ -1,19 +1,31 @@
 ---
-title: "cbuntingde/kimi-memory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "Kimi Code", "Hugging Face Transformers (Xenova/all-MiniLM-L6-v2)", "SQL (FTS5 for full-text search)"]
+title: cbuntingde/kimi-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- Kimi Code
+- Hugging Face Transformers (Xenova/all-MiniLM-L6-v2)
+- SQL (FTS5 for full-text search)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["memory management", "MCP plugin", "local SQLite", "vector search", "auto-extraction"]
-source: "https://github.com/cbuntingde/kimi-memory"
+deployment_complexity: Medium
+tags:
+- memory management
+- MCP plugin
+- local SQLite
+- vector search
+- auto-extraction
+source: https://github.com/cbuntingde/kimi-memory
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:22:12Z"
-discovered_at: "2026-08-02T19:25:21Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:22:12Z'
+discovered_at: '2026-08-02T19:25:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

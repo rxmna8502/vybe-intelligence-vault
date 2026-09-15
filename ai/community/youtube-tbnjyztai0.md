@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:_TBNJyztai0
 first_seen: '2026-09-14T00:23:06.824725+05:30'
 last_seen: '2026-09-14T04:00:54.605219+05:30'
 last_checked: '2026-09-14T04:00:54.605219+05:30'
 health_score: 100
 ---
+
 
 # Sean Carroll explains the biggest ideas in the universe – Full Interview [video]
 

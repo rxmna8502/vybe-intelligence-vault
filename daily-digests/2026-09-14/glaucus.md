@@ -1,19 +1,29 @@
 ---
-title: "elioseverojunior/glaucus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "YAML 1.2.2", "Serde", "CLI", "Zero-Copy Design"]
+title: elioseverojunior/glaucus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- YAML 1.2.2
+- Serde
+- CLI
+- Zero-Copy Design
 quality_score: 10
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["YAML parser", "Rust library", "serde integration", "high performance", "safe parsing"]
-source: "https://github.com/elioseverojunior/glaucus"
+deployment_complexity: Low
+tags:
+- YAML parser
+- Rust library
+- serde integration
+- high performance
+- safe parsing
+source: https://github.com/elioseverojunior/glaucus
 stars: 1
-language: "Rust"
-last_updated: "2026-08-10T17:02:20Z"
-discovered_at: "2026-08-10T17:06:00Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-10T17:02:20Z'
+discovered_at: '2026-08-10T17:06:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

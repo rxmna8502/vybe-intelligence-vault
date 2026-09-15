@@ -1,19 +1,28 @@
 ---
-title: "abhinandansethi/lr-labs-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "HTTP API", "Symbolic Reasoning"]
+title: abhinandansethi/lr-labs-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- HTTP API
+- Symbolic Reasoning
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["tax law", "symbolic reasoning", "MCP connector", "deterministic engine", "legal compliance"]
-source: "https://github.com/abhinandansethi/lr-labs-mcp"
+deployment_complexity: Low
+tags:
+- tax law
+- symbolic reasoning
+- MCP connector
+- deterministic engine
+- legal compliance
+source: https://github.com/abhinandansethi/lr-labs-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T05:51:56Z"
-discovered_at: "2026-08-02T05:57:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T05:51:56Z'
+discovered_at: '2026-08-02T05:57:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

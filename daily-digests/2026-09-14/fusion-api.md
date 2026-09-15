@@ -1,19 +1,33 @@
 ---
-title: "HyxiaoGe/fusion-api"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "PostgreSQL", "SQLAlchemy", "LangChain", "JWT", "OAuth 2.0", "Docker", "asyncio", "httpx"]
+title: HyxiaoGe/fusion-api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- LangChain
+- JWT
+- OAuth 2.0
+- Docker
+- asyncio
+- httpx
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["multi-model", "chat backend", "session management", "file processing", "authentication"]
-source: "https://github.com/HyxiaoGe/fusion-api"
+deployment_complexity: Medium
+tags:
+- multi-model
+- chat backend
+- session management
+- file processing
+- authentication
+source: https://github.com/HyxiaoGe/fusion-api
 stars: 5
-language: "Python"
-last_updated: "2026-08-08T05:28:37Z"
-discovered_at: "2026-08-08T05:46:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T05:28:37Z'
+discovered_at: '2026-08-08T05:46:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

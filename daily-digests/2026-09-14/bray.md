@@ -1,19 +1,34 @@
 ---
-title: "forgesworn/bray"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Nostr Protocol", "NIP-46 (Nostr Connect)", "NIP-44 (Encrypted Payloads)", "NIP-89 (Capability Discovery)", "MCP (Model Context Protocol)", "NIP-05 (DNS Identity)", "NIP-49 (Key Encryption)", "NIP-29 (Group Chat)"]
+title: forgesworn/bray
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- Nostr Protocol
+- NIP-46 (Nostr Connect)
+- NIP-44 (Encrypted Payloads)
+- NIP-89 (Capability Discovery)
+- MCP (Model Context Protocol)
+- NIP-05 (DNS Identity)
+- NIP-49 (Key Encryption)
+- NIP-29 (Group Chat)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Nostr", "MCP Server", "AI Agents", "Trust Management", "Decentralized Identity"]
-source: "https://github.com/forgesworn/bray"
+deployment_complexity: Medium
+tags:
+- Nostr
+- MCP Server
+- AI Agents
+- Trust Management
+- Decentralized Identity
+source: https://github.com/forgesworn/bray
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-17T20:05:00Z"
-discovered_at: "2026-07-17T20:05:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T20:05:00Z'
+discovered_at: '2026-07-17T20:05:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

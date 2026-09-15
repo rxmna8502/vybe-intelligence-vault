@@ -1,19 +1,30 @@
 ---
-title: "wlsdks/attunegraph"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "NDJSON", "In-memory data structures", "Worker threads"]
+title: wlsdks/attunegraph
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- NDJSON
+- In-memory data structures
+- Worker threads
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["temporal graph", "provenance tracking", "working graph", "agent decision engine", "immutable projections"]
-source: "https://github.com/wlsdks/attunegraph"
+deployment_complexity: Medium
+tags:
+- temporal graph
+- provenance tracking
+- working graph
+- agent decision engine
+- immutable projections
+source: https://github.com/wlsdks/attunegraph
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T03:35:00Z"
-discovered_at: "2026-08-01T03:43:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:35:00Z'
+discovered_at: '2026-08-01T03:43:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

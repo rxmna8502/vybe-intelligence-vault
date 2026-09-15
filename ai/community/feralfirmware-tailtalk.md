@@ -13,13 +13,14 @@ collected_at: '2026-09-14T04:00:55.785903+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:feralfirmware/tailtalk
 first_seen: '2026-09-13T18:54:03.003746+05:30'
 last_seen: '2026-09-14T04:00:55.785903+05:30'
 last_checked: '2026-09-14T04:00:55.785903+05:30'
 health_score: 100
 ---
+
 
 # TailTalk: A modern async user space AppleTalk stack with Rust and Tokio
 

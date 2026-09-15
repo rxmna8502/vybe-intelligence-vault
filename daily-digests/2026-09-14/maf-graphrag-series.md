@@ -1,19 +1,34 @@
 ---
-title: "cristofima/maf-graphrag-series"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Microsoft GraphRAG", "Azure OpenAI", "FastMCP", "Microsoft Agent Framework", "uv", "Leiden algorithm", "Streamable HTTP", "Jupyter Notebook", "OpenTelemetry"]
+title: cristofima/maf-graphrag-series
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Microsoft GraphRAG
+- Azure OpenAI
+- FastMCP
+- Microsoft Agent Framework
+- uv
+- Leiden algorithm
+- Streamable HTTP
+- Jupyter Notebook
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["Knowledge Graphs", "GraphRAG", "MCP Server", "Agent Orchestration", "Azure AI"]
-source: "https://github.com/cristofima/maf-graphrag-series"
+deployment_complexity: High
+tags:
+- Knowledge Graphs
+- GraphRAG
+- MCP Server
+- Agent Orchestration
+- Azure AI
+source: https://github.com/cristofima/maf-graphrag-series
 stars: 2
-language: "Python"
-last_updated: "2026-08-05T16:39:07Z"
-discovered_at: "2026-08-05T16:44:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T16:39:07Z'
+discovered_at: '2026-08-05T16:44:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

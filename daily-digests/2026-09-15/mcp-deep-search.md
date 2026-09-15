@@ -1,19 +1,29 @@
 ---
-title: "just-every/mcp-deep-search"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "npm", "API integrations"]
+title: just-every/mcp-deep-search
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
+- API integrations
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "web search", "multi-provider", "AI agents", "RAG enhancement"]
-source: "https://github.com/just-every/mcp-deep-search"
+deployment_complexity: Medium
+tags:
+- MCP server
+- web search
+- multi-provider
+- AI agents
+- RAG enhancement
+source: https://github.com/just-every/mcp-deep-search
 stars: 9
-language: "JavaScript"
-last_updated: "2026-08-04T21:11:55Z"
-discovered_at: "2026-08-04T21:15:01Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T21:11:55Z'
+discovered_at: '2026-08-04T21:15:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

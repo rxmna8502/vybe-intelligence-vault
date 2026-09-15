@@ -1,19 +1,29 @@
 ---
-title: "mamun1978/__2026_03_14_chihlee_gemini__"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Raspberry Pi", "Gemini Protocol", "Windows Desktop App", "PyInstaller (implied for .exe)"]
+title: mamun1978/__2026_03_14_chihlee_gemini__
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Raspberry Pi
+- Gemini Protocol
+- Windows Desktop App
+- PyInstaller (implied for .exe)
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["Raspberry Pi", "Python Automation", "Gemini Protocol", "Windows App", "Offline Tool"]
-source: "https://github.com/mamun1978/__2026_03_14_chihlee_gemini__"
+deployment_complexity: Low
+tags:
+- Raspberry Pi
+- Python Automation
+- Gemini Protocol
+- Windows App
+- Offline Tool
+source: https://github.com/mamun1978/__2026_03_14_chihlee_gemini__
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T20:11:23Z"
-discovered_at: "2026-07-13T20:14:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T20:11:23Z'
+discovered_at: '2026-07-13T20:14:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

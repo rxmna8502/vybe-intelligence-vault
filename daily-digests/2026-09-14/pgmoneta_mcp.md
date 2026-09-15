@@ -1,19 +1,31 @@
 ---
-title: "pgmoneta/pgmoneta_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "PostgreSQL", "SCRAM-SHA-256", "Ollama", "llama.cpp", "ramalama"]
+title: pgmoneta/pgmoneta_mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- PostgreSQL
+- SCRAM-SHA-256
+- Ollama
+- llama.cpp
+- ramalama
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["PostgreSQL", "MCP", "Backup", "Local LLM", "Agent Integration"]
-source: "https://github.com/pgmoneta/pgmoneta_mcp"
+deployment_complexity: Medium
+tags:
+- PostgreSQL
+- MCP
+- Backup
+- Local LLM
+- Agent Integration
+source: https://github.com/pgmoneta/pgmoneta_mcp
 stars: 13
-language: "Rust"
-last_updated: "2026-08-08T04:43:41Z"
-discovered_at: "2026-08-08T04:59:06Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T04:43:41Z'
+discovered_at: '2026-08-08T04:59:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "aspose-slides/agentic-net-examples"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "Aspose.Slides", "PowerPoint Automation", "NuGet"]
+title: aspose-slides/agentic-net-examples
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- C#
+- .NET
+- Aspose.Slides
+- PowerPoint Automation
+- NuGet
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["PowerPoint automation", "C# examples", "presentation generation", "Aspose.Slides", "PPTX conversion"]
-source: "https://github.com/aspose-slides/agentic-net-examples"
+deployment_complexity: Medium
+tags:
+- PowerPoint automation
+- C# examples
+- presentation generation
+- Aspose.Slides
+- PPTX conversion
+source: https://github.com/aspose-slides/agentic-net-examples
 stars: 0
-language: "C#"
-last_updated: "2026-08-03T10:42:41Z"
-discovered_at: "2026-08-03T10:43:52Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-03T10:42:41Z'
+discovered_at: '2026-08-03T10:43:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

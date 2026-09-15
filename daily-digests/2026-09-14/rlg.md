@@ -1,19 +1,34 @@
 ---
-title: "sebastienrousseau/rlg"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Cargo", "eBPF", "WASM", "OpenTelemetry (OTLP)", "Model Context Protocol (MCP)", "Tower", "Aho-Corasick", "Journald", "syslog(3)"]
+title: sebastienrousseau/rlg
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- Cargo
+- eBPF
+- WASM
+- OpenTelemetry (OTLP)
+- Model Context Protocol (MCP)
+- Tower
+- Aho-Corasick
+- Journald
+- syslog(3)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["structured logging", "high-performance", "Rust", "observability", "PII redaction"]
-source: "https://github.com/sebastienrousseau/rlg"
+deployment_complexity: Medium
+tags:
+- structured logging
+- high-performance
+- Rust
+- observability
+- PII redaction
+source: https://github.com/sebastienrousseau/rlg
 stars: 4
-language: "Rust"
-last_updated: "2026-08-10T18:51:55Z"
-discovered_at: "2026-08-10T19:01:34Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-10T18:51:55Z'
+discovered_at: '2026-08-10T19:01:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "willyzengg-pixel/deepwrite"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["AI Agents", "Prompt Engineering", "Content Methodology", "Structured Writing Frameworks"]
+title: willyzengg-pixel/deepwrite
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- AI Agents
+- Prompt Engineering
+- Content Methodology
+- Structured Writing Frameworks
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI-assisted writing", "content methodology", "agent workflows", "deep content creation", "writing frameworks"]
-source: "https://github.com/willyzengg-pixel/deepwrite"
+deployment_complexity: Low
+tags:
+- AI-assisted writing
+- content methodology
+- agent workflows
+- deep content creation
+- writing frameworks
+source: https://github.com/willyzengg-pixel/deepwrite
 stars: 1
-language: "None"
-last_updated: "2026-08-08T08:35:35Z"
-discovered_at: "2026-08-08T08:42:38Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T08:35:35Z'
+discovered_at: '2026-08-08T08:42:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

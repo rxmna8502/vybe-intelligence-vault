@@ -1,19 +1,29 @@
 ---
-title: "redhat-et/ripwire"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++23", "tree-sitter", "CMake", "Personalized PageRank", "MCP (Model Context Protocol)"]
+title: redhat-et/ripwire
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- C++23
+- tree-sitter
+- CMake
+- Personalized PageRank
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["code analysis", "call graph", "deterministic retrieval", "agent tooling", "zero-dependency"]
-source: "https://github.com/redhat-et/ripwire"
+deployment_complexity: Medium
+tags:
+- code analysis
+- call graph
+- deterministic retrieval
+- agent tooling
+- zero-dependency
+source: https://github.com/redhat-et/ripwire
 stars: 0
-language: "C++"
-last_updated: "2026-08-02T15:01:15Z"
-discovered_at: "2026-08-02T15:02:50Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-02T15:01:15Z'
+discovered_at: '2026-08-02T15:02:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

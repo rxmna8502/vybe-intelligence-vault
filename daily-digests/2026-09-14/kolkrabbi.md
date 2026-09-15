@@ -1,19 +1,31 @@
 ---
-title: "onembyte/kolkrabbi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "OpenRouter API", "Ollama", "vLLM", "SSE (Server-Sent Events)", "JSONL", "Cosign (for release signing)"]
+title: onembyte/kolkrabbi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- OpenRouter API
+- Ollama
+- vLLM
+- SSE (Server-Sent Events)
+- JSONL
+- Cosign (for release signing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI coding agent", "model-agnostic", "local dashboard", "terminal-based", "cost tracking"]
-source: "https://github.com/onembyte/kolkrabbi"
+deployment_complexity: Low
+tags:
+- AI coding agent
+- model-agnostic
+- local dashboard
+- terminal-based
+- cost tracking
+source: https://github.com/onembyte/kolkrabbi
 stars: 1
-language: "Go"
-last_updated: "2026-09-04T02:12:05Z"
-discovered_at: "2026-09-04T02:13:13Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-04T02:12:05Z'
+discovered_at: '2026-09-04T02:13:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

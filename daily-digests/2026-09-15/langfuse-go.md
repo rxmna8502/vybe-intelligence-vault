@@ -1,19 +1,28 @@
 ---
-title: "sedai194443/langfuse-go"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Langfuse", "LLM Monitoring", "Asynchronous Processing"]
+title: sedai194443/langfuse-go
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Go
+- Langfuse
+- LLM Monitoring
+- Asynchronous Processing
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["LLM monitoring", "Go SDK", "tracing", "batch processing", "observability"]
-source: "https://github.com/sedai194443/langfuse-go"
+deployment_complexity: Low
+tags:
+- LLM monitoring
+- Go SDK
+- tracing
+- batch processing
+- observability
+source: https://github.com/sedai194443/langfuse-go
 stars: 1
-language: "Go"
-last_updated: "2026-08-05T21:07:11Z"
-discovered_at: "2026-08-05T22:15:17Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-05T21:07:11Z'
+discovered_at: '2026-08-05T22:15:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

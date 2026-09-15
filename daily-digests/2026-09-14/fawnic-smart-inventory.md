@@ -1,19 +1,40 @@
 ---
-title: "BuildsWithAli/fawnic-smart-inventory"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Django", "Django REST Framework", "React", "TypeScript", "Vite", "Tailwind CSS", "SQLite", "PostgreSQL", "Anthropic", "OpenAI", "Google GenAI", "Ollama", "JWT", "React Router", "Recharts", "React DnD"]
+title: BuildsWithAli/fawnic-smart-inventory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Django
+- Django REST Framework
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- SQLite
+- PostgreSQL
+- Anthropic
+- OpenAI
+- Google GenAI
+- Ollama
+- JWT
+- React Router
+- Recharts
+- React DnD
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["inventory-management", "order-management", "ai-agent", "kanban", "production-saas"]
-source: "https://github.com/BuildsWithAli/fawnic-smart-inventory"
+deployment_complexity: Medium
+tags:
+- inventory-management
+- order-management
+- ai-agent
+- kanban
+- production-saas
+source: https://github.com/BuildsWithAli/fawnic-smart-inventory
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T15:45:10Z"
-discovered_at: "2026-09-01T15:52:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:45:10Z'
+discovered_at: '2026-09-01T15:52:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

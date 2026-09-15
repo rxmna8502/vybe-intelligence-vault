@@ -1,19 +1,30 @@
 ---
-title: "JasonColapietro/suede-creator-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "OpenAI Codex CLI", "Python", "MCP (Model Context Protocol)", "Markdown", "Bash"]
+title: JasonColapietro/suede-creator-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Claude Code
+- OpenAI Codex CLI
+- Python
+- MCP (Model Context Protocol)
+- Markdown
+- Bash
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "code review automation", "AI evaluation", "workflow automation", "MCP server"]
-source: "https://github.com/JasonColapietro/suede-creator-skills"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- code review automation
+- AI evaluation
+- workflow automation
+- MCP server
+source: https://github.com/JasonColapietro/suede-creator-skills
 stars: 7
-language: "Python"
-last_updated: "2026-07-12T08:08:48Z"
-discovered_at: "2026-07-12T08:15:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T08:08:48Z'
+discovered_at: '2026-07-12T08:15:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "SAIHM-Admin/saihm-mcp-server-pro"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Post-Quantum Cryptography (ML-DSA-65, ML-KEM-768)", "AES-256-GCM", "JWT", "Stripe (for payments)"]
+title: SAIHM-Admin/saihm-mcp-server-pro
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Post-Quantum Cryptography (ML-DSA-65, ML-KEM-768)
+- AES-256-GCM
+- JWT
+- Stripe (for payments)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["non-custodial memory", "client-side encryption", "post-quantum cryptography", "MCP server", "GDPR compliance"]
-source: "https://github.com/SAIHM-Admin/saihm-mcp-server-pro"
+deployment_complexity: Medium
+tags:
+- non-custodial memory
+- client-side encryption
+- post-quantum cryptography
+- MCP server
+- GDPR compliance
+source: https://github.com/SAIHM-Admin/saihm-mcp-server-pro
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T08:11:30Z"
-discovered_at: "2026-08-02T08:23:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T08:11:30Z'
+discovered_at: '2026-08-02T08:23:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

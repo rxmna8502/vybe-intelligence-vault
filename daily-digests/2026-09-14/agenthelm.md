@@ -1,19 +1,32 @@
 ---
-title: "jayasukuv11-beep/agenthelm"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Next.js", "TailwindCSS", "Supabase", "Telegram Bot API", "MCP Server", "Node.js"]
+title: jayasukuv11-beep/agenthelm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- TypeScript
+- Next.js
+- TailwindCSS
+- Supabase
+- Telegram Bot API
+- MCP Server
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent governance", "context management", "versioned knowledge", "MCP server", "real-time observability"]
-source: "https://github.com/jayasukuv11-beep/agenthelm"
+deployment_complexity: Medium
+tags:
+- agent governance
+- context management
+- versioned knowledge
+- MCP server
+- real-time observability
+source: https://github.com/jayasukuv11-beep/agenthelm
 stars: 3
-language: "TypeScript"
-last_updated: "2026-07-20T15:04:04Z"
-discovered_at: "2026-07-20T15:10:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T15:04:04Z'
+discovered_at: '2026-07-20T15:10:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

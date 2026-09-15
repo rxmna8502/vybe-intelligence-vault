@@ -1,19 +1,34 @@
 ---
-title: "ai-assist-org/ai-assist"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude (Anthropic)", "MCP (Model Context Protocol)", "Agent Skills", "TUI (Terminal User Interface)", "Knowledge Graph", "MQTT", "D-Bus", "Vertex AI (Google Cloud)", "uv (Python package manager)"]
+title: ai-assist-org/ai-assist
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Claude (Anthropic)
+- MCP (Model Context Protocol)
+- Agent Skills
+- TUI (Terminal User Interface)
+- Knowledge Graph
+- MQTT
+- D-Bus
+- Vertex AI (Google Cloud)
+- uv (Python package manager)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Assistant", "MCP Integration", "Knowledge Graph", "Automated Monitoring", "Agent Skills"]
-source: "https://github.com/ai-assist-org/ai-assist"
+deployment_complexity: Medium
+tags:
+- AI Assistant
+- MCP Integration
+- Knowledge Graph
+- Automated Monitoring
+- Agent Skills
+source: https://github.com/ai-assist-org/ai-assist
 stars: 3
-language: "Python"
-last_updated: "2026-07-15T19:59:47Z"
-discovered_at: "2026-07-15T20:08:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T19:59:47Z'
+discovered_at: '2026-07-15T20:08:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

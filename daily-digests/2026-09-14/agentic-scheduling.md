@@ -1,19 +1,35 @@
 ---
-title: "hunterZh37/agentic-scheduling"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Next.js", "TypeScript", "React 19", "Prisma", "PostgreSQL", "Claude (tool calling)", "Twilio (SMS/WhatsApp)", "Resend (email)", "Luxon", "rrule", "Vercel"]
+title: hunterZh37/agentic-scheduling
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Next.js
+- TypeScript
+- React 19
+- Prisma
+- PostgreSQL
+- Claude (tool calling)
+- Twilio (SMS/WhatsApp)
+- Resend (email)
+- Luxon
+- rrule
+- Vercel
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI scheduling", "calendar automation", "multi-calendar sync", "agentic workflows", "WhatsApp/Slack integration"]
-source: "https://github.com/hunterZh37/agentic-scheduling"
+deployment_complexity: Medium
+tags:
+- AI scheduling
+- calendar automation
+- multi-calendar sync
+- agentic workflows
+- WhatsApp/Slack integration
+source: https://github.com/hunterZh37/agentic-scheduling
 stars: 3
-language: "TypeScript"
-last_updated: "2026-09-03T22:02:49Z"
-discovered_at: "2026-09-03T22:05:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T22:02:49Z'
+discovered_at: '2026-09-03T22:05:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "u9401066/rootcause-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.12+", "MCP SDK 2.0", "Pydantic v2", "SQLModel", "SQLite", "NetworkX", "SNOMED CT", "ICD-10", "RxNorm", "LOINC", "Oxford CEBM", "GRADE", "FHIR", "Mermaid.js"]
+title: u9401066/rootcause-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python 3.12+
+- MCP SDK 2.0
+- Pydantic v2
+- SQLModel
+- SQLite
+- NetworkX
+- SNOMED CT
+- ICD-10
+- RxNorm
+- LOINC
+- Oxford CEBM
+- GRADE
+- FHIR
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Medical Reasoning", "Differential Diagnosis", "Root Cause Analysis", "Bayesian Updating", "Audit Trail"]
-source: "https://github.com/u9401066/rootcause-mcp"
+deployment_complexity: Medium
+tags:
+- Medical Reasoning
+- Differential Diagnosis
+- Root Cause Analysis
+- Bayesian Updating
+- Audit Trail
+source: https://github.com/u9401066/rootcause-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T08:40:18Z"
-discovered_at: "2026-08-09T08:45:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T08:40:18Z'
+discovered_at: '2026-08-09T08:45:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

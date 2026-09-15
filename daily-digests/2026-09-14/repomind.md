@@ -1,19 +1,32 @@
 ---
-title: "gorigesravani288-cmd/RepoMind"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Streamlit", "ChromaDB", "Groq", "sentence-transformers", "GitPython", "Mermaid.js", "Mermaid.ink"]
+title: gorigesravani288-cmd/RepoMind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Streamlit
+- ChromaDB
+- Groq
+- sentence-transformers
+- GitPython
+- Mermaid.js
+- Mermaid.ink
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "code analysis", "GitHub integration", "vector database", "architecture visualization"]
-source: "https://github.com/gorigesravani288-cmd/RepoMind"
+deployment_complexity: Medium
+tags:
+- RAG
+- code analysis
+- GitHub integration
+- vector database
+- architecture visualization
+source: https://github.com/gorigesravani288-cmd/RepoMind
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:54:28Z"
-discovered_at: "2026-08-08T12:48:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:54:28Z'
+discovered_at: '2026-08-08T12:48:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

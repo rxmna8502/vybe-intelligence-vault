@@ -1,19 +1,39 @@
 ---
-title: "spantail/spantail"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Hono", "Drizzle ORM", "Better Auth", "Cloudflare Workers", "Cloudflare D1", "Cloudflare R2", "Vite", "TanStack Router", "TanStack Query", "shadcn/ui", "Zod", "MCP (Model Context Protocol)", "CLI (Command Line Interface)"]
+title: spantail/spantail
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- React
+- Hono
+- Drizzle ORM
+- Better Auth
+- Cloudflare Workers
+- Cloudflare D1
+- Cloudflare R2
+- Vite
+- TanStack Router
+- TanStack Query
+- shadcn/ui
+- Zod
+- MCP (Model Context Protocol)
+- CLI (Command Line Interface)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["work observability", "human-AI collaboration", "reporting", "self-hosted", "Cloudflare"]
-source: "https://github.com/spantail/spantail"
+deployment_complexity: Medium
+tags:
+- work observability
+- human-AI collaboration
+- reporting
+- self-hosted
+- Cloudflare
+source: https://github.com/spantail/spantail
 stars: 3
-language: "TypeScript"
-last_updated: "2026-07-16T02:22:07Z"
-discovered_at: "2026-07-16T02:25:58Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T02:22:07Z'
+discovered_at: '2026-07-16T02:25:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "franckolv-dev/ElyAgent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Next.js", "LangGraph", "Docker", "PostgreSQL", "Redis", "LangChain", "MCP (Model Context Protocol)", "Alembic", "OpenSSL"]
+title: franckolv-dev/ElyAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- LangGraph
+- Docker
+- PostgreSQL
+- Redis
+- LangChain
+- MCP (Model Context Protocol)
+- Alembic
+- OpenSSL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Self-hosted", "Privacy-focused", "Multi-LLM", "PII masking", "Human-in-the-loop"]
-source: "https://github.com/franckolv-dev/ElyAgent"
+deployment_complexity: Medium
+tags:
+- Self-hosted
+- Privacy-focused
+- Multi-LLM
+- PII masking
+- Human-in-the-loop
+source: https://github.com/franckolv-dev/ElyAgent
 stars: 4
-language: "Python"
-last_updated: "2026-07-12T23:48:26Z"
-discovered_at: "2026-07-12T23:52:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T23:48:26Z'
+discovered_at: '2026-07-12T23:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "muchiny/bridge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "SSH", "WinRM", "Kubernetes", "Docker", "YAML", "JSON-RPC", "CLI", "CI/CD"]
+title: muchiny/bridge-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- SSH
+- WinRM
+- Kubernetes
+- Docker
+- YAML
+- JSON-RPC
+- CLI
+- CI/CD
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP server", "remote infrastructure", "security-first", "Rust", "DevOps automation"]
-source: "https://github.com/muchiny/bridge-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- remote infrastructure
+- security-first
+- Rust
+- DevOps automation
+source: https://github.com/muchiny/bridge-mcp
 stars: 8
-language: "Rust"
-last_updated: "2026-09-01T09:02:59Z"
-discovered_at: "2026-09-01T09:12:02Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-01T09:02:59Z'
+discovered_at: '2026-09-01T09:12:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

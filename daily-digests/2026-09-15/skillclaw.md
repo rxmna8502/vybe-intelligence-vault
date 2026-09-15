@@ -1,19 +1,28 @@
 ---
-title: "Cyberphobialaxation2471/SkillClaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Windows", "AI Agents", "Local-first Architecture"]
+title: Cyberphobialaxation2471/SkillClaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Windows
+- AI Agents
+- Local-first Architecture
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["skill development", "personal AI coach", "agent-based learning", "local AI", "Windows application"]
-source: "https://github.com/Cyberphobialaxation2471/SkillClaw"
+deployment_complexity: Low
+tags:
+- skill development
+- personal AI coach
+- agent-based learning
+- local AI
+- Windows application
+source: https://github.com/Cyberphobialaxation2471/SkillClaw
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T11:02:05Z"
-discovered_at: "2026-07-11T11:03:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T11:02:05Z'
+discovered_at: '2026-07-11T11:03:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

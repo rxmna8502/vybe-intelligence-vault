@@ -1,19 +1,28 @@
 ---
-title: "ontoramp/ontoramp-transformation-radar"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "Streamable HTTP", "API Key Authentication", "Governance Physics Framework"]
+title: ontoramp/ontoramp-transformation-radar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- MCP (Model Context Protocol)
+- Streamable HTTP
+- API Key Authentication
+- Governance Physics Framework
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["transformation intelligence", "maturity gap analysis", "initiative risk assessment", "MCP server", "enterprise governance"]
-source: "https://github.com/ontoramp/ontoramp-transformation-radar"
+deployment_complexity: Low
+tags:
+- transformation intelligence
+- maturity gap analysis
+- initiative risk assessment
+- MCP server
+- enterprise governance
+source: https://github.com/ontoramp/ontoramp-transformation-radar
 stars: 0
-language: "None"
-last_updated: "2026-08-07T17:46:18Z"
-discovered_at: "2026-08-07T17:52:12Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T17:46:18Z'
+discovered_at: '2026-08-07T17:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

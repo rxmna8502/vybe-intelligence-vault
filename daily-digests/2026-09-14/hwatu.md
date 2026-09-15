@@ -1,19 +1,30 @@
 ---
-title: "hongnoul/hwatu"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "WebKitGTK", "MCP (Model Context Protocol)", "CLI", "WebAssembly (for adblocking)", "Unix sockets"]
+title: hongnoul/hwatu
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- WebKitGTK
+- MCP (Model Context Protocol)
+- CLI
+- WebAssembly (for adblocking)
+- Unix sockets
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["verification", "pixel-diff", "agent-tools", "headless-browser", "human-hand-off"]
-source: "https://github.com/hongnoul/hwatu"
+deployment_complexity: Medium
+tags:
+- verification
+- pixel-diff
+- agent-tools
+- headless-browser
+- human-hand-off
+source: https://github.com/hongnoul/hwatu
 stars: 69
-language: "Rust"
-last_updated: "2026-08-01T06:18:13Z"
-discovered_at: "2026-08-01T06:29:16Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T06:18:13Z'
+discovered_at: '2026-08-01T06:29:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

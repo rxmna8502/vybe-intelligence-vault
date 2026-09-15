@@ -1,19 +1,29 @@
 ---
-title: "sudhanshu1402/nocap"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Node.js", "React Ink", "Claude Code SDK", "Anthropic API"]
+title: sudhanshu1402/nocap
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- React Ink
+- Claude Code SDK
+- Anthropic API
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["terminal UI", "Claude Code", "approval workflow", "plain-English interface", "AI agent interaction"]
-source: "https://github.com/sudhanshu1402/nocap"
+deployment_complexity: Low
+tags:
+- terminal UI
+- Claude Code
+- approval workflow
+- plain-English interface
+- AI agent interaction
+source: https://github.com/sudhanshu1402/nocap
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T07:21:14Z"
-discovered_at: "2026-07-19T07:29:32Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T07:21:14Z'
+discovered_at: '2026-07-19T07:29:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "blossomstack/horsie"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "PostgreSQL", "Docker", "Bun", "TypeScript", "React", "CLI", "WebAssembly"]
+title: blossomstack/horsie
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- PostgreSQL
+- Docker
+- Bun
+- TypeScript
+- React
+- CLI
+- WebAssembly
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "sandboxing", "workflow automation", "multi-agent systems", "AI runtime management"]
-source: "https://github.com/blossomstack/horsie"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- sandboxing
+- workflow automation
+- multi-agent systems
+- AI runtime management
+source: https://github.com/blossomstack/horsie
 stars: 4
-language: "Rust"
-last_updated: "2026-09-01T02:39:48Z"
-discovered_at: "2026-09-01T02:51:51Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-01T02:39:48Z'
+discovered_at: '2026-09-01T02:51:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

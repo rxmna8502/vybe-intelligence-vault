@@ -1,19 +1,34 @@
 ---
-title: "kdcokenny/lsbible"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Pydantic", "Zod", "Node.js", "httpx", "BeautifulSoup", "Model Context Protocol (MCP)", "Cloudflare Workers", "TurboRepo"]
+title: kdcokenny/lsbible
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Python
+- Pydantic
+- Zod
+- Node.js
+- httpx
+- BeautifulSoup
+- Model Context Protocol (MCP)
+- Cloudflare Workers
+- TurboRepo
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Bible API", "SDK", "MCP Server", "Type-Safe", "Structured Data"]
-source: "https://github.com/kdcokenny/lsbible"
+deployment_complexity: Medium
+tags:
+- Bible API
+- SDK
+- MCP Server
+- Type-Safe
+- Structured Data
+source: https://github.com/kdcokenny/lsbible
 stars: 7
-language: "TypeScript"
-last_updated: "2026-08-09T01:18:09Z"
-discovered_at: "2026-08-09T01:34:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T01:18:09Z'
+discovered_at: '2026-08-09T01:34:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

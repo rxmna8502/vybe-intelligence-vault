@@ -1,19 +1,29 @@
 ---
-title: "carlos-algms/agentic.nvim"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Lua", "Neovim", "Agent Client Protocol (ACP)", "JavaScript/TypeScript (for CLI dependencies)", "Shell scripting"]
+title: carlos-algms/agentic.nvim
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Lua
+- Neovim
+- Agent Client Protocol (ACP)
+- JavaScript/TypeScript (for CLI dependencies)
+- Shell scripting
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Neovim", "AI Agent Interface", "ACP Protocol", "Chat UI", "IDE Integration"]
-source: "https://github.com/carlos-algms/agentic.nvim"
+deployment_complexity: Medium
+tags:
+- Neovim
+- AI Agent Interface
+- ACP Protocol
+- Chat UI
+- IDE Integration
+source: https://github.com/carlos-algms/agentic.nvim
 stars: 581
-language: "Lua"
-last_updated: "2026-08-08T21:29:38Z"
-discovered_at: "2026-08-08T21:33:22Z"
-evaluated_by: "mistral-small-latest"
+language: Lua
+last_updated: '2026-08-08T21:29:38Z'
+discovered_at: '2026-08-08T21:33:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

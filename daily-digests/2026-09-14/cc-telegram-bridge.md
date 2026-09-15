@@ -1,19 +1,31 @@
 ---
-title: "Alhosain705/cc-telegram-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "Windows Batch Scripting", "Telegram Bot API", "Claude Code CLI", "DPAPI (for encryption)", "SHA-256 (for integrity verification)"]
+title: Alhosain705/cc-telegram-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Node.js
+- JavaScript
+- Windows Batch Scripting
+- Telegram Bot API
+- Claude Code CLI
+- DPAPI (for encryption)
+- SHA-256 (for integrity verification)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Windows automation", "Telegram integration", "Claude Code bridge", "local execution", "offline RAG"]
-source: "https://github.com/Alhosain705/cc-telegram-bridge"
+deployment_complexity: Low
+tags:
+- Windows automation
+- Telegram integration
+- Claude Code bridge
+- local execution
+- offline RAG
+source: https://github.com/Alhosain705/cc-telegram-bridge
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-10T17:05:43Z"
-discovered_at: "2026-08-10T17:05:49Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T17:05:43Z'
+discovered_at: '2026-08-10T17:05:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

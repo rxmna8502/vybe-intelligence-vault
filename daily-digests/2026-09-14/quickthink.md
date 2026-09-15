@@ -1,19 +1,31 @@
 ---
-title: "hermes-labs-ai/quickthink"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Ollama", "CLI", "JSON", "HTTP", "Markdown", "Shell Scripting"]
+title: hermes-labs-ai/quickthink
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Ollama
+- CLI
+- JSON
+- HTTP
+- Markdown
+- Shell Scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local LLM", "planning scaffold", "latency optimization", "Ollama middleware", "small model routing"]
-source: "https://github.com/hermes-labs-ai/quickthink"
+deployment_complexity: Medium
+tags:
+- local LLM
+- planning scaffold
+- latency optimization
+- Ollama middleware
+- small model routing
+source: https://github.com/hermes-labs-ai/quickthink
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T10:06:54Z"
-discovered_at: "2026-08-04T10:41:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T10:06:54Z'
+discovered_at: '2026-08-04T10:41:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

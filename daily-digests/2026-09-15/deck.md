@@ -1,19 +1,28 @@
 ---
-title: "cross-entropy-ai/deck"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "tmux", "ratatui", "YAML"]
+title: cross-entropy-ai/deck
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- tmux
+- ratatui
+- YAML
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["tmux", "session management", "terminal UI", "Rust", "agent workflows"]
-source: "https://github.com/cross-entropy-ai/deck"
+deployment_complexity: Low
+tags:
+- tmux
+- session management
+- terminal UI
+- Rust
+- agent workflows
+source: https://github.com/cross-entropy-ai/deck
 stars: 15
-language: "Rust"
-last_updated: "2026-08-07T04:53:41Z"
-discovered_at: "2026-08-07T04:56:59Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T04:53:41Z'
+discovered_at: '2026-08-07T04:56:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

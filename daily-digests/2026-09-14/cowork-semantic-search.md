@@ -1,19 +1,28 @@
 ---
-title: "Ansellwaxlike187/cowork-semantic-search"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LanceDB", "MCP (Model Context Protocol)", "Windows Desktop App"]
+title: Ansellwaxlike187/cowork-semantic-search
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- LanceDB
+- MCP (Model Context Protocol)
+- Windows Desktop App
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["semantic search", "local RAG", "document indexing", "MCP integration", "offline search"]
-source: "https://github.com/Ansellwaxlike187/cowork-semantic-search"
+deployment_complexity: Low
+tags:
+- semantic search
+- local RAG
+- document indexing
+- MCP integration
+- offline search
+source: https://github.com/Ansellwaxlike187/cowork-semantic-search
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T18:04:51Z"
-discovered_at: "2026-07-17T18:05:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T18:04:51Z'
+discovered_at: '2026-07-17T18:05:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

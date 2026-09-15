@@ -130,8 +130,8 @@ This index groups curated resources by target developer skills.
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2505-18227.md))
 - [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-17979.md))
 - [From Prior-Guided Heuristics to Deployable Agents: Accelerating Demonstration-Driven Reinforcement Learning for Deadline-Constrained Network Control](https://arxiv.org/abs/2609.03590) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-03590.md))
+- [BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents](https://arxiv.org/abs/2609.13149) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-13149.md))
 - [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-03686.md))
-- [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 
 ## Embedding Vectors
 
@@ -207,8 +207,8 @@ This index groups curated resources by target developer skills.
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2505-18227.md))
 - [Harness Engineering for LLM-Driven GPU Kernel Generation](https://arxiv.org/abs/2607.17979) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-17979.md))
 - [From Prior-Guided Heuristics to Deployable Agents: Accelerating Demonstration-Driven Reinforcement Learning for Deadline-Constrained Network Control](https://arxiv.org/abs/2609.03590) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-03590.md))
+- [BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents](https://arxiv.org/abs/2609.13149) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-13149.md))
 - [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-03686.md))
-- [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
 
 ## Local LLMs
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 
 ---
-*Last updated: 2026-09-14 04:19 IST*
+*Last updated: 2026-09-15 10:55 IST*

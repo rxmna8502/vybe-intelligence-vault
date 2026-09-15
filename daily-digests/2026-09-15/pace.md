@@ -1,19 +1,33 @@
 ---
-title: "jonas-johansson/pace"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Ink (TUI framework)", "Model Context Protocol (MCP)", "OpenAI API", "Anthropic API", "Fireworks AI", "Friendli AI"]
+title: jonas-johansson/pace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Ink (TUI framework)
+- Model Context Protocol (MCP)
+- OpenAI API
+- Anthropic API
+- Fireworks AI
+- Friendli AI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["terminal agent", "coding assistant", "TUI", "LLM integration", "context management"]
-source: "https://github.com/jonas-johansson/pace"
+deployment_complexity: Medium
+tags:
+- terminal agent
+- coding assistant
+- TUI
+- LLM integration
+- context management
+source: https://github.com/jonas-johansson/pace
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-03T07:59:53Z"
-discovered_at: "2026-09-03T19:03:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T07:59:53Z'
+discovered_at: '2026-09-03T19:03:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

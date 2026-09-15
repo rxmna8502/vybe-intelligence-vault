@@ -1,19 +1,33 @@
 ---
-title: "houtini-ai/ai-detect"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "Transformers", "DeBERTa-v3", "RoBERTa", "ONNX Runtime", "Model Context Protocol (MCP)", "CLI", "MIT License"]
+title: houtini-ai/ai-detect
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- PyTorch
+- Transformers
+- DeBERTa-v3
+- RoBERTa
+- ONNX Runtime
+- Model Context Protocol (MCP)
+- CLI
+- MIT License
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI text detection", "local inference", "DeBERTa", "MCP server", "offline processing"]
-source: "https://github.com/houtini-ai/ai-detect"
+deployment_complexity: Medium
+tags:
+- AI text detection
+- local inference
+- DeBERTa
+- MCP server
+- offline processing
+source: https://github.com/houtini-ai/ai-detect
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T17:29:27Z"
-discovered_at: "2026-08-08T17:33:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T17:29:27Z'
+discovered_at: '2026-08-08T17:33:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

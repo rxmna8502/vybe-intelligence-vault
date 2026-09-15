@@ -1,19 +1,33 @@
 ---
-title: "JustGenius-s/e-pi"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "React 19", "TypeScript", "Tailwind CSS 4", "Radix UI", "xterm.js", "Vitest", "node-pty", "Pi Coding Agent"]
+title: JustGenius-s/e-pi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Electron
+- React 19
+- TypeScript
+- Tailwind CSS 4
+- Radix UI
+- xterm.js
+- Vitest
+- node-pty
+- Pi Coding Agent
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["desktop application", "pi coding agent", "terminal integration", "session management", "electron"]
-source: "https://github.com/JustGenius-s/e-pi"
+deployment_complexity: Medium
+tags:
+- desktop application
+- pi coding agent
+- terminal integration
+- session management
+- electron
+source: https://github.com/JustGenius-s/e-pi
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T13:57:50Z"
-discovered_at: "2026-08-05T14:07:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T13:57:50Z'
+discovered_at: '2026-08-05T14:07:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

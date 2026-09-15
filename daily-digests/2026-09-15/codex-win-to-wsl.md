@@ -1,19 +1,30 @@
 ---
-title: "Yuyu123fish/codex-win-to-wsl"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Windows PowerShell", "WSL (Windows Subsystem for Linux)", "Codex Plugin System", "MCP Server"]
+title: Yuyu123fish/codex-win-to-wsl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- Windows PowerShell
+- WSL (Windows Subsystem for Linux)
+- Codex Plugin System
+- MCP Server
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["WSL integration", "Codex plugin", "cross-platform execution", "command execution", "Linux toolchain"]
-source: "https://github.com/Yuyu123fish/codex-win-to-wsl"
+deployment_complexity: Medium
+tags:
+- WSL integration
+- Codex plugin
+- cross-platform execution
+- command execution
+- Linux toolchain
+source: https://github.com/Yuyu123fish/codex-win-to-wsl
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-21T07:21:47Z"
-discovered_at: "2026-07-21T07:32:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-21T07:21:47Z'
+discovered_at: '2026-07-21T07:32:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

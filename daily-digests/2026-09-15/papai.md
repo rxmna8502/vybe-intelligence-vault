@@ -1,19 +1,35 @@
 ---
-title: "yourpapai/papai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun Runtime", "SQLite", "OpenAI-compatible LLM APIs", "Telegram Bot API", "Mattermost API", "Discord API", "Kontur Talk API", "Model Context Protocol (MCP)", "Web Fetching (PDFs, URLs)", "React (for settings UI)"]
+title: yourpapai/papai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Bun Runtime
+- SQLite
+- OpenAI-compatible LLM APIs
+- Telegram Bot API
+- Mattermost API
+- Discord API
+- Kontur Talk API
+- Model Context Protocol (MCP)
+- Web Fetching (PDFs, URLs)
+- React (for settings UI)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI task automation", "multi-platform chatbot", "LLM tool-calling", "proactive AI assistant", "MCP server integration"]
-source: "https://github.com/yourpapai/papai"
+deployment_complexity: Medium
+tags:
+- AI task automation
+- multi-platform chatbot
+- LLM tool-calling
+- proactive AI assistant
+- MCP server integration
+source: https://github.com/yourpapai/papai
 stars: 9
-language: "TypeScript"
-last_updated: "2026-07-15T05:25:39Z"
-discovered_at: "2026-07-15T05:29:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T05:25:39Z'
+discovered_at: '2026-07-15T05:29:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "NEDONION/mini-claw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "Textual (TUI framework)", "SQLite", "Markdown", "DeepSeek API", "Feishu (Lark) API", "uv (package manager)", "TOML (configuration)"]
+title: NEDONION/mini-claw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python 3.12+
+- Textual (TUI framework)
+- SQLite
+- Markdown
+- DeepSeek API
+- Feishu (Lark) API
+- uv (package manager)
+- TOML (configuration)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal agent", "self-hosted", "tool calling", "security policy", "TUI"]
-source: "https://github.com/NEDONION/mini-claw"
+deployment_complexity: Medium
+tags:
+- personal agent
+- self-hosted
+- tool calling
+- security policy
+- TUI
+source: https://github.com/NEDONION/mini-claw
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T22:33:45Z"
-discovered_at: "2026-08-07T22:37:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T22:33:45Z'
+discovered_at: '2026-08-07T22:37:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

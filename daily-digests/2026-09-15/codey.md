@@ -1,19 +1,33 @@
 ---
-title: "ysmjjsy/CodeY"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Python", "React", "Tauri", "Node.js", "pnpm", "MCP (Model Context Protocol)", "Unix sockets / Named pipes"]
+title: ysmjjsy/CodeY
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- TypeScript
+- Python
+- React
+- Tauri
+- Node.js
+- pnpm
+- MCP (Model Context Protocol)
+- Unix sockets / Named pipes
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["AI agent framework", "durable execution", "local-first", "cross-platform", "agent orchestration"]
-source: "https://github.com/ysmjjsy/CodeY"
+deployment_complexity: High
+tags:
+- AI agent framework
+- durable execution
+- local-first
+- cross-platform
+- agent orchestration
+source: https://github.com/ysmjjsy/CodeY
 stars: 0
-language: "Rust"
-last_updated: "2026-08-02T17:52:41Z"
-discovered_at: "2026-08-02T18:02:30Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T17:52:41Z'
+discovered_at: '2026-08-02T18:02:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

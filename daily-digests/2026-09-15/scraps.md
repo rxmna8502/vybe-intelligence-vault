@@ -1,19 +1,30 @@
 ---
-title: "boykush/scraps"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Markdown", "CLI", "JSON", "MCP (Model Context Protocol)", "Mermaid.js"]
+title: boykush/scraps
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Markdown
+- CLI
+- JSON
+- MCP (Model Context Protocol)
+- Mermaid.js
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["documentation compiler", "wiki-links", "LLM integration", "typed artifacts", "static site generator"]
-source: "https://github.com/boykush/scraps"
+deployment_complexity: Medium
+tags:
+- documentation compiler
+- wiki-links
+- LLM integration
+- typed artifacts
+- static site generator
+source: https://github.com/boykush/scraps
 stars: 45
-language: "Rust"
-last_updated: "2026-08-01T08:53:46Z"
-discovered_at: "2026-08-01T09:06:41Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T08:53:46Z'
+discovered_at: '2026-08-01T09:06:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

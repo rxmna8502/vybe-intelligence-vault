@@ -1,19 +1,29 @@
 ---
-title: "kichikubeihei/CodeMemoryPrime"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Ollama", "LM Studio", "MCP (Model Context Protocol)", "Embedding Models"]
+title: kichikubeihei/CodeMemoryPrime
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- Ollama
+- LM Studio
+- MCP (Model Context Protocol)
+- Embedding Models
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["code indexing", "AI memory", "RAG optimization", "local LLM integration", "token efficiency"]
-source: "https://github.com/kichikubeihei/CodeMemoryPrime"
+deployment_complexity: Medium
+tags:
+- code indexing
+- AI memory
+- RAG optimization
+- local LLM integration
+- token efficiency
+source: https://github.com/kichikubeihei/CodeMemoryPrime
 stars: 0
-language: "Rust"
-last_updated: "2026-08-08T01:09:11Z"
-discovered_at: "2026-08-08T01:26:29Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T01:09:11Z'
+discovered_at: '2026-08-08T01:26:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

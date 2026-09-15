@@ -1,19 +1,36 @@
 ---
-title: "sandraschi/benny-the-dog-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["FastMCP", "Python", "React", "Vite", "Tailwind CSS", "Bun", "Tauri", "SQLite", "APScheduler", "TypeScript", "Ruff", "uv"]
+title: sandraschi/benny-the-dog-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- FastMCP
+- Python
+- React
+- Vite
+- Tailwind CSS
+- Bun
+- Tauri
+- SQLite
+- APScheduler
+- TypeScript
+- Ruff
+- uv
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["MCP server", "dog care monitoring", "robot integration", "full-stack AI", "local LLM"]
-source: "https://github.com/sandraschi/benny-the-dog-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- dog care monitoring
+- robot integration
+- full-stack AI
+- local LLM
+source: https://github.com/sandraschi/benny-the-dog-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T23:56:28Z"
-discovered_at: "2026-08-03T00:01:07Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T23:56:28Z'
+discovered_at: '2026-08-03T00:01:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "zerowand01/markplane"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Node.js", "React", "MCP (Model Context Protocol)", "YAML", "Markdown"]
+title: zerowand01/markplane
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- TypeScript
+- Node.js
+- React
+- MCP (Model Context Protocol)
+- YAML
+- Markdown
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["project management", "AI collaboration", "markdown-based", "MCP server", "version-controlled"]
-source: "https://github.com/zerowand01/markplane"
+deployment_complexity: Low
+tags:
+- project management
+- AI collaboration
+- markdown-based
+- MCP server
+- version-controlled
+source: https://github.com/zerowand01/markplane
 stars: 181
-language: "Rust"
-last_updated: "2026-09-02T22:08:12Z"
-discovered_at: "2026-09-02T22:21:09Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T22:08:12Z'
+discovered_at: '2026-09-02T22:21:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

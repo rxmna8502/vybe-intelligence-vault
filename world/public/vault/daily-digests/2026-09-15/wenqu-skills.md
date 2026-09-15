@@ -1,19 +1,31 @@
 ---
-title: "gogoingai/wenqu-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "AI Agents", "CLI Tools", "API Integrations", "Workflow Automation", "Content Generation", "Image Generation"]
+title: gogoingai/wenqu-skills
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- AI Agents
+- CLI Tools
+- API Integrations
+- Workflow Automation
+- Content Generation
+- Image Generation
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI content creation", "multi-agent workflow", "Chinese language processing", "article generation", "publishing automation"]
-source: "https://github.com/gogoingai/wenqu-skills"
+deployment_complexity: Medium
+tags:
+- AI content creation
+- multi-agent workflow
+- Chinese language processing
+- article generation
+- publishing automation
+source: https://github.com/gogoingai/wenqu-skills
 stars: 3
-language: "None"
-last_updated: "2026-08-02T02:29:47Z"
-discovered_at: "2026-08-02T02:34:48Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-02T02:29:47Z'
+discovered_at: '2026-08-02T02:34:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

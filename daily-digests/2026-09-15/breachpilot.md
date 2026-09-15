@@ -1,19 +1,41 @@
 ---
-title: "braydos-h/BreachPilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "React", "Vite", "TypeScript", "Ollama Cloud", "Model Context Protocol (MCP)", "Nomic Embeddings", "FastAPI", "Docker", "SQLite/PostgreSQL", "Metasploit Framework", "Nmap", "Nikto", "Nuclei", "Hashcat", "BloodHound", "Impacket"]
+title: braydos-h/BreachPilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- React
+- Vite
+- TypeScript
+- Ollama Cloud
+- Model Context Protocol (MCP)
+- Nomic Embeddings
+- FastAPI
+- Docker
+- SQLite/PostgreSQL
+- Metasploit Framework
+- Nmap
+- Nikto
+- Nuclei
+- Hashcat
+- BloodHound
+- Impacket
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["Autonomous Security Agent", "Red Team Operations", "Penetration Testing", "MCP Integration", "Exploitation Framework"]
-source: "https://github.com/braydos-h/BreachPilot"
+deployment_complexity: High
+tags:
+- Autonomous Security Agent
+- Red Team Operations
+- Penetration Testing
+- MCP Integration
+- Exploitation Framework
+source: https://github.com/braydos-h/BreachPilot
 stars: 3
-language: "Python"
-last_updated: "2026-09-02T02:07:43Z"
-discovered_at: "2026-09-02T02:12:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:07:43Z'
+discovered_at: '2026-09-02T02:12:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

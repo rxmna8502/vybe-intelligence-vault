@@ -1,19 +1,38 @@
 ---
-title: "lixiuyin/web-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Playwright", "Chromium", "Vision-Language Models (VLM)", "OpenAI-compatible APIs", "vLLM", "PyMuPDF", "OCR (Marker, MinerU, Paddle)", "Pydantic", "MyPy", "Ruff", "Playwright CDP", "Bing/Yahoo/Seznam/DuckDuckGo APIs", "arXiv/GitHub APIs"]
+title: lixiuyin/web-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- Playwright
+- Chromium
+- Vision-Language Models (VLM)
+- OpenAI-compatible APIs
+- vLLM
+- PyMuPDF
+- OCR (Marker, MinerU, Paddle)
+- Pydantic
+- MyPy
+- Ruff
+- Playwright CDP
+- Bing/Yahoo/Seznam/DuckDuckGo APIs
+- arXiv/GitHub APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["autonomous agents", "vision-language models", "web automation", "PDF interpretation", "RAG pipeline"]
-source: "https://github.com/lixiuyin/web-agent"
+deployment_complexity: High
+tags:
+- autonomous agents
+- vision-language models
+- web automation
+- PDF interpretation
+- RAG pipeline
+source: https://github.com/lixiuyin/web-agent
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T15:18:43Z"
-discovered_at: "2026-09-01T15:54:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:18:43Z'
+discovered_at: '2026-09-01T15:54:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

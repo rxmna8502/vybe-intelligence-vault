@@ -1,19 +1,39 @@
 ---
-title: "j5onrf/py-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "C++", "llama.cpp", "SQLite-Vec", "uvloop", "Rich", "Requests", "Pydantic AI", "Textual", "Weaviate Engram", "Hugging Face", "Gemini", "OpenRouter", "Claude", "Grok"]
+title: j5onrf/py-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- C++
+- llama.cpp
+- SQLite-Vec
+- uvloop
+- Rich
+- Requests
+- Pydantic AI
+- Textual
+- Weaviate Engram
+- Hugging Face
+- Gemini
+- OpenRouter
+- Claude
+- Grok
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "local LLM integration", "codebase indexing", "autonomous task execution", "developer tooling"]
-source: "https://github.com/j5onrf/py-agent"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- local LLM integration
+- codebase indexing
+- autonomous task execution
+- developer tooling
+source: https://github.com/j5onrf/py-agent
 stars: 6
-language: "Python"
-last_updated: "2026-09-01T18:16:36Z"
-discovered_at: "2026-09-01T19:06:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:16:36Z'
+discovered_at: '2026-09-01T19:06:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

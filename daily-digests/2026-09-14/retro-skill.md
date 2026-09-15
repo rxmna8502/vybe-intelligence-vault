@@ -1,19 +1,32 @@
 ---
-title: "netresearch/retro-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "LLM (Claude)", "Bash", "Git", "GitHub CLI (gh)", "GitLab CLI (glab)", "jq"]
+title: netresearch/retro-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Claude Code
+- LLM (Claude)
+- Bash
+- Git
+- GitHub CLI (gh)
+- GitLab CLI (glab)
+- jq
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["session retrospection", "friction detection", "Claude Code plugin", "learning materialization", "agent session analysis"]
-source: "https://github.com/netresearch/retro-skill"
+deployment_complexity: Medium
+tags:
+- session retrospection
+- friction detection
+- Claude Code plugin
+- learning materialization
+- agent session analysis
+source: https://github.com/netresearch/retro-skill
 stars: 1
-language: "Python"
-last_updated: "2026-07-12T10:21:57Z"
-discovered_at: "2026-07-12T10:26:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T10:21:57Z'
+discovered_at: '2026-07-12T10:26:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

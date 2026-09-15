@@ -1,19 +1,32 @@
 ---
-title: "crazyzhang277/codex-antigravity-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Google Antigravity CLI (agy)", "Git worktrees", "ConPTY (Windows)", "JSON Schema", "PowerShell (Windows)", "Bash (macOS/Linux)"]
+title: crazyzhang277/codex-antigravity-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Google Antigravity CLI (agy)
+- Git worktrees
+- ConPTY (Windows)
+- JSON Schema
+- PowerShell (Windows)
+- Bash (macOS/Linux)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP bridge", "agent orchestration", "Codex integration", "Antigravity CLI", "task delegation"]
-source: "https://github.com/crazyzhang277/codex-antigravity-bridge"
+deployment_complexity: Medium
+tags:
+- MCP bridge
+- agent orchestration
+- Codex integration
+- Antigravity CLI
+- task delegation
+source: https://github.com/crazyzhang277/codex-antigravity-bridge
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T08:36:30Z"
-discovered_at: "2026-08-08T08:42:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T08:36:30Z'
+discovered_at: '2026-08-08T08:42:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

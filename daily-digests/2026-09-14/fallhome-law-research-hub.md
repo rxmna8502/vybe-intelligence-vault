@@ -1,19 +1,28 @@
 ---
-title: "alanfaced566/fallhome-law-research-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "HTML/CSS/JavaScript", "SQLite", "Windows Installer"]
+title: alanfaced566/fallhome-law-research-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Electron
+- HTML/CSS/JavaScript
+- SQLite
+- Windows Installer
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["legal research", "offline tools", "case management", "conflict tracking", "document management"]
-source: "https://github.com/alanfaced566/fallhome-law-research-hub"
+deployment_complexity: Low
+tags:
+- legal research
+- offline tools
+- case management
+- conflict tracking
+- document management
+source: https://github.com/alanfaced566/fallhome-law-research-hub
 stars: 0
-language: "HTML"
-last_updated: "2026-08-07T00:00:35Z"
-discovered_at: "2026-08-07T00:01:53Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T00:00:35Z'
+discovered_at: '2026-08-07T00:01:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

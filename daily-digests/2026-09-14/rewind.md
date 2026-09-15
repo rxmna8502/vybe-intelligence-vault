@@ -1,19 +1,34 @@
 ---
-title: "pdugan20/rewind"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Hono", "Cloudflare Workers", "D1 (SQLite)", "R2 (Cloudflare Object Storage)", "Drizzle ORM", "OpenAPI 3.1", "Vitest", "ESLint", "Node.js"]
+title: pdugan20/rewind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Hono
+- Cloudflare Workers
+- D1 (SQLite)
+- R2 (Cloudflare Object Storage)
+- Drizzle ORM
+- OpenAPI 3.1
+- Vitest
+- ESLint
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["data aggregation", "personal data", "REST API", "Cloudflare Workers", "MCP server"]
-source: "https://github.com/pdugan20/rewind"
+deployment_complexity: Medium
+tags:
+- data aggregation
+- personal data
+- REST API
+- Cloudflare Workers
+- MCP server
+source: https://github.com/pdugan20/rewind
 stars: 5
-language: "TypeScript"
-last_updated: "2026-09-03T18:56:52Z"
-discovered_at: "2026-09-03T19:12:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T18:56:52Z'
+discovered_at: '2026-09-03T19:12:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

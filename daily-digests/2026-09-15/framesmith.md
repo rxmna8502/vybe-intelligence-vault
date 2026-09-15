@@ -1,19 +1,35 @@
 ---
-title: "vicmaster/framesmith"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Puppeteer", "HTML/CSS", "SVG", "Lucide Icons", "Material Symbols Icons", "Google Fonts", "JSON", "CI/CD"]
+title: vicmaster/framesmith
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Puppeteer
+- HTML/CSS
+- SVG
+- Lucide Icons
+- Material Symbols Icons
+- Google Fonts
+- JSON
+- CI/CD
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["UI design", "AI agent tools", "MCP server", "design patterns", "quality evaluation"]
-source: "https://github.com/vicmaster/framesmith"
+deployment_complexity: Low
+tags:
+- UI design
+- AI agent tools
+- MCP server
+- design patterns
+- quality evaluation
+source: https://github.com/vicmaster/framesmith
 stars: 7
-language: "TypeScript"
-last_updated: "2026-08-07T10:54:53Z"
-discovered_at: "2026-08-07T11:04:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T10:54:53Z'
+discovered_at: '2026-08-07T11:04:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

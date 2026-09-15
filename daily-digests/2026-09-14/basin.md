@@ -1,19 +1,32 @@
 ---
-title: "vul-os/basin"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Tokio", "Vortex (columnar storage)", "S3-compatible object storage", "Postgres wire protocol (pgwire)", "Iceberg (for time travel snapshots)", "Apache Arrow", "SQL parser and execution engine"]
+title: vul-os/basin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- Tokio
+- Vortex (columnar storage)
+- S3-compatible object storage
+- Postgres wire protocol (pgwire)
+- Iceberg (for time travel snapshots)
+- Apache Arrow
+- SQL parser and execution engine
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-tenant", "object storage", "columnar database", "Postgres-compatible", "cost-efficient"]
-source: "https://github.com/vul-os/basin"
+deployment_complexity: Medium
+tags:
+- multi-tenant
+- object storage
+- columnar database
+- Postgres-compatible
+- cost-efficient
+source: https://github.com/vul-os/basin
 stars: 4
-language: "Rust"
-last_updated: "2026-08-09T23:15:40Z"
-discovered_at: "2026-08-09T23:35:36Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T23:15:40Z'
+discovered_at: '2026-08-09T23:35:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

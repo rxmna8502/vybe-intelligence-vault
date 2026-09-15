@@ -1,19 +1,31 @@
 ---
-title: "stabgan/openrouter-mcp-multimodal"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OpenRouter API", "Docker", "Python (via uvx launcher)", "GitHub Actions (CI/CD)"]
+title: stabgan/openrouter-mcp-multimodal
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OpenRouter API
+- Docker
+- Python (via uvx launcher)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "multimodal AI", "OpenRouter integration", "AI agent tools", "production-grade"]
-source: "https://github.com/stabgan/openrouter-mcp-multimodal"
+deployment_complexity: Medium
+tags:
+- MCP server
+- multimodal AI
+- OpenRouter integration
+- AI agent tools
+- production-grade
+source: https://github.com/stabgan/openrouter-mcp-multimodal
 stars: 85
-language: "TypeScript"
-last_updated: "2026-09-02T08:16:16Z"
-discovered_at: "2026-09-02T08:19:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:16:16Z'
+discovered_at: '2026-09-02T08:19:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

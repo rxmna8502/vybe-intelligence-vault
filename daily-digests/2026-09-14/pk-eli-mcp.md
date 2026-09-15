@@ -1,19 +1,30 @@
 ---
-title: "matematicsolutions/pk-eli-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "HuggingFace Datasets", "FastAPI", "Ruff", "Pytest"]
+title: matematicsolutions/pk-eli-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- HuggingFace Datasets
+- FastAPI
+- Ruff
+- Pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["legal AI", "MCP server", "Pakistani law", "corpus-based retrieval", "citation contract"]
-source: "https://github.com/matematicsolutions/pk-eli-mcp"
+deployment_complexity: Low
+tags:
+- legal AI
+- MCP server
+- Pakistani law
+- corpus-based retrieval
+- citation contract
+source: https://github.com/matematicsolutions/pk-eli-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T08:04:02Z"
-discovered_at: "2026-07-12T08:15:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T08:04:02Z'
+discovered_at: '2026-07-12T08:15:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

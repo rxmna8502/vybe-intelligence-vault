@@ -1,19 +1,29 @@
 ---
-title: "Ekaterinaacid284/memory-lancedb-pro-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows", "Claude Code", "OpenClaw", "LanceDB (implied)", "Python (implied)"]
+title: Ekaterinaacid284/memory-lancedb-pro-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Windows
+- Claude Code
+- OpenClaw
+- LanceDB (implied)
+- Python (implied)
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["long-term memory", "AI assistant plugin", "persistent storage", "Windows integration", "context retention"]
-source: "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
+deployment_complexity: Low
+tags:
+- long-term memory
+- AI assistant plugin
+- persistent storage
+- Windows integration
+- context retention
+source: https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill
 stars: 0
-language: "None"
-last_updated: "2026-08-09T20:22:29Z"
-discovered_at: "2026-08-09T20:35:38Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T20:22:29Z'
+discovered_at: '2026-08-09T20:35:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

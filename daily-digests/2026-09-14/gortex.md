@@ -1,19 +1,34 @@
 ---
-title: "zzet/gortex"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Tree-sitter", "SQLite", "MCP (Model Context Protocol)", "HTTP Server", "Next.js", "Sigstore", "SLSA 3", "GloVe (embeddings)", "LLM providers (local and cloud)"]
+title: zzet/gortex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- Tree-sitter
+- SQLite
+- MCP (Model Context Protocol)
+- HTTP Server
+- Next.js
+- Sigstore
+- SLSA 3
+- GloVe (embeddings)
+- LLM providers (local and cloud)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code intelligence", "graph database", "multi-repository", "AI agents", "MCP server"]
-source: "https://github.com/zzet/gortex"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- graph database
+- multi-repository
+- AI agents
+- MCP server
+source: https://github.com/zzet/gortex
 stars: 1530
-language: "Go"
-last_updated: "2026-09-03T15:31:18Z"
-discovered_at: "2026-09-03T15:43:20Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T15:31:18Z'
+discovered_at: '2026-09-03T15:43:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

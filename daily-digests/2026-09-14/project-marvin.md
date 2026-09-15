@@ -1,19 +1,30 @@
 ---
-title: "raduionita/project-marvin"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Node.js", "systemd", "CLI", "HTTP API"]
+title: raduionita/project-marvin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- systemd
+- CLI
+- HTTP API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI sidekick", "agent framework", "CLI tool", "persistent service", "model management"]
-source: "https://github.com/raduionita/project-marvin"
+deployment_complexity: Medium
+tags:
+- AI sidekick
+- agent framework
+- CLI tool
+- persistent service
+- model management
+source: https://github.com/raduionita/project-marvin
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T10:36:03Z"
-discovered_at: "2026-08-04T10:39:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T10:36:03Z'
+discovered_at: '2026-08-04T10:39:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

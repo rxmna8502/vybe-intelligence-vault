@@ -1,19 +1,31 @@
 ---
-title: "CSOAI-ORG/iso-27001-ai-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "ISO/IEC 27001:2022", "ISO 27005", "ISO 42001", "Smithery", "PyPI"]
+title: CSOAI-ORG/iso-27001-ai-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- ISO/IEC 27001:2022
+- ISO 27005
+- ISO 42001
+- Smithery
+- PyPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["compliance", "ISO 27001", "risk management", "AI governance", "security auditing"]
-source: "https://github.com/CSOAI-ORG/iso-27001-ai-mcp"
+deployment_complexity: Medium
+tags:
+- compliance
+- ISO 27001
+- risk management
+- AI governance
+- security auditing
+source: https://github.com/CSOAI-ORG/iso-27001-ai-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-08-04T12:56:19Z"
-discovered_at: "2026-08-04T13:05:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T12:56:19Z'
+discovered_at: '2026-08-04T13:05:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "AIXP-Labs/SoulACP"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Asyncio", "Agent Client Protocol (ACP)", "CLI Integration", "Connection Pooling", "Session Management"]
+title: AIXP-Labs/SoulACP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Asyncio
+- Agent Client Protocol (ACP)
+- CLI Integration
+- Connection Pooling
+- Session Management
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Agent Protocol", "CLI Integration", "Session Management", "Async Streaming", "Multi-Agent"]
-source: "https://github.com/AIXP-Labs/SoulACP"
+deployment_complexity: Medium
+tags:
+- Agent Protocol
+- CLI Integration
+- Session Management
+- Async Streaming
+- Multi-Agent
+source: https://github.com/AIXP-Labs/SoulACP
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T13:14:58Z"
-discovered_at: "2026-07-19T13:17:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T13:14:58Z'
+discovered_at: '2026-07-19T13:17:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

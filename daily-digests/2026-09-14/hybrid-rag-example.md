@@ -1,19 +1,32 @@
 ---
-title: "FullFran/Hybrid-RAG-example"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Clean Architecture", "MongoDB", "Supabase", "OpenAI", "CLI (Rich)", "RRF (Reciprocal Rank Fusion)", "Docling (Parser/Chunker)"]
+title: FullFran/Hybrid-RAG-example
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Clean Architecture
+- MongoDB
+- Supabase
+- OpenAI
+- CLI (Rich)
+- RRF (Reciprocal Rank Fusion)
+- Docling (Parser/Chunker)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Hybrid RAG", "Clean Architecture", "Provider Independence", "Modular Design", "Document Retrieval"]
-source: "https://github.com/FullFran/Hybrid-RAG-example"
+deployment_complexity: Medium
+tags:
+- Hybrid RAG
+- Clean Architecture
+- Provider Independence
+- Modular Design
+- Document Retrieval
+source: https://github.com/FullFran/Hybrid-RAG-example
 stars: 2
-language: "Python"
-last_updated: "2026-08-08T11:22:36Z"
-discovered_at: "2026-08-08T11:31:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:22:36Z'
+discovered_at: '2026-08-08T11:31:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

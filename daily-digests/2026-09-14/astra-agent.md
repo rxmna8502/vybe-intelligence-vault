@@ -1,19 +1,41 @@
 ---
-title: "jcplaboratory/astra-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "MariaDB", "Qdrant", "OpenRouter", "Textual TUI", "SQLAlchemy", "Alembic", "OpenSSL", "Vault", "Keycloak", "OIDC", "FastAPI", "uv", "ruff", "mypy", "pytest"]
+title: jcplaboratory/astra-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Docker
+- MariaDB
+- Qdrant
+- OpenRouter
+- Textual TUI
+- SQLAlchemy
+- Alembic
+- OpenSSL
+- Vault
+- Keycloak
+- OIDC
+- FastAPI
+- uv
+- ruff
+- mypy
+- pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["multi-tenant", "agent framework", "memory management", "delegated execution", "distributed agents"]
-source: "https://github.com/jcplaboratory/astra-agent"
+deployment_complexity: High
+tags:
+- multi-tenant
+- agent framework
+- memory management
+- delegated execution
+- distributed agents
+source: https://github.com/jcplaboratory/astra-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T18:49:49Z"
-discovered_at: "2026-08-07T18:57:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T18:49:49Z'
+discovered_at: '2026-08-07T18:57:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "Psalmustrack/lambdacad-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "AutoLISP", "BricsCAD", "xdotool", "DXF", "Linux"]
+title: Psalmustrack/lambdacad-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastMCP
+- AutoLISP
+- BricsCAD
+- xdotool
+- DXF
+- Linux
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CAD automation", "AutoLISP bridge", "AI drafting", "MCP server", "3D modeling"]
-source: "https://github.com/Psalmustrack/lambdacad-mcp"
+deployment_complexity: Medium
+tags:
+- CAD automation
+- AutoLISP bridge
+- AI drafting
+- MCP server
+- 3D modeling
+source: https://github.com/Psalmustrack/lambdacad-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T14:15:53Z"
-discovered_at: "2026-08-07T14:19:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T14:15:53Z'
+discovered_at: '2026-08-07T14:19:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

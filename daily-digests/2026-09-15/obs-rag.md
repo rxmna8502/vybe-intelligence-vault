@@ -1,19 +1,33 @@
 ---
-title: "Shreyansh15624/obs-rag"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "LangChain", "ChromaDB", "Qdrant", "Google Gemini 2.5", "Reflex", "uv", "Docker"]
+title: Shreyansh15624/obs-rag
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastAPI
+- LangChain
+- ChromaDB
+- Qdrant
+- Google Gemini 2.5
+- Reflex
+- uv
+- Docker
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "Obsidian", "Vector Database", "Gemini", "Microservices"]
-source: "https://github.com/Shreyansh15624/obs-rag"
+deployment_complexity: Medium
+tags:
+- RAG
+- Obsidian
+- Vector Database
+- Gemini
+- Microservices
+source: https://github.com/Shreyansh15624/obs-rag
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T09:31:27Z"
-discovered_at: "2026-08-07T10:05:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T09:31:27Z'
+discovered_at: '2026-08-07T10:05:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

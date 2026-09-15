@@ -1,19 +1,33 @@
 ---
-title: "AtomicBot-ai/atomic-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "llama.cpp", "Tauri", "SQLite", "Playwright", "GBNF (Grammar-Based Non-Formal)", "TurboQuant (custom quantization)", "MCP (Model Context Protocol)"]
+title: AtomicBot-ai/atomic-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- llama.cpp
+- Tauri
+- SQLite
+- Playwright
+- GBNF (Grammar-Based Non-Formal)
+- TurboQuant (custom quantization)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["local-first", "agentic-ai", "privacy-focused", "tool-calling", "long-context"]
-source: "https://github.com/AtomicBot-ai/atomic-agent"
+deployment_complexity: Medium
+tags:
+- local-first
+- agentic-ai
+- privacy-focused
+- tool-calling
+- long-context
+source: https://github.com/AtomicBot-ai/atomic-agent
 stars: 1202
-language: "TypeScript"
-last_updated: "2026-08-05T14:00:26Z"
-discovered_at: "2026-08-05T14:06:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T14:00:26Z'
+discovered_at: '2026-08-05T14:06:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

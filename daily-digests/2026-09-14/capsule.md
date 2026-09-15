@@ -1,19 +1,31 @@
 ---
-title: "hakiyaka/capsule"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Codex", "Python (for optional benchmarks)", "SHA-256 (for content verification)", "GitHub Actions (CI/CD)"]
+title: hakiyaka/capsule
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Codex
+- Python (for optional benchmarks)
+- SHA-256 (for content verification)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["context compression", "token efficiency", "exact-recoverable", "MCP server", "Codex plugin"]
-source: "https://github.com/hakiyaka/capsule"
+deployment_complexity: Medium
+tags:
+- context compression
+- token efficiency
+- exact-recoverable
+- MCP server
+- Codex plugin
+source: https://github.com/hakiyaka/capsule
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-09T01:32:15Z"
-discovered_at: "2026-08-09T01:34:11Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T01:32:15Z'
+discovered_at: '2026-08-09T01:34:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "menghuanshiguang/bilibili-downloader-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell (Bash)", "yt-dlp", "curl", "ffmpeg (optional)", "Python (for yt-dlp dependency)"]
+title: menghuanshiguang/bilibili-downloader-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Shell (Bash)
+- yt-dlp
+- curl
+- ffmpeg (optional)
+- Python (for yt-dlp dependency)
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["Bilibili", "Video Downloader", "Audio Extraction", "Anti-Scraping", "Batch Download"]
-source: "https://github.com/menghuanshiguang/bilibili-downloader-skill"
+deployment_complexity: Low
+tags:
+- Bilibili
+- Video Downloader
+- Audio Extraction
+- Anti-Scraping
+- Batch Download
+source: https://github.com/menghuanshiguang/bilibili-downloader-skill
 stars: 1
-language: "Shell"
-last_updated: "2026-08-02T10:40:13Z"
-discovered_at: "2026-08-02T10:41:20Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-02T10:40:13Z'
+discovered_at: '2026-08-02T10:41:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

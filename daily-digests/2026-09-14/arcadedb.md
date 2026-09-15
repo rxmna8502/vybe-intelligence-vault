@@ -1,19 +1,39 @@
 ---
-title: "ArcadeData/arcadedb"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Java 21+", "LLJ (Low Level Java)", "SQL", "Cypher", "Gremlin", "GraphQL", "MongoDB Query Language", "Redis Protocol", "PostgreSQL Wire Protocol", "Raft Consensus", "LSM-Tree Indexes", "Gorilla/Delta-of-Delta Compression", "Docker", "Kubernetes", "GraalVM Native Image"]
+title: ArcadeData/arcadedb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Java 21+
+- LLJ (Low Level Java)
+- SQL
+- Cypher
+- Gremlin
+- GraphQL
+- MongoDB Query Language
+- Redis Protocol
+- PostgreSQL Wire Protocol
+- Raft Consensus
+- LSM-Tree Indexes
+- Gorilla/Delta-of-Delta Compression
+- Docker
+- Kubernetes
+- GraalVM Native Image
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-model database", "vector embeddings", "high-performance", "graph database", "time-series"]
-source: "https://github.com/ArcadeData/arcadedb"
+deployment_complexity: Medium
+tags:
+- multi-model database
+- vector embeddings
+- high-performance
+- graph database
+- time-series
+source: https://github.com/ArcadeData/arcadedb
 stars: 1065
-language: "Java"
-last_updated: "2026-08-07T10:08:34Z"
-discovered_at: "2026-08-07T11:06:18Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T10:08:34Z'
+discovered_at: '2026-08-07T11:06:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

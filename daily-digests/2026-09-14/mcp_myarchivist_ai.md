@@ -1,19 +1,30 @@
 ---
-title: "Astrotomic/mcp.myarchivist.ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PHP", "Model Context Protocol (MCP)", "REST API", "OAuth 2.0", "GitHub Actions", "S3 (for image uploads)"]
+title: Astrotomic/mcp.myarchivist.ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- PHP
+- Model Context Protocol (MCP)
+- REST API
+- OAuth 2.0
+- GitHub Actions
+- S3 (for image uploads)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP Server", "TTRPG Integration", "Campaign Management", "AI Assistant Tooling", "Worldbuilding"]
-source: "https://github.com/Astrotomic/mcp.myarchivist.ai"
+deployment_complexity: Low
+tags:
+- MCP Server
+- TTRPG Integration
+- Campaign Management
+- AI Assistant Tooling
+- Worldbuilding
+source: https://github.com/Astrotomic/mcp.myarchivist.ai
 stars: 3
-language: "PHP"
-last_updated: "2026-08-03T16:23:22Z"
-discovered_at: "2026-08-03T16:25:42Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-03T16:23:22Z'
+discovered_at: '2026-08-03T16:25:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

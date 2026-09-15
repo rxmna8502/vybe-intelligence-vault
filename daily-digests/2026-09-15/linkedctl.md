@@ -1,19 +1,31 @@
 ---
-title: "alexey-pelykh/linkedctl"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "OAuth2", "REST API", "YAML", "CLI", "MCP (Model Context Protocol)"]
+title: alexey-pelykh/linkedctl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- OAuth2
+- REST API
+- YAML
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["LinkedIn API", "CLI", "MCP server", "OAuth2", "automation"]
-source: "https://github.com/alexey-pelykh/linkedctl"
+deployment_complexity: Low
+tags:
+- LinkedIn API
+- CLI
+- MCP server
+- OAuth2
+- automation
+source: https://github.com/alexey-pelykh/linkedctl
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-01T22:18:56Z"
-discovered_at: "2026-09-01T22:19:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T22:18:56Z'
+discovered_at: '2026-09-01T22:19:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

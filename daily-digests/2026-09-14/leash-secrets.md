@@ -1,19 +1,30 @@
 ---
-title: "FasterApiWeb/leash-secrets"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Regex", "CLI", "Pre-commit hooks", "GitHub Actions"]
+title: FasterApiWeb/leash-secrets
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- JavaScript
+- Node.js
+- Regex
+- CLI
+- Pre-commit hooks
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["secret scanning", "AI agent security", "pre-commit protection", "credential leakage", "code generation safety"]
-source: "https://github.com/FasterApiWeb/leash-secrets"
+deployment_complexity: Low
+tags:
+- secret scanning
+- AI agent security
+- pre-commit protection
+- credential leakage
+- code generation safety
+source: https://github.com/FasterApiWeb/leash-secrets
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-10T23:04:54Z"
-discovered_at: "2026-07-10T23:08:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T23:04:54Z'
+discovered_at: '2026-07-10T23:08:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

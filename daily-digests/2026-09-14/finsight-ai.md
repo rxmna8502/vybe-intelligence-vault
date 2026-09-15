@@ -1,19 +1,37 @@
 ---
-title: "juanjuandog/FinSight-AI"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Java 17", "Spring Boot 3.3.5", "PostgreSQL with pgvector", "Redis", "RabbitMQ", "FastAPI (Python)", "Ollama", "OpenAI-compatible APIs", "Anthropic", "Docker Compose", "JDBC", "Flyway", "HTML/CSS/JavaScript"]
+title: juanjuandog/FinSight-AI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Java 17
+- Spring Boot 3.3.5
+- PostgreSQL with pgvector
+- Redis
+- RabbitMQ
+- FastAPI (Python)
+- Ollama
+- OpenAI-compatible APIs
+- Anthropic
+- Docker Compose
+- JDBC
+- Flyway
+- HTML/CSS/JavaScript
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "workflow orchestration", "evidence tracing", "financial research", "hybrid retrieval"]
-source: "https://github.com/juanjuandog/FinSight-AI"
+deployment_complexity: Medium
+tags:
+- RAG
+- workflow orchestration
+- evidence tracing
+- financial research
+- hybrid retrieval
+source: https://github.com/juanjuandog/FinSight-AI
 stars: 1021
-language: "Java"
-last_updated: "2026-08-07T06:12:08Z"
-discovered_at: "2026-08-07T06:12:27Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T06:12:08Z'
+discovered_at: '2026-08-07T06:12:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

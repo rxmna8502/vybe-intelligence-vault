@@ -1,19 +1,33 @@
 ---
-title: "ChrisPulman/CodexComputerRunMCPServer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10.0", "ModelContextProtocol (MCP) 1.3.0", "Win32 API", "xdotool", "cliclick", "screencapture", "pbcopy", "osascript"]
+title: ChrisPulman/CodexComputerRunMCPServer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- C#
+- .NET 10.0
+- ModelContextProtocol (MCP) 1.3.0
+- Win32 API
+- xdotool
+- cliclick
+- screencapture
+- pbcopy
+- osascript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Desktop Automation", "AI Agent Control", "Cross-Platform", "Codex Integration"]
-source: "https://github.com/ChrisPulman/CodexComputerRunMCPServer"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Desktop Automation
+- AI Agent Control
+- Cross-Platform
+- Codex Integration
+source: https://github.com/ChrisPulman/CodexComputerRunMCPServer
 stars: 2
-language: "C#"
-last_updated: "2026-08-09T09:33:50Z"
-discovered_at: "2026-08-09T09:44:07Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-09T09:33:50Z'
+discovered_at: '2026-08-09T09:44:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

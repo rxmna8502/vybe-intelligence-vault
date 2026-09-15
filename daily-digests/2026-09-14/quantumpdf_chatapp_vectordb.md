@@ -1,19 +1,37 @@
 ---
-title: "Kedhareswer/QuantumPDF_ChatApp_VectorDB"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Next.js 16", "TypeScript 5", "React 19", "Tailwind CSS", "shadcn/ui", "Zustand", "Pinecone", "Weaviate", "Vitest", "driver.js", "Liteparse (Rust + PDFium)", "Anydoc-WASM", "PapaParse"]
+title: Kedhareswer/QuantumPDF_ChatApp_VectorDB
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Next.js 16
+- TypeScript 5
+- React 19
+- Tailwind CSS
+- shadcn/ui
+- Zustand
+- Pinecone
+- Weaviate
+- Vitest
+- driver.js
+- Liteparse (Rust + PDFium)
+- Anydoc-WASM
+- PapaParse
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Vector Database", "Multi-AI Provider", "Document Processing", "Hybrid Search"]
-source: "https://github.com/Kedhareswer/QuantumPDF_ChatApp_VectorDB"
+deployment_complexity: Medium
+tags:
+- RAG
+- Vector Database
+- Multi-AI Provider
+- Document Processing
+- Hybrid Search
+source: https://github.com/Kedhareswer/QuantumPDF_ChatApp_VectorDB
 stars: 9
-language: "TypeScript"
-last_updated: "2026-08-08T14:41:36Z"
-discovered_at: "2026-08-08T15:33:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T14:41:36Z'
+discovered_at: '2026-08-08T15:33:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "cablate/last-say"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js", "React", "TypeScript", "SQLite", "Tailwind CSS", "shadcn/ui", "Node.js", "Mermaid.js"]
+title: cablate/last-say
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- SQLite
+- Tailwind CSS
+- shadcn/ui
+- Node.js
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "financial review", "AI-human collaboration", "audit trails", "transaction classification"]
-source: "https://github.com/cablate/last-say"
+deployment_complexity: Medium
+tags:
+- local-first
+- financial review
+- AI-human collaboration
+- audit trails
+- transaction classification
+source: https://github.com/cablate/last-say
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-13T18:36:33Z"
-discovered_at: "2026-07-13T18:43:12Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-13T18:36:33Z'
+discovered_at: '2026-07-13T18:43:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

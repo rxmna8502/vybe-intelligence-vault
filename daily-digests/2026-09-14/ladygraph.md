@@ -1,19 +1,30 @@
 ---
-title: "Luqueee/ladygraph"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "MCP (Model Context Protocol)", "LadybugDB", "Bash", "SQLite"]
+title: Luqueee/ladygraph
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- TypeScript
+- MCP (Model Context Protocol)
+- LadybugDB
+- Bash
+- SQLite
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "code intelligence", "semantic graph", "local RAG", "cross-repository analysis"]
-source: "https://github.com/Luqueee/ladygraph"
+deployment_complexity: Medium
+tags:
+- MCP server
+- code intelligence
+- semantic graph
+- local RAG
+- cross-repository analysis
+source: https://github.com/Luqueee/ladygraph
 stars: 0
-language: "Go"
-last_updated: "2026-08-09T14:35:54Z"
-discovered_at: "2026-08-09T14:37:46Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-09T14:35:54Z'
+discovered_at: '2026-08-09T14:37:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

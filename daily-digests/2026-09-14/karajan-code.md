@@ -1,19 +1,34 @@
 ---
-title: "manufosela/karajan-code"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Docker", "SonarQube", "OSV-Scanner", "Semgrep", "Lighthouse", "execa", "child_process"]
+title: manufosela/karajan-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Docker
+- SonarQube
+- OSV-Scanner
+- Semgrep
+- Lighthouse
+- execa
+- child_process
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "TDD-first development", "MCP server", "autonomous coding", "local AI workflows"]
-source: "https://github.com/manufosela/karajan-code"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- TDD-first development
+- MCP server
+- autonomous coding
+- local AI workflows
+source: https://github.com/manufosela/karajan-code
 stars: 31
-language: "JavaScript"
-last_updated: "2026-07-16T08:05:40Z"
-discovered_at: "2026-07-16T08:10:04Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-16T08:05:40Z'
+discovered_at: '2026-07-16T08:10:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

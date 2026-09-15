@@ -1,19 +1,28 @@
 ---
-title: "brickhu/dailog"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "AI/ML", "Node.js", "Natural Language Processing"]
+title: brickhu/dailog
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- AI/ML
+- Node.js
+- Natural Language Processing
 quality_score: 3
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["AI podcasts", "dialogue generation", "TypeScript", "NLP", "content automation"]
-source: "https://github.com/brickhu/dailog"
+deployment_complexity: Medium
+tags:
+- AI podcasts
+- dialogue generation
+- TypeScript
+- NLP
+- content automation
+source: https://github.com/brickhu/dailog
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T17:49:16Z"
-discovered_at: "2026-08-04T17:49:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T17:49:16Z'
+discovered_at: '2026-08-04T17:49:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -13,13 +13,14 @@ collected_at: '2026-09-14T04:00:54.931610+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:garry-tan-wants-us-open-weight-ai-labs-to-distill
 first_seen: '2026-09-14T00:23:06.298436+05:30'
 last_seen: '2026-09-14T04:00:54.931610+05:30'
 last_checked: '2026-09-14T04:00:54.931610+05:30'
 health_score: 100
 ---
+
 
 # Garry Tan wants US open-weight AI labs to 'distill' frontier models, too
 

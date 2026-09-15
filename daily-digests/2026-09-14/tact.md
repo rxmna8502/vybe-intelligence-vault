@@ -1,19 +1,30 @@
 ---
-title: "clabby/tact"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "TUI (Terminal User Interface)", "TOML (Configuration)", "SQLite (Memory Storage)", "Bun (Frontend Development)", "Nanocodex (Agent Framework)"]
+title: clabby/tact
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- TUI (Terminal User Interface)
+- TOML (Configuration)
+- SQLite (Memory Storage)
+- Bun (Frontend Development)
+- Nanocodex (Agent Framework)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["terminal interface", "agent orchestration", "multi-agent systems", "AI workflows", "terminal UI"]
-source: "https://github.com/clabby/tact"
+deployment_complexity: Medium
+tags:
+- terminal interface
+- agent orchestration
+- multi-agent systems
+- AI workflows
+- terminal UI
+source: https://github.com/clabby/tact
 stars: 47
-language: "Rust"
-last_updated: "2026-08-02T15:01:18Z"
-discovered_at: "2026-08-02T15:02:29Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T15:01:18Z'
+discovered_at: '2026-08-02T15:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

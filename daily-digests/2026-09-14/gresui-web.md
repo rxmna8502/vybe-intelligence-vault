@@ -1,19 +1,36 @@
 ---
-title: "FrancisTCE/gresui-web"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Bun", "React 19", "TypeScript", "Vite 7", "Tailwind CSS 4", "Radix UI", "postgres.js", "SQLite", "Model Context Protocol (MCP)", "Zod", "CodeMirror", "TanStack Table"]
+title: FrancisTCE/gresui-web
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Bun
+- React 19
+- TypeScript
+- Vite 7
+- Tailwind CSS 4
+- Radix UI
+- postgres.js
+- SQLite
+- Model Context Protocol (MCP)
+- Zod
+- CodeMirror
+- TanStack Table
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["PostgreSQL client", "MCP server", "AI database access", "React SPA", "Bun runtime"]
-source: "https://github.com/FrancisTCE/gresui-web"
+deployment_complexity: Low
+tags:
+- PostgreSQL client
+- MCP server
+- AI database access
+- React SPA
+- Bun runtime
+source: https://github.com/FrancisTCE/gresui-web
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T10:01:01Z"
-discovered_at: "2026-08-07T10:03:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T10:01:01Z'
+discovered_at: '2026-08-07T10:03:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

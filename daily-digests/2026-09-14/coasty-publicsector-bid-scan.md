@@ -1,19 +1,30 @@
 ---
-title: "coasty-ai/coasty-publicsector-bid-scan"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Coasty API", "AI Agent Framework", "Browser Automation", "FFmpeg"]
+title: coasty-ai/coasty-publicsector-bid-scan
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- JavaScript
+- Node.js
+- Coasty API
+- AI Agent Framework
+- Browser Automation
+- FFmpeg
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent automation", "federal contracting", "SAM.gov scraping", "browser automation", "cost tracking"]
-source: "https://github.com/coasty-ai/coasty-publicsector-bid-scan"
+deployment_complexity: Medium
+tags:
+- AI agent automation
+- federal contracting
+- SAM.gov scraping
+- browser automation
+- cost tracking
+source: https://github.com/coasty-ai/coasty-publicsector-bid-scan
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:22:20Z"
-discovered_at: "2026-08-02T19:25:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:22:20Z'
+discovered_at: '2026-08-02T19:25:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

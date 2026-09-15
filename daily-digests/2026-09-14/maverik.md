@@ -1,19 +1,30 @@
 ---
-title: "langens-jonathan/maverik"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", "ASP.NET Core", "React", "Docker", "Model Context Protocol (MCP)", "TypeScript"]
+title: langens-jonathan/maverik
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- C#
+- ASP.NET Core
+- React
+- Docker
+- Model Context Protocol (MCP)
+- TypeScript
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP", "agent benchmarking", "cost prediction", "A/B testing", "LLM evaluation"]
-source: "https://github.com/langens-jonathan/maverik"
+deployment_complexity: Medium
+tags:
+- MCP
+- agent benchmarking
+- cost prediction
+- A/B testing
+- LLM evaluation
+source: https://github.com/langens-jonathan/maverik
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-02T10:26:01Z"
-discovered_at: "2026-08-02T10:41:43Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T10:26:01Z'
+discovered_at: '2026-08-02T10:41:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

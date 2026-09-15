@@ -1,19 +1,32 @@
 ---
-title: "Pharma-Py/Sentinella_mail-IT-"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.12", "MLX (Apple Silicon)", "llama.cpp (Intel fallback)", "Qwen2.5-14B-Instruct LLM", "IMAP", "AppleScript", "Keychain", "holidays library"]
+title: Pharma-Py/Sentinella_mail-IT-
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python 3.12
+- MLX (Apple Silicon)
+- llama.cpp (Intel fallback)
+- Qwen2.5-14B-Instruct LLM
+- IMAP
+- AppleScript
+- Keychain
+- holidays library
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["local LLM", "email processing", "calendar automation", "privacy-first", "macOS daemon"]
-source: "https://github.com/Pharma-Py/Sentinella_mail-IT-"
+deployment_complexity: High
+tags:
+- local LLM
+- email processing
+- calendar automation
+- privacy-first
+- macOS daemon
+source: https://github.com/Pharma-Py/Sentinella_mail-IT-
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T06:50:51Z"
-discovered_at: "2026-08-08T06:52:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T06:50:51Z'
+discovered_at: '2026-08-08T06:52:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

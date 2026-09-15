@@ -1,19 +1,31 @@
 ---
-title: "HiddenKismet/miro-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Pi Agent", "Playwright", "Bubblewrap (bwrap)", "Node.js", "Git", "MCP (Model Context Protocol)"]
+title: HiddenKismet/miro-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Pi Agent
+- Playwright
+- Bubblewrap (bwrap)
+- Node.js
+- Git
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "task automation", "workflow management", "Git integration", "personal assistant"]
-source: "https://github.com/HiddenKismet/miro-agent"
+deployment_complexity: Medium
+tags:
+- AI agent
+- task automation
+- workflow management
+- Git integration
+- personal assistant
+source: https://github.com/HiddenKismet/miro-agent
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-04T12:56:46Z"
-discovered_at: "2026-08-04T13:03:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T12:56:46Z'
+discovered_at: '2026-08-04T13:03:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

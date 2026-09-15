@@ -1,19 +1,32 @@
 ---
-title: "ppossanzini/Jigen"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C#", ".NET 8.0 / .NET 10.0", "ASP.NET Core", "gRPC", "ONNX Runtime", "HNSW Indexing", "MediatR (Hikyaku fork)", "Docker"]
+title: ppossanzini/Jigen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- C#
+- .NET 8.0 / .NET 10.0
+- ASP.NET Core
+- gRPC
+- ONNX Runtime
+- HNSW Indexing
+- MediatR (Hikyaku fork)
+- Docker
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["vector database", "C# .NET", "HNSW indexing", "in-process storage", "embedding generation"]
-source: "https://github.com/ppossanzini/Jigen"
+deployment_complexity: Medium
+tags:
+- vector database
+- C# .NET
+- HNSW indexing
+- in-process storage
+- embedding generation
+source: https://github.com/ppossanzini/Jigen
 stars: 10
-language: "C#"
-last_updated: "2026-08-07T09:33:57Z"
-discovered_at: "2026-08-07T10:05:47Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T09:33:57Z'
+discovered_at: '2026-08-07T10:05:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "billy12151/mema-twin"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "HTTP", "Agent Frameworks", "Memory Management"]
+title: billy12151/mema-twin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- SQLite
+- MCP (Model Context Protocol)
+- HTTP
+- Agent Frameworks
+- Memory Management
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personalization", "agent prompts", "memory management", "workflow automation", "versioned personas"]
-source: "https://github.com/billy12151/mema-twin"
+deployment_complexity: Medium
+tags:
+- personalization
+- agent prompts
+- memory management
+- workflow automation
+- versioned personas
+source: https://github.com/billy12151/mema-twin
 stars: 0
-language: "Python"
-last_updated: "2026-09-04T02:10:45Z"
-discovered_at: "2026-09-04T02:15:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T02:10:45Z'
+discovered_at: '2026-09-04T02:15:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

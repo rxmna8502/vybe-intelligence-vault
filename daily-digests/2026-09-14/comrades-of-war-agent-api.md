@@ -1,19 +1,32 @@
 ---
-title: "qazsero/comrades-of-war-agent-api"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["x402", "A2A", "MCP", "JSON-RPC", "HTTP", "USDC", "Base", "Cloudflare Workers"]
+title: qazsero/comrades-of-war-agent-api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- x402
+- A2A
+- MCP
+- JSON-RPC
+- HTTP
+- USDC
+- Base
+- Cloudflare Workers
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["historical archive", "gaming community", "citation-ready", "x402 payments", "agent integration"]
-source: "https://github.com/qazsero/comrades-of-war-agent-api"
+deployment_complexity: Medium
+tags:
+- historical archive
+- gaming community
+- citation-ready
+- x402 payments
+- agent integration
+source: https://github.com/qazsero/comrades-of-war-agent-api
 stars: 0
-language: "None"
-last_updated: "2026-08-01T13:16:11Z"
-discovered_at: "2026-08-01T13:16:46Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T13:16:11Z'
+discovered_at: '2026-08-01T13:16:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

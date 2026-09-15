@@ -1,19 +1,33 @@
 ---
-title: "XiaZiHunDun/WFXM"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "TypeScript", "PostgreSQL", "PGlite", "WebSocket", "LLM APIs", "Event Sourcing", "CLI", "WeChat API"]
+title: XiaZiHunDun/WFXM
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Node.js
+- TypeScript
+- PostgreSQL
+- PGlite
+- WebSocket
+- LLM APIs
+- Event Sourcing
+- CLI
+- WeChat API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal AI assistant", "self-hosted", "WeChat integration", "event-driven", "agent delegation"]
-source: "https://github.com/XiaZiHunDun/WFXM"
+deployment_complexity: Medium
+tags:
+- personal AI assistant
+- self-hosted
+- WeChat integration
+- event-driven
+- agent delegation
+source: https://github.com/XiaZiHunDun/WFXM
 stars: 1
-language: "Python"
-last_updated: "2026-09-02T02:03:32Z"
-discovered_at: "2026-09-02T02:10:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:03:32Z'
+discovered_at: '2026-09-02T02:10:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

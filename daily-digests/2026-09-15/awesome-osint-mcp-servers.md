@@ -1,19 +1,31 @@
 ---
-title: "soxoj/awesome-osint-mcp-servers"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "OSINT Tools", "API Integration", "Web Scraping", "Network Scanning", "Blockchain Intelligence", "Threat Intelligence"]
+title: soxoj/awesome-osint-mcp-servers
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Model Context Protocol (MCP)
+- OSINT Tools
+- API Integration
+- Web Scraping
+- Network Scanning
+- Blockchain Intelligence
+- Threat Intelligence
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["OSINT", "MCP Servers", "LLM Integration", "Data Collection", "Security Intelligence"]
-source: "https://github.com/soxoj/awesome-osint-mcp-servers"
+deployment_complexity: Medium
+tags:
+- OSINT
+- MCP Servers
+- LLM Integration
+- Data Collection
+- Security Intelligence
+source: https://github.com/soxoj/awesome-osint-mcp-servers
 stars: 292
-language: "None"
-last_updated: "2026-07-11T14:45:11Z"
-discovered_at: "2026-07-11T14:52:05Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-11T14:45:11Z'
+discovered_at: '2026-07-11T14:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

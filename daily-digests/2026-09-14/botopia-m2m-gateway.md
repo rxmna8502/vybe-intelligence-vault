@@ -1,19 +1,31 @@
 ---
-title: "ResonantCodes/botopia-m2m-gateway"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "REST API", "Model Context Protocol (MCP)", "Stripe API", "JSON", "Micropayments (x402)", "Automated Data Harvesting"]
+title: ResonantCodes/botopia-m2m-gateway
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- REST API
+- Model Context Protocol (MCP)
+- Stripe API
+- JSON
+- Micropayments (x402)
+- Automated Data Harvesting
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["API deprecation", "breaking changes", "real-time intelligence", "M2M gateway", "autonomous agents"]
-source: "https://github.com/ResonantCodes/botopia-m2m-gateway"
+deployment_complexity: Medium
+tags:
+- API deprecation
+- breaking changes
+- real-time intelligence
+- M2M gateway
+- autonomous agents
+source: https://github.com/ResonantCodes/botopia-m2m-gateway
 stars: 0
-language: "None"
-last_updated: "2026-08-07T08:16:11Z"
-discovered_at: "2026-08-07T08:16:18Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T08:16:11Z'
+discovered_at: '2026-08-07T08:16:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

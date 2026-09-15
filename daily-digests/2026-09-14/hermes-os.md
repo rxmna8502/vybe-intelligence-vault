@@ -1,19 +1,30 @@
 ---
-title: "arbonomous/hermes-os"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Ubuntu Server 24.04 LTS", "Python", "Hermes Agent (NousResearch)", "Btrfs (snapshots)", "Execve (no shell)", "Natural Language Processing"]
+title: arbonomous/hermes-os
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Ubuntu Server 24.04 LTS
+- Python
+- Hermes Agent (NousResearch)
+- Btrfs (snapshots)
+- Execve (no shell)
+- Natural Language Processing
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Linux distribution", "AI-driven OS", "Safety-first", "Beginner-friendly", "Local AI"]
-source: "https://github.com/arbonomous/hermes-os"
+deployment_complexity: Medium
+tags:
+- Linux distribution
+- AI-driven OS
+- Safety-first
+- Beginner-friendly
+- Local AI
+source: https://github.com/arbonomous/hermes-os
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T01:20:06Z"
-discovered_at: "2026-08-08T01:26:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T01:20:06Z'
+discovered_at: '2026-08-08T01:26:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

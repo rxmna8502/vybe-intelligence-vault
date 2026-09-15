@@ -1,19 +1,31 @@
 ---
-title: "K1erans/qualms-app"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Tauri", "SvelteKit", "Rust", "Node.js", "Corepack", "pnpm"]
+title: K1erans/qualms-app
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Tauri
+- SvelteKit
+- Rust
+- Node.js
+- Corepack
+- pnpm
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["QA automation", "CLI framework", "desktop application", "modular execution", "Tauri"]
-source: "https://github.com/K1erans/qualms-app"
+deployment_complexity: Medium
+tags:
+- QA automation
+- CLI framework
+- desktop application
+- modular execution
+- Tauri
+source: https://github.com/K1erans/qualms-app
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-20T22:57:31Z"
-discovered_at: "2026-07-20T22:59:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T22:57:31Z'
+discovered_at: '2026-07-20T22:59:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "Mars535821089-ops/MiniMax-claude-proxy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLite", "Anthropic API", "Claude Code", "Docker", "Pytest", "MkDocs", "Material for MkDocs", "Mermaid.js"]
+title: Mars535821089-ops/MiniMax-claude-proxy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- Anthropic API
+- Claude Code
+- Docker
+- Pytest
+- MkDocs
+- Material for MkDocs
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Claude Code integration", "MiniMax-M3 proxy", "Anthropic protocol compatibility", "local caching", "multi-modal support"]
-source: "https://github.com/Mars535821089-ops/MiniMax-claude-proxy"
+deployment_complexity: Medium
+tags:
+- Claude Code integration
+- MiniMax-M3 proxy
+- Anthropic protocol compatibility
+- local caching
+- multi-modal support
+source: https://github.com/Mars535821089-ops/MiniMax-claude-proxy
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T06:57:30Z"
-discovered_at: "2026-08-09T06:58:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T06:57:30Z'
+discovered_at: '2026-08-09T06:58:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

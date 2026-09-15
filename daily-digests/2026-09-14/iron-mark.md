@@ -1,19 +1,33 @@
 ---
-title: "Iron-Mark/Iron-Mark"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["GitHub Actions", "JSON-LD", "Python", "TypeScript", "React", "Next.js", "LLM Integration", "Automated Pipelines", "GitHub Pages"]
+title: Iron-Mark/Iron-Mark
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- GitHub Actions
+- JSON-LD
+- Python
+- TypeScript
+- React
+- Next.js
+- LLM Integration
+- Automated Pipelines
+- GitHub Pages
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["GitHub profile", "LLM-readable", "automated pipelines", "portfolio index", "structured data"]
-source: "https://github.com/Iron-Mark/Iron-Mark"
+deployment_complexity: Medium
+tags:
+- GitHub profile
+- LLM-readable
+- automated pipelines
+- portfolio index
+- structured data
+source: https://github.com/Iron-Mark/Iron-Mark
 stars: 4
-language: "Python"
-last_updated: "2026-09-03T15:30:21Z"
-discovered_at: "2026-09-03T15:42:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:30:21Z'
+discovered_at: '2026-09-03T15:42:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

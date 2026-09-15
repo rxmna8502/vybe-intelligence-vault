@@ -1,19 +1,30 @@
 ---
-title: "Boney-massiveness357/ragscope"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["FastAPI", "ChromaDB", "Ollama", "MLflow", "Python", "Windows"]
+title: Boney-massiveness357/ragscope
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- FastAPI
+- ChromaDB
+- Ollama
+- MLflow
+- Python
+- Windows
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["document Q&A", "RAG", "offline search", "document indexing", "Windows desktop app"]
-source: "https://github.com/Boney-massiveness357/ragscope"
+deployment_complexity: Low
+tags:
+- document Q&A
+- RAG
+- offline search
+- document indexing
+- Windows desktop app
+source: https://github.com/Boney-massiveness357/ragscope
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T09:33:52Z"
-discovered_at: "2026-08-07T10:05:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T09:33:52Z'
+discovered_at: '2026-08-07T10:05:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

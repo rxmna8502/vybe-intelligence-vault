@@ -1,19 +1,28 @@
 ---
-title: "Neeeophytee/mcp-stateless-conformance"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "HTTP", "MCP Specification", "Conformance Testing"]
+title: Neeeophytee/mcp-stateless-conformance
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- HTTP
+- MCP Specification
+- Conformance Testing
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP", "conformance testing", "stateless protocol", "specification compliance", "server validation"]
-source: "https://github.com/Neeeophytee/mcp-stateless-conformance"
+deployment_complexity: Low
+tags:
+- MCP
+- conformance testing
+- stateless protocol
+- specification compliance
+- server validation
+source: https://github.com/Neeeophytee/mcp-stateless-conformance
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-01T03:38:16Z"
-discovered_at: "2026-08-01T03:44:04Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T03:38:16Z'
+discovered_at: '2026-08-01T03:44:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

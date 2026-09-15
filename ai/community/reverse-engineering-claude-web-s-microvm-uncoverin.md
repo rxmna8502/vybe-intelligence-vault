@@ -14,13 +14,14 @@ collected_at: '2026-09-14T04:00:54.691169+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:reverse-engineering-claude-web-s-microvm-uncoverin
 first_seen: '2026-09-14T04:00:54.691169+05:30'
 last_seen: '2026-09-14T04:00:54.691169+05:30'
 last_checked: '2026-09-14T04:00:54.691169+05:30'
 health_score: 100
 ---
+
 
 # Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace
 

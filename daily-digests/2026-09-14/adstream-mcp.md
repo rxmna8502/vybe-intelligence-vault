@@ -1,19 +1,31 @@
 ---
-title: "ramadhanidiwanda-alt/adstream-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Meta Ads API", "TikTok Ads API", "Google Ads API", "Node.js", "Docker"]
+title: ramadhanidiwanda-alt/adstream-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Meta Ads API
+- TikTok Ads API
+- Google Ads API
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP connector", "ads analytics", "data access layer", "AI tooling", "multi-platform"]
-source: "https://github.com/ramadhanidiwanda-alt/adstream-mcp"
+deployment_complexity: Medium
+tags:
+- MCP connector
+- ads analytics
+- data access layer
+- AI tooling
+- multi-platform
+source: https://github.com/ramadhanidiwanda-alt/adstream-mcp
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-19T07:25:34Z"
-discovered_at: "2026-07-19T07:29:32Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T07:25:34Z'
+discovered_at: '2026-07-19T07:29:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

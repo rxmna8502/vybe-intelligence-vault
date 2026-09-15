@@ -1,19 +1,30 @@
 ---
-title: "vuongdam2k01/sag-agents-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "REST API", "Git", "CLI", "JSON/YAML configuration"]
+title: vuongdam2k01/sag-agents-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- REST API
+- Git
+- CLI
+- JSON/YAML configuration
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["knowledge base", "agent integration", "write operations", "safety checks", "MCP server"]
-source: "https://github.com/vuongdam2k01/sag-agents-plugin"
+deployment_complexity: Medium
+tags:
+- knowledge base
+- agent integration
+- write operations
+- safety checks
+- MCP server
+source: https://github.com/vuongdam2k01/sag-agents-plugin
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T08:50:31Z"
-discovered_at: "2026-08-01T09:06:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T08:50:31Z'
+discovered_at: '2026-08-01T09:06:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

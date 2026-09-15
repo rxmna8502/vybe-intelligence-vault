@@ -1,19 +1,34 @@
 ---
-title: "Yash-PK/ai-core-mlops-hub"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "Docker", "Kubernetes", "PostgreSQL", "Redis", "MQTT", "LangChain", "JupyterHub", "CUDA"]
+title: Yash-PK/ai-core-mlops-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Next.js
+- Docker
+- Kubernetes
+- PostgreSQL
+- Redis
+- MQTT
+- LangChain
+- JupyterHub
+- CUDA
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["MLOps", "RAG", "GPU Orchestration", "Multi-Tenant", "Model Serving"]
-source: "https://github.com/Yash-PK/ai-core-mlops-hub"
+deployment_complexity: High
+tags:
+- MLOps
+- RAG
+- GPU Orchestration
+- Multi-Tenant
+- Model Serving
+source: https://github.com/Yash-PK/ai-core-mlops-hub
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T10:18:35Z"
-discovered_at: "2026-08-04T10:41:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T10:18:35Z'
+discovered_at: '2026-08-04T10:41:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

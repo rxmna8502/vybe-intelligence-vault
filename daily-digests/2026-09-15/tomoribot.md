@@ -1,19 +1,35 @@
 ---
-title: "Bredrumb/TomoriBot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Discord.js", "Bun", "PostgreSQL", "Node.js", "Python", "Docker", "ComfyUI", "KoboldCPP", "LM Studio", "vLLM"]
+title: Bredrumb/TomoriBot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Discord.js
+- Bun
+- PostgreSQL
+- Node.js
+- Python
+- Docker
+- ComfyUI
+- KoboldCPP
+- LM Studio
+- vLLM
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Discord AI", "Self-hosted", "Agentic AI", "Multimodal", "Persona Management"]
-source: "https://github.com/Bredrumb/TomoriBot"
+deployment_complexity: Medium
+tags:
+- Discord AI
+- Self-hosted
+- Agentic AI
+- Multimodal
+- Persona Management
+source: https://github.com/Bredrumb/TomoriBot
 stars: 44
-language: "TypeScript"
-last_updated: "2026-08-07T08:12:20Z"
-discovered_at: "2026-08-07T08:16:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T08:12:20Z'
+discovered_at: '2026-08-07T08:16:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "YouNianShao/jobpilot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Chrome DevTools Protocol (CDP)", "DeepSeek API", "SQLite", "Flask (implied by web dashboard)", "Markdown (for resume parsing)", "YAML (for configuration)"]
+title: YouNianShao/jobpilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Chrome DevTools Protocol (CDP)
+- DeepSeek API
+- SQLite
+- Flask (implied by web dashboard)
+- Markdown (for resume parsing)
+- YAML (for configuration)
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["job automation", "AI resume scoring", "multi-platform scraping", "job application assistant", "web dashboard"]
-source: "https://github.com/YouNianShao/jobpilot"
+deployment_complexity: Medium
+tags:
+- job automation
+- AI resume scoring
+- multi-platform scraping
+- job application assistant
+- web dashboard
+source: https://github.com/YouNianShao/jobpilot
 stars: 1
-language: "Python"
-last_updated: "2026-09-03T15:29:23Z"
-discovered_at: "2026-09-03T15:37:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:29:23Z'
+discovered_at: '2026-09-03T15:37:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

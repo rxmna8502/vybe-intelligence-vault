@@ -1,19 +1,30 @@
 ---
-title: "jinmojing/browser-forest-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Chromium", "V8 JavaScript Engine", "MCP (Model Context Protocol)", "HTTP/Streaming", "Python (SDK)", "Accessibility Tree (AX Tree)"]
+title: jinmojing/browser-forest-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Chromium
+- V8 JavaScript Engine
+- MCP (Model Context Protocol)
+- HTTP/Streaming
+- Python (SDK)
+- Accessibility Tree (AX Tree)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["anti-detect", "browser automation", "kernel-patched Chromium", "MCP server", "AI agent tooling"]
-source: "https://github.com/jinmojing/browser-forest-mcp-server"
+deployment_complexity: Medium
+tags:
+- anti-detect
+- browser automation
+- kernel-patched Chromium
+- MCP server
+- AI agent tooling
+source: https://github.com/jinmojing/browser-forest-mcp-server
 stars: 0
-language: "None"
-last_updated: "2026-09-02T08:17:19Z"
-discovered_at: "2026-09-02T08:22:40Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-02T08:17:19Z'
+discovered_at: '2026-09-02T08:22:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

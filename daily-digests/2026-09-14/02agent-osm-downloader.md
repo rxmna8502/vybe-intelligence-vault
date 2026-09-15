@@ -1,19 +1,30 @@
 ---
-title: "YusufEminoglu/02Agent-OSM-Downloader"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "QGIS", "PyQGIS", "Overpass API", "Agent Protocol", "GitHub Pages"]
+title: YusufEminoglu/02Agent-OSM-Downloader
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- QGIS
+- PyQGIS
+- Overpass API
+- Agent Protocol
+- GitHub Pages
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["OpenStreetMap", "QGIS plugin", "data acquisition", "Agent Protocol", "GIS"]
-source: "https://github.com/YusufEminoglu/02Agent-OSM-Downloader"
+deployment_complexity: Medium
+tags:
+- OpenStreetMap
+- QGIS plugin
+- data acquisition
+- Agent Protocol
+- GIS
+source: https://github.com/YusufEminoglu/02Agent-OSM-Downloader
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T15:33:10Z"
-discovered_at: "2026-08-09T15:35:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T15:33:10Z'
+discovered_at: '2026-08-09T15:35:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "u7465990/testgen-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LLMs (OpenAI, Anthropic, DeepSeek)", "Java", "JUnit 4", "javalang", "Maven", "Gradle", "Ant", "JaCoCo"]
+title: u7465990/testgen-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- LLMs (OpenAI, Anthropic, DeepSeek)
+- Java
+- JUnit 4
+- javalang
+- Maven
+- Gradle
+- Ant
+- JaCoCo
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["automated testing", "Java", "JUnit", "LLM-powered", "code generation"]
-source: "https://github.com/u7465990/testgen-agent"
+deployment_complexity: Medium
+tags:
+- automated testing
+- Java
+- JUnit
+- LLM-powered
+- code generation
+source: https://github.com/u7465990/testgen-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T14:58:29Z"
-discovered_at: "2026-08-02T15:02:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T14:58:29Z'
+discovered_at: '2026-08-02T15:02:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

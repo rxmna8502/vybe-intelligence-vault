@@ -1,19 +1,32 @@
 ---
-title: "NickBell123/claude-telegram"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Telegram Bot API", "Claude Code CLI", "asyncio", "systemd", "pytest", "JSON streaming", "HMAC authentication"]
+title: NickBell123/claude-telegram
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Telegram Bot API
+- Claude Code CLI
+- asyncio
+- systemd
+- pytest
+- JSON streaming
+- HMAC authentication
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Telegram integration", "Claude Code bridge", "cron notifications", "subprocess streaming", "authentication security"]
-source: "https://github.com/NickBell123/claude-telegram"
+deployment_complexity: Medium
+tags:
+- Telegram integration
+- Claude Code bridge
+- cron notifications
+- subprocess streaming
+- authentication security
+source: https://github.com/NickBell123/claude-telegram
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T16:03:31Z"
-discovered_at: "2026-08-02T16:11:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T16:03:31Z'
+discovered_at: '2026-08-02T16:11:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

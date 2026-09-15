@@ -1,19 +1,33 @@
 ---
-title: "nethinwei/sql-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "PostgreSQL", "MySQL", "OceanBase", "Docker", "Docker Compose", "OpenTelemetry", "RBAC", "ACL"]
+title: nethinwei/sql-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Go
+- PostgreSQL
+- MySQL
+- OceanBase
+- Docker
+- Docker Compose
+- OpenTelemetry
+- RBAC
+- ACL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["SQL governance", "AI agent security", "data access control", "policy enforcement", "deterministic execution"]
-source: "https://github.com/nethinwei/sql-mcp-server"
+deployment_complexity: Medium
+tags:
+- SQL governance
+- AI agent security
+- data access control
+- policy enforcement
+- deterministic execution
+source: https://github.com/nethinwei/sql-mcp-server
 stars: 0
-language: "Go"
-last_updated: "2026-07-12T05:50:43Z"
-discovered_at: "2026-07-12T05:56:17Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-12T05:50:43Z'
+discovered_at: '2026-07-12T05:56:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

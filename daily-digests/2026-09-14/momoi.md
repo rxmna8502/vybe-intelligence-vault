@@ -1,19 +1,32 @@
 ---
-title: "RicterZ/Momoi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "Anthropic Messages API", "OpenAI Chat Completions API", "MCP (Model Context Protocol)", "Docker", "Mermaid.js (for diagrams)", "Embedding models (optional)"]
+title: RicterZ/Momoi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- SQLite
+- Anthropic Messages API
+- OpenAI Chat Completions API
+- MCP (Model Context Protocol)
+- Docker
+- Mermaid.js (for diagrams)
+- Embedding models (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal agent", "memory management", "MCP integration", "private deployment", "time-aware scheduling"]
-source: "https://github.com/RicterZ/Momoi"
+deployment_complexity: Medium
+tags:
+- personal agent
+- memory management
+- MCP integration
+- private deployment
+- time-aware scheduling
+source: https://github.com/RicterZ/Momoi
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T09:02:54Z"
-discovered_at: "2026-09-01T09:09:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T09:02:54Z'
+discovered_at: '2026-09-01T09:09:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

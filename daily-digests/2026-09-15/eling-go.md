@@ -1,19 +1,34 @@
 ---
-title: "PatrickNoFilter/eling-go"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Bubbletea (TUI framework)", "SQLite", "BM25 FTS5", "RRF (Reciprocal Rank Fusion)", "DeepSeek/OpenAI/Groq/Anthropic APIs", "MCP (Model Context Protocol)", "Alibaba Open Code Review", "Unshare (sandboxing)", "Git Worktrees"]
+title: PatrickNoFilter/eling-go
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Go
+- Bubbletea (TUI framework)
+- SQLite
+- BM25 FTS5
+- RRF (Reciprocal Rank Fusion)
+- DeepSeek/OpenAI/Groq/Anthropic APIs
+- MCP (Model Context Protocol)
+- Alibaba Open Code Review
+- Unshare (sandboxing)
+- Git Worktrees
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "self-improving", "multi-layer memory", "MCP protocol", "Go"]
-source: "https://github.com/PatrickNoFilter/eling-go"
+deployment_complexity: Medium
+tags:
+- AI agent
+- self-improving
+- multi-layer memory
+- MCP protocol
+- Go
+source: https://github.com/PatrickNoFilter/eling-go
 stars: 0
-language: "Go"
-last_updated: "2026-08-02T15:01:37Z"
-discovered_at: "2026-08-02T15:02:26Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T15:01:37Z'
+discovered_at: '2026-08-02T15:02:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

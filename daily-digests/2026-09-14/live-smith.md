@@ -1,19 +1,30 @@
 ---
-title: "SamKuler/live-smith"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Ableton Extensions SDK", "React (inferred from UI components)", "OAuth", "WebSockets (for real-time interaction)"]
+title: SamKuler/live-smith
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- Ableton Extensions SDK
+- React (inferred from UI components)
+- OAuth
+- WebSockets (for real-time interaction)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI music production", "Ableton Live integration", "conversational editing", "real-time collaboration", "audio workflow automation"]
-source: "https://github.com/SamKuler/live-smith"
+deployment_complexity: Medium
+tags:
+- AI music production
+- Ableton Live integration
+- conversational editing
+- real-time collaboration
+- audio workflow automation
+source: https://github.com/SamKuler/live-smith
 stars: 6
-language: "TypeScript"
-last_updated: "2026-09-01T02:45:05Z"
-discovered_at: "2026-09-01T02:51:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:45:05Z'
+discovered_at: '2026-09-01T02:51:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

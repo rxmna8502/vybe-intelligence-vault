@@ -1,19 +1,33 @@
 ---
-title: "blackwell-systems/mcp-vst-sidechain"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "C++", "JUCE", "VST3", "Audio Units (AU)", "MCP (Model Context Protocol)", "GCF (Generic Compact Format)", "JSON-RPC", "TCP/IP"]
+title: blackwell-systems/mcp-vst-sidechain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- C++
+- JUCE
+- VST3
+- Audio Units (AU)
+- MCP (Model Context Protocol)
+- GCF (Generic Compact Format)
+- JSON-RPC
+- TCP/IP
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP bridge", "VST3/AU hosting", "AI plugin control", "real-time parameter automation", "GCF encoding"]
-source: "https://github.com/blackwell-systems/mcp-vst-sidechain"
+deployment_complexity: Medium
+tags:
+- MCP bridge
+- VST3/AU hosting
+- AI plugin control
+- real-time parameter automation
+- GCF encoding
+source: https://github.com/blackwell-systems/mcp-vst-sidechain
 stars: 0
-language: "Go"
-last_updated: "2026-09-01T19:05:00Z"
-discovered_at: "2026-09-01T19:07:55Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T19:05:00Z'
+discovered_at: '2026-09-01T19:07:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

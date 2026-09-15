@@ -1,19 +1,30 @@
 ---
-title: "asaeles/manual-master"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "OpenAI API", "ChromaDB", "python-magic", "ReAct Agent Framework"]
+title: asaeles/manual-master
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- LangChain
+- OpenAI API
+- ChromaDB
+- python-magic
+- ReAct Agent Framework
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "document ingestion", "ChromaDB", "ReAct agent", "local knowledge base"]
-source: "https://github.com/asaeles/manual-master"
+deployment_complexity: Medium
+tags:
+- RAG
+- document ingestion
+- ChromaDB
+- ReAct agent
+- local knowledge base
+source: https://github.com/asaeles/manual-master
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T09:45:49Z"
-discovered_at: "2026-08-08T10:35:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T09:45:49Z'
+discovered_at: '2026-08-08T10:35:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

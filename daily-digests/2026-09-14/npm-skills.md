@@ -1,19 +1,33 @@
 ---
-title: "scagogogo/npm-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "CLI", "MCP Server", "Claude Code Plugin", "GitHub Actions", "GoReleaser", "JSON API", "HTTP Proxy", "Registry Mirrors"]
+title: scagogogo/npm-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- CLI
+- MCP Server
+- Claude Code Plugin
+- GitHub Actions
+- GoReleaser
+- JSON API
+- HTTP Proxy
+- Registry Mirrors
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["NPM Registry", "Go SDK", "AI Agent Integration", "CLI Tool", "MCP Server"]
-source: "https://github.com/scagogogo/npm-skills"
+deployment_complexity: Medium
+tags:
+- NPM Registry
+- Go SDK
+- AI Agent Integration
+- CLI Tool
+- MCP Server
+source: https://github.com/scagogogo/npm-skills
 stars: 1
-language: "Go"
-last_updated: "2026-09-02T19:05:06Z"
-discovered_at: "2026-09-02T19:12:54Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-02T19:05:06Z'
+discovered_at: '2026-09-02T19:12:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

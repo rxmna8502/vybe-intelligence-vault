@@ -1,19 +1,30 @@
 ---
-title: "d-led/guitar-modeler-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "JSON", "HTML", "CLI", "GitHub Actions"]
+title: d-led/guitar-modeler-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- JSON
+- HTML
+- CLI
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "guitar presets", "AI-assisted tone design", "hardware modelers", "audio tooling"]
-source: "https://github.com/d-led/guitar-modeler-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- guitar presets
+- AI-assisted tone design
+- hardware modelers
+- audio tooling
+source: https://github.com/d-led/guitar-modeler-mcp
 stars: 0
-language: "Go"
-last_updated: "2026-09-03T19:02:17Z"
-discovered_at: "2026-09-03T19:13:10Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T19:02:17Z'
+discovered_at: '2026-09-03T19:13:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

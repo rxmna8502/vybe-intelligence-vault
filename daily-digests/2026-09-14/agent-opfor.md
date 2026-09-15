@@ -1,19 +1,32 @@
 ---
-title: "KeyValueSoftwareSystems/agent-opfor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "LLM APIs (OpenAI, Anthropic, Gemini, etc.)", "MCP (Model Context Protocol)", "Langfuse", "Netra", "Chrome Extension API", "Docker"]
+title: KeyValueSoftwareSystems/agent-opfor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- LLM APIs (OpenAI, Anthropic, Gemini, etc.)
+- MCP (Model Context Protocol)
+- Langfuse
+- Netra
+- Chrome Extension API
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["red-teaming", "AI security", "adversarial testing", "MCP testing", "OWASP compliance"]
-source: "https://github.com/KeyValueSoftwareSystems/agent-opfor"
+deployment_complexity: Medium
+tags:
+- red-teaming
+- AI security
+- adversarial testing
+- MCP testing
+- OWASP compliance
+source: https://github.com/KeyValueSoftwareSystems/agent-opfor
 stars: 564
-language: "TypeScript"
-last_updated: "2026-07-20T12:14:26Z"
-discovered_at: "2026-07-20T12:22:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T12:14:26Z'
+discovered_at: '2026-07-20T12:22:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

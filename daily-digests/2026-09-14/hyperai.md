@@ -1,19 +1,36 @@
 ---
-title: "iharshkaran/HyperAI"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["React", "TypeScript", "Node.js", "Express", "MongoDB", "Pinecone", "Socket.IO", "TailwindCSS", "JWT", "bcrypt", "Gemini API", "Mongoose"]
+title: iharshkaran/HyperAI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- React
+- TypeScript
+- Node.js
+- Express
+- MongoDB
+- Pinecone
+- Socket.IO
+- TailwindCSS
+- JWT
+- bcrypt
+- Gemini API
+- Mongoose
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Assistant", "Semantic Memory", "Vector Database", "Real-Time Streaming", "Contextual Conversations"]
-source: "https://github.com/iharshkaran/HyperAI"
+deployment_complexity: Medium
+tags:
+- AI Assistant
+- Semantic Memory
+- Vector Database
+- Real-Time Streaming
+- Contextual Conversations
+source: https://github.com/iharshkaran/HyperAI
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-07T11:57:37Z"
-discovered_at: "2026-08-07T13:03:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:57:37Z'
+discovered_at: '2026-08-07T13:03:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,27 @@
 ---
-title: "n-WN/pi-user-metadata"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "pi extension framework"]
+title: n-WN/pi-user-metadata
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- pi extension framework
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["metadata injection", "Anthropic API", "user identification", "pi extension", "API routing"]
-source: "https://github.com/n-WN/pi-user-metadata"
+deployment_complexity: Low
+tags:
+- metadata injection
+- Anthropic API
+- user identification
+- pi extension
+- API routing
+source: https://github.com/n-WN/pi-user-metadata
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T17:56:53Z"
-discovered_at: "2026-08-02T18:02:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T17:56:53Z'
+discovered_at: '2026-08-02T18:02:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

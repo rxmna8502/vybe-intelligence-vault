@@ -1,19 +1,30 @@
 ---
-title: "AATINF/agent-site-deploy-runbook"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Bash", "Python", "GitHub API", "Netlify API", "PWA (Service Worker, Manifest)", "Shell Scripting"]
+title: AATINF/agent-site-deploy-runbook
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Bash
+- Python
+- GitHub API
+- Netlify API
+- PWA (Service Worker, Manifest)
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["deployment automation", "AI agent tooling", "static site hosting", "PWA deployment", "CI/CD"]
-source: "https://github.com/AATINF/agent-site-deploy-runbook"
+deployment_complexity: Medium
+tags:
+- deployment automation
+- AI agent tooling
+- static site hosting
+- PWA deployment
+- CI/CD
+source: https://github.com/AATINF/agent-site-deploy-runbook
 stars: 0
-language: "HTML"
-last_updated: "2026-08-08T05:40:09Z"
-discovered_at: "2026-08-08T05:46:01Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-08T05:40:09Z'
+discovered_at: '2026-08-08T05:46:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

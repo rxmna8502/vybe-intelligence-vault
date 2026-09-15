@@ -1,19 +1,32 @@
 ---
-title: "yamantaka520/Agent-Memory-OS"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "FastAPI", "Docker", "FTS5 (Full-Text Search)", "turbovec (vector engine)", "MCP (Model Context Protocol)", "Apache 2.0"]
+title: yamantaka520/Agent-Memory-OS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- SQLite
+- FastAPI
+- Docker
+- FTS5 (Full-Text Search)
+- turbovec (vector engine)
+- MCP (Model Context Protocol)
+- Apache 2.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["memory management", "AI agent teams", "federated sync", "ACL enforcement", "local-first"]
-source: "https://github.com/yamantaka520/Agent-Memory-OS"
+deployment_complexity: Medium
+tags:
+- memory management
+- AI agent teams
+- federated sync
+- ACL enforcement
+- local-first
+source: https://github.com/yamantaka520/Agent-Memory-OS
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T21:41:46Z"
-discovered_at: "2026-07-11T21:47:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T21:41:46Z'
+discovered_at: '2026-07-11T21:47:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

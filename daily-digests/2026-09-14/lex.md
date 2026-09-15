@@ -1,19 +1,32 @@
 ---
-title: "SFHAJJI/lex"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "SQLite", "ECDSA-P256", "Akoma Ntoso XML", "SPARQL", "Formex 4", "MCP (Model Context Protocol)"]
+title: SFHAJJI/lex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- C#
+- .NET
+- SQLite
+- ECDSA-P256
+- Akoma Ntoso XML
+- SPARQL
+- Formex 4
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["regulatory compliance", "point-in-time retrieval", "legal RAG", "versioned data", "provenance tracking"]
-source: "https://github.com/SFHAJJI/lex"
+deployment_complexity: Medium
+tags:
+- regulatory compliance
+- point-in-time retrieval
+- legal RAG
+- versioned data
+- provenance tracking
+source: https://github.com/SFHAJJI/lex
 stars: 0
-language: "C#"
-last_updated: "2026-08-02T10:37:27Z"
-discovered_at: "2026-08-02T10:41:36Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-02T10:37:27Z'
+discovered_at: '2026-08-02T10:41:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "JohnDeer-ai/veqtor-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "DOCX (Open XML) processing", "ZIP file handling", "uv (package manager)", "pytest (testing)", "ruff (linting)"]
+title: JohnDeer-ai/veqtor-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- DOCX (Open XML) processing
+- ZIP file handling
+- uv (package manager)
+- pytest (testing)
+- ruff (linting)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["contract negotiation", "tracked changes", "DOCX processing", "MCP server", "legal document automation"]
-source: "https://github.com/JohnDeer-ai/veqtor-mcp"
+deployment_complexity: Medium
+tags:
+- contract negotiation
+- tracked changes
+- DOCX processing
+- MCP server
+- legal document automation
+source: https://github.com/JohnDeer-ai/veqtor-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-07-17T12:05:41Z"
-discovered_at: "2026-07-17T12:08:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T12:05:41Z'
+discovered_at: '2026-07-17T12:08:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

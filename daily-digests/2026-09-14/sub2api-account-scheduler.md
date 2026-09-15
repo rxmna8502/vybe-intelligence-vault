@@ -1,19 +1,33 @@
 ---
-title: "hua226529-ctrl/sub2api-account-scheduler"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "Vue.js", "Docker", "Docker Compose", "Caddy", "AES-256-GCM", "HTTPS", "CI/CD"]
+title: hua226529-ctrl/sub2api-account-scheduler
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- SQLite
+- Vue.js
+- Docker
+- Docker Compose
+- Caddy
+- AES-256-GCM
+- HTTPS
+- CI/CD
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["account scheduling", "load balancing", "failover", "Sub2API", "AI operations"]
-source: "https://github.com/hua226529-ctrl/sub2api-account-scheduler"
+deployment_complexity: Medium
+tags:
+- account scheduling
+- load balancing
+- failover
+- Sub2API
+- AI operations
+source: https://github.com/hua226529-ctrl/sub2api-account-scheduler
 stars: 0
-language: "Go"
-last_updated: "2026-07-18T08:06:30Z"
-discovered_at: "2026-07-18T08:09:22Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-18T08:06:30Z'
+discovered_at: '2026-07-18T08:09:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

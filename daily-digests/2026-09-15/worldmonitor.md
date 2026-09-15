@@ -1,19 +1,44 @@
 ---
-title: "koala73/worldmonitor"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Vite", "Tauri 2 (Rust)", "React", "globe.gl", "deck.gl", "Three.js", "MapLibre GL", "Ollama", "Groq", "OpenRouter", "Transformers.js", "Protocol Buffers", "Redis (Upstash)", "Vercel Edge Functions", "Railway", "Node.js", "Python SDK", "Ruby SDK", "Go SDK"]
+title: koala73/worldmonitor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Vite
+- Tauri 2 (Rust)
+- React
+- globe.gl
+- deck.gl
+- Three.js
+- MapLibre GL
+- Ollama
+- Groq
+- OpenRouter
+- Transformers.js
+- Protocol Buffers
+- Redis (Upstash)
+- Vercel Edge Functions
+- Railway
+- Node.js
+- Python SDK
+- Ruby SDK
+- Go SDK
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["real-time intelligence", "geopolitical monitoring", "AI-powered dashboard", "multi-variant deployment", "local AI inference"]
-source: "https://github.com/koala73/worldmonitor"
+deployment_complexity: Medium
+tags:
+- real-time intelligence
+- geopolitical monitoring
+- AI-powered dashboard
+- multi-variant deployment
+- local AI inference
+source: https://github.com/koala73/worldmonitor
 stars: 85311
-language: "TypeScript"
-last_updated: "2026-09-01T15:53:17Z"
-discovered_at: "2026-09-01T15:56:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T15:53:17Z'
+discovered_at: '2026-09-01T15:56:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

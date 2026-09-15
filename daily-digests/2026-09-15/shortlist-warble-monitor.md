@@ -1,19 +1,32 @@
 ---
-title: "sakshikarande26/shortlist-warble-monitor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Supabase (PostgreSQL)", "React", "TypeScript", "Railway (Deployment)", "Alchemy (Dependency Management)", "Anthropic API (LLM Integration)"]
+title: sakshikarande26/shortlist-warble-monitor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastAPI
+- Supabase (PostgreSQL)
+- React
+- TypeScript
+- Railway (Deployment)
+- Alchemy (Dependency Management)
+- Anthropic API (LLM Integration)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["real-time monitoring", "content breakout detection", "social media analytics", "alerting system", "LLM integration"]
-source: "https://github.com/sakshikarande26/shortlist-warble-monitor"
+deployment_complexity: Medium
+tags:
+- real-time monitoring
+- content breakout detection
+- social media analytics
+- alerting system
+- LLM integration
+source: https://github.com/sakshikarande26/shortlist-warble-monitor
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T23:58:50Z"
-discovered_at: "2026-08-06T00:02:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T23:58:50Z'
+discovered_at: '2026-08-06T00:02:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

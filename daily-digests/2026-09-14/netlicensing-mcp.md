@@ -1,19 +1,30 @@
 ---
-title: "Labs64/NetLicensing-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Docker", "REST API", "GitHub Actions", "PyPI"]
+title: Labs64/NetLicensing-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Docker
+- REST API
+- GitHub Actions
+- PyPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["licensing", "MCP server", "AI agents", "natural language", "software entitlements"]
-source: "https://github.com/Labs64/NetLicensing-MCP"
+deployment_complexity: Low
+tags:
+- licensing
+- MCP server
+- AI agents
+- natural language
+- software entitlements
+source: https://github.com/Labs64/NetLicensing-MCP
 stars: 5
-language: "HTML"
-last_updated: "2026-09-02T08:18:16Z"
-discovered_at: "2026-09-02T08:21:50Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-02T08:18:16Z'
+discovered_at: '2026-09-02T08:21:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

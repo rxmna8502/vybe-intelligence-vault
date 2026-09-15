@@ -1,19 +1,32 @@
 ---
-title: "masteryee-labs/Tool.Agent-Harness-Deploy"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Pathlib", "TOML", "JSON", "Shell Scripting", "PowerShell", "MCP (Model Context Protocol)", "GitHub Actions (implied for CI/CD)"]
+title: masteryee-labs/Tool.Agent-Harness-Deploy
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- Pathlib
+- TOML
+- JSON
+- Shell Scripting
+- PowerShell
+- MCP (Model Context Protocol)
+- GitHub Actions (implied for CI/CD)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI harness", "multi-agent orchestration", "cross-tool synchronization", "agent memory", "loop engineering"]
-source: "https://github.com/masteryee-labs/Tool.Agent-Harness-Deploy"
+deployment_complexity: Medium
+tags:
+- AI harness
+- multi-agent orchestration
+- cross-tool synchronization
+- agent memory
+- loop engineering
+source: https://github.com/masteryee-labs/Tool.Agent-Harness-Deploy
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T10:20:02Z"
-discovered_at: "2026-07-13T10:24:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T10:20:02Z'
+discovered_at: '2026-07-13T10:24:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

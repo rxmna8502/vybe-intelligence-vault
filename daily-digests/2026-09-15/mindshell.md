@@ -1,19 +1,30 @@
 ---
-title: "Swif-7/MindShell"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "pnpm", "Mermaid.js", "Git"]
+title: Swif-7/MindShell
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- pnpm
+- Mermaid.js
+- Git
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["agent workbench", "code editing", "event logging", "checkpoints", "recovery"]
-source: "https://github.com/Swif-7/MindShell"
+deployment_complexity: Medium
+tags:
+- agent workbench
+- code editing
+- event logging
+- checkpoints
+- recovery
+source: https://github.com/Swif-7/MindShell
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-03T08:26:13Z"
-discovered_at: "2026-09-03T08:34:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T08:26:13Z'
+discovered_at: '2026-09-03T08:34:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

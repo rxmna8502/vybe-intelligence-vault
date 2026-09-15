@@ -1,19 +1,30 @@
 ---
-title: "xorrkaz/cml-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "PyATS", "Cisco Modeling Labs (CML)", "uv", "FastAPI"]
+title: xorrkaz/cml-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- PyATS
+- Cisco Modeling Labs (CML)
+- uv
+- FastAPI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP", "network automation", "Cisco CML", "AI integration", "lab management"]
-source: "https://github.com/xorrkaz/cml-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- network automation
+- Cisco CML
+- AI integration
+- lab management
+source: https://github.com/xorrkaz/cml-mcp
 stars: 67
-language: "Python"
-last_updated: "2026-08-09T16:32:51Z"
-discovered_at: "2026-08-09T16:38:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T16:32:51Z'
+discovered_at: '2026-08-09T16:38:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

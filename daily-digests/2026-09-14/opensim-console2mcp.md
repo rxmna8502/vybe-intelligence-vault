@@ -1,19 +1,30 @@
 ---
-title: "opensim-stack/opensim-console2mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "MCP Protocol", "Docker", "Maven", "HTTP/REST", "Streamable Transport"]
+title: opensim-stack/opensim-console2mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Java
+- MCP Protocol
+- Docker
+- Maven
+- HTTP/REST
+- Streamable Transport
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "OpenSimulator", "REST Bridge", "Java Tooling", "Containerized"]
-source: "https://github.com/opensim-stack/opensim-console2mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- OpenSimulator
+- REST Bridge
+- Java Tooling
+- Containerized
+source: https://github.com/opensim-stack/opensim-console2mcp
 stars: 0
-language: "Java"
-last_updated: "2026-08-02T20:45:00Z"
-discovered_at: "2026-08-02T20:54:55Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-02T20:45:00Z'
+discovered_at: '2026-08-02T20:54:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,27 @@
 ---
-title: "lvillani/thing"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Bash", "Base64 Encoding"]
+title: lvillani/thing
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Go
+- Bash
+- Base64 Encoding
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent harness", "self-modifying", "bootstrapping", "first principles", "agent loops"]
-source: "https://github.com/lvillani/thing"
+deployment_complexity: Medium
+tags:
+- agent harness
+- self-modifying
+- bootstrapping
+- first principles
+- agent loops
+source: https://github.com/lvillani/thing
 stars: 0
-language: "Go"
-last_updated: "2026-08-07T14:16:23Z"
-discovered_at: "2026-08-07T14:18:54Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T14:16:23Z'
+discovered_at: '2026-08-07T14:18:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

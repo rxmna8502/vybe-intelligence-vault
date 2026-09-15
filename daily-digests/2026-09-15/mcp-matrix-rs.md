@@ -1,19 +1,31 @@
 ---
-title: "chrisbennight/mcp-matrix-rs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "WLED", "DDP (Distributed Display Protocol)", "FFmpeg", "Streamable HTTP", "Docker"]
+title: chrisbennight/mcp-matrix-rs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- WLED
+- DDP (Distributed Display Protocol)
+- FFmpeg
+- Streamable HTTP
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["LED matrix", "MCP server", "WLED integration", "media rendering", "agent display"]
-source: "https://github.com/chrisbennight/mcp-matrix-rs"
+deployment_complexity: Medium
+tags:
+- LED matrix
+- MCP server
+- WLED integration
+- media rendering
+- agent display
+source: https://github.com/chrisbennight/mcp-matrix-rs
 stars: 0
-language: "Rust"
-last_updated: "2026-08-08T23:31:00Z"
-discovered_at: "2026-08-08T23:31:45Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T23:31:00Z'
+discovered_at: '2026-08-08T23:31:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

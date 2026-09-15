@@ -1,19 +1,31 @@
 ---
-title: "covagashi/Eplan_2026_IA_MCP_scripts"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Cloudflare Workers", "REST API", "C# (via pythonnet)", ".NET Framework", "Semantic Search"]
+title: covagashi/Eplan_2026_IA_MCP_scripts
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Cloudflare Workers
+- REST API
+- C# (via pythonnet)
+- .NET Framework
+- Semantic Search
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["EPLAN automation", "Model Context Protocol", "LLM integration", "semantic search", "documentation RAG"]
-source: "https://github.com/covagashi/Eplan_2026_IA_MCP_scripts"
+deployment_complexity: Medium
+tags:
+- EPLAN automation
+- Model Context Protocol
+- LLM integration
+- semantic search
+- documentation RAG
+source: https://github.com/covagashi/Eplan_2026_IA_MCP_scripts
 stars: 49
-language: "Python"
-last_updated: "2026-07-09T13:56:27Z"
-discovered_at: "2026-07-10T13:11:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-09T13:56:27Z'
+discovered_at: '2026-07-10T13:11:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,39 @@
 ---
-title: "getyak/apply-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js 16", "React 19", "Tailwind CSS 4", "Hono", "Bun", "FastAPI", "LangGraph", "PostgreSQL 16", "pgvector", "Redis 7", "MinIO", "TypeScript", "Python 3.11+", "OpenRouter", "Manifest V3 (Chrome Extension)"]
+title: getyak/apply-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Next.js 16
+- React 19
+- Tailwind CSS 4
+- Hono
+- Bun
+- FastAPI
+- LangGraph
+- PostgreSQL 16
+- pgvector
+- Redis 7
+- MinIO
+- TypeScript
+- Python 3.11+
+- OpenRouter
+- Manifest V3 (Chrome Extension)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["job search automation", "AI agents", "resume customization", "application tracking", "career graph"]
-source: "https://github.com/getyak/apply-agent"
+deployment_complexity: High
+tags:
+- job search automation
+- AI agents
+- resume customization
+- application tracking
+- career graph
+source: https://github.com/getyak/apply-agent
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T21:38:31Z"
-discovered_at: "2026-08-07T21:41:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T21:38:31Z'
+discovered_at: '2026-08-07T21:41:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

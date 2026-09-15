@@ -1,19 +1,31 @@
 ---
-title: "guangxiangdebizi/email-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "IMAP", "SMTP", "Gmail API", "Streamable HTTP"]
+title: guangxiangdebizi/email-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- IMAP
+- SMTP
+- Gmail API
+- Streamable HTTP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["email", "MCP", "IMAP/SMTP", "multi-account", "Gmail API"]
-source: "https://github.com/guangxiangdebizi/email-mcp"
+deployment_complexity: Medium
+tags:
+- email
+- MCP
+- IMAP/SMTP
+- multi-account
+- Gmail API
+source: https://github.com/guangxiangdebizi/email-mcp
 stars: 13
-language: "TypeScript"
-last_updated: "2026-08-10T03:53:27Z"
-discovered_at: "2026-08-10T03:58:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T03:53:27Z'
+discovered_at: '2026-08-10T03:58:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

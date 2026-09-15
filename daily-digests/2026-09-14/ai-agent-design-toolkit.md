@@ -1,19 +1,30 @@
 ---
-title: "hoangkimquoc/ai-agent-design-toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["HTML/CSS", "JavaScript", "Python", "Headless Chrome", "AGPL-3.0", "SIL Open Font License"]
+title: hoangkimquoc/ai-agent-design-toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- HTML/CSS
+- JavaScript
+- Python
+- Headless Chrome
+- AGPL-3.0
+- SIL Open Font License
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent design", "layered composition", "Figma-like editor", "token-free export", "Vietnamese text support"]
-source: "https://github.com/hoangkimquoc/ai-agent-design-toolkit"
+deployment_complexity: Medium
+tags:
+- AI agent design
+- layered composition
+- Figma-like editor
+- token-free export
+- Vietnamese text support
+source: https://github.com/hoangkimquoc/ai-agent-design-toolkit
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-06T03:12:51Z"
-discovered_at: "2026-08-06T03:19:28Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T03:12:51Z'
+discovered_at: '2026-08-06T03:19:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

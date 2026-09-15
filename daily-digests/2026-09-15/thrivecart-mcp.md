@@ -1,19 +1,29 @@
 ---
-title: "navidmoazzez/thrivecart-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ThriveCart API", "Docker"]
+title: navidmoazzez/thrivecart-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- ThriveCart API
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "ThriveCart integration", "AI agent tools", "revenue analysis", "multi-account management"]
-source: "https://github.com/navidmoazzez/thrivecart-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- ThriveCart integration
+- AI agent tools
+- revenue analysis
+- multi-account management
+source: https://github.com/navidmoazzez/thrivecart-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T19:02:49Z"
-discovered_at: "2026-09-01T19:08:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T19:02:49Z'
+discovered_at: '2026-09-01T19:08:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

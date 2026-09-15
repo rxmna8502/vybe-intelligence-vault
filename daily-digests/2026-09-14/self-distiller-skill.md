@@ -1,19 +1,29 @@
 ---
-title: "nailbrushinduction686/self-distiller-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows", "Text-to-Speech (TTS)", "Voice Cloning", "OpenClaw"]
+title: nailbrushinduction686/self-distiller-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Windows
+- Text-to-Speech (TTS)
+- Voice Cloning
+- OpenClaw
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["self-reflection", "voice cloning", "cognitive defusion", "AI persona", "emotion tracking"]
-source: "https://github.com/nailbrushinduction686/self-distiller-skill"
+deployment_complexity: Low
+tags:
+- self-reflection
+- voice cloning
+- cognitive defusion
+- AI persona
+- emotion tracking
+source: https://github.com/nailbrushinduction686/self-distiller-skill
 stars: 0
-language: "Python"
-last_updated: "2026-07-10T20:21:08Z"
-discovered_at: "2026-07-10T20:21:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T20:21:08Z'
+discovered_at: '2026-07-10T20:21:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

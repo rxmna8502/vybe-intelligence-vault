@@ -13,13 +13,14 @@ collected_at: '2026-09-14T04:00:55.191545+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:there-is-no-ai-it-s-just-people-with-jaron-lanier
 first_seen: '2026-09-14T04:00:55.191545+05:30'
 last_seen: '2026-09-14T04:00:55.191545+05:30'
 last_checked: '2026-09-14T04:00:55.191545+05:30'
 health_score: 100
 ---
+
 
 # There Is No AI (It's Just People) with Jaron Lanier
 

@@ -1,19 +1,34 @@
 ---
-title: "JasonTeixeira/Nexural_Automation"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "TypeScript", "Docker", "SQLite", "Pydantic", "Mermaid.js", "GitHub Actions", "Makefile", "HTML/CSS"]
+title: JasonTeixeira/Nexural_Automation
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastMCP
+- TypeScript
+- Docker
+- SQLite
+- Pydantic
+- Mermaid.js
+- GitHub Actions
+- Makefile
+- HTML/CSS
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["strategy validation", "futures trading", "MCP server", "local-first", "safety gauntlet"]
-source: "https://github.com/JasonTeixeira/Nexural_Automation"
+deployment_complexity: Medium
+tags:
+- strategy validation
+- futures trading
+- MCP server
+- local-first
+- safety gauntlet
+source: https://github.com/JasonTeixeira/Nexural_Automation
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-19T15:46:33Z"
-discovered_at: "2026-07-19T15:56:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T15:46:33Z'
+discovered_at: '2026-07-19T15:56:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

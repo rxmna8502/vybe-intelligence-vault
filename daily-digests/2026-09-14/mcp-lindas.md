@@ -1,19 +1,30 @@
 ---
-title: "OpenHelvetia/mcp-lindas"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "SPARQL", "Linked Data (RDF)", "Git", "Cargo"]
+title: OpenHelvetia/mcp-lindas
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- SPARQL
+- Linked Data (RDF)
+- Git
+- Cargo
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Linked Data", "Political data", "Swiss government data", "RAG data source"]
-source: "https://github.com/OpenHelvetia/mcp-lindas"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Linked Data
+- Political data
+- Swiss government data
+- RAG data source
+source: https://github.com/OpenHelvetia/mcp-lindas
 stars: 0
-language: "Rust"
-last_updated: "2026-09-03T19:04:28Z"
-discovered_at: "2026-09-03T19:07:05Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T19:04:28Z'
+discovered_at: '2026-09-03T19:07:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

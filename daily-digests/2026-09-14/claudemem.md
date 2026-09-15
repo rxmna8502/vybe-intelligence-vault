@@ -1,19 +1,35 @@
 ---
-title: "zelinewang/claudemem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "FTS5", "Markdown", "YAML", "Git", "Ollama", "Gemini API", "Voyage API", "OpenAI API", "TF-IDF"]
+title: zelinewang/claudemem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- SQLite
+- FTS5
+- Markdown
+- YAML
+- Git
+- Ollama
+- Gemini API
+- Voyage API
+- OpenAI API
+- TF-IDF
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["persistent memory", "AI agent tools", "hybrid search", "Markdown storage", "session logging"]
-source: "https://github.com/zelinewang/claudemem"
+deployment_complexity: Low
+tags:
+- persistent memory
+- AI agent tools
+- hybrid search
+- Markdown storage
+- session logging
+source: https://github.com/zelinewang/claudemem
 stars: 0
-language: "Go"
-last_updated: "2026-09-03T18:54:24Z"
-discovered_at: "2026-09-03T19:07:04Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T18:54:24Z'
+discovered_at: '2026-09-03T19:07:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

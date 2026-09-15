@@ -1,19 +1,37 @@
 ---
-title: "RFingAdam/mcp-blender"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Blender", "Model Context Protocol (MCP)", "bpy API", "JSON-RPC", "Ollama Vision", "Hyper3D Rodin", "Meshy.ai", "Tripo AI", "Stable Fast 3D", "Hunyuan3D", "ComfyUI", "AGPL-3.0"]
+title: RFingAdam/mcp-blender
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- Blender
+- Model Context Protocol (MCP)
+- bpy API
+- JSON-RPC
+- Ollama Vision
+- Hyper3D Rodin
+- Meshy.ai
+- Tripo AI
+- Stable Fast 3D
+- Hunyuan3D
+- ComfyUI
+- AGPL-3.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Blender automation", "AI-driven 3D modeling", "MCP server", "3D generation pipeline", "MSFS content creation"]
-source: "https://github.com/RFingAdam/mcp-blender"
+deployment_complexity: Medium
+tags:
+- Blender automation
+- AI-driven 3D modeling
+- MCP server
+- 3D generation pipeline
+- MSFS content creation
+source: https://github.com/RFingAdam/mcp-blender
 stars: 7
-language: "Python"
-last_updated: "2026-08-10T14:57:15Z"
-discovered_at: "2026-08-10T15:04:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T14:57:15Z'
+discovered_at: '2026-08-10T15:04:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "amajorai/ryu-workflows"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React Flow", "Vite", "petgraph", "DAG (Directed Acyclic Graph)", "React", "HTML/CSS"]
+title: amajorai/ryu-workflows
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- React Flow
+- Vite
+- petgraph
+- DAG (Directed Acyclic Graph)
+- React
+- HTML/CSS
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["workflow automation", "DAG engine", "durable execution", "visual workflow builder", "triggers"]
-source: "https://github.com/amajorai/ryu-workflows"
+deployment_complexity: Medium
+tags:
+- workflow automation
+- DAG engine
+- durable execution
+- visual workflow builder
+- triggers
+source: https://github.com/amajorai/ryu-workflows
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T08:32:56Z"
-discovered_at: "2026-08-05T08:35:58Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:32:56Z'
+discovered_at: '2026-08-05T08:35:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

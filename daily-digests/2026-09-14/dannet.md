@@ -1,19 +1,34 @@
 ---
-title: "kuhumcst/DanNet"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["RDF", "OWL", "Apache Jena", "Clojure", "ClojureScript", "SPARQL", "Python", "Docker", "SHACL", "Ontolex-lemon"]
+title: kuhumcst/DanNet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- RDF
+- OWL
+- Apache Jena
+- Clojure
+- ClojureScript
+- SPARQL
+- Python
+- Docker
+- SHACL
+- Ontolex-lemon
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Danish WordNet", "Semantic Knowledge Graph", "RDF Triplestore", "LLM Integration", "Lexical Database"]
-source: "https://github.com/kuhumcst/DanNet"
+deployment_complexity: Medium
+tags:
+- Danish WordNet
+- Semantic Knowledge Graph
+- RDF Triplestore
+- LLM Integration
+- Lexical Database
+source: https://github.com/kuhumcst/DanNet
 stars: 29
-language: "Clojure"
-last_updated: "2026-08-06T09:33:53Z"
-discovered_at: "2026-08-06T09:42:24Z"
-evaluated_by: "mistral-small-latest"
+language: Clojure
+last_updated: '2026-08-06T09:33:53Z'
+discovered_at: '2026-08-06T09:42:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

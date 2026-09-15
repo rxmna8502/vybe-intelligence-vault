@@ -1,19 +1,29 @@
 ---
-title: "monstercameron/SchemaFlux"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "LLM APIs", "Structured Output Contracts", "Fluent Builder Pattern", "Testing Frameworks"]
+title: monstercameron/SchemaFlux
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- LLM APIs
+- Structured Output Contracts
+- Fluent Builder Pattern
+- Testing Frameworks
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Go", "LLM operations", "structured output", "fluent API", "typed data processing"]
-source: "https://github.com/monstercameron/SchemaFlux"
+deployment_complexity: Medium
+tags:
+- Go
+- LLM operations
+- structured output
+- fluent API
+- typed data processing
+source: https://github.com/monstercameron/SchemaFlux
 stars: 0
-language: "Go"
-last_updated: "2026-08-08T10:34:20Z"
-discovered_at: "2026-08-08T10:34:58Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T10:34:20Z'
+discovered_at: '2026-08-08T10:34:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "pofky/asc-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "App Store Connect API", "Xcode", "REST API", "Claude Code"]
+title: pofky/asc-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- App Store Connect API
+- Xcode
+- REST API
+- Claude Code
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["App Store Connect", "MCP Server", "iOS Deployment", "AI Agent Integration", "Automation"]
-source: "https://github.com/pofky/asc-mcp"
+deployment_complexity: Medium
+tags:
+- App Store Connect
+- MCP Server
+- iOS Deployment
+- AI Agent Integration
+- Automation
+source: https://github.com/pofky/asc-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T15:16:18Z"
-discovered_at: "2026-08-06T15:18:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T15:16:18Z'
+discovered_at: '2026-08-06T15:18:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

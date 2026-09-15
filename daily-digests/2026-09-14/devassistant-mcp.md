@@ -1,19 +1,31 @@
 ---
-title: "p3aRA55/DevAssistant-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "ChromaDB", "Sentence Transformers", "pytest", "GitHub API", "MCP (Model Context Protocol)"]
+title: p3aRA55/DevAssistant-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastMCP
+- ChromaDB
+- Sentence Transformers
+- pytest
+- GitHub API
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "local development", "semantic search", "GitHub integration", "test automation"]
-source: "https://github.com/p3aRA55/DevAssistant-MCP"
+deployment_complexity: Medium
+tags:
+- MCP server
+- local development
+- semantic search
+- GitHub integration
+- test automation
+source: https://github.com/p3aRA55/DevAssistant-MCP
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:29:27Z"
-discovered_at: "2026-08-08T11:30:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:29:27Z'
+discovered_at: '2026-08-08T11:30:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

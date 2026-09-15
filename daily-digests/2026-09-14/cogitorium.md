@@ -1,19 +1,31 @@
 ---
-title: "orkcom-tech/cogitorium"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "TypeScript", "Docker", "Contextverse", "Ollama", "Frontier API", "echopage"]
+title: orkcom-tech/cogitorium
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Go
+- TypeScript
+- Docker
+- Contextverse
+- Ollama
+- Frontier API
+- echopage
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "local-first", "model routing", "workbench", "cost transparency"]
-source: "https://github.com/orkcom-tech/cogitorium"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- local-first
+- model routing
+- workbench
+- cost transparency
+source: https://github.com/orkcom-tech/cogitorium
 stars: 0
-language: "Go"
-last_updated: "2026-08-09T14:33:50Z"
-discovered_at: "2026-08-09T14:37:42Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-09T14:33:50Z'
+discovered_at: '2026-08-09T14:37:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

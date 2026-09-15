@@ -1,19 +1,28 @@
 ---
-title: "alphaparkinc/genpark-high-cardinality-agent-log-ingestion-indexer-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "Standard Library Only"]
+title: alphaparkinc/genpark-high-cardinality-agent-log-ingestion-indexer-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python 3.9+
+- Model Context Protocol (MCP)
+- JSON-RPC
+- Standard Library Only
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["log ingestion", "structured telemetry", "MCP server", "zero dependencies", "deterministic processing"]
-source: "https://github.com/alphaparkinc/genpark-high-cardinality-agent-log-ingestion-indexer-skill"
+deployment_complexity: Low
+tags:
+- log ingestion
+- structured telemetry
+- MCP server
+- zero dependencies
+- deterministic processing
+source: https://github.com/alphaparkinc/genpark-high-cardinality-agent-log-ingestion-indexer-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-03T01:58:01Z"
-discovered_at: "2026-09-03T02:23:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T01:58:01Z'
+discovered_at: '2026-09-03T02:23:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

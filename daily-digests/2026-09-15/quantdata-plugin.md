@@ -1,19 +1,31 @@
 ---
-title: "celineycn/quantdata-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "HTTP/REST API", "Claude Code", "Codex CLI", "Gemini CLI", "Curl"]
+title: celineycn/quantdata-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- HTTP/REST API
+- Claude Code
+- Codex CLI
+- Gemini CLI
+- Curl
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["market data", "AI agents", "MCP server", "quantitative analysis", "trading statistics"]
-source: "https://github.com/celineycn/quantdata-plugin"
+deployment_complexity: Low
+tags:
+- market data
+- AI agents
+- MCP server
+- quantitative analysis
+- trading statistics
+source: https://github.com/celineycn/quantdata-plugin
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T13:49:59Z"
-discovered_at: "2026-08-09T13:53:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T13:49:59Z'
+discovered_at: '2026-08-09T13:53:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

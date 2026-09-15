@@ -1,19 +1,33 @@
 ---
-title: "wasintoh/line-oa-mcp-ultimate"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "LINE Messaging API", "LINE MyShop API", "satori", "resvg-js", "Express.js", "Jest"]
+title: wasintoh/line-oa-mcp-ultimate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- LINE Messaging API
+- LINE MyShop API
+- satori
+- resvg-js
+- Express.js
+- Jest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LINE Official Account", "MCP Server", "AI Agent Integration", "Natural Language Automation", "Rich Messaging"]
-source: "https://github.com/wasintoh/line-oa-mcp-ultimate"
+deployment_complexity: Medium
+tags:
+- LINE Official Account
+- MCP Server
+- AI Agent Integration
+- Natural Language Automation
+- Rich Messaging
+source: https://github.com/wasintoh/line-oa-mcp-ultimate
 stars: 82
-language: "TypeScript"
-last_updated: "2026-08-05T16:40:30Z"
-discovered_at: "2026-08-05T16:44:25Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T16:40:30Z'
+discovered_at: '2026-08-05T16:44:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

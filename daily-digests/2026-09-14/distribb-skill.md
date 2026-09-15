@@ -1,19 +1,32 @@
 ---
-title: "Bomx/distribb-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "REST API", "curl", "jq", "Microworkers", "Google Search Console", "DataForSEO", "Ahrefs"]
+title: Bomx/distribb-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- REST API
+- curl
+- jq
+- Microworkers
+- Google Search Console
+- DataForSEO
+- Ahrefs
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["SEO automation", "AI content generation", "backlink exchange", "Google Search Console", "keyword research"]
-source: "https://github.com/Bomx/distribb-skill"
+deployment_complexity: Low
+tags:
+- SEO automation
+- AI content generation
+- backlink exchange
+- Google Search Console
+- keyword research
+source: https://github.com/Bomx/distribb-skill
 stars: 158
-language: "Python"
-last_updated: "2026-08-02T20:48:37Z"
-discovered_at: "2026-08-02T20:54:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T20:48:37Z'
+discovered_at: '2026-08-02T20:54:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

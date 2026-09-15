@@ -1,19 +1,38 @@
 ---
-title: "zhenkun26/BusinessAgent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "LangGraph", "LangChain", "Milvus", "PostgreSQL", "Redis", "Ollama", "DeepSeek", "Docker", "Kubernetes", "OpenTelemetry", "Prometheus", "Jaeger"]
+title: zhenkun26/BusinessAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-14
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- LangChain
+- Milvus
+- PostgreSQL
+- Redis
+- Ollama
+- DeepSeek
+- Docker
+- Kubernetes
+- OpenTelemetry
+- Prometheus
+- Jaeger
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Multi-Agent System", "Enterprise RAG", "Data Analysis", "Business Execution", "Observability"]
-source: "https://github.com/zhenkun26/BusinessAgent"
+deployment_complexity: High
+tags:
+- Multi-Agent System
+- Enterprise RAG
+- Data Analysis
+- Business Execution
+- Observability
+source: https://github.com/zhenkun26/BusinessAgent
 stars: 0
-language: "CSS"
-last_updated: "2026-08-06T06:30:58Z"
-discovered_at: "2026-08-06T06:31:57Z"
-evaluated_by: "mistral-small-latest"
+language: CSS
+last_updated: '2026-08-06T06:30:58Z'
+discovered_at: '2026-08-06T06:31:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

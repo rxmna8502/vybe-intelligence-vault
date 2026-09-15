@@ -1,19 +1,32 @@
 ---
-title: "duyixian1234/everyday"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tokio (async runtime)", "SQLite", "IMAP/SMTP (for mail)", "CalDAV (for calendar)", "RSS/Atom (for feeds)", "OS Keyring (for credentials)", "TOML (for config)"]
+title: duyixian1234/everyday
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Tokio (async runtime)
+- SQLite
+- IMAP/SMTP (for mail)
+- CalDAV (for calendar)
+- RSS/Atom (for feeds)
+- OS Keyring (for credentials)
+- TOML (for config)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["local-first", "AI agent integration", "personal data management", "Rust CLI", "agent-first JSON"]
-source: "https://github.com/duyixian1234/everyday"
+deployment_complexity: Low
+tags:
+- local-first
+- AI agent integration
+- personal data management
+- Rust CLI
+- agent-first JSON
+source: https://github.com/duyixian1234/everyday
 stars: 0
-language: "Rust"
-last_updated: "2026-08-09T12:49:36Z"
-discovered_at: "2026-08-09T12:50:01Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T12:49:36Z'
+discovered_at: '2026-08-09T12:50:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
