@@ -1,19 +1,28 @@
 ---
-title: "zylos-ai/zylos-registry"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JSON", "GitHub API", "CLI Tools", "Open Source Contribution Workflows"]
+title: zylos-ai/zylos-registry
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JSON
+- GitHub API
+- CLI Tools
+- Open Source Contribution Workflows
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["component registry", "AI agent extensions", "modular integrations", "CLI automation", "community-driven"]
-source: "https://github.com/zylos-ai/zylos-registry"
+deployment_complexity: Low
+tags:
+- component registry
+- AI agent extensions
+- modular integrations
+- CLI automation
+- community-driven
+source: https://github.com/zylos-ai/zylos-registry
 stars: 0
-language: "None"
-last_updated: "2026-08-06T03:16:26Z"
-discovered_at: "2026-08-06T03:18:39Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-06T03:16:26Z'
+discovered_at: '2026-08-06T03:18:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

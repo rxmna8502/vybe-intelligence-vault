@@ -1,19 +1,31 @@
 ---
-title: "jjuanrivvera/alegra-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Cobra", "Model Context Protocol (MCP)", "OS Keyring", "GitHub Actions", "Cosign", "Shell Completion"]
+title: jjuanrivvera/alegra-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Go
+- Cobra
+- Model Context Protocol (MCP)
+- OS Keyring
+- GitHub Actions
+- Cosign
+- Shell Completion
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["accounting", "CLI", "API wrapper", "MCP server", "financial automation"]
-source: "https://github.com/jjuanrivvera/alegra-cli"
+deployment_complexity: Low
+tags:
+- accounting
+- CLI
+- API wrapper
+- MCP server
+- financial automation
+source: https://github.com/jjuanrivvera/alegra-cli
 stars: 1
-language: "Go"
-last_updated: "2026-07-12T05:50:37Z"
-discovered_at: "2026-07-12T05:56:23Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-12T05:50:37Z'
+discovered_at: '2026-07-12T05:56:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

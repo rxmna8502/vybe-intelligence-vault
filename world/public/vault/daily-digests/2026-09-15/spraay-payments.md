@@ -1,19 +1,28 @@
 ---
-title: "extentadulthood280/spraay-payments"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows Desktop App", "Shell (Installer)", "Crypto Wallet Integration", "Blockchain Networks"]
+title: extentadulthood280/spraay-payments
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Windows Desktop App
+- Shell (Installer)
+- Crypto Wallet Integration
+- Blockchain Networks
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["cryptocurrency payments", "batch transactions", "multi-chain", "payroll management", "invoice generation"]
-source: "https://github.com/extentadulthood280/spraay-payments"
+deployment_complexity: Low
+tags:
+- cryptocurrency payments
+- batch transactions
+- multi-chain
+- payroll management
+- invoice generation
+source: https://github.com/extentadulthood280/spraay-payments
 stars: 1
-language: "Shell"
-last_updated: "2026-07-12T13:29:19Z"
-discovered_at: "2026-07-12T13:36:14Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-12T13:29:19Z'
+discovered_at: '2026-07-12T13:36:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

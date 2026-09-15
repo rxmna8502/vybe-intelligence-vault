@@ -1,19 +1,32 @@
 ---
-title: "boundflow/charter"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "BoundFlow", "deepagents", "LangChain", "OpenTelemetry", "PostgreSQL", "Docker"]
+title: boundflow/charter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- YAML
+- BoundFlow
+- deepagents
+- LangChain
+- OpenTelemetry
+- PostgreSQL
+- Docker
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent-orchestration", "yaml-configuration", "human-in-the-loop", "production-ready", "governance"]
-source: "https://github.com/boundflow/charter"
+deployment_complexity: Medium
+tags:
+- agent-orchestration
+- yaml-configuration
+- human-in-the-loop
+- production-ready
+- governance
+source: https://github.com/boundflow/charter
 stars: 2
-language: "Python"
-last_updated: "2026-09-03T20:44:18Z"
-discovered_at: "2026-09-03T22:11:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T20:44:18Z'
+discovered_at: '2026-09-03T22:11:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

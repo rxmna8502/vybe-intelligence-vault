@@ -1,19 +1,29 @@
 ---
-title: "reichenbach/iwork_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript for Automation (JXA)", "Node.js", "MCP (Model Context Protocol)", "AppleScript"]
+title: reichenbach/iwork_mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- JavaScript for Automation (JXA)
+- Node.js
+- MCP (Model Context Protocol)
+- AppleScript
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "iWork automation", "document generation", "JXA integration", "AI workflows"]
-source: "https://github.com/reichenbach/iwork_mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- iWork automation
+- document generation
+- JXA integration
+- AI workflows
+source: https://github.com/reichenbach/iwork_mcp
 stars: 26
-language: "TypeScript"
-last_updated: "2026-07-19T20:39:28Z"
-discovered_at: "2026-07-19T20:44:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T20:39:28Z'
+discovered_at: '2026-07-19T20:44:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

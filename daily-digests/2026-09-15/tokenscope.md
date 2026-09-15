@@ -1,19 +1,29 @@
 ---
-title: "wartzar-bee/tokenscope"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "SVG rendering"]
+title: wartzar-bee/tokenscope
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- SVG rendering
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["cost analysis", "token optimization", "AI session monitoring", "context management", "local analytics"]
-source: "https://github.com/wartzar-bee/tokenscope"
+deployment_complexity: Low
+tags:
+- cost analysis
+- token optimization
+- AI session monitoring
+- context management
+- local analytics
+source: https://github.com/wartzar-bee/tokenscope
 stars: 4
-language: "JavaScript"
-last_updated: "2026-07-20T22:52:03Z"
-discovered_at: "2026-07-20T22:59:34Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-20T22:52:03Z'
+discovered_at: '2026-07-20T22:59:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

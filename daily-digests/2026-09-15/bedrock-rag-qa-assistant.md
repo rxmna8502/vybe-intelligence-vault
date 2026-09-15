@@ -1,19 +1,38 @@
 ---
-title: "KislayaSrivastava/bedrock-rag-qa-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Amazon Bedrock", "Titan Embeddings", "Converse API", "ChromaDB", "FastAPI", "Uvicorn", "AWS Lambda", "API Gateway", "Terraform", "Mangum", "Streamlit", "pytest", "Docker"]
+title: KislayaSrivastava/bedrock-rag-qa-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Amazon Bedrock
+- Titan Embeddings
+- Converse API
+- ChromaDB
+- FastAPI
+- Uvicorn
+- AWS Lambda
+- API Gateway
+- Terraform
+- Mangum
+- Streamlit
+- pytest
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Amazon Bedrock", "Vector Database", "Serverless", "FastAPI"]
-source: "https://github.com/KislayaSrivastava/bedrock-rag-qa-assistant"
+deployment_complexity: Medium
+tags:
+- RAG
+- Amazon Bedrock
+- Vector Database
+- Serverless
+- FastAPI
+source: https://github.com/KislayaSrivastava/bedrock-rag-qa-assistant
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T18:34:56Z"
-discovered_at: "2026-08-08T18:39:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T18:34:56Z'
+discovered_at: '2026-08-08T18:39:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

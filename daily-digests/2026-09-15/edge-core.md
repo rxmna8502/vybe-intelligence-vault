@@ -1,19 +1,36 @@
 ---
-title: "wenet-ec/edge-core"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Elixir", "Phoenix", "Erlang", "PostgreSQL", "WireGuard", "Docker", "Prometheus", "Netmaker", "EMQX", "HAProxy", "CloudEvents", "MCP (Model Context Protocol)"]
+title: wenet-ec/edge-core
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Elixir
+- Phoenix
+- Erlang
+- PostgreSQL
+- WireGuard
+- Docker
+- Prometheus
+- Netmaker
+- EMQX
+- HAProxy
+- CloudEvents
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["fleet management", "edge computing", "remote execution", "VPN mesh", "self-hosted"]
-source: "https://github.com/wenet-ec/edge-core"
+deployment_complexity: Medium
+tags:
+- fleet management
+- edge computing
+- remote execution
+- VPN mesh
+- self-hosted
+source: https://github.com/wenet-ec/edge-core
 stars: 23
-language: "Elixir"
-last_updated: "2026-08-05T01:56:34Z"
-discovered_at: "2026-08-05T02:18:53Z"
-evaluated_by: "mistral-small-latest"
+language: Elixir
+last_updated: '2026-08-05T01:56:34Z'
+discovered_at: '2026-08-05T02:18:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

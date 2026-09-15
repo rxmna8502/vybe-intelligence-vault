@@ -1,19 +1,33 @@
 ---
-title: "soden46/syarif-laravel-ai-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Laravel", "JavaScript", "Node.js", "Playwright", "MCP (Model Context Protocol)", "Markdown", "Claude Code", "Codex", "Agent Skills Framework"]
+title: soden46/syarif-laravel-ai-skills
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Laravel
+- JavaScript
+- Node.js
+- Playwright
+- MCP (Model Context Protocol)
+- Markdown
+- Claude Code
+- Codex
+- Agent Skills Framework
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Laravel", "AI Skills", "Agent Framework", "Memory Orchestration", "Codex Plugin"]
-source: "https://github.com/soden46/syarif-laravel-ai-skills"
+deployment_complexity: Medium
+tags:
+- Laravel
+- AI Skills
+- Agent Framework
+- Memory Orchestration
+- Codex Plugin
+source: https://github.com/soden46/syarif-laravel-ai-skills
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-04T15:10:04Z"
-discovered_at: "2026-08-04T15:34:26Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T15:10:04Z'
+discovered_at: '2026-08-04T15:34:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

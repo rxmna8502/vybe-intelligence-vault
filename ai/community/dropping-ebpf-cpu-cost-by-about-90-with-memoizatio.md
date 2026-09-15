@@ -13,13 +13,14 @@ collected_at: '2026-09-15T19:11:15.884816+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:dropping-ebpf-cpu-cost-by-about-90-with-memoizatio
 first_seen: '2026-09-15T10:32:52.373037+05:30'
 last_seen: '2026-09-15T19:11:15.884816+05:30'
 last_checked: '2026-09-15T19:11:15.884816+05:30'
 health_score: 100
 ---
+
 
 # Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)
 

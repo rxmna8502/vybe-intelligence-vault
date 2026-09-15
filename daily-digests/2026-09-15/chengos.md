@@ -1,19 +1,34 @@
 ---
-title: "chengrouter/chengos"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "React", "TypeScript", "Vite", "PostgreSQL", "Valkey", "Qdrant", "Docker", "Shell", "MCP (Model Context Protocol)"]
+title: chengrouter/chengos
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- React
+- TypeScript
+- Vite
+- PostgreSQL
+- Valkey
+- Qdrant
+- Docker
+- Shell
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI workflows", "agent runtime", "visual editor", "RAG", "multi-channel chat"]
-source: "https://github.com/chengrouter/chengos"
+deployment_complexity: Medium
+tags:
+- AI workflows
+- agent runtime
+- visual editor
+- RAG
+- multi-channel chat
+source: https://github.com/chengrouter/chengos
 stars: 2
-language: "Shell"
-last_updated: "2026-08-02T13:40:34Z"
-discovered_at: "2026-08-02T13:49:20Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-02T13:40:34Z'
+discovered_at: '2026-08-02T13:49:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

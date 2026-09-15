@@ -1,19 +1,33 @@
 ---
-title: "wl1650918245/douyin-creator-distill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "Google Chrome", "FFmpeg", "Whisper (local transcription)", "Electron (implied by desktop app structure)", "REST APIs (cloud transcription services)", "Markdown/JSON (data storage)"]
+title: wl1650918245/douyin-creator-distill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- Google Chrome
+- FFmpeg
+- Whisper (local transcription)
+- Electron (implied by desktop app structure)
+- REST APIs (cloud transcription services)
+- Markdown/JSON (data storage)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["content extraction", "transcription", "viral analysis", "creator personas", "local-first"]
-source: "https://github.com/wl1650918245/douyin-creator-distill"
+deployment_complexity: Medium
+tags:
+- content extraction
+- transcription
+- viral analysis
+- creator personas
+- local-first
+source: https://github.com/wl1650918245/douyin-creator-distill
 stars: 4
-language: "JavaScript"
-last_updated: "2026-08-01T14:57:15Z"
-discovered_at: "2026-08-01T15:01:23Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T14:57:15Z'
+discovered_at: '2026-08-01T15:01:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

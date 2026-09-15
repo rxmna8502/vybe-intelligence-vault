@@ -1,19 +1,32 @@
 ---
-title: "Francis1998/agentic-career-search"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LLM APIs (Gemini, Kimi, Claude, GPT-compatible)", "State machines", "Event logging", "CI/CD (GitHub Actions)", "Type checking", "Linting"]
+title: Francis1998/agentic-career-search
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastAPI
+- LLM APIs (Gemini, Kimi, Claude, GPT-compatible)
+- State machines
+- Event logging
+- CI/CD (GitHub Actions)
+- Type checking
+- Linting
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agents", "job search automation", "LLM integration", "explainable decisions", "production-grade"]
-source: "https://github.com/Francis1998/agentic-career-search"
+deployment_complexity: Medium
+tags:
+- AI agents
+- job search automation
+- LLM integration
+- explainable decisions
+- production-grade
+source: https://github.com/Francis1998/agentic-career-search
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T13:13:51Z"
-discovered_at: "2026-07-11T13:14:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T13:13:51Z'
+discovered_at: '2026-07-11T13:14:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

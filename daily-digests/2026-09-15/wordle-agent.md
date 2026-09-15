@@ -1,19 +1,29 @@
 ---
-title: "rbutera/wordle-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Bun", "TypeScript", "Bun.WebView", "Hurdle (constraint solver)", "WebKit/Chrome DevTools Protocol"]
+title: rbutera/wordle-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Bun
+- TypeScript
+- Bun.WebView
+- Hurdle (constraint solver)
+- WebKit/Chrome DevTools Protocol
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Wordle automation", "AI agent interface", "constraint solver", "headless browser", "game state parsing"]
-source: "https://github.com/rbutera/wordle-agent"
+deployment_complexity: Medium
+tags:
+- Wordle automation
+- AI agent interface
+- constraint solver
+- headless browser
+- game state parsing
+source: https://github.com/rbutera/wordle-agent
 stars: 0
-language: "None"
-last_updated: "2026-09-03T08:26:50Z"
-discovered_at: "2026-09-03T08:30:31Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-03T08:26:50Z'
+discovered_at: '2026-09-03T08:30:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

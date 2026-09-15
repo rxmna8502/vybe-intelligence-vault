@@ -1,19 +1,33 @@
 ---
-title: "amajorai/ryu-monitors"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "React", "Vite", "HTTP API", "SSE (Server-Sent Events)", "Spider (web crawler)", "Expo Push Notifications", "Telegram Webhooks"]
+title: amajorai/ryu-monitors
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- SQLite
+- React
+- Vite
+- HTTP API
+- SSE (Server-Sent Events)
+- Spider (web crawler)
+- Expo Push Notifications
+- Telegram Webhooks
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["website monitoring", "alerting system", "RAG preprocessing", "real-time checks", "cross-platform notifications"]
-source: "https://github.com/amajorai/ryu-monitors"
+deployment_complexity: Medium
+tags:
+- website monitoring
+- alerting system
+- RAG preprocessing
+- real-time checks
+- cross-platform notifications
+source: https://github.com/amajorai/ryu-monitors
 stars: 0
-language: "Rust"
-last_updated: "2026-08-05T08:32:01Z"
-discovered_at: "2026-08-05T08:36:44Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T08:32:01Z'
+discovered_at: '2026-08-05T08:36:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "geek-fun/data-studio-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "TypeScript", "Node.js", "SQLKit", "DocKit", "Elasticsearch", "MongoDB", "PostgreSQL", "MySQL"]
+title: geek-fun/data-studio-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- TypeScript
+- Node.js
+- SQLKit
+- DocKit
+- Elasticsearch
+- MongoDB
+- PostgreSQL
+- MySQL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "database access", "AI agent integration", "local-first", "enterprise security"]
-source: "https://github.com/geek-fun/data-studio-agent"
+deployment_complexity: Low
+tags:
+- MCP server
+- database access
+- AI agent integration
+- local-first
+- enterprise security
+source: https://github.com/geek-fun/data-studio-agent
 stars: 1
-language: "Rust"
-last_updated: "2026-08-09T07:58:06Z"
-discovered_at: "2026-08-09T07:58:41Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T07:58:06Z'
+discovered_at: '2026-08-09T07:58:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

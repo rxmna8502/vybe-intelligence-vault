@@ -1,19 +1,34 @@
 ---
-title: "automators-com/flowproof"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Python", "TypeScript", "YAML", "Chromium (DevTools Protocol)", "UI Automation (Windows)", "SAP GUI Scripting", "OCR (for Citrix/RDP)", "HTTP/SQL Assertions", "Seccomp (Linux Containment)"]
+title: automators-com/flowproof
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- Python
+- TypeScript
+- YAML
+- Chromium (DevTools Protocol)
+- UI Automation (Windows)
+- SAP GUI Scripting
+- OCR (for Citrix/RDP)
+- HTTP/SQL Assertions
+- Seccomp (Linux Containment)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent testing", "deterministic replay", "guardrails", "RPA", "automation validation"]
-source: "https://github.com/automators-com/flowproof"
+deployment_complexity: Medium
+tags:
+- agent testing
+- deterministic replay
+- guardrails
+- RPA
+- automation validation
+source: https://github.com/automators-com/flowproof
 stars: 5
-language: "Rust"
-last_updated: "2026-08-01T09:05:59Z"
-discovered_at: "2026-08-01T09:06:30Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T09:05:59Z'
+discovered_at: '2026-08-01T09:06:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "dfieser/hea-bench"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "JavaScript", "Tauri", "NumPy", "SciPy", "pymatgen", "Model Context Protocol (MCP)", "HTML/CSS", "MathJax"]
+title: dfieser/hea-bench
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- JavaScript
+- Tauri
+- NumPy
+- SciPy
+- pymatgen
+- Model Context Protocol (MCP)
+- HTML/CSS
+- MathJax
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["thermodynamic descriptors", "high-entropy alloys", "phase prediction", "materials science", "MCP server"]
-source: "https://github.com/dfieser/hea-bench"
+deployment_complexity: Medium
+tags:
+- thermodynamic descriptors
+- high-entropy alloys
+- phase prediction
+- materials science
+- MCP server
+source: https://github.com/dfieser/hea-bench
 stars: 0
-language: "HTML"
-last_updated: "2026-08-10T14:58:38Z"
-discovered_at: "2026-08-10T15:03:56Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-10T14:58:38Z'
+discovered_at: '2026-08-10T15:03:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

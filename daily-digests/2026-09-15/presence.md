@@ -1,19 +1,32 @@
 ---
-title: "sara-star-quant/presence"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Rust", "MCP (Model Context Protocol)", "AGENTS.md", "JSON-RPC", "SQLite", "Git", "Bash"]
+title: sara-star-quant/presence
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Rust
+- MCP (Model Context Protocol)
+- AGENTS.md
+- JSON-RPC
+- SQLite
+- Git
+- Bash
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI session continuity", "persistent context", "Claude Code plugin", "MCP server", "AGENTS.md adapter"]
-source: "https://github.com/sara-star-quant/presence"
+deployment_complexity: Low
+tags:
+- AI session continuity
+- persistent context
+- Claude Code plugin
+- MCP server
+- AGENTS.md adapter
+source: https://github.com/sara-star-quant/presence
 stars: 5
-language: "Python"
-last_updated: "2026-08-05T23:59:31Z"
-discovered_at: "2026-08-06T00:02:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T23:59:31Z'
+discovered_at: '2026-08-06T00:02:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "yuga-hashimoto/and-code"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Kotlin", "Android SDK", "PRoot", "Alpine Linux", "Debian", "Git", "Android Keystore", "SSE (Server-Sent Events)", "Jetpack Compose", "Android Speech Recognition", "Text-to-Speech (TTS)"]
+title: yuga-hashimoto/and-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Kotlin
+- Android SDK
+- PRoot
+- Alpine Linux
+- Debian
+- Git
+- Android Keystore
+- SSE (Server-Sent Events)
+- Jetpack Compose
+- Android Speech Recognition
+- Text-to-Speech (TTS)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Android", "AI coding agents", "local execution", "mobile GUI", "remote agent control"]
-source: "https://github.com/yuga-hashimoto/and-code"
+deployment_complexity: Medium
+tags:
+- Android
+- AI coding agents
+- local execution
+- mobile GUI
+- remote agent control
+source: https://github.com/yuga-hashimoto/and-code
 stars: 2
-language: "Kotlin"
-last_updated: "2026-08-01T09:03:18Z"
-discovered_at: "2026-08-01T09:06:19Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-08-01T09:03:18Z'
+discovered_at: '2026-08-01T09:06:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

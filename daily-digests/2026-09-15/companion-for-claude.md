@@ -1,19 +1,33 @@
 ---
-title: "cavi-ai/companion-for-claude"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Obsidian Plugin API", "Anthropic Messages API", "ONNX Runtime", "Hugging Face Transformers", "PDF.js", "Ollama", "React", "Node.js"]
+title: cavi-ai/companion-for-claude
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Obsidian Plugin API
+- Anthropic Messages API
+- ONNX Runtime
+- Hugging Face Transformers
+- PDF.js
+- Ollama
+- React
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Obsidian", "Claude AI", "RAG", "Note-taking", "Agent Mode"]
-source: "https://github.com/cavi-ai/companion-for-claude"
+deployment_complexity: Low
+tags:
+- Obsidian
+- Claude AI
+- RAG
+- Note-taking
+- Agent Mode
+source: https://github.com/cavi-ai/companion-for-claude
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-02T02:32:33Z"
-discovered_at: "2026-08-02T02:34:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T02:32:33Z'
+discovered_at: '2026-08-02T02:34:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

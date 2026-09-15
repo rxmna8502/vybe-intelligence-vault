@@ -1,19 +1,32 @@
 ---
-title: "liukeyuan-lang/AquaMind-AI-Service-Agent-Demo"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Next.js", "LLM (OpenAI-compatible)", "RAG (Qdrant/Markdown)", "Supabase", "Node.js", "Docker"]
+title: liukeyuan-lang/AquaMind-AI-Service-Agent-Demo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- LLM (OpenAI-compatible)
+- RAG (Qdrant/Markdown)
+- Supabase
+- Node.js
+- Docker
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Industrial AI", "RAG", "Agent Workflow", "After-sales Support", "Diagnostic Assistant"]
-source: "https://github.com/liukeyuan-lang/AquaMind-AI-Service-Agent-Demo"
+deployment_complexity: Medium
+tags:
+- Industrial AI
+- RAG
+- Agent Workflow
+- After-sales Support
+- Diagnostic Assistant
+source: https://github.com/liukeyuan-lang/AquaMind-AI-Service-Agent-Demo
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T08:23:05Z"
-discovered_at: "2026-09-03T08:35:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T08:23:05Z'
+discovered_at: '2026-09-03T08:35:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "ajaysharmaas/mcp-datadog"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 5.0+", "Datadog API", "Model Context Protocol (MCP)"]
+title: ajaysharmaas/mcp-datadog
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- C#
+- .NET 5.0+
+- Datadog API
+- Model Context Protocol (MCP)
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["observability", "datadog", "mcp-server", "ai-integration", "monitoring"]
-source: "https://github.com/ajaysharmaas/mcp-datadog"
+deployment_complexity: Low
+tags:
+- observability
+- datadog
+- mcp-server
+- ai-integration
+- monitoring
+source: https://github.com/ajaysharmaas/mcp-datadog
 stars: 1
-language: "C#"
-last_updated: "2026-07-10T10:50:42Z"
-discovered_at: "2026-07-10T10:51:54Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-07-10T10:50:42Z'
+discovered_at: '2026-07-10T10:51:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

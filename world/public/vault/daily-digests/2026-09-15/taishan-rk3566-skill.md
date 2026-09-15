@@ -1,19 +1,34 @@
 ---
-title: "1nuoiscute/Taishan-RK3566-Skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OpenCV", "V4L2", "UART", "GPIO", "RKNN", "Linux", "Shell Scripting", "Codex API", "Claude Code API"]
+title: 1nuoiscute/Taishan-RK3566-Skill
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- OpenCV
+- V4L2
+- UART
+- GPIO
+- RKNN
+- Linux
+- Shell Scripting
+- Codex API
+- Claude Code API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["RK3566", "electronic competition", "vision validation", "embedded AI", "board deployment"]
-source: "https://github.com/1nuoiscute/Taishan-RK3566-Skill"
+deployment_complexity: Medium
+tags:
+- RK3566
+- electronic competition
+- vision validation
+- embedded AI
+- board deployment
+source: https://github.com/1nuoiscute/Taishan-RK3566-Skill
 stars: 5
-language: "Python"
-last_updated: "2026-08-10T15:02:29Z"
-discovered_at: "2026-08-10T15:03:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T15:02:29Z'
+discovered_at: '2026-08-10T15:03:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

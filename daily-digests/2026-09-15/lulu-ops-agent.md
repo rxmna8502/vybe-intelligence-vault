@@ -1,19 +1,35 @@
 ---
-title: "Pearlluo/lulu-ops-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Azure Blob Storage", "Microsoft Fabric Lakehouse", "DuckDB", "SQLGlot", "Streamlit", "Claude MCP", "Entra ID (Azure AD)", "GitHub Actions", "Parquet", "YAML"]
+title: Pearlluo/lulu-ops-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Azure Blob Storage
+- Microsoft Fabric Lakehouse
+- DuckDB
+- SQLGlot
+- Streamlit
+- Claude MCP
+- Entra ID (Azure AD)
+- GitHub Actions
+- Parquet
+- YAML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Governed AI", "MCP Gateway", "Workforce Operations", "SQL Security Chain", "Azure Data Lake"]
-source: "https://github.com/Pearlluo/lulu-ops-agent"
+deployment_complexity: High
+tags:
+- Governed AI
+- MCP Gateway
+- Workforce Operations
+- SQL Security Chain
+- Azure Data Lake
+source: https://github.com/Pearlluo/lulu-ops-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T02:51:06Z"
-discovered_at: "2026-08-03T02:54:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T02:51:06Z'
+discovered_at: '2026-08-03T02:54:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

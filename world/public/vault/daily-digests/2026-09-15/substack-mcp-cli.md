@@ -1,19 +1,30 @@
 ---
-title: "navidmoazzez/substack-mcp-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "Playwright", "Docker"]
+title: navidmoazzez/substack-mcp-cli
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- Playwright
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Substack automation", "MCP server", "CLI tool", "AI agent integration", "content management"]
-source: "https://github.com/navidmoazzez/substack-mcp-cli"
+deployment_complexity: Medium
+tags:
+- Substack automation
+- MCP server
+- CLI tool
+- AI agent integration
+- content management
+source: https://github.com/navidmoazzez/substack-mcp-cli
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T15:43:33Z"
-discovered_at: "2026-09-02T15:54:06Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T15:43:33Z'
+discovered_at: '2026-09-02T15:54:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

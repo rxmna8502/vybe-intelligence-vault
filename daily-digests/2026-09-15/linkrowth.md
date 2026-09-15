@@ -1,19 +1,34 @@
 ---
-title: "abdou-roa/linkrowth"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Express", "PostgreSQL", "Chrome Extension (MV3)", "Docker", "OpenAI API", "Gemini API", "Claude API", "Kimi API"]
+title: abdou-roa/linkrowth
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- PostgreSQL
+- Chrome Extension (MV3)
+- Docker
+- OpenAI API
+- Gemini API
+- Claude API
+- Kimi API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "LinkedIn engagement", "comment generation", "human-in-the-loop", "prompt engineering"]
-source: "https://github.com/abdou-roa/linkrowth"
+deployment_complexity: Medium
+tags:
+- AI agent
+- LinkedIn engagement
+- comment generation
+- human-in-the-loop
+- prompt engineering
+source: https://github.com/abdou-roa/linkrowth
 stars: 7
-language: "TypeScript"
-last_updated: "2026-07-20T12:21:43Z"
-discovered_at: "2026-07-20T12:22:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T12:21:43Z'
+discovered_at: '2026-07-20T12:22:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

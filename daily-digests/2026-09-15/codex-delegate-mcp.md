@@ -1,19 +1,29 @@
 ---
-title: "andreilungeanu/codex-delegate-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "OpenAI Codex CLI", "Model Context Protocol (MCP)", "JavaScript"]
+title: andreilungeanu/codex-delegate-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Node.js
+- TypeScript
+- OpenAI Codex CLI
+- Model Context Protocol (MCP)
+- JavaScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP bridge", "code generation", "AI delegation", "OpenAI Codex", "workflow automation"]
-source: "https://github.com/andreilungeanu/codex-delegate-mcp"
+deployment_complexity: Medium
+tags:
+- MCP bridge
+- code generation
+- AI delegation
+- OpenAI Codex
+- workflow automation
+source: https://github.com/andreilungeanu/codex-delegate-mcp
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-10T16:03:26Z"
-discovered_at: "2026-08-10T16:06:42Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T16:03:26Z'
+discovered_at: '2026-08-10T16:06:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

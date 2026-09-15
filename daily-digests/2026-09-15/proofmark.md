@@ -1,19 +1,33 @@
 ---
-title: "dugu0011/proofmark"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "LLM APIs (OpenAI, Anthropic, Azure)", "LiteLLM", "ed25519 (for signing)", "FastAPI", "Jinja2", "SQLite", "Pydantic"]
+title: dugu0011/proofmark
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Docker
+- LLM APIs (OpenAI, Anthropic, Azure)
+- LiteLLM
+- ed25519 (for signing)
+- FastAPI
+- Jinja2
+- SQLite
+- Pydantic
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI pentesting", "autonomous agents", "sandboxed exploitation", "proof-of-concept validation", "signed run records"]
-source: "https://github.com/dugu0011/proofmark"
+deployment_complexity: Medium
+tags:
+- AI pentesting
+- autonomous agents
+- sandboxed exploitation
+- proof-of-concept validation
+- signed run records
+source: https://github.com/dugu0011/proofmark
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T18:51:12Z"
-discovered_at: "2026-09-01T19:05:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:51:12Z'
+discovered_at: '2026-09-01T19:05:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

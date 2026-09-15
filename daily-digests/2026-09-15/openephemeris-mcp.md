@@ -1,19 +1,31 @@
 ---
-title: "openephemeris/openephemeris-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "NASA JPL DE440 Ephemeris", "Smithery", "Vercel AI SDK", "Streamable HTTP", "Node.js"]
+title: openephemeris/openephemeris-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- NASA JPL DE440 Ephemeris
+- Smithery
+- Vercel AI SDK
+- Streamable HTTP
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["astrology", "ephemeris", "MCP server", "NASA JPL", "AI tools"]
-source: "https://github.com/openephemeris/openephemeris-MCP"
+deployment_complexity: Medium
+tags:
+- astrology
+- ephemeris
+- MCP server
+- NASA JPL
+- AI tools
+source: https://github.com/openephemeris/openephemeris-MCP
 stars: 3
-language: "Python"
-last_updated: "2026-08-02T19:23:40Z"
-discovered_at: "2026-08-02T19:25:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T19:23:40Z'
+discovered_at: '2026-08-02T19:25:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

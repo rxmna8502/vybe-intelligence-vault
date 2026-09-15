@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-buys-smartphone-camera-maker-glass-imaging
 first_seen: '2026-09-15T19:11:13.962259+05:30'
 last_seen: '2026-09-15T19:11:13.962259+05:30'
 last_checked: '2026-09-15T19:11:13.962259+05:30'
 health_score: 100
 ---
+
 
 # OpenAI buys smartphone camera maker Glass Imaging for $300M
 

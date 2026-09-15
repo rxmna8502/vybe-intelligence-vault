@@ -1,19 +1,33 @@
 ---
-title: "MkThingsHQ/mkagent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Bun", "Electron", "React", "TypeScript", "Vite", "Tailwind CSS", "Pi", "Python", "Node.js"]
+title: MkThingsHQ/mkagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Bun
+- Electron
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Pi
+- Python
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "local-first", "multi-interface", "workspace management", "model flexibility"]
-source: "https://github.com/MkThingsHQ/mkagent"
+deployment_complexity: Medium
+tags:
+- AI agent
+- local-first
+- multi-interface
+- workspace management
+- model flexibility
+source: https://github.com/MkThingsHQ/mkagent
 stars: 181
-language: "TypeScript"
-last_updated: "2026-08-31T15:22:01Z"
-discovered_at: "2026-09-01T15:52:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-31T15:22:01Z'
+discovered_at: '2026-09-01T15:52:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

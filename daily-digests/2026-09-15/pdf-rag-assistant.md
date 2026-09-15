@@ -1,19 +1,29 @@
 ---
-title: "ahmahmahm/pdf-rag-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI", "ChromaDB", "RAG", "LangChain"]
+title: ahmahmahm/pdf-rag-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- OpenAI
+- ChromaDB
+- RAG
+- LangChain
 quality_score: 5
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "PDF processing", "document Q&A", "ChromaDB", "OpenAI integration"]
-source: "https://github.com/ahmahmahm/pdf-rag-assistant"
+deployment_complexity: Medium
+tags:
+- RAG
+- PDF processing
+- document Q&A
+- ChromaDB
+- OpenAI integration
+source: https://github.com/ahmahmahm/pdf-rag-assistant
 stars: 0
-language: "None"
-last_updated: "2026-08-09T18:24:07Z"
-discovered_at: "2026-08-09T18:43:52Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T18:24:07Z'
+discovered_at: '2026-08-09T18:43:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

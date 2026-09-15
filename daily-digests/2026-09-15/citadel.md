@@ -1,19 +1,39 @@
 ---
-title: "yp3y5akh0v/citadel"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "SQL", "Vector Database", "AES-256 Encryption", "HMAC-SHA256", "Embeddings (e5-large, bge models)", "Cross-Encoder Reranking", "WASM", "Python", "LangGraph", "CrewAI", "MCP (Model Context Protocol)", "B+ Tree", "Shadow Paging", "ACID Transactions"]
+title: yp3y5akh0v/citadel
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Rust
+- SQL
+- Vector Database
+- AES-256 Encryption
+- HMAC-SHA256
+- Embeddings (e5-large, bge models)
+- Cross-Encoder Reranking
+- WASM
+- Python
+- LangGraph
+- CrewAI
+- MCP (Model Context Protocol)
+- B+ Tree
+- Shadow Paging
+- ACID Transactions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Encrypted Memory", "Vector Search", "SQL Database", "AI Agent Storage", "Cryptographic Forgetting"]
-source: "https://github.com/yp3y5akh0v/citadel"
+deployment_complexity: Medium
+tags:
+- Encrypted Memory
+- Vector Search
+- SQL Database
+- AI Agent Storage
+- Cryptographic Forgetting
+source: https://github.com/yp3y5akh0v/citadel
 stars: 2
-language: "Rust"
-last_updated: "2026-08-10T18:59:54Z"
-discovered_at: "2026-08-10T19:01:28Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-10T18:59:54Z'
+discovered_at: '2026-08-10T19:01:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

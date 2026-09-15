@@ -1,19 +1,33 @@
 ---
-title: "weed33834/EduFlow"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "FastAPI", "TypeScript", "Python", "LangGraph", "Docker", "pnpm", "React", "Zustand"]
+title: weed33834/EduFlow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Next.js
+- FastAPI
+- TypeScript
+- Python
+- LangGraph
+- Docker
+- pnpm
+- React
+- Zustand
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI tutoring", "self-learning", "multi-agent systems", "adaptive learning", "education platform"]
-source: "https://github.com/weed33834/EduFlow"
+deployment_complexity: Medium
+tags:
+- AI tutoring
+- self-learning
+- multi-agent systems
+- adaptive learning
+- education platform
+source: https://github.com/weed33834/EduFlow
 stars: 35
-language: "TypeScript"
-last_updated: "2026-08-09T12:46:18Z"
-discovered_at: "2026-08-09T12:50:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T12:46:18Z'
+discovered_at: '2026-08-09T12:50:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

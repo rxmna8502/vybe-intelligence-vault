@@ -1,19 +1,27 @@
 ---
-title: "persona-net/rag-pipeline-dashboard"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["React", "TypeScript", "Embeddings (OpenAI, Voyage AI)"]
+title: persona-net/rag-pipeline-dashboard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- React
+- TypeScript
+- Embeddings (OpenAI, Voyage AI)
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["RAG monitoring", "real-time analytics", "multi-provider embeddings", "dashboard", "data visualization"]
-source: "https://github.com/persona-net/rag-pipeline-dashboard"
+deployment_complexity: Low
+tags:
+- RAG monitoring
+- real-time analytics
+- multi-provider embeddings
+- dashboard
+- data visualization
+source: https://github.com/persona-net/rag-pipeline-dashboard
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T11:17:11Z"
-discovered_at: "2026-08-07T11:57:58Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:17:11Z'
+discovered_at: '2026-08-07T11:57:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -25205,10 +25205,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](../ai/community/dropping-ebpf-cpu-cost-by-about-90-with-memoizatio.md)
-  - [OpenAI bots knew about the RubyGems caching vulnerability](../ai/community/openai-bots-knew-about-the-rubygems-caching-vulner.md)
-  - [OpenAI buys smartphone camera maker Glass Imaging for $300M](../ai/community/openai-buys-smartphone-camera-maker-glass-imaging.md)
-  - [Suspected sabotage causes major Netherlands rail disruption](../ai/community/suspected-sabotage-causes-major-netherlands-rail-d.md)
+  - [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](../ai/community/a-single-firm-is-behind-openai-anthropic-and-meta.md)
+  - [Cartesian – AI 3D Modeling for Design](../ai/community/cartesian-ai-3d-modeling-for-design.md)
+  - [Hugging Face is billing OpenAI $100M for hacking it](../ai/community/hugging-face-is-billing-openai-100m-for-hacking-it.md)
+  - [Let's make quality the norm again](../ai/community/let-s-make-quality-the-norm-again.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -25584,7 +25584,6 @@ Resources organized by publisher feed and query sources.
   - [Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub](../ai/models/huggingface-blog-huggy-lingo.md)
   - [Hyperparameter Search with Transformers and Ray Tune](../ai/models/huggingface-blog-ray-tune.md)
   - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](../ai/agents/huggingface-blog-ibm-research-itbenchandmast.md)
-  - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](../ai/models/huggingface-blog-ibm-research-ibm-releases-sota-granite-time-series.md)
   - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](../ai/models/huggingface-blog-rlhf.md)
   - [Image Classification with AutoTrain](../ai/models/huggingface-blog-autotrain-image-classification.md)
   - [Image Similarity with Hugging Face Datasets and Transformers](../ai/models/huggingface-blog-image-similarity.md)
@@ -26051,6 +26050,7 @@ Resources organized by publisher feed and query sources.
   - [Yay! Organizations can now publish blog Articles](../ai/models/huggingface-blog-huggingface-blog-articles-for-orgs.md)
   - [Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](../ai/models/huggingface-blog-autoformer.md)
   - [You could have designed state of the art positional encoding](../ai/models/huggingface-blog-designing-positional-encoding.md)
+  - [Your Agent Aced the Task. Will It Do It Again?](../ai/agents/huggingface-blog-ibm-research-altk-evolve-consistency.md)
   - [Zero-shot image segmentation with CLIPSeg](../ai/models/huggingface-blog-clipseg-zero-shot.md)
   - [Zero-shot image-to-text generation with BLIP-2](../ai/models/huggingface-blog-blip-2.md)
   - [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../ai/models/huggingface-blog-lerobot-datasets-v3.md)
@@ -26309,7 +26309,6 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -27244,7 +27243,6 @@ Resources organized by publisher feed and query sources.
   - [Google Analytics opt-out browser add-on - Analytics Help](../ai/resources/google-analytics-opt-out-browser-add-on-analytics.md)
   - [Google Cloud Platform · GitHub](../ai/agents/google-cloud-platform-github.md)
   - [Google Cloud Privacy Notice](../ai/rag/google-cloud-privacy-notice.md)
-  - [Google Colab](../ai/rag/google-colab.md)
   - [Google DeepMind - YouTube](../ai/resources/google-deepmind-youtube.md)
   - [Google Developer Experts - Google for Developers](../ai/resources/google-developer-experts-google-for-developers.md)
   - [Google Drive - Report Abuse](../ai/resources/google-drive-report-abuse.md)
@@ -28060,7 +28058,6 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
-  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
@@ -28421,7 +28418,6 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
-  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -28461,7 +28457,6 @@ Resources organized by publisher feed and query sources.
   - [The Sovereign AI Platform for Agents](../ai/rag/the-sovereign-ai-platform-for-agents.md)
   - [The Stack Overflow Blog - Stack Overflow](../ai/rag/the-stack-overflow-blog-stack-overflow.md)
   - [The Synack Red Team | Synack](../ai/rag/the-synack-red-team-synack.md)
-  - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Wayback Machine – Internet Archive Help Center](../ai/resources/the-wayback-machine-internet-archive-help-center.md)
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
@@ -28485,7 +28480,6 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
-  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -29077,4 +29071,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-15T19:27:43.046389+05:30*
+*Index generated on 2026-09-16T01:33:41.814710+05:30*

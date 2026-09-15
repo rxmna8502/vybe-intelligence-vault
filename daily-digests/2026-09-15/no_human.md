@@ -1,19 +1,39 @@
 ---
-title: "no-human-ai/no_human"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Node.js", "uv (package manager)", "Git", "Model Context Protocol (MCP)", "Jira", "Linear", "monday.com", "GitHub", "GitLab", "Jenkins", "CircleCI", "Slack", "Teams"]
+title: no-human-ai/no_human
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- uv (package manager)
+- Git
+- Model Context Protocol (MCP)
+- Jira
+- Linear
+- monday.com
+- GitHub
+- GitLab
+- Jenkins
+- CircleCI
+- Slack
+- Teams
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding assistant", "automated PR generation", "adversarial review", "MCP server", "issue tracker integration"]
-source: "https://github.com/no-human-ai/no_human"
+deployment_complexity: Medium
+tags:
+- AI coding assistant
+- automated PR generation
+- adversarial review
+- MCP server
+- issue tracker integration
+source: https://github.com/no-human-ai/no_human
 stars: 237
-language: "Python"
-last_updated: "2026-09-02T19:05:55Z"
-discovered_at: "2026-09-02T19:12:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T19:05:55Z'
+discovered_at: '2026-09-02T19:12:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

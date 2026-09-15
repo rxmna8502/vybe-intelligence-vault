@@ -1,19 +1,29 @@
 ---
-title: "JohannsenLum/linkedin-api-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Playwright (via patchright)", "uv (package manager)", "OS keyring (for credential storage)"]
+title: JohannsenLum/linkedin-api-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Playwright (via patchright)
+- uv (package manager)
+- OS keyring (for credential storage)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["LinkedIn automation", "MCP server", "headless browser", "agent integration", "social media API"]
-source: "https://github.com/JohannsenLum/linkedin-api-mcp"
+deployment_complexity: Medium
+tags:
+- LinkedIn automation
+- MCP server
+- headless browser
+- agent integration
+- social media API
+source: https://github.com/JohannsenLum/linkedin-api-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T10:33:15Z"
-discovered_at: "2026-08-09T10:38:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T10:33:15Z'
+discovered_at: '2026-08-09T10:38:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

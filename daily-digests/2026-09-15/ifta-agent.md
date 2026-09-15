@@ -1,19 +1,33 @@
 ---
-title: "ArtJack/ifta-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Anthropic SDK", "FastAPI", "Click", "Pytest", "Telegram Bot API", "Pandas", "NumPy", "Excel/CSV/PDF Parsers"]
+title: ArtJack/ifta-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- Anthropic SDK
+- FastAPI
+- Click
+- Pytest
+- Telegram Bot API
+- Pandas
+- NumPy
+- Excel/CSV/PDF Parsers
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["IFTA filing automation", "LLM review agent", "fuel tax pipeline", "deterministic math", "regulatory compliance"]
-source: "https://github.com/ArtJack/ifta-agent"
+deployment_complexity: Medium
+tags:
+- IFTA filing automation
+- LLM review agent
+- fuel tax pipeline
+- deterministic math
+- regulatory compliance
+source: https://github.com/ArtJack/ifta-agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-16T18:01:44Z"
-discovered_at: "2026-07-16T18:05:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T18:01:44Z'
+discovered_at: '2026-07-16T18:05:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

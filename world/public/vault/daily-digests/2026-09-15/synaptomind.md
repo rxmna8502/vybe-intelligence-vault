@@ -1,19 +1,32 @@
 ---
-title: "zumik3-del/synaptomind"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun runtime", "Hono (HTTP API)", "MCP (Model Context Protocol) server", "SQLite (with vec0 extension for vector search)", "@huggingface/transformers (for local embeddings)", "FTS5 (full-text search)", "IPC (Inter-Process Communication)"]
+title: zumik3-del/synaptomind
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Bun runtime
+- Hono (HTTP API)
+- MCP (Model Context Protocol) server
+- SQLite (with vec0 extension for vector search)
+- '@huggingface/transformers (for local embeddings)'
+- FTS5 (full-text search)
+- IPC (Inter-Process Communication)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["persistent memory", "MCP server", "local embeddings", "thought graph", "AI agent memory"]
-source: "https://github.com/zumik3-del/synaptomind"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- MCP server
+- local embeddings
+- thought graph
+- AI agent memory
+source: https://github.com/zumik3-del/synaptomind
 stars: 6
-language: "TypeScript"
-last_updated: "2026-09-02T08:12:49Z"
-discovered_at: "2026-09-02T08:23:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:12:49Z'
+discovered_at: '2026-09-02T08:23:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-bots-knew-about-the-rubygems-caching-vulner
 first_seen: '2026-09-15T10:32:52.540886+05:30'
 last_seen: '2026-09-15T19:11:15.608078+05:30'
 last_checked: '2026-09-15T19:11:15.608078+05:30'
 health_score: 100
 ---
+
 
 # OpenAI bots knew about the RubyGems caching vulnerability
 

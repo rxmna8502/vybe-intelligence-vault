@@ -1,19 +1,40 @@
 ---
-title: "career-ops-hq/career-ops"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Go", "Playwright", "Bubble Tea", "Python", "Claude Code", "OpenCode", "Antigravity CLI", "Codex", "Qwen", "Kimi", "GitHub Copilot", "Grok Build CLI", "PDF Generation (ATS-optimized)", "Terminal UI (TUI)"]
+title: career-ops-hq/career-ops
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- JavaScript
+- Node.js
+- Go
+- Playwright
+- Bubble Tea
+- Python
+- Claude Code
+- OpenCode
+- Antigravity CLI
+- Codex
+- Qwen
+- Kimi
+- GitHub Copilot
+- Grok Build CLI
+- PDF Generation (ATS-optimized)
+- Terminal UI (TUI)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Job Search Automation", "AI Resume Optimization", "Multi-Agent Workflow", "ATS Compatibility", "Application Tracking"]
-source: "https://github.com/career-ops-hq/career-ops"
+deployment_complexity: Medium
+tags:
+- Job Search Automation
+- AI Resume Optimization
+- Multi-Agent Workflow
+- ATS Compatibility
+- Application Tracking
+source: https://github.com/career-ops-hq/career-ops
 stars: 69906
-language: "JavaScript"
-last_updated: "2026-09-02T19:09:33Z"
-discovered_at: "2026-09-02T19:11:09Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T19:09:33Z'
+discovered_at: '2026-09-02T19:11:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

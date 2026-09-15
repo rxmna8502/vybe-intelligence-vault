@@ -1,19 +1,31 @@
 ---
-title: "janszafranski/openclaw-flyout"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["QML", "Node.js", "systemd", "SQLite", "Wayland", "Quickshell", "OpenClaw"]
+title: janszafranski/openclaw-flyout
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- QML
+- Node.js
+- systemd
+- SQLite
+- Wayland
+- Quickshell
+- OpenClaw
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Quickshell", "OpenClaw", "side panel", "local AI bridge", "Wayland"]
-source: "https://github.com/janszafranski/openclaw-flyout"
+deployment_complexity: Medium
+tags:
+- Quickshell
+- OpenClaw
+- side panel
+- local AI bridge
+- Wayland
+source: https://github.com/janszafranski/openclaw-flyout
 stars: 0
-language: "QML"
-last_updated: "2026-09-03T15:33:32Z"
-discovered_at: "2026-09-03T15:35:22Z"
-evaluated_by: "mistral-small-latest"
+language: QML
+last_updated: '2026-09-03T15:33:32Z'
+discovered_at: '2026-09-03T15:35:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "sovereignfs/sovereign-edge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React Native", "Expo SDK", "llama.cpp", "GGUF", "Jest", "ESLint", "Prettier", "Swift (iOS)", "Kotlin/Java (Android)", "Node.js", "pnpm"]
+title: sovereignfs/sovereign-edge
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- React Native
+- Expo SDK
+- llama.cpp
+- GGUF
+- Jest
+- ESLint
+- Prettier
+- Swift (iOS)
+- Kotlin/Java (Android)
+- Node.js
+- pnpm
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["offline AI", "privacy-first", "mobile inference", "local LLM", "Expo"]
-source: "https://github.com/sovereignfs/sovereign-edge"
+deployment_complexity: Medium
+tags:
+- offline AI
+- privacy-first
+- mobile inference
+- local LLM
+- Expo
+source: https://github.com/sovereignfs/sovereign-edge
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T08:15:38Z"
-discovered_at: "2026-08-02T08:22:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T08:15:38Z'
+discovered_at: '2026-08-02T08:22:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,42 @@
 ---
-title: "TGYD-helige/pi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Prisma", "MySQL", "JSON", "ESM", "npm", "Langfuse", "OpenTelemetry", "MCP", "Feishu", "WeCom", "DingTalk", "Chrome DevTools", "OpenAI", "Google Nano Banana", "Alibaba Qwen-Image", "OpenRouter"]
+title: TGYD-helige/pi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- Prisma
+- MySQL
+- JSON
+- ESM
+- npm
+- Langfuse
+- OpenTelemetry
+- MCP
+- Feishu
+- WeCom
+- DingTalk
+- Chrome DevTools
+- OpenAI
+- Google Nano Banana
+- Alibaba Qwen-Image
+- OpenRouter
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent runtime", "modular extensions", "persistence adapters", "workspace integrations", "LLM tooling"]
-source: "https://github.com/TGYD-helige/pi"
+deployment_complexity: Medium
+tags:
+- AI agent runtime
+- modular extensions
+- persistence adapters
+- workspace integrations
+- LLM tooling
+source: https://github.com/TGYD-helige/pi
 stars: 32
-language: "TypeScript"
-last_updated: "2026-07-16T02:14:49Z"
-discovered_at: "2026-07-16T02:25:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T02:14:49Z'
+discovered_at: '2026-07-16T02:25:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

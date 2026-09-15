@@ -1,19 +1,35 @@
 ---
-title: "tzhouam/personal-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "SQLite", "Git", "Anthropic-compatible LLM API", "GitHub API", "Gmail API", "Resend/SMTP", "OpenClaw", "LaTeX", "WeChat API"]
+title: tzhouam/personal-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Python
+- LangGraph
+- SQLite
+- Git
+- Anthropic-compatible LLM API
+- GitHub API
+- Gmail API
+- Resend/SMTP
+- OpenClaw
+- LaTeX
+- WeChat API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personal-agent", "evidence-backed-profile", "local-first", "daily-digest", "task-automation"]
-source: "https://github.com/tzhouam/personal-agent"
+deployment_complexity: Medium
+tags:
+- personal-agent
+- evidence-backed-profile
+- local-first
+- daily-digest
+- task-automation
+source: https://github.com/tzhouam/personal-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T11:51:53Z"
-discovered_at: "2026-07-12T11:58:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T11:51:53Z'
+discovered_at: '2026-07-12T11:58:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

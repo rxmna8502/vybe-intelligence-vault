@@ -1,19 +1,29 @@
 ---
-title: "xiabai2008/temperforge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "YAML", "TOML", "Markdown", "pytest"]
+title: xiabai2008/temperforge
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- YAML
+- TOML
+- Markdown
+- pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent", "code standards", "AI development", "agent persona", "experience system"]
-source: "https://github.com/xiabai2008/temperforge"
+deployment_complexity: Medium
+tags:
+- multi-agent
+- code standards
+- AI development
+- agent persona
+- experience system
+source: https://github.com/xiabai2008/temperforge
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T03:35:54Z"
-discovered_at: "2026-08-09T03:45:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T03:35:54Z'
+discovered_at: '2026-08-09T03:45:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

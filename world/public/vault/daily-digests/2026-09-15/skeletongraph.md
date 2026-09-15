@@ -1,19 +1,33 @@
 ---
-title: "yashdoke7/skeletongraph"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "tree-sitter", "BM25", "PageRank", "MCP (Model Context Protocol)", "CLI", "AST parsing", "Graph theory", "LLM integration (optional)"]
+title: yashdoke7/skeletongraph
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-15
+tech_stack:
+- Python
+- tree-sitter
+- BM25
+- PageRank
+- MCP (Model Context Protocol)
+- CLI
+- AST parsing
+- Graph theory
+- LLM integration (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["code retrieval", "structural indexing", "call graph", "token optimization", "AI coding agents"]
-source: "https://github.com/yashdoke7/skeletongraph"
+deployment_complexity: Medium
+tags:
+- code retrieval
+- structural indexing
+- call graph
+- token optimization
+- AI coding agents
+source: https://github.com/yashdoke7/skeletongraph
 stars: 3
-language: "Python"
-last_updated: "2026-07-11T20:07:16Z"
-discovered_at: "2026-07-11T20:09:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T20:07:16Z'
+discovered_at: '2026-07-11T20:09:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

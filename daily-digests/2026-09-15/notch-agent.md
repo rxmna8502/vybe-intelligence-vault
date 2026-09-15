@@ -1,19 +1,32 @@
 ---
-title: "utmostelf5752/notch-agent"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Swift", "SwiftUI", "WKWebView", "Carbon", "CLI (Claude, Codex)", "macOS SDK", "WebKit", "Shell scripting"]
+title: utmostelf5752/notch-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- Swift
+- SwiftUI
+- WKWebView
+- Carbon
+- CLI (Claude, Codex)
+- macOS SDK
+- WebKit
+- Shell scripting
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["macOS agent", "coding assistant", "notch UI", "LLM integration", "hotkey-driven"]
-source: "https://github.com/utmostelf5752/notch-agent"
+deployment_complexity: Medium
+tags:
+- macOS agent
+- coding assistant
+- notch UI
+- LLM integration
+- hotkey-driven
+source: https://github.com/utmostelf5752/notch-agent
 stars: 0
-language: "Swift"
-last_updated: "2026-07-17T21:40:45Z"
-discovered_at: "2026-07-17T21:52:27Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-07-17T21:40:45Z'
+discovered_at: '2026-07-17T21:52:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

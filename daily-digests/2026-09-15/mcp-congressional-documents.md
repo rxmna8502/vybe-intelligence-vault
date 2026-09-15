@@ -1,19 +1,29 @@
 ---
-title: "pipeworx-io/mcp-congressional-documents"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST APIs", "GovInfo API", "Data.gov API"]
+title: pipeworx-io/mcp-congressional-documents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST APIs
+- GovInfo API
+- Data.gov API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["Congressional documents", "full-text search", "government data", "RAG grounding", "MCP server"]
-source: "https://github.com/pipeworx-io/mcp-congressional-documents"
+deployment_complexity: Low
+tags:
+- Congressional documents
+- full-text search
+- government data
+- RAG grounding
+- MCP server
+source: https://github.com/pipeworx-io/mcp-congressional-documents
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T20:40:29Z"
-discovered_at: "2026-08-01T20:51:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T20:40:29Z'
+discovered_at: '2026-08-01T20:51:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

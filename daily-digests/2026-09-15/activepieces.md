@@ -1,19 +1,32 @@
 ---
-title: "activepieces/activepieces"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "React", "Docker", "PostgreSQL", "MCP (Model Context Protocol)", "NPM", "Crowdin (for i18n)"]
+title: activepieces/activepieces
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-15
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Docker
+- PostgreSQL
+- MCP (Model Context Protocol)
+- NPM
+- Crowdin (for i18n)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["automation", "workflow", "mcp", "ai-integration", "self-hosted"]
-source: "https://github.com/activepieces/activepieces"
+deployment_complexity: Medium
+tags:
+- automation
+- workflow
+- mcp
+- ai-integration
+- self-hosted
+source: https://github.com/activepieces/activepieces
 stars: 24212
-language: "TypeScript"
-last_updated: "2026-09-03T15:31:26Z"
-discovered_at: "2026-09-03T15:38:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:31:26Z'
+discovered_at: '2026-09-03T15:38:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
