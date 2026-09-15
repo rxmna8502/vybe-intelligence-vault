@@ -1,31 +1,19 @@
 ---
-title: davidmosiah/delx-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- SQLite
-- MCP (Model Context Protocol)
-- Node.js
-- FTS5 (Full-Text Search)
-- JWT validation
-- CLI tools
+title: "davidmosiah/delx-memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "SQLite", "MCP (Model Context Protocol)", "Node.js", "FTS5 (Full-Text Search)", "JWT validation", "CLI tools"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- persistent memory
-- MCP server
-- SQLite
-- context continuity
-- privacy-focused
-source: https://github.com/davidmosiah/delx-memory
+deployment_complexity: "Low"
+tags: ["persistent memory", "MCP server", "SQLite", "context continuity", "privacy-focused"]
+source: "https://github.com/davidmosiah/delx-memory"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T12:43:28Z'
-discovered_at: '2026-08-08T12:47:18Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T12:43:28Z"
+discovered_at: "2026-08-08T12:47:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: ulises-jeremias/agentic-harness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Shell
-- Python
-- Git
-- Claude Code
-- Cursor
-- GitHub Copilot
-- Gemini CLI
-- YAML
+title: "ulises-jeremias/agentic-harness"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Shell", "Python", "Git", "Claude Code", "Cursor", "GitHub Copilot", "Gemini CLI", "YAML"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent runtime
-- persistent memory
-- autonomous loops
-- context management
-- developer experience
-source: https://github.com/ulises-jeremias/agentic-harness
+deployment_complexity: "Medium"
+tags: ["AI agent runtime", "persistent memory", "autonomous loops", "context management", "developer experience"]
+source: "https://github.com/ulises-jeremias/agentic-harness"
 stars: 3
-language: Shell
-last_updated: '2026-08-05T18:19:57Z'
-discovered_at: '2026-08-05T18:24:36Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-05T18:19:57Z"
+discovered_at: "2026-08-05T18:24:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

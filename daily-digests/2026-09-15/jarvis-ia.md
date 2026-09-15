@@ -1,27 +1,19 @@
 ---
-title: yurearaujodev/jarvis-ia
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Java
-- AI/ML (unspecified libraries)
-- Maven (implied by Java project structure)
+title: "yurearaujodev/jarvis-ia"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java", "AI/ML (unspecified libraries)", "Maven (implied by Java project structure)"]
 quality_score: 2
 rag_relevance: 3
-deployment_complexity: Medium
-tags:
-- Java
-- AI assistant
-- early-stage
-- minimal-documentation
-- personal-agent
-source: https://github.com/yurearaujodev/jarvis-ia
+deployment_complexity: "Medium"
+tags: ["Java", "AI assistant", "early-stage", "minimal-documentation", "personal-agent"]
+source: "https://github.com/yurearaujodev/jarvis-ia"
 stars: 0
-language: Java
-last_updated: '2026-07-20T23:54:25Z'
-discovered_at: '2026-07-21T00:03:26Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-07-20T23:54:25Z"
+discovered_at: "2026-07-21T00:03:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

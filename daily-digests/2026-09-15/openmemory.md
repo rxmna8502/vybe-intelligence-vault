@@ -1,31 +1,19 @@
 ---
-title: gordonkjlee/openmemory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- MCP (Model Context Protocol)
-- BM25
-- Reciprocal Rank Fusion
-- CLI
+title: "gordonkjlee/openmemory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "BM25", "Reciprocal Rank Fusion", "CLI"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory engine
-- MCP server
-- knowledge graph
-- AI persistence
-- structured data
-source: https://github.com/gordonkjlee/openmemory
+deployment_complexity: "Medium"
+tags: ["memory engine", "MCP server", "knowledge graph", "AI persistence", "structured data"]
+source: "https://github.com/gordonkjlee/openmemory"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-16T21:59:13Z'
-discovered_at: '2026-07-16T22:02:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T21:59:13Z"
+discovered_at: "2026-07-16T22:02:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

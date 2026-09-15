@@ -1,37 +1,19 @@
 ---
-title: excalimate/excalimate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- React 19
-- TypeScript 5.9
-- Vite 7
-- Mantine 8
-- Tailwind CSS 4
-- Excalidraw 0.18
-- Zustand
-- Node.js
-- Express
-- MCP SDK
-- WebCodecs
-- Web Crypto API (AES-256-GCM)
-- Cloudflare Pages/Workers
+title: "excalimate/excalimate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["React 19", "TypeScript 5.9", "Vite 7", "Mantine 8", "Tailwind CSS 4", "Excalidraw 0.18", "Zustand", "Node.js", "Express", "MCP SDK", "WebCodecs", "Web Crypto API (AES-256-GCM)", "Cloudflare Pages/Workers"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- animation
-- diagram
-- MCP server
-- AI integration
-- keyframe
-source: https://github.com/excalimate/excalimate
+deployment_complexity: "Medium"
+tags: ["animation", "diagram", "MCP server", "AI integration", "keyframe"]
+source: "https://github.com/excalimate/excalimate"
 stars: 34
-language: TypeScript
-last_updated: '2026-07-12T08:04:07Z'
-discovered_at: '2026-07-12T08:15:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T08:04:07Z"
+discovered_at: "2026-07-12T08:15:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

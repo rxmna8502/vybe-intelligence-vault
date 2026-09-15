@@ -1,29 +1,19 @@
 ---
-title: ostapondo/Plonk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Swift
-- TypeScript
-- MCP (Model Context Protocol)
-- SwiftUI
-- Node.js
+title: "ostapondo/Plonk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "TypeScript", "MCP (Model Context Protocol)", "SwiftUI", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- window management
-- AI agent control
-- MCP server
-- macOS automation
-- workspace management
-source: https://github.com/ostapondo/Plonk
+deployment_complexity: "Low"
+tags: ["window management", "AI agent control", "MCP server", "macOS automation", "workspace management"]
+source: "https://github.com/ostapondo/Plonk"
 stars: 0
-language: Swift
-last_updated: '2026-08-07T17:51:50Z'
-discovered_at: '2026-08-07T17:52:10Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-07T17:51:50Z"
+discovered_at: "2026-08-07T17:52:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

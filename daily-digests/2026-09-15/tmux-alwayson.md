@@ -1,30 +1,19 @@
 ---
-title: nahidspace/tmux-alwayson
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Go
-- tmux
-- systemd
-- tmux-resurrect
-- tmux-continuum
-- tmux-assistant-resurrect
+title: "nahidspace/tmux-alwayson"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "tmux", "systemd", "tmux-resurrect", "tmux-continuum", "tmux-assistant-resurrect"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- tmux
-- AI agents
-- session persistence
-- systemd
-- automation
-source: https://github.com/nahidspace/tmux-alwayson
+deployment_complexity: "Medium"
+tags: ["tmux", "AI agents", "session persistence", "systemd", "automation"]
+source: "https://github.com/nahidspace/tmux-alwayson"
 stars: 0
-language: Go
-last_updated: '2026-08-07T20:41:13Z'
-discovered_at: '2026-08-07T20:42:49Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T20:41:13Z"
+discovered_at: "2026-08-07T20:42:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

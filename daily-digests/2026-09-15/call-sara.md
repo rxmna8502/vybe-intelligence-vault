@@ -1,31 +1,19 @@
 ---
-title: dannyhertz/call-sara
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Beancount
-- Claude Code
-- Git
-- Fava (ledger visualization)
-- Plain-text ledger
-- Shell scripts
+title: "dannyhertz/call-sara"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Beancount", "Claude Code", "Git", "Fava (ledger visualization)", "Plain-text ledger", "Shell scripts"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- financial automation
-- personal finance
-- ledger management
-- Claude Code skill
-- budgeting
-source: https://github.com/dannyhertz/call-sara
+deployment_complexity: "Medium"
+tags: ["financial automation", "personal finance", "ledger management", "Claude Code skill", "budgeting"]
+source: "https://github.com/dannyhertz/call-sara"
 stars: 2
-language: Python
-last_updated: '2026-08-06T15:16:25Z'
-discovered_at: '2026-08-06T15:18:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T15:16:25Z"
+discovered_at: "2026-08-06T15:18:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

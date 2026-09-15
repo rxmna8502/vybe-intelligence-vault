@@ -1,30 +1,19 @@
 ---
-title: sumitsingh4411/repo-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- VS Code Extension API
-- DeepSeek API
-- Model Context Protocol (MCP)
-- Node.js
-- Terminal CLI
+title: "sumitsingh4411/repo-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "VS Code Extension API", "DeepSeek API", "Model Context Protocol (MCP)", "Node.js", "Terminal CLI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI coding agent
-- VS Code extension
-- autonomous editing
-- repo-aware
-- DeepSeek integration
-source: https://github.com/sumitsingh4411/repo-agent
+deployment_complexity: "Low"
+tags: ["AI coding agent", "VS Code extension", "autonomous editing", "repo-aware", "DeepSeek integration"]
+source: "https://github.com/sumitsingh4411/repo-agent"
 stars: 9
-language: None
-last_updated: '2026-09-02T19:08:05Z'
-discovered_at: '2026-09-02T19:11:19Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-02T19:08:05Z"
+discovered_at: "2026-09-02T19:11:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

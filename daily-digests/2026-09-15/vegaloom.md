@@ -1,32 +1,19 @@
 ---
-title: aki0225/vegaloom
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Git
-- pytest
-- eslint
-- SQLite
-- CLI
-- YAML
-- Codex CLI (optional)
+title: "aki0225/vegaloom"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Git", "pytest", "eslint", "SQLite", "CLI", "YAML", "Codex CLI (optional)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI coding workflow
-- deterministic validation
-- role isolation
-- fail-closed
-- verification framework
-source: https://github.com/aki0225/vegaloom
+deployment_complexity: "Medium"
+tags: ["AI coding workflow", "deterministic validation", "role isolation", "fail-closed", "verification framework"]
+source: "https://github.com/aki0225/vegaloom"
 stars: 3
-language: Python
-last_updated: '2026-08-01T15:59:20Z'
-discovered_at: '2026-08-01T16:06:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T15:59:20Z"
+discovered_at: "2026-08-01T16:06:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

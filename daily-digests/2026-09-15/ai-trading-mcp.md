@@ -1,32 +1,19 @@
 ---
-title: backtest-kit/ai-trading-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- GramJS (Telegram scraper)
-- Binance API (ccxt)
-- Backtest-Kit (trading engine)
-- Express.js (HTTP bridge)
-- Docker (optional deployment)
+title: "backtest-kit/ai-trading-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "GramJS (Telegram scraper)", "Binance API (ccxt)", "Backtest-Kit (trading engine)", "Express.js (HTTP bridge)", "Docker (optional deployment)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI trading
-- MCP server
-- Telegram integration
-- risk-managed execution
-- paper/live trading
-source: https://github.com/backtest-kit/ai-trading-mcp
+deployment_complexity: "Medium"
+tags: ["AI trading", "MCP server", "Telegram integration", "risk-managed execution", "paper/live trading"]
+source: "https://github.com/backtest-kit/ai-trading-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T15:30:49Z'
-discovered_at: '2026-08-09T15:35:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T15:30:49Z"
+discovered_at: "2026-08-09T15:35:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

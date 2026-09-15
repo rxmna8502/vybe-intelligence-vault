@@ -1,31 +1,19 @@
 ---
-title: 02-dino/dinomem
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- LLM (Large Language Model)
-- Git
-- Docker
-- Cron
-- Sentence Transformers (for embeddings)
-- OpenClaw (agent framework)
+title: "02-dino/dinomem"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "LLM (Large Language Model)", "Git", "Docker", "Cron", "Sentence Transformers (for embeddings)", "OpenClaw (agent framework)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- long-term memory
-- agent memory
-- LLM-powered
-- git-versioned
-- self-curating
-source: https://github.com/02-dino/dinomem
+deployment_complexity: "Medium"
+tags: ["long-term memory", "agent memory", "LLM-powered", "git-versioned", "self-curating"]
+source: "https://github.com/02-dino/dinomem"
 stars: 2
-language: Python
-last_updated: '2026-08-08T01:19:54Z'
-discovered_at: '2026-08-08T01:26:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T01:19:54Z"
+discovered_at: "2026-08-08T01:26:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

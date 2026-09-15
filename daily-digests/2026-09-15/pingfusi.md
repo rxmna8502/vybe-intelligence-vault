@@ -1,29 +1,19 @@
 ---
-title: alex-durango/pingfusi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- CLI
-- TypeScript (implied by modern JS practices)
+title: "alex-durango/pingfusi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "TypeScript (implied by modern JS practices)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- human-in-the-loop
-- AI agent augmentation
-- real-time feedback
-- MCP server
-- CLI tool
-source: https://github.com/alex-durango/pingfusi
+deployment_complexity: "Medium"
+tags: ["human-in-the-loop", "AI agent augmentation", "real-time feedback", "MCP server", "CLI tool"]
+source: "https://github.com/alex-durango/pingfusi"
 stars: 93
-language: JavaScript
-last_updated: '2026-08-10T15:55:36Z'
-discovered_at: '2026-08-10T16:07:47Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T15:55:36Z"
+discovered_at: "2026-08-10T16:07:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

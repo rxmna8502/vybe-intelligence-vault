@@ -1,33 +1,19 @@
 ---
-title: SiYangming/bioskills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Nextflow
-- Snakemake
-- Docker
-- Apptainer
-- YAML
-- JSON-Schema
-- Debian
-- Conda
+title: "SiYangming/bioskills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Nextflow", "Snakemake", "Docker", "Apptainer", "YAML", "JSON-Schema", "Debian", "Conda"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- bioinformatics
-- workflow-automation
-- AI-agent-toolkit
-- standardized-skills
-- containerized-tools
-source: https://github.com/SiYangming/bioskills
+deployment_complexity: "Medium"
+tags: ["bioinformatics", "workflow-automation", "AI-agent-toolkit", "standardized-skills", "containerized-tools"]
+source: "https://github.com/SiYangming/bioskills"
 stars: 0
-language: Python
-last_updated: '2026-09-01T02:41:37Z'
-discovered_at: '2026-09-01T02:50:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T02:41:37Z"
+discovered_at: "2026-09-01T02:50:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

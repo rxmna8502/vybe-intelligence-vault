@@ -1,30 +1,19 @@
 ---
-title: wyre-technology/threatlocker-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Docker
-- REST API
-- HTTP/Stdio Transport
+title: "wyre-technology/threatlocker-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "REST API", "HTTP/Stdio Transport"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- ThreatLocker integration
-- zero-trust management
-- approval workflows
-- audit logging
-source: https://github.com/wyre-technology/threatlocker-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "ThreatLocker integration", "zero-trust management", "approval workflows", "audit logging"]
+source: "https://github.com/wyre-technology/threatlocker-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-10T17:00:37Z'
-discovered_at: '2026-08-10T17:06:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T17:00:37Z"
+discovered_at: "2026-08-10T17:06:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

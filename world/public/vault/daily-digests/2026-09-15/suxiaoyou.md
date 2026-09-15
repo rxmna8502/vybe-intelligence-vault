@@ -1,32 +1,19 @@
 ---
-title: keliihall/suxiaoyou
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Python
-- Rust
-- JavaScript/TypeScript
-- Node.js
-- Tauri
-- React
-- Pytest
-- CI/CD (GitHub Actions)
+title: "keliihall/suxiaoyou"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Rust", "JavaScript/TypeScript", "Node.js", "Tauri", "React", "Pytest", "CI/CD (GitHub Actions)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- 本地优先
-- AI助理
-- 办公自动化
-- 文件处理
-- 知识工作
-source: https://github.com/keliihall/suxiaoyou
+deployment_complexity: "High"
+tags: ["\u672c\u5730\u4f18\u5148", "AI\u52a9\u7406", "\u529e\u516c\u81ea\u52a8\u5316", "\u6587\u4ef6\u5904\u7406", "\u77e5\u8bc6\u5de5\u4f5c"]
+source: "https://github.com/keliihall/suxiaoyou"
 stars: 0
-language: Python
-last_updated: '2026-07-11T18:50:54Z'
-discovered_at: '2026-07-11T18:59:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T18:50:54Z"
+discovered_at: "2026-07-11T18:59:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,36 +1,19 @@
 ---
-title: varun29ankuS/shodh-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- ONNX Runtime
-- GLiNER
-- MiniLM
-- Zenoh
-- ROS2
-- Docker
-- Python
-- JavaScript/TypeScript
-- RocksDB
-- Postcard
-- Bincode
+title: "varun29ankuS/shodh-memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "ONNX Runtime", "GLiNER", "MiniLM", "Zenoh", "ROS2", "Docker", "Python", "JavaScript/TypeScript", "RocksDB", "Postcard", "Bincode"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- persistent memory
-- offline-first
-- LLM-free
-- knowledge graph
-- ROS2/Zenoh
-source: https://github.com/varun29ankuS/shodh-memory
+deployment_complexity: "Medium"
+tags: ["persistent memory", "offline-first", "LLM-free", "knowledge graph", "ROS2/Zenoh"]
+source: "https://github.com/varun29ankuS/shodh-memory"
 stars: 243
-language: Rust
-last_updated: '2026-08-07T17:29:18Z'
-discovered_at: '2026-08-07T17:53:19Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T17:29:18Z"
+discovered_at: "2026-08-07T17:53:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

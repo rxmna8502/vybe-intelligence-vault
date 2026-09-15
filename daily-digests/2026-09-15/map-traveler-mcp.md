@@ -1,33 +1,19 @@
 ---
-title: mfukushim/map-traveler-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Google Maps API
-- Gemini AI (for image generation)
-- Bluesky SNS API
-- SQLite/Turso (for session management)
-- Model Context Protocol (MCP)
-- Streamable-HTTP
-- ComfyUI (optional for image generation)
+title: "mfukushim/map-traveler-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Google Maps API", "Gemini AI (for image generation)", "Bluesky SNS API", "SQLite/Turso (for session management)", "Model Context Protocol (MCP)", "Streamable-HTTP", "ComfyUI (optional for image generation)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- virtual travel
-- MCP server
-- Google Maps integration
-- AI avatar
-- real-time journey simulation
-source: https://github.com/mfukushim/map-traveler-mcp
+deployment_complexity: "Medium"
+tags: ["virtual travel", "MCP server", "Google Maps integration", "AI avatar", "real-time journey simulation"]
+source: "https://github.com/mfukushim/map-traveler-mcp"
 stars: 23
-language: TypeScript
-last_updated: '2026-08-03T13:36:28Z'
-discovered_at: '2026-08-03T13:42:25Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T13:36:28Z"
+discovered_at: "2026-08-03T13:42:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

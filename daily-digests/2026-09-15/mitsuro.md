@@ -1,30 +1,19 @@
 ---
-title: honeycomb-Technologies/Mitsuro
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- TypeScript
-- React Native
-- Expo
-- MCP (Model Context Protocol)
-- CLI/TUI
+title: "honeycomb-Technologies/Mitsuro"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "TypeScript", "React Native", "Expo", "MCP (Model Context Protocol)", "CLI/TUI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI workspace
-- agent orchestration
-- self-hosted
-- multi-provider
-- durable tasks
-source: https://github.com/honeycomb-Technologies/Mitsuro
+deployment_complexity: "Medium"
+tags: ["AI workspace", "agent orchestration", "self-hosted", "multi-provider", "durable tasks"]
+source: "https://github.com/honeycomb-Technologies/Mitsuro"
 stars: 5
-language: Rust
-last_updated: '2026-08-02T10:33:53Z'
-discovered_at: '2026-08-02T10:41:26Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-02T10:33:53Z"
+discovered_at: "2026-08-02T10:41:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

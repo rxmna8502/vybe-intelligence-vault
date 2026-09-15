@@ -1,29 +1,19 @@
 ---
-title: iyulab/ironhive-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- C#
-- .NET 10.0+
-- Microsoft.Extensions.AI
-- Model Context Protocol (MCP)
-- Dependency Injection
+title: "iyulab/ironhive-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["C#", ".NET 10.0+", "Microsoft.Extensions.AI", "Model Context Protocol (MCP)", "Dependency Injection"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent-engine
-- CLI-tools
-- MCP-integration
-- context-management
-- multi-agent
-source: https://github.com/iyulab/ironhive-agent
+deployment_complexity: "Medium"
+tags: ["agent-engine", "CLI-tools", "MCP-integration", "context-management", "multi-agent"]
+source: "https://github.com/iyulab/ironhive-agent"
 stars: 2
-language: C#
-last_updated: '2026-08-09T15:27:39Z'
-discovered_at: '2026-08-09T15:35:06Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-09T15:27:39Z"
+discovered_at: "2026-08-09T15:35:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: onelpawarai/ZYRAXON-AI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Electron
-- SolidJS
-- TailwindCSS
-- Bun
-- Node.js
-- SQLite
-- Drizzle ORM
-- OpenAI Whisper API
-- MCP Servers
+title: "onelpawarai/ZYRAXON-AI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Electron", "SolidJS", "TailwindCSS", "Bun", "Node.js", "SQLite", "Drizzle ORM", "OpenAI Whisper API", "MCP Servers"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- multi-model AI
-- computer control
-- automation
-- self-evolving
-source: https://github.com/onelpawarai/ZYRAXON-AI
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "multi-model AI", "computer control", "automation", "self-evolving"]
+source: "https://github.com/onelpawarai/ZYRAXON-AI"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-19T20:37:43Z'
-discovered_at: '2026-07-19T20:44:20Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T20:37:43Z"
+discovered_at: "2026-07-19T20:44:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: SeekStorm/SeekStorm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- SIMD
-- BM25F
-- ANN (Approximate Nearest Neighbor)
-- REST API
-- Docker
-- Python
-- C#
-- Java
+title: "SeekStorm/SeekStorm"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "SIMD", "BM25F", "ANN (Approximate Nearest Neighbor)", "REST API", "Docker", "Python", "C#", "Java"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector search
-- lexical search
-- hybrid search
-- multi-tenancy
-- real-time indexing
-source: https://github.com/SeekStorm/SeekStorm
+deployment_complexity: "Medium"
+tags: ["vector search", "lexical search", "hybrid search", "multi-tenancy", "real-time indexing"]
+source: "https://github.com/SeekStorm/SeekStorm"
 stars: 1904
-language: Rust
-last_updated: '2026-08-08T06:22:30Z'
-discovered_at: '2026-08-08T06:53:31Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-08T06:22:30Z"
+discovered_at: "2026-08-08T06:53:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

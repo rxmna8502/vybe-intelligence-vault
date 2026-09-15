@@ -1,32 +1,19 @@
 ---
-title: 0Smallcat0/otto
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastAPI
-- React
-- Vite
-- MCP (Model Context Protocol)
-- Pytest
-- Ruff
-- TypeScript
+title: "0Smallcat0/otto"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "React", "Vite", "MCP (Model Context Protocol)", "Pytest", "Ruff", "TypeScript"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-driven terminal
-- financial analytics
-- MCP integration
-- agent operability
-- safety-gated execution
-source: https://github.com/0Smallcat0/otto
+deployment_complexity: "Medium"
+tags: ["AI-driven terminal", "financial analytics", "MCP integration", "agent operability", "safety-gated execution"]
+source: "https://github.com/0Smallcat0/otto"
 stars: 0
-language: Python
-last_updated: '2026-07-10T10:47:19Z'
-discovered_at: '2026-07-10T10:51:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T10:47:19Z"
+discovered_at: "2026-07-10T10:51:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

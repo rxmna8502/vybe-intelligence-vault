@@ -1,36 +1,19 @@
 ---
-title: notprashanth/pvr-inox-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- GitHub Actions
-- Cloud Run
-- JSON API
-- HTTP
-- Telegram
-- Slack
-- Discord
-- Pushover
-- ntfy
-- Email
+title: "notprashanth/pvr-inox-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "GitHub Actions", "Cloud Run", "JSON API", "HTTP", "Telegram", "Slack", "Discord", "Pushover", "ntfy", "Email"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- cinema booking
-- real-time alerts
-- seat availability
-- MCP server
-- API monitoring
-source: https://github.com/notprashanth/pvr-inox-mcp
+deployment_complexity: "Medium"
+tags: ["cinema booking", "real-time alerts", "seat availability", "MCP server", "API monitoring"]
+source: "https://github.com/notprashanth/pvr-inox-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-08T14:26:31Z'
-discovered_at: '2026-08-08T14:35:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T14:26:31Z"
+discovered_at: "2026-08-08T14:35:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

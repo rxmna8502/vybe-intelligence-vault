@@ -1,32 +1,19 @@
 ---
-title: the-priest/PriestsBasilisk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- GTK4
-- Libadwaita
-- Linux (X11/Wayland)
-- Shell scripting
-- DeepSeek-V4-Flash (LLM)
-- OWASP Juice Shop (benchmark)
-- Escape Duck Store API (benchmark)
+title: "the-priest/PriestsBasilisk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "GTK4", "Libadwaita", "Linux (X11/Wayland)", "Shell scripting", "DeepSeek-V4-Flash (LLM)", "OWASP Juice Shop (benchmark)", "Escape Duck Store API (benchmark)"]
 quality_score: 9
 rag_relevance: 3
-deployment_complexity: Medium
-tags:
-- autonomous pentesting
-- LLM-driven security
-- black-box exploitation
-- local execution
-- exploit verification
-source: https://github.com/the-priest/PriestsBasilisk
+deployment_complexity: "Medium"
+tags: ["autonomous pentesting", "LLM-driven security", "black-box exploitation", "local execution", "exploit verification"]
+source: "https://github.com/the-priest/PriestsBasilisk"
 stars: 2
-language: Python
-last_updated: '2026-07-20T23:55:59Z'
-discovered_at: '2026-07-21T00:03:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T23:55:59Z"
+discovered_at: "2026-07-21T00:03:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: wasay-09/concierge-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Fastify
-- SQLite
-- BM25 (Okapi BM25F)
-- Mermaid.js
-- Node.js 22
-- Shadow DOM
-- Web Components
+title: "wasay-09/concierge-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Fastify", "SQLite", "BM25 (Okapi BM25F)", "Mermaid.js", "Node.js 22", "Shadow DOM", "Web Components"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- multi-tenant
-- grounded retrieval
-- zero-API-key
-- booking agent
-source: https://github.com/wasay-09/concierge-agent
+deployment_complexity: "Medium"
+tags: ["RAG", "multi-tenant", "grounded retrieval", "zero-API-key", "booking agent"]
+source: "https://github.com/wasay-09/concierge-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T11:26:37Z'
-discovered_at: '2026-08-09T11:32:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T11:26:37Z"
+discovered_at: "2026-08-09T11:32:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

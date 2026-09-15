@@ -1,29 +1,19 @@
 ---
-title: open-agent-ai-security/socxen
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Claude Code
-- Exabeam MCP
-- Claude Code Plugin System
-- Bash
+title: "open-agent-ai-security/socxen"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Code", "Exabeam MCP", "Claude Code Plugin System", "Bash"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- SOC automation
-- Exabeam integration
-- AI agent
-- Security operations
-- Governance guardrails
-source: https://github.com/open-agent-ai-security/socxen
+deployment_complexity: "Medium"
+tags: ["SOC automation", "Exabeam integration", "AI agent", "Security operations", "Governance guardrails"]
+source: "https://github.com/open-agent-ai-security/socxen"
 stars: 0
-language: Python
-last_updated: '2026-08-04T19:17:55Z'
-discovered_at: '2026-08-04T19:32:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T19:17:55Z"
+discovered_at: "2026-08-04T19:32:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

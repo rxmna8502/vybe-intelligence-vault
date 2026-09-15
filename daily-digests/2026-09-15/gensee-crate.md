@@ -1,34 +1,19 @@
 ---
-title: GenseeAI/gensee-crate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- Tauri
-- Linux syscalls
-- nftables
-- fanotify
-- seccomp
-- JavaScript/TypeScript
-- Node.js
-- CLI
-- WebAssembly
+title: "GenseeAI/gensee-crate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Tauri", "Linux syscalls", "nftables", "fanotify", "seccomp", "JavaScript/TypeScript", "Node.js", "CLI", "WebAssembly"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- runtime safety
-- AI agent monitoring
-- policy enforcement
-- provenance tracking
-- system security
-source: https://github.com/GenseeAI/gensee-crate
+deployment_complexity: "Medium"
+tags: ["runtime safety", "AI agent monitoring", "policy enforcement", "provenance tracking", "system security"]
+source: "https://github.com/GenseeAI/gensee-crate"
 stars: 108
-language: Rust
-last_updated: '2026-07-17T05:37:49Z'
-discovered_at: '2026-07-17T05:41:53Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-17T05:37:49Z"
+discovered_at: "2026-07-17T05:41:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

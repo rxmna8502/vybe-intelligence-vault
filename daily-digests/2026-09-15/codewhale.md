@@ -1,32 +1,19 @@
 ---
-title: Hmbown/CodeWhale
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- TypeScript
-- Node.js
-- Docker
-- Ollama
-- vLLM
-- SGLang
-- MCP (Model Context Protocol)
+title: "Hmbown/CodeWhale"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "TypeScript", "Node.js", "Docker", "Ollama", "vLLM", "SGLang", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- coding agent
-- terminal-based
-- multi-provider
-- Rust
-- MCP integration
-source: https://github.com/Hmbown/CodeWhale
+deployment_complexity: "Medium"
+tags: ["coding agent", "terminal-based", "multi-provider", "Rust", "MCP integration"]
+source: "https://github.com/Hmbown/CodeWhale"
 stars: 40888
-language: Rust
-last_updated: '2026-09-01T15:49:52Z'
-discovered_at: '2026-09-01T15:53:43Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-01T15:49:52Z"
+discovered_at: "2026-09-01T15:53:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

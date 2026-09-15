@@ -1,31 +1,19 @@
 ---
-title: P0w3r223/apply-scout
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- LLM (Claude models)
-- GitHub API
-- HTTP fetching
-- JSONL trajectory logging
-- pytest
-- ruff
+title: "P0w3r223/apply-scout"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LLM (Claude models)", "GitHub API", "HTTP fetching", "JSONL trajectory logging", "pytest", "ruff"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- LLM agent
-- job matching
-- evidence-based evaluation
-- safety budgets
-- trajectory logging
-source: https://github.com/P0w3r223/apply-scout
+deployment_complexity: "Medium"
+tags: ["LLM agent", "job matching", "evidence-based evaluation", "safety budgets", "trajectory logging"]
+source: "https://github.com/P0w3r223/apply-scout"
 stars: 0
-language: Python
-last_updated: '2026-09-03T18:47:33Z'
-discovered_at: '2026-09-03T19:05:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T18:47:33Z"
+discovered_at: "2026-09-03T19:05:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

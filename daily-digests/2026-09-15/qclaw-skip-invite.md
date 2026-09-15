@@ -1,27 +1,19 @@
 ---
-title: warm-mannalichen723/qclaw-skip-invite
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Windows API
-- Command-line Interface
+title: "warm-mannalichen723/qclaw-skip-invite"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Windows API", "Command-line Interface"]
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: Low
-tags:
-- bypass
-- QClaw
-- invite code
-- Windows utility
-- setup simplification
-source: https://github.com/warm-mannalichen723/qclaw-skip-invite
+deployment_complexity: "Low"
+tags: ["bypass", "QClaw", "invite code", "Windows utility", "setup simplification"]
+source: "https://github.com/warm-mannalichen723/qclaw-skip-invite"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-14T12:05:13Z'
-discovered_at: '2026-07-14T12:10:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T12:05:13Z"
+discovered_at: "2026-07-14T12:10:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

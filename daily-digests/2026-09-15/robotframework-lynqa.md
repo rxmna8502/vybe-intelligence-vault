@@ -1,29 +1,19 @@
 ---
-title: petit-robot/robotframework-lynqa
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Robot Framework
-- Gherkin
-- REST API
-- AI Test Execution
+title: "petit-robot/robotframework-lynqa"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Robot Framework", "Gherkin", "REST API", "AI Test Execution"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- test automation
-- AI-driven testing
-- Robot Framework
-- web application testing
-- Gherkin syntax
-source: https://github.com/petit-robot/robotframework-lynqa
+deployment_complexity: "Medium"
+tags: ["test automation", "AI-driven testing", "Robot Framework", "web application testing", "Gherkin syntax"]
+source: "https://github.com/petit-robot/robotframework-lynqa"
 stars: 0
-language: Python
-last_updated: '2026-07-16T14:58:41Z'
-discovered_at: '2026-07-16T15:00:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T14:58:41Z"
+discovered_at: "2026-07-16T15:00:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

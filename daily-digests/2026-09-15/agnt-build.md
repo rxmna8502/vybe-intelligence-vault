@@ -1,30 +1,19 @@
 ---
-title: agntbuilds/agnt-build
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Solana
-- EVM (Base/Polygon/ETH)
-- Bitcoin
-- Nous Research Hermes Agent
-- Static Site Generation (for landing page)
-- JSON (for ledger and configuration)
+title: "agntbuilds/agnt-build"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Solana", "EVM (Base/Polygon/ETH)", "Bitcoin", "Nous Research Hermes Agent", "Static Site Generation (for landing page)", "JSON (for ledger and configuration)"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- crypto commerce
-- on-chain revenue
-- AI agent operations
-- decentralized auditing
-source: https://github.com/agntbuilds/agnt-build
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "crypto commerce", "on-chain revenue", "AI agent operations", "decentralized auditing"]
+source: "https://github.com/agntbuilds/agnt-build"
 stars: 0
-language: None
-last_updated: '2026-08-04T17:48:38Z'
-discovered_at: '2026-08-04T17:49:53Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-04T17:48:38Z"
+discovered_at: "2026-08-04T17:49:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

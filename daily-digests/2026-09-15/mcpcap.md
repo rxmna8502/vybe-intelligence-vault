@@ -1,31 +1,19 @@
 ---
-title: mcpcap/mcpcap
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Scapy
-- FastMCP
-- Docker
-- HTTP/HTTPS
-- JSON
+title: "mcpcap/mcpcap"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Scapy", "FastMCP", "Docker", "HTTP/HTTPS", "JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- PCAP analysis
-- Network protocol analysis
-- MCP server
-- Security analysis
-- Forensic tool
-source: https://github.com/mcpcap/mcpcap
+deployment_complexity: "Medium"
+tags: ["PCAP analysis", "Network protocol analysis", "MCP server", "Security analysis", "Forensic tool"]
+source: "https://github.com/mcpcap/mcpcap"
 stars: 47
-language: Python
-last_updated: '2026-07-16T01:59:23Z'
-discovered_at: '2026-07-16T02:26:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T01:59:23Z"
+discovered_at: "2026-07-16T02:26:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

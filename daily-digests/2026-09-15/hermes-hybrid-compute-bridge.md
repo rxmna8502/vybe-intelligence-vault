@@ -1,32 +1,19 @@
 ---
-title: JackTheGit/hermes-hybrid-compute-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastAPI
-- Uvicorn
-- Docker
-- Ollama
-- SSH
-- Apple Silicon (M1/M2/M3/M4)
-- Claude Cloud
+title: "JackTheGit/hermes-hybrid-compute-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Uvicorn", "Docker", "Ollama", "SSH", "Apple Silicon (M1/M2/M3/M4)", "Claude Cloud"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- hybrid compute
-- cost optimization
-- Apple Silicon
-- Docker
-- API routing
-source: https://github.com/JackTheGit/hermes-hybrid-compute-bridge
+deployment_complexity: "Medium"
+tags: ["hybrid compute", "cost optimization", "Apple Silicon", "Docker", "API routing"]
+source: "https://github.com/JackTheGit/hermes-hybrid-compute-bridge"
 stars: 1
-language: Python
-last_updated: '2026-08-10T19:53:11Z'
-discovered_at: '2026-08-10T20:02:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T19:53:11Z"
+discovered_at: "2026-08-10T20:02:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

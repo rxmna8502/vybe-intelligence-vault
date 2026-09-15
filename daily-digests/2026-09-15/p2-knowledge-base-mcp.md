@@ -1,28 +1,19 @@
 ---
-title: ironsheep/P2-Knowledge-Base-MCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- GitHub Actions
-- Shell Scripting
+title: "ironsheep/P2-Knowledge-Base-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "GitHub Actions", "Shell Scripting"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Propeller 2
-- PASM2
-- Spin2
-- Embedded AI
-source: https://github.com/ironsheep/P2-Knowledge-Base-MCP
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Propeller 2", "PASM2", "Spin2", "Embedded AI"]
+source: "https://github.com/ironsheep/P2-Knowledge-Base-MCP"
 stars: 1
-language: Go
-last_updated: '2026-07-19T23:47:27Z'
-discovered_at: '2026-07-19T23:56:10Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-19T23:47:27Z"
+discovered_at: "2026-07-19T23:56:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

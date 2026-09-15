@@ -1,30 +1,19 @@
 ---
-title: zelentsov-dev/apple-ads-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- Apple Ads Platform API v1
-- Homebrew
-- CI/CD (GitHub Actions)
-- OCI (Docker)
+title: "zelentsov-dev/apple-ads-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "Apple Ads Platform API v1", "Homebrew", "CI/CD (GitHub Actions)", "OCI (Docker)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- Apple Ads API
-- read-only operations
-- campaign management
-- local-first
-source: https://github.com/zelentsov-dev/apple-ads-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Apple Ads API", "read-only operations", "campaign management", "local-first"]
+source: "https://github.com/zelentsov-dev/apple-ads-mcp"
 stars: 4
-language: Go
-last_updated: '2026-09-03T15:31:59Z'
-discovered_at: '2026-09-03T15:41:07Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T15:31:59Z"
+discovered_at: "2026-09-03T15:41:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

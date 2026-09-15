@@ -1,29 +1,19 @@
 ---
-title: justanotheruser82174/cua-lite
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Windows API
-- PyAutoGUI
-- OCR (Optical Character Recognition)
-- Natural Language Processing (NLP)
+title: "justanotheruser82174/cua-lite"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows API", "PyAutoGUI", "OCR (Optical Character Recognition)", "Natural Language Processing (NLP)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- desktop automation
-- Windows tool
-- no-code automation
-- productivity
-- GUI interaction
-source: https://github.com/justanotheruser82174/cua-lite
+deployment_complexity: "Low"
+tags: ["desktop automation", "Windows tool", "no-code automation", "productivity", "GUI interaction"]
+source: "https://github.com/justanotheruser82174/cua-lite"
 stars: 0
-language: Python
-last_updated: '2026-09-01T21:11:26Z'
-discovered_at: '2026-09-01T22:18:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T21:11:26Z"
+discovered_at: "2026-09-01T22:18:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

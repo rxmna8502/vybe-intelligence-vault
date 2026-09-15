@@ -1,29 +1,19 @@
 ---
-title: spyo1331/AI_Quiz_mvp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- LangChain
-- LangGraph
-- HTML
-- Docker
+title: "spyo1331/AI_Quiz_mvp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "LangChain", "LangGraph", "HTML", "Docker"]
 quality_score: 3
 rag_relevance: 4
-deployment_complexity: High
-tags:
-- personality quiz
-- Russian language
-- LangChain
-- Docker
-- AI
-source: https://github.com/spyo1331/AI_Quiz_mvp
+deployment_complexity: "High"
+tags: ["personality quiz", "Russian language", "LangChain", "Docker", "AI"]
+source: "https://github.com/spyo1331/AI_Quiz_mvp"
 stars: 0
-language: HTML
-last_updated: '2026-08-08T12:41:31Z'
-discovered_at: '2026-08-08T12:47:11Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-08T12:41:31Z"
+discovered_at: "2026-08-08T12:47:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,41 +1,19 @@
 ---
-title: beepboop2025/seiche
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- AGPL-3.0
-- FRED API
-- NY Fed Markets API
-- OFR STFM API
-- Treasury FiscalData API
-- CFTC API
-- ECB Data Portal
-- DeFiLlama API
-- Coinbase Exchange API
-- NumPy
-- Pandas
-- SciPy
-- Scikit-learn
-- Time Series Analysis
-- Statistical Forecasting
-- Hash-Chaining for Tamper-Evident Records
+title: "beepboop2025/seiche"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "AGPL-3.0", "FRED API", "NY Fed Markets API", "OFR STFM API", "Treasury FiscalData API", "CFTC API", "ECB Data Portal", "DeFiLlama API", "Coinbase Exchange API", "NumPy", "Pandas", "SciPy", "Scikit-learn", "Time Series Analysis", "Statistical Forecasting", "Hash-Chaining for Tamper-Evident Records"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- financial stress monitoring
-- funding liquidity
-- time-series forecasting
-- public API integration
-- tamper-evident analytics
-source: https://github.com/beepboop2025/seiche
+deployment_complexity: "High"
+tags: ["financial stress monitoring", "funding liquidity", "time-series forecasting", "public API integration", "tamper-evident analytics"]
+source: "https://github.com/beepboop2025/seiche"
 stars: 0
-language: Python
-last_updated: '2026-07-12T22:36:50Z'
-discovered_at: '2026-07-12T22:44:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T22:36:50Z"
+discovered_at: "2026-07-12T22:44:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

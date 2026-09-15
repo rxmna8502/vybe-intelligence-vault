@@ -1,33 +1,19 @@
 ---
-title: mindwear-capitian/local-austin-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Node.js
-- Model Context Protocol (MCP)
-- TypeScript
-- Socrata API
-- ArcGIS API
-- OSRM
-- Valhalla
-- Municode API
-- GitHub Actions
+title: "mindwear-capitian/local-austin-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "Model Context Protocol (MCP)", "TypeScript", "Socrata API", "ArcGIS API", "OSRM", "Valhalla", "Municode API", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- Austin data
-- property lookup
-- civic records
-- real estate
-source: https://github.com/mindwear-capitian/local-austin-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "Austin data", "property lookup", "civic records", "real estate"]
+source: "https://github.com/mindwear-capitian/local-austin-mcp"
 stars: 2
-language: JavaScript
-last_updated: '2026-07-19T14:41:46Z'
-discovered_at: '2026-07-19T14:54:29Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-19T14:41:46Z"
+discovered_at: "2026-07-19T14:54:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

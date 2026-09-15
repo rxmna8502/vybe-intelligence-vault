@@ -1,35 +1,19 @@
 ---
-title: MarshallBear1/juno-open-health-tools
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- TypeScript
-- JSON Schema
-- CSV
-- Notion API
-- Chrome/Edge Extension API
-- Model Context Protocol (MCP)
-- OpenAI Plugin
-- Canva
-- PowerPoint
-- PDF
+title: "MarshallBear1/juno-open-health-tools"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "TypeScript", "JSON Schema", "CSV", "Notion API", "Chrome/Edge Extension API", "Model Context Protocol (MCP)", "OpenAI Plugin", "Canva", "PowerPoint", "PDF"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- health data
-- symptom tracking
-- patient-doctor communication
-- privacy-focused
-- open-source
-source: https://github.com/MarshallBear1/juno-open-health-tools
+deployment_complexity: "Medium"
+tags: ["health data", "symptom tracking", "patient-doctor communication", "privacy-focused", "open-source"]
+source: "https://github.com/MarshallBear1/juno-open-health-tools"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-02T20:48:33Z'
-discovered_at: '2026-08-02T20:54:52Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T20:48:33Z"
+discovered_at: "2026-08-02T20:54:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

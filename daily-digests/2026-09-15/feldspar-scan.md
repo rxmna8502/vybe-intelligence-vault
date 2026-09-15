@@ -1,28 +1,19 @@
 ---
-title: project-feldspar-resources/feldspar-scan
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python 3.11+
-- OSV.dev API
-- Git
-- Standard Library (json, re, urllib, etc.)
+title: "project-feldspar-resources/feldspar-scan"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.11+", "OSV.dev API", "Git", "Standard Library (json, re, urllib, etc.)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- security scanning
-- dependency vulnerability
-- secret detection
-- configuration checks
-- deterministic
-source: https://github.com/project-feldspar-resources/feldspar-scan
+deployment_complexity: "Low"
+tags: ["security scanning", "dependency vulnerability", "secret detection", "configuration checks", "deterministic"]
+source: "https://github.com/project-feldspar-resources/feldspar-scan"
 stars: 0
-language: Python
-last_updated: '2026-09-03T22:04:39Z'
-discovered_at: '2026-09-03T22:05:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T22:04:39Z"
+discovered_at: "2026-09-03T22:05:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

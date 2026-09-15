@@ -1,30 +1,19 @@
 ---
-title: leapd-ai/leapd-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- Next.js
-- Stripe
+title: "leapd-ai/leapd-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "Next.js", "Stripe"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI co-founder
-- business automation
-- MCP server
-- agent orchestration
-- startup tools
-source: https://github.com/leapd-ai/leapd-mcp
+deployment_complexity: "Low"
+tags: ["AI co-founder", "business automation", "MCP server", "agent orchestration", "startup tools"]
+source: "https://github.com/leapd-ai/leapd-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T01:23:47Z'
-discovered_at: '2026-08-09T01:33:14Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T01:23:47Z"
+discovered_at: "2026-08-09T01:33:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

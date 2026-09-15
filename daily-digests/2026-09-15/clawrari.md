@@ -1,31 +1,19 @@
 ---
-title: prasithg/clawrari
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- OpenClaw
-- Shell
-- Markdown
-- Bash
-- File-based memory systems
-- Model routing and overlays
-- Queue and ledger patterns
+title: "prasithg/clawrari"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["OpenClaw", "Shell", "Markdown", "Bash", "File-based memory systems", "Model routing and overlays", "Queue and ledger patterns"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI infrastructure
-- OpenClaw
-- session continuity
-- self-improvement loops
-- production-grade AI
-source: https://github.com/prasithg/clawrari
+deployment_complexity: "Medium"
+tags: ["AI infrastructure", "OpenClaw", "session continuity", "self-improvement loops", "production-grade AI"]
+source: "https://github.com/prasithg/clawrari"
 stars: 0
-language: Shell
-last_updated: '2026-08-07T13:02:03Z'
-discovered_at: '2026-08-07T13:02:27Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-07T13:02:03Z"
+discovered_at: "2026-08-07T13:02:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

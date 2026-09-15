@@ -1,29 +1,19 @@
 ---
-title: beggarticksarthurtatum121/reddit-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Chrome Extension
-- Browser Automation
-- SKILL.md Protocol
-- Windows OS
+title: "beggarticksarthurtatum121/reddit-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Chrome Extension", "Browser Automation", "SKILL.md Protocol", "Windows OS"]
 quality_score: 5
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- browser automation
-- Reddit API
-- AI agent integration
-- Chrome extension
-- task automation
-source: https://github.com/beggarticksarthurtatum121/reddit-skills
+deployment_complexity: "Low"
+tags: ["browser automation", "Reddit API", "AI agent integration", "Chrome extension", "task automation"]
+source: "https://github.com/beggarticksarthurtatum121/reddit-skills"
 stars: 2
-language: Python
-last_updated: '2026-07-11T10:59:47Z'
-discovered_at: '2026-07-11T11:03:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T10:59:47Z"
+discovered_at: "2026-07-11T11:03:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

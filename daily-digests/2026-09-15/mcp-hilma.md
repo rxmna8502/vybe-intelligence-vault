@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-hilma
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- REST API
-- JSON
+title: "pipeworx-io/mcp-hilma"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "JSON"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP
-- Finnish procurement
-- public data
-- Hilma
-- AI integration
-source: https://github.com/pipeworx-io/mcp-hilma
+deployment_complexity: "Low"
+tags: ["MCP", "Finnish procurement", "public data", "Hilma", "AI integration"]
+source: "https://github.com/pipeworx-io/mcp-hilma"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-19T20:31:42Z'
-discovered_at: '2026-07-19T20:44:31Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T20:31:42Z"
+discovered_at: "2026-07-19T20:44:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

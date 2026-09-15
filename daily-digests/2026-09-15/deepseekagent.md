@@ -1,32 +1,19 @@
 ---
-title: Lufei3/DeepseekAgent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- DeepSeek API
-- TypeScript Compiler API
-- SSE (Server-Sent Events)
-- RESTful HTTP Server
-- JSONL for logging
-- Markdown for documentation
+title: "Lufei3/DeepseekAgent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "DeepSeek API", "TypeScript Compiler API", "SSE (Server-Sent Events)", "RESTful HTTP Server", "JSONL for logging", "Markdown for documentation"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agent
-- Task Automation
-- Code Modification
-- Verification Workflow
-- Local-First
-source: https://github.com/Lufei3/DeepseekAgent
+deployment_complexity: "Medium"
+tags: ["AI Agent", "Task Automation", "Code Modification", "Verification Workflow", "Local-First"]
+source: "https://github.com/Lufei3/DeepseekAgent"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T06:52:36Z'
-discovered_at: '2026-08-09T06:58:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T06:52:36Z"
+discovered_at: "2026-08-09T06:58:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

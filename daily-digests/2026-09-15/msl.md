@@ -1,37 +1,19 @@
 ---
-title: riquelmechile/Msl
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- DeepSeek LLM
-- SQLite
-- Agent Message Bus
-- Telegram Bot (grammY)
-- MiniMax (image/video generation)
-- Medusa (e-commerce backend)
-- MCP Server
-- Next.js
-- React
-- Vitest
-- Playwright
+title: "riquelmechile/Msl"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "DeepSeek LLM", "SQLite", "Agent Message Bus", "Telegram Bot (grammY)", "MiniMax (image/video generation)", "Medusa (e-commerce backend)", "MCP Server", "Next.js", "React", "Vitest", "Playwright"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- AI agents
-- e-commerce automation
-- neural memory
-- human-in-the-loop
-- multi-agent systems
-source: https://github.com/riquelmechile/Msl
+deployment_complexity: "High"
+tags: ["AI agents", "e-commerce automation", "neural memory", "human-in-the-loop", "multi-agent systems"]
+source: "https://github.com/riquelmechile/Msl"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-10T20:19:57Z'
-discovered_at: '2026-07-10T20:22:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T20:19:57Z"
+discovered_at: "2026-07-10T20:22:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

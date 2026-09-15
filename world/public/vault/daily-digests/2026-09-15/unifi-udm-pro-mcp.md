@@ -1,31 +1,19 @@
 ---
-title: rodolfoconcepcion/unifi-udm-pro-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Node.js
-- Model Context Protocol (MCP)
-- JavaScript
-- Docker
-- REST API
-- HTTPS
-- SSL/TLS
+title: "rodolfoconcepcion/unifi-udm-pro-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "Model Context Protocol (MCP)", "JavaScript", "Docker", "REST API", "HTTPS", "SSL/TLS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP Server
-- UniFi UDM Pro
-- Network Management
-- Local API Integration
-- 2FA Bypass
-source: https://github.com/rodolfoconcepcion/unifi-udm-pro-mcp
+deployment_complexity: "Low"
+tags: ["MCP Server", "UniFi UDM Pro", "Network Management", "Local API Integration", "2FA Bypass"]
+source: "https://github.com/rodolfoconcepcion/unifi-udm-pro-mcp"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-05T22:02:42Z'
-discovered_at: '2026-08-05T22:15:10Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-05T22:02:42Z"
+discovered_at: "2026-08-05T22:15:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

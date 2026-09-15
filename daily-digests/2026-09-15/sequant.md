@@ -1,35 +1,19 @@
 ---
-title: sequant-io/sequant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Git
-- GitHub CLI
-- Model Context Protocol (MCP)
-- Semgrep
-- OWASP
-- Ink (TUI framework)
-- npm
-- Claude Code
-- Aider
+title: "sequant-io/sequant"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Git", "GitHub CLI", "Model Context Protocol (MCP)", "Semgrep", "OWASP", "Ink (TUI framework)", "npm", "Claude Code", "Aider"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI coding agent
-- GitHub issue automation
-- quality gates
-- worktree isolation
-- MCP server
-source: https://github.com/sequant-io/sequant
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "GitHub issue automation", "quality gates", "worktree isolation", "MCP server"]
+source: "https://github.com/sequant-io/sequant"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-17T14:39:17Z'
-discovered_at: '2026-07-17T14:43:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T14:39:17Z"
+discovered_at: "2026-07-17T14:43:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: appreply-co/mcp-appstore
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- npm
+title: "appreply-co/mcp-appstore"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP Server
-- App Store Data
-- ASO Tools
-- Review Analysis
-- App Discovery
-source: https://github.com/appreply-co/mcp-appstore
+deployment_complexity: "Low"
+tags: ["MCP Server", "App Store Data", "ASO Tools", "Review Analysis", "App Discovery"]
+source: "https://github.com/appreply-co/mcp-appstore"
 stars: 63
-language: TypeScript
-last_updated: '2026-08-03T18:44:16Z'
-discovered_at: '2026-08-03T18:52:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T18:44:16Z"
+discovered_at: "2026-08-03T18:52:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

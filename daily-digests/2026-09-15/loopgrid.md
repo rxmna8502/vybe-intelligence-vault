@@ -1,35 +1,19 @@
 ---
-title: cybertechsoft/loopgrid
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- PostgreSQL
-- Docker
-- Ed25519
-- SHA-256
-- AES-256-GCM
-- REST API
-- TypeScript/JavaScript
-- OpenTelemetry/OTLP
-- RFC3161
-- AWS KMS
+title: "cybertechsoft/loopgrid"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PostgreSQL", "Docker", "Ed25519", "SHA-256", "AES-256-GCM", "REST API", "TypeScript/JavaScript", "OpenTelemetry/OTLP", "RFC3161", "AWS KMS"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- evidence logging
-- AI governance
-- tamper-evident records
-- agent decision tracking
-- audit trail
-source: https://github.com/cybertechsoft/loopgrid
+deployment_complexity: "Medium"
+tags: ["evidence logging", "AI governance", "tamper-evident records", "agent decision tracking", "audit trail"]
+source: "https://github.com/cybertechsoft/loopgrid"
 stars: 0
-language: Python
-last_updated: '2026-09-03T06:21:16Z'
-discovered_at: '2026-09-03T22:13:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T06:21:16Z"
+discovered_at: "2026-09-03T22:13:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

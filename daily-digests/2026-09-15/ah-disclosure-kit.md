@@ -1,31 +1,19 @@
 ---
-title: hc938456/ah-disclosure-kit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SQLite
-- PDF processing
-- OCR (Tesseract)
-- GitHub Actions
-- Claude CLI
+title: "hc938456/ah-disclosure-kit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "PDF processing", "OCR (Tesseract)", "GitHub Actions", "Claude CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- financial disclosures
-- A-share
-- H-share
-- MCP server
-- evidence-based analysis
-source: https://github.com/hc938456/ah-disclosure-kit
+deployment_complexity: "Medium"
+tags: ["financial disclosures", "A-share", "H-share", "MCP server", "evidence-based analysis"]
+source: "https://github.com/hc938456/ah-disclosure-kit"
 stars: 3
-language: Python
-last_updated: '2026-08-05T02:12:33Z'
-discovered_at: '2026-08-05T02:17:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T02:12:33Z"
+discovered_at: "2026-08-05T02:17:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

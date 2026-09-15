@@ -1,32 +1,19 @@
 ---
-title: srknthbala/Operance
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Flask
-- pytest
-- Bash
-- Amazon Bedrock (Nova)
-- AWS Lambda
-- HTML
-- X11 screen capture
+title: "srknthbala/Operance"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Flask", "pytest", "Bash", "Amazon Bedrock (Nova)", "AWS Lambda", "HTML", "X11 screen capture"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: High
-tags:
-- debugging simulation
-- AI coaching
-- CI pipeline
-- cloud engineering
-- hiring assessment
-source: https://github.com/srknthbala/Operance
+deployment_complexity: "High"
+tags: ["debugging simulation", "AI coaching", "CI pipeline", "cloud engineering", "hiring assessment"]
+source: "https://github.com/srknthbala/Operance"
 stars: 1
-language: Python
-last_updated: '2026-08-01T20:49:41Z'
-discovered_at: '2026-08-01T20:50:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T20:49:41Z"
+discovered_at: "2026-08-01T20:50:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

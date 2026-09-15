@@ -1,34 +1,19 @@
 ---
-title: LuGuBo/Synapse-Engine
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- Python
-- TypeScript
-- Markdown
-- Gemini API
-- Claude Code
-- Cursor
-- Windsurf
+title: "LuGuBo/Synapse-Engine"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Python", "TypeScript", "Markdown", "Gemini API", "Claude Code", "Cursor", "Windsurf"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent governance
-- rate-limiting
-- AST knowledge graph
-- TDD quality gates
-- cross-IDE compatibility
-source: https://github.com/LuGuBo/Synapse-Engine
+deployment_complexity: "Medium"
+tags: ["AI agent governance", "rate-limiting", "AST knowledge graph", "TDD quality gates", "cross-IDE compatibility"]
+source: "https://github.com/LuGuBo/Synapse-Engine"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-09T23:33:08Z'
-discovered_at: '2026-08-09T23:35:34Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-09T23:33:08Z"
+discovered_at: "2026-08-09T23:35:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

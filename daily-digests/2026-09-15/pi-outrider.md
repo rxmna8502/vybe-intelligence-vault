@@ -1,28 +1,19 @@
 ---
-title: raft-computer/pi-outrider
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Pi Agent Framework
-- OpenAI Codex API
-- State Machine Logic
+title: "raft-computer/pi-outrider"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Pi Agent Framework", "OpenAI Codex API", "State Machine Logic"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- model handoff
-- agent orchestration
-- pi framework
-- multi-model workflow
-- code execution
-source: https://github.com/raft-computer/pi-outrider
+deployment_complexity: "Medium"
+tags: ["model handoff", "agent orchestration", "pi framework", "multi-model workflow", "code execution"]
+source: "https://github.com/raft-computer/pi-outrider"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T03:41:45Z'
-discovered_at: '2026-08-01T03:43:36Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T03:41:45Z"
+discovered_at: "2026-08-01T03:43:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

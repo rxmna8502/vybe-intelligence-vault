@@ -1,35 +1,19 @@
 ---
-title: Lexus2016/turbo_quant_memory
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- LanceDB
-- PyTorch
-- ONNX Runtime
-- BM25
-- Sentence Transformers
-- FastEmbed
-- Argon2id
-- SQLite
-- Git
+title: "Lexus2016/turbo_quant_memory"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "LanceDB", "PyTorch", "ONNX Runtime", "BM25", "Sentence Transformers", "FastEmbed", "Argon2id", "SQLite", "Git"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- persistent memory
-- knowledge graph
-- MCP server
-- token optimization
-- AI agent memory
-source: https://github.com/Lexus2016/turbo_quant_memory
+deployment_complexity: "Medium"
+tags: ["persistent memory", "knowledge graph", "MCP server", "token optimization", "AI agent memory"]
+source: "https://github.com/Lexus2016/turbo_quant_memory"
 stars: 8
-language: Python
-last_updated: '2026-07-15T14:46:30Z'
-discovered_at: '2026-07-15T14:49:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T14:46:30Z"
+discovered_at: "2026-07-15T14:49:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

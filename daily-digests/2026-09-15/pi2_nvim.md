@@ -1,30 +1,19 @@
 ---
-title: zgs225/pi2.nvim
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Lua
-- Neovim
-- pi coding agent
-- RPC
-- Treesitter
-- render-markdown.nvim
+title: "zgs225/pi2.nvim"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Lua", "Neovim", "pi coding agent", "RPC", "Treesitter", "render-markdown.nvim"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Neovim plugin
-- AI coding assistant
-- pi agent integration
-- session management
-- prompt engineering
-source: https://github.com/zgs225/pi2.nvim
+deployment_complexity: "Medium"
+tags: ["Neovim plugin", "AI coding assistant", "pi agent integration", "session management", "prompt engineering"]
+source: "https://github.com/zgs225/pi2.nvim"
 stars: 10
-language: Lua
-last_updated: '2026-08-04T07:38:57Z'
-discovered_at: '2026-08-04T07:39:53Z'
-evaluated_by: mistral-small-latest
+language: "Lua"
+last_updated: "2026-08-04T07:38:57Z"
+discovered_at: "2026-08-04T07:39:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: saturnone1/Cline_for_VisualStudio_2022_17.12
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- C#
-- .NET Framework 4.8/4.7.2
-- Visual Studio VSIX
-- WebView2
-- Node.js
-- TypeScript
-- React
-- Vite
-- JSON-RPC
-- Named Pipes
+title: "saturnone1/Cline_for_VisualStudio_2022_17.12"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["C#", ".NET Framework 4.8/4.7.2", "Visual Studio VSIX", "WebView2", "Node.js", "TypeScript", "React", "Vite", "JSON-RPC", "Named Pipes"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Visual Studio
-- AI Coding Agent
-- VSIX Extension
-- WebView2
-- Node Sidecar
-source: https://github.com/saturnone1/Cline_for_VisualStudio_2022_17.12
+deployment_complexity: "Medium"
+tags: ["Visual Studio", "AI Coding Agent", "VSIX Extension", "WebView2", "Node Sidecar"]
+source: "https://github.com/saturnone1/Cline_for_VisualStudio_2022_17.12"
 stars: 0
-language: None
-last_updated: '2026-08-07T15:56:41Z'
-discovered_at: '2026-08-07T16:01:47Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T15:56:41Z"
+discovered_at: "2026-08-07T16:01:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

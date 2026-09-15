@@ -1,41 +1,19 @@
 ---
-title: makr-code/ThemisDB
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- C++
-- RocksDB
-- Raft consensus
-- HNSW/FAISS (vector search)
-- llama.cpp
-- ONNX
-- Prometheus
-- OpenTelemetry
-- gRPC
-- REST/GraphQL
-- Docker
-- Kubernetes
-- MVCC
-- SSI
-- 2PC/SAGA
-- AES-256-GCM
-- eIDAS timestamping
+title: "makr-code/ThemisDB"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["C++", "RocksDB", "Raft consensus", "HNSW/FAISS (vector search)", "llama.cpp", "ONNX", "Prometheus", "OpenTelemetry", "gRPC", "REST/GraphQL", "Docker", "Kubernetes", "MVCC", "SSI", "2PC/SAGA", "AES-256-GCM", "eIDAS timestamping"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- multi-model database
-- AI/LLM integration
-- distributed transactions
-- vector search
-- RAG pipeline
-source: https://github.com/makr-code/ThemisDB
+deployment_complexity: "High"
+tags: ["multi-model database", "AI/LLM integration", "distributed transactions", "vector search", "RAG pipeline"]
+source: "https://github.com/makr-code/ThemisDB"
 stars: 7
-language: C++
-last_updated: '2026-08-07T15:23:59Z'
-discovered_at: '2026-08-07T16:03:39Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-08-07T15:23:59Z"
+discovered_at: "2026-08-07T16:03:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

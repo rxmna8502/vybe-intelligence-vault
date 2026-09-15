@@ -1,33 +1,19 @@
 ---
-title: SanaAraj/arabic-knowledge-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastMCP
-- asyncio
-- httpx
-- respx
-- uv
-- Model Context Protocol (MCP)
-- MediaWiki API
-- RSS feeds
+title: "SanaAraj/arabic-knowledge-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "asyncio", "httpx", "respx", "uv", "Model Context Protocol (MCP)", "MediaWiki API", "RSS feeds"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- Arabic knowledge
-- Quran API
-- Hadith collections
-- RAG tooling
-source: https://github.com/SanaAraj/arabic-knowledge-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "Arabic knowledge", "Quran API", "Hadith collections", "RAG tooling"]
+source: "https://github.com/SanaAraj/arabic-knowledge-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-18T16:51:25Z'
-discovered_at: '2026-07-18T16:56:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T16:51:25Z"
+discovered_at: "2026-07-18T16:56:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

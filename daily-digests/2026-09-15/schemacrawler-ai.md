@@ -1,29 +1,19 @@
 ---
-title: schemacrawler/SchemaCrawler-AI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Java
-- Spring Boot
-- MCP (Model Context Protocol)
-- Docker
-- SchemaCrawler
+title: "schemacrawler/SchemaCrawler-AI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Java", "Spring Boot", "MCP (Model Context Protocol)", "Docker", "SchemaCrawler"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- database schema
-- MCP server
-- AI agents
-- metadata querying
-- data discovery
-source: https://github.com/schemacrawler/SchemaCrawler-AI
+deployment_complexity: "Medium"
+tags: ["database schema", "MCP server", "AI agents", "metadata querying", "data discovery"]
+source: "https://github.com/schemacrawler/SchemaCrawler-AI"
 stars: 10
-language: Java
-last_updated: '2026-07-11T20:05:57Z'
-discovered_at: '2026-07-11T20:09:52Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-07-11T20:05:57Z"
+discovered_at: "2026-07-11T20:09:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

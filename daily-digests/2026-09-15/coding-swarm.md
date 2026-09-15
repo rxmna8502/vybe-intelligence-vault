@@ -1,28 +1,19 @@
 ---
-title: MihailBausov/coding-swarm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Docker
-- CLI
-- Multi-agent systems
+title: "MihailBausov/coding-swarm"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Docker", "CLI", "Multi-agent systems"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-agent collaboration
-- AI-driven development
-- Docker automation
-- code generation
-- software maintenance
-source: https://github.com/MihailBausov/coding-swarm
+deployment_complexity: "Medium"
+tags: ["multi-agent collaboration", "AI-driven development", "Docker automation", "code generation", "software maintenance"]
+source: "https://github.com/MihailBausov/coding-swarm"
 stars: 0
-language: Python
-last_updated: '2026-07-17T02:49:32Z'
-discovered_at: '2026-07-17T02:52:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T02:49:32Z"
+discovered_at: "2026-07-17T02:52:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

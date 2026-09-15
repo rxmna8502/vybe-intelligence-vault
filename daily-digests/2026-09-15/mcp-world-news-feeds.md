@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-world-news-feeds
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- RSS/Atom/RDF Parsing
-- HTTP Proxy Integration
+title: "pipeworx-io/mcp-world-news-feeds"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "RSS/Atom/RDF Parsing", "HTTP Proxy Integration"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP Server
-- News Feeds
-- RSS Aggregator
-- AI Data Gateway
-- Real-time Data
-source: https://github.com/pipeworx-io/mcp-world-news-feeds
+deployment_complexity: "Low"
+tags: ["MCP Server", "News Feeds", "RSS Aggregator", "AI Data Gateway", "Real-time Data"]
+source: "https://github.com/pipeworx-io/mcp-world-news-feeds"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:30:58Z'
-discovered_at: '2026-08-04T07:42:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:30:58Z"
+discovered_at: "2026-08-04T07:42:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

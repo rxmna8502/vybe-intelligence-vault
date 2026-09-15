@@ -1,29 +1,19 @@
 ---
-title: jainarjav80-sys/RepoIntel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- NitroStack
-- Model Context Protocol (MCP)
-- Node.js
-- Git CLI
+title: "jainarjav80-sys/RepoIntel"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "NitroStack", "Model Context Protocol (MCP)", "Node.js", "Git CLI"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- Git risk analysis
-- offline analysis
-- PR review
-- repository health
-source: https://github.com/jainarjav80-sys/RepoIntel
+deployment_complexity: "Medium"
+tags: ["MCP server", "Git risk analysis", "offline analysis", "PR review", "repository health"]
+source: "https://github.com/jainarjav80-sys/RepoIntel"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-18T17:51:57Z'
-discovered_at: '2026-07-18T17:56:25Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T17:51:57Z"
+discovered_at: "2026-07-18T17:56:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

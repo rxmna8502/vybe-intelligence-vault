@@ -1,35 +1,19 @@
 ---
-title: markfietje/brain-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- Axum
-- rusqlite
-- r2d2
-- tokio
-- SQLite
-- model2vec
-- minishlab/potion-retrieval-32M
-- JWT
-- HMAC
-- AES-256-GCM
+title: "markfietje/brain-server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Axum", "rusqlite", "r2d2", "tokio", "SQLite", "model2vec", "minishlab/potion-retrieval-32M", "JWT", "HMAC", "AES-256-GCM"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- semantic memory
-- knowledge graph
-- edge AI
-- hybrid retrieval
-- temporal evidence
-source: https://github.com/markfietje/brain-server
+deployment_complexity: "Medium"
+tags: ["semantic memory", "knowledge graph", "edge AI", "hybrid retrieval", "temporal evidence"]
+source: "https://github.com/markfietje/brain-server"
 stars: 0
-language: Rust
-last_updated: '2026-08-03T02:52:30Z'
-discovered_at: '2026-08-03T02:54:39Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-03T02:52:30Z"
+discovered_at: "2026-08-03T02:54:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

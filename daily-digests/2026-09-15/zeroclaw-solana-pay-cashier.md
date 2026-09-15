@@ -1,33 +1,19 @@
 ---
-title: Chengyuann/zeroclaw-solana-pay-cashier
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Solana Pay
-- Solana Blockchain
-- Node.js
-- Rust
-- WASM
-- Ed25519
-- SHA-256
-- ZeroClaw Agent Framework
+title: "Chengyuann/zeroclaw-solana-pay-cashier"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Solana Pay", "Solana Blockchain", "Node.js", "Rust", "WASM", "Ed25519", "SHA-256", "ZeroClaw Agent Framework"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- non-custodial payments
-- proof-carrying
-- Solana Pay
-- cashier workflow
-- tamper-evident receipts
-source: https://github.com/Chengyuann/zeroclaw-solana-pay-cashier
+deployment_complexity: "Medium"
+tags: ["non-custodial payments", "proof-carrying", "Solana Pay", "cashier workflow", "tamper-evident receipts"]
+source: "https://github.com/Chengyuann/zeroclaw-solana-pay-cashier"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-02T10:40:44Z'
-discovered_at: '2026-08-02T10:41:21Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T10:40:44Z"
+discovered_at: "2026-08-02T10:41:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

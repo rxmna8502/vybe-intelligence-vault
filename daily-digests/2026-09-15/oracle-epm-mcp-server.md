@@ -1,29 +1,19 @@
 ---
-title: fmepm/oracle-epm-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- REST APIs
-- Model Context Protocol (MCP)
-- Oracle EPM Cloud
+title: "fmepm/oracle-epm-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "REST APIs", "Model Context Protocol (MCP)", "Oracle EPM Cloud"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Oracle EPM
-- MCP Server
-- AI Automation
-- REST API Integration
-- Natural Language Processing
-source: https://github.com/fmepm/oracle-epm-mcp-server
+deployment_complexity: "Medium"
+tags: ["Oracle EPM", "MCP Server", "AI Automation", "REST API Integration", "Natural Language Processing"]
+source: "https://github.com/fmepm/oracle-epm-mcp-server"
 stars: 10
-language: JavaScript
-last_updated: '2026-07-21T07:23:28Z'
-discovered_at: '2026-07-21T07:32:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-21T07:23:28Z"
+discovered_at: "2026-07-21T07:32:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

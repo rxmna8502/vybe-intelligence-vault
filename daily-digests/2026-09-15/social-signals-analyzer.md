@@ -1,33 +1,19 @@
 ---
-title: jatinloey1598-dot/social-signals-analyzer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Machine Learning
-- Natural Language Processing (NLP)
-- Behavioral Psychology
-- OpenAI API
-- Claude API
-- YAML/JSON
-- Mermaid.js
-- Cross-platform (Windows, macOS, Linux, iOS, Android)
+title: "jatinloey1598-dot/social-signals-analyzer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Machine Learning", "Natural Language Processing (NLP)", "Behavioral Psychology", "OpenAI API", "Claude API", "YAML/JSON", "Mermaid.js", "Cross-platform (Windows, macOS, Linux, iOS, Android)"]
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- social manipulation detection
-- authentic communication
-- behavioral analysis
-- AI-powered toolkit
-- psychological benchmarking
-source: https://github.com/jatinloey1598-dot/social-signals-analyzer
+deployment_complexity: "Medium"
+tags: ["social manipulation detection", "authentic communication", "behavioral analysis", "AI-powered toolkit", "psychological benchmarking"]
+source: "https://github.com/jatinloey1598-dot/social-signals-analyzer"
 stars: 1
-language: HTML
-last_updated: '2026-09-02T22:02:39Z'
-discovered_at: '2026-09-02T22:18:47Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-02T22:02:39Z"
+discovered_at: "2026-09-02T22:18:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

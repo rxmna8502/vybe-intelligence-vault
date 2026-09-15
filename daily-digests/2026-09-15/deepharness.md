@@ -1,29 +1,19 @@
 ---
-title: sayedshaun/deepharness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- asyncio
-- httpx
-- dataclasses
-- PyPI
+title: "sayedshaun/deepharness"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "asyncio", "httpx", "dataclasses", "PyPI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- LLM workflows
-- agent composition
-- typed state
-- parallel execution
-- minimal dependencies
-source: https://github.com/sayedshaun/deepharness
+deployment_complexity: "Low"
+tags: ["LLM workflows", "agent composition", "typed state", "parallel execution", "minimal dependencies"]
+source: "https://github.com/sayedshaun/deepharness"
 stars: 0
-language: Python
-last_updated: '2026-09-03T15:34:56Z'
-discovered_at: '2026-09-03T15:35:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:34:56Z"
+discovered_at: "2026-09-03T15:35:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: Mat-Tom-Son/workspace
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Electron
-- TypeScript
-- Node.js
-- Pi Assistant
-- REST APIs
-- OAuth
-- GitHub Actions
-- Windows Installer (NSIS)
+title: "Mat-Tom-Son/workspace"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Electron", "TypeScript", "Node.js", "Pi Assistant", "REST APIs", "OAuth", "GitHub Actions", "Windows Installer (NSIS)"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- local-first
-- AI assistant
-- workspace management
-- Electron app
-- folder-based organization
-source: https://github.com/Mat-Tom-Son/workspace
+deployment_complexity: "Medium"
+tags: ["local-first", "AI assistant", "workspace management", "Electron app", "folder-based organization"]
+source: "https://github.com/Mat-Tom-Son/workspace"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-13T20:13:27Z'
-discovered_at: '2026-07-13T20:14:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T20:13:27Z"
+discovered_at: "2026-07-13T20:14:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

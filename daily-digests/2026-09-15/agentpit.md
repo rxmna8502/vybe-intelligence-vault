@@ -1,34 +1,19 @@
 ---
-title: skalenetwork/agentpit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastAPI
-- SQLite
-- EIP-712
-- ERC-20
-- ERC-1155
-- CTFExchange
-- OpenClaw
-- Polymarket Gamma API
-- Pydantic
+title: "skalenetwork/agentpit"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "SQLite", "EIP-712", "ERC-20", "ERC-1155", "CTFExchange", "OpenClaw", "Polymarket Gamma API", "Pydantic"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- prediction markets
-- agent framework
-- sandbox trading
-- order book engine
-- simulated USDC
-source: https://github.com/skalenetwork/agentpit
+deployment_complexity: "Medium"
+tags: ["prediction markets", "agent framework", "sandbox trading", "order book engine", "simulated USDC"]
+source: "https://github.com/skalenetwork/agentpit"
 stars: 2
-language: Python
-last_updated: '2026-08-03T18:49:19Z'
-discovered_at: '2026-08-03T18:52:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T18:49:19Z"
+discovered_at: "2026-08-03T18:52:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,36 +1,19 @@
 ---
-title: writerslogic/cogmem
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- W3C Verifiable Credentials
-- COSE_Sign1
-- SCITT
-- Ed25519
-- FastEmbed
-- Claude Code
-- JSONL
-- SHA-256
-- Merkle Tree
-- Bitstring Status List
+title: "writerslogic/cogmem"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "W3C Verifiable Credentials", "COSE_Sign1", "SCITT", "Ed25519", "FastEmbed", "Claude Code", "JSONL", "SHA-256", "Merkle Tree", "Bitstring Status List"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI memory
-- verifiable credentials
-- agent orchestration
-- local-first
-- coding agents
-source: https://github.com/writerslogic/cogmem
+deployment_complexity: "Medium"
+tags: ["AI memory", "verifiable credentials", "agent orchestration", "local-first", "coding agents"]
+source: "https://github.com/writerslogic/cogmem"
 stars: 2
-language: Python
-last_updated: '2026-07-21T17:05:08Z'
-discovered_at: '2026-07-21T17:16:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T17:05:08Z"
+discovered_at: "2026-07-21T17:16:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: amoydavid/langhuan
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Go
-- PostgreSQL
-- pgvector
-- Redis
-- Gin
-- GORM
-- zhparser
-- asynq
-- Docker
-- MCP (Model Context Protocol)
+title: "amoydavid/langhuan"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "PostgreSQL", "pgvector", "Redis", "Gin", "GORM", "zhparser", "asynq", "Docker", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- knowledge processing
-- MCP
-- Chinese NLP
-- document retrieval
-source: https://github.com/amoydavid/langhuan
+deployment_complexity: "Medium"
+tags: ["RAG", "knowledge processing", "MCP", "Chinese NLP", "document retrieval"]
+source: "https://github.com/amoydavid/langhuan"
 stars: 0
-language: Go
-last_updated: '2026-08-09T01:18:44Z'
-discovered_at: '2026-08-09T01:34:44Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-09T01:18:44Z"
+discovered_at: "2026-08-09T01:34:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: Hugoistaske/ai-berkshire
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Claude Code
-- Python
-- Markdown
-- Shell Scripting
-- AI Agents
-- Financial Data APIs
+title: "Hugoistaske/ai-berkshire"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "Python", "Markdown", "Shell Scripting", "AI Agents", "Financial Data APIs"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- investment research
-- value investing
-- AI agents
-- financial analysis
-- multi-agent systems
-source: https://github.com/Hugoistaske/ai-berkshire
+deployment_complexity: "Medium"
+tags: ["investment research", "value investing", "AI agents", "financial analysis", "multi-agent systems"]
+source: "https://github.com/Hugoistaske/ai-berkshire"
 stars: 11
-language: Python
-last_updated: '2026-07-11T11:00:59Z'
-discovered_at: '2026-07-11T11:03:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T11:00:59Z"
+discovered_at: "2026-07-11T11:03:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

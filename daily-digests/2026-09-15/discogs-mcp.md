@@ -1,33 +1,19 @@
 ---
-title: rianvdm/discogs-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- Cloudflare Agents SDK
-- '@modelcontextprotocol/sdk'
-- Discogs API
-- KV Storage
-- Durable Objects
-- JWT
-- OAuth 2.1
+title: "rianvdm/discogs-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare Agents SDK", "@modelcontextprotocol/sdk", "Discogs API", "KV Storage", "Durable Objects", "JWT", "OAuth 2.1"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Discogs integration
-- music collection
-- AI assistant
-- edge computing
-source: https://github.com/rianvdm/discogs-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Discogs integration", "music collection", "AI assistant", "edge computing"]
+source: "https://github.com/rianvdm/discogs-mcp"
 stars: 13
-language: TypeScript
-last_updated: '2026-07-12T22:38:49Z'
-discovered_at: '2026-07-12T22:44:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T22:38:49Z"
+discovered_at: "2026-07-12T22:44:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

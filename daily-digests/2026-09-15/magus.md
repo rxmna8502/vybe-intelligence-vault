@@ -1,30 +1,19 @@
 ---
-title: egladman/magus
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Go
-- Buzz (embedded scripting language)
-- SCIP (Symbol Graph)
-- Content-addressed caching (SHA-256)
-- HTTP/MCP protocols
-- Mermaid for diagrams
+title: "egladman/magus"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Buzz (embedded scripting language)", "SCIP (Symbol Graph)", "Content-addressed caching (SHA-256)", "HTTP/MCP protocols", "Mermaid for diagrams"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- monorepo
-- task orchestrator
-- knowledge graph
-- content-addressed caching
-- polyglot
-source: https://github.com/egladman/magus
+deployment_complexity: "Medium"
+tags: ["monorepo", "task orchestrator", "knowledge graph", "content-addressed caching", "polyglot"]
+source: "https://github.com/egladman/magus"
 stars: 2
-language: Go
-last_updated: '2026-08-06T03:10:48Z'
-discovered_at: '2026-08-06T03:19:37Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-06T03:10:48Z"
+discovered_at: "2026-08-06T03:19:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

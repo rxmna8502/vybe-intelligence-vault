@@ -1,36 +1,19 @@
 ---
-title: Nexting-ai/nexting
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Zephyr RTOS
-- BLE (Bluetooth Low Energy)
-- iOS (Swift)
-- Node.js
-- Python
-- C/C++
-- Opus Codec
-- WebSocket
-- OpenClaw
-- Claude Code
-- Codex
-- iOS SDKs (Calendar, Reminders, Contacts, HealthKit, HomeKit)
+title: "Nexting-ai/nexting"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Zephyr RTOS", "BLE (Bluetooth Low Energy)", "iOS (Swift)", "Node.js", "Python", "C/C++", "Opus Codec", "WebSocket", "OpenClaw", "Claude Code", "Codex", "iOS SDKs (Calendar, Reminders, Contacts, HealthKit, HomeKit)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- wearable AI
-- voice dispatch
-- hardware integration
-- agent control
-- BLE connectivity
-source: https://github.com/Nexting-ai/nexting
+deployment_complexity: "Medium"
+tags: ["wearable AI", "voice dispatch", "hardware integration", "agent control", "BLE connectivity"]
+source: "https://github.com/Nexting-ai/nexting"
 stars: 507
-language: C
-last_updated: '2026-08-04T13:02:31Z'
-discovered_at: '2026-08-04T13:03:51Z'
-evaluated_by: mistral-small-latest
+language: "C"
+last_updated: "2026-08-04T13:02:31Z"
+discovered_at: "2026-08-04T13:03:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: yottadynamics/yottacode
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Go
-- LLM Providers (OpenAI, Anthropic, Google, xAI, Ollama, etc.)
-- GitHub API (go-github)
-- MCP (Model Context Protocol)
-- FFmpeg (for media editing)
-- Git
-- Bash
+title: "yottadynamics/yottacode"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "LLM Providers (OpenAI, Anthropic, Google, xAI, Ollama, etc.)", "GitHub API (go-github)", "MCP (Model Context Protocol)", "FFmpeg (for media editing)", "Git", "Bash"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous coding
-- multi-step automation
-- self-learning memory
-- terminal-based AI
-- GitHub integration
-source: https://github.com/yottadynamics/yottacode
+deployment_complexity: "Medium"
+tags: ["autonomous coding", "multi-step automation", "self-learning memory", "terminal-based AI", "GitHub integration"]
+source: "https://github.com/yottadynamics/yottacode"
 stars: 4
-language: Go
-last_updated: '2026-08-01T21:48:14Z'
-discovered_at: '2026-08-01T21:55:01Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T21:48:14Z"
+discovered_at: "2026-08-01T21:55:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: alexkamen123/carmen-quant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- LangGraph
-- DeepSeek V3
-- Claude Sonnet
-- yfinance
-- AkShare
-- SQLite
-- GitHub Actions
-- Feishu Webhook
-- pandas-ta
+title: "alexkamen123/carmen-quant"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "DeepSeek V3", "Claude Sonnet", "yfinance", "AkShare", "SQLite", "GitHub Actions", "Feishu Webhook", "pandas-ta"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- 多Agent系统
-- 投资研究
-- 对冲偏见
-- 自动化报告
-- 金融分析
-source: https://github.com/alexkamen123/carmen-quant
+deployment_complexity: "Medium"
+tags: ["\u591aAgent\u7cfb\u7edf", "\u6295\u8d44\u7814\u7a76", "\u5bf9\u51b2\u504f\u89c1", "\u81ea\u52a8\u5316\u62a5\u544a", "\u91d1\u878d\u5206\u6790"]
+source: "https://github.com/alexkamen123/carmen-quant"
 stars: 4
-language: Python
-last_updated: '2026-08-02T14:57:41Z'
-discovered_at: '2026-08-02T15:02:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T14:57:41Z"
+discovered_at: "2026-08-02T15:02:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

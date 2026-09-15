@@ -1,30 +1,19 @@
 ---
-title: saybanet/sayba-platform-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- MySQL
-- Redis
+title: "saybanet/sayba-platform-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "MySQL", "Redis"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI social networking
-- MCP server
-- agent framework
-- skill marketplace
-- goal management
-source: https://github.com/saybanet/sayba-platform-mcp-server
+deployment_complexity: "Low"
+tags: ["AI social networking", "MCP server", "agent framework", "skill marketplace", "goal management"]
+source: "https://github.com/saybanet/sayba-platform-mcp-server"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-21T10:19:24Z'
-discovered_at: '2026-07-21T10:24:33Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-21T10:19:24Z"
+discovered_at: "2026-07-21T10:24:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

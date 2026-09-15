@@ -1,34 +1,19 @@
 ---
-title: CodeSoul-co/AGENT-Lexpilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- Hypha Framework
-- AES-256-GCM
-- SQLite
-- PostgreSQL
-- MySQL
-- SHA-256
-- React (web frontend)
-- FSM (Finite State Machine)
+title: "CodeSoul-co/AGENT-Lexpilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "Hypha Framework", "AES-256-GCM", "SQLite", "PostgreSQL", "MySQL", "SHA-256", "React (web frontend)", "FSM (Finite State Machine)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- legal AI
-- privacy-first
-- verifiable compliance
-- data analysis
-- PII sanitization
-source: https://github.com/CodeSoul-co/AGENT-Lexpilot
+deployment_complexity: "Medium"
+tags: ["legal AI", "privacy-first", "verifiable compliance", "data analysis", "PII sanitization"]
+source: "https://github.com/CodeSoul-co/AGENT-Lexpilot"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-03T06:16:43Z'
-discovered_at: '2026-08-03T06:23:14Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T06:16:43Z"
+discovered_at: "2026-08-03T06:23:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

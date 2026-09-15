@@ -1,29 +1,19 @@
 ---
-title: kites262/mineclaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Java
-- Minecraft Paper/Folia
-- OpenAI-compatible API
-- YAML/Markdown
-- Gradle
+title: "kites262/mineclaw"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java", "Minecraft Paper/Folia", "OpenAI-compatible API", "YAML/Markdown", "Gradle"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Minecraft AI
-- Agent Framework
-- Game Integration
-- Extensible Skills
-- Server Automation
-source: https://github.com/kites262/mineclaw
+deployment_complexity: "Medium"
+tags: ["Minecraft AI", "Agent Framework", "Game Integration", "Extensible Skills", "Server Automation"]
+source: "https://github.com/kites262/mineclaw"
 stars: 1
-language: Java
-last_updated: '2026-08-02T17:51:31Z'
-discovered_at: '2026-08-02T18:02:30Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-02T17:51:31Z"
+discovered_at: "2026-08-02T18:02:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

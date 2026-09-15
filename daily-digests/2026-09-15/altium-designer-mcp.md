@@ -1,31 +1,19 @@
 ---
-title: embedded-society/altium-designer-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- Altium Designer
-- OLE Compound File Format
-- JSON
-- CI/CD (GitHub Actions)
-- Code Coverage (codecov)
+title: "embedded-society/altium-designer-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "Altium Designer", "OLE Compound File Format", "JSON", "CI/CD (GitHub Actions)", "Code Coverage (codecov)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Altium Designer
-- MCP server
-- PCB library automation
-- schematic symbol generation
-- AI-assisted design
-source: https://github.com/embedded-society/altium-designer-mcp
+deployment_complexity: "Medium"
+tags: ["Altium Designer", "MCP server", "PCB library automation", "schematic symbol generation", "AI-assisted design"]
+source: "https://github.com/embedded-society/altium-designer-mcp"
 stars: 50
-language: Rust
-last_updated: '2026-09-01T15:38:57Z'
-discovered_at: '2026-09-01T15:56:37Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-01T15:38:57Z"
+discovered_at: "2026-09-01T15:56:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: davidmosiah/delx-wellness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- npm
-- GitHub Actions
+title: "davidmosiah/delx-wellness"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "npm", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- wearables
-- local-first
-- health data
-- AI agents
-source: https://github.com/davidmosiah/delx-wellness
+deployment_complexity: "Medium"
+tags: ["MCP", "wearables", "local-first", "health data", "AI agents"]
+source: "https://github.com/davidmosiah/delx-wellness"
 stars: 22
-language: JavaScript
-last_updated: '2026-08-04T17:48:49Z'
-discovered_at: '2026-08-04T17:50:57Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-04T17:48:49Z"
+discovered_at: "2026-08-04T17:50:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

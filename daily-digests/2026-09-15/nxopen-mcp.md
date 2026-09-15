@@ -1,31 +1,19 @@
 ---
-title: mingfeng6684/nxopen-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SQLite
-- BGE-M3 (embedding model)
-- sqlite-vec (vector search)
-- FastMCP
-- pythonnet (for DLL reflection)
+title: "mingfeng6684/nxopen-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "BGE-M3 (embedding model)", "sqlite-vec (vector search)", "FastMCP", "pythonnet (for DLL reflection)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Siemens NXOpen
-- API retrieval
-- hybrid search
-- AI coding agents
-source: https://github.com/mingfeng6684/nxopen-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Siemens NXOpen", "API retrieval", "hybrid search", "AI coding agents"]
+source: "https://github.com/mingfeng6684/nxopen-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-15T08:00:12Z'
-discovered_at: '2026-07-15T08:06:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T08:00:12Z"
+discovered_at: "2026-07-15T08:06:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

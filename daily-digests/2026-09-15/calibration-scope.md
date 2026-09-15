@@ -1,34 +1,19 @@
 ---
-title: IT-Help-San-Diego/calibration-scope
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- Axum
-- Tokio
-- SQLx
-- PostgreSQL
-- SHA-3
-- LM Studio
-- OpenAI-compatible APIs
-- Server-Sent Events (SSE)
-- HTML/CSS (no frameworks)
+title: "IT-Help-San-Diego/calibration-scope"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Axum", "Tokio", "SQLx", "PostgreSQL", "SHA-3", "LM Studio", "OpenAI-compatible APIs", "Server-Sent Events (SSE)", "HTML/CSS (no frameworks)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI benchmarking
-- model evaluation
-- ground-truth testing
-- local AI
-- scientific rigor
-source: https://github.com/IT-Help-San-Diego/calibration-scope
+deployment_complexity: "Medium"
+tags: ["AI benchmarking", "model evaluation", "ground-truth testing", "local AI", "scientific rigor"]
+source: "https://github.com/IT-Help-San-Diego/calibration-scope"
 stars: 0
-language: Rust
-last_updated: '2026-07-21T17:09:44Z'
-discovered_at: '2026-07-21T17:16:40Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-21T17:09:44Z"
+discovered_at: "2026-07-21T17:16:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

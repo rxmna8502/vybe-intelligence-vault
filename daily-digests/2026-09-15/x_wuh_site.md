@@ -1,34 +1,19 @@
 ---
-title: stack-wuh/x.wuh.site
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Next.js 15
-- React 19
-- NestJS 10
-- MongoDB
-- TypeScript 5
-- styled-components 6
-- Mongoose 8
-- pnpm
-- Husky
-- Commitlint
+title: "stack-wuh/x.wuh.site"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js 15", "React 19", "NestJS 10", "MongoDB", "TypeScript 5", "styled-components 6", "Mongoose 8", "pnpm", "Husky", "Commitlint"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- monorepo
-- CMS
-- Next.js
-- NestJS
-- TypeScript
-source: https://github.com/stack-wuh/x.wuh.site
+deployment_complexity: "Medium"
+tags: ["monorepo", "CMS", "Next.js", "NestJS", "TypeScript"]
+source: "https://github.com/stack-wuh/x.wuh.site"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-12T13:29:25Z'
-discovered_at: '2026-07-12T13:36:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T13:29:25Z"
+discovered_at: "2026-07-12T13:36:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
