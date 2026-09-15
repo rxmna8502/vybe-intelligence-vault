@@ -1,31 +1,19 @@
 ---
-title: heossihq/bee-public
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Python
-- Node.js
-- OpenAPI
-- MCP (Model Context Protocol)
-- Post-Quantum Cryptography
-- Apache License 2.0
+title: "heossihq/bee-public"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Python", "Node.js", "OpenAPI", "MCP (Model Context Protocol)", "Post-Quantum Cryptography", "Apache License 2.0"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multimodal AI
-- post-quantum security
-- MCP integration
-- governed intelligence
-- developer SDKs
-source: https://github.com/heossihq/bee-public
+deployment_complexity: "Medium"
+tags: ["multimodal AI", "post-quantum security", "MCP integration", "governed intelligence", "developer SDKs"]
+source: "https://github.com/heossihq/bee-public"
 stars: 0
-language: Python
-last_updated: '2026-08-05T11:14:39Z'
-discovered_at: '2026-08-05T11:23:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T11:14:39Z"
+discovered_at: "2026-08-05T11:23:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

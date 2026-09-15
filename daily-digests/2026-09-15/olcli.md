@@ -1,32 +1,19 @@
 ---
-title: aloth/olcli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- TypeScript
-- Node.js
-- npm
-- CLI
-- Git
-- MCP (Model Context Protocol)
-- REST API
+title: "aloth/olcli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "TypeScript", "Node.js", "npm", "CLI", "Git", "MCP (Model Context Protocol)", "REST API"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- LaTeX
-- Overleaf
-- CLI
-- Git integration
-- AI agent integration
-source: https://github.com/aloth/olcli
+deployment_complexity: "Low"
+tags: ["LaTeX", "Overleaf", "CLI", "Git integration", "AI agent integration"]
+source: "https://github.com/aloth/olcli"
 stars: 148
-language: JavaScript
-last_updated: '2026-08-08T08:37:25Z'
-discovered_at: '2026-08-08T08:43:29Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T08:37:25Z"
+discovered_at: "2026-08-08T08:43:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

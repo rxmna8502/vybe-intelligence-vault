@@ -1,33 +1,19 @@
 ---
-title: zackees/clud
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- Python
-- Claude Code
-- OpenAI Codex
-- DeepSeek
-- Kimi
-- OpenRouter
-- Bash
-- CI/CD
+title: "zackees/clud"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Python", "Claude Code", "OpenAI Codex", "DeepSeek", "Kimi", "OpenRouter", "Bash", "CI/CD"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- multi-model CLI
-- PR automation
-- code refactoring
-- terminal integration
-source: https://github.com/zackees/clud
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "multi-model CLI", "PR automation", "code refactoring", "terminal integration"]
+source: "https://github.com/zackees/clud"
 stars: 10
-language: Rust
-last_updated: '2026-09-03T02:16:28Z'
-discovered_at: '2026-09-03T02:18:48Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-03T02:16:28Z"
+discovered_at: "2026-09-03T02:18:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

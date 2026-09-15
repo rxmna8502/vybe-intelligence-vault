@@ -1,29 +1,19 @@
 ---
-title: Integrity-Lead/TokenOps-Guardian
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Python 3.11+
-- SIMD (Single Instruction Multiple Data)
-- WSGI
-- JSON Payload Processing
-- In-Memory Budget Calculation
+title: "Integrity-Lead/TokenOps-Guardian"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.11+", "SIMD (Single Instruction Multiple Data)", "WSGI", "JSON Payload Processing", "In-Memory Budget Calculation"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- token governance
-- runtime security
-- agent budget enforcement
-- SIMD optimization
-- financial AI protection
-source: https://github.com/Integrity-Lead/TokenOps-Guardian
+deployment_complexity: "Medium"
+tags: ["token governance", "runtime security", "agent budget enforcement", "SIMD optimization", "financial AI protection"]
+source: "https://github.com/Integrity-Lead/TokenOps-Guardian"
 stars: 1
-language: Python
-last_updated: '2026-08-04T01:14:42Z'
-discovered_at: '2026-08-04T04:15:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T01:14:42Z"
+discovered_at: "2026-08-04T04:15:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

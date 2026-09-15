@@ -1,31 +1,19 @@
 ---
-title: getaero-io/gtm-eng-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Claude Code
-- Deepline CLI
-- TypeScript
-- Markdown
-- Bash
-- Node.js
-- APIs (Apollo, Crustdata, PDL, Hunter, LeadMagic, Dropleads, Apify, etc.)
+title: "getaero-io/gtm-eng-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "Deepline CLI", "TypeScript", "Markdown", "Bash", "Node.js", "APIs (Apollo, Crustdata, PDL, Hunter, LeadMagic, Dropleads, Apify, etc.)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- GTM automation
-- lead enrichment
-- AI agent skills
-- Deepline CLI
-- outbound automation
-source: https://github.com/getaero-io/gtm-eng-skills
+deployment_complexity: "Medium"
+tags: ["GTM automation", "lead enrichment", "AI agent skills", "Deepline CLI", "outbound automation"]
+source: "https://github.com/getaero-io/gtm-eng-skills"
 stars: 55
-language: TypeScript
-last_updated: '2026-09-02T15:47:30Z'
-discovered_at: '2026-09-02T15:50:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:47:30Z"
+discovered_at: "2026-09-02T15:50:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

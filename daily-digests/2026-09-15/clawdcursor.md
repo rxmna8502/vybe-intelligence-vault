@@ -1,33 +1,19 @@
 ---
-title: AmrDab/clawdcursor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Accessibility APIs
-- OCR (Tesseract)
-- Electron
-- WebView2
-- Sharp
-- Nut.js
+title: "AmrDab/clawdcursor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Accessibility APIs", "OCR (Tesseract)", "Electron", "WebView2", "Sharp", "Nut.js"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- desktop automation
-- AI agent control
-- accessibility-based UI
-- local MCP server
-- action verification
-source: https://github.com/AmrDab/clawdcursor
+deployment_complexity: "Medium"
+tags: ["desktop automation", "AI agent control", "accessibility-based UI", "local MCP server", "action verification"]
+source: "https://github.com/AmrDab/clawdcursor"
 stars: 392
-language: TypeScript
-last_updated: '2026-08-09T07:57:00Z'
-discovered_at: '2026-08-09T07:58:36Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T07:57:00Z"
+discovered_at: "2026-08-09T07:58:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

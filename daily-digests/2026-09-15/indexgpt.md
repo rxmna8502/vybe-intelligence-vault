@@ -1,30 +1,19 @@
 ---
-title: sen-igga/IndexGPT
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Electron
-- Python
-- RAG (Retrieval-Augmented Generation)
-- SFT (Supervised Fine-Tuning)
-- LoRA (Low-Rank Adaptation)
+title: "sen-igga/IndexGPT"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Electron", "Python", "RAG (Retrieval-Augmented Generation)", "SFT (Supervised Fine-Tuning)", "LoRA (Low-Rank Adaptation)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- local AI
-- PDF processing
-- RAG
-- fine-tuning
-- privacy-focused
-source: https://github.com/sen-igga/IndexGPT
+deployment_complexity: "Low"
+tags: ["local AI", "PDF processing", "RAG", "fine-tuning", "privacy-focused"]
+source: "https://github.com/sen-igga/IndexGPT"
 stars: 2
-language: JavaScript
-last_updated: '2026-08-07T11:22:36Z'
-discovered_at: '2026-08-07T11:57:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T11:22:36Z"
+discovered_at: "2026-08-07T11:57:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

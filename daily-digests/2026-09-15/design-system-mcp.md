@@ -1,35 +1,19 @@
 ---
-title: pghoshal/design-system-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Style Dictionary
-- MiniSearch
-- Git
-- DTCG (Design Tokens Community Group) standards
-- Markdown/MDX parsing
-- JSON/YAML validation
-- Storybook CSF parser
-- AST parsing
+title: "pghoshal/design-system-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Style Dictionary", "MiniSearch", "Git", "DTCG (Design Tokens Community Group) standards", "Markdown/MDX parsing", "JSON/YAML validation", "Storybook CSF parser", "AST parsing"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- design-system
-- MCP
-- UI context
-- token validation
-- AI agent orchestration
-source: https://github.com/pghoshal/design-system-mcp
+deployment_complexity: "Medium"
+tags: ["design-system", "MCP", "UI context", "token validation", "AI agent orchestration"]
+source: "https://github.com/pghoshal/design-system-mcp"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-07T17:50:20Z'
-discovered_at: '2026-08-07T17:52:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T17:50:20Z"
+discovered_at: "2026-08-07T17:52:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

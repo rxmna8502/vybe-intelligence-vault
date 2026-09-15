@@ -1,32 +1,19 @@
 ---
-title: Wolfe-Jam/grok-faf-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- Cloudflare Workers
-- WASM (Zig)
-- Node.js
-- Bun
-- Zig
-- YAML
+title: "Wolfe-Jam/grok-faf-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Cloudflare Workers", "WASM (Zig)", "Node.js", "Bun", "Zig", "YAML"]
 quality_score: 10
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- MCP server
-- persistent context
-- xAI Grok
-- FAF format
-- RAG optimization
-source: https://github.com/Wolfe-Jam/grok-faf-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "persistent context", "xAI Grok", "FAF format", "RAG optimization"]
+source: "https://github.com/Wolfe-Jam/grok-faf-mcp"
 stars: 17
-language: TypeScript
-last_updated: '2026-07-21T04:13:22Z'
-discovered_at: '2026-07-21T04:15:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T04:13:22Z"
+discovered_at: "2026-07-21T04:15:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

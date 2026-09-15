@@ -1,32 +1,19 @@
 ---
-title: MadeOnSol/mcp-server-madeonsol
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Solana Web3
-- x402 micropayments
-- WebSocket
-- REST API
-- Smithery
+title: "MadeOnSol/mcp-server-madeonsol"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Solana Web3", "x402 micropayments", "WebSocket", "REST API", "Smithery"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Solana
-- KOL intelligence
-- real-time analytics
-- deployer tracking
-- on-chain data
-source: https://github.com/MadeOnSol/mcp-server-madeonsol
+deployment_complexity: "Medium"
+tags: ["Solana", "KOL intelligence", "real-time analytics", "deployer tracking", "on-chain data"]
+source: "https://github.com/MadeOnSol/mcp-server-madeonsol"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-02T19:09:23Z'
-discovered_at: '2026-09-02T19:11:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:09:23Z"
+discovered_at: "2026-09-02T19:11:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: LucaZhang7784/stackchan-fusion
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Python
-- Docker
-- MCP (Model Context Protocol)
-- Tailscale
-- ESP32
-- FastAPI
-- WebSockets
-- PowerShell
-- Claude Code
-- Codex CLI
+title: "LucaZhang7784/stackchan-fusion"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Docker", "MCP (Model Context Protocol)", "Tailscale", "ESP32", "FastAPI", "WebSockets", "PowerShell", "Claude Code", "Codex CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- robotics
-- voice-assistant
-- MCP integration
-- multi-agent orchestration
-- local AI
-source: https://github.com/LucaZhang7784/stackchan-fusion
+deployment_complexity: "Medium"
+tags: ["robotics", "voice-assistant", "MCP integration", "multi-agent orchestration", "local AI"]
+source: "https://github.com/LucaZhang7784/stackchan-fusion"
 stars: 0
-language: Python
-last_updated: '2026-08-02T13:41:59Z'
-discovered_at: '2026-08-02T13:49:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T13:41:59Z"
+discovered_at: "2026-08-02T13:49:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

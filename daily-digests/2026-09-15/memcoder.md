@@ -1,30 +1,19 @@
 ---
-title: Shikhar-code/memcoder
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- JSON
-- CLI
-- MCP (Model Context Protocol)
-- Embedding models
-- Verification frameworks
+title: "Shikhar-code/memcoder"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "JSON", "CLI", "MCP (Model Context Protocol)", "Embedding models", "Verification frameworks"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- memory
-- verification
-- agent cognition
-- evidence-gated
-- local-first
-source: https://github.com/Shikhar-code/memcoder
+deployment_complexity: "Medium"
+tags: ["memory", "verification", "agent cognition", "evidence-gated", "local-first"]
+source: "https://github.com/Shikhar-code/memcoder"
 stars: 1
-language: Python
-last_updated: '2026-08-10T17:58:06Z'
-discovered_at: '2026-08-10T18:01:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T17:58:06Z"
+discovered_at: "2026-08-10T18:01:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

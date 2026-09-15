@@ -1,28 +1,19 @@
 ---
-title: alphaparkinc/genpark-complex-document-ocr-layout-structure-extractor-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python 3.9+
-- Model Context Protocol (MCP)
-- JSON-RPC
-- Standard Library (Zero External Dependencies)
+title: "alphaparkinc/genpark-complex-document-ocr-layout-structure-extractor-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "Standard Library (Zero External Dependencies)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- OCR
-- document processing
-- MCP
-- zero-dependency
-- AI agent integration
-source: https://github.com/alphaparkinc/genpark-complex-document-ocr-layout-structure-extractor-skill
+deployment_complexity: "Low"
+tags: ["OCR", "document processing", "MCP", "zero-dependency", "AI agent integration"]
+source: "https://github.com/alphaparkinc/genpark-complex-document-ocr-layout-structure-extractor-skill"
 stars: 8
-language: Python
-last_updated: '2026-09-03T01:57:30Z'
-discovered_at: '2026-09-03T02:24:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T01:57:30Z"
+discovered_at: "2026-09-03T02:24:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

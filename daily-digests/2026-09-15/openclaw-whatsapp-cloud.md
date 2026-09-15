@@ -1,31 +1,19 @@
 ---
-title: shqear93/openclaw-whatsapp-cloud
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- OpenClaw
-- Meta WhatsApp Business Cloud API
-- Deepgram STT
-- Cartesia TTS
-- Jest (for testing)
+title: "shqear93/openclaw-whatsapp-cloud"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "OpenClaw", "Meta WhatsApp Business Cloud API", "Deepgram STT", "Cartesia TTS", "Jest (for testing)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- WhatsApp integration
-- OpenClaw plugin
-- voice processing
-- agent-driven replies
-- production-grade
-source: https://github.com/shqear93/openclaw-whatsapp-cloud
+deployment_complexity: "Medium"
+tags: ["WhatsApp integration", "OpenClaw plugin", "voice processing", "agent-driven replies", "production-grade"]
+source: "https://github.com/shqear93/openclaw-whatsapp-cloud"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-17T16:11:33Z'
-discovered_at: '2026-07-17T16:14:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T16:11:33Z"
+discovered_at: "2026-07-17T16:14:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

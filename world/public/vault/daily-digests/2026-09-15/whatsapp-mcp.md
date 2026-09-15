@@ -1,30 +1,19 @@
 ---
-title: verygoodplugins/whatsapp-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Go
-- Python
-- SQLite
-- Model Context Protocol (MCP)
-- WhatsApp API
-- FFmpeg
+title: "verygoodplugins/whatsapp-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Python", "SQLite", "Model Context Protocol (MCP)", "WhatsApp API", "FFmpeg"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- WhatsApp integration
-- MCP server
-- AI agent tools
-- message automation
-- media handling
-source: https://github.com/verygoodplugins/whatsapp-mcp
+deployment_complexity: "Medium"
+tags: ["WhatsApp integration", "MCP server", "AI agent tools", "message automation", "media handling"]
+source: "https://github.com/verygoodplugins/whatsapp-mcp"
 stars: 137
-language: Go
-last_updated: '2026-08-05T16:40:07Z'
-discovered_at: '2026-08-05T16:45:17Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-05T16:40:07Z"
+discovered_at: "2026-08-05T16:45:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

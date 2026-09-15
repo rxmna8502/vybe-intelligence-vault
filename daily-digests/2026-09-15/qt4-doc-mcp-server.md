@@ -1,32 +1,19 @@
 ---
-title: jztan/qt4-doc-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastMCP
-- SQLite (FTS5)
-- HTML Parsing (BeautifulSoup, lxml)
-- Markdown Conversion (markdownify)
-- FastAPI (via FastMCP)
-- CLI Tools (Click, Typer)
-- GitHub Actions (CI/CD)
+title: "jztan/qt4-doc-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "SQLite (FTS5)", "HTML Parsing (BeautifulSoup, lxml)", "Markdown Conversion (markdownify)", "FastAPI (via FastMCP)", "CLI Tools (Click, Typer)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Qt Documentation
-- Offline Search
-- Agent Tools
-- Local RAG
-source: https://github.com/jztan/qt4-doc-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Qt Documentation", "Offline Search", "Agent Tools", "Local RAG"]
+source: "https://github.com/jztan/qt4-doc-mcp-server"
 stars: 2
-language: Python
-last_updated: '2026-07-19T14:51:41Z'
-discovered_at: '2026-07-19T14:54:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T14:51:41Z"
+discovered_at: "2026-07-19T14:54:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

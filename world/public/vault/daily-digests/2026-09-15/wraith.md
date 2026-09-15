@@ -1,34 +1,19 @@
 ---
-title: JavaLyHn/wraith
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Java
-- MCP (Model Context Protocol)
-- RAG (Retrieval-Augmented Generation)
-- Multi-Agent Systems
-- TUI (Terminal User Interface)
-- Electron (for desktop app)
-- JGit (Git operations)
-- JavaParser (code analysis)
-- SQLite (embeddings storage)
-- Maven (build tool)
+title: "JavaLyHn/wraith"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "Multi-Agent Systems", "TUI (Terminal User Interface)", "Electron (for desktop app)", "JGit (Git operations)", "JavaParser (code analysis)", "SQLite (embeddings storage)", "Maven (build tool)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- multi-agent systems
-- RAG
-- MCP integration
-- Java framework
-source: https://github.com/JavaLyHn/wraith
+deployment_complexity: "Medium"
+tags: ["AI agents", "multi-agent systems", "RAG", "MCP integration", "Java framework"]
+source: "https://github.com/JavaLyHn/wraith"
 stars: 6
-language: Java
-last_updated: '2026-07-11T13:10:11Z'
-discovered_at: '2026-07-11T13:14:24Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-07-11T13:10:11Z"
+discovered_at: "2026-07-11T13:14:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

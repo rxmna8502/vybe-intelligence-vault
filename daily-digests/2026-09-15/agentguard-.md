@@ -1,30 +1,19 @@
 ---
-title: xAPT42/Agentguard-
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- DataHub
-- MCP (Model Context Protocol)
-- Docker
-- JSON-RPC
-- OWASP LLM Top 10
+title: "xAPT42/Agentguard-"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "DataHub", "MCP (Model Context Protocol)", "Docker", "JSON-RPC", "OWASP LLM Top 10"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent governance
-- MCP server discovery
-- risk assessment
-- EU AI Act compliance
-- shadow IT detection
-source: https://github.com/xAPT42/Agentguard-
+deployment_complexity: "Medium"
+tags: ["AI agent governance", "MCP server discovery", "risk assessment", "EU AI Act compliance", "shadow IT detection"]
+source: "https://github.com/xAPT42/Agentguard-"
 stars: 0
-language: Python
-last_updated: '2026-07-15T14:45:26Z'
-discovered_at: '2026-07-15T14:49:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T14:45:26Z"
+discovered_at: "2026-07-15T14:49:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

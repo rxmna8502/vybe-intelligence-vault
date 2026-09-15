@@ -1,33 +1,19 @@
 ---
-title: keaizuizui/CodeRef-AI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP Protocol
-- SQLite
-- AST Parser
-- LLM Integration
-- OWASP Compliance
-- Git
-- HTML
-- Markdown
+title: "keaizuizui/CodeRef-AI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP Protocol", "SQLite", "AST Parser", "LLM Integration", "OWASP Compliance", "Git", "HTML", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- code governance
-- MCP tools
-- vibe coding
-- knowledge graph
-- change guard
-source: https://github.com/keaizuizui/CodeRef-AI
+deployment_complexity: "Medium"
+tags: ["code governance", "MCP tools", "vibe coding", "knowledge graph", "change guard"]
+source: "https://github.com/keaizuizui/CodeRef-AI"
 stars: 3
-language: Python
-last_updated: '2026-08-07T03:42:05Z'
-discovered_at: '2026-08-07T06:12:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T03:42:05Z"
+discovered_at: "2026-08-07T06:12:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: nicknisi/sessions
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Bun
-- CLI
-- MCP (Model Context Protocol)
-- Full-Text Search (BM25)
-- Git
-- Homebrew
+title: "nicknisi/sessions"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "CLI", "MCP (Model Context Protocol)", "Full-Text Search (BM25)", "Git", "Homebrew"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI session management
-- MCP integration
-- CLI tool
-- search and recall
-- usage analytics
-source: https://github.com/nicknisi/sessions
+deployment_complexity: "Medium"
+tags: ["AI session management", "MCP integration", "CLI tool", "search and recall", "usage analytics"]
+source: "https://github.com/nicknisi/sessions"
 stars: 8
-language: TypeScript
-last_updated: '2026-07-10T18:21:17Z'
-discovered_at: '2026-07-10T18:22:41Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T18:21:17Z"
+discovered_at: "2026-07-10T18:22:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

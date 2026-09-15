@@ -1,33 +1,19 @@
 ---
-title: dongsheng123132/2origin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- Python
-- JSON Schema
-- CLI
-- MCP Server
-- DXF
-- Markdown
-- EPUB
+title: "dongsheng123132/2origin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Python", "JSON Schema", "CLI", "MCP Server", "DXF", "Markdown", "EPUB"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- persistent state tracking
-- AI-native data representation
-- deterministic validation
-- semantic transactions
-- provenance tracking
-source: https://github.com/dongsheng123132/2origin
+deployment_complexity: "Medium"
+tags: ["persistent state tracking", "AI-native data representation", "deterministic validation", "semantic transactions", "provenance tracking"]
+source: "https://github.com/dongsheng123132/2origin"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-04T15:33:23Z'
-discovered_at: '2026-08-04T15:34:44Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-04T15:33:23Z"
+discovered_at: "2026-08-04T15:34:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

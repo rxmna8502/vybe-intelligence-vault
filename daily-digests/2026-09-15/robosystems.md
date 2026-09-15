@@ -1,40 +1,19 @@
 ---
-title: RoboFinSystems/robosystems
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastAPI
-- PostgreSQL
-- LadybugDB
-- DuckDB
-- LanceDB
-- OpenSearch
-- Valkey
-- Dagster
-- GraphQL
-- Cypher
-- MCP (Model Context Protocol)
-- AWS (ECS, EC2, RDS, S3, DynamoDB)
-- CloudFormation
-- JSON-LD
-- XBRL
+title: "RoboFinSystems/robosystems"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "LadybugDB", "DuckDB", "LanceDB", "OpenSearch", "Valkey", "Dagster", "GraphQL", "Cypher", "MCP (Model Context Protocol)", "AWS (ECS, EC2, RDS, S3, DynamoDB)", "CloudFormation", "JSON-LD", "XBRL"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- Financial AI
-- Ledger System
-- Graph Database
-- XBRL Processing
-- SEC Data Integration
-source: https://github.com/RoboFinSystems/robosystems
+deployment_complexity: "High"
+tags: ["Financial AI", "Ledger System", "Graph Database", "XBRL Processing", "SEC Data Integration"]
+source: "https://github.com/RoboFinSystems/robosystems"
 stars: 18
-language: Python
-last_updated: '2026-07-10T23:01:08Z'
-discovered_at: '2026-07-10T23:08:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T23:01:08Z"
+discovered_at: "2026-07-10T23:08:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

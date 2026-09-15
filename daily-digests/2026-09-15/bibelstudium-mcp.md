@@ -1,30 +1,19 @@
 ---
-title: fidpa/bibelstudium-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Bun
-- SQLite
-- MCP (Model Context Protocol)
-- FTS5 (Full-Text Search)
-- Node.js (for bundle packaging)
+title: "fidpa/bibelstudium-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "SQLite", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "Node.js (for bundle packaging)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Bible study
-- MCP server
-- offline data
-- textual analysis
-- linguistic tools
-source: https://github.com/fidpa/bibelstudium-mcp
+deployment_complexity: "Medium"
+tags: ["Bible study", "MCP server", "offline data", "textual analysis", "linguistic tools"]
+source: "https://github.com/fidpa/bibelstudium-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-02T14:53:55Z'
-discovered_at: '2026-08-02T15:03:00Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T14:53:55Z"
+discovered_at: "2026-08-02T15:03:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

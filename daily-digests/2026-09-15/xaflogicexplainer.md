@@ -1,30 +1,19 @@
 ---
-title: peopleworks/XAFLogicExplainer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- C#
-- .NET 10
-- Roslyn
-- Model Context Protocol (MCP)
-- NuGet
-- DevExpress XAF
+title: "peopleworks/XAFLogicExplainer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET 10", "Roslyn", "Model Context Protocol (MCP)", "NuGet", "DevExpress XAF"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- XAF
-- DevExpress
-- Roslyn extraction
-- AI agent tooling
-- Model documentation
-source: https://github.com/peopleworks/XAFLogicExplainer
+deployment_complexity: "Medium"
+tags: ["XAF", "DevExpress", "Roslyn extraction", "AI agent tooling", "Model documentation"]
+source: "https://github.com/peopleworks/XAFLogicExplainer"
 stars: 1
-language: C#
-last_updated: '2026-08-10T14:58:47Z'
-discovered_at: '2026-08-10T15:04:45Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-10T14:58:47Z"
+discovered_at: "2026-08-10T15:04:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

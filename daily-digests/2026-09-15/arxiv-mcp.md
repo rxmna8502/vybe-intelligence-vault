@@ -1,35 +1,19 @@
 ---
-title: sandraschi/arxiv-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastMCP
-- SQLite FTS5
-- LanceDB
-- Tauri
-- React
-- Node.js
-- uv
-- Ruff
-- Unpaywall
-- Crossref
+title: "sandraschi/arxiv-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastMCP", "SQLite FTS5", "LanceDB", "Tauri", "React", "Node.js", "uv", "Ruff", "Unpaywall", "Crossref"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- arXiv
-- RAG
-- DOI resolution
-- citation graphs
-- agent framework
-source: https://github.com/sandraschi/arxiv-mcp
+deployment_complexity: "Medium"
+tags: ["arXiv", "RAG", "DOI resolution", "citation graphs", "agent framework"]
+source: "https://github.com/sandraschi/arxiv-mcp"
 stars: 1
-language: Python
-last_updated: '2026-07-12T11:50:20Z'
-discovered_at: '2026-07-12T11:58:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T11:50:20Z"
+discovered_at: "2026-07-12T11:58:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

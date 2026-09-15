@@ -1,34 +1,19 @@
 ---
-title: nmbrthirteen/podcli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FFmpeg
-- Whisper.cpp
-- Node.js
-- MCP (Model Context Protocol)
-- AssemblyAI
-- yt-dlp
-- VideoToolbox
-- NVENC
-- VAAPI
+title: "nmbrthirteen/podcli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FFmpeg", "Whisper.cpp", "Node.js", "MCP (Model Context Protocol)", "AssemblyAI", "yt-dlp", "VideoToolbox", "NVENC", "VAAPI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- podcast processing
-- AI clipping
-- face tracking
-- MCP server
-- content automation
-source: https://github.com/nmbrthirteen/podcli
+deployment_complexity: "Medium"
+tags: ["podcast processing", "AI clipping", "face tracking", "MCP server", "content automation"]
+source: "https://github.com/nmbrthirteen/podcli"
 stars: 24
-language: Python
-last_updated: '2026-07-11T22:43:27Z'
-discovered_at: '2026-07-11T22:44:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T22:43:27Z"
+discovered_at: "2026-07-11T22:44:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

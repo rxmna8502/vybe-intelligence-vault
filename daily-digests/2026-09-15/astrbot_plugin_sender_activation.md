@@ -1,29 +1,19 @@
 ---
-title: zjj1280637679-ship-it/astrbot_plugin_sender_activation
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- AstrBot
-- aiocqhttp
-- Cron scheduling
-- Plugin architecture
+title: "zjj1280637679-ship-it/astrbot_plugin_sender_activation"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "AstrBot", "aiocqhttp", "Cron scheduling", "Plugin architecture"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent monitoring
-- proactive response
-- context tracking
-- rate limiting
-- discussion moderation
-source: https://github.com/zjj1280637679-ship-it/astrbot_plugin_sender_activation
+deployment_complexity: "Medium"
+tags: ["AI agent monitoring", "proactive response", "context tracking", "rate limiting", "discussion moderation"]
+source: "https://github.com/zjj1280637679-ship-it/astrbot_plugin_sender_activation"
 stars: 1
-language: Python
-last_updated: '2026-08-10T15:58:06Z'
-discovered_at: '2026-08-10T16:06:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T15:58:06Z"
+discovered_at: "2026-08-10T16:06:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

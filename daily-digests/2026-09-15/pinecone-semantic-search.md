@@ -1,32 +1,19 @@
 ---
-title: Chowdri-Furkhan07/pinecone-semantic-search
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Streamlit
-- Pinecone
-- multilingual-e5-large
-- tenacity
-- pytest
-- ruff
-- Docker
+title: "Chowdri-Furkhan07/pinecone-semantic-search"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "Streamlit", "Pinecone", "multilingual-e5-large", "tenacity", "pytest", "ruff", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- semantic search
-- vector database
-- Pinecone integration
-- Streamlit UI
-- automated embeddings
-source: https://github.com/Chowdri-Furkhan07/pinecone-semantic-search
+deployment_complexity: "Medium"
+tags: ["semantic search", "vector database", "Pinecone integration", "Streamlit UI", "automated embeddings"]
+source: "https://github.com/Chowdri-Furkhan07/pinecone-semantic-search"
 stars: 1
-language: Python
-last_updated: '2026-08-08T08:41:26Z'
-discovered_at: '2026-08-08T08:43:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T08:41:26Z"
+discovered_at: "2026-08-08T08:43:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

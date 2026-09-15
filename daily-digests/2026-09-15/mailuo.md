@@ -1,34 +1,19 @@
 ---
-title: AliceLJY/mailuo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- React Native
-- Expo
-- Node.js
-- SQLite
-- ML Kit OCR
-- Qwen-VL
-- DashScope API
-- DeepSeek API
-- OpenAI-compatible API
+title: "AliceLJY/mailuo"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "React Native", "Expo", "Node.js", "SQLite", "ML Kit OCR", "Qwen-VL", "DashScope API", "DeepSeek API", "OpenAI-compatible API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- CRM
-- OCR
-- Memory Management
-- Entity Resolution
-- Grounded Insights
-source: https://github.com/AliceLJY/mailuo
+deployment_complexity: "Medium"
+tags: ["CRM", "OCR", "Memory Management", "Entity Resolution", "Grounded Insights"]
+source: "https://github.com/AliceLJY/mailuo"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T15:38:59Z'
-discovered_at: '2026-09-02T15:51:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:38:59Z"
+discovered_at: "2026-09-02T15:51:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

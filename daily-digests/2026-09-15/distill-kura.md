@@ -1,29 +1,19 @@
 ---
-title: lna-lab/distill-kura
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- DeepSeek Harness
-- MCP (Model Context Protocol)
-- HTTP Service
-- TOML/YAML for configuration
+title: "lna-lab/distill-kura"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "DeepSeek Harness", "MCP (Model Context Protocol)", "HTTP Service", "TOML/YAML for configuration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- long-term memory
-- agent memory
-- deterministic recall
-- evidence-gated writing
-- prefix caching
-source: https://github.com/lna-lab/distill-kura
+deployment_complexity: "Medium"
+tags: ["long-term memory", "agent memory", "deterministic recall", "evidence-gated writing", "prefix caching"]
+source: "https://github.com/lna-lab/distill-kura"
 stars: 11
-language: Python
-last_updated: '2026-09-01T15:35:07Z'
-discovered_at: '2026-09-01T15:56:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T15:35:07Z"
+discovered_at: "2026-09-01T15:56:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

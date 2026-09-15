@@ -1,29 +1,19 @@
 ---
-title: ShipToday/forge-plugin-codex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Codex Plugin System
-- Model Context Protocol (MCP)
-- Workflow Automation
-- Hooks System
+title: "ShipToday/forge-plugin-codex"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Codex Plugin System", "Model Context Protocol (MCP)", "Workflow Automation", "Hooks System"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- PDLC automation
-- workflow orchestration
-- Codex plugin
-- AI-powered development
-- MCP server
-source: https://github.com/ShipToday/forge-plugin-codex
+deployment_complexity: "Medium"
+tags: ["PDLC automation", "workflow orchestration", "Codex plugin", "AI-powered development", "MCP server"]
+source: "https://github.com/ShipToday/forge-plugin-codex"
 stars: 2
-language: JavaScript
-last_updated: '2026-07-18T08:05:16Z'
-discovered_at: '2026-07-18T08:09:28Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-18T08:05:16Z"
+discovered_at: "2026-07-18T08:09:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

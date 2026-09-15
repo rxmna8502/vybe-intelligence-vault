@@ -1,28 +1,19 @@
 ---
-title: crossi-dev/latam-tools
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- JavaScript/TypeScript (implied by MCP server implementation)
-- AFIP/ARCA fiscal standards
+title: "crossi-dev/latam-tools"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "Streamable HTTP", "JavaScript/TypeScript (implied by MCP server implementation)", "AFIP/ARCA fiscal standards"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- MCP server
-- Argentine tax validation
-- AFIP QR generation
-- no-auth tools
-- AI agent integration
-source: https://github.com/crossi-dev/latam-tools
+deployment_complexity: "Low"
+tags: ["MCP server", "Argentine tax validation", "AFIP QR generation", "no-auth tools", "AI agent integration"]
+source: "https://github.com/crossi-dev/latam-tools"
 stars: 0
-language: None
-last_updated: '2026-08-05T13:54:43Z'
-discovered_at: '2026-08-05T14:08:00Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-05T13:54:43Z"
+discovered_at: "2026-08-05T14:08:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

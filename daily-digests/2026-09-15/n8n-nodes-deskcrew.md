@@ -1,29 +1,19 @@
 ---
-title: webmilmind1/n8n-nodes-deskcrew
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- n8n
-- DeskCrew API
-- REST
-- Community Node
+title: "webmilmind1/n8n-nodes-deskcrew"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "n8n", "DeskCrew API", "REST", "Community Node"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- n8n
-- DeskCrew
-- support automation
-- ticket management
-- workflow automation
-source: https://github.com/webmilmind1/n8n-nodes-deskcrew
+deployment_complexity: "Low"
+tags: ["n8n", "DeskCrew", "support automation", "ticket management", "workflow automation"]
+source: "https://github.com/webmilmind1/n8n-nodes-deskcrew"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T17:00:00Z'
-discovered_at: '2026-08-10T17:05:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T17:00:00Z"
+discovered_at: "2026-08-10T17:05:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

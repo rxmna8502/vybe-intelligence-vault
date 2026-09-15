@@ -1,32 +1,19 @@
 ---
-title: holistis/muraqib
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- TypeScript
-- Playwright
-- GitHub Actions
-- Node.js
-- Claude API
-- Resend API
-- Telegram Bot API
+title: "holistis/muraqib"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "TypeScript", "Playwright", "GitHub Actions", "Node.js", "Claude API", "Resend API", "Telegram Bot API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- QA automation
-- Playwright
-- GitHub Actions
-- AI-assisted testing
-- Silent failure detection
-source: https://github.com/holistis/muraqib
+deployment_complexity: "Medium"
+tags: ["QA automation", "Playwright", "GitHub Actions", "AI-assisted testing", "Silent failure detection"]
+source: "https://github.com/holistis/muraqib"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-03T05:26:30Z'
-discovered_at: '2026-09-03T08:29:09Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-03T05:26:30Z"
+discovered_at: "2026-09-03T08:29:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

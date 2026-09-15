@@ -1,30 +1,19 @@
 ---
-title: shahaziya13/nexus-autonomous-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- FastAPI
-- SQLAlchemy
-- SQLite
-- ArXiv API
-- Hacker News API
+title: "shahaziya13/nexus-autonomous-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "SQLAlchemy", "SQLite", "ArXiv API", "Hacker News API"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- AI intelligence
-- editorial AI
-- topic discovery
-- memory systems
-source: https://github.com/shahaziya13/nexus-autonomous-ai
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "AI intelligence", "editorial AI", "topic discovery", "memory systems"]
+source: "https://github.com/shahaziya13/nexus-autonomous-ai"
 stars: 0
-language: Python
-last_updated: '2026-08-07T18:56:18Z'
-discovered_at: '2026-08-07T18:57:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T18:56:18Z"
+discovered_at: "2026-08-07T18:57:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

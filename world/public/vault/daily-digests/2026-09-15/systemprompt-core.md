@@ -1,34 +1,19 @@
 ---
-title: systempromptio/systemprompt-core
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Rust
-- PostgreSQL
-- ChaCha20-Poly1305
-- OAuth2
-- OIDC
-- HTTP
-- SSE
-- JSON-RPC
-- A2A Protocol
-- Model Context Protocol (MCP)
+title: "systempromptio/systemprompt-core"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "PostgreSQL", "ChaCha20-Poly1305", "OAuth2", "OIDC", "HTTP", "SSE", "JSON-RPC", "A2A Protocol", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI governance
-- agent orchestration
-- audit trails
-- security
-- Rust
-source: https://github.com/systempromptio/systemprompt-core
+deployment_complexity: "Medium"
+tags: ["AI governance", "agent orchestration", "audit trails", "security", "Rust"]
+source: "https://github.com/systempromptio/systemprompt-core"
 stars: 8
-language: Rust
-last_updated: '2026-09-01T09:03:22Z'
-discovered_at: '2026-09-01T09:12:06Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-01T09:03:22Z"
+discovered_at: "2026-09-01T09:12:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

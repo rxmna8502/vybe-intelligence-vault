@@ -1,30 +1,19 @@
 ---
-title: TouheedCode/claude-dev-workflow
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Electron
-- NestJS
-- Next.js
-- Turborepo
-- Claude Code
+title: "TouheedCode/claude-dev-workflow"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Electron", "NestJS", "Next.js", "Turborepo", "Claude Code"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- AI-assisted development
-- workflow automation
-- Claude Code integration
-- feature pipeline
-- cross-platform
-source: https://github.com/TouheedCode/claude-dev-workflow
+deployment_complexity: "Low"
+tags: ["AI-assisted development", "workflow automation", "Claude Code integration", "feature pipeline", "cross-platform"]
+source: "https://github.com/TouheedCode/claude-dev-workflow"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-10T10:50:40Z'
-discovered_at: '2026-07-10T10:51:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T10:50:40Z"
+discovered_at: "2026-07-10T10:51:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

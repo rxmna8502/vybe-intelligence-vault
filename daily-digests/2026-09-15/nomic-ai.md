@@ -1,34 +1,19 @@
 ---
-title: api-evangelist/nomic-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- TypeScript
-- REST API
-- OpenAPI
-- Hugging Face
-- Postman
-- Docker
-- LLM
-- Embeddings
-- Vector Search
+title: "api-evangelist/nomic-ai"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "TypeScript", "REST API", "OpenAPI", "Hugging Face", "Postman", "Docker", "LLM", "Embeddings", "Vector Search"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Embeddings
-- Vector Database
-- RAG
-- Open Source
-- Data Exploration
-source: https://github.com/api-evangelist/nomic-ai
+deployment_complexity: "Medium"
+tags: ["Embeddings", "Vector Database", "RAG", "Open Source", "Data Exploration"]
+source: "https://github.com/api-evangelist/nomic-ai"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:25:29Z'
-discovered_at: '2026-08-08T01:26:33Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:25:29Z"
+discovered_at: "2026-08-08T01:26:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

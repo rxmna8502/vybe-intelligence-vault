@@ -1,32 +1,19 @@
 ---
-title: itsmeakashgoyal/mcp-agenticdbg
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- CDB (Windows)
-- GDB (Linux)
-- LLDB (macOS)
-- LangGraph (optional)
-- pytest
-- CI/CD (GitHub Actions)
+title: "itsmeakashgoyal/mcp-agenticdbg"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "CDB (Windows)", "GDB (Linux)", "LLDB (macOS)", "LangGraph (optional)", "pytest", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- debugging
-- crash analysis
-- MCP server
-- AI-assisted triage
-- runtime debugging
-source: https://github.com/itsmeakashgoyal/mcp-agenticdbg
+deployment_complexity: "Medium"
+tags: ["debugging", "crash analysis", "MCP server", "AI-assisted triage", "runtime debugging"]
+source: "https://github.com/itsmeakashgoyal/mcp-agenticdbg"
 stars: 0
-language: Python
-last_updated: '2026-08-08T07:49:56Z'
-discovered_at: '2026-08-08T07:51:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T07:49:56Z"
+discovered_at: "2026-08-08T07:51:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

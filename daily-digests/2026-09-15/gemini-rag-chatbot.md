@@ -1,37 +1,19 @@
 ---
-title: MeetVora79/gemini-rag-chatbot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- React
-- Node.js
-- Express
-- Gemini API
-- ChromaDB
-- MongoDB Atlas
-- Tailwind CSS
-- Mongoose
-- pdf-parse
-- Multer
-- Axios
-- React Markdown
-- Lucide Icons
+title: "MeetVora79/gemini-rag-chatbot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["React", "Node.js", "Express", "Gemini API", "ChromaDB", "MongoDB Atlas", "Tailwind CSS", "Mongoose", "pdf-parse", "Multer", "Axios", "React Markdown", "Lucide Icons"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Gemini API
-- Vector Search
-- Full-Stack AI
-- PDF Chatbot
-source: https://github.com/MeetVora79/gemini-rag-chatbot
+deployment_complexity: "Medium"
+tags: ["RAG", "Gemini API", "Vector Search", "Full-Stack AI", "PDF Chatbot"]
+source: "https://github.com/MeetVora79/gemini-rag-chatbot"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-07T09:49:13Z'
-discovered_at: '2026-08-07T10:04:50Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T09:49:13Z"
+discovered_at: "2026-08-07T10:04:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

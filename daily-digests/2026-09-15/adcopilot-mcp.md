@@ -1,29 +1,19 @@
 ---
-title: AtromxIntelligence/adcopilot-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Model Context Protocol (MCP)
-- Google Ads API
-- OAuth 2.0
-- HTTP/REST
-- Hosted Infrastructure
+title: "AtromxIntelligence/adcopilot-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "Google Ads API", "OAuth 2.0", "HTTP/REST", "Hosted Infrastructure"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Google Ads automation
-- MCP server
-- AI agent integration
-- Hosted tooling
-- Campaign management
-source: https://github.com/AtromxIntelligence/adcopilot-mcp
+deployment_complexity: "Low"
+tags: ["Google Ads automation", "MCP server", "AI agent integration", "Hosted tooling", "Campaign management"]
+source: "https://github.com/AtromxIntelligence/adcopilot-mcp"
 stars: 0
-language: None
-last_updated: '2026-08-09T22:29:52Z'
-discovered_at: '2026-08-09T22:35:04Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-09T22:29:52Z"
+discovered_at: "2026-08-09T22:35:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: hreinberger/mollie-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Mollie API Client
-- Model Context Protocol (MCP)
-- dotenv
+title: "hreinberger/mollie-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Mollie API Client", "Model Context Protocol (MCP)", "dotenv"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Mollie API
-- Payment Data
-- Natural Language Queries
-- Financial Integration
-source: https://github.com/hreinberger/mollie-mcp
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Mollie API", "Payment Data", "Natural Language Queries", "Financial Integration"]
+source: "https://github.com/hreinberger/mollie-mcp"
 stars: 3
-language: TypeScript
-last_updated: '2026-09-03T08:35:07Z'
-discovered_at: '2026-09-03T08:39:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T08:35:07Z"
+discovered_at: "2026-09-03T08:39:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

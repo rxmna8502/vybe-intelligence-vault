@@ -1,31 +1,19 @@
 ---
-title: BuildWithAbid/mcp-shield
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- npm
-- CLI tools
-- MCP (Model Context Protocol)
-- Security scanning
-- Concurrency (Promise.allSettled)
+title: "BuildWithAbid/mcp-shield"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "npm", "CLI tools", "MCP (Model Context Protocol)", "Security scanning", "Concurrency (Promise.allSettled)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- security
-- MCP
-- prompt injection
-- supply chain
-- AI agent protection
-source: https://github.com/BuildWithAbid/mcp-shield
+deployment_complexity: "Medium"
+tags: ["security", "MCP", "prompt injection", "supply chain", "AI agent protection"]
+source: "https://github.com/BuildWithAbid/mcp-shield"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-02T10:29:07Z'
-discovered_at: '2026-08-02T10:41:41Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T10:29:07Z"
+discovered_at: "2026-08-02T10:41:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

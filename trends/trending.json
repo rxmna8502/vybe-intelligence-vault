@@ -1,322 +1,6 @@
 {
-  "generated_at": "2026-09-15T10:56:42.199029+05:30",
+  "generated_at": "2026-09-15T15:47:27.425160+05:30",
   "trending_resources": [
-    {
-      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
-      "title": "ragnarokoffline/ragnarokoffline.github.io",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
-      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1015,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1016,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1016,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:computer-vision",
-      "title": "Computer vision",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/computer-vision",
-      "file_path": "ai/companies/computer-vision.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1016,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1016,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
-      "title": "ragnarokoffline/ragnarokoffline.github.io",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
-      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1015,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:responsible-scaling-policy",
-      "title": "Responsible Scaling Policy",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-      "file_path": "ai/companies/anthropic/responsible-scaling-policy.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:jul-27-2026announcementsour-position-on-open-weigh",
-      "title": "Jul 27, 2026AnnouncementsOur position on open-weights models",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/position-open-weights-models",
-      "file_path": "ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:jul-30-2026announcementsinvestigating-three-real-w",
-      "title": "Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "file_path": "ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:aug-4-2026announcementsmariano-florentino-tino-cue",
-      "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/tino-cuellar",
-      "file_path": "ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:aug-7-2026productimproving-fable-5-s-biology-safeg",
-      "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "file_path": "ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:aug-14-2026announcementshow-claudes-text-watermark",
-      "title": "Aug 14, 2026AnnouncementsHow Claude’s text watermark works",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/claude-text-watermark",
-      "file_path": "ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:aug-25-2026announcementsfunding-better-evaluations",
-      "title": "Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/wellbeing-research-grants",
-      "file_path": "ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:openai-bots-knew-about-the-rubygems-caching-vulner",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "file_path": "ai/community/openai-bots-knew-about-the-rubygems-caching-vulner.md",
-      "score": 411,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:why-don-t-machine-learning-research-agents-overfit",
-      "title": "Why don't machine learning research agents overfit?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "file_path": "ai/community/why-don-t-machine-learning-research-agents-overfit.md",
-      "score": 115,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ce",
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "file_path": "ai/community/ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ce.md",
-      "score": 97,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:dropping-ebpf-cpu-cost-by-about-90-with-memoizatio",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-      "file_path": "ai/community/dropping-ebpf-cpu-cost-by-about-90-with-memoizatio.md",
-      "score": 73,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2609.12839",
       "title": "Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks",
@@ -326,8 +10,8 @@
       "file_path": "ai/agents/arxiv-2609-12839.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +23,8 @@
       "file_path": "ai/research/arxiv-2608-25536.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +36,8 @@
       "file_path": "ai/rag/arxiv-2608-25241.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +49,8 @@
       "file_path": "ai/research/arxiv-2608-05850.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +62,8 @@
       "file_path": "ai/rag/arxiv-2607-01241.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +75,8 @@
       "file_path": "ai/rag/arxiv-2606-22906.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +88,8 @@
       "file_path": "ai/research/arxiv-2606-21869.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,8 +101,8 @@
       "file_path": "ai/agents/arxiv-2606-20980.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -430,8 +114,8 @@
       "file_path": "ai/research/arxiv-2606-07834.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -443,17 +127,151 @@
       "file_path": "ai/research/arxiv-2606-02737.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 34,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/infiniflow/ragflow",
+      "file_path": "ai/rag/infiniflow-ragflow-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 28157,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2605.30984",
-      "title": "Generating Reports or Repeating Templates? Measuring and Mitigating Template Collapse in 3D CT Report Generation",
+      "id": "github:ruc-nlpir/flashrag",
+      "title": "RUC-NLPIR/FlashRAG",
       "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2605.30984",
-      "file_path": "ai/rag/arxiv-2605-30984.md",
+      "source_type": "github",
+      "url": "https://github.com/ruc-nlpir/flashrag",
+      "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 25354,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:stanford-oval/storm",
+      "title": "stanford-oval/storm",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/stanford-oval/storm",
+      "file_path": "ai/rag/stanford-oval-storm.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 17139,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:vercel/ai",
+      "title": "vercel/ai",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/vercel/ai",
+      "file_path": "ai/agents/vercel-ai.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1005,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1005,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:siyulilyqian/scipytutorial2025_rag",
+      "title": "SiyuLilyQian/ScipyTutorial2025_RAG",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/siyulilyqian/scipytutorial2025_rag",
+      "file_path": "ai/rag/siyulilyqian-scipytutorial2025-rag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1004,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1004,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1004,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1004,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:malonge/ragoo",
+      "title": "malonge/RaGOO",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/malonge/ragoo",
+      "file_path": "ai/rag/malonge-ragoo.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1004,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:quality",
+      "title": "[QUALITY] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/quality-feedback.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,72 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:why-are-ai-agents-lying-cheating-and-coordinating",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "file_path": "ai/community/why-are-ai-agents-lying-cheating-and-coordinating.md"
-    },
-    {
-      "id": "hackernews:garry-tan-wants-us-open-weight-ai-labs-to-distill",
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-      "file_path": "ai/community/garry-tan-wants-us-open-weight-ai-labs-to-distill.md"
-    },
-    {
-      "id": "youtube:_TBNJyztai0",
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://youtube.com/watch?v=_TBNJyztai0",
-      "file_path": "ai/community/youtube-tbnjyztai0.md"
-    },
-    {
-      "id": "github:feralfirmware/tailtalk",
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/feralfirmware/tailtalk",
-      "file_path": "ai/community/feralfirmware-tailtalk.md"
-    },
-    {
-      "id": "hackernews:there-is-no-ai-it-s-just-people-with-jaron-lanier",
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript",
-      "file_path": "ai/community/there-is-no-ai-it-s-just-people-with-jaron-lanier.md"
-    },
-    {
-      "id": "hackernews:ai-recursive-self-improvement-might-not-come-so-qu",
-      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-      "file_path": "ai/community/ai-recursive-self-improvement-might-not-come-so-qu.md"
-    },
-    {
-      "id": "hackernews:reverse-engineering-claude-web-s-microvm-uncoverin",
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-      "file_path": "ai/community/reverse-engineering-claude-web-s-microvm-uncoverin.md"
-    },
-    {
-      "id": "github:misqe/zero-trust-llm",
-      "title": "A computational constitution to stop LLM agents from bricking servers",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/misqe/zero-trust-llm",
-      "file_path": "ai/community/misqe-zero-trust-llm.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

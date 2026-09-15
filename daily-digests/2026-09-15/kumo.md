@@ -1,31 +1,19 @@
 ---
-title: marcrdgz/kumo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- ratatui
-- libghostty-vt
-- portable-pty
-- Zig
-- TOML
-- GitHub CLI
+title: "marcrdgz/kumo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "ratatui", "libghostty-vt", "portable-pty", "Zig", "TOML", "GitHub CLI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal multiplexer
-- AI agent orchestrator
-- TUI
-- Rust
-- real-time monitoring
-source: https://github.com/marcrdgz/kumo
+deployment_complexity: "Medium"
+tags: ["terminal multiplexer", "AI agent orchestrator", "TUI", "Rust", "real-time monitoring"]
+source: "https://github.com/marcrdgz/kumo"
 stars: 3
-language: Rust
-last_updated: '2026-09-02T22:02:34Z'
-discovered_at: '2026-09-02T22:19:07Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-02T22:02:34Z"
+discovered_at: "2026-09-02T22:19:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

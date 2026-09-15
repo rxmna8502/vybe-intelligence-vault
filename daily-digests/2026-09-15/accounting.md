@@ -1,36 +1,19 @@
 ---
-title: sedecim-com/Accounting
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Node.js
-- TypeScript
-- PostgreSQL
-- Redis
-- Express
-- GraphQL
-- Apollo Server
-- JWT
-- zkVerify
-- Bitcoin
-- Elasticsearch
-- Docker
+title: "sedecim-com/Accounting"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "TypeScript", "PostgreSQL", "Redis", "Express", "GraphQL", "Apollo Server", "JWT", "zkVerify", "Bitcoin", "Elasticsearch", "Docker"]
 quality_score: 10
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- Accounting Engine
-- Multi-Tenancy
-- Blockchain Attestation
-- Compliance
-- Financial Automation
-source: https://github.com/sedecim-com/Accounting
+deployment_complexity: "High"
+tags: ["Accounting Engine", "Multi-Tenancy", "Blockchain Attestation", "Compliance", "Financial Automation"]
+source: "https://github.com/sedecim-com/Accounting"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T02:39:37Z'
-discovered_at: '2026-09-01T02:51:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T02:39:37Z"
+discovered_at: "2026-09-01T02:51:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

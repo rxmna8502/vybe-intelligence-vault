@@ -1,34 +1,19 @@
 ---
-title: 0xNullAI/0xNuller
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- npm
-- BLE (Bluetooth Low Energy)
-- WebRTC
-- Cloudflare Workers
-- Android (Kotlin/Java)
-- Changesets
-- MCP (Model Context Protocol)
+title: "0xNullAI/0xNuller"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Node.js", "npm", "BLE (Bluetooth Low Energy)", "WebRTC", "Cloudflare Workers", "Android (Kotlin/Java)", "Changesets", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- device control
-- AI integration
-- real-time communication
-- multiplayer
-- BLE protocol
-source: https://github.com/0xNullAI/0xNuller
+deployment_complexity: "Medium"
+tags: ["device control", "AI integration", "real-time communication", "multiplayer", "BLE protocol"]
+source: "https://github.com/0xNullAI/0xNuller"
 stars: 4
-language: TypeScript
-last_updated: '2026-09-02T02:03:22Z'
-discovered_at: '2026-09-02T02:11:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T02:03:22Z"
+discovered_at: "2026-09-02T02:11:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

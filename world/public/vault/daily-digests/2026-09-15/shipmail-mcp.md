@@ -1,30 +1,19 @@
 ---
-title: jcoulaud/shipmail-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- Webhooks
-- IMAP/SMTP
+title: "jcoulaud/shipmail-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "Webhooks", "IMAP/SMTP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP Server
-- Business Email
-- AI Agents
-- REST API
-- Custom Domain
-source: https://github.com/jcoulaud/shipmail-mcp
+deployment_complexity: "Low"
+tags: ["MCP Server", "Business Email", "AI Agents", "REST API", "Custom Domain"]
+source: "https://github.com/jcoulaud/shipmail-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-21T17:12:10Z'
-discovered_at: '2026-07-21T17:16:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T17:12:10Z"
+discovered_at: "2026-07-21T17:16:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

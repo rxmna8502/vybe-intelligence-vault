@@ -1,34 +1,19 @@
 ---
-title: pyragogy/UnPeeragogy
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Astro
-- MDX
-- Tailwind CSS
-- Alpine.js
-- TypeScript
-- MCP SDK
-- Pagefind
-- Giscus
-- d3.js
-- Node.js
+title: "pyragogy/UnPeeragogy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Astro", "MDX", "Tailwind CSS", "Alpine.js", "TypeScript", "MCP SDK", "Pagefind", "Giscus", "d3.js", "Node.js"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- peer learning
-- evidence protocol
-- MCP server
-- dual-column reading
-- knowledge friction
-source: https://github.com/pyragogy/UnPeeragogy
+deployment_complexity: "Medium"
+tags: ["peer learning", "evidence protocol", "MCP server", "dual-column reading", "knowledge friction"]
+source: "https://github.com/pyragogy/UnPeeragogy"
 stars: 1
-language: MDX
-last_updated: '2026-09-03T18:54:58Z'
-discovered_at: '2026-09-03T19:11:34Z'
-evaluated_by: mistral-small-latest
+language: "MDX"
+last_updated: "2026-09-03T18:54:58Z"
+discovered_at: "2026-09-03T19:11:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

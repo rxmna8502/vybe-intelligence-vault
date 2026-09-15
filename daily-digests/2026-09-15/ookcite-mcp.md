@@ -1,31 +1,19 @@
 ---
-title: TurtleTech-ehf/ookcite-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- REST API
-- Node.js (npm package)
-- JSON-RPC
-- BibTeX/RIS
-- CSL (Citation Style Language)
+title: "TurtleTech-ehf/ookcite-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "REST API", "Node.js (npm package)", "JSON-RPC", "BibTeX/RIS", "CSL (Citation Style Language)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- citation validation
-- DOI lookup
-- bibliography management
-- anti-hallucination
-- MCP server
-source: https://github.com/TurtleTech-ehf/ookcite-mcp
+deployment_complexity: "Low"
+tags: ["citation validation", "DOI lookup", "bibliography management", "anti-hallucination", "MCP server"]
+source: "https://github.com/TurtleTech-ehf/ookcite-mcp"
 stars: 2
-language: Rust
-last_updated: '2026-08-01T23:55:33Z'
-discovered_at: '2026-08-01T23:57:26Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T23:55:33Z"
+discovered_at: "2026-08-01T23:57:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

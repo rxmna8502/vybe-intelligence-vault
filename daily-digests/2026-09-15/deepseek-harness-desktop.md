@@ -1,34 +1,19 @@
 ---
-title: baiyuscc13724-max/deepseek-harness-desktop
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Electron
-- JavaScript
-- Node.js
-- TypeScript
-- DeepSeek Harness
-- WebRTC
-- Electron Forge
-- Scoop
-- SHA-256
-- Ed25519
+title: "baiyuscc13724-max/deepseek-harness-desktop"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Electron", "JavaScript", "Node.js", "TypeScript", "DeepSeek Harness", "WebRTC", "Electron Forge", "Scoop", "SHA-256", "Ed25519"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent framework
-- desktop client
-- DeepSeek Harness
-- cross-platform
-- plugin ecosystem
-source: https://github.com/baiyuscc13724-max/deepseek-harness-desktop
+deployment_complexity: "Medium"
+tags: ["AI agent framework", "desktop client", "DeepSeek Harness", "cross-platform", "plugin ecosystem"]
+source: "https://github.com/baiyuscc13724-max/deepseek-harness-desktop"
 stars: 11
-language: JavaScript
-last_updated: '2026-09-02T15:45:13Z'
-discovered_at: '2026-09-02T15:50:43Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T15:45:13Z"
+discovered_at: "2026-09-02T15:50:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

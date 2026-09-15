@@ -1,30 +1,19 @@
 ---
-title: bethington/ghidra-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Java
-- Ghidra
-- Model Context Protocol (MCP)
-- Maven
-- Docker
+title: "bethington/ghidra-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Java", "Ghidra", "Model Context Protocol (MCP)", "Maven", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- reverse engineering
-- binary analysis
-- MCP server
-- Ghidra integration
-- AI automation
-source: https://github.com/bethington/ghidra-mcp
+deployment_complexity: "High"
+tags: ["reverse engineering", "binary analysis", "MCP server", "Ghidra integration", "AI automation"]
+source: "https://github.com/bethington/ghidra-mcp"
 stars: 3103
-language: Python
-last_updated: '2026-08-02T05:46:42Z'
-discovered_at: '2026-08-02T05:57:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T05:46:42Z"
+discovered_at: "2026-08-02T05:57:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

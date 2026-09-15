@@ -1,36 +1,19 @@
 ---
-title: BurakErdemci/gamachine
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Electron
-- React
-- TypeScript
-- FastAPI
-- Python
-- Unity MCP
-- OmniSharp
-- C#
-- Monaco Editor
-- xterm.js
-- ffmpeg
-- yt-dlp
+title: "BurakErdemci/gamachine"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Electron", "React", "TypeScript", "FastAPI", "Python", "Unity MCP", "OmniSharp", "C#", "Monaco Editor", "xterm.js", "ffmpeg", "yt-dlp"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- Unity development
-- multi-model support
-- live editor control
-- approval gating
-source: https://github.com/BurakErdemci/gamachine
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "Unity development", "multi-model support", "live editor control", "approval gating"]
+source: "https://github.com/BurakErdemci/gamachine"
 stars: 2
-language: C#
-last_updated: '2026-08-08T13:42:38Z'
-discovered_at: '2026-08-08T13:48:39Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-08T13:42:38Z"
+discovered_at: "2026-08-08T13:48:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

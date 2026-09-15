@@ -1,35 +1,19 @@
 ---
-title: thereal-baitjet/santos-audit-api
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Next.js
-- Vercel
-- TypeScript
-- JavaScript
-- x402 Protocol
-- USDC (Base)
-- Cheerio
-- Playwright
-- Fly.io
-- OpenAPI 3.1
-- MCP (Model Context Protocol)
+title: "thereal-baitjet/santos-audit-api"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js", "Vercel", "TypeScript", "JavaScript", "x402 Protocol", "USDC (Base)", "Cheerio", "Playwright", "Fly.io", "OpenAPI 3.1", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent readiness
-- website auditing
-- x402 payments
-- USDC on Base
-- structured intelligence
-source: https://github.com/thereal-baitjet/santos-audit-api
+deployment_complexity: "Medium"
+tags: ["AI agent readiness", "website auditing", "x402 payments", "USDC on Base", "structured intelligence"]
+source: "https://github.com/thereal-baitjet/santos-audit-api"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-18T22:44:54Z'
-discovered_at: '2026-07-18T22:46:47Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-18T22:44:54Z"
+discovered_at: "2026-07-18T22:46:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: Thepizzapie/BuildersGate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python 3.11+
-- MCP (Model Context Protocol)
-- SQLite
-- Godot 4.x
-- Blender 4.2+
-- FastAPI
-- Claude Code
-- FFmpeg
-- Whisper (STT)
-- PyInstaller
+title: "Thepizzapie/BuildersGate"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.11+", "MCP (Model Context Protocol)", "SQLite", "Godot 4.x", "Blender 4.2+", "FastAPI", "Claude Code", "FFmpeg", "Whisper (STT)", "PyInstaller"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-agent collaboration
-- game development
-- MCP server
-- Claude Code integration
-- local-first
-source: https://github.com/Thepizzapie/BuildersGate
+deployment_complexity: "Medium"
+tags: ["multi-agent collaboration", "game development", "MCP server", "Claude Code integration", "local-first"]
+source: "https://github.com/Thepizzapie/BuildersGate"
 stars: 17
-language: Python
-last_updated: '2026-08-08T03:25:19Z'
-discovered_at: '2026-08-08T03:28:12Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T03:25:19Z"
+discovered_at: "2026-08-08T03:28:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

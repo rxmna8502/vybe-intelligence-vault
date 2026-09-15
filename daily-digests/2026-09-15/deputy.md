@@ -1,30 +1,19 @@
 ---
-title: tonychen15/deputy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Bash
-- Git
-- LLM APIs (Claude, Codex, Gemini)
-- jq
-- bubblewrap (bwrap)
-- Shell scripting
+title: "tonychen15/deputy"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Bash", "Git", "LLM APIs (Claude, Codex, Gemini)", "jq", "bubblewrap (bwrap)", "Shell scripting"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- task orchestration
-- LLM integration
-- git worktrees
-- priority scheduling
-source: https://github.com/tonychen15/deputy
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "task orchestration", "LLM integration", "git worktrees", "priority scheduling"]
+source: "https://github.com/tonychen15/deputy"
 stars: 0
-language: Shell
-last_updated: '2026-07-15T20:07:31Z'
-discovered_at: '2026-07-15T20:07:56Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-15T20:07:31Z"
+discovered_at: "2026-07-15T20:07:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

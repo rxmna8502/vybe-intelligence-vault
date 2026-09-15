@@ -1,28 +1,19 @@
 ---
-title: la-rebelion/be-hapi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Bash
-- PowerShell
-- CLI
-- MCP (Model Context Protocol)
+title: "la-rebelion/be-hapi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Bash", "PowerShell", "CLI", "MCP (Model Context Protocol)"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP
-- CLI
-- API
-- installer
-- Model Context Protocol
-source: https://github.com/la-rebelion/be-hapi
+deployment_complexity: "Low"
+tags: ["MCP", "CLI", "API", "installer", "Model Context Protocol"]
+source: "https://github.com/la-rebelion/be-hapi"
 stars: 1
-language: PowerShell
-last_updated: '2026-08-08T16:29:00Z'
-discovered_at: '2026-08-08T16:35:55Z'
-evaluated_by: mistral-small-latest
+language: "PowerShell"
+last_updated: "2026-08-08T16:29:00Z"
+discovered_at: "2026-08-08T16:35:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

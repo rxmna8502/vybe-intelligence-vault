@@ -1,32 +1,19 @@
 ---
-title: joabcostamd/mcp-godot-desenvolvimento
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Godot 4.7
-- MCP (Model Context Protocol)
-- Jinja2
-- JSON-RPC 2.0
-- GDScript
-- VS Code
-- DeepSeek V4 Pro
+title: "joabcostamd/mcp-godot-desenvolvimento"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Godot 4.7", "MCP (Model Context Protocol)", "Jinja2", "JSON-RPC 2.0", "GDScript", "VS Code", "DeepSeek V4 Pro"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- game development
-- AI agent integration
-- MCP server
-- natural language programming
-- Godot automation
-source: https://github.com/joabcostamd/mcp-godot-desenvolvimento
+deployment_complexity: "Medium"
+tags: ["game development", "AI agent integration", "MCP server", "natural language programming", "Godot automation"]
+source: "https://github.com/joabcostamd/mcp-godot-desenvolvimento"
 stars: 0
-language: Python
-last_updated: '2026-07-12T20:37:31Z'
-discovered_at: '2026-07-12T20:42:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T20:37:31Z"
+discovered_at: "2026-07-12T20:42:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

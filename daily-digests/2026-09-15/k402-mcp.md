@@ -1,31 +1,19 @@
 ---
-title: Kali123411/k402-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Kaspa Blockchain
-- RISC Zero
-- Silverscript
-- FastAPI
-- WebSockets
+title: "Kali123411/k402-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Kaspa Blockchain", "RISC Zero", "Silverscript", "FastAPI", "WebSockets"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- pay-per-call
-- agent-payable APIs
-- Kaspa blockchain
-- MCP server
-- RISC Zero attestation
-source: https://github.com/Kali123411/k402-mcp
+deployment_complexity: "Medium"
+tags: ["pay-per-call", "agent-payable APIs", "Kaspa blockchain", "MCP server", "RISC Zero attestation"]
+source: "https://github.com/Kali123411/k402-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-17T02:48:24Z'
-discovered_at: '2026-07-17T02:52:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T02:48:24Z"
+discovered_at: "2026-07-17T02:52:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

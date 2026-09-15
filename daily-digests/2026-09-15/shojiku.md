@@ -1,32 +1,19 @@
 ---
-title: kengos/shojiku
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- YAML
-- Docker
-- WASM
-- CLI
-- MCP (Model Context Protocol)
-- TypeScript (for Designer)
-- JSON
+title: "kengos/shojiku"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "YAML", "Docker", "WASM", "CLI", "MCP (Model Context Protocol)", "TypeScript (for Designer)", "JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- PDF generation
-- YAML templating
-- AI agent integration
-- local-first
-- business documents
-source: https://github.com/kengos/shojiku
+deployment_complexity: "Medium"
+tags: ["PDF generation", "YAML templating", "AI agent integration", "local-first", "business documents"]
+source: "https://github.com/kengos/shojiku"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-02T02:25:31Z'
-discovered_at: '2026-08-02T02:34:59Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T02:25:31Z"
+discovered_at: "2026-08-02T02:34:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: GoBeromsu/oh-my-second-brain
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Node.js
-- Obsidian
-- Markdown
-- CLI
-- MCP (Model Context Protocol)
-- Vector Search
-- HyDE (Hypothetical Document Embeddings)
-- GGUF (Local Embedding Models)
+title: "GoBeromsu/oh-my-second-brain"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Obsidian", "Markdown", "CLI", "MCP (Model Context Protocol)", "Vector Search", "HyDE (Hypothetical Document Embeddings)", "GGUF (Local Embedding Models)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- knowledge management
-- template system
-- ontology
-- vector search
-- MCP integration
-source: https://github.com/GoBeromsu/oh-my-second-brain
+deployment_complexity: "Medium"
+tags: ["knowledge management", "template system", "ontology", "vector search", "MCP integration"]
+source: "https://github.com/GoBeromsu/oh-my-second-brain"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-01T08:58:27Z'
-discovered_at: '2026-09-01T09:11:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T08:58:27Z"
+discovered_at: "2026-09-01T09:11:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

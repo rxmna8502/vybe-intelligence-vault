@@ -1,31 +1,19 @@
 ---
-title: xinglun/ai-cockpit-template
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Git
-- GNU Make
-- POSIX Shell
-- YAML
-- JSON
-- CI/CD
+title: "xinglun/ai-cockpit-template"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Git", "GNU Make", "POSIX Shell", "YAML", "JSON", "CI/CD"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI governance
-- evidence-based review
-- agentic coding
-- workflow automation
-- repository integrity
-source: https://github.com/xinglun/ai-cockpit-template
+deployment_complexity: "Medium"
+tags: ["AI governance", "evidence-based review", "agentic coding", "workflow automation", "repository integrity"]
+source: "https://github.com/xinglun/ai-cockpit-template"
 stars: 1
-language: Python
-last_updated: '2026-07-15T02:11:30Z'
-discovered_at: '2026-07-15T02:12:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T02:11:30Z"
+discovered_at: "2026-07-15T02:12:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

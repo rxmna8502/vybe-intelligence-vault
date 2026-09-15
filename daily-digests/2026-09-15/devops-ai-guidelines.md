@@ -1,30 +1,19 @@
 ---
-title: VersusControl/devops-ai-guidelines
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Golang
-- LangChain
-- Kubernetes
-- AWS
-- OpenClaw
+title: "VersusControl/devops-ai-guidelines"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Golang", "LangChain", "Kubernetes", "AWS", "OpenClaw"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- DevOps
-- AI integration
-- Learning path
-- Career development
-- Enterprise frameworks
-source: https://github.com/VersusControl/devops-ai-guidelines
+deployment_complexity: "Low"
+tags: ["DevOps", "AI integration", "Learning path", "Career development", "Enterprise frameworks"]
+source: "https://github.com/VersusControl/devops-ai-guidelines"
 stars: 1382
-language: Python
-last_updated: '2026-08-03T16:20:21Z'
-discovered_at: '2026-08-03T16:25:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T16:20:21Z"
+discovered_at: "2026-08-03T16:25:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

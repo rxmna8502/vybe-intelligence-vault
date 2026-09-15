@@ -1,31 +1,19 @@
 ---
-title: airmang/python-hwpx-automation
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- HWPX (KS X 6101 standard)
-- Model Context Protocol (MCP)
-- SQLite
-- CLI
-- PyPI
-- GitHub Actions
+title: "airmang/python-hwpx-automation"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "HWPX (KS X 6101 standard)", "Model Context Protocol (MCP)", "SQLite", "CLI", "PyPI", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- HWPX automation
-- document processing
-- form filling
-- MCP server
-- Korean word processor
-source: https://github.com/airmang/python-hwpx-automation
+deployment_complexity: "Low"
+tags: ["HWPX automation", "document processing", "form filling", "MCP server", "Korean word processor"]
+source: "https://github.com/airmang/python-hwpx-automation"
 stars: 65
-language: Python
-last_updated: '2026-08-07T10:57:52Z'
-discovered_at: '2026-08-07T11:04:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T10:57:52Z"
+discovered_at: "2026-08-07T11:04:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: pvpavankumar/n8n-job-application-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- n8n
-- Gmail API
-- OpenAI Responses API
-- JavaScript/TypeScript
-- OAuth 2.0
-- REST APIs
+title: "pvpavankumar/n8n-job-application-agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["n8n", "Gmail API", "OpenAI Responses API", "JavaScript/TypeScript", "OAuth 2.0", "REST APIs"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- job application automation
-- human-in-the-loop
-- Gmail monitoring
-- OpenAI integration
-- n8n workflow
-source: https://github.com/pvpavankumar/n8n-job-application-agent
+deployment_complexity: "Medium"
+tags: ["job application automation", "human-in-the-loop", "Gmail monitoring", "OpenAI integration", "n8n workflow"]
+source: "https://github.com/pvpavankumar/n8n-job-application-agent"
 stars: 0
-language: None
-last_updated: '2026-09-01T18:54:05Z'
-discovered_at: '2026-09-01T19:06:49Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-01T18:54:05Z"
+discovered_at: "2026-09-01T19:06:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

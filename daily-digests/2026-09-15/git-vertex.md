@@ -1,30 +1,19 @@
 ---
-title: VictorQuilgars/git-vertex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Electron
-- React
-- TypeScript
-- simple-git
-- electron-vite
-- Node.js
+title: "VictorQuilgars/git-vertex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "React", "TypeScript", "simple-git", "electron-vite", "Node.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Git client
-- Visualization
-- AI-assisted commits
-- Multi-platform
-- Developer tools
-source: https://github.com/VictorQuilgars/git-vertex
+deployment_complexity: "Medium"
+tags: ["Git client", "Visualization", "AI-assisted commits", "Multi-platform", "Developer tools"]
+source: "https://github.com/VictorQuilgars/git-vertex"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T19:05:00Z'
-discovered_at: '2026-08-01T19:19:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T19:05:00Z"
+discovered_at: "2026-08-01T19:19:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: Jiangxianze/rag-regression-gate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Java
-- Spring AI
-- Maven
-- YAML
-- JSON
-- SARIF
+title: "Jiangxianze/rag-regression-gate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Java", "Spring AI", "Maven", "YAML", "JSON", "SARIF"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- retrieval regression
-- CI/CD gate
-- deterministic testing
-- Spring AI
-- RAG pipeline
-source: https://github.com/Jiangxianze/rag-regression-gate
+deployment_complexity: "Medium"
+tags: ["retrieval regression", "CI/CD gate", "deterministic testing", "Spring AI", "RAG pipeline"]
+source: "https://github.com/Jiangxianze/rag-regression-gate"
 stars: 0
-language: Java
-last_updated: '2026-08-08T05:38:33Z'
-discovered_at: '2026-08-08T05:46:07Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-08T05:38:33Z"
+discovered_at: "2026-08-08T05:46:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

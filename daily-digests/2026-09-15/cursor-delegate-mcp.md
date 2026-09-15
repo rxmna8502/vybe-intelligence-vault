@@ -1,30 +1,19 @@
 ---
-title: andreilungeanu/cursor-delegate-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- Cursor CLI
-- TypeScript (inferred from structured output)
-- npm
+title: "andreilungeanu/cursor-delegate-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Cursor CLI", "TypeScript (inferred from structured output)", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP bridge
-- AI delegation
-- Cursor integration
-- multi-file edits
-- API cost optimization
-source: https://github.com/andreilungeanu/cursor-delegate-mcp
+deployment_complexity: "Low"
+tags: ["MCP bridge", "AI delegation", "Cursor integration", "multi-file edits", "API cost optimization"]
+source: "https://github.com/andreilungeanu/cursor-delegate-mcp"
 stars: 3
-language: JavaScript
-last_updated: '2026-07-21T07:17:17Z'
-discovered_at: '2026-07-21T07:32:24Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-21T07:17:17Z"
+discovered_at: "2026-07-21T07:32:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

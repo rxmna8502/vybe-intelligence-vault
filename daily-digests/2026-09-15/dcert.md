@@ -1,32 +1,19 @@
 ---
-title: SCGIS-Wales/dcert
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- Python (PyPI package)
-- OpenSSL
-- Model Context Protocol (MCP)
-- HashiCorp Vault
-- Docker
-- Homebrew
-- Chocolatey
+title: "SCGIS-Wales/dcert"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Python (PyPI package)", "OpenSSL", "Model Context Protocol (MCP)", "HashiCorp Vault", "Docker", "Homebrew", "Chocolatey"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- TLS certificate
-- X.509
-- MCP server
-- PKI
-- security
-source: https://github.com/SCGIS-Wales/dcert
+deployment_complexity: "Medium"
+tags: ["TLS certificate", "X.509", "MCP server", "PKI", "security"]
+source: "https://github.com/SCGIS-Wales/dcert"
 stars: 4
-language: Rust
-last_updated: '2026-08-02T08:22:02Z'
-discovered_at: '2026-08-02T08:22:50Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-02T08:22:02Z"
+discovered_at: "2026-08-02T08:22:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

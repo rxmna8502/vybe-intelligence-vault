@@ -1,30 +1,19 @@
 ---
-title: baryhuang/claude-code-voice-mlx
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Apple MLX
-- Kokoro TTS
-- Swift/SwiftUI
-- Unix sockets
-- Claude Code hooks
+title: "baryhuang/claude-code-voice-mlx"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Apple MLX", "Kokoro TTS", "Swift/SwiftUI", "Unix sockets", "Claude Code hooks"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- text-to-speech
-- multi-agent orchestration
-- offline TTS
-- Claude Code integration
-- Apple Silicon
-source: https://github.com/baryhuang/claude-code-voice-mlx
+deployment_complexity: "Medium"
+tags: ["text-to-speech", "multi-agent orchestration", "offline TTS", "Claude Code integration", "Apple Silicon"]
+source: "https://github.com/baryhuang/claude-code-voice-mlx"
 stars: 0
-language: Python
-last_updated: '2026-08-08T01:24:53Z'
-discovered_at: '2026-08-08T01:26:12Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T01:24:53Z"
+discovered_at: "2026-08-08T01:26:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

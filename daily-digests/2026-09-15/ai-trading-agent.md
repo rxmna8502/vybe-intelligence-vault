@@ -1,28 +1,19 @@
 ---
-title: Daniyal-GraphicDesigner/ai-trading-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- CSS
-- AI/ML
-- Financial Markets
+title: "Daniyal-GraphicDesigner/ai-trading-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "CSS", "AI/ML", "Financial Markets"]
 quality_score: 3
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- trading
-- AI agent
-- financial markets
-- JavaScript
-- automation
-source: https://github.com/Daniyal-GraphicDesigner/ai-trading-agent
+deployment_complexity: "Medium"
+tags: ["trading", "AI agent", "financial markets", "JavaScript", "automation"]
+source: "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
 stars: 2
-language: CSS
-last_updated: '2026-09-01T22:09:46Z'
-discovered_at: '2026-09-01T22:18:44Z'
-evaluated_by: mistral-small-latest
+language: "CSS"
+last_updated: "2026-09-01T22:09:46Z"
+discovered_at: "2026-09-01T22:18:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

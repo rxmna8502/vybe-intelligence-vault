@@ -1,28 +1,19 @@
 ---
-title: a258huit58/claude-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- JavaScript
-- Windows API
-- Model Context Protocol (MCP)
-- Local File System
+title: "a258huit58/claude-memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Windows API", "Model Context Protocol (MCP)", "Local File System"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- persistent memory
-- Claude Code plugin
-- session recovery
-- local storage
-- context management
-source: https://github.com/a258huit58/claude-memory
+deployment_complexity: "Low"
+tags: ["persistent memory", "Claude Code plugin", "session recovery", "local storage", "context management"]
+source: "https://github.com/a258huit58/claude-memory"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-12T23:46:35Z'
-discovered_at: '2026-07-12T23:52:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-12T23:46:35Z"
+discovered_at: "2026-07-12T23:52:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

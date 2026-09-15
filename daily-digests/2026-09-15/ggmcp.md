@@ -1,30 +1,19 @@
 ---
-title: GitGuardian/ggmcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- GitGuardian API
-- Docker
-- OAuth
-- StreamableHTTP
+title: "GitGuardian/ggmcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "GitGuardian API", "Docker", "OAuth", "StreamableHTTP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- secret scanning
-- incident management
-- honeytokens
-- AI agent integration
-- security automation
-source: https://github.com/GitGuardian/ggmcp
+deployment_complexity: "Medium"
+tags: ["secret scanning", "incident management", "honeytokens", "AI agent integration", "security automation"]
+source: "https://github.com/GitGuardian/ggmcp"
 stars: 37
-language: Python
-last_updated: '2026-08-05T16:34:37Z'
-discovered_at: '2026-08-05T16:46:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T16:34:37Z"
+discovered_at: "2026-08-05T16:46:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

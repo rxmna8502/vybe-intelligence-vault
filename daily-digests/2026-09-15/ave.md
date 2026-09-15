@@ -1,30 +1,19 @@
 ---
-title: aveproject/ave
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- JSON Schema
-- OWASP AIVSS
-- SARIF
-- GitHub Actions
-- OpenSSF Scorecard
+title: "aveproject/ave"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "JSON Schema", "OWASP AIVSS", "SARIF", "GitHub Actions", "OpenSSF Scorecard"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- vulnerability enumeration
-- agent security
-- MCP security
-- AI threat modeling
-- behavioral classification
-source: https://github.com/aveproject/ave
+deployment_complexity: "Medium"
+tags: ["vulnerability enumeration", "agent security", "MCP security", "AI threat modeling", "behavioral classification"]
+source: "https://github.com/aveproject/ave"
 stars: 9
-language: Python
-last_updated: '2026-07-19T08:01:01Z'
-discovered_at: '2026-07-19T08:13:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T08:01:01Z"
+discovered_at: "2026-07-19T08:13:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

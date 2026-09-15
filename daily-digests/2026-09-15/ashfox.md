@@ -1,32 +1,19 @@
 ---
-title: sigee-min/ashfox
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- Blockbench
-- WebAssembly
-- GLB/glTF
-- Node.js
-- React
-- WebGL
+title: "sigee-min/ashfox"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Blockbench", "WebAssembly", "GLB/glTF", "Node.js", "React", "WebGL"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- 3D modeling
-- AI agent integration
-- low-poly assets
-- game asset pipeline
-- MCP server
-source: https://github.com/sigee-min/ashfox
+deployment_complexity: "Medium"
+tags: ["3D modeling", "AI agent integration", "low-poly assets", "game asset pipeline", "MCP server"]
+source: "https://github.com/sigee-min/ashfox"
 stars: 25
-language: TypeScript
-last_updated: '2026-08-02T05:45:07Z'
-discovered_at: '2026-08-02T05:57:22Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T05:45:07Z"
+discovered_at: "2026-08-02T05:57:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

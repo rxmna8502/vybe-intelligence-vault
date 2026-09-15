@@ -1,38 +1,19 @@
 ---
-title: benseverndev-oss/goldenmatch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Rust
-- Python
-- TypeScript
-- Arrow
-- SQL
-- Postgres
-- DuckDB
-- DataFusion
-- Ray
-- Spark
-- WASM
-- FastAPI
-- React
-- MCP (Model Context Protocol)
+title: "benseverndev-oss/goldenmatch"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Python", "TypeScript", "Arrow", "SQL", "Postgres", "DuckDB", "DataFusion", "Ray", "Spark", "WASM", "FastAPI", "React", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- entity resolution
-- customer 360
-- data deduplication
-- provenance tracking
-- RAG preprocessing
-source: https://github.com/benseverndev-oss/goldenmatch
+deployment_complexity: "Medium"
+tags: ["entity resolution", "customer 360", "data deduplication", "provenance tracking", "RAG preprocessing"]
+source: "https://github.com/benseverndev-oss/goldenmatch"
 stars: 131
-language: Python
-last_updated: '2026-09-02T22:09:43Z'
-discovered_at: '2026-09-02T22:21:09Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:09:43Z"
+discovered_at: "2026-09-02T22:21:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

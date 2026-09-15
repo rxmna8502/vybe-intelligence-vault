@@ -1,30 +1,19 @@
 ---
-title: rlaope/oh-my-hermes
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Python
-- Hermes Agent
-- CLI
-- Workflow Orchestration
-- Natural Language Processing
-- Multi-language Support (English, Korean, Japanese, Chinese, etc.)
+title: "rlaope/oh-my-hermes"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Hermes Agent", "CLI", "Workflow Orchestration", "Natural Language Processing", "Multi-language Support (English, Korean, Japanese, Chinese, etc.)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI workflow orchestration
-- Hermes Agent extension
-- Project memory
-- Evidence-based AI
-- Multi-agent collaboration
-source: https://github.com/rlaope/oh-my-hermes
+deployment_complexity: "Medium"
+tags: ["AI workflow orchestration", "Hermes Agent extension", "Project memory", "Evidence-based AI", "Multi-agent collaboration"]
+source: "https://github.com/rlaope/oh-my-hermes"
 stars: 714
-language: Python
-last_updated: '2026-08-09T01:22:34Z'
-discovered_at: '2026-08-09T01:33:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T01:22:34Z"
+discovered_at: "2026-08-09T01:33:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: sam6dvpte34/social-media-skill
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-15
-tech_stack:
-- Browser Automation
-- Web Scraping
-- Agent Skills
-- BrowserAct
-- Structured Data Extraction
+title: "sam6dvpte34/social-media-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Browser Automation", "Web Scraping", "Agent Skills", "BrowserAct", "Structured Data Extraction"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- social media scraping
-- agent skills
-- browser automation
-- data extraction
-- RAG data pipeline
-source: https://github.com/sam6dvpte34/social-media-skill
+deployment_complexity: "Medium"
+tags: ["social media scraping", "agent skills", "browser automation", "data extraction", "RAG data pipeline"]
+source: "https://github.com/sam6dvpte34/social-media-skill"
 stars: 0
-language: None
-last_updated: '2026-07-17T10:45:08Z'
-discovered_at: '2026-07-17T10:46:18Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-17T10:45:08Z"
+discovered_at: "2026-07-17T10:46:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

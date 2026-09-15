@@ -1,36 +1,19 @@
 ---
-title: snooky234/scribedog
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- TypeScript
-- Tauri
-- React
-- Markdown
-- Ollama
-- Jan.ai
-- LM Studio
-- OpenAI API
-- Anthropic API
-- Mistral API
-- whisper.cpp
-- GitHub Actions
+title: "snooky234/scribedog"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Tauri", "React", "Markdown", "Ollama", "Jan.ai", "LM Studio", "OpenAI API", "Anthropic API", "Mistral API", "whisper.cpp", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Markdown editor
-- AI-assisted writing
-- offline-first
-- privacy-focused
-- WYSIWYG
-source: https://github.com/snooky234/scribedog
+deployment_complexity: "Medium"
+tags: ["Markdown editor", "AI-assisted writing", "offline-first", "privacy-focused", "WYSIWYG"]
+source: "https://github.com/snooky234/scribedog"
 stars: 9
-language: TypeScript
-last_updated: '2026-09-01T22:15:15Z'
-discovered_at: '2026-09-01T22:17:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T22:15:15Z"
+discovered_at: "2026-09-01T22:17:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

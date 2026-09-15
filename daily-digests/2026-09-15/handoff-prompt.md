@@ -1,29 +1,19 @@
 ---
-title: Xuepoo/handoff-prompt
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-15
-tech_stack:
-- Shell
-- Skills CLI
-- YAML
-- Markdown
-- Vercel Labs Skills
+title: "Xuepoo/handoff-prompt"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Shell", "Skills CLI", "YAML", "Markdown", "Vercel Labs Skills"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- agent session management
-- handoff prompts
-- context compression
-- AI session continuity
-- structured documentation
-source: https://github.com/Xuepoo/handoff-prompt
+deployment_complexity: "Low"
+tags: ["agent session management", "handoff prompts", "context compression", "AI session continuity", "structured documentation"]
+source: "https://github.com/Xuepoo/handoff-prompt"
 stars: 0
-language: Shell
-last_updated: '2026-08-10T09:20:32Z'
-discovered_at: '2026-08-10T09:24:39Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-10T09:20:32Z"
+discovered_at: "2026-08-10T09:24:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
