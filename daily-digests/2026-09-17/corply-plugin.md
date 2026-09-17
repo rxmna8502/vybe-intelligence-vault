@@ -1,30 +1,19 @@
 ---
-title: corply-dev/corply-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Claude Code
-- Model Context Protocol (MCP)
-- TypeScript/JavaScript (plugin)
-- Google OAuth
-- PDF generation
-- REST APIs
+title: "corply-dev/corply-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "Model Context Protocol (MCP)", "TypeScript/JavaScript (plugin)", "Google OAuth", "PDF generation", "REST APIs"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- incorporation
-- legal automation
-- Delaware C-Corp
-- founder tools
-- startup formation
-source: https://github.com/corply-dev/corply-plugin
+deployment_complexity: "Low"
+tags: ["incorporation", "legal automation", "Delaware C-Corp", "founder tools", "startup formation"]
+source: "https://github.com/corply-dev/corply-plugin"
 stars: 0
-language: None
-last_updated: '2026-07-11T22:42:22Z'
-discovered_at: '2026-07-11T22:44:57Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-11T22:42:22Z"
+discovered_at: "2026-07-11T22:44:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: Jilazem/Hermes-Mobil
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Kotlin
-- Jetpack Compose
-- OkHttp
-- WebSocket
-- CameraX
-- Gemini Live API
-- kotlinx.serialization
-- Android Auto
-- Foreground Services
-- EncryptedSharedPreferences
+title: "Jilazem/Hermes-Mobil"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Kotlin", "Jetpack Compose", "OkHttp", "WebSocket", "CameraX", "Gemini Live API", "kotlinx.serialization", "Android Auto", "Foreground Services", "EncryptedSharedPreferences"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Android client
-- AI agent interface
-- self-hosted
-- voice interaction
-- on-device control
-source: https://github.com/Jilazem/Hermes-Mobil
+deployment_complexity: "Medium"
+tags: ["Android client", "AI agent interface", "self-hosted", "voice interaction", "on-device control"]
+source: "https://github.com/Jilazem/Hermes-Mobil"
 stars: 0
-language: Kotlin
-last_updated: '2026-08-03T18:50:46Z'
-discovered_at: '2026-08-03T18:52:32Z'
-evaluated_by: mistral-small-latest
+language: "Kotlin"
+last_updated: "2026-08-03T18:50:46Z"
+discovered_at: "2026-08-03T18:52:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

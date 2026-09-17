@@ -1,29 +1,19 @@
 ---
-title: Paulus1337/OpenPhoenix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- TOML
-- Static Binary
-- Telegram API
-- LLM Providers (Claude, GPT, Ollama, etc.)
+title: "Paulus1337/OpenPhoenix"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "TOML", "Static Binary", "Telegram API", "LLM Providers (Claude, GPT, Ollama, etc.)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- privacy-first
-- static binary
-- multi-platform
-- self-hosted
-- fail-closed security
-source: https://github.com/Paulus1337/OpenPhoenix
+deployment_complexity: "Low"
+tags: ["privacy-first", "static binary", "multi-platform", "self-hosted", "fail-closed security"]
+source: "https://github.com/Paulus1337/OpenPhoenix"
 stars: 3
-language: Rust
-last_updated: '2026-08-01T09:03:18Z'
-discovered_at: '2026-08-01T09:06:15Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T09:03:18Z"
+discovered_at: "2026-08-01T09:06:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

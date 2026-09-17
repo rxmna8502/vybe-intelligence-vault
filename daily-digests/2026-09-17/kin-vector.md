@@ -1,29 +1,19 @@
 ---
-title: firelock-ai/kin-vector
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- HNSW (Hierarchical Navigable Small World)
-- SIMD (NEON)
-- UUID
-- Apache-2.0
+title: "firelock-ai/kin-vector"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "HNSW (Hierarchical Navigable Small World)", "SIMD (NEON)", "UUID", "Apache-2.0"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- vector search
-- HNSW index
-- embedding retrieval
-- Rust ANN
-- low-level primitive
-source: https://github.com/firelock-ai/kin-vector
+deployment_complexity: "Medium"
+tags: ["vector search", "HNSW index", "embedding retrieval", "Rust ANN", "low-level primitive"]
+source: "https://github.com/firelock-ai/kin-vector"
 stars: 0
-language: Rust
-last_updated: '2026-08-07T19:45:55Z'
-discovered_at: '2026-08-07T19:59:12Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T19:45:55Z"
+discovered_at: "2026-08-07T19:59:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

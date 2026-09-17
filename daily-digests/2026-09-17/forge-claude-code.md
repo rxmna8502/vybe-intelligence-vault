@@ -1,34 +1,19 @@
 ---
-title: vikas0486/forge-claude-code
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Claude Code
-- AWS Bedrock
-- MCP (Model Context Protocol)
-- Mermaid.js (for diagrams)
-- CLI tools
-- RAG (Retrieval-Augmented Generation)
-- KMS (Key Management Service)
-- AWS SSO
-- DLP (Data Loss Prevention)
+title: "vikas0486/forge-claude-code"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Claude Code", "AWS Bedrock", "MCP (Model Context Protocol)", "Mermaid.js (for diagrams)", "CLI tools", "RAG (Retrieval-Augmented Generation)", "KMS (Key Management Service)", "AWS SSO", "DLP (Data Loss Prevention)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- enterprise governance
-- Claude Code deployment
-- regulated banking
-- secure RAG
-- MCP server
-source: https://github.com/vikas0486/forge-claude-code
+deployment_complexity: "High"
+tags: ["enterprise governance", "Claude Code deployment", "regulated banking", "secure RAG", "MCP server"]
+source: "https://github.com/vikas0486/forge-claude-code"
 stars: 0
-language: Python
-last_updated: '2026-07-29T04:05:48Z'
-discovered_at: '2026-08-01T16:07:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-29T04:05:48Z"
+discovered_at: "2026-08-01T16:07:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

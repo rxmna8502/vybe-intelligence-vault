@@ -1,29 +1,19 @@
 ---
-title: GrayCodeAI/falcon
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- HTTP
-- Stdio
-- mcp-go
+title: "GrayCodeAI/falcon"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "HTTP", "Stdio", "mcp-go"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP server
-- scaffolding
-- AI tooling
-- Hawk ecosystem
-- Go library
-source: https://github.com/GrayCodeAI/falcon
+deployment_complexity: "Low"
+tags: ["MCP server", "scaffolding", "AI tooling", "Hawk ecosystem", "Go library"]
+source: "https://github.com/GrayCodeAI/falcon"
 stars: 0
-language: Go
-last_updated: '2026-09-02T15:49:59Z'
-discovered_at: '2026-09-02T15:53:09Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-02T15:49:59Z"
+discovered_at: "2026-09-02T15:53:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

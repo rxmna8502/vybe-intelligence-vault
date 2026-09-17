@@ -1,32 +1,19 @@
 ---
-title: junnnnnw00/obsidian-everywhere
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite (FTS5)
-- Graphology
-- MCP (Model Context Protocol)
-- OAuth 2.1
-- HTTP
-- Jest (for testing)
+title: "junnnnnw00/obsidian-everywhere"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "SQLite (FTS5)", "Graphology", "MCP (Model Context Protocol)", "OAuth 2.1", "HTTP", "Jest (for testing)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- Obsidian integration
-- Graph-based RAG
-- Contextual search
-- Safe editing
-source: https://github.com/junnnnnw00/obsidian-everywhere
+deployment_complexity: "Medium"
+tags: ["MCP server", "Obsidian integration", "Graph-based RAG", "Contextual search", "Safe editing"]
+source: "https://github.com/junnnnnw00/obsidian-everywhere"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-20T12:17:07Z'
-discovered_at: '2026-07-20T12:22:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-20T12:17:07Z"
+discovered_at: "2026-07-20T12:22:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

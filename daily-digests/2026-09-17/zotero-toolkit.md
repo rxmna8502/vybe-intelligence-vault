@@ -1,31 +1,19 @@
 ---
-title: adolinjonathan-bot/zotero-toolkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- Zotero Web API
-- Zotero Internal API
-- npm
-- CLI
+title: "adolinjonathan-bot/zotero-toolkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Zotero Web API", "Zotero Internal API", "npm", "CLI"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- reference management
-- MCP server
-- Zotero plugin
-- systematic review
-- research workflow
-source: https://github.com/adolinjonathan-bot/zotero-toolkit
+deployment_complexity: "Medium"
+tags: ["reference management", "MCP server", "Zotero plugin", "systematic review", "research workflow"]
+source: "https://github.com/adolinjonathan-bot/zotero-toolkit"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-03T12:41:23Z'
-discovered_at: '2026-08-03T13:42:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T12:41:23Z"
+discovered_at: "2026-08-03T13:42:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

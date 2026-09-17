@@ -1,30 +1,19 @@
 ---
-title: saita-kun/saita-kun-feeder
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- GitHub Actions
-- Python
-- Shell Scripting
-- AI Coding Agents (Claude Code, Codex CLI, Cursor)
+title: "saita-kun/saita-kun-feeder"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "GitHub Actions", "Python", "Shell Scripting", "AI Coding Agents (Claude Code, Codex CLI, Cursor)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- subsidy matching
-- automated notifications
-- AI agent integration
-- data feed consumer
-- private repo deployment
-source: https://github.com/saita-kun/saita-kun-feeder
+deployment_complexity: "Medium"
+tags: ["subsidy matching", "automated notifications", "AI agent integration", "data feed consumer", "private repo deployment"]
+source: "https://github.com/saita-kun/saita-kun-feeder"
 stars: 4
-language: JavaScript
-last_updated: '2026-09-02T19:07:01Z'
-discovered_at: '2026-09-02T19:11:22Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T19:07:01Z"
+discovered_at: "2026-09-02T19:11:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

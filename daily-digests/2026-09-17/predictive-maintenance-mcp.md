@@ -1,35 +1,19 @@
 ---
-title: LGDiMaggio/predictive-maintenance-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastAPI
-- NumPy
-- SciPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Plotly
-- PDF processing libraries
-- Claude Code plugin
+title: "LGDiMaggio/predictive-maintenance-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "NumPy", "SciPy", "Pandas", "Scikit-learn", "Matplotlib", "Plotly", "PDF processing libraries", "Claude Code plugin"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- predictive maintenance
-- vibration analysis
-- MCP server
-- fault diagnosis
-- AI agent
-source: https://github.com/LGDiMaggio/predictive-maintenance-mcp
+deployment_complexity: "Medium"
+tags: ["predictive maintenance", "vibration analysis", "MCP server", "fault diagnosis", "AI agent"]
+source: "https://github.com/LGDiMaggio/predictive-maintenance-mcp"
 stars: 69
-language: Python
-last_updated: '2026-08-08T22:29:26Z'
-discovered_at: '2026-08-08T22:31:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T22:29:26Z"
+discovered_at: "2026-08-08T22:31:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

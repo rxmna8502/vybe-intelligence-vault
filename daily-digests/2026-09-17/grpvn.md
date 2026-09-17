@@ -1,30 +1,19 @@
 ---
-title: frane/grpvn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- SQLite
-- MCP (Model Context Protocol)
-- CLI
-- Homebrew
-- PowerShell
+title: "frane/grpvn"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "CLI", "Homebrew", "PowerShell"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI agent coordination
-- local-first chat
-- peer-to-peer messaging
-- MCP integration
-- SQLite database
-source: https://github.com/frane/grpvn
+deployment_complexity: "Low"
+tags: ["AI agent coordination", "local-first chat", "peer-to-peer messaging", "MCP integration", "SQLite database"]
+source: "https://github.com/frane/grpvn"
 stars: 4
-language: Go
-last_updated: '2026-07-17T10:32:00Z'
-discovered_at: '2026-07-17T10:46:41Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-17T10:32:00Z"
+discovered_at: "2026-07-17T10:46:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: Yash-srivastav16/Sprint-Pulse
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- Next.js
-- Supabase
-- PostgreSQL
-- OpenAI API
-- Model Context Protocol (MCP)
-- Docker
-- WebVTT (for transcript parsing)
+title: "Yash-srivastav16/Sprint-Pulse"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "React", "Node.js", "Next.js", "Supabase", "PostgreSQL", "OpenAI API", "Model Context Protocol (MCP)", "Docker", "WebVTT (for transcript parsing)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- sprint risk intelligence
-- standup analytics
-- Jira-Git correlation
-- MCP tools
-- AI-driven decision briefs
-source: https://github.com/Yash-srivastav16/Sprint-Pulse
+deployment_complexity: "Medium"
+tags: ["sprint risk intelligence", "standup analytics", "Jira-Git correlation", "MCP tools", "AI-driven decision briefs"]
+source: "https://github.com/Yash-srivastav16/Sprint-Pulse"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-18T14:46:47Z'
-discovered_at: '2026-07-18T14:50:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T14:46:47Z"
+discovered_at: "2026-07-18T14:50:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

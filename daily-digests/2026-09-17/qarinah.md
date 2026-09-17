@@ -1,32 +1,19 @@
 ---
-title: AjnasNB/qarinah
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Node.js
-- SQLite
-- TypeScript
-- JSONL
-- MCP (Model Context Protocol)
-- FTS5 (Full-Text Search)
-- SHA-256
-- JavaScript/TypeScript
+title: "AjnasNB/qarinah"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "SQLite", "TypeScript", "JSONL", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "SHA-256", "JavaScript/TypeScript"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- context-engine
-- agent-handoff
-- evidence-linked
-- local-first
-- project-memory
-source: https://github.com/AjnasNB/qarinah
+deployment_complexity: "Medium"
+tags: ["context-engine", "agent-handoff", "evidence-linked", "local-first", "project-memory"]
+source: "https://github.com/AjnasNB/qarinah"
 stars: 6
-language: JavaScript
-last_updated: '2026-08-06T09:32:05Z'
-discovered_at: '2026-08-06T09:43:42Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-06T09:32:05Z"
+discovered_at: "2026-08-06T09:43:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

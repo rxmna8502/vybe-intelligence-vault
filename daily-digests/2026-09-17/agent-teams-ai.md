@@ -1,39 +1,19 @@
 ---
-title: 777genius/agent-teams-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Electron
-- React
-- Node.js
-- Claude Code
-- Cursor
-- GitHub Copilot
-- OpenCode
-- SuperGrok
-- Z.AI
-- MiniMax
-- Kiro
-- Ollama
-- OpenRouter
-- Vercel AI Gateway
+title: "777genius/agent-teams-ai"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Claude Code", "Cursor", "GitHub Copilot", "OpenCode", "SuperGrok", "Z.AI", "MiniMax", "Kiro", "Ollama", "OpenRouter", "Vercel AI Gateway"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI agent orchestration
-- multi-provider LLM
-- autonomous teams
-- kanban workflow
-- token analytics
-source: https://github.com/777genius/agent-teams-ai
+deployment_complexity: "Low"
+tags: ["AI agent orchestration", "multi-provider LLM", "autonomous teams", "kanban workflow", "token analytics"]
+source: "https://github.com/777genius/agent-teams-ai"
 stars: 2018
-language: TypeScript
-last_updated: '2026-09-01T19:02:01Z'
-discovered_at: '2026-09-01T19:08:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T19:02:01Z"
+discovered_at: "2026-09-01T19:08:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

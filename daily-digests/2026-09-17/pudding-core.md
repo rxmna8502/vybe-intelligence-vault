@@ -1,32 +1,19 @@
 ---
-title: teatak/pudding-core
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- Node.js
-- TypeScript
-- React
-- Electron
-- PortAudio
-- Ollama
-- MCP (Model Context Protocol)
+title: "teatak/pudding-core"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Go", "Node.js", "TypeScript", "React", "Electron", "PortAudio", "Ollama", "MCP (Model Context Protocol)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI workspace
-- macOS application
-- multi-session
-- MCP integration
-- open-source
-source: https://github.com/teatak/pudding-core
+deployment_complexity: "Medium"
+tags: ["AI workspace", "macOS application", "multi-session", "MCP integration", "open-source"]
+source: "https://github.com/teatak/pudding-core"
 stars: 1
-language: Go
-last_updated: '2026-09-03T08:23:19Z'
-discovered_at: '2026-09-03T08:35:49Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T08:23:19Z"
+discovered_at: "2026-09-03T08:35:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

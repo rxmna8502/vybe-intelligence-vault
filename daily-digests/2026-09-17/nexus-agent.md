@@ -1,33 +1,19 @@
 ---
-title: rudra496/nexus-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- NetworkX
-- LiteLLM
-- Ollama
-- FastAPI
-- Docker
-- YAML/JSON
-- NetworkX
-- PyPI
+title: "rudra496/nexus-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "NetworkX", "LiteLLM", "Ollama", "FastAPI", "Docker", "YAML/JSON", "NetworkX", "PyPI"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- GraphRAG
-- multi-agent system
-- plugin ecosystem
-- privacy-first
-source: https://github.com/rudra496/nexus-agent
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "GraphRAG", "multi-agent system", "plugin ecosystem", "privacy-first"]
+source: "https://github.com/rudra496/nexus-agent"
 stars: 6
-language: Python
-last_updated: '2026-08-05T18:17:26Z'
-discovered_at: '2026-08-05T18:24:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T18:17:26Z"
+discovered_at: "2026-08-05T18:24:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: Abhinav1234abhinav/neurostack
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Markdown
-- CLI
-- Local File System
+title: "Abhinav1234abhinav/neurostack"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "CLI", "Local File System"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- knowledge management
-- local-first
-- note-taking
-- search engine
-- personal AI assistant
-source: https://github.com/Abhinav1234abhinav/neurostack
+deployment_complexity: "Low"
+tags: ["knowledge management", "local-first", "note-taking", "search engine", "personal AI assistant"]
+source: "https://github.com/Abhinav1234abhinav/neurostack"
 stars: 1
-language: Python
-last_updated: '2026-07-13T20:10:51Z'
-discovered_at: '2026-07-13T20:14:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T20:10:51Z"
+discovered_at: "2026-07-13T20:14:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

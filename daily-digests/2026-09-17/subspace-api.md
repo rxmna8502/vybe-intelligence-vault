@@ -1,34 +1,19 @@
 ---
-title: subtype-space/subspace-api
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Express.js
-- Node.js
-- Model Context Protocol (MCP)
-- OAuth 2.0
-- Keycloak
-- Docker
-- SQLite
-- RapidAPI (AeroDataBox)
-- Yahoo Finance API
+title: "subtype-space/subspace-api"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Express.js", "Node.js", "Model Context Protocol (MCP)", "OAuth 2.0", "Keycloak", "Docker", "SQLite", "RapidAPI (AeroDataBox)", "Yahoo Finance API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- OAuth 2.0
-- real-time data
-- RESTful API
-- self-hosting
-source: https://github.com/subtype-space/subspace-api
+deployment_complexity: "Medium"
+tags: ["MCP server", "OAuth 2.0", "real-time data", "RESTful API", "self-hosting"]
+source: "https://github.com/subtype-space/subspace-api"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-10T18:21:08Z'
-discovered_at: '2026-07-10T18:22:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T18:21:08Z"
+discovered_at: "2026-07-10T18:22:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

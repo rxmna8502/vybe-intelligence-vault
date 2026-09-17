@@ -1,30 +1,19 @@
 ---
-title: GeiserX/atlassian-browser-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Playwright
-- MCP (Model Context Protocol)
-- mcp-atlassian
-- Chromium/Chrome
-- SSO (Okta, SAML, Azure AD, etc.)
+title: "GeiserX/atlassian-browser-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "MCP (Model Context Protocol)", "mcp-atlassian", "Chromium/Chrome", "SSO (Okta, SAML, Azure AD, etc.)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Atlassian integration
-- SSO authentication
-- MCP server
-- Playwright automation
-- RAG tooling
-source: https://github.com/GeiserX/atlassian-browser-mcp
+deployment_complexity: "Medium"
+tags: ["Atlassian integration", "SSO authentication", "MCP server", "Playwright automation", "RAG tooling"]
+source: "https://github.com/GeiserX/atlassian-browser-mcp"
 stars: 3
-language: Python
-last_updated: '2026-07-18T19:00:02Z'
-discovered_at: '2026-07-18T19:02:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T19:00:02Z"
+discovered_at: "2026-07-18T19:02:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

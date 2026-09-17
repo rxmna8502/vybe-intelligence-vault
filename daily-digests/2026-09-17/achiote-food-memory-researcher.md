@@ -1,29 +1,19 @@
 ---
-title: simongonzalezdc/achiote-food-memory-researcher
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- CLI
-- MCP (Model Context Protocol)
-- Structured agent frameworks
-- Natural language processing (NLP)
+title: "simongonzalezdc/achiote-food-memory-researcher"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "CLI", "MCP (Model Context Protocol)", "Structured agent frameworks", "Natural language processing (NLP)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- food memory
-- heritage reconstruction
-- evidence-based research
-- sensory reasoning
-- family recipe recovery
-source: https://github.com/simongonzalezdc/achiote-food-memory-researcher
+deployment_complexity: "Medium"
+tags: ["food memory", "heritage reconstruction", "evidence-based research", "sensory reasoning", "family recipe recovery"]
+source: "https://github.com/simongonzalezdc/achiote-food-memory-researcher"
 stars: 0
-language: Python
-last_updated: '2026-09-01T22:12:06Z'
-discovered_at: '2026-09-01T22:17:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T22:12:06Z"
+discovered_at: "2026-09-01T22:17:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

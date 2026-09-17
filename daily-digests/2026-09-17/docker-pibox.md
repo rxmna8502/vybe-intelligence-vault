@@ -1,32 +1,19 @@
 ---
-title: psyb0t/docker-pibox
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Docker
-- FastAPI
-- Python
-- Model Context Protocol (MCP)
-- Telegram Bot API
-- Cron Scheduler
-- OpenAI-compatible API
-- Anthropic API
+title: "psyb0t/docker-pibox"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Docker", "FastAPI", "Python", "Model Context Protocol (MCP)", "Telegram Bot API", "Cron Scheduler", "OpenAI-compatible API", "Anthropic API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- LLM orchestration
-- multi-modal agent
-- containerized AI
-- API gateway
-- MCP server
-source: https://github.com/psyb0t/docker-pibox
+deployment_complexity: "Medium"
+tags: ["LLM orchestration", "multi-modal agent", "containerized AI", "API gateway", "MCP server"]
+source: "https://github.com/psyb0t/docker-pibox"
 stars: 0
-language: Shell
-last_updated: '2026-08-01T17:58:54Z'
-discovered_at: '2026-08-01T17:59:56Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-01T17:58:54Z"
+discovered_at: "2026-08-01T17:59:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

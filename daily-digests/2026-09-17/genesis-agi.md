@@ -1,35 +1,19 @@
 ---
-title: WingedGuardian/GENesis-AGI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python 3.12
-- Claude Code
-- Node.js
-- Playwright
-- Qdrant (Vector DB)
-- SQLite
-- MCP Servers
-- Docker/Incus
-- Tailscale
-- Mermaid.js (for diagrams)
-- FastAPI (Dashboard/API)
+title: "WingedGuardian/GENesis-AGI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12", "Claude Code", "Node.js", "Playwright", "Qdrant (Vector DB)", "SQLite", "MCP Servers", "Docker/Incus", "Tailscale", "Mermaid.js (for diagrams)", "FastAPI (Dashboard/API)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- Personal AGI
-- Autonomous Agents
-- Memory Systems
-- Self-Learning
-- Earned Autonomy
-source: https://github.com/WingedGuardian/GENesis-AGI
+deployment_complexity: "High"
+tags: ["Personal AGI", "Autonomous Agents", "Memory Systems", "Self-Learning", "Earned Autonomy"]
+source: "https://github.com/WingedGuardian/GENesis-AGI"
 stars: 93
-language: Python
-last_updated: '2026-09-03T02:10:38Z'
-discovered_at: '2026-09-03T02:16:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T02:10:38Z"
+discovered_at: "2026-09-03T02:16:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: goofrey/zoom-search
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- pytest
-- MCP (Model Context Protocol)
-- LangGraph
-- LangChain
-- Tavily
-- SerpAPI
-- OpenAI-compatible APIs
+title: "goofrey/zoom-search"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "pytest", "MCP (Model Context Protocol)", "LangGraph", "LangChain", "Tavily", "SerpAPI", "OpenAI-compatible APIs"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- search optimization
-- agent tools
-- evidence gathering
-- query rewriting
-- source zooming
-source: https://github.com/goofrey/zoom-search
+deployment_complexity: "Medium"
+tags: ["search optimization", "agent tools", "evidence gathering", "query rewriting", "source zooming"]
+source: "https://github.com/goofrey/zoom-search"
 stars: 1
-language: Python
-last_updated: '2026-07-15T18:02:27Z'
-discovered_at: '2026-07-15T18:06:20Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T18:02:27Z"
+discovered_at: "2026-07-15T18:06:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

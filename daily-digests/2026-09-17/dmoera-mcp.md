@@ -1,29 +1,19 @@
 ---
-title: CacheCarti/dmoera-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- HTTP API
-- Requests
-- FastAPI (implied by MCP server structure)
+title: "CacheCarti/dmoera-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "HTTP API", "Requests", "FastAPI (implied by MCP server structure)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- crypto trading
-- MCP server
-- AI agent integration
-- hedge fund management
-- strategy backtesting
-source: https://github.com/CacheCarti/dmoera-mcp
+deployment_complexity: "Medium"
+tags: ["crypto trading", "MCP server", "AI agent integration", "hedge fund management", "strategy backtesting"]
+source: "https://github.com/CacheCarti/dmoera-mcp"
 stars: 8
-language: Python
-last_updated: '2026-09-01T18:18:20Z'
-discovered_at: '2026-09-03T15:35:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T18:18:20Z"
+discovered_at: "2026-09-03T15:35:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

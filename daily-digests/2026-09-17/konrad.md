@@ -1,35 +1,19 @@
 ---
-title: jlbauss/konrad
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Shell
-- Podman
-- Docker (untested)
-- Python
-- opencode
-- LM Studio
-- Ollama
-- llama.cpp
-- Rust (implied by tooling)
-- Git
-- Markdown
+title: "jlbauss/konrad"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Shell", "Podman", "Docker (untested)", "Python", "opencode", "LM Studio", "Ollama", "llama.cpp", "Rust (implied by tooling)", "Git", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local AI
-- sandboxed agent
-- privacy-focused
-- file processing
-- self-hosted
-source: https://github.com/jlbauss/konrad
+deployment_complexity: "Medium"
+tags: ["local AI", "sandboxed agent", "privacy-focused", "file processing", "self-hosted"]
+source: "https://github.com/jlbauss/konrad"
 stars: 0
-language: Shell
-last_updated: '2026-08-04T00:05:00Z'
-discovered_at: '2026-08-04T00:10:59Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-04T00:05:00Z"
+discovered_at: "2026-08-04T00:10:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

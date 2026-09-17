@@ -1,30 +1,19 @@
 ---
-title: PinMeTo/pinmeto-location-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Zod
-- esbuild
-- GitHub Actions
+title: "PinMeTo/pinmeto-location-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "esbuild", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- location analytics
-- review insights
-- business intelligence
-- multi-platform integration
-source: https://github.com/PinMeTo/pinmeto-location-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "location analytics", "review insights", "business intelligence", "multi-platform integration"]
+source: "https://github.com/PinMeTo/pinmeto-location-mcp"
 stars: 15
-language: TypeScript
-last_updated: '2026-09-02T15:34:50Z'
-discovered_at: '2026-09-02T15:52:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:34:50Z"
+discovered_at: "2026-09-02T15:52:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

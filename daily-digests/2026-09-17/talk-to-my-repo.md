@@ -1,36 +1,19 @@
 ---
-title: Mxnrxjj/talk-to-my-repo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Next.js
-- React
-- TypeScript
-- PostgreSQL
-- pgvector
-- Gemini 2.5 Flash
-- Voyage AI Embeddings
-- Prisma ORM
-- BullMQ
-- Redis
-- TailwindCSS
-- shadcn/ui
+title: "Mxnrxjj/talk-to-my-repo"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js", "React", "TypeScript", "PostgreSQL", "pgvector", "Gemini 2.5 Flash", "Voyage AI Embeddings", "Prisma ORM", "BullMQ", "Redis", "TailwindCSS", "shadcn/ui"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- codebase assistant
-- semantic search
-- vector embeddings
-- GitHub integration
-source: https://github.com/Mxnrxjj/talk-to-my-repo
+deployment_complexity: "Medium"
+tags: ["RAG", "codebase assistant", "semantic search", "vector embeddings", "GitHub integration"]
+source: "https://github.com/Mxnrxjj/talk-to-my-repo"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T06:31:24Z'
-discovered_at: '2026-08-08T06:53:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T06:31:24Z"
+discovered_at: "2026-08-08T06:53:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: lost-rob0t/zara
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- NixOS
-- Python
-- Whisper
-- CLI
-- Natural Language Processing
+title: "lost-rob0t/zara"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["NixOS", "Python", "Whisper", "CLI", "Natural Language Processing"]
 quality_score: 4
 rag_relevance: 3
-deployment_complexity: Medium
-tags:
-- voice-assistant
-- NixOS
-- Whisper
-- CLI
-- NLP
-source: https://github.com/lost-rob0t/zara
+deployment_complexity: "Medium"
+tags: ["voice-assistant", "NixOS", "Whisper", "CLI", "NLP"]
+source: "https://github.com/lost-rob0t/zara"
 stars: 0
-language: Python
-last_updated: '2026-07-19T02:28:03Z'
-discovered_at: '2026-07-19T02:29:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T02:28:03Z"
+discovered_at: "2026-07-19T02:29:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

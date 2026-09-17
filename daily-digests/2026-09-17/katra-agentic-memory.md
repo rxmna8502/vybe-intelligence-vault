@@ -1,32 +1,19 @@
 ---
-title: kolegadev/Katra-Agentic-Memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Docker
-- MongoDB
-- Redis
-- MinIO
-- Model Context Protocol (MCP)
-- REST API
-- Web UI
+title: "kolegadev/Katra-Agentic-Memory"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Docker", "MongoDB", "Redis", "MinIO", "Model Context Protocol (MCP)", "REST API", "Web UI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- cognitive memory
-- MCP protocol
-- persistent memory
-- autonomous agents
-- knowledge graphs
-source: https://github.com/kolegadev/Katra-Agentic-Memory
+deployment_complexity: "Medium"
+tags: ["cognitive memory", "MCP protocol", "persistent memory", "autonomous agents", "knowledge graphs"]
+source: "https://github.com/kolegadev/Katra-Agentic-Memory"
 stars: 7
-language: TypeScript
-last_updated: '2026-07-14T20:06:18Z'
-discovered_at: '2026-07-14T20:09:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T20:06:18Z"
+discovered_at: "2026-07-14T20:09:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

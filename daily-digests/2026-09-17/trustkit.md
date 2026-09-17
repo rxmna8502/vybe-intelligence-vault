@@ -1,30 +1,19 @@
 ---
-title: auxfirst/trustkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- YAML
-- Node.js
-- GitHub Actions
-- SARIF
-- Markdown
+title: "auxfirst/trustkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "YAML", "Node.js", "GitHub Actions", "SARIF", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Agentic UX
-- Trust Systems
-- AI Product Design
-- Heuristics
-- Compliance Auditing
-source: https://github.com/auxfirst/trustkit
+deployment_complexity: "Medium"
+tags: ["Agentic UX", "Trust Systems", "AI Product Design", "Heuristics", "Compliance Auditing"]
+source: "https://github.com/auxfirst/trustkit"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-03T19:01:37Z'
-discovered_at: '2026-09-03T19:04:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T19:01:37Z"
+discovered_at: "2026-09-03T19:04:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

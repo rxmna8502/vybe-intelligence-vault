@@ -1,34 +1,19 @@
 ---
-title: WillNigri/Agentic-Tool-Optimization
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- Tauri
-- TypeScript
-- PostgreSQL
-- WebSockets
-- Ollama
-- Claude Code
-- Gemini CLI
-- Codex
-- LiveCodeBench
+title: "WillNigri/Agentic-Tool-Optimization"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Tauri", "TypeScript", "PostgreSQL", "WebSockets", "Ollama", "Claude Code", "Gemini CLI", "Codex", "LiveCodeBench"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-model coordination
-- code review
-- local-first
-- AI agent management
-- verifiable benchmarks
-source: https://github.com/WillNigri/Agentic-Tool-Optimization
+deployment_complexity: "Medium"
+tags: ["multi-model coordination", "code review", "local-first", "AI agent management", "verifiable benchmarks"]
+source: "https://github.com/WillNigri/Agentic-Tool-Optimization"
 stars: 33
-language: Rust
-last_updated: '2026-08-05T03:20:12Z'
-discovered_at: '2026-08-06T00:02:34Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-05T03:20:12Z"
+discovered_at: "2026-08-06T00:02:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

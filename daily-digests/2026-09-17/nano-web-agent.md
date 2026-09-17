@@ -1,31 +1,19 @@
 ---
-title: Eduardo00073/nano-web-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Chrome Extension (Manifest V3)
-- Google Gemini API
-- Ollama (Local LLMs)
-- Chrome Debugger Protocol (CDP)
-- HTML/CSS
-- Mermaid.js (for diagrams)
+title: "Eduardo00073/nano-web-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Chrome Extension (Manifest V3)", "Google Gemini API", "Ollama (Local LLMs)", "Chrome Debugger Protocol (CDP)", "HTML/CSS", "Mermaid.js (for diagrams)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Browser Automation
-- LLM Integration
-- Chrome Extension
-- Autonomous Agents
-- Web Interaction
-source: https://github.com/Eduardo00073/nano-web-agent
+deployment_complexity: "Medium"
+tags: ["Browser Automation", "LLM Integration", "Chrome Extension", "Autonomous Agents", "Web Interaction"]
+source: "https://github.com/Eduardo00073/nano-web-agent"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-08T23:18:00Z'
-discovered_at: '2026-08-08T23:31:42Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T23:18:00Z"
+discovered_at: "2026-08-08T23:31:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

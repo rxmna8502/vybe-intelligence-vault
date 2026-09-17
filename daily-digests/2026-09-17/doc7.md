@@ -1,29 +1,19 @@
 ---
-title: haunted-coder/doc7
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- Vision Language Model
-- OCR
-- Markdown
-- Windows API
+title: "haunted-coder/doc7"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Vision Language Model", "OCR", "Markdown", "Windows API"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- document-conversion
-- markdown-generation
-- local-ai
-- pdf-processing
-- ai-ready-content
-source: https://github.com/haunted-coder/doc7
+deployment_complexity: "Low"
+tags: ["document-conversion", "markdown-generation", "local-ai", "pdf-processing", "ai-ready-content"]
+source: "https://github.com/haunted-coder/doc7"
 stars: 0
-language: Go
-last_updated: '2026-08-06T06:28:41Z'
-discovered_at: '2026-08-06T06:33:54Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-06T06:28:41Z"
+discovered_at: "2026-08-06T06:33:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

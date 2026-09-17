@@ -1,33 +1,19 @@
 ---
-title: thenaxon/somora_agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js (v22.13+)
-- SQLite + sqlite-vec + FTS5
-- Obsidian (for wiki layer)
-- tmux
-- OpenAI-compatible API
-- MCP (Model Context Protocol)
-- WebSocket / SSE
-- React (for web client)
+title: "thenaxon/somora_agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js (v22.13+)", "SQLite + sqlite-vec + FTS5", "Obsidian (for wiki layer)", "tmux", "OpenAI-compatible API", "MCP (Model Context Protocol)", "WebSocket / SSE", "React (for web client)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- persistent memory
-- local-first AI
-- multi-LLM support
-- agent memory consolidation
-source: https://github.com/thenaxon/somora_agent
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "persistent memory", "local-first AI", "multi-LLM support", "agent memory consolidation"]
+source: "https://github.com/thenaxon/somora_agent"
 stars: 12
-language: TypeScript
-last_updated: '2026-09-03T15:31:10Z'
-discovered_at: '2026-09-03T15:36:58Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T15:31:10Z"
+discovered_at: "2026-09-03T15:36:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

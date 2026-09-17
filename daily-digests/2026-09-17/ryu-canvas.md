@@ -1,30 +1,19 @@
 ---
-title: amajorai/ryu-canvas
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- React Flow
-- Vite
-- HTML/CSS
-- Ryu Framework
-- Apache-2.0
+title: "amajorai/ryu-canvas"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React Flow", "Vite", "HTML/CSS", "Ryu Framework", "Apache-2.0"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- node-based UI
-- workflow builder
-- media processing
-- agent integration
-- persistent boards
-source: https://github.com/amajorai/ryu-canvas
+deployment_complexity: "Medium"
+tags: ["node-based UI", "workflow builder", "media processing", "agent integration", "persistent boards"]
+source: "https://github.com/amajorai/ryu-canvas"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-05T08:30:34Z'
-discovered_at: '2026-08-05T08:36:52Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T08:30:34Z"
+discovered_at: "2026-08-05T08:36:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: conceptual-ravel203/DeepSeek-Reasonix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- DeepSeek AI
-- Ink UI
-- CLI
-- Node.js
+title: "conceptual-ravel203/DeepSeek-Reasonix"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "DeepSeek AI", "Ink UI", "CLI", "Node.js"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI coding agent
-- terminal automation
-- DeepSeek integration
-- code generation
-- developer tools
-source: https://github.com/conceptual-ravel203/DeepSeek-Reasonix
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "terminal automation", "DeepSeek integration", "code generation", "developer tools"]
+source: "https://github.com/conceptual-ravel203/DeepSeek-Reasonix"
 stars: 0
-language: None
-last_updated: '2026-08-06T06:30:16Z'
-discovered_at: '2026-08-06T06:32:06Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T06:30:16Z"
+discovered_at: "2026-08-06T06:32:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

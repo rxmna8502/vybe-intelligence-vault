@@ -1,33 +1,19 @@
 ---
-title: zhitongblog/unterm
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Rust
-- TypeScript
-- Next.js
-- MCP (Model Context Protocol)
-- JSON-RPC
-- GPU-accelerated rendering (Metal/OpenGL/DirectX)
-- Tailwind CSS
-- Git
-- CLI tools
+title: "zhitongblog/unterm"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "TypeScript", "Next.js", "MCP (Model Context Protocol)", "JSON-RPC", "GPU-accelerated rendering (Metal/OpenGL/DirectX)", "Tailwind CSS", "Git", "CLI tools"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- terminal automation
-- MCP server
-- cross-platform
-- agent cockpit
-source: https://github.com/zhitongblog/unterm
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "terminal automation", "MCP server", "cross-platform", "agent cockpit"]
+source: "https://github.com/zhitongblog/unterm"
 stars: 10
-language: Rust
-last_updated: '2026-08-01T15:59:55Z'
-discovered_at: '2026-08-01T16:07:00Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T15:59:55Z"
+discovered_at: "2026-08-01T16:07:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

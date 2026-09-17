@@ -1,36 +1,19 @@
 ---
-title: Zensoro/paperdetective
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Pydantic
-- OpenCV
-- PIL (Pillow)
-- pdfminer.six
-- python-docx
-- pHash
-- ELA (Error Level Analysis)
-- GRIM (Granularity-Related Inconsistency Measure)
-- Benford's Law
-- NLI (Natural Language Inference)
-- pytest
+title: "Zensoro/paperdetective"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Pydantic", "OpenCV", "PIL (Pillow)", "pdfminer.six", "python-docx", "pHash", "ELA (Error Level Analysis)", "GRIM (Granularity-Related Inconsistency Measure)", "Benford's Law", "NLI (Natural Language Inference)", "pytest"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- academic integrity
-- data fabrication detection
-- image manipulation analysis
-- citation fraud
-- research misconduct
-source: https://github.com/Zensoro/paperdetective
+deployment_complexity: "Medium"
+tags: ["academic integrity", "data fabrication detection", "image manipulation analysis", "citation fraud", "research misconduct"]
+source: "https://github.com/Zensoro/paperdetective"
 stars: 0
-language: Python
-last_updated: '2026-08-09T03:45:21Z'
-discovered_at: '2026-08-09T03:45:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T03:45:21Z"
+discovered_at: "2026-08-09T03:45:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

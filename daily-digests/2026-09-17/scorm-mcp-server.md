@@ -1,32 +1,19 @@
 ---
-title: giacomomaria81/scorm-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- SCORM 2004/1.2
-- MCP (Model Context Protocol)
-- XSD validation
-- HTML/CSS/JS inlining
-- CLI tools
-- Web UI (drag-and-drop)
+title: "giacomomaria81/scorm-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "SCORM 2004/1.2", "MCP (Model Context Protocol)", "XSD validation", "HTML/CSS/JS inlining", "CLI tools", "Web UI (drag-and-drop)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- SCORM packaging
-- LMS integration
-- offline content
-- tracking injection
-- MCP server
-source: https://github.com/giacomomaria81/scorm-mcp-server
+deployment_complexity: "Medium"
+tags: ["SCORM packaging", "LMS integration", "offline content", "tracking injection", "MCP server"]
+source: "https://github.com/giacomomaria81/scorm-mcp-server"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-02T17:55:03Z'
-discovered_at: '2026-08-02T18:02:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T17:55:03Z"
+discovered_at: "2026-08-02T18:02:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

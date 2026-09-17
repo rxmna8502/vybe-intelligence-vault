@@ -1,30 +1,19 @@
 ---
-title: nathandevelopment/pc-screen-control
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Windows Accessibility API
-- MCP (Model Context Protocol)
-- UI Automation
-- PyWin32
-- JSON-RPC
+title: "nathandevelopment/pc-screen-control"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows Accessibility API", "MCP (Model Context Protocol)", "UI Automation", "PyWin32", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- Windows automation
-- UI interaction
-- accessibility tree
-- MCP server
-- AI control interface
-source: https://github.com/nathandevelopment/pc-screen-control
+deployment_complexity: "Low"
+tags: ["Windows automation", "UI interaction", "accessibility tree", "MCP server", "AI control interface"]
+source: "https://github.com/nathandevelopment/pc-screen-control"
 stars: 2
-language: Python
-last_updated: '2026-08-01T13:16:21Z'
-discovered_at: '2026-08-01T13:16:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T13:16:21Z"
+discovered_at: "2026-08-01T13:16:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

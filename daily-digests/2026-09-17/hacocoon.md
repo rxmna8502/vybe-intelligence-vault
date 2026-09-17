@@ -1,32 +1,19 @@
 ---
-title: SLktEx/Hacocoon
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- Incus
-- Linux
-- SSH
-- OCI (Docker/nerdctl)
-- Policy/Capability enforcement
-- Workspace leases
-- Resource budgeting
+title: "SLktEx/Hacocoon"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Incus", "Linux", "SSH", "OCI (Docker/nerdctl)", "Policy/Capability enforcement", "Workspace leases", "Resource budgeting"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- secure development environments
-- agent isolation
-- workspace runtime
-- policy enforcement
-- resource control
-source: https://github.com/SLktEx/Hacocoon
+deployment_complexity: "Medium"
+tags: ["secure development environments", "agent isolation", "workspace runtime", "policy enforcement", "resource control"]
+source: "https://github.com/SLktEx/Hacocoon"
 stars: 1
-language: Go
-last_updated: '2026-09-03T15:25:37Z'
-discovered_at: '2026-09-03T15:38:37Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T15:25:37Z"
+discovered_at: "2026-09-03T15:38:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

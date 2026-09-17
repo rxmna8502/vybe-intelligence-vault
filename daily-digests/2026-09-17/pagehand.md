@@ -1,34 +1,19 @@
 ---
-title: horizon0514/pagehand
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Chrome Extensions (Manifest V3)
-- Chrome DevTools Protocol (CDP)
-- Vercel AI SDK
-- React
-- Next.js
-- Vitest
-- Playwright
-- ESLint
-- CRXJS
+title: "horizon0514/pagehand"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Chrome Extensions (Manifest V3)", "Chrome DevTools Protocol (CDP)", "Vercel AI SDK", "React", "Next.js", "Vitest", "Playwright", "ESLint", "CRXJS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- browser automation
-- Chrome extension
-- CDP integration
-- AI agent
-- side panel
-source: https://github.com/horizon0514/pagehand
+deployment_complexity: "Medium"
+tags: ["browser automation", "Chrome extension", "CDP integration", "AI agent", "side panel"]
+source: "https://github.com/horizon0514/pagehand"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-07T02:40:31Z'
-discovered_at: '2026-08-07T02:41:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T02:40:31Z"
+discovered_at: "2026-08-07T02:41:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

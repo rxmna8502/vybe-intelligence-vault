@@ -1,30 +1,19 @@
 ---
-title: ontoramp/ontoramp-knowledge-cartographer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- REST APIs
-- Knowledge Graph
-- Document Ingestion
-- Governance & Provenance Tracking
+title: "ontoramp/ontoramp-knowledge-cartographer"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["MCP (Model Context Protocol)", "Streamable HTTP", "REST APIs", "Knowledge Graph", "Document Ingestion", "Governance & Provenance Tracking"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- knowledge graph
-- document ingestion
-- governance
-- MCP server
-- AI agent integration
-source: https://github.com/ontoramp/ontoramp-knowledge-cartographer
+deployment_complexity: "Low"
+tags: ["knowledge graph", "document ingestion", "governance", "MCP server", "AI agent integration"]
+source: "https://github.com/ontoramp/ontoramp-knowledge-cartographer"
 stars: 0
-language: None
-last_updated: '2026-08-07T17:46:08Z'
-discovered_at: '2026-08-07T17:52:12Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T17:46:08Z"
+discovered_at: "2026-08-07T17:52:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

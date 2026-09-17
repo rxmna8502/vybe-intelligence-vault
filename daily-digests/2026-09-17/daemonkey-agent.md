@@ -1,32 +1,19 @@
 ---
-title: Vaan21th/daemonkey-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- FastAPI
-- SQLite (FTS5 for memory indexing)
-- LLM API (OpenAI-compatible)
-- PyQt6
-- MCP (Model Context Protocol)
-- GitHub Actions (CI/CD)
-- AGPL-3.0 License
+title: "Vaan21th/daemonkey-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "SQLite (FTS5 for memory indexing)", "LLM API (OpenAI-compatible)", "PyQt6", "MCP (Model Context Protocol)", "GitHub Actions (CI/CD)", "AGPL-3.0 License"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local-first AI
-- memory-augmented agents
-- self-extending capabilities
-- privacy-focused
-- agent framework
-source: https://github.com/Vaan21th/daemonkey-agent
+deployment_complexity: "Medium"
+tags: ["local-first AI", "memory-augmented agents", "self-extending capabilities", "privacy-focused", "agent framework"]
+source: "https://github.com/Vaan21th/daemonkey-agent"
 stars: 61
-language: Python
-last_updated: '2026-08-04T21:04:37Z'
-discovered_at: '2026-08-04T21:15:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T21:04:37Z"
+discovered_at: "2026-08-04T21:15:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,37 +1,19 @@
 ---
-title: maitreya-ai/Autonomous-AI-HR-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Next.js 15
-- TypeScript
-- Tailwind CSS
-- Cloudflare Workers
-- Supabase Postgres
-- Supabase Storage
-- Groq (LLM)
-- Resend (email)
-- Google Calendar API
-- OpenNext
-- PostgreSQL
-- HMAC verification
-- Prompt-injection scanner
+title: "maitreya-ai/Autonomous-AI-HR-Agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Next.js 15", "TypeScript", "Tailwind CSS", "Cloudflare Workers", "Supabase Postgres", "Supabase Storage", "Groq (LLM)", "Resend (email)", "Google Calendar API", "OpenNext", "PostgreSQL", "HMAC verification", "Prompt-injection scanner"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- HR automation
-- LLM workflows
-- policy engine
-- human-in-the-loop
-- autonomous agents
-source: https://github.com/maitreya-ai/Autonomous-AI-HR-Agent
+deployment_complexity: "Medium"
+tags: ["HR automation", "LLM workflows", "policy engine", "human-in-the-loop", "autonomous agents"]
+source: "https://github.com/maitreya-ai/Autonomous-AI-HR-Agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T13:02:20Z'
-discovered_at: '2026-08-10T13:09:01Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T13:02:20Z"
+discovered_at: "2026-08-10T13:09:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

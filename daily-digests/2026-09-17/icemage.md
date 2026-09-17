@@ -1,32 +1,19 @@
 ---
-title: ncmonx/icemage
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- C++
-- Rust
-- SQLCipher
-- MCP (Model Context Protocol)
-- CLI
-- Git
-- Telemetry
-- Local AI (opt-in)
+title: "ncmonx/icemage"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C++", "Rust", "SQLCipher", "MCP (Model Context Protocol)", "CLI", "Git", "Telemetry", "Local AI (opt-in)"]
 quality_score: 10
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- token efficiency
-- context management
-- AI cost reduction
-- MCP integration
-- caching
-source: https://github.com/ncmonx/icemage
+deployment_complexity: "Low"
+tags: ["token efficiency", "context management", "AI cost reduction", "MCP integration", "caching"]
+source: "https://github.com/ncmonx/icemage"
 stars: 3
-language: C++
-last_updated: '2026-07-16T07:57:42Z'
-discovered_at: '2026-07-16T08:10:25Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-07-16T07:57:42Z"
+discovered_at: "2026-07-16T08:10:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

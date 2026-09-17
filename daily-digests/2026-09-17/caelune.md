@@ -1,37 +1,19 @@
 ---
-title: EllisMorrow/Caelune
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- PySide6
-- SQLite (FTS5)
-- LanceDB
-- PyTorch
-- sentence-transformers
-- Transformers
-- BAAI/bge-m3
-- BAAI/bge-reranker-v2-m3
-- Apache Tika
-- PyPDF
-- Model Context Protocol (MCP)
-- PyInstaller
+title: "EllisMorrow/Caelune"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PySide6", "SQLite (FTS5)", "LanceDB", "PyTorch", "sentence-transformers", "Transformers", "BAAI/bge-m3", "BAAI/bge-reranker-v2-m3", "Apache Tika", "PyPDF", "Model Context Protocol (MCP)", "PyInstaller"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local-first
-- hybrid retrieval
-- MCP server
-- knowledge base
-- desktop app
-source: https://github.com/EllisMorrow/Caelune
+deployment_complexity: "Medium"
+tags: ["local-first", "hybrid retrieval", "MCP server", "knowledge base", "desktop app"]
+source: "https://github.com/EllisMorrow/Caelune"
 stars: 43
-language: Python
-last_updated: '2026-08-01T14:56:09Z'
-discovered_at: '2026-08-01T15:01:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T14:56:09Z"
+discovered_at: "2026-08-01T15:01:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

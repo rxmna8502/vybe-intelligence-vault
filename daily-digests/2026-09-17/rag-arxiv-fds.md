@@ -1,31 +1,19 @@
 ---
-title: DBlassio/rag-arxiv-fds
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- LangChain
-- ChromaDB
-- BAAI/bge-small-en-v1.5
-- Claude (claude-haiku-4-5)
-- arXiv API
-- Hugging Face Tokenizers
+title: "DBlassio/rag-arxiv-fds"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LangChain", "ChromaDB", "BAAI/bge-small-en-v1.5", "Claude (claude-haiku-4-5)", "arXiv API", "Hugging Face Tokenizers"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- arXiv
-- grounded generation
-- tokenizer-aware chunking
-- explicit refusal
-source: https://github.com/DBlassio/rag-arxiv-fds
+deployment_complexity: "Medium"
+tags: ["RAG", "arXiv", "grounded generation", "tokenizer-aware chunking", "explicit refusal"]
+source: "https://github.com/DBlassio/rag-arxiv-fds"
 stars: 0
-language: Python
-last_updated: '2026-08-07T17:10:45Z'
-discovered_at: '2026-08-07T17:53:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T17:10:45Z"
+discovered_at: "2026-08-07T17:53:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

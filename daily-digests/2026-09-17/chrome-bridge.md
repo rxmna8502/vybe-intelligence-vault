@@ -1,31 +1,19 @@
 ---
-title: frsorrentino/chrome-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- Chrome Extension API (Manifest V3)
-- WebSocket
-- MCP (Model Context Protocol)
-- Chromium
-- TypeScript (implied by modern JS practices)
+title: "frsorrentino/chrome-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Chrome Extension API (Manifest V3)", "WebSocket", "MCP (Model Context Protocol)", "Chromium", "TypeScript (implied by modern JS practices)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- MCP server
-- Chrome extension
-- visual regression
-- CI/CD
-source: https://github.com/frsorrentino/chrome-bridge
+deployment_complexity: "Medium"
+tags: ["browser automation", "MCP server", "Chrome extension", "visual regression", "CI/CD"]
+source: "https://github.com/frsorrentino/chrome-bridge"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-10T16:17:22Z'
-discovered_at: '2026-07-10T16:24:16Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-10T16:17:22Z"
+discovered_at: "2026-07-10T16:24:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

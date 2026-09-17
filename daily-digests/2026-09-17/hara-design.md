@@ -1,32 +1,19 @@
 ---
-title: hara-cli/hara-design
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Node.js
-- HTML
-- CSS
-- JavaScript
-- CLI
-- Design Systems
-- Live Reload
-- Design Tokens
+title: "hara-cli/hara-design"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "HTML", "CSS", "JavaScript", "CLI", "Design Systems", "Live Reload", "Design Tokens"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- design automation
-- agent integration
-- prototyping
-- design systems
-- live preview
-source: https://github.com/hara-cli/hara-design
+deployment_complexity: "Medium"
+tags: ["design automation", "agent integration", "prototyping", "design systems", "live preview"]
+source: "https://github.com/hara-cli/hara-design"
 stars: 1
-language: HTML
-last_updated: '2026-07-14T16:08:07Z'
-discovered_at: '2026-07-14T16:14:02Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-14T16:08:07Z"
+discovered_at: "2026-07-14T16:14:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

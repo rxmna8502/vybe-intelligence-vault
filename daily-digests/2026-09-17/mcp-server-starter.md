@@ -1,33 +1,19 @@
 ---
-title: starter-series/mcp-server-starter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- MCP SDK
-- Node.js
-- Zod
-- Jest
-- ESLint
-- GitHub Actions
-- OIDC
-- Docker
+title: "starter-series/mcp-server-starter"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP SDK", "Node.js", "Zod", "Jest", "ESLint", "GitHub Actions", "OIDC", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- TypeScript
-- server-starter
-- OIDC-publishing
-- CI/CD
-source: https://github.com/starter-series/mcp-server-starter
+deployment_complexity: "Medium"
+tags: ["MCP", "TypeScript", "server-starter", "OIDC-publishing", "CI/CD"]
+source: "https://github.com/starter-series/mcp-server-starter"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-16T10:57:12Z'
-discovered_at: '2026-07-16T10:58:05Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-16T10:57:12Z"
+discovered_at: "2026-07-16T10:58:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: Kloom89/harvis
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python 3.12+
-- Whisper (STT)
-- Edge-TTS
-- WebRTC (echo cancellation)
-- Claude Agent SDK
-- FastAPI (for API compatibility)
-- PyWebView (HUD)
-- YAML (config)
-- Git (auto-updates)
+title: "Kloom89/harvis"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12+", "Whisper (STT)", "Edge-TTS", "WebRTC (echo cancellation)", "Claude Agent SDK", "FastAPI (for API compatibility)", "PyWebView (HUD)", "YAML (config)", "Git (auto-updates)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice-assistant
-- local-ai
-- windows-automation
-- skill-based-extension
-- multi-model-orchestration
-source: https://github.com/Kloom89/harvis
+deployment_complexity: "Medium"
+tags: ["voice-assistant", "local-ai", "windows-automation", "skill-based-extension", "multi-model-orchestration"]
+source: "https://github.com/Kloom89/harvis"
 stars: 0
-language: Python
-last_updated: '2026-08-05T22:01:33Z'
-discovered_at: '2026-08-05T22:15:04Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T22:01:33Z"
+discovered_at: "2026-08-05T22:15:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

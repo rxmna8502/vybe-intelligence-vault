@@ -1,31 +1,19 @@
 ---
-title: maxgfr/ultraprospect
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- OpenStreetMap (Overpass API)
-- French Company Register API (Sirene/RNE)
-- CLI
-- MCP (Model Context Protocol)
-- skills.sh
+title: "maxgfr/ultraprospect"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "OpenStreetMap (Overpass API)", "French Company Register API (Sirene/RNE)", "CLI", "MCP (Model Context Protocol)", "skills.sh"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- prospecting
-- data fusion
-- geospatial
-- company registry
-- validation
-source: https://github.com/maxgfr/ultraprospect
+deployment_complexity: "Medium"
+tags: ["prospecting", "data fusion", "geospatial", "company registry", "validation"]
+source: "https://github.com/maxgfr/ultraprospect"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-10T17:55:16Z'
-discovered_at: '2026-08-10T18:01:28Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T17:55:16Z"
+discovered_at: "2026-08-10T18:01:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: rolecraft-sh/rolecraft
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- CLI
-- GitHub API
-- Security Scanning
-- YAML/JSON Parsing
+title: "rolecraft-sh/rolecraft"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "CLI", "GitHub API", "Security Scanning", "YAML/JSON Parsing"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI agents
-- MCP servers
-- skills management
-- zero-dependency
-- security scanning
-source: https://github.com/rolecraft-sh/rolecraft
+deployment_complexity: "Low"
+tags: ["AI agents", "MCP servers", "skills management", "zero-dependency", "security scanning"]
+source: "https://github.com/rolecraft-sh/rolecraft"
 stars: 75
-language: JavaScript
-last_updated: '2026-08-04T15:32:25Z'
-discovered_at: '2026-08-04T15:35:27Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-04T15:32:25Z"
+discovered_at: "2026-08-04T15:35:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

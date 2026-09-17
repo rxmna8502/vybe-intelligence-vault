@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-worldbank
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- REST API
-- Node.js
+title: "pipeworx-io/mcp-worldbank"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "Node.js"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- World Bank
-- development indicators
-- MCP server
-- data API
-- cross-country analysis
-source: https://github.com/pipeworx-io/mcp-worldbank
+deployment_complexity: "Low"
+tags: ["World Bank", "development indicators", "MCP server", "data API", "cross-country analysis"]
+source: "https://github.com/pipeworx-io/mcp-worldbank"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:32:10Z'
-discovered_at: '2026-08-04T07:42:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:32:10Z"
+discovered_at: "2026-08-04T07:42:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

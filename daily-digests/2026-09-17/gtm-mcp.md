@@ -1,29 +1,19 @@
 ---
-title: aleprieto790-alt/gtm-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Claude Code
-- Apollo API
-- SmartLead API
-- Local Server
+title: "aleprieto790-alt/gtm-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "Apollo API", "SmartLead API", "Local Server"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- B2B outreach
-- Cold email automation
-- Lead generation
-- Claude Code integration
-- SmartLead
-source: https://github.com/aleprieto790-alt/gtm-mcp
+deployment_complexity: "Medium"
+tags: ["B2B outreach", "Cold email automation", "Lead generation", "Claude Code integration", "SmartLead"]
+source: "https://github.com/aleprieto790-alt/gtm-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-10T20:20:51Z'
-discovered_at: '2026-07-10T20:22:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T20:20:51Z"
+discovered_at: "2026-07-10T20:22:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

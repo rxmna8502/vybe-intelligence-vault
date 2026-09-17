@@ -1,30 +1,19 @@
 ---
-title: jtalk22/slack-mcp-server
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- Slack API
-- Docker
-- GitHub Actions
+title: "jtalk22/slack-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Slack API", "Docker", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Slack integration
-- MCP server
-- AI agent tooling
-- session tokens
-- automation
-source: https://github.com/jtalk22/slack-mcp-server
+deployment_complexity: "Low"
+tags: ["Slack integration", "MCP server", "AI agent tooling", "session tokens", "automation"]
+source: "https://github.com/jtalk22/slack-mcp-server"
 stars: 29
-language: JavaScript
-last_updated: '2026-08-04T19:27:34Z'
-discovered_at: '2026-08-04T19:32:32Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-04T19:27:34Z"
+discovered_at: "2026-08-04T19:32:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

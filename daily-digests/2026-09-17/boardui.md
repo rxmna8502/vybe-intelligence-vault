@@ -1,32 +1,19 @@
 ---
-title: BoardUI/boardui
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- React
-- TypeScript
-- Tailwind CSS
-- React Aria Components
-- Next.js
-- Vercel
-- MCP Server
-- Node.js
+title: "BoardUI/boardui"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["React", "TypeScript", "Tailwind CSS", "React Aria Components", "Next.js", "Vercel", "MCP Server", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- React design system
-- agentic interfaces
-- AI chat UI
-- component library
-- MCP integration
-source: https://github.com/BoardUI/boardui
+deployment_complexity: "Low"
+tags: ["React design system", "agentic interfaces", "AI chat UI", "component library", "MCP integration"]
+source: "https://github.com/BoardUI/boardui"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-02T02:02:10Z'
-discovered_at: '2026-09-02T02:11:31Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T02:02:10Z"
+discovered_at: "2026-09-02T02:11:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: VelvetSP/web-retrieval-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Exa API
-- Tavily API
-- Firecrawl API
-- Camoufox (Playwright-based browser)
-- Valkey (optional caching)
-- PyPI packaging
+title: "VelvetSP/web-retrieval-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Exa API", "Tavily API", "Firecrawl API", "Camoufox (Playwright-based browser)", "Valkey (optional caching)", "PyPI packaging"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- web retrieval
-- AI agents
-- source grounding
-- tiered fallback
-source: https://github.com/VelvetSP/web-retrieval-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "web retrieval", "AI agents", "source grounding", "tiered fallback"]
+source: "https://github.com/VelvetSP/web-retrieval-mcp"
 stars: 1
-language: Python
-last_updated: '2026-07-19T11:31:53Z'
-discovered_at: '2026-09-01T15:55:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T11:31:53Z"
+discovered_at: "2026-09-01T15:55:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

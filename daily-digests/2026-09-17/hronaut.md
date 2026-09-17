@@ -1,31 +1,19 @@
 ---
-title: hronaut/hronaut
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Electron
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Chromium
-- Streamable HTTP
-- React
+title: "hronaut/hronaut"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Electron", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "Chromium", "Streamable HTTP", "React"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- persistent browser
-- agent workspaces
-- MCP integration
-- isolated profiles
-- real-time monitoring
-source: https://github.com/hronaut/hronaut
+deployment_complexity: "Medium"
+tags: ["persistent browser", "agent workspaces", "MCP integration", "isolated profiles", "real-time monitoring"]
+source: "https://github.com/hronaut/hronaut"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-02T02:06:51Z'
-discovered_at: '2026-09-02T02:12:30Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T02:06:51Z"
+discovered_at: "2026-09-02T02:12:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

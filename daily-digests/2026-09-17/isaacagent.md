@@ -1,34 +1,19 @@
 ---
-title: Skymly/IsaacAgent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- .NET 8
-- C#
-- Avalonia 11
-- CommunityToolkit.Mvvm
-- ONNX Runtime
-- OpenAI-compatible APIs
-- Ollama
-- DPAPI
-- Nuke
-- MinVer
+title: "Skymly/IsaacAgent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: [".NET 8", "C#", "Avalonia 11", "CommunityToolkit.Mvvm", "ONNX Runtime", "OpenAI-compatible APIs", "Ollama", "DPAPI", "Nuke", "MinVer"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI coding agent
-- Isaac modding
-- RAG
-- Lua development
-- desktop application
-source: https://github.com/Skymly/IsaacAgent
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "Isaac modding", "RAG", "Lua development", "desktop application"]
+source: "https://github.com/Skymly/IsaacAgent"
 stars: 0
-language: C#
-last_updated: '2026-07-21T12:23:01Z'
-discovered_at: '2026-07-21T12:23:36Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-21T12:23:01Z"
+discovered_at: "2026-07-21T12:23:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

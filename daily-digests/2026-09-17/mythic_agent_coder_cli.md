@@ -1,32 +1,19 @@
 ---
-title: hrabanazviking/Mythic_Agent_Coder_CLI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Textual (TUI framework)
-- Claude-Code
-- GitHub CLI
-- OpenRouter
-- DeepSeek
-- OpenAI
-- OpenCode Go
+title: "hrabanazviking/Mythic_Agent_Coder_CLI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Textual (TUI framework)", "Claude-Code", "GitHub CLI", "OpenRouter", "DeepSeek", "OpenAI", "OpenCode Go"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-agent system
-- terminal AI assistant
-- GitHub automation
-- TUI
-- Viking-themed
-source: https://github.com/hrabanazviking/Mythic_Agent_Coder_CLI
+deployment_complexity: "Medium"
+tags: ["multi-agent system", "terminal AI assistant", "GitHub automation", "TUI", "Viking-themed"]
+source: "https://github.com/hrabanazviking/Mythic_Agent_Coder_CLI"
 stars: 1
-language: Python
-last_updated: '2026-08-01T06:19:36Z'
-discovered_at: '2026-08-01T06:29:03Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T06:19:36Z"
+discovered_at: "2026-08-01T06:29:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: indigokarasu/styx
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Python
-- Email Processing
-- Data Enrichment
-- Database Storage
+title: "indigokarasu/styx"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Email Processing", "Data Enrichment", "Database Storage"]
 quality_score: 4
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- transaction processing
-- email parsing
-- merchant enrichment
-- personal finance
-- data storage
-source: https://github.com/indigokarasu/styx
+deployment_complexity: "Medium"
+tags: ["transaction processing", "email parsing", "merchant enrichment", "personal finance", "data storage"]
+source: "https://github.com/indigokarasu/styx"
 stars: 0
-language: Python
-last_updated: '2026-07-21T04:04:39Z'
-discovered_at: '2026-07-21T04:14:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T04:04:39Z"
+discovered_at: "2026-07-21T04:14:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

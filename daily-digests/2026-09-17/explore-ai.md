@@ -1,33 +1,19 @@
 ---
-title: felixzhu97/explore-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Java 25
-- Spring Boot 4.1
-- Spring AI 2.0
-- Angular 22
-- TypeScript
-- pnpm
-- Ollama
-- H2 Database
-- Liquibase
+title: "felixzhu97/explore-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java 25", "Spring Boot 4.1", "Spring AI 2.0", "Angular 22", "TypeScript", "pnpm", "Ollama", "H2 Database", "Liquibase"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Conversational AI
-- RAG
-- Tool Calling
-- Spring AI
-- Multi-Provider LLM
-source: https://github.com/felixzhu97/explore-ai
+deployment_complexity: "Medium"
+tags: ["Conversational AI", "RAG", "Tool Calling", "Spring AI", "Multi-Provider LLM"]
+source: "https://github.com/felixzhu97/explore-ai"
 stars: 1
-language: Java
-last_updated: '2026-08-07T13:09:26Z'
-discovered_at: '2026-08-07T14:20:46Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-07T13:09:26Z"
+discovered_at: "2026-08-07T14:20:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

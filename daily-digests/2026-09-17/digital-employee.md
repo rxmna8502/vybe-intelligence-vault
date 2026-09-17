@@ -1,31 +1,19 @@
 ---
-title: fullstack-ai-infra/digital-employee
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- Docker
-- npm
-- Git
-- OpenAI-compatible APIs
-- DingTalk Workspace (optional)
+title: "fullstack-ai-infra/digital-employee"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "Docker", "npm", "Git", "OpenAI-compatible APIs", "DingTalk Workspace (optional)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- digital employee
-- role-based agents
-- self-hosted
-- citation-based answers
-- human escalation
-source: https://github.com/fullstack-ai-infra/digital-employee
+deployment_complexity: "Medium"
+tags: ["digital employee", "role-based agents", "self-hosted", "citation-based answers", "human escalation"]
+source: "https://github.com/fullstack-ai-infra/digital-employee"
 stars: 3
-language: JavaScript
-last_updated: '2026-08-01T06:20:16Z'
-discovered_at: '2026-08-01T06:29:00Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T06:20:16Z"
+discovered_at: "2026-08-01T06:29:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: agentscore/node-commerce
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- Stripe
-- x402
-- MPP (Multi-Party Payment)
-- Hono
-- Express
-- Fastify
-- Next.js
-- Solana
-- Redis
+title: "agentscore/node-commerce"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Stripe", "x402", "MPP (Multi-Party Payment)", "Hono", "Express", "Fastify", "Next.js", "Solana", "Redis"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- commerce SDK
-- identity gating
-- payment rails
-- Stripe multichain
-- x402 protocol
-source: https://github.com/agentscore/node-commerce
+deployment_complexity: "Medium"
+tags: ["commerce SDK", "identity gating", "payment rails", "Stripe multichain", "x402 protocol"]
+source: "https://github.com/agentscore/node-commerce"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-11T22:39:18Z'
-discovered_at: '2026-07-11T22:44:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T22:39:18Z"
+discovered_at: "2026-07-11T22:44:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

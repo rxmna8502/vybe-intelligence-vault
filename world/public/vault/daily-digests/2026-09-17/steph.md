@@ -1,29 +1,19 @@
 ---
-title: StephAgentAI/steph
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- AI Agent Framework
-- Blockchain (Robinhood Chain)
-- CLI Tools
-- Tokenomics (Deflationary Token)
-- Natural Language Processing
+title: "StephAgentAI/steph"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["AI Agent Framework", "Blockchain (Robinhood Chain)", "CLI Tools", "Tokenomics (Deflationary Token)", "Natural Language Processing"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent
-- terminal integration
-- blockchain automation
-- metered usage
-- decentralized
-source: https://github.com/StephAgentAI/steph
+deployment_complexity: "Medium"
+tags: ["AI agent", "terminal integration", "blockchain automation", "metered usage", "decentralized"]
+source: "https://github.com/StephAgentAI/steph"
 stars: 0
-language: None
-last_updated: '2026-07-16T08:04:25Z'
-discovered_at: '2026-07-16T08:10:07Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-16T08:04:25Z"
+discovered_at: "2026-07-16T08:10:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

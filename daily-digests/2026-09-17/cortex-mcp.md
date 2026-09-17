@@ -1,29 +1,19 @@
 ---
-title: lidless-labs/cortex-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- Cortex (StrangeBee/TheHive)
+title: "lidless-labs/cortex-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "Cortex (StrangeBee/TheHive)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- Threat intelligence
-- Automated analysis
-- SOAR integration
-- Observable enrichment
-source: https://github.com/lidless-labs/cortex-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Threat intelligence", "Automated analysis", "SOAR integration", "Observable enrichment"]
+source: "https://github.com/lidless-labs/cortex-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T01:25:20Z'
-discovered_at: '2026-08-09T01:34:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T01:25:20Z"
+discovered_at: "2026-08-09T01:34:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

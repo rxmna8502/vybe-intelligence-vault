@@ -1,31 +1,19 @@
 ---
-title: FrankChen021/datastoria
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Next.js
-- React
-- TypeScript
-- Vercel AI SDK
-- ClickHouse
-- Docker
-- NextAuth.js
+title: "FrankChen021/datastoria"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js", "React", "TypeScript", "Vercel AI SDK", "ClickHouse", "Docker", "NextAuth.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- ClickHouse
-- AI-powered SQL
-- Data visualization
-- Query optimization
-- Privacy-focused
-source: https://github.com/FrankChen021/datastoria
+deployment_complexity: "Low"
+tags: ["ClickHouse", "AI-powered SQL", "Data visualization", "Query optimization", "Privacy-focused"]
+source: "https://github.com/FrankChen021/datastoria"
 stars: 325
-language: TypeScript
-last_updated: '2026-07-21T12:15:12Z'
-discovered_at: '2026-07-21T12:23:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T12:15:12Z"
+discovered_at: "2026-07-21T12:23:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

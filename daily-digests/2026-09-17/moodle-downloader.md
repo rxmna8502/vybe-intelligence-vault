@@ -1,35 +1,19 @@
 ---
-title: shaochen-jia/Moodle-Downloader
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Playwright
-- Pandas
-- PyInstaller
-- Gemini API
-- OpenAI API
-- Anthropic API
-- DeepSeek API
-- Ollama (local LLM)
-- Windows API
-- YAML (config)
+title: "shaochen-jia/Moodle-Downloader"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "Pandas", "PyInstaller", "Gemini API", "OpenAI API", "Anthropic API", "DeepSeek API", "Ollama (local LLM)", "Windows API", "YAML (config)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- educational automation
-- Moodle integration
-- lecture transcription
-- AI-powered summaries
-- course material organization
-source: https://github.com/shaochen-jia/Moodle-Downloader
+deployment_complexity: "Low"
+tags: ["educational automation", "Moodle integration", "lecture transcription", "AI-powered summaries", "course material organization"]
+source: "https://github.com/shaochen-jia/Moodle-Downloader"
 stars: 3
-language: Python
-last_updated: '2026-08-07T15:55:41Z'
-discovered_at: '2026-08-07T16:01:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T15:55:41Z"
+discovered_at: "2026-08-07T16:01:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

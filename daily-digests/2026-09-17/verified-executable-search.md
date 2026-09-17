@@ -1,29 +1,19 @@
 ---
-title: Zhuchen00123/Verified-Executable-Search
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Docker
-- JSON
-- CLI
-- Sandboxing
+title: "Zhuchen00123/Verified-Executable-Search"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Docker", "JSON", "CLI", "Sandboxing"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- verification
-- executable evaluation
-- AI safety
-- sandboxing
-- reproducibility
-source: https://github.com/Zhuchen00123/Verified-Executable-Search
+deployment_complexity: "Medium"
+tags: ["verification", "executable evaluation", "AI safety", "sandboxing", "reproducibility"]
+source: "https://github.com/Zhuchen00123/Verified-Executable-Search"
 stars: 1
-language: Python
-last_updated: '2026-08-10T09:22:33Z'
-discovered_at: '2026-08-10T09:24:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T09:22:33Z"
+discovered_at: "2026-08-10T09:24:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
