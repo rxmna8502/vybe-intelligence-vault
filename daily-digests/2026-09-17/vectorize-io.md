@@ -1,19 +1,31 @@
 ---
-title: "api-evangelist/vectorize-io"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["RESTful APIs", "OpenAPI Specification", "Postman Collections", "Vector Databases", "Embedding Models", "OAuth", "Asynchronous Job Processing"]
+title: api-evangelist/vectorize-io
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- RESTful APIs
+- OpenAPI Specification
+- Postman Collections
+- Vector Databases
+- Embedding Models
+- OAuth
+- Asynchronous Job Processing
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "Vectorization", "Retrieval", "Data Pipelines", "Embeddings"]
-source: "https://github.com/api-evangelist/vectorize-io"
+deployment_complexity: Medium
+tags:
+- RAG
+- Vectorization
+- Retrieval
+- Data Pipelines
+- Embeddings
+source: https://github.com/api-evangelist/vectorize-io
 stars: 0
-language: "None"
-last_updated: "2026-08-08T01:56:26Z"
-discovered_at: "2026-08-08T03:29:44Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T01:56:26Z'
+discovered_at: '2026-08-08T03:29:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

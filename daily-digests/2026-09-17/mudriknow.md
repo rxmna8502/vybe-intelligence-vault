@@ -1,19 +1,32 @@
 ---
-title: "abdallahmagdy15/mudriknow"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "React", "Windows UI Automation", "robotjs", "Node.js", "OpenCode", "PowerShell"]
+title: abdallahmagdy15/mudriknow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Windows UI Automation
+- robotjs
+- Node.js
+- OpenCode
+- PowerShell
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Windows automation", "UI interaction", "AI assistant", "screen capture", "multi-modal"]
-source: "https://github.com/abdallahmagdy15/mudriknow"
+deployment_complexity: Medium
+tags:
+- Windows automation
+- UI interaction
+- AI assistant
+- screen capture
+- multi-modal
+source: https://github.com/abdallahmagdy15/mudriknow
 stars: 6
-language: "TypeScript"
-last_updated: "2026-07-16T20:00:55Z"
-discovered_at: "2026-07-16T20:02:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T20:00:55Z'
+discovered_at: '2026-07-16T20:02:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

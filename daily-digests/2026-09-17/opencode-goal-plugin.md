@@ -1,19 +1,30 @@
 ---
-title: "willytop8/OpenCode-goal-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "OpenCode", "CI/CD", "GitHub Actions"]
+title: willytop8/OpenCode-goal-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- OpenCode
+- CI/CD
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["goal-driven workflows", "auto-continuation", "persistence", "evidence-gated completion", "session management"]
-source: "https://github.com/willytop8/OpenCode-goal-plugin"
+deployment_complexity: Low
+tags:
+- goal-driven workflows
+- auto-continuation
+- persistence
+- evidence-gated completion
+- session management
+source: https://github.com/willytop8/OpenCode-goal-plugin
 stars: 178
-language: "JavaScript"
-last_updated: "2026-07-12T18:57:47Z"
-discovered_at: "2026-07-12T19:02:26Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-12T18:57:47Z'
+discovered_at: '2026-07-12T19:02:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

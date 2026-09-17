@@ -1,19 +1,29 @@
 ---
-title: "rjkaes/trueline-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "AST (Abstract Syntax Tree)", "Node.js"]
+title: rjkaes/trueline-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- AST (Abstract Syntax Tree)
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP plugin", "file editing", "hash verification", "token optimization", "AI coding agents"]
-source: "https://github.com/rjkaes/trueline-mcp"
+deployment_complexity: Medium
+tags:
+- MCP plugin
+- file editing
+- hash verification
+- token optimization
+- AI coding agents
+source: https://github.com/rjkaes/trueline-mcp
 stars: 34
-language: "TypeScript"
-last_updated: "2026-08-07T15:59:51Z"
-discovered_at: "2026-08-07T16:01:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T15:59:51Z'
+discovered_at: '2026-08-07T16:01:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

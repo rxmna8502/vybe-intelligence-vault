@@ -24873,6 +24873,7 @@ Resources organized by publisher feed and query sources.
   - [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)
   - [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)
   - [IntelLabs/fastRAG](../ai/rag/intellabs-fastrag.md)
+  - [JCodesMore/ai-chrome-extension-template](../ai/agents/jcodesmore-ai-chrome-extension-template.md)
   - [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md)
   - [JakeWharton/mosaic](../ai/rag/jakewharton-mosaic.md)
   - [JetBrains/kotlin](../ai/resources/jetbrains-kotlin.md)
@@ -24905,7 +24906,7 @@ Resources organized by publisher feed and query sources.
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
   - [Nicolepcx/ai-agents-the-definitive-guide](../ai/agents/nicolepcx-ai-agents-the-definitive-guide.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
-  - [NirDiamant/RAG_TECHNIQUES](../ai/rag/nirdiamant-rag-techniques.md)
+  - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nithador/crewai_demo](../ai/agents/nithador-crewai-demo.md)
   - [NotPBShaw/awesome-ai-governance](../ai/agents/notpbshaw-awesome-ai-governance.md)
@@ -25666,9 +25667,6 @@ Resources organized by publisher feed and query sources.
   - [Breaking the 1.58-bit Barrier for Ternary LLMs](../ai/community/arxiv-2609-16338.md)
   - [HarnessTax: How Much Does the Harness Matter for Coding Agents?](../ai/community/harnesstax-how-much-does-the-harness-matter-for-co.md)
   - [OpenSpec – A lightweight and configurable AI spec framework](../ai/community/openspec-a-lightweight-and-configurable-ai-spec-fr.md)
-  - [Part-human part-mouse brain developed in science breakthrough](../ai/community/part-human-part-mouse-brain-developed-in-science-b.md)
-  - [The Painful Truth: The RAM Crisis Is Only Just the Beginning](../ai/community/the-painful-truth-the-ram-crisis-is-only-just-the.md)
-  - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md)
   - [Training a 4B model to produce 81% faster query plans than Postgres](../ai/community/training-a-4b-model-to-produce-81-faster-query-pla.md)
   - [Xiaomi Mimo 2.6 live post-training dashboard](../ai/community/xiaomi-mimo-2-6-live-post-training-dashboard.md)
 
@@ -26544,9 +26542,9 @@ Resources organized by publisher feed and query sources.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
-  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
-  - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
+  - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
 ## Unknown Source (type: huggingface_model)
 
@@ -29533,4 +29531,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-17T10:49:34.020371+05:30*
+*Index generated on 2026-09-17T19:24:14.025132+05:30*

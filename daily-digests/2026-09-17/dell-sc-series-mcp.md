@@ -1,19 +1,30 @@
 ---
-title: "DigitainIT/dell-sc-series-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "REST API", "pytest", "TLS/SSL"]
+title: DigitainIT/dell-sc-series-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastMCP
+- REST API
+- pytest
+- TLS/SSL
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["storage diagnostics", "Dell Compellent", "MCP server", "AI integration", "REST API"]
-source: "https://github.com/DigitainIT/dell-sc-series-mcp"
+deployment_complexity: Medium
+tags:
+- storage diagnostics
+- Dell Compellent
+- MCP server
+- AI integration
+- REST API
+source: https://github.com/DigitainIT/dell-sc-series-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T21:49:42Z"
-discovered_at: "2026-07-17T21:52:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T21:49:42Z'
+discovered_at: '2026-07-17T21:52:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

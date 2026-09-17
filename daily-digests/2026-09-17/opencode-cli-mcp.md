@@ -1,19 +1,36 @@
 ---
-title: "sandraschi/opencode-cli-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "FastMCP 3.4", "FastAPI", "SQLite", "React 18", "Vite 5", "TypeScript", "Tauri 2", "Node.js 18+", "Ruff", "pytest", "Playwright"]
+title: sandraschi/opencode-cli-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python 3.12+
+- FastMCP 3.4
+- FastAPI
+- SQLite
+- React 18
+- Vite 5
+- TypeScript
+- Tauri 2
+- Node.js 18+
+- Ruff
+- pytest
+- Playwright
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Session Memory", "RAG", "Agent Orchestration", "FastAPI"]
-source: "https://github.com/sandraschi/opencode-cli-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Session Memory
+- RAG
+- Agent Orchestration
+- FastAPI
+source: https://github.com/sandraschi/opencode-cli-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-08-02T19:19:09Z"
-discovered_at: "2026-08-02T19:25:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T19:19:09Z'
+discovered_at: '2026-08-02T19:25:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

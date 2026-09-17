@@ -1,19 +1,33 @@
 ---
-title: "manaplatform/mana-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI", "SQLite", "Playwright", "FastAPI", "Git", "Docker", "TypeScript", "React"]
+title: manaplatform/mana-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- CLI
+- SQLite
+- Playwright
+- FastAPI
+- Git
+- Docker
+- TypeScript
+- React
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "repository automation", "safe coding", "AI-driven development", "CLI tools"]
-source: "https://github.com/manaplatform/mana-agent"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- repository automation
+- safe coding
+- AI-driven development
+- CLI tools
+source: https://github.com/manaplatform/mana-agent
 stars: 4
-language: "Python"
-last_updated: "2026-09-03T15:31:09Z"
-discovered_at: "2026-09-03T15:37:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:31:09Z'
+discovered_at: '2026-09-03T15:37:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

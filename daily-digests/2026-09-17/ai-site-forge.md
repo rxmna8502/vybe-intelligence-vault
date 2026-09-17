@@ -1,19 +1,34 @@
 ---
-title: "gurutersesat24/ai-site-forge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["YAML", "Node.js", "Python", "TypeScript", "Rust", "Docker", "Mermaid.js", "OpenAI API", "Claude API", "GitHub Actions"]
+title: gurutersesat24/ai-site-forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- YAML
+- Node.js
+- Python
+- TypeScript
+- Rust
+- Docker
+- Mermaid.js
+- OpenAI API
+- Claude API
+- GitHub Actions
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["static site generation", "AI agent framework", "pipeline orchestration", "multi-agent collaboration", "dependency injection"]
-source: "https://github.com/gurutersesat24/ai-site-forge"
+deployment_complexity: Medium
+tags:
+- static site generation
+- AI agent framework
+- pipeline orchestration
+- multi-agent collaboration
+- dependency injection
+source: https://github.com/gurutersesat24/ai-site-forge
 stars: 0
-language: "HTML"
-last_updated: "2026-07-10T23:04:38Z"
-discovered_at: "2026-07-10T23:08:29Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-10T23:04:38Z'
+discovered_at: '2026-07-10T23:08:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

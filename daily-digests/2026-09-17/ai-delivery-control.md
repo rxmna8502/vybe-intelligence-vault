@@ -1,19 +1,31 @@
 ---
-title: "Peadarpol/ai-delivery-control"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Git", "LLM-based agents (Claude Code, Gemini CLI)", "YAML", "JSON", "FastAPI (specific skills)", "Gherkin (for acceptance criteria)"]
+title: Peadarpol/ai-delivery-control
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Git
+- LLM-based agents (Claude Code, Gemini CLI)
+- YAML
+- JSON
+- FastAPI (specific skills)
+- Gherkin (for acceptance criteria)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI governance", "code review automation", "agentic SDLC", "pre-commit enforcement", "requirement traceability"]
-source: "https://github.com/Peadarpol/ai-delivery-control"
+deployment_complexity: Medium
+tags:
+- AI governance
+- code review automation
+- agentic SDLC
+- pre-commit enforcement
+- requirement traceability
+source: https://github.com/Peadarpol/ai-delivery-control
 stars: 12
-language: "Python"
-last_updated: "2026-08-01T18:16:54Z"
-discovered_at: "2026-08-01T19:19:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T18:16:54Z'
+discovered_at: '2026-08-01T19:19:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,39 @@
 ---
-title: "kensaurus/mushi-mushi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "React", "Vue", "Svelte", "Angular", "React Native", "Node.js", "PostgreSQL", "pgvector", "Supabase", "Docker", "Helm", "MCP (Model Context Protocol)", "LLM APIs (Anthropic, OpenAI)"]
+title: kensaurus/mushi-mushi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- JavaScript
+- React
+- Vue
+- Svelte
+- Angular
+- React Native
+- Node.js
+- PostgreSQL
+- pgvector
+- Supabase
+- Docker
+- Helm
+- MCP (Model Context Protocol)
+- LLM APIs (Anthropic, OpenAI)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI debugging", "plain-English diagnosis", "MCP integration", "self-hostable", "bug reporting"]
-source: "https://github.com/kensaurus/mushi-mushi"
+deployment_complexity: Medium
+tags:
+- AI debugging
+- plain-English diagnosis
+- MCP integration
+- self-hostable
+- bug reporting
+source: https://github.com/kensaurus/mushi-mushi
 stars: 3
-language: "TypeScript"
-last_updated: "2026-07-28T08:05:14Z"
-discovered_at: "2026-08-01T22:55:14Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-28T08:05:14Z'
+discovered_at: '2026-08-01T22:55:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

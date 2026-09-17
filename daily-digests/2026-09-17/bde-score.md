@@ -1,19 +1,32 @@
 ---
-title: "hbhqq9/bde-score"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Uvicorn", "FutuOpenD", "Sina Finance", "Cloudflare Tunnel", "USDC (Base chain)", "GitHub Actions"]
+title: hbhqq9/bde-score
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastAPI
+- Uvicorn
+- FutuOpenD
+- Sina Finance
+- Cloudflare Tunnel
+- USDC (Base chain)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["quantitative analysis", "stock scoring", "multi-market", "EU AI Act compliant", "open-source API"]
-source: "https://github.com/hbhqq9/bde-score"
+deployment_complexity: Medium
+tags:
+- quantitative analysis
+- stock scoring
+- multi-market
+- EU AI Act compliant
+- open-source API
+source: https://github.com/hbhqq9/bde-score
 stars: 5
-language: "Python"
-last_updated: "2026-07-19T20:41:23Z"
-discovered_at: "2026-07-19T20:44:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T20:41:23Z'
+discovered_at: '2026-07-19T20:44:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

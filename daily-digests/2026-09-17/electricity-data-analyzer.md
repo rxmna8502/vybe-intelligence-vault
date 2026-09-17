@@ -1,19 +1,32 @@
 ---
-title: "namrata-21-kundu/Electricity-Data-Analyzer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MySQL", "Pandas", "NumPy", "Matplotlib", "Google Gemini API", "python-dotenv", "Git"]
+title: namrata-21-kundu/Electricity-Data-Analyzer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- MySQL
+- Pandas
+- NumPy
+- Matplotlib
+- Google Gemini API
+- python-dotenv
+- Git
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["electricity analytics", "data visualization", "AI insights", "consumption analysis", "MySQL integration"]
-source: "https://github.com/namrata-21-kundu/Electricity-Data-Analyzer"
+deployment_complexity: Medium
+tags:
+- electricity analytics
+- data visualization
+- AI insights
+- consumption analysis
+- MySQL integration
+source: https://github.com/namrata-21-kundu/Electricity-Data-Analyzer
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T21:49:42Z"
-discovered_at: "2026-07-19T21:51:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T21:49:42Z'
+discovered_at: '2026-07-19T21:51:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

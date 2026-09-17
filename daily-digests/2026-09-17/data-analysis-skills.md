@@ -1,19 +1,31 @@
 ---
-title: "cabbage2000-lab/data-analysis-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Pandas", "HTML/CSS", "JavaScript (for interactive reports)", "Claude Code", "Codex CLI", "WorkBuddy"]
+title: cabbage2000-lab/data-analysis-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Pandas
+- HTML/CSS
+- JavaScript (for interactive reports)
+- Claude Code
+- Codex CLI
+- WorkBuddy
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["data analysis", "automated reporting", "interactive HTML", "multi-agent support", "industry-specific insights"]
-source: "https://github.com/cabbage2000-lab/data-analysis-skills"
+deployment_complexity: Medium
+tags:
+- data analysis
+- automated reporting
+- interactive HTML
+- multi-agent support
+- industry-specific insights
+source: https://github.com/cabbage2000-lab/data-analysis-skills
 stars: 10
-language: "HTML"
-last_updated: "2026-09-03T02:06:45Z"
-discovered_at: "2026-09-03T02:19:30Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T02:06:45Z'
+discovered_at: '2026-09-03T02:19:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

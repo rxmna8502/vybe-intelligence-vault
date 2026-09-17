@@ -11,6 +11,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-07-24 | [zju3dv/InfiniSplat](https://github.com/zju3dv/InfiniSplat) | `rag-systems/` | 70 |
 | 2026-07-15 | [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) | `rag-systems/` | 70 |
 | 2026-07-13 | [Chaelsoo/Zetsu](https://github.com/Chaelsoo/Zetsu) | `rag-systems/` | 70 |
+| 2026-07-12 | [JCodesMore/ai-chrome-extension-template](https://github.com/JCodesMore/ai-chrome-extension-template) | `ai-coding-agents/` | 70 |
 | 2026-07-11 | [TatarinBlack/ai-runtime-security-sandbox](https://github.com/TatarinBlack/ai-runtime-security-sandbox) | `rag-systems/` | 70 |
 | 2026-07-06 | [crazyaiml/attribute-knowledge-rag](https://github.com/crazyaiml/attribute-knowledge-rag) | `rag-systems/` | 70 |
 | 2026-07-03 | [Speechify-AI/tts-shims](https://github.com/Speechify-AI/tts-shims) | `ai-coding-agents/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` | 70 |
-| 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` | 70 |
 
 More resources will appear as the harvester collects them.

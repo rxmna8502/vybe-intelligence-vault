@@ -1,19 +1,34 @@
 ---
-title: "matteo-sung/lockvet"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "GitHub API", "GitLab API", "Bitbucket API", "OSV.dev", "deps.dev", "Model Context Protocol (MCP)", "Docker", "Homebrew", "Scoop"]
+title: matteo-sung/lockvet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- GitHub API
+- GitLab API
+- Bitbucket API
+- OSV.dev
+- deps.dev
+- Model Context Protocol (MCP)
+- Docker
+- Homebrew
+- Scoop
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["dependency analysis", "vulnerability detection", "lockfile diffing", "SBOM comparison", "MCP server"]
-source: "https://github.com/matteo-sung/lockvet"
+deployment_complexity: Low
+tags:
+- dependency analysis
+- vulnerability detection
+- lockfile diffing
+- SBOM comparison
+- MCP server
+source: https://github.com/matteo-sung/lockvet
 stars: 0
-language: "Go"
-last_updated: "2026-08-04T23:04:21Z"
-discovered_at: "2026-08-04T23:04:32Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T23:04:21Z'
+discovered_at: '2026-08-04T23:04:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

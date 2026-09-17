@@ -1,19 +1,32 @@
 ---
-title: "opensim-stack/opensim-metaverse2mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET 8", "Model Context Protocol (MCP)", "LibreMetaverse", "Docker", "HTTP/HTTPS", "JSON", "LLSD"]
+title: opensim-stack/opensim-metaverse2mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- C#
+- .NET 8
+- Model Context Protocol (MCP)
+- LibreMetaverse
+- Docker
+- HTTP/HTTPS
+- JSON
+- LLSD
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP", "OpenSim", "Second Life", "Bot Framework", "AI Agent Tools"]
-source: "https://github.com/opensim-stack/opensim-metaverse2mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- OpenSim
+- Second Life
+- Bot Framework
+- AI Agent Tools
+source: https://github.com/opensim-stack/opensim-metaverse2mcp
 stars: 0
-language: "C#"
-last_updated: "2026-08-01T23:47:26Z"
-discovered_at: "2026-08-01T23:57:31Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-01T23:47:26Z'
+discovered_at: '2026-08-01T23:57:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

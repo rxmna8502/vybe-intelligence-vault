@@ -1,19 +1,38 @@
 ---
-title: "krisshkodrani/OpenSidebar"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Chrome Extension API", "Vision Models (e.g., Kimi K2.7 Code)", "Planning/Execution Models", "React", "Vite", "CRXJS", "Nx", "pnpm", "Corepack", "Groq API (for voice input)", "SQLite (for trace storage)", "MCP (Model Context Protocol)"]
+title: krisshkodrani/OpenSidebar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Chrome Extension API
+- Vision Models (e.g., Kimi K2.7 Code)
+- Planning/Execution Models
+- React
+- Vite
+- CRXJS
+- Nx
+- pnpm
+- Corepack
+- Groq API (for voice input)
+- SQLite (for trace storage)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Browser Automation", "Autonomous Agent", "Chrome Extension", "BYOK (Bring Your Own Key)", "Multi-Step Task Execution"]
-source: "https://github.com/krisshkodrani/OpenSidebar"
+deployment_complexity: Medium
+tags:
+- Browser Automation
+- Autonomous Agent
+- Chrome Extension
+- BYOK (Bring Your Own Key)
+- Multi-Step Task Execution
+source: https://github.com/krisshkodrani/OpenSidebar
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-19T07:21:23Z"
-discovered_at: "2026-07-19T07:29:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T07:21:23Z'
+discovered_at: '2026-07-19T07:29:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,27 @@
 ---
-title: "bbsbs7617-png/claude-usage-report"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Windows API", "Claude Code Hook System"]
+title: bbsbs7617-png/claude-usage-report
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Windows API
+- Claude Code Hook System
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["Claude Code", "usage tracking", "token monitoring", "cost reporting", "context management"]
-source: "https://github.com/bbsbs7617-png/claude-usage-report"
+deployment_complexity: Low
+tags:
+- Claude Code
+- usage tracking
+- token monitoring
+- cost reporting
+- context management
+source: https://github.com/bbsbs7617-png/claude-usage-report
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-13T22:53:50Z"
-discovered_at: "2026-07-13T22:55:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-13T22:53:50Z'
+discovered_at: '2026-07-13T22:55:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

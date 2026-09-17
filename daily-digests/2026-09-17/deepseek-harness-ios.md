@@ -1,19 +1,38 @@
 ---
-title: "liulingfei-1/deepseek-harness-ios"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Swift", "SwiftUI", "iOS SDK", "DeepSeek", "OpenAI-compatible APIs", "Anthropic API", "Cordis", "iSH (ARM64 Alpine Linux)", "Node.js", "Xcode", "SwiftPM", "Keychain", "ActivityKit", "Swift Concurrency"]
+title: liulingfei-1/deepseek-harness-ios
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Swift
+- SwiftUI
+- iOS SDK
+- DeepSeek
+- OpenAI-compatible APIs
+- Anthropic API
+- Cordis
+- iSH (ARM64 Alpine Linux)
+- Node.js
+- Xcode
+- SwiftPM
+- Keychain
+- ActivityKit
+- Swift Concurrency
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["iOS Agent", "On-device AI", "DeepSeek Harness", "Plugin System", "Sandbox Execution"]
-source: "https://github.com/liulingfei-1/deepseek-harness-ios"
+deployment_complexity: High
+tags:
+- iOS Agent
+- On-device AI
+- DeepSeek Harness
+- Plugin System
+- Sandbox Execution
+source: https://github.com/liulingfei-1/deepseek-harness-ios
 stars: 6
-language: "Swift"
-last_updated: "2026-09-04T02:11:13Z"
-discovered_at: "2026-09-04T02:11:34Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-09-04T02:11:13Z'
+discovered_at: '2026-09-04T02:11:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

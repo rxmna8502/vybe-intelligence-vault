@@ -1,19 +1,37 @@
 ---
-title: "brokermr810/QuantDinger"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PostgreSQL", "Redis", "Docker", "Flask", "Gunicorn", "Celery", "Prometheus", "Grafana", "OpenAPI", "Mermaid.js", "AI Agents", "MCP (Model Context Protocol)"]
+title: brokermr810/QuantDinger
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- PostgreSQL
+- Redis
+- Docker
+- Flask
+- Gunicorn
+- Celery
+- Prometheus
+- Grafana
+- OpenAPI
+- Mermaid.js
+- AI Agents
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["AI Trading", "Quantitative Finance", "Self-Hosted", "Backtesting", "Multi-Agent Systems"]
-source: "https://github.com/brokermr810/QuantDinger"
+deployment_complexity: High
+tags:
+- AI Trading
+- Quantitative Finance
+- Self-Hosted
+- Backtesting
+- Multi-Agent Systems
+source: https://github.com/brokermr810/QuantDinger
 stars: 9747
-language: "Python"
-last_updated: "2026-07-19T02:24:11Z"
-discovered_at: "2026-07-19T02:30:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T02:24:11Z'
+discovered_at: '2026-07-19T02:30:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

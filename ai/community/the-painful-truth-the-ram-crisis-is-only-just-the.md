@@ -13,13 +13,14 @@ collected_at: '2026-09-17T10:31:09.342527+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-painful-truth-the-ram-crisis-is-only-just-the
 first_seen: '2026-09-17T10:31:09.342527+05:30'
 last_seen: '2026-09-17T10:31:09.342527+05:30'
 last_checked: '2026-09-17T10:31:09.342527+05:30'
 health_score: 100
 ---
+
 
 # The Painful Truth: The RAM Crisis Is Only Just the Beginning
 

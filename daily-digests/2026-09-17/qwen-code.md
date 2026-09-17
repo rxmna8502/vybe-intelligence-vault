@@ -1,19 +1,38 @@
 ---
-title: "QwenLM/qwen-code"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Python", "Java", "OpenAI API", "Anthropic API", "Gemini API", "Qwen API", "Ollama", "vLLM", "Telegram API", "DingTalk API", "WeChat API", "Feishu API"]
+title: QwenLM/qwen-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Python
+- Java
+- OpenAI API
+- Anthropic API
+- Gemini API
+- Qwen API
+- Ollama
+- vLLM
+- Telegram API
+- DingTalk API
+- WeChat API
+- Feishu API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "multi-protocol", "open-source", "terminal UI", "IDE integration"]
-source: "https://github.com/QwenLM/qwen-code"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- multi-protocol
+- open-source
+- terminal UI
+- IDE integration
+source: https://github.com/QwenLM/qwen-code
 stars: 26566
-language: "TypeScript"
-last_updated: "2026-08-03T10:37:04Z"
-discovered_at: "2026-08-03T10:43:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T10:37:04Z'
+discovered_at: '2026-08-03T10:43:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

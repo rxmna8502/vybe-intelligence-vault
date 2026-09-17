@@ -1,19 +1,30 @@
 ---
-title: "getlien/lien"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite (FTS5/BM25)", "Model Context Protocol (MCP)", "Git Worktrees", "GitHub Actions"]
+title: getlien/lien
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite (FTS5/BM25)
+- Model Context Protocol (MCP)
+- Git Worktrees
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["code analysis", "impact analysis", "lexical search", "MCP integration", "offline indexing"]
-source: "https://github.com/getlien/lien"
+deployment_complexity: Medium
+tags:
+- code analysis
+- impact analysis
+- lexical search
+- MCP integration
+- offline indexing
+source: https://github.com/getlien/lien
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-01T02:43:41Z"
-discovered_at: "2026-09-01T02:52:46Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:43:41Z'
+discovered_at: '2026-09-01T02:52:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

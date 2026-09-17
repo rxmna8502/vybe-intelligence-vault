@@ -1,19 +1,30 @@
 ---
-title: "beautyfree/skiller"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "GitHub Actions", "Electron Updater"]
+title: beautyfree/skiller
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- GitHub Actions
+- Electron Updater
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["skill management", "AI agent tools", "skill synchronization", "desktop application", "multi-agent support"]
-source: "https://github.com/beautyfree/skiller"
+deployment_complexity: Low
+tags:
+- skill management
+- AI agent tools
+- skill synchronization
+- desktop application
+- multi-agent support
+source: https://github.com/beautyfree/skiller
 stars: 45
-language: "TypeScript"
-last_updated: "2026-07-11T11:02:39Z"
-discovered_at: "2026-07-11T11:03:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T11:02:39Z'
+discovered_at: '2026-07-11T11:03:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

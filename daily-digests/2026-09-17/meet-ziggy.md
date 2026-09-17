@@ -1,19 +1,31 @@
 ---
-title: "chrisgorzelic/meet-ziggy"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "HTML/CSS/JavaScript", "Python", "Natural Language Processing (NLP)", "Voice Synthesis", "Local Data Storage", "Desktop Integration"]
+title: chrisgorzelic/meet-ziggy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Electron
+- HTML/CSS/JavaScript
+- Python
+- Natural Language Processing (NLP)
+- Voice Synthesis
+- Local Data Storage
+- Desktop Integration
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["personal agent", "desktop assistant", "voice interface", "local AI", "focus coach"]
-source: "https://github.com/chrisgorzelic/meet-ziggy"
+deployment_complexity: Medium
+tags:
+- personal agent
+- desktop assistant
+- voice interface
+- local AI
+- focus coach
+source: https://github.com/chrisgorzelic/meet-ziggy
 stars: 1
-language: "HTML"
-last_updated: "2026-08-01T17:53:31Z"
-discovered_at: "2026-08-01T18:00:08Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-01T17:53:31Z'
+discovered_at: '2026-08-01T18:00:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

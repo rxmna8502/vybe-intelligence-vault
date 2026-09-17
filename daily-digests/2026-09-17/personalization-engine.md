@@ -1,19 +1,32 @@
 ---
-title: "musiliandrew/Personalization-Engine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Google Cloud Vertex AI Vector Search", "Google Cloud Tasks", "Qdrant", "Uvicorn", "Thread-pool architecture"]
+title: musiliandrew/Personalization-Engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Google Cloud Vertex AI Vector Search
+- Google Cloud Tasks
+- Qdrant
+- Uvicorn
+- Thread-pool architecture
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["personalization", "vector search", "semantic memory", "FastAPI microservice", "event-driven"]
-source: "https://github.com/musiliandrew/Personalization-Engine"
+deployment_complexity: Medium
+tags:
+- personalization
+- vector search
+- semantic memory
+- FastAPI microservice
+- event-driven
+source: https://github.com/musiliandrew/Personalization-Engine
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T12:55:01Z"
-discovered_at: "2026-08-10T13:09:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T12:55:01Z'
+discovered_at: '2026-08-10T13:09:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

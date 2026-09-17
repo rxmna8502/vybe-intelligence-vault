@@ -1,19 +1,30 @@
 ---
-title: "n-shadloo/secure-code-auditor"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Django", "Django REST Framework", "OWASP Top 10", "Agent Skills", "MCP (Model Context Protocol)"]
+title: n-shadloo/secure-code-auditor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Django
+- Django REST Framework
+- OWASP Top 10
+- Agent Skills
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["backend security", "automated auditing", "Django security", "OWASP compliance", "AI agent tools"]
-source: "https://github.com/n-shadloo/secure-code-auditor"
+deployment_complexity: Low
+tags:
+- backend security
+- automated auditing
+- Django security
+- OWASP compliance
+- AI agent tools
+source: https://github.com/n-shadloo/secure-code-auditor
 stars: 3
-language: "Python"
-last_updated: "2026-08-04T13:02:10Z"
-discovered_at: "2026-08-04T13:03:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T13:02:10Z'
+discovered_at: '2026-08-04T13:03:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

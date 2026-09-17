@@ -1,19 +1,30 @@
 ---
-title: "xoonjaeho/ollama-cc-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Ollama", "Claude Code", "Git", "Playwright (optional)", "Shell"]
+title: xoonjaeho/ollama-cc-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Ollama
+- Claude Code
+- Git
+- Playwright (optional)
+- Shell
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Claude Code integration", "Ollama models", "Agentic workflows", "Code review", "Local LLM"]
-source: "https://github.com/xoonjaeho/ollama-cc-plugin"
+deployment_complexity: Medium
+tags:
+- Claude Code integration
+- Ollama models
+- Agentic workflows
+- Code review
+- Local LLM
+source: https://github.com/xoonjaeho/ollama-cc-plugin
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T02:31:30Z"
-discovered_at: "2026-08-02T02:34:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T02:31:30Z'
+discovered_at: '2026-08-02T02:34:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

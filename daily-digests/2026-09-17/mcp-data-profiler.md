@@ -1,19 +1,28 @@
 ---
-title: "Ridadata/mcp-data-profiler"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Pandas", "NumPy"]
+title: Ridadata/mcp-data-profiler
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Pandas
+- NumPy
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["data profiling", "MCP server", "dataset analysis", "data quality", "metadata extraction"]
-source: "https://github.com/Ridadata/mcp-data-profiler"
+deployment_complexity: Low
+tags:
+- data profiling
+- MCP server
+- dataset analysis
+- data quality
+- metadata extraction
+source: https://github.com/Ridadata/mcp-data-profiler
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T22:45:04Z"
-discovered_at: "2026-08-02T22:56:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T22:45:04Z'
+discovered_at: '2026-08-02T22:56:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

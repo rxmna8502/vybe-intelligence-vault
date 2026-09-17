@@ -1,19 +1,32 @@
 ---
-title: "Thitic9203/helix"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "Python", "Agent Skills Framework", "Playwright", "Jira API", "GitHub API", "CSV/Excel", "Markdown"]
+title: Thitic9203/helix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Shell
+- Python
+- Agent Skills Framework
+- Playwright
+- Jira API
+- GitHub API
+- CSV/Excel
+- Markdown
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["QA automation", "AI agent integration", "test-case generation", "Playwright testing", "Jira workflow"]
-source: "https://github.com/Thitic9203/helix"
+deployment_complexity: Low
+tags:
+- QA automation
+- AI agent integration
+- test-case generation
+- Playwright testing
+- Jira workflow
+source: https://github.com/Thitic9203/helix
 stars: 0
-language: "Shell"
-last_updated: "2026-07-19T13:11:43Z"
-discovered_at: "2026-07-19T13:17:23Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-19T13:11:43Z'
+discovered_at: '2026-07-19T13:17:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

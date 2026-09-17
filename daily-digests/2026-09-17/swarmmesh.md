@@ -1,19 +1,34 @@
 ---
-title: "RudrenduPaul/swarmmesh"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "FastAPI", "Express", "HTTP/WebSocket", "SQLite", "Typer", "Commander", "Okapi BM25", "MCP (Model Context Protocol)"]
+title: RudrenduPaul/swarmmesh
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Node.js
+- FastAPI
+- Express
+- HTTP/WebSocket
+- SQLite
+- Typer
+- Commander
+- Okapi BM25
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["shared memory", "agent coordination", "interoperability", "real-time updates", "BM25 search"]
-source: "https://github.com/RudrenduPaul/swarmmesh"
+deployment_complexity: Low
+tags:
+- shared memory
+- agent coordination
+- interoperability
+- real-time updates
+- BM25 search
+source: https://github.com/RudrenduPaul/swarmmesh
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T18:40:48Z"
-discovered_at: "2026-08-09T18:43:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T18:40:48Z'
+discovered_at: '2026-08-09T18:43:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

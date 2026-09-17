@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://rohanbansal.com/qorl
 hn_url: https://news.ycombinator.com/item?id=49731285
-score: 458
+score: 605
 author: polyphilz
-comments_count: 94
+comments_count: 124
 published_at: '2026-09-17T00:20:00+05:30'
-collected_at: '2026-09-17T10:31:08.256418+05:30'
+collected_at: '2026-09-17T19:07:36.167041+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:training-a-4b-model-to-produce-81-faster-query-pla
 first_seen: '2026-09-17T10:31:08.256418+05:30'
-last_seen: '2026-09-17T10:31:08.256418+05:30'
-last_checked: '2026-09-17T10:31:08.256418+05:30'
+last_seen: '2026-09-17T19:07:36.167041+05:30'
+last_checked: '2026-09-17T19:07:36.167041+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by polyphilz. Score: 458, Comments: 94.
+Hacker News story by polyphilz. Score: 605, Comments: 124.
 Original Link: https://rohanbansal.com/qorl
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: polyphilz
-- Score: 458 Upvotes
-- Comments: 94 Discussions
+- Score: 605 Upvotes
+- Comments: 124 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49731285
 - Original Article: https://rohanbansal.com/qorl
 

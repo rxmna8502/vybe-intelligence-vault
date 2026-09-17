@@ -1,19 +1,32 @@
 ---
-title: "riponcm/projectmem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Git", "JSON/JSONL", "CLI", "Local-first architecture", "Visualization libraries (for dashboard)", "arXiv (for research paper)"]
+title: riponcm/projectmem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Git
+- JSON/JSONL
+- CLI
+- Local-first architecture
+- Visualization libraries (for dashboard)
+- arXiv (for research paper)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI memory", "local-first", "coding agents", "pre-commit warnings", "MCP server"]
-source: "https://github.com/riponcm/projectmem"
+deployment_complexity: Medium
+tags:
+- AI memory
+- local-first
+- coding agents
+- pre-commit warnings
+- MCP server
+source: https://github.com/riponcm/projectmem
 stars: 393
-language: "Python"
-last_updated: "2026-08-04T19:27:08Z"
-discovered_at: "2026-08-04T19:34:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T19:27:08Z'
+discovered_at: '2026-08-04T19:34:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "Nitmi/blea"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Bleak", "MCP (Model Context Protocol)", "Agent Plugins 1.0.0", "CLI", "JSON/JSONL", "YAML"]
+title: Nitmi/blea
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Bleak
+- MCP (Model Context Protocol)
+- Agent Plugins 1.0.0
+- CLI
+- JSON/JSONL
+- YAML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["BLE automation", "AI agent tools", "MCP server", "deterministic CLI", "evidence capture"]
-source: "https://github.com/Nitmi/blea"
+deployment_complexity: Medium
+tags:
+- BLE automation
+- AI agent tools
+- MCP server
+- deterministic CLI
+- evidence capture
+source: https://github.com/Nitmi/blea
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T15:31:41Z"
-discovered_at: "2026-08-09T15:35:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T15:31:41Z'
+discovered_at: '2026-08-09T15:35:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

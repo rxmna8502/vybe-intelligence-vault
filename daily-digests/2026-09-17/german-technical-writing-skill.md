@@ -1,19 +1,29 @@
 ---
-title: "netresearch/german-technical-writing-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Agent Skills Specification", "Natural Language Processing (NLP)", "German Linguistics", "Markdown", "JSON"]
+title: netresearch/german-technical-writing-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Agent Skills Specification
+- Natural Language Processing (NLP)
+- German Linguistics
+- Markdown
+- JSON
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["German technical writing", "anglicism correction", "Agent Skills", "Jira integration", "technical lexicon"]
-source: "https://github.com/netresearch/german-technical-writing-skill"
+deployment_complexity: Low
+tags:
+- German technical writing
+- anglicism correction
+- Agent Skills
+- Jira integration
+- technical lexicon
+source: https://github.com/netresearch/german-technical-writing-skill
 stars: 4
-language: "None"
-last_updated: "2026-08-08T07:50:17Z"
-discovered_at: "2026-08-08T07:51:40Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T07:50:17Z'
+discovered_at: '2026-08-08T07:51:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "ogaston/multi-source-news-verification-pipeline"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PostgreSQL", "Chroma", "LlamaIndex", "LangGraph", "Playwright", "Traefik", "Docker", "DeepSeek API", "Serper.dev API", "SentenceTransformers", "SQLAdmin"]
+title: ogaston/multi-source-news-verification-pipeline
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- PostgreSQL
+- Chroma
+- LlamaIndex
+- LangGraph
+- Playwright
+- Traefik
+- Docker
+- DeepSeek API
+- Serper.dev API
+- SentenceTransformers
+- SQLAdmin
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["news verification", "multi-source ingestion", "semantic search", "AI fact-checking", "MCP server"]
-source: "https://github.com/ogaston/multi-source-news-verification-pipeline"
+deployment_complexity: High
+tags:
+- news verification
+- multi-source ingestion
+- semantic search
+- AI fact-checking
+- MCP server
+source: https://github.com/ogaston/multi-source-news-verification-pipeline
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T23:53:05Z"
-discovered_at: "2026-08-03T00:01:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T23:53:05Z'
+discovered_at: '2026-08-03T00:01:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

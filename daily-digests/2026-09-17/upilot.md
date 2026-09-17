@@ -1,19 +1,32 @@
 ---
-title: "codingriver/upilot"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["C#", "Unity Editor", "MCP (Model Context Protocol)", "Python", "YAML", "WebSocket", "HTTP", "MonoHook (for method hooking)"]
+title: codingriver/upilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- C#
+- Unity Editor
+- MCP (Model Context Protocol)
+- Python
+- YAML
+- WebSocket
+- HTTP
+- MonoHook (for method hooking)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Unity automation", "MCP server", "AI agent integration", "UI automation", "Editor bridge"]
-source: "https://github.com/codingriver/upilot"
+deployment_complexity: Medium
+tags:
+- Unity automation
+- MCP server
+- AI agent integration
+- UI automation
+- Editor bridge
+source: https://github.com/codingriver/upilot
 stars: 0
-language: "C#"
-last_updated: "2026-07-11T07:49:13Z"
-discovered_at: "2026-07-11T07:52:24Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-07-11T07:49:13Z'
+discovered_at: '2026-07-11T07:52:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

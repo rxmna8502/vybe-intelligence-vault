@@ -1,19 +1,32 @@
 ---
-title: "OlehDatsyk/weather-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.12+", "FastMCP", "HTTPX", "Pydantic v2", "python-dotenv", "Loguru", "Pytest", "respx"]
+title: OlehDatsyk/weather-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python 3.12+
+- FastMCP
+- HTTPX
+- Pydantic v2
+- python-dotenv
+- Loguru
+- Pytest
+- respx
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Weather API", "Structured Output", "AI Integration", "Production-Ready"]
-source: "https://github.com/OlehDatsyk/weather-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Weather API
+- Structured Output
+- AI Integration
+- Production-Ready
+source: https://github.com/OlehDatsyk/weather-mcp-server
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T19:13:10Z"
-discovered_at: "2026-08-02T19:25:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T19:13:10Z'
+discovered_at: '2026-08-02T19:25:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -13,13 +13,14 @@ collected_at: '2026-09-17T10:31:10.006636+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:part-human-part-mouse-brain-developed-in-science-b
 first_seen: '2026-09-17T10:31:10.006636+05:30'
 last_seen: '2026-09-17T10:31:10.006636+05:30'
 last_checked: '2026-09-17T10:31:10.006636+05:30'
 health_score: 100
 ---
+
 
 # Part-human part-mouse brain developed in science breakthrough
 

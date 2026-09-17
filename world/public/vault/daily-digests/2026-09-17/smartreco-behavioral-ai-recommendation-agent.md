@@ -1,19 +1,35 @@
 ---
-title: "adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.11", "Flask", "NVIDIA NIM API (Llama 3.1 70B)", "ChromaDB", "LangGraph", "SQLite", "SQLAlchemy", "APScheduler", "SMTP (Gmail)", "HTML5/CSS3", "JavaScript ES6+"]
+title: adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Python 3.11
+- Flask
+- NVIDIA NIM API (Llama 3.1 70B)
+- ChromaDB
+- LangGraph
+- SQLite
+- SQLAlchemy
+- APScheduler
+- SMTP (Gmail)
+- HTML5/CSS3
+- JavaScript ES6+
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Recommendation Engine", "RAG", "Behavioral Analytics", "Agentic AI", "Course Recommendation"]
-source: "https://github.com/adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent"
+deployment_complexity: Medium
+tags:
+- Recommendation Engine
+- RAG
+- Behavioral Analytics
+- Agentic AI
+- Course Recommendation
+source: https://github.com/adi-0903/SmartReco-Behavioral-AI-Recommendation-Agent
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T09:29:17Z"
-discovered_at: "2026-08-07T10:05:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T09:29:17Z'
+discovered_at: '2026-08-07T10:05:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "bethel-mark/ecom-listing-pro"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "AI/ML (Computer Vision, NLP)", "Prompt Engineering", "Image Processing (LaMa inpainting)", "Agent Frameworks (Codex Skills)", "Design Systems (Glassmorphism, Isometric 3D, etc.)"]
+title: bethel-mark/ecom-listing-pro
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- AI/ML (Computer Vision, NLP)
+- Prompt Engineering
+- Image Processing (LaMa inpainting)
+- Agent Frameworks (Codex Skills)
+- Design Systems (Glassmorphism, Isometric 3D, etc.)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["e-commerce optimization", "AI image processing", "title generation", "cross-border listing", "watermark removal"]
-source: "https://github.com/bethel-mark/ecom-listing-pro"
+deployment_complexity: Medium
+tags:
+- e-commerce optimization
+- AI image processing
+- title generation
+- cross-border listing
+- watermark removal
+source: https://github.com/bethel-mark/ecom-listing-pro
 stars: 1
-language: "None"
-last_updated: "2026-07-20T15:06:47Z"
-discovered_at: "2026-07-20T15:10:46Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-20T15:06:47Z'
+discovered_at: '2026-07-20T15:10:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

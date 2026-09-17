@@ -1,19 +1,32 @@
 ---
-title: "bio-apple/ai"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["JavaScript", "Node.js", "Python", "GitHub Actions", "Cloudflare Workers", "KV Storage", "HTML/CSS", "CI/CD Pipelines"]
+title: bio-apple/ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- Python
+- GitHub Actions
+- Cloudflare Workers
+- KV Storage
+- HTML/CSS
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI tool navigation", "curated resources", "daily updates", "workflow integration", "open-source"]
-source: "https://github.com/bio-apple/ai"
+deployment_complexity: Medium
+tags:
+- AI tool navigation
+- curated resources
+- daily updates
+- workflow integration
+- open-source
+source: https://github.com/bio-apple/ai
 stars: 2
-language: "JavaScript"
-last_updated: "2026-09-01T09:00:27Z"
-discovered_at: "2026-09-01T09:10:15Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T09:00:27Z'
+discovered_at: '2026-09-01T09:10:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

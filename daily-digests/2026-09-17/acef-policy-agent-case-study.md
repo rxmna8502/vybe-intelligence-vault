@@ -1,19 +1,30 @@
 ---
-title: "4b8wsfdk7y-cloud/acef-policy-agent-case-study"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "OpenAI-compatible API", "HTML parsing", "Markdown", "Environment variables"]
+title: 4b8wsfdk7y-cloud/acef-policy-agent-case-study
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- OpenAI-compatible API
+- HTML parsing
+- Markdown
+- Environment variables
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["policy monitoring", "document processing", "LLM integration", "traceability", "structured reporting"]
-source: "https://github.com/4b8wsfdk7y-cloud/acef-policy-agent-case-study"
+deployment_complexity: Medium
+tags:
+- policy monitoring
+- document processing
+- LLM integration
+- traceability
+- structured reporting
+source: https://github.com/4b8wsfdk7y-cloud/acef-policy-agent-case-study
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-10T16:18:01Z"
-discovered_at: "2026-07-10T16:24:15Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T16:18:01Z'
+discovered_at: '2026-07-10T16:24:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

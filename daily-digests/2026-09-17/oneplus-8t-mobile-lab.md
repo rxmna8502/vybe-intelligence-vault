@@ -1,19 +1,32 @@
 ---
-title: "toolazytoname/oneplus-8t-mobile-lab"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Android", "Linux", "Magisk", "Termux", "Kali PRoot", "Shell", "GitHub Actions", "Mermaid.js"]
+title: toolazytoname/oneplus-8t-mobile-lab
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Android
+- Linux
+- Magisk
+- Termux
+- Kali PRoot
+- Shell
+- GitHub Actions
+- Mermaid.js
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Android experimentation", "mobile security", "wireless monitoring", "AI agent development", "device automation"]
-source: "https://github.com/toolazytoname/oneplus-8t-mobile-lab"
+deployment_complexity: Medium
+tags:
+- Android experimentation
+- mobile security
+- wireless monitoring
+- AI agent development
+- device automation
+source: https://github.com/toolazytoname/oneplus-8t-mobile-lab
 stars: 0
-language: "Shell"
-last_updated: "2026-08-06T23:59:00Z"
-discovered_at: "2026-08-07T00:01:48Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-06T23:59:00Z'
+discovered_at: '2026-08-07T00:01:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

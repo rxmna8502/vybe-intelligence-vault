@@ -1,19 +1,30 @@
 ---
-title: "GearVoid/dsh-taskify"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "DeepSeek Harness", "Node.js", "pnpm", "Cordis"]
+title: GearVoid/dsh-taskify
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- TypeScript
+- DeepSeek Harness
+- Node.js
+- pnpm
+- Cordis
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI task constraints", "coding agent guidance", "prompt boundary enforcement", "session persistence", "DeepSeek Harness plugin"]
-source: "https://github.com/GearVoid/dsh-taskify"
+deployment_complexity: Medium
+tags:
+- AI task constraints
+- coding agent guidance
+- prompt boundary enforcement
+- session persistence
+- DeepSeek Harness plugin
+source: https://github.com/GearVoid/dsh-taskify
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-04T02:09:09Z"
-discovered_at: "2026-09-04T02:11:38Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-04T02:09:09Z'
+discovered_at: '2026-09-04T02:11:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

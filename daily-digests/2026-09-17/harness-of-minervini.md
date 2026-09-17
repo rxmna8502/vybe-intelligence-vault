@@ -1,19 +1,32 @@
 ---
-title: "tjdwls101010/Harness-of-Minervini"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "yfinance", "Finviz", "ibd-rs-rating", "JSON", "CLI", "Git"]
+title: tjdwls101010/Harness-of-Minervini
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Claude Code
+- yfinance
+- Finviz
+- ibd-rs-rating
+- JSON
+- CLI
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["stock analysis", "momentum investing", "Minervini SEPA", "deterministic evidence", "AI harness"]
-source: "https://github.com/tjdwls101010/Harness-of-Minervini"
+deployment_complexity: Medium
+tags:
+- stock analysis
+- momentum investing
+- Minervini SEPA
+- deterministic evidence
+- AI harness
+source: https://github.com/tjdwls101010/Harness-of-Minervini
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T14:51:54Z"
-discovered_at: "2026-07-19T14:54:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T14:51:54Z'
+discovered_at: '2026-07-19T14:54:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

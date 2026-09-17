@@ -1,19 +1,32 @@
 ---
-title: "fxMT-nx/el-primor"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["OpenCode", "DeepSeek V4 Pro", "TurboVec (Google Research ICLR 2026)", "multilingual-e5-small embeddings", "SQLite", "Python", "npm", "MCP (Model Context Protocol)"]
+title: fxMT-nx/el-primor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- OpenCode
+- DeepSeek V4 Pro
+- TurboVec (Google Research ICLR 2026)
+- multilingual-e5-small embeddings
+- SQLite
+- Python
+- npm
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["coding agent", "semantic memory", "context retention", "AI-assisted development", "autonomous learning"]
-source: "https://github.com/fxMT-nx/el-primor"
+deployment_complexity: Medium
+tags:
+- coding agent
+- semantic memory
+- context retention
+- AI-assisted development
+- autonomous learning
+source: https://github.com/fxMT-nx/el-primor
 stars: 0
-language: "Python"
-last_updated: "2026-07-20T12:13:49Z"
-discovered_at: "2026-07-20T12:22:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T12:13:49Z'
+discovered_at: '2026-07-20T12:22:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

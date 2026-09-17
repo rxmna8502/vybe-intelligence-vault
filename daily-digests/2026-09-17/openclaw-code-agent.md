@@ -1,19 +1,32 @@
 ---
-title: "goldmar/openclaw-code-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "OpenClaw", "Claude Code", "Codex", "OpenCode", "Git", "GitHub CLI"]
+title: goldmar/openclaw-code-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- OpenClaw
+- Claude Code
+- Codex
+- OpenCode
+- Git
+- GitHub CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "plan approval", "worktree isolation", "session lifecycle", "chat orchestration"]
-source: "https://github.com/goldmar/openclaw-code-agent"
+deployment_complexity: Medium
+tags:
+- coding agent
+- plan approval
+- worktree isolation
+- session lifecycle
+- chat orchestration
+source: https://github.com/goldmar/openclaw-code-agent
 stars: 42
-language: "TypeScript"
-last_updated: "2026-07-14T05:19:47Z"
-discovered_at: "2026-07-14T05:28:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-14T05:19:47Z'
+discovered_at: '2026-07-14T05:28:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

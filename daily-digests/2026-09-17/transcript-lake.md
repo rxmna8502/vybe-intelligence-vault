@@ -1,19 +1,30 @@
 ---
-title: "wisent-ai/transcript-lake"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "DuckDB", "NDJSON", "Parquet", "SQL"]
+title: wisent-ai/transcript-lake
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- DuckDB
+- NDJSON
+- Parquet
+- SQL
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["transcript aggregation", "privacy masking", "SQL query interface", "coding agents", "local data processing"]
-source: "https://github.com/wisent-ai/transcript-lake"
+deployment_complexity: Medium
+tags:
+- transcript aggregation
+- privacy masking
+- SQL query interface
+- coding agents
+- local data processing
+source: https://github.com/wisent-ai/transcript-lake
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-08T05:36:04Z"
-discovered_at: "2026-08-08T05:46:00Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T05:36:04Z'
+discovered_at: '2026-08-08T05:46:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

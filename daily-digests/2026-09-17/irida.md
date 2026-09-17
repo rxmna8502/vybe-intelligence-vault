@@ -1,19 +1,37 @@
 ---
-title: "niksh06/irida"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Cursor SDK", "Anthropic Claude Agent SDK", "SQLite", "PostgreSQL", "Ink (Terminal UI)", "React", "Model Context Protocol (MCP)", "Cron", "Telegram Bot API", "Webhook", "pgcrypto (encryption)"]
+title: niksh06/irida
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Cursor SDK
+- Anthropic Claude Agent SDK
+- SQLite
+- PostgreSQL
+- Ink (Terminal UI)
+- React
+- Model Context Protocol (MCP)
+- Cron
+- Telegram Bot API
+- Webhook
+- pgcrypto (encryption)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal agent", "local-first", "multi-engine", "terminal UI", "automation"]
-source: "https://github.com/niksh06/irida"
+deployment_complexity: Medium
+tags:
+- personal agent
+- local-first
+- multi-engine
+- terminal UI
+- automation
+source: https://github.com/niksh06/irida
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-12T22:36:59Z"
-discovered_at: "2026-07-12T22:44:48Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T22:36:59Z'
+discovered_at: '2026-07-12T22:44:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

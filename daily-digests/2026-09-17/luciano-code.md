@@ -1,19 +1,31 @@
 ---
-title: "Lucianopm24/luciano-code"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "NVIDIA NIM", "OpenAI-compatible API", "SearXNG", "Convex", "CLI/Terminal UI", "TypeScript/JavaScript"]
+title: Lucianopm24/luciano-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Node.js
+- NVIDIA NIM
+- OpenAI-compatible API
+- SearXNG
+- Convex
+- CLI/Terminal UI
+- TypeScript/JavaScript
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "terminal-based", "BYOK", "NVIDIA NIM", "workspace tools"]
-source: "https://github.com/Lucianopm24/luciano-code"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- terminal-based
+- BYOK
+- NVIDIA NIM
+- workspace tools
+source: https://github.com/Lucianopm24/luciano-code
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T03:20:07Z"
-discovered_at: "2026-08-08T03:28:04Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T03:20:07Z'
+discovered_at: '2026-08-08T03:28:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

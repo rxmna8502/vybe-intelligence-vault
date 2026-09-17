@@ -1,19 +1,31 @@
 ---
-title: "Nattentia/cueprecise"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Gemini API", "FFmpeg", "SQLite", "MCP (Model Context Protocol)", "YouTube Data API", "OCR (optional)"]
+title: Nattentia/cueprecise
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Gemini API
+- FFmpeg
+- SQLite
+- MCP (Model Context Protocol)
+- YouTube Data API
+- OCR (optional)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["YouTube analysis", "timestamped evidence", "code-switching", "local AI processing", "MCP server"]
-source: "https://github.com/Nattentia/cueprecise"
+deployment_complexity: Medium
+tags:
+- YouTube analysis
+- timestamped evidence
+- code-switching
+- local AI processing
+- MCP server
+source: https://github.com/Nattentia/cueprecise
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T08:45:24Z"
-discovered_at: "2026-09-01T09:11:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T08:45:24Z'
+discovered_at: '2026-09-01T09:11:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

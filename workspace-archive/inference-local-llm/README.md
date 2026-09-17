@@ -24,8 +24,8 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 - [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio)
+- [docker/compose-for-agents](https://github.com/docker/compose-for-agents)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-09-17 10:51 IST*
+*Last updated: 2026-09-17 19:26 IST*

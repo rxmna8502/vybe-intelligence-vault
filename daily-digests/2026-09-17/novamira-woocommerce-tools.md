@@ -1,19 +1,30 @@
 ---
-title: "aliM75065/novamira-woocommerce-tools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PHP", "WordPress", "WooCommerce", "RankMath", "JSON Schema", "MCP (Model Context Protocol)"]
+title: aliM75065/novamira-woocommerce-tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- PHP
+- WordPress
+- WooCommerce
+- RankMath
+- JSON Schema
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["WordPress", "WooCommerce", "MCP", "AI Agents", "SEO Tools"]
-source: "https://github.com/aliM75065/novamira-woocommerce-tools"
+deployment_complexity: Medium
+tags:
+- WordPress
+- WooCommerce
+- MCP
+- AI Agents
+- SEO Tools
+source: https://github.com/aliM75065/novamira-woocommerce-tools
 stars: 0
-language: "PHP"
-last_updated: "2026-07-12T16:58:40Z"
-discovered_at: "2026-07-12T17:03:39Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-07-12T16:58:40Z'
+discovered_at: '2026-07-12T17:03:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

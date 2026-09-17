@@ -1,19 +1,38 @@
 ---
-title: "Neltud/xArtists"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "React", "TypeScript", "Tailwind CSS", "Vite", "MultiversX Blockchain", "LIA (AI Agents)", "Docker", "GitHub Actions", "Playwright", "ESDT (MultiversX Tokens)", "PWA (Progressive Web App)", "OpenAPI", "Discord Bot"]
+title: Neltud/xArtists
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Rust
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- MultiversX Blockchain
+- LIA (AI Agents)
+- Docker
+- GitHub Actions
+- Playwright
+- ESDT (MultiversX Tokens)
+- PWA (Progressive Web App)
+- OpenAPI
+- Discord Bot
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agents", "NFT Marketplace", "RWA", "Blockchain", "Generative Art"]
-source: "https://github.com/Neltud/xArtists"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- NFT Marketplace
+- RWA
+- Blockchain
+- Generative Art
+source: https://github.com/Neltud/xArtists
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T10:39:27Z"
-discovered_at: "2026-08-02T10:41:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T10:39:27Z'
+discovered_at: '2026-08-02T10:41:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "hikmat690/docai-document-intelligence"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Groq API", "TF-IDF", "FastAPI", "DuckDuckGo", "LangChain", "Pytest"]
+title: hikmat690/docai-document-intelligence
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Groq API
+- TF-IDF
+- FastAPI
+- DuckDuckGo
+- LangChain
+- Pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["autonomous research", "dynamic retrieval", "confidence-based stopping", "auditable decision logs", "entity profiling"]
-source: "https://github.com/hikmat690/docai-document-intelligence"
+deployment_complexity: Medium
+tags:
+- autonomous research
+- dynamic retrieval
+- confidence-based stopping
+- auditable decision logs
+- entity profiling
+source: https://github.com/hikmat690/docai-document-intelligence
 stars: 0
-language: "HTML"
-last_updated: "2026-08-07T21:39:12Z"
-discovered_at: "2026-08-07T21:41:14Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T21:39:12Z'
+discovered_at: '2026-08-07T21:41:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

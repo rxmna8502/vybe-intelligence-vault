@@ -1,19 +1,29 @@
 ---
-title: "rust-mcp-stack/mcp-discovery"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Handlebars", "GitHub Actions", "Streamable HTTP", "OAuth 2.0"]
+title: rust-mcp-stack/mcp-discovery
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Rust
+- Handlebars
+- GitHub Actions
+- Streamable HTTP
+- OAuth 2.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP", "documentation", "CLI", "automation", "server-capabilities"]
-source: "https://github.com/rust-mcp-stack/mcp-discovery"
+deployment_complexity: Low
+tags:
+- MCP
+- documentation
+- CLI
+- automation
+- server-capabilities
+source: https://github.com/rust-mcp-stack/mcp-discovery
 stars: 86
-language: "Rust"
-last_updated: "2026-09-02T22:15:23Z"
-discovered_at: "2026-09-02T22:20:01Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T22:15:23Z'
+discovered_at: '2026-09-02T22:20:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,17 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-09-04T00:53:30.828098+05:30'
-published_at: '2026-09-03T06:30:24Z'
+collected_at: '2026-09-17T19:08:56.921323+05:30'
+published_at: '2026-09-17T10:07:55Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
 - rag
-stars: 1617
+stars: 1630
 language: JavaScript
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-09-04T00:53:30.828098+05:30'
-last_seen: '2026-09-04T00:53:30.828098+05:30'
-last_checked: '2026-09-04T00:53:30.828098+05:30'
+first_seen: '2026-09-17T19:08:56.921323+05:30'
+last_seen: '2026-09-17T19:08:56.921323+05:30'
+last_checked: '2026-09-17T19:08:56.921323+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, covering embeddings, vector search, retrieval, and context-augmented generation.
-
-- **Technical Stack**: Utilizes Node.js with specialized libraries (`node-llama-cpp`) for local LLM inference, emphasizing transparency in how embeddings are generated, stored, and retrieved for augmented generation.
-
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for building a RAG chatbot, including agents, RAG pipeline components, and vector search mechanics, updated as of September 2026.
+*   Implements a RAG pipeline from first principles, focusing on demystifying embeddings, vector search, and retrieval for context-augmented generation.
+*   Utilizes local LLMs via `node-llama-cpp` within a Node.js environment, emphasizing transparent component understanding over black-box abstractions.
+*   Provides an educational framework for constructing RAG chatbots, detailing the full process from data ingestion to final response generation.
 
 ## Why It Matters
 
@@ -45,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1617
-- Forks: 193
+- Stars: 1630
+- Forks: 195
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-09-03T06:30:24Z
+- Last Updated: 2026-09-17T10:07:55Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

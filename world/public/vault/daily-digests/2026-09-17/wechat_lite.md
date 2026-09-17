@@ -1,19 +1,31 @@
 ---
-title: "letmego2022/wechat_lite"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "SQLite", "Docker", "Jinja2", "MiniMax/Anthropic API", "iLink/ClawBot Protocol"]
+title: letmego2022/wechat_lite
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Python
+- Flask
+- SQLite
+- Docker
+- Jinja2
+- MiniMax/Anthropic API
+- iLink/ClawBot Protocol
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["WeChat Bot", "AI Automation", "Plugin System", "Docker Deployment", "Multi-User Isolation"]
-source: "https://github.com/letmego2022/wechat_lite"
+deployment_complexity: Medium
+tags:
+- WeChat Bot
+- AI Automation
+- Plugin System
+- Docker Deployment
+- Multi-User Isolation
+source: https://github.com/letmego2022/wechat_lite
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T05:39:47Z"
-discovered_at: "2026-08-05T05:49:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:39:47Z'
+discovered_at: '2026-08-05T05:49:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

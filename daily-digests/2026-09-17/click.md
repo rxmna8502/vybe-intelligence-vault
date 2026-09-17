@@ -1,19 +1,30 @@
 ---
-title: "grapefruit0205/click"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Codex", "Plugin Architecture", "State Machine", "JSON Contracts", "CI/CD Pipelines"]
+title: grapefruit0205/click
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Codex
+- Plugin Architecture
+- State Machine
+- JSON Contracts
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["contract-driven execution", "AI agent control", "codex plugin", "verifiable evidence", "mutation authority"]
-source: "https://github.com/grapefruit0205/click"
+deployment_complexity: Medium
+tags:
+- contract-driven execution
+- AI agent control
+- codex plugin
+- verifiable evidence
+- mutation authority
+source: https://github.com/grapefruit0205/click
 stars: 34
-language: "Python"
-last_updated: "2026-09-01T02:46:45Z"
-discovered_at: "2026-09-01T02:49:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T02:46:45Z'
+discovered_at: '2026-09-01T02:49:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

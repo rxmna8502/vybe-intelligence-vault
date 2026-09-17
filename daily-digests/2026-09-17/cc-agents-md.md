@@ -1,19 +1,30 @@
 ---
-title: "GeiserX/cc-agents-md"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Bash", "PowerShell", "Node.js", "Git", "Claude Code"]
+title: GeiserX/cc-agents-md
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Bash
+- PowerShell
+- Node.js
+- Git
+- Claude Code
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Claude Code", "AGENTS.md", "context injection", "monorepo", "AI assistant"]
-source: "https://github.com/GeiserX/cc-agents-md"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- AGENTS.md
+- context injection
+- monorepo
+- AI assistant
+source: https://github.com/GeiserX/cc-agents-md
 stars: 8
-language: "JavaScript"
-last_updated: "2026-08-01T21:54:05Z"
-discovered_at: "2026-08-01T21:54:57Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T21:54:05Z'
+discovered_at: '2026-08-01T21:54:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
