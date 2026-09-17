@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-craigslist-for-agent-skills-curated-by-a-h
 first_seen: '2026-09-18T01:17:42.477008+05:30'
 last_seen: '2026-09-18T01:17:42.477008+05:30'
 last_checked: '2026-09-18T01:17:42.477008+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Craigslist for agent skills, curated by a human
 

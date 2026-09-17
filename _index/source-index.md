@@ -24743,6 +24743,7 @@ Resources organized by publisher feed and query sources.
   - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
+  - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
@@ -25664,15 +25665,16 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [LLM Classification Is Feature Engineering](../ai/community/llm-classification-is-feature-engineering.md)
+  - [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](../ai/community/bend-a-language-that-blocks-ai-mistakes-via-proof.md)
+  - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](../ai/community/bonsai-2-27b-near-lossless-compression-in-a-9x-sma.md)
+  - [Diplodocus, Long Thought Exclusively American, Turns Up in Spain](../ai/community/diplodocus-long-thought-exclusively-american-turns.md)
+  - [How Uber Protects Against Retry Storms](../ai/community/how-uber-protects-against-retry-storms.md)
+  - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
   - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
-  - [Missouri governor orders guardrails on Flock cameras and ALPRs](../ai/community/missouri-governor-orders-guardrails-on-flock-camer.md)
-  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
+  - [Sex, AI, and the Apocalypse](../ai/community/sex-ai-and-the-apocalypse.md)
   - [Show HN: Share your AI Setup, Learn from others](../ai/community/show-hn-share-your-ai-setup-learn-from-others.md)
-  - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](../ai/community/stallman-thousands-dead-millions-deprived-of-liber.md)
   - [TSMC revealing details about next gen A14 node](../ai/community/tsmc-revealing-details-about-next-gen-a14-node.md)
   - [The American Religion of Self-Storage Facilities](../ai/community/the-american-religion-of-self-storage-facilities.md)
-  - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -29535,4 +29537,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-18T01:34:29.409160+05:30*
+*Index generated on 2026-09-18T04:42:45.417257+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-09-18T01:17:39.603295+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:missouri-governor-orders-guardrails-on-flock-camer
 first_seen: '2026-09-18T01:17:39.603295+05:30'
 last_seen: '2026-09-18T01:17:39.603295+05:30'
 last_checked: '2026-09-18T01:17:39.603295+05:30'
 health_score: 100
 ---
+
 
 # Missouri governor orders guardrails on Flock cameras and ALPRs
 

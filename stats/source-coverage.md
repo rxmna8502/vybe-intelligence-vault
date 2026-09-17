@@ -26,7 +26,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | learn.microsoft.com | 14 |
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
-| anthropic.com | 11 |
+| anthropic.com | 12 |
 | developer.mozilla.org | 11 |
 | mistral.ai | 10 |
 | deepmind.google | 10 |
@@ -166,6 +166,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+| uber.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -303,15 +304,15 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| gcaptain.com | 1 |
-| mysetup.ai | 1 |
+| bend-lang.com | 1 |
 | newyorker.com | 1 |
-| news.slashdot.org | 1 |
-| minimallysufficient.com | 1 |
+| mysetup.ai | 1 |
+| prismml.com | 1 |
 | iedm26.mapyourshow.com | 1 |
+| iankduncan.com | 1 |
 | news.ycombinator.com | 1 |
-| stlpr.org | 1 |
-| skillbay.sh | 1 |
+| sockpuppet.org | 1 |
+| sci.news | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -1009,7 +1010,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | business-services.heise.de | 1 |
 | docs.sglang.io | 1 |
 | exploredegrees.stanford.edu | 1 |
-| uber.com | 1 |
 | getbootstrap.com | 1 |
 | nathanrooy.github.io | 1 |
 | paperswithcode.com | 1 |

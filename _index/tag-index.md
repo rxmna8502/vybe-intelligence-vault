@@ -5037,7 +5037,6 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
@@ -6639,12 +6638,14 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](../ai/community/bend-a-language-that-blocks-ai-mistakes-via-proof.md)
+  - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](../ai/community/bonsai-2-27b-near-lossless-compression-in-a-9x-sma.md)
+  - [Diplodocus, Long Thought Exclusively American, Turns Up in Spain](../ai/community/diplodocus-long-thought-exclusively-american-turns.md)
+  - [How Uber Protects Against Retry Storms](../ai/community/how-uber-protects-against-retry-storms.md)
   - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
-  - [Missouri governor orders guardrails on Flock cameras and ALPRs](../ai/community/missouri-governor-orders-guardrails-on-flock-camer.md)
-  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
+  - [Sex, AI, and the Apocalypse](../ai/community/sex-ai-and-the-apocalypse.md)
   - [Show HN: Share your AI Setup, Learn from others](../ai/community/show-hn-share-your-ai-setup-learn-from-others.md)
   - [TSMC revealing details about next gen A14 node](../ai/community/tsmc-revealing-details-about-next-gen-a14-node.md)
-  - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md)
 
 ## animation
 
@@ -6750,6 +6751,7 @@ Resources organized by keyword tags.
   - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
+  - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Authoring Agent Skills: A Software-Engineering Approach](../ai/agents/arxiv-2607-25032.md)
@@ -7389,6 +7391,7 @@ Resources organized by keyword tags.
   - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
+  - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
@@ -18568,6 +18571,7 @@ Resources organized by keyword tags.
   - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
+  - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
@@ -27098,6 +27102,7 @@ Resources organized by keyword tags.
   - [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](../ai/research/arxiv-2607-15176.md)
   - [Benchmarking Physics-Informed Time-Series Models for Operational Global Station Weather Forecasting](../ai/research/arxiv-2406-14399.md)
   - [Benchmarking noisy label detection methods](../ai/rag/arxiv-2510-16211.md)
+  - [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](../ai/community/bend-a-language-that-blocks-ai-mistakes-via-proof.md)
   - [Benign Overfitting Does Not Occur in Diffusion Models](../ai/research/arxiv-2607-02671.md)
   - [Bergson: An Open Source Library for Data Attribution](../ai/research/arxiv-2606-11660.md)
   - [Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization](../ai/rag/arxiv-2606-11255.md)
@@ -27165,6 +27170,7 @@ Resources organized by keyword tags.
   - [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](../ai/agents/arxiv-2609-12394.md)
   - [BlueprintAgent: Constraint-Triggered Targeted Revisits for Simulation-Ready Generation from Scanned Structural Blueprints](../ai/rag/arxiv-2609-07362.md)
   - [BnBERT-iPET: Sparse Few-Shot Language Modeling for Bengali via Lottery Ticket Pruning](../ai/research/arxiv-2608-05104.md)
+  - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](../ai/community/bonsai-2-27b-near-lossless-compression-in-a-9x-sma.md)
   - [Boogu-Image-0.1: Boosting Open Agentic Multimodal Generation via Understanding under a Minimal Budget](../ai/agents/arxiv-2607-13125.md)
   - [Boost Your Search With The Crispy Mixedbread Rerank Models](../ai/rag/boost-your-search-with-the-crispy-mixedbread-reran.md)
   - [Boosting Data Augmentation with Stochastic Weight Averaging](../ai/rag/arxiv-2608-14373.md)
@@ -27607,6 +27613,7 @@ Resources organized by keyword tags.
   - [Digital Millennium Copyright Act - Wikisource, the free online library](../ai/rag/digital-millennium-copyright-act-wikisource-the-fr.md)
   - [Dimension Reduction for Curves: Simplified and Generalized](../ai/rag/arxiv-2607-03112.md)
   - [Dimensionality Reduction of QAOA Parameter Space with Kernel PCA for Max-Cut](../ai/research/arxiv-2606-23718.md)
+  - [Diplodocus, Long Thought Exclusively American, Turns Up in Spain](../ai/community/diplodocus-long-thought-exclusively-american-turns.md)
   - [Direct Acceleration of Stochastic Root-Finding Without Variance Reduction and Regularization](../ai/research/arxiv-2608-12043.md)
   - [Direct Fisher Score Estimation for Likelihood Maximization](../ai/research/arxiv-2506-06542.md)
   - [Direct Preference Optimization for Chatbot Fine-Tuning: An Empirical Study](../ai/research/arxiv-2606-12881.md)
@@ -28247,6 +28254,7 @@ Resources organized by keyword tags.
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
+  - [How Uber Protects Against Retry Storms](../ai/community/how-uber-protects-against-retry-storms.md)
   - [How We Handle Ads, Funding, and Data Security - Google - About Google](../ai/resources/how-we-handle-ads-funding-and-data-security-google.md)
   - [How YouTube Works: Giving Everyone a Voice](../ai/resources/how-youtube-works-giving-everyone-a-voice.md)
   - [How building an HTML-first site doubled our users overnight](../ai/rag/how-building-an-html-first-site-doubled-our-users.md)
@@ -28256,6 +28264,7 @@ Resources organized by keyword tags.
   - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md)
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
+  - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
@@ -28461,7 +28470,6 @@ Resources organized by keyword tags.
   - [LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation](../ai/rag/arxiv-2607-17653.md)
   - [LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](../ai/research/arxiv-2609-18148.md)
   - [LLM Agents for Time-Series: A Survey](../ai/agents/arxiv-2608-26226.md)
-  - [LLM Classification Is Feature Engineering](../ai/community/llm-classification-is-feature-engineering.md)
   - [LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering](../ai/rag/arxiv-2509-10818.md)
   - [LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](../ai/research/arxiv-2606-24901.md)
   - [LLM Layers Immediately Correct Each Other](../ai/research/arxiv-2609-07876.md)
@@ -28752,7 +28760,6 @@ Resources organized by keyword tags.
   - [Mintlify · GitHub](../ai/resources/mintlify-github.md)
   - [MioFFAn: an Annotation Software for Formula Formalization with LLM Automation Capabilities](../ai/research/arxiv-2607-22552.md)
   - [Mirror Descent Linearized Augmented Lagrangian Methods for Nonconvex Constrained Stochastic Zeroth-Order Optimization](../ai/research/arxiv-2504-09409.md)
-  - [Missouri governor orders guardrails on Flock cameras and ALPRs](../ai/community/missouri-governor-orders-guardrails-on-flock-camer.md)
   - [Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding](../ai/rag/arxiv-2607-05936.md)
   - [MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models](../ai/rag/arxiv-2607-23047.md)
   - [Mixed Data Clustering Survey and Challenges](../ai/research/arxiv-2512-03070.md)
@@ -29515,13 +29522,13 @@ Resources organized by keyword tags.
   - [Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning](../ai/research/arxiv-2607-04336.md)
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
+  - [Sex, AI, and the Apocalypse](../ai/community/sex-ai-and-the-apocalypse.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [Sharing standardized image-derived data in computational pathology using DICOM](../ai/research/arxiv-2609-14530.md)
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
   - [Show HN: Share your AI Setup, Learn from others](../ai/community/show-hn-share-your-ai-setup-learn-from-others.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -29626,7 +29633,6 @@ Resources organized by keyword tags.
   - [Stack Overflow connector - Microsoft 365 Copilot connectors | Microsoft Learn](../ai/resources/stack-overflow-connector-microsoft-365-copilot-con.md)
   - [Stack Trace-Based Crash Deduplication with Transformer Adaptation](../ai/rag/arxiv-2508-19449.md)
   - [Staircase AI](../ai/rag/staircase-ai.md)
-  - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](../ai/community/stallman-thousands-dead-millions-deprived-of-liber.md)
   - [Stan](../ai/resources/stan.md)
   - [Standard Reference Data | NIST](../ai/resources/standard-reference-data-nist.md)
   - [Stanford Courses in Human and Planetary Health | Human and Planetary Health](../ai/rag/stanford-courses-in-human-and-planetary-health-hum.md)
@@ -29837,7 +29843,6 @@ Resources organized by keyword tags.
   - [The Psychological Costs of Artificial Intelligence Adoption in Software Engineering](../ai/research/arxiv-2609-03456.md)
   - [The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning](../ai/research/arxiv-2608-04285.md)
   - [The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](../ai/rag/arxiv-2607-03953.md)
-  - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md)
   - [The Right Choice! - Cornell Law School](../ai/resources/the-right-choice-cornell-law-school.md)
   - [The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models](../ai/research/arxiv-2604-19139.md)
   - [The Role of Rigor in Artificial Intelligence](../ai/research/arxiv-2607-03634.md)
@@ -31078,8 +31083,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [LLM Classification Is Feature Engineering](../ai/community/llm-classification-is-feature-engineering.md)
-  - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](../ai/community/stallman-thousands-dead-millions-deprived-of-liber.md)
+  - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
 
 ## mdx
 
@@ -63837,4 +63841,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-18T01:34:29.203882+05:30*
+*Index generated on 2026-09-18T04:42:45.100702+05:30*

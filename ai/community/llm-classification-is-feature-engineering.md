@@ -13,13 +13,14 @@ collected_at: '2026-09-18T01:17:42.331675+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llm-classification-is-feature-engineering
 first_seen: '2026-09-18T01:17:42.331675+05:30'
 last_seen: '2026-09-18T01:17:42.331675+05:30'
 last_checked: '2026-09-18T01:17:42.331675+05:30'
 health_score: 100
 ---
+
 
 # LLM Classification Is Feature Engineering
 
