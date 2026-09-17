@@ -13,13 +13,14 @@ collected_at: '2026-09-17T19:07:38.002041+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:harnesstax-how-much-does-the-harness-matter-for-co
 first_seen: '2026-09-17T10:31:09.844957+05:30'
 last_seen: '2026-09-17T19:07:38.002041+05:30'
 last_checked: '2026-09-17T19:07:38.002041+05:30'
 health_score: 100
 ---
+
 
 # HarnessTax: How Much Does the Harness Matter for Coding Agents?
 

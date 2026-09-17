@@ -1,19 +1,33 @@
 ---
-title: "studiomeyer-io/mcp-armor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Ed25519", "Sigstore Rekor", "OpenTelemetry (OTLP)", "Aho-Corasick", "Unicode Normalization (NFKC)", "UTS-39 Confusable Detection", "JSON-RPC", "MCP (Model Context Protocol)"]
+title: studiomeyer-io/mcp-armor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Rust
+- Ed25519
+- Sigstore Rekor
+- OpenTelemetry (OTLP)
+- Aho-Corasick
+- Unicode Normalization (NFKC)
+- UTS-39 Confusable Detection
+- JSON-RPC
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP security", "prompt injection defense", "tool poisoning prevention", "Rust sidecar", "runtime validation"]
-source: "https://github.com/studiomeyer-io/mcp-armor"
+deployment_complexity: Medium
+tags:
+- MCP security
+- prompt injection defense
+- tool poisoning prevention
+- Rust sidecar
+- runtime validation
+source: https://github.com/studiomeyer-io/mcp-armor
 stars: 1
-language: "Rust"
-last_updated: "2026-07-19T10:17:13Z"
-discovered_at: "2026-07-19T10:26:58Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-19T10:17:13Z'
+discovered_at: '2026-07-19T10:26:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

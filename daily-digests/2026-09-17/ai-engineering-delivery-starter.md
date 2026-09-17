@@ -1,19 +1,27 @@
 ---
-title: "Yhazrin/ai-engineering-delivery-starter"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "Project Management", "AI Collaboration Protocols"]
+title: Yhazrin/ai-engineering-delivery-starter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Markdown
+- Project Management
+- AI Collaboration Protocols
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI Product Delivery", "Sprint Planning", "Project Diagnostics", "AI Collaboration", "Engineering Templates"]
-source: "https://github.com/Yhazrin/ai-engineering-delivery-starter"
+deployment_complexity: Low
+tags:
+- AI Product Delivery
+- Sprint Planning
+- Project Diagnostics
+- AI Collaboration
+- Engineering Templates
+source: https://github.com/Yhazrin/ai-engineering-delivery-starter
 stars: 0
-language: "None"
-last_updated: "2026-08-10T09:23:23Z"
-discovered_at: "2026-08-10T09:24:32Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-10T09:23:23Z'
+discovered_at: '2026-08-10T09:24:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

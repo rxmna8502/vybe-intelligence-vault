@@ -1,19 +1,30 @@
 ---
-title: "postapsis/sibyl"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "SearXNG", "Crawl4AI", "NPM"]
+title: postapsis/sibyl
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- SearXNG
+- Crawl4AI
+- NPM
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web search", "content extraction", "local-first", "AI agent integration", "extensible"]
-source: "https://github.com/postapsis/sibyl"
+deployment_complexity: Medium
+tags:
+- web search
+- content extraction
+- local-first
+- AI agent integration
+- extensible
+source: https://github.com/postapsis/sibyl
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T13:09:49Z"
-discovered_at: "2026-08-01T13:16:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T13:09:49Z'
+discovered_at: '2026-08-01T13:16:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

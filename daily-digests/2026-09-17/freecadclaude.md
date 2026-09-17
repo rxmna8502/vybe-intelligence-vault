@@ -1,19 +1,32 @@
 ---
-title: "mrgeoffrich/FreeCADClaude"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FreeCAD", "Claude Code CLI", "Node.js", "Qt", "TypeScript", "Vite", "Web (HTML/CSS/JS)"]
+title: mrgeoffrich/FreeCADClaude
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- FreeCAD
+- Claude Code CLI
+- Node.js
+- Qt
+- TypeScript
+- Vite
+- Web (HTML/CSS/JS)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["FreeCAD", "CAD automation", "natural language interface", "AI-assisted design", "local AI integration"]
-source: "https://github.com/mrgeoffrich/FreeCADClaude"
+deployment_complexity: Medium
+tags:
+- FreeCAD
+- CAD automation
+- natural language interface
+- AI-assisted design
+- local AI integration
+source: https://github.com/mrgeoffrich/FreeCADClaude
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T04:57:49Z"
-discovered_at: "2026-08-08T04:58:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T04:57:49Z'
+discovered_at: '2026-08-08T04:58:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

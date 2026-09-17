@@ -1,19 +1,28 @@
 ---
-title: "pipeworx-io/mcp-xero"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Xero API", "REST"]
+title: pipeworx-io/mcp-xero
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Xero API
+- REST
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Xero integration", "accounting data", "MCP server", "financial APIs", "AI agent tools"]
-source: "https://github.com/pipeworx-io/mcp-xero"
+deployment_complexity: Low
+tags:
+- Xero integration
+- accounting data
+- MCP server
+- financial APIs
+- AI agent tools
+source: https://github.com/pipeworx-io/mcp-xero
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T07:31:48Z"
-discovered_at: "2026-08-04T07:41:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:31:48Z'
+discovered_at: '2026-08-04T07:41:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "RicardoSantos/mcp-fsolar"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "SSE (Server-Sent Events)", "Docker", "Home Assistant Add-on"]
+title: RicardoSantos/mcp-fsolar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- SSE (Server-Sent Events)
+- Docker
+- Home Assistant Add-on
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["battery monitoring", "energy management", "MCP server", "REST API", "Felicity Solar"]
-source: "https://github.com/RicardoSantos/mcp-fsolar"
+deployment_complexity: Medium
+tags:
+- battery monitoring
+- energy management
+- MCP server
+- REST API
+- Felicity Solar
+source: https://github.com/RicardoSantos/mcp-fsolar
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T23:47:12Z"
-discovered_at: "2026-07-12T23:52:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T23:47:12Z'
+discovered_at: '2026-07-12T23:52:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

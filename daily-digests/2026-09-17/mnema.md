@@ -1,19 +1,33 @@
 ---
-title: "mienetic/mnema"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "ChromaDB", "Qdrant", "sqlite-vec", "sentence-transformers", "OpenAI embeddings", "FastAPI", "uv (package manager)"]
+title: mienetic/mnema
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- ChromaDB
+- Qdrant
+- sqlite-vec
+- sentence-transformers
+- OpenAI embeddings
+- FastAPI
+- uv (package manager)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["long-term memory", "MCP server", "vector database", "hybrid search", "memory decay"]
-source: "https://github.com/mienetic/mnema"
+deployment_complexity: Medium
+tags:
+- long-term memory
+- MCP server
+- vector database
+- hybrid search
+- memory decay
+source: https://github.com/mienetic/mnema
 stars: 2
-language: "Python"
-last_updated: "2026-07-14T17:56:03Z"
-discovered_at: "2026-07-14T18:02:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T17:56:03Z'
+discovered_at: '2026-07-14T18:02:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

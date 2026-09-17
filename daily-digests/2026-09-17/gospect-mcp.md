@@ -1,19 +1,29 @@
 ---
-title: "backendArchitect/gospect-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "golang.org/x/tools", "SSA (Static Single Assignment)", "SARIF"]
+title: backendArchitect/gospect-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- golang.org/x/tools
+- SSA (Static Single Assignment)
+- SARIF
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Go", "static analysis", "MCP server", "code quality", "deterministic analysis"]
-source: "https://github.com/backendArchitect/gospect-mcp"
+deployment_complexity: Low
+tags:
+- Go
+- static analysis
+- MCP server
+- code quality
+- deterministic analysis
+source: https://github.com/backendArchitect/gospect-mcp
 stars: 1
-language: "Go"
-last_updated: "2026-08-01T03:39:33Z"
-discovered_at: "2026-08-01T03:44:05Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T03:39:33Z'
+discovered_at: '2026-08-01T03:44:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

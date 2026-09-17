@@ -1,19 +1,31 @@
 ---
-title: "wyre-technology/auvik-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Zod", "Docker", "Model Context Protocol (MCP)", "REST API", "JSON:API"]
+title: wyre-technology/auvik-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Zod
+- Docker
+- Model Context Protocol (MCP)
+- REST API
+- JSON:API
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["MCP server", "network monitoring", "Auvik API", "infrastructure management", "TypeScript"]
-source: "https://github.com/wyre-technology/auvik-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- network monitoring
+- Auvik API
+- infrastructure management
+- TypeScript
+source: https://github.com/wyre-technology/auvik-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T16:59:07Z"
-discovered_at: "2026-08-10T17:06:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T16:59:07Z'
+discovered_at: '2026-08-10T17:06:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

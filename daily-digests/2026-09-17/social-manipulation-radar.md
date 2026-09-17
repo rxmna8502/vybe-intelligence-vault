@@ -1,19 +1,30 @@
 ---
-title: "tubasa821004-hash/social-manipulation-radar"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing (NLP)", "Machine Learning", "Local-First Architecture", "Multilingual Support", "Proprietary Behavioral Heuristics"]
+title: tubasa821004-hash/social-manipulation-radar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Natural Language Processing (NLP)
+- Machine Learning
+- Local-First Architecture
+- Multilingual Support
+- Proprietary Behavioral Heuristics
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["social manipulation detection", "behavioral analysis", "persuasion tactics", "cognitive autonomy", "real-time conversation analysis"]
-source: "https://github.com/tubasa821004-hash/social-manipulation-radar"
+deployment_complexity: Medium
+tags:
+- social manipulation detection
+- behavioral analysis
+- persuasion tactics
+- cognitive autonomy
+- real-time conversation analysis
+source: https://github.com/tubasa821004-hash/social-manipulation-radar
 stars: 1
-language: "HTML"
-last_updated: "2026-09-02T02:02:28Z"
-discovered_at: "2026-09-02T02:11:23Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-02T02:02:28Z'
+discovered_at: '2026-09-02T02:11:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

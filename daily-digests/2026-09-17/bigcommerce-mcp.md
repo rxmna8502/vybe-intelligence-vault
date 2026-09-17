@@ -1,19 +1,31 @@
 ---
-title: "ackm04/bigcommerce-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "GraphQL", "OAuth", "Webhooks"]
+title: ackm04/bigcommerce-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- GraphQL
+- OAuth
+- Webhooks
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["BigCommerce", "MCP server", "AI tool integration", "API documentation", "Developer tools"]
-source: "https://github.com/ackm04/bigcommerce-mcp"
+deployment_complexity: Low
+tags:
+- BigCommerce
+- MCP server
+- AI tool integration
+- API documentation
+- Developer tools
+source: https://github.com/ackm04/bigcommerce-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-07-11T18:57:12Z"
-discovered_at: "2026-07-11T18:59:58Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T18:57:12Z'
+discovered_at: '2026-07-11T18:59:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "BluesPrince/thiri-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "Csound", "TypeScript (implied by npm package)", "Docker (implied by Dockerfile mention)"]
+title: BluesPrince/thiri-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- Csound
+- TypeScript (implied by npm package)
+- Docker (implied by Dockerfile mention)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["music theory", "MCP server", "chord analysis", "AI agent tools", "deterministic computation"]
-source: "https://github.com/BluesPrince/thiri-mcp"
+deployment_complexity: Medium
+tags:
+- music theory
+- MCP server
+- chord analysis
+- AI agent tools
+- deterministic computation
+source: https://github.com/BluesPrince/thiri-mcp
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-01T03:39:07Z"
-discovered_at: "2026-08-01T03:43:46Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T03:39:07Z'
+discovered_at: '2026-08-01T03:43:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

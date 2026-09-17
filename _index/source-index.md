@@ -24756,7 +24756,6 @@ Resources organized by publisher feed and query sources.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
-  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
@@ -24771,6 +24770,7 @@ Resources organized by publisher feed and query sources.
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
+  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
@@ -25664,11 +25664,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Breaking the 1.58-bit Barrier for Ternary LLMs](../ai/community/arxiv-2609-16338.md)
-  - [HarnessTax: How Much Does the Harness Matter for Coding Agents?](../ai/community/harnesstax-how-much-does-the-harness-matter-for-co.md)
-  - [OpenSpec – A lightweight and configurable AI spec framework](../ai/community/openspec-a-lightweight-and-configurable-ai-spec-fr.md)
-  - [Training a 4B model to produce 81% faster query plans than Postgres](../ai/community/training-a-4b-model-to-produce-81-faster-query-pla.md)
-  - [Xiaomi Mimo 2.6 live post-training dashboard](../ai/community/xiaomi-mimo-2-6-live-post-training-dashboard.md)
+  - [LLM Classification Is Feature Engineering](../ai/community/llm-classification-is-feature-engineering.md)
+  - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
+  - [Missouri governor orders guardrails on Flock cameras and ALPRs](../ai/community/missouri-governor-orders-guardrails-on-flock-camer.md)
+  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
+  - [Show HN: Share your AI Setup, Learn from others](../ai/community/show-hn-share-your-ai-setup-learn-from-others.md)
+  - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](../ai/community/stallman-thousands-dead-millions-deprived-of-liber.md)
+  - [TSMC revealing details about next gen A14 node](../ai/community/tsmc-revealing-details-about-next-gen-a14-node.md)
+  - [The American Religion of Self-Storage Facilities](../ai/community/the-american-religion-of-self-storage-facilities.md)
+  - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -29531,4 +29535,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-17T19:24:14.025132+05:30*
+*Index generated on 2026-09-18T01:34:29.409160+05:30*

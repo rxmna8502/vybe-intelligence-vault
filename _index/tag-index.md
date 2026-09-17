@@ -2769,7 +2769,6 @@ Resources organized by keyword tags.
   - [HarnessEvolve: Learning from Reference Trajectories for Reliable Agent Self-Evolution](../ai/agents/arxiv-2609-00829.md)
   - [HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety](../ai/agents/arxiv-2608-17597.md)
   - [HarnessSafe: Evaluating Safety Across Persistent Carriers in Agent Harnesses](../ai/agents/arxiv-2608-06984.md)
-  - [HarnessTax: How Much Does the Harness Matter for Coding Agents?](../ai/community/harnesstax-how-much-does-the-harness-matter-for-co.md)
   - [HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry](../ai/rag/arxiv-2606-14249.md)
   - [Harnessing Code Agents for Automatic Software Verification](../ai/rag/arxiv-2607-06341.md)
   - [Harnessing Disagreement: Detecting Correlated Agreement Blindness in Multi-Agent Triage](../ai/agents/arxiv-2607-19899.md)
@@ -3271,6 +3270,7 @@ Resources organized by keyword tags.
   - [LatentGym: A Testbed For Cross-Task Experiential Learning With Controllable Latent Structure](../ai/agents/arxiv-2606-15306.md)
   - [LatentMD: Benchmarking Markdown Boundary Failures in LLM-Generated Text](../ai/agents/arxiv-2609-06993.md)
   - [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](../ai/rag/arxiv-2606-06087.md)
+  - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](../ai/agents/arxiv-2606-01838.md)
   - [LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory](../ai/rag/arxiv-2607-22690.md)
@@ -5037,6 +5037,7 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
@@ -6638,9 +6639,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [OpenSpec – A lightweight and configurable AI spec framework](../ai/community/openspec-a-lightweight-and-configurable-ai-spec-fr.md)
-  - [Training a 4B model to produce 81% faster query plans than Postgres](../ai/community/training-a-4b-model-to-produce-81-faster-query-pla.md)
-  - [Xiaomi Mimo 2.6 live post-training dashboard](../ai/community/xiaomi-mimo-2-6-live-post-training-dashboard.md)
+  - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
+  - [Missouri governor orders guardrails on Flock cameras and ALPRs](../ai/community/missouri-governor-orders-guardrails-on-flock-camer.md)
+  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
+  - [Show HN: Share your AI Setup, Learn from others](../ai/community/show-hn-share-your-ai-setup-learn-from-others.md)
+  - [TSMC revealing details about next gen A14 node](../ai/community/tsmc-revealing-details-about-next-gen-a14-node.md)
+  - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md)
 
 ## animation
 
@@ -7011,7 +7015,6 @@ Resources organized by keyword tags.
   - [JetBrains AI - The JetBrains Blog](../ai/rag/jetbrains-ai-the-jetbrains-blog.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
-  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just A Rather Very Intelligent Spoken Agent](../ai/agents/arxiv-2607-16610.md)
@@ -7206,6 +7209,7 @@ Resources organized by keyword tags.
   - [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](../ai/agents/arxiv-2609-11180.md)
   - [SentenceTransformers Documentation — Sentence Transformers documentation](../ai/rag/sentencetransformers-documentation-sentence-transf.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
+  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [SimGuide: Typed Multi-Context User Representations for Preference-Conditioned Agent Planning](../ai/agents/arxiv-2608-24888.md)
   - [Simon Willison: Prompt injection](../ai/rag/simon-willison-prompt-injection.md)
@@ -7387,10 +7391,10 @@ Resources organized by keyword tags.
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
-  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
+  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
 
 ## astro
 
@@ -14626,7 +14630,6 @@ Resources organized by keyword tags.
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -18578,7 +18581,6 @@ Resources organized by keyword tags.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
-  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
@@ -18593,6 +18595,7 @@ Resources organized by keyword tags.
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
+  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
@@ -22825,7 +22828,6 @@ Resources organized by keyword tags.
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
   - [ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](../ai/research/arxiv-2510-10774.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
@@ -27179,7 +27181,6 @@ Resources organized by keyword tags.
   - [Breaking Structural Isolation: Scalable Graph Clustering via Community-Aware Sampling and Structural Entropy](../ai/rag/arxiv-2607-05469.md)
   - [Breaking and Defending LLM-Powered Social Media Bot Detection Systems](../ai/rag/arxiv-2608-15893.md)
   - [Breaking the $T^{3/4}$ Barrier for Regret Minimization With Bi-Dimensional CDFs](../ai/research/arxiv-2607-20258.md)
-  - [Breaking the 1.58-bit Barrier for Ternary LLMs](../ai/community/arxiv-2609-16338.md)
   - [Breakthrough AI research â Google AI](../ai/agents/breakthrough-ai-research-a-google-ai.md)
   - [Bridging the Gap Between Hyperdimensional Computing and Kernel Methods via the Nystr\"om Method](../ai/rag/arxiv-2608-06860.md)
   - [Brownian Kernel Ladders](../ai/research/arxiv-2606-15812.md)
@@ -28173,7 +28174,6 @@ Resources organized by keyword tags.
   - [Handle - AT Protocol](../ai/resources/handle-at-protocol.md)
   - [Handling Feature Heterogeneity with Learnable Graph Patches](../ai/rag/arxiv-2606-17667.md)
   - [Hardware Design and Security in the Era of Chiplets and LLMs](../ai/rag/arxiv-2608-05063.md)
-  - [HarnessTax: How Much Does the Harness Matter for Coding Agents?](../ai/community/harnesstax-how-much-does-the-harness-matter-for-co.md)
   - [Harrison.Rad 1.5 Technical Report: A radiology foundation model that can draft reports from images, priors and clinical context](../ai/research/arxiv-2607-05880.md)
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
@@ -28461,6 +28461,7 @@ Resources organized by keyword tags.
   - [LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation](../ai/rag/arxiv-2607-17653.md)
   - [LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](../ai/research/arxiv-2609-18148.md)
   - [LLM Agents for Time-Series: A Survey](../ai/agents/arxiv-2608-26226.md)
+  - [LLM Classification Is Feature Engineering](../ai/community/llm-classification-is-feature-engineering.md)
   - [LLM Enhancement with Domain Expert Mental Model to Reduce LLM Hallucination with Causal Prompt Engineering](../ai/rag/arxiv-2509-10818.md)
   - [LLM Evolution as an Industry-Scale Ecosystem: A Lifecycle Perspective on Continual Learning](../ai/research/arxiv-2606-24901.md)
   - [LLM Layers Immediately Correct Each Other](../ai/research/arxiv-2609-07876.md)
@@ -28502,6 +28503,7 @@ Resources organized by keyword tags.
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
+  - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -28750,6 +28752,7 @@ Resources organized by keyword tags.
   - [Mintlify · GitHub](../ai/resources/mintlify-github.md)
   - [MioFFAn: an Annotation Software for Formula Formalization with LLM Automation Capabilities](../ai/research/arxiv-2607-22552.md)
   - [Mirror Descent Linearized Augmented Lagrangian Methods for Nonconvex Constrained Stochastic Zeroth-Order Optimization](../ai/research/arxiv-2504-09409.md)
+  - [Missouri governor orders guardrails on Flock cameras and ALPRs](../ai/community/missouri-governor-orders-guardrails-on-flock-camer.md)
   - [Mitigating Errors in LLM-Generated Web API Invocations via Retrieval-Augmented Generation and Constrained Decoding](../ai/rag/arxiv-2607-05936.md)
   - [MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models](../ai/rag/arxiv-2607-23047.md)
   - [Mixed Data Clustering Survey and Challenges](../ai/research/arxiv-2512-03070.md)
@@ -28956,7 +28959,6 @@ Resources organized by keyword tags.
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
   - [OpenJS Foundation · GitHub](../ai/resources/openjs-foundation-github.md)
   - [OpenSearchCon North America | LF Events](../ai/rag/opensearchcon-north-america-lf-events.md)
-  - [OpenSpec – A lightweight and configurable AI spec framework](../ai/community/openspec-a-lightweight-and-configurable-ai-spec-fr.md)
   - [OpenStamp: A Watermark for Open-Source Language Models](../ai/research/arxiv-2608-27899.md)
   - [Operationalising AI Regulatory Sandboxes: Activities, Requirements, and Technical Assessment under the EU AI Act](../ai/rag/arxiv-2509-25256.md)
   - [Operator Calculus for Population-Based Optimization: A Mean-Field Convergence Theory](../ai/rag/arxiv-2606-14289.md)
@@ -29519,6 +29521,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Craigslist for agent skills, curated by a human](../ai/community/show-hn-craigslist-for-agent-skills-curated-by-a-h.md)
+  - [Show HN: Share your AI Setup, Learn from others](../ai/community/show-hn-share-your-ai-setup-learn-from-others.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -29622,6 +29626,7 @@ Resources organized by keyword tags.
   - [Stack Overflow connector - Microsoft 365 Copilot connectors | Microsoft Learn](../ai/resources/stack-overflow-connector-microsoft-365-copilot-con.md)
   - [Stack Trace-Based Crash Deduplication with Transformer Adaptation](../ai/rag/arxiv-2508-19449.md)
   - [Staircase AI](../ai/rag/staircase-ai.md)
+  - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](../ai/community/stallman-thousands-dead-millions-deprived-of-liber.md)
   - [Stan](../ai/resources/stan.md)
   - [Standard Reference Data | NIST](../ai/resources/standard-reference-data-nist.md)
   - [Stanford Courses in Human and Planetary Health | Human and Planetary Health](../ai/rag/stanford-courses-in-human-and-planetary-health-hum.md)
@@ -29701,6 +29706,7 @@ Resources organized by keyword tags.
   - [TRACE: Spatiotemporal Contact Memory Graph Network Simulator for Granular Dynamics](../ai/research/arxiv-2609-02991.md)
   - [TREC AutoJudge ← TREC AutoJudge](../ai/rag/trec-autojudge-trec-autojudge.md)
   - [TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization](../ai/agents/arxiv-2607-18161.md)
+  - [TSMC revealing details about next gen A14 node](../ai/community/tsmc-revealing-details-about-next-gen-a14-node.md)
   - [TSP with Predictions: Heatmap to Tour with Provable Guarantees](../ai/research/arxiv-2607-03791.md)
   - [TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../ai/research/arxiv-2606-13054.md)
   - [TXYZ - Integrate all paths to knowledge](../ai/rag/txyz-integrate-all-paths-to-knowledge.md)
@@ -29771,6 +29777,7 @@ Resources organized by keyword tags.
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems](../ai/agents/arxiv-2608-03214.md)
+  - [The American Religion of Self-Storage Facilities](../ai/community/the-american-religion-of-self-storage-facilities.md)
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era](../ai/agents/arxiv-2607-17940.md)
   - [The Authority Resolution Framework: A Five-Domain Ontology for Governing Who and What Decides, at Scale](../ai/agents/arxiv-2608-15832.md)
@@ -29830,6 +29837,7 @@ Resources organized by keyword tags.
   - [The Psychological Costs of Artificial Intelligence Adoption in Software Engineering](../ai/research/arxiv-2609-03456.md)
   - [The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning](../ai/research/arxiv-2608-04285.md)
   - [The Remarkable Effectiveness of Providing AI Agents with Natural Language Tools: A Replication Study Validating NLT Performance Across 14 Models](../ai/rag/arxiv-2607-03953.md)
+  - [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md)
   - [The Right Choice! - Cornell Law School](../ai/resources/the-right-choice-cornell-law-school.md)
   - [The Rise of Verbal Tics in Large Language Models: A Systematic Analysis Across Frontier Models](../ai/research/arxiv-2604-19139.md)
   - [The Role of Rigor in Artificial Intelligence](../ai/research/arxiv-2607-03634.md)
@@ -29924,7 +29932,6 @@ Resources organized by keyword tags.
   - [Training Fair Tabular Foundation Models](../ai/rag/arxiv-2608-14211.md)
   - [Training Hybrid Block Diffusion Language Models with Partial Bidirectionality](../ai/research/arxiv-2607-02805.md)
   - [Training Overview — Sentence Transformers documentation](../ai/rag/training-overview-sentence-transformers-documentat.md)
-  - [Training a 4B model to produce 81% faster query plans than Postgres](../ai/community/training-a-4b-model-to-produce-81-faster-query-pla.md)
   - [Training and Agentic Inference Strategies for LLM-based Manim Animation Generation](../ai/agents/arxiv-2604-18364.md)
   - [Training-Free Policy Violation Detection via Activation-Space Whitening in LLMs](../ai/rag/arxiv-2512-03994.md)
   - [Training-Free, Identity-Preserving Image Editing for Fashion Pose Alignment and Normalization](../ai/research/arxiv-2501-13692.md)
@@ -30194,7 +30201,6 @@ Resources organized by keyword tags.
   - [XMix: Combating Extremely Noisy Labels via Local Smoothness in Self-Supervised Feature Space](../ai/rag/arxiv-2607-23865.md)
   - [XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models](../ai/research/arxiv-2606-14003.md)
   - [XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions?](../ai/rag/arxiv-2609-06842.md)
-  - [Xiaomi Mimo 2.6 live post-training dashboard](../ai/community/xiaomi-mimo-2-6-live-post-training-dashboard.md)
   - [Xiaomi-TabLDM: A Tabular Foundation Model Technical Report](../ai/rag/arxiv-2609-03880.md)
   - [YAML Ain’t Markup Language (YAML™) revision 1.2.2](../ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md)
   - [YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition](../ai/rag/arxiv-2608-17033.md)
@@ -30295,7 +30301,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -31073,7 +31078,8 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Breaking the 1.58-bit Barrier for Ternary LLMs](../ai/community/arxiv-2609-16338.md)
+  - [LLM Classification Is Feature Engineering](../ai/community/llm-classification-is-feature-engineering.md)
+  - [Stallman: Thousands Dead, Millions Deprived of Liberties (2001)](../ai/community/stallman-thousands-dead-millions-deprived-of-liber.md)
 
 ## mdx
 
@@ -34702,7 +34708,6 @@ Resources organized by keyword tags.
   - [Judge a Book by its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription](../ai/rag/arxiv-2502-20295.md)
   - [JudgePanel: A Compact Judge with Panel Deliberation via Adaptive Multi-Reward Reinforcement Learning](../ai/agents/arxiv-2608-29168.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
-  - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [JupOtter: Cell-Level Bug Detection in Jupyter Notebooks](../ai/research/arxiv-2606-23877.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs](../ai/research/arxiv-2607-14099.md)
@@ -43608,6 +43613,7 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
+  - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -51785,6 +51791,7 @@ Resources organized by keyword tags.
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The ASE-LSE Disagreement Landscape: An End-to-End Characterisation of Extremes and Structural Drivers](../ai/rag/arxiv-2605-22346.md)
+  - [The American Religion of Self-Storage Facilities](../ai/community/the-american-religion-of-self-storage-facilities.md)
   - [The American West's water crisis has a governance problem | Stanford Woods Institute for the Environment](../ai/rag/the-american-west-s-water-crisis-has-a-governance.md)
   - [The Anatomy of Implicit Bias: Information Allocation in Neural Network Training](../ai/research/arxiv-2607-07156.md)
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
@@ -63830,4 +63837,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-17T19:24:13.664663+05:30*
+*Index generated on 2026-09-18T01:34:29.203882+05:30*

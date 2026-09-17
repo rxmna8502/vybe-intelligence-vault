@@ -1,19 +1,36 @@
 ---
-title: "Playa-0v0/Cyrene-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "Rust", "Live2D Cubism", "Pixi.js", "Node.js", "LLM APIs (various providers)", "TTS/ASR engines", "Obsidian", "MCP", "WebSocket", "RAG frameworks"]
+title: Playa-0v0/Cyrene-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Electron
+- TypeScript
+- Rust
+- Live2D Cubism
+- Pixi.js
+- Node.js
+- LLM APIs (various providers)
+- TTS/ASR engines
+- Obsidian
+- MCP
+- WebSocket
+- RAG frameworks
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["desktop-agent", "live2d-character", "ai-memory-engine", "tool-calling", "multi-platform"]
-source: "https://github.com/Playa-0v0/Cyrene-Agent"
+deployment_complexity: High
+tags:
+- desktop-agent
+- live2d-character
+- ai-memory-engine
+- tool-calling
+- multi-platform
+source: https://github.com/Playa-0v0/Cyrene-Agent
 stars: 522
-language: "TypeScript"
-last_updated: "2026-09-03T15:28:18Z"
-discovered_at: "2026-09-03T15:38:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:28:18Z'
+discovered_at: '2026-09-03T15:38:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

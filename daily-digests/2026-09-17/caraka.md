@@ -1,19 +1,32 @@
 ---
-title: "CarakaDev/caraka"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "Agent Client Protocol (ACP)", "Telegram Bot API", "SQLite", "Jest (testing)", "ESLint (linting)", "TypeScript (type checking)"]
+title: CarakaDev/caraka
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Node.js
+- TypeScript
+- Agent Client Protocol (ACP)
+- Telegram Bot API
+- SQLite
+- Jest (testing)
+- ESLint (linting)
+- TypeScript (type checking)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Telegram integration", "coding agents", "task delegation", "approval workflows", "audit trail"]
-source: "https://github.com/CarakaDev/caraka"
+deployment_complexity: Medium
+tags:
+- Telegram integration
+- coding agents
+- task delegation
+- approval workflows
+- audit trail
+source: https://github.com/CarakaDev/caraka
 stars: 3
-language: "HTML"
-last_updated: "2026-08-07T18:46:43Z"
-discovered_at: "2026-08-07T18:57:45Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T18:46:43Z'
+discovered_at: '2026-08-07T18:57:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "pinecone-io/go-pinecone"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "gRPC", "REST", "HTTP", "Pinecone API"]
+title: pinecone-io/go-pinecone
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- gRPC
+- REST
+- HTTP
+- Pinecone API
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["Vector Database", "Go SDK", "Pinecone", "Embeddings", "API Client"]
-source: "https://github.com/pinecone-io/go-pinecone"
+deployment_complexity: Low
+tags:
+- Vector Database
+- Go SDK
+- Pinecone
+- Embeddings
+- API Client
+source: https://github.com/pinecone-io/go-pinecone
 stars: 69
-language: "Go"
-last_updated: "2026-08-07T18:24:45Z"
-discovered_at: "2026-08-07T18:58:35Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T18:24:45Z'
+discovered_at: '2026-08-07T18:58:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

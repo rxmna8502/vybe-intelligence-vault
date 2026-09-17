@@ -1,19 +1,29 @@
 ---
-title: "tya5/textual-flowview"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Python", "Textual", "Rich", "Markdown", "Syntax Highlighting"]
+title: tya5/textual-flowview
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Python
+- Textual
+- Rich
+- Markdown
+- Syntax Highlighting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["virtualized UI", "terminal TUI", "AI agent UI", "streaming feeds", "Textual framework"]
-source: "https://github.com/tya5/textual-flowview"
+deployment_complexity: Medium
+tags:
+- virtualized UI
+- terminal TUI
+- AI agent UI
+- streaming feeds
+- Textual framework
+source: https://github.com/tya5/textual-flowview
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T23:59:41Z"
-discovered_at: "2026-08-07T00:01:47Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T23:59:41Z'
+discovered_at: '2026-08-07T00:01:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

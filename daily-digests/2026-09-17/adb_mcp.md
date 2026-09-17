@@ -1,19 +1,29 @@
 ---
-title: "iksnerd/adb_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "ADB", "MCP (Model Context Protocol)", "Android SDK", "UI Automation"]
+title: iksnerd/adb_mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- ADB
+- MCP (Model Context Protocol)
+- Android SDK
+- UI Automation
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Android automation", "ADB integration", "MCP server", "UI interaction", "device control"]
-source: "https://github.com/iksnerd/adb_mcp"
+deployment_complexity: Medium
+tags:
+- Android automation
+- ADB integration
+- MCP server
+- UI interaction
+- device control
+source: https://github.com/iksnerd/adb_mcp
 stars: 0
-language: "Go"
-last_updated: "2026-07-16T14:57:52Z"
-discovered_at: "2026-07-16T15:00:35Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-16T14:57:52Z'
+discovered_at: '2026-07-16T15:00:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

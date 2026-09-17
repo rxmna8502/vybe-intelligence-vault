@@ -1,19 +1,30 @@
 ---
-title: "ishan-parihar/reddit-lyr"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "Async HTTPX", "Model Context Protocol (MCP)", "Pydantic", "OAuth2", "Reddit API"]
+title: ishan-parihar/reddit-lyr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python 3.11+
+- Async HTTPX
+- Model Context Protocol (MCP)
+- Pydantic
+- OAuth2
+- Reddit API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Reddit API", "MCP Server", "AI Agents", "Async Client", "Social Media Automation"]
-source: "https://github.com/ishan-parihar/reddit-lyr"
+deployment_complexity: Medium
+tags:
+- Reddit API
+- MCP Server
+- AI Agents
+- Async Client
+- Social Media Automation
+source: https://github.com/ishan-parihar/reddit-lyr
 stars: 1
-language: "Python"
-last_updated: "2026-08-10T17:53:59Z"
-discovered_at: "2026-08-10T18:01:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T17:53:59Z'
+discovered_at: '2026-08-10T18:01:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

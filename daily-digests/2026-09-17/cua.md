@@ -1,19 +1,35 @@
 ---
-title: "trycua/cua"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "TypeScript", "QEMU", "Virtualization.Framework", "CLI", "MCP Server", "Docker", "RL Environments", "X11", "Wayland"]
+title: trycua/cua
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Rust
+- TypeScript
+- QEMU
+- Virtualization.Framework
+- CLI
+- MCP Server
+- Docker
+- RL Environments
+- X11
+- Wayland
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["computer-use automation", "agent sandboxes", "cross-platform", "benchmarking", "virtualization"]
-source: "https://github.com/trycua/cua"
+deployment_complexity: Medium
+tags:
+- computer-use automation
+- agent sandboxes
+- cross-platform
+- benchmarking
+- virtualization
+source: https://github.com/trycua/cua
 stars: 22125
-language: "HTML"
-last_updated: "2026-09-03T02:14:02Z"
-discovered_at: "2026-09-03T02:15:51Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T02:14:02Z'
+discovered_at: '2026-09-03T02:15:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

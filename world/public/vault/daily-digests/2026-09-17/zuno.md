@@ -1,19 +1,31 @@
 ---
-title: "sunerpy/zuno"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "WASI", "ACP (Agent Communication Protocol)", "HTTP", "Bubblewrap (Linux sandboxing)", "ripgrep (rg)"]
+title: sunerpy/zuno
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Rust
+- SQLite
+- WASI
+- ACP (Agent Communication Protocol)
+- HTTP
+- Bubblewrap (Linux sandboxing)
+- ripgrep (rg)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "Rust", "durable sessions", "sandboxing", "multi-provider"]
-source: "https://github.com/sunerpy/zuno"
+deployment_complexity: Medium
+tags:
+- coding agent
+- Rust
+- durable sessions
+- sandboxing
+- multi-provider
+source: https://github.com/sunerpy/zuno
 stars: 2
-language: "Rust"
-last_updated: "2026-09-02T01:59:43Z"
-discovered_at: "2026-09-02T02:12:21Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T01:59:43Z'
+discovered_at: '2026-09-02T02:12:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "apet97/go-clockify"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Clockify API", "JSON-RPC", "CLI"]
+title: apet97/go-clockify
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Clockify API
+- JSON-RPC
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "time tracking", "Clockify integration", "AI tooling", "workflow automation"]
-source: "https://github.com/apet97/go-clockify"
+deployment_complexity: Low
+tags:
+- MCP server
+- time tracking
+- Clockify integration
+- AI tooling
+- workflow automation
+source: https://github.com/apet97/go-clockify
 stars: 0
-language: "Go"
-last_updated: "2026-07-11T23:43:30Z"
-discovered_at: "2026-07-11T23:54:00Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-11T23:43:30Z'
+discovered_at: '2026-07-11T23:54:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

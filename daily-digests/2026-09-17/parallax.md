@@ -1,19 +1,32 @@
 ---
-title: "SingularityCoLabs/parallax"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Zod", "Vitest", "ESLint", "Prettier", "pnpm"]
+title: SingularityCoLabs/parallax
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Zod
+- Vitest
+- ESLint
+- Prettier
+- pnpm
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["agent runtime", "CLI tool", "deterministic execution", "file editing", "shell execution"]
-source: "https://github.com/SingularityCoLabs/parallax"
+deployment_complexity: Low
+tags:
+- agent runtime
+- CLI tool
+- deterministic execution
+- file editing
+- shell execution
+source: https://github.com/SingularityCoLabs/parallax
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T16:51:42Z"
-discovered_at: "2026-08-10T17:05:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T16:51:42Z'
+discovered_at: '2026-08-10T17:05:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "meticulosity/askelephant-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare KV", "Cloudflare Access", "OAuth", "REST API", "MCP (Model Context Protocol)"]
+title: meticulosity/askelephant-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare KV
+- Cloudflare Access
+- OAuth
+- REST API
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "transcript search", "Cloudflare Worker", "AskElephant integration", "token optimization"]
-source: "https://github.com/meticulosity/askelephant-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- transcript search
+- Cloudflare Worker
+- AskElephant integration
+- token optimization
+source: https://github.com/meticulosity/askelephant-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-03T22:02:53Z"
-discovered_at: "2026-08-03T22:10:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T22:02:53Z'
+discovered_at: '2026-08-03T22:10:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

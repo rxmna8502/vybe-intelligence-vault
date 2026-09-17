@@ -1,19 +1,39 @@
 ---
-title: "unohee/OpenSwarm"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "LanceDB", "SQLite", "Linear API", "Discord API", "Slack API", "Telegram API", "Claude Code", "Ollama", "LM Studio", "OpenRouter", "OpenAI API", "YAML", "TUI (Terminal UI)"]
+title: unohee/OpenSwarm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- LanceDB
+- SQLite
+- Linear API
+- Discord API
+- Slack API
+- Telegram API
+- Claude Code
+- Ollama
+- LM Studio
+- OpenRouter
+- OpenAI API
+- YAML
+- TUI (Terminal UI)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agent orchestrator", "autonomous code workers", "multi-model support", "issue tracking", "automated code review"]
-source: "https://github.com/unohee/OpenSwarm"
+deployment_complexity: Medium
+tags:
+- AI agent orchestrator
+- autonomous code workers
+- multi-model support
+- issue tracking
+- automated code review
+source: https://github.com/unohee/OpenSwarm
 stars: 835
-language: "TypeScript"
-last_updated: "2026-08-07T17:46:27Z"
-discovered_at: "2026-08-07T17:53:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T17:46:27Z'
+discovered_at: '2026-08-07T17:53:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

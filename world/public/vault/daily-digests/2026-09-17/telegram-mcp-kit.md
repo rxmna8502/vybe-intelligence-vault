@@ -1,19 +1,31 @@
 ---
-title: "tonydzi/telegram-mcp-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Telegram MTProto API", "MCP (Model Context Protocol)", "HTTP/SSE", "PowerShell", "Docker (implied for deployment)", "Git"]
+title: tonydzi/telegram-mcp-kit
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Python
+- Telegram MTProto API
+- MCP (Model Context Protocol)
+- HTTP/SSE
+- PowerShell
+- Docker (implied for deployment)
+- Git
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Telegram integration", "MCP client", "multi-account support", "production-ready", "AI agent tooling"]
-source: "https://github.com/tonydzi/telegram-mcp-kit"
+deployment_complexity: Medium
+tags:
+- Telegram integration
+- MCP client
+- multi-account support
+- production-ready
+- AI agent tooling
+source: https://github.com/tonydzi/telegram-mcp-kit
 stars: 0
-language: "PowerShell"
-last_updated: "2026-08-10T16:02:39Z"
-discovered_at: "2026-08-10T16:07:39Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-08-10T16:02:39Z'
+discovered_at: '2026-08-10T16:07:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

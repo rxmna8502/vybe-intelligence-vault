@@ -1,19 +1,29 @@
 ---
-title: "coasty-ai/coasty-education-catalog-audit"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Coasty API", "JavaScript", "Puppeteer (implied for browser automation)", "FFmpeg (for video rendering)"]
+title: coasty-ai/coasty-education-catalog-audit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Node.js
+- Coasty API
+- JavaScript
+- Puppeteer (implied for browser automation)
+- FFmpeg (for video rendering)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["computer-use automation", "browser automation", "course catalog", "AI agent", "offline mock"]
-source: "https://github.com/coasty-ai/coasty-education-catalog-audit"
+deployment_complexity: Medium
+tags:
+- computer-use automation
+- browser automation
+- course catalog
+- AI agent
+- offline mock
+source: https://github.com/coasty-ai/coasty-education-catalog-audit
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:22:29Z"
-discovered_at: "2026-08-02T19:25:13Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:22:29Z'
+discovered_at: '2026-08-02T19:25:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

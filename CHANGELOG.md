@@ -4,9 +4,9 @@ All notable additions and changes to **Vybe Intelligence Vault** are documented 
 Updated weekly. Format: `[Week] — [Date Range]`
 
 <!-- LATEST:START -->
-* Last updated: 2026-09-17 19:27 IST
-* Resources tracked: 29488
-* Archive files: 116946
+* Last updated: 2026-09-18 01:36 IST
+* Resources tracked: 29486
+* Archive files: 116942
 * Archive categories: 27
 * Changed sections: Refreshed all active archive directories and living skill guides
 * Safety scan: Passed
@@ -49,6 +49,7 @@ Updated weekly. Format: `[Week] — [Date Range]`
 
 ### Daily Summaries
 <!-- DAILY:START -->
+* **2026-09-18**: Added 1015 resources. Rebuilt archive and search index.
 * **2026-09-17**: Added 2478 resources. Rebuilt archive and search index.
 * **2026-09-16**: Added 2017 resources. Rebuilt archive and search index.
 * **2026-09-15**: Added 2871 resources. Rebuilt archive and search index.
@@ -78,7 +79,6 @@ Updated weekly. Format: `[Week] — [Date Range]`
 * **2026-08-22**: Added 5917 resources. Rebuilt archive and search index.
 * **2026-08-21**: Added 6236 resources. Rebuilt archive and search index.
 * **2026-08-20**: Added 8222 resources. Rebuilt archive and search index.
-* **2026-08-19**: Added 8234 resources. Rebuilt archive and search index.
 <!-- DAILY:END -->
 
 ### Weekly Intelligence Reports

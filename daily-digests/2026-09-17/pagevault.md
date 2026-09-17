@@ -1,19 +1,32 @@
 ---
-title: "danjamk/pagevault"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare KV Storage", "Cloudflare Access", "Cloudflare Zero Trust", "Node.js", "MCP (Model Context Protocol)", "OAuth 2.1"]
+title: danjamk/pagevault
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare KV Storage
+- Cloudflare Access
+- Cloudflare Zero Trust
+- Node.js
+- MCP (Model Context Protocol)
+- OAuth 2.1
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["document sharing", "access control", "self-hosted", "AI artifact publishing", "Cloudflare Workers"]
-source: "https://github.com/danjamk/pagevault"
+deployment_complexity: Medium
+tags:
+- document sharing
+- access control
+- self-hosted
+- AI artifact publishing
+- Cloudflare Workers
+source: https://github.com/danjamk/pagevault
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-04T22:59:34Z"
-discovered_at: "2026-08-04T23:04:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T22:59:34Z'
+discovered_at: '2026-08-04T23:04:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

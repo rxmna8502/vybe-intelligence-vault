@@ -1,19 +1,37 @@
 ---
-title: "maks-mk/desktop-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LangChain", "PySide6", "LangChain MCP Adapters", "SQLite", "SQLite-Vec", "Tavily", "Anthropic", "OpenAI", "Gemini", "MCP", "PyInstaller"]
+title: maks-mk/desktop-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- PySide6
+- LangChain MCP Adapters
+- SQLite
+- SQLite-Vec
+- Tavily
+- Anthropic
+- OpenAI
+- Gemini
+- MCP
+- PyInstaller
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agent", "portable AI", "LangGraph", "MCP integration", "GUI"]
-source: "https://github.com/maks-mk/desktop-ai-agent"
+deployment_complexity: Medium
+tags:
+- autonomous agent
+- portable AI
+- LangGraph
+- MCP integration
+- GUI
+source: https://github.com/maks-mk/desktop-ai-agent
 stars: 3
-language: "Python"
-last_updated: "2026-08-09T15:30:56Z"
-discovered_at: "2026-08-09T15:35:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T15:30:56Z'
+discovered_at: '2026-08-09T15:35:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

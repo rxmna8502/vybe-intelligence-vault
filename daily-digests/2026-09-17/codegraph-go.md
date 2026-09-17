@@ -1,19 +1,30 @@
 ---
-title: "seanb4t/codegraph-go"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Tree-sitter (CGo)", "MCP (Model Context Protocol)", "SLSA (Supply-chain Levels for Software Artifacts)", "Cosign (Sigstore)", "Git Hooks"]
+title: seanb4t/codegraph-go
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- Tree-sitter (CGo)
+- MCP (Model Context Protocol)
+- SLSA (Supply-chain Levels for Software Artifacts)
+- Cosign (Sigstore)
+- Git Hooks
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["code navigation", "knowledge graph", "static binary", "supply chain security", "agent integration"]
-source: "https://github.com/seanb4t/codegraph-go"
+deployment_complexity: Medium
+tags:
+- code navigation
+- knowledge graph
+- static binary
+- supply chain security
+- agent integration
+source: https://github.com/seanb4t/codegraph-go
 stars: 0
-language: "Go"
-last_updated: "2026-08-07T17:48:39Z"
-discovered_at: "2026-08-07T17:52:09Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T17:48:39Z'
+discovered_at: '2026-08-07T17:52:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

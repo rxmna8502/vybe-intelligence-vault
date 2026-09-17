@@ -13,13 +13,14 @@ collected_at: '2026-09-17T19:07:36.502593+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:xiaomi-mimo-2-6-live-post-training-dashboard
 first_seen: '2026-09-17T10:31:08.488186+05:30'
 last_seen: '2026-09-17T19:07:36.502593+05:30'
 last_checked: '2026-09-17T19:07:36.502593+05:30'
 health_score: 100
 ---
+
 
 # Xiaomi Mimo 2.6 live post-training dashboard
 

@@ -1,19 +1,37 @@
 ---
-title: "blockdancez/PreviewShip"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["React", "Vue", "Vite", "Next.js", "Svelte", "Astro", "Angular", "TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "VS Code Extension", "API Integration"]
+title: blockdancez/PreviewShip
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- React
+- Vue
+- Vite
+- Next.js
+- Svelte
+- Astro
+- Angular
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- VS Code Extension
+- API Integration
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["static hosting", "preview deployment", "AI artifact sharing", "frontend publishing", "developer tooling"]
-source: "https://github.com/blockdancez/PreviewShip"
+deployment_complexity: Low
+tags:
+- static hosting
+- preview deployment
+- AI artifact sharing
+- frontend publishing
+- developer tooling
+source: https://github.com/blockdancez/PreviewShip
 stars: 2
-language: "Python"
-last_updated: "2026-07-10T10:45:33Z"
-discovered_at: "2026-07-10T10:51:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T10:45:33Z'
+discovered_at: '2026-07-10T10:51:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

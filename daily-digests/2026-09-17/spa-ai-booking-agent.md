@@ -1,19 +1,33 @@
 ---
-title: "kamrankhanorakzai/Spa-AI-Booking-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["React 19", "TanStack Start", "Tailwind CSS v4", "TypeScript", "N8N", "OpenAI", "Claude", "PostgreSQL", "Vector DB"]
+title: kamrankhanorakzai/Spa-AI-Booking-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- React 19
+- TanStack Start
+- Tailwind CSS v4
+- TypeScript
+- N8N
+- OpenAI
+- Claude
+- PostgreSQL
+- Vector DB
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Booking Agent", "N8N Automation", "Luxury Spa Platform", "Real-time Concierge", "Full-Stack TypeScript"]
-source: "https://github.com/kamrankhanorakzai/Spa-AI-Booking-Agent"
+deployment_complexity: Medium
+tags:
+- AI Booking Agent
+- N8N Automation
+- Luxury Spa Platform
+- Real-time Concierge
+- Full-Stack TypeScript
+source: https://github.com/kamrankhanorakzai/Spa-AI-Booking-Agent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T18:54:33Z"
-discovered_at: "2026-08-10T19:01:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T18:54:33Z'
+discovered_at: '2026-08-10T19:01:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

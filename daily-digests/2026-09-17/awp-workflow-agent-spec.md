@@ -1,19 +1,30 @@
 ---
-title: "xiangyugongzuoliu/awp-workflow-agent-spec"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "JSON Schema", "GitHub Actions", "Markdown", "CLI Scripts", "Workflow Automation"]
+title: xiangyugongzuoliu/awp-workflow-agent-spec
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- JSON Schema
+- GitHub Actions
+- Markdown
+- CLI Scripts
+- Workflow Automation
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Agent Workflow", "Skill Specification", "Automation Framework", "Deterministic Pipelines", "Cross-Platform"]
-source: "https://github.com/xiangyugongzuoliu/awp-workflow-agent-spec"
+deployment_complexity: Low
+tags:
+- Agent Workflow
+- Skill Specification
+- Automation Framework
+- Deterministic Pipelines
+- Cross-Platform
+source: https://github.com/xiangyugongzuoliu/awp-workflow-agent-spec
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T10:18:47Z"
-discovered_at: "2026-07-12T10:26:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T10:18:47Z'
+discovered_at: '2026-07-12T10:26:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

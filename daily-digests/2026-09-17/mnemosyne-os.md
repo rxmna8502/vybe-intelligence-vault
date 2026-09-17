@@ -1,19 +1,34 @@
 ---
-title: "gymaira1990-jpg/Mnemosyne-OS"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "PostgreSQL 16", "pgvector (1024d HNSW)", "Apache AGE (graph database)", "FastAPI", "Hermes MCP (15 tools)", "Hermes Memory Provider (10 hooks)", "SQLite (edge cache)", "LLM embeddings (e.g., Doubao Embedding-Vision)", "OpenAI-compatible LLM backends"]
+title: gymaira1990-jpg/Mnemosyne-OS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python 3.12+
+- PostgreSQL 16
+- pgvector (1024d HNSW)
+- Apache AGE (graph database)
+- FastAPI
+- Hermes MCP (15 tools)
+- Hermes Memory Provider (10 hooks)
+- SQLite (edge cache)
+- LLM embeddings (e.g., Doubao Embedding-Vision)
+- OpenAI-compatible LLM backends
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["long-term memory", "cognitive memory", "agent integration", "knowledge distillation", "hybrid search"]
-source: "https://github.com/gymaira1990-jpg/Mnemosyne-OS"
+deployment_complexity: High
+tags:
+- long-term memory
+- cognitive memory
+- agent integration
+- knowledge distillation
+- hybrid search
+source: https://github.com/gymaira1990-jpg/Mnemosyne-OS
 stars: 20
-language: "Python"
-last_updated: "2026-08-05T05:46:24Z"
-discovered_at: "2026-08-05T05:47:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:46:24Z'
+discovered_at: '2026-08-05T05:47:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

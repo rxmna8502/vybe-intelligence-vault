@@ -1,19 +1,28 @@
 ---
-title: "csinva/agent-progress"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Shell Scripting", "JSON Configuration"]
+title: csinva/agent-progress
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Claude Code
+- Shell Scripting
+- JSON Configuration
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["progress tracking", "Claude Code plugin", "automated monitoring", "ETA estimation", "job management"]
-source: "https://github.com/csinva/agent-progress"
+deployment_complexity: Low
+tags:
+- progress tracking
+- Claude Code plugin
+- automated monitoring
+- ETA estimation
+- job management
+source: https://github.com/csinva/agent-progress
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T21:09:19Z"
-discovered_at: "2026-09-01T22:17:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T21:09:19Z'
+discovered_at: '2026-09-01T22:17:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

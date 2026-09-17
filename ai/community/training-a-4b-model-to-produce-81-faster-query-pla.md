@@ -13,13 +13,14 @@ collected_at: '2026-09-17T19:07:36.167041+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:training-a-4b-model-to-produce-81-faster-query-pla
 first_seen: '2026-09-17T10:31:08.256418+05:30'
 last_seen: '2026-09-17T19:07:36.167041+05:30'
 last_checked: '2026-09-17T19:07:36.167041+05:30'
 health_score: 100
 ---
+
 
 # Training a 4B model to produce 81% faster query plans than Postgres
 

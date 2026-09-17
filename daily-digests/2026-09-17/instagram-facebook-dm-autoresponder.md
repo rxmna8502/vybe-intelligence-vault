@@ -1,19 +1,32 @@
 ---
-title: "mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["n8n", "OpenAI (gpt-4.1)", "LangChain", "PostgreSQL", "Chatwoot", "Zernio API", "Telegram Bot API", "HTTP Requests"]
+title: mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- n8n
+- OpenAI (gpt-4.1)
+- LangChain
+- PostgreSQL
+- Chatwoot
+- Zernio API
+- Telegram Bot API
+- HTTP Requests
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["AI automation", "customer support", "multi-platform messaging", "human-AI handoff", "workflow orchestration"]
-source: "https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder"
+deployment_complexity: High
+tags:
+- AI automation
+- customer support
+- multi-platform messaging
+- human-AI handoff
+- workflow orchestration
+source: https://github.com/mojtabamahdy2-cloud/instagram-facebook-dm-autoresponder
 stars: 0
-language: "None"
-last_updated: "2026-08-09T16:33:51Z"
-discovered_at: "2026-08-09T16:38:30Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T16:33:51Z'
+discovered_at: '2026-08-09T16:38:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

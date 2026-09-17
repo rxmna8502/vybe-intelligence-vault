@@ -1,19 +1,37 @@
 ---
-title: "joshuatochinwachi/Yield-Sage"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Next.js", "React", "TypeScript", "Supabase", "PostgreSQL", "Solana", "Telegram Bot API", "Dune Analytics", "JWT Authentication", "Web3.js", "Mermaid.js"]
+title: joshuatochinwachi/Yield-Sage
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- Solana
+- Telegram Bot API
+- Dune Analytics
+- JWT Authentication
+- Web3.js
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["AI agent", "Solana", "yield optimization", "on-chain verifiability", "defi"]
-source: "https://github.com/joshuatochinwachi/Yield-Sage"
+deployment_complexity: High
+tags:
+- AI agent
+- Solana
+- yield optimization
+- on-chain verifiability
+- defi
+source: https://github.com/joshuatochinwachi/Yield-Sage
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-01T06:22:54Z"
-discovered_at: "2026-08-01T06:28:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T06:22:54Z'
+discovered_at: '2026-08-01T06:28:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

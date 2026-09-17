@@ -1,19 +1,29 @@
 ---
-title: "Edublackk/self-correcting-rag-chatbot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "RAG (Retrieval-Augmented Generation)", "Multi-Agent Systems", "PDF Processing"]
+title: Edublackk/self-correcting-rag-chatbot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Telegram Bot API
+- RAG (Retrieval-Augmented Generation)
+- Multi-Agent Systems
+- PDF Processing
 quality_score: 6
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "Telegram Bot", "Self-Correcting", "Document Ingestion", "Multi-Agent"]
-source: "https://github.com/Edublackk/self-correcting-rag-chatbot"
+deployment_complexity: Medium
+tags:
+- RAG
+- Telegram Bot
+- Self-Correcting
+- Document Ingestion
+- Multi-Agent
+source: https://github.com/Edublackk/self-correcting-rag-chatbot
 stars: 3
-language: "None"
-last_updated: "2026-08-09T12:41:53Z"
-discovered_at: "2026-08-09T12:50:15Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T12:41:53Z'
+discovered_at: '2026-08-09T12:50:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

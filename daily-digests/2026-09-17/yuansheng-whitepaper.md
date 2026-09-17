@@ -1,19 +1,29 @@
 ---
-title: "szqhappy/yuansheng-whitepaper"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Philosophical Framework", "System Architecture", "Legal/IP Framework", "Quantitative Standards", "Documentation Systems"]
+title: szqhappy/yuansheng-whitepaper
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Philosophical Framework
+- System Architecture
+- Legal/IP Framework
+- Quantitative Standards
+- Documentation Systems
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["digital civilization", "AI identity", "personality continuity", "system architecture", "quantitative standards"]
-source: "https://github.com/szqhappy/yuansheng-whitepaper"
+deployment_complexity: High
+tags:
+- digital civilization
+- AI identity
+- personality continuity
+- system architecture
+- quantitative standards
+source: https://github.com/szqhappy/yuansheng-whitepaper
 stars: 1
-language: "HTML"
-last_updated: "2026-08-10T01:26:45Z"
-discovered_at: "2026-08-10T01:35:36Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-10T01:26:45Z'
+discovered_at: '2026-08-10T01:35:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "razzant/claudexor"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Electron", "React", "pnpm", "Git", "SSH", "npm", "REST APIs", "CLI tools"]
+title: razzant/claudexor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- React
+- pnpm
+- Git
+- SSH
+- npm
+- REST APIs
+- CLI tools
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "multi-harness control plane", "quota management", "credential profiles", "local-first"]
-source: "https://github.com/razzant/claudexor"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- multi-harness control plane
+- quota management
+- credential profiles
+- local-first
+source: https://github.com/razzant/claudexor
 stars: 378
-language: "TypeScript"
-last_updated: "2026-08-08T16:32:22Z"
-discovered_at: "2026-08-08T16:35:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T16:32:22Z'
+discovered_at: '2026-08-08T16:35:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

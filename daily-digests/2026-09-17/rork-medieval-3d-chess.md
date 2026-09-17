@@ -1,19 +1,33 @@
 ---
-title: "ainan9274/rork-medieval-3d-chess"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["React 19", "TypeScript", "three.js", "Vite", "chess.js", "Web Workers", "Bun", "WebGL", "CSS"]
+title: ainan9274/rork-medieval-3d-chess
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- React 19
+- TypeScript
+- three.js
+- Vite
+- chess.js
+- Web Workers
+- Bun
+- WebGL
+- CSS
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["3D Chess", "Game Engine", "WebGL", "React", "TypeScript"]
-source: "https://github.com/ainan9274/rork-medieval-3d-chess"
+deployment_complexity: Low
+tags:
+- 3D Chess
+- Game Engine
+- WebGL
+- React
+- TypeScript
+source: https://github.com/ainan9274/rork-medieval-3d-chess
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T06:28:37Z"
-discovered_at: "2026-08-06T06:32:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T06:28:37Z'
+discovered_at: '2026-08-06T06:32:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

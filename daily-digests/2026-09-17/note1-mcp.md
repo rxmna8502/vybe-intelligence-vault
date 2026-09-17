@@ -1,19 +1,30 @@
 ---
-title: "note1-ai/note1-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "OAuth 2.1", "HTTP/Streaming", "Node.js", "API Integration"]
+title: note1-ai/note1-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- OAuth 2.1
+- HTTP/Streaming
+- Node.js
+- API Integration
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["meeting notes", "MCP server", "AI notetaker", "transcript search", "action items"]
-source: "https://github.com/note1-ai/note1-mcp"
+deployment_complexity: Low
+tags:
+- meeting notes
+- MCP server
+- AI notetaker
+- transcript search
+- action items
+source: https://github.com/note1-ai/note1-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T23:20:13Z"
-discovered_at: "2026-08-08T23:31:45Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T23:20:13Z'
+discovered_at: '2026-08-08T23:31:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

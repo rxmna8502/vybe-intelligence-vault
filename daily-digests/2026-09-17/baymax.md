@@ -1,19 +1,34 @@
 ---
-title: "KaushikSiva/baymax"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MuJoCo", "Gemini Robotics-ER", "Unitree G1", "Mermaid.js", "FastAPI", "Pytest", "Blender", "WebSockets", "JSON"]
+title: KaushikSiva/baymax
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- MuJoCo
+- Gemini Robotics-ER
+- Unitree G1
+- Mermaid.js
+- FastAPI
+- Pytest
+- Blender
+- WebSockets
+- JSON
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["robotics simulation", "embodied AI", "hospital automation", "incident escalation", "deterministic control"]
-source: "https://github.com/KaushikSiva/baymax"
+deployment_complexity: High
+tags:
+- robotics simulation
+- embodied AI
+- hospital automation
+- incident escalation
+- deterministic control
+source: https://github.com/KaushikSiva/baymax
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T21:50:44Z"
-discovered_at: "2026-08-01T21:55:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T21:50:44Z'
+discovered_at: '2026-08-01T21:55:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

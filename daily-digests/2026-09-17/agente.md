@@ -1,19 +1,26 @@
 ---
-title: "Raisess/agente"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Cargo"]
+title: Raisess/agente
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Rust
+- Cargo
 quality_score: 4
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI assistant", "Rust-based", "CLI tool", "automation", "personal workflow"]
-source: "https://github.com/Raisess/agente"
+deployment_complexity: Low
+tags:
+- AI assistant
+- Rust-based
+- CLI tool
+- automation
+- personal workflow
+source: https://github.com/Raisess/agente
 stars: 1
-language: "Rust"
-last_updated: "2026-07-19T02:27:46Z"
-discovered_at: "2026-07-19T02:29:58Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-19T02:27:46Z'
+discovered_at: '2026-07-19T02:29:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

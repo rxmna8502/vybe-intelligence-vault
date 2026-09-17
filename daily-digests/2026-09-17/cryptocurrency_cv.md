@@ -1,19 +1,36 @@
 ---
-title: "nirholas/cryptocurrency.cv"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "REST API", "Docker", "Kubernetes", "Python", "Go", "React", "PHP", "SSE (Server-Sent Events)", "OpenAPI", "MCP Server"]
+title: nirholas/cryptocurrency.cv
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- REST API
+- Docker
+- Kubernetes
+- Python
+- Go
+- React
+- PHP
+- SSE (Server-Sent Events)
+- OpenAPI
+- MCP Server
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["crypto news", "real-time data", "AI endpoints", "MCP server", "multi-language"]
-source: "https://github.com/nirholas/cryptocurrency.cv"
+deployment_complexity: Medium
+tags:
+- crypto news
+- real-time data
+- AI endpoints
+- MCP server
+- multi-language
+source: https://github.com/nirholas/cryptocurrency.cv
 stars: 262
-language: "TypeScript"
-last_updated: "2026-07-19T14:49:34Z"
-discovered_at: "2026-07-19T14:54:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T14:49:34Z'
+discovered_at: '2026-07-19T14:54:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "benwold-lgtm/SyncGate"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Redis", "Model Context Protocol (MCP)", "OpenAPI", "Docker", "SQLite"]
+title: benwold-lgtm/SyncGate
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastAPI
+- Redis
+- Model Context Protocol (MCP)
+- OpenAPI
+- Docker
+- SQLite
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP gateway", "device orchestration", "REST to MCP translation", "fleet management", "authentication"]
-source: "https://github.com/benwold-lgtm/SyncGate"
+deployment_complexity: Medium
+tags:
+- MCP gateway
+- device orchestration
+- REST to MCP translation
+- fleet management
+- authentication
+source: https://github.com/benwold-lgtm/SyncGate
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T02:11:28Z"
-discovered_at: "2026-09-02T02:13:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:11:28Z'
+discovered_at: '2026-09-02T02:13:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

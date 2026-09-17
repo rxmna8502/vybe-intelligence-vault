@@ -1,19 +1,29 @@
 ---
-title: "elihucredible450/keenetic-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Windows Desktop Application", "REST API", "RCI (Keenetic Router Control Interface)"]
+title: elihucredible450/keenetic-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Windows Desktop Application
+- REST API
+- RCI (Keenetic Router Control Interface)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["network automation", "router control", "MCP server", "AI integration", "home network management"]
-source: "https://github.com/elihucredible450/keenetic-mcp"
+deployment_complexity: Low
+tags:
+- network automation
+- router control
+- MCP server
+- AI integration
+- home network management
+source: https://github.com/elihucredible450/keenetic-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T18:38:27Z"
-discovered_at: "2026-08-09T18:43:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T18:38:27Z'
+discovered_at: '2026-08-09T18:43:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
