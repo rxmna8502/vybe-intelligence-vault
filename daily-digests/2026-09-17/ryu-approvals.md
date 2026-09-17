@@ -1,19 +1,30 @@
 ---
-title: "amajorai/ryu-approvals"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Vite", "React", "HTML/CSS", "Companion UI", "Monorepo"]
+title: amajorai/ryu-approvals
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Vite
+- React
+- HTML/CSS
+- Companion UI
+- Monorepo
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["approval system", "human-in-the-loop", "agent framework", "companion UI", "task queue"]
-source: "https://github.com/amajorai/ryu-approvals"
+deployment_complexity: Medium
+tags:
+- approval system
+- human-in-the-loop
+- agent framework
+- companion UI
+- task queue
+source: https://github.com/amajorai/ryu-approvals
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T08:30:49Z"
-discovered_at: "2026-08-05T08:36:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:30:49Z'
+discovered_at: '2026-08-05T08:36:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

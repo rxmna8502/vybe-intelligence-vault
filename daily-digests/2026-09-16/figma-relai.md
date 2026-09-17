@@ -1,19 +1,32 @@
 ---
-title: "syoooo/figma-relai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Figma Plugin API", "MCP (Model Context Protocol)", "WebSocket", "Node.js", "Claude Code", "Cursor", "Codex"]
+title: syoooo/figma-relai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Figma Plugin API
+- MCP (Model Context Protocol)
+- WebSocket
+- Node.js
+- Claude Code
+- Cursor
+- Codex
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI-driven design", "Figma integration", "MCP client", "design system automation", "AI tooling"]
-source: "https://github.com/syoooo/figma-relai"
+deployment_complexity: Medium
+tags:
+- AI-driven design
+- Figma integration
+- MCP client
+- design system automation
+- AI tooling
+source: https://github.com/syoooo/figma-relai
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-01T15:56:05Z"
-discovered_at: "2026-08-01T16:07:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T15:56:05Z'
+discovered_at: '2026-08-01T16:07:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

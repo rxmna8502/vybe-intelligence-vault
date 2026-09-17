@@ -1,19 +1,35 @@
 ---
-title: "neuralforgeio/openforge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Next.js", "React", "SQLite", "Textual", "llama.cpp", "Ollama", "FastAPI", "TypeScript", "Bash", "PowerShell"]
+title: neuralforgeio/openforge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Next.js
+- React
+- SQLite
+- Textual
+- llama.cpp
+- Ollama
+- FastAPI
+- TypeScript
+- Bash
+- PowerShell
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local-first", "AI agent", "multi-interface", "privacy-focused", "extensible"]
-source: "https://github.com/neuralforgeio/openforge"
+deployment_complexity: Medium
+tags:
+- local-first
+- AI agent
+- multi-interface
+- privacy-focused
+- extensible
+source: https://github.com/neuralforgeio/openforge
 stars: 2
-language: "Python"
-last_updated: "2026-08-08T15:30:37Z"
-discovered_at: "2026-08-08T15:32:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T15:30:37Z'
+discovered_at: '2026-08-08T15:32:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

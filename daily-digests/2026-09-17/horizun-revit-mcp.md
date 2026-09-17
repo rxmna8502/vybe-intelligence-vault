@@ -1,19 +1,31 @@
 ---
-title: "HorizunGroup/horizun-revit-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET SDK", "Autodesk Revit API", "Model Context Protocol (MCP)", "Windows", "PowerShell", "NuGet"]
+title: HorizunGroup/horizun-revit-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- C#
+- .NET SDK
+- Autodesk Revit API
+- Model Context Protocol (MCP)
+- Windows
+- PowerShell
+- NuGet
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["BIM automation", "Revit API", "MCP server", "AI integration", "family authoring"]
-source: "https://github.com/HorizunGroup/horizun-revit-mcp"
+deployment_complexity: Medium
+tags:
+- BIM automation
+- Revit API
+- MCP server
+- AI integration
+- family authoring
+source: https://github.com/HorizunGroup/horizun-revit-mcp
 stars: 0
-language: "C#"
-last_updated: "2026-08-02T15:01:38Z"
-discovered_at: "2026-08-02T15:02:47Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-02T15:01:38Z'
+discovered_at: '2026-08-02T15:02:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

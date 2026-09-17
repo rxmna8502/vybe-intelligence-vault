@@ -1,19 +1,31 @@
 ---
-title: "cyanheads/bls-labor-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "DuckDB", "SQLite", "Zod", "Docker"]
+title: cyanheads/bls-labor-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- DuckDB
+- SQLite
+- Zod
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["BLS data", "economic indicators", "MCP server", "time-series analysis", "data retrieval"]
-source: "https://github.com/cyanheads/bls-labor-mcp-server"
+deployment_complexity: Medium
+tags:
+- BLS data
+- economic indicators
+- MCP server
+- time-series analysis
+- data retrieval
+source: https://github.com/cyanheads/bls-labor-mcp-server
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-17T08:03:34Z"
-discovered_at: "2026-07-17T08:07:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T08:03:34Z'
+discovered_at: '2026-07-17T08:07:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

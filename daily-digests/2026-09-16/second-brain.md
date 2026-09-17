@@ -1,19 +1,35 @@
 ---
-title: "mshtawythug/second-brain"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "PostgreSQL", "pgvector", "Docker", "Ollama", "Apache AGE", "CLI", "MCP (Model Context Protocol)", "Full-Text Search (FTS)", "Reciprocal Rank Fusion (RRF)", "GraphRAG"]
+title: mshtawythug/second-brain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- PostgreSQL
+- pgvector
+- Docker
+- Ollama
+- Apache AGE
+- CLI
+- MCP (Model Context Protocol)
+- Full-Text Search (FTS)
+- Reciprocal Rank Fusion (RRF)
+- GraphRAG
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge-base", "hybrid-search", "local-first", "context-retrieval", "ai-agent-integration"]
-source: "https://github.com/mshtawythug/second-brain"
+deployment_complexity: Medium
+tags:
+- knowledge-base
+- hybrid-search
+- local-first
+- context-retrieval
+- ai-agent-integration
+source: https://github.com/mshtawythug/second-brain
 stars: 10
-language: "Python"
-last_updated: "2026-08-08T10:34:20Z"
-discovered_at: "2026-08-08T10:34:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T10:34:20Z'
+discovered_at: '2026-08-08T10:34:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

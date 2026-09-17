@@ -13,9 +13,9 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 - [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (prompt - USEFUL Tier)
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (tutorial - USEFUL Tier)
+- [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) (framework - USEFUL Tier)
 - [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (mcp-server - USEFUL Tier)
 - [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (framework - USEFUL Tier)
-- [How Anthropic teams use Claude Code | Claude by Anthropic](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -41,4 +41,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-09-16 04:47 IST*
+*Last updated: 2026-09-17 10:50 IST*

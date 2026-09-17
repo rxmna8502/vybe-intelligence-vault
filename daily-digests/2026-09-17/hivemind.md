@@ -1,19 +1,32 @@
 ---
-title: "oxHive/hivemind"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "libsql", "SQLite", "MCP (Model Context Protocol)", "TypeScript", "Bun", "React", "Systemd/launchd (for service management)"]
+title: oxHive/hivemind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Rust
+- libsql
+- SQLite
+- MCP (Model Context Protocol)
+- TypeScript
+- Bun
+- React
+- Systemd/launchd (for service management)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["persistent memory", "AI coding agents", "MCP server", "context injection", "session management"]
-source: "https://github.com/oxHive/hivemind"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- AI coding agents
+- MCP server
+- context injection
+- session management
+source: https://github.com/oxHive/hivemind
 stars: 2
-language: "Rust"
-last_updated: "2026-07-14T16:02:39Z"
-discovered_at: "2026-07-14T16:14:21Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-14T16:02:39Z'
+discovered_at: '2026-07-14T16:14:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

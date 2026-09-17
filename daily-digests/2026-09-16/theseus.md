@@ -1,19 +1,29 @@
 ---
-title: "Proxy-Phaethon/theseus"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Small Language Models (SLM)", "Chaos (research environment framework)", "Natural Language Processing (NLP)", "Deterministic computation systems"]
+title: Proxy-Phaethon/theseus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Small Language Models (SLM)
+- Chaos (research environment framework)
+- Natural Language Processing (NLP)
+- Deterministic computation systems
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["research assistant", "local SLM", "persistent workspace", "deterministic computation", "agent architecture"]
-source: "https://github.com/Proxy-Phaethon/theseus"
+deployment_complexity: Medium
+tags:
+- research assistant
+- local SLM
+- persistent workspace
+- deterministic computation
+- agent architecture
+source: https://github.com/Proxy-Phaethon/theseus
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T15:35:56Z"
-discovered_at: "2026-09-01T15:54:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:35:56Z'
+discovered_at: '2026-09-01T15:54:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

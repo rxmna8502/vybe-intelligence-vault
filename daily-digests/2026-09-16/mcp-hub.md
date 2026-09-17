@@ -1,19 +1,32 @@
 ---
-title: "ni-c/mcp-hub"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "Model Context Protocol (MCP)", "OAuth 2.1", "Docker", "HTTP/HTTPS", "JSON-RPC", "SSE (Server-Sent Events)"]
+title: ni-c/mcp-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Node.js
+- TypeScript
+- Model Context Protocol (MCP)
+- OAuth 2.1
+- Docker
+- HTTP/HTTPS
+- JSON-RPC
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP gateway", "multi-server aggregation", "OAuth 2.1", "elicitation", "subscriptions"]
-source: "https://github.com/ni-c/mcp-hub"
+deployment_complexity: Medium
+tags:
+- MCP gateway
+- multi-server aggregation
+- OAuth 2.1
+- elicitation
+- subscriptions
+source: https://github.com/ni-c/mcp-hub
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T08:13:40Z"
-discovered_at: "2026-09-02T08:22:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:13:40Z'
+discovered_at: '2026-09-02T08:22:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

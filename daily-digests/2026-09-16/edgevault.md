@@ -1,19 +1,39 @@
 ---
-title: "blakebauman/edgevault"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Durable Objects", "KV", "R2", "Vectorize", "Queues", "Neon Postgres", "SQLite", "React", "Hono", "Argon2id", "EdDSA JWT/JWKS", "MCP Server", "pnpm"]
+title: blakebauman/edgevault
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Durable Objects
+- KV
+- R2
+- Vectorize
+- Queues
+- Neon Postgres
+- SQLite
+- React
+- Hono
+- Argon2id
+- EdDSA JWT/JWKS
+- MCP Server
+- pnpm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["edge computing", "configuration management", "secrets management", "feature flags", "real-time updates"]
-source: "https://github.com/blakebauman/edgevault"
+deployment_complexity: Medium
+tags:
+- edge computing
+- configuration management
+- secrets management
+- feature flags
+- real-time updates
+source: https://github.com/blakebauman/edgevault
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T14:28:28Z"
-discovered_at: "2026-08-08T14:35:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T14:28:28Z'
+discovered_at: '2026-08-08T14:35:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

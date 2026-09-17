@@ -115,11 +115,11 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Cross-Entropy Risk Estimation for Language Models: Inconsistency Must Be Dense, and the Holdout Method Is No Exception](https://arxiv.org/abs/2608.15798) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-15798.md))
 - [First-Order Predictable but Pairwise Fragile: Local Task Adaptation in Trained Transformers](https://arxiv.org/abs/2607.16821) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-16821.md))
 - [Hierarchical Compositionality for An Assistive AI Agent](https://arxiv.org/abs/2608.10330) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-10330.md))
-- [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-raises-eur3b-to-make-sovereign-open-weight.md))
 - [Mistral OCR 4](https://mistral.ai/news/ocr-4) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-ocr-4.md))
 - [Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-medium-3-5.md))
 - [Voxtral TTS](https://mistral.ai/news/voxtral-tts) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/voxtral-tts.md))
 - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](https://mistral.ai/news/robostral-navigate) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md))
+- [CompanyMistral x HUMAIN August 24, 2026By Mistral](https://mistral.ai/news/mistral-x-humain) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-09-16 04:48 IST*
+*Last updated: 2026-09-17 10:52 IST*

@@ -1,19 +1,37 @@
 ---
-title: "openmake/openmake_llm"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js", "vLLM", "LiteLLM", "Docker", "PostgreSQL", "Redis", "PM2", "JWT", "OAuth 2.0", "RBAC", "MCP (Model Context Protocol)", "Tailwind CSS"]
+title: openmake/openmake_llm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Next.js
+- vLLM
+- LiteLLM
+- Docker
+- PostgreSQL
+- Redis
+- PM2
+- JWT
+- OAuth 2.0
+- RBAC
+- MCP (Model Context Protocol)
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["self-hosted", "local-first", "BYOK", "agent framework", "model orchestration"]
-source: "https://github.com/openmake/openmake_llm"
+deployment_complexity: High
+tags:
+- self-hosted
+- local-first
+- BYOK
+- agent framework
+- model orchestration
+source: https://github.com/openmake/openmake_llm
 stars: 22
-language: "TypeScript"
-last_updated: "2026-08-08T08:38:08Z"
-discovered_at: "2026-08-08T08:42:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T08:38:08Z'
+discovered_at: '2026-08-08T08:42:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

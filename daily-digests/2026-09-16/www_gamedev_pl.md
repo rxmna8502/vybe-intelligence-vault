@@ -1,19 +1,34 @@
 ---
-title: "gamedevpl/www.gamedev.pl"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Vite", "Fastify", "Node.js", "MCP (Model Context Protocol)", "OAuth", "Playwright", "Docker", "Cloud Run"]
+title: gamedevpl/www.gamedev.pl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Fastify
+- Node.js
+- MCP (Model Context Protocol)
+- OAuth
+- Playwright
+- Docker
+- Cloud Run
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI game generation", "agent orchestration", "browser-based games", "multiplayer", "open source"]
-source: "https://github.com/gamedevpl/www.gamedev.pl"
+deployment_complexity: Medium
+tags:
+- AI game generation
+- agent orchestration
+- browser-based games
+- multiplayer
+- open source
+source: https://github.com/gamedevpl/www.gamedev.pl
 stars: 14
-language: "TypeScript"
-last_updated: "2026-09-01T19:03:01Z"
-discovered_at: "2026-09-01T19:08:48Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T19:03:01Z'
+discovered_at: '2026-09-01T19:08:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

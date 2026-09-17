@@ -1,19 +1,33 @@
 ---
-title: "liukai-code/xiaomo-investment-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 17", "Spring Boot 3.5", "Spring AI 1.0", "Vue 3", "TypeScript", "PostgreSQL", "Redis", "Docker", "MCP Protocol"]
+title: liukai-code/xiaomo-investment-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Java 17
+- Spring Boot 3.5
+- Spring AI 1.0
+- Vue 3
+- TypeScript
+- PostgreSQL
+- Redis
+- Docker
+- MCP Protocol
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agent", "\u91d1\u878d\u6295\u7814", "\u591a\u7528\u6237\u5e73\u53f0", "Workflow\u7f16\u6392", "Tool Calling"]
-source: "https://github.com/liukai-code/xiaomo-investment-agent"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- 金融投研
+- 多用户平台
+- Workflow编排
+- Tool Calling
+source: https://github.com/liukai-code/xiaomo-investment-agent
 stars: 1
-language: "Java"
-last_updated: "2026-08-01T13:11:05Z"
-discovered_at: "2026-08-01T13:16:28Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-01T13:11:05Z'
+discovered_at: '2026-08-01T13:16:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

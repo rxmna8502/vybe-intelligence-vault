@@ -1,19 +1,31 @@
 ---
-title: "nnyannya-tech/memcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite (FTS5)", "MCP (Model Context Protocol)", "YAML", "CLI tools", "SQLAlchemy", "Pydantic"]
+title: nnyannya-tech/memcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- SQLite (FTS5)
+- MCP (Model Context Protocol)
+- YAML
+- CLI tools
+- SQLAlchemy
+- Pydantic
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["memory persistence", "session logging", "MCP server", "local storage", "AI agent tools"]
-source: "https://github.com/nnyannya-tech/memcp"
+deployment_complexity: Low
+tags:
+- memory persistence
+- session logging
+- MCP server
+- local storage
+- AI agent tools
+source: https://github.com/nnyannya-tech/memcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-01T06:19:13Z"
-discovered_at: "2026-08-01T06:29:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T06:19:13Z'
+discovered_at: '2026-08-01T06:29:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,39 @@
 ---
-title: "lichangjiang932-ship-it/Gugo"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["React 19", "Node.js 20", "Vite 8", "TypeScript", "SQLite (WAL)", "Tailwind CSS 3", "Framer Motion", "Three.js", "Electron", "better-sqlite3", "Zod", "PPTXGenJS", "@e965/xlsx", "JSDOM", "JSZip"]
+title: lichangjiang932-ship-it/Gugo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- React 19
+- Node.js 20
+- Vite 8
+- TypeScript
+- SQLite (WAL)
+- Tailwind CSS 3
+- Framer Motion
+- Three.js
+- Electron
+- better-sqlite3
+- Zod
+- PPTXGenJS
+- '@e965/xlsx'
+- JSDOM
+- JSZip
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agent Workspace", "Self-hosted", "MCP Integration", "Memory System", "Artifact Rendering"]
-source: "https://github.com/lichangjiang932-ship-it/Gugo"
+deployment_complexity: Medium
+tags:
+- AI Agent Workspace
+- Self-hosted
+- MCP Integration
+- Memory System
+- Artifact Rendering
+source: https://github.com/lichangjiang932-ship-it/Gugo
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-06T09:41:41Z"
-discovered_at: "2026-08-06T09:42:08Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T09:41:41Z'
+discovered_at: '2026-08-06T09:42:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

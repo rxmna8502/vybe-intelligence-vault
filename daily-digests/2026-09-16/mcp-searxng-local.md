@@ -1,19 +1,32 @@
 ---
-title: "dduartee/mcp-searxng-local"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "SearXNG", "MCP (Model Context Protocol)", "GitHub API", "LRU Cache", "Jest (for testing)"]
+title: dduartee/mcp-searxng-local
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- SearXNG
+- MCP (Model Context Protocol)
+- GitHub API
+- LRU Cache
+- Jest (for testing)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web search", "MCP server", "SearXNG", "privacy-focused", "zero-cost"]
-source: "https://github.com/dduartee/mcp-searxng-local"
+deployment_complexity: Medium
+tags:
+- web search
+- MCP server
+- SearXNG
+- privacy-focused
+- zero-cost
+source: https://github.com/dduartee/mcp-searxng-local
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-15T23:01:18Z"
-discovered_at: "2026-07-15T23:02:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T23:01:18Z'
+discovered_at: '2026-07-15T23:02:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

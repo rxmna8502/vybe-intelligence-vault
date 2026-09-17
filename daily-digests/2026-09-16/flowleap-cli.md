@@ -1,19 +1,33 @@
 ---
-title: "flowleap-ai/flowleap-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Node.js/npm", "MCP (Model Context Protocol)", "OAuth 2.0", "REST API", "OCR", "Semantic Scholar", "arXiv", "OpenAlex"]
+title: flowleap-ai/flowleap-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Node.js/npm
+- MCP (Model Context Protocol)
+- OAuth 2.0
+- REST API
+- OCR
+- Semantic Scholar
+- arXiv
+- OpenAlex
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["patent search", "MCP server", "AI agent integration", "document processing", "analytics"]
-source: "https://github.com/flowleap-ai/flowleap-cli"
+deployment_complexity: Medium
+tags:
+- patent search
+- MCP server
+- AI agent integration
+- document processing
+- analytics
+source: https://github.com/flowleap-ai/flowleap-cli
 stars: 0
-language: "Rust"
-last_updated: "2026-08-04T15:29:21Z"
-discovered_at: "2026-08-04T15:36:19Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-04T15:29:21Z'
+discovered_at: '2026-08-04T15:36:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

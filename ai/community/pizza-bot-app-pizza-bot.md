@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:pizza-bot-app/pizza-bot
 first_seen: '2026-09-16T04:29:42.566295+05:30'
 last_seen: '2026-09-16T04:29:42.566295+05:30'
 last_checked: '2026-09-16T04:29:42.566295+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Pizza Bot – An inbox for AI agents that work in the background
 

@@ -1,19 +1,30 @@
 ---
-title: "gengirish/skills-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Fuse.js (for fuzzy search)", "GitHub API", "npm"]
+title: gengirish/skills-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Fuse.js (for fuzzy search)
+- GitHub API
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "AI agent skills", "skill discovery", "GitHub integration", "IDE automation"]
-source: "https://github.com/gengirish/skills-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- AI agent skills
+- skill discovery
+- GitHub integration
+- IDE automation
+source: https://github.com/gengirish/skills-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-02T08:12:02Z"
-discovered_at: "2026-08-02T08:23:00Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T08:12:02Z'
+discovered_at: '2026-08-02T08:23:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

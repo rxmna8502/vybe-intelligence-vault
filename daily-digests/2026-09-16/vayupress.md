@@ -1,19 +1,40 @@
 ---
-title: "johalputt/VayuPress"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Nginx", "PGP", "SMTP/IMAP/POP3", "WebPGP", "WebAssembly", "Service Workers", "Stripe", "PayPal", "BTCPay", "Tor", "Let's Encrypt", "PostgreSQL", "Redis", "nftables", "XDP"]
+title: johalputt/VayuPress
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- Nginx
+- PGP
+- SMTP/IMAP/POP3
+- WebPGP
+- WebAssembly
+- Service Workers
+- Stripe
+- PayPal
+- BTCPay
+- Tor
+- Let's Encrypt
+- PostgreSQL
+- Redis
+- nftables
+- XDP
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["sovereign hosting", "privacy-first", "all-in-one platform", "self-hosted email", "Tor integration"]
-source: "https://github.com/johalputt/VayuPress"
+deployment_complexity: Medium
+tags:
+- sovereign hosting
+- privacy-first
+- all-in-one platform
+- self-hosted email
+- Tor integration
+source: https://github.com/johalputt/VayuPress
 stars: 9
-language: "Go"
-last_updated: "2026-08-02T10:29:52Z"
-discovered_at: "2026-08-02T10:41:39Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T10:29:52Z'
+discovered_at: '2026-08-02T10:41:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

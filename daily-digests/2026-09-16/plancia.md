@@ -1,19 +1,34 @@
 ---
-title: "nerln/plancia"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3", "Swift", "SQLite", "MCP (Model Context Protocol)", "Claude Code", "Codex", "REST API", "JSONL", "Voice Recognition (macOS/Voicebox)", "GitHub CLI"]
+title: nerln/plancia
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python 3
+- Swift
+- SQLite
+- MCP (Model Context Protocol)
+- Claude Code
+- Codex
+- REST API
+- JSONL
+- Voice Recognition (macOS/Voicebox)
+- GitHub CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI workflow automation", "local-first productivity", "voice interface", "task aggregation", "agent orchestration"]
-source: "https://github.com/nerln/plancia"
+deployment_complexity: Medium
+tags:
+- AI workflow automation
+- local-first productivity
+- voice interface
+- task aggregation
+- agent orchestration
+source: https://github.com/nerln/plancia
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T10:30:17Z"
-discovered_at: "2026-08-09T10:38:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T10:30:17Z'
+discovered_at: '2026-08-09T10:38:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "tobocop2/lilbee"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "llama.cpp", "gguf-parser", "PyTorch", "FastAPI", "Rust", "CUDA", "Metal", "Vulkan", "MCP (Model Context Protocol)", "SQLite", "TOML"]
+title: tobocop2/lilbee
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- llama.cpp
+- gguf-parser
+- PyTorch
+- FastAPI
+- Rust
+- CUDA
+- Metal
+- Vulkan
+- MCP (Model Context Protocol)
+- SQLite
+- TOML
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["local AI", "multi-GPU", "cited retrieval", "MCP server", "model management"]
-source: "https://github.com/tobocop2/lilbee"
+deployment_complexity: Medium
+tags:
+- local AI
+- multi-GPU
+- cited retrieval
+- MCP server
+- model management
+source: https://github.com/tobocop2/lilbee
 stars: 38
-language: "Python"
-last_updated: "2026-07-16T20:01:40Z"
-discovered_at: "2026-07-16T20:02:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T20:01:40Z'
+discovered_at: '2026-07-16T20:02:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

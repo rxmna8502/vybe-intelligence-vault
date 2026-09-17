@@ -1,19 +1,34 @@
 ---
-title: "api-evangelist/apitoolkit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["REST API", "OpenTelemetry", "MCP Server", "CLI", "Rust", "PostgreSQL", "S3", "Delta Lake", "YAML", "JSON-LD"]
+title: api-evangelist/apitoolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- REST API
+- OpenTelemetry
+- MCP Server
+- CLI
+- Rust
+- PostgreSQL
+- S3
+- Delta Lake
+- YAML
+- JSON-LD
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["API Observability", "LLM Integration", "OpenTelemetry", "Monitoring", "Automated Testing"]
-source: "https://github.com/api-evangelist/apitoolkit"
+deployment_complexity: Medium
+tags:
+- API Observability
+- LLM Integration
+- OpenTelemetry
+- Monitoring
+- Automated Testing
+source: https://github.com/api-evangelist/apitoolkit
 stars: 0
-language: "None"
-last_updated: "2026-08-02T20:51:17Z"
-discovered_at: "2026-08-03T16:25:40Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-02T20:51:17Z'
+discovered_at: '2026-08-03T16:25:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

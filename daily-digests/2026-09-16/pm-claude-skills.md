@@ -1,19 +1,34 @@
 ---
-title: "mohitagw15856/pm-claude-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "TypeScript", "Python", "Model Context Protocol (MCP)", "REST API", "GitHub Actions", "Twilio", "Obsidian", "n8n", "Lovable"]
+title: mohitagw15856/pm-claude-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- TypeScript
+- Python
+- Model Context Protocol (MCP)
+- REST API
+- GitHub Actions
+- Twilio
+- Obsidian
+- n8n
+- Lovable
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI skills", "professional workflows", "agent templates", "cross-tool compatibility", "structured outputs"]
-source: "https://github.com/mohitagw15856/pm-claude-skills"
+deployment_complexity: Low
+tags:
+- AI skills
+- professional workflows
+- agent templates
+- cross-tool compatibility
+- structured outputs
+source: https://github.com/mohitagw15856/pm-claude-skills
 stars: 1178
-language: "HTML"
-last_updated: "2026-07-13T20:13:38Z"
-discovered_at: "2026-07-13T20:14:11Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-13T20:13:38Z'
+discovered_at: '2026-07-13T20:14:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,40 @@
 ---
-title: "syedbaqar25/SyncMind-Ai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["React", "Vite", "Express", "PostgreSQL", "Prisma", "Redis", "BullMQ", "OpenAI Whisper", "OpenAI GPT", "Pinecone", "Cloudinary", "Resend", "Socket.io", "Tailwind CSS", "Gemini", "Node.js"]
+title: syedbaqar25/SyncMind-Ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- React
+- Vite
+- Express
+- PostgreSQL
+- Prisma
+- Redis
+- BullMQ
+- OpenAI Whisper
+- OpenAI GPT
+- Pinecone
+- Cloudinary
+- Resend
+- Socket.io
+- Tailwind CSS
+- Gemini
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["meeting intelligence", "transcription", "action item extraction", "semantic search", "workspace analytics"]
-source: "https://github.com/syedbaqar25/SyncMind-Ai"
+deployment_complexity: Medium
+tags:
+- meeting intelligence
+- transcription
+- action item extraction
+- semantic search
+- workspace analytics
+source: https://github.com/syedbaqar25/SyncMind-Ai
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-10T18:51:59Z"
-discovered_at: "2026-08-10T19:01:34Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T18:51:59Z'
+discovered_at: '2026-08-10T19:01:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

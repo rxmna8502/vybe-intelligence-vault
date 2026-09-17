@@ -1,19 +1,31 @@
 ---
-title: "44-pixels/handover-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Model Context Protocol (MCP)", "JavaScript/Node.js", "TypeScript (implied by MCP)", "OAuth", "HTTP/REST APIs", "CLI tools", "Agent Skills framework"]
+title: 44-pixels/handover-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Model Context Protocol (MCP)
+- JavaScript/Node.js
+- TypeScript (implied by MCP)
+- OAuth
+- HTTP/REST APIs
+- CLI tools
+- Agent Skills framework
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["context sharing", "AI agent collaboration", "work handoff", "versioned memory", "MCP server"]
-source: "https://github.com/44-pixels/handover-mcp"
+deployment_complexity: Medium
+tags:
+- context sharing
+- AI agent collaboration
+- work handoff
+- versioned memory
+- MCP server
+source: https://github.com/44-pixels/handover-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-04T00:03:54Z"
-discovered_at: "2026-08-04T00:11:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T00:03:54Z'
+discovered_at: '2026-08-04T00:11:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

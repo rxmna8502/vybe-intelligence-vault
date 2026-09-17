@@ -1,19 +1,34 @@
 ---
-title: "smaniches/semantic-scholar-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "Pydantic", "httpx", "Semantic Scholar API", "Docker", "GitHub Actions", "Sigstore", "SLSA", "CycloneDX SBOM"]
+title: smaniches/semantic-scholar-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- FastMCP
+- Pydantic
+- httpx
+- Semantic Scholar API
+- Docker
+- GitHub Actions
+- Sigstore
+- SLSA
+- CycloneDX SBOM
 quality_score: 10
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Semantic Scholar", "Academic Research", "Citation Graph", "RAG Integration"]
-source: "https://github.com/smaniches/semantic-scholar-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Semantic Scholar
+- Academic Research
+- Citation Graph
+- RAG Integration
+source: https://github.com/smaniches/semantic-scholar-mcp
 stars: 11
-language: "Python"
-last_updated: "2026-07-14T02:07:17Z"
-discovered_at: "2026-07-14T02:13:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T02:07:17Z'
+discovered_at: '2026-07-14T02:13:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

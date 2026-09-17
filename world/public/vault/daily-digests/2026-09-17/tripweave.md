@@ -1,19 +1,34 @@
 ---
-title: "JimiZhou/tripweave"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Flutter", "Dart", "FFmpeg", "FFmpeg Kit", "WebCodecs", "MediaCodec", "OpenAI-compatible models", "ReAct (Agent Framework)", "GPU Runtime Fragment Shader", "CI/CD (GitHub Actions)"]
+title: JimiZhou/tripweave
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Flutter
+- Dart
+- FFmpeg
+- FFmpeg Kit
+- WebCodecs
+- MediaCodec
+- OpenAI-compatible models
+- ReAct (Agent Framework)
+- GPU Runtime Fragment Shader
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["video editing", "local-first", "cross-platform", "AI-assisted", "hardware acceleration"]
-source: "https://github.com/JimiZhou/tripweave"
+deployment_complexity: Medium
+tags:
+- video editing
+- local-first
+- cross-platform
+- AI-assisted
+- hardware acceleration
+source: https://github.com/JimiZhou/tripweave
 stars: 0
-language: "Dart"
-last_updated: "2026-07-20T03:34:05Z"
-discovered_at: "2026-07-20T03:37:36Z"
-evaluated_by: "mistral-small-latest"
+language: Dart
+last_updated: '2026-07-20T03:34:05Z'
+discovered_at: '2026-07-20T03:37:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

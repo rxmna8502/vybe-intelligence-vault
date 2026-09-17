@@ -1,19 +1,30 @@
 ---
-title: "nhtera/OxiCode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Ratatui", "LLM (Anthropic/Claude)", "MCP (Model Context Protocol)", "TOML", "NDJSON"]
+title: nhtera/OxiCode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Ratatui
+- LLM (Anthropic/Claude)
+- MCP (Model Context Protocol)
+- TOML
+- NDJSON
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CLI agent", "multi-provider LLM", "terminal UI", "MCP client", "Rust"]
-source: "https://github.com/nhtera/OxiCode"
+deployment_complexity: Medium
+tags:
+- CLI agent
+- multi-provider LLM
+- terminal UI
+- MCP client
+- Rust
+source: https://github.com/nhtera/OxiCode
 stars: 0
-language: "Rust"
-last_updated: "2026-08-04T10:37:38Z"
-discovered_at: "2026-08-04T10:39:07Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-04T10:37:38Z'
+discovered_at: '2026-08-04T10:39:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

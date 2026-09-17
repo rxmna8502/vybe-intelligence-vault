@@ -1,19 +1,32 @@
 ---
-title: "hop-top/aps"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Docker", "macOS/Linux Platform APIs", "SSH", "YAML", "CLI", "TUI", "Git"]
+title: hop-top/aps
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- Docker
+- macOS/Linux Platform APIs
+- SSH
+- YAML
+- CLI
+- TUI
+- Git
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent isolation", "profile management", "secrets injection", "multi-isolation", "AI workflows"]
-source: "https://github.com/hop-top/aps"
+deployment_complexity: Medium
+tags:
+- agent isolation
+- profile management
+- secrets injection
+- multi-isolation
+- AI workflows
+source: https://github.com/hop-top/aps
 stars: 1
-language: "Go"
-last_updated: "2026-08-10T09:22:08Z"
-discovered_at: "2026-08-10T09:24:36Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-10T09:22:08Z'
+discovered_at: '2026-08-10T09:24:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

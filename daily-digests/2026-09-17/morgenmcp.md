@@ -1,19 +1,29 @@
 ---
-title: "k3KAW8Pnf7mkmdSMPHz27/MorgenMCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "uv (Python package manager)", "mise (environment manager)", "API Integration"]
+title: k3KAW8Pnf7mkmdSMPHz27/MorgenMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- uv (Python package manager)
+- mise (environment manager)
+- API Integration
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "calendar integration", "task management", "API wrapper", "AI tooling"]
-source: "https://github.com/k3KAW8Pnf7mkmdSMPHz27/MorgenMCP"
+deployment_complexity: Low
+tags:
+- MCP server
+- calendar integration
+- task management
+- API wrapper
+- AI tooling
+source: https://github.com/k3KAW8Pnf7mkmdSMPHz27/MorgenMCP
 stars: 2
-language: "Python"
-last_updated: "2026-09-03T15:34:25Z"
-discovered_at: "2026-09-03T15:39:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:34:25Z'
+discovered_at: '2026-09-03T15:39:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

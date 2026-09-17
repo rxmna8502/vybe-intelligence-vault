@@ -1,19 +1,31 @@
 ---
-title: "maxwellsdm1867/wheeler"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "Neo4j", "MCP (Model Context Protocol)", "W3C PROV-DM", "uv (package manager)", "Docker"]
+title: maxwellsdm1867/wheeler
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Claude Code
+- Neo4j
+- MCP (Model Context Protocol)
+- W3C PROV-DM
+- uv (package manager)
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["reproducibility", "knowledge graph", "scientific workflow", "provenance tracking", "AI-assisted research"]
-source: "https://github.com/maxwellsdm1867/wheeler"
+deployment_complexity: Medium
+tags:
+- reproducibility
+- knowledge graph
+- scientific workflow
+- provenance tracking
+- AI-assisted research
+source: https://github.com/maxwellsdm1867/wheeler
 stars: 10
-language: "Python"
-last_updated: "2026-07-18T20:26:40Z"
-discovered_at: "2026-07-18T20:44:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T20:26:40Z'
+discovered_at: '2026-07-18T20:44:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

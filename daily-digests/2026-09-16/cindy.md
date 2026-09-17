@@ -1,19 +1,34 @@
 ---
-title: "makecindy/cindy"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Expo", "React Native", "Node.js", "pnpm", "MCP (Model Context Protocol)", "Claude Code", "Codex", "Git LFS"]
+title: makecindy/cindy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Electron
+- Expo
+- React Native
+- Node.js
+- pnpm
+- MCP (Model Context Protocol)
+- Claude Code
+- Codex
+- Git LFS
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "local automation", "multi-model", "open-source", "cross-platform"]
-source: "https://github.com/makecindy/cindy"
+deployment_complexity: Medium
+tags:
+- AI agent
+- local automation
+- multi-model
+- open-source
+- cross-platform
+source: https://github.com/makecindy/cindy
 stars: 1288
-language: "TypeScript"
-last_updated: "2026-08-01T06:26:41Z"
-discovered_at: "2026-08-01T06:29:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T06:26:41Z'
+discovered_at: '2026-08-01T06:29:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

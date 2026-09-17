@@ -1,19 +1,33 @@
 ---
-title: "jayasrisng/janu"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Gemini API", "Android (Jetpack Compose)", "Unity", "OpenXR", "KDTree", "SQLite", "Docker (implied for deployment)"]
+title: jayasrisng/janu
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastAPI
+- Gemini API
+- Android (Jetpack Compose)
+- Unity
+- OpenXR
+- KDTree
+- SQLite
+- Docker (implied for deployment)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["XR onboarding", "AI-guided setup", "evaluation logging", "conversational AI", "spatial guidance"]
-source: "https://github.com/jayasrisng/janu"
+deployment_complexity: High
+tags:
+- XR onboarding
+- AI-guided setup
+- evaluation logging
+- conversational AI
+- spatial guidance
+source: https://github.com/jayasrisng/janu
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T22:17:46Z"
-discovered_at: "2026-09-01T22:17:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:17:46Z'
+discovered_at: '2026-09-01T22:17:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

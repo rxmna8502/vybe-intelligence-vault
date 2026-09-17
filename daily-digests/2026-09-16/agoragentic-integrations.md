@@ -1,19 +1,36 @@
 ---
-title: "rhein1/agoragentic-integrations"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "TypeScript", "Python", "Rust", "Node.js", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "x402 (Agent Commerce Protocol)", "OpenAPI", "REST APIs", "CLI Tools", "Docker"]
+title: rhein1/agoragentic-integrations
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- TypeScript
+- Python
+- Rust
+- Node.js
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent)
+- x402 (Agent Commerce Protocol)
+- OpenAPI
+- REST APIs
+- CLI Tools
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "workflow automation", "multi-agent systems", "governance frameworks", "commerce protocols"]
-source: "https://github.com/rhein1/agoragentic-integrations"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- workflow automation
+- multi-agent systems
+- governance frameworks
+- commerce protocols
+source: https://github.com/rhein1/agoragentic-integrations
 stars: 27
-language: "JavaScript"
-last_updated: "2026-08-08T22:20:45Z"
-discovered_at: "2026-08-08T22:32:04Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T22:20:45Z'
+discovered_at: '2026-08-08T22:32:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

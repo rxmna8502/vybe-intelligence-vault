@@ -1,19 +1,32 @@
 ---
-title: "bestdive999-coder/fail2skill"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Git", "JSON", "HTML", "BM25-style lexical retrieval", "Git worktrees", "CI/CD (GitHub Actions)"]
+title: bestdive999-coder/fail2skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Node.js
+- Git
+- JSON
+- HTML
+- BM25-style lexical retrieval
+- Git worktrees
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["coding agents", "verification-gated memory", "Git worktrees", "patch management", "agent orchestration"]
-source: "https://github.com/bestdive999-coder/fail2skill"
+deployment_complexity: Medium
+tags:
+- coding agents
+- verification-gated memory
+- Git worktrees
+- patch management
+- agent orchestration
+source: https://github.com/bestdive999-coder/fail2skill
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-09T07:54:37Z"
-discovered_at: "2026-08-09T07:58:44Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T07:54:37Z'
+discovered_at: '2026-08-09T07:58:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

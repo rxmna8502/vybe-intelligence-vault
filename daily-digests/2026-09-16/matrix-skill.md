@@ -1,19 +1,32 @@
 ---
-title: "netresearch/matrix-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Matrix Client-Server API", "Synapse Admin API", "libolm", "Claude Code Plugin", "Agentic Skills Specification", "Graphviz", "Chromium (headless rendering)"]
+title: netresearch/matrix-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Matrix Client-Server API
+- Synapse Admin API
+- libolm
+- Claude Code Plugin
+- Agentic Skills Specification
+- Graphviz
+- Chromium (headless rendering)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Matrix integration", "AI agent tools", "E2EE support", "Synapse administration", "structured announcements"]
-source: "https://github.com/netresearch/matrix-skill"
+deployment_complexity: Medium
+tags:
+- Matrix integration
+- AI agent tools
+- E2EE support
+- Synapse administration
+- structured announcements
+source: https://github.com/netresearch/matrix-skill
 stars: 4
-language: "Python"
-last_updated: "2026-08-08T07:51:03Z"
-discovered_at: "2026-08-08T07:51:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T07:51:03Z'
+discovered_at: '2026-08-08T07:51:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

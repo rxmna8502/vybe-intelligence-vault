@@ -1,19 +1,30 @@
 ---
-title: "pablostanley/efecto-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "TypeScript", "JavaScript", "Tailwind CSS", "Node.js", "npm"]
+title: pablostanley/efecto-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- MCP (Model Context Protocol)
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Node.js
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI design", "MCP tools", "visual collaboration", "design automation", "agent integration"]
-source: "https://github.com/pablostanley/efecto-plugin"
+deployment_complexity: Low
+tags:
+- AI design
+- MCP tools
+- visual collaboration
+- design automation
+- agent integration
+source: https://github.com/pablostanley/efecto-plugin
 stars: 18
-language: "None"
-last_updated: "2026-08-08T20:25:28Z"
-discovered_at: "2026-08-08T20:31:55Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T20:25:28Z'
+discovered_at: '2026-08-08T20:31:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

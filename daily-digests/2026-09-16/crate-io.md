@@ -1,19 +1,29 @@
 ---
-title: "api-evangelist/crate-io"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["SQL", "PostgreSQL", "Lucene", "Distributed Systems", "Real-time Analytics"]
+title: api-evangelist/crate-io
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- SQL
+- PostgreSQL
+- Lucene
+- Distributed Systems
+- Real-time Analytics
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["distributed database", "real-time analytics", "SQL compatibility", "vector search", "time-series"]
-source: "https://github.com/api-evangelist/crate-io"
+deployment_complexity: Medium
+tags:
+- distributed database
+- real-time analytics
+- SQL compatibility
+- vector search
+- time-series
+source: https://github.com/api-evangelist/crate-io
 stars: 0
-language: "None"
-last_updated: "2026-08-08T00:49:48Z"
-discovered_at: "2026-08-08T01:28:17Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T00:49:48Z'
+discovered_at: '2026-08-08T01:28:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

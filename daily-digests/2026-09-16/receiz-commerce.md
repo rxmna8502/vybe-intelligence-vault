@@ -1,19 +1,35 @@
 ---
-title: "kojibai/Receiz-commerce"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Next.js", "TypeScript", "Receiz SDK", "Receiz MCP", "React", "Node.js", "Vercel", "OIDC", "Webhooks", "Media Upload", "Domain Hosting"]
+title: kojibai/Receiz-commerce
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Next.js
+- TypeScript
+- Receiz SDK
+- Receiz MCP
+- React
+- Node.js
+- Vercel
+- OIDC
+- Webhooks
+- Media Upload
+- Domain Hosting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["proof-sealed commerce", "AI operator layer", "forkable SDK", "Receiz MCP", "no-code merchant admin"]
-source: "https://github.com/kojibai/Receiz-commerce"
+deployment_complexity: Medium
+tags:
+- proof-sealed commerce
+- AI operator layer
+- forkable SDK
+- Receiz MCP
+- no-code merchant admin
+source: https://github.com/kojibai/Receiz-commerce
 stars: 0
-language: "HTML"
-last_updated: "2026-07-14T02:08:07Z"
-discovered_at: "2026-07-14T02:13:55Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-14T02:08:07Z'
+discovered_at: '2026-07-14T02:13:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

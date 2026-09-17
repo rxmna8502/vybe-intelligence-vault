@@ -1,19 +1,34 @@
 ---
-title: "amos-labs/amos-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "JavaScript/TypeScript", "Model Context Protocol (MCP)", "OAuth 2.1 + PKCE", "OpenAI-compatible API", "Local model runtimes (Ollama, llama.cpp)", "AWS Bedrock", "Encryption (OS-protected, passphrase-based)", "React (frontend)", "Node.js (backend)"]
+title: amos-labs/amos-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Electron
+- JavaScript/TypeScript
+- Model Context Protocol (MCP)
+- OAuth 2.1 + PKCE
+- OpenAI-compatible API
+- Local model runtimes (Ollama, llama.cpp)
+- AWS Bedrock
+- Encryption (OS-protected, passphrase-based)
+- React (frontend)
+- Node.js (backend)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["governed AI", "local-first", "model-agnostic", "human-governed workflows", "secure memory management"]
-source: "https://github.com/amos-labs/amos-agent"
+deployment_complexity: Medium
+tags:
+- governed AI
+- local-first
+- model-agnostic
+- human-governed workflows
+- secure memory management
+source: https://github.com/amos-labs/amos-agent
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-01T21:44:57Z"
-discovered_at: "2026-08-01T21:55:04Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T21:44:57Z'
+discovered_at: '2026-08-01T21:55:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

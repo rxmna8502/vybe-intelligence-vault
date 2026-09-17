@@ -1,19 +1,39 @@
 ---
-title: "sagar0163/upaya-jivika"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Supabase", "NVIDIA NIM", "Groq", "Gemini Flash", "Mistral", "OpenRouter", "DuckDuckGo API", "Jina AI Reader", "Firecrawl", "GitHub API", "HuggingFace Datasets", "Playwright", "Payoneer API"]
+title: sagar0163/upaya-jivika
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastAPI
+- Supabase
+- NVIDIA NIM
+- Groq
+- Gemini Flash
+- Mistral
+- OpenRouter
+- DuckDuckGo API
+- Jina AI Reader
+- Firecrawl
+- GitHub API
+- HuggingFace Datasets
+- Playwright
+- Payoneer API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "survival AI", "reincarnation system", "earning automation", "debt-driven learning"]
-source: "https://github.com/sagar0163/upaya-jivika"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- survival AI
+- reincarnation system
+- earning automation
+- debt-driven learning
+source: https://github.com/sagar0163/upaya-jivika
 stars: 0
-language: "Python"
-last_updated: "2026-09-04T02:11:34Z"
-discovered_at: "2026-09-04T02:14:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T02:11:34Z'
+discovered_at: '2026-09-04T02:14:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

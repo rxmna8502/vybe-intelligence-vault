@@ -1,19 +1,33 @@
 ---
-title: "Fioooooooo/FylloCode"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "Vue 3", "Nuxt UI", "Tailwind CSS", "Agent Client Protocol (ACP)", "Model Context Protocol (MCP)", "OpenSpec", "Node.js"]
+title: Fioooooooo/FylloCode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Electron
+- Vue 3
+- Nuxt UI
+- Tailwind CSS
+- Agent Client Protocol (ACP)
+- Model Context Protocol (MCP)
+- OpenSpec
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI governance", "agent collaboration", "project lineage", "decision tracking", "multi-agent consistency"]
-source: "https://github.com/Fioooooooo/FylloCode"
+deployment_complexity: Medium
+tags:
+- AI governance
+- agent collaboration
+- project lineage
+- decision tracking
+- multi-agent consistency
+source: https://github.com/Fioooooooo/FylloCode
 stars: 26
-language: "TypeScript"
-last_updated: "2026-08-05T05:43:09Z"
-discovered_at: "2026-08-05T05:47:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:43:09Z'
+discovered_at: '2026-08-05T05:47:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

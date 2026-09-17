@@ -1,19 +1,27 @@
 ---
-title: "emavague180/claw-code-parity"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Windows Desktop", "ZIP/EXE Packaging"]
+title: emavague180/claw-code-parity
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Windows Desktop
+- ZIP/EXE Packaging
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["parity testing", "Rust port", "Windows desktop", "migration tool", "behavior comparison"]
-source: "https://github.com/emavague180/claw-code-parity"
+deployment_complexity: Low
+tags:
+- parity testing
+- Rust port
+- Windows desktop
+- migration tool
+- behavior comparison
+source: https://github.com/emavague180/claw-code-parity
 stars: 1
-language: "Rust"
-last_updated: "2026-07-10T20:20:48Z"
-discovered_at: "2026-07-10T20:21:56Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-10T20:20:48Z'
+discovered_at: '2026-07-10T20:21:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "nikolas-sapa/ns-ui"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["React 19", "TypeScript", "Tailwind CSS v4", "Playwright", "Next.js", "Motion (animation)", "react-three-fiber", "Node.js 22.18+"]
+title: nikolas-sapa/ns-ui
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- Playwright
+- Next.js
+- Motion (animation)
+- react-three-fiber
+- Node.js 22.18+
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["React components", "shadcn registry", "UI library", "zero-config", "agent-friendly"]
-source: "https://github.com/nikolas-sapa/ns-ui"
+deployment_complexity: Medium
+tags:
+- React components
+- shadcn registry
+- UI library
+- zero-config
+- agent-friendly
+source: https://github.com/nikolas-sapa/ns-ui
 stars: 15
-language: "TypeScript"
-last_updated: "2026-08-05T13:58:09Z"
-discovered_at: "2026-08-05T14:07:14Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T13:58:09Z'
+discovered_at: '2026-08-05T14:07:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

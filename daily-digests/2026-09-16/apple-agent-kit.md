@@ -1,19 +1,30 @@
 ---
-title: "caglarbaranbora/Apple-Agent-Kit"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "NPM", "Markdown", "YAML", "JSON"]
+title: caglarbaranbora/Apple-Agent-Kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Claude Code
+- NPM
+- Markdown
+- YAML
+- JSON
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["AI coding agents", "Apple platform development", "Knowledge contracts", "Deterministic routing", "Documentation pre-processing"]
-source: "https://github.com/caglarbaranbora/Apple-Agent-Kit"
+deployment_complexity: Low
+tags:
+- AI coding agents
+- Apple platform development
+- Knowledge contracts
+- Deterministic routing
+- Documentation pre-processing
+source: https://github.com/caglarbaranbora/Apple-Agent-Kit
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T10:33:57Z"
-discovered_at: "2026-08-08T10:34:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T10:33:57Z'
+discovered_at: '2026-08-08T10:34:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

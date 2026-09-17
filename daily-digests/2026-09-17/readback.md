@@ -1,19 +1,31 @@
 ---
-title: "Deltawerks/readback"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "PowerShell", "Inworld TTS", "ElevenLabs TTS", "MCP Server", "Web Control Panel"]
+title: Deltawerks/readback
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- PowerShell
+- Inworld TTS
+- ElevenLabs TTS
+- MCP Server
+- Web Control Panel
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["voice synthesis", "TTS integration", "Claude Code", "Windows tooling", "MCP server"]
-source: "https://github.com/Deltawerks/readback"
+deployment_complexity: Medium
+tags:
+- voice synthesis
+- TTS integration
+- Claude Code
+- Windows tooling
+- MCP server
+source: https://github.com/Deltawerks/readback
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-03T06:16:28Z"
-discovered_at: "2026-08-03T06:23:22Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T06:16:28Z'
+discovered_at: '2026-08-03T06:23:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

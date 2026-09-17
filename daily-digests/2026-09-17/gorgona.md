@@ -1,19 +1,29 @@
 ---
-title: "adrianpeticila/gorgona"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Standard Library (stdlib)", "Regex", "DAG (Directed Acyclic Graph) Validation", "CLI/Command-line Interface"]
+title: adrianpeticila/gorgona
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Standard Library (stdlib)
+- Regex
+- DAG (Directed Acyclic Graph) Validation
+- CLI/Command-line Interface
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["guardrails", "deterministic", "AI safety", "agent monitoring", "zero dependencies"]
-source: "https://github.com/adrianpeticila/gorgona"
+deployment_complexity: Low
+tags:
+- guardrails
+- deterministic
+- AI safety
+- agent monitoring
+- zero dependencies
+source: https://github.com/adrianpeticila/gorgona
 stars: 1
-language: "Python"
-last_updated: "2026-09-03T06:26:57Z"
-discovered_at: "2026-09-03T22:12:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T06:26:57Z'
+discovered_at: '2026-09-03T22:12:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

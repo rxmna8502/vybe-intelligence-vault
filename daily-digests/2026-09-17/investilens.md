@@ -1,19 +1,35 @@
 ---
-title: "Darren-Dcruz/Investilens"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["React 18", "Vite", "Three.js", "Node.js", "TypeScript", "Nous Research Hermes Agent", "Webcmd Browser Automation", "Python (for backend services)", "PostgreSQL (for persistent storage)", "PDF Generation Libraries", "RAG (Retrieval-Augmented Generation) for conversational querying"]
+title: Darren-Dcruz/Investilens
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- React 18
+- Vite
+- Three.js
+- Node.js
+- TypeScript
+- Nous Research Hermes Agent
+- Webcmd Browser Automation
+- Python (for backend services)
+- PostgreSQL (for persistent storage)
+- PDF Generation Libraries
+- RAG (Retrieval-Augmented Generation) for conversational querying
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Financial Intelligence", "Agentic Automation", "Multi-Source Verification", "Institutional Research", "RAG Integration"]
-source: "https://github.com/Darren-Dcruz/Investilens"
+deployment_complexity: High
+tags:
+- Financial Intelligence
+- Agentic Automation
+- Multi-Source Verification
+- Institutional Research
+- RAG Integration
+source: https://github.com/Darren-Dcruz/Investilens
 stars: 4
-language: "JavaScript"
-last_updated: "2026-09-03T18:58:53Z"
-discovered_at: "2026-09-03T19:05:33Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T18:58:53Z'
+discovered_at: '2026-09-03T19:05:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

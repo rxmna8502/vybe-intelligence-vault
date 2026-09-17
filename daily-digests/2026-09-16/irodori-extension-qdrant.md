@@ -1,19 +1,30 @@
 ---
-title: "irodori-table/irodori-extension-qdrant"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Qdrant", "Irodori Table", "ABI (Application Binary Interface)", "TLS", "Proxy Protocols (SSH, SOCKS5, HTTP)"]
+title: irodori-table/irodori-extension-qdrant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Qdrant
+- Irodori Table
+- ABI (Application Binary Interface)
+- TLS
+- Proxy Protocols (SSH, SOCKS5, HTTP)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["vector database", "connector", "RAG integration", "Qdrant", "Irodori Table"]
-source: "https://github.com/irodori-table/irodori-extension-qdrant"
+deployment_complexity: Medium
+tags:
+- vector database
+- connector
+- RAG integration
+- Qdrant
+- Irodori Table
+source: https://github.com/irodori-table/irodori-extension-qdrant
 stars: 0
-language: "Rust"
-last_updated: "2026-08-07T23:01:59Z"
-discovered_at: "2026-08-07T23:36:32Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T23:01:59Z'
+discovered_at: '2026-08-07T23:36:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

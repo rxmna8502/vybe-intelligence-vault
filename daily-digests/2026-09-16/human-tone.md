@@ -1,19 +1,28 @@
 ---
-title: "tanawitchsaentree/Human-tone"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Shell scripting", "GitHub Actions (CI/CD)"]
+title: tanawitchsaentree/Human-tone
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Shell scripting
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI writing optimization", "deterministic linter", "voice calibration", "multi-language support", "agent skill"]
-source: "https://github.com/tanawitchsaentree/Human-tone"
+deployment_complexity: Low
+tags:
+- AI writing optimization
+- deterministic linter
+- voice calibration
+- multi-language support
+- agent skill
+source: https://github.com/tanawitchsaentree/Human-tone
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T09:12:28Z"
-discovered_at: "2026-08-07T10:03:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T09:12:28Z'
+discovered_at: '2026-08-07T10:03:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

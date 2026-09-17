@@ -1,19 +1,29 @@
 ---
-title: "guxiong108-beep/technical-ppt-builder"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PowerPoint (PPTX) manipulation", "AI Agent frameworks", "Workflow automation", "Mermaid.js (for diagrams)"]
+title: guxiong108-beep/technical-ppt-builder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- PowerPoint (PPTX) manipulation
+- AI Agent frameworks
+- Workflow automation
+- Mermaid.js (for diagrams)
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["AI presentation generation", "bilingual PPT builder", "technical documentation", "workflow automation", "slide beautification"]
-source: "https://github.com/guxiong108-beep/technical-ppt-builder"
+deployment_complexity: Medium
+tags:
+- AI presentation generation
+- bilingual PPT builder
+- technical documentation
+- workflow automation
+- slide beautification
+source: https://github.com/guxiong108-beep/technical-ppt-builder
 stars: 0
-language: "PowerShell"
-last_updated: "2026-08-05T08:31:02Z"
-discovered_at: "2026-08-05T08:35:58Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-08-05T08:31:02Z'
+discovered_at: '2026-08-05T08:35:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

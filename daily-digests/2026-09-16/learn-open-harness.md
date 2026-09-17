@@ -1,19 +1,28 @@
 ---
-title: "timesignalrite923/Learn-Open-Harness"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows OS", "Python (implied)", "AI Model APIs", "GUI Framework (unspecified)"]
+title: timesignalrite923/Learn-Open-Harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Windows OS
+- Python (implied)
+- AI Model APIs
+- GUI Framework (unspecified)
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["AI Education", "Agent Development", "Interactive Learning", "OpenHarness", "Hands-on Tutorial"]
-source: "https://github.com/timesignalrite923/Learn-Open-Harness"
+deployment_complexity: Low
+tags:
+- AI Education
+- Agent Development
+- Interactive Learning
+- OpenHarness
+- Hands-on Tutorial
+source: https://github.com/timesignalrite923/Learn-Open-Harness
 stars: 0
-language: "None"
-last_updated: "2026-07-11T11:00:12Z"
-discovered_at: "2026-07-11T11:03:54Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-11T11:00:12Z'
+discovered_at: '2026-07-11T11:03:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

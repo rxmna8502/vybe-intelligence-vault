@@ -1,19 +1,29 @@
 ---
-title: "cryptological-frail210/mcp-superset"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Apache Superset", "Model Context Protocol (MCP)", "SQL", "Windows"]
+title: cryptological-frail210/mcp-superset
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Apache Superset
+- Model Context Protocol (MCP)
+- SQL
+- Windows
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["Apache Superset", "MCP integration", "data visualization", "AI-driven dashboards", "Windows tooling"]
-source: "https://github.com/cryptological-frail210/mcp-superset"
+deployment_complexity: Low
+tags:
+- Apache Superset
+- MCP integration
+- data visualization
+- AI-driven dashboards
+- Windows tooling
+source: https://github.com/cryptological-frail210/mcp-superset
 stars: 1
-language: "Python"
-last_updated: "2026-07-14T12:05:56Z"
-discovered_at: "2026-07-14T12:10:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T12:05:56Z'
+discovered_at: '2026-07-14T12:10:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

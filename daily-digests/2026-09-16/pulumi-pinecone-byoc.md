@@ -1,19 +1,31 @@
 ---
-title: "pinecone-io/pulumi-pinecone-byoc"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Pulumi", "AWS (EKS, VPC, RDS)", "GCP (GKE, AlloyDB, Cloud Storage)", "Azure (AKS, Azure Database for PostgreSQL, Blob Storage)", "kubectl", "Datadog (for observability)"]
+title: pinecone-io/pulumi-pinecone-byoc
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Pulumi
+- AWS (EKS, VPC, RDS)
+- GCP (GKE, AlloyDB, Cloud Storage)
+- Azure (AKS, Azure Database for PostgreSQL, Blob Storage)
+- kubectl
+- Datadog (for observability)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["vector database", "BYOC", "infrastructure-as-code", "multi-cloud", "Pulumi"]
-source: "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+deployment_complexity: High
+tags:
+- vector database
+- BYOC
+- infrastructure-as-code
+- multi-cloud
+- Pulumi
+source: https://github.com/pinecone-io/pulumi-pinecone-byoc
 stars: 13
-language: "Python"
-last_updated: "2026-08-09T09:52:19Z"
-discovered_at: "2026-08-09T10:38:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T09:52:19Z'
+discovered_at: '2026-08-09T10:38:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

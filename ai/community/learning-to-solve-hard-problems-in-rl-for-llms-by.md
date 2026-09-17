@@ -13,13 +13,14 @@ collected_at: '2026-09-16T04:29:40.867166+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:learning-to-solve-hard-problems-in-rl-for-llms-by
 first_seen: '2026-09-16T04:29:40.867166+05:30'
 last_seen: '2026-09-16T04:29:40.867166+05:30'
 last_checked: '2026-09-16T04:29:40.867166+05:30'
 health_score: 100
 ---
+
 
 # Learning to solve hard problems in RL for LLMs by never giving up
 

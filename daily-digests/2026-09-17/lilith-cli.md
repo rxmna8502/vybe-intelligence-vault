@@ -1,19 +1,30 @@
 ---
-title: "BrierAinz/lilith-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Textual", "SQLite", "LLM Providers", "MCP Integration", "uv (Package Manager)"]
+title: BrierAinz/lilith-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Textual
+- SQLite
+- LLM Providers
+- MCP Integration
+- uv (Package Manager)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["terminal IDE", "agent orchestration", "vector memory", "TUI", "LLM integration"]
-source: "https://github.com/BrierAinz/lilith-cli"
+deployment_complexity: Medium
+tags:
+- terminal IDE
+- agent orchestration
+- vector memory
+- TUI
+- LLM integration
+source: https://github.com/BrierAinz/lilith-cli
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T22:02:39Z"
-discovered_at: "2026-08-03T22:09:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T22:02:39Z'
+discovered_at: '2026-08-03T22:09:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

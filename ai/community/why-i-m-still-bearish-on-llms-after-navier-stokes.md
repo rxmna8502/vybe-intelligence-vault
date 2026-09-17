@@ -13,13 +13,14 @@ collected_at: '2026-09-16T04:29:40.274227+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:why-i-m-still-bearish-on-llms-after-navier-stokes
 first_seen: '2026-09-16T04:29:40.274227+05:30'
 last_seen: '2026-09-16T04:29:40.274227+05:30'
 last_checked: '2026-09-16T04:29:40.274227+05:30'
 health_score: 100
 ---
+
 
 # Why I'm still bearish on LLMs after Navier-Stokes
 

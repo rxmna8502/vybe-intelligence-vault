@@ -1,19 +1,36 @@
 ---
-title: "mhmdwaelanwr/ai-product-photo-sorter"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Tkinter (GUI)", "SQLite", "Gemini API", "OpenAI API", "Anthropic API", "Ollama (local LLM)", "Shopify API", "Tkinter", "Pydantic", "FastAPI (MCP server)", "PyInstaller (packaging)"]
+title: mhmdwaelanwr/ai-product-photo-sorter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Tkinter (GUI)
+- SQLite
+- Gemini API
+- OpenAI API
+- Anthropic API
+- Ollama (local LLM)
+- Shopify API
+- Tkinter
+- Pydantic
+- FastAPI (MCP server)
+- PyInstaller (packaging)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["product photo organization", "SKU matching", "computer vision", "Shopify integration", "automation"]
-source: "https://github.com/mhmdwaelanwr/ai-product-photo-sorter"
+deployment_complexity: Medium
+tags:
+- product photo organization
+- SKU matching
+- computer vision
+- Shopify integration
+- automation
+source: https://github.com/mhmdwaelanwr/ai-product-photo-sorter
 stars: 1
-language: "Python"
-last_updated: "2026-09-03T15:32:20Z"
-discovered_at: "2026-09-03T15:36:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:32:20Z'
+discovered_at: '2026-09-03T15:36:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

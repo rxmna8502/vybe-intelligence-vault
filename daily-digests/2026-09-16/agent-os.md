@@ -1,19 +1,31 @@
 ---
-title: "dillondevoe/agent-os"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["NixOS", "Python", "Ollama", "Qwen 2.5 7B", "nftables", "Flakes", "Bash"]
+title: dillondevoe/agent-os
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- NixOS
+- Python
+- Ollama
+- Qwen 2.5 7B
+- nftables
+- Flakes
+- Bash
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["local-first AI", "sovereign computing", "NixOS", "offline AI", "markdown memory"]
-source: "https://github.com/dillondevoe/agent-os"
+deployment_complexity: High
+tags:
+- local-first AI
+- sovereign computing
+- NixOS
+- offline AI
+- markdown memory
+source: https://github.com/dillondevoe/agent-os
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T14:57:18Z"
-discovered_at: "2026-08-01T15:01:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T14:57:18Z'
+discovered_at: '2026-08-01T15:01:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

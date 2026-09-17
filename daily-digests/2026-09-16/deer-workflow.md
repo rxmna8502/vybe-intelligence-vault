@@ -1,19 +1,28 @@
 ---
-title: "Prosy4967/deer-workflow"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Graph-based workflows", "AI agents", "Windows desktop application"]
+title: Prosy4967/deer-workflow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Graph-based workflows
+- AI agents
+- Windows desktop application
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["workflow automation", "AI agents", "graph engine", "TypeScript", "desktop application"]
-source: "https://github.com/Prosy4967/deer-workflow"
+deployment_complexity: Medium
+tags:
+- workflow automation
+- AI agents
+- graph engine
+- TypeScript
+- desktop application
+source: https://github.com/Prosy4967/deer-workflow
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T00:01:22Z"
-discovered_at: "2026-08-07T00:01:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T00:01:22Z'
+discovered_at: '2026-08-07T00:01:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

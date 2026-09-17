@@ -1,19 +1,31 @@
 ---
-title: "theYahia/kontur-diadoc-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "Vitest", "Biome", "npm"]
+title: theYahia/kontur-diadoc-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- Vitest
+- Biome
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["EDI", "Document Management", "MCP Server", "Kontur.Diadoc", "AI Integration"]
-source: "https://github.com/theYahia/kontur-diadoc-mcp"
+deployment_complexity: Medium
+tags:
+- EDI
+- Document Management
+- MCP Server
+- Kontur.Diadoc
+- AI Integration
+source: https://github.com/theYahia/kontur-diadoc-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-09-02T19:11:54Z"
-discovered_at: "2026-09-02T19:14:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:11:54Z'
+discovered_at: '2026-09-02T19:14:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

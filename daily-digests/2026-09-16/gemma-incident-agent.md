@@ -1,19 +1,33 @@
 ---
-title: "swaroopramv/gemma-incident-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Gemma (Ollama)", "Pydantic", "FastAPI", "Ollama Tool Calling", "Lexical & Embedding RAG", "JSON Schema", "CI/CD (GitHub Actions)", "Ruff (Linting/Formatting)"]
+title: swaroopramv/gemma-incident-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Gemma (Ollama)
+- Pydantic
+- FastAPI
+- Ollama Tool Calling
+- Lexical & Embedding RAG
+- JSON Schema
+- CI/CD (GitHub Actions)
+- Ruff (Linting/Formatting)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Agent Orchestration", "Read-Only Tooling", "Hybrid RAG", "Structured Outputs", "Observability"]
-source: "https://github.com/swaroopramv/gemma-incident-agent"
+deployment_complexity: Medium
+tags:
+- AI Agent Orchestration
+- Read-Only Tooling
+- Hybrid RAG
+- Structured Outputs
+- Observability
+source: https://github.com/swaroopramv/gemma-incident-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T16:18:54Z"
-discovered_at: "2026-07-15T16:20:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T16:18:54Z'
+discovered_at: '2026-07-15T16:20:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

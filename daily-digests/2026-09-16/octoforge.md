@@ -1,19 +1,38 @@
 ---
-title: "dmirain/OctoForge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PostgreSQL", "FastAPI", "Docker", "SQLAlchemy", "Alembic", "Fernet (encryption)", "OpenAI-compatible models", "BM25", "Reciprocal Rank Fusion", "Telegram Bot API", "Caddy (for TLS)", "mypy", "ruff"]
+title: dmirain/OctoForge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- PostgreSQL
+- FastAPI
+- Docker
+- SQLAlchemy
+- Alembic
+- Fernet (encryption)
+- OpenAI-compatible models
+- BM25
+- Reciprocal Rank Fusion
+- Telegram Bot API
+- Caddy (for TLS)
+- mypy
+- ruff
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-user agents", "self-hosted", "typed Python core", "skills management", "secure API integration"]
-source: "https://github.com/dmirain/OctoForge"
+deployment_complexity: Medium
+tags:
+- multi-user agents
+- self-hosted
+- typed Python core
+- skills management
+- secure API integration
+source: https://github.com/dmirain/OctoForge
 stars: 18
-language: "Python"
-last_updated: "2026-08-02T10:29:58Z"
-discovered_at: "2026-08-02T10:41:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T10:29:58Z'
+discovered_at: '2026-08-02T10:41:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

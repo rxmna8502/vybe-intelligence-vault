@@ -1,19 +1,36 @@
 ---
-title: "hec-ovi/observer-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Speech-to-Text (ASR)", "Natural Language Processing (NLP)", "ECharts", "D3.js", "KaTeX", "Kyutai Pocket TTS", "ONNX Runtime Web", "yt-dlp", "ffmpeg"]
+title: hec-ovi/observer-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Speech-to-Text (ASR)
+- Natural Language Processing (NLP)
+- ECharts
+- D3.js
+- KaTeX
+- Kyutai Pocket TTS
+- ONNX Runtime Web
+- yt-dlp
+- ffmpeg
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["real-time video interaction", "MCP server", "transcription", "AI agent tooling", "visual artifact generation"]
-source: "https://github.com/hec-ovi/observer-skill"
+deployment_complexity: Medium
+tags:
+- real-time video interaction
+- MCP server
+- transcription
+- AI agent tooling
+- visual artifact generation
+source: https://github.com/hec-ovi/observer-skill
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T11:19:01Z"
-discovered_at: "2026-08-05T11:22:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T11:19:01Z'
+discovered_at: '2026-08-05T11:22:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "liliang-cn/cortexdb"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "RDF/SPARQL", "HNSW/IVF/Flat (vector indexes)", "gRPC", "MCP (Model Context Protocol)", "FTS5 (full-text search)", "RDFS/SHACL"]
+title: liliang-cn/cortexdb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- SQLite
+- RDF/SPARQL
+- HNSW/IVF/Flat (vector indexes)
+- gRPC
+- MCP (Model Context Protocol)
+- FTS5 (full-text search)
+- RDFS/SHACL
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["embedded AI memory", "knowledge graph", "RAG", "SQLite", "MCP tools"]
-source: "https://github.com/liliang-cn/cortexdb"
+deployment_complexity: Medium
+tags:
+- embedded AI memory
+- knowledge graph
+- RAG
+- SQLite
+- MCP tools
+source: https://github.com/liliang-cn/cortexdb
 stars: 246
-language: "Go"
-last_updated: "2026-08-08T03:16:41Z"
-discovered_at: "2026-08-08T03:28:14Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T03:16:41Z'
+discovered_at: '2026-08-08T03:28:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

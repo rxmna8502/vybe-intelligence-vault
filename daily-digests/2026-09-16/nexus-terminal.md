@@ -1,19 +1,29 @@
 ---
-title: "brutal-45/Nexus-Terminal"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "npm", "Terminal UI", "Markdown Rendering"]
+title: brutal-45/Nexus-Terminal
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Node.js
+- JavaScript
+- npm
+- Terminal UI
+- Markdown Rendering
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["terminal assistant", "AI model selector", "conversation management", "markdown rendering", "CLI tool"]
-source: "https://github.com/brutal-45/Nexus-Terminal"
+deployment_complexity: Low
+tags:
+- terminal assistant
+- AI model selector
+- conversation management
+- markdown rendering
+- CLI tool
+source: https://github.com/brutal-45/Nexus-Terminal
 stars: 2
-language: "Python"
-last_updated: "2026-09-02T19:07:13Z"
-discovered_at: "2026-09-02T19:11:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T19:07:13Z'
+discovered_at: '2026-09-02T19:11:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

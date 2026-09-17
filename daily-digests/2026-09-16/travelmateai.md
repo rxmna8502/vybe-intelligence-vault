@@ -1,19 +1,32 @@
 ---
-title: "arya-prasanth/TravelMateAI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "HTML5", "CSS3", "JavaScript", "Groq AI API", "OpenWeather API", "Unsplash API"]
+title: arya-prasanth/TravelMateAI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Flask
+- HTML5
+- CSS3
+- JavaScript
+- Groq AI API
+- OpenWeather API
+- Unsplash API
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["travel planning", "AI recommendations", "real-time weather", "Flask application", "API integration"]
-source: "https://github.com/arya-prasanth/TravelMateAI"
+deployment_complexity: Medium
+tags:
+- travel planning
+- AI recommendations
+- real-time weather
+- Flask application
+- API integration
+source: https://github.com/arya-prasanth/TravelMateAI
 stars: 0
-language: "CSS"
-last_updated: "2026-08-02T19:23:40Z"
-discovered_at: "2026-08-02T19:25:27Z"
-evaluated_by: "mistral-small-latest"
+language: CSS
+last_updated: '2026-08-02T19:23:40Z'
+discovered_at: '2026-08-02T19:25:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

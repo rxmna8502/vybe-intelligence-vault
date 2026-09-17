@@ -1,19 +1,31 @@
 ---
-title: "simozampa/clankerchat"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Git", "MCP (Model Context Protocol)", "CLI", "MCP Tools"]
+title: simozampa/clankerchat
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Git
+- MCP (Model Context Protocol)
+- CLI
+- MCP Tools
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent communication", "multi-agent coordination", "local messaging", "SQLite persistence", "Git integration"]
-source: "https://github.com/simozampa/clankerchat"
+deployment_complexity: Medium
+tags:
+- agent communication
+- multi-agent coordination
+- local messaging
+- SQLite persistence
+- Git integration
+source: https://github.com/simozampa/clankerchat
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-10T01:19:58Z"
-discovered_at: "2026-08-10T01:35:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T01:19:58Z'
+discovered_at: '2026-08-10T01:35:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

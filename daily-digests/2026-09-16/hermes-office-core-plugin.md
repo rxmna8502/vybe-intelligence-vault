@@ -1,19 +1,31 @@
 ---
-title: "Tinycute00/hermes-office-core-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "OfficeCLI", "PowerShell", "Codex Plugin System", "SHA-256 Hashing", "FTS5 Full-Text Search"]
+title: Tinycute00/hermes-office-core-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- SQLite
+- OfficeCLI
+- PowerShell
+- Codex Plugin System
+- SHA-256 Hashing
+- FTS5 Full-Text Search
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Office Automation", "Local-First AI", "File Processing", "Session Management", "Security Controls"]
-source: "https://github.com/Tinycute00/hermes-office-core-plugin"
+deployment_complexity: Medium
+tags:
+- Office Automation
+- Local-First AI
+- File Processing
+- Session Management
+- Security Controls
+source: https://github.com/Tinycute00/hermes-office-core-plugin
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T08:02:31Z"
-discovered_at: "2026-07-15T08:05:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T08:02:31Z'
+discovered_at: '2026-07-15T08:05:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

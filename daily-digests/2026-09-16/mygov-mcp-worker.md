@@ -1,19 +1,30 @@
 ---
-title: "mfaizalzain/mygov-mcp-worker"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Cloudflare Workers", "MCP (Model Context Protocol)", "JSON-RPC", "HTTP/HTTPS", "Protobuf"]
+title: mfaizalzain/mygov-mcp-worker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Cloudflare Workers
+- MCP (Model Context Protocol)
+- JSON-RPC
+- HTTP/HTTPS
+- Protobuf
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["MCP server", "Government API", "Streamable HTTP", "OpenAI plugin", "Malaysia data"]
-source: "https://github.com/mfaizalzain/mygov-mcp-worker"
+deployment_complexity: Low
+tags:
+- MCP server
+- Government API
+- Streamable HTTP
+- OpenAI plugin
+- Malaysia data
+source: https://github.com/mfaizalzain/mygov-mcp-worker
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-10T09:24:06Z"
-discovered_at: "2026-08-10T09:25:32Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T09:24:06Z'
+discovered_at: '2026-08-10T09:25:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

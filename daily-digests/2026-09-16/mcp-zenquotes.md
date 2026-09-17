@@ -1,19 +1,28 @@
 ---
-title: "pipeworx-io/mcp-zenquotes"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "JSON"]
+title: pipeworx-io/mcp-zenquotes
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- REST API
+- JSON
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["MCP server", "inspirational quotes", "API wrapper", "fallback mechanism", "AI data integration"]
-source: "https://github.com/pipeworx-io/mcp-zenquotes"
+deployment_complexity: Low
+tags:
+- MCP server
+- inspirational quotes
+- API wrapper
+- fallback mechanism
+- AI data integration
+source: https://github.com/pipeworx-io/mcp-zenquotes
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-04T07:32:16Z"
-discovered_at: "2026-08-04T07:41:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:32:16Z'
+discovered_at: '2026-08-04T07:41:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

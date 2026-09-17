@@ -1,19 +1,34 @@
 ---
-title: "julep-ai/julep"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Temporal", "FastAPI", "PostgreSQL", "MCP (Model Context Protocol)", "HTTP", "WASM", "OpenTelemetry", "Langfuse", "Kubernetes"]
+title: julep-ai/julep
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Temporal
+- FastAPI
+- PostgreSQL
+- MCP (Model Context Protocol)
+- HTTP
+- WASM
+- OpenTelemetry
+- Langfuse
+- Kubernetes
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["AI agents", "durable execution", "composable flows", "MCP integration", "Temporal workflows"]
-source: "https://github.com/julep-ai/julep"
+deployment_complexity: High
+tags:
+- AI agents
+- durable execution
+- composable flows
+- MCP integration
+- Temporal workflows
+source: https://github.com/julep-ai/julep
 stars: 6602
-language: "Python"
-last_updated: "2026-07-31T16:13:02Z"
-discovered_at: "2026-08-01T16:07:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-31T16:13:02Z'
+discovered_at: '2026-08-01T16:07:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

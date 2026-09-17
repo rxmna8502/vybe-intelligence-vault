@@ -1,19 +1,35 @@
 ---
-title: "HKTITAN/dbms-agent-memory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "SQLite", "PostgreSQL", "pgvector", "PGlite (WebAssembly PostgreSQL)", "MiniLM-L6-v2 (embedding model)", "@huggingface/transformers", "Node.js", "JSONL", "RRF (Reciprocal Rank Fusion)"]
+title: HKTITAN/dbms-agent-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Next.js
+- SQLite
+- PostgreSQL
+- pgvector
+- PGlite (WebAssembly PostgreSQL)
+- MiniLM-L6-v2 (embedding model)
+- '@huggingface/transformers'
+- Node.js
+- JSONL
+- RRF (Reciprocal Rank Fusion)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["agent memory", "persistent storage", "RAG evaluation", "database performance", "embedding models"]
-source: "https://github.com/HKTITAN/dbms-agent-memory"
+deployment_complexity: Low
+tags:
+- agent memory
+- persistent storage
+- RAG evaluation
+- database performance
+- embedding models
+source: https://github.com/HKTITAN/dbms-agent-memory
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T12:36:29Z"
-discovered_at: "2026-08-09T12:51:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T12:36:29Z'
+discovered_at: '2026-08-09T12:51:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

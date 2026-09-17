@@ -1,19 +1,28 @@
 ---
-title: "yigido41/agentic-ai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "LLM Integration"]
+title: yigido41/agentic-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- LLM Integration
 quality_score: 4
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI Agents", "ReAct", "Reflection", "Modular LLM", "Prototyping"]
-source: "https://github.com/yigido41/agentic-ai"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- ReAct
+- Reflection
+- Modular LLM
+- Prototyping
+source: https://github.com/yigido41/agentic-ai
 stars: 2
-language: "Python"
-last_updated: "2026-09-01T22:12:44Z"
-discovered_at: "2026-09-01T22:17:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:12:44Z'
+discovered_at: '2026-09-01T22:17:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "peilinok/cc-redline"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "HTML/CSS", "Markdown", "SSE (Server-Sent Events)", "Claude Code"]
+title: peilinok/cc-redline
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Node.js
+- HTML/CSS
+- Markdown
+- SSE (Server-Sent Events)
+- Claude Code
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["Markdown editing", "real-time collaboration", "Claude Code skill", "annotation tool", "bilingual UI"]
-source: "https://github.com/peilinok/cc-redline"
+deployment_complexity: Low
+tags:
+- Markdown editing
+- real-time collaboration
+- Claude Code skill
+- annotation tool
+- bilingual UI
+source: https://github.com/peilinok/cc-redline
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-18T14:46:37Z"
-discovered_at: "2026-07-18T14:50:39Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T14:46:37Z'
+discovered_at: '2026-07-18T14:50:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

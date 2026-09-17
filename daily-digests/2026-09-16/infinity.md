@@ -1,19 +1,31 @@
 ---
-title: "infiniflow/infinity"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C++", "Python", "Docker", "SQL", "Vector Search", "Full-Text Search", "Hybrid Search"]
+title: infiniflow/infinity
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- C++
+- Python
+- Docker
+- SQL
+- Vector Search
+- Full-Text Search
+- Hybrid Search
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector database", "hybrid search", "LLM applications", "RAG", "real-time retrieval"]
-source: "https://github.com/infiniflow/infinity"
+deployment_complexity: Medium
+tags:
+- vector database
+- hybrid search
+- LLM applications
+- RAG
+- real-time retrieval
+source: https://github.com/infiniflow/infinity
 stars: 4701
-language: "C++"
-last_updated: "2026-09-04T02:06:21Z"
-discovered_at: "2026-09-04T02:21:46Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-09-04T02:06:21Z'
+discovered_at: '2026-09-04T02:21:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

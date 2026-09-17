@@ -1,19 +1,34 @@
 ---
-title: "kafkazhang/seek_code"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "DeepSeek-V4", "BM25", "Tesseract.js", "Electron-Vite", "Monaco Editor", "Mermaid.js"]
+title: kafkazhang/seek_code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- DeepSeek-V4
+- BM25
+- Tesseract.js
+- Electron-Vite
+- Monaco Editor
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local AI coding", "DeepSeek integration", "multi-agent collaboration", "desktop agent", "code indexing"]
-source: "https://github.com/kafkazhang/seek_code"
+deployment_complexity: Medium
+tags:
+- local AI coding
+- DeepSeek integration
+- multi-agent collaboration
+- desktop agent
+- code indexing
+source: https://github.com/kafkazhang/seek_code
 stars: 27
-language: "TypeScript"
-last_updated: "2026-08-09T10:27:36Z"
-discovered_at: "2026-08-09T10:37:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T10:27:36Z'
+discovered_at: '2026-08-09T10:37:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

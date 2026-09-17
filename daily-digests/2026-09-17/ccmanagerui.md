@@ -1,19 +1,30 @@
 ---
-title: "LunarWerxs/CCManagerUI"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Bun", "Electron", "MCP (Model Context Protocol)", "React", "Node.js"]
+title: LunarWerxs/CCManagerUI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Bun
+- Electron
+- MCP (Model Context Protocol)
+- React
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Claude management", "local dashboard", "session monitoring", "queue orchestration", "MCP integration"]
-source: "https://github.com/LunarWerxs/CCManagerUI"
+deployment_complexity: Low
+tags:
+- Claude management
+- local dashboard
+- session monitoring
+- queue orchestration
+- MCP integration
+source: https://github.com/LunarWerxs/CCManagerUI
 stars: 8
-language: "TypeScript"
-last_updated: "2026-07-18T18:59:22Z"
-discovered_at: "2026-07-18T19:02:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T18:59:22Z'
+discovered_at: '2026-07-18T19:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

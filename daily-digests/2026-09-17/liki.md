@@ -1,19 +1,29 @@
 ---
-title: "ml8s/liki"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "JavaScript/TypeScript", "Python", "API Integration", "LLM (Large Language Model)"]
+title: ml8s/liki
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Shell
+- JavaScript/TypeScript
+- Python
+- API Integration
+- LLM (Large Language Model)
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["metaphysics", "BaZi", "Feng Shui", "divination", "naming"]
-source: "https://github.com/ml8s/liki"
+deployment_complexity: Medium
+tags:
+- metaphysics
+- BaZi
+- Feng Shui
+- divination
+- naming
+source: https://github.com/ml8s/liki
 stars: 0
-language: "Shell"
-last_updated: "2026-07-12T05:48:51Z"
-discovered_at: "2026-07-12T05:56:19Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-12T05:48:51Z'
+discovered_at: '2026-07-12T05:56:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

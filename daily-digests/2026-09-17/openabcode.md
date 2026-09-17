@@ -1,19 +1,33 @@
 ---
-title: "matrixmapai/openabcode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React (TUI)", "OpenAI API", "Anthropic API", "Google Generative AI API", "Docker", "npm", "Jest (testing)"]
+title: matrixmapai/openabcode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- React (TUI)
+- OpenAI API
+- Anthropic API
+- Google Generative AI API
+- Docker
+- npm
+- Jest (testing)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["coding agent", "model routing", "terminal UI", "multi-provider", "automation"]
-source: "https://github.com/matrixmapai/openabcode"
+deployment_complexity: Medium
+tags:
+- coding agent
+- model routing
+- terminal UI
+- multi-provider
+- automation
+source: https://github.com/matrixmapai/openabcode
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-13T06:11:55Z"
-discovered_at: "2026-07-13T06:15:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T06:11:55Z'
+discovered_at: '2026-07-13T06:15:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

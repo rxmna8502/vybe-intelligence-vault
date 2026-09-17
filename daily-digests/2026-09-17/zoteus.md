@@ -1,19 +1,34 @@
 ---
-title: "oscardvs/zoteus"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Zotero Web API v3", "Zotero Desktop Local API", "citeproc-js", "Citation Style Language (CSL)", "OpenAlex", "Crossref", "Semantic Scholar", "Node.js"]
+title: oscardvs/zoteus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Zotero Web API v3
+- Zotero Desktop Local API
+- citeproc-js
+- Citation Style Language (CSL)
+- OpenAlex
+- Crossref
+- Semantic Scholar
+- Node.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["MCP server", "Zotero integration", "citation management", "local-first AI", "semantic search"]
-source: "https://github.com/oscardvs/zoteus"
+deployment_complexity: Low
+tags:
+- MCP server
+- Zotero integration
+- citation management
+- local-first AI
+- semantic search
+source: https://github.com/oscardvs/zoteus
 stars: 18
-language: "TypeScript"
-last_updated: "2026-07-20T17:59:21Z"
-discovered_at: "2026-07-20T18:00:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T17:59:21Z'
+discovered_at: '2026-07-20T18:00:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

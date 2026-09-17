@@ -1,19 +1,32 @@
 ---
-title: "Perseus-Computing-LLC/perseus-vault"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "SQLite", "AES-256-GCM (encryption)", "BM25 (retrieval)", "Dense embeddings", "Reciprocal Rank Fusion (RRF)", "MCP (Model Context Protocol)", "JSON-RPC"]
+title: Perseus-Computing-LLC/perseus-vault
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- SQLite
+- AES-256-GCM (encryption)
+- BM25 (retrieval)
+- Dense embeddings
+- Reciprocal Rank Fusion (RRF)
+- MCP (Model Context Protocol)
+- JSON-RPC
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["persistent memory", "local-first", "encrypted storage", "MCP server", "agent memory"]
-source: "https://github.com/Perseus-Computing-LLC/perseus-vault"
+deployment_complexity: Low
+tags:
+- persistent memory
+- local-first
+- encrypted storage
+- MCP server
+- agent memory
+source: https://github.com/Perseus-Computing-LLC/perseus-vault
 stars: 70
-language: "Rust"
-last_updated: "2026-09-04T02:05:02Z"
-discovered_at: "2026-09-04T02:17:07Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-04T02:05:02Z'
+discovered_at: '2026-09-04T02:17:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

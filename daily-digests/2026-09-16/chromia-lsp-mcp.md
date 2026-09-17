@@ -1,19 +1,29 @@
 ---
-title: "ChromiaProject/chromia-lsp-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Language Server Protocol (LSP)", "Bun"]
+title: ChromiaProject/chromia-lsp-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Language Server Protocol (LSP)
+- Bun
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "Rell LSP", "AI code analysis", "language server", "code diagnostics"]
-source: "https://github.com/ChromiaProject/chromia-lsp-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- Rell LSP
+- AI code analysis
+- language server
+- code diagnostics
+source: https://github.com/ChromiaProject/chromia-lsp-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T11:58:20Z"
-discovered_at: "2026-08-02T12:02:46Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T11:58:20Z'
+discovered_at: '2026-08-02T12:02:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

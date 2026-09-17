@@ -1,19 +1,28 @@
 ---
-title: "markmnl/fmsg-mcp-claude"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "fmsg API", "Claude Desktop/Code/Web"]
+title: markmnl/fmsg-mcp-claude
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- fmsg API
+- Claude Desktop/Code/Web
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["session sharing", "context preservation", "MCP server", "Claude integration", "fmsg protocol"]
-source: "https://github.com/markmnl/fmsg-mcp-claude"
+deployment_complexity: Medium
+tags:
+- session sharing
+- context preservation
+- MCP server
+- Claude integration
+- fmsg protocol
+source: https://github.com/markmnl/fmsg-mcp-claude
 stars: 0
-language: "Go"
-last_updated: "2026-08-04T13:01:06Z"
-discovered_at: "2026-08-04T13:04:08Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T13:01:06Z'
+discovered_at: '2026-08-04T13:04:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

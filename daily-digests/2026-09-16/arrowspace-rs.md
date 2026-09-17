@@ -1,19 +1,30 @@
 ---
-title: "tuned-org-uk/arrowspace-rs"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Graph Theory", "Linear Algebra", "Spectral Analysis", "Rayleigh-Laplacian Scoring", "CSR (Compressed Sparse Row) Matrices"]
+title: tuned-org-uk/arrowspace-rs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Graph Theory
+- Linear Algebra
+- Spectral Analysis
+- Rayleigh-Laplacian Scoring
+- CSR (Compressed Sparse Row) Matrices
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["vector search", "spectral analysis", "graph-based indexing", "Rust", "dispersion models"]
-source: "https://github.com/tuned-org-uk/arrowspace-rs"
+deployment_complexity: Medium
+tags:
+- vector search
+- spectral analysis
+- graph-based indexing
+- Rust
+- dispersion models
+source: https://github.com/tuned-org-uk/arrowspace-rs
 stars: 41
-language: "Rust"
-last_updated: "2026-08-10T17:21:32Z"
-discovered_at: "2026-08-10T18:01:36Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-10T17:21:32Z'
+discovered_at: '2026-08-10T18:01:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

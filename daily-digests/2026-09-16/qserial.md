@@ -1,19 +1,34 @@
 ---
-title: "qiuchengcai/QSerial"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "React", "TypeScript", "Model Context Protocol (MCP)", "xterm.js", "Tailwind CSS", "Zustand", "Vite", "pnpm", "Vitest"]
+title: qiuchengcai/QSerial
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Model Context Protocol (MCP)
+- xterm.js
+- Tailwind CSS
+- Zustand
+- Vite
+- pnpm
+- Vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP integration", "serial communication", "AI-native terminal", "hardware automation", "cross-platform"]
-source: "https://github.com/qiuchengcai/QSerial"
+deployment_complexity: Medium
+tags:
+- MCP integration
+- serial communication
+- AI-native terminal
+- hardware automation
+- cross-platform
+source: https://github.com/qiuchengcai/QSerial
 stars: 10
-language: "TypeScript"
-last_updated: "2026-08-02T08:19:07Z"
-discovered_at: "2026-08-02T08:22:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T08:19:07Z'
+discovered_at: '2026-08-02T08:22:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

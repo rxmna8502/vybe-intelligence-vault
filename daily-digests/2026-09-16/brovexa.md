@@ -1,19 +1,30 @@
 ---
-title: "Vertex-Systems-Network/brovexa"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "GitHub Actions", "Parallel AI Agent Development", "Atomic Branch Leases", "CI/CD Pipelines"]
+title: Vertex-Systems-Network/brovexa
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- GitHub Actions
+- Parallel AI Agent Development
+- Atomic Branch Leases
+- CI/CD Pipelines
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["AI orchestration", "parallel agents", "business intelligence", "lead generation", "governance framework"]
-source: "https://github.com/Vertex-Systems-Network/brovexa"
+deployment_complexity: High
+tags:
+- AI orchestration
+- parallel agents
+- business intelligence
+- lead generation
+- governance framework
+source: https://github.com/Vertex-Systems-Network/brovexa
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-03T19:01:36Z"
-discovered_at: "2026-09-03T19:03:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T19:01:36Z'
+discovered_at: '2026-09-03T19:03:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

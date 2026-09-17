@@ -1,19 +1,35 @@
 ---
-title: "ParaTensor/zene"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Next.js", "Tailwind CSS", "TypeScript", "Keel (sandboxing)", "OpenAI API", "Anthropic API", "Tavily (web search)", "DuckDuckGo (web search)", "GitHub API", "MCP (Model Context Protocol)"]
+title: ParaTensor/zene
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Keel (sandboxing)
+- OpenAI API
+- Anthropic API
+- Tavily (web search)
+- DuckDuckGo (web search)
+- GitHub API
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "sandboxed execution", "multi-user cloud console", "Agent Client Protocol", "self-healing"]
-source: "https://github.com/ParaTensor/zene"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- sandboxed execution
+- multi-user cloud console
+- Agent Client Protocol
+- self-healing
+source: https://github.com/ParaTensor/zene
 stars: 1
-language: "Rust"
-last_updated: "2026-08-09T14:30:58Z"
-discovered_at: "2026-08-09T14:37:47Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T14:30:58Z'
+discovered_at: '2026-08-09T14:37:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

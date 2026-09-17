@@ -1,19 +1,45 @@
 ---
-title: "natureco-official/natureco-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "npm", "Telegram Bot API", "Discord.js", "Slack API", "Baileys (WhatsApp)", "imsg CLI (iMessage)", "Twilio (SMS)", "OpenAI API", "Anthropic API", "Gemini API", "Groq API", "DeepSeek API", "Ollama", "MiniMax API", "OpenRouter", "Mistral API", "Cohere API", "xAI API", "Together API"]
+title: natureco-official/natureco-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Node.js
+- npm
+- Telegram Bot API
+- Discord.js
+- Slack API
+- Baileys (WhatsApp)
+- imsg CLI (iMessage)
+- Twilio (SMS)
+- OpenAI API
+- Anthropic API
+- Gemini API
+- Groq API
+- DeepSeek API
+- Ollama
+- MiniMax API
+- OpenRouter
+- Mistral API
+- Cohere API
+- xAI API
+- Together API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "terminal automation", "multi-platform chat", "code execution", "security-focused"]
-source: "https://github.com/natureco-official/natureco-cli"
+deployment_complexity: Medium
+tags:
+- AI agent
+- terminal automation
+- multi-platform chat
+- code execution
+- security-focused
+source: https://github.com/natureco-official/natureco-cli
 stars: 2
-language: "JavaScript"
-last_updated: "2026-07-10T23:06:30Z"
-discovered_at: "2026-07-10T23:08:14Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T23:06:30Z'
+discovered_at: '2026-07-10T23:08:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

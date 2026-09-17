@@ -1,19 +1,33 @@
 ---
-title: "api-evangelist/chroma"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "JavaScript/TypeScript", "Rust", "REST API", "OpenAPI", "Postman", "Apache 2.0", "Vector Database", "Embedding Models"]
+title: api-evangelist/chroma
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- JavaScript/TypeScript
+- Rust
+- REST API
+- OpenAPI
+- Postman
+- Apache 2.0
+- Vector Database
+- Embedding Models
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Vector Database", "RAG", "Embeddings", "Multi-Modal Search", "AI-Native"]
-source: "https://github.com/api-evangelist/chroma"
+deployment_complexity: Medium
+tags:
+- Vector Database
+- RAG
+- Embeddings
+- Multi-Modal Search
+- AI-Native
+source: https://github.com/api-evangelist/chroma
 stars: 0
-language: "None"
-last_updated: "2026-08-08T00:45:58Z"
-discovered_at: "2026-08-08T01:28:03Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T00:45:58Z'
+discovered_at: '2026-08-08T01:28:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

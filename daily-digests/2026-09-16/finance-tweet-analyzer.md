@@ -1,19 +1,38 @@
 ---
-title: "arjun-go-go/finance-tweet-analyzer"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "LangGraph", "LangChain", "ChromaDB", "PostgreSQL", "Redis", "Celery", "Next.js", "Python 3.12+", "TypeScript", "Tailwind CSS", "OpenRouter", "DashScope", "mem0"]
+title: arjun-go-go/finance-tweet-analyzer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- FastAPI
+- LangGraph
+- LangChain
+- ChromaDB
+- PostgreSQL
+- Redis
+- Celery
+- Next.js
+- Python 3.12+
+- TypeScript
+- Tailwind CSS
+- OpenRouter
+- DashScope
+- mem0
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["multi-agent orchestration", "hybrid RAG", "financial analysis", "real-time streaming", "enterprise AI"]
-source: "https://github.com/arjun-go-go/finance-tweet-analyzer"
+deployment_complexity: High
+tags:
+- multi-agent orchestration
+- hybrid RAG
+- financial analysis
+- real-time streaming
+- enterprise AI
+source: https://github.com/arjun-go-go/finance-tweet-analyzer
 stars: 2
-language: "Python"
-last_updated: "2026-07-18T13:01:18Z"
-discovered_at: "2026-07-18T13:09:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T13:01:18Z'
+discovered_at: '2026-07-18T13:09:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "Arhitect-Nagual-Agent/Eternal-Nagual"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "asyncio", "Docker", "LLM APIs (NVIDIA NIM, Google AI Studio, OpenRouter, Anthropic, etc.)", "Next.js", "React Three Fiber", "Telegram API", "Git", "SQLite/Vector DB (optional)"]
+title: Arhitect-Nagual-Agent/Eternal-Nagual
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- asyncio
+- Docker
+- LLM APIs (NVIDIA NIM, Google AI Studio, OpenRouter, Anthropic, etc.)
+- Next.js
+- React Three Fiber
+- Telegram API
+- Git
+- SQLite/Vector DB (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "persistent memory", "Toltec architecture", "LLM router", "self-patching"]
-source: "https://github.com/Arhitect-Nagual-Agent/Eternal-Nagual"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- persistent memory
+- Toltec architecture
+- LLM router
+- self-patching
+source: https://github.com/Arhitect-Nagual-Agent/Eternal-Nagual
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T08:06:31Z"
-discovered_at: "2026-07-18T08:09:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T08:06:31Z'
+discovered_at: '2026-07-18T08:09:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "jdguggs10/flaim"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "Cloudflare Workers", "Supabase", "MCP (Model Context Protocol)", "OAuth 2.0", "Chrome Extension", "React", "Vercel"]
+title: jdguggs10/flaim
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Next.js
+- Cloudflare Workers
+- Supabase
+- MCP (Model Context Protocol)
+- OAuth 2.0
+- Chrome Extension
+- React
+- Vercel
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Fantasy Sports", "MCP Server", "AI Integration", "Data Connector", "Read-Only Analytics"]
-source: "https://github.com/jdguggs10/flaim"
+deployment_complexity: Medium
+tags:
+- Fantasy Sports
+- MCP Server
+- AI Integration
+- Data Connector
+- Read-Only Analytics
+source: https://github.com/jdguggs10/flaim
 stars: 10
-language: "TypeScript"
-last_updated: "2026-08-05T02:03:55Z"
-discovered_at: "2026-08-05T02:18:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T02:03:55Z'
+discovered_at: '2026-08-05T02:18:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

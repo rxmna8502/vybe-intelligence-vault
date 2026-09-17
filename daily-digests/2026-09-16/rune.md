@@ -1,19 +1,31 @@
 ---
-title: "raniere57/rune"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Swift", "SwiftUI", "AppKit", "JSONL", "macOS", "Oh My Pi (omp)", "OpenCode Zen"]
+title: raniere57/rune
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Swift
+- SwiftUI
+- AppKit
+- JSONL
+- macOS
+- Oh My Pi (omp)
+- OpenCode Zen
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["macOS agent", "AI coding assistant", "menu bar app", "Oh My Pi integration", "zero-cost LLM"]
-source: "https://github.com/raniere57/rune"
+deployment_complexity: Medium
+tags:
+- macOS agent
+- AI coding assistant
+- menu bar app
+- Oh My Pi integration
+- zero-cost LLM
+source: https://github.com/raniere57/rune
 stars: 0
-language: "Swift"
-last_updated: "2026-08-04T10:34:58Z"
-discovered_at: "2026-08-04T10:39:12Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-08-04T10:34:58Z'
+discovered_at: '2026-08-04T10:39:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

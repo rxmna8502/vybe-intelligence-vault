@@ -1,19 +1,30 @@
 ---
-title: "rayyan-41/avicenna-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PowerShell", "Obsidian", "Model Context Protocol (MCP)", "TUI (Text User Interface)", "Git"]
+title: rayyan-41/avicenna-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- PowerShell
+- Obsidian
+- Model Context Protocol (MCP)
+- TUI (Text User Interface)
+- Git
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["note-generation", "obsidian-integration", "terminal-ui", "deterministic-pipeline", "mcp-support"]
-source: "https://github.com/rayyan-41/avicenna-agent"
+deployment_complexity: Medium
+tags:
+- note-generation
+- obsidian-integration
+- terminal-ui
+- deterministic-pipeline
+- mcp-support
+source: https://github.com/rayyan-41/avicenna-agent
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T11:59:20Z"
-discovered_at: "2026-08-02T12:02:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T11:59:20Z'
+discovered_at: '2026-08-02T12:02:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

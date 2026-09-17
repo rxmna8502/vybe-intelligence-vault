@@ -1,19 +1,34 @@
 ---
-title: "taxueseek/argo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PyYAML", "curl_cffi", "DuckDuckGo CLI", "SQLite", "Playwright", "Chrome", "PDF extraction libraries", "Node.js (for MCP integration)", "GitHub Actions (CI/CD)"]
+title: taxueseek/argo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- PyYAML
+- curl_cffi
+- DuckDuckGo CLI
+- SQLite
+- Playwright
+- Chrome
+- PDF extraction libraries
+- Node.js (for MCP integration)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Agent search", "Multi-language", "Evidence-based", "Vertical routing", "MCP integration"]
-source: "https://github.com/taxueseek/argo"
+deployment_complexity: Medium
+tags:
+- Agent search
+- Multi-language
+- Evidence-based
+- Vertical routing
+- MCP integration
+source: https://github.com/taxueseek/argo
 stars: 113
-language: "Python"
-last_updated: "2026-09-01T15:51:12Z"
-discovered_at: "2026-09-01T15:53:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:51:12Z'
+discovered_at: '2026-09-01T15:53:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

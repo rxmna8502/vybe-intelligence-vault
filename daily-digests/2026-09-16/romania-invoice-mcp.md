@@ -1,19 +1,30 @@
 ---
-title: "junter1989k-ai/romania-invoice-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "XML (UBL 2.1 CIUS-RO)", "ANAF e-Factura API"]
+title: junter1989k-ai/romania-invoice-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- XML (UBL 2.1 CIUS-RO)
+- ANAF e-Factura API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["e-Factura", "ANAF", "UBL 2.1", "Romania invoicing", "MCP server"]
-source: "https://github.com/junter1989k-ai/romania-invoice-mcp"
+deployment_complexity: Medium
+tags:
+- e-Factura
+- ANAF
+- UBL 2.1
+- Romania invoicing
+- MCP server
+source: https://github.com/junter1989k-ai/romania-invoice-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-10T13:02:57Z"
-discovered_at: "2026-07-10T13:12:28Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T13:02:57Z'
+discovered_at: '2026-07-10T13:12:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

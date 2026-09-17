@@ -1,19 +1,37 @@
 ---
-title: "sailorpepe/undesirables-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "Ollama", "Qwen VL", "MLX Flux", "DirectML", "CUDA", "Kokoro TTS", "FFmpeg", "DuckDuckGo", "EVM", "Hugging Face", "LangChain"]
+title: sailorpepe/undesirables-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastMCP
+- Ollama
+- Qwen VL
+- MLX Flux
+- DirectML
+- CUDA
+- Kokoro TTS
+- FFmpeg
+- DuckDuckGo
+- EVM
+- Hugging Face
+- LangChain
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Local AI Tools", "Zero Cloud Dependency", "Agent Economy", "TCG Card Grading"]
-source: "https://github.com/sailorpepe/undesirables-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Local AI Tools
+- Zero Cloud Dependency
+- Agent Economy
+- TCG Card Grading
+source: https://github.com/sailorpepe/undesirables-mcp-server
 stars: 1
-language: "Python"
-last_updated: "2026-07-16T14:56:27Z"
-discovered_at: "2026-07-16T15:00:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T14:56:27Z'
+discovered_at: '2026-07-16T15:00:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

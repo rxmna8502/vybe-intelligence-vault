@@ -1,19 +1,32 @@
 ---
-title: "mixelpixx/Konnect"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "KiCAD 10", "Model Context Protocol (MCP)", "Protobuf", "NNG", "S-expressions", "kicad-cli", "JLCPCB API"]
+title: mixelpixx/Konnect
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- KiCAD 10
+- Model Context Protocol (MCP)
+- Protobuf
+- NNG
+- S-expressions
+- kicad-cli
+- JLCPCB API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["PCB design", "KiCAD plugin", "AI-assisted engineering", "MCP server", "hardware automation"]
-source: "https://github.com/mixelpixx/Konnect"
+deployment_complexity: Medium
+tags:
+- PCB design
+- KiCAD plugin
+- AI-assisted engineering
+- MCP server
+- hardware automation
+source: https://github.com/mixelpixx/Konnect
 stars: 24
-language: "Rust"
-last_updated: "2026-07-11T02:10:53Z"
-discovered_at: "2026-07-11T02:27:55Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-11T02:10:53Z'
+discovered_at: '2026-07-11T02:27:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

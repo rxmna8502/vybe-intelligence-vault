@@ -1,19 +1,30 @@
 ---
-title: "benitolopez/ker"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "OpenAI API", "HTTP/HTTPS", "SSE (Server-Sent Events)", "OAuth"]
+title: benitolopez/ker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- OpenAI API
+- HTTP/HTTPS
+- SSE (Server-Sent Events)
+- OAuth
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["minimal agent", "conversation memory", "streaming LLM", "OpenAI integration", "TypeScript"]
-source: "https://github.com/benitolopez/ker"
+deployment_complexity: Medium
+tags:
+- minimal agent
+- conversation memory
+- streaming LLM
+- OpenAI integration
+- TypeScript
+source: https://github.com/benitolopez/ker
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-10T18:14:54Z"
-discovered_at: "2026-07-10T18:22:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T18:14:54Z'
+discovered_at: '2026-07-10T18:22:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "edycutjong/porchlight"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Express", "Minds SDK (@animocabrands/minds-client-lib)", "SQLite", "zod", "Playwright", "GitHub Actions", "semantic-release"]
+title: edycutjong/porchlight
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- Minds SDK (@animocabrands/minds-client-lib)
+- SQLite
+- zod
+- Playwright
+- GitHub Actions
+- semantic-release
 quality_score: 10
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["exit interview automation", "churn recovery", "semantic reasoning", "long-term memory", "autonomous agent"]
-source: "https://github.com/edycutjong/porchlight"
+deployment_complexity: Medium
+tags:
+- exit interview automation
+- churn recovery
+- semantic reasoning
+- long-term memory
+- autonomous agent
+source: https://github.com/edycutjong/porchlight
 stars: 0
-language: "HTML"
-last_updated: "2026-08-02T02:24:34Z"
-discovered_at: "2026-08-02T02:34:51Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-02T02:24:34Z'
+discovered_at: '2026-08-02T02:34:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

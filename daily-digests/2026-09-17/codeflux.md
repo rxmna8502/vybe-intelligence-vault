@@ -1,19 +1,31 @@
 ---
-title: "monstercameron/codeflux"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "WebAssembly", "gRPC", "SQLite", "Git", "OS Credential Store", "WebSockets"]
+title: monstercameron/codeflux
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- WebAssembly
+- gRPC
+- SQLite
+- Git
+- OS Credential Store
+- WebSockets
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "security-first", "local-first", "worktrees", "authority derivation"]
-source: "https://github.com/monstercameron/codeflux"
+deployment_complexity: Medium
+tags:
+- coding agent
+- security-first
+- local-first
+- worktrees
+- authority derivation
+source: https://github.com/monstercameron/codeflux
 stars: 0
-language: "Go"
-last_updated: "2026-08-02T17:50:32Z"
-discovered_at: "2026-08-02T18:02:33Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T17:50:32Z'
+discovered_at: '2026-08-02T18:02:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

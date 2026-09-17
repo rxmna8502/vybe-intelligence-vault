@@ -1,19 +1,30 @@
 ---
-title: "feeeeling/anchor-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "VS Code Extension API", "MCP (Model Context Protocol)", "Node.js", "stdio", "REST API"]
+title: feeeeling/anchor-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- MCP (Model Context Protocol)
+- Node.js
+- stdio
+- REST API
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["VS Code", "AI editing", "MCP integration", "asynchronous tasks", "text anchoring"]
-source: "https://github.com/feeeeling/anchor-agent"
+deployment_complexity: Medium
+tags:
+- VS Code
+- AI editing
+- MCP integration
+- asynchronous tasks
+- text anchoring
+source: https://github.com/feeeeling/anchor-agent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T19:08:51Z"
-discovered_at: "2026-09-02T19:11:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:08:51Z'
+discovered_at: '2026-09-02T19:11:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

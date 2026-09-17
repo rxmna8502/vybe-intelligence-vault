@@ -1,19 +1,34 @@
 ---
-title: "fabriziosalmi/gitoma"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Local LLMs (LM Studio, Ollama, OpenAI-compatible endpoints)", "GitHub API", "FastAPI (REST API)", "Model Context Protocol (MCP)", "Semgrep", "Trivy", "HNSW (Hierarchical Navigable Small World)", "Poincar\u00e9-ball memory model", "SQLite/TSDB (Occam Observer)"]
+title: fabriziosalmi/gitoma
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Local LLMs (LM Studio, Ollama, OpenAI-compatible endpoints)
+- GitHub API
+- FastAPI (REST API)
+- Model Context Protocol (MCP)
+- Semgrep
+- Trivy
+- HNSW (Hierarchical Navigable Small World)
+- Poincaré-ball memory model
+- SQLite/TSDB (Occam Observer)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agent", "code improvement", "self-review", "local LLM", "GitHub automation"]
-source: "https://github.com/fabriziosalmi/gitoma"
+deployment_complexity: Medium
+tags:
+- autonomous agent
+- code improvement
+- self-review
+- local LLM
+- GitHub automation
+source: https://github.com/fabriziosalmi/gitoma
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T10:12:51Z"
-discovered_at: "2026-07-21T10:24:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T10:12:51Z'
+discovered_at: '2026-07-21T10:24:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

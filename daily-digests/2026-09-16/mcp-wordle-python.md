@@ -1,19 +1,29 @@
 ---
-title: "cr2007/mcp-wordle-python"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "GitHub Actions", "Model Context Protocol (MCP)", "uvx"]
+title: cr2007/mcp-wordle-python
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Docker
+- GitHub Actions
+- Model Context Protocol (MCP)
+- uvx
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["MCP Server", "Wordle API", "AI Assistant Integration", "Dockerized", "Python Tooling"]
-source: "https://github.com/cr2007/mcp-wordle-python"
+deployment_complexity: Low
+tags:
+- MCP Server
+- Wordle API
+- AI Assistant Integration
+- Dockerized
+- Python Tooling
+source: https://github.com/cr2007/mcp-wordle-python
 stars: 2
-language: "Python"
-last_updated: "2026-07-16T20:00:43Z"
-discovered_at: "2026-07-16T20:02:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T20:00:43Z'
+discovered_at: '2026-07-16T20:02:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

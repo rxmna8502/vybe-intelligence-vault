@@ -1,19 +1,29 @@
 ---
-title: "uehlingeric/banana-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Google Gemini API", "MCP (Model Context Protocol)", "uv (Python package manager)", "Claude Code"]
+title: uehlingeric/banana-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Google Gemini API
+- MCP (Model Context Protocol)
+- uv (Python package manager)
+- Claude Code
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "Gemini integration", "image generation", "text generation", "Claude Code"]
-source: "https://github.com/uehlingeric/banana-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- Gemini integration
+- image generation
+- text generation
+- Claude Code
+source: https://github.com/uehlingeric/banana-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T02:23:20Z"
-discovered_at: "2026-07-12T02:32:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T02:23:20Z'
+discovered_at: '2026-07-12T02:32:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

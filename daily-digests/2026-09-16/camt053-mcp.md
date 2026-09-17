@@ -1,19 +1,29 @@
 ---
-title: "sebastienrousseau/camt053-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "ISO 20022", "FastMCP", "camt053 (core library)"]
+title: sebastienrousseau/camt053-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- ISO 20022
+- FastMCP
+- camt053 (core library)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "ISO 20022", "bank statements", "financial data parsing", "AI agent tools"]
-source: "https://github.com/sebastienrousseau/camt053-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- ISO 20022
+- bank statements
+- financial data parsing
+- AI agent tools
+source: https://github.com/sebastienrousseau/camt053-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T23:52:46Z"
-discovered_at: "2026-07-11T23:53:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T23:52:46Z'
+discovered_at: '2026-07-11T23:53:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

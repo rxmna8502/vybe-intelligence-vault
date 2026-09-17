@@ -1,19 +1,32 @@
 ---
-title: "guillochon/mlb-api-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "FastAPI", "MLB Stats API", "uvicorn", "websockets", "Docker", "pytest"]
+title: guillochon/mlb-api-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- FastMCP
+- FastAPI
+- MLB Stats API
+- uvicorn
+- websockets
+- Docker
+- pytest
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MLB data", "MCP server", "sports analytics", "AI integration", "statistics API"]
-source: "https://github.com/guillochon/mlb-api-mcp"
+deployment_complexity: Medium
+tags:
+- MLB data
+- MCP server
+- sports analytics
+- AI integration
+- statistics API
+source: https://github.com/guillochon/mlb-api-mcp
 stars: 57
-language: "Python"
-last_updated: "2026-08-01T23:50:46Z"
-discovered_at: "2026-08-01T23:57:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T23:50:46Z'
+discovered_at: '2026-08-01T23:57:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

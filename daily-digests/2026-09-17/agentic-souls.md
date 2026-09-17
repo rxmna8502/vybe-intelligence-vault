@@ -1,19 +1,29 @@
 ---
-title: "erishen/agentic-souls"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Markdown", "AI Role-Based Workflows", "Documentation-Driven Development", "Evidence-Driven Verification", "Python (implied for execution)"]
+title: erishen/agentic-souls
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Markdown
+- AI Role-Based Workflows
+- Documentation-Driven Development
+- Evidence-Driven Verification
+- Python (implied for execution)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI workflow automation", "role-based architecture", "document-driven development", "evidence-driven verification", "software development lifecycle"]
-source: "https://github.com/erishen/agentic-souls"
+deployment_complexity: Medium
+tags:
+- AI workflow automation
+- role-based architecture
+- document-driven development
+- evidence-driven verification
+- software development lifecycle
+source: https://github.com/erishen/agentic-souls
 stars: 0
-language: "None"
-last_updated: "2026-08-09T08:41:52Z"
-discovered_at: "2026-08-09T08:45:05Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T08:41:52Z'
+discovered_at: '2026-08-09T08:45:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

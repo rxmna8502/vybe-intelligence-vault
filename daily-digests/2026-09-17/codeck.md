@@ -1,19 +1,31 @@
 ---
-title: "isdou/codeck"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "CLI Tools (Gemini, Claude, Kimi, Grok, Antigravity)", "TOML (for configuration)", "Git"]
+title: isdou/codeck
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- CLI Tools (Gemini, Claude, Kimi, Grok, Antigravity)
+- TOML (for configuration)
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["context handoff", "multi-model orchestration", "AI development tools", "CLI integration", "project context packaging"]
-source: "https://github.com/isdou/codeck"
+deployment_complexity: Medium
+tags:
+- context handoff
+- multi-model orchestration
+- AI development tools
+- CLI integration
+- project context packaging
+source: https://github.com/isdou/codeck
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-09T09:40:13Z"
-discovered_at: "2026-08-09T09:44:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T09:40:13Z'
+discovered_at: '2026-08-09T09:44:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

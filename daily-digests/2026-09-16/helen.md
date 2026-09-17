@@ -1,19 +1,32 @@
 ---
-title: "hahalee000000/helen"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM Integration", "SQLite", "JSONL", "REPL", "FFI (Foreign Function Interface)", "Concurrency (spawn, Channel, mailbox_select)", "Bilingual (Chinese/English) Syntax"]
+title: hahalee000000/helen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- LLM Integration
+- SQLite
+- JSONL
+- REPL
+- FFI (Foreign Function Interface)
+- Concurrency (spawn, Channel, mailbox_select)
+- Bilingual (Chinese/English) Syntax
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["DSL", "AI Agents", "Prompt Engineering", "Context Management", "Bilingual Programming"]
-source: "https://github.com/hahalee000000/helen"
+deployment_complexity: Medium
+tags:
+- DSL
+- AI Agents
+- Prompt Engineering
+- Context Management
+- Bilingual Programming
+source: https://github.com/hahalee000000/helen
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T05:52:09Z"
-discovered_at: "2026-08-02T05:57:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T05:52:09Z'
+discovered_at: '2026-08-02T05:57:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

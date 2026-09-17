@@ -1,19 +1,37 @@
 ---
-title: "23skdu/longbow"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Go", "Apache Arrow", "Apache Parquet", "gRPC", "SIMD", "NUMA-aware memory allocation", "SWIM protocol", "Prometheus", "CUDA", "Metal", "io_uring", "HNSW", "Apache Flight"]
+title: 23skdu/longbow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- Apache Arrow
+- Apache Parquet
+- gRPC
+- SIMD
+- NUMA-aware memory allocation
+- SWIM protocol
+- Prometheus
+- CUDA
+- Metal
+- io_uring
+- HNSW
+- Apache Flight
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["vector search", "distributed systems", "high performance", "GPU acceleration", "Apache Arrow"]
-source: "https://github.com/23skdu/longbow"
+deployment_complexity: High
+tags:
+- vector search
+- distributed systems
+- high performance
+- GPU acceleration
+- Apache Arrow
+source: https://github.com/23skdu/longbow
 stars: 13
-language: "Go"
-last_updated: "2026-08-08T20:29:12Z"
-discovered_at: "2026-08-08T20:32:12Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T20:29:12Z'
+discovered_at: '2026-08-08T20:32:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

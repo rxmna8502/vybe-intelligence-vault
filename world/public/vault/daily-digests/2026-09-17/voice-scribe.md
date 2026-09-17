@@ -1,19 +1,32 @@
 ---
-title: "nlink-jp/voice-scribe"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "whisper.cpp", "ggml", "Metal (Apple Silicon)", "CGO", "MCP (Model Context Protocol)", "ONNX Runtime", "sherpa-onnx"]
+title: nlink-jp/voice-scribe
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Go
+- whisper.cpp
+- ggml
+- Metal (Apple Silicon)
+- CGO
+- MCP (Model Context Protocol)
+- ONNX Runtime
+- sherpa-onnx
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["speech-to-text", "local processing", "MCP server", "speaker diarization", "Apple Silicon"]
-source: "https://github.com/nlink-jp/voice-scribe"
+deployment_complexity: Medium
+tags:
+- speech-to-text
+- local processing
+- MCP server
+- speaker diarization
+- Apple Silicon
+source: https://github.com/nlink-jp/voice-scribe
 stars: 0
-language: "Go"
-last_updated: "2026-08-08T13:45:40Z"
-discovered_at: "2026-08-08T13:48:45Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T13:45:40Z'
+discovered_at: '2026-08-08T13:48:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "shinpr/sub-agents-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "CLI Tools (Cursor, Claude Code, Codex, Gemini CLI, Grok Build)", "Markdown"]
+title: shinpr/sub-agents-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- CLI Tools (Cursor, Claude Code, Codex, Gemini CLI, Grok Build)
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "sub-agents", "AI orchestration", "multi-tool compatibility", "agent framework"]
-source: "https://github.com/shinpr/sub-agents-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- sub-agents
+- AI orchestration
+- multi-tool compatibility
+- agent framework
+source: https://github.com/shinpr/sub-agents-mcp
 stars: 92
-language: "TypeScript"
-last_updated: "2026-07-12T13:33:51Z"
-discovered_at: "2026-07-12T13:36:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T13:33:51Z'
+discovered_at: '2026-07-12T13:36:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

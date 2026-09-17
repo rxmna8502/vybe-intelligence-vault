@@ -1,19 +1,30 @@
 ---
-title: "roc-zjp/homing"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "JavaScript", "Feishu API", "Telegram Bot API", "RESTful APIs", "CLI Tools"]
+title: roc-zjp/homing
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Node.js
+- JavaScript
+- Feishu API
+- Telegram Bot API
+- RESTful APIs
+- CLI Tools
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-hosted", "remote execution", "AI agent", "chat interface", "two-phase authorization"]
-source: "https://github.com/roc-zjp/homing"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- remote execution
+- AI agent
+- chat interface
+- two-phase authorization
+source: https://github.com/roc-zjp/homing
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T14:57:09Z"
-discovered_at: "2026-08-01T15:01:24Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T14:57:09Z'
+discovered_at: '2026-08-01T15:01:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

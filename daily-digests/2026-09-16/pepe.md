@@ -1,19 +1,33 @@
 ---
-title: "pepe-agent/pepe"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Elixir", "OTP", "Phoenix LiveView", "Mnesia", "HTTP/1.1", "WebSocket", "CLI", "Telegram API", "WhatsApp API"]
+title: pepe-agent/pepe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Elixir
+- OTP
+- Phoenix LiveView
+- Mnesia
+- HTTP/1.1
+- WebSocket
+- CLI
+- Telegram API
+- WhatsApp API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent runtime", "Elixir/OTP", "OpenAI-compatible", "tool-calling", "multi-channel"]
-source: "https://github.com/pepe-agent/pepe"
+deployment_complexity: Medium
+tags:
+- AI agent runtime
+- Elixir/OTP
+- OpenAI-compatible
+- tool-calling
+- multi-channel
+source: https://github.com/pepe-agent/pepe
 stars: 0
-language: "Elixir"
-last_updated: "2026-07-10T20:19:56Z"
-discovered_at: "2026-07-10T20:22:09Z"
-evaluated_by: "mistral-small-latest"
+language: Elixir
+last_updated: '2026-07-10T20:19:56Z'
+discovered_at: '2026-07-10T20:22:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "naMqe-h/onchain-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "React", "TypeScript", "TailwindCSS", "Supabase", "Prisma ORM", "Viem", "Uniswap API", "Blockscout API", "Eve Framework", "AI SDK (OpenAI, Google, OpenRouter)", "Framer Motion"]
+title: naMqe-h/onchain-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+- Supabase
+- Prisma ORM
+- Viem
+- Uniswap API
+- Blockscout API
+- Eve Framework
+- AI SDK (OpenAI, Google, OpenRouter)
+- Framer Motion
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Web3 automation", "AI agents", "multi-chain EVM", "DEX trading", "blockchain analytics"]
-source: "https://github.com/naMqe-h/onchain-agent"
+deployment_complexity: Medium
+tags:
+- Web3 automation
+- AI agents
+- multi-chain EVM
+- DEX trading
+- blockchain analytics
+source: https://github.com/naMqe-h/onchain-agent
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T06:17:45Z"
-discovered_at: "2026-08-01T06:29:06Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T06:17:45Z'
+discovered_at: '2026-08-01T06:29:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

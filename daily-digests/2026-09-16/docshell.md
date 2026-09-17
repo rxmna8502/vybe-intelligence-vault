@@ -1,19 +1,30 @@
 ---
-title: "AliceLJY/docshell"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Next.js", "React", "TypeScript", "Server-Sent Events (SSE)", "IndexedDB", "Claude Code CLI"]
+title: AliceLJY/docshell
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Server-Sent Events (SSE)
+- IndexedDB
+- Claude Code CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["document-interface", "Claude Code integration", "AI coding assistant", "multi-turn conversation", "process visibility"]
-source: "https://github.com/AliceLJY/docshell"
+deployment_complexity: Medium
+tags:
+- document-interface
+- Claude Code integration
+- AI coding assistant
+- multi-turn conversation
+- process visibility
+source: https://github.com/AliceLJY/docshell
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-21T14:56:33Z"
-discovered_at: "2026-07-21T15:03:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T14:56:33Z'
+discovered_at: '2026-07-21T15:03:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

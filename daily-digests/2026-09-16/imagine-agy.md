@@ -1,19 +1,29 @@
 ---
-title: "dyrok/imagine-agy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "CLI", "Antigravity CLI", "Claude Code Skills"]
+title: dyrok/imagine-agy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Node.js
+- JavaScript
+- CLI
+- Antigravity CLI
+- Claude Code Skills
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["image generation", "Claude Code", "Antigravity", "CLI tool", "AI integration"]
-source: "https://github.com/dyrok/imagine-agy"
+deployment_complexity: Low
+tags:
+- image generation
+- Claude Code
+- Antigravity
+- CLI tool
+- AI integration
+source: https://github.com/dyrok/imagine-agy
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T17:48:52Z"
-discovered_at: "2026-08-07T17:52:05Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T17:48:52Z'
+discovered_at: '2026-08-07T17:52:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

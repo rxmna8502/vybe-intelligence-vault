@@ -1,19 +1,32 @@
 ---
-title: "koopmannleon19977-cmyk/proofborne"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "JSONL", "ACP (Agent Communication Protocol)", "MCP (Model Context Protocol)", "LSP (Language Server Protocol)", "Docker", "OpenRouter"]
+title: koopmannleon19977-cmyk/proofborne
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- SQLite
+- JSONL
+- ACP (Agent Communication Protocol)
+- MCP (Model Context Protocol)
+- LSP (Language Server Protocol)
+- Docker
+- OpenRouter
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["verification", "proof-carrying", "local-first", "agent-orchestration", "deterministic"]
-source: "https://github.com/koopmannleon19977-cmyk/proofborne"
+deployment_complexity: Medium
+tags:
+- verification
+- proof-carrying
+- local-first
+- agent-orchestration
+- deterministic
+source: https://github.com/koopmannleon19977-cmyk/proofborne
 stars: 0
-language: "Rust"
-last_updated: "2026-08-01T13:07:19Z"
-discovered_at: "2026-08-01T13:16:34Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T13:07:19Z'
+discovered_at: '2026-08-01T13:16:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

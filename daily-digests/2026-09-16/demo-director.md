@@ -1,19 +1,31 @@
 ---
-title: "jayadevrana/demo-director"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "Swift", "macOS native APIs", "Chrome DevTools Protocol", "ffmpeg", "Voicebox (optional)", "MCP (Model Context Protocol)"]
+title: jayadevrana/demo-director
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Node.js
+- Swift
+- macOS native APIs
+- Chrome DevTools Protocol
+- ffmpeg
+- Voicebox (optional)
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["screen recording", "AI presentation", "cursor automation", "voiceover generation", "demo automation"]
-source: "https://github.com/jayadevrana/demo-director"
+deployment_complexity: Medium
+tags:
+- screen recording
+- AI presentation
+- cursor automation
+- voiceover generation
+- demo automation
+source: https://github.com/jayadevrana/demo-director
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T06:41:08Z"
-discovered_at: "2026-08-08T06:52:41Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T06:41:08Z'
+discovered_at: '2026-08-08T06:52:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

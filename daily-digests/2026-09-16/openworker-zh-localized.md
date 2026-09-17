@@ -1,19 +1,33 @@
 ---
-title: "zhanglunet/openworker-zh-localized"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "React", "Tauri", "Rust", "Node.js", "CMake", "Miniforge", "Vite", "TypeScript"]
+title: zhanglunet/openworker-zh-localized
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- React
+- Tauri
+- Rust
+- Node.js
+- CMake
+- Miniforge
+- Vite
+- TypeScript
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["localization", "AI agents", "desktop application", "macOS client", "Chinese GUI"]
-source: "https://github.com/zhanglunet/openworker-zh-localized"
+deployment_complexity: Medium
+tags:
+- localization
+- AI agents
+- desktop application
+- macOS client
+- Chinese GUI
+source: https://github.com/zhanglunet/openworker-zh-localized
 stars: 1
-language: "Python"
-last_updated: "2026-08-06T03:17:24Z"
-discovered_at: "2026-08-06T03:18:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T03:17:24Z'
+discovered_at: '2026-08-06T03:18:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

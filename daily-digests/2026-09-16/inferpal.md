@@ -1,19 +1,34 @@
 ---
-title: "EstaxNet/Inferpal"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET 8", "Visual Studio 2026", "VS Code", "Ollama", "LM Studio", "OpenAI-compatible APIs", "SQLite", "Roslyn Compiler", "MCP (Model Context Protocol)"]
+title: EstaxNet/Inferpal
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- C#
+- .NET 8
+- Visual Studio 2026
+- VS Code
+- Ollama
+- LM Studio
+- OpenAI-compatible APIs
+- SQLite
+- Roslyn Compiler
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["agentic coding", "local LLM", "IDE integration", "semantic search", "debugging automation"]
-source: "https://github.com/EstaxNet/Inferpal"
+deployment_complexity: Medium
+tags:
+- agentic coding
+- local LLM
+- IDE integration
+- semantic search
+- debugging automation
+source: https://github.com/EstaxNet/Inferpal
 stars: 4
-language: "C#"
-last_updated: "2026-09-01T18:59:46Z"
-discovered_at: "2026-09-01T19:06:58Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-09-01T18:59:46Z'
+discovered_at: '2026-09-01T19:06:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

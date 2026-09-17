@@ -1,19 +1,29 @@
 ---
-title: "alexar76/theoros"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Markdown", "GitHub Pages", "DIOSCURI runtime", "Ed25519 cryptography", "GitHub Actions"]
+title: alexar76/theoros
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Markdown
+- GitHub Pages
+- DIOSCURI runtime
+- Ed25519 cryptography
+- GitHub Actions
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent sovereignty", "constitutional framework", "DIOSCURI runtime", "public governance", "economic metaphors"]
-source: "https://github.com/alexar76/theoros"
+deployment_complexity: Medium
+tags:
+- agent sovereignty
+- constitutional framework
+- DIOSCURI runtime
+- public governance
+- economic metaphors
+source: https://github.com/alexar76/theoros
 stars: 0
-language: "HTML"
-last_updated: "2026-07-19T11:53:27Z"
-discovered_at: "2026-07-19T11:57:01Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-19T11:53:27Z'
+discovered_at: '2026-07-19T11:57:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

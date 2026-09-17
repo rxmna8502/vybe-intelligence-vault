@@ -1,19 +1,34 @@
 ---
-title: "lucidos-dev/lucidos"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "PostgreSQL", "pgvector", "Node.js", "Docker", "TypeScript", "LLM APIs (OpenAI, Vertex AI, etc.)", "Git", "TLS/HTTPS", "systemd/launchd"]
+title: lucidos-dev/lucidos
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- PostgreSQL
+- pgvector
+- Node.js
+- Docker
+- TypeScript
+- LLM APIs (OpenAI, Vertex AI, etc.)
+- Git
+- TLS/HTTPS
+- systemd/launchd
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI OS", "local-first", "event-driven", "workspace automation", "LLM integration"]
-source: "https://github.com/lucidos-dev/lucidos"
+deployment_complexity: Medium
+tags:
+- AI OS
+- local-first
+- event-driven
+- workspace automation
+- LLM integration
+source: https://github.com/lucidos-dev/lucidos
 stars: 3
-language: "Rust"
-last_updated: "2026-08-04T15:32:42Z"
-discovered_at: "2026-08-04T15:34:29Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-04T15:32:42Z'
+discovered_at: '2026-08-04T15:34:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

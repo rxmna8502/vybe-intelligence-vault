@@ -1,19 +1,29 @@
 ---
-title: "faisibash-oss/rag-practice"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "Chroma (local vector store)", "sentence-transformers (all-MiniLM-L6-v2 for embeddings)", "Claude API (for LLM generation)", "python-dotenv (for environment variables)"]
+title: faisibash-oss/rag-practice
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Chroma (local vector store)
+- sentence-transformers (all-MiniLM-L6-v2 for embeddings)
+- Claude API (for LLM generation)
+- python-dotenv (for environment variables)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["RAG", "local embeddings", "Chroma", "document retrieval", "Claude API"]
-source: "https://github.com/faisibash-oss/rag-practice"
+deployment_complexity: Low
+tags:
+- RAG
+- local embeddings
+- Chroma
+- document retrieval
+- Claude API
+source: https://github.com/faisibash-oss/rag-practice
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T09:20:57Z"
-discovered_at: "2026-08-09T09:44:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T09:20:57Z'
+discovered_at: '2026-08-09T09:44:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

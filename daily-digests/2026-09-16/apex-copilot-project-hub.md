@@ -1,19 +1,30 @@
 ---
-title: "Strategic-westoncell535/apex-copilot-project-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows", "BIM (Building Information Modeling)", "Digital Twin", "Electron (likely)", "Cloud Sync", "Encryption"]
+title: Strategic-westoncell535/apex-copilot-project-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Windows
+- BIM (Building Information Modeling)
+- Digital Twin
+- Electron (likely)
+- Cloud Sync
+- Encryption
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["construction management", "BIM integration", "digital twin", "project workspace", "AI copilot"]
-source: "https://github.com/Strategic-westoncell535/apex-copilot-project-hub"
+deployment_complexity: Low
+tags:
+- construction management
+- BIM integration
+- digital twin
+- project workspace
+- AI copilot
+source: https://github.com/Strategic-westoncell535/apex-copilot-project-hub
 stars: 0
-language: "HTML"
-last_updated: "2026-08-06T06:29:27Z"
-discovered_at: "2026-08-06T06:32:12Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-06T06:29:27Z'
+discovered_at: '2026-08-06T06:32:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

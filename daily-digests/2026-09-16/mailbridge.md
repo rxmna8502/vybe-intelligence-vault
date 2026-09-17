@@ -1,19 +1,31 @@
 ---
-title: "henry200803/mailbridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "IMAP", "SMTP", "Microsoft Graph API", "OAuth 2.0", "i18n (Internationalization)"]
+title: henry200803/mailbridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- IMAP
+- SMTP
+- Microsoft Graph API
+- OAuth 2.0
+- i18n (Internationalization)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["email", "MCP server", "AI agents", "IMAP", "OAuth"]
-source: "https://github.com/henry200803/mailbridge"
+deployment_complexity: Medium
+tags:
+- email
+- MCP server
+- AI agents
+- IMAP
+- OAuth
+source: https://github.com/henry200803/mailbridge
 stars: 4
-language: "Python"
-last_updated: "2026-08-04T07:37:28Z"
-discovered_at: "2026-08-04T07:39:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T07:37:28Z'
+discovered_at: '2026-08-04T07:39:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

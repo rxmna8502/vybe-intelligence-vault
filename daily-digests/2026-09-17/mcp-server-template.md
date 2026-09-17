@@ -1,19 +1,30 @@
 ---
-title: "eliware/mcp-server-template"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "@eliware/mcp-server", "Model Context Protocol (MCP)", "Docker", "systemd"]
+title: eliware/mcp-server-template
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- '@eliware/mcp-server'
+- Model Context Protocol (MCP)
+- Docker
+- systemd
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "AI tooling", "automation", "dynamic tools", "extensible"]
-source: "https://github.com/eliware/mcp-server-template"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AI tooling
+- automation
+- dynamic tools
+- extensible
+source: https://github.com/eliware/mcp-server-template
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-06T03:16:28Z"
-discovered_at: "2026-08-06T03:19:31Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T03:16:28Z'
+discovered_at: '2026-08-06T03:19:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

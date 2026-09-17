@@ -1,19 +1,31 @@
 ---
-title: "sdsrss/loop-testing"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "Node.js", "Claude Code", "OpenAI Codex", "Git", "LLM APIs (OpenAI/OpenRouter)", "Bash scripting"]
+title: sdsrss/loop-testing
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Shell
+- Node.js
+- Claude Code
+- OpenAI Codex
+- Git
+- LLM APIs (OpenAI/OpenRouter)
+- Bash scripting
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous QA", "AI-driven testing", "regression testing", "bug detection", "multi-model decision making"]
-source: "https://github.com/sdsrss/loop-testing"
+deployment_complexity: Medium
+tags:
+- autonomous QA
+- AI-driven testing
+- regression testing
+- bug detection
+- multi-model decision making
+source: https://github.com/sdsrss/loop-testing
 stars: 0
-language: "Shell"
-last_updated: "2026-07-12T16:53:58Z"
-discovered_at: "2026-07-12T17:03:46Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-12T16:53:58Z'
+discovered_at: '2026-07-12T17:03:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

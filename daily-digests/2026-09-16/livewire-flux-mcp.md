@@ -1,19 +1,30 @@
 ---
-title: "leMaur/livewire-flux-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Livewire Flux", "Heroicons", "GitHub Actions"]
+title: leMaur/livewire-flux-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Livewire Flux
+- Heroicons
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP Server", "Flux UI", "Documentation Scraper", "AI Assistant Integration", "Livewire"]
-source: "https://github.com/leMaur/livewire-flux-mcp"
+deployment_complexity: Low
+tags:
+- MCP Server
+- Flux UI
+- Documentation Scraper
+- AI Assistant Integration
+- Livewire
+source: https://github.com/leMaur/livewire-flux-mcp
 stars: 7
-language: "JavaScript"
-last_updated: "2026-08-07T09:59:48Z"
-discovered_at: "2026-08-07T10:03:53Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T09:59:48Z'
+discovered_at: '2026-08-07T10:03:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

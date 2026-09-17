@@ -1,19 +1,37 @@
 ---
-title: "MicheleCampi/MicheleCampi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Python", "Kubernetes", "Terraform", "ArgoCD", "vLLM", "GKE", "EKS", "Grafana", "Prometheus", "NVML", "OpenTelemetry", "GitOps"]
+title: MicheleCampi/MicheleCampi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Python
+- Kubernetes
+- Terraform
+- ArgoCD
+- vLLM
+- GKE
+- EKS
+- Grafana
+- Prometheus
+- NVML
+- OpenTelemetry
+- GitOps
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["LLM inference", "Kubernetes operators", "GPU orchestration", "observability", "infrastructure as code"]
-source: "https://github.com/MicheleCampi/MicheleCampi"
+deployment_complexity: High
+tags:
+- LLM inference
+- Kubernetes operators
+- GPU orchestration
+- observability
+- infrastructure as code
+source: https://github.com/MicheleCampi/MicheleCampi
 stars: 0
-language: "None"
-last_updated: "2026-08-01T14:53:58Z"
-discovered_at: "2026-08-01T15:01:31Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T14:53:58Z'
+discovered_at: '2026-08-01T15:01:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

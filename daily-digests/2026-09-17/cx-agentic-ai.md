@@ -1,19 +1,32 @@
 ---
-title: "Checkmarx/cx-agentic-ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Checkmarx One API", "Claude Code", "GitHub Copilot CLI", "Cursor", "OAuth2", "Apache 2.0"]
+title: Checkmarx/cx-agentic-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Checkmarx One API
+- Claude Code
+- GitHub Copilot CLI
+- Cursor
+- OAuth2
+- Apache 2.0
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["security scanning", "AI agent integration", "MCP server", "automated remediation", "fail-closed"]
-source: "https://github.com/Checkmarx/cx-agentic-ai"
+deployment_complexity: Medium
+tags:
+- security scanning
+- AI agent integration
+- MCP server
+- automated remediation
+- fail-closed
+source: https://github.com/Checkmarx/cx-agentic-ai
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T13:03:51Z"
-discovered_at: "2026-08-10T13:09:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T13:03:51Z'
+discovered_at: '2026-08-10T13:09:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

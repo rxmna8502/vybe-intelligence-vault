@@ -1,19 +1,31 @@
 ---
-title: "zainzaidi37/jotnow-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "SQLite", "REST API", "npm"]
+title: zainzaidi37/jotnow-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- SQLite
+- REST API
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["note-taking", "MCP server", "agent memory", "context management", "CLI tool"]
-source: "https://github.com/zainzaidi37/jotnow-mcp"
+deployment_complexity: Low
+tags:
+- note-taking
+- MCP server
+- agent memory
+- context management
+- CLI tool
+source: https://github.com/zainzaidi37/jotnow-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-06T09:33:54Z"
-discovered_at: "2026-08-06T09:43:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T09:33:54Z'
+discovered_at: '2026-08-06T09:43:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

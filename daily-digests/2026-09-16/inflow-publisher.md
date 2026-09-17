@@ -1,19 +1,29 @@
 ---
-title: "nnquant/inflow-publisher"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI", "REST API", "Markdown", "Agent Framework"]
+title: nnquant/inflow-publisher
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- CLI
+- REST API
+- Markdown
+- Agent Framework
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Agent Skill", "Content Publishing", "Markdown Support", "API Integration", "Idempotency"]
-source: "https://github.com/nnquant/inflow-publisher"
+deployment_complexity: Low
+tags:
+- Agent Skill
+- Content Publishing
+- Markdown Support
+- API Integration
+- Idempotency
+source: https://github.com/nnquant/inflow-publisher
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T06:06:38Z"
-discovered_at: "2026-08-07T06:12:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T06:06:38Z'
+discovered_at: '2026-08-07T06:12:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

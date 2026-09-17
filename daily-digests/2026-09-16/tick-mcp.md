@@ -1,19 +1,31 @@
 ---
-title: "Cocabadger/tick-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Docker", "Railway/Render/Fly.io (for remote deployment)", "Claude Desktop", "Claude Code", "claude.ai"]
+title: Cocabadger/tick-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Docker
+- Railway/Render/Fly.io (for remote deployment)
+- Claude Desktop
+- Claude Code
+- claude.ai
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["time synchronization", "MCP server", "AI assistant accuracy", "timestamp enforcement", "Claude integration"]
-source: "https://github.com/Cocabadger/tick-mcp"
+deployment_complexity: Low
+tags:
+- time synchronization
+- MCP server
+- AI assistant accuracy
+- timestamp enforcement
+- Claude integration
+source: https://github.com/Cocabadger/tick-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T13:32:04Z"
-discovered_at: "2026-07-12T13:36:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T13:32:04Z'
+discovered_at: '2026-07-12T13:36:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

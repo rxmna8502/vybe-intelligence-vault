@@ -1,19 +1,34 @@
 ---
-title: "purrfecto114-lgtm/RE-LLMPET"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Tauri 2", "Rust", "JavaScript/TypeScript", "Node.js", "WebKitGTK", "Electron (legacy)", "CLI", "HTTPS", "CSP", "CI/CD (GitHub Actions)"]
+title: purrfecto114-lgtm/RE-LLMPET
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Tauri 2
+- Rust
+- JavaScript/TypeScript
+- Node.js
+- WebKitGTK
+- Electron (legacy)
+- CLI
+- HTTPS
+- CSP
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["desktop pet", "multi-agent monitoring", "Tauri 2", "Rust", "coding agents"]
-source: "https://github.com/purrfecto114-lgtm/RE-LLMPET"
+deployment_complexity: Medium
+tags:
+- desktop pet
+- multi-agent monitoring
+- Tauri 2
+- Rust
+- coding agents
+source: https://github.com/purrfecto114-lgtm/RE-LLMPET
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-01T13:09:01Z"
-discovered_at: "2026-08-01T13:16:31Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T13:09:01Z'
+discovered_at: '2026-08-01T13:16:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

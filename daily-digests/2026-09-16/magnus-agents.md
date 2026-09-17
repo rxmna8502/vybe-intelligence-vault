@@ -1,19 +1,30 @@
 ---
-title: "KroderDev/magnus-agents"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Redis", "OpenAI-compatible LLM API", "Node.js", "pnpm", "Docker"]
+title: KroderDev/magnus-agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Redis
+- OpenAI-compatible LLM API
+- Node.js
+- pnpm
+- Docker
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Minecraft", "AI personas", "Redis pub/sub", "LLM integration", "multi-agent"]
-source: "https://github.com/KroderDev/magnus-agents"
+deployment_complexity: Medium
+tags:
+- Minecraft
+- AI personas
+- Redis pub/sub
+- LLM integration
+- multi-agent
+source: https://github.com/KroderDev/magnus-agents
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T16:59:57Z"
-discovered_at: "2026-07-12T17:03:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T16:59:57Z'
+discovered_at: '2026-07-12T17:03:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

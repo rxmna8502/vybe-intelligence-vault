@@ -1,19 +1,35 @@
 ---
-title: "blackwell-systems/mcp-assert"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "YAML", "CLI", "Docker", "TypeScript", "Python", "Jest", "Vitest", "pytest", "Bun", "PHPUnit"]
+title: blackwell-systems/mcp-assert
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- YAML
+- CLI
+- Docker
+- TypeScript
+- Python
+- Jest
+- Vitest
+- pytest
+- Bun
+- PHPUnit
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP testing", "protocol validation", "schema linting", "deterministic assertions", "CI integration"]
-source: "https://github.com/blackwell-systems/mcp-assert"
+deployment_complexity: Low
+tags:
+- MCP testing
+- protocol validation
+- schema linting
+- deterministic assertions
+- CI integration
+source: https://github.com/blackwell-systems/mcp-assert
 stars: 23
-language: "Go"
-last_updated: "2026-07-18T19:02:14Z"
-discovered_at: "2026-07-18T19:02:36Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-18T19:02:14Z'
+discovered_at: '2026-07-18T19:02:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

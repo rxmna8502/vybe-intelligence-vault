@@ -1,19 +1,30 @@
 ---
-title: "paiml/paiml-mcp-agent-toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Git", "LLM (Large Language Models)", "CI/CD", "Mutation Testing"]
+title: paiml/paiml-mcp-agent-toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Git
+- LLM (Large Language Models)
+- CI/CD
+- Mutation Testing
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Code Analysis", "Technical Debt", "AI Context Generation", "Multi-language"]
-source: "https://github.com/paiml/paiml-mcp-agent-toolkit"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Code Analysis
+- Technical Debt
+- AI Context Generation
+- Multi-language
+source: https://github.com/paiml/paiml-mcp-agent-toolkit
 stars: 164
-language: "Rust"
-last_updated: "2026-09-03T19:03:03Z"
-discovered_at: "2026-09-03T19:07:06Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T19:03:03Z'
+discovered_at: '2026-09-03T19:07:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

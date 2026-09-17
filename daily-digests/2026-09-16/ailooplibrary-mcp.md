@@ -1,19 +1,29 @@
 ---
-title: "paultaki/ailooplibrary-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "Standard Library only", "Markdown"]
+title: paultaki/ailooplibrary-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
+- Standard Library only
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "agent workflows", "verifiable loops", "workflow design", "state management"]
-source: "https://github.com/paultaki/ailooplibrary-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- agent workflows
+- verifiable loops
+- workflow design
+- state management
+source: https://github.com/paultaki/ailooplibrary-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T07:54:41Z"
-discovered_at: "2026-07-14T08:01:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T07:54:41Z'
+discovered_at: '2026-07-14T08:01:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

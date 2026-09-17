@@ -1,19 +1,30 @@
 ---
-title: "hermes-labs-ai/hermeneutic"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Regex", "Embeddings (Ollama with nomic-embed-text)", "CLI", "JSONL", "MIT License"]
+title: hermes-labs-ai/hermeneutic
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Regex
+- Embeddings (Ollama with nomic-embed-text)
+- CLI
+- JSONL
+- MIT License
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["drift detection", "AI correction mining", "epistemic gate", "interpretation failure", "evidence-based validation"]
-source: "https://github.com/hermes-labs-ai/hermeneutic"
+deployment_complexity: Medium
+tags:
+- drift detection
+- AI correction mining
+- epistemic gate
+- interpretation failure
+- evidence-based validation
+source: https://github.com/hermes-labs-ai/hermeneutic
 stars: 4
-language: "Python"
-last_updated: "2026-08-01T08:41:01Z"
-discovered_at: "2026-08-01T09:06:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T08:41:01Z'
+discovered_at: '2026-08-01T09:06:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

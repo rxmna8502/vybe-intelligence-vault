@@ -1,19 +1,34 @@
 ---
-title: "majiayu000/harness"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Starlark", "PostgreSQL", "OpenTelemetry", "JSON-RPC", "Claude Code CLI", "Codex CLI", "Anthropic API", "GitHub Webhooks", "MCP Server"]
+title: majiayu000/harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Rust
+- Starlark
+- PostgreSQL
+- OpenTelemetry
+- JSON-RPC
+- Claude Code CLI
+- Codex CLI
+- Anthropic API
+- GitHub Webhooks
+- MCP Server
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["multi-agent orchestration", "policy engine", "observability", "AI governance", "autonomous agents"]
-source: "https://github.com/majiayu000/harness"
+deployment_complexity: High
+tags:
+- multi-agent orchestration
+- policy engine
+- observability
+- AI governance
+- autonomous agents
+source: https://github.com/majiayu000/harness
 stars: 41
-language: "Rust"
-last_updated: "2026-07-11T16:53:10Z"
-discovered_at: "2026-07-11T16:55:51Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-11T16:53:10Z'
+discovered_at: '2026-07-11T16:55:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

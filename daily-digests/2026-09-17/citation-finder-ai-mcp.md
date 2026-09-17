@@ -1,19 +1,31 @@
 ---
-title: "CSOAI-ORG/citation-finder-ai-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Smithery", "Claude Desktop", "C2PA", "HMAC-SHA256"]
+title: CSOAI-ORG/citation-finder-ai-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- PyPI
+- Smithery
+- Claude Desktop
+- C2PA
+- HMAC-SHA256
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["citation management", "academic research", "EU AI Act compliance", "MCP server", "RAG augmentation"]
-source: "https://github.com/CSOAI-ORG/citation-finder-ai-mcp"
+deployment_complexity: Low
+tags:
+- citation management
+- academic research
+- EU AI Act compliance
+- MCP server
+- RAG augmentation
+source: https://github.com/CSOAI-ORG/citation-finder-ai-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T22:24:36Z"
-discovered_at: "2026-08-08T22:32:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T22:24:36Z'
+discovered_at: '2026-08-08T22:32:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "fajarhide/selat"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "Docker", "OAuth", "AES-256-GCM", "SHA-256", "HTTP/REST", "MCP (Model Context Protocol)"]
+title: fajarhide/selat
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- Docker
+- OAuth
+- AES-256-GCM
+- SHA-256
+- HTTP/REST
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["authentication", "OAuth gateway", "token management", "MCP server", "AI agent tools"]
-source: "https://github.com/fajarhide/selat"
+deployment_complexity: Medium
+tags:
+- authentication
+- OAuth gateway
+- token management
+- MCP server
+- AI agent tools
+source: https://github.com/fajarhide/selat
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T16:34:48Z"
-discovered_at: "2026-08-08T16:35:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T16:34:48Z'
+discovered_at: '2026-08-08T16:35:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "regabbb22/Flipkart-Product-Recommender-RAG"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Groq LLaMA-3", "LangChain", "HuggingFace Embeddings", "AstraDB Vector Search", "Docker", "Kubernetes (Minikube)", "Flask", "Streamlit", "Prometheus", "Grafana"]
+title: regabbb22/Flipkart-Product-Recommender-RAG
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Groq LLaMA-3
+- LangChain
+- HuggingFace Embeddings
+- AstraDB Vector Search
+- Docker
+- Kubernetes (Minikube)
+- Flask
+- Streamlit
+- Prometheus
+- Grafana
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Recommendation System", "RAG", "E-commerce", "Vector Search", "Scalable AI"]
-source: "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+deployment_complexity: Medium
+tags:
+- Recommendation System
+- RAG
+- E-commerce
+- Vector Search
+- Scalable AI
+source: https://github.com/regabbb22/Flipkart-Product-Recommender-RAG
 stars: 3
-language: "Python"
-last_updated: "2026-08-07T11:16:34Z"
-discovered_at: "2026-08-07T11:58:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:16:34Z'
+discovered_at: '2026-08-07T11:58:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

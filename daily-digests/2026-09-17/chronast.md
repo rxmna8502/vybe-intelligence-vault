@@ -1,19 +1,29 @@
 ---
-title: "Loco-King/chronast"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "MCP Server", "MIT License"]
+title: Loco-King/chronast
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- MCP Server
+- MIT License
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["time tracking", "MCP server", "local-first", "Claude Desktop", "timezone conversion"]
-source: "https://github.com/Loco-King/chronast"
+deployment_complexity: Low
+tags:
+- time tracking
+- MCP server
+- local-first
+- Claude Desktop
+- timezone conversion
+source: https://github.com/Loco-King/chronast
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-03T08:26:17Z"
-discovered_at: "2026-09-03T08:37:35Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T08:26:17Z'
+discovered_at: '2026-09-03T08:37:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

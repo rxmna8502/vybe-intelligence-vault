@@ -1,19 +1,37 @@
 ---
-title: "studiomeyer-io/studiomeyer-memory"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Python", "PostgreSQL", "pgvector", "Supabase", "HNSW", "OAuth 2.1", "Stripe", "React", "Three.js", "FastAPI", "LangChain", "CrewAI"]
+title: studiomeyer-io/studiomeyer-memory
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Python
+- PostgreSQL
+- pgvector
+- Supabase
+- HNSW
+- OAuth 2.1
+- Stripe
+- React
+- Three.js
+- FastAPI
+- LangChain
+- CrewAI
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI memory", "knowledge graph", "MCP server", "persistent context", "multi-agent"]
-source: "https://github.com/studiomeyer-io/studiomeyer-memory"
+deployment_complexity: Medium
+tags:
+- AI memory
+- knowledge graph
+- MCP server
+- persistent context
+- multi-agent
+source: https://github.com/studiomeyer-io/studiomeyer-memory
 stars: 4
-language: "None"
-last_updated: "2026-08-02T21:42:08Z"
-discovered_at: "2026-08-02T21:55:56Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-02T21:42:08Z'
+discovered_at: '2026-08-02T21:55:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

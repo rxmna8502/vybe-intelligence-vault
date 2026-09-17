@@ -1,19 +1,31 @@
 ---
-title: "senih25/RightFlow-Autopilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Qwen (Alibaba Cloud DashScope)", "React", "Node.js", "Alibaba Cloud Function Compute", "Docker", "ECS Compose"]
+title: senih25/RightFlow-Autopilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Qwen (Alibaba Cloud DashScope)
+- React
+- Node.js
+- Alibaba Cloud Function Compute
+- Docker
+- ECS Compose
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Qwen Cloud", "human-in-the-loop", "explainable AI", "deterministic screening", "social-rights casework"]
-source: "https://github.com/senih25/RightFlow-Autopilot"
+deployment_complexity: Medium
+tags:
+- Qwen Cloud
+- human-in-the-loop
+- explainable AI
+- deterministic screening
+- social-rights casework
+source: https://github.com/senih25/RightFlow-Autopilot
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T20:42:24Z"
-discovered_at: "2026-07-19T20:44:10Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T20:42:24Z'
+discovered_at: '2026-07-19T20:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

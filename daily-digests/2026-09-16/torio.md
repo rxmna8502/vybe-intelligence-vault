@@ -1,19 +1,32 @@
 ---
-title: "wzslr321/torio"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Lima VM", "Linux", "Markdown", "SSH", "systemd", "Hermes", "Claude Code"]
+title: wzslr321/torio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- Lima VM
+- Linux
+- Markdown
+- SSH
+- systemd
+- Hermes
+- Claude Code
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["VM orchestration", "AI second brain", "credential management", "secure workflow", "local AI deployment"]
-source: "https://github.com/wzslr321/torio"
+deployment_complexity: Medium
+tags:
+- VM orchestration
+- AI second brain
+- credential management
+- secure workflow
+- local AI deployment
+source: https://github.com/wzslr321/torio
 stars: 3
-language: "Go"
-last_updated: "2026-08-08T20:23:49Z"
-discovered_at: "2026-08-08T20:31:58Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T20:23:49Z'
+discovered_at: '2026-08-08T20:31:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

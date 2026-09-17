@@ -1,19 +1,29 @@
 ---
-title: "mfaizalzain/mygov-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Claude Code", "ChatGPT/Codex", "REST API"]
+title: mfaizalzain/mygov-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Claude Code
+- ChatGPT/Codex
+- REST API
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["government data", "MCP server", "Malaysia open data", "Claude Code plugin", "ChatGPT plugin"]
-source: "https://github.com/mfaizalzain/mygov-mcp"
+deployment_complexity: Low
+tags:
+- government data
+- MCP server
+- Malaysia open data
+- Claude Code plugin
+- ChatGPT plugin
+source: https://github.com/mfaizalzain/mygov-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T09:24:09Z"
-discovered_at: "2026-08-10T09:25:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T09:24:09Z'
+discovered_at: '2026-08-10T09:25:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

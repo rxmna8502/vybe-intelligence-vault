@@ -1,19 +1,28 @@
 ---
-title: "JOduMonT/qdrant"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Qdrant", "Docker", "Docker Compose", "Coolify"]
+title: JOduMonT/qdrant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Qdrant
+- Docker
+- Docker Compose
+- Coolify
 quality_score: 5
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["vector database", "qdrant", "docker deployment", "shared infrastructure", "tenant management"]
-source: "https://github.com/JOduMonT/qdrant"
+deployment_complexity: Medium
+tags:
+- vector database
+- qdrant
+- docker deployment
+- shared infrastructure
+- tenant management
+source: https://github.com/JOduMonT/qdrant
 stars: 0
-language: "None"
-last_updated: "2026-08-10T13:06:28Z"
-discovered_at: "2026-08-10T13:09:52Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-10T13:06:28Z'
+discovered_at: '2026-08-10T13:09:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

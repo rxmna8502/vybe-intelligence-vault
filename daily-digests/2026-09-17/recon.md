@@ -1,19 +1,32 @@
 ---
-title: "blisspixel/recon"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "DNS", "Certificate Transparency", "CLI", "JSON", "MCP Server", "YAML", "GitHub Actions"]
+title: blisspixel/recon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- DNS
+- Certificate Transparency
+- CLI
+- JSON
+- MCP Server
+- YAML
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["domain intelligence", "passive reconnaissance", "DNS analysis", "certificate transparency", "identity discovery"]
-source: "https://github.com/blisspixel/recon"
+deployment_complexity: Low
+tags:
+- domain intelligence
+- passive reconnaissance
+- DNS analysis
+- certificate transparency
+- identity discovery
+source: https://github.com/blisspixel/recon
 stars: 4
-language: "Python"
-last_updated: "2026-07-17T22:37:03Z"
-discovered_at: "2026-07-17T22:48:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T22:37:03Z'
+discovered_at: '2026-07-17T22:48:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

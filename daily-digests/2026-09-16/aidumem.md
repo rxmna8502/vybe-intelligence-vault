@@ -1,19 +1,35 @@
 ---
-title: "monkey2jack/aiduMEM"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "FastAPI", "Uvicorn", "mem0", "Qdrant", "SQLite", "BM25/trigram", "BGE-M3 (embeddings)", "OpenAI API (LLM)", "Docker", "FTS5 (full-text search)"]
+title: monkey2jack/aiduMEM
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python 3.12+
+- FastAPI
+- Uvicorn
+- mem0
+- Qdrant
+- SQLite
+- BM25/trigram
+- BGE-M3 (embeddings)
+- OpenAI API (LLM)
+- Docker
+- FTS5 (full-text search)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI memory", "cognitive architecture", "multi-agent federation", "hybrid retrieval", "forgetting curves"]
-source: "https://github.com/monkey2jack/aiduMEM"
+deployment_complexity: Medium
+tags:
+- AI memory
+- cognitive architecture
+- multi-agent federation
+- hybrid retrieval
+- forgetting curves
+source: https://github.com/monkey2jack/aiduMEM
 stars: 2
-language: "Python"
-last_updated: "2026-08-02T02:33:12Z"
-discovered_at: "2026-08-02T02:34:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T02:33:12Z'
+discovered_at: '2026-08-02T02:34:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

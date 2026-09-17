@@ -1,19 +1,29 @@
 ---
-title: "Redfordvaporish842/NocTORnal"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows OS", "Local Storage", "PDF Generation", "Access Control Systems"]
+title: Redfordvaporish842/NocTORnal
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Windows OS
+- Local Storage
+- PDF Generation
+- Access Control Systems
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["cybercrime investigation", "forensic tool", "malware analysis", "evidence management", "Windows application"]
-source: "https://github.com/Redfordvaporish842/NocTORnal"
+deployment_complexity: Low
+tags:
+- cybercrime investigation
+- forensic tool
+- malware analysis
+- evidence management
+- Windows application
+source: https://github.com/Redfordvaporish842/NocTORnal
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T02:39:05Z"
-discovered_at: "2026-08-07T02:41:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T02:39:05Z'
+discovered_at: '2026-08-07T02:41:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

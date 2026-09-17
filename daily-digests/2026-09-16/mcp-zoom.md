@@ -1,19 +1,27 @@
 ---
-title: "pipeworx-io/mcp-zoom"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Zoom API"]
+title: pipeworx-io/mcp-zoom
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Zoom API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Zoom integration", "MCP server", "AI agent tools", "meeting management", "cloud recordings"]
-source: "https://github.com/pipeworx-io/mcp-zoom"
+deployment_complexity: Low
+tags:
+- Zoom integration
+- MCP server
+- AI agent tools
+- meeting management
+- cloud recordings
+source: https://github.com/pipeworx-io/mcp-zoom
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T07:32:13Z"
-discovered_at: "2026-08-04T07:41:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:32:13Z'
+discovered_at: '2026-08-04T07:41:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "damonleelcx/heros-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "OpenTelemetry", "Docker", "Kubernetes", "Next.js", "Tree-sitter", "OpenAPI", "Stripe", "OIDC/SAML", "GitHub/GitLab/Bitbucket APIs"]
+title: damonleelcx/heros-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Go
+- OpenTelemetry
+- Docker
+- Kubernetes
+- Next.js
+- Tree-sitter
+- OpenAPI
+- Stripe
+- OIDC/SAML
+- GitHub/GitLab/Bitbucket APIs
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["LLM optimization", "autonomous agent", "prompt engineering", "cost reduction", "CI/CD integration"]
-source: "https://github.com/damonleelcx/heros-agent"
+deployment_complexity: High
+tags:
+- LLM optimization
+- autonomous agent
+- prompt engineering
+- cost reduction
+- CI/CD integration
+source: https://github.com/damonleelcx/heros-agent
 stars: 1
-language: "Go"
-last_updated: "2026-08-03T02:50:51Z"
-discovered_at: "2026-08-03T02:54:27Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-03T02:50:51Z'
+discovered_at: '2026-08-03T02:54:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

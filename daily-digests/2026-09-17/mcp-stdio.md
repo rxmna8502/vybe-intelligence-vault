@@ -1,19 +1,31 @@
 ---
-title: "shigechika/mcp-stdio"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "HTTP/HTTPS", "OAuth 2.1", "SSE (Server-Sent Events)", "Streamable HTTP", "JSON-RPC", "CLI"]
+title: shigechika/mcp-stdio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- HTTP/HTTPS
+- OAuth 2.1
+- SSE (Server-Sent Events)
+- Streamable HTTP
+- JSON-RPC
+- CLI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP gateway", "OAuth integration", "stdio-to-HTTP", "remote server connector", "authentication proxy"]
-source: "https://github.com/shigechika/mcp-stdio"
+deployment_complexity: Medium
+tags:
+- MCP gateway
+- OAuth integration
+- stdio-to-HTTP
+- remote server connector
+- authentication proxy
+source: https://github.com/shigechika/mcp-stdio
 stars: 5
-language: "Python"
-last_updated: "2026-08-02T08:20:06Z"
-discovered_at: "2026-08-02T08:22:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T08:20:06Z'
+discovered_at: '2026-08-02T08:22:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

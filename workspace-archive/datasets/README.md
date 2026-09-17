@@ -10,12 +10,12 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (framework - ESSENTIAL Tier)
 - [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717) (framework - ESSENTIAL Tier)
+- [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) (framework - ESSENTIAL Tier)
 - [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
 - [Towards Generalizable Visually Grounded Exploration of Household Devices](https://arxiv.org/abs/2609.00845) (framework - ESSENTIAL Tier)
 - [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (framework - ESSENTIAL Tier)
 - [PEMAND: Persona-Enriched Multi-Agent Negotiation for Household Decision-Making](https://arxiv.org/abs/2604.10475) (framework - ESSENTIAL Tier)
-- [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-09-16 04:48 IST*
+*Last updated: 2026-09-17 10:52 IST*

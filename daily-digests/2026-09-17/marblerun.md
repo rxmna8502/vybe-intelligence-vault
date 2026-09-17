@@ -1,19 +1,30 @@
 ---
-title: "ellmos-ai/MarbleRun"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code CLI", "JSON", "SQLite", "Subprocess", "Pathlib"]
+title: ellmos-ai/MarbleRun
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Claude Code CLI
+- JSON
+- SQLite
+- Subprocess
+- Pathlib
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["LLM orchestration", "multi-agent systems", "autonomous workflows", "Claude Code automation", "stateful chains"]
-source: "https://github.com/ellmos-ai/MarbleRun"
+deployment_complexity: Medium
+tags:
+- LLM orchestration
+- multi-agent systems
+- autonomous workflows
+- Claude Code automation
+- stateful chains
+source: https://github.com/ellmos-ai/MarbleRun
 stars: 1
-language: "Python"
-last_updated: "2026-08-01T06:21:31Z"
-discovered_at: "2026-08-01T06:28:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T06:21:31Z'
+discovered_at: '2026-08-01T06:28:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

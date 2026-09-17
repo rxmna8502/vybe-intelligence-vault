@@ -1,19 +1,32 @@
 ---
-title: "chenshize/weclaudex"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "WeChat API", "Claude Code CLI", "Codex CLI", "Express.js", "Jest", "Docker"]
+title: chenshize/weclaudex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Node.js
+- TypeScript
+- WeChat API
+- Claude Code CLI
+- Codex CLI
+- Express.js
+- Jest
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["remote agent control", "multi-modal input", "resumable sessions", "secure workspace", "artifact delivery"]
-source: "https://github.com/chenshize/weclaudex"
+deployment_complexity: Medium
+tags:
+- remote agent control
+- multi-modal input
+- resumable sessions
+- secure workspace
+- artifact delivery
+source: https://github.com/chenshize/weclaudex
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-16T05:36:03Z"
-discovered_at: "2026-07-16T05:39:14Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-16T05:36:03Z'
+discovered_at: '2026-07-16T05:39:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "dhapat3927/mcp-edd-analytics-vantage"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "RESTful APIs", "JWT/OAuth", "Redis", "PostgreSQL", "Docker", "Kubernetes", "Swagger UI", "HMAC", "TLS 1.2+"]
+title: dhapat3927/mcp-edd-analytics-vantage
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- RESTful APIs
+- JWT/OAuth
+- Redis
+- PostgreSQL
+- Docker
+- Kubernetes
+- Swagger UI
+- HMAC
+- TLS 1.2+
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["e-commerce middleware", "API orchestration", "data integrity", "analytics engine", "security layer"]
-source: "https://github.com/dhapat3927/mcp-edd-analytics-vantage"
+deployment_complexity: Medium
+tags:
+- e-commerce middleware
+- API orchestration
+- data integrity
+- analytics engine
+- security layer
+source: https://github.com/dhapat3927/mcp-edd-analytics-vantage
 stars: 115
-language: "HTML"
-last_updated: "2026-09-01T22:12:58Z"
-discovered_at: "2026-09-01T22:19:54Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T22:12:58Z'
+discovered_at: '2026-09-01T22:19:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

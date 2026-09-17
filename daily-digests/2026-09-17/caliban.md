@@ -1,19 +1,31 @@
 ---
-title: "caliban-ai/caliban"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tokio", "ratatui", "OpenTelemetry", "MCP (Model Context Protocol)", "Docker", "GitHub Actions"]
+title: caliban-ai/caliban
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Rust
+- Tokio
+- ratatui
+- OpenTelemetry
+- MCP (Model Context Protocol)
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent framework", "model routing", "Rust", "sandboxing", "multi-provider"]
-source: "https://github.com/caliban-ai/caliban"
+deployment_complexity: Medium
+tags:
+- agent framework
+- model routing
+- Rust
+- sandboxing
+- multi-provider
+source: https://github.com/caliban-ai/caliban
 stars: 0
-language: "Rust"
-last_updated: "2026-08-01T19:09:06Z"
-discovered_at: "2026-08-01T19:19:06Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T19:09:06Z'
+discovered_at: '2026-08-01T19:19:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

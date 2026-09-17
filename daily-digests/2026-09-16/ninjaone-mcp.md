@@ -1,19 +1,32 @@
 ---
-title: "wyre-technology/ninjaone-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth 2.0", "Docker", "GitHub Packages", "Cloudflare Workers", "DigitalOcean App Platform"]
+title: wyre-technology/ninjaone-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OAuth 2.0
+- Docker
+- GitHub Packages
+- Cloudflare Workers
+- DigitalOcean App Platform
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "NinjaOne integration", "IT management", "AI tooling", "lazy loading"]
-source: "https://github.com/wyre-technology/ninjaone-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- NinjaOne integration
+- IT management
+- AI tooling
+- lazy loading
+source: https://github.com/wyre-technology/ninjaone-mcp
 stars: 19
-language: "TypeScript"
-last_updated: "2026-08-10T16:59:51Z"
-discovered_at: "2026-08-10T17:06:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T16:59:51Z'
+discovered_at: '2026-08-10T17:06:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "Iseenope/bilibili-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Bilibili API", "ffmpeg", "WBI (Web Browser Interface) encryption"]
+title: Iseenope/bilibili-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Bilibili API
+- ffmpeg
+- WBI (Web Browser Interface) encryption
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Bilibili", "MCP Server", "Video Data Extraction", "Live Stream Analytics", "Content Management"]
-source: "https://github.com/Iseenope/bilibili-mcp-server"
+deployment_complexity: Medium
+tags:
+- Bilibili
+- MCP Server
+- Video Data Extraction
+- Live Stream Analytics
+- Content Management
+source: https://github.com/Iseenope/bilibili-mcp-server
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-18T13:08:08Z"
-discovered_at: "2026-07-18T13:09:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T13:08:08Z'
+discovered_at: '2026-07-18T13:09:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

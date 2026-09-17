@@ -1,19 +1,40 @@
 ---
-title: "Artemon-line/ai-memory-hub"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "SQLite", "LanceDB", "PostgreSQL", "PGVector", "MongoDB", "Qdrant", "Milvus", "Weaviate", "Elasticsearch", "OpenSearch", "Redis", "Typesense", "Docker"]
+title: Artemon-line/ai-memory-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- SQLite
+- LanceDB
+- PostgreSQL
+- PGVector
+- MongoDB
+- Qdrant
+- Milvus
+- Weaviate
+- Elasticsearch
+- OpenSearch
+- Redis
+- Typesense
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory management", "AI agents", "MCP", "semantic search", "cross-client handoff"]
-source: "https://github.com/Artemon-line/ai-memory-hub"
+deployment_complexity: Medium
+tags:
+- memory management
+- AI agents
+- MCP
+- semantic search
+- cross-client handoff
+source: https://github.com/Artemon-line/ai-memory-hub
 stars: 2
-language: "Python"
-last_updated: "2026-08-08T07:11:23Z"
-discovered_at: "2026-08-08T07:51:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T07:11:23Z'
+discovered_at: '2026-08-08T07:51:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

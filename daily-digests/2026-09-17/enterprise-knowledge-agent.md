@@ -1,19 +1,30 @@
 ---
-title: "magicyao2028-pixel/enterprise-knowledge-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI", "JSON", "Mermaid (for diagrams)", "Unittest (testing framework)", "Static site generation (for prototype UI)"]
+title: magicyao2028-pixel/enterprise-knowledge-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- CLI
+- JSON
+- Mermaid (for diagrams)
+- Unittest (testing framework)
+- Static site generation (for prototype UI)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["offline knowledge agent", "grounded retrieval", "citation-based answers", "abstention policy", "enterprise knowledge management"]
-source: "https://github.com/magicyao2028-pixel/enterprise-knowledge-agent"
+deployment_complexity: Medium
+tags:
+- offline knowledge agent
+- grounded retrieval
+- citation-based answers
+- abstention policy
+- enterprise knowledge management
+source: https://github.com/magicyao2028-pixel/enterprise-knowledge-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T02:48:31Z"
-discovered_at: "2026-08-03T02:54:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T02:48:31Z'
+discovered_at: '2026-08-03T02:54:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

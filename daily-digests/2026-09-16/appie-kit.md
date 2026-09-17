@@ -1,19 +1,40 @@
 ---
-title: "S3YED/appie-kit"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "OpenClaw", "MiniMax M2.7", "OpenRouter", "OpenClaw", "Exa AI", "DigitalOcean", "GitHub", "n8n", "Telegram API", "Discord API", "Whisper STT", "ComfyUI", "Kling", "Nano Banana"]
+title: S3YED/appie-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Hermes Agent
+- OpenClaw
+- MiniMax M2.7
+- OpenRouter
+- OpenClaw
+- Exa AI
+- DigitalOcean
+- GitHub
+- n8n
+- Telegram API
+- Discord API
+- Whisper STT
+- ComfyUI
+- Kling
+- Nano Banana
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "AI workforce", "agentic skills", "multi-agent systems", "production-ready AI"]
-source: "https://github.com/S3YED/appie-kit"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- AI workforce
+- agentic skills
+- multi-agent systems
+- production-ready AI
+source: https://github.com/S3YED/appie-kit
 stars: 5
-language: "Python"
-last_updated: "2026-07-15T02:08:21Z"
-discovered_at: "2026-07-15T02:12:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T02:08:21Z'
+discovered_at: '2026-07-15T02:12:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

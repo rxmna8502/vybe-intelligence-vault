@@ -1,19 +1,33 @@
 ---
-title: "azmartone67/dchub-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "JavaScript", "HTTP API", "OpenStreetMap", "EIA API", "HIFLD", "PeeringDB", "Smithery", "Glama"]
+title: azmartone67/dchub-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- MCP (Model Context Protocol)
+- JavaScript
+- HTTP API
+- OpenStreetMap
+- EIA API
+- HIFLD
+- PeeringDB
+- Smithery
+- Glama
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["MCP Server", "Real-time Infrastructure Data", "Energy Intelligence", "Data Center Site Selection", "Grid Telemetry"]
-source: "https://github.com/azmartone67/dchub-mcp-server"
+deployment_complexity: Low
+tags:
+- MCP Server
+- Real-time Infrastructure Data
+- Energy Intelligence
+- Data Center Site Selection
+- Grid Telemetry
+source: https://github.com/azmartone67/dchub-mcp-server
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-06T03:13:08Z"
-discovered_at: "2026-08-06T03:19:36Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T03:13:08Z'
+discovered_at: '2026-08-06T03:19:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

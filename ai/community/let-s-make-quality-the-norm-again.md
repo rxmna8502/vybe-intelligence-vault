@@ -13,13 +13,14 @@ collected_at: '2026-09-16T04:29:41.470153+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:let-s-make-quality-the-norm-again
 first_seen: '2026-09-16T01:17:18.660384+05:30'
 last_seen: '2026-09-16T04:29:41.470153+05:30'
 last_checked: '2026-09-16T04:29:41.470153+05:30'
 health_score: 100
 ---
+
 
 # Let's make quality the norm again
 

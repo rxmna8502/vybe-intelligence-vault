@@ -1,19 +1,29 @@
 ---
-title: "nimbus-agent/nimbus-sdk"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Bun", "Nimbus", "Model Context Protocol (MCP)"]
+title: nimbus-agent/nimbus-sdk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- Nimbus
+- Model Context Protocol (MCP)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP", "TypeScript SDK", "Agent Extensions", "Nimbus", "Connector Development"]
-source: "https://github.com/nimbus-agent/nimbus-sdk"
+deployment_complexity: Low
+tags:
+- MCP
+- TypeScript SDK
+- Agent Extensions
+- Nimbus
+- Connector Development
+source: https://github.com/nimbus-agent/nimbus-sdk
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-16T02:22:33Z"
-discovered_at: "2026-07-16T02:25:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T02:22:33Z'
+discovered_at: '2026-07-16T02:25:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

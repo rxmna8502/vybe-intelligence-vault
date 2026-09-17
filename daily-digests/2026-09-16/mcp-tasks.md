@@ -1,19 +1,29 @@
 ---
-title: "flesler/mcp-tasks"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "Docker"]
+title: flesler/mcp-tasks
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Zod
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["task management", "MCP server", "multi-format support", "AI workflow", "LLM optimization"]
-source: "https://github.com/flesler/mcp-tasks"
+deployment_complexity: Low
+tags:
+- task management
+- MCP server
+- multi-format support
+- AI workflow
+- LLM optimization
+source: https://github.com/flesler/mcp-tasks
 stars: 46
-language: "TypeScript"
-last_updated: "2026-08-06T15:14:53Z"
-discovered_at: "2026-08-06T15:19:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T15:14:53Z'
+discovered_at: '2026-08-06T15:19:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

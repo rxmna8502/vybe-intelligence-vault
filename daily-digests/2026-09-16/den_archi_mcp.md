@@ -1,19 +1,30 @@
 ---
-title: "odd-Innocent/den_archi_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Graph-based knowledge representation", "OAuth", "REST API", "Claude Desktop integration"]
+title: odd-Innocent/den_archi_mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Graph-based knowledge representation
+- OAuth
+- REST API
+- Claude Desktop integration
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AEC knowledge", "MCP server", "Korean regulations", "evidence-based reasoning", "construction standards"]
-source: "https://github.com/odd-Innocent/den_archi_mcp"
+deployment_complexity: Medium
+tags:
+- AEC knowledge
+- MCP server
+- Korean regulations
+- evidence-based reasoning
+- construction standards
+source: https://github.com/odd-Innocent/den_archi_mcp
 stars: 0
-language: "Python"
-last_updated: "2026-09-04T02:09:22Z"
-discovered_at: "2026-09-04T02:15:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T02:09:22Z'
+discovered_at: '2026-09-04T02:15:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

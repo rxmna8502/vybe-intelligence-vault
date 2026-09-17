@@ -1,19 +1,34 @@
 ---
-title: "meelone128/meelone128"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Streamlit", "PostgreSQL", "LLM", "RAG", "AI Agent", "Prompt Engineering", "Pandas", "Reinforcement Learning"]
+title: meelone128/meelone128
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- FastAPI
+- Streamlit
+- PostgreSQL
+- LLM
+- RAG
+- AI Agent
+- Prompt Engineering
+- Pandas
+- Reinforcement Learning
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Agent", "RAG", "Business Intelligence", "Evaluation Platform", "Multi-Agent Systems"]
-source: "https://github.com/meelone128/meelone128"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- RAG
+- Business Intelligence
+- Evaluation Platform
+- Multi-Agent Systems
+source: https://github.com/meelone128/meelone128
 stars: 0
-language: "None"
-last_updated: "2026-08-09T09:41:30Z"
-discovered_at: "2026-08-09T09:43:03Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T09:41:30Z'
+discovered_at: '2026-08-09T09:43:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "ihint/merchant-context"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JSON Schema", "MCP (Model Context Protocol)", "x402 (payment protocol)", "Node.js", "Cloudflare Workers"]
+title: ihint/merchant-context
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- JSON Schema
+- MCP (Model Context Protocol)
+- x402 (payment protocol)
+- Node.js
+- Cloudflare Workers
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["commerce schema", "agent discovery", "MCP inspector", "x402 integration", "merchant context"]
-source: "https://github.com/ihint/merchant-context"
+deployment_complexity: Medium
+tags:
+- commerce schema
+- agent discovery
+- MCP inspector
+- x402 integration
+- merchant context
+source: https://github.com/ihint/merchant-context
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T00:10:46Z"
-discovered_at: "2026-08-04T00:11:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T00:10:46Z'
+discovered_at: '2026-08-04T00:11:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

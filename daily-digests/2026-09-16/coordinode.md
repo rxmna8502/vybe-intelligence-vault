@@ -1,19 +1,30 @@
 ---
-title: "sarcosomebankcheck694/coordinode"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "HNSW (Hierarchical Navigable Small World)", "MVCC (Multi-Version Concurrency Control)", "OpenCypher", "Embedded Database", "Vector Database"]
+title: sarcosomebankcheck694/coordinode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- HNSW (Hierarchical Navigable Small World)
+- MVCC (Multi-Version Concurrency Control)
+- OpenCypher
+- Embedded Database
+- Vector Database
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["GraphRAG", "Knowledge Graph", "Vector Search", "Local AI", "Semantic Retrieval"]
-source: "https://github.com/sarcosomebankcheck694/coordinode"
+deployment_complexity: Low
+tags:
+- GraphRAG
+- Knowledge Graph
+- Vector Search
+- Local AI
+- Semantic Retrieval
+source: https://github.com/sarcosomebankcheck694/coordinode
 stars: 0
-language: "Rust"
-last_updated: "2026-08-09T14:04:37Z"
-discovered_at: "2026-08-09T14:38:44Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T14:04:37Z'
+discovered_at: '2026-08-09T14:38:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

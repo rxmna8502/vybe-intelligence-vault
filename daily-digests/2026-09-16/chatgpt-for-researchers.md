@@ -1,19 +1,29 @@
 ---
-title: "antiamerican-postponer432/chatgpt-for-researchers"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI API", "LaTeX", "Mathematica", "Windows OS"]
+title: antiamerican-postponer432/chatgpt-for-researchers
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- OpenAI API
+- LaTeX
+- Mathematica
+- Windows OS
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["research automation", "AI-assisted writing", "scientific computing", "prompt management", "workflow optimization"]
-source: "https://github.com/antiamerican-postponer432/chatgpt-for-researchers"
+deployment_complexity: Medium
+tags:
+- research automation
+- AI-assisted writing
+- scientific computing
+- prompt management
+- workflow optimization
+source: https://github.com/antiamerican-postponer432/chatgpt-for-researchers
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T02:39:18Z"
-discovered_at: "2026-08-07T02:41:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T02:39:18Z'
+discovered_at: '2026-08-07T02:41:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

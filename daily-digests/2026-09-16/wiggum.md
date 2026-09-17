@@ -1,19 +1,30 @@
 ---
-title: "benman1/wiggum"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Shell", "Claude Code", "Markdown", "Git", "AI-driven automation", "Verification toolchains (linters, type checkers, test suites)"]
+title: benman1/wiggum
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Shell
+- Claude Code
+- Markdown
+- Git
+- AI-driven automation
+- Verification toolchains (linters, type checkers, test suites)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-driving agent", "automated development", "Claude Code integration", "workplan execution", "verification automation"]
-source: "https://github.com/benman1/wiggum"
+deployment_complexity: Medium
+tags:
+- self-driving agent
+- automated development
+- Claude Code integration
+- workplan execution
+- verification automation
+source: https://github.com/benman1/wiggum
 stars: 1
-language: "Shell"
-last_updated: "2026-08-01T17:57:39Z"
-discovered_at: "2026-08-01T17:59:59Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-01T17:57:39Z'
+discovered_at: '2026-08-01T17:59:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

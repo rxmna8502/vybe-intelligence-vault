@@ -1,19 +1,39 @@
 ---
-title: "Jersyfi/hubtask"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "PostgreSQL", "Hexagonal Architecture", "REST API", "MCP Server", "OpenAPI 3.1", "CEL (Common Expression Language)", "OpenTelemetry", "Prometheus", "Svelte 5", "TypeScript", "Docker/Podman", "Kubernetes", "NATS JetStream (optional)", "S3/MinIO (backup targets)"]
+title: Jersyfi/hubtask
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- PostgreSQL
+- Hexagonal Architecture
+- REST API
+- MCP Server
+- OpenAPI 3.1
+- CEL (Common Expression Language)
+- OpenTelemetry
+- Prometheus
+- Svelte 5
+- TypeScript
+- Docker/Podman
+- Kubernetes
+- NATS JetStream (optional)
+- S3/MinIO (backup targets)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["task management", "multi-tenant", "GDPR compliance", "offline sync", "AI integration"]
-source: "https://github.com/Jersyfi/hubtask"
+deployment_complexity: Medium
+tags:
+- task management
+- multi-tenant
+- GDPR compliance
+- offline sync
+- AI integration
+source: https://github.com/Jersyfi/hubtask
 stars: 0
-language: "Go"
-last_updated: "2026-09-03T08:27:10Z"
-discovered_at: "2026-09-03T08:37:32Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T08:27:10Z'
+discovered_at: '2026-09-03T08:37:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

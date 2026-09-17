@@ -1,19 +1,30 @@
 ---
-title: "jayadevrana/youtube-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "YouTube Data API v3", "YouTube Analytics API", "OAuth 2.0", "Model Context Protocol (MCP)", "launchd"]
+title: jayadevrana/youtube-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- YouTube Data API v3
+- YouTube Analytics API
+- OAuth 2.0
+- Model Context Protocol (MCP)
+- launchd
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["YouTube automation", "MCP server", "video management", "OAuth integration", "analytics"]
-source: "https://github.com/jayadevrana/youtube-mcp-server"
+deployment_complexity: Medium
+tags:
+- YouTube automation
+- MCP server
+- video management
+- OAuth integration
+- analytics
+source: https://github.com/jayadevrana/youtube-mcp-server
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T06:41:12Z"
-discovered_at: "2026-08-08T06:52:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T06:41:12Z'
+discovered_at: '2026-08-08T06:52:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

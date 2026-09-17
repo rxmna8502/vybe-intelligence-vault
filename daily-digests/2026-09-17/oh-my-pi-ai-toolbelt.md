@@ -1,19 +1,35 @@
 ---
-title: "Labir12/oh-my-pi-ai-toolbelt"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Language Server Protocol (LSP)", "Mermaid.js", "Rich/Textual (UI)", "OpenAI API", "Claude API", "llama.cpp", "Ollama", "LocalAI", "YAML", "Bash"]
+title: Labir12/oh-my-pi-ai-toolbelt
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Language Server Protocol (LSP)
+- Mermaid.js
+- Rich/Textual (UI)
+- OpenAI API
+- Claude API
+- llama.cpp
+- Ollama
+- LocalAI
+- YAML
+- Bash
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["terminal automation", "multi-agent orchestration", "hash-anchored edits", "LSP integration", "AI-powered CLI"]
-source: "https://github.com/Labir12/oh-my-pi-ai-toolbelt"
+deployment_complexity: Medium
+tags:
+- terminal automation
+- multi-agent orchestration
+- hash-anchored edits
+- LSP integration
+- AI-powered CLI
+source: https://github.com/Labir12/oh-my-pi-ai-toolbelt
 stars: 4
-language: "HTML"
-last_updated: "2026-09-02T22:12:55Z"
-discovered_at: "2026-09-02T22:16:36Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-02T22:12:55Z'
+discovered_at: '2026-09-02T22:16:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

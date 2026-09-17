@@ -1,19 +1,32 @@
 ---
-title: "Notryag/north-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "SQLite", "PostgreSQL", "Asyncio", "Event Sourcing", "Checkpointers"]
+title: Notryag/north-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- SQLite
+- PostgreSQL
+- Asyncio
+- Event Sourcing
+- Checkpointers
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Agent Runtime", "Embeddable AI", "Tool Integration", "Context Persistence", "Streaming Output"]
-source: "https://github.com/Notryag/north-agent"
+deployment_complexity: Medium
+tags:
+- Agent Runtime
+- Embeddable AI
+- Tool Integration
+- Context Persistence
+- Streaming Output
+source: https://github.com/Notryag/north-agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-20T03:30:57Z"
-discovered_at: "2026-07-20T03:37:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T03:30:57Z'
+discovered_at: '2026-07-20T03:37:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

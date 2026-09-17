@@ -1,19 +1,33 @@
 ---
-title: "TAIPANBOX/engram"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "SQLite", "BM25", "Vector embeddings", "MCP (Model Context Protocol)", "Asyncio", "SQLAlchemy", "FastAPI", "Pydantic"]
+title: TAIPANBOX/engram
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- SQLite
+- BM25
+- Vector embeddings
+- MCP (Model Context Protocol)
+- Asyncio
+- SQLAlchemy
+- FastAPI
+- Pydantic
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["memory layer", "episodic memory", "semantic memory", "bitemporal facts", "provenance tracking"]
-source: "https://github.com/TAIPANBOX/engram"
+deployment_complexity: Low
+tags:
+- memory layer
+- episodic memory
+- semantic memory
+- bitemporal facts
+- provenance tracking
+source: https://github.com/TAIPANBOX/engram
 stars: 2
-language: "Python"
-last_updated: "2026-08-10T07:22:40Z"
-discovered_at: "2026-08-10T07:35:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T07:22:40Z'
+discovered_at: '2026-08-10T07:35:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

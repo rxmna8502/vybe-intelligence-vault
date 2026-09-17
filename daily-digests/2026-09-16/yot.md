@@ -1,19 +1,32 @@
 ---
-title: "eitaar/yot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Axum", "Rusqlite", "Vue 3", "SSE", "MCP", "SQLite", "REST API"]
+title: eitaar/yot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- Axum
+- Rusqlite
+- Vue 3
+- SSE
+- MCP
+- SQLite
+- REST API
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["calendar", "Rust backend", "SSE realtime", "MCP integration", "single-user"]
-source: "https://github.com/eitaar/yot"
+deployment_complexity: Medium
+tags:
+- calendar
+- Rust backend
+- SSE realtime
+- MCP integration
+- single-user
+source: https://github.com/eitaar/yot
 stars: 0
-language: "Rust"
-last_updated: "2026-07-19T10:16:15Z"
-discovered_at: "2026-07-19T10:26:59Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-19T10:16:15Z'
+discovered_at: '2026-07-19T10:26:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

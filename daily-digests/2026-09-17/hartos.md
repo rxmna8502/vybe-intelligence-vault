@@ -1,19 +1,37 @@
 ---
-title: "hertz-ai/HARTOS"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PyTorch", "Transformers", "ONNX Runtime", "Scipy", "Nix", "Docker", "WebSocket", "GGUF", "Ed25519", "JWT", "Wayland", "Smithay"]
+title: hertz-ai/HARTOS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- PyTorch
+- Transformers
+- ONNX Runtime
+- Scipy
+- Nix
+- Docker
+- WebSocket
+- GGUF
+- Ed25519
+- JWT
+- Wayland
+- Smithay
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["AI-native OS", "peer-to-peer federation", "local inference", "OpenAI-compatible API", "federated learning"]
-source: "https://github.com/hertz-ai/HARTOS"
+deployment_complexity: High
+tags:
+- AI-native OS
+- peer-to-peer federation
+- local inference
+- OpenAI-compatible API
+- federated learning
+source: https://github.com/hertz-ai/HARTOS
 stars: 49
-language: "Python"
-last_updated: "2026-08-02T14:58:56Z"
-discovered_at: "2026-08-02T15:02:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T14:58:56Z'
+discovered_at: '2026-08-02T15:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

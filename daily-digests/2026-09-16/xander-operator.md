@@ -1,19 +1,32 @@
 ---
-title: "GBOYEE/xander-operator"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Playwright", "LLM (OpenAI/Ollama)", "Chroma/FAISS (vector DB)", "SQLite", "HTML/CSS (reporting)", "CLI", "GitHub Actions (CI)"]
+title: GBOYEE/xander-operator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Playwright
+- LLM (OpenAI/Ollama)
+- Chroma/FAISS (vector DB)
+- SQLite
+- HTML/CSS (reporting)
+- CLI
+- GitHub Actions (CI)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["browser automation", "vector memory", "LLM synthesis", "human-in-the-loop", "auditability"]
-source: "https://github.com/GBOYEE/xander-operator"
+deployment_complexity: Medium
+tags:
+- browser automation
+- vector memory
+- LLM synthesis
+- human-in-the-loop
+- auditability
+source: https://github.com/GBOYEE/xander-operator
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-15T17:55:29Z"
-discovered_at: "2026-07-15T18:06:11Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-15T17:55:29Z'
+discovered_at: '2026-07-15T18:06:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

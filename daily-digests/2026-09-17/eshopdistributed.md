@@ -1,19 +1,33 @@
 ---
-title: "restocado/EShopDistributed"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: [".NET Aspire", "ASP.NET Core Web API", "PostgreSQL", "Redis", "RabbitMQ", "Keycloak", "Ollama", "VectorDB", "EF Core"]
+title: restocado/EShopDistributed
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- .NET Aspire
+- ASP.NET Core Web API
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Keycloak
+- Ollama
+- VectorDB
+- EF Core
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["distributed-architecture", "microservices", "ai-integration", "cloud-native", "learning-project"]
-source: "https://github.com/restocado/EShopDistributed"
+deployment_complexity: High
+tags:
+- distributed-architecture
+- microservices
+- ai-integration
+- cloud-native
+- learning-project
+source: https://github.com/restocado/EShopDistributed
 stars: 0
-language: "C#"
-last_updated: "2026-08-07T17:45:46Z"
-discovered_at: "2026-08-07T17:53:05Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T17:45:46Z'
+discovered_at: '2026-08-07T17:53:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

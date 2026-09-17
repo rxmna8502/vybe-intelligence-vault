@@ -1,19 +1,35 @@
 ---
-title: "pxsloot/gitea-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "FastAPI", "uv", "Docker", "OpenAPI/Swagger", "MCP Protocol", "Ruff", "MyPy", "Pytest", "OpenTelemetry"]
+title: pxsloot/gitea-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- FastMCP
+- FastAPI
+- uv
+- Docker
+- OpenAPI/Swagger
+- MCP Protocol
+- Ruff
+- MyPy
+- Pytest
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Gitea Integration", "AI Agent Tools", "Version Control", "Automation"]
-source: "https://github.com/pxsloot/gitea-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Gitea Integration
+- AI Agent Tools
+- Version Control
+- Automation
+source: https://github.com/pxsloot/gitea-mcp-server
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T17:58:36Z"
-discovered_at: "2026-08-01T18:00:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T17:58:36Z'
+discovered_at: '2026-08-01T18:00:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

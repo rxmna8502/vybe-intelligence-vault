@@ -1,19 +1,31 @@
 ---
-title: "mailtea-app/mailtea-agent-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Agent Plugins 1.0.0", "MCP (Model Context Protocol)", "Node.js", "TypeScript", "Mailtea API", "JSON", "Git"]
+title: mailtea-app/mailtea-agent-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Agent Plugins 1.0.0
+- MCP (Model Context Protocol)
+- Node.js
+- TypeScript
+- Mailtea API
+- JSON
+- Git
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agent integration", "email automation", "MCP server", "newsletter management", "publication websites"]
-source: "https://github.com/mailtea-app/mailtea-agent-plugin"
+deployment_complexity: Medium
+tags:
+- AI agent integration
+- email automation
+- MCP server
+- newsletter management
+- publication websites
+source: https://github.com/mailtea-app/mailtea-agent-plugin
 stars: 0
-language: "None"
-last_updated: "2026-08-07T08:14:28Z"
-discovered_at: "2026-08-07T08:16:04Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T08:14:28Z'
+discovered_at: '2026-08-07T08:16:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "lj22503/invest-brain"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "ChromaDB (Vector DB)", "ONNX (Embedding Models)", "DeepSeek API (LLM)", "SQLite (Local Memory Storage)", "FastAPI (REST API)", "Claude Desktop (Integration)", "AKShare (Market Data)", "Tushare (Financial Data)"]
+title: lj22503/invest-brain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- ChromaDB (Vector DB)
+- ONNX (Embedding Models)
+- DeepSeek API (LLM)
+- SQLite (Local Memory Storage)
+- FastAPI (REST API)
+- Claude Desktop (Integration)
+- AKShare (Market Data)
+- Tushare (Financial Data)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Investment Discipline", "RAG for Finance", "Behavior Pattern Mining", "MCP Server", "AI-Powered Memory System"]
-source: "https://github.com/lj22503/invest-brain"
+deployment_complexity: Medium
+tags:
+- Investment Discipline
+- RAG for Finance
+- Behavior Pattern Mining
+- MCP Server
+- AI-Powered Memory System
+source: https://github.com/lj22503/invest-brain
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T23:59:08Z"
-discovered_at: "2026-08-07T00:01:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T23:59:08Z'
+discovered_at: '2026-08-07T00:01:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

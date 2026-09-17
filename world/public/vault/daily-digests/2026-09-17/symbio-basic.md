@@ -1,19 +1,35 @@
 ---
-title: "Beyond-Horizons-Institute/symbio-basic"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Three.js", "VRM (3D Avatar Format)", "PostgreSQL", "Neo4j", "SQLite", "OpenAI API", "Google Gemini API", "Hermes Agent Framework", "MCP (Model Context Protocol)"]
+title: Beyond-Horizons-Institute/symbio-basic
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Electron
+- Three.js
+- VRM (3D Avatar Format)
+- PostgreSQL
+- Neo4j
+- SQLite
+- OpenAI API
+- Google Gemini API
+- Hermes Agent Framework
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI companion", "3D avatar", "desktop agent", "autonomous agent", "memory persistence"]
-source: "https://github.com/Beyond-Horizons-Institute/symbio-basic"
+deployment_complexity: Medium
+tags:
+- AI companion
+- 3D avatar
+- desktop agent
+- autonomous agent
+- memory persistence
+source: https://github.com/Beyond-Horizons-Institute/symbio-basic
 stars: 6
-language: "TypeScript"
-last_updated: "2026-09-02T19:01:02Z"
-discovered_at: "2026-09-02T19:11:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:01:02Z'
+discovered_at: '2026-09-02T19:11:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

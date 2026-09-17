@@ -1,19 +1,34 @@
 ---
-title: "oneshot-agent/oneshot-gtm"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun Runtime", "SQLite", "React", "OneShot SDK", "OpenRouter / OpenAI / Anthropic (LLM integration)", "GitHub API", "X (Twitter) API", "OAuth", "WebAssembly (for dashboard SPA)"]
+title: oneshot-agent/oneshot-gtm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Bun Runtime
+- SQLite
+- React
+- OneShot SDK
+- OpenRouter / OpenAI / Anthropic (LLM integration)
+- GitHub API
+- X (Twitter) API
+- OAuth
+- WebAssembly (for dashboard SPA)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["GTM automation", "pay-per-result", "signed receipts", "founder-led sales", "local-first"]
-source: "https://github.com/oneshot-agent/oneshot-gtm"
+deployment_complexity: Medium
+tags:
+- GTM automation
+- pay-per-result
+- signed receipts
+- founder-led sales
+- local-first
+source: https://github.com/oneshot-agent/oneshot-gtm
 stars: 293
-language: "TypeScript"
-last_updated: "2026-09-01T09:08:09Z"
-discovered_at: "2026-09-01T09:09:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T09:08:09Z'
+discovered_at: '2026-09-01T09:09:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

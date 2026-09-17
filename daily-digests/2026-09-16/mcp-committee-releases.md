@@ -1,19 +1,30 @@
 ---
-title: "pipeworx-io/mcp-committee-releases"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "Web Scraping", "Yoast Sitemap", "Node.js"]
+title: pipeworx-io/mcp-committee-releases
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- REST API
+- Web Scraping
+- Yoast Sitemap
+- Node.js
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["congressional data", "real-time documents", "MCP server", "government transparency", "document retrieval"]
-source: "https://github.com/pipeworx-io/mcp-committee-releases"
+deployment_complexity: Medium
+tags:
+- congressional data
+- real-time documents
+- MCP server
+- government transparency
+- document retrieval
+source: https://github.com/pipeworx-io/mcp-committee-releases
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T20:40:46Z"
-discovered_at: "2026-08-01T20:51:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T20:40:46Z'
+discovered_at: '2026-08-01T20:51:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

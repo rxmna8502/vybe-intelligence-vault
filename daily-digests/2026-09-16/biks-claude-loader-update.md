@@ -1,19 +1,28 @@
 ---
-title: "triune-contemplation240/biks-claude-loader-update"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows", "Electron", "JavaScript", "HTML/CSS"]
+title: triune-contemplation240/biks-claude-loader-update
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Windows
+- Electron
+- JavaScript
+- HTML/CSS
 quality_score: 6
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["Claude Code", "plugin manager", "Windows tool", "AI assistant", "software installer"]
-source: "https://github.com/triune-contemplation240/biks-claude-loader-update"
+deployment_complexity: Low
+tags:
+- Claude Code
+- plugin manager
+- Windows tool
+- AI assistant
+- software installer
+source: https://github.com/triune-contemplation240/biks-claude-loader-update
 stars: 0
-language: "HTML"
-last_updated: "2026-08-06T06:29:00Z"
-discovered_at: "2026-08-06T06:32:05Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-06T06:29:00Z'
+discovered_at: '2026-08-06T06:32:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

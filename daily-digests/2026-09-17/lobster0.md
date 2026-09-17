@@ -1,19 +1,35 @@
 ---
-title: "NEDONION/lobster0"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "Node.js 22.22.3\u2013<23 or 24.15.0\u2013<25", "SQLite", "OpenAI-compatible API", "TypeScript", "Textual (TUI framework)", "Playwright (Browser automation)", "Docker (Sandboxing)", "Feishu API", "Telegram Bot API", "Discord API"]
+title: NEDONION/lobster0
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python 3.12+
+- Node.js 22.22.3–<23 or 24.15.0–<25
+- SQLite
+- OpenAI-compatible API
+- TypeScript
+- Textual (TUI framework)
+- Playwright (Browser automation)
+- Docker (Sandboxing)
+- Feishu API
+- Telegram Bot API
+- Discord API
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["self-hosted", "AI agent", "multi-channel", "policy enforcement", "memory persistence"]
-source: "https://github.com/NEDONION/lobster0"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- AI agent
+- multi-channel
+- policy enforcement
+- memory persistence
+source: https://github.com/NEDONION/lobster0
 stars: 4
-language: "Python"
-last_updated: "2026-08-10T18:00:34Z"
-discovered_at: "2026-08-10T18:01:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T18:00:34Z'
+discovered_at: '2026-08-10T18:01:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

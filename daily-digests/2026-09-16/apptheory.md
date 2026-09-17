@@ -1,19 +1,32 @@
 ---
-title: "theory-cloud/AppTheory"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "Python", "AWS Lambda", "CDK", "Model Context Protocol (MCP)", "DynamoDB", "GitHub Actions"]
+title: theory-cloud/AppTheory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- TypeScript
+- Python
+- AWS Lambda
+- CDK
+- Model Context Protocol (MCP)
+- DynamoDB
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["serverless", "AWS Lambda", "multi-language", "contract-first", "MCP"]
-source: "https://github.com/theory-cloud/AppTheory"
+deployment_complexity: Medium
+tags:
+- serverless
+- AWS Lambda
+- multi-language
+- contract-first
+- MCP
+source: https://github.com/theory-cloud/AppTheory
 stars: 5
-language: "Go"
-last_updated: "2026-08-01T13:04:13Z"
-discovered_at: "2026-08-01T13:17:03Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T13:04:13Z'
+discovered_at: '2026-08-01T13:17:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

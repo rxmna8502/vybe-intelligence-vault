@@ -1,19 +1,29 @@
 ---
-title: "Garconplucky882/design-slop"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "Windows API", "JavaScript/TypeScript", "HTML/CSS", "Node.js"]
+title: Garconplucky882/design-slop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Electron
+- Windows API
+- JavaScript/TypeScript
+- HTML/CSS
+- Node.js
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["web design", "AI pattern detection", "UI optimization", "accessibility", "desktop tool"]
-source: "https://github.com/Garconplucky882/design-slop"
+deployment_complexity: Low
+tags:
+- web design
+- AI pattern detection
+- UI optimization
+- accessibility
+- desktop tool
+source: https://github.com/Garconplucky882/design-slop
 stars: 0
-language: "None"
-last_updated: "2026-08-06T06:28:36Z"
-discovered_at: "2026-08-06T06:33:00Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-06T06:28:36Z'
+discovered_at: '2026-08-06T06:33:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

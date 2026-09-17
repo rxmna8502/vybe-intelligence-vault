@@ -1,19 +1,36 @@
 ---
-title: "beingAnujChaudhary/ml-concepts-rag"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Streamlit", "Pinecone", "Groq", "OpenAI", "Sentence Transformers", "Prefect", "Supabase", "Grafana", "Docker", "Mermaid.js", "Wikipedia API"]
+title: beingAnujChaudhary/ml-concepts-rag
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- Python
+- Streamlit
+- Pinecone
+- Groq
+- OpenAI
+- Sentence Transformers
+- Prefect
+- Supabase
+- Grafana
+- Docker
+- Mermaid.js
+- Wikipedia API
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Educational AI", "Vector Database", "LLM Evaluation", "Monitoring"]
-source: "https://github.com/beingAnujChaudhary/ml-concepts-rag"
+deployment_complexity: Medium
+tags:
+- RAG
+- Educational AI
+- Vector Database
+- LLM Evaluation
+- Monitoring
+source: https://github.com/beingAnujChaudhary/ml-concepts-rag
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T15:39:12Z"
-discovered_at: "2026-08-07T16:03:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T15:39:12Z'
+discovered_at: '2026-08-07T16:03:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

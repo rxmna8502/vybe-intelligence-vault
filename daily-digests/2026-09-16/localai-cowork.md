@@ -1,19 +1,34 @@
 ---
-title: "noshitcoding/LocalAI-Cowork"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri", "React", "TypeScript", "Rust", "Node.js", "Ollama", "MCP (Model Context Protocol)", "OpenAI-compatible APIs", "OpenRouter", "NSIS (for Windows installer)"]
+title: noshitcoding/LocalAI-Cowork
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Tauri
+- React
+- TypeScript
+- Rust
+- Node.js
+- Ollama
+- MCP (Model Context Protocol)
+- OpenAI-compatible APIs
+- OpenRouter
+- NSIS (for Windows installer)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "AI coworker", "MCP tools", "Windows desktop app", "Ollama integration"]
-source: "https://github.com/noshitcoding/LocalAI-Cowork"
+deployment_complexity: Medium
+tags:
+- local-first
+- AI coworker
+- MCP tools
+- Windows desktop app
+- Ollama integration
+source: https://github.com/noshitcoding/LocalAI-Cowork
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T19:05:07Z"
-discovered_at: "2026-07-19T19:13:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T19:05:07Z'
+discovered_at: '2026-07-19T19:13:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

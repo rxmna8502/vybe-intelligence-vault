@@ -1,19 +1,30 @@
 ---
-title: "mrrlin-dev/external-agents"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "REST APIs", "YAML", "CLI tools"]
+title: mrrlin-dev/external-agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST APIs
+- YAML
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["multi-model routing", "cost optimization", "MCP server", "round-robin dispatch", "rate-limit handling"]
-source: "https://github.com/mrrlin-dev/external-agents"
+deployment_complexity: Low
+tags:
+- multi-model routing
+- cost optimization
+- MCP server
+- round-robin dispatch
+- rate-limit handling
+source: https://github.com/mrrlin-dev/external-agents
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-05T08:23:53Z"
-discovered_at: "2026-08-05T08:37:03Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T08:23:53Z'
+discovered_at: '2026-08-05T08:37:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

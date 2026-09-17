@@ -1,19 +1,33 @@
 ---
-title: "gmassello/hindsight"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "DataHub", "MCP (Model Context Protocol)", "Gemini/Anthropic/Bedrock LLMs", "Docker", "GraphQL", "TypeScript"]
+title: gmassello/hindsight
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- FastAPI
+- React
+- DataHub
+- MCP (Model Context Protocol)
+- Gemini/Anthropic/Bedrock LLMs
+- Docker
+- GraphQL
+- TypeScript
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["DataHub integration", "Incident triage", "Automated root cause analysis", "Memory loop", "Postmortem generation"]
-source: "https://github.com/gmassello/hindsight"
+deployment_complexity: Medium
+tags:
+- DataHub integration
+- Incident triage
+- Automated root cause analysis
+- Memory loop
+- Postmortem generation
+source: https://github.com/gmassello/hindsight
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T23:29:19Z"
-discovered_at: "2026-08-07T23:36:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T23:29:19Z'
+discovered_at: '2026-08-07T23:36:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

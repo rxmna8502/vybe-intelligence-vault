@@ -1,19 +1,31 @@
 ---
-title: "semanticintent/semantic-wake-intelligence-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Cloudflare Workers", "Cloudflare D1 (SQLite)", "Cloudflare Vectorize", "Model Context Protocol (MCP)", "Hexagonal Architecture"]
+title: semanticintent/semantic-wake-intelligence-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Cloudflare Workers
+- Cloudflare D1 (SQLite)
+- Cloudflare Vectorize
+- Model Context Protocol (MCP)
+- Hexagonal Architecture
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Temporal Intelligence", "MCP Server", "Memory Management", "Causal Tracking", "AI Agent Orchestration"]
-source: "https://github.com/semanticintent/semantic-wake-intelligence-mcp"
+deployment_complexity: Medium
+tags:
+- Temporal Intelligence
+- MCP Server
+- Memory Management
+- Causal Tracking
+- AI Agent Orchestration
+source: https://github.com/semanticintent/semantic-wake-intelligence-mcp
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-04T00:09:09Z"
-discovered_at: "2026-08-04T00:11:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T00:09:09Z'
+discovered_at: '2026-08-04T00:11:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

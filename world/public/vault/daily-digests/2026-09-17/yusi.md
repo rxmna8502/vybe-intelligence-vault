@@ -1,19 +1,40 @@
 ---
-title: "Aseubel/yusi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 21", "Spring Boot 3.4.5", "LangChain4j 1.18.0", "React 19", "TypeScript", "MySQL", "Redis", "Milvus/Zilliz", "gRPC", "Protocol Buffers", "MCP (Model Context Protocol)", "JWT", "AES/GCM", "Go", "Tailwind CSS", "Zustand"]
+title: Aseubel/yusi
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Java 21
+- Spring Boot 3.4.5
+- LangChain4j 1.18.0
+- React 19
+- TypeScript
+- MySQL
+- Redis
+- Milvus/Zilliz
+- gRPC
+- Protocol Buffers
+- MCP (Model Context Protocol)
+- JWT
+- AES/GCM
+- Go
+- Tailwind CSS
+- Zustand
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["long-term memory", "privacy-first", "RAG", "AI companion", "multi-model routing"]
-source: "https://github.com/Aseubel/yusi"
+deployment_complexity: High
+tags:
+- long-term memory
+- privacy-first
+- RAG
+- AI companion
+- multi-model routing
+source: https://github.com/Aseubel/yusi
 stars: 7
-language: "Java"
-last_updated: "2026-08-05T02:15:52Z"
-discovered_at: "2026-08-05T02:16:58Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-05T02:15:52Z'
+discovered_at: '2026-08-05T02:16:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

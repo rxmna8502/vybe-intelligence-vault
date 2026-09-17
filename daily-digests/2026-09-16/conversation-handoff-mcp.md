@@ -1,19 +1,29 @@
 ---
-title: "trust-delta/conversation-handoff-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "HTTP Server", "JSONL Logging"]
+title: trust-delta/conversation-handoff-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- HTTP Server
+- JSONL Logging
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP", "conversation context", "handoff", "AI orchestration", "prompt injection protection"]
-source: "https://github.com/trust-delta/conversation-handoff-mcp"
+deployment_complexity: Low
+tags:
+- MCP
+- conversation context
+- handoff
+- AI orchestration
+- prompt injection protection
+source: https://github.com/trust-delta/conversation-handoff-mcp
 stars: 6
-language: "TypeScript"
-last_updated: "2026-09-02T14:49:22Z"
-discovered_at: "2026-09-02T15:52:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T14:49:22Z'
+discovered_at: '2026-09-02T15:52:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

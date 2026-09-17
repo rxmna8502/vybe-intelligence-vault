@@ -1,19 +1,31 @@
 ---
-title: "anup-shesh/garmin-local-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "Garmin Connect API", "FIT file format", "TOML", "uv (package manager)"]
+title: anup-shesh/garmin-local-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- Garmin Connect API
+- FIT file format
+- TOML
+- uv (package manager)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Garmin data", "local-first", "MCP server", "offline analysis", "data warehouse"]
-source: "https://github.com/anup-shesh/garmin-local-mcp"
+deployment_complexity: Medium
+tags:
+- Garmin data
+- local-first
+- MCP server
+- offline analysis
+- data warehouse
+source: https://github.com/anup-shesh/garmin-local-mcp
 stars: 3
-language: "Python"
-last_updated: "2026-08-04T00:07:48Z"
-discovered_at: "2026-08-04T00:11:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T00:07:48Z'
+discovered_at: '2026-08-04T00:11:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

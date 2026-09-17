@@ -1,19 +1,29 @@
 ---
-title: "weed33834/agentseed"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "CLI", "Git", "pytest"]
+title: weed33834/agentseed
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- CLI
+- Git
+- pytest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI governance", "safety constraints", "multi-platform sync", "scenario packs", "pre-tool-use hooks"]
-source: "https://github.com/weed33834/agentseed"
+deployment_complexity: Medium
+tags:
+- AI governance
+- safety constraints
+- multi-platform sync
+- scenario packs
+- pre-tool-use hooks
+source: https://github.com/weed33834/agentseed
 stars: 5
-language: "Python"
-last_updated: "2026-08-08T14:31:14Z"
-discovered_at: "2026-08-08T14:35:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T14:31:14Z'
+discovered_at: '2026-08-08T14:35:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

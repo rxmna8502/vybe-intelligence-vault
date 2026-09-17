@@ -1,19 +1,34 @@
 ---
-title: "writerslogic/holographic-memory"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "N-API", "Node.js", "Binary Spatter Code (BSC)", "Vector Symbolic Architectures (VSA)", "Hopfield Networks", "COSE Sign1", "W3C Verifiable Credentials", "C2PA", "SCITT"]
+title: writerslogic/holographic-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Rust
+- N-API
+- Node.js
+- Binary Spatter Code (BSC)
+- Vector Symbolic Architectures (VSA)
+- Hopfield Networks
+- COSE Sign1
+- W3C Verifiable Credentials
+- C2PA
+- SCITT
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector memory", "semantic search", "analogical reasoning", "local-first", "privacy-preserving"]
-source: "https://github.com/writerslogic/holographic-memory"
+deployment_complexity: Medium
+tags:
+- vector memory
+- semantic search
+- analogical reasoning
+- local-first
+- privacy-preserving
+source: https://github.com/writerslogic/holographic-memory
 stars: 11
-language: "Rust"
-last_updated: "2026-08-08T01:25:27Z"
-discovered_at: "2026-08-08T01:26:33Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T01:25:27Z'
+discovered_at: '2026-08-08T01:26:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

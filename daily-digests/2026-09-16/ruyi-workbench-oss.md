@@ -1,19 +1,34 @@
 ---
-title: "wangzhe04/ruyi-workbench-oss"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Python", "Windows API", "UI Automation (UIA)", "OCR (Optical Character Recognition)", "MCP (Model Context Protocol)", "Electron", "React", "Docker (\u53ef\u9009)"]
+title: wangzhe04/ruyi-workbench-oss
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Node.js
+- Python
+- Windows API
+- UI Automation (UIA)
+- OCR (Optical Character Recognition)
+- MCP (Model Context Protocol)
+- Electron
+- React
+- Docker (可选)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Windows \u672c\u5730 AI", "\u591a Agent \u534f\u4f5c", "\u6587\u4ef6\u64cd\u4f5c\u64a4\u9500", "\u684c\u9762\u81ea\u52a8\u5316", "\u79bb\u7ebf\u90e8\u7f72"]
-source: "https://github.com/wangzhe04/ruyi-workbench-oss"
+deployment_complexity: Medium
+tags:
+- Windows 本地 AI
+- 多 Agent 协作
+- 文件操作撤销
+- 桌面自动化
+- 离线部署
+source: https://github.com/wangzhe04/ruyi-workbench-oss
 stars: 3
-language: "JavaScript"
-last_updated: "2026-07-19T13:09:02Z"
-discovered_at: "2026-07-19T13:17:30Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-19T13:09:02Z'
+discovered_at: '2026-07-19T13:17:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

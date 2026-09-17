@@ -1,19 +1,32 @@
 ---
-title: "jshsakura/mcp-local-vision"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "llama.cpp", "CUDA", "Qwen3-VL", "GGUF", "MCP (Model Context Protocol)", "poppler-utils"]
+title: jshsakura/mcp-local-vision
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- JavaScript
+- Node.js
+- llama.cpp
+- CUDA
+- Qwen3-VL
+- GGUF
+- MCP (Model Context Protocol)
+- poppler-utils
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["local vision", "PDF OCR", "GPU acceleration", "MCP server", "privacy-focused"]
-source: "https://github.com/jshsakura/mcp-local-vision"
+deployment_complexity: High
+tags:
+- local vision
+- PDF OCR
+- GPU acceleration
+- MCP server
+- privacy-focused
+source: https://github.com/jshsakura/mcp-local-vision
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-05T05:45:53Z"
-discovered_at: "2026-08-05T05:49:10Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T05:45:53Z'
+discovered_at: '2026-08-05T05:49:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "smoke-signal-app/agent-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Webhooks", "MCP (Model Context Protocol)", "Shell Scripting"]
+title: smoke-signal-app/agent-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- TypeScript
+- Node.js
+- Webhooks
+- MCP (Model Context Protocol)
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent notifications", "push notifications", "presence detection", "Claude Code plugin", "Codex plugin"]
-source: "https://github.com/smoke-signal-app/agent-plugin"
+deployment_complexity: Medium
+tags:
+- AI agent notifications
+- push notifications
+- presence detection
+- Claude Code plugin
+- Codex plugin
+source: https://github.com/smoke-signal-app/agent-plugin
 stars: 0
-language: "Shell"
-last_updated: "2026-08-02T14:54:32Z"
-discovered_at: "2026-08-02T15:02:57Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-02T14:54:32Z'
+discovered_at: '2026-08-02T15:02:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

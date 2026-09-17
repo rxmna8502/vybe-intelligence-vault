@@ -1,19 +1,34 @@
 ---
-title: "jcastilloa/gaz-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "MySQL", "PostgreSQL", "Jenkins", "pprof", "expvar", "SQLite", "Viper (YAML configuration)", "Hexagonal Architecture"]
+title: jcastilloa/gaz-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- MySQL
+- PostgreSQL
+- Jenkins
+- pprof
+- expvar
+- SQLite
+- Viper (YAML configuration)
+- Hexagonal Architecture
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "database diagnostics", "Jenkins administration", "Go process monitoring", "AI agent tools"]
-source: "https://github.com/jcastilloa/gaz-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- database diagnostics
+- Jenkins administration
+- Go process monitoring
+- AI agent tools
+source: https://github.com/jcastilloa/gaz-mcp
 stars: 0
-language: "Go"
-last_updated: "2026-08-07T18:49:18Z"
-discovered_at: "2026-08-07T18:58:27Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T18:49:18Z'
+discovered_at: '2026-08-07T18:58:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

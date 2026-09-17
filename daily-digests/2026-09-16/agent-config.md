@@ -1,19 +1,32 @@
 ---
-title: "event4u-app/agent-config"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "NPM", "JSON/YAML", "GitHub Actions", "MCP (Model Context Protocol)", "Markdown", "Shell Scripting"]
+title: event4u-app/agent-config
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- NPM
+- JSON/YAML
+- GitHub Actions
+- MCP (Model Context Protocol)
+- Markdown
+- Shell Scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent governance", "machine-checked claims", "multi-host compatibility", "deterministic behavior", "profile-based configuration"]
-source: "https://github.com/event4u-app/agent-config"
+deployment_complexity: Medium
+tags:
+- agent governance
+- machine-checked claims
+- multi-host compatibility
+- deterministic behavior
+- profile-based configuration
+source: https://github.com/event4u-app/agent-config
 stars: 10
-language: "TypeScript"
-last_updated: "2026-09-01T22:08:27Z"
-discovered_at: "2026-09-01T22:18:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T22:08:27Z'
+discovered_at: '2026-09-01T22:18:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

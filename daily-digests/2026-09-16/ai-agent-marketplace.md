@@ -1,19 +1,33 @@
 ---
-title: "aiagenta2z/ai-agent-marketplace"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "CLI Tools", "API Gateway", "Stripe (Payments)", "Hugging Face (Dataset Hosting)", "GitHub Actions", "FastAPI", "React (UI Components)"]
+title: aiagenta2z/ai-agent-marketplace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Python
+- Node.js
+- CLI Tools
+- API Gateway
+- Stripe (Payments)
+- Hugging Face (Dataset Hosting)
+- GitHub Actions
+- FastAPI
+- React (UI Components)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Agent Registry", "Marketplace", "Agent Deployment", "Monetization", "Search Engine"]
-source: "https://github.com/aiagenta2z/ai-agent-marketplace"
+deployment_complexity: Medium
+tags:
+- AI Agent Registry
+- Marketplace
+- Agent Deployment
+- Monetization
+- Search Engine
+source: https://github.com/aiagenta2z/ai-agent-marketplace
 stars: 48
-language: "Python"
-last_updated: "2026-07-12T08:07:32Z"
-discovered_at: "2026-07-12T08:15:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T08:07:32Z'
+discovered_at: '2026-07-12T08:15:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

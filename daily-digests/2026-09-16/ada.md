@@ -1,19 +1,36 @@
 ---
-title: "black141312/ada"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "OpenAI API", "Anthropic API", "Google Gemini API", "Mistral API", "MCP (Model Context Protocol)", "React-like TUI", "node-pty", "Express.js", "Ollama", "Cloudflare Workers AI"]
+title: black141312/ada
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- Mistral API
+- MCP (Model Context Protocol)
+- React-like TUI
+- node-pty
+- Express.js
+- Ollama
+- Cloudflare Workers AI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "multi-provider routing", "agentic loop", "MCP connectors", "terminal UI"]
-source: "https://github.com/black141312/ada"
+deployment_complexity: Medium
+tags:
+- coding agent
+- multi-provider routing
+- agentic loop
+- MCP connectors
+- terminal UI
+source: https://github.com/black141312/ada
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-18T07:43:40Z"
-discovered_at: "2026-07-18T07:47:14Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T07:43:40Z'
+discovered_at: '2026-07-18T07:47:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

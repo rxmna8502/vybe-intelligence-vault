@@ -1,19 +1,32 @@
 ---
-title: "api-evangelist/weaviate"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Go", "Python", "GraphQL", "REST API", "HNSW", "Docker", "Kubernetes", "gRPC"]
+title: api-evangelist/weaviate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- Python
+- GraphQL
+- REST API
+- HNSW
+- Docker
+- Kubernetes
+- gRPC
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector database", "semantic search", "AI-native", "open source", "embeddings"]
-source: "https://github.com/api-evangelist/weaviate"
+deployment_complexity: Medium
+tags:
+- vector database
+- semantic search
+- AI-native
+- open source
+- embeddings
+source: https://github.com/api-evangelist/weaviate
 stars: 1
-language: "None"
-last_updated: "2026-08-08T01:58:42Z"
-discovered_at: "2026-08-08T03:29:38Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T01:58:42Z'
+discovered_at: '2026-08-08T03:29:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

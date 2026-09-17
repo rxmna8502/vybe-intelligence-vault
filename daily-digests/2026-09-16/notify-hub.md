@@ -1,19 +1,34 @@
 ---
-title: "richardfcampos/notify-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js >= 20", "Fastify", "Redis", "BullMQ", "SQLite", "Docker", "Docker Compose", "MCP (Model Context Protocol)", "HTML/CSS (Admin Panel)"]
+title: richardfcampos/notify-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js >= 20
+- Fastify
+- Redis
+- BullMQ
+- SQLite
+- Docker
+- Docker Compose
+- MCP (Model Context Protocol)
+- HTML/CSS (Admin Panel)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["notification gateway", "multi-channel", "self-hosted", "async messaging", "Claude Code integration"]
-source: "https://github.com/richardfcampos/notify-hub"
+deployment_complexity: Medium
+tags:
+- notification gateway
+- multi-channel
+- self-hosted
+- async messaging
+- Claude Code integration
+source: https://github.com/richardfcampos/notify-hub
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-17T05:41:01Z"
-discovered_at: "2026-07-17T05:41:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T05:41:01Z'
+discovered_at: '2026-07-17T05:41:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

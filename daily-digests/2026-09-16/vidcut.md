@@ -1,19 +1,33 @@
 ---
-title: "mao-data/vidcut"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ffmpeg", "Whisper.cpp", "Pillow (Python)", "WebSocket", "React", "Vite"]
+title: mao-data/vidcut
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- ffmpeg
+- Whisper.cpp
+- Pillow (Python)
+- WebSocket
+- React
+- Vite
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["video editing", "AI collaboration", "MCP integration", "local-first", "real-time feedback"]
-source: "https://github.com/mao-data/vidcut"
+deployment_complexity: Medium
+tags:
+- video editing
+- AI collaboration
+- MCP integration
+- local-first
+- real-time feedback
+source: https://github.com/mao-data/vidcut
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-02T22:02:52Z"
-discovered_at: "2026-09-02T22:18:48Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:02:52Z'
+discovered_at: '2026-09-02T22:18:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

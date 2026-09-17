@@ -1,19 +1,35 @@
 ---
-title: "PascalAI2024/JarvisNano"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["ESP-IDF", "C", "Python", "Gemini Live API", "WebSocket", "QSPI AMOLED", "ES8311 Audio Codec", "QMI8658 IMU", "AXP2101 PMIC", "OTA", "NVS"]
+title: PascalAI2024/JarvisNano
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- ESP-IDF
+- C
+- Python
+- Gemini Live API
+- WebSocket
+- QSPI AMOLED
+- ES8311 Audio Codec
+- QMI8658 IMU
+- AXP2101 PMIC
+- OTA
+- NVS
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["edge AI", "voice assistant", "ESP32", "Gemini Live", "physical computing"]
-source: "https://github.com/PascalAI2024/JarvisNano"
+deployment_complexity: High
+tags:
+- edge AI
+- voice assistant
+- ESP32
+- Gemini Live
+- physical computing
+source: https://github.com/PascalAI2024/JarvisNano
 stars: 6
-language: "C"
-last_updated: "2026-09-02T02:04:59Z"
-discovered_at: "2026-09-02T02:10:19Z"
-evaluated_by: "mistral-small-latest"
+language: C
+last_updated: '2026-09-02T02:04:59Z'
+discovered_at: '2026-09-02T02:10:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "CyberBrain1721/wenjing"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Obsidian", "Markdown", "Obsidian Plugins (Startpage, HTML Viewer+, Select Folder, Editing Toolbar, Full Calendar, Style Settings, PDF+, Notebook Navigator)", "Git", "MIT License"]
+title: CyberBrain1721/wenjing
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-17
+tech_stack:
+- Obsidian
+- Markdown
+- Obsidian Plugins (Startpage, HTML Viewer+, Select Folder, Editing Toolbar, Full
+  Calendar, Style Settings, PDF+, Notebook Navigator)
+- Git
+- MIT License
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Obsidian", "local-first", "co-creation", "AI collaboration", "knowledge management"]
-source: "https://github.com/CyberBrain1721/wenjing"
+deployment_complexity: Medium
+tags:
+- Obsidian
+- local-first
+- co-creation
+- AI collaboration
+- knowledge management
+source: https://github.com/CyberBrain1721/wenjing
 stars: 0
-language: "HTML"
-last_updated: "2026-08-02T08:16:32Z"
-discovered_at: "2026-08-02T08:22:47Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-02T08:16:32Z'
+discovered_at: '2026-08-02T08:22:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

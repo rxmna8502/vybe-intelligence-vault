@@ -1,19 +1,36 @@
 ---
-title: "xiaofang142/hivemtk"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Vue 3", "PostgreSQL", "pgvector", "Redis", "llama.cpp", "Qwen2.5", "bge-m3", "bge-reranker-v2-m3", "Docker", "JWT", "Gin"]
+title: xiaofang142/hivemtk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- Go
+- Vue 3
+- PostgreSQL
+- pgvector
+- Redis
+- llama.cpp
+- Qwen2.5
+- bge-m3
+- bge-reranker-v2-m3
+- Docker
+- JWT
+- Gin
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["ReAct Agent", "Private Domain Marketing", "Zero Data Exfiltration", "Multi-Platform Outreach", "Self-Hosted AI"]
-source: "https://github.com/xiaofang142/hivemtk"
+deployment_complexity: Medium
+tags:
+- ReAct Agent
+- Private Domain Marketing
+- Zero Data Exfiltration
+- Multi-Platform Outreach
+- Self-Hosted AI
+source: https://github.com/xiaofang142/hivemtk
 stars: 35
-language: "Go"
-last_updated: "2026-09-01T02:41:44Z"
-discovered_at: "2026-09-01T02:50:59Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T02:41:44Z'
+discovered_at: '2026-09-01T02:50:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

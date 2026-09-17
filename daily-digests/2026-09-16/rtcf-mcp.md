@@ -1,19 +1,28 @@
 ---
-title: "hengkp/rtcf-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "Streamable HTTP", "REST API", "Hosted Server Architecture"]
+title: hengkp/rtcf-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-16
+tech_stack:
+- MCP (Model Context Protocol)
+- Streamable HTTP
+- REST API
+- Hosted Server Architecture
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["prompt optimization", "MCP server", "structured prompts", "multi-language support", "AI tooling"]
-source: "https://github.com/hengkp/rtcf-mcp"
+deployment_complexity: Low
+tags:
+- prompt optimization
+- MCP server
+- structured prompts
+- multi-language support
+- AI tooling
+source: https://github.com/hengkp/rtcf-mcp
 stars: 0
-language: "None"
-last_updated: "2026-07-12T14:49:51Z"
-discovered_at: "2026-07-12T14:54:48Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-12T14:49:51Z'
+discovered_at: '2026-07-12T14:54:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

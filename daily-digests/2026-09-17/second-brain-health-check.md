@@ -1,19 +1,32 @@
 ---
-title: "iwo-szapar/second-brain-health-check"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "MCP (Model Context Protocol)", "CLI", "HTML/CSS", "Zod", "npm"]
+title: iwo-szapar/second-brain-health-check
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-17
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- CLI
+- HTML/CSS
+- Zod
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Claude Code", "Context Engineering", "MCP Server", "Setup Optimization", "AI Workflow"]
-source: "https://github.com/iwo-szapar/second-brain-health-check"
+deployment_complexity: Low
+tags:
+- Claude Code
+- Context Engineering
+- MCP Server
+- Setup Optimization
+- AI Workflow
+source: https://github.com/iwo-szapar/second-brain-health-check
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-07T13:26:23Z"
-discovered_at: "2026-08-07T14:19:10Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T13:26:23Z'
+discovered_at: '2026-08-07T14:19:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
