@@ -1,29 +1,19 @@
 ---
-title: pipeworx-io/mcp-social-signal
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- REST APIs
-- Algolia
-- RSS
+title: "pipeworx-io/mcp-social-signal"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST APIs", "Algolia", "RSS"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- social media analytics
-- MCP server
-- topic volume tracking
-- account engagement
-- open social networks
-source: https://github.com/pipeworx-io/mcp-social-signal
+deployment_complexity: "Low"
+tags: ["social media analytics", "MCP server", "topic volume tracking", "account engagement", "open social networks"]
+source: "https://github.com/pipeworx-io/mcp-social-signal"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T20:39:27Z'
-discovered_at: '2026-08-01T20:51:21Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T20:39:27Z"
+discovered_at: "2026-08-01T20:51:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

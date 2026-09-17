@@ -1,31 +1,19 @@
 ---
-title: Digital-Process-Tools/claude-remember
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Bash
-- Claude Code
-- Haiku (Claude Model)
-- Git
-- jq
-- Coreutils
+title: "Digital-Process-Tools/claude-remember"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Bash", "Claude Code", "Haiku (Claude Model)", "Git", "jq", "Coreutils"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Claude Code
-- Session Memory
-- Context Retention
-- AI Continuity
-- Plugin
-source: https://github.com/Digital-Process-Tools/claude-remember
+deployment_complexity: "Low"
+tags: ["Claude Code", "Session Memory", "Context Retention", "AI Continuity", "Plugin"]
+source: "https://github.com/Digital-Process-Tools/claude-remember"
 stars: 145
-language: Python
-last_updated: '2026-08-03T08:26:27Z'
-discovered_at: '2026-08-03T13:42:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T08:26:27Z"
+discovered_at: "2026-08-03T13:42:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

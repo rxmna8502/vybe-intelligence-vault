@@ -1,36 +1,19 @@
 ---
-title: e-aleixandre/moa
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- JavaScript/TypeScript
-- Node.js
-- Docker
-- Anthropic API
-- OpenAI API
-- WebSockets
-- TUI (Terminal User Interface)
-- CLI
-- OAuth
-- React
-- Tailwind CSS
+title: "e-aleixandre/moa"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "JavaScript/TypeScript", "Node.js", "Docker", "Anthropic API", "OpenAI API", "WebSockets", "TUI (Terminal User Interface)", "CLI", "OAuth", "React", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-hosted
-- coding agent
-- remote development
-- AI-driven coding
-- multi-session management
-source: https://github.com/e-aleixandre/moa
+deployment_complexity: "Medium"
+tags: ["self-hosted", "coding agent", "remote development", "AI-driven coding", "multi-session management"]
+source: "https://github.com/e-aleixandre/moa"
 stars: 3
-language: Go
-last_updated: '2026-08-01T20:48:44Z'
-discovered_at: '2026-08-01T20:50:54Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T20:48:44Z"
+discovered_at: "2026-08-01T20:50:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

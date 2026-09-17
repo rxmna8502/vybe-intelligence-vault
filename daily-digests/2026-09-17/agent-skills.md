@@ -1,33 +1,19 @@
 ---
-title: ljagiello/agent-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- YAML
-- Markdown
-- AppleScript
-- JXA (JavaScript for Automation)
-- UTM (Virtualization)
-- CleanShot X (Screenshot/Recording)
-- Claude Code
-- Agent Skills Specification
+title: "ljagiello/agent-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "YAML", "Markdown", "AppleScript", "JXA (JavaScript for Automation)", "UTM (Virtualization)", "CleanShot X (Screenshot/Recording)", "Claude Code", "Agent Skills Specification"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- macOS automation
-- AI agent skills
-- virtualization
-- screenshot automation
-- UTM integration
-source: https://github.com/ljagiello/agent-skills
+deployment_complexity: "Medium"
+tags: ["macOS automation", "AI agent skills", "virtualization", "screenshot automation", "UTM integration"]
+source: "https://github.com/ljagiello/agent-skills"
 stars: 0
-language: Python
-last_updated: '2026-08-03T02:50:29Z'
-discovered_at: '2026-08-03T02:54:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T02:50:29Z"
+discovered_at: "2026-08-03T02:54:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: lizy14/favorites-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- Chromium Extensions (Manifest V3)
-- MCP (Model Context Protocol)
-- WebSocket
-- Chrome/Edge Bookmarks API
-- JSON Schema
-- Mermaid (for diagrams)
+title: "lizy14/favorites-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Chromium Extensions (Manifest V3)", "MCP (Model Context Protocol)", "WebSocket", "Chrome/Edge Bookmarks API", "JSON Schema", "Mermaid (for diagrams)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Bookmark Management
-- AI Agent Integration
-- Browser Extension
-- Privacy Controls
-source: https://github.com/lizy14/favorites-mcp
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Bookmark Management", "AI Agent Integration", "Browser Extension", "Privacy Controls"]
+source: "https://github.com/lizy14/favorites-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-19T13:08:43Z'
-discovered_at: '2026-07-19T13:17:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T13:08:43Z"
+discovered_at: "2026-07-19T13:17:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

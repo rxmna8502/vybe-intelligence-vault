@@ -1,30 +1,19 @@
 ---
-title: ictinnovations/pbx-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Asterisk AMI
-- FreeSWITCH ESL
-- Docker
+title: "ictinnovations/pbx-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Asterisk AMI", "FreeSWITCH ESL", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- PBX
-- Asterisk
-- FreeSWITCH
-- MCP server
-- Telephony
-source: https://github.com/ictinnovations/pbx-mcp
+deployment_complexity: "Medium"
+tags: ["PBX", "Asterisk", "FreeSWITCH", "MCP server", "Telephony"]
+source: "https://github.com/ictinnovations/pbx-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-10T13:02:01Z'
-discovered_at: '2026-08-10T13:09:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T13:02:01Z"
+discovered_at: "2026-08-10T13:09:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

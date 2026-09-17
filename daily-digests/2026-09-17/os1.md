@@ -1,33 +1,19 @@
 ---
-title: slayermm1122/os1
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- FastAPI
-- WebSockets
-- ElevenLabs API
-- xAI Grok
-- SQLite
-- JavaScript
-- HTML/CSS
-- AudioContext API
+title: "slayermm1122/os1"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "WebSockets", "ElevenLabs API", "xAI Grok", "SQLite", "JavaScript", "HTML/CSS", "AudioContext API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice agent
-- real-time speech
-- LLM integration
-- local-first
-- minimal UI
-source: https://github.com/slayermm1122/os1
+deployment_complexity: "Medium"
+tags: ["voice agent", "real-time speech", "LLM integration", "local-first", "minimal UI"]
+source: "https://github.com/slayermm1122/os1"
 stars: 0
-language: Python
-last_updated: '2026-08-09T08:40:57Z'
-discovered_at: '2026-08-09T08:45:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T08:40:57Z"
+discovered_at: "2026-08-09T08:45:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: Qoyyuum/mcp-metatrader5-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- FastMCP
-- MetaTrader 5 API
-- Model Context Protocol (MCP)
-- uv
-- Pydantic
-- pytest
+title: "Qoyyuum/mcp-metatrader5-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "MetaTrader 5 API", "Model Context Protocol (MCP)", "uv", "Pydantic", "pytest"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- MetaTrader 5
-- trading automation
-- AI integration
-- market data
-source: https://github.com/Qoyyuum/mcp-metatrader5-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "MetaTrader 5", "trading automation", "AI integration", "market data"]
+source: "https://github.com/Qoyyuum/mcp-metatrader5-server"
 stars: 197
-language: Python
-last_updated: '2026-07-20T03:35:06Z'
-discovered_at: '2026-07-20T03:37:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T03:35:06Z"
+discovered_at: "2026-07-20T03:37:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: 7df-lab/devo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- OpenAI-compatible APIs
-- Anthropic-compatible APIs
-- Terminal UI (TUI)
-- Desktop GUI
-- Semantic code search
-- Multi-agent orchestration
+title: "7df-lab/devo"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "OpenAI-compatible APIs", "Anthropic-compatible APIs", "Terminal UI (TUI)", "Desktop GUI", "Semantic code search", "Multi-agent orchestration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- model-neutral
-- MCP support
-- enterprise-ready
-- local runtime
-source: https://github.com/7df-lab/devo
+deployment_complexity: "Medium"
+tags: ["coding agent", "model-neutral", "MCP support", "enterprise-ready", "local runtime"]
+source: "https://github.com/7df-lab/devo"
 stars: 312
-language: Rust
-last_updated: '2026-08-02T13:38:06Z'
-discovered_at: '2026-08-02T13:49:25Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-02T13:38:06Z"
+discovered_at: "2026-08-02T13:49:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: drolosoft/immich-photo-manager
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Immich API
-- Model Context Protocol (MCP)
-- CLIP (for visual search)
-- Perceptual hashing
-- FastAPI
-- uvx (package runner)
-- GitHub Actions
+title: "drolosoft/immich-photo-manager"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Immich API", "Model Context Protocol (MCP)", "CLIP (for visual search)", "Perceptual hashing", "FastAPI", "uvx (package runner)", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- photo management
-- MCP server
-- AI automation
-- metadata repair
-- self-hosted
-source: https://github.com/drolosoft/immich-photo-manager
+deployment_complexity: "Medium"
+tags: ["photo management", "MCP server", "AI automation", "metadata repair", "self-hosted"]
+source: "https://github.com/drolosoft/immich-photo-manager"
 stars: 27
-language: HTML
-last_updated: '2026-07-15T22:59:55Z'
-discovered_at: '2026-07-15T23:02:16Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-15T22:59:55Z"
+discovered_at: "2026-07-15T23:02:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

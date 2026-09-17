@@ -1,33 +1,19 @@
 ---
-title: cavi-ai/claude-obsidian
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Obsidian Plugin API
-- Ollama
-- Anthropic API
-- MCP (Model Context Protocol)
-- HTML/claude-html
-- Markdown
-- PDF indexing
-- Embedding models
+title: "cavi-ai/claude-obsidian"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Obsidian Plugin API", "Ollama", "Anthropic API", "MCP (Model Context Protocol)", "HTML/claude-html", "Markdown", "PDF indexing", "Embedding models"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Obsidian
-- Claude AI
-- Agent Framework
-- Local AI
-- Research Workflow
-source: https://github.com/cavi-ai/claude-obsidian
+deployment_complexity: "Medium"
+tags: ["Obsidian", "Claude AI", "Agent Framework", "Local AI", "Research Workflow"]
+source: "https://github.com/cavi-ai/claude-obsidian"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-04T19:28:03Z'
-discovered_at: '2026-08-04T19:33:24Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T19:28:03Z"
+discovered_at: "2026-08-04T19:33:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

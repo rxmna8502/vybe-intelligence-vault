@@ -1,34 +1,19 @@
 ---
-title: flowmux-ai/flowmux-terminal
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- GTK4
-- Libadwaita
-- VTE (Terminal Emulation)
-- WebKitGTK
-- D-Bus
-- Libsecret
-- ThorVG (Image Viewer)
-- GStreamer (Media Playback)
-- Unix Sockets (IPC)
+title: "flowmux-ai/flowmux-terminal"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "GTK4", "Libadwaita", "VTE (Terminal Emulation)", "WebKitGTK", "D-Bus", "Libsecret", "ThorVG (Image Viewer)", "GStreamer (Media Playback)", "Unix Sockets (IPC)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent integration
-- terminal multiplexer
-- browser automation
-- GTK4 application
-- workflow orchestration
-source: https://github.com/flowmux-ai/flowmux-terminal
+deployment_complexity: "Medium"
+tags: ["AI agent integration", "terminal multiplexer", "browser automation", "GTK4 application", "workflow orchestration"]
+source: "https://github.com/flowmux-ai/flowmux-terminal"
 stars: 9
-language: Rust
-last_updated: '2026-07-17T05:38:24Z'
-discovered_at: '2026-07-17T05:41:53Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-17T05:38:24Z"
+discovered_at: "2026-07-17T05:41:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

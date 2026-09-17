@@ -1,38 +1,19 @@
 ---
-title: dobby-aidev/dobby-aidev
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- HTML5
-- CSS
-- Three.js
-- WebGL
-- React
-- TypeScript
-- Tailwind CSS
-- PyTorch
-- FastAPI
-- Node.js
-- Firebase
-- Docker
-- AWS
+title: "dobby-aidev/dobby-aidev"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["JavaScript", "HTML5", "CSS", "Three.js", "WebGL", "React", "TypeScript", "Tailwind CSS", "PyTorch", "FastAPI", "Node.js", "Firebase", "Docker", "AWS"]
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- Portfolio
-- WebGL
-- AI Showcase
-- Interactive UI
-- 3D Visualization
-source: https://github.com/dobby-aidev/dobby-aidev
+deployment_complexity: "Medium"
+tags: ["Portfolio", "WebGL", "AI Showcase", "Interactive UI", "3D Visualization"]
+source: "https://github.com/dobby-aidev/dobby-aidev"
 stars: 1
-language: CSS
-last_updated: '2026-08-10T18:56:02Z'
-discovered_at: '2026-08-10T19:01:31Z'
-evaluated_by: mistral-small-latest
+language: "CSS"
+last_updated: "2026-08-10T18:56:02Z"
+discovered_at: "2026-08-10T19:01:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

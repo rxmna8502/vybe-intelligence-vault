@@ -1,36 +1,19 @@
 ---
-title: URaux/vrchat-avatar-modding-skill
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Markdown
-- YAML
-- Unity Editor
-- VRChat SDK
-- Modular Avatar
-- VRCFury
-- PhysBone
-- VRCFaceTracking
-- PowerShell
-- Blender
-- C#
-- Python
+title: "URaux/vrchat-avatar-modding-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "YAML", "Unity Editor", "VRChat SDK", "Modular Avatar", "VRCFury", "PhysBone", "VRCFaceTracking", "PowerShell", "Blender", "C#", "Python"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- VRChat avatar modding
-- AI coding assistant skills
-- Unity automation
-- Modular Avatar
-- VRCFury
-source: https://github.com/URaux/vrchat-avatar-modding-skill
+deployment_complexity: "Medium"
+tags: ["VRChat avatar modding", "AI coding assistant skills", "Unity automation", "Modular Avatar", "VRCFury"]
+source: "https://github.com/URaux/vrchat-avatar-modding-skill"
 stars: 0
-language: None
-last_updated: '2026-07-21T17:12:01Z'
-discovered_at: '2026-07-21T17:16:35Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-21T17:12:01Z"
+discovered_at: "2026-07-21T17:16:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

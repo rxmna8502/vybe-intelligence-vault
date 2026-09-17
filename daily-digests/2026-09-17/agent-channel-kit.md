@@ -1,33 +1,19 @@
 ---
-title: wan7up/agent-channel-kit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- WeChat Desktop API
-- OpenClaw
-- Codex Voice Gateway
-- PulseAudio
-- REST APIs
-- WebSocket
-- PCM Audio
-- Docker/Compose
+title: "wan7up/agent-channel-kit"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "WeChat Desktop API", "OpenClaw", "Codex Voice Gateway", "PulseAudio", "REST APIs", "WebSocket", "PCM Audio", "Docker/Compose"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: High
-tags:
-- AI agent integration
-- WeChat automation
-- real-time voice
-- self-hosted
-- text automation
-source: https://github.com/wan7up/agent-channel-kit
+deployment_complexity: "High"
+tags: ["AI agent integration", "WeChat automation", "real-time voice", "self-hosted", "text automation"]
+source: "https://github.com/wan7up/agent-channel-kit"
 stars: 0
-language: Python
-last_updated: '2026-08-04T12:59:37Z'
-discovered_at: '2026-08-04T13:03:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T12:59:37Z"
+discovered_at: "2026-08-04T13:03:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

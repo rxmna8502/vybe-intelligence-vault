@@ -1,28 +1,19 @@
 ---
-title: ValueArchitectsAI/sop-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- RFC 2119
-- Markdown
+title: "ValueArchitectsAI/sop-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "RFC 2119", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- Standard Operating Procedures
-- AI agent control
-- process automation
-- auditability
-source: https://github.com/ValueArchitectsAI/sop-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "Standard Operating Procedures", "AI agent control", "process automation", "auditability"]
+source: "https://github.com/ValueArchitectsAI/sop-mcp"
 stars: 3
-language: Python
-last_updated: '2026-07-11T15:51:38Z'
-discovered_at: '2026-07-11T15:54:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T15:51:38Z"
+discovered_at: "2026-07-11T15:54:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

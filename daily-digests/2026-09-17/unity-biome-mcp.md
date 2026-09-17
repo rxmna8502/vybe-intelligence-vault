@@ -1,31 +1,19 @@
 ---
-title: german-krasnikov/unity-biome-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- C#
-- Unity Editor
-- Model Context Protocol (MCP)
-- uv (Python package manager)
-- TCP/IP
-- Git
+title: "german-krasnikov/unity-biome-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "C#", "Unity Editor", "Model Context Protocol (MCP)", "uv (Python package manager)", "TCP/IP", "Git"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Unity integration
-- MCP server
-- AI-driven game development
-- Playtest automation
-- Scene editing
-source: https://github.com/german-krasnikov/unity-biome-mcp
+deployment_complexity: "Medium"
+tags: ["Unity integration", "MCP server", "AI-driven game development", "Playtest automation", "Scene editing"]
+source: "https://github.com/german-krasnikov/unity-biome-mcp"
 stars: 16
-language: C#
-last_updated: '2026-08-03T16:19:00Z'
-discovered_at: '2026-08-03T16:26:31Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-03T16:19:00Z"
+discovered_at: "2026-08-03T16:26:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: zqiren/Orbital
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Electron
-- React
-- FastAPI
-- Python
-- Node.js
-- LLM Providers (Anthropic, OpenAI, DeepSeek, etc.)
-- Browser Automation (Patchright)
-- OS Sandboxing (Windows Sandbox, macOS Seatbelt)
-- SQLite
-- Mermaid.js
+title: "zqiren/Orbital"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Electron", "React", "FastAPI", "Python", "Node.js", "LLM Providers (Anthropic, OpenAI, DeepSeek, etc.)", "Browser Automation (Patchright)", "OS Sandboxing (Windows Sandbox, macOS Seatbelt)", "SQLite", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent orchestration
-- multi-agent coordination
-- project management
-- RAG pipeline
-- local-first AI
-source: https://github.com/zqiren/Orbital
+deployment_complexity: "Medium"
+tags: ["agent orchestration", "multi-agent coordination", "project management", "RAG pipeline", "local-first AI"]
+source: "https://github.com/zqiren/Orbital"
 stars: 104
-language: Python
-last_updated: '2026-07-16T16:20:07Z'
-discovered_at: '2026-07-16T16:25:41Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T16:20:07Z"
+discovered_at: "2026-07-16T16:25:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

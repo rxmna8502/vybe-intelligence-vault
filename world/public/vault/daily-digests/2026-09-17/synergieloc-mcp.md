@@ -1,29 +1,19 @@
 ---
-title: assoujojo82-coder/synergieloc-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- MCP (Model Context Protocol)
-- JSON-RPC 2.0
-- Streamable HTTP
-- Docker
-- REST API
+title: "assoujojo82-coder/synergieloc-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "JSON-RPC 2.0", "Streamable HTTP", "Docker", "REST API"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- French real estate
-- legal compliance
-- rent calculation
-- MCP server
-- regulatory data
-source: https://github.com/assoujojo82-coder/synergieloc-mcp
+deployment_complexity: "Low"
+tags: ["French real estate", "legal compliance", "rent calculation", "MCP server", "regulatory data"]
+source: "https://github.com/assoujojo82-coder/synergieloc-mcp"
 stars: 0
-language: Dockerfile
-last_updated: '2026-07-14T22:48:01Z'
-discovered_at: '2026-07-14T22:56:08Z'
-evaluated_by: mistral-small-latest
+language: "Dockerfile"
+last_updated: "2026-07-14T22:48:01Z"
+discovered_at: "2026-07-14T22:56:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: PentagonRBX/n8n-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Windows Desktop Application
-- n8n
-- Node.js
+title: "PentagonRBX/n8n-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Windows Desktop Application", "n8n", "Node.js"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- n8n
-- workflow automation
-- AI assistant integration
-- node documentation
-- template library
-source: https://github.com/PentagonRBX/n8n-skills
+deployment_complexity: "Low"
+tags: ["n8n", "workflow automation", "AI assistant integration", "node documentation", "template library"]
+source: "https://github.com/PentagonRBX/n8n-skills"
 stars: 4
-language: TypeScript
-last_updated: '2026-07-12T15:52:23Z'
-discovered_at: '2026-07-12T15:58:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T15:52:23Z"
+discovered_at: "2026-07-12T15:58:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: PersonalJarvis/PersonalJarvis
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- FastAPI
-- React
-- pywebview
-- Claude Code
-- Codex CLI
-- Gemini CLI
-- Twilio
-- Sigstore
-- SLSA
-- Post-Quantum Cryptography (ML-DSA-65)
+title: "PersonalJarvis/PersonalJarvis"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "React", "pywebview", "Claude Code", "Codex CLI", "Gemini CLI", "Twilio", "Sigstore", "SLSA", "Post-Quantum Cryptography (ML-DSA-65)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- voice assistant
-- AI orchestrator
-- automation
-- multi-model
-- self-hosted
-source: https://github.com/PersonalJarvis/PersonalJarvis
+deployment_complexity: "Medium"
+tags: ["voice assistant", "AI orchestrator", "automation", "multi-model", "self-hosted"]
+source: "https://github.com/PersonalJarvis/PersonalJarvis"
 stars: 6
-language: Python
-last_updated: '2026-08-05T16:42:05Z'
-discovered_at: '2026-08-05T16:44:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T16:42:05Z"
+discovered_at: "2026-08-05T16:44:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

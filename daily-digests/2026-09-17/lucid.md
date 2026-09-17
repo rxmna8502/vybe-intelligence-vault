@@ -1,28 +1,19 @@
 ---
-title: indigokarasu/lucid
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- OCAS (Open Cognitive Architecture System)
-- Memory Store Integration
-- Cron Scheduling
+title: "indigokarasu/lucid"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "OCAS (Open Cognitive Architecture System)", "Memory Store Integration", "Cron Scheduling"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- memory curation
-- OCAS integration
-- journal processing
-- knowledge triples
-- batch processing
-source: https://github.com/indigokarasu/lucid
+deployment_complexity: "Medium"
+tags: ["memory curation", "OCAS integration", "journal processing", "knowledge triples", "batch processing"]
+source: "https://github.com/indigokarasu/lucid"
 stars: 0
-language: Python
-last_updated: '2026-07-21T04:05:31Z'
-discovered_at: '2026-07-21T04:14:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T04:05:31Z"
+discovered_at: "2026-07-21T04:14:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

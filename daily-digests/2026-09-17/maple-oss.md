@@ -1,34 +1,19 @@
 ---
-title: maheshvaikri-code/maple-oss
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Rust-inspired Result<T,E> error handling
-- Cryptography (AES-256-GCM)
-- LLM Providers (OpenAI, Anthropic, vLLM, Ollama, Together AI)
-- MCP (Model Context Protocol)
-- Protocol Adapters (A2A, FIPA ACL, AutoGen, CrewAI, LangGraph, etc.)
-- Distributed State Management
-- Priority Queuing
-- Circuit Breakers
-- Exponential Backoff
+title: "maheshvaikri-code/maple-oss"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Rust-inspired Result<T,E> error handling", "Cryptography (AES-256-GCM)", "LLM Providers (OpenAI, Anthropic, vLLM, Ollama, Together AI)", "MCP (Model Context Protocol)", "Protocol Adapters (A2A, FIPA ACL, AutoGen, CrewAI, LangGraph, etc.)", "Distributed State Management", "Priority Queuing", "Circuit Breakers", "Exponential Backoff"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- autonomous agents
-- resource management
-- secure communication
-- distributed state
-source: https://github.com/maheshvaikri-code/maple-oss
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "autonomous agents", "resource management", "secure communication", "distributed state"]
+source: "https://github.com/maheshvaikri-code/maple-oss"
 stars: 8
-language: Python
-last_updated: '2026-08-04T17:46:11Z'
-discovered_at: '2026-08-04T17:49:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T17:46:11Z"
+discovered_at: "2026-08-04T17:49:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

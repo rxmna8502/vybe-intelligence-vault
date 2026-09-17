@@ -1,31 +1,19 @@
 ---
-title: esceptico/arden
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- FastAPI
-- Electron
-- TypeScript
-- Docker
-- Just
-- MIT License
+title: "esceptico/arden"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Electron", "TypeScript", "Docker", "Just", "MIT License"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- personal agent
-- local-first
-- automation
-- memory management
-- workflow integration
-source: https://github.com/esceptico/arden
+deployment_complexity: "Medium"
+tags: ["personal agent", "local-first", "automation", "memory management", "workflow integration"]
+source: "https://github.com/esceptico/arden"
 stars: 68
-language: Python
-last_updated: '2026-08-08T17:31:22Z'
-discovered_at: '2026-08-08T17:32:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T17:31:22Z"
+discovered_at: "2026-08-08T17:32:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

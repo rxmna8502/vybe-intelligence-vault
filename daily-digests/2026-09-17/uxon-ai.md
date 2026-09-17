@@ -1,33 +1,19 @@
 ---
-title: alexpilotto/uxon-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Claude Skills
-- MCP (Model Context Protocol)
-- API Integration
-- A/B Testing
-- Conversion Rate Optimization (CRO)
-- First-Party Attribution
-- GTM (Google Tag Manager)
-- GA4 (Google Analytics 4)
-- Meta Pixel
+title: "alexpilotto/uxon-ai"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Claude Skills", "MCP (Model Context Protocol)", "API Integration", "A/B Testing", "Conversion Rate Optimization (CRO)", "First-Party Attribution", "GTM (Google Tag Manager)", "GA4 (Google Analytics 4)", "Meta Pixel"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- post-click automation
-- A/B testing
-- conversion tracking
-- MCP server
-- Claude skills
-source: https://github.com/alexpilotto/uxon-ai
+deployment_complexity: "Low"
+tags: ["post-click automation", "A/B testing", "conversion tracking", "MCP server", "Claude skills"]
+source: "https://github.com/alexpilotto/uxon-ai"
 stars: 23
-language: None
-last_updated: '2026-07-19T22:47:05Z'
-discovered_at: '2026-07-19T22:50:40Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-19T22:47:05Z"
+discovered_at: "2026-07-19T22:50:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

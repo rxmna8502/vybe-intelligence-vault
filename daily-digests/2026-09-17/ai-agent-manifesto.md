@@ -1,27 +1,19 @@
 ---
-title: Doc-Abdo/ai-agent-manifesto
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- HTML
-- Documentation
-- Educational Content
+title: "Doc-Abdo/ai-agent-manifesto"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "Documentation", "Educational Content"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- AI Agents
-- Manifesto
-- Education
-- Production Systems
-- Guidelines
-source: https://github.com/Doc-Abdo/ai-agent-manifesto
+deployment_complexity: "Low"
+tags: ["AI Agents", "Manifesto", "Education", "Production Systems", "Guidelines"]
+source: "https://github.com/Doc-Abdo/ai-agent-manifesto"
 stars: 2
-language: HTML
-last_updated: '2026-09-01T22:14:37Z'
-discovered_at: '2026-09-01T22:17:46Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-01T22:14:37Z"
+discovered_at: "2026-09-01T22:17:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

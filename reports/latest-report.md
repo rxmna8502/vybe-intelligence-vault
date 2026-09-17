@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-17T19:27:19.535848+05:30`
+Generated at: `2026-09-17T22:38:08.614020+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **JCodesMore/ai-chrome-extension-template** - Score: `0` in category `ai/agents` ([Link](https://github.com/jcodesmore/ai-chrome-extension-template)) ([File](../ai/agents/jcodesmore-ai-chrome-extension-template.md))
-- **world-igr-plum/regions** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/world-igr-plum)) ([File](../ai/models/huggingface-datasets-world-igr-plum.md))
-- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/nvidia)) ([File](../ai/models/huggingface-datasets-nvidia.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **Training a 4B model to produce 81% faster query plans than Postgres** - Score: `605` (+147), Rank Change: `0` ([File](../ai/community/training-a-4b-model-to-produce-81-faster-query-pla.md))
-- **Xiaomi Mimo 2.6 live post-training dashboard** - Score: `482` (+147), Rank Change: `0` ([File](../ai/community/xiaomi-mimo-2-6-live-post-training-dashboard.md))
-- **HarnessTax: How Much Does the Harness Matter for Coding Agents?** - Score: `169` (+92), Rank Change: `+1` ([File](../ai/community/harnesstax-how-much-does-the-harness-matter-for-co.md))
-- **OpenSpec – A lightweight and configurable AI spec framework** - Score: `165` (+64), Rank Change: `-1` ([File](../ai/community/openspec-a-lightweight-and-configurable-ai-spec-fr.md))
-- **Breaking the 1.58-bit Barrier for Ternary LLMs** - Score: `218` (+51), Rank Change: `0` ([File](../ai/community/arxiv-2609-16338.md))
-- **crewAIInc/crewAI-tools** - Score: `0` (0), Rank Change: `+4583` ([File](../ai/agents/crewaiinc-crewai-tools.md))
-- **cloudflare/agentic-inbox** - Score: `0` (0), Rank Change: `+4591` ([File](../ai/rag/cloudflare-agentic-inbox.md))
-- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+4540` ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+4596` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+2930` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **Goal-oriented probabilistic forecasting for dynamic PRB allocation in 5G networks** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2609-17297.md))
+- **The Latent That Never Was: A Forensic Re-run of the CVAE Ablation in Action Chunking Transformers** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/arxiv-2609-16745.md))
+- **Prism-SQA: An Interpretable and Adaptable Neural Framework for Surface Electromyography Quality Assessment** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2609-12724.md))
+- **Learning Interaction Kernels from Collective Steady States** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2609-12004.md))
+- **Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/arxiv-2608-23221.md))
+- **Persistent Magnitude Homology for Quantitative Equational Theories** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2608-21479.md))
+- **Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/agents/arxiv-2606-27409.md))
+- **TargetSEC: Plug-and-Play In-the-Wild Speech Emotion Conversion via Arousal-Conditioned Latent Style Diffusion** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/arxiv-2606-07293.md))
+- **Forecasting Individual NetFlows using a Predictive Masked Graph Autoencoder** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2604-20483.md))
+- **Symmetrizing Bregman Divergence on the Cone of Positive Definite Matrices: Which Mean to Use and Why** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2603-28917.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **pguso/rag-from-scratch** - (Rank Change: `+4596`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **krishnaik06/RAG-Tutorials** - (Rank Change: `+4592`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **cloudflare/agentic-inbox** - (Rank Change: `+4591`) ([File](../ai/rag/cloudflare-agentic-inbox.md))
-- **crewAIInc/crewAI-tools** - (Rank Change: `+4583`) ([File](../ai/agents/crewaiinc-crewai-tools.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+4556`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **patchy631/ai-engineering-hub** - (Rank Change: `+4555`) ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+4555`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **Senpi-ai/senpi-skills** - (Rank Change: `+4540`) ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+2930`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **NirDiamant/RAG_Techniques** - (Rank Change: `+1465`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **infiniflow/ragflow** - (Rank Change: `+28142`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25356`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17141`) ([File](../ai/rag/stanford-oval-storm.md))
+- **Goal-oriented probabilistic forecasting for dynamic PRB allocation in 5G networks** - (Rank Change: `+1007`) ([File](../ai/research/arxiv-2609-17297.md))
+- **The Latent That Never Was: A Forensic Re-run of the CVAE Ablation in Action Chunking Transformers** - (Rank Change: `+1007`) ([File](../ai/rag/arxiv-2609-16745.md))
+- **Prism-SQA: An Interpretable and Adaptable Neural Framework for Surface Electromyography Quality Assessment** - (Rank Change: `+1007`) ([File](../ai/research/arxiv-2609-12724.md))
+- **Learning Interaction Kernels from Collective Steady States** - (Rank Change: `+1007`) ([File](../ai/research/arxiv-2609-12004.md))
+- **Which Histories Matter for Time Series Forecasting? Learning Predictive Relevance with Future Supervision** - (Rank Change: `+1007`) ([File](../ai/rag/arxiv-2608-23221.md))
+- **Persistent Magnitude Homology for Quantitative Equational Theories** - (Rank Change: `+1007`) ([File](../ai/research/arxiv-2608-21479.md))
+- **Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement** - (Rank Change: `+1007`) ([File](../ai/agents/arxiv-2606-27409.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **The Painful Truth: The RAM Crisis Is Only Just the Beginning** (Category: `ai/community`) ([File](../ai/community/the-painful-truth-the-ram-crisis-is-only-just-the.md))
-- **The Return of Sail Power: Cargo Ships Are Turning Back to the Wind** (Category: `ai/community`) ([File](../ai/community/the-return-of-sail-power-cargo-ships-are-turning-b.md))
-- **Part-human part-mouse brain developed in science breakthrough** (Category: `ai/community`) ([File](../ai/community/part-human-part-mouse-brain-developed-in-science-b.md))
+No recently active resources transitioned to inactive.
+

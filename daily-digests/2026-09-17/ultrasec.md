@@ -1,40 +1,19 @@
 ---
-title: maxgfr/ultrasec
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- Static Analysis
-- Taint Analysis
-- EPSS
-- CISA KEV
-- CVSS
-- Semgrep
-- Trivy
-- Grype
-- OSV Scanner
-- Gitleaks
-- Checkov
-- Hadolint
-- Kingfisher
-- Syft
+title: "maxgfr/ultrasec"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Static Analysis", "Taint Analysis", "EPSS", "CISA KEV", "CVSS", "Semgrep", "Trivy", "Grype", "OSV Scanner", "Gitleaks", "Checkov", "Hadolint", "Kingfisher", "Syft"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- security audit
-- taint analysis
-- vulnerability detection
-- AI verification
-- cross-file analysis
-source: https://github.com/maxgfr/ultrasec
+deployment_complexity: "Medium"
+tags: ["security audit", "taint analysis", "vulnerability detection", "AI verification", "cross-file analysis"]
+source: "https://github.com/maxgfr/ultrasec"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-10T13:02:26Z'
-discovered_at: '2026-08-10T13:08:59Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T13:02:26Z"
+discovered_at: "2026-08-10T13:08:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

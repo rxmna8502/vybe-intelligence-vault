@@ -1,31 +1,19 @@
 ---
-title: TrendTweekers/mintpdf
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Fastify
-- Puppeteer
-- Chromium
-- SQLite
-- Docker
-- Node.js
+title: "TrendTweekers/mintpdf"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Fastify", "Puppeteer", "Chromium", "SQLite", "Docker", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- PDF generation
-- Markdown to PDF
-- REST API
-- MCP server
-- document automation
-source: https://github.com/TrendTweekers/mintpdf
+deployment_complexity: "Medium"
+tags: ["PDF generation", "Markdown to PDF", "REST API", "MCP server", "document automation"]
+source: "https://github.com/TrendTweekers/mintpdf"
 stars: 0
-language: HTML
-last_updated: '2026-08-09T18:42:37Z'
-discovered_at: '2026-08-09T18:43:37Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-09T18:42:37Z"
+discovered_at: "2026-08-09T18:43:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

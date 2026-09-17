@@ -1,31 +1,19 @@
 ---
-title: devcxl/cabbage
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- VitePress
-- Mermaid
-- GitHub Actions
-- SHA-256
-- Markdown
-- CI/CD
+title: "devcxl/cabbage"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "VitePress", "Mermaid", "GitHub Actions", "SHA-256", "Markdown", "CI/CD"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- documentation lifecycle
-- workflow automation
-- CI gate enforcement
-- AI agent tooling
-- project governance
-source: https://github.com/devcxl/cabbage
+deployment_complexity: "Medium"
+tags: ["documentation lifecycle", "workflow automation", "CI gate enforcement", "AI agent tooling", "project governance"]
+source: "https://github.com/devcxl/cabbage"
 stars: 0
-language: Python
-last_updated: '2026-09-01T18:40:31Z'
-discovered_at: '2026-09-03T22:05:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T18:40:31Z"
+discovered_at: "2026-09-03T22:05:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

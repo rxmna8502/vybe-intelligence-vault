@@ -1,34 +1,19 @@
 ---
-title: BMC-INC/Iron-mem
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- SQLite
-- PostgreSQL
-- MCP (Model Context Protocol)
-- Tree-sitter
-- ONNX (for cross-encoder reranking)
-- Docker
-- FTS5 (Full-Text Search)
-- Vector databases (via external adapters)
-- Graph databases (via external adapters)
+title: "BMC-INC/Iron-mem"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "SQLite", "PostgreSQL", "MCP (Model Context Protocol)", "Tree-sitter", "ONNX (for cross-encoder reranking)", "Docker", "FTS5 (Full-Text Search)", "Vector databases (via external adapters)", "Graph databases (via external adapters)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- persistent memory
-- AI coding assistants
-- session context
-- MCP server
-- governed retrieval
-source: https://github.com/BMC-INC/Iron-mem
+deployment_complexity: "Medium"
+tags: ["persistent memory", "AI coding assistants", "session context", "MCP server", "governed retrieval"]
+source: "https://github.com/BMC-INC/Iron-mem"
 stars: 5
-language: Rust
-last_updated: '2026-07-16T22:00:56Z'
-discovered_at: '2026-07-16T22:02:43Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-16T22:00:56Z"
+discovered_at: "2026-07-16T22:02:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

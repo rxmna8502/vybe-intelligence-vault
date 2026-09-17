@@ -1,32 +1,19 @@
 ---
-title: bizmaniz/suitor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- SQLite
-- Playwright
-- OpenAI Codex CLI
-- Anthropic Claude Code CLI
-- Express.js (implied by web server)
-- React (implied by UI components)
+title: "bizmaniz/suitor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "SQLite", "Playwright", "OpenAI Codex CLI", "Anthropic Claude Code CLI", "Express.js (implied by web server)", "React (implied by UI components)"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- job search
-- local-first
-- AI assistant
-- profile tracking
-- resume generation
-source: https://github.com/bizmaniz/suitor
+deployment_complexity: "Medium"
+tags: ["job search", "local-first", "AI assistant", "profile tracking", "resume generation"]
+source: "https://github.com/bizmaniz/suitor"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-10T13:01:55Z'
-discovered_at: '2026-08-10T13:08:59Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T13:01:55Z"
+discovered_at: "2026-08-10T13:08:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

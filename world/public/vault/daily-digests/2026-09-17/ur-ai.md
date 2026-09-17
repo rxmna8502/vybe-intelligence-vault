@@ -1,34 +1,19 @@
 ---
-title: thebitsamuraii23/ur-ai
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Python
-- aiogram
-- SQLite
-- aiosqlite
-- OpenAI API
-- Groq API
-- OpenRouter API
-- Together AI
-- DeepInfra
-- Telegram Bot API
+title: "thebitsamuraii23/ur-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "aiogram", "SQLite", "aiosqlite", "OpenAI API", "Groq API", "OpenRouter API", "Together AI", "DeepInfra", "Telegram Bot API"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Telegram bot
-- AI provider abstraction
-- session management
-- multilingual
-- privacy-focused
-source: https://github.com/thebitsamuraii23/ur-ai
+deployment_complexity: "Medium"
+tags: ["Telegram bot", "AI provider abstraction", "session management", "multilingual", "privacy-focused"]
+source: "https://github.com/thebitsamuraii23/ur-ai"
 stars: 2
-language: Python
-last_updated: '2026-08-04T21:10:09Z'
-discovered_at: '2026-08-04T21:14:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T21:10:09Z"
+discovered_at: "2026-08-04T21:14:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

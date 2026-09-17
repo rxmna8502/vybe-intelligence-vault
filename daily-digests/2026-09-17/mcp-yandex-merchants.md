@@ -1,30 +1,19 @@
 ---
-title: A1-x-Tech/mcp-yandex-merchants
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- OAuth 2.0
-- REST API
-- npm
+title: "A1-x-Tech/mcp-yandex-merchants"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OAuth 2.0", "REST API", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP-сервер
-- Яндекс Товары
-- ценообразование
-- товарные фиды
-- AI-интеграция
-source: https://github.com/A1-x-Tech/mcp-yandex-merchants
+deployment_complexity: "Low"
+tags: ["MCP-\u0441\u0435\u0440\u0432\u0435\u0440", "\u042f\u043d\u0434\u0435\u043a\u0441 \u0422\u043e\u0432\u0430\u0440\u044b", "\u0446\u0435\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435", "\u0442\u043e\u0432\u0430\u0440\u043d\u044b\u0435 \u0444\u0438\u0434\u044b", "AI-\u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f"]
+source: "https://github.com/A1-x-Tech/mcp-yandex-merchants"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T09:42:33Z'
-discovered_at: '2026-08-09T09:43:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T09:42:33Z"
+discovered_at: "2026-08-09T09:43:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

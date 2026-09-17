@@ -1,33 +1,19 @@
 ---
-title: fenatodev/lai-local-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- VS Code Extension API
-- llama.cpp
-- GGUF
-- OpenAI-compatible HTTP API
-- Git
-- ripgrep
-- TOML
-- JSONL
+title: "fenatodev/lai-local-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "VS Code Extension API", "llama.cpp", "GGUF", "OpenAI-compatible HTTP API", "Git", "ripgrep", "TOML", "JSONL"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local LLM agent
-- VS Code integration
-- auditable workflow
-- batch patching
-- validation guards
-source: https://github.com/fenatodev/lai-local-agent
+deployment_complexity: "Medium"
+tags: ["local LLM agent", "VS Code integration", "auditable workflow", "batch patching", "validation guards"]
+source: "https://github.com/fenatodev/lai-local-agent"
 stars: 0
-language: Python
-last_updated: '2026-09-04T02:02:23Z'
-discovered_at: '2026-09-04T02:14:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-04T02:02:23Z"
+discovered_at: "2026-09-04T02:14:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

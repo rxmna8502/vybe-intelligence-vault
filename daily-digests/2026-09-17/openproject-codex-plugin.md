@@ -1,29 +1,19 @@
 ---
-title: alex13slem/openproject-codex-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Bun
-- OpenProject API v3
-- MCP (Model Context Protocol)
-- Node.js
+title: "alex13slem/openproject-codex-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "OpenProject API v3", "MCP (Model Context Protocol)", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- OpenProject
-- Codex integration
-- work package management
-- API v3
-- local MCP server
-source: https://github.com/alex13slem/openproject-codex-plugin
+deployment_complexity: "Medium"
+tags: ["OpenProject", "Codex integration", "work package management", "API v3", "local MCP server"]
+source: "https://github.com/alex13slem/openproject-codex-plugin"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-14T09:57:06Z'
-discovered_at: '2026-07-14T10:08:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T09:57:06Z"
+discovered_at: "2026-07-14T10:08:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: mohamadhelal94/Build-a-Complete-Medical-Chatbot-
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Flask
-- LangChain
-- OpenAI GPT-4o mini
-- Pinecone
-- Hugging Face sentence-transformers
-- Docker
-- AWS EC2
-- Amazon ECR
-- GitHub Actions
-- Gunicorn
+title: "mohamadhelal94/Build-a-Complete-Medical-Chatbot-"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Flask", "LangChain", "OpenAI GPT-4o mini", "Pinecone", "Hugging Face sentence-transformers", "Docker", "AWS EC2", "Amazon ECR", "GitHub Actions", "Gunicorn"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Medical RAG
-- Multilingual Chatbot
-- Pinecone Vector DB
-- OpenAI Integration
-- AWS Deployment
-source: https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-
+deployment_complexity: "Medium"
+tags: ["Medical RAG", "Multilingual Chatbot", "Pinecone Vector DB", "OpenAI Integration", "AWS Deployment"]
+source: "https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-"
 stars: 1
-language: Python
-last_updated: '2026-08-08T14:57:24Z'
-discovered_at: '2026-08-08T15:33:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T14:57:24Z"
+discovered_at: "2026-08-08T15:33:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

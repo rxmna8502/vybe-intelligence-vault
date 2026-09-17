@@ -1,34 +1,19 @@
 ---
-title: getlibero/libero
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- Docker
-- Zod
-- SQLite
-- Socket Mode (Slack)
-- Mutual TLS
-- TOML (Team Sheets)
-- Astro
-- Starlight
+title: "getlibero/libero"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Docker", "Zod", "SQLite", "Socket Mode (Slack)", "Mutual TLS", "TOML (Team Sheets)", "Astro", "Starlight"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: High
-tags:
-- AI teammate
-- Slack integration
-- self-hosted
-- credential isolation
-- audit logging
-source: https://github.com/getlibero/libero
+deployment_complexity: "High"
+tags: ["AI teammate", "Slack integration", "self-hosted", "credential isolation", "audit logging"]
+source: "https://github.com/getlibero/libero"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-10T12:59:10Z'
-discovered_at: '2026-08-10T13:09:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T12:59:10Z"
+discovered_at: "2026-08-10T13:09:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

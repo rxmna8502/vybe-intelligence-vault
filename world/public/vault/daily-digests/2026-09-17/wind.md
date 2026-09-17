@@ -1,29 +1,19 @@
 ---
-title: fluttersdk/wind
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Dart
-- Flutter
-- Tailwind CSS
-- MCP (Model Context Protocol)
-- JSON-based UI rendering
+title: "fluttersdk/wind"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Dart", "Flutter", "Tailwind CSS", "MCP (Model Context Protocol)", "JSON-based UI rendering"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Flutter styling
-- Tailwind CSS
-- AI integration
-- utility-first
-- dark mode
-source: https://github.com/fluttersdk/wind
+deployment_complexity: "Medium"
+tags: ["Flutter styling", "Tailwind CSS", "AI integration", "utility-first", "dark mode"]
+source: "https://github.com/fluttersdk/wind"
 stars: 26
-language: Dart
-last_updated: '2026-07-20T12:17:51Z'
-discovered_at: '2026-07-20T12:22:13Z'
-evaluated_by: mistral-small-latest
+language: "Dart"
+last_updated: "2026-07-20T12:17:51Z"
+discovered_at: "2026-07-20T12:22:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

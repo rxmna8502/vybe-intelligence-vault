@@ -1,30 +1,19 @@
 ---
-title: 562624176-sudo/negotiation-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Hermes Agent Framework
-- Claude Code
-- JSON
-- Markdown
-- Bash
+title: "562624176-sudo/negotiation-skill"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Hermes Agent Framework", "Claude Code", "JSON", "Markdown", "Bash"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- negotiation
-- business communication
-- AI agent skill
-- strategy generation
-- risk validation
-source: https://github.com/562624176-sudo/negotiation-skill
+deployment_complexity: "Medium"
+tags: ["negotiation", "business communication", "AI agent skill", "strategy generation", "risk validation"]
+source: "https://github.com/562624176-sudo/negotiation-skill"
 stars: 0
-language: Python
-last_updated: '2026-08-02T13:41:38Z'
-discovered_at: '2026-08-02T13:49:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T13:41:38Z"
+discovered_at: "2026-08-02T13:49:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

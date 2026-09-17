@@ -1,31 +1,19 @@
 ---
-title: awesomemotive/wpvibe-ai-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- PHP
-- WordPress
-- Model Context Protocol (MCP)
-- REST API
-- WP-CLI
-- JavaScript
-- JSON-RPC
+title: "awesomemotive/wpvibe-ai-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PHP", "WordPress", "Model Context Protocol (MCP)", "REST API", "WP-CLI", "JavaScript", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- WordPress
-- MCP
-- AI integration
-- content management
-- automation
-source: https://github.com/awesomemotive/wpvibe-ai-mcp
+deployment_complexity: "Medium"
+tags: ["WordPress", "MCP", "AI integration", "content management", "automation"]
+source: "https://github.com/awesomemotive/wpvibe-ai-mcp"
 stars: 11
-language: PHP
-last_updated: '2026-07-16T14:50:32Z'
-discovered_at: '2026-07-16T15:00:50Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-07-16T14:50:32Z"
+discovered_at: "2026-07-16T15:00:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

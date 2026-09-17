@@ -1,34 +1,19 @@
 ---
-title: jmagar/synapse-rmcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- Rust SDK (rmcp)
-- Docker
-- Docker Compose
-- SSH
-- ZFS
-- CLI
-- MCP (Model Context Protocol)
-- REST
-- npm
+title: "jmagar/synapse-rmcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Rust SDK (rmcp)", "Docker", "Docker Compose", "SSH", "ZFS", "CLI", "MCP (Model Context Protocol)", "REST", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- Docker management
-- host inspection
-- Rust implementation
-- CLI tool
-source: https://github.com/jmagar/synapse-rmcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Docker management", "host inspection", "Rust implementation", "CLI tool"]
+source: "https://github.com/jmagar/synapse-rmcp"
 stars: 1
-language: Rust
-last_updated: '2026-07-13T13:17:13Z'
-discovered_at: '2026-07-13T13:22:38Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-13T13:17:13Z"
+discovered_at: "2026-07-13T13:22:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

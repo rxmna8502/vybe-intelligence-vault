@@ -1,39 +1,19 @@
 ---
-title: matebenyovszky/agentplaybooks
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Next.js 15
-- React 19
-- TypeScript
-- Tailwind CSS 4
-- Framer Motion
-- Lucide React
-- Hono
-- Supabase
-- PostgreSQL
-- next-intl
-- MDX
-- Cloudflare Pages
-- '@opennextjs/cloudflare'
-- AES-256-GCM (encryption)
-- Model Context Protocol (MCP)
+title: "matebenyovszky/agentplaybooks"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS 4", "Framer Motion", "Lucide React", "Hono", "Supabase", "PostgreSQL", "next-intl", "MDX", "Cloudflare Pages", "@opennextjs/cloudflare", "AES-256-GCM (encryption)", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- vendor-neutral
-- playbook management
-- MCP integration
-- cross-platform
-source: https://github.com/matebenyovszky/agentplaybooks
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "vendor-neutral", "playbook management", "MCP integration", "cross-platform"]
+source: "https://github.com/matebenyovszky/agentplaybooks"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-01T20:41:14Z'
-discovered_at: '2026-08-01T20:51:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T20:41:14Z"
+discovered_at: "2026-08-01T20:51:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: NOEEZClisher/Backwriter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- Cargo
-- Linux (musl/gnu)
-- macOS (Darwin)
-- Windows (GNU)
-- CLI
-- JSON
-- SHA-256 verification
+title: "NOEEZClisher/Backwriter"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Cargo", "Linux (musl/gnu)", "macOS (Darwin)", "Windows (GNU)", "CLI", "JSON", "SHA-256 verification"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- structural text
-- workspace management
-- text editing
-- Rust runtime
-- addressing system
-source: https://github.com/NOEEZClisher/Backwriter
+deployment_complexity: "Medium"
+tags: ["structural text", "workspace management", "text editing", "Rust runtime", "addressing system"]
+source: "https://github.com/NOEEZClisher/Backwriter"
 stars: 1
-language: Rust
-last_updated: '2026-09-03T02:13:15Z'
-discovered_at: '2026-09-03T02:15:52Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-03T02:13:15Z"
+discovered_at: "2026-09-03T02:15:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

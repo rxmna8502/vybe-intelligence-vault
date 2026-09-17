@@ -1,34 +1,19 @@
 ---
-title: CommanderTvis/weight-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- SQLite
-- OAuth 2.1
-- PKCE
-- Streamable HTTP
-- FastAPI (implied)
-- Telegram Bot API
-- Open Food Facts
-- USDA Nutrition Database (optional)
+title: "CommanderTvis/weight-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "OAuth 2.1", "PKCE", "Streamable HTTP", "FastAPI (implied)", "Telegram Bot API", "Open Food Facts", "USDA Nutrition Database (optional)"]
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- calorie tracking
-- nutrition logging
-- MCP server
-- self-hosted
-- claude.ai integration
-source: https://github.com/CommanderTvis/weight-mcp
+deployment_complexity: "Medium"
+tags: ["calorie tracking", "nutrition logging", "MCP server", "self-hosted", "claude.ai integration"]
+source: "https://github.com/CommanderTvis/weight-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-02T16:05:37Z'
-discovered_at: '2026-08-02T16:11:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T16:05:37Z"
+discovered_at: "2026-08-02T16:11:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

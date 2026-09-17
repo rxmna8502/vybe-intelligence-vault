@@ -1,32 +1,19 @@
 ---
-title: jordanahern2009-svg/Tokio-ai
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Python
-- OpenAI API
-- Yahoo Finance API
-- SEC EDGAR API
-- Permutation Testing
-- Statistical Hypothesis Testing
-- CLI
-- pytest
+title: "jordanahern2009-svg/Tokio-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "OpenAI API", "Yahoo Finance API", "SEC EDGAR API", "Permutation Testing", "Statistical Hypothesis Testing", "CLI", "pytest"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- financial research
-- statistical rigor
-- hypothesis testing
-- permutation tests
-- LLM agent
-source: https://github.com/jordanahern2009-svg/Tokio-ai
+deployment_complexity: "Medium"
+tags: ["financial research", "statistical rigor", "hypothesis testing", "permutation tests", "LLM agent"]
+source: "https://github.com/jordanahern2009-svg/Tokio-ai"
 stars: 1
-language: Python
-last_updated: '2026-08-02T20:43:23Z'
-discovered_at: '2026-08-02T20:54:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T20:43:23Z"
+discovered_at: "2026-08-02T20:54:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

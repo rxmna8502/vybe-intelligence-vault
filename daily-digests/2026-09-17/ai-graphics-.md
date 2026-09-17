@@ -1,31 +1,19 @@
 ---
-title: Yendoukoa-AI/AI-graphics-
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- React
-- Vite
-- Vitest
-- CSS3
-- JavaScript
-- Node.js
-- Playwright
+title: "Yendoukoa-AI/AI-graphics-"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["React", "Vite", "Vitest", "CSS3", "JavaScript", "Node.js", "Playwright"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- AI design
-- graphic generation
-- web UI
-- real-time editing
-- creative tools
-source: https://github.com/Yendoukoa-AI/AI-graphics-
+deployment_complexity: "Medium"
+tags: ["AI design", "graphic generation", "web UI", "real-time editing", "creative tools"]
+source: "https://github.com/Yendoukoa-AI/AI-graphics-"
 stars: 2
-language: JavaScript
-last_updated: '2026-08-02T19:23:47Z'
-discovered_at: '2026-08-02T19:25:06Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T19:23:47Z"
+discovered_at: "2026-08-02T19:25:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

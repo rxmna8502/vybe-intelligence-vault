@@ -1,32 +1,19 @@
 ---
-title: CSOAI-ORG/csv-tools-ai-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- PyPI
-- Claude Desktop
-- Smithery
-- EU AI Act Compliance
-- C2PA
-- HMAC-SHA256
+title: "CSOAI-ORG/csv-tools-ai-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Claude Desktop", "Smithery", "EU AI Act Compliance", "C2PA", "HMAC-SHA256"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- CSV processing
-- MCP server
-- EU AI Act compliance
-- automation tools
-- governance
-source: https://github.com/CSOAI-ORG/csv-tools-ai-mcp
+deployment_complexity: "Low"
+tags: ["CSV processing", "MCP server", "EU AI Act compliance", "automation tools", "governance"]
+source: "https://github.com/CSOAI-ORG/csv-tools-ai-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-08T08:34:23Z'
-discovered_at: '2026-08-08T08:43:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T08:34:23Z"
+discovered_at: "2026-08-08T08:43:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: franklinchristuraj/obsidian-mcp-server_SPARK-method
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- OAuth 2.0
-- JSON-RPC 2.0
-- SQLite
-- systemd
+title: "franklinchristuraj/obsidian-mcp-server_SPARK-method"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "OAuth 2.0", "JSON-RPC 2.0", "SQLite", "systemd"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Obsidian
-- MCP Server
-- Knowledge Graph
-- Note Management
-- AI Integration
-source: https://github.com/franklinchristuraj/obsidian-mcp-server_SPARK-method
+deployment_complexity: "Medium"
+tags: ["Obsidian", "MCP Server", "Knowledge Graph", "Note Management", "AI Integration"]
+source: "https://github.com/franklinchristuraj/obsidian-mcp-server_SPARK-method"
 stars: 0
-language: Python
-last_updated: '2026-07-16T21:56:42Z'
-discovered_at: '2026-07-16T22:02:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T21:56:42Z"
+discovered_at: "2026-07-16T22:02:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

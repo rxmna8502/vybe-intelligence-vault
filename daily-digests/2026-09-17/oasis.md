@@ -1,39 +1,19 @@
 ---
-title: Hereon-InstituteMS/OASiS
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- LangGraph
-- FEniCSx
-- deal.II
-- NGSolve
-- scikit-fem
-- Kratos Multiphysics
-- DUNE-fem
-- FEBio
-- 4C Multiphysics
-- SPARTA DSMC
-- preCICE
-- Gmsh
-- PyVista
+title: "Hereon-InstituteMS/OASiS"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "LangGraph", "FEniCSx", "deal.II", "NGSolve", "scikit-fem", "Kratos Multiphysics", "DUNE-fem", "FEBio", "4C Multiphysics", "SPARTA DSMC", "preCICE", "Gmsh", "PyVista"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- multi-physics simulation
-- AI agent framework
-- finite element methods
-- MCP server
-- verified execution
-source: https://github.com/Hereon-InstituteMS/OASiS
+deployment_complexity: "High"
+tags: ["multi-physics simulation", "AI agent framework", "finite element methods", "MCP server", "verified execution"]
+source: "https://github.com/Hereon-InstituteMS/OASiS"
 stars: 17
-language: Python
-last_updated: '2026-08-07T14:16:34Z'
-discovered_at: '2026-08-07T14:19:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T14:16:34Z"
+discovered_at: "2026-08-07T14:19:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

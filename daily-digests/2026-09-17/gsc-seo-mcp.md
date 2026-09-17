@@ -1,32 +1,19 @@
 ---
-title: ayhammouda/gsc-seo-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Google Search Console API
-- OAuth 2.0
-- Zod
-- CI/CD (GitHub Actions)
-- Security Audits (OpenSSF Scorecard)
+title: "ayhammouda/gsc-seo-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Google Search Console API", "OAuth 2.0", "Zod", "CI/CD (GitHub Actions)", "Security Audits (OpenSSF Scorecard)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Google Search Console
-- MCP Server
-- Read-Only Access
-- Security Hardening
-- AI Agent Integration
-source: https://github.com/ayhammouda/gsc-seo-mcp
+deployment_complexity: "Medium"
+tags: ["Google Search Console", "MCP Server", "Read-Only Access", "Security Hardening", "AI Agent Integration"]
+source: "https://github.com/ayhammouda/gsc-seo-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-03T16:22:22Z'
-discovered_at: '2026-08-03T16:26:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T16:22:22Z"
+discovered_at: "2026-08-03T16:26:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

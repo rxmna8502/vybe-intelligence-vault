@@ -1,40 +1,19 @@
 ---
-title: dinho149/yeaboi.ai
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Python
-- LangGraph
-- SQLite
-- SQLite-vec
-- Anthropic Claude
-- OpenAI
-- Google Gemini
-- AWS Bedrock
-- Ollama
-- FastAPI
-- SQLModel
-- Typer
-- Rich
-- Faster-Whisper
-- SQLite
-- GitHub Actions
+title: "dinho149/yeaboi.ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "LangGraph", "SQLite", "SQLite-vec", "Anthropic Claude", "OpenAI", "Google Gemini", "AWS Bedrock", "Ollama", "FastAPI", "SQLModel", "Typer", "Rich", "Faster-Whisper", "SQLite", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Agile
-- Project Management
-- AI Automation
-- Scrum Master
-- Team Coordination
-source: https://github.com/dinho149/yeaboi.ai
+deployment_complexity: "Medium"
+tags: ["Agile", "Project Management", "AI Automation", "Scrum Master", "Team Coordination"]
+source: "https://github.com/dinho149/yeaboi.ai"
 stars: 2
-language: Python
-last_updated: '2026-08-02T14:58:59Z'
-discovered_at: '2026-08-02T15:02:35Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T14:58:59Z"
+discovered_at: "2026-08-02T15:02:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: hamadou-08/roboclaw-reports
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- HTML/CSS
-- JavaScript (D3.js)
-- Vision-Language Models (VLM)
-- Model Context Protocol (MCP)
-- AI Coding Agents
-- Mermaid.js
-- YAML
+title: "hamadou-08/roboclaw-reports"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "HTML/CSS", "JavaScript (D3.js)", "Vision-Language Models (VLM)", "Model Context Protocol (MCP)", "AI Coding Agents", "Mermaid.js", "YAML"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- robotics logging
-- VLM visualization
-- MCP tracing
-- AI agent telemetry
-- interactive reports
-source: https://github.com/hamadou-08/roboclaw-reports
+deployment_complexity: "Medium"
+tags: ["robotics logging", "VLM visualization", "MCP tracing", "AI agent telemetry", "interactive reports"]
+source: "https://github.com/hamadou-08/roboclaw-reports"
 stars: 2
-language: HTML
-last_updated: '2026-07-10T23:05:52Z'
-discovered_at: '2026-07-10T23:08:28Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-10T23:05:52Z"
+discovered_at: "2026-07-10T23:08:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

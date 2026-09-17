@@ -1,33 +1,19 @@
 ---
-title: enthrium/open-enthrium-ai-agent-runtime
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- YAML
-- LLM APIs (OpenAI, Anthropic, Azure, etc.)
-- SQL/NoSQL Connectors
-- HTTP/REST APIs
-- SSH/SFTP
-- Message Queues (Kafka, RabbitMQ)
-- OCR/Vision Services
-- Blockchain/Web3
+title: "enthrium/open-enthrium-ai-agent-runtime"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "YAML", "LLM APIs (OpenAI, Anthropic, Azure, etc.)", "SQL/NoSQL Connectors", "HTTP/REST APIs", "SSH/SFTP", "Message Queues (Kafka, RabbitMQ)", "OCR/Vision Services", "Blockchain/Web3"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI agents
-- YAML-based workflows
-- local execution
-- enterprise connectors
-- API server
-source: https://github.com/enthrium/open-enthrium-ai-agent-runtime
+deployment_complexity: "Low"
+tags: ["AI agents", "YAML-based workflows", "local execution", "enterprise connectors", "API server"]
+source: "https://github.com/enthrium/open-enthrium-ai-agent-runtime"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-02T08:21:08Z'
-discovered_at: '2026-08-02T08:22:43Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T08:21:08Z"
+discovered_at: "2026-08-02T08:22:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

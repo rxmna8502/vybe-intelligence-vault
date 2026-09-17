@@ -1,32 +1,19 @@
 ---
-title: justinstimatze/calque
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- Python
-- Rust
-- TypeScript
-- Svelte
-- Static Analysis
-- Embedded Language Runners
-- LLM Integration (Anthropic API)
+title: "justinstimatze/calque"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Python", "Rust", "TypeScript", "Svelte", "Static Analysis", "Embedded Language Runners", "LLM Integration (Anthropic API)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- drift detection
-- code duplication
-- behavioral clones
-- Type-4 clone detection
-- prose drift
-source: https://github.com/justinstimatze/calque
+deployment_complexity: "Medium"
+tags: ["drift detection", "code duplication", "behavioral clones", "Type-4 clone detection", "prose drift"]
+source: "https://github.com/justinstimatze/calque"
 stars: 1
-language: Go
-last_updated: '2026-09-01T09:03:00Z'
-discovered_at: '2026-09-01T09:12:06Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-01T09:03:00Z"
+discovered_at: "2026-09-01T09:12:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

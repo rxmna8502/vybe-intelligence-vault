@@ -1,29 +1,19 @@
 ---
-title: Anil-matcha/Wan-3.0-API
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- REST API
-- Asyncio
-- MuAPI
+title: "Anil-matcha/Wan-3.0-API"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "REST API", "Asyncio", "MuAPI"]
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- video generation
-- AI SDK
-- MCP server
-- asynchronous workflows
-- multimodal
-source: https://github.com/Anil-matcha/Wan-3.0-API
+deployment_complexity: "Medium"
+tags: ["video generation", "AI SDK", "MCP server", "asynchronous workflows", "multimodal"]
+source: "https://github.com/Anil-matcha/Wan-3.0-API"
 stars: 73
-language: Python
-last_updated: '2026-08-06T15:16:11Z'
-discovered_at: '2026-08-06T15:18:35Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T15:16:11Z"
+discovered_at: "2026-08-06T15:18:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

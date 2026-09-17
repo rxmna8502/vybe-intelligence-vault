@@ -1,29 +1,19 @@
 ---
-title: pathmodeio/validate-intentspec-action
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- JavaScript
-- Node.js
-- GitHub Actions
-- YAML
-- JSON Schema
+title: "pathmodeio/validate-intentspec-action"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "GitHub Actions", "YAML", "JSON Schema"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- intent validation
-- AI agent governance
-- schema enforcement
-- evidence integrity
-- GitHub Actions
-source: https://github.com/pathmodeio/validate-intentspec-action
+deployment_complexity: "Low"
+tags: ["intent validation", "AI agent governance", "schema enforcement", "evidence integrity", "GitHub Actions"]
+source: "https://github.com/pathmodeio/validate-intentspec-action"
 stars: 3
-language: JavaScript
-last_updated: '2026-09-01T20:03:47Z'
-discovered_at: '2026-09-03T22:14:12Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-01T20:03:47Z"
+discovered_at: "2026-09-03T22:14:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

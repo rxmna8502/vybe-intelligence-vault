@@ -1,29 +1,19 @@
 ---
-title: amkisko/scout_apm_mcp.rb
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Ruby
-- MCP (Model Context Protocol)
-- ScoutAPM API
-- 1Password CLI
-- REST API Client
+title: "amkisko/scout_apm_mcp.rb"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Ruby", "MCP (Model Context Protocol)", "ScoutAPM API", "1Password CLI", "REST API Client"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- ScoutAPM
-- Ruby gem
-- observability
-- AI integration
-source: https://github.com/amkisko/scout_apm_mcp.rb
+deployment_complexity: "Medium"
+tags: ["MCP server", "ScoutAPM", "Ruby gem", "observability", "AI integration"]
+source: "https://github.com/amkisko/scout_apm_mcp.rb"
 stars: 2
-language: Ruby
-last_updated: '2026-07-18T14:43:38Z'
-discovered_at: '2026-07-18T14:50:45Z'
-evaluated_by: mistral-small-latest
+language: "Ruby"
+last_updated: "2026-07-18T14:43:38Z"
+discovered_at: "2026-07-18T14:50:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

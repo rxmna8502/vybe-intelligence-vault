@@ -1,34 +1,19 @@
 ---
-title: AterDev/Perigon.CLI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- C#
-- .NET
-- ASP.NET Core
-- EF Core
-- MCP Server
-- Razor Templates
-- SQLite
-- Angular
-- TypeScript
-- OpenAPI
+title: "AterDev/Perigon.CLI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET", "ASP.NET Core", "EF Core", "MCP Server", "Razor Templates", "SQLite", "Angular", "TypeScript", "OpenAPI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- code generation
-- boilerplate reduction
-- MCP server
-- ASP.NET scaffolding
-- LLM integration
-source: https://github.com/AterDev/Perigon.CLI
+deployment_complexity: "Medium"
+tags: ["code generation", "boilerplate reduction", "MCP server", "ASP.NET scaffolding", "LLM integration"]
+source: "https://github.com/AterDev/Perigon.CLI"
 stars: 53
-language: C#
-last_updated: '2026-07-16T08:02:10Z'
-discovered_at: '2026-07-16T08:10:15Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-16T08:02:10Z"
+discovered_at: "2026-07-16T08:10:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

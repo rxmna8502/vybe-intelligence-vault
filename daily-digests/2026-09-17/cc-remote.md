@@ -1,35 +1,19 @@
 ---
-title: sgomez/cc-remote
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Docker
-- Docker Compose
-- TypeScript
-- Node.js
-- Caddy
-- GitHub OAuth
-- SQLite
-- TanStack Start
-- Nitro
-- WebSockets
-- Bash
+title: "sgomez/cc-remote"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Docker", "Docker Compose", "TypeScript", "Node.js", "Caddy", "GitHub OAuth", "SQLite", "TanStack Start", "Nitro", "WebSockets", "Bash"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Claude Code
-- VPS Deployment
-- Multi-Session Manager
-- GitHub OAuth
-- Docker Sandbox
-source: https://github.com/sgomez/cc-remote
+deployment_complexity: "Medium"
+tags: ["Claude Code", "VPS Deployment", "Multi-Session Manager", "GitHub OAuth", "Docker Sandbox"]
+source: "https://github.com/sgomez/cc-remote"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-12T16:57:28Z'
-discovered_at: '2026-07-12T17:03:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T16:57:28Z"
+discovered_at: "2026-07-12T17:03:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

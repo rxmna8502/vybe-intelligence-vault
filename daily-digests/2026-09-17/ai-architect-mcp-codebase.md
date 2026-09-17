@@ -1,34 +1,19 @@
 ---
-title: cdeust/ai-architect-mcp-codebase
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- LadybugDB (property graph database)
-- Tree-sitter (AST parsing)
-- Leiden algorithm (community detection)
-- BM25
-- TF-IDF
-- RRF (rank fusion)
-- CMake
-- Git
+title: "cdeust/ai-architect-mcp-codebase"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "LadybugDB (property graph database)", "Tree-sitter (AST parsing)", "Leiden algorithm (community detection)", "BM25", "TF-IDF", "RRF (rank fusion)", "CMake", "Git"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- code intelligence
-- MCP server
-- property graph
-- impact analysis
-- multi-language indexing
-source: https://github.com/cdeust/ai-architect-mcp-codebase
+deployment_complexity: "Medium"
+tags: ["code intelligence", "MCP server", "property graph", "impact analysis", "multi-language indexing"]
+source: "https://github.com/cdeust/ai-architect-mcp-codebase"
 stars: 2
-language: Rust
-last_updated: '2026-08-07T15:56:22Z'
-discovered_at: '2026-08-07T16:02:40Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T15:56:22Z"
+discovered_at: "2026-08-07T16:02:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

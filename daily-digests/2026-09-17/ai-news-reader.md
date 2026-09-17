@@ -1,30 +1,19 @@
 ---
-title: domestof/AI-news-reader
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Claude Code Routine
-- Gmail API
-- Google Drive API
-- Telegram Bot API
-- MCP (Model Context Protocol) Connectors
-- Anthropic Cloud Infrastructure
+title: "domestof/AI-news-reader"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code Routine", "Gmail API", "Google Drive API", "Telegram Bot API", "MCP (Model Context Protocol) Connectors", "Anthropic Cloud Infrastructure"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- automation
-- news aggregation
-- AI workflow
-- Gmail integration
-- Telegram bot
-source: https://github.com/domestof/AI-news-reader
+deployment_complexity: "Medium"
+tags: ["automation", "news aggregation", "AI workflow", "Gmail integration", "Telegram bot"]
+source: "https://github.com/domestof/AI-news-reader"
 stars: 0
-language: None
-last_updated: '2026-08-05T22:01:31Z'
-discovered_at: '2026-08-05T22:15:02Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-05T22:01:31Z"
+discovered_at: "2026-08-05T22:15:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

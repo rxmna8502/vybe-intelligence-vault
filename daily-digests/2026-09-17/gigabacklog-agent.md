@@ -1,32 +1,19 @@
 ---
-title: BlackFxTalon/gigabacklog-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- LangGraph
-- SQLite
-- GigaChat SDK
-- Pydantic
-- uv
-- pytest
-- ruff
+title: "BlackFxTalon/gigabacklog-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "SQLite", "GigaChat SDK", "Pydantic", "uv", "pytest", "ruff"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- agent framework
-- internal request processing
-- LLM orchestration
-- audit logging
-- offline demo
-source: https://github.com/BlackFxTalon/gigabacklog-agent
+deployment_complexity: "Medium"
+tags: ["agent framework", "internal request processing", "LLM orchestration", "audit logging", "offline demo"]
+source: "https://github.com/BlackFxTalon/gigabacklog-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-02T10:40:06Z'
-discovered_at: '2026-08-02T10:41:20Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T10:40:06Z"
+discovered_at: "2026-08-02T10:41:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

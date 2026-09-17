@@ -1,29 +1,19 @@
 ---
-title: theYahia/delovye-linii-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- npm
+title: "theYahia/delovye-linii-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "npm"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP server
-- freight logistics
-- API wrapper
-- Dellin integration
-- Russia logistics
-source: https://github.com/theYahia/delovye-linii-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "freight logistics", "API wrapper", "Dellin integration", "Russia logistics"]
+source: "https://github.com/theYahia/delovye-linii-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T19:12:43Z'
-discovered_at: '2026-09-02T19:14:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:12:43Z"
+discovered_at: "2026-09-02T19:14:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

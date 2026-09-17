@@ -1,29 +1,19 @@
 ---
-title: thegauravgiri/mitra-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- FastMCP
-- Model Context Protocol (MCP)
-- FastAPI
-- Async/Await
+title: "thegauravgiri/mitra-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "FastAPI", "Async/Await"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- time tracking
-- work item management
-- modular architecture
-- AI tool integration
-source: https://github.com/thegauravgiri/mitra-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "time tracking", "work item management", "modular architecture", "AI tool integration"]
+source: "https://github.com/thegauravgiri/mitra-mcp"
 stars: 1
-language: Python
-last_updated: '2026-07-12T05:48:30Z'
-discovered_at: '2026-07-12T05:56:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T05:48:30Z"
+discovered_at: "2026-07-12T05:56:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: Paola3stefania/openBriefing
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Node.js
-- PostgreSQL
-- pgvector
-- Prisma
-- Ollama
-- OpenAI API
-- MCP (Model Context Protocol)
-- HNSW (Hierarchical Navigable Small World) for vector search
+title: "Paola3stefania/openBriefing"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "pgvector", "Prisma", "Ollama", "OpenAI API", "MCP (Model Context Protocol)", "HNSW (Hierarchical Navigable Small World) for vector search"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- agent memory
-- persistent context
-- MCP server
-- session tracking
-- code indexing
-source: https://github.com/Paola3stefania/openBriefing
+deployment_complexity: "Medium"
+tags: ["agent memory", "persistent context", "MCP server", "session tracking", "code indexing"]
+source: "https://github.com/Paola3stefania/openBriefing"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-03T22:07:59Z'
-discovered_at: '2026-08-03T22:09:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T22:07:59Z"
+discovered_at: "2026-08-03T22:09:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

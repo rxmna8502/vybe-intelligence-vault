@@ -1,30 +1,19 @@
 ---
-title: Varun-Patkar/gamified-cert-prep
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- VS Code Extension API
-- Git
-- GitHub Copilot (or other LLM providers)
-- Markdown
-- JSON
+title: "Varun-Patkar/gamified-cert-prep"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "VS Code Extension API", "Git", "GitHub Copilot (or other LLM providers)", "Markdown", "JSON"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI-powered study
-- gamification
-- certification prep
-- VS Code extension
-- Git-backed learning
-source: https://github.com/Varun-Patkar/gamified-cert-prep
+deployment_complexity: "Medium"
+tags: ["AI-powered study", "gamification", "certification prep", "VS Code extension", "Git-backed learning"]
+source: "https://github.com/Varun-Patkar/gamified-cert-prep"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T15:41:15Z'
-discovered_at: '2026-09-01T15:53:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T15:41:15Z"
+discovered_at: "2026-09-01T15:53:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

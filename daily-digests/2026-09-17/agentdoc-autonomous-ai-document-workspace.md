@@ -1,32 +1,19 @@
 ---
-title: ishanbhattacharjee12/AgentDoc-Autonomous-AI-Document-Workspace
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- React
-- FastAPI
-- Python
-- Vite
-- TailwindCSS
-- TypeScript
-- SQLite
-- OpenAI GPT-4o
+title: "ishanbhattacharjee12/AgentDoc-Autonomous-AI-Document-Workspace"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["React", "FastAPI", "Python", "Vite", "TailwindCSS", "TypeScript", "SQLite", "OpenAI GPT-4o"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- document generation
-- multi-agent pipeline
-- LLM orchestration
-- PDF/DOCX export
-- real-time streaming
-source: https://github.com/ishanbhattacharjee12/AgentDoc-Autonomous-AI-Document-Workspace
+deployment_complexity: "Medium"
+tags: ["document generation", "multi-agent pipeline", "LLM orchestration", "PDF/DOCX export", "real-time streaming"]
+source: "https://github.com/ishanbhattacharjee12/AgentDoc-Autonomous-AI-Document-Workspace"
 stars: 2
-language: Python
-last_updated: '2026-07-18T20:41:09Z'
-discovered_at: '2026-07-18T20:44:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T20:41:09Z"
+discovered_at: "2026-07-18T20:44:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

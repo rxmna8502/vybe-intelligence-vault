@@ -1,35 +1,19 @@
 ---
-title: Shotza247/Pulse360_Hackathon_Day
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Next.js
-- TypeScript
-- PostgreSQL
-- Prisma
-- NextAuth.js
-- Tailwind CSS
-- OpenAI SDK (GPT-4o)
-- IBM Bob (Agentic AI Platform)
-- Model Context Protocol (MCP)
-- Node.js
-- Podman
+title: "Shotza247/Pulse360_Hackathon_Day"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "NextAuth.js", "Tailwind CSS", "OpenAI SDK (GPT-4o)", "IBM Bob (Agentic AI Platform)", "Model Context Protocol (MCP)", "Node.js", "Podman"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Performance Review
-- HR Analytics
-- AI Feedback Analysis
-- Agentic AI
-- Full-Stack
-source: https://github.com/Shotza247/Pulse360_Hackathon_Day
+deployment_complexity: "Medium"
+tags: ["Performance Review", "HR Analytics", "AI Feedback Analysis", "Agentic AI", "Full-Stack"]
+source: "https://github.com/Shotza247/Pulse360_Hackathon_Day"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T21:30:17Z'
-discovered_at: '2026-08-09T21:35:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T21:30:17Z"
+discovered_at: "2026-08-09T21:35:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

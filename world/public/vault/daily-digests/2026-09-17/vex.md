@@ -1,33 +1,19 @@
 ---
-title: 0xmortuex/Vex
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Electron
-- Chromium
-- JavaScript
-- TypeScript
-- WebGPU
-- Ollama
-- WebLLM
-- castLabs Electron
-- Node.js
+title: "0xmortuex/Vex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "Chromium", "JavaScript", "TypeScript", "WebGPU", "Ollama", "WebLLM", "castLabs Electron", "Node.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- browser
-- AI agent
-- privacy
-- DRM streaming
-- customizable UI
-source: https://github.com/0xmortuex/Vex
+deployment_complexity: "Medium"
+tags: ["browser", "AI agent", "privacy", "DRM streaming", "customizable UI"]
+source: "https://github.com/0xmortuex/Vex"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-03T15:33:32Z'
-discovered_at: '2026-09-03T15:35:23Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-03T15:33:32Z"
+discovered_at: "2026-09-03T15:35:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: yuens1002/resume-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- TypeScript
-- Hono
-- Supabase (Postgres + pgvector)
-- Open Brain (OB1)
-- Streamable HTTP
-- MCP (Model Context Protocol)
-- A2A (Agent-to-Agent) Protocol
-- Railway (deployment)
-- Ed25519 (cryptographic verification)
-- OpenAPI (schema)
+title: "yuens1002/resume-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Hono", "Supabase (Postgres + pgvector)", "Open Brain (OB1)", "Streamable HTTP", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) Protocol", "Railway (deployment)", "Ed25519 (cryptographic verification)", "OpenAPI (schema)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- professional agent
-- verifiable identity
-- MCP server
-- truth-grounded AI
-- employer screening
-source: https://github.com/yuens1002/resume-agent
+deployment_complexity: "Medium"
+tags: ["professional agent", "verifiable identity", "MCP server", "truth-grounded AI", "employer screening"]
+source: "https://github.com/yuens1002/resume-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-10T13:09:10Z'
-discovered_at: '2026-07-10T13:10:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T13:09:10Z"
+discovered_at: "2026-07-10T13:10:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: git-ksk/mcp-interop
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- OAuth 2.0
-- CLI
-- JSON
-- PTY (Pseudo-Terminal)
-- GitHub Actions
+title: "git-ksk/mcp-interop"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "OAuth 2.0", "CLI", "JSON", "PTY (Pseudo-Terminal)", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP
-- interoperability
-- remote servers
-- OAuth
-- CLI testing
-source: https://github.com/git-ksk/mcp-interop
+deployment_complexity: "Medium"
+tags: ["MCP", "interoperability", "remote servers", "OAuth", "CLI testing"]
+source: "https://github.com/git-ksk/mcp-interop"
 stars: 0
-language: Go
-last_updated: '2026-08-09T08:33:26Z'
-discovered_at: '2026-08-09T08:45:22Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-09T08:33:26Z"
+discovered_at: "2026-08-09T08:45:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: leonlucc/tiny-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-17
-tech_stack:
-- Python
-- FastAPI
-- Vanilla JavaScript
-- HTML/CSS
-- LLM APIs
-- Embedding Models
+title: "leonlucc/tiny-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Vanilla JavaScript", "HTML/CSS", "LLM APIs", "Embedding Models"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- educational
-- lightweight
-- agent-framework
-- from-scratch
-- modular
-source: https://github.com/leonlucc/tiny-agent
+deployment_complexity: "Low"
+tags: ["educational", "lightweight", "agent-framework", "from-scratch", "modular"]
+source: "https://github.com/leonlucc/tiny-agent"
 stars: 22
-language: JavaScript
-last_updated: '2026-08-06T06:29:42Z'
-discovered_at: '2026-08-06T06:32:02Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-06T06:29:42Z"
+discovered_at: "2026-08-06T06:32:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

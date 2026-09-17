@@ -1,32 +1,19 @@
 ---
-title: ulinycoin/shadow-web
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-17
-tech_stack:
-- Python
-- Playwright
-- Camoufox
-- FastAPI
-- MCP (Model Context Protocol)
-- PyPI
-- GitHub Actions
-- Camouflage (browser automation)
+title: "ulinycoin/shadow-web"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "Camoufox", "FastAPI", "MCP (Model Context Protocol)", "PyPI", "GitHub Actions", "Camouflage (browser automation)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- web scraping
-- token compression
-- Shadow DOM
-- structured data extraction
-- AI agent tools
-source: https://github.com/ulinycoin/shadow-web
+deployment_complexity: "Medium"
+tags: ["web scraping", "token compression", "Shadow DOM", "structured data extraction", "AI agent tools"]
+source: "https://github.com/ulinycoin/shadow-web"
 stars: 9
-language: Python
-last_updated: '2026-08-01T08:56:30Z'
-discovered_at: '2026-08-01T09:06:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T08:56:30Z"
+discovered_at: "2026-08-01T09:06:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
