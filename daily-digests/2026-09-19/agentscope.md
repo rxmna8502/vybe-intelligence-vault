@@ -1,31 +1,19 @@
 ---
-title: ZackZhang-AI/AgentScope
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Next.js
-- TypeScript
-- PostgreSQL
-- Docker
-- React
-- Tailwind CSS
-- Mermaid.js
+title: "ZackZhang-AI/AgentScope"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js", "TypeScript", "PostgreSQL", "Docker", "React", "Tailwind CSS", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent debugging
-- failure analysis
-- execution trace
-- sandboxed recovery
-- product observability
-source: https://github.com/ZackZhang-AI/AgentScope
+deployment_complexity: "Medium"
+tags: ["AI agent debugging", "failure analysis", "execution trace", "sandboxed recovery", "product observability"]
+source: "https://github.com/ZackZhang-AI/AgentScope"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T11:27:57Z'
-discovered_at: '2026-08-09T11:32:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T11:27:57Z"
+discovered_at: "2026-08-09T11:32:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

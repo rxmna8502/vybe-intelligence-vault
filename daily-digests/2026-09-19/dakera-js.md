@@ -1,34 +1,19 @@
 ---
-title: Dakera-AI/dakera-js
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- JavaScript
-- Node.js
-- Deno
-- Bun
-- Cloudflare Workers
-- Rust
-- Docker
-- ESM
-- CJS
+title: "Dakera-AI/dakera-js"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript", "Node.js", "Deno", "Bun", "Cloudflare Workers", "Rust", "Docker", "ESM", "CJS"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- memory engine
-- hybrid search
-- agent memory
-- self-hosted
-- RAG optimization
-source: https://github.com/Dakera-AI/dakera-js
+deployment_complexity: "Medium"
+tags: ["memory engine", "hybrid search", "agent memory", "self-hosted", "RAG optimization"]
+source: "https://github.com/Dakera-AI/dakera-js"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-07T12:49:15Z'
-discovered_at: '2026-08-07T13:02:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T12:49:15Z"
+discovered_at: "2026-08-07T13:02:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

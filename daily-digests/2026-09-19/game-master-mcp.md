@@ -1,29 +1,19 @@
 ---
-title: theferalcode-pixel/game-master-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- HTML/CSS/JavaScript
-- Pytest
-- STDLib Web Server
+title: "theferalcode-pixel/game-master-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "HTML/CSS/JavaScript", "Pytest", "STDLib Web Server"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- board games
-- AI interaction
-- game engine
-- local deployment
-source: https://github.com/theferalcode-pixel/game-master-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "board games", "AI interaction", "game engine", "local deployment"]
+source: "https://github.com/theferalcode-pixel/game-master-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-19T17:57:14Z'
-discovered_at: '2026-07-19T17:59:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T17:57:14Z"
+discovered_at: "2026-07-19T17:59:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

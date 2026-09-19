@@ -1,30 +1,19 @@
 ---
-title: Akins20/FREYA
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- DevTools Protocol (Chrome)
-- LLM (Gemini, Anthropic, or mock)
-- BM25 (for memory retrieval)
-- Ogg (audio encoding)
-- Makefile (build system)
+title: "Akins20/FREYA"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "DevTools Protocol (Chrome)", "LLM (Gemini, Anthropic, or mock)", "BM25 (for memory retrieval)", "Ogg (audio encoding)", "Makefile (build system)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent
-- browser automation
-- state-checked completion
-- offline-capable
-- document generation
-source: https://github.com/Akins20/FREYA
+deployment_complexity: "Medium"
+tags: ["AI agent", "browser automation", "state-checked completion", "offline-capable", "document generation"]
+source: "https://github.com/Akins20/FREYA"
 stars: 0
-language: Go
-last_updated: '2026-08-10T09:19:04Z'
-discovered_at: '2026-08-10T09:24:43Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-10T09:19:04Z"
+discovered_at: "2026-08-10T09:24:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: maxanatsko/mcp-engine-public
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Model Context Protocol (MCP)
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Python
-- TypeScript
-- Electron
+title: "maxanatsko/mcp-engine-public"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "Power BI Desktop", "DAX (Data Analysis Expressions)", "Python", "TypeScript", "Electron"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Power BI automation
-- AI-assisted analytics
-- MCP server
-- DAX query execution
-- semantic model management
-source: https://github.com/maxanatsko/mcp-engine-public
+deployment_complexity: "Medium"
+tags: ["Power BI automation", "AI-assisted analytics", "MCP server", "DAX query execution", "semantic model management"]
+source: "https://github.com/maxanatsko/mcp-engine-public"
 stars: 254
-language: None
-last_updated: '2026-08-02T13:39:47Z'
-discovered_at: '2026-08-02T13:49:39Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T13:39:47Z"
+discovered_at: "2026-08-02T13:49:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

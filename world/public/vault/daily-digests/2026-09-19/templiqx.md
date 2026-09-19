@@ -1,32 +1,19 @@
 ---
-title: RyanLisse/templiqx
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Rust
-- YAML
-- JSON Schema
-- CLI
-- MCP (Model Context Protocol)
-- HTTP
-- Docker
-- Kubernetes
+title: "RyanLisse/templiqx"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "YAML", "JSON Schema", "CLI", "MCP (Model Context Protocol)", "HTTP", "Docker", "Kubernetes"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI contract compiler
-- template engine
-- deterministic interactions
-- portable AI interactions
-- fingerprinting
-source: https://github.com/RyanLisse/templiqx
+deployment_complexity: "Medium"
+tags: ["AI contract compiler", "template engine", "deterministic interactions", "portable AI interactions", "fingerprinting"]
+source: "https://github.com/RyanLisse/templiqx"
 stars: 0
-language: Rust
-last_updated: '2026-07-15T10:43:51Z'
-discovered_at: '2026-07-15T10:48:46Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-15T10:43:51Z"
+discovered_at: "2026-07-15T10:48:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

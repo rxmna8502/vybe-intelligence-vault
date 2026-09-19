@@ -1,33 +1,19 @@
 ---
-title: MCPJam/inspector
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- React
-- Electron
-- Docker
-- JSON-RPC
-- OAuth
-- CI/CD
-- GitHub Actions
+title: "MCPJam/inspector"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "React", "Electron", "Docker", "JSON-RPC", "OAuth", "CI/CD", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- debugging
-- testing
-- evaluation
-- LLM integration
-source: https://github.com/MCPJam/inspector
+deployment_complexity: "Medium"
+tags: ["MCP", "debugging", "testing", "evaluation", "LLM integration"]
+source: "https://github.com/MCPJam/inspector"
 stars: 2180
-language: TypeScript
-last_updated: '2026-09-01T02:41:04Z'
-discovered_at: '2026-09-01T02:53:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T02:41:04Z"
+discovered_at: "2026-09-01T02:53:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

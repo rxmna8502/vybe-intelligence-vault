@@ -1,35 +1,19 @@
 ---
-title: 1661169091kiwi/Knote
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Vue 3
-- Vite
-- TipTap / ProseMirror
-- markdown-it
-- Tailwind CSS
-- Electron
-- Capacitor
-- KaTeX
-- Mermaid
-- highlight.js
-- PaddleOCR (optional)
+title: "1661169091kiwi/Knote"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Vue 3", "Vite", "TipTap / ProseMirror", "markdown-it", "Tailwind CSS", "Electron", "Capacitor", "KaTeX", "Mermaid", "highlight.js", "PaddleOCR (optional)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Markdown Editor
-- AI Agent Integration
-- Local-First
-- Cross-Platform
-- WYSIWYG
-source: https://github.com/1661169091kiwi/Knote
+deployment_complexity: "Medium"
+tags: ["Markdown Editor", "AI Agent Integration", "Local-First", "Cross-Platform", "WYSIWYG"]
+source: "https://github.com/1661169091kiwi/Knote"
 stars: 128
-language: JavaScript
-last_updated: '2026-08-04T13:00:33Z'
-discovered_at: '2026-08-04T13:03:51Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-04T13:00:33Z"
+discovered_at: "2026-08-04T13:03:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

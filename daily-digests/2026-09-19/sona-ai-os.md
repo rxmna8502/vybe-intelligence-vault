@@ -1,30 +1,19 @@
 ---
-title: debasish3807-afk/sona-ai-os
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- GitHub Actions
-- Python
-- Ruff
-- Mypy
-- Pytest
-- Docker
+title: "debasish3807-afk/sona-ai-os"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["GitHub Actions", "Python", "Ruff", "Mypy", "Pytest", "Docker"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- CI/CD
-- GitHub
-- AI Development
-- Modular Systems
-- Workflow Automation
-source: https://github.com/debasish3807-afk/sona-ai-os
+deployment_complexity: "Low"
+tags: ["CI/CD", "GitHub", "AI Development", "Modular Systems", "Workflow Automation"]
+source: "https://github.com/debasish3807-afk/sona-ai-os"
 stars: 1
-language: Python
-last_updated: '2026-08-07T12:50:36Z'
-discovered_at: '2026-08-07T13:02:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T12:50:36Z"
+discovered_at: "2026-08-07T13:02:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

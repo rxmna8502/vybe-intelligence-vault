@@ -1,30 +1,19 @@
 ---
-title: ricardocabral/icuvisor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- intervals.icu API
-- OS Keychain Integration
-- Shell/PowerShell Installers
-- GitHub Actions CI/CD
+title: "ricardocabral/icuvisor"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "intervals.icu API", "OS Keychain Integration", "Shell/PowerShell Installers", "GitHub Actions CI/CD"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Training Data
-- Fitness Analytics
-- AI Assistant Integration
-- Local-First
-source: https://github.com/ricardocabral/icuvisor
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Training Data", "Fitness Analytics", "AI Assistant Integration", "Local-First"]
+source: "https://github.com/ricardocabral/icuvisor"
 stars: 17
-language: Go
-last_updated: '2026-07-12T14:52:24Z'
-discovered_at: '2026-07-12T14:54:48Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-12T14:52:24Z"
+discovered_at: "2026-07-12T14:54:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

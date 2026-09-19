@@ -1,34 +1,19 @@
 ---
-title: jwildenhain/CheckerBoardR.shiny
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- R
-- Shiny
-- Plotly
-- ggplot2
-- Docker
-- Python
-- Playwright
-- Apache
-- ggplot2
-- 4PL Hill Curves
+title: "jwildenhain/CheckerBoardR.shiny"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["R", "Shiny", "Plotly", "ggplot2", "Docker", "Python", "Playwright", "Apache", "ggplot2", "4PL Hill Curves"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- drug synergy
-- dose-response modeling
-- Shiny web app
-- interactive visualization
-- pharmacology
-source: https://github.com/jwildenhain/CheckerBoardR.shiny
+deployment_complexity: "Medium"
+tags: ["drug synergy", "dose-response modeling", "Shiny web app", "interactive visualization", "pharmacology"]
+source: "https://github.com/jwildenhain/CheckerBoardR.shiny"
 stars: 0
-language: R
-last_updated: '2026-08-10T20:01:56Z'
-discovered_at: '2026-08-10T20:02:09Z'
-evaluated_by: mistral-small-latest
+language: "R"
+last_updated: "2026-08-10T20:01:56Z"
+discovered_at: "2026-08-10T20:02:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

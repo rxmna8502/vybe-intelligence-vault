@@ -1,31 +1,19 @@
 ---
-title: lozit/mcp-standardnotes
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- libsodium-wrappers-sumo
-- Zod
-- Argon2id
-- XChaCha20-Poly1305 IETF
+title: "lozit/mcp-standardnotes"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "libsodium-wrappers-sumo", "Zod", "Argon2id", "XChaCha20-Poly1305 IETF"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- end-to-end encryption
-- Standard Notes integration
-- AI agent access
-- local stdio transport
-source: https://github.com/lozit/mcp-standardnotes
+deployment_complexity: "Low"
+tags: ["MCP server", "end-to-end encryption", "Standard Notes integration", "AI agent access", "local stdio transport"]
+source: "https://github.com/lozit/mcp-standardnotes"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-09T18:41:16Z'
-discovered_at: '2026-08-09T18:43:40Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T18:41:16Z"
+discovered_at: "2026-08-09T18:43:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

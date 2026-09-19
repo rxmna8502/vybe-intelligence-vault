@@ -1,34 +1,19 @@
 ---
-title: netresearch/typo3-testing-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- PHP
-- TYPO3
-- Playwright
-- PHPUnit
-- axe-core
-- GitHub Actions
-- GitLab CI
-- Docker
-- Shell Scripting
-- CSV Fixtures
+title: "netresearch/typo3-testing-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PHP", "TYPO3", "Playwright", "PHPUnit", "axe-core", "GitHub Actions", "GitLab CI", "Docker", "Shell Scripting", "CSV Fixtures"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- TYPO3 testing
-- Agent Skill
-- CI/CD automation
-- Playwright E2E
-- PHPUnit
-source: https://github.com/netresearch/typo3-testing-skill
+deployment_complexity: "Medium"
+tags: ["TYPO3 testing", "Agent Skill", "CI/CD automation", "Playwright E2E", "PHPUnit"]
+source: "https://github.com/netresearch/typo3-testing-skill"
 stars: 4
-language: Shell
-last_updated: '2026-07-19T13:15:11Z'
-discovered_at: '2026-07-19T13:17:12Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-19T13:15:11Z"
+discovered_at: "2026-07-19T13:17:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

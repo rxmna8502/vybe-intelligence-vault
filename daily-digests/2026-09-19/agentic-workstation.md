@@ -1,31 +1,19 @@
 ---
-title: ulises-jeremias/agentic-workstation
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Chezmoi
-- MCP (Model Context Protocol)
-- Bash
-- Shell Scripting
-- GitHub Actions
-- CLI Tools
+title: "ulises-jeremias/agentic-workstation"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Chezmoi", "MCP (Model Context Protocol)", "Bash", "Shell Scripting", "GitHub Actions", "CLI Tools"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-native workstation
-- MCP integration
-- Developer tooling
-- Automated setup
-- Agent workflows
-source: https://github.com/ulises-jeremias/agentic-workstation
+deployment_complexity: "Medium"
+tags: ["AI-native workstation", "MCP integration", "Developer tooling", "Automated setup", "Agent workflows"]
+source: "https://github.com/ulises-jeremias/agentic-workstation"
 stars: 2
-language: Python
-last_updated: '2026-07-15T19:53:07Z'
-discovered_at: '2026-07-15T20:08:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T19:53:07Z"
+discovered_at: "2026-07-15T20:08:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

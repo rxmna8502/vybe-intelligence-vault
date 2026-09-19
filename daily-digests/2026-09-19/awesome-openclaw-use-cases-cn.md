@@ -1,30 +1,19 @@
 ---
-title: AIPMAndy/awesome-openclaw-use-cases-cn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- OpenClaw
-- Markdown
-- JSON
-- Shell
-- CI/CD
-- GitHub Actions
+title: "AIPMAndy/awesome-openclaw-use-cases-cn"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["OpenClaw", "Markdown", "JSON", "Shell", "CI/CD", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- OpenClaw
-- use cases
-- prompt engineering
-- automation
-- Chinese AI tools
-source: https://github.com/AIPMAndy/awesome-openclaw-use-cases-cn
+deployment_complexity: "Medium"
+tags: ["OpenClaw", "use cases", "prompt engineering", "automation", "Chinese AI tools"]
+source: "https://github.com/AIPMAndy/awesome-openclaw-use-cases-cn"
 stars: 21
-language: Shell
-last_updated: '2026-08-08T03:25:04Z'
-discovered_at: '2026-08-08T03:27:58Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-08T03:25:04Z"
+discovered_at: "2026-08-08T03:27:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

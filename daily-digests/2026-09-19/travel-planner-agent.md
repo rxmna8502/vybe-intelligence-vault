@@ -1,34 +1,19 @@
 ---
-title: NvidiaSeoul/travel-planner-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Streamlit
-- LangChain
-- Pydantic
-- Folium
-- AntPath
-- Tavily API
-- Kakao API
-- OpenAI
-- geopy
+title: "NvidiaSeoul/travel-planner-agent"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Python", "Streamlit", "LangChain", "Pydantic", "Folium", "AntPath", "Tavily API", "Kakao API", "OpenAI", "geopy"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- travel planning
-- LLM structured output
-- interactive mapping
-- geocoding
-- API enrichment
-source: https://github.com/NvidiaSeoul/travel-planner-agent
+deployment_complexity: "Medium"
+tags: ["travel planning", "LLM structured output", "interactive mapping", "geocoding", "API enrichment"]
+source: "https://github.com/NvidiaSeoul/travel-planner-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-05T05:42:54Z'
-discovered_at: '2026-08-05T05:47:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T05:42:54Z"
+discovered_at: "2026-08-05T05:47:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: prest/prest
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- PostgreSQL
-- HTTP/JSON-RPC
-- Docker
-- TOML
-- Kubernetes
+title: "prest/prest"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "PostgreSQL", "HTTP/JSON-RPC", "Docker", "TOML", "Kubernetes"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- PostgreSQL
-- REST API
-- low-code
-- database abstraction
-- MCP server
-source: https://github.com/prest/prest
+deployment_complexity: "Medium"
+tags: ["PostgreSQL", "REST API", "low-code", "database abstraction", "MCP server"]
+source: "https://github.com/prest/prest"
 stars: 4561
-language: Go
-last_updated: '2026-07-11T05:36:13Z'
-discovered_at: '2026-07-11T05:39:23Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-11T05:36:13Z"
+discovered_at: "2026-07-11T05:39:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: lulin70/OPC-Agents
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Streamlit
-- FastAPI
-- SQLite
-- Docker
-- LLM APIs (MOKA, GLM, OpenAI, Ollama)
-- Cryptography
-- Pydantic
-- Jinja2
-- DuckDuckGo Search
-- Model Context Protocol (MCP)
+title: "lulin70/OPC-Agents"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Streamlit", "FastAPI", "SQLite", "Docker", "LLM APIs (MOKA, GLM, OpenAI, Ollama)", "Cryptography", "Pydantic", "Jinja2", "DuckDuckGo Search", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agents
-- task automation
-- multi-agent systems
-- RAG augmentation
-- solo entrepreneur tools
-source: https://github.com/lulin70/OPC-Agents
+deployment_complexity: "Medium"
+tags: ["AI agents", "task automation", "multi-agent systems", "RAG augmentation", "solo entrepreneur tools"]
+source: "https://github.com/lulin70/OPC-Agents"
 stars: 5
-language: Python
-last_updated: '2026-07-11T13:11:45Z'
-discovered_at: '2026-07-11T13:14:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T13:11:45Z"
+discovered_at: "2026-07-11T13:14:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

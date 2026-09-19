@@ -1,37 +1,19 @@
 ---
-title: arafatruetbd/nextjs-readme-auditor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Next.js
-- TypeScript
-- Node.js
-- GitHub Actions
-- Turborepo
-- pnpm
-- Jest
-- Playwright
-- Prisma
-- Drizzle
-- NextAuth/Auth.js
-- Clerk
-- Zod
+title: "arafatruetbd/nextjs-readme-auditor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js", "TypeScript", "Node.js", "GitHub Actions", "Turborepo", "pnpm", "Jest", "Playwright", "Prisma", "Drizzle", "NextAuth/Auth.js", "Clerk", "Zod"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- documentation-audit
-- evidence-based
-- Next.js
-- README-generation
-- code-reality-check
-source: https://github.com/arafatruetbd/nextjs-readme-auditor
+deployment_complexity: "Low"
+tags: ["documentation-audit", "evidence-based", "Next.js", "README-generation", "code-reality-check"]
+source: "https://github.com/arafatruetbd/nextjs-readme-auditor"
 stars: 0
-language: None
-last_updated: '2026-09-01T15:24:10Z'
-discovered_at: '2026-09-01T15:52:41Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-01T15:24:10Z"
+discovered_at: "2026-09-01T15:52:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

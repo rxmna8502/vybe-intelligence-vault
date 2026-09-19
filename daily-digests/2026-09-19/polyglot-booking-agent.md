@@ -1,35 +1,19 @@
 ---
-title: abiotov/polyglot-booking-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- OpenAI (gpt-4o-mini)
-- Deepgram (nova-3 STT)
-- Cartesia (Sonic TTS)
-- LiveKit Agents (WebRTC)
-- Vapi (telephony)
-- Telegram Bot API
-- CalDAV (iCloud, Google, Radicale)
-- Ruff (code style)
-- Hypothesis (property-based testing)
-- Opik (observability)
+title: "abiotov/polyglot-booking-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "OpenAI (gpt-4o-mini)", "Deepgram (nova-3 STT)", "Cartesia (Sonic TTS)", "LiveKit Agents (WebRTC)", "Vapi (telephony)", "Telegram Bot API", "CalDAV (iCloud, Google, Radicale)", "Ruff (code style)", "Hypothesis (property-based testing)", "Opik (observability)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- voice AI
-- appointment scheduling
-- multilingual
-- deterministic scheduling
-- CalDAV integration
-source: https://github.com/abiotov/polyglot-booking-agent
+deployment_complexity: "Medium"
+tags: ["voice AI", "appointment scheduling", "multilingual", "deterministic scheduling", "CalDAV integration"]
+source: "https://github.com/abiotov/polyglot-booking-agent"
 stars: 1
-language: Python
-last_updated: '2026-07-15T21:56:22Z'
-discovered_at: '2026-07-15T21:58:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T21:56:22Z"
+discovered_at: "2026-07-15T21:58:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

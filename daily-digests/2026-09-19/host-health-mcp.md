@@ -1,32 +1,19 @@
 ---
-title: tigrino/host-health-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- mTLS
-- systemd
-- Linux
-- Debian packaging
-- Journald
-- JSON
-- Model Context Protocol (MCP)
+title: "tigrino/host-health-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "mTLS", "systemd", "Linux", "Debian packaging", "Journald", "JSON", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- health monitoring
-- MCP server
-- Linux fleet management
-- read-only API
-- operational tooling
-source: https://github.com/tigrino/host-health-mcp
+deployment_complexity: "Medium"
+tags: ["health monitoring", "MCP server", "Linux fleet management", "read-only API", "operational tooling"]
+source: "https://github.com/tigrino/host-health-mcp"
 stars: 1
-language: Go
-last_updated: '2026-08-03T16:17:53Z'
-discovered_at: '2026-08-03T16:26:30Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-03T16:17:53Z"
+discovered_at: "2026-08-03T16:26:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

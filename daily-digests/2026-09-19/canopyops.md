@@ -1,28 +1,19 @@
 ---
-title: Bekhbekh7821/CanopyOps
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Windows (64-bit)
-- C#/.NET (implied by installer and Windows app)
-- SQLite (for local data storage)
-- GitHub Pages (for distribution)
+title: "Bekhbekh7821/CanopyOps"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows (64-bit)", "C#/.NET (implied by installer and Windows app)", "SQLite (for local data storage)", "GitHub Pages (for distribution)"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- cannabis-cultivation
-- agricultural-ai
-- desktop-application
-- data-tracking
-- decision-support
-source: https://github.com/Bekhbekh7821/CanopyOps
+deployment_complexity: "Low"
+tags: ["cannabis-cultivation", "agricultural-ai", "desktop-application", "data-tracking", "decision-support"]
+source: "https://github.com/Bekhbekh7821/CanopyOps"
 stars: 1
-language: None
-last_updated: '2026-08-07T09:47:11Z'
-discovered_at: '2026-08-07T10:05:34Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T09:47:11Z"
+discovered_at: "2026-08-07T10:05:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

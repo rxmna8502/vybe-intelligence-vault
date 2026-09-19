@@ -1,31 +1,19 @@
 ---
-title: sf-shenfeng/learn-shell
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- PostgreSQL
-- Docker
-- MCP (Model Context Protocol)
-- FSRS (Flashcard Scheduling Algorithm)
-- React (for web UI)
-- Node.js
+title: "sf-shenfeng/learn-shell"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "PostgreSQL", "Docker", "MCP (Model Context Protocol)", "FSRS (Flashcard Scheduling Algorithm)", "React (for web UI)", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI teaching assistant
-- MCP server
-- flashcard system
-- agent memory layer
-- self-hosted learning OS
-source: https://github.com/sf-shenfeng/learn-shell
+deployment_complexity: "Medium"
+tags: ["AI teaching assistant", "MCP server", "flashcard system", "agent memory layer", "self-hosted learning OS"]
+source: "https://github.com/sf-shenfeng/learn-shell"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-07T13:01:31Z'
-discovered_at: '2026-08-07T13:02:36Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T13:01:31Z"
+discovered_at: "2026-08-07T13:02:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

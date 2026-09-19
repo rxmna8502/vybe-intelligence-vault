@@ -1,38 +1,19 @@
 ---
-title: HhhBZzz/SpringClaw
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Java 17
-- Spring Boot 3.5
-- Spring AI 1.1
-- Spring MVC
-- Spring AOP
-- MySQL 8
-- Redis Stack
-- RabbitMQ
-- Vue 3
-- Vite
-- TypeScript
-- Pinia
-- Docker
-- Docker Compose
+title: "HhhBZzz/SpringClaw"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Java 17", "Spring Boot 3.5", "Spring AI 1.1", "Spring MVC", "Spring AOP", "MySQL 8", "Redis Stack", "RabbitMQ", "Vue 3", "Vite", "TypeScript", "Pinia", "Docker", "Docker Compose"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI Agent Runtime
-- Spring Boot
-- Multi-Model Orchestration
-- Tool Governance
-- Memory Management
-source: https://github.com/HhhBZzz/SpringClaw
+deployment_complexity: "Medium"
+tags: ["AI Agent Runtime", "Spring Boot", "Multi-Model Orchestration", "Tool Governance", "Memory Management"]
+source: "https://github.com/HhhBZzz/SpringClaw"
 stars: 1
-language: Java
-last_updated: '2026-08-04T07:35:53Z'
-discovered_at: '2026-08-04T07:40:03Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-04T07:35:53Z"
+discovered_at: "2026-08-04T07:40:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

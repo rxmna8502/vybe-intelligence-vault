@@ -1,31 +1,19 @@
 ---
-title: impressionable-pyrrhotite668/adaptive-multistage-rag-system
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Jupyter Notebook
-- RAG (Retrieval-Augmented Generation)
-- Query-aware routing
-- Cross-encoder re-ranking
-- Context compression
-- Windows OS
+title: "impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Jupyter Notebook", "RAG (Retrieval-Augmented Generation)", "Query-aware routing", "Cross-encoder re-ranking", "Context compression", "Windows OS"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- document QA
-- multi-stage RAG
-- local processing
-- privacy-focused
-- long-document retrieval
-source: https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system
+deployment_complexity: "Medium"
+tags: ["document QA", "multi-stage RAG", "local processing", "privacy-focused", "long-document retrieval"]
+source: "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
 stars: 0
-language: Jupyter Notebook
-last_updated: '2026-08-09T14:08:36Z'
-discovered_at: '2026-08-09T14:38:42Z'
-evaluated_by: mistral-small-latest
+language: "Jupyter Notebook"
+last_updated: "2026-08-09T14:08:36Z"
+discovered_at: "2026-08-09T14:38:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

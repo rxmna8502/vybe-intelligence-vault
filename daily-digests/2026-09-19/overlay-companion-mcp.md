@@ -1,34 +1,19 @@
 ---
-title: RyansOpenSourceRice/overlay-companion-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- C#
-- Docker
-- Podman
-- KasmVNC
-- MCP (Model Context Protocol)
-- WebSockets
-- TypeScript
-- Bash
-- Linux
-- Flatpak
+title: "RyansOpenSourceRice/overlay-companion-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", "Docker", "Podman", "KasmVNC", "MCP (Model Context Protocol)", "WebSockets", "TypeScript", "Bash", "Linux", "Flatpak"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI desktop control
-- MCP server
-- screen automation
-- overlay generation
-- remote desktop
-source: https://github.com/RyansOpenSourceRice/overlay-companion-mcp
+deployment_complexity: "Medium"
+tags: ["AI desktop control", "MCP server", "screen automation", "overlay generation", "remote desktop"]
+source: "https://github.com/RyansOpenSourceRice/overlay-companion-mcp"
 stars: 3
-language: C#
-last_updated: '2026-08-07T12:56:29Z'
-discovered_at: '2026-08-07T13:02:37Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-07T12:56:29Z"
+discovered_at: "2026-08-07T13:02:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: Parker-Fawcett/rebuild-dossier
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Playwright
-- AST Parsing
-- Mutation Testing
-- Claude Code Integration
+title: "Parker-Fawcett/rebuild-dossier"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Playwright", "AST Parsing", "Mutation Testing", "Claude Code Integration"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- agentic rebuild
-- specification generation
-- mutation testing
-- contract enforcement
-source: https://github.com/Parker-Fawcett/rebuild-dossier
+deployment_complexity: "Medium"
+tags: ["MCP server", "agentic rebuild", "specification generation", "mutation testing", "contract enforcement"]
+source: "https://github.com/Parker-Fawcett/rebuild-dossier"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-03T02:00:44Z'
-discovered_at: '2026-09-03T02:23:41Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T02:00:44Z"
+discovered_at: "2026-09-03T02:23:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

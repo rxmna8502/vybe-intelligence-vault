@@ -1,30 +1,19 @@
 ---
-title: thatcreativetayo/kromamcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Serper API (Google Search/Images/Scrape)
-- HTTP + SSE
-- Streamable HTTP
+title: "thatcreativetayo/kromamcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Serper API (Google Search/Images/Scrape)", "HTTP + SSE", "Streamable HTTP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- design inspiration
-- component discovery
-- real-time web scraping
-- stateless architecture
-source: https://github.com/thatcreativetayo/kromamcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "design inspiration", "component discovery", "real-time web scraping", "stateless architecture"]
+source: "https://github.com/thatcreativetayo/kromamcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T20:00:02Z'
-discovered_at: '2026-08-10T20:02:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T20:00:02Z"
+discovered_at: "2026-08-10T20:02:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: Tairitsua/Monica
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- C#
-- .NET
-- DDD (Domain-Driven Design)
-- Blazor
-- NuGet
-- Graph-based architecture
-- Telemetry
-- Dependency Injection
+title: "Tairitsua/Monica"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C#", ".NET", "DDD (Domain-Driven Design)", "Blazor", "NuGet", "Graph-based architecture", "Telemetry", "Dependency Injection"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- modular architecture
-- DDD
-- AI agent framework
-- runtime observability
-- deterministic composition
-source: https://github.com/Tairitsua/Monica
+deployment_complexity: "Medium"
+tags: ["modular architecture", "DDD", "AI agent framework", "runtime observability", "deterministic composition"]
+source: "https://github.com/Tairitsua/Monica"
 stars: 13
-language: C#
-last_updated: '2026-09-02T08:14:10Z'
-discovered_at: '2026-09-02T08:21:01Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-09-02T08:14:10Z"
+discovered_at: "2026-09-02T08:21:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

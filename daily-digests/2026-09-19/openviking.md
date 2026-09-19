@@ -1,28 +1,19 @@
 ---
-title: Uncomfortable-filagree112/OpenViking
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Windows
-- C#/.NET
-- File System Management
-- JSON
+title: "Uncomfortable-filagree112/OpenViking"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows", "C#/.NET", "File System Management", "JSON"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- context management
-- AI memory
-- agent tools
-- file system
-- memory organization
-source: https://github.com/Uncomfortable-filagree112/OpenViking
+deployment_complexity: "Low"
+tags: ["context management", "AI memory", "agent tools", "file system", "memory organization"]
+source: "https://github.com/Uncomfortable-filagree112/OpenViking"
 stars: 0
-language: None
-last_updated: '2026-08-07T09:35:21Z'
-discovered_at: '2026-08-07T10:05:44Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T09:35:21Z"
+discovered_at: "2026-08-07T10:05:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

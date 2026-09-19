@@ -1,34 +1,19 @@
 ---
-title: Kirusshenkin/terminalOs
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Swift
-- Swift Concurrency
-- SSH
-- Docker
-- SFTP
-- Model Context Protocol (MCP)
-- macOS
-- Keychain
-- Secure Enclave
-- JSON-RPC
+title: "Kirusshenkin/terminalOs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "Swift Concurrency", "SSH", "Docker", "SFTP", "Model Context Protocol (MCP)", "macOS", "Keychain", "Secure Enclave", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- terminal
-- SSH multiplexing
-- MCP server
-- Docker management
-- audit logging
-source: https://github.com/Kirusshenkin/terminalOs
+deployment_complexity: "Medium"
+tags: ["terminal", "SSH multiplexing", "MCP server", "Docker management", "audit logging"]
+source: "https://github.com/Kirusshenkin/terminalOs"
 stars: 0
-language: Swift
-last_updated: '2026-09-02T15:43:59Z'
-discovered_at: '2026-09-02T15:52:23Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-09-02T15:43:59Z"
+discovered_at: "2026-09-02T15:52:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: symphos-ai/orcho-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Docker
-- PyPI
-- GitHub Actions
-- Apache-2.0
+title: "symphos-ai/orcho-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Docker", "PyPI", "GitHub Actions", "Apache-2.0"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- agent orchestration
-- AI workflow control
-- software delivery lifecycle
-- production harness
-source: https://github.com/symphos-ai/orcho-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "agent orchestration", "AI workflow control", "software delivery lifecycle", "production harness"]
+source: "https://github.com/symphos-ai/orcho-mcp"
 stars: 3
-language: Python
-last_updated: '2026-08-07T11:46:53Z'
-discovered_at: '2026-08-07T11:57:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:46:53Z"
+discovered_at: "2026-08-07T11:57:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: ThingsIDoForLove/elaan-agent-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Claude Code
-- MCP (Model Context Protocol)
-- JavaScript/TypeScript
-- REST API
-- Node.js
+title: "ThingsIDoForLove/elaan-agent-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "MCP (Model Context Protocol)", "JavaScript/TypeScript", "REST API", "Node.js"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- notifications
-- MCP server
-- Claude Code skills
-- event delivery
-- infrastructure
-source: https://github.com/ThingsIDoForLove/elaan-agent-skills
+deployment_complexity: "Medium"
+tags: ["notifications", "MCP server", "Claude Code skills", "event delivery", "infrastructure"]
+source: "https://github.com/ThingsIDoForLove/elaan-agent-skills"
 stars: 0
-language: None
-last_updated: '2026-08-02T17:56:01Z'
-discovered_at: '2026-08-02T18:02:41Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T17:56:01Z"
+discovered_at: "2026-08-02T18:02:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

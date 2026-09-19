@@ -1,29 +1,19 @@
 ---
-title: goldbarth/chartula
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- C#
-- .NET
-- CLI
-- YAML
-- LLM (for rephrasing)
+title: "goldbarth/chartula"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET", "CLI", "YAML", "LLM (for rephrasing)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- changelog
-- release notes
-- documentation
-- automation
-- CI/CD
-source: https://github.com/goldbarth/chartula
+deployment_complexity: "Low"
+tags: ["changelog", "release notes", "documentation", "automation", "CI/CD"]
+source: "https://github.com/goldbarth/chartula"
 stars: 0
-language: C#
-last_updated: '2026-07-16T14:53:10Z'
-discovered_at: '2026-07-16T15:00:32Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-16T14:53:10Z"
+discovered_at: "2026-07-16T15:00:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

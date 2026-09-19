@@ -1,29 +1,19 @@
 ---
-title: zhu1090093659/spec_driven_develop
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Markdown
-- Python
-- GitHub API
-- Shell Scripting
-- AI Coding Agents (Claude Code, Codex, Cursor, OpenCode)
+title: "zhu1090093659/spec_driven_develop"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Markdown", "Python", "GitHub API", "Shell Scripting", "AI Coding Agents (Claude Code, Codex, Cursor, OpenCode)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- spec-driven development
-- AI coding agents
-- task decomposition
-- GitHub automation
-- adaptive control
-source: https://github.com/zhu1090093659/spec_driven_develop
+deployment_complexity: "Medium"
+tags: ["spec-driven development", "AI coding agents", "task decomposition", "GitHub automation", "adaptive control"]
+source: "https://github.com/zhu1090093659/spec_driven_develop"
 stars: 927
-language: Python
-last_updated: '2026-07-14T10:05:25Z'
-discovered_at: '2026-07-14T10:07:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T10:05:25Z"
+discovered_at: "2026-07-14T10:07:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

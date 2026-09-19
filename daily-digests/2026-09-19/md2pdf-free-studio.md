@@ -1,30 +1,19 @@
 ---
-title: AmarHouse/MD2PDF-Free-Studio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- HTML/CSS/JavaScript
-- marked.js
-- Google Fonts
-- Cloudflare Pages
-- Service Worker (PWA)
-- EPUB3
+title: "AmarHouse/MD2PDF-Free-Studio"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML/CSS/JavaScript", "marked.js", "Google Fonts", "Cloudflare Pages", "Service Worker (PWA)", "EPUB3"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Markdown
-- PDF conversion
-- PWA
-- AI agent integration
-- offline tool
-source: https://github.com/AmarHouse/MD2PDF-Free-Studio
+deployment_complexity: "Low"
+tags: ["Markdown", "PDF conversion", "PWA", "AI agent integration", "offline tool"]
+source: "https://github.com/AmarHouse/MD2PDF-Free-Studio"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-11T18:58:33Z'
-discovered_at: '2026-07-11T18:59:55Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T18:58:33Z"
+discovered_at: "2026-07-11T18:59:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: yuxin-lin52/YuGalk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Tauri v2
-- React 19
-- Rust (MSVC)
-- TypeScript
-- Vite
-- llama.cpp
-- Node.js
-- Python
-- Git
-- Playwright
-- NSIS
+title: "yuxin-lin52/YuGalk"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Tauri v2", "React 19", "Rust (MSVC)", "TypeScript", "Vite", "llama.cpp", "Node.js", "Python", "Git", "Playwright", "NSIS"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agent
-- Tool Calling
-- Local Inference
-- Desktop App
-- Extensible
-source: https://github.com/yuxin-lin52/YuGalk
+deployment_complexity: "Medium"
+tags: ["AI Agent", "Tool Calling", "Local Inference", "Desktop App", "Extensible"]
+source: "https://github.com/yuxin-lin52/YuGalk"
 stars: 1
-language: NSIS
-last_updated: '2026-08-02T22:43:27Z'
-discovered_at: '2026-08-02T22:56:10Z'
-evaluated_by: mistral-small-latest
+language: "NSIS"
+last_updated: "2026-08-02T22:43:27Z"
+discovered_at: "2026-08-02T22:56:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

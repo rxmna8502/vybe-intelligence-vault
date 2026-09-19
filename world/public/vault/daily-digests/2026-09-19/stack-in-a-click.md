@@ -1,34 +1,19 @@
 ---
-title: ozp3/stack-in-a-click
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- JavaScript/TypeScript
-- Vercel (Serverless)
-- Stripe Projects CLI
-- Hermes Agent (AI Orchestrator)
-- NVIDIA NemoClaw (Security)
-- Neon PostgreSQL
-- Upstash Redis
-- Supabase
-- Clerk Auth
-- Twilio SMS
+title: "ozp3/stack-in-a-click"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript/TypeScript", "Vercel (Serverless)", "Stripe Projects CLI", "Hermes Agent (AI Orchestrator)", "NVIDIA NemoClaw (Security)", "Neon PostgreSQL", "Upstash Redis", "Supabase", "Clerk Auth", "Twilio SMS"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- SaaS provisioning
-- AI orchestration
-- Stripe integration
-- Serverless deployment
-- DevOps automation
-source: https://github.com/ozp3/stack-in-a-click
+deployment_complexity: "Medium"
+tags: ["SaaS provisioning", "AI orchestration", "Stripe integration", "Serverless deployment", "DevOps automation"]
+source: "https://github.com/ozp3/stack-in-a-click"
 stars: 0
-language: HTML
-last_updated: '2026-08-07T11:50:38Z'
-discovered_at: '2026-08-07T11:56:15Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-07T11:50:38Z"
+discovered_at: "2026-08-07T11:56:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

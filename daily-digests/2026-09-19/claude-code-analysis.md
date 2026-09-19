@@ -1,28 +1,19 @@
 ---
-title: Intragroup-pottle634/claude-code-analysis
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- HTML
-- Markdown
-- Windows OS
-- Browser-based UI
+title: "Intragroup-pottle634/claude-code-analysis"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "Markdown", "Windows OS", "Browser-based UI"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- Claude Code
-- architecture analysis
-- Windows tool
-- reverse engineering
-- modular breakdown
-source: https://github.com/Intragroup-pottle634/claude-code-analysis
+deployment_complexity: "Low"
+tags: ["Claude Code", "architecture analysis", "Windows tool", "reverse engineering", "modular breakdown"]
+source: "https://github.com/Intragroup-pottle634/claude-code-analysis"
 stars: 0
-language: None
-last_updated: '2026-07-10T20:20:01Z'
-discovered_at: '2026-07-10T20:22:05Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-10T20:20:01Z"
+discovered_at: "2026-07-10T20:22:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

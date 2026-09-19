@@ -1,31 +1,19 @@
 ---
-title: gintasz/unigent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Zod
-- Standard Schema
-- Bun
-- CLI
-- AI Backends (Pi, Claude CLI, Codex CLI)
+title: "gintasz/unigent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Zod", "Standard Schema", "Bun", "CLI", "AI Backends (Pi, Claude CLI, Codex CLI)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- agent-sdk
-- stateful-workflows
-- typescript
-- ai-backends
-- tool-integration
-source: https://github.com/gintasz/unigent
+deployment_complexity: "Medium"
+tags: ["agent-sdk", "stateful-workflows", "typescript", "ai-backends", "tool-integration"]
+source: "https://github.com/gintasz/unigent"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-14T07:56:25Z'
-discovered_at: '2026-07-14T08:00:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T07:56:25Z"
+discovered_at: "2026-07-14T08:00:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

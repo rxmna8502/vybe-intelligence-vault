@@ -1,34 +1,19 @@
 ---
-title: jbrahy/gophermind.com
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- Charm (TUI framework)
-- OpenAI API compatibility
-- LLM (local or hosted)
-- WASM
-- SQL/Parquet/CSV tools
-- MCP (Model Context Protocol) server
-- PhaseFlow (spec-driven workflow)
-- Prometheus (metrics)
-- Fortune database (startup messages)
+title: "jbrahy/gophermind.com"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Charm (TUI framework)", "OpenAI API compatibility", "LLM (local or hosted)", "WASM", "SQL/Parquet/CSV tools", "MCP (Model Context Protocol) server", "PhaseFlow (spec-driven workflow)", "Prometheus (metrics)", "Fortune database (startup messages)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI coding agent
-- terminal UI
-- LLM integration
-- sandboxed execution
-- hackable
-source: https://github.com/jbrahy/gophermind.com
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "terminal UI", "LLM integration", "sandboxed execution", "hackable"]
+source: "https://github.com/jbrahy/gophermind.com"
 stars: 0
-language: Go
-last_updated: '2026-07-13T20:10:22Z'
-discovered_at: '2026-07-13T20:14:08Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-13T20:10:22Z"
+discovered_at: "2026-07-13T20:14:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

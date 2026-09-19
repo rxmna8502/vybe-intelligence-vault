@@ -1,38 +1,19 @@
 ---
-title: Hugofsco/oceano
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- llama.cpp
-- llama-swap
-- FastAPI
-- SearXNG
-- nomic-embed-text
-- Chromium (headless)
-- Telegram Bot API
-- DuckDB
-- faster-whisper
-- systemd
-- MCP (Model Context Protocol)
-- IMAP/SMTP
-- React (web UI)
+title: "Hugofsco/oceano"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "llama.cpp", "llama-swap", "FastAPI", "SearXNG", "nomic-embed-text", "Chromium (headless)", "Telegram Bot API", "DuckDB", "faster-whisper", "systemd", "MCP (Model Context Protocol)", "IMAP/SMTP", "React (web UI)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- self-hosted
-- local-first
-- AI agent
-- workspace
-- memory
-source: https://github.com/Hugofsco/oceano
+deployment_complexity: "High"
+tags: ["self-hosted", "local-first", "AI agent", "workspace", "memory"]
+source: "https://github.com/Hugofsco/oceano"
 stars: 0
-language: Python
-last_updated: '2026-08-02T15:02:22Z'
-discovered_at: '2026-08-02T15:02:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T15:02:22Z"
+discovered_at: "2026-08-02T15:02:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

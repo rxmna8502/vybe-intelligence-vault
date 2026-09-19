@@ -1,34 +1,19 @@
 ---
-title: jbfly/egg-freckles
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- NewtonScript
-- NewtonOS
-- Einstein Emulator
-- OpenAI Codex
-- MCP (Model Context Protocol)
-- WiFi Networking
-- ASCII Framing Protocol
-- Podman
-- Newton Toolchain (tntk, cDCL, NEWT/0)
+title: "jbfly/egg-freckles"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "NewtonScript", "NewtonOS", "Einstein Emulator", "OpenAI Codex", "MCP (Model Context Protocol)", "WiFi Networking", "ASCII Framing Protocol", "Podman", "Newton Toolchain (tntk, cDCL, NEWT/0)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- retrocomputing
-- AI integration
-- NewtonOS
-- emulation
-- device automation
-source: https://github.com/jbfly/egg-freckles
+deployment_complexity: "High"
+tags: ["retrocomputing", "AI integration", "NewtonOS", "emulation", "device automation"]
+source: "https://github.com/jbfly/egg-freckles"
 stars: 0
-language: Python
-last_updated: '2026-08-04T21:03:57Z'
-discovered_at: '2026-08-04T21:14:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T21:03:57Z"
+discovered_at: "2026-08-04T21:14:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

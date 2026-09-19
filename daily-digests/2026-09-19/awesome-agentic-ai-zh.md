@@ -1,38 +1,19 @@
 ---
-title: WenyuChiou/awesome-agentic-ai-zh
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Markdown
-- Git
-- GitHub Pages
-- Ollama
-- llama.cpp
-- LocalAI
-- MLX
-- Claude Code
-- Anthropic SDK
-- MCP (Model Context Protocol)
-- Skills
-- Plugins
-- Subagents
+title: "WenyuChiou/awesome-agentic-ai-zh"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "Git", "GitHub Pages", "Ollama", "llama.cpp", "LocalAI", "MLX", "Claude Code", "Anthropic SDK", "MCP (Model Context Protocol)", "Skills", "Plugins", "Subagents"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- learning roadmap
-- agentic AI
-- multi-agent systems
-- curated resources
-- hands-on exercises
-source: https://github.com/WenyuChiou/awesome-agentic-ai-zh
+deployment_complexity: "Low"
+tags: ["learning roadmap", "agentic AI", "multi-agent systems", "curated resources", "hands-on exercises"]
+source: "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
 stars: 4591
-language: Python
-last_updated: '2026-07-17T14:39:53Z'
-discovered_at: '2026-07-17T14:43:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T14:39:53Z"
+discovered_at: "2026-07-17T14:43:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

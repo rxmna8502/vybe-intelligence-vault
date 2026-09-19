@@ -1,30 +1,19 @@
 ---
-title: ostapondo/doodad
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Swift
-- TypeScript
-- Model Context Protocol (MCP)
-- Node.js
-- SwiftUI
-- IOKit
+title: "ostapondo/doodad"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "TypeScript", "Model Context Protocol (MCP)", "Node.js", "SwiftUI", "IOKit"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- macOS automation
-- window management
-- AI agent control
-- workspace management
-- MCP integration
-source: https://github.com/ostapondo/doodad
+deployment_complexity: "Medium"
+tags: ["macOS automation", "window management", "AI agent control", "workspace management", "MCP integration"]
+source: "https://github.com/ostapondo/doodad"
 stars: 0
-language: Swift
-last_updated: '2026-08-07T16:56:58Z'
-discovered_at: '2026-08-07T16:57:14Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-07T16:56:58Z"
+discovered_at: "2026-08-07T16:57:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

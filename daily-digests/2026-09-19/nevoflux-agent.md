@@ -1,34 +1,19 @@
 ---
-title: nevoflux-browser/nevoflux-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- ZeroMQ
-- SQLite
-- WebAssembly (WASM)
-- Docker
-- Model Context Protocol (MCP)
-- Browser Extensions
-- LLM Providers (Anthropic, OpenAI, DeepSeek, Qwen, etc.)
-- Python
-- Bash
+title: "nevoflux-browser/nevoflux-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "ZeroMQ", "SQLite", "WebAssembly (WASM)", "Docker", "Model Context Protocol (MCP)", "Browser Extensions", "LLM Providers (Anthropic, OpenAI, DeepSeek, Qwen, etc.)", "Python", "Bash"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- browser automation
-- computer control
-- MCP integration
-- WASM skills
-- headless deployment
-source: https://github.com/nevoflux-browser/nevoflux-agent
+deployment_complexity: "Medium"
+tags: ["browser automation", "computer control", "MCP integration", "WASM skills", "headless deployment"]
+source: "https://github.com/nevoflux-browser/nevoflux-agent"
 stars: 1
-language: Rust
-last_updated: '2026-07-19T14:53:17Z'
-discovered_at: '2026-07-19T14:54:13Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-19T14:53:17Z"
+discovered_at: "2026-07-19T14:54:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

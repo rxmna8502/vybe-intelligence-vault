@@ -1,31 +1,19 @@
 ---
-title: fangsylar-pixel/browser-takeover-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Chrome/Edge Extensions
-- JavaScript
-- REST API
-- Localhost Bridge
-- TypeScript
+title: "fangsylar-pixel/browser-takeover-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Chrome/Edge Extensions", "JavaScript", "REST API", "Localhost Bridge", "TypeScript"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- authenticated sessions
-- MCP integration
-- local-first
-- AI agent control
-source: https://github.com/fangsylar-pixel/browser-takeover-bridge
+deployment_complexity: "Medium"
+tags: ["browser automation", "authenticated sessions", "MCP integration", "local-first", "AI agent control"]
+source: "https://github.com/fangsylar-pixel/browser-takeover-bridge"
 stars: 1
-language: Python
-last_updated: '2026-08-08T11:23:03Z'
-discovered_at: '2026-08-08T11:30:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T11:23:03Z"
+discovered_at: "2026-08-08T11:30:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

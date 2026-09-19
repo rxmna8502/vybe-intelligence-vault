@@ -1,37 +1,19 @@
 ---
-title: Dakera-AI/dakera-deploy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Docker
-- Kubernetes
-- Helm
-- Rust
-- MinIO
-- Traefik
-- Prometheus
-- Grafana
-- gRPC
-- REST API
-- Python
-- Node.js
-- Go
+title: "Dakera-AI/dakera-deploy"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Docker", "Kubernetes", "Helm", "Rust", "MinIO", "Traefik", "Prometheus", "Grafana", "gRPC", "REST API", "Python", "Node.js", "Go"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory platform
-- AI agents
-- self-hosted
-- vector search
-- session management
-source: https://github.com/Dakera-AI/dakera-deploy
+deployment_complexity: "Medium"
+tags: ["memory platform", "AI agents", "self-hosted", "vector search", "session management"]
+source: "https://github.com/Dakera-AI/dakera-deploy"
 stars: 17
-language: JavaScript
-last_updated: '2026-08-07T18:35:25Z'
-discovered_at: '2026-08-07T18:58:32Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T18:35:25Z"
+discovered_at: "2026-08-07T18:58:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,38 +1,19 @@
 ---
-title: blazux/prism
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- Vanilla JavaScript
-- PostgreSQL + pgvector
-- Docker/Docker Compose
-- Traefik
-- Ollama
-- OpenAI-compatible LLM servers
-- SearXNG
-- Telegram/Slack/Webex bridges
-- IMAP/SMTP
-- CalDAV
-- Todoist
-- Google/Microsoft APIs
-- Obsidian/Logseq
+title: "blazux/prism"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Vanilla JavaScript", "PostgreSQL + pgvector", "Docker/Docker Compose", "Traefik", "Ollama", "OpenAI-compatible LLM servers", "SearXNG", "Telegram/Slack/Webex bridges", "IMAP/SMTP", "CalDAV", "Todoist", "Google/Microsoft APIs", "Obsidian/Logseq"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-hosted
-- agent autonomy
-- multi-modal
-- RAG integration
-- sandboxed execution
-source: https://github.com/blazux/prism
+deployment_complexity: "Medium"
+tags: ["self-hosted", "agent autonomy", "multi-modal", "RAG integration", "sandboxed execution"]
+source: "https://github.com/blazux/prism"
 stars: 7
-language: Go
-last_updated: '2026-07-21T17:10:12Z'
-discovered_at: '2026-07-21T17:16:41Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-21T17:10:12Z"
+discovered_at: "2026-07-21T17:16:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

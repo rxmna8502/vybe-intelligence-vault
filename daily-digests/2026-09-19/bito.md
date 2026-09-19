@@ -1,28 +1,19 @@
 ---
-title: claylo/bito
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- CLI
-- TOML/YAML/JSON (config)
-- MCP (Model Context Protocol) Server
+title: "claylo/bito"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "CLI", "TOML/YAML/JSON (config)", "MCP (Model Context Protocol) Server"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- documentation quality
-- writing analysis
-- deterministic checks
-- AI agent tooling
-- CI/CD integration
-source: https://github.com/claylo/bito
+deployment_complexity: "Low"
+tags: ["documentation quality", "writing analysis", "deterministic checks", "AI agent tooling", "CI/CD integration"]
+source: "https://github.com/claylo/bito"
 stars: 0
-language: Rust
-last_updated: '2026-08-07T16:55:50Z'
-discovered_at: '2026-08-07T16:57:11Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T16:55:50Z"
+discovered_at: "2026-08-07T16:57:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

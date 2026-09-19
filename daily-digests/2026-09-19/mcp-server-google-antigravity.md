@@ -1,30 +1,19 @@
 ---
-title: TurkerYakup/mcp-server-google-antigravity
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Node.js
-- JavaScript
-- MCP (Model Context Protocol)
-- Google Antigravity CLI (`agy`)
-- Gemini (Google's AI model)
-- npm
+title: "TurkerYakup/mcp-server-google-antigravity"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "JavaScript", "MCP (Model Context Protocol)", "Google Antigravity CLI (`agy`)", "Gemini (Google's AI model)", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Google Antigravity
-- Gemini integration
-- asynchronous tasks
-- AI delegation
-source: https://github.com/TurkerYakup/mcp-server-google-antigravity
+deployment_complexity: "Medium"
+tags: ["MCP server", "Google Antigravity", "Gemini integration", "asynchronous tasks", "AI delegation"]
+source: "https://github.com/TurkerYakup/mcp-server-google-antigravity"
 stars: 2
-language: JavaScript
-last_updated: '2026-07-12T22:42:19Z'
-discovered_at: '2026-07-12T22:44:42Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-12T22:42:19Z"
+discovered_at: "2026-07-12T22:44:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

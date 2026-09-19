@@ -1,31 +1,19 @@
 ---
-title: korovin-aa97/talkthrough-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FFmpeg
-- Faster-Whisper
-- RapidOCR
-- uv (package manager)
-- Hugging Face Hub
+title: "korovin-aa97/talkthrough-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FFmpeg", "Faster-Whisper", "RapidOCR", "uv (package manager)", "Hugging Face Hub"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- screen recording analysis
-- local-first
-- transcript generation
-- OCR
-source: https://github.com/korovin-aa97/talkthrough-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "screen recording analysis", "local-first", "transcript generation", "OCR"]
+source: "https://github.com/korovin-aa97/talkthrough-mcp"
 stars: 12
-language: Python
-last_updated: '2026-07-17T08:40:31Z'
-discovered_at: '2026-07-17T10:46:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T08:40:31Z"
+discovered_at: "2026-07-17T10:46:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

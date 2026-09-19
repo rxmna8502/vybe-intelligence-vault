@@ -1,35 +1,19 @@
 ---
-title: tse-wei-chen/hs-sql-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- C#
-- .NET
-- SQL
-- MCP (Model Context Protocol)
-- Docker
-- PostgreSQL
-- MySQL
-- SQLite
-- SQL Server
-- Oracle
-- Firebird
+title: "tse-wei-chen/hs-sql-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["C#", ".NET", "SQL", "MCP (Model Context Protocol)", "Docker", "PostgreSQL", "MySQL", "SQLite", "SQL Server", "Oracle", "Firebird"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- SQL governance
-- MCP server
-- AST validation
-- human-in-the-loop
-- enterprise security
-source: https://github.com/tse-wei-chen/hs-sql-agent
+deployment_complexity: "Medium"
+tags: ["SQL governance", "MCP server", "AST validation", "human-in-the-loop", "enterprise security"]
+source: "https://github.com/tse-wei-chen/hs-sql-agent"
 stars: 11
-language: C#
-last_updated: '2026-09-02T15:47:31Z'
-discovered_at: '2026-09-02T15:51:34Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-09-02T15:47:31Z"
+discovered_at: "2026-09-02T15:51:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

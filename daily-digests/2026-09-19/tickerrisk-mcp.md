@@ -1,30 +1,19 @@
 ---
-title: Tickerrisk/tickerrisk-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastAPI (likely)
-- JWT Authentication
-- Public APIs (CourtListener, ClinicalTrials.gov, etc.)
-- uvx (for package management)
+title: "Tickerrisk/tickerrisk-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI (likely)", "JWT Authentication", "Public APIs (CourtListener, ClinicalTrials.gov, etc.)", "uvx (for package management)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- options trading
-- event risk analysis
-- MCP server
-- catalyst scoring
-- AI integration
-source: https://github.com/Tickerrisk/tickerrisk-mcp
+deployment_complexity: "Low"
+tags: ["options trading", "event risk analysis", "MCP server", "catalyst scoring", "AI integration"]
+source: "https://github.com/Tickerrisk/tickerrisk-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-19T11:41:01Z'
-discovered_at: '2026-07-19T11:57:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T11:41:01Z"
+discovered_at: "2026-07-19T11:57:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

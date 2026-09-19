@@ -1,30 +1,19 @@
 ---
-title: lionello/onedrive-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- Node.js
-- Nix
-- NPM
-- OAuth
-- Model Context Protocol (MCP)
+title: "lionello/onedrive-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Nix", "NPM", "OAuth", "Model Context Protocol (MCP)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- OneDrive
-- CLI
-- MCP
-- OAuth
-- File Management
-source: https://github.com/lionello/onedrive-cli
+deployment_complexity: "Medium"
+tags: ["OneDrive", "CLI", "MCP", "OAuth", "File Management"]
+source: "https://github.com/lionello/onedrive-cli"
 stars: 168
-language: JavaScript
-last_updated: '2026-08-01T14:53:13Z'
-discovered_at: '2026-08-01T15:01:35Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T14:53:13Z"
+discovered_at: "2026-08-01T15:01:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

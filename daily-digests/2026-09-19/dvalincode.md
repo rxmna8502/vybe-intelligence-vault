@@ -1,34 +1,19 @@
 ---
-title: arthurpanhku/dvalincode
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Electron
-- REST API
-- WebSocket
-- Sandboxing
-- OpenAI-compatible LLMs
-- SARIF
-- CodeQL
-- Dependabot
-- GitHub Actions
+title: "arthurpanhku/dvalincode"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Electron", "REST API", "WebSocket", "Sandboxing", "OpenAI-compatible LLMs", "SARIF", "CodeQL", "Dependabot", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI coding agent
-- Regulated environments
-- Audit trail
-- Policy enforcement
-- Local-first
-source: https://github.com/arthurpanhku/dvalincode
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "Regulated environments", "Audit trail", "Policy enforcement", "Local-first"]
+source: "https://github.com/arthurpanhku/dvalincode"
 stars: 87
-language: TypeScript
-last_updated: '2026-07-13T02:27:49Z'
-discovered_at: '2026-07-13T02:34:21Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T02:27:49Z"
+discovered_at: "2026-07-13T02:34:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

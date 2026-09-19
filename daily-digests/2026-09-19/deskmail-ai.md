@@ -1,32 +1,19 @@
 ---
-title: scrappy-builds/deskmail-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Electron
-- Node.js
-- IMAP/SMTP
-- SQLite (WASM)
-- MCP (Model Context Protocol)
-- Claude Desktop
-- React (implied by Electron app structure)
+title: "scrappy-builds/deskmail-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Electron", "Node.js", "IMAP/SMTP", "SQLite (WASM)", "MCP (Model Context Protocol)", "Claude Desktop", "React (implied by Electron app structure)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local email client
-- AI-assisted email
-- privacy-focused
-- Claude integration
-- Windows desktop app
-source: https://github.com/scrappy-builds/deskmail-ai
+deployment_complexity: "Medium"
+tags: ["local email client", "AI-assisted email", "privacy-focused", "Claude integration", "Windows desktop app"]
+source: "https://github.com/scrappy-builds/deskmail-ai"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-13T18:42:27Z'
-discovered_at: '2026-07-13T18:43:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T18:42:27Z"
+discovered_at: "2026-07-13T18:43:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

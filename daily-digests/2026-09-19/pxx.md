@@ -1,35 +1,19 @@
 ---
-title: cdnwetzel/pxx
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- SQLite
-- Ollama
-- vLLM
-- MCP (Model Context Protocol)
-- Git
-- BM25
-- Vector Search
-- TOML
-- Event Sourcing
+title: "cdnwetzel/pxx"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "SQLite", "Ollama", "vLLM", "MCP (Model Context Protocol)", "Git", "BM25", "Vector Search", "TOML", "Event Sourcing"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local-first
-- agent runtime
-- fail-closed safety
-- persistent memory
-- MCP interop
-source: https://github.com/cdnwetzel/pxx
+deployment_complexity: "Medium"
+tags: ["local-first", "agent runtime", "fail-closed safety", "persistent memory", "MCP interop"]
+source: "https://github.com/cdnwetzel/pxx"
 stars: 0
-language: Python
-last_updated: '2026-08-01T23:56:39Z'
-discovered_at: '2026-08-01T23:57:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T23:56:39Z"
+discovered_at: "2026-08-01T23:57:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: voygr-tech/placecall
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- REST API
-- Shell scripting
-- HTTP clients
-- Claude Code plugin system
-- Codex skill system
-- Stripe (for API key checkout)
-- Python (for skill installation scripts)
+title: "voygr-tech/placecall"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["REST API", "Shell scripting", "HTTP clients", "Claude Code plugin system", "Codex skill system", "Stripe (for API key checkout)", "Python (for skill installation scripts)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- phone automation
-- AI agent integration
-- outbound calls
-- business automation
-- API-driven
-source: https://github.com/voygr-tech/placecall
+deployment_complexity: "Medium"
+tags: ["phone automation", "AI agent integration", "outbound calls", "business automation", "API-driven"]
+source: "https://github.com/voygr-tech/placecall"
 stars: 13
-language: Shell
-last_updated: '2026-09-03T15:27:05Z'
-discovered_at: '2026-09-03T15:37:48Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-09-03T15:27:05Z"
+discovered_at: "2026-09-03T15:37:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

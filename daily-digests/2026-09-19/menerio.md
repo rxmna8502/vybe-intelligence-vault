@@ -1,29 +1,19 @@
 ---
-title: MichaelZelbel/menerio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Lovable
-- Supabase
-- PostgreSQL
-- Event-Driven Architecture
+title: "MichaelZelbel/menerio"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Lovable", "Supabase", "PostgreSQL", "Event-Driven Architecture"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- event synchronization
-- data ownership
-- personal data hub
-- app integration
-- event bus
-source: https://github.com/MichaelZelbel/menerio
+deployment_complexity: "Medium"
+tags: ["event synchronization", "data ownership", "personal data hub", "app integration", "event bus"]
+source: "https://github.com/MichaelZelbel/menerio"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-10T21:54:53Z'
-discovered_at: '2026-07-10T22:00:29Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T21:54:53Z"
+discovered_at: "2026-07-10T22:00:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

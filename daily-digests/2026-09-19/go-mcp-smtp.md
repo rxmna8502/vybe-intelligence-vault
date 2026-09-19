@@ -1,28 +1,19 @@
 ---
-title: vodolaz095/go-mcp-smtp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- SMTP
-- TLS
+title: "vodolaz095/go-mcp-smtp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "SMTP", "TLS"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP server
-- email integration
-- SMTP
-- AI tooling
-- Go
-source: https://github.com/vodolaz095/go-mcp-smtp
+deployment_complexity: "Low"
+tags: ["MCP server", "email integration", "SMTP", "AI tooling", "Go"]
+source: "https://github.com/vodolaz095/go-mcp-smtp"
 stars: 0
-language: Go
-last_updated: '2026-08-02T15:01:00Z'
-discovered_at: '2026-08-02T15:02:50Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T15:01:00Z"
+discovered_at: "2026-08-02T15:02:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

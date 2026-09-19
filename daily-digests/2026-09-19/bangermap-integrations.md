@@ -1,30 +1,19 @@
 ---
-title: AdesiaHQ/bangermap-integrations
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- YouTube Data API
-- MCP (Model Context Protocol)
-- n8n
-- Jest (for testing)
+title: "AdesiaHQ/bangermap-integrations"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "YouTube Data API", "MCP (Model Context Protocol)", "n8n", "Jest (for testing)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- YouTube analytics
-- outlier detection
-- MCP server
-- n8n integration
-- API key management
-source: https://github.com/AdesiaHQ/bangermap-integrations
+deployment_complexity: "Medium"
+tags: ["YouTube analytics", "outlier detection", "MCP server", "n8n integration", "API key management"]
+source: "https://github.com/AdesiaHQ/bangermap-integrations"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T09:58:27Z'
-discovered_at: '2026-08-07T10:03:56Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T09:58:27Z"
+discovered_at: "2026-08-07T10:03:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

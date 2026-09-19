@@ -1,32 +1,19 @@
 ---
-title: surd-pollywog583/mycop
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- Python
-- JavaScript
-- TypeScript
-- Go
-- Java
-- Static Analysis
-- AI-Powered Explanations
+title: "surd-pollywog583/mycop"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Python", "JavaScript", "TypeScript", "Go", "Java", "Static Analysis", "AI-Powered Explanations"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- code security
-- AI-generated code
-- vulnerability scanning
-- static analysis
-- auto-fix
-source: https://github.com/surd-pollywog583/mycop
+deployment_complexity: "Medium"
+tags: ["code security", "AI-generated code", "vulnerability scanning", "static analysis", "auto-fix"]
+source: "https://github.com/surd-pollywog583/mycop"
 stars: 2
-language: Rust
-last_updated: '2026-07-17T02:51:11Z'
-discovered_at: '2026-07-17T02:52:05Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-17T02:51:11Z"
+discovered_at: "2026-07-17T02:52:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

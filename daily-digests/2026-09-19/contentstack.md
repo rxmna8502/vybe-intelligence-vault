@@ -1,30 +1,19 @@
 ---
-title: api-evangelist/contentstack
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- REST
-- GraphQL
-- OpenAPI
-- Postman Collections
-- JSON
-- API Documentation
+title: "api-evangelist/contentstack"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["REST", "GraphQL", "OpenAPI", "Postman Collections", "JSON", "API Documentation"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- Headless CMS
-- API Documentation
-- Content Delivery
-- GraphQL
-- REST
-source: https://github.com/api-evangelist/contentstack
+deployment_complexity: "Low"
+tags: ["Headless CMS", "API Documentation", "Content Delivery", "GraphQL", "REST"]
+source: "https://github.com/api-evangelist/contentstack"
 stars: 0
-language: None
-last_updated: '2026-08-08T00:48:52Z'
-discovered_at: '2026-08-08T01:27:56Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T00:48:52Z"
+discovered_at: "2026-08-08T01:27:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

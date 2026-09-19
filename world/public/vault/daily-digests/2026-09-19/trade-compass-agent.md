@@ -1,35 +1,19 @@
 ---
-title: AdenChenCoder/trade-compass-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- React
-- Ollama
-- LM Studio
-- AkShare
-- Baostock
-- Tushare
-- uv
-- TypeScript
-- Docker
+title: "AdenChenCoder/trade-compass-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "React", "Ollama", "LM Studio", "AkShare", "Baostock", "Tushare", "uv", "TypeScript", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI trading assistant
-- A-share market analysis
-- workflow automation
-- multi-agent system
-- simulated trading
-source: https://github.com/AdenChenCoder/trade-compass-agent
+deployment_complexity: "Medium"
+tags: ["AI trading assistant", "A-share market analysis", "workflow automation", "multi-agent system", "simulated trading"]
+source: "https://github.com/AdenChenCoder/trade-compass-agent"
 stars: 1
-language: Python
-last_updated: '2026-08-04T07:36:52Z'
-discovered_at: '2026-08-04T07:39:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T07:36:52Z"
+discovered_at: "2026-08-04T07:39:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

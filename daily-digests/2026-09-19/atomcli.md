@@ -1,31 +1,19 @@
 ---
-title: aToom13/AtomCLI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Bun
-- Node.js
-- Model Context Protocol (MCP)
-- React (for TUI components)
-- OAuth (for Antigravity plugin)
-- Playwright (optional dependency)
+title: "aToom13/AtomCLI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Node.js", "Model Context Protocol (MCP)", "React (for TUI components)", "OAuth (for Antigravity plugin)", "Playwright (optional dependency)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI coding assistant
-- terminal-based
-- multi-provider support
-- TUI
-- MCP integration
-source: https://github.com/aToom13/AtomCLI
+deployment_complexity: "Medium"
+tags: ["AI coding assistant", "terminal-based", "multi-provider support", "TUI", "MCP integration"]
+source: "https://github.com/aToom13/AtomCLI"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-11T16:53:49Z'
-discovered_at: '2026-07-11T16:55:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T16:53:49Z"
+discovered_at: "2026-07-11T16:55:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

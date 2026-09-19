@@ -1,37 +1,19 @@
 ---
-title: huzjie/loopforge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- React
-- TypeScript
-- Docker
-- PostgreSQL
-- OpenTelemetry
-- Mermaid.js
-- Typer
-- Rich
-- Alembic
-- Git
-- GitHub API
+title: "huzjie/loopforge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "React", "TypeScript", "Docker", "PostgreSQL", "OpenTelemetry", "Mermaid.js", "Typer", "Rich", "Alembic", "Git", "GitHub API"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- software engineering
-- long-range tasks
-- governance
-- orchestration
-source: https://github.com/huzjie/loopforge
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "software engineering", "long-range tasks", "governance", "orchestration"]
+source: "https://github.com/huzjie/loopforge"
 stars: 0
-language: Python
-last_updated: '2026-08-04T10:32:48Z'
-discovered_at: '2026-08-04T10:39:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T10:32:48Z"
+discovered_at: "2026-08-04T10:39:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

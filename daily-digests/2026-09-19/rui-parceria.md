@@ -1,27 +1,19 @@
 ---
-title: marianavieeira81-tech/rui-parceria
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- HTML
-- JavaScript
-- CSS
+title: "marianavieeira81-tech/rui-parceria"
+content_type: "repo"
+engine: "v2"
+category: "SaaS Template"
+tech_stack: ["HTML", "JavaScript", "CSS"]
 quality_score: 3
 rag_relevance: 2
-deployment_complexity: Low
-tags:
-- partnership
-- AI agent
-- dealerships
-- commercial proposal
-- agency collaboration
-source: https://github.com/marianavieeira81-tech/rui-parceria
+deployment_complexity: "Low"
+tags: ["partnership", "AI agent", "dealerships", "commercial proposal", "agency collaboration"]
+source: "https://github.com/marianavieeira81-tech/rui-parceria"
 stars: 0
-language: HTML
-last_updated: '2026-08-01T20:50:04Z'
-discovered_at: '2026-08-01T20:51:00Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-01T20:50:04Z"
+discovered_at: "2026-08-01T20:51:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

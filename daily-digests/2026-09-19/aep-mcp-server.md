@@ -1,32 +1,19 @@
 ---
-title: Focus-GTS/aep-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Adobe Experience Platform API
-- OAuth 2.0 Server-to-Server
-- MCP (Model Context Protocol)
-- Zod (input validation)
-- Pino (logging)
-- Jest (testing)
+title: "Focus-GTS/aep-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Adobe Experience Platform API", "OAuth 2.0 Server-to-Server", "MCP (Model Context Protocol)", "Zod (input validation)", "Pino (logging)", "Jest (testing)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Adobe Experience Platform
-- MCP server
-- data ingestion
-- privacy compliance
-- batch processing
-source: https://github.com/Focus-GTS/aep-mcp-server
+deployment_complexity: "Medium"
+tags: ["Adobe Experience Platform", "MCP server", "data ingestion", "privacy compliance", "batch processing"]
+source: "https://github.com/Focus-GTS/aep-mcp-server"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T22:29:57Z'
-discovered_at: '2026-08-07T22:37:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T22:29:57Z"
+discovered_at: "2026-08-07T22:37:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

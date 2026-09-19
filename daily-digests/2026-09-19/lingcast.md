@@ -1,37 +1,19 @@
 ---
-title: taochangle/LingCast
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go (Gin)
-- Python (uv, PyTorch, ONNX)
-- React (Vite, TypeScript)
-- Next.js
-- MariaDB
-- Redis
-- MinIO (S3-compatible)
-- LivePortrait
-- Edge-TTS
-- Wav2Lip (ONNX)
-- DeepSeek LLM
-- FFmpeg
-- Docker Compose
+title: "taochangle/LingCast"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go (Gin)", "Python (uv, PyTorch, ONNX)", "React (Vite, TypeScript)", "Next.js", "MariaDB", "Redis", "MinIO (S3-compatible)", "LivePortrait", "Edge-TTS", "Wav2Lip (ONNX)", "DeepSeek LLM", "FFmpeg", "Docker Compose"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- digital humans
-- live streaming
-- lip-sync
-- LLM integration
-- real-time AI
-source: https://github.com/taochangle/LingCast
+deployment_complexity: "Medium"
+tags: ["digital humans", "live streaming", "lip-sync", "LLM integration", "real-time AI"]
+source: "https://github.com/taochangle/LingCast"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-06T03:17:38Z'
-discovered_at: '2026-08-06T03:18:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T03:17:38Z"
+discovered_at: "2026-08-06T03:18:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

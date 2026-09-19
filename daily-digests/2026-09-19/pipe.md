@@ -1,30 +1,19 @@
 ---
-title: MachuraHarry/pipe
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- Bytecode VM
-- WebAssembly
-- GitHub Actions
-- VSCode Extension
+title: "MachuraHarry/pipe"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "Bytecode VM", "WebAssembly", "GitHub Actions", "VSCode Extension"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- AI pipelines
-- MCP integration
-- semantic runtime
-- zero-dependency
-- AI orchestration
-source: https://github.com/MachuraHarry/pipe
+deployment_complexity: "Low"
+tags: ["AI pipelines", "MCP integration", "semantic runtime", "zero-dependency", "AI orchestration"]
+source: "https://github.com/MachuraHarry/pipe"
 stars: 2
-language: Go
-last_updated: '2026-08-09T07:50:56Z'
-discovered_at: '2026-08-09T07:59:00Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-09T07:50:56Z"
+discovered_at: "2026-08-09T07:59:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

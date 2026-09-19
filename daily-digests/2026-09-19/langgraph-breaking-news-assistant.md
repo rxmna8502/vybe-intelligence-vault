@@ -1,30 +1,19 @@
 ---
-title: Soumyapro/langgraph-breaking-news-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- LangGraph
-- Groq
-- LangChain
-- Streamlit
-- Python
-- Currents API
+title: "Soumyapro/langgraph-breaking-news-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["LangGraph", "Groq", "LangChain", "Streamlit", "Python", "Currents API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- real-time news
-- conversational AI
-- LangGraph
-- Groq
-- Streamlit
-source: https://github.com/Soumyapro/langgraph-breaking-news-assistant
+deployment_complexity: "Medium"
+tags: ["real-time news", "conversational AI", "LangGraph", "Groq", "Streamlit"]
+source: "https://github.com/Soumyapro/langgraph-breaking-news-assistant"
 stars: 0
-language: Python
-last_updated: '2026-08-04T00:09:03Z'
-discovered_at: '2026-08-04T00:10:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T00:09:03Z"
+discovered_at: "2026-08-04T00:10:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

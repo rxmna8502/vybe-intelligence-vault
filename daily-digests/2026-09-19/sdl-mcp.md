@@ -1,30 +1,19 @@
 ---
-title: GlitterKill/sdl-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Tree-sitter
-- Model Context Protocol (MCP)
-- SCIP
-- LadybugDB
+title: "GlitterKill/sdl-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Tree-sitter", "Model Context Protocol (MCP)", "SCIP", "LadybugDB"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- symbol graph
-- context budgeting
-- MCP server
-- code indexing
-- agent orchestration
-source: https://github.com/GlitterKill/sdl-mcp
+deployment_complexity: "Medium"
+tags: ["symbol graph", "context budgeting", "MCP server", "code indexing", "agent orchestration"]
+source: "https://github.com/GlitterKill/sdl-mcp"
 stars: 462
-language: TypeScript
-last_updated: '2026-08-07T11:29:45Z'
-discovered_at: '2026-08-07T11:57:18Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T11:29:45Z"
+discovered_at: "2026-08-07T11:57:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

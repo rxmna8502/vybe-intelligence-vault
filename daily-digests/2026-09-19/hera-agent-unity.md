@@ -1,31 +1,19 @@
 ---
-title: NotNull92/hera-agent-unity
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- C#
-- Unity
-- CLI
-- Input System
-- Unity API
-- Package Manager
+title: "NotNull92/hera-agent-unity"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "C#", "Unity", "CLI", "Input System", "Unity API", "Package Manager"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Unity automation
-- AI agent integration
-- real-time feedback loop
-- Unity Editor control
-- RAG tooling
-source: https://github.com/NotNull92/hera-agent-unity
+deployment_complexity: "Medium"
+tags: ["Unity automation", "AI agent integration", "real-time feedback loop", "Unity Editor control", "RAG tooling"]
+source: "https://github.com/NotNull92/hera-agent-unity"
 stars: 23
-language: C#
-last_updated: '2026-08-10T13:06:49Z'
-discovered_at: '2026-08-10T13:08:54Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-10T13:06:49Z"
+discovered_at: "2026-08-10T13:08:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

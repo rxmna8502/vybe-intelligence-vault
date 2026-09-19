@@ -1,33 +1,19 @@
 ---
-title: moui72/assisted-review
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- Vite
-- Tailwind CSS
-- Claude Code (AI)
-- GitHub CLI (gh)
-- GitLab CLI (glab)
-- REST APIs (Jira, GitLab, GitHub)
+title: "moui72/assisted-review"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Node.js", "Vite", "Tailwind CSS", "Claude Code (AI)", "GitHub CLI (gh)", "GitLab CLI (glab)", "REST APIs (Jira, GitLab, GitHub)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- PR review
-- AI-assisted review
-- diff analysis
-- code review
-- developer tooling
-source: https://github.com/moui72/assisted-review
+deployment_complexity: "Low"
+tags: ["PR review", "AI-assisted review", "diff analysis", "code review", "developer tooling"]
+source: "https://github.com/moui72/assisted-review"
 stars: 4
-language: TypeScript
-last_updated: '2026-07-10T16:19:19Z'
-discovered_at: '2026-07-10T16:24:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T16:19:19Z"
+discovered_at: "2026-07-10T16:24:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

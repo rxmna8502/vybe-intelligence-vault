@@ -1,31 +1,19 @@
 ---
-title: LeventeNagy/relay-coding-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Electron
-- React 19
-- TypeScript
-- Vite
-- Mastra (model router)
-- Model Context Protocol (MCP)
-- Node.js
+title: "LeventeNagy/relay-coding-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "React 19", "TypeScript", "Vite", "Mastra (model router)", "Model Context Protocol (MCP)", "Node.js"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- coding agent
-- LLM integration
-- desktop app
-- browser automation
-- multi-provider support
-source: https://github.com/LeventeNagy/relay-coding-agent
+deployment_complexity: "Medium"
+tags: ["coding agent", "LLM integration", "desktop app", "browser automation", "multi-provider support"]
+source: "https://github.com/LeventeNagy/relay-coding-agent"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-14T10:05:48Z'
-discovered_at: '2026-07-14T10:07:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T10:05:48Z"
+discovered_at: "2026-07-14T10:07:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

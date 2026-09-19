@@ -1,31 +1,19 @@
 ---
-title: cornellebivalved856/example-multimodal-rag
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Gemini Embedding 2
-- Supabase
-- pgvector
-- Gradio
-- ffmpeg
-- SQL
+title: "cornellebivalved856/example-multimodal-rag"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "Gemini Embedding 2", "Supabase", "pgvector", "Gradio", "ffmpeg", "SQL"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multimodal
-- vector search
-- RAG
-- semantic retrieval
-- media processing
-source: https://github.com/cornellebivalved856/example-multimodal-rag
+deployment_complexity: "Medium"
+tags: ["multimodal", "vector search", "RAG", "semantic retrieval", "media processing"]
+source: "https://github.com/cornellebivalved856/example-multimodal-rag"
 stars: 0
-language: Python
-last_updated: '2026-08-07T09:34:12Z'
-discovered_at: '2026-08-07T10:05:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T09:34:12Z"
+discovered_at: "2026-08-07T10:05:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

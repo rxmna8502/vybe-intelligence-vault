@@ -1,32 +1,19 @@
 ---
-title: cemsari/the-expert
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- React
-- Python
-- Vite
-- Node.js
-- Zustand
-- Anthropic API
-- Claude Agent SDK
+title: "cemsari/the-expert"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Python", "Vite", "Node.js", "Zustand", "Anthropic API", "Claude Agent SDK"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- model routing
-- cost optimization
-- Claude API
-- token efficiency
-- AI spend management
-source: https://github.com/cemsari/the-expert
+deployment_complexity: "Medium"
+tags: ["model routing", "cost optimization", "Claude API", "token efficiency", "AI spend management"]
+source: "https://github.com/cemsari/the-expert"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T09:28:59Z'
-discovered_at: '2026-08-01T15:01:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T09:28:59Z"
+discovered_at: "2026-08-01T15:01:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

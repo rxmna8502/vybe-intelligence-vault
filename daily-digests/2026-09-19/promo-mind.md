@@ -1,33 +1,19 @@
 ---
-title: PureBlueFrank/promo-mind
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- LangGraph
-- SQLite
-- Pydantic
-- LangChain
-- OpenAI API (optional)
-- Ruff
-- Mypy
-- Pytest
+title: "PureBlueFrank/promo-mind"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LangGraph", "SQLite", "Pydantic", "LangChain", "OpenAI API (optional)", "Ruff", "Mypy", "Pytest"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- coupon strategy
-- ROI simulation
-- workflow orchestration
-- approval routing
-- deterministic decision-making
-source: https://github.com/PureBlueFrank/promo-mind
+deployment_complexity: "Medium"
+tags: ["coupon strategy", "ROI simulation", "workflow orchestration", "approval routing", "deterministic decision-making"]
+source: "https://github.com/PureBlueFrank/promo-mind"
 stars: 0
-language: Python
-last_updated: '2026-08-08T08:35:30Z'
-discovered_at: '2026-08-08T08:42:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T08:35:30Z"
+discovered_at: "2026-08-08T08:42:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

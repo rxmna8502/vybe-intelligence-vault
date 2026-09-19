@@ -1,33 +1,19 @@
 ---
-title: Haozhe-Xing/agent_learning
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Markdown
-- mdBook
-- FastAPI
-- Docker
-- GitHub Actions
-- SVG
-- HTML/CSS
-- JavaScript
+title: "Haozhe-Xing/agent_learning"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "mdBook", "FastAPI", "Docker", "GitHub Actions", "SVG", "HTML/CSS", "JavaScript"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agents
-- LLM
-- RAG
-- Multi-Agent Systems
-- Agentic RL
-source: https://github.com/Haozhe-Xing/agent_learning
+deployment_complexity: "Medium"
+tags: ["AI Agents", "LLM", "RAG", "Multi-Agent Systems", "Agentic RL"]
+source: "https://github.com/Haozhe-Xing/agent_learning"
 stars: 478
-language: HTML
-last_updated: '2026-09-02T08:16:10Z'
-discovered_at: '2026-09-02T08:20:58Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-02T08:16:10Z"
+discovered_at: "2026-09-02T08:20:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: geniushub-seo/gsc-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- Google Cloud SDK
-- Google Search Console API
-- MCP (Model Context Protocol)
-- OAuth 2.0
-- CLI tools
+title: "geniushub-seo/gsc-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Google Cloud SDK", "Google Search Console API", "MCP (Model Context Protocol)", "OAuth 2.0", "CLI tools"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Google Search Console
-- MCP server
-- SEO analytics
-- AI agent integration
-- ADC authentication
-source: https://github.com/geniushub-seo/gsc-mcp
+deployment_complexity: "Medium"
+tags: ["Google Search Console", "MCP server", "SEO analytics", "AI agent integration", "ADC authentication"]
+source: "https://github.com/geniushub-seo/gsc-mcp"
 stars: 2
-language: Go
-last_updated: '2026-09-04T01:57:21Z'
-discovered_at: '2026-09-04T02:19:28Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-04T01:57:21Z"
+discovered_at: "2026-09-04T02:19:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

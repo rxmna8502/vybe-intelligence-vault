@@ -1,32 +1,19 @@
 ---
-title: fegone/claude-code-delegate-local
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastAPI
-- LiteLLM
-- uv
-- Claude Code
-- Asyncio
-- HTTPX
+title: "fegone/claude-code-delegate-local"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "LiteLLM", "uv", "Claude Code", "Asyncio", "HTTPX"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Claude Code
-- subagent delegation
-- local models
-- multi-backend routing
-source: https://github.com/fegone/claude-code-delegate-local
+deployment_complexity: "Medium"
+tags: ["MCP server", "Claude Code", "subagent delegation", "local models", "multi-backend routing"]
+source: "https://github.com/fegone/claude-code-delegate-local"
 stars: 4
-language: Python
-last_updated: '2026-07-11T20:09:10Z'
-discovered_at: '2026-07-11T20:09:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T20:09:10Z"
+discovered_at: "2026-07-11T20:09:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: matrixorigin/matrixone
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- MySQL
-- Kubernetes
-- Docker
-- Python
-- SQLAlchemy
-- Vector Search (IVF/HNSW)
-- Full-Text Search
-- HTAP Engine
+title: "matrixorigin/matrixone"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MySQL", "Kubernetes", "Docker", "Python", "SQLAlchemy", "Vector Search (IVF/HNSW)", "Full-Text Search", "HTAP Engine"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- HTAP Database
-- Vector Search
-- Git-for-Data
-- AI-Native
-- Cloud-Native
-source: https://github.com/matrixorigin/matrixone
+deployment_complexity: "Medium"
+tags: ["HTAP Database", "Vector Search", "Git-for-Data", "AI-Native", "Cloud-Native"]
+source: "https://github.com/matrixorigin/matrixone"
 stars: 1874
-language: Go
-last_updated: '2026-08-07T09:53:32Z'
-discovered_at: '2026-08-07T10:04:50Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T09:53:32Z"
+discovered_at: "2026-08-07T10:04:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: mauropereiira/Moldavite
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Rust
-- Tauri
-- React
-- Markdown
-- MCP (Model Context Protocol)
-- AES-256-GCM
-- Argon2
-- EventKit (Apple Calendar)
-- OAuth (Google Calendar)
+title: "mauropereiira/Moldavite"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Rust", "Tauri", "React", "Markdown", "MCP (Model Context Protocol)", "AES-256-GCM", "Argon2", "EventKit (Apple Calendar)", "OAuth (Google Calendar)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- local-first
-- privacy-focused
-- MCP server
-- Markdown notes
-- AI integration
-source: https://github.com/mauropereiira/Moldavite
+deployment_complexity: "Low"
+tags: ["local-first", "privacy-focused", "MCP server", "Markdown notes", "AI integration"]
+source: "https://github.com/mauropereiira/Moldavite"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T22:28:02Z'
-discovered_at: '2026-08-09T22:35:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T22:28:02Z"
+discovered_at: "2026-08-09T22:35:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

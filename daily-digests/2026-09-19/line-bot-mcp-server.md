@@ -1,30 +1,19 @@
 ---
-title: line/line-bot-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- LINE Messaging API
-- Docker
-- npm
+title: "line/line-bot-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "LINE Messaging API", "Docker", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- LINE Bot
-- MCP Server
-- Messaging API
-- AI Agent Integration
-- Rich Menu
-source: https://github.com/line/line-bot-mcp-server
+deployment_complexity: "Medium"
+tags: ["LINE Bot", "MCP Server", "Messaging API", "AI Agent Integration", "Rich Menu"]
+source: "https://github.com/line/line-bot-mcp-server"
 stars: 740
-language: TypeScript
-last_updated: '2026-08-01T17:50:05Z'
-discovered_at: '2026-08-01T18:00:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T17:50:05Z"
+discovered_at: "2026-08-01T18:00:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

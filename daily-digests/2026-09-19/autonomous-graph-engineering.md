@@ -1,33 +1,19 @@
 ---
-title: orperelman123/autonomous-graph-engineering
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- JSON Schema
-- OpenAPI
-- GitHub Actions
-- Mermaid
-- Docker
+title: "orperelman123/autonomous-graph-engineering"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "JSON Schema", "OpenAPI", "GitHub Actions", "Mermaid", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- graph-based orchestration
-- agent loop prevention
-- deterministic execution
-- prompt refinement
-- verification gates
-source: https://github.com/orperelman123/autonomous-graph-engineering
+deployment_complexity: "Medium"
+tags: ["graph-based orchestration", "agent loop prevention", "deterministic execution", "prompt refinement", "verification gates"]
+source: "https://github.com/orperelman123/autonomous-graph-engineering"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T08:13:28Z'
-discovered_at: '2026-08-07T08:16:20Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T08:13:28Z"
+discovered_at: "2026-08-07T08:16:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

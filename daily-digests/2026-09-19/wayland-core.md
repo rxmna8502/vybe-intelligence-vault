@@ -1,30 +1,19 @@
 ---
-title: FerroxLabs/wayland-core
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- Node.js (npm packaging)
-- TOML (configuration)
-- Git (worktree-based orchestration)
-- libseccomp (sandboxing)
+title: "FerroxLabs/wayland-core"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "Node.js (npm packaging)", "TOML (configuration)", "Git (worktree-based orchestration)", "libseccomp (sandboxing)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-provider
-- self-evolving
-- MCP-native
-- sandboxed execution
-- terminal-first
-source: https://github.com/FerroxLabs/wayland-core
+deployment_complexity: "Medium"
+tags: ["multi-provider", "self-evolving", "MCP-native", "sandboxed execution", "terminal-first"]
+source: "https://github.com/FerroxLabs/wayland-core"
 stars: 39
-language: Rust
-last_updated: '2026-09-02T02:02:05Z'
-discovered_at: '2026-09-02T02:11:27Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-02T02:02:05Z"
+discovered_at: "2026-09-02T02:11:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

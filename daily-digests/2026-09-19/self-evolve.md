@@ -1,30 +1,19 @@
 ---
-title: DaizeDong/self-evolve
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Claude Code
-- LLM (Claude, Codex)
-- Git
-- Deterministic Harness
-- Sandboxing
+title: "DaizeDong/self-evolve"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Code", "LLM (Claude, Codex)", "Git", "Deterministic Harness", "Sandboxing"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-improving agents
-- anti-self-deception
-- deterministic harness
-- sandboxed iteration
-- open-ended domains
-source: https://github.com/DaizeDong/self-evolve
+deployment_complexity: "Medium"
+tags: ["self-improving agents", "anti-self-deception", "deterministic harness", "sandboxed iteration", "open-ended domains"]
+source: "https://github.com/DaizeDong/self-evolve"
 stars: 0
-language: Python
-last_updated: '2026-07-14T05:01:58Z'
-discovered_at: '2026-07-17T08:07:14Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T05:01:58Z"
+discovered_at: "2026-07-17T08:07:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

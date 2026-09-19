@@ -1,35 +1,19 @@
 ---
-title: LazyAGI/LazyLLM
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- PyTorch
-- LightLLM
-- VLLM
-- FastAPI
-- Kubernetes
-- Docker
-- RAG frameworks
-- Fine-tuning frameworks (PEFT, ColossalAI)
-- Vector databases
-- Embedding models
+title: "LazyAGI/LazyLLM"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "PyTorch", "LightLLM", "VLLM", "FastAPI", "Kubernetes", "Docker", "RAG frameworks", "Fine-tuning frameworks (PEFT, ColossalAI)", "Vector databases", "Embedding models"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- low-code development
-- RAG
-- model fine-tuning
-- deployment automation
-source: https://github.com/LazyAGI/LazyLLM
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "low-code development", "RAG", "model fine-tuning", "deployment automation"]
+source: "https://github.com/LazyAGI/LazyLLM"
 stars: 3861
-language: Python
-last_updated: '2026-08-06T03:15:16Z'
-discovered_at: '2026-08-06T03:18:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T03:15:16Z"
+discovered_at: "2026-08-06T03:18:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

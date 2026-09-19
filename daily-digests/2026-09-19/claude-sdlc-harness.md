@@ -1,31 +1,19 @@
 ---
-title: BaseInfinity/claude-sdlc-harness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Shell
-- JavaScript/Node.js
-- Claude Code
-- OpenAI Codex CLI
-- CI/CD Pipelines
-- Statistical Validation (E2E scoring, CUSUM drift detection)
-- TDD (Test-Driven Development)
+title: "BaseInfinity/claude-sdlc-harness"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Shell", "JavaScript/Node.js", "Claude Code", "OpenAI Codex CLI", "CI/CD Pipelines", "Statistical Validation (E2E scoring, CUSUM drift detection)", "TDD (Test-Driven Development)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-driven SDLC
-- automated testing
-- code quality enforcement
-- self-improving workflows
-- cross-model validation
-source: https://github.com/BaseInfinity/claude-sdlc-harness
+deployment_complexity: "Medium"
+tags: ["AI-driven SDLC", "automated testing", "code quality enforcement", "self-improving workflows", "cross-model validation"]
+source: "https://github.com/BaseInfinity/claude-sdlc-harness"
 stars: 42
-language: Shell
-last_updated: '2026-08-08T04:49:37Z'
-discovered_at: '2026-08-08T04:58:56Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-08T04:49:37Z"
+discovered_at: "2026-08-08T04:58:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

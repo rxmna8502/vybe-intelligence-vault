@@ -1,30 +1,19 @@
 ---
-title: MelnixDev/codex-ymt
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Codex Plugin System
-- MCP (Model Context Protocol)
-- Google OAuth 2.0
-- YouTube Data API v3
-- PKCE (Proof Key for Code Exchange)
+title: "MelnixDev/codex-ymt"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Codex Plugin System", "MCP (Model Context Protocol)", "Google OAuth 2.0", "YouTube Data API v3", "PKCE (Proof Key for Code Exchange)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- YouTube metadata
-- localization
-- translation
-- Codex plugin
-- MCP server
-source: https://github.com/MelnixDev/codex-ymt
+deployment_complexity: "Medium"
+tags: ["YouTube metadata", "localization", "translation", "Codex plugin", "MCP server"]
+source: "https://github.com/MelnixDev/codex-ymt"
 stars: 0
-language: Python
-last_updated: '2026-07-17T21:41:01Z'
-discovered_at: '2026-07-17T21:52:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T21:41:01Z"
+discovered_at: "2026-07-17T21:52:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,36 +1,19 @@
 ---
-title: mclaut/ariadne
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- Qdrant
-- bge-m3
-- Ollama
-- BM25
-- RRF (Reciprocal Rank Fusion)
-- Sigstore
-- CycloneDX
-- PowerShell
-- Bash
-- Launchd
-- systemd
+title: "mclaut/ariadne"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Go", "Qdrant", "bge-m3", "Ollama", "BM25", "RRF (Reciprocal Rank Fusion)", "Sigstore", "CycloneDX", "PowerShell", "Bash", "Launchd", "systemd"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local-first
-- multilingual
-- MCP server
-- hybrid search
-- memory management
-source: https://github.com/mclaut/ariadne
+deployment_complexity: "Medium"
+tags: ["local-first", "multilingual", "MCP server", "hybrid search", "memory management"]
+source: "https://github.com/mclaut/ariadne"
 stars: 1
-language: Go
-last_updated: '2026-07-10T13:09:19Z'
-discovered_at: '2026-07-10T13:11:11Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-10T13:09:19Z"
+discovered_at: "2026-07-10T13:11:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

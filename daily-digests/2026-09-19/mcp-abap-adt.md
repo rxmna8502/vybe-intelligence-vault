@@ -1,33 +1,19 @@
 ---
-title: fr0ster/mcp-abap-adt
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- SAP ADT (ABAP Development Tools)
-- MCP (Model Context Protocol)
-- JWT/XSUAA
-- REST/HTTP
-- SSE (Server-Sent Events)
-- CDS
-- RAP
+title: "fr0ster/mcp-abap-adt"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "SAP ADT (ABAP Development Tools)", "MCP (Model Context Protocol)", "JWT/XSUAA", "REST/HTTP", "SSE (Server-Sent Events)", "CDS", "RAP"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- SAP ABAP
-- MCP server
-- AI agent integration
-- CRUD operations
-- ADT access
-source: https://github.com/fr0ster/mcp-abap-adt
+deployment_complexity: "Medium"
+tags: ["SAP ABAP", "MCP server", "AI agent integration", "CRUD operations", "ADT access"]
+source: "https://github.com/fr0ster/mcp-abap-adt"
 stars: 84
-language: TypeScript
-last_updated: '2026-09-03T08:33:28Z'
-discovered_at: '2026-09-03T08:36:38Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T08:33:28Z"
+discovered_at: "2026-09-03T08:36:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

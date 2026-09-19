@@ -1,31 +1,19 @@
 ---
-title: LichAmnesia/openseek
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Bun
-- MCP (Model Context Protocol)
-- LSP (Language Server Protocol)
-- Terminal UI (TUI)
-- HTTP/SSE
-- Node.js ecosystem
+title: "LichAmnesia/openseek"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "MCP (Model Context Protocol)", "LSP (Language Server Protocol)", "Terminal UI (TUI)", "HTTP/SSE", "Node.js ecosystem"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- coding agent
-- multi-provider
-- terminal UI
-- MCP
-- LSP
-source: https://github.com/LichAmnesia/openseek
+deployment_complexity: "Medium"
+tags: ["coding agent", "multi-provider", "terminal UI", "MCP", "LSP"]
+source: "https://github.com/LichAmnesia/openseek"
 stars: 220
-language: TypeScript
-last_updated: '2026-08-04T00:02:08Z'
-discovered_at: '2026-08-04T00:11:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T00:02:08Z"
+discovered_at: "2026-08-04T00:11:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

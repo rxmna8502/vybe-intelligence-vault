@@ -1,38 +1,19 @@
 ---
-title: Bitwarelabscom/luna-v7.1
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Node.js
-- TypeScript
-- Next.js
-- PostgreSQL
-- pgvector
-- Neo4j
-- Redis
-- Docker
-- Express
-- Python
-- SQLite
-- Ollama
-- OpenRouter API
-- Telegram API
+title: "Bitwarelabscom/luna-v7.1"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "TypeScript", "Next.js", "PostgreSQL", "pgvector", "Neo4j", "Redis", "Docker", "Express", "Python", "SQLite", "Ollama", "OpenRouter API", "Telegram API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- personal AI
-- memory system
-- agentic framework
-- self-hosted
-- voice interaction
-source: https://github.com/Bitwarelabscom/luna-v7.1
+deployment_complexity: "High"
+tags: ["personal AI", "memory system", "agentic framework", "self-hosted", "voice interaction"]
+source: "https://github.com/Bitwarelabscom/luna-v7.1"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:36:56Z'
-discovered_at: '2026-08-04T07:39:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:36:56Z"
+discovered_at: "2026-08-04T07:39:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
