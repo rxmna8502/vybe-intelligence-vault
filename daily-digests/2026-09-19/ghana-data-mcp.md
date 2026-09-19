@@ -1,30 +1,19 @@
 ---
-title: epigos/ghana-data-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Cloudflare Workers
-- MCP (Model Context Protocol)
-- Workers KV
-- Wrangler CLI
+title: "epigos/ghana-data-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Cloudflare Workers", "MCP (Model Context Protocol)", "Workers KV", "Wrangler CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Ghana data
-- financial indicators
-- public APIs
-- Cloudflare Workers
-source: https://github.com/epigos/ghana-data-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Ghana data", "financial indicators", "public APIs", "Cloudflare Workers"]
+source: "https://github.com/epigos/ghana-data-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T09:18:49Z'
-discovered_at: '2026-08-10T09:25:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T09:18:49Z"
+discovered_at: "2026-08-10T09:25:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

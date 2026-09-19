@@ -1,35 +1,19 @@
 ---
-title: AI-Riksarkivet/ra-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastAPI
-- Docker
-- Streamable HTTP
-- CLI/TUI
-- HTR (Handwritten Text Recognition)
-- Sigstore
-- SLSA
-- Ruff
-- uv
+title: "AI-Riksarkivet/ra-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Docker", "Streamable HTTP", "CLI/TUI", "HTR (Handwritten Text Recognition)", "Sigstore", "SLSA", "Ruff", "uv"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- historical documents
-- full-text search
-- handwritten text recognition
-- archival research
-source: https://github.com/AI-Riksarkivet/ra-mcp
+deployment_complexity: "Medium"
+tags: ["MCP", "historical documents", "full-text search", "handwritten text recognition", "archival research"]
+source: "https://github.com/AI-Riksarkivet/ra-mcp"
 stars: 17
-language: Python
-last_updated: '2026-08-03T10:37:31Z'
-discovered_at: '2026-08-03T10:44:04Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T10:37:31Z"
+discovered_at: "2026-08-03T10:44:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

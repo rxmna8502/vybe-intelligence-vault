@@ -1,33 +1,19 @@
 ---
-title: RudrenduPaul/ComputeLedger
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Python
-- Ed25519 cryptography
-- Node.js
-- npm
-- pip
-- Model Context Protocol (MCP)
-- JSON
-- Hash-chaining
+title: "RudrenduPaul/ComputeLedger"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Python", "Ed25519 cryptography", "Node.js", "npm", "pip", "Model Context Protocol (MCP)", "JSON", "Hash-chaining"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- compute verification
-- GPU usage tracking
-- tamper-evident ledger
-- Ed25519 signatures
-- MCP server
-source: https://github.com/RudrenduPaul/ComputeLedger
+deployment_complexity: "Low"
+tags: ["compute verification", "GPU usage tracking", "tamper-evident ledger", "Ed25519 signatures", "MCP server"]
+source: "https://github.com/RudrenduPaul/ComputeLedger"
 stars: 0
-language: Python
-last_updated: '2026-08-04T03:57:40Z'
-discovered_at: '2026-08-04T04:15:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T03:57:40Z"
+discovered_at: "2026-08-04T04:15:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

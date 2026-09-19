@@ -1,30 +1,19 @@
 ---
-title: Yusufihsangorgel/mcp_probe
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Dart
-- MCP (Model Context Protocol)
-- package:test
-- stdio
-- JSON-RPC
-- GitHub Actions
+title: "Yusufihsangorgel/mcp_probe"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Dart", "MCP (Model Context Protocol)", "package:test", "stdio", "JSON-RPC", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP
-- conformance testing
-- server validation
-- Dart
-- automated testing
-source: https://github.com/Yusufihsangorgel/mcp_probe
+deployment_complexity: "Low"
+tags: ["MCP", "conformance testing", "server validation", "Dart", "automated testing"]
+source: "https://github.com/Yusufihsangorgel/mcp_probe"
 stars: 0
-language: Dart
-last_updated: '2026-08-09T08:43:58Z'
-discovered_at: '2026-08-09T08:45:15Z'
-evaluated_by: mistral-small-latest
+language: "Dart"
+last_updated: "2026-08-09T08:43:58Z"
+discovered_at: "2026-08-09T08:45:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: Renly1994/Skillbox
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Electron
-- Node.js
-- npm workspaces
-- React
+title: "Renly1994/Skillbox"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Electron", "Node.js", "npm workspaces", "React"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Agent management
-- Skill migration
-- local-first
-- multi-agent
-- offline tool
-source: https://github.com/Renly1994/Skillbox
+deployment_complexity: "Medium"
+tags: ["Agent management", "Skill migration", "local-first", "multi-agent", "offline tool"]
+source: "https://github.com/Renly1994/Skillbox"
 stars: 9
-language: TypeScript
-last_updated: '2026-09-01T09:01:53Z'
-discovered_at: '2026-09-01T09:10:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T09:01:53Z"
+discovered_at: "2026-09-01T09:10:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

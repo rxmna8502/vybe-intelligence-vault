@@ -1,30 +1,19 @@
 ---
-title: trenchant-rogaine315/ai-engineer-vault
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Windows
-- Python
-- Open Source
-- LLM Ops
-- RAG
-- Vector Databases
+title: "trenchant-rogaine315/ai-engineer-vault"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows", "Python", "Open Source", "LLM Ops", "RAG", "Vector Databases"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- AI engineering
-- RAG patterns
-- agent design
-- LLM evaluation
-- token cost management
-source: https://github.com/trenchant-rogaine315/ai-engineer-vault
+deployment_complexity: "Low"
+tags: ["AI engineering", "RAG patterns", "agent design", "LLM evaluation", "token cost management"]
+source: "https://github.com/trenchant-rogaine315/ai-engineer-vault"
 stars: 0
-language: None
-last_updated: '2026-08-06T09:05:53Z'
-discovered_at: '2026-08-06T09:43:49Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T09:05:53Z"
+discovered_at: "2026-08-06T09:43:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

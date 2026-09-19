@@ -1,30 +1,19 @@
 ---
-title: drhelius/Gearcoleco
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- C++
-- SDL3
-- Model Context Protocol (MCP)
-- Z80 emulation
-- TMS9918 VDP emulation
-- RetroArch
+title: "drhelius/Gearcoleco"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C++", "SDL3", "Model Context Protocol (MCP)", "Z80 emulation", "TMS9918 VDP emulation", "RetroArch"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- emulator
-- debugging
-- AI-assisted tooling
-- retro computing
-- MCP server
-source: https://github.com/drhelius/Gearcoleco
+deployment_complexity: "Medium"
+tags: ["emulator", "debugging", "AI-assisted tooling", "retro computing", "MCP server"]
+source: "https://github.com/drhelius/Gearcoleco"
 stars: 137
-language: C++
-last_updated: '2026-08-04T19:31:41Z'
-discovered_at: '2026-08-04T19:32:31Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-08-04T19:31:41Z"
+discovered_at: "2026-08-04T19:32:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: clouatre-labs/setup-goose-action
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- GitHub Actions
-- Goose AI Agent
-- YAML
-- Bash
-- Composite Action
+title: "clouatre-labs/setup-goose-action"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["GitHub Actions", "Goose AI Agent", "YAML", "Bash", "Composite Action"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- GitHub Action
-- CI/CD
-- AI Agent
-- Goose CLI
-- Security
-source: https://github.com/clouatre-labs/setup-goose-action
+deployment_complexity: "Low"
+tags: ["GitHub Action", "CI/CD", "AI Agent", "Goose CLI", "Security"]
+source: "https://github.com/clouatre-labs/setup-goose-action"
 stars: 8
-language: None
-last_updated: '2026-07-20T03:43:16Z'
-discovered_at: '2026-07-20T03:52:27Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-20T03:43:16Z"
+discovered_at: "2026-07-20T03:52:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

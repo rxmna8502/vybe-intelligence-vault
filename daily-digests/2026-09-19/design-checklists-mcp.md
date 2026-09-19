@@ -1,28 +1,19 @@
 ---
-title: patelchanakya/design-checklists-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- GitHub Actions
+title: "patelchanakya/design-checklists-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- UX/UI checklists
-- MCP server
-- local caching
-- design reference
-- Codex integration
-source: https://github.com/patelchanakya/design-checklists-mcp
+deployment_complexity: "Low"
+tags: ["UX/UI checklists", "MCP server", "local caching", "design reference", "Codex integration"]
+source: "https://github.com/patelchanakya/design-checklists-mcp"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-08T07:41:57Z'
-discovered_at: '2026-08-08T07:51:51Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T07:41:57Z"
+discovered_at: "2026-08-08T07:51:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

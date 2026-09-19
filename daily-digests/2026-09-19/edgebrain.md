@@ -1,35 +1,19 @@
 ---
-title: rudra496/EdgeBrain
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- React
-- PostgreSQL
-- Redis
-- MQTT
-- Docker
-- GitHub Actions
-- TypeScript
-- Pydantic
-- SQLAlchemy
+title: "rudra496/EdgeBrain"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "React", "PostgreSQL", "Redis", "MQTT", "Docker", "GitHub Actions", "TypeScript", "Pydantic", "SQLAlchemy"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- edge AI
-- IoT automation
-- multi-agent systems
-- real-time decision making
-- local inference
-source: https://github.com/rudra496/EdgeBrain
+deployment_complexity: "Medium"
+tags: ["edge AI", "IoT automation", "multi-agent systems", "real-time decision making", "local inference"]
+source: "https://github.com/rudra496/EdgeBrain"
 stars: 6
-language: Python
-last_updated: '2026-08-05T18:19:07Z'
-discovered_at: '2026-08-05T18:24:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T18:19:07Z"
+discovered_at: "2026-08-05T18:24:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

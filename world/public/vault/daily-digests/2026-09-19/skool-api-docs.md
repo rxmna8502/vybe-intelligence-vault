@@ -1,34 +1,19 @@
 ---
-title: ctala/skool-api-docs
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Apify
-- Playwright
-- n8n
-- Make.com
-- Zapier
-- Python
-- LangChain
-- MCP
-- Shell
-- Markdown
+title: "ctala/skool-api-docs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Apify", "Playwright", "n8n", "Make.com", "Zapier", "Python", "LangChain", "MCP", "Shell", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Skool API
-- Community Automation
-- No-Code Integration
-- AI Agent Tools
-- Reverse-Engineering
-source: https://github.com/ctala/skool-api-docs
+deployment_complexity: "Low"
+tags: ["Skool API", "Community Automation", "No-Code Integration", "AI Agent Tools", "Reverse-Engineering"]
+source: "https://github.com/ctala/skool-api-docs"
 stars: 2
-language: Shell
-last_updated: '2026-07-12T11:47:15Z'
-discovered_at: '2026-07-12T11:58:35Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-12T11:47:15Z"
+discovered_at: "2026-07-12T11:58:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

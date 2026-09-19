@@ -1,32 +1,19 @@
 ---
-title: copyleftdev/kahea
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- OpenAPI 3.0/3.1/3.2
-- Arazzo 1.1
-- MCP (Model Context Protocol)
-- CycloneDX
-- SHA-256
-- JSON Schema
-- TOML
+title: "copyleftdev/kahea"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "OpenAPI 3.0/3.1/3.2", "Arazzo 1.1", "MCP (Model Context Protocol)", "CycloneDX", "SHA-256", "JSON Schema", "TOML"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- deterministic API invocation
-- AI agent safety
-- request planning
-- content-addressed evidence
-- local-first
-source: https://github.com/copyleftdev/kahea
+deployment_complexity: "Medium"
+tags: ["deterministic API invocation", "AI agent safety", "request planning", "content-addressed evidence", "local-first"]
+source: "https://github.com/copyleftdev/kahea"
 stars: 0
-language: Rust
-last_updated: '2026-08-08T06:39:24Z'
-discovered_at: '2026-08-08T06:52:42Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-08T06:39:24Z"
+discovered_at: "2026-08-08T06:52:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

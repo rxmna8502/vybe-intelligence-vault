@@ -1,33 +1,19 @@
 ---
-title: studiomeyer-io/local-memory-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- SQLite
-- Node.js
-- Transformers.js
-- sqlite-vec
-- FTS5
-- BM25
-- Reciprocal Rank Fusion (RRF)
-- MCP (Model Context Protocol)
+title: "studiomeyer-io/local-memory-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "SQLite", "Node.js", "Transformers.js", "sqlite-vec", "FTS5", "BM25", "Reciprocal Rank Fusion (RRF)", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- local-memory
-- MCP-server
-- hybrid-retrieval
-- bi-temporal-queries
-- offline-ai
-source: https://github.com/studiomeyer-io/local-memory-mcp
+deployment_complexity: "Low"
+tags: ["local-memory", "MCP-server", "hybrid-retrieval", "bi-temporal-queries", "offline-ai"]
+source: "https://github.com/studiomeyer-io/local-memory-mcp"
 stars: 10
-language: TypeScript
-last_updated: '2026-08-01T20:44:41Z'
-discovered_at: '2026-08-01T20:51:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T20:44:41Z"
+discovered_at: "2026-08-01T20:51:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

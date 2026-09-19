@@ -1,33 +1,19 @@
 ---
-title: jackmielke/FlowState
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Swift
-- SwiftUI
-- OpenAI Realtime API
-- Claude Code
-- Xcode
-- macOS APIs
-- Git
-- Notion API (optional)
-- FFmpeg (for recording)
+title: "jackmielke/FlowState"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "SwiftUI", "OpenAI Realtime API", "Claude Code", "Xcode", "macOS APIs", "Git", "Notion API (optional)", "FFmpeg (for recording)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice-driven development
-- screen interaction
-- local AI
-- macOS automation
-- real-time editing
-source: https://github.com/jackmielke/FlowState
+deployment_complexity: "Medium"
+tags: ["voice-driven development", "screen interaction", "local AI", "macOS automation", "real-time editing"]
+source: "https://github.com/jackmielke/FlowState"
 stars: 0
-language: Swift
-last_updated: '2026-09-01T22:12:04Z'
-discovered_at: '2026-09-01T22:17:52Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-09-01T22:12:04Z"
+discovered_at: "2026-09-01T22:17:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

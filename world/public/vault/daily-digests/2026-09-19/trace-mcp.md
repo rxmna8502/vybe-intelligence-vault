@@ -1,31 +1,19 @@
 ---
-title: nikolai-vysotskyi/trace-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Electron
-- Model Context Protocol (MCP)
-- Graph Databases
-- Natural Language Processing (NLP)
-- GPU Acceleration
+title: "nikolai-vysotskyi/trace-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Electron", "Model Context Protocol (MCP)", "Graph Databases", "Natural Language Processing (NLP)", "GPU Acceleration"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- dependency graph
-- code intelligence
-- knowledge vault indexing
-- AI agent optimization
-source: https://github.com/nikolai-vysotskyi/trace-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "dependency graph", "code intelligence", "knowledge vault indexing", "AI agent optimization"]
+source: "https://github.com/nikolai-vysotskyi/trace-mcp"
 stars: 95
-language: TypeScript
-last_updated: '2026-08-05T05:33:51Z'
-discovered_at: '2026-08-05T05:49:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T05:33:51Z"
+discovered_at: "2026-08-05T05:49:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

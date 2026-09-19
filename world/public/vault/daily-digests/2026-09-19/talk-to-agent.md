@@ -1,35 +1,19 @@
 ---
-title: halhoulmhamed-droid/talk-to-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Python 3.11
-- FastAPI
-- Uvicorn
-- WebRTC
-- FastRTC
-- Google Gemini Live API
-- AsyncIO
-- NumPy
-- JavaScript
-- HTML
-- CSS
+title: "halhoulmhamed-droid/talk-to-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.11", "FastAPI", "Uvicorn", "WebRTC", "FastRTC", "Google Gemini Live API", "AsyncIO", "NumPy", "JavaScript", "HTML", "CSS"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- real-time voice
-- WebRTC
-- FastAPI
-- Gemini Live API
-- audio streaming
-source: https://github.com/halhoulmhamed-droid/talk-to-agent
+deployment_complexity: "Medium"
+tags: ["real-time voice", "WebRTC", "FastAPI", "Gemini Live API", "audio streaming"]
+source: "https://github.com/halhoulmhamed-droid/talk-to-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-08T15:28:41Z'
-discovered_at: '2026-08-08T15:32:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T15:28:41Z"
+discovered_at: "2026-08-08T15:32:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

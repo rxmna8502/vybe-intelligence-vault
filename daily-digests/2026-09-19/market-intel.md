@@ -1,29 +1,19 @@
 ---
-title: DaizeDong/market-intel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Claude Code
-- Model Context Protocol (MCP)
-- GitHub Actions
-- Shell Scripting
+title: "DaizeDong/market-intel"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "Model Context Protocol (MCP)", "GitHub Actions", "Shell Scripting"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Claude Code
-- MCP
-- market research
-- commercial intelligence
-- data triage
-source: https://github.com/DaizeDong/market-intel
+deployment_complexity: "Medium"
+tags: ["Claude Code", "MCP", "market research", "commercial intelligence", "data triage"]
+source: "https://github.com/DaizeDong/market-intel"
 stars: 1
-language: Python
-last_updated: '2026-07-17T08:01:44Z'
-discovered_at: '2026-07-17T08:07:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T08:01:44Z"
+discovered_at: "2026-07-17T08:07:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

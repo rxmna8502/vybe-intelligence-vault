@@ -1,31 +1,19 @@
 ---
-title: devpilgrin/berimor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- TypeScript
-- Model Context Protocol (MCP)
-- SQLite
-- Tokio
-- WebAssembly
-- sigstore/cosign
+title: "devpilgrin/berimor"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "TypeScript", "Model Context Protocol (MCP)", "SQLite", "Tokio", "WebAssembly", "sigstore/cosign"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- deterministic agents
-- LLM orchestration
-- safety controls
-- structured workflows
-- MCP integration
-source: https://github.com/devpilgrin/berimor
+deployment_complexity: "Medium"
+tags: ["deterministic agents", "LLM orchestration", "safety controls", "structured workflows", "MCP integration"]
+source: "https://github.com/devpilgrin/berimor"
 stars: 0
-language: Rust
-last_updated: '2026-08-01T09:01:10Z'
-discovered_at: '2026-08-01T09:06:23Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T09:01:10Z"
+discovered_at: "2026-08-01T09:06:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

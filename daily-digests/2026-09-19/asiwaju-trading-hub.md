@@ -1,35 +1,19 @@
 ---
-title: NomadDigita/Asiwaju-Trading-Hub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Next.js
-- Node.js
-- TailwindCSS
-- Alibaba Cloud
-- Python (Pandas for backtesting)
-- Cryptographic HMAC-SHA256
-- Telegraf (Telegram bot framework)
-- Discord.js
-- CryptoCompare API
-- Tavily Search API
+title: "NomadDigita/Asiwaju-Trading-Hub"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Next.js", "Node.js", "TailwindCSS", "Alibaba Cloud", "Python (Pandas for backtesting)", "Cryptographic HMAC-SHA256", "Telegraf (Telegram bot framework)", "Discord.js", "CryptoCompare API", "Tavily Search API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- quant trading
-- zero-trust security
-- multi-agent systems
-- LLM safety
-- Web3 automation
-source: https://github.com/NomadDigita/Asiwaju-Trading-Hub
+deployment_complexity: "Medium"
+tags: ["quant trading", "zero-trust security", "multi-agent systems", "LLM safety", "Web3 automation"]
+source: "https://github.com/NomadDigita/Asiwaju-Trading-Hub"
 stars: 4
-language: TypeScript
-last_updated: '2026-07-17T02:49:26Z'
-discovered_at: '2026-07-17T02:52:01Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T02:49:26Z"
+discovered_at: "2026-07-17T02:52:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

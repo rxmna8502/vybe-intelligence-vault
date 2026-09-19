@@ -1,33 +1,19 @@
 ---
-title: SASUKE40/pi-daemon
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Tailscale
-- Cloudflare Tunnel
-- Cloudflare Access
-- systemd
-- LaunchAgents
-- Web Push API
-- OAuth PKCE
+title: "SASUKE40/pi-daemon"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Tailscale", "Cloudflare Tunnel", "Cloudflare Access", "systemd", "LaunchAgents", "Web Push API", "OAuth PKCE"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- agent orchestration
-- secure remote access
-- mobile PWA
-- tunnel management
-- persistent sessions
-source: https://github.com/SASUKE40/pi-daemon
+deployment_complexity: "Medium"
+tags: ["agent orchestration", "secure remote access", "mobile PWA", "tunnel management", "persistent sessions"]
+source: "https://github.com/SASUKE40/pi-daemon"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-07T18:49:58Z'
-discovered_at: '2026-08-07T18:57:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T18:49:58Z"
+discovered_at: "2026-08-07T18:57:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

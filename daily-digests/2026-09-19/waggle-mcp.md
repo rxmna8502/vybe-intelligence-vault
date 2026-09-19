@@ -1,35 +1,19 @@
 ---
-title: Abhigyan-Shekhar/Waggle-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python 3.11+
-- MCP (Model Context Protocol)
-- SQLite (default graph storage)
-- Neo4j (optional backend)
-- Sentence Transformers (local embeddings)
-- Ruff
-- Mypy
-- Pytest
-- GitHub Actions
-- Vite/React (Graph Studio UI)
-- PyPI packaging
+title: "Abhigyan-Shekhar/Waggle-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.11+", "MCP (Model Context Protocol)", "SQLite (default graph storage)", "Neo4j (optional backend)", "Sentence Transformers (local embeddings)", "Ruff", "Mypy", "Pytest", "GitHub Actions", "Vite/React (Graph Studio UI)", "PyPI packaging"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- persistent memory
-- graph-based RAG
-- MCP server
-- local embeddings
-- AI agent tooling
-source: https://github.com/Abhigyan-Shekhar/Waggle-mcp
+deployment_complexity: "Medium"
+tags: ["persistent memory", "graph-based RAG", "MCP server", "local embeddings", "AI agent tooling"]
+source: "https://github.com/Abhigyan-Shekhar/Waggle-mcp"
 stars: 30
-language: Python
-last_updated: '2026-07-16T05:31:56Z'
-discovered_at: '2026-07-16T05:39:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T05:31:56Z"
+discovered_at: "2026-07-16T05:39:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

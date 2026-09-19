@@ -1,32 +1,19 @@
 ---
-title: vibheksoni/session-export
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Python
-- CLI
-- MCP (Model Context Protocol)
-- JSONL
-- SQLite
-- Protobuf
-- FastAPI
-- PyPI
+title: "vibheksoni/session-export"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "CLI", "MCP (Model Context Protocol)", "JSONL", "SQLite", "Protobuf", "FastAPI", "PyPI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- session conversion
-- AI CLI tools
-- trace export
-- multi-agent compatibility
-- fine-tuning
-source: https://github.com/vibheksoni/session-export
+deployment_complexity: "Medium"
+tags: ["session conversion", "AI CLI tools", "trace export", "multi-agent compatibility", "fine-tuning"]
+source: "https://github.com/vibheksoni/session-export"
 stars: 3
-language: Python
-last_updated: '2026-07-21T17:08:20Z'
-discovered_at: '2026-07-21T17:16:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T17:08:20Z"
+discovered_at: "2026-07-21T17:16:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

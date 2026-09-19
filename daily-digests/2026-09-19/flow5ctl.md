@@ -1,31 +1,19 @@
 ---
-title: 97kuek/flow5ctl
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- YAML
-- XML
-- flow5 (aerodynamic solver)
-- CLI
-- Git
+title: "97kuek/flow5ctl"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "YAML", "XML", "flow5 (aerodynamic solver)", "CLI", "Git"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- aerodynamics
-- aircraft design
-- MCP server
-- CLI
-- low-Reynolds-number
-source: https://github.com/97kuek/flow5ctl
+deployment_complexity: "Medium"
+tags: ["aerodynamics", "aircraft design", "MCP server", "CLI", "low-Reynolds-number"]
+source: "https://github.com/97kuek/flow5ctl"
 stars: 0
-language: Python
-last_updated: '2026-09-04T02:07:48Z'
-discovered_at: '2026-09-04T02:17:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-04T02:07:48Z"
+discovered_at: "2026-09-04T02:17:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

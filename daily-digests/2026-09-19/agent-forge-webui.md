@@ -1,34 +1,19 @@
 ---
-title: bulletinmybeard/agent-forge-webui
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- React
-- Vite
-- JavaScript
-- TypeScript (implied by Biome)
-- Biome (linting/formatting)
-- WebSocket
-- REST API
-- Docker
-- Nginx
-- Node.js
+title: "bulletinmybeard/agent-forge-webui"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["React", "Vite", "JavaScript", "TypeScript (implied by Biome)", "Biome (linting/formatting)", "WebSocket", "REST API", "Docker", "Nginx", "Node.js"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- React SPA
-- AgentForge frontend
-- WebSocket streaming
-- Chat UI
-- Command permissions
-source: https://github.com/bulletinmybeard/agent-forge-webui
+deployment_complexity: "Medium"
+tags: ["React SPA", "AgentForge frontend", "WebSocket streaming", "Chat UI", "Command permissions"]
+source: "https://github.com/bulletinmybeard/agent-forge-webui"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-19T15:50:18Z'
-discovered_at: '2026-07-19T15:56:41Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-19T15:50:18Z"
+discovered_at: "2026-07-19T15:56:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

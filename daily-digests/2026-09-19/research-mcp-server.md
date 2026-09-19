@@ -1,41 +1,19 @@
 ---
-title: liqlos/research-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Apify
-- REST APIs
-- Web scraping
-- Google Custom Search API
-- DuckDuckGo API
-- Crossref/OpenAlex
-- SEC EDGAR API
-- OpenStreetMap (Overpass API)
-- VKontakte API
-- Telegram API
-- YouTube API
-- Reddit API
-- Hacker News API
-- Bluesky API
-- Mastodon API
+title: "liqlos/research-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Apify", "REST APIs", "Web scraping", "Google Custom Search API", "DuckDuckGo API", "Crossref/OpenAlex", "SEC EDGAR API", "OpenStreetMap (Overpass API)", "VKontakte API", "Telegram API", "YouTube API", "Reddit API", "Hacker News API", "Bluesky API", "Mastodon API"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- MCP server
-- research tools
-- AI agents
-- data retrieval
-- pay-per-call
-source: https://github.com/liqlos/research-mcp-server
+deployment_complexity: "Low"
+tags: ["MCP server", "research tools", "AI agents", "data retrieval", "pay-per-call"]
+source: "https://github.com/liqlos/research-mcp-server"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-13T18:30:52Z'
-discovered_at: '2026-07-13T18:43:25Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T18:30:52Z"
+discovered_at: "2026-07-13T18:43:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

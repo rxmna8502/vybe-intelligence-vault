@@ -1,31 +1,19 @@
 ---
-title: iflytek/astron-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Java
-- Spring AI
-- Docker
-- Kubernetes
-- MCP (Model Context Protocol)
-- RPA (Robotic Process Automation)
-- Apache 2.0
+title: "iflytek/astron-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java", "Spring AI", "Docker", "Kubernetes", "MCP (Model Context Protocol)", "RPA (Robotic Process Automation)", "Apache 2.0"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agentic workflows
-- enterprise AI
-- RPA automation
-- model orchestration
-- production deployment
-source: https://github.com/iflytek/astron-agent
+deployment_complexity: "Medium"
+tags: ["agentic workflows", "enterprise AI", "RPA automation", "model orchestration", "production deployment"]
+source: "https://github.com/iflytek/astron-agent"
 stars: 9277
-language: Java
-last_updated: '2026-08-01T08:47:12Z'
-discovered_at: '2026-08-01T09:06:56Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-01T08:47:12Z"
+discovered_at: "2026-08-01T09:06:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

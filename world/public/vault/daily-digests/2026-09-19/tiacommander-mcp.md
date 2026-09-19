@@ -1,32 +1,19 @@
 ---
-title: a4webdev/tiacommander-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- C#
-- .NET Framework 4.8
-- Siemens TIA Portal Openness API
-- MCP (Model Context Protocol)
-- JSON-RPC 2.0
-- SQLite
-- WebView2
-- S7CommPlus
+title: "a4webdev/tiacommander-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET Framework 4.8", "Siemens TIA Portal Openness API", "MCP (Model Context Protocol)", "JSON-RPC 2.0", "SQLite", "WebView2", "S7CommPlus"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Siemens TIA Portal
-- PLC programming
-- MCP server
-- AI-assisted automation
-- Industrial IoT
-source: https://github.com/a4webdev/tiacommander-mcp
+deployment_complexity: "Medium"
+tags: ["Siemens TIA Portal", "PLC programming", "MCP server", "AI-assisted automation", "Industrial IoT"]
+source: "https://github.com/a4webdev/tiacommander-mcp"
 stars: 20
-language: None
-last_updated: '2026-08-02T16:02:48Z'
-discovered_at: '2026-08-02T16:11:21Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T16:02:48Z"
+discovered_at: "2026-08-02T16:11:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: labstack/fanout
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- DuckDB
-- SQLite
-- Parquet
-- OpenTelemetry (OTLP)
-- React
-- MCP (Model Context Protocol)
-- gRPC
-- HTTP/2
+title: "labstack/fanout"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "DuckDB", "SQLite", "Parquet", "OpenTelemetry (OTLP)", "React", "MCP (Model Context Protocol)", "gRPC", "HTTP/2"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- observability
-- OpenTelemetry
-- Parquet storage
-- AI investigation
-- single-binary
-source: https://github.com/labstack/fanout
+deployment_complexity: "Medium"
+tags: ["observability", "OpenTelemetry", "Parquet storage", "AI investigation", "single-binary"]
+source: "https://github.com/labstack/fanout"
 stars: 3
-language: HTML
-last_updated: '2026-09-03T15:34:27Z'
-discovered_at: '2026-09-03T15:36:57Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-03T15:34:27Z"
+discovered_at: "2026-09-03T15:36:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: Jessinra/Lorekeeper
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- SQLite
-- LanceDB
-- PyTorch
-- sentence-transformers
-- FastAPI
-- MCP (Model Context Protocol)
-- BM25
-- React
-- TypeScript
+title: "Jessinra/Lorekeeper"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "LanceDB", "PyTorch", "sentence-transformers", "FastAPI", "MCP (Model Context Protocol)", "BM25", "React", "TypeScript"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory persistence
-- self-improving AI
-- local-first
-- MCP server
-- knowledge graph
-source: https://github.com/Jessinra/Lorekeeper
+deployment_complexity: "Medium"
+tags: ["memory persistence", "self-improving AI", "local-first", "MCP server", "knowledge graph"]
+source: "https://github.com/Jessinra/Lorekeeper"
 stars: 3
-language: HTML
-last_updated: '2026-07-12T08:14:15Z'
-discovered_at: '2026-07-12T08:15:36Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-12T08:14:15Z"
+discovered_at: "2026-07-12T08:15:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

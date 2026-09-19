@@ -1,31 +1,19 @@
 ---
-title: pgalyen1987/gate402-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- HTTP 402 (x402/USDC)
-- Base blockchain
-- REST APIs
-- Docker (for compute jobs)
+title: "pgalyen1987/gate402-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTP 402 (x402/USDC)", "Base blockchain", "REST APIs", "Docker (for compute jobs)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- pay-per-call APIs
-- GPU/CPU compute
-- LLM inference
-- on-chain data
-source: https://github.com/pgalyen1987/gate402-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "pay-per-call APIs", "GPU/CPU compute", "LLM inference", "on-chain data"]
+source: "https://github.com/pgalyen1987/gate402-mcp"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-02T23:57:30Z'
-discovered_at: '2026-08-03T00:01:05Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T23:57:30Z"
+discovered_at: "2026-08-03T00:01:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

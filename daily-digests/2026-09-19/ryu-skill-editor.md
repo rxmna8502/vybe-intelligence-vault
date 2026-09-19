@@ -1,31 +1,19 @@
 ---
-title: amajorai/ryu-skill-editor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- React
-- Vite
-- Markdown Editor (Plate/Yjs)
-- Web Components
-- HTML/CSS
-- Apache-2.0
+title: "amajorai/ryu-skill-editor"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Vite", "Markdown Editor (Plate/Yjs)", "Web Components", "HTML/CSS", "Apache-2.0"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- skill authoring
-- agent framework
-- markdown editor
-- version control
-- sandboxed UI
-source: https://github.com/amajorai/ryu-skill-editor
+deployment_complexity: "Low"
+tags: ["skill authoring", "agent framework", "markdown editor", "version control", "sandboxed UI"]
+source: "https://github.com/amajorai/ryu-skill-editor"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-05T08:31:33Z'
-discovered_at: '2026-08-05T08:36:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T08:31:33Z"
+discovered_at: "2026-08-05T08:36:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

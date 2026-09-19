@@ -1,29 +1,19 @@
 ---
-title: AliceLJY/workflow-orchestrator
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Claude Code
-- Shell
-- YAML
-- Natural Language Processing
-- Multi-agent Systems
+title: "AliceLJY/workflow-orchestrator"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Claude Code", "Shell", "YAML", "Natural Language Processing", "Multi-agent Systems"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- workflow automation
-- natural language routing
-- multi-agent review
-- Claude Code integration
-- pipeline orchestration
-source: https://github.com/AliceLJY/workflow-orchestrator
+deployment_complexity: "Medium"
+tags: ["workflow automation", "natural language routing", "multi-agent review", "Claude Code integration", "pipeline orchestration"]
+source: "https://github.com/AliceLJY/workflow-orchestrator"
 stars: 0
-language: Shell
-last_updated: '2026-07-19T08:05:39Z'
-discovered_at: '2026-07-19T08:13:36Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-19T08:05:39Z"
+discovered_at: "2026-07-19T08:13:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: codex-curator/intelligence-aeternum-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- TypeScript
-- Express
-- Firestore
-- Gemini
-- USDC
-- Base L2
-- Stripe
-- Docker
-- MonetizedMCP SDK
+title: "codex-curator/intelligence-aeternum-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "TypeScript", "Express", "Firestore", "Gemini", "USDC", "Base L2", "Stripe", "Docker", "MonetizedMCP SDK"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI training datasets
-- museum artworks
-- metadata enrichment
-- micropayments
-- compliance manifests
-source: https://github.com/codex-curator/intelligence-aeternum-mcp
+deployment_complexity: "Medium"
+tags: ["AI training datasets", "museum artworks", "metadata enrichment", "micropayments", "compliance manifests"]
+source: "https://github.com/codex-curator/intelligence-aeternum-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-09T20:31:05Z'
-discovered_at: '2026-08-09T20:35:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T20:31:05Z"
+discovered_at: "2026-08-09T20:35:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

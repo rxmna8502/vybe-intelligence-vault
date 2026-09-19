@@ -1,33 +1,19 @@
 ---
-title: drasticstatic/anthropas-argus-alfred-public-preview
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Claude Code CLI
-- NVIDIA NIM
-- Python
-- GitHub Actions
-- Marp
-- DeepSeek
-- OpenRouter
-- Ollama
-- Free-Claude-Code
+title: "drasticstatic/anthropas-argus-alfred-public-preview"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Claude Code CLI", "NVIDIA NIM", "Python", "GitHub Actions", "Marp", "DeepSeek", "OpenRouter", "Ollama", "Free-Claude-Code"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-agent coordination
-- free-model routing
-- system orchestrator
-- AI conciliator
-- NVIDIA NIM integration
-source: https://github.com/drasticstatic/anthropas-argus-alfred-public-preview
+deployment_complexity: "Medium"
+tags: ["multi-agent coordination", "free-model routing", "system orchestrator", "AI conciliator", "NVIDIA NIM integration"]
+source: "https://github.com/drasticstatic/anthropas-argus-alfred-public-preview"
 stars: 1
-language: HTML
-last_updated: '2026-09-03T02:11:17Z'
-discovered_at: '2026-09-03T02:16:32Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-03T02:11:17Z"
+discovered_at: "2026-09-03T02:16:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

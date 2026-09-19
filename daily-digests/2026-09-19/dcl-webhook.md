@@ -1,31 +1,19 @@
 ---
-title: Fronesis-Labs/dcl-webhook
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- Model Context Protocol (MCP)
-- x402 Protocol
-- SQLite
-- USDC (Cryptocurrency)
-- SHA-256 (Cryptographic Hashing)
+title: "Fronesis-Labs/dcl-webhook"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Model Context Protocol (MCP)", "x402 Protocol", "SQLite", "USDC (Cryptocurrency)", "SHA-256 (Cryptographic Hashing)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI policy enforcement
-- cryptographic auditing
-- micropayments
-- LLM safety
-- tamper-evident logging
-source: https://github.com/Fronesis-Labs/dcl-webhook
+deployment_complexity: "Medium"
+tags: ["AI policy enforcement", "cryptographic auditing", "micropayments", "LLM safety", "tamper-evident logging"]
+source: "https://github.com/Fronesis-Labs/dcl-webhook"
 stars: 1
-language: Python
-last_updated: '2026-08-02T11:53:41Z'
-discovered_at: '2026-08-02T12:02:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T11:53:41Z"
+discovered_at: "2026-08-02T12:02:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

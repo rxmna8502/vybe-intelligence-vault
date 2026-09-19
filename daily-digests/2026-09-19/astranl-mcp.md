@@ -1,32 +1,19 @@
 ---
-title: ASTRANL/astranl-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Model Context Protocol (MCP)
-- Stripe API
-- RESTful APIs
-- OpenAPI 3.1.0
-- Python
-- JSON
-- HTTPS/HTTP
-- KvK Registry (Dutch Chamber of Commerce)
+title: "ASTRANL/astranl-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Model Context Protocol (MCP)", "Stripe API", "RESTful APIs", "OpenAPI 3.1.0", "Python", "JSON", "HTTPS/HTTP", "KvK Registry (Dutch Chamber of Commerce)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- task orchestration
-- human-in-the-loop
-- financial brokerage
-- real-world execution
-source: https://github.com/ASTRANL/astranl-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "task orchestration", "human-in-the-loop", "financial brokerage", "real-world execution"]
+source: "https://github.com/ASTRANL/astranl-mcp"
 stars: 0
-language: None
-last_updated: '2026-09-02T02:05:25Z'
-discovered_at: '2026-09-02T02:13:26Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-02T02:05:25Z"
+discovered_at: "2026-09-02T02:13:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

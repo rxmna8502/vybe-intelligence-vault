@@ -1,32 +1,19 @@
 ---
-title: samvallad33/vestige
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- SQLite
-- WebGPU
-- Three.js
-- SvelteKit
-- FSRS (spaced repetition)
-- Embedding models
+title: "samvallad33/vestige"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "SQLite", "WebGPU", "Three.js", "SvelteKit", "FSRS (spaced repetition)", "Embedding models"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- memory
-- MCP server
-- local-first
-- causal reasoning
-- AI agents
-source: https://github.com/samvallad33/vestige
+deployment_complexity: "Low"
+tags: ["memory", "MCP server", "local-first", "causal reasoning", "AI agents"]
+source: "https://github.com/samvallad33/vestige"
 stars: 596
-language: Rust
-last_updated: '2026-08-03T10:33:51Z'
-discovered_at: '2026-08-03T10:44:07Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-03T10:33:51Z"
+discovered_at: "2026-08-03T10:44:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

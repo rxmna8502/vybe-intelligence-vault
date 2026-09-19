@@ -1,31 +1,19 @@
 ---
-title: cyanheads/eia-energy-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Bun
-- Model Context Protocol (MCP)
-- DuckDB (DataCanvas)
-- Fuse.js (fuzzy search)
-- Docker
-- npm
+title: "cyanheads/eia-energy-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "DuckDB (DataCanvas)", "Fuse.js (fuzzy search)", "Docker", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- EIA API
-- energy data
-- MCP server
-- data retrieval
-- vectorized queries
-source: https://github.com/cyanheads/eia-energy-mcp-server
+deployment_complexity: "Medium"
+tags: ["EIA API", "energy data", "MCP server", "data retrieval", "vectorized queries"]
+source: "https://github.com/cyanheads/eia-energy-mcp-server"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-06T03:14:35Z'
-discovered_at: '2026-08-06T03:18:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T03:14:35Z"
+discovered_at: "2026-08-06T03:18:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

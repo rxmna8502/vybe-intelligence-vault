@@ -1,29 +1,19 @@
 ---
-title: donaldwang6-dev/stratronix-seo
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- HTML
-- GitHub Pages
-- IndexNow API
-- SEO Optimization
-- Multilingual Content
+title: "donaldwang6-dev/stratronix-seo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "GitHub Pages", "IndexNow API", "SEO Optimization", "Multilingual Content"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- SEO
-- Multilingual
-- EU AI Act
-- GDPR Compliance
-- Private AI
-source: https://github.com/donaldwang6-dev/stratronix-seo
+deployment_complexity: "Low"
+tags: ["SEO", "Multilingual", "EU AI Act", "GDPR Compliance", "Private AI"]
+source: "https://github.com/donaldwang6-dev/stratronix-seo"
 stars: 0
-language: HTML
-last_updated: '2026-08-10T07:30:42Z'
-discovered_at: '2026-08-10T07:35:07Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-10T07:30:42Z"
+discovered_at: "2026-08-10T07:35:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

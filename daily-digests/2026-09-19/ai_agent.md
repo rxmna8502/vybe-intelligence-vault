@@ -1,33 +1,19 @@
 ---
-title: kbm323/AI_Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Discord API
-- OpenClaw
-- GLM (General Language Model)
-- Codex
-- opencode-go
-- YAML
-- Markdown
-- CLI
+title: "kbm323/AI_Agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Discord API", "OpenClaw", "GLM (General Language Model)", "Codex", "opencode-go", "YAML", "Markdown", "CLI"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI agent orchestration
-- Discord automation
-- MeetingRun architecture
-- Multi-agent workflow
-- Validation pipeline
-source: https://github.com/kbm323/AI_Agent
+deployment_complexity: "High"
+tags: ["AI agent orchestration", "Discord automation", "MeetingRun architecture", "Multi-agent workflow", "Validation pipeline"]
+source: "https://github.com/kbm323/AI_Agent"
 stars: 0
-language: Python
-last_updated: '2026-08-09T13:50:07Z'
-discovered_at: '2026-08-09T13:53:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T13:50:07Z"
+discovered_at: "2026-08-09T13:53:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

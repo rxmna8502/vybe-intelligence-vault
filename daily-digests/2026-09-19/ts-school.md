@@ -1,39 +1,19 @@
 ---
-title: Nostromo-618/ts-school
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Vue 3.5
-- Vite 8
-- vite-ssg
-- vue-router 5
-- Pinia 4
-- '@unhead/vue'
-- Vitest
-- Playwright
-- ESLint
-- Prettier
-- Stylelint
-- Strada Compiler API
-- Gemma (LiteRT)
-- OpenSpec
+title: "Nostromo-618/ts-school"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Vue 3.5", "Vite 8", "vite-ssg", "vue-router 5", "Pinia 4", "@unhead/vue", "Vitest", "Playwright", "ESLint", "Prettier", "Stylelint", "Strada Compiler API", "Gemma (LiteRT)", "OpenSpec"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- TypeScript education
-- interactive learning
-- static site generation
-- AI-assisted teaching
-- compiler diagnostics
-source: https://github.com/Nostromo-618/ts-school
+deployment_complexity: "Medium"
+tags: ["TypeScript education", "interactive learning", "static site generation", "AI-assisted teaching", "compiler diagnostics"]
+source: "https://github.com/Nostromo-618/ts-school"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T16:00:05Z'
-discovered_at: '2026-08-10T16:06:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T16:00:05Z"
+discovered_at: "2026-08-10T16:06:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

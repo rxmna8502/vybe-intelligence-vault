@@ -1,36 +1,19 @@
 ---
-title: AndreasHeine/i3x2ua
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- OPC UA
-- REST
-- Model Context Protocol (MCP)
-- Server-Sent Events (SSE)
-- Docker
-- nginx
-- uv
-- ruff
-- mypy
-- pytest
+title: "AndreasHeine/i3x2ua"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "OPC UA", "REST", "Model Context Protocol (MCP)", "Server-Sent Events (SSE)", "Docker", "nginx", "uv", "ruff", "mypy", "pytest"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- OPC UA
-- Industrial IoT
-- REST Gateway
-- MCP Integration
-- Real-time Data Streaming
-source: https://github.com/AndreasHeine/i3x2ua
+deployment_complexity: "Medium"
+tags: ["OPC UA", "Industrial IoT", "REST Gateway", "MCP Integration", "Real-time Data Streaming"]
+source: "https://github.com/AndreasHeine/i3x2ua"
 stars: 10
-language: Python
-last_updated: '2026-07-13T18:33:32Z'
-discovered_at: '2026-07-13T18:43:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T18:33:32Z"
+discovered_at: "2026-07-13T18:43:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

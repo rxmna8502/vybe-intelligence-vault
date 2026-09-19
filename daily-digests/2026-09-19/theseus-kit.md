@@ -1,34 +1,19 @@
 ---
-title: A2C-SMCP/theseus-kit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastMCP
-- MCP (Model Context Protocol)
-- A2C-SMCP
-- OAuth 2.0
-- JWT
-- Pydantic
-- HTTPX
-- uv
-- pytest
+title: "A2C-SMCP/theseus-kit"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastMCP", "MCP (Model Context Protocol)", "A2C-SMCP", "OAuth 2.0", "JWT", "Pydantic", "HTTPX", "uv", "pytest"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Configuration Management
-- TFRobot
-- A2C-SMCP
-- Robotics
-source: https://github.com/A2C-SMCP/theseus-kit
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Configuration Management", "TFRobot", "A2C-SMCP", "Robotics"]
+source: "https://github.com/A2C-SMCP/theseus-kit"
 stars: 0
-language: Python
-last_updated: '2026-08-10T09:19:26Z'
-discovered_at: '2026-08-10T09:24:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T09:19:26Z"
+discovered_at: "2026-08-10T09:24:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

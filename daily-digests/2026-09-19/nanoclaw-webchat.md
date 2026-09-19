@@ -1,34 +1,19 @@
 ---
-title: Artificer-Innovations/nanoclaw-webchat
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- pnpm
-- WebSocket
-- SQLite
-- Vite
-- MCP (Model Context Protocol)
-- OAuth/OIDC
-- Tailwind CSS
+title: "Artificer-Innovations/nanoclaw-webchat"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Node.js", "pnpm", "WebSocket", "SQLite", "Vite", "MCP (Model Context Protocol)", "OAuth/OIDC", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent interface
-- local-first chat
-- multi-agent communication
-- threaded conversations
-- MCP integration
-source: https://github.com/Artificer-Innovations/nanoclaw-webchat
+deployment_complexity: "Medium"
+tags: ["AI agent interface", "local-first chat", "multi-agent communication", "threaded conversations", "MCP integration"]
+source: "https://github.com/Artificer-Innovations/nanoclaw-webchat"
 stars: 4
-language: TypeScript
-last_updated: '2026-07-19T21:47:05Z'
-discovered_at: '2026-07-19T21:51:22Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T21:47:05Z"
+discovered_at: "2026-07-19T21:51:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

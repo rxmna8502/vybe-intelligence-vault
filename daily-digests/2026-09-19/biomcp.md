@@ -1,39 +1,19 @@
 ---
-title: genomoncology/biomcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- Python
-- Model Context Protocol (MCP)
-- Docker
-- Homebrew
-- g:Profiler
-- Enrichr
-- PubTator3
-- Europe PMC
-- Semantic Scholar
-- OpenFDA
-- ClinVar
-- Reactome
-- MyGene.info
-- UniProt
+title: "genomoncology/biomcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Python", "Model Context Protocol (MCP)", "Docker", "Homebrew", "g:Profiler", "Enrichr", "PubTator3", "Europe PMC", "Semantic Scholar", "OpenFDA", "ClinVar", "Reactome", "MyGene.info", "UniProt"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- biomedical data integration
-- MCP server
-- cross-entity discovery
-- evidence retrieval
-- AI agent tooling
-source: https://github.com/genomoncology/biomcp
+deployment_complexity: "Medium"
+tags: ["biomedical data integration", "MCP server", "cross-entity discovery", "evidence retrieval", "AI agent tooling"]
+source: "https://github.com/genomoncology/biomcp"
 stars: 625
-language: Rust
-last_updated: '2026-09-03T21:55:59Z'
-discovered_at: '2026-09-03T22:11:04Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-03T21:55:59Z"
+discovered_at: "2026-09-03T22:11:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

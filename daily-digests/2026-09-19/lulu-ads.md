@@ -1,35 +1,19 @@
 ---
-title: Lulu-The-Narwhal/lulu-ads
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- TypeScript
-- MCP (Model Context Protocol)
-- FastMCP
-- LangChain
-- LangGraph
-- CrewAI
-- REST APIs
-- JWT
-- CORS
-- WebSockets
+title: "Lulu-The-Narwhal/lulu-ads"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "TypeScript", "MCP (Model Context Protocol)", "FastMCP", "LangChain", "LangGraph", "CrewAI", "REST APIs", "JWT", "CORS", "WebSockets"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- monetization
-- MCP servers
-- AI agents
-- sponsored slots
-- CPA
-source: https://github.com/Lulu-The-Narwhal/lulu-ads
+deployment_complexity: "Medium"
+tags: ["monetization", "MCP servers", "AI agents", "sponsored slots", "CPA"]
+source: "https://github.com/Lulu-The-Narwhal/lulu-ads"
 stars: 1
-language: Python
-last_updated: '2026-07-21T08:45:58Z'
-discovered_at: '2026-07-21T15:03:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T08:45:58Z"
+discovered_at: "2026-07-21T15:03:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

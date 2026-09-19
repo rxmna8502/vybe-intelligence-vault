@@ -1,30 +1,19 @@
 ---
-title: neeshykha/skill-regression-harness
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Python
-- JSON
-- CLI
-- OAuth
-- Static Analysis
-- Regression Testing
+title: "neeshykha/skill-regression-harness"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "JSON", "CLI", "OAuth", "Static Analysis", "Regression Testing"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- skill-regression
-- claude-ai
-- prompt-matching
-- dispatch-validation
-- authentication-check
-source: https://github.com/neeshykha/skill-regression-harness
+deployment_complexity: "Medium"
+tags: ["skill-regression", "claude-ai", "prompt-matching", "dispatch-validation", "authentication-check"]
+source: "https://github.com/neeshykha/skill-regression-harness"
 stars: 0
-language: Python
-last_updated: '2026-08-29T14:47:52Z'
-discovered_at: '2026-09-04T02:21:04Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-29T14:47:52Z"
+discovered_at: "2026-09-04T02:21:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

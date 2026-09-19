@@ -1,29 +1,19 @@
 ---
-title: smeet666/mcp-lrclib
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- HTTP
-- REST API
+title: "smeet666/mcp-lrclib"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "HTTP", "REST API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- lyrics
-- MCP server
-- LRC format
-- time-synced lyrics
-- music metadata
-source: https://github.com/smeet666/mcp-lrclib
+deployment_complexity: "Low"
+tags: ["lyrics", "MCP server", "LRC format", "time-synced lyrics", "music metadata"]
+source: "https://github.com/smeet666/mcp-lrclib"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-03T18:51:17Z'
-discovered_at: '2026-08-03T18:52:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T18:51:17Z"
+discovered_at: "2026-08-03T18:52:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

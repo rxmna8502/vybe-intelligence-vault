@@ -1,31 +1,19 @@
 ---
-title: semwalajay83-sem/salesforce-metadata-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- Salesforce Metadata API
-- Model Context Protocol (MCP)
-- Apex
-- Lightning Web Components (LWC)
-- Agentforce
+title: "semwalajay83-sem/salesforce-metadata-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Salesforce Metadata API", "Model Context Protocol (MCP)", "Apex", "Lightning Web Components (LWC)", "Agentforce"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Salesforce
-- MCP server
-- Metadata management
-- Agent automation
-- DevOps
-source: https://github.com/semwalajay83-sem/salesforce-metadata-mcp
+deployment_complexity: "Medium"
+tags: ["Salesforce", "MCP server", "Metadata management", "Agent automation", "DevOps"]
+source: "https://github.com/semwalajay83-sem/salesforce-metadata-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-03T06:17:51Z'
-discovered_at: '2026-08-03T06:23:22Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T06:17:51Z"
+discovered_at: "2026-08-03T06:23:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

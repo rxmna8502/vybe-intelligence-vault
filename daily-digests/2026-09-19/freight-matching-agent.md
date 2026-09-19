@@ -1,29 +1,19 @@
 ---
-title: Torch-ju/freight-matching-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Agentic AI
-- Operations Research
-- Logistics Workflow Design
-- Prompt Engineering
-- State Tracking
+title: "Torch-ju/freight-matching-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Agentic AI", "Operations Research", "Logistics Workflow Design", "Prompt Engineering", "State Tracking"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- logistics automation
-- agentic workflow
-- decision support
-- freight matching
-- operations research
-source: https://github.com/Torch-ju/freight-matching-agent
+deployment_complexity: "Medium"
+tags: ["logistics automation", "agentic workflow", "decision support", "freight matching", "operations research"]
+source: "https://github.com/Torch-ju/freight-matching-agent"
 stars: 0
-language: None
-last_updated: '2026-07-12T08:14:29Z'
-discovered_at: '2026-07-12T08:15:18Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-12T08:14:29Z"
+discovered_at: "2026-07-12T08:15:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

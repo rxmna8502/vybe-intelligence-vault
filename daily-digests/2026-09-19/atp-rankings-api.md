@@ -1,35 +1,19 @@
 ---
-title: Jupiterian/ATP-Rankings-API
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- FastAPI
-- SQLite
-- BeautifulSoup4
-- Matplotlib
-- Chart.js
-- Jinja2
-- Pydantic
-- Uvicorn
-- Docker
-- Pytest
+title: "Jupiterian/ATP-Rankings-API"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "SQLite", "BeautifulSoup4", "Matplotlib", "Chart.js", "Jinja2", "Pydantic", "Uvicorn", "Docker", "Pytest"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- tennis data
-- web scraping
-- data visualization
-- AI integration
-- MCP server
-source: https://github.com/Jupiterian/ATP-Rankings-API
+deployment_complexity: "Medium"
+tags: ["tennis data", "web scraping", "data visualization", "AI integration", "MCP server"]
+source: "https://github.com/Jupiterian/ATP-Rankings-API"
 stars: 3
-language: HTML
-last_updated: '2026-08-08T20:22:02Z'
-discovered_at: '2026-08-08T20:32:11Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-08T20:22:02Z"
+discovered_at: "2026-08-08T20:32:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

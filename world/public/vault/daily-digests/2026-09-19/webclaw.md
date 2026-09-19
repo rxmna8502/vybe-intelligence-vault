@@ -1,33 +1,19 @@
 ---
-title: 0xMassi/webclaw
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- Rust
-- TypeScript
-- Python
-- Go
-- CLI
-- MCP (Model Context Protocol)
-- REST API
-- Docker
-- LLM Integration (Ollama, OpenAI, Anthropic)
+title: "0xMassi/webclaw"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "TypeScript", "Python", "Go", "CLI", "MCP (Model Context Protocol)", "REST API", "Docker", "LLM Integration (Ollama, OpenAI, Anthropic)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- web scraping
-- LLM context extraction
-- RAG pipeline
-- MCP server
-- structured data extraction
-source: https://github.com/0xMassi/webclaw
+deployment_complexity: "Medium"
+tags: ["web scraping", "LLM context extraction", "RAG pipeline", "MCP server", "structured data extraction"]
+source: "https://github.com/0xMassi/webclaw"
 stars: 1752
-language: Rust
-last_updated: '2026-07-18T16:55:27Z'
-discovered_at: '2026-07-18T16:56:32Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-18T16:55:27Z"
+discovered_at: "2026-07-18T16:56:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

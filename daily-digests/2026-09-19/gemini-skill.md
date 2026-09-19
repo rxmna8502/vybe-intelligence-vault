@@ -1,31 +1,19 @@
 ---
-title: WJZ-P/gemini-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- Node.js
-- Puppeteer
-- Chrome DevTools Protocol (CDP)
-- MCP (Model Context Protocol)
-- Atlas Cloud Provider
-- Stealth Anti-Detection (puppeteer-extra-plugin-stealth)
+title: "WJZ-P/gemini-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Puppeteer", "Chrome DevTools Protocol (CDP)", "MCP (Model Context Protocol)", "Atlas Cloud Provider", "Stealth Anti-Detection (puppeteer-extra-plugin-stealth)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- gemini integration
-- MCP server
-- AI image generation
-- CDP control
-source: https://github.com/WJZ-P/gemini-skill
+deployment_complexity: "Medium"
+tags: ["browser automation", "gemini integration", "MCP server", "AI image generation", "CDP control"]
+source: "https://github.com/WJZ-P/gemini-skill"
 stars: 828
-language: JavaScript
-last_updated: '2026-08-01T14:44:39Z'
-discovered_at: '2026-08-01T15:01:42Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T14:44:39Z"
+discovered_at: "2026-08-01T15:01:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

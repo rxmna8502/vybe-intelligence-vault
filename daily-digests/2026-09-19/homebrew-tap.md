@@ -1,29 +1,19 @@
 ---
-title: everyapi-ai/homebrew-tap
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Homebrew
-- Ruby
-- Go
-- CLI
-- MCP Server
+title: "everyapi-ai/homebrew-tap"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Homebrew", "Ruby", "Go", "CLI", "MCP Server"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- Homebrew
-- CLI
-- EveryAPI
-- MCP
-- AI Routing
-source: https://github.com/everyapi-ai/homebrew-tap
+deployment_complexity: "Low"
+tags: ["Homebrew", "CLI", "EveryAPI", "MCP", "AI Routing"]
+source: "https://github.com/everyapi-ai/homebrew-tap"
 stars: 0
-language: Ruby
-last_updated: '2026-07-12T08:14:12Z'
-discovered_at: '2026-07-12T08:15:38Z'
-evaluated_by: mistral-small-latest
+language: "Ruby"
+last_updated: "2026-07-12T08:14:12Z"
+discovered_at: "2026-07-12T08:15:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

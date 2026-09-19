@@ -1,33 +1,19 @@
 ---
-title: embeddedlayers/mcp-analytics
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- R (for statistical analysis)
-- Docker
-- OAuth2
-- Python
-- JavaScript
-- REST APIs
+title: "embeddedlayers/mcp-analytics"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "R (for statistical analysis)", "Docker", "OAuth2", "Python", "JavaScript", "REST APIs"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- statistical analysis
-- MCP integration
-- AI-powered reports
-- data orchestration
-- automated insights
-source: https://github.com/embeddedlayers/mcp-analytics
+deployment_complexity: "Medium"
+tags: ["statistical analysis", "MCP integration", "AI-powered reports", "data orchestration", "automated insights"]
+source: "https://github.com/embeddedlayers/mcp-analytics"
 stars: 7
-language: JavaScript
-last_updated: '2026-08-01T19:04:04Z'
-discovered_at: '2026-08-01T19:19:25Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T19:04:04Z"
+discovered_at: "2026-08-01T19:19:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

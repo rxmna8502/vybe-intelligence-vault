@@ -1,34 +1,19 @@
 ---
-title: 06fs4dix/Artgine-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Node.js
-- Electron
-- HTML/CSS
-- JavaScript
-- Playwright
-- Monaco Editor
-- Ollama
-- LM Studio
-- yt-dlp
-- ffmpeg
+title: "06fs4dix/Artgine-Agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "Electron", "HTML/CSS", "JavaScript", "Playwright", "Monaco Editor", "Ollama", "LM Studio", "yt-dlp", "ffmpeg"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- remote control
-- AI agent workspace
-- file management
-- terminal automation
-- multi-session chat
-source: https://github.com/06fs4dix/Artgine-Agent
+deployment_complexity: "Medium"
+tags: ["remote control", "AI agent workspace", "file management", "terminal automation", "multi-session chat"]
+source: "https://github.com/06fs4dix/Artgine-Agent"
 stars: 0
-language: HTML
-last_updated: '2026-07-20T13:52:42Z'
-discovered_at: '2026-07-20T15:10:38Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-20T13:52:42Z"
+discovered_at: "2026-07-20T15:10:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

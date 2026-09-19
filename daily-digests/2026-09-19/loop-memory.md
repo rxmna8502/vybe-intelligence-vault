@@ -1,34 +1,19 @@
 ---
-title: smartfind/loop-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- SQLite
-- FastAPI
-- BM25
-- Semantic Search
-- MCP (Model Context Protocol)
-- JSON/JSONL
-- CLI
-- Web UI
-- Git
+title: "smartfind/loop-memory"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "FastAPI", "BM25", "Semantic Search", "MCP (Model Context Protocol)", "JSON/JSONL", "CLI", "Web UI", "Git"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- agent memory
-- local-first
-- knowledge distillation
-- multi-agent
-- persistent context
-source: https://github.com/smartfind/loop-memory
+deployment_complexity: "Medium"
+tags: ["agent memory", "local-first", "knowledge distillation", "multi-agent", "persistent context"]
+source: "https://github.com/smartfind/loop-memory"
 stars: 1
-language: Python
-last_updated: '2026-08-09T12:47:57Z'
-discovered_at: '2026-08-09T12:50:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T12:47:57Z"
+discovered_at: "2026-08-09T12:50:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

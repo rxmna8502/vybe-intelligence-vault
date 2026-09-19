@@ -1,31 +1,19 @@
 ---
-title: Fmarzochi/EGC
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- TypeScript
-- Shell scripting
-- Git hooks
-- Security scanning (SonarCloud, OpenSSF)
+title: "Fmarzochi/EGC"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "TypeScript", "Shell scripting", "Git hooks", "Security scanning (SonarCloud, OpenSSF)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent memory
-- persistent context
-- multi-tool integration
-- security enforcement
-- token optimization
-source: https://github.com/Fmarzochi/EGC
+deployment_complexity: "Medium"
+tags: ["AI agent memory", "persistent context", "multi-tool integration", "security enforcement", "token optimization"]
+source: "https://github.com/Fmarzochi/EGC"
 stars: 35
-language: JavaScript
-last_updated: '2026-07-18T21:42:39Z'
-discovered_at: '2026-07-18T21:50:01Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-18T21:42:39Z"
+discovered_at: "2026-07-18T21:50:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: raafehmd/hybrid-rag-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- LangChain
-- Vector Databases
-- LLMs
+title: "raafehmd/hybrid-rag-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangChain", "Vector Databases", "LLMs"]
 quality_score: 3
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- RAG
-- Agentic AI
-- LangChain
-- Document Retrieval
-- AI Agents
-source: https://github.com/raafehmd/hybrid-rag-agent
+deployment_complexity: "Medium"
+tags: ["RAG", "Agentic AI", "LangChain", "Document Retrieval", "AI Agents"]
+source: "https://github.com/raafehmd/hybrid-rag-agent"
 stars: 1
-language: None
-last_updated: '2026-07-21T17:11:50Z'
-discovered_at: '2026-07-21T17:16:34Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-21T17:11:50Z"
+discovered_at: "2026-07-21T17:16:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

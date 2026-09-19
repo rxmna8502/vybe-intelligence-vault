@@ -1,32 +1,19 @@
 ---
-title: sprawz/gtm-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- Google Tag Manager API
-- OAuth 2.1
-- Docker
-- Google Cloud Platform
-- JSON
-- HTTP/Streamable Transport
+title: "sprawz/gtm-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "Google Tag Manager API", "OAuth 2.1", "Docker", "Google Cloud Platform", "JSON", "HTTP/Streamable Transport"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Google Tag Manager
-- AI Automation
-- Tag Management
-- Natural Language Interface
-source: https://github.com/sprawz/gtm-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Google Tag Manager", "AI Automation", "Tag Management", "Natural Language Interface"]
+source: "https://github.com/sprawz/gtm-mcp-server"
 stars: 145
-language: Go
-last_updated: '2026-08-07T16:51:04Z'
-discovered_at: '2026-08-07T16:57:14Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T16:51:04Z"
+discovered_at: "2026-08-07T16:57:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

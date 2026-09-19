@@ -1,33 +1,19 @@
 ---
-title: ray-aqno/Toto-Wolff
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- pnpm
-- Claude Code
-- Anthropic API
-- MCP (Model Context Protocol)
-- Markdown
-- YAML
-- Obsidian
+title: "ray-aqno/Toto-Wolff"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "pnpm", "Claude Code", "Anthropic API", "MCP (Model Context Protocol)", "Markdown", "YAML", "Obsidian"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI governance
-- multi-model deliberation
-- pre-execution safety
-- architectural decision records
-- Claude Code integration
-source: https://github.com/ray-aqno/Toto-Wolff
+deployment_complexity: "Medium"
+tags: ["AI governance", "multi-model deliberation", "pre-execution safety", "architectural decision records", "Claude Code integration"]
+source: "https://github.com/ray-aqno/Toto-Wolff"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-06T04:18:26Z'
-discovered_at: '2026-08-07T04:57:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T04:18:26Z"
+discovered_at: "2026-08-07T04:57:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

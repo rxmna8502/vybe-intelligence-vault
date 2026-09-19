@@ -1,39 +1,19 @@
 ---
-title: nodaroai/app.nodaro.ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- React
-- Fastify
-- Node.js
-- Redis
-- BullMQ
-- Supabase
-- Remotion
-- FFmpeg
-- Docker
-- React Flow
-- Tailwind CSS
-- Zod
-- OpenAPI 3.1
-- Cloudflare R2
+title: "nodaroai/app.nodaro.ai"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "React", "Fastify", "Node.js", "Redis", "BullMQ", "Supabase", "Remotion", "FFmpeg", "Docker", "React Flow", "Tailwind CSS", "Zod", "OpenAPI 3.1", "Cloudflare R2"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI media workflows
-- node-based pipelines
-- multi-model orchestration
-- MCP integration
-- self-hostable
-source: https://github.com/nodaroai/app.nodaro.ai
+deployment_complexity: "Medium"
+tags: ["AI media workflows", "node-based pipelines", "multi-model orchestration", "MCP integration", "self-hostable"]
+source: "https://github.com/nodaroai/app.nodaro.ai"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-10T16:05:00Z'
-discovered_at: '2026-08-10T16:07:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T16:05:00Z"
+discovered_at: "2026-08-10T16:07:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

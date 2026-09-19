@@ -1,31 +1,19 @@
 ---
-title: anipotts/claude-code-tips
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- Bash
-- SQLite
-- Anthropic Claude Code
-- Git
-- CI/CD (GitHub Actions)
-- MCP (Model Context Protocol)
+title: "anipotts/claude-code-tips"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Bash", "SQLite", "Anthropic Claude Code", "Git", "CI/CD (GitHub Actions)", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Claude Code
-- AI coding assistants
-- session analytics
-- automation
-- productivity tools
-source: https://github.com/anipotts/claude-code-tips
+deployment_complexity: "Medium"
+tags: ["Claude Code", "AI coding assistants", "session analytics", "automation", "productivity tools"]
+source: "https://github.com/anipotts/claude-code-tips"
 stars: 27
-language: Python
-last_updated: '2026-07-11T07:47:14Z'
-discovered_at: '2026-07-11T07:52:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T07:47:14Z"
+discovered_at: "2026-07-11T07:52:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

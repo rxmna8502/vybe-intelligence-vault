@@ -1,30 +1,19 @@
 ---
-title: DeliciousBuding/codex-browser-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- Chrome DevTools Protocol (CDP)
-- MCP (Model Context Protocol)
-- JSON-RPC
-- Windows Named Pipes
-- TOML (for configuration)
+title: "DeliciousBuding/codex-browser-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Chrome DevTools Protocol (CDP)", "MCP (Model Context Protocol)", "JSON-RPC", "Windows Named Pipes", "TOML (for configuration)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- browser automation
-- MCP server
-- Chrome control
-- agent integration
-- RAG tooling
-source: https://github.com/DeliciousBuding/codex-browser-bridge
+deployment_complexity: "Medium"
+tags: ["browser automation", "MCP server", "Chrome control", "agent integration", "RAG tooling"]
+source: "https://github.com/DeliciousBuding/codex-browser-bridge"
 stars: 13
-language: Rust
-last_updated: '2026-08-02T17:54:10Z'
-discovered_at: '2026-08-02T18:02:44Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-02T17:54:10Z"
+discovered_at: "2026-08-02T18:02:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

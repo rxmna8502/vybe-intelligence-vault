@@ -1,32 +1,19 @@
 ---
-title: longyijdos/kana
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Bun
-- Terminal UI (raw terminal, ANSI escape codes)
-- MCP (JSON-RPC, Streamable HTTP, stdio)
-- OAuth 2.0/OIDC with PKCE
-- SSE (Server-Sent Events)
-- JSONL (for session persistence)
-- TOML (for configuration)
+title: "longyijdos/kana"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Terminal UI (raw terminal, ANSI escape codes)", "MCP (JSON-RPC, Streamable HTTP, stdio)", "OAuth 2.0/OIDC with PKCE", "SSE (Server-Sent Events)", "JSONL (for session persistence)", "TOML (for configuration)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local-first
-- terminal-native
-- agent-runtime
-- MCP-support
-- OAuth-integration
-source: https://github.com/longyijdos/kana
+deployment_complexity: "Medium"
+tags: ["local-first", "terminal-native", "agent-runtime", "MCP-support", "OAuth-integration"]
+source: "https://github.com/longyijdos/kana"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-08T10:32:59Z'
-discovered_at: '2026-08-08T10:34:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T10:32:59Z"
+discovered_at: "2026-08-08T10:34:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

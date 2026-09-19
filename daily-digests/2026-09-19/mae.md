@@ -1,40 +1,19 @@
 ---
-title: cuttlefisch/mae
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- R7RS Scheme
-- CRDT (yrs/YATA)
-- CozoDB
-- Tree-sitter
-- LSP (Language Server Protocol)
-- DAP (Debug Adapter Protocol)
-- winit
-- Skia
-- ratatui
-- alacritty_terminal
-- Claude API
-- OpenAI API
-- Gemini API
-- DeepSeek API
-- Ollama
+title: "cuttlefisch/mae"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Rust", "R7RS Scheme", "CRDT (yrs/YATA)", "CozoDB", "Tree-sitter", "LSP (Language Server Protocol)", "DAP (Debug Adapter Protocol)", "winit", "Skia", "ratatui", "alacritty_terminal", "Claude API", "OpenAI API", "Gemini API", "DeepSeek API", "Ollama"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- IDE
-- AI-native
-- Collaborative editing
-- Multi-language support
-- Lisp machine
-source: https://github.com/cuttlefisch/mae
+deployment_complexity: "High"
+tags: ["IDE", "AI-native", "Collaborative editing", "Multi-language support", "Lisp machine"]
+source: "https://github.com/cuttlefisch/mae"
 stars: 3
-language: Rust
-last_updated: '2026-08-04T19:30:14Z'
-discovered_at: '2026-08-04T19:32:16Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-04T19:30:14Z"
+discovered_at: "2026-08-04T19:32:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

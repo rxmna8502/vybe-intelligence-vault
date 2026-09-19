@@ -1,33 +1,19 @@
 ---
-title: shixi-11/alux-ai-agent-daily
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- HTML
-- Markdown
-- JavaScript
-- PowerShell
-- Node.js
-- Vercel
-- Automation Scripts
-- Translation Workflows
-- SEO Optimization
+title: "shixi-11/alux-ai-agent-daily"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "Markdown", "JavaScript", "PowerShell", "Node.js", "Vercel", "Automation Scripts", "Translation Workflows", "SEO Optimization"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agent Intelligence
-- Daily Reports
-- Bilingual Content
-- Production Runtimes
-- Security & Governance
-source: https://github.com/shixi-11/alux-ai-agent-daily
+deployment_complexity: "Medium"
+tags: ["AI Agent Intelligence", "Daily Reports", "Bilingual Content", "Production Runtimes", "Security & Governance"]
+source: "https://github.com/shixi-11/alux-ai-agent-daily"
 stars: 0
-language: HTML
-last_updated: '2026-07-15T12:10:08Z'
-discovered_at: '2026-07-15T12:14:16Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-15T12:10:08Z"
+discovered_at: "2026-07-15T12:14:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

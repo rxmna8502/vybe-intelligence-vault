@@ -1,32 +1,19 @@
 ---
-title: ratacat/minimal-slack-bot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Bun
-- Claude Agent SDK
-- Slack API
-- Socket Mode
-- SQLite
-- pm2
-- Anthropic API
+title: "ratacat/minimal-slack-bot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Claude Agent SDK", "Slack API", "Socket Mode", "SQLite", "pm2", "Anthropic API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Slack integration
-- self-hosted AI agent
-- Claude SDK
-- code editing
-- approval workflows
-source: https://github.com/ratacat/minimal-slack-bot
+deployment_complexity: "Low"
+tags: ["Slack integration", "self-hosted AI agent", "Claude SDK", "code editing", "approval workflows"]
+source: "https://github.com/ratacat/minimal-slack-bot"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-14T22:54:53Z'
-discovered_at: '2026-07-14T22:55:59Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T22:54:53Z"
+discovered_at: "2026-07-14T22:55:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

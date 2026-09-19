@@ -1,31 +1,19 @@
 ---
-title: haya-inc/wasmhatch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- WebAssembly (Wasm)
-- QuickJS
-- React
-- Node.js
-- Google APIs (Docs, Sheets, Slides)
-- CSV/Excel Processing
+title: "haya-inc/wasmhatch"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "WebAssembly (Wasm)", "QuickJS", "React", "Node.js", "Google APIs (Docs, Sheets, Slides)", "CSV/Excel Processing"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- browser-native
-- local-first
-- AI agent
-- data transformation
-- sandboxed execution
-source: https://github.com/haya-inc/wasmhatch
+deployment_complexity: "Low"
+tags: ["browser-native", "local-first", "AI agent", "data transformation", "sandboxed execution"]
+source: "https://github.com/haya-inc/wasmhatch"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-12T16:59:08Z'
-discovered_at: '2026-07-12T17:03:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T16:59:08Z"
+discovered_at: "2026-07-12T17:03:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: KikoCis/elffuss-code
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- WebGPU
-- Monaco Editor
-- WebAssembly
-- ONNX Runtime
-- transformers.js
-- Python (for local server)
-- File System Access API
-- LiteRT-LM
+title: "KikoCis/elffuss-code"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["JavaScript", "WebGPU", "Monaco Editor", "WebAssembly", "ONNX Runtime", "transformers.js", "Python (for local server)", "File System Access API", "LiteRT-LM"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- browser-based IDE
-- local AI agent
-- WebGPU acceleration
-- code editing
-- privacy-focused
-source: https://github.com/KikoCis/elffuss-code
+deployment_complexity: "Medium"
+tags: ["browser-based IDE", "local AI agent", "WebGPU acceleration", "code editing", "privacy-focused"]
+source: "https://github.com/KikoCis/elffuss-code"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T06:16:34Z'
-discovered_at: '2026-08-01T06:29:09Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T06:16:34Z"
+discovered_at: "2026-08-01T06:29:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

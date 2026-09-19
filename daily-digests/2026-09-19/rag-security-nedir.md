@@ -1,30 +1,19 @@
 ---
-title: fevziegeyurtsevenler/RAG-Security-Nedir
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Markdown
-- OWASP LLM08
-- Vector Databases
-- Embedding Models
-- LLM Security
-- RAG Architecture
+title: "fevziegeyurtsevenler/RAG-Security-Nedir"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "OWASP LLM08", "Vector Databases", "Embedding Models", "LLM Security", "RAG Architecture"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- RAG Security
-- OWASP LLM08
-- Vektör Veritabanı Güvenliği
-- Prompt Injection
-- Veri Zehirleme
-source: https://github.com/fevziegeyurtsevenler/RAG-Security-Nedir
+deployment_complexity: "Low"
+tags: ["RAG Security", "OWASP LLM08", "Vekt\u00f6r Veritaban\u0131 G\u00fcvenli\u011fi", "Prompt Injection", "Veri Zehirleme"]
+source: "https://github.com/fevziegeyurtsevenler/RAG-Security-Nedir"
 stars: 2
-language: None
-last_updated: '2026-08-08T23:21:33Z'
-discovered_at: '2026-08-08T23:31:49Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T23:21:33Z"
+discovered_at: "2026-08-08T23:31:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

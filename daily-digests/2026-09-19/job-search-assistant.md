@@ -1,33 +1,19 @@
 ---
-title: MezaGabriel/job-search-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- Node.js 22 LTS
-- Claude Desktop
-- Claude Code CLI
-- Apify
-- Google Chrome
-- SQLite
-- Google OAuth
-- PDF generation
+title: "MezaGabriel/job-search-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js 22 LTS", "Claude Desktop", "Claude Code CLI", "Apify", "Google Chrome", "SQLite", "Google OAuth", "PDF generation"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- job search automation
-- AI copilot
-- CV tailoring
-- recruiter outreach
-- local processing
-source: https://github.com/MezaGabriel/job-search-assistant
+deployment_complexity: "Medium"
+tags: ["job search automation", "AI copilot", "CV tailoring", "recruiter outreach", "local processing"]
+source: "https://github.com/MezaGabriel/job-search-assistant"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T03:35:02Z'
-discovered_at: '2026-08-01T03:43:53Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T03:35:02Z"
+discovered_at: "2026-08-01T03:43:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

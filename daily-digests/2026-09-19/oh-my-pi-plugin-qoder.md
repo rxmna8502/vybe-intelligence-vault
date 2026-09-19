@@ -1,30 +1,19 @@
 ---
-title: metaphorics/oh-my-pi-plugin-qoder
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- oh-my-pi
-- Qoder API
-- OpenAI-compatible endpoints
-- PKCE (Proof Key for Code Exchange)
-- SSE (Server-Sent Events)
+title: "metaphorics/oh-my-pi-plugin-qoder"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "oh-my-pi", "Qoder API", "OpenAI-compatible endpoints", "PKCE (Proof Key for Code Exchange)", "SSE (Server-Sent Events)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Qoder integration
-- oh-my-pi extension
-- model catalog
-- browser login
-- SSE repair
-source: https://github.com/metaphorics/oh-my-pi-plugin-qoder
+deployment_complexity: "Low"
+tags: ["Qoder integration", "oh-my-pi extension", "model catalog", "browser login", "SSE repair"]
+source: "https://github.com/metaphorics/oh-my-pi-plugin-qoder"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-21T17:06:54Z'
-discovered_at: '2026-07-21T17:16:41Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T17:06:54Z"
+discovered_at: "2026-07-21T17:16:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

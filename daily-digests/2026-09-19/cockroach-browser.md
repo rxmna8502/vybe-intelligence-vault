@@ -1,33 +1,19 @@
 ---
-title: AjnasNB/cockroach-browser
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Chromium
-- Playwright
-- Node.js
-- MCP (Model Context Protocol)
-- Docker
-- Maqam
-- REST API
-- CDP (Chrome DevTools Protocol)
+title: "AjnasNB/cockroach-browser"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Chromium", "Playwright", "Node.js", "MCP (Model Context Protocol)", "Docker", "Maqam", "REST API", "CDP (Chrome DevTools Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- AI agent runtime
-- secure web interaction
-- evidence capture
-- policy governance
-source: https://github.com/AjnasNB/cockroach-browser
+deployment_complexity: "Medium"
+tags: ["browser automation", "AI agent runtime", "secure web interaction", "evidence capture", "policy governance"]
+source: "https://github.com/AjnasNB/cockroach-browser"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-02T16:06:01Z'
-discovered_at: '2026-08-02T16:11:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T16:06:01Z"
+discovered_at: "2026-08-02T16:11:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

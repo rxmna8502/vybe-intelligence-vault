@@ -1,33 +1,19 @@
 ---
-title: ruvnet/metaharness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- npm
-- GitHub Actions
-- Witness-signed provenance
-- Machine Learning (Darwin Mode, Weight-EFT)
-- Static Analysis
+title: "ruvnet/metaharness"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "npm", "GitHub Actions", "Witness-signed provenance", "Machine Learning (Darwin Mode, Weight-EFT)", "Static Analysis"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- agent scaffolding
-- repo-aware AI
-- MCP server
-- cost optimization
-- self-improving harness
-source: https://github.com/ruvnet/metaharness
+deployment_complexity: "Medium"
+tags: ["agent scaffolding", "repo-aware AI", "MCP server", "cost optimization", "self-improving harness"]
+source: "https://github.com/ruvnet/metaharness"
 stars: 483
-language: TypeScript
-last_updated: '2026-07-17T22:47:26Z'
-discovered_at: '2026-07-17T22:47:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T22:47:26Z"
+discovered_at: "2026-07-17T22:47:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

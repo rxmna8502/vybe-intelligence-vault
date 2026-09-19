@@ -1,32 +1,19 @@
 ---
-title: daviderosso-data/easyclaude
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Next.js
-- Node.js
-- React
-- Claude Code SDK
-- Vitest
-- ESLint
-- GitHub Actions
+title: "daviderosso-data/easyclaude"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Next.js", "Node.js", "React", "Claude Code SDK", "Vitest", "ESLint", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Claude Code
-- AI agent interface
-- local development
-- multi-agent orchestration
-- security profiles
-source: https://github.com/daviderosso-data/easyclaude
+deployment_complexity: "Medium"
+tags: ["Claude Code", "AI agent interface", "local development", "multi-agent orchestration", "security profiles"]
+source: "https://github.com/daviderosso-data/easyclaude"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-19T20:40:57Z'
-discovered_at: '2026-07-19T20:44:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T20:40:57Z"
+discovered_at: "2026-07-19T20:44:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

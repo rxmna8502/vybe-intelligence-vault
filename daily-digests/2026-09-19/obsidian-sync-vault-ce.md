@@ -1,30 +1,19 @@
 ---
-title: abcamus/obsidian-sync-vault-ce
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Obsidian Plugin
-- Model Context Protocol (MCP)
-- Server-Sent Events (SSE)
-- React
-- Node.js
+title: "abcamus/obsidian-sync-vault-ce"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Obsidian Plugin", "Model Context Protocol (MCP)", "Server-Sent Events (SSE)", "React", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- cloud sync
-- MCP server
-- Obsidian plugin
-- multi-cloud support
-- AI agent integration
-source: https://github.com/abcamus/obsidian-sync-vault-ce
+deployment_complexity: "Medium"
+tags: ["cloud sync", "MCP server", "Obsidian plugin", "multi-cloud support", "AI agent integration"]
+source: "https://github.com/abcamus/obsidian-sync-vault-ce"
 stars: 106
-language: TypeScript
-last_updated: '2026-07-18T09:19:50Z'
-discovered_at: '2026-07-18T09:23:58Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T09:19:50Z"
+discovered_at: "2026-07-18T09:23:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

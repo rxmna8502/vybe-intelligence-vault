@@ -1,30 +1,19 @@
 ---
-title: MadeOnSol/madeonsol-python
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- REST API
-- WebSocket
-- Solana
-- LangChain
-- CrewAI
+title: "MadeOnSol/madeonsol-python"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "REST API", "WebSocket", "Solana", "LangChain", "CrewAI"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Solana
-- KOL intelligence
-- real-time data
-- trading signals
-- AI tooling
-source: https://github.com/MadeOnSol/madeonsol-python
+deployment_complexity: "Medium"
+tags: ["Solana", "KOL intelligence", "real-time data", "trading signals", "AI tooling"]
+source: "https://github.com/MadeOnSol/madeonsol-python"
 stars: 0
-language: Python
-last_updated: '2026-08-31T18:10:26Z'
-discovered_at: '2026-09-02T19:11:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-31T18:10:26Z"
+discovered_at: "2026-09-02T19:11:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

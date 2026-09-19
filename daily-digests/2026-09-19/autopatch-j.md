@@ -1,31 +1,19 @@
 ---
-title: xLabel/AutoPatch-J
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- LLM (OpenAI-compatible API)
-- Semgrep (static analysis)
-- SQLite (memory storage)
-- Rich (CLI UI)
-- Prompt Toolkit (CLI framework)
-- ReAct (Agent framework)
+title: "xLabel/AutoPatch-J"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LLM (OpenAI-compatible API)", "Semgrep (static analysis)", "SQLite (memory storage)", "Rich (CLI UI)", "Prompt Toolkit (CLI framework)", "ReAct (Agent framework)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI code repair
-- Java static analysis
-- LLM-guided patching
-- human-in-the-loop review
-- evidence-grounded reasoning
-source: https://github.com/xLabel/AutoPatch-J
+deployment_complexity: "Medium"
+tags: ["AI code repair", "Java static analysis", "LLM-guided patching", "human-in-the-loop review", "evidence-grounded reasoning"]
+source: "https://github.com/xLabel/AutoPatch-J"
 stars: 1
-language: Python
-last_updated: '2026-07-13T21:46:29Z'
-discovered_at: '2026-07-13T21:55:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T21:46:29Z"
+discovered_at: "2026-07-13T21:55:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

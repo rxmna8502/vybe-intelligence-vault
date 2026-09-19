@@ -1,31 +1,19 @@
 ---
-title: smbcloudXYZ/smbcloud-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- CLI
-- npm
-- NuGet
-- pip
-- Homebrew
+title: "smbcloudXYZ/smbcloud-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "CLI", "npm", "NuGet", "pip", "Homebrew"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- CLI
-- MCP server
-- deployment
-- authentication
-- email management
-source: https://github.com/smbcloudXYZ/smbcloud-cli
+deployment_complexity: "Low"
+tags: ["CLI", "MCP server", "deployment", "authentication", "email management"]
+source: "https://github.com/smbcloudXYZ/smbcloud-cli"
 stars: 7
-language: Rust
-last_updated: '2026-08-02T08:18:27Z'
-discovered_at: '2026-08-02T08:22:55Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-02T08:18:27Z"
+discovered_at: "2026-08-02T08:22:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

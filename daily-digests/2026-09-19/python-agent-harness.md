@@ -1,30 +1,19 @@
 ---
-title: beacoder/python-agent-harness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- OpenAI API
-- Rich
-- HTTPX
-- Prompt Toolkit
-- JSON
+title: "beacoder/python-agent-harness"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "OpenAI API", "Rich", "HTTPX", "Prompt Toolkit", "JSON"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- coding agent
-- minimal dependencies
-- context management
-- safety controls
-- TUI interface
-source: https://github.com/beacoder/python-agent-harness
+deployment_complexity: "Medium"
+tags: ["coding agent", "minimal dependencies", "context management", "safety controls", "TUI interface"]
+source: "https://github.com/beacoder/python-agent-harness"
 stars: 0
-language: Python
-last_updated: '2026-08-08T03:27:18Z'
-discovered_at: '2026-08-08T03:27:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T03:27:18Z"
+discovered_at: "2026-08-08T03:27:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

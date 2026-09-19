@@ -1,32 +1,19 @@
 ---
-title: flack0x/trendspyg
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Python
-- SQLite
-- Asyncio
-- MCP SDK
-- Pandas
-- FastAPI
-- PyPI
-- GitHub Actions
+title: "flack0x/trendspyg"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "Asyncio", "MCP SDK", "Pandas", "FastAPI", "PyPI", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Google Trends
-- Real-time data
-- Historical archiving
-- CLI tool
-- Agent integration
-source: https://github.com/flack0x/trendspyg
+deployment_complexity: "Medium"
+tags: ["Google Trends", "Real-time data", "Historical archiving", "CLI tool", "Agent integration"]
+source: "https://github.com/flack0x/trendspyg"
 stars: 36
-language: Python
-last_updated: '2026-08-05T11:14:05Z'
-discovered_at: '2026-08-05T11:23:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T11:14:05Z"
+discovered_at: "2026-08-05T11:23:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

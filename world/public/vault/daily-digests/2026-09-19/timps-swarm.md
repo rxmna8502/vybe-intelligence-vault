@@ -1,34 +1,19 @@
 ---
-title: Sandeeprdy1729/timps-swarm
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-19
-tech_stack:
-- TypeScript
-- Python
-- Node.js
-- MCP Protocol
-- FastAPI
-- Ollama
-- Redis
-- Docker
-- NPM
-- LangGraph
+title: "Sandeeprdy1729/timps-swarm"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Python", "Node.js", "MCP Protocol", "FastAPI", "Ollama", "Redis", "Docker", "NPM", "LangGraph"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP
-- AI agents
-- parallel sub-agents
-- local-first
-- LLM orchestration
-source: https://github.com/Sandeeprdy1729/timps-swarm
+deployment_complexity: "Medium"
+tags: ["MCP", "AI agents", "parallel sub-agents", "local-first", "LLM orchestration"]
+source: "https://github.com/Sandeeprdy1729/timps-swarm"
 stars: 1
-language: Python
-last_updated: '2026-09-02T08:10:37Z'
-discovered_at: '2026-09-02T08:23:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T08:10:37Z"
+discovered_at: "2026-09-02T08:23:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

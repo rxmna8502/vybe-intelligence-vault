@@ -1,28 +1,19 @@
 ---
-title: ImFeH2/flowent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- JavaScript
-- Node.js
-- Natural Language Processing
-- Automation
+title: "ImFeH2/flowent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Natural Language Processing", "Automation"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- automation
-- workflow
-- natural language
-- JavaScript
-- task execution
-source: https://github.com/ImFeH2/flowent
+deployment_complexity: "Low"
+tags: ["automation", "workflow", "natural language", "JavaScript", "task execution"]
+source: "https://github.com/ImFeH2/flowent"
 stars: 283
-language: JavaScript
-last_updated: '2026-08-01T06:23:52Z'
-discovered_at: '2026-08-01T06:28:50Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T06:23:52Z"
+discovered_at: "2026-08-01T06:28:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

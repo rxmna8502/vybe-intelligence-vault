@@ -1,35 +1,19 @@
 ---
-title: phoodul/secretbank
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-19
-tech_stack:
-- Rust
-- Tauri v2
-- React 19
-- TypeScript
-- SQLite
-- age (X25519 + ChaCha20-Poly1305)
-- Yjs / SecSync CRDT
-- Cloudflare Workers
-- Tailwind CSS
-- shadcn/ui
-- Radix UI
+title: "phoodul/secretbank"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Tauri v2", "React 19", "TypeScript", "SQLite", "age (X25519 + ChaCha20-Poly1305)", "Yjs / SecSync CRDT", "Cloudflare Workers", "Tailwind CSS", "shadcn/ui", "Radix UI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- secrets management
-- dependency graph
-- zero-knowledge encryption
-- supply-chain security
-- open-core
-source: https://github.com/phoodul/secretbank
+deployment_complexity: "Medium"
+tags: ["secrets management", "dependency graph", "zero-knowledge encryption", "supply-chain security", "open-core"]
+source: "https://github.com/phoodul/secretbank"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T03:58:31Z'
-discovered_at: '2026-08-04T04:15:22Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T03:58:31Z"
+discovered_at: "2026-08-04T04:15:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
