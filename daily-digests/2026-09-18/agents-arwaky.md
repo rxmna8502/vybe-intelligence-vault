@@ -1,19 +1,33 @@
 ---
-title: "rakaarwaky/agents-arwaky"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "TypeScript", "Shell", "MCP (Model Context Protocol)", "Linux XDG Base Directory Specification", "Blender", "Playwright", "Cloudflare Workers"]
+title: rakaarwaky/agents-arwaky
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Rust
+- TypeScript
+- Shell
+- MCP (Model Context Protocol)
+- Linux XDG Base Directory Specification
+- Blender
+- Playwright
+- Cloudflare Workers
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent", "MCP orchestration", "XDG compliance", "agent framework", "tool integration"]
-source: "https://github.com/rakaarwaky/agents-arwaky"
+deployment_complexity: Medium
+tags:
+- multi-agent
+- MCP orchestration
+- XDG compliance
+- agent framework
+- tool integration
+source: https://github.com/rakaarwaky/agents-arwaky
 stars: 0
-language: "Shell"
-last_updated: "2026-09-03T22:05:43Z"
-discovered_at: "2026-09-03T22:11:53Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-09-03T22:05:43Z'
+discovered_at: '2026-09-03T22:11:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

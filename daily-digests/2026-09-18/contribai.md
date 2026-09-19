@@ -1,19 +1,35 @@
 ---
-title: "tang-vu/ContribAI"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Python", "LLM (Gemini, OpenAI, Anthropic, Ollama, Vertex AI)", "tree-sitter", "SQLite", "GitHub API", "axum", "ratatui", "Docker", "Tokio", "reqwest"]
+title: tang-vu/ContribAI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- Python
+- LLM (Gemini, OpenAI, Anthropic, Ollama, Vertex AI)
+- tree-sitter
+- SQLite
+- GitHub API
+- axum
+- ratatui
+- Docker
+- Tokio
+- reqwest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "code analysis", "pull request automation", "multi-LLM", "open-source contribution"]
-source: "https://github.com/tang-vu/ContribAI"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- code analysis
+- pull request automation
+- multi-LLM
+- open-source contribution
+source: https://github.com/tang-vu/ContribAI
 stars: 246
-language: "Rust"
-last_updated: "2026-08-08T08:39:04Z"
-discovered_at: "2026-08-08T08:42:31Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T08:39:04Z'
+discovered_at: '2026-08-08T08:42:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

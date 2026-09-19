@@ -1,19 +1,35 @@
 ---
-title: "speakeasy-api/gram"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Go", "Goa", "Temporal", "Polar", "OpenRouter", "Docker", "Mise", "OpenTelemetry", "OAuth2.1", "RBAC"]
+title: speakeasy-api/gram
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Go
+- Goa
+- Temporal
+- Polar
+- OpenRouter
+- Docker
+- Mise
+- OpenTelemetry
+- OAuth2.1
+- RBAC
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["AI control plane", "multi-agent orchestration", "enterprise security", "observability", "MCP management"]
-source: "https://github.com/speakeasy-api/gram"
+deployment_complexity: High
+tags:
+- AI control plane
+- multi-agent orchestration
+- enterprise security
+- observability
+- MCP management
+source: https://github.com/speakeasy-api/gram
 stars: 266
-language: "Go"
-last_updated: "2026-09-01T15:50:11Z"
-discovered_at: "2026-09-01T15:55:42Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T15:50:11Z'
+discovered_at: '2026-09-01T15:55:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

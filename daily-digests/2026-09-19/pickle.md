@@ -1,19 +1,31 @@
 ---
-title: "adityaarsharma/pickle"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "ClickUp API", "Slack API", "Microsoft Teams API", "Bash"]
+title: adityaarsharma/pickle
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- ClickUp API
+- Slack API
+- Microsoft Teams API
+- Bash
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI ops", "workspace audit", "local MCP server", "cross-platform integration", "privacy-focused"]
-source: "https://github.com/adityaarsharma/pickle"
+deployment_complexity: Low
+tags:
+- AI ops
+- workspace audit
+- local MCP server
+- cross-platform integration
+- privacy-focused
+source: https://github.com/adityaarsharma/pickle
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-07T11:50:37Z"
-discovered_at: "2026-08-07T11:56:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T11:50:37Z'
+discovered_at: '2026-08-07T11:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

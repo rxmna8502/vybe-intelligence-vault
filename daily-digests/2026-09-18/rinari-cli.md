@@ -1,19 +1,33 @@
 ---
-title: "Xainner/Rinari-CLI"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "uv", "OpenAI API", "SQLite", "Rich (UI rendering)", "Typer (CLI framework)", "Pytest", "MCP (Model Context Protocol)", "TOML (configuration)"]
+title: Xainner/Rinari-CLI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- uv
+- OpenAI API
+- SQLite
+- Rich (UI rendering)
+- Typer (CLI framework)
+- Pytest
+- MCP (Model Context Protocol)
+- TOML (configuration)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "terminal assistant", "local LLM", "code automation", "MCP integration"]
-source: "https://github.com/Xainner/Rinari-CLI"
+deployment_complexity: Medium
+tags:
+- AI agent
+- terminal assistant
+- local LLM
+- code automation
+- MCP integration
+source: https://github.com/Xainner/Rinari-CLI
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T21:39:32Z"
-discovered_at: "2026-08-07T21:41:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T21:39:32Z'
+discovered_at: '2026-08-07T21:41:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

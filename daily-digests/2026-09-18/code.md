@@ -1,19 +1,38 @@
 ---
-title: "HelixDevelopment/code"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "PostgreSQL", "Redis", "JWT", "Gin Framework", "Llama.cpp", "Ollama", "OpenAI API", "SSH", "MCP Protocol", "CLI", "REST API", "WebSocket", "Terminal UI"]
+title: HelixDevelopment/code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- PostgreSQL
+- Redis
+- JWT
+- Gin Framework
+- Llama.cpp
+- Ollama
+- OpenAI API
+- SSH
+- MCP Protocol
+- CLI
+- REST API
+- WebSocket
+- Terminal UI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["distributed computing", "AI development platform", "LLM integration", "workflow automation", "enterprise-grade"]
-source: "https://github.com/HelixDevelopment/code"
+deployment_complexity: High
+tags:
+- distributed computing
+- AI development platform
+- LLM integration
+- workflow automation
+- enterprise-grade
+source: https://github.com/HelixDevelopment/code
 stars: 2
-language: "Go"
-last_updated: "2026-08-06T03:06:33Z"
-discovered_at: "2026-08-06T03:19:38Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-06T03:06:33Z'
+discovered_at: '2026-08-06T03:19:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "yangjinmin666/oriel-browser"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Chromium DevTools Protocol (CDP)", "macOS", "Xcode", "Unix sockets", "MIT-licensed ego-browser runtime"]
+title: yangjinmin666/oriel-browser
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Node.js
+- Chromium DevTools Protocol (CDP)
+- macOS
+- Xcode
+- Unix sockets
+- MIT-licensed ego-browser runtime
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI browser automation", "macOS control center", "Chromium CDP", "agent integration", "persistent browser profiles"]
-source: "https://github.com/yangjinmin666/oriel-browser"
+deployment_complexity: Medium
+tags:
+- AI browser automation
+- macOS control center
+- Chromium CDP
+- agent integration
+- persistent browser profiles
+source: https://github.com/yangjinmin666/oriel-browser
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-02T19:23:00Z"
-discovered_at: "2026-08-02T19:25:10Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:23:00Z'
+discovered_at: '2026-08-02T19:25:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

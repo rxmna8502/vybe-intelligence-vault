@@ -1,19 +1,33 @@
 ---
-title: "goweft/heddle"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Docker", "FastAPI", "Pydantic", "YAML", "HMAC-SHA256", "JSON Lines", "CLI"]
+title: goweft/heddle
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Docker
+- FastAPI
+- Pydantic
+- YAML
+- HMAC-SHA256
+- JSON Lines
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "policy enforcement", "trust tiers", "audit logging", "declarative configs"]
-source: "https://github.com/goweft/heddle"
+deployment_complexity: Medium
+tags:
+- MCP
+- policy enforcement
+- trust tiers
+- audit logging
+- declarative configs
+source: https://github.com/goweft/heddle
 stars: 14
-language: "Python"
-last_updated: "2026-08-09T09:38:47Z"
-discovered_at: "2026-08-09T09:43:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T09:38:47Z'
+discovered_at: '2026-08-09T09:43:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

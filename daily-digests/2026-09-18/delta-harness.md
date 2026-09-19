@@ -1,19 +1,30 @@
 ---
-title: "Carrara-Labs/delta-harness"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "SQLite", "MCP (Model Context Protocol)", "OpenAI-compatible API", "Docker"]
+title: Carrara-Labs/delta-harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- MCP (Model Context Protocol)
+- OpenAI-compatible API
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent framework", "long-running agents", "MCP tools", "self-improvement", "durable state"]
-source: "https://github.com/Carrara-Labs/delta-harness"
+deployment_complexity: Medium
+tags:
+- agent framework
+- long-running agents
+- MCP tools
+- self-improvement
+- durable state
+source: https://github.com/Carrara-Labs/delta-harness
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T14:59:58Z"
-discovered_at: "2026-08-01T15:01:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T14:59:58Z'
+discovered_at: '2026-08-01T15:01:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

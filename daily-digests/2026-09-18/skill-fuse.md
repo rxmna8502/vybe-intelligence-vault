@@ -1,19 +1,27 @@
 ---
-title: "gaia-research/skill-fuse"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Bash", "Markdown", "Shell Scripting"]
+title: gaia-research/skill-fuse
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Bash
+- Markdown
+- Shell Scripting
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agent skills", "command consolidation", "prompt optimization", "skill fusion", "AI workflow"]
-source: "https://github.com/gaia-research/skill-fuse"
+deployment_complexity: Low
+tags:
+- AI agent skills
+- command consolidation
+- prompt optimization
+- skill fusion
+- AI workflow
+source: https://github.com/gaia-research/skill-fuse
 stars: 2
-language: "Shell"
-last_updated: "2026-07-20T03:28:58Z"
-discovered_at: "2026-07-20T03:37:41Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-20T03:28:58Z'
+discovered_at: '2026-07-20T03:37:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

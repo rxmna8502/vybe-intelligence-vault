@@ -1,19 +1,32 @@
 ---
-title: "leolilley/ryeos"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Linux x86-64", "Content-Addressable Storage (CAS)", "Cryptographic Signatures", "HTTP/REST", "YAML", "Docker", "MCP (Model Context Protocol)"]
+title: leolilley/ryeos
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- Linux x86-64
+- Content-Addressable Storage (CAS)
+- Cryptographic Signatures
+- HTTP/REST
+- YAML
+- Docker
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["execution orchestration", "signed workflows", "content-addressed state", "cryptographic verification", "resumable AI workflows"]
-source: "https://github.com/leolilley/ryeos"
+deployment_complexity: Medium
+tags:
+- execution orchestration
+- signed workflows
+- content-addressed state
+- cryptographic verification
+- resumable AI workflows
+source: https://github.com/leolilley/ryeos
 stars: 2
-language: "Rust"
-last_updated: "2026-07-18T05:22:26Z"
-discovered_at: "2026-07-18T05:24:08Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-18T05:22:26Z'
+discovered_at: '2026-07-18T05:24:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

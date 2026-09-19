@@ -1,19 +1,31 @@
 ---
-title: "justhandledlabs/justhandled-agent-client"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "EVM (Base network)", "USDC (cryptocurrency)", "x402 (payment protocol)"]
+title: justhandledlabs/justhandled-agent-client
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- EVM (Base network)
+- USDC (cryptocurrency)
+- x402 (payment protocol)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["guarded client", "payment safeguards", "MCP server", "deterministic preflights", "evidence products"]
-source: "https://github.com/justhandledlabs/justhandled-agent-client"
+deployment_complexity: Medium
+tags:
+- guarded client
+- payment safeguards
+- MCP server
+- deterministic preflights
+- evidence products
+source: https://github.com/justhandledlabs/justhandled-agent-client
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T20:35:57Z"
-discovered_at: "2026-08-01T20:51:30Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T20:35:57Z'
+discovered_at: '2026-08-01T20:51:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

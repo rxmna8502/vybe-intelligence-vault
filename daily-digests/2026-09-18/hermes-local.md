@@ -1,19 +1,33 @@
 ---
-title: "xdCloudy/Hermes-Local"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["PowerShell", "llama.cpp", "Hermes Agent", "Windows Native", "GGUF Models", "CUDA", "DPAPI", "JSON Schema", "PowerShell 7"]
+title: xdCloudy/Hermes-Local
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- PowerShell
+- llama.cpp
+- Hermes Agent
+- Windows Native
+- GGUF Models
+- CUDA
+- DPAPI
+- JSON Schema
+- PowerShell 7
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Windows AI", "Local inference", "Model orchestration", "Hardware-aware", "Benchmarking"]
-source: "https://github.com/xdCloudy/Hermes-Local"
+deployment_complexity: Medium
+tags:
+- Windows AI
+- Local inference
+- Model orchestration
+- Hardware-aware
+- Benchmarking
+source: https://github.com/xdCloudy/Hermes-Local
 stars: 2
-language: "PowerShell"
-last_updated: "2026-08-01T17:58:16Z"
-discovered_at: "2026-08-01T18:00:00Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-08-01T17:58:16Z'
+discovered_at: '2026-08-01T18:00:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

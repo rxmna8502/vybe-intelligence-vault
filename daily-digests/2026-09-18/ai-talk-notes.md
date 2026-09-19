@@ -1,19 +1,31 @@
 ---
-title: "yeha98555/ai-talk-notes"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Markdown", "HTML/CSS", "GitHub Actions", "Vercel", "LLM (OpenAI API)"]
+title: yeha98555/ai-talk-notes
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Node.js
+- Markdown
+- HTML/CSS
+- GitHub Actions
+- Vercel
+- LLM (OpenAI API)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI talk distillation", "bilingual content", "static site generator", "content curation", "LLM-assisted workflow"]
-source: "https://github.com/yeha98555/ai-talk-notes"
+deployment_complexity: Medium
+tags:
+- AI talk distillation
+- bilingual content
+- static site generator
+- content curation
+- LLM-assisted workflow
+source: https://github.com/yeha98555/ai-talk-notes
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-01T08:57:24Z"
-discovered_at: "2026-08-01T09:06:27Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T08:57:24Z'
+discovered_at: '2026-08-01T09:06:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

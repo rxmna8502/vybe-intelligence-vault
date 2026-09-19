@@ -1,19 +1,36 @@
 ---
-title: "developerz-ai/ai-designer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Chrome Extension (MV3)", "SolidJS", "TypeScript", "Bun", "WXT", "Vercel AI SDK", "OpenRouter", "MCP (Model Context Protocol)", "SCSS", "Vitest", "Playwright", "Biome"]
+title: developerz-ai/ai-designer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Chrome Extension (MV3)
+- SolidJS
+- TypeScript
+- Bun
+- WXT
+- Vercel AI SDK
+- OpenRouter
+- MCP (Model Context Protocol)
+- SCSS
+- Vitest
+- Playwright
+- Biome
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Chrome extension", "AI-assisted design", "live DOM editing", "MCP integration", "PR automation"]
-source: "https://github.com/developerz-ai/ai-designer"
+deployment_complexity: Medium
+tags:
+- Chrome extension
+- AI-assisted design
+- live DOM editing
+- MCP integration
+- PR automation
+source: https://github.com/developerz-ai/ai-designer
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-10T13:10:04Z"
-discovered_at: "2026-07-10T13:10:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T13:10:04Z'
+discovered_at: '2026-07-10T13:10:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

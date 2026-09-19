@@ -1,19 +1,34 @@
 ---
-title: "mhiskall282/Securing-the-Digital-Mine-UNESCO-Project"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "TensorFlow", "Keras", "TFLite", "CNN-LSTM", "Binary Whale Optimization Algorithm (BWOA)", "Raspberry Pi", "AWS EC2", "Laravel Livewire", "CLI (Node.js)"]
+title: mhiskall282/Securing-the-Digital-Mine-UNESCO-Project
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- TensorFlow
+- Keras
+- TFLite
+- CNN-LSTM
+- Binary Whale Optimization Algorithm (BWOA)
+- Raspberry Pi
+- AWS EC2
+- Laravel Livewire
+- CLI (Node.js)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["intrusion detection", "edge AI", "OT security", "metaheuristic optimization", "industrial IoT"]
-source: "https://github.com/mhiskall282/Securing-the-Digital-Mine-UNESCO-Project"
+deployment_complexity: Medium
+tags:
+- intrusion detection
+- edge AI
+- OT security
+- metaheuristic optimization
+- industrial IoT
+source: https://github.com/mhiskall282/Securing-the-Digital-Mine-UNESCO-Project
 stars: 1
-language: "Python"
-last_updated: "2026-09-02T15:47:58Z"
-discovered_at: "2026-09-02T15:49:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:47:58Z'
+discovered_at: '2026-09-02T15:49:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

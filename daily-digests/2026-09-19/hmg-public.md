@@ -1,19 +1,32 @@
 ---
-title: "HMG-AI/HMG-public"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Python", "MCP (Model Context Protocol)", "HTTP/gRPC", "OpenAPI", "Apache-2.0", "HMG Proprietary Source License"]
+title: HMG-AI/HMG-public
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- HTTP/gRPC
+- OpenAPI
+- Apache-2.0
+- HMG Proprietary Source License
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["long-term memory", "agent context", "branch-aware", "governance", "MCP integration"]
-source: "https://github.com/HMG-AI/HMG-public"
+deployment_complexity: Medium
+tags:
+- long-term memory
+- agent context
+- branch-aware
+- governance
+- MCP integration
+source: https://github.com/HMG-AI/HMG-public
 stars: 8
-language: "TypeScript"
-last_updated: "2026-07-16T14:55:15Z"
-discovered_at: "2026-07-16T15:00:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T14:55:15Z'
+discovered_at: '2026-07-16T15:00:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

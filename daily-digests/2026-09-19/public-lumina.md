@@ -1,19 +1,27 @@
 ---
-title: "I24D/Public-Lumina"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Desktop Application", "Metadata Management"]
+title: I24D/Public-Lumina
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Desktop Application
+- Metadata Management
 quality_score: 2
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["desktop-application", "metadata", "release-management", "documentation", "reconstruction"]
-source: "https://github.com/I24D/Public-Lumina"
+deployment_complexity: Low
+tags:
+- desktop-application
+- metadata
+- release-management
+- documentation
+- reconstruction
+source: https://github.com/I24D/Public-Lumina
 stars: 0
-language: "None"
-last_updated: "2026-08-09T17:30:03Z"
-discovered_at: "2026-08-09T17:35:29Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T17:30:03Z'
+discovered_at: '2026-08-09T17:35:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

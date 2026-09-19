@@ -1,19 +1,34 @@
 ---
-title: "AndrewDryga/emisar"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Elixir", "Go", "Phoenix", "PostgreSQL", "Keycloak", "MCP (Model Context Protocol)", "TLS WebSocket", "Ed25519", "Terraform", "Docker"]
+title: AndrewDryga/emisar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Elixir
+- Go
+- Phoenix
+- PostgreSQL
+- Keycloak
+- MCP (Model Context Protocol)
+- TLS WebSocket
+- Ed25519
+- Terraform
+- Docker
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["MCP", "infrastructure automation", "security orchestration", "policy enforcement", "AI agent control"]
-source: "https://github.com/AndrewDryga/emisar"
+deployment_complexity: High
+tags:
+- MCP
+- infrastructure automation
+- security orchestration
+- policy enforcement
+- AI agent control
+source: https://github.com/AndrewDryga/emisar
 stars: 470
-language: "Elixir"
-last_updated: "2026-08-01T22:44:17Z"
-discovered_at: "2026-08-01T22:55:06Z"
-evaluated_by: "mistral-small-latest"
+language: Elixir
+last_updated: '2026-08-01T22:44:17Z'
+discovered_at: '2026-08-01T22:55:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

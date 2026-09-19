@@ -1,19 +1,39 @@
 ---
-title: "braydos-h/NetAttackAi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama LLMs", "Nmap", "Metasploit", "Impacket", "hashcat", "john", "Nikto", "Nuclei", "sqlmap", "Gobuster", "FastAPI", "SQLite", "TMUX", "Docker"]
+title: braydos-h/NetAttackAi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Ollama LLMs
+- Nmap
+- Metasploit
+- Impacket
+- hashcat
+- john
+- Nikto
+- Nuclei
+- sqlmap
+- Gobuster
+- FastAPI
+- SQLite
+- TMUX
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["autonomous security", "red teaming", "AI-driven exploitation", "offensive security", "penetration testing"]
-source: "https://github.com/braydos-h/NetAttackAi"
+deployment_complexity: High
+tags:
+- autonomous security
+- red teaming
+- AI-driven exploitation
+- offensive security
+- penetration testing
+source: https://github.com/braydos-h/NetAttackAi
 stars: 2
-language: "Python"
-last_updated: "2026-08-02T23:48:22Z"
-discovered_at: "2026-08-03T00:01:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T23:48:22Z'
+discovered_at: '2026-08-03T00:01:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

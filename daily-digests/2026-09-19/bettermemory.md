@@ -1,19 +1,32 @@
 ---
-title: "0Mattias/bettermemory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "Git", "Markdown", "FastAPI", "BM25", "FTS5"]
+title: 0Mattias/bettermemory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- Git
+- Markdown
+- FastAPI
+- BM25
+- FTS5
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["memory-management", "staleness-detection", "AI-agent-tools", "local-first", "verifiable-claims"]
-source: "https://github.com/0Mattias/bettermemory"
+deployment_complexity: Medium
+tags:
+- memory-management
+- staleness-detection
+- AI-agent-tools
+- local-first
+- verifiable-claims
+source: https://github.com/0Mattias/bettermemory
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T22:40:18Z"
-discovered_at: "2026-07-11T22:45:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T22:40:18Z'
+discovered_at: '2026-07-11T22:45:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

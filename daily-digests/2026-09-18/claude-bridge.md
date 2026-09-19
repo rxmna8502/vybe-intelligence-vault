@@ -1,19 +1,30 @@
 ---
-title: "michalekz/claude-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "VS Code Extension API", "MCP (Model Context Protocol)", "Node.js", "JSONL", "Claude Code"]
+title: michalekz/claude-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- MCP (Model Context Protocol)
+- Node.js
+- JSONL
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["multi-agent orchestration", "Claude Code integration", "local filesystem messaging", "context sharing", "agent coordination"]
-source: "https://github.com/michalekz/claude-bridge"
+deployment_complexity: Low
+tags:
+- multi-agent orchestration
+- Claude Code integration
+- local filesystem messaging
+- context sharing
+- agent coordination
+source: https://github.com/michalekz/claude-bridge
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-05T05:42:52Z"
-discovered_at: "2026-08-05T05:49:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:42:52Z'
+discovered_at: '2026-08-05T05:49:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

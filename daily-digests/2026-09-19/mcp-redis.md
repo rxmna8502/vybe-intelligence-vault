@@ -1,19 +1,29 @@
 ---
-title: "redis/mcp-redis"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Redis", "MCP (Model Content Protocol)", "Docker", "PyPI"]
+title: redis/mcp-redis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Redis
+- MCP (Model Content Protocol)
+- Docker
+- PyPI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["Redis", "MCP Server", "Vector Search", "AI Agents", "Data Management"]
-source: "https://github.com/redis/mcp-redis"
+deployment_complexity: Low
+tags:
+- Redis
+- MCP Server
+- Vector Search
+- AI Agents
+- Data Management
+source: https://github.com/redis/mcp-redis
 stars: 557
-language: "Python"
-last_updated: "2026-08-04T15:29:27Z"
-discovered_at: "2026-08-04T15:35:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T15:29:27Z'
+discovered_at: '2026-08-04T15:35:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

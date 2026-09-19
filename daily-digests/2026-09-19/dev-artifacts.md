@@ -1,19 +1,33 @@
 ---
-title: "Zeon7744/dev-artifacts"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "BERT (Chinese financial model)", "Ollama", "OpenAI API", "ChromaDB", "FastAPI", "Pydantic", "Pytest"]
+title: Zeon7744/dev-artifacts
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- BERT (Chinese financial model)
+- Ollama
+- OpenAI API
+- ChromaDB
+- FastAPI
+- Pydantic
+- Pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["financial news", "RAG integration", "agent workflows", "sentiment analysis", "investment advisory"]
-source: "https://github.com/Zeon7744/dev-artifacts"
+deployment_complexity: Medium
+tags:
+- financial news
+- RAG integration
+- agent workflows
+- sentiment analysis
+- investment advisory
+source: https://github.com/Zeon7744/dev-artifacts
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T15:38:54Z"
-discovered_at: "2026-09-02T15:52:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:38:54Z'
+discovered_at: '2026-09-02T15:52:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

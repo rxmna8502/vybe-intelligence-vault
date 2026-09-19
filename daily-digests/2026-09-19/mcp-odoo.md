@@ -1,19 +1,32 @@
 ---
-title: "tuanle96/mcp-odoo"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "XML-RPC", "JSON-2", "Docker", "FastAPI", "SQLAlchemy", "Odoo"]
+title: tuanle96/mcp-odoo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- XML-RPC
+- JSON-2
+- Docker
+- FastAPI
+- SQLAlchemy
+- Odoo
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Odoo integration", "MCP server", "AI agent framework", "business automation", "data access layer"]
-source: "https://github.com/tuanle96/mcp-odoo"
+deployment_complexity: Medium
+tags:
+- Odoo integration
+- MCP server
+- AI agent framework
+- business automation
+- data access layer
+source: https://github.com/tuanle96/mcp-odoo
 stars: 366
-language: "Python"
-last_updated: "2026-07-18T18:55:14Z"
-discovered_at: "2026-07-18T19:02:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T18:55:14Z'
+discovered_at: '2026-07-18T19:02:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

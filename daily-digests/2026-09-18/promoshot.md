@@ -1,19 +1,32 @@
 ---
-title: "GarAlex/promoshot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "wgpu", "ffmpeg", "cosmic-text", "Model Context Protocol (MCP)", "JSON Schema", "Vulkan (lavapipe)", "Metal (macOS/iOS)"]
+title: GarAlex/promoshot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- wgpu
+- ffmpeg
+- cosmic-text
+- Model Context Protocol (MCP)
+- JSON Schema
+- Vulkan (lavapipe)
+- Metal (macOS/iOS)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["video-rendering", "AI-agent-tools", "declarative-video", "headless-rendering", "MCP-server"]
-source: "https://github.com/GarAlex/promoshot"
+deployment_complexity: Medium
+tags:
+- video-rendering
+- AI-agent-tools
+- declarative-video
+- headless-rendering
+- MCP-server
+source: https://github.com/GarAlex/promoshot
 stars: 0
-language: "Rust"
-last_updated: "2026-09-02T22:04:35Z"
-discovered_at: "2026-09-02T22:22:57Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T22:04:35Z'
+discovered_at: '2026-09-02T22:22:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "Marcelle-Labs/never-ask-twice"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Qwen Cloud", "PostgreSQL", "pgvector", "Drizzle ORM", "Hono", "MCP (Model Context Protocol)", "Railway", "Alibaba Function Compute", "Docker"]
+title: Marcelle-Labs/never-ask-twice
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Qwen Cloud
+- PostgreSQL
+- pgvector
+- Drizzle ORM
+- Hono
+- MCP (Model Context Protocol)
+- Railway
+- Alibaba Function Compute
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["memory agent", "customer support", "context retention", "deterministic evaluation", "MCP tools"]
-source: "https://github.com/Marcelle-Labs/never-ask-twice"
+deployment_complexity: Medium
+tags:
+- memory agent
+- customer support
+- context retention
+- deterministic evaluation
+- MCP tools
+source: https://github.com/Marcelle-Labs/never-ask-twice
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-20T19:41:40Z"
-discovered_at: "2026-07-20T19:53:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T19:41:40Z'
+discovered_at: '2026-07-20T19:53:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "noelbraganza/elsewhere"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js (>=22.19)", "MCP (Model Context Protocol)", "Docker (for gluetun adapter)", "SSH (for ssh adapter)", "HTTP Proxy", "gluetun", "NPM"]
+title: noelbraganza/elsewhere
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js (>=22.19)
+- MCP (Model Context Protocol)
+- Docker (for gluetun adapter)
+- SSH (for ssh adapter)
+- HTTP Proxy
+- gluetun
+- NPM
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["network egress", "temporary proxy", "region-gated access", "AI agent tooling", "verified IP routing"]
-source: "https://github.com/noelbraganza/elsewhere"
+deployment_complexity: Medium
+tags:
+- network egress
+- temporary proxy
+- region-gated access
+- AI agent tooling
+- verified IP routing
+source: https://github.com/noelbraganza/elsewhere
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T08:18:08Z"
-discovered_at: "2026-08-02T08:22:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T08:18:08Z'
+discovered_at: '2026-08-02T08:22:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

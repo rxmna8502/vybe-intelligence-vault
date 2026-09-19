@@ -1,19 +1,35 @@
 ---
-title: "zhurong2020/pyobfus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "AST (Abstract Syntax Tree)", "AES-256 encryption", "YAML configuration", "FastAPI", "Django", "Pydantic", "Click", "SQLAlchemy", "Model Context Protocol (MCP)", "FastMCP"]
+title: zhurong2020/pyobfus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- AST (Abstract Syntax Tree)
+- AES-256 encryption
+- YAML configuration
+- FastAPI
+- Django
+- Pydantic
+- Click
+- SQLAlchemy
+- Model Context Protocol (MCP)
+- FastMCP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["code obfuscation", "AI debugging", "AST transformation", "security", "MCP server"]
-source: "https://github.com/zhurong2020/pyobfus"
+deployment_complexity: Medium
+tags:
+- code obfuscation
+- AI debugging
+- AST transformation
+- security
+- MCP server
+source: https://github.com/zhurong2020/pyobfus
 stars: 3
-language: "Python"
-last_updated: "2026-08-01T13:16:06Z"
-discovered_at: "2026-08-01T13:16:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:16:06Z'
+discovered_at: '2026-08-01T13:16:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

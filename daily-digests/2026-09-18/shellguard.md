@@ -1,19 +1,30 @@
 ---
-title: "fawdyinc/shellguard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "SSH", "YAML", "Bash", "SFTP"]
+title: fawdyinc/shellguard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- SSH
+- YAML
+- Bash
+- SFTP
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "SSH access", "read-only shell", "LLM security", "diagnostics"]
-source: "https://github.com/fawdyinc/shellguard"
+deployment_complexity: Medium
+tags:
+- MCP server
+- SSH access
+- read-only shell
+- LLM security
+- diagnostics
+source: https://github.com/fawdyinc/shellguard
 stars: 16
-language: "Go"
-last_updated: "2026-08-01T13:15:25Z"
-discovered_at: "2026-08-01T13:16:42Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T13:15:25Z'
+discovered_at: '2026-08-01T13:16:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

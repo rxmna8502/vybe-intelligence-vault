@@ -1,19 +1,29 @@
 ---
-title: "hamlin-zy/hclaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "SQLite", "MCP (Model Context Protocol)", "Cron Scheduler"]
+title: hamlin-zy/hclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Electron
+- SQLite
+- MCP (Model Context Protocol)
+- Cron Scheduler
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["local agent", "desktop client", "multi-model support", "IM integration", "privacy-focused"]
-source: "https://github.com/hamlin-zy/hclaw"
+deployment_complexity: Low
+tags:
+- local agent
+- desktop client
+- multi-model support
+- IM integration
+- privacy-focused
+source: https://github.com/hamlin-zy/hclaw
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T05:38:43Z"
-discovered_at: "2026-08-05T05:48:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:38:43Z'
+discovered_at: '2026-08-05T05:48:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

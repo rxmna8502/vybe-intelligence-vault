@@ -1,19 +1,35 @@
 ---
-title: "fwtllh-png/QCode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "React", "TypeScript", "SQLite", "WebAssembly", "Bubblewrap", "Landlock", "Seatbelt", "OpenAI API", "Anthropic API", "DeepSeek API"]
+title: fwtllh-png/QCode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- React
+- TypeScript
+- SQLite
+- WebAssembly
+- Bubblewrap
+- Landlock
+- Seatbelt
+- OpenAI API
+- Anthropic API
+- DeepSeek API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Coding Agent", "Local Execution", "Governance", "Security", "Observability"]
-source: "https://github.com/fwtllh-png/QCode"
+deployment_complexity: Medium
+tags:
+- AI Coding Agent
+- Local Execution
+- Governance
+- Security
+- Observability
+source: https://github.com/fwtllh-png/QCode
 stars: 1
-language: "Go"
-last_updated: "2026-09-03T02:10:32Z"
-discovered_at: "2026-09-03T02:17:18Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T02:10:32Z'
+discovered_at: '2026-09-03T02:17:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

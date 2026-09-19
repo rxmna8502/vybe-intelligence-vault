@@ -1,19 +1,35 @@
 ---
-title: "labilezhu/everlingo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "Docker", "OpenAI API", "OpenRouter API", "WeChat API", "Terminal TUI", "PWA (Progressive Web App)", "Markdown", "Open Knowledge Format (OKF)", "MCP (Model Context Protocol)"]
+title: labilezhu/everlingo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- LangChain
+- Docker
+- OpenAI API
+- OpenRouter API
+- WeChat API
+- Terminal TUI
+- PWA (Progressive Web App)
+- Markdown
+- Open Knowledge Format (OKF)
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["language learning", "contextual memory", "personal knowledge base", "AI companion", "note-taking"]
-source: "https://github.com/labilezhu/everlingo"
+deployment_complexity: Medium
+tags:
+- language learning
+- contextual memory
+- personal knowledge base
+- AI companion
+- note-taking
+source: https://github.com/labilezhu/everlingo
 stars: 7
-language: "Python"
-last_updated: "2026-08-08T15:31:03Z"
-discovered_at: "2026-08-08T15:32:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T15:31:03Z'
+discovered_at: '2026-08-08T15:32:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "qtuanph/chatbot-rag"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "Next.js 16", "Qdrant", "PostgreSQL", "Redis", "Celery", "Docker", "shadcn/ui", "NVIDIA NIM", "9Router", "RustFS"]
+title: qtuanph/chatbot-rag
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- FastAPI
+- Next.js 16
+- Qdrant
+- PostgreSQL
+- Redis
+- Celery
+- Docker
+- shadcn/ui
+- NVIDIA NIM
+- 9Router
+- RustFS
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["multi-tenant", "RAG", "hybrid retrieval", "stateless chat", "enterprise SaaS"]
-source: "https://github.com/qtuanph/chatbot-rag"
+deployment_complexity: High
+tags:
+- multi-tenant
+- RAG
+- hybrid retrieval
+- stateless chat
+- enterprise SaaS
+source: https://github.com/qtuanph/chatbot-rag
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T04:55:05Z"
-discovered_at: "2026-08-08T04:59:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T04:55:05Z'
+discovered_at: '2026-08-08T04:59:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "node9-ai/node9-proxy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "Shell", "Git", "PostgreSQL", "Redis", "MCP (Model Context Protocol)"]
+title: node9-ai/node9-proxy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- Shell
+- Git
+- PostgreSQL
+- Redis
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent security", "runtime protection", "credential scanning", "governance layer", "sandboxing"]
-source: "https://github.com/node9-ai/node9-proxy"
+deployment_complexity: Medium
+tags:
+- AI agent security
+- runtime protection
+- credential scanning
+- governance layer
+- sandboxing
+source: https://github.com/node9-ai/node9-proxy
 stars: 209
-language: "TypeScript"
-last_updated: "2026-07-13T06:11:54Z"
-discovered_at: "2026-07-13T06:15:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T06:11:54Z'
+discovered_at: '2026-07-13T06:15:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

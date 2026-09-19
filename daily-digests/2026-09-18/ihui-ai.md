@@ -1,19 +1,36 @@
 ---
-title: "IHUI-INF-AI/IHUI-AI"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js", "Fastify", "FastAPI", "PostgreSQL", "Redis", "Drizzle ORM", "LangGraph", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "Docker", "Apache 2.0"]
+title: IHUI-INF-AI/IHUI-AI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Next.js
+- Fastify
+- FastAPI
+- PostgreSQL
+- Redis
+- Drizzle ORM
+- LangGraph
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent)
+- Docker
+- Apache 2.0
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Agent Platform", "Multi-Model Orchestration", "RAG Knowledge Base", "Multi-Tenant SaaS", "Open Source"]
-source: "https://github.com/IHUI-INF-AI/IHUI-AI"
+deployment_complexity: Medium
+tags:
+- AI Agent Platform
+- Multi-Model Orchestration
+- RAG Knowledge Base
+- Multi-Tenant SaaS
+- Open Source
+source: https://github.com/IHUI-INF-AI/IHUI-AI
 stars: 14
-language: "TypeScript"
-last_updated: "2026-08-01T03:39:19Z"
-discovered_at: "2026-08-01T03:43:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:39:19Z'
+discovered_at: '2026-08-01T03:43:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

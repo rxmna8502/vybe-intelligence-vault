@@ -1,19 +1,28 @@
 ---
-title: "ryan-phq2005h1/github-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "GitHub REST API", "Model Context Protocol (MCP)", "Windows Installer (NSIS)"]
+title: ryan-phq2005h1/github-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- GitHub REST API
+- Model Context Protocol (MCP)
+- Windows Installer (NSIS)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "GitHub Integration", "AI Automation", "CI/CD Trigger", "Agent Framework"]
-source: "https://github.com/ryan-phq2005h1/github-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- GitHub Integration
+- AI Automation
+- CI/CD Trigger
+- Agent Framework
+source: https://github.com/ryan-phq2005h1/github-mcp-server
 stars: 32
-language: "Python"
-last_updated: "2026-08-01T20:51:00Z"
-discovered_at: "2026-08-01T20:51:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T20:51:00Z'
+discovered_at: '2026-08-01T20:51:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

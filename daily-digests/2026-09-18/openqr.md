@@ -1,19 +1,32 @@
 ---
-title: "open-qr/openqr"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "pnpm", "qr-code-styling", "Leaflet", "OpenStreetMap Nominatim"]
+title: open-qr/openqr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- pnpm
+- qr-code-styling
+- Leaflet
+- OpenStreetMap Nominatim
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["QR code generator", "client-side", "privacy-focused", "open-source", "dynamic QR codes"]
-source: "https://github.com/open-qr/openqr"
+deployment_complexity: Low
+tags:
+- QR code generator
+- client-side
+- privacy-focused
+- open-source
+- dynamic QR codes
+source: https://github.com/open-qr/openqr
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-08T03:12:36Z"
-discovered_at: "2026-08-08T03:28:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T03:12:36Z'
+discovered_at: '2026-08-08T03:28:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

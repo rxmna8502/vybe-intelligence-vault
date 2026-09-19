@@ -1,19 +1,34 @@
 ---
-title: "Voltolini-SPACE/NOMOS"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "llama.cpp", "Sigstore", "SLSA", "CycloneDX", "Argon2id", "ed25519", "FastAPI", "Jinja2"]
+title: Voltolini-SPACE/NOMOS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- SQLite
+- llama.cpp
+- Sigstore
+- SLSA
+- CycloneDX
+- Argon2id
+- ed25519
+- FastAPI
+- Jinja2
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local-first", "privacy-focused", "governance", "supply-chain-security", "lightweight-ai"]
-source: "https://github.com/Voltolini-SPACE/NOMOS"
+deployment_complexity: Medium
+tags:
+- local-first
+- privacy-focused
+- governance
+- supply-chain-security
+- lightweight-ai
+source: https://github.com/Voltolini-SPACE/NOMOS
 stars: 3
-language: "Python"
-last_updated: "2026-08-07T21:33:01Z"
-discovered_at: "2026-08-07T21:41:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T21:33:01Z'
+discovered_at: '2026-08-07T21:41:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

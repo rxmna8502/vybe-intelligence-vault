@@ -1,19 +1,36 @@
 ---
-title: "chenyuxiaojin/cyxj-groksearch"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.10+", "FastMCP", "MCP (Model Context Protocol)", "Tavily API", "Firecrawl API", "Grok AI (CLI and API)", "OpenAI Compatible API", "uv (package manager)", "FastAPI", "Pydantic", "Tenacity (retry logic)", "Httpx"]
+title: chenyuxiaojin/cyxj-groksearch
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python 3.10+
+- FastMCP
+- MCP (Model Context Protocol)
+- Tavily API
+- Firecrawl API
+- Grok AI (CLI and API)
+- OpenAI Compatible API
+- uv (package manager)
+- FastAPI
+- Pydantic
+- Tenacity (retry logic)
+- Httpx
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "web search", "multi-source validation", "failover", "Claude Code integration"]
-source: "https://github.com/chenyuxiaojin/cyxj-groksearch"
+deployment_complexity: Medium
+tags:
+- MCP server
+- web search
+- multi-source validation
+- failover
+- Claude Code integration
+source: https://github.com/chenyuxiaojin/cyxj-groksearch
 stars: 20
-language: "Python"
-last_updated: "2026-08-29T05:39:09Z"
-discovered_at: "2026-09-02T15:52:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-29T05:39:09Z'
+discovered_at: '2026-09-02T15:52:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

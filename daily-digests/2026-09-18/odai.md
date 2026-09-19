@@ -1,19 +1,29 @@
 ---
-title: "orziz/odai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "AI Agent Frameworks", "Governance Systems", "Task Orchestration"]
+title: orziz/odai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Node.js
+- AI Agent Frameworks
+- Governance Systems
+- Task Orchestration
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI governance", "agent autonomy", "task execution", "evidence-driven", "verification"]
-source: "https://github.com/orziz/odai"
+deployment_complexity: Medium
+tags:
+- AI governance
+- agent autonomy
+- task execution
+- evidence-driven
+- verification
+source: https://github.com/orziz/odai
 stars: 106
-language: "JavaScript"
-last_updated: "2026-09-01T14:15:29Z"
-discovered_at: "2026-09-01T15:52:56Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T14:15:29Z'
+discovered_at: '2026-09-01T15:52:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

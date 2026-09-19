@@ -1,19 +1,33 @@
 ---
-title: "Dominotypist3077/fluent-mcp-servers"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "MCP (Model Context Protocol)", "WordPress", "FluentCRM", "Fluent Support", "Fluent Boards", "Fluent Community", "FluentAffiliate"]
+title: Dominotypist3077/fluent-mcp-servers
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Windows
+- MCP (Model Context Protocol)
+- WordPress
+- FluentCRM
+- Fluent Support
+- Fluent Boards
+- Fluent Community
+- FluentAffiliate
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["WordPress integration", "AI agent tools", "MCP server", "WordPress automation", "CRM tools"]
-source: "https://github.com/Dominotypist3077/fluent-mcp-servers"
+deployment_complexity: Low
+tags:
+- WordPress integration
+- AI agent tools
+- MCP server
+- WordPress automation
+- CRM tools
+source: https://github.com/Dominotypist3077/fluent-mcp-servers
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-11T11:01:06Z"
-discovered_at: "2026-07-11T11:04:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T11:01:06Z'
+discovered_at: '2026-07-11T11:04:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

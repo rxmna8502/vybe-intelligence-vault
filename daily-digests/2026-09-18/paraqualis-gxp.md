@@ -1,19 +1,31 @@
 ---
-title: "paraqualis/paraqualis-gxp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "Python", "MCP (Model Context Protocol)", "Markdown", "Excel", "Word", "GitHub Actions"]
+title: paraqualis/paraqualis-gxp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Claude Code
+- Python
+- MCP (Model Context Protocol)
+- Markdown
+- Excel
+- Word
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["GxP compliance", "Computer System Validation", "Regulatory Automation", "Life Sciences", "Claude Code Plugin"]
-source: "https://github.com/paraqualis/paraqualis-gxp"
+deployment_complexity: Medium
+tags:
+- GxP compliance
+- Computer System Validation
+- Regulatory Automation
+- Life Sciences
+- Claude Code Plugin
+source: https://github.com/paraqualis/paraqualis-gxp
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T08:02:11Z"
-discovered_at: "2026-07-18T08:09:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T08:02:11Z'
+discovered_at: '2026-07-18T08:09:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "Muvon/octocode"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tree-sitter", "GraphRAG", "MCP (Model Context Protocol)", "Language Server Protocol (LSP)", "Hybrid search (BM25 + embeddings)", "Voyage AI / OpenAI / Jina AI (embeddings)", "FastEmbed"]
+title: Muvon/octocode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- Tree-sitter
+- GraphRAG
+- MCP (Model Context Protocol)
+- Language Server Protocol (LSP)
+- Hybrid search (BM25 + embeddings)
+- Voyage AI / OpenAI / Jina AI (embeddings)
+- FastEmbed
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code intelligence", "semantic search", "knowledge graph", "MCP server", "AI agent integration"]
-source: "https://github.com/Muvon/octocode"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- semantic search
+- knowledge graph
+- MCP server
+- AI agent integration
+source: https://github.com/Muvon/octocode
 stars: 441
-language: "Rust"
-last_updated: "2026-08-03T10:30:13Z"
-discovered_at: "2026-08-03T10:44:10Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-03T10:30:13Z'
+discovered_at: '2026-08-03T10:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

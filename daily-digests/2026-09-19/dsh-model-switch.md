@@ -1,19 +1,28 @@
 ---
-title: "lincong1987/dsh-model-switch"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "DeepSeek Harness", "Node.js", "Plugin System"]
+title: lincong1987/dsh-model-switch
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- DeepSeek Harness
+- Node.js
+- Plugin System
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["model switching", "DeepSeek Harness", "subagents", "plan execution", "multi-model routing"]
-source: "https://github.com/lincong1987/dsh-model-switch"
+deployment_complexity: Medium
+tags:
+- model switching
+- DeepSeek Harness
+- subagents
+- plan execution
+- multi-model routing
+source: https://github.com/lincong1987/dsh-model-switch
 stars: 10
-language: "TypeScript"
-last_updated: "2026-09-03T18:56:10Z"
-discovered_at: "2026-09-03T19:06:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T18:56:10Z'
+discovered_at: '2026-09-03T19:06:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

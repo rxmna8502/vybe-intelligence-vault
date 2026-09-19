@@ -1,19 +1,34 @@
 ---
-title: "sandraschi/virtualization-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "VirtualBox", "Hyper-V", "Windows Sandbox", "Docker", "PowerShell", "FastAPI", "PyVBox", "MCP (Model Context Protocol)"]
+title: sandraschi/virtualization-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastMCP
+- VirtualBox
+- Hyper-V
+- Windows Sandbox
+- Docker
+- PowerShell
+- FastAPI
+- PyVBox
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["virtualization", "MCP server", "VM automation", "sandbox environments", "AI tooling"]
-source: "https://github.com/sandraschi/virtualization-mcp"
+deployment_complexity: Medium
+tags:
+- virtualization
+- MCP server
+- VM automation
+- sandbox environments
+- AI tooling
+source: https://github.com/sandraschi/virtualization-mcp
 stars: 10
-language: "Python"
-last_updated: "2026-07-14T07:59:37Z"
-discovered_at: "2026-07-14T08:01:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T07:59:37Z'
+discovered_at: '2026-07-14T08:01:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

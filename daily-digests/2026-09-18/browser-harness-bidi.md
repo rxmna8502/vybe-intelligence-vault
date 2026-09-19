@@ -1,19 +1,31 @@
 ---
-title: "AndrewDzzz/browser-harness-bidi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "WebDriver BiDi", "WebSocket", "geckodriver", "ChromeDriver", "Firefox", "Chrome"]
+title: AndrewDzzz/browser-harness-bidi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- WebDriver BiDi
+- WebSocket
+- geckodriver
+- ChromeDriver
+- Firefox
+- Chrome
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["browser automation", "WebDriver BiDi", "LLM integration", "agent workspace", "cross-browser"]
-source: "https://github.com/AndrewDzzz/browser-harness-bidi"
+deployment_complexity: Medium
+tags:
+- browser automation
+- WebDriver BiDi
+- LLM integration
+- agent workspace
+- cross-browser
+source: https://github.com/AndrewDzzz/browser-harness-bidi
 stars: 6
-language: "Python"
-last_updated: "2026-08-09T15:32:53Z"
-discovered_at: "2026-08-09T15:35:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T15:32:53Z'
+discovered_at: '2026-08-09T15:35:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

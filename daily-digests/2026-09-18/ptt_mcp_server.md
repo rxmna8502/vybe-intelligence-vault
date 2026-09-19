@@ -1,19 +1,29 @@
 ---
-title: "PyPtt/ptt_mcp_server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PyPtt", "Model Context Protocol (MCP)", "Docker", "FastMCP"]
+title: PyPtt/ptt_mcp_server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- PyPtt
+- Model Context Protocol (MCP)
+- Docker
+- FastMCP
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["PTT automation", "MCP server", "BBS interaction", "API integration", "Docker deployment"]
-source: "https://github.com/PyPtt/ptt_mcp_server"
+deployment_complexity: Low
+tags:
+- PTT automation
+- MCP server
+- BBS interaction
+- API integration
+- Docker deployment
+source: https://github.com/PyPtt/ptt_mcp_server
 stars: 38
-language: "Python"
-last_updated: "2026-08-08T12:37:21Z"
-discovered_at: "2026-08-08T12:47:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T12:37:21Z'
+discovered_at: '2026-08-08T12:47:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

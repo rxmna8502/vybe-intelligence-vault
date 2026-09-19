@@ -1,19 +1,35 @@
 ---
-title: "sasindudilshanranwadana/aussie-shield"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Cloudflare Workers", "Workers AI", "RDAP", "Google Safe Browsing", "PhishTank", "URLScan.io", "AbuseIPDB", "ABR (Australian Business Register) API", "Claude MCP Server"]
+title: sasindudilshanranwadana/aussie-shield
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastMCP
+- Cloudflare Workers
+- Workers AI
+- RDAP
+- Google Safe Browsing
+- PhishTank
+- URLScan.io
+- AbuseIPDB
+- ABR (Australian Business Register) API
+- Claude MCP Server
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["scam detection", "privacy-first", "Australian threat intelligence", "MCP server", "real-time analysis"]
-source: "https://github.com/sasindudilshanranwadana/aussie-shield"
+deployment_complexity: Medium
+tags:
+- scam detection
+- privacy-first
+- Australian threat intelligence
+- MCP server
+- real-time analysis
+source: https://github.com/sasindudilshanranwadana/aussie-shield
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T19:03:08Z"
-discovered_at: "2026-09-01T19:08:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T19:03:08Z'
+discovered_at: '2026-09-01T19:08:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

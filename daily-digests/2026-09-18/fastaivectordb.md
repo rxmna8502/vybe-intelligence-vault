@@ -1,19 +1,31 @@
 ---
-title: "andrestubbe/FastAIVectorDB"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Java", "C++", "JNI", "SIMD", "AVX/SSE", "Maven", "JitPack"]
+title: andrestubbe/FastAIVectorDB
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Java
+- C++
+- JNI
+- SIMD
+- AVX/SSE
+- Maven
+- JitPack
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector database", "JNI acceleration", "sub-millisecond search", "embedded database", "Java-native"]
-source: "https://github.com/andrestubbe/FastAIVectorDB"
+deployment_complexity: Medium
+tags:
+- vector database
+- JNI acceleration
+- sub-millisecond search
+- embedded database
+- Java-native
+source: https://github.com/andrestubbe/FastAIVectorDB
 stars: 0
-language: "Java"
-last_updated: "2026-08-08T09:33:34Z"
-discovered_at: "2026-08-08T09:41:10Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-08T09:33:34Z'
+discovered_at: '2026-08-08T09:41:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

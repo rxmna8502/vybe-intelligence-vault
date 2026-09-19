@@ -1,19 +1,33 @@
 ---
-title: "W117C/DeepseekNova"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite FTS5", "React 18", "TypeScript", "Vite", "Tauri 2.0", "Zustand", "CSS", "TUI"]
+title: W117C/DeepseekNova
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- SQLite FTS5
+- React 18
+- TypeScript
+- Vite
+- Tauri 2.0
+- Zustand
+- CSS
+- TUI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "programming assistant", "multi-step reasoning", "sandbox execution", "desktop UI"]
-source: "https://github.com/W117C/DeepseekNova"
+deployment_complexity: Medium
+tags:
+- AI agent
+- programming assistant
+- multi-step reasoning
+- sandbox execution
+- desktop UI
+source: https://github.com/W117C/DeepseekNova
 stars: 1
-language: "Rust"
-last_updated: "2026-07-19T13:13:08Z"
-discovered_at: "2026-07-19T13:17:19Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-19T13:13:08Z'
+discovered_at: '2026-07-19T13:17:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

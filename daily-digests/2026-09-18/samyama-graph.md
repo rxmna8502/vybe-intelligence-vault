@@ -1,19 +1,31 @@
 ---
-title: "samyama-ai/samyama-graph"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "OpenCypher", "Vector Search", "Redis-Compatible Protocol", "Docker", "HNSW (Hierarchical Navigable Small World)", "Graph Algorithms"]
+title: samyama-ai/samyama-graph
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- OpenCypher
+- Vector Search
+- Redis-Compatible Protocol
+- Docker
+- HNSW (Hierarchical Navigable Small World)
+- Graph Algorithms
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["GraphRAG", "Knowledge Graph", "Vector Database", "Graph Analytics", "OpenCypher"]
-source: "https://github.com/samyama-ai/samyama-graph"
+deployment_complexity: Medium
+tags:
+- GraphRAG
+- Knowledge Graph
+- Vector Database
+- Graph Analytics
+- OpenCypher
+source: https://github.com/samyama-ai/samyama-graph
 stars: 66
-language: "Rust"
-last_updated: "2026-07-20T12:16:19Z"
-discovered_at: "2026-07-20T12:22:17Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-20T12:16:19Z'
+discovered_at: '2026-07-20T12:22:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

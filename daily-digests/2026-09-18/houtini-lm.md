@@ -1,19 +1,35 @@
 ---
-title: "houtini-ai/houtini-lm"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "SQLite", "MCP (Model Context Protocol)", "HTTP/SSE", "OpenAI API", "LM Studio", "Ollama", "vLLM", "HuggingFace API"]
+title: houtini-ai/houtini-lm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- SQLite
+- MCP (Model Context Protocol)
+- HTTP/SSE
+- OpenAI API
+- LM Studio
+- Ollama
+- vLLM
+- HuggingFace API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "token optimization", "local LLM", "Claude Code integration", "task offloading"]
-source: "https://github.com/houtini-ai/houtini-lm"
+deployment_complexity: Medium
+tags:
+- MCP server
+- token optimization
+- local LLM
+- Claude Code integration
+- task offloading
+source: https://github.com/houtini-ai/houtini-lm
 stars: 99
-language: "JavaScript"
-last_updated: "2026-07-17T08:06:01Z"
-discovered_at: "2026-07-17T08:07:43Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-17T08:06:01Z'
+discovered_at: '2026-07-17T08:07:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

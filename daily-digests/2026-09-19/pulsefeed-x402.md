@@ -1,19 +1,32 @@
 ---
-title: "Nikolife2016/pulsefeed-x402"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "npm", "Vercel AI SDK", "LangChain", "MCP (Model Context Protocol)", "REST APIs"]
+title: Nikolife2016/pulsefeed-x402
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- npm
+- Vercel AI SDK
+- LangChain
+- MCP (Model Context Protocol)
+- REST APIs
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["x402", "agent payments", "trust & safety", "MCP server", "endpoint verification"]
-source: "https://github.com/Nikolife2016/pulsefeed-x402"
+deployment_complexity: Low
+tags:
+- x402
+- agent payments
+- trust & safety
+- MCP server
+- endpoint verification
+source: https://github.com/Nikolife2016/pulsefeed-x402
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T14:49:10Z"
-discovered_at: "2026-08-01T15:01:39Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T14:49:10Z'
+discovered_at: '2026-08-01T15:01:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

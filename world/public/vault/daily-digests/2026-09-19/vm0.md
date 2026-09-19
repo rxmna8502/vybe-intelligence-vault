@@ -1,19 +1,36 @@
 ---
-title: "vm0-ai/vm0"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Node.js", "Firecracker microVM", "Slack API", "GitHub API", "Linear API", "Notion API", "Sentry", "Docker", "CI/CD (GitHub Actions)", "OpenTelemetry"]
+title: vm0-ai/vm0
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- React
+- Node.js
+- Firecracker microVM
+- Slack API
+- GitHub API
+- Linear API
+- Notion API
+- Sentry
+- Docker
+- CI/CD (GitHub Actions)
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["autonomous agents", "multi-tool orchestration", "enterprise workflows", "context-aware AI", "security-first"]
-source: "https://github.com/vm0-ai/vm0"
+deployment_complexity: High
+tags:
+- autonomous agents
+- multi-tool orchestration
+- enterprise workflows
+- context-aware AI
+- security-first
+source: https://github.com/vm0-ai/vm0
 stars: 1154
-language: "TypeScript"
-last_updated: "2026-09-01T02:49:06Z"
-discovered_at: "2026-09-01T02:50:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:49:06Z'
+discovered_at: '2026-09-01T02:50:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

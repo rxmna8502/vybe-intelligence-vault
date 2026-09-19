@@ -1,19 +1,34 @@
 ---
-title: "lemni/pen"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "React", "Vue", "Yjs", "npm", "pnpm", "Markdown", "HTML", "JSON", "XML"]
+title: lemni/pen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- React
+- Vue
+- Yjs
+- npm
+- pnpm
+- Markdown
+- HTML
+- JSON
+- XML
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["rich text editor", "AI collaboration", "headless UI", "modular architecture", "document model"]
-source: "https://github.com/lemni/pen"
+deployment_complexity: Medium
+tags:
+- rich text editor
+- AI collaboration
+- headless UI
+- modular architecture
+- document model
+source: https://github.com/lemni/pen
 stars: 28
-language: "TypeScript"
-last_updated: "2026-08-05T18:15:21Z"
-discovered_at: "2026-08-05T18:24:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T18:15:21Z'
+discovered_at: '2026-08-05T18:24:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "Nijikasuki/AemeathCode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "asyncio", "Textual", "JSON-RPC 2.0", "TCP", "NDJSON", "Anthropic Messages API", "MCP (Model Context Protocol)", "pytest"]
+title: Nijikasuki/AemeathCode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- asyncio
+- Textual
+- JSON-RPC 2.0
+- TCP
+- NDJSON
+- Anthropic Messages API
+- MCP (Model Context Protocol)
+- pytest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["ReAct Agent", "Terminal AI", "MCP Client", "Async Python", "Agent Architecture"]
-source: "https://github.com/Nijikasuki/AemeathCode"
+deployment_complexity: Medium
+tags:
+- ReAct Agent
+- Terminal AI
+- MCP Client
+- Async Python
+- Agent Architecture
+source: https://github.com/Nijikasuki/AemeathCode
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T10:33:27Z"
-discovered_at: "2026-08-08T10:34:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T10:33:27Z'
+discovered_at: '2026-08-08T10:34:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

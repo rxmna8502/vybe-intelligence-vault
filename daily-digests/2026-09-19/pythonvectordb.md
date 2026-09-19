@@ -1,19 +1,28 @@
 ---
-title: "leitoooatr/PythonVectorDB"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "NumPy", "Numba", "Int8 Quantization"]
+title: leitoooatr/PythonVectorDB
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- NumPy
+- Numba
+- Int8 Quantization
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["vector database", "similarity search", "Int8 quantization", "pure Python", "embedding storage"]
-source: "https://github.com/leitoooatr/PythonVectorDB"
+deployment_complexity: Low
+tags:
+- vector database
+- similarity search
+- Int8 quantization
+- pure Python
+- embedding storage
+source: https://github.com/leitoooatr/PythonVectorDB
 stars: 2
-language: "Python"
-last_updated: "2026-08-09T12:41:26Z"
-discovered_at: "2026-08-09T12:51:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T12:41:26Z'
+discovered_at: '2026-08-09T12:51:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

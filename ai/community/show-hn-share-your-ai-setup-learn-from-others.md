@@ -13,13 +13,14 @@ collected_at: '2026-09-18T04:26:25.614656+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-share-your-ai-setup-learn-from-others
 first_seen: '2026-09-18T01:17:41.805742+05:30'
 last_seen: '2026-09-18T04:26:25.614656+05:30'
 last_checked: '2026-09-18T04:26:25.614656+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Share your AI Setup, Learn from others
 

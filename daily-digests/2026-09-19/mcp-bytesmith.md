@@ -1,19 +1,30 @@
 ---
-title: "laszlopere/mcp-bytesmith"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "Cryptography", "Ethereum/EVM", "Serialization (CBOR, MessagePack, bencode, ASN.1, SSZ, protobuf)"]
+title: laszlopere/mcp-bytesmith
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- FastMCP
+- Model Context Protocol (MCP)
+- Cryptography
+- Ethereum/EVM
+- Serialization (CBOR, MessagePack, bencode, ASN.1, SSZ, protobuf)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "byte manipulation", "cryptographic primitives", "Ethereum tooling", "local computation"]
-source: "https://github.com/laszlopere/mcp-bytesmith"
+deployment_complexity: Low
+tags:
+- MCP server
+- byte manipulation
+- cryptographic primitives
+- Ethereum tooling
+- local computation
+source: https://github.com/laszlopere/mcp-bytesmith
 stars: 2
-language: "Python"
-last_updated: "2026-08-10T13:03:22Z"
-discovered_at: "2026-08-10T13:09:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T13:03:22Z'
+discovered_at: '2026-08-10T13:09:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "shawn-durrani/membro"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "HTTP API", "MCP (Model Context Protocol)", "Claude.ai integration", "Embeddings (OpenAI)", "LLM (Anthropic)"]
+title: shawn-durrani/membro
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- SQLite
+- HTTP API
+- MCP (Model Context Protocol)
+- Claude.ai integration
+- Embeddings (OpenAI)
+- LLM (Anthropic)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory service", "fact extraction", "provenance tracking", "local-first", "MCP server"]
-source: "https://github.com/shawn-durrani/membro"
+deployment_complexity: Medium
+tags:
+- memory service
+- fact extraction
+- provenance tracking
+- local-first
+- MCP server
+source: https://github.com/shawn-durrani/membro
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T07:50:43Z"
-discovered_at: "2026-08-08T07:51:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T07:50:43Z'
+discovered_at: '2026-08-08T07:51:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

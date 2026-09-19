@@ -1,19 +1,29 @@
 ---
-title: "narumiruna/yfinance-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "yfinance", "Model Context Protocol (MCP)", "FastAPI", "Pydantic"]
+title: narumiruna/yfinance-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- yfinance
+- Model Context Protocol (MCP)
+- FastAPI
+- Pydantic
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["financial data", "MCP server", "stock analysis", "real-time data", "AI tooling"]
-source: "https://github.com/narumiruna/yfinance-mcp"
+deployment_complexity: Low
+tags:
+- financial data
+- MCP server
+- stock analysis
+- real-time data
+- AI tooling
+source: https://github.com/narumiruna/yfinance-mcp
 stars: 174
-language: "Python"
-last_updated: "2026-08-05T13:54:37Z"
-discovered_at: "2026-08-05T14:08:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T13:54:37Z'
+discovered_at: '2026-08-05T14:08:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

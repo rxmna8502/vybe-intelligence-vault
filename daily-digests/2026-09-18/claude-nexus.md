@@ -1,19 +1,29 @@
 ---
-title: "skyvanguard/claude-nexus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "SQLite", "MCP (Model Context Protocol)", "Claude Code"]
+title: skyvanguard/claude-nexus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- MCP (Model Context Protocol)
+- Claude Code
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["peer discovery", "real-time messaging", "MCP integration", "cross-platform", "Claude Code"]
-source: "https://github.com/skyvanguard/claude-nexus"
+deployment_complexity: Medium
+tags:
+- peer discovery
+- real-time messaging
+- MCP integration
+- cross-platform
+- Claude Code
+source: https://github.com/skyvanguard/claude-nexus
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T15:17:39Z"
-discovered_at: "2026-08-06T15:19:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T15:17:39Z'
+discovered_at: '2026-08-06T15:19:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

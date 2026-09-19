@@ -1,19 +1,32 @@
 ---
-title: "venomez-viper/breezeml"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "scikit-learn", "pandas", "numpy", "joblib", "FastAPI", "Docker", "MCP (Model Context Protocol)"]
+title: venomez-viper/breezeml
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- scikit-learn
+- pandas
+- numpy
+- joblib
+- FastAPI
+- Docker
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["ML workflow automation", "scikit-learn wrapper", "model deployment", "AI agent integration", "honest ML"]
-source: "https://github.com/venomez-viper/breezeml"
+deployment_complexity: Medium
+tags:
+- ML workflow automation
+- scikit-learn wrapper
+- model deployment
+- AI agent integration
+- honest ML
+source: https://github.com/venomez-viper/breezeml
 stars: 2
-language: "Python"
-last_updated: "2026-07-19T16:50:21Z"
-discovered_at: "2026-07-19T16:57:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T16:50:21Z'
+discovered_at: '2026-07-19T16:57:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

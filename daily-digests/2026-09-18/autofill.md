@@ -1,19 +1,32 @@
 ---
-title: "jayzuccarelli/autofill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LLM (Browser Use, OpenAI, Anthropic, Ollama)", "Playwright", "Pydantic", "FastAPI", "Ollama (optional)", "Sentry (optional)", "Shell scripting"]
+title: jayzuccarelli/autofill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- LLM (Browser Use, OpenAI, Anthropic, Ollama)
+- Playwright
+- Pydantic
+- FastAPI
+- Ollama (optional)
+- Sentry (optional)
+- Shell scripting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["form automation", "AI agent", "web interaction", "profile-based filling", "document processing"]
-source: "https://github.com/jayzuccarelli/autofill"
+deployment_complexity: Medium
+tags:
+- form automation
+- AI agent
+- web interaction
+- profile-based filling
+- document processing
+source: https://github.com/jayzuccarelli/autofill
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T22:37:30Z"
-discovered_at: "2026-07-19T22:50:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T22:37:30Z'
+discovered_at: '2026-07-19T22:50:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

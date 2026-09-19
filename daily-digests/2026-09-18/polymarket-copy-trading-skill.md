@@ -1,19 +1,31 @@
 ---
-title: "polytrackers/polymarket-copy-trading-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["MCP (Model Context Protocol)", "REST API", "OpenAPI", "JavaScript/TypeScript", "Node.js", "HTTP/JSON", "API Gateways"]
+title: polytrackers/polymarket-copy-trading-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- MCP (Model Context Protocol)
+- REST API
+- OpenAPI
+- JavaScript/TypeScript
+- Node.js
+- HTTP/JSON
+- API Gateways
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Polymarket integration", "AI agent tools", "Copy trading", "Paper trading", "MCP server"]
-source: "https://github.com/polytrackers/polymarket-copy-trading-skill"
+deployment_complexity: Medium
+tags:
+- Polymarket integration
+- AI agent tools
+- Copy trading
+- Paper trading
+- MCP server
+source: https://github.com/polytrackers/polymarket-copy-trading-skill
 stars: 0
-language: "None"
-last_updated: "2026-07-15T19:51:50Z"
-discovered_at: "2026-07-15T20:08:18Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-15T19:51:50Z'
+discovered_at: '2026-07-15T20:08:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

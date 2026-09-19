@@ -1,19 +1,31 @@
 ---
-title: "linxuhao/AItelier"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SkillFlow (deterministic workflow engine)", "DeepSeek (LLM provider)", "Git (event-sourcing)", "FastAPI (API layer)", "Docker (deployment)"]
+title: linxuhao/AItelier
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SkillFlow (deterministic workflow engine)
+- DeepSeek (LLM provider)
+- Git (event-sourcing)
+- FastAPI (API layer)
+- Docker (deployment)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["workflow automation", "deterministic pipelines", "audit trails", "multi-agent systems", "MCP integration"]
-source: "https://github.com/linxuhao/AItelier"
+deployment_complexity: Medium
+tags:
+- workflow automation
+- deterministic pipelines
+- audit trails
+- multi-agent systems
+- MCP integration
+source: https://github.com/linxuhao/AItelier
 stars: 3
-language: "Python"
-last_updated: "2026-09-04T02:02:08Z"
-discovered_at: "2026-09-04T02:18:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T02:02:08Z'
+discovered_at: '2026-09-04T02:18:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

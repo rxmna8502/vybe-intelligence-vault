@@ -1,19 +1,34 @@
 ---
-title: "HH-SpringAI-Agent-Starter/spring-ai-mcp-enterprise"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 17", "Spring Boot 3.4", "MCP (Model Context Protocol)", "SSE (Server-Sent Events)", "Docker", "Maven", "Spring AI Alibaba", "JDBC", "Prometheus", "OAuth2/SSO"]
+title: HH-SpringAI-Agent-Starter/spring-ai-mcp-enterprise
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Java 17
+- Spring Boot 3.4
+- MCP (Model Context Protocol)
+- SSE (Server-Sent Events)
+- Docker
+- Maven
+- Spring AI Alibaba
+- JDBC
+- Prometheus
+- OAuth2/SSO
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Java Enterprise", "AI Agent Integration", "Spring Boot", "Tool Framework"]
-source: "https://github.com/HH-SpringAI-Agent-Starter/spring-ai-mcp-enterprise"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Java Enterprise
+- AI Agent Integration
+- Spring Boot
+- Tool Framework
+source: https://github.com/HH-SpringAI-Agent-Starter/spring-ai-mcp-enterprise
 stars: 0
-language: "Java"
-last_updated: "2026-08-02T13:48:40Z"
-discovered_at: "2026-08-02T13:49:05Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-02T13:48:40Z'
+discovered_at: '2026-08-02T13:49:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

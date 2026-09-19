@@ -1,19 +1,39 @@
 ---
-title: "mohammadfarazrajput/ai-car-matchmaker"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["LangChain DeepAgents", "AG-UI", "A2UI", "CopilotKit", "FastAPI", "Next.js", "React", "Google Vertex AI (Gemini 2.5 Flash)", "Groq (Llama 3.3 70B)", "Deepgram (Nova-3 / Aura)", "SendGrid", "Twilio", "Docker", "Python", "Node.js"]
+title: mohammadfarazrajput/ai-car-matchmaker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- LangChain DeepAgents
+- AG-UI
+- A2UI
+- CopilotKit
+- FastAPI
+- Next.js
+- React
+- Google Vertex AI (Gemini 2.5 Flash)
+- Groq (Llama 3.3 70B)
+- Deepgram (Nova-3 / Aura)
+- SendGrid
+- Twilio
+- Docker
+- Python
+- Node.js
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI agent", "car recommendation", "multimodal interaction", "marketplace research", "MCP apps"]
-source: "https://github.com/mohammadfarazrajput/ai-car-matchmaker"
+deployment_complexity: Medium
+tags:
+- AI agent
+- car recommendation
+- multimodal interaction
+- marketplace research
+- MCP apps
+source: https://github.com/mohammadfarazrajput/ai-car-matchmaker
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:29:51Z"
-discovered_at: "2026-08-08T11:30:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:29:51Z'
+discovered_at: '2026-08-08T11:30:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

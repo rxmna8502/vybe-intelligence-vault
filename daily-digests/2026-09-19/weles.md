@@ -1,19 +1,35 @@
 ---
-title: "wisent-ai/weles"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++", "Chromium", "Firefox", "JavaScript", "TypeScript", "Node.js", "Docker", "Kubernetes", "Python", "Skarbiec (credential management)", "Stado (orchestration)"]
+title: wisent-ai/weles
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- C++
+- Chromium
+- Firefox
+- JavaScript
+- TypeScript
+- Node.js
+- Docker
+- Kubernetes
+- Python
+- Skarbiec (credential management)
+- Stado (orchestration)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["browser automation", "AI agent internet access", "CAPTCHA evasion", "trajectory caching", "credential management"]
-source: "https://github.com/wisent-ai/weles"
+deployment_complexity: High
+tags:
+- browser automation
+- AI agent internet access
+- CAPTCHA evasion
+- trajectory caching
+- credential management
+source: https://github.com/wisent-ai/weles
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-01T18:59:17Z"
-discovered_at: "2026-09-01T19:05:58Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T18:59:17Z'
+discovered_at: '2026-09-01T19:05:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

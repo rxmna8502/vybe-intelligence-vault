@@ -1,19 +1,28 @@
 ---
-title: "brandikun/steam-storefront-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "TypeScript"]
+title: brandikun/steam-storefront-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- TypeScript
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Steam API", "MCP Server", "Game Metadata", "Review Analysis", "AI Tooling"]
-source: "https://github.com/brandikun/steam-storefront-mcp"
+deployment_complexity: Low
+tags:
+- Steam API
+- MCP Server
+- Game Metadata
+- Review Analysis
+- AI Tooling
+source: https://github.com/brandikun/steam-storefront-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-02T21:54:02Z"
-discovered_at: "2026-08-02T21:55:47Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T21:54:02Z'
+discovered_at: '2026-08-02T21:55:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

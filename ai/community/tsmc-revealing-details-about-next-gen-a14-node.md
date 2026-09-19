@@ -13,13 +13,14 @@ collected_at: '2026-09-18T04:26:23.865065+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tsmc-revealing-details-about-next-gen-a14-node
 first_seen: '2026-09-18T01:17:41.343920+05:30'
 last_seen: '2026-09-18T04:26:23.865065+05:30'
 last_checked: '2026-09-18T04:26:23.865065+05:30'
 health_score: 100
 ---
+
 
 # TSMC revealing details about next gen A14 node
 

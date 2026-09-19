@@ -1,19 +1,30 @@
 ---
-title: "shricol5839/jenny-android-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Android", "Python", "OpenAI API", "Anthropic API", "AGPL-3.0", "Local LLM Inference"]
+title: shricol5839/jenny-android-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Android
+- Python
+- OpenAI API
+- Anthropic API
+- AGPL-3.0
+- Local LLM Inference
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["local-first", "privacy-focused", "android-ai", "self-hosted", "autonomous-agent"]
-source: "https://github.com/shricol5839/jenny-android-ai-agent"
+deployment_complexity: Medium
+tags:
+- local-first
+- privacy-focused
+- android-ai
+- self-hosted
+- autonomous-agent
+source: https://github.com/shricol5839/jenny-android-ai-agent
 stars: 0
-language: "None"
-last_updated: "2026-08-07T02:39:49Z"
-discovered_at: "2026-08-07T02:41:28Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T02:39:49Z'
+discovered_at: '2026-08-07T02:41:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

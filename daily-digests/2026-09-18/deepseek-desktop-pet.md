@@ -1,19 +1,31 @@
 ---
-title: "sjmsltx/deepseek-desktop-pet"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Python", "PySide6", "DeepSeek API", "Live2D (optional)", "OpenGL", "JSON", "Markdown"]
+title: sjmsltx/deepseek-desktop-pet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- PySide6
+- DeepSeek API
+- Live2D (optional)
+- OpenGL
+- JSON
+- Markdown
 quality_score: 9
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["desktop companion", "AI pet", "function calling", "long-term memory", "proactive care"]
-source: "https://github.com/sjmsltx/deepseek-desktop-pet"
+deployment_complexity: Medium
+tags:
+- desktop companion
+- AI pet
+- function calling
+- long-term memory
+- proactive care
+source: https://github.com/sjmsltx/deepseek-desktop-pet
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T05:47:12Z"
-discovered_at: "2026-08-05T05:48:20Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:47:12Z'
+discovered_at: '2026-08-05T05:48:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

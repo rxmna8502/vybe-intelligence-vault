@@ -1,19 +1,29 @@
 ---
-title: "prodocik/asohawk"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "HTTP/HTTPS", "APIs", "JSON", "Web Dashboard"]
+title: prodocik/asohawk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Model Context Protocol (MCP)
+- HTTP/HTTPS
+- APIs
+- JSON
+- Web Dashboard
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["App Store Optimization", "AI Agents", "MCP", "ASO Tools", "Mobile Analytics"]
-source: "https://github.com/prodocik/asohawk"
+deployment_complexity: Low
+tags:
+- App Store Optimization
+- AI Agents
+- MCP
+- ASO Tools
+- Mobile Analytics
+source: https://github.com/prodocik/asohawk
 stars: 10
-language: "None"
-last_updated: "2026-08-05T18:20:49Z"
-discovered_at: "2026-08-05T18:24:50Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-05T18:20:49Z'
+discovered_at: '2026-08-05T18:24:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "EmbeddedLLM/JamAIBase"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "LanceDB", "LLM (OpenAI GPT-4, Anthropic Claude 3, Meta Llama3, DeepSeek)", "REST API", "Streamlit", "Express.js", "NLUX"]
+title: EmbeddedLLM/JamAIBase
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- SQLite
+- LanceDB
+- LLM (OpenAI GPT-4, Anthropic Claude 3, Meta Llama3, DeepSeek)
+- REST API
+- Streamlit
+- Express.js
+- NLUX
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "vector database", "LLM orchestration", "spreadsheet UI", "self-hosted"]
-source: "https://github.com/EmbeddedLLM/JamAIBase"
+deployment_complexity: Medium
+tags:
+- RAG
+- vector database
+- LLM orchestration
+- spreadsheet UI
+- self-hosted
+source: https://github.com/EmbeddedLLM/JamAIBase
 stars: 1103
-language: "Python"
-last_updated: "2026-09-03T06:32:46Z"
-discovered_at: "2026-09-03T22:12:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T06:32:46Z'
+discovered_at: '2026-09-03T22:12:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "seductive-bercy787/learn-from-claudecode"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows", "Electron", "JavaScript/TypeScript", "Markdown", "ZIP/EXE packaging"]
+title: seductive-bercy787/learn-from-claudecode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Windows
+- Electron
+- JavaScript/TypeScript
+- Markdown
+- ZIP/EXE packaging
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["LLM education", "code analysis", "Claude Code", "Windows app", "guided learning"]
-source: "https://github.com/seductive-bercy787/learn-from-claudecode"
+deployment_complexity: Low
+tags:
+- LLM education
+- code analysis
+- Claude Code
+- Windows app
+- guided learning
+source: https://github.com/seductive-bercy787/learn-from-claudecode
 stars: 1
-language: "None"
-last_updated: "2026-07-10T20:20:11Z"
-discovered_at: "2026-07-10T20:22:28Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-10T20:20:11Z'
+discovered_at: '2026-07-10T20:22:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "modarresi1913/shadow-db"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Firecrawl", "SQLite", "Qdrant", "Express", "WebSocket", "SHA-256 hashing", "DOM normalization"]
+title: modarresi1913/shadow-db
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Firecrawl
+- SQLite
+- Qdrant
+- Express
+- WebSocket
+- SHA-256 hashing
+- DOM normalization
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["delta detection", "semantic events", "web monitoring", "AI agent pipeline", "content reduction"]
-source: "https://github.com/modarresi1913/shadow-db"
+deployment_complexity: Medium
+tags:
+- delta detection
+- semantic events
+- web monitoring
+- AI agent pipeline
+- content reduction
+source: https://github.com/modarresi1913/shadow-db
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-09T05:53:12Z"
-discovered_at: "2026-08-09T06:59:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T05:53:12Z'
+discovered_at: '2026-08-09T06:59:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

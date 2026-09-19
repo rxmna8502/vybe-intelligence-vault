@@ -1,19 +1,32 @@
 ---
-title: "poketopa/believe-me"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "Java", "Spring", "PostgreSQL", "Gradle", "CLI", "JSONL", "npm"]
+title: poketopa/believe-me
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Node.js
+- Java
+- Spring
+- PostgreSQL
+- Gradle
+- CLI
+- JSONL
+- npm
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI safety", "verifiable execution", "atomic apply", "code change management", "isolation"]
-source: "https://github.com/poketopa/believe-me"
+deployment_complexity: Medium
+tags:
+- AI safety
+- verifiable execution
+- atomic apply
+- code change management
+- isolation
+source: https://github.com/poketopa/believe-me
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-05T22:13:00Z"
-discovered_at: "2026-08-05T22:14:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T22:13:00Z'
+discovered_at: '2026-08-05T22:14:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "Divyanshu-Raj-IITMd/ContextBird"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Next.js 14", "TypeScript", "Python 3.12", "FastAPI", "Tailwind CSS", "Whisper (STT)", "Mistral 7B (LLM)", "FAISS (Vector DB)", "Ollama", "SQLite", "Docker"]
+title: Divyanshu-Raj-IITMd/ContextBird
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Next.js 14
+- TypeScript
+- Python 3.12
+- FastAPI
+- Tailwind CSS
+- Whisper (STT)
+- Mistral 7B (LLM)
+- FAISS (Vector DB)
+- Ollama
+- SQLite
+- Docker
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Meeting Intelligence", "Privacy-First AI", "Local RAG", "Action Item Extraction", "Semantic Memory"]
-source: "https://github.com/Divyanshu-Raj-IITMd/ContextBird"
+deployment_complexity: Medium
+tags:
+- Meeting Intelligence
+- Privacy-First AI
+- Local RAG
+- Action Item Extraction
+- Semantic Memory
+source: https://github.com/Divyanshu-Raj-IITMd/ContextBird
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T20:17:43Z"
-discovered_at: "2026-08-09T20:35:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T20:17:43Z'
+discovered_at: '2026-08-09T20:35:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

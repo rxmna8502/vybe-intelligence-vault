@@ -1,19 +1,29 @@
 ---
-title: "Kirky-X/specmark"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "Node.js", "AI Agent Skills CLI", "Mermaid.js", "Git"]
+title: Kirky-X/specmark
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Shell
+- Node.js
+- AI Agent Skills CLI
+- Mermaid.js
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["spec-driven development", "AI agent workflow", "change management", "documentation automation", "workflow orchestration"]
-source: "https://github.com/Kirky-X/specmark"
+deployment_complexity: Medium
+tags:
+- spec-driven development
+- AI agent workflow
+- change management
+- documentation automation
+- workflow orchestration
+source: https://github.com/Kirky-X/specmark
 stars: 0
-language: "Shell"
-last_updated: "2026-08-06T03:16:14Z"
-discovered_at: "2026-08-06T03:18:41Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-06T03:16:14Z'
+discovered_at: '2026-08-06T03:18:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

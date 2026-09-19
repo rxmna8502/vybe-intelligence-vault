@@ -1,19 +1,32 @@
 ---
-title: "w1ne/labwired-core"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "YAML", "ELF", "ARM Cortex-M", "RISC-V", "CI/CD", "MCP (Model Context Protocol)", "GDB"]
+title: w1ne/labwired-core
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- YAML
+- ELF
+- ARM Cortex-M
+- RISC-V
+- CI/CD
+- MCP (Model Context Protocol)
+- GDB
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["firmware simulation", "deterministic testing", "hardware modeling", "CI integration", "embedded development"]
-source: "https://github.com/w1ne/labwired-core"
+deployment_complexity: Medium
+tags:
+- firmware simulation
+- deterministic testing
+- hardware modeling
+- CI integration
+- embedded development
+source: https://github.com/w1ne/labwired-core
 stars: 25
-language: "Rust"
-last_updated: "2026-08-01T14:54:45Z"
-discovered_at: "2026-08-01T15:01:30Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T14:54:45Z'
+discovered_at: '2026-08-01T15:01:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

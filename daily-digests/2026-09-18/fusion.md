@@ -1,19 +1,34 @@
 ---
-title: "jinleiphys/FUSION"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Shell", "Python", "Fortran", "C++", "Markdown", "Git", "Make", "opencode", "Claude Code", "Codex"]
+title: jinleiphys/FUSION
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Shell
+- Python
+- Fortran
+- C++
+- Markdown
+- Git
+- Make
+- opencode
+- Claude Code
+- Codex
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["nuclear physics", "AI agent", "scientific computing", "code automation", "offline knowledge base"]
-source: "https://github.com/jinleiphys/FUSION"
+deployment_complexity: Medium
+tags:
+- nuclear physics
+- AI agent
+- scientific computing
+- code automation
+- offline knowledge base
+source: https://github.com/jinleiphys/FUSION
 stars: 3
-language: "Shell"
-last_updated: "2026-09-04T02:06:05Z"
-discovered_at: "2026-09-04T02:13:15Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-09-04T02:06:05Z'
+discovered_at: '2026-09-04T02:13:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

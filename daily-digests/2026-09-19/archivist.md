@@ -1,19 +1,37 @@
 ---
-title: "Youssef-Osama1/archivist"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "PostgreSQL", "pgvector", "Qdrant", "OpenAI", "Cohere", "LangChain", "SQLAlchemy", "Alembic", "Docker Compose", "Prometheus", "Grafana", "sentence-transformers"]
+title: Youssef-Osama1/archivist
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- FastAPI
+- PostgreSQL
+- pgvector
+- Qdrant
+- OpenAI
+- Cohere
+- LangChain
+- SQLAlchemy
+- Alembic
+- Docker Compose
+- Prometheus
+- Grafana
+- sentence-transformers
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Vector Search", "Hybrid Search", "LLM Integration", "Observability"]
-source: "https://github.com/Youssef-Osama1/archivist"
+deployment_complexity: Medium
+tags:
+- RAG
+- Vector Search
+- Hybrid Search
+- LLM Integration
+- Observability
+source: https://github.com/Youssef-Osama1/archivist
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T14:19:35Z"
-discovered_at: "2026-08-09T14:38:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T14:19:35Z'
+discovered_at: '2026-08-09T14:38:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

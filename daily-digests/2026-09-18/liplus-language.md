@@ -1,19 +1,29 @@
 ---
-title: "Liplus-Project/liplus-language"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "CI/CD", "Version Control Systems", "AI Agents (Claude, GPT, Codex, etc.)"]
+title: Liplus-Project/liplus-language
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Markdown
+- CI/CD
+- Version Control Systems
+- AI Agents (Claude, GPT, Codex, etc.)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["requirements-as-code", "AI agent governance", "dialogue-driven development", "CI-driven autonomy", "behavior-first correctness"]
-source: "https://github.com/Liplus-Project/liplus-language"
+deployment_complexity: Medium
+tags:
+- requirements-as-code
+- AI agent governance
+- dialogue-driven development
+- CI-driven autonomy
+- behavior-first correctness
+source: https://github.com/Liplus-Project/liplus-language
 stars: 3
-language: "Python"
-last_updated: "2026-08-05T02:10:55Z"
-discovered_at: "2026-08-05T02:17:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T02:10:55Z'
+discovered_at: '2026-08-05T02:17:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

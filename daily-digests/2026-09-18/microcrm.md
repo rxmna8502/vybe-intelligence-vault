@@ -1,19 +1,36 @@
 ---
-title: "micro-so/microcrm"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui", "Micro Blocks", "Eve (agent runtime)", "SQLite", "@micro-so/sdk", "Turborepo", "Bun", "Biome"]
+title: micro-so/microcrm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Micro Blocks
+- Eve (agent runtime)
+- SQLite
+- '@micro-so/sdk'
+- Turborepo
+- Bun
+- Biome
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CRM", "agentic", "evidence-based", "self-hosted", "Micro Blocks"]
-source: "https://github.com/micro-so/microcrm"
+deployment_complexity: Medium
+tags:
+- CRM
+- agentic
+- evidence-based
+- self-hosted
+- Micro Blocks
+source: https://github.com/micro-so/microcrm
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-03T18:51:44Z"
-discovered_at: "2026-08-03T18:52:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T18:51:44Z'
+discovered_at: '2026-08-03T18:52:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

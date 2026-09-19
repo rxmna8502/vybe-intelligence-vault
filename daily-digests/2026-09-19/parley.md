@@ -1,19 +1,35 @@
 ---
-title: "jscholz/parley"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Node.js", "React", "WebRTC", "STT (Deepgram, OpenAI Whisper)", "TTS (ElevenLabs, OpenAI)", "PWA (Progressive Web App)", "WebSockets", "SQLite (parley.db)", "Python (audio-bridge for VAD/STT)", "Docker (optional)"]
+title: jscholz/parley
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- WebRTC
+- STT (Deepgram, OpenAI Whisper)
+- TTS (ElevenLabs, OpenAI)
+- PWA (Progressive Web App)
+- WebSockets
+- SQLite (parley.db)
+- Python (audio-bridge for VAD/STT)
+- Docker (optional)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["voice-first", "AI agent interface", "PWA", "WebRTC", "STT/TTS"]
-source: "https://github.com/jscholz/parley"
+deployment_complexity: Medium
+tags:
+- voice-first
+- AI agent interface
+- PWA
+- WebRTC
+- STT/TTS
+source: https://github.com/jscholz/parley
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:37:43Z"
-discovered_at: "2026-09-01T02:51:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:37:43Z'
+discovered_at: '2026-09-01T02:51:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

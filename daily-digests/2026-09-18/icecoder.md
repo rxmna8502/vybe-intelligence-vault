@@ -1,19 +1,33 @@
 ---
-title: "lbiceman/iceCoder"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Node.js", "MCP (Model Context Protocol)", "WebSocket", "Markdown", "Git", "Shell", "Vitest"]
+title: lbiceman/iceCoder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- MCP (Model Context Protocol)
+- WebSocket
+- Markdown
+- Git
+- Shell
+- Vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "self-hosted", "multi-session", "MCP integration", "checkpointing"]
-source: "https://github.com/lbiceman/iceCoder"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- self-hosted
+- multi-session
+- MCP integration
+- checkpointing
+source: https://github.com/lbiceman/iceCoder
 stars: 75
-language: "TypeScript"
-last_updated: "2026-08-07T09:55:27Z"
-discovered_at: "2026-08-07T10:03:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T09:55:27Z'
+discovered_at: '2026-08-07T10:03:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,27 @@
 ---
-title: "monkeyking-hq/universal-code"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Semantic Versioning", "Ethical Framework Design", "Markdown"]
+title: monkeyking-hq/universal-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Semantic Versioning
+- Ethical Framework Design
+- Markdown
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["ethical AI", "AI safety", "ethical framework", "semantic versioning", "AI governance"]
-source: "https://github.com/monkeyking-hq/universal-code"
+deployment_complexity: Low
+tags:
+- ethical AI
+- AI safety
+- ethical framework
+- semantic versioning
+- AI governance
+source: https://github.com/monkeyking-hq/universal-code
 stars: 0
-language: "None"
-last_updated: "2026-08-02T23:56:41Z"
-discovered_at: "2026-08-03T00:01:00Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-02T23:56:41Z'
+discovered_at: '2026-08-03T00:01:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "getbullet-app/paraql"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["JavaScript", "libSQL", "Autobee", "SQLite", "Corestore", "Bare", "zlib"]
+title: getbullet-app/paraql
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- libSQL
+- Autobee
+- SQLite
+- Corestore
+- Bare
+- zlib
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["relational database", "vector search", "P2P", "SQL", "multi-writer"]
-source: "https://github.com/getbullet-app/paraql"
+deployment_complexity: Medium
+tags:
+- relational database
+- vector search
+- P2P
+- SQL
+- multi-writer
+source: https://github.com/getbullet-app/paraql
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T18:48:35Z"
-discovered_at: "2026-08-08T19:33:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T18:48:35Z'
+discovered_at: '2026-08-08T19:33:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

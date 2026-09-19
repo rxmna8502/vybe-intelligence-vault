@@ -1,19 +1,32 @@
 ---
-title: "503496348-ops/barren-order"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Feishu (Lark) API", "DAG Workflow Engine", "State Machines", "TTL-based Memory Management", "Pytest", "Bash Scripting", "CI/CD Pipelines"]
+title: 503496348-ops/barren-order
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Feishu (Lark) API
+- DAG Workflow Engine
+- State Machines
+- TTL-based Memory Management
+- Pytest
+- Bash Scripting
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent collaboration", "workflow orchestration", "Feishu integration", "state management", "AI agent coordination"]
-source: "https://github.com/503496348-ops/barren-order"
+deployment_complexity: Medium
+tags:
+- multi-agent collaboration
+- workflow orchestration
+- Feishu integration
+- state management
+- AI agent coordination
+source: https://github.com/503496348-ops/barren-order
 stars: 19
-language: "Python"
-last_updated: "2026-07-11T02:20:30Z"
-discovered_at: "2026-07-11T02:27:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T02:20:30Z'
+discovered_at: '2026-07-11T02:27:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

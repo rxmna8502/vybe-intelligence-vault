@@ -1,19 +1,32 @@
 ---
-title: "novaoc/nanoclaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Discord API (discordgo)", "DeepSeek API", "xAI Grok (image/video generation)", "RISC-V", "Linux", "GitHub API", "Brave/DuckDuckGo (web search)"]
+title: novaoc/nanoclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- Discord API (discordgo)
+- DeepSeek API
+- xAI Grok (image/video generation)
+- RISC-V
+- Linux
+- GitHub API
+- Brave/DuckDuckGo (web search)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Discord bot", "RISC-V", "Agentic AI", "Tool-calling", "Embedded AI"]
-source: "https://github.com/novaoc/nanoclaw"
+deployment_complexity: Medium
+tags:
+- Discord bot
+- RISC-V
+- Agentic AI
+- Tool-calling
+- Embedded AI
+source: https://github.com/novaoc/nanoclaw
 stars: 1
-language: "Go"
-last_updated: "2026-08-10T17:57:59Z"
-discovered_at: "2026-08-10T18:01:29Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-10T17:57:59Z'
+discovered_at: '2026-08-10T18:01:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "joinwell52-AI/joinwell52"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Markdown", "VitePress", "GitHub Pages", "GitHub Actions", "CITATION.cff"]
+title: joinwell52-AI/joinwell52
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Markdown
+- VitePress
+- GitHub Pages
+- GitHub Actions
+- CITATION.cff
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI governance", "multi-agent systems", "digital employees", "research framework", "specification"]
-source: "https://github.com/joinwell52-AI/joinwell52"
+deployment_complexity: Low
+tags:
+- AI governance
+- multi-agent systems
+- digital employees
+- research framework
+- specification
+source: https://github.com/joinwell52-AI/joinwell52
 stars: 3
-language: "None"
-last_updated: "2026-08-01T09:05:05Z"
-discovered_at: "2026-08-01T09:06:12Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T09:05:05Z'
+discovered_at: '2026-08-01T09:06:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

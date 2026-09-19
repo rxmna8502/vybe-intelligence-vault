@@ -1,19 +1,31 @@
 ---
-title: "j2h4u/enji-guard-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Docker", "MCP (Model Context Protocol)", "REST API", "DDD (Domain-Driven Design)", "OpenAPI"]
+title: j2h4u/enji-guard-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- CLI
+- Docker
+- MCP (Model Context Protocol)
+- REST API
+- DDD (Domain-Driven Design)
+- OpenAPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["repository auditing", "automated workflows", "CLI tool", "MCP integration", "portfolio management"]
-source: "https://github.com/j2h4u/enji-guard-cli"
+deployment_complexity: Medium
+tags:
+- repository auditing
+- automated workflows
+- CLI tool
+- MCP integration
+- portfolio management
+source: https://github.com/j2h4u/enji-guard-cli
 stars: 4
-language: "Python"
-last_updated: "2026-08-03T22:08:19Z"
-discovered_at: "2026-08-03T22:09:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T22:08:19Z'
+discovered_at: '2026-08-03T22:09:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

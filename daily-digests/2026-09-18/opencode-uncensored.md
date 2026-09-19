@@ -1,19 +1,28 @@
 ---
-title: "ayushrajdev9-cmyk/opencode-uncensored"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JSON", "AI Agent Framework", "opencode", "System Prompt Engineering"]
+title: ayushrajdev9-cmyk/opencode-uncensored
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JSON
+- AI Agent Framework
+- opencode
+- System Prompt Engineering
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["uncensored AI", "agent configuration", "permission bypass", "subagent depth", "AI safety bypass"]
-source: "https://github.com/ayushrajdev9-cmyk/opencode-uncensored"
+deployment_complexity: Low
+tags:
+- uncensored AI
+- agent configuration
+- permission bypass
+- subagent depth
+- AI safety bypass
+source: https://github.com/ayushrajdev9-cmyk/opencode-uncensored
 stars: 4
-language: "None"
-last_updated: "2026-08-08T10:30:54Z"
-discovered_at: "2026-08-08T10:34:50Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T10:30:54Z'
+discovered_at: '2026-08-08T10:34:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

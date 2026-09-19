@@ -1,19 +1,30 @@
 ---
-title: "jkawamoto/mcp-youtube-transcript"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "YouTube Transcript API", "Docker", "uv", "yt-dlp"]
+title: jkawamoto/mcp-youtube-transcript
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- YouTube Transcript API
+- Docker
+- uv
+- yt-dlp
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "YouTube transcript", "RAG data source", "video metadata", "text extraction"]
-source: "https://github.com/jkawamoto/mcp-youtube-transcript"
+deployment_complexity: Low
+tags:
+- MCP server
+- YouTube transcript
+- RAG data source
+- video metadata
+- text extraction
+source: https://github.com/jkawamoto/mcp-youtube-transcript
 stars: 463
-language: "Python"
-last_updated: "2026-08-07T18:52:03Z"
-discovered_at: "2026-08-07T18:57:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T18:52:03Z'
+discovered_at: '2026-08-07T18:57:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

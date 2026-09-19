@@ -1,19 +1,34 @@
 ---
-title: "nelslindahlx/knowledge-reduce-core"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "networkx", "spaCy (optional)", "PDF libraries (optional)", "SQLite", "JSONL", "CLI tools", "Knowledge graphs", "Vector embeddings", "Blockchain verification (optional)"]
+title: nelslindahlx/knowledge-reduce-core
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- networkx
+- spaCy (optional)
+- PDF libraries (optional)
+- SQLite
+- JSONL
+- CLI tools
+- Knowledge graphs
+- Vector embeddings
+- Blockchain verification (optional)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["document distillation", "knowledge extraction", "RAG optimization", "fact extraction", "reliability scoring"]
-source: "https://github.com/nelslindahlx/knowledge-reduce-core"
+deployment_complexity: Medium
+tags:
+- document distillation
+- knowledge extraction
+- RAG optimization
+- fact extraction
+- reliability scoring
+source: https://github.com/nelslindahlx/knowledge-reduce-core
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T21:49:08Z"
-discovered_at: "2026-07-18T21:49:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T21:49:08Z'
+discovered_at: '2026-07-18T21:49:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

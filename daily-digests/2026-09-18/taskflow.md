@@ -1,19 +1,28 @@
 ---
-title: "NagilaLopes/taskflow"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PowerShell", "Python (implied for AI models)", "Electron (implied for desktop app)", "AI/ML models for NLP"]
+title: NagilaLopes/taskflow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- PowerShell
+- Python (implied for AI models)
+- Electron (implied for desktop app)
+- AI/ML models for NLP
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["document processing", "NLP", "desktop application", "cost-efficient", "AI pipeline"]
-source: "https://github.com/NagilaLopes/taskflow"
+deployment_complexity: Low
+tags:
+- document processing
+- NLP
+- desktop application
+- cost-efficient
+- AI pipeline
+source: https://github.com/NagilaLopes/taskflow
 stars: 1
-language: "PowerShell"
-last_updated: "2026-09-01T22:14:37Z"
-discovered_at: "2026-09-01T22:19:44Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-09-01T22:14:37Z'
+discovered_at: '2026-09-01T22:19:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

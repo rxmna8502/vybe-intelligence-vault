@@ -1,19 +1,29 @@
 ---
-title: "tberghane/calibratr-plugins"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Claude Code", "MCP (Model Context Protocol)", "Node.js", "Claude Skills"]
+title: tberghane/calibratr-plugins
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Claude Code
+- MCP (Model Context Protocol)
+- Node.js
+- Claude Skills
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["recruiting automation", "candidate sourcing", "Claude plugins", "MCP integration", "role-DNA scoring"]
-source: "https://github.com/tberghane/calibratr-plugins"
+deployment_complexity: Medium
+tags:
+- recruiting automation
+- candidate sourcing
+- Claude plugins
+- MCP integration
+- role-DNA scoring
+source: https://github.com/tberghane/calibratr-plugins
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T21:09:39Z"
-discovered_at: "2026-08-04T21:15:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T21:09:39Z'
+discovered_at: '2026-08-04T21:15:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

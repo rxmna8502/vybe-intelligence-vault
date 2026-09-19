@@ -1,19 +1,40 @@
 ---
-title: "tinh2/skills-hub-registry"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "MCP (Model Context Protocol)", "Git", "YAML", "Markdown", "FFmpeg", "ElevenLabs TTS", "Godot", "Unity", "Flutter", "React Native", "Next.js", "Docker", "Kubernetes", "Terraform"]
+title: tinh2/skills-hub-registry
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Claude Code
+- MCP (Model Context Protocol)
+- Git
+- YAML
+- Markdown
+- FFmpeg
+- ElevenLabs TTS
+- Godot
+- Unity
+- Flutter
+- React Native
+- Next.js
+- Docker
+- Kubernetes
+- Terraform
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI skills registry", "software development automation", "self-healing skills", "modular orchestration", "production-ready templates"]
-source: "https://github.com/tinh2/skills-hub-registry"
+deployment_complexity: Medium
+tags:
+- AI skills registry
+- software development automation
+- self-healing skills
+- modular orchestration
+- production-ready templates
+source: https://github.com/tinh2/skills-hub-registry
 stars: 7
-language: "Python"
-last_updated: "2026-07-16T16:24:46Z"
-discovered_at: "2026-07-16T16:25:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T16:24:46Z'
+discovered_at: '2026-07-16T16:25:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

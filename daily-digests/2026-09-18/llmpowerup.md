@@ -1,19 +1,29 @@
 ---
-title: "xyliajainist1640/llmpowerup"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Windows API", "API Integration", "Streaming Protocols", "Agent Orchestration"]
+title: xyliajainist1640/llmpowerup
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- Windows API
+- API Integration
+- Streaming Protocols
+- Agent Orchestration
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "tool integration", "Rust-based", "local execution", "model orchestration"]
-source: "https://github.com/xyliajainist1640/llmpowerup"
+deployment_complexity: Medium
+tags:
+- AI agents
+- tool integration
+- Rust-based
+- local execution
+- model orchestration
+source: https://github.com/xyliajainist1640/llmpowerup
 stars: 0
-language: "Rust"
-last_updated: "2026-07-11T11:01:20Z"
-discovered_at: "2026-07-11T11:03:41Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-11T11:01:20Z'
+discovered_at: '2026-07-11T11:03:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

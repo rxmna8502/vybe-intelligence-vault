@@ -13,13 +13,14 @@ collected_at: '2026-09-18T04:26:22.731035+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:sex-ai-and-the-apocalypse
 first_seen: '2026-09-18T04:26:22.731035+05:30'
 last_seen: '2026-09-18T04:26:22.731035+05:30'
 last_checked: '2026-09-18T04:26:22.731035+05:30'
 health_score: 100
 ---
+
 
 # Sex, AI, and the Apocalypse
 

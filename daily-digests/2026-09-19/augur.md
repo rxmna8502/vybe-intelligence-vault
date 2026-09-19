@@ -1,19 +1,34 @@
 ---
-title: "Wintersta7e/augur"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.12", "Redis", "NATS + JetStream", "Ollama (local LLM)", "River (online ML)", "NetworkX", "FastMCP", "Docker", "pytest", "ruff"]
+title: Wintersta7e/augur
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python 3.12
+- Redis
+- NATS + JetStream
+- Ollama (local LLM)
+- River (online ML)
+- NetworkX
+- FastMCP
+- Docker
+- pytest
+- ruff
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["neurosymbolic AI", "blackboard architecture", "local-first", "anomaly detection", "self-improvement"]
-source: "https://github.com/Wintersta7e/augur"
+deployment_complexity: High
+tags:
+- neurosymbolic AI
+- blackboard architecture
+- local-first
+- anomaly detection
+- self-improvement
+source: https://github.com/Wintersta7e/augur
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T18:04:41Z"
-discovered_at: "2026-07-17T18:05:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T18:04:41Z'
+discovered_at: '2026-07-17T18:05:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

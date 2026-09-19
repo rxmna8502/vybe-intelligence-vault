@@ -1,19 +1,30 @@
 ---
-title: "gcgarriga/baremetal-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "httpx", "rich", "GitHub Models API", "pytest", "ruff"]
+title: gcgarriga/baremetal-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- httpx
+- rich
+- GitHub Models API
+- pytest
+- ruff
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["agent runtime", "tool-use loop", "raw LLM API", "inspectable agent", "educational"]
-source: "https://github.com/gcgarriga/baremetal-ai-agent"
+deployment_complexity: Low
+tags:
+- agent runtime
+- tool-use loop
+- raw LLM API
+- inspectable agent
+- educational
+source: https://github.com/gcgarriga/baremetal-ai-agent
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T22:08:05Z"
-discovered_at: "2026-09-01T22:18:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:08:05Z'
+discovered_at: '2026-09-01T22:18:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

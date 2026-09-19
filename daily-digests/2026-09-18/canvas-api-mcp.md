@@ -1,19 +1,31 @@
 ---
-title: "JohannsenLum/canvas-api-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "OAuth", "PyPI", "uv", "GitHub Actions"]
+title: JohannsenLum/canvas-api-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- OAuth
+- PyPI
+- uv
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Canvas LMS", "MCP server", "API gateway", "Student tools", "Educational AI"]
-source: "https://github.com/JohannsenLum/canvas-api-mcp"
+deployment_complexity: Medium
+tags:
+- Canvas LMS
+- MCP server
+- API gateway
+- Student tools
+- Educational AI
+source: https://github.com/JohannsenLum/canvas-api-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-08-10T03:57:37Z"
-discovered_at: "2026-08-10T03:58:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T03:57:37Z'
+discovered_at: '2026-08-10T03:58:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

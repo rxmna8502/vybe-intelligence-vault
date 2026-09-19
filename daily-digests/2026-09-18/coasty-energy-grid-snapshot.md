@@ -1,19 +1,30 @@
 ---
-title: "coasty-ai/coasty-energy-grid-snapshot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "Coasty API", "Vision Models", "Browser Automation", "FFmpeg"]
+title: coasty-ai/coasty-energy-grid-snapshot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Node.js
+- JavaScript
+- Coasty API
+- Vision Models
+- Browser Automation
+- FFmpeg
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI automation", "browser interaction", "energy grid monitoring", "vision models", "computer-use"]
-source: "https://github.com/coasty-ai/coasty-energy-grid-snapshot"
+deployment_complexity: Medium
+tags:
+- AI automation
+- browser interaction
+- energy grid monitoring
+- vision models
+- computer-use
+source: https://github.com/coasty-ai/coasty-energy-grid-snapshot
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:22:31Z"
-discovered_at: "2026-08-02T19:25:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:22:31Z'
+discovered_at: '2026-08-02T19:25:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

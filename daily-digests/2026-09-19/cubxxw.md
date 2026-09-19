@@ -1,19 +1,33 @@
 ---
-title: "cubxxw/cubxxw"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Python", "TypeScript", "Kubernetes", "Cloud Native", "LLM Frameworks", "Agent Frameworks", "RSS", "Markdown"]
+title: cubxxw/cubxxw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- Python
+- TypeScript
+- Kubernetes
+- Cloud Native
+- LLM Frameworks
+- Agent Frameworks
+- RSS
+- Markdown
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Product Building", "Open Source Contributions", "Digital Nomad", "Solo Development", "Voice AI"]
-source: "https://github.com/cubxxw/cubxxw"
+deployment_complexity: Medium
+tags:
+- AI Product Building
+- Open Source Contributions
+- Digital Nomad
+- Solo Development
+- Voice AI
+source: https://github.com/cubxxw/cubxxw
 stars: 13
-language: "None"
-last_updated: "2026-07-18T09:21:15Z"
-discovered_at: "2026-07-18T09:23:36Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-18T09:21:15Z'
+discovered_at: '2026-07-18T09:23:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

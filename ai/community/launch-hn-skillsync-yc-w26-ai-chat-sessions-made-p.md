@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p
 first_seen: '2026-09-18T01:17:41.674940+05:30'
 last_seen: '2026-09-18T04:26:25.377464+05:30'
 last_checked: '2026-09-18T04:26:25.377464+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents
 

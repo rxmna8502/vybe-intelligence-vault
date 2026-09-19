@@ -1,19 +1,35 @@
 ---
-title: "Luqueee/kivgraph"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "TypeScript", "Rust", "Python", "Dart", "LadybugDB", "MCP (Model Context Protocol)", "HotSnapshot", "Pyright", "rust-analyzer", "Dart Analysis Server"]
+title: Luqueee/kivgraph
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- TypeScript
+- Rust
+- Python
+- Dart
+- LadybugDB
+- MCP (Model Context Protocol)
+- HotSnapshot
+- Pyright
+- rust-analyzer
+- Dart Analysis Server
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code intelligence", "semantic graph", "cross-repository", "MCP server", "AI agent tools"]
-source: "https://github.com/Luqueee/kivgraph"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- semantic graph
+- cross-repository
+- MCP server
+- AI agent tools
+source: https://github.com/Luqueee/kivgraph
 stars: 17
-language: "Go"
-last_updated: "2026-09-01T15:48:31Z"
-discovered_at: "2026-09-01T15:55:46Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T15:48:31Z'
+discovered_at: '2026-09-01T15:55:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

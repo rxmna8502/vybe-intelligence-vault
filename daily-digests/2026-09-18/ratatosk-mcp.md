@@ -1,19 +1,30 @@
 ---
-title: "garlicKim21/ratatosk-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Docker", "Helm", "REST API", "CNCF"]
+title: garlicKim21/ratatosk-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Docker
+- Helm
+- REST API
+- CNCF
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP server", "CNCF release intelligence", "AI agent tools", "upgrade advisor", "release notes parsing"]
-source: "https://github.com/garlicKim21/ratatosk-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- CNCF release intelligence
+- AI agent tools
+- upgrade advisor
+- release notes parsing
+source: https://github.com/garlicKim21/ratatosk-mcp
 stars: 0
-language: "Go"
-last_updated: "2026-08-09T03:44:39Z"
-discovered_at: "2026-08-09T03:45:36Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-09T03:44:39Z'
+discovered_at: '2026-08-09T03:45:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

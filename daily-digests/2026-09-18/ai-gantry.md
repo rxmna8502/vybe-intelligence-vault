@@ -1,19 +1,30 @@
 ---
-title: "shotah/ai-gantry"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Distroless", "SQLite", "MCP (Model Context Protocol)", "OpenAI-compatible LLM APIs", "Telegram/Discord/Slack SDKs"]
+title: shotah/ai-gantry
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- Distroless
+- SQLite
+- MCP (Model Context Protocol)
+- OpenAI-compatible LLM APIs
+- Telegram/Discord/Slack SDKs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal agents", "MCP tools", "static binary", "outbound-only chat", "self-hosted"]
-source: "https://github.com/shotah/ai-gantry"
+deployment_complexity: Medium
+tags:
+- personal agents
+- MCP tools
+- static binary
+- outbound-only chat
+- self-hosted
+source: https://github.com/shotah/ai-gantry
 stars: 0
-language: "Go"
-last_updated: "2026-08-04T04:00:04Z"
-discovered_at: "2026-08-04T04:15:27Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T04:00:04Z'
+discovered_at: '2026-08-04T04:15:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

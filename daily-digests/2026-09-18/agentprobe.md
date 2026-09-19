@@ -1,19 +1,31 @@
 ---
-title: "hackneyblechnaceae288/agentprobe"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Electron (inferred from packaging)", "LLM APIs (OpenAI, Anthropic)", "LangChain (inferred from compatibility)", "Pytest (inferred from testing framework)", "ZIP packaging"]
+title: hackneyblechnaceae288/agentprobe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Windows Desktop App
+- Electron (inferred from packaging)
+- LLM APIs (OpenAI, Anthropic)
+- LangChain (inferred from compatibility)
+- Pytest (inferred from testing framework)
+- ZIP packaging
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI agent testing", "prompt injection detection", "local testing", "cost tracking", "observability"]
-source: "https://github.com/hackneyblechnaceae288/agentprobe"
+deployment_complexity: Low
+tags:
+- AI agent testing
+- prompt injection detection
+- local testing
+- cost tracking
+- observability
+source: https://github.com/hackneyblechnaceae288/agentprobe
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T21:24:35Z"
-discovered_at: "2026-08-05T22:15:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T21:24:35Z'
+discovered_at: '2026-08-05T22:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

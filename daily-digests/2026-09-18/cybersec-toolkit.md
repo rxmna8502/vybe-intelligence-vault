@@ -1,19 +1,35 @@
 ---
-title: "26zl/cybersec-toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Bash", "FastMCP", "Model Context Protocol (MCP)", "Docker", "GitHub CLI", "Go", "Rust", "Ruby", "Java", "Node.js"]
+title: 26zl/cybersec-toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Bash
+- FastMCP
+- Model Context Protocol (MCP)
+- Docker
+- GitHub CLI
+- Go
+- Rust
+- Ruby
+- Java
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["cybersecurity", "AI-driven security", "MCP server", "tool automation", "CTF and pentesting"]
-source: "https://github.com/26zl/cybersec-toolkit"
+deployment_complexity: Medium
+tags:
+- cybersecurity
+- AI-driven security
+- MCP server
+- tool automation
+- CTF and pentesting
+source: https://github.com/26zl/cybersec-toolkit
 stars: 30
-language: "Python"
-last_updated: "2026-07-19T11:49:59Z"
-discovered_at: "2026-07-19T11:57:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T11:49:59Z'
+discovered_at: '2026-07-19T11:57:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

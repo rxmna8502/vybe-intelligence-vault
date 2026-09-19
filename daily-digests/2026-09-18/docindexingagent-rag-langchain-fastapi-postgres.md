@@ -1,19 +1,39 @@
 ---
-title: "coco-whisper/docIndexingAgent-rag-langchain-fastapi-postgres"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Langchain", "PostgreSQL", "pgvector", "Atlas MongoDB", "Docker", "JWT", "OpenAI API", "Azure OpenAI", "Hugging Face", "Ollama", "Bedrock", "Google GenAI", "VertexAI"]
+title: coco-whisper/docIndexingAgent-rag-langchain-fastapi-postgres
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastAPI
+- Langchain
+- PostgreSQL
+- pgvector
+- Atlas MongoDB
+- Docker
+- JWT
+- OpenAI API
+- Azure OpenAI
+- Hugging Face
+- Ollama
+- Bedrock
+- Google GenAI
+- VertexAI
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "document indexing", "vector database", "FastAPI", "Langchain"]
-source: "https://github.com/coco-whisper/docIndexingAgent-rag-langchain-fastapi-postgres"
+deployment_complexity: Medium
+tags:
+- RAG
+- document indexing
+- vector database
+- FastAPI
+- Langchain
+source: https://github.com/coco-whisper/docIndexingAgent-rag-langchain-fastapi-postgres
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T22:17:30Z"
-discovered_at: "2026-08-08T22:32:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T22:17:30Z'
+discovered_at: '2026-08-08T22:32:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

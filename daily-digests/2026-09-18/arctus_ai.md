@@ -1,19 +1,37 @@
 ---
-title: "Dikhun/Arctus.ai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Docker", "Kubernetes", "OpenAI API", "OpenRouter", "Ollama", "Hugging Face Spaces", "Bubblewrap", "AST (Abstract Syntax Tree)", "PyAutoGUI", "Playwright", "Xvfb"]
+title: Dikhun/Arctus.ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- Kubernetes
+- OpenAI API
+- OpenRouter
+- Ollama
+- Hugging Face Spaces
+- Bubblewrap
+- AST (Abstract Syntax Tree)
+- PyAutoGUI
+- Playwright
+- Xvfb
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["multi-agent orchestration", "enterprise AI", "context management", "autonomous agents", "sandboxed execution"]
-source: "https://github.com/Dikhun/Arctus.ai"
+deployment_complexity: High
+tags:
+- multi-agent orchestration
+- enterprise AI
+- context management
+- autonomous agents
+- sandboxed execution
+source: https://github.com/Dikhun/Arctus.ai
 stars: 1
-language: "Python"
-last_updated: "2026-08-04T00:08:04Z"
-discovered_at: "2026-08-04T00:10:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T00:08:04Z'
+discovered_at: '2026-08-04T00:10:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

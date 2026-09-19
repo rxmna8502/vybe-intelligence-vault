@@ -1,19 +1,35 @@
 ---
-title: "Enderfga/claw-orchestrator"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Claude Code", "Codex", "Antigravity", "Cursor Agent", "OpenCode", "Model Context Protocol (MCP)", "OpenAI-Compatible API", "React", "Tailwind CSS"]
+title: Enderfga/claw-orchestrator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Claude Code
+- Codex
+- Antigravity
+- Cursor Agent
+- OpenCode
+- Model Context Protocol (MCP)
+- OpenAI-Compatible API
+- React
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "multi-agent systems", "coding agents", "autonomous loops", "web app deployment"]
-source: "https://github.com/Enderfga/claw-orchestrator"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- multi-agent systems
+- coding agents
+- autonomous loops
+- web app deployment
+source: https://github.com/Enderfga/claw-orchestrator
 stars: 526
-language: "TypeScript"
-last_updated: "2026-07-12T13:28:58Z"
-discovered_at: "2026-07-12T13:36:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T13:28:58Z'
+discovered_at: '2026-07-12T13:36:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

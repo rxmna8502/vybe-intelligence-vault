@@ -1,19 +1,33 @@
 ---
-title: "heptau/pgarachne"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "PostgreSQL", "JSON-RPC 2.0", "JWT", "SSE (Server-Sent Events)", "MCP (Model Context Protocol)", "Prometheus", "Docker", "Homebrew"]
+title: heptau/pgarachne
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- PostgreSQL
+- JSON-RPC 2.0
+- JWT
+- SSE (Server-Sent Events)
+- MCP (Model Context Protocol)
+- Prometheus
+- Docker
+- Homebrew
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["PostgreSQL API", "JSON-RPC", "MCP", "SSE", "AI Agent Integration"]
-source: "https://github.com/heptau/pgarachne"
+deployment_complexity: Medium
+tags:
+- PostgreSQL API
+- JSON-RPC
+- MCP
+- SSE
+- AI Agent Integration
+source: https://github.com/heptau/pgarachne
 stars: 6
-language: "HTML"
-last_updated: "2026-08-04T21:06:51Z"
-discovered_at: "2026-08-04T21:15:50Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-04T21:06:51Z'
+discovered_at: '2026-08-04T21:15:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

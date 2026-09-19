@@ -1,19 +1,34 @@
 ---
-title: "simul49/AI-Smart-Home-System"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Vue.js 3", "Spring Boot 3", "Java 21", "MySQL 8.x", "Spring Security", "JWT", "Pinia", "Tailwind CSS", "Maven", "Swagger OpenAPI"]
+title: simul49/AI-Smart-Home-System
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Vue.js 3
+- Spring Boot 3
+- Java 21
+- MySQL 8.x
+- Spring Security
+- JWT
+- Pinia
+- Tailwind CSS
+- Maven
+- Swagger OpenAPI
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["smart home", "IoT automation", "AI-driven control", "real-time monitoring", "energy optimization"]
-source: "https://github.com/simul49/AI-Smart-Home-System"
+deployment_complexity: Medium
+tags:
+- smart home
+- IoT automation
+- AI-driven control
+- real-time monitoring
+- energy optimization
+source: https://github.com/simul49/AI-Smart-Home-System
 stars: 0
-language: "Vue"
-last_updated: "2026-08-03T02:51:07Z"
-discovered_at: "2026-08-03T02:54:26Z"
-evaluated_by: "mistral-small-latest"
+language: Vue
+last_updated: '2026-08-03T02:51:07Z'
+discovered_at: '2026-08-03T02:54:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

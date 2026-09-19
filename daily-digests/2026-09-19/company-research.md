@@ -1,19 +1,29 @@
 ---
-title: "RiftWerx/company-research"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Companies House API", "PDF/iXBRL parsing", "CLI tooling"]
+title: RiftWerx/company-research
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Companies House API
+- PDF/iXBRL parsing
+- CLI tooling
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["company data", "financial filings", "MCP server", "UK companies", "document extraction"]
-source: "https://github.com/RiftWerx/company-research"
+deployment_complexity: Low
+tags:
+- company data
+- financial filings
+- MCP server
+- UK companies
+- document extraction
+source: https://github.com/RiftWerx/company-research
 stars: 0
-language: "Go"
-last_updated: "2026-08-02T21:50:15Z"
-discovered_at: "2026-08-02T21:55:53Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T21:50:15Z'
+discovered_at: '2026-08-02T21:55:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

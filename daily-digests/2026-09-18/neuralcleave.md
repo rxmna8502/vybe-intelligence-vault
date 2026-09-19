@@ -1,19 +1,36 @@
 ---
-title: "TheAmitChandra/NeuralCleave"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Redis", "Qdrant", "SQLite", "Tauri", "Whisper", "ElevenLabs", "FastAPI", "Docker", "Prometheus", "WebSockets"]
+title: TheAmitChandra/NeuralCleave
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastAPI
+- Redis
+- Qdrant
+- SQLite
+- Tauri
+- Whisper
+- ElevenLabs
+- FastAPI
+- Docker
+- Prometheus
+- WebSockets
 quality_score: 10
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Gateway", "Multi-Channel", "Memory System", "LLM Orchestration", "Privacy-Focused"]
-source: "https://github.com/TheAmitChandra/NeuralCleave"
+deployment_complexity: Medium
+tags:
+- AI Gateway
+- Multi-Channel
+- Memory System
+- LLM Orchestration
+- Privacy-Focused
+source: https://github.com/TheAmitChandra/NeuralCleave
 stars: 4
-language: "Python"
-last_updated: "2026-08-07T18:15:10Z"
-discovered_at: "2026-08-07T18:58:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T18:15:10Z'
+discovered_at: '2026-08-07T18:58:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

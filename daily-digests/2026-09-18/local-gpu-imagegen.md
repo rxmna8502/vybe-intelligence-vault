@@ -1,19 +1,34 @@
 ---
-title: "zc4578980-tech/local-gpu-imagegen"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "ComfyUI", "NVIDIA GPU", "uvx", "JSON", "SHA-256", "Windows Portable", "Codex", "Claude Code"]
+title: zc4578980-tech/local-gpu-imagegen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- ComfyUI
+- NVIDIA GPU
+- uvx
+- JSON
+- SHA-256
+- Windows Portable
+- Codex
+- Claude Code
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP", "ComfyUI", "local image generation", "workflow orchestration", "model identity"]
-source: "https://github.com/zc4578980-tech/local-gpu-imagegen"
+deployment_complexity: Medium
+tags:
+- MCP
+- ComfyUI
+- local image generation
+- workflow orchestration
+- model identity
+source: https://github.com/zc4578980-tech/local-gpu-imagegen
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:24:22Z"
-discovered_at: "2026-08-08T11:30:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:24:22Z'
+discovered_at: '2026-08-08T11:30:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

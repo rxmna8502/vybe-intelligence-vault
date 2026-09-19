@@ -1,19 +1,32 @@
 ---
-title: "CSOAI-ORG/crypto-tracker-ai-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Smithery", "Claude Desktop", "EU AI Act Compliance", "C2PA", "HMAC-SHA256"]
+title: CSOAI-ORG/crypto-tracker-ai-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- PyPI
+- Smithery
+- Claude Desktop
+- EU AI Act Compliance
+- C2PA
+- HMAC-SHA256
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["cryptocurrency", "MCP server", "EU AI Act compliance", "portfolio management", "price tracking"]
-source: "https://github.com/CSOAI-ORG/crypto-tracker-ai-mcp"
+deployment_complexity: Low
+tags:
+- cryptocurrency
+- MCP server
+- EU AI Act compliance
+- portfolio management
+- price tracking
+source: https://github.com/CSOAI-ORG/crypto-tracker-ai-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T20:24:03Z"
-discovered_at: "2026-08-08T20:32:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T20:24:03Z'
+discovered_at: '2026-08-08T20:32:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "pa1ch/yandex360-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Yandex 360 API", "OAuth 2.0", "uv (package manager)"]
+title: pa1ch/yandex360-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Yandex 360 API
+- OAuth 2.0
+- uv (package manager)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "Yandex 360", "Wiki integration", "AI assistant tools", "OAuth"]
-source: "https://github.com/pa1ch/yandex360-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- Yandex 360
+- Wiki integration
+- AI assistant tools
+- OAuth
+source: https://github.com/pa1ch/yandex360-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T14:49:39Z"
-discovered_at: "2026-07-19T14:54:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T14:49:39Z'
+discovered_at: '2026-07-19T14:54:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

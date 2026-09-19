@@ -1,19 +1,32 @@
 ---
-title: "wuisabel-gif/MemWhale"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "Tauri", "GTK", "Model Context Protocol (MCP)", "Neovim", "Jetson", "WSL"]
+title: wuisabel-gif/MemWhale
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- SQLite
+- Tauri
+- GTK
+- Model Context Protocol (MCP)
+- Neovim
+- Jetson
+- WSL
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["local memory", "terminal recording", "AI agent integration", "debugging assistant", "persistent context"]
-source: "https://github.com/wuisabel-gif/MemWhale"
+deployment_complexity: Medium
+tags:
+- local memory
+- terminal recording
+- AI agent integration
+- debugging assistant
+- persistent context
+source: https://github.com/wuisabel-gif/MemWhale
 stars: 23
-language: "Rust"
-last_updated: "2026-08-08T05:44:37Z"
-discovered_at: "2026-08-08T05:46:04Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T05:44:37Z'
+discovered_at: '2026-08-08T05:46:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "GermaniU/mcp-memory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "SQLite", "FTS5", "BM25", "Model Context Protocol (MCP)", "Ollama", "Qdrant", "Docker"]
+title: GermaniU/mcp-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastMCP
+- SQLite
+- FTS5
+- BM25
+- Model Context Protocol (MCP)
+- Ollama
+- Qdrant
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "AI agent memory", "local persistence", "BM25 search", "self-hosted"]
-source: "https://github.com/GermaniU/mcp-memory"
+deployment_complexity: Low
+tags:
+- MCP server
+- AI agent memory
+- local persistence
+- BM25 search
+- self-hosted
+source: https://github.com/GermaniU/mcp-memory
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T01:54:18Z"
-discovered_at: "2026-08-09T03:45:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:54:18Z'
+discovered_at: '2026-08-09T03:45:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

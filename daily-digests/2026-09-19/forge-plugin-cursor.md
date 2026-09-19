@@ -1,19 +1,29 @@
 ---
-title: "ShipToday/forge-plugin-cursor"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "OAuth", "Node.js", "Cursor IDE Plugin System"]
+title: ShipToday/forge-plugin-cursor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- OAuth
+- Node.js
+- Cursor IDE Plugin System
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-driven PDLC", "workflow automation", "Cursor IDE", "MCP server", "engineering lifecycle"]
-source: "https://github.com/ShipToday/forge-plugin-cursor"
+deployment_complexity: Medium
+tags:
+- AI-driven PDLC
+- workflow automation
+- Cursor IDE
+- MCP server
+- engineering lifecycle
+source: https://github.com/ShipToday/forge-plugin-cursor
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-18T08:04:51Z"
-discovered_at: "2026-07-18T08:09:31Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T08:04:51Z'
+discovered_at: '2026-07-18T08:09:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

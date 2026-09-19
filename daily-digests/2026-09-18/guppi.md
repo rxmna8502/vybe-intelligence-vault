@@ -1,19 +1,31 @@
 ---
-title: "atsmith2k/guppi"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Model Context Protocol (MCP)", "AST Parsing", "Lossless Semantic Trees (LST)", "Git Integration"]
+title: atsmith2k/guppi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Model Context Protocol (MCP)
+- AST Parsing
+- Lossless Semantic Trees (LST)
+- Git Integration
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agentic sidecar", "RAG memory engine", "multi-agent orchestration", "AST navigation", "MCP integration"]
-source: "https://github.com/atsmith2k/guppi"
+deployment_complexity: Medium
+tags:
+- agentic sidecar
+- RAG memory engine
+- multi-agent orchestration
+- AST navigation
+- MCP integration
+source: https://github.com/atsmith2k/guppi
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T14:35:42Z"
-discovered_at: "2026-08-09T14:37:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T14:35:42Z'
+discovered_at: '2026-08-09T14:37:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

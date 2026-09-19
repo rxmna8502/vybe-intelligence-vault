@@ -1,19 +1,31 @@
 ---
-title: "0spoon/seamless"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "Markdown", "YAML", "CLI", "Daemon"]
+title: 0spoon/seamless
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- SQLite
+- MCP (Model Context Protocol)
+- Markdown
+- YAML
+- CLI
+- Daemon
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agent coordination", "local-first memory", "task queue", "MCP server", "markdown storage"]
-source: "https://github.com/0spoon/seamless"
+deployment_complexity: Low
+tags:
+- AI agent coordination
+- local-first memory
+- task queue
+- MCP server
+- markdown storage
+source: https://github.com/0spoon/seamless
 stars: 2
-language: "Go"
-last_updated: "2026-08-07T18:57:13Z"
-discovered_at: "2026-08-07T18:57:45Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T18:57:13Z'
+discovered_at: '2026-08-07T18:57:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

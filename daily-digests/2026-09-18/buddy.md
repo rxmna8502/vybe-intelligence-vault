@@ -1,19 +1,34 @@
 ---
-title: "juanje/buddy"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri v2", "Svelte 5", "TypeScript", "Node.js", "Rust", "Pi SDK", "Git", "Bun", "Vitest", "Cucumber/Gherkin"]
+title: juanje/buddy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Tauri v2
+- Svelte 5
+- TypeScript
+- Node.js
+- Rust
+- Pi SDK
+- Git
+- Bun
+- Vitest
+- Cucumber/Gherkin
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["persistent memory", "desktop assistant", "local-first", "agentic workflow", "privacy-focused"]
-source: "https://github.com/juanje/buddy"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- desktop assistant
+- local-first
+- agentic workflow
+- privacy-focused
+source: https://github.com/juanje/buddy
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-08T19:27:58Z"
-discovered_at: "2026-08-08T19:33:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T19:27:58Z'
+discovered_at: '2026-08-08T19:33:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

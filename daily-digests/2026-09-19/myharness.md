@@ -1,19 +1,31 @@
 ---
-title: "Taery-mingjun/myharness"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SHA-256", "CLI", "Git", "Zero-Knowledge Proofs", "Session Management", "YAML"]
+title: Taery-mingjun/myharness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- SHA-256
+- CLI
+- Git
+- Zero-Knowledge Proofs
+- Session Management
+- YAML
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Agent Governance", "Identity Sovereignty", "Hash-Chain Auditing", "Permission Management", "Immutable Logging"]
-source: "https://github.com/Taery-mingjun/myharness"
+deployment_complexity: Medium
+tags:
+- AI Agent Governance
+- Identity Sovereignty
+- Hash-Chain Auditing
+- Permission Management
+- Immutable Logging
+source: https://github.com/Taery-mingjun/myharness
 stars: 0
-language: "Python"
-last_updated: "2026-07-16T10:56:22Z"
-discovered_at: "2026-07-16T10:58:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T10:56:22Z'
+discovered_at: '2026-07-16T10:58:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

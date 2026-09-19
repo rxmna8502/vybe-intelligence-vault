@@ -1,19 +1,35 @@
 ---
-title: "Senthilsivam41/kinegraph-v"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "ChromaDB", "Neo4j", "LangGraph", "Celery", "Docker", "RAGAS", "LlamaIndex", "PyMuPDF", "OpenRouter"]
+title: Senthilsivam41/kinegraph-v
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastAPI
+- ChromaDB
+- Neo4j
+- LangGraph
+- Celery
+- Docker
+- RAGAS
+- LlamaIndex
+- PyMuPDF
+- OpenRouter
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Hybrid RAG", "Vector Database", "Graph Database", "LangGraph", "RAGAS Evaluation"]
-source: "https://github.com/Senthilsivam41/kinegraph-v"
+deployment_complexity: Medium
+tags:
+- Hybrid RAG
+- Vector Database
+- Graph Database
+- LangGraph
+- RAGAS Evaluation
+source: https://github.com/Senthilsivam41/kinegraph-v
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-09T07:22:16Z"
-discovered_at: "2026-08-09T07:59:46Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T07:22:16Z'
+discovered_at: '2026-08-09T07:59:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

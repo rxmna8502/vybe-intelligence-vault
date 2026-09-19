@@ -1,19 +1,31 @@
 ---
-title: "KernelEditor/KitCode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Ink", "Node.js", "MCP (Model Context Protocol)", "Anthropic API", "OpenAI-compatible APIs"]
+title: KernelEditor/KitCode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- React
+- Ink
+- Node.js
+- MCP (Model Context Protocol)
+- Anthropic API
+- OpenAI-compatible APIs
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["terminal agent", "MCP integration", "file editing", "session management", "multi-provider support"]
-source: "https://github.com/KernelEditor/KitCode"
+deployment_complexity: Medium
+tags:
+- terminal agent
+- MCP integration
+- file editing
+- session management
+- multi-provider support
+source: https://github.com/KernelEditor/KitCode
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T19:56:07Z"
-discovered_at: "2026-08-07T19:58:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T19:56:07Z'
+discovered_at: '2026-08-07T19:58:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

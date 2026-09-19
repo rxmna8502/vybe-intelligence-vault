@@ -1,19 +1,36 @@
 ---
-title: "ChelseaKR/gtfs-scorecard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Java", "GTFS", "GTFS-Realtime", "MobilityData Validator", "GitHub Actions", "HTML/CSS/JavaScript", "SQL", "Parquet", "MCP Server", "AWS (S3, CloudFront, SES)", "Terraform"]
+title: ChelseaKR/gtfs-scorecard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Java
+- GTFS
+- GTFS-Realtime
+- MobilityData Validator
+- GitHub Actions
+- HTML/CSS/JavaScript
+- SQL
+- Parquet
+- MCP Server
+- AWS (S3, CloudFront, SES)
+- Terraform
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["GTFS validation", "transit data quality", "CI gating", "data scoring", "public transit"]
-source: "https://github.com/ChelseaKR/gtfs-scorecard"
+deployment_complexity: High
+tags:
+- GTFS validation
+- transit data quality
+- CI gating
+- data scoring
+- public transit
+source: https://github.com/ChelseaKR/gtfs-scorecard
 stars: 0
-language: "HTML"
-last_updated: "2026-07-10T16:18:45Z"
-discovered_at: "2026-07-10T16:25:13Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-10T16:18:45Z'
+discovered_at: '2026-07-10T16:25:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

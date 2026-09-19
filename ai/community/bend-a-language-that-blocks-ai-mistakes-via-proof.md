@@ -13,13 +13,14 @@ collected_at: '2026-09-18T04:26:22.074687+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:bend-a-language-that-blocks-ai-mistakes-via-proof
 first_seen: '2026-09-18T04:26:22.074687+05:30'
 last_seen: '2026-09-18T04:26:22.074687+05:30'
 last_checked: '2026-09-18T04:26:22.074687+05:30'
 health_score: 100
 ---
+
 
 # Bend – A language that blocks AI mistakes via proof, on CPU and GPU
 

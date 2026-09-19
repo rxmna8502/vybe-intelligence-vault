@@ -1,19 +1,33 @@
 ---
-title: "kentzu213/izzi-ai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Electron", "React", "TypeScript", "Vite", "Zustand", "better-sqlite3", "Docker", "Node.js", "IzziAPI"]
+title: kentzu213/izzi-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Vite
+- Zustand
+- better-sqlite3
+- Docker
+- Node.js
+- IzziAPI
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI agent gateway", "multi-agent orchestration", "desktop AI", "LLM router", "cost tracking"]
-source: "https://github.com/kentzu213/izzi-ai"
+deployment_complexity: Medium
+tags:
+- AI agent gateway
+- multi-agent orchestration
+- desktop AI
+- LLM router
+- cost tracking
+source: https://github.com/kentzu213/izzi-ai
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T05:39:54Z"
-discovered_at: "2026-08-05T05:47:32Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:39:54Z'
+discovered_at: '2026-08-05T05:47:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

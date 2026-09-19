@@ -1,19 +1,29 @@
 ---
-title: "Herrscherd/herrscher-codex-backend"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Codex CLI", "JSONL", "TOML", "MCP (Model Context Protocol)"]
+title: Herrscherd/herrscher-codex-backend
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- Codex CLI
+- JSONL
+- TOML
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Codex integration", "local LLM backend", "Herrscher plugin", "prompt processing", "model gateway"]
-source: "https://github.com/Herrscherd/herrscher-codex-backend"
+deployment_complexity: Medium
+tags:
+- Codex integration
+- local LLM backend
+- Herrscher plugin
+- prompt processing
+- model gateway
+source: https://github.com/Herrscherd/herrscher-codex-backend
 stars: 0
-language: "Go"
-last_updated: "2026-08-04T13:03:40Z"
-discovered_at: "2026-08-04T13:03:46Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T13:03:40Z'
+discovered_at: '2026-08-04T13:03:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

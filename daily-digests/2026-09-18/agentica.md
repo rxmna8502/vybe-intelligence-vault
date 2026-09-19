@@ -1,19 +1,34 @@
 ---
-title: "shibing624/agentica"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Asyncio", "LLM APIs (OpenAI, DeepSeek, Claude, etc.)", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "LangChain", "LlamaIndex", "FastAPI (for Web Gateway)", "CLI", "Markdown (for configuration and skills)"]
+title: shibing624/agentica
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Asyncio
+- LLM APIs (OpenAI, DeepSeek, Claude, etc.)
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- LangChain
+- LlamaIndex
+- FastAPI (for Web Gateway)
+- CLI
+- Markdown (for configuration and skills)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "async-first", "multi-agent collaboration", "long-running tasks", "self-evolving skills"]
-source: "https://github.com/shibing624/agentica"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- async-first
+- multi-agent collaboration
+- long-running tasks
+- self-evolving skills
+source: https://github.com/shibing624/agentica
 stars: 340
-language: "Python"
-last_updated: "2026-08-05T14:03:56Z"
-discovered_at: "2026-08-05T14:06:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T14:03:56Z'
+discovered_at: '2026-08-05T14:06:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

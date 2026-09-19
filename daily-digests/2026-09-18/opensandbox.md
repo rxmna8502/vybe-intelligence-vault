@@ -1,19 +1,38 @@
 ---
-title: "opensandbox-group/OpenSandbox"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Python", "Java/Kotlin", "JavaScript/TypeScript", "C#/.NET", "Docker", "Kubernetes", "FastAPI", "gVisor", "Kata Containers", "Firecracker", "MCP (Model Context Protocol)", "Cosign", "eBPF"]
+title: opensandbox-group/OpenSandbox
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- Python
+- Java/Kotlin
+- JavaScript/TypeScript
+- C#/.NET
+- Docker
+- Kubernetes
+- FastAPI
+- gVisor
+- Kata Containers
+- Firecracker
+- MCP (Model Context Protocol)
+- Cosign
+- eBPF
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["sandboxing", "AI agent execution", "container orchestration", "secure isolation", "multi-language SDKs"]
-source: "https://github.com/opensandbox-group/OpenSandbox"
+deployment_complexity: High
+tags:
+- sandboxing
+- AI agent execution
+- container orchestration
+- secure isolation
+- multi-language SDKs
+source: https://github.com/opensandbox-group/OpenSandbox
 stars: 14870
-language: "Go"
-last_updated: "2026-09-01T02:38:16Z"
-discovered_at: "2026-09-01T02:51:53Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T02:38:16Z'
+discovered_at: '2026-09-01T02:51:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

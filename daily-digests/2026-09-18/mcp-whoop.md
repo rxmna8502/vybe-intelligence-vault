@@ -1,19 +1,32 @@
 ---
-title: "AlixAkhribi/mcp-whoop"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth2", "WHOOP API v2", "Jest (testing)", "Biome (linting/formatting)", "GitHub Actions (CI/CD)"]
+title: AlixAkhribi/mcp-whoop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OAuth2
+- WHOOP API v2
+- Jest (testing)
+- Biome (linting/formatting)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "WHOOP integration", "health data", "OAuth2 authentication", "fitness API"]
-source: "https://github.com/AlixAkhribi/mcp-whoop"
+deployment_complexity: Medium
+tags:
+- MCP server
+- WHOOP integration
+- health data
+- OAuth2 authentication
+- fitness API
+source: https://github.com/AlixAkhribi/mcp-whoop
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T22:27:32Z"
-discovered_at: "2026-08-09T22:35:07Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T22:27:32Z'
+discovered_at: '2026-08-09T22:35:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

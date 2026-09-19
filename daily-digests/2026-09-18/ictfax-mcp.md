@@ -1,19 +1,29 @@
 ---
-title: "ictinnovations/ictfax-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "JWT Authentication"]
+title: ictinnovations/ictfax-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- JWT Authentication
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "fax automation", "ICTCore integration", "document management", "telephony"]
-source: "https://github.com/ictinnovations/ictfax-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- fax automation
+- ICTCore integration
+- document management
+- telephony
+source: https://github.com/ictinnovations/ictfax-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T08:59:11Z"
-discovered_at: "2026-09-01T09:10:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T08:59:11Z'
+discovered_at: '2026-09-01T09:10:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "waiky-github/CrawlEyes"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Crawl4AI", "SearXNG", "Tavily API", "FastEmbed", "Playwright", "MCP (Model Context Protocol)", "SQLite", "ONNX Runtime", "Hugging Face Transformers"]
+title: waiky-github/CrawlEyes
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Crawl4AI
+- SearXNG
+- Tavily API
+- FastEmbed
+- Playwright
+- MCP (Model Context Protocol)
+- SQLite
+- ONNX Runtime
+- Hugging Face Transformers
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web scraping", "search toolkit", "MCP server", "semantic reranking", "China-friendly"]
-source: "https://github.com/waiky-github/CrawlEyes"
+deployment_complexity: Medium
+tags:
+- web scraping
+- search toolkit
+- MCP server
+- semantic reranking
+- China-friendly
+source: https://github.com/waiky-github/CrawlEyes
 stars: 2
-language: "Python"
-last_updated: "2026-09-01T07:14:27Z"
-discovered_at: "2026-09-01T09:08:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T07:14:27Z'
+discovered_at: '2026-09-01T09:08:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

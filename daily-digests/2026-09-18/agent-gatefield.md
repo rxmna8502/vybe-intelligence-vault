@@ -1,19 +1,35 @@
 ---
-title: "RNA4219/agent-gatefield"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PostgreSQL", "Qdrant", "pgvector", "llama.cpp", "BAAI/bge-m3", "BAAI/bge-reranker-v2-m3", "FastAPI", "CLI", "Docker", "YAML"]
+title: RNA4219/agent-gatefield
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- PostgreSQL
+- Qdrant
+- pgvector
+- llama.cpp
+- BAAI/bge-m3
+- BAAI/bge-reranker-v2-m3
+- FastAPI
+- CLI
+- Docker
+- YAML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI safety gate", "agent workflow", "semantic judgment", "human oversight", "quality control"]
-source: "https://github.com/RNA4219/agent-gatefield"
+deployment_complexity: Medium
+tags:
+- AI safety gate
+- agent workflow
+- semantic judgment
+- human oversight
+- quality control
+source: https://github.com/RNA4219/agent-gatefield
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T18:52:36Z"
-discovered_at: "2026-07-11T18:59:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T18:52:36Z'
+discovered_at: '2026-07-11T18:59:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

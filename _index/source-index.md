@@ -9873,7 +9873,6 @@ Resources organized by publisher feed and query sources.
   - [Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence](../ai/research/arxiv-2606-12441.md)
   - [Generator-Guided Inverse Sampling for L\'evy-Driven Generative Models](../ai/research/arxiv-2608-10384.md)
   - [Generator-Independent Runtime Assurance under Partial Observation](../ai/research/arxiv-2609-06036.md)
-  - [Generic Characteristic-Zero Equivalence Between Derivative B\'ezout Inversion and Multipoint Evaluation](../ai/research/arxiv-2609-17578.md)
   - [Generic Vision and Cross-Attention for Reaction Yield Prediction](../ai/research/arxiv-2608-00776.md)
   - [Genetic Algorithms for Tractable Bayesian Network Fusion via Pre-Fusion Edge Pruning](../ai/research/arxiv-2609-03724.md)
   - [Genotypic Triggers: Exposing Pharmacogenomic Blind Spots via Host-Specific Backdoors in Generative Antimicrobial Peptide Models](../ai/rag/arxiv-2608-06779.md)
@@ -18266,7 +18265,6 @@ Resources organized by publisher feed and query sources.
   - [Remember and Reweight: Enhancing Multi-Agent Debate with Experience Memory and Confidence Estimation](../ai/agents/arxiv-2609-03619.md)
   - [Remember, Don't Re-read: Stateful ReAct Agents for Token-Efficient Autonomous Experimentation](../ai/agents/arxiv-2606-14945.md)
   - [Remembering Distinct Items, Not Tokens: A Learnable Dirichlet-Process Cache Between State-Space Models and Attention](../ai/research/arxiv-2607-09889.md)
-  - [Remembering Solomon Marcus](../ai/research/arxiv-2609-18224.md)
   - [Remote Awareness of Seafloor Images Collected by AUVs over Low-Bandwidth Communication Links](../ai/rag/arxiv-2607-18013.md)
   - [Remote Sensing and Machine Learning-Based Analysis of Land Use and Vegetation Change in Dhaka District, Bangladesh](../ai/research/arxiv-2608-12001.md)
   - [Remote sensing data imputation using deep learning for multispectral imagery](../ai/research/arxiv-2605-24003.md)
@@ -21831,7 +21829,6 @@ Resources organized by publisher feed and query sources.
   - [The Impact of Generative AI on Collaborative Open-Source Software Development: Evidence from GitHub Copilot](../ai/research/arxiv-2410-02091.md)
   - [The Impact of Temporal Context Length and Encoding Strategies on Self-Supervised ECG Representation Learning](../ai/rag/arxiv-2608-12695.md)
   - [The Imperfective Paradox Is Not Necessarily in Large Language Models: A Benchmark Failure Before a Model Failure](../ai/research/arxiv-2608-25005.md)
-  - [The Implications of Linguistic Illegibility for LLM Security](../ai/research/arxiv-2609-02852.md)
   - [The Implicit Bias of Steepest Descent with Mini-batch Stochastic Gradient](../ai/research/arxiv-2602-11557.md)
   - [The Importance of Being Statistically Earnest: A Critical Re-evaluation of GSM-Symbolic](../ai/rag/arxiv-2605-28700.md)
   - [The Importance of Encoder Choice:A Tabular-Image Study](../ai/research/arxiv-2607-07756.md)
@@ -24757,7 +24754,6 @@ Resources organized by publisher feed and query sources.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
-  - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
@@ -24772,6 +24768,7 @@ Resources organized by publisher feed and query sources.
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
   - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
+  - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
@@ -25665,16 +25662,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](../ai/community/bend-a-language-that-blocks-ai-mistakes-via-proof.md)
-  - [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](../ai/community/bonsai-2-27b-near-lossless-compression-in-a-9x-sma.md)
-  - [Diplodocus, Long Thought Exclusively American, Turns Up in Spain](../ai/community/diplodocus-long-thought-exclusively-american-turns.md)
-  - [How Uber Protects Against Retry Storms](../ai/community/how-uber-protects-against-retry-storms.md)
+  - [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](../ai/community/alibaba-open-sources-ai-model-that-can-detect-canc.md)
+  - [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](../ai/community/arxiv-2510-03215.md)
+  - [Claude Code now reads AGENTS.md if there is no Claude.md](../ai/community/claude-code-now-reads-agents-md-if-there-is-no-cla.md)
+  - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
-  - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](../ai/community/launch-hn-skillsync-yc-w26-ai-chat-sessions-made-p.md)
-  - [Sex, AI, and the Apocalypse](../ai/community/sex-ai-and-the-apocalypse.md)
-  - [Show HN: Share your AI Setup, Learn from others](../ai/community/show-hn-share-your-ai-setup-learn-from-others.md)
-  - [TSMC revealing details about next gen A14 node](../ai/community/tsmc-revealing-details-about-next-gen-a14-node.md)
-  - [The American Religion of Self-Storage Facilities](../ai/community/the-american-religion-of-self-storage-facilities.md)
+  - [The Implications of Linguistic Illegibility for LLM Security](../ai/research/arxiv-2609-02852.md)
+  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/two-parallel-neural-ectoderm-progenitors-contribut.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26548,7 +26542,7 @@ Resources organized by publisher feed and query sources.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
-  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
+  - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
@@ -26556,7 +26550,7 @@ Resources organized by publisher feed and query sources.
 
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
-  - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
+  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
@@ -29537,4 +29531,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-18T04:42:45.417257+05:30*
+*Index generated on 2026-09-19T10:32:34.897787+05:30*

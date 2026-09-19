@@ -13,13 +13,14 @@ collected_at: '2026-09-18T04:26:22.224609+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:bonsai-2-27b-near-lossless-compression-in-a-9x-sma
 first_seen: '2026-09-18T04:26:22.224609+05:30'
 last_seen: '2026-09-18T04:26:22.224609+05:30'
 last_checked: '2026-09-18T04:26:22.224609+05:30'
 health_score: 100
 ---
+
 
 # Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint
 

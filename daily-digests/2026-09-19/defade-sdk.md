@@ -1,19 +1,33 @@
 ---
-title: "DeFadeLtd/defade-sdk"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "REST API", "MCP (Model Context Protocol)", "Solana", "Ethereum", "Base", "Robinhood Chain"]
+title: DeFadeLtd/defade-sdk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- REST API
+- MCP (Model Context Protocol)
+- Solana
+- Ethereum
+- Base
+- Robinhood Chain
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["rug pull detection", "on-chain forensics", "token risk scoring", "MCP server", "multi-chain analysis"]
-source: "https://github.com/DeFadeLtd/defade-sdk"
+deployment_complexity: Low
+tags:
+- rug pull detection
+- on-chain forensics
+- token risk scoring
+- MCP server
+- multi-chain analysis
+source: https://github.com/DeFadeLtd/defade-sdk
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-03T02:02:24Z"
-discovered_at: "2026-09-03T02:22:57Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T02:02:24Z'
+discovered_at: '2026-09-03T02:22:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

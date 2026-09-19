@@ -1,19 +1,30 @@
 ---
-title: "wxai-space/taiyi-financial-search-api"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "HTTP API", "OpenAPI 3.0", "Postman", "JSON", "Bearer Token Authentication"]
+title: wxai-space/taiyi-financial-search-api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- HTTP API
+- OpenAPI 3.0
+- Postman
+- JSON
+- Bearer Token Authentication
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["financial search", "web scraping", "real-time data", "API integration", "regulatory disclosures"]
-source: "https://github.com/wxai-space/taiyi-financial-search-api"
+deployment_complexity: Low
+tags:
+- financial search
+- web scraping
+- real-time data
+- API integration
+- regulatory disclosures
+source: https://github.com/wxai-space/taiyi-financial-search-api
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T14:36:53Z"
-discovered_at: "2026-08-09T14:37:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T14:36:53Z'
+discovered_at: '2026-08-09T14:37:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

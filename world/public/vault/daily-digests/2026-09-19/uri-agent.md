@@ -1,19 +1,32 @@
 ---
-title: "4fuu/uri-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "WASM", "SQLite", "MCP (Model Context Protocol)", "ACP (Agent Communication Protocol)", "HTTP/HTTPS", "OAuth", "WebSocket"]
+title: 4fuu/uri-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Rust
+- WASM
+- SQLite
+- MCP (Model Context Protocol)
+- ACP (Agent Communication Protocol)
+- HTTP/HTTPS
+- OAuth
+- WebSocket
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["terminal agent", "protocol-oriented", "dynamic tool loading", "MCP bridge", "WASM plugins"]
-source: "https://github.com/4fuu/uri-agent"
+deployment_complexity: Medium
+tags:
+- terminal agent
+- protocol-oriented
+- dynamic tool loading
+- MCP bridge
+- WASM plugins
+source: https://github.com/4fuu/uri-agent
 stars: 0
-language: "Rust"
-last_updated: "2026-09-02T08:13:50Z"
-discovered_at: "2026-09-02T08:21:04Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T08:13:50Z'
+discovered_at: '2026-09-02T08:21:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

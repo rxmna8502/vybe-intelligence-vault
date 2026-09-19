@@ -1,19 +1,41 @@
 ---
-title: "MarwaBS/production-rag-platform"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "Python 3.12", "rag-llm-infra", "NumPy", "FAISS", "Qdrant", "Pydantic v2", "Uvicorn", "Prometheus", "Docker", "Kubernetes", "Helm", "GitHub Actions", "Trivy", "CycloneDX", "SentenceTransformers", "OpenAI API"]
+title: MarwaBS/production-rag-platform
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- FastAPI
+- Python 3.12
+- rag-llm-infra
+- NumPy
+- FAISS
+- Qdrant
+- Pydantic v2
+- Uvicorn
+- Prometheus
+- Docker
+- Kubernetes
+- Helm
+- GitHub Actions
+- Trivy
+- CycloneDX
+- SentenceTransformers
+- OpenAI API
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Retrieval-Augmented Generation", "Production Service", "Kubernetes Deployment", "Observability"]
-source: "https://github.com/MarwaBS/production-rag-platform"
+deployment_complexity: Medium
+tags:
+- RAG
+- Retrieval-Augmented Generation
+- Production Service
+- Kubernetes Deployment
+- Observability
+source: https://github.com/MarwaBS/production-rag-platform
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T01:31:43Z"
-discovered_at: "2026-08-09T01:34:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:31:43Z'
+discovered_at: '2026-08-09T01:34:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

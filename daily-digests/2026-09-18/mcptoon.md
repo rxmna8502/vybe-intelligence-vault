@@ -1,19 +1,29 @@
 ---
-title: "activeing123/mcptoon"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Agent Plugins Specification 1.0.0", "CLI", "JSON"]
+title: activeing123/mcptoon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Agent Plugins Specification 1.0.0
+- CLI
+- JSON
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP", "Agent Integration", "Token Optimization", "Cross-Agent Sync", "MCP Server Management"]
-source: "https://github.com/activeing123/mcptoon"
+deployment_complexity: Low
+tags:
+- MCP
+- Agent Integration
+- Token Optimization
+- Cross-Agent Sync
+- MCP Server Management
+source: https://github.com/activeing123/mcptoon
 stars: 192
-language: "HTML"
-last_updated: "2026-09-01T02:41:08Z"
-discovered_at: "2026-09-01T02:51:00Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T02:41:08Z'
+discovered_at: '2026-09-01T02:51:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "TheLunarCompany/lunar"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "API Gateway", "MCP (Model Context Protocol)", "Helm", "Telemetry"]
+title: TheLunarCompany/lunar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- API Gateway
+- MCP (Model Context Protocol)
+- Helm
+- Telemetry
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["API governance", "AI agent management", "traffic optimization", "MCP aggregation", "cost control"]
-source: "https://github.com/TheLunarCompany/lunar"
+deployment_complexity: Medium
+tags:
+- API governance
+- AI agent management
+- traffic optimization
+- MCP aggregation
+- cost control
+source: https://github.com/TheLunarCompany/lunar
 stars: 468
-language: "TypeScript"
-last_updated: "2026-07-12T13:29:59Z"
-discovered_at: "2026-07-12T13:36:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T13:29:59Z'
+discovered_at: '2026-07-12T13:36:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

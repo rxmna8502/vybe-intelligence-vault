@@ -1,19 +1,32 @@
 ---
-title: "Fzkuji/OpenProgram"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LLM APIs (Anthropic, OpenAI, Gemini)", "DAG (Directed Acyclic Graph) for context management", "Event-driven architecture", "Git worktrees for safe file operations", "Web UI (React-based)", "CLI", "GitHub Actions for CI/CD"]
+title: Fzkuji/OpenProgram
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- LLM APIs (Anthropic, OpenAI, Gemini)
+- DAG (Directed Acyclic Graph) for context management
+- Event-driven architecture
+- Git worktrees for safe file operations
+- Web UI (React-based)
+- CLI
+- GitHub Actions for CI/CD
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Agentic Programming", "Multi-Agent Systems", "Workflow Automation", "LLM-as-Code", "Self-Evolving Agents"]
-source: "https://github.com/Fzkuji/OpenProgram"
+deployment_complexity: Medium
+tags:
+- Agentic Programming
+- Multi-Agent Systems
+- Workflow Automation
+- LLM-as-Code
+- Self-Evolving Agents
+source: https://github.com/Fzkuji/OpenProgram
 stars: 342
-language: "Python"
-last_updated: "2026-09-01T15:42:49Z"
-discovered_at: "2026-09-01T15:54:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:42:49Z'
+discovered_at: '2026-09-01T15:54:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

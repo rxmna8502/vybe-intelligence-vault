@@ -1,19 +1,29 @@
 ---
-title: "RobertoReale/phasekit"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["PowerShell", "Claude Code", "Git", "JSON", "Markdown"]
+title: RobertoReale/phasekit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- PowerShell
+- Claude Code
+- Git
+- JSON
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["refactoring", "agent-orchestration", "claude-code", "code-review", "automation"]
-source: "https://github.com/RobertoReale/phasekit"
+deployment_complexity: Medium
+tags:
+- refactoring
+- agent-orchestration
+- claude-code
+- code-review
+- automation
+source: https://github.com/RobertoReale/phasekit
 stars: 0
-language: "PowerShell"
-last_updated: "2026-09-03T19:02:27Z"
-discovered_at: "2026-09-03T19:04:19Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-09-03T19:02:27Z'
+discovered_at: '2026-09-03T19:04:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

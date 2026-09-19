@@ -1,19 +1,35 @@
 ---
-title: "manwithacat/dazzle"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Python", "DSL (Domain-Specific Language)", "PostgreSQL", "HTMX", "HTML", "JavaScript (bounded islands)", "MCP (Model Context Protocol)", "Ruff", "mypy", "CI/CD (GitHub Actions)", "Homebrew"]
+title: manwithacat/dazzle
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- DSL (Domain-Specific Language)
+- PostgreSQL
+- HTMX
+- HTML
+- JavaScript (bounded islands)
+- MCP (Model Context Protocol)
+- Ruff
+- mypy
+- CI/CD (GitHub Actions)
+- Homebrew
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent-native", "domain-driven design", "epistemic engineering", "DSL framework", "compliance-ready"]
-source: "https://github.com/manwithacat/dazzle"
+deployment_complexity: Medium
+tags:
+- agent-native
+- domain-driven design
+- epistemic engineering
+- DSL framework
+- compliance-ready
+source: https://github.com/manwithacat/dazzle
 stars: 2
-language: "Python"
-last_updated: "2026-09-03T22:02:43Z"
-discovered_at: "2026-09-03T22:06:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T22:02:43Z'
+discovered_at: '2026-09-03T22:06:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

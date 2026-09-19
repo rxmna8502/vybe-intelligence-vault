@@ -1,19 +1,29 @@
 ---
-title: "wyre-technology/mimecast-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "GitHub Actions"]
+title: wyre-technology/mimecast-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "email security", "threat intelligence", "Mimecast integration", "AI assistant"]
-source: "https://github.com/wyre-technology/mimecast-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- email security
+- threat intelligence
+- Mimecast integration
+- AI assistant
+source: https://github.com/wyre-technology/mimecast-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-10T17:00:04Z"
-discovered_at: "2026-08-10T17:06:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T17:00:04Z'
+discovered_at: '2026-08-10T17:06:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

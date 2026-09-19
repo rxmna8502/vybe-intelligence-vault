@@ -1,19 +1,30 @@
 ---
-title: "Bubu89/full-page-pdf-snap"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Firefox WebExtensions API", "Chrome Extensions API", "Python (for headless installation scripts)", "HTML/CSS", "MIT License"]
+title: Bubu89/full-page-pdf-snap
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Firefox WebExtensions API
+- Chrome Extensions API
+- Python (for headless installation scripts)
+- HTML/CSS
+- MIT License
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["web scraping", "PDF generation", "browser automation", "OCR preprocessing", "privacy-focused"]
-source: "https://github.com/Bubu89/full-page-pdf-snap"
+deployment_complexity: Low
+tags:
+- web scraping
+- PDF generation
+- browser automation
+- OCR preprocessing
+- privacy-focused
+source: https://github.com/Bubu89/full-page-pdf-snap
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T07:38:39Z"
-discovered_at: "2026-08-04T07:40:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T07:38:39Z'
+discovered_at: '2026-08-04T07:40:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

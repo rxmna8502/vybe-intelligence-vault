@@ -1,19 +1,37 @@
 ---
-title: "ShadowESC95/ELI_v2.0"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "GGUF models", "FAISS", "SQLite", "PyTorch", "PEFT", "CUDA", "Vulkan", "Metal", "FastAPI", "React", "TypeScript", "Docker"]
+title: ShadowESC95/ELI_v2.0
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- GGUF models
+- FAISS
+- SQLite
+- PyTorch
+- PEFT
+- CUDA
+- Vulkan
+- Metal
+- FastAPI
+- React
+- TypeScript
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["local AI", "privacy-first", "desktop automation", "offline-by-default", "GGUF integration"]
-source: "https://github.com/ShadowESC95/ELI_v2.0"
+deployment_complexity: High
+tags:
+- local AI
+- privacy-first
+- desktop automation
+- offline-by-default
+- GGUF integration
+source: https://github.com/ShadowESC95/ELI_v2.0
 stars: 9
-language: "Python"
-last_updated: "2026-09-02T15:03:49Z"
-discovered_at: "2026-09-02T15:49:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:03:49Z'
+discovered_at: '2026-09-02T15:49:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

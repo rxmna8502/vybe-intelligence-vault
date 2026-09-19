@@ -1,19 +1,31 @@
 ---
-title: "redis/redis-vl-python"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "Redis", "Vector Search", "Embedding Providers", "Async Programming", "YAML", "CLI"]
+title: redis/redis-vl-python
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Redis
+- Vector Search
+- Embedding Providers
+- Async Programming
+- YAML
+- CLI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector search", "RAG", "embedding", "Redis", "semantic caching"]
-source: "https://github.com/redis/redis-vl-python"
+deployment_complexity: Medium
+tags:
+- vector search
+- RAG
+- embedding
+- Redis
+- semantic caching
+source: https://github.com/redis/redis-vl-python
 stars: 419
-language: "Python"
-last_updated: "2026-08-07T15:31:31Z"
-discovered_at: "2026-08-07T16:03:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T15:31:31Z'
+discovered_at: '2026-08-07T16:03:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

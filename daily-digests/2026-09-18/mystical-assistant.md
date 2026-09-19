@@ -1,19 +1,34 @@
 ---
-title: "ainurdev/mystical-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Claude Code CLI", "Vite", "CodeMirror", "xterm.js", "Git", "GitHub CLI", "tree-sitter", "Cloudflare Tunnel"]
+title: ainurdev/mystical-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- TypeScript
+- Claude Code CLI
+- Vite
+- CodeMirror
+- xterm.js
+- Git
+- GitHub CLI
+- tree-sitter
+- Cloudflare Tunnel
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Claude Code", "session management", "local AI development", "multi-surface access", "repo mapping"]
-source: "https://github.com/ainurdev/mystical-assistant"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- session management
+- local AI development
+- multi-surface access
+- repo mapping
+source: https://github.com/ainurdev/mystical-assistant
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T14:55:39Z"
-discovered_at: "2026-08-01T15:01:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T14:55:39Z'
+discovered_at: '2026-08-01T15:01:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

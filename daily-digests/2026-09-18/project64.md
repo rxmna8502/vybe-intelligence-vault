@@ -1,19 +1,30 @@
 ---
-title: "nschneir/Project64"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.11+", "VICE emulator (x64sc, petcat, c1541)", "cc65 suite (ca65, ld65)", "MCP (Model Context Protocol) server", "YAML for test manifests", "CLI tooling"]
+title: nschneir/Project64
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python 3.11+
+- VICE emulator (x64sc, petcat, c1541)
+- cc65 suite (ca65, ld65)
+- MCP (Model Context Protocol) server
+- YAML for test manifests
+- CLI tooling
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["retro computing", "emulation", "AI agent integration", "6502 assembly", "Commodore 64"]
-source: "https://github.com/nschneir/Project64"
+deployment_complexity: Medium
+tags:
+- retro computing
+- emulation
+- AI agent integration
+- 6502 assembly
+- Commodore 64
+source: https://github.com/nschneir/Project64
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T14:42:40Z"
-discovered_at: "2026-08-01T15:01:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T14:42:40Z'
+discovered_at: '2026-08-01T15:01:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

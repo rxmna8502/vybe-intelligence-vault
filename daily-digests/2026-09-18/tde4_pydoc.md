@@ -1,19 +1,29 @@
 ---
-title: "uwe-at-sdv/tde4_pydoc"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "VS Code Extension API", "MCP (Model Context Protocol)", "TOML", "Python (for backend `wtrl_mcp`)"]
+title: uwe-at-sdv/tde4_pydoc
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- VS Code Extension API
+- MCP (Model Context Protocol)
+- TOML
+- Python (for backend `wtrl_mcp`)
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["MCP server", "3DE4 Python API", "VS Code extension", "documentation", "Waterloo docstrings"]
-source: "https://github.com/uwe-at-sdv/tde4_pydoc"
+deployment_complexity: Low
+tags:
+- MCP server
+- 3DE4 Python API
+- VS Code extension
+- documentation
+- Waterloo docstrings
+source: https://github.com/uwe-at-sdv/tde4_pydoc
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-10T18:15:06Z"
-discovered_at: "2026-07-10T18:22:55Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T18:15:06Z'
+discovered_at: '2026-07-10T18:22:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

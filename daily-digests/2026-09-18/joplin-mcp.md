@@ -1,19 +1,29 @@
 ---
-title: "alondmnt/joplin-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "Joplin API (joppy)", "Docker"]
+title: alondmnt/joplin-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastMCP
+- Model Context Protocol (MCP)
+- Joplin API (joppy)
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP Server", "Note-taking Integration", "Joplin API", "AI Assistant Tools", "Knowledge Management"]
-source: "https://github.com/alondmnt/joplin-mcp"
+deployment_complexity: Low
+tags:
+- MCP Server
+- Note-taking Integration
+- Joplin API
+- AI Assistant Tools
+- Knowledge Management
+source: https://github.com/alondmnt/joplin-mcp
 stars: 154
-language: "Python"
-last_updated: "2026-08-05T14:00:31Z"
-discovered_at: "2026-08-05T14:07:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T14:00:31Z'
+discovered_at: '2026-08-05T14:07:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

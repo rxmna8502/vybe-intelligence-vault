@@ -1,19 +1,34 @@
 ---
-title: "Dakera-AI/dakera-rs"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "HTTP (reqwest)", "gRPC (tonic)", "Docker", "Serde", "Tokio", "BM25", "ANN (Approximate Nearest Neighbor)", "Knowledge Graphs", "GLiNER (NER)"]
+title: Dakera-AI/dakera-rs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- HTTP (reqwest)
+- gRPC (tonic)
+- Docker
+- Serde
+- Tokio
+- BM25
+- ANN (Approximate Nearest Neighbor)
+- Knowledge Graphs
+- GLiNER (NER)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory engine", "vector database", "Rust SDK", "hybrid search", "self-hosted"]
-source: "https://github.com/Dakera-AI/dakera-rs"
+deployment_complexity: Medium
+tags:
+- memory engine
+- vector database
+- Rust SDK
+- hybrid search
+- self-hosted
+source: https://github.com/Dakera-AI/dakera-rs
 stars: 5
-language: "Rust"
-last_updated: "2026-08-07T18:35:13Z"
-discovered_at: "2026-08-07T18:58:36Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T18:35:13Z'
+discovered_at: '2026-08-07T18:58:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

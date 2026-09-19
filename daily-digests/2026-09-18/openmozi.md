@@ -1,19 +1,33 @@
 ---
-title: "spytensor/openmozi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Electron", "React", "Vite", "Fastify", "better-sqlite3", "Vercel AI SDK", "Vitest"]
+title: spytensor/openmozi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Electron
+- React
+- Vite
+- Fastify
+- better-sqlite3
+- Vercel AI SDK
+- Vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "self-hosted", "local execution", "LLM integration", "automation"]
-source: "https://github.com/spytensor/openmozi"
+deployment_complexity: Medium
+tags:
+- AI agent
+- self-hosted
+- local execution
+- LLM integration
+- automation
+source: https://github.com/spytensor/openmozi
 stars: 83
-language: "TypeScript"
-last_updated: "2026-08-02T05:47:45Z"
-discovered_at: "2026-08-02T05:57:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T05:47:45Z'
+discovered_at: '2026-08-02T05:57:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

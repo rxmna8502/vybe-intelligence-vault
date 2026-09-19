@@ -1,19 +1,32 @@
 ---
-title: "juan-sibbo/gam-seller-mcp-node"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "RS256 (JWT)", "Docker", "GitHub Actions", "SOAP (for GAM adapter)", "Vitest (testing)"]
+title: juan-sibbo/gam-seller-mcp-node
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- RS256 (JWT)
+- Docker
+- GitHub Actions
+- SOAP (for GAM adapter)
+- Vitest (testing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Ad Inventory", "Governed Access", "AI Agent Interface", "Audit Logging"]
-source: "https://github.com/juan-sibbo/gam-seller-mcp-node"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Ad Inventory
+- Governed Access
+- AI Agent Interface
+- Audit Logging
+source: https://github.com/juan-sibbo/gam-seller-mcp-node
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-03T21:54:46Z"
-discovered_at: "2026-08-03T22:09:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T21:54:46Z'
+discovered_at: '2026-08-03T22:09:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

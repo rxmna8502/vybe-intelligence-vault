@@ -1,19 +1,37 @@
 ---
-title: "dylanneve1/talon"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Flutter", "Claude Agent SDK", "Kilo", "OpenCode", "Codex", "OpenAI Agents SDK", "MCP (Model Context Protocol)", "Grammy (Telegram bot framework)", "discord.js", "Microsoft Bot Framework", "Docker"]
+title: dylanneve1/talon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Flutter
+- Claude Agent SDK
+- Kilo
+- OpenCode
+- Codex
+- OpenAI Agents SDK
+- MCP (Model Context Protocol)
+- Grammy (Telegram bot framework)
+- discord.js
+- Microsoft Bot Framework
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-platform", "agentic AI", "MCP tools", "backend-agnostic", "persistent agents"]
-source: "https://github.com/dylanneve1/talon"
+deployment_complexity: Medium
+tags:
+- multi-platform
+- agentic AI
+- MCP tools
+- backend-agnostic
+- persistent agents
+source: https://github.com/dylanneve1/talon
 stars: 62
-language: "TypeScript"
-last_updated: "2026-07-10T13:04:07Z"
-discovered_at: "2026-07-10T13:11:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T13:04:07Z'
+discovered_at: '2026-07-10T13:11:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

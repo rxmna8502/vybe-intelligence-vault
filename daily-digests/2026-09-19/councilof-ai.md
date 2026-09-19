@@ -1,19 +1,31 @@
 ---
-title: "CSOAI-ORG/councilof-ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Pages", "Ed25519", "GitHub Actions", "Wrangler", "Vite", "npm"]
+title: CSOAI-ORG/councilof-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Cloudflare Pages
+- Ed25519
+- GitHub Actions
+- Wrangler
+- Vite
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI governance", "measurement", "attestation", "transparency", "deterministic grading"]
-source: "https://github.com/CSOAI-ORG/councilof-ai"
+deployment_complexity: Medium
+tags:
+- AI governance
+- measurement
+- attestation
+- transparency
+- deterministic grading
+source: https://github.com/CSOAI-ORG/councilof-ai
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:50:50Z"
-discovered_at: "2026-09-01T02:52:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:50:50Z'
+discovered_at: '2026-09-01T02:52:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,39 @@
 ---
-title: "ii3lack/ii3lack"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["React", "Vue 3", "Flutter", "Electron", "FastAPI", "Python", "TypeScript", "Dart", "PHP", "MySQL", "Redis", "WebSocket", "AI Agents", "Claude Code", "Langfuse"]
+title: ii3lack/ii3lack
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- React
+- Vue 3
+- Flutter
+- Electron
+- FastAPI
+- Python
+- TypeScript
+- Dart
+- PHP
+- MySQL
+- Redis
+- WebSocket
+- AI Agents
+- Claude Code
+- Langfuse
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["full-stack development", "medical device integration", "AI workflows", "cross-platform apps", "independent delivery"]
-source: "https://github.com/ii3lack/ii3lack"
+deployment_complexity: Medium
+tags:
+- full-stack development
+- medical device integration
+- AI workflows
+- cross-platform apps
+- independent delivery
+source: https://github.com/ii3lack/ii3lack
 stars: 0
-language: "CSS"
-last_updated: "2026-08-07T09:57:39Z"
-discovered_at: "2026-08-07T10:03:47Z"
-evaluated_by: "mistral-small-latest"
+language: CSS
+last_updated: '2026-08-07T09:57:39Z'
+discovered_at: '2026-08-07T10:03:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

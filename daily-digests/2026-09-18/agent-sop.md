@@ -1,19 +1,28 @@
 ---
-title: "mmjclayton/agent-sop"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "Shell Scripting", "Git", "Claude Code Slash Commands"]
+title: mmjclayton/agent-sop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Markdown
+- Shell Scripting
+- Git
+- Claude Code Slash Commands
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["standard operating procedures", "Claude Code", "multi-agent workflows", "context management", "compliance enforcement"]
-source: "https://github.com/mmjclayton/agent-sop"
+deployment_complexity: Low
+tags:
+- standard operating procedures
+- Claude Code
+- multi-agent workflows
+- context management
+- compliance enforcement
+source: https://github.com/mmjclayton/agent-sop
 stars: 3
-language: "Shell"
-last_updated: "2026-08-03T10:37:35Z"
-discovered_at: "2026-08-03T10:43:55Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-03T10:37:35Z'
+discovered_at: '2026-08-03T10:43:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

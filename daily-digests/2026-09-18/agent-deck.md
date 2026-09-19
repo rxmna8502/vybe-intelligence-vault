@@ -1,19 +1,33 @@
 ---
-title: "asheshgoplani/agent-deck"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "TUI (Terminal User Interface)", "TMUX", "MCP (Model Context Protocol)", "Telegram API", "Slack API", "Discord API", "Git Worktrees", "TOML (for configuration)"]
+title: asheshgoplani/agent-deck
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- TUI (Terminal User Interface)
+- TMUX
+- MCP (Model Context Protocol)
+- Telegram API
+- Slack API
+- Discord API
+- Git Worktrees
+- TOML (for configuration)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent management", "terminal session manager", "multi-agent orchestration", "MCP integration", "fleet monitoring"]
-source: "https://github.com/asheshgoplani/agent-deck"
+deployment_complexity: Medium
+tags:
+- AI agent management
+- terminal session manager
+- multi-agent orchestration
+- MCP integration
+- fleet monitoring
+source: https://github.com/asheshgoplani/agent-deck
 stars: 546
-language: "Go"
-last_updated: "2026-07-19T20:30:19Z"
-discovered_at: "2026-07-19T20:44:17Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-19T20:30:19Z'
+discovered_at: '2026-07-19T20:44:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

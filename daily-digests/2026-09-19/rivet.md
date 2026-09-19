@@ -1,19 +1,31 @@
 ---
-title: "coryparrry/Rivet"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "GitHub CLI", "GitHub Actions", "GitHub Apps", "OAuth", "npm"]
+title: coryparrry/Rivet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- GitHub CLI
+- GitHub Actions
+- GitHub Apps
+- OAuth
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["GitHub automation", "AI-powered review", "agentic workflows", "security-first", "repair workflows"]
-source: "https://github.com/coryparrry/Rivet"
+deployment_complexity: Medium
+tags:
+- GitHub automation
+- AI-powered review
+- agentic workflows
+- security-first
+- repair workflows
+source: https://github.com/coryparrry/Rivet
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-01T09:06:35Z"
-discovered_at: "2026-09-01T09:07:31Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T09:06:35Z'
+discovered_at: '2026-09-01T09:07:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "tourmind-com/Tourmind-Booking-Skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "HTTPS API", "Stripe", "WeChat Pay", "Alipay", "GitHub Actions"]
+title: tourmind-com/Tourmind-Booking-Skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- HTTPS API
+- Stripe
+- WeChat Pay
+- Alipay
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["hotel booking", "AI agent integration", "travel automation", "real-time inventory", "payment processing"]
-source: "https://github.com/tourmind-com/Tourmind-Booking-Skills"
+deployment_complexity: Low
+tags:
+- hotel booking
+- AI agent integration
+- travel automation
+- real-time inventory
+- payment processing
+source: https://github.com/tourmind-com/Tourmind-Booking-Skills
 stars: 66
-language: "Python"
-last_updated: "2026-08-07T11:04:05Z"
-discovered_at: "2026-08-07T11:04:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:04:05Z'
+discovered_at: '2026-08-07T11:04:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

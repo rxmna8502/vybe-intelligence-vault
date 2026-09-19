@@ -1,19 +1,29 @@
 ---
-title: "lightweight-component/aj-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java 8+", "Spring Boot 2.x", "Jackson JSON", "OKHttp", "MCP (Model Context Protocol)"]
+title: lightweight-component/aj-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Java 8+
+- Spring Boot 2.x
+- Jackson JSON
+- OKHttp
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP SDK", "Java", "AI integration", "lightweight", "protocol"]
-source: "https://github.com/lightweight-component/aj-mcp"
+deployment_complexity: Low
+tags:
+- MCP SDK
+- Java
+- AI integration
+- lightweight
+- protocol
+source: https://github.com/lightweight-component/aj-mcp
 stars: 30
-language: "Java"
-last_updated: "2026-07-20T15:05:21Z"
-discovered_at: "2026-07-20T15:10:53Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-07-20T15:05:21Z'
+discovered_at: '2026-07-20T15:10:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

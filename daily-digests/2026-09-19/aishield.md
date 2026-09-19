@@ -1,19 +1,31 @@
 ---
-title: "lm203688/aishield"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OWASP MCP Top 10", "DID (Decentralized Identity)", "StreamableHTTP", "JSON-based storage", "ThreadingMixIn", "MCP (Model Context Protocol)"]
+title: lm203688/aishield
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- OWASP MCP Top 10
+- DID (Decentralized Identity)
+- StreamableHTTP
+- JSON-based storage
+- ThreadingMixIn
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agent Security", "Prompt Injection Detection", "OWASP Compliance", "Sandbox Execution", "Agent Identity Management"]
-source: "https://github.com/lm203688/aishield"
+deployment_complexity: Medium
+tags:
+- AI Agent Security
+- Prompt Injection Detection
+- OWASP Compliance
+- Sandbox Execution
+- Agent Identity Management
+source: https://github.com/lm203688/aishield
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T22:00:24Z"
-discovered_at: "2026-08-03T22:09:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T22:00:24Z'
+discovered_at: '2026-08-03T22:09:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

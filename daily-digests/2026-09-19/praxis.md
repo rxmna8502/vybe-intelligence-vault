@@ -1,19 +1,32 @@
 ---
-title: "Forest-Isle/Praxis"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ink (CLI UI library)", "ripgrep", "Claude Code Compatibility", "OpenAI-compatible Providers", "Anthropic-compatible Providers"]
+title: Forest-Isle/Praxis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Ink (CLI UI library)
+- ripgrep
+- Claude Code Compatibility
+- OpenAI-compatible Providers
+- Anthropic-compatible Providers
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CLI agent", "local-first", "MCP integration", "session management", "tool orchestration"]
-source: "https://github.com/Forest-Isle/Praxis"
+deployment_complexity: Medium
+tags:
+- CLI agent
+- local-first
+- MCP integration
+- session management
+- tool orchestration
+source: https://github.com/Forest-Isle/Praxis
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T03:56:36Z"
-discovered_at: "2026-08-10T03:58:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T03:56:36Z'
+discovered_at: '2026-08-10T03:58:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

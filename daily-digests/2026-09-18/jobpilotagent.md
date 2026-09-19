@@ -1,19 +1,31 @@
 ---
-title: "diamantine-aneroidbarometer28/JobPilotAgent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "Pydantic", "SQLite", "DOCX", "PyInstaller"]
+title: diamantine-aneroidbarometer28/JobPilotAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- Pydantic
+- SQLite
+- DOCX
+- PyInstaller
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["job search automation", "document generation", "human-in-the-loop", "local processing", "resume matching"]
-source: "https://github.com/diamantine-aneroidbarometer28/JobPilotAgent"
+deployment_complexity: Low
+tags:
+- job search automation
+- document generation
+- human-in-the-loop
+- local processing
+- resume matching
+source: https://github.com/diamantine-aneroidbarometer28/JobPilotAgent
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T02:39:09Z"
-discovered_at: "2026-08-07T02:41:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T02:39:09Z'
+discovered_at: '2026-08-07T02:41:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

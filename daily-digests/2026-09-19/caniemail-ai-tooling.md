@@ -1,19 +1,30 @@
 ---
-title: "shbernal/caniemail-ai-tooling"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Claude Skills", "HTML/CSS Parsing", "JSON-RPC"]
+title: shbernal/caniemail-ai-tooling
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Claude Skills
+- HTML/CSS Parsing
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["email compatibility", "AI agent tooling", "MCP server", "Claude skill", "HTML/CSS linting"]
-source: "https://github.com/shbernal/caniemail-ai-tooling"
+deployment_complexity: Medium
+tags:
+- email compatibility
+- AI agent tooling
+- MCP server
+- Claude skill
+- HTML/CSS linting
+source: https://github.com/shbernal/caniemail-ai-tooling
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-04T17:46:43Z"
-discovered_at: "2026-08-04T17:51:01Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T17:46:43Z'
+discovered_at: '2026-08-04T17:51:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React 18", "Electron", "Tailwind CSS", "Zustand", "Framer Motion", "Recharts", "Node.js", "WebSocket", "REST API"]
+title: aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- React 18
+- Electron
+- Tailwind CSS
+- Zustand
+- Framer Motion
+- Recharts
+- Node.js
+- WebSocket
+- REST API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agents", "Gamification", "Drag-and-Drop", "RPG Interface", "Enterprise Features"]
-source: "https://github.com/aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- Gamification
+- Drag-and-Drop
+- RPG Interface
+- Enterprise Features
+source: https://github.com/aiqing20230305-bot/AgentForge-v0.1.0---MVP-Release-
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-03T02:50:49Z"
-discovered_at: "2026-08-03T02:54:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T02:50:49Z'
+discovered_at: '2026-08-03T02:54:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

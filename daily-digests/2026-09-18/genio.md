@@ -1,19 +1,32 @@
 ---
-title: "HiTechLabTN/genio"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "Docker", "FFmpeg", "n8n", "Electron", "Android/iOS (PWA)", "GitHub Actions"]
+title: HiTechLabTN/genio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Ollama
+- Docker
+- FFmpeg
+- n8n
+- Electron
+- Android/iOS (PWA)
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["autonomous AI", "self-healing systems", "multimodal generation", "Tunisian Arabic NLP", "infrastructure management"]
-source: "https://github.com/HiTechLabTN/genio"
+deployment_complexity: High
+tags:
+- autonomous AI
+- self-healing systems
+- multimodal generation
+- Tunisian Arabic NLP
+- infrastructure management
+source: https://github.com/HiTechLabTN/genio
 stars: 1
-language: "Python"
-last_updated: "2026-09-02T19:07:50Z"
-discovered_at: "2026-09-02T19:11:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T19:07:50Z'
+discovered_at: '2026-09-02T19:11:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

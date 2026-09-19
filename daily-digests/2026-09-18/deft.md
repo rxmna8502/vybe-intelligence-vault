@@ -1,19 +1,38 @@
 ---
-title: "Maneek21/Deft"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Next.js 16", "React 19", "Hono", "PostgreSQL 16", "pgvector", "Drizzle ORM", "Redis", "Socket.io", "BullMQ", "Tailwind CSS", "TipTap", "better-auth", "MCP (Model Context Protocol)"]
+title: Maneek21/Deft
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Next.js 16
+- React 19
+- Hono
+- PostgreSQL 16
+- pgvector
+- Drizzle ORM
+- Redis
+- Socket.io
+- BullMQ
+- Tailwind CSS
+- TipTap
+- better-auth
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["self-hosted", "AI-native workspace", "multi-agent collaboration", "MCP integration", "task and knowledge management"]
-source: "https://github.com/Maneek21/Deft"
+deployment_complexity: High
+tags:
+- self-hosted
+- AI-native workspace
+- multi-agent collaboration
+- MCP integration
+- task and knowledge management
+source: https://github.com/Maneek21/Deft
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-21T07:17:22Z"
-discovered_at: "2026-07-21T07:32:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T07:17:22Z'
+discovered_at: '2026-07-21T07:32:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

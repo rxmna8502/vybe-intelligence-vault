@@ -1,19 +1,31 @@
 ---
-title: "berntpopp/mavedb-link"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "FastMCP 3.x", "SQLite", "Zenodo API", "MaveDB REST API", "uv (package manager)", "Claude MCP client"]
+title: berntpopp/mavedb-link
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python 3.12+
+- FastMCP 3.x
+- SQLite
+- Zenodo API
+- MaveDB REST API
+- uv (package manager)
+- Claude MCP client
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "variant effect scoring", "MAVE data", "functional classification", "biomedical AI"]
-source: "https://github.com/berntpopp/mavedb-link"
+deployment_complexity: Medium
+tags:
+- MCP server
+- variant effect scoring
+- MAVE data
+- functional classification
+- biomedical AI
+source: https://github.com/berntpopp/mavedb-link
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T09:53:26Z"
-discovered_at: "2026-07-14T10:08:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T09:53:26Z'
+discovered_at: '2026-07-14T10:08:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

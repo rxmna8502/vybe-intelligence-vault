@@ -1,19 +1,32 @@
 ---
-title: "dxn1-UBUNTU/sonderr"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Electron", "SolidJS", "OpenTUI", "Turborepo", "Node.js", "MCP (Model Context Protocol)"]
+title: dxn1-UBUNTU/sonderr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Bun
+- Electron
+- SolidJS
+- OpenTUI
+- Turborepo
+- Node.js
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "model-agnostic", "complex systems", "BYOK (Bring Your Own Key)", "self-verification"]
-source: "https://github.com/dxn1-UBUNTU/sonderr"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- model-agnostic
+- complex systems
+- BYOK (Bring Your Own Key)
+- self-verification
+source: https://github.com/dxn1-UBUNTU/sonderr
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-01T22:15:39Z"
-discovered_at: "2026-09-01T22:17:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T22:15:39Z'
+discovered_at: '2026-09-01T22:17:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

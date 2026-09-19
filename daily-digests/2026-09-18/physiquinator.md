@@ -1,19 +1,35 @@
 ---
-title: "tothKarolyDavid/Physiquinator"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: [".NET 11", ".NET MAUI", "Blazor Hybrid", "SQLite", "MudBlazor", "OpenAI API", "Ollama", "Model Context Protocol (MCP)", "ASP.NET Core", "Markdig", "Plugin.LocalNotification"]
+title: tothKarolyDavid/Physiquinator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- .NET 11
+- .NET MAUI
+- Blazor Hybrid
+- SQLite
+- MudBlazor
+- OpenAI API
+- Ollama
+- Model Context Protocol (MCP)
+- ASP.NET Core
+- Markdig
+- Plugin.LocalNotification
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["workout tracking", "AI assistant", "cross-platform", "MCP server", "local storage"]
-source: "https://github.com/tothKarolyDavid/Physiquinator"
+deployment_complexity: Medium
+tags:
+- workout tracking
+- AI assistant
+- cross-platform
+- MCP server
+- local storage
+source: https://github.com/tothKarolyDavid/Physiquinator
 stars: 1
-language: "C#"
-last_updated: "2026-08-07T08:13:48Z"
-discovered_at: "2026-08-07T08:16:20Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T08:13:48Z'
+discovered_at: '2026-08-07T08:16:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

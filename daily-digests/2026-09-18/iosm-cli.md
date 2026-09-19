@@ -1,19 +1,28 @@
 ---
-title: "viettua3978/iosm-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Windows CLI", "Command-line Interface"]
+title: viettua3978/iosm-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- Windows CLI
+- Command-line Interface
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["terminal automation", "code management", "checkpoints", "extensions", "Windows tool"]
-source: "https://github.com/viettua3978/iosm-cli"
+deployment_complexity: Low
+tags:
+- terminal automation
+- code management
+- checkpoints
+- extensions
+- Windows tool
+source: https://github.com/viettua3978/iosm-cli
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-15T12:10:02Z"
-discovered_at: "2026-07-15T12:14:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T12:10:02Z'
+discovered_at: '2026-07-15T12:14:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

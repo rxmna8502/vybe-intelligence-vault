@@ -1,19 +1,30 @@
 ---
-title: "soos3d/postflight"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["OpenClaw", "Shell (Bash)", "Telegram Bot API", "X (Twitter) API", "GitHub CLI", "Node.js (v22.22+ or v24.15+)"]
+title: soos3d/postflight
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- OpenClaw
+- Shell (Bash)
+- Telegram Bot API
+- X (Twitter) API
+- GitHub CLI
+- Node.js (v22.22+ or v24.15+)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["social media automation", "content scheduling", "human-in-the-loop", "open-source promotion", "approval workflow"]
-source: "https://github.com/soos3d/postflight"
+deployment_complexity: Medium
+tags:
+- social media automation
+- content scheduling
+- human-in-the-loop
+- open-source promotion
+- approval workflow
+source: https://github.com/soos3d/postflight
 stars: 1
-language: "Shell"
-last_updated: "2026-08-10T16:19:24Z"
-discovered_at: "2026-08-10T18:01:23Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-10T16:19:24Z'
+discovered_at: '2026-08-10T18:01:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

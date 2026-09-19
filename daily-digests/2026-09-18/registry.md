@@ -1,19 +1,33 @@
 ---
-title: "agents-repo/registry"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "GitHub Actions", "Conventional Commits", "Semantic Versioning", "JSON Schema", "Markdown", "CLI Tools"]
+title: agents-repo/registry
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- GitHub Actions
+- Conventional Commits
+- Semantic Versioning
+- JSON Schema
+- Markdown
+- CLI Tools
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agent registry", "multi-agent workflows", "IDE integration", "specification management", "versioned packages"]
-source: "https://github.com/agents-repo/registry"
+deployment_complexity: Medium
+tags:
+- agent registry
+- multi-agent workflows
+- IDE integration
+- specification management
+- versioned packages
+source: https://github.com/agents-repo/registry
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-09T11:24:30Z"
-discovered_at: "2026-08-09T11:32:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T11:24:30Z'
+discovered_at: '2026-08-09T11:32:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

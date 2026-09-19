@@ -1,19 +1,30 @@
 ---
-title: "christianclaudio/mcp-server-sigma"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Sigma Computing API", "Docker", "CI/CD (GitHub Actions)", "PyPI"]
+title: christianclaudio/mcp-server-sigma
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Sigma Computing API
+- Docker
+- CI/CD (GitHub Actions)
+- PyPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Sigma Computing", "MCP Server", "Automation", "Cloud Analytics", "AI Agent Integration"]
-source: "https://github.com/christianclaudio/mcp-server-sigma"
+deployment_complexity: Medium
+tags:
+- Sigma Computing
+- MCP Server
+- Automation
+- Cloud Analytics
+- AI Agent Integration
+source: https://github.com/christianclaudio/mcp-server-sigma
 stars: 3
-language: "Python"
-last_updated: "2026-08-10T15:00:48Z"
-discovered_at: "2026-08-10T15:04:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T15:00:48Z'
+discovered_at: '2026-08-10T15:04:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

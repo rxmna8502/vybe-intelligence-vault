@@ -1,19 +1,29 @@
 ---
-title: "Errno722/CCC-career-cognition-compass"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Markdown", "Mermaid.js", "Shell Scripting", "GitHub Actions"]
+title: Errno722/CCC-career-cognition-compass
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Markdown
+- Mermaid.js
+- Shell Scripting
+- GitHub Actions
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["job search", "career guidance", "resume optimization", "interview preparation", "workflow automation"]
-source: "https://github.com/Errno722/CCC-career-cognition-compass"
+deployment_complexity: Low
+tags:
+- job search
+- career guidance
+- resume optimization
+- interview preparation
+- workflow automation
+source: https://github.com/Errno722/CCC-career-cognition-compass
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T23:30:57Z"
-discovered_at: "2026-08-08T23:31:39Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T23:30:57Z'
+discovered_at: '2026-08-08T23:31:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

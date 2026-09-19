@@ -1,19 +1,33 @@
 ---
-title: "kdowding/Stela"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Svelte 5", "SvelteKit", "TypeScript", "MCP (Model Context Protocol)", "SQLite", "Node.js", "OAuth 2.1", "CSP (Content Security Policy)", "Docker"]
+title: kdowding/Stela
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Svelte 5
+- SvelteKit
+- TypeScript
+- MCP (Model Context Protocol)
+- SQLite
+- Node.js
+- OAuth 2.1
+- CSP (Content Security Policy)
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-hosted", "MCP integration", "artifact management", "collaboration", "versioning"]
-source: "https://github.com/kdowding/Stela"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- MCP integration
+- artifact management
+- collaboration
+- versioning
+source: https://github.com/kdowding/Stela
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T16:54:00Z"
-discovered_at: "2026-07-19T16:57:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T16:54:00Z'
+discovered_at: '2026-07-19T16:57:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "DanielDaniel2201/Koubo-Editing-Skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "FFmpeg", "Volcano Engine Speech Recognition API", "HTML/CSS/JavaScript", "GNU AGPL-3.0"]
+title: DanielDaniel2201/Koubo-Editing-Skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Node.js
+- FFmpeg
+- Volcano Engine Speech Recognition API
+- HTML/CSS/JavaScript
+- GNU AGPL-3.0
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["video editing", "speech processing", "AI-assisted transcription", "subtitles", "human-in-the-loop"]
-source: "https://github.com/DanielDaniel2201/Koubo-Editing-Skill"
+deployment_complexity: Medium
+tags:
+- video editing
+- speech processing
+- AI-assisted transcription
+- subtitles
+- human-in-the-loop
+source: https://github.com/DanielDaniel2201/Koubo-Editing-Skill
 stars: 0
-language: "HTML"
-last_updated: "2026-08-09T12:45:04Z"
-discovered_at: "2026-08-09T12:50:09Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-09T12:45:04Z'
+discovered_at: '2026-08-09T12:50:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

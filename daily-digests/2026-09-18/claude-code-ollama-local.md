@@ -1,19 +1,28 @@
 ---
-title: "khisag4704/claude-code-ollama-local"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Batchfile", "Ollama", "Claude Code", "Windows"]
+title: khisag4704/claude-code-ollama-local
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Batchfile
+- Ollama
+- Claude Code
+- Windows
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["local AI", "Claude Code", "Ollama", "Windows launcher", "offline coding"]
-source: "https://github.com/khisag4704/claude-code-ollama-local"
+deployment_complexity: Low
+tags:
+- local AI
+- Claude Code
+- Ollama
+- Windows launcher
+- offline coding
+source: https://github.com/khisag4704/claude-code-ollama-local
 stars: 0
-language: "Batchfile"
-last_updated: "2026-07-10T20:20:00Z"
-discovered_at: "2026-07-10T20:22:29Z"
-evaluated_by: "mistral-small-latest"
+language: Batchfile
+last_updated: '2026-07-10T20:20:00Z'
+discovered_at: '2026-07-10T20:22:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

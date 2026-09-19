@@ -1,19 +1,31 @@
 ---
-title: "islamyus/open-mobe"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Android", "Ubuntu (Linux container)", "AI Agents", "Terminal/Shell", "Python (likely for agent logic)", "Docker (for containerization)", "APIs (Anthropic, OpenAI, Google, OpenRouter)"]
+title: islamyus/open-mobe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Android
+- Ubuntu (Linux container)
+- AI Agents
+- Terminal/Shell
+- Python (likely for agent logic)
+- Docker (for containerization)
+- APIs (Anthropic, OpenAI, Google, OpenRouter)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI agents", "Ubuntu container", "Android integration", "terminal automation", "mobile AI"]
-source: "https://github.com/islamyus/open-mobe"
+deployment_complexity: Medium
+tags:
+- AI agents
+- Ubuntu container
+- Android integration
+- terminal automation
+- mobile AI
+source: https://github.com/islamyus/open-mobe
 stars: 0
-language: "None"
-last_updated: "2026-08-04T19:25:45Z"
-discovered_at: "2026-08-04T19:32:20Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-04T19:25:45Z'
+discovered_at: '2026-08-04T19:32:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

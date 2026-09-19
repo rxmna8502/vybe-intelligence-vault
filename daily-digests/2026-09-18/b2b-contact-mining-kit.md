@@ -1,19 +1,31 @@
 ---
-title: "axelfreeman/b2b-contact-mining-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Google Search API", "Telegram API", "Discord API", "SMTP", "AI Agents (ChatGPT, Claude, etc.)", "MCP Server (TAPAC)"]
+title: axelfreeman/b2b-contact-mining-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Google Search API
+- Telegram API
+- Discord API
+- SMTP
+- AI Agents (ChatGPT, Claude, etc.)
+- MCP Server (TAPAC)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["B2B contact mining", "lead generation", "data scraping", "AI automation", "contact validation"]
-source: "https://github.com/axelfreeman/b2b-contact-mining-kit"
+deployment_complexity: Medium
+tags:
+- B2B contact mining
+- lead generation
+- data scraping
+- AI automation
+- contact validation
+source: https://github.com/axelfreeman/b2b-contact-mining-kit
 stars: 0
-language: "None"
-last_updated: "2026-08-10T16:03:42Z"
-discovered_at: "2026-08-10T16:06:41Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-10T16:03:42Z'
+discovered_at: '2026-08-10T16:06:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

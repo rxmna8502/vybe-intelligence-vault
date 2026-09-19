@@ -1,19 +1,45 @@
 ---
-title: "Lifecycle-Innovations-Limited/claude-ops"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "Shell", "Python", "AWS", "Stripe", "RevenueCat", "Shopify", "Klaviyo", "Meta", "Google Analytics", "Datadog", "New Relic", "Twilio", "Zoom", "FaceTime", "Bland AI", "ElevenLabs", "GitHub Actions", "ECS", "Redis", "PostgreSQL"]
+title: Lifecycle-Innovations-Limited/claude-ops
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Claude Code
+- Shell
+- Python
+- AWS
+- Stripe
+- RevenueCat
+- Shopify
+- Klaviyo
+- Meta
+- Google Analytics
+- Datadog
+- New Relic
+- Twilio
+- Zoom
+- FaceTime
+- Bland AI
+- ElevenLabs
+- GitHub Actions
+- ECS
+- Redis
+- PostgreSQL
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["business automation", "AI orchestration", "infrastructure monitoring", "autonomous agents", "multi-platform integration"]
-source: "https://github.com/Lifecycle-Innovations-Limited/claude-ops"
+deployment_complexity: Medium
+tags:
+- business automation
+- AI orchestration
+- infrastructure monitoring
+- autonomous agents
+- multi-platform integration
+source: https://github.com/Lifecycle-Innovations-Limited/claude-ops
 stars: 21
-language: "Shell"
-last_updated: "2026-08-02T19:23:38Z"
-discovered_at: "2026-08-02T19:25:07Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-02T19:23:38Z'
+discovered_at: '2026-08-02T19:25:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

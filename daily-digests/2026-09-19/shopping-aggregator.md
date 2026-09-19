@@ -1,19 +1,33 @@
 ---
-title: "DaizeDong/shopping-aggregator"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Playwright", "MCP (Model Context Protocol)", "Camelcamelcamel", "Keepa", "BigGo", "Apify", "GitHub Actions"]
+title: DaizeDong/shopping-aggregator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Claude Code
+- Playwright
+- MCP (Model Context Protocol)
+- Camelcamelcamel
+- Keepa
+- BigGo
+- Apify
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["price comparison", "shopping automation", "Claude Code skill", "landed cost ranking", "coupon verification"]
-source: "https://github.com/DaizeDong/shopping-aggregator"
+deployment_complexity: Medium
+tags:
+- price comparison
+- shopping automation
+- Claude Code skill
+- landed cost ranking
+- coupon verification
+source: https://github.com/DaizeDong/shopping-aggregator
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T08:02:00Z"
-discovered_at: "2026-07-17T08:07:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T08:02:00Z'
+discovered_at: '2026-07-17T08:07:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

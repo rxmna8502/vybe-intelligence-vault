@@ -1,19 +1,31 @@
 ---
-title: "FI-Mihej/codebase-agent-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "OpenAI-compatible APIs", "Qdrant (Vector DB)", "SQLite", "FastEmbed", "uv (Package Manager)"]
+title: FI-Mihej/codebase-agent-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- OpenAI-compatible APIs
+- Qdrant (Vector DB)
+- SQLite
+- FastEmbed
+- uv (Package Manager)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code analysis", "token efficiency", "MCP server", "vector caching", "AI agent delegation"]
-source: "https://github.com/FI-Mihej/codebase-agent-mcp"
+deployment_complexity: Medium
+tags:
+- code analysis
+- token efficiency
+- MCP server
+- vector caching
+- AI agent delegation
+source: https://github.com/FI-Mihej/codebase-agent-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T13:45:38Z"
-discovered_at: "2026-08-02T13:49:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T13:45:38Z'
+discovered_at: '2026-08-02T13:49:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

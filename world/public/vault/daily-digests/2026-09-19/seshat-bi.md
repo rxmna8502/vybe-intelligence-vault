@@ -1,19 +1,34 @@
 ---
-title: "Kemetra/Seshat-BI"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PostgreSQL", "Power BI", "TMDL/PBIR", "SQL", "DAX", "dbt", "Dagster", "Mermaid", "GitHub Actions"]
+title: Kemetra/Seshat-BI
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Python
+- PostgreSQL
+- Power BI
+- TMDL/PBIR
+- SQL
+- DAX
+- dbt
+- Dagster
+- Mermaid
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["data governance", "medallion architecture", "BI readiness", "agent safety", "evidence-based validation"]
-source: "https://github.com/Kemetra/Seshat-BI"
+deployment_complexity: Medium
+tags:
+- data governance
+- medallion architecture
+- BI readiness
+- agent safety
+- evidence-based validation
+source: https://github.com/Kemetra/Seshat-BI
 stars: 2
-language: "Python"
-last_updated: "2026-08-04T15:33:18Z"
-discovered_at: "2026-08-04T15:34:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T15:33:18Z'
+discovered_at: '2026-08-04T15:34:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

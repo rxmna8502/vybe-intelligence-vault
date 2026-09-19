@@ -1,19 +1,29 @@
 ---
-title: "LeonardoMacedoCano/claude-code-dock"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Docker", "Docker Compose", "Shell", "tmux", "Anthropic Claude Code"]
+title: LeonardoMacedoCano/claude-code-dock
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Docker
+- Docker Compose
+- Shell
+- tmux
+- Anthropic Claude Code
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Claude Code", "remote execution", "Docker container", "session persistence", "AI agent management"]
-source: "https://github.com/LeonardoMacedoCano/claude-code-dock"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- remote execution
+- Docker container
+- session persistence
+- AI agent management
+source: https://github.com/LeonardoMacedoCano/claude-code-dock
 stars: 0
-language: "Shell"
-last_updated: "2026-07-12T20:40:48Z"
-discovered_at: "2026-07-12T20:42:46Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-12T20:40:48Z'
+discovered_at: '2026-07-12T20:42:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "dimitrifootless152/kaneo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js"]
+title: dimitrifootless152/kaneo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
 quality_score: 6
 rag_relevance: 3
-deployment_complexity: "Medium"
-tags: ["project management", "kanban", "self-hosted", "task tracking", "team collaboration"]
-source: "https://github.com/dimitrifootless152/kaneo"
+deployment_complexity: Medium
+tags:
+- project management
+- kanban
+- self-hosted
+- task tracking
+- team collaboration
+source: https://github.com/dimitrifootless152/kaneo
 stars: 0
-language: "None"
-last_updated: "2026-08-06T06:29:10Z"
-discovered_at: "2026-08-06T06:33:57Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-06T06:29:10Z'
+discovered_at: '2026-08-06T06:33:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

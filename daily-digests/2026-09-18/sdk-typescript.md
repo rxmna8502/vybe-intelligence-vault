@@ -1,19 +1,29 @@
 ---
-title: "RoxyAPI/sdk-typescript"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "REST API", "Node.js", "npm", "Jest (implied by testing practices)"]
+title: RoxyAPI/sdk-typescript
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- REST API
+- Node.js
+- npm
+- Jest (implied by testing practices)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["esoteric APIs", "astrology SDK", "multi-domain integration", "AI agent tools", "geocoding"]
-source: "https://github.com/RoxyAPI/sdk-typescript"
+deployment_complexity: Low
+tags:
+- esoteric APIs
+- astrology SDK
+- multi-domain integration
+- AI agent tools
+- geocoding
+source: https://github.com/RoxyAPI/sdk-typescript
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T22:54:38Z"
-discovered_at: "2026-08-02T22:56:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T22:54:38Z'
+discovered_at: '2026-08-02T22:56:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -21,11 +21,11 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
-- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 - [GitHub - collabnix/kubelabs: Get Started with Kubernetes · GitHub](https://github.com/collabnix/kubelabs/tree/master#gke)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [Collections · GitHub](https://github.com/collections)
+- [Postman Inc. · GitHub](https://github.com/postmanlabs)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-09-18 04:45 IST*
+*Last updated: 2026-09-19 10:35 IST*

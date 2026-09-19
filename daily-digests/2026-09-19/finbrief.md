@@ -1,19 +1,37 @@
 ---
-title: "RyuGernwoo/FInBrief"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "FastAPI", "LangGraph", "Supabase PostgreSQL + pgvector", "LiteLLM", "Langfuse", "FRED", "yfinance", "ECOS", "Discord/Slack Webhook", "Docker", "GitHub Actions", "GCP Compute Engine"]
+title: RyuGernwoo/FInBrief
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python 3.11+
+- FastAPI
+- LangGraph
+- Supabase PostgreSQL + pgvector
+- LiteLLM
+- Langfuse
+- FRED
+- yfinance
+- ECOS
+- Discord/Slack Webhook
+- Docker
+- GitHub Actions
+- GCP Compute Engine
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["financial AI", "RAG pipeline", "personalized briefing", "LangGraph workflow", "Supabase integration"]
-source: "https://github.com/RyuGernwoo/FInBrief"
+deployment_complexity: Medium
+tags:
+- financial AI
+- RAG pipeline
+- personalized briefing
+- LangGraph workflow
+- Supabase integration
+source: https://github.com/RyuGernwoo/FInBrief
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T13:18:58Z"
-discovered_at: "2026-07-13T13:22:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T13:18:58Z'
+discovered_at: '2026-07-13T13:22:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

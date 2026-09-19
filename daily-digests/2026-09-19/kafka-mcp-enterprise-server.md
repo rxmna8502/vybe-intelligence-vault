@@ -1,19 +1,30 @@
 ---
-title: "vaquarkhan/kafka-mcp-enterprise-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Apache Kafka", "Model Context Protocol (MCP)", "JSON-RPC 2.0", "PyPI", "Mermaid (for diagrams)"]
+title: vaquarkhan/kafka-mcp-enterprise-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Apache Kafka
+- Model Context Protocol (MCP)
+- JSON-RPC 2.0
+- PyPI
+- Mermaid (for diagrams)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Kafka", "MCP Server", "AI Agents", "Security", "Data Governance"]
-source: "https://github.com/vaquarkhan/kafka-mcp-enterprise-server"
+deployment_complexity: Medium
+tags:
+- Kafka
+- MCP Server
+- AI Agents
+- Security
+- Data Governance
+source: https://github.com/vaquarkhan/kafka-mcp-enterprise-server
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T06:27:30Z"
-discovered_at: "2026-08-01T06:29:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T06:27:30Z'
+discovered_at: '2026-08-01T06:29:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

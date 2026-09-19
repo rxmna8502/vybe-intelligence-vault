@@ -1,19 +1,31 @@
 ---
-title: "donaldrichard19-LVD/pattern-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Anthropic API (Claude Sonnet 5)", "Web Search", "React", "Tailwind CSS"]
+title: donaldrichard19-LVD/pattern-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Anthropic API (Claude Sonnet 5)
+- Web Search
+- React
+- Tailwind CSS
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["UI component validation", "MCP server", "agent tooling", "component recommendation", "evidence-based decisioning"]
-source: "https://github.com/donaldrichard19-LVD/pattern-mcp"
+deployment_complexity: Medium
+tags:
+- UI component validation
+- MCP server
+- agent tooling
+- component recommendation
+- evidence-based decisioning
+source: https://github.com/donaldrichard19-LVD/pattern-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-09-01T02:51:12Z"
-discovered_at: "2026-09-01T02:52:46Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:51:12Z'
+discovered_at: '2026-09-01T02:52:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

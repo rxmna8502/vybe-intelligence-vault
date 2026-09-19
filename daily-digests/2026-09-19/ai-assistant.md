@@ -1,19 +1,33 @@
 ---
-title: "Kutlay07/ai-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Dependency Injection", "Clean Architecture", "RAG (Retrieval-Augmented Generation)", "Vector Stores", "Embeddings", "LLM Abstractions", "Docker (planned)"]
+title: Kutlay07/ai-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- FastAPI
+- Dependency Injection
+- Clean Architecture
+- RAG (Retrieval-Augmented Generation)
+- Vector Stores
+- Embeddings
+- LLM Abstractions
+- Docker (planned)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI assistant", "modular architecture", "provider independence", "RAG framework", "production-ready"]
-source: "https://github.com/Kutlay07/ai-assistant"
+deployment_complexity: Medium
+tags:
+- AI assistant
+- modular architecture
+- provider independence
+- RAG framework
+- production-ready
+source: https://github.com/Kutlay07/ai-assistant
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T16:32:07Z"
-discovered_at: "2026-08-05T16:45:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T16:32:07Z'
+discovered_at: '2026-08-05T16:45:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "mizarzulfa/houdini-live-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Houdini (SideFX)", "PowerShell", "uv (package manager)"]
+title: mizarzulfa/houdini-live-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Houdini (SideFX)
+- PowerShell
+- uv (package manager)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Houdini integration", "MCP server", "Claude Desktop", "VEX inspection", "local AI tools"]
-source: "https://github.com/mizarzulfa/houdini-live-mcp"
+deployment_complexity: Medium
+tags:
+- Houdini integration
+- MCP server
+- Claude Desktop
+- VEX inspection
+- local AI tools
+source: https://github.com/mizarzulfa/houdini-live-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T17:55:17Z"
-discovered_at: "2026-08-01T18:00:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T17:55:17Z'
+discovered_at: '2026-08-01T18:00:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

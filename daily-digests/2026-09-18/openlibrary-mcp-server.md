@@ -1,19 +1,31 @@
 ---
-title: "cyanheads/openlibrary-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Zod", "OpenTelemetry", "Docker", "Node.js"]
+title: cyanheads/openlibrary-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- Zod
+- OpenTelemetry
+- Docker
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Open Library", "Book Metadata", "Agent Integration", "Search API"]
-source: "https://github.com/cyanheads/openlibrary-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Open Library
+- Book Metadata
+- Agent Integration
+- Search API
+source: https://github.com/cyanheads/openlibrary-mcp-server
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-13T18:34:30Z"
-discovered_at: "2026-07-13T18:43:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T18:34:30Z'
+discovered_at: '2026-07-13T18:43:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

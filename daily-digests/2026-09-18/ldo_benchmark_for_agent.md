@@ -1,19 +1,30 @@
 ---
-title: "jialinlu/ldo_benchmark_for_agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "JSON Schemas", "CLI Tools", "ngspice (optional)", "Analytic Simulators", "GitHub Actions (CI)"]
+title: jialinlu/ldo_benchmark_for_agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- JSON Schemas
+- CLI Tools
+- ngspice (optional)
+- Analytic Simulators
+- GitHub Actions (CI)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LDO benchmarking", "analog circuit design", "AI agent evaluation", "design closure", "simulation policy"]
-source: "https://github.com/jialinlu/ldo_benchmark_for_agent"
+deployment_complexity: Medium
+tags:
+- LDO benchmarking
+- analog circuit design
+- AI agent evaluation
+- design closure
+- simulation policy
+source: https://github.com/jialinlu/ldo_benchmark_for_agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T02:49:36Z"
-discovered_at: "2026-08-03T02:54:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T02:49:36Z'
+discovered_at: '2026-08-03T02:54:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

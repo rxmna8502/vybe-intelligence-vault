@@ -1,19 +1,29 @@
 ---
-title: "Underline-1024/loom-engine"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "TUI (Ratatui)", "LLM APIs (OpenAI, Anthropic, Ollama)", "Dynamic Tool Calling", "Embedding Models"]
+title: Underline-1024/loom-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- TUI (Ratatui)
+- LLM APIs (OpenAI, Anthropic, Ollama)
+- Dynamic Tool Calling
+- Embedding Models
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["LLM Integration", "Text RPG", "Narrative Engine", "Dynamic State Management", "TUI Application"]
-source: "https://github.com/Underline-1024/loom-engine"
+deployment_complexity: Medium
+tags:
+- LLM Integration
+- Text RPG
+- Narrative Engine
+- Dynamic State Management
+- TUI Application
+source: https://github.com/Underline-1024/loom-engine
 stars: 5
-language: "Rust"
-last_updated: "2026-08-01T14:55:29Z"
-discovered_at: "2026-08-01T15:01:26Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T14:55:29Z'
+discovered_at: '2026-08-01T15:01:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

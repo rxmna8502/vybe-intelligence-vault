@@ -1,19 +1,34 @@
 ---
-title: "mdlacasse/Owl"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Mixed-Integer Linear Programming (MILP)", "Monte Carlo Simulation", "Streamlit", "Docker", "MCP (Model Context Protocol)", "Pandas", "NumPy", "PuLP", "SciPy"]
+title: mdlacasse/Owl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Mixed-Integer Linear Programming (MILP)
+- Monte Carlo Simulation
+- Streamlit
+- Docker
+- MCP (Model Context Protocol)
+- Pandas
+- NumPy
+- PuLP
+- SciPy
 quality_score: 9
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["retirement planning", "tax optimization", "financial modeling", "AI assistant integration", "open-source"]
-source: "https://github.com/mdlacasse/Owl"
+deployment_complexity: Medium
+tags:
+- retirement planning
+- tax optimization
+- financial modeling
+- AI assistant integration
+- open-source
+source: https://github.com/mdlacasse/Owl
 stars: 62
-language: "Python"
-last_updated: "2026-08-02T05:55:56Z"
-discovered_at: "2026-08-02T05:57:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T05:55:56Z'
+discovered_at: '2026-08-02T05:57:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "Xarksus/synapsen"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Standard Library", "SQLite", "Nix", "JSON", "CLI Tools", "MCP (Model Context Protocol)"]
+title: Xarksus/synapsen
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Python
+- Standard Library
+- SQLite
+- Nix
+- JSON
+- CLI Tools
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["homeostasis", "state management", "agent architecture", "biological modeling", "circadian rhythms"]
-source: "https://github.com/Xarksus/synapsen"
+deployment_complexity: Medium
+tags:
+- homeostasis
+- state management
+- agent architecture
+- biological modeling
+- circadian rhythms
+source: https://github.com/Xarksus/synapsen
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T02:43:34Z"
-discovered_at: "2026-09-01T02:50:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T02:43:34Z'
+discovered_at: '2026-09-01T02:50:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

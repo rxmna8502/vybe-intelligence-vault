@@ -1,19 +1,31 @@
 ---
-title: "arnibj/InfoSlides.MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "Native AOT", "MCP (Model Context Protocol)", "HLS (HTTP Live Streaming)", "REST API", "CLI"]
+title: arnibj/InfoSlides.MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- C#
+- .NET
+- Native AOT
+- MCP (Model Context Protocol)
+- HLS (HTTP Live Streaming)
+- REST API
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["digital signage", "MCP server", "AI agent integration", "live data feeds", "CLI tool"]
-source: "https://github.com/arnibj/InfoSlides.MCP"
+deployment_complexity: Low
+tags:
+- digital signage
+- MCP server
+- AI agent integration
+- live data feeds
+- CLI tool
+source: https://github.com/arnibj/InfoSlides.MCP
 stars: 0
-language: "C#"
-last_updated: "2026-08-10T17:53:13Z"
-discovered_at: "2026-08-10T18:01:32Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-10T17:53:13Z'
+discovered_at: '2026-08-10T18:01:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

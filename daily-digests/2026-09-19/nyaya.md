@@ -1,19 +1,35 @@
 ---
-title: "paragmraw/nyaya"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LangGraph", "FastAPI", "Next.js", "Docker", "PostgreSQL", "NVIDIA Nemotron", "Railway", "Starlette", "Supabase"]
+title: paragmraw/nyaya
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- LangGraph
+- FastAPI
+- Next.js
+- Docker
+- PostgreSQL
+- NVIDIA Nemotron
+- Railway
+- Starlette
+- Supabase
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["legal AI", "MCP server", "LangGraph", "Indian law", "RAG"]
-source: "https://github.com/paragmraw/nyaya"
+deployment_complexity: Medium
+tags:
+- legal AI
+- MCP server
+- LangGraph
+- Indian law
+- RAG
+source: https://github.com/paragmraw/nyaya
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T22:04:38Z"
-discovered_at: "2026-09-03T22:08:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T22:04:38Z'
+discovered_at: '2026-09-03T22:08:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "jeramiepunished285/activedrops-research"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "Electron (implied for desktop app)", "WebGL (for visualization)", "CSS"]
+title: jeramiepunished285/activedrops-research
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- HTML
+- JavaScript
+- Electron (implied for desktop app)
+- WebGL (for visualization)
+- CSS
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["cellular biology", "molecular motors", "biochemical simulation", "sequence analysis", "research tool"]
-source: "https://github.com/jeramiepunished285/activedrops-research"
+deployment_complexity: Low
+tags:
+- cellular biology
+- molecular motors
+- biochemical simulation
+- sequence analysis
+- research tool
+source: https://github.com/jeramiepunished285/activedrops-research
 stars: 0
-language: "HTML"
-last_updated: "2026-08-07T02:39:43Z"
-discovered_at: "2026-08-07T02:42:33Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T02:39:43Z'
+discovered_at: '2026-08-07T02:42:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

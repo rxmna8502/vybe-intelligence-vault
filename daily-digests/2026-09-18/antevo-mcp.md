@@ -1,19 +1,31 @@
 ---
-title: "ANTEVO-CH/antevo-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Streamable HTTP", "Gemini CLI", "Cursor", "VS Code", "ChatGPT", "Claude"]
+title: ANTEVO-CH/antevo-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Model Context Protocol (MCP)
+- Streamable HTTP
+- Gemini CLI
+- Cursor
+- VS Code
+- ChatGPT
+- Claude
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP", "remote servers", "market data", "trademark lookup", "wealth management"]
-source: "https://github.com/ANTEVO-CH/antevo-mcp"
+deployment_complexity: Low
+tags:
+- MCP
+- remote servers
+- market data
+- trademark lookup
+- wealth management
+source: https://github.com/ANTEVO-CH/antevo-mcp
 stars: 0
-language: "None"
-last_updated: "2026-09-03T22:02:42Z"
-discovered_at: "2026-09-03T22:10:19Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-03T22:02:42Z'
+discovered_at: '2026-09-03T22:10:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

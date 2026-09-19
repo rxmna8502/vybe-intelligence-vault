@@ -1,19 +1,31 @@
 ---
-title: "jmagar/apprise-rmcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Apprise API", "CLI", "HTTP", "OAuth", "Docker"]
+title: jmagar/apprise-rmcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Apprise API
+- CLI
+- HTTP
+- OAuth
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["notification", "MCP server", "Apprise integration", "Rust CLI", "alerting"]
-source: "https://github.com/jmagar/apprise-rmcp"
+deployment_complexity: Medium
+tags:
+- notification
+- MCP server
+- Apprise integration
+- Rust CLI
+- alerting
+source: https://github.com/jmagar/apprise-rmcp
 stars: 1
-language: "Rust"
-last_updated: "2026-07-12T11:56:12Z"
-discovered_at: "2026-07-12T11:58:25Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-12T11:56:12Z'
+discovered_at: '2026-07-12T11:58:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

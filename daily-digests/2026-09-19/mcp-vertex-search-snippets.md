@@ -1,19 +1,29 @@
 ---
-title: "UnitVectorY-Labs/mcp-vertex-search-snippets"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Vertex AI Search", "Google Cloud", "YAML"]
+title: UnitVectorY-Labs/mcp-vertex-search-snippets
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Vertex AI Search
+- Google Cloud
+- YAML
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "Vertex AI", "document retrieval", "RAG integration", "Google Cloud"]
-source: "https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Vertex AI
+- document retrieval
+- RAG integration
+- Google Cloud
+source: https://github.com/UnitVectorY-Labs/mcp-vertex-search-snippets
 stars: 0
-language: "Go"
-last_updated: "2026-08-08T19:23:35Z"
-discovered_at: "2026-08-08T19:33:15Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T19:23:35Z'
+discovered_at: '2026-08-08T19:33:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,37 @@
 ---
-title: "honeygame786/link-rewrite-pipeline"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Gemini-class language models", "REST APIs", "PostgreSQL/MySQL", "Redis", "FastAPI/Django", "React.js", "Docker", "Kubernetes", "GitHub Actions", "WebSockets", "Natural Language Processing (NLP)", "Multilingual translation libraries"]
+title: honeygame786/link-rewrite-pipeline
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Gemini-class language models
+- REST APIs
+- PostgreSQL/MySQL
+- Redis
+- FastAPI/Django
+- React.js
+- Docker
+- Kubernetes
+- GitHub Actions
+- WebSockets
+- Natural Language Processing (NLP)
+- Multilingual translation libraries
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["Social media automation", "AI content rewriting", "Human-in-the-loop approval", "Multi-platform orchestration", "Brand reputation management"]
-source: "https://github.com/honeygame786/link-rewrite-pipeline"
+deployment_complexity: High
+tags:
+- Social media automation
+- AI content rewriting
+- Human-in-the-loop approval
+- Multi-platform orchestration
+- Brand reputation management
+source: https://github.com/honeygame786/link-rewrite-pipeline
 stars: 0
-language: "HTML"
-last_updated: "2026-09-03T21:59:38Z"
-discovered_at: "2026-09-03T22:07:48Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T21:59:38Z'
+discovered_at: '2026-09-03T22:07:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

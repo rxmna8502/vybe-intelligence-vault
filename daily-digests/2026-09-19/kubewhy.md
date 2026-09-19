@@ -1,19 +1,32 @@
 ---
-title: "ravisinghrajput95/kubewhy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Ollama", "Kubernetes Python Client", "Streamlit", "FastAPI", "Helm", "MCP (Model Context Protocol)", "Docker"]
+title: ravisinghrajput95/kubewhy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Ollama
+- Kubernetes Python Client
+- Streamlit
+- FastAPI
+- Helm
+- MCP (Model Context Protocol)
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Kubernetes troubleshooting", "Root-cause analysis", "Local LLM", "Air-gapped", "Automated diagnostics"]
-source: "https://github.com/ravisinghrajput95/kubewhy"
+deployment_complexity: Medium
+tags:
+- Kubernetes troubleshooting
+- Root-cause analysis
+- Local LLM
+- Air-gapped
+- Automated diagnostics
+source: https://github.com/ravisinghrajput95/kubewhy
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T09:52:51Z"
-discovered_at: "2026-08-07T10:04:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T09:52:51Z'
+discovered_at: '2026-08-07T10:04:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

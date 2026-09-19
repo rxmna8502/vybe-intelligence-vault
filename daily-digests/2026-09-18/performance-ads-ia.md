@@ -1,19 +1,32 @@
 ---
-title: "davigraeff-v4/performance-ads-ia"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Codex", "Markdown", "Meta Ads API", "Google Ads API", "JSON", "YAML"]
+title: davigraeff-v4/performance-ads-ia
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Claude Code
+- Codex
+- Markdown
+- Meta Ads API
+- Google Ads API
+- JSON
+- YAML
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "advertising automation", "auditable workflows", "Meta Ads", "Google Ads"]
-source: "https://github.com/davigraeff-v4/performance-ads-ia"
+deployment_complexity: Medium
+tags:
+- AI agent
+- advertising automation
+- auditable workflows
+- Meta Ads
+- Google Ads
+source: https://github.com/davigraeff-v4/performance-ads-ia
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T18:49:26Z"
-discovered_at: "2026-08-07T18:57:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T18:49:26Z'
+discovered_at: '2026-08-07T18:57:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

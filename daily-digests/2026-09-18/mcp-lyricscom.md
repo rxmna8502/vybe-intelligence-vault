@@ -1,19 +1,30 @@
 ---
-title: "smeet666/mcp-lyricscom"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Cheerio (HTML parsing)", "JSDOM", "Axios"]
+title: smeet666/mcp-lyricscom
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Cheerio (HTML parsing)
+- JSDOM
+- Axios
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "lyrics search", "web scraping", "song lyrics", "MCP tooling"]
-source: "https://github.com/smeet666/mcp-lyricscom"
+deployment_complexity: Low
+tags:
+- MCP server
+- lyrics search
+- web scraping
+- song lyrics
+- MCP tooling
+source: https://github.com/smeet666/mcp-lyricscom
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T19:23:07Z"
-discovered_at: "2026-08-02T19:25:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T19:23:07Z'
+discovered_at: '2026-08-02T19:25:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "SVamseekar/masova-support"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Google ADK", "Gemini", "FastAPI", "JWT", "APScheduler", "Redis", "RabbitMQ", "pytest"]
+title: SVamseekar/masova-support
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Google ADK
+- Gemini
+- FastAPI
+- JWT
+- APScheduler
+- Redis
+- RabbitMQ
+- pytest
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["customer support", "restaurant platform", "agent framework", "operations automation", "Google ADK"]
-source: "https://github.com/SVamseekar/masova-support"
+deployment_complexity: Medium
+tags:
+- customer support
+- restaurant platform
+- agent framework
+- operations automation
+- Google ADK
+source: https://github.com/SVamseekar/masova-support
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T17:29:15Z"
-discovered_at: "2026-08-08T17:32:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T17:29:15Z'
+discovered_at: '2026-08-08T17:32:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

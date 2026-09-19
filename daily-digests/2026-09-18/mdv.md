@@ -1,19 +1,36 @@
 ---
-title: "itaikeren/mdv"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Vite", "Hono", "Drizzle ORM", "Neon Postgres", "Clerk (Auth)", "Tailwind CSS", "Mermaid", "Shiki", "MCP (Model Context Protocol)", "Vercel"]
+title: itaikeren/mdv
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Hono
+- Drizzle ORM
+- Neon Postgres
+- Clerk (Auth)
+- Tailwind CSS
+- Mermaid
+- Shiki
+- MCP (Model Context Protocol)
+- Vercel
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["markdown", "collaboration", "MCP server", "AI agents", "document publishing"]
-source: "https://github.com/itaikeren/mdv"
+deployment_complexity: Medium
+tags:
+- markdown
+- collaboration
+- MCP server
+- AI agents
+- document publishing
+source: https://github.com/itaikeren/mdv
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T12:54:49Z"
-discovered_at: "2026-08-04T13:05:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T12:54:49Z'
+discovered_at: '2026-08-04T13:05:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

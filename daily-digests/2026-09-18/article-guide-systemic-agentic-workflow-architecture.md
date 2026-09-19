@@ -1,19 +1,30 @@
 ---
-title: "ApertaCodex/article-guide-systemic-agentic-workflow-architecture"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Agentic AI", "Orchestration Frameworks", "System Architecture", "Governance & Compliance", "Workflow Automation", "Deterministic Guardrails"]
+title: ApertaCodex/article-guide-systemic-agentic-workflow-architecture
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Agentic AI
+- Orchestration Frameworks
+- System Architecture
+- Governance & Compliance
+- Workflow Automation
+- Deterministic Guardrails
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["agentic workflows", "enterprise AI", "orchestration", "governance", "systemic architecture"]
-source: "https://github.com/ApertaCodex/article-guide-systemic-agentic-workflow-architecture"
+deployment_complexity: High
+tags:
+- agentic workflows
+- enterprise AI
+- orchestration
+- governance
+- systemic architecture
+source: https://github.com/ApertaCodex/article-guide-systemic-agentic-workflow-architecture
 stars: 0
-language: "None"
-last_updated: "2026-08-04T06:03:43Z"
-discovered_at: "2026-08-06T00:02:31Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-04T06:03:43Z'
+discovered_at: '2026-08-06T00:02:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

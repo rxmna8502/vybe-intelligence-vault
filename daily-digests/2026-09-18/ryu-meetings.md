@@ -1,19 +1,33 @@
 ---
-title: "amajorai/ryu-meetings"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Python (diarization sidecar, not public)", "SQLite", "Whisper", "Parakeet (STT)", "React", "Vite", "SSE (Server-Sent Events)", "HTTP API"]
+title: amajorai/ryu-meetings
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Rust
+- Python (diarization sidecar, not public)
+- SQLite
+- Whisper
+- Parakeet (STT)
+- React
+- Vite
+- SSE (Server-Sent Events)
+- HTTP API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["meeting notes", "real-time transcription", "AI note generation", "RAG integration", "audio processing"]
-source: "https://github.com/amajorai/ryu-meetings"
+deployment_complexity: Medium
+tags:
+- meeting notes
+- real-time transcription
+- AI note generation
+- RAG integration
+- audio processing
+source: https://github.com/amajorai/ryu-meetings
 stars: 0
-language: "Rust"
-last_updated: "2026-08-05T08:32:09Z"
-discovered_at: "2026-08-05T08:35:51Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T08:32:09Z'
+discovered_at: '2026-08-05T08:35:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

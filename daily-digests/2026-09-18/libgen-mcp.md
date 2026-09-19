@@ -1,19 +1,29 @@
 ---
-title: "jmrplens/libgen-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Docker", "Static Binary", "REST API"]
+title: jmrplens/libgen-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Docker
+- Static Binary
+- REST API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Library Genesis", "MCP server", "document retrieval", "AI assistant integration", "static binary"]
-source: "https://github.com/jmrplens/libgen-mcp"
+deployment_complexity: Low
+tags:
+- Library Genesis
+- MCP server
+- document retrieval
+- AI assistant integration
+- static binary
+source: https://github.com/jmrplens/libgen-mcp
 stars: 0
-language: "Go"
-last_updated: "2026-07-19T13:12:55Z"
-discovered_at: "2026-07-19T13:17:36Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-19T13:12:55Z'
+discovered_at: '2026-07-19T13:17:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

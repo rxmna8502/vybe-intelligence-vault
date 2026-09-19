@@ -1,19 +1,29 @@
 ---
-title: "mengrru/Spherse"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "HTML/CSS", "LLM API Integration", "Node.js"]
+title: mengrru/Spherse
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Electron
+- TypeScript
+- HTML/CSS
+- LLM API Integration
+- Node.js
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI Agents", "Local-First", "Electron App", "World-Building", "Customizable UI"]
-source: "https://github.com/mengrru/Spherse"
+deployment_complexity: Low
+tags:
+- AI Agents
+- Local-First
+- Electron App
+- World-Building
+- Customizable UI
+source: https://github.com/mengrru/Spherse
 stars: 12
-language: "TypeScript"
-last_updated: "2026-08-01T13:12:27Z"
-discovered_at: "2026-08-01T13:16:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T13:12:27Z'
+discovered_at: '2026-08-01T13:16:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

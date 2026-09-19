@@ -1,19 +1,29 @@
 ---
-title: "cyanheads/epa-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Node.js", "Docker"]
+title: cyanheads/epa-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["EPA data", "environmental compliance", "MCP server", "air quality", "toxic releases"]
-source: "https://github.com/cyanheads/epa-mcp-server"
+deployment_complexity: Medium
+tags:
+- EPA data
+- environmental compliance
+- MCP server
+- air quality
+- toxic releases
+source: https://github.com/cyanheads/epa-mcp-server
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-10T21:56:36Z"
-discovered_at: "2026-07-10T22:00:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T21:56:36Z'
+discovered_at: '2026-07-10T22:00:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

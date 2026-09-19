@@ -1,19 +1,34 @@
 ---
-title: "inceptionstack/lowkey"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["AWS CloudFormation", "Terraform", "Bash", "Python", "Docker", "Amazon Bedrock", "OpenAI API", "Systemd", "SSM (AWS Systems Manager)", "Telegram/Discord/Slack APIs"]
+title: inceptionstack/lowkey
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- AWS CloudFormation
+- Terraform
+- Bash
+- Python
+- Docker
+- Amazon Bedrock
+- OpenAI API
+- Systemd
+- SSM (AWS Systems Manager)
+- Telegram/Discord/Slack APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent deployment", "AWS automation", "self-hosted agents", "coding assistants", "multi-agent orchestration"]
-source: "https://github.com/inceptionstack/lowkey"
+deployment_complexity: Medium
+tags:
+- AI agent deployment
+- AWS automation
+- self-hosted agents
+- coding assistants
+- multi-agent orchestration
+source: https://github.com/inceptionstack/lowkey
 stars: 51
-language: "Shell"
-last_updated: "2026-07-11T13:08:35Z"
-discovered_at: "2026-07-11T13:14:27Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-11T13:08:35Z'
+discovered_at: '2026-07-11T13:14:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

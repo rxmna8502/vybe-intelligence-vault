@@ -1,19 +1,31 @@
 ---
-title: "AravindKurapati/gotham-grid"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js 14", "TypeScript", "Tailwind CSS", "GitHub API", "Tavily", "Groq", "Vercel"]
+title: AravindKurapati/gotham-grid
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- GitHub API
+- Tavily
+- Groq
+- Vercel
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "project discovery", "multi-loop search", "cost-aware", "retro UI"]
-source: "https://github.com/AravindKurapati/gotham-grid"
+deployment_complexity: Medium
+tags:
+- AI agent
+- project discovery
+- multi-loop search
+- cost-aware
+- retro UI
+source: https://github.com/AravindKurapati/gotham-grid
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-16T08:05:59Z"
-discovered_at: "2026-07-16T08:10:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T08:05:59Z'
+discovered_at: '2026-07-16T08:10:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

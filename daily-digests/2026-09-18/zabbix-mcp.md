@@ -1,19 +1,32 @@
 ---
-title: "mhajder/zabbix-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Zabbix API", "FastMCP", "Docker", "Sentry", "Rate Limiting", "STDIO/SSE/HTTP Transport"]
+title: mhajder/zabbix-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Zabbix API
+- FastMCP
+- Docker
+- Sentry
+- Rate Limiting
+- STDIO/SSE/HTTP Transport
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Zabbix", "MCP Server", "Monitoring Automation", "API Integration", "DevOps"]
-source: "https://github.com/mhajder/zabbix-mcp"
+deployment_complexity: Medium
+tags:
+- Zabbix
+- MCP Server
+- Monitoring Automation
+- API Integration
+- DevOps
+source: https://github.com/mhajder/zabbix-mcp
 stars: 8
-language: "Python"
-last_updated: "2026-07-14T05:17:07Z"
-discovered_at: "2026-07-14T05:29:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T05:17:07Z'
+discovered_at: '2026-07-14T05:29:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

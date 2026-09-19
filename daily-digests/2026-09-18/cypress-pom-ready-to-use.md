@@ -1,19 +1,32 @@
 ---
-title: "padmarajnidagundi/Cypress-POM-Ready-To-Use"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Cypress", "TypeScript", "JavaScript", "Node.js", "Docker", "GitHub Actions", "Mochawesome", "Prettier"]
+title: padmarajnidagundi/Cypress-POM-Ready-To-Use
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Cypress
+- TypeScript
+- JavaScript
+- Node.js
+- Docker
+- GitHub Actions
+- Mochawesome
+- Prettier
 quality_score: 9
 rag_relevance: 3
-deployment_complexity: "Medium"
-tags: ["E2E Testing", "Cypress Framework", "TypeScript", "Docker", "Automation"]
-source: "https://github.com/padmarajnidagundi/Cypress-POM-Ready-To-Use"
+deployment_complexity: Medium
+tags:
+- E2E Testing
+- Cypress Framework
+- TypeScript
+- Docker
+- Automation
+source: https://github.com/padmarajnidagundi/Cypress-POM-Ready-To-Use
 stars: 14
-language: "JavaScript"
-last_updated: "2026-08-09T08:39:35Z"
-discovered_at: "2026-08-09T08:45:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T08:39:35Z'
+discovered_at: '2026-08-09T08:45:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

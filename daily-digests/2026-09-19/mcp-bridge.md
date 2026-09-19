@@ -1,19 +1,30 @@
 ---
-title: "ESP32-S3/mcp-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "Supergateway", "Cloudflare Tunnel", "MCP (Model Context Protocol)", "JSON"]
+title: ESP32-S3/mcp-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Node.js
+- Supergateway
+- Cloudflare Tunnel
+- MCP (Model Context Protocol)
+- JSON
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP", "remote access", "stdio to HTTP", "Cloudflare Tunnel", "AI tool integration"]
-source: "https://github.com/ESP32-S3/mcp-bridge"
+deployment_complexity: Medium
+tags:
+- MCP
+- remote access
+- stdio to HTTP
+- Cloudflare Tunnel
+- AI tool integration
+source: https://github.com/ESP32-S3/mcp-bridge
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T13:07:41Z"
-discovered_at: "2026-08-10T13:09:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T13:07:41Z'
+discovered_at: '2026-08-10T13:09:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

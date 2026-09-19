@@ -1,19 +1,31 @@
 ---
-title: "joshidikshant/loopback"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "React", "shadcn/ui", "TypeScript (implicit via Node 22+)"]
+title: joshidikshant/loopback
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- React
+- shadcn/ui
+- TypeScript (implicit via Node 22+)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["feedback loop", "MCP integration", "agent orchestration", "real-time debugging", "UI widget"]
-source: "https://github.com/joshidikshant/loopback"
+deployment_complexity: Medium
+tags:
+- feedback loop
+- MCP integration
+- agent orchestration
+- real-time debugging
+- UI widget
+source: https://github.com/joshidikshant/loopback
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T21:54:04Z"
-discovered_at: "2026-08-01T21:55:08Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T21:54:04Z'
+discovered_at: '2026-08-01T21:55:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "Tibu142/memorix"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Electron", "Cross-platform desktop development"]
+title: Tibu142/memorix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Electron
+- Cross-platform desktop development
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["persistent memory", "AI coding assistants", "cross-tool synchronization", "MCP integration", "context retention"]
-source: "https://github.com/Tibu142/memorix"
+deployment_complexity: Low
+tags:
+- persistent memory
+- AI coding assistants
+- cross-tool synchronization
+- MCP integration
+- context retention
+source: https://github.com/Tibu142/memorix
 stars: 4
-language: "TypeScript"
-last_updated: "2026-07-17T02:50:53Z"
-discovered_at: "2026-07-17T02:52:06Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T02:50:53Z'
+discovered_at: '2026-07-17T02:52:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

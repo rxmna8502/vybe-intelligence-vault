@@ -1,19 +1,33 @@
 ---
-title: "iiishop/StratumCode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Vue 3", "Vite", "pywebview", "Language Server Protocol (LSP)", "Model Context Protocol (MCP)", "OpenAI API", "Node.js", "TypeScript"]
+title: iiishop/StratumCode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- Vue 3
+- Vite
+- pywebview
+- Language Server Protocol (LSP)
+- Model Context Protocol (MCP)
+- OpenAI API
+- Node.js
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["evidence-driven", "auditable workflow", "local-first", "code agent", "contract-first"]
-source: "https://github.com/iiishop/StratumCode"
+deployment_complexity: Medium
+tags:
+- evidence-driven
+- auditable workflow
+- local-first
+- code agent
+- contract-first
+source: https://github.com/iiishop/StratumCode
 stars: 13
-language: "Python"
-last_updated: "2026-08-03T20:20:25Z"
-discovered_at: "2026-08-03T20:28:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T20:20:25Z'
+discovered_at: '2026-08-03T20:28:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

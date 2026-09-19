@@ -1,19 +1,30 @@
 ---
-title: "he-yufeng/agentcikit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "JSON-RPC", "MCP (Model Context Protocol)", "CLI", "pytest"]
+title: he-yufeng/agentcikit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- Python
+- GitHub Actions
+- JSON-RPC
+- MCP (Model Context Protocol)
+- CLI
+- pytest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CI/CD", "MCP servers", "agent safety", "evidence generation", "debugging"]
-source: "https://github.com/he-yufeng/agentcikit"
+deployment_complexity: Medium
+tags:
+- CI/CD
+- MCP servers
+- agent safety
+- evidence generation
+- debugging
+source: https://github.com/he-yufeng/agentcikit
 stars: 5
-language: "Python"
-last_updated: "2026-08-04T04:05:50Z"
-discovered_at: "2026-08-04T04:14:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T04:05:50Z'
+discovered_at: '2026-08-04T04:14:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

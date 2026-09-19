@@ -1,19 +1,30 @@
 ---
-title: "peterrichards-lr/liferay-accelerator-sdk"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Liferay DXP", "OpenAPI", "Batch Processing", "Workflow Orchestration"]
+title: peterrichards-lr/liferay-accelerator-sdk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-18
+tech_stack:
+- JavaScript
+- Node.js
+- Liferay DXP
+- OpenAPI
+- Batch Processing
+- Workflow Orchestration
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Liferay DXP", "API Integration", "Batch Processing", "Contract Enforcement", "E-commerce"]
-source: "https://github.com/peterrichards-lr/liferay-accelerator-sdk"
+deployment_complexity: Medium
+tags:
+- Liferay DXP
+- API Integration
+- Batch Processing
+- Contract Enforcement
+- E-commerce
+source: https://github.com/peterrichards-lr/liferay-accelerator-sdk
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-03T06:14:10Z"
-discovered_at: "2026-08-03T06:23:29Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T06:14:10Z'
+discovered_at: '2026-08-03T06:23:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

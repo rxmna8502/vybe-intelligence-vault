@@ -1,19 +1,32 @@
 ---
-title: "senolsahan037-oss/loom"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Ableton Live", "MCP (Model Context Protocol)", "Ableton Extensions SDK", "LOM (Live Object Model)", "Bash", "JSON", "XML"]
+title: senolsahan037-oss/loom
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Ableton Live
+- MCP (Model Context Protocol)
+- Ableton Extensions SDK
+- LOM (Live Object Model)
+- Bash
+- JSON
+- XML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI-driven music production", "Ableton Live integration", "MCP server", "measurement-based workflow", "automation tools"]
-source: "https://github.com/senolsahan037-oss/loom"
+deployment_complexity: Medium
+tags:
+- AI-driven music production
+- Ableton Live integration
+- MCP server
+- measurement-based workflow
+- automation tools
+source: https://github.com/senolsahan037-oss/loom
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T19:02:07Z"
-discovered_at: "2026-09-03T19:09:20Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T19:02:07Z'
+discovered_at: '2026-09-03T19:09:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
