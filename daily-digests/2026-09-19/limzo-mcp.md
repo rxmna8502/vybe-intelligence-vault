@@ -1,19 +1,29 @@
 ---
-title: "LimzoCom/limzo-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTP/REST", "Telegram API (indirectly via Limzo)"]
+title: LimzoCom/limzo-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- HTTP/REST
+- Telegram API (indirectly via Limzo)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "Telegram analytics", "public data", "community stats", "leaderboards"]
-source: "https://github.com/LimzoCom/limzo-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- Telegram analytics
+- public data
+- community stats
+- leaderboards
+source: https://github.com/LimzoCom/limzo-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-17T14:39:27Z"
-discovered_at: "2026-07-17T14:43:38Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-17T14:39:27Z'
+discovered_at: '2026-07-17T14:43:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

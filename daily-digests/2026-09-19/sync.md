@@ -1,19 +1,32 @@
 ---
-title: "sync-buzz/sync"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Tauri", "Node.js", "Git", "MCP (Model Context Protocol)", "CLI", "Desktop App"]
+title: sync-buzz/sync
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- TypeScript
+- Tauri
+- Node.js
+- Git
+- MCP (Model Context Protocol)
+- CLI
+- Desktop App
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent management", "code review automation", "local-first", "git integration", "MCP server"]
-source: "https://github.com/sync-buzz/sync"
+deployment_complexity: Medium
+tags:
+- AI agent management
+- code review automation
+- local-first
+- git integration
+- MCP server
+source: https://github.com/sync-buzz/sync
 stars: 13
-language: "TypeScript"
-last_updated: "2026-07-17T23:48:52Z"
-discovered_at: "2026-07-17T23:51:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T23:48:52Z'
+discovered_at: '2026-07-17T23:51:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

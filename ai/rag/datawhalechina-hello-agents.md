@@ -4,26 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-09-04T04:11:28.335997+05:30'
-published_at: '2026-09-03T22:05:08Z'
+collected_at: '2026-09-19T18:07:04.010300+05:30'
+published_at: '2026-09-19T12:32:03Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 76800
+stars: 79874
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-09-07T09:50:24Z'
-pushed_at: '2026-08-18T06:51:35Z'
+pushed_at: '2026-09-19T10:19:56Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-09-04T04:11:28.335997+05:30'
-last_seen: '2026-09-04T04:11:28.335997+05:30'
-last_checked: '2026-09-04T04:11:28.335997+05:30'
+first_seen: '2026-09-19T18:07:04.010300+05:30'
+last_seen: '2026-09-19T18:07:04.010300+05:30'
+last_checked: '2026-09-19T18:07:04.010300+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Agent Development Tutorial**: A zero-to-hero guide covering the principles and practical implementation of AI agents, integrating LLM, RAG, and Python-based workflows.
-
-- **High-Engagement Repository**: Achieved 76.8k stars and 9.5k forks, indicating strong community adoption and collaborative learning interest in agent architectures.
-
-- **Updated Technical Resource**: Last modified on 2026-09-03, ensuring relevance with modern agent frameworks and methodologies.
+*   Comprehensive tutorial on intelligent agent architecture and implementation, from foundational principles to practical application.
+*   Focuses on integrating LLM and RAG paradigms for robust agent construction.
+*   Python-centric educational resource for hands-on agent development.
 
 ## Why It Matters
 
@@ -44,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 76800
-- Forks: 9551
+- Stars: 79874
+- Forks: 9926
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-09-03T22:05:08Z
+- Last Updated: 2026-09-19T12:32:03Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z
-- Pushed At: 2026-08-18T06:51:35Z
+- Pushed At: 2026-09-19T10:19:56Z
 
 ## Possible Use Cases
 

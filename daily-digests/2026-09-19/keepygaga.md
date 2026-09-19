@@ -1,19 +1,31 @@
 ---
-title: "TimWongUp/keepygaga"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Markdown", "Obsidian", "CLI", "Hooks", "Agent Contracts"]
+title: TimWongUp/keepygaga
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Markdown
+- Obsidian
+- CLI
+- Hooks
+- Agent Contracts
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["core memory", "agent integration", "Markdown-based", "cross-host synchronization", "MCP server"]
-source: "https://github.com/TimWongUp/keepygaga"
+deployment_complexity: Medium
+tags:
+- core memory
+- agent integration
+- Markdown-based
+- cross-host synchronization
+- MCP server
+source: https://github.com/TimWongUp/keepygaga
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T15:47:45Z"
-discovered_at: "2026-09-02T15:53:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:47:45Z'
+discovered_at: '2026-09-02T15:53:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

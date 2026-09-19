@@ -1,19 +1,29 @@
 ---
-title: "DaizeDong/skill-smith"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "Git", "Markdown", "Shell Scripting"]
+title: DaizeDong/skill-smith
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Python
+- Claude Code
+- Git
+- Markdown
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Claude Code", "skill generation", "research-first", "acceptance gating", "meta-skill"]
-source: "https://github.com/DaizeDong/skill-smith"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- skill generation
+- research-first
+- acceptance gating
+- meta-skill
+source: https://github.com/DaizeDong/skill-smith
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T08:02:03Z"
-discovered_at: "2026-07-17T08:07:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T08:02:03Z'
+discovered_at: '2026-07-17T08:07:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

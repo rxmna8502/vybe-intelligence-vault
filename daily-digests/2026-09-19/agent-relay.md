@@ -1,19 +1,33 @@
 ---
-title: "cloud1map/agent-relay"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "JavaScript", "SQLite", "REST API", "WebSocket", "Docker", "Caddy", "MCP (Model Context Protocol)", "Telegram Bot API"]
+title: cloud1map/agent-relay
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Node.js
+- JavaScript
+- SQLite
+- REST API
+- WebSocket
+- Docker
+- Caddy
+- MCP (Model Context Protocol)
+- Telegram Bot API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent collaboration", "multi-agent systems", "human-in-the-loop", "MCP server", "self-hosted"]
-source: "https://github.com/cloud1map/agent-relay"
+deployment_complexity: Medium
+tags:
+- AI agent collaboration
+- multi-agent systems
+- human-in-the-loop
+- MCP server
+- self-hosted
+source: https://github.com/cloud1map/agent-relay
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-04T12:57:47Z"
-discovered_at: "2026-08-04T13:04:50Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T12:57:47Z'
+discovered_at: '2026-08-04T13:04:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -13,13 +13,14 @@ collected_at: '2026-09-19T10:16:17.371354+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:two-parallel-neural-ectoderm-progenitors-contribut
 first_seen: '2026-09-19T10:16:17.371354+05:30'
 last_seen: '2026-09-19T10:16:17.371354+05:30'
 last_checked: '2026-09-19T10:16:17.371354+05:30'
 health_score: 100
 ---
+
 
 # Two parallel neural ectoderm progenitors contribute to the developing brain
 

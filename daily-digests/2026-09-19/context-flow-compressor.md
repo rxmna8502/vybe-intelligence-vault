@@ -1,19 +1,30 @@
 ---
-title: "imhamzakhan/context-flow-compressor"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "TinkerPop (Gremlin)", "Model Context Protocol (MCP)", "PRISM-9 Compression", "WebAssembly (for UI)"]
+title: imhamzakhan/context-flow-compressor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- TypeScript
+- TinkerPop (Gremlin)
+- Model Context Protocol (MCP)
+- PRISM-9 Compression
+- WebAssembly (for UI)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["context memory", "graph database", "MCP integration", "local-first", "token optimization"]
-source: "https://github.com/imhamzakhan/context-flow-compressor"
+deployment_complexity: Low
+tags:
+- context memory
+- graph database
+- MCP integration
+- local-first
+- token optimization
+source: https://github.com/imhamzakhan/context-flow-compressor
 stars: 0
-language: "HTML"
-last_updated: "2026-09-02T22:13:30Z"
-discovered_at: "2026-09-02T22:20:26Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-02T22:13:30Z'
+discovered_at: '2026-09-02T22:20:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

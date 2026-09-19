@@ -1,19 +1,31 @@
 ---
-title: "coffeehc/xagent-docs"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Docusaurus", "TypeScript", "Markdown", "MDX", "Node.js", "Cloudflare Workers", "Cloudflare Pages"]
+title: coffeehc/xagent-docs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Docusaurus
+- TypeScript
+- Markdown
+- MDX
+- Node.js
+- Cloudflare Workers
+- Cloudflare Pages
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["documentation", "xAgent", "multi-user workspace", "Docusaurus", "static site"]
-source: "https://github.com/coffeehc/xagent-docs"
+deployment_complexity: Low
+tags:
+- documentation
+- xAgent
+- multi-user workspace
+- Docusaurus
+- static site
+source: https://github.com/coffeehc/xagent-docs
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-06T09:34:20Z"
-discovered_at: "2026-08-06T09:42:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T09:34:20Z'
+discovered_at: '2026-08-06T09:42:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

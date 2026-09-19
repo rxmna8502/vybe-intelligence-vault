@@ -1,19 +1,30 @@
 ---
-title: "skyzhao1223/wheel-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "GitHub API", "MCP (Model Context Protocol)", "CLI", "NPM"]
+title: skyzhao1223/wheel-hub
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- GitHub API
+- MCP (Model Context Protocol)
+- CLI
+- NPM
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["open-source discovery", "MCP server", "repository evaluation", "AI coding agents", "dependency management"]
-source: "https://github.com/skyzhao1223/wheel-hub"
+deployment_complexity: Low
+tags:
+- open-source discovery
+- MCP server
+- repository evaluation
+- AI coding agents
+- dependency management
+source: https://github.com/skyzhao1223/wheel-hub
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-04T02:09:15Z"
-discovered_at: "2026-09-04T02:16:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-04T02:09:15Z'
+discovered_at: '2026-09-04T02:16:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

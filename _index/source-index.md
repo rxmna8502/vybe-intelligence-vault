@@ -25662,13 +25662,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](../ai/community/alibaba-open-sources-ai-model-that-can-detect-canc.md)
+  - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
   - [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](../ai/community/arxiv-2510-03215.md)
-  - [Claude Code now reads AGENTS.md if there is no Claude.md](../ai/community/claude-code-now-reads-agents-md-if-there-is-no-cla.md)
   - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
-  - [The Implications of Linguistic Illegibility for LLM Security](../ai/research/arxiv-2609-02852.md)
-  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/two-parallel-neural-ectoderm-progenitors-contribut.md)
+  - [Human brain is two separate organs, Stanford Medicine-led research finds](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
+  - [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](../ai/community/nasa-ibm-lunar-foundation-open-source-geospatial-a.md)
+  - [You can run Git on object storage if you re-make packfiles](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26538,11 +26538,11 @@ Resources organized by publisher feed and query sources.
   - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
+  - [anilili/anilili-apk](../ai/models/huggingface-datasets-anilili.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
-  - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
@@ -29531,4 +29531,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-19T10:32:34.897787+05:30*
+*Index generated on 2026-09-19T18:22:33.841478+05:30*

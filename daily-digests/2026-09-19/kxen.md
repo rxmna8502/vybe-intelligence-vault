@@ -1,19 +1,30 @@
 ---
-title: "StringKe/kxen"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri 2", "Rust", "SolidJS", "QuickJS", "macOS Apple Silicon", "GitHub Actions"]
+title: StringKe/kxen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Tauri 2
+- Rust
+- SolidJS
+- QuickJS
+- macOS Apple Silicon
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Coding Agent", "Multi-Provider Models", "Dynamic Workflows", "macOS Native", "Agent Teams"]
-source: "https://github.com/StringKe/kxen"
+deployment_complexity: Medium
+tags:
+- Coding Agent
+- Multi-Provider Models
+- Dynamic Workflows
+- macOS Native
+- Agent Teams
+source: https://github.com/StringKe/kxen
 stars: 0
-language: "Rust"
-last_updated: "2026-08-07T08:11:09Z"
-discovered_at: "2026-08-07T08:16:12Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T08:11:09Z'
+discovered_at: '2026-08-07T08:16:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

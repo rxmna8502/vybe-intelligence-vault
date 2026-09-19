@@ -1,19 +1,28 @@
 ---
-title: "gytxtx/kagami-desktop"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "UI Automation", "CLI"]
+title: gytxtx/kagami-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Windows API
+- UI Automation
+- CLI
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Windows automation", "UI interaction", "agent tools", "desktop observation", "control tree parsing"]
-source: "https://github.com/gytxtx/kagami-desktop"
+deployment_complexity: Low
+tags:
+- Windows automation
+- UI interaction
+- agent tools
+- desktop observation
+- control tree parsing
+source: https://github.com/gytxtx/kagami-desktop
 stars: 0
-language: "None"
-last_updated: "2026-07-21T04:09:34Z"
-discovered_at: "2026-07-21T04:14:40Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-21T04:09:34Z'
+discovered_at: '2026-07-21T04:14:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

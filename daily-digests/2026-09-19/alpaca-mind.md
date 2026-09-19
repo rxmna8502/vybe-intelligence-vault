@@ -1,19 +1,31 @@
 ---
-title: "david-lagrange/alpaca-mind"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "AWS (EC2, CloudFormation)", "Alpaca API", "Claude Code Max", "SQLite", "Web UI (self-generated)", "CloudFormation"]
+title: david-lagrange/alpaca-mind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- AWS (EC2, CloudFormation)
+- Alpaca API
+- Claude Code Max
+- SQLite
+- Web UI (self-generated)
+- CloudFormation
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["autonomous trading", "self-evolving agent", "AI-driven decision making", "real-time UI generation", "auditable trading"]
-source: "https://github.com/david-lagrange/alpaca-mind"
+deployment_complexity: High
+tags:
+- autonomous trading
+- self-evolving agent
+- AI-driven decision making
+- real-time UI generation
+- auditable trading
+source: https://github.com/david-lagrange/alpaca-mind
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T02:03:52Z"
-discovered_at: "2026-09-02T02:10:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:03:52Z'
+discovered_at: '2026-09-02T02:10:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

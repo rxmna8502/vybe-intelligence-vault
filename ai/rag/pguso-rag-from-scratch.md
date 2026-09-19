@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-09-17T19:08:56.921323+05:30'
-published_at: '2026-09-17T10:07:55Z'
+collected_at: '2026-09-19T18:07:13.966236+05:30'
+published_at: '2026-09-18T21:06:19Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1630
+stars: 1631
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-09-17T19:08:56.921323+05:30'
-last_seen: '2026-09-17T19:08:56.921323+05:30'
-last_checked: '2026-09-17T19:08:56.921323+05:30'
+first_seen: '2026-09-19T18:07:13.966236+05:30'
+last_seen: '2026-09-19T18:07:13.966236+05:30'
+last_checked: '2026-09-19T18:07:13.966236+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a RAG pipeline from first principles, focusing on demystifying embeddings, vector search, and retrieval for context-augmented generation.
-*   Utilizes local LLMs via `node-llama-cpp` within a Node.js environment, emphasizing transparent component understanding over black-box abstractions.
-*   Provides an educational framework for constructing RAG chatbots, detailing the full process from data ingestion to final response generation.
+*   Provides a from-scratch RAG implementation tutorial, emphasizing local LLM integration via `node-llama-cpp` for transparent pipeline understanding.
+*   Details manual construction of embedding generation, vector search, and retrieval mechanisms for context-augmented generation.
+*   Developed in JavaScript/Node.js, focusing on local execution to demystify RAG components without external black-box services.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1630
+- Stars: 1631
 - Forks: 195
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-09-17T10:07:55Z
+- Last Updated: 2026-09-18T21:06:19Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

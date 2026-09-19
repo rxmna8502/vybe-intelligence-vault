@@ -1,19 +1,30 @@
 ---
-title: "Techthos/gomukit"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Go", "TypeScript", "HTML/CSS", "MCP (Model Context Protocol)", "esbuild", "Docker"]
+title: Techthos/gomukit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- TypeScript
+- HTML/CSS
+- MCP (Model Context Protocol)
+- esbuild
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Apps", "UI Widgets", "Interactive Forms", "Data Tables", "Go SDK"]
-source: "https://github.com/Techthos/gomukit"
+deployment_complexity: Medium
+tags:
+- MCP Apps
+- UI Widgets
+- Interactive Forms
+- Data Tables
+- Go SDK
+source: https://github.com/Techthos/gomukit
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-01T20:42:14Z"
-discovered_at: "2026-08-01T20:51:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T20:42:14Z'
+discovered_at: '2026-08-01T20:51:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

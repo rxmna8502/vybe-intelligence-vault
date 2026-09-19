@@ -1,19 +1,35 @@
 ---
-title: "watchcat/scout"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "teloxide", "rig", "DuckDB", "MiniMax API", "Kagi API", "Perplexity API", "eBay Browse API", "bol.com Catalog API", "Headless Chrome", "Telegram Bot API"]
+title: watchcat/scout
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- teloxide
+- rig
+- DuckDB
+- MiniMax API
+- Kagi API
+- Perplexity API
+- eBay Browse API
+- bol.com Catalog API
+- Headless Chrome
+- Telegram Bot API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["price verification", "link validation", "shopping assistant", "deterministic AI", "telegram bot"]
-source: "https://github.com/watchcat/scout"
+deployment_complexity: Medium
+tags:
+- price verification
+- link validation
+- shopping assistant
+- deterministic AI
+- telegram bot
+source: https://github.com/watchcat/scout
 stars: 0
-language: "Rust"
-last_updated: "2026-08-03T10:37:58Z"
-discovered_at: "2026-08-03T10:43:56Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-03T10:37:58Z'
+discovered_at: '2026-08-03T10:43:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

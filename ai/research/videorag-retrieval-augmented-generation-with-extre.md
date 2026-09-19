@@ -12,11 +12,11 @@ authors:
 - Dawei Yin
 - Chao Huang
 year: 2025
-citation_count: 76
+citation_count: 79
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-30T04:14:31.935451+05:30'
+collected_at: '2026-09-19T18:06:14.594332+05:30'
 tags:
 - augmented
 - benchmark
@@ -30,8 +30,8 @@ tags:
 status: active
 resource_id: blog:videorag-retrieval-augmented-generation-with-extre
 first_seen: '2026-07-19T16:15:03.003978+05:30'
-last_seen: '2026-08-30T04:14:31.935451+05:30'
-last_checked: '2026-08-30T04:14:31.935451+05:30'
+last_seen: '2026-09-19T18:06:14.594332+05:30'
+last_checked: '2026-09-19T18:06:14.594332+05:30'
 health_score: 100
 ---
 
@@ -49,7 +49,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Xubin Ren, Lingrui Xu, Long Xia, Shuaiqiang Wang, Dawei Yin, Chao Huang
 - Publication Year: 2025
-- Citation Count: 76
+- Citation Count: 79
 - Paper Link: https://semanticscholar.org/paper/4b8588b56d5f0ffab3f19f7e90a9416f247b6f05
 - Code Link: None
 - Code Stars: N/A

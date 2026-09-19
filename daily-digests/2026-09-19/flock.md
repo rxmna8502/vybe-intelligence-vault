@@ -1,19 +1,29 @@
 ---
-title: "JuanCSUCoder/flock"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Shell", "Docker", "Git Worktrees", "OpenCode", "CLI"]
+title: JuanCSUCoder/flock
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Shell
+- Docker
+- Git Worktrees
+- OpenCode
+- CLI
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "git isolation", "dockerized workflows", "parallel development", "AI agent tooling"]
-source: "https://github.com/JuanCSUCoder/flock"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- git isolation
+- dockerized workflows
+- parallel development
+- AI agent tooling
+source: https://github.com/JuanCSUCoder/flock
 stars: 1
-language: "Shell"
-last_updated: "2026-08-03T00:00:22Z"
-discovered_at: "2026-08-03T00:01:01Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-03T00:00:22Z'
+discovered_at: '2026-08-03T00:01:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

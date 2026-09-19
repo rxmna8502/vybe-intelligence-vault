@@ -1,19 +1,28 @@
 ---
-title: "farfarfun/funagent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Markdown", "AI Agent Orchestration", "Prompt Engineering", "Software Development Workflows"]
+title: farfarfun/funagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Markdown
+- AI Agent Orchestration
+- Prompt Engineering
+- Software Development Workflows
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI subagents", "software development", "prompt templates", "agent orchestration", "Claude Code"]
-source: "https://github.com/farfarfun/funagent"
+deployment_complexity: Low
+tags:
+- AI subagents
+- software development
+- prompt templates
+- agent orchestration
+- Claude Code
+source: https://github.com/farfarfun/funagent
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T08:27:35Z"
-discovered_at: "2026-09-03T08:29:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T08:27:35Z'
+discovered_at: '2026-09-03T08:29:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

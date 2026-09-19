@@ -1,19 +1,28 @@
 ---
-title: "indigokarasu/mcp-plu-upc"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Open Food Facts API"]
+title: indigokarasu/mcp-plu-upc
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Open Food Facts API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["UPC lookup", "PLU lookup", "barcode scanning", "product database", "Open Food Facts"]
-source: "https://github.com/indigokarasu/mcp-plu-upc"
+deployment_complexity: Low
+tags:
+- UPC lookup
+- PLU lookup
+- barcode scanning
+- product database
+- Open Food Facts
+source: https://github.com/indigokarasu/mcp-plu-upc
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-21T04:04:48Z"
-discovered_at: "2026-07-21T04:15:08Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-21T04:04:48Z'
+discovered_at: '2026-07-21T04:15:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,37 @@
 ---
-title: "srnichols/plan-forge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST APIs", "Docker", "PostgreSQL", "pgvector", "OpenTelemetry", "GitHub Copilot", "Claude Code", "Cursor", "AI Agents"]
+title: srnichols/plan-forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST APIs
+- Docker
+- PostgreSQL
+- pgvector
+- OpenTelemetry
+- GitHub Copilot
+- Claude Code
+- Cursor
+- AI Agents
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI SDLC", "code orchestration", "AI agent framework", "software lifecycle", "continuous learning"]
-source: "https://github.com/srnichols/plan-forge"
+deployment_complexity: Medium
+tags:
+- AI SDLC
+- code orchestration
+- AI agent framework
+- software lifecycle
+- continuous learning
+source: https://github.com/srnichols/plan-forge
 stars: 5
-language: "JavaScript"
-last_updated: "2026-08-10T17:02:27Z"
-discovered_at: "2026-08-10T17:05:58Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T17:02:27Z'
+discovered_at: '2026-08-10T17:05:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

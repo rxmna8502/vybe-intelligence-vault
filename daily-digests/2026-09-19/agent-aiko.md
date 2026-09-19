@@ -1,19 +1,32 @@
 ---
-title: "masa-san-jp/Agent-Aiko"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Claude Code", "ChatGPT Codex", "Gemini CLI", "Shell Scripting", "TTS (Text-to-Speech) Engines", "Electron (for avatar integration)"]
+title: masa-san-jp/Agent-Aiko
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Claude Code
+- ChatGPT Codex
+- Gemini CLI
+- Shell Scripting
+- TTS (Text-to-Speech) Engines
+- Electron (for avatar integration)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["persona customization", "multi-agent orchestration", "voice interaction", "AI agent personas", "Claude Code integration"]
-source: "https://github.com/masa-san-jp/Agent-Aiko"
+deployment_complexity: Medium
+tags:
+- persona customization
+- multi-agent orchestration
+- voice interaction
+- AI agent personas
+- Claude Code integration
+source: https://github.com/masa-san-jp/Agent-Aiko
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-02T02:25:34Z"
-discovered_at: "2026-08-02T02:34:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T02:25:34Z'
+discovered_at: '2026-08-02T02:34:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

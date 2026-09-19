@@ -1,19 +1,31 @@
 ---
-title: "Orange-hanter/cod-doc"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "CLI", "REST API", "MCP (Model Context Protocol)", "Markdown", "SQL"]
+title: Orange-hanter/cod-doc
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- SQLite
+- CLI
+- REST API
+- MCP (Model Context Protocol)
+- Markdown
+- SQL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["documentation management", "code-document synchronization", "LLM agent integration", "SQLite-based state", "task lifecycle"]
-source: "https://github.com/Orange-hanter/cod-doc"
+deployment_complexity: Low
+tags:
+- documentation management
+- code-document synchronization
+- LLM agent integration
+- SQLite-based state
+- task lifecycle
+source: https://github.com/Orange-hanter/cod-doc
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T18:58:30Z"
-discovered_at: "2026-09-03T19:12:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T18:58:30Z'
+discovered_at: '2026-09-03T19:12:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

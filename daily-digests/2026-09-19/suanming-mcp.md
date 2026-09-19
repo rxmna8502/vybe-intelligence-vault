@@ -1,19 +1,30 @@
 ---
-title: "Enoch666/suanming-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "HTML/CSS", "Google Fonts (Ma Shan Zheng, Noto Serif SC)", "CSS animations"]
+title: Enoch666/suanming-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- HTML/CSS
+- Google Fonts (Ma Shan Zheng, Noto Serif SC)
+- CSS animations
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP Server", "Chinese Divination", "Agent Tools", "Ink-Wash HTML", "Programmer Utilities"]
-source: "https://github.com/Enoch666/suanming-mcp"
+deployment_complexity: Low
+tags:
+- MCP Server
+- Chinese Divination
+- Agent Tools
+- Ink-Wash HTML
+- Programmer Utilities
+source: https://github.com/Enoch666/suanming-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-20T02:36:49Z"
-discovered_at: "2026-07-20T02:44:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T02:36:49Z'
+discovered_at: '2026-07-20T02:44:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

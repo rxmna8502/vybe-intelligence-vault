@@ -1,19 +1,30 @@
 ---
-title: "microsoft/mcp-dotnet-samples"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "Model Context Protocol (MCP)", "Docker", "Visual Studio", "VS Code"]
+title: microsoft/mcp-dotnet-samples
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- C#
+- .NET
+- Model Context Protocol (MCP)
+- Docker
+- Visual Studio
+- VS Code
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP", "LLM Integration", "AI Tooling", "C#", "Context Protocol"]
-source: "https://github.com/microsoft/mcp-dotnet-samples"
+deployment_complexity: Medium
+tags:
+- MCP
+- LLM Integration
+- AI Tooling
+- C#
+- Context Protocol
+source: https://github.com/microsoft/mcp-dotnet-samples
 stars: 195
-language: "C#"
-last_updated: "2026-08-10T01:34:49Z"
-discovered_at: "2026-08-10T01:35:36Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-10T01:34:49Z'
+discovered_at: '2026-08-10T01:35:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

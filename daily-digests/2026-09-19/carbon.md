@@ -1,19 +1,38 @@
 ---
-title: "crbnos/carbon"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Supabase", "Tailwind CSS", "Radix UI", "Redis", "Inngest", "Resend", "Lingui", "Vercel", "Stripe", "Rust", "PostgreSQL", "Docker"]
+title: crbnos/carbon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- React
+- Supabase
+- Tailwind CSS
+- Radix UI
+- Redis
+- Inngest
+- Resend
+- Lingui
+- Vercel
+- Stripe
+- Rust
+- PostgreSQL
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["Manufacturing", "ERP", "MES", "QMS", "Open Source"]
-source: "https://github.com/crbnos/carbon"
+deployment_complexity: High
+tags:
+- Manufacturing
+- ERP
+- MES
+- QMS
+- Open Source
+source: https://github.com/crbnos/carbon
 stars: 2394
-language: "TypeScript"
-last_updated: "2026-09-03T15:27:35Z"
-discovered_at: "2026-09-03T15:43:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:27:35Z'
+discovered_at: '2026-09-03T15:43:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

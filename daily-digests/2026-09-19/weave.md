@@ -1,19 +1,33 @@
 ---
-title: "grunion-ai/weave"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "REST API", "CLI", "Markdown", "KaTeX", "FTS5 (Full-Text Search)"]
+title: grunion-ai/weave
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- MCP (Model Context Protocol)
+- REST API
+- CLI
+- Markdown
+- KaTeX
+- FTS5 (Full-Text Search)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["self-hosted", "AI agent integration", "SQLite-based", "workflow automation", "markdown documents"]
-source: "https://github.com/grunion-ai/weave"
+deployment_complexity: Low
+tags:
+- self-hosted
+- AI agent integration
+- SQLite-based
+- workflow automation
+- markdown documents
+source: https://github.com/grunion-ai/weave
 stars: 2
-language: "JavaScript"
-last_updated: "2026-09-01T02:50:40Z"
-discovered_at: "2026-09-01T02:52:38Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T02:50:40Z'
+discovered_at: '2026-09-01T02:52:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

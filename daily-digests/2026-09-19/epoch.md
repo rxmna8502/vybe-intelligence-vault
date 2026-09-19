@@ -1,19 +1,32 @@
 ---
-title: "KyaniteLabs/Epoch"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "NPM", "REST API", "Monte Carlo Simulation", "PERT Estimation", "COCOMO II"]
+title: KyaniteLabs/Epoch
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- NPM
+- REST API
+- Monte Carlo Simulation
+- PERT Estimation
+- COCOMO II
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["time estimation", "project scheduling", "AI agent tools", "cost analysis", "MCP server"]
-source: "https://github.com/KyaniteLabs/Epoch"
+deployment_complexity: Low
+tags:
+- time estimation
+- project scheduling
+- AI agent tools
+- cost analysis
+- MCP server
+source: https://github.com/KyaniteLabs/Epoch
 stars: 4
-language: "TypeScript"
-last_updated: "2026-07-10T13:03:30Z"
-discovered_at: "2026-07-10T13:11:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T13:03:30Z'
+discovered_at: '2026-07-10T13:11:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

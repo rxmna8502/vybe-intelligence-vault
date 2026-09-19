@@ -1,19 +1,31 @@
 ---
-title: "BrokkAi/mjolnir"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Agent Client Protocol (ACP)", "Node.js", "npm", "Terminal UI", "Model Routing", "Multi-agent Systems"]
+title: BrokkAi/mjolnir
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- Agent Client Protocol (ACP)
+- Node.js
+- npm
+- Terminal UI
+- Model Routing
+- Multi-agent Systems
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "terminal client", "ACP", "Rust", "coding agents"]
-source: "https://github.com/BrokkAi/mjolnir"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- terminal client
+- ACP
+- Rust
+- coding agents
+source: https://github.com/BrokkAi/mjolnir
 stars: 4
-language: "Rust"
-last_updated: "2026-08-02T08:20:17Z"
-discovered_at: "2026-08-02T08:22:42Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T08:20:17Z'
+discovered_at: '2026-08-02T08:22:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "jpantsjoha/pinescript-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Pine Script v6", "MCP (Model Context Protocol)", "npm", "VS Code Extension API"]
+title: jpantsjoha/pinescript-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Python
+- Pine Script v6
+- MCP (Model Context Protocol)
+- npm
+- VS Code Extension API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Pine Script", "TradingView", "Code Validation", "AI Agent Tools", "MCP Plugin"]
-source: "https://github.com/jpantsjoha/pinescript-plugin"
+deployment_complexity: Medium
+tags:
+- Pine Script
+- TradingView
+- Code Validation
+- AI Agent Tools
+- MCP Plugin
+source: https://github.com/jpantsjoha/pinescript-plugin
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T09:38:29Z"
-discovered_at: "2026-08-08T09:40:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T09:38:29Z'
+discovered_at: '2026-08-08T09:40:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

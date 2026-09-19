@@ -1,19 +1,33 @@
 ---
-title: "n24q02m/wet-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SearXNG", "Qwen3 (Embedding/Reranking)", "Docker", "Cloudflare Browser Rendering", "Google Drive (OAuth)", "Litellm", "Semantic Release"]
+title: n24q02m/wet-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SearXNG
+- Qwen3 (Embedding/Reranking)
+- Docker
+- Cloudflare Browser Rendering
+- Google Drive (OAuth)
+- Litellm
+- Semantic Release
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["web scraping", "content extraction", "documentation search", "AI agents", "MCP server"]
-source: "https://github.com/n24q02m/wet-mcp"
+deployment_complexity: Medium
+tags:
+- web scraping
+- content extraction
+- documentation search
+- AI agents
+- MCP server
+source: https://github.com/n24q02m/wet-mcp
 stars: 16
-language: "Python"
-last_updated: "2026-08-01T03:38:46Z"
-discovered_at: "2026-08-01T03:44:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T03:38:46Z'
+discovered_at: '2026-08-01T03:44:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

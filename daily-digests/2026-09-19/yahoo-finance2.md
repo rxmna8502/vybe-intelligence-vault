@@ -1,19 +1,32 @@
 ---
-title: "gadicc/yahoo-finance2"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Bun", "Deno", "Cloudflare Workers", "CLI", "MCP (Model Context Protocol)", "Agent Skills"]
+title: gadicc/yahoo-finance2
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- Deno
+- Cloudflare Workers
+- CLI
+- MCP (Model Context Protocol)
+- Agent Skills
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["financial data", "stock market API", "MCP server", "CLI tool", "real-time quotes"]
-source: "https://github.com/gadicc/yahoo-finance2"
+deployment_complexity: Low
+tags:
+- financial data
+- stock market API
+- MCP server
+- CLI tool
+- real-time quotes
+source: https://github.com/gadicc/yahoo-finance2
 stars: 771
-language: "HTML"
-last_updated: "2026-08-07T17:50:46Z"
-discovered_at: "2026-08-07T17:52:07Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T17:50:46Z'
+discovered_at: '2026-08-07T17:52:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

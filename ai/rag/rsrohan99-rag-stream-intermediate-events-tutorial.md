@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-09-04T00:53:35.806968+05:30'
-published_at: '2026-07-28T13:49:36Z'
+collected_at: '2026-09-19T18:07:13.977485+05:30'
+published_at: '2026-09-18T11:33:05Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - rag
 - typescript
-stars: 196
+stars: 195
 language: TypeScript
 status: active
 archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-09-04T00:53:35.806968+05:30'
-last_seen: '2026-09-04T00:53:35.806968+05:30'
-last_checked: '2026-09-04T00:53:35.806968+05:30'
+first_seen: '2026-09-19T18:07:13.977485+05:30'
+last_seen: '2026-09-19T18:07:13.977485+05:30'
+last_checked: '2026-09-19T18:07:13.977485+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Demonstrates streaming intermediate LlamaIndex RAG events to Vercel AI SDK via Server-Sent Events (SSE) for real-time processing.
-- Implements TypeScript-based event handling to bridge LlamaIndex's event system with Vercel AI SDK's streaming interface.
-- Provides a structured tutorial for integrating intermediate RAG events in a serverless environment, optimized for Vercel deployments.
+*   Demonstrates streaming intermediate LlamaIndex RAG events via Server-Sent Events (SSE).
+*   Integrates LlamaIndex event streams with the Vercel AI SDK for real-time client-side updates.
+*   Provides a technical guide for propagating R
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: rsrohan99
-- Stars: 196
+- Stars: 195
 - Forks: 24
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-07-28T13:49:36Z
+- Last Updated: 2026-09-18T11:33:05Z
 - Archived: No
 - Created At: 2024-04-05T21:12:53Z
 - Pushed At: 2024-04-08T10:45:53Z

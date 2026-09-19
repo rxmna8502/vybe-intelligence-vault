@@ -1,19 +1,31 @@
 ---
-title: "artensCeruni/n8n-workflows"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["n8n", "Node.js", "Docker", "JavaScript", "SQLite", "PostgreSQL", "GitHub Actions"]
+title: artensCeruni/n8n-workflows
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- n8n
+- Node.js
+- Docker
+- JavaScript
+- SQLite
+- PostgreSQL
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["n8n", "automation", "workflow management", "version control", "testing"]
-source: "https://github.com/artensCeruni/n8n-workflows"
+deployment_complexity: Medium
+tags:
+- n8n
+- automation
+- workflow management
+- version control
+- testing
+source: https://github.com/artensCeruni/n8n-workflows
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-03T20:18:53Z"
-discovered_at: "2026-08-03T20:28:33Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T20:18:53Z'
+discovered_at: '2026-08-03T20:28:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

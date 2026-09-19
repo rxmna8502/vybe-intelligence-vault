@@ -1,19 +1,30 @@
 ---
-title: "timmo001/notes"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "CLI", "MCP Server", "Markdown", "PWA", "Linux Packaging"]
+title: timmo001/notes
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- CLI
+- MCP Server
+- Markdown
+- PWA
+- Linux Packaging
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["note-taking", "MCP server", "CLI tool", "Markdown management", "agent integration"]
-source: "https://github.com/timmo001/notes"
+deployment_complexity: Medium
+tags:
+- note-taking
+- MCP server
+- CLI tool
+- Markdown management
+- agent integration
+source: https://github.com/timmo001/notes
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-01T09:04:19Z"
-discovered_at: "2026-09-01T09:12:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T09:04:19Z'
+discovered_at: '2026-09-01T09:12:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

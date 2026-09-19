@@ -1,19 +1,31 @@
 ---
-title: "trelio-ru/agent-workspaces"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "OAuth 2.1", "MCP (Model Context Protocol)", "Git", "Node.js", "Ed25519", "SHA-256"]
+title: trelio-ru/agent-workspaces
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- OAuth 2.1
+- MCP (Model Context Protocol)
+- Git
+- Node.js
+- Ed25519
+- SHA-256
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Agent Workspaces", "MCP Integration", "Version Control", "OAuth Authentication", "Git Bridge"]
-source: "https://github.com/trelio-ru/agent-workspaces"
+deployment_complexity: Medium
+tags:
+- Agent Workspaces
+- MCP Integration
+- Version Control
+- OAuth Authentication
+- Git Bridge
+source: https://github.com/trelio-ru/agent-workspaces
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T23:44:57Z"
-discovered_at: "2026-08-01T23:57:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T23:44:57Z'
+discovered_at: '2026-08-01T23:57:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

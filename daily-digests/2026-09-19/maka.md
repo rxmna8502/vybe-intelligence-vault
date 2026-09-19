@@ -1,19 +1,32 @@
 ---
-title: "apache/maka"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "React", "Node.js", "SQLite", "Rust", "Model Context Protocol (MCP)", "Sandboxed Tool Execution"]
+title: apache/maka
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Node.js
+- SQLite
+- Rust
+- Model Context Protocol (MCP)
+- Sandboxed Tool Execution
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent workspace", "local-first", "sandboxed execution", "model interaction logging", "AI agent development"]
-source: "https://github.com/apache/maka"
+deployment_complexity: Medium
+tags:
+- agent workspace
+- local-first
+- sandboxed execution
+- model interaction logging
+- AI agent development
+source: https://github.com/apache/maka
 stars: 4343
-language: "TypeScript"
-last_updated: "2026-09-01T02:45:22Z"
-discovered_at: "2026-09-01T02:49:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:45:22Z'
+discovered_at: '2026-09-01T02:49:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

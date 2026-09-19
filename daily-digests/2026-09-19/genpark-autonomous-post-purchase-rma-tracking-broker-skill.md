@@ -1,19 +1,29 @@
 ---
-title: "alphaparkinc/genpark-autonomous-post-purchase-rma-tracking-broker-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "JSON", "Mermaid.js"]
+title: alphaparkinc/genpark-autonomous-post-purchase-rma-tracking-broker-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- JSON
+- Mermaid.js
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["RMA tracking", "autonomous agent", "post-purchase automation", "label generation", "Gorgias-style"]
-source: "https://github.com/alphaparkinc/genpark-autonomous-post-purchase-rma-tracking-broker-skill"
+deployment_complexity: Medium
+tags:
+- RMA tracking
+- autonomous agent
+- post-purchase automation
+- label generation
+- Gorgias-style
+source: https://github.com/alphaparkinc/genpark-autonomous-post-purchase-rma-tracking-broker-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-02T08:10:02Z"
-discovered_at: "2026-09-02T08:23:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:10:02Z'
+discovered_at: '2026-09-02T08:23:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "irisworks/iris-core"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Firecracker", "Docker", "Slack API", "Telegram Bot API", "LLM APIs (Anthropic, OpenAI, Azure AI Foundry, AWS Bedrock)", "GitHub", "Azure Key Vault", "Terraform", "YAML", "HTTP APIs", "Jailer", "Seccomp"]
+title: irisworks/iris-core
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Firecracker
+- Docker
+- Slack API
+- Telegram Bot API
+- LLM APIs (Anthropic, OpenAI, Azure AI Foundry, AWS Bedrock)
+- GitHub
+- Azure Key Vault
+- Terraform
+- YAML
+- HTTP APIs
+- Jailer
+- Seccomp
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent framework", "self-extending", "sub-agent orchestration", "Firecracker microVMs", "multi-transport"]
-source: "https://github.com/irisworks/iris-core"
+deployment_complexity: Medium
+tags:
+- AI agent framework
+- self-extending
+- sub-agent orchestration
+- Firecracker microVMs
+- multi-transport
+source: https://github.com/irisworks/iris-core
 stars: 10
-language: "TypeScript"
-last_updated: "2026-07-21T09:50:49Z"
-discovered_at: "2026-07-21T12:23:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T09:50:49Z'
+discovered_at: '2026-07-21T12:23:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

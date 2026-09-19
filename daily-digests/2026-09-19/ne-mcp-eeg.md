@@ -1,19 +1,31 @@
 ---
-title: "Neuroelectrics-Barcelona-SLU/ne-mcp-eeg"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "NumPy", "SciPy", "Matplotlib", "EDFlib", "PyPDF2"]
+title: Neuroelectrics-Barcelona-SLU/ne-mcp-eeg
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- NumPy
+- SciPy
+- Matplotlib
+- EDFlib
+- PyPDF2
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["EEG analysis", "MCP server", "Neuroelectrics", "signal processing", "AI agent integration"]
-source: "https://github.com/Neuroelectrics-Barcelona-SLU/ne-mcp-eeg"
+deployment_complexity: Low
+tags:
+- EEG analysis
+- MCP server
+- Neuroelectrics
+- signal processing
+- AI agent integration
+source: https://github.com/Neuroelectrics-Barcelona-SLU/ne-mcp-eeg
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T12:19:09Z"
-discovered_at: "2026-07-21T12:23:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T12:19:09Z'
+discovered_at: '2026-07-21T12:23:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,18 +4,18 @@ Living skill profile summaries in the vault.
 
 | Skill | Category | Resource Count | Top Related Categories | Active Signals | Last Updated |
 |---|---|---|---|---|---|
-| [AI Agents](../skills/ai-agents.md) | ai | 5394 | ai/agents, ai/langgraph | Yes | 2026-09-19 10:32:09 |
-| [AI Coding Agents](../skills/ai-coding-agents.md) | ai | 4298 | ai/coding-agents, ai/tools | Yes | 2026-09-19 10:32:09 |
-| [FastAPI](../skills/fastapi.md) | backend | 405 | backend, python | Yes | 2026-09-19 10:32:09 |
-| [Frontend AI & UI](../skills/frontend-ai-ui.md) | web-development | 13 | web-development/ai-ui, web-development/react | Yes | 2026-09-19 10:32:09 |
-| [LLMOps](../skills/llmops.md) | ai | 1860 | ai/llmops, ai/evals | Yes | 2026-09-19 10:32:09 |
-| [Local LLMs & Inference](../skills/local-llm.md) | ai | 652 | ai/local-llm, ai/inference | Yes | 2026-09-19 10:32:09 |
-| [Model Context Protocol (MCP)](../skills/mcp.md) | ai | 182 | ai/mcp, ai/tools | Yes | 2026-09-19 10:32:09 |
-| [Prompt Engineering](../skills/prompt-engineering.md) | ai | 918 | prompts, ai/tools | Yes | 2026-09-19 10:32:09 |
-| [RAG](../skills/rag.md) | ai | 26296 | ai/rag, ai/vector-databases | Yes | 2026-09-19 10:32:09 |
-| [Three.js & WebGL](../skills/threejs.md) | web-development | 221 | web-development/threejs, web-development/webgl | Yes | 2026-09-19 10:32:09 |
-| [Vector Databases](../skills/vector-databases.md) | ai | 8972 | ai/vector-databases, ai/rag | Yes | 2026-09-19 10:32:09 |
-| [Workflow Automation](../skills/automation.md) | automation | 4880 | automation, scripts | Yes | 2026-09-19 10:32:09 |
+| [AI Agents](../skills/ai-agents.md) | ai | 5393 | ai/agents, ai/langgraph | Yes | 2026-09-19 18:22:08 |
+| [AI Coding Agents](../skills/ai-coding-agents.md) | ai | 4302 | ai/coding-agents, ai/tools | Yes | 2026-09-19 18:22:08 |
+| [FastAPI](../skills/fastapi.md) | backend | 405 | backend, python | Yes | 2026-09-19 18:22:08 |
+| [Frontend AI & UI](../skills/frontend-ai-ui.md) | web-development | 13 | web-development/ai-ui, web-development/react | Yes | 2026-09-19 18:22:08 |
+| [LLMOps](../skills/llmops.md) | ai | 1861 | ai/llmops, ai/evals | Yes | 2026-09-19 18:22:08 |
+| [Local LLMs & Inference](../skills/local-llm.md) | ai | 652 | ai/local-llm, ai/inference | Yes | 2026-09-19 18:22:08 |
+| [Model Context Protocol (MCP)](../skills/mcp.md) | ai | 182 | ai/mcp, ai/tools | Yes | 2026-09-19 18:22:08 |
+| [Prompt Engineering](../skills/prompt-engineering.md) | ai | 919 | prompts, ai/tools | Yes | 2026-09-19 18:22:08 |
+| [RAG](../skills/rag.md) | ai | 26297 | ai/rag, ai/vector-databases | Yes | 2026-09-19 18:22:08 |
+| [Three.js & WebGL](../skills/threejs.md) | web-development | 221 | web-development/threejs, web-development/webgl | Yes | 2026-09-19 18:22:08 |
+| [Vector Databases](../skills/vector-databases.md) | ai | 8972 | ai/vector-databases, ai/rag | Yes | 2026-09-19 18:22:08 |
+| [Workflow Automation](../skills/automation.md) | automation | 4880 | automation, scripts | Yes | 2026-09-19 18:22:08 |
 
 ---
-*Index generated on 2026-09-19T10:32:09.966881+05:30*
+*Index generated on 2026-09-19T18:22:08.853675+05:30*

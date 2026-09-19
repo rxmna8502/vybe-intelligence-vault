@@ -13,13 +13,14 @@ collected_at: '2026-09-19T10:16:16.674398+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:alibaba-open-sources-ai-model-that-can-detect-canc
 first_seen: '2026-09-19T10:16:16.674398+05:30'
 last_seen: '2026-09-19T10:16:16.674398+05:30'
 last_checked: '2026-09-19T10:16:16.674398+05:30'
 health_score: 100
 ---
+
 
 # Alibaba open-sources AI model that can detect cancer and nearly 150 conditions
 

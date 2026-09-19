@@ -1,19 +1,34 @@
 ---
-title: "jihadkhawaja/mem0sharp"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C#", ".NET 10", "PostgreSQL", "pgvector", "Qdrant", "Ollama", "Anthropic", "OpenAI-compatible models", "Npgsql", "SQLite"]
+title: jihadkhawaja/mem0sharp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- C#
+- .NET 10
+- PostgreSQL
+- pgvector
+- Qdrant
+- Ollama
+- Anthropic
+- OpenAI-compatible models
+- Npgsql
+- SQLite
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["long-term memory", "semantic search", "AI agents", "vector database", "memory behaviors"]
-source: "https://github.com/jihadkhawaja/mem0sharp"
+deployment_complexity: Medium
+tags:
+- long-term memory
+- semantic search
+- AI agents
+- vector database
+- memory behaviors
+source: https://github.com/jihadkhawaja/mem0sharp
 stars: 11
-language: "C#"
-last_updated: "2026-08-09T13:27:32Z"
-discovered_at: "2026-08-09T13:54:02Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-09T13:27:32Z'
+discovered_at: '2026-08-09T13:54:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

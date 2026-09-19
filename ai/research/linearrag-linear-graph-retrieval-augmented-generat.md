@@ -7,18 +7,18 @@ source_url: https://semanticscholar.org/paper/6586f17b316a65df944e84ddbaf0e3aeab
 authors:
 - Luyao Zhuang
 - Shengyuan Chen
-- Yilin Xiao
+- Yi-Lin Xiao
 - Huachi Zhou
 - Yujing Zhang
 - Hao Chen
 - Qinggang Zhang
 - Xiao Huang
 year: 2025
-citation_count: 44
+citation_count: 49
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-09-09T00:59:59.540666+05:30'
+collected_at: '2026-09-19T18:06:14.594311+05:30'
 tags:
 - augmented
 - dataset
@@ -30,8 +30,8 @@ tags:
 status: active
 resource_id: blog:linearrag-linear-graph-retrieval-augmented-generat
 first_seen: '2026-09-09T00:59:59.540666+05:30'
-last_seen: '2026-09-09T00:59:59.540666+05:30'
-last_checked: '2026-09-09T00:59:59.540666+05:30'
+last_seen: '2026-09-19T18:06:14.594311+05:30'
+last_checked: '2026-09-19T18:06:14.594311+05:30'
 health_score: 100
 ---
 
@@ -47,9 +47,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Luyao Zhuang, Shengyuan Chen, Yilin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang
+- Authors: Luyao Zhuang, Shengyuan Chen, Yi-Lin Xiao, Huachi Zhou, Yujing Zhang, Hao Chen, Qinggang Zhang, Xiao Huang
 - Publication Year: 2025
-- Citation Count: 44
+- Citation Count: 49
 - Paper Link: https://semanticscholar.org/paper/6586f17b316a65df944e84ddbaf0e3aeab029a75
 - Code Link: None
 - Code Stars: N/A

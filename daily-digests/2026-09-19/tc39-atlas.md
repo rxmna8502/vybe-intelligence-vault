@@ -1,19 +1,32 @@
 ---
-title: "bosens-China/tc39-atlas"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "PostgreSQL", "Hono", "Zod", "Docker", "pnpm", "MCP (Model Context Protocol)"]
+title: bosens-China/tc39-atlas
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Node.js
+- TypeScript
+- PostgreSQL
+- Hono
+- Zod
+- Docker
+- pnpm
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["TC39", "proposals", "REST API", "MCP", "data synchronization"]
-source: "https://github.com/bosens-China/tc39-atlas"
+deployment_complexity: Medium
+tags:
+- TC39
+- proposals
+- REST API
+- MCP
+- data synchronization
+source: https://github.com/bosens-China/tc39-atlas
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T22:34:28Z"
-discovered_at: "2026-08-07T22:37:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T22:34:28Z'
+discovered_at: '2026-08-07T22:37:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "DaizeDong/promotion-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Thompson Sampling (Bandit Algorithm)", "Git", "CLI Tools", "Configuration Management", "Email (Gmail API)", "Discord API", "Multi-platform Social Media APIs (deferred)"]
+title: DaizeDong/promotion-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Thompson Sampling (Bandit Algorithm)
+- Git
+- CLI Tools
+- Configuration Management
+- Email (Gmail API)
+- Discord API
+- Multi-platform Social Media APIs (deferred)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["multi-channel promotion", "conversion funnel", "bandit algorithms", "compliance automation", "dry-run testing"]
-source: "https://github.com/DaizeDong/promotion-assistant"
+deployment_complexity: Medium
+tags:
+- multi-channel promotion
+- conversion funnel
+- bandit algorithms
+- compliance automation
+- dry-run testing
+source: https://github.com/DaizeDong/promotion-assistant
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T08:01:42Z"
-discovered_at: "2026-07-17T08:07:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T08:01:42Z'
+discovered_at: '2026-07-17T08:07:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

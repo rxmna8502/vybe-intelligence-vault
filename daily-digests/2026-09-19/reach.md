@@ -1,19 +1,31 @@
 ---
-title: "indigokarasu/reach"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "HTTP APIs", "MCP (Model Context Protocol)", "SearXNG", "Yahoo Finance", "REST", "JSON"]
+title: indigokarasu/reach
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- HTTP APIs
+- MCP (Model Context Protocol)
+- SearXNG
+- Yahoo Finance
+- REST
+- JSON
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["real-time data", "data aggregation", "API integration", "live queries", "multi-source"]
-source: "https://github.com/indigokarasu/reach"
+deployment_complexity: Medium
+tags:
+- real-time data
+- data aggregation
+- API integration
+- live queries
+- multi-source
+source: https://github.com/indigokarasu/reach
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T04:04:45Z"
-discovered_at: "2026-07-21T04:14:47Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T04:04:45Z'
+discovered_at: '2026-07-21T04:14:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

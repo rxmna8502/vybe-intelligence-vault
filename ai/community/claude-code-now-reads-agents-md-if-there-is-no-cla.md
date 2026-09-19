@@ -14,13 +14,14 @@ tags:
 - agents
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:claude-code-now-reads-agents-md-if-there-is-no-cla
 first_seen: '2026-09-19T10:16:16.196870+05:30'
 last_seen: '2026-09-19T10:16:16.196870+05:30'
 last_checked: '2026-09-19T10:16:16.196870+05:30'
 health_score: 100
 ---
+
 
 # Claude Code now reads AGENTS.md if there is no Claude.md
 

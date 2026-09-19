@@ -1,19 +1,29 @@
 ---
-title: "ChloeVPin/angwy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Agent Skills specification", "Markdown (SKILL.md)", "Node.js (scripts)", "CI/CD (GitHub Actions)"]
+title: ChloeVPin/angwy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Agent Skills specification
+- Markdown (SKILL.md)
+- Node.js (scripts)
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["prompt engineering", "adversarial rigor", "input standardization", "agent skills", "output quality"]
-source: "https://github.com/ChloeVPin/angwy"
+deployment_complexity: Low
+tags:
+- prompt engineering
+- adversarial rigor
+- input standardization
+- agent skills
+- output quality
+source: https://github.com/ChloeVPin/angwy
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-04T04:13:10Z"
-discovered_at: "2026-08-04T04:14:25Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T04:13:10Z'
+discovered_at: '2026-08-04T04:14:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

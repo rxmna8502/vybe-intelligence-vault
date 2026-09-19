@@ -1,19 +1,33 @@
 ---
-title: "MASSIVEMAGNETICS/super-synthetic-general-intelligence"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Express", "React", "Vite", "Tailwind CSS", "Jest", "Supertest", "Axios"]
+title: MASSIVEMAGNETICS/super-synthetic-general-intelligence
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- React
+- Vite
+- Tailwind CSS
+- Jest
+- Supertest
+- Axios
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "agent deployment", "constitutional AI", "project workspaces", "natural language intent"]
-source: "https://github.com/MASSIVEMAGNETICS/super-synthetic-general-intelligence"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- agent deployment
+- constitutional AI
+- project workspaces
+- natural language intent
+source: https://github.com/MASSIVEMAGNETICS/super-synthetic-general-intelligence
 stars: 6
-language: "TypeScript"
-last_updated: "2026-08-04T07:38:43Z"
-discovered_at: "2026-08-04T07:39:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:38:43Z'
+discovered_at: '2026-08-04T07:39:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

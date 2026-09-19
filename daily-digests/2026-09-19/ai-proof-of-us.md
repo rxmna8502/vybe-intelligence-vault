@@ -1,19 +1,36 @@
 ---
-title: "0xddneto/AI-Proof-of-Us"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Solidity", "Hardhat", "Ed25519", "EIP-712", "ERC-20", "Base (Ethereum L2)", "Aerodrome (DEX)", "OpenClaw", "Node.js", "npm"]
+title: 0xddneto/AI-Proof-of-Us
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Solidity
+- Hardhat
+- Ed25519
+- EIP-712
+- ERC-20
+- Base (Ethereum L2)
+- Aerodrome (DEX)
+- OpenClaw
+- Node.js
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI receipts", "work verification", "MCP protocol", "on-chain rewards", "agent interoperability"]
-source: "https://github.com/0xddneto/AI-Proof-of-Us"
+deployment_complexity: Medium
+tags:
+- AI receipts
+- work verification
+- MCP protocol
+- on-chain rewards
+- agent interoperability
+source: https://github.com/0xddneto/AI-Proof-of-Us
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-04T00:01:49Z"
-discovered_at: "2026-08-04T00:12:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T00:01:49Z'
+discovered_at: '2026-08-04T00:12:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

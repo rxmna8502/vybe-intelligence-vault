@@ -1,19 +1,29 @@
 ---
-title: "ProductOfAmerica/mcp-server-kicad"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "KiCad", "Model Context Protocol (MCP)", "kicad-cli", "PyPI"]
+title: ProductOfAmerica/mcp-server-kicad
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- KiCad
+- Model Context Protocol (MCP)
+- kicad-cli
+- PyPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["KiCad automation", "PCB design", "schematic capture", "AI-assisted engineering", "electronic design tools"]
-source: "https://github.com/ProductOfAmerica/mcp-server-kicad"
+deployment_complexity: Medium
+tags:
+- KiCad automation
+- PCB design
+- schematic capture
+- AI-assisted engineering
+- electronic design tools
+source: https://github.com/ProductOfAmerica/mcp-server-kicad
 stars: 5
-language: "Python"
-last_updated: "2026-08-10T19:57:48Z"
-discovered_at: "2026-08-10T20:02:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T19:57:48Z'
+discovered_at: '2026-08-10T20:02:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

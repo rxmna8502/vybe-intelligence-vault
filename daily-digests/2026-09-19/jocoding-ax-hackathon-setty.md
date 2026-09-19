@@ -1,19 +1,31 @@
 ---
-title: "chenjingdev-archive/jocoding-ax-hackathon-setty"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Node.js", "Express", "OpenAI Codex", "Vite", "Mermaid.js"]
+title: chenjingdev-archive/jocoding-ax-hackathon-setty
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- React
+- Node.js
+- Express
+- OpenAI Codex
+- Vite
+- Mermaid.js
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI handoff", "human-in-the-loop", "knowledge auditing", "regression testing", "support automation"]
-source: "https://github.com/chenjingdev-archive/jocoding-ax-hackathon-setty"
+deployment_complexity: Medium
+tags:
+- AI handoff
+- human-in-the-loop
+- knowledge auditing
+- regression testing
+- support automation
+source: https://github.com/chenjingdev-archive/jocoding-ax-hackathon-setty
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-21T10:20:55Z"
-discovered_at: "2026-07-21T10:24:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T10:20:55Z'
+discovered_at: '2026-07-21T10:24:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

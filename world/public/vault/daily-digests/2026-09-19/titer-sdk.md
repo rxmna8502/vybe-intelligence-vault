@@ -1,19 +1,29 @@
 ---
-title: "titershield-sketch/titer-sdk"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "Solana", "Node.js", "npm"]
+title: titershield-sketch/titer-sdk
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- JavaScript
+- Solana
+- Node.js
+- npm
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Solana", "on-chain security", "AI agent treasury", "time-lock vault", "policy firewall"]
-source: "https://github.com/titershield-sketch/titer-sdk"
+deployment_complexity: Medium
+tags:
+- Solana
+- on-chain security
+- AI agent treasury
+- time-lock vault
+- policy firewall
+source: https://github.com/titershield-sketch/titer-sdk
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T06:49:41Z"
-discovered_at: "2026-08-09T06:58:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T06:49:41Z'
+discovered_at: '2026-08-09T06:58:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

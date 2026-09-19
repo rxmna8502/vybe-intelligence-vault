@@ -1,19 +1,32 @@
 ---
-title: "bevinkatti/Loop-Watchdog"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Cloudflare Workers", "D1 (Cloudflare's SQL database)", "Slack API", "Resend (email service)", "OpenAPI", "JavaScript/TypeScript (for Cloudflare Worker)"]
+title: bevinkatti/Loop-Watchdog
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- FastAPI
+- Cloudflare Workers
+- D1 (Cloudflare's SQL database)
+- Slack API
+- Resend (email service)
+- OpenAPI
+- JavaScript/TypeScript (for Cloudflare Worker)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent monitoring", "runaway agent prevention", "loop detection", "token burn control", "session pausing"]
-source: "https://github.com/bevinkatti/Loop-Watchdog"
+deployment_complexity: Medium
+tags:
+- AI agent monitoring
+- runaway agent prevention
+- loop detection
+- token burn control
+- session pausing
+source: https://github.com/bevinkatti/Loop-Watchdog
 stars: 2
-language: "Python"
-last_updated: "2026-08-09T14:36:43Z"
-discovered_at: "2026-08-09T14:37:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T14:36:43Z'
+discovered_at: '2026-08-09T14:37:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,40 @@
 ---
-title: "Aevorine/Synorive"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Electron", "React", "TypeScript", "SQLite", "sqlite-vec", "HNSW", "OCR (RapidOCR)", "Video Processing", "MCP (Model Context Protocol)", "Claude Code", "SearXNG", "Jieba (Chinese NLP)", "OpenAlex (Academic API)", "Docker (for SearXNG)"]
+title: Aevorine/Synorive
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- FastAPI
+- Electron
+- React
+- TypeScript
+- SQLite
+- sqlite-vec
+- HNSW
+- OCR (RapidOCR)
+- Video Processing
+- MCP (Model Context Protocol)
+- Claude Code
+- SearXNG
+- Jieba (Chinese NLP)
+- OpenAlex (Academic API)
+- Docker (for SearXNG)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multimodal RAG", "local-first search", "fact-checking", "Claude Code integration", "privacy-focused"]
-source: "https://github.com/Aevorine/Synorive"
+deployment_complexity: Medium
+tags:
+- multimodal RAG
+- local-first search
+- fact-checking
+- Claude Code integration
+- privacy-focused
+source: https://github.com/Aevorine/Synorive
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T13:37:20Z"
-discovered_at: "2026-08-03T13:42:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T13:37:20Z'
+discovered_at: '2026-08-03T13:42:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

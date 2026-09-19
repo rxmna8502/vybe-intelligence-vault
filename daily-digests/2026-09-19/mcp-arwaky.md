@@ -1,19 +1,37 @@
 ---
-title: "rakaarwaky/mcp-arwaky"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Python", "TypeScript", "Rust", "Go", "Node.js", "Cloudflare Workers", "Blender 3D", "Git", "OCR (Tesseract)", "Computer Vision (OpenCV, ffmpeg)", "GitHub API", "Pytest"]
+title: rakaarwaky/mcp-arwaky
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Model Context Protocol (MCP)
+- Python
+- TypeScript
+- Rust
+- Go
+- Node.js
+- Cloudflare Workers
+- Blender 3D
+- Git
+- OCR (Tesseract)
+- Computer Vision (OpenCV, ffmpeg)
+- GitHub API
+- Pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP servers", "AI agent tools", "context engineering", "modular architecture", "multi-language support"]
-source: "https://github.com/rakaarwaky/mcp-arwaky"
+deployment_complexity: Medium
+tags:
+- MCP servers
+- AI agent tools
+- context engineering
+- modular architecture
+- multi-language support
+source: https://github.com/rakaarwaky/mcp-arwaky
 stars: 0
-language: "None"
-last_updated: "2026-08-08T06:45:24Z"
-discovered_at: "2026-08-08T06:52:38Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T06:45:24Z'
+discovered_at: '2026-08-08T06:52:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

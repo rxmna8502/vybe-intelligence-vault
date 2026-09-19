@@ -1,19 +1,38 @@
 ---
-title: "cambridgetcg/agenttool"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Python", "Bun", "Hono", "PostgreSQL", "Redis", "ed25519", "HTTPS/JSON", "MCP (Model Context Protocol)", "Cosmos SDK", "S3-compatible storage", "SQLite", "Git", "Apache-2.0"]
+title: cambridgetcg/agenttool
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Python
+- Bun
+- Hono
+- PostgreSQL
+- Redis
+- ed25519
+- HTTPS/JSON
+- MCP (Model Context Protocol)
+- Cosmos SDK
+- S3-compatible storage
+- SQLite
+- Git
+- Apache-2.0
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["sovereign agents", "local-first infrastructure", "agent discovery", "secure data protocols", "MCP integration"]
-source: "https://github.com/cambridgetcg/agenttool"
+deployment_complexity: High
+tags:
+- sovereign agents
+- local-first infrastructure
+- agent discovery
+- secure data protocols
+- MCP integration
+source: https://github.com/cambridgetcg/agenttool
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T13:16:38Z"
-discovered_at: "2026-08-01T13:16:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T13:16:38Z'
+discovered_at: '2026-08-01T13:16:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

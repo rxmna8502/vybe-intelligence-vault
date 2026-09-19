@@ -4,17 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-09-03T01:01:16.392105+05:30'
-published_at: '2026-09-02T09:05:22Z'
+collected_at: '2026-09-19T18:09:29.152022+05:30'
+published_at: '2026-09-19T06:08:57Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
-stars: 979
+stars: 994
 language: Python
 status: active
 license: MIT
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-09-03T01:01:16.392105+05:30'
-last_seen: '2026-09-03T01:01:16.392105+05:30'
-last_checked: '2026-09-03T01:01:16.392105+05:30'
+first_seen: '2026-09-19T18:09:29.152022+05:30'
+last_seen: '2026-09-19T18:09:29.152022+05:30'
+last_checked: '2026-09-19T18:09:29.152022+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,7 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
-
-- **CLI-Centric Best Practices**: Provides a curated repository of *Codex CLI commands*, skills, and hooks for OpenAI Codex, optimizing agentic workflows with Python-based tooling for scalable AI agent orchestration.
-
-- **Context & Skill Optimization**: Focuses on *context-engineering* techniques to enhance AI agent performance, including Pakistan-specific developer resources and advanced CLI-based agentic engineering methodologies.
+*   Implements best practices for evolving AI-assisted development from "vibe coding" to structured
 
 ## Why It Matters
 
@@ -45,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: shanraisshan
-- Stars: 979
-- Forks: 65
+- Stars: 994
+- Forks: 67
 - Language: Python
 - Topics: agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, codex, codex-ai, codex-cli, codex-cli-agents, codex-cli-best-practices, codex-cli-commands, codex-cli-skills, codex-hooks, context-engineering, hooks, openai, pakistan, pakistani-developer, vibe-coding
-- Last Updated: 2026-09-02T09:05:22Z
+- Last Updated: 2026-09-19T06:08:57Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-27T07:37:49Z

@@ -1,19 +1,30 @@
 ---
-title: "microsoft/Dataverse-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Microsoft Dataverse", "MCP (Model Context Protocol)", "Dataverse CLI", "Power Platform CLI (PAC)", "Dataverse Python SDK"]
+title: microsoft/Dataverse-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Microsoft Dataverse
+- MCP (Model Context Protocol)
+- Dataverse CLI
+- Power Platform CLI (PAC)
+- Dataverse Python SDK
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Dataverse", "AI agents", "CRM automation", "Natural language processing", "Data management"]
-source: "https://github.com/microsoft/Dataverse-skills"
+deployment_complexity: Medium
+tags:
+- Dataverse
+- AI agents
+- CRM automation
+- Natural language processing
+- Data management
+source: https://github.com/microsoft/Dataverse-skills
 stars: 173
-language: "None"
-last_updated: "2026-07-15T21:58:16Z"
-discovered_at: "2026-07-15T21:59:06Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-15T21:58:16Z'
+discovered_at: '2026-07-15T21:59:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

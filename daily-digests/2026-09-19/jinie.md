@@ -1,19 +1,34 @@
 ---
-title: "Jinie-AI/Jinie"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "React Native", "Expo CLI", "DistilBERT", "CodeT5-small", "Vite", "Firebase Hosting", "Node.js", "Jest", "WebSockets"]
+title: Jinie-AI/Jinie
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- React Native
+- Expo CLI
+- DistilBERT
+- CodeT5-small
+- Vite
+- Firebase Hosting
+- Node.js
+- Jest
+- WebSockets
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-driven code generation", "React Native development", "multi-language support", "local ML models", "Firebase deployment"]
-source: "https://github.com/Jinie-AI/Jinie"
+deployment_complexity: Medium
+tags:
+- AI-driven code generation
+- React Native development
+- multi-language support
+- local ML models
+- Firebase deployment
+source: https://github.com/Jinie-AI/Jinie
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T20:26:54Z"
-discovered_at: "2026-08-03T20:28:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T20:26:54Z'
+discovered_at: '2026-08-03T20:28:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

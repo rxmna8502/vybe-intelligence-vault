@@ -1,19 +1,33 @@
 ---
-title: "msk-labs/grok-build-gui"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "ACP (Agent Client Protocol)", "MCP (Model Context Protocol)", "xterm.js", "node-pty", "WebView"]
+title: msk-labs/grok-build-gui
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- ACP (Agent Client Protocol)
+- MCP (Model Context Protocol)
+- xterm.js
+- node-pty
+- WebView
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["desktop application", "agent interface", "local AI control plane", "session management", "system integration"]
-source: "https://github.com/msk-labs/grok-build-gui"
+deployment_complexity: Medium
+tags:
+- desktop application
+- agent interface
+- local AI control plane
+- session management
+- system integration
+source: https://github.com/msk-labs/grok-build-gui
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T01:27:27Z"
-discovered_at: "2026-08-10T01:35:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T01:27:27Z'
+discovered_at: '2026-08-10T01:35:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

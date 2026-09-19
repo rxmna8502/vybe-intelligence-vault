@@ -1,19 +1,32 @@
 ---
-title: "Astro-Han/pawwork"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "DeepSeek Harness (DSH)", "Python (for Office skills)", "Node.js", "pnpm", "uv (Python package manager)", "OpenCode Free models"]
+title: Astro-Han/pawwork
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Electron
+- DeepSeek Harness (DSH)
+- Python (for Office skills)
+- Node.js
+- pnpm
+- uv (Python package manager)
+- OpenCode Free models
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["desktop AI agent", "DeepSeek Harness", "document automation", "non-technical users", "open-source"]
-source: "https://github.com/Astro-Han/pawwork"
+deployment_complexity: Medium
+tags:
+- desktop AI agent
+- DeepSeek Harness
+- document automation
+- non-technical users
+- open-source
+source: https://github.com/Astro-Han/pawwork
 stars: 113
-language: "TypeScript"
-last_updated: "2026-09-03T15:26:23Z"
-discovered_at: "2026-09-03T15:38:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:26:23Z'
+discovered_at: '2026-09-03T15:38:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

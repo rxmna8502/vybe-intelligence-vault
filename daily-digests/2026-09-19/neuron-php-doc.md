@@ -1,19 +1,34 @@
 ---
-title: "neuron-core/neuron-php-doc"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["PHP", "Composer", "Laravel", "Symfony", "Anthropic", "OpenAI", "Ollama", "Gemini", "Mistral", "GitBook"]
+title: neuron-core/neuron-php-doc
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- PHP
+- Composer
+- Laravel
+- Symfony
+- Anthropic
+- OpenAI
+- Ollama
+- Gemini
+- Mistral
+- GitBook
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["PHP", "Agentic AI", "Multi-agent systems", "LLM integration", "Orchestration"]
-source: "https://github.com/neuron-core/neuron-php-doc"
+deployment_complexity: Medium
+tags:
+- PHP
+- Agentic AI
+- Multi-agent systems
+- LLM integration
+- Orchestration
+source: https://github.com/neuron-core/neuron-php-doc
 stars: 8
-language: "None"
-last_updated: "2026-08-09T15:34:33Z"
-discovered_at: "2026-08-09T15:35:00Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T15:34:33Z'
+discovered_at: '2026-08-09T15:35:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
