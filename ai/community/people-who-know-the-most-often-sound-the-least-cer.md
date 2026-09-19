@@ -13,13 +13,14 @@ collected_at: '2026-09-20T00:10:50.363249+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:people-who-know-the-most-often-sound-the-least-cer
 first_seen: '2026-09-20T00:10:50.363249+05:30'
 last_seen: '2026-09-20T00:10:50.363249+05:30'
 last_checked: '2026-09-20T00:10:50.363249+05:30'
 health_score: 100
 ---
+
 
 # People who know the most often sound the least certain
 

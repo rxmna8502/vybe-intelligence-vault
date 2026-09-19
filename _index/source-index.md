@@ -25663,12 +25663,10 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [Almost Never Use AI to Write Anything Substantive](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
-  - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
-  - [Human brain is two separate organs, Stanford Medicine-led research finds](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
-  - [People who know the most often sound the least certain](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md)
-  - [You can run Git on object storage if you re-make packfiles](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md)
+  - [I think you should almost never use AI to write](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
+  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
+  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -29531,4 +29529,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T00:27:09.093616+05:30*
+*Index generated on 2026-09-20T04:11:08.536180+05:30*

@@ -15,13 +15,14 @@ tags:
 - hackernews
 - llm
 - openai
-status: active
+status: inactive
 resource_id: hackernews:how-openai-used-its-own-llms-to-design-its-jalapen
 first_seen: '2026-09-19T10:16:13.829017+05:30'
 last_seen: '2026-09-20T00:10:52.163482+05:30'
 last_checked: '2026-09-20T00:10:52.163482+05:30'
 health_score: 100
 ---
+
 
 # How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
 

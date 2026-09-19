@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
 
 ---
-*Last updated: 2026-09-20 00:28 IST*
+*Last updated: 2026-09-20 04:13 IST*

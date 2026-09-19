@@ -306,10 +306,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | globalprivacyassembly.com | 2 |
 | john.hartnup.uk | 1 |
 | sockpuppet.org | 1 |
-| spectrum.ieee.org | 1 |
-| tigrisdata.com | 1 |
 | erichgrunewald.substack.com | 1 |
-| vrash.substack.com | 1 |
+| tomshardware.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-20T00:29:08.943461+05:30`
+Generated at: `2026-09-20T04:14:54.013765+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Almost Never Use AI to Write Anything Substantive** - Score: `52` in category `ai/community` ([Link](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)) ([File](../ai/community/almost-never-use-ai-to-write-anything-substantive.md))
-- **People who know the most often sound the least certain** - Score: `24` in category `ai/community` ([Link](https://vrash.substack.com/p/the-people-who-know-the-most-often)) ([File](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md))
+- **Microsoft director: AI scraping 'the largest theft of labor in human history'** - Score: `72` in category `ai/community` ([Link](https://tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit)) ([File](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md))
 
 ## Top Trending Resources
 
-- **AI-generated posters don’t have to be horrible** - Score: `924` (+618), Rank Change: `+2` ([File](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md))
-- **Human brain is two separate organs, Stanford Medicine-led research finds** - Score: `542` (+218), Rank Change: `-1` ([File](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md))
-- **How to Write with an LLM** - Score: `577` (+65), Rank Change: `-1` ([File](../ai/community/how-to-write-with-an-llm.md))
-- **You can run Git on object storage if you re-make packfiles** - Score: `116` (+53), Rank Change: `+1` ([File](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md))
-- **How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip** - Score: `182` (+41), Rank Change: `0` ([File](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md))
-- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+4136` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **AI-generated posters don’t have to be horrible** - Score: `1252` (+328), Rank Change: `0` ([File](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md))
+- **I think you should almost never use AI to write** - Score: `167` (+115), Rank Change: `+2` ([File](../ai/community/almost-never-use-ai-to-write-anything-substantive.md))
+- **Two parallel neural ectoderm progenitors contribute to the developing brain** - Score: `592` (+50), Rank Change: `0` ([File](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md))
+- **How to Write with an LLM** - Score: `608` (+31), Rank Change: `0` ([File](../ai/community/how-to-write-with-an-llm.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1027` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/human-language-technologies.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **CALLE-AI/awesome-phone-call-agents** - (Rank Change: `+4136`) ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+98`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+98`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - (Rank Change: `+98`) ([File](../ai/rag/react-19-3.md))
-- **facebook/MusicGen** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1027`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **Responsible Scaling Policy** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/responsible-scaling-policy.md))
+- **Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md))
+- **Aug 7, 2026ProductImproving Fable 5's biology safeguards** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md))
+- **Aug 14, 2026AnnouncementsHow Claude’s text watermark works** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md))
+- **Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md))
+- **Aug 27, 2026Announcements Expanding our support for scientists** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md))
+- **Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md))
+- **Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md))
+- **Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program** - (Rank Change: `+13`) ([File](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +45,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)** (Category: `ai/community`) ([File](../ai/community/arxiv-2510-03215.md))
-- **NASA-IBM Lunar Foundation open-Source Geospatial AI Model** (Category: `ai/community`) ([File](../ai/community/nasa-ibm-lunar-foundation-open-source-geospatial-a.md))
+- **How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip** (Category: `ai/community`) ([File](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md))
+- **You can run Git on object storage if you re-make packfiles** (Category: `ai/community`) ([File](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md))
+- **People who know the most often sound the least certain** (Category: `ai/community`) ([File](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md))

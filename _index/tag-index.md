@@ -6638,10 +6638,9 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [Almost Never Use AI to Write Anything Substantive](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
-  - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
-  - [Human brain is two separate organs, Stanford Medicine-led research finds](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
-  - [People who know the most often sound the least certain](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md)
+  - [I think you should almost never use AI to write](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
+  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
+  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
 
 ## animation
 
@@ -26945,7 +26944,6 @@ Resources organized by keyword tags.
   - [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md)
   - [All-in-one Recruiting Software for Ambitious Teams | Ashby](../ai/resources/all-in-one-recruiting-software-for-ambitious-teams.md)
   - [Allure of Craquelure: A Variational-Generative Approach to Crack Detection in Paintings](../ai/research/arxiv-2602-09730.md)
-  - [Almost Never Use AI to Write Anything Substantive](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
   - [Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise](../ai/research/arxiv-2609-12119.md)
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
@@ -28245,7 +28243,6 @@ Resources organized by keyword tags.
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
-  - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
   - [How ServiceNow uses LangSmith to get visibility into its customer success agents](../ai/rag/how-servicenow-uses-langsmith-to-get-visibility-in.md)
@@ -28268,7 +28265,6 @@ Resources organized by keyword tags.
   - [Hp30 & Hp60 - Kp-Index](../ai/rag/hp30-hp60-kp-index.md)
   - [Human Resilience in the AI Era -- What Machines Can't Replace](../ai/research/arxiv-2510-25218.md)
   - [Human Vision Constrained Super-Resolution](../ai/research/arxiv-2411-17513.md)
-  - [Human brain is two separate organs, Stanford Medicine-led research finds](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-AI Co-Interpretation for Responsible AI: A Hermeneutic Perspective](../ai/research/arxiv-2609-00334.md)
   - [Human-Centered Reflections on Care Robots: A Comparative Study of Caregiver Perspectives](../ai/research/arxiv-2608-02411.md)
@@ -28283,6 +28279,7 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
+  - [I think you should almost never use AI to write](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -28740,6 +28737,7 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
+  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -29032,7 +29030,6 @@ Resources organized by keyword tags.
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage](../ai/rag/arxiv-2608-18438.md)
-  - [People who know the most often sound the least certain](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md)
   - [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](../ai/research/perception-tokens-enhance-visual-reasoning-in-mult.md)
   - [Perception-Aligned AI Outputs: End-to-End Visual Prediction for Uncertainty Communication in Clinical Decision-Making](../ai/research/arxiv-2205-04599.md)
   - [Performance Foundations of Parallel & Distributed Reasoning Language Models](../ai/research/arxiv-2608-27046.md)
@@ -29975,6 +29972,7 @@ Resources organized by keyword tags.
   - [Twisted Schr\"odinger Bridge Matching](../ai/research/arxiv-2607-16987.md)
   - [Two Black Boxes, One Solver: Encoder Probing and Decoder Attribution for Neural Multi-Attribute VRP under Hard-Mask and Recourse Decoders](../ai/research/arxiv-2607-04487.md)
   - [Two Sides of the Same Coin: Learning the Backdoor to Remove the Backdoor](../ai/rag/arxiv-2607-05748.md)
+  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
   - [Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion](../ai/research/arxiv-2411-12965.md)
   - [Type Checking Project Haystack Grids using JSON Schema and Pydantic](../ai/research/arxiv-2606-24891.md)
   - [TypiCore: A Hybrid Active Query Strategy for Class-Incremental Learning on Time Series](../ai/research/arxiv-2607-17632.md)
@@ -30203,7 +30201,6 @@ Resources organized by keyword tags.
   - [Yazılım Geliştirme Birimi sitesine hoşgeldiniz | Yazılım Geliştirme Birimi](../ai/resources/yazilim-gelistirme-birimi-sitesine-hosgeldiniz-yaz.md)
   - [Yes, And...Laughter Lab](../ai/rag/yes-and-laughter-lab.md)
   - [You Can Learn Tokenization End-to-End with Reinforcement Learning](../ai/research/arxiv-2602-13940.md)
-  - [You can run Git on object storage if you re-make packfiles](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md)
   - [YouTube API Services - Developer Policies | Google for Developers](../ai/rag/youtube-api-services-developer-policies-google-for.md)
   - [YouTube API Services Terms of Service | Google for Developers](../ai/rag/youtube-api-services-terms-of-service-google-for-d.md)
   - [YouTube Researcher Program Application - YouTube Help](../ai/rag/youtube-researcher-program-application-youtube-hel.md)
@@ -30297,7 +30294,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -31074,7 +31071,6 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
 
 ## mdx
@@ -38054,7 +38050,6 @@ Resources organized by keyword tags.
   - [Home - Google Developers Blog](../ai/rag/home-google-developers-blog.md)
   - [Home | Enterprise Technology](../ai/rag/home-enterprise-technology.md)
   - [How Closely Do LLM Reviews Align with Human Peer Review?](../ai/research/arxiv-2608-03659.md)
-  - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How Well Can AI Generate Backlogs from App Mockups?](../ai/rag/arxiv-2607-22902.md)
@@ -38143,6 +38138,7 @@ Resources organized by keyword tags.
   - [Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents](../ai/rag/arxiv-2601-03785.md)
   - [Meta-Harness 101: The Layer Above AI Agent Harnesses](../ai/rag/meta-harness-101-the-layer-above-ai-agent-harnesse.md)
   - [Microsoft Developer](../ai/rag/microsoft-developer.md)
+  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
   - [Milvus | High-Performance Vector Database Built for Scale](../ai/rag/milvus-high-performance-vector-database-built-for.md)
   - [Mimicry without understanding: the origins of decision bias in large language models](../ai/research/arxiv-2608-12339.md)
   - [MiniGPT-Reverse-Designing: Predicting Image Adjustments Utilizing MiniGPT-4](../ai/research/arxiv-2406-00971.md)
@@ -52732,7 +52728,6 @@ Resources organized by keyword tags.
   - [You Can't Prefer Emotions You Don't Sample: Intensity Undershoot in DPO-Tuned LLMs](../ai/rag/arxiv-2609-07808.md)
   - [You Do Not Fully Utilize Transformer's Representation Capacity](../ai/rag/arxiv-2502-09245.md)
   - [You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences](../ai/rag/arxiv-2606-15956.md)
-  - [You can run Git on object storage if you re-make packfiles](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md)
   - [YouTube API Services - Developer Policies | Google for Developers](../ai/rag/youtube-api-services-developer-policies-google-for.md)
   - [YouTube API Services Terms of Service | Google for Developers](../ai/rag/youtube-api-services-terms-of-service-google-for-d.md)
   - [YouTube Policies Crafted for Openness - How YouTube Works](../ai/rag/youtube-policies-crafted-for-openness-how-youtube.md)
@@ -55312,6 +55307,7 @@ Resources organized by keyword tags.
   - [MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention](../ai/rag/arxiv-2606-10120.md)
   - [Microsoft Developer](../ai/rag/microsoft-developer.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
+  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MioFFAn: an Annotation Software for Formula Formalization with LLM Automation Capabilities](../ai/research/arxiv-2607-22552.md)
   - [MobileDreamer: Generative Sketch World Model for GUI Agent](../ai/rag/arxiv-2601-04035.md)
@@ -63830,4 +63826,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T00:27:08.901254+05:30*
+*Index generated on 2026-09-20T04:11:08.211719+05:30*
