@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-19T21:48:41.375697+05:30`
+Generated at: `2026-09-20T00:29:08.943461+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
+- **Almost Never Use AI to Write Anything Substantive** - Score: `52` in category `ai/community` ([Link](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)) ([File](../ai/community/almost-never-use-ai-to-write-anything-substantive.md))
+- **People who know the most often sound the least certain** - Score: `24` in category `ai/community` ([Link](https://vrash.substack.com/p/the-people-who-know-the-most-often)) ([File](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md))
 
 ## Top Trending Resources
 
-- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/malonge-ragoo.md))
-- **crewAIInc/crewAI-tools** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/crewaiinc-crewai-tools.md))
-- **cloudflare/agentic-inbox** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/cloudflare-agentic-inbox.md))
-- **JCodesMore/ai-chrome-extension-template** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/jcodesmore-ai-chrome-extension-template.md))
-- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **Goal-oriented probabilistic forecasting for dynamic PRB allocation in 5G networks** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/research/arxiv-2609-17297.md))
-- **The Latent That Never Was: A Forensic Re-run of the CVAE Ablation in Action Chunking Transformers** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/arxiv-2609-16745.md))
+- **AI-generated posters don’t have to be horrible** - Score: `924` (+618), Rank Change: `+2` ([File](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md))
+- **Human brain is two separate organs, Stanford Medicine-led research finds** - Score: `542` (+218), Rank Change: `-1` ([File](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md))
+- **How to Write with an LLM** - Score: `577` (+65), Rank Change: `-1` ([File](../ai/community/how-to-write-with-an-llm.md))
+- **You can run Git on object storage if you re-make packfiles** - Score: `116` (+53), Rank Change: `+1` ([File](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md))
+- **How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip** - Score: `182` (+41), Rank Change: `0` ([File](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+4136` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/datawhalechina-all-in-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+28133`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25355`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **stanford-oval/storm** - (Rank Change: `+17140`) ([File](../ai/rag/stanford-oval-storm.md))
-- **coleam00/ottomator-agents** - (Rank Change: `+1006`) ([File](../ai/agents/coleam00-ottomator-agents.md))
-- **malonge/RaGOO** - (Rank Change: `+1006`) ([File](../ai/rag/malonge-ragoo.md))
-- **crewAIInc/crewAI-tools** - (Rank Change: `+1006`) ([File](../ai/agents/crewaiinc-crewai-tools.md))
-- **cloudflare/agentic-inbox** - (Rank Change: `+1006`) ([File](../ai/rag/cloudflare-agentic-inbox.md))
-- **JCodesMore/ai-chrome-extension-template** - (Rank Change: `+1006`) ([File](../ai/agents/jcodesmore-ai-chrome-extension-template.md))
-- **Senpi-ai/senpi-skills** - (Rank Change: `+1006`) ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1006`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **CALLE-AI/awesome-phone-call-agents** - (Rank Change: `+4136`) ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+98`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - (Rank Change: `+98`) ([File](../ai/rag/sunsetting-create-react-app.md))
+- **React 19.3** - (Rank Change: `+98`) ([File](../ai/rag/react-19-3.md))
+- **facebook/MusicGen** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-facebook.md))
+- **AP123/IllusionDiffusion** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-ap123.md))
+- **dalle-mini/dalle-mini** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
+- **mteb/leaderboard** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-mteb.md))
+- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
+- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+34`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +46,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)** (Category: `ai/community`) ([File](../ai/community/arxiv-2510-03215.md))
+- **NASA-IBM Lunar Foundation open-Source Geospatial AI Model** (Category: `ai/community`) ([File](../ai/community/nasa-ibm-lunar-foundation-open-source-geospatial-a.md))

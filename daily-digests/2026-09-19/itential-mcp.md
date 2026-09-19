@@ -1,19 +1,36 @@
 ---
-title: "itential/itential-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Itential Platform", "Jinja2", "TextFSM", "OpenAPI", "Docker", "CLI", "REST APIs", "OAuth 2.0", "JWT", "TLS"]
+title: itential/itential-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Itential Platform
+- Jinja2
+- TextFSM
+- OpenAPI
+- Docker
+- CLI
+- REST APIs
+- OAuth 2.0
+- JWT
+- TLS
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["network automation", "MCP server", "workflow orchestration", "device management", "AI integration"]
-source: "https://github.com/itential/itential-mcp"
+deployment_complexity: Medium
+tags:
+- network automation
+- MCP server
+- workflow orchestration
+- device management
+- AI integration
+source: https://github.com/itential/itential-mcp
 stars: 34
-language: "Python"
-last_updated: "2026-08-03T16:16:56Z"
-discovered_at: "2026-08-03T16:27:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T16:16:56Z'
+discovered_at: '2026-08-03T16:27:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "LeeSangHyuk/ai-worker-companion"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Tauri", "TypeScript (implied by TypeScript-like syntax in README)", "npm", "OpenCode", "CLI"]
+title: LeeSangHyuk/ai-worker-companion
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- Tauri
+- TypeScript (implied by TypeScript-like syntax in README)
+- npm
+- OpenCode
+- CLI
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI task monitoring", "OpenCode integration", "health status tracking", "TUI visualization", "desktop companion"]
-source: "https://github.com/LeeSangHyuk/ai-worker-companion"
+deployment_complexity: Medium
+tags:
+- AI task monitoring
+- OpenCode integration
+- health status tracking
+- TUI visualization
+- desktop companion
+source: https://github.com/LeeSangHyuk/ai-worker-companion
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T13:01:17Z"
-discovered_at: "2026-08-07T13:02:29Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T13:01:17Z'
+discovered_at: '2026-08-07T13:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

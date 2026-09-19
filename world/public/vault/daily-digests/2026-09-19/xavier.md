@@ -1,19 +1,35 @@
 ---
-title: "iberi22/xavier"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "SQLite", "sqlite-vec", "Axum", "Model Context Protocol (MCP)", "QUIC/Iroh", "BM25", "Tree-sitter", "Docker", "HTTP/REST", "CLI"]
+title: iberi22/xavier
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Rust
+- SQLite
+- sqlite-vec
+- Axum
+- Model Context Protocol (MCP)
+- QUIC/Iroh
+- BM25
+- Tree-sitter
+- Docker
+- HTTP/REST
+- CLI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector memory", "context graph", "AI agents", "local-first", "semantic search"]
-source: "https://github.com/iberi22/xavier"
+deployment_complexity: Medium
+tags:
+- vector memory
+- context graph
+- AI agents
+- local-first
+- semantic search
+source: https://github.com/iberi22/xavier
 stars: 0
-language: "Rust"
-last_updated: "2026-09-02T22:13:09Z"
-discovered_at: "2026-09-02T22:19:56Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T22:13:09Z'
+discovered_at: '2026-09-02T22:19:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -6638,9 +6638,10 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
+  - [Almost Never Use AI to Write Anything Substantive](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
   - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [Human brain is two separate organs, Stanford Medicine-led research finds](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
-  - [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](../ai/community/nasa-ibm-lunar-foundation-open-source-geospatial-a.md)
+  - [People who know the most often sound the least certain](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md)
 
 ## animation
 
@@ -14626,6 +14627,7 @@ Resources organized by keyword tags.
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -22826,7 +22828,6 @@ Resources organized by keyword tags.
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
   - [ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](../ai/research/arxiv-2510-10774.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
@@ -26944,6 +26945,7 @@ Resources organized by keyword tags.
   - [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md)
   - [All-in-one Recruiting Software for Ambitious Teams | Ashby](../ai/resources/all-in-one-recruiting-software-for-ambitious-teams.md)
   - [Allure of Craquelure: A Variational-Generative Approach to Crack Detection in Paintings](../ai/research/arxiv-2602-09730.md)
+  - [Almost Never Use AI to Write Anything Substantive](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
   - [Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise](../ai/research/arxiv-2609-12119.md)
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
@@ -27246,7 +27248,6 @@ Resources organized by keyword tags.
   - [CVE-TTP KG: Knowledge Graph Linking Software Vulnerabilities to Attack Behaviors](../ai/research/arxiv-2606-31557.md)
   - [CVF Open Access](../ai/resources/cvf-open-access.md)
   - [CVPR 2025 Open Access Repository](../ai/resources/cvpr-2025-open-access-repository.md)
-  - [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](../ai/community/arxiv-2510-03215.md)
   - [Calendars | Registrar’s Office](../ai/resources/calendars-registrars-office.md)
   - [Calibrated Sampling-Free Uncertainty Estimation in Bayesian Deep Learning](../ai/rag/arxiv-2606-16214.md)
   - [Call For Instructor / Mentor / Speaker](../ai/resources/call-for-instructor-mentor-speaker.md)
@@ -28808,7 +28809,6 @@ Resources organized by keyword tags.
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [N$^2$: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion](../ai/research/arxiv-2506-04166.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
-  - [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](../ai/community/nasa-ibm-lunar-foundation-open-source-geospatial-a.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
   - [NFL - YouTube](../ai/resources/nfl-youtube.md)
   - [NIST Chemistry WebBook](../ai/resources/nist-chemistry-webbook.md)
@@ -29032,6 +29032,7 @@ Resources organized by keyword tags.
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage](../ai/rag/arxiv-2608-18438.md)
+  - [People who know the most often sound the least certain](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md)
   - [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](../ai/research/perception-tokens-enhance-visual-reasoning-in-mult.md)
   - [Perception-Aligned AI Outputs: End-to-End Visual Prediction for Uncertainty Communication in Clinical Decision-Making](../ai/research/arxiv-2205-04599.md)
   - [Performance Foundations of Parallel & Distributed Reasoning Language Models](../ai/research/arxiv-2608-27046.md)
@@ -30296,6 +30297,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -31072,7 +31074,6 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](../ai/community/arxiv-2510-03215.md)
   - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
 
@@ -43833,7 +43834,6 @@ Resources organized by keyword tags.
   - [Azure-Samples/aisearch-openai-rag-audio](../ai/rag/azure-samples-aisearch-openai-rag-audio.md)
   - [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)
   - [BrandPeng/Langchain1.0-Langgraph1.0-Learning](../ai/agents/brandpeng-langchain1-0-langgraph1-0-learning.md)
-  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [Chaelsoo/Zetsu](../ai/rag/chaelsoo-zetsu.md)
   - [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md)
   - [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md)
@@ -56047,6 +56047,7 @@ Resources organized by keyword tags.
 
   - [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md)
   - [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md)
+  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio.md)
   - [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md)
   - [FirebaseExtended/karas-coffee](../ai/resources/firebaseextended-karas-coffee.md)
@@ -63829,4 +63830,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-19T18:22:33.521397+05:30*
+*Index generated on 2026-09-20T00:27:08.901254+05:30*

@@ -1,19 +1,34 @@
 ---
-title: "komaa-com/openclaw-msteams-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Microsoft Teams", "OpenClaw", "WebSocket", "STT/TTS", "Vision APIs", "HMAC", "Azure OpenAI", "OpenAI Realtime API"]
+title: komaa-com/openclaw-msteams-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Microsoft Teams
+- OpenClaw
+- WebSocket
+- STT/TTS
+- Vision APIs
+- HMAC
+- Azure OpenAI
+- OpenAI Realtime API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Microsoft Teams integration", "voice/video agent", "lip-sync avatar", "real-time communication", "OpenClaw plugin"]
-source: "https://github.com/komaa-com/openclaw-msteams-bridge"
+deployment_complexity: Medium
+tags:
+- Microsoft Teams integration
+- voice/video agent
+- lip-sync avatar
+- real-time communication
+- OpenClaw plugin
+source: https://github.com/komaa-com/openclaw-msteams-bridge
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-10T03:55:51Z"
-discovered_at: "2026-08-10T03:58:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T03:55:51Z'
+discovered_at: '2026-08-10T03:58:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

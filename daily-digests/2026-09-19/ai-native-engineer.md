@@ -1,19 +1,32 @@
 ---
-title: "bimal1023/AI-native-engineer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "Python", "LLM APIs", "Vector Search", "Evaluation Frameworks", "Deployment Tools", "Observability (Tracing, Metrics)", "Agent Frameworks"]
+title: bimal1023/AI-native-engineer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Markdown
+- Python
+- LLM APIs
+- Vector Search
+- Evaluation Frameworks
+- Deployment Tools
+- Observability (Tracing, Metrics)
+- Agent Frameworks
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI curriculum", "RAG engineering", "AI/ML transition", "hands-on learning", "production-grade AI"]
-source: "https://github.com/bimal1023/AI-native-engineer"
+deployment_complexity: Low
+tags:
+- AI curriculum
+- RAG engineering
+- AI/ML transition
+- hands-on learning
+- production-grade AI
+source: https://github.com/bimal1023/AI-native-engineer
 stars: 0
-language: "None"
-last_updated: "2026-08-08T06:39:49Z"
-discovered_at: "2026-08-08T06:52:42Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T06:39:49Z'
+discovered_at: '2026-08-08T06:52:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -25663,11 +25663,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](../ai/community/arxiv-2510-03215.md)
+  - [Almost Never Use AI to Write Anything Substantive](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
   - [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](../ai/community/how-openai-used-its-own-llms-to-design-its-jalapen.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
   - [Human brain is two separate organs, Stanford Medicine-led research finds](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
-  - [NASA-IBM Lunar Foundation open-Source Geospatial AI Model](../ai/community/nasa-ibm-lunar-foundation-open-source-geospatial-a.md)
+  - [People who know the most often sound the least certain](../ai/community/people-who-know-the-most-often-sound-the-least-cer.md)
   - [You can run Git on object storage if you re-make packfiles](../ai/community/you-can-run-git-on-object-storage-if-you-re-make-p.md)
 
 ## Unknown Source (type: huggingface)
@@ -29531,4 +29531,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-19T18:22:33.841478+05:30*
+*Index generated on 2026-09-20T00:27:09.093616+05:30*

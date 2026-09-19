@@ -1,19 +1,27 @@
 ---
-title: "Ajay77187718/awesome-ai-red-teaming-jp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "Web Browsers", "ZIP Archive"]
+title: Ajay77187718/awesome-ai-red-teaming-jp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Markdown
+- Web Browsers
+- ZIP Archive
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI Safety", "Red Teaming", "Prompt Injection", "LLM Security", "Japanese Resources"]
-source: "https://github.com/Ajay77187718/awesome-ai-red-teaming-jp"
+deployment_complexity: Low
+tags:
+- AI Safety
+- Red Teaming
+- Prompt Injection
+- LLM Security
+- Japanese Resources
+source: https://github.com/Ajay77187718/awesome-ai-red-teaming-jp
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T22:54:26Z"
-discovered_at: "2026-07-13T22:55:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T22:54:26Z'
+discovered_at: '2026-07-13T22:55:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

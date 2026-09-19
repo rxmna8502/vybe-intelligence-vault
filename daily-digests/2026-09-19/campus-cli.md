@@ -1,19 +1,32 @@
 ---
-title: "alejooroncoy/campus-cli"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "Playwright", "Model Context Protocol (MCP)", "Blackboard Learn API", "OAuth2", "SAML SSO", "PostHog (analytics)"]
+title: alejooroncoy/campus-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Node.js
+- TypeScript
+- Playwright
+- Model Context Protocol (MCP)
+- Blackboard Learn API
+- OAuth2
+- SAML SSO
+- PostHog (analytics)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Blackboard integration", "MCP server", "CLI tool", "AI assistant connector", "Student productivity"]
-source: "https://github.com/alejooroncoy/campus-cli"
+deployment_complexity: Medium
+tags:
+- Blackboard integration
+- MCP server
+- CLI tool
+- AI assistant connector
+- Student productivity
+source: https://github.com/alejooroncoy/campus-cli
 stars: 8
-language: "HTML"
-last_updated: "2026-08-07T04:52:29Z"
-discovered_at: "2026-08-07T04:56:56Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T04:52:29Z'
+discovered_at: '2026-08-07T04:56:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

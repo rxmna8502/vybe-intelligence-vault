@@ -13,13 +13,14 @@ collected_at: '2026-09-19T18:06:16.595734+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nasa-ibm-lunar-foundation-open-source-geospatial-a
 first_seen: '2026-09-19T18:06:16.595734+05:30'
 last_seen: '2026-09-19T18:06:16.595734+05:30'
 last_checked: '2026-09-19T18:06:16.595734+05:30'
 health_score: 100
 ---
+
 
 # NASA-IBM Lunar Foundation open-Source Geospatial AI Model
 

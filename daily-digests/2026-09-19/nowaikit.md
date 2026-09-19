@@ -1,19 +1,32 @@
 ---
-title: "aartiq/nowaikit"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ServiceNow API", "REST", "OAuth", "CLI", "Web UI"]
+title: aartiq/nowaikit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- ServiceNow API
+- REST
+- OAuth
+- CLI
+- Web UI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["ServiceNow integration", "MCP server", "AI orchestration", "ITSM automation", "natural language queries"]
-source: "https://github.com/aartiq/nowaikit"
+deployment_complexity: Medium
+tags:
+- ServiceNow integration
+- MCP server
+- AI orchestration
+- ITSM automation
+- natural language queries
+source: https://github.com/aartiq/nowaikit
 stars: 16
-language: "TypeScript"
-last_updated: "2026-09-03T22:01:59Z"
-discovered_at: "2026-09-03T22:06:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T22:01:59Z'
+discovered_at: '2026-09-03T22:06:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

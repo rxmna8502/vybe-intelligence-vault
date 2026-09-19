@@ -1,19 +1,30 @@
 ---
-title: "CM0411/amber"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PyTorch", "CUDA", "systemd", "Mermaid.js", "Arch Linux"]
+title: CM0411/amber
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- PyTorch
+- CUDA
+- systemd
+- Mermaid.js
+- Arch Linux
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["continual learning", "deterministic AI", "lifelong learning", "transformer", "measurement-first"]
-source: "https://github.com/CM0411/amber"
+deployment_complexity: High
+tags:
+- continual learning
+- deterministic AI
+- lifelong learning
+- transformer
+- measurement-first
+source: https://github.com/CM0411/amber
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T21:33:41Z"
-discovered_at: "2026-08-09T21:35:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T21:33:41Z'
+discovered_at: '2026-08-09T21:35:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "w4n9H/mangopi-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI API", "DeepSeek API", "MiniMax API", "Bocha AI Search", "Shell scripting"]
+title: w4n9H/mangopi-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- OpenAI API
+- DeepSeek API
+- MiniMax API
+- Bocha AI Search
+- Shell scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["autonomous coding", "local-first", "zero-dependency", "terminal agent", "hackable"]
-source: "https://github.com/w4n9H/mangopi-cli"
+deployment_complexity: Low
+tags:
+- autonomous coding
+- local-first
+- zero-dependency
+- terminal agent
+- hackable
+source: https://github.com/w4n9H/mangopi-cli
 stars: 30
-language: "Python"
-last_updated: "2026-07-14T10:03:08Z"
-discovered_at: "2026-07-14T10:07:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T10:03:08Z'
+discovered_at: '2026-07-14T10:07:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

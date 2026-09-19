@@ -1,19 +1,36 @@
 ---
-title: "toolpack-ai/toolpack-sdk"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "OpenAI API", "Anthropic API", "Google Gemini API", "Ollama", "OpenRouter", "Kubernetes (kubectl)", "MCP (Model Context Protocol)", "SQLite", "PostgreSQL", "MySQL"]
+title: toolpack-ai/toolpack-sdk
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- OpenAI API
+- Anthropic API
+- Google Gemini API
+- Ollama
+- OpenRouter
+- Kubernetes (kubectl)
+- MCP (Model Context Protocol)
+- SQLite
+- PostgreSQL
+- MySQL
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agents", "RAG", "multi-provider", "workflow engine", "MCP integration"]
-source: "https://github.com/toolpack-ai/toolpack-sdk"
+deployment_complexity: Medium
+tags:
+- AI agents
+- RAG
+- multi-provider
+- workflow engine
+- MCP integration
+source: https://github.com/toolpack-ai/toolpack-sdk
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-12T08:12:22Z"
-discovered_at: "2026-07-12T08:15:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T08:12:22Z'
+discovered_at: '2026-07-12T08:15:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

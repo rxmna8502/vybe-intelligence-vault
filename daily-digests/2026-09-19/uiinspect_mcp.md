@@ -1,19 +1,34 @@
 ---
-title: "ChrisPulman/UIInspect.MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "UI Automation 3 (UIA3)", "FlaUI", "Model Context Protocol (MCP)", "WPF", "WinForms", "WinUI 3", "Avalonia", ".NET MAUI"]
+title: ChrisPulman/UIInspect.MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- C#
+- .NET 10
+- UI Automation 3 (UIA3)
+- FlaUI
+- Model Context Protocol (MCP)
+- WPF
+- WinForms
+- WinUI 3
+- Avalonia
+- .NET MAUI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Windows UI Automation", "MCP Server", "AI Agent Tools", "Desktop Application Inspection", "Structured UI Access"]
-source: "https://github.com/ChrisPulman/UIInspect.MCP"
+deployment_complexity: Medium
+tags:
+- Windows UI Automation
+- MCP Server
+- AI Agent Tools
+- Desktop Application Inspection
+- Structured UI Access
+source: https://github.com/ChrisPulman/UIInspect.MCP
 stars: 1
-language: "C#"
-last_updated: "2026-08-07T21:40:02Z"
-discovered_at: "2026-08-07T21:41:18Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T21:40:02Z'
+discovered_at: '2026-08-07T21:41:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

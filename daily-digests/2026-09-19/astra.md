@@ -1,19 +1,33 @@
 ---
-title: "matrixorigin/Astra"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "Docker", "MatrixOne", "Memoria", "Axum", "MCP", "SQL", "LLM APIs"]
+title: matrixorigin/Astra
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- TypeScript
+- Docker
+- MatrixOne
+- Memoria
+- Axum
+- MCP
+- SQL
+- LLM APIs
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["agent runtime", "enterprise automation", "context assembly", "policy governance", "traceability"]
-source: "https://github.com/matrixorigin/Astra"
+deployment_complexity: High
+tags:
+- agent runtime
+- enterprise automation
+- context assembly
+- policy governance
+- traceability
+source: https://github.com/matrixorigin/Astra
 stars: 6
-language: "Rust"
-last_updated: "2026-09-03T02:08:22Z"
-discovered_at: "2026-09-03T02:18:49Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T02:08:22Z'
+discovered_at: '2026-09-03T02:18:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

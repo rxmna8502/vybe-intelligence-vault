@@ -1,19 +1,32 @@
 ---
-title: "mrktchris/fama"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Electron", "Server-Sent Events (SSE)", "OpenAI API", "SAPI (Windows Speech API)", "JSONL", "CI/CD (GitHub Actions)"]
+title: mrktchris/fama
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- Electron
+- Server-Sent Events (SSE)
+- OpenAI API
+- SAPI (Windows Speech API)
+- JSONL
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Claude Code", "Agent Monitoring", "Real-time Dashboard", "Local-first", "Voice Narration"]
-source: "https://github.com/mrktchris/fama"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- Agent Monitoring
+- Real-time Dashboard
+- Local-first
+- Voice Narration
+source: https://github.com/mrktchris/fama
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-10T20:01:27Z"
-discovered_at: "2026-08-10T20:02:02Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T20:01:27Z'
+discovered_at: '2026-08-10T20:02:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-09-19T18:06:58.965594+05:30'
-published_at: '2026-09-19T11:57:23Z'
+collected_at: '2026-09-20T00:11:46.779726+05:30'
+published_at: '2026-09-19T13:59:58Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - python
 - rag
-stars: 272
+stars: 271
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-09-19T18:06:58.965594+05:30'
-last_seen: '2026-09-19T18:06:58.965594+05:30'
-last_checked: '2026-09-19T18:06:58.965594+05:30'
+first_seen: '2026-09-20T00:11:46.779726+05:30'
+last_seen: '2026-09-20T00:11:46.779726+05:30'
+last_checked: '2026-09-20T00:11:46.779726+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Introduces RAGTruth, a specialized corpus designed for identifying and mitigating hallucinations in Retrieval-Augmented Language Models (RAG LMs).
-*   Provides a dataset specifically curated to evaluate and enhance the trustworthiness of RAG systems by exposing factual inconsistencies.
-*   Facilitates the development of RAG models with improved reliability and factual grounding through targeted hallucination analysis.
+*   RAGTruth is a novel hallucination corpus specifically designed for evaluating and developing trustworthy Retrieval-Augmented Language Models (RAGs).
+*   The corpus facilitates the identification and mitigation of factual inconsistencies and generated falsehoods in RAG outputs.
+*   Implemented in Python, the repository provides a resource for benchmarking RAG models against hallucination metrics
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ParticleMedia
-- Stars: 272
+- Stars: 271
 - Forks: 35
 - Language: Python
 - Topics: None
-- Last Updated: 2026-09-19T11:57:23Z
+- Last Updated: 2026-09-19T13:59:58Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

@@ -1,19 +1,34 @@
 ---
-title: "TourAround/LystBot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "React Native", "Node.js", "REST API", "MCP (Model Context Protocol)", "CLI", "iOS", "Android", "TypeScript", "Express.js"]
+title: TourAround/LystBot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- React Native
+- Node.js
+- REST API
+- MCP (Model Context Protocol)
+- CLI
+- iOS
+- Android
+- TypeScript
+- Express.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI integration", "list management", "reminders", "multi-platform", "agent orchestration"]
-source: "https://github.com/TourAround/LystBot"
+deployment_complexity: Medium
+tags:
+- AI integration
+- list management
+- reminders
+- multi-platform
+- agent orchestration
+source: https://github.com/TourAround/LystBot
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-05T11:14:14Z"
-discovered_at: "2026-08-05T11:22:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T11:14:14Z'
+discovered_at: '2026-08-05T11:22:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

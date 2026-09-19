@@ -1,19 +1,30 @@
 ---
-title: "api-evangelist/ironcore-labs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Encryption", "SaaS", "Elasticsearch", "OpenSearch", "AI Workloads", "Tenant-Controlled Keys"]
+title: api-evangelist/ironcore-labs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Encryption
+- SaaS
+- Elasticsearch
+- OpenSearch
+- AI Workloads
+- Tenant-Controlled Keys
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["encryption", "data privacy", "SaaS security", "AI workloads", "tenant isolation"]
-source: "https://github.com/api-evangelist/ironcore-labs"
+deployment_complexity: Medium
+tags:
+- encryption
+- data privacy
+- SaaS security
+- AI workloads
+- tenant isolation
+source: https://github.com/api-evangelist/ironcore-labs
 stars: 0
-language: "None"
-last_updated: "2026-08-08T01:10:50Z"
-discovered_at: "2026-08-08T01:27:25Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T01:10:50Z'
+discovered_at: '2026-08-08T01:27:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

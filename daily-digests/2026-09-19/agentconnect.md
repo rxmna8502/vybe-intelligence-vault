@@ -1,19 +1,34 @@
 ---
-title: "agentconnect-md/agentconnect"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "Docker", "React", "WebSockets", "ACP (Agent Communication Protocol)", "MCP (Model Context Protocol)", "OpenConnector", "pnpm"]
+title: agentconnect-md/agentconnect
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- Docker
+- React
+- WebSockets
+- ACP (Agent Communication Protocol)
+- MCP (Model Context Protocol)
+- OpenConnector
+- pnpm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "multi-platform collaboration", "self-hosted agents", "team workflow integration", "agent runtime management"]
-source: "https://github.com/agentconnect-md/agentconnect"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- multi-platform collaboration
+- self-hosted agents
+- team workflow integration
+- agent runtime management
+source: https://github.com/agentconnect-md/agentconnect
 stars: 10
-language: "TypeScript"
-last_updated: "2026-08-01T03:34:52Z"
-discovered_at: "2026-08-01T03:43:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:34:52Z'
+discovered_at: '2026-08-01T03:43:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

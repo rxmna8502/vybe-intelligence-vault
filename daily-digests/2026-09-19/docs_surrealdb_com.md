@@ -1,19 +1,32 @@
 ---
-title: "surrealdb/docs.surrealdb.com"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MDX", "Astro", "Vike", "Bun", "Node.js", "TypeScript", "JavaScript", "Markdown"]
+title: surrealdb/docs.surrealdb.com
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- MDX
+- Astro
+- Vike
+- Bun
+- Node.js
+- TypeScript
+- JavaScript
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["documentation", "database", "cloud-native", "developer-tools", "tutorials"]
-source: "https://github.com/surrealdb/docs.surrealdb.com"
+deployment_complexity: Medium
+tags:
+- documentation
+- database
+- cloud-native
+- developer-tools
+- tutorials
+source: https://github.com/surrealdb/docs.surrealdb.com
 stars: 119
-language: "MDX"
-last_updated: "2026-08-09T17:30:15Z"
-discovered_at: "2026-08-09T17:35:39Z"
-evaluated_by: "mistral-small-latest"
+language: MDX
+last_updated: '2026-08-09T17:30:15Z'
+discovered_at: '2026-08-09T17:35:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

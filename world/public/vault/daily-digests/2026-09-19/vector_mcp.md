@@ -1,19 +1,33 @@
 ---
-title: "sergiobayona/vector_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Ruby", "Rack", "Rails", "HTTP/JSON-RPC", "Model Context Protocol (MCP)", "Middleware", "Authentication", "Authorization", "SSE (Server-Sent Events)"]
+title: sergiobayona/vector_mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Ruby
+- Rack
+- Rails
+- HTTP/JSON-RPC
+- Model Context Protocol (MCP)
+- Middleware
+- Authentication
+- Authorization
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Ruby Framework", "Streamable HTTP", "Rails Integration", "Tool Orchestration"]
-source: "https://github.com/sergiobayona/vector_mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Ruby Framework
+- Streamable HTTP
+- Rails Integration
+- Tool Orchestration
+source: https://github.com/sergiobayona/vector_mcp
 stars: 13
-language: "Ruby"
-last_updated: "2026-07-19T15:54:39Z"
-discovered_at: "2026-07-19T15:56:47Z"
-evaluated_by: "mistral-small-latest"
+language: Ruby
+last_updated: '2026-07-19T15:54:39Z'
+discovered_at: '2026-07-19T15:56:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

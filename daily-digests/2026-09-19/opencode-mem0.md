@@ -1,19 +1,32 @@
 ---
-title: "ZeR020/opencode-mem0"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "SQLite", "USearch", "Bun", "Node.js", "OpenAI API", "Anthropic API", "Google Gemini API"]
+title: ZeR020/opencode-mem0
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- SQLite
+- USearch
+- Bun
+- Node.js
+- OpenAI API
+- Anthropic API
+- Google Gemini API
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["persistent memory", "local vector database", "coding agents", "auto-capture", "agent tooling"]
-source: "https://github.com/ZeR020/opencode-mem0"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- local vector database
+- coding agents
+- auto-capture
+- agent tooling
+source: https://github.com/ZeR020/opencode-mem0
 stars: 12
-language: "TypeScript"
-last_updated: "2026-08-10T09:22:00Z"
-discovered_at: "2026-08-10T09:25:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T09:22:00Z'
+discovered_at: '2026-08-10T09:25:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

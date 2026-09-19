@@ -1,19 +1,29 @@
 ---
-title: "akira-init1/ChannelTerm"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Serial Communication", "HTTP/Streamable HTTP", "CLI Tools"]
+title: akira-init1/ChannelTerm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Serial Communication
+- HTTP/Streamable HTTP
+- CLI Tools
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["shared terminal", "serial communication", "MCP integration", "hardware debugging", "human-AI collaboration"]
-source: "https://github.com/akira-init1/ChannelTerm"
+deployment_complexity: Medium
+tags:
+- shared terminal
+- serial communication
+- MCP integration
+- hardware debugging
+- human-AI collaboration
+source: https://github.com/akira-init1/ChannelTerm
 stars: 0
-language: "Go"
-last_updated: "2026-09-01T09:02:12Z"
-discovered_at: "2026-09-01T09:10:05Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T09:02:12Z'
+discovered_at: '2026-09-01T09:10:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

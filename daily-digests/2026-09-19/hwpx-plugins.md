@@ -1,19 +1,30 @@
 ---
-title: "airmang/hwpx-plugins"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "HWPX (Hangul Word Processor XML)", "MCP (Model Context Protocol)", "lxml", "PyPI", "Apache License 2.0"]
+title: airmang/hwpx-plugins
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- HWPX (Hangul Word Processor XML)
+- MCP (Model Context Protocol)
+- lxml
+- PyPI
+- Apache License 2.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["HWPX automation", "AI agent skills", "document processing", "form filling", "Hangul Office"]
-source: "https://github.com/airmang/hwpx-plugins"
+deployment_complexity: Medium
+tags:
+- HWPX automation
+- AI agent skills
+- document processing
+- form filling
+- Hangul Office
+source: https://github.com/airmang/hwpx-plugins
 stars: 19
-language: "Python"
-last_updated: "2026-07-15T02:01:23Z"
-discovered_at: "2026-07-15T02:12:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T02:01:23Z'
+discovered_at: '2026-07-15T02:12:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "eschaar/vstack"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PyYAML", "VS Code", "GitHub Copilot Agent Mode", "CLI"]
+title: eschaar/vstack
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- PyYAML
+- VS Code
+- GitHub Copilot Agent Mode
+- CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI workflows", "VS Code integration", "GitHub Copilot", "backend development", "agent orchestration"]
-source: "https://github.com/eschaar/vstack"
+deployment_complexity: Low
+tags:
+- AI workflows
+- VS Code integration
+- GitHub Copilot
+- backend development
+- agent orchestration
+source: https://github.com/eschaar/vstack
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T19:06:17Z"
-discovered_at: "2026-07-19T19:13:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T19:06:17Z'
+discovered_at: '2026-07-19T19:13:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

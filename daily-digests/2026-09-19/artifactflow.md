@@ -1,19 +1,34 @@
 ---
-title: "Gadsotek/artifactflow"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PHP", "Laravel", "PostgreSQL", "Docker", "JavaScript", "HTML/CSS", "Mermaid.js", "Model Context Protocol (MCP)", "Sigstore", "Trivy"]
+title: Gadsotek/artifactflow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- PHP
+- Laravel
+- PostgreSQL
+- Docker
+- JavaScript
+- HTML/CSS
+- Mermaid.js
+- Model Context Protocol (MCP)
+- Sigstore
+- Trivy
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["artifact management", "AI output vault", "versioning", "security isolation", "self-hosted"]
-source: "https://github.com/Gadsotek/artifactflow"
+deployment_complexity: High
+tags:
+- artifact management
+- AI output vault
+- versioning
+- security isolation
+- self-hosted
+source: https://github.com/Gadsotek/artifactflow
 stars: 3
-language: "PHP"
-last_updated: "2026-08-04T07:38:39Z"
-discovered_at: "2026-08-04T07:41:38Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-04T07:38:39Z'
+discovered_at: '2026-08-04T07:41:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

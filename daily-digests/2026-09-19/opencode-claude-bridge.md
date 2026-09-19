@@ -1,19 +1,28 @@
 ---
-title: "Oedexcogitator347/opencode-claude-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows", "Claude CLI", "OpenCode"]
+title: Oedexcogitator347/opencode-claude-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Windows
+- Claude CLI
+- OpenCode
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["credential sync", "Windows plugin", "Claude integration", "OpenCode", "login automation"]
-source: "https://github.com/Oedexcogitator347/opencode-claude-bridge"
+deployment_complexity: Low
+tags:
+- credential sync
+- Windows plugin
+- Claude integration
+- OpenCode
+- login automation
+source: https://github.com/Oedexcogitator347/opencode-claude-bridge
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T21:47:17Z"
-discovered_at: "2026-07-12T21:47:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T21:47:17Z'
+discovered_at: '2026-07-12T21:47:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

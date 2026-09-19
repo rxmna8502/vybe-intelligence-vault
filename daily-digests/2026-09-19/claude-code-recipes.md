@@ -1,19 +1,28 @@
 ---
-title: "halflength-ampleness75/claude-code-recipes"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "Claude Code", "MCP (Model Context Protocol)", "Windows CLI"]
+title: halflength-ampleness75/claude-code-recipes
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Shell
+- Claude Code
+- MCP (Model Context Protocol)
+- Windows CLI
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["Claude Code", "automation", "subagents", "MCP", "workflow extension"]
-source: "https://github.com/halflength-ampleness75/claude-code-recipes"
+deployment_complexity: Low
+tags:
+- Claude Code
+- automation
+- subagents
+- MCP
+- workflow extension
+source: https://github.com/halflength-ampleness75/claude-code-recipes
 stars: 2
-language: "Shell"
-last_updated: "2026-07-12T13:29:06Z"
-discovered_at: "2026-07-12T13:36:13Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-12T13:29:06Z'
+discovered_at: '2026-07-12T13:36:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

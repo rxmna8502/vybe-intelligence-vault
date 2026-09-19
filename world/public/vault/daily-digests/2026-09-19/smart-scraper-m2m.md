@@ -1,19 +1,28 @@
 ---
-title: "MRIGL/smart-scraper-m2m"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Express.js", "Vercel"]
+title: MRIGL/smart-scraper-m2m
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- JavaScript
+- Node.js
+- Express.js
+- Vercel
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["web scraping", "M2M API", "AI agents", "structured data", "autonomous agents"]
-source: "https://github.com/MRIGL/smart-scraper-m2m"
+deployment_complexity: Low
+tags:
+- web scraping
+- M2M API
+- AI agents
+- structured data
+- autonomous agents
+source: https://github.com/MRIGL/smart-scraper-m2m
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-02T15:48:50Z"
-discovered_at: "2026-09-02T15:49:37Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T15:48:50Z'
+discovered_at: '2026-09-02T15:49:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "pseudotop/maekon-client"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri v2", "React", "SQLite", "OCR", "WebView", "TypeScript", "Python (for some automation scripts)", "Docker (for build environments)"]
+title: pseudotop/maekon-client
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- Tauri v2
+- React
+- SQLite
+- OCR
+- WebView
+- TypeScript
+- Python (for some automation scripts)
+- Docker (for build environments)
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["local-first", "desktop agent", "productivity tool", "policy-gated automation", "cross-platform"]
-source: "https://github.com/pseudotop/maekon-client"
+deployment_complexity: Medium
+tags:
+- local-first
+- desktop agent
+- productivity tool
+- policy-gated automation
+- cross-platform
+source: https://github.com/pseudotop/maekon-client
 stars: 1
-language: "Rust"
-last_updated: "2026-08-02T21:46:49Z"
-discovered_at: "2026-08-02T21:55:46Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T21:46:49Z'
+discovered_at: '2026-08-02T21:55:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

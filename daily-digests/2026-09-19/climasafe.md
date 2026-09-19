@@ -1,19 +1,40 @@
 ---
-title: "ANFAIA/ClimaSafe"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "XGBoost", "RandomForest", "LSTM", "MLflow", "Jupyter Notebook", "ERA5 (ECMWF)", "AEMET OpenData", "Open-Meteo API", "Open UV", "MoMo (ISCIII)", "Telegram Bot API", "Groq API", "Gemini API", "SHAP", "Conformal Prediction"]
+title: ANFAIA/ClimaSafe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- XGBoost
+- RandomForest
+- LSTM
+- MLflow
+- Jupyter Notebook
+- ERA5 (ECMWF)
+- AEMET OpenData
+- Open-Meteo API
+- Open UV
+- MoMo (ISCIII)
+- Telegram Bot API
+- Groq API
+- Gemini API
+- SHAP
+- Conformal Prediction
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["early warning system", "heat and cold risk prediction", "machine learning ensemble", "meteorological data integration", "mortality risk modeling"]
-source: "https://github.com/ANFAIA/ClimaSafe"
+deployment_complexity: High
+tags:
+- early warning system
+- heat and cold risk prediction
+- machine learning ensemble
+- meteorological data integration
+- mortality risk modeling
+source: https://github.com/ANFAIA/ClimaSafe
 stars: 3
-language: "Jupyter Notebook"
-last_updated: "2026-08-07T14:11:16Z"
-discovered_at: "2026-08-07T14:19:06Z"
-evaluated_by: "mistral-small-latest"
+language: Jupyter Notebook
+last_updated: '2026-08-07T14:11:16Z'
+discovered_at: '2026-08-07T14:19:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

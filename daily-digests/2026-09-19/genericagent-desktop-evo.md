@@ -1,19 +1,29 @@
 ---
-title: "WSL043/GenericAgent-Desktop-Evo"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PowerShell", "GenericAgent", "DeepSeek", "Windows Desktop Shell"]
+title: WSL043/GenericAgent-Desktop-Evo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- PowerShell
+- GenericAgent
+- DeepSeek
+- Windows Desktop Shell
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["agent framework", "desktop integration", "cache optimization", "long-conversation UX", "community customization"]
-source: "https://github.com/WSL043/GenericAgent-Desktop-Evo"
+deployment_complexity: Medium
+tags:
+- agent framework
+- desktop integration
+- cache optimization
+- long-conversation UX
+- community customization
+source: https://github.com/WSL043/GenericAgent-Desktop-Evo
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T21:34:00Z"
-discovered_at: "2026-08-09T21:35:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T21:34:00Z'
+discovered_at: '2026-08-09T21:35:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

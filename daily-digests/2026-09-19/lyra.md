@@ -1,19 +1,33 @@
 ---
-title: "lyraai-protocol/lyra"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Sui Blockchain", "Move Language", "OpenAI API", "Next.js", "Telegram Bot API", "Node.js", "SQLite"]
+title: lyraai-protocol/lyra
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Bun
+- Sui Blockchain
+- Move Language
+- OpenAI API
+- Next.js
+- Telegram Bot API
+- Node.js
+- SQLite
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI finance agent", "non-custodial", "Sui blockchain", "policy enforcement", "vault management"]
-source: "https://github.com/lyraai-protocol/lyra"
+deployment_complexity: Medium
+tags:
+- AI finance agent
+- non-custodial
+- Sui blockchain
+- policy enforcement
+- vault management
+source: https://github.com/lyraai-protocol/lyra
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-11T13:07:12Z"
-discovered_at: "2026-07-11T13:14:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T13:07:12Z'
+discovered_at: '2026-07-11T13:14:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

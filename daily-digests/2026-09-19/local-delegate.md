@@ -1,19 +1,30 @@
 ---
-title: "ZahiriNatZuke/local-delegate"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "OpenAI API", "uv (package manager)", "Docker (optional)"]
+title: ZahiriNatZuke/local-delegate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- OpenAI API
+- uv (package manager)
+- Docker (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "local LLM", "Claude quota saver", "text processing", "OpenAI-compatible"]
-source: "https://github.com/ZahiriNatZuke/local-delegate"
+deployment_complexity: Medium
+tags:
+- MCP server
+- local LLM
+- Claude quota saver
+- text processing
+- OpenAI-compatible
+source: https://github.com/ZahiriNatZuke/local-delegate
 stars: 5
-language: "Python"
-last_updated: "2026-08-01T19:10:35Z"
-discovered_at: "2026-08-01T19:19:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:10:35Z'
+discovered_at: '2026-08-01T19:19:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

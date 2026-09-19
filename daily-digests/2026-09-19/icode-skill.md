@@ -1,19 +1,30 @@
 ---
-title: "ayukyo/icode-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Python", "MCP (Model Context Protocol)", "Shell Scripting", "OpenAI Chat Completions API", "FFmpeg (for video processing)"]
+title: ayukyo/icode-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Claude Code
+- Python
+- MCP (Model Context Protocol)
+- Shell Scripting
+- OpenAI Chat Completions API
+- FFmpeg (for video processing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Claude Code", "workflow automation", "code review", "adversarial verification", "multi-model switching"]
-source: "https://github.com/ayukyo/icode-skill"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- workflow automation
+- code review
+- adversarial verification
+- multi-model switching
+source: https://github.com/ayukyo/icode-skill
 stars: 3
-language: "Python"
-last_updated: "2026-08-05T02:03:53Z"
-discovered_at: "2026-08-05T02:17:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T02:03:53Z'
+discovered_at: '2026-08-05T02:17:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

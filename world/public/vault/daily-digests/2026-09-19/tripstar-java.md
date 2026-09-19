@@ -1,19 +1,43 @@
 ---
-title: "LeeFly-cn/TripStar-Java"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 21", "Spring Boot 4.0.7", "Spring AI 2.0.0-M1", "Spring AI Alibaba 2.0.0-M1.1", "Spring AI Alibaba StateGraph", "Spring AI ReactAgent", "Spring AI Tool Calling", "Spring AI Structured Output", "Spring AI Multimodal Message", "Maven", "MyBatis-Plus", "Sa-Token", "Redis", "MySQL", "Amap Web Service API", "Node.js", "Xiaohongshu API", "WebSocket", "AI Trace Logging"]
+title: LeeFly-cn/TripStar-Java
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-19
+tech_stack:
+- Java 21
+- Spring Boot 4.0.7
+- Spring AI 2.0.0-M1
+- Spring AI Alibaba 2.0.0-M1.1
+- Spring AI Alibaba StateGraph
+- Spring AI ReactAgent
+- Spring AI Tool Calling
+- Spring AI Structured Output
+- Spring AI Multimodal Message
+- Maven
+- MyBatis-Plus
+- Sa-Token
+- Redis
+- MySQL
+- Amap Web Service API
+- Node.js
+- Xiaohongshu API
+- WebSocket
+- AI Trace Logging
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["multi-agent", "travel planning", "AI workflow", "multimodal understanding", "real-time data integration"]
-source: "https://github.com/LeeFly-cn/TripStar-Java"
+deployment_complexity: High
+tags:
+- multi-agent
+- travel planning
+- AI workflow
+- multimodal understanding
+- real-time data integration
+source: https://github.com/LeeFly-cn/TripStar-Java
 stars: 43
-language: "JavaScript"
-last_updated: "2026-07-20T02:40:43Z"
-discovered_at: "2026-07-20T02:44:53Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-20T02:40:43Z'
+discovered_at: '2026-07-20T02:44:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

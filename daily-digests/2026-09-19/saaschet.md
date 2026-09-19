@@ -1,19 +1,38 @@
 ---
-title: "BangDills/saaschet"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "Vercel AI SDK", "Supabase (Postgres + Auth + RLS)", "Fireworks AI", "Jina AI", "Tavily AI", "Context7", "GitHub API", "Recharts", "Docker", "Coolify"]
+title: BangDills/saaschet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- Vercel AI SDK
+- Supabase (Postgres + Auth + RLS)
+- Fireworks AI
+- Jina AI
+- Tavily AI
+- Context7
+- GitHub API
+- Recharts
+- Docker
+- Coolify
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "multi-model LLM", "GitHub integration", "live sandbox", "agent orchestration"]
-source: "https://github.com/BangDills/saaschet"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- multi-model LLM
+- GitHub integration
+- live sandbox
+- agent orchestration
+source: https://github.com/BangDills/saaschet
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-01T09:04:58Z"
-discovered_at: "2026-08-01T09:06:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T09:04:58Z'
+discovered_at: '2026-08-01T09:06:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

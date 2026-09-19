@@ -1,19 +1,28 @@
 ---
-title: "pipeworx-io/mcp-zenodo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "AI Agent Integration"]
+title: pipeworx-io/mcp-zenodo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST API
+- AI Agent Integration
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Zenodo", "MCP", "Research Data", "AI Agents", "Open Access"]
-source: "https://github.com/pipeworx-io/mcp-zenodo"
+deployment_complexity: Low
+tags:
+- Zenodo
+- MCP
+- Research Data
+- AI Agents
+- Open Access
+source: https://github.com/pipeworx-io/mcp-zenodo
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T07:31:53Z"
-discovered_at: "2026-08-04T07:41:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:31:53Z'
+discovered_at: '2026-08-04T07:41:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

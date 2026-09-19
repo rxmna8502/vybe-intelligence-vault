@@ -1,19 +1,31 @@
 ---
-title: "kollaborativeai/cccollab"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Convex", "Clerk", "Yarn 4", "Claude Code"]
+title: kollaborativeai/cccollab
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Convex
+- Clerk
+- Yarn 4
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "real-time collaboration", "Claude Code integration", "Convex backend", "session coordination"]
-source: "https://github.com/kollaborativeai/cccollab"
+deployment_complexity: Medium
+tags:
+- MCP server
+- real-time collaboration
+- Claude Code integration
+- Convex backend
+- session coordination
+source: https://github.com/kollaborativeai/cccollab
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T21:54:31Z"
-discovered_at: "2026-08-01T21:55:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T21:54:31Z'
+discovered_at: '2026-08-01T21:55:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "letrquan/book"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Ink/React", "MCP (Model Context Protocol)", "YAML", "JSONL", "Bash", "Git"]
+title: letrquan/book
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- Ink/React
+- MCP (Model Context Protocol)
+- YAML
+- JSONL
+- Bash
+- Git
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "terminal UI", "provider-agnostic", "persistent sessions", "MCP integration"]
-source: "https://github.com/letrquan/book"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- terminal UI
+- provider-agnostic
+- persistent sessions
+- MCP integration
+source: https://github.com/letrquan/book
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-02T02:03:27Z"
-discovered_at: "2026-09-02T02:12:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T02:03:27Z'
+discovered_at: '2026-09-02T02:12:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

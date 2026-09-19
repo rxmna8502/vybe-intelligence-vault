@@ -1,19 +1,31 @@
 ---
-title: "Cognitohazard/ltspice-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LTspice", "ngspice", "spicelib", "MCP (Model Context Protocol)", "TOML", "SQLite"]
+title: Cognitohazard/ltspice-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- LTspice
+- ngspice
+- spicelib
+- MCP (Model Context Protocol)
+- TOML
+- SQLite
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["circuit simulation", "MCP server", "SPICE", "LLM integration", "schematic editing"]
-source: "https://github.com/Cognitohazard/ltspice-mcp"
+deployment_complexity: Medium
+tags:
+- circuit simulation
+- MCP server
+- SPICE
+- LLM integration
+- schematic editing
+source: https://github.com/Cognitohazard/ltspice-mcp
 stars: 17
-language: "Python"
-last_updated: "2026-07-10T23:01:47Z"
-discovered_at: "2026-07-10T23:08:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T23:01:47Z'
+discovered_at: '2026-07-10T23:08:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

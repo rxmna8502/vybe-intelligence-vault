@@ -1,19 +1,32 @@
 ---
-title: "P-R-N-D/SparkCrew"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Django", "Django REST Framework", "Python", "SQLite"]
+title: P-R-N-D/SparkCrew
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Django
+- Django REST Framework
+- Python
+- SQLite
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI collaboration", "multi-agent systems", "context sharing", "task automation", "team workspace"]
-source: "https://github.com/P-R-N-D/SparkCrew"
+deployment_complexity: Medium
+tags:
+- AI collaboration
+- multi-agent systems
+- context sharing
+- task automation
+- team workspace
+source: https://github.com/P-R-N-D/SparkCrew
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T13:48:13Z"
-discovered_at: "2026-08-09T13:53:53Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T13:48:13Z'
+discovered_at: '2026-08-09T13:53:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

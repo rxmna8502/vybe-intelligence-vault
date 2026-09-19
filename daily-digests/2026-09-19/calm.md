@@ -1,19 +1,34 @@
 ---
-title: "Eilodon/CALM"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "JavaScript", "Python", "Tree-sitter", "SCIP", "LSP", "MCP (Model Context Protocol)", "Node.js", "CLI"]
+title: Eilodon/CALM
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- TypeScript
+- JavaScript
+- Python
+- Tree-sitter
+- SCIP
+- LSP
+- MCP (Model Context Protocol)
+- Node.js
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["code intelligence", "call graph", "AI agent safety", "dependency mapping", "live indexing"]
-source: "https://github.com/Eilodon/CALM"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- call graph
+- AI agent safety
+- dependency mapping
+- live indexing
+source: https://github.com/Eilodon/CALM
 stars: 15
-language: "Rust"
-last_updated: "2026-08-01T03:25:17Z"
-discovered_at: "2026-08-01T03:44:22Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:25:17Z'
+discovered_at: '2026-08-01T03:44:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

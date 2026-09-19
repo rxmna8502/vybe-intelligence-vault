@@ -1,19 +1,29 @@
 ---
-title: "SavithOnline/GimpMCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "GIMP 3.0", "Script-Fu", "GEGL"]
+title: SavithOnline/GimpMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- GIMP 3.0
+- Script-Fu
+- GEGL
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "GIMP automation", "image editing", "LLM integration", "real-time editing"]
-source: "https://github.com/SavithOnline/GimpMCP"
+deployment_complexity: Medium
+tags:
+- MCP server
+- GIMP automation
+- image editing
+- LLM integration
+- real-time editing
+source: https://github.com/SavithOnline/GimpMCP
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T13:34:33Z"
-discovered_at: "2026-07-12T13:36:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T13:34:33Z'
+discovered_at: '2026-07-12T13:36:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

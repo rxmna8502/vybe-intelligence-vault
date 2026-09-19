@@ -1,19 +1,31 @@
 ---
-title: "jgbright/mcp-dotnet"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "Model Context Protocol (MCP)", "Microsoft Graph API", "Azure DevOps REST API", "Entra ID (Azure Active Directory)", "NuGet"]
+title: jgbright/mcp-dotnet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- C#
+- .NET 10
+- Model Context Protocol (MCP)
+- Microsoft Graph API
+- Azure DevOps REST API
+- Entra ID (Azure Active Directory)
+- NuGet
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Microsoft Teams integration", "Azure DevOps integration", "Entra ID authentication", "Model Context Protocol"]
-source: "https://github.com/jgbright/mcp-dotnet"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Microsoft Teams integration
+- Azure DevOps integration
+- Entra ID authentication
+- Model Context Protocol
+source: https://github.com/jgbright/mcp-dotnet
 stars: 0
-language: "C#"
-last_updated: "2026-08-03T13:34:58Z"
-discovered_at: "2026-08-03T13:42:29Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-03T13:34:58Z'
+discovered_at: '2026-08-03T13:42:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "junghan0611/entwurf"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "npm", "MCP (Model Context Protocol)", "ACP (Agent Control Protocol)", "Shell scripting", "gRPC", "REST APIs"]
+title: junghan0611/entwurf
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- MCP (Model Context Protocol)
+- ACP (Agent Control Protocol)
+- Shell scripting
+- gRPC
+- REST APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["garden-citizen", "agent orchestration", "cross-harness communication", "dispatch substrate", "meta-bridge"]
-source: "https://github.com/junghan0611/entwurf"
+deployment_complexity: Medium
+tags:
+- garden-citizen
+- agent orchestration
+- cross-harness communication
+- dispatch substrate
+- meta-bridge
+source: https://github.com/junghan0611/entwurf
 stars: 25
-language: "TypeScript"
-last_updated: "2026-08-08T12:43:03Z"
-discovered_at: "2026-08-08T12:47:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T12:43:03Z'
+discovered_at: '2026-08-08T12:47:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

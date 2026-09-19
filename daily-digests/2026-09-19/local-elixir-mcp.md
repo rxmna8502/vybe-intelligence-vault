@@ -1,19 +1,31 @@
 ---
-title: "ndrean/local-elixir-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Elixir", "SQLite", "sqlite-vec", "FTS5", "Mistral API", "MCP (Model Context Protocol)", "Litestream"]
+title: ndrean/local-elixir-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Elixir
+- SQLite
+- sqlite-vec
+- FTS5
+- Mistral API
+- MCP (Model Context Protocol)
+- Litestream
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "hybrid search", "knowledge memory", "Elixir", "local RAG"]
-source: "https://github.com/ndrean/local-elixir-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- hybrid search
+- knowledge memory
+- Elixir
+- local RAG
+source: https://github.com/ndrean/local-elixir-mcp
 stars: 0
-language: "Elixir"
-last_updated: "2026-08-01T15:59:41Z"
-discovered_at: "2026-08-01T16:07:00Z"
-evaluated_by: "mistral-small-latest"
+language: Elixir
+last_updated: '2026-08-01T15:59:41Z'
+discovered_at: '2026-08-01T16:07:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

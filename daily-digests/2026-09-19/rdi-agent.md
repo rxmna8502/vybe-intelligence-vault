@@ -1,19 +1,30 @@
 ---
-title: "liuhengyuan666/RDI-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LLM", "CLI", "Subprocess Tooling", "Memory Persistence"]
+title: liuhengyuan666/RDI-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- LangGraph
+- LLM
+- CLI
+- Subprocess Tooling
+- Memory Persistence
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Evidence-First", "Cognitive Guard Agent", "LangGraph", "Zero-Config", "Human-Audit Sovereignty"]
-source: "https://github.com/liuhengyuan666/RDI-Agent"
+deployment_complexity: Medium
+tags:
+- Evidence-First
+- Cognitive Guard Agent
+- LangGraph
+- Zero-Config
+- Human-Audit Sovereignty
+source: https://github.com/liuhengyuan666/RDI-Agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T16:19:28Z"
-discovered_at: "2026-08-03T16:25:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T16:19:28Z'
+discovered_at: '2026-08-03T16:25:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

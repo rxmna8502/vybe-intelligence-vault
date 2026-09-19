@@ -1,19 +1,38 @@
 ---
-title: "inbharatai/UnoOne-Local-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Jetpack Compose", "Android SDK", "LiteRT-LM", "Gemma 4 E2B", "Room (SQLite)", "Sherpa-ONNX", "ML Kit", "CameraX", "AndroidX WebKit", "Alibaba PageAgent", "Ed25519", "SHA-256", "Gradle"]
+title: inbharatai/UnoOne-Local-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Kotlin
+- Jetpack Compose
+- Android SDK
+- LiteRT-LM
+- Gemma 4 E2B
+- Room (SQLite)
+- Sherpa-ONNX
+- ML Kit
+- CameraX
+- AndroidX WebKit
+- Alibaba PageAgent
+- Ed25519
+- SHA-256
+- Gradle
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["offline AI agent", "Android accessibility", "local LLM", "voice control", "secure browser"]
-source: "https://github.com/inbharatai/UnoOne-Local-Agent"
+deployment_complexity: High
+tags:
+- offline AI agent
+- Android accessibility
+- local LLM
+- voice control
+- secure browser
+source: https://github.com/inbharatai/UnoOne-Local-Agent
 stars: 3
-language: "Kotlin"
-last_updated: "2026-07-16T10:53:46Z"
-discovered_at: "2026-07-16T10:58:03Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-07-16T10:53:46Z'
+discovered_at: '2026-07-16T10:58:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

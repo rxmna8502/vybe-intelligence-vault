@@ -1,19 +1,29 @@
 ---
-title: "gulfclamatores7360/llmception"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "LLM API Integration", "Local Encryption", "Parallel Processing"]
+title: gulfclamatores7360/llmception
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Windows API
+- LLM API Integration
+- Local Encryption
+- Parallel Processing
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["decision trees", "parallel LLM processing", "ambiguity resolution", "local-first", "creative workflow"]
-source: "https://github.com/gulfclamatores7360/llmception"
+deployment_complexity: Low
+tags:
+- decision trees
+- parallel LLM processing
+- ambiguity resolution
+- local-first
+- creative workflow
+source: https://github.com/gulfclamatores7360/llmception
 stars: 0
-language: "None"
-last_updated: "2026-07-11T11:00:40Z"
-discovered_at: "2026-07-11T11:03:50Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-11T11:00:40Z'
+discovered_at: '2026-07-11T11:03:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

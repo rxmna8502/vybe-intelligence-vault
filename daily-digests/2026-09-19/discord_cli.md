@@ -1,19 +1,32 @@
 ---
-title: "quangdang46/discord_cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "FTS5 (Full-Text Search)", "Discord API", "MCP (Model Context Protocol)", "Tokio", "LevelDB", "Claude Code"]
+title: quangdang46/discord_cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- SQLite
+- FTS5 (Full-Text Search)
+- Discord API
+- MCP (Model Context Protocol)
+- Tokio
+- LevelDB
+- Claude Code
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Discord automation", "CLI tool", "MCP server", "Offline search", "User account access"]
-source: "https://github.com/quangdang46/discord_cli"
+deployment_complexity: Medium
+tags:
+- Discord automation
+- CLI tool
+- MCP server
+- Offline search
+- User account access
+source: https://github.com/quangdang46/discord_cli
 stars: 2
-language: "Rust"
-last_updated: "2026-08-07T00:01:16Z"
-discovered_at: "2026-08-07T00:01:52Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T00:01:16Z'
+discovered_at: '2026-08-07T00:01:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

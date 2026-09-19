@@ -1,19 +1,31 @@
 ---
-title: "amajorai/ryu-simulator"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Node.js", "simctl", "adb", "HTTP API", "Sidecar Architecture"]
+title: amajorai/ryu-simulator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- simctl
+- adb
+- HTTP API
+- Sidecar Architecture
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["device automation", "iOS simulator", "Android emulator", "control server", "sidecar"]
-source: "https://github.com/amajorai/ryu-simulator"
+deployment_complexity: Medium
+tags:
+- device automation
+- iOS simulator
+- Android emulator
+- control server
+- sidecar
+source: https://github.com/amajorai/ryu-simulator
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T08:31:07Z"
-discovered_at: "2026-08-05T08:35:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:31:07Z'
+discovered_at: '2026-08-05T08:35:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

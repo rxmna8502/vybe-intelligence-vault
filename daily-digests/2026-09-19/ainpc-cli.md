@@ -1,19 +1,32 @@
 ---
-title: "jyswee/ainpc-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "TypeScript", "MCP (Model Context Protocol)", "REST API", "WebSocket", "CLI", "TTS (Text-to-Speech)", "AI Persona Generation"]
+title: jyswee/ainpc-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- REST API
+- WebSocket
+- CLI
+- TTS (Text-to-Speech)
+- AI Persona Generation
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI NPCs", "Persistent Memory", "MCP Server", "Game Development", "Agent Integration"]
-source: "https://github.com/jyswee/ainpc-cli"
+deployment_complexity: Medium
+tags:
+- AI NPCs
+- Persistent Memory
+- MCP Server
+- Game Development
+- Agent Integration
+source: https://github.com/jyswee/ainpc-cli
 stars: 0
-language: "None"
-last_updated: "2026-07-16T21:54:02Z"
-discovered_at: "2026-07-16T22:02:50Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-16T21:54:02Z'
+discovered_at: '2026-07-16T22:02:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

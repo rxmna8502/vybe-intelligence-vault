@@ -1,19 +1,39 @@
 ---
-title: "bcastelino/sec-financial-chatbot"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["React", "TypeScript", "FastAPI", "Python", "Cloudflare Workers", "D1 (SQLite)", "R2 (Object Storage)", "Workers AI", "Vectorize", "OpenRouter", "XBRL", "SEC EDGAR API", "Vite", "Vitest", "Playwright"]
+title: bcastelino/sec-financial-chatbot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- React
+- TypeScript
+- FastAPI
+- Python
+- Cloudflare Workers
+- D1 (SQLite)
+- R2 (Object Storage)
+- Workers AI
+- Vectorize
+- OpenRouter
+- XBRL
+- SEC EDGAR API
+- Vite
+- Vitest
+- Playwright
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["SEC filings", "RAG", "financial analysis", "document retrieval", "citation tracking"]
-source: "https://github.com/bcastelino/sec-financial-chatbot"
+deployment_complexity: High
+tags:
+- SEC filings
+- RAG
+- financial analysis
+- document retrieval
+- citation tracking
+source: https://github.com/bcastelino/sec-financial-chatbot
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-08T20:27:14Z"
-discovered_at: "2026-08-08T20:32:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T20:27:14Z'
+discovered_at: '2026-08-08T20:32:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

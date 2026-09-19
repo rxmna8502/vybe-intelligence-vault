@@ -1,19 +1,34 @@
 ---
-title: "Chengyuann/firstday-ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "Cloudflare Pages Functions", "Qwen3.7-Flash (LLM)", "Alibaba Cloud Bailian", "AI Copilot", "State Machines", "Docker"]
+title: Chengyuann/firstday-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- Cloudflare Pages Functions
+- Qwen3.7-Flash (LLM)
+- Alibaba Cloud Bailian
+- AI Copilot
+- State Machines
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-assisted assessment", "digital trial", "behavioral evidence", "job simulation", "AI collaboration"]
-source: "https://github.com/Chengyuann/firstday-ai"
+deployment_complexity: Medium
+tags:
+- AI-assisted assessment
+- digital trial
+- behavioral evidence
+- job simulation
+- AI collaboration
+source: https://github.com/Chengyuann/firstday-ai
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T16:01:04Z"
-discovered_at: "2026-08-07T16:01:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T16:01:04Z'
+discovered_at: '2026-08-07T16:01:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

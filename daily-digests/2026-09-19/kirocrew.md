@@ -1,19 +1,34 @@
 ---
-title: "kirodotdev/KiroCrew"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "TypeScript", "Docker", "SQLite", "ACP (Agent Communication Protocol)", "MCP (Model Context Protocol)", "React", "Electron", "FastAPI"]
+title: kirodotdev/KiroCrew
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Python
+- Node.js
+- TypeScript
+- Docker
+- SQLite
+- ACP (Agent Communication Protocol)
+- MCP (Model Context Protocol)
+- React
+- Electron
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["persistent agents", "self-improving systems", "multi-surface workflows", "long-running tasks", "modular AI workspace"]
-source: "https://github.com/kirodotdev/KiroCrew"
+deployment_complexity: Medium
+tags:
+- persistent agents
+- self-improving systems
+- multi-surface workflows
+- long-running tasks
+- modular AI workspace
+source: https://github.com/kirodotdev/KiroCrew
 stars: 252
-language: "Python"
-last_updated: "2026-08-04T19:31:42Z"
-discovered_at: "2026-08-04T19:32:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T19:31:42Z'
+discovered_at: '2026-08-04T19:32:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

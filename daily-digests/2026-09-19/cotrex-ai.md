@@ -1,19 +1,29 @@
 ---
-title: "pamod-madubashana/cotrex-ai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "JSON-RPC (MCP)", "llama.cpp", "Cargo", "CMake"]
+title: pamod-madubashana/cotrex-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- Rust
+- JSON-RPC (MCP)
+- llama.cpp
+- Cargo
+- CMake
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI orchestration", "protocol-first", "model abstraction", "agent OS", "inference pipeline"]
-source: "https://github.com/pamod-madubashana/cotrex-ai"
+deployment_complexity: Medium
+tags:
+- AI orchestration
+- protocol-first
+- model abstraction
+- agent OS
+- inference pipeline
+source: https://github.com/pamod-madubashana/cotrex-ai
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T22:48:20Z"
-discovered_at: "2026-08-01T22:54:56Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T22:48:20Z'
+discovered_at: '2026-08-01T22:54:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "robsannaa/storemetrics-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "HTTP/HTTPS", "JSON", "Streaming APIs", "RESTful APIs"]
+title: robsannaa/storemetrics-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-19
+tech_stack:
+- MCP (Model Context Protocol)
+- HTTP/HTTPS
+- JSON
+- Streaming APIs
+- RESTful APIs
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["e-commerce analytics", "MCP server", "real-time data", "agent integration", "no-signup API"]
-source: "https://github.com/robsannaa/storemetrics-mcp"
+deployment_complexity: Low
+tags:
+- e-commerce analytics
+- MCP server
+- real-time data
+- agent integration
+- no-signup API
+source: https://github.com/robsannaa/storemetrics-mcp
 stars: 0
-language: "None"
-last_updated: "2026-08-08T15:24:36Z"
-discovered_at: "2026-08-08T15:32:36Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T15:24:36Z'
+discovered_at: '2026-08-08T15:32:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
