@@ -1,30 +1,19 @@
 ---
-title: mh-mansouri/embedded-iot-mentor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Claude Code
-- Python
-- VS Code
-- ChatGPT
-- MCP (Model Context Protocol)
-- GitHub Actions
+title: "mh-mansouri/embedded-iot-mentor"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Claude Code", "Python", "VS Code", "ChatGPT", "MCP (Model Context Protocol)", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- embedded systems
-- IoT mentorship
-- hardware selection
-- MVP planning
-- cost estimation
-source: https://github.com/mh-mansouri/embedded-iot-mentor
+deployment_complexity: "Medium"
+tags: ["embedded systems", "IoT mentorship", "hardware selection", "MVP planning", "cost estimation"]
+source: "https://github.com/mh-mansouri/embedded-iot-mentor"
 stars: 0
-language: Python
-last_updated: '2026-08-02T16:10:39Z'
-discovered_at: '2026-08-02T16:11:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T16:10:39Z"
+discovered_at: "2026-08-02T16:11:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

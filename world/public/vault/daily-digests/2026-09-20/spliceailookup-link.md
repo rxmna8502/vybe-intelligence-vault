@@ -1,32 +1,19 @@
 ---
-title: berntpopp/spliceailookup-link
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Python 3.12+
-- FastAPI
-- MCP (Model Context Protocol)
-- Ensembl VEP REST API
-- SpliceAI Lookup (Broad Institute)
-- Streamable HTTP
-- Docker
-- CI/CD (GitHub Actions)
+title: "berntpopp/spliceailookup-link"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.12+", "FastAPI", "MCP (Model Context Protocol)", "Ensembl VEP REST API", "SpliceAI Lookup (Broad Institute)", "Streamable HTTP", "Docker", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- splice-impact prediction
-- MCP server
-- variant resolution
-- SpliceAI
-- Pangolin
-source: https://github.com/berntpopp/spliceailookup-link
+deployment_complexity: "Medium"
+tags: ["splice-impact prediction", "MCP server", "variant resolution", "SpliceAI", "Pangolin"]
+source: "https://github.com/berntpopp/spliceailookup-link"
 stars: 0
-language: Python
-last_updated: '2026-09-01T22:13:33Z'
-discovered_at: '2026-09-01T22:19:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T22:13:33Z"
+discovered_at: "2026-09-01T22:19:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

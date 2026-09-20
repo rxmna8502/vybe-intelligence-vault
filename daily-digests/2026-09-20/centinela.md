@@ -1,31 +1,19 @@
 ---
-title: amurlaniakea/centinela
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Linux system monitoring
-- Network sockets
-- Process management
-- Systemd
-- JSONL
-- AGPL-3.0
+title: "amurlaniakea/centinela"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Linux system monitoring", "Network sockets", "Process management", "Systemd", "JSONL", "AGPL-3.0"]
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- cybersecurity
-- threat detection
-- network monitoring
-- process containment
-- AI agent integration
-source: https://github.com/amurlaniakea/centinela
+deployment_complexity: "Medium"
+tags: ["cybersecurity", "threat detection", "network monitoring", "process containment", "AI agent integration"]
+source: "https://github.com/amurlaniakea/centinela"
 stars: 1
-language: Python
-last_updated: '2026-07-11T07:52:00Z'
-discovered_at: '2026-07-11T07:52:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T07:52:00Z"
+discovered_at: "2026-07-11T07:52:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

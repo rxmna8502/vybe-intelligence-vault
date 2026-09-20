@@ -1,32 +1,19 @@
 ---
-title: kangkukjin/indiebizOS
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Node.js
-- IBL (IndieBiz Language)
-- HTTP/JSON APIs
-- Filesystem-based storage
-- AI agents
-- Desktop/mobile applications
-- Authentication (cookies, Nostr keys)
+title: "kangkukjin/indiebizOS"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Node.js", "IBL (IndieBiz Language)", "HTTP/JSON APIs", "Filesystem-based storage", "AI agents", "Desktop/mobile applications", "Authentication (cookies, Nostr keys)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent framework
-- decentralized media network
-- filesystem-as-database
-- personal AI OS
-- IBL (action language)
-source: https://github.com/kangkukjin/indiebizOS
+deployment_complexity: "Medium"
+tags: ["AI agent framework", "decentralized media network", "filesystem-as-database", "personal AI OS", "IBL (action language)"]
+source: "https://github.com/kangkukjin/indiebizOS"
 stars: 4
-language: Python
-last_updated: '2026-09-02T02:09:06Z'
-discovered_at: '2026-09-02T02:10:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T02:09:06Z"
+discovered_at: "2026-09-02T02:10:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

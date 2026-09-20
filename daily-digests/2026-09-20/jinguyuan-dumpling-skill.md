@@ -1,29 +1,19 @@
 ---
-title: texteditorscorpius2015/jinguyuan-dumpling-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Model Context Protocol (MCP)
-- Streamable HTTP
-- Python
-- Meituan API
-- Tencent CloudBase
+title: "texteditorscorpius2015/jinguyuan-dumpling-skill"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Model Context Protocol (MCP)", "Streamable HTTP", "Python", "Meituan API", "Tencent CloudBase"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- MCP
-- restaurant integration
-- queue management
-- takeout ordering
-- AI assistant skill
-source: https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill
+deployment_complexity: "Medium"
+tags: ["MCP", "restaurant integration", "queue management", "takeout ordering", "AI assistant skill"]
+source: "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
 stars: 1
-language: Python
-last_updated: '2026-07-11T11:00:33Z'
-discovered_at: '2026-07-11T11:04:09Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T11:00:33Z"
+discovered_at: "2026-07-11T11:04:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

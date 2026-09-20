@@ -1,30 +1,19 @@
 ---
-title: linsong-dev/diegin-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python 3.12+
-- Codex (AI assistant platform)
-- PowerShell 5.1+
-- NumPy
-- JSON/YAML (configuration)
-- Mindol (semantic memory engine)
+title: "linsong-dev/diegin-skill"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.12+", "Codex (AI assistant platform)", "PowerShell 5.1+", "NumPy", "JSON/YAML (configuration)", "Mindol (semantic memory engine)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI self-evolution
-- error correction
-- pattern reinforcement
-- autonomous learning
-- Codex integration
-source: https://github.com/linsong-dev/diegin-skill
+deployment_complexity: "Medium"
+tags: ["AI self-evolution", "error correction", "pattern reinforcement", "autonomous learning", "Codex integration"]
+source: "https://github.com/linsong-dev/diegin-skill"
 stars: 1
-language: Python
-last_updated: '2026-08-07T02:40:27Z'
-discovered_at: '2026-08-07T02:41:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T02:40:27Z"
+discovered_at: "2026-08-07T02:41:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

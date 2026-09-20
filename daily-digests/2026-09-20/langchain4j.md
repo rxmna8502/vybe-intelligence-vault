@@ -1,32 +1,19 @@
 ---
-title: langchain4j/langchain4j
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Java
-- LLM Integration
-- Vector Stores
-- Quarkus
-- Spring Boot
-- Helidon
-- Micronaut
-- Maven
+title: "langchain4j/langchain4j"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java", "LLM Integration", "Vector Stores", "Quarkus", "Spring Boot", "Helidon", "Micronaut", "Maven"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- LLM Integration
-- Java
-- RAG
-- Agents
-- Vector Databases
-source: https://github.com/langchain4j/langchain4j
+deployment_complexity: "Medium"
+tags: ["LLM Integration", "Java", "RAG", "Agents", "Vector Databases"]
+source: "https://github.com/langchain4j/langchain4j"
 stars: 12816
-language: Java
-last_updated: '2026-08-08T14:49:46Z'
-discovered_at: '2026-08-08T15:32:39Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-08T14:49:46Z"
+discovered_at: "2026-08-08T15:32:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

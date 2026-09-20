@@ -1,30 +1,19 @@
 ---
-title: tomba-io/tomba-mcp-server
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- HTTP Transport
-- JSON-RPC
+title: "tomba-io/tomba-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "HTTP Transport", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- email discovery
-- contact enrichment
-- MCP server
-- API integration
-- lead generation
-source: https://github.com/tomba-io/tomba-mcp-server
+deployment_complexity: "Low"
+tags: ["email discovery", "contact enrichment", "MCP server", "API integration", "lead generation"]
+source: "https://github.com/tomba-io/tomba-mcp-server"
 stars: 8
-language: TypeScript
-last_updated: '2026-08-07T14:13:43Z'
-discovered_at: '2026-08-07T14:19:01Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T14:13:43Z"
+discovered_at: "2026-08-07T14:19:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

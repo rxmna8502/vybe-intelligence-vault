@@ -1,36 +1,19 @@
 ---
-title: cbetz/last-ehr
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Next.js
-- React
-- FHIR (HL7 standard)
-- Medplum
-- HAPI FHIR
-- Firely Server
-- Aidbox
-- Vercel AI SDK
-- Docker
-- Node.js
-- MCP (Model Context Protocol)
+title: "cbetz/last-ehr"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Next.js", "React", "FHIR (HL7 standard)", "Medplum", "HAPI FHIR", "Firely Server", "Aidbox", "Vercel AI SDK", "Docker", "Node.js", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- FHIR
-- AI writeback
-- approval-gated
-- MCP server
-- clinical agents
-source: https://github.com/cbetz/last-ehr
+deployment_complexity: "Medium"
+tags: ["FHIR", "AI writeback", "approval-gated", "MCP server", "clinical agents"]
+source: "https://github.com/cbetz/last-ehr"
 stars: 3
-language: TypeScript
-last_updated: '2026-07-18T16:55:03Z'
-discovered_at: '2026-07-18T16:56:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T16:55:03Z"
+discovered_at: "2026-07-18T16:56:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

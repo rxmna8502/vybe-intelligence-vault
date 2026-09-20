@@ -1,38 +1,19 @@
 ---
-title: ai-agent-workbench/ai-agent-workbench
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- uvicorn
-- bubblewrap (bwrap)
-- nginx
-- WSL
-- PWA (Progressive Web App)
-- TOTP (Time-based One-Time Password)
-- Basic Auth
-- GeoIP
-- systemd
-- ntfy
-- SSH
-- MCP (Model Context Protocol)
+title: "ai-agent-workbench/ai-agent-workbench"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "uvicorn", "bubblewrap (bwrap)", "nginx", "WSL", "PWA (Progressive Web App)", "TOTP (Time-based One-Time Password)", "Basic Auth", "GeoIP", "systemd", "ntfy", "SSH", "MCP (Model Context Protocol)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI agent orchestration
-- self-hosted PWA
-- sandboxed execution
-- remote coding
-- multi-agent control
-source: https://github.com/ai-agent-workbench/ai-agent-workbench
+deployment_complexity: "High"
+tags: ["AI agent orchestration", "self-hosted PWA", "sandboxed execution", "remote coding", "multi-agent control"]
+source: "https://github.com/ai-agent-workbench/ai-agent-workbench"
 stars: 0
-language: Python
-last_updated: '2026-08-01T12:16:31Z'
-discovered_at: '2026-08-01T15:01:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T12:16:31Z"
+discovered_at: "2026-08-01T15:01:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

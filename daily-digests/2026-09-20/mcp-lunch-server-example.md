@@ -1,26 +1,19 @@
 ---
-title: Matricarin/mcp-lunch-server-example
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- C#
-- MCP (Model Context Protocol)
+title: "Matricarin/mcp-lunch-server-example"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", "MCP (Model Context Protocol)"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP
-- C#
-- AI integration
-- context protocol
-- example
-source: https://github.com/Matricarin/mcp-lunch-server-example
+deployment_complexity: "Low"
+tags: ["MCP", "C#", "AI integration", "context protocol", "example"]
+source: "https://github.com/Matricarin/mcp-lunch-server-example"
 stars: 0
-language: C#
-last_updated: '2026-08-07T10:57:57Z'
-discovered_at: '2026-08-07T11:04:30Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-07T10:57:57Z"
+discovered_at: "2026-08-07T11:04:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

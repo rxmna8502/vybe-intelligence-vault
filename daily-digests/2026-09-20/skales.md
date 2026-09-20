@@ -1,33 +1,19 @@
 ---
-title: skalesapp/skales
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Electron
-- React
-- Node.js
-- Python
-- SQLite
-- Ollama
-- Mermaid.js
-- WebAssembly
+title: "skalesapp/skales"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Electron", "React", "Node.js", "Python", "SQLite", "Ollama", "Mermaid.js", "WebAssembly"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- local AI agent
-- multi-step automation
-- cross-platform
-- offline-capable
-- privacy-focused
-source: https://github.com/skalesapp/skales
+deployment_complexity: "Low"
+tags: ["local AI agent", "multi-step automation", "cross-platform", "offline-capable", "privacy-focused"]
+source: "https://github.com/skalesapp/skales"
 stars: 1746
-language: TypeScript
-last_updated: '2026-09-03T22:03:59Z'
-discovered_at: '2026-09-03T22:05:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T22:03:59Z"
+discovered_at: "2026-09-03T22:05:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

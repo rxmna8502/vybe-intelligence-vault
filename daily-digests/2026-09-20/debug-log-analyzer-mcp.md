@@ -1,29 +1,19 @@
 ---
-title: certinia/debug-log-analyzer-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Salesforce Apex
-- Debug Log Parsing
+title: "certinia/debug-log-analyzer-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Salesforce Apex", "Debug Log Parsing"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Apex Debug Logs
-- Performance Analysis
-- Salesforce
-- MCP Server
-- Governor Limits
-source: https://github.com/certinia/debug-log-analyzer-mcp
+deployment_complexity: "Low"
+tags: ["Apex Debug Logs", "Performance Analysis", "Salesforce", "MCP Server", "Governor Limits"]
+source: "https://github.com/certinia/debug-log-analyzer-mcp"
 stars: 16
-language: TypeScript
-last_updated: '2026-07-14T10:07:48Z'
-discovered_at: '2026-07-14T10:08:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T10:07:48Z"
+discovered_at: "2026-07-14T10:08:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

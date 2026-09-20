@@ -1,32 +1,19 @@
 ---
-title: vima-tech/Innate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Rust
-- SQLite
-- MCP (Model Context Protocol)
-- Python SDK
-- TypeScript SDK
-- CLI
-- Daemon (Linux)
-- Vector Embeddings (f32 BLOB storage)
+title: "vima-tech/Innate"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "SQLite", "MCP (Model Context Protocol)", "Python SDK", "TypeScript SDK", "CLI", "Daemon (Linux)", "Vector Embeddings (f32 BLOB storage)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- procedural knowledge
-- self-growing agent
-- MCP server
-- knowledge layer
-- context optimization
-source: https://github.com/vima-tech/Innate
+deployment_complexity: "Medium"
+tags: ["procedural knowledge", "self-growing agent", "MCP server", "knowledge layer", "context optimization"]
+source: "https://github.com/vima-tech/Innate"
 stars: 2
-language: Rust
-last_updated: '2026-08-08T01:19:43Z'
-discovered_at: '2026-08-08T01:26:21Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-08T01:19:43Z"
+discovered_at: "2026-08-08T01:26:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

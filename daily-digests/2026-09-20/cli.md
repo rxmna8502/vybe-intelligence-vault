@@ -1,31 +1,19 @@
 ---
-title: DojoGenesis/cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- Bubble Tea (TUI framework)
-- MCP (Model Context Protocol)
-- JSON configuration
-- Shell scripting
-- SSE (Server-Sent Events)
-- Wails (desktop app layer, hibernated)
+title: "DojoGenesis/cli"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Bubble Tea (TUI framework)", "MCP (Model Context Protocol)", "JSON configuration", "Shell scripting", "SSE (Server-Sent Events)", "Wails (desktop app layer, hibernated)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- terminal agent
-- self-hosted AI
-- REPL
-- slash commands
-- session management
-source: https://github.com/DojoGenesis/cli
+deployment_complexity: "Medium"
+tags: ["terminal agent", "self-hosted AI", "REPL", "slash commands", "session management"]
+source: "https://github.com/DojoGenesis/cli"
 stars: 0
-language: Go
-last_updated: '2026-07-18T15:54:30Z'
-discovered_at: '2026-07-18T15:55:06Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-18T15:54:30Z"
+discovered_at: "2026-07-18T15:55:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

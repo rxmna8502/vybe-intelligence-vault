@@ -1,30 +1,19 @@
 ---
-title: davidmosiah/delx-living-body
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- StdioClientTransport
-- SQLite (for caching)
-- npm
+title: "davidmosiah/delx-living-body"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "StdioClientTransport", "SQLite (for caching)", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- wellness data
-- MCP server
-- data unification
-- rule-based synthesis
-- wearables integration
-source: https://github.com/davidmosiah/delx-living-body
+deployment_complexity: "Low"
+tags: ["wellness data", "MCP server", "data unification", "rule-based synthesis", "wearables integration"]
+source: "https://github.com/davidmosiah/delx-living-body"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T17:45:50Z'
-discovered_at: '2026-08-04T17:51:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T17:45:50Z"
+discovered_at: "2026-08-04T17:51:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

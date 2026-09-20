@@ -1,35 +1,19 @@
 ---
-title: ThoTischner/observability-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Prometheus
-- Loki
-- Helm
-- Docker
-- React
-- Express
-- OIDC
-- OPA
+title: "ThoTischner/observability-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Prometheus", "Loki", "Helm", "Docker", "React", "Express", "OIDC", "OPA"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- observability
-- MCP server
-- AI agents
-- anomaly detection
-- topology analysis
-source: https://github.com/ThoTischner/observability-mcp
+deployment_complexity: "Medium"
+tags: ["observability", "MCP server", "AI agents", "anomaly detection", "topology analysis"]
+source: "https://github.com/ThoTischner/observability-mcp"
 stars: 6
-language: TypeScript
-last_updated: '2026-07-18T20:31:24Z'
-discovered_at: '2026-07-18T20:44:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T20:31:24Z"
+discovered_at: "2026-07-18T20:44:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

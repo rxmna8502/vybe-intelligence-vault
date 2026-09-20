@@ -1,29 +1,19 @@
 ---
-title: aestheticfunction/ds-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- dspack specification
-- JSON schema validation
+title: "aestheticfunction/ds-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "dspack specification", "JSON schema validation"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- design system governance
-- AI agent tooling
-- MCP server
-- UI contract
-- dspack
-source: https://github.com/aestheticfunction/ds-mcp
+deployment_complexity: "Low"
+tags: ["design system governance", "AI agent tooling", "MCP server", "UI contract", "dspack"]
+source: "https://github.com/aestheticfunction/ds-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-14T20:06:35Z'
-discovered_at: '2026-07-14T20:09:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T20:06:35Z"
+discovered_at: "2026-07-14T20:09:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

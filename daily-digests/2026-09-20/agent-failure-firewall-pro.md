@@ -1,28 +1,19 @@
 ---
-title: kevin88vvv-droid/agent-failure-firewall-pro
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Shell Scripting
-- AI Agent Integration
-- Verification Rules
+title: "kevin88vvv-droid/agent-failure-firewall-pro"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Shell Scripting", "AI Agent Integration", "Verification Rules"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI agent safety
-- rollback workflows
-- proof-first validation
-- code editing guardrails
-- failure prevention
-source: https://github.com/kevin88vvv-droid/agent-failure-firewall-pro
+deployment_complexity: "Low"
+tags: ["AI agent safety", "rollback workflows", "proof-first validation", "code editing guardrails", "failure prevention"]
+source: "https://github.com/kevin88vvv-droid/agent-failure-firewall-pro"
 stars: 0
-language: Python
-last_updated: '2026-08-02T10:31:52Z'
-discovered_at: '2026-08-02T10:41:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T10:31:52Z"
+discovered_at: "2026-08-02T10:41:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

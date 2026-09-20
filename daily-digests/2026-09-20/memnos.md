@@ -1,33 +1,19 @@
 ---
-title: thameema/memnos
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- PostgreSQL
-- pgvector
-- ONNX
-- REST API
-- MCP
-- OpenAPI 3.1
-- AES-256-GCM encryption
-- uv (package manager)
+title: "thameema/memnos"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "PostgreSQL", "pgvector", "ONNX", "REST API", "MCP", "OpenAPI 3.1", "AES-256-GCM encryption", "uv (package manager)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- persistent memory
-- bi-temporal facts
-- team knowledge sharing
-- self-hosted
-- governance
-source: https://github.com/thameema/memnos
+deployment_complexity: "Medium"
+tags: ["persistent memory", "bi-temporal facts", "team knowledge sharing", "self-hosted", "governance"]
+source: "https://github.com/thameema/memnos"
 stars: 7
-language: Python
-last_updated: '2026-08-07T14:03:32Z'
-discovered_at: '2026-08-07T14:19:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T14:03:32Z"
+discovered_at: "2026-08-07T14:19:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

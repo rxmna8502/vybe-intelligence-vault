@@ -1,31 +1,19 @@
 ---
-title: VidGuiCode/assemblash
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- JSON
-- SVG
-- PNG
-- Web APIs
-- Local-first architecture
+title: "VidGuiCode/assemblash"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "JSON", "SVG", "PNG", "Web APIs", "Local-first architecture"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- document engine
-- MCP server
-- visual composition
-- local-first
-- AI agent interface
-source: https://github.com/VidGuiCode/assemblash
+deployment_complexity: "Medium"
+tags: ["document engine", "MCP server", "visual composition", "local-first", "AI agent interface"]
+source: "https://github.com/VidGuiCode/assemblash"
 stars: 0
-language: None
-last_updated: '2026-08-03T21:55:48Z'
-discovered_at: '2026-08-03T22:10:30Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-03T21:55:48Z"
+discovered_at: "2026-08-03T22:10:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

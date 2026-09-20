@@ -1,31 +1,19 @@
 ---
-title: sakhujarohan/keel-sec-guard
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Google Gemini API
-- Static Application Security Testing (SAST)
-- GitHub Actions
-- CLI
-- Mermaid.js
+title: "sakhujarohan/keel-sec-guard"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Google Gemini API", "Static Application Security Testing (SAST)", "GitHub Actions", "CLI", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- security auditing
-- SAST
-- Gemini integration
-- CI/CD
-- code review
-source: https://github.com/sakhujarohan/keel-sec-guard
+deployment_complexity: "Medium"
+tags: ["security auditing", "SAST", "Gemini integration", "CI/CD", "code review"]
+source: "https://github.com/sakhujarohan/keel-sec-guard"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-21T14:59:52Z'
-discovered_at: '2026-07-21T15:03:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T14:59:52Z"
+discovered_at: "2026-07-21T15:03:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

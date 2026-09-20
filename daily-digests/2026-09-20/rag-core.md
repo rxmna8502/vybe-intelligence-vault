@@ -1,32 +1,19 @@
 ---
-title: Soumiya-33/Rag-core
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- sentence-transformers
-- numpy
-- FastAPI
-- Groq
-- Gemini
-- React
-- JavaScript
+title: "Soumiya-33/Rag-core"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "sentence-transformers", "numpy", "FastAPI", "Groq", "Gemini", "React", "JavaScript"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- from-scratch
-- embeddings
-- retrieval
-- evaluation
-source: https://github.com/Soumiya-33/Rag-core
+deployment_complexity: "Medium"
+tags: ["RAG", "from-scratch", "embeddings", "retrieval", "evaluation"]
+source: "https://github.com/Soumiya-33/Rag-core"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-08T13:13:38Z'
-discovered_at: '2026-08-08T13:49:34Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T13:13:38Z"
+discovered_at: "2026-08-08T13:49:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

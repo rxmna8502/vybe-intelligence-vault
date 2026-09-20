@@ -1,33 +1,19 @@
 ---
-title: david-srp/totem-mascot
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- TypeScript
-- React
-- Vite
-- Cloudflare Workers
-- Cloudflare D1
-- Cloudflare Access
-- ZooWork Managed Agents
-- Python (for image generation CLI)
+title: "david-srp/totem-mascot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "TypeScript", "React", "Vite", "Cloudflare Workers", "Cloudflare D1", "Cloudflare Access", "ZooWork Managed Agents", "Python (for image generation CLI)"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: High
-tags:
-- logo generation
-- multi-turn agent
-- pixel art
-- managed agents
-- ZooWork
-source: https://github.com/david-srp/totem-mascot
+deployment_complexity: "High"
+tags: ["logo generation", "multi-turn agent", "pixel art", "managed agents", "ZooWork"]
+source: "https://github.com/david-srp/totem-mascot"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-02T02:02:08Z'
-discovered_at: '2026-09-02T02:11:20Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T02:02:08Z"
+discovered_at: "2026-09-02T02:11:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

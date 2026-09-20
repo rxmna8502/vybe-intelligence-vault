@@ -1,32 +1,19 @@
 ---
-title: CoinLobster/coinlobster-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- WebSockets
-- Ethereum
-- DEX Integration
-- Exchange APIs
+title: "CoinLobster/coinlobster-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "WebSockets", "Ethereum", "DEX Integration", "Exchange APIs"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- whale tracking
-- real-time market data
-- MCP server
-- crypto signals
-- liquidation monitoring
-source: https://github.com/CoinLobster/coinlobster-mcp
+deployment_complexity: "Low"
+tags: ["whale tracking", "real-time market data", "MCP server", "crypto signals", "liquidation monitoring"]
+source: "https://github.com/CoinLobster/coinlobster-mcp"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-07T06:02:27Z'
-discovered_at: '2026-08-07T06:13:30Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T06:02:27Z"
+discovered_at: "2026-08-07T06:13:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: razzant/ouroboros
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Git
-- GGUF
-- React
-- FastAPI
-- Playwright
-- Docker
-- GitHub Actions
-- PostgreSQL
-- TypeScript
+title: "razzant/ouroboros"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Git", "GGUF", "React", "FastAPI", "Playwright", "Docker", "GitHub Actions", "PostgreSQL", "TypeScript"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- self-evolving
-- autonomous agents
-- memory persistence
-- swarm coordination
-- AI agent framework
-source: https://github.com/razzant/ouroboros
+deployment_complexity: "Medium"
+tags: ["self-evolving", "autonomous agents", "memory persistence", "swarm coordination", "AI agent framework"]
+source: "https://github.com/razzant/ouroboros"
 stars: 944
-language: Python
-last_updated: '2026-08-04T17:44:54Z'
-discovered_at: '2026-08-04T17:50:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T17:44:54Z"
+discovered_at: "2026-08-04T17:50:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

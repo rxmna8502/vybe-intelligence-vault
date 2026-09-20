@@ -1,28 +1,19 @@
 ---
-title: iskillcapped-gif/proto-mind
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python 3.11+
-- CLI-based architecture
-- Deterministic state management
-- Markdown/JSON exports
+title: "iskillcapped-gif/proto-mind"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.11+", "CLI-based architecture", "Deterministic state management", "Markdown/JSON exports"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- cognitive architecture
-- deterministic diagnostics
-- operator guidance
-- local-first
-- read-only execution
-source: https://github.com/iskillcapped-gif/proto-mind
+deployment_complexity: "Medium"
+tags: ["cognitive architecture", "deterministic diagnostics", "operator guidance", "local-first", "read-only execution"]
+source: "https://github.com/iskillcapped-gif/proto-mind"
 stars: 0
-language: Python
-last_updated: '2026-07-19T14:50:31Z'
-discovered_at: '2026-07-19T14:54:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T14:50:31Z"
+discovered_at: "2026-07-19T14:54:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

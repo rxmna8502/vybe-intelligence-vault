@@ -1,31 +1,19 @@
 ---
-title: hanyeol/model-compose
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- YAML
-- Docker
-- HTTP/WebSocket/MCP protocols
-- Redis (for distributed workflows)
-- Gradio (for web UIs)
-- FastAPI (underlying framework)
+title: "hanyeol/model-compose"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "YAML", "Docker", "HTTP/WebSocket/MCP protocols", "Redis (for distributed workflows)", "Gradio (for web UIs)", "FastAPI (underlying framework)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI orchestration
-- declarative YAML
-- multi-provider
-- RAG pipelines
-- agent frameworks
-source: https://github.com/hanyeol/model-compose
+deployment_complexity: "Medium"
+tags: ["AI orchestration", "declarative YAML", "multi-provider", "RAG pipelines", "agent frameworks"]
+source: "https://github.com/hanyeol/model-compose"
 stars: 76
-language: Python
-last_updated: '2026-09-02T02:02:21Z'
-discovered_at: '2026-09-02T02:13:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T02:02:21Z"
+discovered_at: "2026-09-02T02:13:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

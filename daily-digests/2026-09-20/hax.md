@@ -1,31 +1,19 @@
 ---
-title: OleksandrChekhovskyi/hax
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- C
-- libcurl
-- jansson
-- meson
-- ninja
-- libcurl
-- Markdown rendering
+title: "OleksandrChekhovskyi/hax"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["C", "libcurl", "jansson", "meson", "ninja", "libcurl", "Markdown rendering"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal agent
-- lightweight
-- LLM integration
-- automation
-- C-based
-source: https://github.com/OleksandrChekhovskyi/hax
+deployment_complexity: "Medium"
+tags: ["terminal agent", "lightweight", "LLM integration", "automation", "C-based"]
+source: "https://github.com/OleksandrChekhovskyi/hax"
 stars: 12
-language: C
-last_updated: '2026-08-07T12:53:38Z'
-discovered_at: '2026-08-07T13:02:33Z'
-evaluated_by: mistral-small-latest
+language: "C"
+last_updated: "2026-08-07T12:53:38Z"
+discovered_at: "2026-08-07T13:02:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

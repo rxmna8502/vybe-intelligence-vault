@@ -1,33 +1,19 @@
 ---
-title: bytebeast/check-endpoint
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- pycurl
-- HTTP/1.1
-- HTTP/2
-- HTTP/3
-- TLS
-- DNS
-- TCP
-- Prometheus
+title: "bytebeast/check-endpoint"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "pycurl", "HTTP/1.1", "HTTP/2", "HTTP/3", "TLS", "DNS", "TCP", "Prometheus"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- HTTP monitoring
-- performance diagnostics
-- endpoint testing
-- latency analysis
-- debugging
-source: https://github.com/bytebeast/check-endpoint
+deployment_complexity: "Low"
+tags: ["HTTP monitoring", "performance diagnostics", "endpoint testing", "latency analysis", "debugging"]
+source: "https://github.com/bytebeast/check-endpoint"
 stars: 7
-language: Python
-last_updated: '2026-08-07T15:34:55Z'
-discovered_at: '2026-08-07T16:02:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T15:34:55Z"
+discovered_at: "2026-08-07T16:02:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

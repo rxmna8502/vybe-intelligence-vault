@@ -1,33 +1,19 @@
 ---
-title: txn2/mcp-data-platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- PostgreSQL
-- Trino
-- DataHub
-- S3
-- pgvector
-- Model Context Protocol (MCP)
-- Docker
-- Cosign
+title: "txn2/mcp-data-platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "PostgreSQL", "Trino", "DataHub", "S3", "pgvector", "Model Context Protocol (MCP)", "Docker", "Cosign"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- MCP server
-- semantic layer
-- data governance
-- AI assistant integration
-- cross-enrichment
-source: https://github.com/txn2/mcp-data-platform
+deployment_complexity: "High"
+tags: ["MCP server", "semantic layer", "data governance", "AI assistant integration", "cross-enrichment"]
+source: "https://github.com/txn2/mcp-data-platform"
 stars: 9
-language: Go
-last_updated: '2026-09-04T02:04:10Z'
-discovered_at: '2026-09-04T02:17:08Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-04T02:04:10Z"
+discovered_at: "2026-09-04T02:17:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

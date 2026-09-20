@@ -1,31 +1,19 @@
 ---
-title: jmo808/drawio_plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- '@drawio/mcp'
-- mxGraph
-- Bash
-- PowerShell
+title: "jmo808/drawio_plugin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "@drawio/mcp", "mxGraph", "Bash", "PowerShell"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- diagram generation
-- draw.io integration
-- MCP plugin
-- AI-assisted diagramming
-- natural language to diagram
-source: https://github.com/jmo808/drawio_plugin
+deployment_complexity: "Medium"
+tags: ["diagram generation", "draw.io integration", "MCP plugin", "AI-assisted diagramming", "natural language to diagram"]
+source: "https://github.com/jmo808/drawio_plugin"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-20T22:47:01Z'
-discovered_at: '2026-07-20T22:59:37Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-20T22:47:01Z"
+discovered_at: "2026-07-20T22:59:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: TechXploreLabs/seristack
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- YAML
-- Shell Scripting
-- HTTP Server
-- MCP (Model Context Protocol)
-- OAuth2
-- Reverse Proxy Integration
+title: "TechXploreLabs/seristack"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "YAML", "Shell Scripting", "HTTP Server", "MCP (Model Context Protocol)", "OAuth2", "Reverse Proxy Integration"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- automation
-- workflow engine
-- shell scripts
-- MCP server
-- DevOps tooling
-source: https://github.com/TechXploreLabs/seristack
+deployment_complexity: "Medium"
+tags: ["automation", "workflow engine", "shell scripts", "MCP server", "DevOps tooling"]
+source: "https://github.com/TechXploreLabs/seristack"
 stars: 7
-language: Go
-last_updated: '2026-08-08T08:38:13Z'
-discovered_at: '2026-08-08T08:43:22Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T08:38:13Z"
+discovered_at: "2026-08-08T08:43:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,27 +1,19 @@
 ---
-title: ibncrzy/ai-companion
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Lua
-- Factorio 2.x
-- RCON Protocol
+title: "ibncrzy/ai-companion"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Lua", "Factorio 2.x", "RCON Protocol"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- Factorio mod
-- AI companions
-- automation
-- RCON
-- game modding
-source: https://github.com/ibncrzy/ai-companion
+deployment_complexity: "Low"
+tags: ["Factorio mod", "AI companions", "automation", "RCON", "game modding"]
+source: "https://github.com/ibncrzy/ai-companion"
 stars: 0
-language: Lua
-last_updated: '2026-08-09T23:33:24Z'
-discovered_at: '2026-08-09T23:35:31Z'
-evaluated_by: mistral-small-latest
+language: "Lua"
+last_updated: "2026-08-09T23:33:24Z"
+discovered_at: "2026-08-09T23:35:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

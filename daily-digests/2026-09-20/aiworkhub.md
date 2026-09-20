@@ -1,32 +1,19 @@
 ---
-title: shrec/AIWorkHub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- VS Code
-- MCP (Model Context Protocol)
-- Task DAGs
-- Source Graph
-- Manager Context Graph
-- Git
-- CLI tools
+title: "shrec/AIWorkHub"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "VS Code", "MCP (Model Context Protocol)", "Task DAGs", "Source Graph", "Manager Context Graph", "Git", "CLI tools"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI orchestration
-- multi-model agents
-- VS Code integration
-- evidence-based review
-- local-first
-source: https://github.com/shrec/AIWorkHub
+deployment_complexity: "Medium"
+tags: ["AI orchestration", "multi-model agents", "VS Code integration", "evidence-based review", "local-first"]
+source: "https://github.com/shrec/AIWorkHub"
 stars: 2
-language: Python
-last_updated: '2026-08-05T01:55:13Z'
-discovered_at: '2026-08-05T02:18:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T01:55:13Z"
+discovered_at: "2026-08-05T02:18:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

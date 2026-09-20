@@ -1,32 +1,19 @@
 ---
-title: VrilLabs/supersayan-webmcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind CSS v4
-- Chrome MV3 Extension
-- Vercel
-- Cloudflare
-- esbuild
+title: "VrilLabs/supersayan-webmcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "Chrome MV3 Extension", "Vercel", "Cloudflare", "esbuild"]
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- WebMCP Security
-- CVE Detection
-- Chrome Extension
-- Offensive Simulation
-- Defensive Hardening
-source: https://github.com/VrilLabs/supersayan-webmcp
+deployment_complexity: "Medium"
+tags: ["WebMCP Security", "CVE Detection", "Chrome Extension", "Offensive Simulation", "Defensive Hardening"]
+source: "https://github.com/VrilLabs/supersayan-webmcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T23:57:04Z'
-discovered_at: '2026-08-01T23:57:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T23:57:04Z"
+discovered_at: "2026-08-01T23:57:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

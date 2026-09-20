@@ -1,29 +1,19 @@
 ---
-title: api-evangelist/datastax
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Apache Cassandra
-- Vector Search
-- Serverless Database
-- Multi-Cloud Platform
-- OpenAPI/AsyncAPI
+title: "api-evangelist/datastax"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Apache Cassandra", "Vector Search", "Serverless Database", "Multi-Cloud Platform", "OpenAPI/AsyncAPI"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- vector database
-- enterprise AI
-- multi-cloud
-- Apache Cassandra
-- Astra DB
-source: https://github.com/api-evangelist/datastax
+deployment_complexity: "Medium"
+tags: ["vector database", "enterprise AI", "multi-cloud", "Apache Cassandra", "Astra DB"]
+source: "https://github.com/api-evangelist/datastax"
 stars: 0
-language: None
-last_updated: '2026-08-08T00:51:40Z'
-discovered_at: '2026-08-08T01:28:22Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T00:51:40Z"
+discovered_at: "2026-08-08T01:28:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

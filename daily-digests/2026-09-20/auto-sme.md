@@ -1,31 +1,19 @@
 ---
-title: GBOYEE/auto-sme
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Jinja2
-- OpenAI/Ollama
-- WeasyPrint
-- Docker
-- Pytest
-- CI/CD
+title: "GBOYEE/auto-sme"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Jinja2", "OpenAI/Ollama", "WeasyPrint", "Docker", "Pytest", "CI/CD"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- content generation
-- deterministic pipeline
-- PDF generation
-- LLM integration
-- QA validation
-source: https://github.com/GBOYEE/auto-sme
+deployment_complexity: "Medium"
+tags: ["content generation", "deterministic pipeline", "PDF generation", "LLM integration", "QA validation"]
+source: "https://github.com/GBOYEE/auto-sme"
 stars: 0
-language: Python
-last_updated: '2026-07-15T17:57:13Z'
-discovered_at: '2026-07-15T18:06:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T17:57:13Z"
+discovered_at: "2026-07-15T18:06:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: willowridge1234/n8n-ai-lead-scoring
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- n8n
-- Apify
-- OpenAI-compatible APIs
-- Google Sheets API
-- LLM (Large Language Model)
-- HTTP Requests
-- OAuth
+title: "willowridge1234/n8n-ai-lead-scoring"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["n8n", "Apify", "OpenAI-compatible APIs", "Google Sheets API", "LLM (Large Language Model)", "HTTP Requests", "OAuth"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- lead scoring
-- automation
-- n8n workflow
-- ICP evaluation
-- Apify integration
-source: https://github.com/willowridge1234/n8n-ai-lead-scoring
+deployment_complexity: "Medium"
+tags: ["lead scoring", "automation", "n8n workflow", "ICP evaluation", "Apify integration"]
+source: "https://github.com/willowridge1234/n8n-ai-lead-scoring"
 stars: 0
-language: None
-last_updated: '2026-08-01T15:58:51Z'
-discovered_at: '2026-08-01T16:06:49Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-01T15:58:51Z"
+discovered_at: "2026-08-01T16:06:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

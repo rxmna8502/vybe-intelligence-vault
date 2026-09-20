@@ -1,29 +1,19 @@
 ---
-title: andypgray/roz-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- C#
-- .NET 10 SDK
-- Roslyn
-- MCP (Model Context Protocol)
-- NuGet
+title: "andypgray/roz-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET 10 SDK", "Roslyn", "MCP (Model Context Protocol)", "NuGet"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- C# development
-- MCP server
-- code refactoring
-- semantic analysis
-- legacy code modernization
-source: https://github.com/andypgray/roz-mcp
+deployment_complexity: "Medium"
+tags: ["C# development", "MCP server", "code refactoring", "semantic analysis", "legacy code modernization"]
+source: "https://github.com/andypgray/roz-mcp"
 stars: 0
-language: C#
-last_updated: '2026-07-20T15:01:58Z'
-discovered_at: '2026-07-20T15:10:57Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-20T15:01:58Z"
+discovered_at: "2026-07-20T15:10:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

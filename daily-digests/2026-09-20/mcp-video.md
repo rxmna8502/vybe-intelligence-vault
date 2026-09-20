@@ -1,32 +1,19 @@
 ---
-title: studiomeyer-io/mcp-video
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- ffmpeg
-- Playwright
-- ElevenLabs API
-- OpenAI API
-- JSON Schema
-- MCP (Model Context Protocol)
+title: "studiomeyer-io/mcp-video"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "ffmpeg", "Playwright", "ElevenLabs API", "OpenAI API", "JSON Schema", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- video processing
-- AI agents
-- MCP server
-- automated content creation
-- cinema-grade tools
-source: https://github.com/studiomeyer-io/mcp-video
+deployment_complexity: "Medium"
+tags: ["video processing", "AI agents", "MCP server", "automated content creation", "cinema-grade tools"]
+source: "https://github.com/studiomeyer-io/mcp-video"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-01T20:46:47Z'
-discovered_at: '2026-08-01T20:51:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T20:46:47Z"
+discovered_at: "2026-08-01T20:51:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

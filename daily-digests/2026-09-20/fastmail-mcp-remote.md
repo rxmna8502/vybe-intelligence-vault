@@ -1,34 +1,19 @@
 ---
-title: omarshahine/fastmail-mcp-remote
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- JMAP API
-- MCP (Model Context Protocol)
-- Cloudflare Zero Trust
-- OAuth 2.0
-- PKCE
-- Node.js
-- Commander.js
-- Wrangler (Cloudflare CLI)
+title: "omarshahine/fastmail-mcp-remote"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Cloudflare Workers", "JMAP API", "MCP (Model Context Protocol)", "Cloudflare Zero Trust", "OAuth 2.0", "PKCE", "Node.js", "Commander.js", "Wrangler (Cloudflare CLI)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Fastmail integration
-- Cloudflare Workers
-- AI assistant tooling
-- Email automation
-source: https://github.com/omarshahine/fastmail-mcp-remote
+deployment_complexity: "Medium"
+tags: ["MCP server", "Fastmail integration", "Cloudflare Workers", "AI assistant tooling", "Email automation"]
+source: "https://github.com/omarshahine/fastmail-mcp-remote"
 stars: 6
-language: TypeScript
-last_updated: '2026-09-01T02:42:45Z'
-discovered_at: '2026-09-01T02:52:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T02:42:45Z"
+discovered_at: "2026-09-01T02:52:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

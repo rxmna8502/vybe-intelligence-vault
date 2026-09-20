@@ -1,31 +1,19 @@
 ---
-title: clezcoding/awesome-coolify
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Coolify REST API
-- Zod
-- REST
-- npm
+title: "clezcoding/awesome-coolify"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Coolify REST API", "Zod", "REST", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Coolify integration
-- AI agent tools
-- self-hosted PaaS
-- infrastructure automation
-source: https://github.com/clezcoding/awesome-coolify
+deployment_complexity: "Medium"
+tags: ["MCP server", "Coolify integration", "AI agent tools", "self-hosted PaaS", "infrastructure automation"]
+source: "https://github.com/clezcoding/awesome-coolify"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T21:32:12Z'
-discovered_at: '2026-08-08T21:33:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T21:32:12Z"
+discovered_at: "2026-08-08T21:33:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

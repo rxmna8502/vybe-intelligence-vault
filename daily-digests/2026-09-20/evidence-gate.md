@@ -1,31 +1,19 @@
 ---
-title: LopezDray/evidence-gate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Python
-- TypeScript
-- Node.js
-- npm
-- PyPI
-- MCP (Model Context Protocol)
+title: "LopezDray/evidence-gate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Python", "TypeScript", "Node.js", "npm", "PyPI", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- grounding
-- evidence validation
-- RAG optimization
-- audit trail
-- pre-generation gate
-source: https://github.com/LopezDray/evidence-gate
+deployment_complexity: "Low"
+tags: ["grounding", "evidence validation", "RAG optimization", "audit trail", "pre-generation gate"]
+source: "https://github.com/LopezDray/evidence-gate"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-11T09:13:27Z'
-discovered_at: '2026-07-11T09:27:32Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T09:13:27Z"
+discovered_at: "2026-07-11T09:27:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

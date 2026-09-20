@@ -1,34 +1,19 @@
 ---
-title: martinez9388/ai-browser-tutorial
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Playwright
-- MCP (Model Context Protocol)
-- Node.js
-- Chrome/Chromium
-- Cloudflare Tunnel
-- nginx
-- VNC/noVNC
-- opencli
-- Tailscale/frp/WireGuard (for internal networking)
-- Systemd (for service management)
+title: "martinez9388/ai-browser-tutorial"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Playwright", "MCP (Model Context Protocol)", "Node.js", "Chrome/Chromium", "Cloudflare Tunnel", "nginx", "VNC/noVNC", "opencli", "Tailscale/frp/WireGuard (for internal networking)", "Systemd (for service management)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- browser automation
-- MCP protocol
-- AI agent tools
-- web scraping
-- cost-effective API alternatives
-source: https://github.com/martinez9388/ai-browser-tutorial
+deployment_complexity: "High"
+tags: ["browser automation", "MCP protocol", "AI agent tools", "web scraping", "cost-effective API alternatives"]
+source: "https://github.com/martinez9388/ai-browser-tutorial"
 stars: 3
-language: None
-last_updated: '2026-07-11T11:02:58Z'
-discovered_at: '2026-07-11T11:03:25Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-11T11:02:58Z"
+discovered_at: "2026-07-11T11:03:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

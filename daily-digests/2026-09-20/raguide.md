@@ -1,49 +1,19 @@
 ---
-title: JavaLyHn/raguide
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- LangGraph
-- Next.js
-- React
-- TypeScript
-- PostgreSQL
-- Redis
-- Qdrant
-- Tantivy
-- MinIO
-- SearXNG
-- Claude
-- bge-m3
-- JinaCLIP-v2
-- bge-reranker-v2-m3
-- Langfuse
-- Prometheus
-- Grafana
-- Ragas
-- Docker
-- uv
-- Pydantic
-- Tailwind CSS
-- Vercel AI SDK
+title: "JavaLyHn/raguide"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "LangGraph", "Next.js", "React", "TypeScript", "PostgreSQL", "Redis", "Qdrant", "Tantivy", "MinIO", "SearXNG", "Claude", "bge-m3", "JinaCLIP-v2", "bge-reranker-v2-m3", "Langfuse", "Prometheus", "Grafana", "Ragas", "Docker", "uv", "Pydantic", "Tailwind CSS", "Vercel AI SDK"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- RAG
-- Multi-Agent Orchestration
-- Evaluated RAG
-- Observability
-- 3C Product Recommendation
-source: https://github.com/JavaLyHn/raguide
+deployment_complexity: "High"
+tags: ["RAG", "Multi-Agent Orchestration", "Evaluated RAG", "Observability", "3C Product Recommendation"]
+source: "https://github.com/JavaLyHn/raguide"
 stars: 2
-language: Python
-last_updated: '2026-08-02T10:32:38Z'
-discovered_at: '2026-08-02T10:41:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T10:32:38Z"
+discovered_at: "2026-08-02T10:41:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

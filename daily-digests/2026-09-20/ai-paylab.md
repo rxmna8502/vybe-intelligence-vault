@@ -1,29 +1,19 @@
 ---
-title: Giulio-DC8/AI-paylab
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Ed25519 cryptography
-- scipy
-- Gemini API (experimental)
-- CLI (Click or similar)
+title: "Giulio-DC8/AI-paylab"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Ed25519 cryptography", "scipy", "Gemini API (experimental)", "CLI (Click or similar)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- payment simulation
-- AI agent commerce
-- offline prototyping
-- negotiation engine
-- cryptographic receipts
-source: https://github.com/Giulio-DC8/AI-paylab
+deployment_complexity: "Low"
+tags: ["payment simulation", "AI agent commerce", "offline prototyping", "negotiation engine", "cryptographic receipts"]
+source: "https://github.com/Giulio-DC8/AI-paylab"
 stars: 1
-language: Python
-last_updated: '2026-08-06T15:11:45Z'
-discovered_at: '2026-08-06T15:18:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T15:11:45Z"
+discovered_at: "2026-08-06T15:18:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

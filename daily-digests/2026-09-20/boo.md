@@ -1,39 +1,19 @@
 ---
-title: is-leeroy-jenkins/Boo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Streamlit
-- OpenAI SDK
-- Google Gemini SDK
-- xAI Grok SDK
-- SQLite
-- Pandas
-- NumPy
-- Plotly
-- TikToken
-- Sentence Transformers
-- PyMuPDF
-- Docker
-- Databricks
-- Azure Container Apps
+title: "is-leeroy-jenkins/Boo"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Streamlit", "OpenAI SDK", "Google Gemini SDK", "xAI Grok SDK", "SQLite", "Pandas", "NumPy", "Plotly", "TikToken", "Sentence Transformers", "PyMuPDF", "Docker", "Databricks", "Azure Container Apps"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI Workflow Orchestration
-- Multimodal AI
-- Provider-Agnostic
-- Document Q&A
-- Vector Stores
-source: https://github.com/is-leeroy-jenkins/Boo
+deployment_complexity: "Medium"
+tags: ["AI Workflow Orchestration", "Multimodal AI", "Provider-Agnostic", "Document Q&A", "Vector Stores"]
+source: "https://github.com/is-leeroy-jenkins/Boo"
 stars: 3
-language: Jupyter Notebook
-last_updated: '2026-08-08T12:41:15Z'
-discovered_at: '2026-08-08T12:48:56Z'
-evaluated_by: mistral-small-latest
+language: "Jupyter Notebook"
+last_updated: "2026-08-08T12:41:15Z"
+discovered_at: "2026-08-08T12:48:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

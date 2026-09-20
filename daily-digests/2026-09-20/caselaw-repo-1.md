@@ -1,35 +1,19 @@
 ---
-title: jonashertner/caselaw-repo-1
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- SQLite
-- FTS5 (Full-Text Search)
-- SPARQL (Fedlex)
-- MCP (Model Context Protocol)
-- REST API
-- HuggingFace Dataset
-- CI/CD (GitHub Actions)
-- Docker
-- Natural Language Processing (NLP)
-- Scraping (BeautifulSoup, Scrapy)
+title: "jonashertner/caselaw-repo-1"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "FTS5 (Full-Text Search)", "SPARQL (Fedlex)", "MCP (Model Context Protocol)", "REST API", "HuggingFace Dataset", "CI/CD (GitHub Actions)", "Docker", "Natural Language Processing (NLP)", "Scraping (BeautifulSoup, Scrapy)"]
 quality_score: 10
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- legal data
-- Swiss law
-- citation graph
-- MCP tools
-- open dataset
-source: https://github.com/jonashertner/caselaw-repo-1
+deployment_complexity: "Medium"
+tags: ["legal data", "Swiss law", "citation graph", "MCP tools", "open dataset"]
+source: "https://github.com/jonashertner/caselaw-repo-1"
 stars: 53
-language: Python
-last_updated: '2026-08-08T10:23:57Z'
-discovered_at: '2026-08-08T10:34:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T10:23:57Z"
+discovered_at: "2026-08-08T10:34:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

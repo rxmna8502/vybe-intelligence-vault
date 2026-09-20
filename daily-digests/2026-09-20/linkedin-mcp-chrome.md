@@ -1,30 +1,19 @@
 ---
-title: kugamon/linkedin-mcp-chrome
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastMCP
-- Chromium (Patchright)
-- LinkedIn MCP Server
-- uvx
-- PyPI
+title: "kugamon/linkedin-mcp-chrome"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "Chromium (Patchright)", "LinkedIn MCP Server", "uvx", "PyPI"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- LinkedIn
-- MCP
-- Claude Desktop
-- authentication
-- dependency management
-source: https://github.com/kugamon/linkedin-mcp-chrome
+deployment_complexity: "Medium"
+tags: ["LinkedIn", "MCP", "Claude Desktop", "authentication", "dependency management"]
+source: "https://github.com/kugamon/linkedin-mcp-chrome"
 stars: 0
-language: Python
-last_updated: '2026-09-03T08:30:30Z'
-discovered_at: '2026-09-03T08:37:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T08:30:30Z"
+discovered_at: "2026-09-03T08:37:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

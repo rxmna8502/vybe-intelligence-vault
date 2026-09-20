@@ -1,32 +1,19 @@
 ---
-title: aovestdipaperino/plank
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Rust
-- C
-- Metal (Apple GPU backend)
-- Ratatui
-- GGUF
-- Homebrew
-- Git
-- MCP (Model Context Protocol)
+title: "aovestdipaperino/plank"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "C", "Metal (Apple GPU backend)", "Ratatui", "GGUF", "Homebrew", "Git", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- coding agent
-- Rust
-- macOS
-- Metal GPU
-- interactive TUI
-source: https://github.com/aovestdipaperino/plank
+deployment_complexity: "Medium"
+tags: ["coding agent", "Rust", "macOS", "Metal GPU", "interactive TUI"]
+source: "https://github.com/aovestdipaperino/plank"
 stars: 22
-language: Rust
-last_updated: '2026-08-07T08:14:16Z'
-discovered_at: '2026-08-07T08:16:07Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T08:14:16Z"
+discovered_at: "2026-08-07T08:16:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

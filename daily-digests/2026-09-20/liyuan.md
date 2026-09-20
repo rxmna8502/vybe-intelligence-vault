@@ -1,34 +1,19 @@
 ---
-title: weidu12123/Liyuan
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- React
-- Vite
-- WebSocket
-- OpenAI API
-- MCP (Model Context Protocol)
-- SVG
-- JSON
-- Docker
+title: "weidu12123/Liyuan"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "React", "Vite", "WebSocket", "OpenAI API", "MCP (Model Context Protocol)", "SVG", "JSON", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agents
-- Role-Playing
-- Memory Optimization
-- Context Management
-- Dynamic UI
-source: https://github.com/weidu12123/Liyuan
+deployment_complexity: "Medium"
+tags: ["AI Agents", "Role-Playing", "Memory Optimization", "Context Management", "Dynamic UI"]
+source: "https://github.com/weidu12123/Liyuan"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-13T13:19:39Z'
-discovered_at: '2026-07-13T13:22:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T13:19:39Z"
+discovered_at: "2026-07-13T13:22:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

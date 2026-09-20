@@ -1,33 +1,19 @@
 ---
-title: Joshuayang228/my-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Electron
-- TypeScript
-- React
-- Tailwind CSS
-- SQLite
-- Vectra
-- Node.js
-- Vitest
-- Playwright
+title: "Joshuayang228/my-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "TypeScript", "React", "Tailwind CSS", "SQLite", "Vectra", "Node.js", "Vitest", "Playwright"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI companion
-- desktop agent
-- memory system
-- local-first
-- sandboxed runtime
-source: https://github.com/Joshuayang228/my-agent
+deployment_complexity: "Medium"
+tags: ["AI companion", "desktop agent", "memory system", "local-first", "sandboxed runtime"]
+source: "https://github.com/Joshuayang228/my-agent"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-09T17:29:06Z'
-discovered_at: '2026-08-09T17:35:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T17:29:06Z"
+discovered_at: "2026-08-09T17:35:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

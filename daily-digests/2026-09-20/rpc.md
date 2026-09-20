@@ -1,31 +1,19 @@
 ---
-title: source-repo/rpc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- WebSocket
-- MQTT 5
-- Node.js
-- ESM
-- HMAC
-- Ed25519
+title: "source-repo/rpc"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "WebSocket", "MQTT 5", "Node.js", "ESM", "HMAC", "Ed25519"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- RPC
-- peer-to-peer
-- TypeScript
-- MQTT
-- WebSocket
-source: https://github.com/source-repo/rpc
+deployment_complexity: "Medium"
+tags: ["RPC", "peer-to-peer", "TypeScript", "MQTT", "WebSocket"]
+source: "https://github.com/source-repo/rpc"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T20:39:25Z'
-discovered_at: '2026-08-01T20:51:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T20:39:25Z"
+discovered_at: "2026-08-01T20:51:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

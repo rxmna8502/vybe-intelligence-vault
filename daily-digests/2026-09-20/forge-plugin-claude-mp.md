@@ -1,29 +1,19 @@
 ---
-title: ShipToday/forge-plugin-claude-mp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Claude Code
-- Forge
-- Model Context Protocol (MCP)
-- Node.js
+title: "ShipToday/forge-plugin-claude-mp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Claude Code", "Forge", "Model Context Protocol (MCP)", "Node.js"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- Claude Code
-- PDLC automation
-- Forge plugin
-- AI workflows
-- plugin marketplace
-source: https://github.com/ShipToday/forge-plugin-claude-mp
+deployment_complexity: "Low"
+tags: ["Claude Code", "PDLC automation", "Forge plugin", "AI workflows", "plugin marketplace"]
+source: "https://github.com/ShipToday/forge-plugin-claude-mp"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-18T08:05:12Z'
-discovered_at: '2026-07-18T08:09:25Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-18T08:05:12Z"
+discovered_at: "2026-07-18T08:09:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

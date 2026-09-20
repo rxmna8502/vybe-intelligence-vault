@@ -1,28 +1,19 @@
 ---
-title: alzei2269/polymarket-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- HTML
-- CSS
-- JavaScript
-- Neural Network Animation
+title: "alzei2269/polymarket-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "CSS", "JavaScript", "Neural Network Animation"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- prediction markets
-- AI trading agent
-- mispricing detection
-- sentiment analysis
-- real-time analytics
-source: https://github.com/alzei2269/polymarket-agent
+deployment_complexity: "Low"
+tags: ["prediction markets", "AI trading agent", "mispricing detection", "sentiment analysis", "real-time analytics"]
+source: "https://github.com/alzei2269/polymarket-agent"
 stars: 1
-language: None
-last_updated: '2026-07-12T13:29:49Z'
-discovered_at: '2026-07-12T13:36:02Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-12T13:29:49Z"
+discovered_at: "2026-07-12T13:36:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

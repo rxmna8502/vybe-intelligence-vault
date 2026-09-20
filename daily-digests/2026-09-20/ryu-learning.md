@@ -1,30 +1,19 @@
 ---
-title: amajorai/ryu-learning
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Rust
-- Vite
-- HTML/CSS
-- SQLite
-- Ryu Core
-- Cargo
+title: "amajorai/ryu-learning"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Vite", "HTML/CSS", "SQLite", "Ryu Core", "Cargo"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- continual learning
-- skill synthesis
-- RAG pipeline
-- approval gating
-- experience logging
-source: https://github.com/amajorai/ryu-learning
+deployment_complexity: "Medium"
+tags: ["continual learning", "skill synthesis", "RAG pipeline", "approval gating", "experience logging"]
+source: "https://github.com/amajorai/ryu-learning"
 stars: 0
-language: Rust
-last_updated: '2026-08-05T08:30:49Z'
-discovered_at: '2026-08-05T08:35:55Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-05T08:30:49Z"
+discovered_at: "2026-08-05T08:35:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

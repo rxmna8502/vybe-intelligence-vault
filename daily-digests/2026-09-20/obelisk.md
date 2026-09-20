@@ -1,32 +1,19 @@
 ---
-title: tommy0103/obelisk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- SQLite
-- Node.js
-- Electron
-- Vue.js
-- FTS5 (Full-Text Search)
-- better-sqlite3
-- electron-vite
+title: "tommy0103/obelisk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "SQLite", "Node.js", "Electron", "Vue.js", "FTS5 (Full-Text Search)", "better-sqlite3", "electron-vite"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- session indexing
-- agent memory
-- SQLite database
-- multi-provider support
-- developer tooling
-source: https://github.com/tommy0103/obelisk
+deployment_complexity: "Medium"
+tags: ["session indexing", "agent memory", "SQLite database", "multi-provider support", "developer tooling"]
+source: "https://github.com/tommy0103/obelisk"
 stars: 284
-language: JavaScript
-last_updated: '2026-08-03T13:38:23Z'
-discovered_at: '2026-08-03T13:42:16Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T13:38:23Z"
+discovered_at: "2026-08-03T13:42:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

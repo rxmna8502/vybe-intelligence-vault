@@ -1,30 +1,19 @@
 ---
-title: obbbba/mcp-realbrowser
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Chrome DevTools Protocol (CDP)
-- Playwright
-- Model Context Protocol (MCP)
-- WebSocket
+title: "obbbba/mcp-realbrowser"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Chrome DevTools Protocol (CDP)", "Playwright", "Model Context Protocol (MCP)", "WebSocket"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- browser automation
-- CDP integration
-- AI agent tools
-- real browser sessions
-source: https://github.com/obbbba/mcp-realbrowser
+deployment_complexity: "Medium"
+tags: ["MCP server", "browser automation", "CDP integration", "AI agent tools", "real browser sessions"]
+source: "https://github.com/obbbba/mcp-realbrowser"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-19T13:14:35Z'
-discovered_at: '2026-07-19T13:17:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T13:14:35Z"
+discovered_at: "2026-07-19T13:17:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

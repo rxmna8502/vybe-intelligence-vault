@@ -1,29 +1,19 @@
 ---
-title: ryoohshima/AgentTakt
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Textual
-- Model Context Protocol (MCP)
-- Unix domain sockets
-- Terminal UI (TUI)
+title: "ryoohshima/AgentTakt"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Textual", "Model Context Protocol (MCP)", "Unix domain sockets", "Terminal UI (TUI)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- terminal-based editor
-- MCP server
-- task plan approval
-- node graph editor
-source: https://github.com/ryoohshima/AgentTakt
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "terminal-based editor", "MCP server", "task plan approval", "node graph editor"]
+source: "https://github.com/ryoohshima/AgentTakt"
 stars: 0
-language: Python
-last_updated: '2026-08-07T02:39:25Z'
-discovered_at: '2026-08-07T02:42:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T02:39:25Z"
+discovered_at: "2026-08-07T02:42:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

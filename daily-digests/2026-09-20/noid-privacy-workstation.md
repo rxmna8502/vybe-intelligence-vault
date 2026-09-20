@@ -1,44 +1,19 @@
 ---
-title: NexusOne23/noid-privacy-workstation
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Fedora 44
-- GNOME 50
-- Kickstart
-- Btrfs
-- LUKS2
-- SELinux
-- firewalld
-- nftables
-- XDP/TC
-- USBGuard
-- AIDE
-- auditd
-- VSCodium
-- Claude Code
-- Codex CLI
-- Ollama
-- LM Studio
-- Python
-- Shell
-- GPG
+title: "NexusOne23/noid-privacy-workstation"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Fedora 44", "GNOME 50", "Kickstart", "Btrfs", "LUKS2", "SELinux", "firewalld", "nftables", "XDP/TC", "USBGuard", "AIDE", "auditd", "VSCodium", "Claude Code", "Codex CLI", "Ollama", "LM Studio", "Python", "Shell", "GPG"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: High
-tags:
-- privacy-focused
-- hardened Linux
-- AI workstation
-- security OS
-- Fedora derivative
-source: https://github.com/NexusOne23/noid-privacy-workstation
+deployment_complexity: "High"
+tags: ["privacy-focused", "hardened Linux", "AI workstation", "security OS", "Fedora derivative"]
+source: "https://github.com/NexusOne23/noid-privacy-workstation"
 stars: 2
-language: Kickstart
-last_updated: '2026-08-08T09:37:28Z'
-discovered_at: '2026-08-08T09:40:15Z'
-evaluated_by: mistral-small-latest
+language: "Kickstart"
+last_updated: "2026-08-08T09:37:28Z"
+discovered_at: "2026-08-08T09:40:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

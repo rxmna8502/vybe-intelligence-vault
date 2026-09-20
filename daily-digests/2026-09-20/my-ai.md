@@ -1,29 +1,19 @@
 ---
-title: api-evangelist/my-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- OpenAPI
-- AsyncAPI
-- JSON Schema
-- API Profiling
-- Decentralized Infrastructure
+title: "api-evangelist/my-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["OpenAPI", "AsyncAPI", "JSON Schema", "API Profiling", "Decentralized Infrastructure"]
 quality_score: 4
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- API profiling
-- decentralized rewards
-- loyalty infrastructure
-- API evangelism
-- Me Protocol
-source: https://github.com/api-evangelist/my-ai
+deployment_complexity: "Low"
+tags: ["API profiling", "decentralized rewards", "loyalty infrastructure", "API evangelism", "Me Protocol"]
+source: "https://github.com/api-evangelist/my-ai"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:23:08Z'
-discovered_at: '2026-08-08T01:26:12Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:23:08Z"
+discovered_at: "2026-08-08T01:26:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

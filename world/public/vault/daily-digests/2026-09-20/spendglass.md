@@ -1,32 +1,19 @@
 ---
-title: shawn-durrani/spendglass
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Python
-- SQLite
-- FastAPI
-- Redbark API
-- Anthropic API
-- Model Context Protocol (MCP)
-- scrypt
-- Bash
+title: "shawn-durrani/spendglass"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "FastAPI", "Redbark API", "Anthropic API", "Model Context Protocol (MCP)", "scrypt", "Bash"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local-first
-- financial data
-- MCP server
-- open banking
-- transaction analytics
-source: https://github.com/shawn-durrani/spendglass
+deployment_complexity: "Medium"
+tags: ["local-first", "financial data", "MCP server", "open banking", "transaction analytics"]
+source: "https://github.com/shawn-durrani/spendglass"
 stars: 1
-language: Python
-last_updated: '2026-08-08T04:57:57Z'
-discovered_at: '2026-08-08T04:59:00Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T04:57:57Z"
+discovered_at: "2026-08-08T04:59:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,40 +1,19 @@
 ---
-title: pavelblank/socialai-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Python
-- Ollama (Local LLM)
-- FFmpeg
-- edge-tts
-- faster-whisper
-- SQLite
-- FastAPI (Dashboard)
-- Pollinations (Image Generation)
-- Reddit API
-- Google Trends API
-- YouTube Data API
-- TikTok API
-- Bluesky API
-- Mastodon API
-- Discord API
-- Meta API
+title: "pavelblank/socialai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Ollama (Local LLM)", "FFmpeg", "edge-tts", "faster-whisper", "SQLite", "FastAPI (Dashboard)", "Pollinations (Image Generation)", "Reddit API", "Google Trends API", "YouTube Data API", "TikTok API", "Bluesky API", "Mastodon API", "Discord API", "Meta API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous content generation
-- multi-platform publishing
-- local LLM integration
-- self-hosted AI
-- 24/7 automation
-source: https://github.com/pavelblank/socialai-agent
+deployment_complexity: "Medium"
+tags: ["autonomous content generation", "multi-platform publishing", "local LLM integration", "self-hosted AI", "24/7 automation"]
+source: "https://github.com/pavelblank/socialai-agent"
 stars: 0
-language: Python
-last_updated: '2026-09-04T02:09:58Z'
-discovered_at: '2026-09-04T02:11:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-04T02:09:58Z"
+discovered_at: "2026-09-04T02:11:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

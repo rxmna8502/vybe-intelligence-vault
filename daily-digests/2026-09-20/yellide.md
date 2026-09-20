@@ -1,30 +1,19 @@
 ---
-title: urbanmorph/yellide
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Node.js
-- SQLite
-- MCP (Model Context Protocol)
-- POSIX utilities (sips, qlmanage)
-- SHA-256 hashing
+title: "urbanmorph/yellide"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "POSIX utilities (sips, qlmanage)", "SHA-256 hashing"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local media search
-- content-based indexing
-- privacy-first
-- MCP server
-- offline indexing
-source: https://github.com/urbanmorph/yellide
+deployment_complexity: "Medium"
+tags: ["local media search", "content-based indexing", "privacy-first", "MCP server", "offline indexing"]
+source: "https://github.com/urbanmorph/yellide"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-09T15:32:29Z'
-discovered_at: '2026-08-09T15:35:07Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-09T15:32:29Z"
+discovered_at: "2026-08-09T15:35:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

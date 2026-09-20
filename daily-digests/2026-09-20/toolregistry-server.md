@@ -1,31 +1,19 @@
 ---
-title: Oaklight/toolregistry-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- Model Context Protocol (MCP)
-- OpenAPI
-- CLI
-- YAML/JSONC
-- PyPI
+title: "Oaklight/toolregistry-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Model Context Protocol (MCP)", "OpenAPI", "CLI", "YAML/JSONC", "PyPI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- tool registry
-- function calling
-- MCP server
-- OpenAPI adapter
-- AI tooling
-source: https://github.com/Oaklight/toolregistry-server
+deployment_complexity: "Medium"
+tags: ["tool registry", "function calling", "MCP server", "OpenAPI adapter", "AI tooling"]
+source: "https://github.com/Oaklight/toolregistry-server"
 stars: 1
-language: Python
-last_updated: '2026-07-16T08:07:35Z'
-discovered_at: '2026-07-16T08:10:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T08:07:35Z"
+discovered_at: "2026-07-16T08:10:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: dmytro-playme/claude-telegram-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Node.js
-- Telegram Bot API
-- Claude Code
+title: "dmytro-playme/claude-telegram-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Telegram Bot API", "Claude Code"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Telegram integration
-- Claude Code
-- agent workflow
-- notification bridge
-- remote approval
-source: https://github.com/dmytro-playme/claude-telegram-bridge
+deployment_complexity: "Medium"
+tags: ["Telegram integration", "Claude Code", "agent workflow", "notification bridge", "remote approval"]
+source: "https://github.com/dmytro-playme/claude-telegram-bridge"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-14T16:06:04Z'
-discovered_at: '2026-07-14T16:14:01Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-14T16:06:04Z"
+discovered_at: "2026-07-14T16:14:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

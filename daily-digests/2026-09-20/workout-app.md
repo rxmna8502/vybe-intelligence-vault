@@ -1,41 +1,19 @@
 ---
-title: PierreTsia/workout-app
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- React 19
-- TypeScript
-- Supabase
-- Tailwind CSS
-- MCP (Model Context Protocol)
-- Gemini AI
-- PostgreSQL
-- Edge Functions
-- Jotai
-- TanStack Query
-- shadcn/ui
-- Recharts
-- dnd-kit
-- react-i18next
-- Resend
-- Vite
-- Workbox
+title: "PierreTsia/workout-app"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["React 19", "TypeScript", "Supabase", "Tailwind CSS", "MCP (Model Context Protocol)", "Gemini AI", "PostgreSQL", "Edge Functions", "Jotai", "TanStack Query", "shadcn/ui", "Recharts", "dnd-kit", "react-i18next", "Resend", "Vite", "Workbox"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- AI-powered training
-- offline-first PWA
-- progression tracking
-- Supabase integration
-source: https://github.com/PierreTsia/workout-app
+deployment_complexity: "Medium"
+tags: ["MCP server", "AI-powered training", "offline-first PWA", "progression tracking", "Supabase integration"]
+source: "https://github.com/PierreTsia/workout-app"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-02T14:53:38Z'
-discovered_at: '2026-08-02T15:03:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T14:53:38Z"
+discovered_at: "2026-08-02T15:03:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

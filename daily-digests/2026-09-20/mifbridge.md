@@ -1,33 +1,19 @@
 ---
-title: mifsopo1/MifBridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- C++
-- Python
-- Unreal Engine
-- Blender
-- Model Context Protocol (MCP)
-- FastMCP
-- HTTP
-- JSON-RPC
-- FastAPI
+title: "mifsopo1/MifBridge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C++", "Python", "Unreal Engine", "Blender", "Model Context Protocol (MCP)", "FastMCP", "HTTP", "JSON-RPC", "FastAPI"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- MCP server
-- Unreal Engine automation
-- Blender scripting
-- AI-driven DCC tools
-- Blueprint compilation
-source: https://github.com/mifsopo1/MifBridge
+deployment_complexity: "High"
+tags: ["MCP server", "Unreal Engine automation", "Blender scripting", "AI-driven DCC tools", "Blueprint compilation"]
+source: "https://github.com/mifsopo1/MifBridge"
 stars: 1
-language: C++
-last_updated: '2026-09-03T02:16:14Z'
-discovered_at: '2026-09-03T02:18:04Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-09-03T02:16:14Z"
+discovered_at: "2026-09-03T02:18:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

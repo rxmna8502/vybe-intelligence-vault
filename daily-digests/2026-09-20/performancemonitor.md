@@ -1,33 +1,19 @@
 ---
-title: erikdarlingdata/PerformanceMonitor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- C#
-- SQL Server
-- T-SQL
-- DuckDB
-- Parquet
-- WPF
-- .NET 10
-- MCP Server
-- XE (Extended Events)
+title: "erikdarlingdata/PerformanceMonitor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", "SQL Server", "T-SQL", "DuckDB", "Parquet", "WPF", ".NET 10", "MCP Server", "XE (Extended Events)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- SQL Server
-- Performance Monitoring
-- MCP Server
-- Real-time Alerts
-- AI Analysis
-source: https://github.com/erikdarlingdata/PerformanceMonitor
+deployment_complexity: "Medium"
+tags: ["SQL Server", "Performance Monitoring", "MCP Server", "Real-time Alerts", "AI Analysis"]
+source: "https://github.com/erikdarlingdata/PerformanceMonitor"
 stars: 437
-language: C#
-last_updated: '2026-07-15T17:48:42Z'
-discovered_at: '2026-07-15T18:07:15Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-15T17:48:42Z"
+discovered_at: "2026-07-15T18:07:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

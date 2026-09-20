@@ -1,30 +1,19 @@
 ---
-title: securemessage/mail-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- PHP 8.4
-- IMAP/SMTP protocols
-- Model Context Protocol (MCP)
-- Enchilada Framework
-- XOAUTH2
-- PHAR packaging
+title: "securemessage/mail-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PHP 8.4", "IMAP/SMTP protocols", "Model Context Protocol (MCP)", "Enchilada Framework", "XOAUTH2", "PHAR packaging"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- email automation
-- MCP server
-- AI agent integration
-- IMAP client
-- SMTP client
-source: https://github.com/securemessage/mail-mcp
+deployment_complexity: "Low"
+tags: ["email automation", "MCP server", "AI agent integration", "IMAP client", "SMTP client"]
+source: "https://github.com/securemessage/mail-mcp"
 stars: 1
-language: PHP
-last_updated: '2026-08-02T02:23:09Z'
-discovered_at: '2026-08-02T02:35:00Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-08-02T02:23:09Z"
+discovered_at: "2026-08-02T02:35:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

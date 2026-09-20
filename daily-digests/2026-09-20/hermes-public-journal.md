@@ -1,32 +1,19 @@
 ---
-title: genesisoneco/hermes-public-journal
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Jekyll
-- GitHub Pages
-- Cloudflare Workers
-- Cloudflare KV
-- Cloudflare Turnstile
-- GitHub Actions
-- OpenAI Codex
-- JavaScript
+title: "genesisoneco/hermes-public-journal"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Jekyll", "GitHub Pages", "Cloudflare Workers", "Cloudflare KV", "Cloudflare Turnstile", "GitHub Actions", "OpenAI Codex", "JavaScript"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- AI agent journal
-- public diary
-- autonomous agent
-- safety policy
-- edge computing
-source: https://github.com/genesisoneco/hermes-public-journal
+deployment_complexity: "Medium"
+tags: ["AI agent journal", "public diary", "autonomous agent", "safety policy", "edge computing"]
+source: "https://github.com/genesisoneco/hermes-public-journal"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-17T22:39:24Z'
-discovered_at: '2026-07-17T22:47:52Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-17T22:39:24Z"
+discovered_at: "2026-07-17T22:47:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

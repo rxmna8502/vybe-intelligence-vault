@@ -1,32 +1,19 @@
 ---
-title: ypollak2/llm-router
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SQLite
-- Ollama
-- Gemini
-- OpenRouter
-- FastAPI
-- Click
+title: "ypollak2/llm-router"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "Ollama", "Gemini", "OpenRouter", "FastAPI", "Click"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- prompt routing
-- cost optimization
-- local-first
-- subscription management
-- MCP integration
-source: https://github.com/ypollak2/llm-router
+deployment_complexity: "Low"
+tags: ["prompt routing", "cost optimization", "local-first", "subscription management", "MCP integration"]
+source: "https://github.com/ypollak2/llm-router"
 stars: 75
-language: Python
-last_updated: '2026-09-01T07:11:14Z'
-discovered_at: '2026-09-01T09:11:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T07:11:14Z"
+discovered_at: "2026-09-01T09:11:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

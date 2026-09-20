@@ -1,30 +1,19 @@
 ---
-title: bmdhodl/agent47
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- MIT License
-- PyPI
-- JSONL
-- OpenTelemetry
-- Pydantic
+title: "bmdhodl/agent47"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MIT License", "PyPI", "JSONL", "OpenTelemetry", "Pydantic"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- cost control
-- agent monitoring
-- loop detection
-- runtime guardrails
-- AI safety
-source: https://github.com/bmdhodl/agent47
+deployment_complexity: "Low"
+tags: ["cost control", "agent monitoring", "loop detection", "runtime guardrails", "AI safety"]
+source: "https://github.com/bmdhodl/agent47"
 stars: 4
-language: Python
-last_updated: '2026-08-02T05:52:39Z'
-discovered_at: '2026-08-02T05:57:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T05:52:39Z"
+discovered_at: "2026-08-02T05:57:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

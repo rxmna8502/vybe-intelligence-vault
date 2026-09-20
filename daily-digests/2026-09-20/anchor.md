@@ -1,25 +1,19 @@
 ---
-title: Ericyoung-183/Anchor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
+title: "Ericyoung-183/Anchor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python"]
 quality_score: 3
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- task management
-- productivity
-- agenda tracking
-- TODO drift prevention
-- workflow automation
-source: https://github.com/Ericyoung-183/Anchor
+deployment_complexity: "Low"
+tags: ["task management", "productivity", "agenda tracking", "TODO drift prevention", "workflow automation"]
+source: "https://github.com/Ericyoung-183/Anchor"
 stars: 1
-language: Python
-last_updated: '2026-07-19T05:48:48Z'
-discovered_at: '2026-07-19T05:50:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T05:48:48Z"
+discovered_at: "2026-07-19T05:50:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

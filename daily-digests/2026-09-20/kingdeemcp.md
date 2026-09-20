@@ -1,31 +1,19 @@
 ---
-title: WaHaiLong/KingdeeMCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastMCP
-- Pydantic
-- asyncio
-- Kingdee Cloud Star ERP API
-- SQL Server
-- Model Context Protocol (MCP)
+title: "WaHaiLong/KingdeeMCP"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastMCP", "Pydantic", "asyncio", "Kingdee Cloud Star ERP API", "SQL Server", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- ERP Integration
-- MCP Server
-- Kingdee Cloud Star
-- Natural Language Automation
-- Business Process Automation
-source: https://github.com/WaHaiLong/KingdeeMCP
+deployment_complexity: "Medium"
+tags: ["ERP Integration", "MCP Server", "Kingdee Cloud Star", "Natural Language Automation", "Business Process Automation"]
+source: "https://github.com/WaHaiLong/KingdeeMCP"
 stars: 53
-language: Python
-last_updated: '2026-08-08T09:31:04Z'
-discovered_at: '2026-08-08T09:40:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T09:31:04Z"
+discovered_at: "2026-08-08T09:40:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

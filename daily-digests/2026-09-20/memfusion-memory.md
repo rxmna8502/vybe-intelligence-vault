@@ -1,33 +1,19 @@
 ---
-title: huangpengtao00-dotcom/memfusion-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- BM25
-- Dense Embeddings
-- Reciprocal Rank Fusion (RRF)
-- LLM (gpt-4o-mini)
-- Porter Stemming
-- Orchestration Traces
-- RL Training
+title: "huangpengtao00-dotcom/memfusion-memory"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "FastAPI", "BM25", "Dense Embeddings", "Reciprocal Rank Fusion (RRF)", "LLM (gpt-4o-mini)", "Porter Stemming", "Orchestration Traces", "RL Training"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Memory System
-- Hybrid Retrieval
-- Orchestration Traces
-- RL Training
-- Long-term Agents
-source: https://github.com/huangpengtao00-dotcom/memfusion-memory
+deployment_complexity: "Medium"
+tags: ["Memory System", "Hybrid Retrieval", "Orchestration Traces", "RL Training", "Long-term Agents"]
+source: "https://github.com/huangpengtao00-dotcom/memfusion-memory"
 stars: 0
-language: Python
-last_updated: '2026-09-03T08:26:25Z'
-discovered_at: '2026-09-03T08:32:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T08:26:25Z"
+discovered_at: "2026-09-03T08:32:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

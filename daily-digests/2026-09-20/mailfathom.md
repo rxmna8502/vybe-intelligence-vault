@@ -1,33 +1,19 @@
 ---
-title: Krzysztof318/MailFathom
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- C#
-- .NET 10
-- PostgreSQL
-- Model Context Protocol (MCP)
-- IMAP
-- Docker
-- Kubernetes
-- Helm
-- OpenTelemetry
+title: "Krzysztof318/MailFathom"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C#", ".NET 10", "PostgreSQL", "Model Context Protocol (MCP)", "IMAP", "Docker", "Kubernetes", "Helm", "OpenTelemetry"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- mail synchronization
-- self-hosted
-- AI-native
-- MCP server
-- semantic search
-source: https://github.com/Krzysztof318/MailFathom
+deployment_complexity: "Medium"
+tags: ["mail synchronization", "self-hosted", "AI-native", "MCP server", "semantic search"]
+source: "https://github.com/Krzysztof318/MailFathom"
 stars: 0
-language: C#
-last_updated: '2026-08-02T17:59:25Z'
-discovered_at: '2026-08-02T18:02:37Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-02T17:59:25Z"
+discovered_at: "2026-08-02T18:02:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

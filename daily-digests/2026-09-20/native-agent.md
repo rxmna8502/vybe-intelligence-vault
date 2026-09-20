@@ -1,34 +1,19 @@
 ---
-title: embwl0x/native-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Swift
-- SQLite
-- Apple Silicon
-- macOS
-- iOS
-- CloudKit
-- Sparkle
-- OAuth
-- GitHub Actions
-- Xcode
+title: "embwl0x/native-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Swift", "SQLite", "Apple Silicon", "macOS", "iOS", "CloudKit", "Sparkle", "OAuth", "GitHub Actions", "Xcode"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- agent runtime
-- cross-platform
-- local-first
-- memory persistence
-- trust boundaries
-source: https://github.com/embwl0x/native-agent
+deployment_complexity: "High"
+tags: ["agent runtime", "cross-platform", "local-first", "memory persistence", "trust boundaries"]
+source: "https://github.com/embwl0x/native-agent"
 stars: 1
-language: Swift
-last_updated: '2026-08-01T21:44:15Z'
-discovered_at: '2026-08-01T21:55:05Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-01T21:44:15Z"
+discovered_at: "2026-08-01T21:55:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

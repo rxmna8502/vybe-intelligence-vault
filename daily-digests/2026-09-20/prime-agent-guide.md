@@ -1,28 +1,19 @@
 ---
-title: cskwork/prime-agent-guide
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Google Fonts (Inter, JetBrains Mono)
+title: "cskwork/prime-agent-guide"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["HTML5", "CSS3", "Vanilla JavaScript", "Google Fonts (Inter, JetBrains Mono)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- interactive guide
-- bilingual documentation
-- RLM programming
-- Prime Agent
-- architecture visualization
-source: https://github.com/cskwork/prime-agent-guide
+deployment_complexity: "Low"
+tags: ["interactive guide", "bilingual documentation", "RLM programming", "Prime Agent", "architecture visualization"]
+source: "https://github.com/cskwork/prime-agent-guide"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-08T12:42:25Z'
-discovered_at: '2026-08-08T12:47:09Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T12:42:25Z"
+discovered_at: "2026-08-08T12:47:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: CSOAI-ORG/ai-self-audit-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- HMAC-SHA256
-- A2A (Agent-to-Agent) Framework
-- C2PA (Coalition for Content Provenance and Authenticity)
-- PyPI
+title: "CSOAI-ORG/ai-self-audit-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "HMAC-SHA256", "A2A (Agent-to-Agent) Framework", "C2PA (Coalition for Content Provenance and Authenticity)", "PyPI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- EU AI Act Compliance
-- AI Auditing
-- Tamper-Proof Records
-- Signed Certificates
-- Regulatory Compliance
-source: https://github.com/CSOAI-ORG/ai-self-audit-mcp
+deployment_complexity: "Medium"
+tags: ["EU AI Act Compliance", "AI Auditing", "Tamper-Proof Records", "Signed Certificates", "Regulatory Compliance"]
+source: "https://github.com/CSOAI-ORG/ai-self-audit-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-04T12:59:28Z'
-discovered_at: '2026-08-04T13:04:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T12:59:28Z"
+discovered_at: "2026-08-04T13:04:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

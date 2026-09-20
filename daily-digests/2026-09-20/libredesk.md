@@ -1,32 +1,19 @@
 ---
-title: abhinavxd/libredesk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- Vue.js 3
-- Shadcn UI
-- PostgreSQL
-- Redis
-- Docker
-- HTTP/JSON APIs
-- Webhooks
+title: "abhinavxd/libredesk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Vue.js 3", "Shadcn UI", "PostgreSQL", "Redis", "Docker", "HTTP/JSON APIs", "Webhooks"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- customer support
-- omnichannel
-- self-hosted
-- AI assistant
-- automation
-source: https://github.com/abhinavxd/libredesk
+deployment_complexity: "Medium"
+tags: ["customer support", "omnichannel", "self-hosted", "AI assistant", "automation"]
+source: "https://github.com/abhinavxd/libredesk"
 stars: 2870
-language: Go
-last_updated: '2026-09-01T18:58:48Z'
-discovered_at: '2026-09-01T19:06:46Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-01T18:58:48Z"
+discovered_at: "2026-09-01T19:06:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

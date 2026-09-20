@@ -1,29 +1,19 @@
 ---
-title: gcrab/gcrab
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- Telegram Bot API
-- OpenAI-compatible API
-- JSONL event logging
-- Systemd hardening
+title: "gcrab/gcrab"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Telegram Bot API", "OpenAI-compatible API", "JSONL event logging", "Systemd hardening"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- self-hosted
-- security-focused
-- minimalist
-- replayable
-- policy-gated
-source: https://github.com/gcrab/gcrab
+deployment_complexity: "Medium"
+tags: ["self-hosted", "security-focused", "minimalist", "replayable", "policy-gated"]
+source: "https://github.com/gcrab/gcrab"
 stars: 0
-language: Go
-last_updated: '2026-08-07T06:07:37Z'
-discovered_at: '2026-08-07T06:12:34Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T06:07:37Z"
+discovered_at: "2026-08-07T06:12:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

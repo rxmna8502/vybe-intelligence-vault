@@ -1,30 +1,19 @@
 ---
-title: boostuagency/boostu-teamleader-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- OAuth2
-- REST API
-- npm
+title: "boostuagency/boostu-teamleader-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth2", "REST API", "npm"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- CRM integration
-- MCP server
-- Teamleader Focus
-- AI assistant tools
-- OAuth2 authentication
-source: https://github.com/boostuagency/boostu-teamleader-mcp
+deployment_complexity: "Medium"
+tags: ["CRM integration", "MCP server", "Teamleader Focus", "AI assistant tools", "OAuth2 authentication"]
+source: "https://github.com/boostuagency/boostu-teamleader-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-13T13:19:53Z'
-discovered_at: '2026-07-13T13:22:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T13:19:53Z"
+discovered_at: "2026-07-13T13:22:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

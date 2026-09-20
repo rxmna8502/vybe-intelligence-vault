@@ -1,31 +1,19 @@
 ---
-title: dong845/travel-buddy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Claude Code
-- Codex
-- HTML
-- JavaScript
-- Browser Automation
-- Local Data Processing
+title: "dong845/travel-buddy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "Codex", "HTML", "JavaScript", "Browser Automation", "Local Data Processing"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- travel planning
-- itinerary generation
-- real-time validation
-- self-contained HTML
-- local data processing
-source: https://github.com/dong845/travel-buddy
+deployment_complexity: "Medium"
+tags: ["travel planning", "itinerary generation", "real-time validation", "self-contained HTML", "local data processing"]
+source: "https://github.com/dong845/travel-buddy"
 stars: 0
-language: Python
-last_updated: '2026-08-08T16:28:03Z'
-discovered_at: '2026-08-08T16:35:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T16:28:03Z"
+discovered_at: "2026-08-08T16:35:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

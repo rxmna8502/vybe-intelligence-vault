@@ -1,28 +1,19 @@
 ---
-title: barongoj3693/nativewright
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Windows OS
-- Google Chrome
-- JavaScript
-- Command Line Interface
+title: "barongoj3693/nativewright"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows OS", "Google Chrome", "JavaScript", "Command Line Interface"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- browser automation
-- anti-detection
-- human-like interaction
-- persistent profiles
-- CLI automation
-source: https://github.com/barongoj3693/nativewright
+deployment_complexity: "Medium"
+tags: ["browser automation", "anti-detection", "human-like interaction", "persistent profiles", "CLI automation"]
+source: "https://github.com/barongoj3693/nativewright"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-11T11:02:58Z'
-discovered_at: '2026-07-11T11:03:24Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T11:02:58Z"
+discovered_at: "2026-07-11T11:03:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

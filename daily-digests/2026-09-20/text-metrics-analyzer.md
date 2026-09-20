@@ -1,32 +1,19 @@
 ---
-title: ALE7506/text-metrics-analyzer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Node.js
-- MCP (Model Context Protocol)
-- OpenAI API
-- Claude API
-- Unicode 16.0
-- TrueType/OpenType Fonts
-- Mermaid.js
+title: "ALE7506/text-metrics-analyzer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Node.js", "MCP (Model Context Protocol)", "OpenAI API", "Claude API", "Unicode 16.0", "TrueType/OpenType Fonts", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- text measurement
-- layout optimization
-- DOM-free
-- MCP tools
-- typography
-source: https://github.com/ALE7506/text-metrics-analyzer
+deployment_complexity: "Medium"
+tags: ["text measurement", "layout optimization", "DOM-free", "MCP tools", "typography"]
+source: "https://github.com/ALE7506/text-metrics-analyzer"
 stars: 1
-language: HTML
-last_updated: '2026-09-01T19:04:02Z'
-discovered_at: '2026-09-01T19:08:54Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-01T19:04:02Z"
+discovered_at: "2026-09-01T19:08:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: shayeeboy/Financial-Intelligence-Strategy-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- GitHub Pages
-- Cloudflare Workers
-- Neon Postgres
-- GitHub Actions
-- Statistics Canada API
-- CMHC API
-- Bank of Canada API
+title: "shayeeboy/Financial-Intelligence-Strategy-Agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "GitHub Pages", "Cloudflare Workers", "Neon Postgres", "GitHub Actions", "Statistics Canada API", "CMHC API", "Bank of Canada API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous agent
-- business intelligence
-- financial strategy
-- public data integration
-- MCP tools
-source: https://github.com/shayeeboy/Financial-Intelligence-Strategy-Agent
+deployment_complexity: "Medium"
+tags: ["autonomous agent", "business intelligence", "financial strategy", "public data integration", "MCP tools"]
+source: "https://github.com/shayeeboy/Financial-Intelligence-Strategy-Agent"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-20T03:33:26Z'
-discovered_at: '2026-07-20T03:37:36Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-20T03:33:26Z"
+discovered_at: "2026-07-20T03:37:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

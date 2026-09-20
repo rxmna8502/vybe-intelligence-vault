@@ -1,34 +1,19 @@
 ---
-title: HelixDB/helix-db
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Rust
-- Graph Database
-- Vector Database
-- Object Storage
-- TypeScript
-- Python
-- Go
-- Docker
-- MinIO
-- S3
+title: "HelixDB/helix-db"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "Graph Database", "Vector Database", "Object Storage", "TypeScript", "Python", "Go", "Docker", "MinIO", "S3"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- graph-vector
-- AI memory
-- knowledge graph
-- RAG
-- multi-model database
-source: https://github.com/HelixDB/helix-db
+deployment_complexity: "Medium"
+tags: ["graph-vector", "AI memory", "knowledge graph", "RAG", "multi-model database"]
+source: "https://github.com/HelixDB/helix-db"
 stars: 5708
-language: Rust
-last_updated: '2026-08-07T10:57:52Z'
-discovered_at: '2026-08-07T11:05:24Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T10:57:52Z"
+discovered_at: "2026-08-07T11:05:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

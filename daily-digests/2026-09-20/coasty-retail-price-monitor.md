@@ -1,30 +1,19 @@
 ---
-title: coasty-ai/coasty-retail-price-monitor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Node.js
-- JavaScript
-- Coasty API
-- Computer-use automation
-- Browser automation
-- Vision models
+title: "coasty-ai/coasty-retail-price-monitor"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "JavaScript", "Coasty API", "Computer-use automation", "Browser automation", "Vision models"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent
-- retail automation
-- price monitoring
-- browser automation
-- computer-use
-source: https://github.com/coasty-ai/coasty-retail-price-monitor
+deployment_complexity: "Medium"
+tags: ["AI agent", "retail automation", "price monitoring", "browser automation", "computer-use"]
+source: "https://github.com/coasty-ai/coasty-retail-price-monitor"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-02T19:22:08Z'
-discovered_at: '2026-08-02T19:25:23Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T19:22:08Z"
+discovered_at: "2026-08-02T19:25:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

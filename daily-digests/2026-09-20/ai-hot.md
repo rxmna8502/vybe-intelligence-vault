@@ -1,31 +1,19 @@
 ---
-title: laolaoshiren/ai-hot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- JavaScript
-- HTML/CSS
-- Web Scraping
-- API Integration
-- Markdown
-- GitHub Actions
+title: "laolaoshiren/ai-hot"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Python", "JavaScript", "HTML/CSS", "Web Scraping", "API Integration", "Markdown", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI导航
-- 中文资源
-- 工具聚合
-- 实时更新
-- 开源项目
-source: https://github.com/laolaoshiren/ai-hot
+deployment_complexity: "Medium"
+tags: ["AI\u5bfc\u822a", "\u4e2d\u6587\u8d44\u6e90", "\u5de5\u5177\u805a\u5408", "\u5b9e\u65f6\u66f4\u65b0", "\u5f00\u6e90\u9879\u76ee"]
+source: "https://github.com/laolaoshiren/ai-hot"
 stars: 65
-language: Python
-last_updated: '2026-09-02T10:25:39Z'
-discovered_at: '2026-09-02T15:49:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T10:25:39Z"
+discovered_at: "2026-09-02T15:49:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
