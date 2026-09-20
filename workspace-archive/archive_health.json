@@ -1,7 +1,7 @@
 {
   "status": "healthy",
-  "last_generated_at": "2026-09-21T00:44:43.886857+05:30",
-  "total_items": 114837,
+  "last_generated_at": "2026-09-21T04:24:25.908889+05:30",
+  "total_items": 114836,
   "category_counts": {
     "ai-coding-agents": 4757,
     "agent-instructions": 13,
@@ -9,7 +9,7 @@
     "agent-frameworks": 4858,
     "rag-systems": 25451,
     "llm-app-templates": 353,
-    "evals-and-benchmarks": 24843,
+    "evals-and-benchmarks": 24842,
     "observability": 1377,
     "guardrails-security": 13768,
     "model-providers": 2830,
