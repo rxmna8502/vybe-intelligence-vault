@@ -1,19 +1,37 @@
 ---
-title: "dtkmn/mcp-zap-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java 25", "Spring Boot", "OWASP ZAP", "Docker", "Docker Compose", "Kubernetes", "PostgreSQL", "MCP (Model Context Protocol)", "Streamable HTTP", "Jackson 3", "Netty", "Logback", "Helm"]
+title: dtkmn/mcp-zap-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Java 25
+- Spring Boot
+- OWASP ZAP
+- Docker
+- Docker Compose
+- Kubernetes
+- PostgreSQL
+- MCP (Model Context Protocol)
+- Streamable HTTP
+- Jackson 3
+- Netty
+- Logback
+- Helm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["web security scanning", "AI agent integration", "OWASP ZAP", "MCP server", "self-hosted"]
-source: "https://github.com/dtkmn/mcp-zap-server"
+deployment_complexity: Medium
+tags:
+- web security scanning
+- AI agent integration
+- OWASP ZAP
+- MCP server
+- self-hosted
+source: https://github.com/dtkmn/mcp-zap-server
 stars: 63
-language: "Java"
-last_updated: "2026-08-07T09:55:29Z"
-discovered_at: "2026-08-07T10:04:43Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T09:55:29Z'
+discovered_at: '2026-08-07T10:04:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

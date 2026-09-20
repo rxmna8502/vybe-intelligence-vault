@@ -1,19 +1,32 @@
 ---
-title: "chuf-China/nexus-memory"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "SQLite", "FTS5 (Full-Text Search)", "HNSW (Hierarchical Navigable Small World)", "NumPy", "FastEmbed", "OpenAI (optional)", "Sentence Transformers (optional)"]
+title: chuf-China/nexus-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite
+- FTS5 (Full-Text Search)
+- HNSW (Hierarchical Navigable Small World)
+- NumPy
+- FastEmbed
+- OpenAI (optional)
+- Sentence Transformers (optional)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["persistent memory", "cross-session context", "vector search", "local-first", "agent memory"]
-source: "https://github.com/chuf-China/nexus-memory"
+deployment_complexity: Low
+tags:
+- persistent memory
+- cross-session context
+- vector search
+- local-first
+- agent memory
+source: https://github.com/chuf-China/nexus-memory
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T16:43:52Z"
-discovered_at: "2026-08-05T16:44:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T16:43:52Z'
+discovered_at: '2026-08-05T16:44:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

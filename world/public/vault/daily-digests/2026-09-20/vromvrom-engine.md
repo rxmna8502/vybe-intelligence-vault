@@ -1,19 +1,37 @@
 ---
-title: "Axellum/vromvrom-engine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.11+", "FastAPI", "asyncio", "SQLite", "ChromaDB", "scikit-learn", "Pydantic", "TF-IDF", "BM25", "React", "Vite", "TypeScript", "Docker"]
+title: Axellum/vromvrom-engine
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Python 3.11+
+- FastAPI
+- asyncio
+- SQLite
+- ChromaDB
+- scikit-learn
+- Pydantic
+- TF-IDF
+- BM25
+- React
+- Vite
+- TypeScript
+- Docker
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "LLM routing", "Elo scoring", "self-healing", "OpenAI-compatible API"]
-source: "https://github.com/Axellum/vromvrom-engine"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- LLM routing
+- Elo scoring
+- self-healing
+- OpenAI-compatible API
+source: https://github.com/Axellum/vromvrom-engine
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T13:05:51Z"
-discovered_at: "2026-08-10T13:08:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T13:05:51Z'
+discovered_at: '2026-08-10T13:08:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

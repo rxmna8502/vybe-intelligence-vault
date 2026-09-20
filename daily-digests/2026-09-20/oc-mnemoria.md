@@ -1,19 +1,28 @@
 ---
-title: "milkyway80901/oc-mnemoria"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "TypeScript", "OpenCode", "Persistent Storage"]
+title: milkyway80901/oc-mnemoria
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- TypeScript
+- OpenCode
+- Persistent Storage
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["persistent memory", "agent memory", "shared memory", "context retention", "OpenCode integration"]
-source: "https://github.com/milkyway80901/oc-mnemoria"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- agent memory
+- shared memory
+- context retention
+- OpenCode integration
+source: https://github.com/milkyway80901/oc-mnemoria
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-17T02:51:32Z"
-discovered_at: "2026-07-17T02:51:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T02:51:32Z'
+discovered_at: '2026-07-17T02:51:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

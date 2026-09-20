@@ -1,19 +1,28 @@
 ---
-title: "theYahia/kontur-focus-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "Node.js"]
+title: theYahia/kontur-focus-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST API
+- Node.js
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["MCP server", "Kontur.Focus", "Russian corporate data", "counterparty verification", "financial reporting"]
-source: "https://github.com/theYahia/kontur-focus-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- Kontur.Focus
+- Russian corporate data
+- counterparty verification
+- financial reporting
+source: https://github.com/theYahia/kontur-focus-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T18:46:41Z"
-discovered_at: "2026-09-02T19:14:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T18:46:41Z'
+discovered_at: '2026-09-02T19:14:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

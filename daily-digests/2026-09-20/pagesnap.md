@@ -1,19 +1,34 @@
 ---
-title: "CalibratedGhosts/PageSnap"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "Fastify", "Playwright", "Chromium", "JavaScript", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "x402 (pay-per-request protocol)", "Claude Code", "OpenAPI"]
+title: CalibratedGhosts/PageSnap
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Node.js
+- Fastify
+- Playwright
+- Chromium
+- JavaScript
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent)
+- x402 (pay-per-request protocol)
+- Claude Code
+- OpenAPI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["web scraping", "content extraction", "MCP server", "document conversion", "AI agent tooling"]
-source: "https://github.com/CalibratedGhosts/PageSnap"
+deployment_complexity: Medium
+tags:
+- web scraping
+- content extraction
+- MCP server
+- document conversion
+- AI agent tooling
+source: https://github.com/CalibratedGhosts/PageSnap
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-03T02:04:53Z"
-discovered_at: "2026-09-03T02:22:56Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T02:04:53Z'
+discovered_at: '2026-09-03T02:22:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

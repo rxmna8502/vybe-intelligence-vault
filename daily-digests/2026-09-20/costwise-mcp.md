@@ -1,19 +1,32 @@
 ---
-title: "okyashgajjar/costwise-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Tree-sitter", "SQLite", "MCP (Model Context Protocol)", "Bluge (inverted index)", "Claude Code", "Cursor", "OpenCode"]
+title: okyashgajjar/costwise-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Go
+- Tree-sitter
+- SQLite
+- MCP (Model Context Protocol)
+- Bluge (inverted index)
+- Claude Code
+- Cursor
+- OpenCode
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "code indexing", "token optimization", "AI agent tooling", "repository intelligence"]
-source: "https://github.com/okyashgajjar/costwise-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- code indexing
+- token optimization
+- AI agent tooling
+- repository intelligence
+source: https://github.com/okyashgajjar/costwise-mcp
 stars: 20
-language: "Go"
-last_updated: "2026-08-02T15:01:30Z"
-discovered_at: "2026-08-02T15:02:46Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T15:01:30Z'
+discovered_at: '2026-08-02T15:02:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

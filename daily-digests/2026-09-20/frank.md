@@ -1,19 +1,33 @@
 ---
-title: "ghovax/frank"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Tauri", "Next.js", "LangChain", "LangChain", "macOS", "Nix", "Redis", "Tailscale"]
+title: ghovax/frank
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Tauri
+- Next.js
+- LangChain
+- LangChain
+- macOS
+- Nix
+- Redis
+- Tailscale
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "self-hosted", "modular harness", "model-agnostic", "macOS native"]
-source: "https://github.com/ghovax/frank"
+deployment_complexity: Medium
+tags:
+- coding agent
+- self-hosted
+- modular harness
+- model-agnostic
+- macOS native
+source: https://github.com/ghovax/frank
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T17:41:04Z"
-discovered_at: "2026-08-04T17:50:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T17:41:04Z'
+discovered_at: '2026-08-04T17:50:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

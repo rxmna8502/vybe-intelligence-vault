@@ -1,19 +1,31 @@
 ---
-title: "artokun/comfyui-mcp-panel"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["JavaScript", "ComfyUI", "MCP (Model Context Protocol)", "Node.js", "TypeScript", "WebSocket", "React (implied by UI components)"]
+title: artokun/comfyui-mcp-panel
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- ComfyUI
+- MCP (Model Context Protocol)
+- Node.js
+- TypeScript
+- WebSocket
+- React (implied by UI components)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["ComfyUI", "AI Agent", "Workflow Automation", "Natural Language Editing", "MCP Integration"]
-source: "https://github.com/artokun/comfyui-mcp-panel"
+deployment_complexity: Medium
+tags:
+- ComfyUI
+- AI Agent
+- Workflow Automation
+- Natural Language Editing
+- MCP Integration
+source: https://github.com/artokun/comfyui-mcp-panel
 stars: 104
-language: "JavaScript"
-last_updated: "2026-09-02T19:08:28Z"
-discovered_at: "2026-09-02T19:11:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T19:08:28Z'
+discovered_at: '2026-09-02T19:11:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

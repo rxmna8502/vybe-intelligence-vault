@@ -1,19 +1,29 @@
 ---
-title: "NiceEval/NiceEval"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Docker", "Node.js", "OpenTelemetry (OTel)", "AI SDKs (Claude, Codex, AI SDK, Pi Agent SDK)"]
+title: NiceEval/NiceEval
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Docker
+- Node.js
+- OpenTelemetry (OTel)
+- AI SDKs (Claude, Codex, AI SDK, Pi Agent SDK)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI evaluation", "agent-native", "multi-turn testing", "sandboxing", "production monitoring"]
-source: "https://github.com/NiceEval/NiceEval"
+deployment_complexity: Medium
+tags:
+- AI evaluation
+- agent-native
+- multi-turn testing
+- sandboxing
+- production monitoring
+source: https://github.com/NiceEval/NiceEval
 stars: 20
-language: "TypeScript"
-last_updated: "2026-08-05T05:45:34Z"
-discovered_at: "2026-08-05T05:47:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:45:34Z'
+discovered_at: '2026-08-05T05:47:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

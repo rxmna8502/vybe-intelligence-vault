@@ -1,19 +1,33 @@
 ---
-title: "Leihb/learn-agent-the-hard-way"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Python", "JavaScript", "LLM APIs", "HTTP", "Sandboxing", "MCP (Model Context Protocol)", "Browser Automation", "Workflow Orchestration"]
+title: Leihb/learn-agent-the-hard-way
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Go
+- Python
+- JavaScript
+- LLM APIs
+- HTTP
+- Sandboxing
+- MCP (Model Context Protocol)
+- Browser Automation
+- Workflow Orchestration
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent-harness", "tool-design", "hands-on-learning", "LLM-integration", "production-ready"]
-source: "https://github.com/Leihb/learn-agent-the-hard-way"
+deployment_complexity: Medium
+tags:
+- agent-harness
+- tool-design
+- hands-on-learning
+- LLM-integration
+- production-ready
+source: https://github.com/Leihb/learn-agent-the-hard-way
 stars: 32
-language: "Go"
-last_updated: "2026-09-03T08:24:32Z"
-discovered_at: "2026-09-03T08:35:09Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T08:24:32Z'
+discovered_at: '2026-09-03T08:35:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

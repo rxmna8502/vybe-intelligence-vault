@@ -25663,10 +25663,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
+  - [Can you tell which images are AI-generated?](../ai/community/can-you-tell-which-images-are-ai-generated.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
-  - [I think you should almost never use AI to write](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
-  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
-  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -29529,4 +29527,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T04:11:08.536180+05:30*
+*Index generated on 2026-09-20T10:48:30.254999+05:30*

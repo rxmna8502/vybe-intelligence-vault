@@ -1,19 +1,29 @@
 ---
-title: "Michael-Hutchinson/strava-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Strava API", "Model Context Protocol (MCP)", "OAuth 2.0"]
+title: Michael-Hutchinson/strava-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Strava API
+- Model Context Protocol (MCP)
+- OAuth 2.0
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "Strava integration", "Claude AI", "OAuth", "API wrapper"]
-source: "https://github.com/Michael-Hutchinson/strava-mcp-server"
+deployment_complexity: Low
+tags:
+- MCP server
+- Strava integration
+- Claude AI
+- OAuth
+- API wrapper
+source: https://github.com/Michael-Hutchinson/strava-mcp-server
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T17:49:32Z"
-discovered_at: "2026-08-04T17:50:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T17:49:32Z'
+discovered_at: '2026-08-04T17:50:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

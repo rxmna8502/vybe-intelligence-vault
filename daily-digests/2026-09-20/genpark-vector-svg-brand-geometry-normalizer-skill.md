@@ -1,19 +1,28 @@
 ---
-title: "Alpha-Park/genpark-vector-svg-brand-geometry-normalizer-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "SVG Path Optimization"]
+title: Alpha-Park/genpark-vector-svg-brand-geometry-normalizer-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python 3.9+
+- Model Context Protocol (MCP)
+- JSON-RPC
+- SVG Path Optimization
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["SVG normalization", "vector optimization", "MCP server", "zero dependencies", "multimodal UI"]
-source: "https://github.com/Alpha-Park/genpark-vector-svg-brand-geometry-normalizer-skill"
+deployment_complexity: Low
+tags:
+- SVG normalization
+- vector optimization
+- MCP server
+- zero dependencies
+- multimodal UI
+source: https://github.com/Alpha-Park/genpark-vector-svg-brand-geometry-normalizer-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-03T15:34:42Z"
-discovered_at: "2026-09-03T15:40:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:34:42Z'
+discovered_at: '2026-09-03T15:40:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "djt889/OhMyZcode"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js (>= 22.13)", "SQLite (node:sqlite)", "ZCode Plugin System", "MCP (Model Context Protocol)", "Bash (for file operations)", "Electron (for dashboard)"]
+title: djt889/OhMyZcode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Node.js (>= 22.13)
+- SQLite (node:sqlite)
+- ZCode Plugin System
+- MCP (Model Context Protocol)
+- Bash (for file operations)
+- Electron (for dashboard)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "ZCode plugin", "parallel execution", "independent review", "interview-based planning"]
-source: "https://github.com/djt889/OhMyZcode"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- ZCode plugin
+- parallel execution
+- independent review
+- interview-based planning
+source: https://github.com/djt889/OhMyZcode
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-02T02:06:14Z"
-discovered_at: "2026-09-02T02:12:34Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T02:06:14Z'
+discovered_at: '2026-09-02T02:12:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

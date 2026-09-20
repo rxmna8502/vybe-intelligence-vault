@@ -1,19 +1,33 @@
 ---
-title: "prayerjosiah/ai-automation-portfolio"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["n8n", "Zapier", "Make.com", "OpenAI", "Pinecone", "Typeform", "HubSpot", "Slack", "Email APIs"]
+title: prayerjosiah/ai-automation-portfolio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- n8n
+- Zapier
+- Make.com
+- OpenAI
+- Pinecone
+- Typeform
+- HubSpot
+- Slack
+- Email APIs
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI automation", "workflow orchestration", "RAG systems", "production-grade", "multi-tenant"]
-source: "https://github.com/prayerjosiah/ai-automation-portfolio"
+deployment_complexity: Medium
+tags:
+- AI automation
+- workflow orchestration
+- RAG systems
+- production-grade
+- multi-tenant
+source: https://github.com/prayerjosiah/ai-automation-portfolio
 stars: 0
-language: "None"
-last_updated: "2026-07-15T10:37:59Z"
-discovered_at: "2026-07-15T10:48:31Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-15T10:37:59Z'
+discovered_at: '2026-07-15T10:48:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

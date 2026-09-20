@@ -1,19 +1,29 @@
 ---
-title: "juese72/demo-linkedin-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Fetch.ai", "Agentverse", "LinkedIn API", "Desktop Application"]
+title: juese72/demo-linkedin-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Fetch.ai
+- Agentverse
+- LinkedIn API
+- Desktop Application
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["LinkedIn automation", "social media tool", "AI agent", "content scheduling", "Fetch.ai integration"]
-source: "https://github.com/juese72/demo-linkedin-agent"
+deployment_complexity: Low
+tags:
+- LinkedIn automation
+- social media tool
+- AI agent
+- content scheduling
+- Fetch.ai integration
+source: https://github.com/juese72/demo-linkedin-agent
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T22:10:08Z"
-discovered_at: "2026-09-01T22:18:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:10:08Z'
+discovered_at: '2026-09-01T22:18:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

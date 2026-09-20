@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: sentence-transformers/all-mpnet-base-v2 (Likes: 1377, Downloads: 22564768)
+Trending Hugging Face model: sentence-transformers/all-mpnet-base-v2 (Likes: 1378, Downloads: 22564768)
 
 ## Use Cases
 

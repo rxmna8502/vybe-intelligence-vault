@@ -1,19 +1,31 @@
 ---
-title: "24bsc244-svg/pdlc-forge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.11+", "YAML", "OpenAPI/Anthropic API", "Hugging Face (local models)", "CLI (Click or similar)", "JSON (audit logs)", "Mermaid.js (diagrams)"]
+title: 24bsc244-svg/pdlc-forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python 3.11+
+- YAML
+- OpenAPI/Anthropic API
+- Hugging Face (local models)
+- CLI (Click or similar)
+- JSON (audit logs)
+- Mermaid.js (diagrams)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI contract enforcement", "test-driven development", "PDLC automation", "AI accountability", "software development lifecycle"]
-source: "https://github.com/24bsc244-svg/pdlc-forge"
+deployment_complexity: Medium
+tags:
+- AI contract enforcement
+- test-driven development
+- PDLC automation
+- AI accountability
+- software development lifecycle
+source: https://github.com/24bsc244-svg/pdlc-forge
 stars: 3
-language: "HTML"
-last_updated: "2026-09-01T22:17:07Z"
-discovered_at: "2026-09-01T22:17:36Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T22:17:07Z'
+discovered_at: '2026-09-01T22:17:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

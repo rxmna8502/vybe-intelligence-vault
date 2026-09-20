@@ -1,19 +1,33 @@
 ---
-title: "Sk-husamuddin/Research-Agent-Project-v2"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "FastAPI", "Groq", "GitHub Models", "Model Context Protocol (MCP)", "Tavily API", "asteval", "Node.js"]
+title: Sk-husamuddin/Research-Agent-Project-v2
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- Groq
+- GitHub Models
+- Model Context Protocol (MCP)
+- Tavily API
+- asteval
+- Node.js
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "autonomous planning", "MCP integration", "LangGraph", "research automation"]
-source: "https://github.com/Sk-husamuddin/Research-Agent-Project-v2"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- autonomous planning
+- MCP integration
+- LangGraph
+- research automation
+source: https://github.com/Sk-husamuddin/Research-Agent-Project-v2
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T07:21:24Z"
-discovered_at: "2026-07-19T07:29:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T07:21:24Z'
+discovered_at: '2026-07-19T07:29:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

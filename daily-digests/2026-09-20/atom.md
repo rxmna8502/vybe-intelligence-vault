@@ -1,19 +1,36 @@
 ---
-title: "rush86999/atom"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Next.js", "PostgreSQL", "LanceDB", "FastAPI", "Docker", "Ollama", "vLLM", "LLM providers (OpenAI, Anthropic, DeepSeek, etc.)", "Redis", "SQLite", "TypeScript"]
+title: rush86999/atom
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Next.js
+- PostgreSQL
+- LanceDB
+- FastAPI
+- Docker
+- Ollama
+- vLLM
+- LLM providers (OpenAI, Anthropic, DeepSeek, etc.)
+- Redis
+- SQLite
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "governance", "self-hosted", "workflow automation", "multi-agent orchestration"]
-source: "https://github.com/rush86999/atom"
+deployment_complexity: Medium
+tags:
+- AI agents
+- governance
+- self-hosted
+- workflow automation
+- multi-agent orchestration
+source: https://github.com/rush86999/atom
 stars: 880
-language: "Python"
-last_updated: "2026-09-01T22:16:56Z"
-discovered_at: "2026-09-01T22:17:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:16:56Z'
+discovered_at: '2026-09-01T22:17:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

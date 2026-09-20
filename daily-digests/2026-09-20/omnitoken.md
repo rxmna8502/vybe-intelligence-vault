@@ -1,19 +1,33 @@
 ---
-title: "SunayHegde2006/OmniToken"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "AVX-512", "ARM NEON", "GPU Compute (CUDA/OpenCL)", "Double-Array Trie (DAT)", "io_uring", "DirectStorage", "DLPack", "C-ABI"]
+title: SunayHegde2006/OmniToken
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- AVX-512
+- ARM NEON
+- GPU Compute (CUDA/OpenCL)
+- Double-Array Trie (DAT)
+- io_uring
+- DirectStorage
+- DLPack
+- C-ABI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["tokenization", "high-performance", "GPU acceleration", "BPE", "WordPiece"]
-source: "https://github.com/SunayHegde2006/OmniToken"
+deployment_complexity: Medium
+tags:
+- tokenization
+- high-performance
+- GPU acceleration
+- BPE
+- WordPiece
+source: https://github.com/SunayHegde2006/OmniToken
 stars: 1
-language: "Rust"
-last_updated: "2026-09-03T08:26:34Z"
-discovered_at: "2026-09-03T22:13:25Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T08:26:34Z'
+discovered_at: '2026-09-03T22:13:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "Tweet-META/LunAI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Pygame", "Reinforcement Learning (PPO)", "PyTorch", "NumPy", "CUDA"]
+title: Tweet-META/LunAI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Pygame
+- Reinforcement Learning (PPO)
+- PyTorch
+- NumPy
+- CUDA
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["reinforcement learning", "game AI", "PPO", "bullet-hell", "curriculum learning"]
-source: "https://github.com/Tweet-META/LunAI"
+deployment_complexity: Medium
+tags:
+- reinforcement learning
+- game AI
+- PPO
+- bullet-hell
+- curriculum learning
+source: https://github.com/Tweet-META/LunAI
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T13:08:33Z"
-discovered_at: "2026-07-11T13:14:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T13:08:33Z'
+discovered_at: '2026-07-11T13:14:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

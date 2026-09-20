@@ -1,19 +1,36 @@
 ---
-title: "vericle/heyclaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Gemini 3.1 Flash-Lite", "Mem0", "ElevenLabs Speech Engine", "DSPy", "MCP (Model Context Protocol)", "openWakeWord", "ngrok", "WebSockets", "Ruff", "mypy"]
+title: vericle/heyclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastAPI
+- Gemini 3.1 Flash-Lite
+- Mem0
+- ElevenLabs Speech Engine
+- DSPy
+- MCP (Model Context Protocol)
+- openWakeWord
+- ngrok
+- WebSockets
+- Ruff
+- mypy
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["voice-assistant", "real-time-ai", "local-wake-word", "mcp-tools", "self-hosted"]
-source: "https://github.com/vericle/heyclaw"
+deployment_complexity: Medium
+tags:
+- voice-assistant
+- real-time-ai
+- local-wake-word
+- mcp-tools
+- self-hosted
+source: https://github.com/vericle/heyclaw
 stars: 5
-language: "Python"
-last_updated: "2026-08-08T18:30:19Z"
-discovered_at: "2026-08-08T18:39:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T18:30:19Z'
+discovered_at: '2026-08-08T18:39:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

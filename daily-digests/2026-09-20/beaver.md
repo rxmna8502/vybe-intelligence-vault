@@ -1,19 +1,33 @@
 ---
-title: "syalia-srl/beaver"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "NumPy", "Pydantic", "Rich", "Typer", "FTS5 (Full-Text Search)", "HyperLogLog", "Bloom Filters"]
+title: syalia-srl/beaver
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite
+- NumPy
+- Pydantic
+- Rich
+- Typer
+- FTS5 (Full-Text Search)
+- HyperLogLog
+- Bloom Filters
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["embedded database", "vector search", "document storage", "Pythonic API", "local-first"]
-source: "https://github.com/syalia-srl/beaver"
+deployment_complexity: Low
+tags:
+- embedded database
+- vector search
+- document storage
+- Pythonic API
+- local-first
+source: https://github.com/syalia-srl/beaver
 stars: 36
-language: "Python"
-last_updated: "2026-08-10T16:02:30Z"
-discovered_at: "2026-08-10T16:07:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T16:02:30Z'
+discovered_at: '2026-08-10T16:07:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

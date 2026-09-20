@@ -1,19 +1,33 @@
 ---
-title: "jjuanrivvera/cliwright"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Cobra", "GoReleaser", "Shell", "Python", "Claude Code", "MCP (Model Context Protocol)", "JSON Schema", "CI/CD (GitHub Actions)"]
+title: jjuanrivvera/cliwright
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Go
+- Cobra
+- GoReleaser
+- Shell
+- Python
+- Claude Code
+- MCP (Model Context Protocol)
+- JSON Schema
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["CLI generator", "REST API integration", "agent-ready", "deterministic build", "security-by-construction"]
-source: "https://github.com/jjuanrivvera/cliwright"
+deployment_complexity: Medium
+tags:
+- CLI generator
+- REST API integration
+- agent-ready
+- deterministic build
+- security-by-construction
+source: https://github.com/jjuanrivvera/cliwright
 stars: 1
-language: "Shell"
-last_updated: "2026-07-11T18:54:23Z"
-discovered_at: "2026-07-11T18:59:49Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-11T18:54:23Z'
+discovered_at: '2026-07-11T18:59:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

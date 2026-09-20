@@ -1,19 +1,36 @@
 ---
-title: "KaranNigal/AI-Grocery-Analytics"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Python", "Flask", "XGBoost", "Google Gemini API", "SQLite", "MongoDB", "Chart.js", "Jinja2", "Docker", "ReportLab", "Pandas", "NumPy"]
+title: KaranNigal/AI-Grocery-Analytics
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Flask
+- XGBoost
+- Google Gemini API
+- SQLite
+- MongoDB
+- Chart.js
+- Jinja2
+- Docker
+- ReportLab
+- Pandas
+- NumPy
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["retail analytics", "demand forecasting", "conversational AI", "business intelligence", "inventory optimization"]
-source: "https://github.com/KaranNigal/AI-Grocery-Analytics"
+deployment_complexity: Medium
+tags:
+- retail analytics
+- demand forecasting
+- conversational AI
+- business intelligence
+- inventory optimization
+source: https://github.com/KaranNigal/AI-Grocery-Analytics
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T15:01:37Z"
-discovered_at: "2026-08-02T15:02:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T15:01:37Z'
+discovered_at: '2026-08-02T15:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

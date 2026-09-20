@@ -1,19 +1,38 @@
 ---
-title: "xiweicheng/ai-helper"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "TypeScript", "Chrome Extension API", "Node.js", "Vite", "ReAct (Reasoning + Acting) Architecture", "OpenAI Chat Completions API", "MCP (Model Context Protocol)", "IndexedDB", "WebSocket", "PDF.js", "Mermaid.js", "Markdown", "Docker (implied for local agent)"]
+title: xiweicheng/ai-helper
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- TypeScript
+- Chrome Extension API
+- Node.js
+- Vite
+- ReAct (Reasoning + Acting) Architecture
+- OpenAI Chat Completions API
+- MCP (Model Context Protocol)
+- IndexedDB
+- WebSocket
+- PDF.js
+- Mermaid.js
+- Markdown
+- Docker (implied for local agent)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Browser Automation", "Multi-Agent Systems", "ReAct Architecture", "MCP Protocol", "Token Optimization"]
-source: "https://github.com/xiweicheng/ai-helper"
+deployment_complexity: Medium
+tags:
+- Browser Automation
+- Multi-Agent Systems
+- ReAct Architecture
+- MCP Protocol
+- Token Optimization
+source: https://github.com/xiweicheng/ai-helper
 stars: 2
-language: "JavaScript"
-last_updated: "2026-07-15T23:01:12Z"
-discovered_at: "2026-07-15T23:02:13Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-15T23:01:12Z'
+discovered_at: '2026-07-15T23:02:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

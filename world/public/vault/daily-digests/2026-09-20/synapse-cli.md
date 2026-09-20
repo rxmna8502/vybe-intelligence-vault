@@ -1,19 +1,33 @@
 ---
-title: "bandageok/synapse-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Bubblewrap", "Docker", "MCP (Model Context Protocol)", "OpenAI-compatible APIs", "Anthropic-compatible APIs", "Ink REPL", "Vim editing"]
+title: bandageok/synapse-cli
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Bubblewrap
+- Docker
+- MCP (Model Context Protocol)
+- OpenAI-compatible APIs
+- Anthropic-compatible APIs
+- Ink REPL
+- Vim editing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "provider portability", "persistent memory", "tool isolation", "safety-first"]
-source: "https://github.com/bandageok/synapse-cli"
+deployment_complexity: Medium
+tags:
+- coding agent
+- provider portability
+- persistent memory
+- tool isolation
+- safety-first
+source: https://github.com/bandageok/synapse-cli
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-20T12:12:57Z"
-discovered_at: "2026-07-20T12:22:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T12:12:57Z'
+discovered_at: '2026-07-20T12:22:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

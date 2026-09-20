@@ -1,19 +1,37 @@
 ---
-title: "carlwelchdesign/supraconscious-avatar-ai"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Next.js", "Express", "PostgreSQL", "Prisma", "TypeScript", "Flutter", "OpenAI", "LangSmith", "Docker", "LangGraph", "MCP", "GraphRAG", "Stripe"]
+title: carlwelchdesign/supraconscious-avatar-ai
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Next.js
+- Express
+- PostgreSQL
+- Prisma
+- TypeScript
+- Flutter
+- OpenAI
+- LangSmith
+- Docker
+- LangGraph
+- MCP
+- GraphRAG
+- Stripe
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI-driven journaling", "RAG governance", "self-inquiry platform", "multi-app SaaS", "prompt management"]
-source: "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+deployment_complexity: Medium
+tags:
+- AI-driven journaling
+- RAG governance
+- self-inquiry platform
+- multi-app SaaS
+- prompt management
+source: https://github.com/carlwelchdesign/supraconscious-avatar-ai
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T23:03:54Z"
-discovered_at: "2026-08-07T23:36:31Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T23:03:54Z'
+discovered_at: '2026-08-07T23:36:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

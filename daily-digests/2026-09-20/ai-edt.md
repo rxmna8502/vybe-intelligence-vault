@@ -1,19 +1,30 @@
 ---
-title: "Desko77/ai-edt"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java 17", "MCP (Model Context Protocol)", "1C:EDT (Eclipse-based IDE)", "Streamable HTTP", "BSL (1C:Enterprise language)", "XML/MDO (1C metadata format)"]
+title: Desko77/ai-edt
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Java 17
+- MCP (Model Context Protocol)
+- 1C:EDT (Eclipse-based IDE)
+- Streamable HTTP
+- BSL (1C:Enterprise language)
+- XML/MDO (1C metadata format)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "1C:EDT plugin", "AI-assisted development", "semantic model access", "debugging and validation"]
-source: "https://github.com/Desko77/ai-edt"
+deployment_complexity: Medium
+tags:
+- MCP server
+- 1C:EDT plugin
+- AI-assisted development
+- semantic model access
+- debugging and validation
+source: https://github.com/Desko77/ai-edt
 stars: 0
-language: "Java"
-last_updated: "2026-08-04T21:13:30Z"
-discovered_at: "2026-08-04T21:14:53Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-04T21:13:30Z'
+discovered_at: '2026-08-04T21:14:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

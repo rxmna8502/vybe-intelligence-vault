@@ -1,19 +1,30 @@
 ---
-title: "simozampa/clankchat"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Git", "CLI", "MCP (Model Context Protocol)"]
+title: simozampa/clankchat
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Git
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["agent communication", "Git integration", "local messaging", "coding agents", "durable state"]
-source: "https://github.com/simozampa/clankchat"
+deployment_complexity: Low
+tags:
+- agent communication
+- Git integration
+- local messaging
+- coding agents
+- durable state
+source: https://github.com/simozampa/clankchat
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-08T22:22:03Z"
-discovered_at: "2026-08-08T22:32:01Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T22:22:03Z'
+discovered_at: '2026-08-08T22:32:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

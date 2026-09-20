@@ -1,19 +1,31 @@
 ---
-title: "getpapi/papi"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["MCP (Model Context Protocol)", "TypeScript", "Node.js", "OAuth", "HTTP/Streamable APIs", "React (for dashboard)", "Docker (for local runtime)"]
+title: getpapi/papi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- MCP (Model Context Protocol)
+- TypeScript
+- Node.js
+- OAuth
+- HTTP/Streamable APIs
+- React (for dashboard)
+- Docker (for local runtime)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["project memory", "AI coding assistant", "MCP server", "structured workflow", "context persistence"]
-source: "https://github.com/getpapi/papi"
+deployment_complexity: Medium
+tags:
+- project memory
+- AI coding assistant
+- MCP server
+- structured workflow
+- context persistence
+source: https://github.com/getpapi/papi
 stars: 6
-language: "HTML"
-last_updated: "2026-08-08T09:30:35Z"
-discovered_at: "2026-08-08T09:40:23Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-08T09:30:35Z'
+discovered_at: '2026-08-08T09:40:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

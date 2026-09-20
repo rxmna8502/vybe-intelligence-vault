@@ -1,19 +1,30 @@
 ---
-title: "ignatenkofi/memshelf-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Git", "MCP (Model Context Protocol)", "CLI", "Token counting"]
+title: ignatenkofi/memshelf-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Markdown
+- Git
+- MCP (Model Context Protocol)
+- CLI
+- Token counting
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["memory management", "episodic recall", "token optimization", "local storage", "AI agent tools"]
-source: "https://github.com/ignatenkofi/memshelf-mcp"
+deployment_complexity: Medium
+tags:
+- memory management
+- episodic recall
+- token optimization
+- local storage
+- AI agent tools
+source: https://github.com/ignatenkofi/memshelf-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T09:06:26Z"
-discovered_at: "2026-09-01T09:12:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T09:06:26Z'
+discovered_at: '2026-09-01T09:12:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

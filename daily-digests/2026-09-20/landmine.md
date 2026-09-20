@@ -1,19 +1,29 @@
 ---
-title: "Jaeuk-Han/landmine"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Git", "CLI", "Markdown", "JSON"]
+title: Jaeuk-Han/landmine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Git
+- CLI
+- Markdown
+- JSON
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["code analysis", "git history", "risk assessment", "change impact", "static analysis"]
-source: "https://github.com/Jaeuk-Han/landmine"
+deployment_complexity: Medium
+tags:
+- code analysis
+- git history
+- risk assessment
+- change impact
+- static analysis
+source: https://github.com/Jaeuk-Han/landmine
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T07:36:59Z"
-discovered_at: "2026-08-04T07:40:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T07:36:59Z'
+discovered_at: '2026-08-04T07:40:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

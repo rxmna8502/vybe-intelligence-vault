@@ -1,19 +1,30 @@
 ---
-title: "bootnihil/web-qa-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Playwright", "Gemini API", "Zod", "Node.js", "GitHub Actions"]
+title: bootnihil/web-qa-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Playwright
+- Gemini API
+- Zod
+- Node.js
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-driven testing", "exploratory QA", "autonomous agents", "web automation", "safety-first"]
-source: "https://github.com/bootnihil/web-qa-agent"
+deployment_complexity: Medium
+tags:
+- AI-driven testing
+- exploratory QA
+- autonomous agents
+- web automation
+- safety-first
+source: https://github.com/bootnihil/web-qa-agent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T17:54:47Z"
-discovered_at: "2026-07-19T17:58:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T17:54:47Z'
+discovered_at: '2026-07-19T17:58:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

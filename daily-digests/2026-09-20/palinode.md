@@ -1,19 +1,35 @@
 ---
-title: "phasespace-labs/palinode"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "SQLite-vec", "FTS5", "Ollama", "BGE-M3", "Git", "MCP (Model Context Protocol)", "REST API", "CLI", "Docker"]
+title: phasespace-labs/palinode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite
+- SQLite-vec
+- FTS5
+- Ollama
+- BGE-M3
+- Git
+- MCP (Model Context Protocol)
+- REST API
+- CLI
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["auditable memory", "git-versioned", "MCP server", "agent memory", "hybrid search"]
-source: "https://github.com/phasespace-labs/palinode"
+deployment_complexity: Medium
+tags:
+- auditable memory
+- git-versioned
+- MCP server
+- agent memory
+- hybrid search
+source: https://github.com/phasespace-labs/palinode
 stars: 27
-language: "Python"
-last_updated: "2026-08-01T23:45:37Z"
-discovered_at: "2026-08-01T23:57:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T23:45:37Z'
+discovered_at: '2026-08-01T23:57:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

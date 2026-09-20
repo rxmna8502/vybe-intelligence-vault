@@ -1,19 +1,32 @@
 ---
-title: "dhamma-seeker/tripitaka-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "PostgreSQL", "pgvector", "sentence-transformers", "Docker", "SQLite", "FastAPI"]
+title: dhamma-seeker/tripitaka-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastMCP
+- PostgreSQL
+- pgvector
+- sentence-transformers
+- Docker
+- SQLite
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "P\u0101li Tipi\u1e6daka", "Vector Search", "Semantic Analysis", "Buddhist Texts"]
-source: "https://github.com/dhamma-seeker/tripitaka-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Pāli Tipiṭaka
+- Vector Search
+- Semantic Analysis
+- Buddhist Texts
+source: https://github.com/dhamma-seeker/tripitaka-mcp
 stars: 5
-language: "Python"
-last_updated: "2026-08-07T09:53:28Z"
-discovered_at: "2026-08-07T10:04:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T09:53:28Z'
+discovered_at: '2026-08-07T10:04:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

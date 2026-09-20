@@ -1,19 +1,28 @@
 ---
-title: "Shajo777/SupaAI-Framework-Template"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Supabase", "TypeScript", "AI Framework", "Enterprise Architecture"]
+title: Shajo777/SupaAI-Framework-Template
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Supabase
+- TypeScript
+- AI Framework
+- Enterprise Architecture
 quality_score: 4
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI assistants", "Supabase integration", "enterprise-grade", "type-safe", "scalable"]
-source: "https://github.com/Shajo777/SupaAI-Framework-Template"
+deployment_complexity: Medium
+tags:
+- AI assistants
+- Supabase integration
+- enterprise-grade
+- type-safe
+- scalable
+source: https://github.com/Shajo777/SupaAI-Framework-Template
 stars: 0
-language: "None"
-last_updated: "2026-08-09T11:30:46Z"
-discovered_at: "2026-08-09T11:32:41Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T11:30:46Z'
+discovered_at: '2026-08-09T11:32:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

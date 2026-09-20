@@ -1,19 +1,31 @@
 ---
-title: "Zallu4435/talentpipe-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["n8n", "Telegram Bot API", "Google Gemini", "Redis", "Jina AI", "Google Sheets", "Markdown"]
+title: Zallu4435/talentpipe-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- n8n
+- Telegram Bot API
+- Google Gemini
+- Redis
+- Jina AI
+- Google Sheets
+- Markdown
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["n8n automation", "job scraping", "conversational AI", "Telegram bot", "structured data extraction"]
-source: "https://github.com/Zallu4435/talentpipe-ai-agent"
+deployment_complexity: Medium
+tags:
+- n8n automation
+- job scraping
+- conversational AI
+- Telegram bot
+- structured data extraction
+source: https://github.com/Zallu4435/talentpipe-ai-agent
 stars: 0
-language: "None"
-last_updated: "2026-07-21T07:23:55Z"
-discovered_at: "2026-07-21T07:32:13Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-21T07:23:55Z'
+discovered_at: '2026-07-21T07:32:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "WynandJvR/Animus"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Mineflayer", "Minecraft Protocol", "Ollama", "llama.cpp", "HTTP API", "bash", "Python"]
+title: WynandJvR/Animus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Node.js
+- Mineflayer
+- Minecraft Protocol
+- Ollama
+- llama.cpp
+- HTTP API
+- bash
+- Python
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Minecraft automation", "AI agent", "modular brain", "local LLM", "game bot"]
-source: "https://github.com/WynandJvR/Animus"
+deployment_complexity: Medium
+tags:
+- Minecraft automation
+- AI agent
+- modular brain
+- local LLM
+- game bot
+source: https://github.com/WynandJvR/Animus
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-11T13:13:02Z"
-discovered_at: "2026-07-11T13:14:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-11T13:13:02Z'
+discovered_at: '2026-07-11T13:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

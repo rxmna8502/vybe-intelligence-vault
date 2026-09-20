@@ -1,19 +1,30 @@
 ---
-title: "gang2k-coder/SharpBridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "Debug Adapter Protocol (DAP)", "Model Context Protocol (MCP)", "SharpDbg", "ICorDebug"]
+title: gang2k-coder/SharpBridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- C#
+- .NET 10
+- Debug Adapter Protocol (DAP)
+- Model Context Protocol (MCP)
+- SharpDbg
+- ICorDebug
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "debugging", "AI agents", ".NET debugging", "DAP integration"]
-source: "https://github.com/gang2k-coder/SharpBridge"
+deployment_complexity: Medium
+tags:
+- MCP server
+- debugging
+- AI agents
+- .NET debugging
+- DAP integration
+source: https://github.com/gang2k-coder/SharpBridge
 stars: 1
-language: "C#"
-last_updated: "2026-08-01T13:15:54Z"
-discovered_at: "2026-08-01T13:16:40Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-01T13:15:54Z'
+discovered_at: '2026-08-01T13:16:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

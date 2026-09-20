@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - scripts
-status: active
+status: inactive
 resource_id: hackernews:microsoft-director-ai-scraping-the-largest-theft-o
 first_seen: '2026-09-20T03:54:55.564455+05:30'
 last_seen: '2026-09-20T03:54:55.564455+05:30'
 last_checked: '2026-09-20T03:54:55.564455+05:30'
 health_score: 100
 ---
+
 
 # Microsoft director: AI scraping 'the largest theft of labor in human history'
 

@@ -1,19 +1,31 @@
 ---
-title: "esneiderbravo/speclaw"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Tree-sitter (WASM)", "SQLite", "CLI", "MCP (Model Context Protocol)", "Vector Store (local)"]
+title: esneiderbravo/speclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Tree-sitter (WASM)
+- SQLite
+- CLI
+- MCP (Model Context Protocol)
+- Vector Store (local)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "local code graph", "spec-driven development", "project constitution", "MCP server"]
-source: "https://github.com/esneiderbravo/speclaw"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- local code graph
+- spec-driven development
+- project constitution
+- MCP server
+source: https://github.com/esneiderbravo/speclaw
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T22:53:28Z"
-discovered_at: "2026-08-02T22:56:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T22:53:28Z'
+discovered_at: '2026-08-02T22:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

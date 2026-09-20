@@ -1,19 +1,30 @@
 ---
-title: "gensecaihq/pfsense-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "REST API", "Docker", "CI/CD (GitHub Actions)", "pfSense REST API package"]
+title: gensecaihq/pfsense-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- REST API
+- Docker
+- CI/CD (GitHub Actions)
+- pfSense REST API package
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["pfSense", "firewall management", "MCP server", "natural language automation", "security guardrails"]
-source: "https://github.com/gensecaihq/pfsense-mcp-server"
+deployment_complexity: Medium
+tags:
+- pfSense
+- firewall management
+- MCP server
+- natural language automation
+- security guardrails
+source: https://github.com/gensecaihq/pfsense-mcp-server
 stars: 84
-language: "Python"
-last_updated: "2026-08-07T20:36:53Z"
-discovered_at: "2026-08-07T20:43:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T20:36:53Z'
+discovered_at: '2026-08-07T20:43:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

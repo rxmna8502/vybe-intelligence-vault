@@ -1,19 +1,38 @@
 ---
-title: "utilityincoming/american-peptide"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Anthropic Claude", "PubChem API", "PubMed API", "ClinicalTrials.gov API", "UniProt API", "Upstash Redis", "Resend", "Vercel Analytics", "pdfjs-dist", "MCP (Model Context Protocol)"]
+title: utilityincoming/american-peptide
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Anthropic Claude
+- PubChem API
+- PubMed API
+- ClinicalTrials.gov API
+- UniProt API
+- Upstash Redis
+- Resend
+- Vercel Analytics
+- pdfjs-dist
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["peptide research", "AI grounding", "scientific API integration", "offline tools", "MCP server"]
-source: "https://github.com/utilityincoming/american-peptide"
+deployment_complexity: Medium
+tags:
+- peptide research
+- AI grounding
+- scientific API integration
+- offline tools
+- MCP server
+source: https://github.com/utilityincoming/american-peptide
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-02T22:11:47Z"
-discovered_at: "2026-09-02T22:16:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:11:47Z'
+discovered_at: '2026-09-02T22:16:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

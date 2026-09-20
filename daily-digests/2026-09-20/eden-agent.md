@@ -1,19 +1,31 @@
 ---
-title: "AI-Eden/eden-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "Bun", "Docker", "Git", "DeepSeek API"]
+title: AI-Eden/eden-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- Bun
+- Docker
+- Git
+- DeepSeek API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding agent", "event-sourced", "replayable", "evidence-driven", "terminal product"]
-source: "https://github.com/AI-Eden/eden-agent"
+deployment_complexity: Medium
+tags:
+- coding agent
+- event-sourced
+- replayable
+- evidence-driven
+- terminal product
+source: https://github.com/AI-Eden/eden-agent
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-10T14:59:41Z"
-discovered_at: "2026-08-10T15:03:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T14:59:41Z'
+discovered_at: '2026-08-10T15:03:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

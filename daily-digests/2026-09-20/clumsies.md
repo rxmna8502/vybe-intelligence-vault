@@ -1,19 +1,32 @@
 ---
-title: "lilhammerfun/clumsies"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Zig", "Rust", "PostgreSQL", "Tauri", "Bun", "Docker", "OIDC", "MCP (Model Context Protocol)"]
+title: lilhammerfun/clumsies
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Zig
+- Rust
+- PostgreSQL
+- Tauri
+- Bun
+- Docker
+- OIDC
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent memory", "collaborative context", "workflow management", "self-hosted", "MCP integration"]
-source: "https://github.com/lilhammerfun/clumsies"
+deployment_complexity: Medium
+tags:
+- agent memory
+- collaborative context
+- workflow management
+- self-hosted
+- MCP integration
+source: https://github.com/lilhammerfun/clumsies
 stars: 17
-language: "Zig"
-last_updated: "2026-07-16T12:16:36Z"
-discovered_at: "2026-07-16T12:22:14Z"
-evaluated_by: "mistral-small-latest"
+language: Zig
+last_updated: '2026-07-16T12:16:36Z'
+discovered_at: '2026-07-16T12:22:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

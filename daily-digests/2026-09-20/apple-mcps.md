@@ -1,19 +1,30 @@
 ---
-title: "JonathanRReed/Apple-MCPs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "macOS Automation", "uv (Python package manager)", "Streamable HTTP", "CI/CD (GitHub Actions)"]
+title: JonathanRReed/Apple-MCPs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- macOS Automation
+- uv (Python package manager)
+- Streamable HTTP
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP servers", "macOS automation", "AI agent integration", "local data access", "Apple ecosystem"]
-source: "https://github.com/JonathanRReed/Apple-MCPs"
+deployment_complexity: Medium
+tags:
+- MCP servers
+- macOS automation
+- AI agent integration
+- local data access
+- Apple ecosystem
+source: https://github.com/JonathanRReed/Apple-MCPs
 stars: 3
-language: "Python"
-last_updated: "2026-08-05T18:23:25Z"
-discovered_at: "2026-08-05T18:24:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T18:23:25Z'
+discovered_at: '2026-08-05T18:24:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

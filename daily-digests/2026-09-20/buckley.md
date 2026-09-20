@@ -1,19 +1,32 @@
 ---
-title: "odvcencio/buckley"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Arbiter", "Anthropic Tool Calling", "SQLite", "OpenRouter API", "Tree-sitter", "ACP", "LSP"]
+title: odvcencio/buckley
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Go
+- Arbiter
+- Anthropic Tool Calling
+- SQLite
+- OpenRouter API
+- Tree-sitter
+- ACP
+- LSP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent harness", "multi-surface interaction", "resumable sessions", "governed tool selection", "repository work"]
-source: "https://github.com/odvcencio/buckley"
+deployment_complexity: Medium
+tags:
+- AI agent harness
+- multi-surface interaction
+- resumable sessions
+- governed tool selection
+- repository work
+source: https://github.com/odvcencio/buckley
 stars: 8
-language: "Go"
-last_updated: "2026-08-01T21:54:11Z"
-discovered_at: "2026-08-01T21:54:57Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T21:54:11Z'
+discovered_at: '2026-08-01T21:54:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

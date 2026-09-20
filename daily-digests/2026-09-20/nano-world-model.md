@@ -1,19 +1,29 @@
 ---
-title: "Tiroleansculptor548/nano-world-model"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Diffusion Models", "Prediction Algorithms", "C++/Python (implied)", "OpenGL/Vulkan (for rendering)", "Windows OS"]
+title: Tiroleansculptor548/nano-world-model
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Diffusion Models
+- Prediction Algorithms
+- C++/Python (implied)
+- OpenGL/Vulkan (for rendering)
+- Windows OS
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["simulation", "diffusion models", "world modeling", "AI prediction", "minimalist framework"]
-source: "https://github.com/Tiroleansculptor548/nano-world-model"
+deployment_complexity: Low
+tags:
+- simulation
+- diffusion models
+- world modeling
+- AI prediction
+- minimalist framework
+source: https://github.com/Tiroleansculptor548/nano-world-model
 stars: 0
-language: "None"
-last_updated: "2026-07-11T16:54:05Z"
-discovered_at: "2026-07-11T16:55:44Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-11T16:54:05Z'
+discovered_at: '2026-07-11T16:55:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

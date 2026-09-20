@@ -1,19 +1,30 @@
 ---
-title: "tools-for-agents/iris"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Chrome DevTools Protocol (CDP)", "WebSocket", "fetch API", "Model Context Protocol (MCP)"]
+title: tools-for-agents/iris
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Node.js
+- Chrome DevTools Protocol (CDP)
+- WebSocket
+- fetch API
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["visual testing", "UI feedback", "design validation", "browser automation", "agent tooling"]
-source: "https://github.com/tools-for-agents/iris"
+deployment_complexity: Medium
+tags:
+- visual testing
+- UI feedback
+- design validation
+- browser automation
+- agent tooling
+source: https://github.com/tools-for-agents/iris
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-12T10:25:54Z"
-discovered_at: "2026-07-12T10:26:39Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-12T10:25:54Z'
+discovered_at: '2026-07-12T10:26:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "EtanHey/voicelayer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Swift", "Model Context Protocol (MCP)", "whisper.cpp", "edge-tts", "Silero VAD", "SOCAT", "SwiftUI", "ONNX Runtime"]
+title: EtanHey/voicelayer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Bun
+- Swift
+- Model Context Protocol (MCP)
+- whisper.cpp
+- edge-tts
+- Silero VAD
+- SOCAT
+- SwiftUI
+- ONNX Runtime
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["voice I/O", "local STT/TTS", "MCP integration", "AI agent tools", "real-time transcription"]
-source: "https://github.com/EtanHey/voicelayer"
+deployment_complexity: Medium
+tags:
+- voice I/O
+- local STT/TTS
+- MCP integration
+- AI agent tools
+- real-time transcription
+source: https://github.com/EtanHey/voicelayer
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-19T11:47:45Z"
-discovered_at: "2026-07-19T11:57:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T11:47:45Z'
+discovered_at: '2026-07-19T11:57:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

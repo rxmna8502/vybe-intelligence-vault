@@ -13,13 +13,14 @@ collected_at: '2026-09-20T03:54:55.175822+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:almost-never-use-ai-to-write-anything-substantive
 first_seen: '2026-09-20T00:10:50.639816+05:30'
 last_seen: '2026-09-20T03:54:55.175822+05:30'
 last_checked: '2026-09-20T03:54:55.175822+05:30'
 health_score: 100
 ---
+
 
 # I think you should almost never use AI to write
 

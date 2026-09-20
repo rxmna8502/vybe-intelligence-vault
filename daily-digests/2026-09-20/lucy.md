@@ -1,19 +1,33 @@
 ---
-title: "bshanz/lucy"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Vercel (eve framework)", "Supabase (Postgres)", "Sendblue (iMessage)", "Vercel Connect (OAuth brokering)", "Google APIs (Gmail, Calendar, Tasks)", "SerpAPI (flight tracking)", "Resy API (restaurant reservations)", "Node.js"]
+title: bshanz/lucy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Vercel (eve framework)
+- Supabase (Postgres)
+- Sendblue (iMessage)
+- Vercel Connect (OAuth brokering)
+- Google APIs (Gmail, Calendar, Tasks)
+- SerpAPI (flight tracking)
+- Resy API (restaurant reservations)
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personal assistant", "self-hosted", "multi-channel", "reminders", "memory"]
-source: "https://github.com/bshanz/lucy"
+deployment_complexity: Medium
+tags:
+- personal assistant
+- self-hosted
+- multi-channel
+- reminders
+- memory
+source: https://github.com/bshanz/lucy
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T14:26:30Z"
-discovered_at: "2026-08-04T15:34:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T14:26:30Z'
+discovered_at: '2026-08-04T15:34:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "sodam-ai/SoDam-WikiMate"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "Model Context Protocol (MCP)", "Obsidian API", "Notion API", "Claude Code", "Git"]
+title: sodam-ai/SoDam-WikiMate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- Model Context Protocol (MCP)
+- Obsidian API
+- Notion API
+- Claude Code
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["note-taking", "obsidian-integration", "mcp-server", "ai-agent-tools", "document-organization"]
-source: "https://github.com/sodam-ai/SoDam-WikiMate"
+deployment_complexity: Medium
+tags:
+- note-taking
+- obsidian-integration
+- mcp-server
+- ai-agent-tools
+- document-organization
+source: https://github.com/sodam-ai/SoDam-WikiMate
 stars: 33
-language: "JavaScript"
-last_updated: "2026-08-02T02:33:24Z"
-discovered_at: "2026-08-02T02:34:42Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T02:33:24Z'
+discovered_at: '2026-08-02T02:34:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

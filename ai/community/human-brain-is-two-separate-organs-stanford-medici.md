@@ -13,13 +13,14 @@ collected_at: '2026-09-20T03:54:54.139973+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:human-brain-is-two-separate-organs-stanford-medici
 first_seen: '2026-09-19T18:06:14.392518+05:30'
 last_seen: '2026-09-20T03:54:54.139973+05:30'
 last_checked: '2026-09-20T03:54:54.139973+05:30'
 health_score: 100
 ---
+
 
 # Two parallel neural ectoderm progenitors contribute to the developing brain
 

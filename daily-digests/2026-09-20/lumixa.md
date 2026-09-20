@@ -1,19 +1,30 @@
 ---
-title: "7g3n/lumixa"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "Monaco Editor", "AI APIs (Claude, OpenAI, Gemini, Ollama)", "React", "Node.js"]
+title: 7g3n/lumixa
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Electron
+- Monaco Editor
+- AI APIs (Claude, OpenAI, Gemini, Ollama)
+- React
+- Node.js
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI-native IDE", "multi-model support", "agent-based development", "project memory", "cursor-like editing"]
-source: "https://github.com/7g3n/lumixa"
+deployment_complexity: Medium
+tags:
+- AI-native IDE
+- multi-model support
+- agent-based development
+- project memory
+- cursor-like editing
+source: https://github.com/7g3n/lumixa
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T11:47:32Z"
-discovered_at: "2026-08-07T11:56:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:47:32Z'
+discovered_at: '2026-08-07T11:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "Zizka-ai/ZizkaDB"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "TypeScript", "FastAPI", "PostgreSQL", "pgvector", "Qdrant", "Redis", "Next.js", "Docker", "MCP (Model Context Protocol)"]
+title: Zizka-ai/ZizkaDB
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- TypeScript
+- FastAPI
+- PostgreSQL
+- pgvector
+- Qdrant
+- Redis
+- Next.js
+- Docker
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent auditing", "causal lineage", "behavioral drift detection", "operational database", "semantic memory"]
-source: "https://github.com/Zizka-ai/ZizkaDB"
+deployment_complexity: Medium
+tags:
+- AI agent auditing
+- causal lineage
+- behavioral drift detection
+- operational database
+- semantic memory
+source: https://github.com/Zizka-ai/ZizkaDB
 stars: 37
-language: "Python"
-last_updated: "2026-08-08T10:09:07Z"
-discovered_at: "2026-08-08T10:35:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T10:09:07Z'
+discovered_at: '2026-08-08T10:35:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

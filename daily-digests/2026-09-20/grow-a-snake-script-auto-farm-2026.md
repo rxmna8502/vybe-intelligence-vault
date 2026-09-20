@@ -1,19 +1,27 @@
 ---
-title: "Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Script Executor", "Windows OS"]
+title: Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Script Executor
+- Windows OS
 quality_score: 5
 rag_relevance: 2
-deployment_complexity: "Low"
-tags: ["game automation", "Python script", "snake game", "auto-farming", "game cheat"]
-source: "https://github.com/Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026"
+deployment_complexity: Low
+tags:
+- game automation
+- Python script
+- snake game
+- auto-farming
+- game cheat
+source: https://github.com/Abhinav272765/Grow-A-Snake-Script-Auto-Farm-2026
 stars: 1
-language: "Python"
-last_updated: "2026-08-06T06:26:53Z"
-discovered_at: "2026-08-06T06:33:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T06:26:53Z'
+discovered_at: '2026-08-06T06:33:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

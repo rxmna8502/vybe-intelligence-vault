@@ -1,19 +1,35 @@
 ---
-title: "eugene-kuris/kven2"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "HNSW", "llama.cpp", "Telegram Bot API", "TDLib", "RAG", "Vector retrieval", "Tool calling", "Sandbox execution"]
+title: eugene-kuris/kven2
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- HNSW
+- llama.cpp
+- Telegram Bot API
+- TDLib
+- RAG
+- Vector retrieval
+- Tool calling
+- Sandbox execution
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["AI continuity", "persistent memory", "autonomous agents", "causal history", "local AI"]
-source: "https://github.com/eugene-kuris/kven2"
+deployment_complexity: High
+tags:
+- AI continuity
+- persistent memory
+- autonomous agents
+- causal history
+- local AI
+source: https://github.com/eugene-kuris/kven2
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T06:09:38Z"
-discovered_at: "2026-08-07T06:12:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T06:09:38Z'
+discovered_at: '2026-08-07T06:12:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

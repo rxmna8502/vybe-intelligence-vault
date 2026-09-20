@@ -1,19 +1,27 @@
 ---
-title: "kaihq/kaihq.dev"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Astro", "Bun", "TypeScript"]
+title: kaihq/kaihq.dev
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Astro
+- Bun
+- TypeScript
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["personal site", "static site", "AI agent", "portfolio", "Astro"]
-source: "https://github.com/kaihq/kaihq.dev"
+deployment_complexity: Low
+tags:
+- personal site
+- static site
+- AI agent
+- portfolio
+- Astro
+source: https://github.com/kaihq/kaihq.dev
 stars: 0
-language: "Astro"
-last_updated: "2026-09-01T19:04:35Z"
-discovered_at: "2026-09-01T19:05:54Z"
-evaluated_by: "mistral-small-latest"
+language: Astro
+last_updated: '2026-09-01T19:04:35Z'
+discovered_at: '2026-09-01T19:05:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

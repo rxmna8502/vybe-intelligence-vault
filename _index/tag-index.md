@@ -6638,9 +6638,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [I think you should almost never use AI to write](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
-  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
-  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
+  - [Can you tell which images are AI-generated?](../ai/community/can-you-tell-which-images-are-ai-generated.md)
 
 ## animation
 
@@ -27270,6 +27268,7 @@ Resources organized by keyword tags.
   - [Can We Trust AI Agents? A Case Study of an LLM-Based Multi-Agent System for Ethical AI](../ai/agents/arxiv-2411-08881.md)
   - [Can a Dynamic Internal Field Govern a Transformer's Cognition? Certifiability, not Superiority, in Homeostatic Compute Control](../ai/research/arxiv-2608-24319.md)
   - [Can large language models assist choice modelling? Insights into prompting strategies and current models' capabilities](../ai/agents/arxiv-2507-21790.md)
+  - [Can you tell which images are AI-generated?](../ai/community/can-you-tell-which-images-are-ai-generated.md)
   - [Cannot get 555 module to work - Electrical Engineering Stack Exchange](../ai/agents/cannot-get-555-module-to-work-electrical-engineeri.md)
   - [Canonical Variates in Wasserstein Metric Space](../ai/rag/arxiv-2405-15768.md)
   - [Canvas Privacy Notice | Center for Teaching Innovation](../ai/resources/canvas-privacy-notice-center-for-teaching-innovati.md)
@@ -28279,7 +28278,6 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I think you should almost never use AI to write](../ai/community/almost-never-use-ai-to-write-anything-substantive.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -28737,7 +28735,6 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
-  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -29972,7 +29969,6 @@ Resources organized by keyword tags.
   - [Twisted Schr\"odinger Bridge Matching](../ai/research/arxiv-2607-16987.md)
   - [Two Black Boxes, One Solver: Encoder Probing and Decoder Attribution for Neural Multi-Attribute VRP under Hard-Mask and Recourse Decoders](../ai/research/arxiv-2607-04487.md)
   - [Two Sides of the Same Coin: Learning the Backdoor to Remove the Backdoor](../ai/rag/arxiv-2607-05748.md)
-  - [Two parallel neural ectoderm progenitors contribute to the developing brain](../ai/community/human-brain-is-two-separate-organs-stanford-medici.md)
   - [Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion](../ai/research/arxiv-2411-12965.md)
   - [Type Checking Project Haystack Grids using JSON Schema and Pydantic](../ai/research/arxiv-2606-24891.md)
   - [TypiCore: A Hybrid Active Query Strategy for Class-Incremental Learning on Time Series](../ai/research/arxiv-2607-17632.md)
@@ -30294,7 +30290,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -38138,7 +38134,6 @@ Resources organized by keyword tags.
   - [Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents](../ai/rag/arxiv-2601-03785.md)
   - [Meta-Harness 101: The Layer Above AI Agent Harnesses](../ai/rag/meta-harness-101-the-layer-above-ai-agent-harnesse.md)
   - [Microsoft Developer](../ai/rag/microsoft-developer.md)
-  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
   - [Milvus | High-Performance Vector Database Built for Scale](../ai/rag/milvus-high-performance-vector-database-built-for.md)
   - [Mimicry without understanding: the origins of decision bias in large language models](../ai/research/arxiv-2608-12339.md)
   - [MiniGPT-Reverse-Designing: Predicting Image Adjustments Utilizing MiniGPT-4](../ai/research/arxiv-2406-00971.md)
@@ -55307,7 +55302,6 @@ Resources organized by keyword tags.
   - [MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention](../ai/rag/arxiv-2606-10120.md)
   - [Microsoft Developer](../ai/rag/microsoft-developer.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
-  - [Microsoft director: AI scraping 'the largest theft of labor in human history'](../ai/community/microsoft-director-ai-scraping-the-largest-theft-o.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MioFFAn: an Annotation Software for Formula Formalization with LLM Automation Capabilities](../ai/research/arxiv-2607-22552.md)
   - [MobileDreamer: Generative Sketch World Model for GUI Agent](../ai/rag/arxiv-2601-04035.md)
@@ -63826,4 +63820,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T04:11:08.211719+05:30*
+*Index generated on 2026-09-20T10:48:29.939483+05:30*
