@@ -1,19 +1,31 @@
 ---
-title: "sky-cloak/skycloak-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Keycloak", "OAuth 2.0", "REST API", "HTTP", "CI/CD"]
+title: sky-cloak/skycloak-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Keycloak
+- OAuth 2.0
+- REST API
+- HTTP
+- CI/CD
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Keycloak", "SSO", "Identity Management", "MCP Server", "DevOps"]
-source: "https://github.com/sky-cloak/skycloak-mcp"
+deployment_complexity: Low
+tags:
+- Keycloak
+- SSO
+- Identity Management
+- MCP Server
+- DevOps
+source: https://github.com/sky-cloak/skycloak-mcp
 stars: 0
-language: "Go"
-last_updated: "2026-09-03T02:14:16Z"
-discovered_at: "2026-09-03T02:20:29Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T02:14:16Z'
+discovered_at: '2026-09-03T02:20:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "SupplyGraphAI/supplygraph-ai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["A2A Protocol", "MCP Protocol", "REST API", "Python SDK", "Agentic AI", "HTS/HS Classification", "Trade Compliance"]
+title: SupplyGraphAI/supplygraph-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- A2A Protocol
+- MCP Protocol
+- REST API
+- Python SDK
+- Agentic AI
+- HTS/HS Classification
+- Trade Compliance
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["supply chain intelligence", "trade compliance", "A2A protocol", "MCP integration", "tariff calculation"]
-source: "https://github.com/SupplyGraphAI/supplygraph-ai"
+deployment_complexity: Medium
+tags:
+- supply chain intelligence
+- trade compliance
+- A2A protocol
+- MCP integration
+- tariff calculation
+source: https://github.com/SupplyGraphAI/supplygraph-ai
 stars: 7
-language: "None"
-last_updated: "2026-07-16T05:38:19Z"
-discovered_at: "2026-07-16T05:39:09Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-16T05:38:19Z'
+discovered_at: '2026-07-16T05:39:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

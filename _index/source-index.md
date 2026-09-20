@@ -25662,9 +25662,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI and the Destruction of the Creative Commons](../ai/community/ai-and-the-destruction-of-the-creative-commons.md)
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [Can you tell which images are AI-generated?](../ai/community/can-you-tell-which-images-are-ai-generated.md)
   - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
+  - [If AI coding is lowering your code quality, you're not managing quality right](../ai/community/if-ai-coding-is-lowering-your-code-quality-you-re.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26531,7 +26532,6 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: huggingface_dataset)
 
-  - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [anilili/anilili-apk](../ai/models/huggingface-datasets-anilili.md)
@@ -26539,6 +26539,7 @@ Resources organized by publisher feed and query sources.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
@@ -26547,12 +26548,12 @@ Resources organized by publisher feed and query sources.
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
+  - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
-  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
 ## Unknown Source (type: huggingface_space)
@@ -29527,4 +29528,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T10:48:30.254999+05:30*
+*Index generated on 2026-09-20T18:55:01.234382+05:30*

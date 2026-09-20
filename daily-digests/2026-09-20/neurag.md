@@ -1,19 +1,34 @@
 ---
-title: "recla93/NeuRAG"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastEmbed", "TF-IDF", "SQLite/libSQL", "Turso", "AST (Abstract Syntax Tree) parsing", "Jaccard similarity", "RRF (Reciprocal Rank Fusion)", "MMR (Maximal Marginal Relevance)"]
+title: recla93/NeuRAG
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastEmbed
+- TF-IDF
+- SQLite/libSQL
+- Turso
+- AST (Abstract Syntax Tree) parsing
+- Jaccard similarity
+- RRF (Reciprocal Rank Fusion)
+- MMR (Maximal Marginal Relevance)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["hierarchical knowledge base", "MCP server", "vector search", "cross-linking", "permanent vault"]
-source: "https://github.com/recla93/NeuRAG"
+deployment_complexity: Medium
+tags:
+- hierarchical knowledge base
+- MCP server
+- vector search
+- cross-linking
+- permanent vault
+source: https://github.com/recla93/NeuRAG
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T15:32:26Z"
-discovered_at: "2026-08-04T15:34:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T15:32:26Z'
+discovered_at: '2026-08-04T15:34:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "Bitterbot-AI/bitterbot-desktop"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Vite", "Electron", "Playwright", "pnpm", "WebSocket", "LLM APIs (Anthropic, OpenAI, etc.)", "P2P networking", "Cryptocurrency (USDC)"]
+title: Bitterbot-AI/bitterbot-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Vite
+- Electron
+- Playwright
+- pnpm
+- WebSocket
+- LLM APIs (Anthropic, OpenAI, etc.)
+- P2P networking
+- Cryptocurrency (USDC)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personal AI", "persistent memory", "P2P skills economy", "autonomous agent", "biological memory"]
-source: "https://github.com/Bitterbot-AI/bitterbot-desktop"
+deployment_complexity: Medium
+tags:
+- personal AI
+- persistent memory
+- P2P skills economy
+- autonomous agent
+- biological memory
+source: https://github.com/Bitterbot-AI/bitterbot-desktop
 stars: 2459
-language: "TypeScript"
-last_updated: "2026-09-02T22:11:09Z"
-discovered_at: "2026-09-02T22:16:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:11:09Z'
+discovered_at: '2026-09-02T22:16:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

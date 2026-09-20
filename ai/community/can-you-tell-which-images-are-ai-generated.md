@@ -13,13 +13,14 @@ collected_at: '2026-09-20T10:32:16.274944+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:can-you-tell-which-images-are-ai-generated
 first_seen: '2026-09-20T10:32:16.274944+05:30'
 last_seen: '2026-09-20T10:32:16.274944+05:30'
 last_checked: '2026-09-20T10:32:16.274944+05:30'
 health_score: 100
 ---
+
 
 # Can you tell which images are AI-generated?
 

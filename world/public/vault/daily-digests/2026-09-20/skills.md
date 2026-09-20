@@ -1,19 +1,31 @@
 ---
-title: "makethisbetter/skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "Make This Better CLI (Go)", "Make This Better API (REST)", "JavaScript/TypeScript", "Shell/Bash", "JWT", "MCP Server"]
+title: makethisbetter/skills
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Claude Code
+- Make This Better CLI (Go)
+- Make This Better API (REST)
+- JavaScript/TypeScript
+- Shell/Bash
+- JWT
+- MCP Server
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["feedback automation", "AI-driven development", "issue triage", "Claude Code skills", "developer tools"]
-source: "https://github.com/makethisbetter/skills"
+deployment_complexity: Medium
+tags:
+- feedback automation
+- AI-driven development
+- issue triage
+- Claude Code skills
+- developer tools
+source: https://github.com/makethisbetter/skills
 stars: 1
-language: "None"
-last_updated: "2026-08-06T06:29:19Z"
-discovered_at: "2026-08-06T06:32:02Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-06T06:29:19Z'
+discovered_at: '2026-08-06T06:32:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "greglas75/codesift"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Tree-sitter", "BM25F", "MCP (Model Context Protocol)", "CLI", "Semantic Search", "Git", "Mermaid.js"]
+title: greglas75/codesift
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Tree-sitter
+- BM25F
+- MCP (Model Context Protocol)
+- CLI
+- Semantic Search
+- Git
+- Mermaid.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code indexing", "MCP tools", "token efficiency", "AI agent integration", "semantic search"]
-source: "https://github.com/greglas75/codesift"
+deployment_complexity: Medium
+tags:
+- code indexing
+- MCP tools
+- token efficiency
+- AI agent integration
+- semantic search
+source: https://github.com/greglas75/codesift
 stars: 4
-language: "TypeScript"
-last_updated: "2026-07-20T19:53:07Z"
-discovered_at: "2026-07-20T19:53:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T19:53:07Z'
+discovered_at: '2026-07-20T19:53:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "zpb911km/fp-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.11+", "FastAPI", "LLM (OpenAI-compatible API)", "JSON-RPC 2.0", "prompt_toolkit", "Ruff", "JSONL", "Bash", "Git"]
+title: zpb911km/fp-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python 3.11+
+- FastAPI
+- LLM (OpenAI-compatible API)
+- JSON-RPC 2.0
+- prompt_toolkit
+- Ruff
+- JSONL
+- Bash
+- Git
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["self-bootstrapping", "lifecycle hooks", "plugin-based", "autonomous agents", "LLM-driven"]
-source: "https://github.com/zpb911km/fp-agent"
+deployment_complexity: High
+tags:
+- self-bootstrapping
+- lifecycle hooks
+- plugin-based
+- autonomous agents
+- LLM-driven
+source: https://github.com/zpb911km/fp-agent
 stars: 4
-language: "Python"
-last_updated: "2026-07-13T18:40:19Z"
-discovered_at: "2026-07-13T18:43:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T18:40:19Z'
+discovered_at: '2026-07-13T18:43:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

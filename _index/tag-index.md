@@ -6637,8 +6637,9 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI and the Destruction of the Creative Commons](../ai/community/ai-and-the-destruction-of-the-creative-commons.md)
   - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [Can you tell which images are AI-generated?](../ai/community/can-you-tell-which-images-are-ai-generated.md)
+  - [If AI coding is lowering your code quality, you're not managing quality right](../ai/community/if-ai-coding-is-lowering-your-code-quality-you-re.md)
 
 ## animation
 
@@ -14624,7 +14625,6 @@ Resources organized by keyword tags.
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -21781,7 +21781,6 @@ Resources organized by keyword tags.
   - [KReF: Training-Free Retrieval for Long-Term Time-Series Forecasting and Predictive Uncertainty](../ai/research/arxiv-2608-06748.md)
   - [Kaininja: Extending Native 3D Generators to the Part Level](../ai/agents/arxiv-2609-15659.md)
   - [Kairos: A Dataset for Fine-Grained Video-Language Modeling over Space, Time, and Dynamics](../ai/research/arxiv-2609-08755.md)
-  - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Kathleen Writes: Autoregressive Generation and Data Scaling Without Attention](../ai/rag/arxiv-2608-04678.md)
   - [Keep Your Friends Close, and the Right Neighbours Closer: Disaster-Conditioned Kernel-Regularized Graph Attention for Building Damage Classification](../ai/rag/arxiv-2608-20548.md)
   - [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md)
@@ -24753,6 +24752,7 @@ Resources organized by keyword tags.
   - [[2510.08847] What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment](../ai/rag/arxiv-2510-08847.md)
   - [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../ai/models/huggingface-blog-lerobot-datasets-v3.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
+  - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [anilili/anilili-apk](../ai/models/huggingface-datasets-anilili.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
@@ -24807,6 +24807,7 @@ Resources organized by keyword tags.
   - [nvidia / llama-3.2-nv-embedqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-embedqa-1b-v2.md)
   - [nvidia / llama-3.2-nv-rerankqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-rerankqa-1b-v2.md)
   - [nvidia / nvidia-nemotron-nano-9b-v2](../ai/rag/nvidia-nvidia-nemotron-nano-9b-v2.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [onyx-dot-app/EnterpriseRAG-Bench](../ai/rag/onyx-dot-app-enterpriserag-bench.md)
   - [path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting](../ai/research/arxiv-2607-07935.md)
@@ -24819,7 +24820,6 @@ Resources organized by keyword tags.
   - [scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering](../ai/research/arxiv-2606-18672.md)
   - [scMIR: a vision-language foundation model for single-cell light microscopy image representation](../ai/research/arxiv-2607-22712.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
-  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../ai/rag/huggingface-sentence-transformers.md)
   - [sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub](../ai/resources/ukplab-sentence-transformers.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
@@ -26807,6 +26807,7 @@ Resources organized by keyword tags.
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI and TCAD for Inverse Design and Defect Discovery: From Simple Machine Learning to LLM](../ai/research/arxiv-2609-07046.md)
+  - [AI and the Destruction of the Creative Commons](../ai/community/ai-and-the-destruction-of-the-creative-commons.md)
   - [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](../ai/research/arxiv-2609-08166.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
@@ -27268,7 +27269,6 @@ Resources organized by keyword tags.
   - [Can We Trust AI Agents? A Case Study of an LLM-Based Multi-Agent System for Ethical AI](../ai/agents/arxiv-2411-08881.md)
   - [Can a Dynamic Internal Field Govern a Transformer's Cognition? Certifiability, not Superiority, in Homeostatic Compute Control](../ai/research/arxiv-2608-24319.md)
   - [Can large language models assist choice modelling? Insights into prompting strategies and current models' capabilities](../ai/agents/arxiv-2507-21790.md)
-  - [Can you tell which images are AI-generated?](../ai/community/can-you-tell-which-images-are-ai-generated.md)
   - [Cannot get 555 module to work - Electrical Engineering Stack Exchange](../ai/agents/cannot-get-555-module-to-work-electrical-engineeri.md)
   - [Canonical Variates in Wasserstein Metric Space](../ai/rag/arxiv-2405-15768.md)
   - [Canvas Privacy Notice | Center for Teaching Innovation](../ai/resources/canvas-privacy-notice-center-for-teaching-innovati.md)
@@ -28295,6 +28295,7 @@ Resources organized by keyword tags.
   - [Identifying AI Web Scrapers Using Canary Tokens](../ai/agents/arxiv-2605-13706.md)
   - [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](../ai/research/arxiv-2607-26062.md)
   - [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](../ai/agents/arxiv-2607-07775.md)
+  - [If AI coding is lowering your code quality, you're not managing quality right](../ai/community/if-ai-coding-is-lowering-your-code-quality-you-re.md)
   - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](../ai/research/if-llm-is-the-wizard-then-code-is-the-wand-a-surve.md)
   - [Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](../ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)
   - [Immigrants Belong Toolkit - Define American](../ai/rag/immigrants-belong-toolkit-define-american.md)
@@ -30290,7 +30291,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -30430,7 +30430,6 @@ Resources organized by keyword tags.
   - [rfc5378.txt](../ai/rag/rfc5378-txt.md)
   - [rfc6480.html](../ai/rag/rfc6480-html.md)
   - [rfc8209.html](../ai/agents/rfc8209-html.md)
-  - [rsrohan99/rag-stream-intermediate-events-tutorial](../ai/rag/rsrohan99-rag-stream-intermediate-events-tutorial.md)
   - [run-llama/ParseBench](../ai/rag/run-llama-parsebench.md)
   - [run-llama/llama-hub](../ai/rag/run-llama-llama-hub.md)
   - [saket/telephoto](../ai/rag/saket-telephoto.md)
@@ -30441,7 +30440,6 @@ Resources organized by keyword tags.
   - [search.lib.utexas.edu](../ai/resources/search-lib-utexas-edu.md)
   - [semantic-mediawiki.org](../ai/rag/semantic-mediawiki-org.md)
   - [shanraisshan/claude-code-best-practice](../ai/agents/shanraisshan-claude-code-best-practice.md)
-  - [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md)
   - [slavakurilyak/awesome-ai-agents](../ai/agents/slavakurilyak-awesome-ai-agents.md)
   - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [spaceweather.gfz.de - Space Weather](../ai/resources/spaceweather-gfz-de-space-weather.md)
@@ -30515,7 +30513,6 @@ Resources organized by keyword tags.
 
 ## hf-dataset
 
-  - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [anilili/anilili-apk](../ai/models/huggingface-datasets-anilili.md)
@@ -30523,6 +30520,7 @@ Resources organized by keyword tags.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
@@ -30531,12 +30529,12 @@ Resources organized by keyword tags.
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
+  - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
-  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
 ## hf-space
@@ -30578,11 +30576,11 @@ Resources organized by keyword tags.
   - [AP123/IllusionDiffusion](../ai/models/huggingface-spaces-ap123.md)
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
-  - [KakologArchives/KakologArchives](../ai/models/huggingface-datasets-kakologarchives.md)
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
+  - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [anilili/anilili-apk](../ai/models/huggingface-datasets-anilili.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
@@ -30598,9 +30596,9 @@ Resources organized by keyword tags.
   - [jbilcke-hf/ai-comic-factory](../ai/models/huggingface-spaces-jbilcke-hf.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [mteb/leaderboard](../ai/models/huggingface-spaces-mteb.md)
+  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
-  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
@@ -53086,7 +53084,6 @@ Resources organized by keyword tags.
   - [scotthavird/crewai-template](../ai/rag/scotthavird-crewai-template.md)
   - [semantic-mediawiki.org](../ai/rag/semantic-mediawiki-org.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
-  - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
   - [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../ai/rag/huggingface-sentence-transformers.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
@@ -55600,6 +55597,7 @@ Resources organized by keyword tags.
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
   - [platform/system/update_engine - Git at Google](../ai/rag/platform-system-update-engine-git-at-google.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
+  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -60148,7 +60146,6 @@ Resources organized by keyword tags.
   - [Newest 'twilio' Questions - Stack Overflow](../ai/agents/newest-twilio-questions-stack-overflow.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
-  - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](../ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md)
   - [Nonresident Supplemental Tuition Exemptions | Registrar’s Office](../ai/resources/nonresident-supplemental-tuition-exemptions-regist.md)
@@ -60937,7 +60934,6 @@ Resources organized by keyword tags.
   - [panaversity/langgraph-agents-template](../ai/agents/panaversity-langgraph-agents-template.md)
   - [pandoc • pandoc](../ai/rag/pandoc-pandoc.md)
   - [pandoc: Conversion between markup formats](../ai/rag/pandoc-conversion-between-markup-formats.md)
-  - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting](../ai/research/arxiv-2607-07935.md)
   - [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md)
   - [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md)
@@ -60979,6 +60975,7 @@ Resources organized by keyword tags.
   - [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md)
   - [stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](../ai/resources/stripe-stripe-firebase-extensions.md)
   - [supabase/supabase](../ai/rag/supabase-supabase.md)
+  - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [temporalio/temporal](../ai/resources/temporalio-temporal.md)
   - [titiler/CONTRIBUTING.md at main · developmentseed/titiler · GitHub](../ai/rag/developmentseed-titiler.md)
   - [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md)
@@ -63820,4 +63817,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T10:48:29.939483+05:30*
+*Index generated on 2026-09-20T18:55:00.906413+05:30*

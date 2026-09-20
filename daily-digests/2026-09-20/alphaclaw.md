@@ -1,19 +1,36 @@
 ---
-title: "chrysb/alphaclaw"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Express", "Preact", "SQLite", "Docker", "Git", "Telegram API", "Discord API", "Slack API", "Google Workspace API", "OpenClaw"]
+title: chrysb/alphaclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Node.js
+- Express
+- Preact
+- SQLite
+- Docker
+- Git
+- Telegram API
+- Discord API
+- Slack API
+- Google Workspace API
+- OpenClaw
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent management", "self-healing", "observability", "multi-agent", "deployment automation"]
-source: "https://github.com/chrysb/alphaclaw"
+deployment_complexity: Medium
+tags:
+- agent management
+- self-healing
+- observability
+- multi-agent
+- deployment automation
+source: https://github.com/chrysb/alphaclaw
 stars: 1429
-language: "JavaScript"
-last_updated: "2026-07-11T18:54:44Z"
-discovered_at: "2026-07-11T18:59:48Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-11T18:54:44Z'
+discovered_at: '2026-07-11T18:59:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: anilili/anilili-apk (Likes: 9, Downloads: 1352574)
+Trending Hugging Face dataset: anilili/anilili-apk (Likes: 9, Downloads: 1529049)
 
 ## Use Cases
 

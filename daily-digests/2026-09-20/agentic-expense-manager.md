@@ -1,19 +1,35 @@
 ---
-title: "samsandeepmalik/agentic-expense-manager"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "React", "Claude AI", "OCR (PaddleOCR, OpenAI, Claude Vision)", "WhatsApp API", "Google Sheets API", "Google Drive API", "Docker", "Node.js"]
+title: samsandeepmalik/agentic-expense-manager
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- React
+- Claude AI
+- OCR (PaddleOCR, OpenAI, Claude Vision)
+- WhatsApp API
+- Google Sheets API
+- Google Drive API
+- Docker
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Expense tracking", "AI agent", "Receipt OCR", "Local-first", "Generative UI"]
-source: "https://github.com/samsandeepmalik/agentic-expense-manager"
+deployment_complexity: Medium
+tags:
+- Expense tracking
+- AI agent
+- Receipt OCR
+- Local-first
+- Generative UI
+source: https://github.com/samsandeepmalik/agentic-expense-manager
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T17:33:11Z"
-discovered_at: "2026-08-09T17:35:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T17:33:11Z'
+discovered_at: '2026-08-09T17:35:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

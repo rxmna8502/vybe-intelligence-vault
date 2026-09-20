@@ -1,19 +1,31 @@
 ---
-title: "johnoconnor0/google-ads-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Google Ads API", "Model Context Protocol (MCP)", "OAuth 2.0", "Pydantic", "HTTPX", "Google Auth OAuthlib"]
+title: johnoconnor0/google-ads-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Google Ads API
+- Model Context Protocol (MCP)
+- OAuth 2.0
+- Pydantic
+- HTTPX
+- Google Auth OAuthlib
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Google Ads API", "AI Integration", "Natural Language Processing", "Campaign Management"]
-source: "https://github.com/johnoconnor0/google-ads-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Google Ads API
+- AI Integration
+- Natural Language Processing
+- Campaign Management
+source: https://github.com/johnoconnor0/google-ads-mcp
 stars: 10
-language: "Python"
-last_updated: "2026-07-13T16:24:04Z"
-discovered_at: "2026-07-13T16:31:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T16:24:04Z'
+discovered_at: '2026-07-13T16:31:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "Cristoferjosue3318/lark-acp-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Windows Desktop", "Agent Client Protocol (ACP)", "Lark/Feishu API"]
+title: Cristoferjosue3318/lark-acp-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Electron
+- Windows Desktop
+- Agent Client Protocol (ACP)
+- Lark/Feishu API
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Lark integration", "AI agent bridge", "Feishu bot", "desktop application", "ACP protocol"]
-source: "https://github.com/Cristoferjosue3318/lark-acp-bridge"
+deployment_complexity: Low
+tags:
+- Lark integration
+- AI agent bridge
+- Feishu bot
+- desktop application
+- ACP protocol
+source: https://github.com/Cristoferjosue3318/lark-acp-bridge
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T20:32:04Z"
-discovered_at: "2026-07-19T20:44:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T20:32:04Z'
+discovered_at: '2026-07-19T20:44:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

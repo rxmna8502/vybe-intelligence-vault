@@ -1,19 +1,32 @@
 ---
-title: "fiatdock/fiatdock"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "x402 Protocol", "EVM (Ethereum Virtual Machine)", "Base Network", "REST API", "Node.js", "npm"]
+title: fiatdock/fiatdock
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- x402 Protocol
+- EVM (Ethereum Virtual Machine)
+- Base Network
+- REST API
+- Node.js
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "non-custodial payments", "USDC on-chain", "AI agent marketplace", "x402 protocol"]
-source: "https://github.com/fiatdock/fiatdock"
+deployment_complexity: Medium
+tags:
+- MCP server
+- non-custodial payments
+- USDC on-chain
+- AI agent marketplace
+- x402 protocol
+source: https://github.com/fiatdock/fiatdock
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-09T16:35:40Z"
-discovered_at: "2026-08-09T16:38:35Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T16:35:40Z'
+discovered_at: '2026-08-09T16:38:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

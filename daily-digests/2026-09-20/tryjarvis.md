@@ -1,19 +1,33 @@
 ---
-title: "sailingsam/tryjarvis"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "Whisper (STT)", "Piper (TTS)", "Claude (LLM)", "openWakeWord (wake word detection)", "WebRTC (echo cancellation)", "MCP (Modular Component Protocol)", "systemd (service management)"]
+title: sailingsam/tryjarvis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite
+- Whisper (STT)
+- Piper (TTS)
+- Claude (LLM)
+- openWakeWord (wake word detection)
+- WebRTC (echo cancellation)
+- MCP (Modular Component Protocol)
+- systemd (service management)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personal assistant", "voice-first", "memory management", "always-on agent", "modular AI"]
-source: "https://github.com/sailingsam/tryjarvis"
+deployment_complexity: Medium
+tags:
+- personal assistant
+- voice-first
+- memory management
+- always-on agent
+- modular AI
+source: https://github.com/sailingsam/tryjarvis
 stars: 8
-language: "Python"
-last_updated: "2026-08-10T01:32:25Z"
-discovered_at: "2026-08-10T01:35:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T01:32:25Z'
+discovered_at: '2026-08-10T01:35:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

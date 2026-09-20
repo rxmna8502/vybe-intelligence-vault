@@ -1,19 +1,30 @@
 ---
-title: "shigeki7777/sasame-mcp-observatory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript/TypeScript", "Node.js", "Model Context Protocol (MCP)", "Ed25519 (for signing certificates)", "GitHub Actions (for CI/CD)", "HTML/CSS (for documentation and preflight tools)"]
+title: shigeki7777/sasame-mcp-observatory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript/TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Ed25519 (for signing certificates)
+- GitHub Actions (for CI/CD)
+- HTML/CSS (for documentation and preflight tools)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP verification", "server readiness", "neutral auditing", "signed certificates", "agent-callable tools"]
-source: "https://github.com/shigeki7777/sasame-mcp-observatory"
+deployment_complexity: Medium
+tags:
+- MCP verification
+- server readiness
+- neutral auditing
+- signed certificates
+- agent-callable tools
+source: https://github.com/shigeki7777/sasame-mcp-observatory
 stars: 0
-language: "HTML"
-last_updated: "2026-07-19T07:15:43Z"
-discovered_at: "2026-07-19T07:29:47Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-19T07:15:43Z'
+discovered_at: '2026-07-19T07:29:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "yxpil/bit"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri 2", "React 18", "Rust", "Vite 6", "Tailwind CSS 4", "reqwest", "tokio", "axum", "rhai", "futures-util"]
+title: yxpil/bit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Tauri 2
+- React 18
+- Rust
+- Vite 6
+- Tailwind CSS 4
+- reqwest
+- tokio
+- axum
+- rhai
+- futures-util
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Agent", "Tauri", "React", "Tool Integration", "Self-Improving"]
-source: "https://github.com/yxpil/bit"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- Tauri
+- React
+- Tool Integration
+- Self-Improving
+source: https://github.com/yxpil/bit
 stars: 4
-language: "Rust"
-last_updated: "2026-09-03T08:24:28Z"
-discovered_at: "2026-09-03T08:33:32Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T08:24:28Z'
+discovered_at: '2026-09-03T08:33:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

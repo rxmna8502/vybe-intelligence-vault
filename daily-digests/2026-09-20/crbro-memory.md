@@ -1,19 +1,30 @@
 ---
-title: "Octonove/crbro-memory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Orama (for fact-level search)", "JSON (for data storage)", "OS Keychain (for credential storage)"]
+title: Octonove/crbro-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Orama (for fact-level search)
+- JSON (for data storage)
+- OS Keychain (for credential storage)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "persistent memory", "biological neural architecture", "local AI assistant", "file-based storage"]
-source: "https://github.com/Octonove/crbro-memory"
+deployment_complexity: Low
+tags:
+- MCP server
+- persistent memory
+- biological neural architecture
+- local AI assistant
+- file-based storage
+source: https://github.com/Octonove/crbro-memory
 stars: 4
-language: "TypeScript"
-last_updated: "2026-09-03T02:11:55Z"
-discovered_at: "2026-09-03T02:20:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T02:11:55Z'
+discovered_at: '2026-09-03T02:20:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

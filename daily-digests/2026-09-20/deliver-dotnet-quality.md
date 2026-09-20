@@ -1,19 +1,33 @@
 ---
-title: "PuYiNan/deliver-dotnet-quality"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["PowerShell", "Node.js", "CLI", "State Machine", "GitHub Actions", "Azure Pipelines", "PowerShell Scripting", "JSON/YAML Configuration", "CI/CD Pipelines"]
+title: PuYiNan/deliver-dotnet-quality
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- PowerShell
+- Node.js
+- CLI
+- State Machine
+- GitHub Actions
+- Azure Pipelines
+- PowerShell Scripting
+- JSON/YAML Configuration
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent workflow", "quality gates", "evidence-based delivery", "multi-language support", "CI/CD integration"]
-source: "https://github.com/PuYiNan/deliver-dotnet-quality"
+deployment_complexity: Medium
+tags:
+- AI agent workflow
+- quality gates
+- evidence-based delivery
+- multi-language support
+- CI/CD integration
+source: https://github.com/PuYiNan/deliver-dotnet-quality
 stars: 0
-language: "PowerShell"
-last_updated: "2026-08-02T13:48:24Z"
-discovered_at: "2026-08-02T13:49:09Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-08-02T13:48:24Z'
+discovered_at: '2026-08-02T13:49:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

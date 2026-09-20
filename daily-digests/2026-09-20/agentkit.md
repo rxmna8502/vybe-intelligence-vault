@@ -1,19 +1,34 @@
 ---
-title: "Yacine-ai-tech/AgentKit"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "PostgreSQL", "LangGraph", "CrewAI", "DSPy", "Claude Agent SDK", "LiteLLM", "Monte Carlo Simulation", "Linear Regression"]
+title: Yacine-ai-tech/AgentKit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastMCP
+- PostgreSQL
+- LangGraph
+- CrewAI
+- DSPy
+- Claude Agent SDK
+- LiteLLM
+- Monte Carlo Simulation
+- Linear Regression
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Business Intelligence", "Agent Orchestration", "KPI Analytics", "Multi-Agent Systems"]
-source: "https://github.com/Yacine-ai-tech/AgentKit"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Business Intelligence
+- Agent Orchestration
+- KPI Analytics
+- Multi-Agent Systems
+source: https://github.com/Yacine-ai-tech/AgentKit
 stars: 2
-language: "Python"
-last_updated: "2026-08-08T20:28:09Z"
-discovered_at: "2026-08-08T20:32:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T20:28:09Z'
+discovered_at: '2026-08-08T20:32:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

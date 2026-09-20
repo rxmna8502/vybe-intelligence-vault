@@ -1,19 +1,31 @@
 ---
-title: "humanerd-drew/p-layer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "PostgreSQL", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "pgvector (optional)", "SQLAlchemy"]
+title: humanerd-drew/p-layer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite
+- PostgreSQL
+- MCP (Model Context Protocol)
+- FTS5 (Full-Text Search)
+- pgvector (optional)
+- SQLAlchemy
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["AI memory management", "rule enforcement", "layered memory", "audit logging", "MCP server"]
-source: "https://github.com/humanerd-drew/p-layer"
+deployment_complexity: Low
+tags:
+- AI memory management
+- rule enforcement
+- layered memory
+- audit logging
+- MCP server
+source: https://github.com/humanerd-drew/p-layer
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T15:59:30Z"
-discovered_at: "2026-08-07T16:01:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T15:59:30Z'
+discovered_at: '2026-08-07T16:01:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

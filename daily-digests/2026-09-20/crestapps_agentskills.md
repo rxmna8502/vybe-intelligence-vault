@@ -1,19 +1,30 @@
 ---
-title: "CrestApps/CrestApps.AgentSkills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET", "Model Context Protocol (MCP)", "Orchard Core", "YAML", "GitHub Actions"]
+title: CrestApps/CrestApps.AgentSkills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- C#
+- .NET
+- Model Context Protocol (MCP)
+- Orchard Core
+- YAML
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent skills", "MCP tooling", "Orchard Core", "C# libraries", "plugin system"]
-source: "https://github.com/CrestApps/CrestApps.AgentSkills"
+deployment_complexity: Medium
+tags:
+- AI agent skills
+- MCP tooling
+- Orchard Core
+- C# libraries
+- plugin system
+source: https://github.com/CrestApps/CrestApps.AgentSkills
 stars: 13
-language: "C#"
-last_updated: "2026-08-06T03:15:41Z"
-discovered_at: "2026-08-06T03:19:35Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-06T03:15:41Z'
+discovered_at: '2026-08-06T03:19:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "RekklesNA/ProxmoxMCP-Plus"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Docker", "Proxmox VE API", "SQLite", "OpenAPI", "GitHub Actions", "PyPI"]
+title: RekklesNA/ProxmoxMCP-Plus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Docker
+- Proxmox VE API
+- SQLite
+- OpenAPI
+- GitHub Actions
+- PyPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Proxmox", "MCP", "OpenAPI", "VM Management", "AI Agent Integration"]
-source: "https://github.com/RekklesNA/ProxmoxMCP-Plus"
+deployment_complexity: Medium
+tags:
+- Proxmox
+- MCP
+- OpenAPI
+- VM Management
+- AI Agent Integration
+source: https://github.com/RekklesNA/ProxmoxMCP-Plus
 stars: 392
-language: "Python"
-last_updated: "2026-08-10T07:39:55Z"
-discovered_at: "2026-08-10T13:08:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T07:39:55Z'
+discovered_at: '2026-08-10T13:08:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

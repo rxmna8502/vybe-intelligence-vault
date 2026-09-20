@@ -1,19 +1,34 @@
 ---
-title: "DarkTouiZ/auto-repoflow"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "NestJS", "Angular", "Docker", "MySQL", "Jest", "ESLint", "TSLint", "Ollama"]
+title: DarkTouiZ/auto-repoflow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- NestJS
+- Angular
+- Docker
+- MySQL
+- Jest
+- ESLint
+- TSLint
+- Ollama
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["evidence auditing", "privacy-first", "AI handoff", "static analysis", "change control"]
-source: "https://github.com/DarkTouiZ/auto-repoflow"
+deployment_complexity: Medium
+tags:
+- evidence auditing
+- privacy-first
+- AI handoff
+- static analysis
+- change control
+source: https://github.com/DarkTouiZ/auto-repoflow
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T04:05:20Z"
-discovered_at: "2026-08-04T04:14:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T04:05:20Z'
+discovered_at: '2026-08-04T04:14:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

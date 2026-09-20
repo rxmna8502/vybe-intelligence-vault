@@ -1,19 +1,36 @@
 ---
-title: "HellenAngeli/claw-forge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "YAML", "REST API", "Web UI", "SQLite", "Redis", "OpenAI API", "Claude API", "Ollama", "JWT", "WebAssembly", "Docker-Free Deployment"]
+title: HellenAngeli/claw-forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- YAML
+- REST API
+- Web UI
+- SQLite
+- Redis
+- OpenAI API
+- Claude API
+- Ollama
+- JWT
+- WebAssembly
+- Docker-Free Deployment
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "local AI deployment", "multi-provider support", "Rust-based", "digital sovereignty"]
-source: "https://github.com/HellenAngeli/claw-forge"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- local AI deployment
+- multi-provider support
+- Rust-based
+- digital sovereignty
+source: https://github.com/HellenAngeli/claw-forge
 stars: 1
-language: "HTML"
-last_updated: "2026-09-02T19:03:15Z"
-discovered_at: "2026-09-02T19:13:06Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-02T19:03:15Z'
+discovered_at: '2026-09-02T19:13:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

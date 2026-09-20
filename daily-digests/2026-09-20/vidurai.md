@@ -1,19 +1,33 @@
 ---
-title: "chandantochandan/vidurai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "sqlite-vec", "Apache Parquet", "Model Context Protocol (MCP)", "IPC", "VS Code Extension", "Cursor Editor", "Claude Desktop"]
+title: chandantochandan/vidurai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite
+- sqlite-vec
+- Apache Parquet
+- Model Context Protocol (MCP)
+- IPC
+- VS Code Extension
+- Cursor Editor
+- Claude Desktop
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local-first", "AI memory", "development context", "MCP", "strategic forgetting"]
-source: "https://github.com/chandantochandan/vidurai"
+deployment_complexity: Medium
+tags:
+- local-first
+- AI memory
+- development context
+- MCP
+- strategic forgetting
+source: https://github.com/chandantochandan/vidurai
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T22:47:16Z"
-discovered_at: "2026-08-01T22:55:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T22:47:16Z'
+discovered_at: '2026-08-01T22:55:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

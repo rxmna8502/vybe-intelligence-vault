@@ -1,19 +1,34 @@
 ---
-title: "wesleysimplicio/simplicio-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Rust", "PyO3", "orjson", "msgspec", "uvloop", "MCP", "CLI", "JSON/serde", "LLM providers"]
+title: wesleysimplicio/simplicio-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Python
+- Rust
+- PyO3
+- orjson
+- msgspec
+- uvloop
+- MCP
+- CLI
+- JSON/serde
+- LLM providers
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "deterministic execution", "RAG optimization", "local-first", "evidence-based"]
-source: "https://github.com/wesleysimplicio/simplicio-agent"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- deterministic execution
+- RAG optimization
+- local-first
+- evidence-based
+source: https://github.com/wesleysimplicio/simplicio-agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-16T05:37:09Z"
-discovered_at: "2026-07-16T05:39:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T05:37:09Z'
+discovered_at: '2026-07-16T05:39:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

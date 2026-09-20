@@ -1,19 +1,35 @@
 ---
-title: "lanyz1/qingtianzhu-toolbox"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PowerShell", "Bash", "Node.js", "Java", "Docker", "IDA Pro", "Ghidra", "radare2", "Frida", "Git"]
+title: lanyz1/qingtianzhu-toolbox
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- PowerShell
+- Bash
+- Node.js
+- Java
+- Docker
+- IDA Pro
+- Ghidra
+- radare2
+- Frida
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["cybersecurity", "pentesting", "reverse engineering", "AI automation", "tool orchestration"]
-source: "https://github.com/lanyz1/qingtianzhu-toolbox"
+deployment_complexity: Medium
+tags:
+- cybersecurity
+- pentesting
+- reverse engineering
+- AI automation
+- tool orchestration
+source: https://github.com/lanyz1/qingtianzhu-toolbox
 stars: 0
-language: "PowerShell"
-last_updated: "2026-08-02T15:01:48Z"
-discovered_at: "2026-08-02T15:02:29Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-08-02T15:01:48Z'
+discovered_at: '2026-08-02T15:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

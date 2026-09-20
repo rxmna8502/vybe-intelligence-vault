@@ -1,19 +1,36 @@
 ---
-title: "linjialiang0814/Data-Steward"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Flutter", "Dart", "Python", "FastAPI", "SQLite", "Hermes Agent", "TLS", "DPAPI", "Android Keystore", "OCR", "REST", "WebSocket"]
+title: linjialiang0814/Data-Steward
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Flutter
+- Dart
+- Python
+- FastAPI
+- SQLite
+- Hermes Agent
+- TLS
+- DPAPI
+- Android Keystore
+- OCR
+- REST
+- WebSocket
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["multi-device data management", "agent-based automation", "local-first architecture", "secure file operations", "natural language processing"]
-source: "https://github.com/linjialiang0814/Data-Steward"
+deployment_complexity: High
+tags:
+- multi-device data management
+- agent-based automation
+- local-first architecture
+- secure file operations
+- natural language processing
+source: https://github.com/linjialiang0814/Data-Steward
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T15:46:51Z"
-discovered_at: "2026-09-02T15:50:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:46:51Z'
+discovered_at: '2026-09-02T15:50:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

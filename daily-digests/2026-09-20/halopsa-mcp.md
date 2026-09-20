@@ -1,19 +1,30 @@
 ---
-title: "wyre-technology/halopsa-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "GitHub Packages", "OAuth 2.0"]
+title: wyre-technology/halopsa-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- GitHub Packages
+- OAuth 2.0
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "HaloPSA integration", "AI tooling", "decision tree architecture", "OAuth 2.0"]
-source: "https://github.com/wyre-technology/halopsa-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- HaloPSA integration
+- AI tooling
+- decision tree architecture
+- OAuth 2.0
+source: https://github.com/wyre-technology/halopsa-mcp
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-10T16:59:18Z"
-discovered_at: "2026-08-10T17:06:48Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T16:59:18Z'
+discovered_at: '2026-08-10T17:06:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

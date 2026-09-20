@@ -1,19 +1,33 @@
 ---
-title: "BASHBOP/otito"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "AST (Abstract Syntax Tree) parsing", "Git", "CLI", "MkDocs", "npm"]
+title: BASHBOP/otito
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- AST (Abstract Syntax Tree) parsing
+- Git
+- CLI
+- MkDocs
+- npm
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["trust harness", "code review automation", "AI agent integration", "deterministic validation", "local-first"]
-source: "https://github.com/BASHBOP/otito"
+deployment_complexity: Medium
+tags:
+- trust harness
+- code review automation
+- AI agent integration
+- deterministic validation
+- local-first
+source: https://github.com/BASHBOP/otito
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-03T22:01:16Z"
-discovered_at: "2026-09-03T22:09:38Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T22:01:16Z'
+discovered_at: '2026-09-03T22:09:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "yourba/cloudflare-drive-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Skills", "Cloudflare Workers", "Cloudflare API", "RESTful HTTP", "JSON"]
+title: yourba/cloudflare-drive-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Claude Skills
+- Cloudflare Workers
+- Cloudflare API
+- RESTful HTTP
+- JSON
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Claude AI", "Cloudflare Drive", "file management", "API integration", "natural language commands"]
-source: "https://github.com/yourba/cloudflare-drive-skill"
+deployment_complexity: Low
+tags:
+- Claude AI
+- Cloudflare Drive
+- file management
+- API integration
+- natural language commands
+source: https://github.com/yourba/cloudflare-drive-skill
 stars: 0
-language: "None"
-last_updated: "2026-08-09T08:40:11Z"
-discovered_at: "2026-08-09T08:45:11Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T08:40:11Z'
+discovered_at: '2026-08-09T08:45:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

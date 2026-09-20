@@ -1,19 +1,35 @@
 ---
-title: "venom312004/AI-video-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Streamlit", "LangChain", "Mistral AI", "OpenAI Whisper", "Sarvam AI", "ChromaDB", "HuggingFace Sentence-Transformers", "pydub", "ffmpeg", "yt-dlp"]
+title: venom312004/AI-video-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Streamlit
+- LangChain
+- Mistral AI
+- OpenAI Whisper
+- Sarvam AI
+- ChromaDB
+- HuggingFace Sentence-Transformers
+- pydub
+- ffmpeg
+- yt-dlp
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["meeting intelligence", "RAG", "transcription", "summarization", "action item extraction"]
-source: "https://github.com/venom312004/AI-video-assistant"
+deployment_complexity: Medium
+tags:
+- meeting intelligence
+- RAG
+- transcription
+- summarization
+- action item extraction
+source: https://github.com/venom312004/AI-video-assistant
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T15:16:10Z"
-discovered_at: "2026-08-07T16:03:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T15:16:10Z'
+discovered_at: '2026-08-07T16:03:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

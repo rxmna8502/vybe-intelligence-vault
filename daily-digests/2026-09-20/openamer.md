@@ -1,19 +1,34 @@
 ---
-title: "openamer/openamer"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Agent Framework", "Computer-Use Automation", "A2A Protocol", "Vector Memory", "Natural Language Processing", "Machine Learning", "Docker", "GitHub API", "VS Code Extension"]
+title: openamer/openamer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Agent Framework
+- Computer-Use Automation
+- A2A Protocol
+- Vector Memory
+- Natural Language Processing
+- Machine Learning
+- Docker
+- GitHub API
+- VS Code Extension
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["self-improving agents", "autonomous AI", "computer-use automation", "multi-agent swarm", "privacy-first"]
-source: "https://github.com/openamer/openamer"
+deployment_complexity: High
+tags:
+- self-improving agents
+- autonomous AI
+- computer-use automation
+- multi-agent swarm
+- privacy-first
+source: https://github.com/openamer/openamer
 stars: 3
-language: "Python"
-last_updated: "2026-09-02T19:04:49Z"
-discovered_at: "2026-09-02T19:12:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T19:04:49Z'
+discovered_at: '2026-09-02T19:12:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

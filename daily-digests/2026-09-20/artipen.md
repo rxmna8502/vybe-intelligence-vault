@@ -1,19 +1,31 @@
 ---
-title: "503496348-ops/artipen"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "CLI", "AI Content Detection", "Image Generation", "Natural Language Processing", "Shell Scripting"]
+title: 503496348-ops/artipen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Markdown
+- CLI
+- AI Content Detection
+- Image Generation
+- Natural Language Processing
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["content formatting", "multi-platform publishing", "AI content authenticity", "automated layout", "content generation"]
-source: "https://github.com/503496348-ops/artipen"
+deployment_complexity: Medium
+tags:
+- content formatting
+- multi-platform publishing
+- AI content authenticity
+- automated layout
+- content generation
+source: https://github.com/503496348-ops/artipen
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T02:24:43Z"
-discovered_at: "2026-07-11T02:27:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T02:24:43Z'
+discovered_at: '2026-07-11T02:27:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

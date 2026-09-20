@@ -1,19 +1,31 @@
 ---
-title: "beeswaxpat/ffmpeg-render-pro"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "FFmpeg", "JavaScript", "TypeScript (implied by structured output)", "Model Context Protocol (MCP)", "GPU acceleration (NVENC, VideoToolbox, AMF, VA-API, QSV)", "Express.js (for dashboard server)"]
+title: beeswaxpat/ffmpeg-render-pro
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Node.js
+- FFmpeg
+- JavaScript
+- TypeScript (implied by structured output)
+- Model Context Protocol (MCP)
+- GPU acceleration (NVENC, VideoToolbox, AMF, VA-API, QSV)
+- Express.js (for dashboard server)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["video rendering", "parallel processing", "GPU acceleration", "MCP server", "FFmpeg integration"]
-source: "https://github.com/beeswaxpat/ffmpeg-render-pro"
+deployment_complexity: Medium
+tags:
+- video rendering
+- parallel processing
+- GPU acceleration
+- MCP server
+- FFmpeg integration
+source: https://github.com/beeswaxpat/ffmpeg-render-pro
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-09T01:29:54Z"
-discovered_at: "2026-08-09T01:33:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T01:29:54Z'
+discovered_at: '2026-08-09T01:33:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

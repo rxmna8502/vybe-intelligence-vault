@@ -1,19 +1,29 @@
 ---
-title: "Yahia20/travel-support-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["LangGraph", "LangChain", "Chroma", "OpenAI-compatible models", "Python"]
+title: Yahia20/travel-support-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- LangGraph
+- LangChain
+- Chroma
+- OpenAI-compatible models
+- Python
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Grounded RAG", "Customer Support Agent", "Citation-based Answers", "Escalation Handling", "Policy Retrieval"]
-source: "https://github.com/Yahia20/travel-support-agent"
+deployment_complexity: Medium
+tags:
+- Grounded RAG
+- Customer Support Agent
+- Citation-based Answers
+- Escalation Handling
+- Policy Retrieval
+source: https://github.com/Yahia20/travel-support-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T19:53:18Z"
-discovered_at: "2026-08-07T19:58:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T19:53:18Z'
+discovered_at: '2026-08-07T19:58:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

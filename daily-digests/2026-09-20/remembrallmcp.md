@@ -1,19 +1,31 @@
 ---
-title: "roboticforce/remembrallmcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "PostgreSQL", "pgvector", "Tree-sitter", "Docker", "MCP (Model Context Protocol)", "GitHub CLI"]
+title: roboticforce/remembrallmcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- PostgreSQL
+- pgvector
+- Tree-sitter
+- Docker
+- MCP (Model Context Protocol)
+- GitHub CLI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code graph", "persistent memory", "AI agent tooling", "dependency analysis", "RAG optimization"]
-source: "https://github.com/roboticforce/remembrallmcp"
+deployment_complexity: Medium
+tags:
+- code graph
+- persistent memory
+- AI agent tooling
+- dependency analysis
+- RAG optimization
+source: https://github.com/roboticforce/remembrallmcp
 stars: 27
-language: "Rust"
-last_updated: "2026-07-18T23:47:35Z"
-discovered_at: "2026-07-18T23:52:44Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-18T23:47:35Z'
+discovered_at: '2026-07-18T23:52:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

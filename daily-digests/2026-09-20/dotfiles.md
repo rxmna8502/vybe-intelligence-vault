@@ -1,19 +1,40 @@
 ---
-title: "iaminpwd/dotfiles"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "Zsh", "Oh My Zsh", "mise", "pipx", "GNU Stow", "Git", "Python", "AI Prompt Engineering", "Terraform", "Kubernetes", "AWS CLI", "Azure CLI", "Trivy", "Conftest", "TruffleHog"]
+title: iaminpwd/dotfiles
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Shell
+- Zsh
+- Oh My Zsh
+- mise
+- pipx
+- GNU Stow
+- Git
+- Python
+- AI Prompt Engineering
+- Terraform
+- Kubernetes
+- AWS CLI
+- Azure CLI
+- Trivy
+- Conftest
+- TruffleHog
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["dotfiles", "AI agents", "DevOps automation", "infrastructure management", "zero-trust security"]
-source: "https://github.com/iaminpwd/dotfiles"
+deployment_complexity: Medium
+tags:
+- dotfiles
+- AI agents
+- DevOps automation
+- infrastructure management
+- zero-trust security
+source: https://github.com/iaminpwd/dotfiles
 stars: 0
-language: "Shell"
-last_updated: "2026-07-11T05:37:01Z"
-discovered_at: "2026-07-11T05:39:11Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-11T05:37:01Z'
+discovered_at: '2026-07-11T05:39:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

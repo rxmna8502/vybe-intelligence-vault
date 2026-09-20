@@ -1,19 +1,38 @@
 ---
-title: "acara-app/plate"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["PHP", "Laravel 13", "React 19", "Inertia", "Tailwind CSS 4", "PostgreSQL", "pgvector", "Laravel AI SDK", "Redis", "Laravel Reverb (WebSockets)", "TypeScript", "Stripe", "Telegram Bot API", "USDA FoodData Central"]
+title: acara-app/plate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- PHP
+- Laravel 13
+- React 19
+- Inertia
+- Tailwind CSS 4
+- PostgreSQL
+- pgvector
+- Laravel AI SDK
+- Redis
+- Laravel Reverb (WebSockets)
+- TypeScript
+- Stripe
+- Telegram Bot API
+- USDA FoodData Central
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["health AI", "self-hosted", "personal health data", "AI agent", "Laravel"]
-source: "https://github.com/acara-app/plate"
+deployment_complexity: Medium
+tags:
+- health AI
+- self-hosted
+- personal health data
+- AI agent
+- Laravel
+source: https://github.com/acara-app/plate
 stars: 29
-language: "PHP"
-last_updated: "2026-08-04T07:33:26Z"
-discovered_at: "2026-08-04T07:40:11Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-04T07:33:26Z'
+discovered_at: '2026-08-04T07:40:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

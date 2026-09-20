@@ -1,19 +1,29 @@
 ---
-title: "warc0s/omp-approval-reviewer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Oh My Pi (OMP)", "LLM Integration", "JSONL Audit Logging"]
+title: warc0s/omp-approval-reviewer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Bun
+- Oh My Pi (OMP)
+- LLM Integration
+- JSONL Audit Logging
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["security", "approval-gating", "audit-trail", "LLM-safety", "Bash-inspection"]
-source: "https://github.com/warc0s/omp-approval-reviewer"
+deployment_complexity: Medium
+tags:
+- security
+- approval-gating
+- audit-trail
+- LLM-safety
+- Bash-inspection
+source: https://github.com/warc0s/omp-approval-reviewer
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T10:35:52Z"
-discovered_at: "2026-08-09T10:37:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T10:35:52Z'
+discovered_at: '2026-08-09T10:37:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

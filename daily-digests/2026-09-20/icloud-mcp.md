@@ -1,19 +1,32 @@
 ---
-title: "MrGo2/icloud-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "AppleScript", "IMAP", "CalDAV", "CardDAV", "Model Context Protocol (MCP)", "npm"]
+title: MrGo2/icloud-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Node.js
+- AppleScript
+- IMAP
+- CalDAV
+- CardDAV
+- Model Context Protocol (MCP)
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Apple services integration", "Model Context Protocol", "iCloud automation", "AI tooling"]
-source: "https://github.com/MrGo2/icloud-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Apple services integration
+- Model Context Protocol
+- iCloud automation
+- AI tooling
+source: https://github.com/MrGo2/icloud-mcp
 stars: 21
-language: "JavaScript"
-last_updated: "2026-08-08T16:26:35Z"
-discovered_at: "2026-08-08T16:35:56Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T16:26:35Z'
+discovered_at: '2026-08-08T16:35:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

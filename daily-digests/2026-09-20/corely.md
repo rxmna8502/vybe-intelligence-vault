@@ -1,19 +1,38 @@
 ---
-title: "Corely-AI/corely"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "NestJS", "Prisma", "PostgreSQL", "Redis", "React", "Vite", "DDD (Domain-Driven Design)", "Hexagonal Architecture", "CQRS", "Outbox Pattern", "Idempotency", "pnpm", "Docker"]
+title: Corely-AI/corely
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- NestJS
+- Prisma
+- PostgreSQL
+- Redis
+- React
+- Vite
+- DDD (Domain-Driven Design)
+- Hexagonal Architecture
+- CQRS
+- Outbox Pattern
+- Idempotency
+- pnpm
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["ERP", "Modular Architecture", "AI-Native", "Business Automation", "Monorepo"]
-source: "https://github.com/Corely-AI/corely"
+deployment_complexity: Medium
+tags:
+- ERP
+- Modular Architecture
+- AI-Native
+- Business Automation
+- Monorepo
+source: https://github.com/Corely-AI/corely
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-02T21:55:15Z"
-discovered_at: "2026-08-02T21:55:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T21:55:15Z'
+discovered_at: '2026-08-02T21:55:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

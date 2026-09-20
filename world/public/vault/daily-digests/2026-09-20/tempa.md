@@ -1,19 +1,30 @@
 ---
-title: "daus95/tempa"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "GitHub Copilot CLI", "OpenAI Codex CLI", "Web Dashboard (Flask or similar)", "CLI Automation"]
+title: daus95/tempa
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Python
+- Claude Code
+- GitHub Copilot CLI
+- OpenAI Codex CLI
+- Web Dashboard (Flask or similar)
+- CLI Automation
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agentic automation", "software development", "AI-driven coding", "CLI orchestration", "spec-to-code"]
-source: "https://github.com/daus95/tempa"
+deployment_complexity: Medium
+tags:
+- agentic automation
+- software development
+- AI-driven coding
+- CLI orchestration
+- spec-to-code
+source: https://github.com/daus95/tempa
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T10:39:45Z"
-discovered_at: "2026-08-02T10:41:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T10:39:45Z'
+discovered_at: '2026-08-02T10:41:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

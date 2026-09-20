@@ -1,19 +1,32 @@
 ---
-title: "itxcrusher/ripple-proof"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PostgreSQL", "dbt", "DuckDB", "DataHub", "GitHub", "Docker", "MCP (Metadata Catalog Protocol)"]
+title: itxcrusher/ripple-proof
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- PostgreSQL
+- dbt
+- DuckDB
+- DataHub
+- GitHub
+- Docker
+- MCP (Metadata Catalog Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["data lineage", "dbt repairs", "PostgreSQL column renames", "evidence-based automation", "manifest-bound outcomes"]
-source: "https://github.com/itxcrusher/ripple-proof"
+deployment_complexity: Medium
+tags:
+- data lineage
+- dbt repairs
+- PostgreSQL column renames
+- evidence-based automation
+- manifest-bound outcomes
+source: https://github.com/itxcrusher/ripple-proof
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T16:49:42Z"
-discovered_at: "2026-08-07T16:57:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T16:49:42Z'
+discovered_at: '2026-08-07T16:57:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "libertarianjohnsmith4586/SBTI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows", "HTML", "CSS", "JavaScript", "Electron (inferred)", "Node.js (inferred)"]
+title: libertarianjohnsmith4586/SBTI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Windows
+- HTML
+- CSS
+- JavaScript
+- Electron (inferred)
+- Node.js (inferred)
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["testing automation", "desktop application", "Windows tool", "network testing", "local execution"]
-source: "https://github.com/libertarianjohnsmith4586/SBTI"
+deployment_complexity: Low
+tags:
+- testing automation
+- desktop application
+- Windows tool
+- network testing
+- local execution
+source: https://github.com/libertarianjohnsmith4586/SBTI
 stars: 0
-language: "HTML"
-last_updated: "2026-07-11T11:02:09Z"
-discovered_at: "2026-07-11T11:03:34Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-11T11:02:09Z'
+discovered_at: '2026-07-11T11:03:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "willow-memory/willow-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "PostgreSQL", "Task Queue (Kart)", "FastAPI", "Pydantic", "SQLAlchemy"]
+title: willow-memory/willow-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- SQLite
+- PostgreSQL
+- Task Queue (Kart)
+- FastAPI
+- Pydantic
+- SQLAlchemy
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP server", "persistent memory", "task orchestration", "multi-backend storage", "agent framework"]
-source: "https://github.com/willow-memory/willow-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- persistent memory
+- task orchestration
+- multi-backend storage
+- agent framework
+source: https://github.com/willow-memory/willow-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-09-03T08:30:49Z"
-discovered_at: "2026-09-03T08:38:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T08:30:49Z'
+discovered_at: '2026-09-03T08:38:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

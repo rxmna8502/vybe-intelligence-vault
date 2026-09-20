@@ -1,19 +1,34 @@
 ---
-title: "cyberlife-coder/VelesDB"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Python", "TypeScript", "Node.js", "Docker", "WASM", "REST", "HNSW", "AVX2/NEON SIMD", "SQL-like query language (VelesQL)"]
+title: cyberlife-coder/VelesDB
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- Python
+- TypeScript
+- Node.js
+- Docker
+- WASM
+- REST
+- HNSW
+- AVX2/NEON SIMD
+- SQL-like query language (VelesQL)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["local-first", "explainable memory", "deterministic compression", "agent memory", "unified query engine"]
-source: "https://github.com/cyberlife-coder/VelesDB"
+deployment_complexity: Medium
+tags:
+- local-first
+- explainable memory
+- deterministic compression
+- agent memory
+- unified query engine
+source: https://github.com/cyberlife-coder/VelesDB
 stars: 82
-language: "Rust"
-last_updated: "2026-08-07T09:33:02Z"
-discovered_at: "2026-08-07T10:05:48Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T09:33:02Z'
+discovered_at: '2026-08-07T10:05:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

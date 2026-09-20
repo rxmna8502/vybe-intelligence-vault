@@ -1,19 +1,31 @@
 ---
-title: "x51xxx/codex-mcp-tool"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Codex CLI", "Ollama", "LM Studio", "OpenAI API"]
+title: x51xxx/codex-mcp-tool
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Codex CLI
+- Ollama
+- LM Studio
+- OpenAI API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Codex CLI integration", "AI-assisted development", "multi-turn conversations", "sandboxed edits"]
-source: "https://github.com/x51xxx/codex-mcp-tool"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Codex CLI integration
+- AI-assisted development
+- multi-turn conversations
+- sandboxed edits
+source: https://github.com/x51xxx/codex-mcp-tool
 stars: 23
-language: "TypeScript"
-last_updated: "2026-07-13T10:19:04Z"
-discovered_at: "2026-07-13T10:24:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T10:19:04Z'
+discovered_at: '2026-07-13T10:24:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

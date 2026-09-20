@@ -1,19 +1,29 @@
 ---
-title: "jo-inc/pi-reflect"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "LLM APIs (e.g., Anthropic Claude)", "Git", "Markdown"]
+title: jo-inc/pi-reflect
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- LLM APIs (e.g., Anthropic Claude)
+- Git
+- Markdown
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-improving agents", "behavioral correction", "iterative refinement", "agent memory", "LLM editing"]
-source: "https://github.com/jo-inc/pi-reflect"
+deployment_complexity: Medium
+tags:
+- self-improving agents
+- behavioral correction
+- iterative refinement
+- agent memory
+- LLM editing
+source: https://github.com/jo-inc/pi-reflect
 stars: 38
-language: "TypeScript"
-last_updated: "2026-07-21T17:15:44Z"
-discovered_at: "2026-07-21T17:16:31Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T17:15:44Z'
+discovered_at: '2026-07-21T17:16:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

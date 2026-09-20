@@ -1,19 +1,29 @@
 ---
-title: "jcguimaraesnet/course-intelligent-agents"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Vue.js", "Slidev", "Python", "Markdown", "GitHub Pages"]
+title: jcguimaraesnet/course-intelligent-agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Vue.js
+- Slidev
+- Python
+- Markdown
+- GitHub Pages
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["educational", "intelligent-agents", "slides", "course-materials", "presentation"]
-source: "https://github.com/jcguimaraesnet/course-intelligent-agents"
+deployment_complexity: Low
+tags:
+- educational
+- intelligent-agents
+- slides
+- course-materials
+- presentation
+source: https://github.com/jcguimaraesnet/course-intelligent-agents
 stars: 8
-language: "Vue"
-last_updated: "2026-08-03T02:52:30Z"
-discovered_at: "2026-08-03T02:54:23Z"
-evaluated_by: "mistral-small-latest"
+language: Vue
+last_updated: '2026-08-03T02:52:30Z'
+discovered_at: '2026-08-03T02:54:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

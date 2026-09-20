@@ -1,19 +1,29 @@
 ---
-title: "granolacowboy/intake-triage-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Pydantic", "JSONL", "Fuzzy Matching"]
+title: granolacowboy/intake-triage-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Pydantic
+- JSONL
+- Fuzzy Matching
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["legal intake", "conflict screening", "deterministic validation", "MCP server", "provenance tracking"]
-source: "https://github.com/granolacowboy/intake-triage-mcp"
+deployment_complexity: Low
+tags:
+- legal intake
+- conflict screening
+- deterministic validation
+- MCP server
+- provenance tracking
+source: https://github.com/granolacowboy/intake-triage-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T02:11:13Z"
-discovered_at: "2026-09-03T02:21:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T02:11:13Z'
+discovered_at: '2026-09-03T02:21:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

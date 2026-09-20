@@ -1,19 +1,30 @@
 ---
-title: "NihilDigit/bilby"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Kotlin", "Android SDK", "OpenAI-compatible API", "Gradle", "SLSA (Supply-chain Levels for Software Artifacts)", "GitHub Actions"]
+title: NihilDigit/bilby
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Kotlin
+- Android SDK
+- OpenAI-compatible API
+- Gradle
+- SLSA (Supply-chain Levels for Software Artifacts)
+- GitHub Actions
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["Android client", "content curation", "bilibili", "AI-assisted search", "user-controlled feed"]
-source: "https://github.com/NihilDigit/bilby"
+deployment_complexity: Low
+tags:
+- Android client
+- content curation
+- bilibili
+- AI-assisted search
+- user-controlled feed
+source: https://github.com/NihilDigit/bilby
 stars: 1
-language: "Kotlin"
-last_updated: "2026-08-08T09:37:20Z"
-discovered_at: "2026-08-08T09:40:18Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-08-08T09:37:20Z'
+discovered_at: '2026-08-08T09:40:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

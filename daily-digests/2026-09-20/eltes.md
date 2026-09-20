@@ -1,19 +1,39 @@
 ---
-title: "zester4/eltes"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "TypeScript", "AI SDK", "Upstash Vector", "Upstash Redis", "Upstash QStash", "Upstash Workflow", "Neon Serverless Postgres", "Vercel Blob", "Auth.js", "Composio", "Daytona", "Tailwind CSS", "shadcn/ui", "Radix UI"]
+title: zester4/eltes
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Next.js
+- TypeScript
+- AI SDK
+- Upstash Vector
+- Upstash Redis
+- Upstash QStash
+- Upstash Workflow
+- Neon Serverless Postgres
+- Vercel Blob
+- Auth.js
+- Composio
+- Daytona
+- Tailwind CSS
+- shadcn/ui
+- Radix UI
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "multi-agent orchestration", "business automation", "AI-driven workflows", "enterprise AI"]
-source: "https://github.com/zester4/eltes"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- multi-agent orchestration
+- business automation
+- AI-driven workflows
+- enterprise AI
+source: https://github.com/zester4/eltes
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-08T12:41:02Z"
-discovered_at: "2026-08-08T12:47:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T12:41:02Z'
+discovered_at: '2026-08-08T12:47:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

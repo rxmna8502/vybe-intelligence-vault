@@ -1,19 +1,29 @@
 ---
-title: "88plug/use-latest-version-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "Docker", "GitHub Actions"]
+title: 88plug/use-latest-version-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "dependency management", "version lookup", "AI agent tools", "package registries"]
-source: "https://github.com/88plug/use-latest-version-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- dependency management
+- version lookup
+- AI agent tools
+- package registries
+source: https://github.com/88plug/use-latest-version-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T07:17:07Z"
-discovered_at: "2026-07-19T07:29:46Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T07:17:07Z'
+discovered_at: '2026-07-19T07:29:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

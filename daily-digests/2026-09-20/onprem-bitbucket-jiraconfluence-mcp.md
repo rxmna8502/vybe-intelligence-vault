@@ -1,19 +1,30 @@
 ---
-title: "jameswniu/onprem-bitbucket-jiraconfluence-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Atlassian REST APIs", "Claude Code", "OAuth 2.1", "Docker (for remote deployment)"]
+title: jameswniu/onprem-bitbucket-jiraconfluence-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Atlassian REST APIs
+- Claude Code
+- OAuth 2.1
+- Docker (for remote deployment)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "Atlassian integration", "token optimization", "API wrapper", "Claude Code"]
-source: "https://github.com/jameswniu/onprem-bitbucket-jiraconfluence-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Atlassian integration
+- token optimization
+- API wrapper
+- Claude Code
+source: https://github.com/jameswniu/onprem-bitbucket-jiraconfluence-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T08:25:09Z"
-discovered_at: "2026-08-05T08:36:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T08:25:09Z'
+discovered_at: '2026-08-05T08:36:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

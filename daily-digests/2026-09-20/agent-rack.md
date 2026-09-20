@@ -1,19 +1,29 @@
 ---
-title: "lakpriya1s/agent-rack"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "JSON-RPC", "CLI Agents (Claude Code, Codex, OpenCode, Antigravity)"]
+title: lakpriya1s/agent-rack
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- JSON-RPC
+- CLI Agents (Claude Code, Codex, OpenCode, Antigravity)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "AI coding agents", "sub-agent orchestration", "CLI integration", "structured code review"]
-source: "https://github.com/lakpriya1s/agent-rack"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AI coding agents
+- sub-agent orchestration
+- CLI integration
+- structured code review
+source: https://github.com/lakpriya1s/agent-rack
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T19:25:54Z"
-discovered_at: "2026-08-04T19:33:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T19:25:54Z'
+discovered_at: '2026-08-04T19:33:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

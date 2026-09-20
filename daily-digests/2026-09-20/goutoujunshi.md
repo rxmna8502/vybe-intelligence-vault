@@ -1,19 +1,28 @@
 ---
-title: "powerycy/goutoujunshi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Codex Skills Framework", "YAML", "Markdown"]
+title: powerycy/goutoujunshi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Codex Skills Framework
+- YAML
+- Markdown
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["relationship AI", "emotion-aware advice", "multi-disciplinary knowledge base", "actionable strategy generation", "diverse relationship support"]
-source: "https://github.com/powerycy/goutoujunshi"
+deployment_complexity: Low
+tags:
+- relationship AI
+- emotion-aware advice
+- multi-disciplinary knowledge base
+- actionable strategy generation
+- diverse relationship support
+source: https://github.com/powerycy/goutoujunshi
 stars: 2
-language: "Python"
-last_updated: "2026-07-20T15:05:46Z"
-discovered_at: "2026-07-20T15:10:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T15:05:46Z'
+discovered_at: '2026-07-20T15:10:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

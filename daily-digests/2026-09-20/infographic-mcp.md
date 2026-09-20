@@ -1,19 +1,27 @@
 ---
-title: "sshdwzt/infographic-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Serper API"]
+title: sshdwzt/infographic-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- Serper API
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["image search", "infographic", "MCP server", "Serper API", "AI assistant"]
-source: "https://github.com/sshdwzt/infographic-mcp"
+deployment_complexity: Low
+tags:
+- image search
+- infographic
+- MCP server
+- Serper API
+- AI assistant
+source: https://github.com/sshdwzt/infographic-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-14T12:06:03Z"
-discovered_at: "2026-07-14T12:10:29Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-14T12:06:03Z'
+discovered_at: '2026-07-14T12:10:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

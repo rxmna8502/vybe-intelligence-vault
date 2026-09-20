@@ -1,19 +1,32 @@
 ---
-title: "kanze1/kanzei-code"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri", "SQLite", "Anthropic Messages", "OpenAI Chat Completions", "LLM APIs (Claude, Codex, Kimi, Ollama)", "Markdown", "NSIS"]
+title: kanze1/kanzei-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- Tauri
+- SQLite
+- Anthropic Messages
+- OpenAI Chat Completions
+- LLM APIs (Claude, Codex, Kimi, Ollama)
+- Markdown
+- NSIS
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "self-hosted", "Rust", "Tauri", "autonomous development"]
-source: "https://github.com/kanze1/kanzei-code"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- self-hosted
+- Rust
+- Tauri
+- autonomous development
+source: https://github.com/kanze1/kanzei-code
 stars: 1
-language: "Rust"
-last_updated: "2026-08-07T02:38:03Z"
-discovered_at: "2026-08-07T02:41:41Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T02:38:03Z'
+discovered_at: '2026-08-07T02:41:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

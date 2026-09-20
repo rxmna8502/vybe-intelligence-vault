@@ -1,19 +1,28 @@
 ---
-title: "Whole-synonymist671/timecode-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "FFmpeg (implied for video processing)", "PyInstaller (for packaging)"]
+title: Whole-synonymist671/timecode-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Windows Desktop Application
+- FFmpeg (implied for video processing)
+- PyInstaller (for packaging)
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["video processing", "timestamp extraction", "coding workflow", "local processing", "evidence ledger"]
-source: "https://github.com/Whole-synonymist671/timecode-agent"
+deployment_complexity: Low
+tags:
+- video processing
+- timestamp extraction
+- coding workflow
+- local processing
+- evidence ledger
+source: https://github.com/Whole-synonymist671/timecode-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T00:01:14Z"
-discovered_at: "2026-08-07T00:01:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T00:01:14Z'
+discovered_at: '2026-08-07T00:01:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "Varun-Patkar/microsoft-exam-prep"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "GitHub Copilot Agents", "VS Code", "CLI Tools", "JSON", "Markdown"]
+title: Varun-Patkar/microsoft-exam-prep
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- GitHub Copilot Agents
+- VS Code
+- CLI Tools
+- JSON
+- Markdown
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["exam preparation", "agent orchestration", "study automation", "certification training", "quiz runner"]
-source: "https://github.com/Varun-Patkar/microsoft-exam-prep"
+deployment_complexity: Medium
+tags:
+- exam preparation
+- agent orchestration
+- study automation
+- certification training
+- quiz runner
+source: https://github.com/Varun-Patkar/microsoft-exam-prep
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T15:15:31Z"
-discovered_at: "2026-08-06T15:18:20Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T15:15:31Z'
+discovered_at: '2026-08-06T15:18:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "nacre-work/nacre"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["TypeScript", "PostgreSQL", "Qdrant", "Docker", "MCP (Model Context Protocol)", "REST API", "Ed25519 (JWT signing)", "OpenAI-compatible embeddings"]
+title: nacre-work/nacre
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- PostgreSQL
+- Qdrant
+- Docker
+- MCP (Model Context Protocol)
+- REST API
+- Ed25519 (JWT signing)
+- OpenAI-compatible embeddings
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["access control", "fine-grained permissions", "self-hosted", "RAG context layer", "auditability"]
-source: "https://github.com/nacre-work/nacre"
+deployment_complexity: Medium
+tags:
+- access control
+- fine-grained permissions
+- self-hosted
+- RAG context layer
+- auditability
+source: https://github.com/nacre-work/nacre
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T09:44:29Z"
-discovered_at: "2026-08-07T10:05:38Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T09:44:29Z'
+discovered_at: '2026-08-07T10:05:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

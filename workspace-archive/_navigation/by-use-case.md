@@ -18,10 +18,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 
 ## Document Knowledge base & Search (RAG)
 
@@ -29,10 +29,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `vector-databases` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Category: `rag-systems` | [`Local File`](../../ai/rag/neuml-txtai.md))
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (Category: `rag-systems` | [`Local File`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `rag-systems` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `rag-systems` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
+- [neuml/txtai](https://github.com/neuml/txtai) (Category: `vector-databases` | [`Local File`](../../ai/rag/neuml-txtai.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -72,11 +72,11 @@ This index groups resources by direct developer use-cases and design goals.
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (Category: `llm-app-templates` | [`Local File`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `frontend-ai-ui` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 - [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2608-23035.md))
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
 - [Latent Preference Modeling for Multi-Session Personalized Tool Calling](https://arxiv.org/abs/2604.17886) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2604-17886.md))
+- [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2608-22793.md))
 
 ## WebGL / WebGPU 3D Experiences & Creative Design
 
@@ -93,12 +93,12 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [github/roadmap](https://github.com/github/roadmap) (Category: `learning-paths` | [`Local File`](../../ai/resources/github-roadmap.md))
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `project-ideas` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (Category: `project-ideas` | [`Local File`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
 - [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (Category: `learning-paths` | [`Local File`](../../ai/agents/langchain-community-connect-learn-build-ai-agents.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Category: `learning-paths` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2508-04227.md))
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2507-16696.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
+- [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](https://arxiv.org/abs/2608.28649) (Category: `learning-paths` | [`Local File`](../../ai/rag/arxiv-2608-28649.md))
 
 ---
-*Last updated: 2026-09-20 10:51 IST*
+*Last updated: 2026-09-20 18:57 IST*

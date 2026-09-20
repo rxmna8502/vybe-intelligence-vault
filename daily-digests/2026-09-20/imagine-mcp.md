@@ -1,19 +1,35 @@
 ---
-title: "n24q02m/imagine-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastMCP", "MCP (Model Context Protocol)", "Gemini API", "OpenAI API", "Grok API", "litellm", "Docker", "HTTP", "JWT", "AES-GCM"]
+title: n24q02m/imagine-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastMCP
+- MCP (Model Context Protocol)
+- Gemini API
+- OpenAI API
+- Grok API
+- litellm
+- Docker
+- HTTP
+- JWT
+- AES-GCM
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multimodal", "image generation", "video generation", "AI agents", "MCP server"]
-source: "https://github.com/n24q02m/imagine-mcp"
+deployment_complexity: Medium
+tags:
+- multimodal
+- image generation
+- video generation
+- AI agents
+- MCP server
+source: https://github.com/n24q02m/imagine-mcp
 stars: 4
-language: "Python"
-last_updated: "2026-07-10T13:09:34Z"
-discovered_at: "2026-07-10T13:11:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T13:09:34Z'
+discovered_at: '2026-07-10T13:11:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

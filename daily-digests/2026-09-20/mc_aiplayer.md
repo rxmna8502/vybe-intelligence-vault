@@ -1,19 +1,34 @@
 ---
-title: "zoyluoblue/mc_aiplayer"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 21", "Fabric Mod Loader", "Minecraft 1.21.3", "DeepSeek (or OpenAI-compatible LLM)", "Fabric API", "Yarn mappings", "JUnit", "Fabric GameTest", "A* pathfinding", "State machines"]
+title: zoyluoblue/mc_aiplayer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Java 21
+- Fabric Mod Loader
+- Minecraft 1.21.3
+- DeepSeek (or OpenAI-compatible LLM)
+- Fabric API
+- Yarn mappings
+- JUnit
+- Fabric GameTest
+- A* pathfinding
+- State machines
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["Minecraft AI agent", "LLM planning", "deterministic execution", "Fabric mod", "server-side bot"]
-source: "https://github.com/zoyluoblue/mc_aiplayer"
+deployment_complexity: High
+tags:
+- Minecraft AI agent
+- LLM planning
+- deterministic execution
+- Fabric mod
+- server-side bot
+source: https://github.com/zoyluoblue/mc_aiplayer
 stars: 185
-language: "Java"
-last_updated: "2026-08-07T09:58:04Z"
-discovered_at: "2026-08-07T10:03:46Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T09:58:04Z'
+discovered_at: '2026-08-07T10:03:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

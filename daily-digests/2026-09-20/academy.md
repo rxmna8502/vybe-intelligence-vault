@@ -1,19 +1,30 @@
 ---
-title: "fewshot-works/academy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Docusaurus", "Python", "Ollama", "ChromaDB", "Cloudflare Pages"]
+title: fewshot-works/academy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Docusaurus
+- Python
+- Ollama
+- ChromaDB
+- Cloudflare Pages
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["education", "local-first", "curriculum", "RAG", "LLM"]
-source: "https://github.com/fewshot-works/academy"
+deployment_complexity: Low
+tags:
+- education
+- local-first
+- curriculum
+- RAG
+- LLM
+source: https://github.com/fewshot-works/academy
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-07T19:21:14Z"
-discovered_at: "2026-08-07T19:59:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T19:21:14Z'
+discovered_at: '2026-08-07T19:59:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

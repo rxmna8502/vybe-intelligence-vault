@@ -1,19 +1,42 @@
 ---
-title: "Louis830903/Super-Loong"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js 16", "React 19", "Fastify 5", "Python 3.11+", "Node.js 20+", "pnpm 9+", "SQLite (WAL + FTS5)", "Tailwind CSS 4", "Docker", "PM2", "ComfyUI", "OpenTelemetry", "HRR Vector Memory", "Knowledge Graph", "A2A Protocol", "MCP (Model Context Protocol)", "Electron (for monitoring)"]
+title: Louis830903/Super-Loong
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Next.js 16
+- React 19
+- Fastify 5
+- Python 3.11+
+- Node.js 20+
+- pnpm 9+
+- SQLite (WAL + FTS5)
+- Tailwind CSS 4
+- Docker
+- PM2
+- ComfyUI
+- OpenTelemetry
+- HRR Vector Memory
+- Knowledge Graph
+- A2A Protocol
+- MCP (Model Context Protocol)
+- Electron (for monitoring)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["modular AI agents", "multi-agent collaboration", "persistent memory", "knowledge graph", "self-evolution"]
-source: "https://github.com/Louis830903/Super-Loong"
+deployment_complexity: High
+tags:
+- modular AI agents
+- multi-agent collaboration
+- persistent memory
+- knowledge graph
+- self-evolution
+source: https://github.com/Louis830903/Super-Loong
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-19T05:46:42Z"
-discovered_at: "2026-07-19T05:51:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T05:46:42Z'
+discovered_at: '2026-07-19T05:51:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

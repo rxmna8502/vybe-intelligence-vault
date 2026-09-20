@@ -1,19 +1,33 @@
 ---
-title: "KunAgent/Kun"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Node.js", "React", "TUI (Terminal UI)", "Agent Graph", "MCP (Model Context Protocol)", "Skills", "Extensions (.kunx)"]
+title: KunAgent/Kun
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- React
+- TUI (Terminal UI)
+- Agent Graph
+- MCP (Model Context Protocol)
+- Skills
+- Extensions (.kunx)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agent Workspace", "Local-First", "Multi-Modal", "Task Automation", "GUI + TUI"]
-source: "https://github.com/KunAgent/Kun"
+deployment_complexity: Medium
+tags:
+- AI Agent Workspace
+- Local-First
+- Multi-Modal
+- Task Automation
+- GUI + TUI
+source: https://github.com/KunAgent/Kun
 stars: 5630
-language: "TypeScript"
-last_updated: "2026-08-03T13:35:52Z"
-discovered_at: "2026-08-03T13:42:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T13:35:52Z'
+discovered_at: '2026-08-03T13:42:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

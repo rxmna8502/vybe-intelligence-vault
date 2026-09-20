@@ -1,19 +1,40 @@
 ---
-title: "wild-edge/wildedge-python"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Transformers", "PyTorch", "TensorFlow", "Keras", "ONNX", "MLX", "TIMM", "GGUF", "Ultralytics", "OpenAI", "Anthropic", "HTTPX", "Requests", "Urllib"]
+title: wild-edge/wildedge-python
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- CLI
+- Transformers
+- PyTorch
+- TensorFlow
+- Keras
+- ONNX
+- MLX
+- TIMM
+- GGUF
+- Ultralytics
+- OpenAI
+- Anthropic
+- HTTPX
+- Requests
+- Urllib
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["ML monitoring", "inference tracing", "performance tracking", "agent pipelines", "model metadata"]
-source: "https://github.com/wild-edge/wildedge-python"
+deployment_complexity: Low
+tags:
+- ML monitoring
+- inference tracing
+- performance tracking
+- agent pipelines
+- model metadata
+source: https://github.com/wild-edge/wildedge-python
 stars: 15
-language: "Python"
-last_updated: "2026-08-31T23:09:00Z"
-discovered_at: "2026-09-04T02:20:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-31T23:09:00Z'
+discovered_at: '2026-09-04T02:20:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

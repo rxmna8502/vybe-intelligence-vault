@@ -1,19 +1,34 @@
 ---
-title: "Scorpio69t/mengdie-code"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "OpenAI-compatible API", "CLI/TUI", "JSON Lines", "SSE (Server-Sent Events)", "zsh", "PowerShell", "Homebrew", "Mermaid (for architecture diagrams)"]
+title: Scorpio69t/mengdie-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Go
+- SQLite
+- OpenAI-compatible API
+- CLI/TUI
+- JSON Lines
+- SSE (Server-Sent Events)
+- zsh
+- PowerShell
+- Homebrew
+- Mermaid (for architecture diagrams)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Coding Agent", "Chinese-first", "Verifiable Memory", "Auditability", "Local-first"]
-source: "https://github.com/Scorpio69t/mengdie-code"
+deployment_complexity: Medium
+tags:
+- Coding Agent
+- Chinese-first
+- Verifiable Memory
+- Auditability
+- Local-first
+source: https://github.com/Scorpio69t/mengdie-code
 stars: 1
-language: "Go"
-last_updated: "2026-08-06T03:17:19Z"
-discovered_at: "2026-08-06T03:18:37Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-06T03:17:19Z'
+discovered_at: '2026-08-06T03:18:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
