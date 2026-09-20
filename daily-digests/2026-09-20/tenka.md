@@ -1,38 +1,19 @@
 ---
-title: Om-Khode/TENKA
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Whisper (STT)
-- Kokoro TTS
-- Gemini (LLM)
-- Groq
-- Cerebras
-- Ollama
-- FAISS
-- SQLite
-- Playwright
-- Terminator
-- PyAutoGUI
-- ONNX (wake-word)
-- Sentence Transformers
+title: "Om-Khode/TENKA"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Whisper (STT)", "Kokoro TTS", "Gemini (LLM)", "Groq", "Cerebras", "Ollama", "FAISS", "SQLite", "Playwright", "Terminator", "PyAutoGUI", "ONNX (wake-word)", "Sentence Transformers"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice agent
-- local-first
-- knowledge graph
-- desktop automation
-- multi-LLM routing
-source: https://github.com/Om-Khode/TENKA
+deployment_complexity: "Medium"
+tags: ["voice agent", "local-first", "knowledge graph", "desktop automation", "multi-LLM routing"]
+source: "https://github.com/Om-Khode/TENKA"
 stars: 7
-language: Python
-last_updated: '2026-08-08T17:27:39Z'
-discovered_at: '2026-08-08T17:32:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T17:27:39Z"
+discovered_at: "2026-08-08T17:32:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

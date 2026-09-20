@@ -1,30 +1,19 @@
 ---
-title: ashaychangwani/imprint
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Bun
-- Playwright
-- Model Context Protocol (MCP)
-- Node.js
-- Chromium
+title: "ashaychangwani/imprint"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "Playwright", "Model Context Protocol (MCP)", "Node.js", "Chromium"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP
-- browser automation
-- deterministic workflows
-- AI agent tools
-- workflow recording
-source: https://github.com/ashaychangwani/imprint
+deployment_complexity: "Medium"
+tags: ["MCP", "browser automation", "deterministic workflows", "AI agent tools", "workflow recording"]
+source: "https://github.com/ashaychangwani/imprint"
 stars: 17
-language: TypeScript
-last_updated: '2026-07-15T02:03:20Z'
-discovered_at: '2026-07-15T02:12:24Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T02:03:20Z"
+discovered_at: "2026-07-15T02:12:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: Ac0AI/ac0-plugins
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- Claude Code
-- Codex
-- Cline
-- JSON
-- REST APIs
+title: "Ac0AI/ac0-plugins"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "Streamable HTTP", "Claude Code", "Codex", "Cline", "JSON", "REST APIs"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP plugins
-- agent skills
-- remote servers
-- Streamable HTTP
-- coding agents
-source: https://github.com/Ac0AI/ac0-plugins
+deployment_complexity: "Low"
+tags: ["MCP plugins", "agent skills", "remote servers", "Streamable HTTP", "coding agents"]
+source: "https://github.com/Ac0AI/ac0-plugins"
 stars: 0
-language: None
-last_updated: '2026-09-02T08:13:57Z'
-discovered_at: '2026-09-02T08:23:27Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-02T08:13:57Z"
+discovered_at: "2026-09-02T08:23:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

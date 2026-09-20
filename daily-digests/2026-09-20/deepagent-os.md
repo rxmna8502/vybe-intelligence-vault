@@ -1,29 +1,19 @@
 ---
-title: deepagent-ltd/deepagent-os
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Linux
-- Natural Language Processing
-- Agentic Systems
-- Automation
-- Open-Source
+title: "deepagent-ltd/deepagent-os"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Linux", "Natural Language Processing", "Agentic Systems", "Automation", "Open-Source"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- conversational OS
-- agentic computing
-- automation
-- natural language control
-- Linux
-source: https://github.com/deepagent-ltd/deepagent-os
+deployment_complexity: "High"
+tags: ["conversational OS", "agentic computing", "automation", "natural language control", "Linux"]
+source: "https://github.com/deepagent-ltd/deepagent-os"
 stars: 0
-language: None
-last_updated: '2026-07-12T15:56:59Z'
-discovered_at: '2026-07-12T15:58:10Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-12T15:56:59Z"
+discovered_at: "2026-07-12T15:58:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

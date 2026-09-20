@@ -1,32 +1,19 @@
 ---
-title: alexander-zierhut/agent-tool-readmd-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Piper TTS
-- GTK4
-- Qt6
-- TUI
-- ONNX
-- Linux Audio (PipeWire/PulseAudio/ALSA)
-- PyPI
+title: "alexander-zierhut/agent-tool-readmd-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Piper TTS", "GTK4", "Qt6", "TUI", "ONNX", "Linux Audio (PipeWire/PulseAudio/ALSA)", "PyPI"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- text-to-speech
-- offline TTS
-- AI agent tool
-- accessibility
-- markdown reader
-source: https://github.com/alexander-zierhut/agent-tool-readmd-cli
+deployment_complexity: "Medium"
+tags: ["text-to-speech", "offline TTS", "AI agent tool", "accessibility", "markdown reader"]
+source: "https://github.com/alexander-zierhut/agent-tool-readmd-cli"
 stars: 0
-language: Python
-last_updated: '2026-08-01T15:01:08Z'
-discovered_at: '2026-08-01T15:01:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T15:01:08Z"
+discovered_at: "2026-08-01T15:01:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

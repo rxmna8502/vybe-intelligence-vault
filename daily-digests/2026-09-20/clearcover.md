@@ -1,35 +1,19 @@
 ---
-title: Schlaflied/clearcover
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- React
-- Express
-- FastAPI
-- Docker
-- Vite
-- Pandoc
-- OCRmyPDF
-- Claude Code
-- OpenAI
-- Gemini
+title: "Schlaflied/clearcover"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "React", "Express", "FastAPI", "Docker", "Vite", "Pandoc", "OCRmyPDF", "Claude Code", "OpenAI", "Gemini"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- insurance policy
-- local-first
-- plain language
-- LLM integration
-- document processing
-source: https://github.com/Schlaflied/clearcover
+deployment_complexity: "Medium"
+tags: ["insurance policy", "local-first", "plain language", "LLM integration", "document processing"]
+source: "https://github.com/Schlaflied/clearcover"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-15T02:04:52Z'
-discovered_at: '2026-07-15T02:12:17Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-15T02:04:52Z"
+discovered_at: "2026-07-15T02:12:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

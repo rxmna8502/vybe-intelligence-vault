@@ -1,34 +1,19 @@
 ---
-title: jthingelstad/rwbookclub.com
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Eleventy (11ty)
-- Python
-- SQLite
-- Discord.py
-- Anthropic (Claude)
-- aiohttp
-- Tailscale Funnel
-- GitHub Pages
-- Markdown
-- JSON
+title: "jthingelstad/rwbookclub.com"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Eleventy (11ty)", "Python", "SQLite", "Discord.py", "Anthropic (Claude)", "aiohttp", "Tailscale Funnel", "GitHub Pages", "Markdown", "JSON"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- book club management
-- discord agent
-- static site generator
-- knowledge corpus
-- sqlite database
-source: https://github.com/jthingelstad/rwbookclub.com
+deployment_complexity: "Medium"
+tags: ["book club management", "discord agent", "static site generator", "knowledge corpus", "sqlite database"]
+source: "https://github.com/jthingelstad/rwbookclub.com"
 stars: 1
-language: Python
-last_updated: '2026-07-14T23:49:54Z'
-discovered_at: '2026-07-14T23:53:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T23:49:54Z"
+discovered_at: "2026-07-14T23:53:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

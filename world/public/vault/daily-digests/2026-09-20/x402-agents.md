@@ -1,32 +1,19 @@
 ---
-title: enrichgateagent-png/x402-agents
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- Turso (libSQL)
-- TypeScript
-- Tailwind CSS
-- MCP (Model Context Protocol)
-- npm
-- Vercel
+title: "enrichgateagent-png/x402-agents"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Turso (libSQL)", "TypeScript", "Tailwind CSS", "MCP (Model Context Protocol)", "npm", "Vercel"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent discovery
-- open-source indexing
-- GitHub integration
-- MCP server
-- reputation ranking
-source: https://github.com/enrichgateagent-png/x402-agents
+deployment_complexity: "Medium"
+tags: ["agent discovery", "open-source indexing", "GitHub integration", "MCP server", "reputation ranking"]
+source: "https://github.com/enrichgateagent-png/x402-agents"
 stars: 0
-language: Python
-last_updated: '2026-07-11T17:54:26Z'
-discovered_at: '2026-07-11T17:54:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T17:54:26Z"
+discovered_at: "2026-07-11T17:54:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

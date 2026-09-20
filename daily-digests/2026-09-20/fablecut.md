@@ -1,33 +1,19 @@
 ---
-title: ronak-create/FableCut
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Node.js
-- HTML5 Canvas
-- CSS
-- MediaPipe
-- FFmpeg
-- MCP (Model Context Protocol)
-- REST API
-- Server-Sent Events (SSE)
+title: "ronak-create/FableCut"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "HTML5 Canvas", "CSS", "MediaPipe", "FFmpeg", "MCP (Model Context Protocol)", "REST API", "Server-Sent Events (SSE)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- AI video editing
-- JSON timeline
-- MCP integration
-- browser-based editor
-- real-time collaboration
-source: https://github.com/ronak-create/FableCut
+deployment_complexity: "Low"
+tags: ["AI video editing", "JSON timeline", "MCP integration", "browser-based editor", "real-time collaboration"]
+source: "https://github.com/ronak-create/FableCut"
 stars: 320
-language: JavaScript
-last_updated: '2026-07-11T09:18:20Z'
-discovered_at: '2026-07-11T09:27:22Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T09:18:20Z"
+discovered_at: "2026-07-11T09:27:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

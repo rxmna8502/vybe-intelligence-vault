@@ -1,29 +1,19 @@
 ---
-title: api-evangelist/gel-data
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- PostgreSQL
-- EdgeQL
-- GraphQL
-- OAuth
-- WebAuthn
+title: "api-evangelist/gel-data"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["PostgreSQL", "EdgeQL", "GraphQL", "OAuth", "WebAuthn"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- graph-relational database
-- EdgeQL
-- PostgreSQL
-- authentication
-- open-source
-source: https://github.com/api-evangelist/gel-data
+deployment_complexity: "Medium"
+tags: ["graph-relational database", "EdgeQL", "PostgreSQL", "authentication", "open-source"]
+source: "https://github.com/api-evangelist/gel-data"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:02:06Z'
-discovered_at: '2026-08-08T01:27:28Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:02:06Z"
+discovered_at: "2026-08-08T01:27:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

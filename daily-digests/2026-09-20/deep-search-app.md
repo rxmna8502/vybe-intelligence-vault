@@ -1,35 +1,19 @@
 ---
-title: florianherrengt/deep-search-app
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Tauri
-- React
-- TypeScript
-- Rust
-- MCP (Model Context Protocol)
-- Vite
-- Mantine (UI library)
-- Vitest (testing)
-- Playwright (E2E testing)
-- Node.js
-- Vector search (embeddings)
+title: "florianherrengt/deep-search-app"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Tauri", "React", "TypeScript", "Rust", "MCP (Model Context Protocol)", "Vite", "Mantine (UI library)", "Vitest (testing)", "Playwright (E2E testing)", "Node.js", "Vector search (embeddings)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local-first
-- MCP server
-- research automation
-- guardrails
-- persistent memory
-source: https://github.com/florianherrengt/deep-search-app
+deployment_complexity: "Medium"
+tags: ["local-first", "MCP server", "research automation", "guardrails", "persistent memory"]
+source: "https://github.com/florianherrengt/deep-search-app"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-16T02:23:24Z'
-discovered_at: '2026-07-16T02:25:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T02:23:24Z"
+discovered_at: "2026-07-16T02:25:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

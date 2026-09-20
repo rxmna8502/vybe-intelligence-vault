@@ -1,32 +1,19 @@
 ---
-title: masol/unigen
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Electron
-- LLM (Large Language Models)
-- SQLite
-- LanceDB
-- OpenTelemetry
-- Python (for workflow execution)
-- DAG (Directed Acyclic Graph) for workflow planning
+title: "masol/unigen"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Electron", "LLM (Large Language Models)", "SQLite", "LanceDB", "OpenTelemetry", "Python (for workflow execution)", "DAG (Directed Acyclic Graph) for workflow planning"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- workflow automation
-- AI-driven planning
-- zero-drift execution
-- long-chain tasks
-- deterministic workflows
-source: https://github.com/masol/unigen
+deployment_complexity: "Medium"
+tags: ["workflow automation", "AI-driven planning", "zero-drift execution", "long-chain tasks", "deterministic workflows"]
+source: "https://github.com/masol/unigen"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T19:57:49Z'
-discovered_at: '2026-08-07T19:57:58Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T19:57:49Z"
+discovered_at: "2026-08-07T19:57:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: ihorponom/agentpack
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- CLI
-- Git Hooks
+title: "ihorponom/agentpack"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "Git Hooks"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- task continuity
-- AI coding agents
-- MCP server
-- local state management
-- agent handoff
-source: https://github.com/ihorponom/agentpack
+deployment_complexity: "Medium"
+tags: ["task continuity", "AI coding agents", "MCP server", "local state management", "agent handoff"]
+source: "https://github.com/ihorponom/agentpack"
 stars: 17
-language: TypeScript
-last_updated: '2026-08-02T15:01:13Z'
-discovered_at: '2026-08-02T15:02:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T15:01:13Z"
+discovered_at: "2026-08-02T15:02:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

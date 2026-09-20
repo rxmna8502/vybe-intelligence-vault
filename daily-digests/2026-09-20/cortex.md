@@ -1,31 +1,19 @@
 ---
-title: supernavyl/cortex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Rust
-- Cargo
-- Unix sockets
-- SQLite
-- MCP (Model Context Protocol)
-- systemd
-- musl libc
+title: "supernavyl/cortex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Cargo", "Unix sockets", "SQLite", "MCP (Model Context Protocol)", "systemd", "musl libc"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- code verification
-- sandboxing
-- Rust development
-- AI safety
-- pre-apply gating
-source: https://github.com/supernavyl/cortex
+deployment_complexity: "Medium"
+tags: ["code verification", "sandboxing", "Rust development", "AI safety", "pre-apply gating"]
+source: "https://github.com/supernavyl/cortex"
 stars: 0
-language: Rust
-last_updated: '2026-07-10T18:19:20Z'
-discovered_at: '2026-07-10T18:22:47Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-10T18:19:20Z"
+discovered_at: "2026-07-10T18:22:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

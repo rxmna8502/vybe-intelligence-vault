@@ -1,30 +1,19 @@
 ---
-title: awizemann/scarf
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Swift
-- macOS
-- SSH
-- YAML
-- Markdown
-- JSON
+title: "awizemann/scarf"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Swift", "macOS", "SSH", "YAML", "Markdown", "JSON"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- macOS companion app
-- Hermes AI agent
-- multi-window interface
-- remote server management
-- session monitoring
-source: https://github.com/awizemann/scarf
+deployment_complexity: "Medium"
+tags: ["macOS companion app", "Hermes AI agent", "multi-window interface", "remote server management", "session monitoring"]
+source: "https://github.com/awizemann/scarf"
 stars: 777
-language: Swift
-last_updated: '2026-08-04T21:09:34Z'
-discovered_at: '2026-08-04T21:14:55Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-04T21:09:34Z"
+discovered_at: "2026-08-04T21:14:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

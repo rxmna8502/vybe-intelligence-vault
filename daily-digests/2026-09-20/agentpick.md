@@ -1,28 +1,19 @@
 ---
-title: herliansyah/agentpick
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Node.js
-- CLI
-- Terminal UI
+title: "herliansyah/agentpick"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "CLI", "Terminal UI"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI agent launcher
-- CLI tool
-- agent detection
-- terminal picker
-- zero-setup
-source: https://github.com/herliansyah/agentpick
+deployment_complexity: "Low"
+tags: ["AI agent launcher", "CLI tool", "agent detection", "terminal picker", "zero-setup"]
+source: "https://github.com/herliansyah/agentpick"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-03T02:06:53Z'
-discovered_at: '2026-09-03T02:20:27Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-03T02:06:53Z"
+discovered_at: "2026-09-03T02:20:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

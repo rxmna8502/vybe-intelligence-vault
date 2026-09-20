@@ -1,32 +1,19 @@
 ---
-title: maazkhurshid00-svg/network-ai-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- FastAPI
-- Streamlit
-- SQLAlchemy
-- Jinja2
-- Pydantic
-- Uvicorn
-- Regex
-- SQLite
+title: "maazkhurshid00-svg/network-ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["FastAPI", "Streamlit", "SQLAlchemy", "Jinja2", "Pydantic", "Uvicorn", "Regex", "SQLite"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Network Automation
-- Incident Remediation
-- Human-in-the-Loop
-- Syslog Ingestion
-- CLI Generation
-source: https://github.com/maazkhurshid00-svg/network-ai-agent
+deployment_complexity: "Medium"
+tags: ["Network Automation", "Incident Remediation", "Human-in-the-Loop", "Syslog Ingestion", "CLI Generation"]
+source: "https://github.com/maazkhurshid00-svg/network-ai-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-07T17:51:35Z'
-discovered_at: '2026-08-07T17:51:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T17:51:35Z"
+discovered_at: "2026-08-07T17:51:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

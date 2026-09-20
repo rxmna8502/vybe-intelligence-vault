@@ -1,32 +1,19 @@
 ---
-title: Vincent-P-essy/momus
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Anthropic API (Claude models)
-- GitHub API
-- Ruff
-- mypy
-- TOML
-- Git
-- pytest
+title: "Vincent-P-essy/momus"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Anthropic API (Claude models)", "GitHub API", "Ruff", "mypy", "TOML", "Git", "pytest"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI code review
-- adversarial verification
-- GitHub automation
-- precision-recall optimization
-- evidence-based feedback
-source: https://github.com/Vincent-P-essy/momus
+deployment_complexity: "Medium"
+tags: ["AI code review", "adversarial verification", "GitHub automation", "precision-recall optimization", "evidence-based feedback"]
+source: "https://github.com/Vincent-P-essy/momus"
 stars: 0
-language: Python
-last_updated: '2026-07-14T10:06:41Z'
-discovered_at: '2026-07-14T10:07:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T10:06:41Z"
+discovered_at: "2026-07-14T10:07:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

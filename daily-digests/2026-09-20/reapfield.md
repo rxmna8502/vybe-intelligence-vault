@@ -1,31 +1,19 @@
 ---
-title: PedroHenriqueNS/reapfield
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Playwright
-- Anthropic API
-- CSS Selectors
-- LLM (Large Language Model)
-- TOML (for configuration)
-- Pytest (for testing)
+title: "PedroHenriqueNS/reapfield"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "Anthropic API", "CSS Selectors", "LLM (Large Language Model)", "TOML (for configuration)", "Pytest (for testing)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- web scraping
-- data extraction
-- LLM caching
-- structured output
-- automated selectors
-source: https://github.com/PedroHenriqueNS/reapfield
+deployment_complexity: "Medium"
+tags: ["web scraping", "data extraction", "LLM caching", "structured output", "automated selectors"]
+source: "https://github.com/PedroHenriqueNS/reapfield"
 stars: 0
-language: Python
-last_updated: '2026-08-06T15:12:38Z'
-discovered_at: '2026-08-06T15:20:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T15:12:38Z"
+discovered_at: "2026-08-06T15:20:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

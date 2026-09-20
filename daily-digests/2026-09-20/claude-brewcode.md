@@ -1,32 +1,19 @@
 ---
-title: kochetkov-ma/claude-brewcode
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Claude Code
-- Node.js
-- macOS
-- GitHub Actions
-- Semantic Search (Semble)
-- Markdown
-- PDF Conversion
+title: "kochetkov-ma/claude-brewcode"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Claude Code", "Node.js", "macOS", "GitHub Actions", "Semantic Search (Semble)", "Markdown", "PDF Conversion"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Claude Code
-- AI Agents
-- Task Orchestration
-- Documentation Tools
-- Semantic Search
-source: https://github.com/kochetkov-ma/claude-brewcode
+deployment_complexity: "Medium"
+tags: ["Claude Code", "AI Agents", "Task Orchestration", "Documentation Tools", "Semantic Search"]
+source: "https://github.com/kochetkov-ma/claude-brewcode"
 stars: 29
-language: JavaScript
-last_updated: '2026-08-02T19:18:46Z'
-discovered_at: '2026-08-02T19:25:27Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T19:18:46Z"
+discovered_at: "2026-08-02T19:25:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

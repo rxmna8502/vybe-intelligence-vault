@@ -1,32 +1,19 @@
 ---
-title: fennaraOfficial/fennara-godot-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Godot Engine
-- Rust
-- MCP (Model Context Protocol)
-- CLI (Command Line Interface)
-- WebView (for in-editor chat UI)
-- CEF (Chromium Embedded Framework for Linux)
-- Ollama
-- LM Studio
+title: "fennaraOfficial/fennara-godot-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Godot Engine", "Rust", "MCP (Model Context Protocol)", "CLI (Command Line Interface)", "WebView (for in-editor chat UI)", "CEF (Chromium Embedded Framework for Linux)", "Ollama", "LM Studio"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Godot integration
-- AI agent tooling
-- MCP server
-- real-time feedback
-- game development
-source: https://github.com/fennaraOfficial/fennara-godot-ai
+deployment_complexity: "Medium"
+tags: ["Godot integration", "AI agent tooling", "MCP server", "real-time feedback", "game development"]
+source: "https://github.com/fennaraOfficial/fennara-godot-ai"
 stars: 210
-language: Rust
-last_updated: '2026-07-13T16:30:38Z'
-discovered_at: '2026-07-13T16:31:23Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-13T16:30:38Z"
+discovered_at: "2026-07-13T16:31:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

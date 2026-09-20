@@ -1,34 +1,19 @@
 ---
-title: chengzuopeng/stock-sdk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- JavaScript (ESM/CJS)
-- Node.js
-- Browser APIs
-- CLI (Command Line Interface)
-- MCP (Model Context Protocol)
-- RESTful APIs
-- WebSockets
-- Data Fetching (fetch)
-- Error Handling (SdkError)
+title: "chengzuopeng/stock-sdk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript (ESM/CJS)", "Node.js", "Browser APIs", "CLI (Command Line Interface)", "MCP (Model Context Protocol)", "RESTful APIs", "WebSockets", "Data Fetching (fetch)", "Error Handling (SdkError)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- stock market data
-- real-time quotes
-- technical indicators
-- MCP server
-- AI integration
-source: https://github.com/chengzuopeng/stock-sdk
+deployment_complexity: "Low"
+tags: ["stock market data", "real-time quotes", "technical indicators", "MCP server", "AI integration"]
+source: "https://github.com/chengzuopeng/stock-sdk"
 stars: 1803
-language: TypeScript
-last_updated: '2026-08-07T10:58:31Z'
-discovered_at: '2026-08-07T11:04:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T10:58:31Z"
+discovered_at: "2026-08-07T11:04:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

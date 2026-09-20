@@ -1,31 +1,19 @@
 ---
-title: SmartAI/ava
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- C++23
-- Boost.Asio
-- Zstandard
-- CMake
-- vcpkg
-- HTTP/SSE
-- TLS
+title: "SmartAI/ava"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["C++23", "Boost.Asio", "Zstandard", "CMake", "vcpkg", "HTTP/SSE", "TLS"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- coding agent
-- durable runtime
-- C++23
-- session logging
-- crash recovery
-source: https://github.com/SmartAI/ava
+deployment_complexity: "High"
+tags: ["coding agent", "durable runtime", "C++23", "session logging", "crash recovery"]
+source: "https://github.com/SmartAI/ava"
 stars: 0
-language: C++
-last_updated: '2026-09-01T09:03:00Z'
-discovered_at: '2026-09-01T09:07:21Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-09-01T09:03:00Z"
+discovered_at: "2026-09-01T09:07:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

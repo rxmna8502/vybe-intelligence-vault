@@ -1,29 +1,19 @@
 ---
-title: perso-ai/perso-dubbing-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Node.js
-- ffmpeg
-- Perso Dubbing API
-- Agent Skills standard
+title: "perso-ai/perso-dubbing-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "ffmpeg", "Perso Dubbing API", "Agent Skills standard"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI dubbing
-- video translation
-- subtitle extraction
-- coding agents
-- multilingual
-source: https://github.com/perso-ai/perso-dubbing-plugin
+deployment_complexity: "Medium"
+tags: ["AI dubbing", "video translation", "subtitle extraction", "coding agents", "multilingual"]
+source: "https://github.com/perso-ai/perso-dubbing-plugin"
 stars: 30
-language: JavaScript
-last_updated: '2026-07-19T05:42:57Z'
-discovered_at: '2026-07-19T05:51:07Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-19T05:42:57Z"
+discovered_at: "2026-07-19T05:51:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

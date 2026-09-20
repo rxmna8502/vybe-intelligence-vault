@@ -1,30 +1,19 @@
 ---
-title: Beyond-Better/bb-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Deno
-- Model Context Protocol (MCP)
-- OAuth 2.0
-- Deno KV
-- JSR Registry
+title: "Beyond-Better/bb-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Deno", "Model Context Protocol (MCP)", "OAuth 2.0", "Deno KV", "JSR Registry"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- OAuth integration
-- workflow automation
-- Deno runtime
-- AI tooling
-source: https://github.com/Beyond-Better/bb-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "OAuth integration", "workflow automation", "Deno runtime", "AI tooling"]
+source: "https://github.com/Beyond-Better/bb-mcp-server"
 stars: 3
-language: TypeScript
-last_updated: '2026-07-15T10:37:31Z'
-discovered_at: '2026-07-15T10:48:52Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T10:37:31Z"
+discovered_at: "2026-07-15T10:48:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: Slokh/discord-ai-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- PostgreSQL
-- pgvector
-- Discord.js
-- OpenRouter API
-- Kubernetes
-- Docker
-- GitHub API
-- Spotify API
-- Privy API
+title: "Slokh/discord-ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "pgvector", "Discord.js", "OpenRouter API", "Kubernetes", "Docker", "GitHub API", "Spotify API", "Privy API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- Discord integration
-- self-hosted AI
-- permission-aware
-- multi-modal tools
-- code updates
-source: https://github.com/Slokh/discord-ai-agent
+deployment_complexity: "High"
+tags: ["Discord integration", "self-hosted AI", "permission-aware", "multi-modal tools", "code updates"]
+source: "https://github.com/Slokh/discord-ai-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T02:02:34Z'
-discovered_at: '2026-09-02T02:11:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T02:02:34Z"
+discovered_at: "2026-09-02T02:11:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

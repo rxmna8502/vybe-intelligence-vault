@@ -1,30 +1,19 @@
 ---
-title: wyre-technology/syncro-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Docker
-- GitHub Packages
-- OCI/GHCR
+title: "wyre-technology/syncro-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "GitHub Packages", "OCI/GHCR"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Syncro MSP
-- AI tooling
-- decision tree architecture
-- lazy loading
-source: https://github.com/wyre-technology/syncro-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Syncro MSP", "AI tooling", "decision tree architecture", "lazy loading"]
+source: "https://github.com/wyre-technology/syncro-mcp"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-10T17:00:26Z'
-discovered_at: '2026-08-10T17:06:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T17:00:26Z"
+discovered_at: "2026-08-10T17:06:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

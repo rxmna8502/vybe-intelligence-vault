@@ -1,35 +1,19 @@
 ---
-title: sebastienrousseau/rousseau-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- Podman
-- SQLite
-- MCP (Model Context Protocol)
-- SLSA (Supply-chain Levels for Software Artifacts)
-- Cosign
-- CycloneDX
-- Bubble Tea (TUI)
-- Systemd Quadlet
-- Seccomp
-- Golangci-lint
+title: "sebastienrousseau/rousseau-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Podman", "SQLite", "MCP (Model Context Protocol)", "SLSA (Supply-chain Levels for Software Artifacts)", "Cosign", "CycloneDX", "Bubble Tea (TUI)", "Systemd Quadlet", "Seccomp", "Golangci-lint"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-hosted
-- coding agent
-- multi-transport
-- MCP server
-- supply-chain security
-source: https://github.com/sebastienrousseau/rousseau-agent
+deployment_complexity: "Medium"
+tags: ["self-hosted", "coding agent", "multi-transport", "MCP server", "supply-chain security"]
+source: "https://github.com/sebastienrousseau/rousseau-agent"
 stars: 0
-language: Go
-last_updated: '2026-07-16T14:57:04Z'
-discovered_at: '2026-07-16T15:00:24Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-16T14:57:04Z"
+discovered_at: "2026-07-16T15:00:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

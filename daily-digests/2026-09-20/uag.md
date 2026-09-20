@@ -1,29 +1,19 @@
 ---
-title: formio/uag
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Docker
-- Form.io
-- Node.js
+title: "formio/uag"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Docker", "Form.io", "Node.js"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent automation
-- form processing
-- MCP server
-- structured data
-- workflow orchestration
-source: https://github.com/formio/uag
+deployment_complexity: "Medium"
+tags: ["AI agent automation", "form processing", "MCP server", "structured data", "workflow orchestration"]
+source: "https://github.com/formio/uag"
 stars: 12
-language: TypeScript
-last_updated: '2026-08-04T21:07:32Z'
-discovered_at: '2026-08-04T21:15:56Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T21:07:32Z"
+discovered_at: "2026-08-04T21:15:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

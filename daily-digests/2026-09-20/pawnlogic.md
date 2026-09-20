@@ -1,35 +1,19 @@
 ---
-title: john0123412/PawnLogic
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- SQLite
-- Docker
-- MCP (Model Context Protocol)
-- OpenAI API
-- Anthropic API
-- DeepSeek API
-- pytest
-- Ruff
-- mypy
-- Git
+title: "john0123412/PawnLogic"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "SQLite", "Docker", "MCP (Model Context Protocol)", "OpenAI API", "Anthropic API", "DeepSeek API", "pytest", "Ruff", "mypy", "Git"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- multi-provider routing
-- CTF toolchain
-- persistent memory
-- MCP integration
-source: https://github.com/john0123412/PawnLogic
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "multi-provider routing", "CTF toolchain", "persistent memory", "MCP integration"]
+source: "https://github.com/john0123412/PawnLogic"
 stars: 4
-language: Python
-last_updated: '2026-07-13T06:14:40Z'
-discovered_at: '2026-07-13T06:15:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T06:14:40Z"
+discovered_at: "2026-07-13T06:15:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: Ojcalzada/pulsepoint-RAG
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- RAG Architecture
-- Vector Search
-- ChromaDB
-- Embeddings
+title: "Ojcalzada/pulsepoint-RAG"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "RAG Architecture", "Vector Search", "ChromaDB", "Embeddings"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- healthcare
-- RAG
-- information retrieval
-- desktop application
-- vector search
-source: https://github.com/Ojcalzada/pulsepoint-RAG
+deployment_complexity: "Low"
+tags: ["healthcare", "RAG", "information retrieval", "desktop application", "vector search"]
+source: "https://github.com/Ojcalzada/pulsepoint-RAG"
 stars: 0
-language: Python
-last_updated: '2026-08-07T11:19:55Z'
-discovered_at: '2026-08-07T11:57:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:19:55Z"
+discovered_at: "2026-08-07T11:57:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

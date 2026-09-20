@@ -1,34 +1,19 @@
 ---
-title: Mun1to/vidorq
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- DaVinci Resolve
-- MCP (Model Context Protocol)
-- Remotion
-- React/CSS
-- Whisper
-- Demucs
-- Ollama
-- Claude Code
-- Cursor
+title: "Mun1to/vidorq"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "DaVinci Resolve", "MCP (Model Context Protocol)", "Remotion", "React/CSS", "Whisper", "Demucs", "Ollama", "Claude Code", "Cursor"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI video editing
-- DaVinci Resolve integration
-- automated video workflows
-- style training
-- open-source
-source: https://github.com/Mun1to/vidorq
+deployment_complexity: "Medium"
+tags: ["AI video editing", "DaVinci Resolve integration", "automated video workflows", "style training", "open-source"]
+source: "https://github.com/Mun1to/vidorq"
 stars: 1
-language: Python
-last_updated: '2026-08-10T17:57:44Z'
-discovered_at: '2026-08-10T18:01:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T17:57:44Z"
+discovered_at: "2026-08-10T18:01:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

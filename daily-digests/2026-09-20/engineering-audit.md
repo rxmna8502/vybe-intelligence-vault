@@ -1,30 +1,19 @@
 ---
-title: rodlunt/engineering-audit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- HTML/CSS (for report rendering)
-- GitHub API (for issue filing)
-- uv (Python package manager)
-- FastAPI (implicitly, for MCP server)
+title: "rodlunt/engineering-audit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "HTML/CSS (for report rendering)", "GitHub API (for issue filing)", "uv (Python package manager)", "FastAPI (implicitly, for MCP server)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI coding assistants
-- engineering audit
-- MCP server
-- deterministic reporting
-- GitHub integration
-source: https://github.com/rodlunt/engineering-audit
+deployment_complexity: "Medium"
+tags: ["AI coding assistants", "engineering audit", "MCP server", "deterministic reporting", "GitHub integration"]
+source: "https://github.com/rodlunt/engineering-audit"
 stars: 0
-language: Python
-last_updated: '2026-08-09T07:52:26Z'
-discovered_at: '2026-08-09T07:58:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T07:52:26Z"
+discovered_at: "2026-08-09T07:58:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: francomano/ProxyDoctor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- CLI
-- HTTP/SOCKS Proxy
-- Web GUI
-- MCP Server
-- JSON-RPC
-- Docker (for testing)
-- GitHub Actions (CI/CD)
+title: "francomano/ProxyDoctor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "CLI", "HTTP/SOCKS Proxy", "Web GUI", "MCP Server", "JSON-RPC", "Docker (for testing)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- network diagnostics
-- proxy testing
-- proxy configuration
-- MCP server
-- CLI tool
-source: https://github.com/francomano/ProxyDoctor
+deployment_complexity: "Low"
+tags: ["network diagnostics", "proxy testing", "proxy configuration", "MCP server", "CLI tool"]
+source: "https://github.com/francomano/ProxyDoctor"
 stars: 1
-language: Go
-last_updated: '2026-08-02T21:50:42Z'
-discovered_at: '2026-08-02T21:55:50Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T21:50:42Z"
+discovered_at: "2026-08-02T21:55:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

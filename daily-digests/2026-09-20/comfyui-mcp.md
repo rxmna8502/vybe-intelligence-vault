@@ -1,33 +1,19 @@
 ---
-title: artokun/comfyui-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- ComfyUI
-- Ollama
-- Claude Code
-- Streamable-HTTP
-- React (for Agent Panel)
-- Python (for ComfyUI backend)
+title: "artokun/comfyui-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "ComfyUI", "Ollama", "Claude Code", "Streamable-HTTP", "React (for Agent Panel)", "Python (for ComfyUI backend)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- ComfyUI
-- MCP server
-- Agent framework
-- Workflow automation
-- LLM integration
-source: https://github.com/artokun/comfyui-mcp
+deployment_complexity: "Medium"
+tags: ["ComfyUI", "MCP server", "Agent framework", "Workflow automation", "LLM integration"]
+source: "https://github.com/artokun/comfyui-mcp"
 stars: 716
-language: TypeScript
-last_updated: '2026-09-03T18:57:05Z'
-discovered_at: '2026-09-03T19:05:29Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T18:57:05Z"
+discovered_at: "2026-09-03T19:05:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

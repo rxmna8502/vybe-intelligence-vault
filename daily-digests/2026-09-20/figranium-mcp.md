@@ -1,30 +1,19 @@
 ---
-title: figranium/figranium-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- '@modelcontextprotocol/sdk'
-- Zod
-- Docker
-- GitHub Container Registry
+title: "figranium/figranium-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "@modelcontextprotocol/sdk", "Zod", "Docker", "GitHub Container Registry"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP
-- browser automation
-- LLM integration
-- task scheduling
-- schema validation
-source: https://github.com/figranium/figranium-mcp
+deployment_complexity: "Low"
+tags: ["MCP", "browser automation", "LLM integration", "task scheduling", "schema validation"]
+source: "https://github.com/figranium/figranium-mcp"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-07T21:39:50Z'
-discovered_at: '2026-08-07T21:41:19Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T21:39:50Z"
+discovered_at: "2026-08-07T21:41:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

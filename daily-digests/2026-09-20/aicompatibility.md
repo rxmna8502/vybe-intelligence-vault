@@ -1,26 +1,19 @@
 ---
-title: SavenkovIgor/AiCompatibility
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- HTML
-- Markdown
+title: "SavenkovIgor/AiCompatibility"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "Markdown"]
 quality_score: 3
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- AI compatibility
-- artifacts integration
-- model interoperability
-- AI tooling
-- cross-framework
-source: https://github.com/SavenkovIgor/AiCompatibility
+deployment_complexity: "Low"
+tags: ["AI compatibility", "artifacts integration", "model interoperability", "AI tooling", "cross-framework"]
+source: "https://github.com/SavenkovIgor/AiCompatibility"
 stars: 0
-language: HTML
-last_updated: '2026-08-08T14:30:19Z'
-discovered_at: '2026-08-08T14:35:04Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-08T14:30:19Z"
+discovered_at: "2026-08-08T14:35:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

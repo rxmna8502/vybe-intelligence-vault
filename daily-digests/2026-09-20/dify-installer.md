@@ -1,34 +1,19 @@
 ---
-title: caoergou/dify-installer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Shell
-- Docker
-- Docker Compose
-- PostgreSQL
-- MySQL
-- Weaviate
-- Qdrant
-- Milvus
-- Chroma
-- pgvector
+title: "caoergou/dify-installer"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Shell", "Docker", "Docker Compose", "PostgreSQL", "MySQL", "Weaviate", "Qdrant", "Milvus", "Chroma", "pgvector"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- Dify
-- LLM deployment
-- RAG pipeline
-- Docker installer
-- AI agent platform
-source: https://github.com/caoergou/dify-installer
+deployment_complexity: "Low"
+tags: ["Dify", "LLM deployment", "RAG pipeline", "Docker installer", "AI agent platform"]
+source: "https://github.com/caoergou/dify-installer"
 stars: 2
-language: Shell
-last_updated: '2026-08-08T02:07:27Z'
-discovered_at: '2026-08-08T03:29:40Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-08T02:07:27Z"
+discovered_at: "2026-08-08T03:29:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

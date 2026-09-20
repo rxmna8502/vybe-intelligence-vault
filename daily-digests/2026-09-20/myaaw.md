@@ -1,32 +1,19 @@
 ---
-title: Shiyinq/myaaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- SQLite
-- Gemini API
-- Fiber (Web Framework)
-- Cobra (CLI)
-- PortAudio (Voice)
-- Telegram Bot API
-- Discord Bot API
+title: "Shiyinq/myaaw"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "SQLite", "Gemini API", "Fiber (Web Framework)", "Cobra (CLI)", "PortAudio (Voice)", "Telegram Bot API", "Discord Bot API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agent
-- Multimodal
-- Voice Assistant
-- CLI Tool
-- Extensible Skills
-source: https://github.com/Shiyinq/myaaw
+deployment_complexity: "Medium"
+tags: ["AI Agent", "Multimodal", "Voice Assistant", "CLI Tool", "Extensible Skills"]
+source: "https://github.com/Shiyinq/myaaw"
 stars: 1
-language: Go
-last_updated: '2026-08-09T09:42:13Z'
-discovered_at: '2026-08-09T09:43:03Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-09T09:42:13Z"
+discovered_at: "2026-08-09T09:43:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

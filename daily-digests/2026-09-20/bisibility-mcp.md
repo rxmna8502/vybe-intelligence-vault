@@ -1,29 +1,19 @@
 ---
-title: CorgiCorner/bisibility-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- npm
+title: "CorgiCorner/bisibility-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- SEO
-- MCP server
-- AI agents
-- rank tracking
-- keyword research
-source: https://github.com/CorgiCorner/bisibility-mcp
+deployment_complexity: "Medium"
+tags: ["SEO", "MCP server", "AI agents", "rank tracking", "keyword research"]
+source: "https://github.com/CorgiCorner/bisibility-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-02T20:44:07Z'
-discovered_at: '2026-08-02T20:54:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T20:44:07Z"
+discovered_at: "2026-08-02T20:54:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

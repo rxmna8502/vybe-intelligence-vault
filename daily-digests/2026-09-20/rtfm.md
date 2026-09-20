@@ -1,33 +1,19 @@
 ---
-title: roomi-fields/rtfm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- SQLite
-- FastEmbed
-- ONNX Runtime
-- MCP (Model Context Protocol)
-- Claude Code
-- PDF parsers (pdftext, marker-pdf)
-- AST-aware code parsing
-- Semantic and hybrid search
+title: "roomi-fields/rtfm"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "FastEmbed", "ONNX Runtime", "MCP (Model Context Protocol)", "Claude Code", "PDF parsers (pdftext, marker-pdf)", "AST-aware code parsing", "Semantic and hybrid search"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- Retrieval Augmentation
-- Local AI
-- Context Management
-- Multi-format Indexing
-- Agent Tooling
-source: https://github.com/roomi-fields/rtfm
+deployment_complexity: "Low"
+tags: ["Retrieval Augmentation", "Local AI", "Context Management", "Multi-format Indexing", "Agent Tooling"]
+source: "https://github.com/roomi-fields/rtfm"
 stars: 18
-language: Python
-last_updated: '2026-07-15T10:48:12Z'
-discovered_at: '2026-07-15T10:48:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T10:48:12Z"
+discovered_at: "2026-07-15T10:48:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: EthanYoQ/agent-xiaohongshu-workbench
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Codex CLI
-- Node.js
-- JavaScript
-- OpenCLI Browser Bridge
-- Chrome
-- Lingzao Skill
-- Chinese Polishing Skill
-- React
-- Electron (for desktop packaging)
+title: "EthanYoQ/agent-xiaohongshu-workbench"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Codex CLI", "Node.js", "JavaScript", "OpenCLI Browser Bridge", "Chrome", "Lingzao Skill", "Chinese Polishing Skill", "React", "Electron (for desktop packaging)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI content generation
-- local agent workflow
-- Xiaohongshu automation
-- brand-aligned content
-- multi-account management
-source: https://github.com/EthanYoQ/agent-xiaohongshu-workbench
+deployment_complexity: "Medium"
+tags: ["AI content generation", "local agent workflow", "Xiaohongshu automation", "brand-aligned content", "multi-account management"]
+source: "https://github.com/EthanYoQ/agent-xiaohongshu-workbench"
 stars: 77
-language: JavaScript
-last_updated: '2026-08-06T15:16:58Z'
-discovered_at: '2026-08-06T15:18:17Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-06T15:16:58Z"
+discovered_at: "2026-08-06T15:18:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

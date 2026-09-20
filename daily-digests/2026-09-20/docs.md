@@ -1,29 +1,19 @@
 ---
-title: superdocsapp/docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- REST API
-- MCP (Model Context Protocol)
-- MDX
-- Python
-- JavaScript
+title: "superdocsapp/docs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["REST API", "MCP (Model Context Protocol)", "MDX", "Python", "JavaScript"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI document editing
-- document automation
-- API integration
-- MCP support
-- real-time editing
-source: https://github.com/superdocsapp/docs
+deployment_complexity: "Low"
+tags: ["AI document editing", "document automation", "API integration", "MCP support", "real-time editing"]
+source: "https://github.com/superdocsapp/docs"
 stars: 1
-language: MDX
-last_updated: '2026-07-12T10:12:59Z'
-discovered_at: '2026-07-12T10:26:40Z'
-evaluated_by: mistral-small-latest
+language: "MDX"
+last_updated: "2026-07-12T10:12:59Z"
+discovered_at: "2026-07-12T10:26:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

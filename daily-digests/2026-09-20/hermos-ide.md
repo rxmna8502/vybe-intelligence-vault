@@ -1,33 +1,19 @@
 ---
-title: WFekik/HermOS-IDE
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Electron
-- SQLite
-- Node.js
-- Ollama
-- Model Context Protocol (MCP)
-- AES-256-GCM
-- React
-- Tailwind CSS
+title: "WFekik/HermOS-IDE"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Electron", "SQLite", "Node.js", "Ollama", "Model Context Protocol (MCP)", "AES-256-GCM", "React", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local-first
-- AI agent
-- desktop IDE
-- privacy-focused
-- offline coding
-source: https://github.com/WFekik/HermOS-IDE
+deployment_complexity: "Medium"
+tags: ["local-first", "AI agent", "desktop IDE", "privacy-focused", "offline coding"]
+source: "https://github.com/WFekik/HermOS-IDE"
 stars: 4
-language: TypeScript
-last_updated: '2026-09-02T02:06:26Z'
-discovered_at: '2026-09-02T02:13:24Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T02:06:26Z"
+discovered_at: "2026-09-02T02:13:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: OmniBioAI/omnibioai-dev-hub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FAISS
-- Ollama
-- FastAPI
-- nomic-embed-text
-- llama3
-- React
-- TypeScript
-- JWT
-- Docker
+title: "OmniBioAI/omnibioai-dev-hub"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FAISS", "Ollama", "FastAPI", "nomic-embed-text", "llama3", "React", "TypeScript", "JWT", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- vector search
-- biomedical AI
-- local LLM
-- multi-repo indexing
-source: https://github.com/OmniBioAI/omnibioai-dev-hub
+deployment_complexity: "Medium"
+tags: ["RAG", "vector search", "biomedical AI", "local LLM", "multi-repo indexing"]
+source: "https://github.com/OmniBioAI/omnibioai-dev-hub"
 stars: 1
-language: Python
-last_updated: '2026-08-08T02:00:12Z'
-discovered_at: '2026-08-08T03:29:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T02:00:12Z"
+discovered_at: "2026-08-08T03:29:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

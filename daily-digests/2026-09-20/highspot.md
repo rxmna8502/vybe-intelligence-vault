@@ -1,30 +1,19 @@
 ---
-title: api-evangelist/highspot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- REST API
-- Model Context Protocol (MCP)
-- OAuth 2.0
-- API Key Authentication
-- JSON
-- LLM Integration
+title: "api-evangelist/highspot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["REST API", "Model Context Protocol (MCP)", "OAuth 2.0", "API Key Authentication", "JSON", "LLM Integration"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- sales enablement
-- AI agent integration
-- MCP server
-- CRM integration
-- content management
-source: https://github.com/api-evangelist/highspot
+deployment_complexity: "Medium"
+tags: ["sales enablement", "AI agent integration", "MCP server", "CRM integration", "content management"]
+source: "https://github.com/api-evangelist/highspot"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:06:46Z'
-discovered_at: '2026-08-08T01:26:29Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:06:46Z"
+discovered_at: "2026-08-08T01:26:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

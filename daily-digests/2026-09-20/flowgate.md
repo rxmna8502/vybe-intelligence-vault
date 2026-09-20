@@ -1,38 +1,19 @@
 ---
-title: horrible-gh/FlowGate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- Vue 3
-- Pinia
-- Vite
-- SQLite
-- MySQL
-- PostgreSQL
-- JWT
-- bcrypt
-- TOTP 2FA
-- Docker
-- Redis
-- Server-Sent Events (SSE)
+title: "horrible-gh/FlowGate"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Vue 3", "Pinia", "Vite", "SQLite", "MySQL", "PostgreSQL", "JWT", "bcrypt", "TOTP 2FA", "Docker", "Redis", "Server-Sent Events (SSE)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI workflow automation
-- document pipeline
-- agent accountability
-- review gates
-- multi-database support
-source: https://github.com/horrible-gh/FlowGate
+deployment_complexity: "Medium"
+tags: ["AI workflow automation", "document pipeline", "agent accountability", "review gates", "multi-database support"]
+source: "https://github.com/horrible-gh/FlowGate"
 stars: 1
-language: Python
-last_updated: '2026-09-03T21:59:51Z'
-discovered_at: '2026-09-03T22:06:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T21:59:51Z"
+discovered_at: "2026-09-03T22:06:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

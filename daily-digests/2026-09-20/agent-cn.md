@@ -1,29 +1,19 @@
 ---
-title: wangray1997-droid/agent-cn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Anthropic API
-- OpenAI API
-- CLI
-- Configuration Management
+title: "wangray1997-droid/agent-cn"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Anthropic API", "OpenAI API", "CLI", "Configuration Management"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Chinese AI integration
-- model switching
-- agent frameworks
-- API key management
-- configuration automation
-source: https://github.com/wangray1997-droid/agent-cn
+deployment_complexity: "Low"
+tags: ["Chinese AI integration", "model switching", "agent frameworks", "API key management", "configuration automation"]
+source: "https://github.com/wangray1997-droid/agent-cn"
 stars: 0
-language: Python
-last_updated: '2026-08-09T09:40:19Z'
-discovered_at: '2026-08-09T09:43:09Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T09:40:19Z"
+discovered_at: "2026-08-09T09:43:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

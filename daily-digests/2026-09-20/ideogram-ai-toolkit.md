@@ -1,29 +1,19 @@
 ---
-title: devkindhq/ideogram-ai-toolkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Claude Code
-- Ideogram AI
-- JSON
-- MCP (Model Context Protocol)
-- Python
+title: "devkindhq/ideogram-ai-toolkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "Ideogram AI", "JSON", "MCP (Model Context Protocol)", "Python"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- image generation
-- structured prompting
-- brand systems
-- custom models
-- post-processing
-source: https://github.com/devkindhq/ideogram-ai-toolkit
+deployment_complexity: "Medium"
+tags: ["image generation", "structured prompting", "brand systems", "custom models", "post-processing"]
+source: "https://github.com/devkindhq/ideogram-ai-toolkit"
 stars: 1
-language: None
-last_updated: '2026-08-01T19:13:28Z'
-discovered_at: '2026-08-01T19:19:14Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-01T19:13:28Z"
+discovered_at: "2026-08-01T19:19:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: alex-schose/qubes-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Qubes OS
-- FastMCP
-- qrexec
-- dom0
-- Linux
-- Shell Scripting
-- JSON
+title: "alex-schose/qubes-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Qubes OS", "FastMCP", "qrexec", "dom0", "Linux", "Shell Scripting", "JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- Qubes OS
-- AI Sandboxing
-- Trust Boundary
-- Tag-Based Isolation
-- dom0 Mediation
-source: https://github.com/alex-schose/qubes-mcp
+deployment_complexity: "High"
+tags: ["Qubes OS", "AI Sandboxing", "Trust Boundary", "Tag-Based Isolation", "dom0 Mediation"]
+source: "https://github.com/alex-schose/qubes-mcp"
 stars: 3
-language: Python
-last_updated: '2026-08-08T10:31:34Z'
-discovered_at: '2026-08-08T10:34:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T10:31:34Z"
+discovered_at: "2026-08-08T10:34:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

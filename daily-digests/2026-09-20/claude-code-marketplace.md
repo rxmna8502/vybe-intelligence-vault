@@ -1,30 +1,19 @@
 ---
-title: netresearch/claude-code-marketplace
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- GitHub Pages
-- JSON
-- Git
-- Agent Skills Specification
-- OpenSSF Scorecards
+title: "netresearch/claude-code-marketplace"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "GitHub Pages", "JSON", "Git", "Agent Skills Specification", "OpenSSF Scorecards"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Agent Skills
-- AI Development
-- Portable Skills
-- Code Agents
-- Developer Tooling
-source: https://github.com/netresearch/claude-code-marketplace
+deployment_complexity: "Low"
+tags: ["Agent Skills", "AI Development", "Portable Skills", "Code Agents", "Developer Tooling"]
+source: "https://github.com/netresearch/claude-code-marketplace"
 stars: 46
-language: JavaScript
-last_updated: '2026-07-12T10:21:55Z'
-discovered_at: '2026-07-12T10:26:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-12T10:21:55Z"
+discovered_at: "2026-07-12T10:26:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

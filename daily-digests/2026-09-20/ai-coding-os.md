@@ -1,30 +1,19 @@
 ---
-title: Z5Jonathan-maker/ai-coding-os
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Shell
-- VS Code Webview
-- JSON/YAML
-- CLI Tools
-- GitHub Actions
-- Apache License
+title: "Z5Jonathan-maker/ai-coding-os"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Shell", "VS Code Webview", "JSON/YAML", "CLI Tools", "GitHub Actions", "Apache License"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI coding workflow
-- design handoff
-- frontend automation
-- deterministic execution
-- receipt system
-source: https://github.com/Z5Jonathan-maker/ai-coding-os
+deployment_complexity: "Medium"
+tags: ["AI coding workflow", "design handoff", "frontend automation", "deterministic execution", "receipt system"]
+source: "https://github.com/Z5Jonathan-maker/ai-coding-os"
 stars: 0
-language: Shell
-last_updated: '2026-07-21T04:09:32Z'
-discovered_at: '2026-07-21T04:14:35Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-21T04:09:32Z"
+discovered_at: "2026-07-21T04:14:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

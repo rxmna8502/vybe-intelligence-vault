@@ -1,28 +1,19 @@
 ---
-title: ivan-sincek/threat-modeling-agent-skills
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Markdown
-- JSON
-- AI Agent Skills
-- Threat Modeling Frameworks
+title: "ivan-sincek/threat-modeling-agent-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "JSON", "AI Agent Skills", "Threat Modeling Frameworks"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- threat modeling
-- AI agents
-- security frameworks
-- risk assessment
-- automation
-source: https://github.com/ivan-sincek/threat-modeling-agent-skills
+deployment_complexity: "Low"
+tags: ["threat modeling", "AI agents", "security frameworks", "risk assessment", "automation"]
+source: "https://github.com/ivan-sincek/threat-modeling-agent-skills"
 stars: 2
-language: None
-last_updated: '2026-09-01T22:15:10Z'
-discovered_at: '2026-09-01T22:17:46Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-01T22:15:10Z"
+discovered_at: "2026-09-01T22:17:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

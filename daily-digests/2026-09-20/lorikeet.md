@@ -1,31 +1,19 @@
 ---
-title: api-evangelist/lorikeet
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- RESTful APIs
-- OpenAPI Specification
-- Webhooks
-- HMAC Authentication
-- No-Code Integrations
-- AI Workflow Orchestration
-- Helpdesk APIs (Zendesk, Intercom, Front)
+title: "api-evangelist/lorikeet"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["RESTful APIs", "OpenAPI Specification", "Webhooks", "HMAC Authentication", "No-Code Integrations", "AI Workflow Orchestration", "Helpdesk APIs (Zendesk, Intercom, Front)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Customer Support
-- Workflow Automation
-- Multi-Channel Agent
-- Regulated Industries
-- API Orchestration
-source: https://github.com/api-evangelist/lorikeet
+deployment_complexity: "Medium"
+tags: ["AI Customer Support", "Workflow Automation", "Multi-Channel Agent", "Regulated Industries", "API Orchestration"]
+source: "https://github.com/api-evangelist/lorikeet"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:17:19Z'
-discovered_at: '2026-08-08T01:26:25Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:17:19Z"
+discovered_at: "2026-08-08T01:26:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

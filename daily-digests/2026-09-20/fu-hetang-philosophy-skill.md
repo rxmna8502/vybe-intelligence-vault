@@ -1,28 +1,19 @@
 ---
-title: suranvs/fu-hetang-philosophy-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Markdown
-- Shell Scripting
-- Agent Integration Frameworks (OpenClaw, WorkBuddy, Claude Code, etc.)
+title: "suranvs/fu-hetang-philosophy-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "Shell Scripting", "Agent Integration Frameworks (OpenClaw, WorkBuddy, Claude Code, etc.)"]
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- educational framework
-- futures trading
-- supply-demand analysis
-- agent skill integration
-- financial philosophy
-source: https://github.com/suranvs/fu-hetang-philosophy-skill
+deployment_complexity: "Low"
+tags: ["educational framework", "futures trading", "supply-demand analysis", "agent skill integration", "financial philosophy"]
+source: "https://github.com/suranvs/fu-hetang-philosophy-skill"
 stars: 0
-language: Python
-last_updated: '2026-08-03T18:50:38Z'
-discovered_at: '2026-08-03T18:52:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T18:50:38Z"
+discovered_at: "2026-08-03T18:52:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

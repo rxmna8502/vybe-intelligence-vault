@@ -1,35 +1,19 @@
 ---
-title: Kery-HQ/Kery
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- PostgreSQL
-- Redis
-- Playwright
-- Fastify
-- React
-- Docker
-- LLM APIs (OpenRouter, OpenAI, Anthropic, Google Gemini)
-- Model Context Protocol (MCP)
-- BullMQ
+title: "Kery-HQ/Kery"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "Redis", "Playwright", "Fastify", "React", "Docker", "LLM APIs (OpenRouter, OpenAI, Anthropic, Google Gemini)", "Model Context Protocol (MCP)", "BullMQ"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous testing
-- AI agents
-- web QA
-- bug detection
-- MCP integration
-source: https://github.com/Kery-HQ/Kery
+deployment_complexity: "Medium"
+tags: ["autonomous testing", "AI agents", "web QA", "bug detection", "MCP integration"]
+source: "https://github.com/Kery-HQ/Kery"
 stars: 21
-language: TypeScript
-last_updated: '2026-08-05T22:02:55Z'
-discovered_at: '2026-08-05T22:15:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T22:02:55Z"
+discovered_at: "2026-08-05T22:15:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: persteenolsen/fastapi-jwt-auth-ai-agent-three
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- FastAPI
-- Vue 3
-- Pinia
-- LangChain
-- Groq LLMs
-- JWT Authentication
-- Python
-- REST API
-- Wikipedia Tool
+title: "persteenolsen/fastapi-jwt-auth-ai-agent-three"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "Vue 3", "Pinia", "LangChain", "Groq LLMs", "JWT Authentication", "Python", "REST API", "Wikipedia Tool"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent
-- LangChain
-- JWT authentication
-- Groq LLM
-- full-stack
-source: https://github.com/persteenolsen/fastapi-jwt-auth-ai-agent-three
+deployment_complexity: "Medium"
+tags: ["AI agent", "LangChain", "JWT authentication", "Groq LLM", "full-stack"]
+source: "https://github.com/persteenolsen/fastapi-jwt-auth-ai-agent-three"
 stars: 0
-language: Python
-last_updated: '2026-08-21T12:06:18Z'
-discovered_at: '2026-09-01T15:52:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-21T12:06:18Z"
+discovered_at: "2026-09-01T15:52:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

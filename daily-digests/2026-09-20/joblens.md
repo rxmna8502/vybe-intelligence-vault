@@ -1,38 +1,19 @@
 ---
-title: Amrit-2002/jobLens
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Next.js
-- Express.js
-- TypeScript
-- LangGraph
-- LangChain
-- PostgreSQL
-- pgvector
-- Prisma ORM
-- TailwindCSS
-- React 19
-- Gemini API
-- OpenAI API
-- Mistral AI
-- Ollama
+title: "Amrit-2002/jobLens"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js", "Express.js", "TypeScript", "LangGraph", "LangChain", "PostgreSQL", "pgvector", "Prisma ORM", "TailwindCSS", "React 19", "Gemini API", "OpenAI API", "Mistral AI", "Ollama"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI career assistant
-- resume optimization
-- interview preparation
-- job discovery
-- LangGraph agents
-source: https://github.com/Amrit-2002/jobLens
+deployment_complexity: "Medium"
+tags: ["AI career assistant", "resume optimization", "interview preparation", "job discovery", "LangGraph agents"]
+source: "https://github.com/Amrit-2002/jobLens"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-02T20:48:39Z'
-discovered_at: '2026-08-02T20:54:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T20:48:39Z"
+discovered_at: "2026-08-02T20:54:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: yadneshSalvi/datahub-data-engineer-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- React
-- Vite
-- DataHub
-- DataHub MCP Server
-- SQLite
-- GraphQL
-- TypeScript
-- Docker
+title: "yadneshSalvi/datahub-data-engineer-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "React", "Vite", "DataHub", "DataHub MCP Server", "SQLite", "GraphQL", "TypeScript", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- data incident response
-- root cause analysis
-- DataHub integration
-- autonomous agent
-- post-mortem automation
-source: https://github.com/yadneshSalvi/datahub-data-engineer-agent
+deployment_complexity: "Medium"
+tags: ["data incident response", "root cause analysis", "DataHub integration", "autonomous agent", "post-mortem automation"]
+source: "https://github.com/yadneshSalvi/datahub-data-engineer-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-10T14:56:17Z'
-discovered_at: '2026-08-10T15:03:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T14:56:17Z"
+discovered_at: "2026-08-10T15:03:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

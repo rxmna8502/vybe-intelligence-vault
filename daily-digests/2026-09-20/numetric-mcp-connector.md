@@ -1,30 +1,19 @@
 ---
-title: lowwmax/numetric-mcp-connector
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Model Context Protocol (MCP)
-- OAuth 2.1
-- PKCE (Proof Key for Code Exchange)
-- HTTP/Streamable Transport
-- JSON Schema
-- NuMetric.work API
+title: "lowwmax/numetric-mcp-connector"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "OAuth 2.1", "PKCE (Proof Key for Code Exchange)", "HTTP/Streamable Transport", "JSON Schema", "NuMetric.work API"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- MCP Server
-- Accounting Integration
-- ERP Data Access
-- Financial Reporting
-- Read-Only API
-source: https://github.com/lowwmax/numetric-mcp-connector
+deployment_complexity: "Low"
+tags: ["MCP Server", "Accounting Integration", "ERP Data Access", "Financial Reporting", "Read-Only API"]
+source: "https://github.com/lowwmax/numetric-mcp-connector"
 stars: 0
-language: None
-last_updated: '2026-08-04T10:26:23Z'
-discovered_at: '2026-08-04T10:40:56Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-04T10:26:23Z"
+discovered_at: "2026-08-04T10:40:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: clin06585-dev/ai-travel-planner-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Dify Agent
-- Large Language Model (LLM)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Workflow Design
-- API Tools
+title: "clin06585-dev/ai-travel-planner-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Dify Agent", "Large Language Model (LLM)", "Retrieval-Augmented Generation (RAG)", "Prompt Engineering", "Workflow Design", "API Tools"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- travel planning
-- RAG
-- agent framework
-- itinerary generation
-- budget analysis
-source: https://github.com/clin06585-dev/ai-travel-planner-agent
+deployment_complexity: "Medium"
+tags: ["travel planning", "RAG", "agent framework", "itinerary generation", "budget analysis"]
+source: "https://github.com/clin06585-dev/ai-travel-planner-agent"
 stars: 0
-language: None
-last_updated: '2026-08-01T19:18:10Z'
-discovered_at: '2026-08-01T19:19:02Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-01T19:18:10Z"
+discovered_at: "2026-08-01T19:19:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

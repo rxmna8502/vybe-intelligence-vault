@@ -1,29 +1,19 @@
 ---
-title: omer907/mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- npm
-- HTTP Streamable Transport
+title: "omer907/mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm", "HTTP Streamable Transport"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- value-leak detection
-- LLMO
-- agent integration
-- lead capture
-source: https://github.com/omer907/mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "value-leak detection", "LLMO", "agent integration", "lead capture"]
+source: "https://github.com/omer907/mcp-server"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T14:59:54Z'
-discovered_at: '2026-08-10T15:03:56Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T14:59:54Z"
+discovered_at: "2026-08-10T15:03:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: food-near-me/platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Next.js
-- Model Context Protocol (MCP)
-- Supabase
-- PostGIS
-- Menu Protocol
-- JSON-RPC
-- Node.js
+title: "food-near-me/platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Next.js", "Model Context Protocol (MCP)", "Supabase", "PostGIS", "Menu Protocol", "JSON-RPC", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- restaurant discovery
-- Menu Protocol
-- AI-native search
-- agent orchestration
-source: https://github.com/food-near-me/platform
+deployment_complexity: "Medium"
+tags: ["MCP server", "restaurant discovery", "Menu Protocol", "AI-native search", "agent orchestration"]
+source: "https://github.com/food-near-me/platform"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-15T18:04:43Z'
-discovered_at: '2026-07-15T18:06:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T18:04:43Z"
+discovered_at: "2026-07-15T18:06:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

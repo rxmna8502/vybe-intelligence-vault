@@ -1,31 +1,19 @@
 ---
-title: berntpopp/vep-link
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- Ensembl REST API
-- Model Context Protocol (MCP)
-- Docker
-- uv (dependency manager)
-- GitHub Actions (CI/CD)
+title: "berntpopp/vep-link"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Ensembl REST API", "Model Context Protocol (MCP)", "Docker", "uv (dependency manager)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- variant annotation
-- Ensembl VEP
-- genomic coordinates
-- MCP server
-- biomedical AI
-source: https://github.com/berntpopp/vep-link
+deployment_complexity: "Medium"
+tags: ["variant annotation", "Ensembl VEP", "genomic coordinates", "MCP server", "biomedical AI"]
+source: "https://github.com/berntpopp/vep-link"
 stars: 0
-language: Python
-last_updated: '2026-09-01T22:14:00Z'
-discovered_at: '2026-09-01T22:19:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T22:14:00Z"
+discovered_at: "2026-09-01T22:19:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

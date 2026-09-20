@@ -1,34 +1,19 @@
 ---
-title: johan-windahl/forge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- SQLite
-- llama.cpp
-- vLLM
-- Ollama
-- Claude CLI
-- Git
-- Playwright
-- OpenCode
-- Docker
+title: "johan-windahl/forge"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "SQLite", "llama.cpp", "vLLM", "Ollama", "Claude CLI", "Git", "Playwright", "OpenCode", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- autonomous agents
-- local-first AI
-- model routing
-- self-improving workflows
-- cost optimization
-source: https://github.com/johan-windahl/forge
+deployment_complexity: "High"
+tags: ["autonomous agents", "local-first AI", "model routing", "self-improving workflows", "cost optimization"]
+source: "https://github.com/johan-windahl/forge"
 stars: 0
-language: Python
-last_updated: '2026-08-02T11:57:44Z'
-discovered_at: '2026-08-02T12:02:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T11:57:44Z"
+discovered_at: "2026-08-02T12:02:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: 0Smallcat0/report-workflow
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Pandoc
-- python-docx
-- CLI
-- JSON
-- CSV
-- DOCX
-- Mermaid
+title: "0Smallcat0/report-workflow"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Pandoc", "python-docx", "CLI", "JSON", "CSV", "DOCX", "Mermaid"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- deterministic
-- hallucination prevention
-- evidence-based
-- document generation
-- audit trail
-source: https://github.com/0Smallcat0/report-workflow
+deployment_complexity: "Medium"
+tags: ["deterministic", "hallucination prevention", "evidence-based", "document generation", "audit trail"]
+source: "https://github.com/0Smallcat0/report-workflow"
 stars: 0
-language: Python
-last_updated: '2026-08-04T22:58:59Z'
-discovered_at: '2026-08-04T23:04:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T22:58:59Z"
+discovered_at: "2026-08-04T23:04:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

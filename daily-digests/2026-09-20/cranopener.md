@@ -1,43 +1,19 @@
 ---
-title: SupremeCommanderHedgehog/cranopener
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Docker
-- Debian Trixie
-- opencode
-- Git
-- Git LFS
-- gh CLI
-- jq
-- ripgrep
-- fd
-- CMake
-- Build-essential
-- Python
-- Node.js
-- Rust
-- Go
-- Julia
-- C/C++
-- C#/F#
-- LiteLLM
+title: "SupremeCommanderHedgehog/cranopener"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Docker", "Debian Trixie", "opencode", "Git", "Git LFS", "gh CLI", "jq", "ripgrep", "fd", "CMake", "Build-essential", "Python", "Node.js", "Rust", "Go", "Julia", "C/C++", "C#/F#", "LiteLLM"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- containerized AI
-- polyglot toolchain
-- opencode
-- AI agent deployment
-- development environment
-source: https://github.com/SupremeCommanderHedgehog/cranopener
+deployment_complexity: "Medium"
+tags: ["containerized AI", "polyglot toolchain", "opencode", "AI agent deployment", "development environment"]
+source: "https://github.com/SupremeCommanderHedgehog/cranopener"
 stars: 1
-language: Shell
-last_updated: '2026-08-08T03:22:51Z'
-discovered_at: '2026-08-08T03:28:02Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-08T03:22:51Z"
+discovered_at: "2026-08-08T03:28:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

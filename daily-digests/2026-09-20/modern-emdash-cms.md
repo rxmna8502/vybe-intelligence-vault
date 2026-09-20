@@ -1,34 +1,19 @@
 ---
-title: EngDawood/modern-emdash-cms
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Astro SSR
-- EmDash CMS
-- Cloudflare Workers
-- Cloudflare D1
-- Cloudflare R2
-- Cloudflare KV
-- React
-- TypeScript
-- pnpm
-- MCP (Model Context Protocol)
+title: "EngDawood/modern-emdash-cms"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Astro SSR", "EmDash CMS", "Cloudflare Workers", "Cloudflare D1", "Cloudflare R2", "Cloudflare KV", "React", "TypeScript", "pnpm", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- portfolio
-- bilingual
-- MCP server
-- Cloudflare Workers
-- EmDash CMS
-source: https://github.com/EngDawood/modern-emdash-cms
+deployment_complexity: "Medium"
+tags: ["portfolio", "bilingual", "MCP server", "Cloudflare Workers", "EmDash CMS"]
+source: "https://github.com/EngDawood/modern-emdash-cms"
 stars: 1
-language: HTML
-last_updated: '2026-08-08T18:31:32Z'
-discovered_at: '2026-08-08T18:39:24Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-08T18:31:32Z"
+discovered_at: "2026-08-08T18:39:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

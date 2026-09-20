@@ -1,31 +1,19 @@
 ---
-title: o-valo/brainagent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Flask
-- PostgreSQL
-- Qdrant
-- Docker
-- Markdown
-- Ollama
+title: "o-valo/brainagent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Flask", "PostgreSQL", "Qdrant", "Docker", "Markdown", "Ollama"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- SQL-first
-- Context enrichment
-- Vector search
-- LLM proxy
-source: https://github.com/o-valo/brainagent
+deployment_complexity: "Medium"
+tags: ["RAG", "SQL-first", "Context enrichment", "Vector search", "LLM proxy"]
+source: "https://github.com/o-valo/brainagent"
 stars: 0
-language: Python
-last_updated: '2026-08-02T02:17:32Z'
-discovered_at: '2026-08-02T02:34:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T02:17:32Z"
+discovered_at: "2026-08-02T02:34:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: Ryderey/agnes-mcp-studio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastMCP
-- Agnes AI API
-- uv
-- MCP (Model Context Protocol)
+title: "Ryderey/agnes-mcp-studio"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "Agnes AI API", "uv", "MCP (Model Context Protocol)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Media Generation
-- AI Agent Integration
-- Image-to-Image
-- Video Generation
-source: https://github.com/Ryderey/agnes-mcp-studio
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Media Generation", "AI Agent Integration", "Image-to-Image", "Video Generation"]
+source: "https://github.com/Ryderey/agnes-mcp-studio"
 stars: 0
-language: Python
-last_updated: '2026-08-02T14:58:49Z'
-discovered_at: '2026-08-02T15:02:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T14:58:49Z"
+discovered_at: "2026-08-02T15:02:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

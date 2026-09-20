@@ -1,27 +1,19 @@
 ---
-title: ibnsaleem29/dorar-hadith-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- JavaScript
-- Claude MCP (Model Context Protocol)
-- Dorar.net API
+title: "ibnsaleem29/dorar-hadith-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Claude MCP (Model Context Protocol)", "Dorar.net API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Hadith research
-- Islamic studies
-- Claude Desktop extension
-- Text retrieval
-- Scholarly grading
-source: https://github.com/ibnsaleem29/dorar-hadith-mcp
+deployment_complexity: "Low"
+tags: ["Hadith research", "Islamic studies", "Claude Desktop extension", "Text retrieval", "Scholarly grading"]
+source: "https://github.com/ibnsaleem29/dorar-hadith-mcp"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-09T17:26:39Z'
-discovered_at: '2026-08-09T17:35:38Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-09T17:26:39Z"
+discovered_at: "2026-08-09T17:35:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

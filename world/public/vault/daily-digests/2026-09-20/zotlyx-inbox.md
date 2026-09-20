@@ -1,32 +1,19 @@
 ---
-title: Tonyfi7584/zotlyx-inbox
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Cloudflare Workers
-- Durable Objects
-- Cloudflare R2
-- Cloudflare D1
-- Cloudflare Workers AI
-- Cloudflare SES
-- Windows
-- Chrome/Edge/Firefox
+title: "Tonyfi7584/zotlyx-inbox"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Cloudflare Workers", "Durable Objects", "Cloudflare R2", "Cloudflare D1", "Cloudflare Workers AI", "Cloudflare SES", "Windows", "Chrome/Edge/Firefox"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- email-management
-- team-collaboration
-- real-time-sync
-- ai-assisted-replies
-- cloudflare-integration
-source: https://github.com/Tonyfi7584/zotlyx-inbox
+deployment_complexity: "Medium"
+tags: ["email-management", "team-collaboration", "real-time-sync", "ai-assisted-replies", "cloudflare-integration"]
+source: "https://github.com/Tonyfi7584/zotlyx-inbox"
 stars: 1
-language: None
-last_updated: '2026-08-07T00:01:13Z'
-discovered_at: '2026-08-07T00:01:37Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T00:01:13Z"
+discovered_at: "2026-08-07T00:01:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

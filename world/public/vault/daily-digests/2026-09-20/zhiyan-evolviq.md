@@ -1,36 +1,19 @@
 ---
-title: iduyuhe/zhiyan-evolviq
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- Model Context Protocol (MCP)
-- Neo4j
-- SQLite
-- PostgreSQL
-- Modbus
-- MQTT
-- OPC-UA
-- IPC-CFX
-- Docker
-- LLM APIs
+title: "iduyuhe/zhiyan-evolviq"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Model Context Protocol (MCP)", "Neo4j", "SQLite", "PostgreSQL", "Modbus", "MQTT", "OPC-UA", "IPC-CFX", "Docker", "LLM APIs"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- industrial agents
-- multi-agent orchestration
-- manufacturing automation
-- self-learning AI
-- MCP tools
-source: https://github.com/iduyuhe/zhiyan-evolviq
+deployment_complexity: "Medium"
+tags: ["industrial agents", "multi-agent orchestration", "manufacturing automation", "self-learning AI", "MCP tools"]
+source: "https://github.com/iduyuhe/zhiyan-evolviq"
 stars: 4
-language: Python
-last_updated: '2026-08-01T22:51:37Z'
-discovered_at: '2026-08-01T22:54:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T22:51:37Z"
+discovered_at: "2026-08-01T22:54:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

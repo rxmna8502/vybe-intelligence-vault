@@ -1,29 +1,19 @@
 ---
-title: mifdlaldev/AI-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Markdown
-- Vite
-- Bun
-- Vercel
+title: "mifdlaldev/AI-Agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Markdown", "Vite", "Bun", "Vercel"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent workflows
-- self-organizing systems
-- knowledge management
-- automation scripts
-- historical reference
-source: https://github.com/mifdlaldev/AI-Agent
+deployment_complexity: "Medium"
+tags: ["AI agent workflows", "self-organizing systems", "knowledge management", "automation scripts", "historical reference"]
+source: "https://github.com/mifdlaldev/AI-Agent"
 stars: 0
-language: Python
-last_updated: '2026-08-05T13:58:42Z'
-discovered_at: '2026-08-05T14:07:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T13:58:42Z"
+discovered_at: "2026-08-05T14:07:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

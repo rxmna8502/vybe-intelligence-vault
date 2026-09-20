@@ -1,30 +1,19 @@
 ---
-title: Kofiloski/ios-ui-testability-contract-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Swift
-- Objective-C
-- XCUITest
-- CLI
-- Agent Skills
+title: "Kofiloski/ios-ui-testability-contract-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Swift", "Objective-C", "XCUITest", "CLI", "Agent Skills"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- XCUITest
-- UI Testability
-- Accessibility Identifiers
-- iOS Automation
-- Test Failure Diagnosis
-source: https://github.com/Kofiloski/ios-ui-testability-contract-skill
+deployment_complexity: "Low"
+tags: ["XCUITest", "UI Testability", "Accessibility Identifiers", "iOS Automation", "Test Failure Diagnosis"]
+source: "https://github.com/Kofiloski/ios-ui-testability-contract-skill"
 stars: 1
-language: Python
-last_updated: '2026-07-14T23:47:33Z'
-discovered_at: '2026-07-14T23:53:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T23:47:33Z"
+discovered_at: "2026-07-14T23:53:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

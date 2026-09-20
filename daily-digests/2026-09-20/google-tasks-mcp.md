@@ -1,29 +1,19 @@
 ---
-title: oskarengl/google-tasks-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Google Tasks API
-- OAuth 2.0
-- MCP (Model Context Protocol)
+title: "oskarengl/google-tasks-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Google Tasks API", "OAuth 2.0", "MCP (Model Context Protocol)"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- MCP server
-- Google Tasks
-- AI agent integration
-- task management
-- OAuth
-source: https://github.com/oskarengl/google-tasks-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Google Tasks", "AI agent integration", "task management", "OAuth"]
+source: "https://github.com/oskarengl/google-tasks-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T22:13:33Z'
-discovered_at: '2026-09-02T22:15:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T22:13:33Z"
+discovered_at: "2026-09-02T22:15:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

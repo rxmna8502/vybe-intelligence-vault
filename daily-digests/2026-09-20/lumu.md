@@ -1,34 +1,19 @@
 ---
-title: zhikekj-ui/LUMU
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- React
-- Vite
-- Tailwind CSS
-- shadcn/ui
-- Playwright
-- Vector DB (BGE-small-zh-v1.5)
-- Docker
-- GitHub Actions
+title: "zhikekj-ui/LUMU"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "React", "Vite", "Tailwind CSS", "shadcn/ui", "Playwright", "Vector DB (BGE-small-zh-v1.5)", "Docker", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI Agent
-- Self-hosted
-- Long-term Memory
-- Tool Integration
-- RAG
-source: https://github.com/zhikekj-ui/LUMU
+deployment_complexity: "Medium"
+tags: ["AI Agent", "Self-hosted", "Long-term Memory", "Tool Integration", "RAG"]
+source: "https://github.com/zhikekj-ui/LUMU"
 stars: 0
-language: Python
-last_updated: '2026-08-02T20:42:51Z'
-discovered_at: '2026-08-02T20:54:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T20:42:51Z"
+discovered_at: "2026-08-02T20:54:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

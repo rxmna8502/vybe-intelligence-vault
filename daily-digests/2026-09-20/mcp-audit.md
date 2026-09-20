@@ -1,29 +1,19 @@
 ---
-title: BuildWithAbid/mcp-audit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- asyncio
-- PyPI
-- GitHub Actions
+title: "BuildWithAbid/mcp-audit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "asyncio", "PyPI", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- security
-- MCP
-- prompt injection
-- vulnerability scanning
-- CI/CD
-source: https://github.com/BuildWithAbid/mcp-audit
+deployment_complexity: "Low"
+tags: ["security", "MCP", "prompt injection", "vulnerability scanning", "CI/CD"]
+source: "https://github.com/BuildWithAbid/mcp-audit"
 stars: 0
-language: Python
-last_updated: '2026-08-02T10:29:18Z'
-discovered_at: '2026-08-02T10:41:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T10:29:18Z"
+discovered_at: "2026-08-02T10:41:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

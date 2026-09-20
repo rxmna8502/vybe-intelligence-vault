@@ -1,32 +1,19 @@
 ---
-title: crate/crate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Java
-- SQL
-- PostgreSQL
-- Lucene
-- Docker
-- Kubernetes
-- HTTP API
-- PostgreSQL Wire Protocol
+title: "crate/crate"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Java", "SQL", "PostgreSQL", "Lucene", "Docker", "Kubernetes", "HTTP API", "PostgreSQL Wire Protocol"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- distributed database
-- time-series
-- SQL
-- scalability
-- real-time analytics
-source: https://github.com/crate/crate
+deployment_complexity: "Medium"
+tags: ["distributed database", "time-series", "SQL", "scalability", "real-time analytics"]
+source: "https://github.com/crate/crate"
 stars: 4417
-language: Java
-last_updated: '2026-08-07T13:28:30Z'
-discovered_at: '2026-08-07T14:20:34Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-07T13:28:30Z"
+discovered_at: "2026-08-07T14:20:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

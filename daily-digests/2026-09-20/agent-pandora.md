@@ -1,32 +1,19 @@
 ---
-title: anisayakmitra-in/AGENT-PANDORA
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Rust
-- Tauri
-- TypeScript
-- WebAssembly
-- SQLite
-- Ratatui
-- MCP (Model Context Protocol)
-- JSON-RPC
+title: "anisayakmitra-in/AGENT-PANDORA"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Tauri", "TypeScript", "WebAssembly", "SQLite", "Ratatui", "MCP (Model Context Protocol)", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- local-first
-- agent governance
-- effect permits
-- policy-bound execution
-- memory management
-source: https://github.com/anisayakmitra-in/AGENT-PANDORA
+deployment_complexity: "High"
+tags: ["local-first", "agent governance", "effect permits", "policy-bound execution", "memory management"]
+source: "https://github.com/anisayakmitra-in/AGENT-PANDORA"
 stars: 3
-language: Rust
-last_updated: '2026-09-01T08:59:18Z'
-discovered_at: '2026-09-01T09:11:07Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-01T08:59:18Z"
+discovered_at: "2026-09-01T09:11:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

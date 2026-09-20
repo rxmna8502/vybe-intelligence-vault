@@ -1,29 +1,19 @@
 ---
-title: theYahia/vk-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- VK API
-- Model Context Protocol (MCP)
-- npm
+title: "theYahia/vk-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "VK API", "Model Context Protocol (MCP)", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- VKontakte
-- MCP server
-- API wrapper
-- social media integration
-- AI automation
-source: https://github.com/theYahia/vk-mcp
+deployment_complexity: "Low"
+tags: ["VKontakte", "MCP server", "API wrapper", "social media integration", "AI automation"]
+source: "https://github.com/theYahia/vk-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-02T19:10:25Z'
-discovered_at: '2026-09-02T19:14:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:10:25Z"
+discovered_at: "2026-09-02T19:14:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

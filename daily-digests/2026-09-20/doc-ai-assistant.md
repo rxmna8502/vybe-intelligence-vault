@@ -1,32 +1,19 @@
 ---
-title: srichsun/doc-ai-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- FastAPI
-- Chroma
-- Claude (Anthropic API)
-- Python
-- React
-- Vite
-- uv
-- Pytest
+title: "srichsun/doc-ai-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "Chroma", "Claude (Anthropic API)", "Python", "React", "Vite", "uv", "Pytest"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Document Q&A
-- Agent Tool Use
-- Chroma Vector Store
-- FastAPI
-source: https://github.com/srichsun/doc-ai-assistant
+deployment_complexity: "Medium"
+tags: ["RAG", "Document Q&A", "Agent Tool Use", "Chroma Vector Store", "FastAPI"]
+source: "https://github.com/srichsun/doc-ai-assistant"
 stars: 0
-language: Python
-last_updated: '2026-07-15T08:05:31Z'
-discovered_at: '2026-07-15T08:05:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T08:05:31Z"
+discovered_at: "2026-07-15T08:05:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

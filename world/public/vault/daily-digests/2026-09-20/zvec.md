@@ -1,34 +1,19 @@
 ---
-title: alibaba/zvec
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- C++
-- Python
-- Node.js
-- Go
-- Rust
-- Dart/Flutter
-- HNSW
-- DiskANN
-- RaBitQ
-- WAL (Write-Ahead Logging)
+title: "alibaba/zvec"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["C++", "Python", "Node.js", "Go", "Rust", "Dart/Flutter", "HNSW", "DiskANN", "RaBitQ", "WAL (Write-Ahead Logging)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- vector database
-- similarity search
-- in-process
-- hybrid retrieval
-- production-grade
-source: https://github.com/alibaba/zvec
+deployment_complexity: "Low"
+tags: ["vector database", "similarity search", "in-process", "hybrid retrieval", "production-grade"]
+source: "https://github.com/alibaba/zvec"
 stars: 15400
-language: C++
-last_updated: '2026-08-07T09:45:06Z'
-discovered_at: '2026-08-07T10:05:34Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-08-07T09:45:06Z"
+discovered_at: "2026-08-07T10:05:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

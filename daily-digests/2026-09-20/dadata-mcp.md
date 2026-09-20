@@ -1,30 +1,19 @@
 ---
-title: theYahia/dadata-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- DaData API
-- Zod (validation)
-- npm
+title: "theYahia/dadata-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "DaData API", "Zod (validation)", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- address validation
-- company lookup
-- geocoding
-- data cleaning
-source: https://github.com/theYahia/dadata-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "address validation", "company lookup", "geocoding", "data cleaning"]
+source: "https://github.com/theYahia/dadata-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-02T19:11:58Z'
-discovered_at: '2026-09-02T19:13:59Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:11:58Z"
+discovered_at: "2026-09-02T19:13:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: ask-marcel/ask-marcel-office-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Microsoft Graph API
-- Playwright
-- npm
-- MCP (Model Context Protocol)
+title: "ask-marcel/ask-marcel-office-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Microsoft Graph API", "Playwright", "npm", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Microsoft 365
-- AI agent integration
-- document conversion
-- markdown output
-- read-only API
-source: https://github.com/ask-marcel/ask-marcel-office-cli
+deployment_complexity: "Low"
+tags: ["Microsoft 365", "AI agent integration", "document conversion", "markdown output", "read-only API"]
+source: "https://github.com/ask-marcel/ask-marcel-office-cli"
 stars: 8
-language: TypeScript
-last_updated: '2026-09-02T15:49:08Z'
-discovered_at: '2026-09-02T15:51:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:49:08Z"
+discovered_at: "2026-09-02T15:51:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

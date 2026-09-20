@@ -1,29 +1,19 @@
 ---
-title: MarvelCollin/adobe-premiere-cc-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Adobe Premiere Pro CEP (Common Extensibility Platform)
-- MCP (Model Context Protocol)
-- ZXPSignCmd (for extension signing)
+title: "MarvelCollin/adobe-premiere-cc-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Adobe Premiere Pro CEP (Common Extensibility Platform)", "MCP (Model Context Protocol)", "ZXPSignCmd (for extension signing)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- video editing automation
-- AI-assisted editing
-- MCP server
-- Adobe Premiere integration
-- media processing
-source: https://github.com/MarvelCollin/adobe-premiere-cc-mcp
+deployment_complexity: "High"
+tags: ["video editing automation", "AI-assisted editing", "MCP server", "Adobe Premiere integration", "media processing"]
+source: "https://github.com/MarvelCollin/adobe-premiere-cc-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T08:41:36Z'
-discovered_at: '2026-08-08T08:42:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T08:41:36Z"
+discovered_at: "2026-08-08T08:42:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: Atumkezie/Kharagpur-Data-Science-Hackathon
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Pathway Framework
-- NLP
-- Embeddings
-- Vector Search
-- Large Language Models
+title: "Atumkezie/Kharagpur-Data-Science-Hackathon"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Pathway Framework", "NLP", "Embeddings", "Vector Search", "Large Language Models"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI reasoning
-- data science
-- pathway framework
-- embeddings
-- vector search
-source: https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon
+deployment_complexity: "Medium"
+tags: ["AI reasoning", "data science", "pathway framework", "embeddings", "vector search"]
+source: "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
 stars: 2
-language: Python
-last_updated: '2026-08-07T11:16:30Z'
-discovered_at: '2026-08-07T11:58:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:16:30Z"
+discovered_at: "2026-08-07T11:58:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

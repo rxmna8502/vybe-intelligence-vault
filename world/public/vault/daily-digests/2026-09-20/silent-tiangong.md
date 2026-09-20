@@ -1,33 +1,19 @@
 ---
-title: silent-rs/silent-Tiangong
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Rust
-- Tauri
-- React
-- TypeScript
-- WASM
-- WKWebView
-- DeepSeek API
-- Cargo
-- shadcn/ui
+title: "silent-rs/silent-Tiangong"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Tauri", "React", "TypeScript", "WASM", "WKWebView", "DeepSeek API", "Cargo", "shadcn/ui"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent automation
-- multi-agent collaboration
-- embedded browser
-- long-term memory
-- plugin ecosystem
-source: https://github.com/silent-rs/silent-Tiangong
+deployment_complexity: "Medium"
+tags: ["AI agent automation", "multi-agent collaboration", "embedded browser", "long-term memory", "plugin ecosystem"]
+source: "https://github.com/silent-rs/silent-Tiangong"
 stars: 23
-language: Rust
-last_updated: '2026-09-01T08:59:51Z'
-discovered_at: '2026-09-01T09:10:13Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-01T08:59:51Z"
+discovered_at: "2026-09-01T09:10:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

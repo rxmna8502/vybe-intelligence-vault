@@ -1,31 +1,19 @@
 ---
-title: Awalgawe/maurice
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- React
-- Vite
-- Express
-- Node.js
-- MCP (Model Context Protocol)
-- Tailwind CSS
+title: "Awalgawe/maurice"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Vite", "Express", "Node.js", "MCP (Model Context Protocol)", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Claude Code
-- session analytics
-- cost estimation
-- context window analysis
-- MCP server
-source: https://github.com/Awalgawe/maurice
+deployment_complexity: "Medium"
+tags: ["Claude Code", "session analytics", "cost estimation", "context window analysis", "MCP server"]
+source: "https://github.com/Awalgawe/maurice"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-15T10:45:10Z'
-discovered_at: '2026-07-15T10:48:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T10:45:10Z"
+discovered_at: "2026-07-15T10:48:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

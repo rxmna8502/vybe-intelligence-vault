@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-20T18:58:48.326466+05:30`
+Generated at: `2026-09-20T21:52:12.232759+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **AI and the Destruction of the Creative Commons** - Score: `130` in category `ai/community` ([Link](https://chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons)) ([File](../ai/community/ai-and-the-destruction-of-the-creative-commons.md))
-- **If AI coding is lowering your code quality, you're not managing quality right** - Score: `46` in category `ai/community` ([Link](https://i-kh.net/p/if-ai-coding-is-lowering-your-code)) ([File](../ai/community/if-ai-coding-is-lowering-your-code-quality-you-re.md))
-- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/nvidia)) ([File](../ai/models/huggingface-datasets-nvidia.md))
-- **amazon/chronos-2** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/amazon/chronos-2)) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **AI-generated posters don’t have to be horrible** - Score: `1649` (+184), Rank Change: `0` ([File](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md))
-- **How to Write with an LLM** - Score: `682` (+31), Rank Change: `0` ([File](../ai/community/how-to-write-with-an-llm.md))
-- **sickn33/agentic-awesome-skills** - Score: `0` (0), Rank Change: `+4551` ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
-- **odsc2015/agentic-hackathon-template** - Score: `0` (0), Rank Change: `+4630` ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+1029` ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+4566` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1008` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1026` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1008` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **pingwu/crewai-similar-framework-finder-template** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/pingwu-crewai-similar-framework-finder-template.md))
+- **shanraisshan/codex-cli-best-practice** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/shanraisshan-codex-cli-best-practice.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **crewAIInc/crewAI-tools** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/crewaiinc-crewai-tools.md))
+- **cloudflare/agentic-inbox** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/cloudflare-agentic-inbox.md))
+- **JCodesMore/ai-chrome-extension-template** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/jcodesmore-ai-chrome-extension-template.md))
+- **Goal-oriented probabilistic forecasting for dynamic PRB allocation in 5G networks** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/research/arxiv-2609-17297.md))
+- **The Latent That Never Was: A Forensic Re-run of the CVAE Ablation in Action Chunking Transformers** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/arxiv-2609-16745.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **odsc2015/agentic-hackathon-template** - (Rank Change: `+4630`) ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **NirDiamant/GenAI_Agents** - (Rank Change: `+4566`) ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **sickn33/agentic-awesome-skills** - (Rank Change: `+4551`) ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
-- **Senpi-ai/senpi-skills** - (Rank Change: `+1029`) ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1026`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1018`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **krishnaik06/RAG-Tutorials** - (Rank Change: `+1011`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+1008`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+1008`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+1008`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **infiniflow/ragflow** - (Rank Change: `+28128`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25355`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17140`) ([File](../ai/rag/stanford-oval-storm.md))
+- **pingwu/crewai-similar-framework-finder-template** - (Rank Change: `+1006`) ([File](../ai/agents/pingwu-crewai-similar-framework-finder-template.md))
+- **shanraisshan/codex-cli-best-practice** - (Rank Change: `+1006`) ([File](../ai/agents/shanraisshan-codex-cli-best-practice.md))
+- **enescingoz/awesome-n8n-templates** - (Rank Change: `+1006`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1006`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **coleam00/ottomator-agents** - (Rank Change: `+1006`) ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **crewAIInc/crewAI-tools** - (Rank Change: `+1006`) ([File](../ai/agents/crewaiinc-crewai-tools.md))
+- **cloudflare/agentic-inbox** - (Rank Change: `+1006`) ([File](../ai/rag/cloudflare-agentic-inbox.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -48,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Can you tell which images are AI-generated?** (Category: `ai/community`) ([File](../ai/community/can-you-tell-which-images-are-ai-generated.md))
+No recently active resources transitioned to inactive.
+

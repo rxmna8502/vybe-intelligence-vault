@@ -1,28 +1,19 @@
 ---
-title: UnitVectorY-Labs/mcp-shopping-list-firestore
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- Firebase Firestore
-- Model Context Protocol (MCP)
-- HTTP Transport
+title: "UnitVectorY-Labs/mcp-shopping-list-firestore"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Firebase Firestore", "Model Context Protocol (MCP)", "HTTP Transport"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- MCP server
-- Firestore
-- CRUD operations
-- grocery list
-- Go
-source: https://github.com/UnitVectorY-Labs/mcp-shopping-list-firestore
+deployment_complexity: "Medium"
+tags: ["MCP server", "Firestore", "CRUD operations", "grocery list", "Go"]
+source: "https://github.com/UnitVectorY-Labs/mcp-shopping-list-firestore"
 stars: 0
-language: Go
-last_updated: '2026-08-04T00:10:21Z'
-discovered_at: '2026-08-04T00:11:06Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T00:10:21Z"
+discovered_at: "2026-08-04T00:11:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

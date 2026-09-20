@@ -1,33 +1,19 @@
 ---
-title: marcioaltoe/roundfix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Go
-- Node.js
-- GitHub CLI
-- ACP (Agent Communication Protocol)
-- Codex
-- Claude
-- OpenCode
-- TUI (Terminal User Interface)
-- Makefile
+title: "marcioaltoe/roundfix"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Node.js", "GitHub CLI", "ACP (Agent Communication Protocol)", "Codex", "Claude", "OpenCode", "TUI (Terminal User Interface)", "Makefile"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI-assisted development
-- code review automation
-- local-first
-- task execution
-- agent orchestration
-source: https://github.com/marcioaltoe/roundfix
+deployment_complexity: "Medium"
+tags: ["AI-assisted development", "code review automation", "local-first", "task execution", "agent orchestration"]
+source: "https://github.com/marcioaltoe/roundfix"
 stars: 1
-language: Go
-last_updated: '2026-07-12T20:35:04Z'
-discovered_at: '2026-07-12T20:42:49Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-12T20:35:04Z"
+discovered_at: "2026-07-12T20:42:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

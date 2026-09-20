@@ -1,30 +1,19 @@
 ---
-title: kariemSeiam/geolink-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- GeoLink API
-- CI/CD (GitHub Actions)
-- Smithery
+title: "kariemSeiam/geolink-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "GeoLink API", "CI/CD (GitHub Actions)", "Smithery"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- geocoding
-- MCP server
-- location intelligence
-- AI agent tools
-- routing
-source: https://github.com/kariemSeiam/geolink-mcp
+deployment_complexity: "Medium"
+tags: ["geocoding", "MCP server", "location intelligence", "AI agent tools", "routing"]
+source: "https://github.com/kariemSeiam/geolink-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-03T18:55:07Z'
-discovered_at: '2026-09-03T19:11:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T18:55:07Z"
+discovered_at: "2026-09-03T19:11:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

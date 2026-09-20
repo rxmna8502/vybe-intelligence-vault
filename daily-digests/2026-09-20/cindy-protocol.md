@@ -1,30 +1,19 @@
 ---
-title: makecindy/cindy-protocol
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- pnpm
-- Git Submodules
-- RESTful API Contracts
-- Type Validation
+title: "makecindy/cindy-protocol"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "pnpm", "Git Submodules", "RESTful API Contracts", "Type Validation"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- wire protocol
-- shared contracts
-- TypeScript schemas
-- cross-platform
-- API validation
-source: https://github.com/makecindy/cindy-protocol
+deployment_complexity: "Medium"
+tags: ["wire protocol", "shared contracts", "TypeScript schemas", "cross-platform", "API validation"]
+source: "https://github.com/makecindy/cindy-protocol"
 stars: 5
-language: TypeScript
-last_updated: '2026-08-07T19:56:25Z'
-discovered_at: '2026-08-07T19:58:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T19:56:25Z"
+discovered_at: "2026-08-07T19:58:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

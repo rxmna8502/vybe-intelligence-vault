@@ -1,36 +1,19 @@
 ---
-title: GDACS-droid/billcommons
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- FastAPI
-- Next.js
-- PostgreSQL
-- SQLAlchemy
-- Alembic
-- Docker
-- Railway
-- Vercel
-- Model Context Protocol (MCP)
-- Streamable HTTP
-- OpenAPI
+title: "GDACS-droid/billcommons"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Next.js", "PostgreSQL", "SQLAlchemy", "Alembic", "Docker", "Railway", "Vercel", "Model Context Protocol (MCP)", "Streamable HTTP", "OpenAPI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- legislative data
-- MCP server
-- open-source
-- REST API
-- search platform
-source: https://github.com/GDACS-droid/billcommons
+deployment_complexity: "Medium"
+tags: ["legislative data", "MCP server", "open-source", "REST API", "search platform"]
+source: "https://github.com/GDACS-droid/billcommons"
 stars: 0
-language: Python
-last_updated: '2026-08-02T21:49:33Z'
-discovered_at: '2026-08-02T21:55:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T21:49:33Z"
+discovered_at: "2026-08-02T21:55:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

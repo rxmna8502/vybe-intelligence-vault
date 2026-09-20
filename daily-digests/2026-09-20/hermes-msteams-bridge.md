@@ -1,33 +1,19 @@
 ---
-title: komaa-com/hermes-msteams-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- Hermes Agent
-- Microsoft Teams API
-- WebSocket
-- HMAC Authentication
-- Azure OpenAI Realtime
-- OpenAI API
-- FFmpeg
-- StandIn Media Bridge
+title: "komaa-com/hermes-msteams-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Hermes Agent", "Microsoft Teams API", "WebSocket", "HMAC Authentication", "Azure OpenAI Realtime", "OpenAI API", "FFmpeg", "StandIn Media Bridge"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Microsoft Teams integration
-- Voice/video bridge
-- Hermes Agent plugin
-- Realtime speech processing
-- Meeting recap generation
-source: https://github.com/komaa-com/hermes-msteams-bridge
+deployment_complexity: "Medium"
+tags: ["Microsoft Teams integration", "Voice/video bridge", "Hermes Agent plugin", "Realtime speech processing", "Meeting recap generation"]
+source: "https://github.com/komaa-com/hermes-msteams-bridge"
 stars: 2
-language: Python
-last_updated: '2026-08-10T17:05:26Z'
-discovered_at: '2026-08-10T17:05:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T17:05:26Z"
+discovered_at: "2026-08-10T17:05:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

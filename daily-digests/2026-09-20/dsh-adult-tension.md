@@ -1,29 +1,19 @@
 ---
-title: daha1216/dsh-adult-tension
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- YAML
-- DeepSeek
-- Grok
-- PyYAML
+title: "daha1216/dsh-adult-tension"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "YAML", "DeepSeek", "Grok", "PyYAML"]
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- NPC Memory
-- Interactive Narrative
-- 18+ Content
-- State Management
-- World Simulation
-source: https://github.com/daha1216/dsh-adult-tension
+deployment_complexity: "Medium"
+tags: ["NPC Memory", "Interactive Narrative", "18+ Content", "State Management", "World Simulation"]
+source: "https://github.com/daha1216/dsh-adult-tension"
 stars: 14
-language: Python
-last_updated: '2026-09-01T09:03:14Z'
-discovered_at: '2026-09-01T09:08:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T09:03:14Z"
+discovered_at: "2026-09-01T09:08:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

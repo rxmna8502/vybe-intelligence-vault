@@ -1,33 +1,19 @@
 ---
-title: bim-ba/ycli
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Python
-- CLI
-- MCP (Model Context Protocol)
-- Pydantic
-- pytest
-- uv
-- Claude Code
-- REST API
-- TypeScript (for Claude Code plugin)
+title: "bim-ba/ycli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "CLI", "MCP (Model Context Protocol)", "Pydantic", "pytest", "uv", "Claude Code", "REST API", "TypeScript (for Claude Code plugin)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Yandex 360
-- CLI toolkit
-- MCP server
-- Python SDK
-- AI agent integration
-source: https://github.com/bim-ba/ycli
+deployment_complexity: "Low"
+tags: ["Yandex 360", "CLI toolkit", "MCP server", "Python SDK", "AI agent integration"]
+source: "https://github.com/bim-ba/ycli"
 stars: 0
-language: Python
-last_updated: '2026-07-11T22:44:38Z'
-discovered_at: '2026-07-11T22:44:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T22:44:38Z"
+discovered_at: "2026-07-11T22:44:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

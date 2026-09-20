@@ -1,33 +1,19 @@
 ---
-title: rm-rf-prod/GroundTruth-MCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- GitHub API
-- Jina Reader
-- npm
-- PyPI
-- crates.io
-- pkg.go.dev
+title: "rm-rf-prod/GroundTruth-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "GitHub API", "Jina Reader", "npm", "PyPI", "crates.io", "pkg.go.dev"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- MCP server
-- live documentation
-- code auditing
-- best practices
-- self-hosted
-source: https://github.com/rm-rf-prod/GroundTruth-MCP
+deployment_complexity: "Low"
+tags: ["MCP server", "live documentation", "code auditing", "best practices", "self-hosted"]
+source: "https://github.com/rm-rf-prod/GroundTruth-MCP"
 stars: 5
-language: TypeScript
-last_updated: '2026-08-05T14:06:08Z'
-discovered_at: '2026-08-05T14:07:07Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T14:06:08Z"
+discovered_at: "2026-08-05T14:07:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

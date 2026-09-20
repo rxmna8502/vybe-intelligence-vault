@@ -1,36 +1,19 @@
 ---
-title: integrallis/vectors
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-20
-tech_stack:
-- Java 25
-- JDK Vector API
-- SIMD
-- ANN Indexes (HNSW, Vamana, IVF-Flat, IVF-PQ)
-- Quantization (SQ8, SQ4, FP16, PQ, BQ/BBQ, RaBitQ, NVQ, TurboQuant)
-- mmap Storage Engine
-- Spring AI
-- LangChain4j
-- Apache Arrow
-- AWS SDK (S3)
-- JMH Benchmarking
-- Gradle
+title: "integrallis/vectors"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Java 25", "JDK Vector API", "SIMD", "ANN Indexes (HNSW, Vamana, IVF-Flat, IVF-PQ)", "Quantization (SQ8, SQ4, FP16, PQ, BQ/BBQ, RaBitQ, NVQ, TurboQuant)", "mmap Storage Engine", "Spring AI", "LangChain4j", "Apache Arrow", "AWS SDK (S3)", "JMH Benchmarking", "Gradle"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector search
-- JVM
-- embedded database
-- ANN indexes
-- Spring AI integration
-source: https://github.com/integrallis/vectors
+deployment_complexity: "Medium"
+tags: ["vector search", "JVM", "embedded database", "ANN indexes", "Spring AI integration"]
+source: "https://github.com/integrallis/vectors"
 stars: 13
-language: Java
-last_updated: '2026-08-07T15:40:25Z'
-discovered_at: '2026-08-07T16:02:53Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-07T15:40:25Z"
+discovered_at: "2026-08-07T16:02:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

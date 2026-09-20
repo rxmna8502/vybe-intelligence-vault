@@ -1,35 +1,19 @@
 ---
-title: priyanshuN/jsonloupe
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- TypeScript
-- JavaScript
-- Web Workers
-- IndexedDB
-- Zstandard (Zstd) compression
-- Base64 encoding/decoding
-- JSONPath
-- CodeMirror
-- React
-- Node.js (for CLI/MCP server)
-- MCP (Model Context Protocol)
+title: "priyanshuN/jsonloupe"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript", "Web Workers", "IndexedDB", "Zstandard (Zstd) compression", "Base64 encoding/decoding", "JSONPath", "CodeMirror", "React", "Node.js (for CLI/MCP server)", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- JSON viewer
-- lossless data processing
-- local-first
-- MCP server
-- spreadsheet conversion
-source: https://github.com/priyanshuN/jsonloupe
+deployment_complexity: "Low"
+tags: ["JSON viewer", "lossless data processing", "local-first", "MCP server", "spreadsheet conversion"]
+source: "https://github.com/priyanshuN/jsonloupe"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T06:51:42Z'
-discovered_at: '2026-08-08T06:52:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T06:51:42Z"
+discovered_at: "2026-08-08T06:52:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

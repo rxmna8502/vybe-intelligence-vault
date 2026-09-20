@@ -1,30 +1,19 @@
 ---
-title: webkubor/vite-plugin-agent-eyes
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Vite
-- TypeScript
-- JavaScript
-- Node.js
-- Browser APIs (fetch, XMLHttpRequest, history)
-- Chrome DevTools Protocol (CDP)
+title: "webkubor/vite-plugin-agent-eyes"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Vite", "TypeScript", "JavaScript", "Node.js", "Browser APIs (fetch, XMLHttpRequest, history)", "Chrome DevTools Protocol (CDP)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI debugging
-- runtime logs
-- pre-commit hooks
-- agent instrumentation
-- Vite plugin
-source: https://github.com/webkubor/vite-plugin-agent-eyes
+deployment_complexity: "Medium"
+tags: ["AI debugging", "runtime logs", "pre-commit hooks", "agent instrumentation", "Vite plugin"]
+source: "https://github.com/webkubor/vite-plugin-agent-eyes"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-15T10:40:46Z'
-discovered_at: '2026-07-15T10:48:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T10:40:46Z"
+discovered_at: "2026-07-15T10:48:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

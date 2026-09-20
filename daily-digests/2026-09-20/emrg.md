@@ -1,33 +1,19 @@
 ---
-title: argszero/emrg
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-20
-tech_stack:
-- Python
-- LLM APIs (OpenAI-compatible)
-- Terminal User Interface (TUI)
-- GitHub CLI
-- Bash
-- YAML
-- Markdown
-- WebSocket
-- pytest
+title: "argszero/emrg"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LLM APIs (OpenAI-compatible)", "Terminal User Interface (TUI)", "GitHub CLI", "Bash", "YAML", "Markdown", "WebSocket", "pytest"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-evolving
-- AI agent
-- terminal assistant
-- autonomous improvement
-- tool execution
-source: https://github.com/argszero/emrg
+deployment_complexity: "Medium"
+tags: ["self-evolving", "AI agent", "terminal assistant", "autonomous improvement", "tool execution"]
+source: "https://github.com/argszero/emrg"
 stars: 0
-language: Python
-last_updated: '2026-08-02T02:21:25Z'
-discovered_at: '2026-08-02T02:34:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T02:21:25Z"
+discovered_at: "2026-08-02T02:34:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
