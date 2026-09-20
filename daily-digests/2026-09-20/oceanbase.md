@@ -1,19 +1,30 @@
 ---
-title: "oceanbase/oceanbase"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C++", "Paxos Protocol", "Distributed Systems", "SQL", "HTAP", "MySQL Compatibility"]
+title: oceanbase/oceanbase
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- C++
+- Paxos Protocol
+- Distributed Systems
+- SQL
+- HTAP
+- MySQL Compatibility
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["distributed database", "HTAP", "scalability", "high availability", "cost-efficient"]
-source: "https://github.com/oceanbase/oceanbase"
+deployment_complexity: High
+tags:
+- distributed database
+- HTAP
+- scalability
+- high availability
+- cost-efficient
+source: https://github.com/oceanbase/oceanbase
 stars: 10232
-language: "C++"
-last_updated: "2026-08-08T01:00:36Z"
-discovered_at: "2026-08-08T01:27:31Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-08T01:00:36Z'
+discovered_at: '2026-08-08T01:27:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "lzy1102/openaide"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "SQLite", "Vector ANN", "REST", "SSE", "MemGPT", "LSP", "Chromium", "YAML"]
+title: lzy1102/openaide
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Go
+- SQLite
+- Vector ANN
+- REST
+- SSE
+- MemGPT
+- LSP
+- Chromium
+- YAML
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agents", "self-learning", "multi-agent systems", "memory management", "tool integration"]
-source: "https://github.com/lzy1102/openaide"
+deployment_complexity: Medium
+tags:
+- AI agents
+- self-learning
+- multi-agent systems
+- memory management
+- tool integration
+source: https://github.com/lzy1102/openaide
 stars: 0
-language: "Go"
-last_updated: "2026-08-08T06:47:34Z"
-discovered_at: "2026-08-08T06:52:31Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T06:47:34Z'
+discovered_at: '2026-08-08T06:52:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

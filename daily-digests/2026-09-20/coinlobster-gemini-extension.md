@@ -1,19 +1,29 @@
 ---
-title: "CoinLobster/coinlobster-gemini-extension"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Gemini CLI", "MCP (Model Context Protocol)", "HTTP/Streamable Transport", "REST API", "Cryptocurrency Data Feeds"]
+title: CoinLobster/coinlobster-gemini-extension
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Gemini CLI
+- MCP (Model Context Protocol)
+- HTTP/Streamable Transport
+- REST API
+- Cryptocurrency Data Feeds
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["crypto", "whale tracking", "market analysis", "real-time data", "Gemini CLI"]
-source: "https://github.com/CoinLobster/coinlobster-gemini-extension"
+deployment_complexity: Low
+tags:
+- crypto
+- whale tracking
+- market analysis
+- real-time data
+- Gemini CLI
+source: https://github.com/CoinLobster/coinlobster-gemini-extension
 stars: 1
-language: "None"
-last_updated: "2026-08-07T06:02:50Z"
-discovered_at: "2026-08-07T06:13:28Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T06:02:50Z'
+discovered_at: '2026-08-07T06:13:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

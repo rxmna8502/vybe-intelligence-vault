@@ -1,19 +1,38 @@
 ---
-title: "Memstem/memstem"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "FTS5 (Full-Text Search)", "sqlite-vec (Vector Search)", "MCP (Model Context Protocol)", "Markdown", "Ollama", "OpenAI API", "Gemini API", "Voyage API", "FastAPI", "asyncio", "inotify", "FSEvents"]
+title: Memstem/memstem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite
+- FTS5 (Full-Text Search)
+- sqlite-vec (Vector Search)
+- MCP (Model Context Protocol)
+- Markdown
+- Ollama
+- OpenAI API
+- Gemini API
+- Voyage API
+- FastAPI
+- asyncio
+- inotify
+- FSEvents
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory management", "AI agents", "hybrid search", "MCP server", "filesystem watcher"]
-source: "https://github.com/Memstem/memstem"
+deployment_complexity: Medium
+tags:
+- memory management
+- AI agents
+- hybrid search
+- MCP server
+- filesystem watcher
+source: https://github.com/Memstem/memstem
 stars: 5
-language: "Python"
-last_updated: "2026-08-01T17:49:55Z"
-discovered_at: "2026-08-01T18:00:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T17:49:55Z'
+discovered_at: '2026-08-01T18:00:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

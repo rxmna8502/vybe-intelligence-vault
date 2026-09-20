@@ -1,19 +1,31 @@
 ---
-title: "yunkon-kim/agent-parkour"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "CLI", "Markdown", "YAML", "AST Parsing", "Generative AI (Optional)", "Shell Scripting"]
+title: yunkon-kim/agent-parkour
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Go
+- CLI
+- Markdown
+- YAML
+- AST Parsing
+- Generative AI (Optional)
+- Shell Scripting
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["prompt management", "AI agent synchronization", "context optimization", "zero-cost", "multi-IDE support"]
-source: "https://github.com/yunkon-kim/agent-parkour"
+deployment_complexity: Low
+tags:
+- prompt management
+- AI agent synchronization
+- context optimization
+- zero-cost
+- multi-IDE support
+source: https://github.com/yunkon-kim/agent-parkour
 stars: 0
-language: "Go"
-last_updated: "2026-09-03T08:29:42Z"
-discovered_at: "2026-09-03T08:32:01Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-03T08:29:42Z'
+discovered_at: '2026-09-03T08:32:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

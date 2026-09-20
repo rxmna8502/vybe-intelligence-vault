@@ -1,19 +1,29 @@
 ---
-title: "fumoctl/AbacusAI-Nix"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Nix", "Nix Flakes", "Shell", "NixOS", "Linux"]
+title: fumoctl/AbacusAI-Nix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Nix
+- Nix Flakes
+- Shell
+- NixOS
+- Linux
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["Nix", "Abacus AI", "CLI", "Desktop Application", "Packaging"]
-source: "https://github.com/fumoctl/AbacusAI-Nix"
+deployment_complexity: Medium
+tags:
+- Nix
+- Abacus AI
+- CLI
+- Desktop Application
+- Packaging
+source: https://github.com/fumoctl/AbacusAI-Nix
 stars: 0
-language: "Shell"
-last_updated: "2026-08-10T13:08:09Z"
-discovered_at: "2026-08-10T13:08:51Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-10T13:08:09Z'
+discovered_at: '2026-08-10T13:08:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

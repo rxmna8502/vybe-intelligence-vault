@@ -1,19 +1,34 @@
 ---
-title: "CopilotKit/CopilotKit"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Angular", "Vue", "React Native", "Slack API", "Microsoft Teams API", "AG-UI Protocol", "LLM Integration (OpenAI, Anthropic, Gemini)", "Node.js"]
+title: CopilotKit/CopilotKit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- React
+- Angular
+- Vue
+- React Native
+- Slack API
+- Microsoft Teams API
+- AG-UI Protocol
+- LLM Integration (OpenAI, Anthropic, Gemini)
+- Node.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agentic applications", "generative UI", "multi-platform", "human-in-the-loop", "AG-UI Protocol"]
-source: "https://github.com/CopilotKit/CopilotKit"
+deployment_complexity: Medium
+tags:
+- agentic applications
+- generative UI
+- multi-platform
+- human-in-the-loop
+- AG-UI Protocol
+source: https://github.com/CopilotKit/CopilotKit
 stars: 37145
-language: "TypeScript"
-last_updated: "2026-09-01T15:49:00Z"
-discovered_at: "2026-09-01T15:53:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T15:49:00Z'
+discovered_at: '2026-09-01T15:53:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

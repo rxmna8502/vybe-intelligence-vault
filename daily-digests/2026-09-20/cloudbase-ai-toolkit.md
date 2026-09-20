@@ -1,19 +1,34 @@
 ---
-title: "TencentCloudBase/CloudBase-AI-Toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Tencent CloudBase", "PostgreSQL", "Document Database", "Cloud Functions", "Static Hosting", "Auth Systems", "Open Plugin Spec"]
+title: TencentCloudBase/CloudBase-AI-Toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Tencent CloudBase
+- PostgreSQL
+- Document Database
+- Cloud Functions
+- Static Hosting
+- Auth Systems
+- Open Plugin Spec
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI backend integration", "MCP server", "Cloud functions", "Agent skills", "Tencent Cloud"]
-source: "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+deployment_complexity: Medium
+tags:
+- AI backend integration
+- MCP server
+- Cloud functions
+- Agent skills
+- Tencent Cloud
+source: https://github.com/TencentCloudBase/CloudBase-AI-Toolkit
 stars: 1066
-language: "TypeScript"
-last_updated: "2026-08-03T10:41:36Z"
-discovered_at: "2026-08-03T10:44:01Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T10:41:36Z'
+discovered_at: '2026-08-03T10:44:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

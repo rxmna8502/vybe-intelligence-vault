@@ -1,19 +1,33 @@
 ---
-title: "Dataojitori/nocturne_memory"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "PostgreSQL", "React", "Vite", "TailwindCSS", "Model Context Protocol (MCP)", "Aho-Corasick algorithm"]
+title: Dataojitori/nocturne_memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- PostgreSQL
+- React
+- Vite
+- TailwindCSS
+- Model Context Protocol (MCP)
+- Aho-Corasick algorithm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Long-term memory", "MCP protocol", "Sovereign AI", "Structured memory", "Agent autonomy"]
-source: "https://github.com/Dataojitori/nocturne_memory"
+deployment_complexity: Medium
+tags:
+- Long-term memory
+- MCP protocol
+- Sovereign AI
+- Structured memory
+- Agent autonomy
+source: https://github.com/Dataojitori/nocturne_memory
 stars: 1272
-language: "Python"
-last_updated: "2026-07-20T20:59:35Z"
-discovered_at: "2026-07-20T21:11:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T20:59:35Z'
+discovered_at: '2026-07-20T21:11:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

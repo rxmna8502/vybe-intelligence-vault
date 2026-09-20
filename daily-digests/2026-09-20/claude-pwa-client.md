@@ -1,19 +1,36 @@
 ---
-title: "Synforger/claude-pwa-client"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Python", "FastAPI", "TypeScript", "React", "Tailscale", "Tmux", "Web Push (VAPID)", "SSE (Server-Sent Events)", "JSONL", "Go-Task", "Sunshine", "moonlight-web-stream"]
+title: Synforger/claude-pwa-client
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastAPI
+- TypeScript
+- React
+- Tailscale
+- Tmux
+- Web Push (VAPID)
+- SSE (Server-Sent Events)
+- JSONL
+- Go-Task
+- Sunshine
+- moonlight-web-stream
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["PWA", "Claude Code", "Self-hosted", "Mobile Interface", "Tailscale"]
-source: "https://github.com/Synforger/claude-pwa-client"
+deployment_complexity: Medium
+tags:
+- PWA
+- Claude Code
+- Self-hosted
+- Mobile Interface
+- Tailscale
+source: https://github.com/Synforger/claude-pwa-client
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T11:56:59Z"
-discovered_at: "2026-07-12T11:58:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T11:56:59Z'
+discovered_at: '2026-07-12T11:58:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "andypgray/loadbearing"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET", "System.CommandLine", "xUnit", "SARIF", "MCP (Model Context Protocol)", "NuGet"]
+title: andypgray/loadbearing
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- C#
+- .NET
+- System.CommandLine
+- xUnit
+- SARIF
+- MCP (Model Context Protocol)
+- NuGet
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["architecture-as-code", "code enforcement", "AI agent context", "CI/CD integration", "C# tooling"]
-source: "https://github.com/andypgray/loadbearing"
+deployment_complexity: Medium
+tags:
+- architecture-as-code
+- code enforcement
+- AI agent context
+- CI/CD integration
+- C# tooling
+source: https://github.com/andypgray/loadbearing
 stars: 0
-language: "C#"
-last_updated: "2026-08-03T18:38:26Z"
-discovered_at: "2026-08-03T18:53:42Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-03T18:38:26Z'
+discovered_at: '2026-08-03T18:53:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

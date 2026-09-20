@@ -1,19 +1,35 @@
 ---
-title: "morluto/jacobian"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "TypeScript", "Node.js", "Lean 4", "SAT/SMT solvers", "FLINT/Arb", "CVC5", "CaDiCaL", "Caddy", "Tailscale"]
+title: morluto/jacobian
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- TypeScript
+- Node.js
+- Lean 4
+- SAT/SMT solvers
+- FLINT/Arb
+- CVC5
+- CaDiCaL
+- Caddy
+- Tailscale
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["mathematical verification", "agent toolkit", "independent checker", "exact computation", "MCP server"]
-source: "https://github.com/morluto/jacobian"
+deployment_complexity: Medium
+tags:
+- mathematical verification
+- agent toolkit
+- independent checker
+- exact computation
+- MCP server
+source: https://github.com/morluto/jacobian
 stars: 11
-language: "Python"
-last_updated: "2026-08-01T09:04:54Z"
-discovered_at: "2026-08-01T09:06:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T09:04:54Z'
+discovered_at: '2026-08-01T09:06:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

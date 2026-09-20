@@ -1,19 +1,39 @@
 ---
-title: "meshackbahati/circuit-muse"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Vite", "Rust", "Tauri", "Python", "FastAPI", "QEMU", "avr8js", "rp2040js", "ngspice-WASM", "Monaco Editor", "Zustand", "Node.js", "Docker"]
+title: meshackbahati/circuit-muse
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Rust
+- Tauri
+- Python
+- FastAPI
+- QEMU
+- avr8js
+- rp2040js
+- ngspice-WASM
+- Monaco Editor
+- Zustand
+- Node.js
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["circuit simulation", "embedded development", "AI-assisted design", "microcontroller emulation", "local AI"]
-source: "https://github.com/meshackbahati/circuit-muse"
+deployment_complexity: Medium
+tags:
+- circuit simulation
+- embedded development
+- AI-assisted design
+- microcontroller emulation
+- local AI
+source: https://github.com/meshackbahati/circuit-muse
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-18T09:23:23Z"
-discovered_at: "2026-07-18T09:23:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T09:23:23Z'
+discovered_at: '2026-07-18T09:23:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

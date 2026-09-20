@@ -1,19 +1,30 @@
 ---
-title: "kau10082/slide-verify"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Skills", "PubMed API", "Crossref", "MCP (Model Context Protocol)", "Python (for skill logic)", "Markdown"]
+title: kau10082/slide-verify
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Claude Skills
+- PubMed API
+- Crossref
+- MCP (Model Context Protocol)
+- Python (for skill logic)
+- Markdown
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["medical slide verification", "citation checking", "PubMed integration", "slide reordering", "plain language rewrite"]
-source: "https://github.com/kau10082/slide-verify"
+deployment_complexity: Medium
+tags:
+- medical slide verification
+- citation checking
+- PubMed integration
+- slide reordering
+- plain language rewrite
+source: https://github.com/kau10082/slide-verify
 stars: 0
-language: "None"
-last_updated: "2026-07-10T10:46:21Z"
-discovered_at: "2026-07-10T10:51:52Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-10T10:46:21Z'
+discovered_at: '2026-07-10T10:51:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

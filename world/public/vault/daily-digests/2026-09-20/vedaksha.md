@@ -1,19 +1,37 @@
 ---
-title: "arthiqlabs/vedaksha"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Python", "WebAssembly (WASM)", "PyO3", "Model Context Protocol (MCP)", "Chebyshev polynomials", "VSOP87A", "ELP/MPP02", "JPL DE440/DE441", "Cypher", "SurrealQL", "JSON-LD", "Docker"]
+title: arthiqlabs/vedaksha
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Rust
+- Python
+- WebAssembly (WASM)
+- PyO3
+- Model Context Protocol (MCP)
+- Chebyshev polynomials
+- VSOP87A
+- ELP/MPP02
+- JPL DE440/DE441
+- Cypher
+- SurrealQL
+- JSON-LD
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["ephemeris", "Vedic astrology", "property graph", "agentic AI", "astronomical computation"]
-source: "https://github.com/arthiqlabs/vedaksha"
+deployment_complexity: Medium
+tags:
+- ephemeris
+- Vedic astrology
+- property graph
+- agentic AI
+- astronomical computation
+source: https://github.com/arthiqlabs/vedaksha
 stars: 1
-language: "Rust"
-last_updated: "2026-07-16T19:57:02Z"
-discovered_at: "2026-07-16T20:02:39Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-16T19:57:02Z'
+discovered_at: '2026-07-16T20:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

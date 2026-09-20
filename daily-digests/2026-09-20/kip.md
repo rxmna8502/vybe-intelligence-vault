@@ -1,19 +1,30 @@
 ---
-title: "ldclabs/KIP"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Cloudflare Durable Objects", "Graph-based memory systems", "KQL (Knowledge Query Language)", "KML (Knowledge Manipulation Language)", "META (Metadata and Discovery Language)"]
+title: ldclabs/KIP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- Cloudflare Durable Objects
+- Graph-based memory systems
+- KQL (Knowledge Query Language)
+- KML (Knowledge Manipulation Language)
+- META (Metadata and Discovery Language)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["experience learning", "memory graph", "AI agent orchestration", "knowledge retention", "provenance tracking"]
-source: "https://github.com/ldclabs/KIP"
+deployment_complexity: Medium
+tags:
+- experience learning
+- memory graph
+- AI agent orchestration
+- knowledge retention
+- provenance tracking
+source: https://github.com/ldclabs/KIP
 stars: 81
-language: "HTML"
-last_updated: "2026-09-02T15:45:31Z"
-discovered_at: "2026-09-02T15:50:35Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-02T15:45:31Z'
+discovered_at: '2026-09-02T15:50:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

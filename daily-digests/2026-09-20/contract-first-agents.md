@@ -1,19 +1,28 @@
 ---
-title: "reactflowbrasil-lgtm/contract-first-agents"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Windows", "Python (implied for backend logic)", "Electron (implied for UI if packaged as .exe/.msi)", "LLM APIs (for agent execution)"]
+title: reactflowbrasil-lgtm/contract-first-agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Windows
+- Python (implied for backend logic)
+- Electron (implied for UI if packaged as .exe/.msi)
+- LLM APIs (for agent execution)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["multi-agent coordination", "contract-first design", "map-reduce workflow", "AI orchestration", "Windows application"]
-source: "https://github.com/reactflowbrasil-lgtm/contract-first-agents"
+deployment_complexity: Low
+tags:
+- multi-agent coordination
+- contract-first design
+- map-reduce workflow
+- AI orchestration
+- Windows application
+source: https://github.com/reactflowbrasil-lgtm/contract-first-agents
 stars: 1
-language: "None"
-last_updated: "2026-08-05T21:21:33Z"
-discovered_at: "2026-08-05T22:15:14Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-05T21:21:33Z'
+discovered_at: '2026-08-05T22:15:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

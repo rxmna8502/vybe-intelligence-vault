@@ -1,19 +1,32 @@
 ---
-title: "1ay1/agentty"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C++26", "BM25", "HNSW (Hierarchical Navigable Small World)", "RRF (Reciprocal Rank Fusion)", "GraphRAG", "Ollama", "Bash", "Sandboxing (bwrap/sandbox-exec)"]
+title: 1ay1/agentty
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- C++26
+- BM25
+- HNSW (Hierarchical Navigable Small World)
+- RRF (Reciprocal Rank Fusion)
+- GraphRAG
+- Ollama
+- Bash
+- Sandboxing (bwrap/sandbox-exec)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["terminal agent", "local RAG", "LLM integration", "sandboxed execution", "multi-model support"]
-source: "https://github.com/1ay1/agentty"
+deployment_complexity: Medium
+tags:
+- terminal agent
+- local RAG
+- LLM integration
+- sandboxed execution
+- multi-model support
+source: https://github.com/1ay1/agentty
 stars: 598
-language: "C++"
-last_updated: "2026-09-01T09:01:57Z"
-discovered_at: "2026-09-01T09:08:26Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-09-01T09:01:57Z'
+discovered_at: '2026-09-01T09:08:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

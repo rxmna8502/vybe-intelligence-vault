@@ -13,13 +13,14 @@ collected_at: '2026-09-20T18:38:43.862907+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:if-ai-coding-is-lowering-your-code-quality-you-re
 first_seen: '2026-09-20T18:38:43.862907+05:30'
 last_seen: '2026-09-20T18:38:43.862907+05:30'
 last_checked: '2026-09-20T18:38:43.862907+05:30'
 health_score: 100
 ---
+
 
 # If AI coding is lowering your code quality, you're not managing quality right
 

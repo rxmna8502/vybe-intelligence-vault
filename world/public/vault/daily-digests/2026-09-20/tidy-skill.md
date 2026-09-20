@@ -1,19 +1,30 @@
 ---
-title: "Phoenix0531-sudo/tidy-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PowerShell", "WSL2", "Docker", "Shell Scripting", "Markdown"]
+title: Phoenix0531-sudo/tidy-skill
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Python
+- PowerShell
+- WSL2
+- Docker
+- Shell Scripting
+- Markdown
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["agent hygiene", "workspace cleanup", "WSL2 auditing", "Docker footprint analysis", "artifact management"]
-source: "https://github.com/Phoenix0531-sudo/tidy-skill"
+deployment_complexity: Medium
+tags:
+- agent hygiene
+- workspace cleanup
+- WSL2 auditing
+- Docker footprint analysis
+- artifact management
+source: https://github.com/Phoenix0531-sudo/tidy-skill
 stars: 18
-language: "PowerShell"
-last_updated: "2026-07-21T15:02:24Z"
-discovered_at: "2026-07-21T15:03:24Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-07-21T15:02:24Z'
+discovered_at: '2026-07-21T15:03:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

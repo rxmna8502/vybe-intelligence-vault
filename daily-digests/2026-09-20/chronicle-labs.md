@@ -1,19 +1,29 @@
 ---
-title: "api-evangelist/chronicle-labs"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "AI Agents", "Data Pipeline", "Testing Infrastructure", "Y Combinator"]
+title: api-evangelist/chronicle-labs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- AI Agents
+- Data Pipeline
+- Testing Infrastructure
+- Y Combinator
 quality_score: 5
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent testing", "production data simulation", "workflow reconstruction", "agent validation", "Y Combinator"]
-source: "https://github.com/api-evangelist/chronicle-labs"
+deployment_complexity: Medium
+tags:
+- AI agent testing
+- production data simulation
+- workflow reconstruction
+- agent validation
+- Y Combinator
+source: https://github.com/api-evangelist/chronicle-labs
 stars: 0
-language: "None"
-last_updated: "2026-08-02T21:55:29Z"
-discovered_at: "2026-08-02T21:55:56Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-02T21:55:29Z'
+discovered_at: '2026-08-02T21:55:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

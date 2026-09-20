@@ -1,19 +1,29 @@
 ---
-title: "sekharsdet/five46"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Playwright", "LLM APIs (OpenAI, Anthropic, Gemini, Groq, AWS Bedrock)", "MCP Server"]
+title: sekharsdet/five46
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Playwright
+- LLM APIs (OpenAI, Anthropic, Gemini, Groq, AWS Bedrock)
+- MCP Server
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous testing", "AI-driven QA", "local LLM integration", "Playwright", "regression testing"]
-source: "https://github.com/sekharsdet/five46"
+deployment_complexity: Medium
+tags:
+- autonomous testing
+- AI-driven QA
+- local LLM integration
+- Playwright
+- regression testing
+source: https://github.com/sekharsdet/five46
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T15:30:47Z"
-discovered_at: "2026-08-04T15:34:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T15:30:47Z'
+discovered_at: '2026-08-04T15:34:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

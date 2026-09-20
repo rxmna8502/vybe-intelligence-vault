@@ -1,19 +1,30 @@
 ---
-title: "virtualsms-io/cursor-rules-sms-verification"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "Node.js", "npm", "JSON", "WebSocket", "SIM-based verification"]
+title: virtualsms-io/cursor-rules-sms-verification
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- MCP (Model Context Protocol)
+- Node.js
+- npm
+- JSON
+- WebSocket
+- SIM-based verification
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["SMS verification", "MCP server", "account verification", "real SIM cards", "AI agent tools"]
-source: "https://github.com/virtualsms-io/cursor-rules-sms-verification"
+deployment_complexity: Low
+tags:
+- SMS verification
+- MCP server
+- account verification
+- real SIM cards
+- AI agent tools
+source: https://github.com/virtualsms-io/cursor-rules-sms-verification
 stars: 0
-language: "None"
-last_updated: "2026-07-19T07:11:44Z"
-discovered_at: "2026-07-19T07:29:59Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-19T07:11:44Z'
+discovered_at: '2026-07-19T07:29:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

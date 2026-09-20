@@ -1,19 +1,36 @@
 ---
-title: "trimoyee-g/AlgoLog"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "React", "PostgreSQL", "pgvector", "MCP (Model Context Protocol)", "Supabase", "SM-2 Spaced Repetition", "Sentence Transformers", "Docker", "Ollama", "Gemini API"]
+title: trimoyee-g/AlgoLog
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- pgvector
+- MCP (Model Context Protocol)
+- Supabase
+- SM-2 Spaced Repetition
+- Sentence Transformers
+- Docker
+- Ollama
+- Gemini API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["competitive programming", "spaced repetition", "self-hosted", "problem logging", "AI-assisted learning"]
-source: "https://github.com/trimoyee-g/AlgoLog"
+deployment_complexity: Medium
+tags:
+- competitive programming
+- spaced repetition
+- self-hosted
+- problem logging
+- AI-assisted learning
+source: https://github.com/trimoyee-g/AlgoLog
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T18:12:49Z"
-discovered_at: "2026-08-05T18:24:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T18:12:49Z'
+discovered_at: '2026-08-05T18:24:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

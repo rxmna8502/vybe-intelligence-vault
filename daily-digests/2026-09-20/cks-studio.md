@@ -1,19 +1,35 @@
 ---
-title: "Deus-corp/cks-studio"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "React 19", "Vite", "React Flow", "Dagre", "Zustand", "Tailwind CSS v4", "Vitest", "Biome", "@modelcontextprotocol/sdk", "Node.js"]
+title: Deus-corp/cks-studio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- React 19
+- Vite
+- React Flow
+- Dagre
+- Zustand
+- Tailwind CSS v4
+- Vitest
+- Biome
+- '@modelcontextprotocol/sdk'
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["knowledge graph", "visualization", "MCP", "LLM interface", "interactive UI"]
-source: "https://github.com/Deus-corp/cks-studio"
+deployment_complexity: Medium
+tags:
+- knowledge graph
+- visualization
+- MCP
+- LLM interface
+- interactive UI
+source: https://github.com/Deus-corp/cks-studio
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T20:34:13Z"
-discovered_at: "2026-08-09T20:35:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T20:34:13Z'
+discovered_at: '2026-08-09T20:35:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

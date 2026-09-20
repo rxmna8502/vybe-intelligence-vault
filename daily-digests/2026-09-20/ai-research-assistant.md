@@ -1,19 +1,30 @@
 ---
-title: "jwna166-png/ai-research-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["LangChain", "Claude (Anthropic API)", "Python", "Pydantic", "DuckDuckGo Search", "Wikipedia API"]
+title: jwna166-png/ai-research-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- LangChain
+- Claude (Anthropic API)
+- Python
+- Pydantic
+- DuckDuckGo Search
+- Wikipedia API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agent", "multi-source retrieval", "structured output", "research assistant", "tool-calling"]
-source: "https://github.com/jwna166-png/ai-research-assistant"
+deployment_complexity: Medium
+tags:
+- autonomous agent
+- multi-source retrieval
+- structured output
+- research assistant
+- tool-calling
+source: https://github.com/jwna166-png/ai-research-assistant
 stars: 0
-language: "Python"
-last_updated: "2026-07-16T12:16:36Z"
-discovered_at: "2026-07-16T12:22:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T12:16:36Z'
+discovered_at: '2026-07-16T12:22:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

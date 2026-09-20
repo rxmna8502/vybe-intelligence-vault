@@ -1,19 +1,30 @@
 ---
-title: "CSOAI-ORG/api-docs-generator-ai-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "OpenAPI/Swagger", "EU AI Act compliance frameworks", "HMAC-SHA256 attestations", "PyPI packaging"]
+title: CSOAI-ORG/api-docs-generator-ai-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- OpenAPI/Swagger
+- EU AI Act compliance frameworks
+- HMAC-SHA256 attestations
+- PyPI packaging
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["OpenAPI generation", "MCP server", "EU AI Act compliance", "REST API documentation", "Natural language processing"]
-source: "https://github.com/CSOAI-ORG/api-docs-generator-ai-mcp"
+deployment_complexity: Low
+tags:
+- OpenAPI generation
+- MCP server
+- EU AI Act compliance
+- REST API documentation
+- Natural language processing
+source: https://github.com/CSOAI-ORG/api-docs-generator-ai-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T16:33:59Z"
-discovered_at: "2026-08-08T16:35:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:33:59Z'
+discovered_at: '2026-08-08T16:35:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

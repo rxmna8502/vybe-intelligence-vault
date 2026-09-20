@@ -1,19 +1,33 @@
 ---
-title: "fxl1209739475-fxl/ai-xunjian"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Vite", "Node.js", "FFmpeg", "faster-whisper", "LLM CLI (e.g., Claude Code)", "Mermaid.js", "Tailwind CSS"]
+title: fxl1209739475-fxl/ai-xunjian
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Node.js
+- FFmpeg
+- faster-whisper
+- LLM CLI (e.g., Claude Code)
+- Mermaid.js
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI video editing", "automated rough cut", "visual timeline editor", "local processing", "open-source"]
-source: "https://github.com/fxl1209739475-fxl/ai-xunjian"
+deployment_complexity: Medium
+tags:
+- AI video editing
+- automated rough cut
+- visual timeline editor
+- local processing
+- open-source
+source: https://github.com/fxl1209739475-fxl/ai-xunjian
 stars: 28
-language: "TypeScript"
-last_updated: "2026-08-07T02:37:08Z"
-discovered_at: "2026-08-07T02:42:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T02:37:08Z'
+discovered_at: '2026-08-07T02:42:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

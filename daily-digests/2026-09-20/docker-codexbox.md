@@ -1,19 +1,33 @@
 ---
-title: "psyb0t/docker-codexbox"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Docker", "OpenAI Codex CLI", "Shell", "Python", "Node.js", "FastAPI", "Telegram Bot API", "Cron", "MCP Server"]
+title: psyb0t/docker-codexbox
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Docker
+- OpenAI Codex CLI
+- Shell
+- Python
+- Node.js
+- FastAPI
+- Telegram Bot API
+- Cron
+- MCP Server
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Codex", "Dockerized AI", "API Endpoint", "MCP Server", "Telegram Integration"]
-source: "https://github.com/psyb0t/docker-codexbox"
+deployment_complexity: Medium
+tags:
+- Codex
+- Dockerized AI
+- API Endpoint
+- MCP Server
+- Telegram Integration
+source: https://github.com/psyb0t/docker-codexbox
 stars: 0
-language: "Shell"
-last_updated: "2026-08-01T17:58:33Z"
-discovered_at: "2026-08-01T17:59:56Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-01T17:58:33Z'
+discovered_at: '2026-08-01T17:59:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

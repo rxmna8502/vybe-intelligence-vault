@@ -1,19 +1,31 @@
 ---
-title: "bitranox/vnc-remote-control"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "RFB/VNC Protocol", "Pillow (for PNG screenshots)", "Tesseract OCR", "Rich-Click (CLI styling)", "Ruff (code style)", "Bandit (security)"]
+title: bitranox/vnc-remote-control
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- RFB/VNC Protocol
+- Pillow (for PNG screenshots)
+- Tesseract OCR
+- Rich-Click (CLI styling)
+- Ruff (code style)
+- Bandit (security)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["VNC automation", "OCR-based interaction", "headless GUI control", "legacy system automation", "remote administration"]
-source: "https://github.com/bitranox/vnc-remote-control"
+deployment_complexity: Low
+tags:
+- VNC automation
+- OCR-based interaction
+- headless GUI control
+- legacy system automation
+- remote administration
+source: https://github.com/bitranox/vnc-remote-control
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T17:58:56Z"
-discovered_at: "2026-07-14T18:02:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T17:58:56Z'
+discovered_at: '2026-07-14T18:02:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

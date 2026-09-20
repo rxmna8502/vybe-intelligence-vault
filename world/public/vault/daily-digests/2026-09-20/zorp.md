@@ -1,19 +1,31 @@
 ---
-title: "aviskaar/zorp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "DuckDB", "LanceDB", "OpenTelemetry", "Git", "Claude Code"]
+title: aviskaar/zorp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- DuckDB
+- LanceDB
+- OpenTelemetry
+- Git
+- Claude Code
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["research automation", "evidence-based reasoning", "scientific discovery", "agent framework", "pre-registration"]
-source: "https://github.com/aviskaar/zorp"
+deployment_complexity: Medium
+tags:
+- research automation
+- evidence-based reasoning
+- scientific discovery
+- agent framework
+- pre-registration
+source: https://github.com/aviskaar/zorp
 stars: 3
-language: "Rust"
-last_updated: "2026-09-01T19:01:27Z"
-discovered_at: "2026-09-01T19:05:51Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-01T19:01:27Z'
+discovered_at: '2026-09-01T19:05:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

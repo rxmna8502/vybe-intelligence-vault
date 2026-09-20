@@ -1,19 +1,29 @@
 ---
-title: "tygryso/hypotree"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite-WAL", "Model Context Protocol (MCP)", "Beta distribution sampling", "ATMS (Assumption-based Truth Maintenance System)"]
+title: tygryso/hypotree
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- SQLite-WAL
+- Model Context Protocol (MCP)
+- Beta distribution sampling
+- ATMS (Assumption-based Truth Maintenance System)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["belief revision", "hypothesis DAG", "MCP server", "agent memory", "automatic pruning"]
-source: "https://github.com/tygryso/hypotree"
+deployment_complexity: Medium
+tags:
+- belief revision
+- hypothesis DAG
+- MCP server
+- agent memory
+- automatic pruning
+source: https://github.com/tygryso/hypotree
 stars: 11
-language: "Python"
-last_updated: "2026-08-08T12:37:02Z"
-discovered_at: "2026-08-08T12:47:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T12:37:02Z'
+discovered_at: '2026-08-08T12:47:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

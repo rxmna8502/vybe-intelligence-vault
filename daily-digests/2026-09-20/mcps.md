@@ -1,19 +1,32 @@
 ---
-title: "AceDataCloud/MCPs"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "GitHub Actions", "PyPI", "VS Code Marketplace", "JetBrains Marketplace", "Smithery", "CalVer (Versioning)"]
+title: AceDataCloud/MCPs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- GitHub Actions
+- PyPI
+- VS Code Marketplace
+- JetBrains Marketplace
+- Smithery
+- CalVer (Versioning)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP servers", "multi-modal", "automated publishing", "monorepo", "AI tooling"]
-source: "https://github.com/AceDataCloud/MCPs"
+deployment_complexity: Medium
+tags:
+- MCP servers
+- multi-modal
+- automated publishing
+- monorepo
+- AI tooling
+source: https://github.com/AceDataCloud/MCPs
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T03:31:14Z"
-discovered_at: "2026-08-01T03:44:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T03:31:14Z'
+discovered_at: '2026-08-01T03:44:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

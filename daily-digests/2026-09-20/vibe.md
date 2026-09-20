@@ -1,19 +1,32 @@
 ---
-title: "vector-index-bench/vibe"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Apptainer/Singularity", "Slurm", "NVIDIA CUDA", "Intel MKL", "HDF5", "PyTorch", "NumPy"]
+title: vector-index-bench/vibe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Apptainer/Singularity
+- Slurm
+- NVIDIA CUDA
+- Intel MKL
+- HDF5
+- PyTorch
+- NumPy
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["vector search", "benchmarking", "ANN", "embedding evaluation", "nearest neighbor"]
-source: "https://github.com/vector-index-bench/vibe"
+deployment_complexity: High
+tags:
+- vector search
+- benchmarking
+- ANN
+- embedding evaluation
+- nearest neighbor
+source: https://github.com/vector-index-bench/vibe
 stars: 47
-language: "Python"
-last_updated: "2026-08-07T11:00:39Z"
-discovered_at: "2026-08-07T11:05:20Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:00:39Z'
+discovered_at: '2026-08-07T11:05:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

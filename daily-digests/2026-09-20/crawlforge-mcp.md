@@ -1,19 +1,32 @@
 ---
-title: "mysleekdesigns/crawlforge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "Model Context Protocol (MCP)", "Ollama", "Chromium", "REST API", "Docker"]
+title: mysleekdesigns/crawlforge-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- Model Context Protocol (MCP)
+- Ollama
+- Chromium
+- REST API
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["web scraping", "MCP server", "autonomous extraction", "local LLM", "data processing"]
-source: "https://github.com/mysleekdesigns/crawlforge-mcp"
+deployment_complexity: Medium
+tags:
+- web scraping
+- MCP server
+- autonomous extraction
+- local LLM
+- data processing
+source: https://github.com/mysleekdesigns/crawlforge-mcp
 stars: 2
-language: "JavaScript"
-last_updated: "2026-09-03T22:01:31Z"
-discovered_at: "2026-09-03T22:09:35Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T22:01:31Z'
+discovered_at: '2026-09-03T22:09:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,37 @@
 ---
-title: "actionhero/keryx"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Drizzle ORM", "Zod", "Node-Resque", "Redis", "PostgreSQL", "MCP (Model Context Protocol)", "OAuth 2.1", "Vite", "React", "SSE (Server-Sent Events)", "OpenAPI"]
+title: actionhero/keryx
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Bun
+- Drizzle ORM
+- Zod
+- Node-Resque
+- Redis
+- PostgreSQL
+- MCP (Model Context Protocol)
+- OAuth 2.1
+- Vite
+- React
+- SSE (Server-Sent Events)
+- OpenAPI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP integration", "unified actions", "TypeScript framework", "AI agent tools", "backend orchestration"]
-source: "https://github.com/actionhero/keryx"
+deployment_complexity: Medium
+tags:
+- MCP integration
+- unified actions
+- TypeScript framework
+- AI agent tools
+- backend orchestration
+source: https://github.com/actionhero/keryx
 stars: 32
-language: "TypeScript"
-last_updated: "2026-07-16T05:37:49Z"
-discovered_at: "2026-07-16T05:39:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T05:37:49Z'
+discovered_at: '2026-07-16T05:39:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

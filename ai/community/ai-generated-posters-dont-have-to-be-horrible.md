@@ -13,13 +13,14 @@ collected_at: '2026-09-20T18:38:41.865691+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-generated-posters-dont-have-to-be-horrible
 first_seen: '2026-09-19T18:06:14.222839+05:30'
 last_seen: '2026-09-20T18:38:41.865691+05:30'
 last_checked: '2026-09-20T18:38:41.865691+05:30'
 health_score: 100
 ---
+
 
 # AI-generated posters don’t have to be horrible
 

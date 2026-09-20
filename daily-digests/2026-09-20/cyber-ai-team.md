@@ -1,19 +1,40 @@
 ---
-title: "Hyper-AI-Lab/cyber-ai-team"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "LangGraph", "CrewAI", "Temporal", "Qdrant", "PostgreSQL", "ERPNext", "Next.js", "React", "Tailwind CSS", "Redis", "Docker Compose", "Prometheus", "Grafana", "Python", "TypeScript"]
+title: Hyper-AI-Lab/cyber-ai-team
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- FastAPI
+- LangGraph
+- CrewAI
+- Temporal
+- Qdrant
+- PostgreSQL
+- ERPNext
+- Next.js
+- React
+- Tailwind CSS
+- Redis
+- Docker Compose
+- Prometheus
+- Grafana
+- Python
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["autonomous agents", "multi-agent orchestration", "ERP integration", "long-term memory", "self-hosted AI"]
-source: "https://github.com/Hyper-AI-Lab/cyber-ai-team"
+deployment_complexity: High
+tags:
+- autonomous agents
+- multi-agent orchestration
+- ERP integration
+- long-term memory
+- self-hosted AI
+source: https://github.com/Hyper-AI-Lab/cyber-ai-team
 stars: 5
-language: "Python"
-last_updated: "2026-08-01T19:09:20Z"
-discovered_at: "2026-08-01T19:19:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:09:20Z'
+discovered_at: '2026-08-01T19:19:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

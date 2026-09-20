@@ -13,13 +13,14 @@ collected_at: '2026-09-20T18:38:43.394507+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:how-to-write-with-an-llm
 first_seen: '2026-09-18T04:26:22.854994+05:30'
 last_seen: '2026-09-20T18:38:43.394507+05:30'
 last_checked: '2026-09-20T18:38:43.394507+05:30'
 health_score: 100
 ---
+
 
 # How to Write with an LLM
 

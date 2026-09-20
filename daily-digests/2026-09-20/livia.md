@@ -1,19 +1,32 @@
 ---
-title: "giuerr/livia"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Express", "JavaScript", "Anthropic API", "Gmail API", "Google Calendar API", "Google OAuth", "Web Dashboard (HTML/CSS/JS)"]
+title: giuerr/livia
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Node.js
+- Express
+- JavaScript
+- Anthropic API
+- Gmail API
+- Google Calendar API
+- Google OAuth
+- Web Dashboard (HTML/CSS/JS)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI assistant", "self-hosted", "automation", "email management", "calendar integration"]
-source: "https://github.com/giuerr/livia"
+deployment_complexity: Medium
+tags:
+- AI assistant
+- self-hosted
+- automation
+- email management
+- calendar integration
+source: https://github.com/giuerr/livia
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T16:49:52Z"
-discovered_at: "2026-08-07T16:57:09Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T16:49:52Z'
+discovered_at: '2026-08-07T16:57:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

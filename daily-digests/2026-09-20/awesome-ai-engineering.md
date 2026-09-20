@@ -1,19 +1,38 @@
 ---
-title: "Eric-LLMs/Awesome-AI-Engineering"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "ReAct", "RAG", "Fine-Tuning", "vLLM", "DeepSpeed", "Ray", "Ollama", "LocalAI", "MCP", "SFT", "DPO", "QLoRA"]
+title: Eric-LLMs/Awesome-AI-Engineering
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- LangChain
+- ReAct
+- RAG
+- Fine-Tuning
+- vLLM
+- DeepSpeed
+- Ray
+- Ollama
+- LocalAI
+- MCP
+- SFT
+- DPO
+- QLoRA
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LLM Engineering", "AI Agents", "RAG", "Production Deployment", "Model Context Protocol"]
-source: "https://github.com/Eric-LLMs/Awesome-AI-Engineering"
+deployment_complexity: Medium
+tags:
+- LLM Engineering
+- AI Agents
+- RAG
+- Production Deployment
+- Model Context Protocol
+source: https://github.com/Eric-LLMs/Awesome-AI-Engineering
 stars: 13
-language: "None"
-last_updated: "2026-08-04T07:38:37Z"
-discovered_at: "2026-08-04T07:41:44Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-04T07:38:37Z'
+discovered_at: '2026-08-04T07:41:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

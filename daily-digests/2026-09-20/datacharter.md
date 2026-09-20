@@ -1,19 +1,39 @@
 ---
-title: "datacharter/datacharter"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "DuckDB", "FastAPI", "React", "Vite", "Monaco Editor", "Vega-Lite", "Model Context Protocol (MCP)", "Open Data Contract Standard", "Ollama", "SQLite", "PostgreSQL", "MySQL", "Snowflake", "BigQuery"]
+title: datacharter/datacharter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- DuckDB
+- FastAPI
+- React
+- Vite
+- Monaco Editor
+- Vega-Lite
+- Model Context Protocol (MCP)
+- Open Data Contract Standard
+- Ollama
+- SQLite
+- PostgreSQL
+- MySQL
+- Snowflake
+- BigQuery
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["data governance", "agent access control", "federated querying", "PII masking", "audit logging"]
-source: "https://github.com/datacharter/datacharter"
+deployment_complexity: Medium
+tags:
+- data governance
+- agent access control
+- federated querying
+- PII masking
+- audit logging
+source: https://github.com/datacharter/datacharter
 stars: 1
-language: "Python"
-last_updated: "2026-08-01T19:14:42Z"
-discovered_at: "2026-08-01T19:19:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:14:42Z'
+discovered_at: '2026-08-01T19:19:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

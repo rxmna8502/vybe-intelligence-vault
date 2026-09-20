@@ -25662,10 +25662,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI and the Destruction of the Creative Commons](../ai/community/ai-and-the-destruction-of-the-creative-commons.md)
-  - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
-  - [If AI coding is lowering your code quality, you're not managing quality right](../ai/community/if-ai-coding-is-lowering-your-code-quality-you-re.md)
+  - [Pirate Face Rescues LLM Models from Deletion](../ai/community/pirate-face-rescues-llm-models-from-deletion.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -29528,4 +29525,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T18:55:01.234382+05:30*
+*Index generated on 2026-09-21T00:41:57.739241+05:30*

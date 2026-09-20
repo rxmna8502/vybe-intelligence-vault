@@ -1,19 +1,34 @@
 ---
-title: "putervision/vision-memory-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Perceptual Hashing (dHash, aHash)", "CLIP (ViT-B/32)", "LanceDB", "OCR (Optical Character Recognition)", "Accessibility Tree Parsing", "SVG Redaction", "CI/CD Integration"]
+title: putervision/vision-memory-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Perceptual Hashing (dHash, aHash)
+- CLIP (ViT-B/32)
+- LanceDB
+- OCR (Optical Character Recognition)
+- Accessibility Tree Parsing
+- SVG Redaction
+- CI/CD Integration
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["visual memory", "UI state caching", "perceptual hashing", "CLIP embeddings", "AI agent tooling"]
-source: "https://github.com/putervision/vision-memory-mcp"
+deployment_complexity: Medium
+tags:
+- visual memory
+- UI state caching
+- perceptual hashing
+- CLIP embeddings
+- AI agent tooling
+source: https://github.com/putervision/vision-memory-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T22:41:47Z"
-discovered_at: "2026-08-01T22:55:06Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T22:41:47Z'
+discovered_at: '2026-08-01T22:55:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

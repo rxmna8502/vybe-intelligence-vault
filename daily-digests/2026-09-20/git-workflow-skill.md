@@ -1,19 +1,30 @@
 ---
-title: "netresearch/git-workflow-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Agent Skills Specification", "Git", "Conventional Commits", "CI/CD (GitHub Actions, GitLab CI)", "Shell Scripting", "Markdown"]
+title: netresearch/git-workflow-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Agent Skills Specification
+- Git
+- Conventional Commits
+- CI/CD (GitHub Actions, GitLab CI)
+- Shell Scripting
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Git workflow automation", "Agent Skills", "Branching strategies", "CI/CD integration", "Commit conventions"]
-source: "https://github.com/netresearch/git-workflow-skill"
+deployment_complexity: Low
+tags:
+- Git workflow automation
+- Agent Skills
+- Branching strategies
+- CI/CD integration
+- Commit conventions
+source: https://github.com/netresearch/git-workflow-skill
 stars: 32
-language: "Shell"
-last_updated: "2026-07-19T13:12:12Z"
-discovered_at: "2026-07-19T13:17:22Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-19T13:12:12Z'
+discovered_at: '2026-07-19T13:17:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "api-evangelist/zilliz"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["REST API", "Vector Database", "Milvus", "Cloud Computing", "API Documentation"]
+title: api-evangelist/zilliz
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- REST API
+- Vector Database
+- Milvus
+- Cloud Computing
+- API Documentation
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["vector database", "managed service", "Milvus", "REST API", "AI infrastructure"]
-source: "https://github.com/api-evangelist/zilliz"
+deployment_complexity: Medium
+tags:
+- vector database
+- managed service
+- Milvus
+- REST API
+- AI infrastructure
+source: https://github.com/api-evangelist/zilliz
 stars: 0
-language: "None"
-last_updated: "2026-08-08T02:01:49Z"
-discovered_at: "2026-08-08T03:29:35Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T02:01:49Z'
+discovered_at: '2026-08-08T03:29:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

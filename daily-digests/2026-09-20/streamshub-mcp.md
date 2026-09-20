@@ -1,19 +1,29 @@
 ---
-title: "streamshub/streamshub-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "Quarkus", "Fabric8 Kubernetes Client", "Model Context Protocol (MCP)", "Kubernetes"]
+title: streamshub/streamshub-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Java
+- Quarkus
+- Fabric8 Kubernetes Client
+- Model Context Protocol (MCP)
+- Kubernetes
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "Kubernetes", "Kafka", "Strimzi", "AI Infrastructure"]
-source: "https://github.com/streamshub/streamshub-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- Kubernetes
+- Kafka
+- Strimzi
+- AI Infrastructure
+source: https://github.com/streamshub/streamshub-mcp
 stars: 3
-language: "Java"
-last_updated: "2026-08-03T06:19:57Z"
-discovered_at: "2026-08-03T06:23:18Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-03T06:19:57Z'
+discovered_at: '2026-08-03T06:23:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

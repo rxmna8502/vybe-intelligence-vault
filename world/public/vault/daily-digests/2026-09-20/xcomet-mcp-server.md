@@ -1,19 +1,32 @@
 ---
-title: "shuji-bonji/xcomet-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Python", "Model Context Protocol (MCP)", "xCOMET", "HuggingFace Transformers", "NPM", "GitHub Actions"]
+title: shuji-bonji/xcomet-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Python
+- Model Context Protocol (MCP)
+- xCOMET
+- HuggingFace Transformers
+- NPM
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["translation quality evaluation", "MCP server", "xCOMET", "machine translation", "AI agent integration"]
-source: "https://github.com/shuji-bonji/xcomet-mcp-server"
+deployment_complexity: Medium
+tags:
+- translation quality evaluation
+- MCP server
+- xCOMET
+- machine translation
+- AI agent integration
+source: https://github.com/shuji-bonji/xcomet-mcp-server
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-07T15:56:42Z"
-discovered_at: "2026-08-07T16:02:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T15:56:42Z'
+discovered_at: '2026-08-07T16:02:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

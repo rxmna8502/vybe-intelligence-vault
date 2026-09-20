@@ -1,19 +1,32 @@
 ---
-title: "Kurkua3125/clawverse"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Flask", "SQLite", "JavaScript", "HTML/CSS", "Isometric Rendering", "Server-Sent Events (SSE)", "AI Layout Assistant", "Pixel Art Generation"]
+title: Kurkua3125/clawverse
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Flask
+- SQLite
+- JavaScript
+- HTML/CSS
+- Isometric Rendering
+- Server-Sent Events (SSE)
+- AI Layout Assistant
+- Pixel Art Generation
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["isometric game", "pixel art builder", "multiplayer island", "AI-assisted design", "persistent world"]
-source: "https://github.com/Kurkua3125/clawverse"
+deployment_complexity: Medium
+tags:
+- isometric game
+- pixel art builder
+- multiplayer island
+- AI-assisted design
+- persistent world
+source: https://github.com/Kurkua3125/clawverse
 stars: 0
-language: "HTML"
-last_updated: "2026-07-17T18:04:45Z"
-discovered_at: "2026-07-17T18:05:03Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-17T18:04:45Z'
+discovered_at: '2026-07-17T18:05:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

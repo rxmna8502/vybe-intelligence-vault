@@ -1,19 +1,31 @@
 ---
-title: "JMoak/chrono-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Luxon", "Model Context Protocol (MCP)", "Zod", "Vitest", "Biome"]
+title: JMoak/chrono-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- TypeScript
+- Node.js
+- Luxon
+- Model Context Protocol (MCP)
+- Zod
+- Vitest
+- Biome
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["temporal", "MCP", "date-time", "timezone", "Luxon"]
-source: "https://github.com/JMoak/chrono-mcp"
+deployment_complexity: Low
+tags:
+- temporal
+- MCP
+- date-time
+- timezone
+- Luxon
+source: https://github.com/JMoak/chrono-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T06:54:21Z"
-discovered_at: "2026-08-09T06:58:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T06:54:21Z'
+discovered_at: '2026-08-09T06:58:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

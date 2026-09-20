@@ -6635,12 +6635,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## ai
-
-  - [AI and the Destruction of the Creative Commons](../ai/community/ai-and-the-destruction-of-the-creative-commons.md)
-  - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
-  - [If AI coding is lowering your code quality, you're not managing quality right](../ai/community/if-ai-coding-is-lowering-your-code-quality-you-re.md)
-
 ## animation
 
   - ["Same-site" and "same-origin" | Articles | web.dev](../web-development/same-site-and-same-origin-articles-web-dev.md)
@@ -14625,6 +14619,7 @@ Resources organized by keyword tags.
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -22824,6 +22819,7 @@ Resources organized by keyword tags.
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
   - [ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](../ai/research/arxiv-2510-10774.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
@@ -26807,7 +26803,6 @@ Resources organized by keyword tags.
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI and TCAD for Inverse Design and Defect Discovery: From Simple Machine Learning to LLM](../ai/research/arxiv-2609-07046.md)
-  - [AI and the Destruction of the Creative Commons](../ai/community/ai-and-the-destruction-of-the-creative-commons.md)
   - [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](../ai/research/arxiv-2609-08166.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
@@ -26822,7 +26817,6 @@ Resources organized by keyword tags.
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
-  - [AI-generated posters don’t have to be horrible](../ai/community/ai-generated-posters-dont-have-to-be-horrible.md)
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
@@ -28254,7 +28248,6 @@ Resources organized by keyword tags.
   - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md)
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
-  - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
@@ -28295,7 +28288,6 @@ Resources organized by keyword tags.
   - [Identifying AI Web Scrapers Using Canary Tokens](../ai/agents/arxiv-2605-13706.md)
   - [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](../ai/research/arxiv-2607-26062.md)
   - [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](../ai/agents/arxiv-2607-07775.md)
-  - [If AI coding is lowering your code quality, you're not managing quality right](../ai/community/if-ai-coding-is-lowering-your-code-quality-you-re.md)
   - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](../ai/research/if-llm-is-the-wizard-then-code-is-the-wand-a-surve.md)
   - [Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](../ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)
   - [Immigrants Belong Toolkit - Define American](../ai/rag/immigrants-belong-toolkit-define-american.md)
@@ -29057,6 +29049,7 @@ Resources organized by keyword tags.
   - [PierreGode/Ragnar](../ai/rag/pierregode-ragnar.md)
   - [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](../ai/research/arxiv-2609-15919.md)
   - [Pinecone - YouTube](../ai/resources/pinecone-youtube.md)
+  - [Pirate Face Rescues LLM Models from Deletion](../ai/community/pirate-face-rescues-llm-models-from-deletion.md)
   - [PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](../ai/rag/arxiv-2606-24081.md)
   - [Plain Transformers are Surprisingly Powerful Link Predictors](../ai/rag/arxiv-2602-01553.md)
   - [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](../ai/rag/arxiv-2608-26088.md)
@@ -31065,7 +31058,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [How to Write with an LLM](../ai/community/how-to-write-with-an-llm.md)
+  - [Pirate Face Rescues LLM Models from Deletion](../ai/community/pirate-face-rescues-llm-models-from-deletion.md)
 
 ## mdx
 
@@ -63817,4 +63810,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-20T18:55:00.906413+05:30*
+*Index generated on 2026-09-21T00:41:57.418168+05:30*

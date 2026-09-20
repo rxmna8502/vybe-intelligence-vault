@@ -1,19 +1,33 @@
 ---
-title: "szaffarano/org-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "orgize", "rmcp", "tokio", "nucleo-matcher", "TOML", "CI/CD (GitHub Actions)", "Nix Flakes"]
+title: szaffarano/org-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- orgize
+- rmcp
+- tokio
+- nucleo-matcher
+- TOML
+- CI/CD (GitHub Actions)
+- Nix Flakes
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "org-mode", "knowledge management", "RAG integration", "structured data access"]
-source: "https://github.com/szaffarano/org-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP server
+- org-mode
+- knowledge management
+- RAG integration
+- structured data access
+source: https://github.com/szaffarano/org-mcp-server
 stars: 42
-language: "Rust"
-last_updated: "2026-07-14T16:11:25Z"
-discovered_at: "2026-07-14T16:14:12Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-14T16:11:25Z'
+discovered_at: '2026-07-14T16:14:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

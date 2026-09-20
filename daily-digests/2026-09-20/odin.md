@@ -1,19 +1,29 @@
 ---
-title: "yck30/ODIN"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Streamlit", "Google Gemini Flash", "JavaScript", "Pre-commit hooks"]
+title: yck30/ODIN
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Streamlit
+- Google Gemini Flash
+- JavaScript
+- Pre-commit hooks
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["decision-support", "reasoning-system", "zero-cost", "cognitive-co-pilot", "multi-pass-analysis"]
-source: "https://github.com/yck30/ODIN"
+deployment_complexity: Low
+tags:
+- decision-support
+- reasoning-system
+- zero-cost
+- cognitive-co-pilot
+- multi-pass-analysis
+source: https://github.com/yck30/ODIN
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T17:28:43Z"
-discovered_at: "2026-08-08T17:32:56Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T17:28:43Z'
+discovered_at: '2026-08-08T17:32:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

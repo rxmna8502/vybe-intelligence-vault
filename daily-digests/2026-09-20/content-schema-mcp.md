@@ -1,19 +1,29 @@
 ---
-title: "SEOSiri-Official/content-schema-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "JSON-LD", "GA4 API", "Markdown"]
+title: SEOSiri-Official/content-schema-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- JSON-LD
+- GA4 API
+- Markdown
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Schema.org", "GA4 validation", "Content analytics", "SEO automation"]
-source: "https://github.com/SEOSiri-Official/content-schema-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Schema.org
+- GA4 validation
+- Content analytics
+- SEO automation
+source: https://github.com/SEOSiri-Official/content-schema-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T16:05:51Z"
-discovered_at: "2026-08-02T16:11:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T16:05:51Z'
+discovered_at: '2026-08-02T16:11:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

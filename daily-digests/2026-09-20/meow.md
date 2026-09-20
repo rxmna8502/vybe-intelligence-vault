@@ -1,19 +1,25 @@
 ---
-title: "miaaaaaou/meow"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python"]
+title: miaaaaaou/meow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python
 quality_score: 1
 rag_relevance: 1
-deployment_complexity: "Low"
-tags: ["placeholder", "unmaintained", "undocumented", "experimental", "abandoned"]
-source: "https://github.com/miaaaaaou/meow"
+deployment_complexity: Low
+tags:
+- placeholder
+- unmaintained
+- undocumented
+- experimental
+- abandoned
+source: https://github.com/miaaaaaou/meow
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T16:15:06Z"
-discovered_at: "2026-07-15T16:20:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T16:15:06Z'
+discovered_at: '2026-07-15T16:20:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

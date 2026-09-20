@@ -1,19 +1,29 @@
 ---
-title: "shizi2077/liu-ren-divination-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.10+", "Command-line interface", "JSON output", "Bilingual terminology mapping", "Structured data processing"]
+title: shizi2077/liu-ren-divination-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-20
+tech_stack:
+- Python 3.10+
+- Command-line interface
+- JSON output
+- Bilingual terminology mapping
+- Structured data processing
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["divination", "traditional chinese metaphysics", "deterministic computation", "bilingual", "codex skill"]
-source: "https://github.com/shizi2077/liu-ren-divination-skill"
+deployment_complexity: Low
+tags:
+- divination
+- traditional chinese metaphysics
+- deterministic computation
+- bilingual
+- codex skill
+source: https://github.com/shizi2077/liu-ren-divination-skill
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T09:39:39Z"
-discovered_at: "2026-08-09T09:43:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T09:39:39Z'
+discovered_at: '2026-08-09T09:43:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
