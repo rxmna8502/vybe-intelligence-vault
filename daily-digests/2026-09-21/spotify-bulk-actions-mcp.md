@@ -1,19 +1,29 @@
 ---
-title: "khglynn/spotify-bulk-actions-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Spotify API", "Model Context Protocol (MCP)", "CSV parsing", "OAuth 2.0"]
+title: khglynn/spotify-bulk-actions-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Spotify API
+- Model Context Protocol (MCP)
+- CSV parsing
+- OAuth 2.0
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Spotify automation", "bulk operations", "MCP server", "playlist generation", "library management"]
-source: "https://github.com/khglynn/spotify-bulk-actions-mcp"
+deployment_complexity: Medium
+tags:
+- Spotify automation
+- bulk operations
+- MCP server
+- playlist generation
+- library management
+source: https://github.com/khglynn/spotify-bulk-actions-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-07-11T18:57:11Z"
-discovered_at: "2026-07-11T18:59:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T18:57:11Z'
+discovered_at: '2026-07-11T18:59:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "Natuworkguy/Flash"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Ollama", "pip", "pipx", "CLI", "Shell Scripting", "Environment Variables"]
+title: Natuworkguy/Flash
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Ollama
+- pip
+- pipx
+- CLI
+- Shell Scripting
+- Environment Variables
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["CLI", "Ollama", "AI Shell", "Local AI", "Command Execution"]
-source: "https://github.com/Natuworkguy/Flash"
+deployment_complexity: Low
+tags:
+- CLI
+- Ollama
+- AI Shell
+- Local AI
+- Command Execution
+source: https://github.com/Natuworkguy/Flash
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T01:31:05Z"
-discovered_at: "2026-08-09T01:33:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:31:05Z'
+discovered_at: '2026-08-09T01:33:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

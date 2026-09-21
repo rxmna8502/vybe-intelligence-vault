@@ -1,19 +1,33 @@
 ---
-title: "lancedb/lancedb"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Python", "TypeScript", "SQL", "Apache Arrow", "Pandas", "Polars", "DuckDB", "GPU Computing"]
+title: lancedb/lancedb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Python
+- TypeScript
+- SQL
+- Apache Arrow
+- Pandas
+- Polars
+- DuckDB
+- GPU Computing
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector database", "multimodal search", "AI lakehouse", "columnar storage", "GPU acceleration"]
-source: "https://github.com/lancedb/lancedb"
+deployment_complexity: Medium
+tags:
+- vector database
+- multimodal search
+- AI lakehouse
+- columnar storage
+- GPU acceleration
+source: https://github.com/lancedb/lancedb
 stars: 11086
-language: "Rust"
-last_updated: "2026-08-07T09:39:22Z"
-discovered_at: "2026-08-07T10:05:43Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T09:39:22Z'
+discovered_at: '2026-08-07T10:05:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

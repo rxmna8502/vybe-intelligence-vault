@@ -1,19 +1,31 @@
 ---
-title: "Jegoba90/anti-hallucination-crypto-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM (Large Language Models)", "Cryptographic Hashing (SHA-256)", "Bollinger Bands", "Z-Score Analysis", "API Integration (Crypto data feeds)", "GitHub Actions (CI/CD)"]
+title: Jegoba90/anti-hallucination-crypto-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- LLM (Large Language Models)
+- Cryptographic Hashing (SHA-256)
+- Bollinger Bands
+- Z-Score Analysis
+- API Integration (Crypto data feeds)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["anti-hallucination", "crypto analysis", "deterministic AI", "verifiable insights", "LLM safety"]
-source: "https://github.com/Jegoba90/anti-hallucination-crypto-agent"
+deployment_complexity: Medium
+tags:
+- anti-hallucination
+- crypto analysis
+- deterministic AI
+- verifiable insights
+- LLM safety
+source: https://github.com/Jegoba90/anti-hallucination-crypto-agent
 stars: 2
-language: "Python"
-last_updated: "2026-07-20T17:55:36Z"
-discovered_at: "2026-07-20T18:00:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T17:55:36Z'
+discovered_at: '2026-07-20T18:00:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "christian140903-sudo/anima"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "JSON", "Ollama", "Anthropic", "OpenAI", "Mermaid (for diagrams)"]
+title: christian140903-sudo/anima
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- JSON
+- Ollama
+- Anthropic
+- OpenAI
+- Mermaid (for diagrams)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["stateful AI", "cognitive architecture", "memory management", "agent orchestration", "experimental metrics"]
-source: "https://github.com/christian140903-sudo/anima"
+deployment_complexity: Medium
+tags:
+- stateful AI
+- cognitive architecture
+- memory management
+- agent orchestration
+- experimental metrics
+source: https://github.com/christian140903-sudo/anima
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T21:44:17Z"
-discovered_at: "2026-07-17T21:52:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T21:44:17Z'
+discovered_at: '2026-07-17T21:52:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "amiable-dev/llm-council"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LiteLLM", "MCP (Model Context Protocol)", "OpenRouter", "Anthropic", "OpenAI", "Google", "YAML/JSON", "Docker"]
+title: amiable-dev/llm-council
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- LiteLLM
+- MCP (Model Context Protocol)
+- OpenRouter
+- Anthropic
+- OpenAI
+- Google
+- YAML/JSON
+- Docker
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent", "LLM collaboration", "peer review", "synthesis", "MCP server"]
-source: "https://github.com/amiable-dev/llm-council"
+deployment_complexity: Medium
+tags:
+- multi-agent
+- LLM collaboration
+- peer review
+- synthesis
+- MCP server
+source: https://github.com/amiable-dev/llm-council
 stars: 34
-language: "Python"
-last_updated: "2026-07-11T09:24:53Z"
-discovered_at: "2026-07-11T09:27:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T09:24:53Z'
+discovered_at: '2026-07-11T09:27:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

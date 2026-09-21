@@ -13,13 +13,14 @@ collected_at: '2026-09-21T10:35:12.341671+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:the-llmentalist-effect-2023
 first_seen: '2026-09-21T10:35:12.341671+05:30'
 last_seen: '2026-09-21T10:35:12.341671+05:30'
 last_checked: '2026-09-21T10:35:12.341671+05:30'
 health_score: 100
 ---
+
 
 # The LLMentalist Effect (2023)
 

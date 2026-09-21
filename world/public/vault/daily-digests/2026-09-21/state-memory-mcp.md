@@ -1,19 +1,30 @@
 ---
-title: "putervision/state-memory-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "SQLite", "Model Context Protocol (MCP)", "Node.js", "3d-force-graph", "Three.js"]
+title: putervision/state-memory-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- SQLite
+- Model Context Protocol (MCP)
+- Node.js
+- 3d-force-graph
+- Three.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["state management", "workflow tracking", "deterministic graph", "MCP server", "AI agent coordination"]
-source: "https://github.com/putervision/state-memory-mcp"
+deployment_complexity: Low
+tags:
+- state management
+- workflow tracking
+- deterministic graph
+- MCP server
+- AI agent coordination
+source: https://github.com/putervision/state-memory-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-01T22:55:00Z"
-discovered_at: "2026-08-01T22:55:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T22:55:00Z'
+discovered_at: '2026-08-01T22:55:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "Zchary1106/agent-interview-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "GitHub Pages", "LangChain", "LangGraph", "AutoGen", "RAG", "Function Calling", "MCP (Model Context Protocol)", "Transformer", "LLM", "Prompt Engineering"]
+title: Zchary1106/agent-interview-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Markdown
+- GitHub Pages
+- LangChain
+- LangGraph
+- AutoGen
+- RAG
+- Function Calling
+- MCP (Model Context Protocol)
+- Transformer
+- LLM
+- Prompt Engineering
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI Agent Interviews", "Learning Resources", "RAG", "LLM Frameworks", "Job Preparation"]
-source: "https://github.com/Zchary1106/agent-interview-hub"
+deployment_complexity: Low
+tags:
+- AI Agent Interviews
+- Learning Resources
+- RAG
+- LLM Frameworks
+- Job Preparation
+source: https://github.com/Zchary1106/agent-interview-hub
 stars: 114
-language: "Python"
-last_updated: "2026-07-18T15:48:38Z"
-discovered_at: "2026-07-18T15:55:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T15:48:38Z'
+discovered_at: '2026-07-18T15:55:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

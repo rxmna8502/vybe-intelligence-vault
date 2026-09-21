@@ -1,19 +1,32 @@
 ---
-title: "yogeshrjk/AI-code-explainer-VS-Code-Extension"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "VS Code Extension API", "Gemini Live API", "WebSocket", "Shiki Syntax Highlighting", "Node.js", "PCM Audio", "FileSystemWatcher"]
+title: yogeshrjk/AI-code-explainer-VS-Code-Extension
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Gemini Live API
+- WebSocket
+- Shiki Syntax Highlighting
+- Node.js
+- PCM Audio
+- FileSystemWatcher
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["VS Code Extension", "Voice AI Assistant", "Code Context", "Workspace Search", "Gemini API"]
-source: "https://github.com/yogeshrjk/AI-code-explainer-VS-Code-Extension"
+deployment_complexity: Low
+tags:
+- VS Code Extension
+- Voice AI Assistant
+- Code Context
+- Workspace Search
+- Gemini API
+source: https://github.com/yogeshrjk/AI-code-explainer-VS-Code-Extension
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T14:58:47Z"
-discovered_at: "2026-08-02T15:02:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T14:58:47Z'
+discovered_at: '2026-08-02T15:02:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

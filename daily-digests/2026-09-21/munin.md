@@ -1,19 +1,38 @@
 ---
-title: "PrinceOfPwn/Munin"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastMCP", "SQLite", "Turso (libsql)", "Next.js", "Discord API", "ReAct (Reasoning + Acting)", "Model Context Protocol (MCP)", "LDAP/Active Directory", "Nmap", "Nuclei", "Hydra", "FFuf", "Feroxbuster"]
+title: PrinceOfPwn/Munin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastMCP
+- SQLite
+- Turso (libsql)
+- Next.js
+- Discord API
+- ReAct (Reasoning + Acting)
+- Model Context Protocol (MCP)
+- LDAP/Active Directory
+- Nmap
+- Nuclei
+- Hydra
+- FFuf
+- Feroxbuster
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Threat Intelligence", "Red Teaming", "Agent Orchestration", "Model Context Protocol", "Dynamic Tool Generation"]
-source: "https://github.com/PrinceOfPwn/Munin"
+deployment_complexity: High
+tags:
+- Threat Intelligence
+- Red Teaming
+- Agent Orchestration
+- Model Context Protocol
+- Dynamic Tool Generation
+source: https://github.com/PrinceOfPwn/Munin
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T09:03:54Z"
-discovered_at: "2026-08-01T09:06:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T09:03:54Z'
+discovered_at: '2026-08-01T09:06:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "berntpopp/mgi-link"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "FastAPI", "SQLite", "MCP (Model Context Protocol)", "CI/CD (GitHub Actions)", "Makefile", "Docker (implied by deployment docs)"]
+title: berntpopp/mgi-link
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python 3.12+
+- FastAPI
+- SQLite
+- MCP (Model Context Protocol)
+- CI/CD (GitHub Actions)
+- Makefile
+- Docker (implied by deployment docs)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Mouse genetics", "Phenotype data", "Ortholog mapping", "Structured API"]
-source: "https://github.com/berntpopp/mgi-link"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Mouse genetics
+- Phenotype data
+- Ortholog mapping
+- Structured API
+source: https://github.com/berntpopp/mgi-link
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T22:12:21Z"
-discovered_at: "2026-09-01T22:19:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:12:21Z'
+discovered_at: '2026-09-01T22:19:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

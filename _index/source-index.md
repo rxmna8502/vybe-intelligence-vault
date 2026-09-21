@@ -25942,6 +25942,7 @@ Resources organized by publisher feed and query sources.
   - [virattt/dexter](../ai/rag/virattt-dexter.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
@@ -26006,11 +26007,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI chatbots give wrong answers to financial queries 'most of the time'](../ai/community/ai-chatbots-give-wrong-answers-to-financial-querie.md)
   - [Amiga Unix, Again](../ai/community/amiga-unix-again.md)
-  - [Pirate Face Rescues LLM Models from Deletion](../ai/community/pirate-face-rescues-llm-models-from-deletion.md)
-  - [Spain Orders Blocks on Archive.today and Its Mirrors](../ai/community/spain-orders-blocks-on-archive-today-and-its-mirro.md)
-  - [The LLMentalist Effect (2023)](../ai/community/the-llmentalist-effect-2023.md)
+  - [Don't Use AI to Write](../ai/community/don-t-use-ai-to-write.md)
+  - [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](../ai/community/m5-ultra-mac-studio-review-the-dream-mac-for-local.md)
+  - [Meta bans ads for Virginia Woolf play in Spain](../ai/community/meta-bans-ads-for-virginia-woolf-play-in-spain.md)
+  - [Show HN: Lossless-memory – a personal AI memory that never summarizes](../ai/community/aru-labs-lossless-memory.md)
+  - [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](../ai/community/volotat-mini-agi.md)
+  - [macOS 27: Workaround to avoid downloading AI models and save storage](../ai/community/macos-27-workaround-to-avoid-downloading-ai-models.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26628,6 +26631,7 @@ Resources organized by publisher feed and query sources.
   - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../ai/models/huggingface-blog-torch-mlp-fusion.md)
   - [Profiling in PyTorch (Part 3): Attention is all you profile](../ai/models/huggingface-blog-torch-attention-profile.md)
   - [Proximal Policy Optimization (PPO)](../ai/models/huggingface-blog-deep-rl-ppo.md)
+  - [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](../ai/models/huggingface-blog-multiversecomputingcai-pruning-llms-like-a-physicist-block-remo.md)
   - [Public AI on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-publicai.md)
   - [Public Policy at Hugging Face](../ai/models/huggingface-blog-policy-blog.md)
   - [Putting RL back in RLHF](../ai/models/huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md)
@@ -26661,7 +26665,6 @@ Resources organized by publisher feed and query sources.
   - [SOTA OCR with Core ML and dots.ocr](../ai/models/huggingface-blog-dots-ocr-ne.md)
   - [SafeCoder vs. Closed-source Code Assistants](../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)
   - [Safetensors is Joining the PyTorch Foundation](../ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md)
-  - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](../ai/models/huggingface-blog-multiversecomputingcai-safety-for-whom.md)
   - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](../ai/models/huggingface-blog-dharma-ai-gpu-management-pt2.md)
   - [Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](../ai/models/huggingface-blog-hf-cli.md)
   - [Scaleway on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-scaleway.md)
@@ -26859,6 +26862,7 @@ Resources organized by publisher feed and query sources.
   - [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](../ai/models/huggingface-blog-huggingface-hub-v1.md)
   - [mmBERT: ModernBERT goes Multilingual](../ai/models/huggingface-blog-mmbert.md)
   - [nanoVLM: The simplest repository to train your VLM in pure PyTorch](../ai/models/huggingface-blog-nanovlm.md)
+  - [tokenizers v1: encode, decode and scaling, measured](../ai/models/huggingface-blog-tokenizers-v1.md)
   - [vLLM V0 to V1: Correctness Before Corrections in RL](../ai/models/huggingface-blog-servicenow-ai-correctness-before-corrections.md)
   - [~Don't~ Repeat Yourself](../ai/models/huggingface-blog-transformers-design-philosophy.md)
   - [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](../ai/models/huggingface-blog-pi0.md)
@@ -29873,4 +29877,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-21T10:53:30.389163+05:30*
+*Index generated on 2026-09-21T20:59:06.430944+05:30*

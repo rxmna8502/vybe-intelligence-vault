@@ -1,19 +1,30 @@
 ---
-title: "davidmosiah/polar-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Polar AccessLink Dynamic API v4", "OAuth", "SQLite"]
+title: davidmosiah/polar-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Polar AccessLink Dynamic API v4
+- OAuth
+- SQLite
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Polar integration", "local-first", "wearable data", "AI agent tools"]
-source: "https://github.com/davidmosiah/polar-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Polar integration
+- local-first
+- wearable data
+- AI agent tools
+source: https://github.com/davidmosiah/polar-mcp
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-17T10:45:28Z"
-discovered_at: "2026-07-17T10:46:32Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T10:45:28Z'
+discovered_at: '2026-07-17T10:46:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

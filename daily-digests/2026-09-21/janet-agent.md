@@ -1,19 +1,31 @@
 ---
-title: "stjbrown/janet-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Mastra Observational Memory", "Agent Client Protocol (ACP)", "Open Knowledge Format (OKF)", "Markdown", "Git"]
+title: stjbrown/janet-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Mastra Observational Memory
+- Agent Client Protocol (ACP)
+- Open Knowledge Format (OKF)
+- Markdown
+- Git
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local knowledge agent", "project wikis", "Markdown", "OKF", "CLI tool"]
-source: "https://github.com/stjbrown/janet-agent"
+deployment_complexity: Medium
+tags:
+- local knowledge agent
+- project wikis
+- Markdown
+- OKF
+- CLI tool
+source: https://github.com/stjbrown/janet-agent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T15:30:33Z"
-discovered_at: "2026-08-04T15:34:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T15:30:33Z'
+discovered_at: '2026-08-04T15:34:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

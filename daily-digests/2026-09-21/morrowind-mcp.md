@@ -1,19 +1,30 @@
 ---
-title: "longod/morrowind-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Lua", "Morrowind Script Extender (MWSE)", "Model Context Protocol (MCP)", "HTTP/JSON-RPC", "SSE (Server-Sent Events)", "PowerShell"]
+title: longod/morrowind-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Lua
+- Morrowind Script Extender (MWSE)
+- Model Context Protocol (MCP)
+- HTTP/JSON-RPC
+- SSE (Server-Sent Events)
+- PowerShell
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["MCP Server", "Game Integration", "Lua Scripting", "AI Agent Tooling", "Modding"]
-source: "https://github.com/longod/morrowind-mcp"
+deployment_complexity: High
+tags:
+- MCP Server
+- Game Integration
+- Lua Scripting
+- AI Agent Tooling
+- Modding
+source: https://github.com/longod/morrowind-mcp
 stars: 0
-language: "Lua"
-last_updated: "2026-07-15T16:18:48Z"
-discovered_at: "2026-07-15T16:21:12Z"
-evaluated_by: "mistral-small-latest"
+language: Lua
+last_updated: '2026-07-15T16:18:48Z'
+discovered_at: '2026-07-15T16:21:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

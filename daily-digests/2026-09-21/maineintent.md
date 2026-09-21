@@ -1,19 +1,32 @@
 ---
-title: "spojchil/maineintent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Mineflayer", "Python", "OpenAI-compatible models", "PaperMC 1.21.1", "ESM", "pnpm"]
+title: spojchil/maineintent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Mineflayer
+- Python
+- OpenAI-compatible models
+- PaperMC 1.21.1
+- ESM
+- pnpm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI companion", "Minecraft bot", "embodied agent", "game integration", "natural language interaction"]
-source: "https://github.com/spojchil/maineintent"
+deployment_complexity: Medium
+tags:
+- AI companion
+- Minecraft bot
+- embodied agent
+- game integration
+- natural language interaction
+source: https://github.com/spojchil/maineintent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-21T14:35:35Z"
-discovered_at: "2026-07-21T15:03:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T14:35:35Z'
+discovered_at: '2026-07-21T15:03:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

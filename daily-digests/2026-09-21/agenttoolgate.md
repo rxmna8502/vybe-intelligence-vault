@@ -1,19 +1,34 @@
 ---
-title: "aki0225/AgentToolGate"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "React", "TypeScript", "PostgreSQL", "SQLite", "OpenTelemetry", "MCP (Model Context Protocol)", "REST", "YAML", "Docker"]
+title: aki0225/AgentToolGate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Go
+- React
+- TypeScript
+- PostgreSQL
+- SQLite
+- OpenTelemetry
+- MCP (Model Context Protocol)
+- REST
+- YAML
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agent Governance", "Tool Call Interception", "Policy Enforcement", "Audit Logging", "Secret Management"]
-source: "https://github.com/aki0225/AgentToolGate"
+deployment_complexity: Medium
+tags:
+- AI Agent Governance
+- Tool Call Interception
+- Policy Enforcement
+- Audit Logging
+- Secret Management
+source: https://github.com/aki0225/AgentToolGate
 stars: 2
-language: "Go"
-last_updated: "2026-08-06T15:12:38Z"
-discovered_at: "2026-08-06T15:18:25Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-06T15:12:38Z'
+discovered_at: '2026-08-06T15:18:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

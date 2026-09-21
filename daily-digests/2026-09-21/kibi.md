@@ -1,19 +1,30 @@
 ---
-title: "Looted/kibi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Prolog", "Node.js", "Model Context Protocol (MCP)", "Command Line Interface (CLI)", "Git Hooks"]
+title: Looted/kibi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Prolog
+- Node.js
+- Model Context Protocol (MCP)
+- Command Line Interface (CLI)
+- Git Hooks
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge base", "traceability", "AI agent memory", "software documentation", "git branch context"]
-source: "https://github.com/Looted/kibi"
+deployment_complexity: Medium
+tags:
+- knowledge base
+- traceability
+- AI agent memory
+- software documentation
+- git branch context
+source: https://github.com/Looted/kibi
 stars: 7
-language: "TypeScript"
-last_updated: "2026-08-08T11:25:03Z"
-discovered_at: "2026-08-08T11:30:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T11:25:03Z'
+discovered_at: '2026-08-08T11:30:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

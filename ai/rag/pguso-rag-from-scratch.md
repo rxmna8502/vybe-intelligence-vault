@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-09-20T18:39:40.638605+05:30'
+collected_at: '2026-09-21T20:43:46.293439+05:30'
 published_at: '2026-09-19T20:12:38Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-09-20T18:39:40.638605+05:30'
-last_seen: '2026-09-20T18:39:40.638605+05:30'
-last_checked: '2026-09-20T18:39:40.638605+05:30'
+first_seen: '2026-09-21T20:43:46.293439+05:30'
+last_seen: '2026-09-21T20:43:46.293439+05:30'
+last_checked: '2026-09-21T20:43:46.293439+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a RAG pipeline from first principles in JavaScript/Node.js, demystifying embeddings, vector search, retrieval, and context-augmented generation.
-*   Leverages local LLMs via `node-llama-cpp` to provide transparent, black-box-free understanding of the generation process.
-*   Functions as an educational resource for constructing RAG systems, emphasizing component-level understanding over high-level API abstractions.
+*   Provides a from-scratch RAG pipeline implementation using local LLMs for transparent understanding of core components.
+*   Covers technical deep dives into embeddings, vector search, retrieval mechanisms, and context-augmented generation.
+*   Leverages JavaScript/Node.js with `node-llama-cpp` for local LLM integration, emphasizing a non-black-box approach.
 
 ## Why It Matters
 

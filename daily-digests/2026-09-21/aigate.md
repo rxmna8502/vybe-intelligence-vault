@@ -1,19 +1,53 @@
 ---
-title: "psyb0t/aigate"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Docker", "Docker Compose", "Nginx", "PostgreSQL", "MongoDB", "Redis", "LiteLLM", "Python", "Shell", "Groq", "Cerebras", "OpenRouter", "HuggingFace", "Mistral", "Cohere", "Ollama", "vLLM", "llama.cpp", "Stable Diffusion.cpp", "Whisper", "SearXNG", "Telethon", "LibreChat", "Piston", "Predictalot", "Audiolla", "Flickies", "Cloudflare Tunnel", "Tailscale"]
+title: psyb0t/aigate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Docker
+- Docker Compose
+- Nginx
+- PostgreSQL
+- MongoDB
+- Redis
+- LiteLLM
+- Python
+- Shell
+- Groq
+- Cerebras
+- OpenRouter
+- HuggingFace
+- Mistral
+- Cohere
+- Ollama
+- vLLM
+- llama.cpp
+- Stable Diffusion.cpp
+- Whisper
+- SearXNG
+- Telethon
+- LibreChat
+- Piston
+- Predictalot
+- Audiolla
+- Flickies
+- Cloudflare Tunnel
+- Tailscale
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted", "AI orchestration", "multi-model inference", "agentic workflows", "OpenAI-compatible"]
-source: "https://github.com/psyb0t/aigate"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- AI orchestration
+- multi-model inference
+- agentic workflows
+- OpenAI-compatible
+source: https://github.com/psyb0t/aigate
 stars: 10
-language: "Shell"
-last_updated: "2026-08-01T13:03:14Z"
-discovered_at: "2026-08-01T13:17:05Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-01T13:03:14Z'
+discovered_at: '2026-08-01T13:17:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

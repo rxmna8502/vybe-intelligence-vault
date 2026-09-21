@@ -1,19 +1,40 @@
 ---
-title: "ibuilder/osprey"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "pgvector", "Redis", "Tauri", "Rust", "Docker", "Helm", "OAuth2", "JWT", "ARQ (background workers)", "SQLite", "Claude API", "Ollama", "Excel/PDF generation libraries"]
+title: ibuilder/osprey
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- pgvector
+- Redis
+- Tauri
+- Rust
+- Docker
+- Helm
+- OAuth2
+- JWT
+- ARQ (background workers)
+- SQLite
+- Claude API
+- Ollama
+- Excel/PDF generation libraries
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["project management", "self-hosted", "AI integration", "task prioritization", "construction"]
-source: "https://github.com/ibuilder/osprey"
+deployment_complexity: Medium
+tags:
+- project management
+- self-hosted
+- AI integration
+- task prioritization
+- construction
+source: https://github.com/ibuilder/osprey
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T03:41:02Z"
-discovered_at: "2026-08-01T03:43:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T03:41:02Z'
+discovered_at: '2026-08-01T03:43:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

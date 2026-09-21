@@ -1,19 +1,33 @@
 ---
-title: "wentf9/xops-cli"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "SSH", "SFTP/SCP", "TUI", "YAML", "AES Encryption", "i18n", "Firewall Management (firewalld, ufw, iptables, nftables)"]
+title: wentf9/xops-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- SSH
+- SFTP/SCP
+- TUI
+- YAML
+- AES Encryption
+- i18n
+- Firewall Management (firewalld, ufw, iptables, nftables)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["remote management", "AI agent integration", "MCP server", "SSH automation", "playbook orchestration"]
-source: "https://github.com/wentf9/xops-cli"
+deployment_complexity: Medium
+tags:
+- remote management
+- AI agent integration
+- MCP server
+- SSH automation
+- playbook orchestration
+source: https://github.com/wentf9/xops-cli
 stars: 10
-language: "Go"
-last_updated: "2026-09-04T02:00:35Z"
-discovered_at: "2026-09-04T02:18:31Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-04T02:00:35Z'
+discovered_at: '2026-09-04T02:18:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

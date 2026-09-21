@@ -1,19 +1,39 @@
 ---
-title: "voidstackloop/modelforge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "React", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ollama", "llama.cpp", "OpenAI API", "Anthropic API", "Gemini API", "AJV (JSON Schema Validation)", "OAuth 2.1", "DICOM", "PubMed", "ClinicalTrials.gov"]
+title: voidstackloop/modelforge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Ollama
+- llama.cpp
+- OpenAI API
+- Anthropic API
+- Gemini API
+- AJV (JSON Schema Validation)
+- OAuth 2.1
+- DICOM
+- PubMed
+- ClinicalTrials.gov
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["clinical decision support", "medical AI", "MCP integrations", "patient case management", "safety controls"]
-source: "https://github.com/voidstackloop/modelforge"
+deployment_complexity: Medium
+tags:
+- clinical decision support
+- medical AI
+- MCP integrations
+- patient case management
+- safety controls
+source: https://github.com/voidstackloop/modelforge
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-03T20:21:48Z"
-discovered_at: "2026-08-03T20:28:30Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T20:21:48Z'
+discovered_at: '2026-08-03T20:28:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

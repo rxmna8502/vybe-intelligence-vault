@@ -1,19 +1,37 @@
 ---
-title: "Hongyuan-Lu/academic-paper-engineering"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LaTeX", "Markdown", "DOCX", "PDF", "PPTX", "XLSX", "pdflatex", "xelatex", "bibtex", "YAML", "JSON", "AI Prompt Engineering"]
+title: Hongyuan-Lu/academic-paper-engineering
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- LaTeX
+- Markdown
+- DOCX
+- PDF
+- PPTX
+- XLSX
+- pdflatex
+- xelatex
+- bibtex
+- YAML
+- JSON
+- AI Prompt Engineering
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["academic paper engineering", "LaTeX automation", "document conversion", "AI agent skill", "multi-format processing"]
-source: "https://github.com/Hongyuan-Lu/academic-paper-engineering"
+deployment_complexity: Medium
+tags:
+- academic paper engineering
+- LaTeX automation
+- document conversion
+- AI agent skill
+- multi-format processing
+source: https://github.com/Hongyuan-Lu/academic-paper-engineering
 stars: 4
-language: "TeX"
-last_updated: "2026-09-02T15:46:46Z"
-discovered_at: "2026-09-02T15:49:38Z"
-evaluated_by: "mistral-small-latest"
+language: TeX
+last_updated: '2026-09-02T15:46:46Z'
+discovered_at: '2026-09-02T15:49:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

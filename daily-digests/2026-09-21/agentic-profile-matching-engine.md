@@ -1,19 +1,37 @@
 ---
-title: "shashankch/agentic-profile-matching-engine"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LangChain", "ChromaDB", "Sentence Transformers", "BM25 Okapi", "Streamlit", "Model Context Protocol (MCP)", "Groq API", "Gemini API", "Pydantic", "Ruff", "Docker"]
+title: shashankch/agentic-profile-matching-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- ChromaDB
+- Sentence Transformers
+- BM25 Okapi
+- Streamlit
+- Model Context Protocol (MCP)
+- Groq API
+- Gemini API
+- Pydantic
+- Ruff
+- Docker
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Recruiter", "Profile Matching", "Hybrid Search", "LangGraph", "MCP"]
-source: "https://github.com/shashankch/agentic-profile-matching-engine"
+deployment_complexity: Medium
+tags:
+- AI Recruiter
+- Profile Matching
+- Hybrid Search
+- LangGraph
+- MCP
+source: https://github.com/shashankch/agentic-profile-matching-engine
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T15:29:30Z"
-discovered_at: "2026-08-04T15:35:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T15:29:30Z'
+discovered_at: '2026-08-04T15:35:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

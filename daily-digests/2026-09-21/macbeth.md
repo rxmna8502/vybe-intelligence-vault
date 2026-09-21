@@ -1,19 +1,32 @@
 ---
-title: "wende/macbeth"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Swift", "JSON-RPC 2.0", "Unix Domain Sockets", "Accessibility API", "ScreenCaptureKit", "Node.js", "MCP (Model Context Protocol)"]
+title: wende/macbeth
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Swift
+- JSON-RPC 2.0
+- Unix Domain Sockets
+- Accessibility API
+- ScreenCaptureKit
+- Node.js
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["macOS automation", "UI testing", "LLM agent tools", "Accessibility API", "Playwright alternative"]
-source: "https://github.com/wende/macbeth"
+deployment_complexity: Medium
+tags:
+- macOS automation
+- UI testing
+- LLM agent tools
+- Accessibility API
+- Playwright alternative
+source: https://github.com/wende/macbeth
 stars: 2
-language: "Swift"
-last_updated: "2026-07-14T16:10:09Z"
-discovered_at: "2026-07-14T16:14:16Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-07-14T16:10:09Z'
+discovered_at: '2026-07-14T16:14:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

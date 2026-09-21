@@ -1,19 +1,37 @@
 ---
-title: "bingyunjiang/more-paper-workflow-pro-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "Codex", "Hermes", "OpenClaw", "Zotero", "MCP (Model Context Protocol)", "Markdown", "JSON", "YAML", "Bash/Shell", "PDF processing libraries", "Web scraping (CDP/Playwright)"]
+title: bingyunjiang/more-paper-workflow-pro-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Claude Code
+- Codex
+- Hermes
+- OpenClaw
+- Zotero
+- MCP (Model Context Protocol)
+- Markdown
+- JSON
+- YAML
+- Bash/Shell
+- PDF processing libraries
+- Web scraping (CDP/Playwright)
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["academic workflow", "literature management", "citation auditing", "Zotero integration", "evidence-based writing"]
-source: "https://github.com/bingyunjiang/more-paper-workflow-pro-skill"
+deployment_complexity: Medium
+tags:
+- academic workflow
+- literature management
+- citation auditing
+- Zotero integration
+- evidence-based writing
+source: https://github.com/bingyunjiang/more-paper-workflow-pro-skill
 stars: 18
-language: "Python"
-last_updated: "2026-07-11T23:53:44Z"
-discovered_at: "2026-07-11T23:53:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T23:53:44Z'
+discovered_at: '2026-07-11T23:53:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

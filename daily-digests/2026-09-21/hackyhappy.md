@@ -1,19 +1,32 @@
 ---
-title: "hackyhappy-labs/HackyHappy"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Docker", "OpenWebUI", "Twilio API", "Telegram Bot API", "Python", "Shell Scripting", "Cloudflare Tunnel", "RAG (Retrieval-Augmented Generation)"]
+title: hackyhappy-labs/HackyHappy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Docker
+- OpenWebUI
+- Twilio API
+- Telegram Bot API
+- Python
+- Shell Scripting
+- Cloudflare Tunnel
+- RAG (Retrieval-Augmented Generation)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI phone assistant", "multi-channel integration", "self-hosted", "hardened security", "RAG"]
-source: "https://github.com/hackyhappy-labs/HackyHappy"
+deployment_complexity: Medium
+tags:
+- AI phone assistant
+- multi-channel integration
+- self-hosted
+- hardened security
+- RAG
+source: https://github.com/hackyhappy-labs/HackyHappy
 stars: 1
-language: "Shell"
-last_updated: "2026-08-04T00:10:09Z"
-discovered_at: "2026-08-04T00:10:50Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-04T00:10:09Z'
+discovered_at: '2026-08-04T00:10:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

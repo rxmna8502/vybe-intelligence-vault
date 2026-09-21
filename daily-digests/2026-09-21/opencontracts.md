@@ -1,19 +1,36 @@
 ---
-title: "Open-Source-Legal/OpenContracts"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Django", "React", "GraphQL", "Celery", "PostgreSQL", "Redis", "Docker", "Model Context Protocol (MCP)", "Pydantic", "TypeScript", "Tailwind CSS"]
+title: Open-Source-Legal/OpenContracts
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Django
+- React
+- GraphQL
+- Celery
+- PostgreSQL
+- Redis
+- Docker
+- Model Context Protocol (MCP)
+- Pydantic
+- TypeScript
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["document intelligence", "citation graph", "AI agents", "MCP server", "structured extraction"]
-source: "https://github.com/Open-Source-Legal/OpenContracts"
+deployment_complexity: Medium
+tags:
+- document intelligence
+- citation graph
+- AI agents
+- MCP server
+- structured extraction
+source: https://github.com/Open-Source-Legal/OpenContracts
 stars: 1430
-language: "Python"
-last_updated: "2026-08-08T17:10:16Z"
-discovered_at: "2026-08-08T17:33:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T17:10:16Z'
+discovered_at: '2026-08-08T17:33:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

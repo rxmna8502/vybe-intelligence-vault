@@ -1,19 +1,39 @@
 ---
-title: "VigiaLabs/vigia-public"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js", "React", "LangGraph", "AWS Bedrock Nova", "pgvector", "SQLite", "PostgreSQL", "Cohere Rerank", "AWS Lambda", "Dexie", "IndexedDB", "Tailwind CSS", "Framer Motion", "Leaflet"]
+title: VigiaLabs/vigia-public
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- LangGraph
+- AWS Bedrock Nova
+- pgvector
+- SQLite
+- PostgreSQL
+- Cohere Rerank
+- AWS Lambda
+- Dexie
+- IndexedDB
+- Tailwind CSS
+- Framer Motion
+- Leaflet
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["hallucination-resistant", "evidence-backed RAG", "government data", "multi-agent orchestration", "offline-first"]
-source: "https://github.com/VigiaLabs/vigia-public"
+deployment_complexity: High
+tags:
+- hallucination-resistant
+- evidence-backed RAG
+- government data
+- multi-agent orchestration
+- offline-first
+source: https://github.com/VigiaLabs/vigia-public
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-15T10:36:28Z"
-discovered_at: "2026-07-15T10:48:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T10:36:28Z'
+discovered_at: '2026-07-15T10:48:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

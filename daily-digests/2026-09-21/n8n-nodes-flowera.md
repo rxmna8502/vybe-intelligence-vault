@@ -1,19 +1,29 @@
 ---
-title: "SKCTECH/n8n-nodes-flowera"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "n8n", "Flowera API", "REST", "Node.js"]
+title: SKCTECH/n8n-nodes-flowera
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- n8n
+- Flowera API
+- REST
+- Node.js
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["n8n", "Flowera", "AI agent integration", "workflow automation", "community node"]
-source: "https://github.com/SKCTECH/n8n-nodes-flowera"
+deployment_complexity: Low
+tags:
+- n8n
+- Flowera
+- AI agent integration
+- workflow automation
+- community node
+source: https://github.com/SKCTECH/n8n-nodes-flowera
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T19:56:13Z"
-discovered_at: "2026-08-07T19:58:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T19:56:13Z'
+discovered_at: '2026-08-07T19:58:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

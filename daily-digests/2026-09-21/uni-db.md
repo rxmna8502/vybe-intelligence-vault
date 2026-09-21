@@ -1,19 +1,34 @@
 ---
-title: "rustic-ai/uni-db"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Python", "OpenCypher", "Lance", "PyO3", "Datalog", "S3/GCS", "Rhai", "WASM", "Extism"]
+title: rustic-ai/uni-db
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Python
+- OpenCypher
+- Lance
+- PyO3
+- Datalog
+- S3/GCS
+- Rhai
+- WASM
+- Extism
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["embedded database", "vector search", "property graph", "columnar storage", "serverless"]
-source: "https://github.com/rustic-ai/uni-db"
+deployment_complexity: Medium
+tags:
+- embedded database
+- vector search
+- property graph
+- columnar storage
+- serverless
+source: https://github.com/rustic-ai/uni-db
 stars: 41
-language: "Rust"
-last_updated: "2026-08-07T09:57:02Z"
-discovered_at: "2026-08-07T10:04:47Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T09:57:02Z'
+discovered_at: '2026-08-07T10:04:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

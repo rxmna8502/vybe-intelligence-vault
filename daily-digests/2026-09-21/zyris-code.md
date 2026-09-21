@@ -1,19 +1,30 @@
 ---
-title: "attacca-cc/zyris-code"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "ratatui", "Zyris Protocol", "Attacca API", "MCP (Model Context Protocol)", "PTY (Pseudo Terminal)"]
+title: attacca-cc/zyris-code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- ratatui
+- Zyris Protocol
+- Attacca API
+- MCP (Model Context Protocol)
+- PTY (Pseudo Terminal)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["terminal interface", "agent tooling", "file editing", "MCP integration", "access control"]
-source: "https://github.com/attacca-cc/zyris-code"
+deployment_complexity: Medium
+tags:
+- terminal interface
+- agent tooling
+- file editing
+- MCP integration
+- access control
+source: https://github.com/attacca-cc/zyris-code
 stars: 0
-language: "Rust"
-last_updated: "2026-08-07T14:56:36Z"
-discovered_at: "2026-08-07T18:57:35Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T14:56:36Z'
+discovered_at: '2026-08-07T18:57:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "ShiftinBits/constellation-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "REST API", "Knowledge Graph"]
+title: ShiftinBits/constellation-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- REST API
+- Knowledge Graph
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["code intelligence", "metadata extraction", "AI coding assistants", "knowledge graph", "privacy-focused"]
-source: "https://github.com/ShiftinBits/constellation-mcp"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- metadata extraction
+- AI coding assistants
+- knowledge graph
+- privacy-focused
+source: https://github.com/ShiftinBits/constellation-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-08T20:24:52Z"
-discovered_at: "2026-08-08T20:32:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T20:24:52Z'
+discovered_at: '2026-08-08T20:32:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

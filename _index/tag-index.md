@@ -3480,6 +3480,7 @@ Resources organized by keyword tags.
   - [L’océan, un monde à découvrir | CNRS Le journal](../ai/rag/locean-un-monde-a-decouvrir-cnrs-le-journal.md)
   - [M-CTX: Exact and Scalable Spatial Context Retrieval for Trajectory Analytics](../ai/rag/arxiv-2606-15244.md)
   - [M3MAD-Bench: Multi-Dimensional Evaluation of Multi-Agent Debate Across Domains and Modalities](../ai/rag/arxiv-2601-02854.md)
+  - [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](../ai/community/m5-ultra-mac-studio-review-the-dream-mac-for-local.md)
   - [MA-HEAD-Net: Adaptive Rule-Guided Multi-Agent DRL for AoI Minimization in UAV-Assisted Emergency Networks](../ai/agents/arxiv-2608-01128.md)
   - [MA-RAG: Multi-Agent Retrieval-Augmented Generation for Query-Driven Summarization of Longitudinal Parkinson's Disease Assessments](../ai/rag/arxiv-2608-28624.md)
   - [MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems](../ai/rag/arxiv-2609-21533.md)
@@ -6702,9 +6703,13 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI chatbots give wrong answers to financial queries 'most of the time'](../ai/community/ai-chatbots-give-wrong-answers-to-financial-querie.md)
   - [Amiga Unix, Again](../ai/community/amiga-unix-again.md)
-  - [Spain Orders Blocks on Archive.today and Its Mirrors](../ai/community/spain-orders-blocks-on-archive-today-and-its-mirro.md)
+  - [Don't Use AI to Write](../ai/community/don-t-use-ai-to-write.md)
+  - [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](../ai/community/m5-ultra-mac-studio-review-the-dream-mac-for-local.md)
+  - [Meta bans ads for Virginia Woolf play in Spain](../ai/community/meta-bans-ads-for-virginia-woolf-play-in-spain.md)
+  - [Show HN: Lossless-memory – a personal AI memory that never summarizes](../ai/community/aru-labs-lossless-memory.md)
+  - [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](../ai/community/volotat-mini-agi.md)
+  - [macOS 27: Workaround to avoid downloading AI models and save storage](../ai/community/macos-27-workaround-to-avoid-downloading-ai-models.md)
 
 ## animation
 
@@ -14789,6 +14794,7 @@ Resources organized by keyword tags.
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -26825,6 +26831,7 @@ Resources organized by keyword tags.
   - [virattt/dexter](../ai/rag/virattt-dexter.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
@@ -27110,7 +27117,6 @@ Resources organized by keyword tags.
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI and TCAD for Inverse Design and Defect Discovery: From Simple Machine Learning to LLM](../ai/research/arxiv-2609-07046.md)
-  - [AI chatbots give wrong answers to financial queries 'most of the time'](../ai/community/ai-chatbots-give-wrong-answers-to-financial-querie.md)
   - [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](../ai/research/arxiv-2609-08166.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
@@ -27958,6 +27964,7 @@ Resources organized by keyword tags.
   - [Domain-Specific Self-Supervised Representation Learning for Retinal Fundus Classification](../ai/research/arxiv-2608-26686.md)
   - [Domain-Validity-Gated Metamorphic Testing of Scientific ML Surrogates](../ai/research/arxiv-2606-17529.md)
   - [Dominant Arm Identification with Mixing and Recycling Observed Samples](../ai/research/arxiv-2608-01545.md)
+  - [Don't Use AI to Write](../ai/community/don-t-use-ai-to-write.md)
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
   - [Dons des particuliers, legs - Fondation CNRS](../ai/resources/dons-des-particuliers-legs-fondation-cnrs.md)
   - [Door-in-the-Face Requests and Refusal Behaviour in Large Language Models](../ai/research/arxiv-2609-02707.md)
@@ -28954,6 +28961,7 @@ Resources organized by keyword tags.
   - [M+Adam: Low-Precision Training via Additive-Multiplicative Optimization](../ai/research/arxiv-2607-10611.md)
   - [M-Net: Integrating Spectral Features and Physical Field Operators into Deep Learning for Medical Image Segmentation](../ai/research/arxiv-2608-12196.md)
   - [M2K: Making the Model-Kernel Interface Explicit for Reliable CUDA Kernel Verification](../ai/rag/arxiv-2603-24595.md)
+  - [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](../ai/community/m5-ultra-mac-studio-review-the-dream-mac-for-local.md)
   - [MA-HEAD-Net: Adaptive Rule-Guided Multi-Agent DRL for AoI Minimization in UAV-Assisted Emergency Networks](../ai/agents/arxiv-2608-01128.md)
   - [MAGneT: Coordinated Multi-Agent Generation of Synthetic Multi-Turn Mental Health Counseling Sessions](../ai/rag/arxiv-2509-04183.md)
   - [MARC records and custom Excel title lists | Librarian Portal | Springer Nature](../ai/resources/marc-records-and-custom-excel-title-lists-libraria.md)
@@ -29036,6 +29044,7 @@ Resources organized by keyword tags.
   - [Memory-V2V: Memory-Augmented Video-to-Video Diffusion for Consistent Multi-Turn Editing](../ai/research/arxiv-2601-16296.md)
   - [Mesh-based Super-resolution of Multiscale Detonation Flows with Graph Transformers](../ai/rag/arxiv-2511-12041.md)
   - [Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting](../ai/research/arxiv-2607-22890.md)
+  - [Meta bans ads for Virginia Woolf play in Spain](../ai/community/meta-bans-ads-for-virginia-woolf-play-in-spain.md)
   - [Meta-Learning for Classifier Selection in Image Datasets: A Feature-Driven Framework for Accuracy Prediction](../ai/rag/arxiv-2609-11041.md)
   - [Meta-classification of one-class classification models using ranking correlation and nearest neighbor](../ai/research/arxiv-2606-17858.md)
   - [MetaConfigurator: AI-Assisted RDF Authoring from JSON Data](../ai/agents/arxiv-2606-07094.md)
@@ -29376,7 +29385,6 @@ Resources organized by keyword tags.
   - [PierreGode/Ragnar](../ai/rag/pierregode-ragnar.md)
   - [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](../ai/research/arxiv-2609-15919.md)
   - [Pinecone - YouTube](../ai/resources/pinecone-youtube.md)
-  - [Pirate Face Rescues LLM Models from Deletion](../ai/community/pirate-face-rescues-llm-models-from-deletion.md)
   - [PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](../ai/rag/arxiv-2606-24081.md)
   - [PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking](../ai/agents/arxiv-2609-21263.md)
   - [Plain Transformers are Surprisingly Powerful Link Predictors](../ai/rag/arxiv-2602-01553.md)
@@ -29842,6 +29850,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Lossless-memory – a personal AI memory that never summarizes](../ai/community/aru-labs-lossless-memory.md)
+  - [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](../ai/community/volotat-mini-agi.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -29906,7 +29916,6 @@ Resources organized by keyword tags.
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Soyeong Jeong](../ai/rag/soyeong-jeong.md)
   - [Space Telecommunications, Astronomy and Radiation Laboratory - MIT AeroAstro](../ai/resources/space-telecommunications-astronomy-and-radiation-l.md)
-  - [Spain Orders Blocks on Archive.today and Its Mirrors](../ai/community/spain-orders-blocks-on-archive-today-and-its-mirro.md)
   - [Spam and Sentiment Detection in Arabic Tweets Using MARBERT Model](../ai/research/arxiv-2606-25495.md)
   - [Sparse Covariance Neural Networks](../ai/rag/arxiv-2410-01669.md)
   - [Sparse Coverage: Semantic Center Representations for Patent Prior-Art Retrieval](../ai/rag/arxiv-2608-16918.md)
@@ -30140,7 +30149,6 @@ Resources organized by keyword tags.
   - [The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection](../ai/rag/arxiv-2606-09204.md)
   - [The Insurability Frontier of AI Risk: Mapping Threats to Affirmative Coverage, Silent Exposures, and Exclusions](../ai/rag/arxiv-2605-18784.md)
   - [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](../ai/agents/arxiv-2606-16649.md)
-  - [The LLMentalist Effect (2023)](../ai/community/the-llmentalist-effect-2023.md)
   - [The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas](../ai/research/arxiv-2603-11842.md)
   - [The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](../ai/rag/arxiv-2607-06531.md)
   - [The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations](../ai/rag/arxiv-2608-18300.md)
@@ -30682,7 +30690,6 @@ Resources organized by keyword tags.
   - [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md)
   - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md)
   - [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md)
-  - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md)
   - [langchain-ai/data-enrichment](../ai/agents/langchain-ai-data-enrichment.md)
   - [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md)
   - [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md)
@@ -30696,6 +30703,7 @@ Resources organized by keyword tags.
   - [llm · PyPI](../ai/rag/llm-pypi.md)
   - [llms.txt directory - Find llms.txt files across the web](../ai/rag/llms-txt-directory-find-llms-txt-files-across-the.md)
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
+  - [macOS 27: Workaround to avoid downloading AI models and save storage](../ai/community/macos-27-workaround-to-avoid-downloading-ai-models.md)
   - [martiansideofthemoon/rankgen](../ai/resources/martiansideofthemoon-rankgen.md)
   - [martinfowler.com](../ai/resources/martinfowler-com.md)
   - [mastodon/mastodon · Discussions · GitHub](../ai/resources/mastodon-mastodon.md)
@@ -30738,6 +30746,7 @@ Resources organized by keyword tags.
   - [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md)
   - [pgf-tikz Info Page](../ai/rag/pgf-tikz-info-page.md)
   - [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md)
+  - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
   - [pinecone-io/pinecone-claude-code-plugin](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
@@ -30801,6 +30810,7 @@ Resources organized by keyword tags.
   - [viktoriasemaan/multi-agent](../ai/agents/viktoriasemaan-multi-agent.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
@@ -31049,6 +31059,7 @@ Resources organized by keyword tags.
   - [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md)
   - [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md)
   - [viktoriasemaan/multi-agent](../ai/agents/viktoriasemaan-multi-agent.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [zahere-dev/openai-agents-sdk-tutorial](../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)
 
 ## kotlin
@@ -31396,11 +31407,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Pirate Face Rescues LLM Models from Deletion](../ai/community/pirate-face-rescues-llm-models-from-deletion.md)
-  - [The LLMentalist Effect (2023)](../ai/community/the-llmentalist-effect-2023.md)
 
 ## mdx
 
@@ -53526,6 +53532,7 @@ Resources organized by keyword tags.
   - [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md)
   - [m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning](../ai/rag/arxiv-2601-19099.md)
   - [mR$^2$AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](../ai/rag/arxiv-2411-15041.md)
+  - [macOS 27: Workaround to avoid downloading AI models and save storage](../ai/community/macos-27-workaround-to-avoid-downloading-ai-models.md)
   - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md)
   - [medium-policy/Rules.md at master · Medium/medium-policy · GitHub](../ai/rag/medium-policy.md)
@@ -53693,6 +53700,7 @@ Resources organized by keyword tags.
   - [virattt/dexter](../ai/rag/virattt-dexter.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
@@ -55356,6 +55364,7 @@ Resources organized by keyword tags.
   - [llm · PyPI](../ai/rag/llm-pypi.md)
   - [llms.txt directory - Find llms.txt files across the web](../ai/rag/llms-txt-directory-find-llms-txt-files-across-the.md)
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
+  - [macOS 27: Workaround to avoid downloading AI models and save storage](../ai/community/macos-27-workaround-to-avoid-downloading-ai-models.md)
   - [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md)
   - [microsoft/promptflow-rag-project-template](../ai/rag/microsoft-promptflow-rag-project-template.md)
   - [moby/moby · Discussions · GitHub](../ai/resources/moby-moby.md)
@@ -56163,7 +56172,6 @@ Resources organized by keyword tags.
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
   - [platform/system/update_engine - Git at Google](../ai/rag/platform-system-update-engine-git-at-google.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
-  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -61197,7 +61205,6 @@ Resources organized by keyword tags.
   - [The latest on DevSecOps - The GitHub Blog](../ai/rag/the-latest-on-devsecops-the-github-blog.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The xAI Platform for OCI Generative AI](../ai/agents/the-xai-platform-for-oci-generative-ai.md)
-  - [The-Pocket/PocketFlow-Template-Python](../ai/agents/the-pocket-pocketflow-template-python.md)
   - [The-Swarm-Corporation/Multi-Agent-Template-App](../ai/agents/the-swarm-corporation-multi-agent-template-app.md)
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Think Before You Grid-Search: Floor-First Triage for LLM Serving](../ai/agents/arxiv-2607-05876.md)
@@ -61410,6 +61417,7 @@ Resources organized by keyword tags.
   - [beezwax blog](../ai/resources/beezwax-blog.md)
   - [bigscience-workshop/promptsource](../ai/resources/bigscience-workshop-promptsource.md)
   - [cigh](../ai/resources/cigh.md)
+  - [cline/cline](../ai/agents/cline-cline.md)
   - [cloudflare/mcp](../ai/resources/cloudflare-mcp.md)
   - [community · Discussions · GitHub](../ai/rag/orgs-community.md)
   - [conda-forge | community-driven packaging for conda](../ai/rag/conda-forge-community-driven-packaging-for-conda.md)
@@ -61468,7 +61476,6 @@ Resources organized by keyword tags.
   - [knative/docs](../ai/resources/knative-docs.md)
   - [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md)
   - [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md)
-  - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md)
   - [langchain-ai/langchain](../ai/rag/langchain-ai-langchain.md)
   - [langchain-ai/langchain-skills](../ai/agents/langchain-ai-langchain-skills.md)
   - [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md)
@@ -61555,7 +61562,6 @@ Resources organized by keyword tags.
   - [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md)
   - [stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](../ai/resources/stripe-stripe-firebase-extensions.md)
   - [supabase/supabase](../ai/rag/supabase-supabase.md)
-  - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [temporalio/temporal](../ai/resources/temporalio-temporal.md)
   - [titiler/CONTRIBUTING.md at main · developmentseed/titiler · GitHub](../ai/rag/developmentseed-titiler.md)
   - [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md)
@@ -64429,4 +64435,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-21T10:53:30.182301+05:30*
+*Index generated on 2026-09-21T20:59:06.101915+05:30*

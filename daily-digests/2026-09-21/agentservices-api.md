@@ -1,19 +1,33 @@
 ---
-title: "vbkotecha/agentservices-api"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["FastAPI", "Python 3.11+", "x402 v2", "USDC", "Base Mainnet", "Coinbase CDP facilitator", "Railway", "MCP (Model Context Protocol)", "Coinbase AgentKit"]
+title: vbkotecha/agentservices-api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- FastAPI
+- Python 3.11+
+- x402 v2
+- USDC
+- Base Mainnet
+- Coinbase CDP facilitator
+- Railway
+- MCP (Model Context Protocol)
+- Coinbase AgentKit
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["micropayments", "AI agents", "crypto data", "DeFi analytics", "market intelligence"]
-source: "https://github.com/vbkotecha/agentservices-api"
+deployment_complexity: Medium
+tags:
+- micropayments
+- AI agents
+- crypto data
+- DeFi analytics
+- market intelligence
+source: https://github.com/vbkotecha/agentservices-api
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T17:26:01Z"
-discovered_at: "2026-08-09T17:35:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T17:26:01Z'
+discovered_at: '2026-08-09T17:35:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

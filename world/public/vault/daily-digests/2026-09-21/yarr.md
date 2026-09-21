@@ -1,19 +1,31 @@
 ---
-title: "jmagar/yarr"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Node.js", "MCP (Model Context Protocol)", "CLI", "REST API", "Docker", "GitHub Actions"]
+title: jmagar/yarr
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- REST API
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["media automation", "MCP server", "self-hosted", "Rust", "orchestrator"]
-source: "https://github.com/jmagar/yarr"
+deployment_complexity: Medium
+tags:
+- media automation
+- MCP server
+- self-hosted
+- Rust
+- orchestrator
+source: https://github.com/jmagar/yarr
 stars: 3
-language: "Rust"
-last_updated: "2026-07-13T13:18:03Z"
-discovered_at: "2026-07-13T13:22:37Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-13T13:18:03Z'
+discovered_at: '2026-07-13T13:22:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

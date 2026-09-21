@@ -1,19 +1,43 @@
 ---
-title: "ryanwien/VantageApplication"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["React", "JavaScript", "Node.js", "Vite", "Ollama", "vLLM", "ROCm", "OpenRouter", "Claude", "OpenAI", "Gemini", "Finnhub API", "TMDB API", "YouTube API", "ElevenLabs", "Stripe", "Zoom API", "Google Meet API", "DataHub"]
+title: ryanwien/VantageApplication
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- React
+- JavaScript
+- Node.js
+- Vite
+- Ollama
+- vLLM
+- ROCm
+- OpenRouter
+- Claude
+- OpenAI
+- Gemini
+- Finnhub API
+- TMDB API
+- YouTube API
+- ElevenLabs
+- Stripe
+- Zoom API
+- Google Meet API
+- DataHub
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "market dashboard", "local inference", "data catalog", "browser-based"]
-source: "https://github.com/ryanwien/VantageApplication"
+deployment_complexity: Medium
+tags:
+- AI agent
+- market dashboard
+- local inference
+- data catalog
+- browser-based
+source: https://github.com/ryanwien/VantageApplication
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T17:30:11Z"
-discovered_at: "2026-08-08T17:32:55Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T17:30:11Z'
+discovered_at: '2026-08-08T17:32:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

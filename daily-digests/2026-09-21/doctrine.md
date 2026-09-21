@@ -1,19 +1,29 @@
 ---
-title: "aethrox/doctrine"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Claude Code", "Markdown"]
+title: aethrox/doctrine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- Claude Code
+- Markdown
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["software engineering discipline", "industry standards", "MCP server", "Claude Code plugin", "development workflow"]
-source: "https://github.com/aethrox/doctrine"
+deployment_complexity: Low
+tags:
+- software engineering discipline
+- industry standards
+- MCP server
+- Claude Code plugin
+- development workflow
+source: https://github.com/aethrox/doctrine
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-09T14:32:55Z"
-discovered_at: "2026-08-09T14:37:50Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T14:32:55Z'
+discovered_at: '2026-08-09T14:37:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

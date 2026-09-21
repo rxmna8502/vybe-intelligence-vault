@@ -4,23 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cline/cline
-collected_at: '2026-09-03T10:17:22.848848+05:30'
-published_at: '2026-09-03T04:18:23Z'
+collected_at: '2026-09-21T20:47:01.538386+05:30'
+published_at: '2026-09-21T15:13:21Z'
 tags:
 - agents
 - github-repo
 - typescript
-stars: 67381
+- workflows
+stars: 68944
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-07-06T07:28:10Z'
-pushed_at: '2026-09-03T04:31:16Z'
+pushed_at: '2026-09-21T14:38:03Z'
 resource_id: github:cline/cline
-first_seen: '2026-09-03T10:17:22.848848+05:30'
-last_seen: '2026-09-03T10:17:22.848848+05:30'
-last_checked: '2026-09-03T10:17:22.848848+05:30'
+first_seen: '2026-09-21T20:47:01.538386+05:30'
+last_seen: '2026-09-21T20:47:01.538386+05:30'
+last_checked: '2026-09-21T20:47:01.538386+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension, or CLI assistant to automate software development tasks.
-
-- **TypeScript Implementation**: The project is built entirely in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
-
-- **High Activity Metrics**: With 67,381 stars and 7,278 forks, Cline demonstrates significant community adoption and rapid updates (last commit: 2026-09-03).
+*   Autonomous coding agent designed for automated software development workflows.
+*   Offers multi-modal integration through SDK, IDE extension, and CLI interfaces.
+*   TypeScript-based implementation with substantial community adoption (68k+ stars).
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cline
-- Stars: 67381
-- Forks: 7278
+- Stars: 68944
+- Forks: 7471
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-09-03T04:18:23Z
+- Last Updated: 2026-09-21T15:13:21Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-07-06T07:28:10Z
-- Pushed At: 2026-09-03T04:31:16Z
+- Pushed At: 2026-09-21T14:38:03Z
 
 ## Possible Use Cases
 

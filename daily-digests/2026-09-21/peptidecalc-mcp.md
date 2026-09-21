@@ -1,19 +1,28 @@
 ---
-title: "double2dev/peptidecalc-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "npm"]
+title: double2dev/peptidecalc-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["peptide calculation", "MCP server", "dosage accuracy", "research protocols", "syringe mapping"]
-source: "https://github.com/double2dev/peptidecalc-mcp"
+deployment_complexity: Low
+tags:
+- peptide calculation
+- MCP server
+- dosage accuracy
+- research protocols
+- syringe mapping
+source: https://github.com/double2dev/peptidecalc-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T06:07:34Z"
-discovered_at: "2026-08-07T06:13:26Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T06:07:34Z'
+discovered_at: '2026-08-07T06:13:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

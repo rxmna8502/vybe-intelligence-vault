@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: mteb/leaderboard (Likes: 7679, Downloads: 0)
+Trending Hugging Face space: mteb/leaderboard (Likes: 7682, Downloads: 0)
 
 ## Use Cases
 

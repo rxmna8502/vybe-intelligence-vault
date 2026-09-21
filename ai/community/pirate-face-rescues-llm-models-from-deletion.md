@@ -13,13 +13,14 @@ collected_at: '2026-09-21T10:35:10.145476+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:pirate-face-rescues-llm-models-from-deletion
 first_seen: '2026-09-21T00:25:41.052151+05:30'
 last_seen: '2026-09-21T10:35:10.145476+05:30'
 last_checked: '2026-09-21T10:35:10.145476+05:30'
 health_score: 100
 ---
+
 
 # Pirate Face Rescues LLM Models from Deletion
 

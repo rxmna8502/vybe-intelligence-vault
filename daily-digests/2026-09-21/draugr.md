@@ -1,19 +1,35 @@
 ---
-title: "draugr-dev/draugr"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "YAML", "SARIF", "Trivy", "Gitleaks", "Semgrep", "Nuclei", "kube-bench", "Syft", "Cosign", "Model Context Protocol (MCP)"]
+title: draugr-dev/draugr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Go
+- YAML
+- SARIF
+- Trivy
+- Gitleaks
+- Semgrep
+- Nuclei
+- kube-bench
+- Syft
+- Cosign
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Security scanning", "Compliance automation", "SARIF normalization", "CI/CD integration", "AI-assisted security"]
-source: "https://github.com/draugr-dev/draugr"
+deployment_complexity: Medium
+tags:
+- Security scanning
+- Compliance automation
+- SARIF normalization
+- CI/CD integration
+- AI-assisted security
+source: https://github.com/draugr-dev/draugr
 stars: 2
-language: "Go"
-last_updated: "2026-08-01T03:20:23Z"
-discovered_at: "2026-08-01T03:44:27Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T03:20:23Z'
+discovered_at: '2026-08-01T03:44:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

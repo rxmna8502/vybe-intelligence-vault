@@ -1,19 +1,31 @@
 ---
-title: "Abhiskek-kumar/llm-wiki-patterns"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LLM APIs (OpenAI, Claude)", "Vector Embeddings", "Knowledge Graphs (Neo4j)", "NLP Parsing", "Semantic Search", "YAML/JSON Configuration"]
+title: Abhiskek-kumar/llm-wiki-patterns
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- LLM APIs (OpenAI, Claude)
+- Vector Embeddings
+- Knowledge Graphs (Neo4j)
+- NLP Parsing
+- Semantic Search
+- YAML/JSON Configuration
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["autonomous research", "knowledge graph", "agentic workflows", "semantic processing", "multilingual AI"]
-source: "https://github.com/Abhiskek-kumar/llm-wiki-patterns"
+deployment_complexity: High
+tags:
+- autonomous research
+- knowledge graph
+- agentic workflows
+- semantic processing
+- multilingual AI
+source: https://github.com/Abhiskek-kumar/llm-wiki-patterns
 stars: 1
-language: "HTML"
-last_updated: "2026-09-01T18:58:22Z"
-discovered_at: "2026-09-01T19:06:54Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T18:58:22Z'
+discovered_at: '2026-09-01T19:06:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

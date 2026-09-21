@@ -1,19 +1,32 @@
 ---
-title: "shadkhan/mcp-openapi-doctor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "OpenAPI 3.x", "Swagger 2.0", "MCP (Model Context Protocol)", "Zod", "Vitest", "pnpm"]
+title: shadkhan/mcp-openapi-doctor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- OpenAPI 3.x
+- Swagger 2.0
+- MCP (Model Context Protocol)
+- Zod
+- Vitest
+- pnpm
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["OpenAPI", "MCP", "API validation", "agent tools", "REST to MCP"]
-source: "https://github.com/shadkhan/mcp-openapi-doctor"
+deployment_complexity: Medium
+tags:
+- OpenAPI
+- MCP
+- API validation
+- agent tools
+- REST to MCP
+source: https://github.com/shadkhan/mcp-openapi-doctor
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-12T13:27:35Z"
-discovered_at: "2026-07-12T13:36:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T13:27:35Z'
+discovered_at: '2026-07-12T13:36:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

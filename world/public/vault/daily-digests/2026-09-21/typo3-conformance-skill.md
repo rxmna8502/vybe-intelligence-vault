@@ -1,19 +1,35 @@
 ---
-title: "netresearch/typo3-conformance-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["PHP", "TYPO3", "PSR-12", "PHPStan", "Rector", "PHPUnit", "Playwright", "Shell Scripting", "Agent Skills Framework", "Docker", "CI/CD"]
+title: netresearch/typo3-conformance-skill
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- PHP
+- TYPO3
+- PSR-12
+- PHPStan
+- Rector
+- PHPUnit
+- Playwright
+- Shell Scripting
+- Agent Skills Framework
+- Docker
+- CI/CD
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["TYPO3", "conformance-checker", "extension-validation", "agent-skill", "PHP-standards"]
-source: "https://github.com/netresearch/typo3-conformance-skill"
+deployment_complexity: Medium
+tags:
+- TYPO3
+- conformance-checker
+- extension-validation
+- agent-skill
+- PHP-standards
+source: https://github.com/netresearch/typo3-conformance-skill
 stars: 6
-language: "Shell"
-last_updated: "2026-07-20T21:07:58Z"
-discovered_at: "2026-07-20T21:10:55Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-20T21:07:58Z'
+discovered_at: '2026-07-20T21:10:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

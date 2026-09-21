@@ -1,19 +1,32 @@
 ---
-title: "cc-vb/voicebridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "whisper.cpp", "Kokoro (TTS)", "macOS CoreAudio", "Claude Code", "Bash", "FFmpeg", "Sox"]
+title: cc-vb/voicebridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- whisper.cpp
+- Kokoro (TTS)
+- macOS CoreAudio
+- Claude Code
+- Bash
+- FFmpeg
+- Sox
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["voice interface", "local STT/TTS", "multi-agent control", "hands-free coding", "Claude Code integration"]
-source: "https://github.com/cc-vb/voicebridge"
+deployment_complexity: Medium
+tags:
+- voice interface
+- local STT/TTS
+- multi-agent control
+- hands-free coding
+- Claude Code integration
+source: https://github.com/cc-vb/voicebridge
 stars: 4
-language: "Python"
-last_updated: "2026-07-21T07:25:30Z"
-discovered_at: "2026-07-21T07:32:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T07:25:30Z'
+discovered_at: '2026-07-21T07:32:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

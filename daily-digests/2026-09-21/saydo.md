@@ -1,19 +1,31 @@
 ---
-title: "vince-gonzalez/saydo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "Ed25519 (signatures)", "JSON Schema", "GitHub Actions", "TLS Inspection", "Containerization"]
+title: vince-gonzalez/saydo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Docker
+- Ed25519 (signatures)
+- JSON Schema
+- GitHub Actions
+- TLS Inspection
+- Containerization
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["conformance testing", "verifiable receipts", "MCP servers", "sandboxed execution", "behavioral auditing"]
-source: "https://github.com/vince-gonzalez/saydo"
+deployment_complexity: Medium
+tags:
+- conformance testing
+- verifiable receipts
+- MCP servers
+- sandboxed execution
+- behavioral auditing
+source: https://github.com/vince-gonzalez/saydo
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T22:12:03Z"
-discovered_at: "2026-09-02T22:20:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T22:12:03Z'
+discovered_at: '2026-09-02T22:20:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

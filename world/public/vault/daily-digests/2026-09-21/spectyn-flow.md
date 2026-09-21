@@ -1,19 +1,31 @@
 ---
-title: "markl-a/spectyn-flow"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "PyYAML", "JSON-RPC", "MCP (Model Context Protocol)", "CLI", "YAML", "Deterministic LLM Stub"]
+title: markl-a/spectyn-flow
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Python
+- PyYAML
+- JSON-RPC
+- MCP (Model Context Protocol)
+- CLI
+- YAML
+- Deterministic LLM Stub
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["workflow automation", "local-first", "YAML runner", "approval gating", "AI agent integration"]
-source: "https://github.com/markl-a/spectyn-flow"
+deployment_complexity: Medium
+tags:
+- workflow automation
+- local-first
+- YAML runner
+- approval gating
+- AI agent integration
+source: https://github.com/markl-a/spectyn-flow
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T16:28:35Z"
-discovered_at: "2026-08-08T16:35:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:28:35Z'
+discovered_at: '2026-08-08T16:35:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

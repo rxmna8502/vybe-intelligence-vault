@@ -1,19 +1,31 @@
 ---
-title: "miruamel/Xiaoyi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Python", "TypeScript", "Tokio", "Maturin", "Node.js", "LLM APIs (OpenAI, Anthropic, Ollama)"]
+title: miruamel/Xiaoyi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Python
+- TypeScript
+- Tokio
+- Maturin
+- Node.js
+- LLM APIs (OpenAI, Anthropic, Ollama)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "multi-language SDK", "agent orchestration", "LLM integration", "error recovery"]
-source: "https://github.com/miruamel/Xiaoyi"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- multi-language SDK
+- agent orchestration
+- LLM integration
+- error recovery
+source: https://github.com/miruamel/Xiaoyi
 stars: 1
-language: "Rust"
-last_updated: "2026-08-08T11:23:22Z"
-discovered_at: "2026-08-08T11:30:47Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T11:23:22Z'
+discovered_at: '2026-08-08T11:30:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "geoffmcc/sidekick"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "PostgreSQL", "Redis", "Qdrant", "InfluxDB", "Grafana", "Docker", "Systemd", "SSH", "MCP (Model Context Protocol)"]
+title: geoffmcc/sidekick
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- PostgreSQL
+- Redis
+- Qdrant
+- InfluxDB
+- Grafana
+- Docker
+- Systemd
+- SSH
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["autonomous agents", "persistent memory", "MCP tools", "self-hosted", "remote execution"]
-source: "https://github.com/geoffmcc/sidekick"
+deployment_complexity: High
+tags:
+- autonomous agents
+- persistent memory
+- MCP tools
+- self-hosted
+- remote execution
+source: https://github.com/geoffmcc/sidekick
 stars: 2
-language: "JavaScript"
-last_updated: "2026-07-15T20:01:47Z"
-discovered_at: "2026-07-15T20:08:00Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-15T20:01:47Z'
+discovered_at: '2026-07-15T20:08:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

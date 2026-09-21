@@ -1,19 +1,30 @@
 ---
-title: "ChniaPxs/mcp-file-servers"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FFmpeg", "Tesseract OCR", "7-Zip", "PyPI packages (pypdf, python-docx, openpyxl, pillow, pyautogui, selenium, pyserial)"]
+title: ChniaPxs/mcp-file-servers
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FFmpeg
+- Tesseract OCR
+- 7-Zip
+- PyPI packages (pypdf, python-docx, openpyxl, pillow, pyautogui, selenium, pyserial)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "local automation", "file processing", "AI tooling", "desktop control"]
-source: "https://github.com/ChniaPxs/mcp-file-servers"
+deployment_complexity: Medium
+tags:
+- MCP
+- local automation
+- file processing
+- AI tooling
+- desktop control
+source: https://github.com/ChniaPxs/mcp-file-servers
 stars: 1
-language: "Python"
-last_updated: "2026-09-02T08:14:55Z"
-discovered_at: "2026-09-02T08:22:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:14:55Z'
+discovered_at: '2026-09-02T08:22:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

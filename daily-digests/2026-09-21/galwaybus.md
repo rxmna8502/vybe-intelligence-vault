@@ -1,19 +1,34 @@
 ---
-title: "joreilly/GalwayBus"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Kotlin", "Compose Multiplatform", "Ktor", "Jetpack Compose", "SwiftUI", "GTFS", "GTFS-Realtime", "SQLDelight", "Google Maps API", "Kotlin Multiplatform (KMP)"]
+title: joreilly/GalwayBus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Kotlin
+- Compose Multiplatform
+- Ktor
+- Jetpack Compose
+- SwiftUI
+- GTFS
+- GTFS-Realtime
+- SQLDelight
+- Google Maps API
+- Kotlin Multiplatform (KMP)
 quality_score: 8
 rag_relevance: 3
-deployment_complexity: "Medium"
-tags: ["multiplatform", "real-time transit", "compose", "mobile development", "kotlin"]
-source: "https://github.com/joreilly/GalwayBus"
+deployment_complexity: Medium
+tags:
+- multiplatform
+- real-time transit
+- compose
+- mobile development
+- kotlin
+source: https://github.com/joreilly/GalwayBus
 stars: 586
-language: "Kotlin"
-last_updated: "2026-08-05T16:42:07Z"
-discovered_at: "2026-08-05T16:45:19Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-08-05T16:42:07Z'
+discovered_at: '2026-08-05T16:45:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "TimWongUp/agentnave"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "STDIO", "uv (Python package manager)", "POSIX process management"]
+title: TimWongUp/agentnave
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- STDIO
+- uv (Python package manager)
+- POSIX process management
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "subagent orchestration", "AI workflows", "process supervision", "local agent management"]
-source: "https://github.com/TimWongUp/agentnave"
+deployment_complexity: Medium
+tags:
+- MCP server
+- subagent orchestration
+- AI workflows
+- process supervision
+- local agent management
+source: https://github.com/TimWongUp/agentnave
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T01:57:51Z"
-discovered_at: "2026-09-03T02:24:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T01:57:51Z'
+discovered_at: '2026-09-03T02:24:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

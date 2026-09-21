@@ -1,19 +1,34 @@
 ---
-title: "princeofscale/bloxforge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "Lua", "Luau", "MCP (Model Context Protocol)", "Rojo", "Rokit", "Wally", "Roblox Studio", "Roblox Open Cloud API"]
+title: princeofscale/bloxforge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Node.js
+- TypeScript
+- Lua
+- Luau
+- MCP (Model Context Protocol)
+- Rojo
+- Rokit
+- Wally
+- Roblox Studio
+- Roblox Open Cloud API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Roblox", "AI agent integration", "MCP server", "game development", "Luau scripting"]
-source: "https://github.com/princeofscale/bloxforge"
+deployment_complexity: Medium
+tags:
+- Roblox
+- AI agent integration
+- MCP server
+- game development
+- Luau scripting
+source: https://github.com/princeofscale/bloxforge
 stars: 4
-language: "Lua"
-last_updated: "2026-08-01T08:56:32Z"
-discovered_at: "2026-08-01T09:06:37Z"
-evaluated_by: "mistral-small-latest"
+language: Lua
+last_updated: '2026-08-01T08:56:32Z'
+discovered_at: '2026-08-01T09:06:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

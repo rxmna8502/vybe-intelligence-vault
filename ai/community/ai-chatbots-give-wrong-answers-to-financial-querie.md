@@ -13,13 +13,14 @@ collected_at: '2026-09-21T10:35:11.732340+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-chatbots-give-wrong-answers-to-financial-querie
 first_seen: '2026-09-21T10:35:11.732340+05:30'
 last_seen: '2026-09-21T10:35:11.732340+05:30'
 last_checked: '2026-09-21T10:35:11.732340+05:30'
 health_score: 100
 ---
+
 
 # AI chatbots give wrong answers to financial queries 'most of the time'
 

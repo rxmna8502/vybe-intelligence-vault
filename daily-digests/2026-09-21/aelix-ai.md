@@ -1,19 +1,37 @@
 ---
-title: "handochan/aelix-ai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Ed25519", "SHA-256", "uv", "Anthropic API", "OpenAI API", "Gemini/Vertex API", "OpenRouter API", "Cloudflare Workers AI", "GitHub Copilot API", "Pandas", "Ripgrep (rg)", "fd"]
+title: handochan/aelix-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Ed25519
+- SHA-256
+- uv
+- Anthropic API
+- OpenAI API
+- Gemini/Vertex API
+- OpenRouter API
+- Cloudflare Workers AI
+- GitHub Copilot API
+- Pandas
+- Ripgrep (rg)
+- fd
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent runtime", "self-hosted", "hot-reload", "Python extensions", "auditable"]
-source: "https://github.com/handochan/aelix-ai"
+deployment_complexity: Medium
+tags:
+- agent runtime
+- self-hosted
+- hot-reload
+- Python extensions
+- auditable
+source: https://github.com/handochan/aelix-ai
 stars: 5
-language: "Python"
-last_updated: "2026-08-10T18:51:33Z"
-discovered_at: "2026-08-10T19:01:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T18:51:33Z'
+discovered_at: '2026-08-10T19:01:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

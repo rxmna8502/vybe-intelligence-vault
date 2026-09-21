@@ -1,19 +1,33 @@
 ---
-title: "miruamel/zhi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun Runtime", "Zig (WASM)", "Node.js (>=20)", "Git", "Doxygen Universal (Documentation)", "JSDoc", "Vitest", "Mermaid (Diagrams)"]
+title: miruamel/zhi
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Bun Runtime
+- Zig (WASM)
+- Node.js (>=20)
+- Git
+- Doxygen Universal (Documentation)
+- JSDoc
+- Vitest
+- Mermaid (Diagrams)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["autonomous coding", "state machine", "multi-critic evaluation", "bounded recovery", "trunk-based development"]
-source: "https://github.com/miruamel/zhi"
+deployment_complexity: Medium
+tags:
+- autonomous coding
+- state machine
+- multi-critic evaluation
+- bounded recovery
+- trunk-based development
+source: https://github.com/miruamel/zhi
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-03T21:56:27Z"
-discovered_at: "2026-09-03T22:07:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T21:56:27Z'
+discovered_at: '2026-09-03T22:07:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
