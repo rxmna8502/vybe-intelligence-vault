@@ -1,19 +1,31 @@
 ---
-title: "lucaszengool/Terse"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "Swift", "JavaScript", "TypeScript", "SQLite", "MCP (Model Context Protocol)"]
+title: lucaszengool/Terse
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Tauri
+- Swift
+- JavaScript
+- TypeScript
+- SQLite
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent monitoring", "prompt optimization", "cost reduction", "MCP management", "on-device processing"]
-source: "https://github.com/lucaszengool/Terse"
+deployment_complexity: Medium
+tags:
+- AI agent monitoring
+- prompt optimization
+- cost reduction
+- MCP management
+- on-device processing
+source: https://github.com/lucaszengool/Terse
 stars: 0
-language: "HTML"
-last_updated: "2026-07-21T10:12:00Z"
-discovered_at: "2026-07-21T10:24:40Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-21T10:12:00Z'
+discovered_at: '2026-07-21T10:24:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

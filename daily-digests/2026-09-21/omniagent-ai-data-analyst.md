@@ -1,19 +1,33 @@
 ---
-title: "hoomanesteki/omniagent-ai-data-analyst"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "DuckDB", "PostgreSQL", "Streamlit", "Groq API", "SQL", "YAML", "Docker"]
+title: hoomanesteki/omniagent-ai-data-analyst
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- LangGraph
+- DuckDB
+- PostgreSQL
+- Streamlit
+- Groq API
+- SQL
+- YAML
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["governed SQL", "semantic layer", "deterministic routing", "data analysis", "LLM guardrails"]
-source: "https://github.com/hoomanesteki/omniagent-ai-data-analyst"
+deployment_complexity: Medium
+tags:
+- governed SQL
+- semantic layer
+- deterministic routing
+- data analysis
+- LLM guardrails
+source: https://github.com/hoomanesteki/omniagent-ai-data-analyst
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T02:11:13Z"
-discovered_at: "2026-08-05T02:18:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T02:11:13Z'
+discovered_at: '2026-08-05T02:18:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

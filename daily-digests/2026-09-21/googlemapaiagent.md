@@ -1,19 +1,29 @@
 ---
-title: "codezer0x/GoogleMapAIagent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OpenAI", "Google Maps API", "Google Sheets API", "Natural Language Processing"]
+title: codezer0x/GoogleMapAIagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- OpenAI
+- Google Maps API
+- Google Sheets API
+- Natural Language Processing
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["lead generation", "Google Maps", "data extraction", "automation", "business intelligence"]
-source: "https://github.com/codezer0x/GoogleMapAIagent"
+deployment_complexity: Low
+tags:
+- lead generation
+- Google Maps
+- data extraction
+- automation
+- business intelligence
+source: https://github.com/codezer0x/GoogleMapAIagent
 stars: 2
-language: "None"
-last_updated: "2026-09-01T22:16:37Z"
-discovered_at: "2026-09-01T22:17:43Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-01T22:16:37Z'
+discovered_at: '2026-09-01T22:17:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

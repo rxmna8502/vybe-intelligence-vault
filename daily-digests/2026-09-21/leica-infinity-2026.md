@@ -1,19 +1,28 @@
 ---
-title: "alegameplays14-del/leica-infinity-2026"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows Installer", "Markdown Documentation", "Session Logging", "Workflow Checklists"]
+title: alegameplays14-del/leica-infinity-2026
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Windows Installer
+- Markdown Documentation
+- Session Logging
+- Workflow Checklists
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["desktop-application", "session-management", "workflow-tools", "installer", "documentation"]
-source: "https://github.com/alegameplays14-del/leica-infinity-2026"
+deployment_complexity: Low
+tags:
+- desktop-application
+- session-management
+- workflow-tools
+- installer
+- documentation
+source: https://github.com/alegameplays14-del/leica-infinity-2026
 stars: 0
-language: "None"
-last_updated: "2026-08-09T14:13:44Z"
-discovered_at: "2026-08-09T14:38:37Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T14:13:44Z'
+discovered_at: '2026-08-09T14:38:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

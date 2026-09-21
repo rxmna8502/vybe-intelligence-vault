@@ -1,19 +1,31 @@
 ---
-title: "MaksimZinovev/maker-post"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Cloudflare Workers", "Cloudflare R2", "Cloudflare D1/KV", "OpenRouter (vision + text models)", "iOS Shortcuts", "LLM (for clustering and classification)", "Web App (React/Next.js or similar)"]
+title: MaksimZinovev/maker-post
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Cloudflare Workers
+- Cloudflare R2
+- Cloudflare D1/KV
+- OpenRouter (vision + text models)
+- iOS Shortcuts
+- LLM (for clustering and classification)
+- Web App (React/Next.js or similar)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI organization", "photo classification", "post idea generation", "knowledge management", "solo maker tools"]
-source: "https://github.com/MaksimZinovev/maker-post"
+deployment_complexity: Medium
+tags:
+- AI organization
+- photo classification
+- post idea generation
+- knowledge management
+- solo maker tools
+source: https://github.com/MaksimZinovev/maker-post
 stars: 0
-language: "HTML"
-last_updated: "2026-08-09T08:43:17Z"
-discovered_at: "2026-08-09T08:45:05Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-09T08:43:17Z'
+discovered_at: '2026-08-09T08:45:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

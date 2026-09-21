@@ -1,19 +1,32 @@
 ---
-title: "deyikong/sendgrid-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SendGrid API v3", "Model Context Protocol (MCP)", "Zod", "Express.js", "OAuth 2.1", "JWT"]
+title: deyikong/sendgrid-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- SendGrid API v3
+- Model Context Protocol (MCP)
+- Zod
+- Express.js
+- OAuth 2.1
+- JWT
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP Server", "SendGrid Integration", "Email Automation", "API Wrapper", "AI Agent Tools"]
-source: "https://github.com/deyikong/sendgrid-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- SendGrid Integration
+- Email Automation
+- API Wrapper
+- AI Agent Tools
+source: https://github.com/deyikong/sendgrid-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-09-03T21:59:36Z"
-discovered_at: "2026-09-03T22:10:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T21:59:36Z'
+discovered_at: '2026-09-03T22:10:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

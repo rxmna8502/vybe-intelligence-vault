@@ -1,19 +1,32 @@
 ---
-title: "tietiezhi-1216/tietiezhi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "React", "AI SDK", "SQLite", "Go", "Node.js", "pnpm"]
+title: tietiezhi-1216/tietiezhi
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Electron
+- TypeScript
+- React
+- AI SDK
+- SQLite
+- Go
+- Node.js
+- pnpm
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["desktop AI", "agent framework", "electron app", "ai sdk", "workspace automation"]
-source: "https://github.com/tietiezhi-1216/tietiezhi"
+deployment_complexity: Medium
+tags:
+- desktop AI
+- agent framework
+- electron app
+- ai sdk
+- workspace automation
+source: https://github.com/tietiezhi-1216/tietiezhi
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-01T06:19:10Z"
-discovered_at: "2026-08-01T06:29:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T06:19:10Z'
+discovered_at: '2026-08-01T06:29:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

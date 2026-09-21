@@ -1,19 +1,29 @@
 ---
-title: "richudell/ytmusic-rs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "Google OAuth 2.0", "YouTube Data API v3", "Cargo (Rust package manager)"]
+title: richudell/ytmusic-rs
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- Google OAuth 2.0
+- YouTube Data API v3
+- Cargo (Rust package manager)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["MCP server", "YouTube Music", "Rust", "OAuth authentication", "playlist management"]
-source: "https://github.com/richudell/ytmusic-rs"
+deployment_complexity: Medium
+tags:
+- MCP server
+- YouTube Music
+- Rust
+- OAuth authentication
+- playlist management
+source: https://github.com/richudell/ytmusic-rs
 stars: 0
-language: "Rust"
-last_updated: "2026-08-09T06:54:47Z"
-discovered_at: "2026-08-09T06:58:55Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T06:54:47Z'
+discovered_at: '2026-08-09T06:58:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

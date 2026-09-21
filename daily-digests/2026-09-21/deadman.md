@@ -1,19 +1,36 @@
 ---
-title: "weed33834/deadman"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "FastAPI", "PyJWT", "AES-256-GCM", "PBKDF2", "Sentry", "MCP Server", "A2A Server", "LangChain", "PostgreSQL", "SMTP"]
+title: weed33834/deadman
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- PyJWT
+- AES-256-GCM
+- PBKDF2
+- Sentry
+- MCP Server
+- A2A Server
+- LangChain
+- PostgreSQL
+- SMTP
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["multi-agent systems", "post-death navigation", "medical guidance", "compliance framework", "secure data handling"]
-source: "https://github.com/weed33834/deadman"
+deployment_complexity: High
+tags:
+- multi-agent systems
+- post-death navigation
+- medical guidance
+- compliance framework
+- secure data handling
+source: https://github.com/weed33834/deadman
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T12:44:34Z"
-discovered_at: "2026-08-09T12:50:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T12:44:34Z'
+discovered_at: '2026-08-09T12:50:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

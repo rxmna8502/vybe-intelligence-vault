@@ -1,19 +1,31 @@
 ---
-title: "jcmaker/just-study"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Markdown", "MCP (Model Context Protocol)", "Express.js", "React (for dashboard UI)"]
+title: jcmaker/just-study
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Markdown
+- MCP (Model Context Protocol)
+- Express.js
+- React (for dashboard UI)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["self-hosted", "study automation", "curriculum generation", "local LLM integration", "adaptive learning"]
-source: "https://github.com/jcmaker/just-study"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- study automation
+- curriculum generation
+- local LLM integration
+- adaptive learning
+source: https://github.com/jcmaker/just-study
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T10:36:14Z"
-discovered_at: "2026-08-02T10:41:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T10:36:14Z'
+discovered_at: '2026-08-02T10:41:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "markndg/arsenic"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "OpenAI API", "Ollama", "Anthropic API", "Google API", "HTML/JSON reporting", "CLI"]
+title: markndg/arsenic
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- OpenAI API
+- Ollama
+- Anthropic API
+- Google API
+- HTML/JSON reporting
+- CLI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["LLM evaluation", "behavioral drift detection", "model upgrade safety", "prompt engineering", "compatibility testing"]
-source: "https://github.com/markndg/arsenic"
+deployment_complexity: Medium
+tags:
+- LLM evaluation
+- behavioral drift detection
+- model upgrade safety
+- prompt engineering
+- compatibility testing
+source: https://github.com/markndg/arsenic
 stars: 3
-language: "Rust"
-last_updated: "2026-07-29T09:24:02Z"
-discovered_at: "2026-08-01T22:55:10Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-29T09:24:02Z'
+discovered_at: '2026-08-01T22:55:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

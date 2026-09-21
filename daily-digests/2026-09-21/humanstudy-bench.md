@@ -1,19 +1,30 @@
 ---
-title: "HumanStudy-Hub/HumanStudy-Bench"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "GitHub Actions", "OpenRouter API", "JSON", "Bash"]
+title: HumanStudy-Hub/HumanStudy-Bench
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Claude Code
+- GitHub Actions
+- OpenRouter API
+- JSON
+- Bash
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent evaluation", "human study replay", "benchmarking", "social science", "automated study extraction"]
-source: "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+deployment_complexity: Medium
+tags:
+- AI agent evaluation
+- human study replay
+- benchmarking
+- social science
+- automated study extraction
+source: https://github.com/HumanStudy-Hub/HumanStudy-Bench
 stars: 6
-language: "Python"
-last_updated: "2026-08-08T16:28:52Z"
-discovered_at: "2026-08-08T16:35:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:28:52Z'
+discovered_at: '2026-08-08T16:35:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "1tsRajOwO/oryven"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "Electron", "Ollama", "SQLite", "Playwright"]
+title: 1tsRajOwO/oryven
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- React
+- Electron
+- Ollama
+- SQLite
+- Playwright
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local AI", "on-device agent", "Ollama integration", "computer control", "privacy-focused"]
-source: "https://github.com/1tsRajOwO/oryven"
+deployment_complexity: Medium
+tags:
+- local AI
+- on-device agent
+- Ollama integration
+- computer control
+- privacy-focused
+source: https://github.com/1tsRajOwO/oryven
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T23:48:25Z"
-discovered_at: "2026-07-18T23:52:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T23:48:25Z'
+discovered_at: '2026-07-18T23:52:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

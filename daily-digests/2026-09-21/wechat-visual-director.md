@@ -1,19 +1,32 @@
 ---
-title: "zhouke0929/wechat-visual-director"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Node.js", "React", "Markdown", "AI Agents", "WeChat API", "GitHub Actions"]
+title: zhouke0929/wechat-visual-director
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- React
+- Markdown
+- AI Agents
+- WeChat API
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI content layout", "WeChat publishing", "automated visual design", "agent-based workflow", "public account tools"]
-source: "https://github.com/zhouke0929/wechat-visual-director"
+deployment_complexity: Medium
+tags:
+- AI content layout
+- WeChat publishing
+- automated visual design
+- agent-based workflow
+- public account tools
+source: https://github.com/zhouke0929/wechat-visual-director
 stars: 7
-language: "Python"
-last_updated: "2026-09-03T08:27:03Z"
-discovered_at: "2026-09-03T08:30:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T08:27:03Z'
+discovered_at: '2026-09-03T08:30:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "coasty-ai/coasty-legal-docket-research"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Coasty API", "Computer-use automation", "Browser automation"]
+title: coasty-ai/coasty-legal-docket-research
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- Coasty API
+- Computer-use automation
+- Browser automation
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "legal automation", "browser automation", "docket research", "computer-use"]
-source: "https://github.com/coasty-ai/coasty-legal-docket-research"
+deployment_complexity: Medium
+tags:
+- AI agent
+- legal automation
+- browser automation
+- docket research
+- computer-use
+source: https://github.com/coasty-ai/coasty-legal-docket-research
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:22:15Z"
-discovered_at: "2026-08-02T19:25:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:22:15Z'
+discovered_at: '2026-08-02T19:25:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

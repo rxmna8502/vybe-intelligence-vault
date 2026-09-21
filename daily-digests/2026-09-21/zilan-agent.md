@@ -1,19 +1,34 @@
 ---
-title: "RyanYao527/zilan-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "OpenAI API", "HuggingFace", "YAML", "pytest", "mypy", "ruff", "GitHub Actions", "Markdown"]
+title: RyanYao527/zilan-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Claude Code
+- OpenAI API
+- HuggingFace
+- YAML
+- pytest
+- mypy
+- ruff
+- GitHub Actions
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LLM reliability", "output contracts", "deterministic validation", "Buddhist AI", "Agama retrieval"]
-source: "https://github.com/RyanYao527/zilan-agent"
+deployment_complexity: Medium
+tags:
+- LLM reliability
+- output contracts
+- deterministic validation
+- Buddhist AI
+- Agama retrieval
+source: https://github.com/RyanYao527/zilan-agent
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T09:04:12Z"
-discovered_at: "2026-09-01T09:10:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T09:04:12Z'
+discovered_at: '2026-09-01T09:10:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

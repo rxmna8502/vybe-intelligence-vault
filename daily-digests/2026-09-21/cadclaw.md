@@ -1,19 +1,33 @@
 ---
-title: "sunnyday-technologies/CADCLAW"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "CADQuery", "VTK", "Open CASCADE (OCC)", "PyNite (for FEA)", "PyYAML", "Pillow", "Pydantic", "MCP Server"]
+title: sunnyday-technologies/CADCLAW
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- CADQuery
+- VTK
+- Open CASCADE (OCC)
+- PyNite (for FEA)
+- PyYAML
+- Pillow
+- Pydantic
+- MCP Server
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CAD validation", "STEP assembly checks", "automated testing", "geometric analysis", "BOM audit"]
-source: "https://github.com/sunnyday-technologies/CADCLAW"
+deployment_complexity: Medium
+tags:
+- CAD validation
+- STEP assembly checks
+- automated testing
+- geometric analysis
+- BOM audit
+source: https://github.com/sunnyday-technologies/CADCLAW
 stars: 12
-language: "Python"
-last_updated: "2026-07-17T10:37:57Z"
-discovered_at: "2026-07-17T10:46:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T10:37:57Z'
+discovered_at: '2026-07-17T10:46:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

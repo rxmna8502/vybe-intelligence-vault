@@ -1,19 +1,34 @@
 ---
-title: "Trojaner/mcp-database-query-app"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "Dapper", "PostgreSQL", "SQL Server", "SQLite", "AES-256-GCM", "MCP Apps Protocol", "Chart.js", "Model Context Protocol"]
+title: Trojaner/mcp-database-query-app
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- C#
+- .NET 10
+- Dapper
+- PostgreSQL
+- SQL Server
+- SQLite
+- AES-256-GCM
+- MCP Apps Protocol
+- Chart.js
+- Model Context Protocol
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP App", "Database Query", "Interactive UI", "PostgreSQL", "SQL Server"]
-source: "https://github.com/Trojaner/mcp-database-query-app"
+deployment_complexity: Medium
+tags:
+- MCP App
+- Database Query
+- Interactive UI
+- PostgreSQL
+- SQL Server
+source: https://github.com/Trojaner/mcp-database-query-app
 stars: 7
-language: "C#"
-last_updated: "2026-08-07T20:38:29Z"
-discovered_at: "2026-08-07T20:43:00Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T20:38:29Z'
+discovered_at: '2026-08-07T20:43:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

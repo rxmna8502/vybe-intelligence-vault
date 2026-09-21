@@ -26007,12 +26007,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Amiga Unix, Again](../ai/community/amiga-unix-again.md)
-  - [Don't Use AI to Write](../ai/community/don-t-use-ai-to-write.md)
-  - [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](../ai/community/m5-ultra-mac-studio-review-the-dream-mac-for-local.md)
-  - [Meta bans ads for Virginia Woolf play in Spain](../ai/community/meta-bans-ads-for-virginia-woolf-play-in-spain.md)
-  - [Show HN: Lossless-memory – a personal AI memory that never summarizes](../ai/community/aru-labs-lossless-memory.md)
+  - [AI coding has made CI a bottleneck, so we reworked ours to keep up](../ai/community/ai-coding-has-made-ci-a-bottleneck-so-we-reworked.md)
+  - [Avoiding the babbling-idiot failure in a time-triggered communication system](../ai/community/avoiding-the-babbling-idiot-failure-in-a-time-trig.md)
+  - [Frontier AI on Your Own Hardware](../ai/community/frontier-ai-on-your-own-hardware.md)
+  - [Python Workers are now generally available](../ai/community/python-workers-are-now-generally-available.md)
   - [Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](../ai/community/volotat-mini-agi.md)
+  - [Transformers Explained Visually](../ai/community/transformers-explained-visually.md)
+  - [US halts flights at busy East Coast airports, says fiber line cut](../ai/community/us-halts-flights-at-busy-east-coast-airports-says.md)
+  - [Why does mathmain need an encrypted loader?](../ai/community/why-does-mathmain-need-an-encrypted-loader.md)
   - [macOS 27: Workaround to avoid downloading AI models and save storage](../ai/community/macos-27-workaround-to-avoid-downloading-ai-models.md)
 
 ## Unknown Source (type: huggingface)
@@ -26883,12 +26885,12 @@ Resources organized by publisher feed and query sources.
 
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
-  - [anilili/anilili-apk](../ai/models/huggingface-datasets-anilili.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
+  - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
@@ -27090,6 +27092,7 @@ Resources organized by publisher feed and query sources.
   - [Turbopack: What's New in Next.js 16.2](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)
   - [Turbopack: What's New in Next.js 16.3](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md)
   - [Upcoming Next.js August Security Release](../web-development/nextjs/upcoming-next-js-august-security-release.md)
+  - [Upcoming Next.js Security Update for a Critical Upstream Issue](../web-development/nextjs/upcoming-next-js-security-update-for-a-critical-up.md)
   - [Update: August Next.js Security Release](../web-development/nextjs/update-august-next-js-security-release.md)
 
 ## Unknown Source (type: web)
@@ -29877,4 +29880,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-21T20:59:06.430944+05:30*
+*Index generated on 2026-09-22T02:17:21.262159+05:30*

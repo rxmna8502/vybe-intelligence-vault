@@ -1,19 +1,36 @@
 ---
-title: "markl-a/spectyn-enterprise"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LDAP", "SSO", "VPN", "GitLab", "Gitea", "Confluence", "Jira", "MES", "ERP", "Apple Silicon", "mesh networking"]
+title: markl-a/spectyn-enterprise
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Python
+- LDAP
+- SSO
+- VPN
+- GitLab
+- Gitea
+- Confluence
+- Jira
+- MES
+- ERP
+- Apple Silicon
+- mesh networking
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["enterprise connectors", "on-premises", "privacy-first", "mesh networking", "AI data integration"]
-source: "https://github.com/markl-a/spectyn-enterprise"
+deployment_complexity: Medium
+tags:
+- enterprise connectors
+- on-premises
+- privacy-first
+- mesh networking
+- AI data integration
+source: https://github.com/markl-a/spectyn-enterprise
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T16:28:30Z"
-discovered_at: "2026-08-08T16:35:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:28:30Z'
+discovered_at: '2026-08-08T16:35:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

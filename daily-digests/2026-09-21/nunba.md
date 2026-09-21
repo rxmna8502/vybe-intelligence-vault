@@ -1,19 +1,37 @@
 ---
-title: "hertz-ai/Nunba"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "JavaScript", "React Native", "GGUF models", "llama.cpp", "Whisper", "TTS engines (Piper, Indic Parler)", "CUDA", "Fernet encryption", "HART OS (custom agent engine)", "Electron (desktop app)", "MCP servers", "OpenAI-compatible API"]
+title: hertz-ai/Nunba
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- JavaScript
+- React Native
+- GGUF models
+- llama.cpp
+- Whisper
+- TTS engines (Piper, Indic Parler)
+- CUDA
+- Fernet encryption
+- HART OS (custom agent engine)
+- Electron (desktop app)
+- MCP servers
+- OpenAI-compatible API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first AI", "multimodal assistant", "federated learning", "offline-capable", "agent orchestration"]
-source: "https://github.com/hertz-ai/Nunba"
+deployment_complexity: Medium
+tags:
+- local-first AI
+- multimodal assistant
+- federated learning
+- offline-capable
+- agent orchestration
+source: https://github.com/hertz-ai/Nunba
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-03T18:50:15Z"
-discovered_at: "2026-08-03T18:52:33Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T18:50:15Z'
+discovered_at: '2026-08-03T18:52:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

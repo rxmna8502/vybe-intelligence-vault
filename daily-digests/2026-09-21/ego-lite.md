@@ -1,19 +1,30 @@
 ---
-title: "citrolabs/ego-lite"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Electron", "Browser Automation", "WebKit", "CLI Integration", "TypeScript"]
+title: citrolabs/ego-lite
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Electron
+- Browser Automation
+- WebKit
+- CLI Integration
+- TypeScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["browser automation", "AI agents", "parallel workflows", "isolated environments", "token efficiency"]
-source: "https://github.com/citrolabs/ego-lite"
+deployment_complexity: Low
+tags:
+- browser automation
+- AI agents
+- parallel workflows
+- isolated environments
+- token efficiency
+source: https://github.com/citrolabs/ego-lite
 stars: 14796
-language: "JavaScript"
-last_updated: "2026-09-03T08:26:15Z"
-discovered_at: "2026-09-03T08:35:53Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T08:26:15Z'
+discovered_at: '2026-09-03T08:35:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

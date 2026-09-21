@@ -1,19 +1,29 @@
 ---
-title: "sshisto/mnemo-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Docker", "Hybrid Search", "Cloud Sync"]
+title: sshisto/mnemo-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- SQLite
+- Docker
+- Hybrid Search
+- Cloud Sync
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI Memory", "Hybrid Search", "Persistent Storage", "Data Sync", "Open Source"]
-source: "https://github.com/sshisto/mnemo-mcp"
+deployment_complexity: Low
+tags:
+- AI Memory
+- Hybrid Search
+- Persistent Storage
+- Data Sync
+- Open Source
+source: https://github.com/sshisto/mnemo-mcp
 stars: 2
-language: "Python"
-last_updated: "2026-08-07T09:27:05Z"
-discovered_at: "2026-08-07T10:06:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T09:27:05Z'
+discovered_at: '2026-08-07T10:06:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

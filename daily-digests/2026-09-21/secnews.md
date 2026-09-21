@@ -1,19 +1,36 @@
 ---
-title: "anyeduke11/secnews"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["FastAPI", "SQLite WAL", "React 18", "TypeScript", "Vite 5", "Python", "APScheduler", "MCP (Model Context Protocol)", "WebDAV", "echarts", "recharts", "Fernet (encryption)"]
+title: anyeduke11/secnews
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- FastAPI
+- SQLite WAL
+- React 18
+- TypeScript
+- Vite 5
+- Python
+- APScheduler
+- MCP (Model Context Protocol)
+- WebDAV
+- echarts
+- recharts
+- Fernet (encryption)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI security workstation", "MCP tools", "local knowledge base", "data pipeline", "AI agent integration"]
-source: "https://github.com/anyeduke11/secnews"
+deployment_complexity: Medium
+tags:
+- AI security workstation
+- MCP tools
+- local knowledge base
+- data pipeline
+- AI agent integration
+source: https://github.com/anyeduke11/secnews
 stars: 1
-language: "Python"
-last_updated: "2026-09-02T08:18:00Z"
-discovered_at: "2026-09-02T08:20:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:18:00Z'
+discovered_at: '2026-09-02T08:20:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

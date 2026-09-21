@@ -1,19 +1,33 @@
 ---
-title: "Pinvou/pinvou-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri", "React", "Vite", "Rust", "TypeScript", "JavaScript", "MCP (Model Context Protocol)", "vLLM", "OpenAI-compatible APIs"]
+title: Pinvou/pinvou-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Tauri
+- React
+- Vite
+- Rust
+- TypeScript
+- JavaScript
+- MCP (Model Context Protocol)
+- vLLM
+- OpenAI-compatible APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "desktop application", "workflow automation", "knowledge management", "multi-model support"]
-source: "https://github.com/Pinvou/pinvou-agent"
+deployment_complexity: Medium
+tags:
+- AI agent
+- desktop application
+- workflow automation
+- knowledge management
+- multi-model support
+source: https://github.com/Pinvou/pinvou-agent
 stars: 213
-language: "JavaScript"
-last_updated: "2026-08-02T10:39:27Z"
-discovered_at: "2026-08-02T10:41:33Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T10:39:27Z'
+discovered_at: '2026-08-02T10:41:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

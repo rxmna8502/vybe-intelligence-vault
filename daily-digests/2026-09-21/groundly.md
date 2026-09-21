@@ -1,19 +1,34 @@
 ---
-title: "paulhondola/groundly"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "GraphRAG", "BM25", "BGE-M3 (embedding model)", "Anki (flashcard export)", "LM Studio", "Ollama", "OpenAI-compatible APIs"]
+title: paulhondola/groundly
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- RAG (Retrieval-Augmented Generation)
+- GraphRAG
+- BM25
+- BGE-M3 (embedding model)
+- Anki (flashcard export)
+- LM Studio
+- Ollama
+- OpenAI-compatible APIs
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["local-first", "knowledge indexing", "grounded RAG", "verification", "portable knowledge bases"]
-source: "https://github.com/paulhondola/groundly"
+deployment_complexity: Medium
+tags:
+- local-first
+- knowledge indexing
+- grounded RAG
+- verification
+- portable knowledge bases
+source: https://github.com/paulhondola/groundly
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T20:31:03Z"
-discovered_at: "2026-08-08T20:32:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T20:31:03Z'
+discovered_at: '2026-08-08T20:32:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

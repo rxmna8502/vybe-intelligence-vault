@@ -1,19 +1,31 @@
 ---
-title: "cyanheads/wsdot-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "MCP (Model Context Protocol)", "Node.js", "Docker", "Zod", "OpenTelemetry"]
+title: cyanheads/wsdot-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Bun
+- MCP (Model Context Protocol)
+- Node.js
+- Docker
+- Zod
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "WSDOT API", "Real-time Data", "Transportation", "Agent Integration"]
-source: "https://github.com/cyanheads/wsdot-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- WSDOT API
+- Real-time Data
+- Transportation
+- Agent Integration
+source: https://github.com/cyanheads/wsdot-mcp-server
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-12T02:19:50Z"
-discovered_at: "2026-07-12T02:33:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T02:19:50Z'
+discovered_at: '2026-07-12T02:33:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

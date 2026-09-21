@@ -1,19 +1,30 @@
 ---
-title: "lohchanhin/benchmarks-ab-demo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Git", "Codex CLI", "Vertex Palace", "npm"]
+title: lohchanhin/benchmarks-ab-demo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- Git
+- Codex CLI
+- Vertex Palace
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["A/B benchmarking", "Codex evaluation", "Vertex Palace", "reproducibility", "engineering tasks"]
-source: "https://github.com/lohchanhin/benchmarks-ab-demo"
+deployment_complexity: Medium
+tags:
+- A/B benchmarking
+- Codex evaluation
+- Vertex Palace
+- reproducibility
+- engineering tasks
+source: https://github.com/lohchanhin/benchmarks-ab-demo
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-18T15:49:04Z"
-discovered_at: "2026-07-18T15:55:15Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T15:49:04Z'
+discovered_at: '2026-07-18T15:55:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

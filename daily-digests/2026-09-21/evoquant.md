@@ -1,19 +1,36 @@
 ---
-title: "CamusGIT/EvoQuant"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "DeepAgents", "LangChain", "LLM Providers (Anthropic, OpenAI, Google, MiniMax, NVIDIA)", "PDF Processing (PyPDF2, Unstructured, etc.)", "Pydantic", "FastAPI (for WebUI)", "Docker", "Telegram/Slack/Feishu/Discord APIs", "Mermaid.js (for diagrams)", "SQLite/PostgreSQL (for experiment tracking)"]
+title: CamusGIT/EvoQuant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- LangGraph
+- DeepAgents
+- LangChain
+- LLM Providers (Anthropic, OpenAI, Google, MiniMax, NVIDIA)
+- PDF Processing (PyPDF2, Unstructured, etc.)
+- Pydantic
+- FastAPI (for WebUI)
+- Docker
+- Telegram/Slack/Feishu/Discord APIs
+- Mermaid.js (for diagrams)
+- SQLite/PostgreSQL (for experiment tracking)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["quantitative research", "autonomous agent", "alpha factor generation", "IC evaluation", "PDF knowledge extraction"]
-source: "https://github.com/CamusGIT/EvoQuant"
+deployment_complexity: Medium
+tags:
+- quantitative research
+- autonomous agent
+- alpha factor generation
+- IC evaluation
+- PDF knowledge extraction
+source: https://github.com/CamusGIT/EvoQuant
 stars: 215
-language: "Python"
-last_updated: "2026-09-02T08:17:57Z"
-discovered_at: "2026-09-02T08:19:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:17:57Z'
+discovered_at: '2026-09-02T08:19:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

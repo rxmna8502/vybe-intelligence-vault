@@ -1,19 +1,31 @@
 ---
-title: "bitkaio/migratowl"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Kubernetes", "Claude AI (LLM)", "FastAPI", "Docker", "GitHub/GitLab APIs", "PostgreSQL"]
+title: bitkaio/migratowl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Kubernetes
+- Claude AI (LLM)
+- FastAPI
+- Docker
+- GitHub/GitLab APIs
+- PostgreSQL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["dependency management", "AI-powered analysis", "breaking changes", "CI/CD integration", "sandbox testing"]
-source: "https://github.com/bitkaio/migratowl"
+deployment_complexity: Medium
+tags:
+- dependency management
+- AI-powered analysis
+- breaking changes
+- CI/CD integration
+- sandbox testing
+source: https://github.com/bitkaio/migratowl
 stars: 13
-language: "Python"
-last_updated: "2026-07-20T15:05:27Z"
-discovered_at: "2026-07-20T15:10:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T15:05:27Z'
+discovered_at: '2026-07-20T15:10:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

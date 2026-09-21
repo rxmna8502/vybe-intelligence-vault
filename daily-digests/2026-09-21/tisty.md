@@ -1,19 +1,29 @@
 ---
-title: "rgdevment/Tisty"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "Markdown", "TypeScript", "MCP (Model Context Protocol)"]
+title: rgdevment/Tisty
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Tauri
+- Markdown
+- TypeScript
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["local-first", "productivity", "markdown", "offline", "task management"]
-source: "https://github.com/rgdevment/Tisty"
+deployment_complexity: Medium
+tags:
+- local-first
+- productivity
+- markdown
+- offline
+- task management
+source: https://github.com/rgdevment/Tisty
 stars: 0
-language: "Rust"
-last_updated: "2026-09-02T15:47:36Z"
-discovered_at: "2026-09-02T15:52:21Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T15:47:36Z'
+discovered_at: '2026-09-02T15:52:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

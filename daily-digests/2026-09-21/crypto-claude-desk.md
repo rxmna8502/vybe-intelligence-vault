@@ -1,19 +1,33 @@
 ---
-title: "hugoguerrap/crypto-claude-desk"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "MCP (Model Context Protocol)", "Python", "SQLite", "CCXT", "CoinGecko API", "Polymarket API", "DefiLlama API", "Next.js (optional dashboard)"]
+title: hugoguerrap/crypto-claude-desk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Claude Code
+- MCP (Model Context Protocol)
+- Python
+- SQLite
+- CCXT
+- CoinGecko API
+- Polymarket API
+- DefiLlama API
+- Next.js (optional dashboard)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "crypto trading", "Claude Code", "MCP servers", "autonomous agents"]
-source: "https://github.com/hugoguerrap/crypto-claude-desk"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- crypto trading
+- Claude Code
+- MCP servers
+- autonomous agents
+source: https://github.com/hugoguerrap/crypto-claude-desk
 stars: 23
-language: "Python"
-last_updated: "2026-07-17T20:05:04Z"
-discovered_at: "2026-07-17T20:05:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T20:05:04Z'
+discovered_at: '2026-07-17T20:05:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

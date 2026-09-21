@@ -1,19 +1,36 @@
 ---
-title: "six-ddc/Pinion"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["ESP32-P4", "C", "ESP-IDF", "LVGL", "DeepSeek API", "MIPI-DSI", "RISC-V", "NVS", "UART", "I2S", "Bluetooth", "LVGL"]
+title: six-ddc/Pinion
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- ESP32-P4
+- C
+- ESP-IDF
+- LVGL
+- DeepSeek API
+- MIPI-DSI
+- RISC-V
+- NVS
+- UART
+- I2S
+- Bluetooth
+- LVGL
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["ESP32", "AI agent", "embedded UI", "real-time rendering", "hardware abstraction"]
-source: "https://github.com/six-ddc/Pinion"
+deployment_complexity: High
+tags:
+- ESP32
+- AI agent
+- embedded UI
+- real-time rendering
+- hardware abstraction
+source: https://github.com/six-ddc/Pinion
 stars: 0
-language: "C"
-last_updated: "2026-08-01T14:58:09Z"
-discovered_at: "2026-08-01T15:01:20Z"
-evaluated_by: "mistral-small-latest"
+language: C
+last_updated: '2026-08-01T14:58:09Z'
+discovered_at: '2026-08-01T15:01:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

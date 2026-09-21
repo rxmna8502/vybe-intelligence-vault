@@ -1,19 +1,30 @@
 ---
-title: "LeadMagic/leadmagic-cursor-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Cursor Plugin", "MCP (Model Context Protocol)", "OAuth", "HTTP API"]
+title: LeadMagic/leadmagic-cursor-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- Cursor Plugin
+- MCP (Model Context Protocol)
+- OAuth
+- HTTP API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["B2B enrichment", "work email validation", "company research", "GTM intelligence", "Cursor IDE"]
-source: "https://github.com/LeadMagic/leadmagic-cursor-plugin"
+deployment_complexity: Low
+tags:
+- B2B enrichment
+- work email validation
+- company research
+- GTM intelligence
+- Cursor IDE
+source: https://github.com/LeadMagic/leadmagic-cursor-plugin
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-03T02:06:50Z"
-discovered_at: "2026-09-03T02:22:51Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T02:06:50Z'
+discovered_at: '2026-09-03T02:22:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

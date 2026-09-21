@@ -1,19 +1,31 @@
 ---
-title: "celieexpanded402/RustClaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Ollama", "Anthropic API", "Telegram API", "Discord API", "GitHub API", "TOML"]
+title: celieexpanded402/RustClaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Ollama
+- Anthropic API
+- Telegram API
+- Discord API
+- GitHub API
+- TOML
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI agents", "Rust framework", "desktop automation", "multi-platform integration", "lightweight"]
-source: "https://github.com/celieexpanded402/RustClaw"
+deployment_complexity: Low
+tags:
+- AI agents
+- Rust framework
+- desktop automation
+- multi-platform integration
+- lightweight
+source: https://github.com/celieexpanded402/RustClaw
 stars: 1
-language: "Rust"
-last_updated: "2026-07-11T11:00:30Z"
-discovered_at: "2026-07-11T11:03:51Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-11T11:00:30Z'
+discovered_at: '2026-07-11T11:03:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,39 @@
 ---
-title: "MATZ-Solution/HalalOne"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "FastAPI", "LangGraph", "Typesense", "Python", "TypeScript", "React", "Tailwind CSS", "WebSockets", "Supabase", "Valkey", "Groq API", "Fireworks AI", "Exa API", "Docker"]
+title: MATZ-Solution/HalalOne
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Next.js
+- FastAPI
+- LangGraph
+- Typesense
+- Python
+- TypeScript
+- React
+- Tailwind CSS
+- WebSockets
+- Supabase
+- Valkey
+- Groq API
+- Fireworks AI
+- Exa API
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Conversational AI", "Product Verification", "Halal Certification", "Agentic Search", "Multi-modal Input"]
-source: "https://github.com/MATZ-Solution/HalalOne"
+deployment_complexity: Medium
+tags:
+- Conversational AI
+- Product Verification
+- Halal Certification
+- Agentic Search
+- Multi-modal Input
+source: https://github.com/MATZ-Solution/HalalOne
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T06:18:58Z"
-discovered_at: "2026-08-03T06:23:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T06:18:58Z'
+discovered_at: '2026-08-03T06:23:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

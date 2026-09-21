@@ -1,19 +1,29 @@
 ---
-title: "rust-mcp-stack/rust-mcp-filesystem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "Asynchronous I/O", "ZIP Archive Handling", "Glob Pattern Matching"]
+title: rust-mcp-stack/rust-mcp-filesystem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- Asynchronous I/O
+- ZIP Archive Handling
+- Glob Pattern Matching
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["filesystem", "MCP server", "Rust", "asynchronous", "high-performance"]
-source: "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
+deployment_complexity: Low
+tags:
+- filesystem
+- MCP server
+- Rust
+- asynchronous
+- high-performance
+source: https://github.com/rust-mcp-stack/rust-mcp-filesystem
 stars: 169
-language: "Rust"
-last_updated: "2026-08-09T14:27:19Z"
-discovered_at: "2026-08-09T14:38:33Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T14:27:19Z'
+discovered_at: '2026-08-09T14:38:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

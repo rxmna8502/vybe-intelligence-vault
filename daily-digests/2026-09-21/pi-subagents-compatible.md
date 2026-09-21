@@ -1,19 +1,29 @@
 ---
-title: "damupi/pi-subagents-compatible"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Pi Platform", "Node.js", "TUI (Terminal User Interface)", "JSON/JSONC for configuration"]
+title: damupi/pi-subagents-compatible
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Pi Platform
+- Node.js
+- TUI (Terminal User Interface)
+- JSON/JSONC for configuration
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["subagents", "agent orchestration", "Pi platform", "Claude-compatible", "async workflows"]
-source: "https://github.com/damupi/pi-subagents-compatible"
+deployment_complexity: Medium
+tags:
+- subagents
+- agent orchestration
+- Pi platform
+- Claude-compatible
+- async workflows
+source: https://github.com/damupi/pi-subagents-compatible
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T13:06:15Z"
-discovered_at: "2026-08-01T13:16:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T13:06:15Z'
+discovered_at: '2026-08-01T13:16:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "anne-markis/software-factory-the-game"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Vite", "npm", "JSON", "Static Site Hosting", "Nginx"]
+title: anne-markis/software-factory-the-game
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Vite
+- npm
+- JSON
+- Static Site Hosting
+- Nginx
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["simulation", "software delivery", "systems thinking", "incremental game", "content-authoring"]
-source: "https://github.com/anne-markis/software-factory-the-game"
+deployment_complexity: Low
+tags:
+- simulation
+- software delivery
+- systems thinking
+- incremental game
+- content-authoring
+source: https://github.com/anne-markis/software-factory-the-game
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T15:54:34Z"
-discovered_at: "2026-08-07T16:01:46Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T15:54:34Z'
+discovered_at: '2026-08-07T16:01:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

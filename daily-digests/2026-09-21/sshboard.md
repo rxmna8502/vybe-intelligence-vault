@@ -1,19 +1,33 @@
 ---
-title: "meta-taro/sshboard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri 2", "SvelteKit", "xterm.js", "russh", "russh-sftp", "Node.js", "pnpm", "Docker"]
+title: meta-taro/sshboard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Tauri 2
+- SvelteKit
+- xterm.js
+- russh
+- russh-sftp
+- Node.js
+- pnpm
+- Docker
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP", "SSH terminal", "SFTP client", "AI collaboration", "read-only operations"]
-source: "https://github.com/meta-taro/sshboard"
+deployment_complexity: Medium
+tags:
+- MCP
+- SSH terminal
+- SFTP client
+- AI collaboration
+- read-only operations
+source: https://github.com/meta-taro/sshboard
 stars: 0
-language: "Rust"
-last_updated: "2026-09-03T02:08:45Z"
-discovered_at: "2026-09-03T02:18:06Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T02:08:45Z'
+discovered_at: '2026-09-03T02:18:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

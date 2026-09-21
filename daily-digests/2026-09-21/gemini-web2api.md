@@ -1,19 +1,29 @@
 ---
-title: "ikhsan3adi/gemini-web2api"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "TLS Impersonation", "Scotty Resumable Upload Protocol", "OpenAI API Compatibility", "Docker"]
+title: ikhsan3adi/gemini-web2api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Go
+- TLS Impersonation
+- Scotty Resumable Upload Protocol
+- OpenAI API Compatibility
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Gemini API", "OpenAI Compatibility", "Multimodal", "TLS Impersonation", "High Performance"]
-source: "https://github.com/ikhsan3adi/gemini-web2api"
+deployment_complexity: Medium
+tags:
+- Gemini API
+- OpenAI Compatibility
+- Multimodal
+- TLS Impersonation
+- High Performance
+source: https://github.com/ikhsan3adi/gemini-web2api
 stars: 1
-language: "Go"
-last_updated: "2026-08-01T06:22:10Z"
-discovered_at: "2026-08-01T06:28:54Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T06:22:10Z'
+discovered_at: '2026-08-01T06:28:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

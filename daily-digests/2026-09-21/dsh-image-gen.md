@@ -1,19 +1,34 @@
 ---
-title: "shanliuling/dsh-image-gen"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "DeepSeek Harness", "Node.js", "ComfyUI", "Google Gemini", "OpenAI Images", "ByteDance Seedream", "Aliyun DashScope", "React", "pnpm"]
+title: shanliuling/dsh-image-gen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- DeepSeek Harness
+- Node.js
+- ComfyUI
+- Google Gemini
+- OpenAI Images
+- ByteDance Seedream
+- Aliyun DashScope
+- React
+- pnpm
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Image Generation", "DeepSeek Harness", "Prompt Engineering", "Multi-Model Comparison", "ComfyUI Integration"]
-source: "https://github.com/shanliuling/dsh-image-gen"
+deployment_complexity: Medium
+tags:
+- AI Image Generation
+- DeepSeek Harness
+- Prompt Engineering
+- Multi-Model Comparison
+- ComfyUI Integration
+source: https://github.com/shanliuling/dsh-image-gen
 stars: 303
-language: "TypeScript"
-last_updated: "2026-09-03T15:26:16Z"
-discovered_at: "2026-09-03T15:39:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:26:16Z'
+discovered_at: '2026-09-03T15:39:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

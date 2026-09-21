@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:m5-ultra-mac-studio-review-the-dream-mac-for-local
 first_seen: '2026-09-21T20:42:45.666939+05:30'
 last_seen: '2026-09-21T20:42:45.666939+05:30'
 last_checked: '2026-09-21T20:42:45.666939+05:30'
 health_score: 100
 ---
+
 
 # M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents
 

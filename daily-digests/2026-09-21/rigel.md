@@ -1,19 +1,30 @@
 ---
-title: "pokatomnik/rigel"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "CLI", "OpenAI API", "MCP (Model Context Protocol)", "TOML", "Filesystem Operations"]
+title: pokatomnik/rigel
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- CLI
+- OpenAI API
+- MCP (Model Context Protocol)
+- TOML
+- Filesystem Operations
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["CLI agent", "filesystem tools", "LLM integration", "MCP servers", "Rust"]
-source: "https://github.com/pokatomnik/rigel"
+deployment_complexity: Medium
+tags:
+- CLI agent
+- filesystem tools
+- LLM integration
+- MCP servers
+- Rust
+source: https://github.com/pokatomnik/rigel
 stars: 0
-language: "Rust"
-last_updated: "2026-08-07T14:17:18Z"
-discovered_at: "2026-08-07T14:18:50Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T14:17:18Z'
+discovered_at: '2026-08-07T14:18:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "tailoredtidings/stocktoken-os"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "viem", "Ethereum", "ERC-8056", "Uniswap", "Monorepo"]
+title: tailoredtidings/stocktoken-os
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- viem
+- Ethereum
+- ERC-8056
+- Uniswap
+- Monorepo
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Agent OS", "Stock Tokens", "MCP Server", "Onchain RWAs", "Trading Automation"]
-source: "https://github.com/tailoredtidings/stocktoken-os"
+deployment_complexity: Medium
+tags:
+- Agent OS
+- Stock Tokens
+- MCP Server
+- Onchain RWAs
+- Trading Automation
+source: https://github.com/tailoredtidings/stocktoken-os
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-14T23:49:57Z"
-discovered_at: "2026-07-14T23:53:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-14T23:49:57Z'
+discovered_at: '2026-07-14T23:53:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "wildwalker2026/good-skills-for-swees"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Vision AI", "MCP (Model Context Protocol)", "File System Operations"]
+title: wildwalker2026/good-skills-for-swees
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Vision AI
+- MCP (Model Context Protocol)
+- File System Operations
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI agent skills", "modular tooling", "multimodal analysis", "MCP integration", "task automation"]
-source: "https://github.com/wildwalker2026/good-skills-for-swees"
+deployment_complexity: Low
+tags:
+- AI agent skills
+- modular tooling
+- multimodal analysis
+- MCP integration
+- task automation
+source: https://github.com/wildwalker2026/good-skills-for-swees
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T11:47:39Z"
-discovered_at: "2026-07-19T11:57:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T11:47:39Z'
+discovered_at: '2026-07-19T11:57:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

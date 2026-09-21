@@ -1,19 +1,32 @@
 ---
-title: "dappql/core"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "wagmi", "viem", "React Query", "ABI Codegen", "Model Context Protocol (MCP)", "Node.js"]
+title: dappql/core
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- React
+- wagmi
+- viem
+- React Query
+- ABI Codegen
+- Model Context Protocol (MCP)
+- Node.js
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["smart contracts", "agent-native", "multicall", "typed SDK", "blockchain"]
-source: "https://github.com/dappql/core"
+deployment_complexity: Medium
+tags:
+- smart contracts
+- agent-native
+- multicall
+- typed SDK
+- blockchain
+source: https://github.com/dappql/core
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-03T21:55:15Z"
-discovered_at: "2026-09-03T22:11:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T21:55:15Z'
+discovered_at: '2026-09-03T22:11:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

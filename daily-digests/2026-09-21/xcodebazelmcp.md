@@ -1,19 +1,33 @@
 ---
-title: "XcodeBazelMCP/XcodeBazelMCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Bazel", "Bazelisk", "Model Context Protocol (MCP)", "LLDB", "Swift Package Manager", "Xcode", "Python (for optional device tools)"]
+title: XcodeBazelMCP/XcodeBazelMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Bazel
+- Bazelisk
+- Model Context Protocol (MCP)
+- LLDB
+- Swift Package Manager
+- Xcode
+- Python (for optional device tools)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Bazel tooling", "Apple development", "iOS automation", "debugging"]
-source: "https://github.com/XcodeBazelMCP/XcodeBazelMCP"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Bazel tooling
+- Apple development
+- iOS automation
+- debugging
+source: https://github.com/XcodeBazelMCP/XcodeBazelMCP
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-17T05:35:33Z"
-discovered_at: "2026-07-17T05:41:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T05:35:33Z'
+discovered_at: '2026-07-17T05:41:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

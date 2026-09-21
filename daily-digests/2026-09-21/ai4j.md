@@ -1,19 +1,34 @@
 ---
-title: "LnYo-Cly/ai4j"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java", "JDK 8+", "Maven", "Gradle", "LLM APIs (OpenAI, Anthropic, DashScope, etc.)", "RAG (Retrieval-Augmented Generation)", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) Protocol", "Tool Calling", "Agent Runtime"]
+title: LnYo-Cly/ai4j
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Java
+- JDK 8+
+- Maven
+- Gradle
+- LLM APIs (OpenAI, Anthropic, DashScope, etc.)
+- RAG (Retrieval-Augmented Generation)
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent) Protocol
+- Tool Calling
+- Agent Runtime
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Java SDK", "Agentic AI", "LLM Integration", "RAG", "MCP Support"]
-source: "https://github.com/LnYo-Cly/ai4j"
+deployment_complexity: Medium
+tags:
+- Java SDK
+- Agentic AI
+- LLM Integration
+- RAG
+- MCP Support
+source: https://github.com/LnYo-Cly/ai4j
 stars: 422
-language: "Java"
-last_updated: "2026-08-09T20:32:56Z"
-discovered_at: "2026-08-09T20:35:38Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-09T20:32:56Z'
+discovered_at: '2026-08-09T20:35:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

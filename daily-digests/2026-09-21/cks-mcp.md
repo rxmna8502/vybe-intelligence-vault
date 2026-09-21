@@ -1,19 +1,32 @@
 ---
-title: "Deus-corp/cks-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastEmbed", "HuggingFace", "SQLite", "Ollama", "Anthropic API", "AsyncIO"]
+title: Deus-corp/cks-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastEmbed
+- HuggingFace
+- SQLite
+- Ollama
+- Anthropic API
+- AsyncIO
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge-graph", "RAG-enhancement", "deterministic-knowledge", "LLM-orchestration", "version-control"]
-source: "https://github.com/Deus-corp/cks-mcp"
+deployment_complexity: Medium
+tags:
+- knowledge-graph
+- RAG-enhancement
+- deterministic-knowledge
+- LLM-orchestration
+- version-control
+source: https://github.com/Deus-corp/cks-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T08:14:38Z"
-discovered_at: "2026-08-02T08:22:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T08:14:38Z'
+discovered_at: '2026-08-02T08:22:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

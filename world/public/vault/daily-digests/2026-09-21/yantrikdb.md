@@ -1,19 +1,33 @@
 ---
-title: "yantrikos/yantrikdb"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Python", "SQLite", "HNSW (Hierarchical Navigable Small World)", "CRDT (Conflict-free Replicated Data Types)", "OpenRaft", "Embedding models (custom 'potion' variants)", "BM25", "LSM (Log-Structured Merge) Trees"]
+title: yantrikos/yantrikdb
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Rust
+- Python
+- SQLite
+- HNSW (Hierarchical Navigable Small World)
+- CRDT (Conflict-free Replicated Data Types)
+- OpenRaft
+- Embedding models (custom 'potion' variants)
+- BM25
+- LSM (Log-Structured Merge) Trees
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["cognitive memory", "embedded database", "AI agents", "temporal decay", "knowledge graph"]
-source: "https://github.com/yantrikos/yantrikdb"
+deployment_complexity: Medium
+tags:
+- cognitive memory
+- embedded database
+- AI agents
+- temporal decay
+- knowledge graph
+source: https://github.com/yantrikos/yantrikdb
 stars: 47
-language: "Rust"
-last_updated: "2026-08-07T17:36:48Z"
-discovered_at: "2026-08-07T17:52:26Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T17:36:48Z'
+discovered_at: '2026-08-07T17:52:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

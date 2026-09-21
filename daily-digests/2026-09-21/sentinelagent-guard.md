@@ -1,19 +1,31 @@
 ---
-title: "cyb3rvolt3x-A4lixhaS3ntin3l/sentinelagent-guard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SHA-256 hashing", "MCP (Model Context Protocol)", "Express.js", "CLI tools", "NPM packages"]
+title: cyb3rvolt3x-A4lixhaS3ntin3l/sentinelagent-guard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- SHA-256 hashing
+- MCP (Model Context Protocol)
+- Express.js
+- CLI tools
+- NPM packages
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP security", "AI agent protection", "tool poisoning prevention", "deterministic firewall", "data exfiltration blocking"]
-source: "https://github.com/cyb3rvolt3x-A4lixhaS3ntin3l/sentinelagent-guard"
+deployment_complexity: Medium
+tags:
+- MCP security
+- AI agent protection
+- tool poisoning prevention
+- deterministic firewall
+- data exfiltration blocking
+source: https://github.com/cyb3rvolt3x-A4lixhaS3ntin3l/sentinelagent-guard
 stars: 0
-language: "None"
-last_updated: "2026-09-01T15:40:07Z"
-discovered_at: "2026-09-01T15:55:31Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-01T15:40:07Z'
+discovered_at: '2026-09-01T15:55:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "EtanHey/brainlayer"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SQLite", "sqlite-vec", "Swift", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "Knowledge Graph", "Embeddings (bge-large-en-v1.5)", "Groq", "Gemini", "MLX", "Ollama"]
+title: EtanHey/brainlayer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- SQLite
+- sqlite-vec
+- Swift
+- MCP (Model Context Protocol)
+- FTS5 (Full-Text Search)
+- Knowledge Graph
+- Embeddings (bge-large-en-v1.5)
+- Groq
+- Gemini
+- MLX
+- Ollama
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["persistent memory", "MCP tools", "local-first", "knowledge graph", "real-time indexing"]
-source: "https://github.com/EtanHey/brainlayer"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- MCP tools
+- local-first
+- knowledge graph
+- real-time indexing
+source: https://github.com/EtanHey/brainlayer
 stars: 8
-language: "Python"
-last_updated: "2026-08-04T15:28:38Z"
-discovered_at: "2026-08-04T15:35:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T15:28:38Z'
+discovered_at: '2026-08-04T15:35:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

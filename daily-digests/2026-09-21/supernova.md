@@ -1,19 +1,38 @@
 ---
-title: "robloxsagax-web/Supernova"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "React", "TypeScript", "FastAPI", "Python", "Tailwind CSS", "Framer Motion", "Supabase", "Backblaze B2", "Genblaze", "OpenRouter", "Remotion", "Vercel", "Railway"]
+title: robloxsagax-web/Supernova
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- FastAPI
+- Python
+- Tailwind CSS
+- Framer Motion
+- Supabase
+- Backblaze B2
+- Genblaze
+- OpenRouter
+- Remotion
+- Vercel
+- Railway
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI marketing automation", "autonomous agents", "campaign generation", "multi-modal AI", "cloud storage integration"]
-source: "https://github.com/robloxsagax-web/Supernova"
+deployment_complexity: Medium
+tags:
+- AI marketing automation
+- autonomous agents
+- campaign generation
+- multi-modal AI
+- cloud storage integration
+source: https://github.com/robloxsagax-web/Supernova
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T17:51:46Z"
-discovered_at: "2026-08-01T18:00:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T17:51:46Z'
+discovered_at: '2026-08-01T18:00:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

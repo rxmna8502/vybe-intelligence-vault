@@ -1,19 +1,34 @@
 ---
-title: "Mftrferdinand/Aesora"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI API", "Telegram Bot API", "WhatsApp Baileys", "vLLM", "Ollama", "CLI", "HTTP Webhooks", "Node.js", "Markdown"]
+title: Mftrferdinand/Aesora
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- OpenAI API
+- Telegram Bot API
+- WhatsApp Baileys
+- vLLM
+- Ollama
+- CLI
+- HTTP Webhooks
+- Node.js
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "self-hosted", "multi-platform", "persistent memory", "tool calling"]
-source: "https://github.com/Mftrferdinand/Aesora"
+deployment_complexity: Medium
+tags:
+- AI agents
+- self-hosted
+- multi-platform
+- persistent memory
+- tool calling
+source: https://github.com/Mftrferdinand/Aesora
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T06:43:34Z"
-discovered_at: "2026-08-08T06:52:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T06:43:34Z'
+discovered_at: '2026-08-08T06:52:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

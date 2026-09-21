@@ -13,13 +13,14 @@ collected_at: '2026-09-21T20:42:45.564905+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:meta-bans-ads-for-virginia-woolf-play-in-spain
 first_seen: '2026-09-21T20:42:45.564905+05:30'
 last_seen: '2026-09-21T20:42:45.564905+05:30'
 last_checked: '2026-09-21T20:42:45.564905+05:30'
 health_score: 100
 ---
+
 
 # Meta bans ads for Virginia Woolf play in Spain
 

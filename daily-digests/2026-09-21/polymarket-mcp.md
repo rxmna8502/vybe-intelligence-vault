@@ -1,19 +1,30 @@
 ---
-title: "aryankeluskar/polymarket-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Smithery", "Polymarket API (Gamma Markets API, Data API)", "Zod (for schema validation)"]
+title: aryankeluskar/polymarket-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Smithery
+- Polymarket API (Gamma Markets API, Data API)
+- Zod (for schema validation)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["prediction markets", "MCP server", "Polymarket API", "market analysis", "trading data"]
-source: "https://github.com/aryankeluskar/polymarket-mcp"
+deployment_complexity: Medium
+tags:
+- prediction markets
+- MCP server
+- Polymarket API
+- market analysis
+- trading data
+source: https://github.com/aryankeluskar/polymarket-mcp
 stars: 10
-language: "TypeScript"
-last_updated: "2026-08-07T00:00:30Z"
-discovered_at: "2026-08-07T00:01:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T00:00:30Z'
+discovered_at: '2026-08-07T00:01:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "jon-the-dev/linkding-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "LinkDing API", "uv (dependency manager)", "Ruff (linting)", "MyPy (type checking)", "Pytest (testing)"]
+title: jon-the-dev/linkding-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastMCP
+- LinkDing API
+- uv (dependency manager)
+- Ruff (linting)
+- MyPy (type checking)
+- Pytest (testing)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "bookmark management", "self-hosted", "LinkDing integration", "AI tooling"]
-source: "https://github.com/jon-the-dev/linkding-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP server
+- bookmark management
+- self-hosted
+- LinkDing integration
+- AI tooling
+source: https://github.com/jon-the-dev/linkding-mcp-server
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T16:04:37Z"
-discovered_at: "2026-08-10T16:07:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T16:04:37Z'
+discovered_at: '2026-08-10T16:07:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

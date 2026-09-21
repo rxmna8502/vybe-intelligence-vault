@@ -1,19 +1,36 @@
 ---
-title: "gorka2354/audit-copilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12", "FastAPI", "Pydantic", "PostgreSQL/pgvector", "Qdrant", "Ollama", "Anthropic", "Docker", "uv", "ruff", "mypy (strict)", "pytest"]
+title: gorka2354/audit-copilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python 3.12
+- FastAPI
+- Pydantic
+- PostgreSQL/pgvector
+- Qdrant
+- Ollama
+- Anthropic
+- Docker
+- uv
+- ruff
+- mypy (strict)
+- pytest
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["smart contract auditing", "RAG", "LLM agent", "provenance tracking", "measurable quality"]
-source: "https://github.com/gorka2354/audit-copilot"
+deployment_complexity: Medium
+tags:
+- smart contract auditing
+- RAG
+- LLM agent
+- provenance tracking
+- measurable quality
+source: https://github.com/gorka2354/audit-copilot
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T19:03:26Z"
-discovered_at: "2026-07-19T19:13:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T19:03:26Z'
+discovered_at: '2026-07-19T19:13:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

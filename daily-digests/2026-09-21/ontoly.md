@@ -1,19 +1,32 @@
 ---
-title: "0xsarwagya/ontoly"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "JavaScript", "TypeScript Compiler API", "Node.js", "MCP (Model Context Protocol)", "JSON", "CLI", "Semantic Graphs"]
+title: 0xsarwagya/ontoly
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- JavaScript
+- TypeScript Compiler API
+- Node.js
+- MCP (Model Context Protocol)
+- JSON
+- CLI
+- Semantic Graphs
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Software Graph", "Deterministic Analysis", "Semantic Modeling", "Agent Tools", "Code Intelligence"]
-source: "https://github.com/0xsarwagya/ontoly"
+deployment_complexity: Medium
+tags:
+- Software Graph
+- Deterministic Analysis
+- Semantic Modeling
+- Agent Tools
+- Code Intelligence
+source: https://github.com/0xsarwagya/ontoly
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T19:17:52Z"
-discovered_at: "2026-08-02T19:25:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T19:17:52Z'
+discovered_at: '2026-08-02T19:25:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
