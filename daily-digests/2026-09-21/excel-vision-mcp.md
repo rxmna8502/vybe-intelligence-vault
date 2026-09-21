@@ -1,31 +1,19 @@
 ---
-title: VOYAGER-Inc/excel-vision-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- openpyxl
-- openpyxl-image-loader
-- Pillow (PIL)
-- uv
-- JSON-RPC
+title: "VOYAGER-Inc/excel-vision-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "openpyxl", "openpyxl-image-loader", "Pillow (PIL)", "uv", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- Excel processing
-- multimodal data extraction
-- MCP server
-- image extraction
-- AI agent tools
-source: https://github.com/VOYAGER-Inc/excel-vision-mcp
+deployment_complexity: "Low"
+tags: ["Excel processing", "multimodal data extraction", "MCP server", "image extraction", "AI agent tools"]
+source: "https://github.com/VOYAGER-Inc/excel-vision-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-16T08:03:20Z'
-discovered_at: '2026-07-16T08:10:14Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T08:03:20Z"
+discovered_at: "2026-07-16T08:10:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

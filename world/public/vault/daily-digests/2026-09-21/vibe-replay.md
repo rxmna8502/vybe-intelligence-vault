@@ -1,32 +1,19 @@
 ---
-title: tuo-lei/vibe-replay
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- Vite
-- Astro
-- SQLite
-- JSONL
-- pnpm
+title: "tuo-lei/vibe-replay"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Node.js", "Vite", "Astro", "SQLite", "JSONL", "pnpm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI session replay
-- interactive playback
-- code review
-- agent analytics
-- developer workflow
-source: https://github.com/tuo-lei/vibe-replay
+deployment_complexity: "Medium"
+tags: ["AI session replay", "interactive playback", "code review", "agent analytics", "developer workflow"]
+source: "https://github.com/tuo-lei/vibe-replay"
 stars: 33
-language: TypeScript
-last_updated: '2026-08-07T08:16:03Z'
-discovered_at: '2026-08-07T08:16:14Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T08:16:03Z"
+discovered_at: "2026-08-07T08:16:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

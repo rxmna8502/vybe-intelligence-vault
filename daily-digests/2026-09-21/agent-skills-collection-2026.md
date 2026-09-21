@@ -1,27 +1,19 @@
 ---
-title: Brittneysmudgy889/Agent-Skills-Collection-2026
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Windows Desktop App
-- AI Command Integration
+title: "Brittneysmudgy889/Agent-Skills-Collection-2026"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows Desktop App", "AI Command Integration"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- AI automation
-- Windows productivity
-- pre-built skills
-- AI assistant integration
-- task automation
-source: https://github.com/Brittneysmudgy889/Agent-Skills-Collection-2026
+deployment_complexity: "Low"
+tags: ["AI automation", "Windows productivity", "pre-built skills", "AI assistant integration", "task automation"]
+source: "https://github.com/Brittneysmudgy889/Agent-Skills-Collection-2026"
 stars: 0
-language: Python
-last_updated: '2026-08-07T00:00:56Z'
-discovered_at: '2026-08-07T00:01:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T00:00:56Z"
+discovered_at: "2026-08-07T00:01:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

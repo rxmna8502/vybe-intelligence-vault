@@ -1,35 +1,19 @@
 ---
-title: api-evangelist/refact-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- TypeScript
-- Kotlin
-- React
-- Vite
-- Qwen2.5-Coder
-- LSP (Language Server Protocol)
-- MCP (Model Context Protocol)
-- Vector DB
-- Git Integration
-- Docker
+title: "api-evangelist/refact-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "TypeScript", "Kotlin", "React", "Vite", "Qwen2.5-Coder", "LSP (Language Server Protocol)", "MCP (Model Context Protocol)", "Vector DB", "Git Integration", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI Coding Assistant
-- Autonomous Agent
-- Self-Hosted
-- RAG
-- IDE Integration
-source: https://github.com/api-evangelist/refact-ai
+deployment_complexity: "Medium"
+tags: ["AI Coding Assistant", "Autonomous Agent", "Self-Hosted", "RAG", "IDE Integration"]
+source: "https://github.com/api-evangelist/refact-ai"
 stars: 0
-language: None
-last_updated: '2026-07-12T02:20:25Z'
-discovered_at: '2026-07-12T02:32:53Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-12T02:20:25Z"
+discovered_at: "2026-07-12T02:32:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

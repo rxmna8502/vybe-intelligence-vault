@@ -1,32 +1,19 @@
 ---
-title: gaia-research/gaia-skill-tree
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- CLI
-- GitHub Actions
-- Model Context Protocol (MCP)
-- Terminal User Interface (TUI)
-- REST APIs
-- JSON/YAML
-- Markdown
+title: "gaia-research/gaia-skill-tree"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "CLI", "GitHub Actions", "Model Context Protocol (MCP)", "Terminal User Interface (TUI)", "REST APIs", "JSON/YAML", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agent Skills
-- Skill Registry
-- Attribution
-- Evidence-Based
-- Skill Fusion
-source: https://github.com/gaia-research/gaia-skill-tree
+deployment_complexity: "Medium"
+tags: ["AI Agent Skills", "Skill Registry", "Attribution", "Evidence-Based", "Skill Fusion"]
+source: "https://github.com/gaia-research/gaia-skill-tree"
 stars: 19
-language: Python
-last_updated: '2026-09-01T10:56:59Z'
-discovered_at: '2026-09-01T15:52:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T10:56:59Z"
+discovered_at: "2026-09-01T15:52:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

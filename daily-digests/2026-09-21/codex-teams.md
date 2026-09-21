@@ -1,29 +1,19 @@
 ---
-title: GekkoQuest/codex-teams
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- OpenAI Codex
-- TypeScript (implied by modern JS practices)
+title: "GekkoQuest/codex-teams"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "OpenAI Codex", "TypeScript (implied by modern JS practices)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- Codex plugin
-- task coordination
-- MCP server
-- agent teams
-source: https://github.com/GekkoQuest/codex-teams
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "Codex plugin", "task coordination", "MCP server", "agent teams"]
+source: "https://github.com/GekkoQuest/codex-teams"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-20T19:49:45Z'
-discovered_at: '2026-07-20T19:53:40Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-20T19:49:45Z"
+discovered_at: "2026-07-20T19:53:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

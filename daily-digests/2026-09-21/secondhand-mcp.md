@@ -1,31 +1,19 @@
 ---
-title: jlsookiki/secondhand-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Puppeteer
-- eBay Browse API
-- OAuth 2.0
-- ES Modules (ESM)
+title: "jlsookiki/secondhand-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Puppeteer", "eBay Browse API", "OAuth 2.0", "ES Modules (ESM)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- secondhand marketplaces
-- AI assistant integration
-- web scraping
-- e-commerce
-source: https://github.com/jlsookiki/secondhand-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "secondhand marketplaces", "AI assistant integration", "web scraping", "e-commerce"]
+source: "https://github.com/jlsookiki/secondhand-mcp"
 stars: 37
-language: TypeScript
-last_updated: '2026-08-01T03:24:23Z'
-discovered_at: '2026-08-01T03:44:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T03:24:23Z"
+discovered_at: "2026-08-01T03:44:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-yelp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Yelp Fusion API
-- REST
+title: "pipeworx-io/mcp-yelp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Yelp Fusion API", "REST"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Yelp API
-- MCP server
-- business data
-- local search
-- AI tooling
-source: https://github.com/pipeworx-io/mcp-yelp
+deployment_complexity: "Low"
+tags: ["Yelp API", "MCP server", "business data", "local search", "AI tooling"]
+source: "https://github.com/pipeworx-io/mcp-yelp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:31:30Z'
-discovered_at: '2026-08-04T07:41:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:31:30Z"
+discovered_at: "2026-08-04T07:41:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: manojmallick/opspilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Qwen Cloud (Qwen-VL-Max, Qwen-Max)
-- Node.js
-- JSON Structured Output
-- Benchmarking & Coverage Tools
+title: "manojmallick/opspilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Qwen Cloud (Qwen-VL-Max, Qwen-Max)", "Node.js", "JSON Structured Output", "Benchmarking & Coverage Tools"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Business Automation
-- Qwen Cloud Integration
-- Human-in-the-Loop
-- VAT Declaration
-- Invoice Processing
-source: https://github.com/manojmallick/opspilot
+deployment_complexity: "Medium"
+tags: ["Business Automation", "Qwen Cloud Integration", "Human-in-the-Loop", "VAT Declaration", "Invoice Processing"]
+source: "https://github.com/manojmallick/opspilot"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-20T19:49:51Z'
-discovered_at: '2026-07-20T19:53:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-20T19:49:51Z"
+discovered_at: "2026-07-20T19:53:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

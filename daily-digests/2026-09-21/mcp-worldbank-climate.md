@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-worldbank-climate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- REST API
-- JSON
+title: "pipeworx-io/mcp-worldbank-climate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "JSON"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- climate data
-- World Bank CCKP
-- MCP server
-- historical observations
-- CMIP6 projections
-source: https://github.com/pipeworx-io/mcp-worldbank-climate
+deployment_complexity: "Low"
+tags: ["climate data", "World Bank CCKP", "MCP server", "historical observations", "CMIP6 projections"]
+source: "https://github.com/pipeworx-io/mcp-worldbank-climate"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:30:49Z'
-discovered_at: '2026-08-04T07:42:01Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:30:49Z"
+discovered_at: "2026-08-04T07:42:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: pelazas/carrydesk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- FastAPI
-- Hyperliquid API
-- x402 (USDC payment protocol)
-- Base (Ethereum L2)
-- uv (Python package manager)
-- uvicorn (ASGI server)
-- pytest (testing)
+title: "pelazas/carrydesk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Hyperliquid API", "x402 (USDC payment protocol)", "Base (Ethereum L2)", "uv (Python package manager)", "uvicorn (ASGI server)", "pytest (testing)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- funding-carry
-- perpetual futures
-- Hyperliquid
-- market-neutral
-- USDC payments
-source: https://github.com/pelazas/carrydesk
+deployment_complexity: "Medium"
+tags: ["funding-carry", "perpetual futures", "Hyperliquid", "market-neutral", "USDC payments"]
+source: "https://github.com/pelazas/carrydesk"
 stars: 0
-language: Python
-last_updated: '2026-08-02T14:58:04Z'
-discovered_at: '2026-08-02T15:02:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T14:58:04Z"
+discovered_at: "2026-08-02T15:02:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

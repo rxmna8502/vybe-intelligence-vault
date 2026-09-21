@@ -1,39 +1,19 @@
 ---
-title: yashraj-n/tenet
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Bun
-- React 19
-- Prisma
-- MongoDB
-- Docker
-- Google Cloud Run
-- Probot
-- Octokit
-- LangSmith
-- TailwindCSS
-- better-auth
-- Upstash Redis
-- tRPC
-- TanStack Router/Query/Start
+title: "yashraj-n/tenet"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "React 19", "Prisma", "MongoDB", "Docker", "Google Cloud Run", "Probot", "Octokit", "LangSmith", "TailwindCSS", "better-auth", "Upstash Redis", "tRPC", "TanStack Router/Query/Start"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI agent automation
-- GitHub integration
-- LLM tooling
-- PR review automation
-- issue resolution
-source: https://github.com/yashraj-n/tenet
+deployment_complexity: "High"
+tags: ["AI agent automation", "GitHub integration", "LLM tooling", "PR review automation", "issue resolution"]
+source: "https://github.com/yashraj-n/tenet"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-10T13:10:32Z'
-discovered_at: '2026-07-10T13:10:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T13:10:32Z"
+discovered_at: "2026-07-10T13:10:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

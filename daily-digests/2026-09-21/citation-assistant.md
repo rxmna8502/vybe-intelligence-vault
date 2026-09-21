@@ -1,30 +1,19 @@
 ---
-title: FIRE-hub911/citation-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Shell
-- Semantic Scholar API
-- CrossRef API
-- SQLite
-- LaTeX
-- Bash scripting
+title: "FIRE-hub911/citation-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Shell", "Semantic Scholar API", "CrossRef API", "SQLite", "LaTeX", "Bash scripting"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- academic citation
-- BibTeX generation
-- literature search
-- quality assessment
-- LaTeX integration
-source: https://github.com/FIRE-hub911/citation-assistant
+deployment_complexity: "Low"
+tags: ["academic citation", "BibTeX generation", "literature search", "quality assessment", "LaTeX integration"]
+source: "https://github.com/FIRE-hub911/citation-assistant"
 stars: 3
-language: Shell
-last_updated: '2026-08-07T09:29:29Z'
-discovered_at: '2026-08-07T10:05:54Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-07T09:29:29Z"
+discovered_at: "2026-08-07T10:05:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

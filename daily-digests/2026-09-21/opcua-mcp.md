@@ -1,32 +1,19 @@
 ---
-title: mwieczorkiewicz/opcua-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- OPC-UA
-- MCP (Model Context Protocol)
-- Bleve (search engine)
-- bbolt (embedded database)
-- Docker
-- Viper (configuration)
-- Microsoft OPC-UA Test Server
+title: "mwieczorkiewicz/opcua-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "OPC-UA", "MCP (Model Context Protocol)", "Bleve (search engine)", "bbolt (embedded database)", "Docker", "Viper (configuration)", "Microsoft OPC-UA Test Server"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- OPC-UA
-- industrial automation
-- MCP server
-- real-time data
-- LLM integration
-source: https://github.com/mwieczorkiewicz/opcua-mcp
+deployment_complexity: "Medium"
+tags: ["OPC-UA", "industrial automation", "MCP server", "real-time data", "LLM integration"]
+source: "https://github.com/mwieczorkiewicz/opcua-mcp"
 stars: 4
-language: Go
-last_updated: '2026-08-03T13:33:59Z'
-discovered_at: '2026-08-03T13:42:31Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-03T13:33:59Z"
+discovered_at: "2026-08-03T13:42:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

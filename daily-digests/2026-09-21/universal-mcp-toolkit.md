@@ -1,33 +1,19 @@
 ---
-title: Markgatcha/universal-mcp-toolkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Turborepo
-- Zod
-- Pino
-- pnpm
-- Model Context Protocol (MCP)
-- CLI Development
-- Monorepo Architecture
+title: "Markgatcha/universal-mcp-toolkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Turborepo", "Zod", "Pino", "pnpm", "Model Context Protocol (MCP)", "CLI Development", "Monorepo Architecture"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- AI Tooling
-- Monorepo
-- CLI
-- Server Integration
-source: https://github.com/Markgatcha/universal-mcp-toolkit
+deployment_complexity: "Medium"
+tags: ["MCP", "AI Tooling", "Monorepo", "CLI", "Server Integration"]
+source: "https://github.com/Markgatcha/universal-mcp-toolkit"
 stars: 7
-language: TypeScript
-last_updated: '2026-07-20T21:01:48Z'
-discovered_at: '2026-07-20T21:11:05Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-20T21:01:48Z"
+discovered_at: "2026-07-20T21:11:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

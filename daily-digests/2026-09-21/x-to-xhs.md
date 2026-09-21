@@ -1,35 +1,19 @@
 ---
-title: soyona/x-to-xhs
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- React
-- Vite
-- Node.js
-- JavaScript
-- ESM
-- Undici
-- Gemini API
-- Groq API
-- Zhipu GLM
-- SiliconFlow
-- OpenRouter
+title: "soyona/x-to-xhs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["React", "Vite", "Node.js", "JavaScript", "ESM", "Undici", "Gemini API", "Groq API", "Zhipu GLM", "SiliconFlow", "OpenRouter"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- content generation
-- local-first
-- multi-model API
-- Xiaohongshu
-- prompt engineering
-source: https://github.com/soyona/x-to-xhs
+deployment_complexity: "Medium"
+tags: ["content generation", "local-first", "multi-model API", "Xiaohongshu", "prompt engineering"]
+source: "https://github.com/soyona/x-to-xhs"
 stars: 2
-language: JavaScript
-last_updated: '2026-08-08T12:45:48Z'
-discovered_at: '2026-08-08T12:47:09Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T12:45:48Z"
+discovered_at: "2026-08-08T12:47:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

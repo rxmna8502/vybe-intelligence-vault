@@ -1,31 +1,19 @@
 ---
-title: Coolkidlab-Yin/windows-desktop-pet-builder
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- PowerShell
-- C#
-- WPF (Windows Presentation Foundation)
-- .NET Framework
-- XAML
-- AI Image Generation (e.g., ChatGPT)
-- Windows API
+title: "Coolkidlab-Yin/windows-desktop-pet-builder"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PowerShell", "C#", "WPF (Windows Presentation Foundation)", ".NET Framework", "XAML", "AI Image Generation (e.g., ChatGPT)", "Windows API"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Windows desktop pet
-- AI-generated pet
-- WPF animation
-- AI agent integration
-- interactive desktop companion
-source: https://github.com/Coolkidlab-Yin/windows-desktop-pet-builder
+deployment_complexity: "Medium"
+tags: ["Windows desktop pet", "AI-generated pet", "WPF animation", "AI agent integration", "interactive desktop companion"]
+source: "https://github.com/Coolkidlab-Yin/windows-desktop-pet-builder"
 stars: 2
-language: PowerShell
-last_updated: '2026-08-02T02:30:23Z'
-discovered_at: '2026-08-02T02:34:45Z'
-evaluated_by: mistral-small-latest
+language: "PowerShell"
+last_updated: "2026-08-02T02:30:23Z"
+discovered_at: "2026-08-02T02:34:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

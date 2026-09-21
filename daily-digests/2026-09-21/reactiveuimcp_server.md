@@ -1,41 +1,19 @@
 ---
-title: ChrisPulman/ReactiveUIMcp.Server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- C#
-- .NET 10.0
-- ModelContextProtocol (MCP)
-- ReactiveUI
-- WPF
-- WinForms
-- Blazor
-- MAUI
-- WinUI
-- AndroidX
-- Avalonia
-- Uno
-- Splat
-- Refit
-- Akavache
-- DynamicData
-- Source Generators
+title: "ChrisPulman/ReactiveUIMcp.Server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C#", ".NET 10.0", "ModelContextProtocol (MCP)", "ReactiveUI", "WPF", "WinForms", "Blazor", "MAUI", "WinUI", "AndroidX", "Avalonia", "Uno", "Splat", "Refit", "Akavache", "DynamicData", "Source Generators"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- ReactiveUI
-- MCP Server
-- AI Code Generation
-- Cross-Platform UI
-- Project Scaffolding
-source: https://github.com/ChrisPulman/ReactiveUIMcp.Server
+deployment_complexity: "Medium"
+tags: ["ReactiveUI", "MCP Server", "AI Code Generation", "Cross-Platform UI", "Project Scaffolding"]
+source: "https://github.com/ChrisPulman/ReactiveUIMcp.Server"
 stars: 3
-language: C#
-last_updated: '2026-08-08T07:48:29Z'
-discovered_at: '2026-08-08T07:51:52Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-08T07:48:29Z"
+discovered_at: "2026-08-08T07:51:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

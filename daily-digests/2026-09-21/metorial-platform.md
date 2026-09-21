@@ -1,33 +1,19 @@
 ---
-title: metorial/metorial-platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Model Context Protocol (MCP)
-- TypeScript
-- Bun
-- Go
-- PostgreSQL
-- Redis
-- MongoDB
-- React
-- Docker
+title: "metorial/metorial-platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Model Context Protocol (MCP)", "TypeScript", "Bun", "Go", "PostgreSQL", "Redis", "MongoDB", "React", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP
-- AI integration
-- agentic AI
-- API orchestration
-- self-hosted
-source: https://github.com/metorial/metorial-platform
+deployment_complexity: "Medium"
+tags: ["MCP", "AI integration", "agentic AI", "API orchestration", "self-hosted"]
+source: "https://github.com/metorial/metorial-platform"
 stars: 217
-language: TypeScript
-last_updated: '2026-07-11T07:50:50Z'
-discovered_at: '2026-07-11T07:52:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T07:50:50Z"
+discovered_at: "2026-07-11T07:52:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

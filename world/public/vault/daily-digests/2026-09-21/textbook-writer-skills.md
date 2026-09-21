@@ -1,31 +1,19 @@
 ---
-title: cabbage2000-lab/textbook-writer-skills
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- Markdown
-- JSON
-- Git
-- Claude Code
-- Codex
-- WorkBuddy
+title: "cabbage2000-lab/textbook-writer-skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Markdown", "JSON", "Git", "Claude Code", "Codex", "WorkBuddy"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- textbook generation
-- instructional design
-- UbD framework
-- Bloom's taxonomy
-- verifiable content
-source: https://github.com/cabbage2000-lab/textbook-writer-skills
+deployment_complexity: "Medium"
+tags: ["textbook generation", "instructional design", "UbD framework", "Bloom's taxonomy", "verifiable content"]
+source: "https://github.com/cabbage2000-lab/textbook-writer-skills"
 stars: 18
-language: Python
-last_updated: '2026-08-10T07:32:49Z'
-discovered_at: '2026-08-10T07:35:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T07:32:49Z"
+discovered_at: "2026-08-10T07:35:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

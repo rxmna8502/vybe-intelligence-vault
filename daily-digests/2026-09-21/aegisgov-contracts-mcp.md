@@ -1,30 +1,19 @@
 ---
-title: AEGISGOVDAO/aegisgov-contracts-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- MCP (Model Context Protocol)
-- x402 Payment Protocol
-- USDC (Base/Solana)
-- SAM.gov API
-- Vercel Deployment
+title: "AEGISGOVDAO/aegisgov-contracts-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "x402 Payment Protocol", "USDC (Base/Solana)", "SAM.gov API", "Vercel Deployment"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- government contracts
-- MCP server
-- x402 payments
-- bid analysis
-- SAM.gov
-source: https://github.com/AEGISGOVDAO/aegisgov-contracts-mcp
+deployment_complexity: "Low"
+tags: ["government contracts", "MCP server", "x402 payments", "bid analysis", "SAM.gov"]
+source: "https://github.com/AEGISGOVDAO/aegisgov-contracts-mcp"
 stars: 2
-language: JavaScript
-last_updated: '2026-09-01T22:13:43Z'
-discovered_at: '2026-09-01T22:19:57Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-01T22:13:43Z"
+discovered_at: "2026-09-01T22:19:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

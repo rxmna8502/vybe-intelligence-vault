@@ -1,30 +1,19 @@
 ---
-title: mindwear-capitian/local-city-mcp-template
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- Zod
-- GitHub Actions
-- Apache License 2.0
+title: "mindwear-capitian/local-city-mcp-template"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "GitHub Actions", "Apache License 2.0"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- local data
-- template
-- public records
-- AI assistant integration
-source: https://github.com/mindwear-capitian/local-city-mcp-template
+deployment_complexity: "Medium"
+tags: ["MCP server", "local data", "template", "public records", "AI assistant integration"]
+source: "https://github.com/mindwear-capitian/local-city-mcp-template"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-19T17:48:13Z'
-discovered_at: '2026-07-19T17:59:10Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-19T17:48:13Z"
+discovered_at: "2026-07-19T17:59:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

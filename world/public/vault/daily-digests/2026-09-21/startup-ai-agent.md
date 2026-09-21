@@ -1,33 +1,19 @@
 ---
-title: ankush-poonia007/STARTUP-AI-AGENT
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- Groq LPU Inference
-- Llama 3.3 70B
-- Gemini 2.5 Flash
-- Tavily API
-- ChromaDB
-- pdfplumber
-- ThreadPoolExecutor
-- python-dotenv
+title: "ankush-poonia007/STARTUP-AI-AGENT"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Groq LPU Inference", "Llama 3.3 70B", "Gemini 2.5 Flash", "Tavily API", "ChromaDB", "pdfplumber", "ThreadPoolExecutor", "python-dotenv"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- ReAct agent
-- RAG
-- startup intelligence
-- parallel tool execution
-- hallucination prevention
-source: https://github.com/ankush-poonia007/STARTUP-AI-AGENT
+deployment_complexity: "Medium"
+tags: ["ReAct agent", "RAG", "startup intelligence", "parallel tool execution", "hallucination prevention"]
+source: "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
 stars: 3
-language: Python
-last_updated: '2026-08-07T19:11:17Z'
-discovered_at: '2026-08-07T20:00:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T19:11:17Z"
+discovered_at: "2026-08-07T20:00:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

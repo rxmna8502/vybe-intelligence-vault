@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-21T21:02:50.973019+05:30`
+Generated at: `2026-09-22T00:11:18.037424+05:30`
 
 ## Executive Summary
 
@@ -8,41 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM** - Score: `201` in category `ai/community` ([Link](https://github.com/volotat/mini-agi)) ([File](../ai/community/volotat-mini-agi.md))
-- **M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents** - Score: `51` in category `ai/community` ([Link](https://macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents)) ([File](../ai/community/m5-ultra-mac-studio-review-the-dream-mac-for-local.md))
-- **Don't Use AI to Write** - Score: `46` in category `ai/community` ([Link](https://paulbakker.io/writing/no-ai-for-writing)) ([File](../ai/community/don-t-use-ai-to-write.md))
-- **Meta bans ads for Virginia Woolf play in Spain** - Score: `39` in category `ai/community` ([Link](https://theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval)) ([File](../ai/community/meta-bans-ads-for-virginia-woolf-play-in-spain.md))
-- **Show HN: Lossless-memory – a personal AI memory that never summarizes** - Score: `26` in category `ai/community` ([Link](https://github.com/aru-labs/lossless-memory)) ([File](../ai/community/aru-labs-lossless-memory.md))
-- **macOS 27: Workaround to avoid downloading AI models and save storage** - Score: `23` in category `ai/community` ([Link](https://reddit.com/r/macosbeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and)) ([File](../ai/community/macos-27-workaround-to-avoid-downloading-ai-models.md))
-- **vivy-yi/rag-tutorial** - Score: `0` in category `ai/rag` ([Link](https://github.com/vivy-yi/rag-tutorial)) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **tokenizers v1: encode, decode and scaling, measured** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/tokenizers-v1)) ([File](../ai/models/huggingface-blog-tokenizers-v1.md))
-- **Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/multiversecomputingcai/pruning-llms-like-a-physicist-block-removal-as-an)) ([File](../ai/models/huggingface-blog-multiversecomputingcai-pruning-llms-like-a-physicist-block-remo.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **Amiga Unix, Again** - Score: `132` (+97), Rank Change: `+2` ([File](../ai/community/amiga-unix-again.md))
-- **crewAIInc/crewAI-tools** - Score: `0` (0), Rank Change: `+1377` ([File](../ai/agents/crewaiinc-crewai-tools.md))
-- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+4973` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **cline/cline** - Score: `0` (0), Rank Change: `+4971` ([File](../ai/agents/cline-cline.md))
-- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+4972` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1355` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **lancedb/vectordb-recipes** - Score: `0` (0), Rank Change: `+4939` ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1354` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1366` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1357` ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **PACE: Precise AI Cinematic Expression** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2609-19853.md))
+- **CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/arxiv-2609-19818.md))
+- **Large Language Model Agents for Evidence Based Genetic Disease Severity Classification** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/arxiv-2609-19569.md))
+- **From Momentary Emotion Inference to Sustained Emotion Support: Evaluating a Companion Agent in a Longitudinal Study** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/agents/arxiv-2609-16344.md))
+- **A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2608-25285.md))
+- **Self-Explanation Tutor for Active Study of CS1 Worked Examples** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/research/arxiv-2608-25180.md))
+- **Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/arxiv-2608-00285.md))
+- **Cover First, Disagree Softly: Rethinking Mismatch-First Active Learning for Frame-Level Audio Classification** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/rag/arxiv-2607-13571.md))
+- **Learning Gait-Aware Quadruped Locomotion with Temporal Logic Specifications** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/agents/arxiv-2607-00442.md))
+- **AgenticRL: Agentic Reinforcement Learning with Self-Refinement for Complex UAV Navigation** - Score: `0` (0), Rank Change: `+1007` ([File](../ai/agents/arxiv-2606-03963.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **The-Pocket/PocketFlow-Template-Python** - (Rank Change: `+4973`) ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **PrimeIntellect-ai/prime-agent** - (Rank Change: `+4972`) ([File](../ai/agents/primeintellect-ai-prime-agent.md))
-- **cline/cline** - (Rank Change: `+4971`) ([File](../ai/agents/cline-cline.md))
-- **lancedb/vectordb-recipes** - (Rank Change: `+4939`) ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **crewAIInc/crewAI-tools** - (Rank Change: `+1377`) ([File](../ai/agents/crewaiinc-crewai-tools.md))
-- **enescingoz/awesome-n8n-templates** - (Rank Change: `+1366`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1361`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **NirDiamant/RAG_Techniques** - (Rank Change: `+1357`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1356`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1355`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **infiniflow/ragflow** - (Rank Change: `+28125`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25356`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17141`) ([File](../ai/rag/stanford-oval-storm.md))
+- **PACE: Precise AI Cinematic Expression** - (Rank Change: `+1007`) ([File](../ai/research/arxiv-2609-19853.md))
+- **CoReLoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection** - (Rank Change: `+1007`) ([File](../ai/rag/arxiv-2609-19818.md))
+- **Large Language Model Agents for Evidence Based Genetic Disease Severity Classification** - (Rank Change: `+1007`) ([File](../ai/rag/arxiv-2609-19569.md))
+- **From Momentary Emotion Inference to Sustained Emotion Support: Evaluating a Companion Agent in a Longitudinal Study** - (Rank Change: `+1007`) ([File](../ai/agents/arxiv-2609-16344.md))
+- **A Training-Free Proactive Defense Against Partial Speech Manipulation via Self-Embedding Steganography** - (Rank Change: `+1007`) ([File](../ai/research/arxiv-2608-25285.md))
+- **Self-Explanation Tutor for Active Study of CS1 Worked Examples** - (Rank Change: `+1007`) ([File](../ai/research/arxiv-2608-25180.md))
+- **Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct** - (Rank Change: `+1007`) ([File](../ai/rag/arxiv-2608-00285.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -53,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Pirate Face Rescues LLM Models from Deletion** (Category: `ai/community`) ([File](../ai/community/pirate-face-rescues-llm-models-from-deletion.md))
-- **Spain Orders Blocks on Archive.today and Its Mirrors** (Category: `ai/community`) ([File](../ai/community/spain-orders-blocks-on-archive-today-and-its-mirro.md))
-- **The LLMentalist Effect (2023)** (Category: `ai/community`) ([File](../ai/community/the-llmentalist-effect-2023.md))
-- **AI chatbots give wrong answers to financial queries 'most of the time'** (Category: `ai/community`) ([File](../ai/community/ai-chatbots-give-wrong-answers-to-financial-querie.md))
+No recently active resources transitioned to inactive.
+

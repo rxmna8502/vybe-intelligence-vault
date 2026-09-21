@@ -1,30 +1,19 @@
 ---
-title: brobertoblanko/gemini-grounding-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Node.js
-- TypeScript
-- Gemini API
-- Google GenAI SDK
-- Model Context Protocol (MCP)
-- npm
+title: "brobertoblanko/gemini-grounding-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "TypeScript", "Gemini API", "Google GenAI SDK", "Model Context Protocol (MCP)", "npm"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- MCP server
-- Gemini API
-- web grounding
-- citations
-- token tracking
-source: https://github.com/brobertoblanko/gemini-grounding-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "Gemini API", "web grounding", "citations", "token tracking"]
+source: "https://github.com/brobertoblanko/gemini-grounding-mcp"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-02T13:42:19Z'
-discovered_at: '2026-08-02T13:49:35Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T13:42:19Z"
+discovered_at: "2026-08-02T13:49:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

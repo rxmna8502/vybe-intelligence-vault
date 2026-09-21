@@ -1,30 +1,19 @@
 ---
-title: api-evangelist/vespa
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Apache 2.0
-- Vector Search
-- REST API
-- YQL (Yahoo Query Language)
-- HTTP/HTTPS
-- JSON
+title: "api-evangelist/vespa"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Apache 2.0", "Vector Search", "REST API", "YQL (Yahoo Query Language)", "HTTP/HTTPS", "JSON"]
 quality_score: 7
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Vector Database
-- Hybrid Search
-- Real-Time Retrieval
-- Recommendation Engine
-- Open Source
-source: https://github.com/api-evangelist/vespa
+deployment_complexity: "Medium"
+tags: ["Vector Database", "Hybrid Search", "Real-Time Retrieval", "Recommendation Engine", "Open Source"]
+source: "https://github.com/api-evangelist/vespa"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:57:00Z'
-discovered_at: '2026-08-08T03:29:41Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:57:00Z"
+discovered_at: "2026-08-08T03:29:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

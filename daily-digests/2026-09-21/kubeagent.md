@@ -1,30 +1,19 @@
 ---
-title: imantaba/kubeagent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- Kubernetes client-go
-- Model Context Protocol (MCP)
-- Prometheus
-- SARIF
-- Helm
+title: "imantaba/kubeagent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Kubernetes client-go", "Model Context Protocol (MCP)", "Prometheus", "SARIF", "Helm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Kubernetes troubleshooting
-- Read-only diagnostics
-- Root cause analysis
-- CI/CD integration
-- AI-assisted explanations
-source: https://github.com/imantaba/kubeagent
+deployment_complexity: "Medium"
+tags: ["Kubernetes troubleshooting", "Read-only diagnostics", "Root cause analysis", "CI/CD integration", "AI-assisted explanations"]
+source: "https://github.com/imantaba/kubeagent"
 stars: 6
-language: Go
-last_updated: '2026-08-01T03:37:08Z'
-discovered_at: '2026-08-01T03:43:48Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T03:37:08Z"
+discovered_at: "2026-08-01T03:43:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,36 +1,19 @@
 ---
-title: phuongddx/codeintel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- SCIP
-- Zoekt
-- SQLite
-- MCP (Model Context Protocol)
-- TypeScript
-- Python (scip-python)
-- Java/Kotlin (scip-java)
-- Swift (scip-swift)
-- LanceDB
-- Sentence Transformers
-- Tree-sitter
+title: "phuongddx/codeintel"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "SCIP", "Zoekt", "SQLite", "MCP (Model Context Protocol)", "TypeScript", "Python (scip-python)", "Java/Kotlin (scip-java)", "Swift (scip-swift)", "LanceDB", "Sentence Transformers", "Tree-sitter"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local-first
-- code navigation
-- semantic search
-- MCP server
-- offline indexing
-source: https://github.com/phuongddx/codeintel
+deployment_complexity: "Medium"
+tags: ["local-first", "code navigation", "semantic search", "MCP server", "offline indexing"]
+source: "https://github.com/phuongddx/codeintel"
 stars: 0
-language: Python
-last_updated: '2026-08-01T06:25:01Z'
-discovered_at: '2026-08-01T06:29:14Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T06:25:01Z"
+discovered_at: "2026-08-01T06:29:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

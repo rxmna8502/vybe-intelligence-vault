@@ -1,41 +1,19 @@
 ---
-title: 888newstep/ai-agent-platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Spring Boot 3.5
-- LangChain4j 0.34
-- Java 17
-- MySQL 8.0
-- Redis 7
-- Milvus 2.4
-- DeepSeek
-- 通义千问
-- 豆包
-- Qwen3-Flash
-- Ollama
-- BGE-M3
-- Docker
-- Docker Compose
-- GitHub Actions
-- Prometheus
-- Grafana
+title: "888newstep/ai-agent-platform"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Spring Boot 3.5", "LangChain4j 0.34", "Java 17", "MySQL 8.0", "Redis 7", "Milvus 2.4", "DeepSeek", "\u901a\u4e49\u5343\u95ee", "\u8c46\u5305", "Qwen3-Flash", "Ollama", "BGE-M3", "Docker", "Docker Compose", "GitHub Actions", "Prometheus", "Grafana"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- ReAct Agent
-- Multi-path RAG
-- Semantic Caching
-- Tool Invocation
-- Enterprise AI
-source: https://github.com/888newstep/ai-agent-platform
+deployment_complexity: "Medium"
+tags: ["ReAct Agent", "Multi-path RAG", "Semantic Caching", "Tool Invocation", "Enterprise AI"]
+source: "https://github.com/888newstep/ai-agent-platform"
 stars: 114
-language: Java
-last_updated: '2026-08-07T06:09:47Z'
-discovered_at: '2026-08-07T06:12:34Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-07T06:09:47Z"
+discovered_at: "2026-08-07T06:12:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

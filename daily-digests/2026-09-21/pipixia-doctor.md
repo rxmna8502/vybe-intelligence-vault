@@ -1,33 +1,19 @@
 ---
-title: 503496348-ops/pipixia-doctor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Bash
-- Shell Scripting
-- Git
-- pytest
-- SHA-256
-- tar.gz
-- CLI
-- Feishu/Lark Integration
+title: "503496348-ops/pipixia-doctor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Bash", "Shell Scripting", "Git", "pytest", "SHA-256", "tar.gz", "CLI", "Feishu/Lark Integration"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI Agent Health
-- Self-Healing
-- Diagnostics
-- Snapshot Recovery
-- Prescription Engine
-source: https://github.com/503496348-ops/pipixia-doctor
+deployment_complexity: "Medium"
+tags: ["AI Agent Health", "Self-Healing", "Diagnostics", "Snapshot Recovery", "Prescription Engine"]
+source: "https://github.com/503496348-ops/pipixia-doctor"
 stars: 1
-language: Python
-last_updated: '2026-07-21T12:14:48Z'
-discovered_at: '2026-07-21T12:23:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T12:14:48Z"
+discovered_at: "2026-07-21T12:23:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

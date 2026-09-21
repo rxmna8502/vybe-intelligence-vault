@@ -1,34 +1,19 @@
 ---
-title: esstipi-debug/kern
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- FastAPI
-- Claude (LLM)
-- Mermaid.js
-- Pytest
-- NumPy
-- Pandas
-- Matplotlib
-- SQLite
-- Docker
+title: "esstipi-debug/kern"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Claude (LLM)", "Mermaid.js", "Pytest", "NumPy", "Pandas", "Matplotlib", "SQLite", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- supply-chain AI
-- agentic orchestration
-- QA-gated automation
-- knowledge graph grounding
-- safety-staging writeback
-source: https://github.com/esstipi-debug/kern
+deployment_complexity: "High"
+tags: ["supply-chain AI", "agentic orchestration", "QA-gated automation", "knowledge graph grounding", "safety-staging writeback"]
+source: "https://github.com/esstipi-debug/kern"
 stars: 0
-language: Python
-last_updated: '2026-07-18T14:48:19Z'
-discovered_at: '2026-07-18T14:50:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T14:48:19Z"
+discovered_at: "2026-07-18T14:50:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

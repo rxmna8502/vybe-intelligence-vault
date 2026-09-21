@@ -1,33 +1,19 @@
 ---
-title: CueCrux/Crux
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- BM25
-- Graph Retrieval
-- Ed25519 Cryptography
-- MCP (Model Context Protocol)
-- Docker
-- Protobuf
-- Cosign (for SBOM/signing)
-- SLSA Provenance
+title: "CueCrux/Crux"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "BM25", "Graph Retrieval", "Ed25519 Cryptography", "MCP (Model Context Protocol)", "Docker", "Protobuf", "Cosign (for SBOM/signing)", "SLSA Provenance"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory management
-- cryptographic receipts
-- token-budgeted retrieval
-- local-first
-- agent identity
-source: https://github.com/CueCrux/Crux
+deployment_complexity: "Medium"
+tags: ["memory management", "cryptographic receipts", "token-budgeted retrieval", "local-first", "agent identity"]
+source: "https://github.com/CueCrux/Crux"
 stars: 0
-language: Rust
-last_updated: '2026-07-10T21:54:20Z'
-discovered_at: '2026-07-10T22:00:33Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-10T21:54:20Z"
+discovered_at: "2026-07-10T22:00:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

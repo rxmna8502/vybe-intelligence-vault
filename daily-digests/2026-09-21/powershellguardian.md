@@ -1,32 +1,19 @@
 ---
-title: CaptainVid/PowerShellGuardian
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- C++17
-- Windows API
-- PowerShell
-- MCP (Model Context Protocol)
-- JSON
-- NSIS (Nullsoft Scriptable Install System)
-- MinGW-w64
-- DPAPI (Data Protection API)
+title: "CaptainVid/PowerShellGuardian"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C++17", "Windows API", "PowerShell", "MCP (Model Context Protocol)", "JSON", "NSIS (Nullsoft Scriptable Install System)", "MinGW-w64", "DPAPI (Data Protection API)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI security
-- PowerShell automation
-- local gateway
-- MCP bridge
-- Windows control
-source: https://github.com/CaptainVid/PowerShellGuardian
+deployment_complexity: "Medium"
+tags: ["AI security", "PowerShell automation", "local gateway", "MCP bridge", "Windows control"]
+source: "https://github.com/CaptainVid/PowerShellGuardian"
 stars: 1
-language: C++
-last_updated: '2026-09-03T18:59:09Z'
-discovered_at: '2026-09-03T19:10:41Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-09-03T18:59:09Z"
+discovered_at: "2026-09-03T19:10:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

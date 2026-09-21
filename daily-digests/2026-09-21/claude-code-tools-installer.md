@@ -1,32 +1,19 @@
 ---
-title: SteveKinzey/claude-code-tools-installer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- Electron
-- Node.js
-- React
-- TypeScript
-- Convex
-- Claude Code
-- Git
+title: "SteveKinzey/claude-code-tools-installer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Electron", "Node.js", "React", "TypeScript", "Convex", "Claude Code", "Git"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- Claude Code
-- installer
-- development tools
-- GUI
-- Convex components
-source: https://github.com/SteveKinzey/claude-code-tools-installer
+deployment_complexity: "Low"
+tags: ["Claude Code", "installer", "development tools", "GUI", "Convex components"]
+source: "https://github.com/SteveKinzey/claude-code-tools-installer"
 stars: 1
-language: JavaScript
-last_updated: '2026-09-01T19:01:44Z'
-discovered_at: '2026-09-01T19:08:46Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-01T19:01:44Z"
+discovered_at: "2026-09-01T19:08:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

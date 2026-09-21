@@ -1,33 +1,19 @@
 ---
-title: SagaSmithAI/SagaSmith-dnd-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- SQLite
-- ChromaDB
-- FastAPI
-- OCR (RapidOCR, PDFium)
-- Mermaid.js
-- JSON Schema
-- Vector Embeddings
+title: "SagaSmithAI/SagaSmith-dnd-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "ChromaDB", "FastAPI", "OCR (RapidOCR, PDFium)", "Mermaid.js", "JSON Schema", "Vector Embeddings"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- D&D 5e
-- MCP Server
-- Dynamic Tool Exposure
-- Campaign Management
-- AI Agent Orchestration
-source: https://github.com/SagaSmithAI/SagaSmith-dnd-mcp
+deployment_complexity: "Medium"
+tags: ["D&D 5e", "MCP Server", "Dynamic Tool Exposure", "Campaign Management", "AI Agent Orchestration"]
+source: "https://github.com/SagaSmithAI/SagaSmith-dnd-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-08T11:23:05Z'
-discovered_at: '2026-08-08T11:30:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T11:23:05Z"
+discovered_at: "2026-08-08T11:30:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

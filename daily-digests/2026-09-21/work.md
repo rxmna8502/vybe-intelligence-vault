@@ -1,34 +1,19 @@
 ---
-title: huanmengyishi/work
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- DeepSeek API
-- PyYAML
-- regex
-- wcwidth
-- Tree-sitter
-- Event Bus
-- JSON
-- CLI
-- WSL
+title: "huanmengyishi/work"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "DeepSeek API", "PyYAML", "regex", "wcwidth", "Tree-sitter", "Event Bus", "JSON", "CLI", "WSL"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- CLI agent
-- DeepSeek integration
-- resumable sessions
-- adaptive reasoning
-- project-centric
-source: https://github.com/huanmengyishi/work
+deployment_complexity: "Medium"
+tags: ["CLI agent", "DeepSeek integration", "resumable sessions", "adaptive reasoning", "project-centric"]
+source: "https://github.com/huanmengyishi/work"
 stars: 1
-language: Python
-last_updated: '2026-07-14T21:54:47Z'
-discovered_at: '2026-07-14T21:56:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T21:54:47Z"
+discovered_at: "2026-07-14T21:56:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

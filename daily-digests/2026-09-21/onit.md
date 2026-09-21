@@ -1,37 +1,19 @@
 ---
-title: sibyl-oracles/onit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- FastAPI
-- vLLM
-- OpenRouter
-- Ollama
-- MCP (Model Context Protocol)
-- A2A Protocol
-- Docker
-- OAuth2
-- YAML
-- CLI
-- SSE (Server-Sent Events)
-- JSON-RPC
+title: "sibyl-oracles/onit"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "vLLM", "OpenRouter", "Ollama", "MCP (Model Context Protocol)", "A2A Protocol", "Docker", "OAuth2", "YAML", "CLI", "SSE (Server-Sent Events)", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- task automation
-- multi-agent systems
-- MCP integration
-- A2A protocol
-source: https://github.com/sibyl-oracles/onit
+deployment_complexity: "Medium"
+tags: ["AI agents", "task automation", "multi-agent systems", "MCP integration", "A2A protocol"]
+source: "https://github.com/sibyl-oracles/onit"
 stars: 8
-language: Python
-last_updated: '2026-07-18T07:46:18Z'
-discovered_at: '2026-07-18T07:47:14Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T07:46:18Z"
+discovered_at: "2026-07-18T07:47:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

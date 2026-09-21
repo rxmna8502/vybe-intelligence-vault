@@ -1,32 +1,19 @@
 ---
-title: aeshef/obsidian-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Telegram Bot API
-- Obsidian
-- SQLite
-- OpenAI-compatible LLMs
-- Docker
-- Markdown
-- YAML
+title: "aeshef/obsidian-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Telegram Bot API", "Obsidian", "SQLite", "OpenAI-compatible LLMs", "Docker", "Markdown", "YAML"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- personal knowledge management
-- self-hosted AI
-- Telegram integration
-- Obsidian vault
-- fail-closed modules
-source: https://github.com/aeshef/obsidian-agent
+deployment_complexity: "Medium"
+tags: ["personal knowledge management", "self-hosted AI", "Telegram integration", "Obsidian vault", "fail-closed modules"]
+source: "https://github.com/aeshef/obsidian-agent"
 stars: 8
-language: Python
-last_updated: '2026-09-03T22:04:26Z'
-discovered_at: '2026-09-03T22:05:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T22:04:26Z"
+discovered_at: "2026-09-03T22:05:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

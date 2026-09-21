@@ -1,35 +1,19 @@
 ---
-title: sgateway/s-gw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Rust
-- Swift
-- MCP (Model Context Protocol)
-- Keychain (macOS)
-- Windows Credential Manager
-- 1Password
-- Electron
-- CLI
-- Web UI
+title: "sgateway/s-gw"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Rust", "Swift", "MCP (Model Context Protocol)", "Keychain (macOS)", "Windows Credential Manager", "1Password", "Electron", "CLI", "Web UI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- credential management
-- agent security
-- local approval
-- sanitized output
-- MCP integration
-source: https://github.com/sgateway/s-gw
+deployment_complexity: "Medium"
+tags: ["credential management", "agent security", "local approval", "sanitized output", "MCP integration"]
+source: "https://github.com/sgateway/s-gw"
 stars: 8
-language: TypeScript
-last_updated: '2026-07-12T18:56:59Z'
-discovered_at: '2026-07-12T19:02:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T18:56:59Z"
+discovered_at: "2026-07-12T19:02:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

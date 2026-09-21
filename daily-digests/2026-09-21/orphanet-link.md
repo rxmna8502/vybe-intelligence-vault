@@ -1,31 +1,19 @@
 ---
-title: berntpopp/orphanet-link
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python 3.12+
-- SQLite
-- FTS5 (Full-Text Search)
-- Model Context Protocol (MCP)
-- Docker
-- GitHub Actions (CI/CD)
-- uv (dependency manager)
+title: "berntpopp/orphanet-link"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.12+", "SQLite", "FTS5 (Full-Text Search)", "Model Context Protocol (MCP)", "Docker", "GitHub Actions (CI/CD)", "uv (dependency manager)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- rare-disease
-- MCP server
-- Orphanet
-- biomedical data
-- knowledge indexing
-source: https://github.com/berntpopp/orphanet-link
+deployment_complexity: "Medium"
+tags: ["rare-disease", "MCP server", "Orphanet", "biomedical data", "knowledge indexing"]
+source: "https://github.com/berntpopp/orphanet-link"
 stars: 0
-language: Python
-last_updated: '2026-09-01T09:03:03Z'
-discovered_at: '2026-09-01T09:12:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T09:03:03Z"
+discovered_at: "2026-09-01T09:12:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

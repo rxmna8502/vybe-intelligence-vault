@@ -1,28 +1,19 @@
 ---
-title: Fowlerjapanesespeaking973/openclaw-context-doctor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Electron
-- Windows Desktop App
-- Tokenization Libraries
+title: "Fowlerjapanesespeaking973/openclaw-context-doctor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Electron", "Windows Desktop App", "Tokenization Libraries"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- context monitoring
-- token management
-- AI agent tools
-- desktop utility
-- Windows app
-source: https://github.com/Fowlerjapanesespeaking973/openclaw-context-doctor
+deployment_complexity: "Low"
+tags: ["context monitoring", "token management", "AI agent tools", "desktop utility", "Windows app"]
+source: "https://github.com/Fowlerjapanesespeaking973/openclaw-context-doctor"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-13T20:10:34Z'
-discovered_at: '2026-07-13T20:14:19Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T20:10:34Z"
+discovered_at: "2026-07-13T20:14:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

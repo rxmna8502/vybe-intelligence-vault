@@ -1,34 +1,19 @@
 ---
-title: NikaNats/hermes-config
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Hermes Agent
-- WSL2
-- Ubuntu 26.04 LTS
-- Docker
-- Bubblewrap
-- Shell Scripting
-- Git
-- Python
-- Systemd
-- OpenCode Zen (deepseek-v4-flash-free)
+title: "NikaNats/hermes-config"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Hermes Agent", "WSL2", "Ubuntu 26.04 LTS", "Docker", "Bubblewrap", "Shell Scripting", "Git", "Python", "Systemd", "OpenCode Zen (deepseek-v4-flash-free)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- hardened configuration
-- security framework
-- agent orchestration
-- disaster recovery
-- sandboxing
-source: https://github.com/NikaNats/hermes-config
+deployment_complexity: "Medium"
+tags: ["hardened configuration", "security framework", "agent orchestration", "disaster recovery", "sandboxing"]
+source: "https://github.com/NikaNats/hermes-config"
 stars: 0
-language: Shell
-last_updated: '2026-08-05T22:11:31Z'
-discovered_at: '2026-08-05T22:14:59Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-05T22:11:31Z"
+discovered_at: "2026-08-05T22:14:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

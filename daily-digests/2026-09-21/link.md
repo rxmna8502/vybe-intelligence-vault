@@ -1,32 +1,19 @@
 ---
-title: lanes-sh/link
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Bun
-- Node.js
-- MCP (Model Context Protocol)
-- OAuth
-- IMAP
-- REST APIs
-- Git
+title: "lanes-sh/link"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Bun", "Node.js", "MCP (Model Context Protocol)", "OAuth", "IMAP", "REST APIs", "Git"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- self-hosted
-- AI agent integration
-- unified endpoint
-- data orchestration
-- MCP server
-source: https://github.com/lanes-sh/link
+deployment_complexity: "Medium"
+tags: ["self-hosted", "AI agent integration", "unified endpoint", "data orchestration", "MCP server"]
+source: "https://github.com/lanes-sh/link"
 stars: 22
-language: TypeScript
-last_updated: '2026-08-31T18:35:46Z'
-discovered_at: '2026-09-01T15:55:29Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-31T18:35:46Z"
+discovered_at: "2026-09-01T15:55:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,37 +1,19 @@
 ---
-title: grayhatdevelopers/vidxp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- PyTorch
-- FFmpeg
-- Streamlit
-- Docker
-- MCP (Model Context Protocol)
-- SQLite
-- FastAPI
-- React (for frontend)
-- OpenCV
-- Whisper (for speech-to-text)
-- CLIP (for scene search)
-- Face recognition libraries
+title: "grayhatdevelopers/vidxp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PyTorch", "FFmpeg", "Streamlit", "Docker", "MCP (Model Context Protocol)", "SQLite", "FastAPI", "React (for frontend)", "OpenCV", "Whisper (for speech-to-text)", "CLIP (for scene search)", "Face recognition libraries"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- video search
-- multimodal retrieval
-- AI agents
-- local-first
-- MCP integration
-source: https://github.com/grayhatdevelopers/vidxp
+deployment_complexity: "Medium"
+tags: ["video search", "multimodal retrieval", "AI agents", "local-first", "MCP integration"]
+source: "https://github.com/grayhatdevelopers/vidxp"
 stars: 16
-language: Python
-last_updated: '2026-08-03T18:50:00Z'
-discovered_at: '2026-08-03T18:53:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T18:50:00Z"
+discovered_at: "2026-08-03T18:53:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

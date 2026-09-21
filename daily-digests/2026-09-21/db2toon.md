@@ -1,33 +1,19 @@
 ---
-title: kamil5b/db2toon
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- PostgreSQL
-- SQLite
-- DuckDB
-- MySQL
-- MariaDB
-- CockroachDB
-- CLI
-- MCP
+title: "kamil5b/db2toon"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "PostgreSQL", "SQLite", "DuckDB", "MySQL", "MariaDB", "CockroachDB", "CLI", "MCP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- schema conversion
-- database documentation
-- Toon format
-- LLM integration
-- schema extraction
-source: https://github.com/kamil5b/db2toon
+deployment_complexity: "Medium"
+tags: ["schema conversion", "database documentation", "Toon format", "LLM integration", "schema extraction"]
+source: "https://github.com/kamil5b/db2toon"
 stars: 5
-language: Go
-last_updated: '2026-08-09T10:33:34Z'
-discovered_at: '2026-08-09T10:38:04Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-09T10:33:34Z"
+discovered_at: "2026-08-09T10:38:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

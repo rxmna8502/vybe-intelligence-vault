@@ -1,33 +1,19 @@
 ---
-title: thanhphuc85/technocore-crypto-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Ed25519
-- DeepSeek
-- Gemini
-- CoinGecko API
-- Binance API
-- FastAPI
-- GitHub Actions
-- PyPI
+title: "thanhphuc85/technocore-crypto-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Ed25519", "DeepSeek", "Gemini", "CoinGecko API", "Binance API", "FastAPI", "GitHub Actions", "PyPI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- Ed25519 signing
-- multi-AI integration
-- real-time market data
-- Technocore protocol
-source: https://github.com/thanhphuc85/technocore-crypto-agent
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "Ed25519 signing", "multi-AI integration", "real-time market data", "Technocore protocol"]
+source: "https://github.com/thanhphuc85/technocore-crypto-agent"
 stars: 0
-language: Python
-last_updated: '2026-09-03T02:15:15Z'
-discovered_at: '2026-09-03T02:15:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T02:15:15Z"
+discovered_at: "2026-09-03T02:15:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

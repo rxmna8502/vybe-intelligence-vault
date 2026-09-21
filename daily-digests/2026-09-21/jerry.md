@@ -1,29 +1,19 @@
 ---
-title: geekatron/jerry
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Claude Code
-- Python
-- uv (dependency management)
-- Git
-- Apache License 2.0
+title: "geekatron/jerry"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Claude Code", "Python", "uv (dependency management)", "Git", "Apache License 2.0"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Claude Code plugin
-- workflow guardrails
-- knowledge accrual
-- multi-agent orchestration
-- context management
-source: https://github.com/geekatron/jerry
+deployment_complexity: "Medium"
+tags: ["Claude Code plugin", "workflow guardrails", "knowledge accrual", "multi-agent orchestration", "context management"]
+source: "https://github.com/geekatron/jerry"
 stars: 30
-language: Python
-last_updated: '2026-08-04T17:39:54Z'
-discovered_at: '2026-08-04T17:50:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T17:39:54Z"
+discovered_at: "2026-08-04T17:50:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

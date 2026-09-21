@@ -1,33 +1,19 @@
 ---
-title: TeamNickHart/md2do
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- pnpm
-- Fast-glob
-- Todoist API
-- Model Context Protocol (MCP)
-- Jest
-- ESLint
-- Prettier
+title: "TeamNickHart/md2do"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "pnpm", "Fast-glob", "Todoist API", "Model Context Protocol (MCP)", "Jest", "ESLint", "Prettier"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- markdown
-- task-management
-- todoist
-- AI-integration
-- productivity
-source: https://github.com/TeamNickHart/md2do
+deployment_complexity: "Low"
+tags: ["markdown", "task-management", "todoist", "AI-integration", "productivity"]
+source: "https://github.com/TeamNickHart/md2do"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-08T18:38:56Z'
-discovered_at: '2026-08-08T18:39:20Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T18:38:56Z"
+discovered_at: "2026-08-08T18:39:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

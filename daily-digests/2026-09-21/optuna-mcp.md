@@ -1,30 +1,19 @@
 ---
-title: optuna/optuna-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Optuna
-- Model Context Protocol (MCP)
-- Docker
-- uv
-- SQLite
+title: "optuna/optuna-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Optuna", "Model Context Protocol (MCP)", "Docker", "uv", "SQLite"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- hyperparameter optimization
-- MCP server
-- automated optimization
-- LLM integration
-- Optuna
-source: https://github.com/optuna/optuna-mcp
+deployment_complexity: "Medium"
+tags: ["hyperparameter optimization", "MCP server", "automated optimization", "LLM integration", "Optuna"]
+source: "https://github.com/optuna/optuna-mcp"
 stars: 85
-language: Python
-last_updated: '2026-08-05T05:35:03Z'
-discovered_at: '2026-08-05T05:49:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T05:35:03Z"
+discovered_at: "2026-08-05T05:49:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,37 +1,19 @@
 ---
-title: Adit-Jain-srm/Razorpay-AI-Builder
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Next.js 16
-- React 19.2
-- TypeScript
-- Azure AI Foundry (gpt-5.3-chat, MAI-Image-2.5)
-- Vercel AI SDK v7
-- Bright Data (SERP API, Web Unlocker, Scraping Browser)
-- Razorpay Test Mode (Orders API, Standard Checkout, Webhooks)
-- Supabase (Postgres, RLS, Auth)
-- Tailwind CSS v4
-- shadcn UI
-- Vitest
-- Playwright
-- Vercel (Edge + Node runtimes)
+title: "Adit-Jain-srm/Razorpay-AI-Builder"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js 16", "React 19.2", "TypeScript", "Azure AI Foundry (gpt-5.3-chat, MAI-Image-2.5)", "Vercel AI SDK v7", "Bright Data (SERP API, Web Unlocker, Scraping Browser)", "Razorpay Test Mode (Orders API, Standard Checkout, Webhooks)", "Supabase (Postgres, RLS, Auth)", "Tailwind CSS v4", "shadcn UI", "Vitest", "Playwright", "Vercel (Edge + Node runtimes)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- policy-gated commerce
-- Razorpay integration
-- audit trails
-- merchant growth
-source: https://github.com/Adit-Jain-srm/Razorpay-AI-Builder
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "policy-gated commerce", "Razorpay integration", "audit trails", "merchant growth"]
+source: "https://github.com/Adit-Jain-srm/Razorpay-AI-Builder"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-03T19:01:50Z'
-discovered_at: '2026-09-03T19:03:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T19:01:50Z"
+discovered_at: "2026-09-03T19:03:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

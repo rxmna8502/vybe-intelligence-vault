@@ -1,32 +1,19 @@
 ---
-title: Cipher208/docs-haven
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- SQLite
-- SQLite FTS5
-- MCP (Model Context Protocol)
-- Git
-- BM25 ranking
-- CLI
-- pytest
+title: "Cipher208/docs-haven"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "SQLite FTS5", "MCP (Model Context Protocol)", "Git", "BM25 ranking", "CLI", "pytest"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- knowledge base
-- local search
-- MCP server
-- document indexing
-- AI agent persistence
-source: https://github.com/Cipher208/docs-haven
+deployment_complexity: "Low"
+tags: ["knowledge base", "local search", "MCP server", "document indexing", "AI agent persistence"]
+source: "https://github.com/Cipher208/docs-haven"
 stars: 0
-language: Python
-last_updated: '2026-07-18T09:15:42Z'
-discovered_at: '2026-07-18T09:23:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T09:15:42Z"
+discovered_at: "2026-07-18T09:23:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

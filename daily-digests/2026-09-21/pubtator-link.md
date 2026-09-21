@@ -1,33 +1,19 @@
 ---
-title: berntpopp/pubtator-link
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python 3.12+
-- FastAPI
-- PostgreSQL
-- pgvector
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- Docker
-- uv (package manager)
-- GitHub Actions (CI/CD)
+title: "berntpopp/pubtator-link"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.12+", "FastAPI", "PostgreSQL", "pgvector", "MCP (Model Context Protocol)", "Streamable HTTP", "Docker", "uv (package manager)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- biomedical literature
-- PubMed
-- entity annotation
-- RAG optimization
-- evidence retrieval
-source: https://github.com/berntpopp/pubtator-link
+deployment_complexity: "Medium"
+tags: ["biomedical literature", "PubMed", "entity annotation", "RAG optimization", "evidence retrieval"]
+source: "https://github.com/berntpopp/pubtator-link"
 stars: 0
-language: Python
-last_updated: '2026-07-15T16:13:43Z'
-discovered_at: '2026-07-15T16:21:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T16:13:43Z"
+discovered_at: "2026-07-15T16:21:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

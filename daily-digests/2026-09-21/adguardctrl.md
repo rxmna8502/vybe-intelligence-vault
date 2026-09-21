@@ -1,32 +1,19 @@
 ---
-title: lidless-labs/adguardctrl
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- AdGuard Home API
-- npm
-- CLI
-- REST API
-- Jest (for testing)
+title: "lidless-labs/adguardctrl"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "AdGuard Home API", "npm", "CLI", "REST API", "Jest (for testing)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- DNS filtering
-- AdGuard Home
-- MCP adapter
-- CLI tool
-- network management
-source: https://github.com/lidless-labs/adguardctrl
+deployment_complexity: "Low"
+tags: ["DNS filtering", "AdGuard Home", "MCP adapter", "CLI tool", "network management"]
+source: "https://github.com/lidless-labs/adguardctrl"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-17T02:42:19Z'
-discovered_at: '2026-07-17T02:52:18Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T02:42:19Z"
+discovered_at: "2026-07-17T02:52:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

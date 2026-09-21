@@ -1,34 +1,19 @@
 ---
-title: Noesis-Boss/zorro-template
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Zo Computer
-- Ollama
-- AstraDB
-- Node.js
-- Bash
-- Python
-- D2 (diagramming)
-- OpenAI-compatible API
-- gemma3 (LLM)
-- nomic-embed-text-v1.5 (embeddings)
+title: "Noesis-Boss/zorro-template"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Zo Computer", "Ollama", "AstraDB", "Node.js", "Bash", "Python", "D2 (diagramming)", "OpenAI-compatible API", "gemma3 (LLM)", "nomic-embed-text-v1.5 (embeddings)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- self-improving agent
-- memory-augmented
-- token compression
-- local LLM
-- Zo Computer
-source: https://github.com/Noesis-Boss/zorro-template
+deployment_complexity: "Medium"
+tags: ["self-improving agent", "memory-augmented", "token compression", "local LLM", "Zo Computer"]
+source: "https://github.com/Noesis-Boss/zorro-template"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T09:01:12Z'
-discovered_at: '2026-08-01T09:06:19Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T09:01:12Z"
+discovered_at: "2026-08-01T09:06:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

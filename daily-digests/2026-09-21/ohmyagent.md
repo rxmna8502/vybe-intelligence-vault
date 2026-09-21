@@ -1,37 +1,19 @@
 ---
-title: tscodeplus/OhMyAgent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- better-sqlite3
-- sqlite-vec
-- FTS5
-- Electron
-- Tauri
-- LLM APIs
-- Feishu (Lark)
-- Telegram
-- WeChat
-- QQ
+title: "tscodeplus/OhMyAgent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "better-sqlite3", "sqlite-vec", "FTS5", "Electron", "Tauri", "LLM APIs", "Feishu (Lark)", "Telegram", "WeChat", "QQ"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- persistent memory
-- self-hosted
-- policy engine
-- multi-platform
-source: https://github.com/tscodeplus/OhMyAgent
+deployment_complexity: "Medium"
+tags: ["AI agents", "persistent memory", "self-hosted", "policy engine", "multi-platform"]
+source: "https://github.com/tscodeplus/OhMyAgent"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-06T15:13:51Z'
-discovered_at: '2026-08-06T15:18:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T15:13:51Z"
+discovered_at: "2026-08-06T15:18:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

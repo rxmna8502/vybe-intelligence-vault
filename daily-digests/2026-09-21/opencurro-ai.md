@@ -1,38 +1,19 @@
 ---
-title: opencurro-ai/opencurro-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python 3.14
-- FastAPI
-- React 19
-- TypeScript 5.8
-- Vite 7
-- Tailwind CSS v4
-- Zustand 5
-- shadcn/ui
-- Novita Sandbox
-- OpenRouter
-- Groq
-- NVIDIA NIM
-- Tavily
-- Firecrawl
+title: "opencurro-ai/opencurro-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.14", "FastAPI", "React 19", "TypeScript 5.8", "Vite 7", "Tailwind CSS v4", "Zustand 5", "shadcn/ui", "Novita Sandbox", "OpenRouter", "Groq", "NVIDIA NIM", "Tavily", "Firecrawl"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- sandboxed execution
-- LLM tool integration
-- real-time streaming
-- multi-provider support
-source: https://github.com/opencurro-ai/opencurro-ai
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "sandboxed execution", "LLM tool integration", "real-time streaming", "multi-provider support"]
+source: "https://github.com/opencurro-ai/opencurro-ai"
 stars: 12
-language: TypeScript
-last_updated: '2026-08-08T15:24:30Z'
-discovered_at: '2026-08-08T15:32:29Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T15:24:30Z"
+discovered_at: "2026-08-08T15:32:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

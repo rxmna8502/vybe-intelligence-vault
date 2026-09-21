@@ -1,33 +1,19 @@
 ---
-title: equationalapplications/sqlite-s3-agent-tutorial
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- AWS Lambda
-- Amazon Bedrock
-- SQLite
-- Amazon S3
-- Discord API
-- EventBridge
-- AWS CDK
-- Node.js
+title: "equationalapplications/sqlite-s3-agent-tutorial"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "AWS Lambda", "Amazon Bedrock", "SQLite", "Amazon S3", "Discord API", "EventBridge", "AWS CDK", "Node.js"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- serverless
-- agent
-- sqlite
-- aws-bedrock
-- discord-bot
-source: https://github.com/equationalapplications/sqlite-s3-agent-tutorial
+deployment_complexity: "Medium"
+tags: ["serverless", "agent", "sqlite", "aws-bedrock", "discord-bot"]
+source: "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T03:28:10Z'
-discovered_at: '2026-08-09T03:45:40Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T03:28:10Z"
+discovered_at: "2026-08-09T03:45:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

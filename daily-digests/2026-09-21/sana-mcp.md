@@ -1,31 +1,19 @@
 ---
-title: laelhalawani/sana-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- SQLite
-- MCP (Model Context Protocol)
-- tRPC
-- HTTPS
-- CLI
-- Daemon
+title: "laelhalawani/sana-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "tRPC", "HTTPS", "CLI", "Daemon"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- meeting transcripts
-- local database
-- transcript correction
-- AI agent integration
-source: https://github.com/laelhalawani/sana-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "meeting transcripts", "local database", "transcript correction", "AI agent integration"]
+source: "https://github.com/laelhalawani/sana-mcp"
 stars: 0
-language: Go
-last_updated: '2026-08-01T19:06:19Z'
-discovered_at: '2026-08-01T19:19:22Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T19:06:19Z"
+discovered_at: "2026-08-01T19:19:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

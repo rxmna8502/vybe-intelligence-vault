@@ -1,37 +1,19 @@
 ---
-title: goruck/home-generative-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Home Assistant
-- LangGraph
-- PostgreSQL
-- pgvector
-- LangChain
-- Ollama
-- OpenAI API
-- Gemini API
-- Anthropic API
-- LLM (Large Language Model)
-- YAML
-- HACS
+title: "goruck/home-generative-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Home Assistant", "LangGraph", "PostgreSQL", "pgvector", "LangChain", "Ollama", "OpenAI API", "Gemini API", "Anthropic API", "LLM (Large Language Model)", "YAML", "HACS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Home Automation
-- AI Agent
-- Smart Home
-- LangGraph
-- Proactive Alerts
-source: https://github.com/goruck/home-generative-agent
+deployment_complexity: "Medium"
+tags: ["Home Automation", "AI Agent", "Smart Home", "LangGraph", "Proactive Alerts"]
+source: "https://github.com/goruck/home-generative-agent"
 stars: 278
-language: Python
-last_updated: '2026-08-02T17:58:59Z'
-discovered_at: '2026-08-02T18:02:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T17:58:59Z"
+discovered_at: "2026-08-02T18:02:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

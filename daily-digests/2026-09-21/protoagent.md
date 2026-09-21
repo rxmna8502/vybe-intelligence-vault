@@ -1,35 +1,19 @@
 ---
-title: protoLabsAI/protoAgent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- LangGraph
-- FastAPI
-- React
-- SQLite
-- Docker
-- Langfuse
-- Prometheus
-- LiteLLM
-- Agent-to-Agent (A2A) Protocol
-- MCP (Model Context Protocol)
+title: "protoLabsAI/protoAgent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "FastAPI", "React", "SQLite", "Docker", "Langfuse", "Prometheus", "LiteLLM", "Agent-to-Agent (A2A) Protocol", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- A2A-native
-- LangGraph
-- plugin-architecture
-- multi-agent-orchestration
-- local-first
-source: https://github.com/protoLabsAI/protoAgent
+deployment_complexity: "Medium"
+tags: ["A2A-native", "LangGraph", "plugin-architecture", "multi-agent-orchestration", "local-first"]
+source: "https://github.com/protoLabsAI/protoAgent"
 stars: 5
-language: Python
-last_updated: '2026-07-19T07:19:24Z'
-discovered_at: '2026-07-19T07:29:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T07:19:24Z"
+discovered_at: "2026-07-19T07:29:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

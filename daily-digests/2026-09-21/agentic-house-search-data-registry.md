@@ -1,33 +1,19 @@
 ---
-title: asturksever/agentic-house-search-data-registry
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- HTML/CSS
-- Python
-- Model Context Protocol (MCP)
-- Node.js
-- SPARQL
-- REST APIs
-- JSON
-- CSV
+title: "asturksever/agentic-house-search-data-registry"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "HTML/CSS", "Python", "Model Context Protocol (MCP)", "Node.js", "SPARQL", "REST APIs", "JSON", "CSV"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- UK government data
-- postcode analysis
-- open data registry
-- MCP server
-- AI agent integration
-source: https://github.com/asturksever/agentic-house-search-data-registry
+deployment_complexity: "Medium"
+tags: ["UK government data", "postcode analysis", "open data registry", "MCP server", "AI agent integration"]
+source: "https://github.com/asturksever/agentic-house-search-data-registry"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-05T23:58:05Z'
-discovered_at: '2026-08-06T00:02:30Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-05T23:58:05Z"
+discovered_at: "2026-08-06T00:02:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

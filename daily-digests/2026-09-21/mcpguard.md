@@ -1,29 +1,19 @@
 ---
-title: ChenLaoshiYF/mcpguard
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- PyInstaller
-- Regular Expressions
-- CLI
-- JSON
+title: "ChenLaoshiYF/mcpguard"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PyInstaller", "Regular Expressions", "CLI", "JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI security
-- prompt injection
-- tool poisoning
-- MCP
-- local scanning
-source: https://github.com/ChenLaoshiYF/mcpguard
+deployment_complexity: "Low"
+tags: ["AI security", "prompt injection", "tool poisoning", "MCP", "local scanning"]
+source: "https://github.com/ChenLaoshiYF/mcpguard"
 stars: 0
-language: Python
-last_updated: '2026-08-10T03:55:50Z'
-discovered_at: '2026-08-10T03:58:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T03:55:50Z"
+discovered_at: "2026-08-10T03:58:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: antonkarliner/truepane
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- React
-- Vite
-- HTML5 Canvas
-- Supabase Edge Functions
-- Groq API
-- Tailwind CSS
-- Vitest
-- MCP (Model Context Protocol)
+title: "antonkarliner/truepane"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Vite", "HTML5 Canvas", "Supabase Edge Functions", "Groq API", "Tailwind CSS", "Vitest", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- screenshot generation
-- App Store optimization
-- procedural rendering
-- AI-assisted design
-- MCP integration
-source: https://github.com/antonkarliner/truepane
+deployment_complexity: "Medium"
+tags: ["screenshot generation", "App Store optimization", "procedural rendering", "AI-assisted design", "MCP integration"]
+source: "https://github.com/antonkarliner/truepane"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T22:53:20Z'
-discovered_at: '2026-08-04T23:04:40Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T22:53:20Z"
+discovered_at: "2026-08-04T23:04:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

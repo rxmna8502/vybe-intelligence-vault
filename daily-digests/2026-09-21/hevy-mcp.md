@@ -1,31 +1,19 @@
 ---
-title: chrisdoc/hevy-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Cloudflare Workers
-- Docker
-- Effect TS
-- Hevy API
+title: "chrisdoc/hevy-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Cloudflare Workers", "Docker", "Effect TS", "Hevy API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- fitness
-- workout tracking
-- MCP server
-- AI integration
-- data synchronization
-source: https://github.com/chrisdoc/hevy-mcp
+deployment_complexity: "Medium"
+tags: ["fitness", "workout tracking", "MCP server", "AI integration", "data synchronization"]
+source: "https://github.com/chrisdoc/hevy-mcp"
 stars: 449
-language: TypeScript
-last_updated: '2026-09-03T08:29:10Z'
-discovered_at: '2026-09-03T08:36:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T08:29:10Z"
+discovered_at: "2026-09-03T08:36:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

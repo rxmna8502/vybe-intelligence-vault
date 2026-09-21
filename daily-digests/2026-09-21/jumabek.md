@@ -1,32 +1,19 @@
 ---
-title: japo0nn/jumabek
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- Docker
-- SQLite
-- Tokio
-- OpenAI-compatible API
-- JSON-RPC
-- SQL
-- Bash/PowerShell (installation)
+title: "japo0nn/jumabek"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Docker", "SQLite", "Tokio", "OpenAI-compatible API", "JSON-RPC", "SQL", "Bash/PowerShell (installation)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-extending
-- local-first
-- skill-compilation
-- containerized
-- modular
-source: https://github.com/japo0nn/jumabek
+deployment_complexity: "Medium"
+tags: ["self-extending", "local-first", "skill-compilation", "containerized", "modular"]
+source: "https://github.com/japo0nn/jumabek"
 stars: 0
-language: Rust
-last_updated: '2026-08-04T07:33:48Z'
-discovered_at: '2026-08-04T07:40:08Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-04T07:33:48Z"
+discovered_at: "2026-08-04T07:40:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

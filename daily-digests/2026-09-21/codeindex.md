@@ -1,31 +1,19 @@
 ---
-title: maxgfr/codeindex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Tree-sitter
-- Web Workers
-- Regex Parsing
-- Protobuf
-- CLI
-- MCP Server
+title: "maxgfr/codeindex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Tree-sitter", "Web Workers", "Regex Parsing", "Protobuf", "CLI", "MCP Server"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- repository indexing
-- symbol extraction
-- link graph
-- deterministic parsing
-- zero-dependency
-source: https://github.com/maxgfr/codeindex
+deployment_complexity: "Medium"
+tags: ["repository indexing", "symbol extraction", "link graph", "deterministic parsing", "zero-dependency"]
+source: "https://github.com/maxgfr/codeindex"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T06:17:28Z'
-discovered_at: '2026-08-01T06:29:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T06:17:28Z"
+discovered_at: "2026-08-01T06:29:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

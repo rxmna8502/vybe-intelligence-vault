@@ -1,28 +1,19 @@
 ---
-title: indigokarasu/vesper
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- Natural Language Processing
-- Email Delivery (Gmail)
-- Signal Aggregation
+title: "indigokarasu/vesper"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Natural Language Processing", "Email Delivery (Gmail)", "Signal Aggregation"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- briefing generation
-- signal aggregation
-- decision framing
-- natural language processing
-- automation
-source: https://github.com/indigokarasu/vesper
+deployment_complexity: "Medium"
+tags: ["briefing generation", "signal aggregation", "decision framing", "natural language processing", "automation"]
+source: "https://github.com/indigokarasu/vesper"
 stars: 0
-language: Python
-last_updated: '2026-07-21T04:04:47Z'
-discovered_at: '2026-07-21T04:14:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T04:04:47Z"
+discovered_at: "2026-07-21T04:14:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

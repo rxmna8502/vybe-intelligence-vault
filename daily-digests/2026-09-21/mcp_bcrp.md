@@ -1,31 +1,19 @@
 ---
-title: MaykolMedrano/mcp_bcrp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Stata
-- FastMCP
-- Asyncio
-- PyPI
-- GitHub Actions
-- MIT License
+title: "MaykolMedrano/mcp_bcrp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Stata", "FastMCP", "Asyncio", "PyPI", "GitHub Actions", "MIT License"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- macro data
-- economic indicators
-- MCP server
-- Stata integration
-- data retrieval
-source: https://github.com/MaykolMedrano/mcp_bcrp
+deployment_complexity: "Medium"
+tags: ["macro data", "economic indicators", "MCP server", "Stata integration", "data retrieval"]
+source: "https://github.com/MaykolMedrano/mcp_bcrp"
 stars: 1
-language: Stata
-last_updated: '2026-08-09T18:39:34Z'
-discovered_at: '2026-08-09T18:43:44Z'
-evaluated_by: mistral-small-latest
+language: "Stata"
+last_updated: "2026-08-09T18:39:34Z"
+discovered_at: "2026-08-09T18:43:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

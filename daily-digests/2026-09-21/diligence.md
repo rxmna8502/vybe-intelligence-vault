@@ -1,35 +1,19 @@
 ---
-title: DiligenceWorks/Diligence
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- FastAPI
-- React
-- PostgreSQL
-- SQLite
-- Docker
-- Model Context Protocol (MCP)
-- SQLAlchemy
-- JWT
-- OAuth
-- TypeScript
+title: "DiligenceWorks/Diligence"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "React", "PostgreSQL", "SQLite", "Docker", "Model Context Protocol (MCP)", "SQLAlchemy", "JWT", "OAuth", "TypeScript"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- fitness
-- rewards
-- MCP
-- self-hosted
-- behavioral economy
-source: https://github.com/DiligenceWorks/Diligence
+deployment_complexity: "Medium"
+tags: ["fitness", "rewards", "MCP", "self-hosted", "behavioral economy"]
+source: "https://github.com/DiligenceWorks/Diligence"
 stars: 0
-language: Python
-last_updated: '2026-07-13T23:42:02Z'
-discovered_at: '2026-07-13T23:53:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T23:42:02Z"
+discovered_at: "2026-07-13T23:53:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

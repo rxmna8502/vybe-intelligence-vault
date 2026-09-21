@@ -1,30 +1,19 @@
 ---
-title: PhilipAD/health-export-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- Apple HealthKit
-- iCloud Drive
-- Webhook
+title: "PhilipAD/health-export-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Apple HealthKit", "iCloud Drive", "Webhook"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Apple Health
-- MCP server
-- HealthKit
-- AI agents
-- quantified self
-source: https://github.com/PhilipAD/health-export-mcp
+deployment_complexity: "Medium"
+tags: ["Apple Health", "MCP server", "HealthKit", "AI agents", "quantified self"]
+source: "https://github.com/PhilipAD/health-export-mcp"
 stars: 2
-language: JavaScript
-last_updated: '2026-08-05T02:00:48Z'
-discovered_at: '2026-08-05T02:18:50Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-05T02:00:48Z"
+discovered_at: "2026-08-05T02:18:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

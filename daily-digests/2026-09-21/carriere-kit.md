@@ -1,29 +1,19 @@
 ---
-title: samsam007b/carriere-kit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Markdown
-- HTML
-- Bash
-- Claude Code
-- Git
+title: "samsam007b/carriere-kit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "HTML", "Bash", "Claude Code", "Git"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- recherche d'emploi
-- agent IA
-- méthode structurée
-- templates
-- automatisation
-source: https://github.com/samsam007b/carriere-kit
+deployment_complexity: "Low"
+tags: ["recherche d'emploi", "agent IA", "m\u00e9thode structur\u00e9e", "templates", "automatisation"]
+source: "https://github.com/samsam007b/carriere-kit"
 stars: 0
-language: HTML
-last_updated: '2026-08-07T14:17:21Z'
-discovered_at: '2026-08-07T14:18:54Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-07T14:17:21Z"
+discovered_at: "2026-08-07T14:18:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

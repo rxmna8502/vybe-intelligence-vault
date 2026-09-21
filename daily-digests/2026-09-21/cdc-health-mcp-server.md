@@ -1,33 +1,19 @@
 ---
-title: cyanheads/cdc-health-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Bun
-- Model Context Protocol (MCP)
-- Socrata SODA API
-- CDC WONDER API
-- Zod
-- Docker
-- Cloudflare Workers
-- OpenTelemetry
+title: "cyanheads/cdc-health-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Socrata SODA API", "CDC WONDER API", "Zod", "Docker", "Cloudflare Workers", "OpenTelemetry"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- CDC data access
-- MCP server
-- public health
-- Socrata API
-- data querying
-source: https://github.com/cyanheads/cdc-health-mcp-server
+deployment_complexity: "Medium"
+tags: ["CDC data access", "MCP server", "public health", "Socrata API", "data querying"]
+source: "https://github.com/cyanheads/cdc-health-mcp-server"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-09T13:52:08Z'
-discovered_at: '2026-08-09T13:53:54Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T13:52:08Z"
+discovered_at: "2026-08-09T13:53:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

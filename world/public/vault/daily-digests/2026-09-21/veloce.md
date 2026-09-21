@@ -1,34 +1,19 @@
 ---
-title: Lokesh-Tallapaneni/veloce
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- ASGI
-- Pydantic
-- Radix-tree routing
-- Jinja2
-- uvloop
-- orjson
-- httptools
-- python-multipart
-- multidict
+title: "Lokesh-Tallapaneni/veloce"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "ASGI", "Pydantic", "Radix-tree routing", "Jinja2", "uvloop", "orjson", "httptools", "python-multipart", "multidict"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- async web framework
-- ASGI-native
-- OpenAPI generator
-- dependency injection
-- MCP integration
-source: https://github.com/Lokesh-Tallapaneni/veloce
+deployment_complexity: "Medium"
+tags: ["async web framework", "ASGI-native", "OpenAPI generator", "dependency injection", "MCP integration"]
+source: "https://github.com/Lokesh-Tallapaneni/veloce"
 stars: 4
-language: Python
-last_updated: '2026-09-03T15:36:41Z'
-discovered_at: '2026-09-03T15:42:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:36:41Z"
+discovered_at: "2026-09-03T15:42:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

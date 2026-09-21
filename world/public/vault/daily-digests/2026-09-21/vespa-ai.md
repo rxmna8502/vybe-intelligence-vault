@@ -1,34 +1,19 @@
 ---
-title: api-evangelist/vespa-ai
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Java
-- C++
-- Python
-- YQL (Vespa Query Language)
-- REST APIs
-- HNSW (Hierarchical Navigable Small World)
-- BM25
-- TensorFlow/PyTorch (for ML models)
-- Prometheus
-- Grafana
+title: "api-evangelist/vespa-ai"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Java", "C++", "Python", "YQL (Vespa Query Language)", "REST APIs", "HNSW (Hierarchical Navigable Small World)", "BM25", "TensorFlow/PyTorch (for ML models)", "Prometheus", "Grafana"]
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- Vector Search
-- Hybrid Retrieval
-- Machine Learning Ranking
-- Big Data Serving
-- Open Source
-source: https://github.com/api-evangelist/vespa-ai
+deployment_complexity: "High"
+tags: ["Vector Search", "Hybrid Retrieval", "Machine Learning Ranking", "Big Data Serving", "Open Source"]
+source: "https://github.com/api-evangelist/vespa-ai"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:56:59Z'
-discovered_at: '2026-08-08T03:29:43Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:56:59Z"
+discovered_at: "2026-08-08T03:29:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

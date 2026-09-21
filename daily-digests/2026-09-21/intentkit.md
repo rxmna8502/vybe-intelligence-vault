@@ -1,32 +1,19 @@
 ---
-title: crestalnetwork/intentkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Docker
-- Langfuse
-- OpenRouter
-- WeChat API
-- Web3/Blockchain
-- Social Media APIs
-- Go (for integrations)
+title: "crestalnetwork/intentkit"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Docker", "Langfuse", "OpenRouter", "WeChat API", "Web3/Blockchain", "Social Media APIs", "Go (for integrations)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- cloud-native
-- self-hosted
-- AI orchestration
-- collaborative agents
-source: https://github.com/crestalnetwork/intentkit
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "cloud-native", "self-hosted", "AI orchestration", "collaborative agents"]
+source: "https://github.com/crestalnetwork/intentkit"
 stars: 6504
-language: Python
-last_updated: '2026-08-01T16:06:20Z'
-discovered_at: '2026-08-01T16:06:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T16:06:20Z"
+discovered_at: "2026-08-01T16:06:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

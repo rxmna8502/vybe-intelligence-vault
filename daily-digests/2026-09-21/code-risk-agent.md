@@ -1,34 +1,19 @@
 ---
-title: a9320/code-risk-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- ROCm
-- llama.cpp
-- PyTorch
-- Semgrep
-- SQLite
-- GGUF
-- HIP
-- CWE
-- CVE
+title: "a9320/code-risk-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "ROCm", "llama.cpp", "PyTorch", "Semgrep", "SQLite", "GGUF", "HIP", "CWE", "CVE"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- code security
-- local LLM
-- AMD GPU
-- vulnerability detection
-- compliance
-source: https://github.com/a9320/code-risk-agent
+deployment_complexity: "Medium"
+tags: ["code security", "local LLM", "AMD GPU", "vulnerability detection", "compliance"]
+source: "https://github.com/a9320/code-risk-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-05T02:13:55Z'
-discovered_at: '2026-08-05T02:17:00Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T02:13:55Z"
+discovered_at: "2026-08-05T02:17:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,27 +1,19 @@
 ---
-title: eventide-project/agent-norms-code-ruby
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Ruby
-- Shell
-- Git Subtree
+title: "eventide-project/agent-norms-code-ruby"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Ruby", "Shell", "Git Subtree"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- Ruby style guide
-- code conventions
-- agent systems
-- prescriptive programming
-- Ruby tooling
-source: https://github.com/eventide-project/agent-norms-code-ruby
+deployment_complexity: "Low"
+tags: ["Ruby style guide", "code conventions", "agent systems", "prescriptive programming", "Ruby tooling"]
+source: "https://github.com/eventide-project/agent-norms-code-ruby"
 stars: 0
-language: Shell
-last_updated: '2026-07-18T15:54:00Z'
-discovered_at: '2026-07-18T15:55:09Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-18T15:54:00Z"
+discovered_at: "2026-07-18T15:55:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: Arjun0606/smolanalytics
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- Docker
-- MCP (Model Context Protocol)
-- SQLite
-- HTTP API
-- JavaScript SDK
+title: "Arjun0606/smolanalytics"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Docker", "MCP (Model Context Protocol)", "SQLite", "HTTP API", "JavaScript SDK"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- self-hosted analytics
-- AI-powered insights
-- privacy-first
-- MCP integration
-- deterministic reporting
-source: https://github.com/Arjun0606/smolanalytics
+deployment_complexity: "Low"
+tags: ["self-hosted analytics", "AI-powered insights", "privacy-first", "MCP integration", "deterministic reporting"]
+source: "https://github.com/Arjun0606/smolanalytics"
 stars: 1
-language: Go
-last_updated: '2026-07-13T23:46:49Z'
-discovered_at: '2026-07-13T23:53:45Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-13T23:46:49Z"
+discovered_at: "2026-07-13T23:53:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

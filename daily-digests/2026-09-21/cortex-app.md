@@ -1,34 +1,19 @@
 ---
-title: mocaOS/cortex-app
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Python
-- Neo4j
-- Next.js
-- Docker
-- Docling
-- Crawl4ai
-- FastAPI
-- React
-- Tailwind CSS
+title: "mocaOS/cortex-app"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["TypeScript", "Python", "Neo4j", "Next.js", "Docker", "Docling", "Crawl4ai", "FastAPI", "React", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- GraphRAG
-- Knowledge Graph
-- Long-term Memory
-- Document Ingestion
-- Agent Memory
-source: https://github.com/mocaOS/cortex-app
+deployment_complexity: "Medium"
+tags: ["GraphRAG", "Knowledge Graph", "Long-term Memory", "Document Ingestion", "Agent Memory"]
+source: "https://github.com/mocaOS/cortex-app"
 stars: 5
-language: Python
-last_updated: '2026-08-10T09:19:30Z'
-discovered_at: '2026-08-10T09:24:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T09:19:30Z"
+discovered_at: "2026-08-10T09:24:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

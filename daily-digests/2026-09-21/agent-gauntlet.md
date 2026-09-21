@@ -1,35 +1,19 @@
 ---
-title: rolfmadsen/agent-gauntlet
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- TypeScript
-- Rust
-- WebAssembly (WASM)
-- CLI
-- TDD
-- Clean Architecture
-- CI/CD
-- Sigstore
-- Systemd
-- Bubblewrap (bwrap)
+title: "rolfmadsen/agent-gauntlet"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "TypeScript", "Rust", "WebAssembly (WASM)", "CLI", "TDD", "Clean Architecture", "CI/CD", "Sigstore", "Systemd", "Bubblewrap (bwrap)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- AI code verification
-- TDD enforcement
-- WASM policy engine
-- multi-stack testing
-- actionable diagnostics
-source: https://github.com/rolfmadsen/agent-gauntlet
+deployment_complexity: "High"
+tags: ["AI code verification", "TDD enforcement", "WASM policy engine", "multi-stack testing", "actionable diagnostics"]
+source: "https://github.com/rolfmadsen/agent-gauntlet"
 stars: 0
-language: Python
-last_updated: '2026-09-03T18:57:32Z'
-discovered_at: '2026-09-03T19:06:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T18:57:32Z"
+discovered_at: "2026-09-03T19:06:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

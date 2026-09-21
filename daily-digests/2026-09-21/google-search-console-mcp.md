@@ -1,31 +1,19 @@
 ---
-title: Mrshahidali420/google-search-console-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Google Search Console API
-- OAuth 2.0
-- SQLite
-- FastAPI (implicit)
-- PKCE (Proof Key for Code Exchange)
+title: "Mrshahidali420/google-search-console-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Google Search Console API", "OAuth 2.0", "SQLite", "FastAPI (implicit)", "PKCE (Proof Key for Code Exchange)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Google Search Console
-- SEO automation
-- AI agent integration
-- indexing management
-source: https://github.com/Mrshahidali420/google-search-console-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Google Search Console", "SEO automation", "AI agent integration", "indexing management"]
+source: "https://github.com/Mrshahidali420/google-search-console-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-02T14:56:25Z'
-discovered_at: '2026-08-02T15:02:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T14:56:25Z"
+discovered_at: "2026-08-02T15:02:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

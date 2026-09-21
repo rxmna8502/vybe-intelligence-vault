@@ -1,36 +1,19 @@
 ---
-title: positer/Newmark-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Electron
-- Node.js
-- OpenAI-compatible APIs
-- Anthropic-compatible APIs
-- GitHub Models
-- WSL
-- MCP (Model Context Protocol)
-- OCR
-- SSH
-- Windows API
-- Linux packaging tools
+title: "positer/Newmark-Agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Electron", "Node.js", "OpenAI-compatible APIs", "Anthropic-compatible APIs", "GitHub Models", "WSL", "MCP (Model Context Protocol)", "OCR", "SSH", "Windows API", "Linux packaging tools"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local-first
-- multi-model routing
-- desktop agent
-- controlled tool access
-- workspace persistence
-source: https://github.com/positer/Newmark-Agent
+deployment_complexity: "Medium"
+tags: ["local-first", "multi-model routing", "desktop agent", "controlled tool access", "workspace persistence"]
+source: "https://github.com/positer/Newmark-Agent"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-06T03:14:04Z'
-discovered_at: '2026-08-06T03:18:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T03:14:04Z"
+discovered_at: "2026-08-06T03:18:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

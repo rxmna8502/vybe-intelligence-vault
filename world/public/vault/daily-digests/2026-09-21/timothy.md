@@ -1,38 +1,19 @@
 ---
-title: timothy-agent/timothy
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Go
-- React
-- TypeScript
-- PostgreSQL
-- pgvector
-- Docker
-- Docker Compose
-- SSE (Server-Sent Events)
-- Prometheus
-- 'Python (sidecars: markitdown, whisper)'
-- Tailwind CSS
-- Ollama (optional)
-- OAuth (Google, GitHub)
-- Amazon Bedrock (optional)
+title: "timothy-agent/timothy"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "React", "TypeScript", "PostgreSQL", "pgvector", "Docker", "Docker Compose", "SSE (Server-Sent Events)", "Prometheus", "Python (sidecars: markitdown, whisper)", "Tailwind CSS", "Ollama (optional)", "OAuth (Google, GitHub)", "Amazon Bedrock (optional)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-hosted
-- AI assistant
-- multi-provider LLM
-- cost tracking
-- agent orchestration
-source: https://github.com/timothy-agent/timothy
+deployment_complexity: "Medium"
+tags: ["self-hosted", "AI assistant", "multi-provider LLM", "cost tracking", "agent orchestration"]
+source: "https://github.com/timothy-agent/timothy"
 stars: 2
-language: Go
-last_updated: '2026-08-04T17:40:35Z'
-discovered_at: '2026-08-04T17:50:02Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T17:40:35Z"
+discovered_at: "2026-08-04T17:50:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

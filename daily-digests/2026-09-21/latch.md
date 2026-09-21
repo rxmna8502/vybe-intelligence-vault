@@ -1,31 +1,19 @@
 ---
-title: open-latch/latch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- SQLite
-- Claude Code
-- Codex
-- Cursor
-- Git
-- Bash/PowerShell
+title: "open-latch/latch"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "Claude Code", "Codex", "Cursor", "Git", "Bash/PowerShell"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- decision enforcement
-- agent gatekeeping
-- local-first
-- knowledge base
-- project continuity
-source: https://github.com/open-latch/latch
+deployment_complexity: "Medium"
+tags: ["decision enforcement", "agent gatekeeping", "local-first", "knowledge base", "project continuity"]
+source: "https://github.com/open-latch/latch"
 stars: 9
-language: Python
-last_updated: '2026-08-01T16:02:36Z'
-discovered_at: '2026-08-01T16:06:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T16:02:36Z"
+discovered_at: "2026-08-01T16:06:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

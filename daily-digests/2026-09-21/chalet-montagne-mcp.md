@@ -1,29 +1,19 @@
 ---
-title: alpium/chalet-montagne-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Model Context Protocol (MCP)
-- Streamable HTTP
-- OpenAPI
-- JSON
-- Python (implied by MCP server implementation)
+title: "alpium/chalet-montagne-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "Streamable HTTP", "OpenAPI", "JSON", "Python (implied by MCP server implementation)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- MCP server
-- vacation rentals
-- direct booking
-- travel API
-- French Alps
-source: https://github.com/alpium/chalet-montagne-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "vacation rentals", "direct booking", "travel API", "French Alps"]
+source: "https://github.com/alpium/chalet-montagne-mcp"
 stars: 0
-language: None
-last_updated: '2026-08-09T17:34:33Z'
-discovered_at: '2026-08-09T17:35:33Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-09T17:34:33Z"
+discovered_at: "2026-08-09T17:35:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

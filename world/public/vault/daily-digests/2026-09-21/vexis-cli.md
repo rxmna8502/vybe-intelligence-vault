@@ -1,32 +1,19 @@
 ---
-title: AInohogosya/VEXIS-CLI
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- LLM APIs (OpenAI, Anthropic, Groq, Google, etc.)
-- Natural Language Processing
-- Terminal Automation
-- DAG-based Task Execution
-- YAML Configuration
-- Telegram Bot Integration
-- Ollama (Local AI)
+title: "AInohogosya/VEXIS-CLI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "LLM APIs (OpenAI, Anthropic, Groq, Google, etc.)", "Natural Language Processing", "Terminal Automation", "DAG-based Task Execution", "YAML Configuration", "Telegram Bot Integration", "Ollama (Local AI)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal automation
-- AI-powered commands
-- multi-phase pipeline
-- LLM orchestration
-- error recovery
-source: https://github.com/AInohogosya/VEXIS-CLI
+deployment_complexity: "Medium"
+tags: ["terminal automation", "AI-powered commands", "multi-phase pipeline", "LLM orchestration", "error recovery"]
+source: "https://github.com/AInohogosya/VEXIS-CLI"
 stars: 1
-language: Python
-last_updated: '2026-08-02T11:56:30Z'
-discovered_at: '2026-08-02T12:02:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T11:56:30Z"
+discovered_at: "2026-08-02T12:02:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

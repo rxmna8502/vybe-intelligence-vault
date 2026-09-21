@@ -1,32 +1,19 @@
 ---
-title: SEOSiri-Official/ops-comm-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Sentry
-- Linear
-- Slack API
-- GitHub API
-- DuckDB
-- Parquet
+title: "SEOSiri-Official/ops-comm-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Sentry", "Linear", "Slack API", "GitHub API", "DuckDB", "Parquet"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- incident response
-- error triage
-- automation
-- enterprise operations
-source: https://github.com/SEOSiri-Official/ops-comm-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "incident response", "error triage", "automation", "enterprise operations"]
+source: "https://github.com/SEOSiri-Official/ops-comm-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-04T12:54:47Z'
-discovered_at: '2026-08-04T13:05:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T12:54:47Z"
+discovered_at: "2026-08-04T13:05:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

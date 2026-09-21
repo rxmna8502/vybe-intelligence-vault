@@ -1,31 +1,19 @@
 ---
-title: amajorai/ryu-voice
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- FastAPI
-- ONNX Runtime
-- Kokoro TTS
-- KittenTTS
-- Kyutai Pocket TTS
-- HTTP/REST
+title: "amajorai/ryu-voice"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "ONNX Runtime", "Kokoro TTS", "KittenTTS", "Kyutai Pocket TTS", "HTTP/REST"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- text-to-speech
-- TTS sidecar
-- multi-engine
-- Ryu ecosystem
-- voice synthesis
-source: https://github.com/amajorai/ryu-voice
+deployment_complexity: "Medium"
+tags: ["text-to-speech", "TTS sidecar", "multi-engine", "Ryu ecosystem", "voice synthesis"]
+source: "https://github.com/amajorai/ryu-voice"
 stars: 0
-language: Python
-last_updated: '2026-08-05T08:31:21Z'
-discovered_at: '2026-08-05T08:35:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T08:31:21Z"
+discovered_at: "2026-08-05T08:35:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

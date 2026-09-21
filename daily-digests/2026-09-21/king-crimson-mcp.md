@@ -1,32 +1,19 @@
 ---
-title: ytkoka/king-crimson-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- MusicBrainz API
-- Discogs API
-- setlist.fm API
-- Cover Art Archive API
-- MCP (Model Context Protocol)
-- JSON caching
-- uv (package manager)
+title: "ytkoka/king-crimson-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MusicBrainz API", "Discogs API", "setlist.fm API", "Cover Art Archive API", "MCP (Model Context Protocol)", "JSON caching", "uv (package manager)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- discography
-- live performances
-- music data integration
-- MCP server
-- King Crimson
-source: https://github.com/ytkoka/king-crimson-mcp
+deployment_complexity: "Medium"
+tags: ["discography", "live performances", "music data integration", "MCP server", "King Crimson"]
+source: "https://github.com/ytkoka/king-crimson-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-10T06:17:46Z'
-discovered_at: '2026-08-10T15:03:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T06:17:46Z"
+discovered_at: "2026-08-10T15:03:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

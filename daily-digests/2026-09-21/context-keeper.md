@@ -1,28 +1,19 @@
 ---
-title: jarmstrong158/context-keeper
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- JSON
-- Claude Code
+title: "jarmstrong158/context-keeper"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON", "Claude Code"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- project memory
-- context management
-- MCP server
-- Claude integration
-- structured data
-source: https://github.com/jarmstrong158/context-keeper
+deployment_complexity: "Medium"
+tags: ["project memory", "context management", "MCP server", "Claude integration", "structured data"]
+source: "https://github.com/jarmstrong158/context-keeper"
 stars: 1
-language: Python
-last_updated: '2026-08-01T14:41:43Z'
-discovered_at: '2026-08-01T15:01:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T14:41:43Z"
+discovered_at: "2026-08-01T15:01:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

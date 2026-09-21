@@ -1,30 +1,19 @@
 ---
-title: dreamrec/TDPilot
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- TouchDesigner
-- MCP (Model Context Protocol)
-- Node.js
-- SQLite
-- Docker
+title: "dreamrec/TDPilot"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "TouchDesigner", "MCP (Model Context Protocol)", "Node.js", "SQLite", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- TouchDesigner automation
-- AI-driven visual programming
-- MCP tools
-- interactive debugging
-- transactional operations
-source: https://github.com/dreamrec/TDPilot
+deployment_complexity: "Medium"
+tags: ["TouchDesigner automation", "AI-driven visual programming", "MCP tools", "interactive debugging", "transactional operations"]
+source: "https://github.com/dreamrec/TDPilot"
 stars: 5
-language: Python
-last_updated: '2026-07-10T10:47:57Z'
-discovered_at: '2026-07-10T10:51:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T10:47:57Z"
+discovered_at: "2026-07-10T10:51:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

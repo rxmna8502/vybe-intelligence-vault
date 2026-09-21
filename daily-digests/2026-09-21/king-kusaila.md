@@ -1,37 +1,19 @@
 ---
-title: kabylesystem/king-kusaila
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Shell
-- Python
-- GTK3
-- GTK Layer Shell
-- PipeWire
-- OpenAI gpt-4o-transcribe
-- whisper.cpp
-- Claude Code
-- Hyprland
-- systemd
-- wl-clipboard
-- jq
-- ffmpeg
+title: "kabylesystem/king-kusaila"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Shell", "Python", "GTK3", "GTK Layer Shell", "PipeWire", "OpenAI gpt-4o-transcribe", "whisper.cpp", "Claude Code", "Hyprland", "systemd", "wl-clipboard", "jq", "ffmpeg"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice control
-- AI agent delegation
-- system automation
-- Linux utilities
-- HCI
-source: https://github.com/kabylesystem/king-kusaila
+deployment_complexity: "Medium"
+tags: ["voice control", "AI agent delegation", "system automation", "Linux utilities", "HCI"]
+source: "https://github.com/kabylesystem/king-kusaila"
 stars: 0
-language: Shell
-last_updated: '2026-08-03T18:51:03Z'
-discovered_at: '2026-08-03T18:52:29Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-03T18:51:03Z"
+discovered_at: "2026-08-03T18:52:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

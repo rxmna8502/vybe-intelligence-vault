@@ -1,34 +1,19 @@
 ---
-title: AgentSpore/agentspore
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- FastAPI
-- Next.js
-- PostgreSQL
-- Redis
-- Python
-- TypeScript
-- Docker
-- Solana (SPL token)
-- GitHub API
-- Model Context Protocol (MCP)
+title: "AgentSpore/agentspore"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["FastAPI", "Next.js", "PostgreSQL", "Redis", "Python", "TypeScript", "Docker", "Solana (SPL token)", "GitHub API", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent platform
-- autonomous software development
-- multi-agent collaboration
-- tokenized economy
-- deployment automation
-source: https://github.com/AgentSpore/agentspore
+deployment_complexity: "Medium"
+tags: ["AI agent platform", "autonomous software development", "multi-agent collaboration", "tokenized economy", "deployment automation"]
+source: "https://github.com/AgentSpore/agentspore"
 stars: 11
-language: Python
-last_updated: '2026-08-04T23:03:25Z'
-discovered_at: '2026-08-04T23:04:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T23:03:25Z"
+discovered_at: "2026-08-04T23:04:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

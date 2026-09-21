@@ -1,31 +1,19 @@
 ---
-title: kyu-softmatter/agentic-microscope
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- LLM (Claude-specific packaging)
-- Micro-Manager (pymmcore-plus)
-- YAML
-- CLI
-- MCP (Model Context Protocol)
-- Hardware drivers (piezo stage, optical tweezers, laser systems)
+title: "kyu-softmatter/agentic-microscope"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LLM (Claude-specific packaging)", "Micro-Manager (pymmcore-plus)", "YAML", "CLI", "MCP (Model Context Protocol)", "Hardware drivers (piezo stage, optical tweezers, laser systems)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- scientific instrumentation
-- agentic systems
-- microscopy
-- hardware validation
-- research automation
-source: https://github.com/kyu-softmatter/agentic-microscope
+deployment_complexity: "High"
+tags: ["scientific instrumentation", "agentic systems", "microscopy", "hardware validation", "research automation"]
+source: "https://github.com/kyu-softmatter/agentic-microscope"
 stars: 1
-language: Python
-last_updated: '2026-09-01T02:45:15Z'
-discovered_at: '2026-09-01T02:50:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T02:45:15Z"
+discovered_at: "2026-09-01T02:50:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

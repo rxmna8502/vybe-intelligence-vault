@@ -1,35 +1,19 @@
 ---
-title: nodeflare-dev/nodeflare
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- Axum
-- Next.js
-- TypeScript
-- Tailwind CSS
-- PostgreSQL
-- Redis
-- Fly.io
-- Stripe
-- GitHub OAuth
-- Docker
+title: "nodeflare-dev/nodeflare"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Axum", "Next.js", "TypeScript", "Tailwind CSS", "PostgreSQL", "Redis", "Fly.io", "Stripe", "GitHub OAuth", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP hosting
-- Model Context Protocol
-- AI server deployment
-- GitHub integration
-- Edge deployment
-source: https://github.com/nodeflare-dev/nodeflare
+deployment_complexity: "Medium"
+tags: ["MCP hosting", "Model Context Protocol", "AI server deployment", "GitHub integration", "Edge deployment"]
+source: "https://github.com/nodeflare-dev/nodeflare"
 stars: 1
-language: Rust
-last_updated: '2026-07-14T20:06:32Z'
-discovered_at: '2026-07-14T20:09:33Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-14T20:06:32Z"
+discovered_at: "2026-07-14T20:09:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

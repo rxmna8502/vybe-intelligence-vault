@@ -1,34 +1,19 @@
 ---
-title: danmo-ai/danmo-work
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- Vue 3
-- Vite
-- SQLite
-- Tauri
-- Anthropic API
-- OpenAI-compatible APIs
-- MCP (Model Context Protocol)
-- WebSocket
-- Git
+title: "danmo-ai/danmo-work"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Vue 3", "Vite", "SQLite", "Tauri", "Anthropic API", "OpenAI-compatible APIs", "MCP (Model Context Protocol)", "WebSocket", "Git"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- LLM orchestration
-- document co-editing
-- self-hosted AI
-- workflow automation
-source: https://github.com/danmo-ai/danmo-work
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "LLM orchestration", "document co-editing", "self-hosted AI", "workflow automation"]
+source: "https://github.com/danmo-ai/danmo-work"
 stars: 2
-language: Go
-last_updated: '2026-08-01T06:28:34Z'
-discovered_at: '2026-08-01T06:28:48Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T06:28:34Z"
+discovered_at: "2026-08-01T06:28:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

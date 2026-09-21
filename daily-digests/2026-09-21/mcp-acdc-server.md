@@ -1,30 +1,19 @@
 ---
-title: sha1n/mcp-acdc-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- Bleve
-- Model Context Protocol (MCP)
-- Docker
-- SSE (Server-Sent Events)
-- YAML
+title: "sha1n/mcp-acdc-server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Bleve", "Model Context Protocol (MCP)", "Docker", "SSE (Server-Sent Events)", "YAML"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- content discovery
-- full-text search
-- AI agent integration
-- knowledge management
-source: https://github.com/sha1n/mcp-acdc-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "content discovery", "full-text search", "AI agent integration", "knowledge management"]
+source: "https://github.com/sha1n/mcp-acdc-server"
 stars: 0
-language: Go
-last_updated: '2026-08-01T06:04:56Z'
-discovered_at: '2026-08-01T06:29:19Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T06:04:56Z"
+discovered_at: "2026-08-01T06:29:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

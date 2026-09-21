@@ -1,29 +1,19 @@
 ---
-title: Artificial-Humanity/Lucida
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- Google Gemini API
-- Google Veo API
-- MCP (Model Context Protocol)
-- CLI
+title: "Artificial-Humanity/Lucida"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Google Gemini API", "Google Veo API", "MCP (Model Context Protocol)", "CLI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- image-generation
-- video-generation
-- MCP-server
-- Google-AI
-- Rust
-source: https://github.com/Artificial-Humanity/Lucida
+deployment_complexity: "Low"
+tags: ["image-generation", "video-generation", "MCP-server", "Google-AI", "Rust"]
+source: "https://github.com/Artificial-Humanity/Lucida"
 stars: 0
-language: Rust
-last_updated: '2026-08-01T03:39:59Z'
-discovered_at: '2026-08-01T03:44:01Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T03:39:59Z"
+discovered_at: "2026-08-01T03:44:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

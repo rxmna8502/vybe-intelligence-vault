@@ -1,29 +1,19 @@
 ---
-title: andresolbach/nodriver-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- nodriver
-- Model Context Protocol (MCP)
-- Google Chrome
-- CDP (Chrome DevTools Protocol)
+title: "andresolbach/nodriver-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "nodriver", "Model Context Protocol (MCP)", "Google Chrome", "CDP (Chrome DevTools Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- anti-bot bypass
-- MCP server
-- stealth scraping
-- Chrome DevTools
-source: https://github.com/andresolbach/nodriver-mcp-server
+deployment_complexity: "Medium"
+tags: ["browser automation", "anti-bot bypass", "MCP server", "stealth scraping", "Chrome DevTools"]
+source: "https://github.com/andresolbach/nodriver-mcp-server"
 stars: 3
-language: Python
-last_updated: '2026-08-07T21:40:09Z'
-discovered_at: '2026-08-07T21:41:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T21:40:09Z"
+discovered_at: "2026-08-07T21:41:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

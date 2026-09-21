@@ -1,28 +1,19 @@
 ---
-title: api-evangelist/alphaloops
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- REST API
-- OpenAPI 3.1
-- JSON Schema
-- HTTP/HTTPS
+title: "api-evangelist/alphaloops"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["REST API", "OpenAPI 3.1", "JSON Schema", "HTTP/HTTPS"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- freight data
-- carrier intelligence
-- FMCSA compliance
-- risk monitoring
-- API profiling
-source: https://github.com/api-evangelist/alphaloops
+deployment_complexity: "Medium"
+tags: ["freight data", "carrier intelligence", "FMCSA compliance", "risk monitoring", "API profiling"]
+source: "https://github.com/api-evangelist/alphaloops"
 stars: 0
-language: None
-last_updated: '2026-08-03T16:22:14Z'
-discovered_at: '2026-08-03T16:27:21Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-03T16:22:14Z"
+discovered_at: "2026-08-03T16:27:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

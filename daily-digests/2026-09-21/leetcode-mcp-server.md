@@ -1,29 +1,19 @@
 ---
-title: jinzcdev/leetcode-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- LeetCode API
-- HTTP/Streamable Transport
+title: "jinzcdev/leetcode-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "LeetCode API", "HTTP/Streamable Transport"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- LeetCode integration
-- code automation
-- problem-solving data
-- API wrapper
-source: https://github.com/jinzcdev/leetcode-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "LeetCode integration", "code automation", "problem-solving data", "API wrapper"]
+source: "https://github.com/jinzcdev/leetcode-mcp-server"
 stars: 128
-language: TypeScript
-last_updated: '2026-07-12T08:09:50Z'
-discovered_at: '2026-07-12T08:15:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T08:09:50Z"
+discovered_at: "2026-07-12T08:15:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

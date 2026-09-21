@@ -1,29 +1,19 @@
 ---
-title: irodori-table/irodori-extension-pinecone
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- Pinecone API
-- Irodori Table
-- Native ABI
-- JSON/Buffer Helpers
+title: "irodori-table/irodori-extension-pinecone"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Pinecone API", "Irodori Table", "Native ABI", "JSON/Buffer Helpers"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- vector-database
-- connector
-- pinecone
-- rust
-- abi
-source: https://github.com/irodori-table/irodori-extension-pinecone
+deployment_complexity: "Medium"
+tags: ["vector-database", "connector", "pinecone", "rust", "abi"]
+source: "https://github.com/irodori-table/irodori-extension-pinecone"
 stars: 0
-language: Rust
-last_updated: '2026-08-07T23:01:52Z'
-discovered_at: '2026-08-07T23:36:32Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T23:01:52Z"
+discovered_at: "2026-08-07T23:36:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

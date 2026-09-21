@@ -1,31 +1,19 @@
 ---
-title: yassin8973/ag-kit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Python
-- Antigravity
-- MCP (Model Context Protocol)
-- Semantic Versioning
-- CI/CD (GitHub Actions)
+title: "yassin8973/ag-kit"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Python", "Antigravity", "MCP (Model Context Protocol)", "Semantic Versioning", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent framework
-- antigravity
-- workflow automation
-- safety hooks
-- persistent memory
-source: https://github.com/yassin8973/ag-kit
+deployment_complexity: "Medium"
+tags: ["agent framework", "antigravity", "workflow automation", "safety hooks", "persistent memory"]
+source: "https://github.com/yassin8973/ag-kit"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T02:39:12Z'
-discovered_at: '2026-08-07T02:41:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T02:39:12Z"
+discovered_at: "2026-08-07T02:41:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

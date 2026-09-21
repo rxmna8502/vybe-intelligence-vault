@@ -1,33 +1,19 @@
 ---
-title: HarperZ9/flywheel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- FastAPI
-- Ollama
-- vLLM
-- SGLang
-- LM Studio
-- llama.cpp
-- Claude API
-- Gemini API
+title: "HarperZ9/flywheel"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Ollama", "vLLM", "SGLang", "LM Studio", "llama.cpp", "Claude API", "Gemini API"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- verification
-- routing
-- receipts
-- offline-capable
-- multi-provider
-source: https://github.com/HarperZ9/flywheel
+deployment_complexity: "Medium"
+tags: ["verification", "routing", "receipts", "offline-capable", "multi-provider"]
+source: "https://github.com/HarperZ9/flywheel"
 stars: 0
-language: Python
-last_updated: '2026-07-11T22:40:26Z'
-discovered_at: '2026-07-11T22:44:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T22:40:26Z"
+discovered_at: "2026-07-11T22:44:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
