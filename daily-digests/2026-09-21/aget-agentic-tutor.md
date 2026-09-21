@@ -1,29 +1,19 @@
 ---
-title: NamrataThakur/AgeT-Agentic-Tutor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Graph Database
-- RAG (Retrieval-Augmented Generation)
-- Agentic AI
-- Stateful Execution
+title: "NamrataThakur/AgeT-Agentic-Tutor"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Graph Database", "RAG (Retrieval-Augmented Generation)", "Agentic AI", "Stateful Execution"]
 quality_score: 5
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agentic AI
-- interview simulation
-- RAG
-- graph-native
-- stateful execution
-source: https://github.com/NamrataThakur/AgeT-Agentic-Tutor
+deployment_complexity: "Medium"
+tags: ["agentic AI", "interview simulation", "RAG", "graph-native", "stateful execution"]
+source: "https://github.com/NamrataThakur/AgeT-Agentic-Tutor"
 stars: 0
-language: Python
-last_updated: '2026-08-07T02:38:22Z'
-discovered_at: '2026-08-07T02:42:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T02:38:22Z"
+discovered_at: "2026-08-07T02:42:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

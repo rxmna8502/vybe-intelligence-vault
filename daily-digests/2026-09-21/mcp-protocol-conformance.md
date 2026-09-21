@@ -1,32 +1,19 @@
 ---
-title: studiomeyer-io/mcp-protocol-conformance
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- JSON-RPC 2.0
-- OAuth 2.1 PKCE
-- JUnit
-- SARIF
-- CLI
-- MCP (Model Context Protocol)
+title: "studiomeyer-io/mcp-protocol-conformance"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "JSON-RPC 2.0", "OAuth 2.1 PKCE", "JUnit", "SARIF", "CLI", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP
-- conformance testing
-- JSON-RPC
-- OAuth PKCE
-- server validation
-source: https://github.com/studiomeyer-io/mcp-protocol-conformance
+deployment_complexity: "Medium"
+tags: ["MCP", "conformance testing", "JSON-RPC", "OAuth PKCE", "server validation"]
+source: "https://github.com/studiomeyer-io/mcp-protocol-conformance"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T07:32:27Z'
-discovered_at: '2026-08-10T07:35:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T07:32:27Z"
+discovered_at: "2026-08-10T07:35:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,36 +1,19 @@
 ---
-title: hardcoreerik/TheOrc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- C#
-- .NET 10
-- Avalonia UI
-- llama.cpp
-- Ollama
-- Python
-- Gemma 4
-- Qwen2.5
-- LoRA
-- Graph-based retrieval
-- OCR
-- PDF/DOCX/EPUB parsers
+title: "hardcoreerik/TheOrc"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C#", ".NET 10", "Avalonia UI", "llama.cpp", "Ollama", "Python", "Gemma 4", "Qwen2.5", "LoRA", "Graph-based retrieval", "OCR", "PDF/DOCX/EPUB parsers"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- multi-agent orchestration
-- local-first AI
-- source-grounded memory
-- self-improving systems
-- open-source
-source: https://github.com/hardcoreerik/TheOrc
+deployment_complexity: "High"
+tags: ["multi-agent orchestration", "local-first AI", "source-grounded memory", "self-improving systems", "open-source"]
+source: "https://github.com/hardcoreerik/TheOrc"
 stars: 1
-language: C#
-last_updated: '2026-07-13T06:13:54Z'
-discovered_at: '2026-07-13T06:15:36Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-13T06:13:54Z"
+discovered_at: "2026-07-13T06:15:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,42 +1,19 @@
 ---
-title: answerLoops/answerLoops
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Next.js
-- PostgreSQL
-- Drizzle ORM
-- Docker
-- OpenAI API
-- Anthropic API
-- Google Gemini API
-- Groq API
-- Mistral API
-- Ollama
-- MCP (Model Context Protocol)
-- REST API
-- Discord API
-- Slack API
-- GitHub API
-- Telegram API
-- Notion API
+title: "answerLoops/answerLoops"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Next.js", "PostgreSQL", "Drizzle ORM", "Docker", "OpenAI API", "Anthropic API", "Google Gemini API", "Groq API", "Mistral API", "Ollama", "MCP (Model Context Protocol)", "REST API", "Discord API", "Slack API", "GitHub API", "Telegram API", "Notion API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI support automation
-- multi-channel integration
-- confidence-gated responses
-- self-hosted
-- MCP server
-source: https://github.com/answerLoops/answerLoops
+deployment_complexity: "Medium"
+tags: ["AI support automation", "multi-channel integration", "confidence-gated responses", "self-hosted", "MCP server"]
+source: "https://github.com/answerLoops/answerLoops"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-01T02:38:54Z'
-discovered_at: '2026-09-01T02:51:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T02:38:54Z"
+discovered_at: "2026-09-01T02:51:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

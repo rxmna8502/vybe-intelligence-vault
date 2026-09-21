@@ -1,39 +1,19 @@
 ---
-title: Sebas-Solver/Res-ex-Machina
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Fastify
-- EVM (Base Sepolia/Mainnet)
-- EIP-712
-- SHA-256
-- PostgreSQL
-- Redis
-- Drizzle ORM
-- BullMQ
-- GitHub Actions
-- WebCrypto
-- Viem
-- Zod
-- MCP Server
+title: "Sebas-Solver/Res-ex-Machina"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Fastify", "EVM (Base Sepolia/Mainnet)", "EIP-712", "SHA-256", "PostgreSQL", "Redis", "Drizzle ORM", "BullMQ", "GitHub Actions", "WebCrypto", "Viem", "Zod", "MCP Server"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI generation registry
-- Proof of Generation
-- Blockchain anchoring
-- EIP-712 signatures
-- Verifiable AI outputs
-source: https://github.com/Sebas-Solver/Res-ex-Machina
+deployment_complexity: "Medium"
+tags: ["AI generation registry", "Proof of Generation", "Blockchain anchoring", "EIP-712 signatures", "Verifiable AI outputs"]
+source: "https://github.com/Sebas-Solver/Res-ex-Machina"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T22:31:19Z'
-discovered_at: '2026-08-08T22:31:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T22:31:19Z"
+discovered_at: "2026-08-08T22:31:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,37 +1,19 @@
 ---
-title: greeves89/AI-Employee
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Docker
-- React
-- TypeScript
-- Claude Code CLI
-- OpenAI Codex
-- Microsoft Graph MCP
-- PostgreSQL
-- Redis
-- FastAPI
-- React Flow
-- WebSockets
-- Ollama/LM-Studio (local LLM support)
+title: "greeves89/AI-Employee"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Docker", "React", "TypeScript", "Claude Code CLI", "OpenAI Codex", "Microsoft Graph MCP", "PostgreSQL", "Redis", "FastAPI", "React Flow", "WebSockets", "Ollama/LM-Studio (local LLM support)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- self-hosted
-- governance
-- DSGVO compliance
-- Docker isolation
-source: https://github.com/greeves89/AI-Employee
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "self-hosted", "governance", "DSGVO compliance", "Docker isolation"]
+source: "https://github.com/greeves89/AI-Employee"
 stars: 16
-language: Python
-last_updated: '2026-09-02T22:13:38Z'
-discovered_at: '2026-09-02T22:15:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:13:38Z"
+discovered_at: "2026-09-02T22:15:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

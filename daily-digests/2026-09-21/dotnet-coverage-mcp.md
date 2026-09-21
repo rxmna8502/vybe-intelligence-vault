@@ -1,30 +1,19 @@
 ---
-title: Hyeonu-Cha/dotnet-coverage-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- C#
-- .NET 9.0
-- Model Context Protocol (MCP)
-- Cobertura XML
-- reportgenerator
-- Roslyn
+title: "Hyeonu-Cha/dotnet-coverage-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET 9.0", "Model Context Protocol (MCP)", "Cobertura XML", "reportgenerator", "Roslyn"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- code coverage
-- AI automation
-- test generation
-- CI/CD integration
-source: https://github.com/Hyeonu-Cha/dotnet-coverage-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "code coverage", "AI automation", "test generation", "CI/CD integration"]
+source: "https://github.com/Hyeonu-Cha/dotnet-coverage-mcp"
 stars: 1
-language: C#
-last_updated: '2026-07-13T13:18:36Z'
-discovered_at: '2026-07-13T13:22:34Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-13T13:18:36Z"
+discovered_at: "2026-07-13T13:22:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

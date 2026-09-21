@@ -1,31 +1,19 @@
 ---
-title: Kentucky-ai/opentakeoff
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- WebAssembly
-- PDF.js
-- React
-- Node.js
-- Docker
+title: "Kentucky-ai/opentakeoff"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "WebAssembly", "PDF.js", "React", "Node.js", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- construction takeoff
-- MCP server
-- AI agent integration
-- auditable measurements
-- browser-based canvas
-source: https://github.com/Kentucky-ai/opentakeoff
+deployment_complexity: "Medium"
+tags: ["construction takeoff", "MCP server", "AI agent integration", "auditable measurements", "browser-based canvas"]
+source: "https://github.com/Kentucky-ai/opentakeoff"
 stars: 50
-language: TypeScript
-last_updated: '2026-08-04T04:07:41Z'
-discovered_at: '2026-08-04T04:14:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T04:07:41Z"
+discovered_at: "2026-08-04T04:14:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

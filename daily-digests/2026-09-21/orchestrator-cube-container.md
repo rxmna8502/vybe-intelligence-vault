@@ -1,35 +1,19 @@
 ---
-title: schwabauerbriantomas-gif/orchestrator-cube-container
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- Docker
-- KVM/libvirt
-- ZFS
-- Caddy
-- Proxmox VE
-- TOTP 2FA
-- HTTPS/TLS
-- RBAC
-- Audit Logging
+title: "schwabauerbriantomas-gif/orchestrator-cube-container"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "Docker", "KVM/libvirt", "ZFS", "Caddy", "Proxmox VE", "TOTP 2FA", "HTTPS/TLS", "RBAC", "Audit Logging"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- container orchestration
-- MCP server
-- AI-driven DevOps
-- hypervisor management
-- TOTP security
-source: https://github.com/schwabauerbriantomas-gif/orchestrator-cube-container
+deployment_complexity: "High"
+tags: ["container orchestration", "MCP server", "AI-driven DevOps", "hypervisor management", "TOTP security"]
+source: "https://github.com/schwabauerbriantomas-gif/orchestrator-cube-container"
 stars: 0
-language: Go
-last_updated: '2026-07-15T10:44:14Z'
-discovered_at: '2026-07-15T10:48:45Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-15T10:44:14Z"
+discovered_at: "2026-07-15T10:48:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

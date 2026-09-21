@@ -1,31 +1,19 @@
 ---
-title: brutal-45/Brutal-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Next.js 16
-- TypeScript 5.0
-- Tailwind CSS 4.0
-- Framer Motion 11.0
-- React
-- Prism.js
-- Vercel
+title: "brutal-45/Brutal-ai"
+content_type: "repo"
+engine: "v2"
+category: "SaaS Template"
+tech_stack: ["Next.js 16", "TypeScript 5.0", "Tailwind CSS 4.0", "Framer Motion 11.0", "React", "Prism.js", "Vercel"]
 quality_score: 9
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- AI SaaS
-- Next.js
-- Enterprise Template
-- Modern UI
-- AI Tools
-source: https://github.com/brutal-45/Brutal-ai
+deployment_complexity: "Low"
+tags: ["AI SaaS", "Next.js", "Enterprise Template", "Modern UI", "AI Tools"]
+source: "https://github.com/brutal-45/Brutal-ai"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T15:43:12Z'
-discovered_at: '2026-09-02T15:50:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:43:12Z"
+discovered_at: "2026-09-02T15:50:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

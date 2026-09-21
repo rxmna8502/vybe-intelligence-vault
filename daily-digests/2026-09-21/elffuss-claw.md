@@ -1,33 +1,19 @@
 ---
-title: KikoCis/elffuss-claw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- WebGPU
-- ONNX Runtime
-- Transformers.js
-- LiteRT-LM
-- IndexedDB
-- File System Access API
-- Python (for local server)
-- HTML/CSS
+title: "KikoCis/elffuss-claw"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "WebGPU", "ONNX Runtime", "Transformers.js", "LiteRT-LM", "IndexedDB", "File System Access API", "Python (for local server)", "HTML/CSS"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- agentic OS
-- browser-based AI
-- local inference
-- dynamic app generation
-- privacy-first
-source: https://github.com/KikoCis/elffuss-claw
+deployment_complexity: "Medium"
+tags: ["agentic OS", "browser-based AI", "local inference", "dynamic app generation", "privacy-first"]
+source: "https://github.com/KikoCis/elffuss-claw"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T06:16:51Z'
-discovered_at: '2026-08-01T06:29:07Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T06:16:51Z"
+discovered_at: "2026-08-01T06:29:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

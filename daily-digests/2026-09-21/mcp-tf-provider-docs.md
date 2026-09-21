@@ -1,29 +1,19 @@
 ---
-title: UnitVectorY-Labs/mcp-tf-provider-docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- YAML
-- Regex
-- Git
+title: "UnitVectorY-Labs/mcp-tf-provider-docs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "YAML", "Regex", "Git"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- Terraform documentation
-- code generation
-- provider indexing
-- local Git repo
-source: https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs
+deployment_complexity: "Medium"
+tags: ["MCP server", "Terraform documentation", "code generation", "provider indexing", "local Git repo"]
+source: "https://github.com/UnitVectorY-Labs/mcp-tf-provider-docs"
 stars: 0
-language: Go
-last_updated: '2026-08-04T00:04:54Z'
-discovered_at: '2026-08-04T00:11:58Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T00:04:54Z"
+discovered_at: "2026-08-04T00:11:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

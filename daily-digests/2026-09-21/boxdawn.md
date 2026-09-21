@@ -1,34 +1,19 @@
 ---
-title: boxdawn/boxdawn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- PyPI
-- JSONL
-- OpenTelemetry
-- OpenInference
-- Claude Code
-- LLM-as-Judge
-- SHA-256
-- Cosine Similarity
-- Embeddings
+title: "boxdawn/boxdawn"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PyPI", "JSONL", "OpenTelemetry", "OpenInference", "Claude Code", "LLM-as-Judge", "SHA-256", "Cosine Similarity", "Embeddings"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent observability
-- waste detection
-- cost optimization
-- trace analysis
-- deterministic detectors
-source: https://github.com/boxdawn/boxdawn
+deployment_complexity: "Medium"
+tags: ["AI agent observability", "waste detection", "cost optimization", "trace analysis", "deterministic detectors"]
+source: "https://github.com/boxdawn/boxdawn"
 stars: 6
-language: Python
-last_updated: '2026-09-03T16:25:48Z'
-discovered_at: '2026-09-03T19:14:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T16:25:48Z"
+discovered_at: "2026-09-03T19:14:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

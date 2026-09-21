@@ -1,34 +1,19 @@
 ---
-title: vishk23/screenblock-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Swift
-- SQLite
-- Fly.io
-- Apple Screen Time APIs
-- ManagedSettings
-- APNs (Apple Push Notifications)
-- MCP (Model Context Protocol)
-- Xcode
-- Node.js
+title: "vishk23/screenblock-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Swift", "SQLite", "Fly.io", "Apple Screen Time APIs", "ManagedSettings", "APNs (Apple Push Notifications)", "MCP (Model Context Protocol)", "Xcode", "Node.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- screen time enforcement
-- AI-driven app blocking
-- MCP server
-- Apple Family Controls
-- temporary app access
-source: https://github.com/vishk23/screenblock-mcp
+deployment_complexity: "High"
+tags: ["screen time enforcement", "AI-driven app blocking", "MCP server", "Apple Family Controls", "temporary app access"]
+source: "https://github.com/vishk23/screenblock-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T22:55:31Z'
-discovered_at: '2026-08-04T23:04:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T22:55:31Z"
+discovered_at: "2026-08-04T23:04:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

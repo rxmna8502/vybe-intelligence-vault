@@ -1,31 +1,19 @@
 ---
-title: danieljohnmorris/ai-coworkers
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- MCP (Model Context Protocol)
-- OpenAI-compatible APIs
-- Prometheus
-- GitHub Actions
+title: "danieljohnmorris/ai-coworkers"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "MCP (Model Context Protocol)", "OpenAI-compatible APIs", "Prometheus", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- long-running AI
-- role-based automation
-- boundary enforcement
-- dry-run execution
-- memory management
-source: https://github.com/danieljohnmorris/ai-coworkers
+deployment_complexity: "Medium"
+tags: ["long-running AI", "role-based automation", "boundary enforcement", "dry-run execution", "memory management"]
+source: "https://github.com/danieljohnmorris/ai-coworkers"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-08T12:35:52Z'
-discovered_at: '2026-08-08T12:47:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T12:35:52Z"
+discovered_at: "2026-08-08T12:47:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

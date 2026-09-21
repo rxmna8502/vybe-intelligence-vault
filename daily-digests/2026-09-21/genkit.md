@@ -1,32 +1,19 @@
 ---
-title: genkit-ai/genkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Go
-- Python
-- Dart
-- Firebase
-- Google Cloud
-- CLI Development
-- Observability Tools
+title: "genkit-ai/genkit"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Go", "Python", "Dart", "Firebase", "Google Cloud", "CLI Development", "Observability Tools"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI framework
-- multi-model support
-- agentic workflows
-- RAG
-- production-ready
-source: https://github.com/genkit-ai/genkit
+deployment_complexity: "Medium"
+tags: ["AI framework", "multi-model support", "agentic workflows", "RAG", "production-ready"]
+source: "https://github.com/genkit-ai/genkit"
 stars: 6323
-language: TypeScript
-last_updated: '2026-08-07T10:01:59Z'
-discovered_at: '2026-08-07T10:04:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T10:01:59Z"
+discovered_at: "2026-08-07T10:04:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

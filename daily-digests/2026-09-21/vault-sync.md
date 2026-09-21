@@ -1,33 +1,19 @@
 ---
-title: Ub207/vault-sync
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python 3.9+
-- Claude Opus 4
-- Git
-- Obsidian
-- Docker
-- Oracle Cloud VM
-- MCP Servers (LinkedIn, Email, Twitter, Facebook, Odoo, Filesystem, Browser, Calendar,
-  Slack)
-- Odoo 17
+title: "Ub207/vault-sync"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.9+", "Claude Opus 4", "Git", "Obsidian", "Docker", "Oracle Cloud VM", "MCP Servers (LinkedIn, Email, Twitter, Facebook, Odoo, Filesystem, Browser, Calendar, Slack)", "Odoo 17"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI automation
-- digital employee
-- human-in-the-loop
-- multi-agent sync
-- business operations
-source: https://github.com/Ub207/vault-sync
+deployment_complexity: "High"
+tags: ["AI automation", "digital employee", "human-in-the-loop", "multi-agent sync", "business operations"]
+source: "https://github.com/Ub207/vault-sync"
 stars: 8
-language: Python
-last_updated: '2026-09-01T09:03:42Z'
-discovered_at: '2026-09-01T09:09:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T09:03:42Z"
+discovered_at: "2026-09-01T09:09:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

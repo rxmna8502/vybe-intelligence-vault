@@ -1,33 +1,19 @@
 ---
-title: vishaltn74-dev/Nivara
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Flutter
-- Dart
-- Riverpod
-- Groq API (Llama-3)
-- Vision AI
-- Geolocator
-- Geoapify API
-- GoRouter
-- SharedPreferences
+title: "vishaltn74-dev/Nivara"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Flutter", "Dart", "Riverpod", "Groq API (Llama-3)", "Vision AI", "Geolocator", "Geoapify API", "GoRouter", "SharedPreferences"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- healthcare AI
-- symptom assessment
-- Flutter app
-- multi-modal AI
-- medical triage
-source: https://github.com/vishaltn74-dev/Nivara
+deployment_complexity: "Medium"
+tags: ["healthcare AI", "symptom assessment", "Flutter app", "multi-modal AI", "medical triage"]
+source: "https://github.com/vishaltn74-dev/Nivara"
 stars: 0
-language: Dart
-last_updated: '2026-08-07T17:50:37Z'
-discovered_at: '2026-08-07T17:52:02Z'
-evaluated_by: mistral-small-latest
+language: "Dart"
+last_updated: "2026-08-07T17:50:37Z"
+discovered_at: "2026-08-07T17:52:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

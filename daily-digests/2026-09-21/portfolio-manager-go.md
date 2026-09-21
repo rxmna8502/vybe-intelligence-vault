@@ -1,34 +1,19 @@
 ---
-title: rodionlim/portfolio-manager-go
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- LevelDB
-- YAML
-- OpenAPI
-- Gemini API
-- React
-- Node.js
-- Docker
-- CI/CD (GitHub Actions)
-- Model Context Protocol (MCP)
+title: "rodionlim/portfolio-manager-go"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "LevelDB", "YAML", "OpenAPI", "Gemini API", "React", "Node.js", "Docker", "CI/CD (GitHub Actions)", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- portfolio management
-- LLM integration
-- market data
-- analytics
-- MCP server
-source: https://github.com/rodionlim/portfolio-manager-go
+deployment_complexity: "Medium"
+tags: ["portfolio management", "LLM integration", "market data", "analytics", "MCP server"]
+source: "https://github.com/rodionlim/portfolio-manager-go"
 stars: 5
-language: Go
-last_updated: '2026-08-02T16:05:28Z'
-discovered_at: '2026-08-02T16:11:28Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T16:05:28Z"
+discovered_at: "2026-08-02T16:11:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

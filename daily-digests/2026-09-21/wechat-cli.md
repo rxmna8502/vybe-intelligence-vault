@@ -1,32 +1,19 @@
 ---
-title: r266-tech/wechat-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- SQLite/WCDB
-- macOS
-- Windows
-- CLI
-- JSON/JSONL
-- ASR (Automatic Speech Recognition)
-- Bash/PowerShell (installation scripts)
+title: "r266-tech/wechat-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "SQLite/WCDB", "macOS", "Windows", "CLI", "JSON/JSONL", "ASR (Automatic Speech Recognition)", "Bash/PowerShell (installation scripts)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- WeChat data extraction
-- local chat history
-- AI agent integration
-- message retrieval
-- media processing
-source: https://github.com/r266-tech/wechat-cli
+deployment_complexity: "Medium"
+tags: ["WeChat data extraction", "local chat history", "AI agent integration", "message retrieval", "media processing"]
+source: "https://github.com/r266-tech/wechat-cli"
 stars: 74
-language: Go
-last_updated: '2026-07-15T05:14:44Z'
-discovered_at: '2026-07-15T05:29:54Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-15T05:14:44Z"
+discovered_at: "2026-07-15T05:29:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

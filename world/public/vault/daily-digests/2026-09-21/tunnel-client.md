@@ -1,32 +1,19 @@
 ---
-title: openai/tunnel-client
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- Cloudflare Tunnel
-- REST API
-- OAuth
-- gRPC
-- Docker
-- Kubernetes
+title: "openai/tunnel-client"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "Cloudflare Tunnel", "REST API", "OAuth", "gRPC", "Docker", "Kubernetes"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- secure connectivity
-- MCP server
-- private network
-- OpenAI integration
-- tunnel proxy
-source: https://github.com/openai/tunnel-client
+deployment_complexity: "Medium"
+tags: ["secure connectivity", "MCP server", "private network", "OpenAI integration", "tunnel proxy"]
+source: "https://github.com/openai/tunnel-client"
 stars: 221
-language: Go
-last_updated: '2026-08-05T22:05:44Z'
-discovered_at: '2026-08-05T22:15:08Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-05T22:05:44Z"
+discovered_at: "2026-08-05T22:15:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

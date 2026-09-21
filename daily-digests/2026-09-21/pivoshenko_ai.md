@@ -1,31 +1,19 @@
 ---
-title: pivoshenko/pivoshenko.ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Kasetto
-- Claude Code
-- Obsidian
-- YAML
-- Shell Scripting
-- Git
-- Markdown
+title: "pivoshenko/pivoshenko.ai"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Kasetto", "Claude Code", "Obsidian", "YAML", "Shell Scripting", "Git", "Markdown"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI workspace
-- skill orchestration
-- personal wiki
-- MCP management
-- agent workflows
-source: https://github.com/pivoshenko/pivoshenko.ai
+deployment_complexity: "Medium"
+tags: ["AI workspace", "skill orchestration", "personal wiki", "MCP management", "agent workflows"]
+source: "https://github.com/pivoshenko/pivoshenko.ai"
 stars: 2
-language: HTML
-last_updated: '2026-07-19T10:17:49Z'
-discovered_at: '2026-07-19T10:26:56Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-19T10:17:49Z"
+discovered_at: "2026-07-19T10:26:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

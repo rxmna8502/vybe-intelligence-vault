@@ -1,34 +1,19 @@
 ---
-title: boulif781/enterprise-knowledge-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- LangChain
-- ChromaDB
-- FastAPI
-- React
-- Spring Boot
-- PostgreSQL
-- JWT
-- Ollama
-- Docker
+title: "boulif781/enterprise-knowledge-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "LangChain", "ChromaDB", "FastAPI", "React", "Spring Boot", "PostgreSQL", "JWT", "Ollama", "Docker"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- RAG
-- document QA
-- on-premises
-- enterprise search
-- chatbot
-source: https://github.com/boulif781/enterprise-knowledge-assistant
+deployment_complexity: "Low"
+tags: ["RAG", "document QA", "on-premises", "enterprise search", "chatbot"]
+source: "https://github.com/boulif781/enterprise-knowledge-assistant"
 stars: 0
-language: None
-last_updated: '2026-08-09T17:05:30Z'
-discovered_at: '2026-08-09T17:35:42Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-09T17:05:30Z"
+discovered_at: "2026-08-09T17:35:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

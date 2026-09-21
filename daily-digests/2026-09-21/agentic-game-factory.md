@@ -1,30 +1,19 @@
 ---
-title: Edentulous-sole142/agentic-game-factory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Godot 4
-- GDScript
-- AI Agents
-- Autonomous QA
-- CI/CD
-- Windows OS
+title: "Edentulous-sole142/agentic-game-factory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Godot 4", "GDScript", "AI Agents", "Autonomous QA", "CI/CD", "Windows OS"]
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- AI-driven game development
-- autonomous agents
-- mobile game automation
-- Godot 4 integration
-- store-ready deployment
-source: https://github.com/Edentulous-sole142/agentic-game-factory
+deployment_complexity: "Medium"
+tags: ["AI-driven game development", "autonomous agents", "mobile game automation", "Godot 4 integration", "store-ready deployment"]
+source: "https://github.com/Edentulous-sole142/agentic-game-factory"
 stars: 1
-language: None
-last_updated: '2026-08-06T06:27:51Z'
-discovered_at: '2026-08-06T06:32:18Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T06:27:51Z"
+discovered_at: "2026-08-06T06:32:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: mirkosertic/MCPLuceneServer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Java 25+
-- Apache Lucene
-- Spring Boot
-- Model Context Protocol (MCP)
-- ONNX Runtime
-- Docker
-- Maven
+title: "mirkosertic/MCPLuceneServer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Java 25+", "Apache Lucene", "Spring Boot", "Model Context Protocol (MCP)", "ONNX Runtime", "Docker", "Maven"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- full-text search
-- document indexing
-- semantic search
-- MCP server
-- vector search
-source: https://github.com/mirkosertic/MCPLuceneServer
+deployment_complexity: "Medium"
+tags: ["full-text search", "document indexing", "semantic search", "MCP server", "vector search"]
+source: "https://github.com/mirkosertic/MCPLuceneServer"
 stars: 5
-language: Java
-last_updated: '2026-08-08T18:32:36Z'
-discovered_at: '2026-08-08T18:39:24Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-08-08T18:32:36Z"
+discovered_at: "2026-08-08T18:39:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: slogsdon/loop-and-gate-foundation
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Claude Code
-- Obsidian
-- Markdown
-- Shell Scripting
-- Node.js
+title: "slogsdon/loop-and-gate-foundation"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Claude Code", "Obsidian", "Markdown", "Shell Scripting", "Node.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- self-improving agent
-- memory management
-- Obsidian integration
-- Claude Code
-- plain text memory
-source: https://github.com/slogsdon/loop-and-gate-foundation
+deployment_complexity: "Medium"
+tags: ["self-improving agent", "memory management", "Obsidian integration", "Claude Code", "plain text memory"]
+source: "https://github.com/slogsdon/loop-and-gate-foundation"
 stars: 0
-language: Shell
-last_updated: '2026-08-07T23:33:58Z'
-discovered_at: '2026-08-07T23:36:22Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-07T23:33:58Z"
+discovered_at: "2026-08-07T23:36:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

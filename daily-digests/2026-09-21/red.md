@@ -1,31 +1,19 @@
 ---
-title: codersauce/red
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- Tree-sitter
-- Language Server Protocol (LSP)
-- Codex CLI
-- TOML
-- Git
-- Shell scripting
+title: "codersauce/red"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Rust", "Tree-sitter", "Language Server Protocol (LSP)", "Codex CLI", "TOML", "Git", "Shell scripting"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- terminal editor
-- AI-assisted coding
-- modal editing
-- agent framework
-- Vim-compatible
-source: https://github.com/codersauce/red
+deployment_complexity: "Low"
+tags: ["terminal editor", "AI-assisted coding", "modal editing", "agent framework", "Vim-compatible"]
+source: "https://github.com/codersauce/red"
 stars: 222
-language: Rust
-last_updated: '2026-09-04T02:05:21Z'
-discovered_at: '2026-09-04T02:13:09Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-04T02:05:21Z"
+discovered_at: "2026-09-04T02:13:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

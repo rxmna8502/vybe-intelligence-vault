@@ -1,28 +1,19 @@
 ---
-title: rodrigopitanga/pavedb-client-elixir
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Elixir
-- HTTP Client
-- OpenAPI
-- Vector Search
+title: "rodrigopitanga/pavedb-client-elixir"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Elixir", "HTTP Client", "OpenAPI", "Vector Search"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Elixir
-- Vector Database
-- PaveDB
-- HTTP Client
-- Search
-source: https://github.com/rodrigopitanga/pavedb-client-elixir
+deployment_complexity: "Low"
+tags: ["Elixir", "Vector Database", "PaveDB", "HTTP Client", "Search"]
+source: "https://github.com/rodrigopitanga/pavedb-client-elixir"
 stars: 0
-language: Elixir
-last_updated: '2026-08-08T17:03:23Z'
-discovered_at: '2026-08-08T17:33:09Z'
-evaluated_by: mistral-small-latest
+language: "Elixir"
+last_updated: "2026-08-08T17:03:23Z"
+discovered_at: "2026-08-08T17:33:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

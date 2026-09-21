@@ -1,36 +1,19 @@
 ---
-title: xin-yi33/RxyCode
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- LangGraph
-- TypeScript
-- React
-- Bun
-- Node.js
-- OpenTUI
-- Ink
-- Docker
-- uv
-- MCP
-- LSP
+title: "xin-yi33/RxyCode"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "TypeScript", "React", "Bun", "Node.js", "OpenTUI", "Ink", "Docker", "uv", "MCP", "LSP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agent
-- Plan-and-Execute
-- Tool Orchestration
-- Anti-Hallucination
-- Streaming UI
-source: https://github.com/xin-yi33/RxyCode
+deployment_complexity: "Medium"
+tags: ["AI Agent", "Plan-and-Execute", "Tool Orchestration", "Anti-Hallucination", "Streaming UI"]
+source: "https://github.com/xin-yi33/RxyCode"
 stars: 3
-language: Python
-last_updated: '2026-08-01T17:56:53Z'
-discovered_at: '2026-08-01T18:00:03Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T17:56:53Z"
+discovered_at: "2026-08-01T18:00:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

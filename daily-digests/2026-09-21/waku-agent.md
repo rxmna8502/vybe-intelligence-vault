@@ -1,34 +1,19 @@
 ---
-title: ShenSeanChen/waku-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- SQLite
-- FastAPI
-- Mermaid.js
-- Excalidraw
-- Telegram Bot API
-- LLM Providers (Anthropic, OpenAI, Gemini, etc.)
-- FTS5 (Full-Text Search)
-- Jinja2
-- Pydantic
+title: "ShenSeanChen/waku-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "SQLite", "FastAPI", "Mermaid.js", "Excalidraw", "Telegram Bot API", "LLM Providers (Anthropic, OpenAI, Gemini, etc.)", "FTS5 (Full-Text Search)", "Jinja2", "Pydantic"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- local-first
-- agent architecture
-- memory management
-- LLM operations
-- readable code
-source: https://github.com/ShenSeanChen/waku-agent
+deployment_complexity: "Low"
+tags: ["local-first", "agent architecture", "memory management", "LLM operations", "readable code"]
+source: "https://github.com/ShenSeanChen/waku-agent"
 stars: 802
-language: Python
-last_updated: '2026-08-03T10:42:28Z'
-discovered_at: '2026-08-03T10:43:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T10:42:28Z"
+discovered_at: "2026-08-03T10:43:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

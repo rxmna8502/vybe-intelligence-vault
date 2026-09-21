@@ -1,29 +1,19 @@
 ---
-title: Shortiaallurement927/ComfyUI-MiniMaxH3-Director
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- ComfyUI
-- MiniMax H3
-- DirectX 11
-- Electron (inferred)
+title: "Shortiaallurement927/ComfyUI-MiniMaxH3-Director"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "ComfyUI", "MiniMax H3", "DirectX 11", "Electron (inferred)"]
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- video generation
-- timeline editor
-- ComfyUI
-- MiniMax H3
-- storyboarding
-source: https://github.com/Shortiaallurement927/ComfyUI-MiniMaxH3-Director
+deployment_complexity: "Medium"
+tags: ["video generation", "timeline editor", "ComfyUI", "MiniMax H3", "storyboarding"]
+source: "https://github.com/Shortiaallurement927/ComfyUI-MiniMaxH3-Director"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T02:40:08Z'
-discovered_at: '2026-08-07T02:42:19Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T02:40:08Z"
+discovered_at: "2026-08-07T02:42:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

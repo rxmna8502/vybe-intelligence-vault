@@ -1,34 +1,19 @@
 ---
-title: jongan69/PrepAI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- React Native
-- Expo SDK 57
-- TypeScript
-- Rust
-- SQLite
-- ExecuTorch
-- HealthKit
-- Health Connect
-- NativeWind
-- Zustand
+title: "jongan69/PrepAI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["React Native", "Expo SDK 57", "TypeScript", "Rust", "SQLite", "ExecuTorch", "HealthKit", "Health Connect", "NativeWind", "Zustand"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: High
-tags:
-- health intelligence
-- on-device AI
-- privacy-first
-- clinical knowledge graph
-- personalized health
-source: https://github.com/jongan69/PrepAI
+deployment_complexity: "High"
+tags: ["health intelligence", "on-device AI", "privacy-first", "clinical knowledge graph", "personalized health"]
+source: "https://github.com/jongan69/PrepAI"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-06T15:09:30Z'
-discovered_at: '2026-08-06T15:18:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T15:09:30Z"
+discovered_at: "2026-08-06T15:18:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

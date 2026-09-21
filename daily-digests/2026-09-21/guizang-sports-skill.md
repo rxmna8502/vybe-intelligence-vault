@@ -1,32 +1,19 @@
 ---
-title: op7418/guizang-sports-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- Node.js
-- Three.js
-- FIT/KML file parsers
-- Claude Code
-- Codex
-- Chromium
-- npm
+title: "op7418/guizang-sports-skill"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "Three.js", "FIT/KML file parsers", "Claude Code", "Codex", "Chromium", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- sports analytics
-- FIT/KML parsing
-- 3D route visualization
-- local AI agent
-- data export
-source: https://github.com/op7418/guizang-sports-skill
+deployment_complexity: "Low"
+tags: ["sports analytics", "FIT/KML parsing", "3D route visualization", "local AI agent", "data export"]
+source: "https://github.com/op7418/guizang-sports-skill"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-09T13:49:22Z'
-discovered_at: '2026-08-09T13:53:51Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-09T13:49:22Z"
+discovered_at: "2026-08-09T13:53:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

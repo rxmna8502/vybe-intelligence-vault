@@ -1,30 +1,19 @@
 ---
-title: shuaige121/postledger
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- SQLite
-- Node.js
-- MCP (Model Context Protocol)
-- CLI
-- Unix tools
+title: "shuaige121/postledger"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "SQLite", "Node.js", "MCP (Model Context Protocol)", "CLI", "Unix tools"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- double-entry accounting
-- idempotent writes
-- tamper-evident ledger
-- SQLite-based
-- AI agent tooling
-source: https://github.com/shuaige121/postledger
+deployment_complexity: "Low"
+tags: ["double-entry accounting", "idempotent writes", "tamper-evident ledger", "SQLite-based", "AI agent tooling"]
+source: "https://github.com/shuaige121/postledger"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T01:21:33Z'
-discovered_at: '2026-08-08T01:26:15Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T01:21:33Z"
+discovered_at: "2026-08-08T01:26:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

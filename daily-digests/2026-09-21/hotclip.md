@@ -1,35 +1,19 @@
 ---
-title: xixihhhh/hotclip
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Electron
-- TypeScript
-- Python
-- FFmpeg
-- ASR (SenseVoice, Paraformer, FireRedASR2, ElevenLabs)
-- LLM (local and cloud-based)
-- ONNX Runtime
-- Pyannote (speaker diarization)
-- Libass (subtitle rendering)
-- Chromium (web-based subtitle rendering)
-- MCP Server (for agent integration)
+title: "xixihhhh/hotclip"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "TypeScript", "Python", "FFmpeg", "ASR (SenseVoice, Paraformer, FireRedASR2, ElevenLabs)", "LLM (local and cloud-based)", "ONNX Runtime", "Pyannote (speaker diarization)", "Libass (subtitle rendering)", "Chromium (web-based subtitle rendering)", "MCP Server (for agent integration)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI video clipping
-- local processing
-- auto-captioning
-- vertical video
-- open-source
-source: https://github.com/xixihhhh/hotclip
+deployment_complexity: "Medium"
+tags: ["AI video clipping", "local processing", "auto-captioning", "vertical video", "open-source"]
+source: "https://github.com/xixihhhh/hotclip"
 stars: 10
-language: TypeScript
-last_updated: '2026-07-11T07:49:42Z'
-discovered_at: '2026-07-11T07:52:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T07:49:42Z"
+discovered_at: "2026-07-11T07:52:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

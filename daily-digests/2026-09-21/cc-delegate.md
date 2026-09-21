@@ -1,30 +1,19 @@
 ---
-title: gugug168/cc-delegate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- WorkBuddy
-- Claude Code CLI
-- MCP (Model Context Protocol)
-- Bash scripting
-- Node.js (for MCP bridge)
+title: "gugug168/cc-delegate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "WorkBuddy", "Claude Code CLI", "MCP (Model Context Protocol)", "Bash scripting", "Node.js (for MCP bridge)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- task delegation
-- context preservation
-- long-running workflows
-- session management
-- Claude Code integration
-source: https://github.com/gugug168/cc-delegate
+deployment_complexity: "Medium"
+tags: ["task delegation", "context preservation", "long-running workflows", "session management", "Claude Code integration"]
+source: "https://github.com/gugug168/cc-delegate"
 stars: 0
-language: Python
-last_updated: '2026-07-12T14:53:10Z'
-discovered_at: '2026-07-12T14:54:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T14:53:10Z"
+discovered_at: "2026-07-12T14:54:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

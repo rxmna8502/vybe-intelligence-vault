@@ -1,34 +1,19 @@
 ---
-title: dennysjmarquez/MemoryBioRAG
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- NumPy
-- SQLite FTS5 WAL
-- NLTK WordNet
-- MCP Server
-- Sparse Distributed Memory (SDM)
-- Hebbian Retrofitting
-- Pointwise Mutual Information (PMI)
-- Jaccard Similarity
-- Deterministic Graph Learning
+title: "dennysjmarquez/MemoryBioRAG"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "NumPy", "SQLite FTS5 WAL", "NLTK WordNet", "MCP Server", "Sparse Distributed Memory (SDM)", "Hebbian Retrofitting", "Pointwise Mutual Information (PMI)", "Jaccard Similarity", "Deterministic Graph Learning"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- biomimetic memory
-- deterministic retrieval
-- neuro-symbolic AI
-- persistent agent memory
-- zero-embedding RAG
-source: https://github.com/dennysjmarquez/MemoryBioRAG
+deployment_complexity: "Medium"
+tags: ["biomimetic memory", "deterministic retrieval", "neuro-symbolic AI", "persistent agent memory", "zero-embedding RAG"]
+source: "https://github.com/dennysjmarquez/MemoryBioRAG"
 stars: 8
-language: Python
-last_updated: '2026-08-10T01:26:39Z'
-discovered_at: '2026-08-10T01:35:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T01:26:39Z"
+discovered_at: "2026-08-10T01:35:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: bhjia-phys/AITP-Research-Protocol
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Markdown
-- Git
-- CLI
-- Codex Plugin
-- Kimi Code Plugin
+title: "bhjia-phys/AITP-Research-Protocol"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Markdown", "Git", "CLI", "Codex Plugin", "Kimi Code Plugin"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- research protocol
-- provenance tracking
-- long-term memory
-- collaboration
-- theoretical physics
-source: https://github.com/bhjia-phys/AITP-Research-Protocol
+deployment_complexity: "Medium"
+tags: ["research protocol", "provenance tracking", "long-term memory", "collaboration", "theoretical physics"]
+source: "https://github.com/bhjia-phys/AITP-Research-Protocol"
 stars: 8
-language: Python
-last_updated: '2026-08-08T08:41:20Z'
-discovered_at: '2026-08-08T08:42:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T08:41:20Z"
+discovered_at: "2026-08-08T08:42:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

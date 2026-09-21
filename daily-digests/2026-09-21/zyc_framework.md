@@ -1,32 +1,19 @@
 ---
-title: ZiYuCai1984/ZYC.Framework
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- .NET 10
-- WPF
-- Blazor
-- WebView2
-- .NET Aspire
-- C#
-- Modular Monolith
-- NuGet
+title: "ZiYuCai1984/ZYC.Framework"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: [".NET 10", "WPF", "Blazor", "WebView2", ".NET Aspire", "C#", "Modular Monolith", "NuGet"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- desktop automation
-- modular framework
-- hybrid UI
-- WPF
-- cloud-native
-source: https://github.com/ZiYuCai1984/ZYC.Framework
+deployment_complexity: "Medium"
+tags: ["desktop automation", "modular framework", "hybrid UI", "WPF", "cloud-native"]
+source: "https://github.com/ZiYuCai1984/ZYC.Framework"
 stars: 8
-language: C#
-last_updated: '2026-08-02T02:12:53Z'
-discovered_at: '2026-08-02T02:35:05Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-02T02:12:53Z"
+discovered_at: "2026-08-02T02:35:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

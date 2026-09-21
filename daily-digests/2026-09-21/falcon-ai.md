@@ -1,37 +1,19 @@
 ---
-title: madhav-sharma0201/falcon-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- React 19
-- Node.js
-- Express 5
-- LangGraph
-- LangChain
-- MongoDB
-- Redis
-- Qdrant
-- AWS S3
-- Firebase Auth
-- Tailwind CSS 4
-- Razorpay
-- Docker
+title: "madhav-sharma0201/falcon-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["React 19", "Node.js", "Express 5", "LangGraph", "LangChain", "MongoDB", "Redis", "Qdrant", "AWS S3", "Firebase Auth", "Tailwind CSS 4", "Razorpay", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- multi-agent systems
-- LangGraph
-- RAG
-- microservices
-- metered billing
-source: https://github.com/madhav-sharma0201/falcon-ai
+deployment_complexity: "High"
+tags: ["multi-agent systems", "LangGraph", "RAG", "microservices", "metered billing"]
+source: "https://github.com/madhav-sharma0201/falcon-ai"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T18:29:54Z'
-discovered_at: '2026-08-07T18:58:31Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T18:29:54Z"
+discovered_at: "2026-08-07T18:58:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

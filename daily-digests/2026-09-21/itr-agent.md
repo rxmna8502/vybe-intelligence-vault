@@ -1,32 +1,19 @@
 ---
-title: Sagargupta16/itr-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Zod (schema validation)
-- Jest (testing)
-- JSON (rule packs)
-- AES-256-CBC (AIS decryption)
-- PBKDF2 (password hashing)
+title: "Sagargupta16/itr-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod (schema validation)", "Jest (testing)", "JSON (rule packs)", "AES-256-CBC (AIS decryption)", "PBKDF2 (password hashing)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Indian tax filing
-- local-first
-- deterministic computation
-- MCP server
-- document reconciliation
-source: https://github.com/Sagargupta16/itr-agent
+deployment_complexity: "Low"
+tags: ["Indian tax filing", "local-first", "deterministic computation", "MCP server", "document reconciliation"]
+source: "https://github.com/Sagargupta16/itr-agent"
 stars: 8
-language: TypeScript
-last_updated: '2026-09-03T08:23:01Z'
-discovered_at: '2026-09-03T08:39:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T08:23:01Z"
+discovered_at: "2026-09-03T08:39:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

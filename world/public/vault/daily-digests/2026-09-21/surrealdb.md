@@ -1,29 +1,19 @@
 ---
-title: api-evangelist/surrealdb
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- SurrealDB
-- HTTP REST API
-- SurrealQL
-- Model Context Protocol (MCP)
-- ACID Transactions
+title: "api-evangelist/surrealdb"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["SurrealDB", "HTTP REST API", "SurrealQL", "Model Context Protocol (MCP)", "ACID Transactions"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-model database
-- vector database
-- graph database
-- document database
-- AI integration
-source: https://github.com/api-evangelist/surrealdb
+deployment_complexity: "Medium"
+tags: ["multi-model database", "vector database", "graph database", "document database", "AI integration"]
+source: "https://github.com/api-evangelist/surrealdb"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:48:02Z'
-discovered_at: '2026-08-08T03:29:47Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:48:02Z"
+discovered_at: "2026-08-08T03:29:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

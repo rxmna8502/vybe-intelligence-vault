@@ -1,34 +1,19 @@
 ---
-title: ProblemFactory/vibespace
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- Node.js
-- React
-- xterm.js
-- dtach
-- CodeMirror
-- WebSocket
-- Docker
-- CSS
-- HTML
+title: "ProblemFactory/vibespace"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["JavaScript", "Node.js", "React", "xterm.js", "dtach", "CodeMirror", "WebSocket", "Docker", "CSS", "HTML"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agents
-- multi-session workspace
-- terminal UI
-- chat interface
-- backend-agnostic
-source: https://github.com/ProblemFactory/vibespace
+deployment_complexity: "Medium"
+tags: ["coding agents", "multi-session workspace", "terminal UI", "chat interface", "backend-agnostic"]
+source: "https://github.com/ProblemFactory/vibespace"
 stars: 5
-language: JavaScript
-last_updated: '2026-09-03T08:27:30Z'
-discovered_at: '2026-09-03T08:34:16Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-03T08:27:30Z"
+discovered_at: "2026-09-03T08:34:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

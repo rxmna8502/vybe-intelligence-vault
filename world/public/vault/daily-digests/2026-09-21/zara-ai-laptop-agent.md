@@ -1,34 +1,19 @@
 ---
-title: tanzeeldevAi/zara-ai-laptop-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- Discord API
-- Claude AI SDK
-- PowerShell
-- Edge-TTS
-- Faster-Whisper
-- Groq API
-- ElevenLabs API
-- Windows Automation
-- MCP Server
+title: "tanzeeldevAi/zara-ai-laptop-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Discord API", "Claude AI SDK", "PowerShell", "Edge-TTS", "Faster-Whisper", "Groq API", "ElevenLabs API", "Windows Automation", "MCP Server"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- remote PC control
-- Discord bot
-- AI agent
-- voice assistant
-- Windows automation
-source: https://github.com/tanzeeldevAi/zara-ai-laptop-agent
+deployment_complexity: "Medium"
+tags: ["remote PC control", "Discord bot", "AI agent", "voice assistant", "Windows automation"]
+source: "https://github.com/tanzeeldevAi/zara-ai-laptop-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-08T12:38:16Z'
-discovered_at: '2026-08-08T12:47:14Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T12:38:16Z"
+discovered_at: "2026-08-08T12:47:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: victoriacheng15/echo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- SQLite
-- FTS5
-- DuckDB
-- Model Context Protocol (MCP)
-- JSON-RPC
-- CLI
-- GitHub Actions
+title: "victoriacheng15/echo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "SQLite", "FTS5", "DuckDB", "Model Context Protocol (MCP)", "JSON-RPC", "CLI", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- persistent memory
-- MCP server
-- local AI
-- memory governance
-- search indexing
-source: https://github.com/victoriacheng15/echo
+deployment_complexity: "Medium"
+tags: ["persistent memory", "MCP server", "local AI", "memory governance", "search indexing"]
+source: "https://github.com/victoriacheng15/echo"
 stars: 1
-language: Go
-last_updated: '2026-07-10T16:22:43Z'
-discovered_at: '2026-07-10T16:24:18Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-10T16:22:43Z"
+discovered_at: "2026-07-10T16:24:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

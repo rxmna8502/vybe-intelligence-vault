@@ -1,29 +1,19 @@
 ---
-title: agentic-build-lab/evidencegraph-datahub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- DataHub
-- Graph Database
-- Validation Framework
-- Autonomous Systems
-- Data Migration Tools
+title: "agentic-build-lab/evidencegraph-datahub"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["DataHub", "Graph Database", "Validation Framework", "Autonomous Systems", "Data Migration Tools"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- data integrity
-- autonomous validation
-- migration assurance
-- blast radius control
-- deterministic systems
-source: https://github.com/agentic-build-lab/evidencegraph-datahub
+deployment_complexity: "Medium"
+tags: ["data integrity", "autonomous validation", "migration assurance", "blast radius control", "deterministic systems"]
+source: "https://github.com/agentic-build-lab/evidencegraph-datahub"
 stars: 0
-language: None
-last_updated: '2026-08-04T04:13:35Z'
-discovered_at: '2026-08-04T04:14:25Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-04T04:13:35Z"
+discovered_at: "2026-08-04T04:14:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: navidmoazzez/apple-photos-mcp-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Python
-- Node.js
-- MCP (Model Context Protocol)
-- osxphotos
-- photoscript
-- uv (Python package manager)
+title: "navidmoazzez/apple-photos-mcp-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Python", "Node.js", "MCP (Model Context Protocol)", "osxphotos", "photoscript", "uv (Python package manager)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Apple Photos
-- MCP server
-- CLI tool
-- local AI access
-- photo metadata
-source: https://github.com/navidmoazzez/apple-photos-mcp-cli
+deployment_complexity: "Medium"
+tags: ["Apple Photos", "MCP server", "CLI tool", "local AI access", "photo metadata"]
+source: "https://github.com/navidmoazzez/apple-photos-mcp-cli"
 stars: 0
-language: Python
-last_updated: '2026-09-02T22:04:01Z'
-discovered_at: '2026-09-02T22:22:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:04:01Z"
+discovered_at: "2026-09-02T22:22:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

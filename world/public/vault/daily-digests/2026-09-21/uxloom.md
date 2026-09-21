@@ -1,31 +1,19 @@
 ---
-title: uxloom-dev/uxloom
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- State Machines
-- WCAG
-- Jest
-- CLI Tools
+title: "uxloom-dev/uxloom"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "State Machines", "WCAG", "Jest", "CLI Tools"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- UI/UX validation
-- state machine modeling
-- accessibility checks
-- deterministic validation
-- agent-native tools
-source: https://github.com/uxloom-dev/uxloom
+deployment_complexity: "Medium"
+tags: ["UI/UX validation", "state machine modeling", "accessibility checks", "deterministic validation", "agent-native tools"]
+source: "https://github.com/uxloom-dev/uxloom"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-18T09:16:38Z'
-discovered_at: '2026-07-18T09:24:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T09:16:38Z"
+discovered_at: "2026-07-18T09:24:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,38 +1,19 @@
 ---
-title: open-metadata/OpenMetadata
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Python
-- React
-- Apache Airflow
-- Elasticsearch
-- PostgreSQL
-- GraphQL
-- Docker
-- Kubernetes
-- OpenLineage
-- MCP (Model Context Protocol)
-- Semantic Search
-- REST APIs
-- Webhooks
+title: "open-metadata/OpenMetadata"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["TypeScript", "Python", "React", "Apache Airflow", "Elasticsearch", "PostgreSQL", "GraphQL", "Docker", "Kubernetes", "OpenLineage", "MCP (Model Context Protocol)", "Semantic Search", "REST APIs", "Webhooks"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- metadata management
-- data catalog
-- AI context layer
-- knowledge graph
-- data governance
-source: https://github.com/open-metadata/OpenMetadata
+deployment_complexity: "High"
+tags: ["metadata management", "data catalog", "AI context layer", "knowledge graph", "data governance"]
+source: "https://github.com/open-metadata/OpenMetadata"
 stars: 15059
-language: TypeScript
-last_updated: '2026-09-02T01:59:32Z'
-discovered_at: '2026-09-02T02:14:21Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T01:59:32Z"
+discovered_at: "2026-09-02T02:14:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: Fronesis-Labs/dcl-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- MCP (Model Compliance Protocol)
-- x402 (Compliance Audit Protocol)
-- ClawHub (Platform Integration)
+title: "Fronesis-Labs/dcl-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Compliance Protocol)", "x402 (Compliance Audit Protocol)", "ClawHub (Platform Integration)"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent security
-- compliance enforcement
-- prompt injection defense
-- PII redaction
-- DeFi safety
-source: https://github.com/Fronesis-Labs/dcl-skills
+deployment_complexity: "Medium"
+tags: ["AI agent security", "compliance enforcement", "prompt injection defense", "PII redaction", "DeFi safety"]
+source: "https://github.com/Fronesis-Labs/dcl-skills"
 stars: 0
-language: None
-last_updated: '2026-08-01T05:59:14Z'
-discovered_at: '2026-08-01T06:29:22Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-01T05:59:14Z"
+discovered_at: "2026-08-01T06:29:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

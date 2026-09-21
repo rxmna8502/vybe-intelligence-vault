@@ -1,39 +1,19 @@
 ---
-title: qinshihu/itops-agent-platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- Docker
-- DDD (Domain-Driven Design)
-- 4A Architecture
-- AI Agents
-- Prometheus
-- Zabbix
-- WebSocket
-- SNMP
-- LLDP
-- Kubernetes
-- Harbor
-- PostgreSQL
+title: "qinshihu/itops-agent-platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "React", "Node.js", "Docker", "DDD (Domain-Driven Design)", "4A Architecture", "AI Agents", "Prometheus", "Zabbix", "WebSocket", "SNMP", "LLDP", "Kubernetes", "Harbor", "PostgreSQL"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AIOps
-- IT Automation
-- Multi-Agent Systems
-- Alert Remediation
-- Open-Source Enterprise
-source: https://github.com/qinshihu/itops-agent-platform
+deployment_complexity: "Medium"
+tags: ["AIOps", "IT Automation", "Multi-Agent Systems", "Alert Remediation", "Open-Source Enterprise"]
+source: "https://github.com/qinshihu/itops-agent-platform"
 stars: 829
-language: TypeScript
-last_updated: '2026-08-03T01:31:17Z'
-discovered_at: '2026-08-03T02:54:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T01:31:17Z"
+discovered_at: "2026-08-03T02:54:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

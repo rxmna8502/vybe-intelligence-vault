@@ -1,26 +1,19 @@
 ---
-title: Zekiog/hermes-legal
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- HTML
-- GitHub Pages
+title: "Zekiog/hermes-legal"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "GitHub Pages"]
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- legal pages
-- static hosting
-- compliance
-- GitHub Pages
-- AI agent
-source: https://github.com/Zekiog/hermes-legal
+deployment_complexity: "Low"
+tags: ["legal pages", "static hosting", "compliance", "GitHub Pages", "AI agent"]
+source: "https://github.com/Zekiog/hermes-legal"
 stars: 1
-language: HTML
-last_updated: '2026-09-01T02:40:43Z'
-discovered_at: '2026-09-01T02:51:53Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-01T02:40:43Z"
+discovered_at: "2026-09-01T02:51:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

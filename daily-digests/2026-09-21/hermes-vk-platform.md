@@ -1,29 +1,19 @@
 ---
-title: web3blind/hermes-vk-platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- VK API
-- Hermes Agent
-- Long Poll API
-- REST HTTP calls
+title: "web3blind/hermes-vk-platform"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "VK API", "Hermes Agent", "Long Poll API", "REST HTTP calls"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- VK Messenger
-- Hermes Agent
-- Bot Platform
-- Long Poll
-- Media Handling
-source: https://github.com/web3blind/hermes-vk-platform
+deployment_complexity: "Medium"
+tags: ["VK Messenger", "Hermes Agent", "Bot Platform", "Long Poll", "Media Handling"]
+source: "https://github.com/web3blind/hermes-vk-platform"
 stars: 0
-language: Python
-last_updated: '2026-07-15T18:05:30Z'
-discovered_at: '2026-07-15T18:06:03Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T18:05:30Z"
+discovered_at: "2026-07-15T18:06:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

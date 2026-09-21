@@ -1,30 +1,19 @@
 ---
-title: LuciferForge/mcp-directory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- GitHub API
-- SQLite
-- HTML/CSS
-- JavaScript
-- GitHub Pages
+title: "LuciferForge/mcp-directory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "GitHub API", "SQLite", "HTML/CSS", "JavaScript", "GitHub Pages"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP
-- Model Context Protocol
-- Server Index
-- AI Tools
-- GitHub Scraper
-source: https://github.com/LuciferForge/mcp-directory
+deployment_complexity: "Medium"
+tags: ["MCP", "Model Context Protocol", "Server Index", "AI Tools", "GitHub Scraper"]
+source: "https://github.com/LuciferForge/mcp-directory"
 stars: 2
-language: Python
-last_updated: '2026-07-13T13:21:55Z'
-discovered_at: '2026-07-13T13:22:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T13:21:55Z"
+discovered_at: "2026-07-13T13:22:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

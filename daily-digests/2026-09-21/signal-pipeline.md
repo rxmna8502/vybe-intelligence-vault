@@ -1,36 +1,19 @@
 ---
-title: yodablocks/signal-pipeline
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- ClickHouse
-- SQLite
-- Dune Analytics
-- Twitter/X API
-- Polymarket
-- Deribit Options Flow
-- Hyperliquid
-- Lighter (Robinhood Chain)
-- Median Absolute Deviation (MAD)
-- CLI
-- dotenv
+title: "yodablocks/signal-pipeline"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "ClickHouse", "SQLite", "Dune Analytics", "Twitter/X API", "Polymarket", "Deribit Options Flow", "Hyperliquid", "Lighter (Robinhood Chain)", "Median Absolute Deviation (MAD)", "CLI", "dotenv"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- crypto signals
-- AI agent pipeline
-- trust tier model
-- anomaly detection
-- directional scoring
-source: https://github.com/yodablocks/signal-pipeline
+deployment_complexity: "Medium"
+tags: ["crypto signals", "AI agent pipeline", "trust tier model", "anomaly detection", "directional scoring"]
+source: "https://github.com/yodablocks/signal-pipeline"
 stars: 0
-language: Python
-last_updated: '2026-07-11T13:11:36Z'
-discovered_at: '2026-07-11T13:14:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T13:11:36Z"
+discovered_at: "2026-07-11T13:14:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: Rajnandini6004/Deja
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Windows
-- DjVu file format
-- C++/Rust (implied by performance claims)
-- Windows API
+title: "Rajnandini6004/Deja"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows", "DjVu file format", "C++/Rust (implied by performance claims)", "Windows API"]
 quality_score: 6
 rag_relevance: 3
-deployment_complexity: Low
-tags:
-- document viewer
-- DjVu format
-- Windows utility
-- local processing
-- scanned documents
-source: https://github.com/Rajnandini6004/Deja
+deployment_complexity: "Low"
+tags: ["document viewer", "DjVu format", "Windows utility", "local processing", "scanned documents"]
+source: "https://github.com/Rajnandini6004/Deja"
 stars: 0
-language: None
-last_updated: '2026-08-06T06:27:45Z'
-discovered_at: '2026-08-06T06:34:01Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T06:27:45Z"
+discovered_at: "2026-08-06T06:34:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

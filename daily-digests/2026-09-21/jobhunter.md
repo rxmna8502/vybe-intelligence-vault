@@ -1,33 +1,19 @@
 ---
-title: dev-gaspar/jobhunter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Playwright
-- Gemini API
-- ReportLab
-- SMTP (Gmail)
-- Rich (CLI)
-- Requests
-- JSON
-- Regex
+title: "dev-gaspar/jobhunter"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "Gemini API", "ReportLab", "SMTP (Gmail)", "Rich (CLI)", "Requests", "JSON", "Regex"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- job search automation
-- AI resume generation
-- LinkedIn scraping
-- email automation
-- multi-agent system
-source: https://github.com/dev-gaspar/jobhunter
+deployment_complexity: "Medium"
+tags: ["job search automation", "AI resume generation", "LinkedIn scraping", "email automation", "multi-agent system"]
+source: "https://github.com/dev-gaspar/jobhunter"
 stars: 13
-language: Python
-last_updated: '2026-08-05T18:19:19Z'
-discovered_at: '2026-08-05T18:24:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T18:19:19Z"
+discovered_at: "2026-08-05T18:24:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

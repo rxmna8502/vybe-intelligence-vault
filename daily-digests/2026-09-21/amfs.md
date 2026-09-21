@@ -1,34 +1,19 @@
 ---
-title: raia-live/amfs
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- TypeScript
-- PostgreSQL
-- S3
-- Docker
-- MCP (Model Context Protocol)
-- REST APIs
-- Hybrid Search (full-text + semantic)
-- Knowledge Graph
-- Git-like Versioning
+title: "raia-live/amfs"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "TypeScript", "PostgreSQL", "S3", "Docker", "MCP (Model Context Protocol)", "REST APIs", "Hybrid Search (full-text + semantic)", "Knowledge Graph", "Git-like Versioning"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- shared memory
-- version control
-- confidence scoring
-- continual learning
-source: https://github.com/raia-live/amfs
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "shared memory", "version control", "confidence scoring", "continual learning"]
+source: "https://github.com/raia-live/amfs"
 stars: 58
-language: Python
-last_updated: '2026-07-19T22:44:58Z'
-discovered_at: '2026-07-19T22:50:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T22:44:58Z"
+discovered_at: "2026-07-19T22:50:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

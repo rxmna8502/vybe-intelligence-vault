@@ -1,29 +1,19 @@
 ---
-title: Marionviceregal8571/Solana-Token-Sniper-Anti-Rug
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Solana Blockchain
-- Windows Desktop Application
-- Phantom/Solflare Wallet Integration
-- Raydium API
-- Jupiter API
+title: "Marionviceregal8571/Solana-Token-Sniper-Anti-Rug"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Solana Blockchain", "Windows Desktop Application", "Phantom/Solflare Wallet Integration", "Raydium API", "Jupiter API"]
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: Low
-tags:
-- Solana
-- Sniper Bot
-- Anti-Rug
-- Raydium
-- Jupiter
-source: https://github.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug
+deployment_complexity: "Low"
+tags: ["Solana", "Sniper Bot", "Anti-Rug", "Raydium", "Jupiter"]
+source: "https://github.com/Marionviceregal8571/Solana-Token-Sniper-Anti-Rug"
 stars: 0
-language: None
-last_updated: '2026-09-01T22:15:49Z'
-discovered_at: '2026-09-01T22:17:39Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-01T22:15:49Z"
+discovered_at: "2026-09-01T22:17:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: CorpusIQ/corpusiq-docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Model Context Protocol (MCP)
-- OAuth
-- REST API
-- Streamable HTTP
-- JavaScript/TypeScript (implied by MCP)
-- Documentation (Markdown, HTML)
+title: "CorpusIQ/corpusiq-docs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "OAuth", "REST API", "Streamable HTTP", "JavaScript/TypeScript (implied by MCP)", "Documentation (Markdown, HTML)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP
-- data connectors
-- business intelligence
-- AI assistants
-- live data
-source: https://github.com/CorpusIQ/corpusiq-docs
+deployment_complexity: "Medium"
+tags: ["MCP", "data connectors", "business intelligence", "AI assistants", "live data"]
+source: "https://github.com/CorpusIQ/corpusiq-docs"
 stars: 18
-language: HTML
-last_updated: '2026-09-02T08:11:06Z'
-discovered_at: '2026-09-02T08:23:35Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-02T08:11:06Z"
+discovered_at: "2026-09-02T08:23:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

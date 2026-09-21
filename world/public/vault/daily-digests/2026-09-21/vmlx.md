@@ -1,34 +1,19 @@
 ---
-title: jjang-ai/vmlx
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Python
-- MLX
-- PyTorch
-- Metal
-- Electron
-- FastAPI
-- HuggingFace Transformers
-- JANG Quantization
-- OpenAI SDK
-- Anthropic SDK
+title: "jjang-ai/vmlx"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MLX", "PyTorch", "Metal", "Electron", "FastAPI", "HuggingFace Transformers", "JANG Quantization", "OpenAI SDK", "Anthropic SDK"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Apple Silicon
-- MLX
-- Self-hosted LLM
-- Quantization
-- Distributed Inference
-source: https://github.com/jjang-ai/vmlx
+deployment_complexity: "Medium"
+tags: ["Apple Silicon", "MLX", "Self-hosted LLM", "Quantization", "Distributed Inference"]
+source: "https://github.com/jjang-ai/vmlx"
 stars: 835
-language: Python
-last_updated: '2026-09-01T08:57:59Z'
-discovered_at: '2026-09-01T09:12:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T08:57:59Z"
+discovered_at: "2026-09-01T09:12:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

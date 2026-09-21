@@ -1,34 +1,19 @@
 ---
-title: ishandutta2007/notebooklm-api
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- FastAPI
-- Click
-- FastMCP
-- Asyncio
-- gRPC
-- Protobuf
-- REST API
-- CLI
-- MCP (Model Context Protocol)
+title: "ishandutta2007/notebooklm-api"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Click", "FastMCP", "Asyncio", "gRPC", "Protobuf", "REST API", "CLI", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Google NotebookLM
-- Gemini Notebook
-- Agentic RAG
-- Content Generation
-- MCP Server
-source: https://github.com/ishandutta2007/notebooklm-api
+deployment_complexity: "Medium"
+tags: ["Google NotebookLM", "Gemini Notebook", "Agentic RAG", "Content Generation", "MCP Server"]
+source: "https://github.com/ishandutta2007/notebooklm-api"
 stars: 2
-language: Python
-last_updated: '2026-09-04T02:02:16Z'
-discovered_at: '2026-09-04T02:18:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-04T02:02:16Z"
+discovered_at: "2026-09-04T02:18:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

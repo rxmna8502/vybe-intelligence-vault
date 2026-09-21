@@ -1,29 +1,19 @@
 ---
-title: vishalvermauts/AI-IDE-Project-Memory-System
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Markdown
-- JSON
-- Git
-- IDE Integration
-- Agentic Workflows
+title: "vishalvermauts/AI-IDE-Project-Memory-System"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "JSON", "Git", "IDE Integration", "Agentic Workflows"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- workspace memory
-- session continuity
-- token efficiency
-- AI IDE integration
-- context handoff
-source: https://github.com/vishalvermauts/AI-IDE-Project-Memory-System
+deployment_complexity: "Low"
+tags: ["workspace memory", "session continuity", "token efficiency", "AI IDE integration", "context handoff"]
+source: "https://github.com/vishalvermauts/AI-IDE-Project-Memory-System"
 stars: 0
-language: None
-last_updated: '2026-07-13T18:42:19Z'
-discovered_at: '2026-07-13T18:43:03Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-13T18:42:19Z"
+discovered_at: "2026-07-13T18:43:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

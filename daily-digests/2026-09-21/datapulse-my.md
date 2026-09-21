@@ -1,31 +1,19 @@
 ---
-title: r3dz4r/datapulse-my
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JSON
-- Shell
-- HTTP/HTTPS
-- RSS
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- Schema Validation
+title: "r3dz4r/datapulse-my"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JSON", "Shell", "HTTP/HTTPS", "RSS", "MCP (Model Context Protocol)", "Streamable HTTP", "Schema Validation"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- Malaysian public data
-- dataset freshness monitoring
-- AI-agent-ready
-- trust layer
-- open data
-source: https://github.com/r3dz4r/datapulse-my
+deployment_complexity: "Low"
+tags: ["Malaysian public data", "dataset freshness monitoring", "AI-agent-ready", "trust layer", "open data"]
+source: "https://github.com/r3dz4r/datapulse-my"
 stars: 0
-language: Shell
-last_updated: '2026-08-04T17:47:24Z'
-discovered_at: '2026-08-04T17:49:54Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-04T17:47:24Z"
+discovered_at: "2026-08-04T17:49:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

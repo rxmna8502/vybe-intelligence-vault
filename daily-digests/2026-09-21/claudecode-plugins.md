@@ -1,29 +1,19 @@
 ---
-title: mironmax/claudecode-plugins
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Knowledge Graph
-- Claude Code
-- MCP (Model Context Protocol)
-- Graph Database (embedded)
+title: "mironmax/claudecode-plugins"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Knowledge Graph", "Claude Code", "MCP (Model Context Protocol)", "Graph Database (embedded)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- persistent memory
-- knowledge graph
-- context retention
-- Claude Code plugin
-- RAG optimization
-source: https://github.com/mironmax/claudecode-plugins
+deployment_complexity: "Low"
+tags: ["persistent memory", "knowledge graph", "context retention", "Claude Code plugin", "RAG optimization"]
+source: "https://github.com/mironmax/claudecode-plugins"
 stars: 3
-language: Python
-last_updated: '2026-07-20T09:57:08Z'
-discovered_at: '2026-07-20T09:59:35Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T09:57:08Z"
+discovered_at: "2026-07-20T09:59:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

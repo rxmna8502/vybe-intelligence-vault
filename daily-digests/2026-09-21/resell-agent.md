@@ -1,34 +1,19 @@
 ---
-title: wuisabel-gif/resell-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Node.js
-- Anthropic API (Claude Vision)
-- eBay API
-- U²-Net (background removal)
-- Sharp (image processing)
-- Poshmark API (unofficial scraping)
-- ThredUp API (unofficial scraping)
-- The RealReal API (unofficial scraping)
-- Mercari API (unofficial scraping)
+title: "wuisabel-gif/resell-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Anthropic API (Claude Vision)", "eBay API", "U\u00b2-Net (background removal)", "Sharp (image processing)", "Poshmark API (unofficial scraping)", "ThredUp API (unofficial scraping)", "The RealReal API (unofficial scraping)", "Mercari API (unofficial scraping)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- resale automation
-- eBay listing generation
-- market pricing
-- garment identification
-- image processing
-source: https://github.com/wuisabel-gif/resell-agent
+deployment_complexity: "Medium"
+tags: ["resale automation", "eBay listing generation", "market pricing", "garment identification", "image processing"]
+source: "https://github.com/wuisabel-gif/resell-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T04:12:22Z'
-discovered_at: '2026-08-04T04:14:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T04:12:22Z"
+discovered_at: "2026-08-04T04:14:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

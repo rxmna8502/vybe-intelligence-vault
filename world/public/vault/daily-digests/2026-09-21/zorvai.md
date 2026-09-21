@@ -1,37 +1,19 @@
 ---
-title: Quor-a/ZorvAI
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Kotlin
-- Jetpack Compose
-- Android SDK
-- GeckoView
-- Node.js
-- Python
-- Java
-- Rust
-- Go
-- ACI (Agent Capability Interface)
-- SQLite
-- Sherpa-ONNX (STT/TTS)
-- Mermaid.js (for diagrams)
+title: "Quor-a/ZorvAI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Kotlin", "Jetpack Compose", "Android SDK", "GeckoView", "Node.js", "Python", "Java", "Rust", "Go", "ACI (Agent Capability Interface)", "SQLite", "Sherpa-ONNX (STT/TTS)", "Mermaid.js (for diagrams)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- Android AI Agent
-- On-device LLM
-- Local AI
-- ACI Framework
-- Multi-modal Agent
-source: https://github.com/Quor-a/ZorvAI
+deployment_complexity: "High"
+tags: ["Android AI Agent", "On-device LLM", "Local AI", "ACI Framework", "Multi-modal Agent"]
+source: "https://github.com/Quor-a/ZorvAI"
 stars: 6
-language: Kotlin
-last_updated: '2026-08-02T17:55:53Z'
-discovered_at: '2026-08-02T18:02:27Z'
-evaluated_by: mistral-small-latest
+language: "Kotlin"
+last_updated: "2026-08-02T17:55:53Z"
+discovered_at: "2026-08-02T18:02:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

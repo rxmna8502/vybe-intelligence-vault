@@ -1,29 +1,19 @@
 ---
-title: shigechika/aruba-central-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- MCP SDK
-- OAuth2 Client Credentials
-- HTTPX
-- Aruba Central API
+title: "shigechika/aruba-central-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP SDK", "OAuth2 Client Credentials", "HTTPX", "Aruba Central API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Network Monitoring
-- Aruba Central
-- OAuth2
-- STDIO Transport
-source: https://github.com/shigechika/aruba-central-mcp
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Network Monitoring", "Aruba Central", "OAuth2", "STDIO Transport"]
+source: "https://github.com/shigechika/aruba-central-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-08T11:25:21Z'
-discovered_at: '2026-08-08T11:30:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T11:25:21Z"
+discovered_at: "2026-08-08T11:30:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

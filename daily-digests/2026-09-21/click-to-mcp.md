@@ -1,30 +1,19 @@
 ---
-title: Coding-Dev-Tools/click-to-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- Click
-- Typer
-- MCP (Model Context Protocol)
-- FastAPI
-- SSE (Server-Sent Events)
+title: "Coding-Dev-Tools/click-to-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Click", "Typer", "MCP (Model Context Protocol)", "FastAPI", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- MCP server
-- CLI automation
-- AI agent integration
-- Python tooling
-- Model Context Protocol
-source: https://github.com/Coding-Dev-Tools/click-to-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "CLI automation", "AI agent integration", "Python tooling", "Model Context Protocol"]
+source: "https://github.com/Coding-Dev-Tools/click-to-mcp"
 stars: 4
-language: Python
-last_updated: '2026-07-14T23:44:01Z'
-discovered_at: '2026-07-14T23:53:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T23:44:01Z"
+discovered_at: "2026-07-14T23:53:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

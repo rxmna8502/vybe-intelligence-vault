@@ -1,32 +1,19 @@
 ---
-title: Classevelabs/rai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Rust
-- AVX2
-- FMA
-- F16C
-- Cargo
-- HTTP
-- MCP (Model Context Protocol)
-- REST API
+title: "Classevelabs/rai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "AVX2", "FMA", "F16C", "Cargo", "HTTP", "MCP (Model Context Protocol)", "REST API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- CPU-only inference
-- 4-bit quantization
-- AVX2 optimization
-- speculative decoding
-- local serving
-source: https://github.com/Classevelabs/rai
+deployment_complexity: "Medium"
+tags: ["CPU-only inference", "4-bit quantization", "AVX2 optimization", "speculative decoding", "local serving"]
+source: "https://github.com/Classevelabs/rai"
 stars: 3
-language: Rust
-last_updated: '2026-08-09T14:31:10Z'
-discovered_at: '2026-08-09T14:37:51Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-09T14:31:10Z"
+discovered_at: "2026-08-09T14:37:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

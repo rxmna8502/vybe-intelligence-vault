@@ -1,29 +1,19 @@
 ---
-title: robort-gabriel/link-building-outreach-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Zo Computer
-- Claude AI
-- AI Agents
-- Web Search
-- Automation Workflows
+title: "robort-gabriel/link-building-outreach-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Zo Computer", "Claude AI", "AI Agents", "Web Search", "Automation Workflows"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- link-building
-- outreach automation
-- AI agents
-- prospect discovery
-- email drafting
-source: https://github.com/robort-gabriel/link-building-outreach-agent
+deployment_complexity: "Medium"
+tags: ["link-building", "outreach automation", "AI agents", "prospect discovery", "email drafting"]
+source: "https://github.com/robort-gabriel/link-building-outreach-agent"
 stars: 0
-language: None
-last_updated: '2026-07-19T22:36:51Z'
-discovered_at: '2026-07-19T22:50:37Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-19T22:36:51Z"
+discovered_at: "2026-07-19T22:50:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

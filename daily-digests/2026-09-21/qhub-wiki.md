@@ -1,31 +1,19 @@
 ---
-title: intelliconnect/QHub-Wiki
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- WikiJS
-- Qdrant
-- Python
-- Ansible
-- NGINX
-- Docker
-- LLM APIs (Claude, OpenAI, GROQ)
+title: "intelliconnect/QHub-Wiki"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["WikiJS", "Qdrant", "Python", "Ansible", "NGINX", "Docker", "LLM APIs (Claude, OpenAI, GROQ)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- self-hosted
-- knowledge base
-- vector search
-- AI-powered
-- SMB
-source: https://github.com/intelliconnect/QHub-Wiki
+deployment_complexity: "Medium"
+tags: ["self-hosted", "knowledge base", "vector search", "AI-powered", "SMB"]
+source: "https://github.com/intelliconnect/QHub-Wiki"
 stars: 14
-language: Python
-last_updated: '2026-08-05T07:45:59Z'
-discovered_at: '2026-09-03T02:24:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T07:45:59Z"
+discovered_at: "2026-09-03T02:24:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

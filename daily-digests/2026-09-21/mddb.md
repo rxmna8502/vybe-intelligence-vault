@@ -1,38 +1,19 @@
 ---
-title: tradik/mddb
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Go
-- BoltDB
-- gRPC
-- GraphQL
-- HTTP/3
-- Docker
-- MCP (Model Context Protocol)
-- Vector Search
-- Full-Text Search
-- Geo Search
-- Embedding Providers (OpenAI, Ollama, Voyage, Cohere)
-- React
-- WebSockets
-- TLS
+title: "tradik/mddb"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Go", "BoltDB", "gRPC", "GraphQL", "HTTP/3", "Docker", "MCP (Model Context Protocol)", "Vector Search", "Full-Text Search", "Geo Search", "Embedding Providers (OpenAI, Ollama, Voyage, Cohere)", "React", "WebSockets", "TLS"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- document database
-- RAG
-- vector search
-- MCP server
-- AI-native
-source: https://github.com/tradik/mddb
+deployment_complexity: "Medium"
+tags: ["document database", "RAG", "vector search", "MCP server", "AI-native"]
+source: "https://github.com/tradik/mddb"
 stars: 3
-language: Go
-last_updated: '2026-08-07T19:09:19Z'
-discovered_at: '2026-08-07T20:00:03Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T19:09:19Z"
+discovered_at: "2026-08-07T20:00:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

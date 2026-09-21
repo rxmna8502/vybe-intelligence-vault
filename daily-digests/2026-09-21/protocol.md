@@ -1,37 +1,19 @@
 ---
-title: agenomics-labs/protocol
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Solana
-- Anchor Framework
-- Model Context Protocol (MCP)
-- TypeScript
-- Node.js
-- Rust
-- Docker
-- Render
-- Cloudflare Tunnel
-- Vercel
-- Koyeb
-- Northflank
-- Fly.io
+title: "agenomics-labs/protocol"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Solana", "Anchor Framework", "Model Context Protocol (MCP)", "TypeScript", "Node.js", "Rust", "Docker", "Render", "Cloudflare Tunnel", "Vercel", "Koyeb", "Northflank", "Fly.io"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent coordination
-- Solana blockchain
-- trustless payments
-- MCP server
-- autonomous agents
-source: https://github.com/agenomics-labs/protocol
+deployment_complexity: "Medium"
+tags: ["AI agent coordination", "Solana blockchain", "trustless payments", "MCP server", "autonomous agents"]
+source: "https://github.com/agenomics-labs/protocol"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T16:03:56Z'
-discovered_at: '2026-08-01T16:06:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T16:03:56Z"
+discovered_at: "2026-08-01T16:06:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: apoorvdarshan/rekisei
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- LaTeX
-- Claude Code
-- OpenAI Codex
-- Shell Scripting
-- Git
+title: "apoorvdarshan/rekisei"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["LaTeX", "Claude Code", "OpenAI Codex", "Shell Scripting", "Git"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- resume automation
-- LaTeX editing
-- AI agent workflow
-- PDF generation
-- document templating
-source: https://github.com/apoorvdarshan/rekisei
+deployment_complexity: "Medium"
+tags: ["resume automation", "LaTeX editing", "AI agent workflow", "PDF generation", "document templating"]
+source: "https://github.com/apoorvdarshan/rekisei"
 stars: 0
-language: TeX
-last_updated: '2026-07-19T14:49:58Z'
-discovered_at: '2026-07-19T14:54:16Z'
-evaluated_by: mistral-small-latest
+language: "TeX"
+last_updated: "2026-07-19T14:49:58Z"
+discovered_at: "2026-07-19T14:54:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

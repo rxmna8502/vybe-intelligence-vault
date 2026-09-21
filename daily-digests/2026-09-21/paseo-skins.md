@@ -1,34 +1,19 @@
 ---
-title: huangguang1999/paseo-skins
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- JavaScript
-- Node.js
-- Chrome DevTools Protocol (CDP)
-- Electron
-- TypeScript
-- React
-- HTML/CSS
-- JSON Schema
-- macOS LaunchAgents
-- GitHub Actions
+title: "huangguang1999/paseo-skins"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Chrome DevTools Protocol (CDP)", "Electron", "TypeScript", "React", "HTML/CSS", "JSON Schema", "macOS LaunchAgents", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- theme customization
-- AI application skins
-- CDP integration
-- Agent Skills
-- macOS automation
-source: https://github.com/huangguang1999/paseo-skins
+deployment_complexity: "Medium"
+tags: ["theme customization", "AI application skins", "CDP integration", "Agent Skills", "macOS automation"]
+source: "https://github.com/huangguang1999/paseo-skins"
 stars: 4
-language: JavaScript
-last_updated: '2026-08-10T13:07:14Z'
-discovered_at: '2026-08-10T13:08:52Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T13:07:14Z"
+discovered_at: "2026-08-10T13:08:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

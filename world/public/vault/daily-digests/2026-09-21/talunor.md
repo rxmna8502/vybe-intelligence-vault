@@ -1,33 +1,19 @@
 ---
-title: lao-tseu-is-alive/Talunor
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-21
-tech_stack:
-- Go
-- SQLite
-- Ollama
-- Bubble Tea (TUI framework)
-- Glamour (markdown rendering)
-- C (for SQLite extensions)
-- Docker/nerdctl (sandboxing)
-- OpenRouter (optional provider)
-- Trivy (CVE scanning)
+title: "lao-tseu-is-alive/Talunor"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "SQLite", "Ollama", "Bubble Tea (TUI framework)", "Glamour (markdown rendering)", "C (for SQLite extensions)", "Docker/nerdctl (sandboxing)", "OpenRouter (optional provider)", "Trivy (CVE scanning)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- long-term memory
-- SQLite
-- pedagogical project
-- sandboxed tools
-source: https://github.com/lao-tseu-is-alive/Talunor
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "long-term memory", "SQLite", "pedagogical project", "sandboxed tools"]
+source: "https://github.com/lao-tseu-is-alive/Talunor"
 stars: 1
-language: Go
-last_updated: '2026-09-02T08:00:40Z'
-discovered_at: '2026-09-02T08:19:17Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-02T08:00:40Z"
+discovered_at: "2026-09-02T08:19:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

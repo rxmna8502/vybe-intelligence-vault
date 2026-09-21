@@ -1,34 +1,19 @@
 ---
-title: metago-ai/metagolifeform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- NPM
-- JSON
-- Markdown
-- CLI
-- TypeScript Engine (V2.1.1)
-- KMWI Memory System
+title: "metago-ai/metagolifeform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "JavaScript", "Node.js", "MCP (Model Context Protocol)", "NPM", "JSON", "Markdown", "CLI", "TypeScript Engine (V2.1.1)", "KMWI Memory System"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent governance
-- runtime control
-- self-evolving AI
-- traceability
-- MCP integration
-source: https://github.com/metago-ai/metagolifeform
+deployment_complexity: "Medium"
+tags: ["agent governance", "runtime control", "self-evolving AI", "traceability", "MCP integration"]
+source: "https://github.com/metago-ai/metagolifeform"
 stars: 4
-language: JavaScript
-last_updated: '2026-08-02T20:47:51Z'
-discovered_at: '2026-08-02T20:54:55Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T20:47:51Z"
+discovered_at: "2026-08-02T20:54:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

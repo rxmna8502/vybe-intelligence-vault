@@ -1,32 +1,19 @@
 ---
-title: dbwls99706/deadends.dev
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastAPI
-- SQLite/PostgreSQL
-- TF-IDF
-- Regex
-- JSON/NDJSON
-- OpenAPI 3.1
+title: "dbwls99706/deadends.dev"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "SQLite/PostgreSQL", "TF-IDF", "Regex", "JSON/NDJSON", "OpenAPI 3.1"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- failure knowledge
-- deterministic responses
-- country-scoped rules
-- error transition graphs
-- AI agent safety
-source: https://github.com/dbwls99706/deadends.dev
+deployment_complexity: "Medium"
+tags: ["failure knowledge", "deterministic responses", "country-scoped rules", "error transition graphs", "AI agent safety"]
+source: "https://github.com/dbwls99706/deadends.dev"
 stars: 0
-language: Python
-last_updated: '2026-08-09T17:35:12Z'
-discovered_at: '2026-08-09T17:35:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T17:35:12Z"
+discovered_at: "2026-08-09T17:35:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

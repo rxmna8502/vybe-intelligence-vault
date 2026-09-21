@@ -1,30 +1,19 @@
 ---
-title: BullrunData/market-intelligence-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-21
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Node.js
-- REST API
-- OAuth
-- Serverless Deployment
+title: "BullrunData/market-intelligence-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "REST API", "OAuth", "Serverless Deployment"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- market intelligence
-- macro analysis
-- MCP server
-- economic data
-- real estate calculators
-source: https://github.com/BullrunData/market-intelligence-mcp
+deployment_complexity: "Low"
+tags: ["market intelligence", "macro analysis", "MCP server", "economic data", "real estate calculators"]
+source: "https://github.com/BullrunData/market-intelligence-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-08T04:58:55Z'
-discovered_at: '2026-08-08T04:59:00Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T04:58:55Z"
+discovered_at: "2026-08-08T04:59:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
