@@ -1,19 +1,30 @@
 ---
-title: "matiasinsaurralde/go-e2b"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "E2B API", "gRPC/Connect RPC", "Protobuf", "Docker", "MicroVMs"]
+title: matiasinsaurralde/go-e2b
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Go
+- E2B API
+- gRPC/Connect RPC
+- Protobuf
+- Docker
+- MicroVMs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["sandbox", "microVM", "code execution", "ephemeral environments", "Go SDK"]
-source: "https://github.com/matiasinsaurralde/go-e2b"
+deployment_complexity: Medium
+tags:
+- sandbox
+- microVM
+- code execution
+- ephemeral environments
+- Go SDK
+source: https://github.com/matiasinsaurralde/go-e2b
 stars: 8
-language: "Go"
-last_updated: "2026-08-08T03:24:08Z"
-discovered_at: "2026-08-08T03:28:00Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T03:24:08Z'
+discovered_at: '2026-08-08T03:28:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

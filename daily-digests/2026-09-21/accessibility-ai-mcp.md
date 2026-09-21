@@ -1,19 +1,30 @@
 ---
-title: "CSOAI-ORG/accessibility-ai-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Smithery", "C2PA", "HMAC-SHA256"]
+title: CSOAI-ORG/accessibility-ai-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- PyPI
+- Smithery
+- C2PA
+- HMAC-SHA256
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["accessibility", "EU AI Act compliance", "MCP server", "AI governance", "automation"]
-source: "https://github.com/CSOAI-ORG/accessibility-ai-mcp"
+deployment_complexity: Low
+tags:
+- accessibility
+- EU AI Act compliance
+- MCP server
+- AI governance
+- automation
+source: https://github.com/CSOAI-ORG/accessibility-ai-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T19:08:08Z"
-discovered_at: "2026-08-01T19:19:20Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:08:08Z'
+discovered_at: '2026-08-01T19:19:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

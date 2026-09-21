@@ -1,19 +1,32 @@
 ---
-title: "adamraziv/plus-one"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "Telegram Bot API", "Docker", "pnpm", "Mastra (custom framework)", "NDJSON logging"]
+title: adamraziv/plus-one
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- Telegram Bot API
+- Docker
+- pnpm
+- Mastra (custom framework)
+- NDJSON logging
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["household finance", "self-hosted", "multi-agent", "deterministic accounting", "Telegram integration"]
-source: "https://github.com/adamraziv/plus-one"
+deployment_complexity: Medium
+tags:
+- household finance
+- self-hosted
+- multi-agent
+- deterministic accounting
+- Telegram integration
+source: https://github.com/adamraziv/plus-one
 stars: 6
-language: "TypeScript"
-last_updated: "2026-08-05T02:06:42Z"
-discovered_at: "2026-08-05T02:17:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T02:06:42Z'
+discovered_at: '2026-08-05T02:17:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

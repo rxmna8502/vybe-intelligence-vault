@@ -1,19 +1,34 @@
 ---
-title: "Mireinstein/TenantIQ"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Express", "Ollama (local LLM)", "OpenAI-compatible API", "Zod (structured output validation)", "scikit-learn", "Python", "JSON persistence (Postgres seam)", "React (frontend)"]
+title: Mireinstein/TenantIQ
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- Ollama (local LLM)
+- OpenAI-compatible API
+- Zod (structured output validation)
+- scikit-learn
+- Python
+- JSON persistence (Postgres seam)
+- React (frontend)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "tenant screening", "automated leasing", "LLM guardrails", "deterministic business logic"]
-source: "https://github.com/Mireinstein/TenantIQ"
+deployment_complexity: Medium
+tags:
+- AI agent
+- tenant screening
+- automated leasing
+- LLM guardrails
+- deterministic business logic
+source: https://github.com/Mireinstein/TenantIQ
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T04:53:09Z"
-discovered_at: "2026-08-08T04:58:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T04:53:09Z'
+discovered_at: '2026-08-08T04:58:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

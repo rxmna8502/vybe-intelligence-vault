@@ -1,19 +1,32 @@
 ---
-title: "zcrossoverz/repo-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth 2.1", "Git", "REST APIs (GitHub/GitLab)", "Shell command execution", "Jest (for testing)"]
+title: zcrossoverz/repo-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OAuth 2.1
+- Git
+- REST APIs (GitHub/GitLab)
+- Shell command execution
+- Jest (for testing)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP server", "coding agent", "repository access", "Git automation", "AI-driven development"]
-source: "https://github.com/zcrossoverz/repo-bridge"
+deployment_complexity: Medium
+tags:
+- MCP server
+- coding agent
+- repository access
+- Git automation
+- AI-driven development
+source: https://github.com/zcrossoverz/repo-bridge
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-08T17:23:59Z"
-discovered_at: "2026-08-08T17:33:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T17:23:59Z'
+discovered_at: '2026-08-08T17:33:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

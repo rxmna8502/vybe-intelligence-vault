@@ -1,19 +1,41 @@
 ---
-title: "automatiabcn/abs"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "SQLModel", "Next.js", "React", "Tailwind CSS", "JWT RS256", "MCP (Model Context Protocol)", "Docker", "Caddy", "Stripe", "Mozilla sops + age", "pytest", "vitest", "Playwright", "Lighthouse"]
+title: automatiabcn/abs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- SQLModel
+- Next.js
+- React
+- Tailwind CSS
+- JWT RS256
+- MCP (Model Context Protocol)
+- Docker
+- Caddy
+- Stripe
+- Mozilla sops + age
+- pytest
+- vitest
+- Playwright
+- Lighthouse
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI orchestration", "self-hosted", "MCP tools", "multi-provider cascade", "RAG hybrid"]
-source: "https://github.com/automatiabcn/abs"
+deployment_complexity: Medium
+tags:
+- AI orchestration
+- self-hosted
+- MCP tools
+- multi-provider cascade
+- RAG hybrid
+source: https://github.com/automatiabcn/abs
 stars: 2
-language: "Python"
-last_updated: "2026-07-15T20:02:31Z"
-discovered_at: "2026-07-15T20:08:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T20:02:31Z'
+discovered_at: '2026-07-15T20:08:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

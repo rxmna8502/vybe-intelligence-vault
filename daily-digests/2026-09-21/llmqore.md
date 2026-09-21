@@ -1,19 +1,29 @@
 ---
-title: "Palm1r/llmqore"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++20", "Qt 6.5+", "CMake 3.21+", "MCP (Model Context Protocol)", "ACP (Agent Client Protocol)"]
+title: Palm1r/llmqore
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- C++20
+- Qt 6.5+
+- CMake 3.21+
+- MCP (Model Context Protocol)
+- ACP (Agent Client Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LLM integration", "MCP protocol", "Qt/C++", "Agent orchestration", "Tooling"]
-source: "https://github.com/Palm1r/llmqore"
+deployment_complexity: Medium
+tags:
+- LLM integration
+- MCP protocol
+- Qt/C++
+- Agent orchestration
+- Tooling
+source: https://github.com/Palm1r/llmqore
 stars: 32
-language: "C++"
-last_updated: "2026-08-02T08:10:59Z"
-discovered_at: "2026-08-02T08:23:03Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-02T08:10:59Z'
+discovered_at: '2026-08-02T08:23:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

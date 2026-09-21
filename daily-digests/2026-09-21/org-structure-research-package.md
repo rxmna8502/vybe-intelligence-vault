@@ -1,19 +1,30 @@
 ---
-title: "DKfang-coder/org-structure-research-package"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "AI Agent Framework", "Web Scraping", "Natural Language Processing", "ERP/MES System Detection", "Data Visualization"]
+title: DKfang-coder/org-structure-research-package
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- AI Agent Framework
+- Web Scraping
+- Natural Language Processing
+- ERP/MES System Detection
+- Data Visualization
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["B2B Sales Intelligence", "Organizational Research", "Decision-Maker Identification", "ERP/MES Detection", "Sales Battle Cards"]
-source: "https://github.com/DKfang-coder/org-structure-research-package"
+deployment_complexity: Medium
+tags:
+- B2B Sales Intelligence
+- Organizational Research
+- Decision-Maker Identification
+- ERP/MES Detection
+- Sales Battle Cards
+source: https://github.com/DKfang-coder/org-structure-research-package
 stars: 2
-language: "Python"
-last_updated: "2026-07-19T05:47:59Z"
-discovered_at: "2026-07-19T05:51:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T05:47:59Z'
+discovered_at: '2026-07-19T05:51:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

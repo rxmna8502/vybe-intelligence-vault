@@ -1,19 +1,34 @@
 ---
-title: "Kumagaizo/latentmachine"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "npm", "Vercel", "Monorepo", "MCP (Model Context Protocol)", "HTML/CSS", "Benchmarking", "CLI", "HTTP API"]
+title: Kumagaizo/latentmachine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- npm
+- Vercel
+- Monorepo
+- MCP (Model Context Protocol)
+- HTML/CSS
+- Benchmarking
+- CLI
+- HTTP API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["data transformation", "deterministic rules", "data verification", "MCP server", "zero-dependency"]
-source: "https://github.com/Kumagaizo/latentmachine"
+deployment_complexity: Medium
+tags:
+- data transformation
+- deterministic rules
+- data verification
+- MCP server
+- zero-dependency
+source: https://github.com/Kumagaizo/latentmachine
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-02T11:59:03Z"
-discovered_at: "2026-08-02T12:02:45Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T11:59:03Z'
+discovered_at: '2026-08-02T12:02:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

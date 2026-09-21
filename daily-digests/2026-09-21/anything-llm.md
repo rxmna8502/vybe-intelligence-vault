@@ -1,19 +1,35 @@
 ---
-title: "Mintplex-Labs/anything-llm"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "React", "Node.js", "Express", "Vite", "Docker", "Vector Databases (LanceDB, PGVector, Pinecone, etc.)", "LLM Providers (OpenAI, Anthropic, Mistral, Ollama, etc.)", "Embedding Models", "TTS/STT (Text-to-Speech, Speech-to-Text)", "Web Scraping"]
+title: Mintplex-Labs/anything-llm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- React
+- Node.js
+- Express
+- Vite
+- Docker
+- Vector Databases (LanceDB, PGVector, Pinecone, etc.)
+- LLM Providers (OpenAI, Anthropic, Mistral, Ollama, etc.)
+- Embedding Models
+- TTS/STT (Text-to-Speech, Speech-to-Text)
+- Web Scraping
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Agents", "Document Chat", "Multi-User", "Local-First", "Vector Search"]
-source: "https://github.com/Mintplex-Labs/anything-llm"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- Document Chat
+- Multi-User
+- Local-First
+- Vector Search
+source: https://github.com/Mintplex-Labs/anything-llm
 stars: 64465
-language: "JavaScript"
-last_updated: "2026-08-07T19:27:01Z"
-discovered_at: "2026-08-07T19:59:15Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T19:27:01Z'
+discovered_at: '2026-08-07T19:59:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

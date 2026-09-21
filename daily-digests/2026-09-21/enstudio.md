@@ -1,19 +1,32 @@
 ---
-title: "its-enpii/enstudio"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "Svelte 5", "Tailwind CSS", "CodeMirror 6", "xterm.js", "node-pty", "Vite", "TypeScript"]
+title: its-enpii/enstudio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Electron
+- Svelte 5
+- Tailwind CSS
+- CodeMirror 6
+- xterm.js
+- node-pty
+- Vite
+- TypeScript
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["IDE", "agentic coding", "terminal emulator", "electron app", "multi-LLM support"]
-source: "https://github.com/its-enpii/enstudio"
+deployment_complexity: Medium
+tags:
+- IDE
+- agentic coding
+- terminal emulator
+- electron app
+- multi-LLM support
+source: https://github.com/its-enpii/enstudio
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T01:35:11Z"
-discovered_at: "2026-08-10T01:35:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T01:35:11Z'
+discovered_at: '2026-08-10T01:35:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

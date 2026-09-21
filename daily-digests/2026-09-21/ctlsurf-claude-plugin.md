@@ -1,19 +1,29 @@
 ---
-title: "phenx-inc/ctlsurf-claude-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "Model Context Protocol (MCP)", "HTTP API", "JavaScript/TypeScript (implied by plugin ecosystem)", "Markdown"]
+title: phenx-inc/ctlsurf-claude-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Claude Code
+- Model Context Protocol (MCP)
+- HTTP API
+- JavaScript/TypeScript (implied by plugin ecosystem)
+- Markdown
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI agent documentation", "MCP integration", "provenance tracking", "decision logging", "compliance reporting"]
-source: "https://github.com/phenx-inc/ctlsurf-claude-plugin"
+deployment_complexity: Low
+tags:
+- AI agent documentation
+- MCP integration
+- provenance tracking
+- decision logging
+- compliance reporting
+source: https://github.com/phenx-inc/ctlsurf-claude-plugin
 stars: 0
-language: "None"
-last_updated: "2026-07-18T14:41:32Z"
-discovered_at: "2026-07-18T14:50:48Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-18T14:41:32Z'
+discovered_at: '2026-07-18T14:50:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

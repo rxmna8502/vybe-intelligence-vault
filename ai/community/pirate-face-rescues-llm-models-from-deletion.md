@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://pirateface.co
 hn_url: https://news.ycombinator.com/item?id=49776699
-score: 380
+score: 494
 author: skepticalgenius
-comments_count: 121
+comments_count: 143
 published_at: '2026-09-20T20:46:07+05:30'
-collected_at: '2026-09-21T04:04:55.286542+05:30'
+collected_at: '2026-09-21T10:35:10.145476+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:pirate-face-rescues-llm-models-from-deletion
 first_seen: '2026-09-21T00:25:41.052151+05:30'
-last_seen: '2026-09-21T04:04:55.286542+05:30'
-last_checked: '2026-09-21T04:04:55.286542+05:30'
+last_seen: '2026-09-21T10:35:10.145476+05:30'
+last_checked: '2026-09-21T10:35:10.145476+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by skepticalgenius. Score: 380, Comments: 121.
+Hacker News story by skepticalgenius. Score: 494, Comments: 143.
 Original Link: https://pirateface.co/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: skepticalgenius
-- Score: 380 Upvotes
-- Comments: 121 Discussions
+- Score: 494 Upvotes
+- Comments: 143 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49776699
 - Original Article: https://pirateface.co
 

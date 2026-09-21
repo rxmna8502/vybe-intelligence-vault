@@ -1,19 +1,30 @@
 ---
-title: "lszoszk/mcp-unhrdb"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "Model Context Protocol (MCP)", "Docker", "Streamable HTTP", "REST APIs"]
+title: lszoszk/mcp-unhrdb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Node.js
+- JavaScript
+- Model Context Protocol (MCP)
+- Docker
+- Streamable HTTP
+- REST APIs
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["UN human rights", "MCP server", "corpus access", "legal research", "AI tooling"]
-source: "https://github.com/lszoszk/mcp-unhrdb"
+deployment_complexity: Medium
+tags:
+- UN human rights
+- MCP server
+- corpus access
+- legal research
+- AI tooling
+source: https://github.com/lszoszk/mcp-unhrdb
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-12T08:02:15Z"
-discovered_at: "2026-07-12T08:15:47Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-12T08:02:15Z'
+discovered_at: '2026-07-12T08:15:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

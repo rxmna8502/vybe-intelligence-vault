@@ -1,19 +1,30 @@
 ---
-title: "bilalbentoumi/pentra"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "VS Code Extension API", "Node.js", "JSON-Lines RPC", "MIT-licensed pi coding agent"]
+title: bilalbentoumi/pentra
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- React
+- VS Code Extension API
+- Node.js
+- JSON-Lines RPC
+- MIT-licensed pi coding agent
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["VS Code extension", "AI coding agent", "RPC integration", "streaming chat", "session management"]
-source: "https://github.com/bilalbentoumi/pentra"
+deployment_complexity: Medium
+tags:
+- VS Code extension
+- AI coding agent
+- RPC integration
+- streaming chat
+- session management
+source: https://github.com/bilalbentoumi/pentra
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-11T20:09:03Z"
-discovered_at: "2026-07-11T20:09:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T20:09:03Z'
+discovered_at: '2026-07-11T20:09:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

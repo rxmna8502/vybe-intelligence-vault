@@ -1,19 +1,35 @@
 ---
-title: "Ke0830/local-readonly-mail-viewer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "IMAP", "IMAPS", "SQLite", "AES-GCM", "TLS", "Flask", "HTML", "JavaScript", "macOS Keychain", "Windows Credential Manager"]
+title: Ke0830/local-readonly-mail-viewer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- IMAP
+- IMAPS
+- SQLite
+- AES-GCM
+- TLS
+- Flask
+- HTML
+- JavaScript
+- macOS Keychain
+- Windows Credential Manager
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["email", "IMAP", "read-only", "agent-integration", "local-cache"]
-source: "https://github.com/Ke0830/local-readonly-mail-viewer"
+deployment_complexity: Medium
+tags:
+- email
+- IMAP
+- read-only
+- agent-integration
+- local-cache
+source: https://github.com/Ke0830/local-readonly-mail-viewer
 stars: 3
-language: "Python"
-last_updated: "2026-08-05T08:34:23Z"
-discovered_at: "2026-08-05T08:35:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T08:34:23Z'
+discovered_at: '2026-08-05T08:35:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

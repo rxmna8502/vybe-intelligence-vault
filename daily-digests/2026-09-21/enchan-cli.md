@@ -1,19 +1,32 @@
 ---
-title: "EnchanTheory/Enchan-CLI"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "llama.cpp", "GGUF", "React", "TypeScript", "C++", "GitHub Actions"]
+title: EnchanTheory/Enchan-CLI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Node.js
+- llama.cpp
+- GGUF
+- React
+- TypeScript
+- C++
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["local AI", "privacy-focused", "compact models", "RAG", "agent framework"]
-source: "https://github.com/EnchanTheory/Enchan-CLI"
+deployment_complexity: Medium
+tags:
+- local AI
+- privacy-focused
+- compact models
+- RAG
+- agent framework
+source: https://github.com/EnchanTheory/Enchan-CLI
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T14:47:09Z"
-discovered_at: "2026-07-18T14:50:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T14:47:09Z'
+discovered_at: '2026-07-18T14:50:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

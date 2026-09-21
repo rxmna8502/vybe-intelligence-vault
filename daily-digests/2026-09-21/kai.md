@@ -1,19 +1,34 @@
 ---
-title: "dcellison/kai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite/PostgreSQL", "Git", "Telegram Bot API", "React", "Docker", "CLI Tools", "WebSockets", "ACL (Access Control Lists)"]
+title: dcellison/kai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- SQLite/PostgreSQL
+- Git
+- Telegram Bot API
+- React
+- Docker
+- CLI Tools
+- WebSockets
+- ACL (Access Control Lists)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["AI agent orchestrator", "local-first AI", "multi-backend", "persistent memory", "repo-aware coding"]
-source: "https://github.com/dcellison/kai"
+deployment_complexity: High
+tags:
+- AI agent orchestrator
+- local-first AI
+- multi-backend
+- persistent memory
+- repo-aware coding
+source: https://github.com/dcellison/kai
 stars: 35
-language: "Python"
-last_updated: "2026-09-02T02:03:28Z"
-discovered_at: "2026-09-02T02:11:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:03:28Z'
+discovered_at: '2026-09-02T02:11:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

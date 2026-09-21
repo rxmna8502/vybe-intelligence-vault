@@ -1,19 +1,38 @@
 ---
-title: "chandshy/mailpouch"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP SDK", "Proton Bridge", "IMAP/SMTP", "OAuth 2.1", "SQLite (FTS5)", "Rust (napi-rs)", "Vitest", "Tauri tray-icon", "HMAC", "CloudEvents", "SimpleLogin API", "Proton Pass CLI"]
+title: chandshy/mailpouch
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP SDK
+- Proton Bridge
+- IMAP/SMTP
+- OAuth 2.1
+- SQLite (FTS5)
+- Rust (napi-rs)
+- Vitest
+- Tauri tray-icon
+- HMAC
+- CloudEvents
+- SimpleLogin API
+- Proton Pass CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "email access", "permission gating", "Proton Mail", "local processing"]
-source: "https://github.com/chandshy/mailpouch"
+deployment_complexity: Medium
+tags:
+- MCP server
+- email access
+- permission gating
+- Proton Mail
+- local processing
+source: https://github.com/chandshy/mailpouch
 stars: 8
-language: "TypeScript"
-last_updated: "2026-07-14T16:03:05Z"
-discovered_at: "2026-07-14T16:14:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-14T16:03:05Z'
+discovered_at: '2026-07-14T16:14:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

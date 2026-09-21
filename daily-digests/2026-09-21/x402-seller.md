@@ -1,19 +1,35 @@
 ---
-title: "wyattpalm2-eng/x402-seller"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Express", "x402 (pay-per-call protocol)", "GoPlus Labs API", "Honeypot.is API", "RugCheck API", "DexScreener", "GeckoTerminal", "DeFiLlama", "MCP (Model Context Protocol)"]
+title: wyattpalm2-eng/x402-seller
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- x402 (pay-per-call protocol)
+- GoPlus Labs API
+- Honeypot.is API
+- RugCheck API
+- DexScreener
+- GeckoTerminal
+- DeFiLlama
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["rug protection", "autonomous trading", "liquidity monitoring", "composite scoring", "x402 protocol"]
-source: "https://github.com/wyattpalm2-eng/x402-seller"
+deployment_complexity: Medium
+tags:
+- rug protection
+- autonomous trading
+- liquidity monitoring
+- composite scoring
+- x402 protocol
+source: https://github.com/wyattpalm2-eng/x402-seller
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T11:55:36Z"
-discovered_at: "2026-07-19T11:57:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T11:55:36Z'
+discovered_at: '2026-07-19T11:57:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

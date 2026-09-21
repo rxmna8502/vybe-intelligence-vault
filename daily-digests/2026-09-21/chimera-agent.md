@@ -1,19 +1,33 @@
 ---
-title: "brcampidelli/chimera-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Docker", "Ruff", "mypy", "pytest", "GitHub Actions", "Sandboxing (bubblewrap, Seatbelt)", "LLM APIs (OpenAI, Mistral, etc.)"]
+title: brcampidelli/chimera-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- Ruff
+- mypy
+- pytest
+- GitHub Actions
+- Sandboxing (bubblewrap, Seatbelt)
+- LLM APIs (OpenAI, Mistral, etc.)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-model reasoning", "self-evolving agent", "governed AI", "sandboxed execution", "open-source agent"]
-source: "https://github.com/brcampidelli/chimera-agent"
+deployment_complexity: Medium
+tags:
+- multi-model reasoning
+- self-evolving agent
+- governed AI
+- sandboxed execution
+- open-source agent
+source: https://github.com/brcampidelli/chimera-agent
 stars: 20
-language: "Python"
-last_updated: "2026-09-02T22:13:35Z"
-discovered_at: "2026-09-02T22:15:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T22:13:35Z'
+discovered_at: '2026-09-02T22:15:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

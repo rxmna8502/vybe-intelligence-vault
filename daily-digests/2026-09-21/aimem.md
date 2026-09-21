@@ -1,19 +1,31 @@
 ---
-title: "yogesh-joshi-0333/aimem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "sqlite-vec", "ONNX", "MCP (Model Context Protocol)", "JSON-RPC 2.0"]
+title: yogesh-joshi-0333/aimem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- sqlite-vec
+- ONNX
+- MCP (Model Context Protocol)
+- JSON-RPC 2.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["local-first", "MCP server", "AI memory", "persistent context", "SQLite vector search"]
-source: "https://github.com/yogesh-joshi-0333/aimem"
+deployment_complexity: Low
+tags:
+- local-first
+- MCP server
+- AI memory
+- persistent context
+- SQLite vector search
+source: https://github.com/yogesh-joshi-0333/aimem
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T11:51:13Z"
-discovered_at: "2026-08-07T11:56:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:51:13Z'
+discovered_at: '2026-08-07T11:56:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

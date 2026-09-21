@@ -1,19 +1,30 @@
 ---
-title: "mendapi/mendapi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "Model Context Protocol (MCP)", "AST-based codemodding", "GitHub API"]
+title: mendapi/mendapi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- Model Context Protocol (MCP)
+- AST-based codemodding
+- GitHub API
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["API monitoring", "breaking change detection", "automated fixes", "local-first", "security-focused"]
-source: "https://github.com/mendapi/mendapi"
+deployment_complexity: Medium
+tags:
+- API monitoring
+- breaking change detection
+- automated fixes
+- local-first
+- security-focused
+source: https://github.com/mendapi/mendapi
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-02T11:55:26Z"
-discovered_at: "2026-08-02T12:02:49Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T11:55:26Z'
+discovered_at: '2026-08-02T12:02:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

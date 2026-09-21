@@ -1,19 +1,32 @@
 ---
-title: "developerDesinger/ai-brain"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Tree-sitter", "SQLite", "Node.js", "Claude API", "chokidar", "launchd/systemd", "MCP (Model Context Protocol)"]
+title: developerDesinger/ai-brain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Tree-sitter
+- SQLite
+- Node.js
+- Claude API
+- chokidar
+- launchd/systemd
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge-graph", "AI-agent-orchestration", "project-local-context", "code-indexing", "cross-tool-consistency"]
-source: "https://github.com/developerDesinger/ai-brain"
+deployment_complexity: Medium
+tags:
+- knowledge-graph
+- AI-agent-orchestration
+- project-local-context
+- code-indexing
+- cross-tool-consistency
+source: https://github.com/developerDesinger/ai-brain
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-20T23:53:17Z"
-discovered_at: "2026-07-21T00:03:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T23:53:17Z'
+discovered_at: '2026-07-21T00:03:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

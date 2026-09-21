@@ -1,19 +1,36 @@
 ---
-title: "g8e-ai/g8e"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "mTLS", "WebAuthn/FIDO2", "AES-256-GCM", "Ed25519", "SHA-256", "Git", "SPIFFE", "OSCP", "FIPS 140-3", "SOC2", "GDPR"]
+title: g8e-ai/g8e
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Go
+- mTLS
+- WebAuthn/FIDO2
+- AES-256-GCM
+- Ed25519
+- SHA-256
+- Git
+- SPIFFE
+- OSCP
+- FIPS 140-3
+- SOC2
+- GDPR
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["data sovereignty", "trustless execution", "edge AI", "cryptographic governance", "compliance automation"]
-source: "https://github.com/g8e-ai/g8e"
+deployment_complexity: Medium
+tags:
+- data sovereignty
+- trustless execution
+- edge AI
+- cryptographic governance
+- compliance automation
+source: https://github.com/g8e-ai/g8e
 stars: 7
-language: "Go"
-last_updated: "2026-08-05T16:40:38Z"
-discovered_at: "2026-08-05T16:46:08Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-05T16:40:38Z'
+discovered_at: '2026-08-05T16:46:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

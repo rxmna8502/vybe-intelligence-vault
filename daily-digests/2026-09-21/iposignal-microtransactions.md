@@ -1,19 +1,30 @@
 ---
-title: "Waltermelon-lang/iposignal-microtransactions"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "A2A Agent-to-Agent Protocol", "x402 Payment Protocol", "HTTP/HTTPS", "USDC on Base (EVM)", "JSON"]
+title: Waltermelon-lang/iposignal-microtransactions
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- MCP (Model Context Protocol)
+- A2A Agent-to-Agent Protocol
+- x402 Payment Protocol
+- HTTP/HTTPS
+- USDC on Base (EVM)
+- JSON
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["IPO intelligence", "financial data", "MCP server", "x402 payments", "agent protocols"]
-source: "https://github.com/Waltermelon-lang/iposignal-microtransactions"
+deployment_complexity: Low
+tags:
+- IPO intelligence
+- financial data
+- MCP server
+- x402 payments
+- agent protocols
+source: https://github.com/Waltermelon-lang/iposignal-microtransactions
 stars: 0
-language: "None"
-last_updated: "2026-08-01T23:45:17Z"
-discovered_at: "2026-08-01T23:57:33Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T23:45:17Z'
+discovered_at: '2026-08-01T23:57:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

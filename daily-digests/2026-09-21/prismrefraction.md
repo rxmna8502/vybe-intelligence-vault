@@ -1,19 +1,36 @@
 ---
-title: "kirklasalle/PrismRefraction"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js (>=22)", "Playwright", "node-pty", "Docker", "LLMs (Claude Opus, GPT-5, Gemini Pro, etc.)", "llama.cpp", "SQLite", "CI/CD (GitHub Actions)", "OAuth", "WebSockets", "Cryptographic hashing (SHA-256)"]
+title: kirklasalle/PrismRefraction
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js (>=22)
+- Playwright
+- node-pty
+- Docker
+- LLMs (Claude Opus, GPT-5, Gemini Pro, etc.)
+- llama.cpp
+- SQLite
+- CI/CD (GitHub Actions)
+- OAuth
+- WebSockets
+- Cryptographic hashing (SHA-256)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["autonomous agents", "governance-native", "multi-model orchestration", "computer-use autonomy", "cryptographic integrity"]
-source: "https://github.com/kirklasalle/PrismRefraction"
+deployment_complexity: High
+tags:
+- autonomous agents
+- governance-native
+- multi-model orchestration
+- computer-use autonomy
+- cryptographic integrity
+source: https://github.com/kirklasalle/PrismRefraction
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-08T22:26:32Z"
-discovered_at: "2026-08-08T22:32:01Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T22:26:32Z'
+discovered_at: '2026-08-08T22:32:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

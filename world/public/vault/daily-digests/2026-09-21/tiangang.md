@@ -1,19 +1,37 @@
 ---
-title: "Kirky-X/tiangang"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Semgrep", "Bandit", "Gosec", "Trivy", "Gitleaks", "Trufflehog", "CodeQL", "YAML", "Markdown", "Shell Scripting", "SARIF", "JSON"]
+title: Kirky-X/tiangang
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Python
+- Semgrep
+- Bandit
+- Gosec
+- Trivy
+- Gitleaks
+- Trufflehog
+- CodeQL
+- YAML
+- Markdown
+- Shell Scripting
+- SARIF
+- JSON
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["SAST", "multi-language security", "AI agent integration", "static analysis", "vulnerability scanning"]
-source: "https://github.com/Kirky-X/tiangang"
+deployment_complexity: Medium
+tags:
+- SAST
+- multi-language security
+- AI agent integration
+- static analysis
+- vulnerability scanning
+source: https://github.com/Kirky-X/tiangang
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T14:47:53Z"
-discovered_at: "2026-07-15T14:48:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T14:47:53Z'
+discovered_at: '2026-07-15T14:48:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

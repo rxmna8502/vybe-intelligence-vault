@@ -1,19 +1,31 @@
 ---
-title: "HunterTheAgent/hunter-docs"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "GitHub Pages", "Postgres", "pgvector", "Docker", "GitHub Actions"]
+title: HunterTheAgent/hunter-docs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Markdown
+- GitHub Pages
+- Postgres
+- pgvector
+- Docker
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["crypto-intelligence", "autonomous agent", "privacy-first", "self-hosted AI", "web3"]
-source: "https://github.com/HunterTheAgent/hunter-docs"
+deployment_complexity: Medium
+tags:
+- crypto-intelligence
+- autonomous agent
+- privacy-first
+- self-hosted AI
+- web3
+source: https://github.com/HunterTheAgent/hunter-docs
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T06:08:25Z"
-discovered_at: "2026-08-07T06:12:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T06:08:25Z'
+discovered_at: '2026-08-07T06:12:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

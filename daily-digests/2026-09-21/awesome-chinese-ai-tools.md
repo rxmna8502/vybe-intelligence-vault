@@ -1,19 +1,29 @@
 ---
-title: "sanhuang520-ship-it/awesome-chinese-ai-tools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "GitHub Pages", "Markdown", "Automated Link Testing"]
+title: sanhuang520-ship-it/awesome-chinese-ai-tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- HTML
+- JavaScript
+- GitHub Pages
+- Markdown
+- Automated Link Testing
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["curated list", "Chinese AI tools", "free tiers", "tool navigation", "practical resources"]
-source: "https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools"
+deployment_complexity: Low
+tags:
+- curated list
+- Chinese AI tools
+- free tiers
+- tool navigation
+- practical resources
+source: https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools
 stars: 1
-language: "HTML"
-last_updated: "2026-08-04T15:34:10Z"
-discovered_at: "2026-08-04T15:34:29Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-04T15:34:10Z'
+discovered_at: '2026-08-04T15:34:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "TheEterna/api2mcp4j"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "Spring Boot", "MCP (Model Context Protocol)", "Swagger/OpenAPI", "Javadoc", "Jackson", "Maven"]
+title: TheEterna/api2mcp4j
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Java
+- Spring Boot
+- MCP (Model Context Protocol)
+- Swagger/OpenAPI
+- Javadoc
+- Jackson
+- Maven
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP integration", "Spring Boot", "REST to MCP", "AI tooling", "zero-code"]
-source: "https://github.com/TheEterna/api2mcp4j"
+deployment_complexity: Medium
+tags:
+- MCP integration
+- Spring Boot
+- REST to MCP
+- AI tooling
+- zero-code
+source: https://github.com/TheEterna/api2mcp4j
 stars: 107
-language: "Java"
-last_updated: "2026-08-03T02:36:05Z"
-discovered_at: "2026-08-03T02:54:46Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-03T02:36:05Z'
+discovered_at: '2026-08-03T02:54:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

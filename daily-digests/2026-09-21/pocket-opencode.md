@@ -1,19 +1,32 @@
 ---
-title: "hernsa/pocket-opencode"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "grammY", "Telegram Bot API", "opencode", "SQLite", "SSE (Server-Sent Events)", "HTTP"]
+title: hernsa/pocket-opencode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Bun
+- grammY
+- Telegram Bot API
+- opencode
+- SQLite
+- SSE (Server-Sent Events)
+- HTTP
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Telegram bot", "opencode integration", "remote agent control", "streaming responses", "Windows daemon"]
-source: "https://github.com/hernsa/pocket-opencode"
+deployment_complexity: Medium
+tags:
+- Telegram bot
+- opencode integration
+- remote agent control
+- streaming responses
+- Windows daemon
+source: https://github.com/hernsa/pocket-opencode
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T22:04:56Z"
-discovered_at: "2026-09-02T22:18:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:04:56Z'
+discovered_at: '2026-09-02T22:18:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "Adikasz/Enterprise-RAG-Knowledge-Engine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "ChromaDB", "Docker", "Anthropic API", "Pydantic", "Domain-Driven Design (DDD)", "Model Context Protocol (MCP)"]
+title: Adikasz/Enterprise-RAG-Knowledge-Engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- ChromaDB
+- Docker
+- Anthropic API
+- Pydantic
+- Domain-Driven Design (DDD)
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Enterprise RAG", "Vector Database Integration", "AI Orchestration", "Document Ingestion", "Claude Augmentation"]
-source: "https://github.com/Adikasz/Enterprise-RAG-Knowledge-Engine"
+deployment_complexity: Medium
+tags:
+- Enterprise RAG
+- Vector Database Integration
+- AI Orchestration
+- Document Ingestion
+- Claude Augmentation
+source: https://github.com/Adikasz/Enterprise-RAG-Knowledge-Engine
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T11:34:17Z"
-discovered_at: "2026-08-07T11:57:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:34:17Z'
+discovered_at: '2026-08-07T11:57:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

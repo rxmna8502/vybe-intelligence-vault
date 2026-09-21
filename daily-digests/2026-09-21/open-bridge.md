@@ -1,19 +1,29 @@
 ---
-title: "bks-lab/open-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "YAML", "Git", "Python", "Shell"]
+title: bks-lab/open-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Markdown
+- YAML
+- Git
+- Python
+- Shell
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent context", "persistent memory", "version-controlled", "plain-text", "workflow automation"]
-source: "https://github.com/bks-lab/open-bridge"
+deployment_complexity: Medium
+tags:
+- AI agent context
+- persistent memory
+- version-controlled
+- plain-text
+- workflow automation
+source: https://github.com/bks-lab/open-bridge
 stars: 6
-language: "Python"
-last_updated: "2026-07-13T10:20:19Z"
-discovered_at: "2026-07-13T10:24:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T10:20:19Z'
+discovered_at: '2026-07-13T10:24:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

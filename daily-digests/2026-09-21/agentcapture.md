@@ -1,19 +1,32 @@
 ---
-title: "Tcotl/AgentCapture"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "SQLite/PostgreSQL", "Docker", "SSH Honeypot (paramiko)", "MySQL/Redis/FTP/ElasticSearch Protocol Emulation", "JavaScript (for frontend and beacon injection)", "Mermaid (for architecture diagrams)"]
+title: Tcotl/AgentCapture
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- SQLite/PostgreSQL
+- Docker
+- SSH Honeypot (paramiko)
+- MySQL/Redis/FTP/ElasticSearch Protocol Emulation
+- JavaScript (for frontend and beacon injection)
+- Mermaid (for architecture diagrams)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["honeypot", "deception technology", "AI agent detection", "attack countermeasure", "cybersecurity"]
-source: "https://github.com/Tcotl/AgentCapture"
+deployment_complexity: Medium
+tags:
+- honeypot
+- deception technology
+- AI agent detection
+- attack countermeasure
+- cybersecurity
+source: https://github.com/Tcotl/AgentCapture
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T08:11:38Z"
-discovered_at: "2026-09-02T08:22:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:11:38Z'
+discovered_at: '2026-09-02T08:22:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

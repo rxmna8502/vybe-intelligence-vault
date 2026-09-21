@@ -1,19 +1,30 @@
 ---
-title: "AgentSEO-dev/agentseo-clients"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Python", "Node.js", "Model Context Protocol (MCP)", "SDK Development"]
+title: AgentSEO-dev/agentseo-clients
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- TypeScript
+- Python
+- Node.js
+- Model Context Protocol (MCP)
+- SDK Development
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["SEO", "API Client", "MCP Server", "SDK", "AI Integration"]
-source: "https://github.com/AgentSEO-dev/agentseo-clients"
+deployment_complexity: Low
+tags:
+- SEO
+- API Client
+- MCP Server
+- SDK
+- AI Integration
+source: https://github.com/AgentSEO-dev/agentseo-clients
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-17T18:03:25Z"
-discovered_at: "2026-07-17T18:05:12Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-17T18:03:25Z'
+discovered_at: '2026-07-17T18:05:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

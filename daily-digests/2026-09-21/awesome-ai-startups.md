@@ -1,19 +1,27 @@
 ---
-title: "nowork-studio/awesome-ai-startups"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "GitHub Pages", "Awesome Lists"]
+title: nowork-studio/awesome-ai-startups
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Markdown
+- GitHub Pages
+- Awesome Lists
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI startups", "curated directory", "indie makers", "bootstrapped", "AI tools"]
-source: "https://github.com/nowork-studio/awesome-ai-startups"
+deployment_complexity: Low
+tags:
+- AI startups
+- curated directory
+- indie makers
+- bootstrapped
+- AI tools
+source: https://github.com/nowork-studio/awesome-ai-startups
 stars: 52
-language: "None"
-last_updated: "2026-07-15T18:04:16Z"
-discovered_at: "2026-07-15T18:06:17Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-15T18:04:16Z'
+discovered_at: '2026-07-15T18:06:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

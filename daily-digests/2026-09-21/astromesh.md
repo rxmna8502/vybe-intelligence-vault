@@ -1,19 +1,41 @@
 ---
-title: "monaccode/astromesh"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Redis", "pgvector", "ChromaDB", "Qdrant", "FAISS", "Ollama", "OpenAI-compatible APIs", "vLLM", "llama.cpp", "HuggingFace TGI", "ONNX Runtime", "OpenTelemetry", "Docker", "YAML"]
+title: monaccode/astromesh
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- pgvector
+- ChromaDB
+- Qdrant
+- FAISS
+- Ollama
+- OpenAI-compatible APIs
+- vLLM
+- llama.cpp
+- HuggingFace TGI
+- ONNX Runtime
+- OpenTelemetry
+- Docker
+- YAML
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "multi-model routing", "RAG pipeline", "declarative configuration", "observability"]
-source: "https://github.com/monaccode/astromesh"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- multi-model routing
+- RAG pipeline
+- declarative configuration
+- observability
+source: https://github.com/monaccode/astromesh
 stars: 30
-language: "Python"
-last_updated: "2026-07-28T21:43:32Z"
-discovered_at: "2026-08-01T22:55:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-28T21:43:32Z'
+discovered_at: '2026-08-01T22:55:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

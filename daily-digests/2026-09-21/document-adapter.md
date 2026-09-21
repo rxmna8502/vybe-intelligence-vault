@@ -1,19 +1,33 @@
 ---
-title: "PlateerLab/document-adapter"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "docxtpl", "python-docx", "python-pptx", "openpyxl", "lxml", "zipfile", "Jinja2"]
+title: PlateerLab/document-adapter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- docxtpl
+- python-docx
+- python-pptx
+- openpyxl
+- lxml
+- zipfile
+- Jinja2
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["document editing", "MCP server", "office automation", "template rendering", "LLM integration"]
-source: "https://github.com/PlateerLab/document-adapter"
+deployment_complexity: Medium
+tags:
+- document editing
+- MCP server
+- office automation
+- template rendering
+- LLM integration
+source: https://github.com/PlateerLab/document-adapter
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T02:27:44Z"
-discovered_at: "2026-07-13T02:34:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T02:27:44Z'
+discovered_at: '2026-07-13T02:34:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

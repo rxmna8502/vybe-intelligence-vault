@@ -1,19 +1,31 @@
 ---
-title: "paurushrai/hollr"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "Webhooks", "Text-to-Speech", "Desktop Notifications", "Sound Playback"]
+title: paurushrai/hollr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- Webhooks
+- Text-to-Speech
+- Desktop Notifications
+- Sound Playback
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["CLI monitoring", "agent alerts", "voice notifications", "local-first", "developer productivity"]
-source: "https://github.com/paurushrai/hollr"
+deployment_complexity: Low
+tags:
+- CLI monitoring
+- agent alerts
+- voice notifications
+- local-first
+- developer productivity
+source: https://github.com/paurushrai/hollr
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T10:20:11Z"
-discovered_at: "2026-07-12T10:26:25Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T10:20:11Z'
+discovered_at: '2026-07-12T10:26:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

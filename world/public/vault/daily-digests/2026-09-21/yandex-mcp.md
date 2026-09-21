@@ -1,19 +1,30 @@
 ---
-title: "stufently/yandex-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Bun", "Model Context Protocol (MCP)", "Yandex Cloud APIs", "OAuth"]
+title: stufently/yandex-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Node.js
+- Bun
+- Model Context Protocol (MCP)
+- Yandex Cloud APIs
+- OAuth
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "Yandex APIs", "Russian market", "AI assistants", "search analytics"]
-source: "https://github.com/stufently/yandex-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- Yandex APIs
+- Russian market
+- AI assistants
+- search analytics
+source: https://github.com/stufently/yandex-mcp
 stars: 17
-language: "JavaScript"
-last_updated: "2026-08-25T11:08:32Z"
-discovered_at: "2026-09-01T15:56:33Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-25T11:08:32Z'
+discovered_at: '2026-09-01T15:56:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

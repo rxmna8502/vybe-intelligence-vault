@@ -1,19 +1,29 @@
 ---
-title: "YoanWai/stremio-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "ADB (Android Debug Bridge)", "Stremio APIs", "Environment variables"]
+title: YoanWai/stremio-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- ADB (Android Debug Bridge)
+- Stremio APIs
+- Environment variables
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "Stremio integration", "Android TV control", "media streaming", "remote playback"]
-source: "https://github.com/YoanWai/stremio-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Stremio integration
+- Android TV control
+- media streaming
+- remote playback
+source: https://github.com/YoanWai/stremio-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T17:50:59Z"
-discovered_at: "2026-07-18T17:56:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T17:50:59Z'
+discovered_at: '2026-07-18T17:56:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

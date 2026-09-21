@@ -1,19 +1,34 @@
 ---
-title: "wesleysimplicio/simplicio-loop"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Git", "LLM APIs", "Docker", "FastAPI", "Mermaid.js", "GitHub Actions", "PostgreSQL", "SQLite", "CLI"]
+title: wesleysimplicio/simplicio-loop
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Python
+- Git
+- LLM APIs
+- Docker
+- FastAPI
+- Mermaid.js
+- GitHub Actions
+- PostgreSQL
+- SQLite
+- CLI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["AI agent orchestration", "end-to-end automation", "evidence-based execution", "multi-agent coordination", "token efficiency"]
-source: "https://github.com/wesleysimplicio/simplicio-loop"
+deployment_complexity: High
+tags:
+- AI agent orchestration
+- end-to-end automation
+- evidence-based execution
+- multi-agent coordination
+- token efficiency
+source: https://github.com/wesleysimplicio/simplicio-loop
 stars: 2
-language: "Python"
-last_updated: "2026-09-02T22:10:06Z"
-discovered_at: "2026-09-02T22:16:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T22:10:06Z'
+discovered_at: '2026-09-02T22:16:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

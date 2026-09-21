@@ -1,19 +1,31 @@
 ---
-title: "api-evangelist/objectbox"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C++", "Java", "Swift", "Kotlin", "SQL", "Vector Search", "Edge Computing"]
+title: api-evangelist/objectbox
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- C++
+- Java
+- Swift
+- Kotlin
+- SQL
+- Vector Search
+- Edge Computing
 quality_score: 4
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["offline-first", "vector search", "edge database", "data synchronization", "AI/ML"]
-source: "https://github.com/api-evangelist/objectbox"
+deployment_complexity: Medium
+tags:
+- offline-first
+- vector search
+- edge database
+- data synchronization
+- AI/ML
+source: https://github.com/api-evangelist/objectbox
 stars: 0
-language: "None"
-last_updated: "2026-08-08T01:26:29Z"
-discovered_at: "2026-08-08T03:29:49Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T01:26:29Z'
+discovered_at: '2026-08-08T03:29:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

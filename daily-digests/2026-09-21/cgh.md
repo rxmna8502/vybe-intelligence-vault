@@ -1,19 +1,31 @@
 ---
-title: "altikva/cgh"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "DuckDB", "SQLite", "MCP (Model Context Protocol)", "Tree-sitter (for parsing)", "Watchdog (file watcher)", "FastAPI (for MCP server)"]
+title: altikva/cgh
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- DuckDB
+- SQLite
+- MCP (Model Context Protocol)
+- Tree-sitter (for parsing)
+- Watchdog (file watcher)
+- FastAPI (for MCP server)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["code graph", "MCP server", "AI coding assistant", "symbol lookup", "context optimization"]
-source: "https://github.com/altikva/cgh"
+deployment_complexity: Medium
+tags:
+- code graph
+- MCP server
+- AI coding assistant
+- symbol lookup
+- context optimization
+source: https://github.com/altikva/cgh
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T12:45:20Z"
-discovered_at: "2026-08-09T12:50:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T12:45:20Z'
+discovered_at: '2026-08-09T12:50:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

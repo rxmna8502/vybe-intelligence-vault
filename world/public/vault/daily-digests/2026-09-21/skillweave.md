@@ -1,19 +1,36 @@
 ---
-title: "LangeVC/skillweave"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Markdown", "YAML", "JSON", "MCP (Model Context Protocol)", "Capacium", "DuckDuckGo", "Serper", "Tavily", "Brave", "SerpApi", "Perplexity"]
+title: LangeVC/skillweave
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Python
+- Markdown
+- YAML
+- JSON
+- MCP (Model Context Protocol)
+- Capacium
+- DuckDuckGo
+- Serper
+- Tavily
+- Brave
+- SerpApi
+- Perplexity
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "AI development lifecycle", "automated planning", "testing automation", "LLM council"]
-source: "https://github.com/LangeVC/skillweave"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- AI development lifecycle
+- automated planning
+- testing automation
+- LLM council
+source: https://github.com/LangeVC/skillweave
 stars: 4
-language: "Python"
-last_updated: "2026-09-03T04:02:42Z"
-discovered_at: "2026-09-03T22:12:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T04:02:42Z'
+discovered_at: '2026-09-03T22:12:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

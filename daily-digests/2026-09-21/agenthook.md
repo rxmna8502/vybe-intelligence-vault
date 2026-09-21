@@ -1,19 +1,30 @@
 ---
-title: "AvivK5498/agenthook"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "API Integration", "CDN"]
+title: AvivK5498/agenthook
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- API Integration
+- CDN
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI influencers", "UGC generation", "video synthesis", "character consistency", "agent integration"]
-source: "https://github.com/AvivK5498/agenthook"
+deployment_complexity: Medium
+tags:
+- AI influencers
+- UGC generation
+- video synthesis
+- character consistency
+- agent integration
+source: https://github.com/AvivK5498/agenthook
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-15T10:39:31Z"
-discovered_at: "2026-07-15T10:48:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T10:39:31Z'
+discovered_at: '2026-07-15T10:48:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

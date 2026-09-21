@@ -1,19 +1,35 @@
 ---
-title: "shy3130/tick-stock-panel"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Polars", "DuckDB", "React", "TypeScript", "Docker", "Parquet", "AI (OpenAI-compatible APIs)", "APScheduler", "Tailwind CSS"]
+title: shy3130/tick-stock-panel
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-21
+tech_stack:
+- Python
+- FastAPI
+- Polars
+- DuckDB
+- React
+- TypeScript
+- Docker
+- Parquet
+- AI (OpenAI-compatible APIs)
+- APScheduler
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["quantitative trading", "stock analysis", "backtesting", "self-hosted", "AI-assisted"]
-source: "https://github.com/shy3130/tick-stock-panel"
+deployment_complexity: Medium
+tags:
+- quantitative trading
+- stock analysis
+- backtesting
+- self-hosted
+- AI-assisted
+source: https://github.com/shy3130/tick-stock-panel
 stars: 4143
-language: "Python"
-last_updated: "2026-09-02T08:18:24Z"
-discovered_at: "2026-09-02T08:21:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:18:24Z'
+discovered_at: '2026-09-02T08:21:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "takashiishida/arxiv-latex-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "arxiv-to-prompt", "PyPI", "GitHub Actions"]
+title: takashiishida/arxiv-latex-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- arxiv-to-prompt
+- PyPI
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "arXiv integration", "LaTeX processing", "mathematical notation", "AI assistant tools"]
-source: "https://github.com/takashiishida/arxiv-latex-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- arXiv integration
+- LaTeX processing
+- mathematical notation
+- AI assistant tools
+source: https://github.com/takashiishida/arxiv-latex-mcp
 stars: 145
-language: "Python"
-last_updated: "2026-09-03T02:02:17Z"
-discovered_at: "2026-09-03T02:22:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T02:02:17Z'
+discovered_at: '2026-09-03T02:22:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

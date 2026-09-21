@@ -1,19 +1,34 @@
 ---
-title: "k8ssandra/k8ssandra-operator"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Kubernetes", "Apache Cassandra", "DataStax Enterprise (DSE)", "Prometheus", "Vector", "Reaper", "Medusa", "Stargate", "Kubebuilder"]
+title: k8ssandra/k8ssandra-operator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Go
+- Kubernetes
+- Apache Cassandra
+- DataStax Enterprise (DSE)
+- Prometheus
+- Vector
+- Reaper
+- Medusa
+- Stargate
+- Kubebuilder
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["Kubernetes operator", "Cassandra management", "Multi-cluster deployment", "Geo-replication", "DataStax Enterprise"]
-source: "https://github.com/k8ssandra/k8ssandra-operator"
+deployment_complexity: High
+tags:
+- Kubernetes operator
+- Cassandra management
+- Multi-cluster deployment
+- Geo-replication
+- DataStax Enterprise
+source: https://github.com/k8ssandra/k8ssandra-operator
 stars: 240
-language: "Go"
-last_updated: "2026-08-07T12:14:14Z"
-discovered_at: "2026-08-07T13:03:50Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T12:14:14Z'
+discovered_at: '2026-08-07T13:03:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

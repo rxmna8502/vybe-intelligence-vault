@@ -1,19 +1,32 @@
 ---
-title: "LEAN-EnLAN/camofox-agent-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "systemd", "MCP (Model Context Protocol)", "Node.js", "REST API", "Firefox (Camoufox fork)", "Playwright", "Juggler"]
+title: LEAN-EnLAN/camofox-agent-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Shell
+- systemd
+- MCP (Model Context Protocol)
+- Node.js
+- REST API
+- Firefox (Camoufox fork)
+- Playwright
+- Juggler
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["browser automation", "agent integration", "fingerprint spoofing", "systemd service", "MCP server"]
-source: "https://github.com/LEAN-EnLAN/camofox-agent-kit"
+deployment_complexity: Medium
+tags:
+- browser automation
+- agent integration
+- fingerprint spoofing
+- systemd service
+- MCP server
+source: https://github.com/LEAN-EnLAN/camofox-agent-kit
 stars: 0
-language: "Shell"
-last_updated: "2026-08-05T02:04:31Z"
-discovered_at: "2026-08-05T02:18:47Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-05T02:04:31Z'
+discovered_at: '2026-08-05T02:18:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

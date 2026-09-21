@@ -1,19 +1,31 @@
 ---
-title: "aaronjmars/web3-research-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "CoinGecko API", "DeFiLlama API", "Web scraping", "REST APIs"]
+title: aaronjmars/web3-research-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- CoinGecko API
+- DeFiLlama API
+- Web scraping
+- REST APIs
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["cryptocurrency research", "MCP server", "token analysis", "multi-source data", "local AI"]
-source: "https://github.com/aaronjmars/web3-research-mcp"
+deployment_complexity: Low
+tags:
+- cryptocurrency research
+- MCP server
+- token analysis
+- multi-source data
+- local AI
+source: https://github.com/aaronjmars/web3-research-mcp
 stars: 160
-language: "TypeScript"
-last_updated: "2026-07-21T15:02:32Z"
-discovered_at: "2026-07-21T15:03:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T15:02:32Z'
+discovered_at: '2026-07-21T15:03:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

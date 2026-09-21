@@ -1,19 +1,30 @@
 ---
-title: "rubenic6896/openclaw-dashboard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "TailwindCSS", "SQLite", "Windows", "Electron (implied by .exe installer)"]
+title: rubenic6896/openclaw-dashboard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Next.js
+- TailwindCSS
+- SQLite
+- Windows
+- Electron (implied by .exe installer)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agent monitoring", "cost tracking", "local analytics", "system health dashboard", "Windows application"]
-source: "https://github.com/rubenic6896/openclaw-dashboard"
+deployment_complexity: Low
+tags:
+- AI agent monitoring
+- cost tracking
+- local analytics
+- system health dashboard
+- Windows application
+source: https://github.com/rubenic6896/openclaw-dashboard
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-15T14:46:10Z"
-discovered_at: "2026-07-15T14:49:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T14:46:10Z'
+discovered_at: '2026-07-15T14:49:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

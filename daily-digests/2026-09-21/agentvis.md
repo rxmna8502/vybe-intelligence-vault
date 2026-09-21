@@ -1,19 +1,37 @@
 ---
-title: "Muulor/AgentVis"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri 2", "Rust", "React 18", "TypeScript 5", "SQLite", "Python 3.11+", "Vite", "Feishu/Slack API", "Embeddings (SiliconFlow, OpenAI-compatible, Google Gemini)", "BM25", "RRF fusion", "ECharts", "Mermaid"]
+title: Muulor/AgentVis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Tauri 2
+- Rust
+- React 18
+- TypeScript 5
+- SQLite
+- Python 3.11+
+- Vite
+- Feishu/Slack API
+- Embeddings (SiliconFlow, OpenAI-compatible, Google Gemini)
+- BM25
+- RRF fusion
+- ECharts
+- Mermaid
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["multi-agent collaboration", "local-first AI", "human-in-the-loop", "sandboxed execution", "visual runtime"]
-source: "https://github.com/Muulor/AgentVis"
+deployment_complexity: Medium
+tags:
+- multi-agent collaboration
+- local-first AI
+- human-in-the-loop
+- sandboxed execution
+- visual runtime
+source: https://github.com/Muulor/AgentVis
 stars: 3
-language: "TypeScript"
-last_updated: "2026-07-16T18:03:50Z"
-discovered_at: "2026-07-16T18:05:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T18:03:50Z'
+discovered_at: '2026-07-16T18:05:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

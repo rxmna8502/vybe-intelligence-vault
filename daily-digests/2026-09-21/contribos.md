@@ -1,19 +1,29 @@
 ---
-title: "budgetsecernment381/contribos"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Windows App", "LLM Integration", "A2A Protocol", "GitHub API"]
+title: budgetsecernment381/contribos
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- TypeScript
+- Windows App
+- LLM Integration
+- A2A Protocol
+- GitHub API
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["open-source contribution", "AI-assisted coding", "GitHub automation", "developer tooling", "pull request generation"]
-source: "https://github.com/budgetsecernment381/contribos"
+deployment_complexity: Low
+tags:
+- open-source contribution
+- AI-assisted coding
+- GitHub automation
+- developer tooling
+- pull request generation
+source: https://github.com/budgetsecernment381/contribos
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-13T22:53:39Z"
-discovered_at: "2026-07-13T22:55:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T22:53:39Z'
+discovered_at: '2026-07-13T22:55:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

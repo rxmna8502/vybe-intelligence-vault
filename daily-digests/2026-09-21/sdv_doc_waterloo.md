@@ -1,19 +1,32 @@
 ---
-title: "uwe-at-sdv/sdv_doc_waterloo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Sphinx", "Model Context Protocol (MCP)", "Docker", "JSON Schema", "Pytest", "VSCode Extension", "Pygments"]
+title: uwe-at-sdv/sdv_doc_waterloo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python
+- Sphinx
+- Model Context Protocol (MCP)
+- Docker
+- JSON Schema
+- Pytest
+- VSCode Extension
+- Pygments
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["docstring standardization", "MCP server", "documentation validation", "LLM-ready JSON", "Python tooling"]
-source: "https://github.com/uwe-at-sdv/sdv_doc_waterloo"
+deployment_complexity: Medium
+tags:
+- docstring standardization
+- MCP server
+- documentation validation
+- LLM-ready JSON
+- Python tooling
+source: https://github.com/uwe-at-sdv/sdv_doc_waterloo
 stars: 0
-language: "Python"
-last_updated: "2026-07-10T10:45:31Z"
-discovered_at: "2026-07-10T10:51:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T10:45:31Z'
+discovered_at: '2026-07-10T10:51:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

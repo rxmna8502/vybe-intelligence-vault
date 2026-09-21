@@ -1,19 +1,34 @@
 ---
-title: "gilkalman-portfolio/automation"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.12+", "Playwright", "Pytest", "Claude AI SDK", "GitHub Actions", "Telegram Bot API", "Allure", "XML Configuration", "Page Object Model", "API Testing (Requests)"]
+title: gilkalman-portfolio/automation
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Python 3.12+
+- Playwright
+- Pytest
+- Claude AI SDK
+- GitHub Actions
+- Telegram Bot API
+- Allure
+- XML Configuration
+- Page Object Model
+- API Testing (Requests)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["automation testing", "AI-powered testing", "Playwright", "Pytest", "CI/CD"]
-source: "https://github.com/gilkalman-portfolio/automation"
+deployment_complexity: Medium
+tags:
+- automation testing
+- AI-powered testing
+- Playwright
+- Pytest
+- CI/CD
+source: https://github.com/gilkalman-portfolio/automation
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T03:23:47Z"
-discovered_at: "2026-08-08T03:28:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T03:23:47Z'
+discovered_at: '2026-08-08T03:28:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "JokerJohn/openclaw-autotrader"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Trading Algorithms", "Market Data APIs", "Public Dashboarding"]
+title: JokerJohn/openclaw-autotrader
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- JavaScript
+- Trading Algorithms
+- Market Data APIs
+- Public Dashboarding
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["automated trading", "live challenge", "public transparency", "stock market", "trading bot"]
-source: "https://github.com/JokerJohn/openclaw-autotrader"
+deployment_complexity: Medium
+tags:
+- automated trading
+- live challenge
+- public transparency
+- stock market
+- trading bot
+source: https://github.com/JokerJohn/openclaw-autotrader
 stars: 44
-language: "JavaScript"
-last_updated: "2026-09-01T02:37:02Z"
-discovered_at: "2026-09-01T02:51:56Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T02:37:02Z'
+discovered_at: '2026-09-01T02:51:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

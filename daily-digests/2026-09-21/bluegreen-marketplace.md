@@ -1,19 +1,32 @@
 ---
-title: "BluegReeno/bluegreen-marketplace"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "MCP (Model Context Protocol)", "Supabase", "OAuth", "Python", "HTML", "JavaScript", "Shell (for uv package manager)"]
+title: BluegReeno/bluegreen-marketplace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Claude Code
+- MCP (Model Context Protocol)
+- Supabase
+- OAuth
+- Python
+- HTML
+- JavaScript
+- Shell (for uv package manager)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Claude Code plugins", "AI-native workflows", "CRM integration", "Project management", "Building inspection"]
-source: "https://github.com/BluegReeno/bluegreen-marketplace"
+deployment_complexity: Medium
+tags:
+- Claude Code plugins
+- AI-native workflows
+- CRM integration
+- Project management
+- Building inspection
+source: https://github.com/BluegReeno/bluegreen-marketplace
 stars: 0
-language: "HTML"
-last_updated: "2026-08-02T15:01:55Z"
-discovered_at: "2026-08-02T15:02:25Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-02T15:01:55Z'
+discovered_at: '2026-08-02T15:02:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

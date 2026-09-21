@@ -1,19 +1,32 @@
 ---
-title: "wisent-ai/jeden"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Python", "OpenAI-compatible API", "HMAC signing", "Terminal UI", "MCP (Model Context Protocol)", "Probierz (testing framework)"]
+title: wisent-ai/jeden
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- TypeScript
+- Python
+- OpenAI-compatible API
+- HMAC signing
+- Terminal UI
+- MCP (Model Context Protocol)
+- Probierz (testing framework)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["local-first", "coding agent", "terminal harness", "policy enforcement", "session management"]
-source: "https://github.com/wisent-ai/jeden"
+deployment_complexity: Medium
+tags:
+- local-first
+- coding agent
+- terminal harness
+- policy enforcement
+- session management
+source: https://github.com/wisent-ai/jeden
 stars: 0
-language: "Rust"
-last_updated: "2026-08-07T20:40:48Z"
-discovered_at: "2026-08-07T20:42:53Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T20:40:48Z'
+discovered_at: '2026-08-07T20:42:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "YV17labs/NestRS"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "SeaORM", "Poem", "Async-graphql", "RMCP", "Docker", "PostgreSQL", "Redis", "Justfile", "Tokio"]
+title: YV17labs/NestRS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- SeaORM
+- Poem
+- Async-graphql
+- RMCP
+- Docker
+- PostgreSQL
+- Redis
+- Justfile
+- Tokio
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["backend framework", "Rust", "high performance", "multi-tenancy", "compile-time safety"]
-source: "https://github.com/YV17labs/NestRS"
+deployment_complexity: Medium
+tags:
+- backend framework
+- Rust
+- high performance
+- multi-tenancy
+- compile-time safety
+source: https://github.com/YV17labs/NestRS
 stars: 8
-language: "Rust"
-last_updated: "2026-08-07T12:55:55Z"
-discovered_at: "2026-08-07T13:02:40Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T12:55:55Z'
+discovered_at: '2026-08-07T13:02:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "jmagar/arcane-rmcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Docker", "Arcane API", "HTTP", "CLI", "npm"]
+title: jmagar/arcane-rmcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-21
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Docker
+- Arcane API
+- HTTP
+- CLI
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Docker management", "Arcane integration", "container orchestration", "Rust CLI"]
-source: "https://github.com/jmagar/arcane-rmcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Docker management
+- Arcane integration
+- container orchestration
+- Rust CLI
+source: https://github.com/jmagar/arcane-rmcp
 stars: 1
-language: "Rust"
-last_updated: "2026-07-12T11:56:14Z"
-discovered_at: "2026-07-12T11:58:24Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-12T11:56:14Z'
+discovered_at: '2026-07-12T11:58:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
