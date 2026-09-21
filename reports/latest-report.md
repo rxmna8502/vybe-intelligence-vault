@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-21T04:25:25.576121+05:30`
+Generated at: `2026-09-21T09:11:24.451449+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **Pirate Face Rescues LLM Models from Deletion** - Score: `380` (+124), Rank Change: `0` ([File](../ai/community/pirate-face-rescues-llm-models-from-deletion.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/audio-acoustics.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **sickn33/agentic-awesome-skills** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
+- **odsc2015/agentic-hackathon-template** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
+- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/nirdiamant-genai-agents.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/pguso-rag-from-scratch.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **amazon/chronos-2** - (Rank Change: `+257`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
-- **Qwen/Qwen3-0.6B** - (Rank Change: `+257`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
-- **google-t5/t5-small** - (Rank Change: `+257`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
-- **BAAI/bge-m3** - (Rank Change: `+257`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
-- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+257`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
-- **google-bert/bert-base-uncased** - (Rank Change: `+257`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
-- **google/electra-base-discriminator** - (Rank Change: `+257`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
-- **BAAI/bge-small-en-v1.5** - (Rank Change: `+257`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
-- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+257`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
-- **sentence-transformers/all-MiniLM-L6-v2** - (Rank Change: `+257`) ([File](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md))
+- **infiniflow/ragflow** - (Rank Change: `+28128`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25355`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17140`) ([File](../ai/rag/stanford-oval-storm.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+1006`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1006`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **sickn33/agentic-awesome-skills** - (Rank Change: `+1006`) ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
+- **odsc2015/agentic-hackathon-template** - (Rank Change: `+1006`) ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
+- **Senpi-ai/senpi-skills** - (Rank Change: `+1006`) ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **CALLE-AI/awesome-phone-call-agents** - (Rank Change: `+1006`) ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **NirDiamant/GenAI_Agents** - (Rank Change: `+1006`) ([File](../ai/rag/nirdiamant-genai-agents.md))
 
 ## 🔄 Essential Tier Transitions
 
