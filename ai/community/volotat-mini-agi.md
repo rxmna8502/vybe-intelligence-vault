@@ -13,13 +13,14 @@ collected_at: '2026-09-22T02:01:03.109301+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:volotat/mini-agi
 first_seen: '2026-09-21T20:42:46.759329+05:30'
 last_seen: '2026-09-22T02:01:03.109301+05:30'
 last_checked: '2026-09-22T02:01:03.109301+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM
 

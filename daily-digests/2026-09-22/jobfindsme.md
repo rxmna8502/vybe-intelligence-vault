@@ -1,19 +1,33 @@
 ---
-title: "russeell/jobfindsme"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "Chrome CDP (for BOSS\u76f4\u8058)", "HTTP API (for \u730e\u8058)", "FastAPI", "Pydantic", "Ruff", "pytest"]
+title: russeell/jobfindsme
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- Chrome CDP (for BOSS直聘)
+- HTTP API (for 猎聘)
+- FastAPI
+- Pydantic
+- Ruff
+- pytest
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["job search automation", "resume matching", "MCP server", "local processing", "recruitment tools"]
-source: "https://github.com/russeell/jobfindsme"
+deployment_complexity: Medium
+tags:
+- job search automation
+- resume matching
+- MCP server
+- local processing
+- recruitment tools
+source: https://github.com/russeell/jobfindsme
 stars: 5
-language: "Python"
-last_updated: "2026-08-01T16:06:12Z"
-discovered_at: "2026-08-01T16:06:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T16:06:12Z'
+discovered_at: '2026-08-01T16:06:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

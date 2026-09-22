@@ -1,19 +1,29 @@
 ---
-title: "TurboT00/orbitrelay-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI", "LLM API Integration", "OS Credential Store", "Event-Driven Architecture"]
+title: TurboT00/orbitrelay-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- CLI
+- LLM API Integration
+- OS Credential Store
+- Event-Driven Architecture
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personal assistant", "LLM agent", "workspace tools", "session management", "approval policies"]
-source: "https://github.com/TurboT00/orbitrelay-agent"
+deployment_complexity: Medium
+tags:
+- personal assistant
+- LLM agent
+- workspace tools
+- session management
+- approval policies
+source: https://github.com/TurboT00/orbitrelay-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T16:03:16Z"
-discovered_at: "2026-08-02T16:11:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T16:03:16Z'
+discovered_at: '2026-08-02T16:11:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

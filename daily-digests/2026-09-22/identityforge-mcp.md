@@ -1,19 +1,34 @@
 ---
-title: "KasayoDotCom/identityforge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "CSS", "Tailwind CSS", "JSON", "DTCG Tokens", "React", "Agent Frameworks"]
+title: KasayoDotCom/identityforge-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- CSS
+- Tailwind CSS
+- JSON
+- DTCG Tokens
+- React
+- Agent Frameworks
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["design systems", "branding", "MCP server", "agent tools", "UI/UX automation"]
-source: "https://github.com/KasayoDotCom/identityforge-mcp"
+deployment_complexity: Medium
+tags:
+- design systems
+- branding
+- MCP server
+- agent tools
+- UI/UX automation
+source: https://github.com/KasayoDotCom/identityforge-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T14:52:13Z"
-discovered_at: "2026-08-01T15:01:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T14:52:13Z'
+discovered_at: '2026-08-01T15:01:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

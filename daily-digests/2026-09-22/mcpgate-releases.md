@@ -1,19 +1,35 @@
 ---
-title: "FojleRabbiRabib/MCPGate-Releases"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "React", "TypeScript", "SQLite", "ed25519", "SHA256", "Systemd", "Windows Service", "SSE", "HTTP/2", "Docker (implied for deployment)"]
+title: FojleRabbiRabib/MCPGate-Releases
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- React
+- TypeScript
+- SQLite
+- ed25519
+- SHA256
+- Systemd
+- Windows Service
+- SSE
+- HTTP/2
+- Docker (implied for deployment)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP bridge", "agent server", "enterprise tooling", "self-update", "secure deployment"]
-source: "https://github.com/FojleRabbiRabib/MCPGate-Releases"
+deployment_complexity: Medium
+tags:
+- MCP bridge
+- agent server
+- enterprise tooling
+- self-update
+- secure deployment
+source: https://github.com/FojleRabbiRabib/MCPGate-Releases
 stars: 0
-language: "Shell"
-last_updated: "2026-08-05T13:55:45Z"
-discovered_at: "2026-08-05T14:07:20Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-05T13:55:45Z'
+discovered_at: '2026-08-05T14:07:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "leecaochang/phoenix-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Home Assistant", "MCP (Model Context Protocol)", "REST APIs", "Custom Integration"]
+title: leecaochang/phoenix-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Home Assistant
+- MCP (Model Context Protocol)
+- REST APIs
+- Custom Integration
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["Home Automation", "AI Agent Access Control", "Security", "Home Assistant Integration", "MCP"]
-source: "https://github.com/leecaochang/phoenix-mcp"
+deployment_complexity: Low
+tags:
+- Home Automation
+- AI Agent Access Control
+- Security
+- Home Assistant Integration
+- MCP
+source: https://github.com/leecaochang/phoenix-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T10:27:40Z"
-discovered_at: "2026-08-02T10:41:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T10:27:40Z'
+discovered_at: '2026-08-02T10:41:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

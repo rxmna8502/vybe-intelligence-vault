@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: amazon/chronos-2 (Likes: 484, Downloads: 22629668)
+Trending Hugging Face model: amazon/chronos-2 (Likes: 485, Downloads: 22629668)
 
 ## Use Cases
 

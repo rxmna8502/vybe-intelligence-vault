@@ -1,19 +1,32 @@
 ---
-title: "spuentesp/lain"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Language Server Protocol (LSP)", "Tree-sitter", "Git", "ONNX", "MCP (Model Context Protocol)", "HTTP", "JSON"]
+title: spuentesp/lain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- Language Server Protocol (LSP)
+- Tree-sitter
+- Git
+- ONNX
+- MCP (Model Context Protocol)
+- HTTP
+- JSON
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["code intelligence", "knowledge graph", "MCP server", "dependency analysis", "AI coding assistant"]
-source: "https://github.com/spuentesp/lain"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- knowledge graph
+- MCP server
+- dependency analysis
+- AI coding assistant
+source: https://github.com/spuentesp/lain
 stars: 6
-language: "Rust"
-last_updated: "2026-08-07T20:39:59Z"
-discovered_at: "2026-08-07T20:42:57Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T20:39:59Z'
+discovered_at: '2026-08-07T20:42:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

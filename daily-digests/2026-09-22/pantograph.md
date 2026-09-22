@@ -1,19 +1,33 @@
 ---
-title: "madebyrayz/pantograph"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "React Flow", "Python", "Rhino 8", "Claude CLI", "MCP (Model Context Protocol)", "Node.js", "pnpm"]
+title: madebyrayz/pantograph
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- React
+- React Flow
+- Python
+- Rhino 8
+- Claude CLI
+- MCP (Model Context Protocol)
+- Node.js
+- pnpm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["CAD", "Agentic Design", "Rhino Integration", "Definition Graph", "Parametric Modeling"]
-source: "https://github.com/madebyrayz/pantograph"
+deployment_complexity: High
+tags:
+- CAD
+- Agentic Design
+- Rhino Integration
+- Definition Graph
+- Parametric Modeling
+source: https://github.com/madebyrayz/pantograph
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:42:49Z"
-discovered_at: "2026-09-01T02:50:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:42:49Z'
+discovered_at: '2026-09-01T02:50:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

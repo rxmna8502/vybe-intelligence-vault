@@ -1,19 +1,27 @@
 ---
-title: "marianavieeira81-tech/apresentacao-rui"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["HTML", "CSS", "JavaScript"]
+title: marianavieeira81-tech/apresentacao-rui
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- HTML
+- CSS
+- JavaScript
 quality_score: 5
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["AI Agent", "WhatsApp Integration", "Lead Automation", "Commercial Presentation", "Dealership Tool"]
-source: "https://github.com/marianavieeira81-tech/apresentacao-rui"
+deployment_complexity: Low
+tags:
+- AI Agent
+- WhatsApp Integration
+- Lead Automation
+- Commercial Presentation
+- Dealership Tool
+source: https://github.com/marianavieeira81-tech/apresentacao-rui
 stars: 0
-language: "HTML"
-last_updated: "2026-08-01T20:50:02Z"
-discovered_at: "2026-08-01T20:51:03Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-01T20:50:02Z'
+discovered_at: '2026-08-01T20:51:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

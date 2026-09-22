@@ -1,19 +1,30 @@
 ---
-title: "Keenan-ux/boothcheck-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "Python", "REST API", "OAuth 2.1", "JSON", "SEC EDGAR Data Processing"]
+title: Keenan-ux/boothcheck-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Model Context Protocol (MCP)
+- Python
+- REST API
+- OAuth 2.1
+- JSON
+- SEC EDGAR Data Processing
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["financial analysis", "SEC EDGAR", "stock price decomposition", "investment insights", "MCP server"]
-source: "https://github.com/Keenan-ux/boothcheck-mcp"
+deployment_complexity: Low
+tags:
+- financial analysis
+- SEC EDGAR
+- stock price decomposition
+- investment insights
+- MCP server
+source: https://github.com/Keenan-ux/boothcheck-mcp
 stars: 0
-language: "None"
-last_updated: "2026-08-09T13:48:23Z"
-discovered_at: "2026-08-09T13:53:59Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T13:48:23Z'
+discovered_at: '2026-08-09T13:53:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

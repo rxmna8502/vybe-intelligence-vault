@@ -1,19 +1,29 @@
 ---
-title: "kaiwutech-TW/flightwake"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Markdown", "Git", "YAML Frontmatter"]
+title: kaiwutech-TW/flightwake
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JavaScript
+- Node.js
+- Markdown
+- Git
+- YAML Frontmatter
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["work recording", "AI agent framework", "session continuity", "git-based state tracking", "lightweight"]
-source: "https://github.com/kaiwutech-TW/flightwake"
+deployment_complexity: Low
+tags:
+- work recording
+- AI agent framework
+- session continuity
+- git-based state tracking
+- lightweight
+source: https://github.com/kaiwutech-TW/flightwake
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-18T13:02:33Z"
-discovered_at: "2026-07-18T13:09:54Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T13:02:33Z'
+discovered_at: '2026-07-18T13:09:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

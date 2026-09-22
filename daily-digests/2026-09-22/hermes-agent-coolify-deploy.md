@@ -1,19 +1,32 @@
 ---
-title: "yucel-yilmaz/hermes-agent-coolify-deploy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Bash", "Docker", "Coolify", "Traefik", "SSH", "Python", "YAML", "Shell Scripting"]
+title: yucel-yilmaz/hermes-agent-coolify-deploy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Bash
+- Docker
+- Coolify
+- Traefik
+- SSH
+- Python
+- YAML
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["deployment", "coolify", "hermes-agent", "docker-compose", "vps"]
-source: "https://github.com/yucel-yilmaz/hermes-agent-coolify-deploy"
+deployment_complexity: Medium
+tags:
+- deployment
+- coolify
+- hermes-agent
+- docker-compose
+- vps
+source: https://github.com/yucel-yilmaz/hermes-agent-coolify-deploy
 stars: 0
-language: "Shell"
-last_updated: "2026-07-10T23:02:56Z"
-discovered_at: "2026-07-10T23:08:26Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-10T23:02:56Z'
+discovered_at: '2026-07-10T23:08:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

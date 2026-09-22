@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://poloclub.github.io/transformer-explainer
 hn_url: https://news.ycombinator.com/item?id=49792342
-score: 6
+score: 278
 author: aray07
-comments_count: 0
+comments_count: 43
 published_at: '2026-09-22T01:13:49+05:30'
-collected_at: '2026-09-22T02:01:01.697792+05:30'
+collected_at: '2026-09-22T10:38:28.853631+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:transformers-explained-visually
 first_seen: '2026-09-22T02:01:01.697792+05:30'
-last_seen: '2026-09-22T02:01:01.697792+05:30'
-last_checked: '2026-09-22T02:01:01.697792+05:30'
+last_seen: '2026-09-22T10:38:28.853631+05:30'
+last_checked: '2026-09-22T10:38:28.853631+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by aray07. Score: 6, Comments: 0.
+Hacker News story by aray07. Score: 278, Comments: 43.
 Original Link: https://poloclub.github.io/transformer-explainer/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: aray07
-- Score: 6 Upvotes
-- Comments: 0 Discussions
+- Score: 278 Upvotes
+- Comments: 43 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49792342
 - Original Article: https://poloclub.github.io/transformer-explainer
 

@@ -1,19 +1,36 @@
 ---
-title: "soaebhasan12/organBridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Django", "Python", "Scikit-learn", "TF-IDF", "Cosine Similarity", "Tailwind CSS", "HTMX", "SQLite", "PostgreSQL", "Gemini API", "SHAP", "Fairlearn"]
+title: soaebhasan12/organBridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Django
+- Python
+- Scikit-learn
+- TF-IDF
+- Cosine Similarity
+- Tailwind CSS
+- HTMX
+- SQLite
+- PostgreSQL
+- Gemini API
+- SHAP
+- Fairlearn
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["organ matching", "bias detection", "explainable AI", "healthcare AI", "Django application"]
-source: "https://github.com/soaebhasan12/organBridge"
+deployment_complexity: Medium
+tags:
+- organ matching
+- bias detection
+- explainable AI
+- healthcare AI
+- Django application
+source: https://github.com/soaebhasan12/organBridge
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T18:31:50Z"
-discovered_at: "2026-08-08T18:39:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T18:31:50Z'
+discovered_at: '2026-08-08T18:39:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

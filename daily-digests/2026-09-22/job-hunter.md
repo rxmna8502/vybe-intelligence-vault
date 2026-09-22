@@ -1,19 +1,36 @@
 ---
-title: "Yahiaelgayarrr/Job-Hunter"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Supabase", "pgvector", "LangGraph", "Mistral", "Voyage", "Groq", "OpenAI", "OpenRouter", "Tavily", "PostgreSQL"]
+title: Yahiaelgayarrr/Job-Hunter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- Supabase
+- pgvector
+- LangGraph
+- Mistral
+- Voyage
+- Groq
+- OpenAI
+- OpenRouter
+- Tavily
+- PostgreSQL
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "Agentic Workflows", "Vector Search", "CV Intelligence", "Career Matching"]
-source: "https://github.com/Yahiaelgayarrr/Job-Hunter"
+deployment_complexity: Medium
+tags:
+- RAG
+- Agentic Workflows
+- Vector Search
+- CV Intelligence
+- Career Matching
+source: https://github.com/Yahiaelgayarrr/Job-Hunter
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T13:23:06Z"
-discovered_at: "2026-08-07T14:20:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T13:23:06Z'
+discovered_at: '2026-08-07T14:20:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

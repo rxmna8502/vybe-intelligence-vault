@@ -1,19 +1,31 @@
 ---
-title: "scainet-enterprise/forge-releases"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Tauri", "Rust", "Svelte", "Electron (implied for comparison)", "Git", "MCP (Model Context Protocol)", "LLM APIs (Grok, Claude, GPT, Ollama)"]
+title: scainet-enterprise/forge-releases
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Tauri
+- Rust
+- Svelte
+- Electron (implied for comparison)
+- Git
+- MCP (Model Context Protocol)
+- LLM APIs (Grok, Claude, GPT, Ollama)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI-driven development", "voice-first interface", "agent governance", "desktop application", "MCP integration"]
-source: "https://github.com/scainet-enterprise/forge-releases"
+deployment_complexity: Low
+tags:
+- AI-driven development
+- voice-first interface
+- agent governance
+- desktop application
+- MCP integration
+source: https://github.com/scainet-enterprise/forge-releases
 stars: 0
-language: "None"
-last_updated: "2026-07-11T11:02:21Z"
-discovered_at: "2026-07-11T11:03:28Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-11T11:02:21Z'
+discovered_at: '2026-07-11T11:03:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

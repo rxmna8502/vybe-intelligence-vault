@@ -1,19 +1,31 @@
 ---
-title: "XJungit/seeker-craft"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Azalea (Minecraft protocol client)", "LLM (OpenAI-compatible backends)", "Axum (web dashboard)", "Rhai (scripting for actions)", "TOML (configuration)", "SSE (real-time updates)"]
+title: XJungit/seeker-craft
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- Azalea (Minecraft protocol client)
+- LLM (OpenAI-compatible backends)
+- Axum (web dashboard)
+- Rhai (scripting for actions)
+- TOML (configuration)
+- SSE (real-time updates)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["Minecraft automation", "LLM agent", "Rust toolchain", "protocol client", "autonomous gameplay"]
-source: "https://github.com/XJungit/seeker-craft"
+deployment_complexity: High
+tags:
+- Minecraft automation
+- LLM agent
+- Rust toolchain
+- protocol client
+- autonomous gameplay
+source: https://github.com/XJungit/seeker-craft
 stars: 0
-language: "Rust"
-last_updated: "2026-08-01T13:13:09Z"
-discovered_at: "2026-08-01T13:16:23Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T13:13:09Z'
+discovered_at: '2026-08-01T13:16:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "bigknoxy/joshbot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "LLM APIs (OpenRouter, Anthropic, OpenAI, Groq, etc.)", "Telegram Bot API", "Structured Markdown for skills/memory", "Docker", "GitHub Actions (CI/CD)"]
+title: bigknoxy/joshbot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- LLM APIs (OpenRouter, Anthropic, OpenAI, Groq, etc.)
+- Telegram Bot API
+- Structured Markdown for skills/memory
+- Docker
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-hosted AI", "memory management", "agent delegation", "multi-provider LLM", "skills system"]
-source: "https://github.com/bigknoxy/joshbot"
+deployment_complexity: Medium
+tags:
+- self-hosted AI
+- memory management
+- agent delegation
+- multi-provider LLM
+- skills system
+source: https://github.com/bigknoxy/joshbot
 stars: 0
-language: "Go"
-last_updated: "2026-08-09T01:27:45Z"
-discovered_at: "2026-08-09T01:33:07Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-09T01:27:45Z'
+discovered_at: '2026-08-09T01:33:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

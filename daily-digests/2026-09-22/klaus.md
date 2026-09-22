@@ -1,19 +1,33 @@
 ---
-title: "jan-bassen/klaus"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Docker", "WhatsApp API", "Obsidian Sync", "OpenRouter API", "Cron Scheduling", "Markdown", "HTML"]
+title: jan-bassen/klaus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- WhatsApp API
+- Obsidian Sync
+- OpenRouter API
+- Cron Scheduling
+- Markdown
+- HTML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["personal AI agent", "self-hosted", "Obsidian integration", "WhatsApp assistant", "Markdown-driven"]
-source: "https://github.com/jan-bassen/klaus"
+deployment_complexity: Medium
+tags:
+- personal AI agent
+- self-hosted
+- Obsidian integration
+- WhatsApp assistant
+- Markdown-driven
+source: https://github.com/jan-bassen/klaus
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-13T16:31:12Z"
-discovered_at: "2026-07-13T16:31:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T16:31:12Z'
+discovered_at: '2026-07-13T16:31:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

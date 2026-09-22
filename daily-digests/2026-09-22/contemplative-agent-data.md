@@ -1,19 +1,31 @@
 ---
-title: "shimo4228/contemplative-agent-data"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JSON", "Markdown", "CC0-1.0 License", "Zenodo", "Hugging Face Datasets", "Active Inference", "Knowledge Distillation"]
+title: shimo4228/contemplative-agent-data
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JSON
+- Markdown
+- CC0-1.0 License
+- Zenodo
+- Hugging Face Datasets
+- Active Inference
+- Knowledge Distillation
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["autonomous agents", "runtime memory", "knowledge distillation", "ethical AI", "research dataset"]
-source: "https://github.com/shimo4228/contemplative-agent-data"
+deployment_complexity: Low
+tags:
+- autonomous agents
+- runtime memory
+- knowledge distillation
+- ethical AI
+- research dataset
+source: https://github.com/shimo4228/contemplative-agent-data
 stars: 1
-language: "None"
-last_updated: "2026-08-08T20:30:16Z"
-discovered_at: "2026-08-08T20:31:55Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T20:30:16Z'
+discovered_at: '2026-08-08T20:31:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

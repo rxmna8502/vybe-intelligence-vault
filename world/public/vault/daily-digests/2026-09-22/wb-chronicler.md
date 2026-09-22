@@ -1,19 +1,33 @@
 ---
-title: "Jbz797/wb-chronicler"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Angular", "TypeScript", "Python", "Claude Code", "NG-ZORRO", "ngx-markdown", "SQLite", "Node.js", "Yarn"]
+title: Jbz797/wb-chronicler
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Angular
+- TypeScript
+- Python
+- Claude Code
+- NG-ZORRO
+- ngx-markdown
+- SQLite
+- Node.js
+- Yarn
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["game narrative generation", "world state persistence", "Claude Code integration", "Angular reader", "WorldBox tooling"]
-source: "https://github.com/Jbz797/wb-chronicler"
+deployment_complexity: Medium
+tags:
+- game narrative generation
+- world state persistence
+- Claude Code integration
+- Angular reader
+- WorldBox tooling
+source: https://github.com/Jbz797/wb-chronicler
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T18:59:37Z"
-discovered_at: "2026-09-01T19:05:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:59:37Z'
+discovered_at: '2026-09-01T19:05:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

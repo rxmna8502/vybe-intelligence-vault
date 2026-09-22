@@ -1,19 +1,34 @@
 ---
-title: "akinwumifakokunde-source/devmind-ai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LangChain", "LangGraph", "Groq", "FAISS", "Hugging Face", "GitPython", "Tree-sitter", "NetworkX", "Pydantic"]
+title: akinwumifakokunde-source/devmind-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- Groq
+- FAISS
+- Hugging Face
+- GitPython
+- Tree-sitter
+- NetworkX
+- Pydantic
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["code analysis", "repository intelligence", "RAG", "dependency analysis", "AI code review"]
-source: "https://github.com/akinwumifakokunde-source/devmind-ai"
+deployment_complexity: Medium
+tags:
+- code analysis
+- repository intelligence
+- RAG
+- dependency analysis
+- AI code review
+source: https://github.com/akinwumifakokunde-source/devmind-ai
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T21:36:59Z"
-discovered_at: "2026-08-07T21:41:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T21:36:59Z'
+discovered_at: '2026-08-07T21:41:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "shihuili1218/rssh"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "SQLite", "ChaCha20-Poly1305", "xterm.js", "Docker", "Kubernetes", "JetBrains Plugin API"]
+title: shihuili1218/rssh
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- Tauri
+- SQLite
+- ChaCha20-Poly1305
+- xterm.js
+- Docker
+- Kubernetes
+- JetBrains Plugin API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SSH client", "AI copilot", "terminal automation", "remote operations", "multi-platform"]
-source: "https://github.com/shihuili1218/rssh"
+deployment_complexity: Medium
+tags:
+- SSH client
+- AI copilot
+- terminal automation
+- remote operations
+- multi-platform
+source: https://github.com/shihuili1218/rssh
 stars: 454
-language: "Rust"
-last_updated: "2026-08-06T03:14:09Z"
-discovered_at: "2026-08-06T03:18:45Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-06T03:14:09Z'
+discovered_at: '2026-08-06T03:18:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

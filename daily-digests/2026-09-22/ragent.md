@@ -1,19 +1,34 @@
 ---
-title: "thawkins/ragent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "LLM Providers (Anthropic, OpenAI, Google Gemini, Ollama, etc.)", "Terminal UI (ratatui)", "SQLite", "Tokio (async runtime)", "Tree-sitter (code parsing)", "Tantivy (full-text search)", "Axum (HTTP server)", "Model Context Protocol (MCP)", "JSON/YAML (configuration)"]
+title: thawkins/ragent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- LLM Providers (Anthropic, OpenAI, Google Gemini, Ollama, etc.)
+- Terminal UI (ratatui)
+- SQLite
+- Tokio (async runtime)
+- Tree-sitter (code parsing)
+- Tantivy (full-text search)
+- Axum (HTTP server)
+- Model Context Protocol (MCP)
+- JSON/YAML (configuration)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "multi-provider LLM", "terminal UI", "Rust", "agent orchestration"]
-source: "https://github.com/thawkins/ragent"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- multi-provider LLM
+- terminal UI
+- Rust
+- agent orchestration
+source: https://github.com/thawkins/ragent
 stars: 0
-language: "Rust"
-last_updated: "2026-08-08T19:28:36Z"
-discovered_at: "2026-08-08T19:33:08Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T19:28:36Z'
+discovered_at: '2026-08-08T19:33:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "Void-n-Null/ImagineAppWeb"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "TanStack Start", "Neon Postgres", "Drizzle ORM", "Clerk (Auth)", "Upstash Redis", "PostHog (Analytics)", "Bun", "Biome", "Vitest", "OpenRouter API", "Best Buy Public API", "Tesseract.js (OCR)"]
+title: Void-n-Null/ImagineAppWeb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- React
+- TanStack Start
+- Neon Postgres
+- Drizzle ORM
+- Clerk (Auth)
+- Upstash Redis
+- PostHog (Analytics)
+- Bun
+- Biome
+- Vitest
+- OpenRouter API
+- Best Buy Public API
+- Tesseract.js (OCR)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI shopping assistant", "agent loop", "barcode scanning", "OCR fallback", "metered usage"]
-source: "https://github.com/Void-n-Null/ImagineAppWeb"
+deployment_complexity: Medium
+tags:
+- AI shopping assistant
+- agent loop
+- barcode scanning
+- OCR fallback
+- metered usage
+source: https://github.com/Void-n-Null/ImagineAppWeb
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-18T17:48:45Z"
-discovered_at: "2026-07-18T17:56:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T17:48:45Z'
+discovered_at: '2026-07-18T17:56:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

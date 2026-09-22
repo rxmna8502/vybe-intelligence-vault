@@ -13,13 +13,14 @@ collected_at: '2026-09-22T02:01:02.171330+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:avoiding-the-babbling-idiot-failure-in-a-time-trig
 first_seen: '2026-09-22T02:01:02.171330+05:30'
 last_seen: '2026-09-22T02:01:02.171330+05:30'
 last_checked: '2026-09-22T02:01:02.171330+05:30'
 health_score: 100
 ---
+
 
 # Avoiding the babbling-idiot failure in a time-triggered communication system
 

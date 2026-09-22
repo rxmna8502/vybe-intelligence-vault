@@ -1,19 +1,30 @@
 ---
-title: "velesnitski/slk-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Docker", "Slack API", "whisper.cpp", "ffmpeg", "MCP (Model Context Protocol)"]
+title: velesnitski/slk-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- Docker
+- Slack API
+- whisper.cpp
+- ffmpeg
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Slack integration", "MCP server", "AI assistant", "voice transcription", "workspace automation"]
-source: "https://github.com/velesnitski/slk-mcp"
+deployment_complexity: Medium
+tags:
+- Slack integration
+- MCP server
+- AI assistant
+- voice transcription
+- workspace automation
+source: https://github.com/velesnitski/slk-mcp
 stars: 1
-language: "Go"
-last_updated: "2026-07-13T18:32:59Z"
-discovered_at: "2026-07-13T18:43:22Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-13T18:32:59Z'
+discovered_at: '2026-07-13T18:43:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

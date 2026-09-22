@@ -1,19 +1,33 @@
 ---
-title: "xyonium/reach-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "RSS", "Scraping", "APIs (GitHub, arXiv, HackerNews, etc.)", "LLM Integration (OpenAI, Gemini, etc.)", "Docker", "GitHub Actions"]
+title: xyonium/reach-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- RSS
+- Scraping
+- APIs (GitHub, arXiv, HackerNews, etc.)
+- LLM Integration (OpenAI, Gemini, etc.)
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-source search", "MCP server", "AI agent tooling", "real-time data aggregation", "open-source"]
-source: "https://github.com/xyonium/reach-mcp"
+deployment_complexity: Medium
+tags:
+- multi-source search
+- MCP server
+- AI agent tooling
+- real-time data aggregation
+- open-source
+source: https://github.com/xyonium/reach-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T16:03:32Z"
-discovered_at: "2026-08-01T16:06:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T16:03:32Z'
+discovered_at: '2026-08-01T16:06:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

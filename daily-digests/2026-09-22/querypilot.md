@@ -1,19 +1,34 @@
 ---
-title: "nickklos10/QueryPilot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQL", "SQLite", "PostgreSQL", "FastAPI", "Pydantic", "sqlglot", "OpenAI API", "Anthropic API", "MCP (Model Context Protocol)"]
+title: nickklos10/QueryPilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- SQL
+- SQLite
+- PostgreSQL
+- FastAPI
+- Pydantic
+- sqlglot
+- OpenAI API
+- Anthropic API
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["SQL validation", "AI agent reliability", "regression testing", "database access control", "eval-driven development"]
-source: "https://github.com/nickklos10/QueryPilot"
+deployment_complexity: Medium
+tags:
+- SQL validation
+- AI agent reliability
+- regression testing
+- database access control
+- eval-driven development
+source: https://github.com/nickklos10/QueryPilot
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T17:50:11Z"
-discovered_at: "2026-07-11T17:54:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T17:50:11Z'
+discovered_at: '2026-07-11T17:54:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "neuronto/agentic-resource-discovery"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "BM25 (Sparse Retrieval)", "Vector Embeddings (Dense Retrieval)", "Reciprocal Rank Fusion (RRF)", "MCP (Model Context Protocol)", "OpenAPI", "Docker", "PostgreSQL", "Redis"]
+title: neuronto/agentic-resource-discovery
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- BM25 (Sparse Retrieval)
+- Vector Embeddings (Dense Retrieval)
+- Reciprocal Rank Fusion (RRF)
+- MCP (Model Context Protocol)
+- OpenAPI
+- Docker
+- PostgreSQL
+- Redis
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["Agentic Resource Discovery", "Federated Search", "MCP Servers", "Hybrid Retrieval", "Tool Verification"]
-source: "https://github.com/neuronto/agentic-resource-discovery"
+deployment_complexity: High
+tags:
+- Agentic Resource Discovery
+- Federated Search
+- MCP Servers
+- Hybrid Retrieval
+- Tool Verification
+source: https://github.com/neuronto/agentic-resource-discovery
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T15:20:10Z"
-discovered_at: "2026-09-01T15:55:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:20:10Z'
+discovered_at: '2026-09-01T15:55:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

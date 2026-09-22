@@ -1,19 +1,29 @@
 ---
-title: "lora-sys/shape-up-project-shaping"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Shell Scripting", "AI Agent Frameworks", "Project Management Methodologies"]
+title: lora-sys/shape-up-project-shaping
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Python
+- Markdown
+- Shell Scripting
+- AI Agent Frameworks
+- Project Management Methodologies
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["project shaping", "MVP planning", "scope management", "AI agent collaboration", "decision-making framework"]
-source: "https://github.com/lora-sys/shape-up-project-shaping"
+deployment_complexity: Low
+tags:
+- project shaping
+- MVP planning
+- scope management
+- AI agent collaboration
+- decision-making framework
+source: https://github.com/lora-sys/shape-up-project-shaping
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T18:21:42Z"
-discovered_at: "2026-08-05T18:24:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T18:21:42Z'
+discovered_at: '2026-08-05T18:24:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

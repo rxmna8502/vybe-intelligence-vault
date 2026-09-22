@@ -1,19 +1,35 @@
 ---
-title: "john-walkoe/uspto_ptab_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "PyPDF2", "Mistral OCR", "Docling", "Docker", "Windows DPAPI", "YAML", "JWT", "HTTP Transport", "STDIO Transport"]
+title: john-walkoe/uspto_ptab_mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastMCP
+- PyPDF2
+- Mistral OCR
+- Docling
+- Docker
+- Windows DPAPI
+- YAML
+- JWT
+- HTTP Transport
+- STDIO Transport
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["USPTO PTAB", "MCP Server", "Patent Analysis", "Context Reduction", "Document Extraction"]
-source: "https://github.com/john-walkoe/uspto_ptab_mcp"
+deployment_complexity: Medium
+tags:
+- USPTO PTAB
+- MCP Server
+- Patent Analysis
+- Context Reduction
+- Document Extraction
+source: https://github.com/john-walkoe/uspto_ptab_mcp
 stars: 4
-language: "Python"
-last_updated: "2026-07-19T05:50:13Z"
-discovered_at: "2026-07-19T05:51:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T05:50:13Z'
+discovered_at: '2026-07-19T05:51:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

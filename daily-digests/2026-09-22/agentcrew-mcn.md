@@ -1,19 +1,33 @@
 ---
-title: "super-rick/agentcrew-mcn"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "DeepSeek API", "ChromaDB", "Playwright", "Streamlit", "Click", "Rich", "Plotly", "YAML"]
+title: super-rick/agentcrew-mcn
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- DeepSeek API
+- ChromaDB
+- Playwright
+- Streamlit
+- Click
+- Rich
+- Plotly
+- YAML
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "content automation", "RAG", "cross-platform publishing", "AI marketing"]
-source: "https://github.com/super-rick/agentcrew-mcn"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- content automation
+- RAG
+- cross-platform publishing
+- AI marketing
+source: https://github.com/super-rick/agentcrew-mcn
 stars: 1
-language: "Python"
-last_updated: "2026-07-19T11:54:27Z"
-discovered_at: "2026-07-19T11:56:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T11:54:27Z'
+discovered_at: '2026-07-19T11:56:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

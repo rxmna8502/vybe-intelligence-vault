@@ -1,19 +1,33 @@
 ---
-title: "clay-good/reprolith"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SBML", "COPASI", "libSBML", "libRoadRunner", "JSON-RPC", "MCP Server", "scipy", "BioSimulators"]
+title: clay-good/reprolith
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- SBML
+- COPASI
+- libSBML
+- libRoadRunner
+- JSON-RPC
+- MCP Server
+- scipy
+- BioSimulators
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["reproducibility", "biomedical modeling", "certification", "model validation", "automated testing"]
-source: "https://github.com/clay-good/reprolith"
+deployment_complexity: Medium
+tags:
+- reproducibility
+- biomedical modeling
+- certification
+- model validation
+- automated testing
+source: https://github.com/clay-good/reprolith
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T20:42:41Z"
-discovered_at: "2026-08-07T20:42:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T20:42:41Z'
+discovered_at: '2026-08-07T20:42:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

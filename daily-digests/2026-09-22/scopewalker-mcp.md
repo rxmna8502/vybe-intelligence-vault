@@ -1,19 +1,31 @@
 ---
-title: "timohaa/scopewalker-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "tree-sitter", "tokei", "fast-glob", "MCP (Model Context Protocol)", "AST Parsing"]
+title: timohaa/scopewalker-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- tree-sitter
+- tokei
+- fast-glob
+- MCP (Model Context Protocol)
+- AST Parsing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["code analysis", "MCP server", "AI agent tooling", "code quality", "static analysis"]
-source: "https://github.com/timohaa/scopewalker-mcp"
+deployment_complexity: Low
+tags:
+- code analysis
+- MCP server
+- AI agent tooling
+- code quality
+- static analysis
+source: https://github.com/timohaa/scopewalker-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T01:23:35Z"
-discovered_at: "2026-08-09T01:34:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T01:23:35Z'
+discovered_at: '2026-08-09T01:34:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

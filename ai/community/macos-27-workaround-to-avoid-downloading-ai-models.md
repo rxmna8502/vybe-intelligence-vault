@@ -15,13 +15,14 @@ tags:
 - hackernews
 - rag
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:macos-27-workaround-to-avoid-downloading-ai-models
 first_seen: '2026-09-21T20:42:46.453607+05:30'
 last_seen: '2026-09-22T02:01:02.737517+05:30'
 last_checked: '2026-09-22T02:01:02.737517+05:30'
 health_score: 100
 ---
+
 
 # macOS 27: Workaround to avoid downloading AI models and save storage
 

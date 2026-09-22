@@ -13,6 +13,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents](https://arxiv.org/abs/2605.01143) | `ai-coding-agents/` | 70 |
 | [SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at Scale](https://arxiv.org/abs/2609.08228) | `ai-coding-agents/` | 70 |
 | [Beyond Scaling: Self-Evolving LLM Agents for Hardware Kernel Optimization via an Experience-Driven Workflow and Experience Graph Memory](https://arxiv.org/abs/2608.25570) | `ai-coding-agents/` | 70 |
+| [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](https://arxiv.org/abs/2609.24890) | `ai-coding-agents/` | 70 |
 | [Empirical Grounding Improves the Realism of LLM Agents Simulating Human Behavior During Disruptions](https://arxiv.org/abs/2607.17437) | `ai-coding-agents/` | 70 |
 | [Consistent Zero-Shot Imitation with Contrastive Goal Inference](https://arxiv.org/abs/2510.17059) | `ai-coding-agents/` | 70 |
 | [ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection](https://arxiv.org/abs/2608.20637) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [NeuCME: Toward Dynamic Multimodal Continual Learning via Neural Combinatorics of Multiple Experts](https://arxiv.org/abs/2609.07009) | `ai-coding-agents/` | 70 |
 | [ObGynLongBench: Revealing the Evidence-to-EHR Gap in Longitudinal EHR Decision-Making](https://arxiv.org/abs/2609.07601) | `ai-coding-agents/` | 70 |
 | [An Analysis of the Coordination Gap between Joint and Modular Learning for Job Shop Scheduling with Transportation Resources](https://arxiv.org/abs/2604.24117) | `ai-coding-agents/` | 70 |
-| [The Illusion of Stochasticity in LLMs](https://arxiv.org/abs/2604.06543) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

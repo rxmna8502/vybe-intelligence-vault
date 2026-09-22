@@ -1,19 +1,29 @@
 ---
-title: "UnitVectorY-Labs/mcp-graphql-forge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "GraphQL", "MCP (Model Context Protocol)", "YAML", "HTTP"]
+title: UnitVectorY-Labs/mcp-graphql-forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- GraphQL
+- MCP (Model Context Protocol)
+- YAML
+- HTTP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "GraphQL integration", "AI agent tools", "YAML configuration", "API abstraction"]
-source: "https://github.com/UnitVectorY-Labs/mcp-graphql-forge"
+deployment_complexity: Low
+tags:
+- MCP server
+- GraphQL integration
+- AI agent tools
+- YAML configuration
+- API abstraction
+source: https://github.com/UnitVectorY-Labs/mcp-graphql-forge
 stars: 5
-language: "Go"
-last_updated: "2026-08-04T00:01:00Z"
-discovered_at: "2026-08-04T00:12:05Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T00:01:00Z'
+discovered_at: '2026-08-04T00:12:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

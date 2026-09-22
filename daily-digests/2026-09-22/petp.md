@@ -1,19 +1,38 @@
 ---
-title: "lorisunjunbin/petp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "wxPython", "Selenium", "Paramiko", "PyAutoGUI", "SQLite", "MySQL", "PostgreSQL", "LLM APIs (DeepSeek, Gemini, Ollama, Zhipu, Anthropic, etc.)", "MCP (Model Context Protocol)", "Docker", "HTTP/REST", "OCR (paddleocr, rapidocr, easyocr)", "Captcha (ddddocr)"]
+title: lorisunjunbin/petp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- wxPython
+- Selenium
+- Paramiko
+- PyAutoGUI
+- SQLite
+- MySQL
+- PostgreSQL
+- LLM APIs (DeepSeek, Gemini, Ollama, Zhipu, Anthropic, etc.)
+- MCP (Model Context Protocol)
+- Docker
+- HTTP/REST
+- OCR (paddleocr, rapidocr, easyocr)
+- Captcha (ddddocr)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["RPA", "Automation", "AI Integration", "MCP Server", "Workflow Orchestration"]
-source: "https://github.com/lorisunjunbin/petp"
+deployment_complexity: Medium
+tags:
+- RPA
+- Automation
+- AI Integration
+- MCP Server
+- Workflow Orchestration
+source: https://github.com/lorisunjunbin/petp
 stars: 7
-language: "Python"
-last_updated: "2026-07-20T03:47:30Z"
-discovered_at: "2026-07-20T03:52:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T03:47:30Z'
+discovered_at: '2026-07-20T03:52:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

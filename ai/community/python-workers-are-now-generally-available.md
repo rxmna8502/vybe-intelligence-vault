@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.cloudflare.com/python-workers-ga
 hn_url: https://news.ycombinator.com/item?id=49787142
-score: 136
+score: 200
 author: torutofu
-comments_count: 18
+comments_count: 35
 published_at: '2026-09-21T19:08:19+05:30'
-collected_at: '2026-09-22T02:01:02.077403+05:30'
+collected_at: '2026-09-22T10:38:31.250100+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:python-workers-are-now-generally-available
 first_seen: '2026-09-22T02:01:02.077403+05:30'
-last_seen: '2026-09-22T02:01:02.077403+05:30'
-last_checked: '2026-09-22T02:01:02.077403+05:30'
+last_seen: '2026-09-22T10:38:31.250100+05:30'
+last_checked: '2026-09-22T10:38:31.250100+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by torutofu. Score: 136, Comments: 18.
+Hacker News story by torutofu. Score: 200, Comments: 35.
 Original Link: https://blog.cloudflare.com/python-workers-ga/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: torutofu
-- Score: 136 Upvotes
-- Comments: 18 Discussions
+- Score: 200 Upvotes
+- Comments: 35 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49787142
 - Original Article: https://blog.cloudflare.com/python-workers-ga
 

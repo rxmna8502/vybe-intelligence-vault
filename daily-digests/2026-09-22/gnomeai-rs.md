@@ -1,19 +1,32 @@
 ---
-title: "adrgu372/GnomeAI-RS"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "Terminal UI (TUI)", "Web Interface (WebTool)", "WhatsApp Bridge", "LLM Providers (OpenAI, Anthropic, DeepSeek, Ollama, etc.)", "Embeddings (OpenAI-compatible, Ollama)", "Debian Packaging"]
+title: adrgu372/GnomeAI-RS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- SQLite
+- Terminal UI (TUI)
+- Web Interface (WebTool)
+- WhatsApp Bridge
+- LLM Providers (OpenAI, Anthropic, DeepSeek, Ollama, etc.)
+- Embeddings (OpenAI-compatible, Ollama)
+- Debian Packaging
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted", "multi-provider", "persistent memory", "skill system", "secure execution"]
-source: "https://github.com/adrgu372/GnomeAI-RS"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- multi-provider
+- persistent memory
+- skill system
+- secure execution
+source: https://github.com/adrgu372/GnomeAI-RS
 stars: 3
-language: "Rust"
-last_updated: "2026-08-02T13:39:07Z"
-discovered_at: "2026-08-02T13:49:23Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T13:39:07Z'
+discovered_at: '2026-08-02T13:49:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

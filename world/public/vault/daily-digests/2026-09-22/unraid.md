@@ -1,19 +1,36 @@
 ---
-title: "dinglebear-ai/unraid"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Rust", "GraphQL", "MCP (Model Context Protocol)", "Docker", "NestJS", "Vue", "React", "Cargo", "Hatchling", "uv", "shell scripting"]
+title: dinglebear-ai/unraid
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Python
+- Rust
+- GraphQL
+- MCP (Model Context Protocol)
+- Docker
+- NestJS
+- Vue
+- React
+- Cargo
+- Hatchling
+- uv
+- shell scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Unraid management", "MCP server", "GraphQL API", "AI agent integration", "system monitoring"]
-source: "https://github.com/dinglebear-ai/unraid"
+deployment_complexity: Medium
+tags:
+- Unraid management
+- MCP server
+- GraphQL API
+- AI agent integration
+- system monitoring
+source: https://github.com/dinglebear-ai/unraid
 stars: 105
-language: "Python"
-last_updated: "2026-08-01T03:41:25Z"
-discovered_at: "2026-08-01T03:43:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T03:41:25Z'
+discovered_at: '2026-08-01T03:43:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

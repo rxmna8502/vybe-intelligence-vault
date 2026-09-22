@@ -1,19 +1,39 @@
 ---
-title: "tianhao8687/shou-ba-shou-jiaoxue-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "PostgreSQL", "SQLite", "OpenVINO", "Qwen3", "Docker", "Prometheus", "BM25", "pgvector", "Vite", "Pydantic", "Mermaid"]
+title: tianhao8687/shou-ba-shou-jiaoxue-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- PostgreSQL
+- SQLite
+- OpenVINO
+- Qwen3
+- Docker
+- Prometheus
+- BM25
+- pgvector
+- Vite
+- Pydantic
+- Mermaid
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AgentOps", "RAG", "Deterministic Workflows", "Tenant Isolation", "Fault Testing"]
-source: "https://github.com/tianhao8687/shou-ba-shou-jiaoxue-ai-agent"
+deployment_complexity: Medium
+tags:
+- AgentOps
+- RAG
+- Deterministic Workflows
+- Tenant Isolation
+- Fault Testing
+source: https://github.com/tianhao8687/shou-ba-shou-jiaoxue-ai-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T07:51:49Z"
-discovered_at: "2026-08-09T07:58:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T07:51:49Z'
+discovered_at: '2026-08-09T07:58:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

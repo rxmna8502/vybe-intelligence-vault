@@ -1,19 +1,33 @@
 ---
-title: "mcp-box/mcpscore"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Streamable HTTP", "SSE (Server-Sent Events)", "STDIO", "Node.js", "JSON Schema", "pytest", "GitHub Actions"]
+title: mcp-box/mcpscore
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Streamable HTTP
+- SSE (Server-Sent Events)
+- STDIO
+- Node.js
+- JSON Schema
+- pytest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP auditing", "protocol compliance", "server validation", "AI agent interoperability", "security assessment"]
-source: "https://github.com/mcp-box/mcpscore"
+deployment_complexity: Medium
+tags:
+- MCP auditing
+- protocol compliance
+- server validation
+- AI agent interoperability
+- security assessment
+source: https://github.com/mcp-box/mcpscore
 stars: 8
-language: "Python"
-last_updated: "2026-08-01T19:09:32Z"
-discovered_at: "2026-08-01T19:19:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:09:32Z'
+discovered_at: '2026-08-01T19:19:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

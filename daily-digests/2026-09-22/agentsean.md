@@ -1,19 +1,36 @@
 ---
-title: "seziro-team/agentsean"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "LLM Integration (Anthropic, OpenAI, Google, Ollama)", "React", "GraphQL", "Docker", "Cloudflare Workers", "WordPress Plugin", "Shopify Admin API", "Git", "Jest", "CI/CD (GitHub Actions)"]
+title: seziro-team/agentsean
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- LLM Integration (Anthropic, OpenAI, Google, Ollama)
+- React
+- GraphQL
+- Docker
+- Cloudflare Workers
+- WordPress Plugin
+- Shopify Admin API
+- Git
+- Jest
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SEO automation", "self-hosted", "autonomous agent", "reversible fixes", "LLM-powered"]
-source: "https://github.com/seziro-team/agentsean"
+deployment_complexity: Medium
+tags:
+- SEO automation
+- self-hosted
+- autonomous agent
+- reversible fixes
+- LLM-powered
+source: https://github.com/seziro-team/agentsean
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T22:12:23Z"
-discovered_at: "2026-09-01T22:17:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T22:12:23Z'
+discovered_at: '2026-09-01T22:17:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

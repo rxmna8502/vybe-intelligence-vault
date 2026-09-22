@@ -1,19 +1,43 @@
 ---
-title: "stancsz/codex-router"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "OpenRouter API", "Minimax M3", "OpenAI Codex", "Gemini 3.1 Pro", "Ollama", "LM Studio", "vLLM", "LocalAI", "Docker", "Redis", "JSON", "RESTful APIs", "Streaming", "Logging (Rotating Logs)", "Environment Variables", "CLI Tools", "VS Code Integration"]
+title: stancsz/codex-router
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- OpenRouter API
+- Minimax M3
+- OpenAI Codex
+- Gemini 3.1 Pro
+- Ollama
+- LM Studio
+- vLLM
+- LocalAI
+- Docker
+- Redis
+- JSON
+- RESTful APIs
+- Streaming
+- Logging (Rotating Logs)
+- Environment Variables
+- CLI Tools
+- VS Code Integration
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-modal routing", "failover gateway", "cost optimization", "local inference", "agent orchestration"]
-source: "https://github.com/stancsz/codex-router"
+deployment_complexity: Medium
+tags:
+- multi-modal routing
+- failover gateway
+- cost optimization
+- local inference
+- agent orchestration
+source: https://github.com/stancsz/codex-router
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T22:06:15Z"
-discovered_at: "2026-09-02T22:17:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T22:06:15Z'
+discovered_at: '2026-09-02T22:17:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

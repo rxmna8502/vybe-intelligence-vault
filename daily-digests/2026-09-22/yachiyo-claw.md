@@ -1,19 +1,40 @@
 ---
-title: "Wayne1145/yachiyo-claw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Android (Kotlin/Java)", "TypeScript", "React Native", "LiteRT-LM", "llama.cpp", "MediaPipe", "Sherpa-ONNX", "PRoot", "Alpine Linux", "Capacitor", "MCP (Model Context Protocol)", "Live2D", "Room (Android)", "WorkManager", "Gradle", "Android Keystore"]
+title: Wayne1145/yachiyo-claw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Android (Kotlin/Java)
+- TypeScript
+- React Native
+- LiteRT-LM
+- llama.cpp
+- MediaPipe
+- Sherpa-ONNX
+- PRoot
+- Alpine Linux
+- Capacitor
+- MCP (Model Context Protocol)
+- Live2D
+- Room (Android)
+- WorkManager
+- Gradle
+- Android Keystore
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Android AI", "On-device Agent", "Local LLM", "Live2D Interaction", "Skills & MCP"]
-source: "https://github.com/Wayne1145/yachiyo-claw"
+deployment_complexity: High
+tags:
+- Android AI
+- On-device Agent
+- Local LLM
+- Live2D Interaction
+- Skills & MCP
+source: https://github.com/Wayne1145/yachiyo-claw
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-02T19:24:21Z"
-discovered_at: "2026-08-02T19:25:07Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T19:24:21Z'
+discovered_at: '2026-08-02T19:25:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

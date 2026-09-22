@@ -1,19 +1,30 @@
 ---
-title: "DanceNitra/inspeximus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Zero-dependency", "Ed25519 (for signing)", "SQLite", "JSON", "MCP (Model Context Protocol)"]
+title: DanceNitra/inspeximus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Zero-dependency
+- Ed25519 (for signing)
+- SQLite
+- JSON
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["Agent memory", "Verifiable erasure", "Tamper-evident records", "EU AI Act compliance", "Deterministic corrections"]
-source: "https://github.com/DanceNitra/inspeximus"
+deployment_complexity: Low
+tags:
+- Agent memory
+- Verifiable erasure
+- Tamper-evident records
+- EU AI Act compliance
+- Deterministic corrections
+source: https://github.com/DanceNitra/inspeximus
 stars: 5
-language: "Python"
-last_updated: "2026-08-03T06:21:59Z"
-discovered_at: "2026-08-03T06:23:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T06:21:59Z'
+discovered_at: '2026-08-03T06:23:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

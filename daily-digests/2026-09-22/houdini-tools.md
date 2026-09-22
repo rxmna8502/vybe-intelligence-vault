@@ -1,19 +1,31 @@
 ---
-title: "chordee/houdini-tools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Houdini CLI tools", "Blosc", "BJSON", "USD (Universal Scene Description)", "uv (Python package manager)"]
+title: chordee/houdini-tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Houdini CLI tools
+- Blosc
+- BJSON
+- USD (Universal Scene Description)
+- uv (Python package manager)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Houdini integration", "MCP server", "USD inspection", "geometry analysis", "CLI automation"]
-source: "https://github.com/chordee/houdini-tools"
+deployment_complexity: Medium
+tags:
+- Houdini integration
+- MCP server
+- USD inspection
+- geometry analysis
+- CLI automation
+source: https://github.com/chordee/houdini-tools
 stars: 4
-language: "Python"
-last_updated: "2026-08-01T20:43:16Z"
-discovered_at: "2026-08-01T20:51:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T20:43:16Z'
+discovered_at: '2026-08-01T20:51:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

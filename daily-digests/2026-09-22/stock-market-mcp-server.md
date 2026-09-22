@@ -1,19 +1,36 @@
 ---
-title: "daniel3303/stock-market-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "PostgreSQL", "XBRL", "Docker", "OAuth", "SEC EDGAR API", "FINRA API", "FRED API", "CFTC COT", "CBOE Data"]
+title: daniel3303/stock-market-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- PostgreSQL
+- XBRL
+- Docker
+- OAuth
+- SEC EDGAR API
+- FINRA API
+- FRED API
+- CFTC COT
+- CBOE Data
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["financial data", "MCP server", "SEC filings", "AI agents", "stock market"]
-source: "https://github.com/daniel3303/stock-market-mcp-server"
+deployment_complexity: Medium
+tags:
+- financial data
+- MCP server
+- SEC filings
+- AI agents
+- stock market
+source: https://github.com/daniel3303/stock-market-mcp-server
 stars: 0
-language: "None"
-last_updated: "2026-07-18T16:54:37Z"
-discovered_at: "2026-07-18T16:56:28Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-18T16:54:37Z'
+discovered_at: '2026-07-18T16:56:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

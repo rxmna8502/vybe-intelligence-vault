@@ -1,19 +1,34 @@
 ---
-title: "tao12345666333/amcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "ACP (Agent Client Protocol)", "Telegram Bot API", "OpenAI API", "Anthropic API", "Rust (via ripgrep for grep tool)", "TOML", "YAML"]
+title: tao12345666333/amcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- ACP (Agent Client Protocol)
+- Telegram Bot API
+- OpenAI API
+- Anthropic API
+- Rust (via ripgrep for grep tool)
+- TOML
+- YAML
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "coding agents", "MCP integration", "Telegram automation", "IDE integration"]
-source: "https://github.com/tao12345666333/amcp"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- coding agents
+- MCP integration
+- Telegram automation
+- IDE integration
+source: https://github.com/tao12345666333/amcp
 stars: 27
-language: "Python"
-last_updated: "2026-07-19T13:14:56Z"
-discovered_at: "2026-07-19T13:17:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T13:14:56Z'
+discovered_at: '2026-07-19T13:17:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

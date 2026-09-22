@@ -13,13 +13,14 @@ collected_at: '2026-09-22T02:01:01.507664+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:us-halts-flights-at-busy-east-coast-airports-says
 first_seen: '2026-09-22T02:01:01.507664+05:30'
 last_seen: '2026-09-22T02:01:01.507664+05:30'
 last_checked: '2026-09-22T02:01:01.507664+05:30'
 health_score: 100
 ---
+
 
 # US halts flights at busy East Coast airports, says fiber line cut
 

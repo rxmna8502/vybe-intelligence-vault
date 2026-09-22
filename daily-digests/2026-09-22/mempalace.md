@@ -1,19 +1,28 @@
 ---
-title: "adaxial-lineofscrimmage6998/mempalace"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "Windows", "Turso (optional cloud sync)"]
+title: adaxial-lineofscrimmage6998/mempalace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- SQLite
+- Windows
+- Turso (optional cloud sync)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["memory management", "local-first", "SQLite", "AI context", "privacy-focused"]
-source: "https://github.com/adaxial-lineofscrimmage6998/mempalace"
+deployment_complexity: Low
+tags:
+- memory management
+- local-first
+- SQLite
+- AI context
+- privacy-focused
+source: https://github.com/adaxial-lineofscrimmage6998/mempalace
 stars: 0
-language: "None"
-last_updated: "2026-07-11T11:01:10Z"
-discovered_at: "2026-07-11T11:03:48Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-11T11:01:10Z'
+discovered_at: '2026-07-11T11:03:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

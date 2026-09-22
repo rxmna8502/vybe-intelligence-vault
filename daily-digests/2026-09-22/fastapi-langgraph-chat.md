@@ -1,19 +1,32 @@
 ---
-title: "saavedra/fastapi-langgraph-chat"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "LangChain", "SQLite", "OpenAI API", "uv", "NDJSON"]
+title: saavedra/fastapi-langgraph-chat
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- LangChain
+- SQLite
+- OpenAI API
+- uv
+- NDJSON
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["chat application", "streaming", "conversation management", "checkpointing", "branching"]
-source: "https://github.com/saavedra/fastapi-langgraph-chat"
+deployment_complexity: Medium
+tags:
+- chat application
+- streaming
+- conversation management
+- checkpointing
+- branching
+source: https://github.com/saavedra/fastapi-langgraph-chat
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T14:53:42Z"
-discovered_at: "2026-09-01T15:52:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T14:53:42Z'
+discovered_at: '2026-09-01T15:52:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

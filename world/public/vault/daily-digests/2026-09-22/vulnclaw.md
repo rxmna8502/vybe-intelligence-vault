@@ -1,19 +1,33 @@
 ---
-title: "Unclecheng-li/VulnClaw"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LLM (OpenAI, Anthropic, MiniMax, DeepSeek, etc.)", "MCP (Model Context Protocol)", "Docker", "FastAPI (for Web UI)", "Nmap", "Burp Suite (via MCP)", "Git", "PyPI"]
+title: Unclecheng-li/VulnClaw
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Python
+- LLM (OpenAI, Anthropic, MiniMax, DeepSeek, etc.)
+- MCP (Model Context Protocol)
+- Docker
+- FastAPI (for Web UI)
+- Nmap
+- Burp Suite (via MCP)
+- Git
+- PyPI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["penetration testing", "AI agent", "automation", "MCP toolchain", "security assessment"]
-source: "https://github.com/Unclecheng-li/VulnClaw"
+deployment_complexity: Medium
+tags:
+- penetration testing
+- AI agent
+- automation
+- MCP toolchain
+- security assessment
+source: https://github.com/Unclecheng-li/VulnClaw
 stars: 2536
-language: "Python"
-last_updated: "2026-08-05T16:42:00Z"
-discovered_at: "2026-08-05T16:44:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T16:42:00Z'
+discovered_at: '2026-08-05T16:44:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

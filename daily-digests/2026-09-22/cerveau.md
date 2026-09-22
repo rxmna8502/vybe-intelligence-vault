@@ -1,19 +1,32 @@
 ---
-title: "ShAInyXYZ/Cerveau"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Svelte", "llama.cpp", "Typesense", "SQLite", "Python (optional)", "GGUF models", "RFX (declarative capability stack)"]
+title: ShAInyXYZ/Cerveau
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- Svelte
+- llama.cpp
+- Typesense
+- SQLite
+- Python (optional)
+- GGUF models
+- RFX (declarative capability stack)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "agentic coding", "hardware optimization", "MoE models", "safety-first"]
-source: "https://github.com/ShAInyXYZ/Cerveau"
+deployment_complexity: Medium
+tags:
+- local-first
+- agentic coding
+- hardware optimization
+- MoE models
+- safety-first
+source: https://github.com/ShAInyXYZ/Cerveau
 stars: 0
-language: "Go"
-last_updated: "2026-08-01T19:12:30Z"
-discovered_at: "2026-08-01T19:19:05Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T19:12:30Z'
+discovered_at: '2026-08-01T19:19:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

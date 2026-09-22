@@ -1,19 +1,30 @@
 ---
-title: "c2717649225-rgb/neoforge-1.21.1-ai-starter"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java 21", "NeoForge 21.1.x", "Gradle", "Python 3", "MCP (Mod Coder Pack)", "Minecraft 1.21.1"]
+title: c2717649225-rgb/neoforge-1.21.1-ai-starter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Java 21
+- NeoForge 21.1.x
+- Gradle
+- Python 3
+- MCP (Mod Coder Pack)
+- Minecraft 1.21.1
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Minecraft modding", "AI-assisted development", "NeoForge", "Gradle template", "MCP integration"]
-source: "https://github.com/c2717649225-rgb/neoforge-1.21.1-ai-starter"
+deployment_complexity: Medium
+tags:
+- Minecraft modding
+- AI-assisted development
+- NeoForge
+- Gradle template
+- MCP integration
+source: https://github.com/c2717649225-rgb/neoforge-1.21.1-ai-starter
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T20:08:42Z"
-discovered_at: "2026-07-11T20:09:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T20:08:42Z'
+discovered_at: '2026-07-11T20:09:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

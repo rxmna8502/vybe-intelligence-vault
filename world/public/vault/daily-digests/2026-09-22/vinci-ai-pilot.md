@@ -1,19 +1,33 @@
 ---
-title: "CodeVinci8/vinci-ai-pilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["n8n", "Telegram Bot API", "Claude API", "Google Sheets API", "Firecrawl", "Apify", "VK API", "JavaScript", "Python"]
+title: CodeVinci8/vinci-ai-pilot
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- n8n
+- Telegram Bot API
+- Claude API
+- Google Sheets API
+- Firecrawl
+- Apify
+- VK API
+- JavaScript
+- Python
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["marketing intelligence", "self-hosted AI agent", "competitor analysis", "automated reporting", "multi-source synthesis"]
-source: "https://github.com/CodeVinci8/vinci-ai-pilot"
+deployment_complexity: Medium
+tags:
+- marketing intelligence
+- self-hosted AI agent
+- competitor analysis
+- automated reporting
+- multi-source synthesis
+source: https://github.com/CodeVinci8/vinci-ai-pilot
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T20:38:35Z"
-discovered_at: "2026-08-01T20:51:00Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T20:38:35Z'
+discovered_at: '2026-08-01T20:51:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

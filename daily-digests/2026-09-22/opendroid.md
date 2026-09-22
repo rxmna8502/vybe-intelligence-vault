@@ -1,19 +1,34 @@
 ---
-title: "yashab-cyber/opendroid"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Jetpack Compose", "Android SDK", "Dagger-Hilt", "Room Database", "Jetpack WorkManager", "Accessibility APIs", "LLM APIs (Gemini, OpenAI, Groq, etc.)", "Jetpack ViewModel", "EncryptedSharedPreferences"]
+title: yashab-cyber/opendroid
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Kotlin
+- Jetpack Compose
+- Android SDK
+- Dagger-Hilt
+- Room Database
+- Jetpack WorkManager
+- Accessibility APIs
+- LLM APIs (Gemini, OpenAI, Groq, etc.)
+- Jetpack ViewModel
+- EncryptedSharedPreferences
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["Autonomous AI", "Android automation", "Multi-LLM integration", "Memory systems", "Accessibility-driven"]
-source: "https://github.com/yashab-cyber/opendroid"
+deployment_complexity: High
+tags:
+- Autonomous AI
+- Android automation
+- Multi-LLM integration
+- Memory systems
+- Accessibility-driven
+source: https://github.com/yashab-cyber/opendroid
 stars: 255
-language: "Kotlin"
-last_updated: "2026-07-13T20:10:59Z"
-discovered_at: "2026-07-13T20:14:04Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-07-13T20:10:59Z'
+discovered_at: '2026-07-13T20:14:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "happy520ai/unified-ai-system"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "Docker", "pnpm", "Model Context Protocol (MCP)", "HTTP API", "CLI", "Mermaid (for architecture diagrams)"]
+title: happy520ai/unified-ai-system
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Node.js
+- TypeScript
+- Docker
+- pnpm
+- Model Context Protocol (MCP)
+- HTTP API
+- CLI
+- Mermaid (for architecture diagrams)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI gateway", "self-hosted", "MCP server", "terminal-first", "governance"]
-source: "https://github.com/happy520ai/unified-ai-system"
+deployment_complexity: Medium
+tags:
+- AI gateway
+- self-hosted
+- MCP server
+- terminal-first
+- governance
+source: https://github.com/happy520ai/unified-ai-system
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-01T13:13:18Z"
-discovered_at: "2026-08-01T13:16:45Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T13:13:18Z'
+discovered_at: '2026-08-01T13:16:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

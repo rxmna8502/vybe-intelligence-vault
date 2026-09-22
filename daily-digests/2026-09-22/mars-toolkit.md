@@ -1,19 +1,32 @@
 ---
-title: "mars1417/mars-toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "macOS", "Flask", "SQLite", "cpolar", "Cloudflare", "DeepSeek API", "Python"]
+title: mars1417/mars-toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Shell
+- macOS
+- Flask
+- SQLite
+- cpolar
+- Cloudflare
+- DeepSeek API
+- Python
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["macOS optimization", "AI agent deployment", "legacy hardware", "system automation", "VPN and networking"]
-source: "https://github.com/mars1417/mars-toolkit"
+deployment_complexity: Low
+tags:
+- macOS optimization
+- AI agent deployment
+- legacy hardware
+- system automation
+- VPN and networking
+source: https://github.com/mars1417/mars-toolkit
 stars: 2
-language: "Shell"
-last_updated: "2026-07-20T21:05:37Z"
-discovered_at: "2026-07-20T21:10:58Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-20T21:05:37Z'
+discovered_at: '2026-07-20T21:10:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

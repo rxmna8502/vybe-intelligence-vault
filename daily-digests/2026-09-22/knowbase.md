@@ -1,19 +1,30 @@
 ---
-title: "gokhanibrikci/knowbase"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "YAML", "REST API", "CLI Tools"]
+title: gokhanibrikci/knowbase
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- YAML
+- REST API
+- CLI Tools
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent memory", "build error tracking", "context sharing", "dead end documentation", "version-specific fixes"]
-source: "https://github.com/gokhanibrikci/knowbase"
+deployment_complexity: Medium
+tags:
+- AI agent memory
+- build error tracking
+- context sharing
+- dead end documentation
+- version-specific fixes
+source: https://github.com/gokhanibrikci/knowbase
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-03T15:38:52Z"
-discovered_at: "2026-09-03T15:40:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:38:52Z'
+discovered_at: '2026-09-03T15:40:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

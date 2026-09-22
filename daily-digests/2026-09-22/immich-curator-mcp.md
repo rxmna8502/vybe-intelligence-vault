@@ -1,19 +1,32 @@
 ---
-title: "gist-info/immich-curator-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Immich API", "OpenAI API", "Claude API", "YAML", "Docker", "Leaflet.js", "Responsive Web Design"]
+title: gist-info/immich-curator-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Immich API
+- OpenAI API
+- Claude API
+- YAML
+- Docker
+- Leaflet.js
+- Responsive Web Design
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["photo management", "AI curation", "geographic clustering", "duplicate detection", "gallery publishing"]
-source: "https://github.com/gist-info/immich-curator-mcp"
+deployment_complexity: Medium
+tags:
+- photo management
+- AI curation
+- geographic clustering
+- duplicate detection
+- gallery publishing
+source: https://github.com/gist-info/immich-curator-mcp
 stars: 1
-language: "HTML"
-last_updated: "2026-07-16T12:20:12Z"
-discovered_at: "2026-07-16T12:22:21Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-16T12:20:12Z'
+discovered_at: '2026-07-16T12:22:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

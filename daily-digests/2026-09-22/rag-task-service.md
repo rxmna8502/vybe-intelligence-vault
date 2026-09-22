@@ -1,19 +1,35 @@
 ---
-title: "erishen/rag-task-service"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Axum", "SQLite", "LanceDB", "PostgreSQL", "pgvector", "BM25", "RRF (Reciprocal Rank Fusion)", "LLM Reranking", "Docker", "Nginx"]
+title: erishen/rag-task-service
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- Axum
+- SQLite
+- LanceDB
+- PostgreSQL
+- pgvector
+- BM25
+- RRF (Reciprocal Rank Fusion)
+- LLM Reranking
+- Docker
+- Nginx
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG pipeline", "asynchronous tasks", "hybrid search", "vector database", "document retrieval"]
-source: "https://github.com/erishen/rag-task-service"
+deployment_complexity: Medium
+tags:
+- RAG pipeline
+- asynchronous tasks
+- hybrid search
+- vector database
+- document retrieval
+source: https://github.com/erishen/rag-task-service
 stars: 0
-language: "Rust"
-last_updated: "2026-08-09T15:10:26Z"
-discovered_at: "2026-08-09T15:35:11Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T15:10:26Z'
+discovered_at: '2026-08-09T15:35:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

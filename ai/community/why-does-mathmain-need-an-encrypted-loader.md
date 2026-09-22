@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://safedep.io/mathmain-encrypted-loader
 hn_url: https://news.ycombinator.com/item?id=49791378
-score: 69
+score: 121
 author: abhisek
-comments_count: 15
+comments_count: 35
 published_at: '2026-09-22T00:03:44+05:30'
-collected_at: '2026-09-22T02:01:00.642608+05:30'
+collected_at: '2026-09-22T10:38:31.520418+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:why-does-mathmain-need-an-encrypted-loader
 first_seen: '2026-09-22T02:01:00.642608+05:30'
-last_seen: '2026-09-22T02:01:00.642608+05:30'
-last_checked: '2026-09-22T02:01:00.642608+05:30'
+last_seen: '2026-09-22T10:38:31.520418+05:30'
+last_checked: '2026-09-22T10:38:31.520418+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by abhisek. Score: 69, Comments: 15.
+Hacker News story by abhisek. Score: 121, Comments: 35.
 Original Link: https://safedep.io/mathmain-encrypted-loader/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: abhisek
-- Score: 69 Upvotes
-- Comments: 15 Discussions
+- Score: 121 Upvotes
+- Comments: 35 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49791378
 - Original Article: https://safedep.io/mathmain-encrypted-loader
 

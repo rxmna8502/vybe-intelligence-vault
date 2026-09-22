@@ -1,19 +1,33 @@
 ---
-title: "DaveSteadman/KoreStack"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Flask", "SQLite", "Markdown", "RSS", "Wikipedia API", "Task Scheduling", "WebSockets", "Local File System"]
+title: DaveSteadman/KoreStack
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Flask
+- SQLite
+- Markdown
+- RSS
+- Wikipedia API
+- Task Scheduling
+- WebSockets
+- Local File System
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local-first", "AI agent", "productivity suite", "RAG integration", "modular architecture"]
-source: "https://github.com/DaveSteadman/KoreStack"
+deployment_complexity: Medium
+tags:
+- local-first
+- AI agent
+- productivity suite
+- RAG integration
+- modular architecture
+source: https://github.com/DaveSteadman/KoreStack
 stars: 1
-language: "Python"
-last_updated: "2026-07-12T22:44:46Z"
-discovered_at: "2026-07-12T22:44:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T22:44:46Z'
+discovered_at: '2026-07-12T22:44:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
