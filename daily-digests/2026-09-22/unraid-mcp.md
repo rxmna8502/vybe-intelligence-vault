@@ -1,30 +1,19 @@
 ---
-title: tarakanof/Unraid-MCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- MCP SDK v2
-- GraphQL
-- Docker
-- FastAPI
-- Unraid API
+title: "tarakanof/Unraid-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP SDK v2", "GraphQL", "Docker", "FastAPI", "Unraid API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Unraid integration
-- system monitoring
-- agent orchestration
-- read-only by default
-source: https://github.com/tarakanof/Unraid-MCP
+deployment_complexity: "Medium"
+tags: ["MCP server", "Unraid integration", "system monitoring", "agent orchestration", "read-only by default"]
+source: "https://github.com/tarakanof/Unraid-MCP"
 stars: 0
-language: Python
-last_updated: '2026-08-05T22:12:37Z'
-discovered_at: '2026-08-05T22:15:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T22:12:37Z"
+discovered_at: "2026-08-05T22:15:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

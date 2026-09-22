@@ -1,34 +1,19 @@
 ---
-title: parkjangwon/pawn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Electron
-- React 19
-- TypeScript
-- Vite
-- Zustand
-- i18next
-- SQLite (better-sqlite3)
-- react-markdown
-- rehype-highlight
-- highlight.js
+title: "parkjangwon/pawn"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "React 19", "TypeScript", "Vite", "Zustand", "i18next", "SQLite (better-sqlite3)", "react-markdown", "rehype-highlight", "highlight.js"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI coding agent
-- multi-model routing
-- BYOK (Bring Your Own Keys)
-- desktop automation
-- plugin system
-source: https://github.com/parkjangwon/pawn
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "multi-model routing", "BYOK (Bring Your Own Keys)", "desktop automation", "plugin system"]
+source: "https://github.com/parkjangwon/pawn"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-02T15:00:57Z'
-discovered_at: '2026-08-02T15:02:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T15:00:57Z"
+discovered_at: "2026-08-02T15:02:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

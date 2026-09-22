@@ -1,33 +1,19 @@
 ---
-title: the-open-engine/zeroshot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- SQLite
-- Docker
-- Git
-- GitHub CLI
-- GitLab CLI
-- Jira CLI
-- Azure DevOps CLI
+title: "the-open-engine/zeroshot"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "SQLite", "Docker", "Git", "GitHub CLI", "GitLab CLI", "Jira CLI", "Azure DevOps CLI"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- code verification
-- autonomous software engineering
-- executor-verifier loop
-- AI agent harness
-source: https://github.com/the-open-engine/zeroshot
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "code verification", "autonomous software engineering", "executor-verifier loop", "AI agent harness"]
+source: "https://github.com/the-open-engine/zeroshot"
 stars: 1687
-language: JavaScript
-last_updated: '2026-08-03T22:00:36Z'
-discovered_at: '2026-08-03T22:09:33Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T22:00:36Z"
+discovered_at: "2026-08-03T22:09:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

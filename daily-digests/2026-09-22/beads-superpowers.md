@@ -1,37 +1,19 @@
 ---
-title: DollarDill/beads-superpowers
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Shell
-- Dolt (Git-compatible database)
-- Superpowers (skill system)
-- Beads (persistent memory framework)
-- Claude Code
-- Codex
-- OpenCode
-- Cursor
-- GitHub Copilot CLI
-- Kimi Code
-- Antigravity
-- Factory Droid
-- Pi
+title: "DollarDill/beads-superpowers"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Shell", "Dolt (Git-compatible database)", "Superpowers (skill system)", "Beads (persistent memory framework)", "Claude Code", "Codex", "OpenCode", "Cursor", "GitHub Copilot CLI", "Kimi Code", "Antigravity", "Factory Droid", "Pi"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI coding agents
-- test-driven development
-- persistent memory
-- Dolt database
-- workflow automation
-source: https://github.com/DollarDill/beads-superpowers
+deployment_complexity: "Medium"
+tags: ["AI coding agents", "test-driven development", "persistent memory", "Dolt database", "workflow automation"]
+source: "https://github.com/DollarDill/beads-superpowers"
 stars: 17
-language: Shell
-last_updated: '2026-07-11T11:03:01Z'
-discovered_at: '2026-07-11T11:03:25Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-11T11:03:01Z"
+discovered_at: "2026-07-11T11:03:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

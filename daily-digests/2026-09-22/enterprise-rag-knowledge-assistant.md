@@ -1,30 +1,19 @@
 ---
-title: Abishang21/enterprise-rag-knowledge-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- LlamaIndex
-- FAISS
-- Docling
-- Large Language Models
-- APIs
+title: "Abishang21/enterprise-rag-knowledge-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LlamaIndex", "FAISS", "Docling", "Large Language Models", "APIs"]
 quality_score: 5
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- privacy-first
-- enterprise RAG
-- knowledge management
-- secure architecture
-- document processing
-source: https://github.com/Abishang21/enterprise-rag-knowledge-assistant
+deployment_complexity: "Medium"
+tags: ["privacy-first", "enterprise RAG", "knowledge management", "secure architecture", "document processing"]
+source: "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
 stars: 0
-language: None
-last_updated: '2026-08-08T05:41:50Z'
-discovered_at: '2026-08-08T05:46:07Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T05:41:50Z"
+discovered_at: "2026-08-08T05:46:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

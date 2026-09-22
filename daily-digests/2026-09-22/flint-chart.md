@@ -1,32 +1,19 @@
 ---
-title: microsoft/flint-chart
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- JavaScript
-- Vega-Lite
-- ECharts
-- Chart.js
-- Model Context Protocol (MCP)
-- React
-- Vite
+title: "microsoft/flint-chart"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript", "Vega-Lite", "ECharts", "Chart.js", "Model Context Protocol (MCP)", "React", "Vite"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- visualization
-- AI agents
-- chart generation
-- semantic types
-- MCP server
-source: https://github.com/microsoft/flint-chart
+deployment_complexity: "Medium"
+tags: ["visualization", "AI agents", "chart generation", "semantic types", "MCP server"]
+source: "https://github.com/microsoft/flint-chart"
 stars: 1930
-language: TypeScript
-last_updated: '2026-07-20T03:47:18Z'
-discovered_at: '2026-07-20T03:52:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-20T03:47:18Z"
+discovered_at: "2026-07-20T03:52:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

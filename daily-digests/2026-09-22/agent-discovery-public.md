@@ -1,28 +1,19 @@
 ---
-title: djp1122222-alt/agent-discovery-public
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- HTML
-- JSON
-- A2A Protocol
-- Nexus AGI Standard
+title: "djp1122222-alt/agent-discovery-public"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "JSON", "A2A Protocol", "Nexus AGI Standard"]
 quality_score: 3
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- agent-discovery
-- SEO
-- A2A Protocol
-- Nexus AGI
-- API discovery
-source: https://github.com/djp1122222-alt/agent-discovery-public
+deployment_complexity: "Low"
+tags: ["agent-discovery", "SEO", "A2A Protocol", "Nexus AGI", "API discovery"]
+source: "https://github.com/djp1122222-alt/agent-discovery-public"
 stars: 1
-language: HTML
-last_updated: '2026-07-10T23:03:45Z'
-discovered_at: '2026-07-10T23:08:19Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-10T23:03:45Z"
+discovered_at: "2026-07-10T23:08:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

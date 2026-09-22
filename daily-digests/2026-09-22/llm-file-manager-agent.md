@@ -1,29 +1,19 @@
 ---
-title: Oceanicabysslesothomonetaryunit652/llm-file-manager-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Flask
-- Ollama
-- Natural Language Processing (NLP)
-- CORS
+title: "Oceanicabysslesothomonetaryunit652/llm-file-manager-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Flask", "Ollama", "Natural Language Processing (NLP)", "CORS"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- file management
-- natural language processing
-- LLM-powered
-- desktop application
-- user-friendly
-source: https://github.com/Oceanicabysslesothomonetaryunit652/llm-file-manager-agent
+deployment_complexity: "Low"
+tags: ["file management", "natural language processing", "LLM-powered", "desktop application", "user-friendly"]
+source: "https://github.com/Oceanicabysslesothomonetaryunit652/llm-file-manager-agent"
 stars: 2
-language: Python
-last_updated: '2026-09-01T22:08:37Z'
-discovered_at: '2026-09-01T22:18:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T22:08:37Z"
+discovered_at: "2026-09-01T22:18:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

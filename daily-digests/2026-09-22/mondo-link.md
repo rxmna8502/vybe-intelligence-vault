@@ -1,32 +1,19 @@
 ---
-title: berntpopp/mondo-link
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python 3.12+
-- SQLite
-- Streamable HTTP
-- MCP (Model Context Protocol)
-- OBO (Ontology Web Language)
-- SSSOM (Simple Standard for Sharing Ontological Mappings)
-- uv (package manager)
-- Docker
+title: "berntpopp/mondo-link"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.12+", "SQLite", "Streamable HTTP", "MCP (Model Context Protocol)", "OBO (Ontology Web Language)", "SSSOM (Simple Standard for Sharing Ontological Mappings)", "uv (package manager)", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- disease ontology
-- MCP server
-- ontology indexing
-- cross-ontology mapping
-- SQLite
-source: https://github.com/berntpopp/mondo-link
+deployment_complexity: "Medium"
+tags: ["disease ontology", "MCP server", "ontology indexing", "cross-ontology mapping", "SQLite"]
+source: "https://github.com/berntpopp/mondo-link"
 stars: 0
-language: Python
-last_updated: '2026-09-01T22:13:06Z'
-discovered_at: '2026-09-01T22:19:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T22:13:06Z"
+discovered_at: "2026-09-01T22:19:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

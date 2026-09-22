@@ -1,30 +1,19 @@
 ---
-title: sundou82/conference-partner-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- MCP (Model Context Protocol)
-- REST API
-- Python
-- OpenAPI 3
-- HTTP/Streamable Transport
-- JWT Authentication
+title: "sundou82/conference-partner-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "REST API", "Python", "OpenAPI 3", "HTTP/Streamable Transport", "JWT Authentication"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- academic data
-- conference deadlines
-- rankings
-- MCP server
-- REST API
-source: https://github.com/sundou82/conference-partner-mcp
+deployment_complexity: "Low"
+tags: ["academic data", "conference deadlines", "rankings", "MCP server", "REST API"]
+source: "https://github.com/sundou82/conference-partner-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-05T08:28:41Z'
-discovered_at: '2026-08-05T08:36:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T08:28:41Z"
+discovered_at: "2026-08-05T08:36:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

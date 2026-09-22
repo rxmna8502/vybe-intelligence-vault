@@ -1,29 +1,19 @@
 ---
-title: VivekDahariya/PriAI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Machine Learning
-- NLP
-- Local Inference
-- Custom Model Training
+title: "VivekDahariya/PriAI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Machine Learning", "NLP", "Local Inference", "Custom Model Training"]
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- offline AI
-- domain-specific models
-- privacy-focused
-- custom knowledge
-- local inference
-source: https://github.com/VivekDahariya/PriAI
+deployment_complexity: "Medium"
+tags: ["offline AI", "domain-specific models", "privacy-focused", "custom knowledge", "local inference"]
+source: "https://github.com/VivekDahariya/PriAI"
 stars: 0
-language: Python
-last_updated: '2026-08-08T03:28:10Z'
-discovered_at: '2026-08-08T04:59:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T03:28:10Z"
+discovered_at: "2026-08-08T04:59:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

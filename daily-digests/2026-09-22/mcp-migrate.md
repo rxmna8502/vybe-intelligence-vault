@@ -1,29 +1,19 @@
 ---
-title: dheerajjha/mcp-migrate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- CLI
-- Static Analysis
-- Coders
+title: "dheerajjha/mcp-migrate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "CLI", "Static Analysis", "Coders"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP migration
-- spec compliance
-- automated fixes
-- protocol updates
-- server maintenance
-source: https://github.com/dheerajjha/mcp-migrate
+deployment_complexity: "Low"
+tags: ["MCP migration", "spec compliance", "automated fixes", "protocol updates", "server maintenance"]
+source: "https://github.com/dheerajjha/mcp-migrate"
 stars: 1
-language: Python
-last_updated: '2026-08-03T06:22:16Z'
-discovered_at: '2026-08-03T06:23:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T06:22:16Z"
+discovered_at: "2026-08-03T06:23:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

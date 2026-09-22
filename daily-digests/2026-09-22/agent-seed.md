@@ -1,28 +1,19 @@
 ---
-title: machidior/agent-seed
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Markdown
-- Shell
-- Windows
-- AI Engine APIs
+title: "machidior/agent-seed"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Markdown", "Shell", "Windows", "AI Engine APIs"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- self-evolving
-- markdown-based
-- AI assistant
-- Windows starter kit
-- multi-engine support
-source: https://github.com/machidior/agent-seed
+deployment_complexity: "Low"
+tags: ["self-evolving", "markdown-based", "AI assistant", "Windows starter kit", "multi-engine support"]
+source: "https://github.com/machidior/agent-seed"
 stars: 0
-language: Shell
-last_updated: '2026-07-15T14:46:08Z'
-discovered_at: '2026-07-15T14:48:58Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-15T14:46:08Z"
+discovered_at: "2026-07-15T14:48:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

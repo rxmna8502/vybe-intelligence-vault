@@ -1,30 +1,19 @@
 ---
-title: TakoData/tako-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- HTTP/REST
-- OAuth 2.1
-- JSON
-- WebSockets
+title: "TakoData/tako-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "HTTP/REST", "OAuth 2.1", "JSON", "WebSockets"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- MCP Server
-- Live Web Search
-- Licensed Data
-- Agent Integration
-- Data Visualization
-source: https://github.com/TakoData/tako-mcp
+deployment_complexity: "Low"
+tags: ["MCP Server", "Live Web Search", "Licensed Data", "Agent Integration", "Data Visualization"]
+source: "https://github.com/TakoData/tako-mcp"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-04T00:05:12Z'
-discovered_at: '2026-08-04T00:12:01Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T00:05:12Z"
+discovered_at: "2026-08-04T00:12:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

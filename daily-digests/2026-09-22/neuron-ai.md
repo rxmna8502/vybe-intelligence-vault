@@ -1,30 +1,19 @@
 ---
-title: neuron-core/neuron-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- PHP
-- Composer
-- LLM Providers (Anthropic, OpenAI, Ollama, etc.)
-- MCP (Model Context Protocol)
-- Vector DBs (via RAG support)
-- Inspector (for monitoring)
+title: "neuron-core/neuron-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["PHP", "Composer", "LLM Providers (Anthropic, OpenAI, Ollama, etc.)", "MCP (Model Context Protocol)", "Vector DBs (via RAG support)", "Inspector (for monitoring)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- PHP
-- AI Agents
-- Orchestration
-- Multi-agent Systems
-- RAG
-source: https://github.com/neuron-core/neuron-ai
+deployment_complexity: "Medium"
+tags: ["PHP", "AI Agents", "Orchestration", "Multi-agent Systems", "RAG"]
+source: "https://github.com/neuron-core/neuron-ai"
 stars: 2046
-language: PHP
-last_updated: '2026-08-08T20:02:05Z'
-discovered_at: '2026-08-08T20:32:55Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-08-08T20:02:05Z"
+discovered_at: "2026-08-08T20:32:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

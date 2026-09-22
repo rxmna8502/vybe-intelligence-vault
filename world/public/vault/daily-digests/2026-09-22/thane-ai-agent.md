@@ -1,32 +1,19 @@
 ---
-title: nugget/thane-ai-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- Go
-- SQLite
-- Home Assistant
-- Ollama
-- MQTT
-- Git
-- Docker
-- CI/CD (GitHub Actions)
+title: "nugget/thane-ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "SQLite", "Home Assistant", "Ollama", "MQTT", "Git", "Docker", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- home automation
-- persistent memory
-- local AI
-- multi-model routing
-source: https://github.com/nugget/thane-ai-agent
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "home automation", "persistent memory", "local AI", "multi-model routing"]
+source: "https://github.com/nugget/thane-ai-agent"
 stars: 10
-language: Go
-last_updated: '2026-09-03T02:13:04Z'
-discovered_at: '2026-09-03T02:15:52Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T02:13:04Z"
+discovered_at: "2026-09-03T02:15:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

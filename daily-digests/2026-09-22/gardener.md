@@ -1,31 +1,19 @@
 ---
-title: ellmos-ai/gardener
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- SQLite
-- FTS5 (Full-Text Search)
-- CLI
-- Web UI (Standard Library)
-- JSONL
-- Markdown
+title: "ellmos-ai/gardener"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "FTS5 (Full-Text Search)", "CLI", "Web UI (Standard Library)", "JSONL", "Markdown"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- LLM memory
-- SQLite substrate
-- federated search
-- agent integration
-- knowledge management
-source: https://github.com/ellmos-ai/gardener
+deployment_complexity: "Low"
+tags: ["LLM memory", "SQLite substrate", "federated search", "agent integration", "knowledge management"]
+source: "https://github.com/ellmos-ai/gardener"
 stars: 1
-language: Python
-last_updated: '2026-08-01T13:09:05Z'
-discovered_at: '2026-08-01T13:16:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T13:09:05Z"
+discovered_at: "2026-08-01T13:16:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

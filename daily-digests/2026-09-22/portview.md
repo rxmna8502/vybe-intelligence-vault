@@ -1,30 +1,19 @@
 ---
-title: Mapika/portview
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- Docker
-- SSH
-- CLI
-- TUI
+title: "Mapika/portview"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "Docker", "SSH", "CLI", "TUI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- port management
-- process inspection
-- MCP server
-- diagnostics
-- cross-platform
-source: https://github.com/Mapika/portview
+deployment_complexity: "Low"
+tags: ["port management", "process inspection", "MCP server", "diagnostics", "cross-platform"]
+source: "https://github.com/Mapika/portview"
 stars: 57
-language: Rust
-last_updated: '2026-08-10T09:23:38Z'
-discovered_at: '2026-08-10T09:24:44Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-10T09:23:38Z"
+discovered_at: "2026-08-10T09:24:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

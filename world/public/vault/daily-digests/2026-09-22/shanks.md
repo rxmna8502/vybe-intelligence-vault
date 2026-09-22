@@ -1,31 +1,19 @@
 ---
-title: christophertna/shanks
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- Python
-- LangGraph
-- LangChain
-- Mermaid.js
-- SQLite
-- GitHub CLI
-- Bash
+title: "christophertna/shanks"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LangGraph", "LangChain", "Mermaid.js", "SQLite", "GitHub CLI", "Bash"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- workflow automation
-- agent orchestration
-- checkpointing
-- RAG pipeline
-- multi-agent systems
-source: https://github.com/christophertna/shanks
+deployment_complexity: "Medium"
+tags: ["workflow automation", "agent orchestration", "checkpointing", "RAG pipeline", "multi-agent systems"]
+source: "https://github.com/christophertna/shanks"
 stars: 0
-language: HTML
-last_updated: '2026-08-06T00:01:42Z'
-discovered_at: '2026-08-06T00:02:27Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-06T00:01:42Z"
+discovered_at: "2026-08-06T00:02:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

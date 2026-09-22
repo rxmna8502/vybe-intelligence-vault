@@ -1,27 +1,19 @@
 ---
-title: YunhaoDou/wangyangming-xinxue
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Markdown
-- Structured Knowledge Base
-- Agent Skill Integration
+title: "YunhaoDou/wangyangming-xinxue"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "Structured Knowledge Base", "Agent Skill Integration"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Philosophy
-- Structured Knowledge
-- AI Agent Skill
-- Chinese Classics
-- Knowledge Base
-source: https://github.com/YunhaoDou/wangyangming-xinxue
+deployment_complexity: "Low"
+tags: ["Philosophy", "Structured Knowledge", "AI Agent Skill", "Chinese Classics", "Knowledge Base"]
+source: "https://github.com/YunhaoDou/wangyangming-xinxue"
 stars: 0
-language: None
-last_updated: '2026-08-03T18:46:13Z'
-discovered_at: '2026-08-03T18:52:40Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-03T18:46:13Z"
+discovered_at: "2026-08-03T18:52:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

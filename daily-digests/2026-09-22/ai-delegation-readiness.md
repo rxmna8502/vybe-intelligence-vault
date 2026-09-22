@@ -1,30 +1,19 @@
 ---
-title: suwa-sh/ai-delegation-readiness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Docker
-- YAML
-- JSON Schema
-- CLI
-- Mermaid (for diagrams)
+title: "suwa-sh/ai-delegation-readiness"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Docker", "YAML", "JSON Schema", "CLI", "Mermaid (for diagrams)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI delegation
-- business readiness
-- audit framework
-- risk assessment
-- compliance
-source: https://github.com/suwa-sh/ai-delegation-readiness
+deployment_complexity: "Low"
+tags: ["AI delegation", "business readiness", "audit framework", "risk assessment", "compliance"]
+source: "https://github.com/suwa-sh/ai-delegation-readiness"
 stars: 0
-language: Python
-last_updated: '2026-07-19T16:49:13Z'
-discovered_at: '2026-07-19T16:57:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T16:49:13Z"
+discovered_at: "2026-07-19T16:57:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

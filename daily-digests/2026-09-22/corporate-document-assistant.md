@@ -1,37 +1,19 @@
 ---
-title: feyzasagman/corporate-document-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Sentence Transformers
-- LangChain
-- ChromaDB
-- OpenRouter
-- Pydantic
-- Uvicorn
-- Pytest
-- ESLint
+title: "feyzasagman/corporate-document-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Next.js", "TypeScript", "Tailwind CSS", "Sentence Transformers", "LangChain", "ChromaDB", "OpenRouter", "Pydantic", "Uvicorn", "Pytest", "ESLint"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Document Processing
-- Vector Database
-- Source Grounding
-- Enterprise AI
-source: https://github.com/feyzasagman/corporate-document-assistant
+deployment_complexity: "Medium"
+tags: ["RAG", "Document Processing", "Vector Database", "Source Grounding", "Enterprise AI"]
+source: "https://github.com/feyzasagman/corporate-document-assistant"
 stars: 0
-language: Python
-last_updated: '2026-08-07T20:07:32Z'
-discovered_at: '2026-08-07T20:43:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T20:07:32Z"
+discovered_at: "2026-08-07T20:43:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

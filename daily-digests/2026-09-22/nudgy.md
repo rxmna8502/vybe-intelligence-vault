@@ -1,30 +1,19 @@
 ---
-title: Hamma111/nudgy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Swift
-- SwiftUI
-- AppKit
-- Network.framework
-- NWListener
-- Keychain Services
+title: "Hamma111/nudgy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "SwiftUI", "AppKit", "Network.framework", "NWListener", "Keychain Services"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- macOS
-- AI agent monitoring
-- notifications
-- privacy-first
-- local-first
-source: https://github.com/Hamma111/nudgy
+deployment_complexity: "Low"
+tags: ["macOS", "AI agent monitoring", "notifications", "privacy-first", "local-first"]
+source: "https://github.com/Hamma111/nudgy"
 stars: 12
-language: Swift
-last_updated: '2026-09-03T19:00:00Z'
-discovered_at: '2026-09-03T19:04:50Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-09-03T19:00:00Z"
+discovered_at: "2026-09-03T19:04:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

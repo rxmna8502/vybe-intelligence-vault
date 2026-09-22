@@ -1,34 +1,19 @@
 ---
-title: shoto290/OpenNest
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Rust
-- Tauri
-- React
-- Vite
-- Bun
-- Tailwind CSS
-- Storybook
-- Vitest
-- Base UI
+title: "shoto290/OpenNest"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Rust", "Tauri", "React", "Vite", "Bun", "Tailwind CSS", "Storybook", "Vitest", "Base UI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent management
-- Claude Code integration
-- desktop application
-- multi-bot orchestration
-- persistent sessions
-source: https://github.com/shoto290/OpenNest
+deployment_complexity: "Medium"
+tags: ["AI agent management", "Claude Code integration", "desktop application", "multi-bot orchestration", "persistent sessions"]
+source: "https://github.com/shoto290/OpenNest"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-02T15:44:54Z'
-discovered_at: '2026-09-02T15:49:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:44:54Z"
+discovered_at: "2026-09-02T15:49:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

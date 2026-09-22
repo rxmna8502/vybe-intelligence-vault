@@ -1,41 +1,19 @@
 ---
-title: sosoj92/jarvis-assistant-vocal
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python 3.13
-- faster-whisper
-- openWakeWord
-- Claude API (Anthropic)
-- Ollama
-- ElevenLabs
-- Piper TTS
-- Playwright
-- Twilio
-- Philips Hue API
-- OBS WebSocket
-- Google Agenda API
-- Gmail API
-- Discord API
-- Instagram API
-- MCP (Model Context Protocol)
-- uv (package manager)
+title: "sosoj92/jarvis-assistant-vocal"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.13", "faster-whisper", "openWakeWord", "Claude API (Anthropic)", "Ollama", "ElevenLabs", "Piper TTS", "Playwright", "Twilio", "Philips Hue API", "OBS WebSocket", "Google Agenda API", "Gmail API", "Discord API", "Instagram API", "MCP (Model Context Protocol)", "uv (package manager)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- assistant vocal
-- LLM local
-- domotique
-- MCP
-- multimodal
-source: https://github.com/sosoj92/jarvis-assistant-vocal
+deployment_complexity: "Medium"
+tags: ["assistant vocal", "LLM local", "domotique", "MCP", "multimodal"]
+source: "https://github.com/sosoj92/jarvis-assistant-vocal"
 stars: 0
-language: Python
-last_updated: '2026-08-07T16:51:09Z'
-discovered_at: '2026-08-07T16:57:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T16:51:09Z"
+discovered_at: "2026-08-07T16:57:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

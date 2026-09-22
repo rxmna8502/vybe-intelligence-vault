@@ -1,37 +1,19 @@
 ---
-title: isnnyll/hyperspace-terminal
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript/TypeScript
-- Node.js
-- Bun
-- Web Technologies (Chromium, Safari, Firefox)
-- YAML
-- Mermaid.js
-- Kubernetes
-- Docker
-- OpenAI API
-- Claude API
-- Git
-- PostgreSQL
-- Redis
+title: "isnnyll/hyperspace-terminal"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript/TypeScript", "Node.js", "Bun", "Web Technologies (Chromium, Safari, Firefox)", "YAML", "Mermaid.js", "Kubernetes", "Docker", "OpenAI API", "Claude API", "Git", "PostgreSQL", "Redis"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- terminal orchestrator
-- AI-assisted development
-- context-aware CLI
-- workflow automation
-- cloud integration
-source: https://github.com/isnnyll/hyperspace-terminal
+deployment_complexity: "Medium"
+tags: ["terminal orchestrator", "AI-assisted development", "context-aware CLI", "workflow automation", "cloud integration"]
+source: "https://github.com/isnnyll/hyperspace-terminal"
 stars: 1
-language: HTML
-last_updated: '2026-07-11T20:05:14Z'
-discovered_at: '2026-07-11T20:09:46Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-11T20:05:14Z"
+discovered_at: "2026-07-11T20:09:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

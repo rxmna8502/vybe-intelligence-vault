@@ -1,29 +1,19 @@
 ---
-title: BiggerCap/agentops-hub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- FastAPI
-- PostgreSQL
-- Qdrant
-- Python
+title: "BiggerCap/agentops-hub"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "FastAPI", "PostgreSQL", "Qdrant", "Python"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent management
-- real-time streaming
-- multi-tool execution
-- production-ready
-- orchestration
-source: https://github.com/BiggerCap/agentops-hub
+deployment_complexity: "Medium"
+tags: ["AI agent management", "real-time streaming", "multi-tool execution", "production-ready", "orchestration"]
+source: "https://github.com/BiggerCap/agentops-hub"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-09T12:46:45Z'
-discovered_at: '2026-08-09T12:50:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T12:46:45Z"
+discovered_at: "2026-08-09T12:50:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

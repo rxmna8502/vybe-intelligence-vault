@@ -1,29 +1,19 @@
 ---
-title: opendata-kr/narajangteo-opening-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- npm
-- GitHub Actions
+title: "opendata-kr/narajangteo-opening-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Public Procurement Data
-- Korean API
-- Bid Results
-- Data Wrapping
-source: https://github.com/opendata-kr/narajangteo-opening-mcp
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Public Procurement Data", "Korean API", "Bid Results", "Data Wrapping"]
+source: "https://github.com/opendata-kr/narajangteo-opening-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-14T07:56:18Z'
-discovered_at: '2026-07-14T08:01:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T07:56:18Z"
+discovered_at: "2026-07-14T08:01:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

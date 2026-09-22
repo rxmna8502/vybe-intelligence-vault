@@ -1,30 +1,19 @@
 ---
-title: 1zhangyy1/pi-human-message
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Pi Extension Framework
-- Node.js
-- Webhook
-- REST API
-- CI/CD (GitHub Actions)
+title: "1zhangyy1/pi-human-message"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Pi Extension Framework", "Node.js", "Webhook", "REST API", "CI/CD (GitHub Actions)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI message delivery
-- agent behavior control
-- semantic chat bubbles
-- Pi extension
-- multi-platform messaging
-source: https://github.com/1zhangyy1/pi-human-message
+deployment_complexity: "Medium"
+tags: ["AI message delivery", "agent behavior control", "semantic chat bubbles", "Pi extension", "multi-platform messaging"]
+source: "https://github.com/1zhangyy1/pi-human-message"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T15:49:24Z'
-discovered_at: '2026-09-02T15:49:41Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:49:24Z"
+discovered_at: "2026-09-02T15:49:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

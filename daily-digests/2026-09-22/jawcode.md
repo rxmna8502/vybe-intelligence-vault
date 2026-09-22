@@ -1,30 +1,19 @@
 ---
-title: lidge-jun/jawcode
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Bun
-- Node.js
-- Rust
-- Mermaid
-- tmux
+title: "lidge-jun/jawcode"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Node.js", "Rust", "Mermaid", "tmux"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- coding agent
-- IPABCD workflow
-- multi-model
-- Bun-native
-- adversarial verification
-source: https://github.com/lidge-jun/jawcode
+deployment_complexity: "Medium"
+tags: ["coding agent", "IPABCD workflow", "multi-model", "Bun-native", "adversarial verification"]
+source: "https://github.com/lidge-jun/jawcode"
 stars: 7
-language: TypeScript
-last_updated: '2026-08-07T18:56:48Z'
-discovered_at: '2026-08-07T18:57:36Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T18:56:48Z"
+discovered_at: "2026-08-07T18:57:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

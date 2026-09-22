@@ -1,32 +1,19 @@
 ---
-title: joaquinbejar/ai-crew-sync
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- PostgreSQL
-- MCP (Model Context Protocol)
-- Streamable HTTP
-- axum
-- SQLx
-- Docker
-- CI/CD (GitHub Actions)
+title: "joaquinbejar/ai-crew-sync"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "PostgreSQL", "MCP (Model Context Protocol)", "Streamable HTTP", "axum", "SQLx", "Docker", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent coordination
-- task management
-- real-time collaboration
-- Postgres-backed state
-- MCP server
-source: https://github.com/joaquinbejar/ai-crew-sync
+deployment_complexity: "Medium"
+tags: ["AI agent coordination", "task management", "real-time collaboration", "Postgres-backed state", "MCP server"]
+source: "https://github.com/joaquinbejar/ai-crew-sync"
 stars: 0
-language: Rust
-last_updated: '2026-08-01T06:13:05Z'
-discovered_at: '2026-08-01T06:29:17Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T06:13:05Z"
+discovered_at: "2026-08-01T06:29:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

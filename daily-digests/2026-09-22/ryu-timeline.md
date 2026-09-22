@@ -1,31 +1,19 @@
 ---
-title: amajorai/ryu-timeline
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Vite
-- vite-plugin-singlefile
-- HTML/CSS
-- Shadow (capture service)
-- Ryu monorepo
-- Apache-2.0
+title: "amajorai/ryu-timeline"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Vite", "vite-plugin-singlefile", "HTML/CSS", "Shadow (capture service)", "Ryu monorepo", "Apache-2.0"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- timeline
-- screen capture
-- keyframe
-- journaling
-- data visualization
-source: https://github.com/amajorai/ryu-timeline
+deployment_complexity: "Medium"
+tags: ["timeline", "screen capture", "keyframe", "journaling", "data visualization"]
+source: "https://github.com/amajorai/ryu-timeline"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-05T08:32:08Z'
-discovered_at: '2026-08-05T08:36:40Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T08:32:08Z"
+discovered_at: "2026-08-05T08:36:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

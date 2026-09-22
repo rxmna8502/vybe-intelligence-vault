@@ -1,32 +1,19 @@
 ---
-title: jonas-johansson/pace-coding-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- React/Ink (for TUI)
-- Anthropic API
-- OpenAI API
-- Fireworks API
-- OpenCode Zen API
-- MCP (Model Context Protocol)
+title: "jonas-johansson/pace-coding-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "React/Ink (for TUI)", "Anthropic API", "OpenAI API", "Fireworks API", "OpenCode Zen API", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal agent
-- coding assistant
-- TUI
-- MCP integration
-- multi-model support
-source: https://github.com/jonas-johansson/pace-coding-agent
+deployment_complexity: "Medium"
+tags: ["terminal agent", "coding assistant", "TUI", "MCP integration", "multi-model support"]
+source: "https://github.com/jonas-johansson/pace-coding-agent"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-20T19:42:54Z'
-discovered_at: '2026-07-20T19:53:36Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-20T19:42:54Z"
+discovered_at: "2026-07-20T19:53:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

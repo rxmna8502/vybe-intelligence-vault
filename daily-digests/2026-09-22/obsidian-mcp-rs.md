@@ -1,30 +1,19 @@
 ---
-title: MrRefactoring/obsidian-mcp-rs
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- BM25 Search
-- Rayon (Parallel Processing)
-- Serde (YAML Parsing)
-- Ignore Crate (File Filtering)
+title: "MrRefactoring/obsidian-mcp-rs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "BM25 Search", "Rayon (Parallel Processing)", "Serde (YAML Parsing)", "Ignore Crate (File Filtering)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- Obsidian integration
-- RAG tooling
-- AI client connector
-- Rust
-source: https://github.com/MrRefactoring/obsidian-mcp-rs
+deployment_complexity: "Low"
+tags: ["MCP server", "Obsidian integration", "RAG tooling", "AI client connector", "Rust"]
+source: "https://github.com/MrRefactoring/obsidian-mcp-rs"
 stars: 0
-language: Rust
-last_updated: '2026-07-12T21:46:17Z'
-discovered_at: '2026-07-12T21:47:42Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-12T21:46:17Z"
+discovered_at: "2026-07-12T21:47:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

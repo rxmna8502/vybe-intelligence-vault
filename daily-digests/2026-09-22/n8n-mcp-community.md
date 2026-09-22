@@ -1,31 +1,19 @@
 ---
-title: drzamarian/n8n-mcp-community
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- n8n Public API
-- npm
-- CI/CD (GitHub Actions)
-- Security Scanners (Gitleaks, Semgrep, Trivy)
+title: "drzamarian/n8n-mcp-community"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "n8n Public API", "npm", "CI/CD (GitHub Actions)", "Security Scanners (Gitleaks, Semgrep, Trivy)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- n8n Integration
-- Workflow Automation
-- Security-First
-- Self-Hosted
-source: https://github.com/drzamarian/n8n-mcp-community
+deployment_complexity: "Medium"
+tags: ["MCP Server", "n8n Integration", "Workflow Automation", "Security-First", "Self-Hosted"]
+source: "https://github.com/drzamarian/n8n-mcp-community"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-21T03:51:18Z'
-discovered_at: '2026-07-21T04:15:14Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T03:51:18Z"
+discovered_at: "2026-07-21T04:15:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

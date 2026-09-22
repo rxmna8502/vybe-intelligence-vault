@@ -1,29 +1,19 @@
 ---
-title: navidmoazzez/facebook-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Meta Graph API
-- Model Context Protocol (MCP)
-- Docker
+title: "navidmoazzez/facebook-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Meta Graph API", "Model Context Protocol (MCP)", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Facebook API
-- MCP server
-- social media automation
-- AI agent integration
-- content scheduling
-source: https://github.com/navidmoazzez/facebook-mcp
+deployment_complexity: "Medium"
+tags: ["Facebook API", "MCP server", "social media automation", "AI agent integration", "content scheduling"]
+source: "https://github.com/navidmoazzez/facebook-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T15:45:28Z'
-discovered_at: '2026-09-01T15:55:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T15:45:28Z"
+discovered_at: "2026-09-01T15:55:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

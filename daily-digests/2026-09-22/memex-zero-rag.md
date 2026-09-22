@@ -1,31 +1,19 @@
 ---
-title: JPeetz/MeMex-Zero-RAG
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Markdown
-- Git
-- Python
-- MCP (Model Context Protocol)
-- BM25
-- Semantic Search
-- vis-network (for knowledge graph visualization)
+title: "JPeetz/MeMex-Zero-RAG"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Markdown", "Git", "Python", "MCP (Model Context Protocol)", "BM25", "Semantic Search", "vis-network (for knowledge graph visualization)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Zero-RAG
-- Knowledge Compilation
-- Multi-Agent Collaboration
-- Git-Native
-- Hallucination Prevention
-source: https://github.com/JPeetz/MeMex-Zero-RAG
+deployment_complexity: "Medium"
+tags: ["Zero-RAG", "Knowledge Compilation", "Multi-Agent Collaboration", "Git-Native", "Hallucination Prevention"]
+source: "https://github.com/JPeetz/MeMex-Zero-RAG"
 stars: 7
-language: HTML
-last_updated: '2026-08-05T11:17:29Z'
-discovered_at: '2026-08-05T11:22:14Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-05T11:17:29Z"
+discovered_at: "2026-08-05T11:22:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

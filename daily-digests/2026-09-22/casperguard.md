@@ -1,35 +1,19 @@
 ---
-title: yogeshkampalliwar/casperguard
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- React 19
-- TypeScript
-- Node.js
-- Rust
-- Odra Framework
-- Solidity
-- Ethers.js v6
-- x402
-- EIP-712
-- Casper RPC v2
-- Vite
+title: "yogeshkampalliwar/casperguard"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["React 19", "TypeScript", "Node.js", "Rust", "Odra Framework", "Solidity", "Ethers.js v6", "x402", "EIP-712", "Casper RPC v2", "Vite"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI security
-- Casper Network
-- micropayments
-- smart contract firewall
-- agent monitoring
-source: https://github.com/yogeshkampalliwar/casperguard
+deployment_complexity: "Medium"
+tags: ["AI security", "Casper Network", "micropayments", "smart contract firewall", "agent monitoring"]
+source: "https://github.com/yogeshkampalliwar/casperguard"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-21T04:10:52Z'
-discovered_at: '2026-07-21T04:14:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T04:10:52Z"
+discovered_at: "2026-07-21T04:14:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

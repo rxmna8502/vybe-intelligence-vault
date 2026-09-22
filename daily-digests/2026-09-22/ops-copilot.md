@@ -1,41 +1,19 @@
 ---
-title: derenchukvip-pixel/ops-copilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Java 21
-- Spring Boot 3.3.5
-- PostgreSQL 16
-- Flyway
-- Testcontainers
-- JUnit 5
-- Mockito
-- AssertJ
-- springdoc-openapi (Swagger UI)
-- Docker Compose
-- Anthropic Messages API
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind 4
-- Vitest
-- Testing Library
+title: "derenchukvip-pixel/ops-copilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Java 21", "Spring Boot 3.3.5", "PostgreSQL 16", "Flyway", "Testcontainers", "JUnit 5", "Mockito", "AssertJ", "springdoc-openapi (Swagger UI)", "Docker Compose", "Anthropic Messages API", "Next.js 16", "React 19", "TypeScript", "Tailwind 4", "Vitest", "Testing Library"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent
-- ticket triage
-- human-in-the-loop
-- audit logging
-- idempotency
-source: https://github.com/derenchukvip-pixel/ops-copilot
+deployment_complexity: "Medium"
+tags: ["AI agent", "ticket triage", "human-in-the-loop", "audit logging", "idempotency"]
+source: "https://github.com/derenchukvip-pixel/ops-copilot"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T16:02:49Z'
-discovered_at: '2026-08-10T16:06:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T16:02:49Z"
+discovered_at: "2026-08-10T16:06:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

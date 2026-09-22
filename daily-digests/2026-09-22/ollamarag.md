@@ -1,29 +1,19 @@
 ---
-title: roberto729a/OllamaRAG
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Ollama
-- LangChain
-- Streamlit
-- RAG (Retrieval-Augmented Generation)
+title: "roberto729a/OllamaRAG"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Ollama", "LangChain", "Streamlit", "RAG (Retrieval-Augmented Generation)"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- RAG
-- local LLM
-- conversational AI
-- Streamlit
-- document retrieval
-source: https://github.com/roberto729a/OllamaRAG
+deployment_complexity: "Medium"
+tags: ["RAG", "local LLM", "conversational AI", "Streamlit", "document retrieval"]
+source: "https://github.com/roberto729a/OllamaRAG"
 stars: 6
-language: Python
-last_updated: '2026-08-09T12:32:00Z'
-discovered_at: '2026-08-09T12:51:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T12:32:00Z"
+discovered_at: "2026-08-09T12:51:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

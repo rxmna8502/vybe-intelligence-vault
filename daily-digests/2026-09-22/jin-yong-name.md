@@ -1,29 +1,19 @@
 ---
-title: linkaka93/jin-yong-name
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Agent Framework
-- Shell Scripting
-- Natural Language Processing (NLP)
-- Cultural Data Analysis
+title: "linkaka93/jin-yong-name"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Agent Framework", "Shell Scripting", "Natural Language Processing (NLP)", "Cultural Data Analysis"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Chinese Name Generation
-- Cultural Naming
-- Agent Skill
-- Real-Life Naming
-- Jin Yong Inspired
-source: https://github.com/linkaka93/jin-yong-name
+deployment_complexity: "Low"
+tags: ["Chinese Name Generation", "Cultural Naming", "Agent Skill", "Real-Life Naming", "Jin Yong Inspired"]
+source: "https://github.com/linkaka93/jin-yong-name"
 stars: 0
-language: Python
-last_updated: '2026-07-13T12:34:48Z'
-discovered_at: '2026-07-13T13:22:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T12:34:48Z"
+discovered_at: "2026-07-13T13:22:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

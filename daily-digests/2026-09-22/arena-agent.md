@@ -1,35 +1,19 @@
 ---
-title: IvanSkainet/arena-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- REST API
-- MCP (Model Context Protocol)
-- WebSocket/SSE
-- Browser Extension
-- Chrome DevTools Protocol
-- AppContainer
-- WASM
-- Tailscale
-- Cloudflare Tunnel
-- ZeroTier
+title: "IvanSkainet/arena-agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "REST API", "MCP (Model Context Protocol)", "WebSocket/SSE", "Browser Extension", "Chrome DevTools Protocol", "AppContainer", "WASM", "Tailscale", "Cloudflare Tunnel", "ZeroTier"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- agent automation
-- local-first
-- sandboxed execution
-- MCP server
-- self-extending environment
-source: https://github.com/IvanSkainet/arena-agent
+deployment_complexity: "Medium"
+tags: ["agent automation", "local-first", "sandboxed execution", "MCP server", "self-extending environment"]
+source: "https://github.com/IvanSkainet/arena-agent"
 stars: 3
-language: Python
-last_updated: '2026-08-04T00:03:57Z'
-discovered_at: '2026-08-04T00:11:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T00:03:57Z"
+discovered_at: "2026-08-04T00:11:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: bitrouter/bitrouter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- YAML
-- MCP (Model Context Protocol)
-- ACP (Agent Client Protocol)
-- Prometheus
-- OTLP (OpenTelemetry Protocol)
-- OpenTelemetry
-- HTTP/REST
-- CLI
-- Git
+title: "bitrouter/bitrouter"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "YAML", "MCP (Model Context Protocol)", "ACP (Agent Client Protocol)", "Prometheus", "OTLP (OpenTelemetry Protocol)", "OpenTelemetry", "HTTP/REST", "CLI", "Git"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- model routing
-- cost optimization
-- agent orchestration
-- context-aware
-- self-improving
-source: https://github.com/bitrouter/bitrouter
+deployment_complexity: "Medium"
+tags: ["model routing", "cost optimization", "agent orchestration", "context-aware", "self-improving"]
+source: "https://github.com/bitrouter/bitrouter"
 stars: 222
-language: Rust
-last_updated: '2026-09-01T09:00:43Z'
-discovered_at: '2026-09-01T09:10:04Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-01T09:00:43Z"
+discovered_at: "2026-09-01T09:10:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

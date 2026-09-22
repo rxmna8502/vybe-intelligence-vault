@@ -1,30 +1,19 @@
 ---
-title: Loctree/loctree
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- CLI
-- MCP Server
-- LSP
-- npm
-- cargo
+title: "Loctree/loctree"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "CLI", "MCP Server", "LSP", "npm", "cargo"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- code analysis
-- dependency graph
-- AI agents
-- static analysis
-- developer tools
-source: https://github.com/Loctree/loctree
+deployment_complexity: "Medium"
+tags: ["code analysis", "dependency graph", "AI agents", "static analysis", "developer tools"]
+source: "https://github.com/Loctree/loctree"
 stars: 9
-language: Rust
-last_updated: '2026-07-12T02:12:29Z'
-discovered_at: '2026-07-12T02:33:04Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-12T02:12:29Z"
+discovered_at: "2026-07-12T02:33:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

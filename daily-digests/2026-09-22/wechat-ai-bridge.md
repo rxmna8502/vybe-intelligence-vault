@@ -1,32 +1,19 @@
 ---
-title: AliceLJY/wechat-ai-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Bun Runtime
-- SQLite
-- WeChat iLink API
-- Claude Code SDK
-- Codex SDK
-- Gemini Code Assist API
-- AES-128-ECB Encryption
+title: "AliceLJY/wechat-ai-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Bun Runtime", "SQLite", "WeChat iLink API", "Claude Code SDK", "Codex SDK", "Gemini Code Assist API", "AES-128-ECB Encryption"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- WeChat integration
-- AI agent bridge
-- session management
-- file relay
-- multi-backend
-source: https://github.com/AliceLJY/wechat-ai-bridge
+deployment_complexity: "Medium"
+tags: ["WeChat integration", "AI agent bridge", "session management", "file relay", "multi-backend"]
+source: "https://github.com/AliceLJY/wechat-ai-bridge"
 stars: 7
-language: JavaScript
-last_updated: '2026-07-19T08:09:25Z'
-discovered_at: '2026-07-19T08:13:36Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-19T08:09:25Z"
+discovered_at: "2026-07-19T08:13:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

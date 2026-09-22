@@ -1,33 +1,19 @@
 ---
-title: ai-sdlc-framework/ai-sdlc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Python
-- Go
-- JSON Schema
-- Claude Code
-- GitHub Actions
-- DSSE (Digital Signature of Software Artifacts)
-- MCP (Model Context Protocol)
-- Kubernetes-style CRDs
+title: "ai-sdlc-framework/ai-sdlc"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Python", "Go", "JSON Schema", "Claude Code", "GitHub Actions", "DSSE (Digital Signature of Software Artifacts)", "MCP (Model Context Protocol)", "Kubernetes-style CRDs"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- AI governance
-- spec-driven development
-- autonomous agents
-- deterministic execution
-- cross-harness review
-source: https://github.com/ai-sdlc-framework/ai-sdlc
+deployment_complexity: "High"
+tags: ["AI governance", "spec-driven development", "autonomous agents", "deterministic execution", "cross-harness review"]
+source: "https://github.com/ai-sdlc-framework/ai-sdlc"
 stars: 74
-language: TypeScript
-last_updated: '2026-07-31T02:21:26Z'
-discovered_at: '2026-08-01T16:07:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-31T02:21:26Z"
+discovered_at: "2026-08-01T16:07:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

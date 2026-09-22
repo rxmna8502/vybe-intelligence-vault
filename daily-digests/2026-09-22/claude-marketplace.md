@@ -1,30 +1,19 @@
 ---
-title: coinpaprika/claude-marketplace
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Claude Code
-- MCP (Model Context Protocol)
-- SSE (Server-Sent Events)
-- HTTP Streaming
-- JSON
-- Markdown
+title: "coinpaprika/claude-marketplace"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "MCP (Model Context Protocol)", "SSE (Server-Sent Events)", "HTTP Streaming", "JSON", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- crypto market data
-- DeFi analytics
-- MCP tools
-- Claude Code plugins
-- API integration
-source: https://github.com/coinpaprika/claude-marketplace
+deployment_complexity: "Low"
+tags: ["crypto market data", "DeFi analytics", "MCP tools", "Claude Code plugins", "API integration"]
+source: "https://github.com/coinpaprika/claude-marketplace"
 stars: 9
-language: None
-last_updated: '2026-08-05T08:24:25Z'
-discovered_at: '2026-08-05T08:37:02Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-05T08:24:25Z"
+discovered_at: "2026-08-05T08:37:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

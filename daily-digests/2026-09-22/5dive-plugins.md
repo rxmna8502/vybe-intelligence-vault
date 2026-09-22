@@ -1,33 +1,19 @@
 ---
-title: 5dive-ai/5dive-plugins
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Telegram Bot API
-- Claude Code
-- OpenAI Codex
-- xAI Grok
-- Google Antigravity
-- opencode
-- MCP (Model Context Protocol)
-- Node.js
+title: "5dive-ai/5dive-plugins"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Telegram Bot API", "Claude Code", "OpenAI Codex", "xAI Grok", "Google Antigravity", "opencode", "MCP (Model Context Protocol)", "Node.js"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Telegram bot
-- agent CLI
-- plugin marketplace
-- multi-runtime
-- bridge
-source: https://github.com/5dive-ai/5dive-plugins
+deployment_complexity: "Medium"
+tags: ["Telegram bot", "agent CLI", "plugin marketplace", "multi-runtime", "bridge"]
+source: "https://github.com/5dive-ai/5dive-plugins"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-11T09:15:14Z'
-discovered_at: '2026-07-11T09:27:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T09:15:14Z"
+discovered_at: "2026-07-11T09:27:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

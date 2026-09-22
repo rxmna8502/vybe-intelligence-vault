@@ -1,31 +1,19 @@
 ---
-title: wyre-technology/huntress-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Docker
-- HTTP Streamable Transport
-- Jest (Testing)
-- ESLint (Linting)
+title: "wyre-technology/huntress-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "HTTP Streamable Transport", "Jest (Testing)", "ESLint (Linting)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- cybersecurity
-- Huntress integration
-- AI tooling
-- API abstraction
-source: https://github.com/wyre-technology/huntress-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "cybersecurity", "Huntress integration", "AI tooling", "API abstraction"]
+source: "https://github.com/wyre-technology/huntress-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-10T16:59:58Z'
-discovered_at: '2026-08-10T17:06:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T16:59:58Z"
+discovered_at: "2026-08-10T17:06:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: kondalavenkat/sql-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Next.js 15
-- FastAPI
-- Python
-- React 19
-- Whisper (faster-whisper)
-- SQLAlchemy
-- Pandas
-- sentence-transformers
-- Recharts
-- pyodbc
-- CTranslate2
+title: "kondalavenkat/sql-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js 15", "FastAPI", "Python", "React 19", "Whisper (faster-whisper)", "SQLAlchemy", "Pandas", "sentence-transformers", "Recharts", "pyodbc", "CTranslate2"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- SQL analytics
-- voice-to-SQL
-- semantic caching
-- multi-format ingestion
-- local AI
-source: https://github.com/kondalavenkat/sql-agent
+deployment_complexity: "Medium"
+tags: ["SQL analytics", "voice-to-SQL", "semantic caching", "multi-format ingestion", "local AI"]
+source: "https://github.com/kondalavenkat/sql-agent"
 stars: 0
-language: Python
-last_updated: '2026-07-20T17:49:12Z'
-discovered_at: '2026-07-20T18:00:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T17:49:12Z"
+discovered_at: "2026-07-20T18:00:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

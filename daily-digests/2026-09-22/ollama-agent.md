@@ -1,33 +1,19 @@
 ---
-title: MaurerKrisztian/ollama-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- React
-- Vite
-- Node.js
-- Express
-- Ollama
-- TypeScript Compiler API
-- SSE (Server-Sent Events)
-- Docker
+title: "MaurerKrisztian/ollama-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "React", "Vite", "Node.js", "Express", "Ollama", "TypeScript Compiler API", "SSE (Server-Sent Events)", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local AI
-- coding agent
-- privacy-first
-- Ollama integration
-- developer tools
-source: https://github.com/MaurerKrisztian/ollama-agent
+deployment_complexity: "Medium"
+tags: ["local AI", "coding agent", "privacy-first", "Ollama integration", "developer tools"]
+source: "https://github.com/MaurerKrisztian/ollama-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T08:56:41Z'
-discovered_at: '2026-08-01T09:06:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T08:56:41Z"
+discovered_at: "2026-08-01T09:06:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

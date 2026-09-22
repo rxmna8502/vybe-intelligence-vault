@@ -1,32 +1,19 @@
 ---
-title: sgharlow/ai-control-framework
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Bash
-- PowerShell
-- Node.js
-- MCP (Model Context Protocol)
-- CI/CD (GitHub Actions)
-- SHA256
-- Vitest
+title: "sgharlow/ai-control-framework"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bash", "PowerShell", "Node.js", "MCP (Model Context Protocol)", "CI/CD (GitHub Actions)", "SHA256", "Vitest"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI code governance
-- production readiness
-- contract enforcement
-- deployability scoring
-- AI development guardrails
-source: https://github.com/sgharlow/ai-control-framework
+deployment_complexity: "Medium"
+tags: ["AI code governance", "production readiness", "contract enforcement", "deployability scoring", "AI development guardrails"]
+source: "https://github.com/sgharlow/ai-control-framework"
 stars: 4
-language: TypeScript
-last_updated: '2026-07-18T09:21:03Z'
-discovered_at: '2026-07-18T09:23:58Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T09:21:03Z"
+discovered_at: "2026-07-18T09:23:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

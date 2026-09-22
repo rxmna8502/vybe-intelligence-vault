@@ -1,29 +1,19 @@
 ---
-title: druellan/Productive-Simple-MCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastMCP
-- Productive.io API
-- uv
-- MCP (Model Context Protocol)
+title: "druellan/Productive-Simple-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "Productive.io API", "uv", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP Server
-- Productive.io Integration
-- AI Workflow Automation
-- Task Management
-- Read/Write API
-source: https://github.com/druellan/Productive-Simple-MCP
+deployment_complexity: "Low"
+tags: ["MCP Server", "Productive.io Integration", "AI Workflow Automation", "Task Management", "Read/Write API"]
+source: "https://github.com/druellan/Productive-Simple-MCP"
 stars: 0
-language: Python
-last_updated: '2026-08-07T20:36:33Z'
-discovered_at: '2026-08-07T20:43:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T20:36:33Z"
+discovered_at: "2026-08-07T20:43:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

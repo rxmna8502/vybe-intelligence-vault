@@ -1,31 +1,19 @@
 ---
-title: sblattj/cdp-toolkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Bun
-- Chrome DevTools Protocol (CDP)
-- WebSocket
-- MCP (Model Context Protocol)
-- npm
+title: "sblattj/cdp-toolkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Bun", "Chrome DevTools Protocol (CDP)", "WebSocket", "MCP (Model Context Protocol)", "npm"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- Chrome automation
-- DevTools Protocol
-- MCP server
-- network mocking
-- agent reliability
-source: https://github.com/sblattj/cdp-toolkit
+deployment_complexity: "Low"
+tags: ["Chrome automation", "DevTools Protocol", "MCP server", "network mocking", "agent reliability"]
+source: "https://github.com/sblattj/cdp-toolkit"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-07T17:43:14Z'
-discovered_at: '2026-08-07T17:52:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T17:43:14Z"
+discovered_at: "2026-08-07T17:52:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

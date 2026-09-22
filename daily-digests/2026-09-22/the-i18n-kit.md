@@ -1,32 +1,19 @@
 ---
-title: fabkho/the-i18n-kit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- CLI
-- GitHub Actions
-- GitLab CI
-- LLM Integration (OpenAI, Anthropic, Google)
-- JSON/PHP locale formats
+title: "fabkho/the-i18n-kit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "GitHub Actions", "GitLab CI", "LLM Integration (OpenAI, Anthropic, Google)", "JSON/PHP locale formats"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- i18n
-- translation management
-- AI agent integration
-- CLI tool
-- automation
-source: https://github.com/fabkho/the-i18n-kit
+deployment_complexity: "Medium"
+tags: ["i18n", "translation management", "AI agent integration", "CLI tool", "automation"]
+source: "https://github.com/fabkho/the-i18n-kit"
 stars: 10
-language: TypeScript
-last_updated: '2026-08-08T09:39:02Z'
-discovered_at: '2026-08-08T09:40:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T09:39:02Z"
+discovered_at: "2026-08-08T09:40:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

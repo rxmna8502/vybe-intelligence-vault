@@ -1,33 +1,19 @@
 ---
-title: dizzzable/Kyrei
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Electron
-- React
-- SQLite
-- Vitest
-- Vite
-- Better-SQLite3
-- SQLite-Vec
+title: "dizzzable/Kyrei"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Electron", "React", "SQLite", "Vitest", "Vite", "Better-SQLite3", "SQLite-Vec"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local AI agent
-- multi-provider orchestration
-- desktop-first UX
-- project memory
-- team collaboration
-source: https://github.com/dizzzable/Kyrei
+deployment_complexity: "Medium"
+tags: ["local AI agent", "multi-provider orchestration", "desktop-first UX", "project memory", "team collaboration"]
+source: "https://github.com/dizzzable/Kyrei"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-17T16:09:42Z'
-discovered_at: '2026-07-17T16:14:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T16:09:42Z"
+discovered_at: "2026-07-17T16:14:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

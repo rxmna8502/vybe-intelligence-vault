@@ -1,34 +1,19 @@
 ---
-title: dongdong306/hailux
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- ratatui
-- crossterm
-- async-openai
-- rmcp
-- SQLite
-- pulldown-cmark
-- syntect
-- ripgrep
-- clap
+title: "dongdong306/hailux"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "ratatui", "crossterm", "async-openai", "rmcp", "SQLite", "pulldown-cmark", "syntect", "ripgrep", "clap"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- terminal AI
-- code assistant
-- Rust-based
-- multi-agent
-- MCP integration
-source: https://github.com/dongdong306/hailux
+deployment_complexity: "Medium"
+tags: ["terminal AI", "code assistant", "Rust-based", "multi-agent", "MCP integration"]
+source: "https://github.com/dongdong306/hailux"
 stars: 3
-language: Rust
-last_updated: '2026-08-08T18:38:07Z'
-discovered_at: '2026-08-08T18:39:17Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-08T18:38:07Z"
+discovered_at: "2026-08-08T18:39:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

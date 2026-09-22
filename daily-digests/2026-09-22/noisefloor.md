@@ -1,30 +1,19 @@
 ---
-title: ahmed-hashim-pro/noisefloor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- PyYAML
-- Pydantic
-- Subprocess
-- JSON
-- pytest
+title: "ahmed-hashim-pro/noisefloor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PyYAML", "Pydantic", "Subprocess", "JSON", "pytest"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- regression testing
-- noise measurement
-- RAG evaluation
-- CI/CD integration
-- deterministic evaluation
-source: https://github.com/ahmed-hashim-pro/noisefloor
+deployment_complexity: "Medium"
+tags: ["regression testing", "noise measurement", "RAG evaluation", "CI/CD integration", "deterministic evaluation"]
+source: "https://github.com/ahmed-hashim-pro/noisefloor"
 stars: 0
-language: Python
-last_updated: '2026-09-03T03:14:33Z'
-discovered_at: '2026-09-03T22:12:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T03:14:33Z"
+discovered_at: "2026-09-03T22:12:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

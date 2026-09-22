@@ -1,29 +1,19 @@
 ---
-title: ontoramp/ontoramp-decision-intelligence
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Model Context Protocol (MCP)
-- Streamable HTTP
-- REST APIs
-- Authentication (Bearer tokens)
-- Fly.io (hosting)
+title: "ontoramp/ontoramp-decision-intelligence"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Model Context Protocol (MCP)", "Streamable HTTP", "REST APIs", "Authentication (Bearer tokens)", "Fly.io (hosting)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI governance
-- decision logging
-- authority graph
-- MCP server
-- audit trail
-source: https://github.com/ontoramp/ontoramp-decision-intelligence
+deployment_complexity: "Low"
+tags: ["AI governance", "decision logging", "authority graph", "MCP server", "audit trail"]
+source: "https://github.com/ontoramp/ontoramp-decision-intelligence"
 stars: 0
-language: None
-last_updated: '2026-08-07T17:47:16Z'
-discovered_at: '2026-08-07T17:52:13Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T17:47:16Z"
+discovered_at: "2026-08-07T17:52:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

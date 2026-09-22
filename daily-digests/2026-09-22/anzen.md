@@ -1,39 +1,19 @@
 ---
-title: rkchellah/Anzen
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Next.js
-- TypeScript
-- Vercel AI SDK
-- Auth0
-- Auth0 Token Vault
-- DeepSeek
-- Groq
-- Octokit
-- googleapis
-- '@slack/web-api'
-- Tailwind CSS
-- shadcn/ui
-- Radix Base UI
-- CircleCI
-- Vercel
+title: "rkchellah/Anzen"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js", "TypeScript", "Vercel AI SDK", "Auth0", "Auth0 Token Vault", "DeepSeek", "Groq", "Octokit", "googleapis", "@slack/web-api", "Tailwind CSS", "shadcn/ui", "Radix Base UI", "CircleCI", "Vercel"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- credential security
-- token vault
-- multi-tool integration
-- zero-trust architecture
-source: https://github.com/rkchellah/Anzen
+deployment_complexity: "Medium"
+tags: ["AI agents", "credential security", "token vault", "multi-tool integration", "zero-trust architecture"]
+source: "https://github.com/rkchellah/Anzen"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T16:30:41Z'
-discovered_at: '2026-08-09T16:38:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T16:30:41Z"
+discovered_at: "2026-08-09T16:38:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

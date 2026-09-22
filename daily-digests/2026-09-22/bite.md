@@ -1,37 +1,19 @@
 ---
-title: metaforismo/Bite
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- SwiftUI
-- SwiftData
-- HealthKit
-- Cloudflare Workers
-- TypeScript
-- Drizzle ORM
-- D1 (Cloudflare SQL)
-- R2 (Cloudflare object storage)
-- Vectorize (Cloudflare embeddings)
-- Firebase Auth
-- OpenRouter (LLM routing)
-- Zod (schema validation)
-- SSE (Server-Sent Events)
+title: "metaforismo/Bite"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["SwiftUI", "SwiftData", "HealthKit", "Cloudflare Workers", "TypeScript", "Drizzle ORM", "D1 (Cloudflare SQL)", "R2 (Cloudflare object storage)", "Vectorize (Cloudflare embeddings)", "Firebase Auth", "OpenRouter (LLM routing)", "Zod (schema validation)", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI health coach
-- health data integration
-- privacy-focused
-- multi-modal agent
-- long-term memory
-source: https://github.com/metaforismo/Bite
+deployment_complexity: "High"
+tags: ["AI health coach", "health data integration", "privacy-focused", "multi-modal agent", "long-term memory"]
+source: "https://github.com/metaforismo/Bite"
 stars: 0
-language: Swift
-last_updated: '2026-07-11T15:51:48Z'
-discovered_at: '2026-07-11T15:54:09Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-07-11T15:51:48Z"
+discovered_at: "2026-07-11T15:54:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

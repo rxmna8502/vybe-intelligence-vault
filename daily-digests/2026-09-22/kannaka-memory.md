@@ -1,31 +1,19 @@
 ---
-title: NickFlach/kannaka-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Holographic Resonance Medium (HRM)
-- NATS
-- Nostr (NIP-05, NIP-17, NIP-39, NIP-44, NIP-59, NIP-90)
-- Tensor Algebra
-- Kuramoto Model
-- Integrated Information Theory (IIT)
+title: "NickFlach/kannaka-memory"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "Holographic Resonance Medium (HRM)", "NATS", "Nostr (NIP-05, NIP-17, NIP-39, NIP-44, NIP-59, NIP-90)", "Tensor Algebra", "Kuramoto Model", "Integrated Information Theory (IIT)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- holographic memory
-- wave interference
-- tensor recall
-- multi-agent sensemaking
-- Nostr integration
-source: https://github.com/NickFlach/kannaka-memory
+deployment_complexity: "High"
+tags: ["holographic memory", "wave interference", "tensor recall", "multi-agent sensemaking", "Nostr integration"]
+source: "https://github.com/NickFlach/kannaka-memory"
 stars: 2
-language: Rust
-last_updated: '2026-08-07T12:48:16Z'
-discovered_at: '2026-08-07T13:03:37Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T12:48:16Z"
+discovered_at: "2026-08-07T13:03:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

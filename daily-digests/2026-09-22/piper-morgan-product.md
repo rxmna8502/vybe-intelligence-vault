@@ -1,30 +1,19 @@
 ---
-title: mediajunkie/piper-morgan-product
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Docker
-- LLM APIs (e.g., Anthropic)
-- FastAPI (implied by API routes)
-- PostgreSQL (implied by DB migrations)
-- GitHub Actions (CI/CD)
+title: "mediajunkie/piper-morgan-product"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Docker", "LLM APIs (e.g., Anthropic)", "FastAPI (implied by API routes)", "PostgreSQL (implied by DB migrations)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Product Management
-- Agentic Workflows
-- Multi-tenancy
-- LLM Integration
-- Strategic Insights
-source: https://github.com/mediajunkie/piper-morgan-product
+deployment_complexity: "Medium"
+tags: ["AI Product Management", "Agentic Workflows", "Multi-tenancy", "LLM Integration", "Strategic Insights"]
+source: "https://github.com/mediajunkie/piper-morgan-product"
 stars: 5
-language: Python
-last_updated: '2026-09-03T02:11:40Z'
-discovered_at: '2026-09-03T02:16:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T02:11:40Z"
+discovered_at: "2026-09-03T02:16:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

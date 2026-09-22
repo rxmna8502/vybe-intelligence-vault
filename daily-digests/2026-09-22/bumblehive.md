@@ -1,31 +1,19 @@
 ---
-title: wxhcore/bumblehive
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Asyncio
-- Model Context Protocol (MCP)
-- Tauri
-- Rust
-- Node.js
-- pnpm
+title: "wxhcore/bumblehive"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Asyncio", "Model Context Protocol (MCP)", "Tauri", "Rust", "Node.js", "pnpm"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- agent runtime
-- tool-driven loops
-- MCP integration
-- Python SDK
-- desktop application
-source: https://github.com/wxhcore/bumblehive
+deployment_complexity: "Medium"
+tags: ["agent runtime", "tool-driven loops", "MCP integration", "Python SDK", "desktop application"]
+source: "https://github.com/wxhcore/bumblehive"
 stars: 9
-language: Python
-last_updated: '2026-08-10T09:22:18Z'
-discovered_at: '2026-08-10T09:24:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T09:22:18Z"
+discovered_at: "2026-08-10T09:24:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: mateo-cuello/orchestrator-claude--agy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- Google Antigravity CLI
-- Claude Code
+title: "mateo-cuello/orchestrator-claude--agy"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "Google Antigravity CLI", "Claude Code"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Claude Code integration
-- parallel task execution
-- structured output
-- Gemini sub-agents
-source: https://github.com/mateo-cuello/orchestrator-claude--agy
+deployment_complexity: "Medium"
+tags: ["MCP server", "Claude Code integration", "parallel task execution", "structured output", "Gemini sub-agents"]
+source: "https://github.com/mateo-cuello/orchestrator-claude--agy"
 stars: 2
-language: JavaScript
-last_updated: '2026-08-09T03:28:24Z'
-discovered_at: '2026-08-09T03:45:39Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-09T03:28:24Z"
+discovered_at: "2026-08-09T03:45:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: pinkpixel-dev/MCPollinations
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- Pollinations API
-- RESTful APIs
+title: "pinkpixel-dev/MCPollinations"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Pollinations API", "RESTful APIs"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP server
-- multimodal generation
-- Pollinations API
-- AI assistant integration
-- content generation
-source: https://github.com/pinkpixel-dev/MCPollinations
+deployment_complexity: "Low"
+tags: ["MCP server", "multimodal generation", "Pollinations API", "AI assistant integration", "content generation"]
+source: "https://github.com/pinkpixel-dev/MCPollinations"
 stars: 41
-language: JavaScript
-last_updated: '2026-07-12T02:31:44Z'
-discovered_at: '2026-07-12T02:32:56Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-12T02:31:44Z"
+discovered_at: "2026-07-12T02:32:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

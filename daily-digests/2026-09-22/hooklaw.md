@@ -1,30 +1,19 @@
 ---
-title: Scufn2329/hooklaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Node.js
-- TypeScript
-- MCP (Model Context Protocol)
-- AI Agents
-- Webhooks
-- BYOK (Bring Your Own Key)
+title: "Scufn2329/hooklaw"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "TypeScript", "MCP (Model Context Protocol)", "AI Agents", "Webhooks", "BYOK (Bring Your Own Key)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- webhook automation
-- MCP integration
-- AI agents
-- self-hosted
-- event-driven
-source: https://github.com/Scufn2329/hooklaw
+deployment_complexity: "Medium"
+tags: ["webhook automation", "MCP integration", "AI agents", "self-hosted", "event-driven"]
+source: "https://github.com/Scufn2329/hooklaw"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-12T13:29:51Z'
-discovered_at: '2026-07-12T13:36:00Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T13:29:51Z"
+discovered_at: "2026-07-12T13:36:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

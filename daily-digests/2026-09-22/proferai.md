@@ -1,34 +1,19 @@
 ---
-title: Yuan-lai-ru-ci/ProferAI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Electron
-- Claude Agent SDK
-- TypeScript
-- React
-- Bun
-- Tailwind CSS
-- Hono
-- SQLite
-- Capacitor
-- Jotai
+title: "Yuan-lai-ru-ci/ProferAI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "Claude Agent SDK", "TypeScript", "React", "Bun", "Tailwind CSS", "Hono", "SQLite", "Capacitor", "Jotai"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agent
-- Multi-model
-- Local-first
-- Team Collaboration
-- Task Automation
-source: https://github.com/Yuan-lai-ru-ci/ProferAI
+deployment_complexity: "Medium"
+tags: ["AI Agent", "Multi-model", "Local-first", "Team Collaboration", "Task Automation"]
+source: "https://github.com/Yuan-lai-ru-ci/ProferAI"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-08T07:50:17Z'
-discovered_at: '2026-08-08T07:51:41Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T07:50:17Z"
+discovered_at: "2026-08-08T07:51:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

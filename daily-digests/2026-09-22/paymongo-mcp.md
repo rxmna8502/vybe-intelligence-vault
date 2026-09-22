@@ -1,30 +1,19 @@
 ---
-title: theYahia/paymongo-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- PayMongo API
-- HMAC-SHA256
-- Vitest
+title: "theYahia/paymongo-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "PayMongo API", "HMAC-SHA256", "Vitest"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- payment gateway
-- Philippines
-- AI assistant integration
-- webhooks
-- MCP server
-source: https://github.com/theYahia/paymongo-mcp
+deployment_complexity: "Low"
+tags: ["payment gateway", "Philippines", "AI assistant integration", "webhooks", "MCP server"]
+source: "https://github.com/theYahia/paymongo-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-02T18:47:17Z'
-discovered_at: '2026-09-02T19:14:58Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T18:47:17Z"
+discovered_at: "2026-09-02T19:14:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

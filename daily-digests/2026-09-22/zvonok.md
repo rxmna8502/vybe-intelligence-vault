@@ -1,35 +1,19 @@
 ---
-title: faeton/zvonok
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- LiveKit Agents
-- Grok Voice (realtime)
-- PostgreSQL
-- Redis
-- Docker
-- SIP Trunking
-- xAI API
-- MCP Server
-- OpenClaw
+title: "faeton/zvonok"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "LiveKit Agents", "Grok Voice (realtime)", "PostgreSQL", "Redis", "Docker", "SIP Trunking", "xAI API", "MCP Server", "OpenClaw"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- telephony
-- voice agents
-- self-hosted
-- SIP trunking
-- AI actuator
-source: https://github.com/faeton/zvonok
+deployment_complexity: "High"
+tags: ["telephony", "voice agents", "self-hosted", "SIP trunking", "AI actuator"]
+source: "https://github.com/faeton/zvonok"
 stars: 0
-language: Python
-last_updated: '2026-08-05T16:42:55Z'
-discovered_at: '2026-08-05T16:45:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T16:42:55Z"
+discovered_at: "2026-08-05T16:45:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

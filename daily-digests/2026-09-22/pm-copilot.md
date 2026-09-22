@@ -1,31 +1,19 @@
 ---
-title: dkships/pm-copilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- MCP SDK
-- HelpScout API
-- ProductLift API
-- Chatbase API
-- Mermaid (for architecture diagrams)
+title: "dkships/pm-copilot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP SDK", "HelpScout API", "ProductLift API", "Chatbase API", "Mermaid (for architecture diagrams)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- product management
-- customer feedback analysis
-- MCP server
-- signal triangulation
-- AI agent integration
-source: https://github.com/dkships/pm-copilot
+deployment_complexity: "Medium"
+tags: ["product management", "customer feedback analysis", "MCP server", "signal triangulation", "AI agent integration"]
+source: "https://github.com/dkships/pm-copilot"
 stars: 27
-language: TypeScript
-last_updated: '2026-08-10T20:00:37Z'
-discovered_at: '2026-08-10T20:02:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T20:00:37Z"
+discovered_at: "2026-08-10T20:02:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

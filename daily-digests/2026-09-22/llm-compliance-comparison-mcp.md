@@ -1,30 +1,19 @@
 ---
-title: CSOAI-ORG/llm-compliance-comparison-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- PyPI
-- Smithery
-- C2PA
-- HMAC-SHA256
+title: "CSOAI-ORG/llm-compliance-comparison-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Smithery", "C2PA", "HMAC-SHA256"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- EU AI Act
-- compliance
-- governance
-- MCP server
-- risk management
-source: https://github.com/CSOAI-ORG/llm-compliance-comparison-mcp
+deployment_complexity: "Medium"
+tags: ["EU AI Act", "compliance", "governance", "MCP server", "risk management"]
+source: "https://github.com/CSOAI-ORG/llm-compliance-comparison-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-04T12:55:50Z'
-discovered_at: '2026-08-04T13:04:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T12:55:50Z"
+discovered_at: "2026-08-04T13:04:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

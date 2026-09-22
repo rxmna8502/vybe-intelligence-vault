@@ -1,34 +1,19 @@
 ---
-title: gautamvarmadatla/mcpsafetywarden
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SQLite
-- LLM APIs (Anthropic, OpenAI, Gemini, Ollama)
-- Cisco AI Defense
-- Snyk
-- Kali Linux
-- Burp Suite
-- GitHub API
-- Docker
+title: "gautamvarmadatla/mcpsafetywarden"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "LLM APIs (Anthropic, OpenAI, Gemini, Ollama)", "Cisco AI Defense", "Snyk", "Kali Linux", "Burp Suite", "GitHub API", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP security
-- proxy server
-- risk gating
-- behavioral profiling
-- tool auditing
-source: https://github.com/gautamvarmadatla/mcpsafetywarden
+deployment_complexity: "Medium"
+tags: ["MCP security", "proxy server", "risk gating", "behavioral profiling", "tool auditing"]
+source: "https://github.com/gautamvarmadatla/mcpsafetywarden"
 stars: 9
-language: Python
-last_updated: '2026-08-08T14:27:48Z'
-discovered_at: '2026-08-08T14:35:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T14:27:48Z"
+discovered_at: "2026-08-08T14:35:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

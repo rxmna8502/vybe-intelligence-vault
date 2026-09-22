@@ -1,33 +1,19 @@
 ---
-title: BitTriad/consensus-slack-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- Slack API
-- Slack MCP Server
-- Real-Time Search API
-- SQLite
-- LLM (Cerebras GLM-4.7, Cerebras gemma, Claude)
-- Mermaid.js
-- Socket Mode
+title: "BitTriad/consensus-slack-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Slack API", "Slack MCP Server", "Real-Time Search API", "SQLite", "LLM (Cerebras GLM-4.7, Cerebras gemma, Claude)", "Mermaid.js", "Socket Mode"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Slack integration
-- decision tracking
-- contradiction detection
-- organizational memory
-- LLM-powered
-source: https://github.com/BitTriad/consensus-slack-agent
+deployment_complexity: "Medium"
+tags: ["Slack integration", "decision tracking", "contradiction detection", "organizational memory", "LLM-powered"]
+source: "https://github.com/BitTriad/consensus-slack-agent"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-11T13:08:51Z'
-discovered_at: '2026-07-11T13:14:24Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T13:08:51Z"
+discovered_at: "2026-07-11T13:14:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

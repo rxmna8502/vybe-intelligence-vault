@@ -1,37 +1,19 @@
 ---
-title: KonNik88/ml-research-radar
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- Streamlit
-- PostgreSQL
-- Qdrant
-- Docker
-- Airflow
-- Ray
-- Kafka
-- Kubernetes
-- UMAP
-- MiniBatchKMeans
-- sentence-transformers/all-MiniLM-L6-v2
+title: "KonNik88/ml-research-radar"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Streamlit", "PostgreSQL", "Qdrant", "Docker", "Airflow", "Ray", "Kafka", "Kubernetes", "UMAP", "MiniBatchKMeans", "sentence-transformers/all-MiniLM-L6-v2"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- research-discovery
-- paper-centric
-- retrieval-augmented-generation
-- ML-papers
-- artifact-enrichment
-source: https://github.com/KonNik88/ml-research-radar
+deployment_complexity: "High"
+tags: ["research-discovery", "paper-centric", "retrieval-augmented-generation", "ML-papers", "artifact-enrichment"]
+source: "https://github.com/KonNik88/ml-research-radar"
 stars: 3
-language: Python
-last_updated: '2026-08-07T12:33:19Z'
-discovered_at: '2026-08-07T13:03:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T12:33:19Z"
+discovered_at: "2026-08-07T13:03:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

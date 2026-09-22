@@ -1,29 +1,19 @@
 ---
-title: coasty-ai/coasty-ecommerce-order-triage
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Node.js
-- Coasty API
-- Browser Automation
-- Computer Use AI
-- FFmpeg (for video rendering)
+title: "coasty-ai/coasty-ecommerce-order-triage"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "Coasty API", "Browser Automation", "Computer Use AI", "FFmpeg (for video rendering)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- browser automation
-- e-commerce triage
-- computer-use AI
-- agent framework
-- zero dependencies
-source: https://github.com/coasty-ai/coasty-ecommerce-order-triage
+deployment_complexity: "Medium"
+tags: ["browser automation", "e-commerce triage", "computer-use AI", "agent framework", "zero dependencies"]
+source: "https://github.com/coasty-ai/coasty-ecommerce-order-triage"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-02T19:22:39Z'
-discovered_at: '2026-08-02T19:25:11Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T19:22:39Z"
+discovered_at: "2026-08-02T19:25:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

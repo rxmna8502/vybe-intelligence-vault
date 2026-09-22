@@ -1,31 +1,19 @@
 ---
-title: vanshulgoyal101/ctx
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- JSON-RPC 2.0
-- Mozilla Readability
-- Turndown
-- Vitest
-- Wrangler
+title: "vanshulgoyal101/ctx"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Cloudflare Workers", "JSON-RPC 2.0", "Mozilla Readability", "Turndown", "Vitest", "Wrangler"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- GitHub repository processing
-- Documentation extraction
-- Context packing
-- Searchable context
-source: https://github.com/vanshulgoyal101/ctx
+deployment_complexity: "Medium"
+tags: ["MCP server", "GitHub repository processing", "Documentation extraction", "Context packing", "Searchable context"]
+source: "https://github.com/vanshulgoyal101/ctx"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-06T03:16:35Z'
-discovered_at: '2026-08-06T03:19:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T03:16:35Z"
+discovered_at: "2026-08-06T03:19:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: Ar9av/clippy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Swift
-- macOS Accessibility APIs
-- Prismor Warden (for guardrails)
-- Claude Code
-- OpenAI API
-- Anthropic API
-- YAML (for policy configuration)
-- GitHub Actions (CI/CD)
+title: "Ar9av/clippy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "macOS Accessibility APIs", "Prismor Warden (for guardrails)", "Claude Code", "OpenAI API", "Anthropic API", "YAML (for policy configuration)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- desktop automation
-- screen interaction
-- accessibility
-- AI assistant
-- macOS agent
-source: https://github.com/Ar9av/clippy
+deployment_complexity: "Medium"
+tags: ["desktop automation", "screen interaction", "accessibility", "AI assistant", "macOS agent"]
+source: "https://github.com/Ar9av/clippy"
 stars: 3
-language: Swift
-last_updated: '2026-08-08T17:29:32Z'
-discovered_at: '2026-08-08T17:33:00Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-08T17:29:32Z"
+discovered_at: "2026-08-08T17:33:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

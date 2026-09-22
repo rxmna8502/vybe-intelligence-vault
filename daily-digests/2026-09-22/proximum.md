@@ -1,31 +1,19 @@
 ---
-title: replikativ/proximum
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Clojure
-- Java
-- HNSW (Hierarchical Navigable Small World)
-- SIMD acceleration
-- JVM
-- Persistent data structures
-- Structural sharing
+title: "replikativ/proximum"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Clojure", "Java", "HNSW (Hierarchical Navigable Small World)", "SIMD acceleration", "JVM", "Persistent data structures", "Structural sharing"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector database
-- versioning
-- immutable
-- RAG
-- semantic search
-source: https://github.com/replikativ/proximum
+deployment_complexity: "Medium"
+tags: ["vector database", "versioning", "immutable", "RAG", "semantic search"]
+source: "https://github.com/replikativ/proximum"
 stars: 30
-language: Clojure
-last_updated: '2026-08-09T11:14:55Z'
-discovered_at: '2026-08-09T11:32:45Z'
-evaluated_by: mistral-small-latest
+language: "Clojure"
+last_updated: "2026-08-09T11:14:55Z"
+discovered_at: "2026-08-09T11:32:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

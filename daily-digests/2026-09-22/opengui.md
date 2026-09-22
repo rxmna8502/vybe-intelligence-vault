@@ -1,33 +1,19 @@
 ---
-title: Core-Mate/OpenGUI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Android (Kotlin/Java)
-- DeepSeek Harness
-- PostgreSQL
-- Redis
-- Docker
-- Vision Language Models (VLM)
-- Graph-based Orchestration
+title: "Core-Mate/OpenGUI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Android (Kotlin/Java)", "DeepSeek Harness", "PostgreSQL", "Redis", "Docker", "Vision Language Models (VLM)", "Graph-based Orchestration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Android automation
-- GUI agents
-- DeepSeek Harness
-- Vision Language Models
-- Mobile task execution
-source: https://github.com/Core-Mate/OpenGUI
+deployment_complexity: "Medium"
+tags: ["Android automation", "GUI agents", "DeepSeek Harness", "Vision Language Models", "Mobile task execution"]
+source: "https://github.com/Core-Mate/OpenGUI"
 stars: 1611
-language: TypeScript
-last_updated: '2026-09-01T15:34:03Z'
-discovered_at: '2026-09-01T15:53:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T15:34:03Z"
+discovered_at: "2026-09-01T15:53:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

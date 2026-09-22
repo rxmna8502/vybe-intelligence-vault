@@ -1,32 +1,19 @@
 ---
-title: FelixIsaac/whatsapp-mcp-extended
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- Python
-- Go
-- Model Context Protocol (MCP)
-- WhatsApp Web API (whatsmeow)
-- SQLite
-- Docker
-- FastMCP
-- JavaScript/HTML (Web UI)
+title: "FelixIsaac/whatsapp-mcp-extended"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Go", "Model Context Protocol (MCP)", "WhatsApp Web API (whatsmeow)", "SQLite", "Docker", "FastMCP", "JavaScript/HTML (Web UI)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- WhatsApp integration
-- MCP server
-- real-time messaging
-- agent tooling
-- webhooks
-source: https://github.com/FelixIsaac/whatsapp-mcp-extended
+deployment_complexity: "Medium"
+tags: ["WhatsApp integration", "MCP server", "real-time messaging", "agent tooling", "webhooks"]
+source: "https://github.com/FelixIsaac/whatsapp-mcp-extended"
 stars: 22
-language: Go
-last_updated: '2026-08-04T07:29:01Z'
-discovered_at: '2026-08-04T15:34:26Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T07:29:01Z"
+discovered_at: "2026-08-04T15:34:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-22T19:22:20.767226+05:30`
+Generated at: `2026-09-22T22:42:31.036521+05:30`
 
 ## Executive Summary
 
@@ -8,37 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **I said no and Apple said yes** - Score: `397` in category `ai/community` ([Link](https://dbushell.com/2026/09/22/apple-intelligence)) ([File](../ai/community/i-said-no-and-apple-said-yes.md))
-- **AI Has No Wisdom and Neither Will You** - Score: `146` in category `ai/community` ([Link](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you)) ([File](../ai/community/ai-has-no-wisdom-and-neither-will-you.md))
-- **Verda (Finland) raises $189M in Series B** - Score: `52` in category `ai/community` ([Link](https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers)) ([File](../ai/community/verda-finland-raises-189m-in-series-b.md))
-- **Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/omlx)) ([File](../ai/models/huggingface-blog-omlx.md))
-- **Transformers now runs llama.cpp quants** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/transformers-llama-cpp-quants)) ([File](../ai/models/huggingface-blog-transformers-llama-cpp-quants.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **Transformers Explained Visually** - Score: `493` (+215), Rank Change: `0` ([File](../ai/community/transformers-explained-visually.md))
-- **AI coding has made CI a bottleneck, so we reworked ours to keep up** - Score: `277` (+99), Rank Change: `0` ([File](../ai/community/ai-coding-has-made-ci-a-bottleneck-so-we-reworked.md))
-- **Python Workers are now generally available** - Score: `247` (+47), Rank Change: `-2` ([File](../ai/community/python-workers-are-now-generally-available.md))
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+10570` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **greensock/gsap-skills** - Score: `0` (0), Rank Change: `+5031` ([File](../ai/agents/greensock-gsap-skills.md))
-- **shanraisshan/claude-code-best-practice** - Score: `0` (0), Rank Change: `+5939` ([File](../ai/agents/shanraisshan-claude-code-best-practice.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+5037` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+1922` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
-- **vercel/ai** - Score: `0` (0), Rank Change: `+3247` ([File](../ai/agents/vercel-ai.md))
-- **continuedev/continue** - Score: `0` (0), Rank Change: `+6154` ([File](../ai/agents/continuedev-continue.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Paint-Anything: Unified Any-Color Control for Image Generation and Editing** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/rag/arxiv-2609-20816.md))
+- **Quantifying Overclaiming Propensity in Frontier LLM Agents** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/rag/arxiv-2609-20812.md))
+- **Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/research/arxiv-2609-20761.md))
+- **Noise-Robust Quantum State Characterization for Remote State Preparation with Deep Learning** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/research/arxiv-2609-20523.md))
+- **Constant Swap Regret in General-Sum Games via Two-Scale Higher-Order Optimism** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/research/arxiv-2609-16751.md))
+- **Certified Inference and Training for Deep Equilibrium Networks: A Continuation Framework with Polynomial Complexity Guarantees** - Score: `0` (0), Rank Change: `+1010` ([File](../ai/research/arxiv-2609-16485.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **kylestratis/ai_agents_mcp_examples** - (Rank Change: `+10570`) ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **AlexPEClub/ai-coding-starter-kit** - (Rank Change: `+6741`) ([File](../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- **continuedev/continue** - (Rank Change: `+6154`) ([File](../ai/agents/continuedev-continue.md))
-- **ghuntley/how-to-build-a-coding-agent** - (Rank Change: `+5969`) ([File](../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
-- **shanraisshan/claude-code-best-practice** - (Rank Change: `+5939`) ([File](../ai/agents/shanraisshan-claude-code-best-practice.md))
-- **huangjia2019/ai-agents** - (Rank Change: `+5037`) ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **greensock/gsap-skills** - (Rank Change: `+5031`) ([File](../ai/agents/greensock-gsap-skills.md))
-- **vercel/ai** - (Rank Change: `+3247`) ([File](../ai/agents/vercel-ai.md))
-- **CALLE-AI/awesome-phone-call-agents** - (Rank Change: `+1922`) ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
-- **ParticleMedia/RAGTruth** - (Rank Change: `+1569`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **infiniflow/ragflow** - (Rank Change: `+28121`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25356`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17144`) ([File](../ai/rag/stanford-oval-storm.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+1010`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1010`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+1010`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - (Rank Change: `+1010`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Paint-Anything: Unified Any-Color Control for Image Generation and Editing** - (Rank Change: `+1010`) ([File](../ai/rag/arxiv-2609-20816.md))
+- **Quantifying Overclaiming Propensity in Frontier LLM Agents** - (Rank Change: `+1010`) ([File](../ai/rag/arxiv-2609-20812.md))
+- **Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control** - (Rank Change: `+1010`) ([File](../ai/research/arxiv-2609-20761.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -49,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Frontier AI on Your Own Hardware** (Category: `ai/community`) ([File](../ai/community/frontier-ai-on-your-own-hardware.md))
-- **Why does mathmain need an encrypted loader?** (Category: `ai/community`) ([File](../ai/community/why-does-mathmain-need-an-encrypted-loader.md))
+No recently active resources transitioned to inactive.
+

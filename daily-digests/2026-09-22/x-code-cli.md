@@ -1,31 +1,19 @@
 ---
-title: woai3c/x-code-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- OpenAI API
-- Claude Code
-- MCP (Model Context Protocol)
-- Whisper.cpp
-- Playwright
+title: "woai3c/x-code-cli"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "OpenAI API", "Claude Code", "MCP (Model Context Protocol)", "Whisper.cpp", "Playwright"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- model-agnostic
-- plugin system
-- MCP integration
-- terminal-based
-source: https://github.com/woai3c/x-code-cli
+deployment_complexity: "Medium"
+tags: ["coding agent", "model-agnostic", "plugin system", "MCP integration", "terminal-based"]
+source: "https://github.com/woai3c/x-code-cli"
 stars: 42
-language: TypeScript
-last_updated: '2026-08-09T14:37:10Z'
-discovered_at: '2026-08-09T14:37:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T14:37:10Z"
+discovered_at: "2026-08-09T14:37:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: OmitNomis/Alvus
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Go
-- HTTP Proxy
-- Rate Limiting
-- Streaming Passthrough
-- Environment Variables
+title: "OmitNomis/Alvus"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "HTTP Proxy", "Rate Limiting", "Streaming Passthrough", "Environment Variables"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- rate limiting
-- API proxy
-- key rotation
-- AI agent tooling
-- 429 handling
-source: https://github.com/OmitNomis/Alvus
+deployment_complexity: "Low"
+tags: ["rate limiting", "API proxy", "key rotation", "AI agent tooling", "429 handling"]
+source: "https://github.com/OmitNomis/Alvus"
 stars: 14
-language: Go
-last_updated: '2026-08-05T02:14:44Z'
-discovered_at: '2026-08-05T02:17:00Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-05T02:14:44Z"
+discovered_at: "2026-08-05T02:17:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

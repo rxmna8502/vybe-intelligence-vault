@@ -1,31 +1,19 @@
 ---
-title: mhadifilms/dvr
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- DaVinci Resolve API
-- Model Context Protocol (MCP)
-- CLI
-- JSON/YAML
-- Homebrew
-- PyPI
+title: "mhadifilms/dvr"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "DaVinci Resolve API", "Model Context Protocol (MCP)", "CLI", "JSON/YAML", "Homebrew", "PyPI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- DaVinci Resolve automation
-- LLM-friendly tools
-- MCP server
-- idempotent operations
-- structured JSON output
-source: https://github.com/mhadifilms/dvr
+deployment_complexity: "Medium"
+tags: ["DaVinci Resolve automation", "LLM-friendly tools", "MCP server", "idempotent operations", "structured JSON output"]
+source: "https://github.com/mhadifilms/dvr"
 stars: 10
-language: Python
-last_updated: '2026-08-06T06:30:58Z'
-discovered_at: '2026-08-06T06:33:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T06:30:58Z"
+discovered_at: "2026-08-06T06:33:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

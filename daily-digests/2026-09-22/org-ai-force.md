@@ -1,35 +1,19 @@
 ---
-title: AnkitParekh007/org-ai-force
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Angular 21
-- NestJS
-- TypeScript
-- Prisma
-- Docker
-- SQLite
-- PostgreSQL
-- Playwright
-- SSE (Server-Sent Events)
-- JWT
-- RBAC
+title: "AnkitParekh007/org-ai-force"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Angular 21", "NestJS", "TypeScript", "Prisma", "Docker", "SQLite", "PostgreSQL", "Playwright", "SSE (Server-Sent Events)", "JWT", "RBAC"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent workspace
-- enterprise orchestration
-- RAG integration
-- resilience testing
-- admin governance
-source: https://github.com/AnkitParekh007/org-ai-force
+deployment_complexity: "Medium"
+tags: ["AI agent workspace", "enterprise orchestration", "RAG integration", "resilience testing", "admin governance"]
+source: "https://github.com/AnkitParekh007/org-ai-force"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T06:46:05Z'
-discovered_at: '2026-08-09T06:58:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T06:46:05Z"
+discovered_at: "2026-08-09T06:58:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

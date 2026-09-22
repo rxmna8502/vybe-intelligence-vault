@@ -1,32 +1,19 @@
 ---
-title: bruhgf/aetherlam-public-storefront
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Google Gemini Pro
-- HTML/CSS
-- JavaScript
-- Local System APIs
-- JSON
-- Regex
-- HTTP Server
+title: "bruhgf/aetherlam-public-storefront"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Google Gemini Pro", "HTML/CSS", "JavaScript", "Local System APIs", "JSON", "Regex", "HTTP Server"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- Large Action Model
-- Un-sandboxed AI
-- Hardware Interaction
-- Commercial AI Cockpit
-- Ethical AI
-source: https://github.com/bruhgf/aetherlam-public-storefront
+deployment_complexity: "Medium"
+tags: ["Large Action Model", "Un-sandboxed AI", "Hardware Interaction", "Commercial AI Cockpit", "Ethical AI"]
+source: "https://github.com/bruhgf/aetherlam-public-storefront"
 stars: 0
-language: HTML
-last_updated: '2026-09-01T18:34:10Z'
-discovered_at: '2026-09-01T19:07:01Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-01T18:34:10Z"
+discovered_at: "2026-09-01T19:07:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

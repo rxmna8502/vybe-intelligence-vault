@@ -1,33 +1,19 @@
 ---
-title: pilat/coagent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Go
-- SQLite
-- Telegram Bot API
-- MCP (Model Context Protocol)
-- Bash
-- Unix Sockets
-- YAML
-- Git
-- mise (toolchain manager)
+title: "pilat/coagent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "SQLite", "Telegram Bot API", "MCP (Model Context Protocol)", "Bash", "Unix Sockets", "YAML", "Git", "mise (toolchain manager)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous coding
-- durable sessions
-- subagents
-- MCP integration
-- self-hosted
-source: https://github.com/pilat/coagent
+deployment_complexity: "Medium"
+tags: ["autonomous coding", "durable sessions", "subagents", "MCP integration", "self-hosted"]
+source: "https://github.com/pilat/coagent"
 stars: 0
-language: Go
-last_updated: '2026-09-01T09:04:21Z'
-discovered_at: '2026-09-01T09:07:30Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-01T09:04:21Z"
+discovered_at: "2026-09-01T09:07:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

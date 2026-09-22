@@ -1,31 +1,19 @@
 ---
-title: KarstenKreh/Standby.Design
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- HTML
-- CSS
-- JavaScript
-- OKLCH/OKLab Color Space
-- Docker
-- nginx
-- TypeScript
+title: "KarstenKreh/Standby.Design"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "CSS", "JavaScript", "OKLCH/OKLab Color Space", "Docker", "nginx", "TypeScript"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- color-palette-generator
-- design-system-tools
-- OKLCH
-- client-side
-- web-tools
-source: https://github.com/KarstenKreh/Standby.Design
+deployment_complexity: "Medium"
+tags: ["color-palette-generator", "design-system-tools", "OKLCH", "client-side", "web-tools"]
+source: "https://github.com/KarstenKreh/Standby.Design"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-08T10:29:42Z'
-discovered_at: '2026-08-08T10:34:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T10:29:42Z"
+discovered_at: "2026-08-08T10:34:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

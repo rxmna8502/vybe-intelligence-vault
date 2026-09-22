@@ -1,28 +1,19 @@
 ---
-title: wizard-exe/Stoxly-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- MCP (Model Context Protocol)
-- HTTP/Streamable Transport
-- Financial Data APIs (Financial Modeling Prep, Yahoo Finance, Finnhub, Alpha Vantage)
-- XBRL (for regulatory filings)
+title: "wizard-exe/Stoxly-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "HTTP/Streamable Transport", "Financial Data APIs (Financial Modeling Prep, Yahoo Finance, Finnhub, Alpha Vantage)", "XBRL (for regulatory filings)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- fundamental analysis
-- stocks
-- ETFs
-- MCP server
-- financial data
-source: https://github.com/wizard-exe/Stoxly-mcp
+deployment_complexity: "Low"
+tags: ["fundamental analysis", "stocks", "ETFs", "MCP server", "financial data"]
+source: "https://github.com/wizard-exe/Stoxly-mcp"
 stars: 0
-language: None
-last_updated: '2026-08-10T15:02:35Z'
-discovered_at: '2026-08-10T15:03:52Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-10T15:02:35Z"
+discovered_at: "2026-08-10T15:03:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

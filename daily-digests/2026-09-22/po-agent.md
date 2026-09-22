@@ -1,28 +1,19 @@
 ---
-title: po-helper-org/po-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- AI Role Model
-- Decision Framework
-- Product Management
-- Natural Language Processing
+title: "po-helper-org/po-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["AI Role Model", "Decision Framework", "Product Management", "Natural Language Processing"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Product Owner
-- Decision Making
-- AI Agent
-- Product Management
-- Evidence-Based
-source: https://github.com/po-helper-org/po-agent
+deployment_complexity: "Medium"
+tags: ["Product Owner", "Decision Making", "AI Agent", "Product Management", "Evidence-Based"]
+source: "https://github.com/po-helper-org/po-agent"
 stars: 0
-language: None
-last_updated: '2026-09-02T22:14:25Z'
-discovered_at: '2026-09-02T22:15:08Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-02T22:14:25Z"
+discovered_at: "2026-09-02T22:15:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

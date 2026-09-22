@@ -1,34 +1,19 @@
 ---
-title: LeonTing1010/tap
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- TypeScript
-- Playwright
-- Chrome Extension
-- MCP (Model Context Protocol)
-- Node.js
-- Python
-- CLI
-- JSON Schema
-- CEL (Common Expression Language)
+title: "LeonTing1010/tap"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "TypeScript", "Playwright", "Chrome Extension", "MCP (Model Context Protocol)", "Node.js", "Python", "CLI", "JSON Schema", "CEL (Common Expression Language)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- zero-token replay
-- deterministic workflows
-- MCP integration
-- logged-in session capture
-source: https://github.com/LeonTing1010/tap
+deployment_complexity: "Medium"
+tags: ["browser automation", "zero-token replay", "deterministic workflows", "MCP integration", "logged-in session capture"]
+source: "https://github.com/LeonTing1010/tap"
 stars: 11
-language: JavaScript
-last_updated: '2026-07-11T16:49:44Z'
-discovered_at: '2026-07-11T16:56:04Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T16:49:44Z"
+discovered_at: "2026-07-11T16:56:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

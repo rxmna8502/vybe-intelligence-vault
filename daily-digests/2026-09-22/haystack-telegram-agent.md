@@ -1,30 +1,19 @@
 ---
-title: nifontovoleg/haystack-telegram-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Haystack
-- Pinecone
-- OpenAI API
-- Telegram Bot API
-- text-embedding-3-small
+title: "nifontovoleg/haystack-telegram-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Haystack", "Pinecone", "OpenAI API", "Telegram Bot API", "text-embedding-3-small"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Telegram bot
-- Haystack agent
-- Pinecone memory
-- OpenAI tools
-- RAG pipeline
-source: https://github.com/nifontovoleg/haystack-telegram-agent
+deployment_complexity: "Medium"
+tags: ["Telegram bot", "Haystack agent", "Pinecone memory", "OpenAI tools", "RAG pipeline"]
+source: "https://github.com/nifontovoleg/haystack-telegram-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-08T21:47:18Z'
-discovered_at: '2026-08-08T22:32:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T21:47:18Z"
+discovered_at: "2026-08-08T22:32:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

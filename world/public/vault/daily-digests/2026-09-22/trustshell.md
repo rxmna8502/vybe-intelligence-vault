@@ -1,29 +1,19 @@
 ---
-title: William2333ZZ/trustshell
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- Python
-- TypeScript
-- AST (Abstract Syntax Tree) analysis
-- MCP (Model Context Protocol)
-- Claude Code integration
+title: "William2333ZZ/trustshell"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "TypeScript", "AST (Abstract Syntax Tree) analysis", "MCP (Model Context Protocol)", "Claude Code integration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI security
-- red-teaming
-- exploit validation
-- agent vulnerability assessment
-- static analysis
-source: https://github.com/William2333ZZ/trustshell
+deployment_complexity: "Medium"
+tags: ["AI security", "red-teaming", "exploit validation", "agent vulnerability assessment", "static analysis"]
+source: "https://github.com/William2333ZZ/trustshell"
 stars: 0
-language: Python
-last_updated: '2026-07-20T09:58:01Z'
-discovered_at: '2026-07-20T09:59:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T09:58:01Z"
+discovered_at: "2026-07-20T09:59:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
