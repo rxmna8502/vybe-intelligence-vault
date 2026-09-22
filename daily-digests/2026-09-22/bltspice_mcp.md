@@ -1,31 +1,19 @@
 ---
-title: BrosnanYuen/bltspice_mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- PyLTSpice
-- FastMCP
-- LTspice
-- Wine (for Windows compatibility)
-- Pytest
-- electronics-design
+title: "BrosnanYuen/bltspice_mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PyLTSpice", "FastMCP", "LTspice", "Wine (for Windows compatibility)", "Pytest", "electronics-design"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- LTSpice
-- circuit simulation
-- MCP server
-- electronics design
-- AI workflow
-source: https://github.com/BrosnanYuen/bltspice_mcp
+deployment_complexity: "Medium"
+tags: ["LTSpice", "circuit simulation", "MCP server", "electronics design", "AI workflow"]
+source: "https://github.com/BrosnanYuen/bltspice_mcp"
 stars: 1
-language: Python
-last_updated: '2026-07-18T05:22:17Z'
-discovered_at: '2026-07-18T05:24:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T05:22:17Z"
+discovered_at: "2026-07-18T05:24:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

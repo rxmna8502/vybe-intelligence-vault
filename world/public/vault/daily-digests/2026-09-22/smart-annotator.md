@@ -1,29 +1,19 @@
 ---
-title: Davidmametsoftwood478/smart-annotator
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- Windows Desktop
-- Electron (implied by .exe installer)
-- Markdown/Text Processing
-- API Integration (AI Providers)
-- JavaScript/HTML (frontend)
+title: "Davidmametsoftwood478/smart-annotator"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows Desktop", "Electron (implied by .exe installer)", "Markdown/Text Processing", "API Integration (AI Providers)", "JavaScript/HTML (frontend)"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- document annotation
-- AI revision
-- bulk editing
-- text processing
-- desktop tool
-source: https://github.com/Davidmametsoftwood478/smart-annotator
+deployment_complexity: "Low"
+tags: ["document annotation", "AI revision", "bulk editing", "text processing", "desktop tool"]
+source: "https://github.com/Davidmametsoftwood478/smart-annotator"
 stars: 0
-language: HTML
-last_updated: '2026-08-07T02:39:31Z'
-discovered_at: '2026-08-07T02:41:37Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-07T02:39:31Z"
+discovered_at: "2026-08-07T02:41:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

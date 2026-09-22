@@ -1,32 +1,19 @@
 ---
-title: guyeyouhun/auto-knowledge-base
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- SQLite
-- FTS5
-- BM25
-- Vector Embeddings
-- MCP (Model Context Protocol)
-- FSRS-6 (Spaced Repetition)
-- Node.js
+title: "guyeyouhun/auto-knowledge-base"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["TypeScript", "SQLite", "FTS5", "BM25", "Vector Embeddings", "MCP (Model Context Protocol)", "FSRS-6 (Spaced Repetition)", "Node.js"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP
-- knowledge-base
-- vector-search
-- SQLite
-- zero-llm
-source: https://github.com/guyeyouhun/auto-knowledge-base
+deployment_complexity: "Medium"
+tags: ["MCP", "knowledge-base", "vector-search", "SQLite", "zero-llm"]
+source: "https://github.com/guyeyouhun/auto-knowledge-base"
 stars: 1
-language: TypeScript
-last_updated: '2026-06-29T07:37:53Z'
-discovered_at: '2026-07-14T12:10:24Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-06-29T07:37:53Z"
+discovered_at: "2026-07-14T12:10:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: hect0x7/jmcomic-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Agent Skills Framework
-- CLI Tools
-- Asyncio
-- PyPI
-- JSON Schema
-- YAML Configuration
+title: "hect0x7/jmcomic-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Agent Skills Framework", "CLI Tools", "Asyncio", "PyPI", "JSON Schema", "YAML Configuration"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- comic downloader
-- AI agent integration
-- MCP server
-- Skills framework
-- natural language search
-source: https://github.com/hect0x7/jmcomic-ai
+deployment_complexity: "Medium"
+tags: ["comic downloader", "AI agent integration", "MCP server", "Skills framework", "natural language search"]
+source: "https://github.com/hect0x7/jmcomic-ai"
 stars: 86
-language: Python
-last_updated: '2026-08-05T11:19:30Z'
-discovered_at: '2026-08-05T11:22:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T11:19:30Z"
+discovered_at: "2026-08-05T11:22:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

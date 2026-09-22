@@ -1,34 +1,19 @@
 ---
-title: ChrisGVE/localdata-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastMCP
-- SQL (SQLite, PostgreSQL, MySQL, DuckDB, Oracle, MS SQL Server)
-- NoSQL (MongoDB, CouchDB, Redis, Elasticsearch, InfluxDB)
-- RDF/SPARQL
-- Data Science (scipy, scikit-learn, statsmodels, geopandas)
-- Graph Formats (DOT, GML, GraphML, Mermaid)
-- Claude Code Plugin
-- CI/CD (GitHub Actions)
-- Documentation (ReadTheDocs)
+title: "ChrisGVE/localdata-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "SQL (SQLite, PostgreSQL, MySQL, DuckDB, Oracle, MS SQL Server)", "NoSQL (MongoDB, CouchDB, Redis, Elasticsearch, InfluxDB)", "RDF/SPARQL", "Data Science (scipy, scikit-learn, statsmodels, geopandas)", "Graph Formats (DOT, GML, GraphML, Mermaid)", "Claude Code Plugin", "CI/CD (GitHub Actions)", "Documentation (ReadTheDocs)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Data Access
-- Data Science
-- LLM Integration
-- Streaming Analytics
-source: https://github.com/ChrisGVE/localdata-mcp
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Data Access", "Data Science", "LLM Integration", "Streaming Analytics"]
+source: "https://github.com/ChrisGVE/localdata-mcp"
 stars: 3
-language: Python
-last_updated: '2026-07-20T19:42:15Z'
-discovered_at: '2026-07-20T19:53:44Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T19:42:15Z"
+discovered_at: "2026-07-20T19:53:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

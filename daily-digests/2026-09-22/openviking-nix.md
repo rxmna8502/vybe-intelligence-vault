@@ -1,33 +1,19 @@
 ---
-title: Daaboulex/openviking-nix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Nix
-- NixOS
-- Go
-- Rust
-- C++
-- Python
-- FastAPI
-- pybind11
-- systemd
+title: "Daaboulex/openviking-nix"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Nix", "NixOS", "Go", "Rust", "C++", "Python", "FastAPI", "pybind11", "systemd"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- NixOS
-- context database
-- AI agents
-- virtual filesystem
-- systemd service
-source: https://github.com/Daaboulex/openviking-nix
+deployment_complexity: "Medium"
+tags: ["NixOS", "context database", "AI agents", "virtual filesystem", "systemd service"]
+source: "https://github.com/Daaboulex/openviking-nix"
 stars: 3
-language: Shell
-last_updated: '2026-08-07T14:15:05Z'
-discovered_at: '2026-08-07T14:19:49Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-07T14:15:05Z"
+discovered_at: "2026-08-07T14:19:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

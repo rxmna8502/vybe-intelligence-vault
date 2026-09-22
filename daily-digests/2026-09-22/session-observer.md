@@ -1,31 +1,19 @@
 ---
-title: Ax-For/session-observer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- React
-- Vite
-- SQLite
-- TypeScript
-- Vitest
+title: "Ax-For/session-observer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "React", "Vite", "SQLite", "TypeScript", "Vitest"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- local-first
-- observability
-- session analysis
-- token accounting
-- agent monitoring
-source: https://github.com/Ax-For/session-observer
+deployment_complexity: "Low"
+tags: ["local-first", "observability", "session analysis", "token accounting", "agent monitoring"]
+source: "https://github.com/Ax-For/session-observer"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-11T02:25:55Z'
-discovered_at: '2026-07-11T02:27:29Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T02:25:55Z"
+discovered_at: "2026-07-11T02:27:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: morluto/flameox
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python 3.12+
-- pyperf
-- py-spy
-- Perfetto Trace Processor
-- coverage.py
-- Memray
-- torch.profiler
-- pytest
-- DuckDB
-- MCP (Model Context Protocol)
+title: "morluto/flameox"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.12+", "pyperf", "py-spy", "Perfetto Trace Processor", "coverage.py", "Memray", "torch.profiler", "pytest", "DuckDB", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- profiling
-- performance analysis
-- runtime diagnostics
-- agent tooling
-- evidence collection
-source: https://github.com/morluto/flameox
+deployment_complexity: "Medium"
+tags: ["profiling", "performance analysis", "runtime diagnostics", "agent tooling", "evidence collection"]
+source: "https://github.com/morluto/flameox"
 stars: 7
-language: Python
-last_updated: '2026-08-09T21:34:07Z'
-discovered_at: '2026-08-09T21:35:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T21:34:07Z"
+discovered_at: "2026-08-09T21:35:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

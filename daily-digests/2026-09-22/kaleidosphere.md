@@ -1,33 +1,19 @@
 ---
-title: JoFe2/KaleidoSphere
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Docker
-- Apache Superset
-- SQL Server
-- Oracle Database
-- Node.js
-- CI/CD (GitHub Actions)
-- Python (for synthetic fixtures)
-- Mermaid (for workflow diagrams)
+title: "JoFe2/KaleidoSphere"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Docker", "Apache Superset", "SQL Server", "Oracle Database", "Node.js", "CI/CD (GitHub Actions)", "Python (for synthetic fixtures)", "Mermaid (for workflow diagrams)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Business Intelligence
-- Database Metadata Analysis
-- Evidence-Bound Catalogs
-- LLM Safety
-- BI Requirements Discovery
-source: https://github.com/JoFe2/KaleidoSphere
+deployment_complexity: "Medium"
+tags: ["Business Intelligence", "Database Metadata Analysis", "Evidence-Bound Catalogs", "LLM Safety", "BI Requirements Discovery"]
+source: "https://github.com/JoFe2/KaleidoSphere"
 stars: 1
-language: JavaScript
-last_updated: '2026-09-02T15:48:46Z'
-discovered_at: '2026-09-02T15:50:43Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T15:48:46Z"
+discovered_at: "2026-09-02T15:50:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

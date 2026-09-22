@@ -1,32 +1,19 @@
 ---
-title: yihui504/TestVDB
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Claude Code
-- Docker
-- Multi-agent LLM systems
-- JSON/YAML configuration
-- Bash scripting
-- AST parsing
-- GitHub Actions (implied for CI/CD)
+title: "yihui504/TestVDB"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "Docker", "Multi-agent LLM systems", "JSON/YAML configuration", "Bash scripting", "AST parsing", "GitHub Actions (implied for CI/CD)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- vector database testing
-- automated defect mining
-- multi-agent LLM
-- Claude Code plugin
-- Docker sandboxing
-source: https://github.com/yihui504/TestVDB
+deployment_complexity: "High"
+tags: ["vector database testing", "automated defect mining", "multi-agent LLM", "Claude Code plugin", "Docker sandboxing"]
+source: "https://github.com/yihui504/TestVDB"
 stars: 0
-language: Python
-last_updated: '2026-08-08T06:34:00Z'
-discovered_at: '2026-08-08T06:53:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T06:34:00Z"
+discovered_at: "2026-08-08T06:53:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

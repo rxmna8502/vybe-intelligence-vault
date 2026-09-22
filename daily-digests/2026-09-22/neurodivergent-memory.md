@@ -1,31 +1,19 @@
 ---
-title: jmeyer1980/neurodivergent-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- BM25
-- Docker
-- JSON
-- NPM
+title: "jmeyer1980/neurodivergent-memory"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "BM25", "Docker", "JSON", "NPM"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- knowledge graph
-- semantic search
-- neurodivergent cognition
-- memory system
-source: https://github.com/jmeyer1980/neurodivergent-memory
+deployment_complexity: "Medium"
+tags: ["MCP server", "knowledge graph", "semantic search", "neurodivergent cognition", "memory system"]
+source: "https://github.com/jmeyer1980/neurodivergent-memory"
 stars: 15
-language: JavaScript
-last_updated: '2026-08-03T22:01:05Z'
-discovered_at: '2026-08-03T22:10:37Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T22:01:05Z"
+discovered_at: "2026-08-03T22:10:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

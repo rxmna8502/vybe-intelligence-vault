@@ -1,33 +1,19 @@
 ---
-title: lotus-innovations/novagait-backoffice
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Next.js
-- Node.js
-- AI Agents
-- Prompts
-- Tool Schemas
-- Guardrails
-- CI/CD
-- Synthetic Data
+title: "lotus-innovations/novagait-backoffice"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Next.js", "Node.js", "AI Agents", "Prompts", "Tool Schemas", "Guardrails", "CI/CD", "Synthetic Data"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent
-- accounts payable
-- invoice processing
-- 3-way match
-- audit trail
-source: https://github.com/lotus-innovations/novagait-backoffice
+deployment_complexity: "Medium"
+tags: ["AI agent", "accounts payable", "invoice processing", "3-way match", "audit trail"]
+source: "https://github.com/lotus-innovations/novagait-backoffice"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T19:58:07Z'
-discovered_at: '2026-08-10T20:02:05Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T19:58:07Z"
+discovered_at: "2026-08-10T20:02:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: devviniciusfmk-sys/multi-model-llm-router
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- httpx
-- Pydantic
-- pytest
-- YAML
+title: "devviniciusfmk-sys/multi-model-llm-router"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "httpx", "Pydantic", "pytest", "YAML"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- LLM routing
-- multi-model
-- OpenAI-compatible
-- provider health
-- fallback chain
-source: https://github.com/devviniciusfmk-sys/multi-model-llm-router
+deployment_complexity: "Medium"
+tags: ["LLM routing", "multi-model", "OpenAI-compatible", "provider health", "fallback chain"]
+source: "https://github.com/devviniciusfmk-sys/multi-model-llm-router"
 stars: 0
-language: Python
-last_updated: '2026-08-31T08:23:09Z'
-discovered_at: '2026-09-04T02:20:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-31T08:23:09Z"
+discovered_at: "2026-09-04T02:20:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

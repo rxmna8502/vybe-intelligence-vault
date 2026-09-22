@@ -1,32 +1,19 @@
 ---
-title: yukihamada/nanobot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Axum
-- DynamoDB
-- AWS Lambda
-- STT/TTS
-- WebSockets
-- Docker
-- CI/CD (GitHub Actions)
+title: "yukihamada/nanobot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Axum", "DynamoDB", "AWS Lambda", "STT/TTS", "WebSockets", "Docker", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agents
-- multi-model
-- self-hosted
-- voice-first
-- tool integration
-source: https://github.com/yukihamada/nanobot
+deployment_complexity: "Medium"
+tags: ["AI agents", "multi-model", "self-hosted", "voice-first", "tool integration"]
+source: "https://github.com/yukihamada/nanobot"
 stars: 6
-language: Rust
-last_updated: '2026-08-01T06:24:53Z'
-discovered_at: '2026-08-01T06:28:47Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T06:24:53Z"
+discovered_at: "2026-08-01T06:28:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

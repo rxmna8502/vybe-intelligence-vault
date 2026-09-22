@@ -1,31 +1,19 @@
 ---
-title: CSOAI-ORG/habit-tracker-ai-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- PyPI
-- Smithery
-- EU AI Act compliance
-- C2PA
-- HMAC-SHA256
+title: "CSOAI-ORG/habit-tracker-ai-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Smithery", "EU AI Act compliance", "C2PA", "HMAC-SHA256"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- habit tracking
-- MCP server
-- EU AI Act compliance
-- accountability
-- streak monitoring
-source: https://github.com/CSOAI-ORG/habit-tracker-ai-mcp
+deployment_complexity: "Low"
+tags: ["habit tracking", "MCP server", "EU AI Act compliance", "accountability", "streak monitoring"]
+source: "https://github.com/CSOAI-ORG/habit-tracker-ai-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-08T20:23:50Z'
-discovered_at: '2026-08-08T20:32:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T20:23:50Z"
+discovered_at: "2026-08-08T20:32:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

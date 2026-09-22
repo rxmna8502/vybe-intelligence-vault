@@ -1,35 +1,19 @@
 ---
-title: Alucard1718/autonomous-code-sandbox
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Docker
-- AWS Fargate
-- React
-- Material UI
-- Node.js
-- Claude API
-- GPT-4 API
-- Groq API
-- YAML
-- Mermaid.js
+title: "Alucard1718/autonomous-code-sandbox"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Docker", "AWS Fargate", "React", "Material UI", "Node.js", "Claude API", "GPT-4 API", "Groq API", "YAML", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- autonomous code repair
-- multi-LLM orchestration
-- sandboxed validation
-- DevOps automation
-- AI-driven pull requests
-source: https://github.com/Alucard1718/autonomous-code-sandbox
+deployment_complexity: "High"
+tags: ["autonomous code repair", "multi-LLM orchestration", "sandboxed validation", "DevOps automation", "AI-driven pull requests"]
+source: "https://github.com/Alucard1718/autonomous-code-sandbox"
 stars: 1
-language: HTML
-last_updated: '2026-09-02T22:02:28Z'
-discovered_at: '2026-09-02T22:18:50Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-02T22:02:28Z"
+discovered_at: "2026-09-02T22:18:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

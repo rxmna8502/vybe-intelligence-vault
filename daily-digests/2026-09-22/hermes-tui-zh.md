@@ -1,30 +1,19 @@
 ---
-title: OLDBAI213/hermes-tui-zh
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- React
-- Node.js
-- PowerShell
-- Jest
-- ESLint
+title: "OLDBAI213/hermes-tui-zh"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Node.js", "PowerShell", "Jest", "ESLint"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- localization
-- TUI
-- Chinese language support
-- Hermes Agent
-- terminal UI
-source: https://github.com/OLDBAI213/hermes-tui-zh
+deployment_complexity: "Medium"
+tags: ["localization", "TUI", "Chinese language support", "Hermes Agent", "terminal UI"]
+source: "https://github.com/OLDBAI213/hermes-tui-zh"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T06:08:42Z'
-discovered_at: '2026-08-07T06:12:30Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T06:08:42Z"
+discovered_at: "2026-08-07T06:12:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

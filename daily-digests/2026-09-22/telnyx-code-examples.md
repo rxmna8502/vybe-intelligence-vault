@@ -1,39 +1,19 @@
 ---
-title: team-telnyx/telnyx-code-examples
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Node.js
-- Go
-- Java
-- C#
-- Ruby
-- PHP
-- Typescript
-- Telnyx Voice API
-- Telnyx SMS API
-- Telnyx Agent SDK
-- Edge Compute
-- WebRTC
-- STT/TTS
-- LLM Inference
+title: "team-telnyx/telnyx-code-examples"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Node.js", "Go", "Java", "C#", "Ruby", "PHP", "Typescript", "Telnyx Voice API", "Telnyx SMS API", "Telnyx Agent SDK", "Edge Compute", "WebRTC", "STT/TTS", "LLM Inference"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice-ai
-- telephony
-- api-examples
-- ai-communications
-- telnyx
-source: https://github.com/team-telnyx/telnyx-code-examples
+deployment_complexity: "Medium"
+tags: ["voice-ai", "telephony", "api-examples", "ai-communications", "telnyx"]
+source: "https://github.com/team-telnyx/telnyx-code-examples"
 stars: 154
-language: Python
-last_updated: '2026-09-01T22:08:41Z'
-discovered_at: '2026-09-01T22:18:44Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T22:08:41Z"
+discovered_at: "2026-09-01T22:18:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: mrpulor-gh/nuphus-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- JSON-RPC 2.0
-- Chromiumoxide (CDP)
-- PaddleOCR
-- ONNX Runtime
-- Win32 API
-- xcap
-- Node.js (for npm distribution)
+title: "mrpulor-gh/nuphus-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "JSON-RPC 2.0", "Chromiumoxide (CDP)", "PaddleOCR", "ONNX Runtime", "Win32 API", "xcap", "Node.js (for npm distribution)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- desktop automation
-- browser automation
-- AI agent control
-- local OCR
-source: https://github.com/mrpulor-gh/nuphus-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "desktop automation", "browser automation", "AI agent control", "local OCR"]
+source: "https://github.com/mrpulor-gh/nuphus-mcp"
 stars: 4
-language: Rust
-last_updated: '2026-08-02T16:07:56Z'
-discovered_at: '2026-08-02T16:11:09Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-02T16:07:56Z"
+discovered_at: "2026-08-02T16:11:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

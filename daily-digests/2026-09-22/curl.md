@@ -1,28 +1,19 @@
 ---
-title: anturno/curl
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- GitHub API
-- LLM Integration
-- Node.js
+title: "anturno/curl"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "GitHub API", "LLM Integration", "Node.js"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- PR Review
-- Code Security
-- Correctness Analysis
-- GitHub Bot
-- Self-Hosted
-source: https://github.com/anturno/curl
+deployment_complexity: "Medium"
+tags: ["PR Review", "Code Security", "Correctness Analysis", "GitHub Bot", "Self-Hosted"]
+source: "https://github.com/anturno/curl"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T13:01:52Z'
-discovered_at: '2026-08-04T13:03:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T13:01:52Z"
+discovered_at: "2026-08-04T13:03:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

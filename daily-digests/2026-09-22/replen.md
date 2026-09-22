@@ -1,32 +1,19 @@
 ---
-title: replenhq/replen
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Vector Embeddings
-- Knowledge Graphs
-- Semantic Matching
-- Git
-- NPM
+title: "replenhq/replen"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Vector Embeddings", "Knowledge Graphs", "Semantic Matching", "Git", "NPM"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI coding agents
-- knowledge graph
-- semantic matching
-- local intelligence
-- OSS recommendations
-source: https://github.com/replenhq/replen
+deployment_complexity: "Low"
+tags: ["AI coding agents", "knowledge graph", "semantic matching", "local intelligence", "OSS recommendations"]
+source: "https://github.com/replenhq/replen"
 stars: 6
-language: TypeScript
-last_updated: '2026-07-21T10:19:06Z'
-discovered_at: '2026-07-21T10:24:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T10:19:06Z"
+discovered_at: "2026-07-21T10:24:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

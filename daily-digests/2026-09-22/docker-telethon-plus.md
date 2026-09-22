@@ -1,32 +1,19 @@
 ---
-title: psyb0t/docker-telethon-plus
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Telethon
-- FastAPI
-- Docker
-- Model Context Protocol (MCP)
-- JSON HTTP API
-- Pydantic
-- MTProto
+title: "psyb0t/docker-telethon-plus"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Telethon", "FastAPI", "Docker", "Model Context Protocol (MCP)", "JSON HTTP API", "Pydantic", "MTProto"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Telegram integration
-- HTTP API
-- Model Context Protocol
-- MTProto
-- AI agent tools
-source: https://github.com/psyb0t/docker-telethon-plus
+deployment_complexity: "Medium"
+tags: ["Telegram integration", "HTTP API", "Model Context Protocol", "MTProto", "AI agent tools"]
+source: "https://github.com/psyb0t/docker-telethon-plus"
 stars: 0
-language: Python
-last_updated: '2026-08-01T13:05:22Z'
-discovered_at: '2026-08-01T13:16:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T13:05:22Z"
+discovered_at: "2026-08-01T13:16:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

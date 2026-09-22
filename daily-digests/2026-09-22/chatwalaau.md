@@ -1,36 +1,19 @@
 ---
-title: motojinc25/chatwalaau
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- Microsoft Agent Framework
-- ChromaDB
-- RDF (Knowledge Graphs)
-- SPARQL
-- Microsoft Teams Bot Framework
-- Webhooks
-- Cron Scheduler
-- React
-- TypeScript
-- AG-UI Protocol
+title: "motojinc25/chatwalaau"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Microsoft Agent Framework", "ChromaDB", "RDF (Knowledge Graphs)", "SPARQL", "Microsoft Teams Bot Framework", "Webhooks", "Cron Scheduler", "React", "TypeScript", "AG-UI Protocol"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI Agent Runtime
-- Localhost Deployment
-- RAG Pipeline
-- MCP Integration
-- Model Switching
-source: https://github.com/motojinc25/chatwalaau
+deployment_complexity: "Medium"
+tags: ["AI Agent Runtime", "Localhost Deployment", "RAG Pipeline", "MCP Integration", "Model Switching"]
+source: "https://github.com/motojinc25/chatwalaau"
 stars: 2
-language: Python
-last_updated: '2026-07-12T22:41:04Z'
-discovered_at: '2026-07-12T22:44:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T22:41:04Z"
+discovered_at: "2026-07-12T22:44:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

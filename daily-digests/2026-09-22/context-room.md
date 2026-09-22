@@ -1,31 +1,19 @@
 ---
-title: blancmathis/context-room
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- TypeScript
-- Git
-- Markdown
-- HTML
-- Docker
+title: "blancmathis/context-room"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "TypeScript", "Git", "Markdown", "HTML", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- context management
-- AI agent workbench
-- documentation control
-- local-first
-- review workflow
-source: https://github.com/blancmathis/context-room
+deployment_complexity: "Medium"
+tags: ["context management", "AI agent workbench", "documentation control", "local-first", "review workflow"]
+source: "https://github.com/blancmathis/context-room"
 stars: 3
-language: JavaScript
-last_updated: '2026-08-02T17:56:49Z'
-discovered_at: '2026-08-02T18:02:23Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T17:56:49Z"
+discovered_at: "2026-08-02T18:02:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

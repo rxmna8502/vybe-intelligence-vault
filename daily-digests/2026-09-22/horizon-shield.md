@@ -1,31 +1,19 @@
 ---
-title: ogasurfproject-jpg/horizon-shield
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Model Context Protocol (MCP)
-- OpenTimestamps
-- Bitcoin blockchain
-- JavaScript/TypeScript
-- Web Crypto API
-- OpenAPI / RFC 9727
-- Cloudflare Workers
+title: "ogasurfproject-jpg/horizon-shield"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "OpenTimestamps", "Bitcoin blockchain", "JavaScript/TypeScript", "Web Crypto API", "OpenAPI / RFC 9727", "Cloudflare Workers"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- verifiable auditing
-- construction cost analysis
-- Bitcoin anchoring
-- MCP server
-- transparency
-source: https://github.com/ogasurfproject-jpg/horizon-shield
+deployment_complexity: "Medium"
+tags: ["verifiable auditing", "construction cost analysis", "Bitcoin anchoring", "MCP server", "transparency"]
+source: "https://github.com/ogasurfproject-jpg/horizon-shield"
 stars: 1
-language: HTML
-last_updated: '2026-08-01T03:27:33Z'
-discovered_at: '2026-08-01T03:44:21Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-01T03:27:33Z"
+discovered_at: "2026-08-01T03:44:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

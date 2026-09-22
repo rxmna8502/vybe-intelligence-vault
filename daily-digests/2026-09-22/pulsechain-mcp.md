@@ -1,31 +1,19 @@
 ---
-title: DavidFeder/pulsechain-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- AES-256-GCM
-- PulseChain
-- PulseX
-- Piteas
+title: "DavidFeder/pulsechain-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "AES-256-GCM", "PulseChain", "PulseX", "Piteas"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- PulseChain
-- AI agents
-- MCP server
-- encrypted wallets
-- DeFi
-source: https://github.com/DavidFeder/pulsechain-mcp
+deployment_complexity: "Medium"
+tags: ["PulseChain", "AI agents", "MCP server", "encrypted wallets", "DeFi"]
+source: "https://github.com/DavidFeder/pulsechain-mcp"
 stars: 8
-language: TypeScript
-last_updated: '2026-08-05T05:42:15Z'
-discovered_at: '2026-08-05T05:49:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T05:42:15Z"
+discovered_at: "2026-08-05T05:49:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

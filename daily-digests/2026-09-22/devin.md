@@ -1,35 +1,19 @@
 ---
-title: IQLaps/Devin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Markdown
-- MCP (Model Context Protocol)
-- Docker
-- TypeScript
-- React
-- NestJS
-- Prisma
-- tRPC
-- Zod
-- Deno
-- n8n
+title: "IQLaps/Devin"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Markdown", "MCP (Model Context Protocol)", "Docker", "TypeScript", "React", "NestJS", "Prisma", "tRPC", "Zod", "Deno", "n8n"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI coding agent
-- engineering operating system
-- software development
-- self-improving knowledge engine
-- production-ready rules
-source: https://github.com/IQLaps/Devin
+deployment_complexity: "Low"
+tags: ["AI coding agent", "engineering operating system", "software development", "self-improving knowledge engine", "production-ready rules"]
+source: "https://github.com/IQLaps/Devin"
 stars: 2
-language: MDX
-last_updated: '2026-07-13T20:11:54Z'
-discovered_at: '2026-07-13T20:14:12Z'
-evaluated_by: mistral-small-latest
+language: "MDX"
+last_updated: "2026-07-13T20:11:54Z"
+discovered_at: "2026-07-13T20:14:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

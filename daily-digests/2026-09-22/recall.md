@@ -1,31 +1,19 @@
 ---
-title: WKassebaum/Recall
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastMCP
-- Qdrant
-- sentence-transformers
-- Docker
-- HuggingFace
-- MCP (Model Context Protocol)
+title: "WKassebaum/Recall"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "FastMCP", "Qdrant", "sentence-transformers", "Docker", "HuggingFace", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- semantic memory
-- vector embeddings
-- coding assistants
-- long-term memory
-- MCP server
-source: https://github.com/WKassebaum/Recall
+deployment_complexity: "Medium"
+tags: ["semantic memory", "vector embeddings", "coding assistants", "long-term memory", "MCP server"]
+source: "https://github.com/WKassebaum/Recall"
 stars: 0
-language: Python
-last_updated: '2026-08-07T20:02:03Z'
-discovered_at: '2026-08-07T20:43:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T20:02:03Z"
+discovered_at: "2026-08-07T20:43:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

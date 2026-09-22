@@ -1,35 +1,19 @@
 ---
-title: yigenfeng0707-netizen/PharmaSkill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- RDKit
-- OpenAI-compatible LLM SDK
-- PubChem API
-- ChEMBL API
-- NCBI E-utilities
-- Pydantic
-- Docker
-- pytest
-- pyproject.toml
+title: "yigenfeng0707-netizen/PharmaSkill"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "RDKit", "OpenAI-compatible LLM SDK", "PubChem API", "ChEMBL API", "NCBI E-utilities", "Pydantic", "Docker", "pytest", "pyproject.toml"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- drug repurposing
-- AI agent
-- biomedical
-- multi-database reasoning
-- molecular analysis
-source: https://github.com/yigenfeng0707-netizen/PharmaSkill
+deployment_complexity: "Medium"
+tags: ["drug repurposing", "AI agent", "biomedical", "multi-database reasoning", "molecular analysis"]
+source: "https://github.com/yigenfeng0707-netizen/PharmaSkill"
 stars: 0
-language: Python
-last_updated: '2026-08-08T01:16:08Z'
-discovered_at: '2026-08-08T01:26:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T01:16:08Z"
+discovered_at: "2026-08-08T01:26:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

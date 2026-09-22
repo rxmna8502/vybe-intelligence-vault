@@ -1,35 +1,19 @@
 ---
-title: marco308/meals
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- SQLite
-- React-like HTML/CSS/ES modules
-- SwiftUI (iOS)
-- MCP (Model Context Protocol)
-- bcrypt
-- Alembic
-- Docker
-- SMTP
+title: "marco308/meals"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["FastAPI", "SQLAlchemy", "PostgreSQL", "SQLite", "React-like HTML/CSS/ES modules", "SwiftUI (iOS)", "MCP (Model Context Protocol)", "bcrypt", "Alembic", "Docker", "SMTP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- meal planning
-- AI integration
-- recipe management
-- shopping list
-- multi-user collaboration
-source: https://github.com/marco308/meals
+deployment_complexity: "Medium"
+tags: ["meal planning", "AI integration", "recipe management", "shopping list", "multi-user collaboration"]
+source: "https://github.com/marco308/meals"
 stars: 0
-language: Python
-last_updated: '2026-08-02T21:46:35Z'
-discovered_at: '2026-08-02T21:55:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T21:46:35Z"
+discovered_at: "2026-08-02T21:55:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

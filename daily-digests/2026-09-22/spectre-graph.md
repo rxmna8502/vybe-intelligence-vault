@@ -1,33 +1,19 @@
 ---
-title: gabrielcoghi-rgb/spectre-graph
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- SvelteKit
-- D3.js
-- WebSocket
-- OpenAI API
-- Claude API
-- Graph Database
-- Natural Language Processing
-- Multilingual NLP
+title: "gabrielcoghi-rgb/spectre-graph"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SvelteKit", "D3.js", "WebSocket", "OpenAI API", "Claude API", "Graph Database", "Natural Language Processing", "Multilingual NLP"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- OSINT
-- Knowledge Graph
-- Entity Disambiguation
-- AI Orchestration
-- Semantic Intelligence
-source: https://github.com/gabrielcoghi-rgb/spectre-graph
+deployment_complexity: "High"
+tags: ["OSINT", "Knowledge Graph", "Entity Disambiguation", "AI Orchestration", "Semantic Intelligence"]
+source: "https://github.com/gabrielcoghi-rgb/spectre-graph"
 stars: 1
-language: HTML
-last_updated: '2026-07-19T19:05:04Z'
-discovered_at: '2026-07-19T19:13:39Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-19T19:05:04Z"
+discovered_at: "2026-07-19T19:13:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

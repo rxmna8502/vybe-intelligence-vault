@@ -1,30 +1,19 @@
 ---
-title: SystemCraftsman/strimzi-kafka-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Kubernetes
-- Apache Kafka
-- Strimzi Operator
-- Click (CLI framework)
-- MCP (Model Context Protocol)
+title: "SystemCraftsman/strimzi-kafka-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Kubernetes", "Apache Kafka", "Strimzi Operator", "Click (CLI framework)", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Kafka management
-- Kubernetes operator
-- CLI tool
-- Strimzi
-- MCP server
-source: https://github.com/SystemCraftsman/strimzi-kafka-cli
+deployment_complexity: "Medium"
+tags: ["Kafka management", "Kubernetes operator", "CLI tool", "Strimzi", "MCP server"]
+source: "https://github.com/SystemCraftsman/strimzi-kafka-cli"
 stars: 90
-language: Python
-last_updated: '2026-08-04T21:13:16Z'
-discovered_at: '2026-08-04T21:15:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T21:13:16Z"
+discovered_at: "2026-08-04T21:15:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

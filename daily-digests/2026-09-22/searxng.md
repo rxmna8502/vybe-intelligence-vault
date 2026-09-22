@@ -1,29 +1,19 @@
 ---
-title: danchev/searXNG
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SearXNG
-- HTTP/Streamable HTTP
-- CLI
+title: "danchev/searXNG"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SearXNG", "HTTP/Streamable HTTP", "CLI"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- privacy
-- web search
-- MCP server
-- aggregation
-- search engine
-source: https://github.com/danchev/searXNG
+deployment_complexity: "Medium"
+tags: ["privacy", "web search", "MCP server", "aggregation", "search engine"]
+source: "https://github.com/danchev/searXNG"
 stars: 0
-language: Python
-last_updated: '2026-08-08T18:38:30Z'
-discovered_at: '2026-08-08T18:39:20Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T18:38:30Z"
+discovered_at: "2026-08-08T18:39:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: editmamei/editmamei-wiki
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Node.js
-- TypeScript
-- Model Context Protocol (MCP)
-- Adobe Photoshop API
-- npm
-- Electron (for .mcpb packaging)
+title: "editmamei/editmamei-wiki"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "TypeScript", "Model Context Protocol (MCP)", "Adobe Photoshop API", "npm", "Electron (for .mcpb packaging)"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI orchestration
-- Photoshop automation
-- natural language editing
-- MCP server
-- photo editing
-source: https://github.com/editmamei/editmamei-wiki
+deployment_complexity: "Medium"
+tags: ["AI orchestration", "Photoshop automation", "natural language editing", "MCP server", "photo editing"]
+source: "https://github.com/editmamei/editmamei-wiki"
 stars: 0
-language: None
-last_updated: '2026-08-08T13:40:09Z'
-discovered_at: '2026-08-08T13:48:48Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T13:40:09Z"
+discovered_at: "2026-08-08T13:48:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

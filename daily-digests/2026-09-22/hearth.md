@@ -1,39 +1,19 @@
 ---
-title: logan-han/hearth
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Next.js
-- Neon Postgres
-- Drizzle ORM
-- Vercel
-- Telegram Bot API
-- Google OAuth
-- Microsoft Graph API
-- Upstash QStash
-- Tavily
-- OpenRouter
-- Gemini API
-- OpenAI-compatible LLM
-- AES-256-GCM
-- Langfuse
+title: "logan-han/hearth"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Next.js", "Neon Postgres", "Drizzle ORM", "Vercel", "Telegram Bot API", "Google OAuth", "Microsoft Graph API", "Upstash QStash", "Tavily", "OpenRouter", "Gemini API", "OpenAI-compatible LLM", "AES-256-GCM", "Langfuse"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- self-hosted
-- AI assistant
-- multi-service integration
-- Telegram bot
-- calendar management
-source: https://github.com/logan-han/hearth
+deployment_complexity: "Medium"
+tags: ["self-hosted", "AI assistant", "multi-service integration", "Telegram bot", "calendar management"]
+source: "https://github.com/logan-han/hearth"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T22:03:34Z'
-discovered_at: '2026-09-02T22:18:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T22:03:34Z"
+discovered_at: "2026-09-02T22:18:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

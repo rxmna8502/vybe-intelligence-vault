@@ -1,30 +1,19 @@
 ---
-title: nczz/kiro-discord-bot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Go
-- Discord API
-- Model Context Protocol (MCP)
-- NATS/JetStream
-- ACP (Agent Communication Protocol)
-- OMP (Optional agent engine)
+title: "nczz/kiro-discord-bot"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Discord API", "Model Context Protocol (MCP)", "NATS/JetStream", "ACP (Agent Communication Protocol)", "OMP (Optional agent engine)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Discord bot
-- Agent orchestration
-- MCP integration
-- ACP agents
-- Automation
-source: https://github.com/nczz/kiro-discord-bot
+deployment_complexity: "Medium"
+tags: ["Discord bot", "Agent orchestration", "MCP integration", "ACP agents", "Automation"]
+source: "https://github.com/nczz/kiro-discord-bot"
 stars: 35
-language: Go
-last_updated: '2026-08-01T16:03:59Z'
-discovered_at: '2026-08-01T16:06:46Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T16:03:59Z"
+discovered_at: "2026-08-01T16:06:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

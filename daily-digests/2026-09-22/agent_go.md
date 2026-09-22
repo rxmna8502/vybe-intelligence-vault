@@ -1,33 +1,19 @@
 ---
-title: urika/agent_go
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Claude Code
-- Git
-- MCP (Model Context Protocol)
-- JSON
-- CLI
-- TUI
-- HTTP/SSE
-- AST
+title: "urika/agent_go"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Claude Code", "Git", "MCP (Model Context Protocol)", "JSON", "CLI", "TUI", "HTTP/SSE", "AST"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI task orchestration
-- Claude Code integration
-- concurrent execution
-- cost control
-- worktree isolation
-source: https://github.com/urika/agent_go
+deployment_complexity: "Medium"
+tags: ["AI task orchestration", "Claude Code integration", "concurrent execution", "cost control", "worktree isolation"]
+source: "https://github.com/urika/agent_go"
 stars: 1
-language: Python
-last_updated: '2026-08-08T06:48:19Z'
-discovered_at: '2026-08-08T06:52:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T06:48:19Z"
+discovered_at: "2026-08-08T06:52:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

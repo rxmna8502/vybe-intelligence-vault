@@ -1,39 +1,19 @@
 ---
-title: WINKGO/WinkGo
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- Electron
-- React
-- TypeScript
-- Rust
-- Tokio
-- Axum
-- SQLite
-- ACP
-- MCP
-- Vite
-- UnoCSS
-- Arco Design
-- FFmpeg
-- WPS Office
-- LibreOffice
+title: "WINKGO/WinkGo"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "React", "TypeScript", "Rust", "Tokio", "Axum", "SQLite", "ACP", "MCP", "Vite", "UnoCSS", "Arco Design", "FFmpeg", "WPS Office", "LibreOffice"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agent Workspace
-- Multi-Agent Collaboration
-- MCP Integration
-- Local-First
-- Desktop Automation
-source: https://github.com/WINKGO/WinkGo
+deployment_complexity: "Medium"
+tags: ["AI Agent Workspace", "Multi-Agent Collaboration", "MCP Integration", "Local-First", "Desktop Automation"]
+source: "https://github.com/WINKGO/WinkGo"
 stars: 0
-language: Rust
-last_updated: '2026-08-01T06:24:35Z'
-discovered_at: '2026-08-01T06:28:53Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T06:24:35Z"
+discovered_at: "2026-08-01T06:28:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: trongnguyenbinh/zalo-bot-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Zalo Bot API
-- httpx
-- uv
+title: "trongnguyenbinh/zalo-bot-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Zalo Bot API", "httpx", "uv"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- MCP
-- Zalo
-- AI agent integration
-- chatbot
-- multi-platform
-source: https://github.com/trongnguyenbinh/zalo-bot-mcp
+deployment_complexity: "Medium"
+tags: ["MCP", "Zalo", "AI agent integration", "chatbot", "multi-platform"]
+source: "https://github.com/trongnguyenbinh/zalo-bot-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-08T13:41:09Z'
-discovered_at: '2026-08-08T13:48:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T13:41:09Z"
+discovered_at: "2026-08-08T13:48:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

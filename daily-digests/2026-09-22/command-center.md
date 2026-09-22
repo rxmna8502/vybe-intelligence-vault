@@ -1,34 +1,19 @@
 ---
-title: scrunchds/Command-Center
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Obsidian Plugin API
-- Python (for embedding backends)
-- SQLite-VSS (for vector search)
-- React (for UI components)
-- Pi RPC (for local agent communication)
-- Ollama
-- LM Studio
-- OpenAI-compatible APIs
+title: "scrunchds/Command-Center"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Obsidian Plugin API", "Python (for embedding backends)", "SQLite-VSS (for vector search)", "React (for UI components)", "Pi RPC (for local agent communication)", "Ollama", "LM Studio", "OpenAI-compatible APIs"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Obsidian
-- multi-agent orchestration
-- RAG
-- workflow automation
-- local-first AI
-source: https://github.com/scrunchds/Command-Center
+deployment_complexity: "Medium"
+tags: ["Obsidian", "multi-agent orchestration", "RAG", "workflow automation", "local-first AI"]
+source: "https://github.com/scrunchds/Command-Center"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-02T18:00:30Z'
-discovered_at: '2026-08-02T18:02:23Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T18:00:30Z"
+discovered_at: "2026-08-02T18:02:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

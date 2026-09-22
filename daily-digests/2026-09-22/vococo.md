@@ -1,34 +1,19 @@
 ---
-title: chjm-ai/vococo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Claude API
-- SQLite
-- FastAPI
-- Rich
-- Prompt Toolkit
-- STT/TTS (Speech-to-Text/Text-to-Speech)
-- Git Worktree
-- Web Push (VAPID)
-- SSE (Server-Sent Events)
+title: "chjm-ai/vococo"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude API", "SQLite", "FastAPI", "Rich", "Prompt Toolkit", "STT/TTS (Speech-to-Text/Text-to-Speech)", "Git Worktree", "Web Push (VAPID)", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- personal AI assistant
-- voice-first interaction
-- multi-channel access
-- task automation
-- long-term memory
-source: https://github.com/chjm-ai/vococo
+deployment_complexity: "Medium"
+tags: ["personal AI assistant", "voice-first interaction", "multi-channel access", "task automation", "long-term memory"]
+source: "https://github.com/chjm-ai/vococo"
 stars: 16
-language: Python
-last_updated: '2026-09-03T08:26:26Z'
-discovered_at: '2026-09-03T08:33:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T08:26:26Z"
+discovered_at: "2026-09-03T08:33:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

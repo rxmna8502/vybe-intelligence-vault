@@ -1,32 +1,19 @@
 ---
-title: kiriz/factwatch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Google Gemini 2.0 Flash
-- Google Search API
-- GitHub Actions
-- GitHub Pages
-- uv (Python package manager)
-- ruff (linter)
-- Markdown
+title: "kiriz/factwatch"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Google Gemini 2.0 Flash", "Google Search API", "GitHub Actions", "GitHub Pages", "uv (Python package manager)", "ruff (linter)", "Markdown"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- fact-checking
-- AI verification
-- claim management
-- transparency
-- automated reasoning
-source: https://github.com/kiriz/factwatch
+deployment_complexity: "Medium"
+tags: ["fact-checking", "AI verification", "claim management", "transparency", "automated reasoning"]
+source: "https://github.com/kiriz/factwatch"
 stars: 1
-language: Python
-last_updated: '2026-07-11T07:48:48Z'
-discovered_at: '2026-07-11T07:52:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T07:48:48Z"
+discovered_at: "2026-07-11T07:52:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

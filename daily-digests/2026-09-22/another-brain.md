@@ -1,30 +1,19 @@
 ---
-title: Flowerf19/another-brain
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- SQLite
-- ONNX Runtime
-- MCP (Model Context Protocol)
-- FTS5 (Full-Text Search)
-- uv (package manager)
+title: "Flowerf19/another-brain"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "ONNX Runtime", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "uv (package manager)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- long-term memory
-- MCP server
-- local embeddings
-- agent collaboration
-- self-expiring diary
-source: https://github.com/Flowerf19/another-brain
+deployment_complexity: "Low"
+tags: ["long-term memory", "MCP server", "local embeddings", "agent collaboration", "self-expiring diary"]
+source: "https://github.com/Flowerf19/another-brain"
 stars: 2
-language: Python
-last_updated: '2026-08-07T02:42:05Z'
-discovered_at: '2026-08-07T02:42:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T02:42:05Z"
+discovered_at: "2026-08-07T02:42:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: ubongn/agritrust-casper
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Odra Framework
-- Casper Network
-- Python
-- x402 Micropayments
-- CEP-18 Tokens
-- EIP-712
-- MCP (Model-Context-Protocol)
-- CSPR.cloud
-- Binaryen
+title: "ubongn/agritrust-casper"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Odra Framework", "Casper Network", "Python", "x402 Micropayments", "CEP-18 Tokens", "EIP-712", "MCP (Model-Context-Protocol)", "CSPR.cloud", "Binaryen"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- RWA financing
-- AI underwriting
-- blockchain credit scoring
-- autonomous agents
-- trade finance
-source: https://github.com/ubongn/agritrust-casper
+deployment_complexity: "High"
+tags: ["RWA financing", "AI underwriting", "blockchain credit scoring", "autonomous agents", "trade finance"]
+source: "https://github.com/ubongn/agritrust-casper"
 stars: 0
-language: Python
-last_updated: '2026-07-20T15:06:40Z'
-discovered_at: '2026-07-20T15:10:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T15:06:40Z"
+discovered_at: "2026-07-20T15:10:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

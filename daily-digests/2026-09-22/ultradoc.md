@@ -1,35 +1,19 @@
 ---
-title: maxgfr/ultradoc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- Ripgrep
-- Git
-- Qdrant
-- Ollama
-- Docker
-- Model Context Protocol (MCP)
-- HTML stripping
-- BM25 ranking
-- Reciprocal Rank Fusion (RRF)
+title: "maxgfr/ultradoc"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Ripgrep", "Git", "Qdrant", "Ollama", "Docker", "Model Context Protocol (MCP)", "HTML stripping", "BM25 ranking", "Reciprocal Rank Fusion (RRF)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- grounded retrieval
-- citation verification
-- RAG optimization
-- MCP server
-- open-source documentation
-source: https://github.com/maxgfr/ultradoc
+deployment_complexity: "Medium"
+tags: ["grounded retrieval", "citation verification", "RAG optimization", "MCP server", "open-source documentation"]
+source: "https://github.com/maxgfr/ultradoc"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T14:17:21Z'
-discovered_at: '2026-08-07T14:18:51Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T14:17:21Z"
+discovered_at: "2026-08-07T14:18:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

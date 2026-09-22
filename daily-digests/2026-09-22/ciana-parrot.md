@@ -1,29 +1,19 @@
 ---
-title: yourkenike/ciana-parrot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Docker
-- Telegram API
-- Email APIs
-- Custom Skills Framework
+title: "yourkenike/ciana-parrot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Docker", "Telegram API", "Email APIs", "Custom Skills Framework"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- AI assistant
-- self-hosted
-- task automation
-- multi-channel
-- extensible skills
-source: https://github.com/yourkenike/ciana-parrot
+deployment_complexity: "Medium"
+tags: ["AI assistant", "self-hosted", "task automation", "multi-channel", "extensible skills"]
+source: "https://github.com/yourkenike/ciana-parrot"
 stars: 1
-language: Python
-last_updated: '2026-07-17T02:51:24Z'
-discovered_at: '2026-07-17T02:51:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T02:51:24Z"
+discovered_at: "2026-07-17T02:51:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

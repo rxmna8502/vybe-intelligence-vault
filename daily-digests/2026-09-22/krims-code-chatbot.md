@@ -1,28 +1,19 @@
 ---
-title: KrishivStudios/krims-code-chatbot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- Node.js
-- AI Agents
-- Subagent Architecture
+title: "KrishivStudios/krims-code-chatbot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "AI Agents", "Subagent Architecture"]
 quality_score: 3
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- developer assistant
-- subagents
-- coding automation
-- AI collaboration
-source: https://github.com/KrishivStudios/krims-code-chatbot
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "developer assistant", "subagents", "coding automation", "AI collaboration"]
+source: "https://github.com/KrishivStudios/krims-code-chatbot"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-02T21:48:58Z'
-discovered_at: '2026-08-02T21:55:43Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T21:48:58Z"
+discovered_at: "2026-08-02T21:55:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

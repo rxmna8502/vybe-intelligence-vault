@@ -1,33 +1,19 @@
 ---
-title: sesori-ai/sesori_apps_monorepo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Dart
-- Flutter
-- WebSocket
-- X25519
-- XChaCha20-Poly1305
-- Pure Dart
-- Cryptography
-- Mobile (iOS/Android)
-- CLI
+title: "sesori-ai/sesori_apps_monorepo"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Dart", "Flutter", "WebSocket", "X25519", "XChaCha20-Poly1305", "Pure Dart", "Cryptography", "Mobile (iOS/Android)", "CLI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI session control
-- mobile coding
-- end-to-end encryption
-- AI assistant integration
-- remote development
-source: https://github.com/sesori-ai/sesori_apps_monorepo
+deployment_complexity: "Medium"
+tags: ["AI session control", "mobile coding", "end-to-end encryption", "AI assistant integration", "remote development"]
+source: "https://github.com/sesori-ai/sesori_apps_monorepo"
 stars: 98
-language: Dart
-last_updated: '2026-08-08T13:46:05Z'
-discovered_at: '2026-08-08T13:48:35Z'
-evaluated_by: mistral-small-latest
+language: "Dart"
+last_updated: "2026-08-08T13:46:05Z"
+discovered_at: "2026-08-08T13:48:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

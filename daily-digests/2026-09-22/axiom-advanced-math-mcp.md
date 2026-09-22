@@ -1,31 +1,19 @@
 ---
-title: tufantunc/axiom-advanced-math-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- math.js
-- Giac/Xcas (WASM)
-- Docker
-- Jest (for testing)
+title: "tufantunc/axiom-advanced-math-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "math.js", "Giac/Xcas (WASM)", "Docker", "Jest (for testing)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Mathematical computation
-- Symbolic math
-- Model Context Protocol
-- Exact arithmetic
-- LLM augmentation
-source: https://github.com/tufantunc/axiom-advanced-math-mcp
+deployment_complexity: "Medium"
+tags: ["Mathematical computation", "Symbolic math", "Model Context Protocol", "Exact arithmetic", "LLM augmentation"]
+source: "https://github.com/tufantunc/axiom-advanced-math-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T11:29:46Z'
-discovered_at: '2026-08-08T11:30:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T11:29:46Z"
+discovered_at: "2026-08-08T11:30:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

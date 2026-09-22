@@ -1,31 +1,19 @@
 ---
-title: herbertkokholm/cite-caddy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Zotero Web API
-- OAuth 2.1
-- Docker
-- FastAPI
-- Cryptography (Fernet for encryption)
+title: "herbertkokholm/cite-caddy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Zotero Web API", "OAuth 2.1", "Docker", "FastAPI", "Cryptography (Fernet for encryption)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Zotero integration
-- MCP server
-- citation management
-- AI tooling
-- reference library
-source: https://github.com/herbertkokholm/cite-caddy
+deployment_complexity: "Medium"
+tags: ["Zotero integration", "MCP server", "citation management", "AI tooling", "reference library"]
+source: "https://github.com/herbertkokholm/cite-caddy"
 stars: 0
-language: Python
-last_updated: '2026-08-01T08:52:35Z'
-discovered_at: '2026-08-01T09:06:41Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T08:52:35Z"
+discovered_at: "2026-08-01T09:06:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

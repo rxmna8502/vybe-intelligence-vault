@@ -1,33 +1,19 @@
 ---
-title: pgen0x/azimuth
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Go
-- Python
-- Node.js
-- Solana
-- Meteora DLMM
-- Uniswap v3/v4
-- Redis
-- Hermes AI Agent
-- Telegram API
+title: "pgen0x/azimuth"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Python", "Node.js", "Solana", "Meteora DLMM", "Uniswap v3/v4", "Redis", "Hermes AI Agent", "Telegram API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- concentrated-liquidity
-- pool screening
-- AI trading agents
-- Solana
-- Uniswap
-source: https://github.com/pgen0x/azimuth
+deployment_complexity: "Medium"
+tags: ["concentrated-liquidity", "pool screening", "AI trading agents", "Solana", "Uniswap"]
+source: "https://github.com/pgen0x/azimuth"
 stars: 2
-language: Python
-last_updated: '2026-08-01T16:59:03Z'
-discovered_at: '2026-08-06T06:31:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T16:59:03Z"
+discovered_at: "2026-08-06T06:31:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

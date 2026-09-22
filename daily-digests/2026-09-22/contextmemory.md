@@ -1,31 +1,19 @@
 ---
-title: Kortexio/ContextMemory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- C#
-- .NET 9
-- Docker
-- Markdown
-- OpenAI API
-- MCP (Model Context Protocol)
-- Ollama
+title: "Kortexio/ContextMemory"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C#", ".NET 9", "Docker", "Markdown", "OpenAI API", "MCP (Model Context Protocol)", "Ollama"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- agent memory
-- wiki-style memory
-- LLM gateway
-- persistent context
-- MCP integration
-source: https://github.com/Kortexio/ContextMemory
+deployment_complexity: "Medium"
+tags: ["agent memory", "wiki-style memory", "LLM gateway", "persistent context", "MCP integration"]
+source: "https://github.com/Kortexio/ContextMemory"
 stars: 5
-language: C#
-last_updated: '2026-08-04T10:34:38Z'
-discovered_at: '2026-08-04T10:39:15Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-04T10:34:38Z"
+discovered_at: "2026-08-04T10:39:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

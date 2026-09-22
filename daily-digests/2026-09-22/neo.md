@@ -1,35 +1,19 @@
 ---
-title: neomjs/neo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- JavaScript
-- TypeScript
-- Web Workers
-- SharedWorker
-- SQLite
-- Vector Databases
-- GraphRAG
-- A2A Coordination
-- OIDC
-- GitHub Workflow Automation
-- MCP Servers
+title: "neomjs/neo"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "TypeScript", "Web Workers", "SharedWorker", "SQLite", "Vector Databases", "GraphRAG", "A2A Coordination", "OIDC", "GitHub Workflow Automation", "MCP Servers"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- AI Agent Swarm
-- Self-Evolving Systems
-- Multi-Model Coordination
-- GraphRAG
-- Autonomous Engineering
-source: https://github.com/neomjs/neo
+deployment_complexity: "High"
+tags: ["AI Agent Swarm", "Self-Evolving Systems", "Multi-Model Coordination", "GraphRAG", "Autonomous Engineering"]
+source: "https://github.com/neomjs/neo"
 stars: 3262
-language: JavaScript
-last_updated: '2026-09-01T09:05:51Z'
-discovered_at: '2026-09-01T09:09:17Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-01T09:05:51Z"
+discovered_at: "2026-09-01T09:09:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

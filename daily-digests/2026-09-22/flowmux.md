@@ -1,35 +1,19 @@
 ---
-title: flowmux-ai/flowmux
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- GTK4
-- Libadwaita
-- VTE (Terminal Emulation)
-- WebKitGTK
-- D-Bus
-- Libsecret
-- ThorVG
-- GStreamer
-- Unix Sockets
-- Monaco Editor
+title: "flowmux-ai/flowmux"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Rust", "GTK4", "Libadwaita", "VTE (Terminal Emulation)", "WebKitGTK", "D-Bus", "Libsecret", "ThorVG", "GStreamer", "Unix Sockets", "Monaco Editor"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal
-- AI agent integration
-- browser automation
-- workflow multiplexer
-- desktop notifications
-source: https://github.com/flowmux-ai/flowmux
+deployment_complexity: "Medium"
+tags: ["terminal", "AI agent integration", "browser automation", "workflow multiplexer", "desktop notifications"]
+source: "https://github.com/flowmux-ai/flowmux"
 stars: 10
-language: Rust
-last_updated: '2026-08-04T10:32:29Z'
-discovered_at: '2026-08-04T10:39:18Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-04T10:32:29Z"
+discovered_at: "2026-08-04T10:39:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

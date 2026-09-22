@@ -1,35 +1,19 @@
 ---
-title: fierceX/mink
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Tokio
-- DeepSeek API
-- OpenAI-compatible APIs
-- Python SDK
-- TUI (Terminal UI)
-- JSONL
-- WASI (WebAssembly System Interface)
-- nsjail
-- bubblewrap
-- macOS sandbox-exec
+title: "fierceX/mink"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Tokio", "DeepSeek API", "OpenAI-compatible APIs", "Python SDK", "TUI (Terminal UI)", "JSONL", "WASI (WebAssembly System Interface)", "nsjail", "bubblewrap", "macOS sandbox-exec"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent runtime
-- Rust-native
-- terminal-first
-- embeddable
-- tool orchestration
-source: https://github.com/fierceX/mink
+deployment_complexity: "Medium"
+tags: ["AI agent runtime", "Rust-native", "terminal-first", "embeddable", "tool orchestration"]
+source: "https://github.com/fierceX/mink"
 stars: 0
-language: Rust
-last_updated: '2026-08-03T16:22:45Z'
-discovered_at: '2026-08-03T16:25:27Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-03T16:22:45Z"
+discovered_at: "2026-08-03T16:25:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: mischuh/canonic
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- YAML
-- SQL
-- Docker
-- Markdown
-- LLM (Anthropic, OpenAI, OpenAI-compatible, GitHub Copilot)
+title: "mischuh/canonic"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "YAML", "SQL", "Docker", "Markdown", "LLM (Anthropic, OpenAI, OpenAI-compatible, GitHub Copilot)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- context layer
-- data governance
-- AI agent integration
-- semantic layer
-- guardrails
-source: https://github.com/mischuh/canonic
+deployment_complexity: "Medium"
+tags: ["context layer", "data governance", "AI agent integration", "semantic layer", "guardrails"]
+source: "https://github.com/mischuh/canonic"
 stars: 0
-language: Python
-last_updated: '2026-08-01T15:57:10Z'
-discovered_at: '2026-08-01T16:07:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T15:57:10Z"
+discovered_at: "2026-08-01T16:07:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

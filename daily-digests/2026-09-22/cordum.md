@@ -1,33 +1,19 @@
 ---
-title: cordum-io/cordum
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Go
-- Docker
-- NATS
-- Redis
-- React
-- TypeScript
-- CAP Protocol
-- Helm
-- Cosign
+title: "cordum-io/cordum"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Docker", "NATS", "Redis", "React", "TypeScript", "CAP Protocol", "Helm", "Cosign"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI Governance
-- Agent Control Plane
-- Compliance Firewall
-- Audit Trail
-- Real-time Monitoring
-source: https://github.com/cordum-io/cordum
+deployment_complexity: "Medium"
+tags: ["AI Governance", "Agent Control Plane", "Compliance Firewall", "Audit Trail", "Real-time Monitoring"]
+source: "https://github.com/cordum-io/cordum"
 stars: 490
-language: Go
-last_updated: '2026-07-19T11:48:49Z'
-discovered_at: '2026-07-19T11:57:04Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-19T11:48:49Z"
+discovered_at: "2026-07-19T11:57:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

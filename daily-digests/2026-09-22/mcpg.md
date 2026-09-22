@@ -1,36 +1,19 @@
 ---
-title: devopam/MCPg
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- PostgreSQL
-- Model Context Protocol (MCP)
-- psycopg3
-- FastAPI
-- Docker
-- Prometheus
-- OIDC JWT
-- TimescaleDB
-- pgvector
-- PostGIS
-- Apache AGE
+title: "devopam/MCPg"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "PostgreSQL", "Model Context Protocol (MCP)", "psycopg3", "FastAPI", "Docker", "Prometheus", "OIDC JWT", "TimescaleDB", "pgvector", "PostGIS", "Apache AGE"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- PostgreSQL
-- MCP Server
-- AI Agents
-- Natural Language SQL
-- Database Operations
-source: https://github.com/devopam/MCPg
+deployment_complexity: "Medium"
+tags: ["PostgreSQL", "MCP Server", "AI Agents", "Natural Language SQL", "Database Operations"]
+source: "https://github.com/devopam/MCPg"
 stars: 8
-language: Python
-last_updated: '2026-08-10T07:22:55Z'
-discovered_at: '2026-08-10T07:35:14Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T07:22:55Z"
+discovered_at: "2026-08-10T07:35:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,27 +1,19 @@
 ---
-title: theYahia/kavenegar-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Kavenegar API
+title: "theYahia/kavenegar-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Kavenegar API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- SMS gateway
-- OTP delivery
-- Iranian telecom
-- MCP server
-- AI assistant integration
-source: https://github.com/theYahia/kavenegar-mcp
+deployment_complexity: "Low"
+tags: ["SMS gateway", "OTP delivery", "Iranian telecom", "MCP server", "AI assistant integration"]
+source: "https://github.com/theYahia/kavenegar-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-02T19:10:26Z'
-discovered_at: '2026-09-02T19:14:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:10:26Z"
+discovered_at: "2026-09-02T19:14:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

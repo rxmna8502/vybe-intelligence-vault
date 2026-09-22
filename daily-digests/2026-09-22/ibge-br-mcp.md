@@ -1,30 +1,19 @@
 ---
-title: SidneyBissoli/ibge-br-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Zod
-- Jest
-- Cloudflare Workers
+title: "SidneyBissoli/ibge-br-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Zod", "Jest", "Cloudflare Workers"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- IBGE
-- Brazilian data
-- MCP server
-- real-time APIs
-- data provenance
-source: https://github.com/SidneyBissoli/ibge-br-mcp
+deployment_complexity: "Low"
+tags: ["IBGE", "Brazilian data", "MCP server", "real-time APIs", "data provenance"]
+source: "https://github.com/SidneyBissoli/ibge-br-mcp"
 stars: 7
-language: TypeScript
-last_updated: '2026-08-09T01:31:08Z'
-discovered_at: '2026-08-09T01:33:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T01:31:08Z"
+discovered_at: "2026-08-09T01:33:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

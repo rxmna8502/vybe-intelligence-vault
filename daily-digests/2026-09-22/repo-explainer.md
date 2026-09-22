@@ -1,34 +1,19 @@
 ---
-title: stuinfla/Repo-Explainer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Claude Code
-- JavaScript
-- ONNX
-- Hugging Face Transformers
-- GPT-4
-- Grok
-- SVG Animation
-- GitHub Actions
-- React
-- Node.js
+title: "stuinfla/Repo-Explainer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "JavaScript", "ONNX", "Hugging Face Transformers", "GPT-4", "Grok", "SVG Animation", "GitHub Actions", "React", "Node.js"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Repository Documentation
-- AI Knowledge Packs
-- Automated Explainers
-- Visual Storytelling
-- Quality-Gated Generation
-source: https://github.com/stuinfla/Repo-Explainer
+deployment_complexity: "Medium"
+tags: ["Repository Documentation", "AI Knowledge Packs", "Automated Explainers", "Visual Storytelling", "Quality-Gated Generation"]
+source: "https://github.com/stuinfla/Repo-Explainer"
 stars: 53
-language: JavaScript
-last_updated: '2026-08-08T09:40:24Z'
-discovered_at: '2026-08-08T09:41:20Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T09:40:24Z"
+discovered_at: "2026-08-08T09:41:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

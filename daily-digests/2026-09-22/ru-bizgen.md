@@ -1,32 +1,19 @@
 ---
-title: DmitryEm506/Ru-BizGen
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Kotlin
-- Ktor
-- Netty
-- MCP Kotlin SDK
-- JDK 21
-- Gradle
-- Docker
-- JMH (for benchmarking)
+title: "DmitryEm506/Ru-BizGen"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Kotlin", "Ktor", "Netty", "MCP Kotlin SDK", "JDK 21", "Gradle", "Docker", "JMH (for benchmarking)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- test data generation
-- local processing
-- MCP server
-- IntelliJ plugin
-- Russian business data
-source: https://github.com/DmitryEm506/Ru-BizGen
+deployment_complexity: "Low"
+tags: ["test data generation", "local processing", "MCP server", "IntelliJ plugin", "Russian business data"]
+source: "https://github.com/DmitryEm506/Ru-BizGen"
 stars: 1
-language: Kotlin
-last_updated: '2026-08-08T15:29:54Z'
-discovered_at: '2026-08-08T15:32:32Z'
-evaluated_by: mistral-small-latest
+language: "Kotlin"
+last_updated: "2026-08-08T15:29:54Z"
+discovered_at: "2026-08-08T15:32:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: filiperochalopes/esus-pec-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- PostgreSQL
-- FastMCP
-- Model Context Protocol (MCP)
-- uv
-- SQLAlchemy
+title: "filiperochalopes/esus-pec-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PostgreSQL", "FastMCP", "Model Context Protocol (MCP)", "uv", "SQLAlchemy"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- healthcare
-- MCP server
-- anonymized data
-- PostgreSQL
-- Brazilian e-SUS
-source: https://github.com/filiperochalopes/esus-pec-mcp
+deployment_complexity: "Medium"
+tags: ["healthcare", "MCP server", "anonymized data", "PostgreSQL", "Brazilian e-SUS"]
+source: "https://github.com/filiperochalopes/esus-pec-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-20T20:59:30Z'
-discovered_at: '2026-07-20T21:11:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T20:59:30Z"
+discovered_at: "2026-07-20T21:11:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

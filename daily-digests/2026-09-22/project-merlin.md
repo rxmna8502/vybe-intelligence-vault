@@ -1,31 +1,19 @@
 ---
-title: GhostwheeI/project-merlin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Tauri
-- TypeScript
-- llama.cpp
-- CUDA
-- Vulkan
-- SQLite
-- Windows Native Runtime
+title: "GhostwheeI/project-merlin"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Tauri", "TypeScript", "llama.cpp", "CUDA", "Vulkan", "SQLite", "Windows Native Runtime"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local AI agent
-- Windows desktop
-- zero-telemetry
-- on-device LLM
-- developer tools
-source: https://github.com/GhostwheeI/project-merlin
+deployment_complexity: "Medium"
+tags: ["local AI agent", "Windows desktop", "zero-telemetry", "on-device LLM", "developer tools"]
+source: "https://github.com/GhostwheeI/project-merlin"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T20:32:33Z'
-discovered_at: '2026-08-09T20:35:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T20:32:33Z"
+discovered_at: "2026-08-09T20:35:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

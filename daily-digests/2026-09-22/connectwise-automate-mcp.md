@@ -1,30 +1,19 @@
 ---
-title: wyre-technology/connectwise-automate-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- ConnectWise Automate API
-- GitHub Packages
-- Docker
+title: "wyre-technology/connectwise-automate-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "ConnectWise Automate API", "GitHub Packages", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- ConnectWise Automate
-- RMM integration
-- AI automation
-- remote management
-source: https://github.com/wyre-technology/connectwise-automate-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "ConnectWise Automate", "RMM integration", "AI automation", "remote management"]
+source: "https://github.com/wyre-technology/connectwise-automate-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-10T16:59:19Z'
-discovered_at: '2026-08-10T17:06:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T16:59:19Z"
+discovered_at: "2026-08-10T17:06:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

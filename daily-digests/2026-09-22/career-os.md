@@ -1,32 +1,19 @@
 ---
-title: Friend-Xu/career-os
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Vite
-- WebSocket
-- Markdown
-- Claude CLI
-- React (implied by Vite UI)
-- Tailwind CSS (implied by UI styling)
+title: "Friend-Xu/career-os"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Vite", "WebSocket", "Markdown", "Claude CLI", "React (implied by Vite UI)", "Tailwind CSS (implied by UI styling)"]
 quality_score: 8
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- career guidance
-- job application
-- AI decision-making
-- resume builder
-- local-first
-source: https://github.com/Friend-Xu/career-os
+deployment_complexity: "Medium"
+tags: ["career guidance", "job application", "AI decision-making", "resume builder", "local-first"]
+source: "https://github.com/Friend-Xu/career-os"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T10:29:58Z'
-discovered_at: '2026-08-08T10:34:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T10:29:58Z"
+discovered_at: "2026-08-08T10:34:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

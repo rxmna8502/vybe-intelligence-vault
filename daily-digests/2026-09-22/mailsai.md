@@ -1,30 +1,19 @@
 ---
-title: RolloutsAI/mailsai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Python
-- MCP (Model Context Protocol)
-- Node.js
-- REST API
-- Firewall/Intrusion Detection
+title: "RolloutsAI/mailsai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Python", "MCP (Model Context Protocol)", "Node.js", "REST API", "Firewall/Intrusion Detection"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- email for agents
-- prompt injection firewall
-- MCP server
-- SDK
-- AI agent infrastructure
-source: https://github.com/RolloutsAI/mailsai
+deployment_complexity: "Low"
+tags: ["email for agents", "prompt injection firewall", "MCP server", "SDK", "AI agent infrastructure"]
+source: "https://github.com/RolloutsAI/mailsai"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-04T01:58:09Z'
-discovered_at: '2026-09-04T02:18:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-04T01:58:09Z"
+discovered_at: "2026-09-04T02:18:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

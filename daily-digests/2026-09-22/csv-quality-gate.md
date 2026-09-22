@@ -1,28 +1,19 @@
 ---
-title: hermes-labs-ai/csv-quality-gate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Standard Library
-- CLI
-- GitHub Actions
+title: "hermes-labs-ai/csv-quality-gate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Standard Library", "CLI", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- CSV validation
-- data quality
-- preflight checks
-- ETL pipeline
-- fail-fast
-source: https://github.com/hermes-labs-ai/csv-quality-gate
+deployment_complexity: "Low"
+tags: ["CSV validation", "data quality", "preflight checks", "ETL pipeline", "fail-fast"]
+source: "https://github.com/hermes-labs-ai/csv-quality-gate"
 stars: 0
-language: Python
-last_updated: '2026-08-04T09:49:24Z'
-discovered_at: '2026-08-04T10:41:03Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T09:49:24Z"
+discovered_at: "2026-08-04T10:41:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: lozit/mcp-freestyle
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js (≥20)
-- Model Context Protocol (MCP)
-- LibreLinkUp API (unofficial)
-- OS Keychain (for credential storage)
+title: "lozit/mcp-freestyle"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js (\u226520)", "Model Context Protocol (MCP)", "LibreLinkUp API (unofficial)", "OS Keychain (for credential storage)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- glucose monitoring
-- MCP server
-- diabetes management
-- real-time data
-- health informatics
-source: https://github.com/lozit/mcp-freestyle
+deployment_complexity: "Medium"
+tags: ["glucose monitoring", "MCP server", "diabetes management", "real-time data", "health informatics"]
+source: "https://github.com/lozit/mcp-freestyle"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T17:28:05Z'
-discovered_at: '2026-08-09T17:35:36Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T17:28:05Z"
+discovered_at: "2026-08-09T17:35:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

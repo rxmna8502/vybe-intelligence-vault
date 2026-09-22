@@ -1,34 +1,19 @@
 ---
-title: AardSkelige/moysklad-copilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python 3.12
-- aiogram 3
-- SQLAlchemy 2
-- aiohttp
-- APScheduler
-- DeepSeek API
-- Groq Whisper
-- openpyxl
-- Docker
-- SQLite
+title: "AardSkelige/moysklad-copilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12", "aiogram 3", "SQLAlchemy 2", "aiohttp", "APScheduler", "DeepSeek API", "Groq Whisper", "openpyxl", "Docker", "SQLite"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Telegram bot
-- ERP integration
-- LLM-powered audit
-- financial automation
-- production management
-source: https://github.com/AardSkelige/moysklad-copilot
+deployment_complexity: "Medium"
+tags: ["Telegram bot", "ERP integration", "LLM-powered audit", "financial automation", "production management"]
+source: "https://github.com/AardSkelige/moysklad-copilot"
 stars: 0
-language: Python
-last_updated: '2026-07-12T08:08:22Z'
-discovered_at: '2026-07-12T08:15:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T08:08:22Z"
+discovered_at: "2026-07-12T08:15:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

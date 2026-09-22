@@ -1,37 +1,19 @@
 ---
-title: yinzhijie666/oh-my-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- PostgreSQL
-- pgvector
-- Vue 3
-- TypeScript
-- Node.js
-- Docker
-- Redis
-- SQLite
-- tree-sitter
-- D3.js
-- Tailwind CSS
+title: "yinzhijie666/oh-my-memory"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "pgvector", "Vue 3", "TypeScript", "Node.js", "Docker", "Redis", "SQLite", "tree-sitter", "D3.js", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory-persistence
-- hybrid-search
-- knowledge-graph
-- agent-framework
-- self-hosted
-source: https://github.com/yinzhijie666/oh-my-memory
+deployment_complexity: "Medium"
+tags: ["memory-persistence", "hybrid-search", "knowledge-graph", "agent-framework", "self-hosted"]
+source: "https://github.com/yinzhijie666/oh-my-memory"
 stars: 2
-language: Python
-last_updated: '2026-08-08T08:41:58Z'
-discovered_at: '2026-08-08T08:42:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T08:41:58Z"
+discovered_at: "2026-08-08T08:42:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

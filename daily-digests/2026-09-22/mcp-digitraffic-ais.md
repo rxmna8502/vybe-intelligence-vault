@@ -1,29 +1,19 @@
 ---
-title: pipeworx-io/mcp-digitraffic-ais
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- REST API
-- Node.js
-- HTTP/JSON
+title: "pipeworx-io/mcp-digitraffic-ais"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "Node.js", "HTTP/JSON"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- AIS data
-- vessel tracking
-- Finnish waters
-- Baltic Sea
-- MCP server
-source: https://github.com/pipeworx-io/mcp-digitraffic-ais
+deployment_complexity: "Low"
+tags: ["AIS data", "vessel tracking", "Finnish waters", "Baltic Sea", "MCP server"]
+source: "https://github.com/pipeworx-io/mcp-digitraffic-ais"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T20:38:40Z'
-discovered_at: '2026-08-01T20:51:24Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T20:38:40Z"
+discovered_at: "2026-08-01T20:51:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

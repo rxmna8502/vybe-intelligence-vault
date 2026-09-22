@@ -1,30 +1,19 @@
 ---
-title: coo1white/cool-workflow
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- ed25519 (cryptographic signing)
-- MCP (Model Context Protocol)
-- CLI
-- JSON (for state persistence)
+title: "coo1white/cool-workflow"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "ed25519 (cryptographic signing)", "MCP (Model Context Protocol)", "CLI", "JSON (for state persistence)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- evidence-based workflows
-- tamper-proof records
-- multi-agent topologies
-- local-first RAG
-source: https://github.com/coo1white/cool-workflow
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "evidence-based workflows", "tamper-proof records", "multi-agent topologies", "local-first RAG"]
+source: "https://github.com/coo1white/cool-workflow"
 stars: 2
-language: JavaScript
-last_updated: '2026-09-02T08:16:37Z'
-discovered_at: '2026-09-02T08:20:16Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T08:16:37Z"
+discovered_at: "2026-09-02T08:20:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

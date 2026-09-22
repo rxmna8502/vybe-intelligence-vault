@@ -1,34 +1,19 @@
 ---
-title: liyu-1028/mochi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Tauri v2
-- Rust
-- React 19
-- TypeScript
-- Vite
-- FastAPI
-- Python
-- LangGraph
-- WebSocket
-- Live2D
+title: "liyu-1028/mochi"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Tauri v2", "Rust", "React 19", "TypeScript", "Vite", "FastAPI", "Python", "LangGraph", "WebSocket", "Live2D"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI companion
-- Live2D animation
-- Tauri desktop app
-- LangGraph agent
-- multi-modal UI
-source: https://github.com/liyu-1028/mochi
+deployment_complexity: "Medium"
+tags: ["AI companion", "Live2D animation", "Tauri desktop app", "LangGraph agent", "multi-modal UI"]
+source: "https://github.com/liyu-1028/mochi"
 stars: 0
-language: Python
-last_updated: '2026-08-03T02:45:41Z'
-discovered_at: '2026-08-03T02:54:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T02:45:41Z"
+discovered_at: "2026-08-03T02:54:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

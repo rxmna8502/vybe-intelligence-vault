@@ -1,33 +1,19 @@
 ---
-title: eugen-goebel/smart-doc-qa
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Streamlit
-- ChromaDB
-- Anthropic API
-- pypdf
-- python-docx
-- sentence-transformers
-- Pydantic
-- pytest
+title: "eugen-goebel/smart-doc-qa"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Streamlit", "ChromaDB", "Anthropic API", "pypdf", "python-docx", "sentence-transformers", "Pydantic", "pytest"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- RAG
-- Document Q&A
-- Vector Search
-- Streamlit
-- ChromaDB
-source: https://github.com/eugen-goebel/smart-doc-qa
+deployment_complexity: "Low"
+tags: ["RAG", "Document Q&A", "Vector Search", "Streamlit", "ChromaDB"]
+source: "https://github.com/eugen-goebel/smart-doc-qa"
 stars: 0
-language: Python
-last_updated: '2026-08-08T05:22:12Z'
-discovered_at: '2026-08-08T05:46:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T05:22:12Z"
+discovered_at: "2026-08-08T05:46:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

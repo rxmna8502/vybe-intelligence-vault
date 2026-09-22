@@ -1,37 +1,19 @@
 ---
-title: Assassinticketcollector3649/LingXi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- FastAPI
-- LangChain
-- Claude Code SDK
-- Milvus Lite
-- Qdrant
-- Docker
-- Rich
-- MCP (Model Context Protocol)
-- DeepSeek
-- Anthropic
-- OpenAI
-- SiliconFlow
+title: "Assassinticketcollector3649/LingXi"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "LangChain", "Claude Code SDK", "Milvus Lite", "Qdrant", "Docker", "Rich", "MCP (Model Context Protocol)", "DeepSeek", "Anthropic", "OpenAI", "SiliconFlow"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Penetration Testing
-- Autonomous Agents
-- CTF Automation
-- Multi-Agent System
-- Security Assessment
-source: https://github.com/Assassinticketcollector3649/LingXi
+deployment_complexity: "Medium"
+tags: ["Penetration Testing", "Autonomous Agents", "CTF Automation", "Multi-Agent System", "Security Assessment"]
+source: "https://github.com/Assassinticketcollector3649/LingXi"
 stars: 3
-language: Python
-last_updated: '2026-07-11T11:02:18Z'
-discovered_at: '2026-07-11T11:03:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T11:02:18Z"
+discovered_at: "2026-07-11T11:03:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

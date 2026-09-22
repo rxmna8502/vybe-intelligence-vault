@@ -1,30 +1,19 @@
 ---
-title: linw1995/nvim-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Neovim
-- Model Context Protocol (MCP)
-- LSP
-- Nix
-- Cargo
+title: "linw1995/nvim-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Neovim", "Model Context Protocol (MCP)", "LSP", "Nix", "Cargo"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- Neovim
-- LSP
-- AI Integration
-- Editor Tools
-source: https://github.com/linw1995/nvim-mcp
+deployment_complexity: "Medium"
+tags: ["MCP", "Neovim", "LSP", "AI Integration", "Editor Tools"]
+source: "https://github.com/linw1995/nvim-mcp"
 stars: 64
-language: Rust
-last_updated: '2026-08-02T14:58:59Z'
-discovered_at: '2026-08-02T15:02:52Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-02T14:58:59Z"
+discovered_at: "2026-08-02T15:02:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: IronCoreLabs/ironcore-alloy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Rust
-- Uniffi
-- Python
-- Java
-- Kotlin
-- Docker
-- Cryptography
+title: "IronCoreLabs/ironcore-alloy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Uniffi", "Python", "Java", "Kotlin", "Docker", "Cryptography"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- encryption
-- vector security
-- multi-language SDK
-- data protection
-- AI data security
-source: https://github.com/IronCoreLabs/ironcore-alloy
+deployment_complexity: "Medium"
+tags: ["encryption", "vector security", "multi-language SDK", "data protection", "AI data security"]
+source: "https://github.com/IronCoreLabs/ironcore-alloy"
 stars: 30
-language: Rust
-last_updated: '2026-08-07T18:54:25Z'
-discovered_at: '2026-08-07T18:58:27Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T18:54:25Z"
+discovered_at: "2026-08-07T18:58:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

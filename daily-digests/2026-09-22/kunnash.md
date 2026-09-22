@@ -1,31 +1,19 @@
 ---
-title: elzeerx/kunnash
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Electron
-- JavaScript
-- Node.js
-- SSE (Server-Sent Events)
-- Keychain (for secure storage)
-- Markdown (marked.js)
-- Office file parsing (xlsx, docx)
+title: "elzeerx/kunnash"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "JavaScript", "Node.js", "SSE (Server-Sent Events)", "Keychain (for secure storage)", "Markdown (marked.js)", "Office file parsing (xlsx, docx)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- macOS automation
-- AI-powered workspace
-- document processing
-- local-first
-- skill-based automation
-source: https://github.com/elzeerx/kunnash
+deployment_complexity: "Medium"
+tags: ["macOS automation", "AI-powered workspace", "document processing", "local-first", "skill-based automation"]
+source: "https://github.com/elzeerx/kunnash"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-08T19:27:47Z'
-discovered_at: '2026-08-08T19:33:12Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T19:27:47Z"
+discovered_at: "2026-08-08T19:33:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: iproject96/loreweave-memoria
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- YAML
-- Markdown
-- AES-256 Encryption
-- Claude API
-- OpenAI API
-- Mermaid.js
-- CLI
-- Web (Browser)
+title: "iproject96/loreweave-memoria"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "YAML", "Markdown", "AES-256 Encryption", "Claude API", "OpenAI API", "Mermaid.js", "CLI", "Web (Browser)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- persistent memory
-- cross-device sync
-- AI context retention
-- session continuity
-- encrypted storage
-source: https://github.com/iproject96/loreweave-memoria
+deployment_complexity: "Medium"
+tags: ["persistent memory", "cross-device sync", "AI context retention", "session continuity", "encrypted storage"]
+source: "https://github.com/iproject96/loreweave-memoria"
 stars: 0
-language: HTML
-last_updated: '2026-08-04T15:33:55Z'
-discovered_at: '2026-08-04T15:34:40Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-04T15:33:55Z"
+discovered_at: "2026-08-04T15:34:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

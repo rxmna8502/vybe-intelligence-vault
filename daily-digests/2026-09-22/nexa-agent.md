@@ -1,34 +1,19 @@
 ---
-title: neuralforgeio/nexa-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- Python
-- Next.js
-- React
-- SQLite
-- prompt_toolkit
-- rich
-- llama.cpp
-- FastAPI
-- TypeScript
-- Node.js
+title: "neuralforgeio/nexa-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Next.js", "React", "SQLite", "prompt_toolkit", "rich", "llama.cpp", "FastAPI", "TypeScript", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent
-- multi-provider
-- TUI
-- self-improvement
-- autonomous tools
-source: https://github.com/neuralforgeio/nexa-agent
+deployment_complexity: "Medium"
+tags: ["AI agent", "multi-provider", "TUI", "self-improvement", "autonomous tools"]
+source: "https://github.com/neuralforgeio/nexa-agent"
 stars: 1
-language: Python
-last_updated: '2026-08-05T16:35:48Z'
-discovered_at: '2026-08-05T16:44:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T16:35:48Z"
+discovered_at: "2026-08-05T16:44:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

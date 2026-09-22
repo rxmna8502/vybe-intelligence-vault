@@ -1,31 +1,19 @@
 ---
-title: gowinston-ai/winston-ai-mcp-server
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-22
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Docker
-- NPM
-- ESLint
-- Prettier
+title: "gowinston-ai/winston-ai-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "NPM", "ESLint", "Prettier"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI detection
-- plagiarism detection
-- MCP server
-- text analysis
-- content verification
-source: https://github.com/gowinston-ai/winston-ai-mcp-server
+deployment_complexity: "Low"
+tags: ["AI detection", "plagiarism detection", "MCP server", "text analysis", "content verification"]
+source: "https://github.com/gowinston-ai/winston-ai-mcp-server"
 stars: 8
-language: TypeScript
-last_updated: '2026-09-03T15:32:48Z'
-discovered_at: '2026-09-03T15:41:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T15:32:48Z"
+discovered_at: "2026-09-03T15:41:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

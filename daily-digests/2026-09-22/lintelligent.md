@@ -1,34 +1,19 @@
 ---
-title: mazenaly256/LINTelligent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-22
-tech_stack:
-- ASP.NET Core
-- Model Context Protocol (MCP)
-- Ollama Cloud API
-- Docker
-- Hangfire
-- PostgreSQL
-- Entity Framework Core
-- GitHub Actions
-- xUnit
-- Moq
+title: "mazenaly256/LINTelligent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["ASP.NET Core", "Model Context Protocol (MCP)", "Ollama Cloud API", "Docker", "Hangfire", "PostgreSQL", "Entity Framework Core", "GitHub Actions", "xUnit", "Moq"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- code linting
-- AI agent integration
-- MCP server
-- asynchronous processing
-- LLM integration
-source: https://github.com/mazenaly256/LINTelligent
+deployment_complexity: "Medium"
+tags: ["code linting", "AI agent integration", "MCP server", "asynchronous processing", "LLM integration"]
+source: "https://github.com/mazenaly256/LINTelligent"
 stars: 0
-language: C#
-last_updated: '2026-07-20T15:01:06Z'
-discovered_at: '2026-07-20T15:11:00Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-07-20T15:01:06Z"
+discovered_at: "2026-07-20T15:11:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
