@@ -13,13 +13,14 @@ collected_at: '2026-09-22T19:01:58.501117+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-coding-has-made-ci-a-bottleneck-so-we-reworked
 first_seen: '2026-09-22T02:01:00.745853+05:30'
 last_seen: '2026-09-22T19:01:58.501117+05:30'
 last_checked: '2026-09-22T19:01:58.501117+05:30'
 health_score: 100
 ---
+
 
 # AI coding has made CI a bottleneck, so we reworked ours to keep up
 

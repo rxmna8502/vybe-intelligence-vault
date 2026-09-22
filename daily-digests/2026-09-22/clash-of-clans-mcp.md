@@ -1,19 +1,30 @@
 ---
-title: "justinritchie/clash-of-clans-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "Async HTTP Client", "JSON Configuration", "Claude Desktop"]
+title: justinritchie/clash-of-clans-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastMCP
+- Async HTTP Client
+- JSON Configuration
+- Claude Desktop
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Clash of Clans API", "AI-Assisted Clan Management", "War Grading", "CWL Analysis"]
-source: "https://github.com/justinritchie/clash-of-clans-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Clash of Clans API
+- AI-Assisted Clan Management
+- War Grading
+- CWL Analysis
+source: https://github.com/justinritchie/clash-of-clans-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T21:56:15Z"
-discovered_at: "2026-08-03T22:10:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T21:56:15Z'
+discovered_at: '2026-08-03T22:10:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

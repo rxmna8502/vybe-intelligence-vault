@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:transformers-explained-visually
 first_seen: '2026-09-22T02:01:01.697792+05:30'
 last_seen: '2026-09-22T19:01:57.525404+05:30'
 last_checked: '2026-09-22T19:01:57.525404+05:30'
 health_score: 100
 ---
+
 
 # Transformers Explained Visually
 

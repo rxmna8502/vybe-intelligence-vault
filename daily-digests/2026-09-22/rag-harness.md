@@ -1,19 +1,33 @@
 ---
-title: "saparsha/rag-harness"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PyYAML", "HDRHistogram", "NumPy", "scikit-learn", "Sentence-Transformers", "FastAPI", "Pydantic", "Mermaid.js (for diagrams)"]
+title: saparsha/rag-harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- PyYAML
+- HDRHistogram
+- NumPy
+- scikit-learn
+- Sentence-Transformers
+- FastAPI
+- Pydantic
+- Mermaid.js (for diagrams)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG evaluation", "load testing", "hallucination detection", "synthetic query generation", "offline scoring"]
-source: "https://github.com/saparsha/rag-harness"
+deployment_complexity: Medium
+tags:
+- RAG evaluation
+- load testing
+- hallucination detection
+- synthetic query generation
+- offline scoring
+source: https://github.com/saparsha/rag-harness
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T11:03:11Z"
-discovered_at: "2026-08-07T11:04:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:03:11Z'
+discovered_at: '2026-08-07T11:04:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

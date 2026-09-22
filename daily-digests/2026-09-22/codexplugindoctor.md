@@ -1,19 +1,32 @@
 ---
-title: "Esquetta/CodexPluginDoctor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "JSON Schema", "YAML", "Docker", "GitHub Actions", "npm"]
+title: Esquetta/CodexPluginDoctor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- JSON Schema
+- YAML
+- Docker
+- GitHub Actions
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["plugin validation", "MCP server validation", "security auditing", "CI/CD integration", "preflight testing"]
-source: "https://github.com/Esquetta/CodexPluginDoctor"
+deployment_complexity: Medium
+tags:
+- plugin validation
+- MCP server validation
+- security auditing
+- CI/CD integration
+- preflight testing
+source: https://github.com/Esquetta/CodexPluginDoctor
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-19T10:33:39Z"
-discovered_at: "2026-07-21T07:32:14Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T10:33:39Z'
+discovered_at: '2026-07-21T07:32:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "pradhankukiran/codex-opencode-executor"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Git", "OpenCode", "STDIO", "HTTP API"]
+title: pradhankukiran/codex-opencode-executor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Git
+- OpenCode
+- STDIO
+- HTTP API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP integration", "Codex orchestrator", "OpenCode executor", "durable sessions", "Git worktrees"]
-source: "https://github.com/pradhankukiran/codex-opencode-executor"
+deployment_complexity: Medium
+tags:
+- MCP integration
+- Codex orchestrator
+- OpenCode executor
+- durable sessions
+- Git worktrees
+source: https://github.com/pradhankukiran/codex-opencode-executor
 stars: 0
-language: "Go"
-last_updated: "2026-07-18T14:38:11Z"
-discovered_at: "2026-07-18T14:50:48Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-18T14:38:11Z'
+discovered_at: '2026-07-18T14:50:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

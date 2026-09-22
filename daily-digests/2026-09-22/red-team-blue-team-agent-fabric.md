@@ -1,19 +1,33 @@
 ---
-title: "msaleme/red-team-blue-team-agent-fabric"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "JSON-RPC 2.0", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "L402", "x402", "PyPI", "GitHub Actions", "Zenodo"]
+title: msaleme/red-team-blue-team-agent-fabric
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- JSON-RPC 2.0
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent)
+- L402
+- x402
+- PyPI
+- GitHub Actions
+- Zenodo
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent security", "adversarial testing", "protocol integrity", "payment system security", "MCP compliance"]
-source: "https://github.com/msaleme/red-team-blue-team-agent-fabric"
+deployment_complexity: Medium
+tags:
+- AI agent security
+- adversarial testing
+- protocol integrity
+- payment system security
+- MCP compliance
+source: https://github.com/msaleme/red-team-blue-team-agent-fabric
 stars: 22
-language: "Python"
-last_updated: "2026-08-02T16:01:13Z"
-discovered_at: "2026-08-02T16:11:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T16:01:13Z'
+discovered_at: '2026-08-02T16:11:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

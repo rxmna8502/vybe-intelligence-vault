@@ -1,19 +1,29 @@
 ---
-title: "youkappt/image-asset-library"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3", "Feishu/Lark Bitable API", "lark-cli", "Multimodal image analysis", "WorkBuddy SKILL.md convention"]
+title: youkappt/image-asset-library
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python 3
+- Feishu/Lark Bitable API
+- lark-cli
+- Multimodal image analysis
+- WorkBuddy SKILL.md convention
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["image asset management", "Feishu/Lark integration", "batch processing", "tagging system", "data validation"]
-source: "https://github.com/youkappt/image-asset-library"
+deployment_complexity: Medium
+tags:
+- image asset management
+- Feishu/Lark integration
+- batch processing
+- tagging system
+- data validation
+source: https://github.com/youkappt/image-asset-library
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T07:47:43Z"
-discovered_at: "2026-08-08T07:51:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T07:47:43Z'
+discovered_at: '2026-08-08T07:51:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

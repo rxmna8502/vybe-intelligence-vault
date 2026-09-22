@@ -1,19 +1,28 @@
 ---
-title: "donaldwang6-dev/stratronix-docs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PDF Documentation", "GitHub Pages", "Markdown", "HTML"]
+title: donaldwang6-dev/stratronix-docs
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- PDF Documentation
+- GitHub Pages
+- Markdown
+- HTML
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["documentation", "AI hardware", "local deployment", "user manuals", "enterprise AI"]
-source: "https://github.com/donaldwang6-dev/stratronix-docs"
+deployment_complexity: Low
+tags:
+- documentation
+- AI hardware
+- local deployment
+- user manuals
+- enterprise AI
+source: https://github.com/donaldwang6-dev/stratronix-docs
 stars: 0
-language: "HTML"
-last_updated: "2026-08-10T07:34:31Z"
-discovered_at: "2026-08-10T07:35:04Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-10T07:34:31Z'
+discovered_at: '2026-08-10T07:35:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

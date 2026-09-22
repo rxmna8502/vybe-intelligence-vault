@@ -1,19 +1,33 @@
 ---
-title: "Jiangxianze/java-agent-memory"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 21", "Spring Boot 4", "Spring AI 2", "Redis", "Milvus", "Maven", "Docker", "Swagger UI", "Spring Actuator"]
+title: Jiangxianze/java-agent-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Java 21
+- Spring Boot 4
+- Spring AI 2
+- Redis
+- Milvus
+- Maven
+- Docker
+- Swagger UI
+- Spring Actuator
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["memory engine", "Java AI agents", "Spring Boot", "explainable recall", "multi-tier memory"]
-source: "https://github.com/Jiangxianze/java-agent-memory"
+deployment_complexity: Medium
+tags:
+- memory engine
+- Java AI agents
+- Spring Boot
+- explainable recall
+- multi-tier memory
+source: https://github.com/Jiangxianze/java-agent-memory
 stars: 0
-language: "Java"
-last_updated: "2026-08-07T15:29:01Z"
-discovered_at: "2026-08-07T16:03:36Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T15:29:01Z'
+discovered_at: '2026-08-07T16:03:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

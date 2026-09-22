@@ -1,19 +1,31 @@
 ---
-title: "rikfish163-rgb/deepsee"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "OpenAI/Anthropic API compatibility", "Vision APIs (e.g., GLM-4V-Flash, Qwen-VL, Ollama)", "OCR (Tesseract or local models)", "CLI tools", "Web UI (FastAPI or similar)"]
+title: rikfish163-rgb/deepsee
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- OpenAI/Anthropic API compatibility
+- Vision APIs (e.g., GLM-4V-Flash, Qwen-VL, Ollama)
+- OCR (Tesseract or local models)
+- CLI tools
+- Web UI (FastAPI or similar)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["image-to-text", "vision API", "model augmentation", "MCP integration", "multi-vendor support"]
-source: "https://github.com/rikfish163-rgb/deepsee"
+deployment_complexity: Medium
+tags:
+- image-to-text
+- vision API
+- model augmentation
+- MCP integration
+- multi-vendor support
+source: https://github.com/rikfish163-rgb/deepsee
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T12:55:09Z"
-discovered_at: "2026-08-07T13:02:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T12:55:09Z'
+discovered_at: '2026-08-07T13:02:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

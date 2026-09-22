@@ -1,19 +1,42 @@
 ---
-title: "AbhiVarde/tryeve"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "TypeScript", "Vercel AI Gateway", "Vercel AI SDK", "Vercel Sandbox", "Vercel Workflow SDK", "Vercel Blob", "Vercel Cron", "Vercel Firewall", "Vercel Connect", "Vercel Botid", "Vercel Flags SDK", "AI Elements", "Streamdown", "Shadcn/ui", "Lucide-animated", "GitHub OAuth", "Vercel Analytics"]
+title: AbhiVarde/tryeve
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Next.js
+- TypeScript
+- Vercel AI Gateway
+- Vercel AI SDK
+- Vercel Sandbox
+- Vercel Workflow SDK
+- Vercel Blob
+- Vercel Cron
+- Vercel Firewall
+- Vercel Connect
+- Vercel Botid
+- Vercel Flags SDK
+- AI Elements
+- Streamdown
+- Shadcn/ui
+- Lucide-animated
+- GitHub OAuth
+- Vercel Analytics
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent generation", "real-time testing", "eve framework", "sandbox deployment", "AI runtime"]
-source: "https://github.com/AbhiVarde/tryeve"
+deployment_complexity: Medium
+tags:
+- agent generation
+- real-time testing
+- eve framework
+- sandbox deployment
+- AI runtime
+source: https://github.com/AbhiVarde/tryeve
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T11:54:49Z"
-discovered_at: "2026-08-07T11:56:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:54:49Z'
+discovered_at: '2026-08-07T11:56:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

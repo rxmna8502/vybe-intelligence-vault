@@ -1,19 +1,30 @@
 ---
-title: "raynardtheban732/CoreCoder"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "TypeScript", "OpenAI API", "ThreadPool", "LLM", "CLI"]
+title: raynardtheban732/CoreCoder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- TypeScript
+- OpenAI API
+- ThreadPool
+- LLM
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent architecture", "code agent", "Claude Code", "minimal implementation", "AI tooling"]
-source: "https://github.com/raynardtheban732/CoreCoder"
+deployment_complexity: Medium
+tags:
+- agent architecture
+- code agent
+- Claude Code
+- minimal implementation
+- AI tooling
+source: https://github.com/raynardtheban732/CoreCoder
 stars: 0
-language: "Python"
-last_updated: "2026-07-10T20:20:44Z"
-discovered_at: "2026-07-10T20:21:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T20:20:44Z'
+discovered_at: '2026-07-10T20:21:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

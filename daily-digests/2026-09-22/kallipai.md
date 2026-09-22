@@ -1,19 +1,31 @@
 ---
-title: "ImitationGameLabs/kallipai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "LLM APIs", "HTTP API", "CLI", "TUI", "SSE (Server-Sent Events)", "Asynchronous programming"]
+title: ImitationGameLabs/kallipai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- LLM APIs
+- HTTP API
+- CLI
+- TUI
+- SSE (Server-Sent Events)
+- Asynchronous programming
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "agent orchestration", "context management", "asynchronous approval", "Rust"]
-source: "https://github.com/ImitationGameLabs/kallipai"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- agent orchestration
+- context management
+- asynchronous approval
+- Rust
+source: https://github.com/ImitationGameLabs/kallipai
 stars: 1
-language: "Rust"
-last_updated: "2026-07-11T18:51:33Z"
-discovered_at: "2026-07-11T18:59:51Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-11T18:51:33Z'
+discovered_at: '2026-07-11T18:59:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "snhsish/crosscode"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["React Native", "Expo", "TypeScript", "Node.js", "Cloudflare Tunnel", "Zustand", "NativeWind (Tailwind CSS)", "pnpm", "Turborepo"]
+title: snhsish/crosscode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- React Native
+- Expo
+- TypeScript
+- Node.js
+- Cloudflare Tunnel
+- Zustand
+- NativeWind (Tailwind CSS)
+- pnpm
+- Turborepo
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["remote control", "AI coding agent", "mobile client", "Cloudflare Tunnel", "real-time collaboration"]
-source: "https://github.com/snhsish/crosscode"
+deployment_complexity: Medium
+tags:
+- remote control
+- AI coding agent
+- mobile client
+- Cloudflare Tunnel
+- real-time collaboration
+source: https://github.com/snhsish/crosscode
 stars: 8
-language: "TypeScript"
-last_updated: "2026-08-08T09:33:50Z"
-discovered_at: "2026-08-08T09:40:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T09:33:50Z'
+discovered_at: '2026-08-08T09:40:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

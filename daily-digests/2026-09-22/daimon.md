@@ -1,19 +1,35 @@
 ---
-title: "pymc-labs/daimon"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PyMC", "Anthropic Managed Agents", "PostgreSQL", "Docker", "Discord API", "Slack API", "Managed Agents", "marimo", "CLI", "MCP (Model Context Protocol)"]
+title: pymc-labs/daimon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- PyMC
+- Anthropic Managed Agents
+- PostgreSQL
+- Docker
+- Discord API
+- Slack API
+- Managed Agents
+- marimo
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["data science automation", "collaborative AI", "Bayesian modeling", "team workflow integration", "multi-tenant agent"]
-source: "https://github.com/pymc-labs/daimon"
+deployment_complexity: Medium
+tags:
+- data science automation
+- collaborative AI
+- Bayesian modeling
+- team workflow integration
+- multi-tenant agent
+source: https://github.com/pymc-labs/daimon
 stars: 6
-language: "Python"
-last_updated: "2026-08-07T08:15:02Z"
-discovered_at: "2026-08-07T08:16:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T08:15:02Z'
+discovered_at: '2026-08-07T08:16:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

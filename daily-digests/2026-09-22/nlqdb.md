@@ -1,19 +1,40 @@
 ---
-title: "nlqdb/nlqdb"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["TypeScript", "PostgreSQL", "MongoDB", "Redis", "DuckDB", "pgvector", "MCP (Model Context Protocol)", "React", "Next.js", "Vue", "Svelte", "Astro", "Go", "HTML/CSS", "Vector Embeddings", "LLM Integration"]
+title: nlqdb/nlqdb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- PostgreSQL
+- MongoDB
+- Redis
+- DuckDB
+- pgvector
+- MCP (Model Context Protocol)
+- React
+- Next.js
+- Vue
+- Svelte
+- Astro
+- Go
+- HTML/CSS
+- Vector Embeddings
+- LLM Integration
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Natural Language Querying", "AI Agent Memory", "SQL Generation", "Multi-Engine Database", "MCP Integration"]
-source: "https://github.com/nlqdb/nlqdb"
+deployment_complexity: Medium
+tags:
+- Natural Language Querying
+- AI Agent Memory
+- SQL Generation
+- Multi-Engine Database
+- MCP Integration
+source: https://github.com/nlqdb/nlqdb
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-08T12:38:46Z"
-discovered_at: "2026-08-08T12:47:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T12:38:46Z'
+discovered_at: '2026-08-08T12:47:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

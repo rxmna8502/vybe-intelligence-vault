@@ -1,19 +1,31 @@
 ---
-title: "tijuthomas5/context-bridge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Graphify", "Sentence Transformers", "Ollama", "FastAPI", "React (for dashboard)"]
+title: tijuthomas5/context-bridge-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Graphify
+- Sentence Transformers
+- Ollama
+- FastAPI
+- React (for dashboard)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code retrieval", "MCP server", "token optimization", "context routing", "local-first"]
-source: "https://github.com/tijuthomas5/context-bridge-mcp"
+deployment_complexity: Medium
+tags:
+- code retrieval
+- MCP server
+- token optimization
+- context routing
+- local-first
+source: https://github.com/tijuthomas5/context-bridge-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-07-12T21:44:39Z"
-discovered_at: "2026-07-12T21:47:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T21:44:39Z'
+discovered_at: '2026-07-12T21:47:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "Happy-logos/okr-doing-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Logseq", "Claude Code", "Codex", "Markdown", "ENML/HTML", "Yinxiang/Evernote"]
+title: Happy-logos/okr-doing-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Logseq
+- Claude Code
+- Codex
+- Markdown
+- ENML/HTML
+- Yinxiang/Evernote
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["OKR", "Personal Productivity", "Agent Automation", "Knowledge Management", "Execution Framework"]
-source: "https://github.com/Happy-logos/okr-doing-agent"
+deployment_complexity: Medium
+tags:
+- OKR
+- Personal Productivity
+- Agent Automation
+- Knowledge Management
+- Execution Framework
+source: https://github.com/Happy-logos/okr-doing-agent
 stars: 3
-language: "Python"
-last_updated: "2026-08-02T05:54:40Z"
-discovered_at: "2026-08-02T05:57:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T05:54:40Z'
+discovered_at: '2026-08-02T05:57:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

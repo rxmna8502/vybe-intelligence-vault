@@ -1,19 +1,31 @@
 ---
-title: "ikko-dev/gitlab-review"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "GitLab API", "GitHub API", "LLM Integration (Anthropic, OpenRouter, Ollama, etc.)", "Jest (for testing)"]
+title: ikko-dev/gitlab-review
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- GitLab API
+- GitHub API
+- LLM Integration (Anthropic, OpenRouter, Ollama, etc.)
+- Jest (for testing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI code review", "merge request automation", "GitLab CI", "GitHub Actions", "LLM integration"]
-source: "https://github.com/ikko-dev/gitlab-review"
+deployment_complexity: Medium
+tags:
+- AI code review
+- merge request automation
+- GitLab CI
+- GitHub Actions
+- LLM integration
+source: https://github.com/ikko-dev/gitlab-review
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-13T18:38:04Z"
-discovered_at: "2026-07-13T18:43:10Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T18:38:04Z'
+discovered_at: '2026-07-13T18:43:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

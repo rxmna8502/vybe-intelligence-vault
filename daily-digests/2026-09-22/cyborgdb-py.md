@@ -1,19 +1,32 @@
 ---
-title: "cyborginc/cyborgdb-py"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "Docker", "AWS KMS", "AWS Secrets Manager", "Vector Search", "Encryption", "ANN (Approximate Nearest Neighbor)", "RBAC (Role-Based Access Control)"]
+title: cyborginc/cyborgdb-py
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Docker
+- AWS KMS
+- AWS Secrets Manager
+- Vector Search
+- Encryption
+- ANN (Approximate Nearest Neighbor)
+- RBAC (Role-Based Access Control)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["encrypted vector search", "client-side encryption", "BYOK", "ANN index", "multi-tenancy"]
-source: "https://github.com/cyborginc/cyborgdb-py"
+deployment_complexity: Medium
+tags:
+- encrypted vector search
+- client-side encryption
+- BYOK
+- ANN index
+- multi-tenancy
+source: https://github.com/cyborginc/cyborgdb-py
 stars: 8
-language: "Python"
-last_updated: "2026-08-07T19:11:58Z"
-discovered_at: "2026-08-07T20:00:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T19:11:58Z'
+discovered_at: '2026-08-07T20:00:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

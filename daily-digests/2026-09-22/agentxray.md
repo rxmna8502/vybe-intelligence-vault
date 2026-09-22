@@ -1,19 +1,30 @@
 ---
-title: "alloevil/AgentXRay"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Node.js", "Express", "HTML/CSS/JavaScript", "SQLite", "JSONL", "Claude CLI"]
+title: alloevil/AgentXRay
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Node.js
+- Express
+- HTML/CSS/JavaScript
+- SQLite
+- JSONL
+- Claude CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agent monitoring", "session visualization", "prompt analysis", "multi-platform support", "developer tools"]
-source: "https://github.com/alloevil/AgentXRay"
+deployment_complexity: Low
+tags:
+- AI agent monitoring
+- session visualization
+- prompt analysis
+- multi-platform support
+- developer tools
+source: https://github.com/alloevil/AgentXRay
 stars: 14
-language: "HTML"
-last_updated: "2026-08-01T03:41:02Z"
-discovered_at: "2026-08-01T03:43:41Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-01T03:41:02Z'
+discovered_at: '2026-08-01T03:43:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

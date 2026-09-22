@@ -1,19 +1,31 @@
 ---
-title: "samuelgursky/davinci-resolve-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "MCP (Model Context Protocol)", "DaVinci Resolve Scripting API", "SQLite", "FFmpeg", "React (for control panel)"]
+title: samuelgursky/davinci-resolve-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Node.js
+- MCP (Model Context Protocol)
+- DaVinci Resolve Scripting API
+- SQLite
+- FFmpeg
+- React (for control panel)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["video editing automation", "DaVinci Resolve integration", "MCP server", "AI agent orchestration", "post-production tools"]
-source: "https://github.com/samuelgursky/davinci-resolve-mcp"
+deployment_complexity: Medium
+tags:
+- video editing automation
+- DaVinci Resolve integration
+- MCP server
+- AI agent orchestration
+- post-production tools
+source: https://github.com/samuelgursky/davinci-resolve-mcp
 stars: 2356
-language: "Python"
-last_updated: "2026-09-01T18:53:50Z"
-discovered_at: "2026-09-01T19:07:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:53:50Z'
+discovered_at: '2026-09-01T19:07:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "editmamei/editmamei"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Photoshop Scripting (COM/AppleScript)", "ONNX (for local computer vision)", "ExtendScript"]
+title: editmamei/editmamei
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Photoshop Scripting (COM/AppleScript)
+- ONNX (for local computer vision)
+- ExtendScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Photoshop automation", "MCP server", "natural language editing", "non-destructive editing", "computer vision"]
-source: "https://github.com/editmamei/editmamei"
+deployment_complexity: Medium
+tags:
+- Photoshop automation
+- MCP server
+- natural language editing
+- non-destructive editing
+- computer vision
+source: https://github.com/editmamei/editmamei
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T22:26:16Z"
-discovered_at: "2026-08-07T22:37:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T22:26:16Z'
+discovered_at: '2026-08-07T22:37:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

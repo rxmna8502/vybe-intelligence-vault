@@ -1,19 +1,31 @@
 ---
-title: "spawahh/openpilot-claude-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "Python", "MCP (Model Context Protocol)", "comma connect API", "uv (package manager)", "SConstruct", "FastMCP/MCPServer"]
+title: spawahh/openpilot-claude-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Claude Code
+- Python
+- MCP (Model Context Protocol)
+- comma connect API
+- uv (package manager)
+- SConstruct
+- FastMCP/MCPServer
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["openpilot", "Claude Code plugins", "device access", "cloud development", "MCP integration"]
-source: "https://github.com/spawahh/openpilot-claude-kit"
+deployment_complexity: Medium
+tags:
+- openpilot
+- Claude Code plugins
+- device access
+- cloud development
+- MCP integration
+source: https://github.com/spawahh/openpilot-claude-kit
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T19:12:44Z"
-discovered_at: "2026-08-02T19:25:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T19:12:44Z'
+discovered_at: '2026-08-02T19:25:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

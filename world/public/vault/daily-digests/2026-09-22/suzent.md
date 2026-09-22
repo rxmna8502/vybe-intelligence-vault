@@ -1,19 +1,41 @@
 ---
-title: "cyzus/suzent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12", "FastAPI", "React", "TypeScript", "Tailwind CSS", "Vite", "Tauri", "SQLite", "LanceDB", "Docker", "pydantic-ai", "litellm", "MCP", "Telegram", "Slack", "Discord", "Lark"]
+title: cyzus/suzent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Python 3.12
+- FastAPI
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Tauri
+- SQLite
+- LanceDB
+- Docker
+- pydantic-ai
+- litellm
+- MCP
+- Telegram
+- Slack
+- Discord
+- Lark
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["sovereign AI", "local-first", "multi-model", "portable memory", "governance"]
-source: "https://github.com/cyzus/suzent"
+deployment_complexity: Medium
+tags:
+- sovereign AI
+- local-first
+- multi-model
+- portable memory
+- governance
+source: https://github.com/cyzus/suzent
 stars: 62
-language: "Python"
-last_updated: "2026-08-01T13:05:58Z"
-discovered_at: "2026-08-01T13:16:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:05:58Z'
+discovered_at: '2026-08-01T13:16:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

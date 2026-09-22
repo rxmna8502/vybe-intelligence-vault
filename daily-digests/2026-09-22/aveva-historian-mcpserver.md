@@ -1,19 +1,31 @@
 ---
-title: "chewcw/aveva-historian-mcpserver"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "NTLM Authentication", "REST API", "OData", "HTTP Server", "Structured Logging (log/slog)"]
+title: chewcw/aveva-historian-mcpserver
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- NTLM Authentication
+- REST API
+- OData
+- HTTP Server
+- Structured Logging (log/slog)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["time-series", "industrial data", "MCP server", "AVEVA Historian", "AI integration"]
-source: "https://github.com/chewcw/aveva-historian-mcpserver"
+deployment_complexity: Medium
+tags:
+- time-series
+- industrial data
+- MCP server
+- AVEVA Historian
+- AI integration
+source: https://github.com/chewcw/aveva-historian-mcpserver
 stars: 0
-language: "Go"
-last_updated: "2026-08-01T09:05:18Z"
-discovered_at: "2026-08-01T09:06:30Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T09:05:18Z'
+discovered_at: '2026-08-01T09:06:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

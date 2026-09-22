@@ -1,19 +1,29 @@
 ---
-title: "norbert-walter/ai-device-description-add"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JSON", "HTTP", "IoT", "AI Safety", "Open Standard"]
+title: norbert-walter/ai-device-description-add
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JSON
+- HTTP
+- IoT
+- AI Safety
+- Open Standard
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["IoT", "AI Safety", "Self-Description", "Device Standard", "Autonomous Systems"]
-source: "https://github.com/norbert-walter/ai-device-description-add"
+deployment_complexity: Low
+tags:
+- IoT
+- AI Safety
+- Self-Description
+- Device Standard
+- Autonomous Systems
+source: https://github.com/norbert-walter/ai-device-description-add
 stars: 1
-language: "HTML"
-last_updated: "2026-08-10T19:58:33Z"
-discovered_at: "2026-08-10T20:02:01Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-10T19:58:33Z'
+discovered_at: '2026-08-10T20:02:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

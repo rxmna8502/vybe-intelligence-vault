@@ -1,19 +1,31 @@
 ---
-title: "ZP151/mergepilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Tauri", "Node.js", "HTTP/SSE API", "Azure DevOps API", "Git", "Playwright"]
+title: ZP151/mergepilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Tauri
+- Node.js
+- HTTP/SSE API
+- Azure DevOps API
+- Git
+- Playwright
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-powered developer tools", "Azure DevOps integration", "local-first architecture", "pull request review", "workflow automation"]
-source: "https://github.com/ZP151/mergepilot"
+deployment_complexity: Medium
+tags:
+- AI-powered developer tools
+- Azure DevOps integration
+- local-first architecture
+- pull request review
+- workflow automation
+source: https://github.com/ZP151/mergepilot
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T20:43:33Z"
-discovered_at: "2026-08-01T20:50:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T20:43:33Z'
+discovered_at: '2026-08-01T20:50:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

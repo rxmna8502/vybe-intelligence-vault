@@ -1,19 +1,34 @@
 ---
-title: "netresearch/enterprise-readiness-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Shell", "Python", "Go", "JavaScript/TypeScript", "PHP", "Agent Skills Framework", "SLSA", "OpenSSF Scorecard", "SBOM", "CI/CD"]
+title: netresearch/enterprise-readiness-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Shell
+- Python
+- Go
+- JavaScript/TypeScript
+- PHP
+- Agent Skills Framework
+- SLSA
+- OpenSSF Scorecard
+- SBOM
+- CI/CD
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["enterprise readiness", "supply chain security", "OpenSSF compliance", "AI agent skill", "compliance automation"]
-source: "https://github.com/netresearch/enterprise-readiness-skill"
+deployment_complexity: Medium
+tags:
+- enterprise readiness
+- supply chain security
+- OpenSSF compliance
+- AI agent skill
+- compliance automation
+source: https://github.com/netresearch/enterprise-readiness-skill
 stars: 4
-language: "Shell"
-last_updated: "2026-08-08T07:50:32Z"
-discovered_at: "2026-08-08T07:51:44Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-08T07:50:32Z'
+discovered_at: '2026-08-08T07:51:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

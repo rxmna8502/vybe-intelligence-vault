@@ -1,19 +1,30 @@
 ---
-title: "MikkoParkkola/axterminator"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "macOS Accessibility API", "MCP (Model Context Protocol)", "AppleScript/JXA", "CoreDeviceProxy", "Kokoro/Piper TTS (optional)"]
+title: MikkoParkkola/axterminator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- macOS Accessibility API
+- MCP (Model Context Protocol)
+- AppleScript/JXA
+- CoreDeviceProxy
+- Kokoro/Piper TTS (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["macOS automation", "GUI interaction", "MCP server", "Accessibility API", "AI agent tools"]
-source: "https://github.com/MikkoParkkola/axterminator"
+deployment_complexity: Medium
+tags:
+- macOS automation
+- GUI interaction
+- MCP server
+- Accessibility API
+- AI agent tools
+source: https://github.com/MikkoParkkola/axterminator
 stars: 2
-language: "Rust"
-last_updated: "2026-08-03T06:23:10Z"
-discovered_at: "2026-08-03T06:23:26Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-03T06:23:10Z'
+discovered_at: '2026-08-03T06:23:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

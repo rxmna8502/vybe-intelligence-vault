@@ -1,19 +1,30 @@
 ---
-title: "burakkaygusuz/awesome-sdet"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "Model Context Protocol (MCP)", "Agent Plugins Specification", "SOLID principles"]
+title: burakkaygusuz/awesome-sdet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- pnpm
+- Model Context Protocol (MCP)
+- Agent Plugins Specification
+- SOLID principles
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SDET", "Agent Plugins", "MCP", "Test Automation", "AI Coding Assistants"]
-source: "https://github.com/burakkaygusuz/awesome-sdet"
+deployment_complexity: Medium
+tags:
+- SDET
+- Agent Plugins
+- MCP
+- Test Automation
+- AI Coding Assistants
+source: https://github.com/burakkaygusuz/awesome-sdet
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T12:41:48Z"
-discovered_at: "2026-08-08T12:47:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T12:41:48Z'
+discovered_at: '2026-08-08T12:47:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

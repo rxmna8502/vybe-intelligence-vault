@@ -1,19 +1,37 @@
 ---
-title: "estelledc/bj-pal"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "SQLite", "Streamlit", "Docker", "OTLP", "OpenAPI", "GitHub Actions", "FastAPI", "Advisory Locks", "SHA-256 Hashing", "Event Sourcing"]
+title: estelledc/bj-pal
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- SQLite
+- Streamlit
+- Docker
+- OTLP
+- OpenAPI
+- GitHub Actions
+- FastAPI
+- Advisory Locks
+- SHA-256 Hashing
+- Event Sourcing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Activity Planning", "Durable Jobs", "Reproducible AI", "Schema Validation", "Privacy-Preserving"]
-source: "https://github.com/estelledc/bj-pal"
+deployment_complexity: Medium
+tags:
+- Activity Planning
+- Durable Jobs
+- Reproducible AI
+- Schema Validation
+- Privacy-Preserving
+source: https://github.com/estelledc/bj-pal
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T07:31:10Z"
-discovered_at: "2026-07-21T07:32:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T07:31:10Z'
+discovered_at: '2026-07-21T07:32:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "ricksmartbrain-boop/rick-ai-ceo"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Shell Scripting", "Symlinks", "Cron", "LaunchAgents", "Markdown", "Obsidian (for memory management)", "Railway (for API hosting)"]
+title: ricksmartbrain-boop/rick-ai-ceo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Shell Scripting
+- Symlinks
+- Cron
+- LaunchAgents
+- Markdown
+- Obsidian (for memory management)
+- Railway (for API hosting)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "runtime workspace", "AI CEO", "memory management", "agent orchestration"]
-source: "https://github.com/ricksmartbrain-boop/rick-ai-ceo"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- runtime workspace
+- AI CEO
+- memory management
+- agent orchestration
+source: https://github.com/ricksmartbrain-boop/rick-ai-ceo
 stars: 4
-language: "Python"
-last_updated: "2026-07-19T10:21:31Z"
-discovered_at: "2026-07-19T10:26:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T10:21:31Z'
+discovered_at: '2026-07-19T10:26:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

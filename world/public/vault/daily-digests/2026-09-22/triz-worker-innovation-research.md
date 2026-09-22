@@ -1,19 +1,30 @@
 ---
-title: "luchi2333/triz-worker-innovation-research"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "TRIZ (Theory of Inventive Problem Solving)", "JSON", "GitHub Actions", "OpenAI Codex"]
+title: luchi2333/triz-worker-innovation-research
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Python
+- Node.js
+- TRIZ (Theory of Inventive Problem Solving)
+- JSON
+- GitHub Actions
+- OpenAI Codex
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["TRIZ", "engineering innovation", "evidence-based research", "FMEA", "validation workflow"]
-source: "https://github.com/luchi2333/triz-worker-innovation-research"
+deployment_complexity: Medium
+tags:
+- TRIZ
+- engineering innovation
+- evidence-based research
+- FMEA
+- validation workflow
+source: https://github.com/luchi2333/triz-worker-innovation-research
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T15:33:40Z"
-discovered_at: "2026-09-01T15:54:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:33:40Z'
+discovered_at: '2026-09-01T15:54:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

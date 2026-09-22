@@ -1,19 +1,30 @@
 ---
-title: "MarcelRoozekrans/roslyn-codelens-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", "Roslyn", "MCP (Model Context Protocol)", "MSBuild", ".NET", "ICSharpCode.Decompiler"]
+title: MarcelRoozekrans/roslyn-codelens-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- C#
+- Roslyn
+- MCP (Model Context Protocol)
+- MSBuild
+- .NET
+- ICSharpCode.Decompiler
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["code analysis", "semantic understanding", "MCP server", "Roslyn", "AI agent tools"]
-source: "https://github.com/MarcelRoozekrans/roslyn-codelens-mcp"
+deployment_complexity: Medium
+tags:
+- code analysis
+- semantic understanding
+- MCP server
+- Roslyn
+- AI agent tools
+source: https://github.com/MarcelRoozekrans/roslyn-codelens-mcp
 stars: 29
-language: "C#"
-last_updated: "2026-07-13T06:08:54Z"
-discovered_at: "2026-07-13T06:15:48Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-07-13T06:08:54Z'
+discovered_at: '2026-07-13T06:15:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "focusbp/fbp-codex-booster"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PHP 8+", "OpenAI Codex CLI", "SQLite/MySQL", "Apache/Nginx", "JavaScript", "HTML/CSS"]
+title: focusbp/fbp-codex-booster
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- PHP 8+
+- OpenAI Codex CLI
+- SQLite/MySQL
+- Apache/Nginx
+- JavaScript
+- HTML/CSS
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI-assisted development", "PHP framework", "Codex integration", "business applications", "rapid prototyping"]
-source: "https://github.com/focusbp/fbp-codex-booster"
+deployment_complexity: Medium
+tags:
+- AI-assisted development
+- PHP framework
+- Codex integration
+- business applications
+- rapid prototyping
+source: https://github.com/focusbp/fbp-codex-booster
 stars: 0
-language: "PHP"
-last_updated: "2026-08-10T01:31:55Z"
-discovered_at: "2026-08-10T01:35:32Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-10T01:31:55Z'
+discovered_at: '2026-08-10T01:35:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

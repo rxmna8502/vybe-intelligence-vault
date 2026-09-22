@@ -1,19 +1,33 @@
 ---
-title: "0200project/base-tx-explain"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ethers.js", "Base RPC", "Chainlink", "Sourcify", "ScamSniffer", "MyEtherWallet"]
+title: 0200project/base-tx-explain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Ethers.js
+- Base RPC
+- Chainlink
+- Sourcify
+- ScamSniffer
+- MyEtherWallet
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["transaction decoding", "deterministic", "risk assessment", "Base mainnet", "MCP tool"]
-source: "https://github.com/0200project/base-tx-explain"
+deployment_complexity: Medium
+tags:
+- transaction decoding
+- deterministic
+- risk assessment
+- Base mainnet
+- MCP tool
+source: https://github.com/0200project/base-tx-explain
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-04T02:07:05Z"
-discovered_at: "2026-09-04T02:16:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-04T02:07:05Z'
+discovered_at: '2026-09-04T02:16:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

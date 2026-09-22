@@ -1,19 +1,32 @@
 ---
-title: "mcaimi/auror-scanner"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Cobra", "Viper", "Firebase Genkit", "OpenAI-compatible LLM adapter", "Logrus", "Shannon Entropy Analysis", "Shell Execution Tools"]
+title: mcaimi/auror-scanner
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- Cobra
+- Viper
+- Firebase Genkit
+- OpenAI-compatible LLM adapter
+- Logrus
+- Shannon Entropy Analysis
+- Shell Execution Tools
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["PKGBUILD security", "LLM-driven analysis", "supply chain security", "Arch Linux", "CLI tool"]
-source: "https://github.com/mcaimi/auror-scanner"
+deployment_complexity: Medium
+tags:
+- PKGBUILD security
+- LLM-driven analysis
+- supply chain security
+- Arch Linux
+- CLI tool
+source: https://github.com/mcaimi/auror-scanner
 stars: 0
-language: "Go"
-last_updated: "2026-08-04T13:00:55Z"
-discovered_at: "2026-08-04T13:03:54Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T13:00:55Z'
+discovered_at: '2026-08-04T13:03:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

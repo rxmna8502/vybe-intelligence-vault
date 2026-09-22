@@ -1,19 +1,30 @@
 ---
-title: "DaBaoAgent/jiasu"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PowerShell", "Windows API", "Junction Links", "Scheduled Tasks", "Defender API"]
+title: DaBaoAgent/jiasu
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- PowerShell
+- Windows API
+- Junction Links
+- Scheduled Tasks
+- Defender API
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["Windows optimization", "disk cleanup", "system hardening", "AI maintenance skill", "automation"]
-source: "https://github.com/DaBaoAgent/jiasu"
+deployment_complexity: Medium
+tags:
+- Windows optimization
+- disk cleanup
+- system hardening
+- AI maintenance skill
+- automation
+source: https://github.com/DaBaoAgent/jiasu
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T21:53:42Z"
-discovered_at: "2026-08-01T21:54:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T21:53:42Z'
+discovered_at: '2026-08-01T21:54:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

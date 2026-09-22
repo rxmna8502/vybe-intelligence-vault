@@ -1,19 +1,34 @@
 ---
-title: "koprjaa/chromadb-embedding-visualizer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "ChromaDB", "UMAP", "HDBSCAN", "FastAPI", "Next.js", "Three.js", "TypeScript", "Tailwind CSS", "shadcn/ui"]
+title: koprjaa/chromadb-embedding-visualizer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- ChromaDB
+- UMAP
+- HDBSCAN
+- FastAPI
+- Next.js
+- Three.js
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["embedding visualization", "vector store inspection", "UMAP", "HDBSCAN", "3D point cloud"]
-source: "https://github.com/koprjaa/chromadb-embedding-visualizer"
+deployment_complexity: Medium
+tags:
+- embedding visualization
+- vector store inspection
+- UMAP
+- HDBSCAN
+- 3D point cloud
+source: https://github.com/koprjaa/chromadb-embedding-visualizer
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T10:33:25Z"
-discovered_at: "2026-08-07T11:05:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T10:33:25Z'
+discovered_at: '2026-08-07T11:05:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

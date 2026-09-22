@@ -13,13 +13,14 @@ collected_at: '2026-09-22T19:01:55.716550+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-has-no-wisdom-and-neither-will-you
 first_seen: '2026-09-22T19:01:55.716550+05:30'
 last_seen: '2026-09-22T19:01:55.716550+05:30'
 last_checked: '2026-09-22T19:01:55.716550+05:30'
 health_score: 100
 ---
+
 
 # AI Has No Wisdom and Neither Will You
 

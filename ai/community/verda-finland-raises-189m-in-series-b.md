@@ -13,13 +13,14 @@ collected_at: '2026-09-22T19:01:58.345068+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:verda-finland-raises-189m-in-series-b
 first_seen: '2026-09-22T19:01:58.345068+05:30'
 last_seen: '2026-09-22T19:01:58.345068+05:30'
 last_checked: '2026-09-22T19:01:58.345068+05:30'
 health_score: 100
 ---
+
 
 # Verda (Finland) raises $189M in Series B
 

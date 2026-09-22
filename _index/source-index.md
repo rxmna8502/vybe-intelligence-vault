@@ -25634,7 +25634,6 @@ Resources organized by publisher feed and query sources.
   - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
@@ -26557,12 +26556,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Has No Wisdom and Neither Will You](../ai/community/ai-has-no-wisdom-and-neither-will-you.md)
-  - [AI coding has made CI a bottleneck, so we reworked ours to keep up](../ai/community/ai-coding-has-made-ci-a-bottleneck-so-we-reworked.md)
-  - [I said no and Apple said yes](../ai/community/i-said-no-and-apple-said-yes.md)
-  - [Python Workers are now generally available](../ai/community/python-workers-are-now-generally-available.md)
-  - [Transformers Explained Visually](../ai/community/transformers-explained-visually.md)
-  - [Verda (Finland) raises $189M in Series B](../ai/community/verda-finland-raises-189m-in-series-b.md)
+  - [Explaining to business people why building software is still hard](../ai/community/explaining-to-business-people-why-building-softwar.md)
+  - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](../ai/community/launch-hn-coverage-cat-yc-s22-umbrella-insurance-v.md)
+  - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](../ai/community/openai-gpt-6-astra-breaks-enigma-message-that-has.md)
+  - [OpenAI is well positioned to fast-follow Jev](../ai/community/openai-is-well-positioned-to-fast-follow-jev.md)
+  - [Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children](../ai/community/pentagon-palantir-ai-overreliance-led-to-strike-ki.md)
+  - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](../ai/community/show-hn-ai-rete-rag-a-rete-rule-engine-decides-rag.md)
+  - [Solitaire Alone Together](../ai/community/solitaire-alone-together.md)
+  - [Training a model to identify AI-generated web content from structure alone](../ai/community/arxiv-2609-15369.md)
+  - [Writing Rust code that's fast by asking agents to make the code faster](../ai/community/writing-rust-code-that-s-fast-by-asking-agents-to.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26891,6 +26893,7 @@ Resources organized by publisher feed and query sources.
   - [How Much Memory Does Your Agent Actually Need?](../ai/agents/huggingface-blog-ibm-research-altk-evolve-hmm.md)
   - [How NuminaMath Won the 1st AIMO Progress Prize](../ai/models/huggingface-blog-winning-aimo-progress-prize.md)
   - [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](../ai/rag/huggingface-blog-sempre-health-eap-case-study.md)
+  - [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](../ai/models/huggingface-blog-evaleval-aisi.md)
   - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../ai/agents/huggingface-blog-mishig-spaces-agents-md.md)
   - [How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](../ai/models/huggingface-blog-keras-chatbot-arena.md)
   - [How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](../ai/models/huggingface-blog-nvidia-nvidia-isaac-for-healthcare.md)
@@ -27615,6 +27618,7 @@ Resources organized by publisher feed and query sources.
   - [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)
   - [Next.js App Router Update](../web-development/nextjs/next-js-app-router-update.md)
   - [Next.js Security Release and Our Next Patch Release](../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md)
+  - [Next.js Security Update for a Critical Upstream Issue](../web-development/nextjs/next-js-security-update-for-a-critical-upstream-is.md)
   - [Next.js Security Update: December 11, 2025](../web-development/nextjs/next-js-security-update-december-11-2025.md)
   - [Our Journey with Caching](../web-development/nextjs/our-journey-with-caching.md)
   - [React 19 Upgrade Guide](../web-development/react-19-upgrade-guide.md)
@@ -27641,7 +27645,6 @@ Resources organized by publisher feed and query sources.
   - [Turbopack: What's New in Next.js 16.2](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)
   - [Turbopack: What's New in Next.js 16.3](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md)
   - [Upcoming Next.js August Security Release](../web-development/nextjs/upcoming-next-js-august-security-release.md)
-  - [Upcoming Next.js Security Update for a Critical Upstream Issue](../web-development/nextjs/upcoming-next-js-security-update-for-a-critical-up.md)
   - [Update: August Next.js Security Release](../web-development/nextjs/update-august-next-js-security-release.md)
 
 ## Unknown Source (type: web)
@@ -30429,4 +30432,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-22T19:18:25.135495+05:30*
+*Index generated on 2026-09-23T01:36:29.281034+05:30*

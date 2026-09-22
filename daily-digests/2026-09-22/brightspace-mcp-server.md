@@ -1,19 +1,31 @@
 ---
-title: "RohanMuppa/brightspace-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Playwright", "AES-256-GCM", "REST API", "GitHub Actions"]
+title: RohanMuppa/brightspace-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Playwright
+- AES-256-GCM
+- REST API
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "Brightspace integration", "AI assistant tool", "Educational technology", "Natural language queries"]
-source: "https://github.com/RohanMuppa/brightspace-mcp-server"
+deployment_complexity: Low
+tags:
+- MCP server
+- Brightspace integration
+- AI assistant tool
+- Educational technology
+- Natural language queries
+source: https://github.com/RohanMuppa/brightspace-mcp-server
 stars: 38
-language: "TypeScript"
-last_updated: "2026-09-02T22:07:05Z"
-discovered_at: "2026-09-02T22:21:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:07:05Z'
+discovered_at: '2026-09-02T22:21:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "melgarafael/youtube-growth"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code", "OpenClaw", "YouTube Data API", "YouTube Analytics API", "Google Cloud OAuth", "Markdown", "Shell Scripting"]
+title: melgarafael/youtube-growth
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Claude Code
+- OpenClaw
+- YouTube Data API
+- YouTube Analytics API
+- Google Cloud OAuth
+- Markdown
+- Shell Scripting
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["YouTube growth", "AI-driven content optimization", "personalized content strategy", "terminal-based tool", "SEO/GEO optimization"]
-source: "https://github.com/melgarafael/youtube-growth"
+deployment_complexity: Medium
+tags:
+- YouTube growth
+- AI-driven content optimization
+- personalized content strategy
+- terminal-based tool
+- SEO/GEO optimization
+source: https://github.com/melgarafael/youtube-growth
 stars: 1
-language: "Python"
-last_updated: "2026-07-15T17:53:21Z"
-discovered_at: "2026-07-15T18:06:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T17:53:21Z'
+discovered_at: '2026-07-15T18:06:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "HailBytes/mcp-security-scanner"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "NPM", "CLI", "SARIF"]
+title: HailBytes/mcp-security-scanner
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- NPM
+- CLI
+- SARIF
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP", "security-scanner", "AI-security", "CI/CD", "prompt-injection"]
-source: "https://github.com/HailBytes/mcp-security-scanner"
+deployment_complexity: Low
+tags:
+- MCP
+- security-scanner
+- AI-security
+- CI/CD
+- prompt-injection
+source: https://github.com/HailBytes/mcp-security-scanner
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-19T14:53:53Z"
-discovered_at: "2026-07-19T14:54:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T14:53:53Z'
+discovered_at: '2026-07-19T14:54:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

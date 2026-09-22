@@ -1,19 +1,34 @@
 ---
-title: "openstatusHQ/openstatus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js", "Hono", "Go", "Turso", "Drizzle", "Tinybird", "Tailwind CSS", "shadcn/ui", "TypeScript", "Docker"]
+title: openstatusHQ/openstatus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Next.js
+- Hono
+- Go
+- Turso
+- Drizzle
+- Tinybird
+- Tailwind CSS
+- shadcn/ui
+- TypeScript
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["status pages", "uptime monitoring", "incident management", "self-hosting", "API monitoring"]
-source: "https://github.com/openstatusHQ/openstatus"
+deployment_complexity: Medium
+tags:
+- status pages
+- uptime monitoring
+- incident management
+- self-hosting
+- API monitoring
+source: https://github.com/openstatusHQ/openstatus
 stars: 9047
-language: "TypeScript"
-last_updated: "2026-09-01T09:09:31Z"
-discovered_at: "2026-09-01T09:11:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T09:09:31Z'
+discovered_at: '2026-09-01T09:11:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "Celorus/celorus-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "OAuth 2.0", "HTTP/Streamable Transport", "Claude Code", "Cowork", "Claude.ai"]
+title: Celorus/celorus-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- MCP (Model Context Protocol)
+- OAuth 2.0
+- HTTP/Streamable Transport
+- Claude Code
+- Cowork
+- Claude.ai
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Financial Intelligence", "Data Provenance", "Company Records", "Cited Reports", "Decision Support"]
-source: "https://github.com/Celorus/celorus-plugin"
+deployment_complexity: Medium
+tags:
+- Financial Intelligence
+- Data Provenance
+- Company Records
+- Cited Reports
+- Decision Support
+source: https://github.com/Celorus/celorus-plugin
 stars: 0
-language: "CSS"
-last_updated: "2026-08-02T08:19:11Z"
-discovered_at: "2026-08-02T08:22:54Z"
-evaluated_by: "mistral-small-latest"
+language: CSS
+last_updated: '2026-08-02T08:19:11Z'
+discovered_at: '2026-08-02T08:22:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "Corsinvest/cv4vs-agents"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C#", "Visual Studio Extension", "MCP (Model Context Protocol)", "WebView2", "ConPTY", "TypeScript", "NDJSON", "Claude Code CLI", "Node.js"]
+title: Corsinvest/cv4vs-agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- C#
+- Visual Studio Extension
+- MCP (Model Context Protocol)
+- WebView2
+- ConPTY
+- TypeScript
+- NDJSON
+- Claude Code CLI
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Visual Studio", "Claude Code", "AI Agents", "MCP Tools", "IDE Integration"]
-source: "https://github.com/Corsinvest/cv4vs-agents"
+deployment_complexity: Medium
+tags:
+- Visual Studio
+- Claude Code
+- AI Agents
+- MCP Tools
+- IDE Integration
+source: https://github.com/Corsinvest/cv4vs-agents
 stars: 2
-language: "C#"
-last_updated: "2026-08-03T13:40:03Z"
-discovered_at: "2026-08-03T13:42:13Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-03T13:40:03Z'
+discovered_at: '2026-08-03T13:42:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "weed33834/FinPilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "React", "TypeScript", "SQLAlchemy", "Pydantic", "Redis", "PostgreSQL", "BM25", "Vector DB", "Docker"]
+title: weed33834/FinPilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- React
+- TypeScript
+- SQLAlchemy
+- Pydantic
+- Redis
+- PostgreSQL
+- BM25
+- Vector DB
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Financial AI", "Multi-agent systems", "Natural language to SQL", "RAG for documents", "Audit and compliance"]
-source: "https://github.com/weed33834/FinPilot"
+deployment_complexity: Medium
+tags:
+- Financial AI
+- Multi-agent systems
+- Natural language to SQL
+- RAG for documents
+- Audit and compliance
+source: https://github.com/weed33834/FinPilot
 stars: 9
-language: "Python"
-last_updated: "2026-08-09T01:28:09Z"
-discovered_at: "2026-08-09T01:33:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:28:09Z'
+discovered_at: '2026-08-09T01:33:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

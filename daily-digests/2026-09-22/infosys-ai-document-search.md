@@ -1,19 +1,34 @@
 ---
-title: "Krishna-Pratik/infosys-ai-document-search"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Streamlit", "LangChain", "Google Gemini", "OpenRouter", "FAISS", "python-dotenv", "pypdf", "pandas", "requests"]
+title: Krishna-Pratik/infosys-ai-document-search
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Streamlit
+- LangChain
+- Google Gemini
+- OpenRouter
+- FAISS
+- python-dotenv
+- pypdf
+- pandas
+- requests
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Document Search", "Multi-Model Fallback", "Enterprise AI", "Conversational AI"]
-source: "https://github.com/Krishna-Pratik/infosys-ai-document-search"
+deployment_complexity: Medium
+tags:
+- RAG
+- Document Search
+- Multi-Model Fallback
+- Enterprise AI
+- Conversational AI
+source: https://github.com/Krishna-Pratik/infosys-ai-document-search
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T10:14:11Z"
-discovered_at: "2026-08-08T10:35:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T10:14:11Z'
+discovered_at: '2026-08-08T10:35:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

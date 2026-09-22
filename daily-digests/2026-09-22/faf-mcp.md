@@ -1,19 +1,31 @@
 ---
-title: "Wolfe-Jam/faf-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Node.js", "Bun", "Zig-WASM", "Cloudflare Workers", "Vercel"]
+title: Wolfe-Jam/faf-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Node.js
+- Bun
+- Zig-WASM
+- Cloudflare Workers
+- Vercel
 quality_score: 10
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Project Context", "AI IDE Integration", "Context Synchronization", "Persistent Context"]
-source: "https://github.com/Wolfe-Jam/faf-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Project Context
+- AI IDE Integration
+- Context Synchronization
+- Persistent Context
+source: https://github.com/Wolfe-Jam/faf-mcp
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-21T04:13:37Z"
-discovered_at: "2026-07-21T04:15:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-21T04:13:37Z'
+discovered_at: '2026-07-21T04:15:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

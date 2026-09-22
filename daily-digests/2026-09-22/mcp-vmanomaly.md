@@ -1,19 +1,31 @@
 ---
-title: "VictoriaMetrics/mcp-vmanomaly"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "VictoriaMetrics vmanomaly", "REST API", "Docker", "HTTP/HTTPS", "Prometheus Metrics"]
+title: VictoriaMetrics/mcp-vmanomaly
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- VictoriaMetrics vmanomaly
+- REST API
+- Docker
+- HTTP/HTTPS
+- Prometheus Metrics
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["anomaly detection", "time-series analysis", "AI integration", "MCP server", "VictoriaMetrics"]
-source: "https://github.com/VictoriaMetrics/mcp-vmanomaly"
+deployment_complexity: Medium
+tags:
+- anomaly detection
+- time-series analysis
+- AI integration
+- MCP server
+- VictoriaMetrics
+source: https://github.com/VictoriaMetrics/mcp-vmanomaly
 stars: 9
-language: "Go"
-last_updated: "2026-08-06T15:12:01Z"
-discovered_at: "2026-08-06T15:19:21Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-06T15:12:01Z'
+discovered_at: '2026-08-06T15:19:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

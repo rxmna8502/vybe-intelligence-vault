@@ -13,13 +13,14 @@ collected_at: '2026-09-22T19:02:00.338208+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:python-workers-are-now-generally-available
 first_seen: '2026-09-22T02:01:02.077403+05:30'
 last_seen: '2026-09-22T19:02:00.338208+05:30'
 last_checked: '2026-09-22T19:02:00.338208+05:30'
 health_score: 100
 ---
+
 
 # Python Workers are now generally available
 

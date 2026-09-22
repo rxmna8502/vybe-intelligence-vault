@@ -1,19 +1,36 @@
 ---
-title: "OMGITCODE/AI-Revenue-Recovery"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Bayesian Thompson Sampling", "Google Gemini", "OpenAI LLMs", "NLP (Hinglish WhatsApp NLP)", "UPI Autopay", "NPCI Response Codes", "RBI/TRAI Compliance Frameworks", "Monte Carlo Simulation", "Setu Account Aggregator", "WhatsApp Business API", "Immutable Ledger (RecoveryLedger)"]
+title: OMGITCODE/AI-Revenue-Recovery
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Bayesian Thompson Sampling
+- Google Gemini
+- OpenAI LLMs
+- NLP (Hinglish WhatsApp NLP)
+- UPI Autopay
+- NPCI Response Codes
+- RBI/TRAI Compliance Frameworks
+- Monte Carlo Simulation
+- Setu Account Aggregator
+- WhatsApp Business API
+- Immutable Ledger (RecoveryLedger)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Revenue Recovery", "UPI Autopay", "Bayesian AI", "RBI Compliance", "Churn Prevention"]
-source: "https://github.com/OMGITCODE/AI-Revenue-Recovery"
+deployment_complexity: High
+tags:
+- Revenue Recovery
+- UPI Autopay
+- Bayesian AI
+- RBI Compliance
+- Churn Prevention
+source: https://github.com/OMGITCODE/AI-Revenue-Recovery
 stars: 0
-language: "Python"
-last_updated: "2026-09-01T22:17:12Z"
-discovered_at: "2026-09-01T22:17:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:17:12Z'
+discovered_at: '2026-09-01T22:17:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

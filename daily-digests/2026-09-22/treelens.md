@@ -1,19 +1,29 @@
 ---
-title: "avasec/TreeLens"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON Schema", "pytest", "UDP/TCP (for MCP transport)"]
+title: avasec/TreeLens
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON Schema
+- pytest
+- UDP/TCP (for MCP transport)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["diff-sync", "hierarchical state", "MCP server", "delta updates", "tree mirroring"]
-source: "https://github.com/avasec/TreeLens"
+deployment_complexity: Medium
+tags:
+- diff-sync
+- hierarchical state
+- MCP server
+- delta updates
+- tree mirroring
+source: https://github.com/avasec/TreeLens
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T16:34:18Z"
-discovered_at: "2026-08-08T16:35:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:34:18Z'
+discovered_at: '2026-08-08T16:35:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

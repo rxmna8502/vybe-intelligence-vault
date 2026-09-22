@@ -1,19 +1,32 @@
 ---
-title: "proyecto26/autoresearch-ai-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Shell", "Python", "Git", "NVIDIA CUDA", "PyTorch", "Flash Attention", "JSONL"]
+title: proyecto26/autoresearch-ai-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Claude Code
+- Shell
+- Python
+- Git
+- NVIDIA CUDA
+- PyTorch
+- Flash Attention
+- JSONL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous optimization", "experiment loop", "LLM training", "benchmarking", "AI-driven development"]
-source: "https://github.com/proyecto26/autoresearch-ai-plugin"
+deployment_complexity: Medium
+tags:
+- autonomous optimization
+- experiment loop
+- LLM training
+- benchmarking
+- AI-driven development
+source: https://github.com/proyecto26/autoresearch-ai-plugin
 stars: 12
-language: "Shell"
-last_updated: "2026-07-14T02:10:16Z"
-discovered_at: "2026-07-14T02:13:48Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-14T02:10:16Z'
+discovered_at: '2026-07-14T02:13:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

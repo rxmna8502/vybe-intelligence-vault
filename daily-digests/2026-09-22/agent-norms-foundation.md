@@ -1,19 +1,27 @@
 ---
-title: "eventide-project/agent-norms-foundation"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Git Subtree", "ISO-8601-UTC", "Artifact Framework"]
+title: eventide-project/agent-norms-foundation
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Git Subtree
+- ISO-8601-UTC
+- Artifact Framework
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["agent framework", "artifact management", "decision logging", "rule organization", "git integration"]
-source: "https://github.com/eventide-project/agent-norms-foundation"
+deployment_complexity: Low
+tags:
+- agent framework
+- artifact management
+- decision logging
+- rule organization
+- git integration
+source: https://github.com/eventide-project/agent-norms-foundation
 stars: 0
-language: "None"
-last_updated: "2026-07-18T15:53:51Z"
-discovered_at: "2026-07-18T15:55:12Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-18T15:53:51Z'
+discovered_at: '2026-07-18T15:55:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

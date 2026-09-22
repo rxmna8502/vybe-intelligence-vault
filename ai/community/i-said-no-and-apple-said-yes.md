@@ -13,13 +13,14 @@ collected_at: '2026-09-22T19:01:57.307410+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-said-no-and-apple-said-yes
 first_seen: '2026-09-22T19:01:57.307410+05:30'
 last_seen: '2026-09-22T19:01:57.307410+05:30'
 last_checked: '2026-09-22T19:01:57.307410+05:30'
 health_score: 100
 ---
+
 
 # I said no and Apple said yes
 

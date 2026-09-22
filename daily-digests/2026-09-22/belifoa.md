@@ -1,19 +1,31 @@
 ---
-title: "ImBIOS/belifoa"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "GraphQL", "CLI", "JSON", "Markdown"]
+title: ImBIOS/belifoa
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- GraphQL
+- CLI
+- JSON
+- Markdown
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Linear API", "MCP Server", "Token Optimization", "AI Agents", "Issue Management"]
-source: "https://github.com/ImBIOS/belifoa"
+deployment_complexity: Medium
+tags:
+- Linear API
+- MCP Server
+- Token Optimization
+- AI Agents
+- Issue Management
+source: https://github.com/ImBIOS/belifoa
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T08:13:05Z"
-discovered_at: "2026-08-02T08:22:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T08:13:05Z'
+discovered_at: '2026-08-02T08:22:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

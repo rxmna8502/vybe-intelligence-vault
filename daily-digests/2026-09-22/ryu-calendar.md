@@ -1,19 +1,30 @@
 ---
-title: "amajorai/ryu-calendar"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Vite", "React", "HTML/CSS", "Companion UI", "Monorepo"]
+title: amajorai/ryu-calendar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Vite
+- React
+- HTML/CSS
+- Companion UI
+- Monorepo
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["scheduling", "agent workflows", "calendar UI", "automation", "RAG interface"]
-source: "https://github.com/amajorai/ryu-calendar"
+deployment_complexity: Low
+tags:
+- scheduling
+- agent workflows
+- calendar UI
+- automation
+- RAG interface
+source: https://github.com/amajorai/ryu-calendar
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T08:30:50Z"
-discovered_at: "2026-08-05T08:36:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:30:50Z'
+discovered_at: '2026-08-05T08:36:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

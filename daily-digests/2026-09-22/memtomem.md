@@ -1,19 +1,34 @@
 ---
-title: "memtomem/memtomem"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "BM25", "ONNX", "Rust (for performance-critical components)", "FastAPI", "SQLite", "LangGraph", "Tree-sitter (for code parsing)", "React (Web UI)"]
+title: memtomem/memtomem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- BM25
+- ONNX
+- Rust (for performance-critical components)
+- FastAPI
+- SQLite
+- LangGraph
+- Tree-sitter (for code parsing)
+- React (Web UI)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["long-term memory", "hybrid search", "markdown indexing", "AI agent integration", "MCP server"]
-source: "https://github.com/memtomem/memtomem"
+deployment_complexity: Medium
+tags:
+- long-term memory
+- hybrid search
+- markdown indexing
+- AI agent integration
+- MCP server
+source: https://github.com/memtomem/memtomem
 stars: 13
-language: "Python"
-last_updated: "2026-09-02T02:05:33Z"
-discovered_at: "2026-09-02T02:13:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:05:33Z'
+discovered_at: '2026-09-02T02:13:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

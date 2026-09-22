@@ -1,19 +1,32 @@
 ---
-title: "shreeve1/symphony"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "Git", "tmux", "Alembic", "WebSockets", "Docker", "FastAPI (implied by web UI)"]
+title: shreeve1/symphony
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- SQLite
+- Git
+- tmux
+- Alembic
+- WebSockets
+- Docker
+- FastAPI (implied by web UI)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["AI agent orchestration", "self-hosted", "infrastructure automation", "git worktrees", "human-in-the-loop"]
-source: "https://github.com/shreeve1/symphony"
+deployment_complexity: High
+tags:
+- AI agent orchestration
+- self-hosted
+- infrastructure automation
+- git worktrees
+- human-in-the-loop
+source: https://github.com/shreeve1/symphony
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T20:37:54Z"
-discovered_at: "2026-07-12T20:42:47Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T20:37:54Z'
+discovered_at: '2026-07-12T20:42:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,37 @@
 ---
-title: "danielealbano/android-remote-control-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Kotlin", "Android SDK", "Ktor", "Netty", "Jetpack Compose", "Material Design 3", "OAuth 2.1", "Cloudflare Quick Tunnels", "ngrok", "ADB", "BouncyCastle", "Testcontainers", "Docker"]
+title: danielealbano/android-remote-control-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Kotlin
+- Android SDK
+- Ktor
+- Netty
+- Jetpack Compose
+- Material Design 3
+- OAuth 2.1
+- Cloudflare Quick Tunnels
+- ngrok
+- ADB
+- BouncyCastle
+- Testcontainers
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Android Automation", "AI Device Control", "Remote Access", "Token Efficiency"]
-source: "https://github.com/danielealbano/android-remote-control-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Android Automation
+- AI Device Control
+- Remote Access
+- Token Efficiency
+source: https://github.com/danielealbano/android-remote-control-mcp
 stars: 118
-language: "Kotlin"
-last_updated: "2026-07-13T18:39:49Z"
-discovered_at: "2026-07-13T18:43:18Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-07-13T18:39:49Z'
+discovered_at: '2026-07-13T18:43:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

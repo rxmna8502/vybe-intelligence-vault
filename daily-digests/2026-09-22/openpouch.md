@@ -1,19 +1,31 @@
 ---
-title: "openpouch/openpouch"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "Docker", "JSON Schema", "GitHub Actions"]
+title: openpouch/openpouch
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- Docker
+- JSON Schema
+- GitHub Actions
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent-native", "autonomous deployment", "MCP server", "governed lifecycle", "live previews"]
-source: "https://github.com/openpouch/openpouch"
+deployment_complexity: Medium
+tags:
+- agent-native
+- autonomous deployment
+- MCP server
+- governed lifecycle
+- live previews
+source: https://github.com/openpouch/openpouch
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-11T21:44:45Z"
-discovered_at: "2026-07-11T21:47:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T21:44:45Z'
+discovered_at: '2026-07-11T21:47:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
