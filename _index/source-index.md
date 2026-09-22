@@ -26556,15 +26556,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Explaining to business people why building software is still hard](../ai/community/explaining-to-business-people-why-building-softwar.md)
+  - [Did OpenAI solve the wrong Navier-Stokes problem?](../ai/community/did-openai-solve-the-wrong-navier-stokes-problem.md)
   - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](../ai/community/launch-hn-coverage-cat-yc-s22-umbrella-insurance-v.md)
   - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](../ai/community/openai-gpt-6-astra-breaks-enigma-message-that-has.md)
   - [OpenAI is well positioned to fast-follow Jev](../ai/community/openai-is-well-positioned-to-fast-follow-jev.md)
-  - [Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children](../ai/community/pentagon-palantir-ai-overreliance-led-to-strike-ki.md)
-  - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](../ai/community/show-hn-ai-rete-rag-a-rete-rule-engine-decides-rag.md)
-  - [Solitaire Alone Together](../ai/community/solitaire-alone-together.md)
-  - [Training a model to identify AI-generated web content from structure alone](../ai/community/arxiv-2609-15369.md)
-  - [Writing Rust code that's fast by asking agents to make the code faster](../ai/community/writing-rust-code-that-s-fast-by-asking-agents-to.md)
+  - [Pentagon says overreliance on AI contributed to missile strike on Iran school](../ai/community/pentagon-palantir-ai-overreliance-led-to-strike-ki.md)
+  - [Show HN: Training a model to identify AI web content from structure alone](../ai/community/arxiv-2609-15369.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -30432,4 +30429,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-23T01:36:29.281034+05:30*
+*Index generated on 2026-09-23T04:50:09.453210+05:30*

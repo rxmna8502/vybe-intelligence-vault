@@ -166,6 +166,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+| scientificamerican.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -304,13 +305,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | cryptocellar.org | 1 |
-| arcturus-labs.com | 1 |
 | bloomberg.com | 1 |
-| solitairealonetogether.com | 1 |
-| minimaxir.com | 1 |
-| ai-rete-rag.com | 1 |
+| arcturus-labs.com | 1 |
 | coveragecat.com | 1 |
-| manager.dev | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -587,7 +584,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | forum.langchain.com | 1 |
 | allennlp.org | 1 |
 | checklyhq.com | 1 |
-| scientificamerican.com | 1 |
 | astronomy.com | 1 |
 | quantamagazine.org | 1 |
 | status.resemble.ai | 1 |

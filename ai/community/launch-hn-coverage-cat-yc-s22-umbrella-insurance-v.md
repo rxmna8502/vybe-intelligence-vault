@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://coveragecat.com
 hn_url: https://news.ycombinator.com/item?id=49804931
-score: 23
+score: 39
 author: botacode
 comments_count: 20
 published_at: '2026-09-22T22:56:36+05:30'
-collected_at: '2026-09-23T01:20:04.535401+05:30'
+collected_at: '2026-09-23T04:33:46.164215+05:30'
 tags:
 - agents
 - hackernews
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-coverage-cat-yc-s22-umbrella-insurance-v
 first_seen: '2026-09-23T01:20:04.535401+05:30'
-last_seen: '2026-09-23T01:20:04.535401+05:30'
-last_checked: '2026-09-23T01:20:04.535401+05:30'
+last_seen: '2026-09-23T04:33:46.164215+05:30'
+last_checked: '2026-09-23T04:33:46.164215+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by botacode. Score: 23, Comments: 20.
+Hacker News story by botacode. Score: 39, Comments: 20.
 Original Link: https://www.coveragecat.com/
 
 ## Why It Matters
@@ -37,7 +37,7 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: botacode
-- Score: 23 Upvotes
+- Score: 39 Upvotes
 - Comments: 20 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49804931
 - Original Article: https://coveragecat.com

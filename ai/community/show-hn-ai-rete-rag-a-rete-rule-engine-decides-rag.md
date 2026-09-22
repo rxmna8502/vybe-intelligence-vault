@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:show-hn-ai-rete-rag-a-rete-rule-engine-decides-rag
 first_seen: '2026-09-23T01:20:05.437354+05:30'
 last_seen: '2026-09-23T01:20:05.437354+05:30'
 last_checked: '2026-09-23T01:20:05.437354+05:30'
 health_score: 100
 ---
+
 
 # Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why
 

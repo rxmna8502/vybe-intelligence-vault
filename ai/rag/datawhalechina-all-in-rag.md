@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-09-23T01:20:56.064135+05:30'
+collected_at: '2026-09-23T04:34:27.852640+05:30'
 published_at: '2026-09-22T19:40:21Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - models
 - python
 - rag
-- reddit
 stars: 11295
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-04T08:15:30Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-09-23T01:20:56.064135+05:30'
-last_seen: '2026-09-23T01:20:56.064135+05:30'
-last_checked: '2026-09-23T01:20:56.064135+05:30'
+first_seen: '2026-09-23T04:34:27.852640+05:30'
+last_seen: '2026-09-23T04:34:27.852640+05:30'
+last_checked: '2026-09-23T04:34:27.852640+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,7 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG implementation guide spanning foundational embedding techniques to advanced multimodal RAG architectures.
-*   Leverages prominent LLM orchestration frameworks (LangChain, LlamaIndex) for practical RAG system development and integration.
-*   Explores diverse vector/graph databases (Milvus, Neo4j) and various LLMs (DeepSeek, Kimi-K2) to construct robust RAG pipelines.
+*   Comprehensive RAG full-stack guide covering foundational principles to advanced multimodal retrieval techniques.
 
 ## Why It Matters
 

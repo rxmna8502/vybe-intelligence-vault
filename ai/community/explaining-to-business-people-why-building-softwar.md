@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:explaining-to-business-people-why-building-softwar
 first_seen: '2026-09-23T01:20:05.637984+05:30'
 last_seen: '2026-09-23T01:20:05.637984+05:30'
 last_checked: '2026-09-23T01:20:05.637984+05:30'
 health_score: 100
 ---
+
 
 # Explaining to business people why building software is still hard
 
