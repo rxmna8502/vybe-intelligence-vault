@@ -1,19 +1,31 @@
 ---
-title: "sehoon787/my-claude"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Claude Code", "TypeScript", "Python", "MCP (Model Context Protocol)", "Shell Scripting", "JavaScript", "TOML"]
+title: sehoon787/my-claude
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Claude Code
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- Shell Scripting
+- JavaScript
+- TOML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "Claude Code", "multi-agent systems", "task delegation", "MCP integration"]
-source: "https://github.com/sehoon787/my-claude"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- Claude Code
+- multi-agent systems
+- task delegation
+- MCP integration
+source: https://github.com/sehoon787/my-claude
 stars: 14
-language: "JavaScript"
-last_updated: "2026-07-15T02:01:29Z"
-discovered_at: "2026-07-15T02:12:26Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-15T02:01:29Z'
+discovered_at: '2026-07-15T02:12:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

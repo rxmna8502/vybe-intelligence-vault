@@ -1,19 +1,32 @@
 ---
-title: "feliopz/apollo-agi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Express", "MCP (Model Context Protocol)", "Docker", "WhatsApp API (Uazapi)", "OpenCode", "Obsidian", "JavaScript"]
+title: feliopz/apollo-agi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Node.js
+- Express
+- MCP (Model Context Protocol)
+- Docker
+- WhatsApp API (Uazapi)
+- OpenCode
+- Obsidian
+- JavaScript
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["WhatsApp integration", "MCP tools", "Obsidian vault", "self-hosted", "real-time agent"]
-source: "https://github.com/feliopz/apollo-agi"
+deployment_complexity: Medium
+tags:
+- WhatsApp integration
+- MCP tools
+- Obsidian vault
+- self-hosted
+- real-time agent
+source: https://github.com/feliopz/apollo-agi
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T04:49:25Z"
-discovered_at: "2026-08-08T04:58:57Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T04:49:25Z'
+discovered_at: '2026-08-08T04:58:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

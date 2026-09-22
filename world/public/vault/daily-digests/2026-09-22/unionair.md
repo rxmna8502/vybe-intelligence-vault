@@ -1,19 +1,29 @@
 ---
-title: "LeonAkasaka/UnionAir"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", "Unity Editor API", "HTTP Server", "REST API", "UPM Package"]
+title: LeonAkasaka/UnionAir
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- C#
+- Unity Editor API
+- HTTP Server
+- REST API
+- UPM Package
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Unity integration", "REST bridge", "AI tooling", "Editor automation", "CI/CD"]
-source: "https://github.com/LeonAkasaka/UnionAir"
+deployment_complexity: Medium
+tags:
+- Unity integration
+- REST bridge
+- AI tooling
+- Editor automation
+- CI/CD
+source: https://github.com/LeonAkasaka/UnionAir
 stars: 0
-language: "C#"
-last_updated: "2026-08-07T06:08:54Z"
-discovered_at: "2026-08-07T06:12:31Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T06:08:54Z'
+discovered_at: '2026-08-07T06:12:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

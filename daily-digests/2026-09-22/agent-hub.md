@@ -1,19 +1,32 @@
 ---
-title: "SamyTouri/agent-hub"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Next.js", "Supabase", "PostgreSQL", "pgvector", "OpenAI embeddings", "TypeScript", "Vercel", "MCP (Model Context Protocol)"]
+title: SamyTouri/agent-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Next.js
+- Supabase
+- PostgreSQL
+- pgvector
+- OpenAI embeddings
+- TypeScript
+- Vercel
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent discovery", "reputation system", "semantic search", "MCP server", "community governance"]
-source: "https://github.com/SamyTouri/agent-hub"
+deployment_complexity: Medium
+tags:
+- agent discovery
+- reputation system
+- semantic search
+- MCP server
+- community governance
+source: https://github.com/SamyTouri/agent-hub
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-17T16:10:41Z"
-discovered_at: "2026-07-17T16:14:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T16:10:41Z'
+discovered_at: '2026-07-17T16:14:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

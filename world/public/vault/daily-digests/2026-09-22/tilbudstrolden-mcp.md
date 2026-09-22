@@ -1,19 +1,31 @@
 ---
-title: "olgasafonova/tilbudstrolden-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Tjek API", "Vite", "Hono", "Jest"]
+title: olgasafonova/tilbudstrolden-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Tjek API
+- Vite
+- Hono
+- Jest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Nordic grocery deals", "meal planning", "shopping optimization", "AI assistant integration"]
-source: "https://github.com/olgasafonova/tilbudstrolden-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Nordic grocery deals
+- meal planning
+- shopping optimization
+- AI assistant integration
+source: https://github.com/olgasafonova/tilbudstrolden-mcp
 stars: 26
-language: "TypeScript"
-last_updated: "2026-08-10T09:14:58Z"
-discovered_at: "2026-08-10T09:25:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T09:14:58Z'
+discovered_at: '2026-08-10T09:25:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

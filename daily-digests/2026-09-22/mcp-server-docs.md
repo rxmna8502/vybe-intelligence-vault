@@ -1,19 +1,28 @@
 ---
-title: "Web-Data-Forms/mcp-server-docs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "HTTP/Streamable Transport", "REST API Integration", "JSON-RPC"]
+title: Web-Data-Forms/mcp-server-docs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Model Context Protocol (MCP)
+- HTTP/Streamable Transport
+- REST API Integration
+- JSON-RPC
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP Server", "Business Data Integration", "Form Automation", "Workflow Management", "AI Assistant Integration"]
-source: "https://github.com/Web-Data-Forms/mcp-server-docs"
+deployment_complexity: Low
+tags:
+- MCP Server
+- Business Data Integration
+- Form Automation
+- Workflow Management
+- AI Assistant Integration
+source: https://github.com/Web-Data-Forms/mcp-server-docs
 stars: 0
-language: "None"
-last_updated: "2026-08-07T11:00:07Z"
-discovered_at: "2026-08-07T11:04:29Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T11:00:07Z'
+discovered_at: '2026-08-07T11:04:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

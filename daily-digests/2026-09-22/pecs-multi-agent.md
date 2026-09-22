@@ -1,19 +1,30 @@
 ---
-title: "paopao-13/pecs-multi-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "LLM APIs (GLM, DeepSeek, Qwen)", "Flask", "AST (Abstract Syntax Tree) Sandboxing", "YAML/JSON for configuration"]
+title: paopao-13/pecs-multi-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- LangGraph
+- LLM APIs (GLM, DeepSeek, Qwen)
+- Flask
+- AST (Abstract Syntax Tree) Sandboxing
+- YAML/JSON for configuration
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "token budget management", "Plan-Execute-Reflect loop", "AST sandboxing", "LLM cost optimization"]
-source: "https://github.com/paopao-13/pecs-multi-agent"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- token budget management
+- Plan-Execute-Reflect loop
+- AST sandboxing
+- LLM cost optimization
+source: https://github.com/paopao-13/pecs-multi-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T09:21:07Z"
-discovered_at: "2026-07-18T09:23:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T09:21:07Z'
+discovered_at: '2026-07-18T09:23:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "LeoLisena/pampa-pilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "Lua", "ReaScript", "MCP (Model Context Protocol) v2", "REAPER DAW", "Pytest", "JSON"]
+title: LeoLisena/pampa-pilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python 3.12+
+- Lua
+- ReaScript
+- MCP (Model Context Protocol) v2
+- REAPER DAW
+- Pytest
+- JSON
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI music production", "REAPER automation", "natural language processing", "MCP server", "DAW integration"]
-source: "https://github.com/LeoLisena/pampa-pilot"
+deployment_complexity: Medium
+tags:
+- AI music production
+- REAPER automation
+- natural language processing
+- MCP server
+- DAW integration
+source: https://github.com/LeoLisena/pampa-pilot
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T20:53:51Z"
-discovered_at: "2026-08-02T20:54:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T20:53:51Z'
+discovered_at: '2026-08-02T20:54:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

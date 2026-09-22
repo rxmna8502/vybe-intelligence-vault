@@ -1,19 +1,30 @@
 ---
-title: "hrtips/cvx"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "YAML", "LaTeX", "JSON Schema", "MCP (Model Context Protocol)"]
+title: hrtips/cvx
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JavaScript
+- Node.js
+- YAML
+- LaTeX
+- JSON Schema
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["CV generation", "YAML to PDF", "AI-assisted", "ATS-compatible", "local processing"]
-source: "https://github.com/hrtips/cvx"
+deployment_complexity: Low
+tags:
+- CV generation
+- YAML to PDF
+- AI-assisted
+- ATS-compatible
+- local processing
+source: https://github.com/hrtips/cvx
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T05:55:32Z"
-discovered_at: "2026-08-02T05:57:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T05:55:32Z'
+discovered_at: '2026-08-02T05:57:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

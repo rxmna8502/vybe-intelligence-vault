@@ -1,19 +1,37 @@
 ---
-title: "aminoy77/HelloChusquis"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "DuckDuckGo", "OpenRouter", "Ollama", "OpenAI", "Anthropic", "Gemini", "Groq", "SSE (Server-Sent Events)", "JSON Logging", "Unit Testing (unittest/pytest)"]
+title: aminoy77/HelloChusquis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- DuckDuckGo
+- OpenRouter
+- Ollama
+- OpenAI
+- Anthropic
+- Gemini
+- Groq
+- SSE (Server-Sent Events)
+- JSON Logging
+- Unit Testing (unittest/pytest)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "multi-provider", "terminal interface", "REST API", "browser automation"]
-source: "https://github.com/aminoy77/HelloChusquis"
+deployment_complexity: Medium
+tags:
+- AI agent
+- multi-provider
+- terminal interface
+- REST API
+- browser automation
+source: https://github.com/aminoy77/HelloChusquis
 stars: 1
-language: "Python"
-last_updated: "2026-08-04T10:38:28Z"
-discovered_at: "2026-08-04T10:39:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T10:38:28Z'
+discovered_at: '2026-08-04T10:39:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "commit-check/commit-check-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Git", "PyPI", "TOML"]
+title: commit-check/commit-check-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Git
+- PyPI
+- TOML
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["commit validation", "MCP server", "git hooks", "repository state", "AI tooling"]
-source: "https://github.com/commit-check/commit-check-mcp"
+deployment_complexity: Low
+tags:
+- commit validation
+- MCP server
+- git hooks
+- repository state
+- AI tooling
+source: https://github.com/commit-check/commit-check-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T13:40:28Z"
-discovered_at: "2026-08-02T13:49:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T13:40:28Z'
+discovered_at: '2026-08-02T13:49:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

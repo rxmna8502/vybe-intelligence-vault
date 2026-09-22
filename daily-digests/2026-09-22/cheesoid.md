@@ -1,19 +1,34 @@
 ---
-title: "noisefactorllc/cheesoid"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "YAML", "Docker", "OpenRouter API", "Anthropic API", "Shell/SSH tools", "Webhooks", "Reverse Proxy (Caddy/OAuth2)", "Markdown"]
+title: noisefactorllc/cheesoid
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Node.js
+- JavaScript
+- YAML
+- Docker
+- OpenRouter API
+- Anthropic API
+- Shell/SSH tools
+- Webhooks
+- Reverse Proxy (Caddy/OAuth2)
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "persistent memory", "multi-user chat", "tool integration", "state management"]
-source: "https://github.com/noisefactorllc/cheesoid"
+deployment_complexity: Medium
+tags:
+- AI agents
+- persistent memory
+- multi-user chat
+- tool integration
+- state management
+source: https://github.com/noisefactorllc/cheesoid
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-03T18:46:30Z"
-discovered_at: "2026-08-03T18:52:38Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T18:46:30Z'
+discovered_at: '2026-08-03T18:52:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

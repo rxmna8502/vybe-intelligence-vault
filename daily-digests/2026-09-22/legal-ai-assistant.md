@@ -1,19 +1,35 @@
 ---
-title: "mahak-maheshwari-26/Legal-AI-Assistant"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["FastAPI", "Google Gemini 3.5 Flash", "PostgreSQL", "PGVector", "React", "SentenceTransformers", "Cross-Encoder Reranking", "Server-Sent Events (SSE)", "SQLAlchemy", "Python", "Node.js"]
+title: mahak-maheshwari-26/Legal-AI-Assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- FastAPI
+- Google Gemini 3.5 Flash
+- PostgreSQL
+- PGVector
+- React
+- SentenceTransformers
+- Cross-Encoder Reranking
+- Server-Sent Events (SSE)
+- SQLAlchemy
+- Python
+- Node.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Legal AI", "Hybrid RAG", "Indian Law", "Vector Search", "Real-time Streaming"]
-source: "https://github.com/mahak-maheshwari-26/Legal-AI-Assistant"
+deployment_complexity: Medium
+tags:
+- Legal AI
+- Hybrid RAG
+- Indian Law
+- Vector Search
+- Real-time Streaming
+source: https://github.com/mahak-maheshwari-26/Legal-AI-Assistant
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T13:00:11Z"
-discovered_at: "2026-08-07T13:03:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T13:00:11Z'
+discovered_at: '2026-08-07T13:03:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

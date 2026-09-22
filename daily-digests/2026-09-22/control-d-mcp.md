@@ -1,19 +1,29 @@
 ---
-title: "sv3nnie/Control-D-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "DNS"]
+title: sv3nnie/Control-D-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- DNS
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "DNS management", "Control D API", "automation", "network filtering"]
-source: "https://github.com/sv3nnie/Control-D-MCP"
+deployment_complexity: Low
+tags:
+- MCP server
+- DNS management
+- Control D API
+- automation
+- network filtering
+source: https://github.com/sv3nnie/Control-D-MCP
 stars: 4
-language: "JavaScript"
-last_updated: "2026-08-04T15:25:55Z"
-discovered_at: "2026-08-04T15:36:11Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T15:25:55Z'
+discovered_at: '2026-08-04T15:36:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

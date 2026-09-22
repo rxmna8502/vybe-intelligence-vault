@@ -1,19 +1,31 @@
 ---
-title: "TairuFramework/mokei"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "OpenAI API", "Anthropic API", "Ollama", "CLI"]
+title: TairuFramework/mokei
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- OpenAI API
+- Anthropic API
+- Ollama
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "agent framework", "TypeScript", "multi-context", "AI tooling"]
-source: "https://github.com/TairuFramework/mokei"
+deployment_complexity: Medium
+tags:
+- MCP
+- agent framework
+- TypeScript
+- multi-context
+- AI tooling
+source: https://github.com/TairuFramework/mokei
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T10:24:44Z"
-discovered_at: "2026-08-02T10:41:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T10:24:44Z'
+discovered_at: '2026-08-02T10:41:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

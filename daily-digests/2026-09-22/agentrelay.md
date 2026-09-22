@@ -1,19 +1,31 @@
 ---
-title: "MalyStern/agentrelay"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tauri", "Claude Code", "ACP (Agent Communication Protocol)", "MCP (Model Context Protocol)", "Git", "TypeScript (for plugin/ui)"]
+title: MalyStern/agentrelay
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- Tauri
+- Claude Code
+- ACP (Agent Communication Protocol)
+- MCP (Model Context Protocol)
+- Git
+- TypeScript (for plugin/ui)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent supervision", "overnight automation", "guardrails", "evidence-gated completion", "git checkpointing"]
-source: "https://github.com/MalyStern/agentrelay"
+deployment_complexity: Medium
+tags:
+- AI agent supervision
+- overnight automation
+- guardrails
+- evidence-gated completion
+- git checkpointing
+source: https://github.com/MalyStern/agentrelay
 stars: 1
-language: "Rust"
-last_updated: "2026-08-02T10:37:21Z"
-discovered_at: "2026-08-02T10:41:37Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T10:37:21Z'
+discovered_at: '2026-08-02T10:41:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

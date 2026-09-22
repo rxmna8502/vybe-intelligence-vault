@@ -1,19 +1,31 @@
 ---
-title: "benskamps/career-compass-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Next.js", "YAML", "React", "Tailwind CSS"]
+title: benskamps/career-compass-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Next.js
+- YAML
+- React
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["career management", "local-first", "MCP server", "job search automation", "Claude integration"]
-source: "https://github.com/benskamps/career-compass-mcp"
+deployment_complexity: Medium
+tags:
+- career management
+- local-first
+- MCP server
+- job search automation
+- Claude integration
+source: https://github.com/benskamps/career-compass-mcp
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-08T18:31:11Z"
-discovered_at: "2026-08-08T18:39:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T18:31:11Z'
+discovered_at: '2026-08-08T18:39:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

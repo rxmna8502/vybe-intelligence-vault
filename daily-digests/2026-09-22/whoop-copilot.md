@@ -1,19 +1,31 @@
 ---
-title: "YunhaoDou/whoop-copilot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OAuth 2.0", "WHOOP API v2", "AppleScript", "macOS Calendar/Reminders", "Claude Skills", "Pytest"]
+title: YunhaoDou/whoop-copilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- OAuth 2.0
+- WHOOP API v2
+- AppleScript
+- macOS Calendar/Reminders
+- Claude Skills
+- Pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["wearable data integration", "AI agent augmentation", "WHOOP API", "real-time biometrics", "automation"]
-source: "https://github.com/YunhaoDou/whoop-copilot"
+deployment_complexity: Medium
+tags:
+- wearable data integration
+- AI agent augmentation
+- WHOOP API
+- real-time biometrics
+- automation
+source: https://github.com/YunhaoDou/whoop-copilot
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T17:56:13Z"
-discovered_at: "2026-07-19T17:58:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T17:56:13Z'
+discovered_at: '2026-07-19T17:58:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

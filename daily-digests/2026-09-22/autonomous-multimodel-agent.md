@@ -1,19 +1,43 @@
 ---
-title: "omprxkash/autonomous-multimodel-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["LangGraph", "LangChain", "FastAPI", "PostgreSQL", "pgvector", "Celery", "Redis", "React", "Next.js", "OpenTelemetry", "Docker", "Terraform", "AWS ECS", "Google OAuth", "SendGrid", "Playwright", "Node.js", "asyncpg", "SQLAlchemy"]
+title: omprxkash/autonomous-multimodel-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- LangGraph
+- LangChain
+- FastAPI
+- PostgreSQL
+- pgvector
+- Celery
+- Redis
+- React
+- Next.js
+- OpenTelemetry
+- Docker
+- Terraform
+- AWS ECS
+- Google OAuth
+- SendGrid
+- Playwright
+- Node.js
+- asyncpg
+- SQLAlchemy
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["autonomous agents", "multi-model routing", "phishing detection", "B2B lead generation", "LangGraph"]
-source: "https://github.com/omprxkash/autonomous-multimodel-agent"
+deployment_complexity: High
+tags:
+- autonomous agents
+- multi-model routing
+- phishing detection
+- B2B lead generation
+- LangGraph
+source: https://github.com/omprxkash/autonomous-multimodel-agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T22:42:32Z"
-discovered_at: "2026-07-11T22:44:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T22:42:32Z'
+discovered_at: '2026-07-11T22:44:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

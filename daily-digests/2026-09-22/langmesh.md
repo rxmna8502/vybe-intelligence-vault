@@ -1,19 +1,31 @@
 ---
-title: "ghovax/langmesh"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri", "Next.js", "LangChain", "Python", "macOS (Apple Silicon)", "Nix", "Tailscale"]
+title: ghovax/langmesh
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Tauri
+- Next.js
+- LangChain
+- Python
+- macOS (Apple Silicon)
+- Nix
+- Tailscale
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["coding agent", "self-hosted", "model-agnostic", "customizable harness", "macOS native"]
-source: "https://github.com/ghovax/langmesh"
+deployment_complexity: Medium
+tags:
+- coding agent
+- self-hosted
+- model-agnostic
+- customizable harness
+- macOS native
+source: https://github.com/ghovax/langmesh
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T11:53:52Z"
-discovered_at: "2026-08-07T11:56:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:53:52Z'
+discovered_at: '2026-08-07T11:56:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

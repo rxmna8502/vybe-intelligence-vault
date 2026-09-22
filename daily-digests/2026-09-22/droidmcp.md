@@ -1,19 +1,34 @@
 ---
-title: "kahz12/DroidMCP"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Termux", "Android", "HTTP/SSE", "SQLite", "FFmpeg", "ExifTool", "Colly", "Go-GitHub"]
+title: kahz12/DroidMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Termux
+- Android
+- HTTP/SSE
+- SQLite
+- FFmpeg
+- ExifTool
+- Colly
+- Go-GitHub
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP servers", "Android integration", "Termux", "ARM64 binaries", "AI tooling"]
-source: "https://github.com/kahz12/DroidMCP"
+deployment_complexity: Medium
+tags:
+- MCP servers
+- Android integration
+- Termux
+- ARM64 binaries
+- AI tooling
+source: https://github.com/kahz12/DroidMCP
 stars: 1
-language: "Go"
-last_updated: "2026-07-19T15:52:41Z"
-discovered_at: "2026-07-19T15:56:47Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-19T15:52:41Z'
+discovered_at: '2026-07-19T15:56:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

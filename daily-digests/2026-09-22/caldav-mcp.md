@@ -1,19 +1,33 @@
 ---
-title: "lukegskw/caldav-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "CalDAV", "iCloud", "Docker", "Zod", "Vitest", "pnpm"]
+title: lukegskw/caldav-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- CalDAV
+- iCloud
+- Docker
+- Zod
+- Vitest
+- pnpm
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP Server", "CalDAV", "iCloud Calendar", "Event Management", "Reminders"]
-source: "https://github.com/lukegskw/caldav-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- CalDAV
+- iCloud Calendar
+- Event Management
+- Reminders
+source: https://github.com/lukegskw/caldav-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-09-03T19:01:38Z"
-discovered_at: "2026-09-03T19:08:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T19:01:38Z'
+discovered_at: '2026-09-03T19:08:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

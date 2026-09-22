@@ -1,19 +1,31 @@
 ---
-title: "api-evangelist/humanloop"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "REST API", "LLM-as-judge", "Observability", "Dataset Management", "Prompt Versioning"]
+title: api-evangelist/humanloop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- TypeScript
+- REST API
+- LLM-as-judge
+- Observability
+- Dataset Management
+- Prompt Versioning
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LLM Platform", "Prompt Management", "Evaluations", "Observability", "Sunsetting"]
-source: "https://github.com/api-evangelist/humanloop"
+deployment_complexity: Medium
+tags:
+- LLM Platform
+- Prompt Management
+- Evaluations
+- Observability
+- Sunsetting
+source: https://github.com/api-evangelist/humanloop
 stars: 0
-language: "None"
-last_updated: "2026-07-30T03:18:34Z"
-discovered_at: "2026-08-01T16:07:07Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-30T03:18:34Z'
+discovered_at: '2026-08-01T16:07:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

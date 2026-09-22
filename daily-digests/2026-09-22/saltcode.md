@@ -1,19 +1,29 @@
 ---
-title: "Secful/saltcode"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "HTTP/Streamable HTTP", "Bearer Token Authentication", "Python (implied by MCP server)", "REST API"]
+title: Secful/saltcode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Model Context Protocol (MCP)
+- HTTP/Streamable HTTP
+- Bearer Token Authentication
+- Python (implied by MCP server)
+- REST API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI coding security", "real-time guardrails", "shift-left security", "MCP server", "developer tooling"]
-source: "https://github.com/Secful/saltcode"
+deployment_complexity: Low
+tags:
+- AI coding security
+- real-time guardrails
+- shift-left security
+- MCP server
+- developer tooling
+source: https://github.com/Secful/saltcode
 stars: 1
-language: "None"
-last_updated: "2026-08-07T19:56:46Z"
-discovered_at: "2026-08-07T19:58:10Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T19:56:46Z'
+discovered_at: '2026-08-07T19:58:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

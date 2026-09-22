@@ -1,19 +1,31 @@
 ---
-title: "maxgfr/ultrasearch"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Docker", "SearXNG", "Firecrawl", "Model Context Protocol (MCP)", "skills.sh"]
+title: maxgfr/ultrasearch
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Docker
+- SearXNG
+- Firecrawl
+- Model Context Protocol (MCP)
+- skills.sh
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["web search", "citation checking", "RAG grounding", "multi-backend retrieval", "agentic research"]
-source: "https://github.com/maxgfr/ultrasearch"
+deployment_complexity: Medium
+tags:
+- web search
+- citation checking
+- RAG grounding
+- multi-backend retrieval
+- agentic research
+source: https://github.com/maxgfr/ultrasearch
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T12:02:25Z"
-discovered_at: "2026-08-02T12:02:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T12:02:25Z'
+discovered_at: '2026-08-02T12:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

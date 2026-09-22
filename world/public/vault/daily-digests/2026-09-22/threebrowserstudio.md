@@ -1,19 +1,32 @@
 ---
-title: "SamG-Coder/ThreeBrowserStudio"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Three.js", "WebGPU", "Model Context Protocol (MCP)", "Node.js", ".NET 10", "TypeScript", "CMake", "GLTF/GLB"]
+title: SamG-Coder/ThreeBrowserStudio
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Three.js
+- WebGPU
+- Model Context Protocol (MCP)
+- Node.js
+- .NET 10
+- TypeScript
+- CMake
+- GLTF/GLB
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI authoring", "WebGPU runtime", "Three.js", "MCP integration", "persistent viewport"]
-source: "https://github.com/SamG-Coder/ThreeBrowserStudio"
+deployment_complexity: Medium
+tags:
+- AI authoring
+- WebGPU runtime
+- Three.js
+- MCP integration
+- persistent viewport
+source: https://github.com/SamG-Coder/ThreeBrowserStudio
 stars: 18
-language: "JavaScript"
-last_updated: "2026-09-01T07:50:46Z"
-discovered_at: "2026-09-01T19:07:56Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T07:50:46Z'
+discovered_at: '2026-09-01T19:07:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

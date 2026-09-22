@@ -1,19 +1,31 @@
 ---
-title: "cyborginc/cyborgdb-js"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["TypeScript", "JavaScript", "Node.js", "Docker", "AWS KMS", "Secrets Manager", "REST API"]
+title: cyborginc/cyborgdb-js
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- JavaScript
+- Node.js
+- Docker
+- AWS KMS
+- Secrets Manager
+- REST API
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["encrypted vector search", "client-side encryption", "TypeScript SDK", "KMS integration", "metadata filtering"]
-source: "https://github.com/cyborginc/cyborgdb-js"
+deployment_complexity: Medium
+tags:
+- encrypted vector search
+- client-side encryption
+- TypeScript SDK
+- KMS integration
+- metadata filtering
+source: https://github.com/cyborginc/cyborgdb-js
 stars: 7
-language: "TypeScript"
-last_updated: "2026-08-07T19:13:22Z"
-discovered_at: "2026-08-07T19:59:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T19:13:22Z'
+discovered_at: '2026-08-07T19:59:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -26557,11 +26557,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI Has No Wisdom and Neither Will You](../ai/community/ai-has-no-wisdom-and-neither-will-you.md)
   - [AI coding has made CI a bottleneck, so we reworked ours to keep up](../ai/community/ai-coding-has-made-ci-a-bottleneck-so-we-reworked.md)
-  - [Frontier AI on Your Own Hardware](../ai/community/frontier-ai-on-your-own-hardware.md)
+  - [I said no and Apple said yes](../ai/community/i-said-no-and-apple-said-yes.md)
   - [Python Workers are now generally available](../ai/community/python-workers-are-now-generally-available.md)
   - [Transformers Explained Visually](../ai/community/transformers-explained-visually.md)
-  - [Why does mathmain need an encrypted loader?](../ai/community/why-does-mathmain-need-an-encrypted-loader.md)
+  - [Verda (Finland) raises $189M in Series B](../ai/community/verda-finland-raises-189m-in-series-b.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -27034,6 +27035,7 @@ Resources organized by publisher feed and query sources.
   - [Join the AMD Open Robotics Hackathon](../ai/models/huggingface-blog-amd-openroboticshackathon.md)
   - [Journey to 1 Million Gradio Users!](../ai/models/huggingface-blog-gradio-1m.md)
   - [Judge Arena: Benchmarking LLMs as Evaluators](../ai/models/huggingface-blog-arena-atla.md)
+  - [Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community](../ai/models/huggingface-blog-omlx.md)
   - [Jupyter Agents: training LLMs to reason with notebooks](../ai/agents/huggingface-blog-jupyter-agent-2.md)
   - [Jupyter X Hugging Face](../ai/models/huggingface-blog-notebooks-hub.md)
   - [KV Cache from scratch in nanoVLM](../ai/models/huggingface-blog-kv-cache.md)
@@ -27328,6 +27330,7 @@ Resources organized by publisher feed and query sources.
   - [Training mRNA Language Models Across 25 Species for $165](../ai/models/huggingface-blog-openmed-training-mrna-models-25-species.md)
   - [Transformer-based Encoder-Decoder Models](../ai/models/huggingface-blog-encoder-decoder.md)
   - [Transformers backend integration in SGLang](../ai/models/huggingface-blog-transformers-backend-sglang.md)
+  - [Transformers now runs llama.cpp quants](../ai/models/huggingface-blog-transformers-llama-cpp-quants.md)
   - [Transformers v5: Simple model definitions powering the AI ecosystem](../ai/models/huggingface-blog-transformers-v5.md)
   - [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/huggingface-blog-transformersjs-v3.md)
   - [Transformers.js v4: Now Available on NPM!](../ai/models/huggingface-blog-transformersjs-v4.md)
@@ -30426,4 +30429,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-22T10:57:33.381425+05:30*
+*Index generated on 2026-09-22T19:18:25.135495+05:30*

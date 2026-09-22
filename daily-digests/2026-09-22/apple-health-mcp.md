@@ -1,19 +1,29 @@
 ---
-title: "davidmosiah/apple-health-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "XML parsing", "CLI tooling"]
+title: davidmosiah/apple-health-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- XML parsing
+- CLI tooling
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Apple Health", "MCP server", "local-first", "health data", "AI agent integration"]
-source: "https://github.com/davidmosiah/apple-health-mcp"
+deployment_complexity: Medium
+tags:
+- Apple Health
+- MCP server
+- local-first
+- health data
+- AI agent integration
+source: https://github.com/davidmosiah/apple-health-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-08T12:43:40Z"
-discovered_at: "2026-08-08T12:47:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T12:43:40Z'
+discovered_at: '2026-08-08T12:47:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

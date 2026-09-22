@@ -4,24 +4,22 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-09-03T01:00:51.373460+05:30'
-published_at: '2026-09-01T11:57:19Z'
+collected_at: '2026-09-22T19:04:47.912348+05:30'
+published_at: '2026-09-22T08:57:30Z'
 tags:
 - agents
 - github-repo
 - go
-- hackernews
-- workflows
-stars: 5819
+stars: 5840
 language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
-pushed_at: '2026-08-29T11:53:33Z'
+pushed_at: '2026-09-20T01:16:06Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-09-03T01:00:51.373460+05:30'
-last_seen: '2026-09-03T01:00:51.373460+05:30'
-last_checked: '2026-09-03T01:00:51.373460+05:30'
+first_seen: '2026-09-22T19:04:47.912348+05:30'
+last_seen: '2026-09-22T19:04:47.912348+05:30'
+last_checked: '2026-09-22T19:04:47.912348+05:30'
 health_score: 100
 ---
 
@@ -29,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Go-based workshop** for constructing a **coding agent** (e.g., Roo Code, Cline, Amp) with modular architecture for AI-driven code generation/editing.
-- **Technical focus** includes agent workflows, tool integration (e.g., LLM APIs, file system ops), and real-time collaboration features.
-- **Open-source repository** with 5.8K+ stars, updated Sep 2026, covering setup, testing, and deployment strategies for autonomous coding agents.
+*   Workshop details the construction of AI-driven coding agents, mirroring functionalities of tools like Cursor and OpenCode.
+*   Agent implementation is demonstrated using the Go programming language.
+*   Focuses on practical methodologies for developing autonomous code generation and refactoring systems.
 
 ## Why It Matters
 
@@ -40,14 +38,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ghuntley
-- Stars: 5819
-- Forks: 655
+- Stars: 5840
+- Forks: 657
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
-- Last Updated: 2026-09-01T11:57:19Z
+- Last Updated: 2026-09-22T08:57:30Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
-- Pushed At: 2026-08-29T11:53:33Z
+- Pushed At: 2026-09-20T01:16:06Z
 
 ## Possible Use Cases
 

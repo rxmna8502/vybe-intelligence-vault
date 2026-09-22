@@ -1,19 +1,34 @@
 ---
-title: "GabrieleBosi/lodestar-coach"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "TypeScript", "Tailwind CSS", "Google Gen AI SDK", "Supabase", "PostgreSQL", "pgvector", "zod", "GitHub Actions", "Netlify"]
+title: GabrieleBosi/lodestar-coach
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Google Gen AI SDK
+- Supabase
+- PostgreSQL
+- pgvector
+- zod
+- GitHub Actions
+- Netlify
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Agentic AI", "Health Coach", "Evaluation Harness", "Safety Guardrails"]
-source: "https://github.com/GabrieleBosi/lodestar-coach"
+deployment_complexity: Medium
+tags:
+- RAG
+- Agentic AI
+- Health Coach
+- Evaluation Harness
+- Safety Guardrails
+source: https://github.com/GabrieleBosi/lodestar-coach
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T14:01:57Z"
-discovered_at: "2026-08-05T14:06:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T14:01:57Z'
+discovered_at: '2026-08-05T14:06:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

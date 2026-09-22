@@ -1,19 +1,28 @@
 ---
-title: "rjboer/OMRON-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "OMRON Sysmac Studio", "GitHub Actions"]
+title: rjboer/OMRON-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- OMRON Sysmac Studio
+- GitHub Actions
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["PLC development", "AI integration", "OMRON Sysmac", "MCP server", "industrial automation"]
-source: "https://github.com/rjboer/OMRON-MCP"
+deployment_complexity: Medium
+tags:
+- PLC development
+- AI integration
+- OMRON Sysmac
+- MCP server
+- industrial automation
+source: https://github.com/rjboer/OMRON-MCP
 stars: 0
-language: "Go"
-last_updated: "2026-08-02T21:51:01Z"
-discovered_at: "2026-08-02T21:55:43Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T21:51:01Z'
+discovered_at: '2026-08-02T21:55:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

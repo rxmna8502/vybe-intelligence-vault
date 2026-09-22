@@ -1,19 +1,29 @@
 ---
-title: "golproductions/check-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "npm", "REST API"]
+title: golproductions/check-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
+- REST API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["command validation", "AI safety", "MCP server", "shell firewall", "agent security"]
-source: "https://github.com/golproductions/check-mcp"
+deployment_complexity: Low
+tags:
+- command validation
+- AI safety
+- MCP server
+- shell firewall
+- agent security
+source: https://github.com/golproductions/check-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-11T13:11:48Z"
-discovered_at: "2026-07-11T13:14:31Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-11T13:11:48Z'
+discovered_at: '2026-07-11T13:14:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

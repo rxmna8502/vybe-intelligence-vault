@@ -1,19 +1,50 @@
 ---
-title: "aws-samples/sample-genai-on-eks-starter-kit"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Amazon EKS", "Kubernetes", "Terraform", "vLLM", "SGLang", "Ollama", "LiteLLM", "Qdrant", "Chroma", "Milvus", "Text Embedding Inference (TEI)", "Langfuse", "Phoenix", "Open WebUI", "n8n", "OpenClaw", "FastMCP", "Strands Agents", "Agno", "NVIDIA Dynamo", "Prometheus", "Grafana", "Docker", "Helm", "Node.js", "AWS CLI"]
+title: aws-samples/sample-genai-on-eks-starter-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Amazon EKS
+- Kubernetes
+- Terraform
+- vLLM
+- SGLang
+- Ollama
+- LiteLLM
+- Qdrant
+- Chroma
+- Milvus
+- Text Embedding Inference (TEI)
+- Langfuse
+- Phoenix
+- Open WebUI
+- n8n
+- OpenClaw
+- FastMCP
+- Strands Agents
+- Agno
+- NVIDIA Dynamo
+- Prometheus
+- Grafana
+- Docker
+- Helm
+- Node.js
+- AWS CLI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["Kubernetes", "LLM Deployment", "Vector Database", "AI Gateway", "GPU Acceleration"]
-source: "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
+deployment_complexity: High
+tags:
+- Kubernetes
+- LLM Deployment
+- Vector Database
+- AI Gateway
+- GPU Acceleration
+source: https://github.com/aws-samples/sample-genai-on-eks-starter-kit
 stars: 93
-language: "JavaScript"
-last_updated: "2026-08-09T07:44:41Z"
-discovered_at: "2026-08-09T07:59:47Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T07:44:41Z'
+discovered_at: '2026-08-09T07:59:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

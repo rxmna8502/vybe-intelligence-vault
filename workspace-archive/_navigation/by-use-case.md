@@ -58,7 +58,6 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Script Automations & External API Integration
 
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `automation-workflows` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `automation-workflows` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `automation-workflows` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Category: `automation-workflows` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
@@ -66,10 +65,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (Category: `automation-workflows` | [`Local File`](../../ai/rag/run-llama-llama-deploy.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `automation-workflows` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `automation-workflows` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Category: `automation-workflows` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `frontend-ai-ui` | [`Local File`](../../ai/rag/elevenlabs-github.md))
@@ -77,6 +76,7 @@ This index groups resources by direct developer use-cases and design goals.
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
 - [Latent Preference Modeling for Multi-Session Personalized Tool Calling](https://arxiv.org/abs/2604.17886) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2604-17886.md))
 - [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2608-22793.md))
+- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 
 ## WebGL / WebGPU 3D Experiences & Creative Design
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](https://arxiv.org/abs/2608.28649) (Category: `learning-paths` | [`Local File`](../../ai/rag/arxiv-2608-28649.md))
 
 ---
-*Last updated: 2026-09-22 11:00 IST*
+*Last updated: 2026-09-22 19:21 IST*

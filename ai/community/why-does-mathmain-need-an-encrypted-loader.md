@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:why-does-mathmain-need-an-encrypted-loader
 first_seen: '2026-09-22T02:01:00.642608+05:30'
 last_seen: '2026-09-22T10:38:31.520418+05:30'
 last_checked: '2026-09-22T10:38:31.520418+05:30'
 health_score: 100
 ---
+
 
 # Why does mathmain need an encrypted loader?
 

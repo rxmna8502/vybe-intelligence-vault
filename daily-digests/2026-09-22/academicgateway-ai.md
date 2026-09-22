@@ -1,19 +1,34 @@
 ---
-title: "TarekMineRoyal/AcademicGateway-AI"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["FastAPI", "LanceDB", "Nomic-Embed-Text", "PyTorch", "Python 3.13", "Pydantic", "Docker", "CUDA (GPU acceleration)", "PyArrow", "Structured Logging"]
+title: TarekMineRoyal/AcademicGateway-AI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- FastAPI
+- LanceDB
+- Nomic-Embed-Text
+- PyTorch
+- Python 3.13
+- Pydantic
+- Docker
+- CUDA (GPU acceleration)
+- PyArrow
+- Structured Logging
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["vector search", "semantic matchmaking", "embedding microservice", "LanceDB", "Nomic embeddings"]
-source: "https://github.com/TarekMineRoyal/AcademicGateway-AI"
+deployment_complexity: Medium
+tags:
+- vector search
+- semantic matchmaking
+- embedding microservice
+- LanceDB
+- Nomic embeddings
+source: https://github.com/TarekMineRoyal/AcademicGateway-AI
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T01:28:29Z"
-discovered_at: "2026-08-09T01:34:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:28:29Z'
+discovered_at: '2026-08-09T01:34:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

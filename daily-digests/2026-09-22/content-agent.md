@@ -1,19 +1,34 @@
 ---
-title: "tmtabor/content-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Jinja2", "HTMX", "Pydantic AI", "Ollama", "SQLite", "SkyPilot", "uv", "pytest"]
+title: tmtabor/content-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- Jinja2
+- HTMX
+- Pydantic AI
+- Ollama
+- SQLite
+- SkyPilot
+- uv
+- pytest
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["content generation", "multi-brand", "local LLM", "Bluesky integration", "newsletter automation"]
-source: "https://github.com/tmtabor/content-agent"
+deployment_complexity: Medium
+tags:
+- content generation
+- multi-brand
+- local LLM
+- Bluesky integration
+- newsletter automation
+source: https://github.com/tmtabor/content-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T19:23:07Z"
-discovered_at: "2026-08-04T19:32:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T19:23:07Z'
+discovered_at: '2026-08-04T19:32:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

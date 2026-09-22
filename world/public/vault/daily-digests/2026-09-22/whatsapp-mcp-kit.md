@@ -1,19 +1,31 @@
 ---
-title: "tonydzi/whatsapp-mcp-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "Python", "Baileys (WhatsApp Web API)", "MCP (Model Context Protocol)", "npm", "Pillow (Python imaging library)", "qrcode (Python library)"]
+title: tonydzi/whatsapp-mcp-kit
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Node.js
+- Python
+- Baileys (WhatsApp Web API)
+- MCP (Model Context Protocol)
+- npm
+- Pillow (Python imaging library)
+- qrcode (Python library)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["WhatsApp integration", "MCP client", "QR code pairing", "AI assistant tools", "production-ready"]
-source: "https://github.com/tonydzi/whatsapp-mcp-kit"
+deployment_complexity: Medium
+tags:
+- WhatsApp integration
+- MCP client
+- QR code pairing
+- AI assistant tools
+- production-ready
+source: https://github.com/tonydzi/whatsapp-mcp-kit
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T16:03:26Z"
-discovered_at: "2026-08-10T16:07:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T16:03:26Z'
+discovered_at: '2026-08-10T16:07:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

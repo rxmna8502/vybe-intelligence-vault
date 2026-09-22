@@ -1,19 +1,37 @@
 ---
-title: "logan-suu/Agora"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Next.js", "DeepSeek Harness", "MCP (Model Context Protocol)", "Docker", "Git", "React", "SSE (Server-Sent Events)", "JSON State Persistence", "pnpm", "Vitest", "Biome"]
+title: logan-suu/Agora
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- Next.js
+- DeepSeek Harness
+- MCP (Model Context Protocol)
+- Docker
+- Git
+- React
+- SSE (Server-Sent Events)
+- JSON State Persistence
+- pnpm
+- Vitest
+- Biome
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent collaboration", "human-in-the-loop", "coding workflow automation", "role-based orchestration", "AI-driven software development"]
-source: "https://github.com/logan-suu/Agora"
+deployment_complexity: Medium
+tags:
+- multi-agent collaboration
+- human-in-the-loop
+- coding workflow automation
+- role-based orchestration
+- AI-driven software development
+source: https://github.com/logan-suu/Agora
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-02T22:09:38Z"
-discovered_at: "2026-09-02T22:20:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:09:38Z'
+discovered_at: '2026-09-02T22:20:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

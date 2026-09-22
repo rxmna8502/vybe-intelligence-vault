@@ -1,19 +1,31 @@
 ---
-title: "maximoai-co/maximo-syntax-desktop"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "React", "Vite", "TypeScript", "Node.js", "PTY Terminal", "Git"]
+title: maximoai-co/maximo-syntax-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Electron
+- React
+- Vite
+- TypeScript
+- Node.js
+- PTY Terminal
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI workspace", "desktop application", "agentic workflows", "local-first", "multi-provider authentication"]
-source: "https://github.com/maximoai-co/maximo-syntax-desktop"
+deployment_complexity: Medium
+tags:
+- AI workspace
+- desktop application
+- agentic workflows
+- local-first
+- multi-provider authentication
+source: https://github.com/maximoai-co/maximo-syntax-desktop
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T22:51:02Z"
-discovered_at: "2026-08-04T23:04:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T22:51:02Z'
+discovered_at: '2026-08-04T23:04:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "hoox-sh/hoox"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Cloudflare Workers", "Durable Objects", "D1 (Cloudflare SQL)", "KV (Cloudflare Key-Value Store)", "R2 (Cloudflare Object Storage)", "Service Bindings", "Docker", "Git Submodules"]
+title: hoox-sh/hoox
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Bun
+- Cloudflare Workers
+- Durable Objects
+- D1 (Cloudflare SQL)
+- KV (Cloudflare Key-Value Store)
+- R2 (Cloudflare Object Storage)
+- Service Bindings
+- Docker
+- Git Submodules
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["trading framework", "edge computing", "serverless", "low-latency", "algorithmic trading"]
-source: "https://github.com/hoox-sh/hoox"
+deployment_complexity: Medium
+tags:
+- trading framework
+- edge computing
+- serverless
+- low-latency
+- algorithmic trading
+source: https://github.com/hoox-sh/hoox
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-03T20:17:22Z"
-discovered_at: "2026-08-03T20:28:35Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T20:17:22Z'
+discovered_at: '2026-08-03T20:28:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "DanieldfMedina/GenAI-Course-Repo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["LangChain", "Hugging Face", "Python", "C++", "Unreal Engine 4"]
+title: DanieldfMedina/GenAI-Course-Repo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- LangChain
+- Hugging Face
+- Python
+- C++
+- Unreal Engine 4
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Generative AI", "LangChain", "Hugging Face", "Tutorials", "Unreal Engine"]
-source: "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+deployment_complexity: Medium
+tags:
+- Generative AI
+- LangChain
+- Hugging Face
+- Tutorials
+- Unreal Engine
+source: https://github.com/DanieldfMedina/GenAI-Course-Repo
 stars: 0
-language: "C++"
-last_updated: "2026-08-09T11:29:46Z"
-discovered_at: "2026-08-09T11:32:42Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-09T11:29:46Z'
+discovered_at: '2026-08-09T11:32:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

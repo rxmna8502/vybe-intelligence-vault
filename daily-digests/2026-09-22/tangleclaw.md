@@ -1,19 +1,37 @@
 ---
-title: "Jason-Vaughan/TangleClaw"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "tmux", "Caddy", "PWA", "JSON", "launchd", "Claude Code", "Codex", "Antigravity", "Aider", "OpenClaw", "Prawduct"]
+title: Jason-Vaughan/TangleClaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JavaScript
+- Node.js
+- tmux
+- Caddy
+- PWA
+- JSON
+- launchd
+- Claude Code
+- Codex
+- Antigravity
+- Aider
+- OpenClaw
+- Prawduct
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI session persistence", "multi-engine management", "methodology enforcement", "remote access", "tmux integration"]
-source: "https://github.com/Jason-Vaughan/TangleClaw"
+deployment_complexity: Medium
+tags:
+- AI session persistence
+- multi-engine management
+- methodology enforcement
+- remote access
+- tmux integration
+source: https://github.com/Jason-Vaughan/TangleClaw
 stars: 7
-language: "JavaScript"
-last_updated: "2026-07-10T18:13:27Z"
-discovered_at: "2026-07-10T18:22:37Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T18:13:27Z'
+discovered_at: '2026-07-10T18:22:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

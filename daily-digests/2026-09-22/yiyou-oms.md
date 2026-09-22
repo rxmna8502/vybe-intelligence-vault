@@ -1,19 +1,40 @@
 ---
-title: "heathjuice/yiyou-oms"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "FTS5 (Full-Text Search)", "Telegram API", "Discord API", "Slack API", "Whisper (Speech-to-Text)", "Docker", "Modal", "Daytona", "Singularity", "OpenRouter", "Hugging Face", "OpenAI API", "ElevenLabs (TTS)"]
+title: heathjuice/yiyou-oms
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- FTS5 (Full-Text Search)
+- Telegram API
+- Discord API
+- Slack API
+- Whisper (Speech-to-Text)
+- Docker
+- Modal
+- Daytona
+- Singularity
+- OpenRouter
+- Hugging Face
+- OpenAI API
+- ElevenLabs (TTS)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-improving agent", "multi-platform deployment", "skill learning", "LLM integration", "autonomous memory"]
-source: "https://github.com/heathjuice/yiyou-oms"
+deployment_complexity: Medium
+tags:
+- self-improving agent
+- multi-platform deployment
+- skill learning
+- LLM integration
+- autonomous memory
+source: https://github.com/heathjuice/yiyou-oms
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T11:51:27Z"
-discovered_at: "2026-07-12T11:58:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T11:51:27Z'
+discovered_at: '2026-07-12T11:58:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

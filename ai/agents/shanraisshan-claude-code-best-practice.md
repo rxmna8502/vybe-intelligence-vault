@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/claude-code-best-practice
-collected_at: '2026-09-03T04:17:51.061857+05:30'
-published_at: '2026-09-02T22:12:48Z'
+collected_at: '2026-09-22T19:05:12.878455+05:30'
+published_at: '2026-09-22T13:24:07Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - html
 - workflows
-stars: 65556
+stars: 66225
 language: HTML
 status: active
 license: MIT
 archived: false
 created_at: '2025-10-31T14:15:28Z'
-pushed_at: '2026-09-02T06:38:53Z'
+pushed_at: '2026-09-22T06:38:23Z'
 resource_id: github:shanraisshan/claude-code-best-practice
-first_seen: '2026-09-03T04:17:51.061857+05:30'
-last_seen: '2026-09-03T04:17:51.061857+05:30'
-last_checked: '2026-09-03T04:17:51.061857+05:30'
+first_seen: '2026-09-22T19:05:12.878455+05:30'
+last_seen: '2026-09-22T19:05:12.878455+05:30'
+last_checked: '2026-09-22T19:05:12.878455+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,7 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated best practices for optimizing Claude Code agents, transitioning from "vibe coding" to structured agentic engineering workflows.
-- **Technical Focus**: Provides structured guidelines for `claude-code` commands, skills, and agentic workflows, emphasizing context engineering and AI-driven development.
-- **Community & Resources**: Highly starred (65.5k) repository with 6.5k forks, serving as a central hub for Pakistani developers and global contributors to enhance AI agent proficiency.
+*   Details best practices for transitioning from ad-hoc "vibe coding" to structured agentic engineering workflows with
 
 ## Why It Matters
 
@@ -42,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: shanraisshan
-- Stars: 65556
-- Forks: 6523
+- Stars: 66225
+- Forks: 6580
 - Language: HTML
 - Topics: agentic-ai, agentic-coding, agentic-engineering, agentic-workflow, ai, ai-agents, anthropic, best-practices, boris, claude, claude-ai, claude-code, claude-code-agents, claude-code-best-practices, claude-code-commands, claude-code-skills, context-engineering, pakistan, pakistani-developer, vibe-coding
-- Last Updated: 2026-09-02T22:12:48Z
+- Last Updated: 2026-09-22T13:24:07Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-31T14:15:28Z
-- Pushed At: 2026-09-02T06:38:53Z
+- Pushed At: 2026-09-22T06:38:23Z
 
 ## Possible Use Cases
 

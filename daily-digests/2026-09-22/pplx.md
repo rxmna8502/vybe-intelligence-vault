@@ -1,19 +1,29 @@
 ---
-title: "sgaunet/pplx"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "YAML", "Shell Completion", "MCP (Model Context Protocol)", "GitHub Actions"]
+title: sgaunet/pplx
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- YAML
+- Shell Completion
+- MCP (Model Context Protocol)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["CLI", "Perplexity API", "Shell Completion", "MCP Integration", "AI Query Tool"]
-source: "https://github.com/sgaunet/pplx"
+deployment_complexity: Low
+tags:
+- CLI
+- Perplexity API
+- Shell Completion
+- MCP Integration
+- AI Query Tool
+source: https://github.com/sgaunet/pplx
 stars: 18
-language: "Go"
-last_updated: "2026-09-01T19:05:24Z"
-discovered_at: "2026-09-01T19:08:45Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T19:05:24Z'
+discovered_at: '2026-09-01T19:08:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

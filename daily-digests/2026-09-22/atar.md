@@ -1,19 +1,32 @@
 ---
-title: "shinthink/atar"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12+", "prompt_toolkit", "Rich", "OpenAI-compatible API", "DuckDuckGo (web_search)", "uv (package manager)", "JSON (config/storage)", "Terminal UI libraries"]
+title: shinthink/atar
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python 3.12+
+- prompt_toolkit
+- Rich
+- OpenAI-compatible API
+- DuckDuckGo (web_search)
+- uv (package manager)
+- JSON (config/storage)
+- Terminal UI libraries
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agent", "terminal interface", "local-first", "multi-provider", "tool execution"]
-source: "https://github.com/shinthink/atar"
+deployment_complexity: Medium
+tags:
+- autonomous agent
+- terminal interface
+- local-first
+- multi-provider
+- tool execution
+source: https://github.com/shinthink/atar
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T10:41:52Z"
-discovered_at: "2026-08-03T10:43:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T10:41:52Z'
+discovered_at: '2026-08-03T10:43:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

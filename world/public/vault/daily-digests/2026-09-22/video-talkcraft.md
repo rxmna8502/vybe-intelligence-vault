@@ -1,19 +1,33 @@
 ---
-title: "Vincentwei1021/video-talkcraft"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Node.js", "Remotion", "FireRedASR2-CTC", "faster-whisper", "OpenCV", "React", "FFmpeg", "Sherpa-ONNX"]
+title: Vincentwei1021/video-talkcraft
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Python
+- Node.js
+- Remotion
+- FireRedASR2-CTC
+- faster-whisper
+- OpenCV
+- React
+- FFmpeg
+- Sherpa-ONNX
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI video generation", "motion graphics", "voiceover synchronization", "Remotion framework", "agent skill"]
-source: "https://github.com/Vincentwei1021/video-talkcraft"
+deployment_complexity: Medium
+tags:
+- AI video generation
+- motion graphics
+- voiceover synchronization
+- Remotion framework
+- agent skill
+source: https://github.com/Vincentwei1021/video-talkcraft
 stars: 492
-language: "HTML"
-last_updated: "2026-09-01T15:48:37Z"
-discovered_at: "2026-09-01T15:54:33Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T15:48:37Z'
+discovered_at: '2026-09-01T15:54:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

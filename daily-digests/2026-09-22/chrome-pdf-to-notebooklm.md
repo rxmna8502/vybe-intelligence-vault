@@ -1,19 +1,28 @@
 ---
-title: "potayuz/chrome-pdf-to-notebooklm"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Chrome Extensions API", "Text-to-Speech (TTS)", "PDF.js"]
+title: potayuz/chrome-pdf-to-notebooklm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- JavaScript
+- Chrome Extensions API
+- Text-to-Speech (TTS)
+- PDF.js
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["PDF conversion", "NotebookLM integration", "Chrome extension", "audio summarization", "document processing"]
-source: "https://github.com/potayuz/chrome-pdf-to-notebooklm"
+deployment_complexity: Low
+tags:
+- PDF conversion
+- NotebookLM integration
+- Chrome extension
+- audio summarization
+- document processing
+source: https://github.com/potayuz/chrome-pdf-to-notebooklm
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-12T23:47:06Z"
-discovered_at: "2026-07-12T23:52:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-12T23:47:06Z'
+discovered_at: '2026-07-12T23:52:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

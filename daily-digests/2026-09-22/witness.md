@@ -1,19 +1,33 @@
 ---
-title: "IngTian/witness"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "ONNX Runtime", "Claude Code", "OpenCode", "Embeddings (multilingual)", "JSON", "Markdown"]
+title: IngTian/witness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- SQLite
+- MCP (Model Context Protocol)
+- ONNX Runtime
+- Claude Code
+- OpenCode
+- Embeddings (multilingual)
+- JSON
+- Markdown
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-improvement", "MCP server", "session distillation", "person-centric memory", "coding habits"]
-source: "https://github.com/IngTian/witness"
+deployment_complexity: Medium
+tags:
+- self-improvement
+- MCP server
+- session distillation
+- person-centric memory
+- coding habits
+source: https://github.com/IngTian/witness
 stars: 8
-language: "Go"
-last_updated: "2026-07-17T23:49:47Z"
-discovered_at: "2026-07-17T23:51:59Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-17T23:49:47Z'
+discovered_at: '2026-07-17T23:51:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,40 @@
 ---
-title: "Leo-sail/yunspire"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "TypeScript", "Node.js", "Tauri", "SQLite", "Obsidian", "Python", "Vite", "Lucide", "PDFKit", "AVFoundation", "Media Foundation", "SAPI", "FTS", "RRF", "GitHub Actions"]
+title: Leo-sail/yunspire
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- TypeScript
+- Node.js
+- Tauri
+- SQLite
+- Obsidian
+- Python
+- Vite
+- Lucide
+- PDFKit
+- AVFoundation
+- Media Foundation
+- SAPI
+- FTS
+- RRF
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["local-first", "knowledge management", "agent framework", "Obsidian integration", "RAG pipeline"]
-source: "https://github.com/Leo-sail/yunspire"
+deployment_complexity: High
+tags:
+- local-first
+- knowledge management
+- agent framework
+- Obsidian integration
+- RAG pipeline
+source: https://github.com/Leo-sail/yunspire
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-09T07:57:46Z"
-discovered_at: "2026-08-09T07:58:28Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T07:57:46Z'
+discovered_at: '2026-08-09T07:58:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

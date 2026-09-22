@@ -1,19 +1,38 @@
 ---
-title: "sameeeeeeep/switchboard"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Swift", "Electron", "React", "Node.js", "MCP (Model Context Protocol)", "Ollama", "LM Studio", "Kyutai Pocket TTS", "Whisper", "WebExtensions API", "MV3", "Docker", "SQLite"]
+title: sameeeeeeep/switchboard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Swift
+- Electron
+- React
+- Node.js
+- MCP (Model Context Protocol)
+- Ollama
+- LM Studio
+- Kyutai Pocket TTS
+- Whisper
+- WebExtensions API
+- MV3
+- Docker
+- SQLite
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["AI orchestration", "local inference", "consent broker", "browser extension", "privacy-first"]
-source: "https://github.com/sameeeeeeep/switchboard"
+deployment_complexity: High
+tags:
+- AI orchestration
+- local inference
+- consent broker
+- browser extension
+- privacy-first
+source: https://github.com/sameeeeeeep/switchboard
 stars: 1
-language: "Swift"
-last_updated: "2026-08-05T11:10:58Z"
-discovered_at: "2026-08-05T11:22:23Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-08-05T11:10:58Z'
+discovered_at: '2026-08-05T11:22:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

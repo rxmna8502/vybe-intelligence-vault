@@ -1,19 +1,31 @@
 ---
-title: "irisxc4/memoryguard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "CLI", "Desktop GUI", "Mermaid.js (for diagrams)", "PyPI (for distribution)"]
+title: irisxc4/memoryguard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- CLI
+- Desktop GUI
+- Mermaid.js (for diagrams)
+- PyPI (for distribution)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["memory governance", "coding agents", "local-first", "reversible memory", "MCP integration"]
-source: "https://github.com/irisxc4/memoryguard"
+deployment_complexity: Medium
+tags:
+- memory governance
+- coding agents
+- local-first
+- reversible memory
+- MCP integration
+source: https://github.com/irisxc4/memoryguard
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T17:35:17Z"
-discovered_at: "2026-08-05T14:07:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T17:35:17Z'
+discovered_at: '2026-08-05T14:07:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

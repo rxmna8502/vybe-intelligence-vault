@@ -1,19 +1,31 @@
 ---
-title: "soos3d/x-poster"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["OpenClaw", "Shell", "Telegram Bot API", "X (Twitter) API", "GitHub CLI", "Python", "Markdown"]
+title: soos3d/x-poster
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- OpenClaw
+- Shell
+- Telegram Bot API
+- X (Twitter) API
+- GitHub CLI
+- Python
+- Markdown
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["automation", "social media", "content generation", "personal agent", "open source"]
-source: "https://github.com/soos3d/x-poster"
+deployment_complexity: Medium
+tags:
+- automation
+- social media
+- content generation
+- personal agent
+- open source
+source: https://github.com/soos3d/x-poster
 stars: 0
-language: "Shell"
-last_updated: "2026-08-04T15:32:27Z"
-discovered_at: "2026-08-04T15:34:30Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-04T15:32:27Z'
+discovered_at: '2026-08-04T15:34:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

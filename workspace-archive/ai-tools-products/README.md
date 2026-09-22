@@ -25,7 +25,7 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [continuedev/continue](https://github.com/continuedev/continue)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-09-22 11:00 IST*
+*Last updated: 2026-09-22 19:21 IST*

@@ -1,19 +1,36 @@
 ---
-title: "varadharajaan/agentix-platform"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "LangChain", "MongoDB Atlas Vector Search", "Kubernetes", "Istio Ambient Mesh", "AgentGateway", "Keycloak", "Kyverno", "LangSmith", "Phoenix", "Langfuse"]
+title: varadharajaan/agentix-platform
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- LangGraph
+- LangChain
+- MongoDB Atlas Vector Search
+- Kubernetes
+- Istio Ambient Mesh
+- AgentGateway
+- Keycloak
+- Kyverno
+- LangSmith
+- Phoenix
+- Langfuse
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["Agent Orchestration", "Kubernetes-native", "Multi-tenant", "LangGraph", "Production-grade"]
-source: "https://github.com/varadharajaan/agentix-platform"
+deployment_complexity: High
+tags:
+- Agent Orchestration
+- Kubernetes-native
+- Multi-tenant
+- LangGraph
+- Production-grade
+source: https://github.com/varadharajaan/agentix-platform
 stars: 0
-language: "Shell"
-last_updated: "2026-08-08T15:25:48Z"
-discovered_at: "2026-08-08T15:32:37Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-08T15:25:48Z'
+discovered_at: '2026-08-08T15:32:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

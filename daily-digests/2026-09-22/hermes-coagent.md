@@ -1,19 +1,34 @@
 ---
-title: "Predator04/Hermes-CoAgent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "Playwright", "UI Automation (UIA)", "OCR (Optical Character Recognition)", "Windows API", "MCP (Model Context Protocol)", "REST API", "SSE (Server-Sent Events)", "Docker (implied via one-click deploy)"]
+title: Predator04/Hermes-CoAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Flask
+- Playwright
+- UI Automation (UIA)
+- OCR (Optical Character Recognition)
+- Windows API
+- MCP (Model Context Protocol)
+- REST API
+- SSE (Server-Sent Events)
+- Docker (implied via one-click deploy)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["desktop automation", "AI agent control", "REST API", "Windows automation", "MCP bridge"]
-source: "https://github.com/Predator04/Hermes-CoAgent"
+deployment_complexity: Medium
+tags:
+- desktop automation
+- AI agent control
+- REST API
+- Windows automation
+- MCP bridge
+source: https://github.com/Predator04/Hermes-CoAgent
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T15:34:04Z"
-discovered_at: "2026-09-03T15:35:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:34:04Z'
+discovered_at: '2026-09-03T15:35:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

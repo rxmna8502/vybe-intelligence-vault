@@ -1,19 +1,29 @@
 ---
-title: "BelyaevAD/beget-hosting-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Beget Hosting API", "JSON-RPC", "CI/CD (GitHub Actions)"]
+title: BelyaevAD/beget-hosting-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Beget Hosting API
+- JSON-RPC
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "hosting automation", "API integration", "DevOps tooling", "cloud management"]
-source: "https://github.com/BelyaevAD/beget-hosting-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- hosting automation
+- API integration
+- DevOps tooling
+- cloud management
+source: https://github.com/BelyaevAD/beget-hosting-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-20T17:50:46Z"
-discovered_at: "2026-07-20T18:00:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T17:50:46Z'
+discovered_at: '2026-07-20T18:00:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

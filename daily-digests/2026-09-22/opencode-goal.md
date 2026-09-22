@@ -1,19 +1,28 @@
 ---
-title: "beremaran/opencode-goal"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "OpenCode Plugin API", "npm"]
+title: beremaran/opencode-goal
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Node.js
+- OpenCode Plugin API
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["persistent workflows", "goal evaluation", "OpenCode plugin", "autonomous agents", "session persistence"]
-source: "https://github.com/beremaran/opencode-goal"
+deployment_complexity: Medium
+tags:
+- persistent workflows
+- goal evaluation
+- OpenCode plugin
+- autonomous agents
+- session persistence
+source: https://github.com/beremaran/opencode-goal
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T14:58:32Z"
-discovered_at: "2026-08-02T15:02:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T14:58:32Z'
+discovered_at: '2026-08-02T15:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

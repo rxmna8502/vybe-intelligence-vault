@@ -1,19 +1,29 @@
 ---
-title: "indigokarasu/look"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OCR", "NLP", "Computer Vision", "Shell"]
+title: indigokarasu/look
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- OCR
+- NLP
+- Computer Vision
+- Shell
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["image-to-action", "intent inference", "OCR", "disambiguation", "user confirmation"]
-source: "https://github.com/indigokarasu/look"
+deployment_complexity: Medium
+tags:
+- image-to-action
+- intent inference
+- OCR
+- disambiguation
+- user confirmation
+source: https://github.com/indigokarasu/look
 stars: 0
-language: "Shell"
-last_updated: "2026-07-21T04:04:49Z"
-discovered_at: "2026-07-21T04:14:43Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-21T04:04:49Z'
+discovered_at: '2026-07-21T04:14:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

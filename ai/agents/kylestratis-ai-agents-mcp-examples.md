@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kylestratis/ai_agents_mcp_examples
-collected_at: '2026-08-18T12:43:27.592061+05:30'
-published_at: '2026-08-17T19:47:06Z'
+collected_at: '2026-09-22T19:05:12.931883+05:30'
+published_at: '2026-09-18T03:01:51Z'
 tags:
 - agents
 - github-repo
@@ -16,11 +16,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-04-26T13:16:14Z'
-pushed_at: '2026-08-17T19:44:17Z'
+pushed_at: '2026-09-18T03:01:46Z'
 resource_id: github:kylestratis/ai_agents_mcp_examples
-first_seen: '2026-08-18T12:43:27.592061+05:30'
-last_seen: '2026-08-18T12:43:27.592061+05:30'
-last_checked: '2026-08-18T12:43:27.592061+05:30'
+first_seen: '2026-09-22T19:05:12.931883+05:30'
+last_seen: '2026-09-22T19:05:12.931883+05:30'
+last_checked: '2026-09-22T19:05:12.931883+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,7 @@ health_score: 100
 
 ## Summary
 
-*   Python repository demonstrating AI agent implementations.
-*   Focuses on examples related to "MCP
+*   Python-based repository providing examples for AI agent implementations, likely focusing on Multi-Agent Control
 
 ## Why It Matters
 
@@ -39,14 +38,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: kylestratis
 - Stars: 56
-- Forks: 25
+- Forks: 28
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-17T19:47:06Z
+- Last Updated: 2026-09-18T03:01:51Z
 - License: MIT
 - Archived: No
 - Created At: 2025-04-26T13:16:14Z
-- Pushed At: 2026-08-17T19:44:17Z
+- Pushed At: 2026-09-18T03:01:46Z
 
 ## Possible Use Cases
 

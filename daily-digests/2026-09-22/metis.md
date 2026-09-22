@@ -1,19 +1,32 @@
 ---
-title: "linyeping/Metis"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Python", "Flask", "SSE (Server-Sent Events)", "Zustand", "PyInstaller"]
+title: linyeping/Metis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Python
+- Flask
+- SSE (Server-Sent Events)
+- Zustand
+- PyInstaller
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Desktop AI Agent", "Local-First", "Multi-Tool Orchestration", "Evidence-Based Execution", "Windows Integration"]
-source: "https://github.com/linyeping/Metis"
+deployment_complexity: Medium
+tags:
+- Desktop AI Agent
+- Local-First
+- Multi-Tool Orchestration
+- Evidence-Based Execution
+- Windows Integration
+source: https://github.com/linyeping/Metis
 stars: 4
-language: "Python"
-last_updated: "2026-07-11T15:51:19Z"
-discovered_at: "2026-07-11T15:54:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T15:51:19Z'
+discovered_at: '2026-07-11T15:54:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

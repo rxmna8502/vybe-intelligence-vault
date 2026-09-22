@@ -1,19 +1,32 @@
 ---
-title: "LunarWerxs/AgentHydra"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Electron", "MCP (Model Context Protocol)", "SQLite", "JSONL", "React", "Node.js"]
+title: LunarWerxs/AgentHydra
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- TypeScript
+- Bun
+- Electron
+- MCP (Model Context Protocol)
+- SQLite
+- JSONL
+- React
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI session management", "local orchestration", "multi-provider support", "MCP integration", "private RAG"]
-source: "https://github.com/LunarWerxs/AgentHydra"
+deployment_complexity: Medium
+tags:
+- AI session management
+- local orchestration
+- multi-provider support
+- MCP integration
+- private RAG
+source: https://github.com/LunarWerxs/AgentHydra
 stars: 12
-language: "TypeScript"
-last_updated: "2026-08-03T02:40:22Z"
-discovered_at: "2026-08-03T02:54:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T02:40:22Z'
+discovered_at: '2026-08-03T02:54:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

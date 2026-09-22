@@ -1,19 +1,31 @@
 ---
-title: "ZHAO0424/unity-cli-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Unity CLI", "Unity 6.0+", "com.unity.pipeline", "Claude Code", "C#", "NUnit", "Git"]
+title: ZHAO0424/unity-cli-skill
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- Unity CLI
+- Unity 6.0+
+- com.unity.pipeline
+- Claude Code
+- C#
+- NUnit
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Unity automation", "AI agent integration", "CLI tooling", "Game development", "Editor scripting"]
-source: "https://github.com/ZHAO0424/unity-cli-skill"
+deployment_complexity: Medium
+tags:
+- Unity automation
+- AI agent integration
+- CLI tooling
+- Game development
+- Editor scripting
+source: https://github.com/ZHAO0424/unity-cli-skill
 stars: 1
-language: "None"
-last_updated: "2026-08-06T06:26:23Z"
-discovered_at: "2026-08-06T06:33:10Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-06T06:26:23Z'
+discovered_at: '2026-08-06T06:33:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

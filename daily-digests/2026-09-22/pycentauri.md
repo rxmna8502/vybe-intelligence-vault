@@ -1,19 +1,36 @@
 ---
-title: "bjan/pycentauri"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "WebSockets", "MQTT", "HTTP/REST", "SSE", "Asyncio", "Typer", "Pydantic", "Paho-MQTT", "Httpx", "MediaMTX", "FFmpeg"]
+title: bjan/pycentauri
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- WebSockets
+- MQTT
+- HTTP/REST
+- SSE
+- Asyncio
+- Typer
+- Pydantic
+- Paho-MQTT
+- Httpx
+- MediaMTX
+- FFmpeg
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["3D printer control", "local network", "MCP server", "REST API", "async client"]
-source: "https://github.com/bjan/pycentauri"
+deployment_complexity: Medium
+tags:
+- 3D printer control
+- local network
+- MCP server
+- REST API
+- async client
+source: https://github.com/bjan/pycentauri
 stars: 20
-language: "Python"
-last_updated: "2026-07-15T05:14:18Z"
-discovered_at: "2026-07-15T05:29:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T05:14:18Z'
+discovered_at: '2026-07-15T05:29:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

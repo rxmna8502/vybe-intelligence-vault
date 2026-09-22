@@ -1,19 +1,31 @@
 ---
-title: "oneKn8/VectorVault"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C++20", "HNSW (Hierarchical Navigable Small World)", "AVX2 SIMD", "Memory-mapped I/O", "REST API (cpp-httplib)", "Python Client", "Docker"]
+title: oneKn8/VectorVault
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- C++20
+- HNSW (Hierarchical Navigable Small World)
+- AVX2 SIMD
+- Memory-mapped I/O
+- REST API (cpp-httplib)
+- Python Client
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector search", "HNSW", "SIMD acceleration", "sub-millisecond latency", "C++20"]
-source: "https://github.com/oneKn8/VectorVault"
+deployment_complexity: Medium
+tags:
+- vector search
+- HNSW
+- SIMD acceleration
+- sub-millisecond latency
+- C++20
+source: https://github.com/oneKn8/VectorVault
 stars: 1
-language: "C++"
-last_updated: "2026-08-09T03:00:43Z"
-discovered_at: "2026-08-09T03:45:42Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-09T03:00:43Z'
+discovered_at: '2026-08-09T03:45:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

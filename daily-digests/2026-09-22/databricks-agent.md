@@ -1,19 +1,33 @@
 ---
-title: "santoshkanthety/databricks-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Databricks SDK", "Claude Code", "FastAPI", "Unity Catalog", "Delta Live Tables", "Spark SQL", "REST API", "CLI"]
+title: santoshkanthety/databricks-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- Databricks SDK
+- Claude Code
+- FastAPI
+- Unity Catalog
+- Delta Live Tables
+- Spark SQL
+- REST API
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Databricks integration", "AI-powered analytics", "Unity Catalog", "Delta Live Tables", "Claude Code skills"]
-source: "https://github.com/santoshkanthety/databricks-agent"
+deployment_complexity: Medium
+tags:
+- Databricks integration
+- AI-powered analytics
+- Unity Catalog
+- Delta Live Tables
+- Claude Code skills
+source: https://github.com/santoshkanthety/databricks-agent
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T14:29:00Z"
-discovered_at: "2026-08-08T14:35:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T14:29:00Z'
+discovered_at: '2026-08-08T14:35:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

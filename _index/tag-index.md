@@ -6777,11 +6777,12 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI Has No Wisdom and Neither Will You](../ai/community/ai-has-no-wisdom-and-neither-will-you.md)
   - [AI coding has made CI a bottleneck, so we reworked ours to keep up](../ai/community/ai-coding-has-made-ci-a-bottleneck-so-we-reworked.md)
-  - [Frontier AI on Your Own Hardware](../ai/community/frontier-ai-on-your-own-hardware.md)
+  - [I said no and Apple said yes](../ai/community/i-said-no-and-apple-said-yes.md)
   - [Python Workers are now generally available](../ai/community/python-workers-are-now-generally-available.md)
   - [Transformers Explained Visually](../ai/community/transformers-explained-visually.md)
-  - [Why does mathmain need an encrypted loader?](../ai/community/why-does-mathmain-need-an-encrypted-loader.md)
+  - [Verda (Finland) raises $189M in Series B](../ai/community/verda-finland-raises-189m-in-series-b.md)
 
 ## animation
 
@@ -23496,6 +23497,7 @@ Resources organized by keyword tags.
   - [ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](../ai/research/arxiv-2510-10774.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
@@ -27534,6 +27536,7 @@ Resources organized by keyword tags.
   - [AI Exposure and AI Resilience: A Two-Dimensional Assessment Framework for Software and Software-Based Business Model](../ai/research/arxiv-2609-11321.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
+  - [AI Has No Wisdom and Neither Will You](../ai/community/ai-has-no-wisdom-and-neither-will-you.md)
   - [AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages](../ai/research/arxiv-2505-10300.md)
   - [AI Literacy for Legal Translation: Developing Digital Resilience](../ai/research/arxiv-2608-04641.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
@@ -28739,7 +28742,6 @@ Resources organized by keyword tags.
   - [From Vessel Trajectories to Safety-Critical Encounter Scenarios: A Generative AI Framework for Autonomous Ship Digital Testing](../ai/agents/arxiv-2603-28067.md)
   - [From Visual Attribution to Clinical Reasoning: Explainable Parkinson's Disease Screening from Hand-Drawn Patterns](../ai/research/arxiv-2609-14441.md)
   - [From a River in Gilead to the Inference Distributions of Large Language Models: Covert Dialect Bias and Linguistic Profiling at Scale](../ai/research/arxiv-2609-18068.md)
-  - [Frontier AI on Your Own Hardware](../ai/community/frontier-ai-on-your-own-hardware.md)
   - [Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction](../ai/research/arxiv-2608-01202.md)
   - [Fruitful Code · GitHub](../ai/resources/fruitful-code-github.md)
   - [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md)
@@ -29066,6 +29068,7 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
+  - [I said no and Apple said yes](../ai/community/i-said-no-and-apple-said-yes.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
@@ -30893,6 +30896,7 @@ Resources organized by keyword tags.
   - [VegSim: A Geospatial World Model for Scenario-Conditioned Vegetation Simulation](../ai/research/arxiv-2606-21961.md)
   - [Verba: Building an Open Source, Modular RAG Application | Weaviate](../ai/rag/verba-building-an-open-source-modular-rag-applicat.md)
   - [Verbalizable Representations Form a Global Workspace in Language Models](../ai/research/arxiv-2607-15495.md)
+  - [Verda (Finland) raises $189M in Series B](../ai/community/verda-finland-raises-189m-in-series-b.md)
   - [Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines](../ai/rag/arxiv-2601-23132.md)
   - [Verizon - YouTube](../ai/resources/verizon-youtube.md)
   - [Versent partners with 6pillars.ai for AWS WAFR automation - techpartner.news](../ai/rag/versent-partners-with-6pillars-ai-for-aws-wafr-aut.md)
@@ -30997,7 +31001,6 @@ Resources organized by keyword tags.
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](../ai/research/arxiv-2608-26182.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
-  - [Why does mathmain need an encrypted loader?](../ai/community/why-does-mathmain-need-an-encrypted-loader.md)
   - [Why not to use the Gaussian kernel](../ai/research/arxiv-2608-26974.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
@@ -31150,7 +31153,6 @@ Resources organized by keyword tags.
   - [gabrielchua/RAGxplorer](../ai/rag/gabrielchua-ragxplorer.md)
   - [gemma3](../ai/resources/gemma3.md)
   - [general relativity - Why do people say that the Einstein equations are PDEs on a manifold? - Physics Stack Exchange](../ai/rag/general-relativity-why-do-people-say-that-the-eins.md)
-  - [ghuntley/how-to-build-a-coding-agent](../ai/agents/ghuntley-how-to-build-a-coding-agent.md)
   - [git/git](../ai/resources/git-git.md)
   - [github/awesome-copilot](../ai/agents/github-awesome-copilot.md)
   - [gkjohnson/threejs-sandbox](../web-development/threejs/gkjohnson-threejs-sandbox.md)
@@ -31269,7 +31271,6 @@ Resources organized by keyword tags.
   - [scadastrangelove/awesome-ai-security-tools](../ai/rag/scadastrangelove-awesome-ai-security-tools.md)
   - [search.lib.utexas.edu](../ai/resources/search-lib-utexas-edu.md)
   - [semantic-mediawiki.org](../ai/rag/semantic-mediawiki-org.md)
-  - [shanraisshan/claude-code-best-practice](../ai/agents/shanraisshan-claude-code-best-practice.md)
   - [slavakurilyak/awesome-ai-agents](../ai/agents/slavakurilyak-awesome-ai-agents.md)
   - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [spaceweather.gfz.de - Space Weather](../ai/resources/spaceweather-gfz-de-space-weather.md)
@@ -32641,6 +32642,7 @@ Resources organized by keyword tags.
   - [Trajectory Geometry of Transformer Representations Across Layers](../ai/research/arxiv-2606-09287.md)
   - [Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR](../ai/rag/arxiv-2606-25178.md)
   - [Transformers converge to invariant algorithmic cores](../ai/research/arxiv-2602-22600.md)
+  - [Transformers now runs llama.cpp quants](../ai/models/huggingface-blog-transformers-llama-cpp-quants.md)
   - [Transformers.js · Hugging Face](../ai/rag/huggingface-docs-transformers-js.md)
   - [TriSP: Tri-Signal Structured Pruning for Large Language Models](../ai/research/arxiv-2607-22587.md)
   - [TriShield: Zero-Utility-Loss Defense Against Privacy Backdoors in Federated Language Model Fine-Tuning via Orthogonal Gradient Projection and Optimizer State Entanglement](../ai/research/arxiv-2607-27940.md)
@@ -38179,6 +38181,7 @@ Resources organized by keyword tags.
   - [Transformers Learn the Mestre-Nagao Heuristic](../ai/research/arxiv-2606-15036.md)
   - [Transformers as In-Context Samplers: From Closed-Form Diffusion to Estimation-Free Sampling](../ai/rag/arxiv-2609-08981.md)
   - [Transformers converge to invariant algorithmic cores](../ai/research/arxiv-2602-22600.md)
+  - [Transformers now runs llama.cpp quants](../ai/models/huggingface-blog-transformers-llama-cpp-quants.md)
   - [Transformers.js · Hugging Face](../ai/rag/huggingface-docs-transformers-js.md)
   - [Transforms for LLM Quantization: The Great Inversion and Format Co-Design](../ai/research/arxiv-2608-25188.md)
   - [Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation](../ai/agents/arxiv-2609-04048.md)
@@ -38681,7 +38684,6 @@ Resources organized by keyword tags.
   - [hLLM: Single Pass Decoding for Generative Reranking](../ai/research/arxiv-2609-01807.md)
   - [hectorpine/multiple-model-crew](../ai/rag/hectorpine-multiple-model-crew.md)
   - [hkunlp/instructor-large · Hugging Face](../ai/rag/huggingface-hkunlp-instructor-large.md)
-  - [huangjia2019/ai-agents](../ai/agents/huangjia2019-ai-agents.md)
   - [huggingface/peft](../ai/resources/huggingface-peft.md)
   - [huggingface/transformers](../ai/resources/huggingface-transformers.md)
   - [iARCS: Iterative Agentic RL for Controllable 3D Scene Generation](../ai/agents/arxiv-2608-06161.md)
@@ -56091,7 +56093,6 @@ Resources organized by keyword tags.
   - [Why Billionaire Wendy Schmidt Is ‘Doubling Down’ On Climate Science In The Age Of Trump](../ai/rag/why-billionaire-wendy-schmidt-is-doubling-down-on.md)
   - [Why Fast-Growing Teams Outgrow Spreadsheets | beezwax blog](../ai/rag/why-fast-growing-teams-outgrow-spreadsheets-beezwa.md)
   - [Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention](../ai/research/arxiv-2510-04212.md)
-  - [Why does mathmain need an encrypted loader?](../ai/community/why-does-mathmain-need-an-encrypted-loader.md)
   - [Woongyeong Yeo](../ai/rag/woongyeong-yeo.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
@@ -56495,6 +56496,7 @@ Resources organized by keyword tags.
   - [Building AI That Works: ESnet's Pragmatic Approach to AI-Driven Operational Excellence](../ai/rag/arxiv-2607-22948.md)
   - [Building RAG-based LLM Applications for Production](../ai/rag/building-rag-based-llm-applications-for-production.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
+  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [CAW | Your Partner in Product Engineering](../ai/resources/caw-your-partner-in-product-engineering.md)
   - [CI/CD for Skills — SuperML.org](../ai/agents/ci-cd-for-skills-superml-org.md)
   - [CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents](../ai/rag/arxiv-2607-14386.md)
@@ -62351,7 +62353,6 @@ Resources organized by keyword tags.
   - [freddy-schuetz/n8n-claw](../ai/rag/freddy-schuetz-n8n-claw.md)
   - [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md)
   - [gabrielchua/RAGxplorer](../ai/rag/gabrielchua-ragxplorer.md)
-  - [ghuntley/how-to-build-a-coding-agent](../ai/agents/ghuntley-how-to-build-a-coding-agent.md)
   - [github/awesome-copilot](../ai/agents/github-awesome-copilot.md)
   - [google-gemini/gemini-cli](../ai/rag/google-gemini-gemini-cli.md)
   - [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md)
@@ -65379,4 +65380,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-22T10:57:33.042352+05:30*
+*Index generated on 2026-09-22T19:18:24.785949+05:30*

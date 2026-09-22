@@ -1,19 +1,32 @@
 ---
-title: "mxsm/rocketmq-rust"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Tokio", "Serde", "RocksDB", "gRPC", "Async Runtime", "CI/CD (GitHub Actions)", "Documentation (DeepWiki, docs.rs)"]
+title: mxsm/rocketmq-rust
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- Tokio
+- Serde
+- RocksDB
+- gRPC
+- Async Runtime
+- CI/CD (GitHub Actions)
+- Documentation (DeepWiki, docs.rs)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["message queue", "distributed systems", "Rust implementation", "high performance", "enterprise messaging"]
-source: "https://github.com/mxsm/rocketmq-rust"
+deployment_complexity: High
+tags:
+- message queue
+- distributed systems
+- Rust implementation
+- high performance
+- enterprise messaging
+source: https://github.com/mxsm/rocketmq-rust
 stars: 1496
-language: "Rust"
-last_updated: "2026-08-07T14:10:35Z"
-discovered_at: "2026-08-07T14:19:09Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T14:10:35Z'
+discovered_at: '2026-08-07T14:19:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

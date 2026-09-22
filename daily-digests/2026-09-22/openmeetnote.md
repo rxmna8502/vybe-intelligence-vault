@@ -1,19 +1,34 @@
 ---
-title: "coseto6125/openmeetnote"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "Whisper.cpp", "Paraformer", "Silero VAD", "CT-Transformer", "Claude Code / Codex", "SQLite", "React", "ONNX Runtime"]
+title: coseto6125/openmeetnote
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Rust
+- Tauri
+- Whisper.cpp
+- Paraformer
+- Silero VAD
+- CT-Transformer
+- Claude Code / Codex
+- SQLite
+- React
+- ONNX Runtime
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["meeting recorder", "transcription", "verification", "local-first", "citation-based"]
-source: "https://github.com/coseto6125/openmeetnote"
+deployment_complexity: Medium
+tags:
+- meeting recorder
+- transcription
+- verification
+- local-first
+- citation-based
+source: https://github.com/coseto6125/openmeetnote
 stars: 0
-language: "Rust"
-last_updated: "2026-08-05T14:04:59Z"
-discovered_at: "2026-08-05T14:06:54Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T14:04:59Z'
+discovered_at: '2026-08-05T14:06:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

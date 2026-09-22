@@ -1,19 +1,33 @@
 ---
-title: "standardbeagle/agnt"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "TypeScript", "JavaScript", "Python", "MCP (Model Context Protocol)", "KDL (Konfig Data Language)", "Node.js", "npm", "PyPI"]
+title: standardbeagle/agnt
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Go
+- TypeScript
+- JavaScript
+- Python
+- MCP (Model Context Protocol)
+- KDL (Konfig Data Language)
+- Node.js
+- npm
+- PyPI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "browser instrumentation", "real-time debugging", "MCP server", "development tooling"]
-source: "https://github.com/standardbeagle/agnt"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- browser instrumentation
+- real-time debugging
+- MCP server
+- development tooling
+source: https://github.com/standardbeagle/agnt
 stars: 5
-language: "Go"
-last_updated: "2026-08-04T21:08:19Z"
-discovered_at: "2026-08-04T21:15:55Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T21:08:19Z'
+discovered_at: '2026-08-04T21:15:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "derekrussell/macos-apps-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "AppleScript (osascript)", "Model Context Protocol (MCP)", "macOS"]
+title: derekrussell/macos-apps-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-22
+tech_stack:
+- Python
+- AppleScript (osascript)
+- Model Context Protocol (MCP)
+- macOS
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "AppleScript integration", "macOS automation", "local AI tools", "productivity apps"]
-source: "https://github.com/derekrussell/macos-apps-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AppleScript integration
+- macOS automation
+- local AI tools
+- productivity apps
+source: https://github.com/derekrussell/macos-apps-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T15:28:18Z"
-discovered_at: "2026-08-08T15:32:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T15:28:18Z'
+discovered_at: '2026-08-08T15:32:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

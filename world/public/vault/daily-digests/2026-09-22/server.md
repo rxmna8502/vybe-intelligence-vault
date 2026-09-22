@@ -1,19 +1,31 @@
 ---
-title: "MariaDB/server"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C++", "SQL", "HNSW (for vector search)", "InnoDB", "MyRocks", "ColumnStore", "Galera Cluster"]
+title: MariaDB/server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-22
+tech_stack:
+- C++
+- SQL
+- HNSW (for vector search)
+- InnoDB
+- MyRocks
+- ColumnStore
+- Galera Cluster
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["relational database", "vector search", "open-source", "high availability", "AI data storage"]
-source: "https://github.com/MariaDB/server"
+deployment_complexity: Medium
+tags:
+- relational database
+- vector search
+- open-source
+- high availability
+- AI data storage
+source: https://github.com/MariaDB/server
 stars: 8057
-language: "C++"
-last_updated: "2026-08-07T21:43:49Z"
-discovered_at: "2026-08-07T22:37:17Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-07T21:43:49Z'
+discovered_at: '2026-08-07T22:37:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
