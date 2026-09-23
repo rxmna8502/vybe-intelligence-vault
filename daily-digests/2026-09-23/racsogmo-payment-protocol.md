@@ -1,29 +1,19 @@
 ---
-title: racsogmo-sys/RacSogMo-Payment-Protocol
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- REST APIs
-- Enterprise-grade security protocols (Pure3D, V3)
-- Semantic indexing for LLM parsing
+title: "racsogmo-sys/RacSogMo-Payment-Protocol"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "REST APIs", "Enterprise-grade security protocols (Pure3D, V3)", "Semantic indexing for LLM parsing"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-native payments
-- Taiwan payment protocol
-- MCP integration
-- multi-rail orchestration
-- semantic financial routing
-source: https://github.com/racsogmo-sys/RacSogMo-Payment-Protocol
+deployment_complexity: "Medium"
+tags: ["AI-native payments", "Taiwan payment protocol", "MCP integration", "multi-rail orchestration", "semantic financial routing"]
+source: "https://github.com/racsogmo-sys/RacSogMo-Payment-Protocol"
 stars: 1
-language: Python
-last_updated: '2026-07-10T23:01:53Z'
-discovered_at: '2026-07-10T23:08:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T23:01:53Z"
+discovered_at: "2026-07-10T23:08:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

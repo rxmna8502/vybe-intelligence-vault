@@ -1,38 +1,19 @@
 ---
-title: matti11-web/mla-production-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Cloudflare Workers
-- D1 (SQLite)
-- Cohere API
-- Claude Code
-- FastAPI
-- React
-- TypeScript
-- PowerShell
-- Hono
-- Vectorize
-- MCP
-- Astro
-- Node.js
+title: "matti11-web/mla-production-ai"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Cloudflare Workers", "D1 (SQLite)", "Cohere API", "Claude Code", "FastAPI", "React", "TypeScript", "PowerShell", "Hono", "Vectorize", "MCP", "Astro", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI orchestration
-- RAG systems
-- multi-agent workflows
-- production AI
-- case studies
-source: https://github.com/matti11-web/mla-production-ai
+deployment_complexity: "Medium"
+tags: ["AI orchestration", "RAG systems", "multi-agent workflows", "production AI", "case studies"]
+source: "https://github.com/matti11-web/mla-production-ai"
 stars: 0
-language: None
-last_updated: '2026-08-31T22:27:45Z'
-discovered_at: '2026-09-04T02:20:10Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-31T22:27:45Z"
+discovered_at: "2026-09-04T02:20:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

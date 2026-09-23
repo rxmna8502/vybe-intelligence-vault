@@ -1,33 +1,19 @@
 ---
-title: phin-ai/phin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Swift
-- Electron
-- SQLite
-- PostgreSQL
-- MySQL
-- MongoDB
-- AI/LLM Integration
-- MCP Server
-- macOS Keychain
+title: "phin-ai/phin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "Electron", "SQLite", "PostgreSQL", "MySQL", "MongoDB", "AI/LLM Integration", "MCP Server", "macOS Keychain"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- database UI
-- AI-assisted querying
-- macOS native
-- schema-aware AI
-- secure data access
-source: https://github.com/phin-ai/phin
+deployment_complexity: "Low"
+tags: ["database UI", "AI-assisted querying", "macOS native", "schema-aware AI", "secure data access"]
+source: "https://github.com/phin-ai/phin"
 stars: 0
-language: None
-last_updated: '2026-07-18T19:01:10Z'
-discovered_at: '2026-07-18T19:02:30Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-18T19:01:10Z"
+discovered_at: "2026-07-18T19:02:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

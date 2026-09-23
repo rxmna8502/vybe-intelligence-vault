@@ -1,34 +1,19 @@
 ---
-title: costajohnt/oss-autopilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- Preact
-- Vite
-- GitHub API
-- Claude Code
-- MCP (Model Context Protocol)
-- Zod
-- PNPM
-- Jest
+title: "costajohnt/oss-autopilot"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Preact", "Vite", "GitHub API", "Claude Code", "MCP (Model Context Protocol)", "Zod", "PNPM", "Jest"]
 quality_score: 10
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- open-source management
-- AI workflow automation
-- PR monitoring
-- CI diagnostics
-- contribution automation
-source: https://github.com/costajohnt/oss-autopilot
+deployment_complexity: "Medium"
+tags: ["open-source management", "AI workflow automation", "PR monitoring", "CI diagnostics", "contribution automation"]
+source: "https://github.com/costajohnt/oss-autopilot"
 stars: 11
-language: TypeScript
-last_updated: '2026-08-08T04:52:57Z'
-discovered_at: '2026-08-08T04:58:56Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T04:52:57Z"
+discovered_at: "2026-08-08T04:58:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

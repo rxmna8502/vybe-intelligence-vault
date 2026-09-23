@@ -1,30 +1,19 @@
 ---
-title: yexin-mao/coding-agent-from-scratch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Shell/Bash
-- LLM API (DeepSeek, OpenRouter)
-- Pytest
-- Docker (planned)
-- LangGraph (planned for Step 7)
+title: "yexin-mao/coding-agent-from-scratch"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Shell/Bash", "LLM API (DeepSeek, OpenRouter)", "Pytest", "Docker (planned)", "LangGraph (planned for Step 7)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent development
-- minimalist design
-- empirical testing
-- safety engineering
-- from-scratch implementation
-source: https://github.com/yexin-mao/coding-agent-from-scratch
+deployment_complexity: "Medium"
+tags: ["agent development", "minimalist design", "empirical testing", "safety engineering", "from-scratch implementation"]
+source: "https://github.com/yexin-mao/coding-agent-from-scratch"
 stars: 0
-language: Python
-last_updated: '2026-08-03T16:22:41Z'
-discovered_at: '2026-08-03T16:25:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T16:22:41Z"
+discovered_at: "2026-08-03T16:25:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

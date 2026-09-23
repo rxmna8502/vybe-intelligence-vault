@@ -1,30 +1,19 @@
 ---
-title: dkstm95/hope
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- Node.js
-- HTML
-- GitHub CLI
-- OpenAI Codex
-- Claude Code
+title: "dkstm95/hope"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "HTML", "GitHub CLI", "OpenAI Codex", "Claude Code"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI alignment
-- code review
-- task clarification
-- evidence-based workflow
-- human-AI collaboration
-source: https://github.com/dkstm95/hope
+deployment_complexity: "Low"
+tags: ["AI alignment", "code review", "task clarification", "evidence-based workflow", "human-AI collaboration"]
+source: "https://github.com/dkstm95/hope"
 stars: 5
-language: JavaScript
-last_updated: '2026-08-02T13:46:32Z'
-discovered_at: '2026-08-02T13:49:14Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T13:46:32Z"
+discovered_at: "2026-08-02T13:49:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

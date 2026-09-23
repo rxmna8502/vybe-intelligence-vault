@@ -1,29 +1,19 @@
 ---
-title: tverney/mcp-agent-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Filesystem-based memory storage
-- Daemon (agent-memory-daemon)
+title: "tverney/mcp-agent-memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Filesystem-based memory storage", "Daemon (agent-memory-daemon)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent memory
-- MCP server
-- persistent memory
-- memory consolidation
-- RAG optimization
-source: https://github.com/tverney/mcp-agent-memory
+deployment_complexity: "Medium"
+tags: ["agent memory", "MCP server", "persistent memory", "memory consolidation", "RAG optimization"]
+source: "https://github.com/tverney/mcp-agent-memory"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-08T20:25:17Z'
-discovered_at: '2026-08-08T20:32:07Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T20:25:17Z"
+discovered_at: "2026-08-08T20:32:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: zz-plant/ambit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js (>=22.18)
-- SQLite
-- React
-- MCP (Model Context Protocol)
-- D3.js (for visualization)
-- Bash (for bootstrapping)
+title: "zz-plant/ambit"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js (>=22.18)", "SQLite", "React", "MCP (Model Context Protocol)", "D3.js (for visualization)", "Bash (for bootstrapping)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- capability graph
-- MCP server
-- agent orchestration
-- dependency mapping
-- AI stack management
-source: https://github.com/zz-plant/ambit
+deployment_complexity: "Medium"
+tags: ["capability graph", "MCP server", "agent orchestration", "dependency mapping", "AI stack management"]
+source: "https://github.com/zz-plant/ambit"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T22:14:36Z'
-discovered_at: '2026-09-01T22:19:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T22:14:36Z"
+discovered_at: "2026-09-01T22:19:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

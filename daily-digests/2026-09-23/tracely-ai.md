@@ -1,35 +1,19 @@
 ---
-title: Jwuthri/Tracely-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- ClickHouse
-- PostgreSQL
-- Redis
-- MinIO
-- Docker
-- OTLP
-- LLM-as-a-judge
-- FastAPI
-- React
-- TypeScript
+title: "Jwuthri/Tracely-ai"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "ClickHouse", "PostgreSQL", "Redis", "MinIO", "Docker", "OTLP", "LLM-as-a-judge", "FastAPI", "React", "TypeScript"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI agent observability
-- regression testing
-- CI/CD for AI
-- failure detection
-- hermetic replay
-source: https://github.com/Jwuthri/Tracely-ai
+deployment_complexity: "Medium"
+tags: ["AI agent observability", "regression testing", "CI/CD for AI", "failure detection", "hermetic replay"]
+source: "https://github.com/Jwuthri/Tracely-ai"
 stars: 1186
-language: Python
-last_updated: '2026-09-03T15:33:57Z'
-discovered_at: '2026-09-03T22:13:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:33:57Z"
+discovered_at: "2026-09-03T22:13:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

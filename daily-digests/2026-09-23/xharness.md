@@ -1,32 +1,19 @@
 ---
-title: linearuncle/xharness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- Electron
-- Anthropic Messages API
-- DeepSeek API
-- Ripgrep (rg)
-- Vitest
-- YAML/JSON
+title: "linearuncle/xharness"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Electron", "Anthropic Messages API", "DeepSeek API", "Ripgrep (rg)", "Vitest", "YAML/JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- autonomous code modification
-- streaming LLM interactions
-- CLI/GUI dual-mode
-- Anthropic API
-source: https://github.com/linearuncle/xharness
+deployment_complexity: "Medium"
+tags: ["coding agent", "autonomous code modification", "streaming LLM interactions", "CLI/GUI dual-mode", "Anthropic API"]
+source: "https://github.com/linearuncle/xharness"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-01T17:57:01Z'
-discovered_at: '2026-08-01T18:00:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T17:57:01Z"
+discovered_at: "2026-08-01T18:00:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

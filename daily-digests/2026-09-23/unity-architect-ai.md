@@ -1,36 +1,19 @@
 ---
-title: BurakErdemci/Unity-Architect-AI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Electron
-- React
-- TypeScript
-- FastAPI
-- Python 3.13
-- Unity MCP
-- OmniSharp
-- .NET Runtime
-- Monaco Editor
-- xterm.js
-- ffmpeg
-- yt-dlp
+title: "BurakErdemci/Unity-Architect-AI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "React", "TypeScript", "FastAPI", "Python 3.13", "Unity MCP", "OmniSharp", ".NET Runtime", "Monaco Editor", "xterm.js", "ffmpeg", "yt-dlp"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Unity development
-- AI agents
-- MCP integration
-- desktop IDE
-- multi-agent orchestration
-source: https://github.com/BurakErdemci/Unity-Architect-AI
+deployment_complexity: "Medium"
+tags: ["Unity development", "AI agents", "MCP integration", "desktop IDE", "multi-agent orchestration"]
+source: "https://github.com/BurakErdemci/Unity-Architect-AI"
 stars: 2
-language: C#
-last_updated: '2026-08-04T12:58:40Z'
-discovered_at: '2026-08-04T13:03:56Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-04T12:58:40Z"
+discovered_at: "2026-08-04T13:03:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

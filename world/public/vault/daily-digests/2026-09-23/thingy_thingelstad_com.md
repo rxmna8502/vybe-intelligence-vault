@@ -1,34 +1,19 @@
 ---
-title: jthingelstad/thingy.thingelstad.com
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- React
-- Vite
-- TanStack Router
-- WebMCP
-- MCP (Model Context Protocol)
-- Tinylytics
-- CloudFront
-- S3
-- GitHub Actions
+title: "jthingelstad/thingy.thingelstad.com"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Vite", "TanStack Router", "WebMCP", "MCP (Model Context Protocol)", "Tinylytics", "CloudFront", "S3", "GitHub Actions"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- archive agent
-- chat interface
-- MCP integration
-- static site
-- authentication
-source: https://github.com/jthingelstad/thingy.thingelstad.com
+deployment_complexity: "Medium"
+tags: ["archive agent", "chat interface", "MCP integration", "static site", "authentication"]
+source: "https://github.com/jthingelstad/thingy.thingelstad.com"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-02T19:02:29Z'
-discovered_at: '2026-09-02T19:13:07Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:02:29Z"
+discovered_at: "2026-09-02T19:13:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

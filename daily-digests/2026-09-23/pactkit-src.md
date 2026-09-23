@@ -1,33 +1,19 @@
 ---
-title: pactkit/pactkit-src
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- CLI
-- TDD (Test-Driven Development)
-- Git Hooks
-- Mermaid.js
-- Draw.io
-- GitHub CLI
-- Codegraph
-- Ruff (linting)
+title: "pactkit/pactkit-src"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "CLI", "TDD (Test-Driven Development)", "Git Hooks", "Mermaid.js", "Draw.io", "GitHub CLI", "Codegraph", "Ruff (linting)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI governance
-- multi-agent orchestration
-- PDCA lifecycle
-- deterministic operations
-- TDD enforcement
-source: https://github.com/pactkit/pactkit-src
+deployment_complexity: "Medium"
+tags: ["AI governance", "multi-agent orchestration", "PDCA lifecycle", "deterministic operations", "TDD enforcement"]
+source: "https://github.com/pactkit/pactkit-src"
 stars: 1
-language: Python
-last_updated: '2026-09-01T08:59:28Z'
-discovered_at: '2026-09-01T09:10:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T08:59:28Z"
+discovered_at: "2026-09-01T09:10:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

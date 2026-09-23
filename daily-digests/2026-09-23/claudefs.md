@@ -1,29 +1,19 @@
 ---
-title: vincentping/claudeFS
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- Chrome Extension API
-- Edge Extension API
-- File System Access API
-- Manifest V3
+title: "vincentping/claudeFS"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Chrome Extension API", "Edge Extension API", "File System Access API", "Manifest V3"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- browser extension
-- file system access
-- claude.ai integration
-- local file operations
-- privacy-focused
-source: https://github.com/vincentping/claudeFS
+deployment_complexity: "Low"
+tags: ["browser extension", "file system access", "claude.ai integration", "local file operations", "privacy-focused"]
+source: "https://github.com/vincentping/claudeFS"
 stars: 14
-language: JavaScript
-last_updated: '2026-08-03T21:56:30Z'
-discovered_at: '2026-08-03T22:09:36Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T21:56:30Z"
+discovered_at: "2026-08-03T22:09:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

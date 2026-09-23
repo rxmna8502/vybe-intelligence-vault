@@ -1,32 +1,19 @@
 ---
-title: Arenukvern/mcp_flutter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Dart
-- Flutter
-- MCP (Model Context Protocol)
-- CLI
-- GitHub Actions
-- Smithery
-- IntentCall
-- WebMCP
+title: "Arenukvern/mcp_flutter"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Dart", "Flutter", "MCP (Model Context Protocol)", "CLI", "GitHub Actions", "Smithery", "IntentCall", "WebMCP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent integration
-- Flutter development
-- MCP server
-- dynamic tooling
-- real-time inspection
-source: https://github.com/Arenukvern/mcp_flutter
+deployment_complexity: "Medium"
+tags: ["AI agent integration", "Flutter development", "MCP server", "dynamic tooling", "real-time inspection"]
+source: "https://github.com/Arenukvern/mcp_flutter"
 stars: 347
-language: Dart
-last_updated: '2026-07-11T17:49:48Z'
-discovered_at: '2026-07-11T17:54:52Z'
-evaluated_by: mistral-small-latest
+language: "Dart"
+last_updated: "2026-07-11T17:49:48Z"
+discovered_at: "2026-07-11T17:54:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

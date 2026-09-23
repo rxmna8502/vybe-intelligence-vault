@@ -1,32 +1,19 @@
 ---
-title: Zhu070124/cqupt-ai-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- FAISS
-- DeepSeek API
-- BM25
-- jieba
-- HTML/CSS/JavaScript
-- MIT License
+title: "Zhu070124/cqupt-ai-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "FAISS", "DeepSeek API", "BM25", "jieba", "HTML/CSS/JavaScript", "MIT License"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Intent Routing
-- Safety Guardrails
-- University Assistant
-- Knowledge Retrieval
-source: https://github.com/Zhu070124/cqupt-ai-assistant
+deployment_complexity: "Medium"
+tags: ["RAG", "Intent Routing", "Safety Guardrails", "University Assistant", "Knowledge Retrieval"]
+source: "https://github.com/Zhu070124/cqupt-ai-assistant"
 stars: 0
-language: Python
-last_updated: '2026-08-07T18:46:54Z'
-discovered_at: '2026-08-07T18:57:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T18:46:54Z"
+discovered_at: "2026-08-07T18:57:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

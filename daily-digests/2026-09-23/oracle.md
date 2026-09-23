@@ -1,36 +1,19 @@
 ---
-title: sudhu72/oracle
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- Ollama
-- SQLite
-- Numpy
-- React
-- TypeScript
-- Vite
-- NetworkX
-- Voicebox
-- Web Speech API
-- Docker
+title: "sudhu72/oracle"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Ollama", "SQLite", "Numpy", "React", "TypeScript", "Vite", "NetworkX", "Voicebox", "Web Speech API", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- local LLMs
-- self-evolving agents
-- consensus gate
-- knowledge graph
-source: https://github.com/sudhu72/oracle
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "local LLMs", "self-evolving agents", "consensus gate", "knowledge graph"]
+source: "https://github.com/sudhu72/oracle"
 stars: 0
-language: Python
-last_updated: '2026-08-07T21:31:16Z'
-discovered_at: '2026-08-07T21:41:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T21:31:16Z"
+discovered_at: "2026-08-07T21:41:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

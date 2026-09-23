@@ -1,31 +1,19 @@
 ---
-title: memtomem/memtomem-stm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastAPI
-- Pydantic
-- OpenTelemetry
-- Jupyter Notebook
-- CLI Tools
+title: "memtomem/memtomem-stm"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "Pydantic", "OpenTelemetry", "Jupyter Notebook", "CLI Tools"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP proxy
-- token optimization
-- memory surfacing
-- caching
-- compression
-source: https://github.com/memtomem/memtomem-stm
+deployment_complexity: "Medium"
+tags: ["MCP proxy", "token optimization", "memory surfacing", "caching", "compression"]
+source: "https://github.com/memtomem/memtomem-stm"
 stars: 5
-language: Python
-last_updated: '2026-09-02T02:13:16Z'
-discovered_at: '2026-09-02T02:14:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T02:13:16Z"
+discovered_at: "2026-09-02T02:14:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

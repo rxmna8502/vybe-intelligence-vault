@@ -1,36 +1,19 @@
 ---
-title: syahiidkamil/vibe-ai-partner-entity
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- Python
-- Claude Code
-- Node.js
-- SQLite
-- PostgreSQL
-- pgvector
-- Live2D
-- Three.js
-- VRM
-- TTS (Text-to-Speech)
-- Git
-- uv (Python package manager)
+title: "syahiidkamil/vibe-ai-partner-entity"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Code", "Node.js", "SQLite", "PostgreSQL", "pgvector", "Live2D", "Three.js", "VRM", "TTS (Text-to-Speech)", "Git", "uv (Python package manager)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- persistent AI
-- active memory
-- multi-layered self
-- voice interaction
-- temporal awareness
-source: https://github.com/syahiidkamil/vibe-ai-partner-entity
+deployment_complexity: "Medium"
+tags: ["persistent AI", "active memory", "multi-layered self", "voice interaction", "temporal awareness"]
+source: "https://github.com/syahiidkamil/vibe-ai-partner-entity"
 stars: 1
-language: Python
-last_updated: '2026-07-12T10:25:54Z'
-discovered_at: '2026-07-12T10:26:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T10:25:54Z"
+discovered_at: "2026-07-12T10:26:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

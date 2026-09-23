@@ -1,31 +1,19 @@
 ---
-title: CSOAI-ORG/care-membrane-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- PyPI
-- Smithery
-- Stripe API
-- GitHub Actions
-- Docker
+title: "CSOAI-ORG/care-membrane-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Smithery", "Stripe API", "GitHub Actions", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Safety
-- EU AI Act Compliance
-- Threat Detection
-- LLM Evaluation
-- Care Ethics
-source: https://github.com/CSOAI-ORG/care-membrane-mcp
+deployment_complexity: "Medium"
+tags: ["AI Safety", "EU AI Act Compliance", "Threat Detection", "LLM Evaluation", "Care Ethics"]
+source: "https://github.com/CSOAI-ORG/care-membrane-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-01T06:27:37Z'
-discovered_at: '2026-08-01T06:29:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T06:27:37Z"
+discovered_at: "2026-08-01T06:29:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

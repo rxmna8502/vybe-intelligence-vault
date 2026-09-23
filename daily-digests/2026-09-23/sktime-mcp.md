@@ -1,33 +1,19 @@
 ---
-title: sktime/sktime-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastAPI
-- Docker
-- sktime
-- uv/uvx
-- Sphinx
-- pytest
-- Ruff
+title: "sktime/sktime-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "Docker", "sktime", "uv/uvx", "Sphinx", "pytest", "Ruff"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- time-series
-- LLM integration
-- sktime
-- registry-driven
-source: https://github.com/sktime/sktime-mcp
+deployment_complexity: "Medium"
+tags: ["MCP", "time-series", "LLM integration", "sktime", "registry-driven"]
+source: "https://github.com/sktime/sktime-mcp"
 stars: 27
-language: Python
-last_updated: '2026-08-08T21:32:22Z'
-discovered_at: '2026-08-08T21:33:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T21:32:22Z"
+discovered_at: "2026-08-08T21:33:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-yesterdays-number
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- StupidAPIs
-- REST API
+title: "pipeworx-io/mcp-yesterdays-number"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "StupidAPIs", "REST API"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- MCP server
-- data source
-- random number
-- StupidAPIs
-- Pipeworx
-source: https://github.com/pipeworx-io/mcp-yesterdays-number
+deployment_complexity: "Low"
+tags: ["MCP server", "data source", "random number", "StupidAPIs", "Pipeworx"]
+source: "https://github.com/pipeworx-io/mcp-yesterdays-number"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:32:27Z'
-discovered_at: '2026-08-04T07:41:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:32:27Z"
+discovered_at: "2026-08-04T07:41:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

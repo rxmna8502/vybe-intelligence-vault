@@ -1,28 +1,19 @@
 ---
-title: XCode-NLP/KodaSkills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- YAML
-- Python
-- GitHub Actions
-- Markdown
+title: "XCode-NLP/KodaSkills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["YAML", "Python", "GitHub Actions", "Markdown"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- agent skills
-- modular instructions
-- AI assistant
-- skill management
-- YAML metadata
-source: https://github.com/XCode-NLP/KodaSkills
+deployment_complexity: "Low"
+tags: ["agent skills", "modular instructions", "AI assistant", "skill management", "YAML metadata"]
+source: "https://github.com/XCode-NLP/KodaSkills"
 stars: 12
-language: Python
-last_updated: '2026-07-20T09:51:56Z'
-discovered_at: '2026-07-20T09:59:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T09:51:56Z"
+discovered_at: "2026-07-20T09:59:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

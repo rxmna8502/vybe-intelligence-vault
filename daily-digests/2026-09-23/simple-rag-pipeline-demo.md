@@ -1,29 +1,19 @@
 ---
-title: arpan10000/simple-rag-pipeline-demo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Chroma DB
-- Grok LLM
-- Python
-- Jupyter Notebook
-- Desktop Application
+title: "arpan10000/simple-rag-pipeline-demo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Chroma DB", "Grok LLM", "Python", "Jupyter Notebook", "Desktop Application"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- RAG
-- Vector Database
-- LLM Integration
-- Desktop App
-- Contextual Q&A
-source: https://github.com/arpan10000/simple-rag-pipeline-demo
+deployment_complexity: "Low"
+tags: ["RAG", "Vector Database", "LLM Integration", "Desktop App", "Contextual Q&A"]
+source: "https://github.com/arpan10000/simple-rag-pipeline-demo"
 stars: 2
-language: Jupyter Notebook
-last_updated: '2026-08-07T12:01:05Z'
-discovered_at: '2026-08-07T13:03:53Z'
-evaluated_by: mistral-small-latest
+language: "Jupyter Notebook"
+last_updated: "2026-08-07T12:01:05Z"
+discovered_at: "2026-08-07T13:03:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

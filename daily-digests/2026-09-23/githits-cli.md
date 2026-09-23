@@ -1,30 +1,19 @@
 ---
-title: githits-com/githits-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- OAuth
-- CLI
-- Bun
+title: "githits-com/githits-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth", "CLI", "Bun"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- MCP server
-- code navigation
-- package inspection
-- AI agent tooling
-- open-source evidence
-source: https://github.com/githits-com/githits-cli
+deployment_complexity: "Low"
+tags: ["MCP server", "code navigation", "package inspection", "AI agent tooling", "open-source evidence"]
+source: "https://github.com/githits-com/githits-cli"
 stars: 75
-language: TypeScript
-last_updated: '2026-08-04T07:38:43Z'
-discovered_at: '2026-08-04T07:41:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:38:43Z"
+discovered_at: "2026-08-04T07:41:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

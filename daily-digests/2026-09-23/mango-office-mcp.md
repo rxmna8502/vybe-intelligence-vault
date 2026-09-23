@@ -1,30 +1,19 @@
 ---
-title: theYahia/mango-office-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- HMAC-SHA256
-- REST API
-- NPM
+title: "theYahia/mango-office-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "HMAC-SHA256", "REST API", "NPM"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- telephony
-- call management
-- MCP server
-- cloud PBX
-- AI integration
-source: https://github.com/theYahia/mango-office-mcp
+deployment_complexity: "Low"
+tags: ["telephony", "call management", "MCP server", "cloud PBX", "AI integration"]
+source: "https://github.com/theYahia/mango-office-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-02T19:10:11Z'
-discovered_at: '2026-09-02T19:14:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:10:11Z"
+discovered_at: "2026-09-02T19:14:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

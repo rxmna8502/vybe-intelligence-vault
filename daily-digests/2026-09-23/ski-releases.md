@@ -1,29 +1,19 @@
 ---
-title: waro7573/ski-releases
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Tauri
-- Rust
-- Speech-to-Text
-- Text-to-Speech
-- Windows API
+title: "waro7573/ski-releases"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Tauri", "Rust", "Speech-to-Text", "Text-to-Speech", "Windows API"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- voice control
-- coding agent
-- local processing
-- Windows desktop
-- privacy
-source: https://github.com/waro7573/ski-releases
+deployment_complexity: "Low"
+tags: ["voice control", "coding agent", "local processing", "Windows desktop", "privacy"]
+source: "https://github.com/waro7573/ski-releases"
 stars: 0
-language: None
-last_updated: '2026-08-06T06:28:34Z'
-discovered_at: '2026-08-06T06:32:15Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T06:28:34Z"
+discovered_at: "2026-08-06T06:32:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

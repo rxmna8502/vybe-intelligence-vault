@@ -1,28 +1,19 @@
 ---
-title: sevn-bot/sevn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Agentic AI
-- Modular Architecture
-- Customizable Logic
+title: "sevn-bot/sevn"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Agentic AI", "Modular Architecture", "Customizable Logic"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- agentic AI
-- customizable bots
-- modular framework
-- Python-based
-- extensible tools
-source: https://github.com/sevn-bot/sevn
+deployment_complexity: "Medium"
+tags: ["agentic AI", "customizable bots", "modular framework", "Python-based", "extensible tools"]
+source: "https://github.com/sevn-bot/sevn"
 stars: 0
-language: None
-last_updated: '2026-08-05T22:07:52Z'
-discovered_at: '2026-08-05T22:15:01Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-05T22:07:52Z"
+discovered_at: "2026-08-05T22:15:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: zb-ss/servonaut
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- Python
-- Textual (TUI framework)
-- AWS SDK
-- SSH/SCP
-- Mercure (SSE)
-- OpenAI/Anthropic/Gemini/Ollama (AI integration)
-- X25519 (encryption)
-- AES-256-GCM (encryption)
+title: "zb-ss/servonaut"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Textual (TUI framework)", "AWS SDK", "SSH/SCP", "Mercure (SSE)", "OpenAI/Anthropic/Gemini/Ollama (AI integration)", "X25519 (encryption)", "AES-256-GCM (encryption)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- server management
-- multi-cloud
-- TUI
-- AI assistant
-- MCP server
-source: https://github.com/zb-ss/servonaut
+deployment_complexity: "Medium"
+tags: ["server management", "multi-cloud", "TUI", "AI assistant", "MCP server"]
+source: "https://github.com/zb-ss/servonaut"
 stars: 20
-language: Python
-last_updated: '2026-07-14T22:47:40Z'
-discovered_at: '2026-07-14T22:56:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T22:47:40Z"
+discovered_at: "2026-07-14T22:56:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

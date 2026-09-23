@@ -1,30 +1,19 @@
 ---
-title: nsasoft/nsauditor-ai-agent-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- MCP (Model Context Protocol)
-- JavaScript/Node.js
-- npm
-- Security Audit Tools
-- Compliance Frameworks (SOC 2, HIPAA, NIST CSF, PCI DSS, ISO 27001, CIS Controls)
-- Cloud Scanning (AWS, Azure, GCP)
+title: "nsasoft/nsauditor-ai-agent-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "JavaScript/Node.js", "npm", "Security Audit Tools", "Compliance Frameworks (SOC 2, HIPAA, NIST CSF, PCI DSS, ISO 27001, CIS Controls)", "Cloud Scanning (AWS, Azure, GCP)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent integration
-- security auditing
-- MCP tools
-- compliance frameworks
-- multi-step workflows
-source: https://github.com/nsasoft/nsauditor-ai-agent-skill
+deployment_complexity: "Medium"
+tags: ["AI agent integration", "security auditing", "MCP tools", "compliance frameworks", "multi-step workflows"]
+source: "https://github.com/nsasoft/nsauditor-ai-agent-skill"
 stars: 3
-language: None
-last_updated: '2026-07-13T21:48:58Z'
-discovered_at: '2026-07-13T21:55:07Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-13T21:48:58Z"
+discovered_at: "2026-07-13T21:55:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

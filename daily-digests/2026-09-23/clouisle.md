@@ -1,36 +1,19 @@
 ---
-title: clouisle/Clouisle
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- Next.js
-- Bun
-- PostgreSQL
-- Redis
-- Qdrant
-- Celery
-- LangChain
-- LangGraph
-- TypeScript
-- Docker
+title: "clouisle/Clouisle"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Next.js", "Bun", "PostgreSQL", "Redis", "Qdrant", "Celery", "LangChain", "LangGraph", "TypeScript", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI Agents
-- RAG
-- Workflow Automation
-- Knowledge Management
-- Enterprise AI
-source: https://github.com/clouisle/Clouisle
+deployment_complexity: "Medium"
+tags: ["AI Agents", "RAG", "Workflow Automation", "Knowledge Management", "Enterprise AI"]
+source: "https://github.com/clouisle/Clouisle"
 stars: 17
-language: Python
-last_updated: '2026-08-01T21:51:18Z'
-discovered_at: '2026-08-01T21:55:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T21:51:18Z"
+discovered_at: "2026-08-01T21:55:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

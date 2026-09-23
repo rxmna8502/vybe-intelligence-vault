@@ -1,29 +1,19 @@
 ---
-title: CSOAI-ORG/soc2-compliance-ai-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- PyPI
-- Smithery
-- EU AI Act compliance frameworks
+title: "CSOAI-ORG/soc2-compliance-ai-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "Smithery", "EU AI Act compliance frameworks"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- SOC 2 compliance
-- audit automation
-- governance
-- risk management
-- MCP server
-source: https://github.com/CSOAI-ORG/soc2-compliance-ai-mcp
+deployment_complexity: "Low"
+tags: ["SOC 2 compliance", "audit automation", "governance", "risk management", "MCP server"]
+source: "https://github.com/CSOAI-ORG/soc2-compliance-ai-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-04T12:57:55Z'
-discovered_at: '2026-08-04T13:05:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T12:57:55Z"
+discovered_at: "2026-08-04T13:05:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

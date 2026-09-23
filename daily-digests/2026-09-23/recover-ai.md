@@ -1,33 +1,19 @@
 ---
-title: pavankarthikeyaatchyuta-lab/Recover-AI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Google Gemini (LLM)
-- Razorpay API
-- SQLite
-- Streamlit
-- Pandas
-- Jinja2
-- google-genai SDK
-- dotenv
+title: "pavankarthikeyaatchyuta-lab/Recover-AI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Google Gemini (LLM)", "Razorpay API", "SQLite", "Streamlit", "Pandas", "Jinja2", "google-genai SDK", "dotenv"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- revenue recovery
-- subscription payments
-- LLM-driven agent
-- Razorpay integration
-- payment failure handling
-source: https://github.com/pavankarthikeyaatchyuta-lab/Recover-AI
+deployment_complexity: "Medium"
+tags: ["revenue recovery", "subscription payments", "LLM-driven agent", "Razorpay integration", "payment failure handling"]
+source: "https://github.com/pavankarthikeyaatchyuta-lab/Recover-AI"
 stars: 0
-language: Python
-last_updated: '2026-09-01T08:57:27Z'
-discovered_at: '2026-09-01T09:07:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T08:57:27Z"
+discovered_at: "2026-09-01T09:07:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: saajunaid/caddis-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Claude Code
-- VS Code
-- GitHub Copilot
-- Shell Scripting
-- Markdown
-- JSON
+title: "saajunaid/caddis-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Code", "VS Code", "GitHub Copilot", "Shell Scripting", "Markdown", "JSON"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- workflow automation
-- Claude Code plugin
-- deterministic AI
-- multi-agent systems
-source: https://github.com/saajunaid/caddis-plugin
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "workflow automation", "Claude Code plugin", "deterministic AI", "multi-agent systems"]
+source: "https://github.com/saajunaid/caddis-plugin"
 stars: 0
-language: Python
-last_updated: '2026-08-01T03:34:40Z'
-discovered_at: '2026-08-01T03:44:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T03:34:40Z"
+discovered_at: "2026-08-01T03:44:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

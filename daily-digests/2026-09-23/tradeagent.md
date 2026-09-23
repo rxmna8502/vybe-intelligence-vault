@@ -1,33 +1,19 @@
 ---
-title: Nicolas1bhr/tradeagent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- C#
-- .NET 10
-- Avalonia UI
-- SQLite
-- IPC (Named Pipes)
-- ATAS Trading Platform
-- Inno Setup
-- Node.js
-- DPAPI
+title: "Nicolas1bhr/tradeagent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C#", ".NET 10", "Avalonia UI", "SQLite", "IPC (Named Pipes)", "ATAS Trading Platform", "Inno Setup", "Node.js", "DPAPI"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI trading agent
-- safety-first trading
-- ATAS integration
-- idempotent order execution
-- desktop orchestrator
-source: https://github.com/Nicolas1bhr/tradeagent
+deployment_complexity: "Medium"
+tags: ["AI trading agent", "safety-first trading", "ATAS integration", "idempotent order execution", "desktop orchestrator"]
+source: "https://github.com/Nicolas1bhr/tradeagent"
 stars: 0
-language: C#
-last_updated: '2026-09-04T02:07:16Z'
-discovered_at: '2026-09-04T02:13:06Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-09-04T02:07:16Z"
+discovered_at: "2026-09-04T02:13:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

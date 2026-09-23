@@ -1,31 +1,19 @@
 ---
-title: timememe/woclub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- Cloudflare Workers
-- Model Context Protocol (MCP)
-- REST API
-- JSON Schema
-- OpenAPI
-- Node.js
+title: "timememe/woclub"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Cloudflare Workers", "Model Context Protocol (MCP)", "REST API", "JSON Schema", "OpenAPI", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- deterministic evaluation
-- AI agent training
-- constraint challenges
-- remote API
-source: https://github.com/timememe/woclub
+deployment_complexity: "Medium"
+tags: ["MCP server", "deterministic evaluation", "AI agent training", "constraint challenges", "remote API"]
+source: "https://github.com/timememe/woclub"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-02T02:05:20Z'
-discovered_at: '2026-09-02T02:12:33Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T02:05:20Z"
+discovered_at: "2026-09-02T02:12:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

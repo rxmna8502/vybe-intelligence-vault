@@ -1,31 +1,19 @@
 ---
-title: Fino-wind/vaultbeat-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Curve25519 ECDH
-- HKDF-SHA256
-- AES-GCM
-- Apple HealthKit
-- QR code authentication
+title: "Fino-wind/vaultbeat-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Curve25519 ECDH", "HKDF-SHA256", "AES-GCM", "Apple HealthKit", "QR code authentication"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- end-to-end encryption
-- Apple Health
-- AI agent integration
-- health data
-source: https://github.com/Fino-wind/vaultbeat-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "end-to-end encryption", "Apple Health", "AI agent integration", "health data"]
+source: "https://github.com/Fino-wind/vaultbeat-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-07T11:03:59Z'
-discovered_at: '2026-08-07T11:04:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:03:59Z"
+discovered_at: "2026-08-07T11:04:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

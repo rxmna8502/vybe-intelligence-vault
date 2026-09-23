@@ -1,34 +1,19 @@
 ---
-title: faraa2m/tokenometer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- npm
-- GitHub Actions
-- VS Code Extension API
-- React
-- Hono
-- Undici
-- FormData
-- Markdown-it
+title: "faraa2m/tokenometer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "npm", "GitHub Actions", "VS Code Extension API", "React", "Hono", "Undici", "FormData", "Markdown-it"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- LLM cost calculator
-- token counter
-- latency benchmark
-- CI guardrail
-- multi-provider
-source: https://github.com/faraa2m/tokenometer
+deployment_complexity: "Medium"
+tags: ["LLM cost calculator", "token counter", "latency benchmark", "CI guardrail", "multi-provider"]
+source: "https://github.com/faraa2m/tokenometer"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-18T22:42:22Z'
-discovered_at: '2026-07-18T22:46:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T22:42:22Z"
+discovered_at: "2026-07-18T22:46:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

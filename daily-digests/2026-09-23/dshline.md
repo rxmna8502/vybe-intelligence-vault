@@ -1,29 +1,19 @@
 ---
-title: riesbri/dshline
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- Terminal UI
-- DeepSeek Harness
-- npm
+title: "riesbri/dshline"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Node.js", "Terminal UI", "DeepSeek Harness", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal UI
-- DeepSeek Harness
-- plugin integration
-- agent frontend
-- capability contracts
-source: https://github.com/riesbri/dshline
+deployment_complexity: "Medium"
+tags: ["terminal UI", "DeepSeek Harness", "plugin integration", "agent frontend", "capability contracts"]
+source: "https://github.com/riesbri/dshline"
 stars: 11
-language: TypeScript
-last_updated: '2026-09-01T09:02:41Z'
-discovered_at: '2026-09-01T09:10:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T09:02:41Z"
+discovered_at: "2026-09-01T09:10:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

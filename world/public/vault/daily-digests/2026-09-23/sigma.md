@@ -1,32 +1,19 @@
 ---
-title: hututuQQQ/sigma
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Rust
-- Node.js
-- pnpm
-- Native Sandboxing (Windows AppContainer, Linux namespaces)
-- Event Sourcing
-- MCP (Model Context Protocol)
-- DeepSeek API
+title: "hututuQQQ/sigma"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Rust", "Node.js", "pnpm", "Native Sandboxing (Windows AppContainer, Linux namespaces)", "Event Sourcing", "MCP (Model Context Protocol)", "DeepSeek API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- sandbox execution
-- durable sessions
-- evidence-backed completion
-- interruption recovery
-source: https://github.com/hututuQQQ/sigma
+deployment_complexity: "Medium"
+tags: ["coding agent", "sandbox execution", "durable sessions", "evidence-backed completion", "interruption recovery"]
+source: "https://github.com/hututuQQQ/sigma"
 stars: 11
-language: TypeScript
-last_updated: '2026-08-03T10:42:12Z'
-discovered_at: '2026-08-03T10:43:55Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T10:42:12Z"
+discovered_at: "2026-08-03T10:43:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

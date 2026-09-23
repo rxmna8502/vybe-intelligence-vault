@@ -1,28 +1,19 @@
 ---
-title: doriapt53/spring-manifold-next-gen
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Java 25
-- Spring Boot
-- TypeScript
-- Windows OS
+title: "doriapt53/spring-manifold-next-gen"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Java 25", "Spring Boot", "TypeScript", "Windows OS"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- data orchestration
-- vector search
-- enterprise connectors
-- local processing
-- data synchronization
-source: https://github.com/doriapt53/spring-manifold-next-gen
+deployment_complexity: "Medium"
+tags: ["data orchestration", "vector search", "enterprise connectors", "local processing", "data synchronization"]
+source: "https://github.com/doriapt53/spring-manifold-next-gen"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T09:43:55Z'
-discovered_at: '2026-08-07T10:05:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T09:43:55Z"
+discovered_at: "2026-08-07T10:05:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

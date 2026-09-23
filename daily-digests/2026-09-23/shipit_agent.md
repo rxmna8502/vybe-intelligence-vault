@@ -1,43 +1,19 @@
 ---
-title: shipiit/shipit_agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Pydantic
-- LiteLLM
-- Anthropic
-- OpenAI
-- AWS Bedrock
-- Google Vertex AI
-- Gemini
-- Groq
-- Together AI
-- Ollama
-- Chroma
-- Qdrant
-- pgvector
-- Playwright
-- SQLAlchemy
-- PyPDF
-- OpenTelemetry
-- LangSmith
+title: "shipiit/shipit_agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Pydantic", "LiteLLM", "Anthropic", "OpenAI", "AWS Bedrock", "Google Vertex AI", "Gemini", "Groq", "Together AI", "Ollama", "Chroma", "Qdrant", "pgvector", "Playwright", "SQLAlchemy", "PyPDF", "OpenTelemetry", "LangSmith"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agents
-- multi-agent orchestration
-- RAG
-- MCP
-- tool integration
-source: https://github.com/shipiit/shipit_agent
+deployment_complexity: "Medium"
+tags: ["AI agents", "multi-agent orchestration", "RAG", "MCP", "tool integration"]
+source: "https://github.com/shipiit/shipit_agent"
 stars: 2
-language: Python
-last_updated: '2026-07-15T10:46:42Z'
-discovered_at: '2026-07-15T10:48:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T10:46:42Z"
+discovered_at: "2026-07-15T10:48:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

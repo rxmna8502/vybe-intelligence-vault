@@ -1,37 +1,19 @@
 ---
-title: anshulec23-cloud/aegis-bank
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- LangGraph
-- scikit-learn
-- React
-- Vite
-- Tailwind CSS
-- Recharts
-- Mosquitto MQTT
-- PostgreSQL
-- SQLite
-- Docker
-- Docker Compose
+title: "anshulec23-cloud/aegis-bank"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "LangGraph", "scikit-learn", "React", "Vite", "Tailwind CSS", "Recharts", "Mosquitto MQTT", "PostgreSQL", "SQLite", "Docker", "Docker Compose"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- cybersecurity
-- risk quantification
-- industrial control systems
-- agent orchestration
-- financial exposure modeling
-source: https://github.com/anshulec23-cloud/aegis-bank
+deployment_complexity: "Medium"
+tags: ["cybersecurity", "risk quantification", "industrial control systems", "agent orchestration", "financial exposure modeling"]
+source: "https://github.com/anshulec23-cloud/aegis-bank"
 stars: 0
-language: Python
-last_updated: '2026-07-10T18:20:08Z'
-discovered_at: '2026-07-10T18:22:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T18:20:08Z"
+discovered_at: "2026-07-10T18:22:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: Devlokey/batman-ingotham
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- TypeScript
-- PostgreSQL
-- Zod
-- Supabase
-- Next.js
-- OWASP Top 10
-- LLM Security
+title: "Devlokey/batman-ingotham"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "TypeScript", "PostgreSQL", "Zod", "Supabase", "Next.js", "OWASP Top 10", "LLM Security"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI Security
-- Vulnerability Prevention
-- Multi-Tenant Isolation
-- Prompt Injection Protection
-- Code Hardening
-source: https://github.com/Devlokey/batman-ingotham
+deployment_complexity: "Medium"
+tags: ["AI Security", "Vulnerability Prevention", "Multi-Tenant Isolation", "Prompt Injection Protection", "Code Hardening"]
+source: "https://github.com/Devlokey/batman-ingotham"
 stars: 0
-language: Python
-last_updated: '2026-08-09T14:33:47Z'
-discovered_at: '2026-08-09T14:37:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T14:33:47Z"
+discovered_at: "2026-08-09T14:37:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

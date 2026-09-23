@@ -1,32 +1,19 @@
 ---
-title: cici-uu8/relaycode
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- CLI
-- TUI
-- Agent Framework
-- MCP (Model Context Protocol)
-- YAML
-- pytest
-- uv (Python package manager)
+title: "cici-uu8/relaycode"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "CLI", "TUI", "Agent Framework", "MCP (Model Context Protocol)", "YAML", "pytest", "uv (Python package manager)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- coding agent
-- multi-stage tasks
-- fact-driven delivery
-- task recovery
-- runtime traces
-source: https://github.com/cici-uu8/relaycode
+deployment_complexity: "Medium"
+tags: ["coding agent", "multi-stage tasks", "fact-driven delivery", "task recovery", "runtime traces"]
+source: "https://github.com/cici-uu8/relaycode"
 stars: 0
-language: Python
-last_updated: '2026-09-02T15:49:32Z'
-discovered_at: '2026-09-02T15:50:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T15:49:32Z"
+discovered_at: "2026-09-02T15:50:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

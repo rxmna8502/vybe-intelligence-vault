@@ -1,28 +1,19 @@
 ---
-title: Alpha-Park/genpark-responsive-wireframe-component-layout-generator-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python 3.9+
-- Model Context Protocol (MCP)
-- JSON-RPC
-- Standard Library Only
+title: "Alpha-Park/genpark-responsive-wireframe-component-layout-generator-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "Standard Library Only"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- UI generation
-- wireframe
-- MCP server
-- deterministic
-- zero dependencies
-source: https://github.com/Alpha-Park/genpark-responsive-wireframe-component-layout-generator-skill
+deployment_complexity: "Low"
+tags: ["UI generation", "wireframe", "MCP server", "deterministic", "zero dependencies"]
+source: "https://github.com/Alpha-Park/genpark-responsive-wireframe-component-layout-generator-skill"
 stars: 8
-language: Python
-last_updated: '2026-09-03T15:32:23Z'
-discovered_at: '2026-09-03T15:41:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:32:23Z"
+discovered_at: "2026-09-03T15:41:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: hermes-labs-ai/claude-router
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Ollama
-- nomic-embed-text
-- NumPy
-- Requests
-- JSON
+title: "hermes-labs-ai/claude-router"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Ollama", "nomic-embed-text", "NumPy", "Requests", "JSON"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- prompt routing
-- Claude API optimization
-- cost reduction
-- local embeddings
-- model selection
-source: https://github.com/hermes-labs-ai/claude-router
+deployment_complexity: "Medium"
+tags: ["prompt routing", "Claude API optimization", "cost reduction", "local embeddings", "model selection"]
+source: "https://github.com/hermes-labs-ai/claude-router"
 stars: 0
-language: Python
-last_updated: '2026-08-04T08:53:00Z'
-discovered_at: '2026-08-04T10:41:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T08:53:00Z"
+discovered_at: "2026-08-04T10:41:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

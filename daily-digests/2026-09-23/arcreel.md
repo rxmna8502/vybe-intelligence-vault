@@ -1,35 +1,19 @@
 ---
-title: ArcReel/ArcReel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Docker
-- FastAPI
-- PostgreSQL/SQLite
-- React
-- TypeScript
-- AI Agents
-- LLMs
-- TTS
-- Video Generation Models
-- Mermaid.js
+title: "ArcReel/ArcReel"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Docker", "FastAPI", "PostgreSQL/SQLite", "React", "TypeScript", "AI Agents", "LLMs", "TTS", "Video Generation Models", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI video production
-- self-hosted
-- agent orchestration
-- storyboard generation
-- cost tracking
-source: https://github.com/ArcReel/ArcReel
+deployment_complexity: "Medium"
+tags: ["AI video production", "self-hosted", "agent orchestration", "storyboard generation", "cost tracking"]
+source: "https://github.com/ArcReel/ArcReel"
 stars: 4311
-language: Python
-last_updated: '2026-09-02T02:00:37Z'
-discovered_at: '2026-09-02T02:11:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T02:00:37Z"
+discovered_at: "2026-09-02T02:11:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

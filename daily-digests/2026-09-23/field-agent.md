@@ -1,29 +1,19 @@
 ---
-title: b1rdmania/field-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Exa Search API
-- Claude Code CLI
-- Markdown
-- Git
+title: "b1rdmania/field-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Exa Search API", "Claude Code CLI", "Markdown", "Git"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- field marketing
-- event automation
-- account-based targeting
-- briefing generation
-- Exa API
-source: https://github.com/b1rdmania/field-agent
+deployment_complexity: "Medium"
+tags: ["field marketing", "event automation", "account-based targeting", "briefing generation", "Exa API"]
+source: "https://github.com/b1rdmania/field-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-04T15:31:25Z'
-discovered_at: '2026-08-04T15:34:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T15:31:25Z"
+discovered_at: "2026-08-04T15:34:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

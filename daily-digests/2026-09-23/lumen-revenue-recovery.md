@@ -1,31 +1,19 @@
 ---
-title: parigyani/lumen-revenue-recovery
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Gemini API
-- Streamlit
-- Razorpay SDK
-- FileLock
-- JSON
-- Pytest
+title: "parigyani/lumen-revenue-recovery"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Gemini API", "Streamlit", "Razorpay SDK", "FileLock", "JSON", "Pytest"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- revenue recovery
-- AI agent
-- cart abandonment
-- deterministic logic
-- audit trail
-source: https://github.com/parigyani/lumen-revenue-recovery
+deployment_complexity: "Medium"
+tags: ["revenue recovery", "AI agent", "cart abandonment", "deterministic logic", "audit trail"]
+source: "https://github.com/parigyani/lumen-revenue-recovery"
 stars: 0
-language: Python
-last_updated: '2026-09-02T19:05:53Z'
-discovered_at: '2026-09-02T19:12:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T19:05:53Z"
+discovered_at: "2026-09-02T19:12:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

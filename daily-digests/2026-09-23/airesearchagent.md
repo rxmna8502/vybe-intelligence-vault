@@ -1,31 +1,19 @@
 ---
-title: itswael/AIResearchAgent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- Pydantic
-- aiokafka
-- Docker
-- Kafka
-- Vector DB (stub)
+title: "itswael/AIResearchAgent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Pydantic", "aiokafka", "Docker", "Kafka", "Vector DB (stub)"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- event-driven
-- multi-agent
-- backend scaffold
-- Kafka
-- vector DB
-source: https://github.com/itswael/AIResearchAgent
+deployment_complexity: "Medium"
+tags: ["event-driven", "multi-agent", "backend scaffold", "Kafka", "vector DB"]
+source: "https://github.com/itswael/AIResearchAgent"
 stars: 0
-language: Python
-last_updated: '2026-08-08T21:34:47Z'
-discovered_at: '2026-08-08T22:32:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T21:34:47Z"
+discovered_at: "2026-08-08T22:32:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

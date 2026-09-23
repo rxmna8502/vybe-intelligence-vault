@@ -1,33 +1,19 @@
 ---
-title: punt-labs/langlearn-tts
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Claude Desktop
-- MCP (Model Context Protocol)
-- ElevenLabs API
-- OpenAI TTS API
-- AWS Polly
-- FFmpeg
-- uv (Python package manager)
-- GitHub Actions
+title: "punt-labs/langlearn-tts"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude Desktop", "MCP (Model Context Protocol)", "ElevenLabs API", "OpenAI TTS API", "AWS Polly", "FFmpeg", "uv (Python package manager)", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- text-to-speech
-- language learning
-- Claude extension
-- audio flashcards
-- TTS integration
-source: https://github.com/punt-labs/langlearn-tts
+deployment_complexity: "Medium"
+tags: ["text-to-speech", "language learning", "Claude extension", "audio flashcards", "TTS integration"]
+source: "https://github.com/punt-labs/langlearn-tts"
 stars: 1
-language: Python
-last_updated: '2026-08-08T15:27:37Z'
-discovered_at: '2026-08-08T15:32:35Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T15:27:37Z"
+discovered_at: "2026-08-08T15:32:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

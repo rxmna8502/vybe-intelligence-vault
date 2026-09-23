@@ -1,29 +1,19 @@
 ---
-title: tugcantopaloglu/godot-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Godot Engine
-- GDScript
-- Model Context Protocol (MCP)
-- TCP/IP
+title: "tugcantopaloglu/godot-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Godot Engine", "GDScript", "Model Context Protocol (MCP)", "TCP/IP"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- Godot automation
-- AI-driven game development
-- runtime scene manipulation
-- game engine control
-source: https://github.com/tugcantopaloglu/godot-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Godot automation", "AI-driven game development", "runtime scene manipulation", "game engine control"]
+source: "https://github.com/tugcantopaloglu/godot-mcp"
 stars: 320
-language: JavaScript
-last_updated: '2026-07-10T13:03:25Z'
-discovered_at: '2026-07-10T13:12:25Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-10T13:03:25Z"
+discovered_at: "2026-07-10T13:12:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

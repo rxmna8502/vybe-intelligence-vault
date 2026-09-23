@@ -1,39 +1,19 @@
 ---
-title: FacundoSu1986/Sky-Claw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Mod Organizer 2 (MO2)
-- LOOT
-- xEdit
-- Nexus Mods API
-- Anthropic API
-- OpenAI API
-- DeepSeek API
-- Ollama
-- SQLite
-- NiceGUI
-- Telegram Bot API
-- TOML
-- Asyncio
-- SQLAlchemy
+title: "FacundoSu1986/Sky-Claw"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Mod Organizer 2 (MO2)", "LOOT", "xEdit", "Nexus Mods API", "Anthropic API", "OpenAI API", "DeepSeek API", "Ollama", "SQLite", "NiceGUI", "Telegram Bot API", "TOML", "Asyncio", "SQLAlchemy"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- mod management
-- Skyrim
-- AI-assisted workflows
-- human-in-the-loop
-- local LLM integration
-source: https://github.com/FacundoSu1986/Sky-Claw
+deployment_complexity: "Medium"
+tags: ["mod management", "Skyrim", "AI-assisted workflows", "human-in-the-loop", "local LLM integration"]
+source: "https://github.com/FacundoSu1986/Sky-Claw"
 stars: 1
-language: Python
-last_updated: '2026-09-02T22:13:15Z'
-discovered_at: '2026-09-02T22:17:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:13:15Z"
+discovered_at: "2026-09-02T22:17:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: ForYourHelpAI101/skill-router-g6
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- RAG (Retrieval-Augmented Generation)
-- BM25
-- Thompson Sampling
-- DPP (Determinantal Point Process)
-- Beta Posteriors
+title: "ForYourHelpAI101/skill-router-g6"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "BM25", "Thompson Sampling", "DPP (Determinantal Point Process)", "Beta Posteriors"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- skill routing
-- self-learning
-- MCP server
-- agent orchestration
-- anti-hallucination
-source: https://github.com/ForYourHelpAI101/skill-router-g6
+deployment_complexity: "Medium"
+tags: ["skill routing", "self-learning", "MCP server", "agent orchestration", "anti-hallucination"]
+source: "https://github.com/ForYourHelpAI101/skill-router-g6"
 stars: 0
-language: Python
-last_updated: '2026-07-17T22:38:13Z'
-discovered_at: '2026-07-17T22:47:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T22:38:13Z"
+discovered_at: "2026-07-17T22:47:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

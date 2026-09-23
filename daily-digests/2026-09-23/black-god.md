@@ -1,34 +1,19 @@
 ---
-title: zhumingjie0223-cyber/Black-God
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- Cloudflare Workers
-- Cloudflare KV
-- Cloudflare AI
-- SQLite
-- Telegram Bot API
-- Python
-- HTML/CSS
-- SSE (Server-Sent Events)
-- WebAssembly (Wasm)
+title: "zhumingjie0223-cyber/Black-God"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Cloudflare Workers", "Cloudflare KV", "Cloudflare AI", "SQLite", "Telegram Bot API", "Python", "HTML/CSS", "SSE (Server-Sent Events)", "WebAssembly (Wasm)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI consciousness
-- autonomous agents
-- episodic memory
-- self-aware systems
-- semantic language
-source: https://github.com/zhumingjie0223-cyber/Black-God
+deployment_complexity: "Medium"
+tags: ["AI consciousness", "autonomous agents", "episodic memory", "self-aware systems", "semantic language"]
+source: "https://github.com/zhumingjie0223-cyber/Black-God"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-01T13:11:28Z'
-discovered_at: '2026-08-01T13:16:27Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T13:11:28Z"
+discovered_at: "2026-08-01T13:16:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

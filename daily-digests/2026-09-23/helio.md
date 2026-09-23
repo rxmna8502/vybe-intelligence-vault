@@ -1,31 +1,19 @@
 ---
-title: gethelio/helio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- YAML
-- SQLite
-- React
-- Docker
+title: "gethelio/helio"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "YAML", "SQLite", "React", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- governance
-- policy enforcement
-- MCP proxy
-- audit trail
-- spend control
-source: https://github.com/gethelio/helio
+deployment_complexity: "Medium"
+tags: ["governance", "policy enforcement", "MCP proxy", "audit trail", "spend control"]
+source: "https://github.com/gethelio/helio"
 stars: 8
-language: TypeScript
-last_updated: '2026-07-21T10:16:47Z'
-discovered_at: '2026-07-21T10:24:33Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T10:16:47Z"
+discovered_at: "2026-07-21T10:24:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

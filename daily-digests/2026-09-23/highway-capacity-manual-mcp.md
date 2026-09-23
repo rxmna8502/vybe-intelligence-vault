@@ -1,33 +1,19 @@
 ---
-title: crosstraffic/highway-capacity-manual-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- Model Context Protocol (MCP)
-- ChromaDB
-- Pydantic
-- YAML
-- RESTful API
-- SQLAlchemy
-- Ruff
+title: "crosstraffic/highway-capacity-manual-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "Model Context Protocol (MCP)", "ChromaDB", "Pydantic", "YAML", "RESTful API", "SQLAlchemy", "Ruff"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- transportation engineering
-- HCM analysis
-- MCP server
-- semantic search
-- knowledge graph reasoning
-source: https://github.com/crosstraffic/highway-capacity-manual-mcp
+deployment_complexity: "Medium"
+tags: ["transportation engineering", "HCM analysis", "MCP server", "semantic search", "knowledge graph reasoning"]
+source: "https://github.com/crosstraffic/highway-capacity-manual-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-04T03:56:33Z'
-discovered_at: '2026-08-04T04:15:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T03:56:33Z"
+discovered_at: "2026-08-04T04:15:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

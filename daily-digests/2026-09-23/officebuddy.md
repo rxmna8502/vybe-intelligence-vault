@@ -1,28 +1,19 @@
 ---
-title: samirshaw108-alt/OfficeBuddy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Microsoft Office API
-- Windows OS
-- PyInstaller (for packaging)
+title: "samirshaw108-alt/OfficeBuddy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Microsoft Office API", "Windows OS", "PyInstaller (for packaging)"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- document automation
-- Microsoft Office
-- local processing
-- privacy-focused
-- desktop agent
-source: https://github.com/samirshaw108-alt/OfficeBuddy
+deployment_complexity: "Medium"
+tags: ["document automation", "Microsoft Office", "local processing", "privacy-focused", "desktop agent"]
+source: "https://github.com/samirshaw108-alt/OfficeBuddy"
 stars: 0
-language: Python
-last_updated: '2026-08-06T06:28:49Z'
-discovered_at: '2026-08-06T06:32:12Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T06:28:49Z"
+discovered_at: "2026-08-06T06:32:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

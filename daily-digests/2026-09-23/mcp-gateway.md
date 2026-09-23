@@ -1,32 +1,19 @@
 ---
-title: openziti/mcp-gateway
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- OpenZiti
-- zrok
-- Agora
-- Model Context Protocol (MCP)
-- YAML
-- HTTP/SSE
-- mTLS
+title: "openziti/mcp-gateway"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "OpenZiti", "zrok", "Agora", "Model Context Protocol (MCP)", "YAML", "HTTP/SSE", "mTLS"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- zero trust
-- secure access
-- MCP tools
-- overlay network
-- AI agent integration
-source: https://github.com/openziti/mcp-gateway
+deployment_complexity: "Medium"
+tags: ["zero trust", "secure access", "MCP tools", "overlay network", "AI agent integration"]
+source: "https://github.com/openziti/mcp-gateway"
 stars: 43
-language: Go
-last_updated: '2026-07-21T17:14:51Z'
-discovered_at: '2026-07-21T17:16:45Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-21T17:14:51Z"
+discovered_at: "2026-07-21T17:16:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

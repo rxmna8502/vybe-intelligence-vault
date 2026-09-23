@@ -1,40 +1,19 @@
 ---
-title: TheurgicDuke771/DataQ
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- FastAPI
-- Celery
-- Great Expectations
-- PostgreSQL
-- Redis
-- React
-- Vite
-- Ant Design
-- OIDC (Azure AD, AWS Cognito)
-- Azure Key Vault / AWS Secrets Manager
-- Azure Container Apps / AWS ECS Fargate
-- FastMCP
-- SQLAlchemy
-- Alembic
-- OpenLineage
-- dbt
+title: "TheurgicDuke771/DataQ"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["FastAPI", "Celery", "Great Expectations", "PostgreSQL", "Redis", "React", "Vite", "Ant Design", "OIDC (Azure AD, AWS Cognito)", "Azure Key Vault / AWS Secrets Manager", "Azure Container Apps / AWS ECS Fargate", "FastMCP", "SQLAlchemy", "Alembic", "OpenLineage", "dbt"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- data quality
-- monitoring
-- Great Expectations
-- orchestration
-- MCP
-source: https://github.com/TheurgicDuke771/DataQ
+deployment_complexity: "Medium"
+tags: ["data quality", "monitoring", "Great Expectations", "orchestration", "MCP"]
+source: "https://github.com/TheurgicDuke771/DataQ"
 stars: 0
-language: Python
-last_updated: '2026-09-03T02:19:28Z'
-discovered_at: '2026-09-03T02:22:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T02:19:28Z"
+discovered_at: "2026-09-03T02:22:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

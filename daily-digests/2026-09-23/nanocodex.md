@@ -1,33 +1,19 @@
 ---
-title: gakonst/nanocodex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Rust
-- Tower
-- OpenAI API
-- Tokio
-- WebSocket
-- OpenTelemetry
-- Procedural Macros
-- VM-backed tools (QEMU, Linux)
-- CLI/TUI
+title: "gakonst/nanocodex"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Tower", "OpenAI API", "Tokio", "WebSocket", "OpenTelemetry", "Procedural Macros", "VM-backed tools (QEMU, Linux)", "CLI/TUI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent-framework
-- openai-integration
-- rust-sdk
-- modular-components
-- vm-backed-tools
-source: https://github.com/gakonst/nanocodex
+deployment_complexity: "Medium"
+tags: ["agent-framework", "openai-integration", "rust-sdk", "modular-components", "vm-backed-tools"]
+source: "https://github.com/gakonst/nanocodex"
 stars: 354
-language: Rust
-last_updated: '2026-08-03T21:55:25Z'
-discovered_at: '2026-08-03T22:09:38Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-03T21:55:25Z"
+discovered_at: "2026-08-03T22:09:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

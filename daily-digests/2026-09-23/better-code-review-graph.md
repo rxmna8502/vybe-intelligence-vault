@@ -1,32 +1,19 @@
 ---
-title: n24q02m/better-code-review-graph
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Tree-sitter
-- ONNX Runtime
-- SQLite
-- MCP (Model Context Protocol)
-- Docker
-- litellm
-- Semgrep
+title: "n24q02m/better-code-review-graph"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Tree-sitter", "ONNX Runtime", "SQLite", "MCP (Model Context Protocol)", "Docker", "litellm", "Semgrep"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- code analysis
-- knowledge graph
-- semantic search
-- call graph
-- MCP server
-source: https://github.com/n24q02m/better-code-review-graph
+deployment_complexity: "Medium"
+tags: ["code analysis", "knowledge graph", "semantic search", "call graph", "MCP server"]
+source: "https://github.com/n24q02m/better-code-review-graph"
 stars: 61
-language: Python
-last_updated: '2026-07-10T13:09:38Z'
-discovered_at: '2026-07-10T13:11:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T13:09:38Z"
+discovered_at: "2026-07-10T13:11:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

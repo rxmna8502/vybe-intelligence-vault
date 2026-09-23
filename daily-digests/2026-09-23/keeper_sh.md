@@ -1,34 +1,19 @@
 ---
-title: ridafkih/keeper.sh
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Bun
-- PostgreSQL
-- Redis
-- Docker
-- Caddy
-- Model Context Protocol (MCP)
-- CalDAV
-- ICS
-- OAuth
+title: "ridafkih/keeper.sh"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "PostgreSQL", "Redis", "Docker", "Caddy", "Model Context Protocol (MCP)", "CalDAV", "ICS", "OAuth"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- calendar sync
-- MCP server
-- self-hosting
-- AI agent integration
-- open-source
-source: https://github.com/ridafkih/keeper.sh
+deployment_complexity: "Medium"
+tags: ["calendar sync", "MCP server", "self-hosting", "AI agent integration", "open-source"]
+source: "https://github.com/ridafkih/keeper.sh"
 stars: 1200
-language: TypeScript
-last_updated: '2026-07-18T02:09:04Z'
-discovered_at: '2026-07-18T02:12:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T02:09:04Z"
+discovered_at: "2026-07-18T02:12:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

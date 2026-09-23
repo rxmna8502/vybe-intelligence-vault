@@ -1,36 +1,19 @@
 ---
-title: gitcommit90/1Helm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- OCI Containers
-- Podman
-- WSL 2
-- Electron
-- React
-- Go
-- Python
-- Linux Kernel
-- Systemd
-- Apple Notarization
-- Authenticode
+title: "gitcommit90/1Helm"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "OCI Containers", "Podman", "WSL 2", "Electron", "React", "Go", "Python", "Linux Kernel", "Systemd", "Apple Notarization", "Authenticode"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- durable AI agents
-- persistent memory
-- self-hosted
-- multi-model
-- agent orchestration
-source: https://github.com/gitcommit90/1Helm
+deployment_complexity: "High"
+tags: ["durable AI agents", "persistent memory", "self-hosted", "multi-model", "agent orchestration"]
+source: "https://github.com/gitcommit90/1Helm"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-01T03:35:17Z'
-discovered_at: '2026-08-01T03:43:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T03:35:17Z"
+discovered_at: "2026-08-01T03:43:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

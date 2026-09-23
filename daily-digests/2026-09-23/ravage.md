@@ -1,30 +1,19 @@
 ---
-title: duriantaco/ravage
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Docker
-- CLI
-- LLM APIs
-- YAML
-- Bash
+title: "duriantaco/ravage"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Docker", "CLI", "LLM APIs", "YAML", "Bash"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- security testing
-- web application assessment
-- CLI tool
-- authenticated scanning
-- evidence-based
-source: https://github.com/duriantaco/ravage
+deployment_complexity: "Medium"
+tags: ["security testing", "web application assessment", "CLI tool", "authenticated scanning", "evidence-based"]
+source: "https://github.com/duriantaco/ravage"
 stars: 2
-language: Python
-last_updated: '2026-09-01T15:18:16Z'
-discovered_at: '2026-09-01T15:54:41Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T15:18:16Z"
+discovered_at: "2026-09-01T15:54:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

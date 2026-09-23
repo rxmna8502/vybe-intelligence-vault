@@ -1,32 +1,19 @@
 ---
-title: dfch/biz.dfch.SpecMgr
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Pydantic
-- Model Context Protocol (MCP)
-- CLI
-- Markdown
-- JSON
-- GitHub Actions
-- uv
+title: "dfch/biz.dfch.SpecMgr"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Pydantic", "Model Context Protocol (MCP)", "CLI", "Markdown", "JSON", "GitHub Actions", "uv"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- specification management
-- ADR tooling
-- MCP server
-- documentation
-- Python library
-source: https://github.com/dfch/biz.dfch.SpecMgr
+deployment_complexity: "Medium"
+tags: ["specification management", "ADR tooling", "MCP server", "documentation", "Python library"]
+source: "https://github.com/dfch/biz.dfch.SpecMgr"
 stars: 0
-language: Python
-last_updated: '2026-08-04T03:58:42Z'
-discovered_at: '2026-08-04T04:15:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T03:58:42Z"
+discovered_at: "2026-08-04T04:15:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

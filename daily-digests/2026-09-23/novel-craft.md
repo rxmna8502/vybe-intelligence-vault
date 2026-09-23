@@ -1,28 +1,19 @@
 ---
-title: dongyanyuxuana/novel-craft
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Markdown
-- Shell Scripting
-- AI Coding Assistants (Claude Code, OpenCode)
+title: "dongyanyuxuana/novel-craft"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "Shell Scripting", "AI Coding Assistants (Claude Code, OpenCode)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- novel writing
-- AI-assisted storytelling
-- writing pipeline
-- genre-specific crafting
-- long-form content generation
-source: https://github.com/dongyanyuxuana/novel-craft
+deployment_complexity: "Low"
+tags: ["novel writing", "AI-assisted storytelling", "writing pipeline", "genre-specific crafting", "long-form content generation"]
+source: "https://github.com/dongyanyuxuana/novel-craft"
 stars: 4
-language: Python
-last_updated: '2026-08-07T17:49:24Z'
-discovered_at: '2026-08-07T17:52:04Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T17:49:24Z"
+discovered_at: "2026-08-07T17:52:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

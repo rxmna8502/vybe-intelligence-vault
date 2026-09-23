@@ -1,30 +1,19 @@
 ---
-title: dppalukuri/BlackHole
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Astro
-- Preact
-- Chart.js
-- Hugo
-- Cloudflare Pages
-- Python
+title: "dppalukuri/BlackHole"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Astro", "Preact", "Chart.js", "Hugo", "Cloudflare Pages", "Python"]
 quality_score: 6
 rag_relevance: 3
-deployment_complexity: Low
-tags:
-- financial calculators
-- SaaS comparisons
-- visa checker
-- browser-based tools
-- productivity suite
-source: https://github.com/dppalukuri/BlackHole
+deployment_complexity: "Low"
+tags: ["financial calculators", "SaaS comparisons", "visa checker", "browser-based tools", "productivity suite"]
+source: "https://github.com/dppalukuri/BlackHole"
 stars: 1
-language: Python
-last_updated: '2026-07-12T10:14:33Z'
-discovered_at: '2026-07-12T10:26:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T10:14:33Z"
+discovered_at: "2026-07-12T10:26:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

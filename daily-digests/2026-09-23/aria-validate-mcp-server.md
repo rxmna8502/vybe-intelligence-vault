@@ -1,29 +1,19 @@
 ---
-title: yamanoku/aria-validate-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Deno
-- Node.js
-- Model Context Protocol (MCP)
-- aria-query
+title: "yamanoku/aria-validate-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Deno", "Node.js", "Model Context Protocol (MCP)", "aria-query"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- ARIA validation
-- accessibility
-- MCP server
-- web standards
-- AI tooling
-source: https://github.com/yamanoku/aria-validate-mcp-server
+deployment_complexity: "Low"
+tags: ["ARIA validation", "accessibility", "MCP server", "web standards", "AI tooling"]
+source: "https://github.com/yamanoku/aria-validate-mcp-server"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-02T02:31:02Z'
-discovered_at: '2026-08-02T02:34:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T02:31:02Z"
+discovered_at: "2026-08-02T02:34:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

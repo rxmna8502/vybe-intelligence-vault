@@ -1,29 +1,19 @@
 ---
-title: GhalebDweikat/mcp-gauntlet
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- LLM APIs (Groq, OpenAI, Ollama, etc.)
-- JSON Schema
-- CI/CD (GitHub Actions)
+title: "GhalebDweikat/mcp-gauntlet"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "LLM APIs (Groq, OpenAI, Ollama, etc.)", "JSON Schema", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server testing
-- tool poisoning detection
-- schema validation
-- dynamic regression suite
-- CI/CD integration
-source: https://github.com/GhalebDweikat/mcp-gauntlet
+deployment_complexity: "Medium"
+tags: ["MCP server testing", "tool poisoning detection", "schema validation", "dynamic regression suite", "CI/CD integration"]
+source: "https://github.com/GhalebDweikat/mcp-gauntlet"
 stars: 0
-language: Python
-last_updated: '2026-08-02T22:55:01Z'
-discovered_at: '2026-08-02T22:56:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T22:55:01Z"
+discovered_at: "2026-08-02T22:56:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: BRCOO/ohmypi-craft
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Electron
-- React
-- Bun
-- Node.js
-- JSONL RPC
-- MCP (Model Context Protocol)
-- Electron Forge
+title: "BRCOO/ohmypi-craft"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Electron", "React", "Bun", "Node.js", "JSONL RPC", "MCP (Model Context Protocol)", "Electron Forge"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- agent workspace
-- local-first
-- desktop shell
-- session management
-- MCP integration
-source: https://github.com/BRCOO/ohmypi-craft
+deployment_complexity: "Medium"
+tags: ["agent workspace", "local-first", "desktop shell", "session management", "MCP integration"]
+source: "https://github.com/BRCOO/ohmypi-craft"
 stars: 3
-language: TypeScript
-last_updated: '2026-07-17T14:38:56Z'
-discovered_at: '2026-07-17T14:43:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T14:38:56Z"
+discovered_at: "2026-07-17T14:43:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

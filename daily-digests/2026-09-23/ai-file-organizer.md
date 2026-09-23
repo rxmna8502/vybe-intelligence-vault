@@ -1,31 +1,19 @@
 ---
-title: thebearwithabite/ai-file-organizer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- YAML
-- Google Drive API
-- Computer Vision
-- Audio Analysis
-- MD5
-- SHA256
+title: "thebearwithabite/ai-file-organizer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "YAML", "Google Drive API", "Computer Vision", "Audio Analysis", "MD5", "SHA256"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- file organization
-- adaptive learning
-- cloud integration
-- deduplication
-- AI automation
-source: https://github.com/thebearwithabite/ai-file-organizer
+deployment_complexity: "Medium"
+tags: ["file organization", "adaptive learning", "cloud integration", "deduplication", "AI automation"]
+source: "https://github.com/thebearwithabite/ai-file-organizer"
 stars: 43
-language: Python
-last_updated: '2026-08-09T08:02:21Z'
-discovered_at: '2026-08-09T08:46:48Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T08:02:21Z"
+discovered_at: "2026-08-09T08:46:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

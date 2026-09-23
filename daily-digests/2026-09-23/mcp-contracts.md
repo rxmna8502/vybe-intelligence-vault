@@ -1,31 +1,19 @@
 ---
-title: mcp-contracts/mcp-contracts
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- JSON Schema
-- Ed25519/RSA Signatures
-- GitHub Actions
-- Vitest
+title: "mcp-contracts/mcp-contracts"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "JSON Schema", "Ed25519/RSA Signatures", "GitHub Actions", "Vitest"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- contract testing
-- schema validation
-- CI/CD
-- tool poisoning defense
-source: https://github.com/mcp-contracts/mcp-contracts
+deployment_complexity: "Medium"
+tags: ["MCP", "contract testing", "schema validation", "CI/CD", "tool poisoning defense"]
+source: "https://github.com/mcp-contracts/mcp-contracts"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-07T10:55:40Z'
-discovered_at: '2026-08-07T11:04:34Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T10:55:40Z"
+discovered_at: "2026-08-07T11:04:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: Miosa-osa/OSA
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Elixir
-- Erlang/OTP
-- Rust
-- SQLite
-- ETS
-- Goldrush (BEAM events)
-- Bandit (HTTP server)
-- Req (HTTP client)
-- Tauri (Desktop UI)
-- Signal Theory
+title: "Miosa-osa/OSA"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Elixir", "Erlang/OTP", "Rust", "SQLite", "ETS", "Goldrush (BEAM events)", "Bandit (HTTP server)", "Req (HTTP client)", "Tauri (Desktop UI)", "Signal Theory"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- local-first AI
-- signal theory
-- Elixir/OTP
-- autonomous agents
-source: https://github.com/Miosa-osa/OSA
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "local-first AI", "signal theory", "Elixir/OTP", "autonomous agents"]
+source: "https://github.com/Miosa-osa/OSA"
 stars: 40
-language: Elixir
-last_updated: '2026-07-16T02:18:58Z'
-discovered_at: '2026-07-16T02:25:50Z'
-evaluated_by: mistral-small-latest
+language: "Elixir"
+last_updated: "2026-07-16T02:18:58Z"
+discovered_at: "2026-07-16T02:25:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

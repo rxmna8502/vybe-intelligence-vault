@@ -1,33 +1,19 @@
 ---
-title: firelock-ai/kin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Rust
-- Graph Database
-- MCP (Model Context Protocol)
-- Vector Search
-- Language Server Protocol (LSP)
-- CLI
-- Daemon
-- VS Code Extension
-- Git Integration
+title: "firelock-ai/kin"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Graph Database", "MCP (Model Context Protocol)", "Vector Search", "Language Server Protocol (LSP)", "CLI", "Daemon", "VS Code Extension", "Git Integration"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- semantic graph
-- AI agent context
-- change impact analysis
-- provenance tracking
-- software graph
-source: https://github.com/firelock-ai/kin
+deployment_complexity: "Medium"
+tags: ["semantic graph", "AI agent context", "change impact analysis", "provenance tracking", "software graph"]
+source: "https://github.com/firelock-ai/kin"
 stars: 47
-language: Rust
-last_updated: '2026-09-03T15:30:44Z'
-discovered_at: '2026-09-03T15:42:33Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-03T15:30:44Z"
+discovered_at: "2026-09-03T15:42:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

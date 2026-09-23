@@ -1,29 +1,19 @@
 ---
-title: oppnc/godot-player-kimi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Godot Engine
-- Python
-- Kimi Code
-- JSONL
-- Bash
+title: "oppnc/godot-player-kimi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Godot Engine", "Python", "Kimi Code", "JSONL", "Bash"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- Godot plugin
-- AI gameplay
-- turn-based
-- Kimi Code
-- game automation
-source: https://github.com/oppnc/godot-player-kimi
+deployment_complexity: "Low"
+tags: ["Godot plugin", "AI gameplay", "turn-based", "Kimi Code", "game automation"]
+source: "https://github.com/oppnc/godot-player-kimi"
 stars: 0
-language: Python
-last_updated: '2026-09-02T22:12:03Z'
-discovered_at: '2026-09-02T22:15:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:12:03Z"
+discovered_at: "2026-09-02T22:15:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

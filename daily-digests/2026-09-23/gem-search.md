@@ -1,31 +1,19 @@
 ---
-title: nlink-jp/gem-search
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- Vertex AI
-- Gemini
-- Google Search Grounding
-- Google Cloud
-- TOML
-- CLI
+title: "nlink-jp/gem-search"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Vertex AI", "Gemini", "Google Search Grounding", "Google Cloud", "TOML", "CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- web search
-- agentic AI
-- Gemini
-- Vertex AI
-- CLI
-source: https://github.com/nlink-jp/gem-search
+deployment_complexity: "Medium"
+tags: ["web search", "agentic AI", "Gemini", "Vertex AI", "CLI"]
+source: "https://github.com/nlink-jp/gem-search"
 stars: 0
-language: Go
-last_updated: '2026-08-08T13:41:07Z'
-discovered_at: '2026-08-08T13:48:41Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T13:41:07Z"
+discovered_at: "2026-08-08T13:48:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
