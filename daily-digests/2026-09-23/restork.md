@@ -1,33 +1,19 @@
 ---
-title: Totoro-qaq/restork
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python 3.12
-- TypeScript
-- SQLite
-- Obsidian Markdown
-- DeepSeek V4 Pro
-- React
-- FastAPI
-- uv (package manager)
-- Node.js
+title: "Totoro-qaq/restork"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12", "TypeScript", "SQLite", "Obsidian Markdown", "DeepSeek V4 Pro", "React", "FastAPI", "uv (package manager)", "Node.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local-first
-- agent workspace
-- privacy-focused
-- approval-based workflows
-- memory layers
-source: https://github.com/Totoro-qaq/restork
+deployment_complexity: "Medium"
+tags: ["local-first", "agent workspace", "privacy-focused", "approval-based workflows", "memory layers"]
+source: "https://github.com/Totoro-qaq/restork"
 stars: 0
-language: Python
-last_updated: '2026-08-02T02:27:35Z'
-discovered_at: '2026-08-02T02:34:49Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T02:27:35Z"
+discovered_at: "2026-08-02T02:34:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

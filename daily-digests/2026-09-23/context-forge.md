@@ -1,31 +1,19 @@
 ---
-title: ecorkran/context-forge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- CLI
-- Electron (legacy)
-- pnpm
-- React (context-visualizer)
+title: "ecorkran/context-forge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "Electron (legacy)", "pnpm", "React (context-visualizer)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- project management
-- AI agent orchestration
-- structured development
-- context generation
-- workflow automation
-source: https://github.com/ecorkran/context-forge
+deployment_complexity: "Medium"
+tags: ["project management", "AI agent orchestration", "structured development", "context generation", "workflow automation"]
+source: "https://github.com/ecorkran/context-forge"
 stars: 6
-language: TypeScript
-last_updated: '2026-07-10T13:04:41Z'
-discovered_at: '2026-07-10T13:12:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T13:04:41Z"
+discovered_at: "2026-07-10T13:12:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: askie/grix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- Flutter
-- Python
-- WebSocket
-- Kubernetes
-- REST APIs
+title: "askie/grix"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Flutter", "Python", "WebSocket", "Kubernetes", "REST APIs"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- AI agent collaboration
-- cross-platform messaging
-- task orchestration
-- multi-agent systems
-- real-time communication
-source: https://github.com/askie/grix
+deployment_complexity: "High"
+tags: ["AI agent collaboration", "cross-platform messaging", "task orchestration", "multi-agent systems", "real-time communication"]
+source: "https://github.com/askie/grix"
 stars: 134
-language: Go
-last_updated: '2026-09-03T08:24:19Z'
-discovered_at: '2026-09-03T08:35:09Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T08:24:19Z"
+discovered_at: "2026-09-03T08:35:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: RonsenbergVI/fraise
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- Python
-- TypeScript
-- Docker
-- Graph Database
-- Full-Text Search
-- Vector Search (planned)
-- REST API
+title: "RonsenbergVI/fraise"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Go", "Python", "TypeScript", "Docker", "Graph Database", "Full-Text Search", "Vector Search (planned)", "REST API"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- memory database
-- AI agents
-- hybrid retrieval
-- temporal ranking
-- query language
-source: https://github.com/RonsenbergVI/fraise
+deployment_complexity: "Low"
+tags: ["memory database", "AI agents", "hybrid retrieval", "temporal ranking", "query language"]
+source: "https://github.com/RonsenbergVI/fraise"
 stars: 2
-language: Go
-last_updated: '2026-08-07T17:11:11Z'
-discovered_at: '2026-08-07T17:53:20Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T17:11:11Z"
+discovered_at: "2026-08-07T17:53:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

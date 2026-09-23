@@ -1,32 +1,19 @@
 ---
-title: NovaLux12/NovaLux12
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- MiniMax M3
-- M2.7-highspeed
-- Ollama
-- OpenClaw
-- GitHub Actions
-- Telegram API
-- Cloudflare Workers
-- D1 (Cloudflare Database)
+title: "NovaLux12/NovaLux12"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["MiniMax M3", "M2.7-highspeed", "Ollama", "OpenClaw", "GitHub Actions", "Telegram API", "Cloudflare Workers", "D1 (Cloudflare Database)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- agent toolchain
-- LLM integration
-- open-source contributions
-- agent identity
-source: https://github.com/NovaLux12/NovaLux12
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "agent toolchain", "LLM integration", "open-source contributions", "agent identity"]
+source: "https://github.com/NovaLux12/NovaLux12"
 stars: 0
-language: None
-last_updated: '2026-07-12T22:37:03Z'
-discovered_at: '2026-07-12T22:44:47Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-12T22:37:03Z"
+discovered_at: "2026-07-12T22:44:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

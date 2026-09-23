@@ -1,30 +1,19 @@
 ---
-title: MonteLuke/mylo-project
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Langchain
-- Textual
-- Ollama
-- GitHub API
-- GitLab API
+title: "MonteLuke/mylo-project"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Langchain", "Textual", "Ollama", "GitHub API", "GitLab API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- code analysis
-- repository search
-- terminal agent
-- multi-model support
-- AST parsing
-source: https://github.com/MonteLuke/mylo-project
+deployment_complexity: "Medium"
+tags: ["code analysis", "repository search", "terminal agent", "multi-model support", "AST parsing"]
+source: "https://github.com/MonteLuke/mylo-project"
 stars: 1
-language: Python
-last_updated: '2026-07-11T07:49:34Z'
-discovered_at: '2026-07-11T07:52:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T07:49:34Z"
+discovered_at: "2026-07-11T07:52:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

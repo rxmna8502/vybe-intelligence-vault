@@ -1,33 +1,19 @@
 ---
-title: dengzii/weaveflow
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- LLM Integration
-- Graph Theory
-- State Management
-- Checkpointing
-- Event Sourcing
-- Web UI
-- OpenAI API
-- llama.cpp
+title: "dengzii/weaveflow"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "LLM Integration", "Graph Theory", "State Management", "Checkpointing", "Event Sourcing", "Web UI", "OpenAI API", "llama.cpp"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- LLM Agents
-- Graph Runtime
-- Deterministic Execution
-- State Persistence
-- Debugging
-source: https://github.com/dengzii/weaveflow
+deployment_complexity: "Medium"
+tags: ["LLM Agents", "Graph Runtime", "Deterministic Execution", "State Persistence", "Debugging"]
+source: "https://github.com/dengzii/weaveflow"
 stars: 2
-language: Go
-last_updated: '2026-08-02T02:29:05Z'
-discovered_at: '2026-08-02T02:34:48Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T02:29:05Z"
+discovered_at: "2026-08-02T02:34:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

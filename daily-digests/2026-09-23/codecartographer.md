@@ -1,31 +1,19 @@
 ---
-title: HuginnIndustries/CodeCartographer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- YAML
-- Markdown
-- Pi (TUI coding agent)
-- LLM orchestration
+title: "HuginnIndustries/CodeCartographer"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "YAML", "Markdown", "Pi (TUI coding agent)", "LLM orchestration"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- reverse engineering
-- software cartography
-- MCP server
-- LLM orchestration
-- provenance tracking
-source: https://github.com/HuginnIndustries/CodeCartographer
+deployment_complexity: "Medium"
+tags: ["reverse engineering", "software cartography", "MCP server", "LLM orchestration", "provenance tracking"]
+source: "https://github.com/HuginnIndustries/CodeCartographer"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-02T16:06:02Z'
-discovered_at: '2026-08-02T16:11:11Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T16:06:02Z"
+discovered_at: "2026-08-02T16:11:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

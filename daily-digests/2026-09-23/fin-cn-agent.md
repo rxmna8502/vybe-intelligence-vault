@@ -1,31 +1,19 @@
 ---
-title: Harry0405LIU/fin-cn-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Large Language Models (LLMs)
-- Elliott Wave Theory
-- Chan Theory (缠论)
-- Technical Analysis (TA)
-- Markdown/JSON Reporting
-- Environment Variables (.env)
+title: "Harry0405LIU/fin-cn-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Large Language Models (LLMs)", "Elliott Wave Theory", "Chan Theory (\u7f20\u8bba)", "Technical Analysis (TA)", "Markdown/JSON Reporting", "Environment Variables (.env)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- quantitative investing
-- multi-agent debate
-- stock selection
-- technical analysis
-- automated reporting
-source: https://github.com/Harry0405LIU/fin-cn-agent
+deployment_complexity: "Medium"
+tags: ["quantitative investing", "multi-agent debate", "stock selection", "technical analysis", "automated reporting"]
+source: "https://github.com/Harry0405LIU/fin-cn-agent"
 stars: 1
-language: Python
-last_updated: '2026-09-04T02:04:41Z'
-discovered_at: '2026-09-04T02:15:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-04T02:04:41Z"
+discovered_at: "2026-09-04T02:15:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

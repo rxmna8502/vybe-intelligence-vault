@@ -1,35 +1,19 @@
 ---
-title: drhelius/Gearboy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- C++
-- SDL3
-- Model Context Protocol (MCP)
-- RetroArch
-- Visual Studio
-- Xcode
-- CMake
-- Linux (Ubuntu, Fedora, Arch)
-- macOS
-- Windows
-- BSD
+title: "drhelius/Gearboy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C++", "SDL3", "Model Context Protocol (MCP)", "RetroArch", "Visual Studio", "Xcode", "CMake", "Linux (Ubuntu, Fedora, Arch)", "macOS", "Windows", "BSD"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- emulation
-- debugging
-- AI-assisted tooling
-- cross-platform
-- MCP server
-source: https://github.com/drhelius/Gearboy
+deployment_complexity: "Medium"
+tags: ["emulation", "debugging", "AI-assisted tooling", "cross-platform", "MCP server"]
+source: "https://github.com/drhelius/Gearboy"
 stars: 1178
-language: C++
-last_updated: '2026-07-17T21:45:49Z'
-discovered_at: '2026-07-17T21:52:34Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-07-17T21:45:49Z"
+discovered_at: "2026-07-17T21:52:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

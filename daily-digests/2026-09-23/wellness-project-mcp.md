@@ -1,30 +1,19 @@
 ---
-title: turnnoblindeye/wellness-project-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Model Context Protocol (MCP)
-- OAuth
-- REST API
-- TypeScript (implied by MCP server)
-- React (implied by UI components)
-- Node.js (implied by server-side logic)
+title: "turnnoblindeye/wellness-project-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Model Context Protocol (MCP)", "OAuth", "REST API", "TypeScript (implied by MCP server)", "React (implied by UI components)", "Node.js (implied by server-side logic)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- health data integration
-- MCP server
-- AI assistant tools
-- fitness tracking
-- wearable sync
-source: https://github.com/turnnoblindeye/wellness-project-mcp
+deployment_complexity: "Low"
+tags: ["health data integration", "MCP server", "AI assistant tools", "fitness tracking", "wearable sync"]
+source: "https://github.com/turnnoblindeye/wellness-project-mcp"
 stars: 0
-language: None
-last_updated: '2026-08-02T02:16:54Z'
-discovered_at: '2026-08-02T02:35:02Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T02:16:54Z"
+discovered_at: "2026-08-02T02:35:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: johnib/kusto-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Azure Data Explorer
-- KQL (Kusto Query Language)
-- Azure CLI
+title: "johnib/kusto-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Azure Data Explorer", "KQL (Kusto Query Language)", "Azure CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- Azure Data Explorer
-- Kusto
-- AI data analysis
-- Natural language queries
-source: https://github.com/johnib/kusto-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "Azure Data Explorer", "Kusto", "AI data analysis", "Natural language queries"]
+source: "https://github.com/johnib/kusto-mcp"
 stars: 7
-language: TypeScript
-last_updated: '2026-08-07T20:41:30Z'
-discovered_at: '2026-08-07T20:42:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T20:41:30Z"
+discovered_at: "2026-08-07T20:42:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

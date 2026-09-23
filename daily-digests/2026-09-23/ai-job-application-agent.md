@@ -1,33 +1,19 @@
 ---
-title: israeng/ai-job-application-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Google Gemini
-- Google Gen AI SDK
-- Pydantic
-- Streamlit
-- ReportLab
-- pdfplumber
-- Tenacity
-- langdetect
+title: "israeng/ai-job-application-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Google Gemini", "Google Gen AI SDK", "Pydantic", "Streamlit", "ReportLab", "pdfplumber", "Tenacity", "langdetect"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous agent
-- CV analysis
-- ATS optimization
-- LLM orchestration
-- structured workflow
-source: https://github.com/israeng/ai-job-application-agent
+deployment_complexity: "Medium"
+tags: ["autonomous agent", "CV analysis", "ATS optimization", "LLM orchestration", "structured workflow"]
+source: "https://github.com/israeng/ai-job-application-agent"
 stars: 0
-language: Python
-last_updated: '2026-09-02T22:12:12Z'
-discovered_at: '2026-09-02T22:16:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:12:12Z"
+discovered_at: "2026-09-02T22:16:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

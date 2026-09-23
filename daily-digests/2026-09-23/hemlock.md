@@ -1,34 +1,19 @@
 ---
-title: IHateTheWorld-LYK/Hemlock
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- Tauri (Rust)
-- React + TypeScript
-- mitmproxy
-- SQLite
-- SQLAlchemy
-- OpenAI SDK
-- ReAct Agent Framework
-- WebSocket
+title: "IHateTheWorld-LYK/Hemlock"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Tauri (Rust)", "React + TypeScript", "mitmproxy", "SQLite", "SQLAlchemy", "OpenAI SDK", "ReAct Agent Framework", "WebSocket"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI-driven security testing
-- penetration testing automation
-- ReAct agent framework
-- evidence chain validation
-- human-in-the-loop security
-source: https://github.com/IHateTheWorld-LYK/Hemlock
+deployment_complexity: "Medium"
+tags: ["AI-driven security testing", "penetration testing automation", "ReAct agent framework", "evidence chain validation", "human-in-the-loop security"]
+source: "https://github.com/IHateTheWorld-LYK/Hemlock"
 stars: 1
-language: Python
-last_updated: '2026-08-06T09:34:08Z'
-discovered_at: '2026-08-06T09:42:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T09:34:08Z"
+discovered_at: "2026-08-06T09:42:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

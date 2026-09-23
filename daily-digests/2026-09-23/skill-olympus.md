@@ -1,32 +1,19 @@
 ---
-title: Dannykkh/skill-olympus
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Node.js
-- CLI Integration
-- MCP (Model Context Protocol)
-- Docker
-- Playwright
-- Semantic Memory
-- Git
+title: "Dannykkh/skill-olympus"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Node.js", "CLI Integration", "MCP (Model Context Protocol)", "Docker", "Playwright", "Semantic Memory", "Git"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- persistent memory
-- multi-CLI integration
-- software development harness
-- workflow automation
-source: https://github.com/Dannykkh/skill-olympus
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "persistent memory", "multi-CLI integration", "software development harness", "workflow automation"]
+source: "https://github.com/Dannykkh/skill-olympus"
 stars: 5
-language: Python
-last_updated: '2026-09-01T02:37:37Z'
-discovered_at: '2026-09-01T02:51:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T02:37:37Z"
+discovered_at: "2026-09-01T02:51:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

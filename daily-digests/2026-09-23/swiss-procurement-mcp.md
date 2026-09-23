@@ -1,30 +1,19 @@
 ---
-title: malkreide/swiss-procurement-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastAPI
-- Docker
-- structlog
-- PyPI
+title: "malkreide/swiss-procurement-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Docker", "structlog", "PyPI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Swiss procurement
-- simap.ch API
-- public data
-- read-only access
-source: https://github.com/malkreide/swiss-procurement-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Swiss procurement", "simap.ch API", "public data", "read-only access"]
+source: "https://github.com/malkreide/swiss-procurement-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-02T20:45:35Z'
-discovered_at: '2026-08-02T20:54:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T20:45:35Z"
+discovered_at: "2026-08-02T20:54:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

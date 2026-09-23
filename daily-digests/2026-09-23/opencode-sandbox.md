@@ -1,33 +1,19 @@
 ---
-title: PraveenNellihela/opencode-sandbox
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Docker
-- Bash
-- Shell Scripting
-- Python
-- Node.js
-- mise
-- Linux
-- macOS
-- WSL2
+title: "PraveenNellihela/opencode-sandbox"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Docker", "Bash", "Shell Scripting", "Python", "Node.js", "mise", "Linux", "macOS", "WSL2"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI coding agent
-- Docker sandbox
-- security isolation
-- cross-platform
-- persistent environment
-source: https://github.com/PraveenNellihela/opencode-sandbox
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "Docker sandbox", "security isolation", "cross-platform", "persistent environment"]
+source: "https://github.com/PraveenNellihela/opencode-sandbox"
 stars: 1
-language: Shell
-last_updated: '2026-08-01T19:16:42Z'
-discovered_at: '2026-08-01T19:19:02Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-01T19:16:42Z"
+discovered_at: "2026-08-01T19:19:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

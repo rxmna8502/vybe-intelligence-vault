@@ -1,30 +1,19 @@
 ---
-title: GhouI/windows-server-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- PowerShell
-- Model Context Protocol (MCP)
-- Cloudflare Tunnels
-- Next.js (setup-web)
+title: "GhouI/windows-server-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "PowerShell", "Model Context Protocol (MCP)", "Cloudflare Tunnels", "Next.js (setup-web)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Windows automation
-- AI agent tools
-- PowerShell execution
-- MCP server
-- remote desktop alternative
-source: https://github.com/GhouI/windows-server-mcp-server
+deployment_complexity: "Medium"
+tags: ["Windows automation", "AI agent tools", "PowerShell execution", "MCP server", "remote desktop alternative"]
+source: "https://github.com/GhouI/windows-server-mcp-server"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-17T20:02:57Z'
-discovered_at: '2026-07-17T20:05:29Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T20:02:57Z"
+discovered_at: "2026-07-17T20:05:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

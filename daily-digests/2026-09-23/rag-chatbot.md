@@ -1,29 +1,19 @@
 ---
-title: hesamaria/rag-chatbot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- FAISS
-- TinyLlama
-- RAG (Retrieval-Augmented Generation)
+title: "hesamaria/rag-chatbot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "FAISS", "TinyLlama", "RAG (Retrieval-Augmented Generation)"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- RAG
-- mental health
-- Indonesian policy
-- document QA
-- chatbot
-source: https://github.com/hesamaria/rag-chatbot
+deployment_complexity: "Medium"
+tags: ["RAG", "mental health", "Indonesian policy", "document QA", "chatbot"]
+source: "https://github.com/hesamaria/rag-chatbot"
 stars: 4
-language: Python
-last_updated: '2026-08-07T11:59:37Z'
-discovered_at: '2026-08-07T13:03:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:59:37Z"
+discovered_at: "2026-08-07T13:03:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

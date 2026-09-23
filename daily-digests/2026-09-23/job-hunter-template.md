@@ -1,32 +1,19 @@
 ---
-title: FynePool/job-hunter-template
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Claude Code
-- Claude Skills
-- Python
-- YAML
-- GitHub
-- Gmail API
-- Indeed API
-- SMTP
+title: "FynePool/job-hunter-template"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Claude Code", "Claude Skills", "Python", "YAML", "GitHub", "Gmail API", "Indeed API", "SMTP"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- job search automation
-- AI co-pilot
-- Claude Skills
-- CV generation
-- application tracking
-source: https://github.com/FynePool/job-hunter-template
+deployment_complexity: "Medium"
+tags: ["job search automation", "AI co-pilot", "Claude Skills", "CV generation", "application tracking"]
+source: "https://github.com/FynePool/job-hunter-template"
 stars: 0
-language: Python
-last_updated: '2026-07-19T23:44:41Z'
-discovered_at: '2026-07-19T23:55:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T23:44:41Z"
+discovered_at: "2026-07-19T23:55:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

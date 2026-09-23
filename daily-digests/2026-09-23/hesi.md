@@ -1,37 +1,19 @@
 ---
-title: qiuqiukof-oss/Hesi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- Node.js
-- TypeScript
-- WebSocket
-- xterm.js
-- node-pty
-- Express
-- Model Context Protocol (MCP)
-- Playwright
-- Pandoc
-- React
-- Web Speech API
-- IndexedDB
+title: "qiuqiukof-oss/Hesi"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "TypeScript", "WebSocket", "xterm.js", "node-pty", "Express", "Model Context Protocol (MCP)", "Playwright", "Pandoc", "React", "Web Speech API", "IndexedDB"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Multi-Agent Collaboration
-- AI Workflow Automation
-- Terminal Integration
-- CLI Agent Orchestration
-- Self-Hosted
-source: https://github.com/qiuqiukof-oss/Hesi
+deployment_complexity: "Medium"
+tags: ["Multi-Agent Collaboration", "AI Workflow Automation", "Terminal Integration", "CLI Agent Orchestration", "Self-Hosted"]
+source: "https://github.com/qiuqiukof-oss/Hesi"
 stars: 7
-language: JavaScript
-last_updated: '2026-08-02T13:48:38Z'
-discovered_at: '2026-08-02T13:49:06Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T13:48:38Z"
+discovered_at: "2026-08-02T13:49:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

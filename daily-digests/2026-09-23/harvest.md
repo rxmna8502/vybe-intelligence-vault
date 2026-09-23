@@ -1,32 +1,19 @@
 ---
-title: zad111ak-ai/harvest
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Scrapling
-- Chromium
-- LLM (OpenAI-compatible)
-- MCP (Model Context Protocol)
-- Asyncio
-- aiohttp
-- Pydantic
+title: "zad111ak-ai/harvest"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Scrapling", "Chromium", "LLM (OpenAI-compatible)", "MCP (Model Context Protocol)", "Asyncio", "aiohttp", "Pydantic"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- web scraping
-- Cloudflare bypass
-- LLM extraction
-- MCP server
-- AI agent integration
-source: https://github.com/zad111ak-ai/harvest
+deployment_complexity: "Medium"
+tags: ["web scraping", "Cloudflare bypass", "LLM extraction", "MCP server", "AI agent integration"]
+source: "https://github.com/zad111ak-ai/harvest"
 stars: 0
-language: Python
-last_updated: '2026-07-13T21:42:01Z'
-discovered_at: '2026-07-13T21:55:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T21:42:01Z"
+discovered_at: "2026-07-13T21:55:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

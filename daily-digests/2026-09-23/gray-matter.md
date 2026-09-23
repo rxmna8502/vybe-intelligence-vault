@@ -1,33 +1,19 @@
 ---
-title: recla93/gray-matter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- NeuRAG
-- Neuron
-- Turso
-- asyncio
-- CLI
-- Web GUI
-- Subprocess Management
+title: "recla93/gray-matter"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "NeuRAG", "Neuron", "Turso", "asyncio", "CLI", "Web GUI", "Subprocess Management"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP gateway
-- semantic memory
-- knowledge base
-- cross-store bridges
-- unified pulse
-source: https://github.com/recla93/gray-matter
+deployment_complexity: "Medium"
+tags: ["MCP gateway", "semantic memory", "knowledge base", "cross-store bridges", "unified pulse"]
+source: "https://github.com/recla93/gray-matter"
 stars: 1
-language: Python
-last_updated: '2026-08-04T10:29:30Z'
-discovered_at: '2026-08-04T10:41:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T10:29:30Z"
+discovered_at: "2026-08-04T10:41:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

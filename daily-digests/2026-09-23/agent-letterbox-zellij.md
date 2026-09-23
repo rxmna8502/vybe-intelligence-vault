@@ -1,29 +1,19 @@
 ---
-title: SimonMallas/agent-letterbox-zellij
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Bash
-- Zellij
-- Git
-- Shell scripting
-- Markdown
+title: "SimonMallas/agent-letterbox-zellij"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Bash", "Zellij", "Git", "Shell scripting", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent coordination
-- durable task handoffs
-- Zellij integration
-- agent memory
-- terminal multiplexing
-source: https://github.com/SimonMallas/agent-letterbox-zellij
+deployment_complexity: "Medium"
+tags: ["multi-agent coordination", "durable task handoffs", "Zellij integration", "agent memory", "terminal multiplexing"]
+source: "https://github.com/SimonMallas/agent-letterbox-zellij"
 stars: 1
-language: Shell
-last_updated: '2026-09-02T19:10:33Z'
-discovered_at: '2026-09-02T19:13:01Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-09-02T19:10:33Z"
+discovered_at: "2026-09-02T19:13:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

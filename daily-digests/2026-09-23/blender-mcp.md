@@ -1,33 +1,19 @@
 ---
-title: sandraschi/blender-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastMCP
-- Blender
-- MCP (Model Context Protocol)
-- Tauri
-- React
-- Docker
-- Prometheus
-- Grafana
+title: "sandraschi/blender-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "Blender", "MCP (Model Context Protocol)", "Tauri", "React", "Docker", "Prometheus", "Grafana"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- 3D automation
-- Blender integration
-- AI-driven modeling
-- MCP server
-- Generative AI
-source: https://github.com/sandraschi/blender-mcp
+deployment_complexity: "Medium"
+tags: ["3D automation", "Blender integration", "AI-driven modeling", "MCP server", "Generative AI"]
+source: "https://github.com/sandraschi/blender-mcp"
 stars: 20
-language: Python
-last_updated: '2026-07-14T16:12:58Z'
-discovered_at: '2026-07-14T16:14:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T16:12:58Z"
+discovered_at: "2026-07-14T16:14:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

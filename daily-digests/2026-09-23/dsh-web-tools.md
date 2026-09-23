@@ -1,30 +1,19 @@
 ---
-title: A3Boy/dsh-web-tools
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- DeepSeek Harness
-- Chrome DevTools Protocol (CDP)
-- Node.js
-- API Integration
-- Browser Automation
+title: "A3Boy/dsh-web-tools"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "DeepSeek Harness", "Chrome DevTools Protocol (CDP)", "Node.js", "API Integration", "Browser Automation"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- multi-provider search
-- social media extraction
-- DeepSeek Harness
-- web scraping
-- fallback resilience
-source: https://github.com/A3Boy/dsh-web-tools
+deployment_complexity: "Medium"
+tags: ["multi-provider search", "social media extraction", "DeepSeek Harness", "web scraping", "fallback resilience"]
+source: "https://github.com/A3Boy/dsh-web-tools"
 stars: 23
-language: JavaScript
-last_updated: '2026-09-01T02:44:55Z'
-discovered_at: '2026-09-01T02:50:46Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-01T02:44:55Z"
+discovered_at: "2026-09-01T02:50:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

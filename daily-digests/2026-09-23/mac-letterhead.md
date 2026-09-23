@@ -1,34 +1,19 @@
 ---
-title: easytocloud/Mac-letterhead
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- PyPI
-- Model Context Protocol (MCP)
-- WeasyPrint
-- ReportLab
-- Pango
-- Cairo
-- CSS
-- PDF Processing
-- Markdown Rendering
+title: "easytocloud/Mac-letterhead"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "PyPI", "Model Context Protocol (MCP)", "WeasyPrint", "ReportLab", "Pango", "Cairo", "CSS", "PDF Processing", "Markdown Rendering"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- document processing
-- letterhead generation
-- MCP server
-- PDF overlay
-- Markdown to PDF
-source: https://github.com/easytocloud/Mac-letterhead
+deployment_complexity: "Medium"
+tags: ["document processing", "letterhead generation", "MCP server", "PDF overlay", "Markdown to PDF"]
+source: "https://github.com/easytocloud/Mac-letterhead"
 stars: 0
-language: Python
-last_updated: '2026-08-04T07:39:13Z'
-discovered_at: '2026-08-04T07:40:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T07:39:13Z"
+discovered_at: "2026-08-04T07:40:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: johnatfreecoffee/grok-desk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Electron
-- React
-- Vite
-- Node.js
-- TypeScript
-- WebSocket
-- Tailscale
-- Grok CLI
-- HTTP/HTTPS
+title: "johnatfreecoffee/grok-desk"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Electron", "React", "Vite", "Node.js", "TypeScript", "WebSocket", "Tailscale", "Grok CLI", "HTTP/HTTPS"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local-first
-- multi-agent
-- PWA
-- Electron
-- privacy-focused
-source: https://github.com/johnatfreecoffee/grok-desk
+deployment_complexity: "Medium"
+tags: ["local-first", "multi-agent", "PWA", "Electron", "privacy-focused"]
+source: "https://github.com/johnatfreecoffee/grok-desk"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T17:30:13Z'
-discovered_at: '2026-08-09T17:35:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T17:30:13Z"
+discovered_at: "2026-08-09T17:35:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

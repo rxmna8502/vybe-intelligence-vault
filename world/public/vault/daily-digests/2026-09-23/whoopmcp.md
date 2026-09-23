@@ -1,32 +1,19 @@
 ---
-title: kurok/whoopmcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- OAuth 2.0
-- FastAPI
-- Pydantic
-- pytest
-- ruff
-- mypy
+title: "kurok/whoopmcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "OAuth 2.0", "FastAPI", "Pydantic", "pytest", "ruff", "mypy"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP Server
-- WHOOP API
-- Health Data
-- OAuth
-- Local Processing
-source: https://github.com/kurok/whoopmcp
+deployment_complexity: "Medium"
+tags: ["MCP Server", "WHOOP API", "Health Data", "OAuth", "Local Processing"]
+source: "https://github.com/kurok/whoopmcp"
 stars: 1
-language: Python
-last_updated: '2026-08-10T17:05:26Z'
-discovered_at: '2026-08-10T17:05:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T17:05:26Z"
+discovered_at: "2026-08-10T17:05:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: asokore/statcite
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- REST API
-- MCP (Model Context Protocol)
-- Apify
-- Node.js
-- Wrangler (Cloudflare CLI)
+title: "asokore/statcite"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Cloudflare Workers", "REST API", "MCP (Model Context Protocol)", "Apify", "Node.js", "Wrangler (Cloudflare CLI)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- economic statistics
-- citation generation
-- data verification
-- MCP server
-- REST API
-source: https://github.com/asokore/statcite
+deployment_complexity: "Medium"
+tags: ["economic statistics", "citation generation", "data verification", "MCP server", "REST API"]
+source: "https://github.com/asokore/statcite"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T23:33:47Z'
-discovered_at: '2026-08-07T23:36:25Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T23:33:47Z"
+discovered_at: "2026-08-07T23:36:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: basilalshukaili/agentbroker
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Cloudflare Workers
-- FastAPI
-- SQL (PostgreSQL)
-- Ed25519 (for compliance receipts)
-- HMAC-SHA256 (for key minting)
-- REST API
-- OpenAI/Anthropic tool surfaces
-- A2A protocol
+title: "basilalshukaili/agentbroker"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Cloudflare Workers", "FastAPI", "SQL (PostgreSQL)", "Ed25519 (for compliance receipts)", "HMAC-SHA256 (for key minting)", "REST API", "OpenAI/Anthropic tool surfaces", "A2A protocol"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- SMB integration
-- Compliance enforcement
-- Agent orchestration
-- Regulatory compliance
-source: https://github.com/basilalshukaili/agentbroker
+deployment_complexity: "Medium"
+tags: ["MCP server", "SMB integration", "Compliance enforcement", "Agent orchestration", "Regulatory compliance"]
+source: "https://github.com/basilalshukaili/agentbroker"
 stars: 1
-language: Python
-last_updated: '2026-09-02T15:43:22Z'
-discovered_at: '2026-09-02T15:53:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T15:43:22Z"
+discovered_at: "2026-09-02T15:53:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

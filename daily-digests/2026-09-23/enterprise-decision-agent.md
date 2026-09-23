@@ -1,34 +1,19 @@
 ---
-title: ccy777/enterprise-decision-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- LangGraph
-- Milvus
-- BM25
-- BAAI/bge-small-zh-v1.5
-- BAAI/bge-reranker-base
-- SQLAlchemy
-- MySQL
-- MCP (Model Context Protocol)
-- Docker
+title: "ccy777/enterprise-decision-agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LangGraph", "Milvus", "BM25", "BAAI/bge-small-zh-v1.5", "BAAI/bge-reranker-base", "SQLAlchemy", "MySQL", "MCP (Model Context Protocol)", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- controlled agent
-- hybrid retrieval
-- enterprise RAG
-- security boundaries
-- audit trail
-source: https://github.com/ccy777/enterprise-decision-agent
+deployment_complexity: "High"
+tags: ["controlled agent", "hybrid retrieval", "enterprise RAG", "security boundaries", "audit trail"]
+source: "https://github.com/ccy777/enterprise-decision-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-09T09:42:26Z'
-discovered_at: '2026-08-09T09:43:04Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T09:42:26Z"
+discovered_at: "2026-08-09T09:43:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

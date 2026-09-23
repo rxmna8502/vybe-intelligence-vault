@@ -1,29 +1,19 @@
 ---
-title: SohrabZ/x-browser-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- Go
-- Chrome DevTools Protocol (CDP)
-- Model Context Protocol (MCP)
-- HTTP API
-- Chrome Browser
+title: "SohrabZ/x-browser-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Chrome DevTools Protocol (CDP)", "Model Context Protocol (MCP)", "HTTP API", "Chrome Browser"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- X/Twitter integration
-- MCP server
-- browser automation
-- local AI agents
-- read/write access
-source: https://github.com/SohrabZ/x-browser-mcp
+deployment_complexity: "Medium"
+tags: ["X/Twitter integration", "MCP server", "browser automation", "local AI agents", "read/write access"]
+source: "https://github.com/SohrabZ/x-browser-mcp"
 stars: 0
-language: Go
-last_updated: '2026-08-05T02:05:10Z'
-discovered_at: '2026-08-05T02:18:08Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-05T02:05:10Z"
+discovered_at: "2026-08-05T02:18:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

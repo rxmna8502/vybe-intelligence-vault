@@ -1,34 +1,19 @@
 ---
-title: gtonic/nfl_mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastMCP 3.0
-- ESPN API
-- Sleeper API
-- CBS Sports API
-- SQLite
-- Docker
-- FastAPI
-- Asyncio
-- YAML/JSON Configuration
+title: "gtonic/nfl_mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP 3.0", "ESPN API", "Sleeper API", "CBS Sports API", "SQLite", "Docker", "FastAPI", "Asyncio", "YAML/JSON Configuration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- NFL
-- Fantasy Football
-- MCP Server
-- Sports Data
-- API Integration
-source: https://github.com/gtonic/nfl_mcp
+deployment_complexity: "Medium"
+tags: ["NFL", "Fantasy Football", "MCP Server", "Sports Data", "API Integration"]
+source: "https://github.com/gtonic/nfl_mcp"
 stars: 7
-language: Python
-last_updated: '2026-07-19T13:11:35Z'
-discovered_at: '2026-07-19T13:17:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T13:11:35Z"
+discovered_at: "2026-07-19T13:17:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

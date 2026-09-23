@@ -1,38 +1,19 @@
 ---
-title: nguyenquoaca-hash/agentic-mesh
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- YAML
-- REST API
-- WebSocket
-- GraphQL
-- Docker
-- Kubernetes
-- Redis
-- Elasticsearch
-- OpenAI API
-- Anthropic API
-- Google Vertex AI
-- Azure OpenAI
-- Mistral AI
+title: "nguyenquoaca-hash/agentic-mesh"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "YAML", "REST API", "WebSocket", "GraphQL", "Docker", "Kubernetes", "Redis", "Elasticsearch", "OpenAI API", "Anthropic API", "Google Vertex AI", "Azure OpenAI", "Mistral AI"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI workflow orchestration
-- multi-model pipelines
-- declarative YAML
-- LLM integration
-- enterprise AI
-source: https://github.com/nguyenquoaca-hash/agentic-mesh
+deployment_complexity: "Medium"
+tags: ["AI workflow orchestration", "multi-model pipelines", "declarative YAML", "LLM integration", "enterprise AI"]
+source: "https://github.com/nguyenquoaca-hash/agentic-mesh"
 stars: 2
-language: HTML
-last_updated: '2026-08-01T07:59:15Z'
-discovered_at: '2026-08-01T09:06:52Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-01T07:59:15Z"
+discovered_at: "2026-08-01T09:06:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

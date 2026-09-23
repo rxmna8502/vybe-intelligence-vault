@@ -1,32 +1,19 @@
 ---
-title: MaxFreedomPollard/Compartment
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- AEAD encryption
-- Argon2id
-- SQLite
-- Local embeddings (300MB model)
-- Hash-chained audit logs
-- Ed25519 signatures
+title: "MaxFreedomPollard/Compartment"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "AEAD encryption", "Argon2id", "SQLite", "Local embeddings (300MB model)", "Hash-chained audit logs", "Ed25519 signatures"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- agentic memory
-- offline storage
-- encryption
-- MCP server
-- durable persistence
-source: https://github.com/MaxFreedomPollard/Compartment
+deployment_complexity: "Low"
+tags: ["agentic memory", "offline storage", "encryption", "MCP server", "durable persistence"]
+source: "https://github.com/MaxFreedomPollard/Compartment"
 stars: 48
-language: Python
-last_updated: '2026-08-01T17:55:38Z'
-discovered_at: '2026-08-01T18:00:12Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T17:55:38Z"
+discovered_at: "2026-08-01T18:00:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

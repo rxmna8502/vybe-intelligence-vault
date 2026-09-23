@@ -1,28 +1,19 @@
 ---
-title: Synthetic-atmometer538/aq40-ouro-skip-script
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- HTML
-- CSS
-- JavaScript
-- Browser-based
+title: "Synthetic-atmometer538/aq40-ouro-skip-script"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "CSS", "JavaScript", "Browser-based"]
 quality_score: 6
 rag_relevance: 3
-deployment_complexity: Low
-tags:
-- game trainer
-- MMORPG
-- raid practice
-- browser tool
-- trash skip
-source: https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script
+deployment_complexity: "Low"
+tags: ["game trainer", "MMORPG", "raid practice", "browser tool", "trash skip"]
+source: "https://github.com/Synthetic-atmometer538/aq40-ouro-skip-script"
 stars: 0
-language: HTML
-last_updated: '2026-08-07T02:40:00Z'
-discovered_at: '2026-08-07T02:41:25Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-07T02:40:00Z"
+discovered_at: "2026-08-07T02:41:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

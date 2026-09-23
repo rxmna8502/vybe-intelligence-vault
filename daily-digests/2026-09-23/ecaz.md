@@ -1,35 +1,19 @@
 ---
-title: agent-ix/ecaz
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Rust
-- PostgreSQL
-- cargo-pgrx
-- SIMD (AVX2, ARM NEON)
-- HNSW
-- IVF
-- DiskANN
-- SPIRE
-- TurboQuant
-- Product Quantization
-- RaBitQ
+title: "agent-ix/ecaz"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "PostgreSQL", "cargo-pgrx", "SIMD (AVX2, ARM NEON)", "HNSW", "IVF", "DiskANN", "SPIRE", "TurboQuant", "Product Quantization", "RaBitQ"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector search
-- quantization
-- PostgreSQL extension
-- ANN indexing
-- scalable retrieval
-source: https://github.com/agent-ix/ecaz
+deployment_complexity: "Medium"
+tags: ["vector search", "quantization", "PostgreSQL extension", "ANN indexing", "scalable retrieval"]
+source: "https://github.com/agent-ix/ecaz"
 stars: 2
-language: Rust
-last_updated: '2026-08-07T15:56:39Z'
-discovered_at: '2026-08-07T16:02:46Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T15:56:39Z"
+discovered_at: "2026-08-07T16:02:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: Celestynainterchangeable406/llm-response-evaluator
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Streamlit
-- Windows Installer
-- CSV Export
+title: "Celestynainterchangeable406/llm-response-evaluator"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Streamlit", "Windows Installer", "CSV Export"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- LLM evaluation
-- response scoring
-- post-training
-- human feedback
-- model comparison
-source: https://github.com/Celestynainterchangeable406/llm-response-evaluator
+deployment_complexity: "Low"
+tags: ["LLM evaluation", "response scoring", "post-training", "human feedback", "model comparison"]
+source: "https://github.com/Celestynainterchangeable406/llm-response-evaluator"
 stars: 0
-language: Python
-last_updated: '2026-08-06T09:04:15Z'
-discovered_at: '2026-08-06T09:43:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T09:04:15Z"
+discovered_at: "2026-08-06T09:43:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

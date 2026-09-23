@@ -1,30 +1,19 @@
 ---
-title: imshaikot/browsentic
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- WebSocket
-- Manifest V3 (Chrome Extension)
-- MCP (Model Context Protocol)
-- WebMCP
+title: "imshaikot/browsentic"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "WebSocket", "Manifest V3 (Chrome Extension)", "MCP (Model Context Protocol)", "WebMCP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- agentic browsing
-- local-first
-- MCP server
-- real browser control
-source: https://github.com/imshaikot/browsentic
+deployment_complexity: "Medium"
+tags: ["browser automation", "agentic browsing", "local-first", "MCP server", "real browser control"]
+source: "https://github.com/imshaikot/browsentic"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-03T21:54:21Z'
-discovered_at: '2026-09-03T22:08:40Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T21:54:21Z"
+discovered_at: "2026-09-03T22:08:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: dimetron/pi-go
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- Google ADK Go
-- Bubble Tea (TUI framework)
-- SQLite
-- JSON-RPC 2.0
-- Model Context Protocol (MCP)
-- LLM providers (Anthropic, OpenAI, Google, Ollama)
-- Git
-- LSP (Language Server Protocol)
+title: "dimetron/pi-go"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Google ADK Go", "Bubble Tea (TUI framework)", "SQLite", "JSON-RPC 2.0", "Model Context Protocol (MCP)", "LLM providers (Anthropic, OpenAI, Google, Ollama)", "Git", "LSP (Language Server Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- multi-agent system
-- terminal UI
-- LLM integration
-- sandboxed tools
-source: https://github.com/dimetron/pi-go
+deployment_complexity: "Medium"
+tags: ["coding agent", "multi-agent system", "terminal UI", "LLM integration", "sandboxed tools"]
+source: "https://github.com/dimetron/pi-go"
 stars: 120
-language: Go
-last_updated: '2026-08-08T22:22:14Z'
-discovered_at: '2026-08-08T22:31:53Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T22:22:14Z"
+discovered_at: "2026-08-08T22:31:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

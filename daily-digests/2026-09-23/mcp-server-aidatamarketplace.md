@@ -1,33 +1,19 @@
 ---
-title: jblaz6335/mcp-server-aidatamarketplace
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- x402 Payment Protocol
-- Base Mainnet
-- USDC
-- OpenAPI
-- REST API
-- Python (legacy client)
+title: "jblaz6335/mcp-server-aidatamarketplace"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "x402 Payment Protocol", "Base Mainnet", "USDC", "OpenAPI", "REST API", "Python (legacy client)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- x402 Protocol
-- Paywalled Data
-- AI Data Marketplace
-- Base Mainnet
-source: https://github.com/jblaz6335/mcp-server-aidatamarketplace
+deployment_complexity: "Medium"
+tags: ["MCP Server", "x402 Protocol", "Paywalled Data", "AI Data Marketplace", "Base Mainnet"]
+source: "https://github.com/jblaz6335/mcp-server-aidatamarketplace"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-03T18:49:20Z'
-discovered_at: '2026-08-03T18:52:41Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T18:49:20Z"
+discovered_at: "2026-08-03T18:52:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: Alkaloiddolichocephaly898/agentic-ai-tutorial
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Jupyter Notebook
-- LangGraph
-- CrewAI
-- OpenAI Agents
-- Windows OS
+title: "Alkaloiddolichocephaly898/agentic-ai-tutorial"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Jupyter Notebook", "LangGraph", "CrewAI", "OpenAI Agents", "Windows OS"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI agents
-- multi-agent systems
-- workflow automation
-- tutorial
-- agentic AI
-source: https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial
+deployment_complexity: "Low"
+tags: ["AI agents", "multi-agent systems", "workflow automation", "tutorial", "agentic AI"]
+source: "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
 stars: 0
-language: Jupyter Notebook
-last_updated: '2026-08-07T09:47:06Z'
-discovered_at: '2026-08-07T10:04:50Z'
-evaluated_by: mistral-small-latest
+language: "Jupyter Notebook"
+last_updated: "2026-08-07T09:47:06Z"
+discovered_at: "2026-08-07T10:04:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

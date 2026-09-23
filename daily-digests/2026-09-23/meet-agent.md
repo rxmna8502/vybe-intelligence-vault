@@ -1,34 +1,19 @@
 ---
-title: gauransh18/meet-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Ollama
-- Whisper.cpp
-- Kokoro
-- Playwright
-- PulseAudio
-- Docker
-- Telegram Bot API
-- Swift (macOS app)
-- Python
-- mlx-audio
+title: "gauransh18/meet-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Ollama", "Whisper.cpp", "Kokoro", "Playwright", "PulseAudio", "Docker", "Telegram Bot API", "Swift (macOS app)", "Python", "mlx-audio"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- local AI
-- real-time agent
-- Google Meet integration
-- voice synthesis
-- privacy-focused
-source: https://github.com/gauransh18/meet-agent
+deployment_complexity: "High"
+tags: ["local AI", "real-time agent", "Google Meet integration", "voice synthesis", "privacy-focused"]
+source: "https://github.com/gauransh18/meet-agent"
 stars: 0
-language: Swift
-last_updated: '2026-08-03T06:15:55Z'
-discovered_at: '2026-08-03T06:23:15Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-03T06:15:55Z"
+discovered_at: "2026-08-03T06:23:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

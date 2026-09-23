@@ -1,40 +1,19 @@
 ---
-title: wenliu3/ai-smart-homework-review
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- FastAPI
-- Vue 3
-- LangChain
-- LangGraph
-- Python
-- TypeScript
-- MySQL
-- Redis
-- SQLAlchemy
-- Element Plus
-- Tailwind CSS
-- Vite
-- JWT
-- bcrypt
-- ECharts
-- WangEditor
+title: "wenliu3/ai-smart-homework-review"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "Vue 3", "LangChain", "LangGraph", "Python", "TypeScript", "MySQL", "Redis", "SQLAlchemy", "Element Plus", "Tailwind CSS", "Vite", "JWT", "bcrypt", "ECharts", "WangEditor"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Grading
-- Educational Platform
-- LangChain Agent
-- Plagiarism Detection
-- Multi-Model Integration
-source: https://github.com/wenliu3/ai-smart-homework-review
+deployment_complexity: "Medium"
+tags: ["AI Grading", "Educational Platform", "LangChain Agent", "Plagiarism Detection", "Multi-Model Integration"]
+source: "https://github.com/wenliu3/ai-smart-homework-review"
 stars: 1
-language: Vue
-last_updated: '2026-07-12T08:05:47Z'
-discovered_at: '2026-07-12T08:15:33Z'
-evaluated_by: mistral-small-latest
+language: "Vue"
+last_updated: "2026-07-12T08:05:47Z"
+discovered_at: "2026-07-12T08:15:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

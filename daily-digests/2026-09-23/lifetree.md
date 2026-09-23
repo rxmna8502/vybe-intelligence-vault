@@ -1,42 +1,19 @@
 ---
-title: CaryK753/LifeTree
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Next.js
-- FastAPI
-- PostgreSQL
-- Neo4j
-- Redis
-- LangGraph
-- Celery
-- Docker
-- PWA
-- pgvector
-- Tavily API
-- LangChain
-- Instructor
-- SQLAlchemy
-- React Flow
-- Cytoscape.js
-- ECharts
+title: "CaryK753/LifeTree"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Next.js", "FastAPI", "PostgreSQL", "Neo4j", "Redis", "LangGraph", "Celery", "Docker", "PWA", "pgvector", "Tavily API", "LangChain", "Instructor", "SQLAlchemy", "React Flow", "Cytoscape.js", "ECharts"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Personal Decision Support
-- Knowledge Graph
-- Causal Reasoning
-- AI Agent Framework
-- Long-term Planning
-source: https://github.com/CaryK753/LifeTree
+deployment_complexity: "Medium"
+tags: ["Personal Decision Support", "Knowledge Graph", "Causal Reasoning", "AI Agent Framework", "Long-term Planning"]
+source: "https://github.com/CaryK753/LifeTree"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-07T10:00:54Z'
-discovered_at: '2026-08-07T10:03:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T10:00:54Z"
+discovered_at: "2026-08-07T10:03:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

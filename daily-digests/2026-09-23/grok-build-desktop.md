@@ -1,29 +1,19 @@
 ---
-title: tomiuntreated113/grok-build-desktop
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Electron
-- JavaScript/TypeScript
-- Windows Desktop
-- Grok Build System
-- Local Runtime
+title: "tomiuntreated113/grok-build-desktop"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Electron", "JavaScript/TypeScript", "Windows Desktop", "Grok Build System", "Local Runtime"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- desktop-ai
-- grok-build
-- ai-workflow
-- local-ai
-- windows-app
-source: https://github.com/tomiuntreated113/grok-build-desktop
+deployment_complexity: "Low"
+tags: ["desktop-ai", "grok-build", "ai-workflow", "local-ai", "windows-app"]
+source: "https://github.com/tomiuntreated113/grok-build-desktop"
 stars: 0
-language: None
-last_updated: '2026-08-07T00:00:38Z'
-discovered_at: '2026-08-07T00:01:40Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T00:00:38Z"
+discovered_at: "2026-08-07T00:01:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

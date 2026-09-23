@@ -1,30 +1,19 @@
 ---
-title: RediSearch/RediSearch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- C
-- Rust
-- Redis
-- Inverted Indexes
-- BM25
-- Snowball Stemming
+title: "RediSearch/RediSearch"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["C", "Rust", "Redis", "Inverted Indexes", "BM25", "Snowball Stemming"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector search
-- full-text search
-- Redis module
-- indexing
-- query engine
-source: https://github.com/RediSearch/RediSearch
+deployment_complexity: "Medium"
+tags: ["vector search", "full-text search", "Redis module", "indexing", "query engine"]
+source: "https://github.com/RediSearch/RediSearch"
 stars: 6205
-language: Rust
-last_updated: '2026-08-07T13:54:27Z'
-discovered_at: '2026-08-07T14:19:53Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T13:54:27Z"
+discovered_at: "2026-08-07T14:19:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: BrianLusina/image-research-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Poetry
-- uv (package manager)
-- Ruff (linter)
-- pytest (testing)
+title: "BrianLusina/image-research-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Poetry", "uv (package manager)", "Ruff (linter)", "pytest (testing)"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- image retrieval
-- MCP services
-- modular architecture
-- vision processing
-- Wikipedia integration
-source: https://github.com/BrianLusina/image-research-assistant
+deployment_complexity: "Medium"
+tags: ["image retrieval", "MCP services", "modular architecture", "vision processing", "Wikipedia integration"]
+source: "https://github.com/BrianLusina/image-research-assistant"
 stars: 0
-language: Python
-last_updated: '2026-07-18T09:08:00Z'
-discovered_at: '2026-07-18T09:24:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T09:08:00Z"
+discovered_at: "2026-07-18T09:24:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

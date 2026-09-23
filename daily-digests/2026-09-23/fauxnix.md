@@ -1,30 +1,19 @@
 ---
-title: 20000419/fauxnix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- PowerShell
-- Bash
-- MCP (Model Context Protocol)
-- CI/CD (GitHub Actions)
+title: "20000419/fauxnix"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "PowerShell", "Bash", "MCP (Model Context Protocol)", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- bash translation
-- Windows compatibility
-- AI agent tools
-- MCP server
-- deterministic execution
-source: https://github.com/20000419/fauxnix
+deployment_complexity: "Low"
+tags: ["bash translation", "Windows compatibility", "AI agent tools", "MCP server", "deterministic execution"]
+source: "https://github.com/20000419/fauxnix"
 stars: 20
-language: TypeScript
-last_updated: '2026-09-03T02:16:42Z'
-discovered_at: '2026-09-03T02:22:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T02:16:42Z"
+discovered_at: "2026-09-03T02:22:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

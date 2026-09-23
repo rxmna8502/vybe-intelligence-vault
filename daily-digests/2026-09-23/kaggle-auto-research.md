@@ -1,36 +1,19 @@
 ---
-title: ranxi2001/kaggle-auto-research
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Kaggle API
-- Pandas
-- NumPy
-- scikit-learn
-- LightGBM
-- XGBoost
-- Optuna
-- Typer
-- pytest
-- CLI
-- YAML
+title: "ranxi2001/kaggle-auto-research"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Kaggle API", "Pandas", "NumPy", "scikit-learn", "LightGBM", "XGBoost", "Optuna", "Typer", "pytest", "CLI", "YAML"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Kaggle automation
-- AI agent workflow
-- reproducible research
-- ML pipeline
-- competition tooling
-source: https://github.com/ranxi2001/kaggle-auto-research
+deployment_complexity: "Medium"
+tags: ["Kaggle automation", "AI agent workflow", "reproducible research", "ML pipeline", "competition tooling"]
+source: "https://github.com/ranxi2001/kaggle-auto-research"
 stars: 2
-language: Python
-last_updated: '2026-07-15T17:57:24Z'
-discovered_at: '2026-07-15T18:06:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T17:57:24Z"
+discovered_at: "2026-07-15T18:06:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

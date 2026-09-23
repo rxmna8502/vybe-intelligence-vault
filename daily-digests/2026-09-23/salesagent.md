@@ -1,34 +1,19 @@
 ---
-title: ayush-s-tomar/salesagent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- LangGraph
-- LangChain
-- Groq API
-- Tavily Search API
-- Proxycurl API
-- scikit-learn
-- FastAPI
-- SQLite
-- React
-- Tailwind CSS
+title: "ayush-s-tomar/salesagent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["LangGraph", "LangChain", "Groq API", "Tavily Search API", "Proxycurl API", "scikit-learn", "FastAPI", "SQLite", "React", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- B2B sales automation
-- lead scoring
-- personalized email generation
-- LangGraph
-source: https://github.com/ayush-s-tomar/salesagent
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "B2B sales automation", "lead scoring", "personalized email generation", "LangGraph"]
+source: "https://github.com/ayush-s-tomar/salesagent"
 stars: 0
-language: Python
-last_updated: '2026-07-15T17:56:39Z'
-discovered_at: '2026-07-15T18:06:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T17:56:39Z"
+discovered_at: "2026-07-15T18:06:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

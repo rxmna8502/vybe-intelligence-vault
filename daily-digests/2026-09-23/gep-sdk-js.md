@@ -1,29 +1,19 @@
 ---
-title: EvoMap/gep-sdk-js
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- JSON Schema
-- Node.js
-- SHA-256
-- npm
+title: "EvoMap/gep-sdk-js"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "JSON Schema", "Node.js", "SHA-256", "npm"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- protocol standardization
-- asset_id computation
-- schema management
-- evolution framework
-- cross-runtime consistency
-source: https://github.com/EvoMap/gep-sdk-js
+deployment_complexity: "Low"
+tags: ["protocol standardization", "asset_id computation", "schema management", "evolution framework", "cross-runtime consistency"]
+source: "https://github.com/EvoMap/gep-sdk-js"
 stars: 6
-language: JavaScript
-last_updated: '2026-08-05T05:45:41Z'
-discovered_at: '2026-08-05T05:47:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-05T05:45:41Z"
+discovered_at: "2026-08-05T05:47:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

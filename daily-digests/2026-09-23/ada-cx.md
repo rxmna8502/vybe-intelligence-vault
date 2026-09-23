@@ -1,29 +1,19 @@
 ---
-title: api-evangelist/ada-cx
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- AI
-- Customer Service Automation
-- NLP
-- Machine Learning
-- Cloud
+title: "api-evangelist/ada-cx"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["AI", "Customer Service Automation", "NLP", "Machine Learning", "Cloud"]
 quality_score: 3
 rag_relevance: 4
-deployment_complexity: High
-tags:
-- customer service
-- AI automation
-- NLP
-- chatbot
-- support platform
-source: https://github.com/api-evangelist/ada-cx
+deployment_complexity: "High"
+tags: ["customer service", "AI automation", "NLP", "chatbot", "support platform"]
+source: "https://github.com/api-evangelist/ada-cx"
 stars: 0
-language: None
-last_updated: '2026-08-02T15:00:55Z'
-discovered_at: '2026-08-02T15:02:31Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T15:00:55Z"
+discovered_at: "2026-08-02T15:02:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

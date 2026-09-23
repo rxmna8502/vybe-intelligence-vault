@@ -1,28 +1,19 @@
 ---
-title: cornelablastular720/dbdb-index
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- Windows Desktop App
-- Chroma (for data indexing)
-- JSON/Metadata Parsing
+title: "cornelablastular720/dbdb-index"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Windows Desktop App", "Chroma (for data indexing)", "JSON/Metadata Parsing"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- database catalog
-- metadata indexing
-- offline browsing
-- system comparison
-- Go application
-source: https://github.com/cornelablastular720/dbdb-index
+deployment_complexity: "Low"
+tags: ["database catalog", "metadata indexing", "offline browsing", "system comparison", "Go application"]
+source: "https://github.com/cornelablastular720/dbdb-index"
 stars: 1
-language: Go
-last_updated: '2026-08-09T14:03:59Z'
-discovered_at: '2026-08-09T14:38:47Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-09T14:03:59Z"
+discovered_at: "2026-08-09T14:38:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: bentoml/OpenLLM
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- BentoML
-- vLLM
-- FastAPI
-- Docker
-- Kubernetes
-- Hugging Face Transformers
+title: "bentoml/OpenLLM"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "BentoML", "vLLM", "FastAPI", "Docker", "Kubernetes", "Hugging Face Transformers"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- LLM serving
-- OpenAI-compatible API
-- self-hosting
-- model orchestration
-- cloud deployment
-source: https://github.com/bentoml/OpenLLM
+deployment_complexity: "Medium"
+tags: ["LLM serving", "OpenAI-compatible API", "self-hosting", "model orchestration", "cloud deployment"]
+source: "https://github.com/bentoml/OpenLLM"
 stars: 12452
-language: Python
-last_updated: '2026-08-05T14:41:37Z'
-discovered_at: '2026-08-06T00:02:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T14:41:37Z"
+discovered_at: "2026-08-06T00:02:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

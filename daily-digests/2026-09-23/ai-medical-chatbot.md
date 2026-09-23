@@ -1,32 +1,19 @@
 ---
-title: AdithbabuT/Ai-medical-chatbot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- LangChain
-- FAISS
-- HuggingFace Transformers
-- Groq LLM API
-- Streamlit
-- Docker
-- Pytest
+title: "AdithbabuT/Ai-medical-chatbot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangChain", "FAISS", "HuggingFace Transformers", "Groq LLM API", "Streamlit", "Docker", "Pytest"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Medical RAG
-- Vector Search
-- Groq LLM
-- FAISS
-- Streamlit UI
-source: https://github.com/AdithbabuT/Ai-medical-chatbot
+deployment_complexity: "Medium"
+tags: ["Medical RAG", "Vector Search", "Groq LLM", "FAISS", "Streamlit UI"]
+source: "https://github.com/AdithbabuT/Ai-medical-chatbot"
 stars: 0
-language: Python
-last_updated: '2026-08-09T15:20:57Z'
-discovered_at: '2026-08-09T15:35:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T15:20:57Z"
+discovered_at: "2026-08-09T15:35:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

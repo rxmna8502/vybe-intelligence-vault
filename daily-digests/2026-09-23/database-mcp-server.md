@@ -1,31 +1,19 @@
 ---
-title: guyinwonder168/database-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- SQL (MySQL, MariaDB, PostgreSQL, SQLite)
-- AES-GCM encryption
-- Docker
-- JSON logging
-- SonarCloud
+title: "guyinwonder168/database-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "SQL (MySQL, MariaDB, PostgreSQL, SQLite)", "AES-GCM encryption", "Docker", "JSON logging", "SonarCloud"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP
-- SQL databases
-- AI agent interface
-- database introspection
-- query optimization
-source: https://github.com/guyinwonder168/database-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP", "SQL databases", "AI agent interface", "database introspection", "query optimization"]
+source: "https://github.com/guyinwonder168/database-mcp-server"
 stars: 1
-language: Go
-last_updated: '2026-07-13T06:11:00Z'
-discovered_at: '2026-07-13T06:15:45Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-13T06:11:00Z"
+discovered_at: "2026-07-13T06:15:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

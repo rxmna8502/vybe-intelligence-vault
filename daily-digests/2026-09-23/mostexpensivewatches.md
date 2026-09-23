@@ -1,30 +1,19 @@
 ---
-title: softdevfz/mostexpensivewatches
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- HTTP/JSON-RPC
-- OpenAPI 3.1
-- CC-BY 4.0
-- JSON
-- CLI
+title: "softdevfz/mostexpensivewatches"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "HTTP/JSON-RPC", "OpenAPI 3.1", "CC-BY 4.0", "JSON", "CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- watch auction data
-- luxury market analytics
-- MCP server
-- open dataset
-- valuation tool
-source: https://github.com/softdevfz/mostexpensivewatches
+deployment_complexity: "Low"
+tags: ["watch auction data", "luxury market analytics", "MCP server", "open dataset", "valuation tool"]
+source: "https://github.com/softdevfz/mostexpensivewatches"
 stars: 0
-language: Python
-last_updated: '2026-08-08T22:26:36Z'
-discovered_at: '2026-08-08T22:31:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T22:26:36Z"
+discovered_at: "2026-08-08T22:31:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

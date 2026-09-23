@@ -1,38 +1,19 @@
 ---
-title: samanhappy/mcphub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Node.js
-- Express
-- TypeScript
-- React
-- Vite
-- Tailwind CSS
-- PostgreSQL
-- TypeORM
-- pgvector
-- JWT
-- bcrypt
-- OAuth 2.0
-- Model Context Protocol (MCP) SDK
-- Docker
+title: "samanhappy/mcphub"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "Express", "TypeScript", "React", "Vite", "Tailwind CSS", "PostgreSQL", "TypeORM", "pgvector", "JWT", "bcrypt", "OAuth 2.0", "Model Context Protocol (MCP) SDK", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- Model Context Protocol
-- Server Orchestration
-- RAG
-- Tool Management
-source: https://github.com/samanhappy/mcphub
+deployment_complexity: "Medium"
+tags: ["MCP", "Model Context Protocol", "Server Orchestration", "RAG", "Tool Management"]
+source: "https://github.com/samanhappy/mcphub"
 stars: 2222
-language: TypeScript
-last_updated: '2026-07-11T14:39:37Z'
-discovered_at: '2026-07-11T14:52:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T14:39:37Z"
+discovered_at: "2026-07-11T14:52:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

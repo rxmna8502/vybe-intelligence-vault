@@ -1,31 +1,19 @@
 ---
-title: splashxmoon/edgemcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastAPI
-- Cloudflare Tunnel
-- OAuth
-- Wi-Fi scanning libraries
-- Network diagnostics tools
+title: "splashxmoon/edgemcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "Cloudflare Tunnel", "OAuth", "Wi-Fi scanning libraries", "Network diagnostics tools"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- network monitoring
-- privacy-focused
-- MCP server
-- home network analysis
-- natural language queries
-source: https://github.com/splashxmoon/edgemcp
+deployment_complexity: "Medium"
+tags: ["network monitoring", "privacy-focused", "MCP server", "home network analysis", "natural language queries"]
+source: "https://github.com/splashxmoon/edgemcp"
 stars: 0
-language: Python
-last_updated: '2026-08-06T23:57:05Z'
-discovered_at: '2026-08-07T00:01:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T23:57:05Z"
+discovered_at: "2026-08-07T00:01:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

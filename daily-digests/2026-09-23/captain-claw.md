@@ -1,38 +1,19 @@
 ---
-title: kstevica/captain-claw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- React
-- SQLite
-- PostgreSQL
-- Ollama
-- OpenAI API
-- Claude API
-- Gemini API
-- DeepSeek API
-- OpenRouter
-- Git
-- Vector DB (BM25)
-- Docker
+title: "kstevica/captain-claw"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "React", "SQLite", "PostgreSQL", "Ollama", "OpenAI API", "Claude API", "Gemini API", "DeepSeek API", "OpenRouter", "Git", "Vector DB (BM25)", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- agentic coding
-- self-hosted AI
-- deterministic workflows
-- persistent memory
-source: https://github.com/kstevica/captain-claw
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "agentic coding", "self-hosted AI", "deterministic workflows", "persistent memory"]
+source: "https://github.com/kstevica/captain-claw"
 stars: 162
-language: Python
-last_updated: '2026-09-01T09:02:40Z'
-discovered_at: '2026-09-01T09:09:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T09:02:40Z"
+discovered_at: "2026-09-01T09:09:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

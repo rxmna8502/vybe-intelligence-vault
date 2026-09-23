@@ -1,36 +1,19 @@
 ---
-title: sonichi/sutando
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Node.js
-- Claude Code
-- Gemini API
-- Twilio
-- Discord.py
-- Telegram Bot API
-- FFmpeg
-- Tmux
-- WebSockets
-- TypeScript
-- AG2 Space
+title: "sonichi/sutando"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Node.js", "Claude Code", "Gemini API", "Twilio", "Discord.py", "Telegram Bot API", "FFmpeg", "Tmux", "WebSockets", "TypeScript", "AG2 Space"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- autonomous agent
-- multi-modal interaction
-- self-improving AI
-- voice assistant
-- task automation
-source: https://github.com/sonichi/sutando
+deployment_complexity: "High"
+tags: ["autonomous agent", "multi-modal interaction", "self-improving AI", "voice assistant", "task automation"]
+source: "https://github.com/sonichi/sutando"
 stars: 389
-language: Python
-last_updated: '2026-09-02T22:05:14Z'
-discovered_at: '2026-09-02T22:17:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:05:14Z"
+discovered_at: "2026-09-02T22:17:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

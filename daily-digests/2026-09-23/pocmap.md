@@ -1,36 +1,19 @@
 ---
-title: zebbern/pocmap
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Pydantic
-- GitHub API
-- NVD API
-- OSV (Open Source Vulnerabilities)
-- Metasploit
-- Nuclei
-- SARIF
-- CLI
-- JSON
-- SQLite (for caching)
+title: "zebbern/pocmap"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Pydantic", "GitHub API", "NVD API", "OSV (Open Source Vulnerabilities)", "Metasploit", "Nuclei", "SARIF", "CLI", "JSON", "SQLite (for caching)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- vulnerability discovery
-- PoC search
-- exploit intelligence
-- MCP server
-- AI agent integration
-source: https://github.com/zebbern/pocmap
+deployment_complexity: "Medium"
+tags: ["vulnerability discovery", "PoC search", "exploit intelligence", "MCP server", "AI agent integration"]
+source: "https://github.com/zebbern/pocmap"
 stars: 2
-language: Python
-last_updated: '2026-08-03T02:48:07Z'
-discovered_at: '2026-08-03T02:54:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T02:48:07Z"
+discovered_at: "2026-08-03T02:54:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

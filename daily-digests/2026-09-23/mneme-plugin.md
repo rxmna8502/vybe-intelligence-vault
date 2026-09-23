@@ -1,30 +1,19 @@
 ---
-title: supostat/mneme-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- JavaScript
-- TypeScript
-- POSIX shell
-- Ollama (local embeddings)
-- Claude Code MCP
-- GitHub Actions
+title: "supostat/mneme-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "TypeScript", "POSIX shell", "Ollama (local embeddings)", "Claude Code MCP", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- memory management
-- workflow engine
-- human-gated
-- local-first
-- event-sourcing
-source: https://github.com/supostat/mneme-plugin
+deployment_complexity: "Medium"
+tags: ["memory management", "workflow engine", "human-gated", "local-first", "event-sourcing"]
+source: "https://github.com/supostat/mneme-plugin"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-08T11:22:28Z'
-discovered_at: '2026-08-08T11:30:59Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T11:22:28Z"
+discovered_at: "2026-08-08T11:30:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

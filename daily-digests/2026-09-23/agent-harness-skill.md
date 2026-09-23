@@ -1,33 +1,19 @@
 ---
-title: netresearch/agent-harness-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Shell
-- GitHub Actions
-- CI/CD
-- Git Hooks
-- Composer
-- npm
-- pnpm
-- AGENTS.md
-- Markdown
+title: "netresearch/agent-harness-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Shell", "GitHub Actions", "CI/CD", "Git Hooks", "Composer", "npm", "pnpm", "AGENTS.md", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent infrastructure
-- CI enforcement
-- maturity verification
-- self-bootstrapping
-- multi-platform support
-source: https://github.com/netresearch/agent-harness-skill
+deployment_complexity: "Medium"
+tags: ["agent infrastructure", "CI enforcement", "maturity verification", "self-bootstrapping", "multi-platform support"]
+source: "https://github.com/netresearch/agent-harness-skill"
 stars: 4
-language: Shell
-last_updated: '2026-08-08T07:48:33Z'
-discovered_at: '2026-08-08T07:51:44Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-08T07:48:33Z"
+discovered_at: "2026-08-08T07:51:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

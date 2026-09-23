@@ -1,34 +1,19 @@
 ---
-title: thezolon/OkoNebo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastAPI
-- Docker
-- SQLite
-- JWT
-- JavaScript
-- HTML/CSS
-- CI/CD (GitHub Actions)
-- Fernet encryption
-- PWA (Progressive Web App)
+title: "thezolon/OkoNebo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Docker", "SQLite", "JWT", "JavaScript", "HTML/CSS", "CI/CD (GitHub Actions)", "Fernet encryption", "PWA (Progressive Web App)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- weather dashboard
-- self-hosted
-- multi-provider API
-- Docker service
-- real-time data
-source: https://github.com/thezolon/OkoNebo
+deployment_complexity: "Medium"
+tags: ["weather dashboard", "self-hosted", "multi-provider API", "Docker service", "real-time data"]
+source: "https://github.com/thezolon/OkoNebo"
 stars: 0
-language: Python
-last_updated: '2026-08-09T16:37:00Z'
-discovered_at: '2026-08-09T16:38:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T16:37:00Z"
+discovered_at: "2026-08-09T16:38:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

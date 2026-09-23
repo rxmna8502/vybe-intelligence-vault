@@ -1,30 +1,19 @@
 ---
-title: omnibandbridge/omnibandbridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- BLE (Bluetooth Low Energy)
-- TCP/IP
-- REST APIs
-- FTMS (Fitness Machine Service)
-- Metabolic Power Calculation
-- Wearable Data Processing
+title: "omnibandbridge/omnibandbridge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["BLE (Bluetooth Low Energy)", "TCP/IP", "REST APIs", "FTMS (Fitness Machine Service)", "Metabolic Power Calculation", "Wearable Data Processing"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- wearable data integration
-- metabolic power calculation
-- real-time analytics
-- BLE data retransmission
-- AI workout analysis
-source: https://github.com/omnibandbridge/omnibandbridge
+deployment_complexity: "Medium"
+tags: ["wearable data integration", "metabolic power calculation", "real-time analytics", "BLE data retransmission", "AI workout analysis"]
+source: "https://github.com/omnibandbridge/omnibandbridge"
 stars: 0
-language: None
-last_updated: '2026-08-02T19:22:08Z'
-discovered_at: '2026-08-02T19:25:30Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T19:22:08Z"
+discovered_at: "2026-08-02T19:25:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

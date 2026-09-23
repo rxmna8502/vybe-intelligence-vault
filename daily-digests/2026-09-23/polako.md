@@ -1,29 +1,19 @@
 ---
-title: scharissis/polako
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- Claude Code
-- GitHub CLI
-- Git
-- Shell
+title: "scharissis/polako"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Claude Code", "GitHub CLI", "Git", "Shell"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- automation
-- issue resolution
-- Claude Code integration
-- GitHub workflow
-- AI-assisted development
-source: https://github.com/scharissis/polako
+deployment_complexity: "Medium"
+tags: ["automation", "issue resolution", "Claude Code integration", "GitHub workflow", "AI-assisted development"]
+source: "https://github.com/scharissis/polako"
 stars: 1
-language: Go
-last_updated: '2026-09-01T09:02:57Z'
-discovered_at: '2026-09-01T09:08:22Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-01T09:02:57Z"
+discovered_at: "2026-09-01T09:08:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

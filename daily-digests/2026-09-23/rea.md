@@ -1,31 +1,19 @@
 ---
-title: morluto/rea
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Hopper Disassembler
-- CLI
-- Swift
-- Objective-C
+title: "morluto/rea"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Hopper Disassembler", "CLI", "Swift", "Objective-C"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- reverse engineering
-- binary analysis
-- coding agents
-- macOS tools
-- decompilation
-source: https://github.com/morluto/rea
+deployment_complexity: "Medium"
+tags: ["reverse engineering", "binary analysis", "coding agents", "macOS tools", "decompilation"]
+source: "https://github.com/morluto/rea"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-12T10:20:44Z'
-discovered_at: '2026-07-12T10:26:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T10:20:44Z"
+discovered_at: "2026-07-12T10:26:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

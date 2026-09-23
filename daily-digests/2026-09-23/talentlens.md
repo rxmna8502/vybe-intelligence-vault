@@ -1,32 +1,19 @@
 ---
-title: aziz5971/TalentLens
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Streamlit
-- NLP
-- SBERT
-- Multi-agent systems
-- PyTorch
-- Pandas
-- Scikit-learn
+title: "aziz5971/TalentLens"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Streamlit", "NLP", "SBERT", "Multi-agent systems", "PyTorch", "Pandas", "Scikit-learn"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- resume screening
-- multi-agent AI
-- NLP
-- candidate ranking
-- HR automation
-source: https://github.com/aziz5971/TalentLens
+deployment_complexity: "Medium"
+tags: ["resume screening", "multi-agent AI", "NLP", "candidate ranking", "HR automation"]
+source: "https://github.com/aziz5971/TalentLens"
 stars: 2
-language: Python
-last_updated: '2026-08-09T18:25:51Z'
-discovered_at: '2026-08-09T18:43:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T18:25:51Z"
+discovered_at: "2026-08-09T18:43:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

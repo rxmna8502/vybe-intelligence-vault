@@ -1,33 +1,19 @@
 ---
-title: sergenes/mini_agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- OpenAI SDK
-- Ollama
-- Anthropic SDK
-- Gemini API
-- FastMCP
-- asyncio
-- JSON-RPC
-- Shell Scripting
+title: "sergenes/mini_agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "OpenAI SDK", "Ollama", "Anthropic SDK", "Gemini API", "FastMCP", "asyncio", "JSON-RPC", "Shell Scripting"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent
-- deterministic loop
-- tool integration
-- local LLM
-- remote LLM
-source: https://github.com/sergenes/mini_agent
+deployment_complexity: "Medium"
+tags: ["AI agent", "deterministic loop", "tool integration", "local LLM", "remote LLM"]
+source: "https://github.com/sergenes/mini_agent"
 stars: 26
-language: Python
-last_updated: '2026-08-10T01:34:34Z'
-discovered_at: '2026-08-10T01:35:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T01:34:34Z"
+discovered_at: "2026-08-10T01:35:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: trynityeu/enova365-agent-wiedzy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Architecture Decision Records (ADR)
-- Documentation-first development
-- Offline data processing
-- Privacy and security compliance (KSC/NIS2)
-- Creative Commons licensing
+title: "trynityeu/enova365-agent-wiedzy"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Architecture Decision Records (ADR)", "Documentation-first development", "Offline data processing", "Privacy and security compliance (KSC/NIS2)", "Creative Commons licensing"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- offline AI
-- architectural decisions
-- ERP knowledge base
-- privacy-first
-- educational project
-source: https://github.com/trynityeu/enova365-agent-wiedzy
+deployment_complexity: "Low"
+tags: ["offline AI", "architectural decisions", "ERP knowledge base", "privacy-first", "educational project"]
+source: "https://github.com/trynityeu/enova365-agent-wiedzy"
 stars: 0
-language: None
-last_updated: '2026-08-07T08:10:48Z'
-discovered_at: '2026-08-07T08:16:11Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T08:10:48Z"
+discovered_at: "2026-08-07T08:16:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

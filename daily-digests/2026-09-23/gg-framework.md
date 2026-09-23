@@ -1,37 +1,19 @@
 ---
-title: KenKaiii/gg-framework
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Rust
-- Tauri
-- React
-- Node.js
-- pnpm
-- Vite
-- Vitest
-- Zod
-- OAuth
-- LLM APIs (Anthropic, OpenAI, Gemini, etc.)
-- MCP (Model Context Protocol)
-- Language Servers (TypeScript, Python, Rust, etc.)
+title: "KenKaiii/gg-framework"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Rust", "Tauri", "React", "Node.js", "pnpm", "Vite", "Vitest", "Zod", "OAuth", "LLM APIs (Anthropic, OpenAI, Gemini, etc.)", "MCP (Model Context Protocol)", "Language Servers (TypeScript, Python, Rust, etc.)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- LLM integration
-- desktop agent
-- modular framework
-- tool execution
-source: https://github.com/KenKaiii/gg-framework
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "LLM integration", "desktop agent", "modular framework", "tool execution"]
+source: "https://github.com/KenKaiii/gg-framework"
 stars: 27
-language: TypeScript
-last_updated: '2026-09-01T18:59:35Z'
-discovered_at: '2026-09-01T19:06:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T18:59:35Z"
+discovered_at: "2026-09-01T19:06:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

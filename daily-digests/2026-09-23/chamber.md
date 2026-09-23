@@ -1,35 +1,19 @@
 ---
-title: ianphil/chamber
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Electron
-- TypeScript
-- React
-- Tailwind CSS
-- Node.js
-- GitHub Copilot SDK
-- Vitest
-- Playwright
-- keytar
-- WebSocket
-- HTTP Server
+title: "ianphil/chamber"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "TypeScript", "React", "Tailwind CSS", "Node.js", "GitHub Copilot SDK", "Vitest", "Playwright", "keytar", "WebSocket", "HTTP Server"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- A2A protocol
-- multi-agent coordination
-- desktop workspace
-- agent collaboration
-source: https://github.com/ianphil/chamber
+deployment_complexity: "Medium"
+tags: ["AI agents", "A2A protocol", "multi-agent coordination", "desktop workspace", "agent collaboration"]
+source: "https://github.com/ianphil/chamber"
 stars: 12
-language: TypeScript
-last_updated: '2026-07-11T02:21:48Z'
-discovered_at: '2026-07-11T02:27:37Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T02:21:48Z"
+discovered_at: "2026-07-11T02:27:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

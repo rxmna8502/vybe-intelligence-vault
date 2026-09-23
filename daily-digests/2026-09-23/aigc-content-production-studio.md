@@ -1,30 +1,19 @@
 ---
-title: magicyao2028-pixel/aigc-content-production-studio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- CLI
-- JSON
-- Mermaid.js
-- GitHub Actions
-- Static Site (HTML/CSS/JS)
+title: "magicyao2028-pixel/aigc-content-production-studio"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "CLI", "JSON", "Mermaid.js", "GitHub Actions", "Static Site (HTML/CSS/JS)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AIGC workflow
-- content orchestration
-- governance
-- multimodal tasks
-- deterministic planning
-source: https://github.com/magicyao2028-pixel/aigc-content-production-studio
+deployment_complexity: "Low"
+tags: ["AIGC workflow", "content orchestration", "governance", "multimodal tasks", "deterministic planning"]
+source: "https://github.com/magicyao2028-pixel/aigc-content-production-studio"
 stars: 0
-language: Python
-last_updated: '2026-08-03T02:50:15Z'
-discovered_at: '2026-08-03T02:54:36Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T02:50:15Z"
+discovered_at: "2026-08-03T02:54:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

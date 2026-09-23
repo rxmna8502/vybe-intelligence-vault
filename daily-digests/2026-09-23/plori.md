@@ -1,31 +1,19 @@
 ---
-title: plori-ai/plori
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- MCP (Model Context Protocol)
-- HTTP/REST APIs
-- OAuth 2.1
-- JavaScript
-- Node.js
-- npm
-- Remote MCP Server
+title: "plori-ai/plori"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["MCP (Model Context Protocol)", "HTTP/REST APIs", "OAuth 2.1", "JavaScript", "Node.js", "npm", "Remote MCP Server"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI agents
-- MCP server
-- cloud computing
-- persistent memory
-- CLI tools
-source: https://github.com/plori-ai/plori
+deployment_complexity: "Low"
+tags: ["AI agents", "MCP server", "cloud computing", "persistent memory", "CLI tools"]
+source: "https://github.com/plori-ai/plori"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T16:04:10Z'
-discovered_at: '2026-08-01T16:06:53Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T16:04:10Z"
+discovered_at: "2026-08-01T16:06:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

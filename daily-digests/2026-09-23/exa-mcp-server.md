@@ -1,30 +1,19 @@
 ---
-title: exa-labs/exa-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Node.js
-- Exa API
-- OAuth
-- REST
+title: "exa-labs/exa-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "Exa API", "OAuth", "REST"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- web search
-- content fetching
-- AI agents
-- MCP
-- research automation
-source: https://github.com/exa-labs/exa-mcp-server
+deployment_complexity: "Low"
+tags: ["web search", "content fetching", "AI agents", "MCP", "research automation"]
+source: "https://github.com/exa-labs/exa-mcp-server"
 stars: 4849
-language: TypeScript
-last_updated: '2026-08-10T18:59:06Z'
-discovered_at: '2026-08-10T19:01:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T18:59:06Z"
+discovered_at: "2026-08-10T19:01:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

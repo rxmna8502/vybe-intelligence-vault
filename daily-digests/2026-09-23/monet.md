@@ -1,31 +1,19 @@
 ---
-title: zenolab124/monet
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Tauri
-- Vue 3
-- Rust
-- TypeScript
-- Node.js
-- pnpm
-- MCP (Model Context Protocol)
+title: "zenolab124/monet"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Tauri", "Vue 3", "Rust", "TypeScript", "Node.js", "pnpm", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI agent management
-- multi-engine control
-- desktop UI
-- session monitoring
-- automation
-source: https://github.com/zenolab124/monet
+deployment_complexity: "Medium"
+tags: ["AI agent management", "multi-engine control", "desktop UI", "session monitoring", "automation"]
+source: "https://github.com/zenolab124/monet"
 stars: 160
-language: Rust
-last_updated: '2026-08-07T09:54:50Z'
-discovered_at: '2026-08-07T10:03:49Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T09:54:50Z"
+discovered_at: "2026-08-07T10:03:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

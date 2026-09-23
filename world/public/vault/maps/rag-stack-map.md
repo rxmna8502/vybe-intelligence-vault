@@ -11,10 +11,10 @@ Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
 *   [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884)
-*   [A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph](https://arxiv.org/abs/2608.11211)
-*   [VoxReason: Auditing Source-Grounded Speech Plans Before Synthesis](https://arxiv.org/abs/2609.03203)
-*   [AhaBench: Do Agents Turn Experience into Reusable Insights? A Long-Horizon Benchmark for Continual Learning](https://arxiv.org/abs/2609.05435)
+*   [DFAH-Bench: Benchmarking Observable Agent Instability in Financial Decision-Making](https://arxiv.org/abs/2607.20491)
+*   [PICPIs: Prediction-Interval-Conditional Prediction Intervals](https://arxiv.org/abs/2609.25388)
 *   [Reward-guided Fine-Tuning of One-Step Generative Models via Wasserstein Gradient Flow](https://arxiv.org/abs/2608.29647)
+*   [Gated Graph Attention Networks with Learnable Temperature](https://arxiv.org/abs/2605.29803)
 
 ## Project Ideas
 *   PDF QA script that processes papers and saves vector embeddings to pgvector.

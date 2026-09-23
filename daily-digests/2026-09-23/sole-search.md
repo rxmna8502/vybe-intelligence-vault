@@ -1,30 +1,19 @@
 ---
-title: djfksjd/sole-search
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Claude Code
-- LLM (for eligibility judgment)
-- Web Crawling (requests, BeautifulSoup)
-- Markdown (for reports)
-- YAML (for profile storage)
+title: "djfksjd/sole-search"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Claude Code", "LLM (for eligibility judgment)", "Web Crawling (requests, BeautifulSoup)", "Markdown (for reports)", "YAML (for profile storage)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Korean government subsidies
-- small business support
-- eligibility checker
-- crawler
-- Claude Code skill
-source: https://github.com/djfksjd/sole-search
+deployment_complexity: "Medium"
+tags: ["Korean government subsidies", "small business support", "eligibility checker", "crawler", "Claude Code skill"]
+source: "https://github.com/djfksjd/sole-search"
 stars: 1
-language: Python
-last_updated: '2026-07-20T03:32:43Z'
-discovered_at: '2026-07-20T03:37:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T03:32:43Z"
+discovered_at: "2026-07-20T03:37:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: jeonghwanko/mimi-seed-sdk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- Claude Code MCP
-- Google OAuth
-- Firebase
-- AdMob
-- BigQuery
-- Jenkins
-- GitHub Actions
-- CLI Tools
+title: "jeonghwanko/mimi-seed-sdk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Claude Code MCP", "Google OAuth", "Firebase", "AdMob", "BigQuery", "Jenkins", "GitHub Actions", "CLI Tools"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- app store automation
-- release management
-- CI/CD
-- MCP server
-- mobile devops
-source: https://github.com/jeonghwanko/mimi-seed-sdk
+deployment_complexity: "Medium"
+tags: ["app store automation", "release management", "CI/CD", "MCP server", "mobile devops"]
+source: "https://github.com/jeonghwanko/mimi-seed-sdk"
 stars: 19
-language: TypeScript
-last_updated: '2026-07-12T11:48:19Z'
-discovered_at: '2026-07-12T11:58:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T11:48:19Z"
+discovered_at: "2026-07-12T11:58:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: sandeep-alluru/grokrc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- WebSocket
-- ACP (Agent Client Protocol)
-- PWA (Progressive Web App)
-- Systemd
-- npm
-- React (implied by PWA)
-- Tailwind CSS (implied by screenshots)
+title: "sandeep-alluru/grokrc"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "WebSocket", "ACP (Agent Client Protocol)", "PWA (Progressive Web App)", "Systemd", "npm", "React (implied by PWA)", "Tailwind CSS (implied by screenshots)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- remote control
-- coding agent
-- ACP protocol
-- mobile interface
-- terminal management
-source: https://github.com/sandeep-alluru/grokrc
+deployment_complexity: "Medium"
+tags: ["remote control", "coding agent", "ACP protocol", "mobile interface", "terminal management"]
+source: "https://github.com/sandeep-alluru/grokrc"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T17:03:40Z'
-discovered_at: '2026-08-10T17:05:54Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T17:03:40Z"
+discovered_at: "2026-08-10T17:05:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

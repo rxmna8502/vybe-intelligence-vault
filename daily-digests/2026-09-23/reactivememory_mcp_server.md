@@ -1,31 +1,19 @@
 ---
-title: ChrisPulman/ReactiveMemory.MCP.Server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- C#
-- .NET 10.0
-- ModelContextProtocol (MCP) 1.3.0
-- SQLite
-- Vector Embeddings
-- JSON
-- Write-Ahead Logging (WAL)
+title: "ChrisPulman/ReactiveMemory.MCP.Server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["C#", ".NET 10.0", "ModelContextProtocol (MCP) 1.3.0", "SQLite", "Vector Embeddings", "JSON", "Write-Ahead Logging (WAL)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- persistent memory
-- vector search
-- temporal knowledge graph
-- MCP server
-- local storage
-source: https://github.com/ChrisPulman/ReactiveMemory.MCP.Server
+deployment_complexity: "Medium"
+tags: ["persistent memory", "vector search", "temporal knowledge graph", "MCP server", "local storage"]
+source: "https://github.com/ChrisPulman/ReactiveMemory.MCP.Server"
 stars: 3
-language: C#
-last_updated: '2026-08-09T09:32:18Z'
-discovered_at: '2026-08-09T09:44:11Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-09T09:32:18Z"
+discovered_at: "2026-08-09T09:44:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

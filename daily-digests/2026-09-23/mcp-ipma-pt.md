@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-ipma-pt
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- MCP (Model Context Protocol)
-- REST API
-- JSON
+title: "pipeworx-io/mcp-ipma-pt"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "JSON"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP
-- IPMA Portugal
-- weather data
-- real-time data
-- API gateway
-source: https://github.com/pipeworx-io/mcp-ipma-pt
+deployment_complexity: "Low"
+tags: ["MCP", "IPMA Portugal", "weather data", "real-time data", "API gateway"]
+source: "https://github.com/pipeworx-io/mcp-ipma-pt"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-16T18:04:53Z'
-discovered_at: '2026-07-16T18:05:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T18:04:53Z"
+discovered_at: "2026-07-16T18:05:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

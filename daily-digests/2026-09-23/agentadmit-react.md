@@ -1,29 +1,19 @@
 ---
-title: PhoenixCo-Founder/agentadmit-react
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- React
-- TypeScript
-- WebAuthn
-- CSS
-- Web Components
+title: "PhoenixCo-Founder/agentadmit-react"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["React", "TypeScript", "WebAuthn", "CSS", "Web Components"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- React SDK
-- AI Agent Authorization
-- Token Management
-- Consent Ledger
-- WebAuthn
-source: https://github.com/PhoenixCo-Founder/agentadmit-react
+deployment_complexity: "Medium"
+tags: ["React SDK", "AI Agent Authorization", "Token Management", "Consent Ledger", "WebAuthn"]
+source: "https://github.com/PhoenixCo-Founder/agentadmit-react"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-19T23:50:44Z'
-discovered_at: '2026-07-19T23:55:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T23:50:44Z"
+discovered_at: "2026-07-19T23:55:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

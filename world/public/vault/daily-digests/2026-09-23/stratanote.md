@@ -1,35 +1,19 @@
 ---
-title: cannoneer85-svg/stratanote
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- React
-- TypeScript
-- Vite
-- Node.js
-- Express
-- Socket.io
-- SQLite
-- Chokidar
-- CodeMirror 6
-- WebSockets
-- Antigravity/Claude/Gemini (AI coding assistants)
+title: "cannoneer85-svg/stratanote"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["React", "TypeScript", "Vite", "Node.js", "Express", "Socket.io", "SQLite", "Chokidar", "CodeMirror 6", "WebSockets", "Antigravity/Claude/Gemini (AI coding assistants)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- collaborative editing
-- Markdown
-- knowledge base
-- version control
-- real-time sync
-source: https://github.com/cannoneer85-svg/stratanote
+deployment_complexity: "Medium"
+tags: ["collaborative editing", "Markdown", "knowledge base", "version control", "real-time sync"]
+source: "https://github.com/cannoneer85-svg/stratanote"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-11T20:03:03Z'
-discovered_at: '2026-07-11T20:09:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-11T20:03:03Z"
+discovered_at: "2026-07-11T20:09:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

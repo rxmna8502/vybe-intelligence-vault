@@ -1,29 +1,19 @@
 ---
-title: Josephtiled824/awesome-ai-tools-2026
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- HTML
-- CSS
-- JavaScript
-- Windows OS
-- Web Browsers
+title: "Josephtiled824/awesome-ai-tools-2026"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "CSS", "JavaScript", "Windows OS", "Web Browsers"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- AI tools
-- curated list
-- productivity
-- automation
-- software directory
-source: https://github.com/Josephtiled824/awesome-ai-tools-2026
+deployment_complexity: "Low"
+tags: ["AI tools", "curated list", "productivity", "automation", "software directory"]
+source: "https://github.com/Josephtiled824/awesome-ai-tools-2026"
 stars: 0
-language: None
-last_updated: '2026-08-07T02:39:43Z'
-discovered_at: '2026-08-07T02:41:28Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T02:39:43Z"
+discovered_at: "2026-08-07T02:41:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

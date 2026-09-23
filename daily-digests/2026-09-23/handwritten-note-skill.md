@@ -1,29 +1,19 @@
 ---
-title: amrsingh29/handwritten-note-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Claude Code
-- HTML
-- CSS
-- JavaScript
-- Markdown
+title: "amrsingh29/handwritten-note-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "HTML", "CSS", "JavaScript", "Markdown"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- explainability
-- visualization
-- content generation
-- Claude Code
-- AI documentation
-source: https://github.com/amrsingh29/handwritten-note-skill
+deployment_complexity: "Low"
+tags: ["explainability", "visualization", "content generation", "Claude Code", "AI documentation"]
+source: "https://github.com/amrsingh29/handwritten-note-skill"
 stars: 0
-language: HTML
-last_updated: '2026-08-10T14:55:16Z'
-discovered_at: '2026-08-10T15:03:48Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-10T14:55:16Z"
+discovered_at: "2026-08-10T15:03:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

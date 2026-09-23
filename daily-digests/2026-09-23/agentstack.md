@@ -1,34 +1,19 @@
 ---
-title: Tarekkharsa/agentstack
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Rust
-- TOML
-- MCP (Model Context Protocol)
-- CLI
-- OS Keychain Integration
-- Git
-- HTTP/HTTPS
-- STDIO
-- Proxy
-- Audit Logging
+title: "Tarekkharsa/agentstack"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "TOML", "MCP (Model Context Protocol)", "CLI", "OS Keychain Integration", "Git", "HTTP/HTTPS", "STDIO", "Proxy", "Audit Logging"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- MCP tool management
-- security policy enforcement
-- centralized configuration
-- trust-gating
-source: https://github.com/Tarekkharsa/agentstack
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "MCP tool management", "security policy enforcement", "centralized configuration", "trust-gating"]
+source: "https://github.com/Tarekkharsa/agentstack"
 stars: 0
-language: Rust
-last_updated: '2026-07-10T16:22:03Z'
-discovered_at: '2026-07-10T16:24:21Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-10T16:22:03Z"
+discovered_at: "2026-07-10T16:24:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

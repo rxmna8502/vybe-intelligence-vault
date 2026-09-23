@@ -1,40 +1,19 @@
 ---
-title: OpenOSINT/OpenOSINT
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastAPI
-- SQLite
-- Asyncio
-- Pydantic
-- ReportLab
-- Bright Data API
-- Shodan API
-- VirusTotal API
-- GitHub API
-- Holehe
-- Sherlock
-- Dnspython
-- Ollama
-- LiteLLM
+title: "OpenOSINT/OpenOSINT"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "SQLite", "Asyncio", "Pydantic", "ReportLab", "Bright Data API", "Shodan API", "VirusTotal API", "GitHub API", "Holehe", "Sherlock", "Dnspython", "Ollama", "LiteLLM"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- OSINT
-- AI agent
-- MCP server
-- security research
-- deterministic data collection
-source: https://github.com/OpenOSINT/OpenOSINT
+deployment_complexity: "Medium"
+tags: ["OSINT", "AI agent", "MCP server", "security research", "deterministic data collection"]
+source: "https://github.com/OpenOSINT/OpenOSINT"
 stars: 1508
-language: Python
-last_updated: '2026-09-01T19:01:50Z'
-discovered_at: '2026-09-01T19:05:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T19:01:50Z"
+discovered_at: "2026-09-01T19:05:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

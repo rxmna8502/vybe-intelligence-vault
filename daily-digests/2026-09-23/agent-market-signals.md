@@ -1,29 +1,19 @@
 ---
-title: Echolonius/agent-market-signals
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- JSON
-- CLI
-- MCP Server
+title: "Echolonius/agent-market-signals"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "JSON", "CLI", "MCP Server"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- marketplace auditing
-- AI agent safety
-- deception detection
-- MCP server
-- open standard
-source: https://github.com/Echolonius/agent-market-signals
+deployment_complexity: "Low"
+tags: ["marketplace auditing", "AI agent safety", "deception detection", "MCP server", "open standard"]
+source: "https://github.com/Echolonius/agent-market-signals"
 stars: 1
-language: Python
-last_updated: '2026-07-13T02:29:42Z'
-discovered_at: '2026-07-13T02:34:27Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T02:29:42Z"
+discovered_at: "2026-07-13T02:34:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

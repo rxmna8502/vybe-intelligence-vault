@@ -1,35 +1,19 @@
 ---
-title: db-agent/db-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Streamlit
-- Databricks
-- Snowflake
-- AWS Lambda
-- SQLite
-- PostgreSQL
-- MySQL
-- OpenAI-compatible LLMs
-- Docker
-- Kubernetes
+title: "db-agent/db-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Streamlit", "Databricks", "Snowflake", "AWS Lambda", "SQLite", "PostgreSQL", "MySQL", "OpenAI-compatible LLMs", "Docker", "Kubernetes"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- text-to-SQL
-- AI agent
-- database querying
-- LLM integration
-- production deployment
-source: https://github.com/db-agent/db-agent
+deployment_complexity: "Medium"
+tags: ["text-to-SQL", "AI agent", "database querying", "LLM integration", "production deployment"]
+source: "https://github.com/db-agent/db-agent"
 stars: 25
-language: Python
-last_updated: '2026-07-21T15:00:48Z'
-discovered_at: '2026-07-21T15:03:34Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T15:00:48Z"
+discovered_at: "2026-07-21T15:03:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

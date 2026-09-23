@@ -1,36 +1,19 @@
 ---
-title: vayl-dev/vayl
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- SQLite
-- FastMCP
-- OpenAI API
-- TypeScript
-- LangGraph
-- LangChain
-- OpenAI Agents SDK
-- CrewAI
-- Vercel AI SDK
-- Mastra
+title: "vayl-dev/vayl"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "FastMCP", "OpenAI API", "TypeScript", "LangGraph", "LangChain", "OpenAI Agents SDK", "CrewAI", "Vercel AI SDK", "Mastra"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- memory layer
-- reconciling memory
-- MCP server
-- audit trail
-- state management
-source: https://github.com/vayl-dev/vayl
+deployment_complexity: "Low"
+tags: ["memory layer", "reconciling memory", "MCP server", "audit trail", "state management"]
+source: "https://github.com/vayl-dev/vayl"
 stars: 2
-language: Python
-last_updated: '2026-08-07T11:01:18Z'
-discovered_at: '2026-08-07T11:04:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:01:18Z"
+discovered_at: "2026-08-07T11:04:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

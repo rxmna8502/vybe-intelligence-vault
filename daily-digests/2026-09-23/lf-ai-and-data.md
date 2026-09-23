@@ -1,29 +1,19 @@
 ---
-title: api-evangelist/lf-ai-and-data
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- YAML
-- Markdown
-- GitHub
-- Linux Foundation
-- Open Source
+title: "api-evangelist/lf-ai-and-data"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["YAML", "Markdown", "GitHub", "Linux Foundation", "Open Source"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI/ML Index
-- Open Source Foundation
-- Project Catalog
-- Linux Foundation
-- Data Infrastructure
-source: https://github.com/api-evangelist/lf-ai-and-data
+deployment_complexity: "Low"
+tags: ["AI/ML Index", "Open Source Foundation", "Project Catalog", "Linux Foundation", "Data Infrastructure"]
+source: "https://github.com/api-evangelist/lf-ai-and-data"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:15:56Z'
-discovered_at: '2026-08-08T01:27:22Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:15:56Z"
+discovered_at: "2026-08-08T01:27:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

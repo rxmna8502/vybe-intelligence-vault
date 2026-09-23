@@ -1,36 +1,19 @@
 ---
-title: quanzefeng/AideAgent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Electron
-- JavaScript/TypeScript
-- Model Context Protocol (MCP)
-- SQLite
-- FTS5 (Full-Text Search)
-- ONNX (Embedding Model)
-- OpenCode CLI
-- Playwright
-- React
-- Node.js
-- Electron Builder
-- Electron Updater
+title: "quanzefeng/AideAgent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "JavaScript/TypeScript", "Model Context Protocol (MCP)", "SQLite", "FTS5 (Full-Text Search)", "ONNX (Embedding Model)", "OpenCode CLI", "Playwright", "React", "Node.js", "Electron Builder", "Electron Updater"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- desktop-agent
-- local-rag
-- mcp-integration
-- multi-model-support
-- skills-system
-source: https://github.com/quanzefeng/AideAgent
+deployment_complexity: "Medium"
+tags: ["desktop-agent", "local-rag", "mcp-integration", "multi-model-support", "skills-system"]
+source: "https://github.com/quanzefeng/AideAgent"
 stars: 6
-language: JavaScript
-last_updated: '2026-08-01T13:06:48Z'
-discovered_at: '2026-08-01T13:16:53Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T13:06:48Z"
+discovered_at: "2026-08-01T13:16:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

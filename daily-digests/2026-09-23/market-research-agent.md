@@ -1,35 +1,19 @@
 ---
-title: 721189/Market-Research-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- CrewAI
-- FastAPI
-- Celery
-- Redis
-- Groq LPUs
-- Llama 3.3 70B
-- Tavily API
-- Pydantic
-- Celery
-- Redis
+title: "721189/Market-Research-Agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "CrewAI", "FastAPI", "Celery", "Redis", "Groq LPUs", "Llama 3.3 70B", "Tavily API", "Pydantic", "Celery", "Redis"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- market research automation
-- competitor analysis
-- financial modeling
-- AI consulting
-source: https://github.com/721189/Market-Research-Agent
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "market research automation", "competitor analysis", "financial modeling", "AI consulting"]
+source: "https://github.com/721189/Market-Research-Agent"
 stars: 1
-language: Python
-last_updated: '2026-08-07T14:16:03Z'
-discovered_at: '2026-08-07T14:18:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T14:16:03Z"
+discovered_at: "2026-08-07T14:18:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

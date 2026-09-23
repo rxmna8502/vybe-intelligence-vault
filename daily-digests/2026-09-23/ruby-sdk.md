@@ -1,29 +1,19 @@
 ---
-title: modelcontextprotocol/ruby-sdk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Ruby
-- JSON-RPC 2.0
-- Rack
-- HTTP/SSE
-- Gem packaging
+title: "modelcontextprotocol/ruby-sdk"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Ruby", "JSON-RPC 2.0", "Rack", "HTTP/SSE", "Gem packaging"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Model Context Protocol
-- MCP
-- Ruby SDK
-- Agent Integration
-- JSON-RPC
-source: https://github.com/modelcontextprotocol/ruby-sdk
+deployment_complexity: "Medium"
+tags: ["Model Context Protocol", "MCP", "Ruby SDK", "Agent Integration", "JSON-RPC"]
+source: "https://github.com/modelcontextprotocol/ruby-sdk"
 stars: 881
-language: Ruby
-last_updated: '2026-08-08T06:48:44Z'
-discovered_at: '2026-08-08T06:52:36Z'
-evaluated_by: mistral-small-latest
+language: "Ruby"
+last_updated: "2026-08-08T06:48:44Z"
+discovered_at: "2026-08-08T06:52:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

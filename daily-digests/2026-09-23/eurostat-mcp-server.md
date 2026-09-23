@@ -1,31 +1,19 @@
 ---
-title: cyanheads/eurostat-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Bun
-- Model Context Protocol (MCP)
-- DuckDB
-- JSON-stat 2.0
-- Docker
-- npm
+title: "cyanheads/eurostat-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "DuckDB", "JSON-stat 2.0", "Docker", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Eurostat
-- MCP server
-- statistical data
-- NUTS regional data
-- dataframe analytics
-source: https://github.com/cyanheads/eurostat-mcp-server
+deployment_complexity: "Medium"
+tags: ["Eurostat", "MCP server", "statistical data", "NUTS regional data", "dataframe analytics"]
+source: "https://github.com/cyanheads/eurostat-mcp-server"
 stars: 4
-language: TypeScript
-last_updated: '2026-08-04T10:34:17Z'
-discovered_at: '2026-08-04T10:40:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T10:34:17Z"
+discovered_at: "2026-08-04T10:40:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

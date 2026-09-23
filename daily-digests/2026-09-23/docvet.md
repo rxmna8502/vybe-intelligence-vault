@@ -1,33 +1,19 @@
 ---
-title: Alberto-Codes/docvet
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- Ruff
-- Griffe
-- Click
-- Git
-- MkDocs
-- PyPI
-- GitHub Actions
-- pre-commit
+title: "Alberto-Codes/docvet"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Ruff", "Griffe", "Click", "Git", "MkDocs", "PyPI", "GitHub Actions", "pre-commit"]
 quality_score: 10
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- docstring validation
-- Python documentation
-- AI agent integration
-- code quality
-- CI/CD tooling
-source: https://github.com/Alberto-Codes/docvet
+deployment_complexity: "Low"
+tags: ["docstring validation", "Python documentation", "AI agent integration", "code quality", "CI/CD tooling"]
+source: "https://github.com/Alberto-Codes/docvet"
 stars: 9
-language: Python
-last_updated: '2026-09-03T02:10:24Z'
-discovered_at: '2026-09-03T02:17:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T02:10:24Z"
+discovered_at: "2026-09-03T02:17:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

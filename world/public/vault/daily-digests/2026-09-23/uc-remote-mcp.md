@@ -1,30 +1,19 @@
 ---
-title: b2dmx/uc-remote-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- Python
-- FastMCP
-- HTTPX
-- mDNS
-- Claude Desktop
-- Unfolded Circle Core API
+title: "b2dmx/uc-remote-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "HTTPX", "mDNS", "Claude Desktop", "Unfolded Circle Core API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- Unfolded Circle Remote
-- Claude integration
-- Home automation
-- Natural language control
-source: https://github.com/b2dmx/uc-remote-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Unfolded Circle Remote", "Claude integration", "Home automation", "Natural language control"]
+source: "https://github.com/b2dmx/uc-remote-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-15T18:03:10Z'
-discovered_at: '2026-07-15T18:06:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T18:03:10Z"
+discovered_at: "2026-07-15T18:06:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

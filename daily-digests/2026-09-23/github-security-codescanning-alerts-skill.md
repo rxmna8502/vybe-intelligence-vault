@@ -1,30 +1,19 @@
 ---
-title: Nick2bad4u/Github-Security-CodeScanning-Alerts-Skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Python
-- GitHub API
-- CLI
-- OpenAI Agents
-- REST
-- GitHub Actions
+title: "Nick2bad4u/Github-Security-CodeScanning-Alerts-Skill"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "GitHub API", "CLI", "OpenAI Agents", "REST", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- security
-- github
-- alerts
-- automation
-- ai-agent
-source: https://github.com/Nick2bad4u/Github-Security-CodeScanning-Alerts-Skill
+deployment_complexity: "Medium"
+tags: ["security", "github", "alerts", "automation", "ai-agent"]
+source: "https://github.com/Nick2bad4u/Github-Security-CodeScanning-Alerts-Skill"
 stars: 2
-language: Python
-last_updated: '2026-08-04T00:08:45Z'
-discovered_at: '2026-08-04T00:10:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T00:08:45Z"
+discovered_at: "2026-08-04T00:10:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

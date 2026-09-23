@@ -1,29 +1,19 @@
 ---
-title: scagogogo/osv-schema-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- CLI
-- JSON/YAML
-- OSV Schema
-- Claude Code Skills
+title: "scagogogo/osv-schema-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "CLI", "JSON/YAML", "OSV Schema", "Claude Code Skills"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- vulnerability parsing
-- OSV schema
-- Go SDK
-- AI agent skills
-- security analysis
-source: https://github.com/scagogogo/osv-schema-skills
+deployment_complexity: "Low"
+tags: ["vulnerability parsing", "OSV schema", "Go SDK", "AI agent skills", "security analysis"]
+source: "https://github.com/scagogogo/osv-schema-skills"
 stars: 0
-language: Go
-last_updated: '2026-07-11T20:08:32Z'
-discovered_at: '2026-07-11T20:09:41Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-11T20:08:32Z"
+discovered_at: "2026-07-11T20:09:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

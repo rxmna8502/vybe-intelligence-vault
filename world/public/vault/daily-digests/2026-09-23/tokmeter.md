@@ -1,33 +1,19 @@
 ---
-title: sriinnu/tokmeter
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-23
-tech_stack:
-- TypeScript
-- Node.js
-- Bun
-- React
-- Plotly
-- MCP (Model Context Protocol)
-- macOS Daemon
-- CLI/TUI
-- JSON/CSV Export
+title: "sriinnu/tokmeter"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Bun", "React", "Plotly", "MCP (Model Context Protocol)", "macOS Daemon", "CLI/TUI", "JSON/CSV Export"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- token tracking
-- AI agent cost analysis
-- local observability
-- MCP integration
-- multi-surface UI
-source: https://github.com/sriinnu/tokmeter
+deployment_complexity: "Medium"
+tags: ["token tracking", "AI agent cost analysis", "local observability", "MCP integration", "multi-surface UI"]
+source: "https://github.com/sriinnu/tokmeter"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-12T13:32:30Z'
-discovered_at: '2026-07-12T13:36:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T13:32:30Z"
+discovered_at: "2026-07-12T13:36:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

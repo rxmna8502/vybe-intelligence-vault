@@ -1,31 +1,19 @@
 ---
-title: saltmd/salt.md
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-23
-tech_stack:
-- Go
-- TypeScript
-- SQLite
-- MCP (Model Context Protocol)
-- REST API
-- WebSockets
-- Block-based Editor
+title: "saltmd/salt.md"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "TypeScript", "SQLite", "MCP (Model Context Protocol)", "REST API", "WebSockets", "Block-based Editor"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- collaboration
-- MCP server
-- self-hosted
-- AI workspace
-- documentation
-source: https://github.com/saltmd/salt.md
+deployment_complexity: "Low"
+tags: ["collaboration", "MCP server", "self-hosted", "AI workspace", "documentation"]
+source: "https://github.com/saltmd/salt.md"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T17:25:36Z'
-discovered_at: '2026-08-08T17:33:07Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T17:25:36Z"
+discovered_at: "2026-08-08T17:33:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
