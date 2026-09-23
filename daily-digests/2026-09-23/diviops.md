@@ -1,19 +1,33 @@
 ---
-title: "oaris-dev/diviops"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "PHP", "WordPress", "Divi Builder", "MCP (Model Context Protocol)", "REST API", "WP-CLI", "npm", "TypeScript (implied by Node.js ecosystem)"]
+title: oaris-dev/diviops
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Node.js
+- PHP
+- WordPress
+- Divi Builder
+- MCP (Model Context Protocol)
+- REST API
+- WP-CLI
+- npm
+- TypeScript (implied by Node.js ecosystem)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["WordPress", "Divi", "AI authoring", "MCP server", "site management"]
-source: "https://github.com/oaris-dev/diviops"
+deployment_complexity: Medium
+tags:
+- WordPress
+- Divi
+- AI authoring
+- MCP server
+- site management
+source: https://github.com/oaris-dev/diviops
 stars: 21
-language: "PHP"
-last_updated: "2026-09-02T19:09:59Z"
-discovered_at: "2026-09-02T19:14:54Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-09-02T19:09:59Z'
+discovered_at: '2026-09-02T19:14:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

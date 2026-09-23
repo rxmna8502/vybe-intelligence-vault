@@ -1,19 +1,30 @@
 ---
-title: "funkyfunc/run-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "npm", "CLI", "REPL"]
+title: funkyfunc/run-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- npm
+- CLI
+- REPL
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP", "Model Context Protocol", "REPL", "CLI", "Agent Testing"]
-source: "https://github.com/funkyfunc/run-mcp"
+deployment_complexity: Low
+tags:
+- MCP
+- Model Context Protocol
+- REPL
+- CLI
+- Agent Testing
+source: https://github.com/funkyfunc/run-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T20:30:18Z"
-discovered_at: "2026-08-09T20:35:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T20:30:18Z'
+discovered_at: '2026-08-09T20:35:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

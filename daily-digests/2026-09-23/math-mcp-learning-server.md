@@ -1,19 +1,33 @@
 ---
-title: "clouatre-labs/math-mcp-learning-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "Pydantic", "NumPy", "Matplotlib", "SciPy", "uvicorn", "HTTP/Streamable Transport"]
+title: clouatre-labs/math-mcp-learning-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastMCP
+- Model Context Protocol (MCP)
+- Pydantic
+- NumPy
+- Matplotlib
+- SciPy
+- uvicorn
+- HTTP/Streamable Transport
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP Server", "Mathematical Operations", "Data Visualization", "Persistent Workspace", "Educational Tools"]
-source: "https://github.com/clouatre-labs/math-mcp-learning-server"
+deployment_complexity: Low
+tags:
+- MCP Server
+- Mathematical Operations
+- Data Visualization
+- Persistent Workspace
+- Educational Tools
+source: https://github.com/clouatre-labs/math-mcp-learning-server
 stars: 5
-language: "Python"
-last_updated: "2026-07-20T21:06:52Z"
-discovered_at: "2026-07-20T21:11:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T21:06:52Z'
+discovered_at: '2026-07-20T21:11:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

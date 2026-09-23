@@ -1,19 +1,35 @@
 ---
-title: "roomi-fields/notebooklm-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "Docker", "Google NotebookLM API", "n8n", "Zapier", "Make.com", "Claude Code", "Cursor"]
+title: roomi-fields/notebooklm-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- Docker
+- Google NotebookLM API
+- n8n
+- Zapier
+- Make.com
+- Claude Code
+- Cursor
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["NotebookLM automation", "MCP server", "REST API", "content generation", "citation-backed Q&A"]
-source: "https://github.com/roomi-fields/notebooklm-mcp"
+deployment_complexity: Medium
+tags:
+- NotebookLM automation
+- MCP server
+- REST API
+- content generation
+- citation-backed Q&A
+source: https://github.com/roomi-fields/notebooklm-mcp
 stars: 116
-language: "TypeScript"
-last_updated: "2026-07-13T13:13:38Z"
-discovered_at: "2026-07-13T13:22:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T13:13:38Z'
+discovered_at: '2026-07-13T13:22:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

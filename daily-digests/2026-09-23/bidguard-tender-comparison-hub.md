@@ -1,19 +1,29 @@
 ---
-title: "Coreyinhibited104/bidguard-tender-comparison-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "Python", "PDF/DOCX/XLSX Parsing Libraries", "Natural Language Processing (NLP)", "PDF Report Generation"]
+title: Coreyinhibited104/bidguard-tender-comparison-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Electron
+- Python
+- PDF/DOCX/XLSX Parsing Libraries
+- Natural Language Processing (NLP)
+- PDF Report Generation
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["procurement analysis", "bid-rigging detection", "offline tool", "compliance auditing", "document comparison"]
-source: "https://github.com/Coreyinhibited104/bidguard-tender-comparison-hub"
+deployment_complexity: Low
+tags:
+- procurement analysis
+- bid-rigging detection
+- offline tool
+- compliance auditing
+- document comparison
+source: https://github.com/Coreyinhibited104/bidguard-tender-comparison-hub
 stars: 0
-language: "HTML"
-last_updated: "2026-08-07T02:40:10Z"
-discovered_at: "2026-08-07T02:41:25Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T02:40:10Z'
+discovered_at: '2026-08-07T02:41:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

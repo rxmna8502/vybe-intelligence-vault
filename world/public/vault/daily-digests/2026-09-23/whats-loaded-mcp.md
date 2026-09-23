@@ -1,19 +1,28 @@
 ---
-title: "stcmain/whats-loaded-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm"]
+title: stcmain/whats-loaded-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "context optimization", "token cost analysis", "skill auditing", "memory management"]
-source: "https://github.com/stcmain/whats-loaded-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- context optimization
+- token cost analysis
+- skill auditing
+- memory management
+source: https://github.com/stcmain/whats-loaded-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T20:47:14Z"
-discovered_at: "2026-08-01T20:51:07Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T20:47:14Z'
+discovered_at: '2026-08-01T20:51:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

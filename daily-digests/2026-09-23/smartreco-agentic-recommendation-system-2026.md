@@ -1,19 +1,34 @@
 ---
-title: "Ahmed2797/smartreco-agentic-recommendation-system-2026"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "LangGraph", "OpenAI", "Pinecone", "SQLAlchemy", "Jinja2", "Chart.js", "bcrypt", "SQLite", "LangChain"]
+title: Ahmed2797/smartreco-agentic-recommendation-system-2026
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- FastAPI
+- LangGraph
+- OpenAI
+- Pinecone
+- SQLAlchemy
+- Jinja2
+- Chart.js
+- bcrypt
+- SQLite
+- LangChain
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["recommendation system", "RAG", "agentic AI", "personalization", "behavioral analytics"]
-source: "https://github.com/Ahmed2797/smartreco-agentic-recommendation-system-2026"
+deployment_complexity: High
+tags:
+- recommendation system
+- RAG
+- agentic AI
+- personalization
+- behavioral analytics
+source: https://github.com/Ahmed2797/smartreco-agentic-recommendation-system-2026
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T20:36:32Z"
-discovered_at: "2026-08-07T20:43:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T20:36:32Z'
+discovered_at: '2026-08-07T20:43:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

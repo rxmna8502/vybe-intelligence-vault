@@ -1,19 +1,31 @@
 ---
-title: "llqh111/daily-news-digest"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "DeepSeek API", "RSS", "WeChat (Server\u9171)", "Telegram Bot API", "Full-text web scraping"]
+title: llqh111/daily-news-digest
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- GitHub Actions
+- DeepSeek API
+- RSS
+- WeChat (Server酱)
+- Telegram Bot API
+- Full-text web scraping
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["automation", "news aggregation", "AI summarization", "multi-channel delivery", "GitHub Actions"]
-source: "https://github.com/llqh111/daily-news-digest"
+deployment_complexity: Low
+tags:
+- automation
+- news aggregation
+- AI summarization
+- multi-channel delivery
+- GitHub Actions
+source: https://github.com/llqh111/daily-news-digest
 stars: 2
-language: "Python"
-last_updated: "2026-08-04T00:07:26Z"
-discovered_at: "2026-08-04T00:10:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T00:07:26Z'
+discovered_at: '2026-08-04T00:10:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

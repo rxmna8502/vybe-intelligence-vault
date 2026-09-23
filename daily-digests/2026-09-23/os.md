@@ -1,19 +1,32 @@
 ---
-title: "Omni-Kernel/OS"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Markdown", "Kelly Criterion", "Bayesian Probability", "Thermodynamic Entropy Analysis", "Legal/Compliance Scanning", "Temporal Governance Engine"]
+title: Omni-Kernel/OS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- React
+- Markdown
+- Kelly Criterion
+- Bayesian Probability
+- Thermodynamic Entropy Analysis
+- Legal/Compliance Scanning
+- Temporal Governance Engine
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "High"
-tags: ["deterministic AI", "enterprise sales", "capital allocation", "Kelly Criterion", "temporal governance"]
-source: "https://github.com/Omni-Kernel/OS"
+deployment_complexity: High
+tags:
+- deterministic AI
+- enterprise sales
+- capital allocation
+- Kelly Criterion
+- temporal governance
+source: https://github.com/Omni-Kernel/OS
 stars: 0
-language: "None"
-last_updated: "2026-08-07T15:56:56Z"
-discovered_at: "2026-08-07T16:02:46Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T15:56:56Z'
+discovered_at: '2026-08-07T16:02:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

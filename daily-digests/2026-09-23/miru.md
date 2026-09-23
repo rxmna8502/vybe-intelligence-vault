@@ -1,19 +1,34 @@
 ---
-title: "kiyotakali/Miru"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Live2D", "Flask", "Python", "OpenAI-compatible APIs", "Docker", "Markdown", "SSE (Server-Sent Events)", "macOS", "Android", "Linux"]
+title: kiyotakali/Miru
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Live2D
+- Flask
+- Python
+- OpenAI-compatible APIs
+- Docker
+- Markdown
+- SSE (Server-Sent Events)
+- macOS
+- Android
+- Linux
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI companion", "local-first", "memory system", "proactive interaction", "privacy-focused"]
-source: "https://github.com/kiyotakali/Miru"
+deployment_complexity: Medium
+tags:
+- AI companion
+- local-first
+- memory system
+- proactive interaction
+- privacy-focused
+source: https://github.com/kiyotakali/Miru
 stars: 2
-language: "CSS"
-last_updated: "2026-07-14T16:11:00Z"
-discovered_at: "2026-07-14T16:13:54Z"
-evaluated_by: "mistral-small-latest"
+language: CSS
+last_updated: '2026-07-14T16:11:00Z'
+discovered_at: '2026-07-14T16:13:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

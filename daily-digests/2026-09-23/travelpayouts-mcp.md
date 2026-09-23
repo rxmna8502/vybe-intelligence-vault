@@ -1,19 +1,29 @@
 ---
-title: "theYahia/travelpayouts-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Travelpayouts API", "npm"]
+title: theYahia/travelpayouts-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Travelpayouts API
+- npm
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["travel search", "flight booking", "hotel booking", "MCP server", "API integration"]
-source: "https://github.com/theYahia/travelpayouts-mcp"
+deployment_complexity: Low
+tags:
+- travel search
+- flight booking
+- hotel booking
+- MCP server
+- API integration
+source: https://github.com/theYahia/travelpayouts-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T19:13:25Z"
-discovered_at: "2026-09-02T19:14:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:13:25Z'
+discovered_at: '2026-09-02T19:14:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "aklmans/seeker"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri 2", "Rust", "JavaScript", "HTML/CSS", "SQLite", "IndexedDB", "MCP (Model Context Protocol)", "OpenAI-compatible APIs", "Anthropic", "Gemini", "Ollama"]
+title: aklmans/seeker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Tauri 2
+- Rust
+- JavaScript
+- HTML/CSS
+- SQLite
+- IndexedDB
+- MCP (Model Context Protocol)
+- OpenAI-compatible APIs
+- Anthropic
+- Gemini
+- Ollama
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "AI agent platform", "privacy-focused", "multi-app", "RAG-ready"]
-source: "https://github.com/aklmans/seeker"
+deployment_complexity: Medium
+tags:
+- local-first
+- AI agent platform
+- privacy-focused
+- multi-app
+- RAG-ready
+source: https://github.com/aklmans/seeker
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-05T16:41:50Z"
-discovered_at: "2026-08-05T16:44:23Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T16:41:50Z'
+discovered_at: '2026-08-05T16:44:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

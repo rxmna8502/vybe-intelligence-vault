@@ -1,19 +1,33 @@
 ---
-title: "aralroca/Janux"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Vite", "SWC", "React", "MCP (Model Context Protocol)", "WebMCP", "A2A (Agent-to-Agent)", "Tailwind CSS"]
+title: aralroca/Janux
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Bun
+- Vite
+- SWC
+- React
+- MCP (Model Context Protocol)
+- WebMCP
+- A2A (Agent-to-Agent)
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Agentic Web", "MCP Integration", "Fullstack Framework", "UI-AI Symbiosis", "Zero-Drift Tools"]
-source: "https://github.com/aralroca/Janux"
+deployment_complexity: Medium
+tags:
+- Agentic Web
+- MCP Integration
+- Fullstack Framework
+- UI-AI Symbiosis
+- Zero-Drift Tools
+source: https://github.com/aralroca/Janux
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-05T13:58:13Z"
-discovered_at: "2026-08-05T14:06:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T13:58:13Z'
+discovered_at: '2026-08-05T14:06:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

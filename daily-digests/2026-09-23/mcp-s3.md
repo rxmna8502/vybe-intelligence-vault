@@ -1,19 +1,30 @@
 ---
-title: "txn2/mcp-s3"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Amazon S3 SDK", "AWS SDK", "Docker", "SeaweedFS"]
+title: txn2/mcp-s3
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Amazon S3 SDK
+- AWS SDK
+- Docker
+- SeaweedFS
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "S3 integration", "AI storage access", "object storage", "presigned URLs"]
-source: "https://github.com/txn2/mcp-s3"
+deployment_complexity: Medium
+tags:
+- MCP server
+- S3 integration
+- AI storage access
+- object storage
+- presigned URLs
+source: https://github.com/txn2/mcp-s3
 stars: 5
-language: "Go"
-last_updated: "2026-07-20T06:12:55Z"
-discovered_at: "2026-07-20T06:16:57Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-20T06:12:55Z'
+discovered_at: '2026-07-20T06:16:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

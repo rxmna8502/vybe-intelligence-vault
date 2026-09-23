@@ -1,19 +1,30 @@
 ---
-title: "stippi/code-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "GPUI (GUI framework)", "MCP (Model Context Protocol)", "ACP (Agent Communication Protocol)", "LLM APIs (Anthropic, OpenAI, etc.)", "Terminal UI"]
+title: stippi/code-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- GPUI (GUI framework)
+- MCP (Model Context Protocol)
+- ACP (Agent Communication Protocol)
+- LLM APIs (Anthropic, OpenAI, etc.)
+- Terminal UI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "autonomous editing", "MCP integration", "transparent tool execution", "multi-interface support"]
-source: "https://github.com/stippi/code-assistant"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- autonomous editing
+- MCP integration
+- transparent tool execution
+- multi-interface support
+source: https://github.com/stippi/code-assistant
 stars: 175
-language: "Rust"
-last_updated: "2026-07-15T08:03:21Z"
-discovered_at: "2026-07-15T08:06:05Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-15T08:03:21Z'
+discovered_at: '2026-07-15T08:06:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

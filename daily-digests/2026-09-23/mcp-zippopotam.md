@@ -1,19 +1,27 @@
 ---
-title: "pipeworx-io/mcp-zippopotam"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Zippopotam.us API"]
+title: pipeworx-io/mcp-zippopotam
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Zippopotam.us API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["geocoding", "MCP server", "ZIP code lookup", "postal code resolution", "geo-aware workflows"]
-source: "https://github.com/pipeworx-io/mcp-zippopotam"
+deployment_complexity: Low
+tags:
+- geocoding
+- MCP server
+- ZIP code lookup
+- postal code resolution
+- geo-aware workflows
+source: https://github.com/pipeworx-io/mcp-zippopotam
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T07:32:08Z"
-discovered_at: "2026-08-04T07:41:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:32:08Z'
+discovered_at: '2026-08-04T07:41:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

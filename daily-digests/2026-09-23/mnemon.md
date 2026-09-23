@@ -1,19 +1,38 @@
 ---
-title: "nousergon/mnemon"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastEmbed", "BM25", "Vector Search", "Model Context Protocol (MCP)", "Fly.io", "AWS S3", "Streamlit", "UMAP", "PCA", "SQLite", "PostgreSQL", "NLI (Natural Language Inference)", "GitHub Actions"]
+title: nousergon/mnemon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastEmbed
+- BM25
+- Vector Search
+- Model Context Protocol (MCP)
+- Fly.io
+- AWS S3
+- Streamlit
+- UMAP
+- PCA
+- SQLite
+- PostgreSQL
+- NLI (Natural Language Inference)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP", "self-hosted", "memory management", "hybrid search", "cross-device"]
-source: "https://github.com/nousergon/mnemon"
+deployment_complexity: Medium
+tags:
+- MCP
+- self-hosted
+- memory management
+- hybrid search
+- cross-device
+source: https://github.com/nousergon/mnemon
 stars: 1
-language: "Python"
-last_updated: "2026-07-17T14:39:38Z"
-discovered_at: "2026-07-17T14:43:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T14:39:38Z'
+discovered_at: '2026-07-17T14:43:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

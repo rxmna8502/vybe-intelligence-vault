@@ -1,19 +1,30 @@
 ---
-title: "CasterlyGit/trident"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Claude Code SDK", "launchd", "JSON", "SSE (Server-Sent Events)", "Fable-class AI models"]
+title: CasterlyGit/trident
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Python
+- Claude Code SDK
+- launchd
+- JSON
+- SSE (Server-Sent Events)
+- Fable-class AI models
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["token governance", "AI agent budgeting", "cost optimization", "self-tuning", "real-time routing"]
-source: "https://github.com/CasterlyGit/trident"
+deployment_complexity: High
+tags:
+- token governance
+- AI agent budgeting
+- cost optimization
+- self-tuning
+- real-time routing
+source: https://github.com/CasterlyGit/trident
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T04:22:38Z"
-discovered_at: "2026-08-02T05:57:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T04:22:38Z'
+discovered_at: '2026-08-02T05:57:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

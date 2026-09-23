@@ -1,19 +1,31 @@
 ---
-title: "hysohail/agentic-experiment-designer"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI API", "Claude API", "HuggingFace Transformers", "JSON", "Mermaid.js (for diagrams)", "Terminal UI"]
+title: hysohail/agentic-experiment-designer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- OpenAI API
+- Claude API
+- HuggingFace Transformers
+- JSON
+- Mermaid.js (for diagrams)
+- Terminal UI
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["autonomous research", "experiment design", "AI agent", "scientific computing", "multi-model integration"]
-source: "https://github.com/hysohail/agentic-experiment-designer"
+deployment_complexity: Medium
+tags:
+- autonomous research
+- experiment design
+- AI agent
+- scientific computing
+- multi-model integration
+source: https://github.com/hysohail/agentic-experiment-designer
 stars: 0
-language: "HTML"
-last_updated: "2026-07-19T17:58:30Z"
-discovered_at: "2026-07-19T17:58:53Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-19T17:58:30Z'
+discovered_at: '2026-07-19T17:58:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

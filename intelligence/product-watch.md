@@ -14,6 +14,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators](https://arxiv.org/abs/2609.06796) | `mcp-registry/` | 70 |
 | [MCPO: Modality-Contrastive Preference Optimization for Multimodal Chain-of-Thought Compression](https://arxiv.org/abs/2609.04947) | `mcp-registry/` | 70 |
 | [What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962) | `mcp-registry/` | 70 |
+| [MCPGen: Benchmarking LLMs on Executable MCPWorkflow Development](https://arxiv.org/abs/2609.23925) | `mcp-registry/` | 70 |
 | [Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data](https://arxiv.org/abs/2609.11286) | `mcp-registry/` | 70 |
 | [A Large-Scale Dataset of MCP Implementations on GitHub](https://arxiv.org/abs/2607.10123) | `mcp-registry/` | 70 |
 | [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Intro | Zod](https://zod.dev) | `mcp-registry/` | 70 |
 | [UrbanAgent: A Tool-Augmented Agent for Cross-System Urban Tasks](https://arxiv.org/abs/2608.03018) | `mcp-registry/` | 70 |
 | [Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](https://www.nixtla.io/blog/genai-announcement) | `mcp-registry/` | 70 |
-| [Firestore | Google Cloud](https://cloud.google.com/firestore) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

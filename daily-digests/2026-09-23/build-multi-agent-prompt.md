@@ -1,19 +1,29 @@
 ---
-title: "StarSure/build-multi-agent-prompt"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "YAML", "Codex Skills", "OpenAI API", "Prompt Engineering"]
+title: StarSure/build-multi-agent-prompt
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- YAML
+- Codex Skills
+- OpenAI API
+- Prompt Engineering
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["multi-agent orchestration", "Codex prompt generation", "AI workflow automation", "model allocation", "independent validation"]
-source: "https://github.com/StarSure/build-multi-agent-prompt"
+deployment_complexity: Low
+tags:
+- multi-agent orchestration
+- Codex prompt generation
+- AI workflow automation
+- model allocation
+- independent validation
+source: https://github.com/StarSure/build-multi-agent-prompt
 stars: 1
-language: "None"
-last_updated: "2026-08-06T09:41:32Z"
-discovered_at: "2026-08-06T09:42:08Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-06T09:41:32Z'
+discovered_at: '2026-08-06T09:42:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "sunbeamdotpt/memory"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "SQLite", "FastEmbed", "HNSW (Hierarchical Navigable Small World)", "MCP (Model Context Protocol)", "ConnectRPC", "Protobuf", "HTTP/2", "OIDC/JWT", "Systemd"]
+title: sunbeamdotpt/memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- SQLite
+- FastEmbed
+- HNSW (Hierarchical Navigable Small World)
+- MCP (Model Context Protocol)
+- ConnectRPC
+- Protobuf
+- HTTP/2
+- OIDC/JWT
+- Systemd
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["semantic memory", "vector search", "MCP server", "file ingestion", "RAG augmentation"]
-source: "https://github.com/sunbeamdotpt/memory"
+deployment_complexity: Medium
+tags:
+- semantic memory
+- vector search
+- MCP server
+- file ingestion
+- RAG augmentation
+source: https://github.com/sunbeamdotpt/memory
 stars: 23
-language: "Rust"
-last_updated: "2026-07-11T07:40:54Z"
-discovered_at: "2026-07-11T07:52:39Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-11T07:40:54Z'
+discovered_at: '2026-07-11T07:52:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

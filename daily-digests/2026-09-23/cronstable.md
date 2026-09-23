@@ -1,19 +1,36 @@
 ---
-title: "ptweezy/cronstable"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "YAML", "Docker", "Kubernetes", "Prometheus", "Sentry", "TLS", "mypy", "Prometheus metrics", "HTTP REST API", "iCal", "MCP server"]
+title: ptweezy/cronstable
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- YAML
+- Docker
+- Kubernetes
+- Prometheus
+- Sentry
+- TLS
+- mypy
+- Prometheus metrics
+- HTTP REST API
+- iCal
+- MCP server
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["scheduling", "cron replacement", "container-native", "fault-tolerant", "observability"]
-source: "https://github.com/ptweezy/cronstable"
+deployment_complexity: Medium
+tags:
+- scheduling
+- cron replacement
+- container-native
+- fault-tolerant
+- observability
+source: https://github.com/ptweezy/cronstable
 stars: 70
-language: "Python"
-last_updated: "2026-08-01T14:45:08Z"
-discovered_at: "2026-08-01T15:01:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T14:45:08Z'
+discovered_at: '2026-08-01T15:01:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

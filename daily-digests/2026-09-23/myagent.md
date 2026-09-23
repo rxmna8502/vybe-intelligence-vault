@@ -1,19 +1,36 @@
 ---
-title: "holoduke/myagent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Nuxt.js", "Claude Code CLI", "Docker", "WhatsApp (Baileys)", "Google APIs (Gmail, Calendar)", "Home Assistant", "RSS Feeds", "OwnTracks (Location Tracking)", "Vector Embeddings", "LLM Integration (Claude, Codex, Grok)"]
+title: holoduke/myagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Nuxt.js
+- Claude Code CLI
+- Docker
+- WhatsApp (Baileys)
+- Google APIs (Gmail, Calendar)
+- Home Assistant
+- RSS Feeds
+- OwnTracks (Location Tracking)
+- Vector Embeddings
+- LLM Integration (Claude, Codex, Grok)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["autonomous agent", "self-improving AI", "memory graph", "multi-modal integration", "cognitive architecture"]
-source: "https://github.com/holoduke/myagent"
+deployment_complexity: High
+tags:
+- autonomous agent
+- self-improving AI
+- memory graph
+- multi-modal integration
+- cognitive architecture
+source: https://github.com/holoduke/myagent
 stars: 6
-language: "TypeScript"
-last_updated: "2026-09-03T08:26:12Z"
-discovered_at: "2026-09-03T08:33:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T08:26:12Z'
+discovered_at: '2026-09-03T08:33:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

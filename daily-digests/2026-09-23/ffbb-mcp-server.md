@@ -1,19 +1,33 @@
 ---
-title: "nickdesi/FFBB-MCP-Server"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.14+", "Model Context Protocol (MCP)", "Starlette", "Uvicorn", "Asyncio", "SQLite", "Docker", "GitHub Actions", "HTTPS/Streamable HTTP"]
+title: nickdesi/FFBB-MCP-Server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python 3.14+
+- Model Context Protocol (MCP)
+- Starlette
+- Uvicorn
+- Asyncio
+- SQLite
+- Docker
+- GitHub Actions
+- HTTPS/Streamable HTTP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "French Basketball", "Live Sports Data", "AI Assistant Integration", "Real-Time API"]
-source: "https://github.com/nickdesi/FFBB-MCP-Server"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- French Basketball
+- Live Sports Data
+- AI Assistant Integration
+- Real-Time API
+source: https://github.com/nickdesi/FFBB-MCP-Server
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T19:18:30Z"
-discovered_at: "2026-08-01T19:19:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T19:18:30Z'
+discovered_at: '2026-08-01T19:19:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "gastonrey/licita-app"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Fastify", "PostgreSQL", "Node.js", "MCP (Model Context Protocol)", "x402 (pay-per-call protocol)", "Docker", "REST API", "OpenAPI", "402 Payment Protocol"]
+title: gastonrey/licita-app
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Fastify
+- PostgreSQL
+- Node.js
+- MCP (Model Context Protocol)
+- x402 (pay-per-call protocol)
+- Docker
+- REST API
+- OpenAPI
+- 402 Payment Protocol
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["procurement intelligence", "TED data", "MCP server", "pay-per-call", "Spanish tenders"]
-source: "https://github.com/gastonrey/licita-app"
+deployment_complexity: Medium
+tags:
+- procurement intelligence
+- TED data
+- MCP server
+- pay-per-call
+- Spanish tenders
+source: https://github.com/gastonrey/licita-app
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T22:08:02Z"
-discovered_at: "2026-09-02T22:21:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:08:02Z'
+discovered_at: '2026-09-02T22:21:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

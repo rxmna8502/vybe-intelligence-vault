@@ -1,19 +1,32 @@
 ---
-title: "muippt/mu-skill-hub"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["React", "Vite", "Tailwind CSS", "Radix UI", "Framer Motion", "Recharts", "Lucide Icons", "JavaScript"]
+title: muippt/mu-skill-hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- React
+- Vite
+- Tailwind CSS
+- Radix UI
+- Framer Motion
+- Recharts
+- Lucide Icons
+- JavaScript
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI Skills", "Productivity", "Automation", "Workflow", "Tooling"]
-source: "https://github.com/muippt/mu-skill-hub"
+deployment_complexity: Low
+tags:
+- AI Skills
+- Productivity
+- Automation
+- Workflow
+- Tooling
+source: https://github.com/muippt/mu-skill-hub
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-07T02:39:08Z"
-discovered_at: "2026-08-07T02:41:37Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T02:39:08Z'
+discovered_at: '2026-08-07T02:41:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "0xmortuex/qemu-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "QEMU", "MCP (Model Context Protocol)", "QMP (QEMU Machine Protocol)", "Framebuffer", "Serial Console"]
+title: 0xmortuex/qemu-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- QEMU
+- MCP (Model Context Protocol)
+- QMP (QEMU Machine Protocol)
+- Framebuffer
+- Serial Console
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["QEMU automation", "AI agent control", "headless VM interaction", "OS development", "MCP server"]
-source: "https://github.com/0xmortuex/qemu-mcp"
+deployment_complexity: Medium
+tags:
+- QEMU automation
+- AI agent control
+- headless VM interaction
+- OS development
+- MCP server
+source: https://github.com/0xmortuex/qemu-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T13:52:21Z"
-discovered_at: "2026-08-09T13:53:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T13:52:21Z'
+discovered_at: '2026-08-09T13:53:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

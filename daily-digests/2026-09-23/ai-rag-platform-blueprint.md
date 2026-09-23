@@ -1,19 +1,37 @@
 ---
-title: "AliZahiri/ai-rag-platform-blueprint"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "Docker Compose", "PostgreSQL", "Redis", "LiteLLM", "vLLM", "Prometheus", "Grafana", "Qdrant", "Milvus", "Weaviate", "pgvector"]
+title: AliZahiri/ai-rag-platform-blueprint
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Docker
+- Docker Compose
+- PostgreSQL
+- Redis
+- LiteLLM
+- vLLM
+- Prometheus
+- Grafana
+- Qdrant
+- Milvus
+- Weaviate
+- pgvector
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "LLM", "platform", "orchestration", "production"]
-source: "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+deployment_complexity: Medium
+tags:
+- RAG
+- LLM
+- platform
+- orchestration
+- production
+source: https://github.com/AliZahiri/ai-rag-platform-blueprint
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T06:25:36Z"
-discovered_at: "2026-08-09T06:59:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T06:25:36Z'
+discovered_at: '2026-08-09T06:59:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

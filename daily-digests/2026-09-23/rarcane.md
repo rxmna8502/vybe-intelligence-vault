@@ -1,19 +1,33 @@
 ---
-title: "dinglebear-ai/rarcane"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Docker", "HTTP", "CLI", "Arcane API", "OAuth", "Bearer Token Auth", "TOML/JSON Config"]
+title: dinglebear-ai/rarcane
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- Docker
+- HTTP
+- CLI
+- Arcane API
+- OAuth
+- Bearer Token Auth
+- TOML/JSON Config
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Docker management", "Arcane integration", "CLI tool", "Container orchestration"]
-source: "https://github.com/dinglebear-ai/rarcane"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Docker management
+- Arcane integration
+- CLI tool
+- Container orchestration
+source: https://github.com/dinglebear-ai/rarcane
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T03:36:29Z"
-discovered_at: "2026-08-01T03:44:10Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:36:29Z'
+discovered_at: '2026-08-01T03:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

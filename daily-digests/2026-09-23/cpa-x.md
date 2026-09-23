@@ -1,19 +1,32 @@
 ---
-title: "ferretgeek/CPA-X"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "JavaScript", "HTML/CSS", "Docker", "systemd", "SQLite", "GitHub Actions"]
+title: ferretgeek/CPA-X
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Flask
+- JavaScript
+- HTML/CSS
+- Docker
+- systemd
+- SQLite
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["monitoring", "management panel", "CLIProxyAPI", "auto-update", "AI deployment"]
-source: "https://github.com/ferretgeek/CPA-X"
+deployment_complexity: Medium
+tags:
+- monitoring
+- management panel
+- CLIProxyAPI
+- auto-update
+- AI deployment
+source: https://github.com/ferretgeek/CPA-X
 stars: 62
-language: "Python"
-last_updated: "2026-08-09T01:26:15Z"
-discovered_at: "2026-08-09T01:33:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:26:15Z'
+discovered_at: '2026-08-09T01:33:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

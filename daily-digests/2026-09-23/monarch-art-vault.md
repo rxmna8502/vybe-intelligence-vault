@@ -1,19 +1,28 @@
 ---
-title: "concentricityplague443/monarch-art-vault"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop App", "Metadata Extraction Libraries", "Image Processing Libraries"]
+title: concentricityplague443/monarch-art-vault
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Windows Desktop App
+- Metadata Extraction Libraries
+- Image Processing Libraries
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["image organization", "deduplication", "AI cataloging", "print-ready assets", "metadata extraction"]
-source: "https://github.com/concentricityplague443/monarch-art-vault"
+deployment_complexity: Low
+tags:
+- image organization
+- deduplication
+- AI cataloging
+- print-ready assets
+- metadata extraction
+source: https://github.com/concentricityplague443/monarch-art-vault
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T00:01:05Z"
-discovered_at: "2026-08-07T00:01:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T00:01:05Z'
+discovered_at: '2026-08-07T00:01:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

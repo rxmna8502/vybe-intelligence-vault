@@ -1,19 +1,36 @@
 ---
-title: "aiengmohamedtayal-netizen/ChatGPT-Antigravity-Bridge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "SQLite", "Cloudflare Tunnel", "MCP (Model Context Protocol)", "OpenAPI 3.1", "WebSockets", "Pydantic", "SQLAlchemy", "SHA-256", "Fernet AES", "AsyncIO"]
+title: aiengmohamedtayal-netizen/ChatGPT-Antigravity-Bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- Cloudflare Tunnel
+- MCP (Model Context Protocol)
+- OpenAPI 3.1
+- WebSockets
+- Pydantic
+- SQLAlchemy
+- SHA-256
+- Fernet AES
+- AsyncIO
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "ChatGPT integration", "local development", "code refactoring", "session continuity"]
-source: "https://github.com/aiengmohamedtayal-netizen/ChatGPT-Antigravity-Bridge"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- ChatGPT integration
+- local development
+- code refactoring
+- session continuity
+source: https://github.com/aiengmohamedtayal-netizen/ChatGPT-Antigravity-Bridge
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T19:03:03Z"
-discovered_at: "2026-09-03T19:03:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T19:03:03Z'
+discovered_at: '2026-09-03T19:03:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

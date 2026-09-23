@@ -1,19 +1,29 @@
 ---
-title: "abozezo-dev/Code-Quality-Skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "JavaScript/TypeScript", "DevTools", "Static Analysis Tools", "CI/CD Pipelines"]
+title: abozezo-dev/Code-Quality-Skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Shell
+- JavaScript/TypeScript
+- DevTools
+- Static Analysis Tools
+- CI/CD Pipelines
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["code quality", "automated review", "static analysis", "runtime auditing", "security scanning"]
-source: "https://github.com/abozezo-dev/Code-Quality-Skill"
+deployment_complexity: Medium
+tags:
+- code quality
+- automated review
+- static analysis
+- runtime auditing
+- security scanning
+source: https://github.com/abozezo-dev/Code-Quality-Skill
 stars: 1
-language: "Shell"
-last_updated: "2026-07-16T12:21:58Z"
-discovered_at: "2026-07-16T12:22:06Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-16T12:21:58Z'
+discovered_at: '2026-07-16T12:22:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

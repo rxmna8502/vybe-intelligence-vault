@@ -1,19 +1,28 @@
 ---
-title: "marian-kamenistak/elc-toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "Remote MCP Server", "Attio (for data management)"]
+title: marian-kamenistak/elc-toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- Remote MCP Server
+- Attio (for data management)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["engineering leadership", "MCP server", "data-driven decisions", "community benchmarking", "ROI tools"]
-source: "https://github.com/marian-kamenistak/elc-toolkit"
+deployment_complexity: Low
+tags:
+- engineering leadership
+- MCP server
+- data-driven decisions
+- community benchmarking
+- ROI tools
+source: https://github.com/marian-kamenistak/elc-toolkit
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T10:33:13Z"
-discovered_at: "2026-08-09T10:38:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T10:33:13Z'
+discovered_at: '2026-08-09T10:38:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

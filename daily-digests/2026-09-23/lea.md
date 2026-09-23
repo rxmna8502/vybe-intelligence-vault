@@ -1,19 +1,32 @@
 ---
-title: "bobby33400/Lea"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "JavaScript", "Node.js", "Claude Code CLI", "Codex CLI", "Docker", "ccusage", "TypeScript (implied by modern JS practices)"]
+title: bobby33400/Lea
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Electron
+- JavaScript
+- Node.js
+- Claude Code CLI
+- Codex CLI
+- Docker
+- ccusage
+- TypeScript (implied by modern JS practices)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["autonomous coding", "task automation", "Claude Code", "Codex", "headless execution"]
-source: "https://github.com/bobby33400/Lea"
+deployment_complexity: Medium
+tags:
+- autonomous coding
+- task automation
+- Claude Code
+- Codex
+- headless execution
+source: https://github.com/bobby33400/Lea
 stars: 21
-language: "JavaScript"
-last_updated: "2026-07-20T19:51:28Z"
-discovered_at: "2026-07-20T19:53:30Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-20T19:51:28Z'
+discovered_at: '2026-07-20T19:53:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "aiapplications001-art/seo-page-creator-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "AI Agents", "SEO Optimization", "Markdown", "JSON", "HTML/CSS"]
+title: aiapplications001-art/seo-page-creator-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- AI Agents
+- SEO Optimization
+- Markdown
+- JSON
+- HTML/CSS
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SEO automation", "AI content generation", "on-page optimization", "content briefs", "local HTML preview"]
-source: "https://github.com/aiapplications001-art/seo-page-creator-agent"
+deployment_complexity: Medium
+tags:
+- SEO automation
+- AI content generation
+- on-page optimization
+- content briefs
+- local HTML preview
+source: https://github.com/aiapplications001-art/seo-page-creator-agent
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T10:30:48Z"
-discovered_at: "2026-08-02T10:41:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T10:30:48Z'
+discovered_at: '2026-08-02T10:41:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

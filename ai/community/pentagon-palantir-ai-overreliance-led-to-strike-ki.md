@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://bloomberg.com/graphics/2026-iran-school-attack
 hn_url: https://news.ycombinator.com/item?id=49806430
-score: 319
+score: 519
 author: devonnull
-comments_count: 163
+comments_count: 255
 published_at: '2026-09-23T00:33:38+05:30'
-collected_at: '2026-09-23T04:33:46.500124+05:30'
+collected_at: '2026-09-23T10:24:24.613306+05:30'
 tags:
 - ai
 - hackernews
 status: active
-resource_id: hackernews:pentagon-palantir-ai-overreliance-led-to-strike-ki
+resource_id: hackernews:pentagon-says-overreliance-on-ai-contributed-to-mi
 first_seen: '2026-09-23T01:20:02.761931+05:30'
-last_seen: '2026-09-23T04:33:46.500124+05:30'
-last_checked: '2026-09-23T04:33:46.500124+05:30'
+last_seen: '2026-09-23T10:24:24.613306+05:30'
+last_checked: '2026-09-23T10:24:24.613306+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by devonnull. Score: 319, Comments: 163.
+Hacker News story by devonnull. Score: 519, Comments: 255.
 Original Link: https://www.bloomberg.com/graphics/2026-iran-school-attack/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: devonnull
-- Score: 319 Upvotes
-- Comments: 163 Discussions
+- Score: 519 Upvotes
+- Comments: 255 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49806430
 - Original Article: https://bloomberg.com/graphics/2026-iran-school-attack
 

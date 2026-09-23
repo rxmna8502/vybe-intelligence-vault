@@ -1,19 +1,31 @@
 ---
-title: "addsumtech/slides_maker"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PowerPoint (PPTX) generation", "Claude Code", "Codex", "JSON", "Markdown", "Template-based design"]
+title: addsumtech/slides_maker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- PowerPoint (PPTX) generation
+- Claude Code
+- Codex
+- JSON
+- Markdown
+- Template-based design
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["presentation generation", "source-traced content", "editable PPTX", "AI-assisted design", "multi-format layouts"]
-source: "https://github.com/addsumtech/slides_maker"
+deployment_complexity: Medium
+tags:
+- presentation generation
+- source-traced content
+- editable PPTX
+- AI-assisted design
+- multi-format layouts
+source: https://github.com/addsumtech/slides_maker
 stars: 492
-language: "Python"
-last_updated: "2026-09-02T22:14:35Z"
-discovered_at: "2026-09-02T22:15:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T22:14:35Z'
+discovered_at: '2026-09-02T22:15:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

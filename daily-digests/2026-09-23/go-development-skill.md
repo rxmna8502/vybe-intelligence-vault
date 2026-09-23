@@ -1,19 +1,32 @@
 ---
-title: "netresearch/go-development-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Docker", "LDAP", "Prometheus", "golangci-lint", "gosec", "GoReleaser", "Agent Skills Specification"]
+title: netresearch/go-development-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- Docker
+- LDAP
+- Prometheus
+- golangci-lint
+- gosec
+- GoReleaser
+- Agent Skills Specification
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Go development patterns", "resilient services", "job scheduling", "Docker integration", "LDAP authentication"]
-source: "https://github.com/netresearch/go-development-skill"
+deployment_complexity: Low
+tags:
+- Go development patterns
+- resilient services
+- job scheduling
+- Docker integration
+- LDAP authentication
+source: https://github.com/netresearch/go-development-skill
 stars: 9
-language: "Shell"
-last_updated: "2026-08-07T17:51:36Z"
-discovered_at: "2026-08-07T17:51:59Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-07T17:51:36Z'
+discovered_at: '2026-08-07T17:51:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

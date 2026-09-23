@@ -1,19 +1,29 @@
 ---
-title: "ShutovKS/headroom-opencode-standalone"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Headroom", "OpenCode", "npm"]
+title: ShutovKS/headroom-opencode-standalone
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Headroom
+- OpenCode
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["context compression", "token optimization", "OpenCode plugin", "Headroom integration", "local proxy"]
-source: "https://github.com/ShutovKS/headroom-opencode-standalone"
+deployment_complexity: Low
+tags:
+- context compression
+- token optimization
+- OpenCode plugin
+- Headroom integration
+- local proxy
+source: https://github.com/ShutovKS/headroom-opencode-standalone
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T21:43:03Z"
-discovered_at: "2026-07-19T21:51:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T21:43:03Z'
+discovered_at: '2026-07-19T21:51:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

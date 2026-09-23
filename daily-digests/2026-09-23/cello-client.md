@@ -1,19 +1,33 @@
 ---
-title: "Mygentic-AI/cello-client"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLCipher (AES-256 encryption)", "libp2p", "FROST (threshold cryptography)", "Ed25519 (signing)", "ML-DSA (post-quantum signatures)", "MCP (Model Context Protocol)", "Telegram Bot API"]
+title: Mygentic-AI/cello-client
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- SQLCipher (AES-256 encryption)
+- libp2p
+- FROST (threshold cryptography)
+- Ed25519 (signing)
+- ML-DSA (post-quantum signatures)
+- MCP (Model Context Protocol)
+- Telegram Bot API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["secure agent communication", "decentralized protocol", "threshold cryptography", "MCP integration", "tamper-evident audit trails"]
-source: "https://github.com/Mygentic-AI/cello-client"
+deployment_complexity: Medium
+tags:
+- secure agent communication
+- decentralized protocol
+- threshold cryptography
+- MCP integration
+- tamper-evident audit trails
+source: https://github.com/Mygentic-AI/cello-client
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-03T18:59:04Z"
-discovered_at: "2026-09-03T19:09:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T18:59:04Z'
+discovered_at: '2026-09-03T19:09:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

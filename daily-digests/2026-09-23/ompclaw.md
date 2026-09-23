@@ -1,19 +1,32 @@
 ---
-title: "wolfiesch/ompclaw"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Bun", "TypeScript", "Node.js", "SQLite", "Telegram Bot API", "WebSocket", "RPC", "CI/CD (GitHub Actions)"]
+title: wolfiesch/ompclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Bun
+- TypeScript
+- Node.js
+- SQLite
+- Telegram Bot API
+- WebSocket
+- RPC
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["remote access", "OMP gateway", "Telegram integration", "WebSocket authentication", "session management"]
-source: "https://github.com/wolfiesch/ompclaw"
+deployment_complexity: Medium
+tags:
+- remote access
+- OMP gateway
+- Telegram integration
+- WebSocket authentication
+- session management
+source: https://github.com/wolfiesch/ompclaw
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-01T09:06:29Z"
-discovered_at: "2026-09-01T09:07:26Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T09:06:29Z'
+discovered_at: '2026-09-01T09:07:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "Fupete/design-system-italia-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "GitHub Actions", "Sass/SCSS", "CI/CD", "REST APIs"]
+title: Fupete/design-system-italia-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- GitHub Actions
+- Sass/SCSS
+- CI/CD
+- REST APIs
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "design system", "RAG data source", "Italian public administration", "AI tooling"]
-source: "https://github.com/Fupete/design-system-italia-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- design system
+- RAG data source
+- Italian public administration
+- AI tooling
+source: https://github.com/Fupete/design-system-italia-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-07T08:08:47Z"
-discovered_at: "2026-08-07T08:16:24Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T08:08:47Z'
+discovered_at: '2026-08-07T08:16:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

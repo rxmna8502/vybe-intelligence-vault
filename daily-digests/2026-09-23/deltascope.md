@@ -1,19 +1,30 @@
 ---
-title: "Fanduzi/DeltaScope"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "SQL Parsing", "CLI", "HTTP Server", "MCP (Model Context Protocol)", "YAML Configuration"]
+title: Fanduzi/DeltaScope
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- SQL Parsing
+- CLI
+- HTTP Server
+- MCP (Model Context Protocol)
+- YAML Configuration
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SQL audit", "DDL/DML validation", "CI integration", "offline analysis", "database governance"]
-source: "https://github.com/Fanduzi/DeltaScope"
+deployment_complexity: Medium
+tags:
+- SQL audit
+- DDL/DML validation
+- CI integration
+- offline analysis
+- database governance
+source: https://github.com/Fanduzi/DeltaScope
 stars: 2
-language: "Go"
-last_updated: "2026-07-12T10:20:27Z"
-discovered_at: "2026-07-12T10:26:35Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-12T10:20:27Z'
+discovered_at: '2026-07-12T10:26:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

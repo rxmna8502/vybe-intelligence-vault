@@ -1,19 +1,32 @@
 ---
-title: "liz312948-crypto/verilog-verification-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Icarus Verilog", "JSON", "PEP 440", "pytest", "ruff", "mypy", "OpenAI API (optional)"]
+title: liz312948-crypto/verilog-verification-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Icarus Verilog
+- JSON
+- PEP 440
+- pytest
+- ruff
+- mypy
+- OpenAI API (optional)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Verilog generation", "RTL repair", "deterministic verification", "Icarus Verilog", "audiable reports"]
-source: "https://github.com/liz312948-crypto/verilog-verification-agent"
+deployment_complexity: Medium
+tags:
+- Verilog generation
+- RTL repair
+- deterministic verification
+- Icarus Verilog
+- audiable reports
+source: https://github.com/liz312948-crypto/verilog-verification-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T05:20:27Z"
-discovered_at: "2026-07-15T05:29:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T05:20:27Z'
+discovered_at: '2026-07-15T05:29:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

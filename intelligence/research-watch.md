@@ -27,7 +27,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection](https://arxiv.org/abs/2608.17933) | `ai-coding-agents/` | 70 |
 | [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](https://arxiv.org/abs/2606.11256) | `ai-coding-agents/` | 70 |
 | [NeuCME: Toward Dynamic Multimodal Continual Learning via Neural Combinatorics of Multiple Experts](https://arxiv.org/abs/2609.07009) | `ai-coding-agents/` | 70 |
+| [The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management](https://arxiv.org/abs/2604.02279) | `ai-coding-agents/` | 70 |
 | [ObGynLongBench: Revealing the Evidence-to-EHR Gap in Longitudinal EHR Decision-Making](https://arxiv.org/abs/2609.07601) | `ai-coding-agents/` | 70 |
-| [An Analysis of the Coordination Gap between Joint and Modular Learning for Job Shop Scheduling with Transportation Resources](https://arxiv.org/abs/2604.24117) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

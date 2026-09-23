@@ -15,13 +15,14 @@ tags:
 - hackernews
 - producthunt
 - rag
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-coverage-cat-yc-s22-umbrella-insurance-v
 first_seen: '2026-09-23T01:20:04.535401+05:30'
 last_seen: '2026-09-23T04:33:46.164215+05:30'
 last_checked: '2026-09-23T04:33:46.164215+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent
 

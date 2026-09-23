@@ -1,19 +1,30 @@
 ---
-title: "erekola/turva-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Cloudflare Agents SDK", "Streamable HTTP", "MCP Protocol", "Cloudflare Wrangler"]
+title: erekola/turva-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Cloudflare Agents SDK
+- Streamable HTTP
+- MCP Protocol
+- Cloudflare Wrangler
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Agent Readiness", "Security Scanning", "Cloudflare Workers", "Public Data"]
-source: "https://github.com/erekola/turva-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Agent Readiness
+- Security Scanning
+- Cloudflare Workers
+- Public Data
+source: https://github.com/erekola/turva-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-09T14:27:54Z"
-discovered_at: "2026-08-09T14:37:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T14:27:54Z'
+discovered_at: '2026-08-09T14:37:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

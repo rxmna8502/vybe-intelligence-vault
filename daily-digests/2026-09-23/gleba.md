@@ -1,19 +1,34 @@
 ---
-title: "GMS64260/gleba"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Docker", "shadcn/ui", "TailwindCSS", "NextAuth.js", "Recharts", "MCP (Model Context Protocol)"]
+title: GMS64260/gleba
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Next.js
+- TypeScript
+- Prisma
+- PostgreSQL
+- Docker
+- shadcn/ui
+- TailwindCSS
+- NextAuth.js
+- Recharts
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 3
-deployment_complexity: "Medium"
-tags: ["agriculture", "garden management", "open-source", "self-hosted", "permaculture"]
-source: "https://github.com/GMS64260/gleba"
+deployment_complexity: Medium
+tags:
+- agriculture
+- garden management
+- open-source
+- self-hosted
+- permaculture
+source: https://github.com/GMS64260/gleba
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-20T21:02:16Z"
-discovered_at: "2026-07-20T21:11:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T21:02:16Z'
+discovered_at: '2026-07-20T21:11:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

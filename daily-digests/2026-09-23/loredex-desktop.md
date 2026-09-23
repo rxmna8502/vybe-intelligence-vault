@@ -1,19 +1,38 @@
 ---
-title: "ahmedtawfeeq1/loredex-desktop"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Electron", "React", "SQLite", "Git", "Node.js", "npm", "Electron-Vite", "Vitest", "MCP (Model Context Protocol)", "SVG", "AppImage", "DMG", "EXE"]
+title: ahmedtawfeeq1/loredex-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Electron
+- React
+- SQLite
+- Git
+- Node.js
+- npm
+- Electron-Vite
+- Vitest
+- MCP (Model Context Protocol)
+- SVG
+- AppImage
+- DMG
+- EXE
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["knowledge management", "vault synchronization", "handoff lifecycle", "MCP server", "cross-platform desktop"]
-source: "https://github.com/ahmedtawfeeq1/loredex-desktop"
+deployment_complexity: Medium
+tags:
+- knowledge management
+- vault synchronization
+- handoff lifecycle
+- MCP server
+- cross-platform desktop
+source: https://github.com/ahmedtawfeeq1/loredex-desktop
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-20T02:40:34Z"
-discovered_at: "2026-07-20T02:44:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T02:40:34Z'
+discovered_at: '2026-07-20T02:44:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

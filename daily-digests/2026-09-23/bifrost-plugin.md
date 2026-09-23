@@ -1,19 +1,31 @@
 ---
-title: "neXenio/bifrost-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Claude Code", "MCP (Model Context Protocol)", "OAuth 2.1", "Keycloak", "Node.js"]
+title: neXenio/bifrost-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- JavaScript
+- TypeScript
+- Claude Code
+- MCP (Model Context Protocol)
+- OAuth 2.1
+- Keycloak
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Claude Code plugin", "MCP gateway integration", "skill discovery", "agent memory", "authentication"]
-source: "https://github.com/neXenio/bifrost-plugin"
+deployment_complexity: Medium
+tags:
+- Claude Code plugin
+- MCP gateway integration
+- skill discovery
+- agent memory
+- authentication
+source: https://github.com/neXenio/bifrost-plugin
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-05T22:01:56Z"
-discovered_at: "2026-08-05T22:15:11Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T22:01:56Z'
+discovered_at: '2026-08-05T22:15:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

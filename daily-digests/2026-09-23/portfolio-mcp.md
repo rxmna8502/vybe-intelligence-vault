@@ -1,19 +1,30 @@
 ---
-title: "saagpatel/portfolio-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Cloudflare Workers", "BM25", "Node.js", "Vitest"]
+title: saagpatel/portfolio-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Cloudflare Workers
+- BM25
+- Node.js
+- Vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "static corpus", "BM25 retrieval", "agent-native", "stateless"]
-source: "https://github.com/saagpatel/portfolio-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- static corpus
+- BM25 retrieval
+- agent-native
+- stateless
+source: https://github.com/saagpatel/portfolio-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T18:18:47Z"
-discovered_at: "2026-08-05T18:24:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T18:18:47Z'
+discovered_at: '2026-08-05T18:24:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "qual-lab/CRDD"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "Git", "Documentation Frameworks", "AI-Assisted Development"]
+title: qual-lab/CRDD
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Markdown
+- Git
+- Documentation Frameworks
+- AI-Assisted Development
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["context preservation", "AI-assisted development", "decision tracking", "documentation methodology", "development lifecycle"]
-source: "https://github.com/qual-lab/CRDD"
+deployment_complexity: Medium
+tags:
+- context preservation
+- AI-assisted development
+- decision tracking
+- documentation methodology
+- development lifecycle
+source: https://github.com/qual-lab/CRDD
 stars: 0
-language: "None"
-last_updated: "2026-07-19T02:17:54Z"
-discovered_at: "2026-07-19T02:30:08Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-19T02:17:54Z'
+discovered_at: '2026-07-19T02:30:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

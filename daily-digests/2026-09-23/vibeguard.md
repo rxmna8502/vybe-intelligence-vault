@@ -1,19 +1,32 @@
 ---
-title: "yagyeshVyas/VibeGuard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "AST (Abstract Syntax Tree) analysis", "MCP (Model Context Protocol)", "Proxy interception", "Shell command monitoring", "Taint analysis"]
+title: yagyeshVyas/VibeGuard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- AST (Abstract Syntax Tree) analysis
+- MCP (Model Context Protocol)
+- Proxy interception
+- Shell command monitoring
+- Taint analysis
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI security", "secret scanning", "prompt injection", "agent firewall", "compliance"]
-source: "https://github.com/yagyeshVyas/VibeGuard"
+deployment_complexity: Medium
+tags:
+- AI security
+- secret scanning
+- prompt injection
+- agent firewall
+- compliance
+source: https://github.com/yagyeshVyas/VibeGuard
 stars: 3
-language: "JavaScript"
-last_updated: "2026-07-19T16:47:24Z"
-discovered_at: "2026-07-19T16:57:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-19T16:47:24Z'
+discovered_at: '2026-07-19T16:57:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

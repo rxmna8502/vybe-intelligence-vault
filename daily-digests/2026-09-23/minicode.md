@@ -1,19 +1,29 @@
 ---
-title: "dowered-depressor172/MiniCode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "Rust", "Terminal UI", "AI Coding Assistant"]
+title: dowered-depressor172/MiniCode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Python
+- Rust
+- Terminal UI
+- AI Coding Assistant
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["terminal assistant", "multi-language", "AI coding workflow", "learning tool", "lightweight"]
-source: "https://github.com/dowered-depressor172/MiniCode"
+deployment_complexity: Low
+tags:
+- terminal assistant
+- multi-language
+- AI coding workflow
+- learning tool
+- lightweight
+source: https://github.com/dowered-depressor172/MiniCode
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-10T20:19:58Z"
-discovered_at: "2026-07-10T20:22:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T20:19:58Z'
+discovered_at: '2026-07-10T20:22:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

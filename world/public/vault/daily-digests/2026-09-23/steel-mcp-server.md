@@ -1,19 +1,31 @@
 ---
-title: "steel-dev/steel-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Chromium", "Steel API", "Docker", "Redis"]
+title: steel-dev/steel-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Chromium
+- Steel API
+- Docker
+- Redis
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web automation", "browser interaction", "MCP server", "RAG tooling", "headless browser"]
-source: "https://github.com/steel-dev/steel-mcp-server"
+deployment_complexity: Medium
+tags:
+- web automation
+- browser interaction
+- MCP server
+- RAG tooling
+- headless browser
+source: https://github.com/steel-dev/steel-mcp-server
 stars: 49
-language: "TypeScript"
-last_updated: "2026-08-07T14:14:38Z"
-discovered_at: "2026-08-07T14:19:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T14:14:38Z'
+discovered_at: '2026-08-07T14:19:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -86,8 +86,8 @@ This index groups curated resources by target developer skills.
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (Tier: `useful` | [`Local File`](../../ai/agents/openai-model-spec.md))
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (Tier: `useful` | [`Local File`](../../ai/agents/next-js-16-2-ai-improvements.md))
 - [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-18435.md))
+- [A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach](https://arxiv.org/abs/2609.24348) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-24348.md))
 - [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (Tier: `useful` | [`Local File`](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md))
-- [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-11095.md))
 
 ## Data Curation
 
@@ -317,8 +317,8 @@ This index groups curated resources by target developer skills.
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (Tier: `useful` | [`Local File`](../../ai/agents/openai-model-spec.md))
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (Tier: `useful` | [`Local File`](../../ai/agents/next-js-16-2-ai-improvements.md))
 - [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-18435.md))
+- [A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach](https://arxiv.org/abs/2609.24348) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2609-24348.md))
 - [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (Tier: `useful` | [`Local File`](../../ai/agents/use-the-gemini-code-assist-agent-mode-google-for-d.md))
-- [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](https://arxiv.org/abs/2608.11095) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-11095.md))
 
 ## Prompt Engineering
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ---
-*Last updated: 2026-09-23 04:52 IST*
+*Last updated: 2026-09-23 10:47 IST*

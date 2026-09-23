@@ -1,19 +1,30 @@
 ---
-title: "RobDeGeorge/BigfootsCave"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["HTML", "JavaScript", "Node.js", "MCP (Model Context Protocol)", "PNG/GIF/SVG encoders", "REST API"]
+title: RobDeGeorge/BigfootsCave
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- HTML
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- PNG/GIF/SVG encoders
+- REST API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["pixel art", "sprite editor", "MCP server", "AI collaboration", "browser-based"]
-source: "https://github.com/RobDeGeorge/BigfootsCave"
+deployment_complexity: Low
+tags:
+- pixel art
+- sprite editor
+- MCP server
+- AI collaboration
+- browser-based
+source: https://github.com/RobDeGeorge/BigfootsCave
 stars: 0
-language: "HTML"
-last_updated: "2026-08-08T03:24:40Z"
-discovered_at: "2026-08-08T03:28:05Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-08T03:24:40Z'
+discovered_at: '2026-08-08T03:28:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "spranab/weft"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Ed25519 cryptography", "CBOR serialization", "BLAKE3 hashing", "CRDT (RGA-family)", "MCP (Model Context Protocol)", "QUIC/gossip networking", "WebAssembly (sandboxed evidence)"]
+title: spranab/weft
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Ed25519 cryptography
+- CBOR serialization
+- BLAKE3 hashing
+- CRDT (RGA-family)
+- MCP (Model Context Protocol)
+- QUIC/gossip networking
+- WebAssembly (sandboxed evidence)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "evidence-based verification", "multi-agent collaboration", "git alternative", "capability-based security"]
-source: "https://github.com/spranab/weft"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- evidence-based verification
+- multi-agent collaboration
+- git alternative
+- capability-based security
+source: https://github.com/spranab/weft
 stars: 0
-language: "Rust"
-last_updated: "2026-08-10T18:57:06Z"
-discovered_at: "2026-08-10T19:01:28Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-10T18:57:06Z'
+discovered_at: '2026-08-10T19:01:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

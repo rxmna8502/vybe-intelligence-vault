@@ -1,19 +1,32 @@
 ---
-title: "Fred-Saurat/aevio"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Helius API", "Anthropic API", "Solana", "SPL Tokens", "Token-2022", "BM25 Indexing"]
+title: Fred-Saurat/aevio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Helius API
+- Anthropic API
+- Solana
+- SPL Tokens
+- Token-2022
+- BM25 Indexing
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous AI", "crypto trading", "risk-adjusted returns", "blockchain analytics", "decentralized finance"]
-source: "https://github.com/Fred-Saurat/aevio"
+deployment_complexity: Medium
+tags:
+- autonomous AI
+- crypto trading
+- risk-adjusted returns
+- blockchain analytics
+- decentralized finance
+source: https://github.com/Fred-Saurat/aevio
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T19:51:57Z"
-discovered_at: "2026-08-07T19:58:06Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T19:51:57Z'
+discovered_at: '2026-08-07T19:58:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

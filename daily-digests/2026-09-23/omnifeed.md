@@ -1,19 +1,33 @@
 ---
-title: "kinorai/omnifeed"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Docker", "SearXNG", "crawl4ai", "TOON format", "Algolia HN API", "GitHub REST API", "MCP (Model Context Protocol)", "Open WebUI"]
+title: kinorai/omnifeed
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- Docker
+- SearXNG
+- crawl4ai
+- TOON format
+- Algolia HN API
+- GitHub REST API
+- MCP (Model Context Protocol)
+- Open WebUI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["web crawling", "LLM-friendly", "Reddit engine", "TOON format", "self-hosted"]
-source: "https://github.com/kinorai/omnifeed"
+deployment_complexity: Medium
+tags:
+- web crawling
+- LLM-friendly
+- Reddit engine
+- TOON format
+- self-hosted
+source: https://github.com/kinorai/omnifeed
 stars: 6
-language: "Go"
-last_updated: "2026-08-08T17:29:45Z"
-discovered_at: "2026-08-08T17:33:04Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T17:29:45Z'
+discovered_at: '2026-08-08T17:33:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

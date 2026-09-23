@@ -1,19 +1,34 @@
 ---
-title: "mrlibelula/ai-interviewer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Laravel 10", "PHP 8.1", "Livewire 3", "Tailwind CSS", "Vite", "OpenAI GPT", "Jetstream", "Sanctum", "Eloquent ORM", "MySQL/PostgreSQL"]
+title: mrlibelula/ai-interviewer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Laravel 10
+- PHP 8.1
+- Livewire 3
+- Tailwind CSS
+- Vite
+- OpenAI GPT
+- Jetstream
+- Sanctum
+- Eloquent ORM
+- MySQL/PostgreSQL
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["hiring automation", "LLM integration", "technical interviews", "prompt engineering", "Laravel"]
-source: "https://github.com/mrlibelula/ai-interviewer"
+deployment_complexity: Medium
+tags:
+- hiring automation
+- LLM integration
+- technical interviews
+- prompt engineering
+- Laravel
+source: https://github.com/mrlibelula/ai-interviewer
 stars: 0
-language: "Blade"
-last_updated: "2026-08-08T13:41:34Z"
-discovered_at: "2026-08-08T13:48:39Z"
-evaluated_by: "mistral-small-latest"
+language: Blade
+last_updated: '2026-08-08T13:41:34Z'
+discovered_at: '2026-08-08T13:48:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

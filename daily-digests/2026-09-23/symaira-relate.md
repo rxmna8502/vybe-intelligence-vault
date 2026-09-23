@@ -1,19 +1,30 @@
 ---
-title: "danieljustus/symaira-relate"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "SQLite", "MCP (Model Context Protocol)", "XDG Base Directory Specification", "AES-256-GCM Encryption", "JSON API Contracts"]
+title: danieljustus/symaira-relate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- SQLite
+- MCP (Model Context Protocol)
+- XDG Base Directory Specification
+- AES-256-GCM Encryption
+- JSON API Contracts
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["contact management", "local-first", "privacy-focused", "SQLite", "CLI tool"]
-source: "https://github.com/danieljustus/symaira-relate"
+deployment_complexity: Low
+tags:
+- contact management
+- local-first
+- privacy-focused
+- SQLite
+- CLI tool
+source: https://github.com/danieljustus/symaira-relate
 stars: 1
-language: "Go"
-last_updated: "2026-07-17T16:13:32Z"
-discovered_at: "2026-07-17T16:14:55Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-17T16:13:32Z'
+discovered_at: '2026-07-17T16:14:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

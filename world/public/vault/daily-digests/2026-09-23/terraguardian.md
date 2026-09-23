@@ -1,19 +1,35 @@
 ---
-title: "cosmicoral/TerraGuardian"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Solidity", "React", "Chainlink CRE", "Gemini 2.5 Flash", "Ethereum", "Circom", "Groth16", "zkVerify", "Zod", "TypeScript", "JavaScript"]
+title: cosmicoral/TerraGuardian
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Solidity
+- React
+- Chainlink CRE
+- Gemini 2.5 Flash
+- Ethereum
+- Circom
+- Groth16
+- zkVerify
+- Zod
+- TypeScript
+- JavaScript
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["environmental intelligence", "AI decision-making", "blockchain transparency", "zero-knowledge proofs", "Chainlink CRE"]
-source: "https://github.com/cosmicoral/TerraGuardian"
+deployment_complexity: High
+tags:
+- environmental intelligence
+- AI decision-making
+- blockchain transparency
+- zero-knowledge proofs
+- Chainlink CRE
+source: https://github.com/cosmicoral/TerraGuardian
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-16T12:16:50Z"
-discovered_at: "2026-07-16T12:22:18Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-16T12:16:50Z'
+discovered_at: '2026-07-16T12:22:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
