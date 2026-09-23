@@ -4,25 +4,25 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 
 | Product | Focus Area | Score |
 | :--- | :--- | :--- |
-| [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) | `mcp-registry/` | 70 |
-| [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | `mcp-registry/` | 70 |
-| [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | `mcp-registry/` | 70 |
-| [Five Big Improvements to Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-updates) | `mcp-registry/` | 70 |
-| [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | `mcp-registry/` | 70 |
-| [Generate Images with Claude and Hugging Face](https://huggingface.co/blog/claude-and-mcp) | `mcp-registry/` | 70 |
-| [Upskill your LLMs With Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-servers) | `mcp-registry/` | 70 |
-| [How to Build an MCP Server with Gradio](https://huggingface.co/blog/gradio-mcp) | `mcp-registry/` | 70 |
-| [A Taxonomy of Runtime Faults in Model Context Protocol Servers](https://arxiv.org/abs/2606.05339) | `mcp-registry/` | 70 |
-| [Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools](https://arxiv.org/abs/2608.04719) | `mcp-registry/` | 70 |
-| [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](https://arxiv.org/abs/2607.08495) | `mcp-registry/` | 70 |
-| [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://arxiv.org/abs/2603.22341) | `mcp-registry/` | 70 |
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
-| [Agentic AI – Personal RAG System - Hugo Atlantic](https://subhashydv.github.io/blog/2025/09/agentic-ai-personal-rag-system/) | `mcp-registry/` | 70 |
-| [SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933) | `mcp-registry/` | 70 |
-| [Unstructured Data Platform for GenAI | Unstructured](https://unstructured.io/) | `mcp-registry/` | 70 |
-| [Collaboration software for software, IT and business teams | Atlassian](https://www.atlassian.com) | `mcp-registry/` | 70 |
-| [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) | `mcp-registry/` | 70 |
+| [modelcontextprotocol/servers Release: Release 2026.1.26](https://github.com/modelcontextprotocol/servers) | `mcp-registry/` | 70 |
+| [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) | `mcp-registry/` | 70 |
+| [Redakto - The Incognito Tab for LLMs](https://arxiv.org/abs/2608.18260) | `mcp-registry/` | 70 |
+| [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](https://arxiv.org/abs/2609.10854) | `mcp-registry/` | 70 |
+| [CASCADE: A Component Ablation and Corpus Audit of a Layered Local Defense for MCP-Based Systems](https://arxiv.org/abs/2604.17125) | `mcp-registry/` | 70 |
+| [Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization](https://arxiv.org/abs/2607.10618) | `mcp-registry/` | 70 |
+| [LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses](https://arxiv.org/abs/2608.01734) | `mcp-registry/` | 70 |
+| [Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators](https://arxiv.org/abs/2609.06796) | `mcp-registry/` | 70 |
+| [MCPO: Modality-Contrastive Preference Optimization for Multimodal Chain-of-Thought Compression](https://arxiv.org/abs/2609.04947) | `mcp-registry/` | 70 |
+| [What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962) | `mcp-registry/` | 70 |
+| [MCPGen: Benchmarking LLMs on Executable MCPWorkflow Development](https://arxiv.org/abs/2609.23925) | `mcp-registry/` | 70 |
+| [Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data](https://arxiv.org/abs/2609.11286) | `mcp-registry/` | 70 |
+| [A Large-Scale Dataset of MCP Implementations on GitHub](https://arxiv.org/abs/2607.10123) | `mcp-registry/` | 70 |
+| [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) | `mcp-registry/` | 70 |
+| [EffGen: Enabling Small Language Models as Capable Autonomous Agents](https://arxiv.org/abs/2602.00887) | `mcp-registry/` | 70 |
 | [How ServiceNow uses LangSmith to get visibility into its customer success agents](https://blog.langchain.com/customers-servicenow/) | `mcp-registry/` | 70 |
-| [AI for Research | Scite](https://www.scite.ai/) | `mcp-registry/` | 70 |
+| [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | `mcp-registry/` | 70 |
+| [Intro | Zod](https://zod.dev) | `mcp-registry/` | 70 |
+| [UrbanAgent: A Tool-Augmented Agent for Cross-System Urban Tasks](https://arxiv.org/abs/2608.03018) | `mcp-registry/` | 70 |
+| [Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](https://www.nixtla.io/blog/genai-announcement) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

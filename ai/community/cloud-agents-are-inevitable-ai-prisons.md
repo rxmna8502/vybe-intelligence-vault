@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:cloud-agents-are-inevitable-ai-prisons
 first_seen: '2026-09-24T01:16:22.437238+05:30'
 last_seen: '2026-09-24T01:16:22.437238+05:30'
 last_checked: '2026-09-24T01:16:22.437238+05:30'
 health_score: 100
 ---
+
 
 # Cloud Agents Are Inevitable AI Prisons
 

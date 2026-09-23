@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-gpt-6-astra-breaks-enigma-message-that-has
 first_seen: '2026-09-23T01:20:02.211168+05:30'
 last_seen: '2026-09-24T01:16:24.260607+05:30'
 last_checked: '2026-09-24T01:16:24.260607+05:30'
 health_score: 100
 ---
+
 
 # OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
 

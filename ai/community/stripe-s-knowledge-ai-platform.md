@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform
 hn_url: https://news.ycombinator.com/item?id=49815982
-score: 139
+score: 167
 author: ltononro
-comments_count: 93
+comments_count: 101
 published_at: '2026-09-23T19:08:00+05:30'
-collected_at: '2026-09-24T01:16:23.454900+05:30'
+collected_at: '2026-09-24T04:33:20.281744+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:stripe-s-knowledge-ai-platform
 first_seen: '2026-09-24T01:16:23.454900+05:30'
-last_seen: '2026-09-24T01:16:23.454900+05:30'
-last_checked: '2026-09-24T01:16:23.454900+05:30'
+last_seen: '2026-09-24T04:33:20.281744+05:30'
+last_checked: '2026-09-24T04:33:20.281744+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ltononro. Score: 139, Comments: 93.
+Hacker News story by ltononro. Score: 167, Comments: 101.
 Original Link: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ltononro
-- Score: 139 Upvotes
-- Comments: 93 Discussions
+- Score: 167 Upvotes
+- Comments: 101 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49815982
 - Original Article: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform
 

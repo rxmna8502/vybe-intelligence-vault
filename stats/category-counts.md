@@ -4,7 +4,7 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `Tooling/` | 1 |
+| `/` | 1 |
 | `ai/agents/` | 4645 |
 | `ai/community/` | 9 |
 | `ai/companies/` | 10 |
@@ -21,7 +21,7 @@ Below is the file distribution across the vault categories.
 | `web-development/` | 40 |
 | `web-development/framer-motion/` | 3 |
 | `web-development/gsap/` | 3 |
-| `web-development/nextjs/` | 76 |
+| `web-development/nextjs/` | 77 |
 | `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
 | `web-development/tailwind/` | 3 |

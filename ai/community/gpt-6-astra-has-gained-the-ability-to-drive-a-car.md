@@ -13,13 +13,14 @@ collected_at: '2026-09-24T01:16:24.563495+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:gpt-6-astra-has-gained-the-ability-to-drive-a-car
 first_seen: '2026-09-24T01:16:24.563495+05:30'
 last_seen: '2026-09-24T01:16:24.563495+05:30'
 last_checked: '2026-09-24T01:16:24.563495+05:30'
 health_score: 100
 ---
+
 
 # GPT-6 Astra has gained the ability to drive a car
 

@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:how-we-made-claude-ai-3x-faster-in-two-weeks
 first_seen: '2026-09-24T01:16:22.271228+05:30'
 last_seen: '2026-09-24T01:16:22.271228+05:30'
 last_checked: '2026-09-24T01:16:22.271228+05:30'
 health_score: 100
 ---
+
 
 # How we made claude.ai 3x faster in two weeks
 
