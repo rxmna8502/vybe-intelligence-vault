@@ -1,19 +1,29 @@
 ---
-title: "omicverse/omicos"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript/TypeScript", "Node.js", "Electron", "Web Technologies", "Closed-Source Platform"]
+title: omicverse/omicos
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- JavaScript/TypeScript
+- Node.js
+- Electron
+- Web Technologies
+- Closed-Source Platform
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["omics analysis", "agentic platform", "biological data", "closed-source", "release notes"]
-source: "https://github.com/omicverse/omicos"
+deployment_complexity: Medium
+tags:
+- omics analysis
+- agentic platform
+- biological data
+- closed-source
+- release notes
+source: https://github.com/omicverse/omicos
 stars: 1
-language: "None"
-last_updated: "2026-08-08T23:30:54Z"
-discovered_at: "2026-08-08T23:31:39Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T23:30:54Z'
+discovered_at: '2026-08-08T23:31:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

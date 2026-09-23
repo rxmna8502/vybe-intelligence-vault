@@ -1,19 +1,36 @@
 ---
-title: "fahadkhan174/learn-spring-ai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java 25", "Spring Boot 4", "Spring AI 2.0", "Ollama", "PostgreSQL", "pgvector", "SvelteKit 2", "Svelte 5", "TypeScript", "Tailwind CSS 4", "Maven", "Docker"]
+title: fahadkhan174/learn-spring-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Java 25
+- Spring Boot 4
+- Spring AI 2.0
+- Ollama
+- PostgreSQL
+- pgvector
+- SvelteKit 2
+- Svelte 5
+- TypeScript
+- Tailwind CSS 4
+- Maven
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Spring AI", "RAG", "Agent Orchestration", "Ollama Integration", "SvelteKit Frontend"]
-source: "https://github.com/fahadkhan174/learn-spring-ai"
+deployment_complexity: Medium
+tags:
+- Spring AI
+- RAG
+- Agent Orchestration
+- Ollama Integration
+- SvelteKit Frontend
+source: https://github.com/fahadkhan174/learn-spring-ai
 stars: 0
-language: "Svelte"
-last_updated: "2026-08-10T14:52:44Z"
-discovered_at: "2026-08-10T15:04:52Z"
-evaluated_by: "mistral-small-latest"
+language: Svelte
+last_updated: '2026-08-10T14:52:44Z'
+discovered_at: '2026-08-10T15:04:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "tsouth89/toolport"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Tauri", "React", "TypeScript", "MCP (Model Context Protocol)", "OS Keychain Integration", "CI/CD (GitHub Actions)"]
+title: tsouth89/toolport
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Tauri
+- React
+- TypeScript
+- MCP (Model Context Protocol)
+- OS Keychain Integration
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP gateway", "token optimization", "AI client integration", "security", "lazy tool discovery"]
-source: "https://github.com/tsouth89/toolport"
+deployment_complexity: Medium
+tags:
+- MCP gateway
+- token optimization
+- AI client integration
+- security
+- lazy tool discovery
+source: https://github.com/tsouth89/toolport
 stars: 201
-language: "Rust"
-last_updated: "2026-09-04T02:06:25Z"
-discovered_at: "2026-09-04T02:16:17Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-04T02:06:25Z'
+discovered_at: '2026-09-04T02:16:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

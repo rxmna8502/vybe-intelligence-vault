@@ -1,19 +1,29 @@
 ---
-title: "lantean-code/roslyn-workbench-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10 SDK", "Roslyn", "MCP (Model Context Protocol)", "MSBuild"]
+title: lantean-code/roslyn-workbench-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- C#
+- .NET 10 SDK
+- Roslyn
+- MCP (Model Context Protocol)
+- MSBuild
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["C# analysis", "transactional refactoring", "MCP server", "Roslyn", "code safety"]
-source: "https://github.com/lantean-code/roslyn-workbench-mcp"
+deployment_complexity: Medium
+tags:
+- C# analysis
+- transactional refactoring
+- MCP server
+- Roslyn
+- code safety
+source: https://github.com/lantean-code/roslyn-workbench-mcp
 stars: 0
-language: "C#"
-last_updated: "2026-09-03T08:24:30Z"
-discovered_at: "2026-09-03T08:39:18Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-09-03T08:24:30Z'
+discovered_at: '2026-09-03T08:39:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

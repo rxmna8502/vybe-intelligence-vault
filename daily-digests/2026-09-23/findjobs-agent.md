@@ -1,19 +1,33 @@
 ---
-title: "he-yufeng/FindJobs-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "React", "Flask", "SQLite", "OpenAI API", "Selenium", "LLM (Large Language Models)", "PDF/Word Parsing", "Natural Language Processing"]
+title: he-yufeng/FindJobs-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- React
+- Flask
+- SQLite
+- OpenAI API
+- Selenium
+- LLM (Large Language Models)
+- PDF/Word Parsing
+- Natural Language Processing
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["job search automation", "AI-powered interviews", "resume analysis", "LLM integration", "career assistant"]
-source: "https://github.com/he-yufeng/FindJobs-Agent"
+deployment_complexity: Medium
+tags:
+- job search automation
+- AI-powered interviews
+- resume analysis
+- LLM integration
+- career assistant
+source: https://github.com/he-yufeng/FindJobs-Agent
 stars: 252
-language: "Python"
-last_updated: "2026-09-02T15:50:09Z"
-discovered_at: "2026-09-02T15:50:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:50:09Z'
+discovered_at: '2026-09-02T15:50:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

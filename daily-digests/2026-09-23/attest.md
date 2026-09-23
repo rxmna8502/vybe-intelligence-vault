@@ -1,19 +1,31 @@
 ---
-title: "kunalKumar-13/attest"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Rust", "OR-Tools", "Playwright", "Pytest", "SQLite", "FastAPI"]
+title: kunalKumar-13/attest
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Rust
+- OR-Tools
+- Playwright
+- Pytest
+- SQLite
+- FastAPI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["financial reconciliation", "AI control layer", "settlement verification", "proof-based automation", "deterministic solver"]
-source: "https://github.com/kunalKumar-13/attest"
+deployment_complexity: Medium
+tags:
+- financial reconciliation
+- AI control layer
+- settlement verification
+- proof-based automation
+- deterministic solver
+source: https://github.com/kunalKumar-13/attest
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T22:03:25Z"
-discovered_at: "2026-09-03T22:05:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T22:03:25Z'
+discovered_at: '2026-09-03T22:05:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

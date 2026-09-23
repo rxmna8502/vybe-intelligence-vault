@@ -1,19 +1,32 @@
 ---
-title: "mikhalchankasm/NavisWorksMaster"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET Framework 4.8.1", ".NET 9", "Autodesk Navisworks SDK", "Model Context Protocol (MCP)", "Windows Named Pipes", "CSV/XLSX/JSONL Export", "PowerShell (installation scripts)"]
+title: mikhalchankasm/NavisWorksMaster
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- C#
+- .NET Framework 4.8.1
+- .NET 9
+- Autodesk Navisworks SDK
+- Model Context Protocol (MCP)
+- Windows Named Pipes
+- CSV/XLSX/JSONL Export
+- PowerShell (installation scripts)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["BIM", "Navisworks", "MCP server", "model search", "Clash Detective"]
-source: "https://github.com/mikhalchankasm/NavisWorksMaster"
+deployment_complexity: Medium
+tags:
+- BIM
+- Navisworks
+- MCP server
+- model search
+- Clash Detective
+source: https://github.com/mikhalchankasm/NavisWorksMaster
 stars: 0
-language: "C#"
-last_updated: "2026-08-04T21:12:30Z"
-discovered_at: "2026-08-04T21:14:52Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-04T21:12:30Z'
+discovered_at: '2026-08-04T21:14:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

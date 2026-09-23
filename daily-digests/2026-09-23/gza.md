@@ -1,19 +1,31 @@
 ---
-title: "mhawthorne/gza"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "Docker", "Claude Code", "Codex", "uv", "Rich (terminal formatting)"]
+title: mhawthorne/gza
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- SQLite
+- Docker
+- Claude Code
+- Codex
+- uv
+- Rich (terminal formatting)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI-driven development", "task orchestration", "automated code review", "parallel workflows", "LLM integration"]
-source: "https://github.com/mhawthorne/gza"
+deployment_complexity: Medium
+tags:
+- AI-driven development
+- task orchestration
+- automated code review
+- parallel workflows
+- LLM integration
+source: https://github.com/mhawthorne/gza
 stars: 12
-language: "Python"
-last_updated: "2026-09-02T22:05:10Z"
-discovered_at: "2026-09-02T22:17:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T22:05:10Z'
+discovered_at: '2026-09-02T22:17:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,37 @@
 ---
-title: "talhabilal-dev/resumind"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js", "React", "TypeScript", "MongoDB", "LangChain", "OpenAI", "Stripe", "Tailwind CSS", "JWT", "pdf-lib", "mammoth", "pdf-parse", "Resend"]
+title: talhabilal-dev/resumind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- MongoDB
+- LangChain
+- OpenAI
+- Stripe
+- Tailwind CSS
+- JWT
+- pdf-lib
+- mammoth
+- pdf-parse
+- Resend
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["resume analysis", "ATS optimization", "AI feedback", "job matching", "PDF generation"]
-source: "https://github.com/talhabilal-dev/resumind"
+deployment_complexity: Medium
+tags:
+- resume analysis
+- ATS optimization
+- AI feedback
+- job matching
+- PDF generation
+source: https://github.com/talhabilal-dev/resumind
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T15:10:41Z"
-discovered_at: "2026-08-06T15:18:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T15:10:41Z'
+discovered_at: '2026-08-06T15:18:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

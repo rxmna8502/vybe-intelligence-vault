@@ -1,19 +1,32 @@
 ---
-title: "langchain-tracer/Axon"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "React", "Express", "SQLite", "OpenTelemetry", "OTLP", "Docker"]
+title: langchain-tracer/Axon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- Express
+- SQLite
+- OpenTelemetry
+- OTLP
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["observability", "LLM monitoring", "local tracing", "AI agent debugging", "OTLP"]
-source: "https://github.com/langchain-tracer/Axon"
+deployment_complexity: Medium
+tags:
+- observability
+- LLM monitoring
+- local tracing
+- AI agent debugging
+- OTLP
+source: https://github.com/langchain-tracer/Axon
 stars: 133
-language: "TypeScript"
-last_updated: "2026-08-01T18:24:20Z"
-discovered_at: "2026-08-01T22:55:10Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T18:24:20Z'
+discovered_at: '2026-08-01T22:55:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

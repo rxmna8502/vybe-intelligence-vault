@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:delta-highly-available-strongly-consistent-storage
 first_seen: '2026-09-23T10:24:24.949767+05:30'
 last_seen: '2026-09-23T10:24:24.949767+05:30'
 last_checked: '2026-09-23T10:24:24.949767+05:30'
 health_score: 100
 ---
+
 
 # Delta: Highly available, strongly consistent storage using chain replication (2022)
 

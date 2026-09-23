@@ -1,19 +1,33 @@
 ---
-title: "nonlooped/nativepi"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "React", "TypeScript", "Bun", "Tailwind CSS", "shadcn/ui", "Zustand", "Zod", "Pi Coding Agent"]
+title: nonlooped/nativepi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Bun
+- Tailwind CSS
+- shadcn/ui
+- Zustand
+- Zod
+- Pi Coding Agent
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["desktop agent interface", "Pi coding agent", "cross-platform", "local-first", "extensions"]
-source: "https://github.com/nonlooped/nativepi"
+deployment_complexity: Medium
+tags:
+- desktop agent interface
+- Pi coding agent
+- cross-platform
+- local-first
+- extensions
+source: https://github.com/nonlooped/nativepi
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-02T14:58:54Z"
-discovered_at: "2026-08-02T15:02:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T14:58:54Z'
+discovered_at: '2026-08-02T15:02:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

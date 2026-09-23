@@ -1,19 +1,33 @@
 ---
-title: "Iniciativas-Alexendros/agent-protonmail"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Proton Mail Bridge", "Proton Pass (pass-cli)", "Proton Drive CLI", "Docker", "GitHub Actions (CI/CD)", "AGPL-3.0"]
+title: Iniciativas-Alexendros/agent-protonmail
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Proton Mail Bridge
+- Proton Pass (pass-cli)
+- Proton Drive CLI
+- Docker
+- GitHub Actions (CI/CD)
+- AGPL-3.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Proton Suite integration", "email automation", "password management", "local-first security"]
-source: "https://github.com/Iniciativas-Alexendros/agent-protonmail"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Proton Suite integration
+- email automation
+- password management
+- local-first security
+source: https://github.com/Iniciativas-Alexendros/agent-protonmail
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T02:21:03Z"
-discovered_at: "2026-07-12T02:32:53Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T02:21:03Z'
+discovered_at: '2026-07-12T02:32:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

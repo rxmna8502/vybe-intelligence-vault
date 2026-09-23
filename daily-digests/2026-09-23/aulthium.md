@@ -1,19 +1,33 @@
 ---
-title: "d3stiny-io/aulthium"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Bash", "Shell Scripting", "Model Context Protocol (MCP)", "HTTPS", "OpenRouter", "OpenAI", "Mistral AI", "Hugging Face", "NVIDIA NIM"]
+title: d3stiny-io/aulthium
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Bash
+- Shell Scripting
+- Model Context Protocol (MCP)
+- HTTPS
+- OpenRouter
+- OpenAI
+- Mistral AI
+- Hugging Face
+- NVIDIA NIM
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["terminal AI", "coding assistant", "MCP support", "open source", "provider-agnostic"]
-source: "https://github.com/d3stiny-io/aulthium"
+deployment_complexity: Low
+tags:
+- terminal AI
+- coding assistant
+- MCP support
+- open source
+- provider-agnostic
+source: https://github.com/d3stiny-io/aulthium
 stars: 4
-language: "Shell"
-last_updated: "2026-08-01T23:55:29Z"
-discovered_at: "2026-08-01T23:57:17Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-01T23:55:29Z'
+discovered_at: '2026-08-01T23:57:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

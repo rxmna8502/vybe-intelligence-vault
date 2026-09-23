@@ -1,19 +1,29 @@
 ---
-title: "the-nine-nation/remote-ssh-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js 20+", "Model Context Protocol (MCP)", "OpenSSH", "Bash"]
+title: the-nine-nation/remote-ssh-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js 20+
+- Model Context Protocol (MCP)
+- OpenSSH
+- Bash
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["SSH", "MCP", "remote execution", "stateful sessions", "AI agents"]
-source: "https://github.com/the-nine-nation/remote-ssh-mcp"
+deployment_complexity: Medium
+tags:
+- SSH
+- MCP
+- remote execution
+- stateful sessions
+- AI agents
+source: https://github.com/the-nine-nation/remote-ssh-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-05T05:27:58Z"
-discovered_at: "2026-08-05T05:49:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:27:58Z'
+discovered_at: '2026-08-05T05:49:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

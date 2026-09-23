@@ -1,19 +1,29 @@
 ---
-title: "houseofprayerzinzendorf150/LLM-Agent-Factory"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Semantic Search", "Retrieval-Augmented Generation (RAG)", "Electron (for UI)", "Hugging Face (for models)"]
+title: houseofprayerzinzendorf150/LLM-Agent-Factory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Semantic Search
+- Retrieval-Augmented Generation (RAG)
+- Electron (for UI)
+- Hugging Face (for models)
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["AI agents", "semantic search", "RAG", "document processing", "local deployment"]
-source: "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
+deployment_complexity: Low
+tags:
+- AI agents
+- semantic search
+- RAG
+- document processing
+- local deployment
+source: https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T06:28:09Z"
-discovered_at: "2026-08-06T06:33:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T06:28:09Z'
+discovered_at: '2026-08-06T06:33:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

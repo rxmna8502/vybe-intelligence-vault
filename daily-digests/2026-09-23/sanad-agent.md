@@ -1,19 +1,31 @@
 ---
-title: "EastStarAI/sanad-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Dart", "Flutter", "Ollama", "LM Studio", "llama.cpp", "MCP (Model Context Protocol)", "GitHub Actions"]
+title: EastStarAI/sanad-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Dart
+- Flutter
+- Ollama
+- LM Studio
+- llama.cpp
+- MCP (Model Context Protocol)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "cross-platform", "local-first", "workspace management", "multi-device"]
-source: "https://github.com/EastStarAI/sanad-agent"
+deployment_complexity: Medium
+tags:
+- AI agent
+- cross-platform
+- local-first
+- workspace management
+- multi-device
+source: https://github.com/EastStarAI/sanad-agent
 stars: 0
-language: "Dart"
-last_updated: "2026-08-01T19:08:17Z"
-discovered_at: "2026-08-01T19:19:08Z"
-evaluated_by: "mistral-small-latest"
+language: Dart
+last_updated: '2026-08-01T19:08:17Z'
+discovered_at: '2026-08-01T19:19:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

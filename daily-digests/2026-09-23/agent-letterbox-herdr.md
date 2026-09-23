@@ -1,19 +1,30 @@
 ---
-title: "SimonMallas/agent-letterbox-herdr"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Bash", "Shell Scripting", "Herdr", "Git", "Markdown", "CLI Tools"]
+title: SimonMallas/agent-letterbox-herdr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Bash
+- Shell Scripting
+- Herdr
+- Git
+- Markdown
+- CLI Tools
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent coordination", "task handoff", "durable messaging", "Herdr integration", "AI team workflow"]
-source: "https://github.com/SimonMallas/agent-letterbox-herdr"
+deployment_complexity: Medium
+tags:
+- multi-agent coordination
+- task handoff
+- durable messaging
+- Herdr integration
+- AI team workflow
+source: https://github.com/SimonMallas/agent-letterbox-herdr
 stars: 1
-language: "Shell"
-last_updated: "2026-09-02T19:03:19Z"
-discovered_at: "2026-09-02T19:13:04Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-09-02T19:03:19Z'
+discovered_at: '2026-09-02T19:13:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "liliu-z/stashbase"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "Python", "Milvus Lite", "Whisper (speech-to-text)", "OCR (Tesseract)", "MCP (Model Context Protocol)", "OpenAI API", "OpenRouter API"]
+title: liliu-z/stashbase
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Electron
+- Python
+- Milvus Lite
+- Whisper (speech-to-text)
+- OCR (Tesseract)
+- MCP (Model Context Protocol)
+- OpenAI API
+- OpenRouter API
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["local file indexing", "MCP server", "semantic search", "agent integration", "offline transcription"]
-source: "https://github.com/liliu-z/stashbase"
+deployment_complexity: Medium
+tags:
+- local file indexing
+- MCP server
+- semantic search
+- agent integration
+- offline transcription
+source: https://github.com/liliu-z/stashbase
 stars: 169
-language: "TypeScript"
-last_updated: "2026-08-01T08:56:58Z"
-discovered_at: "2026-08-01T09:06:48Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T08:56:58Z'
+discovered_at: '2026-08-01T09:06:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

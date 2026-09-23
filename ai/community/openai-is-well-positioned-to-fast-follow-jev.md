@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-is-well-positioned-to-fast-follow-jev
 first_seen: '2026-09-23T01:20:03.999710+05:30'
 last_seen: '2026-09-23T10:24:25.173103+05:30'
 last_checked: '2026-09-23T10:24:25.173103+05:30'
 health_score: 100
 ---
+
 
 # OpenAI is well positioned to fast-follow Jev
 

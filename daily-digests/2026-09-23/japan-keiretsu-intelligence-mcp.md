@@ -1,19 +1,35 @@
 ---
-title: "GanieZ/japan-keiretsu-intelligence-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PostgreSQL", "Redis", "React", "Tailwind CSS", "Claude MCP", "OpenAI Function Calling", "LangChain", "FastAPI", "WebSocket", "Docker"]
+title: GanieZ/japan-keiretsu-intelligence-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- PostgreSQL
+- Redis
+- React
+- Tailwind CSS
+- Claude MCP
+- OpenAI Function Calling
+- LangChain
+- FastAPI
+- WebSocket
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Japanese corporate data", "government API aggregation", "MCP server", "due diligence automation", "AI-citable sources"]
-source: "https://github.com/GanieZ/japan-keiretsu-intelligence-mcp"
+deployment_complexity: Medium
+tags:
+- Japanese corporate data
+- government API aggregation
+- MCP server
+- due diligence automation
+- AI-citable sources
+source: https://github.com/GanieZ/japan-keiretsu-intelligence-mcp
 stars: 1
-language: "HTML"
-last_updated: "2026-09-03T18:55:12Z"
-discovered_at: "2026-09-03T19:12:21Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T18:55:12Z'
+discovered_at: '2026-09-03T19:12:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

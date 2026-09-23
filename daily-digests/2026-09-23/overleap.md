@@ -1,19 +1,32 @@
 ---
-title: "Axect/overleap"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "JavaScript", "Socket.IO", "WebSocket", "Operational Transform (OT)", "Chokidar (filesystem watcher)", "REST API", "Git"]
+title: Axect/overleap
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Node.js
+- JavaScript
+- Socket.IO
+- WebSocket
+- Operational Transform (OT)
+- Chokidar (filesystem watcher)
+- REST API
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["real-time sync", "LaTeX editing", "Overleaf integration", "filesystem automation", "AI agent workflow"]
-source: "https://github.com/Axect/overleap"
+deployment_complexity: Medium
+tags:
+- real-time sync
+- LaTeX editing
+- Overleaf integration
+- filesystem automation
+- AI agent workflow
+source: https://github.com/Axect/overleap
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-02T13:44:57Z"
-discovered_at: "2026-08-02T13:49:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T13:44:57Z'
+discovered_at: '2026-08-02T13:49:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

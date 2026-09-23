@@ -1,19 +1,30 @@
 ---
-title: "weaviate/weaviate-io"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Docusaurus 2", "Node.js", "Yarn", "MDX", "React", "JavaScript/TypeScript"]
+title: weaviate/weaviate-io
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Docusaurus 2
+- Node.js
+- Yarn
+- MDX
+- React
+- JavaScript/TypeScript
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["documentation", "static site generator", "vector database", "developer resources", "open source"]
-source: "https://github.com/weaviate/weaviate-io"
+deployment_complexity: Medium
+tags:
+- documentation
+- static site generator
+- vector database
+- developer resources
+- open source
+source: https://github.com/weaviate/weaviate-io
 stars: 89
-language: "MDX"
-last_updated: "2026-08-07T12:44:17Z"
-discovered_at: "2026-08-07T13:03:44Z"
-evaluated_by: "mistral-small-latest"
+language: MDX
+last_updated: '2026-08-07T12:44:17Z'
+discovered_at: '2026-08-07T13:03:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

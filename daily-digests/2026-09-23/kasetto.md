@@ -1,19 +1,31 @@
 ---
-title: "pivoshenko/kasetto"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "YAML", "Git", "CLI", "GitHub Actions", "Homebrew", "Scoop"]
+title: pivoshenko/kasetto
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- YAML
+- Git
+- CLI
+- GitHub Actions
+- Homebrew
+- Scoop
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent management", "declarative configuration", "skills synchronization", "multi-agent support", "version control"]
-source: "https://github.com/pivoshenko/kasetto"
+deployment_complexity: Medium
+tags:
+- AI agent management
+- declarative configuration
+- skills synchronization
+- multi-agent support
+- version control
+source: https://github.com/pivoshenko/kasetto
 stars: 116
-language: "Rust"
-last_updated: "2026-08-01T13:05:16Z"
-discovered_at: "2026-08-01T13:16:39Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T13:05:16Z'
+discovered_at: '2026-08-01T13:16:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

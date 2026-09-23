@@ -1,19 +1,33 @@
 ---
-title: "viniciusbuscacio/go-calc"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Wails", "TypeScript", "Vue 3", "Vite", "CSS", "REST API", "math/big (exact arithmetic)", "GitHub Actions"]
+title: viniciusbuscacio/go-calc
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- Wails
+- TypeScript
+- Vue 3
+- Vite
+- CSS
+- REST API
+- math/big (exact arithmetic)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["desktop application", "agent-operable", "cross-platform", "calculator", "REST control plane"]
-source: "https://github.com/viniciusbuscacio/go-calc"
+deployment_complexity: Medium
+tags:
+- desktop application
+- agent-operable
+- cross-platform
+- calculator
+- REST control plane
+source: https://github.com/viniciusbuscacio/go-calc
 stars: 0
-language: "Go"
-last_updated: "2026-07-17T12:07:54Z"
-discovered_at: "2026-07-17T12:08:42Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-17T12:07:54Z'
+discovered_at: '2026-07-17T12:08:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

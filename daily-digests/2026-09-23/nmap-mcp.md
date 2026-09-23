@@ -1,19 +1,29 @@
 ---
-title: "ly1595/nmap-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Nmap", "Docker", "AI/ML (for vulnerability detection)", "Desktop UI (Electron or similar)"]
+title: ly1595/nmap-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Nmap
+- Docker
+- AI/ML (for vulnerability detection)
+- Desktop UI (Electron or similar)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["network scanning", "security automation", "AI-enhanced tools", "Nmap integration", "vulnerability detection"]
-source: "https://github.com/ly1595/nmap-mcp"
+deployment_complexity: Medium
+tags:
+- network scanning
+- security automation
+- AI-enhanced tools
+- Nmap integration
+- vulnerability detection
+source: https://github.com/ly1595/nmap-mcp
 stars: 3
-language: "Python"
-last_updated: "2026-07-17T02:49:47Z"
-discovered_at: "2026-07-17T02:52:08Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T02:49:47Z'
+discovered_at: '2026-07-17T02:52:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

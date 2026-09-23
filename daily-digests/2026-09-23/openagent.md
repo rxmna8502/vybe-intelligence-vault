@@ -1,19 +1,34 @@
 ---
-title: "BANG404/openagent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri", "SvelteKit", "Rust", "TypeScript", "Tailwind CSS", "Bun", "SQLite", "FastEmbed", "Langfuse", "MCP"]
+title: BANG404/openagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Tauri
+- SvelteKit
+- Rust
+- TypeScript
+- Tailwind CSS
+- Bun
+- SQLite
+- FastEmbed
+- Langfuse
+- MCP
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agents", "multi-agent systems", "desktop client", "long-term memory", "MCP integration"]
-source: "https://github.com/BANG404/openagent"
+deployment_complexity: Medium
+tags:
+- AI agents
+- multi-agent systems
+- desktop client
+- long-term memory
+- MCP integration
+source: https://github.com/BANG404/openagent
 stars: 4
-language: "Rust"
-last_updated: "2026-07-12T13:28:29Z"
-discovered_at: "2026-07-12T13:36:05Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-12T13:28:29Z'
+discovered_at: '2026-07-12T13:36:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

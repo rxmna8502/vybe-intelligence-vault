@@ -1,19 +1,34 @@
 ---
-title: "sharfuddin18/Codemaster-Ai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Ollama", "Pydantic", "HuggingFace Transformers", "Sentence-Transformers", "BM25", "TUI (Textual)", "Docker", "pytest"]
+title: sharfuddin18/Codemaster-Ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastAPI
+- Ollama
+- Pydantic
+- HuggingFace Transformers
+- Sentence-Transformers
+- BM25
+- TUI (Textual)
+- Docker
+- pytest
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["local LLM", "code generation", "privacy-first", "terminal assistant", "hybrid retrieval"]
-source: "https://github.com/sharfuddin18/Codemaster-Ai"
+deployment_complexity: Medium
+tags:
+- local LLM
+- code generation
+- privacy-first
+- terminal assistant
+- hybrid retrieval
+source: https://github.com/sharfuddin18/Codemaster-Ai
 stars: 2
-language: "Python"
-last_updated: "2026-08-08T18:38:32Z"
-discovered_at: "2026-08-08T18:39:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T18:38:32Z'
+discovered_at: '2026-08-08T18:39:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

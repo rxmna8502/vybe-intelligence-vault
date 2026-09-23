@@ -9,21 +9,21 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 ## Top Matched Resources
 
 - [KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887) (framework - USEFUL Tier)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
-- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (prompt - USEFUL Tier)
-- [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (tutorial - USEFUL Tier)
-- [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) (framework - USEFUL Tier)
-- [A Lean and Spec-Driven AI-Assisted Software Development Lifecycle for Applied AI Education: The AI-SDLC Approach](https://arxiv.org/abs/2609.24348) (framework - USEFUL Tier)
-- [Use the Gemini Code Assist agent mode | Gemini for Google Cloud | Google Cloud Documentation](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer#before-you-begin) (mcp-server - USEFUL Tier)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
+- [Seven Sources of Physical AI Capability Formation](https://arxiv.org/abs/2609.09627) (framework - USEFUL Tier)
+- [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (framework - USEFUL Tier)
+- [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (framework - USEFUL Tier)
+- [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/cursor-rules (Cursor Rules Community)
 https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
-- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli)
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-09-23 10:45 IST*
+*Last updated: 2026-09-23 19:31 IST*

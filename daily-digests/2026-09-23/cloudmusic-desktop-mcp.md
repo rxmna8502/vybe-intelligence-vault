@@ -1,19 +1,29 @@
 ---
-title: "Seraph310/cloudmusic-desktop-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "NetEase Cloud Music API", "Chromium DevTools Protocol (CDP)", "Windows Desktop Client"]
+title: Seraph310/cloudmusic-desktop-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- NetEase Cloud Music API
+- Chromium DevTools Protocol (CDP)
+- Windows Desktop Client
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "music control", "NetEase Cloud Music", "Windows automation", "AI integration"]
-source: "https://github.com/Seraph310/cloudmusic-desktop-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- music control
+- NetEase Cloud Music
+- Windows automation
+- AI integration
+source: https://github.com/Seraph310/cloudmusic-desktop-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-07-19T14:48:29Z"
-discovered_at: "2026-07-19T14:54:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T14:48:29Z'
+discovered_at: '2026-07-19T14:54:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

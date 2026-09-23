@@ -1,19 +1,32 @@
 ---
-title: "kavin0x/everyharness"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "CLI/TUI", "Textual (TUI framework)", "PyPI", "Hugging Face", "Ollama", "FastAPI (implied for HTTP serving)", "Plugin SDK"]
+title: kavin0x/everyharness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- CLI/TUI
+- Textual (TUI framework)
+- PyPI
+- Hugging Face
+- Ollama
+- FastAPI (implied for HTTP serving)
+- Plugin SDK
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["model harnessing", "offline-first", "plugin system", "CLI automation", "AI tooling"]
-source: "https://github.com/kavin0x/everyharness"
+deployment_complexity: Low
+tags:
+- model harnessing
+- offline-first
+- plugin system
+- CLI automation
+- AI tooling
+source: https://github.com/kavin0x/everyharness
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T20:24:38Z"
-discovered_at: "2026-08-08T20:31:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T20:24:38Z'
+discovered_at: '2026-08-08T20:31:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

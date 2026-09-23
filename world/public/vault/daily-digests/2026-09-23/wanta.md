@@ -1,19 +1,32 @@
 ---
-title: "oomol-lab/wanta"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "OpenCode", "Node.js", "React", "OpenConnector", "SSE (Server-Sent Events)", "HTTP APIs"]
+title: oomol-lab/wanta
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Electron
+- OpenCode
+- Node.js
+- React
+- OpenConnector
+- SSE (Server-Sent Events)
+- HTTP APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["desktop agents", "AI runtime", "OpenCode integration", "local tools", "cross-platform"]
-source: "https://github.com/oomol-lab/wanta"
+deployment_complexity: Medium
+tags:
+- desktop agents
+- AI runtime
+- OpenCode integration
+- local tools
+- cross-platform
+source: https://github.com/oomol-lab/wanta
 stars: 25
-language: "TypeScript"
-last_updated: "2026-08-01T03:39:10Z"
-discovered_at: "2026-08-01T03:43:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:39:10Z'
+discovered_at: '2026-08-01T03:43:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

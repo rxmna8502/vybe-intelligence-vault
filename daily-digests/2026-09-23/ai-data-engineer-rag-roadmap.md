@@ -1,19 +1,33 @@
 ---
-title: "Rangineni-png/ai-data-engineer-rag-roadmap"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "ChromaDB", "Sentence Transformers", "Ollama", "FastAPI", "Uvicorn", "pandas", "pydantic", "requests"]
+title: Rangineni-png/ai-data-engineer-rag-roadmap
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- ChromaDB
+- Sentence Transformers
+- Ollama
+- FastAPI
+- Uvicorn
+- pandas
+- pydantic
+- requests
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG pipeline", "document processing", "vector database", "local LLM", "FastAPI"]
-source: "https://github.com/Rangineni-png/ai-data-engineer-rag-roadmap"
+deployment_complexity: Medium
+tags:
+- RAG pipeline
+- document processing
+- vector database
+- local LLM
+- FastAPI
+source: https://github.com/Rangineni-png/ai-data-engineer-rag-roadmap
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T19:37:13Z"
-discovered_at: "2026-08-10T20:02:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T19:37:13Z'
+discovered_at: '2026-08-10T20:02:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

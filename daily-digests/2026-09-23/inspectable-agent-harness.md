@@ -1,19 +1,33 @@
 ---
-title: "Liang-HZ/inspectable-agent-harness"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Next.js", "React", "Node.js", "OpenAI API", "Anthropic API", "OTLP (OpenTelemetry)", "Jest (for testing)", "Tailwind CSS"]
+title: Liang-HZ/inspectable-agent-harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- Node.js
+- OpenAI API
+- Anthropic API
+- OTLP (OpenTelemetry)
+- Jest (for testing)
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent runtime", "tutorial-driven", "deterministic testing", "sandboxing", "provider-neutral"]
-source: "https://github.com/Liang-HZ/inspectable-agent-harness"
+deployment_complexity: Medium
+tags:
+- agent runtime
+- tutorial-driven
+- deterministic testing
+- sandboxing
+- provider-neutral
+source: https://github.com/Liang-HZ/inspectable-agent-harness
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-03T06:20:07Z"
-discovered_at: "2026-08-03T06:23:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T06:20:07Z'
+discovered_at: '2026-08-03T06:23:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

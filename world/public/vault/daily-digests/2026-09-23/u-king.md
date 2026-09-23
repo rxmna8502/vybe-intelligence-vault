@@ -1,19 +1,32 @@
 ---
-title: "dongsheng123132/u-king"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Tauri", "React 19", "TypeScript", "Rust", "Node.js", "pnpm", "PTY (Pseudo Terminal)", "JSON (for tool configuration)"]
+title: dongsheng123132/u-king
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Tauri
+- React 19
+- TypeScript
+- Rust
+- Node.js
+- pnpm
+- PTY (Pseudo Terminal)
+- JSON (for tool configuration)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI setup", "workspace manager", "environment automation", "cross-platform", "developer tools"]
-source: "https://github.com/dongsheng123132/u-king"
+deployment_complexity: Medium
+tags:
+- AI setup
+- workspace manager
+- environment automation
+- cross-platform
+- developer tools
+source: https://github.com/dongsheng123132/u-king
 stars: 1
-language: "HTML"
-last_updated: "2026-09-01T14:51:32Z"
-discovered_at: "2026-09-01T15:54:37Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T14:51:32Z'
+discovered_at: '2026-09-01T15:54:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

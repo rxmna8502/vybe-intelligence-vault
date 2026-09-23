@@ -1,19 +1,30 @@
 ---
-title: "evkir/mas-sentry-toolkit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "A2A (Agent-to-Agent) SDK", "MQTT", "Docker", "OWASP Top 10 for Agentic Applications"]
+title: evkir/mas-sentry-toolkit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- A2A (Agent-to-Agent) SDK
+- MQTT
+- Docker
+- OWASP Top 10 for Agentic Applications
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent security", "protocol auditing", "vulnerability scanner", "OWASP compliance", "agentic systems"]
-source: "https://github.com/evkir/mas-sentry-toolkit"
+deployment_complexity: Medium
+tags:
+- multi-agent security
+- protocol auditing
+- vulnerability scanner
+- OWASP compliance
+- agentic systems
+source: https://github.com/evkir/mas-sentry-toolkit
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T19:22:27Z"
-discovered_at: "2026-08-04T19:32:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T19:22:27Z'
+discovered_at: '2026-08-04T19:32:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

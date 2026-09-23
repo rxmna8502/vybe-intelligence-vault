@@ -1,19 +1,39 @@
 ---
-title: "mirkobozzetto/flowflow"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Rust", "Dioxus", "SQLite", "LanceDB", "Whisper", "Soniox", "OpenAI API", "Exa API", "Tokio", "Tailwind CSS", "Noise Protocol", "cpal", "hound", "quick-xml", "zip"]
+title: mirkobozzetto/flowflow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Dioxus
+- SQLite
+- LanceDB
+- Whisper
+- Soniox
+- OpenAI API
+- Exa API
+- Tokio
+- Tailwind CSS
+- Noise Protocol
+- cpal
+- hound
+- quick-xml
+- zip
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["voice notes", "RAG", "local-first", "multi-device sync", "offline transcription"]
-source: "https://github.com/mirkobozzetto/flowflow"
+deployment_complexity: Medium
+tags:
+- voice notes
+- RAG
+- local-first
+- multi-device sync
+- offline transcription
+source: https://github.com/mirkobozzetto/flowflow
 stars: 161
-language: "Rust"
-last_updated: "2026-08-07T23:16:34Z"
-discovered_at: "2026-08-07T23:36:28Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T23:16:34Z'
+discovered_at: '2026-08-07T23:36:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

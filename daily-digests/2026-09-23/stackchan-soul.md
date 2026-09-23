@@ -1,19 +1,31 @@
 ---
-title: "CrypticDriver/stackchan-soul"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "pi-mono (agent runtime)", "AWS Bedrock / Anthropic / OpenAI (LLM providers)", "Python (body adapter reference)", "HTTP (body communication)", "JSONL (persistence)"]
+title: CrypticDriver/stackchan-soul
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- pi-mono (agent runtime)
+- AWS Bedrock / Anthropic / OpenAI (LLM providers)
+- Python (body adapter reference)
+- HTTP (body communication)
+- JSONL (persistence)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "embodied AI", "persistent consciousness", "agent runtime", "embodied devices"]
-source: "https://github.com/CrypticDriver/stackchan-soul"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- embodied AI
+- persistent consciousness
+- agent runtime
+- embodied devices
+source: https://github.com/CrypticDriver/stackchan-soul
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-20T02:35:33Z"
-discovered_at: "2026-07-20T02:44:53Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T02:35:33Z'
+discovered_at: '2026-07-20T02:44:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

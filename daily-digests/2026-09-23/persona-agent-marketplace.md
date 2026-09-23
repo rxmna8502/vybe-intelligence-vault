@@ -1,19 +1,28 @@
 ---
-title: "Code-MonkeyZhang/persona-agent-marketplace"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JSON", "Python", "Git", "Markdown"]
+title: Code-MonkeyZhang/persona-agent-marketplace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- JSON
+- Python
+- Git
+- Markdown
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["marketplace", "skills", "agent-components", "modular-ai", "ecosystem"]
-source: "https://github.com/Code-MonkeyZhang/persona-agent-marketplace"
+deployment_complexity: Low
+tags:
+- marketplace
+- skills
+- agent-components
+- modular-ai
+- ecosystem
+source: https://github.com/Code-MonkeyZhang/persona-agent-marketplace
 stars: 2
-language: "Python"
-last_updated: "2026-07-20T02:31:25Z"
-discovered_at: "2026-07-20T02:45:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T02:31:25Z'
+discovered_at: '2026-07-20T02:45:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

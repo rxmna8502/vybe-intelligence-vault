@@ -1,19 +1,35 @@
 ---
-title: "cubicecho/min-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Express 5", "GraphQL (graphql-yoga)", "Drizzle ORM", "PostgreSQL", "React Native (Expo)", "NativeWind", "Electron", "Vitest", "Biome", "MCP (Model Context Protocol)"]
+title: cubicecho/min-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Express 5
+- GraphQL (graphql-yoga)
+- Drizzle ORM
+- PostgreSQL
+- React Native (Expo)
+- NativeWind
+- Electron
+- Vitest
+- Biome
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted", "MCP tools", "GraphQL API", "PostgreSQL", "multi-platform"]
-source: "https://github.com/cubicecho/min-agent"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- MCP tools
+- GraphQL API
+- PostgreSQL
+- multi-platform
+source: https://github.com/cubicecho/min-agent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T15:45:33Z"
-discovered_at: "2026-09-01T15:53:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T15:45:33Z'
+discovered_at: '2026-09-01T15:53:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

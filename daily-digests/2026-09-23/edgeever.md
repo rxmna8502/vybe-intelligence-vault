@@ -1,19 +1,34 @@
 ---
-title: "tianma-if/edgeever"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Cloudflare Workers/Pages", "Docker", "SQLite", "Model Context Protocol (MCP)", "REST API", "WebAssembly", "Mermaid.js", "React", "Tailwind CSS"]
+title: tianma-if/edgeever
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Cloudflare Workers/Pages
+- Docker
+- SQLite
+- Model Context Protocol (MCP)
+- REST API
+- WebAssembly
+- Mermaid.js
+- React
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["note-taking", "self-hosted", "AI integration", "knowledge management", "productivity"]
-source: "https://github.com/tianma-if/edgeever"
+deployment_complexity: Medium
+tags:
+- note-taking
+- self-hosted
+- AI integration
+- knowledge management
+- productivity
+source: https://github.com/tianma-if/edgeever
 stars: 1361
-language: "HTML"
-last_updated: "2026-09-04T02:10:25Z"
-discovered_at: "2026-09-04T02:11:34Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-04T02:10:25Z'
+discovered_at: '2026-09-04T02:11:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "bog5d/cangjie-fos"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "LangGraph", "React", "TypeScript", "SQLite", "Python 3.12", "Vite", "Tailwind CSS", "DashScope ASR", "\u7845\u57fa\u6d41\u52a8 LLM"]
+title: bog5d/cangjie-fos
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- FastAPI
+- LangGraph
+- React
+- TypeScript
+- SQLite
+- Python 3.12
+- Vite
+- Tailwind CSS
+- DashScope ASR
+- 硅基流动 LLM
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["\u878d\u8d44\u4f5c\u6218\u7cfb\u7edf", "\u8def\u6f14\u590d\u76d8", "AI \u8bc4\u4f30\u5f15\u64ce", "\u673a\u6784\u6f0f\u6597\u7ba1\u7406", "\u591a Agent \u67b6\u6784"]
-source: "https://github.com/bog5d/cangjie-fos"
+deployment_complexity: Medium
+tags:
+- 融资作战系统
+- 路演复盘
+- AI 评估引擎
+- 机构漏斗管理
+- 多 Agent 架构
+source: https://github.com/bog5d/cangjie-fos
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T11:11:37Z"
-discovered_at: "2026-08-05T11:22:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T11:11:37Z'
+discovered_at: '2026-08-05T11:22:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

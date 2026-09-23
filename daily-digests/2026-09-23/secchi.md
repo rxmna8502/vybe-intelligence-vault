@@ -1,19 +1,30 @@
 ---
-title: "kannandreams/secchi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Textual (TUI framework)", "Pydantic", "OSV.dev (for security advisories)", "TOML (for configuration)", "GitHub Actions (CI/CD)"]
+title: kannandreams/secchi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Textual (TUI framework)
+- Pydantic
+- OSV.dev (for security advisories)
+- TOML (for configuration)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["package intelligence", "dependency management", "TUI dashboard", "multi-registry support", "MCP server"]
-source: "https://github.com/kannandreams/secchi"
+deployment_complexity: Low
+tags:
+- package intelligence
+- dependency management
+- TUI dashboard
+- multi-registry support
+- MCP server
+source: https://github.com/kannandreams/secchi
 stars: 10
-language: "Python"
-last_updated: "2026-08-07T20:36:00Z"
-discovered_at: "2026-08-07T20:43:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T20:36:00Z'
+discovered_at: '2026-08-07T20:43:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

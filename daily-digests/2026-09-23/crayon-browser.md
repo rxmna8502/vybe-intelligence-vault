@@ -1,19 +1,32 @@
 ---
-title: "shenyingjun5/crayon-browser"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Rust", "Chromium Embedded Framework (CEF)", "C++", "Windows API", "macOS API", "Cast-SDK", "CMake", "Visual Studio"]
+title: shenyingjun5/crayon-browser
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Chromium Embedded Framework (CEF)
+- C++
+- Windows API
+- macOS API
+- Cast-SDK
+- CMake
+- Visual Studio
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "High"
-tags: ["AI Agent Browser", "LAN Casting", "Chromium/CEF", "Desktop Application", "Media Streaming"]
-source: "https://github.com/shenyingjun5/crayon-browser"
+deployment_complexity: High
+tags:
+- AI Agent Browser
+- LAN Casting
+- Chromium/CEF
+- Desktop Application
+- Media Streaming
+source: https://github.com/shenyingjun5/crayon-browser
 stars: 0
-language: "Rust"
-last_updated: "2026-09-01T09:03:09Z"
-discovered_at: "2026-09-01T09:10:08Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-01T09:03:09Z'
+discovered_at: '2026-09-01T09:10:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

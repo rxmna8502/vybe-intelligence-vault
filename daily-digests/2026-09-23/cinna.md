@@ -1,19 +1,32 @@
 ---
-title: "akane9506/cinna"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Eino", "PostgreSQL", "Telegram Bot API", "DeepSeek API", "Docker", "sqlc", "AES-256 Encryption"]
+title: akane9506/cinna
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- Eino
+- PostgreSQL
+- Telegram Bot API
+- DeepSeek API
+- Docker
+- sqlc
+- AES-256 Encryption
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Telegram bot", "ReAct agent", "task automation", "database-backed memory", "sub-agent orchestration"]
-source: "https://github.com/akane9506/cinna"
+deployment_complexity: Medium
+tags:
+- Telegram bot
+- ReAct agent
+- task automation
+- database-backed memory
+- sub-agent orchestration
+source: https://github.com/akane9506/cinna
 stars: 0
-language: "Go"
-last_updated: "2026-07-20T07:46:17Z"
-discovered_at: "2026-07-21T07:32:02Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-20T07:46:17Z'
+discovered_at: '2026-07-21T07:32:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,37 @@
 ---
-title: "brunogcar/agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LangGraph", "ChromaDB", "LM Studio", "SearXNG", "FastAPI", "Playwright", "Node.js", "SQLite", "Pandas", "BeautifulSoup", "Mermaid.js"]
+title: brunogcar/agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- LangGraph
+- ChromaDB
+- LM Studio
+- SearXNG
+- FastAPI
+- Playwright
+- Node.js
+- SQLite
+- Pandas
+- BeautifulSoup
+- Mermaid.js
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "multi-llm orchestration", "self-improving memory", "local-first AI", "workflow automation"]
-source: "https://github.com/brunogcar/agent"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- multi-llm orchestration
+- self-improving memory
+- local-first AI
+- workflow automation
+source: https://github.com/brunogcar/agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-19T02:26:27Z"
-discovered_at: "2026-07-19T02:30:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T02:26:27Z'
+discovered_at: '2026-07-19T02:30:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

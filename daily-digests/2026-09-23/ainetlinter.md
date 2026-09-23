@@ -1,19 +1,29 @@
 ---
-title: "RalfHuesing/AiNetLinter"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "Roslyn", "MCP (Model Context Protocol)", "CLI"]
+title: RalfHuesing/AiNetLinter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- C#
+- .NET 10
+- Roslyn
+- MCP (Model Context Protocol)
+- CLI
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["C# static analysis", "MCP server", "dependency graph", "code context provider", "Roslyn linter"]
-source: "https://github.com/RalfHuesing/AiNetLinter"
+deployment_complexity: Medium
+tags:
+- C# static analysis
+- MCP server
+- dependency graph
+- code context provider
+- Roslyn linter
+source: https://github.com/RalfHuesing/AiNetLinter
 stars: 1
-language: "C#"
-last_updated: "2026-09-02T22:06:37Z"
-discovered_at: "2026-09-02T22:22:47Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-09-02T22:06:37Z'
+discovered_at: '2026-09-02T22:22:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

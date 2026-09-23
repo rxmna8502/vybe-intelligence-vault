@@ -1,19 +1,31 @@
 ---
-title: "wbind-core/termpipe-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "MCP (Model Context Protocol)", "FastAPI", "Symlinks", "Pipx", "Editable Installs"]
+title: wbind-core/termpipe-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastMCP
+- MCP (Model Context Protocol)
+- FastAPI
+- Symlinks
+- Pipx
+- Editable Installs
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP Server", "File Editing", "AI Debugging", "Shell Execution", "Dynamic Tools"]
-source: "https://github.com/wbind-core/termpipe-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- File Editing
+- AI Debugging
+- Shell Execution
+- Dynamic Tools
+source: https://github.com/wbind-core/termpipe-mcp
 stars: 0
-language: "C#"
-last_updated: "2026-08-01T13:04:40Z"
-discovered_at: "2026-08-01T13:17:01Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-01T13:04:40Z'
+discovered_at: '2026-08-01T13:17:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

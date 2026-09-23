@@ -1,19 +1,30 @@
 ---
-title: "lcmen/hn-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Ruby", "Sinatra", "Rack", "fast-mcp", "Firebase API", "JSON-RPC 2.0"]
+title: lcmen/hn-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Ruby
+- Sinatra
+- Rack
+- fast-mcp
+- Firebase API
+- JSON-RPC 2.0
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Hacker News", "AI Data Integration", "Ruby Tooling", "Model Context Protocol"]
-source: "https://github.com/lcmen/hn-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Hacker News
+- AI Data Integration
+- Ruby Tooling
+- Model Context Protocol
+source: https://github.com/lcmen/hn-mcp
 stars: 0
-language: "Ruby"
-last_updated: "2026-08-01T08:55:05Z"
-discovered_at: "2026-08-01T09:06:38Z"
-evaluated_by: "mistral-small-latest"
+language: Ruby
+last_updated: '2026-08-01T08:55:05Z'
+discovered_at: '2026-08-01T09:06:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "snnh/openwebcode"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Node.js", "C", "Python", "WebSocket", "HTTP", "JSON-RPC", "Bubblewrap", "Landlock", "ZFS", "Btrfs", "VHDX", "qcow2"]
+title: snnh/openwebcode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- React
+- Node.js
+- C
+- Python
+- WebSocket
+- HTTP
+- JSON-RPC
+- Bubblewrap
+- Landlock
+- ZFS
+- Btrfs
+- VHDX
+- qcow2
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding", "agent framework", "sandboxing", "multi-model", "browser-based"]
-source: "https://github.com/snnh/openwebcode"
+deployment_complexity: Medium
+tags:
+- AI coding
+- agent framework
+- sandboxing
+- multi-model
+- browser-based
+source: https://github.com/snnh/openwebcode
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-06T09:35:15Z"
-discovered_at: "2026-08-06T09:42:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T09:35:15Z'
+discovered_at: '2026-08-06T09:42:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

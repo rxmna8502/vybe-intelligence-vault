@@ -1,19 +1,28 @@
 ---
-title: "michellema8890/pdf-to-editable-word-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows Desktop Application", "PDF Processing Libraries", "Microsoft Word Compatibility"]
+title: michellema8890/pdf-to-editable-word-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Windows Desktop Application
+- PDF Processing Libraries
+- Microsoft Word Compatibility
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["PDF conversion", "local processing", "document editing", "AI agent tool", "offline operation"]
-source: "https://github.com/michellema8890/pdf-to-editable-word-skill"
+deployment_complexity: Low
+tags:
+- PDF conversion
+- local processing
+- document editing
+- AI agent tool
+- offline operation
+source: https://github.com/michellema8890/pdf-to-editable-word-skill
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T00:00:27Z"
-discovered_at: "2026-08-07T00:01:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T00:00:27Z'
+discovered_at: '2026-08-07T00:01:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

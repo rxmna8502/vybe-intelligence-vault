@@ -1,19 +1,27 @@
 ---
-title: "ignotumdev/compass"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "AI Agent Framework"]
+title: ignotumdev/compass
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- AI Agent Framework
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agents", "task automation", "minimal framework", "TypeScript", "workflow"]
-source: "https://github.com/ignotumdev/compass"
+deployment_complexity: Low
+tags:
+- AI agents
+- task automation
+- minimal framework
+- TypeScript
+- workflow
+source: https://github.com/ignotumdev/compass
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-18T20:32:46Z"
-discovered_at: "2026-07-18T20:44:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T20:32:46Z'
+discovered_at: '2026-07-18T20:44:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

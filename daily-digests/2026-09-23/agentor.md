@@ -1,19 +1,31 @@
 ---
-title: "CelestoAI/agentor"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "LiteLLM", "Celesto Platform", "TypeScript", "JavaScript"]
+title: CelestoAI/agentor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- LiteLLM
+- Celesto Platform
+- TypeScript
+- JavaScript
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "multi-agent systems", "MCP servers", "serverless deployment", "observability"]
-source: "https://github.com/CelestoAI/agentor"
+deployment_complexity: Medium
+tags:
+- AI agents
+- multi-agent systems
+- MCP servers
+- serverless deployment
+- observability
+source: https://github.com/CelestoAI/agentor
 stars: 189
-language: "Python"
-last_updated: "2026-07-10T13:03:45Z"
-discovered_at: "2026-07-10T13:12:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T13:03:45Z'
+discovered_at: '2026-07-10T13:12:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

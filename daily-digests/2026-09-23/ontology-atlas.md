@@ -1,19 +1,33 @@
 ---
-title: "wlsdks/ontology-atlas"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "React", "Markdown", "MCP (Model Context Protocol)", "CLI", "Graph Compilation", "JSON-LD", "GraphML"]
+title: wlsdks/ontology-atlas
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Electron
+- React
+- Markdown
+- MCP (Model Context Protocol)
+- CLI
+- Graph Compilation
+- JSON-LD
+- GraphML
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["codebase ontology", "MCP server", "local-first", "code review", "AI agent collaboration"]
-source: "https://github.com/wlsdks/ontology-atlas"
+deployment_complexity: Medium
+tags:
+- codebase ontology
+- MCP server
+- local-first
+- code review
+- AI agent collaboration
+source: https://github.com/wlsdks/ontology-atlas
 stars: 93
-language: "TypeScript"
-last_updated: "2026-09-02T15:45:25Z"
-discovered_at: "2026-09-02T15:53:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T15:45:25Z'
+discovered_at: '2026-09-02T15:53:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "laraclaw/laraclaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["PHP", "Laravel", "Laravel AI", "Telegram Bot API", "Slack API", "IMAP/SMTP", "Redis", "OAuth", "Markdown"]
+title: laraclaw/laraclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- PHP
+- Laravel
+- Laravel AI
+- Telegram Bot API
+- Slack API
+- IMAP/SMTP
+- Redis
+- OAuth
+- Markdown
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI chatbot", "multi-channel", "Laravel integration", "agent framework", "tool orchestration"]
-source: "https://github.com/laraclaw/laraclaw"
+deployment_complexity: Medium
+tags:
+- AI chatbot
+- multi-channel
+- Laravel integration
+- agent framework
+- tool orchestration
+source: https://github.com/laraclaw/laraclaw
 stars: 4
-language: "PHP"
-last_updated: "2026-09-01T18:52:05Z"
-discovered_at: "2026-09-01T19:07:05Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-09-01T18:52:05Z'
+discovered_at: '2026-09-01T19:07:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

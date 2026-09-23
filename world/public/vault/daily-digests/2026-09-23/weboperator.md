@@ -1,19 +1,39 @@
 ---
-title: "KazKozDev/WebOperator"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Chrome Extension (MV3)", "Node.js", "Vite", "React", "MCP (Model Context Protocol)", "Ollama", "Anthropic", "OpenAI", "Gemini", "DeepSeek", "MLX", "OpenRouter", "SiliconFlow", "xAI"]
+title: KazKozDev/WebOperator
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Chrome Extension (MV3)
+- Node.js
+- Vite
+- React
+- MCP (Model Context Protocol)
+- Ollama
+- Anthropic
+- OpenAI
+- Gemini
+- DeepSeek
+- MLX
+- OpenRouter
+- SiliconFlow
+- xAI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["browser automation", "MCP server", "AI agent", "Chrome extension", "task scheduling"]
-source: "https://github.com/KazKozDev/WebOperator"
+deployment_complexity: Medium
+tags:
+- browser automation
+- MCP server
+- AI agent
+- Chrome extension
+- task scheduling
+source: https://github.com/KazKozDev/WebOperator
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-01T18:57:46Z"
-discovered_at: "2026-09-01T19:06:58Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T18:57:46Z'
+discovered_at: '2026-09-01T19:06:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

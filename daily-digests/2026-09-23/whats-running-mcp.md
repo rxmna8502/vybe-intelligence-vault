@@ -1,19 +1,29 @@
 ---
-title: "stcmain/whats-running-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "Model Context Protocol (MCP)", "Bash utilities (ps, lsof, launchctl, df)", "npm"]
+title: stcmain/whats-running-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Node.js
+- TypeScript
+- Model Context Protocol (MCP)
+- Bash utilities (ps, lsof, launchctl, df)
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "system monitoring", "agent ground truth", "real-time state", "process management"]
-source: "https://github.com/stcmain/whats-running-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- system monitoring
+- agent ground truth
+- real-time state
+- process management
+source: https://github.com/stcmain/whats-running-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T20:47:13Z"
-discovered_at: "2026-08-01T20:51:09Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T20:47:13Z'
+discovered_at: '2026-08-01T20:51:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
