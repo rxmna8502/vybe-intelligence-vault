@@ -1,19 +1,31 @@
 ---
-title: "timescale/tiger-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "PostgreSQL", "TimescaleDB", "OAuth", "YAML", "JSON"]
+title: timescale/tiger-cli
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- PostgreSQL
+- TimescaleDB
+- OAuth
+- YAML
+- JSON
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["CLI", "MCP Server", "Database Management", "PostgreSQL", "TimescaleDB"]
-source: "https://github.com/timescale/tiger-cli"
+deployment_complexity: Low
+tags:
+- CLI
+- MCP Server
+- Database Management
+- PostgreSQL
+- TimescaleDB
+source: https://github.com/timescale/tiger-cli
 stars: 115
-language: "Go"
-last_updated: "2026-07-16T21:54:50Z"
-discovered_at: "2026-07-16T22:02:51Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-16T21:54:50Z'
+discovered_at: '2026-07-16T22:02:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

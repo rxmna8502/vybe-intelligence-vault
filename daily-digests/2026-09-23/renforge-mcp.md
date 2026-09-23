@@ -1,19 +1,32 @@
 ---
-title: "alex-jordan547/renforge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Ren'Py", "Starlette", "Uvicorn", "Watchfiles", "MCP (Model Context Protocol)", "CLI", "Web Dashboard"]
+title: alex-jordan547/renforge-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Ren'Py
+- Starlette
+- Uvicorn
+- Watchfiles
+- MCP (Model Context Protocol)
+- CLI
+- Web Dashboard
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "Ren'Py integration", "AI agent tooling", "Visual novel development", "Game state management"]
-source: "https://github.com/alex-jordan547/renforge-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Ren'Py integration
+- AI agent tooling
+- Visual novel development
+- Game state management
+source: https://github.com/alex-jordan547/renforge-mcp
 stars: 6
-language: "Python"
-last_updated: "2026-07-19T20:37:33Z"
-discovered_at: "2026-07-19T20:44:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T20:37:33Z'
+discovered_at: '2026-07-19T20:44:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

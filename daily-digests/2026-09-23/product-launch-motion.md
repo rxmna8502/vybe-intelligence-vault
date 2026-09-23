@@ -1,19 +1,29 @@
 ---
-title: "Clairvoyant-fenestration570/product-launch-motion"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "HTML/CSS", "GSAP (GreenSock Animation Platform)", "Node.js", "FFmpeg"]
+title: Clairvoyant-fenestration570/product-launch-motion
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- JavaScript
+- HTML/CSS
+- GSAP (GreenSock Animation Platform)
+- Node.js
+- FFmpeg
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["video-generation", "motion-graphics", "product-launch", "programmatic-video", "html-to-video"]
-source: "https://github.com/Clairvoyant-fenestration570/product-launch-motion"
+deployment_complexity: Medium
+tags:
+- video-generation
+- motion-graphics
+- product-launch
+- programmatic-video
+- html-to-video
+source: https://github.com/Clairvoyant-fenestration570/product-launch-motion
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-06T06:28:28Z"
-discovered_at: "2026-08-06T06:32:15Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T06:28:28Z'
+discovered_at: '2026-08-06T06:32:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

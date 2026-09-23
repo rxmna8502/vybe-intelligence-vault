@@ -1,19 +1,29 @@
 ---
-title: "RalfHuesing/ComputeToAi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Monte-Carlo Simulation", "TOML (for settings)", "uv (Python package manager)"]
+title: RalfHuesing/ComputeToAi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Monte-Carlo Simulation
+- TOML (for settings)
+- uv (Python package manager)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["financial planning", "MCP server", "simulation engine", "retirement planning", "AI agent integration"]
-source: "https://github.com/RalfHuesing/ComputeToAi"
+deployment_complexity: Medium
+tags:
+- financial planning
+- MCP server
+- simulation engine
+- retirement planning
+- AI agent integration
+source: https://github.com/RalfHuesing/ComputeToAi
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T20:38:46Z"
-discovered_at: "2026-07-19T20:44:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T20:38:46Z'
+discovered_at: '2026-07-19T20:44:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

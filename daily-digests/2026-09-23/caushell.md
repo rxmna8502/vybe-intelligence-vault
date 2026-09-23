@@ -1,19 +1,30 @@
 ---
-title: "fatmo666/Caushell"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Shell AST parsing", "Semantic execution graph", "Static analysis", "Git state tracking", "Taint analysis"]
+title: fatmo666/Caushell
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Shell AST parsing
+- Semantic execution graph
+- Static analysis
+- Git state tracking
+- Taint analysis
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["safety analysis", "shell commands", "AI agent integration", "pre-execution blocking", "risk mitigation"]
-source: "https://github.com/fatmo666/Caushell"
+deployment_complexity: Medium
+tags:
+- safety analysis
+- shell commands
+- AI agent integration
+- pre-execution blocking
+- risk mitigation
+source: https://github.com/fatmo666/Caushell
 stars: 0
-language: "Rust"
-last_updated: "2026-08-05T16:42:49Z"
-discovered_at: "2026-08-05T16:44:18Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T16:42:49Z'
+discovered_at: '2026-08-05T16:44:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

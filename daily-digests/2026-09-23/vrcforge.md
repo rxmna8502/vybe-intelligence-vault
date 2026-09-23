@@ -1,19 +1,32 @@
 ---
-title: "ayyitong888/VRCForge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Tauri", "FastAPI", "Python", "Unity", "MCP 2.0", "REST API", "CLI", "GPL-3.0"]
+title: ayyitong888/VRCForge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Tauri
+- FastAPI
+- Python
+- Unity
+- MCP 2.0
+- REST API
+- CLI
+- GPL-3.0
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["VRChat", "Avatar Editing", "Agent Framework", "Unity Integration", "Local AI"]
-source: "https://github.com/ayyitong888/VRCForge"
+deployment_complexity: Medium
+tags:
+- VRChat
+- Avatar Editing
+- Agent Framework
+- Unity Integration
+- Local AI
+source: https://github.com/ayyitong888/VRCForge
 stars: 6
-language: "Python"
-last_updated: "2026-08-09T17:33:15Z"
-discovered_at: "2026-08-09T17:35:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T17:33:15Z'
+discovered_at: '2026-08-09T17:35:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

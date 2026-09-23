@@ -1,19 +1,33 @@
 ---
-title: "pajdarova/FenderStudioProMCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "MIDI", "CoreMIDI", "macOS System Events", "JSON-RPC", "pytest", "ruff", "mypy"]
+title: pajdarova/FenderStudioProMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- MIDI
+- CoreMIDI
+- macOS System Events
+- JSON-RPC
+- pytest
+- ruff
+- mypy
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["DAW control", "MCP server", "MIDI automation", "AI workflow", "audio production"]
-source: "https://github.com/pajdarova/FenderStudioProMCP"
+deployment_complexity: Medium
+tags:
+- DAW control
+- MCP server
+- MIDI automation
+- AI workflow
+- audio production
+source: https://github.com/pajdarova/FenderStudioProMCP
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T08:34:22Z"
-discovered_at: "2026-08-08T08:43:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T08:34:22Z'
+discovered_at: '2026-08-08T08:43:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

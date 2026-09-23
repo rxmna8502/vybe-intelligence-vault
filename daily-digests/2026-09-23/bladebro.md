@@ -1,19 +1,30 @@
 ---
-title: "dondai44423/bladebro"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Chromium DevTools Protocol (CDP)", "Model Context Protocol (MCP)", "Node.js (for npm packaging)", "Semantic HTML parsing", "Structural fingerprinting"]
+title: dondai44423/bladebro
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Chromium DevTools Protocol (CDP)
+- Model Context Protocol (MCP)
+- Node.js (for npm packaging)
+- Semantic HTML parsing
+- Structural fingerprinting
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["browser automation", "agentic tools", "delta-first", "stealth", "MCP server"]
-source: "https://github.com/dondai44423/bladebro"
+deployment_complexity: Medium
+tags:
+- browser automation
+- agentic tools
+- delta-first
+- stealth
+- MCP server
+source: https://github.com/dondai44423/bladebro
 stars: 7
-language: "Rust"
-last_updated: "2026-08-04T07:35:05Z"
-discovered_at: "2026-08-04T07:40:03Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-04T07:35:05Z'
+discovered_at: '2026-08-04T07:40:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

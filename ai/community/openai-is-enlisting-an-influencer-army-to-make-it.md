@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-is-enlisting-an-influencer-army-to-make-it
 first_seen: '2026-09-23T19:14:30.438753+05:30'
 last_seen: '2026-09-23T19:14:30.438753+05:30'
 last_checked: '2026-09-23T19:14:30.438753+05:30'
 health_score: 100
 ---
+
 
 # OpenAI is enlisting an influencer army to make it look 'good for the world'
 

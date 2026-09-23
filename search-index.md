@@ -39528,8 +39528,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <http://docs.pinecone.io/integrations/claude-code>
 
-* **[Claude Code reads AGENTS.md only when telemetry is on](ai/community/claude-code-reads-agents-md-only-when-telemetry-is.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pszypowicz. Score: 168, Comments: 66. Original Link: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
+* **[Claude Code reads AGENTS.md only when telemetry is on [fixed]](ai/community/claude-code-reads-agents-md-only-when-telemetry-is.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by pszypowicz. Score: 404, Comments: 232. Original Link: https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/
   * Tags: `agents`, `anthropic`, `hackernews`
   * Source URL: <https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on>
 
@@ -39547,6 +39547,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13859v1 Announce Type: cross Abstract: Many materials and chemical systems exhibit history-dependent responses, where functional outcomes are governed not only by final-state variables but by the time-dependent sequence of fields, temperat
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.13859>
+
+* **[Cloud Agents Are Inevitable AI Prisons](ai/community/cloud-agents-are-inevitable-ai-prisons.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by nponte. Score: 21, Comments: 7. Original Link: https://normanponte.io/19df691f
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://normanponte.io/19df691f>
 
 * **[Cloud Computing Services | Microsoft Azure](ai/rag/cloud-computing-services-microsoft-azure.md)** (`benchmark` | `useful` tier)
   * Summary: - **Azure AI Integration**: Azure unifies AI, data, business context, apps, and agents into a single intelligent system, enabling enterprise-wide AI-driven workflows and automation. - **Microsoft IQ & Agentic Platforms**: Microsoft IQ provides secure
@@ -40993,6 +40998,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2608.18324>
 
+* **[GPT-6 Astra has gained the ability to drive a car](ai/community/gpt-6-astra-has-gained-the-ability-to-drive-a-car.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by plurby. Score: 225, Comments: 193. Original Link: https://drivingbench.com/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://drivingbench.com>
+
 * **[gradio-app/gradio](ai/resources/gradio-app-gradio.md)** (`framework` | `useful` tier)
   * Summary: - **Python-based ML Interface Framework**: Gradio enables rapid development and deployment of interactive machine learning applications with minimal code, supporting both UI components and model integration. - **Key Features**: Supports data analysis
   * Tags: `github-repo`, `python`, `workflows`
@@ -41208,6 +41218,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.20350>
 
+* **[How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](ai/models/huggingface-blog-nvidia-how-to-use-nvidia-warp-and-mjwarp.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows
+  * Tags: `workflows`
+  * Source URL: <https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp>
+
+* **[How we made claude.ai 3x faster in two weeks](ai/community/how-we-made-claude-ai-3x-faster-in-two-weeks.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by matthieu_bl. Score: 20, Comments: 2. Original Link: https://claude.dev/blog/how-we-made-claude-ai-faster/
+  * Tags: `ai`, `anthropic`, `hackernews`, `reddit`
+  * Source URL: <https://claude.dev/blog/how-we-made-claude-ai-faster>
+
 * **[How we optimized Dash's relevance judge with DSPy - Dropbox](ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)** (`framework` | `useful` tier)
   * Summary: - **DSPy Optimization Framework**: Dropbox used DSPy’s GEPA optimizer to systematically adapt a relevance judge from a high-cost proprietary model (OpenAI’s o3) to a lower-cost open-weight model (gpt-oss-120b), reducing NMSE by 45% (from 8.83 to 4.86
   * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -41253,8 +41273,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
-* **[I Don't Want the Details](ai/community/i-don-t-want-the-details.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mooreds. Score: 32, Comments: 18. Original Link: https://michaelheap.com/i-dont-want-the-details/
+* **[I don't want the details](ai/community/i-don-t-want-the-details.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by mooreds. Score: 265, Comments: 167. Original Link: https://michaelheap.com/i-dont-want-the-details/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://michaelheap.com/i-dont-want-the-details>
 
@@ -42364,14 +42384,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openssf.org/?hsLang=en>
 
 * **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](ai/community/openai-gpt-6-astra-breaks-enigma-message-that-has.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sohkamyung. Score: 696, Comments: 408. Original Link: https://www.cryptocellar.org/bgac/the-mvueh-break.html
+  * Summary: Hacker News story by sohkamyung. Score: 715, Comments: 428. Original Link: https://www.cryptocellar.org/bgac/the-mvueh-break.html
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://cryptocellar.org/bgac/the-mvueh-break.html>
-
-* **[OpenAI is enlisting an influencer army to make it look 'good for the world'](ai/community/openai-is-enlisting-an-influencer-army-to-make-it.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cdrnsf. Score: 66, Comments: 27. Original Link: https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9
-  * Tags: `ai`, `hackernews`, `openai`
-  * Source URL: <https://businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9>
 
 * **[OpenSearchCon North America | LF Events](ai/rag/opensearchcon-north-america-lf-events.md)** (`tutorial` | `useful` tier)
   * Summary: - **Event Details**: OpenSearchCon North America 2026 scheduled for **September 22-24** in **San Jose, CA**, focusing on **search, vector databases, observability, and agentic AI** with sessions on relevance tuning, plugin development, and AI-powered
@@ -42512,11 +42527,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.18256v1 Announce Type: cross Abstract: Optimization modeling is the process of translating real-world decision problems, often described in natural language, into formal mathematical formulations and executable solver code. While recent ad
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.18256>
-
-* **[Pentagon says overreliance on AI contributed to missile strike on Iran school](ai/community/pentagon-palantir-ai-overreliance-led-to-strike-ki.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by devonnull. Score: 746, Comments: 369. Original Link: https://www.bloomberg.com/graphics/2026-iran-school-attack/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://bloomberg.com/graphics/2026-iran-school-attack>
 
 * **[PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md)** (`framework` | `useful` tier)
   * Summary: - **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records stored in GitHub; includes a JSON API (`peps.json`) for metadata access. - **Categorization Framework**: PEPs are classified by stat
@@ -43333,11 +43343,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
-* **[Show HN: RxFilm Studio–Create and edit your product videos with AI agent](ai/community/show-hn-rxfilm-studio-create-and-edit-your-product.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zilue. Score: 13, Comments: 6. Original Link: https://filmstudio.rxlab.app
-  * Tags: `agents`, `ai`, `hackernews`, `youtube`
-  * Source URL: <https://filmstudio.rxlab.app>
-
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
   * Tags: `github-repo`, `javascript`, `scripts`, `workflows`
@@ -43566,6 +43571,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Hybrid RAG Pipeline**: Demonstrates a retrieval-augmented generation (RAG) system combining vector search with hybrid retrieval (likely BM25 + dense embeddings) using LangChain for document processing and query execution. - **Streamlit UI Integra
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/streamlit/example-app-langchain-rag>
+
+* **[Stripe's Knowledge AI Platform](ai/community/stripe-s-knowledge-ai-platform.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ltononro. Score: 139, Comments: 93. Original Link: https://stripe.dev/blog/meet-stripes-knowledge-ai-platform
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://stripe.dev/blog/meet-stripes-knowledge-ai-platform>
 
 * **[stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](ai/resources/stripe-stripe-firebase-extensions.md)** (`tutorial` | `useful` tier)
   * Summary: - **Integration Scope**: Enables real-time synchronization of Stripe payments (one-time & subscriptions) with Firebase Authentication for access control, supporting web (Stripe Checkout), Android/iOS (Payment Sheet), and React Native. - **Firestore &
@@ -44656,10 +44666,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.11198v1 Announce Type: cross Abstract: Generative AI and the practice of "vibe coding" are changing how archaeologists carry out computational research, but their effects on the discipline's range of methods is still understudied. In this
   * Tags: `hackernews`, `paper`
   * Source URL: <https://arxiv.org/abs/2609.11198>
-
-* **[**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**](ai/models/huggingface-blog-nvidia-nemotron-diarization.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**
-  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-diarization>
 
 * **[1 Billion Classifications](ai/models/huggingface-blog-billion-classifications.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 1 Billion Classifications
@@ -49653,7 +49659,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 487, Downloads: 22795863)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 489, Downloads: 22795863)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -52561,7 +52567,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.20343>
 
 * **[banned-historical-archives/banned-historical-archives](ai/models/huggingface-datasets-banned-historical-archives.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 91, Downloads: 1712437)
+  * Summary: Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 92, Downloads: 1712437)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/banned-historical-archives>
 
@@ -88617,7 +88623,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.25334>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7685, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7687, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -98174,7 +98180,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1671, Downloads: 26662555)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1672, Downloads: 26662555)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -104286,7 +104292,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6107, Downloads: 251354399)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6111, Downloads: 251354399)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -121756,10 +121762,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/expanding-support-for-scientists>
 
-* **[Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer
+* **[Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/tino-cuellar>
+  * Source URL: <https://anthropic.com/news/model-hardware-standard-research-preview>
+
+* **[Aug 31, 2026AnnouncementsImproving our alignment and security efforts](ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Aug 31, 2026AnnouncementsImproving our alignment and security efforts
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/improving-alignment-security-efforts>
 
 * **[Aug 7, 2026ProductImproving Fable 5's biology safeguards](ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Aug 7, 2026ProductImproving Fable 5's biology safeguards
@@ -121854,7 +121865,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome>
+  * Source URL: <https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory>
 
 * **[Miniconda - Anaconda](ai/resources/miniconda-anaconda.md)** (`tutorial` | `useful` tier)
   * Summary: - Miniconda is a lightweight, open-source distribution of Python and conda, bundling only essential packages (conda, Python, and their dependencies) with optional expansion via `conda install` from Anaconda’s repositories or third-party channels (e.g
@@ -121936,11 +121947,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/robostral-navigate>
 
-* **[Responsible Scaling Policy](ai/companies/anthropic/responsible-scaling-policy.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
-
 * **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (`benchmark` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
   * Tags: `blog-post`, `microsoft-research-blog`
@@ -121960,6 +121966,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation
   * Tags: `anthropic`, `anthropic-news`, `benchmark`, `blog-post`
   * Source URL: <https://anthropic.com/news/accenture-embedded-evaluation>
+
+* **[Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/claude-discovers-novel-enzyme-system>
 
 * **[SIMA 2An agent that plays, reasons, and learns with you](ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: SIMA 2An agent that plays, reasons, and learns with you
@@ -127465,7 +127476,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3595, Downloads: 37229647)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3607, Downloads: 37229647)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -131382,8 +131393,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive full-stack RAG implementation guide, leveraging Python for practical application development. * Integrates leading LLM frameworks (LangChain, Llama-Index) with specific models (DeepSeek, Kimi-K2) for augmented generation. * Explores d
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides a full-stack, practical guide for Retrieval Augmented Generation (RAG)
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -131392,8 +131403,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Beginner-focused tutorial for large language model (LLM) application development. *
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: * Provides a foundational tutorial for large language model (LLM) application development. * Leverages the LangChain framework for practical implementation examples. * Focuses on the architectural patterns and deployment of Retrieval-Augmented Genera
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 

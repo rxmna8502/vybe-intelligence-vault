@@ -1,19 +1,31 @@
 ---
-title: "raro42/mac-stats"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Tauri", "Ollama", "TypeScript", "Swift", "Discord API", "Homebrew"]
+title: raro42/mac-stats
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Tauri
+- Ollama
+- TypeScript
+- Swift
+- Discord API
+- Homebrew
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["system monitoring", "Apple Silicon", "local AI agent", "menu-bar utility", "Ollama integration"]
-source: "https://github.com/raro42/mac-stats"
+deployment_complexity: Medium
+tags:
+- system monitoring
+- Apple Silicon
+- local AI agent
+- menu-bar utility
+- Ollama integration
+source: https://github.com/raro42/mac-stats
 stars: 10
-language: "Rust"
-last_updated: "2026-07-21T17:12:23Z"
-discovered_at: "2026-07-21T17:16:35Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-21T17:12:23Z'
+discovered_at: '2026-07-21T17:16:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

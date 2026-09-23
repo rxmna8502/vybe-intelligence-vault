@@ -1,19 +1,30 @@
 ---
-title: "markl-a/spectyn-secure-connector"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "PHI de-identification", "Compliance scanning (HIPAA)", "Time-series anomaly detection", "CI/CD (GitHub Actions)"]
+title: markl-a/spectyn-secure-connector
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- PHI de-identification
+- Compliance scanning (HIPAA)
+- Time-series anomaly detection
+- CI/CD (GitHub Actions)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["PHI de-identification", "compliance scanning", "MCP bridge", "security guardrails", "synthetic data"]
-source: "https://github.com/markl-a/spectyn-secure-connector"
+deployment_complexity: Medium
+tags:
+- PHI de-identification
+- compliance scanning
+- MCP bridge
+- security guardrails
+- synthetic data
+source: https://github.com/markl-a/spectyn-secure-connector
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T16:28:39Z"
-discovered_at: "2026-08-08T16:35:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:28:39Z'
+discovered_at: '2026-08-08T16:35:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

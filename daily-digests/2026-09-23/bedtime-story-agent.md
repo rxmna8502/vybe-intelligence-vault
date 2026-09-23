@@ -1,19 +1,30 @@
 ---
-title: "Vspandexe/bedtime-story-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude AI Agent", "OpenAI API (for illustrations)", "fpdf2 (PDF generation)", "Pillow (image processing)", "Markdown (chapter storage)"]
+title: Vspandexe/bedtime-story-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Claude AI Agent
+- OpenAI API (for illustrations)
+- fpdf2 (PDF generation)
+- Pillow (image processing)
+- Markdown (chapter storage)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["bedtime stories", "AI storytelling", "narrative memory", "book generation", "interactive fiction"]
-source: "https://github.com/Vspandexe/bedtime-story-agent"
+deployment_complexity: Medium
+tags:
+- bedtime stories
+- AI storytelling
+- narrative memory
+- book generation
+- interactive fiction
+source: https://github.com/Vspandexe/bedtime-story-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T15:31:47Z"
-discovered_at: "2026-08-04T15:34:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T15:31:47Z'
+discovered_at: '2026-08-04T15:34:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

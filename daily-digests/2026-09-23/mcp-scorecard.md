@@ -1,19 +1,31 @@
 ---
-title: "davidmosiah/mcp-scorecard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm", "GitHub Actions", "CLI", "JSON/Markdown output"]
+title: davidmosiah/mcp-scorecard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
+- GitHub Actions
+- CLI
+- JSON/Markdown output
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP auditing", "agent-readiness", "quality assurance", "server evaluation", "automated scoring"]
-source: "https://github.com/davidmosiah/mcp-scorecard"
+deployment_complexity: Low
+tags:
+- MCP auditing
+- agent-readiness
+- quality assurance
+- server evaluation
+- automated scoring
+source: https://github.com/davidmosiah/mcp-scorecard
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T12:45:17Z"
-discovered_at: "2026-08-08T12:47:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T12:45:17Z'
+discovered_at: '2026-08-08T12:47:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

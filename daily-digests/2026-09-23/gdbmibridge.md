@@ -1,19 +1,30 @@
 ---
-title: "gang2k-coder/GdbMiBridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET SDK", "GDB Machine Interface (MI)", "MCP (Model Context Protocol)", "stdio/JSON-RPC", "Channel<T> for async operations"]
+title: gang2k-coder/GdbMiBridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- C#
+- .NET SDK
+- GDB Machine Interface (MI)
+- MCP (Model Context Protocol)
+- stdio/JSON-RPC
+- Channel<T> for async operations
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["GDB debugging", "AI agent integration", "MCP server", "C/C++ debugging", "state capture"]
-source: "https://github.com/gang2k-coder/GdbMiBridge"
+deployment_complexity: Medium
+tags:
+- GDB debugging
+- AI agent integration
+- MCP server
+- C/C++ debugging
+- state capture
+source: https://github.com/gang2k-coder/GdbMiBridge
 stars: 1
-language: "C#"
-last_updated: "2026-07-21T12:15:55Z"
-discovered_at: "2026-07-21T12:23:43Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-07-21T12:15:55Z'
+discovered_at: '2026-07-21T12:23:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

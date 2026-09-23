@@ -1,19 +1,40 @@
 ---
-title: "dawn23106/oneclick-trip"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Spring Boot", "Java", "FastAPI", "Python", "LangGraph", "Vue 3", "MySQL", "Redis", "Chroma", "Docker", "JWT", "MyBatis-Plus", "DeepSeek", "Open-Meteo", "Nominatim", "OSRM"]
+title: dawn23106/oneclick-trip
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Spring Boot
+- Java
+- FastAPI
+- Python
+- LangGraph
+- Vue 3
+- MySQL
+- Redis
+- Chroma
+- Docker
+- JWT
+- MyBatis-Plus
+- DeepSeek
+- Open-Meteo
+- Nominatim
+- OSRM
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["travel planning", "AI agent", "multi-platform", "itinerary generation", "booking management"]
-source: "https://github.com/dawn23106/oneclick-trip"
+deployment_complexity: High
+tags:
+- travel planning
+- AI agent
+- multi-platform
+- itinerary generation
+- booking management
+source: https://github.com/dawn23106/oneclick-trip
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T08:35:14Z"
-discovered_at: "2026-08-08T08:42:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T08:35:14Z'
+discovered_at: '2026-08-08T08:42:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "thepragmatik/mcp-server-jvm-build-tools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "Spring Boot", "Spring AI", "MCP (Model Context Protocol)", "Maven", "Gradle", "SBT", "Docker", "JDK 21+", "Micrometer", "Prometheus"]
+title: thepragmatik/mcp-server-jvm-build-tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Java
+- Spring Boot
+- Spring AI
+- MCP (Model Context Protocol)
+- Maven
+- Gradle
+- SBT
+- Docker
+- JDK 21+
+- Micrometer
+- Prometheus
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "JVM build tools", "AI agent integration", "build automation", "dependency management"]
-source: "https://github.com/thepragmatik/mcp-server-jvm-build-tools"
+deployment_complexity: Medium
+tags:
+- MCP server
+- JVM build tools
+- AI agent integration
+- build automation
+- dependency management
+source: https://github.com/thepragmatik/mcp-server-jvm-build-tools
 stars: 0
-language: "Java"
-last_updated: "2026-08-08T12:38:00Z"
-discovered_at: "2026-08-08T12:47:20Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-08T12:38:00Z'
+discovered_at: '2026-08-08T12:47:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

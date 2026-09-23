@@ -1,19 +1,28 @@
 ---
-title: "mpbt-hq/starfleetctl"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "GitHub API", "CLI", "Web UI"]
+title: mpbt-hq/starfleetctl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- GitHub API
+- CLI
+- Web UI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent coordination", "AI agent management", "PR locking", "GitHub integration", "status tracking"]
-source: "https://github.com/mpbt-hq/starfleetctl"
+deployment_complexity: Medium
+tags:
+- multi-agent coordination
+- AI agent management
+- PR locking
+- GitHub integration
+- status tracking
+source: https://github.com/mpbt-hq/starfleetctl
 stars: 3
-language: "Go"
-last_updated: "2026-08-02T11:46:13Z"
-discovered_at: "2026-08-02T13:49:04Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T11:46:13Z'
+discovered_at: '2026-08-02T13:49:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

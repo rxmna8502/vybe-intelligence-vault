@@ -1,19 +1,36 @@
 ---
-title: "cgfixit/CyClaw"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.12", "FastAPI", "LangGraph", "LangChain", "SQLite", "scrypt", "NeMo Guardrails", "Docker", "GitHub Actions", "Telegram API", "OpenTweet API", "Numbat"]
+title: cgfixit/CyClaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python 3.12
+- FastAPI
+- LangGraph
+- LangChain
+- SQLite
+- scrypt
+- NeMo Guardrails
+- Docker
+- GitHub Actions
+- Telegram API
+- OpenTweet API
+- Numbat
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "offline-first", "safety-invariants", "agentic-framework", "local-ai"]
-source: "https://github.com/cgfixit/CyClaw"
+deployment_complexity: Medium
+tags:
+- RAG
+- offline-first
+- safety-invariants
+- agentic-framework
+- local-ai
+source: https://github.com/cgfixit/CyClaw
 stars: 6
-language: "Python"
-last_updated: "2026-09-02T02:00:36Z"
-discovered_at: "2026-09-02T02:14:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:00:36Z'
+discovered_at: '2026-09-02T02:14:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

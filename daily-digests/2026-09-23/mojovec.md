@@ -1,19 +1,31 @@
 ---
-title: "bewaffnete/MojoVec"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Mojo", "SIMD", "HNSW", "IVF", "Product Quantization", "BM25", "Reciprocal Rank Fusion"]
+title: bewaffnete/MojoVec
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Mojo
+- SIMD
+- HNSW
+- IVF
+- Product Quantization
+- BM25
+- Reciprocal Rank Fusion
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["vector search", "Mojo", "HNSW", "BM25", "hybrid retrieval"]
-source: "https://github.com/bewaffnete/MojoVec"
+deployment_complexity: Medium
+tags:
+- vector search
+- Mojo
+- HNSW
+- BM25
+- hybrid retrieval
+source: https://github.com/bewaffnete/MojoVec
 stars: 6
-language: "Mojo"
-last_updated: "2026-08-07T16:22:26Z"
-discovered_at: "2026-08-07T16:57:21Z"
-evaluated_by: "mistral-small-latest"
+language: Mojo
+last_updated: '2026-08-07T16:22:26Z'
+discovered_at: '2026-08-07T16:57:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

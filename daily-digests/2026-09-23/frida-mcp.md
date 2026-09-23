@@ -1,19 +1,31 @@
 ---
-title: "Gindhar2112/frida-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Frida", "Model Context Protocol (MCP)", "ADB (Android Debug Bridge)", "Magisk", "zygisk-gadget", "JSON"]
+title: Gindhar2112/frida-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Frida
+- Model Context Protocol (MCP)
+- ADB (Android Debug Bridge)
+- Magisk
+- zygisk-gadget
+- JSON
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Android analysis", "Frida automation", "dynamic inspection", "reverse engineering", "AI integration"]
-source: "https://github.com/Gindhar2112/frida-mcp"
+deployment_complexity: Medium
+tags:
+- Android analysis
+- Frida automation
+- dynamic inspection
+- reverse engineering
+- AI integration
+source: https://github.com/Gindhar2112/frida-mcp
 stars: 12
-language: "Python"
-last_updated: "2026-07-14T12:06:36Z"
-discovered_at: "2026-07-14T12:10:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T12:06:36Z'
+discovered_at: '2026-07-14T12:10:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

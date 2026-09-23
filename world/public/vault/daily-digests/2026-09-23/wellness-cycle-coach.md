@@ -1,19 +1,29 @@
 ---
-title: "davidmosiah/wellness-cycle-coach"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "NPM", "Delx Wellness Framework"]
+title: davidmosiah/wellness-cycle-coach
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- NPM
+- Delx Wellness Framework
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["menstrual cycle tracking", "phase-aware AI guidance", "PCOS support", "stateless MCP", "wellness automation"]
-source: "https://github.com/davidmosiah/wellness-cycle-coach"
+deployment_complexity: Low
+tags:
+- menstrual cycle tracking
+- phase-aware AI guidance
+- PCOS support
+- stateless MCP
+- wellness automation
+source: https://github.com/davidmosiah/wellness-cycle-coach
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-16T12:18:01Z"
-discovered_at: "2026-07-16T12:22:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T12:18:01Z'
+discovered_at: '2026-07-16T12:22:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

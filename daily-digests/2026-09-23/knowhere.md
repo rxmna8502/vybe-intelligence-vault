@@ -1,19 +1,33 @@
 ---
-title: "zilliztech/knowhere"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C++", "CUDA", "FAISS", "HNSW", "DiskANN", "Conan", "CMake", "Python", "SWIG"]
+title: zilliztech/knowhere
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- C++
+- CUDA
+- FAISS
+- HNSW
+- DiskANN
+- Conan
+- CMake
+- Python
+- SWIG
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["vector search", "ANN", "Milvus", "FAISS", "HNSW"]
-source: "https://github.com/zilliztech/knowhere"
+deployment_complexity: Medium
+tags:
+- vector search
+- ANN
+- Milvus
+- FAISS
+- HNSW
+source: https://github.com/zilliztech/knowhere
 stars: 377
-language: "C++"
-last_updated: "2026-08-07T13:47:37Z"
-discovered_at: "2026-08-07T14:20:42Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-07T13:47:37Z'
+discovered_at: '2026-08-07T14:20:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

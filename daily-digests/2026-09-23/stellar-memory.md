@@ -1,19 +1,34 @@
 ---
-title: "duraznito16/stellar-memory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Soroban", "Stellar", "Wasm", "JSON-RPC", "MCP (Model Context Protocol)", "Markdown", "Obsidian", "CI/CD"]
+title: duraznito16/stellar-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- Soroban
+- Stellar
+- Wasm
+- JSON-RPC
+- MCP (Model Context Protocol)
+- Markdown
+- Obsidian
+- CI/CD
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Soroban", "Stellar", "memory layer", "knowledge graph", "on-chain analysis"]
-source: "https://github.com/duraznito16/stellar-memory"
+deployment_complexity: Medium
+tags:
+- Soroban
+- Stellar
+- memory layer
+- knowledge graph
+- on-chain analysis
+source: https://github.com/duraznito16/stellar-memory
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T03:03:40Z"
-discovered_at: "2026-08-06T03:19:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T03:03:40Z'
+discovered_at: '2026-08-06T03:19:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,36 @@
 ---
-title: "anmolsharma152/CodexEngine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Next.js", "PostgreSQL", "pgvector", "LangGraph", "ONNX Runtime", "FastEmbed", "Groq API", "Google Gemini API", "Supabase", "TypeScript"]
+title: anmolsharma152/CodexEngine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- PostgreSQL
+- pgvector
+- LangGraph
+- ONNX Runtime
+- FastEmbed
+- Groq API
+- Google Gemini API
+- Supabase
+- TypeScript
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["document intelligence", "self-hosted", "RAG", "workspace agent", "persistent artifacts"]
-source: "https://github.com/anmolsharma152/CodexEngine"
+deployment_complexity: Medium
+tags:
+- document intelligence
+- self-hosted
+- RAG
+- workspace agent
+- persistent artifacts
+source: https://github.com/anmolsharma152/CodexEngine
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-28T22:37:58Z"
-discovered_at: "2026-08-01T16:07:14Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-28T22:37:58Z'
+discovered_at: '2026-08-01T16:07:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

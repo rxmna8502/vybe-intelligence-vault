@@ -1,19 +1,37 @@
 ---
-title: "imoling/iml-work"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "React 18", "Spring Boot 3", "Java 21", "PostgreSQL 17", "pgvector", "TypeScript", "Playwright", "nut-js", "Pyodide", "ONNX (transformers.js)", "SQLite", "Docker"]
+title: imoling/iml-work
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Electron
+- React 18
+- Spring Boot 3
+- Java 21
+- PostgreSQL 17
+- pgvector
+- TypeScript
+- Playwright
+- nut-js
+- Pyodide
+- ONNX (transformers.js)
+- SQLite
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["RPA", "Enterprise Automation", "AI Agents", "Low-Code", "Intranet Compliance"]
-source: "https://github.com/imoling/iml-work"
+deployment_complexity: High
+tags:
+- RPA
+- Enterprise Automation
+- AI Agents
+- Low-Code
+- Intranet Compliance
+source: https://github.com/imoling/iml-work
 stars: 7
-language: "TypeScript"
-last_updated: "2026-08-07T06:12:08Z"
-discovered_at: "2026-08-07T06:12:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T06:12:08Z'
+discovered_at: '2026-08-07T06:12:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

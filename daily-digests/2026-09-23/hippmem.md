@@ -1,19 +1,33 @@
 ---
-title: "hippmem/hippmem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "redb", "Tantivy", "HNSW", "gRPC", "CLI", "BM25", "RRF (Reciprocal Rank Fusion)", "Hebbian learning"]
+title: hippmem/hippmem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- redb
+- Tantivy
+- HNSW
+- gRPC
+- CLI
+- BM25
+- RRF (Reciprocal Rank Fusion)
+- Hebbian learning
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["associative memory", "long-term memory", "spreading activation", "offline-first", "AI agent tooling"]
-source: "https://github.com/hippmem/hippmem"
+deployment_complexity: Medium
+tags:
+- associative memory
+- long-term memory
+- spreading activation
+- offline-first
+- AI agent tooling
+source: https://github.com/hippmem/hippmem
 stars: 2
-language: "Rust"
-last_updated: "2026-08-07T15:47:18Z"
-discovered_at: "2026-08-07T16:02:50Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T15:47:18Z'
+discovered_at: '2026-08-07T16:02:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

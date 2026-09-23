@@ -1,19 +1,33 @@
 ---
-title: "PavloSEO/seohead-seotools"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Screaming Frog", "MCP (Model Context Protocol)", "Docker", "Playwright", "scikit-learn", "Yandex API", "DataForSEO API", "Arsenkin API"]
+title: PavloSEO/seohead-seotools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Screaming Frog
+- MCP (Model Context Protocol)
+- Docker
+- Playwright
+- scikit-learn
+- Yandex API
+- DataForSEO API
+- Arsenkin API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SEO automation", "audit toolkit", "MCP server", "Screaming Frog integration", "structured data analysis"]
-source: "https://github.com/PavloSEO/seohead-seotools"
+deployment_complexity: Medium
+tags:
+- SEO automation
+- audit toolkit
+- MCP server
+- Screaming Frog integration
+- structured data analysis
+source: https://github.com/PavloSEO/seohead-seotools
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T08:34:27Z"
-discovered_at: "2026-09-03T08:38:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T08:34:27Z'
+discovered_at: '2026-09-03T08:38:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

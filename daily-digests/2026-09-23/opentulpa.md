@@ -1,19 +1,31 @@
 ---
-title: "kvyb/opentulpa"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Git", "Docker", "OCI (Open Container Initiative)", "Virtualenv", "uv (Python package installer)", "Bubblewrap (bwrap) for process isolation"]
+title: kvyb/opentulpa
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Git
+- Docker
+- OCI (Open Container Initiative)
+- Virtualenv
+- uv (Python package installer)
+- Bubblewrap (bwrap) for process isolation
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-evolving agents", "autonomous AI", "continuous improvement", "immutable deployments", "Git-based evolution"]
-source: "https://github.com/kvyb/opentulpa"
+deployment_complexity: Medium
+tags:
+- self-evolving agents
+- autonomous AI
+- continuous improvement
+- immutable deployments
+- Git-based evolution
+source: https://github.com/kvyb/opentulpa
 stars: 39
-language: "Python"
-last_updated: "2026-08-07T21:39:24Z"
-discovered_at: "2026-08-07T21:41:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T21:39:24Z'
+discovered_at: '2026-08-07T21:41:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

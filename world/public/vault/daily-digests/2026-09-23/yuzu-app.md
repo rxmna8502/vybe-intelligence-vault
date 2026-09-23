@@ -1,19 +1,30 @@
 ---
-title: "studiocon/yuzu-app"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Next.js", "Supabase", "PostgreSQL", "MCP (Model Context Protocol)", "Node.js"]
+title: studiocon/yuzu-app
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Next.js
+- Supabase
+- PostgreSQL
+- MCP (Model Context Protocol)
+- Node.js
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["voice journaling", "raw speech recording", "immutable records", "MCP server", "Supabase backend"]
-source: "https://github.com/studiocon/yuzu-app"
+deployment_complexity: Medium
+tags:
+- voice journaling
+- raw speech recording
+- immutable records
+- MCP server
+- Supabase backend
+source: https://github.com/studiocon/yuzu-app
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T13:50:46Z"
-discovered_at: "2026-08-09T13:53:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T13:50:46Z'
+discovered_at: '2026-08-09T13:53:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

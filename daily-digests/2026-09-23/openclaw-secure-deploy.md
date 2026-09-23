@@ -1,19 +1,29 @@
 ---
-title: "doxiebuilds/openclaw-secure-deploy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Docker", "Linux Capabilities", "Docker Socket Proxy", "Shell Scripting", "Zero-Trust Security"]
+title: doxiebuilds/openclaw-secure-deploy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Docker
+- Linux Capabilities
+- Docker Socket Proxy
+- Shell Scripting
+- Zero-Trust Security
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["zero-trust", "sandboxing", "Docker security", "agent isolation", "container hardening"]
-source: "https://github.com/doxiebuilds/openclaw-secure-deploy"
+deployment_complexity: Medium
+tags:
+- zero-trust
+- sandboxing
+- Docker security
+- agent isolation
+- container hardening
+source: https://github.com/doxiebuilds/openclaw-secure-deploy
 stars: 1
-language: "Shell"
-last_updated: "2026-08-02T15:00:35Z"
-discovered_at: "2026-08-02T15:02:34Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-02T15:00:35Z'
+discovered_at: '2026-08-02T15:02:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

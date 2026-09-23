@@ -1,19 +1,37 @@
 ---
-title: "RFingAdam/mcp-pcb-emcopilot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "KiCad", "ODB++", "Gerber", "IPC-2581", "Altium", "STEP", "IPC-2141", "IPC-2221", "DOCX", "PNG", "PDF"]
+title: RFingAdam/mcp-pcb-emcopilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- KiCad
+- ODB++
+- Gerber
+- IPC-2581
+- Altium
+- STEP
+- IPC-2141
+- IPC-2221
+- DOCX
+- PNG
+- PDF
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["PCB design review", "EMC analysis", "signal integrity", "MCP server", "AI-powered engineering"]
-source: "https://github.com/RFingAdam/mcp-pcb-emcopilot"
+deployment_complexity: Medium
+tags:
+- PCB design review
+- EMC analysis
+- signal integrity
+- MCP server
+- AI-powered engineering
+source: https://github.com/RFingAdam/mcp-pcb-emcopilot
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T14:58:40Z"
-discovered_at: "2026-08-10T15:04:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T14:58:40Z'
+discovered_at: '2026-08-10T15:04:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

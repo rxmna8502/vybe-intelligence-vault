@@ -1,19 +1,36 @@
 ---
-title: "yanotoma/magi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri v2", "Svelte 5", "TypeScript", "Whisper.cpp", "xcap", "cpal", "reqwest", "tokio", "keyring", "ONNX Runtime", "Piper TTS"]
+title: yanotoma/magi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Rust
+- Tauri v2
+- Svelte 5
+- TypeScript
+- Whisper.cpp
+- xcap
+- cpal
+- reqwest
+- tokio
+- keyring
+- ONNX Runtime
+- Piper TTS
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local AI", "desktop agent", "privacy-first", "model-agnostic", "screen-aware"]
-source: "https://github.com/yanotoma/magi"
+deployment_complexity: Medium
+tags:
+- local AI
+- desktop agent
+- privacy-first
+- model-agnostic
+- screen-aware
+source: https://github.com/yanotoma/magi
 stars: 0
-language: "None"
-last_updated: "2026-08-06T15:16:15Z"
-discovered_at: "2026-08-06T15:18:21Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-06T15:16:15Z'
+discovered_at: '2026-08-06T15:18:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

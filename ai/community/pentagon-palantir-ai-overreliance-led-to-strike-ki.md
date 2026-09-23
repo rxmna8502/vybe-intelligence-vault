@@ -13,13 +13,14 @@ collected_at: '2026-09-23T19:14:33.108559+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pentagon-says-overreliance-on-ai-contributed-to-mi
 first_seen: '2026-09-23T01:20:02.761931+05:30'
 last_seen: '2026-09-23T19:14:33.108559+05:30'
 last_checked: '2026-09-23T19:14:33.108559+05:30'
 health_score: 100
 ---
+
 
 # Pentagon says overreliance on AI contributed to missile strike on Iran school
 

@@ -1,19 +1,32 @@
 ---
-title: "blackdragoon26/Moodish"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "PostgreSQL", "OpenRouter (AI inference)", "React", "Slack/Teams/Discord APIs", "Google OAuth", "Render (deployment)"]
+title: blackdragoon26/Moodish
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- JavaScript
+- Node.js
+- PostgreSQL
+- OpenRouter (AI inference)
+- React
+- Slack/Teams/Discord APIs
+- Google OAuth
+- Render (deployment)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["food recommendation", "conversational AI", "group meal planning", "dietary filtering", "AI transparency"]
-source: "https://github.com/blackdragoon26/Moodish"
+deployment_complexity: Medium
+tags:
+- food recommendation
+- conversational AI
+- group meal planning
+- dietary filtering
+- AI transparency
+source: https://github.com/blackdragoon26/Moodish
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-09T07:50:23Z"
-discovered_at: "2026-08-09T07:58:53Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T07:50:23Z'
+discovered_at: '2026-08-09T07:58:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

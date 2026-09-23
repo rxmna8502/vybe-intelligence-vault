@@ -1,19 +1,35 @@
 ---
-title: "asadaslam556/prism-data-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "React", "LangChain", "Ollama", "SQLAlchemy", "Pandas", "Matplotlib", "Vite", "TypeScript"]
+title: asadaslam556/prism-data-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- React
+- LangChain
+- Ollama
+- SQLAlchemy
+- Pandas
+- Matplotlib
+- Vite
+- TypeScript
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI data analysis", "parallel task execution", "local-first", "interactive visualizations", "multi-model support"]
-source: "https://github.com/asadaslam556/prism-data-agent"
+deployment_complexity: Medium
+tags:
+- AI data analysis
+- parallel task execution
+- local-first
+- interactive visualizations
+- multi-model support
+source: https://github.com/asadaslam556/prism-data-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T23:56:15Z"
-discovered_at: "2026-09-03T19:03:23Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T23:56:15Z'
+discovered_at: '2026-09-03T19:03:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

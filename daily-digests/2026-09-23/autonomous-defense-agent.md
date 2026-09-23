@@ -1,19 +1,38 @@
 ---
-title: "pranjalm37/autonomous-defense-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "ChromaDB", "OpenAI API", "React", "TypeScript", "Docker", "SQLAlchemy", "Pydantic", "Vite", "Tailwind CSS", "JWT", "MCP Server"]
+title: pranjalm37/autonomous-defense-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- ChromaDB
+- OpenAI API
+- React
+- TypeScript
+- Docker
+- SQLAlchemy
+- Pydantic
+- Vite
+- Tailwind CSS
+- JWT
+- MCP Server
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["SOC automation", "RAG for cybersecurity", "LLM-driven threat detection", "Human-in-the-loop remediation", "Audit logging"]
-source: "https://github.com/pranjalm37/autonomous-defense-agent"
+deployment_complexity: Medium
+tags:
+- SOC automation
+- RAG for cybersecurity
+- LLM-driven threat detection
+- Human-in-the-loop remediation
+- Audit logging
+source: https://github.com/pranjalm37/autonomous-defense-agent
 stars: 3
-language: "Python"
-last_updated: "2026-08-10T15:59:04Z"
-discovered_at: "2026-08-10T16:06:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T15:59:04Z'
+discovered_at: '2026-08-10T16:06:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "aliwayu3/hermes-max-platform"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Webhooks", "Max Messenger Bot API", "Hermes Agent"]
+title: aliwayu3/hermes-max-platform
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Webhooks
+- Max Messenger Bot API
+- Hermes Agent
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI chatbot integration", "Max Messenger", "webhook gateway", "Hermes Agent", "messaging automation"]
-source: "https://github.com/aliwayu3/hermes-max-platform"
+deployment_complexity: Medium
+tags:
+- AI chatbot integration
+- Max Messenger
+- webhook gateway
+- Hermes Agent
+- messaging automation
+source: https://github.com/aliwayu3/hermes-max-platform
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T18:42:56Z"
-discovered_at: "2026-08-09T18:43:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T18:42:56Z'
+discovered_at: '2026-08-09T18:43:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

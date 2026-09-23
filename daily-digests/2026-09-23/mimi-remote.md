@@ -1,19 +1,34 @@
 ---
-title: "gaixianggeng/mimi-remote"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["SwiftUI", "Swift", "Go", "Tailscale", "REST API", "WebSocket", "JSON-RPC", "Git", "Keychain", "TestFlight"]
+title: gaixianggeng/mimi-remote
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- SwiftUI
+- Swift
+- Go
+- Tailscale
+- REST API
+- WebSocket
+- JSON-RPC
+- Git
+- Keychain
+- TestFlight
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["remote control", "AI workflow management", "mobile client", "Codex integration", "local-first"]
-source: "https://github.com/gaixianggeng/mimi-remote"
+deployment_complexity: Medium
+tags:
+- remote control
+- AI workflow management
+- mobile client
+- Codex integration
+- local-first
+source: https://github.com/gaixianggeng/mimi-remote
 stars: 78
-language: "Swift"
-last_updated: "2026-08-08T16:30:49Z"
-discovered_at: "2026-08-08T16:35:42Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-08-08T16:30:49Z'
+discovered_at: '2026-08-08T16:35:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

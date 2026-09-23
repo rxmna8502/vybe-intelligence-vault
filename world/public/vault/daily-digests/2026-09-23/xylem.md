@@ -1,19 +1,32 @@
 ---
-title: "jarmstrong158/Xylem"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Cloudflare Workers", "GitHub API", "Cloudflare D1", "Git", "Claude Code", "Shell Scripting"]
+title: jarmstrong158/Xylem
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Cloudflare Workers
+- GitHub API
+- Cloudflare D1
+- Git
+- Claude Code
+- Shell Scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent coordination", "knowledge lifecycle", "MCP servers", "local-first", "decentralized memory"]
-source: "https://github.com/jarmstrong158/Xylem"
+deployment_complexity: Medium
+tags:
+- multi-agent coordination
+- knowledge lifecycle
+- MCP servers
+- local-first
+- decentralized memory
+source: https://github.com/jarmstrong158/Xylem
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T20:01:16Z"
-discovered_at: "2026-07-17T20:05:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T20:01:16Z'
+discovered_at: '2026-07-17T20:05:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

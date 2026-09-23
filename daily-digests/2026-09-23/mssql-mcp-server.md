@@ -1,19 +1,29 @@
 ---
-title: "darwijesinghe/mssql-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: [".NET 8", "C#", "MCP (Model Context Protocol)", "MSSQL Server", "JSON-RPC"]
+title: darwijesinghe/mssql-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- .NET 8
+- C#
+- MCP (Model Context Protocol)
+- MSSQL Server
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "SQL Server integration", "AI tooling", "read-only queries", "metadata exploration"]
-source: "https://github.com/darwijesinghe/mssql-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP server
+- SQL Server integration
+- AI tooling
+- read-only queries
+- metadata exploration
+source: https://github.com/darwijesinghe/mssql-mcp-server
 stars: 0
-language: "C#"
-last_updated: "2026-08-08T15:30:56Z"
-discovered_at: "2026-08-08T15:32:30Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-08T15:30:56Z'
+discovered_at: '2026-08-08T15:32:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

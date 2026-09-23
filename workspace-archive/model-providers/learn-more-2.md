@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
+source_url: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -41,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome
+Original source URL: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
 
 ## Local Vault File
 

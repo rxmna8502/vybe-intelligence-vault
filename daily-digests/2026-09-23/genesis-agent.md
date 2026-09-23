@@ -1,19 +1,40 @@
 ---
-title: "me7ko-dev/genesis-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Markdown", "Sandboxing", "Terminal/Browser Automation", "Discord API", "Ollama", "HuggingFace", "OpenRouter", "Groq", "NVIDIA NIM", "Anthropic", "OpenAI", "DeepSeek", "GTK (GUI)", "Playwright", "Git"]
+title: me7ko-dev/genesis-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- Markdown
+- Sandboxing
+- Terminal/Browser Automation
+- Discord API
+- Ollama
+- HuggingFace
+- OpenRouter
+- Groq
+- NVIDIA NIM
+- Anthropic
+- OpenAI
+- DeepSeek
+- GTK (GUI)
+- Playwright
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous coding", "self-hosted", "skill library", "persistent memory", "multi-provider"]
-source: "https://github.com/me7ko-dev/genesis-agent"
+deployment_complexity: Medium
+tags:
+- autonomous coding
+- self-hosted
+- skill library
+- persistent memory
+- multi-provider
+source: https://github.com/me7ko-dev/genesis-agent
 stars: 2
-language: "Python"
-last_updated: "2026-08-07T22:24:58Z"
-discovered_at: "2026-08-07T22:37:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T22:24:58Z'
+discovered_at: '2026-08-07T22:37:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "adham90/opentrace"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "SQLite", "PostgreSQL", "Zstandard (compression)", "Custom columnar storage engine", "Ruby SDK", "Node.js SDK"]
+title: adham90/opentrace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- SQLite
+- PostgreSQL
+- Zstandard (compression)
+- Custom columnar storage engine
+- Ruby SDK
+- Node.js SDK
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["observability", "AI agent integration", "self-hosted", "log storage", "MCP-native"]
-source: "https://github.com/adham90/opentrace"
+deployment_complexity: Medium
+tags:
+- observability
+- AI agent integration
+- self-hosted
+- log storage
+- MCP-native
+source: https://github.com/adham90/opentrace
 stars: 15
-language: "Go"
-last_updated: "2026-08-08T09:28:30Z"
-discovered_at: "2026-08-08T09:41:13Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T09:28:30Z'
+discovered_at: '2026-08-08T09:41:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "A1m1ng777888/super-brain"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SimHash", "Knowledge Graphs", "CLI", "Memory Management"]
+title: A1m1ng777888/super-brain
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-23
+tech_stack:
+- Python
+- SimHash
+- Knowledge Graphs
+- CLI
+- Memory Management
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agents", "Memory Persistence", "Knowledge Graphs", "Semantic Search", "Self-Repair"]
-source: "https://github.com/A1m1ng777888/super-brain"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- Memory Persistence
+- Knowledge Graphs
+- Semantic Search
+- Self-Repair
+source: https://github.com/A1m1ng777888/super-brain
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T05:36:18Z"
-discovered_at: "2026-07-11T05:39:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T05:36:18Z'
+discovered_at: '2026-07-11T05:39:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "wtokarzewski/janus-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "FTS5", "Transformers.js", "ONNX", "Telegram Bot API", "Docker", "Vitest"]
+title: wtokarzewski/janus-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- FTS5
+- Transformers.js
+- ONNX
+- Telegram Bot API
+- Docker
+- Vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "multi-tool execution", "local memory", "LLM orchestration", "safety mechanisms"]
-source: "https://github.com/wtokarzewski/janus-agent"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- multi-tool execution
+- local memory
+- LLM orchestration
+- safety mechanisms
+source: https://github.com/wtokarzewski/janus-agent
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-06T06:26:55Z"
-discovered_at: "2026-08-06T06:33:07Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T06:26:55Z'
+discovered_at: '2026-08-06T06:33:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

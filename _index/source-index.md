@@ -26273,7 +26273,8 @@ Resources organized by publisher feed and query sources.
   - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
+  - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
+  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
@@ -26295,12 +26296,12 @@ Resources organized by publisher feed and query sources.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
-  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
   - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
+  - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
@@ -27195,17 +27196,17 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Claude Code reads AGENTS.md only when telemetry is on](../ai/community/claude-code-reads-agents-md-only-when-telemetry-is.md)
-  - [I Don't Want the Details](../ai/community/i-don-t-want-the-details.md)
+  - [Claude Code reads AGENTS.md only when telemetry is on [fixed]](../ai/community/claude-code-reads-agents-md-only-when-telemetry-is.md)
+  - [Cloud Agents Are Inevitable AI Prisons](../ai/community/cloud-agents-are-inevitable-ai-prisons.md)
+  - [GPT-6 Astra has gained the ability to drive a car](../ai/community/gpt-6-astra-has-gained-the-ability-to-drive-a-car.md)
+  - [How we made claude.ai 3x faster in two weeks](../ai/community/how-we-made-claude-ai-3x-faster-in-two-weeks.md)
+  - [I don't want the details](../ai/community/i-don-t-want-the-details.md)
   - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](../ai/community/openai-gpt-6-astra-breaks-enigma-message-that-has.md)
-  - [OpenAI is enlisting an influencer army to make it look 'good for the world'](../ai/community/openai-is-enlisting-an-influencer-army-to-make-it.md)
-  - [Pentagon says overreliance on AI contributed to missile strike on Iran school](../ai/community/pentagon-palantir-ai-overreliance-led-to-strike-ki.md)
-  - [Show HN: RxFilm Studio–Create and edit your product videos with AI agent](../ai/community/show-hn-rxfilm-studio-create-and-edit-your-product.md)
+  - [Stripe's Knowledge AI Platform](../ai/community/stripe-s-knowledge-ai-platform.md)
 
 ## Unknown Source (type: huggingface)
 
   - [(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](../ai/models/huggingface-blog-flux-qlora.md)
-  - [**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**](../ai/models/huggingface-blog-nvidia-nemotron-diarization.md)
   - [1 Billion Classifications](../ai/models/huggingface-blog-billion-classifications.md)
   - [17 Reasons Why Gradio Isn't Just Another UI Library](../ai/models/huggingface-blog-why-gradio-stands-out.md)
   - [2023, year of open LLMs](../ai/models/huggingface-blog-2023-in-llms.md)
@@ -27536,6 +27537,7 @@ Resources organized by publisher feed and query sources.
   - [How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](../ai/models/huggingface-blog-nvidia-nvidia-isaac-for-healthcare.md)
   - [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md)
   - [How to Install and Use the Hugging Face Unity API](../ai/models/huggingface-blog-unity-api.md)
+  - [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](../ai/models/huggingface-blog-nvidia-how-to-use-nvidia-warp-and-mjwarp.md)
   - [How to Use Transformers.js in a Chrome Extension](../ai/models/huggingface-blog-transformersjs-chrome-extension.md)
   - [How to build scalable web apps with OpenAI's Privacy Filter](../ai/models/huggingface-blog-openai-privacy-filter-web-apps.md)
   - [How to deploy and fine-tune DeepSeek models on AWS](../ai/models/huggingface-blog-deepseek-r1-aws.md)
@@ -31069,4 +31071,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-23T19:30:45.351028+05:30*
+*Index generated on 2026-09-24T01:32:59.407119+05:30*

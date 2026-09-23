@@ -1,19 +1,34 @@
 ---
-title: "mt3hr/gkill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Android (Java/Kotlin)", "Wear OS", "TypeScript", "Electron", "SQLite", "GPX", "Markdown", "MCP (Model Context Protocol)", "OAuth"]
+title: mt3hr/gkill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- Android (Java/Kotlin)
+- Wear OS
+- TypeScript
+- Electron
+- SQLite
+- GPX
+- Markdown
+- MCP (Model Context Protocol)
+- OAuth
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["lifelogging", "self-hosted", "local-first", "AI integration", "data analysis"]
-source: "https://github.com/mt3hr/gkill"
+deployment_complexity: Medium
+tags:
+- lifelogging
+- self-hosted
+- local-first
+- AI integration
+- data analysis
+source: https://github.com/mt3hr/gkill
 stars: 2
-language: "Go"
-last_updated: "2026-08-02T19:11:24Z"
-discovered_at: "2026-08-02T19:25:38Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T19:11:24Z'
+discovered_at: '2026-08-02T19:25:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

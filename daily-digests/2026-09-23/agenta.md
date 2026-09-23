@@ -1,19 +1,35 @@
 ---
-title: "Agenta-AI/agenta"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "Docker", "React", "FastAPI", "PostgreSQL", "Redis", "MCP (Model Context Protocol)", "Composio", "Daytona", "Ollama"]
+title: Agenta-AI/agenta
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- Python
+- Docker
+- React
+- FastAPI
+- PostgreSQL
+- Redis
+- MCP (Model Context Protocol)
+- Composio
+- Daytona
+- Ollama
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agents", "multi-model support", "collaborative workspace", "self-hosting", "automation"]
-source: "https://github.com/Agenta-AI/agenta"
+deployment_complexity: Medium
+tags:
+- AI agents
+- multi-model support
+- collaborative workspace
+- self-hosting
+- automation
+source: https://github.com/Agenta-AI/agenta
 stars: 4315
-language: "TypeScript"
-last_updated: "2026-07-20T21:07:10Z"
-discovered_at: "2026-07-20T21:10:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T21:07:10Z'
+discovered_at: '2026-07-20T21:10:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

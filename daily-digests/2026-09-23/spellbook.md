@@ -1,19 +1,32 @@
 ---
-title: "axiomantic/spellbook"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Shell scripting", "Git", "YAML", "Markdown", "FastAPI (implied for MCP server)", "uv (package manager)"]
+title: axiomantic/spellbook
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Shell scripting
+- Git
+- YAML
+- Markdown
+- FastAPI (implied for MCP server)
+- uv (package manager)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding assistant", "workflow automation", "MCP server", "multi-platform", "quality gates"]
-source: "https://github.com/axiomantic/spellbook"
+deployment_complexity: Medium
+tags:
+- AI coding assistant
+- workflow automation
+- MCP server
+- multi-platform
+- quality gates
+source: https://github.com/axiomantic/spellbook
 stars: 7
-language: "Python"
-last_updated: "2026-08-05T05:46:57Z"
-discovered_at: "2026-08-05T05:48:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:46:57Z'
+discovered_at: '2026-08-05T05:48:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

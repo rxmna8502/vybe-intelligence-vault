@@ -1,19 +1,32 @@
 ---
-title: "zouploop/Roblox-BuildKit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Luau", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "Roblox Studio", "HTTP/Long-polling", "PowerShell (for screenshots)", "Open Cloud API (for mesh generation)"]
+title: zouploop/Roblox-BuildKit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Luau
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Roblox Studio
+- HTTP/Long-polling
+- PowerShell (for screenshots)
+- Open Cloud API (for mesh generation)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Roblox", "AI agent integration", "parametric building", "scene capture", "MCP server"]
-source: "https://github.com/zouploop/Roblox-BuildKit"
+deployment_complexity: Medium
+tags:
+- Roblox
+- AI agent integration
+- parametric building
+- scene capture
+- MCP server
+source: https://github.com/zouploop/Roblox-BuildKit
 stars: 2
-language: "Luau"
-last_updated: "2026-08-08T20:25:04Z"
-discovered_at: "2026-08-08T20:31:55Z"
-evaluated_by: "mistral-small-latest"
+language: Luau
+last_updated: '2026-08-08T20:25:04Z'
+discovered_at: '2026-08-08T20:31:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

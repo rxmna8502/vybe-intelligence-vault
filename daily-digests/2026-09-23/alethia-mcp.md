@@ -1,19 +1,32 @@
 ---
-title: "vitron-ai/alethia-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "WebAssembly", "Cryptographic hashing (SHA-256)", "HTTP/HTTPS", "CLI tools"]
+title: vitron-ai/alethia-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- WebAssembly
+- Cryptographic hashing (SHA-256)
+- HTTP/HTTPS
+- CLI tools
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["E2E testing", "AI agent safety", "MCP bridge", "zero-IPC", "verifiable compliance"]
-source: "https://github.com/vitron-ai/alethia-mcp"
+deployment_complexity: Medium
+tags:
+- E2E testing
+- AI agent safety
+- MCP bridge
+- zero-IPC
+- verifiable compliance
+source: https://github.com/vitron-ai/alethia-mcp
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:18:38Z"
-discovered_at: "2026-08-02T19:25:34Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:18:38Z'
+discovered_at: '2026-08-02T19:25:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

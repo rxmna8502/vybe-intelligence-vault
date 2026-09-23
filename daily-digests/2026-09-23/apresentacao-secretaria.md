@@ -1,19 +1,27 @@
 ---
-title: "marianavieeira81-tech/apresentacao-secretaria"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["HTML", "CSS", "JavaScript"]
+title: marianavieeira81-tech/apresentacao-secretaria
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- HTML
+- CSS
+- JavaScript
 quality_score: 4
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["landing page", "WhatsApp bot", "commercial demo", "AI agent", "service providers"]
-source: "https://github.com/marianavieeira81-tech/apresentacao-secretaria"
+deployment_complexity: Low
+tags:
+- landing page
+- WhatsApp bot
+- commercial demo
+- AI agent
+- service providers
+source: https://github.com/marianavieeira81-tech/apresentacao-secretaria
 stars: 0
-language: "HTML"
-last_updated: "2026-08-01T20:50:03Z"
-discovered_at: "2026-08-01T20:50:57Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-01T20:50:03Z'
+discovered_at: '2026-08-01T20:50:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

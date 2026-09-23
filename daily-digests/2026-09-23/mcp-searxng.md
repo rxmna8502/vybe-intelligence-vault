@@ -1,19 +1,32 @@
 ---
-title: "teran/mcp-searxng"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "SearXNG", "Streamable HTTP", "Prometheus", "Docker", "CI/CD (GitHub Actions)", "GolangCI-Lint"]
+title: teran/mcp-searxng
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- SearXNG
+- Streamable HTTP
+- Prometheus
+- Docker
+- CI/CD (GitHub Actions)
+- GolangCI-Lint
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "web search", "SearXNG", "remote execution", "AI tooling"]
-source: "https://github.com/teran/mcp-searxng"
+deployment_complexity: Medium
+tags:
+- MCP server
+- web search
+- SearXNG
+- remote execution
+- AI tooling
+source: https://github.com/teran/mcp-searxng
 stars: 0
-language: "Go"
-last_updated: "2026-07-18T09:12:47Z"
-discovered_at: "2026-07-18T09:24:12Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-18T09:12:47Z'
+discovered_at: '2026-07-18T09:24:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

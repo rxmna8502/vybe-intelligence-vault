@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cryptocellar.org/bgac/the-mvueh-break.html
 hn_url: https://news.ycombinator.com/item?id=49801324
-score: 696
+score: 715
 author: sohkamyung
-comments_count: 408
+comments_count: 428
 published_at: '2026-09-22T19:22:15+05:30'
-collected_at: '2026-09-23T19:14:31.326266+05:30'
+collected_at: '2026-09-24T01:16:24.260607+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:openai-gpt-6-astra-breaks-enigma-message-that-has
 first_seen: '2026-09-23T01:20:02.211168+05:30'
-last_seen: '2026-09-23T19:14:31.326266+05:30'
-last_checked: '2026-09-23T19:14:31.326266+05:30'
+last_seen: '2026-09-24T01:16:24.260607+05:30'
+last_checked: '2026-09-24T01:16:24.260607+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sohkamyung. Score: 696, Comments: 408.
+Hacker News story by sohkamyung. Score: 715, Comments: 428.
 Original Link: https://www.cryptocellar.org/bgac/the-mvueh-break.html
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sohkamyung
-- Score: 696 Upvotes
-- Comments: 408 Discussions
+- Score: 715 Upvotes
+- Comments: 428 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49801324
 - Original Article: https://cryptocellar.org/bgac/the-mvueh-break.html
 

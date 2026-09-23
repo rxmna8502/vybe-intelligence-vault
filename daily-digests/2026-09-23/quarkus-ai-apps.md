@@ -1,19 +1,31 @@
 ---
-title: "piomin/quarkus-ai-apps"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Quarkus", "LangChain4j", "Java", "PostgreSQL", "MCP (Model Context Protocol)", "CircleCI", "SonarCloud"]
+title: piomin/quarkus-ai-apps
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Quarkus
+- LangChain4j
+- Java
+- PostgreSQL
+- MCP (Model Context Protocol)
+- CircleCI
+- SonarCloud
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Quarkus", "LangChain4j", "AI Integration", "MCP", "Java"]
-source: "https://github.com/piomin/quarkus-ai-apps"
+deployment_complexity: Medium
+tags:
+- Quarkus
+- LangChain4j
+- AI Integration
+- MCP
+- Java
+source: https://github.com/piomin/quarkus-ai-apps
 stars: 2
-language: "Java"
-last_updated: "2026-08-09T17:29:51Z"
-discovered_at: "2026-08-09T17:35:35Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-09T17:29:51Z'
+discovered_at: '2026-08-09T17:35:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:show-hn-rxfilm-studio-create-and-edit-your-product
 first_seen: '2026-09-23T19:14:31.576384+05:30'
 last_seen: '2026-09-23T19:14:31.576384+05:30'
 last_checked: '2026-09-23T19:14:31.576384+05:30'
 health_score: 100
 ---
+
 
 # Show HN: RxFilm Studio–Create and edit your product videos with AI agent
 

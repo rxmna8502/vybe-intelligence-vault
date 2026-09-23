@@ -1,19 +1,33 @@
 ---
-title: "imberZsk/visual-worktree-backend"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangChain", "OpenAI API", "Deep Agents", "LangSmith", "Pydantic", "uv", "pytest"]
+title: imberZsk/visual-worktree-backend
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- FastAPI
+- LangChain
+- OpenAI API
+- Deep Agents
+- LangSmith
+- Pydantic
+- uv
+- pytest
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["FastAPI", "LangChain", "Deep Agents", "OpenAI", "AI Assistant"]
-source: "https://github.com/imberZsk/visual-worktree-backend"
+deployment_complexity: Medium
+tags:
+- FastAPI
+- LangChain
+- Deep Agents
+- OpenAI
+- AI Assistant
+source: https://github.com/imberZsk/visual-worktree-backend
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T08:38:57Z"
-discovered_at: "2026-08-09T08:45:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T08:38:57Z'
+discovered_at: '2026-08-09T08:45:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

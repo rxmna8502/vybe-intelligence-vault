@@ -1,19 +1,28 @@
 ---
-title: "Cabrinaunimaginable616/kite"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Dart", "Flutter", "Material 3", "Windows"]
+title: Cabrinaunimaginable616/kite
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Dart
+- Flutter
+- Material 3
+- Windows
 quality_score: 6
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["media downloader", "desktop application", "privacy-focused", "Flutter", "Windows"]
-source: "https://github.com/Cabrinaunimaginable616/kite"
+deployment_complexity: Low
+tags:
+- media downloader
+- desktop application
+- privacy-focused
+- Flutter
+- Windows
+source: https://github.com/Cabrinaunimaginable616/kite
 stars: 0
-language: "Dart"
-last_updated: "2026-07-11T10:59:56Z"
-discovered_at: "2026-07-11T11:03:56Z"
-evaluated_by: "mistral-small-latest"
+language: Dart
+last_updated: '2026-07-11T10:59:56Z'
+discovered_at: '2026-07-11T11:03:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

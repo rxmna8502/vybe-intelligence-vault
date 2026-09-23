@@ -1,19 +1,31 @@
 ---
-title: "openshard/openshard"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "MCP (Model Context Protocol)", "JSONL", "Terraform", "Git", "TUI (Terminal User Interface)"]
+title: openshard/openshard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- CLI
+- MCP (Model Context Protocol)
+- JSONL
+- Terraform
+- Git
+- TUI (Terminal User Interface)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI workflow control", "receipt generation", "risk assessment", "cost tracking", "audit trail"]
-source: "https://github.com/openshard/openshard"
+deployment_complexity: Low
+tags:
+- AI workflow control
+- receipt generation
+- risk assessment
+- cost tracking
+- audit trail
+source: https://github.com/openshard/openshard
 stars: 3
-language: "Python"
-last_updated: "2026-09-03T15:04:06Z"
-discovered_at: "2026-09-03T19:13:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:04:06Z'
+discovered_at: '2026-09-03T19:13:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

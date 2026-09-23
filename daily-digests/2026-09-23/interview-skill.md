@@ -1,19 +1,30 @@
 ---
-title: "shengxuan-create/interview-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "AgentSkills Framework", "Claude Code", "Natural Language Processing (NLP)", "STAR Framework", "GitHub Actions"]
+title: shengxuan-create/interview-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- AgentSkills Framework
+- Claude Code
+- Natural Language Processing (NLP)
+- STAR Framework
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["interview preparation", "AI-powered research", "STAR framework", "mock interviews", "performance evaluation"]
-source: "https://github.com/shengxuan-create/interview-skill"
+deployment_complexity: Low
+tags:
+- interview preparation
+- AI-powered research
+- STAR framework
+- mock interviews
+- performance evaluation
+source: https://github.com/shengxuan-create/interview-skill
 stars: 4
-language: "Python"
-last_updated: "2026-08-08T01:18:05Z"
-discovered_at: "2026-08-08T01:26:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T01:18:05Z'
+discovered_at: '2026-08-08T01:26:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

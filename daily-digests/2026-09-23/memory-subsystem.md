@@ -1,19 +1,30 @@
 ---
-title: "vkinsella72/memory-subsystem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "JSON", "Bash", "Cron", "GitHub", "Task Scheduler (Windows)"]
+title: vkinsella72/memory-subsystem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- JSON
+- Bash
+- Cron
+- GitHub
+- Task Scheduler (Windows)
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["memory management", "agent architecture", "rule-based governance", "persistent storage", "multi-agent systems"]
-source: "https://github.com/vkinsella72/memory-subsystem"
+deployment_complexity: Medium
+tags:
+- memory management
+- agent architecture
+- rule-based governance
+- persistent storage
+- multi-agent systems
+source: https://github.com/vkinsella72/memory-subsystem
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T01:25:42Z"
-discovered_at: "2026-08-08T01:26:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T01:25:42Z'
+discovered_at: '2026-08-08T01:26:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "jordan-thirkle/cockpit"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "React 19", "Vite", "FastAPI", "WebSocket", "xterm.js", "CSS"]
+title: jordan-thirkle/cockpit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- React 19
+- Vite
+- FastAPI
+- WebSocket
+- xterm.js
+- CSS
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Hermes Agent", "Dashboard", "Session Management", "UI Customization", "Workspace Organization"]
-source: "https://github.com/jordan-thirkle/cockpit"
+deployment_complexity: Medium
+tags:
+- Hermes Agent
+- Dashboard
+- Session Management
+- UI Customization
+- Workspace Organization
+source: https://github.com/jordan-thirkle/cockpit
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T02:01:26Z"
-discovered_at: "2026-09-02T02:11:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T02:01:26Z'
+discovered_at: '2026-09-02T02:11:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

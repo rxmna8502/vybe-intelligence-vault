@@ -1,19 +1,30 @@
 ---
-title: "nimbus-agent/nimbus-vscode"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "VS Code Extension API", "Nimbus Gateway", "Node.js", "npm", "React (for UI components)"]
+title: nimbus-agent/nimbus-vscode
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- Nimbus Gateway
+- Node.js
+- npm
+- React (for UI components)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["VS Code extension", "local-first AI", "semantic search", "agent integration", "privacy-focused"]
-source: "https://github.com/nimbus-agent/nimbus-vscode"
+deployment_complexity: Medium
+tags:
+- VS Code extension
+- local-first AI
+- semantic search
+- agent integration
+- privacy-focused
+source: https://github.com/nimbus-agent/nimbus-vscode
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-18T10:58:14Z"
-discovered_at: "2026-07-18T11:02:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T10:58:14Z'
+discovered_at: '2026-07-18T11:02:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "MaximilianKhan/openbeast"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "llama.cpp", "Open WebUI", "SearXNG", "Docker", "CUDA", "Tailscale", "MCP (Model Context Protocol)", "OpenAPI", "JWT", "Prometheus"]
+title: MaximilianKhan/openbeast
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-23
+tech_stack:
+- Python
+- llama.cpp
+- Open WebUI
+- SearXNG
+- Docker
+- CUDA
+- Tailscale
+- MCP (Model Context Protocol)
+- OpenAPI
+- JWT
+- Prometheus
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted AI", "agent framework", "local LLM", "multi-tool suite", "secure remote access"]
-source: "https://github.com/MaximilianKhan/openbeast"
+deployment_complexity: Medium
+tags:
+- self-hosted AI
+- agent framework
+- local LLM
+- multi-tool suite
+- secure remote access
+source: https://github.com/MaximilianKhan/openbeast
 stars: 3
-language: "Python"
-last_updated: "2026-07-18T02:09:15Z"
-discovered_at: "2026-07-18T02:12:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T02:09:15Z'
+discovered_at: '2026-07-18T02:12:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
