@@ -1,33 +1,19 @@
 ---
-title: JonusNattapong/oracle-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- BM25
-- Vector Embeddings
-- Xenova/all-MiniLM-L6-v2
-- JSON
-- HTTP
-- Streamable Transport
+title: "JonusNattapong/oracle-memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "BM25", "Vector Embeddings", "Xenova/all-MiniLM-L6-v2", "JSON", "HTTP", "Streamable Transport"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- memory management
-- multi-agent coordination
-- hybrid search
-- MCP server
-- persistent storage
-source: https://github.com/JonusNattapong/oracle-memory
+deployment_complexity: "Low"
+tags: ["memory management", "multi-agent coordination", "hybrid search", "MCP server", "persistent storage"]
+source: "https://github.com/JonusNattapong/oracle-memory"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-16T08:01:02Z'
-discovered_at: '2026-07-16T08:10:18Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T08:01:02Z"
+discovered_at: "2026-07-16T08:10:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: RumetoBr/tariff-oracle
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- OpenAI API
-- Claude API
-- YAML
-- JSON
-- Redis
-- SQLite
-- Docker
-- gRPC
-- REST API
-- Mermaid.js
+title: "RumetoBr/tariff-oracle"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "OpenAI API", "Claude API", "YAML", "JSON", "Redis", "SQLite", "Docker", "gRPC", "REST API", "Mermaid.js"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- trade compliance
-- HTS classification
-- duty calculation
-- PGA screening
-- AI reasoning
-source: https://github.com/RumetoBr/tariff-oracle
+deployment_complexity: "Medium"
+tags: ["trade compliance", "HTS classification", "duty calculation", "PGA screening", "AI reasoning"]
+source: "https://github.com/RumetoBr/tariff-oracle"
 stars: 0
-language: HTML
-last_updated: '2026-09-01T19:01:58Z'
-discovered_at: '2026-09-01T19:05:54Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-01T19:01:58Z"
+discovered_at: "2026-09-01T19:05:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

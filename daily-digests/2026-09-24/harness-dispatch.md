@@ -1,31 +1,19 @@
 ---
-title: fstubner/harness-dispatch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- YAML
-- CLI
-- Subprocess Management
-- HTTP Server
+title: "fstubner/harness-dispatch"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "YAML", "CLI", "Subprocess Management", "HTTP Server"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- agent orchestration
-- coding task routing
-- billing-aware
-- safety profiles
-source: https://github.com/fstubner/harness-dispatch
+deployment_complexity: "Medium"
+tags: ["MCP server", "agent orchestration", "coding task routing", "billing-aware", "safety profiles"]
+source: "https://github.com/fstubner/harness-dispatch"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T02:02:12Z'
-discovered_at: '2026-09-02T02:13:30Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T02:02:12Z"
+discovered_at: "2026-09-02T02:13:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

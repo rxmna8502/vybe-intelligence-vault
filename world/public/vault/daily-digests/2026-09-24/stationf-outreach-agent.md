@@ -1,32 +1,19 @@
 ---
-title: ZinebMEFTAH/stationf-outreach-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- Playwright
-- Claude Code
-- Gmail SMTP/IMAP
-- LaTeX
-- pandas
-- Google Cloud
-- cron
+title: "ZinebMEFTAH/stationf-outreach-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Playwright", "Claude Code", "Gmail SMTP/IMAP", "LaTeX", "pandas", "Google Cloud", "cron"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous outreach
-- job scraping
-- decision-maker identification
-- personalized email generation
-- self-improving agent
-source: https://github.com/ZinebMEFTAH/stationf-outreach-agent
+deployment_complexity: "Medium"
+tags: ["autonomous outreach", "job scraping", "decision-maker identification", "personalized email generation", "self-improving agent"]
+source: "https://github.com/ZinebMEFTAH/stationf-outreach-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-07T11:52:12Z'
-discovered_at: '2026-08-07T11:56:13Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:52:12Z"
+discovered_at: "2026-08-07T11:56:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

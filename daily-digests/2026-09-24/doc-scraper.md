@@ -1,32 +1,19 @@
 ---
-title: Sriram-PR/doc-scraper
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- BadgerDB
-- SQLite
-- HTML-to-Markdown conversion
-- CSS selectors
-- Concurrency primitives
-- HTTP client with retries
-- Model Context Protocol (MCP)
+title: "Sriram-PR/doc-scraper"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "BadgerDB", "SQLite", "HTML-to-Markdown conversion", "CSS selectors", "Concurrency primitives", "HTTP client with retries", "Model Context Protocol (MCP)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- documentation scraping
-- LLM data preparation
-- Markdown conversion
-- concurrent crawling
-- RAG pipeline
-source: https://github.com/Sriram-PR/doc-scraper
+deployment_complexity: "Medium"
+tags: ["documentation scraping", "LLM data preparation", "Markdown conversion", "concurrent crawling", "RAG pipeline"]
+source: "https://github.com/Sriram-PR/doc-scraper"
 stars: 95
-language: Go
-last_updated: '2026-09-03T19:09:47Z'
-discovered_at: '2026-09-03T19:13:12Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T19:09:47Z"
+discovered_at: "2026-09-03T19:13:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

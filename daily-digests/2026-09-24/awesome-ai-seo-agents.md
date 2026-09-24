@@ -1,30 +1,19 @@
 ---
-title: answerdelta/awesome-ai-seo-agents
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- CSV
-- GitHub API
-- MCP (Model Context Protocol)
-- CLI
-- REST API
+title: "answerdelta/awesome-ai-seo-agents"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "CSV", "GitHub API", "MCP (Model Context Protocol)", "CLI", "REST API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- SEO automation
-- AI agents
-- MCP servers
-- developer tools
-- code-driven APIs
-source: https://github.com/answerdelta/awesome-ai-seo-agents
+deployment_complexity: "Medium"
+tags: ["SEO automation", "AI agents", "MCP servers", "developer tools", "code-driven APIs"]
+source: "https://github.com/answerdelta/awesome-ai-seo-agents"
 stars: 0
-language: Python
-last_updated: '2026-08-07T22:34:39Z'
-discovered_at: '2026-08-07T22:37:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T22:34:39Z"
+discovered_at: "2026-08-07T22:37:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

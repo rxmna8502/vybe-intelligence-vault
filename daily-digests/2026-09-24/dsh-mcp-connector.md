@@ -1,33 +1,19 @@
 ---
-title: duhu2000/dsh-mcp-connector
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- JavaScript
-- Node.js
-- React
-- MCP (Model Context Protocol)
-- OAuth 2.0 PKCE
-- HTTP/stdio
-- JSON Schema
-- CI/CD (GitHub Actions)
+title: "duhu2000/dsh-mcp-connector"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript", "Node.js", "React", "MCP (Model Context Protocol)", "OAuth 2.0 PKCE", "HTTP/stdio", "JSON Schema", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Connector Management
-- OAuth Integration
-- DeepSeek Harness
-- Prompt Discovery
-source: https://github.com/duhu2000/dsh-mcp-connector
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Connector Management", "OAuth Integration", "DeepSeek Harness", "Prompt Discovery"]
+source: "https://github.com/duhu2000/dsh-mcp-connector"
 stars: 11
-language: JavaScript
-last_updated: '2026-09-01T15:44:47Z'
-discovered_at: '2026-09-01T15:56:26Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-01T15:44:47Z"
+discovered_at: "2026-09-01T15:56:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

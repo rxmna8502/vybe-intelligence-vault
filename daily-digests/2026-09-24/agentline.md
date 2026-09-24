@@ -1,29 +1,19 @@
 ---
-title: HelgeSverre/agentline
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- CLI (Cobra)
-- HTTP/REST
-- MCP (Model Context Protocol)
-- SQLite (for local storage)
+title: "HelgeSverre/agentline"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "CLI (Cobra)", "HTTP/REST", "MCP (Model Context Protocol)", "SQLite (for local storage)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- agent communication
-- multi-agent systems
-- relay service
-- temporary rooms
-- AI agent framework
-source: https://github.com/HelgeSverre/agentline
+deployment_complexity: "Medium"
+tags: ["agent communication", "multi-agent systems", "relay service", "temporary rooms", "AI agent framework"]
+source: "https://github.com/HelgeSverre/agentline"
 stars: 0
-language: Go
-last_updated: '2026-08-08T09:38:44Z'
-discovered_at: '2026-08-08T09:40:14Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T09:38:44Z"
+discovered_at: "2026-08-08T09:40:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

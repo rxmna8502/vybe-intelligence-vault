@@ -1,29 +1,19 @@
 ---
-title: swisspra/On_Board
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Rust (for dependencies)
-- Bash (for setup scripts)
-- JSON (for configuration)
+title: "swisspra/On_Board"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Rust (for dependencies)", "Bash (for setup scripts)", "JSON (for configuration)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent coordination
-- shared memory
-- MCP server
-- agent handoffs
-- local-first
-source: https://github.com/swisspra/On_Board
+deployment_complexity: "Medium"
+tags: ["multi-agent coordination", "shared memory", "MCP server", "agent handoffs", "local-first"]
+source: "https://github.com/swisspra/On_Board"
 stars: 2
-language: Python
-last_updated: '2026-08-01T13:07:39Z'
-discovered_at: '2026-08-01T13:16:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T13:07:39Z"
+discovered_at: "2026-08-01T13:16:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

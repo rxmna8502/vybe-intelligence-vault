@@ -1,31 +1,19 @@
 ---
-title: nixrajput/mcp-vitest
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Vitest
-- Node.js
-- MCP SDK v1
-- MCP SDK v2
-- '@cfworker/json-schema'
-- Biome
+title: "nixrajput/mcp-vitest"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Vitest", "Node.js", "MCP SDK v1", "MCP SDK v2", "@cfworker/json-schema", "Biome"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP
-- testing
-- Vitest
-- TypeScript
-- SDK
-source: https://github.com/nixrajput/mcp-vitest
+deployment_complexity: "Low"
+tags: ["MCP", "testing", "Vitest", "TypeScript", "SDK"]
+source: "https://github.com/nixrajput/mcp-vitest"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-07T12:51:09Z'
-discovered_at: '2026-08-07T13:02:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T12:51:09Z"
+discovered_at: "2026-08-07T13:02:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: qf-studio/pilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Claude Code CLI
-- Telegram Bot API
-- GitHub API
-- Linear/Jira/Asana APIs
-- SQLite
-- OpenAI API (optional)
-- Anthropic API
-- Bedrock/Vertex AI (optional)
+title: "qf-studio/pilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Claude Code CLI", "Telegram Bot API", "GitHub API", "Linear/Jira/Asana APIs", "SQLite", "OpenAI API (optional)", "Anthropic API", "Bedrock/Vertex AI (optional)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous developer
-- AI agent
-- CI/CD automation
-- issue resolution
-- multi-platform integration
-source: https://github.com/qf-studio/pilot
+deployment_complexity: "Medium"
+tags: ["autonomous developer", "AI agent", "CI/CD automation", "issue resolution", "multi-platform integration"]
+source: "https://github.com/qf-studio/pilot"
 stars: 664
-language: Go
-last_updated: '2026-09-03T15:30:36Z'
-discovered_at: '2026-09-03T15:36:54Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T15:30:36Z"
+discovered_at: "2026-09-03T15:36:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

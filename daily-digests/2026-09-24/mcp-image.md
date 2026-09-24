@@ -1,31 +1,19 @@
 ---
-title: shinpr/mcp-image
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Google Gemini API
-- OpenAI API
-- BytePlus ModelArk API
-- Nano Banana models
+title: "shinpr/mcp-image"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Google Gemini API", "OpenAI API", "BytePlus ModelArk API", "Nano Banana models"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- image generation
-- MCP server
-- prompt optimization
-- AI assistants
-- multi-provider support
-source: https://github.com/shinpr/mcp-image
+deployment_complexity: "Medium"
+tags: ["image generation", "MCP server", "prompt optimization", "AI assistants", "multi-provider support"]
+source: "https://github.com/shinpr/mcp-image"
 stars: 145
-language: TypeScript
-last_updated: '2026-08-03T22:08:29Z'
-discovered_at: '2026-08-03T22:09:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T22:08:29Z"
+discovered_at: "2026-08-03T22:09:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

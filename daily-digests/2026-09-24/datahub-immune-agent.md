@@ -1,30 +1,19 @@
 ---
-title: Leanga87/datahub-immune-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- DataHub
-- GraphQL
-- Docker
-- Model Context Protocol (MCP)
-- AI Agents
+title: "Leanga87/datahub-immune-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "DataHub", "GraphQL", "Docker", "Model Context Protocol (MCP)", "AI Agents"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- data lineage
-- data quality
-- autonomous incident management
-- governance tags
-- pipeline safety
-source: https://github.com/Leanga87/datahub-immune-agent
+deployment_complexity: "Medium"
+tags: ["data lineage", "data quality", "autonomous incident management", "governance tags", "pipeline safety"]
+source: "https://github.com/Leanga87/datahub-immune-agent"
 stars: 1
-language: Python
-last_updated: '2026-08-07T22:32:06Z'
-discovered_at: '2026-08-07T22:37:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T22:32:06Z"
+discovered_at: "2026-08-07T22:37:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: iamgadgetman/nola
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- n8n
-- Claude (Anthropic)
-- Discord
-- Netdata
-- Prometheus
-- apcupsd
-- VAPI
-- ElevenLabs
-- LibreNMS
-- Docker
+title: "iamgadgetman/nola"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["n8n", "Claude (Anthropic)", "Discord", "Netdata", "Prometheus", "apcupsd", "VAPI", "ElevenLabs", "LibreNMS", "Docker"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- homelab automation
-- AI monitoring
-- workflow orchestration
-- Discord bot
-- alerting system
-source: https://github.com/iamgadgetman/nola
+deployment_complexity: "Medium"
+tags: ["homelab automation", "AI monitoring", "workflow orchestration", "Discord bot", "alerting system"]
+source: "https://github.com/iamgadgetman/nola"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-11T22:43:32Z'
-discovered_at: '2026-07-11T22:44:47Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-11T22:43:32Z"
+discovered_at: "2026-07-11T22:44:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

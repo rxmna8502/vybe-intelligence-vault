@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-zendesk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- OAuth
-- REST API
+title: "pipeworx-io/mcp-zendesk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "OAuth", "REST API"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Zendesk
-- MCP
-- OAuth
-- AI Integration
-- Data Gateway
-source: https://github.com/pipeworx-io/mcp-zendesk
+deployment_complexity: "Low"
+tags: ["Zendesk", "MCP", "OAuth", "AI Integration", "Data Gateway"]
+source: "https://github.com/pipeworx-io/mcp-zendesk"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:31:53Z'
-discovered_at: '2026-08-04T07:41:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:31:53Z"
+discovered_at: "2026-08-04T07:41:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

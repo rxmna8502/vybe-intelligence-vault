@@ -1,31 +1,19 @@
 ---
-title: ASchlatweiler/grimoire-ue5
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Unreal Engine 5
-- MCP (Model Context Protocol)
-- SQLite
-- TOML
-- JSON
-- TCP/IP
+title: "ASchlatweiler/grimoire-ue5"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Unreal Engine 5", "MCP (Model Context Protocol)", "SQLite", "TOML", "JSON", "TCP/IP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- UE5
-- MCP server
-- Blueprint introspection
-- live project access
-- AI agent integration
-source: https://github.com/ASchlatweiler/grimoire-ue5
+deployment_complexity: "Medium"
+tags: ["UE5", "MCP server", "Blueprint introspection", "live project access", "AI agent integration"]
+source: "https://github.com/ASchlatweiler/grimoire-ue5"
 stars: 0
-language: Python
-last_updated: '2026-08-03T18:50:43Z'
-discovered_at: '2026-08-03T18:52:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T18:50:43Z"
+discovered_at: "2026-08-03T18:52:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

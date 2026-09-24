@@ -1,30 +1,19 @@
 ---
-title: koleeit/plexory-releases
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- GitHub Releases
-- JSON
-- DMG
-- MSI
-- AppImage
-- Auto-updater
+title: "koleeit/plexory-releases"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["GitHub Releases", "JSON", "DMG", "MSI", "AppImage", "Auto-updater"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- Claude Code
-- MCP Server
-- Auto-updater
-- Desktop App
-- Cross-platform
-source: https://github.com/koleeit/plexory-releases
+deployment_complexity: "Low"
+tags: ["Claude Code", "MCP Server", "Auto-updater", "Desktop App", "Cross-platform"]
+source: "https://github.com/koleeit/plexory-releases"
 stars: 0
-language: HTML
-last_updated: '2026-08-01T16:04:31Z'
-discovered_at: '2026-08-01T16:06:50Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-01T16:04:31Z"
+discovered_at: "2026-08-01T16:06:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

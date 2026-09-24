@@ -1,33 +1,19 @@
 ---
-title: Easyman2-cpu/octo-code-trail
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- SQLite
-- Rust
-- Python
-- JavaScript
-- TypeScript
-- Multi-language Parsing
-- Natural Language Processing (NLP)
-- Mermaid.js
-- YAML
+title: "Easyman2-cpu/octo-code-trail"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["SQLite", "Rust", "Python", "JavaScript", "TypeScript", "Multi-language Parsing", "Natural Language Processing (NLP)", "Mermaid.js", "YAML"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- code analysis
-- knowledge graph
-- SQLite
-- multi-language support
-- audit automation
-source: https://github.com/Easyman2-cpu/octo-code-trail
+deployment_complexity: "Medium"
+tags: ["code analysis", "knowledge graph", "SQLite", "multi-language support", "audit automation"]
+source: "https://github.com/Easyman2-cpu/octo-code-trail"
 stars: 1
-language: HTML
-last_updated: '2026-09-03T18:55:57Z'
-discovered_at: '2026-09-03T19:10:58Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-03T18:55:57Z"
+discovered_at: "2026-09-03T19:10:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

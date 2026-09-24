@@ -1,30 +1,19 @@
 ---
-title: berntpopp/clinvar-link
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python 3.12+
-- FastAPI
-- SQLite
-- Model Context Protocol (MCP)
-- Docker
-- GitHub Actions
+title: "berntpopp/clinvar-link"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12+", "FastAPI", "SQLite", "Model Context Protocol (MCP)", "Docker", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- ClinVar
-- variant classification
-- MCP server
-- NCBI data
-- offline indexing
-source: https://github.com/berntpopp/clinvar-link
+deployment_complexity: "Medium"
+tags: ["ClinVar", "variant classification", "MCP server", "NCBI data", "offline indexing"]
+source: "https://github.com/berntpopp/clinvar-link"
 stars: 0
-language: Python
-last_updated: '2026-07-19T13:17:16Z'
-discovered_at: '2026-07-19T13:17:35Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T13:17:16Z"
+discovered_at: "2026-07-19T13:17:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

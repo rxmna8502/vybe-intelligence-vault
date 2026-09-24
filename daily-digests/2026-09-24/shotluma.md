@@ -1,32 +1,19 @@
 ---
-title: realZachi/shotluma
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- React 19
-- TypeScript
-- Vite
-- Tailwind CSS
-- Bun
-- IndexedDB
-- AI SDK
-- shadcn/ui
+title: "realZachi/shotluma"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["React 19", "TypeScript", "Vite", "Tailwind CSS", "Bun", "IndexedDB", "AI SDK", "shadcn/ui"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI-powered design
-- local-first
-- App Store screenshots
-- editable canvas
-- browser-based
-source: https://github.com/realZachi/shotluma
+deployment_complexity: "Low"
+tags: ["AI-powered design", "local-first", "App Store screenshots", "editable canvas", "browser-based"]
+source: "https://github.com/realZachi/shotluma"
 stars: 65
-language: TypeScript
-last_updated: '2026-08-08T19:29:42Z'
-discovered_at: '2026-08-08T19:33:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T19:29:42Z"
+discovered_at: "2026-08-08T19:33:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

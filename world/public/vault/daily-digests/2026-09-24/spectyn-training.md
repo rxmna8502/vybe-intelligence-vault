@@ -1,33 +1,19 @@
 ---
-title: markl-a/spectyn-training
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- SQLite
-- MCP (Model Context Protocol)
-- Unsloth
-- Axolotl
-- LoRA
-- CI/CD (GitHub Actions)
-- JSONL
-- Alpaca dataset format
+title: "markl-a/spectyn-training"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "Unsloth", "Axolotl", "LoRA", "CI/CD (GitHub Actions)", "JSONL", "Alpaca dataset format"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- post-training
-- agentic fine-tuning
-- deterministic evaluation
-- MCP server
-- phantom-mesh
-source: https://github.com/markl-a/spectyn-training
+deployment_complexity: "Medium"
+tags: ["post-training", "agentic fine-tuning", "deterministic evaluation", "MCP server", "phantom-mesh"]
+source: "https://github.com/markl-a/spectyn-training"
 stars: 1
-language: Python
-last_updated: '2026-08-08T16:28:43Z'
-discovered_at: '2026-08-08T16:35:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T16:28:43Z"
+discovered_at: "2026-08-08T16:35:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

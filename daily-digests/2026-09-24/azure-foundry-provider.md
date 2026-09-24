@@ -1,31 +1,19 @@
 ---
-title: ophiosdev/azure-foundry-provider
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Azure AI Foundry
-- Azure OpenAI
-- Node.js
-- Bun
-- AI SDK
-- REST APIs
+title: "ophiosdev/azure-foundry-provider"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Azure AI Foundry", "Azure OpenAI", "Node.js", "Bun", "AI SDK", "REST APIs"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Azure AI
-- RAG
-- Throttling
-- Error Recovery
-- TypeScript SDK
-source: https://github.com/ophiosdev/azure-foundry-provider
+deployment_complexity: "Medium"
+tags: ["Azure AI", "RAG", "Throttling", "Error Recovery", "TypeScript SDK"]
+source: "https://github.com/ophiosdev/azure-foundry-provider"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-07T08:10:41Z'
-discovered_at: '2026-08-07T08:16:08Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T08:10:41Z"
+discovered_at: "2026-08-07T08:16:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

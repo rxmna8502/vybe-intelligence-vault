@@ -1,31 +1,19 @@
 ---
-title: reezex0-ux/hermes-web-ui-msg
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- React
-- Next.js
-- Docker
-- PWA (Progressive Web App)
-- WebSockets
-- GitHub Pages
+title: "reezex0-ux/hermes-web-ui-msg"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Next.js", "Docker", "PWA (Progressive Web App)", "WebSockets", "GitHub Pages"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- self-hosted
-- dashboard
-- frontend
-- PWA
-- Hermes
-source: https://github.com/reezex0-ux/hermes-web-ui-msg
+deployment_complexity: "Medium"
+tags: ["self-hosted", "dashboard", "frontend", "PWA", "Hermes"]
+source: "https://github.com/reezex0-ux/hermes-web-ui-msg"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-02T18:00:05Z'
-discovered_at: '2026-08-02T18:02:19Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T18:00:05Z"
+discovered_at: "2026-08-02T18:02:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

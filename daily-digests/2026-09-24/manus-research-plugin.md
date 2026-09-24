@@ -1,31 +1,19 @@
 ---
-title: iaklopes/manus-research-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Claude Code
-- Bash
-- Manus.im API
-- JSON Schema
-- Markdown
-- Shell Scripting
-- YAML
+title: "iaklopes/manus-research-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "Bash", "Manus.im API", "JSON Schema", "Markdown", "Shell Scripting", "YAML"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- requirements gathering
-- user stories
-- Claude Code plugin
-- Manus.im integration
-- AI-assisted development
-source: https://github.com/iaklopes/manus-research-plugin
+deployment_complexity: "Medium"
+tags: ["requirements gathering", "user stories", "Claude Code plugin", "Manus.im integration", "AI-assisted development"]
+source: "https://github.com/iaklopes/manus-research-plugin"
 stars: 1
-language: Shell
-last_updated: '2026-09-01T22:15:32Z'
-discovered_at: '2026-09-01T22:17:43Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-09-01T22:15:32Z"
+discovered_at: "2026-09-01T22:17:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

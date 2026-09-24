@@ -1,30 +1,19 @@
 ---
-title: carboneio/carbone-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Docker
-- REST API
-- Carbone Cloud API
+title: "carboneio/carbone-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "REST API", "Carbone Cloud API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- document generation
-- MCP server
-- PDF conversion
-- template engine
-- AI automation
-source: https://github.com/carboneio/carbone-mcp
+deployment_complexity: "Medium"
+tags: ["document generation", "MCP server", "PDF conversion", "template engine", "AI automation"]
+source: "https://github.com/carboneio/carbone-mcp"
 stars: 3
-language: TypeScript
-last_updated: '2026-07-16T16:14:57Z'
-discovered_at: '2026-07-16T16:25:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T16:14:57Z"
+discovered_at: "2026-07-16T16:25:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

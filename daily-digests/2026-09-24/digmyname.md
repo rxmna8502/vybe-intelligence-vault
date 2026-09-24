@@ -1,32 +1,19 @@
 ---
-title: seomarlboro/digmyname
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Vite
-- React
-- TypeScript
-- shadcn/ui
-- Tailwind CSS
-- Supabase Edge Functions (Deno)
-- Node.js
-- npm
+title: "seomarlboro/digmyname"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Vite", "React", "TypeScript", "shadcn/ui", "Tailwind CSS", "Supabase Edge Functions (Deno)", "Node.js", "npm"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- domain search
-- MCP server
-- LLM integration
-- registrar pricing
-- availability checker
-source: https://github.com/seomarlboro/digmyname
+deployment_complexity: "Medium"
+tags: ["domain search", "MCP server", "LLM integration", "registrar pricing", "availability checker"]
+source: "https://github.com/seomarlboro/digmyname"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-06T00:00:49Z'
-discovered_at: '2026-08-06T00:02:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T00:00:49Z"
+discovered_at: "2026-08-06T00:02:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

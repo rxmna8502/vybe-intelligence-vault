@@ -1,32 +1,19 @@
 ---
-title: Chrxmaticc/Chrxmaticc-Copliot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Node.js
-- Pollinations AI
-- Groq (Llama 3 8B)
-- Google TTS/STT
-- Spotify Web API
-- pkg (Node.js bundler)
-- JSON (for memory)
+title: "Chrxmaticc/Chrxmaticc-Copliot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Node.js", "Pollinations AI", "Groq (Llama 3 8B)", "Google TTS/STT", "Spotify Web API", "pkg (Node.js bundler)", "JSON (for memory)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- terminal AI
-- voice assistant
-- plugin system
-- multi-AI provider
-- persistent memory
-source: https://github.com/Chrxmaticc/Chrxmaticc-Copliot
+deployment_complexity: "Medium"
+tags: ["terminal AI", "voice assistant", "plugin system", "multi-AI provider", "persistent memory"]
+source: "https://github.com/Chrxmaticc/Chrxmaticc-Copliot"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-14T02:11:14Z'
-discovered_at: '2026-07-14T02:13:44Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-14T02:11:14Z"
+discovered_at: "2026-07-14T02:13:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

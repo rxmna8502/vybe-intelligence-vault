@@ -1,36 +1,19 @@
 ---
-title: VeriTeknik/pluggedin-app
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Next.js
-- PostgreSQL
-- pgvector
-- Redis
-- Docker
-- zvec (RocksDB + HNSW)
-- MCP (Model Context Protocol)
-- OAuth 2.1
-- AES-256-GCM
-- Firejail
-- Bcrypt
+title: "VeriTeknik/pluggedin-app"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Next.js", "PostgreSQL", "pgvector", "Redis", "Docker", "zvec (RocksDB + HNSW)", "MCP (Model Context Protocol)", "OAuth 2.1", "AES-256-GCM", "Firejail", "Bcrypt"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI Content Management
-- Vector Database
-- MCP Integration
-- RAG Engine
-- Self-hosted
-source: https://github.com/VeriTeknik/pluggedin-app
+deployment_complexity: "Medium"
+tags: ["AI Content Management", "Vector Database", "MCP Integration", "RAG Engine", "Self-hosted"]
+source: "https://github.com/VeriTeknik/pluggedin-app"
 stars: 97
-language: TypeScript
-last_updated: '2026-08-01T19:04:02Z'
-discovered_at: '2026-08-01T19:19:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T19:04:02Z"
+discovered_at: "2026-08-01T19:19:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

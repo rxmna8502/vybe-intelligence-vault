@@ -1,33 +1,19 @@
 ---
-title: nirajagarwal/bible-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- SQLite
-- FastMCP
-- FastEmbed
-- NumPy
-- FTS5 (Full-Text Search)
-- BM25 (Ranking)
-- RRF (Reciprocal Rank Fusion)
-- Docker
+title: "nirajagarwal/bible-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "FastMCP", "FastEmbed", "NumPy", "FTS5 (Full-Text Search)", "BM25 (Ranking)", "RRF (Reciprocal Rank Fusion)", "Docker"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Bible data
-- MCP server
-- Semantic search
-- Patristic texts
-- Original language study
-source: https://github.com/nirajagarwal/bible-mcp
+deployment_complexity: "Medium"
+tags: ["Bible data", "MCP server", "Semantic search", "Patristic texts", "Original language study"]
+source: "https://github.com/nirajagarwal/bible-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-03T22:07:25Z'
-discovered_at: '2026-08-03T22:10:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T22:07:25Z"
+discovered_at: "2026-08-03T22:10:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: pedrolucazx/job-search
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Bash
-- Bun
-- LaTeX
-- PyYAML
-- pdflatex
-- pdftotext
+title: "pedrolucazx/job-search"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Bash", "Bun", "LaTeX", "PyYAML", "pdflatex", "pdftotext"]
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- job search automation
-- multi-agent systems
-- ATS-friendly CV generation
-- YAML profile-driven
-- local-first workflow
-source: https://github.com/pedrolucazx/job-search
+deployment_complexity: "Medium"
+tags: ["job search automation", "multi-agent systems", "ATS-friendly CV generation", "YAML profile-driven", "local-first workflow"]
+source: "https://github.com/pedrolucazx/job-search"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-13T10:23:57Z'
-discovered_at: '2026-07-13T10:24:07Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T10:23:57Z"
+discovered_at: "2026-07-13T10:24:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

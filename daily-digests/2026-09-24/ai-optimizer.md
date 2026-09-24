@@ -1,46 +1,19 @@
 ---
-title: oracle/ai-optimizer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Streamlit
-- FastAPI
-- Uvicorn
-- LangChain
-- LangGraph
-- LiteLLM
-- AgentSpec
-- Model Context Protocol (MCP)
-- Oracle AI Database VectorSearch
-- SQLcl
-- OCI
-- OCI GenAI
-- Docker
-- Kubernetes
-- Helm
-- OpenTofu
-- OpenTelemetry
-- SigNoz
-- FAISS
-- Docling
-- Giskard
+title: "oracle/ai-optimizer"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Streamlit", "FastAPI", "Uvicorn", "LangChain", "LangGraph", "LiteLLM", "AgentSpec", "Model Context Protocol (MCP)", "Oracle AI Database VectorSearch", "SQLcl", "OCI", "OCI GenAI", "Docker", "Kubernetes", "Helm", "OpenTofu", "OpenTelemetry", "SigNoz", "FAISS", "Docling", "Giskard"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- NL2SQL
-- LLM Orchestration
-- Vector Database
-- AI Experimentation
-source: https://github.com/oracle/ai-optimizer
+deployment_complexity: "Medium"
+tags: ["RAG", "NL2SQL", "LLM Orchestration", "Vector Database", "AI Experimentation"]
+source: "https://github.com/oracle/ai-optimizer"
 stars: 97
-language: Python
-last_updated: '2026-08-10T15:00:12Z'
-discovered_at: '2026-08-10T15:04:52Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T15:00:12Z"
+discovered_at: "2026-08-10T15:04:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: theYahia/jivosite-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- JivoSite API
+title: "theYahia/jivosite-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "JivoSite API"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP server
-- live chat integration
-- customer interaction
-- JivoSite API
-- AI assistant tools
-source: https://github.com/theYahia/jivosite-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "live chat integration", "customer interaction", "JivoSite API", "AI assistant tools"]
+source: "https://github.com/theYahia/jivosite-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T18:46:14Z'
-discovered_at: '2026-09-02T19:14:00Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T18:46:14Z"
+discovered_at: "2026-09-02T19:14:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

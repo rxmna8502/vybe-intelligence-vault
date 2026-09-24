@@ -1,31 +1,19 @@
 ---
-title: davidxyuan/qwen-opspilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Qwen API
-- PowerShell
-- Flask (implied by web service)
-- Alibaba Cloud Function Compute
-- HMAC
-- Markdown
+title: "davidxyuan/qwen-opspilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Qwen API", "PowerShell", "Flask (implied by web service)", "Alibaba Cloud Function Compute", "HMAC", "Markdown"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autopilot agent
-- evidence-first
-- safety-first
-- simulated remediation
-- deterministic verification
-source: https://github.com/davidxyuan/qwen-opspilot
+deployment_complexity: "Medium"
+tags: ["autopilot agent", "evidence-first", "safety-first", "simulated remediation", "deterministic verification"]
+source: "https://github.com/davidxyuan/qwen-opspilot"
 stars: 0
-language: Python
-last_updated: '2026-07-20T03:45:34Z'
-discovered_at: '2026-07-20T03:52:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T03:45:34Z"
+discovered_at: "2026-07-20T03:52:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

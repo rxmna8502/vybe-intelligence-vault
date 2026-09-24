@@ -1,33 +1,19 @@
 ---
-title: Gyxer513/termloop
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- aiogram
-- SQLAlchemy
-- Alembic
-- APScheduler
-- SQLite
-- Docker
-- MCP (Model Context Protocol)
-- Telegram Bot API
+title: "Gyxer513/termloop"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "aiogram", "SQLAlchemy", "Alembic", "APScheduler", "SQLite", "Docker", "MCP (Model Context Protocol)", "Telegram Bot API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- spaced repetition
-- vocabulary learning
-- MCP server
-- Telegram bot
-- self-assessment
-source: https://github.com/Gyxer513/termloop
+deployment_complexity: "Medium"
+tags: ["spaced repetition", "vocabulary learning", "MCP server", "Telegram bot", "self-assessment"]
+source: "https://github.com/Gyxer513/termloop"
 stars: 1
-language: Python
-last_updated: '2026-07-20T20:57:38Z'
-discovered_at: '2026-07-20T21:11:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T20:57:38Z"
+discovered_at: "2026-07-20T21:11:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

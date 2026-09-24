@@ -1,34 +1,19 @@
 ---
-title: wesleysimplicio/simplicio-sprint
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- Git
-- Jira API
-- Azure DevOps API
-- GitHub API
-- Playwright
-- PyPI
-- Keyring
-- GitHub Actions
-- MCP (Model Context Protocol)
+title: "wesleysimplicio/simplicio-sprint"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Git", "Jira API", "Azure DevOps API", "GitHub API", "Playwright", "PyPI", "Keyring", "GitHub Actions", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- sprint automation
-- pull request generation
-- evidence collection
-- multi-agent systems
-source: https://github.com/wesleysimplicio/simplicio-sprint
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "sprint automation", "pull request generation", "evidence collection", "multi-agent systems"]
+source: "https://github.com/wesleysimplicio/simplicio-sprint"
 stars: 1
-language: Python
-last_updated: '2026-08-10T16:04:53Z'
-discovered_at: '2026-08-10T16:06:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T16:04:53Z"
+discovered_at: "2026-08-10T16:06:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: chew-z/itunes.vim
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- SQLite FTS5
-- JXA (JavaScript for Automation)
-- MCP Protocol
-- Apple Music API
-- Zap (logging)
+title: "chew-z/itunes.vim"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "SQLite FTS5", "JXA (JavaScript for Automation)", "MCP Protocol", "Apple Music API", "Zap (logging)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Apple Music
-- MCP Server
-- CLI Tool
-- SQLite FTS5
-- Audio Integration
-source: https://github.com/chew-z/itunes.vim
+deployment_complexity: "Medium"
+tags: ["Apple Music", "MCP Server", "CLI Tool", "SQLite FTS5", "Audio Integration"]
+source: "https://github.com/chew-z/itunes.vim"
 stars: 10
-language: Go
-last_updated: '2026-07-12T15:52:15Z'
-discovered_at: '2026-07-12T15:58:17Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-12T15:52:15Z"
+discovered_at: "2026-07-12T15:58:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

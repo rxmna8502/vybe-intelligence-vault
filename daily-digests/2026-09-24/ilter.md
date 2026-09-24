@@ -1,30 +1,19 @@
 ---
-title: ilter-ai/ilter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Redis Stack
-- Prometheus
-- OpenTelemetry
-- MCP (Model Context Protocol)
-- Docker (for containerization)
+title: "ilter-ai/ilter"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Redis Stack", "Prometheus", "OpenTelemetry", "MCP (Model Context Protocol)", "Docker (for containerization)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI Gateway
-- Self-hosted
-- Cost Control
-- MCP Integration
-- Observability
-source: https://github.com/ilter-ai/ilter
+deployment_complexity: "Low"
+tags: ["AI Gateway", "Self-hosted", "Cost Control", "MCP Integration", "Observability"]
+source: "https://github.com/ilter-ai/ilter"
 stars: 10
-language: Go
-last_updated: '2026-08-04T15:25:56Z'
-discovered_at: '2026-08-04T15:36:23Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T15:25:56Z"
+discovered_at: "2026-08-04T15:36:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

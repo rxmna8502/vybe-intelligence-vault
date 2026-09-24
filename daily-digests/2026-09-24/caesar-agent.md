@@ -1,35 +1,19 @@
 ---
-title: jasonzliang/caesar-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- Next.js
-- OpenAI API
-- Anthropic API
-- Google API
-- ChromaDB
-- PyGraphviz
-- LLM APIs (GPT, Claude, Gemini)
-- YAML
-- JSON
+title: "jasonzliang/caesar-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Next.js", "OpenAI API", "Anthropic API", "Google API", "ChromaDB", "PyGraphviz", "LLM APIs (GPT, Claude, Gemini)", "YAML", "JSON"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- autonomous research agent
-- knowledge graph exploration
-- adversarial synthesis
-- deep web traversal
-- creative answer generation
-source: https://github.com/jasonzliang/caesar-agent
+deployment_complexity: "Medium"
+tags: ["autonomous research agent", "knowledge graph exploration", "adversarial synthesis", "deep web traversal", "creative answer generation"]
+source: "https://github.com/jasonzliang/caesar-agent"
 stars: 1
-language: Python
-last_updated: '2026-08-07T09:44:42Z'
-discovered_at: '2026-08-07T10:03:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T09:44:42Z"
+discovered_at: "2026-08-07T10:03:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

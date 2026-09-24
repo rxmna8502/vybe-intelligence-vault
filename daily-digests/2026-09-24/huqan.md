@@ -1,32 +1,19 @@
 ---
-title: ali-ulu/huqan
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Node.js
-- SQLite
-- Better-SQLite3
-- REST API
-- MCP (Model Context Protocol)
-- CLI
-- Mermaid.js (for diagrams)
+title: "ali-ulu/huqan"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "SQLite", "Better-SQLite3", "REST API", "MCP (Model Context Protocol)", "CLI", "Mermaid.js (for diagrams)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- trust layer
-- verification
-- auditability
-- local-first
-- deterministic
-source: https://github.com/ali-ulu/huqan
+deployment_complexity: "Medium"
+tags: ["trust layer", "verification", "auditability", "local-first", "deterministic"]
+source: "https://github.com/ali-ulu/huqan"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-01T20:46:19Z'
-discovered_at: '2026-08-01T20:51:10Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T20:46:19Z"
+discovered_at: "2026-08-01T20:51:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

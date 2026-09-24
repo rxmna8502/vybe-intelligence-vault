@@ -1,32 +1,19 @@
 ---
-title: erhangundogan/videre
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Rust
-- SQLite
-- BLAKE3
-- SigLIP
-- dHash
-- EXIF
-- TOML
-- HTML/CSS/JS
+title: "erhangundogan/videre"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "SQLite", "BLAKE3", "SigLIP", "dHash", "EXIF", "TOML", "HTML/CSS/JS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- media management
-- deduplication
-- semantic search
-- face detection
-- local-first
-source: https://github.com/erhangundogan/videre
+deployment_complexity: "Medium"
+tags: ["media management", "deduplication", "semantic search", "face detection", "local-first"]
+source: "https://github.com/erhangundogan/videre"
 stars: 1
-language: Rust
-last_updated: '2026-07-16T14:58:45Z'
-discovered_at: '2026-07-16T15:00:19Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-16T14:58:45Z"
+discovered_at: "2026-07-16T15:00:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

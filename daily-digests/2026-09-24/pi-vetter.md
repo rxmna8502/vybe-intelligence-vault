@@ -1,34 +1,19 @@
 ---
-title: jesset/pi-vetter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- npm
-- Sigstore
-- OSV.dev
-- VirusTotal API
-- Socket.dev API
-- Tar-stream
-- '@sigstore/bundle'
-- '@sigstore/verify'
+title: "jesset/pi-vetter"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "npm", "Sigstore", "OSV.dev", "VirusTotal API", "Socket.dev API", "Tar-stream", "@sigstore/bundle", "@sigstore/verify"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- security vetting
-- supply chain security
-- package evaluation
-- evidence-driven
-- Pi extension
-source: https://github.com/jesset/pi-vetter
+deployment_complexity: "Medium"
+tags: ["security vetting", "supply chain security", "package evaluation", "evidence-driven", "Pi extension"]
+source: "https://github.com/jesset/pi-vetter"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T15:49:56Z'
-discovered_at: '2026-09-01T15:52:52Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T15:49:56Z"
+discovered_at: "2026-09-01T15:52:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: winkjs/composer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Node.js
-- MQTT
-- QuestDB
-- Grafana
-- Kalman Filter
-- Page-Hinkley Test
-- Western Electric Run Rules
+title: "winkjs/composer"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "MQTT", "QuestDB", "Grafana", "Kalman Filter", "Page-Hinkley Test", "Western Electric Run Rules"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- streaming analytics
-- IIoT
-- anomaly detection
-- composable pipelines
-- edge-to-cloud
-source: https://github.com/winkjs/composer
+deployment_complexity: "Medium"
+tags: ["streaming analytics", "IIoT", "anomaly detection", "composable pipelines", "edge-to-cloud"]
+source: "https://github.com/winkjs/composer"
 stars: 16
-language: JavaScript
-last_updated: '2026-08-08T05:36:30Z'
-discovered_at: '2026-08-08T05:46:04Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T05:36:30Z"
+discovered_at: "2026-08-08T05:46:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

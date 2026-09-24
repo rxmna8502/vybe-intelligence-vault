@@ -1,29 +1,19 @@
 ---
-title: KieranCoppins/Asset-Dump
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Unreal Engine 5.7
-- C++
-- UExporter
-- FExportObjectInnerContext
-- Commandlet System
+title: "KieranCoppins/Asset-Dump"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Unreal Engine 5.7", "C++", "UExporter", "FExportObjectInnerContext", "Commandlet System"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Unreal Engine
-- Asset Inspection
-- Blueprint Analysis
-- Commandlet
-- Data Export
-source: https://github.com/KieranCoppins/Asset-Dump
+deployment_complexity: "Medium"
+tags: ["Unreal Engine", "Asset Inspection", "Blueprint Analysis", "Commandlet", "Data Export"]
+source: "https://github.com/KieranCoppins/Asset-Dump"
 stars: 0
-language: C++
-last_updated: '2026-08-02T10:36:30Z'
-discovered_at: '2026-08-02T10:41:27Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-08-02T10:36:30Z"
+discovered_at: "2026-08-02T10:41:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

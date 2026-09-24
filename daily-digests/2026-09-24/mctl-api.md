@@ -1,40 +1,19 @@
 ---
-title: mctlhq/mctl-api
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- chi
-- mcp-go
-- PostgreSQL
-- pgx
-- Kubernetes
-- client-go
-- httprate
-- GitHub OAuth
-- Dex/OIDC
-- Argo Workflows
-- ArgoCD
-- Loki
-- Helm
-- Docker
-- golangci-lint
+title: "mctlhq/mctl-api"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "chi", "mcp-go", "PostgreSQL", "pgx", "Kubernetes", "client-go", "httprate", "GitHub OAuth", "Dex/OIDC", "Argo Workflows", "ArgoCD", "Loki", "Helm", "Docker", "golangci-lint"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- control plane
-- MCP server
-- GitOps
-- Kubernetes
-- AI assistant integration
-source: https://github.com/mctlhq/mctl-api
+deployment_complexity: "High"
+tags: ["control plane", "MCP server", "GitOps", "Kubernetes", "AI assistant integration"]
+source: "https://github.com/mctlhq/mctl-api"
 stars: 0
-language: Go
-last_updated: '2026-08-07T15:55:36Z'
-discovered_at: '2026-08-07T16:02:33Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T15:55:36Z"
+discovered_at: "2026-08-07T16:02:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,40 +1,19 @@
 ---
-title: yaniv120892/my-expenses-website
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Next.js 15
-- React 19
-- TypeScript
-- MUI 7
-- TanStack Query 5
-- PostgreSQL
-- Prisma
-- JWT (jose)
-- Upstash Redis
-- Mastra AI Agent
-- OpenAI/Gemini
-- FastText
-- pino
-- Vercel
-- Better Stack
-- Telegram Bot API
+title: "yaniv120892/my-expenses-website"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js 15", "React 19", "TypeScript", "MUI 7", "TanStack Query 5", "PostgreSQL", "Prisma", "JWT (jose)", "Upstash Redis", "Mastra AI Agent", "OpenAI/Gemini", "FastText", "pino", "Vercel", "Better Stack", "Telegram Bot API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- expense management
-- AI categorization
-- transaction tracking
-- Next.js full-stack
-- observability
-source: https://github.com/yaniv120892/my-expenses-website
+deployment_complexity: "Medium"
+tags: ["expense management", "AI categorization", "transaction tracking", "Next.js full-stack", "observability"]
+source: "https://github.com/yaniv120892/my-expenses-website"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T15:45:13Z'
-discovered_at: '2026-09-01T15:52:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T15:45:13Z"
+discovered_at: "2026-09-01T15:52:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

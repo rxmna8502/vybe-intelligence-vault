@@ -1,29 +1,19 @@
 ---
-title: wyre-technology/atera-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- GitHub Packages
-- Docker
+title: "wyre-technology/atera-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "GitHub Packages", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- RMM integration
-- AI tooling
-- decision tree navigation
-- Atera API
-source: https://github.com/wyre-technology/atera-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "RMM integration", "AI tooling", "decision tree navigation", "Atera API"]
+source: "https://github.com/wyre-technology/atera-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T17:01:13Z'
-discovered_at: '2026-08-10T17:06:00Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T17:01:13Z"
+discovered_at: "2026-08-10T17:06:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

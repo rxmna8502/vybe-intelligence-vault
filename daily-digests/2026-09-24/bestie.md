@@ -1,33 +1,19 @@
 ---
-title: sirquy/bestie
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- OpenAI-compatible LLM providers
-- Telegram Bot API
-- Zalo API
-- CLI frameworks
-- MCP (Model Context Protocol)
-- Jest (testing)
+title: "sirquy/bestie"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "OpenAI-compatible LLM providers", "Telegram Bot API", "Zalo API", "CLI frameworks", "MCP (Model Context Protocol)", "Jest (testing)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-hosted
-- AI companion
-- local memory
-- privacy-focused
-- multi-channel
-source: https://github.com/sirquy/bestie
+deployment_complexity: "Medium"
+tags: ["self-hosted", "AI companion", "local memory", "privacy-focused", "multi-channel"]
+source: "https://github.com/sirquy/bestie"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-14T16:04:40Z'
-discovered_at: '2026-07-14T16:14:05Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T16:04:40Z"
+discovered_at: "2026-07-14T16:14:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

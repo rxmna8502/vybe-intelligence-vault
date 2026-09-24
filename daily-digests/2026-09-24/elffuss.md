@@ -1,30 +1,19 @@
 ---
-title: KikoCis/elffuss
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript (ES Modules)
-- WebGPU
-- BM25-lite + IDF (context management)
-- WebGL (GL_POINTS, blending)
-- SSE (Streaming)
-- Apache License 2.0
+title: "KikoCis/elffuss"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript (ES Modules)", "WebGPU", "BM25-lite + IDF (context management)", "WebGL (GL_POINTS, blending)", "SSE (Streaming)", "Apache License 2.0"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- browser-based agents
-- agent runtime
-- WebGPU
-- context management
-- no-build deployment
-source: https://github.com/KikoCis/elffuss
+deployment_complexity: "Low"
+tags: ["browser-based agents", "agent runtime", "WebGPU", "context management", "no-build deployment"]
+source: "https://github.com/KikoCis/elffuss"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T06:16:36Z'
-discovered_at: '2026-08-01T06:29:06Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T06:16:36Z"
+discovered_at: "2026-08-01T06:29:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

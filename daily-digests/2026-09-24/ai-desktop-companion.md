@@ -1,32 +1,19 @@
 ---
-title: jake12-cpu/AI-Desktop-Companion
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- PySide6
-- DeepSeek API
-- OpenAI SDK
-- Prompt Engineering
-- Agent Memory Systems
-- JSON
-- Git
+title: "jake12-cpu/AI-Desktop-Companion"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "PySide6", "DeepSeek API", "OpenAI SDK", "Prompt Engineering", "Agent Memory Systems", "JSON", "Git"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI Companion
-- Long-term Memory
-- Desktop Application
-- LLM Integration
-- Agent System
-source: https://github.com/jake12-cpu/AI-Desktop-Companion
+deployment_complexity: "Medium"
+tags: ["AI Companion", "Long-term Memory", "Desktop Application", "LLM Integration", "Agent System"]
+source: "https://github.com/jake12-cpu/AI-Desktop-Companion"
 stars: 0
-language: Python
-last_updated: '2026-07-15T10:47:54Z'
-discovered_at: '2026-07-15T10:48:24Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T10:47:54Z"
+discovered_at: "2026-07-15T10:48:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

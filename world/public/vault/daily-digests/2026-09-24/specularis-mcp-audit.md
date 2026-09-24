@@ -1,29 +1,19 @@
 ---
-title: AdevAarons/specularis-mcp-audit
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Node.js
-- MCP (Model Context Protocol)
-- HTTP/Streamable Transport
-- JavaScript
-- PDF Generation
+title: "AdevAarons/specularis-mcp-audit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "MCP (Model Context Protocol)", "HTTP/Streamable Transport", "JavaScript", "PDF Generation"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI visibility audit
-- MCP server
-- GEO/AEO
-- SEO for AI
-- content discoverability
-source: https://github.com/AdevAarons/specularis-mcp-audit
+deployment_complexity: "Low"
+tags: ["AI visibility audit", "MCP server", "GEO/AEO", "SEO for AI", "content discoverability"]
+source: "https://github.com/AdevAarons/specularis-mcp-audit"
 stars: 0
-language: HTML
-last_updated: '2026-08-03T22:00:36Z'
-discovered_at: '2026-08-03T22:10:26Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-03T22:00:36Z"
+discovered_at: "2026-08-03T22:10:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

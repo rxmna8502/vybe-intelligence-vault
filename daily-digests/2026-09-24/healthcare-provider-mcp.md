@@ -1,30 +1,19 @@
 ---
-title: xcircl/healthcare-provider-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- NPM
-- Claude Code
+title: "xcircl/healthcare-provider-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "NPM", "Claude Code"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- healthcare data
-- provider verification
-- MCP server
-- TypeScript SDK
-- compliance signals
-source: https://github.com/xcircl/healthcare-provider-mcp
+deployment_complexity: "Low"
+tags: ["healthcare data", "provider verification", "MCP server", "TypeScript SDK", "compliance signals"]
+source: "https://github.com/xcircl/healthcare-provider-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-14T07:58:20Z'
-discovered_at: '2026-07-14T08:01:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T07:58:20Z"
+discovered_at: "2026-07-14T08:01:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

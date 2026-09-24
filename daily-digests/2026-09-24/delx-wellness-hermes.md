@@ -1,30 +1,19 @@
 ---
-title: davidmosiah/delx-wellness-hermes
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Hermes Agent
-- NPM
-- Python (for cron assets)
+title: "davidmosiah/delx-wellness-hermes"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Hermes Agent", "NPM", "Python (for cron assets)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- wellness
-- local-first
-- wearable integrations
-- Hermes agent
-- MCP connectors
-source: https://github.com/davidmosiah/delx-wellness-hermes
+deployment_complexity: "Medium"
+tags: ["wellness", "local-first", "wearable integrations", "Hermes agent", "MCP connectors"]
+source: "https://github.com/davidmosiah/delx-wellness-hermes"
 stars: 17
-language: TypeScript
-last_updated: '2026-08-04T17:43:13Z'
-discovered_at: '2026-08-04T17:51:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T17:43:13Z"
+discovered_at: "2026-08-04T17:51:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

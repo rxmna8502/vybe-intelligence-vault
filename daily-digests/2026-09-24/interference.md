@@ -1,31 +1,19 @@
 ---
-title: ricciviero/interference
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Bun
-- Vercel AI SDK
-- zod
-- Ink 7.1
-- React 19.2
-- Agentic SWE (behavior framework)
+title: "ricciviero/interference"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Vercel AI SDK", "zod", "Ink 7.1", "React 19.2", "Agentic SWE (behavior framework)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- terminal agent
-- coding assistant
-- permissioned AI
-- multi-provider
-- TUI
-source: https://github.com/ricciviero/interference
+deployment_complexity: "Medium"
+tags: ["terminal agent", "coding assistant", "permissioned AI", "multi-provider", "TUI"]
+source: "https://github.com/ricciviero/interference"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-16T16:24:59Z'
-discovered_at: '2026-07-16T16:25:29Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T16:24:59Z"
+discovered_at: "2026-07-16T16:25:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

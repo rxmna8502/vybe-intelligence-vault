@@ -1,32 +1,19 @@
 ---
-title: soccerholicz/ai-native-engineering-playbook
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- AI Coding Agents
-- TypeScript
-- Next.js
-- Monorepo Architecture
-- CI/CD Pipelines
-- Testing Frameworks
-- Adversarial Review Panels
-- Model Evaluation (A/B Testing)
+title: "soccerholicz/ai-native-engineering-playbook"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["AI Coding Agents", "TypeScript", "Next.js", "Monorepo Architecture", "CI/CD Pipelines", "Testing Frameworks", "Adversarial Review Panels", "Model Evaluation (A/B Testing)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-native engineering
-- coding agents
-- production software
-- verification practices
-- adversarial review
-source: https://github.com/soccerholicz/ai-native-engineering-playbook
+deployment_complexity: "Medium"
+tags: ["AI-native engineering", "coding agents", "production software", "verification practices", "adversarial review"]
+source: "https://github.com/soccerholicz/ai-native-engineering-playbook"
 stars: 0
-language: None
-last_updated: '2026-08-07T06:17:00Z'
-discovered_at: '2026-08-07T08:17:20Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T06:17:00Z"
+discovered_at: "2026-08-07T08:17:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

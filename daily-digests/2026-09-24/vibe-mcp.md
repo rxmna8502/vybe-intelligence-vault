@@ -1,30 +1,19 @@
 ---
-title: VibeTechnologies/vibe-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Chrome DevTools Protocol (CDP)
-- WebSocket
-- NPM
+title: "VibeTechnologies/vibe-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Chrome DevTools Protocol (CDP)", "WebSocket", "NPM"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- browser automation
-- MCP server
-- AI agent control
-- Chrome DevTools
-- multi-agent
-source: https://github.com/VibeTechnologies/vibe-mcp
+deployment_complexity: "Medium"
+tags: ["browser automation", "MCP server", "AI agent control", "Chrome DevTools", "multi-agent"]
+source: "https://github.com/VibeTechnologies/vibe-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-08T03:06:41Z'
-discovered_at: '2026-08-08T03:28:11Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T03:06:41Z"
+discovered_at: "2026-08-08T03:28:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

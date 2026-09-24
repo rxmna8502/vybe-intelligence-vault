@@ -1,32 +1,19 @@
 ---
-title: mcpc-tech/mcpc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- OpenTelemetry
-- JSR
-- npm
-- Deno
-- Node.js
-- Agent Skills specification
+title: "mcpc-tech/mcpc"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "OpenTelemetry", "JSR", "npm", "Deno", "Node.js", "Agent Skills specification"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- agentic systems
-- multi-agent orchestration
-- tool composition
-- AI SDK integration
-source: https://github.com/mcpc-tech/mcpc
+deployment_complexity: "Medium"
+tags: ["MCP", "agentic systems", "multi-agent orchestration", "tool composition", "AI SDK integration"]
+source: "https://github.com/mcpc-tech/mcpc"
 stars: 100
-language: TypeScript
-last_updated: '2026-08-04T04:10:53Z'
-discovered_at: '2026-08-04T04:14:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T04:10:53Z"
+discovered_at: "2026-08-04T04:14:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

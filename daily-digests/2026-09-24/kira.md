@@ -1,31 +1,19 @@
 ---
-title: aibenyclaude-coder/Kira
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Markdown
-- Docker
-- GitHub Actions
-- NPM
+title: "aibenyclaude-coder/Kira"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Markdown", "Docker", "GitHub Actions", "NPM"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- failure memory
-- AI agent optimization
-- MCP server
-- scar recording
-- telemetry privacy
-source: https://github.com/aibenyclaude-coder/Kira
+deployment_complexity: "Low"
+tags: ["failure memory", "AI agent optimization", "MCP server", "scar recording", "telemetry privacy"]
+source: "https://github.com/aibenyclaude-coder/Kira"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-13T23:32:54Z'
-discovered_at: '2026-07-13T23:53:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-13T23:32:54Z"
+discovered_at: "2026-07-13T23:53:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

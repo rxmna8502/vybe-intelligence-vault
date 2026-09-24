@@ -1,33 +1,19 @@
 ---
-title: GiulioDER/RE-call
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- PostgreSQL
-- pgvector
-- LangChain
-- LlamaIndex
-- MCP (Model Context Protocol)
-- Hybrid Retrieval
-- RRF (Reciprocal Rank Fusion)
-- CI/CD (GitHub Actions)
+title: "GiulioDER/RE-call"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "PostgreSQL", "pgvector", "LangChain", "LlamaIndex", "MCP (Model Context Protocol)", "Hybrid Retrieval", "RRF (Reciprocal Rank Fusion)", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory layer
-- trustworthy retrieval
-- abstention
-- supersession tracking
-- postgresql
-source: https://github.com/GiulioDER/RE-call
+deployment_complexity: "Medium"
+tags: ["memory layer", "trustworthy retrieval", "abstention", "supersession tracking", "postgresql"]
+source: "https://github.com/GiulioDER/RE-call"
 stars: 2
-language: Python
-last_updated: '2026-08-07T10:26:54Z'
-discovered_at: '2026-08-07T11:06:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T10:26:54Z"
+discovered_at: "2026-08-07T11:06:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

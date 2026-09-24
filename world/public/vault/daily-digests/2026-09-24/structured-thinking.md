@@ -1,28 +1,19 @@
 ---
-title: junit/structured-thinking
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- Structured Analysis
-- Evidence Modeling
-- Documentation Framework
+title: "junit/structured-thinking"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Structured Analysis", "Evidence Modeling", "Documentation Framework"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- structured thinking
-- evidence preservation
-- incident analysis
-- decision analysis
-- AI agent communication
-source: https://github.com/junit/structured-thinking
+deployment_complexity: "Medium"
+tags: ["structured thinking", "evidence preservation", "incident analysis", "decision analysis", "AI agent communication"]
+source: "https://github.com/junit/structured-thinking"
 stars: 2
-language: Python
-last_updated: '2026-07-13T06:15:28Z'
-discovered_at: '2026-07-13T06:15:32Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T06:15:28Z"
+discovered_at: "2026-07-13T06:15:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

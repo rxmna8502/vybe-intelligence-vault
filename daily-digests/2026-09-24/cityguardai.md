@@ -1,34 +1,19 @@
 ---
-title: rudra496/cityguardai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Next.js 14
-- React 18
-- TypeScript
-- Tailwind CSS
-- Google Cloud Agent Builder
-- Elastic MCP
-- MongoDB MCP
-- GitLab MCP
-- Node.js
-- GitHub Actions
+title: "rudra496/cityguardai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js 14", "React 18", "TypeScript", "Tailwind CSS", "Google Cloud Agent Builder", "Elastic MCP", "MongoDB MCP", "GitLab MCP", "Node.js", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- autonomous agent
-- urban risk monitoring
-- real-time incident response
-- multi-agent system
-- static deployment
-source: https://github.com/rudra496/cityguardai
+deployment_complexity: "Low"
+tags: ["autonomous agent", "urban risk monitoring", "real-time incident response", "multi-agent system", "static deployment"]
+source: "https://github.com/rudra496/cityguardai"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-05T18:18:05Z'
-discovered_at: '2026-08-05T18:24:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T18:18:05Z"
+discovered_at: "2026-08-05T18:24:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

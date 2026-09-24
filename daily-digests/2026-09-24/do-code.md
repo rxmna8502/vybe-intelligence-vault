@@ -1,31 +1,19 @@
 ---
-title: tree201/do-code
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- Git
-- PostgreSQL
-- MinIO
-- Docker
+title: "tree201/do-code"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "CLI", "Git", "PostgreSQL", "MinIO", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- local-first
-- code modification
-- AI-assisted development
-- terminal-based
-source: https://github.com/tree201/do-code
+deployment_complexity: "Medium"
+tags: ["coding agent", "local-first", "code modification", "AI-assisted development", "terminal-based"]
+source: "https://github.com/tree201/do-code"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T08:42:18Z'
-discovered_at: '2026-08-08T08:42:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T08:42:18Z"
+discovered_at: "2026-08-08T08:42:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

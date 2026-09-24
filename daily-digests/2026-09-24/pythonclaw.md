@@ -1,39 +1,19 @@
 ---
-title: ericwang915/PythonClaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- Markdown
-- BM25
-- Dense Embeddings
-- RRF Fusion
-- LLM Re-ranking
-- Deepgram (STT)
-- Telegram API
-- Discord API
-- WhatsApp API
-- Cron Scheduling
-- PID Management
-- Tavily API
-- PyPI
+title: "ericwang915/PythonClaw"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Markdown", "BM25", "Dense Embeddings", "RRF Fusion", "LLM Re-ranking", "Deepgram (STT)", "Telegram API", "Discord API", "WhatsApp API", "Cron Scheduling", "PID Management", "Tavily API", "PyPI"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- multi-modal
-- skill marketplace
-- context management
-- LLM abstraction
-source: https://github.com/ericwang915/PythonClaw
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "multi-modal", "skill marketplace", "context management", "LLM abstraction"]
+source: "https://github.com/ericwang915/PythonClaw"
 stars: 38
-language: Python
-last_updated: '2026-08-08T13:42:58Z'
-discovered_at: '2026-08-08T13:48:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T13:42:58Z"
+discovered_at: "2026-08-08T13:48:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: weareikko/code-review
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- GitLab CI
-- GitHub Actions
-- LLM Providers (Anthropic, OpenRouter, Ollama, etc.)
-- NPM
+title: "weareikko/code-review"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "GitLab CI", "GitHub Actions", "LLM Providers (Anthropic, OpenRouter, Ollama, etc.)", "NPM"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- code review
-- automation
-- CI/CD
-- LLM integration
-- merge request
-source: https://github.com/weareikko/code-review
+deployment_complexity: "Medium"
+tags: ["code review", "automation", "CI/CD", "LLM integration", "merge request"]
+source: "https://github.com/weareikko/code-review"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-15T08:05:36Z'
-discovered_at: '2026-07-15T08:05:59Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T08:05:36Z"
+discovered_at: "2026-07-15T08:05:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

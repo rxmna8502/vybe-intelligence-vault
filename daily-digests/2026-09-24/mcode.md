@@ -1,37 +1,19 @@
 ---
-title: huangbh2020/mcode
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Electron 33
-- React 19
-- TypeScript 5
-- Monaco Editor
-- xterm.js
-- node-pty
-- Claude Agent SDK
-- Tailwind CSS 3
-- Zustand 5
-- sql.js
-- electron-updater
-- pnpm
-- Zod
+title: "huangbh2020/mcode"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Electron 33", "React 19", "TypeScript 5", "Monaco Editor", "xterm.js", "node-pty", "Claude Agent SDK", "Tailwind CSS 3", "Zustand 5", "sql.js", "electron-updater", "pnpm", "Zod"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- Claude Code
-- Desktop IDE
-- Agent Interface
-- Real-time Streaming
-- Multi-session Management
-source: https://github.com/huangbh2020/mcode
+deployment_complexity: "Medium"
+tags: ["Claude Code", "Desktop IDE", "Agent Interface", "Real-time Streaming", "Multi-session Management"]
+source: "https://github.com/huangbh2020/mcode"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T06:21:34Z'
-discovered_at: '2026-08-01T06:28:58Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T06:21:34Z"
+discovered_at: "2026-08-01T06:28:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

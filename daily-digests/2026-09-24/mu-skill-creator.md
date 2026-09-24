@@ -1,28 +1,19 @@
 ---
-title: muippt/mu-skill-creator
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Bash
-- Markdown
-- Shell Scripting
-- Documentation Frameworks
+title: "muippt/mu-skill-creator"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Bash", "Markdown", "Shell Scripting", "Documentation Frameworks"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI agent skills
-- quality assurance
-- audit framework
-- skill development
-- anti-pattern detection
-source: https://github.com/muippt/mu-skill-creator
+deployment_complexity: "Low"
+tags: ["AI agent skills", "quality assurance", "audit framework", "skill development", "anti-pattern detection"]
+source: "https://github.com/muippt/mu-skill-creator"
 stars: 1
-language: HTML
-last_updated: '2026-08-03T02:50:18Z'
-discovered_at: '2026-08-03T02:54:30Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-03T02:50:18Z"
+discovered_at: "2026-08-03T02:54:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

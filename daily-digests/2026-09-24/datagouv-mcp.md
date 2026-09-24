@@ -1,31 +1,19 @@
 ---
-title: datagouv/datagouv-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Docker
-- FastAPI
-- uv
-- Sentry
-- niquests
+title: "datagouv/datagouv-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Docker", "FastAPI", "uv", "Sentry", "niquests"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- Open Data
-- French Government
-- AI Integration
-- Dataset Access
-source: https://github.com/datagouv/datagouv-mcp
+deployment_complexity: "Medium"
+tags: ["MCP", "Open Data", "French Government", "AI Integration", "Dataset Access"]
+source: "https://github.com/datagouv/datagouv-mcp"
 stars: 1564
-language: Python
-last_updated: '2026-07-17T16:11:56Z'
-discovered_at: '2026-07-17T16:14:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-17T16:11:56Z"
+discovered_at: "2026-07-17T16:14:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

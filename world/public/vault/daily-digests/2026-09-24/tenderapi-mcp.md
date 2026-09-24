@@ -1,29 +1,19 @@
 ---
-title: IDNSIDNS/tenderapi-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastAPI
-- REST API
-- Stripe (for billing)
+title: "IDNSIDNS/tenderapi-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "REST API", "Stripe (for billing)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- public procurement
-- MCP server
-- AI agents
-- data retrieval
-- tender search
-source: https://github.com/IDNSIDNS/tenderapi-mcp
+deployment_complexity: "Low"
+tags: ["public procurement", "MCP server", "AI agents", "data retrieval", "tender search"]
+source: "https://github.com/IDNSIDNS/tenderapi-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-09T08:43:16Z'
-discovered_at: '2026-08-09T08:45:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T08:43:16Z"
+discovered_at: "2026-08-09T08:45:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

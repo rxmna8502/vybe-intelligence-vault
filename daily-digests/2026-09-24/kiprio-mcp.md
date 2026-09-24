@@ -1,31 +1,19 @@
 ---
-title: ForeverTools/kiprio-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- FastAPI
-- Pydantic
-- Requests
-- PIL (for QR generation)
-- JWT (for token handling)
+title: "ForeverTools/kiprio-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "Pydantic", "Requests", "PIL (for QR generation)", "JWT (for token handling)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP Server
-- API Integration
-- Developer Utilities
-- Email Validation
-- Web Scraping
-source: https://github.com/ForeverTools/kiprio-mcp
+deployment_complexity: "Low"
+tags: ["MCP Server", "API Integration", "Developer Utilities", "Email Validation", "Web Scraping"]
+source: "https://github.com/ForeverTools/kiprio-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-19T00:59:50Z'
-discovered_at: '2026-07-20T15:10:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T00:59:50Z"
+discovered_at: "2026-07-20T15:10:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: DitriXNew/EDT-MCP
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Java
-- Eclipse RCP
-- MCP Protocol
-- 1C:EDT
-- SWT
-- HTTP/SSE
-- SonarQube
+title: "DitriXNew/EDT-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Java", "Eclipse RCP", "MCP Protocol", "1C:EDT", "SWT", "HTTP/SSE", "SonarQube"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP Server
-- 1C:EDT
-- AI Integration
-- Code Analysis
-- Metadata Management
-source: https://github.com/DitriXNew/EDT-MCP
+deployment_complexity: "Medium"
+tags: ["MCP Server", "1C:EDT", "AI Integration", "Code Analysis", "Metadata Management"]
+source: "https://github.com/DitriXNew/EDT-MCP"
 stars: 221
-language: Java
-last_updated: '2026-07-19T08:06:49Z'
-discovered_at: '2026-07-19T08:13:43Z'
-evaluated_by: mistral-small-latest
+language: "Java"
+last_updated: "2026-07-19T08:06:49Z"
+discovered_at: "2026-07-19T08:13:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

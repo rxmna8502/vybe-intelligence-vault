@@ -1,38 +1,19 @@
 ---
-title: EVEDensity/AgentHub
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Rust
-- Python
-- NATS JetStream
-- PostgreSQL
-- Redis
-- Qdrant
-- MinIO
-- Next.js
-- Docker
-- JWT
-- Prometheus
-- Grafana
-- OTLP
+title: "EVEDensity/AgentHub"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Rust", "Python", "NATS JetStream", "PostgreSQL", "Redis", "Qdrant", "MinIO", "Next.js", "Docker", "JWT", "Prometheus", "Grafana", "OTLP"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- self-hosted
-- observability
-- production-ready
-- AI agent teams
-source: https://github.com/EVEDensity/AgentHub
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "self-hosted", "observability", "production-ready", "AI agent teams"]
+source: "https://github.com/EVEDensity/AgentHub"
 stars: 21
-language: TypeScript
-last_updated: '2026-08-07T15:51:02Z'
-discovered_at: '2026-08-07T16:02:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T15:51:02Z"
+discovered_at: "2026-08-07T16:02:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

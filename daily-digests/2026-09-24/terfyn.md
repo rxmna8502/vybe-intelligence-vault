@@ -1,29 +1,19 @@
 ---
-title: Terfyn/terfyn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- SQLite
-- YAML
-- Mermaid (for diagrams)
-- GitHub Actions (CI/CD)
+title: "Terfyn/terfyn"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "SQLite", "YAML", "Mermaid (for diagrams)", "GitHub Actions (CI/CD)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent governance
-- capability bounding
-- plan-time enforcement
-- LLM safety
-- declarative workflows
-source: https://github.com/Terfyn/terfyn
+deployment_complexity: "Medium"
+tags: ["agent governance", "capability bounding", "plan-time enforcement", "LLM safety", "declarative workflows"]
+source: "https://github.com/Terfyn/terfyn"
 stars: 4
-language: Go
-last_updated: '2026-09-03T18:58:12Z'
-discovered_at: '2026-09-03T19:04:49Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T18:58:12Z"
+discovered_at: "2026-09-03T19:04:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

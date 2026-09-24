@@ -1,31 +1,19 @@
 ---
-title: saworbit/didi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- C++20
-- Godot Engine 4.5+
-- Model Context Protocol (MCP)
-- GDExtension
-- JSON-RPC 2.0
-- Named Pipes / Unix Sockets
-- GDScript
+title: "saworbit/didi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C++20", "Godot Engine 4.5+", "Model Context Protocol (MCP)", "GDExtension", "JSON-RPC 2.0", "Named Pipes / Unix Sockets", "GDScript"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- Godot Integration
-- C++ Native
-- Scene Manipulation
-- AI Tooling
-source: https://github.com/saworbit/didi
+deployment_complexity: "Medium"
+tags: ["MCP Server", "Godot Integration", "C++ Native", "Scene Manipulation", "AI Tooling"]
+source: "https://github.com/saworbit/didi"
 stars: 0
-language: C++
-last_updated: '2026-09-03T08:28:51Z'
-discovered_at: '2026-09-03T08:29:11Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-09-03T08:28:51Z"
+discovered_at: "2026-09-03T08:29:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

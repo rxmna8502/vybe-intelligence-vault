@@ -1,34 +1,19 @@
 ---
-title: SalvucciFacundo/go-arch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- CLI
-- Docker
-- gRPC
-- Protocol Buffers
-- OpenTelemetry
-- HTMX
-- templ
-- YAML
-- Makefile
+title: "SalvucciFacundo/go-arch"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "CLI", "Docker", "gRPC", "Protocol Buffers", "OpenTelemetry", "HTMX", "templ", "YAML", "Makefile"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- scaffolding
-- architecture
-- code-generation
-- monorepo
-- observability
-source: https://github.com/SalvucciFacundo/go-arch
+deployment_complexity: "Medium"
+tags: ["scaffolding", "architecture", "code-generation", "monorepo", "observability"]
+source: "https://github.com/SalvucciFacundo/go-arch"
 stars: 2
-language: Go
-last_updated: '2026-08-10T19:55:32Z'
-discovered_at: '2026-08-10T20:02:13Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-10T19:55:32Z"
+discovered_at: "2026-08-10T20:02:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

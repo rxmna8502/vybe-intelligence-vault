@@ -1,30 +1,19 @@
 ---
-title: sandymac/grav-plugin-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- PHP
-- Grav CMS
-- Model Context Protocol (MCP)
-- OAuth 2.1
-- REST API
-- YAML
+title: "sandymac/grav-plugin-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PHP", "Grav CMS", "Model Context Protocol (MCP)", "OAuth 2.1", "REST API", "YAML"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- Grav CMS integration
-- OAuth authentication
-- AI agent tooling
-- REST API bridge
-source: https://github.com/sandymac/grav-plugin-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "Grav CMS integration", "OAuth authentication", "AI agent tooling", "REST API bridge"]
+source: "https://github.com/sandymac/grav-plugin-mcp-server"
 stars: 1
-language: PHP
-last_updated: '2026-08-21T12:35:29Z'
-discovered_at: '2026-09-01T15:55:46Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-08-21T12:35:29Z"
+discovered_at: "2026-09-01T15:55:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

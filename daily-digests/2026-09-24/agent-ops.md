@@ -1,30 +1,19 @@
 ---
-title: owner-stack/agent-ops
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Node.js
-- GitHub Actions
-- Claude Code CLI
-- Telegram API
-- Mermaid.js
+title: "owner-stack/agent-ops"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Node.js", "GitHub Actions", "Claude Code CLI", "Telegram API", "Mermaid.js"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- GitHub Actions automation
-- human-in-the-loop approvals
-- cost-controlled AI
-- adversarial review
-source: https://github.com/owner-stack/agent-ops
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "GitHub Actions automation", "human-in-the-loop approvals", "cost-controlled AI", "adversarial review"]
+source: "https://github.com/owner-stack/agent-ops"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T08:07:45Z'
-discovered_at: '2026-08-07T08:17:49Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T08:07:45Z"
+discovered_at: "2026-08-07T08:17:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

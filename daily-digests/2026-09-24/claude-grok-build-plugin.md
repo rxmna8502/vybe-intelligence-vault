@@ -1,31 +1,19 @@
 ---
-title: xzawed/claude-grok-build-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- ES Modules (ESM)
-- Node.js
-- MCP (Model Context Protocol)
-- Claude Code
-- xAI Grok CLI
-- Git Worktrees
+title: "xzawed/claude-grok-build-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "ES Modules (ESM)", "Node.js", "MCP (Model Context Protocol)", "Claude Code", "xAI Grok CLI", "Git Worktrees"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Claude Code
-- Grok Integration
-- MCP Server
-- Delegation
-- AI Orchestration
-source: https://github.com/xzawed/claude-grok-build-plugin
+deployment_complexity: "Medium"
+tags: ["Claude Code", "Grok Integration", "MCP Server", "Delegation", "AI Orchestration"]
+source: "https://github.com/xzawed/claude-grok-build-plugin"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-08T06:46:57Z'
-discovered_at: '2026-08-08T06:52:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T06:46:57Z"
+discovered_at: "2026-08-08T06:52:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: VojislavMiloradovic/my-credentials
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JSON-LD
-- Markdown
-- Schema.org
-- GitHub Actions (for automation)
-- Python (for potential processing)
-- REST APIs (for credential verification)
+title: "VojislavMiloradovic/my-credentials"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JSON-LD", "Markdown", "Schema.org", "GitHub Actions (for automation)", "Python (for potential processing)", "REST APIs (for credential verification)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- credentials
-- certifications
-- AI-readable
-- structured data
-- professional profiles
-source: https://github.com/VojislavMiloradovic/my-credentials
+deployment_complexity: "Low"
+tags: ["credentials", "certifications", "AI-readable", "structured data", "professional profiles"]
+source: "https://github.com/VojislavMiloradovic/my-credentials"
 stars: 0
-language: Python
-last_updated: '2026-08-02T13:48:23Z'
-discovered_at: '2026-08-02T13:49:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T13:48:23Z"
+discovered_at: "2026-08-02T13:49:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

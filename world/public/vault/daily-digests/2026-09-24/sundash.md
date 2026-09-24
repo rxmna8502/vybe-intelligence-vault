@@ -1,35 +1,19 @@
 ---
-title: suantea/sundash
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Go 1.26
-- Vue.js 3.5
-- Vite 8
-- TypeScript
-- SQLite
-- Docker
-- JWT
-- Pinia
-- Naive UI
-- Gin
-- MCP (Model Context Protocol)
+title: "suantea/sundash"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Go 1.26", "Vue.js 3.5", "Vite 8", "TypeScript", "SQLite", "Docker", "JWT", "Pinia", "Naive UI", "Gin", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- self-hosted
-- dashboard
-- bookmark manager
-- AI integration
-- MCP server
-source: https://github.com/suantea/sundash
+deployment_complexity: "Medium"
+tags: ["self-hosted", "dashboard", "bookmark manager", "AI integration", "MCP server"]
+source: "https://github.com/suantea/sundash"
 stars: 0
-language: Vue
-last_updated: '2026-09-04T02:05:35Z'
-discovered_at: '2026-09-04T02:17:08Z'
-evaluated_by: mistral-small-latest
+language: "Vue"
+last_updated: "2026-09-04T02:05:35Z"
+discovered_at: "2026-09-04T02:17:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

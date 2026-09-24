@@ -1,41 +1,19 @@
 ---
-title: SammedBG/RAG-Customer-support-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- React
-- LangGraph
-- Qdrant
-- LangChain
-- LlamaIndex
-- OpenAI Embeddings
-- Groq LLM
-- BM25
-- RAGAS
-- DeepEval
-- Docker
-- GitHub Actions
-- JWT
-- TypeScript
-- Tailwind CSS
+title: "SammedBG/RAG-Customer-support-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "React", "LangGraph", "Qdrant", "LangChain", "LlamaIndex", "OpenAI Embeddings", "Groq LLM", "BM25", "RAGAS", "DeepEval", "Docker", "GitHub Actions", "JWT", "TypeScript", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Customer Support
-- Hybrid Search
-- LangGraph
-- Production-Grade
-source: https://github.com/SammedBG/RAG-Customer-support-agent
+deployment_complexity: "Medium"
+tags: ["RAG", "Customer Support", "Hybrid Search", "LangGraph", "Production-Grade"]
+source: "https://github.com/SammedBG/RAG-Customer-support-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T18:52:35Z'
-discovered_at: '2026-08-10T19:01:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T18:52:35Z"
+discovered_at: "2026-08-10T19:01:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

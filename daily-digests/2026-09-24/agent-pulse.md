@@ -1,37 +1,19 @@
 ---
-title: Timskt/agent-pulse
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Rust
-- Tauri 2.0
-- React 19
-- TypeScript 5.8
-- TailwindCSS 3
-- Vite 6
-- sysinfo
-- notify
-- tokio
-- rusqlite
-- Zustand
-- Radix UI
-- class-variance-authority
+title: "Timskt/agent-pulse"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Tauri 2.0", "React 19", "TypeScript 5.8", "TailwindCSS 3", "Vite 6", "sysinfo", "notify", "tokio", "rusqlite", "Zustand", "Radix UI", "class-variance-authority"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent monitoring
-- auto-resume
-- cross-platform
-- session recovery
-- coding assistant
-source: https://github.com/Timskt/agent-pulse
+deployment_complexity: "Medium"
+tags: ["AI agent monitoring", "auto-resume", "cross-platform", "session recovery", "coding assistant"]
+source: "https://github.com/Timskt/agent-pulse"
 stars: 0
-language: Rust
-last_updated: '2026-08-05T18:18:47Z'
-discovered_at: '2026-08-05T18:24:41Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-05T18:18:47Z"
+discovered_at: "2026-08-05T18:24:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

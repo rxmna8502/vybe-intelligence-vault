@@ -1,31 +1,19 @@
 ---
-title: HarperZ9/telos
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Node.js
-- MCP (Model Context Protocol)
-- WebGPU/WebGL
-- Chrome DevTools Protocol
-- Windows UI Automation
-- TypeScript
-- Python
+title: "HarperZ9/telos"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "MCP (Model Context Protocol)", "WebGPU/WebGL", "Chrome DevTools Protocol", "Windows UI Automation", "TypeScript", "Python"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- verifiable workflows
-- AI workbench
-- deterministic proof
-- local-first
-source: https://github.com/HarperZ9/telos
+deployment_complexity: "Medium"
+tags: ["MCP server", "verifiable workflows", "AI workbench", "deterministic proof", "local-first"]
+source: "https://github.com/HarperZ9/telos"
 stars: 3
-language: Python
-last_updated: '2026-07-18T02:06:36Z'
-discovered_at: '2026-07-18T02:12:40Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-18T02:06:36Z"
+discovered_at: "2026-07-18T02:12:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

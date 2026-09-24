@@ -1,28 +1,19 @@
 ---
-title: Immediate-sandpiper375/NeoVitaDB-Catalog
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- JSON
-- GitHub API
-- Windows
+title: "Immediate-sandpiper375/NeoVitaDB-Catalog"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "JSON", "GitHub API", "Windows"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- homebrew
-- catalog
-- downloader
-- Vita
-- PSP
-source: https://github.com/Immediate-sandpiper375/NeoVitaDB-Catalog
+deployment_complexity: "Low"
+tags: ["homebrew", "catalog", "downloader", "Vita", "PSP"]
+source: "https://github.com/Immediate-sandpiper375/NeoVitaDB-Catalog"
 stars: 0
-language: Python
-last_updated: '2026-08-06T06:28:32Z'
-discovered_at: '2026-08-06T06:34:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T06:28:32Z"
+discovered_at: "2026-08-06T06:34:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

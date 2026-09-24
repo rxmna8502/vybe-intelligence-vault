@@ -1,33 +1,19 @@
 ---
-title: dkylewillis/vera
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- SQLite
-- PyTorch
-- Sentence Transformers
-- OCR (Tesseract)
-- CLI
-- MCP Server
-- Electron (Desktop App)
-- FastAPI
+title: "dkylewillis/vera"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "SQLite", "PyTorch", "Sentence Transformers", "OCR (Tesseract)", "CLI", "MCP Server", "Electron (Desktop App)", "FastAPI"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector database
-- document retrieval
-- RAG
-- portable archives
-- local embeddings
-source: https://github.com/dkylewillis/vera
+deployment_complexity: "Medium"
+tags: ["vector database", "document retrieval", "RAG", "portable archives", "local embeddings"]
+source: "https://github.com/dkylewillis/vera"
 stars: 16
-language: Python
-last_updated: '2026-08-08T14:45:23Z'
-discovered_at: '2026-08-08T15:32:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T14:45:23Z"
+discovered_at: "2026-08-08T15:32:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: cyanheads/federal-regulations-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Bun
-- MCP SDK
-- Node.js
-- SQLite
-- Docker
-- npm
+title: "cyanheads/federal-regulations-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "MCP SDK", "Node.js", "SQLite", "Docker", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- regulatory data
-- MCP server
-- Federal Register
-- eCFR
-- Regulations.gov
-source: https://github.com/cyanheads/federal-regulations-mcp-server
+deployment_complexity: "Medium"
+tags: ["regulatory data", "MCP server", "Federal Register", "eCFR", "Regulations.gov"]
+source: "https://github.com/cyanheads/federal-regulations-mcp-server"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T23:29:53Z'
-discovered_at: '2026-08-09T23:35:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T23:29:53Z"
+discovered_at: "2026-08-09T23:35:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

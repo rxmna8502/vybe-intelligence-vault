@@ -1,31 +1,19 @@
 ---
-title: verygoodplugins/mcp-automem
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- FalkorDB (Graph Database)
-- Qdrant (Vector Database)
-- Docker
-- Railway (Cloud Deployment)
+title: "verygoodplugins/mcp-automem"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "FalkorDB (Graph Database)", "Qdrant (Vector Database)", "Docker", "Railway (Cloud Deployment)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory
-- persistent context
-- graph-vector
-- MCP client
-- AI assistant
-source: https://github.com/verygoodplugins/mcp-automem
+deployment_complexity: "Medium"
+tags: ["memory", "persistent context", "graph-vector", "MCP client", "AI assistant"]
+source: "https://github.com/verygoodplugins/mcp-automem"
 stars: 63
-language: TypeScript
-last_updated: '2026-08-07T20:17:08Z'
-discovered_at: '2026-08-07T20:43:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T20:17:08Z"
+discovered_at: "2026-08-07T20:43:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

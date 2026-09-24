@@ -1,36 +1,19 @@
 ---
-title: kagura-ai/memory-cloud
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- PostgreSQL
-- Qdrant
-- Redis
-- Next.js
-- Docker
-- MCP (Model Context Protocol)
-- OAuth2
-- BM25
-- Hebbian Learning
-- LanceDB
+title: "kagura-ai/memory-cloud"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "Qdrant", "Redis", "Next.js", "Docker", "MCP (Model Context Protocol)", "OAuth2", "BM25", "Hebbian Learning", "LanceDB"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Adaptive Memory
-- Neural Memory Graph
-- MCP Server
-- Hybrid Search
-- Self-hosted
-source: https://github.com/kagura-ai/memory-cloud
+deployment_complexity: "Medium"
+tags: ["Adaptive Memory", "Neural Memory Graph", "MCP Server", "Hybrid Search", "Self-hosted"]
+source: "https://github.com/kagura-ai/memory-cloud"
 stars: 7
-language: Python
-last_updated: '2026-07-14T08:00:37Z'
-discovered_at: '2026-07-14T08:00:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T08:00:37Z"
+discovered_at: "2026-07-14T08:00:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

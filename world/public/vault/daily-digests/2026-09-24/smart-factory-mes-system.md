@@ -1,42 +1,19 @@
 ---
-title: xianshi3/smart-factory-mes-system
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Java
-- Spring Boot
-- Spring Cloud
-- Vue.js
-- TypeScript
-- Python
-- .NET 8
-- MySQL
-- Redis
-- Kafka
-- EMQX MQTT
-- InfluxDB
-- Elasticsearch
-- FastAPI
-- Three.js
-- LightGBM
-- XGBoost
-- GLM-4
+title: "xianshi3/smart-factory-mes-system"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Java", "Spring Boot", "Spring Cloud", "Vue.js", "TypeScript", "Python", ".NET 8", "MySQL", "Redis", "Kafka", "EMQX MQTT", "InfluxDB", "Elasticsearch", "FastAPI", "Three.js", "LightGBM", "XGBoost", "GLM-4"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- Manufacturing Execution System
-- Digital Twin
-- AI Agent
-- Real-time Monitoring
-- Industrial IoT
-source: https://github.com/xianshi3/smart-factory-mes-system
+deployment_complexity: "High"
+tags: ["Manufacturing Execution System", "Digital Twin", "AI Agent", "Real-time Monitoring", "Industrial IoT"]
+source: "https://github.com/xianshi3/smart-factory-mes-system"
 stars: 1
-language: Vue
-last_updated: '2026-08-08T16:30:12Z'
-discovered_at: '2026-08-08T16:35:42Z'
-evaluated_by: mistral-small-latest
+language: "Vue"
+last_updated: "2026-08-08T16:30:12Z"
+discovered_at: "2026-08-08T16:35:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

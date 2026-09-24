@@ -1,29 +1,19 @@
 ---
-title: hankamarvanova/unified-db
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Swift
-- Apple Silicon
-- SQLite
-- GPU Acceleration
-- macOS
+title: "hankamarvanova/unified-db"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Swift", "Apple Silicon", "SQLite", "GPU Acceleration", "macOS"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- GPU acceleration
-- SQLite
-- Apple Silicon
-- database queries
-- performance optimization
-source: https://github.com/hankamarvanova/unified-db
+deployment_complexity: "Low"
+tags: ["GPU acceleration", "SQLite", "Apple Silicon", "database queries", "performance optimization"]
+source: "https://github.com/hankamarvanova/unified-db"
 stars: 2
-language: Swift
-last_updated: '2026-08-09T12:46:29Z'
-discovered_at: '2026-08-09T12:50:13Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-09T12:46:29Z"
+discovered_at: "2026-08-09T12:50:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

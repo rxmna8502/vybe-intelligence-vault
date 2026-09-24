@@ -1,41 +1,19 @@
 ---
-title: DoRmAmMu1997/My-Algo-Trading-Code
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Dhan API
-- Kotak Neo
-- Shoonya (Finvasia)
-- Flattrade Pi v2
-- Claude Opus
-- GPT-5.4-xhigh
-- GPT-5.5-xhigh
-- Telegram Bot API
-- Google Sheets API
-- WebSocket
-- REST APIs
-- GitHub Actions
-- Ruff
-- mypy
-- Bandit
-- pip-audit
+title: "DoRmAmMu1997/My-Algo-Trading-Code"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Dhan API", "Kotak Neo", "Shoonya (Finvasia)", "Flattrade Pi v2", "Claude Opus", "GPT-5.4-xhigh", "GPT-5.5-xhigh", "Telegram Bot API", "Google Sheets API", "WebSocket", "REST APIs", "GitHub Actions", "Ruff", "mypy", "Bandit", "pip-audit"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- algorithmic trading
-- LLM trading agent
-- multi-broker support
-- real-time market data
-- risk management
-source: https://github.com/DoRmAmMu1997/My-Algo-Trading-Code
+deployment_complexity: "High"
+tags: ["algorithmic trading", "LLM trading agent", "multi-broker support", "real-time market data", "risk management"]
+source: "https://github.com/DoRmAmMu1997/My-Algo-Trading-Code"
 stars: 9
-language: Python
-last_updated: '2026-08-03T20:17:18Z'
-discovered_at: '2026-08-03T20:28:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T20:17:18Z"
+discovered_at: "2026-08-03T20:28:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

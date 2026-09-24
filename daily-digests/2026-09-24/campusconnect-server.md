@@ -1,37 +1,19 @@
 ---
-title: iamrehman16/CampusConnect-Server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- NestJS
-- TypeScript
-- MongoDB
-- Mongoose
-- Qdrant
-- Groq
-- Gemini Embeddings
-- LlamaParse
-- Passport.js
-- JWT
-- Cloudinary
-- Socket.io
-- Event-Driven Architecture
+title: "iamrehman16/CampusConnect-Server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["NestJS", "TypeScript", "MongoDB", "Mongoose", "Qdrant", "Groq", "Gemini Embeddings", "LlamaParse", "Passport.js", "JWT", "Cloudinary", "Socket.io", "Event-Driven Architecture"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Academic AI
-- Document Intelligence
-- Zero-Cost Architecture
-- Moderation System
-source: https://github.com/iamrehman16/CampusConnect-Server
+deployment_complexity: "Medium"
+tags: ["RAG", "Academic AI", "Document Intelligence", "Zero-Cost Architecture", "Moderation System"]
+source: "https://github.com/iamrehman16/CampusConnect-Server"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T07:29:42Z'
-discovered_at: '2026-08-09T07:59:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T07:29:42Z"
+discovered_at: "2026-08-09T07:59:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: brenordv/mcp-toolset
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- C#
-- .NET 10
-- Model Context Protocol (MCP)
-- SQLite
-- BLAKE3
+title: "brenordv/mcp-toolset"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET 10", "Model Context Protocol (MCP)", "SQLite", "BLAKE3"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP servers
-- local-first
-- file operations
-- Git integration
-- text processing
-source: https://github.com/brenordv/mcp-toolset
+deployment_complexity: "Medium"
+tags: ["MCP servers", "local-first", "file operations", "Git integration", "text processing"]
+source: "https://github.com/brenordv/mcp-toolset"
 stars: 0
-language: C#
-last_updated: '2026-08-01T06:03:14Z'
-discovered_at: '2026-08-01T06:29:22Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-01T06:03:14Z"
+discovered_at: "2026-08-01T06:29:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

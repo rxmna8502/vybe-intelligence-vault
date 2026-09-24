@@ -1,31 +1,19 @@
 ---
-title: Voyagier-Travel/voyagier-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- GraphQL
-- Stripe
-- MCP (Model Context Protocol)
-- NPM
-- Jest (implied by CI workflows)
+title: "Voyagier-Travel/voyagier-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "GraphQL", "Stripe", "MCP (Model Context Protocol)", "NPM", "Jest (implied by CI workflows)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- travel-planning
-- cli
-- mcp-server
-- booking-automation
-- ai-agent-integration
-source: https://github.com/Voyagier-Travel/voyagier-cli
+deployment_complexity: "Medium"
+tags: ["travel-planning", "cli", "mcp-server", "booking-automation", "ai-agent-integration"]
+source: "https://github.com/Voyagier-Travel/voyagier-cli"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-03T20:24:44Z'
-discovered_at: '2026-08-03T20:28:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T20:24:44Z"
+discovered_at: "2026-08-03T20:28:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

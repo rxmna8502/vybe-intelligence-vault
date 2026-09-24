@@ -1,34 +1,19 @@
 ---
-title: antojunimaia-ui/Koda
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Electron
-- React
-- TypeScript
-- node-pty
-- xterm.js
-- Model Context Protocol (MCP)
-- Operantid.js
-- Webview
-- Git
-- LSP (TypeScript Language Server)
+title: "antojunimaia-ui/Koda"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "React", "TypeScript", "node-pty", "xterm.js", "Model Context Protocol (MCP)", "Operantid.js", "Webview", "Git", "LSP (TypeScript Language Server)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent
-- local development
-- code editing
-- multi-workspace
-- terminal integration
-source: https://github.com/antojunimaia-ui/Koda
+deployment_complexity: "Medium"
+tags: ["AI agent", "local development", "code editing", "multi-workspace", "terminal integration"]
+source: "https://github.com/antojunimaia-ui/Koda"
 stars: 31
-language: TypeScript
-last_updated: '2026-08-05T22:10:14Z'
-discovered_at: '2026-08-05T22:14:58Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T22:10:14Z"
+discovered_at: "2026-08-05T22:14:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

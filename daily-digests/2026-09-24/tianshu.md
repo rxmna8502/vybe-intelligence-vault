@@ -1,35 +1,19 @@
 ---
-title: MJ-CJM/tianshu
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python 3.12+
-- FastAPI
-- SQLite
-- React
-- TypeScript
-- Docker
-- LLM API Integration
-- Agent Framework
-- Web UI
-- CLI
-- GitHub Actions
+title: "MJ-CJM/tianshu"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.12+", "FastAPI", "SQLite", "React", "TypeScript", "Docker", "LLM API Integration", "Agent Framework", "Web UI", "CLI", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Agent OS
-- Self-Evolving
-- Audit Trail
-- Task Orchestration
-- Governance
-source: https://github.com/MJ-CJM/tianshu
+deployment_complexity: "Medium"
+tags: ["Agent OS", "Self-Evolving", "Audit Trail", "Task Orchestration", "Governance"]
+source: "https://github.com/MJ-CJM/tianshu"
 stars: 1
-language: Python
-last_updated: '2026-08-05T11:10:46Z'
-discovered_at: '2026-08-05T11:22:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T11:10:46Z"
+discovered_at: "2026-08-05T11:22:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

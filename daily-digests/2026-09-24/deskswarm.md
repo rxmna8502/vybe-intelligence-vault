@@ -1,35 +1,19 @@
 ---
-title: ahmedvnabil/deskswarm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Flask
-- HTMX
-- SQLite
-- Docker
-- Docker Compose
-- XFCE
-- VNC/noVNC
-- LiteLLM
-- cua (Computer Use Agent SDK)
-- Chart.js
+title: "ahmedvnabil/deskswarm"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Flask", "HTMX", "SQLite", "Docker", "Docker Compose", "XFCE", "VNC/noVNC", "LiteLLM", "cua (Computer Use Agent SDK)", "Chart.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- self-hosted desktops
-- fleet management
-- computer-use automation
-- Docker-based environments
-source: https://github.com/ahmedvnabil/deskswarm
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "self-hosted desktops", "fleet management", "computer-use automation", "Docker-based environments"]
+source: "https://github.com/ahmedvnabil/deskswarm"
 stars: 0
-language: Python
-last_updated: '2026-08-05T11:16:45Z'
-discovered_at: '2026-08-05T11:22:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T11:16:45Z"
+discovered_at: "2026-08-05T11:22:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

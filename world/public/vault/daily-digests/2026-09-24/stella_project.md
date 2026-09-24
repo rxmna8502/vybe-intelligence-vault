@@ -1,34 +1,19 @@
 ---
-title: Eternal-Wanderer-Vegetable/Stella_project
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- NoneBot 2
-- OneBot V11
-- LM Studio
-- SQLite
-- SQLite FTS5
-- pytest
-- Pydantic
-- OpenAI-compatible API
-- NapCatQQ
+title: "Eternal-Wanderer-Vegetable/Stella_project"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "NoneBot 2", "OneBot V11", "LM Studio", "SQLite", "SQLite FTS5", "pytest", "Pydantic", "OpenAI-compatible API", "NapCatQQ"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Memory Augmentation
-- RAG
-- Local LLM
-- QQ Bot
-- Contextual Retrieval
-source: https://github.com/Eternal-Wanderer-Vegetable/Stella_project
+deployment_complexity: "Medium"
+tags: ["Memory Augmentation", "RAG", "Local LLM", "QQ Bot", "Contextual Retrieval"]
+source: "https://github.com/Eternal-Wanderer-Vegetable/Stella_project"
 stars: 2
-language: Python
-last_updated: '2026-08-10T13:06:02Z'
-discovered_at: '2026-08-10T13:08:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T13:06:02Z"
+discovered_at: "2026-08-10T13:08:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
