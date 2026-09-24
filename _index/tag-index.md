@@ -113,7 +113,6 @@ Resources organized by keyword tags.
   - [A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring](../ai/agents/arxiv-2608-18088.md)
   - [A Methodology for Designing Knowledge-Driven Missions for Robots](../ai/rag/arxiv-2601-20797.md)
   - [A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](../ai/agents/arxiv-2605-20173.md)
-  - [A Million Agents Is a Distributed System Problem](../ai/community/a-million-agents-is-a-distributed-system-problem.md)
   - [A Model-Driven Approach for Developing Families of Reinforcement Learning Environments](../ai/agents/arxiv-2606-20324.md)
   - [A Model-Free Universal AI](../ai/agents/arxiv-2602-23242.md)
   - [A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans](../ai/agents/arxiv-2608-21140.md)
@@ -7039,9 +7038,11 @@ Resources organized by keyword tags.
 ## ai
 
   - [Early rogue AI agent activity and attempts to hack found on urlquery.net](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md)
+  - [Opus 5.5 is good at explainer videos](../ai/community/opus-5-5-is-good-at-explainer-videos.md)
   - [Rails World 2026 Opening Keynote [video]](../ai/community/youtube-vdjw-drykxy.md)
   - [Security auditing in the age of (good enough) AI](../ai/community/security-auditing-in-the-age-of-good-enough-ai.md)
-  - [Show HN: Air-gapped file encryption as self-decrypting HTML page](../ai/community/show-hn-air-gapped-file-encryption-as-self-decrypt.md)
+  - [Show HN: Koi.rest – watch some fish and regain your balance](../ai/community/show-hn-koi-rest-watch-some-fish-and-regain-your-b.md)
+  - [Tutoring company tells parents to save their money and 'use AI instead'](../ai/community/tutoring-company-tells-parents-to-save-their-money.md)
 
 ## animation
 
@@ -28453,7 +28454,6 @@ Resources organized by keyword tags.
   - [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](../ai/research/arxiv-2511-16717.md)
   - [A Mathematical Forum Platform for Collaborative Problem Solving and Dataset Generation for AI Reasoning](../ai/rag/arxiv-2606-12976.md)
   - [A Mathematical Framework and a Suite of Learning Techniques for Neural-Symbolic Systems](../ai/rag/arxiv-2407-09693.md)
-  - [A Million Agents Is a Distributed System Problem](../ai/community/a-million-agents-is-a-distributed-system-problem.md)
   - [A Missing Piece in Climate Models: Nature’s Own Emissions - Yale E360](../ai/rag/a-missing-piece-in-climate-models-natures-own-emis.md)
   - [A Model-Free Universal AI](../ai/agents/arxiv-2602-23242.md)
   - [A More Accurate Algorithm Comparison through A/B Testing using Offline Evaluation Methods](../ai/research/arxiv-2607-01958.md)
@@ -30842,6 +30842,7 @@ Resources organized by keyword tags.
   - [Optimizing AI Inference Across the Deployment Stack](../ai/research/arxiv-2609-10550.md)
   - [Optimizing Databricks LLM Pipelines with DSPy | Databricks Blog](../ai/rag/optimizing-databricks-llm-pipelines-with-dspy-data.md)
   - [Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making](../ai/research/arxiv-2606-18598.md)
+  - [Opus 5.5 is good at explainer videos](../ai/community/opus-5-5-is-good-at-explainer-videos.md)
   - [Oracle Web Sites Terms of Use | Oracle](../ai/agents/oracle-web-sites-terms-of-use-oracle.md)
   - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](../ai/rag/arxiv-2606-24799.md)
   - [OrchNAS: Orchestrated Neural Architecture Search Service for Personalised Federated Edge Intelligence](../ai/rag/arxiv-2607-22805.md)
@@ -30896,6 +30897,7 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
@@ -31418,7 +31420,7 @@ Resources organized by keyword tags.
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show HN: AgentRun: DSL to turn agents into workflows](../ai/community/parcha-ai-agentrun.md)
-  - [Show HN: Air-gapped file encryption as self-decrypting HTML page](../ai/community/show-hn-air-gapped-file-encryption-as-self-decrypt.md)
+  - [Show HN: Koi.rest – watch some fish and regain your balance](../ai/community/show-hn-koi-rest-watch-some-fish-and-regain-your-b.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -31880,6 +31882,7 @@ Resources organized by keyword tags.
   - [Turnitin Services Privacy Policy – Turnitin Guides](../ai/agents/turnitin-services-privacy-policy-turnitin-guides.md)
   - [Turnitin Support Center Transition FAQs – Turnitin Guides](../ai/rag/turnitin-support-center-transition-faqs-turnitin-g.md)
   - [Turnitin Website Privacy Policy | Turnitin](../ai/rag/turnitin-website-privacy-policy-turnitin.md)
+  - [Tutoring company tells parents to save their money and 'use AI instead'](../ai/community/tutoring-company-tells-parents-to-save-their-money.md)
   - [Twilio Developers](../ai/resources/twilio-developers.md)
   - [Twilio Events](../ai/rag/twilio-events.md)
   - [Twilio Hub](../ai/resources/twilio-hub.md)
@@ -37958,7 +37961,6 @@ Resources organized by keyword tags.
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patch the Distribution Mismatch: RL Rewriting Agent for Stable Off-Policy SFT](../ai/agents/arxiv-2602-11220.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -46395,6 +46397,7 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [OpenLanguageModel: Readable and Composable Small-Language-Model Pretraining for Education and Research](../ai/research/arxiv-2607-16669.md)
   - [Opt-Out Tools — AdChoices in Canada](../ai/resources/opt-out-tools-adchoices-in-canada.md)
+  - [Opus 5.5 is good at explainer videos](../ai/community/opus-5-5-is-good-at-explainer-videos.md)
   - [Orbital AI Computing: Carbon Tradeoffs Across Satellite Scale](../ai/research/arxiv-2608-14557.md)
   - [Overview - ResearchKit & CareKit](../ai/rag/overview-researchkit-carekit.md)
   - [PDS: Small Bodies Node Home](../ai/resources/pds-small-bodies-node-home.md)
@@ -66231,6 +66234,7 @@ Resources organized by keyword tags.
   - [Optimal Power Allocation and AI Receiver Design for Superimposed DMRS and Data Transmission](../ai/research/arxiv-2608-13809.md)
   - [Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward](../ai/rag/arxiv-2602-00845.md)
   - [Optimizing Spectral Prediction in MXene-Based Metasurfaces Through Multi-Channel Spectral Refinement and Savitzky-Golay Smoothing](../ai/rag/arxiv-2602-08406.md)
+  - [Opus 5.5 is good at explainer videos](../ai/community/opus-5-5-is-good-at-explainer-videos.md)
   - [Oracle Web Sites Terms of Use | Oracle](../ai/agents/oracle-web-sites-terms-of-use-oracle.md)
   - [OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis](../ai/rag/arxiv-2606-24799.md)
   - [Orchestra-o1: Omnimodal Agent Orchestration](../ai/agents/arxiv-2606-13707.md)
@@ -67370,4 +67374,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-25T01:51:29.670943+05:30*
+*Index generated on 2026-09-25T05:05:19.475428+05:30*

@@ -27624,12 +27624,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A Million Agents Is a Distributed System Problem](../ai/community/a-million-agents-is-a-distributed-system-problem.md)
   - [Early rogue AI agent activity and attempts to hack found on urlquery.net](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md)
+  - [Opus 5.5 is good at explainer videos](../ai/community/opus-5-5-is-good-at-explainer-videos.md)
   - [Rails World 2026 Opening Keynote [video]](../ai/community/youtube-vdjw-drykxy.md)
   - [Security auditing in the age of (good enough) AI](../ai/community/security-auditing-in-the-age-of-good-enough-ai.md)
   - [Show HN: AgentRun: DSL to turn agents into workflows](../ai/community/parcha-ai-agentrun.md)
-  - [Show HN: Air-gapped file encryption as self-decrypting HTML page](../ai/community/show-hn-air-gapped-file-encryption-as-self-decrypt.md)
+  - [Show HN: Koi.rest – watch some fish and regain your balance](../ai/community/show-hn-koi-rest-watch-some-fish-and-regain-your-b.md)
+  - [Tutoring company tells parents to save their money and 'use AI instead'](../ai/community/tutoring-company-tells-parents-to-save-their-money.md)
   - [Using LLMs to trace alchemical knowledge and decode 17th century letters](../ai/community/using-llms-to-trace-alchemical-knowledge-and-decod.md)
 
 ## Unknown Source (type: huggingface)
@@ -31501,4 +31502,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-25T01:51:29.982575+05:30*
+*Index generated on 2026-09-25T05:05:19.816491+05:30*

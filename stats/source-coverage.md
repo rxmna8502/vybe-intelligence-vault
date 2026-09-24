@@ -304,9 +304,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | transluce.org | 1 |
+| launchvideo.io | 1 |
+| koi.rest | 1 |
+| afr.com | 1 |
 | blog.trailofbits.com | 1 |
-| cms-sfx-demo.apeleg.com | 1 |
-| instacloud.com | 1 |
 | resobscura.substack.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |

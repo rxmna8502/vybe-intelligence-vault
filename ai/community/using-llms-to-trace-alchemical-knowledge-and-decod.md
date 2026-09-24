@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
 hn_url: https://news.ycombinator.com/item?id=49835531
-score: 7
+score: 48
 author: benbreen
-comments_count: 0
+comments_count: 9
 published_at: '2026-09-25T00:44:27+05:30'
-collected_at: '2026-09-25T01:35:08.498813+05:30'
+collected_at: '2026-09-25T04:48:54.972198+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:using-llms-to-trace-alchemical-knowledge-and-decod
 first_seen: '2026-09-25T01:35:08.498813+05:30'
-last_seen: '2026-09-25T01:35:08.498813+05:30'
-last_checked: '2026-09-25T01:35:08.498813+05:30'
+last_seen: '2026-09-25T04:48:54.972198+05:30'
+last_checked: '2026-09-25T04:48:54.972198+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by benbreen. Score: 7, Comments: 0.
+Hacker News story by benbreen. Score: 48, Comments: 9.
 Original Link: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: benbreen
-- Score: 7 Upvotes
-- Comments: 0 Discussions
+- Score: 48 Upvotes
+- Comments: 9 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49835531
 - Original Article: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
 

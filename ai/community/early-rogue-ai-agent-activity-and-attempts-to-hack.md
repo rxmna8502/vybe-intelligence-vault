@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://transluce.org/agent-activity
 hn_url: https://news.ycombinator.com/item?id=49826565
-score: 207
+score: 234
 author: snikolaev
-comments_count: 191
+comments_count: 216
 published_at: '2026-09-24T10:51:10+05:30'
-collected_at: '2026-09-25T01:35:09.499006+05:30'
+collected_at: '2026-09-25T04:48:56.738845+05:30'
 tags:
 - agents
 - ai
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:early-rogue-ai-agent-activity-and-attempts-to-hack
 first_seen: '2026-09-24T19:09:37.680977+05:30'
-last_seen: '2026-09-25T01:35:09.499006+05:30'
-last_checked: '2026-09-25T01:35:09.499006+05:30'
+last_seen: '2026-09-25T04:48:56.738845+05:30'
+last_checked: '2026-09-25T04:48:56.738845+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by snikolaev. Score: 207, Comments: 191.
+Hacker News story by snikolaev. Score: 234, Comments: 216.
 Original Link: https://transluce.org/agent-activity
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: snikolaev
-- Score: 207 Upvotes
-- Comments: 191 Discussions
+- Score: 234 Upvotes
+- Comments: 216 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49826565
 - Original Article: https://transluce.org/agent-activity
 

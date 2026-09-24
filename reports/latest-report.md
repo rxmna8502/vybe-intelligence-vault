@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-25T01:54:52.933181+05:30`
+Generated at: `2026-09-25T05:09:01.103823+05:30`
 
 ## Executive Summary
 
@@ -8,39 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Rails World 2026 Opening Keynote [video]** - Score: `126` in category `ai/community` ([Link](https://youtube.com/watch?v=vDjW_dRyKXY)) ([File](../ai/community/youtube-vdjw-drykxy.md))
-- **Security auditing in the age of (good enough) AI** - Score: `31` in category `ai/community` ([Link](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai)) ([File](../ai/community/security-auditing-in-the-age-of-good-enough-ai.md))
-- **Show HN: AgentRun: DSL to turn agents into workflows** - Score: `25` in category `ai/community` ([Link](https://github.com/parcha-ai/agentrun)) ([File](../ai/community/parcha-ai-agentrun.md))
-- **Show HN: Air-gapped file encryption as self-decrypting HTML page** - Score: `22` in category `ai/community` ([Link](https://cms-sfx-demo.apeleg.com)) ([File](../ai/community/show-hn-air-gapped-file-encryption-as-self-decrypt.md))
-- **A Million Agents Is a Distributed System Problem** - Score: `14` in category `ai/community` ([Link](https://instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem)) ([File](../ai/community/a-million-agents-is-a-distributed-system-problem.md))
-- **Using LLMs to trace alchemical knowledge and decode 17th century letters** - Score: `7` in category `ai/community` ([Link](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)) ([File](../ai/community/using-llms-to-trace-alchemical-knowledge-and-decod.md))
-- **Accelerating vision-language models with LFM2.5-VL-DSpark** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/liquidai/lfm2-5-vl-dspark)) ([File](../ai/models/huggingface-blog-liquidai-lfm2-5-vl-dspark.md))
+- **Opus 5.5 is good at explainer videos** - Score: `102` in category `ai/community` ([Link](https://launchvideo.io)) ([File](../ai/community/opus-5-5-is-good-at-explainer-videos.md))
+- **Show HN: Koi.rest – watch some fish and regain your balance** - Score: `79` in category `ai/community` ([Link](https://koi.rest)) ([File](../ai/community/show-hn-koi-rest-watch-some-fish-and-regain-your-b.md))
+- **Tutoring company tells parents to save their money and 'use AI instead'** - Score: `66` in category `ai/community` ([Link](https://afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r)) ([File](../ai/community/tutoring-company-tells-parents-to-save-their-money.md))
 
 ## Top Trending Resources
 
-- **Early rogue AI agent activity and attempts to hack found on urlquery.net** - Score: `207` (+35), Rank Change: `+3` ([File](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md))
-- **NousResearch/hermes-agent** - Score: `0` (0), Rank Change: `+6550` ([File](../ai/agents/nousresearch-hermes-agent.md))
-- **earendil-works/pi** - Score: `0` (0), Rank Change: `+6550` ([File](../ai/agents/earendil-works-pi.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+11` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/human-computer-interaction.md))
+- **Rails World 2026 Opening Keynote [video]** - Score: `193` (+67), Rank Change: `0` ([File](../ai/community/youtube-vdjw-drykxy.md))
+- **Using LLMs to trace alchemical knowledge and decode 17th century letters** - Score: `48` (+41), Rank Change: `0` ([File](../ai/community/using-llms-to-trace-alchemical-knowledge-and-decod.md))
+- **Early rogue AI agent activity and attempts to hack found on urlquery.net** - Score: `234` (+27), Rank Change: `0` ([File](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md))
+- **Security auditing in the age of (good enough) AI** - Score: `48` (+17), Rank Change: `-3` ([File](../ai/community/security-auditing-in-the-age-of-good-enough-ai.md))
+- **Show HN: AgentRun: DSL to turn agents into workflows** - Score: `38` (+13), Rank Change: `-4` ([File](../ai/community/parcha-ai-agentrun.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1032` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1032` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **openai/clip-vit-base-patch32** - Score: `0` (0), Rank Change: `+866` ([File](../ai/models/huggingface-openai-clip-vit-base-patch32.md))
+- **google-t5/t5-small** - Score: `0` (0), Rank Change: `+866` ([File](../ai/models/huggingface-google-t5-t5-small.md))
+- **Qwen/Qwen3-0.6B** - Score: `0` (0), Rank Change: `+866` ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **NousResearch/hermes-agent** - (Rank Change: `+6550`) ([File](../ai/agents/nousresearch-hermes-agent.md))
-- **earendil-works/pi** - (Rank Change: `+6550`) ([File](../ai/agents/earendil-works-pi.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+91`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+91`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - (Rank Change: `+91`) ([File](../ai/rag/react-19-3.md))
-- **facebook/MusicGen** - (Rank Change: `+35`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+35`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+35`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+35`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+35`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+1032`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+1032`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **openai/clip-vit-base-patch32** - (Rank Change: `+866`) ([File](../ai/models/huggingface-openai-clip-vit-base-patch32.md))
+- **google-t5/t5-small** - (Rank Change: `+866`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+866`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **BAAI/bge-m3** - (Rank Change: `+866`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **google-bert/bert-base-uncased** - (Rank Change: `+866`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+866`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **google/electra-base-discriminator** - (Rank Change: `+866`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+866`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -51,9 +47,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Linux support is coming to Snapdragon X2 Series** (Category: `ai/community`) ([File](../ai/community/linux-support-is-coming-to-snapdragon-x2-series.md))
-- **Meta takes down a critical video about meta AI Glasses after filming at Meta** (Category: `ai/community`) ([File](../ai/community/meta-takes-down-a-critical-video-about-meta-ai-gla.md))
-- **Making Tailscale Faster** (Category: `ai/community`) ([File](../ai/community/making-tailscale-faster.md))
-- **OpenAI agent hacked Australian government website, PM says** (Category: `ai/community`) ([File](../ai/community/openai-agent-hacked-australian-government-website.md))
-- **Mercury 2.5 LLM hits 770 tokens per second** (Category: `ai/community`) ([File](../ai/community/mercury-2-5-llm-hits-770-tokens-per-second.md))
-- **'That's so AI ' What gen Alpha's biggest insult tells us** (Category: `ai/community`) ([File](../ai/community/that-s-so-ai-what-gen-alpha-s-biggest-insult-tells.md))
+- **Show HN: Air-gapped file encryption as self-decrypting HTML page** (Category: `ai/community`) ([File](../ai/community/show-hn-air-gapped-file-encryption-as-self-decrypt.md))
+- **A Million Agents Is a Distributed System Problem** (Category: `ai/community`) ([File](../ai/community/a-million-agents-is-a-distributed-system-problem.md))

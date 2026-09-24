@@ -13,13 +13,14 @@ collected_at: '2026-09-25T01:35:10.352125+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-air-gapped-file-encryption-as-self-decrypt
 first_seen: '2026-09-25T01:35:10.352125+05:30'
 last_seen: '2026-09-25T01:35:10.352125+05:30'
 last_checked: '2026-09-25T01:35:10.352125+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Air-gapped file encryption as self-decrypting HTML page
 

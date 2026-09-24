@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/parcha-ai/agentrun
 hn_url: https://news.ycombinator.com/item?id=49821438
-score: 25
+score: 38
 author: miguelrios
-comments_count: 1
+comments_count: 6
 published_at: '2026-09-24T01:12:58+05:30'
-collected_at: '2026-09-25T01:35:09.897418+05:30'
+collected_at: '2026-09-25T04:48:57.369219+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:parcha-ai/agentrun
 first_seen: '2026-09-25T01:35:09.897418+05:30'
-last_seen: '2026-09-25T01:35:09.897418+05:30'
-last_checked: '2026-09-25T01:35:09.897418+05:30'
+last_seen: '2026-09-25T04:48:57.369219+05:30'
+last_checked: '2026-09-25T04:48:57.369219+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by miguelrios. Score: 25, Comments: 1.
+Hacker News story by miguelrios. Score: 38, Comments: 6.
 Original Link: https://github.com/Parcha-ai/agentrun
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: miguelrios
-- Score: 25 Upvotes
-- Comments: 1 Discussions
+- Score: 38 Upvotes
+- Comments: 6 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49821438
 - Original Article: https://github.com/parcha-ai/agentrun
 
