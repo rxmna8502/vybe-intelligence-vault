@@ -1,19 +1,32 @@
 ---
-title: "dbtinoy-/lexigram"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Asyncio", "SQLAlchemy", "Redis", "FastAPI", "Dependency Injection", "Protocol Buffers", "Docker"]
+title: dbtinoy-/lexigram
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Asyncio
+- SQLAlchemy
+- Redis
+- FastAPI
+- Dependency Injection
+- Protocol Buffers
+- Docker
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agents", "modular architecture", "async-native", "RAG integration", "dependency injection"]
-source: "https://github.com/dbtinoy-/lexigram"
+deployment_complexity: Medium
+tags:
+- AI agents
+- modular architecture
+- async-native
+- RAG integration
+- dependency injection
+source: https://github.com/dbtinoy-/lexigram
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T06:20:16Z"
-discovered_at: "2026-08-03T06:23:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T06:20:16Z'
+discovered_at: '2026-08-03T06:23:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

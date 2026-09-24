@@ -1,19 +1,32 @@
 ---
-title: "laoyudashu/voko"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "MCP (Model Context Protocol)", "CLI", "WebSocket", "HTTP", "React (for Web UI)", "SQLite (local database)"]
+title: laoyudashu/voko
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- CLI
+- WebSocket
+- HTTP
+- React (for Web UI)
+- SQLite (local database)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Agent Communication", "MCP Integration", "Local Runtime", "Multi-Agent Collaboration", "IM for Agents"]
-source: "https://github.com/laoyudashu/voko"
+deployment_complexity: Medium
+tags:
+- Agent Communication
+- MCP Integration
+- Local Runtime
+- Multi-Agent Collaboration
+- IM for Agents
+source: https://github.com/laoyudashu/voko
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-03T06:18:48Z"
-discovered_at: "2026-08-03T06:23:19Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T06:18:48Z'
+discovered_at: '2026-08-03T06:23:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

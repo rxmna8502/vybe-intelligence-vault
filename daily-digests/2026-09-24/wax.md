@@ -1,19 +1,33 @@
 ---
-title: "christopherkarani/Wax"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Swift", "GRDB", "SQLite", "MiniLM embeddings", "Foundation Models", "MCP (Model Context Protocol)", "CLI tools", "iCloud Drive", "AirDrop"]
+title: christopherkarani/Wax
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Swift
+- GRDB
+- SQLite
+- MiniLM embeddings
+- Foundation Models
+- MCP (Model Context Protocol)
+- CLI tools
+- iCloud Drive
+- AirDrop
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["local-first", "single-file storage", "Apple Silicon optimized", "vector search", "cross-device sync"]
-source: "https://github.com/christopherkarani/Wax"
+deployment_complexity: Low
+tags:
+- local-first
+- single-file storage
+- Apple Silicon optimized
+- vector search
+- cross-device sync
+source: https://github.com/christopherkarani/Wax
 stars: 790
-language: "Swift"
-last_updated: "2026-09-03T18:54:21Z"
-discovered_at: "2026-09-03T19:12:21Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-09-03T18:54:21Z'
+discovered_at: '2026-09-03T19:12:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

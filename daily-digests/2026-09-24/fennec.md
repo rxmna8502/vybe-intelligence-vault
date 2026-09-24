@@ -1,19 +1,32 @@
 ---
-title: "plumpslabs/fennec"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Playwright", "Chromium", "Firefox", "WebKit", "pnpm"]
+title: plumpslabs/fennec
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Playwright
+- Chromium
+- Firefox
+- WebKit
+- pnpm
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI-native observability", "MCP server", "cross-layer debugging", "browser automation", "process monitoring"]
-source: "https://github.com/plumpslabs/fennec"
+deployment_complexity: Medium
+tags:
+- AI-native observability
+- MCP server
+- cross-layer debugging
+- browser automation
+- process monitoring
+source: https://github.com/plumpslabs/fennec
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-10T13:05:17Z"
-discovered_at: "2026-07-10T13:12:10Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T13:05:17Z'
+discovered_at: '2026-07-10T13:12:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

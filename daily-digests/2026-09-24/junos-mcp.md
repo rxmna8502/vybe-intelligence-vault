@@ -1,19 +1,29 @@
 ---
-title: "shigechika/junos-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JUNOS NETCONF", "PyEZ", "junos-ops"]
+title: shigechika/junos-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JUNOS NETCONF
+- PyEZ
+- junos-ops
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Juniper JUNOS", "MCP server", "network automation", "configuration management", "AI assistant integration"]
-source: "https://github.com/shigechika/junos-mcp"
+deployment_complexity: Medium
+tags:
+- Juniper JUNOS
+- MCP server
+- network automation
+- configuration management
+- AI assistant integration
+source: https://github.com/shigechika/junos-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:26:17Z"
-discovered_at: "2026-08-08T11:30:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:26:17Z'
+discovered_at: '2026-08-08T11:30:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

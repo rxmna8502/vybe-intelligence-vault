@@ -1,19 +1,33 @@
 ---
-title: "mohammedhuzef/nova-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "YouTube Data API v3", "Google Gemini API", "Pollinations AI", "MoviePy", "PIL", "Streamlit", "MoviePy", "PIL"]
+title: mohammedhuzef/nova-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- YouTube Data API v3
+- Google Gemini API
+- Pollinations AI
+- MoviePy
+- PIL
+- Streamlit
+- MoviePy
+- PIL
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["autonomous agent", "video analysis", "image generation", "AI pipeline", "multimodal"]
-source: "https://github.com/mohammedhuzef/nova-ai-agent"
+deployment_complexity: Medium
+tags:
+- autonomous agent
+- video analysis
+- image generation
+- AI pipeline
+- multimodal
+source: https://github.com/mohammedhuzef/nova-ai-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T13:49:44Z"
-discovered_at: "2026-08-09T13:53:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T13:49:44Z'
+discovered_at: '2026-08-09T13:53:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

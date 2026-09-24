@@ -1,19 +1,32 @@
 ---
-title: "AMEOBIUS-team/opendaw-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Playwright", "Chromium", "JavaScript", "Vite", "FastMCP", "PyPI"]
+title: AMEOBIUS-team/opendaw-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Playwright
+- Chromium
+- JavaScript
+- Vite
+- FastMCP
+- PyPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Digital Audio Workstation", "AI Agent Control", "DSP Scripting", "Music Generation"]
-source: "https://github.com/AMEOBIUS-team/opendaw-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Digital Audio Workstation
+- AI Agent Control
+- DSP Scripting
+- Music Generation
+source: https://github.com/AMEOBIUS-team/opendaw-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T02:12:20Z"
-discovered_at: "2026-07-11T02:27:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T02:12:20Z'
+discovered_at: '2026-07-11T02:27:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

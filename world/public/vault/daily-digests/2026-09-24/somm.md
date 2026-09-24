@@ -1,19 +1,32 @@
 ---
-title: "R0LM0/somm"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "OpenCode API", "OpenRouter API", "Kimi API", "YAML", "HTTP/HTTPS", "CLI"]
+title: R0LM0/somm
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- OpenCode API
+- OpenRouter API
+- Kimi API
+- YAML
+- HTTP/HTTPS
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["model recommendation", "MCP server", "agent optimization", "benchmarking", "multi-provider"]
-source: "https://github.com/R0LM0/somm"
+deployment_complexity: Medium
+tags:
+- model recommendation
+- MCP server
+- agent optimization
+- benchmarking
+- multi-provider
+source: https://github.com/R0LM0/somm
 stars: 1
-language: "Go"
-last_updated: "2026-08-03T18:45:35Z"
-discovered_at: "2026-08-03T18:52:49Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-03T18:45:35Z'
+discovered_at: '2026-08-03T18:52:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "dorukardahan/ZeroAPI"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "OpenClaw", "Node.js", "Artificial Analysis API", "Hermes Agent (Python)", "JSON/YAML (for configs)", "GitHub Actions (CI/CD)"]
+title: dorukardahan/ZeroAPI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- OpenClaw
+- Node.js
+- Artificial Analysis API
+- Hermes Agent (Python)
+- JSON/YAML (for configs)
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["model routing", "benchmark-driven", "subscription-aware", "OpenClaw plugin", "AI gateway"]
-source: "https://github.com/dorukardahan/ZeroAPI"
+deployment_complexity: Medium
+tags:
+- model routing
+- benchmark-driven
+- subscription-aware
+- OpenClaw plugin
+- AI gateway
+source: https://github.com/dorukardahan/ZeroAPI
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-10T21:58:17Z"
-discovered_at: "2026-07-10T22:00:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T21:58:17Z'
+discovered_at: '2026-07-10T22:00:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

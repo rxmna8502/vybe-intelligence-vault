@@ -1,19 +1,28 @@
 ---
-title: "buildwithdorgham/research-agent-starter"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Claude Code", "Markdown", "Git", "AI Automation"]
+title: buildwithdorgham/research-agent-starter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Claude Code
+- Markdown
+- Git
+- AI Automation
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI research agent", "no-code", "Claude Code", "automation", "workflow builder"]
-source: "https://github.com/buildwithdorgham/research-agent-starter"
+deployment_complexity: Low
+tags:
+- AI research agent
+- no-code
+- Claude Code
+- automation
+- workflow builder
+source: https://github.com/buildwithdorgham/research-agent-starter
 stars: 0
-language: "None"
-last_updated: "2026-08-02T13:46:39Z"
-discovered_at: "2026-08-02T13:49:12Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-02T13:46:39Z'
+discovered_at: '2026-08-02T13:49:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

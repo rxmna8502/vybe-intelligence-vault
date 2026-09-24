@@ -1,19 +1,30 @@
 ---
-title: "imnoo-team/drawing-converter-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "TypeScript", "Model Context Protocol (MCP)", "PDF text extraction", "Engineering unit conversion", "ISO/ANSI thread standards"]
+title: imnoo-team/drawing-converter-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Node.js
+- TypeScript
+- Model Context Protocol (MCP)
+- PDF text extraction
+- Engineering unit conversion
+- ISO/ANSI thread standards
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP server", "engineering conversion", "PDF annotation", "unit conversion", "technical drawings"]
-source: "https://github.com/imnoo-team/drawing-converter-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- engineering conversion
+- PDF annotation
+- unit conversion
+- technical drawings
+source: https://github.com/imnoo-team/drawing-converter-mcp
 stars: 0
-language: "Dockerfile"
-last_updated: "2026-07-21T07:20:02Z"
-discovered_at: "2026-07-21T07:32:23Z"
-evaluated_by: "mistral-small-latest"
+language: Dockerfile
+last_updated: '2026-07-21T07:20:02Z'
+discovered_at: '2026-07-21T07:32:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

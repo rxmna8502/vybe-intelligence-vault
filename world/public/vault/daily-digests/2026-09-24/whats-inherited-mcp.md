@@ -1,19 +1,28 @@
 ---
-title: "stcmain/whats-inherited-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm"]
+title: stcmain/whats-inherited-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "AI agent instructions", "code review", "security analysis", "repository inspection"]
-source: "https://github.com/stcmain/whats-inherited-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- AI agent instructions
+- code review
+- security analysis
+- repository inspection
+source: https://github.com/stcmain/whats-inherited-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T20:47:15Z"
-discovered_at: "2026-08-01T20:51:06Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T20:47:15Z'
+discovered_at: '2026-08-01T20:51:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "jysvai/deel-local-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js 20+", "ES Modules (ESM)", "Ollama", "LM Studio", "Model Context Protocol (MCP)", "Agent Client Protocol (ACP)"]
+title: jysvai/deel-local-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Node.js 20+
+- ES Modules (ESM)
+- Ollama
+- LM Studio
+- Model Context Protocol (MCP)
+- Agent Client Protocol (ACP)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["local AI", "zero-dependency", "compliance", "coding agent", "privacy-first"]
-source: "https://github.com/jysvai/deel-local-cli"
+deployment_complexity: Low
+tags:
+- local AI
+- zero-dependency
+- compliance
+- coding agent
+- privacy-first
+source: https://github.com/jysvai/deel-local-cli
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-02T08:16:48Z"
-discovered_at: "2026-09-02T08:21:03Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T08:16:48Z'
+discovered_at: '2026-09-02T08:21:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

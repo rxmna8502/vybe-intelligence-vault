@@ -1,19 +1,29 @@
 ---
-title: "swarajxpanda/planyourshot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Natural Language Processing", "Machine Learning", "Computer Vision", "Script Parsing"]
+title: swarajxpanda/planyourshot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Natural Language Processing
+- Machine Learning
+- Computer Vision
+- Script Parsing
 quality_score: 3
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["cinematography", "script analysis", "shot planning", "AI for film", "production tools"]
-source: "https://github.com/swarajxpanda/planyourshot"
+deployment_complexity: Medium
+tags:
+- cinematography
+- script analysis
+- shot planning
+- AI for film
+- production tools
+source: https://github.com/swarajxpanda/planyourshot
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T11:12:57Z"
-discovered_at: "2026-08-09T11:32:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T11:12:57Z'
+discovered_at: '2026-08-09T11:32:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

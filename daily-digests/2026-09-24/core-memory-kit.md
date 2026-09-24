@@ -1,19 +1,32 @@
 ---
-title: "LH8PPL/core-memory-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript/TypeScript", "SQLite", "FTS5 (Full-Text Search)", "Node.js", "MCP (Model Context Protocol)", "CLI tools", "Markdown", "Local embeddings (optional)"]
+title: LH8PPL/core-memory-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript/TypeScript
+- SQLite
+- FTS5 (Full-Text Search)
+- Node.js
+- MCP (Model Context Protocol)
+- CLI tools
+- Markdown
+- Local embeddings (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["persistent memory", "AI agent context", "local semantic search", "git-committed memory", "automatic recall"]
-source: "https://github.com/LH8PPL/core-memory-kit"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- AI agent context
+- local semantic search
+- git-committed memory
+- automatic recall
+source: https://github.com/LH8PPL/core-memory-kit
 stars: 2
-language: "JavaScript"
-last_updated: "2026-07-18T13:09:26Z"
-discovered_at: "2026-07-18T13:09:57Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T13:09:26Z'
+discovered_at: '2026-07-18T13:09:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

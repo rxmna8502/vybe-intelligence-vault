@@ -1,19 +1,31 @@
 ---
-title: "FullThrottle83/jules-orchestrator-kit"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "YAML", "Git", "REST API", "CLI", "MCP (Model Context Protocol)"]
+title: FullThrottle83/jules-orchestrator-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Node.js
+- YAML
+- Git
+- REST API
+- CLI
+- MCP (Model Context Protocol)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["autonomous coding", "CI/CD integration", "AI agent orchestration", "security enforcement", "self-healing workflows"]
-source: "https://github.com/FullThrottle83/jules-orchestrator-kit"
+deployment_complexity: Medium
+tags:
+- autonomous coding
+- CI/CD integration
+- AI agent orchestration
+- security enforcement
+- self-healing workflows
+source: https://github.com/FullThrottle83/jules-orchestrator-kit
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T13:09:16Z"
-discovered_at: "2026-08-01T13:16:30Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T13:09:16Z'
+discovered_at: '2026-08-01T13:16:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

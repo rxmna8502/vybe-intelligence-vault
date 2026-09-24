@@ -1,19 +1,30 @@
 ---
-title: "Poiuyhje/eqvps-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Model Context Protocol (MCP)", "JavaScript", "Node.js", "Cryptocurrency (USDC, USDT, PYUSD, ETH, POL, SOL, CBBTC)", "REST API", "Streamable HTTP Transport"]
+title: Poiuyhje/eqvps-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Model Context Protocol (MCP)
+- JavaScript
+- Node.js
+- Cryptocurrency (USDC, USDT, PYUSD, ETH, POL, SOL, CBBTC)
+- REST API
+- Streamable HTTP Transport
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["VPS hosting", "AI agent automation", "Model Context Protocol", "Crypto payments", "No-KYC"]
-source: "https://github.com/Poiuyhje/eqvps-mcp"
+deployment_complexity: Low
+tags:
+- VPS hosting
+- AI agent automation
+- Model Context Protocol
+- Crypto payments
+- No-KYC
+source: https://github.com/Poiuyhje/eqvps-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-01T00:34:05Z"
-discovered_at: "2026-09-02T15:52:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T00:34:05Z'
+discovered_at: '2026-09-02T15:52:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

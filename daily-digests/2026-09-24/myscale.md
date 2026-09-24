@@ -1,19 +1,30 @@
 ---
-title: "api-evangelist/myscale"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["ClickHouse", "SQL", "Vector Search", "HNSW", "Python", "HTTP API"]
+title: api-evangelist/myscale
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- ClickHouse
+- SQL
+- Vector Search
+- HNSW
+- Python
+- HTTP API
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Vector Database", "SQL Interface", "ClickHouse", "Vector Search", "RAG"]
-source: "https://github.com/api-evangelist/myscale"
+deployment_complexity: Medium
+tags:
+- Vector Database
+- SQL Interface
+- ClickHouse
+- Vector Search
+- RAG
+source: https://github.com/api-evangelist/myscale
 stars: 0
-language: "None"
-last_updated: "2026-08-08T01:23:17Z"
-discovered_at: "2026-08-08T01:27:18Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T01:23:17Z'
+discovered_at: '2026-08-08T01:27:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

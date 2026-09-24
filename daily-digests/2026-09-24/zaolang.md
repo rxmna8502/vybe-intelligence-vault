@@ -1,19 +1,37 @@
 ---
-title: "ZaoLangAI/zaolang"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Next.js 16", "React 19", "TypeScript", "FastAPI", "Python 3.12", "PostgreSQL 17", "pgvector", "Redis", "Celery", "MinIO", "Agno AgentOS", "Tailwind CSS v4", "next-intl"]
+title: ZaoLangAI/zaolang
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Next.js 16
+- React 19
+- TypeScript
+- FastAPI
+- Python 3.12
+- PostgreSQL 17
+- pgvector
+- Redis
+- Celery
+- MinIO
+- Agno AgentOS
+- Tailwind CSS v4
+- next-intl
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI remixing", "content lineage", "generation orchestration", "attribution tracking", "multi-modal generation"]
-source: "https://github.com/ZaoLangAI/zaolang"
+deployment_complexity: Medium
+tags:
+- AI remixing
+- content lineage
+- generation orchestration
+- attribution tracking
+- multi-modal generation
+source: https://github.com/ZaoLangAI/zaolang
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T03:16:26Z"
-discovered_at: "2026-08-06T03:18:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T03:16:26Z'
+discovered_at: '2026-08-06T03:18:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

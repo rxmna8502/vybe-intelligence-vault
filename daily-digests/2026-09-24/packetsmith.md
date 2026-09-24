@@ -1,19 +1,30 @@
 ---
-title: "Mats2208/packetsmith"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Cisco Packet Tracer", "MCP (Model Context Protocol)", "Terminal UI (TUI)", "Claude Code"]
+title: Mats2208/packetsmith
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Bun
+- Cisco Packet Tracer
+- MCP (Model Context Protocol)
+- Terminal UI (TUI)
+- Claude Code
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["network automation", "Cisco Packet Tracer", "terminal agent", "MCP integration", "network topology"]
-source: "https://github.com/Mats2208/packetsmith"
+deployment_complexity: Medium
+tags:
+- network automation
+- Cisco Packet Tracer
+- terminal agent
+- MCP integration
+- network topology
+source: https://github.com/Mats2208/packetsmith
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T15:32:42Z"
-discovered_at: "2026-08-04T15:34:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T15:32:42Z'
+discovered_at: '2026-08-04T15:34:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "arasovic/pi-worker"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Node.js", "TypeScript", "CLI", "Bash", "Pi CLI"]
+title: arasovic/pi-worker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- Node.js
+- TypeScript
+- CLI
+- Bash
+- Pi CLI
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["coding agents", "model delegation", "parallel execution", "Pi integration", "task orchestration"]
-source: "https://github.com/arasovic/pi-worker"
+deployment_complexity: Medium
+tags:
+- coding agents
+- model delegation
+- parallel execution
+- Pi integration
+- task orchestration
+source: https://github.com/arasovic/pi-worker
 stars: 0
-language: "Go"
-last_updated: "2026-09-01T09:06:44Z"
-discovered_at: "2026-09-01T09:07:30Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T09:06:44Z'
+discovered_at: '2026-09-01T09:07:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

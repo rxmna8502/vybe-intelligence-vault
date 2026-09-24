@@ -1,19 +1,28 @@
 ---
-title: "pipeworx-io/mcp-xkcd"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "REST API", "JSON"]
+title: pipeworx-io/mcp-xkcd
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- REST API
+- JSON
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "XKCD API", "comic data", "AI tooling", "data retrieval"]
-source: "https://github.com/pipeworx-io/mcp-xkcd"
+deployment_complexity: Low
+tags:
+- MCP server
+- XKCD API
+- comic data
+- AI tooling
+- data retrieval
+source: https://github.com/pipeworx-io/mcp-xkcd
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T07:32:27Z"
-discovered_at: "2026-08-04T07:41:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:32:27Z'
+discovered_at: '2026-08-04T07:41:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

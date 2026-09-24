@@ -1,19 +1,31 @@
 ---
-title: "marktoda/zj-radar"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Zellij", "WASM", "KDL (for configuration)", "CLI (installation and setup)", "JSON (status payloads)", "Shell (installation scripts)"]
+title: marktoda/zj-radar
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Zellij
+- WASM
+- KDL (for configuration)
+- CLI (installation and setup)
+- JSON (status payloads)
+- Shell (installation scripts)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Zellij", "AI agent monitoring", "sidebar plugin", "real-time status", "terminal multiplexing"]
-source: "https://github.com/marktoda/zj-radar"
+deployment_complexity: Medium
+tags:
+- Zellij
+- AI agent monitoring
+- sidebar plugin
+- real-time status
+- terminal multiplexing
+source: https://github.com/marktoda/zj-radar
 stars: 33
-language: "Rust"
-last_updated: "2026-09-01T22:09:40Z"
-discovered_at: "2026-09-01T22:18:40Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-01T22:09:40Z'
+discovered_at: '2026-09-01T22:18:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

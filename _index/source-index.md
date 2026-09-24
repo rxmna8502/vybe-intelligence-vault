@@ -27624,11 +27624,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Australia says OpenAI agent hacked into government website](../ai/community/australia-says-openai-agent-hacked-into-government.md)
-  - [Feds Target AI Critics as "Foreign Agents"](../ai/community/feds-target-ai-critics-as-foreign-agents.md)
+  - ['That's so AI ' What gen Alpha's biggest insult tells us](../ai/community/that-s-so-ai-what-gen-alpha-s-biggest-insult-tells.md)
+  - [Early rogue AI agent activity and attempts to hack found on urlquery.net](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md)
   - [Linux support is coming to Snapdragon X2 Series](../ai/community/linux-support-is-coming-to-snapdragon-x2-series.md)
   - [Making Tailscale Faster](../ai/community/making-tailscale-faster.md)
   - [Mercury 2.5 LLM hits 770 tokens per second](../ai/community/mercury-2-5-llm-hits-770-tokens-per-second.md)
+  - [Meta takes down a critical video about meta AI Glasses after filming at Meta](../ai/community/meta-takes-down-a-critical-video-about-meta-ai-gla.md)
+  - [OpenAI agent hacked Australian government website, PM says](../ai/community/openai-agent-hacked-australian-government-website.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -28501,12 +28503,12 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: huggingface_dataset)
 
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
-  - [allenai/c4](../ai/models/huggingface-datasets-allenai.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
+  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
@@ -28516,11 +28518,11 @@ Resources organized by publisher feed and query sources.
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
-  - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
+  - [openai/clip-vit-base-patch32](../ai/models/huggingface-openai-clip-vit-base-patch32.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
@@ -31498,4 +31500,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-24T10:49:13.173760+05:30*
+*Index generated on 2026-09-24T19:26:07.323565+05:30*

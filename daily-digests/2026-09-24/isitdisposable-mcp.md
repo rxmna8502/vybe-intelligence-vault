@@ -1,19 +1,29 @@
 ---
-title: "richelo/isitdisposable-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "Model Context Protocol (MCP)", "REST API"]
+title: richelo/isitdisposable-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- Model Context Protocol (MCP)
+- REST API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "email validation", "disposable email detection", "API integration", "AI tooling"]
-source: "https://github.com/richelo/isitdisposable-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- email validation
+- disposable email detection
+- API integration
+- AI tooling
+source: https://github.com/richelo/isitdisposable-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T05:38:00Z"
-discovered_at: "2026-08-05T05:49:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:38:00Z'
+discovered_at: '2026-08-05T05:49:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

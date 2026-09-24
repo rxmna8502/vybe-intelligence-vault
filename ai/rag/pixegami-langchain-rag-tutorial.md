@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-09-23T19:15:29.491990+05:30'
+collected_at: '2026-09-24T19:10:40.053406+05:30'
 published_at: '2026-09-21T08:45:28Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-09-23T19:15:29.491990+05:30'
-last_seen: '2026-09-23T19:15:29.491990+05:30'
-last_checked: '2026-09-23T19:15:29.491990+05:30'
+first_seen: '2026-09-24T19:10:40.053406+05:30'
+last_seen: '2026-09-24T19:10:40.053406+05:30'
+last_checked: '2026-09-24T19:10:40.053406+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) pipeline using the LangChain framework.
-*   Developed entirely in Python, leveraging its ecosystem for LLM integration and data processing.
-*   Serves as a minimalist, illustrative example for understanding fundamental RAG application architecture.
+*   Implements a Retrieval-Augmented Generation (RAG) system.
+*   Utilizes the Langchain framework for application orchestration.
+*   Developed in Python, serving as a foundational tutorial example.
 
 ## Why It Matters
 

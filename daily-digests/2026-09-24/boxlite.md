@@ -1,19 +1,35 @@
 ---
-title: "boxlite-ai/boxlite"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "OCI/Docker", "KVM/Hypervisor.framework", "seccomp", "Python", "Node.js", "Go", "Rust", "C", "REST API", "WebSockets"]
+title: boxlite-ai/boxlite
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- OCI/Docker
+- KVM/Hypervisor.framework
+- seccomp
+- Python
+- Node.js
+- Go
+- Rust
+- C
+- REST API
+- WebSockets
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["micro-VM", "agent isolation", "OCI containers", "hardware virtualization", "multi-language SDKs"]
-source: "https://github.com/boxlite-ai/boxlite"
+deployment_complexity: Medium
+tags:
+- micro-VM
+- agent isolation
+- OCI containers
+- hardware virtualization
+- multi-language SDKs
+source: https://github.com/boxlite-ai/boxlite
 stars: 2296
-language: "Rust"
-last_updated: "2026-09-03T08:23:51Z"
-discovered_at: "2026-09-03T08:35:11Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T08:23:51Z'
+discovered_at: '2026-09-03T08:35:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

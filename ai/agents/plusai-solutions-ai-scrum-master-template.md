@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-08-10T19:22:59.475168+05:30'
-published_at: '2026-07-17T03:59:58Z'
+collected_at: '2026-09-24T19:13:50.411077+05:30'
+published_at: '2026-09-02T03:54:10Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - scripts
 - unknown
 - workflows
-stars: 24
+stars: 28
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-08-10T19:22:59.475168+05:30'
-last_seen: '2026-08-10T19:22:59.475168+05:30'
-last_checked: '2026-08-10T19:22:59.475168+05:30'
+first_seen: '2026-09-24T19:13:50.411077+05:30'
+last_seen: '2026-09-24T19:13:50.411077+05:30'
+last_checked: '2026-09-24T19:13:50.411077+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Development Framework**: Converts GitHub repositories into self-managing teams via GitHub Actions and Claude, orchestrating AI agents to operate under Scrum methodology directly from Issues.
-
-- **AI-Agent Orchestration**: Integrates AI-driven agents to handle task decomposition, sprint planning, and execution, automating development workflows without manual intervention.
-
-- **Scrum Integration**: Enables autonomous sprint cycles, issue tracking, and agent collaboration, dynamically adapting to project requirements via Issue-driven automation.
+*   Transforms GitHub repositories into autonomous development teams via AI agent orchestration.
+*   Implements the Scrum framework for AI agent management and development directly from GitHub Issues.
+*   Utilizes GitHub Actions and Claude for orchestrating AI agents and automating development workflows from issues.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: plusai-solutions
-- Stars: 24
+- Stars: 28
 - Forks: 7
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-17T03:59:58Z
+- Last Updated: 2026-09-02T03:54:10Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-18T13:11:16Z

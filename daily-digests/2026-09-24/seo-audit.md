@@ -1,19 +1,30 @@
 ---
-title: "houtini-ai/seo-audit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Google Search Console API", "Custom web crawler", "DataForSEO API (optional)"]
+title: houtini-ai/seo-audit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Google Search Console API
+- Custom web crawler
+- DataForSEO API (optional)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["SEO", "audit", "MCP", "Claude", "technical SEO"]
-source: "https://github.com/houtini-ai/seo-audit"
+deployment_complexity: Medium
+tags:
+- SEO
+- audit
+- MCP
+- Claude
+- technical SEO
+source: https://github.com/houtini-ai/seo-audit
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-02T13:48:10Z"
-discovered_at: "2026-08-02T13:49:29Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T13:48:10Z'
+discovered_at: '2026-08-02T13:49:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "canary001/muse"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Git", "Markdown", "Codex (AI assistant framework)", "YAML (for configuration)"]
+title: canary001/muse
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Git
+- Markdown
+- Codex (AI assistant framework)
+- YAML (for configuration)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["content creation", "interview-based workflow", "local-first", "AI-assisted writing", "structured drafting"]
-source: "https://github.com/canary001/muse"
+deployment_complexity: Low
+tags:
+- content creation
+- interview-based workflow
+- local-first
+- AI-assisted writing
+- structured drafting
+source: https://github.com/canary001/muse
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T08:41:36Z"
-discovered_at: "2026-08-09T08:45:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T08:41:36Z'
+discovered_at: '2026-08-09T08:45:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

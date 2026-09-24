@@ -1,19 +1,32 @@
 ---
-title: "korals-ai/mcp-browser"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Playwright", "Chrome for Testing", "Model Context Protocol (MCP)", "Docker", "WebSockets", "HTTP/Streamable", "Xvfb"]
+title: korals-ai/mcp-browser
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Playwright
+- Chrome for Testing
+- Model Context Protocol (MCP)
+- Docker
+- WebSockets
+- HTTP/Streamable
+- Xvfb
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["browser automation", "agent control", "co-browsing", "MCP server", "real-time interaction"]
-source: "https://github.com/korals-ai/mcp-browser"
+deployment_complexity: Medium
+tags:
+- browser automation
+- agent control
+- co-browsing
+- MCP server
+- real-time interaction
+source: https://github.com/korals-ai/mcp-browser
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T02:11:48Z"
-discovered_at: "2026-09-03T02:21:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T02:11:48Z'
+discovered_at: '2026-09-03T02:21:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

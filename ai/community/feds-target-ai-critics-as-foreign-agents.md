@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:feds-target-ai-critics-as-foreign-agents
 first_seen: '2026-09-24T10:30:59.196054+05:30'
 last_seen: '2026-09-24T10:30:59.196054+05:30'
 last_checked: '2026-09-24T10:30:59.196054+05:30'
 health_score: 100
 ---
+
 
 # Feds Target AI Critics as "Foreign Agents"
 

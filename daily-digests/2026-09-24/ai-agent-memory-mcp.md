@@ -1,19 +1,31 @@
 ---
-title: "xiangzi1126/ai-agent-memory-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "Chroma (embedded)", "MCP (Model Context Protocol)", "OpenAI-compatible embedding services", "Markdown", "FTS5 (SQLite full-text search)"]
+title: xiangzi1126/ai-agent-memory-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- SQLite
+- Chroma (embedded)
+- MCP (Model Context Protocol)
+- OpenAI-compatible embedding services
+- Markdown
+- FTS5 (SQLite full-text search)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["memory management", "MCP server", "persistent storage", "agent collaboration", "vector retrieval"]
-source: "https://github.com/xiangzi1126/ai-agent-memory-mcp"
+deployment_complexity: Medium
+tags:
+- memory management
+- MCP server
+- persistent storage
+- agent collaboration
+- vector retrieval
+source: https://github.com/xiangzi1126/ai-agent-memory-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T07:58:32Z"
-discovered_at: "2026-07-15T08:06:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T07:58:32Z'
+discovered_at: '2026-07-15T08:06:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "Eqqinox/Ollamancer"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Ollama", "MCP (Model Context Protocol)", "SearXNG", "DuckDuckGo", "Playwright", "Docker", "PyTest"]
+title: Eqqinox/Ollamancer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Ollama
+- MCP (Model Context Protocol)
+- SearXNG
+- DuckDuckGo
+- Playwright
+- Docker
+- PyTest
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["local AI agent", "Ollama integration", "deterministic honesty", "offline RAG", "privacy-first"]
-source: "https://github.com/Eqqinox/Ollamancer"
+deployment_complexity: Medium
+tags:
+- local AI agent
+- Ollama integration
+- deterministic honesty
+- offline RAG
+- privacy-first
+source: https://github.com/Eqqinox/Ollamancer
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T20:22:06Z"
-discovered_at: "2026-08-08T20:32:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T20:22:06Z'
+discovered_at: '2026-08-08T20:32:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

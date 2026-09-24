@@ -1,19 +1,31 @@
 ---
-title: "MrPeppersDev/agent-infrastructure-landscape"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JSON", "SvelteKit", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "GitHub Actions", "Semantic Scholar API"]
+title: MrPeppersDev/agent-infrastructure-landscape
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JSON
+- SvelteKit
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- GitHub Actions
+- Semantic Scholar API
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent infrastructure", "comparative catalog", "MCP server", "data-driven decision making", "open data"]
-source: "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+deployment_complexity: Medium
+tags:
+- AI agent infrastructure
+- comparative catalog
+- MCP server
+- data-driven decision making
+- open data
+source: https://github.com/MrPeppersDev/agent-infrastructure-landscape
 stars: 2
-language: "HTML"
-last_updated: "2026-09-01T02:41:54Z"
-discovered_at: "2026-09-01T02:53:36Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T02:41:54Z'
+discovered_at: '2026-09-01T02:53:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

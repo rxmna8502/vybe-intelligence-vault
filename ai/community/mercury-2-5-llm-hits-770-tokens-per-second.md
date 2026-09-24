@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://artificialanalysis.ai/models/mercury-2-5
 hn_url: https://news.ycombinator.com/item?id=49823348
-score: 77
+score: 133
 author: Retro_Dev
-comments_count: 48
+comments_count: 77
 published_at: '2026-09-24T03:46:19+05:30'
-collected_at: '2026-09-24T10:31:00.258755+05:30'
+collected_at: '2026-09-24T19:09:38.006398+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:mercury-2-5-llm-hits-770-tokens-per-second
 first_seen: '2026-09-24T04:33:19.677422+05:30'
-last_seen: '2026-09-24T10:31:00.258755+05:30'
-last_checked: '2026-09-24T10:31:00.258755+05:30'
+last_seen: '2026-09-24T19:09:38.006398+05:30'
+last_checked: '2026-09-24T19:09:38.006398+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Retro_Dev. Score: 77, Comments: 48.
+Hacker News story by Retro_Dev. Score: 133, Comments: 77.
 Original Link: https://artificialanalysis.ai/models/mercury-2-5
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Retro_Dev
-- Score: 77 Upvotes
-- Comments: 48 Discussions
+- Score: 133 Upvotes
+- Comments: 77 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49823348
 - Original Article: https://artificialanalysis.ai/models/mercury-2-5
 

@@ -1,19 +1,29 @@
 ---
-title: "jarmstrong158/cambium"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Git", "GitHub CLI (gh)", "JSON"]
+title: jarmstrong158/cambium
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Git
+- GitHub CLI (gh)
+- JSON
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["knowledge lifecycle", "agent integration", "memory distillation", "federated recall", "trust-based promotion"]
-source: "https://github.com/jarmstrong158/cambium"
+deployment_complexity: Medium
+tags:
+- knowledge lifecycle
+- agent integration
+- memory distillation
+- federated recall
+- trust-based promotion
+source: https://github.com/jarmstrong158/cambium
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T23:42:11Z"
-discovered_at: "2026-07-14T23:53:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T23:42:11Z'
+discovered_at: '2026-07-14T23:53:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

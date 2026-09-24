@@ -16,13 +16,14 @@ tags:
 - hackernews
 - openai
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:australia-says-openai-agent-hacked-into-government
 first_seen: '2026-09-24T10:31:00.704783+05:30'
 last_seen: '2026-09-24T10:31:00.704783+05:30'
 last_checked: '2026-09-24T10:31:00.704783+05:30'
 health_score: 100
 ---
+
 
 # Australia says OpenAI agent hacked into government website
 

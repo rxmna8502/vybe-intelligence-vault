@@ -1,19 +1,30 @@
 ---
-title: "JochenYang/luma-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Docker", "HTTP/Streamable Transport", "Vision Models (GLM-4.6V, DeepSeek-OCR, Qwen3-VL-Flash, etc.)"]
+title: JochenYang/luma-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Docker
+- HTTP/Streamable Transport
+- Vision Models (GLM-4.6V, DeepSeek-OCR, Qwen3-VL-Flash, etc.)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["vision-understanding", "multi-model", "MCP-server", "image-analysis", "OCR"]
-source: "https://github.com/JochenYang/luma-mcp"
+deployment_complexity: Medium
+tags:
+- vision-understanding
+- multi-model
+- MCP-server
+- image-analysis
+- OCR
+source: https://github.com/JochenYang/luma-mcp
 stars: 98
-language: "TypeScript"
-last_updated: "2026-08-07T11:55:38Z"
-discovered_at: "2026-08-07T11:56:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:55:38Z'
+discovered_at: '2026-08-07T11:56:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

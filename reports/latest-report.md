@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-24T15:36:04.369511+05:30`
+Generated at: `2026-09-24T19:29:47.100304+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,38 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
+- **Meta takes down a critical video about meta AI Glasses after filming at Meta** - Score: `365` in category `ai/community` ([Link](https://reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai)) ([File](../ai/community/meta-takes-down-a-critical-video-about-meta-ai-gla.md))
+- **Early rogue AI agent activity and attempts to hack found on urlquery.net** - Score: `172` in category `ai/community` ([Link](https://transluce.org/agent-activity)) ([File](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md))
+- **OpenAI agent hacked Australian government website, PM says** - Score: `146` in category `ai/community` ([Link](https://bbc.com/news/live/cvgl73pxgndwt)) ([File](../ai/community/openai-agent-hacked-australian-government-website.md))
+- **'That's so AI ' What gen Alpha's biggest insult tells us** - Score: `62` in category `ai/community` ([Link](https://theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)) ([File](../ai/community/that-s-so-ai-what-gen-alpha-s-biggest-insult-tells.md))
+- **openai/clip-vit-base-patch32** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/openai/clip-vit-base-patch32)) ([File](../ai/models/huggingface-openai-clip-vit-base-patch32.md))
+- **openai/gsm8k** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/openai)) ([File](../ai/models/huggingface-datasets-openai.md))
 
 ## Top Trending Resources
 
-- **FleXray: Universal Clinical X-ray Segmentation** - Score: `0` (0), Rank Change: `+988` ([File](../ai/research/arxiv-2609-26756.md))
-- **QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation** - Score: `0` (0), Rank Change: `+988` ([File](../ai/research/arxiv-2609-26425.md))
-- **How Children Design and Reason about Trustworthy AI Chatbots** - Score: `0` (0), Rank Change: `+988` ([File](../ai/research/arxiv-2609-25244.md))
-- **Benchmarking Text-to-SQL under Role-Based Access Control** - Score: `0` (0), Rank Change: `+988` ([File](../ai/research/arxiv-2607-22115.md))
-- **Routing-Aware Expert Calibration for Machine Unlearning in Mixture-of-Experts Language Models** - Score: `0` (0), Rank Change: `+988` ([File](../ai/research/arxiv-2606-10338.md))
-- **TukaBench: A Culturally Grounded Jailbreak Benchmark for African Languages** - Score: `0` (0), Rank Change: `+988` ([File](../ai/research/arxiv-2606-01322.md))
-- **DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies** - Score: `0` (0), Rank Change: `+988` ([File](../ai/agents/arxiv-2605-11750.md))
-- **EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields** - Score: `0` (0), Rank Change: `+988` ([File](../ai/rag/arxiv-2605-06192.md))
-- **Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory** - Score: `0` (0), Rank Change: `+988` ([File](../ai/rag/arxiv-2605-03228.md))
-- **Toward Measuring Structural Drift in LLM Communication Loops** - Score: `0` (0), Rank Change: `+988` ([File](../ai/agents/arxiv-2604-13061.md))
+- **Linux support is coming to Snapdragon X2 Series** - Score: `503` (+252), Rank Change: `0` ([File](../ai/community/linux-support-is-coming-to-snapdragon-x2-series.md))
+- **Making Tailscale Faster** - Score: `198` (+84), Rank Change: `0` ([File](../ai/community/making-tailscale-faster.md))
+- **Mercury 2.5 LLM hits 770 tokens per second** - Score: `133` (+56), Rank Change: `-2` ([File](../ai/community/mercury-2-5-llm-hits-770-tokens-per-second.md))
+- **wxmb01/codex-app-autonomous-runs** - Score: `0` (0), Rank Change: `+7043` ([File](../ai/rag/wxmb01-codex-app-autonomous-runs.md))
+- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+7041` ([File](../ai/agents/agent0ai-agent-zero.md))
+- **plusai-solutions/ai-scrum-master-template** - Score: `0` (0), Rank Change: `+14413` ([File](../ai/agents/plusai-solutions-ai-scrum-master-template.md))
+- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+3011` ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **airalab/autonomous_agent_template** - Score: `0` (0), Rank Change: `+6535` ([File](../ai/rag/airalab-autonomous-agent-template.md))
+- **mvanhorn/clawdbot-skill-manus** - Score: `0` (0), Rank Change: `+7814` ([File](../ai/agents/mvanhorn-clawdbot-skill-manus.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1444` ([File](../ai/rag/pguso-rag-from-scratch.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **raganwald/raganwald.github.com** - (Rank Change: `+1013`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **masumi-network/crewai-masumi-quickstart-template** - (Rank Change: `+1013`) ([File](../ai/agents/masumi-network-crewai-masumi-quickstart-template.md))
-- **elder-plinius/T3MP3ST** - (Rank Change: `+1013`) ([File](../ai/rag/elder-plinius-t3mp3st.md))
-- **langchain-ai/open-swe** - (Rank Change: `+1013`) ([File](../ai/agents/langchain-ai-open-swe.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+1013`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **langchain-ai/rag-research-agent-template** - (Rank Change: `+1013`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+1013`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **vivy-yi/rag-tutorial** - (Rank Change: `+1013`) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **lancedb/vectordb-recipes** - (Rank Change: `+1013`) ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+1013`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **plusai-solutions/ai-scrum-master-template** - (Rank Change: `+14413`) ([File](../ai/agents/plusai-solutions-ai-scrum-master-template.md))
+- **mvanhorn/clawdbot-skill-manus** - (Rank Change: `+7814`) ([File](../ai/agents/mvanhorn-clawdbot-skill-manus.md))
+- **wxmb01/codex-app-autonomous-runs** - (Rank Change: `+7043`) ([File](../ai/rag/wxmb01-codex-app-autonomous-runs.md))
+- **agent0ai/agent-zero** - (Rank Change: `+7041`) ([File](../ai/agents/agent0ai-agent-zero.md))
+- **airalab/autonomous_agent_template** - (Rank Change: `+6535`) ([File](../ai/rag/airalab-autonomous-agent-template.md))
+- **Senpi-ai/senpi-skills** - (Rank Change: `+3011`) ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1448`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+1447`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1447`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **NirDiamant/RAG_Techniques** - (Rank Change: `+1446`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +50,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Feds Target AI Critics as "Foreign Agents"** (Category: `ai/community`) ([File](../ai/community/feds-target-ai-critics-as-foreign-agents.md))
+- **Australia says OpenAI agent hacked into government website** (Category: `ai/community`) ([File](../ai/community/australia-says-openai-agent-hacked-into-government.md))

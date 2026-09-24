@@ -1,19 +1,34 @@
 ---
-title: "imyigo/Wyv-Studio"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Next.js 16", "React 19", "TypeScript", "GSAP", "Three.js", "Framer Motion", "Tailwind CSS", "Bootstrap 5.3", "MCP (Model Context Protocol)", "Docker"]
+title: imyigo/Wyv-Studio
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Next.js 16
+- React 19
+- TypeScript
+- GSAP
+- Three.js
+- Framer Motion
+- Tailwind CSS
+- Bootstrap 5.3
+- MCP (Model Context Protocol)
+- Docker
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["UI development", "AI agent integration", "component library", "animation engines", "MCP marketplace"]
-source: "https://github.com/imyigo/Wyv-Studio"
+deployment_complexity: Medium
+tags:
+- UI development
+- AI agent integration
+- component library
+- animation engines
+- MCP marketplace
+source: https://github.com/imyigo/Wyv-Studio
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-03T10:41:35Z"
-discovered_at: "2026-08-03T10:44:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T10:41:35Z'
+discovered_at: '2026-08-03T10:44:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

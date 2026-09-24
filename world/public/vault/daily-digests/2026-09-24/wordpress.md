@@ -1,19 +1,33 @@
 ---
-title: "skalesapp/wordpress"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PHP", "WordPress", "REST API", "JSON", "Gutenberg", "Elementor", "WooCommerce", "SEO Plugins (RankMath, Yoast)", "Caching Plugins (WP Super Cache, W3 Total Cache, LiteSpeed, WP Rocket)"]
+title: skalesapp/wordpress
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- PHP
+- WordPress
+- REST API
+- JSON
+- Gutenberg
+- Elementor
+- WooCommerce
+- SEO Plugins (RankMath, Yoast)
+- Caching Plugins (WP Super Cache, W3 Total Cache, LiteSpeed, WP Rocket)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["WordPress automation", "AI content management", "REST API integration", "SEO tools", "WooCommerce automation"]
-source: "https://github.com/skalesapp/wordpress"
+deployment_complexity: Low
+tags:
+- WordPress automation
+- AI content management
+- REST API integration
+- SEO tools
+- WooCommerce automation
+source: https://github.com/skalesapp/wordpress
 stars: 6
-language: "PHP"
-last_updated: "2026-08-09T16:37:12Z"
-discovered_at: "2026-08-09T16:38:27Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-09T16:37:12Z'
+discovered_at: '2026-08-09T16:38:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

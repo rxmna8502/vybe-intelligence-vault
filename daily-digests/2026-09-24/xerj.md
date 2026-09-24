@@ -1,19 +1,30 @@
 ---
-title: "xerj-org/xerj"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Elasticsearch API", "Tree-sitter", "ONNX", "SQLite", "PDF/DOCX parsers"]
+title: xerj-org/xerj
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Elasticsearch API
+- Tree-sitter
+- ONNX
+- SQLite
+- PDF/DOCX parsers
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["search engine", "AI agents", "Elasticsearch-compatible", "vector search", "AST-aware indexing"]
-source: "https://github.com/xerj-org/xerj"
+deployment_complexity: Low
+tags:
+- search engine
+- AI agents
+- Elasticsearch-compatible
+- vector search
+- AST-aware indexing
+source: https://github.com/xerj-org/xerj
 stars: 1209
-language: "Rust"
-last_updated: "2026-08-07T09:53:49Z"
-discovered_at: "2026-08-07T10:05:39Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T09:53:49Z'
+discovered_at: '2026-08-07T10:05:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

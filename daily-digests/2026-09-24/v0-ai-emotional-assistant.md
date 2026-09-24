@@ -1,19 +1,29 @@
 ---
-title: "vineela49/v0-ai-emotional-assistant"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Next.js", "React", "JavaScript", "Web UI/UX"]
+title: vineela49/v0-ai-emotional-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Next.js
+- React
+- JavaScript
+- Web UI/UX
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: "Medium"
-tags: ["emotional AI", "conversational UI", "personalized assistant", "interactive experiences", "modular architecture"]
-source: "https://github.com/vineela49/v0-ai-emotional-assistant"
+deployment_complexity: Medium
+tags:
+- emotional AI
+- conversational UI
+- personalized assistant
+- interactive experiences
+- modular architecture
+source: https://github.com/vineela49/v0-ai-emotional-assistant
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T17:57:44Z"
-discovered_at: "2026-08-10T18:01:25Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T17:57:44Z'
+discovered_at: '2026-08-10T18:01:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

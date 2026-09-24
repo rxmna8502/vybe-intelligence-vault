@@ -1,19 +1,30 @@
 ---
-title: "amajorai/ryu-whiteboard"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "Excalidraw", "Mermaid.js", "Vite", "Ryu Framework", "HTML/CSS"]
+title: amajorai/ryu-whiteboard
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Excalidraw
+- Mermaid.js
+- Vite
+- Ryu Framework
+- HTML/CSS
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["whiteboard", "collaboration", "diagram", "Excalidraw", "Ryu ecosystem"]
-source: "https://github.com/amajorai/ryu-whiteboard"
+deployment_complexity: Medium
+tags:
+- whiteboard
+- collaboration
+- diagram
+- Excalidraw
+- Ryu ecosystem
+source: https://github.com/amajorai/ryu-whiteboard
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T08:31:45Z"
-discovered_at: "2026-08-05T08:36:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:31:45Z'
+discovered_at: '2026-08-05T08:36:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

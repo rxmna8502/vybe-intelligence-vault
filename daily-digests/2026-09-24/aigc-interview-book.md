@@ -1,19 +1,34 @@
 ---
-title: "WeThinkIn/AIGC-Interview-Book"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "C/C++", "Java", "Go", "Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "Reinforcement Learning", "Model Deployment"]
+title: WeThinkIn/AIGC-Interview-Book
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- C/C++
+- Java
+- Go
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Reinforcement Learning
+- Model Deployment
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["Interview Preparation", "AI Job Guide", "AIGC", "LLM", "AI Agent"]
-source: "https://github.com/WeThinkIn/AIGC-Interview-Book"
+deployment_complexity: Low
+tags:
+- Interview Preparation
+- AI Job Guide
+- AIGC
+- LLM
+- AI Agent
+source: https://github.com/WeThinkIn/AIGC-Interview-Book
 stars: 4097
-language: "None"
-last_updated: "2026-07-15T12:11:16Z"
-discovered_at: "2026-07-15T12:14:14Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-15T12:11:16Z'
+discovered_at: '2026-07-15T12:14:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "AnvitDevadiga/msdesk"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "TypeScript", "Node.js", "TrueForge", "Model Context Protocol (MCP)", "Server-Sent Events (SSE)", "Python", "Slack API", "Groq API", "Ollama"]
+title: AnvitDevadiga/msdesk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- TypeScript
+- Node.js
+- TrueForge
+- Model Context Protocol (MCP)
+- Server-Sent Events (SSE)
+- Python
+- Slack API
+- Groq API
+- Ollama
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous reporting", "human-in-the-loop", "MCP integration", "sandboxed computation", "Slack automation"]
-source: "https://github.com/AnvitDevadiga/msdesk"
+deployment_complexity: Medium
+tags:
+- autonomous reporting
+- human-in-the-loop
+- MCP integration
+- sandboxed computation
+- Slack automation
+source: https://github.com/AnvitDevadiga/msdesk
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-29T18:09:33Z"
-discovered_at: "2026-09-04T02:21:04Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-29T18:09:33Z'
+discovered_at: '2026-09-04T02:21:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

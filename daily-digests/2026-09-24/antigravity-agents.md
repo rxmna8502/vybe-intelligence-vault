@@ -1,19 +1,31 @@
 ---
-title: "rafaelghif/antigravity-agents"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "POSIX Shell Scripting", "Model Context Protocol (MCP)", "Git", "Antigravity CLI", "JSON/YAML", "Markdown"]
+title: rafaelghif/antigravity-agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- POSIX Shell Scripting
+- Model Context Protocol (MCP)
+- Git
+- Antigravity CLI
+- JSON/YAML
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent governance", "deterministic execution", "task-driven workflows", "autonomous coding agents", "guardrails"]
-source: "https://github.com/rafaelghif/antigravity-agents"
+deployment_complexity: Medium
+tags:
+- AI agent governance
+- deterministic execution
+- task-driven workflows
+- autonomous coding agents
+- guardrails
+source: https://github.com/rafaelghif/antigravity-agents
 stars: 4
-language: "Python"
-last_updated: "2026-08-05T13:57:44Z"
-discovered_at: "2026-08-05T14:07:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T13:57:44Z'
+discovered_at: '2026-08-05T14:07:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

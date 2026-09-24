@@ -1,19 +1,29 @@
 ---
-title: "mailkite/mailkite-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "npm", "REST API"]
+title: mailkite/mailkite-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- npm
+- REST API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["email automation", "AI agent tools", "MCP server", "inbox management", "domain verification"]
-source: "https://github.com/mailkite/mailkite-mcp"
+deployment_complexity: Low
+tags:
+- email automation
+- AI agent tools
+- MCP server
+- inbox management
+- domain verification
+source: https://github.com/mailkite/mailkite-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-02T14:54:01Z"
-discovered_at: "2026-08-02T15:02:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T14:54:01Z'
+discovered_at: '2026-08-02T15:02:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

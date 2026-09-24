@@ -1,19 +1,38 @@
 ---
-title: "sekacorn/AgentForge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Asyncio", "Anthropic API", "OpenAI API", "Amazon Bedrock", "Ollama", "SQLite", "PostgreSQL", "pgvector", "Redis", "OpenTelemetry", "Mypy", "Ruff", "PyPI"]
+title: sekacorn/AgentForge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Asyncio
+- Anthropic API
+- OpenAI API
+- Amazon Bedrock
+- Ollama
+- SQLite
+- PostgreSQL
+- pgvector
+- Redis
+- OpenTelemetry
+- Mypy
+- Ruff
+- PyPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "cost-aware AI", "security-first design", "production-grade", "observability"]
-source: "https://github.com/sekacorn/AgentForge"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- cost-aware AI
+- security-first design
+- production-grade
+- observability
+source: https://github.com/sekacorn/AgentForge
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T16:33:51Z"
-discovered_at: "2026-08-08T16:36:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:33:51Z'
+discovered_at: '2026-08-08T16:36:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

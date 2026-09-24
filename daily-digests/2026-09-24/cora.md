@@ -1,19 +1,33 @@
 ---
-title: "imlach/cora"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "GitHub Actions", "LLM (Local or Self-hosted)", "BM25", "Qdrant", "TEI (Text Embedding Inference)", "Git", "GitHub API"]
+title: imlach/cora
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Docker
+- GitHub Actions
+- LLM (Local or Self-hosted)
+- BM25
+- Qdrant
+- TEI (Text Embedding Inference)
+- Git
+- GitHub API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["PR Review", "Self-hosted", "Convention-driven", "Agentic", "Merge gating"]
-source: "https://github.com/imlach/cora"
+deployment_complexity: Medium
+tags:
+- PR Review
+- Self-hosted
+- Convention-driven
+- Agentic
+- Merge gating
+source: https://github.com/imlach/cora
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T17:48:46Z"
-discovered_at: "2026-08-04T17:49:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T17:48:46Z'
+discovered_at: '2026-08-04T17:49:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "lukas121212112/AgentGuide"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["LangGraph", "Electron (implied by desktop app)", "Markdown", "Python (implied for backend logic)"]
+title: lukas121212112/AgentGuide
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- LangGraph
+- Electron (implied by desktop app)
+- Markdown
+- Python (implied for backend logic)
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI education", "LangGraph", "agent development", "interview preparation", "RAG techniques"]
-source: "https://github.com/lukas121212112/AgentGuide"
+deployment_complexity: Low
+tags:
+- AI education
+- LangGraph
+- agent development
+- interview preparation
+- RAG techniques
+source: https://github.com/lukas121212112/AgentGuide
 stars: 0
-language: "HTML"
-last_updated: "2026-09-01T22:10:40Z"
-discovered_at: "2026-09-01T22:17:55Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-01T22:10:40Z'
+discovered_at: '2026-09-01T22:17:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

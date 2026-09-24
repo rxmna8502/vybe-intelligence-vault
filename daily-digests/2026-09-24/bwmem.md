@@ -1,19 +1,34 @@
 ---
-title: "Bitwarelabscom/bwmem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "pgvector", "Redis", "Neo4j", "Fastify", "OpenAI API", "Ollama", "OpenRouter"]
+title: Bitwarelabscom/bwmem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- pgvector
+- Redis
+- Neo4j
+- Fastify
+- OpenAI API
+- Ollama
+- OpenRouter
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory management", "bi-temporal facts", "semantic search", "contradiction detection", "AI agent memory"]
-source: "https://github.com/Bitwarelabscom/bwmem"
+deployment_complexity: Medium
+tags:
+- memory management
+- bi-temporal facts
+- semantic search
+- contradiction detection
+- AI agent memory
+source: https://github.com/Bitwarelabscom/bwmem
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T06:01:35Z"
-discovered_at: "2026-08-09T06:59:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T06:01:35Z'
+discovered_at: '2026-08-09T06:59:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

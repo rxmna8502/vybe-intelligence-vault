@@ -1,19 +1,31 @@
 ---
-title: "livetennisapi/livetennisapi-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "HTTP/JSON", "npm", "Jest (testing)"]
+title: livetennisapi/livetennisapi-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- HTTP/JSON
+- npm
+- Jest (testing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["tennis data", "real-time scores", "MCP server", "AI agent integration", "odds and analytics"]
-source: "https://github.com/livetennisapi/livetennisapi-mcp"
+deployment_complexity: Low
+tags:
+- tennis data
+- real-time scores
+- MCP server
+- AI agent integration
+- odds and analytics
+source: https://github.com/livetennisapi/livetennisapi-mcp
 stars: 214
-language: "JavaScript"
-last_updated: "2026-08-02T02:22:51Z"
-discovered_at: "2026-08-02T02:35:02Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T02:22:51Z'
+discovered_at: '2026-08-02T02:35:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

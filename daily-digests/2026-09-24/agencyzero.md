@@ -1,19 +1,32 @@
 ---
-title: "pathscale/agencyzero"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Tauri", "SolidJS", "TypeScript", "Bun", "Cargo", "rsbuild", "MCP (Model Context Protocol)"]
+title: pathscale/agencyzero
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Tauri
+- SolidJS
+- TypeScript
+- Bun
+- Cargo
+- rsbuild
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["agent platform", "desktop GUI", "Rust backend", "MCP integration", "high-security AI"]
-source: "https://github.com/pathscale/agencyzero"
+deployment_complexity: Medium
+tags:
+- agent platform
+- desktop GUI
+- Rust backend
+- MCP integration
+- high-security AI
+source: https://github.com/pathscale/agencyzero
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T03:40:49Z"
-discovered_at: "2026-08-01T03:43:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:40:49Z'
+discovered_at: '2026-08-01T03:43:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,28 @@
 ---
-title: "ezra-y/fruit-picker"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Computer Vision", "Horticultural Research", "AI Agent Integration"]
+title: ezra-y/fruit-picker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Computer Vision
+- Horticultural Research
+- AI Agent Integration
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["fruit evaluation", "computer vision", "AI agent skill", "horticulture", "ripeness detection"]
-source: "https://github.com/ezra-y/fruit-picker"
+deployment_complexity: Low
+tags:
+- fruit evaluation
+- computer vision
+- AI agent skill
+- horticulture
+- ripeness detection
+source: https://github.com/ezra-y/fruit-picker
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T22:45:56Z"
-discovered_at: "2026-08-01T22:54:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T22:45:56Z'
+discovered_at: '2026-08-01T22:54:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "agent6-dev/agent6"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Landlock", "seccomp", "Linux namespaces", "Git", "OpenAI-compatible APIs", "MCP servers", "uv", "FastAPI"]
+title: agent6-dev/agent6
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Landlock
+- seccomp
+- Linux namespaces
+- Git
+- OpenAI-compatible APIs
+- MCP servers
+- uv
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["sandboxed execution", "state machines", "LLM agent", "security", "workflow automation"]
-source: "https://github.com/agent6-dev/agent6"
+deployment_complexity: Medium
+tags:
+- sandboxed execution
+- state machines
+- LLM agent
+- security
+- workflow automation
+source: https://github.com/agent6-dev/agent6
 stars: 1
-language: "Python"
-last_updated: "2026-07-12T22:44:31Z"
-discovered_at: "2026-07-12T22:44:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T22:44:31Z'
+discovered_at: '2026-07-12T22:44:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

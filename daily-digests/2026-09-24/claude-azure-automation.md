@@ -1,19 +1,31 @@
 ---
-title: "antongeorgescu/claude-azure-automation"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Azure Synapse", "Azure Automation", "Azure Monitor", "Azure Cost Management", "Model Context Protocol (MCP)", "Claude Desktop"]
+title: antongeorgescu/claude-azure-automation
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Azure Synapse
+- Azure Automation
+- Azure Monitor
+- Azure Cost Management
+- Model Context Protocol (MCP)
+- Claude Desktop
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Azure Synapse", "cost optimization", "automation", "SQL pool management", "MCP server"]
-source: "https://github.com/antongeorgescu/claude-azure-automation"
+deployment_complexity: Medium
+tags:
+- Azure Synapse
+- cost optimization
+- automation
+- SQL pool management
+- MCP server
+source: https://github.com/antongeorgescu/claude-azure-automation
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T02:03:20Z"
-discovered_at: "2026-09-03T02:22:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T02:03:20Z'
+discovered_at: '2026-09-03T02:22:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
