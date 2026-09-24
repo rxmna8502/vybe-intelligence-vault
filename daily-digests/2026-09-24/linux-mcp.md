@@ -1,19 +1,29 @@
 ---
-title: "Mohabdo21/linux-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Linux system tools", "Docker", "systemd"]
+title: Mohabdo21/linux-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Linux system tools
+- Docker
+- systemd
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Linux monitoring", "MCP server", "system diagnostics", "real-time data", "Docker integration"]
-source: "https://github.com/Mohabdo21/linux-mcp"
+deployment_complexity: Low
+tags:
+- Linux monitoring
+- MCP server
+- system diagnostics
+- real-time data
+- Docker integration
+source: https://github.com/Mohabdo21/linux-mcp
 stars: 0
-language: "Go"
-last_updated: "2026-07-16T16:22:14Z"
-discovered_at: "2026-07-16T16:25:45Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-16T16:22:14Z'
+discovered_at: '2026-07-16T16:25:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

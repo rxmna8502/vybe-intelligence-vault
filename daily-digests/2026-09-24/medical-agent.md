@@ -1,19 +1,32 @@
 ---
-title: "She1kh144/medical-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM Function Calling", "HTTP API", "DeepSeek API", "JSONL Tracing", "Uvicorn", "Rate Limiting", "Unit Testing"]
+title: She1kh144/medical-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- LLM Function Calling
+- HTTP API
+- DeepSeek API
+- JSONL Tracing
+- Uvicorn
+- Rate Limiting
+- Unit Testing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["medical AI", "function calling", "deterministic guards", "Russian language", "trace evaluation"]
-source: "https://github.com/She1kh144/medical-agent"
+deployment_complexity: Medium
+tags:
+- medical AI
+- function calling
+- deterministic guards
+- Russian language
+- trace evaluation
+source: https://github.com/She1kh144/medical-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T14:15:05Z"
-discovered_at: "2026-08-07T14:18:58Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T14:15:05Z'
+discovered_at: '2026-08-07T14:18:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

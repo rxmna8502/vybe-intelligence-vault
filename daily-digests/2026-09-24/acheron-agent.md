@@ -1,19 +1,35 @@
 ---
-title: "ATchangan/Acheron-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Vite", "Zustand", "Playwright", "TF-IDF", "DPAPI", "Node.js", "Python", "Windows API"]
+title: ATchangan/Acheron-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Vite
+- Zustand
+- Playwright
+- TF-IDF
+- DPAPI
+- Node.js
+- Python
+- Windows API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Windows desktop agent", "multi-agent system", "autonomous AI", "tool integration", "memory management"]
-source: "https://github.com/ATchangan/Acheron-agent"
+deployment_complexity: Medium
+tags:
+- Windows desktop agent
+- multi-agent system
+- autonomous AI
+- tool integration
+- memory management
+source: https://github.com/ATchangan/Acheron-agent
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T17:54:17Z"
-discovered_at: "2026-08-01T18:00:04Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T17:54:17Z'
+discovered_at: '2026-08-01T18:00:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

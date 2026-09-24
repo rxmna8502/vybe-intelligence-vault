@@ -1,19 +1,31 @@
 ---
-title: "NiobiumInc/niobium-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Fully Homomorphic Encryption (FHE)", "OpenFHE", "Docker", "Claude Code", "OpenAI Codex CLI", "Agent Skills Standard", "C++"]
+title: NiobiumInc/niobium-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Fully Homomorphic Encryption (FHE)
+- OpenFHE
+- Docker
+- Claude Code
+- OpenAI Codex CLI
+- Agent Skills Standard
+- C++
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["FHE", "privacy-preserving computation", "AI agent skills", "secure computation", "homomorphic encryption"]
-source: "https://github.com/NiobiumInc/niobium-skills"
+deployment_complexity: Medium
+tags:
+- FHE
+- privacy-preserving computation
+- AI agent skills
+- secure computation
+- homomorphic encryption
+source: https://github.com/NiobiumInc/niobium-skills
 stars: 6
-language: "C++"
-last_updated: "2026-07-15T16:11:06Z"
-discovered_at: "2026-07-15T16:21:04Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-07-15T16:11:06Z'
+discovered_at: '2026-07-15T16:21:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

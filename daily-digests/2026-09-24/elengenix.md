@@ -1,19 +1,33 @@
 ---
-title: "Ashveil1/Elengenix"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "AI/ML (LLMs)", "Model Context Protocol (MCP)", "ChromaDB", "SQLite", "FastAPI", "Textual TUI", "pytest", "GPL-3.0"]
+title: Ashveil1/Elengenix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- AI/ML (LLMs)
+- Model Context Protocol (MCP)
+- ChromaDB
+- SQLite
+- FastAPI
+- Textual TUI
+- pytest
+- GPL-3.0
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous security", "AI-driven penetration testing", "vulnerability discovery", "attack tree generation", "governance layer"]
-source: "https://github.com/Ashveil1/Elengenix"
+deployment_complexity: Medium
+tags:
+- autonomous security
+- AI-driven penetration testing
+- vulnerability discovery
+- attack tree generation
+- governance layer
+source: https://github.com/Ashveil1/Elengenix
 stars: 17
-language: "Python"
-last_updated: "2026-07-11T16:54:28Z"
-discovered_at: "2026-07-11T16:55:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T16:54:28Z'
+discovered_at: '2026-07-11T16:55:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "AgentsDanceAI/deepseek-harness-cloud"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Docker", "PostgreSQL", "SQLite", "Node.js", "TypeScript", "React", "OpenAI API", "DeepSeek Harness", "CI/CD (GitHub Actions)"]
+title: AgentsDanceAI/deepseek-harness-cloud
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- PostgreSQL
+- SQLite
+- Node.js
+- TypeScript
+- React
+- OpenAI API
+- DeepSeek Harness
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Model Gateway", "Multi-Provider", "Self-Hosting", "Usage Metering", "Agent Orchestration"]
-source: "https://github.com/AgentsDanceAI/deepseek-harness-cloud"
+deployment_complexity: Medium
+tags:
+- Model Gateway
+- Multi-Provider
+- Self-Hosting
+- Usage Metering
+- Agent Orchestration
+source: https://github.com/AgentsDanceAI/deepseek-harness-cloud
 stars: 5
-language: "Python"
-last_updated: "2026-09-01T22:08:17Z"
-discovered_at: "2026-09-01T22:18:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:08:17Z'
+discovered_at: '2026-09-01T22:18:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "jwbaozi/campaign-logic-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "AI Agent Frameworks", "Natural Language Processing (NLP)", "Marketing Methodologies (SWOT, PEST, AISAS, etc.)", "Prompt Engineering"]
+title: jwbaozi/campaign-logic-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- AI Agent Frameworks
+- Natural Language Processing (NLP)
+- Marketing Methodologies (SWOT, PEST, AISAS, etc.)
+- Prompt Engineering
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["marketing automation", "AI strategy assistant", "campaign logic engine", "proposal generation", "multi-agent workflows"]
-source: "https://github.com/jwbaozi/campaign-logic-skill"
+deployment_complexity: Medium
+tags:
+- marketing automation
+- AI strategy assistant
+- campaign logic engine
+- proposal generation
+- multi-agent workflows
+source: https://github.com/jwbaozi/campaign-logic-skill
 stars: 1
-language: "None"
-last_updated: "2026-08-05T11:19:48Z"
-discovered_at: "2026-08-05T11:22:10Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-05T11:19:48Z'
+discovered_at: '2026-08-05T11:22:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

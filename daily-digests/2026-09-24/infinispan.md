@@ -1,19 +1,32 @@
 ---
-title: "infinispan/infinispan"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Java", "Apache Maven", "RocksDB", "JVM (17-25)", "Docker", "Kubernetes", "Micrometer", "OpenTelemetry"]
+title: infinispan/infinispan
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Java
+- Apache Maven
+- RocksDB
+- JVM (17-25)
+- Docker
+- Kubernetes
+- Micrometer
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["distributed cache", "in-memory database", "data grid", "high availability", "scalability"]
-source: "https://github.com/infinispan/infinispan"
+deployment_complexity: Medium
+tags:
+- distributed cache
+- in-memory database
+- data grid
+- high availability
+- scalability
+source: https://github.com/infinispan/infinispan
 stars: 1343
-language: "Java"
-last_updated: "2026-08-07T12:45:51Z"
-discovered_at: "2026-08-07T13:03:40Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T12:45:51Z'
+discovered_at: '2026-08-07T13:03:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

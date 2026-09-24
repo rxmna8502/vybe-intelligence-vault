@@ -1,19 +1,32 @@
 ---
-title: "Vellixia/Cairn"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "SQLite", "PostgreSQL", "Axum", "Next.js", "Docker", "Git", "MCP (Model Context Protocol)"]
+title: Vellixia/Cairn
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- SQLite
+- PostgreSQL
+- Axum
+- Next.js
+- Docker
+- Git
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent memory", "context persistence", "AI coding assistants", "local-first", "multi-session sync"]
-source: "https://github.com/Vellixia/Cairn"
+deployment_complexity: Medium
+tags:
+- agent memory
+- context persistence
+- AI coding assistants
+- local-first
+- multi-session sync
+source: https://github.com/Vellixia/Cairn
 stars: 0
-language: "Rust"
-last_updated: "2026-08-09T08:35:05Z"
-discovered_at: "2026-08-09T08:45:20Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T08:35:05Z'
+discovered_at: '2026-08-09T08:45:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

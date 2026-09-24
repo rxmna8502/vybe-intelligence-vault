@@ -1,19 +1,33 @@
 ---
-title: "Joho6666/c-embedded-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C", "Python", "STM32 HAL/CMSIS", "ARM GCC", "FastAPI", "React", "STM32CubeF1", "ST-Link", "Serial Communication"]
+title: Joho6666/c-embedded-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- C
+- Python
+- STM32 HAL/CMSIS
+- ARM GCC
+- FastAPI
+- React
+- STM32CubeF1
+- ST-Link
+- Serial Communication
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["embedded AI", "STM32 development", "firmware automation", "code generation", "hardware validation"]
-source: "https://github.com/Joho6666/c-embedded-agent"
+deployment_complexity: Medium
+tags:
+- embedded AI
+- STM32 development
+- firmware automation
+- code generation
+- hardware validation
+source: https://github.com/Joho6666/c-embedded-agent
 stars: 0
-language: "C"
-last_updated: "2026-09-01T07:24:29Z"
-discovered_at: "2026-09-01T09:07:22Z"
-evaluated_by: "mistral-small-latest"
+language: C
+last_updated: '2026-09-01T07:24:29Z'
+discovered_at: '2026-09-01T09:07:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

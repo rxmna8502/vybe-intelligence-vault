@@ -1,19 +1,29 @@
 ---
-title: "monaty1/devflow-ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Browser-based JavaScript"]
+title: monaty1/devflow-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Browser-based JavaScript
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI development", "browser-based tools", "developer productivity", "open-source", "prompt engineering"]
-source: "https://github.com/monaty1/devflow-ai"
+deployment_complexity: Low
+tags:
+- AI development
+- browser-based tools
+- developer productivity
+- open-source
+- prompt engineering
+source: https://github.com/monaty1/devflow-ai
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-17T02:49:29Z"
-discovered_at: "2026-07-17T02:52:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T02:49:29Z'
+discovered_at: '2026-07-17T02:52:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

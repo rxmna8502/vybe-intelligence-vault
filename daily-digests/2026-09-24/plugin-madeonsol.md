@@ -1,19 +1,31 @@
 ---
-title: "MadeOnSol/plugin-madeonsol"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Solana", "ElizaOS", "x402 micropayments", "WebSocket", "REST API", "Node.js"]
+title: MadeOnSol/plugin-madeonsol
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Solana
+- ElizaOS
+- x402 micropayments
+- WebSocket
+- REST API
+- Node.js
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Solana", "KOL tracking", "real-time analytics", "trading intelligence", "on-chain data"]
-source: "https://github.com/MadeOnSol/plugin-madeonsol"
+deployment_complexity: Medium
+tags:
+- Solana
+- KOL tracking
+- real-time analytics
+- trading intelligence
+- on-chain data
+source: https://github.com/MadeOnSol/plugin-madeonsol
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-31T18:04:02Z"
-discovered_at: "2026-09-02T19:11:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-31T18:04:02Z'
+discovered_at: '2026-09-02T19:11:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

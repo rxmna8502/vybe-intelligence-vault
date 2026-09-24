@@ -1,19 +1,29 @@
 ---
-title: "alloevil/agent-changelog"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript (ES6+)", "GitHub Releases API", "HTML/CSS", "GitHub Pages", "GitHub Actions"]
+title: alloevil/agent-changelog
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript (ES6+)
+- GitHub Releases API
+- HTML/CSS
+- GitHub Pages
+- GitHub Actions
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["changelog", "version tracking", "AI agent frameworks", "automation", "documentation"]
-source: "https://github.com/alloevil/agent-changelog"
+deployment_complexity: Low
+tags:
+- changelog
+- version tracking
+- AI agent frameworks
+- automation
+- documentation
+source: https://github.com/alloevil/agent-changelog
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-06T09:35:34Z"
-discovered_at: "2026-08-06T09:42:14Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T09:35:34Z'
+discovered_at: '2026-08-06T09:42:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

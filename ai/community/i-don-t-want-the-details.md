@@ -13,13 +13,14 @@ collected_at: '2026-09-24T04:33:20.521381+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-don-t-want-the-details
 first_seen: '2026-09-23T19:14:29.353104+05:30'
 last_seen: '2026-09-24T04:33:20.521381+05:30'
 last_checked: '2026-09-24T04:33:20.521381+05:30'
 health_score: 100
 ---
+
 
 # I don't want the details
 

@@ -1,19 +1,30 @@
 ---
-title: "MBemera/magpie"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Cheerio", "Puppeteer", "MCP SDK", "JSON-LD parsing"]
+title: MBemera/magpie
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- Cheerio
+- Puppeteer
+- MCP SDK
+- JSON-LD parsing
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["web scraping", "security-first", "token budgeting", "MCP server", "RAG pipeline"]
-source: "https://github.com/MBemera/magpie"
+deployment_complexity: Medium
+tags:
+- web scraping
+- security-first
+- token budgeting
+- MCP server
+- RAG pipeline
+source: https://github.com/MBemera/magpie
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T05:54:03Z"
-discovered_at: "2026-07-12T05:56:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T05:54:03Z'
+discovered_at: '2026-07-12T05:56:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

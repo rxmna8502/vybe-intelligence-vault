@@ -1,19 +1,30 @@
 ---
-title: "TamaruNorio/UTR_RAG"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "Git/GitHub", "Python", "TCP/IP", "USB/COM", "UHF RFID Protocol"]
+title: TamaruNorio/UTR_RAG
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Markdown
+- Git/GitHub
+- Python
+- TCP/IP
+- USB/COM
+- UHF RFID Protocol
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["UTR-S201", "UHF RFID", "AI-assisted development", "communication protocol", "documentation"]
-source: "https://github.com/TamaruNorio/UTR_RAG"
+deployment_complexity: Low
+tags:
+- UTR-S201
+- UHF RFID
+- AI-assisted development
+- communication protocol
+- documentation
+source: https://github.com/TamaruNorio/UTR_RAG
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T02:33:31Z"
-discovered_at: "2026-08-02T02:34:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T02:33:31Z'
+discovered_at: '2026-08-02T02:34:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

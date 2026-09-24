@@ -1,19 +1,31 @@
 ---
-title: "mizcausevic-dev/mcp-kinetic-gain"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Zod (schema validation)", "ed25519 (attestation)", "SHA-256 (canonical hashing)", "Vitest (testing)"]
+title: mizcausevic-dev/mcp-kinetic-gain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Zod (schema validation)
+- ed25519 (attestation)
+- SHA-256 (canonical hashing)
+- Vitest (testing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "governance artifacts", "protocol validation", "AI claims", "DefenseTech"]
-source: "https://github.com/mizcausevic-dev/mcp-kinetic-gain"
+deployment_complexity: Low
+tags:
+- MCP server
+- governance artifacts
+- protocol validation
+- AI claims
+- DefenseTech
+source: https://github.com/mizcausevic-dev/mcp-kinetic-gain
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T23:55:51Z"
-discovered_at: "2026-08-07T00:02:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T23:55:51Z'
+discovered_at: '2026-08-07T00:02:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

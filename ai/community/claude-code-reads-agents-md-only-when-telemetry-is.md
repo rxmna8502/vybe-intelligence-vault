@@ -14,13 +14,14 @@ tags:
 - agents
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:claude-code-reads-agents-md-only-when-telemetry-is
 first_seen: '2026-09-23T19:14:29.135111+05:30'
 last_seen: '2026-09-24T04:33:20.874631+05:30'
 last_checked: '2026-09-24T04:33:20.874631+05:30'
 health_score: 100
 ---
+
 
 # Claude Code reads AGENTS.md only when telemetry is on [fixed]
 

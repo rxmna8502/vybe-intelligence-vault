@@ -1,19 +1,34 @@
 ---
-title: "infino-ai/infino"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Python", "Node.js", "Parquet", "BM25", "Vector Search", "SQL", "Object Storage (S3, Azure, GCS)", "PyO3", "Maturin"]
+title: infino-ai/infino
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Python
+- Node.js
+- Parquet
+- BM25
+- Vector Search
+- SQL
+- Object Storage (S3, Azure, GCS)
+- PyO3
+- Maturin
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["retrieval", "vector-search", "parquet-native", "multi-modal", "cost-efficient"]
-source: "https://github.com/infino-ai/infino"
+deployment_complexity: Medium
+tags:
+- retrieval
+- vector-search
+- parquet-native
+- multi-modal
+- cost-efficient
+source: https://github.com/infino-ai/infino
 stars: 64
-language: "Rust"
-last_updated: "2026-08-07T10:46:23Z"
-discovered_at: "2026-08-07T11:05:27Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T10:46:23Z'
+discovered_at: '2026-08-07T11:05:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "iampantherr/SecureContext"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "PostgreSQL", "Ollama", "HMAC", "AST (Abstract Syntax Tree)", "Node.js", "MCP (Model Context Protocol)", "HKDF (Hash-based Key Derivation Function)", "Row-Level Security (RLS)"]
+title: iampantherr/SecureContext
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- PostgreSQL
+- Ollama
+- HMAC
+- AST (Abstract Syntax Tree)
+- Node.js
+- MCP (Model Context Protocol)
+- HKDF (Hash-based Key Derivation Function)
+- Row-Level Security (RLS)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Agent Memory", "Security Layer", "Audit Trail", "Local-First", "Claude Code"]
-source: "https://github.com/iampantherr/SecureContext"
+deployment_complexity: Medium
+tags:
+- Agent Memory
+- Security Layer
+- Audit Trail
+- Local-First
+- Claude Code
+source: https://github.com/iampantherr/SecureContext
 stars: 7
-language: "TypeScript"
-last_updated: "2026-07-17T22:45:11Z"
-discovered_at: "2026-07-17T22:47:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T22:45:11Z'
+discovered_at: '2026-07-17T22:47:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

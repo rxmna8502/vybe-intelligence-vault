@@ -1,19 +1,33 @@
 ---
-title: "RIT-MESH/system-design-mastery"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Mermaid.js", "Markdown", "GitHub Actions", "Linux", "HTTP/TLS", "SQL/NoSQL", "Vector Databases", "LLM Serving"]
+title: RIT-MESH/system-design-mastery
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Mermaid.js
+- Markdown
+- GitHub Actions
+- Linux
+- HTTP/TLS
+- SQL/NoSQL
+- Vector Databases
+- LLM Serving
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["system design", "AI systems", "RAG", "scalability", "educational resource"]
-source: "https://github.com/RIT-MESH/system-design-mastery"
+deployment_complexity: Low
+tags:
+- system design
+- AI systems
+- RAG
+- scalability
+- educational resource
+source: https://github.com/RIT-MESH/system-design-mastery
 stars: 0
-language: "Mermaid"
-last_updated: "2026-08-08T07:30:37Z"
-discovered_at: "2026-08-08T07:51:52Z"
-evaluated_by: "mistral-small-latest"
+language: Mermaid
+last_updated: '2026-08-08T07:30:37Z'
+discovered_at: '2026-08-08T07:51:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

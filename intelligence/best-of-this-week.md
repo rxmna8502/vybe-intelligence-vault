@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [HALLMARK: Diagnosing Three Failure Modes in LLM Citation Verifiers](https://arxiv.org/abs/2607.18360) (Score: 70) - Category: `ai-coding-agents/`
-*   [Specification - Model Context Protocol](https://modelcontextprotocol.io/specification/latest) (Score: 70) - Category: `ai-coding-agents/`
-*   [huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents) (Score: 70) - Category: `ai-coding-agents/`
-*   [Strangers to Themselves: What Language Models Say About Themselves Is Generic](https://arxiv.org/abs/2609.09899) (Score: 70) - Category: `ai-coding-agents/`
-*   [Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching](https://arxiv.org/abs/2609.01404) (Score: 70) - Category: `ai-coding-agents/`
-*   [UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents](https://arxiv.org/abs/2604.11557) (Score: 70) - Category: `ai-coding-agents/`
-*   [Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models](https://arxiv.org/abs/2606.13441) (Score: 70) - Category: `ai-coding-agents/`
-*   [HarnessEvolve: Learning from Reference Trajectories for Reliable Agent Self-Evolution](https://arxiv.org/abs/2609.00829) (Score: 70) - Category: `ai-coding-agents/`
-*   [A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents](https://arxiv.org/abs/2605.01143) (Score: 70) - Category: `ai-coding-agents/`
-*   [SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at Scale](https://arxiv.org/abs/2609.08228) (Score: 70) - Category: `ai-coding-agents/`
-*   [Beyond Scaling: Self-Evolving LLM Agents for Hardware Kernel Optimization via an Experience-Driven Workflow and Experience Graph Memory](https://arxiv.org/abs/2608.25570) (Score: 70) - Category: `ai-coding-agents/`
-*   [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](https://arxiv.org/abs/2609.24890) (Score: 70) - Category: `ai-coding-agents/`
-*   [Empirical Grounding Improves the Realism of LLM Agents Simulating Human Behavior During Disruptions](https://arxiv.org/abs/2607.17437) (Score: 70) - Category: `ai-coding-agents/`
-*   [Consistent Zero-Shot Imitation with Contrastive Goal Inference](https://arxiv.org/abs/2510.17059) (Score: 70) - Category: `ai-coding-agents/`
-*   [ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection](https://arxiv.org/abs/2608.20637) (Score: 70) - Category: `ai-coding-agents/`
+*   [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (Score: 70) - Category: `ai-coding-agents/`
+*   [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (Score: 70) - Category: `ai-coding-agents/`
+*   [Calibrated Alzheimer's Conversion Risk in Mild Cognitive Impairment: Persistent Homology of Clinical Trajectories with Conformal Guarantees](https://arxiv.org/abs/2607.17442) (Score: 70) - Category: `ai-coding-agents/`
+*   [Can Coding Agents Reproduce Findings in Computational Materials Science?](https://arxiv.org/abs/2605.00803) (Score: 70) - Category: `ai-coding-agents/`
+*   [Poise: Position-Aware One-Instruction Skill Injection for Silent Execution on LLM Agents](https://arxiv.org/abs/2606.07943) (Score: 70) - Category: `ai-coding-agents/`
+*   [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) (Score: 70) - Category: `ai-coding-agents/`
+*   [Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](https://firecrawl.dev/blog) (Score: 70) - Category: `ai-coding-agents/`
+*   [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) (Score: 70) - Category: `ai-coding-agents/`
+*   [The Hitchhiker's Guide to Monoculture](https://arxiv.org/abs/2607.13077) (Score: 70) - Category: `ai-coding-agents/`
+*   [Kangsan Kim - Homepage](https://kangsankim07.github.io) (Score: 70) - Category: `ai-coding-agents/`
+*   [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Score: 70) - Category: `ai-coding-agents/`
+*   [Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140) (Score: 70) - Category: `ai-coding-agents/`
+*   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
+*   [RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests](https://arxiv.org/abs/2608.27831) (Score: 70) - Category: `ai-coding-agents/`
+*   [Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs](https://arxiv.org/abs/2608.16391) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

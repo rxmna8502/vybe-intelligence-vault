@@ -1,19 +1,34 @@
 ---
-title: "Opedd/opedd-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Stripe API", "Tempo Blockchain", "Supabase", "PostHog", "NDJSON", "HTTP/Streamable", "JSON-LD"]
+title: Opedd/opedd-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Stripe API
+- Tempo Blockchain
+- Supabase
+- PostHog
+- NDJSON
+- HTTP/Streamable
+- JSON-LD
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["licensed content", "rights management", "EU AI Act compliance", "on-chain verification", "MCP server"]
-source: "https://github.com/Opedd/opedd-mcp"
+deployment_complexity: Medium
+tags:
+- licensed content
+- rights management
+- EU AI Act compliance
+- on-chain verification
+- MCP server
+source: https://github.com/Opedd/opedd-mcp
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-01T06:09:27Z"
-discovered_at: "2026-08-01T06:29:19Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T06:09:27Z'
+discovered_at: '2026-08-01T06:29:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

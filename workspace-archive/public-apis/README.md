@@ -9,13 +9,13 @@ Public developer APIs supply external context and utilities for LLM tools.
 ## Top Matched Resources
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
-- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
-- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [Apps Script | Google for Developers](https://developers.google.com/apps-script) (tutorial - USEFUL Tier)
-- [GitHub Changelog](https://github.blog/changelog) (tutorial - USEFUL Tier)
+- [Tune Gemini models by using supervised fine-tuning | Gemini Enterprise Agent Platform | Google Cloud Documentation](https://cloud.google.com/gemini-enterprise-agent-platform/models/gemini-use-supervised-tuning) (framework - USEFUL Tier)
+- [gainsight-px-rest-API documentation](https://px-apidocs.gainsight.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-09-24 04:52 IST*
+*Last updated: 2026-09-24 10:51 IST*

@@ -1,19 +1,28 @@
 ---
-title: "canderson-maker/teardown-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PowerShell", "POSIX (partial support)", "Standard Library (no dependencies)"]
+title: canderson-maker/teardown-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- PowerShell
+- POSIX (partial support)
+- Standard Library (no dependencies)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "operational safety", "watchdog", "process management", "cost control"]
-source: "https://github.com/canderson-maker/teardown-kit"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- operational safety
+- watchdog
+- process management
+- cost control
+source: https://github.com/canderson-maker/teardown-kit
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T18:51:35Z"
-discovered_at: "2026-08-07T00:02:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T18:51:35Z'
+discovered_at: '2026-08-07T00:02:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

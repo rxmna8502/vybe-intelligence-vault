@@ -1,19 +1,37 @@
 ---
-title: "dryvist/nix-ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Nix", "Nix Flakes", "Home Manager", "Nixpkgs", "MLX", "vLLM", "MCP Servers", "Claude Code", "Gemini", "OpenAI Codex", "Cursor CLI", "Qwen Code", "Cecli"]
+title: dryvist/nix-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Nix
+- Nix Flakes
+- Home Manager
+- Nixpkgs
+- MLX
+- vLLM
+- MCP Servers
+- Claude Code
+- Gemini
+- OpenAI Codex
+- Cursor CLI
+- Qwen Code
+- Cecli
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Nix", "AI Tooling", "MCP", "Reproducible AI", "Local Inference"]
-source: "https://github.com/dryvist/nix-ai"
+deployment_complexity: Medium
+tags:
+- Nix
+- AI Tooling
+- MCP
+- Reproducible AI
+- Local Inference
+source: https://github.com/dryvist/nix-ai
 stars: 11
-language: "Nix"
-last_updated: "2026-09-01T19:03:27Z"
-discovered_at: "2026-09-01T19:07:58Z"
-evaluated_by: "mistral-small-latest"
+language: Nix
+last_updated: '2026-09-01T19:03:27Z'
+discovered_at: '2026-09-01T19:07:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

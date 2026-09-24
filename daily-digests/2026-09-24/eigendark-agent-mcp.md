@@ -1,19 +1,31 @@
 ---
-title: "kai-linux/eigendark-agent-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Streamable HTTP", "JSON Schema", "mTLS", "Nginx", "Docker (implied by deployment)"]
+title: kai-linux/eigendark-agent-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Streamable HTTP
+- JSON Schema
+- mTLS
+- Nginx
+- Docker (implied by deployment)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "AI agent integration", "card game API", "self-onboarding", "security-hardened"]
-source: "https://github.com/kai-linux/eigendark-agent-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AI agent integration
+- card game API
+- self-onboarding
+- security-hardened
+source: https://github.com/kai-linux/eigendark-agent-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-07-20T17:53:08Z"
-discovered_at: "2026-07-20T18:00:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T17:53:08Z'
+discovered_at: '2026-07-20T18:00:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

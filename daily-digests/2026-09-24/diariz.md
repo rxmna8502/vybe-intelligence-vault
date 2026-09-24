@@ -1,19 +1,34 @@
 ---
-title: "kenhayward/Diariz"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", "WhisperX", "pyannote", "SpeechBrain ECAPA", "WebAssembly", "TypeScript", "React", "PostgreSQL", "FFmpeg", "Docker"]
+title: kenhayward/Diariz
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- C#
+- WhisperX
+- pyannote
+- SpeechBrain ECAPA
+- WebAssembly
+- TypeScript
+- React
+- PostgreSQL
+- FFmpeg
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["meeting transcription", "speaker diarization", "voice recognition", "self-hosted", "AI summarization"]
-source: "https://github.com/kenhayward/Diariz"
+deployment_complexity: High
+tags:
+- meeting transcription
+- speaker diarization
+- voice recognition
+- self-hosted
+- AI summarization
+source: https://github.com/kenhayward/Diariz
 stars: 4
-language: "C#"
-last_updated: "2026-09-01T14:01:24Z"
-discovered_at: "2026-09-01T15:56:35Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-09-01T14:01:24Z'
+discovered_at: '2026-09-01T15:56:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

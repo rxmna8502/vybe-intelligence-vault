@@ -1,19 +1,32 @@
 ---
-title: "tmwgsicp/wechat-download-api"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Docker", "SOCKS5 Proxy", "Chrome TLS Fingerprinting", "SQLite", "MCP (Model Context Protocol)", "HTML/Markdown Parsing"]
+title: tmwgsicp/wechat-download-api
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- SOCKS5 Proxy
+- Chrome TLS Fingerprinting
+- SQLite
+- MCP (Model Context Protocol)
+- HTML/Markdown Parsing
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["WeChat API", "RSS Generation", "AI Client Integration", "Anti-Censorship", "Markdown Export"]
-source: "https://github.com/tmwgsicp/wechat-download-api"
+deployment_complexity: Medium
+tags:
+- WeChat API
+- RSS Generation
+- AI Client Integration
+- Anti-Censorship
+- Markdown Export
+source: https://github.com/tmwgsicp/wechat-download-api
 stars: 805
-language: "Python"
-last_updated: "2026-07-14T05:16:25Z"
-discovered_at: "2026-07-14T05:28:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T05:16:25Z'
+discovered_at: '2026-07-14T05:28:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

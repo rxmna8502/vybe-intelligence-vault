@@ -1,19 +1,34 @@
 ---
-title: "aincient-labs/atelier-cms"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Drupal", "PHP", "PostgreSQL", "React", "Docker", "Rust (CLI)", "Ollama", "Anthropic API", "OpenAI API", "pgvector"]
+title: aincient-labs/atelier-cms
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Drupal
+- PHP
+- PostgreSQL
+- React
+- Docker
+- Rust (CLI)
+- Ollama
+- Anthropic API
+- OpenAI API
+- pgvector
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-native CMS", "self-hosted", "Drupal-based", "static site export", "conversational UI"]
-source: "https://github.com/aincient-labs/atelier-cms"
+deployment_complexity: Medium
+tags:
+- AI-native CMS
+- self-hosted
+- Drupal-based
+- static site export
+- conversational UI
+source: https://github.com/aincient-labs/atelier-cms
 stars: 17
-language: "PHP"
-last_updated: "2026-08-04T21:05:25Z"
-discovered_at: "2026-08-04T21:14:58Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-04T21:05:25Z'
+discovered_at: '2026-08-04T21:14:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "carrotly-ai/disclosures"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "REST APIs", "XBRL-JSON", "Jurisdiction-specific APIs (SEC EDGAR, GLEIF, Companies House, etc.)"]
+title: carrotly-ai/disclosures
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- REST APIs
+- XBRL-JSON
+- Jurisdiction-specific APIs (SEC EDGAR, GLEIF, Companies House, etc.)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["corporate disclosures", "financial data", "SEC EDGAR", "ownership research", "MCP server"]
-source: "https://github.com/carrotly-ai/disclosures"
+deployment_complexity: Medium
+tags:
+- corporate disclosures
+- financial data
+- SEC EDGAR
+- ownership research
+- MCP server
+source: https://github.com/carrotly-ai/disclosures
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T06:29:49Z"
-discovered_at: "2026-08-06T06:33:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T06:29:49Z'
+discovered_at: '2026-08-06T06:33:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

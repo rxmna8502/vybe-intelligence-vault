@@ -1,19 +1,32 @@
 ---
-title: "kuntayerkus/swisseph-wasm"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["WebAssembly (WASM)", "TypeScript", "C (Swiss Ephemeris)", "Emscripten", "Node.js", "Deno", "Bun", "Model Context Protocol (MCP)"]
+title: kuntayerkus/swisseph-wasm
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- WebAssembly (WASM)
+- TypeScript
+- C (Swiss Ephemeris)
+- Emscripten
+- Node.js
+- Deno
+- Bun
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["astronomy", "ephemeris", "WebAssembly", "planetary calculations", "astrology"]
-source: "https://github.com/kuntayerkus/swisseph-wasm"
+deployment_complexity: Medium
+tags:
+- astronomy
+- ephemeris
+- WebAssembly
+- planetary calculations
+- astrology
+source: https://github.com/kuntayerkus/swisseph-wasm
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-06T15:18:01Z"
-discovered_at: "2026-08-06T15:19:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T15:18:01Z'
+discovered_at: '2026-08-06T15:19:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

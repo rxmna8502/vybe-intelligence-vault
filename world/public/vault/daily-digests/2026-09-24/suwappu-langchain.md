@@ -1,19 +1,30 @@
 ---
-title: "0xSoftBoi/suwappu-langchain"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "LangChain 1.x", "Node.js 20+", "Zod (for input schemas)", "REST API integration", "Suwappu Agent API"]
+title: 0xSoftBoi/suwappu-langchain
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- LangChain 1.x
+- Node.js 20+
+- Zod (for input schemas)
+- REST API integration
+- Suwappu Agent API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LangChain adapter", "cross-chain DEX", "structured tools", "agent framework", "DeFi workflows"]
-source: "https://github.com/0xSoftBoi/suwappu-langchain"
+deployment_complexity: Medium
+tags:
+- LangChain adapter
+- cross-chain DEX
+- structured tools
+- agent framework
+- DeFi workflows
+source: https://github.com/0xSoftBoi/suwappu-langchain
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T20:42:13Z"
-discovered_at: "2026-08-07T20:42:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T20:42:13Z'
+discovered_at: '2026-08-07T20:42:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

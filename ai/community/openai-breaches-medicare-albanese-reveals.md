@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-breaches-medicare-albanese-reveals
 first_seen: '2026-09-24T04:33:20.041029+05:30'
 last_seen: '2026-09-24T04:33:20.041029+05:30'
 last_checked: '2026-09-24T04:33:20.041029+05:30'
 health_score: 100
 ---
+
 
 # OpenAI breaches Medicare, Albanese reveals
 

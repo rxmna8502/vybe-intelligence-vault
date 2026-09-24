@@ -1,19 +1,32 @@
 ---
-title: "munhq/chat-recall"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "pgvector", "Docker", "React", "Model Context Protocol (MCP)", "Full-text search"]
+title: munhq/chat-recall
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- pgvector
+- Docker
+- React
+- Model Context Protocol (MCP)
+- Full-text search
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI memory", "MCP tools", "cross-tool recall", "self-hosted", "agent orchestration"]
-source: "https://github.com/munhq/chat-recall"
+deployment_complexity: Medium
+tags:
+- AI memory
+- MCP tools
+- cross-tool recall
+- self-hosted
+- agent orchestration
+source: https://github.com/munhq/chat-recall
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-02T08:09:53Z"
-discovered_at: "2026-09-02T08:23:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:09:53Z'
+discovered_at: '2026-09-02T08:23:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

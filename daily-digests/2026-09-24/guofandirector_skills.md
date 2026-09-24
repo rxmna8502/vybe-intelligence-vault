@@ -1,19 +1,31 @@
 ---
-title: "shuhaolin63-hash/GuoFanDirector_Skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "SOLO AI Agent", "Claude Code", "Hermes Agent", "Codex", "Markdown", "AI Prompt Engineering"]
+title: shuhaolin63-hash/GuoFanDirector_Skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- SOLO AI Agent
+- Claude Code
+- Hermes Agent
+- Codex
+- Markdown
+- AI Prompt Engineering
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI filmmaking", "sci-fi content generation", "agent orchestration", "prompt engineering", "Guo Fan methodology"]
-source: "https://github.com/shuhaolin63-hash/GuoFanDirector_Skills"
+deployment_complexity: Medium
+tags:
+- AI filmmaking
+- sci-fi content generation
+- agent orchestration
+- prompt engineering
+- Guo Fan methodology
+source: https://github.com/shuhaolin63-hash/GuoFanDirector_Skills
 stars: 1
-language: "Python"
-last_updated: "2026-07-20T21:09:41Z"
-discovered_at: "2026-07-20T21:10:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T21:09:41Z'
+discovered_at: '2026-07-20T21:10:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

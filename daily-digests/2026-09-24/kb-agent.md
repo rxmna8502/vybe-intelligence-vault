@@ -1,19 +1,33 @@
 ---
-title: "sanlee-ys/kb-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "ChromaDB", "Anthropic API", "FastAPI", "Gradio", "Model Context Protocol (MCP)", "OpenTelemetry", "all-MiniLM-L6-v2 (embedding model)", "uv (dependency manager)"]
+title: sanlee-ys/kb-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- ChromaDB
+- Anthropic API
+- FastAPI
+- Gradio
+- Model Context Protocol (MCP)
+- OpenTelemetry
+- all-MiniLM-L6-v2 (embedding model)
+- uv (dependency manager)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "knowledge base", "agent framework", "MCP server", "tool-use"]
-source: "https://github.com/sanlee-ys/kb-agent"
+deployment_complexity: Medium
+tags:
+- RAG
+- knowledge base
+- agent framework
+- MCP server
+- tool-use
+source: https://github.com/sanlee-ys/kb-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T23:29:01Z"
-discovered_at: "2026-08-09T23:35:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T23:29:01Z'
+discovered_at: '2026-08-09T23:35:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

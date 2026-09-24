@@ -1,19 +1,41 @@
 ---
-title: "haresh-sai06/phalanx"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["LangGraph 1.0", "Playwright", "Model Context Protocol (MCP)", "Tree-sitter", "SentenceTransformers", "FAISS", "FastAPI", "PostgreSQL", "Redis", "Next.js", "Tailwind CSS", "vLLM", "Ollama", "Anthropic Skills API", "Claude Sonnet 4.5", "Gemini 3 Pro", "Qwen 3"]
+title: haresh-sai06/phalanx
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- LangGraph 1.0
+- Playwright
+- Model Context Protocol (MCP)
+- Tree-sitter
+- SentenceTransformers
+- FAISS
+- FastAPI
+- PostgreSQL
+- Redis
+- Next.js
+- Tailwind CSS
+- vLLM
+- Ollama
+- Anthropic Skills API
+- Claude Sonnet 4.5
+- Gemini 3 Pro
+- Qwen 3
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["autonomous testing", "multi-persona swarm", "security auditing", "code-aware agents", "on-prem deployment"]
-source: "https://github.com/haresh-sai06/phalanx"
+deployment_complexity: Medium
+tags:
+- autonomous testing
+- multi-persona swarm
+- security auditing
+- code-aware agents
+- on-prem deployment
+source: https://github.com/haresh-sai06/phalanx
 stars: 0
-language: "None"
-last_updated: "2026-08-09T17:31:10Z"
-discovered_at: "2026-08-09T17:35:30Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T17:31:10Z'
+discovered_at: '2026-08-09T17:35:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

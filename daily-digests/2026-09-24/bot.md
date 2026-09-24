@@ -1,19 +1,32 @@
 ---
-title: "adiiaot/bot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Telegram Bot API", "Hyperliquid API", "TradingView", "Nvidia Vision AI", "Firebase", "ADX (Average Directional Index)"]
+title: adiiaot/bot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- FastAPI
+- Telegram Bot API
+- Hyperliquid API
+- TradingView
+- Nvidia Vision AI
+- Firebase
+- ADX (Average Directional Index)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["trading signals", "XAU/USD", "Telegram bot", "intraday trading", "ADX filter"]
-source: "https://github.com/adiiaot/bot"
+deployment_complexity: Medium
+tags:
+- trading signals
+- XAU/USD
+- Telegram bot
+- intraday trading
+- ADX filter
+source: https://github.com/adiiaot/bot
 stars: 1
-language: "Python"
-last_updated: "2026-07-10T23:05:06Z"
-discovered_at: "2026-07-10T23:08:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T23:05:06Z'
+discovered_at: '2026-07-10T23:08:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

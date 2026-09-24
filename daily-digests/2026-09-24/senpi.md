@@ -1,19 +1,32 @@
 ---
-title: "code-yeongyu/senpi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Monorepo", "LLM API Integration", "Terminal UI (TUI)", "Telemetry", "Bash/PowerShell", "Git"]
+title: code-yeongyu/senpi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- Monorepo
+- LLM API Integration
+- Terminal UI (TUI)
+- Telemetry
+- Bash/PowerShell
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["coding-agent", "AI assistant runtime", "TypeScript monorepo", "LLM tooling", "agent extensions"]
-source: "https://github.com/code-yeongyu/senpi"
+deployment_complexity: Medium
+tags:
+- coding-agent
+- AI assistant runtime
+- TypeScript monorepo
+- LLM tooling
+- agent extensions
+source: https://github.com/code-yeongyu/senpi
 stars: 416
-language: "TypeScript"
-last_updated: "2026-09-02T08:18:05Z"
-discovered_at: "2026-09-02T08:19:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:18:05Z'
+discovered_at: '2026-09-02T08:19:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

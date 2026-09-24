@@ -1,19 +1,33 @@
 ---
-title: "Soumyadipta2020/Utilities-Knowledge-Hub"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Flask", "LangChain", "NetworkX", "OpenRouter", "Pandas", "OpenPyXL", "Gunicorn", "python-dotenv"]
+title: Soumyadipta2020/Utilities-Knowledge-Hub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Flask
+- LangChain
+- NetworkX
+- OpenRouter
+- Pandas
+- OpenPyXL
+- Gunicorn
+- python-dotenv
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI chatbot", "Knowledge Graph", "RAG", "Access Control", "IT Ticket Automation"]
-source: "https://github.com/Soumyadipta2020/Utilities-Knowledge-Hub"
+deployment_complexity: Medium
+tags:
+- AI chatbot
+- Knowledge Graph
+- RAG
+- Access Control
+- IT Ticket Automation
+source: https://github.com/Soumyadipta2020/Utilities-Knowledge-Hub
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T09:05:19Z"
-discovered_at: "2026-08-01T09:06:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T09:05:19Z'
+discovered_at: '2026-08-01T09:06:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

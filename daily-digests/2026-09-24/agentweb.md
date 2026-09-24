@@ -1,19 +1,30 @@
 ---
-title: "AnayGarodia/agentweb"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "HTTP/CLI", "MCP (Model Context Protocol)", "JSON Schema", "Bash/PowerShell (installers)"]
+title: AnayGarodia/agentweb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Playwright
+- HTTP/CLI
+- MCP (Model Context Protocol)
+- JSON Schema
+- Bash/PowerShell (installers)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web automation", "structured outputs", "CLI for agents", "browserless interaction", "adapter-based"]
-source: "https://github.com/AnayGarodia/agentweb"
+deployment_complexity: Medium
+tags:
+- web automation
+- structured outputs
+- CLI for agents
+- browserless interaction
+- adapter-based
+source: https://github.com/AnayGarodia/agentweb
 stars: 4
-language: "Python"
-last_updated: "2026-08-01T08:47:06Z"
-discovered_at: "2026-08-01T09:06:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T08:47:06Z'
+discovered_at: '2026-08-01T09:06:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

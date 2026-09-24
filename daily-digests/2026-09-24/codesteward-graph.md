@@ -1,19 +1,45 @@
 ---
-title: "Codesteward/codesteward-graph"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Tree-sitter", "Neo4j", "JanusGraph", "GraphQLite", "SQLite", "Docker", "Model Context Protocol (MCP)", "TypeScript", "JavaScript", "Java", "Go", "Rust", "PHP", "C#", "Kotlin", "Scala", "C", "C++", "SQL", "COBOL"]
+title: Codesteward/codesteward-graph
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Tree-sitter
+- Neo4j
+- JanusGraph
+- GraphQLite
+- SQLite
+- Docker
+- Model Context Protocol (MCP)
+- TypeScript
+- JavaScript
+- Java
+- Go
+- Rust
+- PHP
+- C#
+- Kotlin
+- Scala
+- C
+- C++
+- SQL
+- COBOL
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code graph", "MCP server", "AST parsing", "dependency analysis", "authentication detection"]
-source: "https://github.com/Codesteward/codesteward-graph"
+deployment_complexity: Medium
+tags:
+- code graph
+- MCP server
+- AST parsing
+- dependency analysis
+- authentication detection
+source: https://github.com/Codesteward/codesteward-graph
 stars: 2
-language: "Python"
-last_updated: "2026-07-15T19:59:34Z"
-discovered_at: "2026-07-15T20:08:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T19:59:34Z'
+discovered_at: '2026-07-15T20:08:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

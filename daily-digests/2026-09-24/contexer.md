@@ -1,19 +1,29 @@
 ---
-title: "bhargavamin/contexer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON", "uv (package manager)", "Git"]
+title: bhargavamin/contexer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON
+- uv (package manager)
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI memory", "engineering decisions", "cross-agent consistency", "context injection", "tribal knowledge preservation"]
-source: "https://github.com/bhargavamin/contexer"
+deployment_complexity: Low
+tags:
+- AI memory
+- engineering decisions
+- cross-agent consistency
+- context injection
+- tribal knowledge preservation
+source: https://github.com/bhargavamin/contexer
 stars: 6
-language: "Python"
-last_updated: "2026-07-13T22:53:21Z"
-discovered_at: "2026-07-13T22:55:26Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T22:53:21Z'
+discovered_at: '2026-07-13T22:55:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

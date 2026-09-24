@@ -1,19 +1,33 @@
 ---
-title: "mustbearnold/Optimus-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Electron", "React", "SQLite", "TypeScript", "Node.js", "Playwright", "WebKitGTK", "WebView2"]
+title: mustbearnold/Optimus-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Electron
+- React
+- SQLite
+- TypeScript
+- Node.js
+- Playwright
+- WebKitGTK
+- WebView2
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local AI agents", "durable workflows", "policy-controlled tools", "multi-agent systems", "desktop runtime"]
-source: "https://github.com/mustbearnold/Optimus-Agent"
+deployment_complexity: Medium
+tags:
+- local AI agents
+- durable workflows
+- policy-controlled tools
+- multi-agent systems
+- desktop runtime
+source: https://github.com/mustbearnold/Optimus-Agent
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T13:05:38Z"
-discovered_at: "2026-08-01T13:16:38Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T13:05:38Z'
+discovered_at: '2026-08-01T13:16:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

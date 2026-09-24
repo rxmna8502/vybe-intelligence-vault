@@ -1,19 +1,32 @@
 ---
-title: "Krill113/symbiosis-brain"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "sqlite-vec", "fastembed", "MCP (Model Context Protocol)", "Obsidian", "Git", "Bash"]
+title: Krill113/symbiosis-brain
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Python
+- SQLite
+- sqlite-vec
+- fastembed
+- MCP (Model Context Protocol)
+- Obsidian
+- Git
+- Bash
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["memory", "local-first", "markdown-vault", "Claude-Code", "bi-temporal"]
-source: "https://github.com/Krill113/symbiosis-brain"
+deployment_complexity: Low
+tags:
+- memory
+- local-first
+- markdown-vault
+- Claude-Code
+- bi-temporal
+source: https://github.com/Krill113/symbiosis-brain
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T15:01:30Z"
-discovered_at: "2026-08-10T15:03:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T15:01:30Z'
+discovered_at: '2026-08-10T15:03:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

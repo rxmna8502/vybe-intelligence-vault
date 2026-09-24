@@ -1,19 +1,29 @@
 ---
-title: "drew-keever/advisorfinder-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "HTTP/JSON API", "Claude Code"]
+title: drew-keever/advisorfinder-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- HTTP/JSON API
+- Claude Code
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["financial data", "SEC compliance", "advisor verification", "MCP server", "AI tooling"]
-source: "https://github.com/drew-keever/advisorfinder-mcp"
+deployment_complexity: Low
+tags:
+- financial data
+- SEC compliance
+- advisor verification
+- MCP server
+- AI tooling
+source: https://github.com/drew-keever/advisorfinder-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T04:49:19Z"
-discovered_at: "2026-08-08T04:59:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T04:49:19Z'
+discovered_at: '2026-08-08T04:59:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

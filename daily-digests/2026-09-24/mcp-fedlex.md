@@ -1,19 +1,30 @@
 ---
-title: "OpenHelvetia/mcp-fedlex"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "SPARQL", "Akoma Ntoso", "JOLux", "Git"]
+title: OpenHelvetia/mcp-fedlex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- SPARQL
+- Akoma Ntoso
+- JOLux
+- Git
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Swiss federal law", "legal citations", "MCP server", "bitemporal data", "transparency"]
-source: "https://github.com/OpenHelvetia/mcp-fedlex"
+deployment_complexity: Medium
+tags:
+- Swiss federal law
+- legal citations
+- MCP server
+- bitemporal data
+- transparency
+source: https://github.com/OpenHelvetia/mcp-fedlex
 stars: 0
-language: "Rust"
-last_updated: "2026-09-03T19:05:31Z"
-discovered_at: "2026-09-03T19:07:02Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-03T19:05:31Z'
+discovered_at: '2026-09-03T19:07:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

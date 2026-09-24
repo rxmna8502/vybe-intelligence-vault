@@ -13,13 +13,14 @@ collected_at: '2026-09-24T04:33:20.281744+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:stripe-s-knowledge-ai-platform
 first_seen: '2026-09-24T01:16:23.454900+05:30'
 last_seen: '2026-09-24T04:33:20.281744+05:30'
 last_checked: '2026-09-24T04:33:20.281744+05:30'
 health_score: 100
 ---
+
 
 # Stripe's Knowledge AI Platform
 

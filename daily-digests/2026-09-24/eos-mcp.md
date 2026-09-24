@@ -1,19 +1,29 @@
 ---
-title: "shigechika/eos-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Arista EOS eAPI", "Pydantic", "ConfigParser"]
+title: shigechika/eos-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Arista EOS eAPI
+- Pydantic
+- ConfigParser
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["network automation", "MCP server", "Arista EOS", "eAPI", "infrastructure management"]
-source: "https://github.com/shigechika/eos-mcp"
+deployment_complexity: Medium
+tags:
+- network automation
+- MCP server
+- Arista EOS
+- eAPI
+- infrastructure management
+source: https://github.com/shigechika/eos-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:25:24Z"
-discovered_at: "2026-08-08T11:30:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:25:24Z'
+discovered_at: '2026-08-08T11:30:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

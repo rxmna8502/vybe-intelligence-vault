@@ -1,19 +1,36 @@
 ---
-title: "kashyaprajharsh/medha-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "OpenAI-compatible APIs", "Gemini Interactions API", "macOS Seatbelt", "Linux Landlock", "Docker/Podman", "TUI (Terminal User Interface)", "Language Servers (LSP)", "MCP (Model Context Protocol)", "SHA-256", "TLS (rustls)"]
+title: kashyaprajharsh/medha-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- SQLite
+- OpenAI-compatible APIs
+- Gemini Interactions API
+- macOS Seatbelt
+- Linux Landlock
+- Docker/Podman
+- TUI (Terminal User Interface)
+- Language Servers (LSP)
+- MCP (Model Context Protocol)
+- SHA-256
+- TLS (rustls)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent harness", "verification-first", "sandboxing", "event logging", "deny-first policy"]
-source: "https://github.com/kashyaprajharsh/medha-agent"
+deployment_complexity: Medium
+tags:
+- AI agent harness
+- verification-first
+- sandboxing
+- event logging
+- deny-first policy
+source: https://github.com/kashyaprajharsh/medha-agent
 stars: 0
-language: "Rust"
-last_updated: "2026-08-02T20:46:11Z"
-discovered_at: "2026-08-02T20:54:44Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T20:46:11Z'
+discovered_at: '2026-08-02T20:54:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

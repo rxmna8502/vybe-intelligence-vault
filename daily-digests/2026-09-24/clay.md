@@ -1,19 +1,38 @@
 ---
-title: "chadbyte/clay"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Claude Agent SDK", "Codex app-server protocol", "JSONL", "Markdown", "WebSockets", "HTTP/HTTPS", "PWA (Progressive Web App)", "Push Notifications (VAPID)", "MCP (Model Context Protocol)", "Unix cron", "Linux ACLs", "Tailscale (VPN)"]
+title: chadbyte/clay
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Node.js
+- Claude Agent SDK
+- Codex app-server protocol
+- JSONL
+- Markdown
+- WebSockets
+- HTTP/HTTPS
+- PWA (Progressive Web App)
+- Push Notifications (VAPID)
+- MCP (Model Context Protocol)
+- Unix cron
+- Linux ACLs
+- Tailscale (VPN)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent collaboration", "self-hosted AI workspace", "persistent AI teammates", "vendor-agnostic", "real-time collaboration"]
-source: "https://github.com/chadbyte/clay"
+deployment_complexity: Medium
+tags:
+- multi-agent collaboration
+- self-hosted AI workspace
+- persistent AI teammates
+- vendor-agnostic
+- real-time collaboration
+source: https://github.com/chadbyte/clay
 stars: 332
-language: "JavaScript"
-last_updated: "2026-07-20T03:45:36Z"
-discovered_at: "2026-07-20T03:52:24Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-20T03:45:36Z'
+discovered_at: '2026-07-20T03:52:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

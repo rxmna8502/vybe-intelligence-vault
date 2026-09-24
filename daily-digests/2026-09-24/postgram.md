@@ -1,19 +1,40 @@
 ---
-title: "ivo-toby/postgram"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL", "pgvector", "Docker", "Docker Compose", "Hono", "MCP (Model Context Protocol)", "REST API", "CLI", "Ollama", "OpenAI API", "LLM (Large Language Models)", "BM25", "UMAP", "PCA"]
+title: ivo-toby/postgram
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL
+- pgvector
+- Docker
+- Docker Compose
+- Hono
+- MCP (Model Context Protocol)
+- REST API
+- CLI
+- Ollama
+- OpenAI API
+- LLM (Large Language Models)
+- BM25
+- UMAP
+- PCA
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge management", "self-hosted", "AI agent memory", "hybrid search", "knowledge graph"]
-source: "https://github.com/ivo-toby/postgram"
+deployment_complexity: Medium
+tags:
+- knowledge management
+- self-hosted
+- AI agent memory
+- hybrid search
+- knowledge graph
+source: https://github.com/ivo-toby/postgram
 stars: 6
-language: "TypeScript"
-last_updated: "2026-07-15T19:52:57Z"
-discovered_at: "2026-07-15T20:08:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T19:52:57Z'
+discovered_at: '2026-07-15T20:08:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

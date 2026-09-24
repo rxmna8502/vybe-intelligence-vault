@@ -1,19 +1,32 @@
 ---
-title: "ellmos-ai/ellmos-homebase-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "MCP (Model Context Protocol)", "SQLite", "MCP SDK", "TOML", "npm", "GitHub Actions"]
+title: ellmos-ai/ellmos-homebase-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Node.js
+- MCP (Model Context Protocol)
+- SQLite
+- MCP SDK
+- TOML
+- npm
+- GitHub Actions
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "local-first LLM", "offline orchestration", "persistent memory", "swarm patterns"]
-source: "https://github.com/ellmos-ai/ellmos-homebase-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- local-first LLM
+- offline orchestration
+- persistent memory
+- swarm patterns
+source: https://github.com/ellmos-ai/ellmos-homebase-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-01T05:57:24Z"
-discovered_at: "2026-08-01T06:29:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T05:57:24Z'
+discovered_at: '2026-08-01T06:29:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

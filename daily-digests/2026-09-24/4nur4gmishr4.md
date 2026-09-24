@@ -1,19 +1,29 @@
 ---
-title: "4nur4gmishr4/4nur4gmishr4"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Full-Stack Development", "LLMs", "Agents", "Clean Architecture"]
+title: 4nur4gmishr4/4nur4gmishr4
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Full-Stack Development
+- LLMs
+- Agents
+- Clean Architecture
 quality_score: 4
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["AI Development", "LLMs", "Agents", "Full-Stack", "Clean Architecture"]
-source: "https://github.com/4nur4gmishr4/4nur4gmishr4"
+deployment_complexity: Medium
+tags:
+- AI Development
+- LLMs
+- Agents
+- Full-Stack
+- Clean Architecture
+source: https://github.com/4nur4gmishr4/4nur4gmishr4
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-08T13:48:37Z"
-discovered_at: "2026-08-08T13:48:48Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T13:48:37Z'
+discovered_at: '2026-08-08T13:48:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

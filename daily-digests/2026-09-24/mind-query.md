@@ -1,19 +1,32 @@
 ---
-title: "jourdaninorder609/mind-query"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Natural Language Processing (NLP)", "PostgreSQL", "MySQL", "SQL Server", "MongoDB", "MCP (Model Context Protocol)"]
+title: jourdaninorder609/mind-query
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Electron
+- Natural Language Processing (NLP)
+- PostgreSQL
+- MySQL
+- SQL Server
+- MongoDB
+- MCP (Model Context Protocol)
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["natural language to query", "database interaction", "Windows desktop app", "AI-powered queries", "data visualization"]
-source: "https://github.com/jourdaninorder609/mind-query"
+deployment_complexity: Low
+tags:
+- natural language to query
+- database interaction
+- Windows desktop app
+- AI-powered queries
+- data visualization
+source: https://github.com/jourdaninorder609/mind-query
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T09:42:46Z"
-discovered_at: "2026-08-07T10:05:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T09:42:46Z'
+discovered_at: '2026-08-07T10:05:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

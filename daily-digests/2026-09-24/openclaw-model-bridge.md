@@ -1,19 +1,33 @@
 ---
-title: "bisdom-cell/openclaw-model-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "OpenClaw", "LLM Providers (Qwen, OpenAI, Gemini, Claude, Kimi, MiniMax, GLM, Doubao, DeepSeek-V4-Pro, etc.)", "YAML", "Cron Jobs", "WhatsApp/Discord APIs", "PyYAML", "pytest"]
+title: bisdom-cell/openclaw-model-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- OpenClaw
+- LLM Providers (Qwen, OpenAI, Gemini, Claude, Kimi, MiniMax, GLM, Doubao, DeepSeek-V4-Pro,
+  etc.)
+- YAML
+- Cron Jobs
+- WhatsApp/Discord APIs
+- PyYAML
+- pytest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LLM Integration", "Agent Runtime", "Governance Engine", "Fail-Plausible Detection", "Production-Ready"]
-source: "https://github.com/bisdom-cell/openclaw-model-bridge"
+deployment_complexity: Medium
+tags:
+- LLM Integration
+- Agent Runtime
+- Governance Engine
+- Fail-Plausible Detection
+- Production-Ready
+source: https://github.com/bisdom-cell/openclaw-model-bridge
 stars: 10
-language: "Python"
-last_updated: "2026-08-07T02:38:47Z"
-discovered_at: "2026-08-07T02:41:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T02:38:47Z'
+discovered_at: '2026-08-07T02:41:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

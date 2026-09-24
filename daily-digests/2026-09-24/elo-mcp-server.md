@@ -1,19 +1,31 @@
 ---
-title: "LOUPZ-DE/elo-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "REST API", "Pino (logging)", "Express (HTTP transport)"]
+title: LOUPZ-DE/elo-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- REST API
+- Pino (logging)
+- Express (HTTP transport)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "document management", "ELO integration", "LLM tools", "read-only access"]
-source: "https://github.com/LOUPZ-DE/elo-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP server
+- document management
+- ELO integration
+- LLM tools
+- read-only access
+source: https://github.com/LOUPZ-DE/elo-mcp-server
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T06:08:51Z"
-discovered_at: "2026-08-07T06:13:25Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T06:08:51Z'
+discovered_at: '2026-08-07T06:13:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

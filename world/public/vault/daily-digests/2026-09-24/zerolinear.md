@@ -1,19 +1,34 @@
 ---
-title: "Mftrferdinand/Zerolinear"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "OpenAI-compatible APIs", "Telegram Bot API", "WhatsApp Baileys", "CLI", "HTTP Webhooks", "Markdown", "pypdf", "unittest"]
+title: Mftrferdinand/Zerolinear
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Python
+- Node.js
+- OpenAI-compatible APIs
+- Telegram Bot API
+- WhatsApp Baileys
+- CLI
+- HTTP Webhooks
+- Markdown
+- pypdf
+- unittest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agentic AI", "multi-platform", "model-agnostic", "tool calling", "autonomous agents"]
-source: "https://github.com/Mftrferdinand/Zerolinear"
+deployment_complexity: Medium
+tags:
+- agentic AI
+- multi-platform
+- model-agnostic
+- tool calling
+- autonomous agents
+source: https://github.com/Mftrferdinand/Zerolinear
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T18:51:10Z"
-discovered_at: "2026-08-10T19:01:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T18:51:10Z'
+discovered_at: '2026-08-10T19:01:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

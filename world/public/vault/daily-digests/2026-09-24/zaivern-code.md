@@ -1,19 +1,46 @@
 ---
-title: "tacyan/zaivern-code"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TypeScript", "TSX", "Vue", "Svelte", "Kotlin", "Zig", "TOML", "GraphQL", "Terraform", "Dart", "Elixir", "Nix", "Solidity", "Dockerfile", "CUE", "KDL", "Dhall", "COBOL", "Apex", "sed", "V"]
+title: tacyan/zaivern-code
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Rust
+- TypeScript
+- TSX
+- Vue
+- Svelte
+- Kotlin
+- Zig
+- TOML
+- GraphQL
+- Terraform
+- Dart
+- Elixir
+- Nix
+- Solidity
+- Dockerfile
+- CUE
+- KDL
+- Dhall
+- COBOL
+- Apex
+- sed
+- V
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI orchestration", "multi-agent", "Rust", "development cockpit", "cross-platform"]
-source: "https://github.com/tacyan/zaivern-code"
+deployment_complexity: Medium
+tags:
+- AI orchestration
+- multi-agent
+- Rust
+- development cockpit
+- cross-platform
+source: https://github.com/tacyan/zaivern-code
 stars: 4
-language: "Rust"
-last_updated: "2026-08-09T06:57:40Z"
-discovered_at: "2026-08-09T06:58:46Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-09T06:57:40Z'
+discovered_at: '2026-08-09T06:58:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -10,11 +10,11 @@ MCP client-server architecture, JSON-RPC, tools, resources, prompts.
 Claude Desktop, MCP Python SDK, MCP TypeScript SDK.
 
 ## Recommended Resources from the Vault
-*   [modelcontextprotocol/servers Release: Release 2026.1.26](https://github.com/modelcontextprotocol/servers)
-*   [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733)
-*   [Redakto - The Incognito Tab for LLMs](https://arxiv.org/abs/2608.18260)
-*   [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](https://arxiv.org/abs/2609.10854)
-*   [CASCADE: A Component Ablation and Corpus Audit of a Layered Local Defense for MCP-Based Systems](https://arxiv.org/abs/2604.17125)
+*   [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)
+*   [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp)
+*   [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp)
+*   [Five Big Improvements to Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-updates)
+*   [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research)
 
 ## Project Ideas
 *   Create an MCP server that retrieves database schemas and writes SQL queries.

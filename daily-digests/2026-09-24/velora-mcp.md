@@ -1,19 +1,31 @@
 ---
-title: "crossi-dev/velora-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Model Context Protocol (MCP)", "AFIP/ARCA (Argentine tax authority APIs)", "MercadoPago", "Andreani/PedidosYa (logistics)", "WhatsApp Business API", "HMAC/OAuth 2.1 (authentication)", "HTTP/streamable transport"]
+title: crossi-dev/velora-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Model Context Protocol (MCP)
+- AFIP/ARCA (Argentine tax authority APIs)
+- MercadoPago
+- Andreani/PedidosYa (logistics)
+- WhatsApp Business API
+- HMAC/OAuth 2.1 (authentication)
+- HTTP/streamable transport
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["Argentine commerce", "AFIP invoicing", "MCP server", "hosted API", "AI agent tools"]
-source: "https://github.com/crossi-dev/velora-mcp"
+deployment_complexity: Low
+tags:
+- Argentine commerce
+- AFIP invoicing
+- MCP server
+- hosted API
+- AI agent tools
+source: https://github.com/crossi-dev/velora-mcp
 stars: 0
-language: "None"
-last_updated: "2026-08-07T12:55:44Z"
-discovered_at: "2026-08-07T13:02:44Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T12:55:44Z'
+discovered_at: '2026-08-07T13:02:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
