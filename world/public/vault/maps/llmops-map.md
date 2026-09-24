@@ -10,11 +10,11 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
-*   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
-*   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
-*   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
-*   [General SDK Configuration | OpenTelemetry](https://opentelemetry.io/docs/languages/sdk-configuration/general)
+*   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
+*   [CSS Nesting | Chrome for Developers](https://developer.chrome.com/docs/css-ui/css-nesting)
+*   [Web EDAA - YouTube](https://www.youtube.com/channel/UC5ZkoeB9RI3sODde6GBBNOg)
+*   [tensor - YouTube](https://www.youtube.com/@tensor)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.
