@@ -1,32 +1,19 @@
 ---
-title: apify/apify-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Apify SDK
-- OAuth
-- Blockchain (USDC on Base for x402 payments)
-- Streamable HTTP
-- REST APIs
+title: "apify/apify-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Apify SDK", "OAuth", "Blockchain (USDC on Base for x402 payments)", "Streamable HTTP", "REST APIs"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- web scraping
-- data extraction
-- AI agents
-- MCP server
-- automation
-source: https://github.com/apify/apify-mcp-server
+deployment_complexity: "Medium"
+tags: ["web scraping", "data extraction", "AI agents", "MCP server", "automation"]
+source: "https://github.com/apify/apify-mcp-server"
 stars: 5569
-language: TypeScript
-last_updated: '2026-09-01T09:03:43Z'
-discovered_at: '2026-09-01T09:11:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T09:03:43Z"
+discovered_at: "2026-09-01T09:11:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

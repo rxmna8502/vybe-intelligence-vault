@@ -1,38 +1,19 @@
 ---
-title: lunaos-ai/luna-agents
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Claude Code
-- Cloudflare Workers
-- D1 Database
-- Vectorize (RAG)
-- KV (Cache)
-- Stripe (Billing)
-- Playwright (UI Testing)
-- MCP (Model Context Protocol)
-- Gemma 4
-- DeepSeek
-- Claude AI
-- RESTful APIs
+title: "lunaos-ai/luna-agents"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Claude Code", "Cloudflare Workers", "D1 Database", "Vectorize (RAG)", "KV (Cache)", "Stripe (Billing)", "Playwright (UI Testing)", "MCP (Model Context Protocol)", "Gemma 4", "DeepSeek", "Claude AI", "RESTful APIs"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI-powered development
-- multi-agent orchestration
-- SDLC automation
-- RAG integration
-- Claude Code plugin
-source: https://github.com/lunaos-ai/luna-agents
+deployment_complexity: "Medium"
+tags: ["AI-powered development", "multi-agent orchestration", "SDLC automation", "RAG integration", "Claude Code plugin"]
+source: "https://github.com/lunaos-ai/luna-agents"
 stars: 0
-language: HTML
-last_updated: '2026-08-07T11:00:43Z'
-discovered_at: '2026-08-07T11:04:27Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-07T11:00:43Z"
+discovered_at: "2026-08-07T11:04:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

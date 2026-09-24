@@ -1,29 +1,19 @@
 ---
-title: pipik-roman/rowlite
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Cobra
-- Goldmark
-- frontmatter
-- official Go SDK for MCP
+title: "pipik-roman/rowlite"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Cobra", "Goldmark", "frontmatter", "official Go SDK for MCP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Markdown tables
-- MCP server
-- CLI tool
-- data integrity
-- AI agent integration
-source: https://github.com/pipik-roman/rowlite
+deployment_complexity: "Low"
+tags: ["Markdown tables", "MCP server", "CLI tool", "data integrity", "AI agent integration"]
+source: "https://github.com/pipik-roman/rowlite"
 stars: 1
-language: Go
-last_updated: '2026-08-01T13:11:04Z'
-discovered_at: '2026-08-01T13:16:47Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T13:11:04Z"
+discovered_at: "2026-08-01T13:16:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,59 +1,52 @@
 ---
-title: reassignai/plugins
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Model Context Protocol (MCP)
-- Node.js
-- Claude Code
-- npm
-quality_score: 8
-rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- time management
-- ADHD-friendly
-- circular planner
-- MCP server
-- productivity tool
-source: https://github.com/reassignai/plugins
+title: "boardwalk-labs/plugins"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "JavaScript", "MCP (Model Context Protocol)", "CLI", "API Integration", "Node.js"]
+quality_score: 7
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["agent skills", "workflow automation", "MCP server", "CLI integration", "multi-harness support"]
+source: "https://github.com/boardwalk-labs/plugins"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-17T22:45:31Z'
-discovered_at: '2026-07-17T22:47:55Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-01T15:00:48Z"
+discovered_at: "2026-08-01T15:01:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Reassign is a circular 24-hour day planner that applies ADHD-friendly time-management methods by editing a visual dial rather than providing abstract advice. It offers the same scheduling capability across multiple package forms, including a Claude Code plugin, standalone skill, and MCP server.
+A collection of official plugins enabling agent harnesses (Claude Code, Codex, Cursor, OpenClaw, OpenCode) to interact with the Boardwalk platform. Provides shared skills for workflow management, CLI operations, and agent tooling via a hosted MCP server.
 
 ## Key Features
-- Circular 24-hour visual planner for intuitive scheduling
-- ADHD-friendly time-management methods integrated directly into the interface
-- Multi-form deployment (Claude Code plugin, standalone skill, MCP server)
-- Connected-calendar sync with event kinds and mirroring support
-- Past-day reflection with adherence tracking and marks
+- Five shared skills for agent harnesses (Claude Code, Codex, Cursor, OpenClaw, OpenCode) including workflow orientation, CLI operations, and agent tooling
+- Hosted MCP server for direct model interaction with Boardwalk's control plane (workflow creation, scheduling, monitoring)
+- Single-source-of-truth plugin architecture ensuring consistency across all supported harnesses
+- Supports both hosted and self-hosted workflow execution with durable runs and scheduling
+- Provides SDK primitives and best practices for writing efficient, restart-survivable workflows
 
 ## Why It Matters for RAG Builders
-Reassign provides a structured, visual approach to time management that can enhance productivity workflows for AI agents and users with attention challenges.
+It enables seamless integration of AI agents with the Boardwalk platform, providing standardized skills and tools for workflow automation and control-plane interaction.
 
 ## Tech Stack Deep Dive
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### JavaScript
 Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### API Integration
+Automated review identified **API Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### npm
-Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

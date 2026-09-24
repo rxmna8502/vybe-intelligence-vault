@@ -1,28 +1,19 @@
 ---
-title: sunrong1/sunrong1.github.io
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- React
-- HTML/CSS
-- Static Site Generator
+title: "sunrong1/sunrong1.github.io"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "HTML/CSS", "Static Site Generator"]
 quality_score: 3
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- portfolio
-- personal-website
-- static-site
-- typescript
-- react
-source: https://github.com/sunrong1/sunrong1.github.io
+deployment_complexity: "Low"
+tags: ["portfolio", "personal-website", "static-site", "typescript", "react"]
+source: "https://github.com/sunrong1/sunrong1.github.io"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-06T23:58:03Z'
-discovered_at: '2026-08-07T00:01:50Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T23:58:03Z"
+discovered_at: "2026-08-07T00:01:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

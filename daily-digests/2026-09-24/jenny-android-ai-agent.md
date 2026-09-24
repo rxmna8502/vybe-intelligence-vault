@@ -1,63 +1,64 @@
 ---
-title: shricol5839/jenny-android-ai-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Android
-- Python
-- OpenAI API
-- Anthropic API
-- AGPL-3.0
-- Local LLM Inference
-quality_score: 7
-rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- local-first
-- privacy-focused
-- android-ai
-- self-hosted
-- autonomous-agent
-source: https://github.com/shricol5839/jenny-android-ai-agent
-stars: 0
-language: None
-last_updated: '2026-08-07T02:39:49Z'
-discovered_at: '2026-08-07T02:41:28Z'
-evaluated_by: mistral-small-latest
+title: "flagdizero/jenny-android-ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Android (Java/Kotlin)", "CPython (embedded)", "SQLite", "Markdown", "Ollama", "LM Studio", "Telegram API", "Bing Search API", "AGPL-3.0"]
+quality_score: 9
+rag_relevance: 7
+deployment_complexity: "Medium"
+tags: ["local-first AI", "Android agent", "on-device LLM", "autonomous scheduling", "mini-app generation"]
+source: "https://github.com/flagdizero/jenny-android-ai-agent"
+stars: 73
+language: "Python"
+last_updated: "2026-09-02T19:07:49Z"
+discovered_at: "2026-09-02T19:11:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Jenny is a privacy-focused Android AI agent that operates locally on your device, enabling permanent memory, autonomous scheduled tasks, and self-written mini-apps without cloud dependency. It supports both API-based and fully offline local model execution.
+Jenny is an Android-based local-first AI agent that runs entirely on-device or with user-provided API keys, enabling permanent memory, autonomous scheduling, self-written mini-apps, and an optional home screen launcher. It prioritizes privacy by keeping all data and computations local, with optional offline model execution.
 
 ## Key Features
-- Permanent local memory for context retention without cloud storage
-- Autonomous scheduled tasks (e.g., email checks, reminders) with user-defined triggers
-- Self-written mini-apps for custom tool creation (e.g., timers, calculators)
-- Optional home screen launcher replacement for seamless integration
-- Support for both cloud-based API keys and fully offline local model execution
+- Permanent on-device memory with structured Markdown storage and pruning
+- Autonomous scheduling and proactive messaging with screen-off support
+- Self-written Android mini-apps with persistent storage and tool integration
+- Optional Telegram bridge for remote access without exposing local data
+- Local-first architecture with optional offline model execution
 
 ## Why It Matters for RAG Builders
-Jenny demonstrates how to build a privacy-preserving, locally hosted AI agent that balances autonomy with user control, offering a blueprint for decentralized AI assistants.
+Jenny demonstrates a fully local, privacy-preserving AI agent framework that can run entirely offline, offering a blueprint for secure, user-controlled AI assistants on mobile devices.
 
 ## Tech Stack Deep Dive
-### Android
-Automated review identified **Android** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Android (Java/Kotlin)
+Automated review identified **Android (Java/Kotlin)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Anthropic API
-Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CPython (embedded)
+Automated review identified **CPython (embedded)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LM Studio
+Automated review identified **LM Studio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Telegram API
+Automated review identified **Telegram API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Bing Search API
+Automated review identified **Bing Search API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### AGPL-3.0
 Automated review identified **AGPL-3.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Local LLM Inference
-Automated review identified **Local LLM Inference** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

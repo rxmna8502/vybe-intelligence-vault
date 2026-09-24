@@ -1,67 +1,52 @@
 ---
-title: maxgfr/codeindex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Tree-sitter
-- Web Workers
-- Regex Parsing
-- Protobuf
-- CLI
-- MCP Server
+title: "Widthdom/CodeIndex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET 8.x / 9.x", "SQLite", "FTS5", "MCP (Model Context Protocol)", "LSP (Language Server Protocol)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- repository indexing
-- symbol extraction
-- link graph
-- deterministic parsing
-- zero-dependency
-source: https://github.com/maxgfr/codeindex
-stars: 0
-language: TypeScript
-last_updated: '2026-08-01T06:17:28Z'
-discovered_at: '2026-08-01T06:29:16Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["code indexing", "local retrieval", "MCP server", "LSP integration", "SQLite FTS5"]
+source: "https://github.com/Widthdom/CodeIndex"
+stars: 2
+language: "C#"
+last_updated: "2026-08-01T13:14:59Z"
+discovered_at: "2026-08-01T13:16:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A zero-dependency, deterministic repository indexing engine that performs file walking, language detection, symbol/import extraction, and builds a typed cross-file link-graph with analytics. Designed for downstream tools to vendor the engine as a single file rather than installing as a dependency.
+cdidx is a local-first CLI tool that builds a SQLite-based index of code repositories for fast full-text, symbol, dependency, and inspection queries. It exposes this index via CLI, MCP server, and read-only LSP for AI agents, scripts, and editors to perform repeated code investigations without rescanning the repository.
 
 ## Key Features
-- Deterministic file walking with configurable constraints (e.g., ignore lists, binary/lockfile skips, size caps)
-- Multi-language symbol extraction with complete signatures, doc comments, and line spans using Tree-sitter AST or regex fallback
-- Cross-file import resolution across languages (TypeScript, Go, Rust, Java, etc.)
-- Typed link-graph generation with analytics (PageRank, Louvain communities, type hierarchies) and SCIP index output
-- Vendorable single-file engine (`engine.mjs`) with optional grammar tiers for precision without external dependencies
+- Builds a local SQLite FTS5 index for fast full-text and symbol searches
+- Exposes index via CLI, MCP server, and read-only LSP for external tools and agents
+- Supports incremental refresh and structured query results
+- Provides lightweight symbol and reference extraction optimized for retrieval
+- Offers bounded JSON output with pagination and truncation controls
 
 ## Why It Matters for RAG Builders
-It provides a lightweight, deterministic, and vendorable way to extract structured code intelligence from repositories, enabling RAG systems to build accurate, cross-file context without heavy external dependencies.
+cdidx enables AI agents and RAG systems to perform fast, repeatable code searches and retrievals without rescanning repositories, reducing latency and improving efficiency in code-aware workflows.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### C#
+Automated review identified **C#** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tree-sitter
-Automated review identified **Tree-sitter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### .NET 8.x / 9.x
+Automated review identified **.NET 8.x / 9.x** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Web Workers
-Automated review identified **Web Workers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Regex Parsing
-Automated review identified **Regex Parsing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FTS5
+Automated review identified **FTS5** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Protobuf
-Automated review identified **Protobuf** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP Server
-Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LSP (Language Server Protocol)
+Automated review identified **LSP (Language Server Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

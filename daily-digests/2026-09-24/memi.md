@@ -1,32 +1,19 @@
 ---
-title: memi-design/memi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- GitHub Actions
-- npm
-- Figma (optional)
-- Studio (optional)
+title: "memi-design/memi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "GitHub Actions", "npm", "Figma (optional)", "Studio (optional)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- design auditing
-- frontend engineering
-- accessibility validation
-- coding agents
-- deterministic checks
-source: https://github.com/memi-design/memi
+deployment_complexity: "Medium"
+tags: ["design auditing", "frontend engineering", "accessibility validation", "coding agents", "deterministic checks"]
+source: "https://github.com/memi-design/memi"
 stars: 35
-language: TypeScript
-last_updated: '2026-08-01T03:31:38Z'
-discovered_at: '2026-08-01T03:44:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T03:31:38Z"
+discovered_at: "2026-08-01T03:44:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

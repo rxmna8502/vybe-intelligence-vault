@@ -1,35 +1,19 @@
 ---
-title: Shivam583-hue/TrueCoder
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Textual (TUI framework)
-- SQLite
-- Docker
-- OpenAI API
-- Pytest
-- Ruff
-- GitHub Actions
-- Linux
-- macOS
-- Windows
+title: "Shivam583-hue/TrueCoder"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Textual (TUI framework)", "SQLite", "Docker", "OpenAI API", "Pytest", "Ruff", "GitHub Actions", "Linux", "macOS", "Windows"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- terminal agent
-- sandboxed execution
-- policy enforcement
-- audit trail
-- secure coding
-source: https://github.com/Shivam583-hue/TrueCoder
+deployment_complexity: "Medium"
+tags: ["terminal agent", "sandboxed execution", "policy enforcement", "audit trail", "secure coding"]
+source: "https://github.com/Shivam583-hue/TrueCoder"
 stars: 1
-language: Python
-last_updated: '2026-08-04T15:28:18Z'
-discovered_at: '2026-08-04T15:34:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T15:28:18Z"
+discovered_at: "2026-08-04T15:34:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

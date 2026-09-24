@@ -1,31 +1,19 @@
 ---
-title: patriceckhart/zot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- JSON-RPC
-- OAuth
-- CLI
-- TUI
-- HTTP/HTTPS Proxy
-- SHA-256 Verification
+title: "patriceckhart/zot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "JSON-RPC", "OAuth", "CLI", "TUI", "HTTP/HTTPS Proxy", "SHA-256 Verification"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- coding agent
-- multi-provider
-- TUI
-- OAuth
-- Go
-source: https://github.com/patriceckhart/zot
+deployment_complexity: "Low"
+tags: ["coding agent", "multi-provider", "TUI", "OAuth", "Go"]
+source: "https://github.com/patriceckhart/zot"
 stars: 332
-language: Go
-last_updated: '2026-09-02T15:44:32Z'
-discovered_at: '2026-09-02T15:51:24Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-02T15:44:32Z"
+discovered_at: "2026-09-02T15:51:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

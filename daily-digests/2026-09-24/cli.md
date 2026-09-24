@@ -1,67 +1,55 @@
 ---
-title: DojoGenesis/cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Bubble Tea (TUI framework)
-- MCP (Model Context Protocol)
-- JSON configuration
-- Shell scripting
-- SSE (Server-Sent Events)
-- Wails (desktop app layer, hibernated)
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- terminal agent
-- self-hosted AI
-- REPL
-- slash commands
-- session management
-source: https://github.com/DojoGenesis/cli
+title: "feastalytics/cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "npm", "CLI frameworks", "JSON Schema", "REST API", "Agent Skills"]
+quality_score: 8
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["CLI", "API client", "AI agent integration", "automation", "campaign management"]
+source: "https://github.com/feastalytics/cli"
 stars: 0
-language: Go
-last_updated: '2026-07-18T15:54:30Z'
-discovered_at: '2026-07-18T15:55:06Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T16:54:34Z"
+discovered_at: "2026-08-07T16:57:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Dojo CLI is a terminal-based interface for the Dojo Genesis agentic AI platform, enabling self-hosted AI workflows directly from the command line. It provides a REPL with slash commands, session management, and integration with the AgenticGateway for multi-provider model routing and semantic memory.
+A command-line interface (CLI) for the Feastalytics platform that exposes API-driven tools for managing campaigns, automations, offers, funnels, and member rewards. It includes an agent skill for integration with AI agents like Claude Code and Codex.
 
 ## Key Features
-- Interactive REPL with 30+ slash commands for structured operations (e.g., /agent, /skill, /project)
-- Integration with AgenticGateway for multi-provider model routing, semantic memory, and MCP tool execution
-- Session continuity with persistent IDs and resumable workflows across REPL invocations
-- Plugin system and hook runner for extensibility (PreCommand, PostCommand, etc.)
-- TUI dashboards for live event streaming (/pilot) and workspace overview (/home)
+- Exposes Feastalytics platform tools as CLI commands for API-driven operations
+- Includes an agent skill for seamless integration with AI agents like Claude Code and Codex
+- Supports non-interactive credential handling via environment variables for sandboxed environments
+- Automatic version update checks without blocking execution
+- Local JSON schema validation for tool inputs before API calls
 
 ## Why It Matters for RAG Builders
-It provides a terminal-native interface for managing agentic AI workflows, enabling developers to integrate AI into scripts, CI pipelines, and local development without a browser.
+It enables AI agents and developers to programmatically interact with the Feastalytics platform, streamlining automation and campaign management workflows.
 
 ## Tech Stack Deep Dive
-### Go
-Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bubble Tea (TUI framework)
-Automated review identified **Bubble Tea (TUI framework)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON configuration
-Automated review identified **JSON configuration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI frameworks
+Automated review identified **CLI frameworks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Shell scripting
-Automated review identified **Shell scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON Schema
+Automated review identified **JSON Schema** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SSE (Server-Sent Events)
-Automated review identified **SSE (Server-Sent Events)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Wails (desktop app layer, hibernated)
-Automated review identified **Wails (desktop app layer, hibernated)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Agent Skills
+Automated review identified **Agent Skills** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,30 +1,19 @@
 ---
-title: coasty-ai/coasty-nonprofit-grant-scan
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Node.js
-- JavaScript
-- Coasty API
-- Computer-use automation
-- Vision models
-- FFmpeg (for demo rendering)
+title: "coasty-ai/coasty-nonprofit-grant-scan"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "JavaScript", "Coasty API", "Computer-use automation", "Vision models", "FFmpeg (for demo rendering)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent
-- grant automation
-- computer-use automation
-- browser automation
-- offline testing
-source: https://github.com/coasty-ai/coasty-nonprofit-grant-scan
+deployment_complexity: "Medium"
+tags: ["AI agent", "grant automation", "computer-use automation", "browser automation", "offline testing"]
+source: "https://github.com/coasty-ai/coasty-nonprofit-grant-scan"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-02T19:22:33Z'
-discovered_at: '2026-08-02T19:25:16Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T19:22:33Z"
+discovered_at: "2026-08-02T19:25:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

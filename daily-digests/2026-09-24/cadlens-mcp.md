@@ -1,30 +1,19 @@
 ---
-title: cadlens-co/cadlens-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- Webhooks
-- npm
+title: "cadlens-co/cadlens-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "Webhooks", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP
-- CAD parsing
-- AI agents
-- DWG/DXF support
-- LLM integration
-source: https://github.com/cadlens-co/cadlens-mcp
+deployment_complexity: "Low"
+tags: ["MCP", "CAD parsing", "AI agents", "DWG/DXF support", "LLM integration"]
+source: "https://github.com/cadlens-co/cadlens-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-15T18:03:03Z'
-discovered_at: '2026-07-15T18:06:21Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T18:03:03Z"
+discovered_at: "2026-07-15T18:06:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

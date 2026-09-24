@@ -1,33 +1,19 @@
 ---
-title: PsycherosAI/Psycheros
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Deno
-- TypeScript
-- MCP (Model Context Protocol)
-- SQLite
-- sqlite-vec
-- Docker
-- OpenAI-compatible LLMs
-- REST APIs
-- WebSockets
+title: "PsycherosAI/Psycheros"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Deno", "TypeScript", "MCP (Model Context Protocol)", "SQLite", "sqlite-vec", "Docker", "OpenAI-compatible LLMs", "REST APIs", "WebSockets"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI entity persistence
-- memory hierarchy
-- multi-interface coherence
-- MCP server
-- RAG
-source: https://github.com/PsycherosAI/Psycheros
+deployment_complexity: "Medium"
+tags: ["AI entity persistence", "memory hierarchy", "multi-interface coherence", "MCP server", "RAG"]
+source: "https://github.com/PsycherosAI/Psycheros"
 stars: 27
-language: TypeScript
-last_updated: '2026-07-16T08:07:11Z'
-discovered_at: '2026-07-16T08:10:00Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T08:07:11Z"
+discovered_at: "2026-07-16T08:10:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

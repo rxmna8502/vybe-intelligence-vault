@@ -1,32 +1,19 @@
 ---
-title: sturlese/flightdeck
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- SQLite
-- YAML
-- Pydantic
-- FastAPI
-- Jinja2
-- Ruff
-- GitHub Actions
+title: "sturlese/flightdeck"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "YAML", "Pydantic", "FastAPI", "Jinja2", "Ruff", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI governance
-- ROI tracking
-- evidence-based adoption
-- workflow automation
-- audit trail
-source: https://github.com/sturlese/flightdeck
+deployment_complexity: "Medium"
+tags: ["AI governance", "ROI tracking", "evidence-based adoption", "workflow automation", "audit trail"]
+source: "https://github.com/sturlese/flightdeck"
 stars: 0
-language: Python
-last_updated: '2026-08-30T10:26:16Z'
-discovered_at: '2026-09-04T02:20:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-30T10:26:16Z"
+discovered_at: "2026-09-04T02:20:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

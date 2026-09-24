@@ -1,67 +1,67 @@
 ---
-title: jordan-thirkle/cockpit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- React 19
-- Vite
-- FastAPI
-- WebSocket
-- xterm.js
-- CSS
-quality_score: 8
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Hermes Agent
-- Dashboard
-- Session Management
-- UI Customization
-- Workspace Organization
-source: https://github.com/jordan-thirkle/cockpit
-stars: 0
-language: TypeScript
-last_updated: '2026-09-02T02:01:26Z'
-discovered_at: '2026-09-02T02:11:34Z'
-evaluated_by: mistral-small-latest
+title: "Surething-io/cockpit"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Claude Agent SDK", "Node.js", "xterm.js", "PostgreSQL", "MySQL", "Redis", "Shiki (syntax highlighting)", "Tree-sitter (CodeGraph)", "Electron (via Tauri-like architecture)"]
+quality_score: 9
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["AI IDE", "Multi-agent GUI", "Code review", "Smart bubbles", "Local-first"]
+source: "https://github.com/Surething-io/cockpit"
+stars: 20
+language: "TypeScript"
+last_updated: "2026-07-13T13:19:52Z"
+discovered_at: "2026-07-13T13:22:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Cockpit is a customizable dashboard shell and chat organizer for the Hermes Agent framework, enabling users to organize chat sessions into folders and workspaces while providing a branded, calm UI. It operates as a separate SPA served via the Hermes dashboard without modifying the core Hermes backend.
+OpenCockpit is an open-source, IDE-like workbench for managing multi-project AI agent sessions, providing a GUI interface for Claude Code and other AI engines. It enables parallel development workflows with features like smart bubbles for browser/DB control, code review, and slash commands for task-specific agent postures.
 
 ## Key Features
-- Organizes Hermes chat sessions into folders and workspaces (Inbox, Archive, custom folders) with persistent metadata storage
-- Survives Hermes updates by operating as a separate SPA via HERMES_WEB_DIST environment variable
-- Supports basic auth and LAN access with a calm, branded UI (byjtt.com theme)
-- Stores folder metadata externally in HERMES_HOME/data/cockpit/*.json, avoiding interference with Hermes internals
-- Pluggable themes and customizable default folders for rebranding and personalization
+- Multi-engine support (Claude, Codex, DeepSeek, Kimi, Ollama) with parallel sessions
+- Smart Bubbles for browser, PostgreSQL, MySQL, and Redis control via AI agents
+- Code Map and CodeGraph for precise code navigation and impact analysis
+- LAN-shared code review pages with line-level comments and AI context integration
+- Slash commands (/qa, /fx, /ex, /go, /cg, /cc, /cr) for task-specific agent postures
 
 ## Why It Matters for RAG Builders
-Cockpit enhances Hermes Agent usability by providing structured session organization and a premium UI, making it easier for developers to manage and navigate agentic workflows.
+OpenCockpit provides a unified, extensible GUI for AI-driven development workflows, enabling teams to collaborate efficiently with multi-project sessions, smart tooling, and precise code analysis while maintaining local-first control.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React 19
-Automated review identified **React 19** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vite
-Automated review identified **Vite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude Agent SDK
+Automated review identified **Claude Agent SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### xterm.js
 Automated review identified **xterm.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CSS
-Automated review identified **CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MySQL
+Automated review identified **MySQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Redis
+Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Shiki (syntax highlighting)
+Automated review identified **Shiki (syntax highlighting)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Tree-sitter (CodeGraph)
+Automated review identified **Tree-sitter (CodeGraph)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Electron (via Tauri-like architecture)
+Automated review identified **Electron (via Tauri-like architecture)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

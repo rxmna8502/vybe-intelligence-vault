@@ -1,32 +1,19 @@
 ---
-title: stump-wtf/msgbrowse
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- SQLite
-- HTMX
-- Tailwind CSS
-- MCP (Model Context Protocol)
-- OpenAI-compatible LLM endpoints
-- Python (for exporters)
-- Docker (optional)
+title: "stump-wtf/msgbrowse"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "SQLite", "HTMX", "Tailwind CSS", "MCP (Model Context Protocol)", "OpenAI-compatible LLM endpoints", "Python (for exporters)", "Docker (optional)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- message archive
-- local-first
-- semantic search
-- MCP server
-- privacy-focused
-source: https://github.com/stump-wtf/msgbrowse
+deployment_complexity: "Medium"
+tags: ["message archive", "local-first", "semantic search", "MCP server", "privacy-focused"]
+source: "https://github.com/stump-wtf/msgbrowse"
 stars: 0
-language: Go
-last_updated: '2026-08-02T13:46:55Z'
-discovered_at: '2026-08-02T13:49:28Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T13:46:55Z"
+discovered_at: "2026-08-02T13:49:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

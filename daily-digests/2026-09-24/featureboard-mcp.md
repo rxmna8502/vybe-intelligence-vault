@@ -1,31 +1,19 @@
 ---
-title: valentil/featureboard-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- TypeScript
-- Markdown
-- MCP (Model Context Protocol)
-- Claude Desktop/Cowork
-- Git
-- Node.js
+title: "valentil/featureboard-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "TypeScript", "Markdown", "MCP (Model Context Protocol)", "Claude Desktop/Cowork", "Git", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- project management
-- AI-driven workflow
-- markdown-based
-- agent orchestration
-- local-first
-source: https://github.com/valentil/featureboard-mcp
+deployment_complexity: "Medium"
+tags: ["project management", "AI-driven workflow", "markdown-based", "agent orchestration", "local-first"]
+source: "https://github.com/valentil/featureboard-mcp"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-20T03:35:24Z'
-discovered_at: '2026-07-20T03:37:33Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-20T03:35:24Z"
+discovered_at: "2026-07-20T03:37:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

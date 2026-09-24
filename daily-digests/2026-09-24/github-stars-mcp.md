@@ -1,29 +1,19 @@
 ---
-title: ENFernandes/github-stars-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- SQLite
-- Model Context Protocol (MCP)
-- GitHub API
+title: "ENFernandes/github-stars-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "SQLite", "Model Context Protocol (MCP)", "GitHub API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP server
-- GitHub integration
-- offline cache
-- starred repos
-- local database
-source: https://github.com/ENFernandes/github-stars-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "GitHub integration", "offline cache", "starred repos", "local database"]
+source: "https://github.com/ENFernandes/github-stars-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T00:10:04Z'
-discovered_at: '2026-08-04T00:11:07Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T00:10:04Z"
+discovered_at: "2026-08-04T00:11:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

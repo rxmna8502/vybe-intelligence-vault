@@ -1,87 +1,61 @@
 ---
-title: rush86999/atom
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Next.js
-- PostgreSQL
-- LanceDB
-- FastAPI
-- Docker
-- Ollama
-- vLLM
-- LLM providers (OpenAI, Anthropic, DeepSeek, etc.)
-- Redis
-- SQLite
-- TypeScript
+title: "0sage/atom"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Node.js", "Git", "Telegram Bot API", "OpenAI API", "Model Context Protocol (MCP)", "Markdown", "JSON/JSONL"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- governance
-- self-hosted
-- workflow automation
-- multi-agent orchestration
-source: https://github.com/rush86999/atom
-stars: 880
-language: Python
-last_updated: '2026-09-01T22:16:56Z'
-discovered_at: '2026-09-01T22:17:37Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["self-hosted", "AI agent", "file-based state", "Telegram integration", "OpenAI-compatible API"]
+source: "https://github.com/0sage/atom"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-08-10T09:21:25Z"
+discovered_at: "2026-08-10T09:24:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Atom is an open-source, self-hosted AI agent workforce platform designed for governed autonomy, where agents earn trust through verified outcomes and operate within deterministic safety nets. It enables multi-agent orchestration for business workflows with built-in governance, audit trails, and privacy controls.
+Atom is a self-hosted personal AI agent that operates entirely from files (no database) and can be accessed via terminal, Telegram, or an OpenAI-compatible HTTP API. It uses JSONL sessions, Markdown memory in a Git repo, and a JSON config for state management, making all data greppable and diffable.
 
 ## Key Features
-- 4-tier agent maturity model with verified outcomes and HITL approval gates
-- Postcondition oracle for externally verified success metrics
-- 46+ native business integrations (Salesforce, HubSpot, Slack, etc.)
-- Self-hosted privacy with BYOK and local model support (Ollama, vLLM)
-- Agent-authored workflows with Office/Canvas native automation
+- State stored in files (JSONL sessions, Markdown memory in Git) for transparency and versioning
+- Multi-interface support: terminal, Telegram, and OpenAI-compatible HTTP API
+- Built-in tools for filesystem, shell execution, web search, and MCP integration
+- Privacy controls with PII masking and sandboxing options
+- Git-backed memory with versioned consolidation and undo capabilities
 
 ## Why It Matters for RAG Builders
-Atom provides a governed, self-hosted framework for deploying autonomous AI agents that handle business workflows while ensuring accountability, privacy, and compliance without vendor lock-in.
+Atom provides a flexible, self-hosted AI agent framework with file-based state management, making it ideal for RAG builders who prioritize transparency, version control, and multi-interface accessibility.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### LanceDB
-Automated review identified **LanceDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### vLLM
-Automated review identified **vLLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### LLM providers (OpenAI, Anthropic, DeepSeek, etc.)
-Automated review identified **LLM providers (OpenAI, Anthropic, DeepSeek, etc.)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Bun
+Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Telegram Bot API
+Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI API
+Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JSON/JSONL
+Automated review identified **JSON/JSONL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

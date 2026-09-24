@@ -1,33 +1,19 @@
 ---
-title: matondojk/filament-data-copilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- PHP
-- Laravel
-- Filament
-- SQL
-- Laravel AI SDK
-- OpenAI
-- DeepSeek
-- Azure OpenAI
-- Anthropic
+title: "matondojk/filament-data-copilot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PHP", "Laravel", "Filament", "SQL", "Laravel AI SDK", "OpenAI", "DeepSeek", "Azure OpenAI", "Anthropic"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI assistant
-- natural language to SQL
-- Filament PHP
-- data visualization
-- database querying
-source: https://github.com/matondojk/filament-data-copilot
+deployment_complexity: "Medium"
+tags: ["AI assistant", "natural language to SQL", "Filament PHP", "data visualization", "database querying"]
+source: "https://github.com/matondojk/filament-data-copilot"
 stars: 0
-language: PHP
-last_updated: '2026-08-07T12:56:13Z'
-discovered_at: '2026-08-07T13:02:31Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-08-07T12:56:13Z"
+discovered_at: "2026-08-07T13:02:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

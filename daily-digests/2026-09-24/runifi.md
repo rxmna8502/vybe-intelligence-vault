@@ -1,45 +1,33 @@
 ---
-title: jmagar/runifi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Rust
-- MCP (Model Context Protocol)
-- UniFi Network API
-- HTTP
-- CLI
-- Docker
-- npm
+title: "dinglebear-ai/runifi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "CLI", "Docker", "Node.js (npm package)", "REST API", "TOML (configuration)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- UniFi integration
-- MCP server
-- Rust CLI
-- network monitoring
-- API gateway
-source: https://github.com/jmagar/runifi
+deployment_complexity: "Medium"
+tags: ["UniFi integration", "MCP server", "network monitoring", "Rust tooling", "REST API wrapper"]
+source: "https://github.com/dinglebear-ai/runifi"
 stars: 1
-language: Rust
-last_updated: '2026-07-19T23:47:35Z'
-discovered_at: '2026-07-19T23:56:00Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T03:36:39Z"
+discovered_at: "2026-08-01T03:44:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-unifi-rmcp is a Rust-based MCP server and CLI for managing Ubiquiti UniFi Network controllers through official, internal, and hybrid API actions. It exposes MCP tools and a CLI to inspect clients, devices, networks, health, and more, while enforcing UniFi permission scopes.
+A Rust-based MCP server and CLI for interacting with UniFi Network controllers, exposing REST-backed network operations (clients, devices, WLANs, health, alarms, events) via stdio or HTTP. It provides read and mutating actions for UniFi controllers while enforcing authorization scopes.
 
 ## Key Features
-- Exposes UniFi controller data via MCP tools and CLI for agent interactions
-- Supports both official and internal UniFi API actions with permission enforcement
-- Provides HTTP MCP server for shared deployments and loopback stdio for local use
-- Includes CLI parity for debugging and scripting, with Docker and npm packaging
-- Enforces UniFi read/admin scopes and integrates with OAuth for HTTP MCP auth
+- Exposes 267 MCP actions (78 official, 175 internal, 8 preserved convenience) for UniFi controller operations
+- Supports both stdio and HTTP MCP runtime surfaces for local and shared deployments
+- Enforces authorization scopes (unifi:read for read actions, unifi:admin for mutating actions)
+- Provides CLI parity with MCP actions for debugging and scripting
+- Includes setup, verification, and health-check commands for runtime validation
 
 ## Why It Matters for RAG Builders
-It bridges UniFi network data with AI agents via MCP, enabling secure, permission-aware access to network telemetry and controls for RAG applications.
+It enables AI agents to securely interact with UniFi network infrastructure via standardized MCP interfaces, bridging the gap between AI workflows and physical network management.
 
 ## Tech Stack Deep Dive
 ### Rust
@@ -47,9 +35,6 @@ Automated review identified **Rust** as a key module contributing to infrastruct
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### UniFi Network API
-Automated review identified **UniFi Network API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### HTTP
 Automated review identified **HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -60,8 +45,14 @@ Automated review identified **CLI** as a key module contributing to infrastructu
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### npm
-Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js (npm package)
+Automated review identified **Node.js (npm package)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TOML (configuration)
+Automated review identified **TOML (configuration)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

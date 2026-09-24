@@ -1,32 +1,19 @@
 ---
-title: xli498/openclaw-config-guide
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Markdown
-- OpenClaw
-- DeepSeek
-- MiMo
-- Claude
-- Proxy Networks (Mihomo)
-- Node.js
-- NPM
+title: "xli498/openclaw-config-guide"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "OpenClaw", "DeepSeek", "MiMo", "Claude", "Proxy Networks (Mihomo)", "Node.js", "NPM"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- OpenClaw
-- AI configuration
-- model integration
-- proxy setup
-- troubleshooting
-source: https://github.com/xli498/openclaw-config-guide
+deployment_complexity: "Medium"
+tags: ["OpenClaw", "AI configuration", "model integration", "proxy setup", "troubleshooting"]
+source: "https://github.com/xli498/openclaw-config-guide"
 stars: 0
-language: None
-last_updated: '2026-07-11T05:38:18Z'
-discovered_at: '2026-07-11T05:39:07Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-11T05:38:18Z"
+discovered_at: "2026-07-11T05:39:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

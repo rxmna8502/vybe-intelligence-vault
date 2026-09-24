@@ -1,31 +1,19 @@
 ---
-title: atom2ueki/mcp-server-synology
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Docker
-- Model Context Protocol (MCP)
-- Synology DSM API
-- WebSocket
-- HTTP/SSE
-- mcp-proxy
+title: "atom2ueki/mcp-server-synology"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Docker", "Model Context Protocol (MCP)", "Synology DSM API", "WebSocket", "HTTP/SSE", "mcp-proxy"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Synology NAS
-- AI integration
-- file management
-- remote deployment
-source: https://github.com/atom2ueki/mcp-server-synology
+deployment_complexity: "Medium"
+tags: ["MCP server", "Synology NAS", "AI integration", "file management", "remote deployment"]
+source: "https://github.com/atom2ueki/mcp-server-synology"
 stars: 154
-language: Python
-last_updated: '2026-08-08T19:24:49Z'
-discovered_at: '2026-08-08T19:33:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T19:24:49Z"
+discovered_at: "2026-08-08T19:33:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

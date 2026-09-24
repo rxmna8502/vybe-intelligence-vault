@@ -1,31 +1,19 @@
 ---
-title: mikesplore/vela-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- Model Context Protocol (MCP)
-- HTTP/STDIO Transport
-- Pydantic
-- Uvicorn
-- Httpx
+title: "mikesplore/vela-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Model Context Protocol (MCP)", "HTTP/STDIO Transport", "Pydantic", "Uvicorn", "Httpx"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- remote system control
-- multi-tenant
-- AI orchestration
-- Vela RemotePC
-source: https://github.com/mikesplore/vela-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "remote system control", "multi-tenant", "AI orchestration", "Vela RemotePC"]
+source: "https://github.com/mikesplore/vela-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-08T18:31:52Z'
-discovered_at: '2026-08-08T18:40:12Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T18:31:52Z"
+discovered_at: "2026-08-08T18:40:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

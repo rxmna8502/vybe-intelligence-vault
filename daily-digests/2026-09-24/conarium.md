@@ -1,30 +1,19 @@
 ---
-title: dogrucanemek-alt/conarium
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Ed25519 cryptographic signing
-- PostgreSQL (for reconciliation)
-- Docker (for deployment)
+title: "dogrucanemek-alt/conarium"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Ed25519 cryptographic signing", "PostgreSQL (for reconciliation)", "Docker (for deployment)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- data governance
-- PII masking
-- audit logging
-- AI security
-- compliance
-source: https://github.com/dogrucanemek-alt/conarium
+deployment_complexity: "Medium"
+tags: ["data governance", "PII masking", "audit logging", "AI security", "compliance"]
+source: "https://github.com/dogrucanemek-alt/conarium"
 stars: 2
-language: HTML
-last_updated: '2026-08-08T13:40:26Z'
-discovered_at: '2026-08-08T13:48:47Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-08T13:40:26Z"
+discovered_at: "2026-08-08T13:48:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

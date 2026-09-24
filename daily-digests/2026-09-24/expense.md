@@ -1,39 +1,19 @@
 ---
-title: assaf/expense
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- React
-- TypeScript
-- Tailwind CSS
-- PostgreSQL
-- Prisma
-- Vercel
-- Neon
-- Leaflet
-- OSRM
-- DeepSeek
-- Resend
-- MCP (Model Context Protocol)
-- OAuth 2.1
-- PDF generation
-- OCR
+title: "assaf/expense"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["React", "TypeScript", "Tailwind CSS", "PostgreSQL", "Prisma", "Vercel", "Neon", "Leaflet", "OSRM", "DeepSeek", "Resend", "MCP (Model Context Protocol)", "OAuth 2.1", "PDF generation", "OCR"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- expense tracking
-- receipt automation
-- AI assistants
-- multi-user accounts
-- MCP integration
-source: https://github.com/assaf/expense
+deployment_complexity: "Medium"
+tags: ["expense tracking", "receipt automation", "AI assistants", "multi-user accounts", "MCP integration"]
+source: "https://github.com/assaf/expense"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-05T02:14:58Z'
-discovered_at: '2026-08-05T02:17:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T02:14:58Z"
+discovered_at: "2026-08-05T02:17:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

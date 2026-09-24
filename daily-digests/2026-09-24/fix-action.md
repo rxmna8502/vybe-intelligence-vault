@@ -1,29 +1,19 @@
 ---
-title: isreadyai/fix-action
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- GitHub Actions
-- TypeScript/JavaScript
-- Node.js
-- OIDC
-- REST API
+title: "isreadyai/fix-action"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["GitHub Actions", "TypeScript/JavaScript", "Node.js", "OIDC", "REST API"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI readiness
-- GitHub Action
-- automated fixes
-- pull request automation
-- SEO optimization
-source: https://github.com/isreadyai/fix-action
+deployment_complexity: "Low"
+tags: ["AI readiness", "GitHub Action", "automated fixes", "pull request automation", "SEO optimization"]
+source: "https://github.com/isreadyai/fix-action"
 stars: 1
-language: None
-last_updated: '2026-09-01T19:01:41Z'
-discovered_at: '2026-09-01T19:05:51Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-01T19:01:41Z"
+discovered_at: "2026-09-01T19:05:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

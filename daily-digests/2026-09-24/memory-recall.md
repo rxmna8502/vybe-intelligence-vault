@@ -1,32 +1,19 @@
 ---
-title: rebel0789/Memory-Recall
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Node.js
-- SQLite
-- FTS5 (Full-Text Search)
-- TypeScript
-- Rust (experimental)
-- MCP (Model Context Protocol)
-- CLI
-- JSON
+title: "rebel0789/Memory-Recall"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "SQLite", "FTS5 (Full-Text Search)", "TypeScript", "Rust (experimental)", "MCP (Model Context Protocol)", "CLI", "JSON"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local memory
-- context management
-- coding agents
-- SQLite governance
-- MCP integration
-source: https://github.com/rebel0789/Memory-Recall
+deployment_complexity: "Medium"
+tags: ["local memory", "context management", "coding agents", "SQLite governance", "MCP integration"]
+source: "https://github.com/rebel0789/Memory-Recall"
 stars: 8
-language: JavaScript
-last_updated: '2026-07-15T10:37:14Z'
-discovered_at: '2026-07-15T10:48:53Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-15T10:37:14Z"
+discovered_at: "2026-07-15T10:48:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

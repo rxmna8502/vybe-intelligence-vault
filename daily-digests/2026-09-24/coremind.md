@@ -1,35 +1,19 @@
 ---
-title: Eclipseic1848/CoreMind
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Python
-- CLI/TUI
-- SDK
-- Protocol v2
-- Configuration Management
-- Agent Orchestration
-- Quality Gates
-- Sandboxing
-- Trace/Logging
+title: "Eclipseic1848/CoreMind"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Python", "CLI/TUI", "SDK", "Protocol v2", "Configuration Management", "Agent Orchestration", "Quality Gates", "Sandboxing", "Trace/Logging"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Agent Framework
-- Configuration-Driven
-- Multi-Agent Orchestration
-- Quality Assurance
-- Cross-Platform
-source: https://github.com/Eclipseic1848/CoreMind
+deployment_complexity: "Medium"
+tags: ["Agent Framework", "Configuration-Driven", "Multi-Agent Orchestration", "Quality Assurance", "Cross-Platform"]
+source: "https://github.com/Eclipseic1848/CoreMind"
 stars: 5
-language: TypeScript
-last_updated: '2026-09-03T08:27:35Z'
-discovered_at: '2026-09-03T08:29:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T08:27:35Z"
+discovered_at: "2026-09-03T08:29:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: empir3hq/empir3-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Chrome DevTools Protocol (CDP)
-- WebSocket
-- CLI automation
-- Desktop automation (UIA, pointer overlay)
-- Chrome profile isolation
-- React-Native-Web
-- Higgsfield (image/video generation)
+title: "empir3hq/empir3-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Chrome DevTools Protocol (CDP)", "WebSocket", "CLI automation", "Desktop automation (UIA, pointer overlay)", "Chrome profile isolation", "React-Native-Web", "Higgsfield (image/video generation)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- multi-model orchestration
-- local-first AI
-- desktop automation
-- browser control
-- MCP bridge
-source: https://github.com/empir3hq/empir3-bridge
+deployment_complexity: "Medium"
+tags: ["multi-model orchestration", "local-first AI", "desktop automation", "browser control", "MCP bridge"]
+source: "https://github.com/empir3hq/empir3-bridge"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-05T16:33:41Z'
-discovered_at: '2026-08-05T16:46:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T16:33:41Z"
+discovered_at: "2026-08-05T16:46:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,87 +1,61 @@
 ---
-title: mclaut/ariadne
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Qdrant
-- bge-m3
-- Ollama
-- BM25
-- RRF (Reciprocal Rank Fusion)
-- Sigstore
-- CycloneDX
-- PowerShell
-- Bash
-- Launchd
-- systemd
+title: "whyy9527/ariadne"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "TF-IDF", "MCP (Model Context Protocol)", "GraphQL", "REST", "Kafka", "TypeScript", "Spring Boot"]
 quality_score: 9
-rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local-first
-- multilingual
-- MCP server
-- hybrid search
-- memory management
-source: https://github.com/mclaut/ariadne
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["MCP server", "API dependency graph", "microservices", "cross-service tracing", "AI coding assistant"]
+source: "https://github.com/whyy9527/ariadne"
 stars: 1
-language: Go
-last_updated: '2026-07-10T13:09:19Z'
-discovered_at: '2026-07-10T13:11:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T05:28:23Z"
+discovered_at: "2026-07-11T05:39:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Ariadne is a native, local-first memory server for AI coding assistants like Codex and Claude Code, providing a stable, multilingual, and hybrid-search-capable vector database backend using Qdrant and bge-m3 embeddings without requiring Docker or cloud services.
+Ariadne is an MCP stdio server and CLI tool that builds a cross-service API dependency graph for microservice stacks, enabling AI coding assistants to trace API calls across GraphQL, REST, Kafka, and frontend queries with deterministic, context-window-friendly results.
 
 ## Key Features
-- Native, cross-platform installation (Windows/macOS/Linux) with no Docker dependency
-- Hybrid search combining dense (bge-m3) and sparse (BM25) embeddings with RRF fusion for high-precision recall
-- Multilingual support covering 100+ languages with cross-lingual recall (cosine similarity ~0.8–0.94)
-- Session hooks for auto-recall and auto-capture in Claude Code, reducing context setup overhead
-- Verifiable artifacts with SHA-256 checksums, CycloneDX SBOM, and Sigstore bundles for secure deployments
+- Builds a deterministic cross-service API dependency graph for microservices using static analysis (no ML dependencies).
+- Integrates with AI coding assistants (Claude Code, Cursor, Windsurf) via MCP stdio server for real-time API tracing.
+- Supports GraphQL, REST, Kafka, and frontend queries with zero-config demo and custom scanner API for extensibility.
+- Provides reproducible benchmarks and evaluation tools for measuring retrieval accuracy and token efficiency.
+- Offers CLI and MCP server modes with local SQLite storage, ensuring privacy and offline operation.
 
 ## Why It Matters for RAG Builders
-Ariadne provides a robust, local-first alternative to embedded vector DBs for RAG systems, ensuring stability, multilingual support, and hybrid search capabilities critical for AI engineering workflows.
+Ariadne enables RAG builders to trace API dependencies across microservices with deterministic, context-window-friendly results, making it essential for AI assistants to understand and navigate complex service architectures efficiently.
 
 ## Tech Stack Deep Dive
-### Go
-Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Qdrant
-Automated review identified **Qdrant** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### bge-m3
-Automated review identified **bge-m3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TF-IDF
+Automated review identified **TF-IDF** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### BM25
-Automated review identified **BM25** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GraphQL
+Automated review identified **GraphQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### RRF (Reciprocal Rank Fusion)
-Automated review identified **RRF (Reciprocal Rank Fusion)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST
+Automated review identified **REST** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Sigstore
-Automated review identified **Sigstore** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Kafka
+Automated review identified **Kafka** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CycloneDX
-Automated review identified **CycloneDX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PowerShell
-Automated review identified **PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Bash
-Automated review identified **Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Launchd
-Automated review identified **Launchd** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### systemd
-Automated review identified **systemd** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Spring Boot
+Automated review identified **Spring Boot** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

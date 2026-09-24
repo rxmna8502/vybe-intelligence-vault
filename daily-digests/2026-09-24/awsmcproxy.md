@@ -1,29 +1,19 @@
 ---
-title: winebarrel/awsmcproxy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- SigV4
-- AWS MCP Server
-- AWS SDK
-- HTTP Transport
+title: "winebarrel/awsmcproxy"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "SigV4", "AWS MCP Server", "AWS SDK", "HTTP Transport"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AWS
-- MCP
-- SigV4
-- Multi-profile
-- Proxy
-source: https://github.com/winebarrel/awsmcproxy
+deployment_complexity: "Low"
+tags: ["AWS", "MCP", "SigV4", "Multi-profile", "Proxy"]
+source: "https://github.com/winebarrel/awsmcproxy"
 stars: 3
-language: Go
-last_updated: '2026-09-03T02:10:42Z'
-discovered_at: '2026-09-03T02:20:27Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T02:10:42Z"
+discovered_at: "2026-09-03T02:20:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

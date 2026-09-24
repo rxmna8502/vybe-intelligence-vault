@@ -1,37 +1,19 @@
 ---
-title: denisotree/veles
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- CLI
-- LLM
-- FastAPI
-- SQLite
-- TOML
-- Telegram API
-- OpenRouter
-- Anthropic
-- OpenAI
-- Gemini
-- Ollama
-- llamacpp
+title: "denisotree/veles"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "CLI", "LLM", "FastAPI", "SQLite", "TOML", "Telegram API", "OpenRouter", "Anthropic", "OpenAI", "Gemini", "Ollama", "llamacpp"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- compounding memory
-- project-specific knowledge
-- modular agent
-- multi-provider
-- local-first
-source: https://github.com/denisotree/veles
+deployment_complexity: "Medium"
+tags: ["compounding memory", "project-specific knowledge", "modular agent", "multi-provider", "local-first"]
+source: "https://github.com/denisotree/veles"
 stars: 1
-language: Python
-last_updated: '2026-07-13T18:37:48Z'
-discovered_at: '2026-07-13T18:43:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T18:37:48Z"
+discovered_at: "2026-07-13T18:43:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

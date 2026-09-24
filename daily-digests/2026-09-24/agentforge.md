@@ -1,95 +1,70 @@
 ---
-title: sekacorn/AgentForge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Asyncio
-- Anthropic API
-- OpenAI API
-- Amazon Bedrock
-- Ollama
-- SQLite
-- PostgreSQL
-- pgvector
-- Redis
-- OpenTelemetry
-- Mypy
-- Ruff
-- PyPI
+title: "thenextfreud/agentforge"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Python", "MCP (Model Context Protocol)", "Docker", "Node.js", "npm", "CLI Tools", "REST API", "SQL", "OAuth 2.0", "Vector Search", "Streaming HTTP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- cost-aware AI
-- security-first design
-- production-grade
-- observability
-source: https://github.com/sekacorn/AgentForge
+deployment_complexity: "Medium"
+tags: ["MCP servers", "AI agents", "boilerplate reduction", "TypeScript/Python templates", "agent orchestration"]
+source: "https://github.com/thenextfreud/agentforge"
 stars: 0
-language: Python
-last_updated: '2026-08-08T16:33:51Z'
-discovered_at: '2026-08-08T16:36:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T22:10:41Z"
+discovered_at: "2026-09-02T22:16:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-AgentForge is an open-source multi-agent orchestration platform designed for production-grade AI workflows. It enables teams to build, run, and govern teams of AI agents with built-in cost tracking, security, compliance, and observability features.
+AgentForge provides production-ready templates for building MCP servers and AI agents, reducing boilerplate with pre-configured setups for TypeScript and Python. It includes 10 MCP server templates, 5 AI agent patterns, and CLI scaffolding for rapid project initialization.
 
 ## Key Features
-- Supervisor + parallel worker agents for task decomposition and concurrent execution
-- Intelligent model routing with cost optimization and budget caps
-- Tamper-evident audit logging with PII redaction and compliance support
-- Pluggable memory backends (in-memory, SQLite, PostgreSQL, Redis) for RAG and conversation history
-- Policy-as-code governance with RBAC and tool sandboxing for security
+- 10 pre-built MCP server templates covering REST APIs, databases, file operations, and web search
+- 5 AI agent patterns including ReAct, tool-use, RAG, multi-agent, and human-in-loop
+- CLI scaffolding tool for instant project setup with interactive template selection
+- Multi-environment deployment configs (Docker, Cloudflare Workers, Vercel, Railway, Fly.io)
+- Client integration guides for popular AI coding tools (Claude, Cursor, VS Code)
 
 ## Why It Matters for RAG Builders
-AgentForge provides a robust, production-ready framework for orchestrating multi-agent AI systems with built-in cost control, security, and governance, addressing critical gaps in operationalizing AI workflows.
+AgentForge accelerates AI agent and MCP server development by eliminating repetitive boilerplate, enabling builders to focus on core logic and integration.
 
 ## Tech Stack Deep Dive
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Asyncio
-Automated review identified **Asyncio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Anthropic API
-Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Amazon Bedrock
-Automated review identified **Amazon Bedrock** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI Tools
+Automated review identified **CLI Tools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQL
+Automated review identified **SQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### pgvector
-Automated review identified **pgvector** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OAuth 2.0
+Automated review identified **OAuth 2.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Vector Search
+Automated review identified **Vector Search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenTelemetry
-Automated review identified **OpenTelemetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Mypy
-Automated review identified **Mypy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Ruff
-Automated review identified **Ruff** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PyPI
-Automated review identified **PyPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Streaming HTTP
+Automated review identified **Streaming HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

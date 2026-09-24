@@ -1,79 +1,67 @@
 ---
-title: johan-windahl/forge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- SQLite
-- llama.cpp
-- vLLM
-- Ollama
-- Claude CLI
-- Git
-- Playwright
-- OpenCode
-- Docker
+title: "SidCorp-co/forge"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Rust", "Hono", "Drizzle ORM", "PostgreSQL", "Next.js", "WebSocket", "Claude Code", "Docker", "pg-boss", "MCP"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- autonomous agents
-- local-first AI
-- model routing
-- self-improving workflows
-- cost optimization
-source: https://github.com/johan-windahl/forge
-stars: 0
-language: Python
-last_updated: '2026-08-02T11:57:44Z'
-discovered_at: '2026-08-02T12:02:39Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["AI-powered workflows", "self-hosted orchestration", "Claude Code integration", "pipeline management", "multi-device coordination"]
+source: "https://github.com/SidCorp-co/forge"
+stars: 5
+language: "None"
+last_updated: "2026-09-02T02:06:35Z"
+discovered_at: "2026-09-02T02:12:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Forge is an autonomous software engineering platform that autonomously plans, implements, tests, and deploys software projects using a local-first model ladder. It escalates to frontier models only when necessary, optimizing cost and efficiency while improving its own workflows over time.
+Forge is an open-source AI-powered software lifecycle platform that orchestrates Claude Code on user-controlled devices. It provides a web dashboard for managing projects from build to maintenance, a configurable pipeline for issue routing, and real-time job auditing without holding user credentials.
 
 ## Key Features
-- Local-first model execution with escalation to frontier models only when needed
-- Deterministic, append-only event logging for crash recovery and state reconstruction
-- Dynamic model routing based on task class success rates and budget constraints
-- Self-improving workflows that adapt lessons across projects to reduce future costs
-- Sandboxed execution with configurable safety (local, Docker, or VM)
+- Configurable AI-driven pipeline with stages like triage, plan, code, and review
+- Real-time job streaming and auditing with full event logs retained for 30 days
+- Multi-project and multi-device coordination with device-specific credential management
+- Extensible architecture supporting custom skills, pipeline stages, and runners
+- Organizational role-based access control and shared integration connections
 
 ## Why It Matters for RAG Builders
-Forge provides a cost-efficient, self-hosted framework for autonomous software engineering that minimizes reliance on expensive frontier models while ensuring high-quality, deterministic outcomes through measured escalation and self-improvement.
+Forge provides a critical orchestration layer for AI-driven software development workflows, enabling secure, self-hosted, and extensible automation of Claude Code-powered tasks while maintaining full control over credentials and compute.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### llama.cpp
-Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Hono
+Automated review identified **Hono** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### vLLM
-Automated review identified **vLLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Drizzle ORM
+Automated review identified **Drizzle ORM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude CLI
-Automated review identified **Claude CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Next.js
+Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebSocket
+Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Playwright
-Automated review identified **Playwright** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenCode
-Automated review identified **OpenCode** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude Code
+Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### pg-boss
+Automated review identified **pg-boss** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP
+Automated review identified **MCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,33 +1,19 @@
 ---
-title: gensecaihq/Wazuh-MCP-Server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Docker
-- FastAPI
-- Wazuh API
-- Elasticsearch/OpenSearch
-- Model Context Protocol (MCP)
-- Redis
-- JWT
-- GitHub Actions
+title: "gensecaihq/Wazuh-MCP-Server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Docker", "FastAPI", "Wazuh API", "Elasticsearch/OpenSearch", "Model Context Protocol (MCP)", "Redis", "JWT", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- SIEM integration
-- MCP server
-- threat detection
-- active response
-- compliance automation
-source: https://github.com/gensecaihq/Wazuh-MCP-Server
+deployment_complexity: "Medium"
+tags: ["SIEM integration", "MCP server", "threat detection", "active response", "compliance automation"]
+source: "https://github.com/gensecaihq/Wazuh-MCP-Server"
 stars: 216
-language: Python
-last_updated: '2026-08-07T19:50:10Z'
-discovered_at: '2026-08-07T19:58:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T19:50:10Z"
+discovered_at: "2026-08-07T19:58:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

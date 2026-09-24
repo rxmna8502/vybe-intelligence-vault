@@ -1,33 +1,19 @@
 ---
-title: averatec0773/offeros
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Next.js
-- React
-- SQLite
-- WXT (Web Extension Toolkit)
-- Zod
-- LLM APIs (Anthropic, OpenAI)
-- PDF rendering (pdflatex, Chromium)
-- Mermaid (for architecture diagrams)
+title: "averatec0773/offeros"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Next.js", "React", "SQLite", "WXT (Web Extension Toolkit)", "Zod", "LLM APIs (Anthropic, OpenAI)", "PDF rendering (pdflatex, Chromium)", "Mermaid (for architecture diagrams)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- job application automation
-- ATS autofill
-- local-first AI
-- résumé tailoring
-- cover letter generation
-source: https://github.com/averatec0773/offeros
+deployment_complexity: "Medium"
+tags: ["job application automation", "ATS autofill", "local-first AI", "r\u00e9sum\u00e9 tailoring", "cover letter generation"]
+source: "https://github.com/averatec0773/offeros"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T06:54:10Z'
-discovered_at: '2026-08-09T06:58:49Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T06:54:10Z"
+discovered_at: "2026-08-09T06:58:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

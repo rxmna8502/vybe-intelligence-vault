@@ -1,33 +1,19 @@
 ---
-title: 0rkz/byte-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- JavaScript
-- Model Context Protocol (MCP)
-- Ethereum (Base mainnet, Arbitrum Sepolia)
-- USDC (real and mock)
-- EIP-712
-- x402 Payment Protocol
-- Node.js
-- npm
+title: "0rkz/byte-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript", "Model Context Protocol (MCP)", "Ethereum (Base mainnet, Arbitrum Sepolia)", "USDC (real and mock)", "EIP-712", "x402 Payment Protocol", "Node.js", "npm"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- pay-per-byte
-- EIP-712 attestations
-- x402 protocol
-- AI data integrity
-source: https://github.com/0rkz/byte-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "pay-per-byte", "EIP-712 attestations", "x402 protocol", "AI data integrity"]
+source: "https://github.com/0rkz/byte-mcp-server"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-07T18:51:50Z'
-discovered_at: '2026-08-07T18:57:49Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T18:51:50Z"
+discovered_at: "2026-08-07T18:57:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

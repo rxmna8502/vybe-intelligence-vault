@@ -1,48 +1,37 @@
 ---
-title: javinfo/mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- REST API
-- CLI Integration
-- Unix Sockets
-quality_score: 8
-rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- JAV metadata
-- MCP server
-- streaming
-- adult video API
-- CLI integration
-source: https://github.com/javinfo/mcp
+title: "mlawsonking/MCP"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTP APIs", "Regex", "Serverless Functions", "PostHog (analytics)"]
+quality_score: 9
+rag_relevance: 8
+deployment_complexity: "Low"
+tags: ["guardrails", "deterministic", "AI agents", "security", "input validation"]
+source: "https://github.com/mlawsonking/MCP"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T20:40:22Z'
-discovered_at: '2026-08-07T20:42:57Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T19:52:38Z"
+discovered_at: "2026-08-10T20:02:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-An MCP server for the javinfo API that provides tools to search, fetch metadata, and stream Japanese adult video (JAV) content. It integrates with the javinfo CLI to enable local LAN HLS play sessions.
+A suite of deterministic guardrails and utility tools for AI agents, providing HTTP APIs and MCP servers to validate inputs, detect risks, and parse web content without relying on LLMs or requiring API keys for free tiers.
 
 ## Key Features
-- Search JAV releases by DVD code, title, or actress with advanced filtering and sorting
-- Fetch detailed metadata for a specific JAV release
-- Generate random JAV titles from multiple providers
-- Enable local LAN HLS play sessions via javinfo CLI integration
-- Support for multiple data providers (FANZA, DMM, JavDB, MissAV, etc.)
+- Six specialized tools for validating packages, code, payments, emails, and web content with deterministic rules
+- Available as both HTTP APIs and MCP servers for seamless integration with AI agents
+- Lightweight, no LLM dependency, and free for low-volume use with paid tiers for higher throughput
+- Includes a Claude Code plugin for automatic guardrail enforcement during agent operations
+- Comprehensive coverage of injection patterns, secret leaks, typosquats, and sanctioned addresses
 
 ## Why It Matters for RAG Builders
-It provides structured access to JAV metadata and streaming capabilities, which can be valuable for AI systems needing domain-specific content retrieval and playback integration.
+It provides essential, lightweight guardrails to prevent risky actions by AI agents without relying on LLMs, ensuring safer and more reliable agentic workflows.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -50,14 +39,17 @@ Automated review identified **Node.js** as a key module contributing to infrastr
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTTP APIs
+Automated review identified **HTTP APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI Integration
-Automated review identified **CLI Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Regex
+Automated review identified **Regex** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Unix Sockets
-Automated review identified **Unix Sockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Serverless Functions
+Automated review identified **Serverless Functions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PostHog (analytics)
+Automated review identified **PostHog (analytics)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

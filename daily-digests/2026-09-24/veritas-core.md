@@ -1,31 +1,19 @@
 ---
-title: Leisure-Auf1/Veritas-Core
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- PostgreSQL
-- Redis
-- ChromaDB
-- Event-Driven Architecture
-- Docker
+title: "Leisure-Auf1/Veritas-Core"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "Redis", "ChromaDB", "Event-Driven Architecture", "Docker"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- Agent Infrastructure
-- Multi-Agent Systems
-- Trust Layer
-- State Machine
-- RAG Integration
-source: https://github.com/Leisure-Auf1/Veritas-Core
+deployment_complexity: "High"
+tags: ["Agent Infrastructure", "Multi-Agent Systems", "Trust Layer", "State Machine", "RAG Integration"]
+source: "https://github.com/Leisure-Auf1/Veritas-Core"
 stars: 0
-language: Python
-last_updated: '2026-07-14T05:28:18Z'
-discovered_at: '2026-07-14T05:29:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T05:28:18Z"
+discovered_at: "2026-07-14T05:29:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

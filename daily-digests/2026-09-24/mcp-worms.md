@@ -1,28 +1,19 @@
 ---
-title: pipeworx-io/mcp-worms
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- REST API
-- JSON
+title: "pipeworx-io/mcp-worms"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "JSON"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- marine biology
-- taxonomy
-- MCP server
-- data integration
-- keyless API
-source: https://github.com/pipeworx-io/mcp-worms
+deployment_complexity: "Low"
+tags: ["marine biology", "taxonomy", "MCP server", "data integration", "keyless API"]
+source: "https://github.com/pipeworx-io/mcp-worms"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-04T07:32:07Z'
-discovered_at: '2026-08-04T07:41:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T07:32:07Z"
+discovered_at: "2026-08-04T07:41:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

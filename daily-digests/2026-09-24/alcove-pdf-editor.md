@@ -1,28 +1,19 @@
 ---
-title: Resumeplanofaction939/alcove-pdf-editor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- HTML
-- JavaScript
-- CSS
-- Browser-based APIs
+title: "Resumeplanofaction939/alcove-pdf-editor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["HTML", "JavaScript", "CSS", "Browser-based APIs"]
 quality_score: 7
 rag_relevance: 3
-deployment_complexity: Low
-tags:
-- PDF editor
-- browser-based
-- document management
-- open source
-- offline tool
-source: https://github.com/Resumeplanofaction939/alcove-pdf-editor
+deployment_complexity: "Low"
+tags: ["PDF editor", "browser-based", "document management", "open source", "offline tool"]
+source: "https://github.com/Resumeplanofaction939/alcove-pdf-editor"
 stars: 0
-language: HTML
-last_updated: '2026-08-07T02:39:40Z'
-discovered_at: '2026-08-07T02:41:28Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-07T02:39:40Z"
+discovered_at: "2026-08-07T02:41:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

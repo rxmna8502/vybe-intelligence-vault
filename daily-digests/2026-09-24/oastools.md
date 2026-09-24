@@ -1,30 +1,19 @@
 ---
-title: erraggy/oastools
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- YAML
-- JSON Schema
-- OpenAPI
-- MCP (Model Context Protocol)
-- GolangCI-Lint
+title: "erraggy/oastools"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "YAML", "JSON Schema", "OpenAPI", "MCP (Model Context Protocol)", "GolangCI-Lint"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- OpenAPI
-- API validation
-- spec management
-- Go toolkit
-- MCP server
-source: https://github.com/erraggy/oastools
+deployment_complexity: "Low"
+tags: ["OpenAPI", "API validation", "spec management", "Go toolkit", "MCP server"]
+source: "https://github.com/erraggy/oastools"
 stars: 5
-language: Go
-last_updated: '2026-08-02T02:23:21Z'
-discovered_at: '2026-08-02T02:34:58Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-02T02:23:21Z"
+discovered_at: "2026-08-02T02:34:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

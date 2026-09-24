@@ -1,30 +1,19 @@
 ---
-title: MarcinMikula/PhoenixQA
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Playwright
-- Ollama
-- Anthropic API
-- SQLite
-- LLM (Large Language Models)
+title: "MarcinMikula/PhoenixQA"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Playwright", "Ollama", "Anthropic API", "SQLite", "LLM (Large Language Models)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- test automation
-- self-healing
-- LLM-driven
-- frontend testing
-- Playwright
-source: https://github.com/MarcinMikula/PhoenixQA
+deployment_complexity: "Medium"
+tags: ["test automation", "self-healing", "LLM-driven", "frontend testing", "Playwright"]
+source: "https://github.com/MarcinMikula/PhoenixQA"
 stars: 0
-language: Python
-last_updated: '2026-09-03T15:30:28Z'
-discovered_at: '2026-09-03T15:37:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T15:30:28Z"
+discovered_at: "2026-09-03T15:37:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

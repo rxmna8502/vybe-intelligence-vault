@@ -1,32 +1,19 @@
 ---
-title: Choihello/startup-law-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- National Law Information Center Open API
-- Public Data Portal API
-- Markdown
-- JSON
-- GitHub Actions
-- Fly.io
+title: "Choihello/startup-law-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "National Law Information Center Open API", "Public Data Portal API", "Markdown", "JSON", "GitHub Actions", "Fly.io"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Korean startup law
-- legal citation verification
-- MCP server
-- RAG hallucination prevention
-- K-Startup support programs
-source: https://github.com/Choihello/startup-law-mcp
+deployment_complexity: "Medium"
+tags: ["Korean startup law", "legal citation verification", "MCP server", "RAG hallucination prevention", "K-Startup support programs"]
+source: "https://github.com/Choihello/startup-law-mcp"
 stars: 0
-language: Python
-last_updated: '2026-07-14T10:06:24Z'
-discovered_at: '2026-07-14T10:08:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T10:06:24Z"
+discovered_at: "2026-07-14T10:08:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

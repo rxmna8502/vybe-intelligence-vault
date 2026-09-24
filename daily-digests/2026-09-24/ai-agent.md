@@ -1,59 +1,49 @@
 ---
-title: mifdlaldev/AI-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Markdown
-- Vite
-- Bun
-- Vercel
-quality_score: 6
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent workflows
-- self-organizing systems
-- knowledge management
-- automation scripts
-- historical reference
-source: https://github.com/mifdlaldev/AI-Agent
+title: "ry4ever/ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "x402 Payment Protocol", "USDC (Base L2)", "Node.js"]
+quality_score: 8
+rag_relevance: 9
+deployment_complexity: "Low"
+tags: ["MCP server", "pay-per-call", "AI agent tools", "micropayments", "USDC on Base"]
+source: "https://github.com/ry4ever/ai-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-05T13:58:42Z'
-discovered_at: '2026-08-05T14:07:02Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T17:30:51Z"
+discovered_at: "2026-08-08T17:33:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A historical reference repository containing 27 markdown workflows and 4 Python automation scripts designed to power a self-organizing AI agent for the Antigravity platform. It includes structured knowledge management, self-organization rituals, and planning toolkits for long-running agent operations.
+This repository provides an MCP server that exposes AiScale Agent Services as tools for AI agents, enabling real-world tasks like research, contract analysis, and code review with pay-per-request micropayments via x402 in USDC on Base L2. It integrates seamlessly with MCP-compatible clients like Claude, Cursor, and VS Code.
 
 ## Key Features
-- 27 structured markdown workflows for AI agent operations
-- 4 Python scripts for workspace health and failure analysis
-- Persistent knowledge base with Topics, Plans, Findings, and Knowledge entries
-- Self-organization rituals (session wake-up, self-audit, failure logging)
-- Planning toolbox including RACI matrices, risk registers, and charters
+- Exposes AiScale Agent Services as MCP tools for AI agents
+- Pay-per-request pricing via x402 micropayments in USDC on Base L2
+- Supports deep research, contract analysis, code review, and data enrichment
+- No API keys or subscriptions required; uses wallet-based authentication
+- Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients
 
 ## Why It Matters for RAG Builders
-It provides a historical blueprint for designing self-organizing AI agents with structured workflows and automation tooling, valuable for understanding agent architecture patterns.
+It enables AI agents to perform real-world tasks with transparent, pay-per-use pricing, reducing reliance on centralized APIs and subscriptions.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vite
-Automated review identified **Vite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### x402 Payment Protocol
+Automated review identified **x402 Payment Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bun
-Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### USDC (Base L2)
+Automated review identified **USDC (Base L2)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vercel
-Automated review identified **Vercel** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

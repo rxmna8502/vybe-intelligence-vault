@@ -1,30 +1,19 @@
 ---
-title: LiveBigOrange/mcp_images
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- JSON-RPC
-- VLM APIs (Ollama, vLLM, DashScope, OpenAI)
-- Makefile
-- GitHub Actions
+title: "LiveBigOrange/mcp_images"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "JSON-RPC", "VLM APIs (Ollama, vLLM, DashScope, OpenAI)", "Makefile", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- image analysis
-- VLM integration
-- clipboard processing
-- Base64 image handling
-source: https://github.com/LiveBigOrange/mcp_images
+deployment_complexity: "Low"
+tags: ["MCP server", "image analysis", "VLM integration", "clipboard processing", "Base64 image handling"]
+source: "https://github.com/LiveBigOrange/mcp_images"
 stars: 1
-language: Go
-last_updated: '2026-07-17T02:44:49Z'
-discovered_at: '2026-07-17T02:52:15Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-17T02:44:49Z"
+discovered_at: "2026-07-17T02:52:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

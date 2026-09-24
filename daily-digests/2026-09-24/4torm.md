@@ -1,33 +1,19 @@
 ---
-title: ccde141/4torm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- React 19
-- TypeScript
-- Vite
-- Fastify 5
-- Electron
-- XY Flow
-- Server-Sent Events
-- Model Context Protocol (MCP)
-- Node.js
+title: "ccde141/4torm"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["React 19", "TypeScript", "Vite", "Fastify 5", "Electron", "XY Flow", "Server-Sent Events", "Model Context Protocol (MCP)", "Node.js"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent collaboration
-- agent persistence
-- workflow automation
-- MCP integration
-- AI teamwork
-source: https://github.com/ccde141/4torm
+deployment_complexity: "Medium"
+tags: ["multi-agent collaboration", "agent persistence", "workflow automation", "MCP integration", "AI teamwork"]
+source: "https://github.com/ccde141/4torm"
 stars: 4
-language: TypeScript
-last_updated: '2026-09-03T08:26:24Z'
-discovered_at: '2026-09-03T08:32:44Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T08:26:24Z"
+discovered_at: "2026-09-03T08:32:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: josbeir/cakephp-synapse
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- PHP
-- CakePHP
-- Model Context Protocol (MCP)
-- SQLite
-- Composer
+title: "josbeir/cakephp-synapse"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PHP", "CakePHP", "Model Context Protocol (MCP)", "SQLite", "Composer"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP Server
-- CakePHP Plugin
-- AI Integration
-- Development Tools
-- Code Execution
-source: https://github.com/josbeir/cakephp-synapse
+deployment_complexity: "Medium"
+tags: ["MCP Server", "CakePHP Plugin", "AI Integration", "Development Tools", "Code Execution"]
+source: "https://github.com/josbeir/cakephp-synapse"
 stars: 8
-language: PHP
-last_updated: '2026-08-08T09:30:34Z'
-discovered_at: '2026-08-08T09:41:14Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-08-08T09:30:34Z"
+discovered_at: "2026-08-08T09:41:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

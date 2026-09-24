@@ -1,34 +1,19 @@
 ---
-title: omnicus/opencode2-mobile
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Expo
-- React Native
-- Node.js
-- pnpm
-- EAS (Expo Application Services)
-- Firebase Cloud Messaging (FCM)
-- Apple Push Notification Service (APNs)
-- Tailscale
-- SecureStore
+title: "omnicus/opencode2-mobile"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Expo", "React Native", "Node.js", "pnpm", "EAS (Expo Application Services)", "Firebase Cloud Messaging (FCM)", "Apple Push Notification Service (APNs)", "Tailscale", "SecureStore"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- mobile client
-- agent workflows
-- self-hosted
-- push notifications
-- Expo SDK
-source: https://github.com/omnicus/opencode2-mobile
+deployment_complexity: "Medium"
+tags: ["mobile client", "agent workflows", "self-hosted", "push notifications", "Expo SDK"]
+source: "https://github.com/omnicus/opencode2-mobile"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T22:08:05Z'
-discovered_at: '2026-09-01T22:18:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T22:08:05Z"
+discovered_at: "2026-09-01T22:18:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

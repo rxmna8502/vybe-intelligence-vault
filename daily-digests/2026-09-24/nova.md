@@ -1,71 +1,61 @@
 ---
-title: hencter/Nova
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Obsidian
-- OpenCode / Crush
-- Git
-- Markdown
-- Zettelkasten
-- OKF v0.1
-- JavaScript/Node.js
-- Multi-agent Systems
-quality_score: 8
+title: "bigduu/Nova"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "ScreenCaptureKit", "CoreGraphics", "Accessibility APIs", "Apple Vision (OCR)", "Cargo", "Homebrew", "Streamable HTTP"]
+quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- knowledge management
-- self-bootstrapping
-- AI agents
-- personal vault
-- automated maintenance
-source: https://github.com/hencter/Nova
-stars: 0
-language: None
-last_updated: '2026-07-13T02:31:56Z'
-discovered_at: '2026-07-13T02:34:14Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["MCP server", "macOS automation", "computer use", "LLM agent", "Rust"]
+source: "https://github.com/bigduu/Nova"
+stars: 1
+language: "Rust"
+last_updated: "2026-07-11T14:46:04Z"
+discovered_at: "2026-07-11T14:51:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Nova is a self-bootstrapping personal knowledge vault maintained by AI agents. It automates knowledge ingestion, cross-linking, health checks, and Git commits, allowing users to focus on conversational interaction while the system evolves autonomously.
+Nova is a Model Context Protocol (MCP) server implemented in Rust that enables LLM agents to control a macOS desktop. It provides native access to screenshots, mouse/keyboard input, OCR, clipboard, and window/app introspection via Apple's ScreenCaptureKit, CoreGraphics, and Accessibility APIs.
 
 ## Key Features
-- AI-driven knowledge ingestion and cross-linking with minimal user input
-- Automated Git commits and version control integration
-- Multi-agent collaboration for maintenance and evolution
-- Personalized identity and customization via structured prompts
-- Supports both human navigation (Obsidian) and AI consumption (Markdown)
+- Native macOS desktop control via ScreenCaptureKit and CoreGraphics
+- Set-of-Mark targeting for precise UI element interaction
+- On-device OCR using Apple Vision for text recognition
+- MCP-compliant stdio and HTTP transport for agent integration
+- Clipboard, window/app introspection, and accessibility-driven input
 
 ## Why It Matters for RAG Builders
-Nova provides a fully automated, self-sustaining knowledge management system that reduces manual effort for RAG builders while ensuring high-quality, cross-linked content generation and maintenance.
+Nova enables LLM agents to autonomously interact with macOS desktops, bridging the gap between AI reasoning and real-world computer use for tasks like automation, testing, and UI interaction.
 
 ## Tech Stack Deep Dive
-### Obsidian
-Automated review identified **Obsidian** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenCode / Crush
-Automated review identified **OpenCode / Crush** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ScreenCaptureKit
+Automated review identified **ScreenCaptureKit** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CoreGraphics
+Automated review identified **CoreGraphics** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Zettelkasten
-Automated review identified **Zettelkasten** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Accessibility APIs
+Automated review identified **Accessibility APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OKF v0.1
-Automated review identified **OKF v0.1** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Apple Vision (OCR)
+Automated review identified **Apple Vision (OCR)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JavaScript/Node.js
-Automated review identified **JavaScript/Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Cargo
+Automated review identified **Cargo** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Multi-agent Systems
-Automated review identified **Multi-agent Systems** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Homebrew
+Automated review identified **Homebrew** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Streamable HTTP
+Automated review identified **Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

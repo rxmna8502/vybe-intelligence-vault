@@ -1,29 +1,19 @@
 ---
-title: teknium1/hermes-starter-profile
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Hermes Agent
-- YAML
-- CLI
-- Shell Scripting
+title: "teknium1/hermes-starter-profile"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Hermes Agent", "YAML", "CLI", "Shell Scripting"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- agent-profiles
-- beginner-friendly
-- hermes-agent
-- simplified-setup
-- RAG-optimized
-source: https://github.com/teknium1/hermes-starter-profile
+deployment_complexity: "Low"
+tags: ["agent-profiles", "beginner-friendly", "hermes-agent", "simplified-setup", "RAG-optimized"]
+source: "https://github.com/teknium1/hermes-starter-profile"
 stars: 2
-language: Python
-last_updated: '2026-08-09T01:32:06Z'
-discovered_at: '2026-08-09T01:33:09Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T01:32:06Z"
+discovered_at: "2026-08-09T01:33:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

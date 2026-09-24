@@ -1,35 +1,19 @@
 ---
-title: sriman676/Vishu
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- React
-- Tauri
-- Ollama
-- Whisper.cpp
-- Piper TTS
-- SQLite
-- Moondream (vision)
-- Composio (MCP connectors)
-- OWASP (security scanning)
+title: "sriman676/Vishu"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "React", "Tauri", "Ollama", "Whisper.cpp", "Piper TTS", "SQLite", "Moondream (vision)", "Composio (MCP connectors)", "OWASP (security scanning)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- local-first
-- multi-provider
-- MCP gateway
-- rate limit mitigation
-- secure agent
-source: https://github.com/sriman676/Vishu
+deployment_complexity: "Medium"
+tags: ["local-first", "multi-provider", "MCP gateway", "rate limit mitigation", "secure agent"]
+source: "https://github.com/sriman676/Vishu"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-05T11:17:01Z'
-discovered_at: '2026-08-05T11:22:14Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T11:17:01Z"
+discovered_at: "2026-08-05T11:22:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: cdxiaodong/cain-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Claude Agent SDK
-- LLM (Large Language Model)
-- State Machine
-- Cloud APIs (AWS, Azure, GCP, Aliyun, Tencent, Huawei)
-- Workspace External Memory
+title: "cdxiaodong/cain-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Agent SDK", "LLM (Large Language Model)", "State Machine", "Cloud APIs (AWS, Azure, GCP, Aliyun, Tencent, Huawei)", "Workspace External Memory"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- penetration testing
-- AI agent
-- cloud security
-- automated assessment
-- ethical hacking
-source: https://github.com/cdxiaodong/cain-agent
+deployment_complexity: "Medium"
+tags: ["penetration testing", "AI agent", "cloud security", "automated assessment", "ethical hacking"]
+source: "https://github.com/cdxiaodong/cain-agent"
 stars: 31
-language: Python
-last_updated: '2026-08-05T02:05:30Z'
-discovered_at: '2026-08-05T02:17:09Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T02:05:30Z"
+discovered_at: "2026-08-05T02:17:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

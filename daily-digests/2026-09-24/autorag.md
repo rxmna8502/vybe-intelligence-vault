@@ -1,32 +1,19 @@
 ---
-title: Marker-Inc-Korea/AutoRAG
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Pi Agent Framework
-- BM25
-- MinSync (vector search)
-- Jikji (discovery/indexing)
-- Rust (for Jikji binary)
-- Node.js
-- REST APIs (Slack, Discord, Notion, etc.)
+title: "Marker-Inc-Korea/AutoRAG"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Pi Agent Framework", "BM25", "MinSync (vector search)", "Jikji (discovery/indexing)", "Rust (for Jikji binary)", "Node.js", "REST APIs (Slack, Discord, Notion, etc.)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG optimization
-- document curation
-- self-evolving agent
-- multi-modal retrieval
-- datasource integration
-source: https://github.com/Marker-Inc-Korea/AutoRAG
+deployment_complexity: "Medium"
+tags: ["RAG optimization", "document curation", "self-evolving agent", "multi-modal retrieval", "datasource integration"]
+source: "https://github.com/Marker-Inc-Korea/AutoRAG"
 stars: 4961
-language: TypeScript
-last_updated: '2026-08-01T03:36:13Z'
-discovered_at: '2026-08-01T03:44:28Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T03:36:13Z"
+discovered_at: "2026-08-01T03:44:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

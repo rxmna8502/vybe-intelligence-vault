@@ -1,30 +1,19 @@
 ---
-title: piporyx/doc-qa-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Sentence-Transformers
-- OpenAI API
-- Ollama
-- Gradio
-- PDF/DOCX Parsing
+title: "piporyx/doc-qa-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Sentence-Transformers", "OpenAI API", "Ollama", "Gradio", "PDF/DOCX Parsing"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- document Q&A
-- RAG
-- LLM integration
-- embedding retrieval
-- chatbot
-source: https://github.com/piporyx/doc-qa-agent
+deployment_complexity: "Low"
+tags: ["document Q&A", "RAG", "LLM integration", "embedding retrieval", "chatbot"]
+source: "https://github.com/piporyx/doc-qa-agent"
 stars: 1
-language: Python
-last_updated: '2026-08-09T12:42:21Z'
-discovered_at: '2026-08-09T12:50:16Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T12:42:21Z"
+discovered_at: "2026-08-09T12:50:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: roccoangelella/PiLink
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- OAuth 2.0
-- JWT
-- Cloudflare Quick Tunnel
-- Caddy
-- Streamable HTTP
-- SSE (Server-Sent Events)
+title: "roccoangelella/PiLink"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "OAuth 2.0", "JWT", "Cloudflare Quick Tunnel", "Caddy", "Streamable HTTP", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- OAuth security
-- remote coding agent
-- local development
-- streamable HTTP
-source: https://github.com/roccoangelella/PiLink
+deployment_complexity: "Medium"
+tags: ["MCP server", "OAuth security", "remote coding agent", "local development", "streamable HTTP"]
+source: "https://github.com/roccoangelella/PiLink"
 stars: 7
-language: TypeScript
-last_updated: '2026-08-01T15:55:09Z'
-discovered_at: '2026-08-01T16:07:04Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T15:55:09Z"
+discovered_at: "2026-08-01T16:07:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

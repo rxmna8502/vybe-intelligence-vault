@@ -1,59 +1,49 @@
 ---
-title: ptolemaic-programmemusic151/claude-code-book
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Windows Desktop App
-- Markdown
-- JSON
-- Tkinter (assumed GUI framework)
-quality_score: 6
-rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Claude Code
-- context management
-- local processing
-- Windows tool
-- documentation
-source: https://github.com/ptolemaic-programmemusic151/claude-code-book
+title: "Corryrevokable963/claude-code-book"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Chinese Documentation", "Markdown", "PDF", "EPUB", "HTML"]
+quality_score: 5
+rag_relevance: 6
+deployment_complexity: "Low"
+tags: ["agent harness", "Claude Code", "AI architecture", "Chinese documentation", "educational resource"]
+source: "https://github.com/Corryrevokable963/claude-code-book"
 stars: 0
-language: None
-last_updated: '2026-07-10T20:20:01Z'
-discovered_at: '2026-07-10T20:22:05Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-10T20:19:57Z"
+discovered_at: "2026-07-10T20:22:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-claude-code-book is a Windows desktop application that converts Claude Code output into structured books and AI-ready context files for development work. It simplifies saving, organizing, and reusing Claude Code content locally on Windows systems.
+A Chinese educational book that dissects the architecture of Claude Code and AI agent harnesses, focusing on runtime, tool integration, and control flow for developers building agent systems.
 
 ## Key Features
-- Converts raw Claude Code output into structured books or context files
-- Supports multiple output formats (Markdown, plain text, JSON)
-- Local Windows application for privacy and offline use
-- Simplifies organization and reuse of development notes
-- Lightweight with minimal system requirements
+- Detailed breakdown of AI agent harness architecture
+- Explains Claude Code's conversation loop and tool integration
+- Covers MCP (Model Context Protocol) and external tool connections
+- Provides step-by-step guidance for building custom agent harnesses
+- Structured as a 15-chapter book for progressive learning
 
 ## Why It Matters for RAG Builders
-It provides a structured way to transform and reuse Claude Code outputs, making it easier to build AI-ready context files for future RAG applications.
+It provides foundational knowledge for AI engineers to understand and build agent harnesses, critical for RAG and agent system development.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Windows Desktop App
-Automated review identified **Windows Desktop App** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Chinese Documentation
+Automated review identified **Chinese Documentation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Markdown
 Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PDF
+Automated review identified **PDF** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tkinter (assumed GUI framework)
-Automated review identified **Tkinter (assumed GUI framework)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### EPUB
+Automated review identified **EPUB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HTML
+Automated review identified **HTML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

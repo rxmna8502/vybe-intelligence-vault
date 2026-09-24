@@ -1,48 +1,33 @@
 ---
-title: antojunimaia-ui/Koda
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Electron
-- React
-- TypeScript
-- node-pty
-- xterm.js
-- Model Context Protocol (MCP)
-- Operantid.js
-- Webview
-- Git
-- LSP (TypeScript Language Server)
+title: "Gr0x01/koda"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "React", "TypeScript", "Tailwind CSS", "Monaco Editor", "xterm.js", "node-pty", "Claude CLI", "ChatGPT CLI"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent
-- local development
-- code editing
-- multi-workspace
-- terminal integration
-source: https://github.com/antojunimaia-ui/Koda
-stars: 31
-language: TypeScript
-last_updated: '2026-08-05T22:10:14Z'
-discovered_at: '2026-08-05T22:14:58Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 7
+deployment_complexity: "Medium"
+tags: ["AI coding agent", "local-first", "subscription-based", "guardrails", "desktop development"]
+source: "https://github.com/Gr0x01/koda"
+stars: 1
+language: "TypeScript"
+last_updated: "2026-09-03T08:26:19Z"
+discovered_at: "2026-09-03T08:33:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Koda is an open-source Agent Development Environment (ADE) designed for AI-assisted software engineering, enabling autonomous codebase interaction, file editing, and task execution within a local environment. It provides a modern UI, multi-workspace support, and advanced features like snapshots, rollback, and real-time terminal integration.
+Koda is a guardrailed desktop coding agent for macOS that leverages existing Claude or ChatGPT subscriptions to build applications and documents locally. It provides real-time usage tracking, step-by-step oversight, and deterministic undo history to ensure safe and efficient AI-driven development.
 
 ## Key Features
-- Autonomous pair-programming with direct file editing and codebase understanding
-- Multi-workspace support with full isolation for independent agent sessions
-- Real-time terminal integration via native PTY and xterm.js
-- Snapshot and rollback functionality for state recovery
-- Built-in browser automation and web navigation agent
+- Runs on existing Claude/ChatGPT subscriptions with usage tracking to avoid surprises
+- Step-by-step oversight with adjustable automation levels for file changes and actions
+- Deterministic undo history that preserves project state before each change
+- Pre-configured guidelines, skills, and specialists for immediate productivity
+- Local-first architecture with optional cloud sync/backup for extended functionality
 
 ## Why It Matters for RAG Builders
-Koda provides a robust local environment for AI agents to interact with codebases, enabling autonomous development workflows without cloud dependencies or IDE extensions.
+Koda enables AI-driven development while respecting subscription limits and providing local control, making it ideal for developers seeking a balance between automation and oversight.
 
 ## Tech Stack Deep Dive
 ### Electron
@@ -54,26 +39,23 @@ Automated review identified **React** as a key module contributing to infrastruc
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### node-pty
-Automated review identified **node-pty** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tailwind CSS
+Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Monaco Editor
+Automated review identified **Monaco Editor** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### xterm.js
 Automated review identified **xterm.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### node-pty
+Automated review identified **node-pty** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Operantid.js
-Automated review identified **Operantid.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude CLI
+Automated review identified **Claude CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Webview
-Automated review identified **Webview** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### LSP (TypeScript Language Server)
-Automated review identified **LSP (TypeScript Language Server)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ChatGPT CLI
+Automated review identified **ChatGPT CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

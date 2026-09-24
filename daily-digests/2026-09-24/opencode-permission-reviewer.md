@@ -1,29 +1,19 @@
 ---
-title: warc0s/opencode-permission-reviewer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Bun
-- OpenCode
-- AI Model Integration
-- JSON Schema Validation
+title: "warc0s/opencode-permission-reviewer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "OpenCode", "AI Model Integration", "JSON Schema Validation"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI permission control
-- policy enforcement
-- automated review
-- OpenCode plugin
-- safety tooling
-source: https://github.com/warc0s/opencode-permission-reviewer
+deployment_complexity: "Medium"
+tags: ["AI permission control", "policy enforcement", "automated review", "OpenCode plugin", "safety tooling"]
+source: "https://github.com/warc0s/opencode-permission-reviewer"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-07T13:01:54Z'
-discovered_at: '2026-08-07T13:02:27Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T13:01:54Z"
+discovered_at: "2026-08-07T13:02:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: echennells/sparkbtcbot
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Node.js
-- BIP39
-- Bitcoin Layer 2 (Spark)
-- Lightning Network
-- Scrypt
-- AES-256-GCM
-- BOLT11
-- npm
+title: "echennells/sparkbtcbot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "BIP39", "Bitcoin Layer 2 (Spark)", "Lightning Network", "Scrypt", "AES-256-GCM", "BOLT11", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Bitcoin wallet
-- AI agent integration
-- Layer 2 payments
-- self-custody
-- Lightning Network
-source: https://github.com/echennells/sparkbtcbot
+deployment_complexity: "Medium"
+tags: ["Bitcoin wallet", "AI agent integration", "Layer 2 payments", "self-custody", "Lightning Network"]
+source: "https://github.com/echennells/sparkbtcbot"
 stars: 4
-language: JavaScript
-last_updated: '2026-08-04T22:54:05Z'
-discovered_at: '2026-08-04T23:04:28Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-04T22:54:05Z"
+discovered_at: "2026-08-04T23:04:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

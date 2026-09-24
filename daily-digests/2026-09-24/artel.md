@@ -1,34 +1,19 @@
 ---
-title: NicolasPrimeau/artel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- SQLite
-- FastAPI
-- MCP (Model Context Protocol)
-- mDNS
-- Docker
-- REST API
-- CRDTs
-- Semantic Search
-- Pre-commit Hooks
+title: "NicolasPrimeau/artel"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "FastAPI", "MCP (Model Context Protocol)", "mDNS", "Docker", "REST API", "CRDTs", "Semantic Search", "Pre-commit Hooks"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- agent coordination
-- shared memory
-- semantic search
-- multi-agent systems
-- self-hosted
-source: https://github.com/NicolasPrimeau/artel
+deployment_complexity: "Medium"
+tags: ["agent coordination", "shared memory", "semantic search", "multi-agent systems", "self-hosted"]
+source: "https://github.com/NicolasPrimeau/artel"
 stars: 6
-language: Python
-last_updated: '2026-07-11T02:22:30Z'
-discovered_at: '2026-07-11T02:27:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T02:22:30Z"
+discovered_at: "2026-07-11T02:27:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

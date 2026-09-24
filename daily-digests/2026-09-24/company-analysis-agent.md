@@ -1,38 +1,19 @@
 ---
-title: NvidiaSeoul/company-analysis-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- LangGraph
-- LangChain
-- OpenAI
-- Ollama
-- yfinance
-- Tavily
-- BGE CrossEncoder
-- DART corp registry
-- Playwright
-- trafilatura
-- python-docx
-- networkx
-- matplotlib
+title: "NvidiaSeoul/company-analysis-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "LangChain", "OpenAI", "Ollama", "yfinance", "Tavily", "BGE CrossEncoder", "DART corp registry", "Playwright", "trafilatura", "python-docx", "networkx", "matplotlib"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- LangGraph
-- company analysis
-- news reranking
-- LLM agent
-- automated reporting
-source: https://github.com/NvidiaSeoul/company-analysis-agent
+deployment_complexity: "Medium"
+tags: ["LangGraph", "company analysis", "news reranking", "LLM agent", "automated reporting"]
+source: "https://github.com/NvidiaSeoul/company-analysis-agent"
 stars: 0
-language: Python
-last_updated: '2026-08-05T05:42:56Z'
-discovered_at: '2026-08-05T05:47:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T05:42:56Z"
+discovered_at: "2026-08-05T05:47:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

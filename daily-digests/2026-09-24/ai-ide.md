@@ -1,32 +1,19 @@
 ---
-title: daffadevhosting/ai-ide
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Cloudflare Workers
-- Workers AI
-- TypeScript
-- Monaco Editor
-- GitHub OAuth
-- SSE (Server-Sent Events)
-- Tailwind CSS (implied by styling references)
-- Wrangler CLI
+title: "daffadevhosting/ai-ide"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Cloudflare Workers", "Workers AI", "TypeScript", "Monaco Editor", "GitHub OAuth", "SSE (Server-Sent Events)", "Tailwind CSS (implied by styling references)", "Wrangler CLI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI IDE
-- Cloudflare Workers
-- Monaco Editor
-- GitHub Integration
-- Streaming AI
-source: https://github.com/daffadevhosting/ai-ide
+deployment_complexity: "Medium"
+tags: ["AI IDE", "Cloudflare Workers", "Monaco Editor", "GitHub Integration", "Streaming AI"]
+source: "https://github.com/daffadevhosting/ai-ide"
 stars: 0
-language: CSS
-last_updated: '2026-09-01T19:06:54Z'
-discovered_at: '2026-09-01T19:07:02Z'
-evaluated_by: mistral-small-latest
+language: "CSS"
+last_updated: "2026-09-01T19:06:54Z"
+discovered_at: "2026-09-01T19:07:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

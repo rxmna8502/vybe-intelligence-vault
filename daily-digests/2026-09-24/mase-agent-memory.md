@@ -1,33 +1,19 @@
 ---
-title: zbl1998-sdjn/MASE-agent-memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- SQLite
-- FTS5
-- Markdown
-- Ollama
-- LLM (qwen2.5:7b)
-- FastAPI
-- Pydantic
-- Pytest
+title: "zbl1998-sdjn/MASE-agent-memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "FTS5", "Markdown", "Ollama", "LLM (qwen2.5:7b)", "FastAPI", "Pydantic", "Pytest"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- memory governance
-- agent memory
-- fact verification
-- long-context LLM
-- auditable AI
-source: https://github.com/zbl1998-sdjn/MASE-agent-memory
+deployment_complexity: "Medium"
+tags: ["memory governance", "agent memory", "fact verification", "long-context LLM", "auditable AI"]
+source: "https://github.com/zbl1998-sdjn/MASE-agent-memory"
 stars: 0
-language: Python
-last_updated: '2026-07-10T23:02:06Z'
-discovered_at: '2026-07-10T23:08:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-10T23:02:06Z"
+discovered_at: "2026-07-10T23:08:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

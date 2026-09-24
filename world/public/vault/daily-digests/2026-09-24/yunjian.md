@@ -1,34 +1,19 @@
 ---
-title: sunerpy/yunjian
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Rust
-- SQLite
-- FTS5 (Full-Text Search)
-- Tracing (logging)
-- Cargo (workspace management)
-- Tauri (desktop UI, planned)
-- React (desktop UI, planned)
-- FSRS (spaced repetition, planned)
-- MCP (Model Context Protocol)
-- ONNX Runtime (voice features, optional)
+title: "sunerpy/yunjian"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "SQLite", "FTS5 (Full-Text Search)", "Tracing (logging)", "Cargo (workspace management)", "Tauri (desktop UI, planned)", "React (desktop UI, planned)", "FSRS (spaced repetition, planned)", "MCP (Model Context Protocol)", "ONNX Runtime (voice features, optional)"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- offline poetry database
-- AI appreciation
-- MCP server
-- classical Chinese literature
-- copyright-safe corpus
-source: https://github.com/sunerpy/yunjian
+deployment_complexity: "Medium"
+tags: ["offline poetry database", "AI appreciation", "MCP server", "classical Chinese literature", "copyright-safe corpus"]
+source: "https://github.com/sunerpy/yunjian"
 stars: 0
-language: Rust
-last_updated: '2026-08-10T13:03:30Z'
-discovered_at: '2026-08-10T13:09:06Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-10T13:03:30Z"
+discovered_at: "2026-08-10T13:09:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

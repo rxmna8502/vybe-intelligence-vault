@@ -1,59 +1,49 @@
 ---
-title: tugcantopaloglu/godot-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Godot Engine
-- GDScript
-- Model Context Protocol (MCP)
-- TCP/IP
-quality_score: 9
+title: "siadialiga/godot-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["GDScript", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "Godot Engine"]
+quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- Godot automation
-- AI-driven game development
-- runtime scene manipulation
-- game engine control
-source: https://github.com/tugcantopaloglu/godot-mcp
-stars: 320
-language: JavaScript
-last_updated: '2026-07-10T13:03:25Z'
-discovered_at: '2026-07-10T13:12:25Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["AI-driven game development", "Godot integration", "MCP server", "editor automation", "game engine tooling"]
+source: "https://github.com/siadialiga/godot-mcp"
+stars: 0
+language: "GDScript"
+last_updated: "2026-09-03T21:57:01Z"
+discovered_at: "2026-09-03T22:11:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Model Context Protocol (MCP) server that provides AI assistants with full control over the Godot game engine, offering 155 tools for runtime manipulation, scene management, networking, UI controls, and advanced game development features.
+A local MCP server and Godot editor plugin that enables AI agents to interact with Godot projects, scenes, nodes, properties, and scripts through editor APIs. Facilitates AI-driven game development workflows within the Godot engine.
 
 ## Key Features
-- 155 tools for full Godot engine control including 3D/2D rendering, physics, UI, networking, and audio
-- Runtime code execution and node inspection with full property/method access
-- Headless scene and project file operations for CI/CD integration
-- Advanced debugging, logging, and performance monitoring tools
-- Supports dynamic scene instantiation, signal management, and animation control
+- Enables AI agents to read and modify Godot project state (scenes, nodes, properties, scripts)
+- Supports dynamic scene creation, asset import, and procedural texture generation
+- Provides live ClassDB inspection for API exploration without guessing
+- Includes safety controls for file operations and external asset access
+- Integrates with MCP for standardized AI-agent communication
 
 ## Why It Matters for RAG Builders
-It enables AI agents to autonomously develop, test, and modify Godot game projects in real-time, bridging the gap between AI decision-making and game engine execution.
+It bridges AI agents with Godot's editor APIs, enabling autonomous game development workflows and real-time project manipulation.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Godot Engine
-Automated review identified **Godot Engine** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### GDScript
 Automated review identified **GDScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TCP/IP
-Automated review identified **TCP/IP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Godot Engine
+Automated review identified **Godot Engine** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

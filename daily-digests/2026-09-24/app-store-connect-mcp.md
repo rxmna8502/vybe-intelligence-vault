@@ -1,44 +1,33 @@
 ---
-title: erayendes/app-store-connect-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- OpenAPI
-- Jest
-- GitHub Actions
+title: "devinwang/app-store-connect-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OpenAPI", "JWT", "REST API", "npm"]
 quality_score: 9
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- App Store Connect
-- MCP Server
-- API Integration
-- AI Automation
-- StoreKit 2
-source: https://github.com/erayendes/app-store-connect-mcp
-stars: 44
-language: TypeScript
-last_updated: '2026-08-02T20:53:33Z'
-discovered_at: '2026-08-02T20:54:49Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "Low"
+tags: ["MCP server", "App Store Connect", "Apple Developer API", "TestFlight", "Xcode Cloud"]
+source: "https://github.com/devinwang/app-store-connect-mcp"
+stars: 1
+language: "TypeScript"
+last_updated: "2026-08-02T22:55:50Z"
+discovered_at: "2026-08-02T22:56:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Heimdall is an MCP server that provides full access to the Apple App Store Connect API and App Store Server API (StoreKit 2), enabling AI clients to manage app metadata, reviews, subscriptions, TestFlight, and more with 982 generated operations across 17 domains.
+A Model Context Protocol (MCP) server providing 1221 tools for full coverage of Apple's App Store Connect API, including TestFlight, Xcode Cloud, Game Center, in-app purchases, and analytics. Enables AI assistants to interact with Apple's developer ecosystem via standardized MCP tools.
 
 ## Key Features
-- Full access to 982 App Store Connect operations via Apple's OpenAPI spec, not a curated subset
-- AI-native tools for review triage, daily briefings, and draft responses using client-side models
-- Confirm-before-write safety for all mutating operations with optional `--read-only` mode
-- 13 purpose-built profiles for granular tool loading, reducing token overhead
-- Client-agnostic MCP server compatible with Claude, Codex, Cursor, and other MCP clients
+- 1221 MCP tools covering 100% of Apple's App Store Connect API (v4.3), including TestFlight, Xcode Cloud, and Game Center
+- Auto-generated tools from Apple's official OpenAPI spec with 100% coverage of non-deprecated operations
+- Multi-account management with local registry and per-project pinning via environment variables
+- Hand-written helpers for complex workflows like asset uploads, report downloads, and polling operations
+- Strict credential safety with no .p8 content in repo and secure key management
 
 ## Why It Matters for RAG Builders
-It enables AI agents to directly interact with and automate complex App Store Connect workflows, reducing manual effort and integrating seamlessly into existing AI-driven development pipelines.
+It provides AI assistants with direct, standardized access to Apple's App Store Connect API, enabling automation for app submissions, TestFlight management, analytics, and more.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -47,17 +36,20 @@ Automated review identified **TypeScript** as a key module contributing to infra
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### OpenAPI
 Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Jest
-Automated review identified **Jest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JWT
+Automated review identified **JWT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GitHub Actions
-Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

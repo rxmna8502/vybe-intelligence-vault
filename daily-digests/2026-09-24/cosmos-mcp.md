@@ -1,71 +1,52 @@
 ---
-title: teampolarity/cosmos-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- SQLite
-- OAuth
-- CLI
-- Swift (for macOS daemon app)
-- REST API
+title: "jhlee-young/cosmos-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "Cosmos SDK", "gRPC", "REST/LCD", "CometBFT RPC"]
 quality_score: 9
-rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- personal knowledge graph
-- MCP server
-- data synchronization
-- RAG optimization
-- agent orchestration
-source: https://github.com/teampolarity/cosmos-mcp
-stars: 3
-language: TypeScript
-last_updated: '2026-07-18T16:53:40Z'
-discovered_at: '2026-07-18T16:56:32Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["Cosmos SDK", "MCP Server", "Blockchain Query", "RAG Integration", "Read-Only"]
+source: "https://github.com/jhlee-young/cosmos-mcp"
+stars: 0
+language: "Go"
+last_updated: "2026-08-01T13:09:34Z"
+discovered_at: "2026-08-01T13:16:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-cosmos-mcp is an MCP server that enables AI agents to interact with a personal knowledge graph, allowing users to centralize and own their data across multiple AI tools. It synchronizes data from sources like iMessage, Claude Desktop, shell history, and Notion into a unified graph for RAG and agentic workflows.
+A read-only Model Context Protocol (MCP) server for Cosmos SDK chains that exposes RPC, gRPC, and LCD endpoints as tools for querying blockchain data. Designed to integrate with Hermes Agent for AI-driven tool discovery and execution.
 
 ## Key Features
-- Centralized personal knowledge graph for AI agents to share and build upon
-- Supports incremental sync from multiple sources (iMessage, Claude Desktop, shell history, Notion, Obsidian)
-- Provides 11 MCP tools for reading and writing to the graph (e.g., `polarity_ask`, `polarity_observe`, `polarity_export`)
-- Background sync daemon for macOS with Full Disk Access integration
-- Portable `.polarity` file ownership and user-controlled data integration
+- Read-only MCP server for Cosmos SDK chains with stdio transport
+- Supports RPC, gRPC, and LCD endpoints with capability-based tool discovery
+- Strict read-only enforcement via allowlists and query-service validation
+- Dynamic gRPC calls through server reflection with timeouts and size limits
+- Single binaries, container images, and environment variable configuration
 
 ## Why It Matters for RAG Builders
-It enables RAG builders to create unified, user-owned knowledge graphs that AI agents can leverage for context-aware and consistent interactions across tools.
+Enables AI agents to securely query Cosmos SDK chains via standardized MCP tools, enhancing RAG pipelines with real-time blockchain data.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Cosmos SDK
+Automated review identified **Cosmos SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### gRPC
+Automated review identified **gRPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OAuth
-Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST/LCD
+Automated review identified **REST/LCD** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Swift (for macOS daemon app)
-Automated review identified **Swift (for macOS daemon app)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CometBFT RPC
+Automated review identified **CometBFT RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,29 +1,19 @@
 ---
-title: GilJames/codexCLI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Command-line Interface (CLI)
-- Model Context Protocol (MCP)
-- PowerShell
+title: "GilJames/codexCLI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Command-line Interface (CLI)", "Model Context Protocol (MCP)", "PowerShell"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- CLI
-- data storage
-- shell integration
-- MCP server
-- productivity
-source: https://github.com/GilJames/codexCLI
+deployment_complexity: "Low"
+tags: ["CLI", "data storage", "shell integration", "MCP server", "productivity"]
+source: "https://github.com/GilJames/codexCLI"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-12T23:46:49Z'
-discovered_at: '2026-07-12T23:52:18Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T23:46:49Z"
+discovered_at: "2026-07-12T23:52:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

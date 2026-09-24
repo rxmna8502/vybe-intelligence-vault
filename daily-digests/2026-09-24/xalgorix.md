@@ -1,39 +1,19 @@
 ---
-title: xalgorix/xalgorix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- TypeScript
-- LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)
-- Docker
-- WebSockets
-- PDF Generation
-- Nmap
-- Nuclei
-- Httpx
-- Subfinder
-- Katana
-- FFUF
-- Gobuster
-- SQLMap
-- Masscan
+title: "xalgorix/xalgorix"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "TypeScript", "LLM APIs (OpenAI, Anthropic, DeepSeek, etc.)", "Docker", "WebSockets", "PDF Generation", "Nmap", "Nuclei", "Httpx", "Subfinder", "Katana", "FFUF", "Gobuster", "SQLMap", "Masscan"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- penetration testing
-- autonomous AI agent
-- vulnerability verification
-- self-hosted
-- security automation
-source: https://github.com/xalgorix/xalgorix
+deployment_complexity: "Medium"
+tags: ["penetration testing", "autonomous AI agent", "vulnerability verification", "self-hosted", "security automation"]
+source: "https://github.com/xalgorix/xalgorix"
 stars: 847
-language: Go
-last_updated: '2026-08-09T21:31:37Z'
-discovered_at: '2026-08-09T21:35:33Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-09T21:31:37Z"
+discovered_at: "2026-08-09T21:35:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

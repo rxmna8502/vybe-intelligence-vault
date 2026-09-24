@@ -1,37 +1,19 @@
 ---
-title: Pretend-to/mio-chat-backend
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Node.js
-- TypeScript
-- PM2
-- WebSocket
-- Zod
-- Vue3
-- Element Plus
-- Docker
-- Cron
-- RBAC
-- MCP Protocol
-- node-pty
-- Puppeteer
+title: "Pretend-to/mio-chat-backend"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "TypeScript", "PM2", "WebSocket", "Zod", "Vue3", "Element Plus", "Docker", "Cron", "RBAC", "MCP Protocol", "node-pty", "Puppeteer"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Agent OS
-- Multi-Agent System
-- Context Management
-- Hook Architecture
-- Memory Compression
-source: https://github.com/Pretend-to/mio-chat-backend
+deployment_complexity: "Medium"
+tags: ["Agent OS", "Multi-Agent System", "Context Management", "Hook Architecture", "Memory Compression"]
+source: "https://github.com/Pretend-to/mio-chat-backend"
 stars: 37
-language: JavaScript
-last_updated: '2026-08-08T09:39:49Z'
-discovered_at: '2026-08-08T09:40:14Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-08T09:39:49Z"
+discovered_at: "2026-08-08T09:40:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

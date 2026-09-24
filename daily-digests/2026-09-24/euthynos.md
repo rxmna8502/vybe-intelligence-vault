@@ -1,30 +1,19 @@
 ---
-title: euthynos-org/euthynos
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- AST Parsing
-- Tree-sitter WASM
-- MCP (Model Context Protocol)
-- Git History Analysis
+title: "euthynos-org/euthynos"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "AST Parsing", "Tree-sitter WASM", "MCP (Model Context Protocol)", "Git History Analysis"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- static analysis
-- call graph
-- dependency analysis
-- MCP server
-- AI agent tooling
-source: https://github.com/euthynos-org/euthynos
+deployment_complexity: "Medium"
+tags: ["static analysis", "call graph", "dependency analysis", "MCP server", "AI agent tooling"]
+source: "https://github.com/euthynos-org/euthynos"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-03T18:56:38Z'
-discovered_at: '2026-09-03T19:13:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T18:56:38Z"
+discovered_at: "2026-09-03T19:13:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

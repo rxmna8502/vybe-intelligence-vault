@@ -1,32 +1,19 @@
 ---
-title: api-evangelist/upstash
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Redis
-- Kafka
-- Vector Databases
-- REST APIs
-- Serverless Computing
-- Edge Computing
-- HTTP Basic Authentication
-- Bearer Token Authentication
+title: "api-evangelist/upstash"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Redis", "Kafka", "Vector Databases", "REST APIs", "Serverless Computing", "Edge Computing", "HTTP Basic Authentication", "Bearer Token Authentication"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Serverless
-- Data Platforms
-- API Management
-- Edge Computing
-- Database as a Service
-source: https://github.com/api-evangelist/upstash
+deployment_complexity: "Low"
+tags: ["Serverless", "Data Platforms", "API Management", "Edge Computing", "Database as a Service"]
+source: "https://github.com/api-evangelist/upstash"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:55:17Z'
-discovered_at: '2026-08-08T03:29:46Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:55:17Z"
+discovered_at: "2026-08-08T03:29:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

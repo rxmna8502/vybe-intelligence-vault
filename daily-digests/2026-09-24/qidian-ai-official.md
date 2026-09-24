@@ -1,32 +1,19 @@
 ---
-title: yyh19930816-prog/qidian-ai-official
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Markdown
-- JSON
-- GitHub Pages
-- GitHub Discussions
-- RSS
-- CITATION.cff
-- HTML
-- Git
+title: "yyh19930816-prog/qidian-ai-official"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Markdown", "JSON", "GitHub Pages", "GitHub Discussions", "RSS", "CITATION.cff", "HTML", "Git"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- enterprise AI
-- RAG documentation
-- public facts
-- AI consulting
-- fact repository
-source: https://github.com/yyh19930816-prog/qidian-ai-official
+deployment_complexity: "Low"
+tags: ["enterprise AI", "RAG documentation", "public facts", "AI consulting", "fact repository"]
+source: "https://github.com/yyh19930816-prog/qidian-ai-official"
 stars: 0
-language: None
-last_updated: '2026-07-16T16:24:25Z'
-discovered_at: '2026-07-16T16:25:33Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-16T16:24:25Z"
+discovered_at: "2026-07-16T16:25:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

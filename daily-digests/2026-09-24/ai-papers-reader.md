@@ -1,30 +1,19 @@
 ---
-title: InMatrix/ai-papers-reader
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Hugging Face Daily Papers API
-- Gemini 2.5 Flash
-- GitHub Actions
-- Netlify
-- Markdown
+title: "InMatrix/ai-papers-reader"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Hugging Face Daily Papers API", "Gemini 2.5 Flash", "GitHub Actions", "Netlify", "Markdown"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- paper curation
-- AI research digest
-- automated summarization
-- LLM-powered agent
-- CI/CD pipeline
-source: https://github.com/InMatrix/ai-papers-reader
+deployment_complexity: "Medium"
+tags: ["paper curation", "AI research digest", "automated summarization", "LLM-powered agent", "CI/CD pipeline"]
+source: "https://github.com/InMatrix/ai-papers-reader"
 stars: 27
-language: Python
-last_updated: '2026-08-02T08:16:37Z'
-discovered_at: '2026-08-02T08:22:46Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T08:16:37Z"
+discovered_at: "2026-08-02T08:22:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

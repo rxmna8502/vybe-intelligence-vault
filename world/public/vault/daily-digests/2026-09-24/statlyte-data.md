@@ -1,32 +1,19 @@
 ---
-title: richardwilkinson9/statlyte-data
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Node.js
-- Bun
-- Deno
-- Cloudflare Workers
-- TypeScript (implied by modern JS practices)
-- REST APIs
-- MCP (Model Context Protocol)
+title: "richardwilkinson9/statlyte-data"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Bun", "Deno", "Cloudflare Workers", "TypeScript (implied by modern JS practices)", "REST APIs", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- LLM pricing
-- cost tracking
-- model metadata
-- real-time data
-- API integration
-source: https://github.com/richardwilkinson9/statlyte-data
+deployment_complexity: "Low"
+tags: ["LLM pricing", "cost tracking", "model metadata", "real-time data", "API integration"]
+source: "https://github.com/richardwilkinson9/statlyte-data"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-07T15:58:29Z'
-discovered_at: '2026-08-07T16:02:38Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-07T15:58:29Z"
+discovered_at: "2026-08-07T16:02:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: plastic-labs/honcho
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- TypeScript
-- Docker
-- Vector Embeddings
-- BM25 Search
-- MCP (Model Context Protocol)
-- PostgreSQL (implied for storage)
-- Redis (implied for caching)
+title: "plastic-labs/honcho"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "FastAPI", "TypeScript", "Docker", "Vector Embeddings", "BM25 Search", "MCP (Model Context Protocol)", "PostgreSQL (implied for storage)", "Redis (implied for caching)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Agent Memory
-- Stateful Agents
-- Context Management
-- Multi-Agent Systems
-- Memory Infrastructure
-source: https://github.com/plastic-labs/honcho
+deployment_complexity: "Medium"
+tags: ["Agent Memory", "Stateful Agents", "Context Management", "Multi-Agent Systems", "Memory Infrastructure"]
+source: "https://github.com/plastic-labs/honcho"
 stars: 6560
-language: Python
-last_updated: '2026-08-10T17:13:33Z'
-discovered_at: '2026-08-10T18:01:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T17:13:33Z"
+discovered_at: "2026-08-10T18:01:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

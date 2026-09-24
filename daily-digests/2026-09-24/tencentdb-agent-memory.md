@@ -1,75 +1,49 @@
 ---
-title: TencentCloud/TencentDB-Agent-Memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- React
-- OpenClaw
-- Hermes Gateway
-- Docker
-- PostgreSQL
-- Redis
-- LLM APIs
-quality_score: 9
-rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Agent Memory
-- Knowledge Management
-- Multi-Agent Systems
-- RAG Optimization
-- Team Collaboration
-source: https://github.com/TencentCloud/TencentDB-Agent-Memory
-stars: 19098
-language: TypeScript
-last_updated: '2026-08-10T09:23:44Z'
-discovered_at: '2026-08-10T09:24:33Z'
-evaluated_by: mistral-small-latest
+title: "mohamamd991/TencentDB-Agent-Memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Local Database", "Embedding", "Vector Search", ".NET Framework"]
+quality_score: 6
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["local memory", "AI agents", "privacy-focused", "long-term storage", "offline processing"]
+source: "https://github.com/mohamamd991/TencentDB-Agent-Memory"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-07-10T23:03:00Z"
+discovered_at: "2026-07-10T23:08:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-TencentDB Agent Memory is a team-level memory hub for AI Agents that transforms conversations, documents, and code into reusable memory assets (Chat Memory, Skills, Wiki, and CodeGraph) to avoid repetitive work and enable efficient knowledge sharing across agents and frameworks.
+TencentDB-Agent-Memory provides a local, long-term memory solution for AI agents, enabling them to retain and retrieve past interactions without sending data to external servers. It operates entirely on the user's machine, ensuring privacy and security.
 
 ## Key Features
-- Automatic extraction and distillation of Chat Memory, Skills, Wiki, and CodeGraph from agent interactions and codebases
-- Portable and framework-agnostic memory assets for cross-agent and cross-team reuse
-- Structured knowledge management with versioning, ownership, and access control (private, team, restricted)
-- CodeGraph for impact analysis and dependency tracking to guide safe code modifications
-- Cold-start friendly with support for importing existing codebases, documents, and conversation histories
+- Local-first memory storage for AI agents with no external data transmission
+- Four-tier pipeline for capturing, processing, categorizing, and storing information
+- Privacy and security through offline operation and no hidden telemetry
+- Compact storage format supporting thousands of entries with minimal disk usage
+- Configurable storage limits and search functionality for efficient retrieval
 
 ## Why It Matters for RAG Builders
-It enables RAG/AI stack builders to eliminate repetitive context loading and accelerate agent workflows by preserving and reusing distilled knowledge across sessions and teams.
+It enables AI agents to maintain persistent, private memory without relying on cloud services, enhancing privacy and reducing dependency on external infrastructure.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Local Database
+Automated review identified **Local Database** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Embedding
+Automated review identified **Embedding** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenClaw
-Automated review identified **OpenClaw** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Vector Search
+Automated review identified **Vector Search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Hermes Gateway
-Automated review identified **Hermes Gateway** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### LLM APIs
-Automated review identified **LLM APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### .NET Framework
+Automated review identified **.NET Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

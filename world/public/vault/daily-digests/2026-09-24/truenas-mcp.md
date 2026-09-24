@@ -1,30 +1,19 @@
 ---
-title: cedricziel/truenas-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- TrueNAS REST API
-- Docker
-- WebSocket
-- JSON-RPC
+title: "cedricziel/truenas-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "TrueNAS REST API", "Docker", "WebSocket", "JSON-RPC"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- TrueNAS
-- MCP server
-- storage management
-- AI integration
-- per-session auth
-source: https://github.com/cedricziel/truenas-mcp
+deployment_complexity: "Medium"
+tags: ["TrueNAS", "MCP server", "storage management", "AI integration", "per-session auth"]
+source: "https://github.com/cedricziel/truenas-mcp"
 stars: 0
-language: Go
-last_updated: '2026-08-08T21:32:43Z'
-discovered_at: '2026-08-08T21:33:25Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T21:32:43Z"
+discovered_at: "2026-08-08T21:33:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

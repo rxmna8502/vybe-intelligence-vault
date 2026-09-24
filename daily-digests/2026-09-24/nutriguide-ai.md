@@ -1,38 +1,19 @@
 ---
-title: rjacaac211/nutriguide-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- LangGraph.js
-- LangChain
-- React
-- Node.js
-- Express
-- PostgreSQL
-- Prisma
-- Pinecone
-- OpenAI (GPT-4o-mini)
-- USDA FoodData Central API
-- Docker
-- AWS (EC2, ECR)
-- GitHub Actions
+title: "rjacaac211/nutriguide-ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "LangGraph.js", "LangChain", "React", "Node.js", "Express", "PostgreSQL", "Prisma", "Pinecone", "OpenAI (GPT-4o-mini)", "USDA FoodData Central API", "Docker", "AWS (EC2, ECR)", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI nutrition assistant
-- LangGraph agent
-- RAG with Pinecone
-- personalized dietary advice
-- full-stack AI application
-source: https://github.com/rjacaac211/nutriguide-ai
+deployment_complexity: "Medium"
+tags: ["AI nutrition assistant", "LangGraph agent", "RAG with Pinecone", "personalized dietary advice", "full-stack AI application"]
+source: "https://github.com/rjacaac211/nutriguide-ai"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-17T02:44:09Z'
-discovered_at: '2026-07-17T02:52:06Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-17T02:44:09Z"
+discovered_at: "2026-07-17T02:52:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

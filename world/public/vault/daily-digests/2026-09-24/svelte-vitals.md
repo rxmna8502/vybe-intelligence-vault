@@ -1,32 +1,19 @@
 ---
-title: oekazuma/svelte-vitals
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- SvelteKit
-- Vite
-- Node.js
-- CLI
-- Markdown
-- SARIF
-- GitHub Actions
+title: "oekazuma/svelte-vitals"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "SvelteKit", "Vite", "Node.js", "CLI", "Markdown", "SARIF", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- static analysis
-- SvelteKit
-- code health
-- SEO
-- performance
-source: https://github.com/oekazuma/svelte-vitals
+deployment_complexity: "Low"
+tags: ["static analysis", "SvelteKit", "code health", "SEO", "performance"]
+source: "https://github.com/oekazuma/svelte-vitals"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-12T08:13:55Z'
-discovered_at: '2026-07-12T08:15:21Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T08:13:55Z"
+discovered_at: "2026-07-12T08:15:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

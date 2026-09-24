@@ -1,75 +1,64 @@
 ---
-title: marcuspat/Sentinel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Rust
-- ratatui
-- clap
-- tokio
-- serde
-- sha2
-- rcgen
-- rustls
-- LLM backends (Anthropic, OpenAI, Ollama)
-quality_score: 9
+title: "juyelhushen/sentinel"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "LangChain", "Ollama", "Model Context Protocol (MCP)", "FastAPI", "ChromaDB", "SQLite", "Pytest", "Docker"]
+quality_score: 6
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agentic systems
-- audit logging
-- policy engine
-- system administration
-- LLM safety
-source: https://github.com/marcuspat/Sentinel
+deployment_complexity: "High"
+tags: ["autonomous agents", "multi-agent orchestration", "AI engineering ops", "MCP", "automated verification"]
+source: "https://github.com/juyelhushen/sentinel"
 stars: 0
-language: Rust
-last_updated: '2026-08-08T22:22:36Z'
-discovered_at: '2026-08-08T22:31:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T16:04:08Z"
+discovered_at: "2026-08-10T16:06:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Sentinel is a secure, auditable agentic system administration tool written in Rust that implements an Investigate → Plan → Approve → Act workflow. It uses a deny-by-default policy engine, operator approval gates, and hash-chained audit logs to safely execute LLM-driven system tasks.
+Sentinel is an autonomous multi-agent system designed for AI engineering operations, capable of investigating software incidents, planning fixes, executing controlled modifications, verifying changes via automated testing, and learning from past incidents. It demonstrates modern AI engineering patterns like multi-agent orchestration and MCP integration.
 
 ## Key Features
-- Deny-by-default policy engine with kill switch and resource guards
-- Operator approval gate for all mutating actions
-- Hash-chained SHA-256 audit log with tamper detection
-- 14 built-in capabilities (filesystem, process, packages, network, metrics)
-- Pluggable LLM backends (Anthropic, OpenAI, Ollama) and fleet mode with mTLS
+- Multi-agent orchestration for complex workflows
+- Autonomous incident investigation and planning
+- Controlled tool usage for repository inspection/modification
+- Automated testing and verification of changes
+- Agent memory and learning from past incidents
 
 ## Why It Matters for RAG Builders
-Sentinel provides a critical safety layer for AI-driven system administration by enforcing strict approval workflows and tamper-proof audit trails, reducing operational risks in agentic environments.
+Sentinel provides a production-ready framework for building autonomous AI agents that can handle end-to-end software engineering tasks, reducing manual intervention in incident resolution.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ratatui
-Automated review identified **ratatui** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LangGraph
+Automated review identified **LangGraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### clap
-Automated review identified **clap** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LangChain
+Automated review identified **LangChain** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### tokio
-Automated review identified **tokio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### serde
-Automated review identified **serde** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### sha2
-Automated review identified **sha2** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### rcgen
-Automated review identified **rcgen** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ChromaDB
+Automated review identified **ChromaDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### rustls
-Automated review identified **rustls** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM backends (Anthropic, OpenAI, Ollama)
-Automated review identified **LLM backends (Anthropic, OpenAI, Ollama)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Pytest
+Automated review identified **Pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

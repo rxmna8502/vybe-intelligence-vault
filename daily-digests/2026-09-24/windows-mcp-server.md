@@ -1,34 +1,19 @@
 ---
-title: deploymenttheory/windows-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Windows API
-- UI Automation
-- Model Context Protocol (MCP)
-- PowerShell
-- Registry
-- Filesystem
-- Process Management
-- Network Egress Control
-- Policy Engine
+title: "deploymenttheory/windows-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Windows API", "UI Automation", "Model Context Protocol (MCP)", "PowerShell", "Registry", "Filesystem", "Process Management", "Network Egress Control", "Policy Engine"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Windows automation
-- MCP server
-- AI agent security
-- UI automation
-- device posture validation
-source: https://github.com/deploymenttheory/windows-mcp-server
+deployment_complexity: "Medium"
+tags: ["Windows automation", "MCP server", "AI agent security", "UI automation", "device posture validation"]
+source: "https://github.com/deploymenttheory/windows-mcp-server"
 stars: 1
-language: Go
-last_updated: '2026-08-03T13:35:35Z'
-discovered_at: '2026-08-03T13:42:28Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-03T13:35:35Z"
+discovered_at: "2026-08-03T13:42:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: Coding-Dev-Tools/api-contract-guardian
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- OpenAPI 3.x
-- CLI
-- Git
-- CI/CD
+title: "Coding-Dev-Tools/api-contract-guardian"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "OpenAPI 3.x", "CLI", "Git", "CI/CD"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- OpenAPI
-- API Contracts
-- CI/CD Gating
-- Breaking Change Detection
-- Migration Guides
-source: https://github.com/Coding-Dev-Tools/api-contract-guardian
+deployment_complexity: "Low"
+tags: ["OpenAPI", "API Contracts", "CI/CD Gating", "Breaking Change Detection", "Migration Guides"]
+source: "https://github.com/Coding-Dev-Tools/api-contract-guardian"
 stars: 3
-language: Python
-last_updated: '2026-07-14T23:44:59Z'
-discovered_at: '2026-07-14T23:53:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T23:44:59Z"
+discovered_at: "2026-07-14T23:53:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

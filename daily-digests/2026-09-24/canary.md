@@ -1,30 +1,19 @@
 ---
-title: osauer/canary
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- CLI
-- Interactive Brokers API
-- JSON
-- YAML (for configuration)
+title: "osauer/canary"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "CLI", "Interactive Brokers API", "JSON", "YAML (for configuration)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Interactive Brokers
-- MCP Server
-- Portfolio Analytics
-- Market Regime
-- Risk Management
-source: https://github.com/osauer/canary
+deployment_complexity: "Medium"
+tags: ["Interactive Brokers", "MCP Server", "Portfolio Analytics", "Market Regime", "Risk Management"]
+source: "https://github.com/osauer/canary"
 stars: 5
-language: Go
-last_updated: '2026-08-04T10:33:36Z'
-discovered_at: '2026-08-04T10:40:50Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T10:33:36Z"
+discovered_at: "2026-08-04T10:40:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: Jayrajsinh45/ossmate-stack-mate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Node.js
-- Claude Code CLI
-- MCP (Model Context Protocol)
-- Python (for Subagent SDK)
-- YAML (for configuration)
-- Docker
-- Git
-- OpenAI API
-- Claude API
+title: "Jayrajsinh45/ossmate-stack-mate"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "Claude Code CLI", "MCP (Model Context Protocol)", "Python (for Subagent SDK)", "YAML (for configuration)", "Docker", "Git", "OpenAI API", "Claude API"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Claude Code
-- Extension Management
-- Orchestration
-- AI Tooling
-- Developer Productivity
-source: https://github.com/Jayrajsinh45/ossmate-stack-mate
+deployment_complexity: "Medium"
+tags: ["Claude Code", "Extension Management", "Orchestration", "AI Tooling", "Developer Productivity"]
+source: "https://github.com/Jayrajsinh45/ossmate-stack-mate"
 stars: 1
-language: HTML
-last_updated: '2026-09-03T19:01:18Z'
-discovered_at: '2026-09-03T19:10:44Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-03T19:01:18Z"
+discovered_at: "2026-09-03T19:10:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

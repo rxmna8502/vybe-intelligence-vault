@@ -1,30 +1,19 @@
 ---
-title: melodieliu13-alt/melodie-ai-tools
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- JavaScript
-- Chrome Extensions
-- MCP (Model Context Protocol)
-- AI-assisted development
-- Markdown
-- API integration
+title: "melodieliu13-alt/melodie-ai-tools"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Chrome Extensions", "MCP (Model Context Protocol)", "AI-assisted development", "Markdown", "API integration"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- automation
-- workflow optimization
-- Chrome extensions
-- MCP server
-- user growth
-source: https://github.com/melodieliu13-alt/melodie-ai-tools
+deployment_complexity: "Medium"
+tags: ["automation", "workflow optimization", "Chrome extensions", "MCP server", "user growth"]
+source: "https://github.com/melodieliu13-alt/melodie-ai-tools"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-18T09:16:30Z'
-discovered_at: '2026-07-18T09:24:05Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-18T09:16:30Z"
+discovered_at: "2026-07-18T09:24:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

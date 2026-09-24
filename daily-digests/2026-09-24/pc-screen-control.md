@@ -1,44 +1,33 @@
 ---
-title: nathandevelopment/pc-screen-control
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Windows Accessibility API
-- MCP (Model Context Protocol)
-- UI Automation
-- PyWin32
-- JSON-RPC
+title: "desteny-dev/pc-screen-control"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows Accessibility API", "MCP (Model Context Protocol)", "PyInstaller", "pytest"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- Windows automation
-- UI interaction
-- accessibility tree
-- MCP server
-- AI control interface
-source: https://github.com/nathandevelopment/pc-screen-control
+deployment_complexity: "Low"
+tags: ["Windows automation", "MCP server", "UI accessibility", "AI control interface", "screen data"]
+source: "https://github.com/desteny-dev/pc-screen-control"
 stars: 2
-language: Python
-last_updated: '2026-08-01T13:16:21Z'
-discovered_at: '2026-08-01T13:16:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T09:38:49Z"
+discovered_at: "2026-08-06T09:42:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-PC Screen Control is an MCP server for Windows that exposes the Windows accessibility tree to AI agents, enabling precise UI interactions by name rather than pixel coordinates. It provides structured data about on-screen elements, allowing AI to press the correct button, read tables, and verify actions without relying on screenshots.
+A Windows MCP server that exposes the accessibility tree of applications to AI agents, enabling them to interact with UI elements by name rather than pixel coordinates. It provides 34 tools for reading, controlling, and automating Windows applications without network access or screen scraping.
 
 ## Key Features
-- Exposes 34 tools for precise UI interactions (e.g., `invoke`, `read_table`, `find_elements`, `set_value`)
-- Returns structured data about UI elements (names, states, automation IDs) for reliable AI operations
-- Supports both local and remote MCP clients with one-click installation for Claude Desktop
-- Implements safety mechanisms like input guards, burst actions, and visual warnings to prevent unintended disruptions
-- Provides self-testing and error reporting to ensure system compatibility and reliability
+- Exposes structured UI data (accessibility tree) to AI agents instead of screenshots
+- 34 tools for reading, controlling, and automating Windows applications by name
+- No network access or telemetry, ensuring privacy and security
+- Supports one-click installation for Claude Desktop and other MCP clients
+- Includes self-test functionality to verify installation and diagnose issues
 
 ## Why It Matters for RAG Builders
-It transforms raw screen data into structured, actionable UI elements, enabling AI agents to interact with applications precisely and reliably without relying on error-prone pixel-based methods.
+It transforms raw screen data into structured, actionable UI elements, enabling AI agents to operate applications precisely and reliably without pixel-level guessing or screen scraping.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -50,14 +39,11 @@ Automated review identified **Windows Accessibility API** as a key module contri
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### UI Automation
-Automated review identified **UI Automation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PyInstaller
+Automated review identified **PyInstaller** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PyWin32
-Automated review identified **PyWin32** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON-RPC
-Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### pytest
+Automated review identified **pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

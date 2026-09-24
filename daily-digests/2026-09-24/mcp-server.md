@@ -1,59 +1,52 @@
 ---
-title: omer907/mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- npm
-- HTTP Streamable Transport
-quality_score: 8
+title: "keboola/mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "HTTP/Streamable HTTP", "OAuth", "Keboola Storage API", "FastAPI"]
+quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- value-leak detection
-- LLMO
-- agent integration
-- lead capture
-source: https://github.com/omer907/mcp-server
-stars: 0
-language: TypeScript
-last_updated: '2026-08-10T14:59:54Z'
-discovered_at: '2026-08-10T15:03:56Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["MCP Server", "AI Agent Integration", "Data Orchestration", "Keboola Platform", "RAG Tooling"]
+source: "https://github.com/keboola/mcp-server"
+stars: 84
+language: "Python"
+last_updated: "2026-07-14T05:15:17Z"
+discovered_at: "2026-07-14T05:29:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-MCP server that integrates Melt's value-leak discovery logic into MCP-compatible agents like Claude or Cursor, enabling structured estimates of organizational value leakage. It exposes tools for sandbox analysis, leak quantification, and lead capture, bridging directional estimates with real-world scans.
+The Keboola MCP Server is an open-source bridge that connects Keboola data projects to AI agents and MCP clients (e.g., Cursor, Claude, Windsurf) via the Model Context Protocol. It exposes Keboola features like storage access, SQL transformations, job triggers, and data apps as callable tools for AI workflows.
 
 ## Key Features
-- Exposes three MCP tools for value-leak analysis: `melt_analyze_value_vectors`, `melt_estimate_annual_leak`, and `melt_request_scan`
-- Supports both local (stdio) and hosted (HTTP) MCP transport modes
-- Includes one-click installation via `.mcpb` bundle for Claude Desktop
-- Provides analytics for tool usage tracking without exposing sensitive data
-- Fallback to local lead capture (`leads.jsonl`) if HubSpot integration fails
+- Exposes Keboola features (storage, SQL, jobs, flows) as MCP tools for AI agents
+- Supports remote and local deployment with OAuth authentication
+- Enables natural language SQL transformation creation
+- Provides tool authorization and access control via HTTP headers
+- Integrates with development branches for safe testing
 
 ## Why It Matters for RAG Builders
-This MCP server enables AI agents to perform structured value-leak analysis and lead capture, directly integrating Melt's proprietary methodologies into agent workflows for real-time, actionable insights.
+It enables seamless integration of Keboola's data platform with AI agents, allowing RAG systems to dynamically fetch, transform, and trigger data workflows without custom glue code.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTTP/Streamable HTTP
+Automated review identified **HTTP/Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### npm
-Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTTP Streamable Transport
-Automated review identified **HTTP Streamable Transport** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Keboola Storage API
+Automated review identified **Keboola Storage API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

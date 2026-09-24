@@ -1,29 +1,19 @@
 ---
-title: mkrupkin/rixot-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Model Context Protocol (MCP)
-- JSON-RPC 2.0
-- REST API
-- HTTP/HTTPS
-- Authentication (Bearer Token)
+title: "mkrupkin/rixot-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "JSON-RPC 2.0", "REST API", "HTTP/HTTPS", "Authentication (Bearer Token)"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- backlink marketplace
-- MCP server
-- SEO automation
-- AI agent tools
-- hosted API
-source: https://github.com/mkrupkin/rixot-mcp
+deployment_complexity: "Low"
+tags: ["backlink marketplace", "MCP server", "SEO automation", "AI agent tools", "hosted API"]
+source: "https://github.com/mkrupkin/rixot-mcp"
 stars: 0
-language: None
-last_updated: '2026-08-08T16:34:12Z'
-discovered_at: '2026-08-08T16:35:52Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T16:34:12Z"
+discovered_at: "2026-08-08T16:35:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: hi-kds/AI-financial-decision-system
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Pandas
-- Jinja2
-- pdfplumber
-- Rich
-- GBK/UTF-8 encoding handling
-- CLI-based architecture
+title: "hi-kds/AI-financial-decision-system"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Pandas", "Jinja2", "pdfplumber", "Rich", "GBK/UTF-8 encoding handling", "CLI-based architecture"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- personal finance
-- bill analysis
-- local processing
-- data deduplication
-- financial reporting
-source: https://github.com/hi-kds/AI-financial-decision-system
+deployment_complexity: "Low"
+tags: ["personal finance", "bill analysis", "local processing", "data deduplication", "financial reporting"]
+source: "https://github.com/hi-kds/AI-financial-decision-system"
 stars: 1
-language: Python
-last_updated: '2026-09-01T02:39:58Z'
-discovered_at: '2026-09-01T02:51:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T02:39:58Z"
+discovered_at: "2026-09-01T02:51:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

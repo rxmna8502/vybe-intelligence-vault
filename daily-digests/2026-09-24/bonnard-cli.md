@@ -1,29 +1,19 @@
 ---
-title: sawon1903210/bonnard-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP Server
-- Web Dashboard
+title: "sawon1903210/bonnard-cli"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP Server", "Web Dashboard"]
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- analytics
-- data visualization
-- CLI tool
-- business intelligence
-- semantic layer
-source: https://github.com/sawon1903210/bonnard-cli
+deployment_complexity: "Low"
+tags: ["analytics", "data visualization", "CLI tool", "business intelligence", "semantic layer"]
+source: "https://github.com/sawon1903210/bonnard-cli"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-12T23:46:55Z'
-discovered_at: '2026-07-12T23:52:18Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T23:46:55Z"
+discovered_at: "2026-07-12T23:52:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

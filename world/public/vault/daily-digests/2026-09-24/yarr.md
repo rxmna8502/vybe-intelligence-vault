@@ -1,52 +1,43 @@
 ---
-title: jmagar/yarr
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Rust
-- Node.js
-- MCP (Model Context Protocol)
-- CLI
-- REST API
-- Docker
-- GitHub Actions
+title: "dinglebear-ai/yarr"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "JavaScript", "TypeScript", "MCP (Model Context Protocol)", "CLI", "REST API", "Docker"]
 quality_score: 9
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- media automation
-- MCP server
-- self-hosted
-- Rust
-- orchestrator
-source: https://github.com/jmagar/yarr
-stars: 3
-language: Rust
-last_updated: '2026-07-13T13:18:03Z'
-discovered_at: '2026-07-13T13:22:37Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 6
+deployment_complexity: "Medium"
+tags: ["media automation", "MCP server", "self-hosted", "AI agent integration", "media fleet management"]
+source: "https://github.com/dinglebear-ai/yarr"
+stars: 4
+language: "Rust"
+last_updated: "2026-08-01T03:40:00Z"
+discovered_at: "2026-08-01T03:44:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-yarr is a Rust-based MCP and CLI server designed to unify interactions with media automation services like Sonarr, Radarr, Plex, and Jellyfin. It provides a single interface for agents and operators to query and control a self-hosted media stack without replacing or duplicating existing applications.
+yarr is an MCP server and CLI tool that provides a unified interface for managing self-hosted media automation fleets, including Sonarr, Radarr, Plex, Jellyfin, and others. It enables AI agents and operators to interact with multiple media services through a single consistent tool surface.
 
 ## Key Features
-- Unified MCP and CLI interface for 11+ media automation services
-- Code Mode for multi-step media automation scripts with JavaScript execution
-- Curated commands for services without usable machine-readable specs (e.g., qBittorrent, Tautulli)
-- Generated OpenAPI operations for Sonarr, Radarr, Prowlarr, Overseerr, Jellyfin, and Plex
-- Skills-only plugins for direct service integration without the MCP server
+- Unified MCP server and CLI for managing multiple media services (Sonarr, Radarr, Plex, etc.)
+- Code Mode for multi-step media automation scripts via JavaScript execution
+- Curated commands and OpenAPI-backed operations for supported services
+- Skills-only plugins for direct HTTP interactions with individual services
+- Supports both stdio and streamable HTTP MCP transports
 
 ## Why It Matters for RAG Builders
-It simplifies agent interactions with complex media automation stacks by providing a single, consistent interface for querying and controlling multiple services, reducing integration overhead for RAG and AI workflows.
+It simplifies AI agent interactions with self-hosted media stacks by providing a single, consistent interface for querying and controlling multiple services, reducing integration complexity.
 
 ## Tech Stack Deep Dive
 ### Rust
 Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -59,9 +50,6 @@ Automated review identified **REST API** as a key module contributing to infrast
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### GitHub Actions
-Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,32 +1,19 @@
 ---
-title: buseko-Actuary/n8n-ai-chatbot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- n8n
-- OpenAI (LLM)
-- Google Sheets
-- Google Calendar
-- Gmail
-- JavaScript (Code Tool)
-- '@n8n/n8n-nodes-langchain'
-- Mermaid (for architecture diagrams)
+title: "buseko-Actuary/n8n-ai-chatbot"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["n8n", "OpenAI (LLM)", "Google Sheets", "Google Calendar", "Gmail", "JavaScript (Code Tool)", "@n8n/n8n-nodes-langchain", "Mermaid (for architecture diagrams)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agent
-- Automation
-- Lead Capture
-- n8n
-- SME Tooling
-source: https://github.com/buseko-Actuary/n8n-ai-chatbot
+deployment_complexity: "Medium"
+tags: ["AI Agent", "Automation", "Lead Capture", "n8n", "SME Tooling"]
+source: "https://github.com/buseko-Actuary/n8n-ai-chatbot"
 stars: 0
-language: None
-last_updated: '2026-08-02T23:58:25Z'
-discovered_at: '2026-08-03T00:01:01Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-02T23:58:25Z"
+discovered_at: "2026-08-03T00:01:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

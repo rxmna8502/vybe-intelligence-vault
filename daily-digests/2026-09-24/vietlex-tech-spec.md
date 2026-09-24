@@ -1,35 +1,19 @@
 ---
-title: TanNguyen234/VietLex-Tech-Spec
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- FastAPI
-- Pinecone (Vector DB)
-- Qdrant Cloud (Embedding & Reranking)
-- SQLite (FTS5, Content Store)
-- Hugging Face (Datasets, Models)
-- ColBERT (Reranker)
-- Multilingual-E5-Small (Embedding Model)
-- BGE-Reranker-V2-M3 (Fallback Reranker)
-- Zstandard (Compression)
-- Uvicorn (ASGI Server)
+title: "TanNguyen234/VietLex-Tech-Spec"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "FastAPI", "Pinecone (Vector DB)", "Qdrant Cloud (Embedding & Reranking)", "SQLite (FTS5, Content Store)", "Hugging Face (Datasets, Models)", "ColBERT (Reranker)", "Multilingual-E5-Small (Embedding Model)", "BGE-Reranker-V2-M3 (Fallback Reranker)", "Zstandard (Compression)", "Uvicorn (ASGI Server)"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- Vietnamese Legal RAG
-- Hybrid Retrieval
-- Remote Inference
-- Golden Adjudication
-- Legal Document Processing
-source: https://github.com/TanNguyen234/VietLex-Tech-Spec
+deployment_complexity: "High"
+tags: ["Vietnamese Legal RAG", "Hybrid Retrieval", "Remote Inference", "Golden Adjudication", "Legal Document Processing"]
+source: "https://github.com/TanNguyen234/VietLex-Tech-Spec"
 stars: 0
-language: Python
-last_updated: '2026-08-08T17:00:58Z'
-discovered_at: '2026-08-08T17:33:10Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T17:00:58Z"
+discovered_at: "2026-08-08T17:33:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

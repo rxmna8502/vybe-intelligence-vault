@@ -1,67 +1,55 @@
 ---
-title: DanceNitra/mnemo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- JSON
-- Ed25519 (cryptography)
-- BM25 (lexical retrieval)
-- Reciprocal Rank Fusion (hybrid retrieval)
-- Hash-chaining (tamper-evident storage)
-- Neural Network Inversion (vector store auditing)
+title: "jojoprison/mnemo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Obsidian", "Claude Code", "Codex", "CLI", "Markdown", "Git"]
 quality_score: 9
-rag_relevance: 10
-deployment_complexity: Low
-tags:
-- agent memory
-- memory layer
-- RAG optimization
-- tamper-evident storage
-- adversarial resilience
-source: https://github.com/DanceNitra/mnemo
-stars: 0
-language: Python
-last_updated: '2026-07-13T16:27:21Z'
-discovered_at: '2026-07-13T16:31:33Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["persistent memory", "knowledge management", "AI agent integration", "Obsidian automation", "context recall"]
+source: "https://github.com/jojoprison/mnemo"
+stars: 6
+language: "Python"
+last_updated: "2026-07-16T18:03:23Z"
+discovered_at: "2026-07-16T18:05:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Mnemo is a lightweight, zero-dependency memory layer for AI agents designed to handle recall, consolidation, correction, and governance in production environments. It powers autonomous research systems and is optimized for integrity, adversarial resilience, and tamper-evident erasure.
+mnemo is a persistent memory layer for AI coding agents (Codex and Claude Code) that integrates with Obsidian to automate knowledge management. It provides CLI-based skills for saving decisions, session summaries, vault audits, and context-aware recall to enhance agent productivity.
 
 ## Key Features
-- Zero-dependency, single-file implementation for easy integration
-- Measured integrity with first-class correction operations (revert, lineage-aware retraction)
-- Tamper-evident governance primitives (anchors, erasure tombstones, cross-store auditing)
-- Poison-resistant recall via influence-gating and corroboration
-- Hybrid retrieval (lexical + semantic) with Reciprocal Rank Fusion for high accuracy
+- Seven CLI-based skills for memory management (save, session, review, ask, connect, health, setup)
+- Persistent memory integration with Obsidian vaults for long-term knowledge storage
+- Session handoffs and summaries to maintain continuity across coding sessions
+- Recency-aware recall with citations and stale note detection
+- Configurable taxonomy and non-destructive operations for flexible knowledge organization
 
 ## Why It Matters for RAG Builders
-Mnemo provides a production-grade, integrity-focused memory layer essential for building reliable RAG systems that require correction, governance, and adversarial resilience.
+mnemo bridges the gap between AI coding agents and persistent knowledge storage, enabling agents to retain and recall context across sessions without manual effort.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Obsidian
+Automated review identified **Obsidian** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ed25519 (cryptography)
-Automated review identified **Ed25519 (cryptography)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude Code
+Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### BM25 (lexical retrieval)
-Automated review identified **BM25 (lexical retrieval)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Codex
+Automated review identified **Codex** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Reciprocal Rank Fusion (hybrid retrieval)
-Automated review identified **Reciprocal Rank Fusion (hybrid retrieval)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Hash-chaining (tamper-evident storage)
-Automated review identified **Hash-chaining (tamper-evident storage)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Neural Network Inversion (vector store auditing)
-Automated review identified **Neural Network Inversion (vector store auditing)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

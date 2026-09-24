@@ -1,71 +1,58 @@
 ---
-title: boundflow/charter
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- YAML
-- BoundFlow
-- deepagents
-- LangChain
-- OpenTelemetry
-- PostgreSQL
-- Docker
-quality_score: 8
-rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- agent-orchestration
-- yaml-configuration
-- human-in-the-loop
-- production-ready
-- governance
-source: https://github.com/boundflow/charter
-stars: 2
-language: Python
-last_updated: '2026-09-03T20:44:18Z'
-discovered_at: '2026-09-03T22:11:53Z'
-evaluated_by: mistral-small-latest
+title: "vighriday/Charter"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "PostgreSQL (PGlite)", "LLM APIs (Gemini, Groq)", "PDF generation", "ED25519 cryptography", "Mermaid.js for diagrams", "React (UI)"]
+quality_score: 9
+rag_relevance: 7
+deployment_complexity: "Medium"
+tags: ["legal automation", "multi-agent workflow", "human-in-the-loop", "tamper-evident records", "LLM orchestration"]
+source: "https://github.com/vighriday/Charter"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-09-02T14:29:18Z"
+discovered_at: "2026-09-02T15:49:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Charter is a declarative framework for defining, deploying, and governing production-ready AI agents using YAML configuration. It enables durable, human-in-the-loop agent operations with explicit authority, budgets, and lifecycle policies, built on BoundFlow's control plane and deepagents for execution.
+Charter automates the legal formation of multi-owner businesses by guiding users through eight steps—from business description to document assembly—using AI agents while enforcing human-in-the-loop decisions for critical actions like identity verification and final approval.
 
 ## Key Features
-- Agents defined as immutable YAML configurations with versioning and rollback support
-- Explicit authority and budget controls per task (cost, LLM calls, tool failures)
-- Durable human-in-the-loop approvals and interventions with checkpointing
-- Lifecycle policies for pausing, cooling down, or rolling back agents based on metrics
-- Integration with MCP servers and support for OpenTelemetry tracing
+- Eight-step business formation pipeline with strict human approval gates
+- Tamper-evident append-only log using hash chains and PostgreSQL constraints
+- Automated document assembly (ownership agreements, identity verification, formation packets)
+- No external API keys required for basic operations (uses free tiers)
+- Built-in safety mechanisms preventing AI agents from bypassing critical decisions
 
 ## Why It Matters for RAG Builders
-Charter provides a structured, production-grade framework for deploying and governing AI agents with explicit controls, making it essential for building reliable and auditable RAG systems.
+Charter demonstrates a robust, human-supervised AI agent framework for complex workflows where safety and legal compliance are critical, offering a blueprint for building trustworthy autonomous systems.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### YAML
-Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### BoundFlow
-Automated review identified **BoundFlow** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL (PGlite)
+Automated review identified **PostgreSQL (PGlite)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### deepagents
-Automated review identified **deepagents** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM APIs (Gemini, Groq)
+Automated review identified **LLM APIs (Gemini, Groq)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LangChain
-Automated review identified **LangChain** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PDF generation
+Automated review identified **PDF generation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenTelemetry
-Automated review identified **OpenTelemetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ED25519 cryptography
+Automated review identified **ED25519 cryptography** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Mermaid.js for diagrams
+Automated review identified **Mermaid.js for diagrams** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React (UI)
+Automated review identified **React (UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

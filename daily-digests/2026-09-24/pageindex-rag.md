@@ -1,27 +1,19 @@
 ---
-title: Deafened-vascularstructure846/pageindex-rag
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Windows Desktop App
-- Natural Language Processing
+title: "Deafened-vascularstructure846/pageindex-rag"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows Desktop App", "Natural Language Processing"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- local document search
-- reasoning-based RAG
-- Windows app
-- no vector database
-- plain text retrieval
-source: https://github.com/Deafened-vascularstructure846/pageindex-rag
+deployment_complexity: "Low"
+tags: ["local document search", "reasoning-based RAG", "Windows app", "no vector database", "plain text retrieval"]
+source: "https://github.com/Deafened-vascularstructure846/pageindex-rag"
 stars: 1
-language: Python
-last_updated: '2026-08-07T09:36:56Z'
-discovered_at: '2026-08-07T10:05:44Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T09:36:56Z"
+discovered_at: "2026-08-07T10:05:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

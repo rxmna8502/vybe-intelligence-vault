@@ -1,34 +1,19 @@
 ---
-title: awslabs/iam-policy-autopilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Rust
-- Python
-- Go
-- JavaScript
-- TypeScript
-- Java
-- AWS SDK
-- Model Context Protocol (MCP)
-- CLI
-- AWS CLI
+title: "awslabs/iam-policy-autopilot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Python", "Go", "JavaScript", "TypeScript", "Java", "AWS SDK", "Model Context Protocol (MCP)", "CLI", "AWS CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- IAM
-- AWS
-- Policy Generation
-- Security
-- MCP Server
-source: https://github.com/awslabs/iam-policy-autopilot
+deployment_complexity: "Medium"
+tags: ["IAM", "AWS", "Policy Generation", "Security", "MCP Server"]
+source: "https://github.com/awslabs/iam-policy-autopilot"
 stars: 378
-language: Rust
-last_updated: '2026-07-14T14:43:25Z'
-discovered_at: '2026-07-14T14:49:01Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-14T14:43:25Z"
+discovered_at: "2026-07-14T14:49:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

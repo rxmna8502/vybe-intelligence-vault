@@ -1,75 +1,49 @@
 ---
-title: ljagiello/agent-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- YAML
-- Markdown
-- AppleScript
-- JXA (JavaScript for Automation)
-- UTM (Virtualization)
-- CleanShot X (Screenshot/Recording)
-- Claude Code
-- Agent Skills Specification
+title: "paradedb/agent-skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Shell", "PostgreSQL", "BM25", "Full-text search", "AI agent integration"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- macOS automation
-- AI agent skills
-- virtualization
-- screenshot automation
-- UTM integration
-source: https://github.com/ljagiello/agent-skills
-stars: 0
-language: Python
-last_updated: '2026-08-03T02:50:29Z'
-discovered_at: '2026-08-03T02:54:29Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Low"
+tags: ["AI agent skills", "PostgreSQL search", "BM25", "documentation retrieval", "Elasticsearch alternative"]
+source: "https://github.com/paradedb/agent-skills"
+stars: 8
+language: "Shell"
+last_updated: "2026-07-20T02:29:05Z"
+discovered_at: "2026-07-20T02:45:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A collection of Agent Skills for driving macOS applications and workflows from AI agents, enabling automation of tools like UTM (virtualization) and CleanShot X via standardized skill specifications. Designed to integrate with agent frameworks supporting the Agent Skills spec, such as Claude Code.
+A specialized AI agent skill for ParadeDB that enables agents to fetch and utilize the latest ParadeDB documentation dynamically. It provides expertise on BM25 indexing, full-text search in PostgreSQL, and Elasticsearch alternatives.
 
 ## Key Features
-- Standardized skill specifications for AI agents to interact with macOS apps
-- Supports UTM virtualization (QEMU/Apple Virtualization backend) with full VM lifecycle management
-- Enables CleanShot X automation (screenshots, recordings, OCR, annotations)
-- Includes static and behavioral evals for skill validation and reliability
-- Designed for integration with frameworks like Claude Code and Friday Studio
+- Dynamic documentation fetching for up-to-date ParadeDB knowledge
+- Lightweight script-based integration with AI agents
+- Supports BM25 indexing and full-text search in PostgreSQL
+- Provides curated prompt examples for agent interactions
+- Ensures agent access to latest docs without static bundling
 
 ## Why It Matters for RAG Builders
-It provides pre-built, standardized skills for AI agents to automate macOS workflows, reducing integration effort and improving reliability for RAG systems requiring local tool interaction.
+It enables AI agents to dynamically access and leverage ParadeDB's latest documentation, enhancing their ability to provide accurate and current guidance on PostgreSQL-based search and retrieval.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Shell
+Automated review identified **Shell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### YAML
-Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### BM25
+Automated review identified **BM25** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### AppleScript
-Automated review identified **AppleScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Full-text search
+Automated review identified **Full-text search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JXA (JavaScript for Automation)
-Automated review identified **JXA (JavaScript for Automation)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### UTM (Virtualization)
-Automated review identified **UTM (Virtualization)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### CleanShot X (Screenshot/Recording)
-Automated review identified **CleanShot X (Screenshot/Recording)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Agent Skills Specification
-Automated review identified **Agent Skills Specification** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### AI agent integration
+Automated review identified **AI agent integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

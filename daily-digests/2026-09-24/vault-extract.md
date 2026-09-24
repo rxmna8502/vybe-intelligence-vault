@@ -1,37 +1,19 @@
 ---
-title: dignite-projects/vault-extract
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- C#
-- .NET 10.0
-- ABP Framework
-- ASP.NET Core
-- Angular 21
-- Node.js 20
-- SQL Server 2019+
-- Docker
-- PaddleOCR
-- OpenAI-compatible LLM
-- OpenTelemetry
-- OpenIddict
-- Entity Framework Core
+title: "dignite-projects/vault-extract"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", ".NET 10.0", "ABP Framework", "ASP.NET Core", "Angular 21", "Node.js 20", "SQL Server 2019+", "Docker", "PaddleOCR", "OpenAI-compatible LLM", "OpenTelemetry", "OpenIddict", "Entity Framework Core"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Intelligent Document Processing
-- OCR
-- Markdown Extraction
-- RAG Pipeline
-- Document Metadata
-source: https://github.com/dignite-projects/vault-extract
+deployment_complexity: "Medium"
+tags: ["Intelligent Document Processing", "OCR", "Markdown Extraction", "RAG Pipeline", "Document Metadata"]
+source: "https://github.com/dignite-projects/vault-extract"
 stars: 6
-language: C#
-last_updated: '2026-09-02T02:04:57Z'
-discovered_at: '2026-09-02T02:13:26Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-09-02T02:04:57Z"
+discovered_at: "2026-09-02T02:13:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

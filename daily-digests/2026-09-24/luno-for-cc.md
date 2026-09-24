@@ -1,32 +1,19 @@
 ---
-title: oldmilky/luno-for-cc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- VS Code Extension API
-- Claude Code CLI
-- Bun
-- React
-- Electron
-- OAuth
-- MCP (Model Context Protocol)
+title: "oldmilky/luno-for-cc"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "VS Code Extension API", "Claude Code CLI", "Bun", "React", "Electron", "OAuth", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Claude Code
-- VS Code Extension
-- Agentic AI
-- Code Editor Integration
-- Permission Gating
-source: https://github.com/oldmilky/luno-for-cc
+deployment_complexity: "Low"
+tags: ["Claude Code", "VS Code Extension", "Agentic AI", "Code Editor Integration", "Permission Gating"]
+source: "https://github.com/oldmilky/luno-for-cc"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-02T13:41:09Z'
-discovered_at: '2026-08-02T13:49:19Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T13:41:09Z"
+discovered_at: "2026-08-02T13:49:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

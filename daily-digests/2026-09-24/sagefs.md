@@ -1,33 +1,19 @@
 ---
-title: WillEhrendreich/SageFs
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- F#
-- .NET 10
-- Model Context Protocol (MCP)
-- Harmony (runtime patching)
-- SSE (Server-Sent Events)
-- Neovim
-- VS Code
-- Visual Studio
-- Raylib
+title: "WillEhrendreich/SageFs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["F#", ".NET 10", "Model Context Protocol (MCP)", "Harmony (runtime patching)", "SSE (Server-Sent Events)", "Neovim", "VS Code", "Visual Studio", "Raylib"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- F# development
-- live testing
-- hot reload
-- AI agents
-- MCP server
-source: https://github.com/WillEhrendreich/SageFs
+deployment_complexity: "Medium"
+tags: ["F# development", "live testing", "hot reload", "AI agents", "MCP server"]
+source: "https://github.com/WillEhrendreich/SageFs"
 stars: 69
-language: F#
-last_updated: '2026-09-02T02:03:58Z'
-discovered_at: '2026-09-02T02:13:21Z'
-evaluated_by: mistral-small-latest
+language: "F#"
+last_updated: "2026-09-02T02:03:58Z"
+discovered_at: "2026-09-02T02:13:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

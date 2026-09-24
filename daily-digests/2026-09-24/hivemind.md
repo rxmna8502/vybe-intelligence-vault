@@ -1,71 +1,79 @@
 ---
-title: oxHive/hivemind
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Rust
-- libsql
-- SQLite
-- MCP (Model Context Protocol)
-- TypeScript
-- Bun
-- React
-- Systemd/launchd (for service management)
+title: "hivementality-ai/hivemind"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Ruby", "Rails", "Docker", "Docker Compose", "JavaScript", "PostgreSQL", "Redis", "Playwright", "Anthropic SDK", "OpenAI SDK", "Google Gemini SDK", "Ollama", "MCP (Model Context Protocol)", "WebSockets", "REST APIs"]
 quality_score: 9
-rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- persistent memory
-- AI coding agents
-- MCP server
-- context injection
-- session management
-source: https://github.com/oxHive/hivemind
-stars: 2
-language: Rust
-last_updated: '2026-07-14T16:02:39Z'
-discovered_at: '2026-07-14T16:14:21Z'
-evaluated_by: mistral-small-latest
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "AI orchestration", "sandboxed agents", "collaborative AI", "self-hosted"]
+source: "https://github.com/hivementality-ai/hivemind"
+stars: 61
+language: "Ruby"
+last_updated: "2026-08-08T20:22:27Z"
+discovered_at: "2026-08-08T20:31:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-HiveMind is a local MCP server that provides persistent memory for AI coding agents like Claude Code, enabling context, preferences, and project knowledge to persist across sessions via a libsql-backed SQLite database. It injects project-specific memories at session start and offers on-demand recall tools.
+Hivemind is an open-source platform for deploying and managing collaborative AI agent teams with 40+ built-in tools, 150+ templates, and 13 integrated messaging channels. It emphasizes security with sandboxed environments, vault-encrypted credentials, and zero host machine access.
 
 ## Key Features
-- Persistent memory store for AI agents using libsql-backed SQLite database
-- Automatic session-start context injection with token budget control via `.hivemind.toml`
-- On-demand memory recall, search, and tagging tools (MCP-compatible)
-- Cross-client compatibility with Claude Code, Cursor, Windsurf, OpenCode, Kimi, and Codex
-- Optional dashboard and REST API for memory management and visualization
+- 40+ built-in tools (shell, browser, Jira, email, cloud storage, MCP client, etc.)
+- 150+ agent templates across 18 categories for rapid deployment
+- 13 integrated messaging channels (Slack, Discord, WhatsApp, etc.) with per-agent bot identities
+- Fully sandboxed environments with vault-encrypted credentials and zero host access
+- Agent self-evolution and coding agent delegation (Claude Code, Codex, Aider)
 
 ## Why It Matters for RAG Builders
-HiveMind enables AI coding agents to retain project-specific context and preferences across sessions without token overhead, significantly improving continuity and efficiency in RAG workflows.
+Hivemind provides a secure, scalable foundation for deploying collaborative AI agent teams with real tools and messaging integrations, eliminating the risks of unchecked agent permissions while enabling seamless multi-agent workflows.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ruby
+Automated review identified **Ruby** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### libsql
-Automated review identified **libsql** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rails
+Automated review identified **Rails** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker Compose
+Automated review identified **Docker Compose** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Redis
+Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Playwright
+Automated review identified **Playwright** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Anthropic SDK
+Automated review identified **Anthropic SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI SDK
+Automated review identified **OpenAI SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Google Gemini SDK
+Automated review identified **Google Gemini SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebSockets
+Automated review identified **WebSockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bun
-Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Systemd/launchd (for service management)
-Automated review identified **Systemd/launchd (for service management)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST APIs
+Automated review identified **REST APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

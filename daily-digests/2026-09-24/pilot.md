@@ -1,75 +1,67 @@
 ---
-title: qf-studio/pilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Go
-- Claude Code CLI
-- Telegram Bot API
-- GitHub API
-- Linear/Jira/Asana APIs
-- SQLite
-- OpenAI API (optional)
-- Anthropic API
-- Bedrock/Vertex AI (optional)
+title: "sockulags/pilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Ollama", "Next.js", "WebSocket", "Windows UI Automation", "Set-of-Marks", "Embeddings (nomic-embed-text)", "LM Studio", "llama.cpp", "OpenAI API (optional)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous developer
-- AI agent
-- CI/CD automation
-- issue resolution
-- multi-platform integration
-source: https://github.com/qf-studio/pilot
-stars: 664
-language: Go
-last_updated: '2026-09-03T15:30:36Z'
-discovered_at: '2026-09-03T15:36:54Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["local-first", "AI agent", "grounded verification", "Windows automation", "multi-model routing"]
+source: "https://github.com/sockulags/pilot"
+stars: 1
+language: "Python"
+last_updated: "2026-08-01T22:44:30Z"
+discovered_at: "2026-08-01T22:54:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Pilot is an AI-powered autonomous developer that automates ticket resolution by planning, coding, testing, and opening pull requests directly from issue trackers like GitHub, Linear, or Jira. It operates as a background agent or via a Telegram bot, handling tasks from prioritization to PR merging.
+Pilot is a local-first, tool-using AI agent for Windows that executes and verifies grounded desktop and web tasks. It operates on local Ollama models by default, interacts via natural language, and ensures answers are derived only from gathered evidence.
 
 ## Key Features
-- Autonomous ticket resolution from issue trackers (GitHub, Linear, Jira, etc.) with minimal human input
-- Multi-modal interaction via Telegram bot (text, voice, images) for natural task delegation
-- Autopilot modes (dev/stage/prod) with configurable autonomy levels and cost controls
-- Self-review and quality gates (testing, linting, build validation) before PR submission
-- Cross-project memory, epic decomposition, and sequential execution to prevent conflicts
+- Local-first execution with Ollama models by default, supporting privacy and zero cost
+- Tool-using capabilities including file operations, shell commands, web research, and screen perception
+- Evidence-based grounding: answers are derived only from verified, gathered data
+- Layered safety model with fail-closed mechanisms for network, command risk, prompt injection, and runaway guards
+- Runtime model selection and per-role model assignment for flexible deployment
 
 ## Why It Matters for RAG Builders
-Pilot automates the entire software development lifecycle for routine tasks, drastically reducing manual effort and accelerating delivery for RAG/AI stack builders.
+Pilot provides a robust, local-first framework for building AI agents that can safely interact with desktop and web environments while ensuring grounded, verifiable outputs.
 
 ## Tech Stack Deep Dive
-### Go
-Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code CLI
-Automated review identified **Claude Code CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Telegram Bot API
-Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GitHub API
-Automated review identified **GitHub API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Next.js
+Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Linear/Jira/Asana APIs
-Automated review identified **Linear/Jira/Asana APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebSocket
+Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows UI Automation
+Automated review identified **Windows UI Automation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Set-of-Marks
+Automated review identified **Set-of-Marks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Embeddings (nomic-embed-text)
+Automated review identified **Embeddings (nomic-embed-text)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LM Studio
+Automated review identified **LM Studio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### llama.cpp
+Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### OpenAI API (optional)
 Automated review identified **OpenAI API (optional)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Anthropic API
-Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Bedrock/Vertex AI (optional)
-Automated review identified **Bedrock/Vertex AI (optional)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

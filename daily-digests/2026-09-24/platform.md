@@ -1,71 +1,73 @@
 ---
-title: food-near-me/platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Next.js
-- Model Context Protocol (MCP)
-- Supabase
-- PostGIS
-- Menu Protocol
-- JSON-RPC
-- Node.js
+title: "GCTRL-TECH/platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Python", "React", "Neo4j", "Qdrant", "PostgreSQL", "Redis", "Ollama", "Docker Compose", "Axum", "FastAPI", "GLiNER", "Qwen"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- restaurant discovery
-- Menu Protocol
-- AI-native search
-- agent orchestration
-source: https://github.com/food-near-me/platform
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["knowledge graph", "self-hosted", "enterprise RAG", "access control", "local inference"]
+source: "https://github.com/GCTRL-TECH/platform"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-15T18:04:43Z'
-discovered_at: '2026-07-15T18:06:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T11:44:16Z"
+discovered_at: "2026-07-12T11:58:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Food Near Me is an MCP server providing AI-native restaurant discovery with a three-tier search system (verified, menu-indexed, discovered) and structured menu validation via the Menu Protocol. It enables agents to search restaurants, retrieve menus, and validate dietary constraints without requiring API keys.
+GCTRL is an enterprise-grade, self-hosted knowledge infrastructure platform that transforms scattered data into a governed knowledge graph. It enables LLMs and agents to interact with structured, access-controlled data entirely on-premise, ensuring data privacy and compliance.
 
 ## Key Features
-- Three-tier restaurant search (verified → menu-indexed → discovered) with trust metadata
-- Menu Protocol v1.0 integration for structured menu data and dietary/allergen flags
-- 8 MCP tools, 4 resources, and 3 prompts for agent-guided workflows
-- No API key required for beta access with production endpoint
-- Supports agent discovery via standardized MCP manifests and skill files
+- Graph-native knowledge extraction and fusion with entity resolution and provenance tracking
+- Enterprise-grade access control with per-element clearance and multi-project isolation
+- 100% self-hosted and GDPR-compliant with local inference and browser-memory sessions
+- MCP integration for durable, governed memory in agents like Claude Code and Cursor
+- Automated graph maintenance with heat/decay scoring, semantic deduplication, and auto-curated wiki
 
 ## Why It Matters for RAG Builders
-It provides a standardized, owner-verified menu data layer for AI agents, enabling reliable restaurant discovery and dietary-constrained menu retrieval without relying on scraped or aggregator data.
+GCTRL provides a critical foundation for RAG systems by enabling structured, governed, and privacy-preserving knowledge management that integrates seamlessly with LLMs and agents.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Supabase
-Automated review identified **Supabase** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Neo4j
+Automated review identified **Neo4j** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostGIS
-Automated review identified **PostGIS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Qdrant
+Automated review identified **Qdrant** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Menu Protocol
-Automated review identified **Menu Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON-RPC
-Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Redis
+Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker Compose
+Automated review identified **Docker Compose** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Axum
+Automated review identified **Axum** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### GLiNER
+Automated review identified **GLiNER** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Qwen
+Automated review identified **Qwen** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

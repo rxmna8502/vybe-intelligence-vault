@@ -1,33 +1,19 @@
 ---
-title: icoretech/codex-pooler
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Elixir
-- Erlang
-- Docker
-- Kubernetes
-- PostgreSQL
-- Redis
-- WebSockets
-- HTTP/REST
-- SMTP
+title: "icoretech/codex-pooler"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Elixir", "Erlang", "Docker", "Kubernetes", "PostgreSQL", "Redis", "WebSockets", "HTTP/REST", "SMTP"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- gateway
-- self-hosted
-- Codex
-- OpenAI-compatible
-- multi-tenant
-source: https://github.com/icoretech/codex-pooler
+deployment_complexity: "Medium"
+tags: ["gateway", "self-hosted", "Codex", "OpenAI-compatible", "multi-tenant"]
+source: "https://github.com/icoretech/codex-pooler"
 stars: 167
-language: Elixir
-last_updated: '2026-09-01T02:43:50Z'
-discovered_at: '2026-09-01T02:52:43Z'
-evaluated_by: mistral-small-latest
+language: "Elixir"
+last_updated: "2026-09-01T02:43:50Z"
+discovered_at: "2026-09-01T02:52:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

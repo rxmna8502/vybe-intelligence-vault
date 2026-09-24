@@ -1,67 +1,46 @@
 ---
-title: weather-mcp/weather-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- NOAA API
-- Open-Meteo API
-- GitHub Actions
-- Vitest
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- weather data
-- real-time API
-- AI assistant integration
-- open-source
-source: https://github.com/weather-mcp/weather-mcp
-stars: 25
-language: TypeScript
-last_updated: '2026-07-17T18:04:34Z'
-discovered_at: '2026-07-17T18:05:10Z'
-evaluated_by: mistral-small-latest
+title: "gisaf22/weather-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "Open-Meteo API", "Databricks"]
+quality_score: 5
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["weather", "FastMCP", "Databricks", "agent-integration", "real-time data"]
+source: "https://github.com/gisaf22/weather-mcp"
+stars: 0
+language: "Python"
+last_updated: "2026-08-09T18:38:50Z"
+discovered_at: "2026-08-09T18:43:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Model Context Protocol (MCP) server providing 17 free, open-source tools for real-time and historical weather data, alerts, air quality, marine conditions, and safety hazards. Built on public APIs like NOAA and Open-Meteo, it integrates seamlessly with AI assistants (Claude, Cursor, etc.) without requiring API keys or signups.
+A FastMCP-based weather server designed to integrate with Databricks Agent Bricks, providing real-time weather data powered by Open-Meteo. It enables AI agents to fetch weather information dynamically.
 
 ## Key Features
-- 17 tools covering forecasts, alerts, air quality, marine conditions, lightning, wildfires, and historical data (1940+)
-- Zero API keys, zero signup, and zero cost—built entirely on free public APIs
-- Smart source selection (NOAA for US, Open-Meteo for global) with built-in caching for performance
-- Privacy-respecting with direct API calls from user's machine to public sources
-- Configurable tool presets, units (imperial/metric), and saved locations for personalized queries
+- Provides real-time weather data via Open-Meteo API
+- Built on FastMCP for MCP (Model Context Protocol) compliance
+- Designed for seamless integration with Databricks Agent Bricks
+- Lightweight and modular architecture
+- Supports dynamic weather queries for AI agents
 
 ## Why It Matters for RAG Builders
-It enables AI assistants to fetch real-time and historical weather data instantly without external dependencies, making it essential for RAG systems requiring contextual environmental insights.
+It enables AI agents to fetch real-time weather data efficiently, enhancing context-aware decision-making in applications.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### NOAA API
-Automated review identified **NOAA API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastMCP
+Automated review identified **FastMCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Open-Meteo API
 Automated review identified **Open-Meteo API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GitHub Actions
-Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Vitest
-Automated review identified **Vitest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Databricks
+Automated review identified **Databricks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

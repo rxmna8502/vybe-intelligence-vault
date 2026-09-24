@@ -1,34 +1,19 @@
 ---
-title: deankuo/constitution_llm
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Python
-- Google Gemini API
-- OpenAI GPT
-- Anthropic Claude
-- AWS Bedrock
-- LangSmith
-- Serper API
-- Wikipedia API
-- DuckDuckGo API
-- CSV/JSONL data processing
+title: "deankuo/constitution_llm"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Google Gemini API", "OpenAI GPT", "Anthropic Claude", "AWS Bedrock", "LangSmith", "Serper API", "Wikipedia API", "DuckDuckGo API", "CSV/JSONL data processing"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- political science
-- LLM pipeline
-- historical analysis
-- batch processing
-- verification
-source: https://github.com/deankuo/constitution_llm
+deployment_complexity: "Medium"
+tags: ["political science", "LLM pipeline", "historical analysis", "batch processing", "verification"]
+source: "https://github.com/deankuo/constitution_llm"
 stars: 2
-language: Python
-last_updated: '2026-08-06T03:18:17Z'
-discovered_at: '2026-08-06T03:18:33Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T03:18:17Z"
+discovered_at: "2026-08-06T03:18:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

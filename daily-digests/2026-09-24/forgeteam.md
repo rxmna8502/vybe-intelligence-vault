@@ -1,32 +1,19 @@
 ---
-title: chengxuniucode/ForgeTeam
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Shell
-- Markdown
-- YAML
-- Python
-- TypeScript
-- Java
-- Go
-- Rust
+title: "chengxuniucode/ForgeTeam"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Shell", "Markdown", "YAML", "Python", "TypeScript", "Java", "Go", "Rust"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI coding framework
-- agent workflow
-- zero-dependency
-- multi-AI integration
-- code quality automation
-source: https://github.com/chengxuniucode/ForgeTeam
+deployment_complexity: "Low"
+tags: ["AI coding framework", "agent workflow", "zero-dependency", "multi-AI integration", "code quality automation"]
+source: "https://github.com/chengxuniucode/ForgeTeam"
 stars: 0
-language: Shell
-last_updated: '2026-07-18T11:00:40Z'
-discovered_at: '2026-07-18T11:02:00Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-18T11:00:40Z"
+discovered_at: "2026-07-18T11:02:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

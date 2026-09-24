@@ -1,32 +1,19 @@
 ---
-title: whiteknightonhorse/APIbase
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Docker
-- x402 (USDC micropayments)
-- MPP (Machine Payments Protocol)
-- REST API
-- WebSockets
-- Server-Sent Events (SSE)
+title: "whiteknightonhorse/APIbase"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Docker", "x402 (USDC micropayments)", "MPP (Machine Payments Protocol)", "REST API", "WebSockets", "Server-Sent Events (SSE)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- API aggregation
-- pay-per-call
-- AI agent tools
-- micropayments
-source: https://github.com/whiteknightonhorse/APIbase
+deployment_complexity: "Medium"
+tags: ["MCP server", "API aggregation", "pay-per-call", "AI agent tools", "micropayments"]
+source: "https://github.com/whiteknightonhorse/APIbase"
 stars: 10
-language: TypeScript
-last_updated: '2026-09-01T09:01:24Z'
-discovered_at: '2026-09-01T09:11:05Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T09:01:24Z"
+discovered_at: "2026-09-01T09:11:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

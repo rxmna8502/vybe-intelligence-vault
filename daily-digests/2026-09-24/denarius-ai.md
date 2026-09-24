@@ -1,32 +1,19 @@
 ---
-title: ruialexrib/denarius-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- .NET 9
-- ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server 2022
-- Mistral AI
-- Docker Compose
-- Alpha Vantage API
-- xUnit
+title: "ruialexrib/denarius-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: [".NET 9", "ASP.NET Core MVC", "Entity Framework Core", "SQL Server 2022", "Mistral AI", "Docker Compose", "Alpha Vantage API", "xUnit"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- finance management
-- double-entry accounting
-- AI financial assistant
-- portfolio tracking
-- budgeting
-source: https://github.com/ruialexrib/denarius-ai
+deployment_complexity: "Medium"
+tags: ["finance management", "double-entry accounting", "AI financial assistant", "portfolio tracking", "budgeting"]
+source: "https://github.com/ruialexrib/denarius-ai"
 stars: 0
-language: C#
-last_updated: '2026-09-03T15:24:40Z'
-discovered_at: '2026-09-03T15:38:40Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-09-03T15:24:40Z"
+discovered_at: "2026-09-03T15:38:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: qfoldit/UNIGINE-TOOLBELT
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- C#
-- Python
-- MCP (Model Context Protocol)
-- HTTP
-- UNIGINE 2 SDK
-- AGPL-3.0
+title: "qfoldit/UNIGINE-TOOLBELT"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C#", "Python", "MCP (Model Context Protocol)", "HTTP", "UNIGINE 2 SDK", "AGPL-3.0"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- UNIGINE 2
-- MCP Bridge
-- AI Automation
-- Editor Tools
-- Composite Workflows
-source: https://github.com/qfoldit/UNIGINE-TOOLBELT
+deployment_complexity: "Medium"
+tags: ["UNIGINE 2", "MCP Bridge", "AI Automation", "Editor Tools", "Composite Workflows"]
+source: "https://github.com/qfoldit/UNIGINE-TOOLBELT"
 stars: 5
-language: C#
-last_updated: '2026-08-07T06:03:30Z'
-discovered_at: '2026-08-07T06:13:25Z'
-evaluated_by: mistral-small-latest
+language: "C#"
+last_updated: "2026-08-07T06:03:30Z"
+discovered_at: "2026-08-07T06:13:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

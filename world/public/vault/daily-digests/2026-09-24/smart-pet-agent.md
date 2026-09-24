@@ -1,35 +1,19 @@
 ---
-title: realstreetsmartnyc/smart-pet-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- TypeScript
-- Electron
-- Tauri
-- Rust
-- SQLite
-- TTS/STT
-- AI Model APIs (Ollama, OpenAI, Anthropic, etc.)
-- CLI/TUI Frameworks
-- WebView
-- React
-- Node.js
+title: "realstreetsmartnyc/smart-pet-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Electron", "Tauri", "Rust", "SQLite", "TTS/STT", "AI Model APIs (Ollama, OpenAI, Anthropic, etc.)", "CLI/TUI Frameworks", "WebView", "React", "Node.js"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI companion
-- local-first
-- agentic reasoning
-- desktop pet
-- multi-surface
-source: https://github.com/realstreetsmartnyc/smart-pet-agent
+deployment_complexity: "Medium"
+tags: ["AI companion", "local-first", "agentic reasoning", "desktop pet", "multi-surface"]
+source: "https://github.com/realstreetsmartnyc/smart-pet-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-03T02:11:15Z'
-discovered_at: '2026-09-03T02:19:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T02:11:15Z"
+discovered_at: "2026-09-03T02:19:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

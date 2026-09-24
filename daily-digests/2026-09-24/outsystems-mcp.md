@@ -1,30 +1,19 @@
 ---
-title: OutSystems/outsystems-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-24
-tech_stack:
-- Model Context Protocol (MCP)
-- OutSystems Platform
-- OAuth 2.0
-- HTTP
-- JavaScript/TypeScript (implied by MCP server)
-- Node.js (implied by MCP tooling)
+title: "OutSystems/outsystems-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Model Context Protocol (MCP)", "OutSystems Platform", "OAuth 2.0", "HTTP", "JavaScript/TypeScript (implied by MCP server)", "Node.js (implied by MCP tooling)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- OutSystems integration
-- AI assistant plugin
-- OAuth authentication
-- DevOps automation
-source: https://github.com/OutSystems/outsystems-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "OutSystems integration", "AI assistant plugin", "OAuth authentication", "DevOps automation"]
+source: "https://github.com/OutSystems/outsystems-mcp"
 stars: 21
-language: None
-last_updated: '2026-08-06T15:10:16Z'
-discovered_at: '2026-08-06T15:20:14Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T15:10:16Z"
+discovered_at: "2026-08-06T15:20:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: jhondados/vertex-ai-multi-agent-framework
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-24
-tech_stack:
-- Python
-- Google Vertex AI
-- Gemini 1.5 Pro
-- Gemini Flash
-- Redis
-- BigQuery
-- Firestore
-- ReAct
-- Chain-of-Thought
-- Tree-of-Thought
+title: "jhondados/vertex-ai-multi-agent-framework"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Google Vertex AI", "Gemini 1.5 Pro", "Gemini Flash", "Redis", "BigQuery", "Firestore", "ReAct", "Chain-of-Thought", "Tree-of-Thought"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- multi-agent systems
-- autonomous agents
-- Vertex AI
-- agent orchestration
-- production AI
-source: https://github.com/jhondados/vertex-ai-multi-agent-framework
+deployment_complexity: "High"
+tags: ["multi-agent systems", "autonomous agents", "Vertex AI", "agent orchestration", "production AI"]
+source: "https://github.com/jhondados/vertex-ai-multi-agent-framework"
 stars: 0
-language: HTML
-last_updated: '2026-08-05T17:20:30Z'
-discovered_at: '2026-08-05T18:24:54Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-05T17:20:30Z"
+discovered_at: "2026-08-05T18:24:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
