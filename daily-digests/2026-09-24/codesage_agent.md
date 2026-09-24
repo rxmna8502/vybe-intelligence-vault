@@ -1,19 +1,38 @@
 ---
-title: "AyaanHussain1/CodeSage_Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["FastAPI", "LangChain", "OpenAI", "FAISS", "LangChain", "youtube-transcript-api", "deep-translator", "pypdf", "python-docx", "Electron", "Vanilla HTML/CSS/JS", "highlight.js", "Railway", "Vercel"]
+title: AyaanHussain1/CodeSage_Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- FastAPI
+- LangChain
+- OpenAI
+- FAISS
+- LangChain
+- youtube-transcript-api
+- deep-translator
+- pypdf
+- python-docx
+- Electron
+- Vanilla HTML/CSS/JS
+- highlight.js
+- Railway
+- Vercel
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "YouTube Q&A", "Codebase Assistant", "Multi-Platform Agent", "Vector Search"]
-source: "https://github.com/AyaanHussain1/CodeSage_Agent"
+deployment_complexity: Medium
+tags:
+- RAG
+- YouTube Q&A
+- Codebase Assistant
+- Multi-Platform Agent
+- Vector Search
+source: https://github.com/AyaanHussain1/CodeSage_Agent
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T17:33:46Z"
-discovered_at: "2026-08-07T17:53:09Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T17:33:46Z'
+discovered_at: '2026-08-07T17:53:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "govctl-org/govctl"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TOML", "CLI", "Git", "YAML", "JSON", "TUI"]
+title: govctl-org/govctl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- TOML
+- CLI
+- Git
+- YAML
+- JSON
+- TUI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["governance", "AI workflows", "RFCs", "ADRs", "verification guards"]
-source: "https://github.com/govctl-org/govctl"
+deployment_complexity: Medium
+tags:
+- governance
+- AI workflows
+- RFCs
+- ADRs
+- verification guards
+source: https://github.com/govctl-org/govctl
 stars: 237
-language: "Rust"
-last_updated: "2026-07-15T16:18:16Z"
-discovered_at: "2026-07-15T16:20:53Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-15T16:18:16Z'
+discovered_at: '2026-07-15T16:20:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

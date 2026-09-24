@@ -1,19 +1,33 @@
 ---
-title: "Gr0x01/koda"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "React", "TypeScript", "Tailwind CSS", "Monaco Editor", "xterm.js", "node-pty", "Claude CLI", "ChatGPT CLI"]
+title: Gr0x01/koda
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Tailwind CSS
+- Monaco Editor
+- xterm.js
+- node-pty
+- Claude CLI
+- ChatGPT CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "local-first", "subscription-based", "guardrails", "desktop development"]
-source: "https://github.com/Gr0x01/koda"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- local-first
+- subscription-based
+- guardrails
+- desktop development
+source: https://github.com/Gr0x01/koda
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-03T08:26:19Z"
-discovered_at: "2026-09-03T08:33:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T08:26:19Z'
+discovered_at: '2026-09-03T08:33:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

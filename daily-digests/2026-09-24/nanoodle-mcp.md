@@ -1,19 +1,30 @@
 ---
-title: "nanoodlecom/nanoodle-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "JSON-RPC 2.0", "Nano cryptocurrency", "NanoGPT API"]
+title: nanoodlecom/nanoodle-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- JSON-RPC 2.0
+- Nano cryptocurrency
+- NanoGPT API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "workflow automation", "media pipeline", "NanoGPT integration", "agent tools"]
-source: "https://github.com/nanoodlecom/nanoodle-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- workflow automation
+- media pipeline
+- NanoGPT integration
+- agent tools
+source: https://github.com/nanoodlecom/nanoodle-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-18T18:59:17Z"
-discovered_at: "2026-07-18T19:02:40Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T18:59:17Z'
+discovered_at: '2026-07-18T19:02:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

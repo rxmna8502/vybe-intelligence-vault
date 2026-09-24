@@ -1,19 +1,30 @@
 ---
-title: "webkubor/kyvault"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "AES-256-GCM", "SHA-256", "cryptography", "CLI", "JSON"]
+title: webkubor/kyvault
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- AES-256-GCM
+- SHA-256
+- cryptography
+- CLI
+- JSON
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["secret management", "AI security", "credential encryption", "local storage", "alias injection"]
-source: "https://github.com/webkubor/kyvault"
+deployment_complexity: Low
+tags:
+- secret management
+- AI security
+- credential encryption
+- local storage
+- alias injection
+source: https://github.com/webkubor/kyvault
 stars: 3
-language: "Python"
-last_updated: "2026-08-07T06:07:57Z"
-discovered_at: "2026-08-07T06:12:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T06:07:57Z'
+discovered_at: '2026-08-07T06:12:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

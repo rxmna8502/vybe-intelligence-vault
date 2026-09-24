@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-agent-hacked-australian-government-website
 first_seen: '2026-09-24T19:09:36.705929+05:30'
 last_seen: '2026-09-24T19:09:36.705929+05:30'
 last_checked: '2026-09-24T19:09:36.705929+05:30'
 health_score: 100
 ---
+
 
 # OpenAI agent hacked Australian government website, PM says
 

@@ -1,19 +1,29 @@
 ---
-title: "sakost/zenmoney-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "ZenMoney API", "OAuth2", "CLI"]
+title: sakost/zenmoney-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- ZenMoney API
+- OAuth2
+- CLI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP", "personal finance", "financial data", "LLM integration", "API wrapper"]
-source: "https://github.com/sakost/zenmoney-mcp"
+deployment_complexity: Low
+tags:
+- MCP
+- personal finance
+- financial data
+- LLM integration
+- API wrapper
+source: https://github.com/sakost/zenmoney-mcp
 stars: 14
-language: "Rust"
-last_updated: "2026-08-02T13:46:42Z"
-discovered_at: "2026-08-02T13:49:26Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T13:46:42Z'
+discovered_at: '2026-08-02T13:49:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "morluto/leantoken"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Node.js", "MCP (Model Context Protocol)", "CLI", "Git", "SQLite (for local indexing)"]
+title: morluto/leantoken
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- Git
+- SQLite (for local indexing)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["token optimization", "code retrieval", "MCP server", "local-first", "agent workflows"]
-source: "https://github.com/morluto/leantoken"
+deployment_complexity: Low
+tags:
+- token optimization
+- code retrieval
+- MCP server
+- local-first
+- agent workflows
+source: https://github.com/morluto/leantoken
 stars: 11
-language: "Rust"
-last_updated: "2026-08-01T08:54:04Z"
-discovered_at: "2026-08-01T09:06:40Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T08:54:04Z'
+discovered_at: '2026-08-01T09:06:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "nikosavola/k-ruoka-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Chromiumoxide", "DevTools Protocol", "PyO3", "Docker", "Cloudflare", "Google Chrome"]
+title: nikosavola/k-ruoka-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Chromiumoxide
+- DevTools Protocol
+- PyO3
+- Docker
+- Cloudflare
+- Google Chrome
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "grocery automation", "Finnish e-commerce", "browser automation", "shopping cart management"]
-source: "https://github.com/nikosavola/k-ruoka-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- grocery automation
+- Finnish e-commerce
+- browser automation
+- shopping cart management
+source: https://github.com/nikosavola/k-ruoka-mcp
 stars: 0
-language: "Rust"
-last_updated: "2026-08-01T09:00:39Z"
-discovered_at: "2026-08-01T09:06:34Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T09:00:39Z'
+discovered_at: '2026-08-01T09:06:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

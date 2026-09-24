@@ -1,19 +1,28 @@
 ---
-title: "iadr-dev/Miru"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "AI Agents", "Natural Language Processing", "Financial Data APIs"]
+title: iadr-dev/Miru
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- AI Agents
+- Natural Language Processing
+- Financial Data APIs
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Taiwan stock analysis", "ETF analysis", "financial insights", "AI agent", "market data"]
-source: "https://github.com/iadr-dev/Miru"
+deployment_complexity: Medium
+tags:
+- Taiwan stock analysis
+- ETF analysis
+- financial insights
+- AI agent
+- market data
+source: https://github.com/iadr-dev/Miru
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T08:14:28Z"
-discovered_at: "2026-08-07T08:16:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T08:14:28Z'
+discovered_at: '2026-08-07T08:16:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

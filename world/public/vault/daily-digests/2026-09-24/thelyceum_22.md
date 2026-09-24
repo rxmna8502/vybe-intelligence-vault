@@ -1,19 +1,32 @@
 ---
-title: "Julie22-yaerin/Thelyceum_22"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "SQLite", "Lemon Squeezy (payment processing)", "JWT", "GitHub Actions (CI/CD)"]
+title: Julie22-yaerin/Thelyceum_22
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- SQLite
+- Lemon Squeezy (payment processing)
+- JWT
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["circuit breakers", "AI safety", "agent monitoring", "token optimization", "real-time validation"]
-source: "https://github.com/Julie22-yaerin/Thelyceum_22"
+deployment_complexity: Medium
+tags:
+- circuit breakers
+- AI safety
+- agent monitoring
+- token optimization
+- real-time validation
+source: https://github.com/Julie22-yaerin/Thelyceum_22
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-09T07:49:25Z"
-discovered_at: "2026-08-09T07:58:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T07:49:25Z'
+discovered_at: '2026-08-09T07:58:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

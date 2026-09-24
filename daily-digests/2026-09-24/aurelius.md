@@ -1,19 +1,30 @@
 ---
-title: "Blysspeak/aurelius"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "SQLite", "MCP (Model Context Protocol)", "Brave Search API", "WebAssembly (for UI)", "Git hooks"]
+title: Blysspeak/aurelius
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- SQLite
+- MCP (Model Context Protocol)
+- Brave Search API
+- WebAssembly (for UI)
+- Git hooks
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["knowledge graph", "MCP server", "self-hosted", "task management", "AI memory"]
-source: "https://github.com/Blysspeak/aurelius"
+deployment_complexity: Medium
+tags:
+- knowledge graph
+- MCP server
+- self-hosted
+- task management
+- AI memory
+source: https://github.com/Blysspeak/aurelius
 stars: 0
-language: "Rust"
-last_updated: "2026-08-01T22:50:16Z"
-discovered_at: "2026-08-01T22:55:00Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T22:50:16Z'
+discovered_at: '2026-08-01T22:55:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

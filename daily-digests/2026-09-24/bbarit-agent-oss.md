@@ -1,19 +1,30 @@
 ---
-title: "bbarit/bbarit-agent-oss"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "LLM APIs (Anthropic, OpenAI, Google, etc.)", "Terminal UI (TUI)", "Semantic code search", "MCP (Model Context Protocol) servers", "Ollama (local models)"]
+title: bbarit/bbarit-agent-oss
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- LLM APIs (Anthropic, OpenAI, Google, etc.)
+- Terminal UI (TUI)
+- Semantic code search
+- MCP (Model Context Protocol) servers
+- Ollama (local models)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding agent", "terminal-based", "multi-provider", "self-hosted", "Rust"]
-source: "https://github.com/bbarit/bbarit-agent-oss"
+deployment_complexity: Medium
+tags:
+- AI coding agent
+- terminal-based
+- multi-provider
+- self-hosted
+- Rust
+source: https://github.com/bbarit/bbarit-agent-oss
 stars: 29
-language: "Rust"
-last_updated: "2026-07-16T23:53:41Z"
-discovered_at: "2026-07-16T23:58:16Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-16T23:53:41Z'
+discovered_at: '2026-07-16T23:58:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

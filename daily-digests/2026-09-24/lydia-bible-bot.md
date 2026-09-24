@@ -1,19 +1,34 @@
 ---
-title: "fidpa/lydia-bible-bot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Claude Agent SDK", "Model Context Protocol (MCP)", "whisper.cpp", "grammY", "SQLite", "Zod", "Pandoc", "WeasyPrint"]
+title: fidpa/lydia-bible-bot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Bun
+- Claude Agent SDK
+- Model Context Protocol (MCP)
+- whisper.cpp
+- grammY
+- SQLite
+- Zod
+- Pandoc
+- WeasyPrint
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Bible Assistant", "Telegram Bot", "Security Hardening", "MCP Integration", "Voice Transcription"]
-source: "https://github.com/fidpa/lydia-bible-bot"
+deployment_complexity: Medium
+tags:
+- AI Bible Assistant
+- Telegram Bot
+- Security Hardening
+- MCP Integration
+- Voice Transcription
+source: https://github.com/fidpa/lydia-bible-bot
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T09:05:30Z"
-discovered_at: "2026-08-01T09:06:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T09:05:30Z'
+discovered_at: '2026-08-01T09:06:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

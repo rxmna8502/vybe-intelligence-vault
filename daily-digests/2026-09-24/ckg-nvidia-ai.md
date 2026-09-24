@@ -1,19 +1,30 @@
 ---
-title: "Yarmoluk/ckg-nvidia-ai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Ollama", "Qwen2.5", "Graph Traversal", "PyPI"]
+title: Yarmoluk/ckg-nvidia-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Ollama
+- Qwen2.5
+- Graph Traversal
+- PyPI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["Knowledge Graph", "MCP Server", "NVIDIA AI Stack", "Dependency Mapping", "Context Efficiency"]
-source: "https://github.com/Yarmoluk/ckg-nvidia-ai"
+deployment_complexity: Low
+tags:
+- Knowledge Graph
+- MCP Server
+- NVIDIA AI Stack
+- Dependency Mapping
+- Context Efficiency
+source: https://github.com/Yarmoluk/ckg-nvidia-ai
 stars: 3
-language: "HTML"
-last_updated: "2026-07-10T16:23:18Z"
-discovered_at: "2026-07-10T16:24:21Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-10T16:23:18Z'
+discovered_at: '2026-07-10T16:24:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "fnobbe/crashtestyourstrategy-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "HTTP/Streamable Transport", "JSON Schema", "REST API", "Python (implied by MCP server implementation)"]
+title: fnobbe/crashtestyourstrategy-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Model Context Protocol (MCP)
+- HTTP/Streamable Transport
+- JSON Schema
+- REST API
+- Python (implied by MCP server implementation)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP server", "portfolio stress testing", "trading strategy diagnostics", "risk assessment", "regime analysis"]
-source: "https://github.com/fnobbe/crashtestyourstrategy-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- portfolio stress testing
+- trading strategy diagnostics
+- risk assessment
+- regime analysis
+source: https://github.com/fnobbe/crashtestyourstrategy-mcp
 stars: 0
-language: "None"
-last_updated: "2026-08-01T08:48:45Z"
-discovered_at: "2026-08-01T09:06:44Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T08:48:45Z'
+discovered_at: '2026-08-01T09:06:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

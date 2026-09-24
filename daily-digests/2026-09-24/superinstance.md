@@ -1,19 +1,40 @@
 ---
-title: "SuperInstance/SuperInstance"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Lua", "Roblox", "DeepInfra", "Cloudflare Workers", "D1 Databases", "Vectorize", "Claude Code", "Qwen", "Hermes", "Gemini", "DeepSeek", "MiniMax", "LLM Pipelines", "Semantic Search", "Procedural Generation"]
+title: SuperInstance/SuperInstance
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Lua
+- Roblox
+- DeepInfra
+- Cloudflare Workers
+- D1 Databases
+- Vectorize
+- Claude Code
+- Qwen
+- Hermes
+- Gemini
+- DeepSeek
+- MiniMax
+- LLM Pipelines
+- Semantic Search
+- Procedural Generation
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["multi-agent systems", "self-building AI", "procedural generation", "semantic search", "conservation law"]
-source: "https://github.com/SuperInstance/SuperInstance"
+deployment_complexity: High
+tags:
+- multi-agent systems
+- self-building AI
+- procedural generation
+- semantic search
+- conservation law
+source: https://github.com/SuperInstance/SuperInstance
 stars: 6
-language: "Python"
-last_updated: "2026-08-08T05:42:50Z"
-discovered_at: "2026-08-08T05:46:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T05:42:50Z'
+discovered_at: '2026-08-08T05:46:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

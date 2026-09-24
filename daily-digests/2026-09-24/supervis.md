@@ -1,19 +1,30 @@
 ---
-title: "arikusi/supervis"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "DeepSeek API", "Claude Code", "Textual (TUI framework)", "TOML (configuration)", "Asyncio"]
+title: arikusi/supervis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- DeepSeek API
+- Claude Code
+- Textual (TUI framework)
+- TOML (configuration)
+- Asyncio
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "autonomous coding", "DeepSeek integration", "Claude Code automation", "multi-step task execution"]
-source: "https://github.com/arikusi/supervis"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- autonomous coding
+- DeepSeek integration
+- Claude Code automation
+- multi-step task execution
+source: https://github.com/arikusi/supervis
 stars: 3
-language: "Python"
-last_updated: "2026-08-01T23:51:09Z"
-discovered_at: "2026-08-01T23:57:20Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T23:51:09Z'
+discovered_at: '2026-08-01T23:57:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

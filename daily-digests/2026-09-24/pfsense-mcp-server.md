@@ -1,19 +1,31 @@
 ---
-title: "night4me/pfsense-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "pfSense API", "PyPI", "CI/CD (GitHub Actions)", "CodeQL", "PEP 740 (digital attestations)"]
+title: night4me/pfsense-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- pfSense API
+- PyPI
+- CI/CD (GitHub Actions)
+- CodeQL
+- PEP 740 (digital attestations)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["pfSense", "MCP server", "read-only", "security-first", "network monitoring"]
-source: "https://github.com/night4me/pfsense-mcp-server"
+deployment_complexity: Medium
+tags:
+- pfSense
+- MCP server
+- read-only
+- security-first
+- network monitoring
+source: https://github.com/night4me/pfsense-mcp-server
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T16:29:27Z"
-discovered_at: "2026-08-09T16:38:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T16:29:27Z'
+discovered_at: '2026-08-09T16:38:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

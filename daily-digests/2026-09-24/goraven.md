@@ -1,19 +1,31 @@
 ---
-title: "8treenet/goraven"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "React", "TypeScript", "Vite", "Tailwind CSS", "Docker", "MCP (Model Context Protocol)"]
+title: 8treenet/goraven
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Docker
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["AI Agents", "Self-Hosted", "Team Collaboration", "RAG Integration", "Workflow Automation"]
-source: "https://github.com/8treenet/goraven"
+deployment_complexity: Low
+tags:
+- AI Agents
+- Self-Hosted
+- Team Collaboration
+- RAG Integration
+- Workflow Automation
+source: https://github.com/8treenet/goraven
 stars: 275
-language: "Go"
-last_updated: "2026-08-07T14:15:08Z"
-discovered_at: "2026-08-07T14:18:58Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T14:15:08Z'
+discovered_at: '2026-08-07T14:18:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

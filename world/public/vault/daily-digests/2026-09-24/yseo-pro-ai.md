@@ -1,19 +1,30 @@
 ---
-title: "cociugv/ySEO-PRO-AI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Node.js", "MCP (Model Context Protocol)", "Zod", "YAML/JSON (configuration)"]
+title: cociugv/ySEO-PRO-AI
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- MCP (Model Context Protocol)
+- Zod
+- YAML/JSON (configuration)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SEO automation", "MCP server", "AI-ready optimization", "multilingual SEO", "auto-fix engine"]
-source: "https://github.com/cociugv/ySEO-PRO-AI"
+deployment_complexity: Medium
+tags:
+- SEO automation
+- MCP server
+- AI-ready optimization
+- multilingual SEO
+- auto-fix engine
+source: https://github.com/cociugv/ySEO-PRO-AI
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T22:47:41Z"
-discovered_at: "2026-07-14T22:56:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T22:47:41Z'
+discovered_at: '2026-07-14T22:56:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

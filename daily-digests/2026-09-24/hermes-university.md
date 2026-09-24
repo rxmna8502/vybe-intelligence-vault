@@ -1,19 +1,34 @@
 ---
-title: "AlijonovMukhammaddiyor/hermes-university"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Hermes Agent", "Telegram Bot API", "Google Calendar API", "Obsidian", "DeepSeek (AI model)", "Serper (web search)", "Anki (spaced repetition)", "Git (version control)", "Mermaid (diagrams)"]
+title: AlijonovMukhammaddiyor/hermes-university
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Hermes Agent
+- Telegram Bot API
+- Google Calendar API
+- Obsidian
+- DeepSeek (AI model)
+- Serper (web search)
+- Anki (spaced repetition)
+- Git (version control)
+- Mermaid (diagrams)
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["personalized learning", "AI-driven education", "deterministic grading", "calendar integration", "research-based courses"]
-source: "https://github.com/AlijonovMukhammaddiyor/hermes-university"
+deployment_complexity: Medium
+tags:
+- personalized learning
+- AI-driven education
+- deterministic grading
+- calendar integration
+- research-based courses
+source: https://github.com/AlijonovMukhammaddiyor/hermes-university
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T07:59:40Z"
-discovered_at: "2026-07-15T08:05:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T07:59:40Z'
+discovered_at: '2026-07-15T08:05:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

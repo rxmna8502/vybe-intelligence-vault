@@ -1,19 +1,36 @@
 ---
-title: "Hanan-Abbas/Operonix"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Large Language Models (LLMs)", "Computer Vision", "Ollama", "Groq", "Gemini", "OpenRouter", "ChromaDB", "WebSocket", "Linux", "Sandboxing", "Voice Interface (STT/TTS)"]
+title: Hanan-Abbas/Operonix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Large Language Models (LLMs)
+- Computer Vision
+- Ollama
+- Groq
+- Gemini
+- OpenRouter
+- ChromaDB
+- WebSocket
+- Linux
+- Sandboxing
+- Voice Interface (STT/TTS)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI automation", "desktop agents", "LLM orchestration", "plugin system", "computer vision"]
-source: "https://github.com/Hanan-Abbas/Operonix"
+deployment_complexity: Medium
+tags:
+- AI automation
+- desktop agents
+- LLM orchestration
+- plugin system
+- computer vision
+source: https://github.com/Hanan-Abbas/Operonix
 stars: 1
-language: "Python"
-last_updated: "2026-09-03T15:30:00Z"
-discovered_at: "2026-09-03T15:37:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:30:00Z'
+discovered_at: '2026-09-03T15:37:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "paradedb/agent-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Shell", "PostgreSQL", "BM25", "Full-text search", "AI agent integration"]
+title: paradedb/agent-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Shell
+- PostgreSQL
+- BM25
+- Full-text search
+- AI agent integration
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agent skills", "PostgreSQL search", "BM25", "documentation retrieval", "Elasticsearch alternative"]
-source: "https://github.com/paradedb/agent-skills"
+deployment_complexity: Low
+tags:
+- AI agent skills
+- PostgreSQL search
+- BM25
+- documentation retrieval
+- Elasticsearch alternative
+source: https://github.com/paradedb/agent-skills
 stars: 8
-language: "Shell"
-last_updated: "2026-07-20T02:29:05Z"
-discovered_at: "2026-07-20T02:45:03Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-20T02:29:05Z'
+discovered_at: '2026-07-20T02:45:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

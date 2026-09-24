@@ -1,19 +1,31 @@
 ---
-title: "Stranmor/opencode-mem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "PostgreSQL", "pgvector", "MCP (Model Context Protocol)", "Axum (HTTP server)", "ONNX (embeddings)", "OpenAI-compatible API"]
+title: Stranmor/opencode-mem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- PostgreSQL
+- pgvector
+- MCP (Model Context Protocol)
+- Axum (HTTP server)
+- ONNX (embeddings)
+- OpenAI-compatible API
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["memory", "MCP server", "PostgreSQL", "vector search", "hierarchical summaries"]
-source: "https://github.com/Stranmor/opencode-mem"
+deployment_complexity: Medium
+tags:
+- memory
+- MCP server
+- PostgreSQL
+- vector search
+- hierarchical summaries
+source: https://github.com/Stranmor/opencode-mem
 stars: 3
-language: "Rust"
-last_updated: "2026-08-08T23:19:18Z"
-discovered_at: "2026-08-08T23:31:41Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T23:19:18Z'
+discovered_at: '2026-08-08T23:31:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

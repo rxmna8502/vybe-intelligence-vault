@@ -1,19 +1,32 @@
 ---
-title: "Fromlan/X-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Electron", "Godot 4", "Pi SDK", "Vite", "React", "Node.js", "Electron-Vite"]
+title: Fromlan/X-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Electron
+- Godot 4
+- Pi SDK
+- Vite
+- React
+- Node.js
+- Electron-Vite
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Godot", "Game Development", "Agent Framework", "Desktop Application", "RPC Integration"]
-source: "https://github.com/Fromlan/X-agent"
+deployment_complexity: Medium
+tags:
+- Godot
+- Game Development
+- Agent Framework
+- Desktop Application
+- RPC Integration
+source: https://github.com/Fromlan/X-agent
 stars: 27
-language: "TypeScript"
-last_updated: "2026-09-02T08:14:40Z"
-discovered_at: "2026-09-02T08:21:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:14:40Z'
+discovered_at: '2026-09-02T08:21:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

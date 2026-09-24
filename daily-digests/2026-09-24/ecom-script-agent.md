@@ -1,19 +1,29 @@
 ---
-title: "jin2004-cmd/ecom-script-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "HTML/CSS/JavaScript", "LLM APIs (OpenAI-compatible, Volcano Ark, Doubao)", "Natural Language Processing (NLP)", "Unit Testing (unittest)"]
+title: jin2004-cmd/ecom-script-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- HTML/CSS/JavaScript
+- LLM APIs (OpenAI-compatible, Volcano Ark, Doubao)
+- Natural Language Processing (NLP)
+- Unit Testing (unittest)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["e-commerce automation", "content generation", "AIGC workflow", "compliance engine", "script templating"]
-source: "https://github.com/jin2004-cmd/ecom-script-agent"
+deployment_complexity: Low
+tags:
+- e-commerce automation
+- content generation
+- AIGC workflow
+- compliance engine
+- script templating
+source: https://github.com/jin2004-cmd/ecom-script-agent
 stars: 1
-language: "None"
-last_updated: "2026-09-02T15:47:08Z"
-discovered_at: "2026-09-02T15:50:39Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-02T15:47:08Z'
+discovered_at: '2026-09-02T15:50:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

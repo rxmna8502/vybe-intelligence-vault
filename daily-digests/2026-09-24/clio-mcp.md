@@ -1,19 +1,32 @@
 ---
-title: "oktopeak/clio-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth 2.0", "AES-256-GCM", "HTTP/SSE", "stdio", "npm"]
+title: oktopeak/clio-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OAuth 2.0
+- AES-256-GCM
+- HTTP/SSE
+- stdio
+- npm
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "Claude integration", "Clio connector", "legal tech", "compliance"]
-source: "https://github.com/oktopeak/clio-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Claude integration
+- Clio connector
+- legal tech
+- compliance
+source: https://github.com/oktopeak/clio-mcp
 stars: 22
-language: "TypeScript"
-last_updated: "2026-09-02T08:11:41Z"
-discovered_at: "2026-09-02T08:22:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:11:41Z'
+discovered_at: '2026-09-02T08:22:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

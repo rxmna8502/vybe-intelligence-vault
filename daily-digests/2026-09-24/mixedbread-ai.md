@@ -1,19 +1,34 @@
 ---
-title: "api-evangelist/mixedbread-ai"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["REST API", "OpenAPI", "JSON Schema", "Postman Collections", "Python", "Hugging Face", "Multimodal AI", "Vector Databases", "OCR", "OAuth2"]
+title: api-evangelist/mixedbread-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- REST API
+- OpenAPI
+- JSON Schema
+- Postman Collections
+- Python
+- Hugging Face
+- Multimodal AI
+- Vector Databases
+- OCR
+- OAuth2
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Embeddings", "Reranking", "Multimodal Retrieval", "Document Parsing", "Structured Extraction"]
-source: "https://github.com/api-evangelist/mixedbread-ai"
+deployment_complexity: Medium
+tags:
+- Embeddings
+- Reranking
+- Multimodal Retrieval
+- Document Parsing
+- Structured Extraction
+source: https://github.com/api-evangelist/mixedbread-ai
 stars: 1
-language: "None"
-last_updated: "2026-08-08T01:21:44Z"
-discovered_at: "2026-08-08T01:27:52Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T01:21:44Z'
+discovered_at: '2026-08-08T01:27:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "hec-ovi/censurado-web-brain"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker Compose", "Go", "SQLite", "Nginx", "ComfyUI", "MCP (Model Context Protocol)", "ROCm (AMD GPU)", "Telegram Bot API"]
+title: hec-ovi/censurado-web-brain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Docker Compose
+- Go
+- SQLite
+- Nginx
+- ComfyUI
+- MCP (Model Context Protocol)
+- ROCm (AMD GPU)
+- Telegram Bot API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["agentic workflow", "self-hosted newsroom", "LLM orchestration", "editorial pipeline", "MCP server"]
-source: "https://github.com/hec-ovi/censurado-web-brain"
+deployment_complexity: Medium
+tags:
+- agentic workflow
+- self-hosted newsroom
+- LLM orchestration
+- editorial pipeline
+- MCP server
+source: https://github.com/hec-ovi/censurado-web-brain
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T13:22:44Z"
-discovered_at: "2026-08-07T14:19:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T13:22:44Z'
+discovered_at: '2026-08-07T14:19:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

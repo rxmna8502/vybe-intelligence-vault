@@ -1,19 +1,38 @@
 ---
-title: "ducnguyen221/powerbi-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Power BI", "DAX", "Power Query (M)", "ADOMD.NET", "TOM (Tabular Object Model)", "MCP (Model Context Protocol)", "Claude Code", "Codex CLI", "Google Antigravity", "SQL", "Markdown", "Mermaid", "Excel"]
+title: ducnguyen221/powerbi-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Power BI
+- DAX
+- Power Query (M)
+- ADOMD.NET
+- TOM (Tabular Object Model)
+- MCP (Model Context Protocol)
+- Claude Code
+- Codex CLI
+- Google Antigravity
+- SQL
+- Markdown
+- Mermaid
+- Excel
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Power BI automation", "AI agent integration", "data analysis pipeline", "report generation", "KPIM methodology"]
-source: "https://github.com/ducnguyen221/powerbi-agent"
+deployment_complexity: Medium
+tags:
+- Power BI automation
+- AI agent integration
+- data analysis pipeline
+- report generation
+- KPIM methodology
+source: https://github.com/ducnguyen221/powerbi-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T14:45:12Z"
-discovered_at: "2026-07-14T14:48:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T14:45:12Z'
+discovered_at: '2026-07-14T14:48:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

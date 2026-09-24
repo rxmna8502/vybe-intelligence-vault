@@ -1,19 +1,27 @@
 ---
-title: "Bielrezende/WMB-100K"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Benchmark Dataset", "AI Memory Systems", "Natural Language Processing"]
+title: Bielrezende/WMB-100K
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Benchmark Dataset
+- AI Memory Systems
+- Natural Language Processing
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["benchmark", "memory systems", "situational retrieval", "NLP", "dataset"]
-source: "https://github.com/Bielrezende/WMB-100K"
+deployment_complexity: Low
+tags:
+- benchmark
+- memory systems
+- situational retrieval
+- NLP
+- dataset
+source: https://github.com/Bielrezende/WMB-100K
 stars: 0
-language: "None"
-last_updated: "2026-08-09T18:24:50Z"
-discovered_at: "2026-08-09T18:43:50Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-09T18:24:50Z'
+discovered_at: '2026-08-09T18:43:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

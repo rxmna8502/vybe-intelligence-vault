@@ -1,19 +1,40 @@
 ---
-title: "Humanix-Cybersecurity/Humanix-Academie"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Next.js 16", "React 19", "TypeScript", "Prisma", "PostgreSQL", "MDX", "Docker", "Mistral AI", "Voxtral TTS", "OSAL", "CEF", "Scrypt", "AES-256-GCM", "Plausible Analytics", "Mollie (Payments)", "Scaleway (Hosting)"]
+title: Humanix-Cybersecurity/Humanix-Academie
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Next.js 16
+- React 19
+- TypeScript
+- Prisma
+- PostgreSQL
+- MDX
+- Docker
+- Mistral AI
+- Voxtral TTS
+- OSAL
+- CEF
+- Scrypt
+- AES-256-GCM
+- Plausible Analytics
+- Mollie (Payments)
+- Scaleway (Hosting)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Cybersecurity Awareness", "Sovereign Hosting", "Gamification", "Compliance", "Open Source"]
-source: "https://github.com/Humanix-Cybersecurity/Humanix-Academie"
+deployment_complexity: Medium
+tags:
+- Cybersecurity Awareness
+- Sovereign Hosting
+- Gamification
+- Compliance
+- Open Source
+source: https://github.com/Humanix-Cybersecurity/Humanix-Academie
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-09T13:47:41Z"
-discovered_at: "2026-08-09T13:54:01Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T13:47:41Z'
+discovered_at: '2026-08-09T13:54:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

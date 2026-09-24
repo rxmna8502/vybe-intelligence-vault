@@ -1,19 +1,33 @@
 ---
-title: "hermes-labs-ai/zer0lint"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LLM", "HTTP", "JSON", "mem0", "fidelis", "Ollama", "Chroma", "Redis"]
+title: hermes-labs-ai/zer0lint
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Python
+- LLM
+- HTTP
+- JSON
+- mem0
+- fidelis
+- Ollama
+- Chroma
+- Redis
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["memory extraction", "diagnostic tool", "LLM reliability", "silent failure detection", "prompt validation"]
-source: "https://github.com/hermes-labs-ai/zer0lint"
+deployment_complexity: Low
+tags:
+- memory extraction
+- diagnostic tool
+- LLM reliability
+- silent failure detection
+- prompt validation
+source: https://github.com/hermes-labs-ai/zer0lint
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T11:01:22Z"
-discovered_at: "2026-08-07T00:02:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T11:01:22Z'
+discovered_at: '2026-08-07T00:02:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

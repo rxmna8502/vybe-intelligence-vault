@@ -1,19 +1,37 @@
 ---
-title: "jialine/dragon-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM (DeepSeek, GPT-4o, Claude, etc.)", "AndlAPI", "Terminal/Shell", "File I/O", "Web Search", "Memory Systems", "Workflow Engine", "TTS (Edge TTS)", "Video Generation (ComfyUI, Wan Video)", "FFmpeg", "YAML/JSON", "Pytest"]
+title: jialine/dragon-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- LLM (DeepSeek, GPT-4o, Claude, etc.)
+- AndlAPI
+- Terminal/Shell
+- File I/O
+- Web Search
+- Memory Systems
+- Workflow Engine
+- TTS (Edge TTS)
+- Video Generation (ComfyUI, Wan Video)
+- FFmpeg
+- YAML/JSON
+- Pytest
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Agent", "Automation", "Multi-modal", "Workflow Orchestration", "LLM Integration"]
-source: "https://github.com/jialine/dragon-agent"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- Automation
+- Multi-modal
+- Workflow Orchestration
+- LLM Integration
+source: https://github.com/jialine/dragon-agent
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T13:46:48Z"
-discovered_at: "2026-08-08T13:48:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T13:46:48Z'
+discovered_at: '2026-08-08T13:48:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

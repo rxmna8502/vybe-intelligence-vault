@@ -1,19 +1,29 @@
 ---
-title: "zmwzmo11130/neuraldocs"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["FastAPI", "OpenAI", "ChromaDB", "Docker", "Python"]
+title: zmwzmo11130/neuraldocs
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- FastAPI
+- OpenAI
+- ChromaDB
+- Docker
+- Python
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["RAG", "FastAPI", "ChromaDB", "OpenAI", "Docker"]
-source: "https://github.com/zmwzmo11130/neuraldocs"
+deployment_complexity: Medium
+tags:
+- RAG
+- FastAPI
+- ChromaDB
+- OpenAI
+- Docker
+source: https://github.com/zmwzmo11130/neuraldocs
 stars: 2
-language: "Python"
-last_updated: "2026-08-09T11:26:12Z"
-discovered_at: "2026-08-09T11:32:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T11:26:12Z'
+discovered_at: '2026-08-09T11:32:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

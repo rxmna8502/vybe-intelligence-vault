@@ -1,19 +1,35 @@
 ---
-title: "Ibarra25/vault-echo"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "Vector Database", "Knowledge Graph", "Embedding Engine", "Docker", "REST API", "Web Dashboard", "OpenAI API", "Claude API", "Semantic Caching"]
+title: Ibarra25/vault-echo
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Python
+- Node.js
+- Vector Database
+- Knowledge Graph
+- Embedding Engine
+- Docker
+- REST API
+- Web Dashboard
+- OpenAI API
+- Claude API
+- Semantic Caching
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["persistent memory", "AI developer tools", "self-hosted", "context retention", "knowledge graph"]
-source: "https://github.com/Ibarra25/vault-echo"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- AI developer tools
+- self-hosted
+- context retention
+- knowledge graph
+source: https://github.com/Ibarra25/vault-echo
 stars: 1
-language: "HTML"
-last_updated: "2026-07-10T18:21:02Z"
-discovered_at: "2026-07-10T18:22:44Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-07-10T18:21:02Z'
+discovered_at: '2026-07-10T18:22:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

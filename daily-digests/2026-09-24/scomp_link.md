@@ -1,19 +1,35 @@
 ---
-title: "GiacomoSaccaggi/scomp_link"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Polars", "Scikit-learn", "TensorFlow", "Optuna", "SHAP", "LIME", "Plotly", "Docker", "Pyright", "Ruff"]
+title: GiacomoSaccaggi/scomp_link
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Polars
+- Scikit-learn
+- TensorFlow
+- Optuna
+- SHAP
+- LIME
+- Plotly
+- Docker
+- Pyright
+- Ruff
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["ML automation", "data preprocessing", "model training", "explainability", "deployment"]
-source: "https://github.com/GiacomoSaccaggi/scomp_link"
+deployment_complexity: Medium
+tags:
+- ML automation
+- data preprocessing
+- model training
+- explainability
+- deployment
+source: https://github.com/GiacomoSaccaggi/scomp_link
 stars: 2
-language: "Python"
-last_updated: "2026-08-03T20:17:16Z"
-discovered_at: "2026-08-03T20:28:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T20:17:16Z'
+discovered_at: '2026-08-03T20:28:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "mysocialio/mysocial-intelligence"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["MCP (Model Context Protocol)", "OAuth 2.1", "HTTP Streaming", "JavaScript/TypeScript (implied by MCP and skills)", "REST APIs"]
+title: mysocialio/mysocial-intelligence
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- MCP (Model Context Protocol)
+- OAuth 2.1
+- HTTP Streaming
+- JavaScript/TypeScript (implied by MCP and skills)
+- REST APIs
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["social media analytics", "MCP server", "AI content generation", "brand outreach", "audience research"]
-source: "https://github.com/mysocialio/mysocial-intelligence"
+deployment_complexity: Medium
+tags:
+- social media analytics
+- MCP server
+- AI content generation
+- brand outreach
+- audience research
+source: https://github.com/mysocialio/mysocial-intelligence
 stars: 0
-language: "None"
-last_updated: "2026-09-02T02:08:36Z"
-discovered_at: "2026-09-02T02:12:25Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-02T02:08:36Z'
+discovered_at: '2026-09-02T02:12:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

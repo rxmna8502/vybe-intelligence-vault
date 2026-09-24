@@ -1,19 +1,31 @@
 ---
-title: "linnea-bakshi/gha-doctor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "GitHub Actions", "GitHub API", "Docker", "WebAssembly", "SARIF", "JSON Schema"]
+title: linnea-bakshi/gha-doctor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- GitHub Actions
+- GitHub API
+- Docker
+- WebAssembly
+- SARIF
+- JSON Schema
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["CI/CD optimization", "GitHub Actions", "flaky tests", "cost analysis", "workflow linting"]
-source: "https://github.com/linnea-bakshi/gha-doctor"
+deployment_complexity: Low
+tags:
+- CI/CD optimization
+- GitHub Actions
+- flaky tests
+- cost analysis
+- workflow linting
+source: https://github.com/linnea-bakshi/gha-doctor
 stars: 0
-language: "Go"
-last_updated: "2026-08-03T13:37:47Z"
-discovered_at: "2026-08-03T13:42:21Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-03T13:37:47Z'
+discovered_at: '2026-08-03T13:42:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

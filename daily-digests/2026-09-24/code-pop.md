@@ -1,19 +1,34 @@
 ---
-title: "ilyuve/code-pop"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "pgvector", "sentence-transformers", "tree-sitter", "React", "Vite", "Tailwind CSS", "Docker"]
+title: ilyuve/code-pop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- pgvector
+- sentence-transformers
+- tree-sitter
+- React
+- Vite
+- Tailwind CSS
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code retrieval", "hybrid search", "MCP server", "local embedding", "AI agent integration"]
-source: "https://github.com/ilyuve/code-pop"
+deployment_complexity: Medium
+tags:
+- code retrieval
+- hybrid search
+- MCP server
+- local embedding
+- AI agent integration
+source: https://github.com/ilyuve/code-pop
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T08:20:25Z"
-discovered_at: "2026-08-09T08:46:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T08:20:25Z'
+discovered_at: '2026-08-09T08:46:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

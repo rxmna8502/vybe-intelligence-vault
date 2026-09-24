@@ -1,19 +1,31 @@
 ---
-title: "pyworkload/3x-ui-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "HTTP API", "Xray", "V2Ray", "CSRF", "Bearer Authentication"]
+title: pyworkload/3x-ui-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- HTTP API
+- Xray
+- V2Ray
+- CSRF
+- Bearer Authentication
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "proxy management", "Xray/V2Ray", "LLM integration", "API abstraction"]
-source: "https://github.com/pyworkload/3x-ui-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- proxy management
+- Xray/V2Ray
+- LLM integration
+- API abstraction
+source: https://github.com/pyworkload/3x-ui-mcp
 stars: 5
-language: "Go"
-last_updated: "2026-08-04T19:28:54Z"
-discovered_at: "2026-08-04T19:33:25Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T19:28:54Z'
+discovered_at: '2026-08-04T19:33:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

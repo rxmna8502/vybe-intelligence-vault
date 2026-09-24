@@ -1,19 +1,33 @@
 ---
-title: "amusleh-spotware-com/terse-sharp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", "Roslyn", ".NET 10", "MCP (Model Context Protocol)", "XAML", "WPF", "Avalonia", "WinUI", "MAUI"]
+title: amusleh-spotware-com/terse-sharp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- C#
+- Roslyn
+- .NET 10
+- MCP (Model Context Protocol)
+- XAML
+- WPF
+- Avalonia
+- WinUI
+- MAUI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["Roslyn", "MCP server", "semantic code analysis", "token optimization", "XAML bindings"]
-source: "https://github.com/amusleh-spotware-com/terse-sharp"
+deployment_complexity: Low
+tags:
+- Roslyn
+- MCP server
+- semantic code analysis
+- token optimization
+- XAML bindings
+source: https://github.com/amusleh-spotware-com/terse-sharp
 stars: 0
-language: "C#"
-last_updated: "2026-08-01T08:59:09Z"
-discovered_at: "2026-08-01T09:06:23Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-01T08:59:09Z'
+discovered_at: '2026-08-01T09:06:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

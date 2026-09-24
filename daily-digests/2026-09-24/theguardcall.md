@@ -1,19 +1,39 @@
 ---
-title: "Player1205/TheGuardCall"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "React", "Vite", "Tailwind CSS", "Zustand", "Framer Motion", "Node.js", "Express", "Socket.IO", "MongoDB", "Mongoose", "Zod", "Deepgram", "Groq (Llama 3.3)", "PWA"]
+title: Player1205/TheGuardCall
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Tailwind CSS
+- Zustand
+- Framer Motion
+- Node.js
+- Express
+- Socket.IO
+- MongoDB
+- Mongoose
+- Zod
+- Deepgram
+- Groq (Llama 3.3)
+- PWA
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["real-time AI", "scam detection", "voice assistant", "PII scrubbing", "monorepo"]
-source: "https://github.com/Player1205/TheGuardCall"
+deployment_complexity: Medium
+tags:
+- real-time AI
+- scam detection
+- voice assistant
+- PII scrubbing
+- monorepo
+source: https://github.com/Player1205/TheGuardCall
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T04:55:48Z"
-discovered_at: "2026-08-08T04:58:53Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T04:55:48Z'
+discovered_at: '2026-08-08T04:58:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

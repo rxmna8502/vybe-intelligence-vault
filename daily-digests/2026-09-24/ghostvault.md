@@ -1,19 +1,30 @@
 ---
-title: "mienetic/Ghostvault"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Camoufox (headless browser)", "BrowserForge (fingerprinting)", "FastAPI (HTTP transport)", "AES-256-GCM (encryption)"]
+title: mienetic/Ghostvault
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Camoufox (headless browser)
+- BrowserForge (fingerprinting)
+- FastAPI (HTTP transport)
+- AES-256-GCM (encryption)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "browser automation", "anti-detection", "multi-account management", "AI agent integration"]
-source: "https://github.com/mienetic/Ghostvault"
+deployment_complexity: Medium
+tags:
+- MCP server
+- browser automation
+- anti-detection
+- multi-account management
+- AI agent integration
+source: https://github.com/mienetic/Ghostvault
 stars: 0
-language: "Python"
-last_updated: "2026-07-15T05:25:52Z"
-discovered_at: "2026-07-15T05:29:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T05:25:52Z'
+discovered_at: '2026-07-15T05:29:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,27 @@
 ---
-title: "indigokarasu/multipass"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "OCAS (Open Cognitive Agent System)", "Docker (implied for isolation)"]
+title: indigokarasu/multipass
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Shell
+- OCAS (Open Cognitive Agent System)
+- Docker (implied for isolation)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent augmentation", "temporary identities", "task isolation", "skill provisioning", "OCAS"]
-source: "https://github.com/indigokarasu/multipass"
+deployment_complexity: Medium
+tags:
+- agent augmentation
+- temporary identities
+- task isolation
+- skill provisioning
+- OCAS
+source: https://github.com/indigokarasu/multipass
 stars: 0
-language: "Shell"
-last_updated: "2026-07-21T04:04:45Z"
-discovered_at: "2026-07-21T04:14:46Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-21T04:04:45Z'
+discovered_at: '2026-07-21T04:14:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

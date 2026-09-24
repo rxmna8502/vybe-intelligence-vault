@@ -1,19 +1,30 @@
 ---
-title: "Flightmussy/sunshine-atlas-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "HTTP/JSON API", "NASA POWER", "Open-Meteo Marine"]
+title: Flightmussy/sunshine-atlas-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- HTTP/JSON API
+- NASA POWER
+- Open-Meteo Marine
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "climate data", "sunshine scores", "travel planning", "remote API"]
-source: "https://github.com/Flightmussy/sunshine-atlas-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- climate data
+- sunshine scores
+- travel planning
+- remote API
+source: https://github.com/Flightmussy/sunshine-atlas-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-18T08:07:29Z"
-discovered_at: "2026-07-18T08:09:25Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T08:07:29Z'
+discovered_at: '2026-07-18T08:09:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "Freecode100Year/xiaoqinli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "AST (Abstract Syntax Tree) Processing", "Code Generation", "Security Hardening", "Multi-language Targeting"]
+title: Freecode100Year/xiaoqinli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- AST (Abstract Syntax Tree) Processing
+- Code Generation
+- Security Hardening
+- Multi-language Targeting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["transpiler", "AST-first", "multi-language", "security-hardened", "AI-agent"]
-source: "https://github.com/Freecode100Year/xiaoqinli"
+deployment_complexity: Medium
+tags:
+- transpiler
+- AST-first
+- multi-language
+- security-hardened
+- AI-agent
+source: https://github.com/Freecode100Year/xiaoqinli
 stars: 0
-language: "Go"
-last_updated: "2026-08-03T02:48:00Z"
-discovered_at: "2026-08-03T02:54:35Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-03T02:48:00Z'
+discovered_at: '2026-08-03T02:54:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

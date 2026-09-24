@@ -1,19 +1,39 @@
 ---
-title: "xvirobotics/metabot"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "React", "TypeScript", "PM2", "WebSocket", "Claude Code", "Kimi Code", "Codex CLI", "Feishu API", "Telegram Bot API", "WeChat API", "Vite", "Zustand", "SQLite", "Monorepo (npm workspaces)"]
+title: xvirobotics/metabot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Node.js
+- React
+- TypeScript
+- PM2
+- WebSocket
+- Claude Code
+- Kimi Code
+- Codex CLI
+- Feishu API
+- Telegram Bot API
+- WeChat API
+- Vite
+- Zustand
+- SQLite
+- Monorepo (npm workspaces)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Agent Orchestration", "Multi-Engine Support", "Self-Hosted", "IM Integration", "Persistent Memory"]
-source: "https://github.com/xvirobotics/metabot"
+deployment_complexity: Medium
+tags:
+- Agent Orchestration
+- Multi-Engine Support
+- Self-Hosted
+- IM Integration
+- Persistent Memory
+source: https://github.com/xvirobotics/metabot
 stars: 919
-language: "TypeScript"
-last_updated: "2026-07-18T09:16:11Z"
-discovered_at: "2026-07-18T09:23:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T09:16:11Z'
+discovered_at: '2026-07-18T09:23:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

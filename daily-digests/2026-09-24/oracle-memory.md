@@ -1,19 +1,32 @@
 ---
-title: "JonusNattapong/Oracle-memory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "BM25", "Vector Embeddings (Xenova/all-MiniLM-L6-v2)", "Entity Graph", "JSON", "HTTP/Streamable Transport"]
+title: JonusNattapong/Oracle-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- BM25
+- Vector Embeddings (Xenova/all-MiniLM-L6-v2)
+- Entity Graph
+- JSON
+- HTTP/Streamable Transport
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["memory-server", "MCP", "hybrid-search", "file-backed", "agent-coordination"]
-source: "https://github.com/JonusNattapong/Oracle-memory"
+deployment_complexity: Low
+tags:
+- memory-server
+- MCP
+- hybrid-search
+- file-backed
+- agent-coordination
+source: https://github.com/JonusNattapong/Oracle-memory
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-17T02:49:41Z"
-discovered_at: "2026-07-17T02:52:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T02:49:41Z'
+discovered_at: '2026-07-17T02:52:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

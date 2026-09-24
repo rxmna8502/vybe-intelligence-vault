@@ -13,13 +13,14 @@ collected_at: '2026-09-24T19:09:37.029241+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:that-s-so-ai-what-gen-alpha-s-biggest-insult-tells
 first_seen: '2026-09-24T19:09:37.029241+05:30'
 last_seen: '2026-09-24T19:09:37.029241+05:30'
 last_checked: '2026-09-24T19:09:37.029241+05:30'
 health_score: 100
 ---
+
 
 # 'That's so AI ' What gen Alpha's biggest insult tells us
 

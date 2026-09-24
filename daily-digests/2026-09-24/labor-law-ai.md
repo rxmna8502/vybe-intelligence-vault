@@ -1,19 +1,36 @@
 ---
-title: "zzz123123lll/labor-law-ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Pydantic", "Next.js", "React", "TypeScript", "Tailwind CSS", "SQLite/PostgreSQL", "Docker", "OpenAI Compatible API", "YAML", "SQLAlchemy"]
+title: zzz123123lll/labor-law-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- FastAPI
+- Pydantic
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- SQLite/PostgreSQL
+- Docker
+- OpenAI Compatible API
+- YAML
+- SQLAlchemy
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["labor law", "AI legal assistant", "document generation", "compensation calculator", "arbitration tool"]
-source: "https://github.com/zzz123123lll/labor-law-ai"
+deployment_complexity: Medium
+tags:
+- labor law
+- AI legal assistant
+- document generation
+- compensation calculator
+- arbitration tool
+source: https://github.com/zzz123123lll/labor-law-ai
 stars: 1
-language: "Python"
-last_updated: "2026-07-17T10:38:28Z"
-discovered_at: "2026-07-17T10:46:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T10:38:28Z'
+discovered_at: '2026-07-17T10:46:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

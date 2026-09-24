@@ -1,19 +1,25 @@
 ---
-title: "EvanProgramming/Kyrozen"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python"]
+title: EvanProgramming/Kyrozen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
 quality_score: 3
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["product management", "AI automation", "workflow automation", "scalability", "developer tools"]
-source: "https://github.com/EvanProgramming/Kyrozen"
+deployment_complexity: Medium
+tags:
+- product management
+- AI automation
+- workflow automation
+- scalability
+- developer tools
+source: https://github.com/EvanProgramming/Kyrozen
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T17:06:49Z"
-discovered_at: "2026-07-21T17:16:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T17:06:49Z'
+discovered_at: '2026-07-21T17:16:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

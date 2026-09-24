@@ -1,19 +1,29 @@
 ---
-title: "satyamuiux-byte/self-correcting-data-factory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LLM APIs (Serper, Tavily, Jina Reader, Firecrawl)", "Model Context Protocol (MCP)", "JSON Schema Validation", "Environment Variables (.env)"]
+title: satyamuiux-byte/self-correcting-data-factory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- LLM APIs (Serper, Tavily, Jina Reader, Firecrawl)
+- Model Context Protocol (MCP)
+- JSON Schema Validation
+- Environment Variables (.env)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["B2B lead enrichment", "self-healing pipeline", "LLM auditing", "data validation", "enterprise automation"]
-source: "https://github.com/satyamuiux-byte/self-correcting-data-factory"
+deployment_complexity: Medium
+tags:
+- B2B lead enrichment
+- self-healing pipeline
+- LLM auditing
+- data validation
+- enterprise automation
+source: https://github.com/satyamuiux-byte/self-correcting-data-factory
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T16:06:16Z"
-discovered_at: "2026-08-10T16:06:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T16:06:16Z'
+discovered_at: '2026-08-10T16:06:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

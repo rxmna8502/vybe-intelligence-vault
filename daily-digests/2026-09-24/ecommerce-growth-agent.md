@@ -1,19 +1,31 @@
 ---
-title: "magicyao2028-pixel/ecommerce-growth-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "CSV", "Mermaid", "Jupyter", "Unit Testing", "Static Web (HTML/CSS/JS)"]
+title: magicyao2028-pixel/ecommerce-growth-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- FastAPI
+- CSV
+- Mermaid
+- Jupyter
+- Unit Testing
+- Static Web (HTML/CSS/JS)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["e-commerce analytics", "offline agent", "explainable AI", "business intelligence", "synthetic data"]
-source: "https://github.com/magicyao2028-pixel/ecommerce-growth-agent"
+deployment_complexity: Low
+tags:
+- e-commerce analytics
+- offline agent
+- explainable AI
+- business intelligence
+- synthetic data
+source: https://github.com/magicyao2028-pixel/ecommerce-growth-agent
 stars: 1
-language: "Python"
-last_updated: "2026-08-03T02:48:12Z"
-discovered_at: "2026-08-03T02:54:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T02:48:12Z'
+discovered_at: '2026-08-03T02:54:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

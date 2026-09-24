@@ -1,19 +1,30 @@
 ---
-title: "tphakala/centreon-mcp-go"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Centreon REST API", "HTTP/HTTPS", "JSON", "Docker/Podman"]
+title: tphakala/centreon-mcp-go
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Centreon REST API
+- HTTP/HTTPS
+- JSON
+- Docker/Podman
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Centreon monitoring", "IT infrastructure", "Real-time operations", "API integration"]
-source: "https://github.com/tphakala/centreon-mcp-go"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Centreon monitoring
+- IT infrastructure
+- Real-time operations
+- API integration
+source: https://github.com/tphakala/centreon-mcp-go
 stars: 1
-language: "Go"
-last_updated: "2026-08-04T10:38:13Z"
-discovered_at: "2026-08-04T10:39:25Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T10:38:13Z'
+discovered_at: '2026-08-04T10:39:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

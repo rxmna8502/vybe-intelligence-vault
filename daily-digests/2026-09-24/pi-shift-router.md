@@ -1,19 +1,32 @@
 ---
-title: "green-dalii/pi-shift-router"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "LLM (Large Language Model) Judges", "JSON-mode Classification", "Exponential Backoff", "TUI (Terminal User Interface)", "REST API Integration", "Model Failover Chains"]
+title: green-dalii/pi-shift-router
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- LLM (Large Language Model) Judges
+- JSON-mode Classification
+- Exponential Backoff
+- TUI (Terminal User Interface)
+- REST API Integration
+- Model Failover Chains
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["model routing", "LLM judge", "two-tier architecture", "failover automation", "cost optimization"]
-source: "https://github.com/green-dalii/pi-shift-router"
+deployment_complexity: Low
+tags:
+- model routing
+- LLM judge
+- two-tier architecture
+- failover automation
+- cost optimization
+source: https://github.com/green-dalii/pi-shift-router
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-08T01:22:23Z"
-discovered_at: "2026-08-08T01:26:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T01:22:23Z'
+discovered_at: '2026-08-08T01:26:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

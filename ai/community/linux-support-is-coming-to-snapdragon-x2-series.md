@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:linux-support-is-coming-to-snapdragon-x2-series
 first_seen: '2026-09-24T04:33:18.072879+05:30'
 last_seen: '2026-09-24T19:09:35.313531+05:30'
 last_checked: '2026-09-24T19:09:35.313531+05:30'
 health_score: 100
 ---
+
 
 # Linux support is coming to Snapdragon X2 Series
 

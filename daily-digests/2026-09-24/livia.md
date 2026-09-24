@@ -1,19 +1,32 @@
 ---
-title: "AgentEtna/livia"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "Express", "JavaScript", "Gmail API", "Google Calendar API", "Anthropic API", "Google OAuth", "JSON"]
+title: AgentEtna/livia
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Node.js
+- Express
+- JavaScript
+- Gmail API
+- Google Calendar API
+- Anthropic API
+- Google OAuth
+- JSON
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI assistant", "self-hosted", "Gmail integration", "automation", "white-label"]
-source: "https://github.com/AgentEtna/livia"
+deployment_complexity: Medium
+tags:
+- AI assistant
+- self-hosted
+- Gmail integration
+- automation
+- white-label
+source: https://github.com/AgentEtna/livia
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-02T15:45:15Z"
-discovered_at: "2026-09-02T15:50:38Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T15:45:15Z'
+discovered_at: '2026-09-02T15:50:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

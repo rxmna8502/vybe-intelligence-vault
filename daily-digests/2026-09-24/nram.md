@@ -1,19 +1,36 @@
 ---
-title: "nram-ai/nram"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "SQLite", "PostgreSQL", "pgvector", "Qdrant", "OAuth 2.0", "JWT", "WebAuthn", "React", "MCP (Model Context Protocol)", "OpenAPI", "Prometheus"]
+title: nram-ai/nram
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- SQLite
+- PostgreSQL
+- pgvector
+- Qdrant
+- OAuth 2.0
+- JWT
+- WebAuthn
+- React
+- MCP (Model Context Protocol)
+- OpenAPI
+- Prometheus
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory", "knowledge-graph", "self-hosted", "MCP", "continuity-layer"]
-source: "https://github.com/nram-ai/nram"
+deployment_complexity: Medium
+tags:
+- memory
+- knowledge-graph
+- self-hosted
+- MCP
+- continuity-layer
+source: https://github.com/nram-ai/nram
 stars: 8
-language: "Go"
-last_updated: "2026-07-17T22:45:31Z"
-discovered_at: "2026-07-17T22:47:56Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-17T22:45:31Z'
+discovered_at: '2026-07-17T22:47:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

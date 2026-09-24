@@ -1,19 +1,33 @@
 ---
-title: "ColdMountWillow/expenseflow-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "DeepSeek API", "Playwright", "React", "SQLite", "OCR (RapidOCR ONNX Runtime)", "TypeScript", "Node.js"]
+title: ColdMountWillow/expenseflow-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- FastAPI
+- DeepSeek API
+- Playwright
+- React
+- SQLite
+- OCR (RapidOCR ONNX Runtime)
+- TypeScript
+- Node.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["receipt processing", "expense automation", "AI agent", "OCR", "policy validation"]
-source: "https://github.com/ColdMountWillow/expenseflow-agent"
+deployment_complexity: Medium
+tags:
+- receipt processing
+- expense automation
+- AI agent
+- OCR
+- policy validation
+source: https://github.com/ColdMountWillow/expenseflow-agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-11T15:48:59Z"
-discovered_at: "2026-07-11T15:54:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T15:48:59Z'
+discovered_at: '2026-07-11T15:54:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

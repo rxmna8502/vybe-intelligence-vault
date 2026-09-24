@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/earendil-works/pi
-collected_at: '2026-09-04T04:14:33.320030+05:30'
-published_at: '2026-09-03T22:37:08Z'
+collected_at: '2026-09-25T01:39:06.905802+05:30'
+published_at: '2026-09-24T20:05:23Z'
 tags:
 - agents
 - github-repo
-- scripts
 - typescript
-stars: 101439
+stars: 109162
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2025-08-09T14:03:50Z'
-pushed_at: '2026-09-03T22:29:04Z'
+pushed_at: '2026-09-24T18:51:13Z'
 resource_id: github:earendil-works/pi
-first_seen: '2026-09-04T04:14:33.320030+05:30'
-last_seen: '2026-09-04T04:14:33.320030+05:30'
-last_checked: '2026-09-04T04:14:33.320030+05:30'
+first_seen: '2026-09-25T01:39:06.905802+05:30'
+last_seen: '2026-09-25T01:39:06.905802+05:30'
+last_checked: '2026-09-25T01:39:06.905802+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Unified LLM API**: Provides a standardized interface for interacting with multiple large language models (LLMs), abstracting provider-specific differences.
-- **Agent Loop & TUI**: Implements a modular agent loop for autonomous task execution and includes a terminal user interface (TUI) for real-time interaction and monitoring.
-- **Coding Agent CLI**: Features a command-line interface (CLI) tailored for AI-driven code generation, debugging, and automation tasks.
+*   Offers a unified API for abstracting and interacting with Large Language Models (LLMs).
+*   Implements a core agent loop for iterative AI agent execution and control flow.
+*   Provides a Terminal User Interface (TUI) and a dedicated Command Line Interface (CLI) for coding agent development and interaction.
 
 ## Why It Matters
 
@@ -40,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: earendil-works
-- Stars: 101439
-- Forks: 12615
+- Stars: 109162
+- Forks: 13876
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-09-03T22:37:08Z
+- Last Updated: 2026-09-24T20:05:23Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-09T14:03:50Z
-- Pushed At: 2026-09-03T22:29:04Z
+- Pushed At: 2026-09-24T18:51:13Z
 
 ## Possible Use Cases
 

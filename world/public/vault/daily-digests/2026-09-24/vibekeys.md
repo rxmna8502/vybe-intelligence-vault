@@ -1,19 +1,27 @@
 ---
-title: "tommad6821/VibeKeys"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Windows API", "System Tray Application"]
+title: tommad6821/VibeKeys
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Rust
+- Windows API
+- System Tray Application
 quality_score: 7
 rag_relevance: 3
-deployment_complexity: "Low"
-tags: ["mouse automation", "workflow optimization", "Windows utility", "keyboard shortcuts", "desktop tool"]
-source: "https://github.com/tommad6821/VibeKeys"
+deployment_complexity: Low
+tags:
+- mouse automation
+- workflow optimization
+- Windows utility
+- keyboard shortcuts
+- desktop tool
+source: https://github.com/tommad6821/VibeKeys
 stars: 0
-language: "Rust"
-last_updated: "2026-08-06T06:27:39Z"
-discovered_at: "2026-08-06T06:32:18Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-06T06:27:39Z'
+discovered_at: '2026-08-06T06:32:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

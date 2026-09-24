@@ -1,19 +1,33 @@
 ---
-title: "sanchit0496/engineering-intelligence-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Node.js", "Express.js", "Model Context Protocol (MCP)", "Winston", "Swagger/OpenAPI", "Git", "MySQL", "Sequelize", "Claude Desktop"]
+title: sanchit0496/engineering-intelligence-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Node.js
+- Express.js
+- Model Context Protocol (MCP)
+- Winston
+- Swagger/OpenAPI
+- Git
+- MySQL
+- Sequelize
+- Claude Desktop
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "backend inspection", "AI tooling", "Express.js", "engineering context"]
-source: "https://github.com/sanchit0496/engineering-intelligence-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- backend inspection
+- AI tooling
+- Express.js
+- engineering context
+source: https://github.com/sanchit0496/engineering-intelligence-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-13T20:12:47Z"
-discovered_at: "2026-07-13T20:14:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-13T20:12:47Z'
+discovered_at: '2026-07-13T20:14:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

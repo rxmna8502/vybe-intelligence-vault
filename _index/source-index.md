@@ -27624,13 +27624,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - ['That's so AI ' What gen Alpha's biggest insult tells us](../ai/community/that-s-so-ai-what-gen-alpha-s-biggest-insult-tells.md)
+  - [A Million Agents Is a Distributed System Problem](../ai/community/a-million-agents-is-a-distributed-system-problem.md)
   - [Early rogue AI agent activity and attempts to hack found on urlquery.net](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md)
-  - [Linux support is coming to Snapdragon X2 Series](../ai/community/linux-support-is-coming-to-snapdragon-x2-series.md)
-  - [Making Tailscale Faster](../ai/community/making-tailscale-faster.md)
-  - [Mercury 2.5 LLM hits 770 tokens per second](../ai/community/mercury-2-5-llm-hits-770-tokens-per-second.md)
-  - [Meta takes down a critical video about meta AI Glasses after filming at Meta](../ai/community/meta-takes-down-a-critical-video-about-meta-ai-gla.md)
-  - [OpenAI agent hacked Australian government website, PM says](../ai/community/openai-agent-hacked-australian-government-website.md)
+  - [Rails World 2026 Opening Keynote [video]](../ai/community/youtube-vdjw-drykxy.md)
+  - [Security auditing in the age of (good enough) AI](../ai/community/security-auditing-in-the-age-of-good-enough-ai.md)
+  - [Show HN: AgentRun: DSL to turn agents into workflows](../ai/community/parcha-ai-agentrun.md)
+  - [Show HN: Air-gapped file encryption as self-decrypting HTML page](../ai/community/show-hn-air-gapped-file-encryption-as-self-decrypt.md)
+  - [Using LLMs to trace alchemical knowledge and decode 17th century letters](../ai/community/using-llms-to-trace-alchemical-knowledge-and-decod.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -27689,6 +27689,7 @@ Resources organized by publisher feed and query sources.
   - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](../ai/models/huggingface-blog-nvidia-accelerating-fine-tuning-nvidia-nemo-automodel.md)
   - [Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](../ai/models/huggingface-blog-bridgetower.md)
   - [Accelerating over 130,000 Hugging Face models with ONNX Runtime](../ai/models/huggingface-blog-ort-accelerating-hf-models.md)
+  - [Accelerating vision-language models with LFM2.5-VL-DSpark](../ai/models/huggingface-blog-liquidai-lfm2-5-vl-dspark.md)
   - [Active Learning with AutoNLP and Prodigy](../ai/models/huggingface-blog-autonlp-prodigy.md)
   - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](../ai/models/huggingface-blog-open-asr-leaderboard-private-data.md)
   - [Adding MCP Tools to Reachy Mini](../ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md)
@@ -31500,4 +31501,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-24T19:26:07.323565+05:30*
+*Index generated on 2026-09-25T01:51:29.982575+05:30*

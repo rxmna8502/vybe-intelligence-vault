@@ -1,19 +1,32 @@
 ---
-title: "Zhu070124/paofu-creative-workshop"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.10+", "WebSocket", "HTTP/SSE", "SQLite", "DeepSeek API", "OpenAI-compatible API", "Docker", "JavaScript (Dashboard UI)"]
+title: Zhu070124/paofu-creative-workshop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python 3.10+
+- WebSocket
+- HTTP/SSE
+- SQLite
+- DeepSeek API
+- OpenAI-compatible API
+- Docker
+- JavaScript (Dashboard UI)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "real-time chat", "agent orchestration", "WebSocket communication", "AI persona management"]
-source: "https://github.com/Zhu070124/paofu-creative-workshop"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- real-time chat
+- agent orchestration
+- WebSocket communication
+- AI persona management
+source: https://github.com/Zhu070124/paofu-creative-workshop
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T20:38:37Z"
-discovered_at: "2026-08-07T20:42:53Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T20:38:37Z'
+discovered_at: '2026-08-07T20:42:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

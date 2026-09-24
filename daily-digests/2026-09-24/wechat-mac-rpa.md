@@ -1,19 +1,35 @@
 ---
-title: "wq19901103wq/wechat-mac-rpa"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PyTorch", "ONNX Runtime", "OpenCV", "AppleScript", "FastAPI", "LLM (Qwen, Hermes)", "OCR (Qwen-VL)", "macOS Automation APIs", "SQLite", "Jupyter Notebook"]
+title: wq19901103wq/wechat-mac-rpa
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- PyTorch
+- ONNX Runtime
+- OpenCV
+- AppleScript
+- FastAPI
+- LLM (Qwen, Hermes)
+- OCR (Qwen-VL)
+- macOS Automation APIs
+- SQLite
+- Jupyter Notebook
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["RPA", "WeChat Automation", "Multimodal AI", "LLM Agent", "macOS"]
-source: "https://github.com/wq19901103wq/wechat-mac-rpa"
+deployment_complexity: High
+tags:
+- RPA
+- WeChat Automation
+- Multimodal AI
+- LLM Agent
+- macOS
+source: https://github.com/wq19901103wq/wechat-mac-rpa
 stars: 17
-language: "Python"
-last_updated: "2026-07-11T07:45:58Z"
-discovered_at: "2026-07-11T07:52:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T07:45:58Z'
+discovered_at: '2026-07-11T07:52:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

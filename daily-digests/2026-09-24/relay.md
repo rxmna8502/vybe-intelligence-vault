@@ -1,19 +1,29 @@
 ---
-title: "valtors/relay"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Node.js (npm package wrapper)", "CLI/TUI", "HTTP/Streamable Transport"]
+title: valtors/relay
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Node.js (npm package wrapper)
+- CLI/TUI
+- HTTP/Streamable Transport
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP server", "multi-tool integration", "local file processing", "AI agent toolkit", "workflow automation"]
-source: "https://github.com/valtors/relay"
+deployment_complexity: Low
+tags:
+- MCP server
+- multi-tool integration
+- local file processing
+- AI agent toolkit
+- workflow automation
+source: https://github.com/valtors/relay
 stars: 4
-language: "Go"
-last_updated: "2026-07-11T09:12:17Z"
-discovered_at: "2026-07-11T09:27:33Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-11T09:12:17Z'
+discovered_at: '2026-07-11T09:27:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

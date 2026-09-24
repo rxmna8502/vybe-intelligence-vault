@@ -16,13 +16,14 @@ tags:
 - meta-ai
 - reddit
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:meta-takes-down-a-critical-video-about-meta-ai-gla
 first_seen: '2026-09-24T19:09:35.977112+05:30'
 last_seen: '2026-09-24T19:09:35.977112+05:30'
 last_checked: '2026-09-24T19:09:35.977112+05:30'
 health_score: 100
 ---
+
 
 # Meta takes down a critical video about meta AI Glasses after filming at Meta
 

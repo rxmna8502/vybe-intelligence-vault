@@ -1,19 +1,34 @@
 ---
-title: "initMAX/zabbix-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Zabbix API", "FastAPI", "TOML", "Docker", "systemd", "JavaScript/TypeScript (for admin portal)", "WeasyPrint (for PDF reports)", "OAuth 2.1"]
+title: initMAX/zabbix-mcp-server
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-24
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Zabbix API
+- FastAPI
+- TOML
+- Docker
+- systemd
+- JavaScript/TypeScript (for admin portal)
+- WeasyPrint (for PDF reports)
+- OAuth 2.1
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "Zabbix integration", "AI tooling", "monitoring automation", "infrastructure management"]
-source: "https://github.com/initMAX/zabbix-mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Zabbix integration
+- AI tooling
+- monitoring automation
+- infrastructure management
+source: https://github.com/initMAX/zabbix-mcp-server
 stars: 168
-language: "Python"
-last_updated: "2026-08-04T17:45:10Z"
-discovered_at: "2026-08-04T17:50:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T17:45:10Z'
+discovered_at: '2026-08-04T17:50:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

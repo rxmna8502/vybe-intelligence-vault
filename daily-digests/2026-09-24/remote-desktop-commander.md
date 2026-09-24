@@ -1,19 +1,30 @@
 ---
-title: "desktop-commander/remote-desktop-commander"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["MCP (Model Context Protocol)", "OAuth 2.0", "Node.js", "HTTP/Streamable Transport", "Terminal & Process Management", "File System Operations"]
+title: desktop-commander/remote-desktop-commander
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- MCP (Model Context Protocol)
+- OAuth 2.0
+- Node.js
+- HTTP/Streamable Transport
+- Terminal & Process Management
+- File System Operations
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["remote access", "MCP server", "AI tool integration", "OAuth authentication", "file system control"]
-source: "https://github.com/desktop-commander/remote-desktop-commander"
+deployment_complexity: Low
+tags:
+- remote access
+- MCP server
+- AI tool integration
+- OAuth authentication
+- file system control
+source: https://github.com/desktop-commander/remote-desktop-commander
 stars: 4
-language: "None"
-last_updated: "2026-08-05T18:21:07Z"
-discovered_at: "2026-08-05T18:24:49Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-05T18:21:07Z'
+discovered_at: '2026-08-05T18:24:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

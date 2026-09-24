@@ -1,19 +1,35 @@
 ---
-title: "LorenzArtik/element-node"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Next.js 15", "Prisma", "MySQL/MariaDB", "TypeScript", "Tailwind CSS", "React Server Components", "NextAuth v5", "Claude Code", "MCP (Model Context Protocol)", "Sharp", "Anthropic API"]
+title: LorenzArtik/element-node
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Next.js 15
+- Prisma
+- MySQL/MariaDB
+- TypeScript
+- Tailwind CSS
+- React Server Components
+- NextAuth v5
+- Claude Code
+- MCP (Model Context Protocol)
+- Sharp
+- Anthropic API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI-driven CMS", "visual editor", "self-hosted", "Next.js", "MCP integration"]
-source: "https://github.com/LorenzArtik/element-node"
+deployment_complexity: Medium
+tags:
+- AI-driven CMS
+- visual editor
+- self-hosted
+- Next.js
+- MCP integration
+source: https://github.com/LorenzArtik/element-node
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T08:37:17Z"
-discovered_at: "2026-08-09T08:45:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T08:37:17Z'
+discovered_at: '2026-08-09T08:45:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "JayOfemi/byakugan"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "React", "MCP (Model Context Protocol)", "npm", "Static Site Generation"]
+title: JayOfemi/byakugan
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Node.js
+- React
+- MCP (Model Context Protocol)
+- npm
+- Static Site Generation
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-text detection", "writing improvement", "privacy-focused", "MCP integration", "browser-based"]
-source: "https://github.com/JayOfemi/byakugan"
+deployment_complexity: Medium
+tags:
+- AI-text detection
+- writing improvement
+- privacy-focused
+- MCP integration
+- browser-based
+source: https://github.com/JayOfemi/byakugan
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-15T15:59:44Z"
-discovered_at: "2026-07-15T16:21:23Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-15T15:59:44Z'
+discovered_at: '2026-07-15T16:21:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

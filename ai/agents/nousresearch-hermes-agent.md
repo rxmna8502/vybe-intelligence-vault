@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-09-04T04:14:33.350317+05:30'
-published_at: '2026-09-03T22:42:10Z'
+collected_at: '2026-09-25T01:39:06.913417+05:30'
+published_at: '2026-09-24T20:08:40Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- workflows
-stars: 240803
+stars: 248679
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-09-03T21:51:35Z'
+pushed_at: '2026-09-24T19:43:29Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-09-04T04:14:33.350317+05:30'
-last_seen: '2026-09-04T04:14:33.350317+05:30'
-last_checked: '2026-09-04T04:14:33.350317+05:30'
+first_seen: '2026-09-25T01:39:06.913417+05:30'
+last_seen: '2026-09-25T01:39:06.913417+05:30'
+last_checked: '2026-09-25T01:39:06.913417+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,8 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent framework supporting integration with Anthropic's Claude, OpenAI's ChatGPT, and other LLM providers, enabling cross-model agentic workflows.
-
-- **Dynamic Agent Growth**: Implements self-improving mechanisms where agents autonomously expand capabilities via iterative feedback loops, tool usage, and contextual learning without manual retraining.
-
-- **Tool-Agnostic Execution**: Supports execution of arbitrary tools (e.g., code interpreters, APIs) via standardized interfaces, with built-in support for `claude-code` and extensible plugins for custom toolchains.
+*   Python-based AI agent framework developed by NousResearch.
+*   Facilitates
 
 ## Why It Matters
 
@@ -44,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 240803
-- Forks: 49333
+- Stars: 248679
+- Forks: 52624
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
-- Last Updated: 2026-09-03T22:42:10Z
+- Last Updated: 2026-09-24T20:08:40Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-09-03T21:51:35Z
+- Pushed At: 2026-09-24T19:43:29Z
 
 ## Possible Use Cases
 

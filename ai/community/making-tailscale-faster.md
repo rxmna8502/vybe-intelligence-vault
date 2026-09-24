@@ -13,13 +13,14 @@ collected_at: '2026-09-24T19:09:38.460691+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:making-tailscale-faster
 first_seen: '2026-09-24T04:33:20.160812+05:30'
 last_seen: '2026-09-24T19:09:38.460691+05:30'
 last_checked: '2026-09-24T19:09:38.460691+05:30'
 health_score: 100
 ---
+
 
 # Making Tailscale Faster
 

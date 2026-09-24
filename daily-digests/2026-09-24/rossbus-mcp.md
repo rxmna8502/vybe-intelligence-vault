@@ -1,19 +1,31 @@
 ---
-title: "xpressmike/rossbus-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Node.js", "Vite", "OSRM", "HTTP/Streaming", "JSON-RPC"]
+title: xpressmike/rossbus-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- Node.js
+- Vite
+- OSRM
+- HTTP/Streaming
+- JSON-RPC
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["bus travel", "MCP server", "real-time data", "Russia travel", "ticket aggregation"]
-source: "https://github.com/xpressmike/rossbus-mcp"
+deployment_complexity: Low
+tags:
+- bus travel
+- MCP server
+- real-time data
+- Russia travel
+- ticket aggregation
+source: https://github.com/xpressmike/rossbus-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-02T22:07:22Z"
-discovered_at: "2026-09-02T22:22:54Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-02T22:07:22Z'
+discovered_at: '2026-09-02T22:22:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

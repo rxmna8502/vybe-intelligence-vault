@@ -1,19 +1,33 @@
 ---
-title: "fxl112233/HermesBI"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Docker", "SQLite", "DuckDB", "Pandas", "Matplotlib", "Hermes Agent", "Mermaid (for diagrams)", "Pytest"]
+title: fxl112233/HermesBI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Docker
+- SQLite
+- DuckDB
+- Pandas
+- Matplotlib
+- Hermes Agent
+- Mermaid (for diagrams)
+- Pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["evidence-based analytics", "claim verification", "data analysis agent", "reproducible evaluation", "failure recovery"]
-source: "https://github.com/fxl112233/HermesBI"
+deployment_complexity: Medium
+tags:
+- evidence-based analytics
+- claim verification
+- data analysis agent
+- reproducible evaluation
+- failure recovery
+source: https://github.com/fxl112233/HermesBI
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T06:09:38Z"
-discovered_at: "2026-07-13T06:15:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T06:09:38Z'
+discovered_at: '2026-07-13T06:15:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

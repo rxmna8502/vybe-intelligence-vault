@@ -1,19 +1,31 @@
 ---
-title: "fabdendev/dagster-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Dagster", "Model Context Protocol (MCP)", "GraphQL", "PyPI", "uv", "pytest"]
+title: fabdendev/dagster-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Dagster
+- Model Context Protocol (MCP)
+- GraphQL
+- PyPI
+- uv
+- pytest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Dagster integration", "AI agent operations", "Data pipeline monitoring", "Autonomous remediation"]
-source: "https://github.com/fabdendev/dagster-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Dagster integration
+- AI agent operations
+- Data pipeline monitoring
+- Autonomous remediation
+source: https://github.com/fabdendev/dagster-mcp
 stars: 7
-language: "Python"
-last_updated: "2026-07-15T16:10:54Z"
-discovered_at: "2026-07-15T16:21:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T16:10:54Z'
+discovered_at: '2026-07-15T16:21:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

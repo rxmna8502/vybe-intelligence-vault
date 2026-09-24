@@ -1,19 +1,37 @@
 ---
-title: "igdigitallab/cardloop"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "Claude Code CLI", "React", "TypeScript", "Git", "Docker", "Cloudflare Tunnel", "WebSockets", "PWA (Progressive Web App)", "SSE (Server-Sent Events)", "TOTP (Two-Factor Authentication)", "XTerm.js"]
+title: igdigitallab/cardloop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Python
+- Node.js
+- Claude Code CLI
+- React
+- TypeScript
+- Git
+- Docker
+- Cloudflare Tunnel
+- WebSockets
+- PWA (Progressive Web App)
+- SSE (Server-Sent Events)
+- TOTP (Two-Factor Authentication)
+- XTerm.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "kanban automation", "mobile-first PWA", "Claude Code integration", "self-hosted"]
-source: "https://github.com/igdigitallab/cardloop"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- kanban automation
+- mobile-first PWA
+- Claude Code integration
+- self-hosted
+source: https://github.com/igdigitallab/cardloop
 stars: 6
-language: "Python"
-last_updated: "2026-09-01T15:50:59Z"
-discovered_at: "2026-09-01T15:54:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T15:50:59Z'
+discovered_at: '2026-09-01T15:54:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

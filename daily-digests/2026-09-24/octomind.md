@@ -1,19 +1,31 @@
 ---
-title: "Muvon/octomind"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "TOML", "Model Context Protocol (MCP)", "OpenRouter API", "Anthropic API", "Git", "CLI"]
+title: Muvon/octomind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Rust
+- TOML
+- Model Context Protocol (MCP)
+- OpenRouter API
+- Anthropic API
+- Git
+- CLI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agents", "specialist agents", "runtime", "autonomous agents", "guardrails"]
-source: "https://github.com/Muvon/octomind"
+deployment_complexity: Medium
+tags:
+- AI agents
+- specialist agents
+- runtime
+- autonomous agents
+- guardrails
+source: https://github.com/Muvon/octomind
 stars: 87
-language: "Rust"
-last_updated: "2026-07-19T11:51:27Z"
-discovered_at: "2026-07-19T11:57:11Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-19T11:51:27Z'
+discovered_at: '2026-07-19T11:57:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

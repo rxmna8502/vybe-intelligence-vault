@@ -1,19 +1,32 @@
 ---
-title: "ch55secake/symphony"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "KurrentDB", "Docker", "YAML", "OpenAI API", "Anthropic API", "OpenCode API", "TUI (Terminal User Interface)"]
+title: ch55secake/symphony
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- Go
+- KurrentDB
+- Docker
+- YAML
+- OpenAI API
+- Anthropic API
+- OpenCode API
+- TUI (Terminal User Interface)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["event sourcing", "audit trail", "agent framework", "immutable streams", "model orchestration"]
-source: "https://github.com/ch55secake/symphony"
+deployment_complexity: Medium
+tags:
+- event sourcing
+- audit trail
+- agent framework
+- immutable streams
+- model orchestration
+source: https://github.com/ch55secake/symphony
 stars: 0
-language: "Go"
-last_updated: "2026-08-09T13:50:30Z"
-discovered_at: "2026-08-09T13:53:47Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-09T13:50:30Z'
+discovered_at: '2026-08-09T13:53:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "cyanheads/openstreetmap-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "Nominatim API", "Overpass API", "Zod", "OpenTelemetry"]
+title: cyanheads/openstreetmap-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-24
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- Nominatim API
+- Overpass API
+- Zod
+- OpenTelemetry
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Geocoding", "Spatial Queries", "OpenStreetMap", "MCP Server", "Agent Integration"]
-source: "https://github.com/cyanheads/openstreetmap-mcp-server"
+deployment_complexity: Medium
+tags:
+- Geocoding
+- Spatial Queries
+- OpenStreetMap
+- MCP Server
+- Agent Integration
+source: https://github.com/cyanheads/openstreetmap-mcp-server
 stars: 4
-language: "TypeScript"
-last_updated: "2026-08-02T16:03:15Z"
-discovered_at: "2026-08-02T16:11:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T16:03:15Z'
+discovered_at: '2026-08-02T16:11:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
