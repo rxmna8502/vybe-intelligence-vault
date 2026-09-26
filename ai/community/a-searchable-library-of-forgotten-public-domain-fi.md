@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://movingimagearchive.com
 hn_url: https://news.ycombinator.com/item?id=49832768
-score: 21
+score: 87
 author: momentmaker
-comments_count: 9
+comments_count: 19
 published_at: '2026-09-24T21:41:42+05:30'
-collected_at: '2026-09-27T00:48:36.607202+05:30'
+collected_at: '2026-09-27T04:29:38.981977+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:a-searchable-library-of-forgotten-public-domain-fi
 first_seen: '2026-09-27T00:48:36.607202+05:30'
-last_seen: '2026-09-27T00:48:36.607202+05:30'
-last_checked: '2026-09-27T00:48:36.607202+05:30'
+last_seen: '2026-09-27T04:29:38.981977+05:30'
+last_checked: '2026-09-27T04:29:38.981977+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by momentmaker. Score: 21, Comments: 9.
+Hacker News story by momentmaker. Score: 87, Comments: 19.
 Original Link: https://www.movingimagearchive.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: momentmaker
-- Score: 21 Upvotes
-- Comments: 9 Discussions
+- Score: 87 Upvotes
+- Comments: 19 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49832768
 - Original Article: https://movingimagearchive.com
 

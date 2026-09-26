@@ -13,13 +13,14 @@ collected_at: '2026-09-27T00:48:38.671720+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:a-single-function-jev-like-wrapper-for-llms-includ
 first_seen: '2026-09-26T10:39:30.062466+05:30'
 last_seen: '2026-09-27T00:48:38.671720+05:30'
 last_checked: '2026-09-27T00:48:38.671720+05:30'
 health_score: 100
 ---
+
 
 # A single function Jev-like wrapper for LLMs, including vision models
 

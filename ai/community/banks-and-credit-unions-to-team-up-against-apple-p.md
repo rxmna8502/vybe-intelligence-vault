@@ -13,13 +13,14 @@ collected_at: '2026-09-27T00:48:37.565052+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:banks-and-credit-unions-to-team-up-against-apple-p
 first_seen: '2026-09-27T00:48:37.565052+05:30'
 last_seen: '2026-09-27T00:48:37.565052+05:30'
 last_checked: '2026-09-27T00:48:37.565052+05:30'
 health_score: 100
 ---
+
 
 # Banks and Credit Unions to Team Up Against Apple Pay Fees
 

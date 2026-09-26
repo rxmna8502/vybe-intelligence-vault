@@ -4944,7 +4944,6 @@ Resources organized by keyword tags.
   - [RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning](../ai/rag/arxiv-2607-14512.md)
   - [RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction](../ai/rag/arxiv-2608-16111.md)
   - [Retry, Switch, or Abstain? Learning Strategy-Aware Tool-Use Policies via Controlled Error Injection](../ai/agents/arxiv-2608-11977.md)
-  - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
   - [RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments](../ai/agents/arxiv-2606-26094.md)
   - [Review of Explainable Decision Support and Adaptive Human-Machine Interfaces for Automation Transparency in Maritime Autonomous Surface Ships](../ai/agents/arxiv-2509-15959.md)
   - [Revisiting Outage for Edge Inference Systems](../ai/agents/arxiv-2504-03686.md)
@@ -7038,9 +7037,8 @@ Resources organized by keyword tags.
 
   - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
   - [Automattic has a new board after failed attempt to put CEO on leave](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md)
-  - [Banks and Credit Unions to Team Up Against Apple Pay Fees](../ai/community/banks-and-credit-unions-to-team-up-against-apple-p.md)
+  - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
   - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
-  - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
 
 ## animation
 
@@ -28533,7 +28531,6 @@ Resources organized by keyword tags.
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
   - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
-  - [A single function Jev-like wrapper for LLMs, including vision models](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md)
   - [A solution to the Erd\H{o}s Problem #1040](../ai/rag/arxiv-2609-06050.md)
   - [A statistical approach to bias in zero-shot learning: the lens of handwriting recognition](../ai/rag/arxiv-2609-10084.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
@@ -28867,7 +28864,6 @@ Resources organized by keyword tags.
   - [Balancing multiscale similarity and cartographic constraints: A similarity-driven optimization framework for line generalization](../ai/research/arxiv-2607-25474.md)
   - [Bandit Submodular Maximization under Matroid Constraints: Learning Compressed Exchange Policy](../ai/research/arxiv-2608-24627.md)
   - [Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis](../ai/rag/arxiv-2608-20343.md)
-  - [Banks and Credit Unions to Team Up Against Apple Pay Fees](../ai/community/banks-and-credit-unions-to-team-up-against-apple-p.md)
   - [Barchart | All Markets](../ai/rag/barchart-all-markets.md)
   - [Base barrier cells provide compartmentalization of choroid plexus, brain and CSF | Nature Neuroscience](../ai/rag/base-barrier-cells-provide-compartmentalization-of.md)
   - [Batch Size or Negatives? A Selection Rule for Memory-Constrained Recommender Training](../ai/research/arxiv-2608-11061.md)
@@ -30087,6 +30083,7 @@ Resources organized by keyword tags.
   - [How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation](../ai/agents/arxiv-2608-26237.md)
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
+  - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
@@ -31242,7 +31239,6 @@ Resources organized by keyword tags.
   - [Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories](../ai/agents/arxiv-2609-01556.md)
   - [Retrofitters, pragmatists and activists: Public interest litigation for accountable automated decision-making](../ai/rag/arxiv-2511-03211.md)
   - [Revealing Multi-View Hallucination in Large Vision-Language Models](../ai/research/arxiv-2603-23934.md)
-  - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
   - [Reversal Q-Learning](../ai/rag/arxiv-2606-17551.md)
   - [Review Before Trust: Source-Grounded Integrity Gates for AI-Assisted Personal Health Records](../ai/research/arxiv-2608-29965.md)
   - [Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data](../ai/research/arxiv-2607-08384.md)
@@ -33001,7 +32997,6 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [A single function Jev-like wrapper for LLMs, including vision models](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md)
   - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
 
 ## mdx
@@ -40666,7 +40661,6 @@ Resources organized by keyword tags.
   - [Retrieval augmented generation for 10 large language models and its generalizability in assessing medical fitness](../ai/research/retrieval-augmented-generation-for-10-large-langua.md)
   - [Retrieval-Augmented Generation (RAG) - DSPy](../ai/rag/retrieval-augmented-generation-rag-dspy.md)
   - [Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations](../ai/rag/arxiv-2607-04645.md)
-  - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
   - [Revisiting Face Recognition for Monozygotic Twins: The Celeb Twins Test Set](../ai/research/arxiv-2609-01141.md)
   - [Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026](../ai/rag/arxiv-2608-16318.md)
   - [Reward Granularity in RLVR: Comparing Process and Outcome Reward Structures for Mathematical Reasoning in Small Language Models](../ai/research/arxiv-2607-02869.md)
@@ -67368,4 +67362,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-27T01:04:54.181987+05:30*
+*Index generated on 2026-09-27T04:46:04.462702+05:30*

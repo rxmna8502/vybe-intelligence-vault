@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave
 hn_url: https://news.ycombinator.com/item?id=49857572
-score: 63
+score: 115
 author: ilamont
-comments_count: 62
+comments_count: 136
 published_at: '2026-09-26T21:10:27+05:30'
-collected_at: '2026-09-27T00:48:38.488665+05:30'
+collected_at: '2026-09-27T04:29:42.454521+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:automattic-has-a-new-board-after-failed-attempt-to
 first_seen: '2026-09-27T00:48:38.488665+05:30'
-last_seen: '2026-09-27T00:48:38.488665+05:30'
-last_checked: '2026-09-27T00:48:38.488665+05:30'
+last_seen: '2026-09-27T04:29:42.454521+05:30'
+last_checked: '2026-09-27T04:29:42.454521+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ilamont. Score: 63, Comments: 62.
+Hacker News story by ilamont. Score: 115, Comments: 136.
 Original Link: https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ilamont
-- Score: 63 Upvotes
-- Comments: 62 Discussions
+- Score: 115 Upvotes
+- Comments: 136 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49857572
 - Original Article: https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave
 

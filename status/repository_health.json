@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "invalid_files_count": 2303,
   "broken_links_count": 2289,
   "duplicate_resources_count": 0,
@@ -6,4 +7,13 @@
   "yaml_errors_count": 0,
   "validation_status": "degraded",
   "last_successful_validation": "2026-09-27T05:00:32.479971+05:30"
+=======
+  "invalid_files_count": 125097,
+  "broken_links_count": 2040,
+  "duplicate_resources_count": 246869,
+  "duplicate_filenames_count": 0,
+  "yaml_errors_count": 0,
+  "validation_status": "degraded",
+  "last_successful_validation": "2026-09-27T04:50:37.271424+05:30"
+>>>>>>> Stashed changes
 }

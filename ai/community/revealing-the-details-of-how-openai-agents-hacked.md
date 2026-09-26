@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:revealing-the-details-of-how-openai-agents-hacked
 first_seen: '2026-09-26T10:39:28.958771+05:30'
 last_seen: '2026-09-27T00:48:36.803798+05:30'
 last_checked: '2026-09-27T00:48:36.803798+05:30'
 health_score: 100
 ---
+
 
 # Revealing the details of how OpenAI agents hacked Hugging Face
 

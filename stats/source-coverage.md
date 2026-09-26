@@ -303,10 +303,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| swarmtraces.org | 1 |
-| allanrbo.blogspot.com | 1 |
 | discourse.haskell.org | 1 |
-| macrumors.com | 1 |
+| thelastsoftwareengineer.substack.com | 1 |
 | bbc.com | 1 |
 | movingimagearchive.com | 1 |
 | githubstatus.com | 1 |

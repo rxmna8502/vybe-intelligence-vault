@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "generated_at": "2026-09-27T05:00:23.532423+05:30",
   "trending_resources": [
     {
@@ -11,10 +12,25 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1014,
+=======
+  "generated_at": "2026-09-27T04:50:04.738602+05:30",
+  "trending_resources": [
+    {
+      "id": "hackernews:a-searchable-library-of-forgotten-public-domain-fi",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://movingimagearchive.com",
+      "file_path": "ai/community/a-searchable-library-of-forgotten-public-domain-fi.md",
+      "score": 87,
+      "score_change": 66,
+      "rank_change": 2,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:azure-samples/chat-with-your-data-solution-accelerator",
       "title": "Azure-Samples/chat-with-your-data-solution-accelerator",
       "category": "ai/rag",
@@ -24,10 +40,35 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1014,
+=======
+      "id": "hackernews:automattic-has-a-new-board-after-failed-attempt-to",
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave",
+      "file_path": "ai/community/automattic-has-a-new-board-after-failed-attempt-to.md",
+      "score": 115,
+      "score_change": 52,
+      "rank_change": 3,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+      "id": "hackernews:how-to-keep-enjoying-programming-in-a-world-of-llm",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "file_path": "ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md",
+      "score": 129,
+      "score_change": 46,
+      "rank_change": 2,
+>>>>>>> Stashed changes
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+<<<<<<< Updated upstream
       "id": "github:vstorm-co/full-stack-ai-agent-template",
       "title": "vstorm-co/full-stack-ai-agent-template",
       "category": "ai/rag",
@@ -50,6 +91,17 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1014,
+=======
+      "id": "hackernews:openai-bots-meddled-with-multiple-us-government-ag",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://bbc.com/news/articles/cw62jje658dlo",
+      "file_path": "ai/community/openai-bots-meddled-with-multiple-us-government-ag.md",
+      "score": 94,
+      "score_change": 43,
+      "rank_change": 2,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -62,7 +114,24 @@
       "file_path": "ai/rag/vercel-labs-ai-sdk-preview-rag.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1014,
+=======
+      "rank_change": 5,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:datawhalechina/all-in-rag",
+      "title": "datawhalechina/all-in-rag",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/all-in-rag",
+      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -75,7 +144,11 @@
       "file_path": "ai/rag/techwithtim-langflow-rag-tutorial.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1014,
+=======
+      "rank_change": 4,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -88,7 +161,11 @@
       "file_path": "ai/rag/lancedb-vectordb-recipes.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1014,
+=======
+      "rank_change": 4,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -101,7 +178,11 @@
       "file_path": "ai/rag/enescingoz-awesome-n8n-templates.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1014,
+=======
+      "rank_change": 4,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -114,6 +195,7 @@
       "file_path": "ai/rag/pguso-rag-from-scratch.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1014,
       "new_resource": false,
       "tier": "tier-3"
@@ -128,12 +210,16 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1014,
+=======
+      "rank_change": 4,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
+<<<<<<< Updated upstream
       "id": "blog:medium-privacy-policy-by-medium-medium-policy",
       "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
@@ -143,10 +229,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 9273,
+=======
+      "id": "blog:react-canaries-enabling-incremental-feature-rollou",
+      "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
+      "category": "web-development",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2023/05/03/react-canaries",
+      "file_path": "web-development/react-canaries-enabling-incremental-feature-rollou.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 90,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:microsoft/rag-time",
       "title": "microsoft/rag-time",
       "category": "ai/rag",
@@ -156,10 +254,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1017,
+=======
+      "id": "blog:sunsetting-create-react-app",
+      "title": "Sunsetting Create React App",
+      "category": "ai/rag",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
+      "file_path": "ai/rag/sunsetting-create-react-app.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 90,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2608.02392",
       "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
@@ -169,10 +279,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1017,
+=======
+      "id": "blog:react-19-3",
+      "title": "React 19.3",
+      "category": "ai/rag",
+      "source_type": "rss",
+      "url": "https://react.dev/blog/2026/09/09/react-19-3",
+      "file_path": "ai/rag/react-19-3.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 90,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2608.02046",
       "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
       "category": "ai/rag",
@@ -260,12 +382,102 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1017,
+=======
+      "id": "huggingface:spaces/facebook",
+      "title": "facebook/MusicGen",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/facebook",
+      "file_path": "ai/models/huggingface-spaces-facebook.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 29,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/ap123",
+      "title": "AP123/IllusionDiffusion",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/ap123",
+      "file_path": "ai/models/huggingface-spaces-ap123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 29,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/dalle-mini",
+      "title": "dalle-mini/dalle-mini",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/dalle-mini",
+      "file_path": "ai/models/huggingface-spaces-dalle-mini.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 29,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/mteb",
+      "title": "mteb/leaderboard",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/mteb",
+      "file_path": "ai/models/huggingface-spaces-mteb.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 29,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/black-forest-labs",
+      "title": "black-forest-labs/FLUX.1-dev",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/black-forest-labs",
+      "file_path": "ai/models/huggingface-spaces-black-forest-labs.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 29,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/kwai-kolors",
+      "title": "Kwai-Kolors/Kolors-Virtual-Try-On",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/kwai-kolors",
+      "file_path": "ai/models/huggingface-spaces-kwai-kolors.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 29,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/jbilcke-hf",
+      "title": "jbilcke-hf/ai-comic-factory",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/jbilcke-hf",
+      "file_path": "ai/models/huggingface-spaces-jbilcke-hf.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 29,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
+<<<<<<< Updated upstream
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
       "category": "Agent Framework",
@@ -273,13 +485,51 @@
       "url": "",
       "file_path": "docs/sample-digest.md",
       "score": 0,
+=======
+      "id": "hackernews:how-i-changed-teaching-after-ai-managed-to-do-all",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "file_path": "ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md",
+      "score": 107,
+>>>>>>> Stashed changes
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
     }
   ],
+<<<<<<< Updated upstream
   "recently_inactive_resources": [],
+=======
+  "recently_inactive_resources": [
+    {
+      "id": "hackernews:revealing-the-details-of-how-openai-agents-hacked",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://swarmtraces.org",
+      "file_path": "ai/community/revealing-the-details-of-how-openai-agents-hacked.md"
+    },
+    {
+      "id": "hackernews:a-single-function-jev-like-wrapper-for-llms-includ",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "file_path": "ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md"
+    },
+    {
+      "id": "hackernews:banks-and-credit-unions-to-team-up-against-apple-p",
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances",
+      "file_path": "ai/community/banks-and-credit-unions-to-team-up-against-apple-p.md"
+    }
+  ],
+>>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }
