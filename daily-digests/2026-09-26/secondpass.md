@@ -1,19 +1,34 @@
 ---
-title: "AmazingDude/secondpass"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Semgrep", "ChromaDB", "SQLite", "LLM (Groq, OpenAI, Gemini, OpenRouter)", "Vite", "React", "Node.js", "Tavily (optional)"]
+title: AmazingDude/secondpass
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- Semgrep
+- ChromaDB
+- SQLite
+- LLM (Groq, OpenAI, Gemini, OpenRouter)
+- Vite
+- React
+- Node.js
+- Tavily (optional)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["code review", "security scanning", "architecture analysis", "LLM integration", "personalized memory"]
-source: "https://github.com/AmazingDude/secondpass"
+deployment_complexity: Medium
+tags:
+- code review
+- security scanning
+- architecture analysis
+- LLM integration
+- personalized memory
+source: https://github.com/AmazingDude/secondpass
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T17:59:15Z"
-discovered_at: "2026-08-02T18:02:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T17:59:15Z'
+discovered_at: '2026-08-02T18:02:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

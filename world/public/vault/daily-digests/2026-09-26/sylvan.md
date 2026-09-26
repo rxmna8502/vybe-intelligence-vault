@@ -1,19 +1,33 @@
 ---
-title: "darki73/sylvan"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Tree-sitter", "MCP (Model Context Protocol)", "FTS5 (Full-Text Search)", "Vector similarity search", "SQLite", "FastAPI", "Ruff (code linter)", "Docker"]
+title: darki73/sylvan
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- Tree-sitter
+- MCP (Model Context Protocol)
+- FTS5 (Full-Text Search)
+- Vector similarity search
+- SQLite
+- FastAPI
+- Ruff (code linter)
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code intelligence", "MCP tools", "semantic search", "dependency analysis", "token efficiency"]
-source: "https://github.com/darki73/sylvan"
+deployment_complexity: Medium
+tags:
+- code intelligence
+- MCP tools
+- semantic search
+- dependency analysis
+- token efficiency
+source: https://github.com/darki73/sylvan
 stars: 0
-language: "Python"
-last_updated: "2026-07-20T03:49:22Z"
-discovered_at: "2026-07-20T03:52:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T03:49:22Z'
+discovered_at: '2026-07-20T03:52:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

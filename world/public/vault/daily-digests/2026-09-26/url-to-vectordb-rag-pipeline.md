@@ -1,19 +1,30 @@
 ---
-title: "PrakashWebDevX/url-to-vectordb-rag-pipeline"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "LangChain", "HuggingFace Transformers", "Supabase (PostgreSQL + pgvector)", "Groq API", "Jupyter Notebook"]
+title: PrakashWebDevX/url-to-vectordb-rag-pipeline
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- LangChain
+- HuggingFace Transformers
+- Supabase (PostgreSQL + pgvector)
+- Groq API
+- Jupyter Notebook
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web scraping", "RAG pipeline", "pgvector", "local embeddings", "Supabase"]
-source: "https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline"
+deployment_complexity: Medium
+tags:
+- web scraping
+- RAG pipeline
+- pgvector
+- local embeddings
+- Supabase
+source: https://github.com/PrakashWebDevX/url-to-vectordb-rag-pipeline
 stars: 0
-language: "Jupyter Notebook"
-last_updated: "2026-08-02T23:50:24Z"
-discovered_at: "2026-08-03T00:01:04Z"
-evaluated_by: "mistral-small-latest"
+language: Jupyter Notebook
+last_updated: '2026-08-02T23:50:24Z'
+discovered_at: '2026-08-03T00:01:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

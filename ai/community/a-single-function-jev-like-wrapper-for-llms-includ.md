@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
 hn_url: https://news.ycombinator.com/item?id=49853175
-score: 100
+score: 124
 author: allanrbo
-comments_count: 28
+comments_count: 40
 published_at: '2026-09-26T09:50:58+05:30'
-collected_at: '2026-09-26T18:44:07.310014+05:30'
+collected_at: '2026-09-27T00:48:38.671720+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:a-single-function-jev-like-wrapper-for-llms-includ
 first_seen: '2026-09-26T10:39:30.062466+05:30'
-last_seen: '2026-09-26T18:44:07.310014+05:30'
-last_checked: '2026-09-26T18:44:07.310014+05:30'
+last_seen: '2026-09-27T00:48:38.671720+05:30'
+last_checked: '2026-09-27T00:48:38.671720+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by allanrbo. Score: 100, Comments: 28.
+Hacker News story by allanrbo. Score: 124, Comments: 40.
 Original Link: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: allanrbo
-- Score: 100 Upvotes
-- Comments: 28 Discussions
+- Score: 124 Upvotes
+- Comments: 40 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49853175
 - Original Article: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html
 

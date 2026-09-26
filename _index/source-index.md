@@ -27624,11 +27624,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A new world airport and its baggage](../ai/community/a-new-world-airport-and-its-baggage.md)
+  - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
   - [A single function Jev-like wrapper for LLMs, including vision models](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md)
-  - [Calculating atmospheric drag on satellites for a Cubesat [pdf]](../ai/community/calculating-atmospheric-drag-on-satellites-for-a-c.md)
-  - [From Thin Air to Bootable Images: The Tine Build System](../ai/community/from-thin-air-to-bootable-images-the-tine-build-sy.md)
-  - [One Month Without AI](../ai/community/one-month-without-ai.md)
+  - [Automattic has a new board after failed attempt to put CEO on leave](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md)
+  - [Banks and Credit Unions to Team Up Against Apple Pay Fees](../ai/community/banks-and-credit-unions-to-team-up-against-apple-p.md)
+  - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
+  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
   - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
 
 ## Unknown Source (type: huggingface)
@@ -31500,4 +31501,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-26T19:00:27.717036+05:30*
+*Index generated on 2026-09-27T01:04:54.522743+05:30*

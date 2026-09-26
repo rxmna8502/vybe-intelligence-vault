@@ -1,19 +1,33 @@
 ---
-title: "zzycxz/momapeer"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "Tree-sitter", "SQLite", "Wails", "Charm Bubble Tea", "Brave/Exa/Linkup (Web Search)", "OpenAI API Compatibility", "TOML/YAML (Configuration)"]
+title: zzycxz/momapeer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- Tree-sitter
+- SQLite
+- Wails
+- Charm Bubble Tea
+- Brave/Exa/Linkup (Web Search)
+- OpenAI API Compatibility
+- TOML/YAML (Configuration)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI coding assistant", "MCP plugin system", "MoMA integration", "multi-platform", "enterprise-grade"]
-source: "https://github.com/zzycxz/momapeer"
+deployment_complexity: Medium
+tags:
+- AI coding assistant
+- MCP plugin system
+- MoMA integration
+- multi-platform
+- enterprise-grade
+source: https://github.com/zzycxz/momapeer
 stars: 10
-language: "Go"
-last_updated: "2026-08-01T06:19:40Z"
-discovered_at: "2026-08-01T06:29:01Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-01T06:19:40Z'
+discovered_at: '2026-08-01T06:29:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

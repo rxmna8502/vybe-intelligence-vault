@@ -1,19 +1,33 @@
 ---
-title: "JOSETRA44/wacon-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Baileys (WhatsApp Web library)", "SQLite", "FTS5 (Full-Text Search)", "RAG (Retrieval-Augmented Generation)", "Long-polling", "TUI (Terminal User Interface) with neo-blessed"]
+title: JOSETRA44/wacon-mcp
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Baileys (WhatsApp Web library)
+- SQLite
+- FTS5 (Full-Text Search)
+- RAG (Retrieval-Augmented Generation)
+- Long-polling
+- TUI (Terminal User Interface) with neo-blessed
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["WhatsApp integration", "AI agent orchestration", "RAG for messaging", "CLI tool", "MCP server"]
-source: "https://github.com/JOSETRA44/wacon-mcp"
+deployment_complexity: Medium
+tags:
+- WhatsApp integration
+- AI agent orchestration
+- RAG for messaging
+- CLI tool
+- MCP server
+source: https://github.com/JOSETRA44/wacon-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T16:08:40Z"
-discovered_at: "2026-08-02T16:11:31Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T16:08:40Z'
+discovered_at: '2026-08-02T16:11:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

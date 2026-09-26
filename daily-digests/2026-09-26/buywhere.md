@@ -1,19 +1,35 @@
 ---
-title: "BuyWhere/buywhere"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Redis", "BM25", "Vector Embeddings", "Qwen3-Embedding-4B", "Flow AI", "MCP (Model Context Protocol)", "Docker", "ECS Fargate"]
+title: BuyWhere/buywhere
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- BM25
+- Vector Embeddings
+- Qwen3-Embedding-4B
+- Flow AI
+- MCP (Model Context Protocol)
+- Docker
+- ECS Fargate
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["product catalog", "e-commerce", "AI agents", "price comparison", "MCP integration"]
-source: "https://github.com/BuyWhere/buywhere"
+deployment_complexity: Medium
+tags:
+- product catalog
+- e-commerce
+- AI agents
+- price comparison
+- MCP integration
+source: https://github.com/BuyWhere/buywhere
 stars: 2
-language: "TypeScript"
-last_updated: "2026-09-01T02:52:12Z"
-discovered_at: "2026-09-01T02:52:49Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:52:12Z'
+discovered_at: '2026-09-01T02:52:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

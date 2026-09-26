@@ -1,19 +1,31 @@
 ---
-title: "DaizeDong/daily-hotspots"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "MCP (Multi-Component Protocol)", "Discord API", "pytest", "JSONL", "Windows Task Scheduler"]
+title: DaizeDong/daily-hotspots
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Claude Code
+- MCP (Multi-Component Protocol)
+- Discord API
+- pytest
+- JSONL
+- Windows Task Scheduler
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["business intelligence", "opportunity discovery", "deterministic scoring", "Discord automation", "multi-source aggregation"]
-source: "https://github.com/DaizeDong/daily-hotspots"
+deployment_complexity: Medium
+tags:
+- business intelligence
+- opportunity discovery
+- deterministic scoring
+- Discord automation
+- multi-source aggregation
+source: https://github.com/DaizeDong/daily-hotspots
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T05:26:51Z"
-discovered_at: "2026-07-14T05:28:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T05:26:51Z'
+discovered_at: '2026-07-14T05:28:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

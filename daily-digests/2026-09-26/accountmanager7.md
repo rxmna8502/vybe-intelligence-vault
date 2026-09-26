@@ -1,19 +1,32 @@
 ---
-title: "StephenCote/AccountManager7"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PostgreSQL", "pg_vector", "Java", "OpenJDK 24", "Node.js", "JavaScript", "Maven", "JDBC"]
+title: StephenCote/AccountManager7
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- PostgreSQL
+- pg_vector
+- Java
+- OpenJDK 24
+- Node.js
+- JavaScript
+- Maven
+- JDBC
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["identity management", "authorization", "vector database", "AI integration", "user authentication"]
-source: "https://github.com/StephenCote/AccountManager7"
+deployment_complexity: Medium
+tags:
+- identity management
+- authorization
+- vector database
+- AI integration
+- user authentication
+source: https://github.com/StephenCote/AccountManager7
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-07T12:55:24Z"
-discovered_at: "2026-08-07T13:02:45Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T12:55:24Z'
+discovered_at: '2026-08-07T13:02:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

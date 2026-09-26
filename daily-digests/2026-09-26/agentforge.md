@@ -1,19 +1,36 @@
 ---
-title: "thenextfreud/agentforge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "MCP (Model Context Protocol)", "Docker", "Node.js", "npm", "CLI Tools", "REST API", "SQL", "OAuth 2.0", "Vector Search", "Streaming HTTP"]
+title: thenextfreud/agentforge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Python
+- MCP (Model Context Protocol)
+- Docker
+- Node.js
+- npm
+- CLI Tools
+- REST API
+- SQL
+- OAuth 2.0
+- Vector Search
+- Streaming HTTP
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP servers", "AI agents", "boilerplate reduction", "TypeScript/Python templates", "agent orchestration"]
-source: "https://github.com/thenextfreud/agentforge"
+deployment_complexity: Medium
+tags:
+- MCP servers
+- AI agents
+- boilerplate reduction
+- TypeScript/Python templates
+- agent orchestration
+source: https://github.com/thenextfreud/agentforge
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T22:10:41Z"
-discovered_at: "2026-09-02T22:16:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T22:10:41Z'
+discovered_at: '2026-09-02T22:16:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

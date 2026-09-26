@@ -1,19 +1,32 @@
 ---
-title: "a2uicatalog/a2ui"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Google Apps Script", "HTML/CSS", "SVG", "MCP (Model Context Protocol)", "JSON Schema", "Lit Web Components", "YAML"]
+title: a2uicatalog/a2ui
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Google Apps Script
+- HTML/CSS
+- SVG
+- MCP (Model Context Protocol)
+- JSON Schema
+- Lit Web Components
+- YAML
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["UI vocabulary", "AI agent interface", "declarative rendering", "token efficiency", "MCP server"]
-source: "https://github.com/a2uicatalog/a2ui"
+deployment_complexity: Medium
+tags:
+- UI vocabulary
+- AI agent interface
+- declarative rendering
+- token efficiency
+- MCP server
+source: https://github.com/a2uicatalog/a2ui
 stars: 2
-language: "HTML"
-last_updated: "2026-08-01T14:43:11Z"
-discovered_at: "2026-08-01T15:01:45Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-01T14:43:11Z'
+discovered_at: '2026-08-01T15:01:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

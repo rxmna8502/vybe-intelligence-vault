@@ -1,19 +1,31 @@
 ---
-title: "feastalytics/cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "CLI frameworks", "JSON Schema", "REST API", "Agent Skills"]
+title: feastalytics/cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- CLI frameworks
+- JSON Schema
+- REST API
+- Agent Skills
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["CLI", "API client", "AI agent integration", "automation", "campaign management"]
-source: "https://github.com/feastalytics/cli"
+deployment_complexity: Low
+tags:
+- CLI
+- API client
+- AI agent integration
+- automation
+- campaign management
+source: https://github.com/feastalytics/cli
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T16:54:34Z"
-discovered_at: "2026-08-07T16:57:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T16:54:34Z'
+discovered_at: '2026-08-07T16:57:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "imagewize/wp-ops"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Bash", "Ansible", "WP-CLI", "Python", "PHP", "Shell", "MCP (Model Context Protocol)"]
+title: imagewize/wp-ops
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Go
+- Bash
+- Ansible
+- WP-CLI
+- Python
+- PHP
+- Shell
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["WordPress automation", "CLI tool", "MCP server", "DevOps", "Trellis/Bedrock"]
-source: "https://github.com/imagewize/wp-ops"
+deployment_complexity: Medium
+tags:
+- WordPress automation
+- CLI tool
+- MCP server
+- DevOps
+- Trellis/Bedrock
+source: https://github.com/imagewize/wp-ops
 stars: 0
-language: "Shell"
-last_updated: "2026-08-06T23:57:37Z"
-discovered_at: "2026-08-07T00:01:58Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-06T23:57:37Z'
+discovered_at: '2026-08-07T00:01:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

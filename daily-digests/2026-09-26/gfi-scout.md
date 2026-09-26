@@ -1,19 +1,33 @@
 ---
-title: "Rajveerx11/gfi-scout"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "GitHub API", "asyncio", "Pydantic", "ruff", "mypy", "uv", "FastMCP"]
+title: Rajveerx11/gfi-scout
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- GitHub API
+- asyncio
+- Pydantic
+- ruff
+- mypy
+- uv
+- FastMCP
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "good first issues", "open source contribution", "issue scoring", "GitHub integration"]
-source: "https://github.com/Rajveerx11/gfi-scout"
+deployment_complexity: Medium
+tags:
+- MCP server
+- good first issues
+- open source contribution
+- issue scoring
+- GitHub integration
+source: https://github.com/Rajveerx11/gfi-scout
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T16:12:30Z"
-discovered_at: "2026-07-14T16:14:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T16:12:30Z'
+discovered_at: '2026-07-14T16:14:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

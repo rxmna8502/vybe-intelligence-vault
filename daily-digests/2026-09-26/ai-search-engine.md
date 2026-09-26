@@ -1,19 +1,30 @@
 ---
-title: "retrograde-prosceniumwall239/ai-search-engine"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Chroma", "LLM (Claude)", "Embeddings", "Vector Databases"]
+title: retrograde-prosceniumwall239/ai-search-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- Chroma
+- LLM (Claude)
+- Embeddings
+- Vector Databases
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["semantic search", "document retrieval", "local processing", "embeddings", "desktop application"]
-source: "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
+deployment_complexity: Low
+tags:
+- semantic search
+- document retrieval
+- local processing
+- embeddings
+- desktop application
+source: https://github.com/retrograde-prosceniumwall239/ai-search-engine
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T14:12:03Z"
-discovered_at: "2026-08-09T14:38:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T14:12:03Z'
+discovered_at: '2026-08-09T14:38:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "zilet/cairn"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Docker", "PWA (Progressive Web App)", "MCP (Model Context Protocol) Server", "REST API", "GitHub Actions (CI/CD)"]
+title: zilet/cairn
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- Docker
+- PWA (Progressive Web App)
+- MCP (Model Context Protocol) Server
+- REST API
+- GitHub Actions (CI/CD)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-hosted", "health-coach", "AI-driven", "MCP-server", "wellness-tracking"]
-source: "https://github.com/zilet/cairn"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- health-coach
+- AI-driven
+- MCP-server
+- wellness-tracking
+source: https://github.com/zilet/cairn
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-08T08:36:56Z"
-discovered_at: "2026-08-08T08:42:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T08:36:56Z'
+discovered_at: '2026-08-08T08:42:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

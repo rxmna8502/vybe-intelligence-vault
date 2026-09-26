@@ -1,19 +1,31 @@
 ---
-title: "beepboop2025/data-breach-detector"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "FastAPI", "HaveIBeenPwned API", "RansomLook API", "SEC EDGAR API", "ransomwatch archive"]
+title: beepboop2025/data-breach-detector
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- FastAPI
+- HaveIBeenPwned API
+- RansomLook API
+- SEC EDGAR API
+- ransomwatch archive
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["breach intelligence", "MCP server", "public data aggregation", "security monitoring", "ethical AI"]
-source: "https://github.com/beepboop2025/data-breach-detector"
+deployment_complexity: Medium
+tags:
+- breach intelligence
+- MCP server
+- public data aggregation
+- security monitoring
+- ethical AI
+source: https://github.com/beepboop2025/data-breach-detector
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T20:44:19Z"
-discovered_at: "2026-08-01T20:51:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T20:44:19Z'
+discovered_at: '2026-08-01T20:51:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

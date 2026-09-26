@@ -1,19 +1,34 @@
 ---
-title: "mhm655/ai-support-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Next.js", "FastAPI", "Supabase (Postgres + pgvector)", "Gemini (gemini-3.5-flash-lite, gemini-embedding-2)", "TypeScript", "Tailwind CSS", "Vercel", "Railway", "Python", "React"]
+title: mhm655/ai-support-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Next.js
+- FastAPI
+- Supabase (Postgres + pgvector)
+- Gemini (gemini-3.5-flash-lite, gemini-embedding-2)
+- TypeScript
+- Tailwind CSS
+- Vercel
+- Railway
+- Python
+- React
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "customer support", "embeddable widget", "lead capture", "document grounding"]
-source: "https://github.com/mhm655/ai-support-agent"
+deployment_complexity: Medium
+tags:
+- RAG
+- customer support
+- embeddable widget
+- lead capture
+- document grounding
+source: https://github.com/mhm655/ai-support-agent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-03T15:33:50Z"
-discovered_at: "2026-09-03T15:37:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:33:50Z'
+discovered_at: '2026-09-03T15:37:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

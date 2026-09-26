@@ -1,19 +1,31 @@
 ---
-title: "clearframeworks/continuum-genesis"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "HTTP Runtime", "PWA (Progressive Web App)", "JSON", "Local File Storage"]
+title: clearframeworks/continuum-genesis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- HTTP Runtime
+- PWA (Progressive Web App)
+- JSON
+- Local File Storage
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["AI memory", "task-scoped context", "local-first", "context sharding", "memory retrieval"]
-source: "https://github.com/clearframeworks/continuum-genesis"
+deployment_complexity: Low
+tags:
+- AI memory
+- task-scoped context
+- local-first
+- context sharding
+- memory retrieval
+source: https://github.com/clearframeworks/continuum-genesis
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-18T23:46:12Z"
-discovered_at: "2026-07-18T23:52:37Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T23:46:12Z'
+discovered_at: '2026-07-18T23:52:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

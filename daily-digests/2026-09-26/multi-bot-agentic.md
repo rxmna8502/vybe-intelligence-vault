@@ -1,19 +1,33 @@
 ---
-title: "Francis1998/multi-bot-agentic"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "OpenAI API", "Claude Code CLI", "Gemini API", "Kimi API", "Ruff", "Mypy", "Pytest"]
+title: Francis1998/multi-bot-agentic
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- SQLite
+- OpenAI API
+- Claude Code CLI
+- Gemini API
+- Kimi API
+- Ruff
+- Mypy
+- Pytest
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["deterministic agents", "multi-provider orchestration", "event logging", "safety controls", "rationale traces"]
-source: "https://github.com/Francis1998/multi-bot-agentic"
+deployment_complexity: Medium
+tags:
+- deterministic agents
+- multi-provider orchestration
+- event logging
+- safety controls
+- rationale traces
+source: https://github.com/Francis1998/multi-bot-agentic
 stars: 17
-language: "Python"
-last_updated: "2026-08-03T16:20:40Z"
-discovered_at: "2026-08-03T16:25:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T16:20:40Z'
+discovered_at: '2026-08-03T16:25:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

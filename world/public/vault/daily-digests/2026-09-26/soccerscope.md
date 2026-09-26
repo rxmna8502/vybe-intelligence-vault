@@ -1,19 +1,35 @@
 ---
-title: "webbigdata-jp/soccerscope"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Google Agent Development Kit (ADK)", "Gemini (gemini-3.1-flash-lite, gemini-embedding-001)", "MongoDB Atlas + Vector Search", "MongoDB MCP Server", "YouTube Data API v3", "Docker", "Google Cloud Run", "HTML/CSS/JavaScript", "pymongo"]
+title: webbigdata-jp/soccerscope
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- Google Agent Development Kit (ADK)
+- Gemini (gemini-3.1-flash-lite, gemini-embedding-001)
+- MongoDB Atlas + Vector Search
+- MongoDB MCP Server
+- YouTube Data API v3
+- Docker
+- Google Cloud Run
+- HTML/CSS/JavaScript
+- pymongo
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["RAG", "Multilingual AI", "Sports Analytics", "Vector Search", "Real-time Content Generation"]
-source: "https://github.com/webbigdata-jp/soccerscope"
+deployment_complexity: Medium
+tags:
+- RAG
+- Multilingual AI
+- Sports Analytics
+- Vector Search
+- Real-time Content Generation
+source: https://github.com/webbigdata-jp/soccerscope
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T07:30:26Z"
-discovered_at: "2026-07-21T07:32:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T07:30:26Z'
+discovered_at: '2026-07-21T07:32:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

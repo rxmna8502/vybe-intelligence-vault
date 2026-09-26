@@ -1,19 +1,32 @@
 ---
-title: "mohammedhuzef/autonomous-ai-creator"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "YouTube Data API v3", "Google Gemini API", "Pollinations AI", "MoviePy", "PIL", "Flux model", "Ken Burns effect"]
+title: mohammedhuzef/autonomous-ai-creator
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- YouTube Data API v3
+- Google Gemini API
+- Pollinations AI
+- MoviePy
+- PIL
+- Flux model
+- Ken Burns effect
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI video generation", "autonomous agent", "YouTube automation", "multimodal AI", "content creation"]
-source: "https://github.com/mohammedhuzef/autonomous-ai-creator"
+deployment_complexity: Medium
+tags:
+- AI video generation
+- autonomous agent
+- YouTube automation
+- multimodal AI
+- content creation
+source: https://github.com/mohammedhuzef/autonomous-ai-creator
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T06:55:27Z"
-discovered_at: "2026-08-09T06:58:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T06:55:27Z'
+discovered_at: '2026-08-09T06:58:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

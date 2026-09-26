@@ -1,19 +1,31 @@
 ---
-title: "cappyeo/discord-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Discord API", "OpenTelemetry", "pnpm", "SLSA provenance"]
+title: cappyeo/discord-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Discord API
+- OpenTelemetry
+- pnpm
+- SLSA provenance
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Discord integration", "MCP server", "AI agent tools", "safety controls", "observability"]
-source: "https://github.com/cappyeo/discord-mcp"
+deployment_complexity: Medium
+tags:
+- Discord integration
+- MCP server
+- AI agent tools
+- safety controls
+- observability
+source: https://github.com/cappyeo/discord-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T19:17:10Z"
-discovered_at: "2026-08-01T19:19:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T19:17:10Z'
+discovered_at: '2026-08-01T19:19:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "HumphreySun98/Smart-Study-Agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Streamlit", "Claude API", "FSRS (Spaced Repetition)", "Q-learning / LinUCB (Reinforcement Learning)", "SQLite", "PyTorch", "Hugging Face Inference", "Chrome Extension (MV3)", "MCP (Model Context Protocol)", "Anthropic API", "OpenAI-compatible endpoints", "Rich (Terminal UI)", "Pyvis (Interactive Graphs)"]
+title: HumphreySun98/Smart-Study-Agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Streamlit
+- Claude API
+- FSRS (Spaced Repetition)
+- Q-learning / LinUCB (Reinforcement Learning)
+- SQLite
+- PyTorch
+- Hugging Face Inference
+- Chrome Extension (MV3)
+- MCP (Model Context Protocol)
+- Anthropic API
+- OpenAI-compatible endpoints
+- Rich (Terminal UI)
+- Pyvis (Interactive Graphs)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Adaptive Learning", "Reinforcement Learning", "Spaced Repetition", "POMDP", "Personalized Education"]
-source: "https://github.com/HumphreySun98/Smart-Study-Agent"
+deployment_complexity: Medium
+tags:
+- Adaptive Learning
+- Reinforcement Learning
+- Spaced Repetition
+- POMDP
+- Personalized Education
+source: https://github.com/HumphreySun98/Smart-Study-Agent
 stars: 59
-language: "JavaScript"
-last_updated: "2026-08-02T21:46:43Z"
-discovered_at: "2026-08-02T21:55:47Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T21:46:43Z'
+discovered_at: '2026-08-02T21:55:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

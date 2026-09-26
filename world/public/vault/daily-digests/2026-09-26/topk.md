@@ -1,19 +1,32 @@
 ---
-title: "topk-io/topk"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Python", "JavaScript", "TypeScript", "PostgreSQL", "CLI", "MCP", "Object Storage"]
+title: topk-io/topk
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Rust
+- Python
+- JavaScript
+- TypeScript
+- PostgreSQL
+- CLI
+- MCP
+- Object Storage
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Hybrid Search", "Vector Database", "Multi-Vector Retrieval", "Managed Inference", "Object Storage"]
-source: "https://github.com/topk-io/topk"
+deployment_complexity: Medium
+tags:
+- Hybrid Search
+- Vector Database
+- Multi-Vector Retrieval
+- Managed Inference
+- Object Storage
+source: https://github.com/topk-io/topk
 stars: 90
-language: "Rust"
-last_updated: "2026-08-07T11:19:18Z"
-discovered_at: "2026-08-07T11:57:55Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T11:19:18Z'
+discovered_at: '2026-08-07T11:57:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

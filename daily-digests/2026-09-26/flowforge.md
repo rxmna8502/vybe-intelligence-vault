@@ -1,19 +1,36 @@
 ---
-title: "oree-nguyen/flowforge"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["React 19", "TypeScript 6.0", "Vite 8.1", "Tailwind CSS 3.4", "Zustand 4.5", "Framer Motion 11.5", "Lucide React", "pdfjs-dist 6.1", "Mammoth 1.12", "idb 8.0", "OpenRouter API", "Google Drive API"]
+title: oree-nguyen/flowforge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- React 19
+- TypeScript 6.0
+- Vite 8.1
+- Tailwind CSS 3.4
+- Zustand 4.5
+- Framer Motion 11.5
+- Lucide React
+- pdfjs-dist 6.1
+- Mammoth 1.12
+- idb 8.0
+- OpenRouter API
+- Google Drive API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI Workflow Builder", "DAG Visualization", "Multi-modal AI", "Client-side Execution", "OpenRouter Integration"]
-source: "https://github.com/oree-nguyen/flowforge"
+deployment_complexity: Low
+tags:
+- AI Workflow Builder
+- DAG Visualization
+- Multi-modal AI
+- Client-side Execution
+- OpenRouter Integration
+source: https://github.com/oree-nguyen/flowforge
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-03T13:41:11Z"
-discovered_at: "2026-08-03T13:42:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-03T13:41:11Z'
+discovered_at: '2026-08-03T13:42:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

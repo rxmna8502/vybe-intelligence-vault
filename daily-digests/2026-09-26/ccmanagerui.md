@@ -1,19 +1,33 @@
 ---
-title: "LunarWerxs/ccmanagerui"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Vue 3", "Vite", "TypeScript", "Bun", "Hono", "SQLite", "Tailwind CSS", "Lucide Icons", "MCP (Model Context Protocol)"]
+title: LunarWerxs/ccmanagerui
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Vue 3
+- Vite
+- TypeScript
+- Bun
+- Hono
+- SQLite
+- Tailwind CSS
+- Lucide Icons
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Claude orchestration", "local AI management", "multi-instance dashboard", "scheduling", "MCP integration"]
-source: "https://github.com/LunarWerxs/ccmanagerui"
+deployment_complexity: Medium
+tags:
+- Claude orchestration
+- local AI management
+- multi-instance dashboard
+- scheduling
+- MCP integration
+source: https://github.com/LunarWerxs/ccmanagerui
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-17T21:40:08Z"
-discovered_at: "2026-07-17T21:52:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T21:40:08Z'
+discovered_at: '2026-07-17T21:52:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

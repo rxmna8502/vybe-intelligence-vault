@@ -1,19 +1,33 @@
 ---
-title: "veronchenko/engram-memory"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "FastAPI", "Model Context Protocol (MCP)", "Docker", "Model2Vec (embeddings)", "Markdown", "YAML", "Reciprocal Rank Fusion (RRF)"]
+title: veronchenko/engram-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- SQLite
+- FastAPI
+- Model Context Protocol (MCP)
+- Docker
+- Model2Vec (embeddings)
+- Markdown
+- YAML
+- Reciprocal Rank Fusion (RRF)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["persistent memory", "knowledge base", "MCP server", "hybrid search", "graph relations"]
-source: "https://github.com/veronchenko/engram-memory"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- knowledge base
+- MCP server
+- hybrid search
+- graph relations
+source: https://github.com/veronchenko/engram-memory
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T16:01:32Z"
-discovered_at: "2026-08-01T16:06:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T16:01:32Z'
+discovered_at: '2026-08-01T16:06:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

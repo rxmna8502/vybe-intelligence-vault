@@ -1,19 +1,32 @@
 ---
-title: "vighriday/Charter"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "PostgreSQL (PGlite)", "LLM APIs (Gemini, Groq)", "PDF generation", "ED25519 cryptography", "Mermaid.js for diagrams", "React (UI)"]
+title: vighriday/Charter
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- PostgreSQL (PGlite)
+- LLM APIs (Gemini, Groq)
+- PDF generation
+- ED25519 cryptography
+- Mermaid.js for diagrams
+- React (UI)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["legal automation", "multi-agent workflow", "human-in-the-loop", "tamper-evident records", "LLM orchestration"]
-source: "https://github.com/vighriday/Charter"
+deployment_complexity: Medium
+tags:
+- legal automation
+- multi-agent workflow
+- human-in-the-loop
+- tamper-evident records
+- LLM orchestration
+source: https://github.com/vighriday/Charter
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T14:29:18Z"
-discovered_at: "2026-09-02T15:49:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T14:29:18Z'
+discovered_at: '2026-09-02T15:49:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

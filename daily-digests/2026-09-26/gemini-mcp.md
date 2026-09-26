@@ -1,19 +1,29 @@
 ---
-title: "houtini-ai/gemini-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Google Gemini API", "MCP (Model Context Protocol)", "Veo 3.1 (for video generation)"]
+title: houtini-ai/gemini-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Google Gemini API
+- MCP (Model Context Protocol)
+- Veo 3.1 (for video generation)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["MCP server", "Gemini API", "AI tooling", "multimodal generation", "Claude Desktop integration"]
-source: "https://github.com/houtini-ai/gemini-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- Gemini API
+- AI tooling
+- multimodal generation
+- Claude Desktop integration
+source: https://github.com/houtini-ai/gemini-mcp
 stars: 27
-language: "TypeScript"
-last_updated: "2026-07-18T07:46:14Z"
-discovered_at: "2026-07-18T07:47:14Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-18T07:46:14Z'
+discovered_at: '2026-07-18T07:47:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

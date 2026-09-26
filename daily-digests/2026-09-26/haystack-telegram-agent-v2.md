@@ -1,19 +1,33 @@
 ---
-title: "nifontovoleg/haystack-telegram-agent-v2"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Haystack", "Pinecone", "Docling", "OpenAI API", "Telegram Bot API", "PyTelegramBotAPI", "tiktoken", "FastAPI (implied for future webhook)"]
+title: nifontovoleg/haystack-telegram-agent-v2
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Haystack
+- Pinecone
+- Docling
+- OpenAI API
+- Telegram Bot API
+- PyTelegramBotAPI
+- tiktoken
+- FastAPI (implied for future webhook)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Telegram bot", "RAG pipeline", "Long-term memory", "Document ingestion", "Tool-calling agent"]
-source: "https://github.com/nifontovoleg/haystack-telegram-agent-v2"
+deployment_complexity: Medium
+tags:
+- Telegram bot
+- RAG pipeline
+- Long-term memory
+- Document ingestion
+- Tool-calling agent
+source: https://github.com/nifontovoleg/haystack-telegram-agent-v2
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T14:38:29Z"
-discovered_at: "2026-08-09T15:35:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T14:38:29Z'
+discovered_at: '2026-08-09T15:35:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

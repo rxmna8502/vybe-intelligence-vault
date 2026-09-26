@@ -1,19 +1,31 @@
 ---
-title: "Nick2bad4u/codex-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Python", "Node.js", "ESLint", "Prettier", "GitHub Actions", "PowerShell"]
+title: Nick2bad4u/codex-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Python
+- Node.js
+- ESLint
+- Prettier
+- GitHub Actions
+- PowerShell
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Codex", "workflow automation", "code maintenance", "CI/CD debugging", "modular skills"]
-source: "https://github.com/Nick2bad4u/codex-skills"
+deployment_complexity: Medium
+tags:
+- Codex
+- workflow automation
+- code maintenance
+- CI/CD debugging
+- modular skills
+source: https://github.com/Nick2bad4u/codex-skills
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T04:10:19Z"
-discovered_at: "2026-08-04T04:14:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T04:10:19Z'
+discovered_at: '2026-08-04T04:14:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

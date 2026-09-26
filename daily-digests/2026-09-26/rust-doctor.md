@@ -1,19 +1,30 @@
 ---
-title: "arthjean/rust-doctor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Clippy", "npm", "OIDC", "Trusted Publishing", "Provenance Attestations"]
+title: arthjean/rust-doctor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- Clippy
+- npm
+- OIDC
+- Trusted Publishing
+- Provenance Attestations
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["static analysis", "Rust linter", "autofix", "security scanning", "code quality"]
-source: "https://github.com/arthjean/rust-doctor"
+deployment_complexity: Medium
+tags:
+- static analysis
+- Rust linter
+- autofix
+- security scanning
+- code quality
+source: https://github.com/arthjean/rust-doctor
 stars: 9
-language: "Rust"
-last_updated: "2026-08-02T11:51:56Z"
-discovered_at: "2026-08-02T12:02:52Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T11:51:56Z'
+discovered_at: '2026-08-02T12:02:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

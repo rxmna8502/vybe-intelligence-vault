@@ -1,19 +1,32 @@
 ---
-title: "xinhuangcs/CareerDesk"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "React 19", "Ollama", "vLLM", "SGLang", "GitHub Actions", "MIT License"]
+title: xinhuangcs/CareerDesk
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- React 19
+- Ollama
+- vLLM
+- SGLang
+- GitHub Actions
+- MIT License
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["job search", "AI assistant", "resume analysis", "interview preparation", "local-first"]
-source: "https://github.com/xinhuangcs/CareerDesk"
+deployment_complexity: Low
+tags:
+- job search
+- AI assistant
+- resume analysis
+- interview preparation
+- local-first
+source: https://github.com/xinhuangcs/CareerDesk
 stars: 28
-language: "Python"
-last_updated: "2026-08-07T19:49:39Z"
-discovered_at: "2026-08-07T19:58:10Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T19:49:39Z'
+discovered_at: '2026-08-07T19:58:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

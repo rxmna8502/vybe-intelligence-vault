@@ -1,19 +1,32 @@
 ---
-title: "apex-freen/apex-mcp-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP Protocol", "MQTT", "Docker", "ESP32", "JWT", "Plugin Engine", "Shell"]
+title: apex-freen/apex-mcp-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- MCP Protocol
+- MQTT
+- Docker
+- ESP32
+- JWT
+- Plugin Engine
+- Shell
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP Server", "Edge AI", "Zero-Trust", "Plugin Framework", "IoT Integration"]
-source: "https://github.com/apex-freen/apex-mcp-bridge"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- Edge AI
+- Zero-Trust
+- Plugin Framework
+- IoT Integration
+source: https://github.com/apex-freen/apex-mcp-bridge
 stars: 0
-language: "Shell"
-last_updated: "2026-08-08T04:45:28Z"
-discovered_at: "2026-08-08T04:59:04Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-08T04:45:28Z'
+discovered_at: '2026-08-08T04:59:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -7036,9 +7036,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A new world airport and its baggage](../ai/community/a-new-world-airport-and-its-baggage.md)
-  - [From Thin Air to Bootable Images: The Tine Build System](../ai/community/from-thin-air-to-bootable-images-the-tine-build-sy.md)
-  - [One Month Without AI](../ai/community/one-month-without-ai.md)
+  - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
+  - [Automattic has a new board after failed attempt to put CEO on leave](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md)
+  - [Banks and Credit Unions to Team Up Against Apple Pay Fees](../ai/community/banks-and-credit-unions-to-team-up-against-apple-p.md)
+  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
   - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
 
 ## animation
@@ -28530,8 +28531,8 @@ Resources organized by keyword tags.
   - [A matched-integrator evaluation of Hamiltonian neural networks on pendulum and Kepler dynamics](../ai/research/arxiv-2608-10235.md)
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
-  - [A new world airport and its baggage](../ai/community/a-new-world-airport-and-its-baggage.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
+  - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
   - [A single function Jev-like wrapper for LLMs, including vision models](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md)
   - [A solution to the Erd\H{o}s Problem #1040](../ai/rag/arxiv-2609-06050.md)
   - [A statistical approach to bias in zero-shot learning: the lens of handwriting recognition](../ai/rag/arxiv-2609-10084.md)
@@ -28850,6 +28851,7 @@ Resources organized by keyword tags.
   - [Automatically Evolving Prompt Guidelines for Task-Specific Optimization](../ai/rag/arxiv-2607-14105.md)
   - [Automating Attack Graph Construction for Agentic Pentesting. Towards Neuro-Symbolic Vulnerability Hunting](../ai/rag/arxiv-2609-15523.md)
   - [Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction](../ai/research/arxiv-2608-16541.md)
+  - [Automattic has a new board after failed attempt to put CEO on leave](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md)
   - [AvdLee/SwiftUI-Agent-Skill](../ai/agents/avdlee-swiftui-agent-skill.md)
   - [Azure/azure-search-vector-samples](../ai/rag/azure-azure-search-vector-samples.md)
   - [BASP: Communication-Efficient Batch-Aware Sequence Parallelism for LLM Training](../ai/rag/arxiv-2609-03151.md)
@@ -28865,6 +28867,7 @@ Resources organized by keyword tags.
   - [Balancing multiscale similarity and cartographic constraints: A similarity-driven optimization framework for line generalization](../ai/research/arxiv-2607-25474.md)
   - [Bandit Submodular Maximization under Matroid Constraints: Learning Compressed Exchange Policy](../ai/research/arxiv-2608-24627.md)
   - [Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis](../ai/rag/arxiv-2608-20343.md)
+  - [Banks and Credit Unions to Team Up Against Apple Pay Fees](../ai/community/banks-and-credit-unions-to-team-up-against-apple-p.md)
   - [Barchart | All Markets](../ai/rag/barchart-all-markets.md)
   - [Base barrier cells provide compartmentalization of choroid plexus, brain and CSF | Nature Neuroscience](../ai/rag/base-barrier-cells-provide-compartmentalization-of.md)
   - [Batch Size or Negatives? A Selection Rule for Memory-Constrained Recommender Training](../ai/research/arxiv-2608-11061.md)
@@ -29039,7 +29042,6 @@ Resources organized by keyword tags.
   - [CVE-TTP KG: Knowledge Graph Linking Software Vulnerabilities to Attack Behaviors](../ai/research/arxiv-2606-31557.md)
   - [CVF Open Access](../ai/resources/cvf-open-access.md)
   - [CVPR 2025 Open Access Repository](../ai/resources/cvpr-2025-open-access-repository.md)
-  - [Calculating atmospheric drag on satellites for a Cubesat [pdf]](../ai/community/calculating-atmospheric-drag-on-satellites-for-a-c.md)
   - [Calendars | Registrar’s Office](../ai/resources/calendars-registrars-office.md)
   - [Calibrated Sampling-Free Uncertainty Estimation in Bayesian Deep Learning](../ai/rag/arxiv-2606-16214.md)
   - [Call For Instructor / Mentor / Speaker](../ai/resources/call-for-instructor-mentor-speaker.md)
@@ -29789,7 +29791,6 @@ Resources organized by keyword tags.
   - [From Social Coding to Agentic Coding: Productivity and Relational Reconfiguration in Open-Source Communities](../ai/rag/arxiv-2608-03585.md)
   - [From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins](../ai/research/arxiv-2609-09625.md)
   - [From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection](../ai/research/arxiv-2608-11562.md)
-  - [From Thin Air to Bootable Images: The Tine Build System](../ai/community/from-thin-air-to-bootable-images-the-tine-build-sy.md)
   - [From Threat Intelligence to Detection: Knowledge-driven Enrichment and Template-based Rule Grounding for Automated Sigma Rule Generation](../ai/rag/arxiv-2608-19011.md)
   - [From Vessel Trajectories to Safety-Critical Encounter Scenarios: A Generative AI Framework for Autonomous Ship Digital Testing](../ai/agents/arxiv-2603-28067.md)
   - [From Visual Attribution to Clinical Reasoning: Explainable Parkinson's Disease Screening from Hand-Drawn Patterns](../ai/research/arxiv-2609-14441.md)
@@ -30100,6 +30101,7 @@ Resources organized by keyword tags.
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
+  - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
@@ -30804,7 +30806,6 @@ Resources organized by keyword tags.
   - [On the robustness of noisy solutions in non-convex neural networks](../ai/research/arxiv-2607-27000.md)
   - [On two proofs of $d^2$ mixing of weighted Dikin walks](../ai/research/arxiv-2608-28566.md)
   - [On-Device Adaptive Battery Power Prediction for Electric Vehicles](../ai/rag/arxiv-2607-09400.md)
-  - [One Month Without AI](../ai/community/one-month-without-ai.md)
   - [One Prompt, Many Sounds: Modeling Listener Variability in LLM-Based Equalization](../ai/rag/arxiv-2601-09448.md)
   - [One Token Is Enough: Fingerprinting and Verifying Large Language Models from Single-Token Output Distributions](../ai/research/arxiv-2607-10252.md)
   - [One-Point Contraction: Erasing Representational Separability toward Irreversible Deep Forgetting](../ai/research/arxiv-2507-07754.md)
@@ -30820,6 +30821,7 @@ Resources organized by keyword tags.
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
+  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -33000,6 +33002,7 @@ Resources organized by keyword tags.
 ## llm
 
   - [A single function Jev-like wrapper for LLMs, including vision models](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md)
+  - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
 
 ## mdx
 
@@ -40590,6 +40593,7 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
+  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAl4S: Code as Action, Science as Sessions](../ai/agents/arxiv-2609-15096.md)
@@ -48367,7 +48371,6 @@ Resources organized by keyword tags.
   - [Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching](../ai/rag/arxiv-2607-15516.md)
   - [CacheBridge: Efficient Cross-Model KV Cache Transfer](../ai/rag/arxiv-2609-00891.md)
   - [CalTwin: Towards Calibrated, Shift-Robust Medical World Models via Fisher-Information Regularisation](../ai/rag/arxiv-2607-26752.md)
-  - [Calculating atmospheric drag on satellites for a Cubesat [pdf]](../ai/community/calculating-atmospheric-drag-on-satellites-for-a-c.md)
   - [CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction](../ai/rag/arxiv-2606-05799.md)
   - [Caliber: Cross-Architecture Extraction-Cost Control for Score-Returning APIs](../ai/rag/arxiv-2608-01023.md)
   - [Calibrate-Then-Delegate: Safety Monitoring with Risk and Budget Guarantees via Model Cascades](../ai/rag/arxiv-2604-14251.md)
@@ -67365,4 +67368,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-26T19:00:27.370920+05:30*
+*Index generated on 2026-09-27T01:04:54.181987+05:30*

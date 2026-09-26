@@ -1,19 +1,35 @@
 ---
-title: "tradernetwork/etf-holdings-tracker"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "FastMCP", "Next.js", "TypeScript", "React", "Docker", "GitHub Actions", "CSV", "Tailwind CSS", "shadcn/ui"]
+title: tradernetwork/etf-holdings-tracker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- FastMCP
+- Next.js
+- TypeScript
+- React
+- Docker
+- GitHub Actions
+- CSV
+- Tailwind CSS
+- shadcn/ui
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["ETF holdings", "institutional intelligence", "daily signals", "MCP server", "REST API"]
-source: "https://github.com/tradernetwork/etf-holdings-tracker"
+deployment_complexity: Medium
+tags:
+- ETF holdings
+- institutional intelligence
+- daily signals
+- MCP server
+- REST API
+source: https://github.com/tradernetwork/etf-holdings-tracker
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-03T22:04:22Z"
-discovered_at: "2026-09-03T22:08:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T22:04:22Z'
+discovered_at: '2026-09-03T22:08:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

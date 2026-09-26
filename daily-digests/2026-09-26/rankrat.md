@@ -1,19 +1,33 @@
 ---
-title: "psyb0t/rankrat"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "MCP (Model Context Protocol)", "Docker", "OAuth", "SQLite/PostgreSQL", "OpenAPI", "Lighthouse", "Cloudflare API"]
+title: psyb0t/rankrat
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Docker
+- OAuth
+- SQLite/PostgreSQL
+- OpenAPI
+- Lighthouse
+- Cloudflare API
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SEO", "MCP server", "web performance", "data aggregation", "site auditing"]
-source: "https://github.com/psyb0t/rankrat"
+deployment_complexity: Medium
+tags:
+- SEO
+- MCP server
+- web performance
+- data aggregation
+- site auditing
+source: https://github.com/psyb0t/rankrat
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T01:32:13Z"
-discovered_at: "2026-08-10T01:35:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T01:32:13Z'
+discovered_at: '2026-08-10T01:35:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

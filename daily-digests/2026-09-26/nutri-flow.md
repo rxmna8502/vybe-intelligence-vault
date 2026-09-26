@@ -1,19 +1,40 @@
 ---
-title: "kianbqh/Nutri-flow"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "LangGraph", "FastAPI", "Spring Boot", "Vue 3", "Flutter", "MySQL", "Redis", "RabbitMQ", "MinIO/OSS", "Chroma", "Swin Transformer", "BiFPN", "Coordinate Attention", "Docker", "Caddy"]
+title: kianbqh/Nutri-flow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- Spring Boot
+- Vue 3
+- Flutter
+- MySQL
+- Redis
+- RabbitMQ
+- MinIO/OSS
+- Chroma
+- Swin Transformer
+- BiFPN
+- Coordinate Attention
+- Docker
+- Caddy
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["AI nutrition analysis", "food segmentation", "agent workflow", "multi-client architecture", "calorie estimation"]
-source: "https://github.com/kianbqh/Nutri-flow"
+deployment_complexity: High
+tags:
+- AI nutrition analysis
+- food segmentation
+- agent workflow
+- multi-client architecture
+- calorie estimation
+source: https://github.com/kianbqh/Nutri-flow
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T20:45:01Z"
-discovered_at: "2026-08-01T20:50:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T20:45:01Z'
+discovered_at: '2026-08-01T20:50:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

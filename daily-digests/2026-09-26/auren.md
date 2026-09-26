@@ -1,19 +1,34 @@
 ---
-title: "pranavgawaii/Auren"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Next.js", "TypeScript", "MongoDB Atlas", "Groq (Llama 3.3-70B)", "Anthropic Claude Haiku", "Clerk", "Tailwind CSS", "Corsair SDK", "Google Calendar API", "Vercel"]
+title: pranavgawaii/Auren
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Next.js
+- TypeScript
+- MongoDB Atlas
+- Groq (Llama 3.3-70B)
+- Anthropic Claude Haiku
+- Clerk
+- Tailwind CSS
+- Corsair SDK
+- Google Calendar API
+- Vercel
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI workflow automation", "multi-tool orchestration", "natural language execution", "human-in-the-loop", "audit logging"]
-source: "https://github.com/pranavgawaii/Auren"
+deployment_complexity: Medium
+tags:
+- AI workflow automation
+- multi-tool orchestration
+- natural language execution
+- human-in-the-loop
+- audit logging
+source: https://github.com/pranavgawaii/Auren
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T16:04:27Z"
-discovered_at: "2026-08-02T16:11:31Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T16:04:27Z'
+discovered_at: '2026-08-02T16:11:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

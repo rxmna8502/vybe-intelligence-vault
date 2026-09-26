@@ -1,19 +1,37 @@
 ---
-title: "kalinbogatzevski/captain-memo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "SQLite", "sqlite-vec", "Python", "FastAPI", "MCP (Model Context Protocol)", "Claude Code", "Claude Max", "Voyage AI API", "Ollama", "systemd", "Windows Scheduled Tasks"]
+title: kalinbogatzevski/captain-memo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Bun
+- SQLite
+- sqlite-vec
+- Python
+- FastAPI
+- MCP (Model Context Protocol)
+- Claude Code
+- Claude Max
+- Voyage AI API
+- Ollama
+- systemd
+- Windows Scheduled Tasks
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local memory", "cross-AI coordination", "hybrid search", "session observations", "MCP plugin"]
-source: "https://github.com/kalinbogatzevski/captain-memo"
+deployment_complexity: Medium
+tags:
+- local memory
+- cross-AI coordination
+- hybrid search
+- session observations
+- MCP plugin
+source: https://github.com/kalinbogatzevski/captain-memo
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-12T11:54:57Z"
-discovered_at: "2026-07-12T11:58:28Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T11:54:57Z'
+discovered_at: '2026-07-12T11:58:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

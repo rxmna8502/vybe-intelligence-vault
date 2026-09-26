@@ -1,19 +1,33 @@
 ---
-title: "IbiliAze/chatagent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "LangGraph", "PostgreSQL", "Presidio", "OpenSearch", "MCP Server", "uv", "Pytest"]
+title: IbiliAze/chatagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- LangGraph
+- PostgreSQL
+- Presidio
+- OpenSearch
+- MCP Server
+- uv
+- Pytest
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent", "security guardrails", "RAG integration", "conversation checkpointing", "customer support"]
-source: "https://github.com/IbiliAze/chatagent"
+deployment_complexity: Medium
+tags:
+- multi-agent
+- security guardrails
+- RAG integration
+- conversation checkpointing
+- customer support
+source: https://github.com/IbiliAze/chatagent
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T20:13:44Z"
-discovered_at: "2026-08-03T20:28:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T20:13:44Z'
+discovered_at: '2026-08-03T20:28:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "cyberspacesec/har-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "CLI", "Go SDK", "HAR (HTTP Archive) format", "JSON/YAML/CSV export", "MCP (planned)"]
+title: cyberspacesec/har-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Go
+- CLI
+- Go SDK
+- HAR (HTTP Archive) format
+- JSON/YAML/CSV export
+- MCP (planned)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["HAR analysis", "AI agent toolkit", "HTTP traffic inspection", "security auditing", "performance scoring"]
-source: "https://github.com/cyberspacesec/har-skills"
+deployment_complexity: Low
+tags:
+- HAR analysis
+- AI agent toolkit
+- HTTP traffic inspection
+- security auditing
+- performance scoring
+source: https://github.com/cyberspacesec/har-skills
 stars: 3
-language: "Go"
-last_updated: "2026-07-11T18:58:24Z"
-discovered_at: "2026-07-11T18:59:45Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-11T18:58:24Z'
+discovered_at: '2026-07-11T18:59:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

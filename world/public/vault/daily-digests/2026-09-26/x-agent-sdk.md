@@ -1,19 +1,31 @@
 ---
-title: "alarok/x-agent-sdk"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Bun", "GraphQL", "Model Context Protocol (MCP)", "Zod", "node-html-parser"]
+title: alarok/x-agent-sdk
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Bun
+- GraphQL
+- Model Context Protocol (MCP)
+- Zod
+- node-html-parser
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["X (Twitter) API", "MCP server", "cookie authentication", "AI agent integration", "unofficial API client"]
-source: "https://github.com/alarok/x-agent-sdk"
+deployment_complexity: Medium
+tags:
+- X (Twitter) API
+- MCP server
+- cookie authentication
+- AI agent integration
+- unofficial API client
+source: https://github.com/alarok/x-agent-sdk
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-06T09:36:03Z"
-discovered_at: "2026-08-06T09:42:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-06T09:36:03Z'
+discovered_at: '2026-08-06T09:42:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

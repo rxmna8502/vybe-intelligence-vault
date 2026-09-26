@@ -1,19 +1,35 @@
 ---
-title: "a252937166/proofline"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Solidity", "Node.js", "Injective EVM", "EIP-712", "x402 Payment Protocol", "MCP (Model Context Protocol)", "EIP-3009", "CC0 OpenFootball", "FIFA Match Review"]
+title: a252937166/proofline
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- React
+- Solidity
+- Node.js
+- Injective EVM
+- EIP-712
+- x402 Payment Protocol
+- MCP (Model Context Protocol)
+- EIP-3009
+- CC0 OpenFootball
+- FIFA Match Review
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["conflict resolution", "sports evidence", "blockchain anchoring", "AI agent verification", "deterministic proof"]
-source: "https://github.com/a252937166/proofline"
+deployment_complexity: High
+tags:
+- conflict resolution
+- sports evidence
+- blockchain anchoring
+- AI agent verification
+- deterministic proof
+source: https://github.com/a252937166/proofline
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-11T14:47:26Z"
-discovered_at: "2026-07-11T14:51:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T14:47:26Z'
+discovered_at: '2026-07-11T14:51:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

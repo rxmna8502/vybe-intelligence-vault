@@ -1,19 +1,32 @@
 ---
-title: "nkiyohara/corresync"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Model Context Protocol (MCP)", "OAuth", "IMAP/SMTP", "CalDAV", "JMAP", "Sigstore", "Shell scripting"]
+title: nkiyohara/corresync
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Go
+- Model Context Protocol (MCP)
+- OAuth
+- IMAP/SMTP
+- CalDAV
+- JMAP
+- Sigstore
+- Shell scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "email integration", "calendar sync", "local-first", "AI agent tooling"]
-source: "https://github.com/nkiyohara/corresync"
+deployment_complexity: Medium
+tags:
+- MCP server
+- email integration
+- calendar sync
+- local-first
+- AI agent tooling
+source: https://github.com/nkiyohara/corresync
 stars: 0
-language: "Go"
-last_updated: "2026-08-03T10:42:49Z"
-discovered_at: "2026-08-03T10:44:03Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-03T10:42:49Z'
+discovered_at: '2026-08-03T10:44:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

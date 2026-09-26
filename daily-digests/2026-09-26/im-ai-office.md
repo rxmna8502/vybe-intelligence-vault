@@ -1,19 +1,34 @@
 ---
-title: "ConradLu2740/im-ai-office"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["OpenIM", "Python", "FastAPI", "PostgreSQL", "Redis", "Node.js", "Tauri", "DeepSeek", "OpenAI-compatible LLM APIs", "Docker"]
+title: ConradLu2740/im-ai-office
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- OpenIM
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- Node.js
+- Tauri
+- DeepSeek
+- OpenAI-compatible LLM APIs
+- Docker
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["ChatOps", "Task Automation", "Self-hosted", "Kanban", "AI Assistant"]
-source: "https://github.com/ConradLu2740/im-ai-office"
+deployment_complexity: Medium
+tags:
+- ChatOps
+- Task Automation
+- Self-hosted
+- Kanban
+- AI Assistant
+source: https://github.com/ConradLu2740/im-ai-office
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T02:07:08Z"
-discovered_at: "2026-09-02T02:10:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:07:08Z'
+discovered_at: '2026-09-02T02:10:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

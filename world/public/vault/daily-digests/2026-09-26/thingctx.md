@@ -1,19 +1,34 @@
 ---
-title: "thingctx/thingctx"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "W3C Web of Things (WoT) Thing Description", "Asyncio", "FastAPI (implicit)", "MQTT", "HTTP", "RTSP", "OpenAPI", "JSON Schema", "litellm (for LLM integration)"]
+title: thingctx/thingctx
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- W3C Web of Things (WoT) Thing Description
+- Asyncio
+- FastAPI (implicit)
+- MQTT
+- HTTP
+- RTSP
+- OpenAPI
+- JSON Schema
+- litellm (for LLM integration)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent integration", "W3C WoT", "multi-protocol", "authorization", "security gating"]
-source: "https://github.com/thingctx/thingctx"
+deployment_complexity: Medium
+tags:
+- AI agent integration
+- W3C WoT
+- multi-protocol
+- authorization
+- security gating
+source: https://github.com/thingctx/thingctx
 stars: 14
-language: "Python"
-last_updated: "2026-08-02T17:59:53Z"
-discovered_at: "2026-08-02T18:02:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T17:59:53Z'
+discovered_at: '2026-08-02T18:02:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

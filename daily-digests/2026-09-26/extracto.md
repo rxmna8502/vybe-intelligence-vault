@@ -1,19 +1,44 @@
 ---
-title: "codelined-ag/Extracto"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Docker", "SQLite", "Chroma", "Qdrant", "Weaviate", "Milvus", "OpenSearch", "Pinecone", "Typesense", "Ollama", "Mistral OCR", "OpenAI-compatible endpoints", "React", "OpenAPI 3.1", "MCP (Model Context Protocol)", "Prometheus", "OAuth 2.0", "AES-256-GCM", "RSA SPKI"]
+title: codelined-ag/Extracto
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Docker
+- SQLite
+- Chroma
+- Qdrant
+- Weaviate
+- Milvus
+- OpenSearch
+- Pinecone
+- Typesense
+- Ollama
+- Mistral OCR
+- OpenAI-compatible endpoints
+- React
+- OpenAPI 3.1
+- MCP (Model Context Protocol)
+- Prometheus
+- OAuth 2.0
+- AES-256-GCM
+- RSA SPKI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["document processing", "OCR", "RAG pipeline", "self-hosted", "vector store integration"]
-source: "https://github.com/codelined-ag/Extracto"
+deployment_complexity: Medium
+tags:
+- document processing
+- OCR
+- RAG pipeline
+- self-hosted
+- vector store integration
+source: https://github.com/codelined-ag/Extracto
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-12T23:50:05Z"
-discovered_at: "2026-07-12T23:52:09Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T23:50:05Z'
+discovered_at: '2026-07-12T23:52:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

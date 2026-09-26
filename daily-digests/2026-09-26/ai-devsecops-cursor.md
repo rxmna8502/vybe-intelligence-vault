@@ -1,19 +1,29 @@
 ---
-title: "amsokol/ai-devsecops-cursor"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Cursor Agent SDK", "GitHub Actions", "YAML", "Bash"]
+title: amsokol/ai-devsecops-cursor
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Cursor Agent SDK
+- GitHub Actions
+- YAML
+- Bash
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["DevSecOps", "Dependency Management", "Vulnerability Scanning", "Cursor Agent SDK", "Automation"]
-source: "https://github.com/amsokol/ai-devsecops-cursor"
+deployment_complexity: Medium
+tags:
+- DevSecOps
+- Dependency Management
+- Vulnerability Scanning
+- Cursor Agent SDK
+- Automation
+source: https://github.com/amsokol/ai-devsecops-cursor
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T04:11:36Z"
-discovered_at: "2026-07-21T04:14:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T04:11:36Z'
+discovered_at: '2026-07-21T04:14:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

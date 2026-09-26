@@ -1,19 +1,35 @@
 ---
-title: "SidCorp-co/forge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Rust", "Hono", "Drizzle ORM", "PostgreSQL", "Next.js", "WebSocket", "Claude Code", "Docker", "pg-boss", "MCP"]
+title: SidCorp-co/forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Rust
+- Hono
+- Drizzle ORM
+- PostgreSQL
+- Next.js
+- WebSocket
+- Claude Code
+- Docker
+- pg-boss
+- MCP
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI-powered workflows", "self-hosted orchestration", "Claude Code integration", "pipeline management", "multi-device coordination"]
-source: "https://github.com/SidCorp-co/forge"
+deployment_complexity: Medium
+tags:
+- AI-powered workflows
+- self-hosted orchestration
+- Claude Code integration
+- pipeline management
+- multi-device coordination
+source: https://github.com/SidCorp-co/forge
 stars: 5
-language: "None"
-last_updated: "2026-09-02T02:06:35Z"
-discovered_at: "2026-09-02T02:12:32Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-02T02:06:35Z'
+discovered_at: '2026-09-02T02:12:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "winterop-com/stabbur"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Typer", "FastAPI", "Pydantic", "llama.cpp", "mlx", "mlx-audio", "Hugging Face", "Ollama", "LM Studio", "Bun", "JavaScript/TypeScript", "Chrome Extension (MV3)", "OpenAI API Compatibility"]
+title: winterop-com/stabbur
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Typer
+- FastAPI
+- Pydantic
+- llama.cpp
+- mlx
+- mlx-audio
+- Hugging Face
+- Ollama
+- LM Studio
+- Bun
+- JavaScript/TypeScript
+- Chrome Extension (MV3)
+- OpenAI API Compatibility
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local LLM library", "model management", "RAG tooling", "offline AI", "model serving"]
-source: "https://github.com/winterop-com/stabbur"
+deployment_complexity: Medium
+tags:
+- local LLM library
+- model management
+- RAG tooling
+- offline AI
+- model serving
+source: https://github.com/winterop-com/stabbur
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T15:47:22Z"
-discovered_at: "2026-09-02T15:49:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:47:22Z'
+discovered_at: '2026-09-02T15:49:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

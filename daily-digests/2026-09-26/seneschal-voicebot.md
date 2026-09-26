@@ -1,19 +1,37 @@
 ---
-title: "danieltvela/seneschal-voicebot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "Whisper STT", "Silero VAD", "mlx-lm", "oMLX", "AVSpeechSynthesizer", "Kokoro TTS", "SQLite", "MCP (Model Context Protocol)", "ONNX Runtime", "SFSpeechRecognizer", "HTTP API", "SSE (Server-Sent Events)"]
+title: danieltvela/seneschal-voicebot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- Whisper STT
+- Silero VAD
+- mlx-lm
+- oMLX
+- AVSpeechSynthesizer
+- Kokoro TTS
+- SQLite
+- MCP (Model Context Protocol)
+- ONNX Runtime
+- SFSpeechRecognizer
+- HTTP API
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["voice-assistant", "real-time-ai", "agent-delegation", "macOS-native", "Rust"]
-source: "https://github.com/danieltvela/seneschal-voicebot"
+deployment_complexity: Medium
+tags:
+- voice-assistant
+- real-time-ai
+- agent-delegation
+- macOS-native
+- Rust
+source: https://github.com/danieltvela/seneschal-voicebot
 stars: 3
-language: "Rust"
-last_updated: "2026-08-01T17:57:04Z"
-discovered_at: "2026-08-01T18:00:00Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T17:57:04Z'
+discovered_at: '2026-08-01T18:00:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

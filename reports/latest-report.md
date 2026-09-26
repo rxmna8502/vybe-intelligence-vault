@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-26T22:09:00.844386+05:30`
+Generated at: `2026-09-27T01:08:53.515196+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **How to keep enjoying programming in a world of LLMs** - Score: `83` in category `ai/community` ([Link](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)) ([File](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md))
+- **Banks and Credit Unions to Team Up Against Apple Pay Fees** - Score: `70` in category `ai/community` ([Link](https://macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances)) ([File](../ai/community/banks-and-credit-unions-to-team-up-against-apple-p.md))
+- **Automattic has a new board after failed attempt to put CEO on leave** - Score: `63` in category `ai/community` ([Link](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave)) ([File](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md))
+- **OpenAI bots meddled with multiple US Government agency sites** - Score: `51` in category `ai/community` ([Link](https://bbc.com/news/articles/cw62jje658dlo)) ([File](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md))
+- **A searchable library of forgotten public-domain film clips from 1915 onward** - Score: `21` in category `ai/community` ([Link](https://movingimagearchive.com)) ([File](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md))
 
 ## Top Trending Resources
 
-- **NousResearch/hermes-agent** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/nousresearch-hermes-agent.md))
-- **earendil-works/pi** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/earendil-works-pi.md))
-- **wxmb01/codex-app-autonomous-runs** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/wxmb01-codex-app-autonomous-runs.md))
-- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/agent0ai-agent-zero.md))
-- **plusai-solutions/ai-scrum-master-template** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/plusai-solutions-ai-scrum-master-template.md))
-- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **airalab/autonomous_agent_template** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/airalab-autonomous-agent-template.md))
-- **mvanhorn/clawdbot-skill-manus** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/mvanhorn-clawdbot-skill-manus.md))
-- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **viktoriasemaan/multi-agent** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/viktoriasemaan-multi-agent.md))
+- **Revealing the details of how OpenAI agents hacked Hugging Face** - Score: `650` (+111), Rank Change: `0` ([File](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md))
+- **A single function Jev-like wrapper for LLMs, including vision models** - Score: `124` (+24), Rank Change: `0` ([File](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+18` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+21` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+18` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-computer-interaction.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9273`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1017`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1017`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1017`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1017`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1017`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **openai/gsm8k** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-openai.md))
+- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
+- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-nvidia.md))
+- **tasl-lab/uniocc** - (Rank Change: `+38`) ([File](../ai/agents/huggingface-datasets-tasl-lab.md))
+- **world-igr-plum/regions** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-world-igr-plum.md))
+- **ayuo/hd_tmp** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **banned-historical-archives/banned-historical-archives** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
+- **Salesforce/wikitext** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **huggingface/documentation-images** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-huggingface.md))
+- **m-a-p/FineFineWeb** - (Rank Change: `+38`) ([File](../ai/models/huggingface-datasets-m-a-p.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,7 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **One Month Without AI** (Category: `ai/community`) ([File](../ai/community/one-month-without-ai.md))
+- **A new world airport and its baggage** (Category: `ai/community`) ([File](../ai/community/a-new-world-airport-and-its-baggage.md))
+- **From Thin Air to Bootable Images: The Tine Build System** (Category: `ai/community`) ([File](../ai/community/from-thin-air-to-bootable-images-the-tine-build-sy.md))
+- **Calculating atmospheric drag on satellites for a Cubesat [pdf]** (Category: `ai/community`) ([File](../ai/community/calculating-atmospheric-drag-on-satellites-for-a-c.md))

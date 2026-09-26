@@ -1,19 +1,34 @@
 ---
-title: "niemiecjakub/no-more-bets"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET", "PostgreSQL", "pgvector", "Hangfire", "OpenAI", "Soccerdata", "Brave Search", "Docker", "Model Context Protocol (MCP)"]
+title: niemiecjakub/no-more-bets
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- C#
+- .NET
+- PostgreSQL
+- pgvector
+- Hangfire
+- OpenAI
+- Soccerdata
+- Brave Search
+- Docker
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agent", "football betting", "AI research", "MCP tools", "semantic search"]
-source: "https://github.com/niemiecjakub/no-more-bets"
+deployment_complexity: Medium
+tags:
+- autonomous agent
+- football betting
+- AI research
+- MCP tools
+- semantic search
+source: https://github.com/niemiecjakub/no-more-bets
 stars: 1
-language: "C#"
-last_updated: "2026-08-10T19:57:51Z"
-discovered_at: "2026-08-10T20:02:05Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-10T19:57:51Z'
+discovered_at: '2026-08-10T20:02:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

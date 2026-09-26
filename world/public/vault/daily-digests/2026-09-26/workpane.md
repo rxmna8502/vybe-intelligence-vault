@@ -1,19 +1,32 @@
 ---
-title: "workpane/workpane"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["C++20", "Qt 6.11.2", "SQLite", "PTY/ConPTY", "Model Context Protocol (MCP)", "POSIX cron", "EditorConfig", "Language Servers"]
+title: workpane/workpane
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- C++20
+- Qt 6.11.2
+- SQLite
+- PTY/ConPTY
+- Model Context Protocol (MCP)
+- POSIX cron
+- EditorConfig
+- Language Servers
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["desktop workspace", "AI agents", "plugin architecture", "terminal integration", "persistent sessions"]
-source: "https://github.com/workpane/workpane"
+deployment_complexity: Medium
+tags:
+- desktop workspace
+- AI agents
+- plugin architecture
+- terminal integration
+- persistent sessions
+source: https://github.com/workpane/workpane
 stars: 0
-language: "C++"
-last_updated: "2026-09-02T02:04:29Z"
-discovered_at: "2026-09-02T02:10:21Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-09-02T02:04:29Z'
+discovered_at: '2026-09-02T02:10:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

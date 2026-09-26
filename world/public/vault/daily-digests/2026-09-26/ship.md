@@ -1,19 +1,32 @@
 ---
-title: "itsHabib/ship"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "pnpm", "Zod", "Pino (logging)", "@cursor/sdk"]
+title: itsHabib/ship
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- SQLite
+- pnpm
+- Zod
+- Pino (logging)
+- '@cursor/sdk'
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["workflow automation", "agent orchestration", "MCP server", "async execution", "state persistence"]
-source: "https://github.com/itsHabib/ship"
+deployment_complexity: Medium
+tags:
+- workflow automation
+- agent orchestration
+- MCP server
+- async execution
+- state persistence
+source: https://github.com/itsHabib/ship
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-10T20:18:37Z"
-discovered_at: "2026-07-10T20:22:32Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T20:18:37Z'
+discovered_at: '2026-07-10T20:22:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

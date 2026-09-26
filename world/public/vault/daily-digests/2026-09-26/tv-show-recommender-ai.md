@@ -1,19 +1,30 @@
 ---
-title: "Zopze/TV-Show-Recommender-AI"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Embeddings", "Cosine Similarity", "Fuzzy Matching", "OpenAI (for AI-generated posters)", "CLI"]
+title: Zopze/TV-Show-Recommender-AI
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- Embeddings
+- Cosine Similarity
+- Fuzzy Matching
+- OpenAI (for AI-generated posters)
+- CLI
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["Recommendation Engine", "TV Show Suggestions", "Embeddings", "Fuzzy Matching", "AI-Generated Art"]
-source: "https://github.com/Zopze/TV-Show-Recommender-AI"
+deployment_complexity: Low
+tags:
+- Recommendation Engine
+- TV Show Suggestions
+- Embeddings
+- Fuzzy Matching
+- AI-Generated Art
+source: https://github.com/Zopze/TV-Show-Recommender-AI
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T11:22:02Z"
-discovered_at: "2026-08-07T11:57:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:22:02Z'
+discovered_at: '2026-08-07T11:57:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

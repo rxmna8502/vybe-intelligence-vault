@@ -1,19 +1,38 @@
 ---
-title: "KostZen/Production-Ready-MCP-Servers-for-Claude-Code"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Model Context Protocol (MCP)", "GitHub", "Docker", "Playwright", "Brave Search", "Kagi Search", "MongoDB", "Redis", "Pinecone", "Notion", "Slack", "AWS", "Cloudflare", "Grafana"]
+title: KostZen/Production-Ready-MCP-Servers-for-Claude-Code
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Model Context Protocol (MCP)
+- GitHub
+- Docker
+- Playwright
+- Brave Search
+- Kagi Search
+- MongoDB
+- Redis
+- Pinecone
+- Notion
+- Slack
+- AWS
+- Cloudflare
+- Grafana
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP", "AI agents", "curated list", "integrations", "production-ready"]
-source: "https://github.com/KostZen/Production-Ready-MCP-Servers-for-Claude-Code"
+deployment_complexity: Medium
+tags:
+- MCP
+- AI agents
+- curated list
+- integrations
+- production-ready
+source: https://github.com/KostZen/Production-Ready-MCP-Servers-for-Claude-Code
 stars: 0
-language: "None"
-last_updated: "2026-07-18T12:59:16Z"
-discovered_at: "2026-07-18T13:10:04Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-18T12:59:16Z'
+discovered_at: '2026-07-18T13:10:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
