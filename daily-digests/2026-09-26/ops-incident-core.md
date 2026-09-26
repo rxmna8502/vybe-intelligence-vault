@@ -1,19 +1,34 @@
 ---
-title: "Auro-rium/Ops-Incident-Core"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Qdrant", "Redis", "Azure OpenAI", "Docker", "Alembic", "MCP (Model Context Protocol)", "Vercel"]
+title: Auro-rium/Ops-Incident-Core
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Qdrant
+- Redis
+- Azure OpenAI
+- Docker
+- Alembic
+- MCP (Model Context Protocol)
+- Vercel
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["Incident Investigation", "Evidence Collection", "Deterministic Retrieval", "Cited Answers", "Engineering Observability"]
-source: "https://github.com/Auro-rium/Ops-Incident-Core"
+deployment_complexity: High
+tags:
+- Incident Investigation
+- Evidence Collection
+- Deterministic Retrieval
+- Cited Answers
+- Engineering Observability
+source: https://github.com/Auro-rium/Ops-Incident-Core
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T14:35:45Z"
-discovered_at: "2026-08-09T14:37:47Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T14:35:45Z'
+discovered_at: '2026-08-09T14:37:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

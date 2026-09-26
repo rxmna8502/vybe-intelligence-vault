@@ -1,19 +1,32 @@
 ---
-title: "Athira286/HealthGuardian-AI"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["React", "Vite", "Firebase", "FastAPI", "Python", "Gemini", "LangGraph", "FAISS"]
+title: Athira286/HealthGuardian-AI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- React
+- Vite
+- Firebase
+- FastAPI
+- Python
+- Gemini
+- LangGraph
+- FAISS
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["healthcare", "multi-agent", "RAG", "fraud detection", "AI competition"]
-source: "https://github.com/Athira286/HealthGuardian-AI"
+deployment_complexity: Medium
+tags:
+- healthcare
+- multi-agent
+- RAG
+- fraud detection
+- AI competition
+source: https://github.com/Athira286/HealthGuardian-AI
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-15T16:16:38Z"
-discovered_at: "2026-07-15T16:20:53Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-15T16:16:38Z'
+discovered_at: '2026-07-15T16:20:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

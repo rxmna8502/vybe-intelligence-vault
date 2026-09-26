@@ -1,19 +1,29 @@
 ---
-title: "kud/mcp-github-copilot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "npm", "GitHub Copilot SDK", "Model Context Protocol (MCP)"]
+title: kud/mcp-github-copilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- npm
+- GitHub Copilot SDK
+- Model Context Protocol (MCP)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP", "GitHub Copilot", "Model Access", "Programmatic Query", "AI Integration"]
-source: "https://github.com/kud/mcp-github-copilot"
+deployment_complexity: Low
+tags:
+- MCP
+- GitHub Copilot
+- Model Access
+- Programmatic Query
+- AI Integration
+source: https://github.com/kud/mcp-github-copilot
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-03T16:23:42Z"
-discovered_at: "2026-08-03T16:26:17Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T16:23:42Z'
+discovered_at: '2026-08-03T16:26:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

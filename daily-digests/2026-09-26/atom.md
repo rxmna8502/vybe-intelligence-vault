@@ -1,19 +1,33 @@
 ---
-title: "0sage/atom"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Node.js", "Git", "Telegram Bot API", "OpenAI API", "Model Context Protocol (MCP)", "Markdown", "JSON/JSONL"]
+title: 0sage/atom
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- Git
+- Telegram Bot API
+- OpenAI API
+- Model Context Protocol (MCP)
+- Markdown
+- JSON/JSONL
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted", "AI agent", "file-based state", "Telegram integration", "OpenAI-compatible API"]
-source: "https://github.com/0sage/atom"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- AI agent
+- file-based state
+- Telegram integration
+- OpenAI-compatible API
+source: https://github.com/0sage/atom
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T09:21:25Z"
-discovered_at: "2026-08-10T09:24:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T09:21:25Z'
+discovered_at: '2026-08-10T09:24:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

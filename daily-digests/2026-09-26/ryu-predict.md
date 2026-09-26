@@ -1,19 +1,30 @@
 ---
-title: "amajorai/ryu-predict"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Win32 API", "UI Automation (UIA)", "GDI", "Cargo", "HTTP Client"]
+title: amajorai/ryu-predict
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- Win32 API
+- UI Automation (UIA)
+- GDI
+- Cargo
+- HTTP Client
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["predictive typing", "Windows automation", "UIA integration", "ghost text", "system-wide"]
-source: "https://github.com/amajorai/ryu-predict"
+deployment_complexity: Medium
+tags:
+- predictive typing
+- Windows automation
+- UIA integration
+- ghost text
+- system-wide
+source: https://github.com/amajorai/ryu-predict
 stars: 0
-language: "Rust"
-last_updated: "2026-08-05T08:31:50Z"
-discovered_at: "2026-08-05T08:35:42Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T08:31:50Z'
+discovered_at: '2026-08-05T08:35:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

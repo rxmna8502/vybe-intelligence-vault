@@ -1,19 +1,35 @@
 ---
-title: "kylemarvin884/Hikari-Studio"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "React", "TypeScript", "pywebview", "Nuitka", "Inno Setup", "FastAPI", "PostgreSQL", "WebView2", ".NET 8", "Mermaid.js"]
+title: kylemarvin884/Hikari-Studio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- React
+- TypeScript
+- pywebview
+- Nuitka
+- Inno Setup
+- FastAPI
+- PostgreSQL
+- WebView2
+- .NET 8
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Visual Novel Editor", "AI-Assisted Storytelling", "Interactive Fiction", "Game Development", "Local Desktop Tool"]
-source: "https://github.com/kylemarvin884/Hikari-Studio"
+deployment_complexity: Medium
+tags:
+- Visual Novel Editor
+- AI-Assisted Storytelling
+- Interactive Fiction
+- Game Development
+- Local Desktop Tool
+source: https://github.com/kylemarvin884/Hikari-Studio
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-08T14:31:06Z"
-discovered_at: "2026-08-08T14:35:05Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T14:31:06Z'
+discovered_at: '2026-08-08T14:35:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "babyblueviper1/invinoveritas"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "Lightning Network", "Bitcoin (OpenTimestamps)", "Nostr", "Stripe (payments)", "FastAPI (backend)", "SQL (database)", "Playwright (browser automation)"]
+title: babyblueviper1/invinoveritas
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Docker
+- Lightning Network
+- Bitcoin (OpenTimestamps)
+- Nostr
+- Stripe (payments)
+- FastAPI (backend)
+- SQL (database)
+- Playwright (browser automation)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["autonomous agents", "trading verification", "agent governance", "cryptographic proofs", "marketplace"]
-source: "https://github.com/babyblueviper1/invinoveritas"
+deployment_complexity: High
+tags:
+- autonomous agents
+- trading verification
+- agent governance
+- cryptographic proofs
+- marketplace
+source: https://github.com/babyblueviper1/invinoveritas
 stars: 5
-language: "Python"
-last_updated: "2026-08-10T18:54:17Z"
-discovered_at: "2026-08-10T19:01:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T18:54:17Z'
+discovered_at: '2026-08-10T19:01:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

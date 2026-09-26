@@ -1,19 +1,29 @@
 ---
-title: "HQSV-Labs/predictdog_skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "OpenClaw", "Virae API", "REST API", "Shell Scripting"]
+title: HQSV-Labs/predictdog_skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Claude Code
+- OpenClaw
+- Virae API
+- REST API
+- Shell Scripting
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["trading automation", "AI agent integration", "portfolio management", "market analysis", "crypto trading"]
-source: "https://github.com/HQSV-Labs/predictdog_skill"
+deployment_complexity: Low
+tags:
+- trading automation
+- AI agent integration
+- portfolio management
+- market analysis
+- crypto trading
+source: https://github.com/HQSV-Labs/predictdog_skill
 stars: 0
-language: "None"
-last_updated: "2026-07-15T05:25:18Z"
-discovered_at: "2026-07-15T05:29:47Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-15T05:25:18Z'
+discovered_at: '2026-07-15T05:29:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

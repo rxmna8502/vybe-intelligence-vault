@@ -1,19 +1,34 @@
 ---
-title: "ohad6k/emulo"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Claude Code", "Codex", "Copilot CLI", "Gemini", "OpenClaw", "Hermes Agent", "GitHub Actions", "FastAPI (implied for MCP server)"]
+title: ohad6k/emulo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Claude Code
+- Codex
+- Copilot CLI
+- Gemini
+- OpenClaw
+- Hermes Agent
+- GitHub Actions
+- FastAPI (implied for MCP server)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent personalization", "session mining", "profile generation", "local-first", "cross-agent compatibility"]
-source: "https://github.com/ohad6k/emulo"
+deployment_complexity: Medium
+tags:
+- AI agent personalization
+- session mining
+- profile generation
+- local-first
+- cross-agent compatibility
+source: https://github.com/ohad6k/emulo
 stars: 194
-language: "Python"
-last_updated: "2026-07-19T10:18:17Z"
-discovered_at: "2026-07-19T10:26:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T10:18:17Z'
+discovered_at: '2026-07-19T10:26:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

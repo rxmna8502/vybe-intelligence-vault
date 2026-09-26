@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-09-23T19:15:34.491822+05:30'
-published_at: '2026-09-22T23:14:02Z'
+collected_at: '2026-09-26T18:45:04.221514+05:30'
+published_at: '2026-09-25T17:47:53Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-stars: 96
+stars: 97
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-09-23T19:15:34.491822+05:30'
-last_seen: '2026-09-23T19:15:34.491822+05:30'
-last_checked: '2026-09-23T19:15:34.491822+05:30'
+first_seen: '2026-09-26T18:45:04.221514+05:30'
+last_seen: '2026-09-26T18:45:04.221514+05:30'
+last_checked: '2026-09-26T18:45:04.221514+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG curriculum covering foundational concepts to production deployment, structured across 4 modules and 20 chapters.
-*   Features 17 Jupyter Notebooks and 6 enterprise-grade practical case studies for hands-on application of RAG techniques.
-*   Focuses on Retrieval-Augmented Generation (RAG) leveraging LLMs, LangChain, and vector databases.
+*   Comprehensive RAG curriculum spanning foundational concepts to production deployment, systematically structured across 4 modules and 20 chapters.
+*   Practical implementation demonstrated through 17 Jupyter Notebooks, integrating LLMs, LangChain, and vector databases for retrieval-augmented generation.
+*   Features 6 enterprise-grade case studies, providing hands-on experience in real-world RAG system development and optimization.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vivy-yi
-- Stars: 96
-- Forks: 18
+- Stars: 97
+- Forks: 19
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
-- Last Updated: 2026-09-22T23:14:02Z
+- Last Updated: 2026-09-25T17:47:53Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T16:43:21Z

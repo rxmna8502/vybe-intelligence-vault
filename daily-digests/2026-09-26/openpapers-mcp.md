@@ -1,19 +1,29 @@
 ---
-title: "Scentless-trick128/openpapers-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "OpenAlex API", "CrossRef API", "Unpaywall API"]
+title: Scentless-trick128/openpapers-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- OpenAlex API
+- CrossRef API
+- Unpaywall API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["scientific-papers", "open-access", "MCP-server", "Claude-Desktop", "academic-research"]
-source: "https://github.com/Scentless-trick128/openpapers-mcp"
+deployment_complexity: Medium
+tags:
+- scientific-papers
+- open-access
+- MCP-server
+- Claude-Desktop
+- academic-research
+source: https://github.com/Scentless-trick128/openpapers-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T00:00:33Z"
-discovered_at: "2026-08-07T00:01:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T00:00:33Z'
+discovered_at: '2026-08-07T00:01:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

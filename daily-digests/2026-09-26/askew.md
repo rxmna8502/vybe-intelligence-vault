@@ -1,19 +1,32 @@
 ---
-title: "codersguru-hub/askew"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Vite", "React", "TypeScript", "Tailwind CSS", "WebMCP", "Node.js", "Nginx", "PM2"]
+title: codersguru-hub/askew
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Vite
+- React
+- TypeScript
+- Tailwind CSS
+- WebMCP
+- Node.js
+- Nginx
+- PM2
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI debugging", "live DOM inspection", "design token validation", "WebMCP integration", "React development"]
-source: "https://github.com/codersguru-hub/askew"
+deployment_complexity: Medium
+tags:
+- AI debugging
+- live DOM inspection
+- design token validation
+- WebMCP integration
+- React development
+source: https://github.com/codersguru-hub/askew
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:45:35Z"
-discovered_at: "2026-09-01T02:49:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:45:35Z'
+discovered_at: '2026-09-01T02:49:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

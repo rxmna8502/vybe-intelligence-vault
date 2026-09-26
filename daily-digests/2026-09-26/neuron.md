@@ -1,19 +1,31 @@
 ---
-title: "kovartravis/neuron"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "SQLite", "Transformers.js", "Tree-Sitter", "ONNX", "Node.js", "CLI"]
+title: kovartravis/neuron
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- SQLite
+- Transformers.js
+- Tree-Sitter
+- ONNX
+- Node.js
+- CLI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local-first", "agent memory", "markdown storage", "schema enforcement", "deterministic recall"]
-source: "https://github.com/kovartravis/neuron"
+deployment_complexity: Medium
+tags:
+- local-first
+- agent memory
+- markdown storage
+- schema enforcement
+- deterministic recall
+source: https://github.com/kovartravis/neuron
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-08T13:08:51Z"
-discovered_at: "2026-08-08T13:49:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T13:08:51Z'
+discovered_at: '2026-08-08T13:49:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

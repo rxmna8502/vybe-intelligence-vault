@@ -1,19 +1,32 @@
 ---
-title: "santhreal/veyyon"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "Node.js", "Language Server Protocol (LSP)", "GitHub Actions", "SQLite", "PDF processing", "Shell scripting"]
+title: santhreal/veyyon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Bun
+- Node.js
+- Language Server Protocol (LSP)
+- GitHub Actions
+- SQLite
+- PDF processing
+- Shell scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["terminal agent", "code editing", "prompt inspection", "secret management", "multi-agent coordination"]
-source: "https://github.com/santhreal/veyyon"
+deployment_complexity: Medium
+tags:
+- terminal agent
+- code editing
+- prompt inspection
+- secret management
+- multi-agent coordination
+source: https://github.com/santhreal/veyyon
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T13:08:26Z"
-discovered_at: "2026-08-01T13:16:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T13:08:26Z'
+discovered_at: '2026-08-01T13:16:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

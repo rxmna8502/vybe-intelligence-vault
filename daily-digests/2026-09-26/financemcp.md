@@ -1,19 +1,32 @@
 ---
-title: "guangxiangdebizi/FinanceMCP"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Node.js", "Express", "MCP SDK", "Tushare API", "Binance API", "TypeScript", "Streamable HTTP", "SSE (Server-Sent Events)"]
+title: guangxiangdebizi/FinanceMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Node.js
+- Express
+- MCP SDK
+- Tushare API
+- Binance API
+- TypeScript
+- Streamable HTTP
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["financial data", "MCP server", "real-time analysis", "technical indicators", "AI integration"]
-source: "https://github.com/guangxiangdebizi/FinanceMCP"
+deployment_complexity: Medium
+tags:
+- financial data
+- MCP server
+- real-time analysis
+- technical indicators
+- AI integration
+source: https://github.com/guangxiangdebizi/FinanceMCP
 stars: 640
-language: "JavaScript"
-last_updated: "2026-08-05T02:09:11Z"
-discovered_at: "2026-08-05T02:18:09Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-05T02:09:11Z'
+discovered_at: '2026-08-05T02:18:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

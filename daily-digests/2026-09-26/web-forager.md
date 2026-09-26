@@ -1,19 +1,31 @@
 ---
-title: "CyranoB/web-forager"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "DuckDuckGo Search (ddgs)", "Jina Reader", "trafilatura", "FastAPI", "MCP (Model Context Protocol)", "Agent Skills framework"]
+title: CyranoB/web-forager
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- DuckDuckGo Search (ddgs)
+- Jina Reader
+- trafilatura
+- FastAPI
+- MCP (Model Context Protocol)
+- Agent Skills framework
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web search", "AI agents", "information retrieval", "LLM tooling", "research automation"]
-source: "https://github.com/CyranoB/web-forager"
+deployment_complexity: Medium
+tags:
+- web search
+- AI agents
+- information retrieval
+- LLM tooling
+- research automation
+source: https://github.com/CyranoB/web-forager
 stars: 10
-language: "Python"
-last_updated: "2026-08-08T20:27:02Z"
-discovered_at: "2026-08-08T20:32:05Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T20:27:02Z'
+discovered_at: '2026-08-08T20:32:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

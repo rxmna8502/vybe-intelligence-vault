@@ -1,19 +1,30 @@
 ---
-title: "cyanheads/osv-advisory-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "OSV.dev API", "Docker", "Node.js"]
+title: cyanheads/osv-advisory-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- OSV.dev API
+- Docker
+- Node.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["vulnerability scanning", "dependency audit", "MCP server", "OSV.dev", "security"]
-source: "https://github.com/cyanheads/osv-advisory-mcp-server"
+deployment_complexity: Low
+tags:
+- vulnerability scanning
+- dependency audit
+- MCP server
+- OSV.dev
+- security
+source: https://github.com/cyanheads/osv-advisory-mcp-server
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-11T17:43:21Z"
-discovered_at: "2026-07-11T17:54:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T17:43:21Z'
+discovered_at: '2026-07-11T17:54:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "caihu0916/taskforge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Tauri", "Node.js", "Ollama", "LLM APIs", "DSL (Domain-Specific Language)", "PDCA (Plan-Do-Check-Act)", "A2A Protocol"]
+title: caihu0916/taskforge
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- Tauri
+- Node.js
+- Ollama
+- LLM APIs
+- DSL (Domain-Specific Language)
+- PDCA (Plan-Do-Check-Act)
+- A2A Protocol
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Agent Orchestration", "Workflow DSL", "Local-First", "Tauri Desktop", "PDCA Pipeline"]
-source: "https://github.com/caihu0916/taskforge"
+deployment_complexity: Medium
+tags:
+- AI Agent Orchestration
+- Workflow DSL
+- Local-First
+- Tauri Desktop
+- PDCA Pipeline
+source: https://github.com/caihu0916/taskforge
 stars: 0
-language: "Python"
-last_updated: "2026-07-16T08:08:09Z"
-discovered_at: "2026-07-16T08:09:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T08:08:09Z'
+discovered_at: '2026-07-16T08:09:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

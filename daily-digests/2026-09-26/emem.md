@@ -1,19 +1,32 @@
 ---
-title: "Vortx-AI/emem"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Model Context Protocol (MCP)", "ed25519 cryptographic signatures", "REST API", "HTTP servers", "Content-addressable storage", "Merkle proofs", "Satellite Earth observation data"]
+title: Vortx-AI/emem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- Model Context Protocol (MCP)
+- ed25519 cryptographic signatures
+- REST API
+- HTTP servers
+- Content-addressable storage
+- Merkle proofs
+- Satellite Earth observation data
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "shared memory", "cryptographic verification", "persistent facts", "trustless verification"]
-source: "https://github.com/Vortx-AI/emem"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- shared memory
+- cryptographic verification
+- persistent facts
+- trustless verification
+source: https://github.com/Vortx-AI/emem
 stars: 52
-language: "Rust"
-last_updated: "2026-08-05T05:35:49Z"
-discovered_at: "2026-08-05T05:49:12Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-05T05:35:49Z'
+discovered_at: '2026-08-05T05:49:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

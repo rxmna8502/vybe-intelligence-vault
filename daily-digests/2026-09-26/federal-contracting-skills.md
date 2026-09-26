@@ -1,19 +1,29 @@
 ---
-title: "Aballa6975/federal-contracting-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows", "Python", "API Integration", "Web Scraping", "Excel/Spreadsheet Tools"]
+title: Aballa6975/federal-contracting-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Windows
+- Python
+- API Integration
+- Web Scraping
+- Excel/Spreadsheet Tools
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["federal contracting", "IGCE builder", "SOW/PWS generator", "market research", "acquisition automation"]
-source: "https://github.com/Aballa6975/federal-contracting-skills"
+deployment_complexity: Low
+tags:
+- federal contracting
+- IGCE builder
+- SOW/PWS generator
+- market research
+- acquisition automation
+source: https://github.com/Aballa6975/federal-contracting-skills
 stars: 2
-language: "None"
-last_updated: "2026-07-10T20:19:57Z"
-discovered_at: "2026-07-10T20:22:30Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-10T20:19:57Z'
+discovered_at: '2026-07-10T20:22:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

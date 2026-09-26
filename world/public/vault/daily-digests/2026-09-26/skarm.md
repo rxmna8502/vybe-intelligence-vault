@@ -1,19 +1,35 @@
 ---
-title: "MasterBhuvnesh/skarm"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["Next.js 16", "Convex", "Clerk", "TypeScript", "Tailwind CSS v4", "React Flow", "DnD Kit", "NVIDIA NIM", "AWS SES", "Figma REST API", "GitHub API"]
+title: MasterBhuvnesh/skarm
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Next.js 16
+- Convex
+- Clerk
+- TypeScript
+- Tailwind CSS v4
+- React Flow
+- DnD Kit
+- NVIDIA NIM
+- AWS SES
+- Figma REST API
+- GitHub API
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["Issue Tracking", "Multi-Tenant", "AI Triage", "Real-Time Collaboration", "GitHub Integration"]
-source: "https://github.com/MasterBhuvnesh/skarm"
+deployment_complexity: High
+tags:
+- Issue Tracking
+- Multi-Tenant
+- AI Triage
+- Real-Time Collaboration
+- GitHub Integration
+source: https://github.com/MasterBhuvnesh/skarm
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-04T10:31:10Z"
-discovered_at: "2026-08-04T10:39:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T10:31:10Z'
+discovered_at: '2026-08-04T10:39:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

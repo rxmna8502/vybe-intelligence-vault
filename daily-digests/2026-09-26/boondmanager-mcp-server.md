@@ -1,19 +1,30 @@
 ---
-title: "fauguste/boondmanager-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Docker", "GitHub Actions", "JSON:API"]
+title: fauguste/boondmanager-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Docker
+- GitHub Actions
+- JSON:API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "BoondManager integration", "AI agent tools", "CRUD operations", "structured data"]
-source: "https://github.com/fauguste/boondmanager-mcp-server"
+deployment_complexity: Low
+tags:
+- MCP server
+- BoondManager integration
+- AI agent tools
+- CRUD operations
+- structured data
+source: https://github.com/fauguste/boondmanager-mcp-server
 stars: 19
-language: "TypeScript"
-last_updated: "2026-08-04T07:37:30Z"
-discovered_at: "2026-08-04T07:40:55Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T07:37:30Z'
+discovered_at: '2026-08-04T07:40:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

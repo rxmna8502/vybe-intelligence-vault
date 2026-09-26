@@ -1,19 +1,37 @@
 ---
-title: "joreilly/FantasyPremierLeague"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Kotlin Multiplatform", "Compose Multiplatform", "Jetpack ViewModel", "Jetpack Navigation 3", "Jetpack Room", "Jetpack DataStore", "Koog (AI Agent Framework)", "Gemini API", "Kotlin Notebook", "Model Context Protocol (MCP)", "Realm (persistence)", "Swift Async Algorithms", "Jupyter Notebook"]
+title: joreilly/FantasyPremierLeague
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Kotlin Multiplatform
+- Compose Multiplatform
+- Jetpack ViewModel
+- Jetpack Navigation 3
+- Jetpack Room
+- Jetpack DataStore
+- Koog (AI Agent Framework)
+- Gemini API
+- Kotlin Notebook
+- Model Context Protocol (MCP)
+- Realm (persistence)
+- Swift Async Algorithms
+- Jupyter Notebook
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Kotlin Multiplatform", "AI Agents", "MCP Server", "Compose Multiplatform", "Fantasy Sports"]
-source: "https://github.com/joreilly/FantasyPremierLeague"
+deployment_complexity: Medium
+tags:
+- Kotlin Multiplatform
+- AI Agents
+- MCP Server
+- Compose Multiplatform
+- Fantasy Sports
+source: https://github.com/joreilly/FantasyPremierLeague
 stars: 598
-language: "Jupyter Notebook"
-last_updated: "2026-08-08T21:25:27Z"
-discovered_at: "2026-08-08T21:33:29Z"
-evaluated_by: "mistral-small-latest"
+language: Jupyter Notebook
+last_updated: '2026-08-08T21:25:27Z'
+discovered_at: '2026-08-08T21:33:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

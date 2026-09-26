@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://swarmtraces.org
 hn_url: https://news.ycombinator.com/item?id=49849985
-score: 329
+score: 539
 author: specked-citrus
-comments_count: 191
+comments_count: 346
 published_at: '2026-09-26T02:39:27+05:30'
-collected_at: '2026-09-26T10:39:28.958771+05:30'
+collected_at: '2026-09-26T18:44:06.740642+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:revealing-the-details-of-how-openai-agents-hacked
 first_seen: '2026-09-26T10:39:28.958771+05:30'
-last_seen: '2026-09-26T10:39:28.958771+05:30'
-last_checked: '2026-09-26T10:39:28.958771+05:30'
+last_seen: '2026-09-26T18:44:06.740642+05:30'
+last_checked: '2026-09-26T18:44:06.740642+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by specked-citrus. Score: 329, Comments: 191.
+Hacker News story by specked-citrus. Score: 539, Comments: 346.
 Original Link: https://swarmtraces.org/
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: specked-citrus
-- Score: 329 Upvotes
-- Comments: 191 Discussions
+- Score: 539 Upvotes
+- Comments: 346 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49849985
 - Original Article: https://swarmtraces.org
 

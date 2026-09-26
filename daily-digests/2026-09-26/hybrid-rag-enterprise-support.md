@@ -1,19 +1,33 @@
 ---
-title: "saftyy/hybrid-rag-enterprise-support"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Pinecone", "OpenAI (text-embedding-3-small, gpt-4o-mini)", "LangChain", "BM25 (rank_bm25)", "Reciprocal Rank Fusion (RRF)", "Pydantic", "LangSmith (for evaluation)", "Tesseract OCR (planned)"]
+title: saftyy/hybrid-rag-enterprise-support
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Pinecone
+- OpenAI (text-embedding-3-small, gpt-4o-mini)
+- LangChain
+- BM25 (rank_bm25)
+- Reciprocal Rank Fusion (RRF)
+- Pydantic
+- LangSmith (for evaluation)
+- Tesseract OCR (planned)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG pipeline", "Hybrid retrieval", "Grounded generation", "Enterprise support", "Evaluation framework"]
-source: "https://github.com/saftyy/hybrid-rag-enterprise-support"
+deployment_complexity: Medium
+tags:
+- RAG pipeline
+- Hybrid retrieval
+- Grounded generation
+- Enterprise support
+- Evaluation framework
+source: https://github.com/saftyy/hybrid-rag-enterprise-support
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T01:54:29Z"
-discovered_at: "2026-08-09T03:46:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:54:29Z'
+discovered_at: '2026-08-09T03:46:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

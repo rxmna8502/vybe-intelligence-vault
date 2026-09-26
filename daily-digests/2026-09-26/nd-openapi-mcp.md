@@ -1,19 +1,29 @@
 ---
-title: "allenrobel/nd-openapi-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "OpenAPI", "MCP Server", "uv"]
+title: allenrobel/nd-openapi-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastMCP
+- OpenAPI
+- MCP Server
+- uv
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP Server", "OpenAPI", "Cisco Nexus Dashboard", "Schema Management", "API Development"]
-source: "https://github.com/allenrobel/nd-openapi-mcp"
+deployment_complexity: Medium
+tags:
+- MCP Server
+- OpenAPI
+- Cisco Nexus Dashboard
+- Schema Management
+- API Development
+source: https://github.com/allenrobel/nd-openapi-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-09-04T02:05:06Z"
-discovered_at: "2026-09-04T02:17:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T02:05:06Z'
+discovered_at: '2026-09-04T02:17:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "88plug/total-recall"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "FastEmbed", "Ollama", "MCP (Model Context Protocol)", "Bash", "JSONL", "SQLite-Vec"]
+title: 88plug/total-recall
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- SQLite
+- FastEmbed
+- Ollama
+- MCP (Model Context Protocol)
+- Bash
+- JSONL
+- SQLite-Vec
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["memory", "contextual continuity", "transcript mining", "local AI", "MCP plugin"]
-source: "https://github.com/88plug/total-recall"
+deployment_complexity: Medium
+tags:
+- memory
+- contextual continuity
+- transcript mining
+- local AI
+- MCP plugin
+source: https://github.com/88plug/total-recall
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T14:39:34Z"
-discovered_at: "2026-07-17T14:43:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T14:39:34Z'
+discovered_at: '2026-07-17T14:43:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

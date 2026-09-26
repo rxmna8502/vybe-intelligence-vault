@@ -1,19 +1,34 @@
 ---
-title: "VersusControl/versus-incident"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Redis", "YAML", "REST API", "Docker", "Slack", "Microsoft Teams", "Telegram", "PagerDuty", "Opsgenie"]
+title: VersusControl/versus-incident
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Go
+- Redis
+- YAML
+- REST API
+- Docker
+- Slack
+- Microsoft Teams
+- Telegram
+- PagerDuty
+- Opsgenie
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI SRE", "Incident Management", "Log Analysis", "Anomaly Detection", "Self-hosted"]
-source: "https://github.com/VersusControl/versus-incident"
+deployment_complexity: Medium
+tags:
+- AI SRE
+- Incident Management
+- Log Analysis
+- Anomaly Detection
+- Self-hosted
+source: https://github.com/VersusControl/versus-incident
 stars: 711
-language: "Go"
-last_updated: "2026-08-04T07:34:48Z"
-discovered_at: "2026-08-04T07:40:07Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T07:34:48Z'
+discovered_at: '2026-08-04T07:40:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

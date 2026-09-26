@@ -1,19 +1,35 @@
 ---
-title: "JSUYA/flowmux"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "GTK4", "Libadwaita", "VTE (Terminal Emulation)", "WebKitGTK", "D-Bus", "libnotify", "ThorVG (Image Viewer)", "GStreamer (Media Playback)", "libsecret (Cookie Management)", "Unix Sockets (IPC)"]
+title: JSUYA/flowmux
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- GTK4
+- Libadwaita
+- VTE (Terminal Emulation)
+- WebKitGTK
+- D-Bus
+- libnotify
+- ThorVG (Image Viewer)
+- GStreamer (Media Playback)
+- libsecret (Cookie Management)
+- Unix Sockets (IPC)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent integration", "terminal multiplexer", "browser automation", "desktop notifications", "GTK4 application"]
-source: "https://github.com/JSUYA/flowmux"
+deployment_complexity: Medium
+tags:
+- AI agent integration
+- terminal multiplexer
+- browser automation
+- desktop notifications
+- GTK4 application
+source: https://github.com/JSUYA/flowmux
 stars: 9
-language: "Rust"
-last_updated: "2026-07-12T11:52:31Z"
-discovered_at: "2026-07-12T11:58:16Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-12T11:52:31Z'
+discovered_at: '2026-07-12T11:58:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

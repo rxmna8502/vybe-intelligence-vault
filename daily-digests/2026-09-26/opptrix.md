@@ -1,19 +1,34 @@
 ---
-title: "Travisun/Opptrix"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "Fastify", "Docker", "Node.js", "Electron", "MCP (Model Context Protocol)", "LLM APIs", "PostgreSQL", "Redis"]
+title: Travisun/Opptrix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- React
+- Fastify
+- Docker
+- Node.js
+- Electron
+- MCP (Model Context Protocol)
+- LLM APIs
+- PostgreSQL
+- Redis
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["investment research", "multi-market analysis", "self-hosted", "LLM integration", "financial data aggregation"]
-source: "https://github.com/Travisun/Opptrix"
+deployment_complexity: Medium
+tags:
+- investment research
+- multi-market analysis
+- self-hosted
+- LLM integration
+- financial data aggregation
+source: https://github.com/Travisun/Opptrix
 stars: 229
-language: "TypeScript"
-last_updated: "2026-09-02T02:00:47Z"
-discovered_at: "2026-09-02T02:14:17Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T02:00:47Z'
+discovered_at: '2026-09-02T02:14:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

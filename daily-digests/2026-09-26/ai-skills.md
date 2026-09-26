@@ -1,19 +1,29 @@
 ---
-title: "kevin-lee/ai-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Scala 3", "Scala Native", "CLI", "YAML", "Git"]
+title: kevin-lee/ai-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Scala 3
+- Scala Native
+- CLI
+- YAML
+- Git
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI agent skills", "prompt management", "CLI tool", "Scala Native", "skill marketplace"]
-source: "https://github.com/kevin-lee/ai-skills"
+deployment_complexity: Low
+tags:
+- AI agent skills
+- prompt management
+- CLI tool
+- Scala Native
+- skill marketplace
+source: https://github.com/kevin-lee/ai-skills
 stars: 5
-language: "Scala"
-last_updated: "2026-08-09T08:41:46Z"
-discovered_at: "2026-08-09T08:45:08Z"
-evaluated_by: "mistral-small-latest"
+language: Scala
+last_updated: '2026-08-09T08:41:46Z'
+discovered_at: '2026-08-09T08:45:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "mapleleavessssssss-wq/vivado-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Xilinx Vivado", "Tcl", "JSON", "XML"]
+title: mapleleavessssssss-wq/vivado-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Xilinx Vivado
+- Tcl
+- JSON
+- XML
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["FPGA development", "Vivado automation", "MCP server", "AI agent integration", "hardware design"]
-source: "https://github.com/mapleleavessssssss-wq/vivado-mcp"
+deployment_complexity: Medium
+tags:
+- FPGA development
+- Vivado automation
+- MCP server
+- AI agent integration
+- hardware design
+source: https://github.com/mapleleavessssssss-wq/vivado-mcp
 stars: 98
-language: "Python"
-last_updated: "2026-08-09T08:37:35Z"
-discovered_at: "2026-08-09T08:45:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T08:37:35Z'
+discovered_at: '2026-08-09T08:45:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

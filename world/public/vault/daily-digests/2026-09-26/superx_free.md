@@ -1,19 +1,32 @@
 ---
-title: "ashishbishnoi18/superx.free"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Elixir", "Phoenix LiveView", "PostgreSQL", "Oban", "pgvector", "X API v2", "twitterapi.io", "LLM APIs (e.g., DeepSeek, Anthropic)"]
+title: ashishbishnoi18/superx.free
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Elixir
+- Phoenix LiveView
+- PostgreSQL
+- Oban
+- pgvector
+- X API v2
+- twitterapi.io
+- LLM APIs (e.g., DeepSeek, Anthropic)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["self-hosted", "X (Twitter) automation", "content scheduling", "voice learning", "open-source"]
-source: "https://github.com/ashishbishnoi18/superx.free"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- X (Twitter) automation
+- content scheduling
+- voice learning
+- open-source
+source: https://github.com/ashishbishnoi18/superx.free
 stars: 0
-language: "Elixir"
-last_updated: "2026-08-02T12:02:31Z"
-discovered_at: "2026-08-02T12:02:42Z"
-evaluated_by: "mistral-small-latest"
+language: Elixir
+last_updated: '2026-08-02T12:02:31Z'
+discovered_at: '2026-08-02T12:02:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "Fran0808/mcp-system-stats"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Vitest", "GitHub Actions"]
+title: Fran0808/mcp-system-stats
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Vitest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["system monitoring", "MCP server", "hardware metrics", "real-time stats", "LLM integration"]
-source: "https://github.com/Fran0808/mcp-system-stats"
+deployment_complexity: Low
+tags:
+- system monitoring
+- MCP server
+- hardware metrics
+- real-time stats
+- LLM integration
+source: https://github.com/Fran0808/mcp-system-stats
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T23:45:40Z"
-discovered_at: "2026-08-01T23:57:32Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T23:45:40Z'
+discovered_at: '2026-08-01T23:57:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

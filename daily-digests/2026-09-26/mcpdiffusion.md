@@ -1,19 +1,31 @@
 ---
-title: "InseeFrLab/McpDiffusion"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Uvicorn", "SPARQL", "Elasticsearch", "Docker", "FastAPI"]
+title: InseeFrLab/McpDiffusion
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastMCP
+- Uvicorn
+- SPARQL
+- Elasticsearch
+- Docker
+- FastAPI
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "INSEE data", "statistical analysis", "LLM integration", "SPARQL endpoint"]
-source: "https://github.com/InseeFrLab/McpDiffusion"
+deployment_complexity: Medium
+tags:
+- MCP server
+- INSEE data
+- statistical analysis
+- LLM integration
+- SPARQL endpoint
+source: https://github.com/InseeFrLab/McpDiffusion
 stars: 1
-language: "Python"
-last_updated: "2026-08-06T09:38:16Z"
-discovered_at: "2026-08-06T09:42:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T09:38:16Z'
+discovered_at: '2026-08-06T09:42:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

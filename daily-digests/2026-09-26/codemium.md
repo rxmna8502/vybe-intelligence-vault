@@ -1,19 +1,30 @@
 ---
-title: "admahmad/codemium"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Agent Skills", "Plugin Systems", "JSON/JSONL", "CLI Tools", "Extension Frameworks"]
+title: admahmad/codemium
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Agent Skills
+- Plugin Systems
+- JSON/JSONL
+- CLI Tools
+- Extension Frameworks
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI coding agents", "project-aware context", "deterministic engineering", "multi-host integration", "engineering depth control"]
-source: "https://github.com/admahmad/codemium"
+deployment_complexity: Medium
+tags:
+- AI coding agents
+- project-aware context
+- deterministic engineering
+- multi-host integration
+- engineering depth control
+source: https://github.com/admahmad/codemium
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T15:58:09Z"
-discovered_at: "2026-08-07T16:01:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T15:58:09Z'
+discovered_at: '2026-08-07T16:01:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

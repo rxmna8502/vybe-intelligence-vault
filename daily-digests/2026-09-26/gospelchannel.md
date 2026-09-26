@@ -1,19 +1,35 @@
 ---
-title: "Ac0AI/gospelchannel"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Next.js 16", "OpenNext", "Cloudflare Workers", "Neon Postgres", "Drizzle ORM", "Better Auth", "Spotify Web API", "YouTube Data API", "Cloudflare R2", "PostHog", "TypeScript"]
+title: Ac0AI/gospelchannel
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Next.js 16
+- OpenNext
+- Cloudflare Workers
+- Neon Postgres
+- Drizzle ORM
+- Better Auth
+- Spotify Web API
+- YouTube Data API
+- Cloudflare R2
+- PostHog
+- TypeScript
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["church discovery", "worship platform", "Next.js", "Cloudflare Workers", "music integration"]
-source: "https://github.com/Ac0AI/gospelchannel"
+deployment_complexity: Medium
+tags:
+- church discovery
+- worship platform
+- Next.js
+- Cloudflare Workers
+- music integration
+source: https://github.com/Ac0AI/gospelchannel
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-02T08:18:12Z"
-discovered_at: "2026-09-02T08:22:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:18:12Z'
+discovered_at: '2026-09-02T08:22:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

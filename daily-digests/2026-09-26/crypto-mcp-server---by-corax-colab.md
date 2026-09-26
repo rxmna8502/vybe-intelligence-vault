@@ -1,19 +1,39 @@
 ---
-title: "PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Node.js", "React", "Vite", "TypeScript", "Three.js", "CCXT", "SQLite", "Gemini API", "Claude API", "OpenAI API", "Telegram Bot API", "REST APIs", "WebSockets", "Systemd"]
+title: PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Node.js
+- React
+- Vite
+- TypeScript
+- Three.js
+- CCXT
+- SQLite
+- Gemini API
+- Claude API
+- OpenAI API
+- Telegram Bot API
+- REST APIs
+- WebSockets
+- Systemd
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Trading", "Multi-Agent System", "Blockchain Dashboard", "Autonomous Agents", "Real-Time Data"]
-source: "https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB"
+deployment_complexity: Medium
+tags:
+- AI Trading
+- Multi-Agent System
+- Blockchain Dashboard
+- Autonomous Agents
+- Real-Time Data
+source: https://github.com/PelleNybe/Crypto-MCP-Server---by-Corax-CoLAB
 stars: 8
-language: "TypeScript"
-last_updated: "2026-07-19T15:51:38Z"
-discovered_at: "2026-07-19T15:56:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T15:51:38Z'
+discovered_at: '2026-07-19T15:56:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "prasadt1/premortem-datahub"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "DataHub", "SQL", "MCP (Model Context Protocol)", "GraphQL", "Apache-2.0"]
+title: prasadt1/premortem-datahub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- DataHub
+- SQL
+- MCP (Model Context Protocol)
+- GraphQL
+- Apache-2.0
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["schema change", "data lineage", "impact analysis", "CI/CD", "DataHub integration"]
-source: "https://github.com/prasadt1/premortem-datahub"
+deployment_complexity: Medium
+tags:
+- schema change
+- data lineage
+- impact analysis
+- CI/CD
+- DataHub integration
+source: https://github.com/prasadt1/premortem-datahub
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T16:04:48Z"
-discovered_at: "2026-08-10T16:06:38Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T16:04:48Z'
+discovered_at: '2026-08-10T16:06:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

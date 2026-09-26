@@ -1,19 +1,39 @@
 ---
-title: "hivementality-ai/hivemind"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Ruby", "Rails", "Docker", "Docker Compose", "JavaScript", "PostgreSQL", "Redis", "Playwright", "Anthropic SDK", "OpenAI SDK", "Google Gemini SDK", "Ollama", "MCP (Model Context Protocol)", "WebSockets", "REST APIs"]
+title: hivementality-ai/hivemind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Ruby
+- Rails
+- Docker
+- Docker Compose
+- JavaScript
+- PostgreSQL
+- Redis
+- Playwright
+- Anthropic SDK
+- OpenAI SDK
+- Google Gemini SDK
+- Ollama
+- MCP (Model Context Protocol)
+- WebSockets
+- REST APIs
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "AI orchestration", "sandboxed agents", "collaborative AI", "self-hosted"]
-source: "https://github.com/hivementality-ai/hivemind"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- AI orchestration
+- sandboxed agents
+- collaborative AI
+- self-hosted
+source: https://github.com/hivementality-ai/hivemind
 stars: 61
-language: "Ruby"
-last_updated: "2026-08-08T20:22:27Z"
-discovered_at: "2026-08-08T20:31:59Z"
-evaluated_by: "mistral-small-latest"
+language: Ruby
+last_updated: '2026-08-08T20:22:27Z'
+discovered_at: '2026-08-08T20:31:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

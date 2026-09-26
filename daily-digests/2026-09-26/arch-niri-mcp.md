@@ -1,19 +1,35 @@
 ---
-title: "oki3505F/arch-niri-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Wayland", "Niri DE", "Arch Linux", "CachyOS", "Systemd", "PipeWire", "wl-clipboard", "fastfetch", "yay"]
+title: oki3505F/arch-niri-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Wayland
+- Niri DE
+- Arch Linux
+- CachyOS
+- Systemd
+- PipeWire
+- wl-clipboard
+- fastfetch
+- yay
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Wayland automation", "desktop control", "system management", "AI assistant integration"]
-source: "https://github.com/oki3505F/arch-niri-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Wayland automation
+- desktop control
+- system management
+- AI assistant integration
+source: https://github.com/oki3505F/arch-niri-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T05:45:37Z"
-discovered_at: "2026-08-05T05:49:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:45:37Z'
+discovered_at: '2026-08-05T05:49:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

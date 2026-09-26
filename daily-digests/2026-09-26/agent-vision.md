@@ -1,19 +1,31 @@
 ---
-title: "SIMON-WORLD/agent-vision"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "OpenAI API", "CLI", "Proxy Server", "Environment Variables", "GitHub Actions"]
+title: SIMON-WORLD/agent-vision
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- OpenAI API
+- CLI
+- Proxy Server
+- Environment Variables
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["image-to-text", "AI agent adapter", "vision proxy", "text-only models", "local processing"]
-source: "https://github.com/SIMON-WORLD/agent-vision"
+deployment_complexity: Medium
+tags:
+- image-to-text
+- AI agent adapter
+- vision proxy
+- text-only models
+- local processing
+source: https://github.com/SIMON-WORLD/agent-vision
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T10:33:39Z"
-discovered_at: "2026-08-04T10:39:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T10:33:39Z'
+discovered_at: '2026-08-04T10:39:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

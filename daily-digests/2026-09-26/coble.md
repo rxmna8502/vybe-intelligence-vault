@@ -1,19 +1,31 @@
 ---
-title: "theMobiusStrip/coble"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "LangGraph.js", "Ink", "SQLite", "Node.js", "Docker", "OS-level sandboxing (bubblewrap/Seatbelt)"]
+title: theMobiusStrip/coble
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- LangGraph.js
+- Ink
+- SQLite
+- Node.js
+- Docker
+- OS-level sandboxing (bubblewrap/Seatbelt)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["coding agent", "security", "sandboxing", "provider-agnostic", "audit trail"]
-source: "https://github.com/theMobiusStrip/coble"
+deployment_complexity: Medium
+tags:
+- coding agent
+- security
+- sandboxing
+- provider-agnostic
+- audit trail
+source: https://github.com/theMobiusStrip/coble
 stars: 2
-language: "TypeScript"
-last_updated: "2026-07-10T23:04:00Z"
-discovered_at: "2026-07-10T23:08:20Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-10T23:04:00Z'
+discovered_at: '2026-07-10T23:08:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

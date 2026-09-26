@@ -1,19 +1,29 @@
 ---
-title: "ry4ever/ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "MCP (Model Context Protocol)", "x402 Payment Protocol", "USDC (Base L2)", "Node.js"]
+title: ry4ever/ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- MCP (Model Context Protocol)
+- x402 Payment Protocol
+- USDC (Base L2)
+- Node.js
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP server", "pay-per-call", "AI agent tools", "micropayments", "USDC on Base"]
-source: "https://github.com/ry4ever/ai-agent"
+deployment_complexity: Low
+tags:
+- MCP server
+- pay-per-call
+- AI agent tools
+- micropayments
+- USDC on Base
+source: https://github.com/ry4ever/ai-agent
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T17:30:51Z"
-discovered_at: "2026-08-08T17:33:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T17:30:51Z'
+discovered_at: '2026-08-08T17:33:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

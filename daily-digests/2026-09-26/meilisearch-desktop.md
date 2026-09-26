@@ -1,19 +1,29 @@
 ---
-title: "conceited-watergillyflower311/meilisearch-desktop"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "TypeScript", "React", "Tauri 2", "Meilisearch"]
+title: conceited-watergillyflower311/meilisearch-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- TypeScript
+- React
+- Tauri 2
+- Meilisearch
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Meilisearch", "desktop-app", "local-search", "Tauri", "GUI"]
-source: "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+deployment_complexity: Low
+tags:
+- Meilisearch
+- desktop-app
+- local-search
+- Tauri
+- GUI
+source: https://github.com/conceited-watergillyflower311/meilisearch-desktop
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T09:32:58Z"
-discovered_at: "2026-08-07T10:05:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T09:32:58Z'
+discovered_at: '2026-08-07T10:05:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

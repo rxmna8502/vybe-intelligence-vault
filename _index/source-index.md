@@ -27624,13 +27624,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [A new world airport and its baggage](../ai/community/a-new-world-airport-and-its-baggage.md)
   - [A single function Jev-like wrapper for LLMs, including vision models](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md)
-  - [An airport cooled by natural ventilation](../ai/community/an-airport-cooled-by-natural-ventilation.md)
-  - [I wrote a ray tracer in Brainfuck](../ai/community/i-wrote-a-ray-tracer-in-brainfuck.md)
-  - [Microsoft abandons personal AI chatbot race with Copilot reboot](../ai/community/microsoft-abandons-personal-ai-chatbot-race-with-c.md)
-  - [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](../ai/community/one-piece-of-flock-camera-data-put-this-innocent-w.md)
+  - [Calculating atmospheric drag on satellites for a Cubesat [pdf]](../ai/community/calculating-atmospheric-drag-on-satellites-for-a-c.md)
+  - [From Thin Air to Bootable Images: The Tine Build System](../ai/community/from-thin-air-to-bootable-images-the-tine-build-sy.md)
+  - [One Month Without AI](../ai/community/one-month-without-ai.md)
   - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
-  - [U.S. appeals court upholds designation of Anthropic as supply chain risk](../ai/community/u-s-appeals-court-upholds-designation-of-anthropic.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31501,4 +31500,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-26T10:55:51.138644+05:30*
+*Index generated on 2026-09-26T19:00:27.717036+05:30*

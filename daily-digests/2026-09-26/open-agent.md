@@ -1,19 +1,31 @@
 ---
-title: "muhtalhakhan/open-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "LLM Provider Abstraction (OpenAI, Anthropic, Ollama, etc.)", "Browser Automation (e.g., Playwright)", "File System & Terminal Access", "Docker", "MCP (Model Context Protocol) Servers"]
+title: muhtalhakhan/open-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- LLM Provider Abstraction (OpenAI, Anthropic, Ollama, etc.)
+- Browser Automation (e.g., Playwright)
+- File System & Terminal Access
+- Docker
+- MCP (Model Context Protocol) Servers
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI Agents", "Self-hosted", "Multi-model", "Tool Integration", "Automation"]
-source: "https://github.com/muhtalhakhan/open-agent"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- Self-hosted
+- Multi-model
+- Tool Integration
+- Automation
+source: https://github.com/muhtalhakhan/open-agent
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-03T22:03:00Z"
-discovered_at: "2026-09-03T22:08:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T22:03:00Z'
+discovered_at: '2026-09-03T22:08:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

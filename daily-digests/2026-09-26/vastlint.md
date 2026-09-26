@@ -1,19 +1,33 @@
 ---
-title: "aleksUIX/vastlint"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Quick-XML", "URL parsing", "PHF (Perfect Hash Functions)", "Docker", "WASM", "React", "MCP (Model Context Protocol)", "Cloudflare Workers"]
+title: aleksUIX/vastlint
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- Quick-XML
+- URL parsing
+- PHF (Perfect Hash Functions)
+- Docker
+- WASM
+- React
+- MCP (Model Context Protocol)
+- Cloudflare Workers
 quality_score: 10
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["VAST validation", "ad tech", "CTV compliance", "XML validator", "MCP server"]
-source: "https://github.com/aleksUIX/vastlint"
+deployment_complexity: Medium
+tags:
+- VAST validation
+- ad tech
+- CTV compliance
+- XML validator
+- MCP server
+source: https://github.com/aleksUIX/vastlint
 stars: 15
-language: "Rust"
-last_updated: "2026-08-01T23:56:12Z"
-discovered_at: "2026-08-01T23:57:25Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T23:56:12Z'
+discovered_at: '2026-08-01T23:57:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

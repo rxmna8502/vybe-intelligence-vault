@@ -1,19 +1,32 @@
 ---
-title: "skyzh/write-you-a-vector-db"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "DataFusion", "Arrow", "SQL", "IVFFlat", "NSW", "HNSW", "Benchmarking"]
+title: skyzh/write-you-a-vector-db
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Rust
+- DataFusion
+- Arrow
+- SQL
+- IVFFlat
+- NSW
+- HNSW
+- Benchmarking
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["vector search", "Rust", "SQL integration", "algorithmic database", "educational"]
-source: "https://github.com/skyzh/write-you-a-vector-db"
+deployment_complexity: Medium
+tags:
+- vector search
+- Rust
+- SQL integration
+- algorithmic database
+- educational
+source: https://github.com/skyzh/write-you-a-vector-db
 stars: 779
-language: "Rust"
-last_updated: "2026-08-08T00:59:00Z"
-discovered_at: "2026-08-08T01:27:31Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-08T00:59:00Z'
+discovered_at: '2026-08-08T01:27:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

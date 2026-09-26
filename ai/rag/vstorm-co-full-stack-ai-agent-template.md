@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-09-23T19:15:39.591366+05:30'
-published_at: '2026-09-23T08:00:11Z'
+collected_at: '2026-09-26T18:45:09.319627+05:30'
+published_at: '2026-09-26T01:25:14Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
 - rag
-stars: 1912
+stars: 1915
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-09-21T20:37:46Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-09-23T19:15:39.591366+05:30'
-last_seen: '2026-09-23T19:15:39.591366+05:30'
-last_checked: '2026-09-23T19:15:39.591366+05:30'
+first_seen: '2026-09-26T18:45:09.319627+05:30'
+last_seen: '2026-09-26T18:45:09.319627+05:30'
+last_checked: '2026-09-26T18:45:09.319627+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Full-stack AI application generator leveraging FastAPI (Python) for backend services and Next.js (React/TypeScript) for the frontend, inherently supporting RAG, streaming, and authentication.
-*   Integrates multiple AI agent frameworks including CrewAI, LangChain, and LangGraph, enhanced by Pydantic-AI for robust data modeling and agent interaction.
-*   Provides a Dockerized deployment environment with PostgreSQL persistence, WebSocket support for real-time interactions, and 20+ pre-configured integrations for rapid development.
+*   Full-stack AI application template leveraging FastAPI (Python) for the backend and Next.js (TypeScript/React) for the frontend, containerized with Docker.
+*   Integrates multiple AI agent frameworks (CrewAI, LangChain, LangGraph) with RAG, streaming, and Pydantic for robust AI model interaction and data validation.
+*   Features out-of-the-box authentication, PostgreSQL persistence, WebSocket support, and 20+ integrations for rapid deployment of production-grade AI agents.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vstorm-co
-- Stars: 1912
-- Forks: 379
+- Stars: 1915
+- Forks: 381
 - Language: Python
 - Topics: agent-framework, ai-agent-template, ai-agents, crewai, docker, fastapi, full-stack, langchain, langgraph, llm, nextjs, postgresql, pydantic-ai, pydantic-deep, python, rag, react, typescript, vstorm, websocket
-- Last Updated: 2026-09-23T08:00:11Z
+- Last Updated: 2026-09-26T01:25:14Z
 - License: MIT
 - Archived: No
 - Created At: 2025-12-19T12:23:15Z

@@ -1,19 +1,34 @@
 ---
-title: "OpenChara/OpenCharaAgent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "TypeScript", "Node.js", "Docker", "SillyTavern", "Hermes Agent", "MCP (Model Context Protocol)", "Landlock", "bubblewrap", "sandbox-exec"]
+title: OpenChara/OpenCharaAgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- Docker
+- SillyTavern
+- Hermes Agent
+- MCP (Model Context Protocol)
+- Landlock
+- bubblewrap
+- sandbox-exec
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agents", "roleplay", "autonomous agents", "content generation", "SillyTavern"]
-source: "https://github.com/OpenChara/OpenCharaAgent"
+deployment_complexity: Medium
+tags:
+- AI agents
+- roleplay
+- autonomous agents
+- content generation
+- SillyTavern
+source: https://github.com/OpenChara/OpenCharaAgent
 stars: 3
-language: "Python"
-last_updated: "2026-07-21T07:30:29Z"
-discovered_at: "2026-07-21T07:32:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T07:30:29Z'
+discovered_at: '2026-07-21T07:32:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

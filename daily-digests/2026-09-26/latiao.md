@@ -1,19 +1,34 @@
 ---
-title: "RenYiX0620/Latiao"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri", "React", "Python", "FastAPI", "Rust", "SQLite", "MLX", "llama.cpp", "SSE", "Cron"]
+title: RenYiX0620/Latiao
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Tauri
+- React
+- Python
+- FastAPI
+- Rust
+- SQLite
+- MLX
+- llama.cpp
+- SSE
+- Cron
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local AI agent", "privacy-focused", "multi-agent orchestration", "desktop automation", "offline LLM"]
-source: "https://github.com/RenYiX0620/Latiao"
+deployment_complexity: Medium
+tags:
+- local AI agent
+- privacy-focused
+- multi-agent orchestration
+- desktop automation
+- offline LLM
+source: https://github.com/RenYiX0620/Latiao
 stars: 0
-language: "Python"
-last_updated: "2026-09-04T02:07:46Z"
-discovered_at: "2026-09-04T02:12:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T02:07:46Z'
+discovered_at: '2026-09-04T02:12:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

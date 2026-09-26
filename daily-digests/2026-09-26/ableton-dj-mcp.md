@@ -1,19 +1,29 @@
 ---
-title: "gabrielpulga/ableton-dj-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Max for Live", "Ableton Live API", "Model Context Protocol (MCP)"]
+title: gabrielpulga/ableton-dj-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Max for Live
+- Ableton Live API
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["MCP server", "AI-assisted music production", "Ableton Live", "Max for Live", "electronic music"]
-source: "https://github.com/gabrielpulga/ableton-dj-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AI-assisted music production
+- Ableton Live
+- Max for Live
+- electronic music
+source: https://github.com/gabrielpulga/ableton-dj-mcp
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-08T19:33:04Z"
-discovered_at: "2026-08-08T19:33:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T19:33:04Z'
+discovered_at: '2026-08-08T19:33:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

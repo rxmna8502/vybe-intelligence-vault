@@ -1,19 +1,32 @@
 ---
-title: "FaqFirebase/pi-desktop"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "TypeScript", "React", "CodeMirror 6", "Node.js", "Pi Coding Agent", "Claude CLI", "Codex CLI"]
+title: FaqFirebase/pi-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Electron
+- TypeScript
+- React
+- CodeMirror 6
+- Node.js
+- Pi Coding Agent
+- Claude CLI
+- Codex CLI
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["desktop application", "multi-agent planning", "file management", "terminal integration", "AI coding assistant"]
-source: "https://github.com/FaqFirebase/pi-desktop"
+deployment_complexity: Medium
+tags:
+- desktop application
+- multi-agent planning
+- file management
+- terminal integration
+- AI coding assistant
+source: https://github.com/FaqFirebase/pi-desktop
 stars: 15
-language: "TypeScript"
-last_updated: "2026-07-11T02:22:25Z"
-discovered_at: "2026-07-11T02:27:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T02:22:25Z'
+discovered_at: '2026-07-11T02:27:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

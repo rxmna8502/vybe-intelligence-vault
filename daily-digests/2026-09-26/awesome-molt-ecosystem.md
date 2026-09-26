@@ -1,19 +1,35 @@
 ---
-title: "eltociear/awesome-molt-ecosystem"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Docker", "GitHub Actions", "Hugging Face Spaces", "x402 Protocol", "MCP (Model Context Protocol)", "CDP Bazaar", "Apify", "Activepieces", "Base Blockchain", "Open Source Licensing (MIT/CC0)"]
+title: eltociear/awesome-molt-ecosystem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Docker
+- GitHub Actions
+- Hugging Face Spaces
+- x402 Protocol
+- MCP (Model Context Protocol)
+- CDP Bazaar
+- Apify
+- Activepieces
+- Base Blockchain
+- Open Source Licensing (MIT/CC0)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agent monetization", "x402 protocol", "MCP ecosystem", "self-hosted endpoints", "DeFi data APIs"]
-source: "https://github.com/eltociear/awesome-molt-ecosystem"
+deployment_complexity: Medium
+tags:
+- AI agent monetization
+- x402 protocol
+- MCP ecosystem
+- self-hosted endpoints
+- DeFi data APIs
+source: https://github.com/eltociear/awesome-molt-ecosystem
 stars: 61
-language: "Dockerfile"
-last_updated: "2026-08-08T16:34:40Z"
-discovered_at: "2026-08-08T16:35:39Z"
-evaluated_by: "mistral-small-latest"
+language: Dockerfile
+last_updated: '2026-08-08T16:34:40Z'
+discovered_at: '2026-08-08T16:35:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

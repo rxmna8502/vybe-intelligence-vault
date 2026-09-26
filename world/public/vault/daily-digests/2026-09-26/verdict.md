@@ -1,19 +1,30 @@
 ---
-title: "ArtJack/verdict"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Code", "Bash", "JSON", "Git", "MCP (Model Context Protocol)"]
+title: ArtJack/verdict
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- Claude Code
+- Bash
+- JSON
+- Git
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["QA automation", "delta testing", "flaky test detection", "release gating", "AI-assisted testing"]
-source: "https://github.com/ArtJack/verdict"
+deployment_complexity: Medium
+tags:
+- QA automation
+- delta testing
+- flaky test detection
+- release gating
+- AI-assisted testing
+source: https://github.com/ArtJack/verdict
 stars: 1
-language: "Python"
-last_updated: "2026-09-01T18:58:25Z"
-discovered_at: "2026-09-01T19:08:50Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:58:25Z'
+discovered_at: '2026-09-01T19:08:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

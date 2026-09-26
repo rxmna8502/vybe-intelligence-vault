@@ -1,19 +1,36 @@
 ---
-title: "dinglebear-ai/axon"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "SQLite", "Qdrant", "Hugging Face TEI", "Chrome/CDP", "Tokio", "systemd", "Incus", "Docker", "CLI", "REST API", "MCP"]
+title: dinglebear-ai/axon
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- SQLite
+- Qdrant
+- Hugging Face TEI
+- Chrome/CDP
+- Tokio
+- systemd
+- Incus
+- Docker
+- CLI
+- REST API
+- MCP
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG engine", "self-hosted", "Rust", "vector database", "data ingestion"]
-source: "https://github.com/dinglebear-ai/axon"
+deployment_complexity: Medium
+tags:
+- RAG engine
+- self-hosted
+- Rust
+- vector database
+- data ingestion
+source: https://github.com/dinglebear-ai/axon
 stars: 3
-language: "Rust"
-last_updated: "2026-08-01T03:39:52Z"
-discovered_at: "2026-08-01T03:44:02Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:39:52Z'
+discovered_at: '2026-08-01T03:44:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

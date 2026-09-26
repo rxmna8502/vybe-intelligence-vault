@@ -1,19 +1,29 @@
 ---
-title: "z10-labs/hippocampus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Embedding models", "MCP (Model Context Protocol)", "Git"]
+title: z10-labs/hippocampus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Markdown
+- Embedding models
+- MCP (Model Context Protocol)
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["decision memory", "MCP server", "AI coding agents", "architectural decisions", "documentation"]
-source: "https://github.com/z10-labs/hippocampus"
+deployment_complexity: Low
+tags:
+- decision memory
+- MCP server
+- AI coding agents
+- architectural decisions
+- documentation
+source: https://github.com/z10-labs/hippocampus
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T16:24:42Z"
-discovered_at: "2026-08-03T16:25:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T16:24:42Z'
+discovered_at: '2026-08-03T16:25:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
