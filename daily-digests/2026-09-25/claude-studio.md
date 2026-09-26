@@ -1,19 +1,29 @@
 ---
-title: "Sowhost700/claude-studio"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Windows Desktop App", "Claude API", "Browser Automation", "MCP (Model Context Protocol)", "Local File System"]
+title: Sowhost700/claude-studio
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Windows Desktop App
+- Claude API
+- Browser Automation
+- MCP (Model Context Protocol)
+- Local File System
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI Workflow", "Desktop Automation", "Claude Integration", "Browser Tools", "Memory Management"]
-source: "https://github.com/Sowhost700/claude-studio"
+deployment_complexity: Low
+tags:
+- AI Workflow
+- Desktop Automation
+- Claude Integration
+- Browser Tools
+- Memory Management
+source: https://github.com/Sowhost700/claude-studio
 stars: 1
-language: "None"
-last_updated: "2026-07-10T20:21:16Z"
-discovered_at: "2026-07-10T20:21:51Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-10T20:21:16Z'
+discovered_at: '2026-07-10T20:21:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

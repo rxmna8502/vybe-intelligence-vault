@@ -1,19 +1,38 @@
 ---
-title: "rehan243/Voice-AI-Platform"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "C++", "FastAPI", "Apache Kafka", "WebSockets", "gRPC", "CUDA", "Eigen", "AWS (ECS, ECR, Lambda, S3, RDS)", "Docker", "PostgreSQL", "Redis", "Whisper", "Sentiment Analysis Models"]
+title: rehan243/Voice-AI-Platform
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- C++
+- FastAPI
+- Apache Kafka
+- WebSockets
+- gRPC
+- CUDA
+- Eigen
+- AWS (ECS, ECR, Lambda, S3, RDS)
+- Docker
+- PostgreSQL
+- Redis
+- Whisper
+- Sentiment Analysis Models
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["real-time voice processing", "speech-to-text", "sentiment analysis", "scalable infrastructure", "cloud-native"]
-source: "https://github.com/rehan243/Voice-AI-Platform"
+deployment_complexity: High
+tags:
+- real-time voice processing
+- speech-to-text
+- sentiment analysis
+- scalable infrastructure
+- cloud-native
+source: https://github.com/rehan243/Voice-AI-Platform
 stars: 1
-language: "Python"
-last_updated: "2026-08-07T19:06:16Z"
-discovered_at: "2026-08-07T20:00:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T19:06:16Z'
+discovered_at: '2026-08-07T20:00:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

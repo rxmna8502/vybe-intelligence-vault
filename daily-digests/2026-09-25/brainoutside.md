@@ -1,19 +1,34 @@
 ---
-title: "hassancs91/brainoutside"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "Django", "PostgreSQL", "Redis", "Docker", "MCP (Model Context Protocol)", "REST API", "Git", "Markdown", "Tailwind CSS"]
+title: hassancs91/brainoutside
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Django
+- PostgreSQL
+- Redis
+- Docker
+- MCP (Model Context Protocol)
+- REST API
+- Git
+- Markdown
+- Tailwind CSS
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["memory server", "self-hosted", "AI agents", "markdown knowledge base", "git-backed"]
-source: "https://github.com/hassancs91/brainoutside"
+deployment_complexity: Medium
+tags:
+- memory server
+- self-hosted
+- AI agents
+- markdown knowledge base
+- git-backed
+source: https://github.com/hassancs91/brainoutside
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T14:32:03Z"
-discovered_at: "2026-08-08T14:35:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T14:32:03Z'
+discovered_at: '2026-08-08T14:35:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

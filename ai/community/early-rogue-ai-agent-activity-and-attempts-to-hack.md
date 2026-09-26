@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:early-rogue-ai-agent-activity-and-attempts-to-hack
 first_seen: '2026-09-24T19:09:37.680977+05:30'
 last_seen: '2026-09-25T04:48:56.738845+05:30'
 last_checked: '2026-09-25T04:48:56.738845+05:30'
 health_score: 100
 ---
+
 
 # Early rogue AI agent activity and attempts to hack found on urlquery.net
 

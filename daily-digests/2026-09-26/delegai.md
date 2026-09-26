@@ -1,19 +1,38 @@
 ---
-title: "edycutjong/delegai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "MetaMask Smart Accounts Kit", "ERC-7710", "Ethereum Sepolia", "x402 Micropayments", "1Shot Relay API", "Venice AI (llama-3.3-70b)", "EIP-712", "EIP-7702", "Jest", "GitHub Actions"]
+title: edycutjong/delegai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- MetaMask Smart Accounts Kit
+- ERC-7710
+- Ethereum Sepolia
+- x402 Micropayments
+- 1Shot Relay API
+- Venice AI (llama-3.3-70b)
+- EIP-712
+- EIP-7702
+- Jest
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["AI agent delegation", "trustless spending hierarchy", "ERC-7710 caveats", "gasless transactions", "multi-agent coordination"]
-source: "https://github.com/edycutjong/delegai"
+deployment_complexity: High
+tags:
+- AI agent delegation
+- trustless spending hierarchy
+- ERC-7710 caveats
+- gasless transactions
+- multi-agent coordination
+source: https://github.com/edycutjong/delegai
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T20:33:45Z"
-discovered_at: "2026-08-07T20:42:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T20:33:45Z'
+discovered_at: '2026-08-07T20:42:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

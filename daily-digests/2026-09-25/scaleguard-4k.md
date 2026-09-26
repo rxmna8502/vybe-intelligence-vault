@@ -1,19 +1,37 @@
 ---
-title: "liuqjjin/scaleguard-4k"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PyTorch", "Transformers", "Stable Diffusion 3", "Qwen LLM", "Vicuna-7B", "MUSIQ", "CLIPIQA", "Lanczos resampling", "JPEG compression", "Poisson-Gaussian noise", "YAML/JSON configuration", "CI/CD (GitHub Actions)"]
+title: liuqjjin/scaleguard-4k
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- PyTorch
+- Transformers
+- Stable Diffusion 3
+- Qwen LLM
+- Vicuna-7B
+- MUSIQ
+- CLIPIQA
+- Lanczos resampling
+- JPEG compression
+- Poisson-Gaussian noise
+- YAML/JSON configuration
+- CI/CD (GitHub Actions)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["multi-scale super-resolution", "hallucination prevention", "deterministic decision gates", "image restoration", "AI agent orchestration"]
-source: "https://github.com/liuqjjin/scaleguard-4k"
+deployment_complexity: High
+tags:
+- multi-scale super-resolution
+- hallucination prevention
+- deterministic decision gates
+- image restoration
+- AI agent orchestration
+source: https://github.com/liuqjjin/scaleguard-4k
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:23:14Z"
-discovered_at: "2026-08-08T11:30:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:23:14Z'
+discovered_at: '2026-08-08T11:30:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

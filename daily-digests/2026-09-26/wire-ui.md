@@ -1,19 +1,31 @@
 ---
-title: "wire-ui/wire-ui"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["TypeScript", "React", "Vue", "SolidJS", "Tailwind CSS", "Nextra", "MCP (Model Context Protocol)"]
+title: wire-ui/wire-ui
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- React
+- Vue
+- SolidJS
+- Tailwind CSS
+- Nextra
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["headless components", "AI-native", "unstyled primitives", "cross-framework", "zero CSS"]
-source: "https://github.com/wire-ui/wire-ui"
+deployment_complexity: Medium
+tags:
+- headless components
+- AI-native
+- unstyled primitives
+- cross-framework
+- zero CSS
+source: https://github.com/wire-ui/wire-ui
 stars: 6
-language: "TypeScript"
-last_updated: "2026-08-01T14:53:29Z"
-discovered_at: "2026-08-01T15:01:34Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T14:53:29Z'
+discovered_at: '2026-08-01T15:01:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

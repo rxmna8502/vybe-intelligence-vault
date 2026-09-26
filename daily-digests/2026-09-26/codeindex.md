@@ -1,19 +1,30 @@
 ---
-title: "Widthdom/CodeIndex"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 8.x / 9.x", "SQLite", "FTS5", "MCP (Model Context Protocol)", "LSP (Language Server Protocol)"]
+title: Widthdom/CodeIndex
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- C#
+- .NET 8.x / 9.x
+- SQLite
+- FTS5
+- MCP (Model Context Protocol)
+- LSP (Language Server Protocol)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["code indexing", "local retrieval", "MCP server", "LSP integration", "SQLite FTS5"]
-source: "https://github.com/Widthdom/CodeIndex"
+deployment_complexity: Medium
+tags:
+- code indexing
+- local retrieval
+- MCP server
+- LSP integration
+- SQLite FTS5
+source: https://github.com/Widthdom/CodeIndex
 stars: 2
-language: "C#"
-last_updated: "2026-08-01T13:14:59Z"
-discovered_at: "2026-08-01T13:16:43Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-01T13:14:59Z'
+discovered_at: '2026-08-01T13:16:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "dfch/biz.dfch.AsdSte100Mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON", "GitHub Actions", "Pylint", "Ruff", "uv (Python package manager)"]
+title: dfch/biz.dfch.AsdSte100Mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON
+- GitHub Actions
+- Pylint
+- Ruff
+- uv (Python package manager)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["ASD-STE100", "Simplified Technical English", "MCP Server", "Technical Writing", "Documentation Compliance"]
-source: "https://github.com/dfch/biz.dfch.AsdSte100Mcp"
+deployment_complexity: Low
+tags:
+- ASD-STE100
+- Simplified Technical English
+- MCP Server
+- Technical Writing
+- Documentation Compliance
+source: https://github.com/dfch/biz.dfch.AsdSte100Mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-01T13:11:04Z"
-discovered_at: "2026-08-01T13:16:46Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:11:04Z'
+discovered_at: '2026-08-01T13:16:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

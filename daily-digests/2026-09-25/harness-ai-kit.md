@@ -1,19 +1,31 @@
 ---
-title: "seed-forge/harness-ai-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "resolvelib", "Git", "PyPI", "GitHub", "CLI", "Apache 2.0"]
+title: seed-forge/harness-ai-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- resolvelib
+- Git
+- PyPI
+- GitHub
+- CLI
+- Apache 2.0
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["package manager", "AI agent assets", "dependency resolution", "enterprise skills", "multi-runtime"]
-source: "https://github.com/seed-forge/harness-ai-kit"
+deployment_complexity: Medium
+tags:
+- package manager
+- AI agent assets
+- dependency resolution
+- enterprise skills
+- multi-runtime
+source: https://github.com/seed-forge/harness-ai-kit
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T07:15:24Z"
-discovered_at: "2026-08-10T07:35:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T07:15:24Z'
+discovered_at: '2026-08-10T07:35:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

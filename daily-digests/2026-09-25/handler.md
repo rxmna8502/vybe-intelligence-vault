@@ -1,19 +1,31 @@
 ---
-title: "alDuncanson/Handler"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "A2A Protocol", "MCP (Model Context Protocol)", "TUI/CLI", "OAuth2", "mTLS", "Bearer Token Auth"]
+title: alDuncanson/Handler
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- A2A Protocol
+- MCP (Model Context Protocol)
+- TUI/CLI
+- OAuth2
+- mTLS
+- Bearer Token Auth
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["A2A protocol", "agent client", "CLI", "TUI", "MCP server"]
-source: "https://github.com/alDuncanson/Handler"
+deployment_complexity: Low
+tags:
+- A2A protocol
+- agent client
+- CLI
+- TUI
+- MCP server
+source: https://github.com/alDuncanson/Handler
 stars: 43
-language: "Python"
-last_updated: "2026-08-05T22:06:05Z"
-discovered_at: "2026-08-05T22:15:07Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T22:06:05Z'
+discovered_at: '2026-08-05T22:15:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "shyn-labs/shyn"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "SQLite", "Whisper (for transcription)", "MCP (Model Context Protocol)", "Homebrew (for distribution)", "macOS System APIs (Screen Recording, Accessibility, Calendar, Microphone)", "Elastic License 2.0"]
+title: shyn-labs/shyn
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- SQLite
+- Whisper (for transcription)
+- MCP (Model Context Protocol)
+- Homebrew (for distribution)
+- macOS System APIs (Screen Recording, Accessibility, Calendar, Microphone)
+- Elastic License 2.0
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["local-first", "privacy-focused", "memory-companion", "MCP-server", "on-device-embeddings"]
-source: "https://github.com/shyn-labs/shyn"
+deployment_complexity: Medium
+tags:
+- local-first
+- privacy-focused
+- memory-companion
+- MCP-server
+- on-device-embeddings
+source: https://github.com/shyn-labs/shyn
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T05:46:25Z"
-discovered_at: "2026-08-05T05:48:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T05:46:25Z'
+discovered_at: '2026-08-05T05:48:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

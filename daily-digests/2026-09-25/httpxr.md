@@ -1,19 +1,27 @@
 ---
-title: "matrix360143/httpxr"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Windows API", "HTTP/HTTPS Protocols"]
+title: matrix360143/httpxr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- Windows API
+- HTTP/HTTPS Protocols
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["HTTP client", "Rust", "Windows tool", "API testing", "CLI"]
-source: "https://github.com/matrix360143/httpxr"
+deployment_complexity: Low
+tags:
+- HTTP client
+- Rust
+- Windows tool
+- API testing
+- CLI
+source: https://github.com/matrix360143/httpxr
 stars: 2
-language: "Rust"
-last_updated: "2026-08-10T07:33:18Z"
-discovered_at: "2026-08-10T07:35:03Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-10T07:33:18Z'
+discovered_at: '2026-08-10T07:35:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

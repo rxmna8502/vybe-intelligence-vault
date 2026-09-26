@@ -1,19 +1,30 @@
 ---
-title: "theYahia/chestnyznak-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "True API (CRPT)", "REST", "HTTP Server"]
+title: theYahia/chestnyznak-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- True API (CRPT)
+- REST
+- HTTP Server
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "product verification", "Chestny Znak", "CRPT API", "Russian compliance"]
-source: "https://github.com/theYahia/chestnyznak-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- product verification
+- Chestny Znak
+- CRPT API
+- Russian compliance
+source: https://github.com/theYahia/chestnyznak-mcp
 stars: 4
-language: "Python"
-last_updated: "2026-09-02T19:10:24Z"
-discovered_at: "2026-09-02T19:14:03Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T19:10:24Z'
+discovered_at: '2026-09-02T19:14:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

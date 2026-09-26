@@ -1,19 +1,32 @@
 ---
-title: "koalyptus/ls-apis"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "Monorepo", "Vitest", "ESLint", "Prettier"]
+title: koalyptus/ls-apis
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- MCP (Model Context Protocol)
+- Monorepo
+- Vitest
+- ESLint
+- Prettier
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["API discovery", "CLI tool", "MCP server", "public APIs", "data aggregation"]
-source: "https://github.com/koalyptus/ls-apis"
+deployment_complexity: Medium
+tags:
+- API discovery
+- CLI tool
+- MCP server
+- public APIs
+- data aggregation
+source: https://github.com/koalyptus/ls-apis
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-04T02:02:07Z"
-discovered_at: "2026-09-04T02:14:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-04T02:02:07Z'
+discovered_at: '2026-09-04T02:14:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

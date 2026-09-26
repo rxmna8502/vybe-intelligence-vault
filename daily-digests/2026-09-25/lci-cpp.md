@@ -1,19 +1,33 @@
 ---
-title: "standardbeagle/lci-cpp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++", "Tree-sitter", "MCP (Model Context Protocol)", "HTTP Server", "Unix Sockets", "CMake", "Git", "Brotli", "OpenSSL"]
+title: standardbeagle/lci-cpp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- C++
+- Tree-sitter
+- MCP (Model Context Protocol)
+- HTTP Server
+- Unix Sockets
+- CMake
+- Git
+- Brotli
+- OpenSSL
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["semantic search", "code indexing", "MCP server", "multi-language support", "high-performance"]
-source: "https://github.com/standardbeagle/lci-cpp"
+deployment_complexity: Medium
+tags:
+- semantic search
+- code indexing
+- MCP server
+- multi-language support
+- high-performance
+source: https://github.com/standardbeagle/lci-cpp
 stars: 0
-language: "C++"
-last_updated: "2026-09-03T19:02:01Z"
-discovered_at: "2026-09-03T19:09:21Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-09-03T19:02:01Z'
+discovered_at: '2026-09-03T19:09:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "zeshuochen/nekoro-browser"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Chrome Extension API", "CDP (Chrome DevTools Protocol)", "MCP (Model Context Protocol)", "WebSocket", "HTTP", "JSON"]
+title: zeshuochen/nekoro-browser
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Chrome Extension API
+- CDP (Chrome DevTools Protocol)
+- MCP (Model Context Protocol)
+- WebSocket
+- HTTP
+- JSON
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["browser automation", "chrome extension", "MCP server", "CDP", "self-healing"]
-source: "https://github.com/zeshuochen/nekoro-browser"
+deployment_complexity: Medium
+tags:
+- browser automation
+- chrome extension
+- MCP server
+- CDP
+- self-healing
+source: https://github.com/zeshuochen/nekoro-browser
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T17:53:55Z"
-discovered_at: "2026-08-02T18:02:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T17:53:55Z'
+discovered_at: '2026-08-02T18:02:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

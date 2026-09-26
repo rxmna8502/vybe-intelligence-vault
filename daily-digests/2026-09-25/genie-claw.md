@@ -1,19 +1,33 @@
 ---
-title: "GeniePod/genie-claw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "LLM (llama.cpp)", "Home Assistant", "Jetson Orin (aarch64)", "CI/CD (GitHub Actions)", "HTTP API", "CLI", "BFCL (Benchmark for Local LLMs)"]
+title: GeniePod/genie-claw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- SQLite
+- LLM (llama.cpp)
+- Home Assistant
+- Jetson Orin (aarch64)
+- CI/CD (GitHub Actions)
+- HTTP API
+- CLI
+- BFCL (Benchmark for Local LLMs)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["on-device AI", "Jetson Orin", "deterministic grounding", "private homes", "low-latency"]
-source: "https://github.com/GeniePod/genie-claw"
+deployment_complexity: Medium
+tags:
+- on-device AI
+- Jetson Orin
+- deterministic grounding
+- private homes
+- low-latency
+source: https://github.com/GeniePod/genie-claw
 stars: 52
-language: "Rust"
-last_updated: "2026-07-12T13:33:58Z"
-discovered_at: "2026-07-12T13:35:58Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-12T13:33:58Z'
+discovered_at: '2026-07-12T13:35:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

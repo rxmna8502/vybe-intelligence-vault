@@ -1,19 +1,32 @@
 ---
-title: "alfredang/plannerapp"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Swift", "SwiftUI", "SwiftData", "CloudKit", "Apple Intelligence (FoundationModels)", "Speech Recognition", "XcodeGen", "SwiftTerm"]
+title: alfredang/plannerapp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Swift
+- SwiftUI
+- SwiftData
+- CloudKit
+- Apple Intelligence (FoundationModels)
+- Speech Recognition
+- XcodeGen
+- SwiftTerm
 quality_score: 9
 rag_relevance: 3
-deployment_complexity: "Medium"
-tags: ["productivity", "voice-assistant", "iOS-macOS", "on-device-ai", "icloud-sync"]
-source: "https://github.com/alfredang/plannerapp"
+deployment_complexity: Medium
+tags:
+- productivity
+- voice-assistant
+- iOS-macOS
+- on-device-ai
+- icloud-sync
+source: https://github.com/alfredang/plannerapp
 stars: 1
-language: "Swift"
-last_updated: "2026-07-18T09:17:28Z"
-discovered_at: "2026-07-18T09:23:47Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-07-18T09:17:28Z'
+discovered_at: '2026-07-18T09:23:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

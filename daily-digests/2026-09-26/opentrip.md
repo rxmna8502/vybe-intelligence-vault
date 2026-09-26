@@ -1,19 +1,39 @@
 ---
-title: "stvlynn/OpenTrip"
-content_type: "repo"
-engine: "v2"
-category: "SaaS Template"
-tech_stack: ["TypeScript", "React", "Vite", "Hono", "DDD (Domain-Driven Design)", "Hexagonal Architecture", "PostgreSQL", "Cloudflare Workers", "Hyperdrive", "React Query", "OAuth", "OSM (OpenStreetMap)", "Unsplash API", "Airbnb API", "FX Rates API"]
+title: stvlynn/OpenTrip
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Hono
+- DDD (Domain-Driven Design)
+- Hexagonal Architecture
+- PostgreSQL
+- Cloudflare Workers
+- Hyperdrive
+- React Query
+- OAuth
+- OSM (OpenStreetMap)
+- Unsplash API
+- Airbnb API
+- FX Rates API
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["collaborative travel planning", "multi-client SaaS", "expense splitting", "itinerary mapping", "DDD architecture"]
-source: "https://github.com/stvlynn/OpenTrip"
+deployment_complexity: Medium
+tags:
+- collaborative travel planning
+- multi-client SaaS
+- expense splitting
+- itinerary mapping
+- DDD architecture
+source: https://github.com/stvlynn/OpenTrip
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T16:54:41Z"
-discovered_at: "2026-07-12T17:03:45Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T16:54:41Z'
+discovered_at: '2026-07-12T17:03:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

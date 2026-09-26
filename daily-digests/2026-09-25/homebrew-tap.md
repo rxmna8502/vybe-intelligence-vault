@@ -1,19 +1,29 @@
 ---
-title: "mnemodoc/homebrew-tap"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Homebrew", "Crystal", "MCP (Model Context Protocol)", "Ollama", "Python"]
+title: mnemodoc/homebrew-tap
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Homebrew
+- Crystal
+- MCP (Model Context Protocol)
+- Ollama
+- Python
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Homebrew", "MCP server", "documentation indexing", "RAG tools", "CLI utilities"]
-source: "https://github.com/mnemodoc/homebrew-tap"
+deployment_complexity: Low
+tags:
+- Homebrew
+- MCP server
+- documentation indexing
+- RAG tools
+- CLI utilities
+source: https://github.com/mnemodoc/homebrew-tap
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T21:32:07Z"
-discovered_at: "2026-08-07T21:41:22Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T21:32:07Z'
+discovered_at: '2026-08-07T21:41:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

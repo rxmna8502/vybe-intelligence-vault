@@ -1,19 +1,35 @@
 ---
-title: "apollo-orbit-dev/argus-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "OpenAI-compatible APIs", "Ollama", "vLLM", "Telegram Bot API", "SMTP", "ntfy", "Tesseract OCR", "React (for dashboard)"]
+title: apollo-orbit-dev/argus-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- OpenAI-compatible APIs
+- Ollama
+- vLLM
+- Telegram Bot API
+- SMTP
+- ntfy
+- Tesseract OCR
+- React (for dashboard)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agentic workflows", "multi-step reasoning", "deterministic execution", "live-trace dashboard", "sandboxed tools"]
-source: "https://github.com/apollo-orbit-dev/argus-agent"
+deployment_complexity: Medium
+tags:
+- agentic workflows
+- multi-step reasoning
+- deterministic execution
+- live-trace dashboard
+- sandboxed tools
+source: https://github.com/apollo-orbit-dev/argus-agent
 stars: 1
-language: "Python"
-last_updated: "2026-07-20T19:45:50Z"
-discovered_at: "2026-07-20T19:53:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T19:45:50Z'
+discovered_at: '2026-07-20T19:53:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

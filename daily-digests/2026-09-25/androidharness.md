@@ -1,19 +1,34 @@
 ---
-title: "Sanuu7/AndroidHarness"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Kotlin", "Jetpack Compose", "Android SDK", "Termux", "Shizuku", "Git", "Model Context Protocol (MCP)", "OpenAI Compatible APIs", "Brave/Tavily APIs", "GitHub API"]
+title: Sanuu7/AndroidHarness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Kotlin
+- Jetpack Compose
+- Android SDK
+- Termux
+- Shizuku
+- Git
+- Model Context Protocol (MCP)
+- OpenAI Compatible APIs
+- Brave/Tavily APIs
+- GitHub API
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["mobile AI agent", "coding assistant", "Android development", "MCP integration", "Git automation"]
-source: "https://github.com/Sanuu7/AndroidHarness"
+deployment_complexity: Medium
+tags:
+- mobile AI agent
+- coding assistant
+- Android development
+- MCP integration
+- Git automation
+source: https://github.com/Sanuu7/AndroidHarness
 stars: 4
-language: "Kotlin"
-last_updated: "2026-09-01T02:45:19Z"
-discovered_at: "2026-09-01T02:50:55Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-09-01T02:45:19Z'
+discovered_at: '2026-09-01T02:50:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

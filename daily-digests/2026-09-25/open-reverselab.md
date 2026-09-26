@@ -1,19 +1,35 @@
 ---
-title: "LING71671/open-reverselab"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Ghidra", "x64dbg", "Frida", "Playwright", "Jadx", "Rizin", "SQLite", "PowerShell", "Bash"]
+title: LING71671/open-reverselab
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Ghidra
+- x64dbg
+- Frida
+- Playwright
+- Jadx
+- Rizin
+- SQLite
+- PowerShell
+- Bash
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["reverse engineering", "AI agent automation", "MCP tools", "CTF", "binary analysis"]
-source: "https://github.com/LING71671/open-reverselab"
+deployment_complexity: Medium
+tags:
+- reverse engineering
+- AI agent automation
+- MCP tools
+- CTF
+- binary analysis
+source: https://github.com/LING71671/open-reverselab
 stars: 1004
-language: "Python"
-last_updated: "2026-08-07T11:27:16Z"
-discovered_at: "2026-08-07T11:56:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:27:16Z'
+discovered_at: '2026-08-07T11:56:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,40 @@
 ---
-title: "dilumdarshana/ai-concepts"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "pnpm", "Express", "Next.js", "LangChain", "LangGraph", "ChromaDB", "Pinecone", "Redis/RediSearch", "Prisma", "PostgreSQL", "HuggingFace", "MCP SDK", "VoltAgent", "GitHub API", "Docker"]
+title: dilumdarshana/ai-concepts
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- pnpm
+- Express
+- Next.js
+- LangChain
+- LangGraph
+- ChromaDB
+- Pinecone
+- Redis/RediSearch
+- Prisma
+- PostgreSQL
+- HuggingFace
+- MCP SDK
+- VoltAgent
+- GitHub API
+- Docker
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI patterns", "RAG implementations", "agent frameworks", "vector databases", "MCP integration"]
-source: "https://github.com/dilumdarshana/ai-concepts"
+deployment_complexity: Medium
+tags:
+- AI patterns
+- RAG implementations
+- agent frameworks
+- vector databases
+- MCP integration
+source: https://github.com/dilumdarshana/ai-concepts
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T18:09:26Z"
-discovered_at: "2026-08-07T18:58:38Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T18:09:26Z'
+discovered_at: '2026-08-07T18:58:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

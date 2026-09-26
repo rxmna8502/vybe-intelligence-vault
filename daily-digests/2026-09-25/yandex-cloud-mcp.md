@@ -1,19 +1,29 @@
 ---
-title: "theYahia/yandex-cloud-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Yandex Cloud SDK", "Model Context Protocol (MCP)", "npm"]
+title: theYahia/yandex-cloud-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- Yandex Cloud SDK
+- Model Context Protocol (MCP)
+- npm
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["Yandex Cloud", "MCP Server", "Cloud Automation", "Serverless", "Virtual Machines"]
-source: "https://github.com/theYahia/yandex-cloud-mcp"
+deployment_complexity: Low
+tags:
+- Yandex Cloud
+- MCP Server
+- Cloud Automation
+- Serverless
+- Virtual Machines
+source: https://github.com/theYahia/yandex-cloud-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-02T19:11:14Z"
-discovered_at: "2026-09-02T19:14:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T19:11:14Z'
+discovered_at: '2026-09-02T19:14:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

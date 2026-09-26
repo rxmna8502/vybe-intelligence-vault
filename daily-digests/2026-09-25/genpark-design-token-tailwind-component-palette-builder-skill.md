@@ -1,19 +1,29 @@
 ---
-title: "Alpha-Park/genpark-design-token-tailwind-component-palette-builder-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "JSON Schema", "Tailwind CSS"]
+title: Alpha-Park/genpark-design-token-tailwind-component-palette-builder-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python 3.9+
+- Model Context Protocol (MCP)
+- JSON-RPC
+- JSON Schema
+- Tailwind CSS
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["design tokens", "Tailwind CSS", "MCP server", "zero dependencies", "autonomous agents"]
-source: "https://github.com/Alpha-Park/genpark-design-token-tailwind-component-palette-builder-skill"
+deployment_complexity: Low
+tags:
+- design tokens
+- Tailwind CSS
+- MCP server
+- zero dependencies
+- autonomous agents
+source: https://github.com/Alpha-Park/genpark-design-token-tailwind-component-palette-builder-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-03T15:36:57Z"
-discovered_at: "2026-09-03T15:40:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T15:36:57Z'
+discovered_at: '2026-09-03T15:40:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

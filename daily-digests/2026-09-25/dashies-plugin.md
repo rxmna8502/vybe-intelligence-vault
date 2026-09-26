@@ -1,19 +1,35 @@
 ---
-title: "Dashies-ai/dashies-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "OAuth 2.1 + PKCE", "TypeScript/JavaScript", "Python", "SQL", "PostgreSQL", "BigQuery", "Snowflake", "Redshift", "Databricks", "Microsoft SQL Server"]
+title: Dashies-ai/dashies-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- MCP (Model Context Protocol)
+- OAuth 2.1 + PKCE
+- TypeScript/JavaScript
+- Python
+- SQL
+- PostgreSQL
+- BigQuery
+- Snowflake
+- Redshift
+- Databricks
+- Microsoft SQL Server
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["dashboard automation", "data visualization", "MCP server", "AI-powered publishing", "scheduled refresh"]
-source: "https://github.com/Dashies-ai/dashies-plugin"
+deployment_complexity: Low
+tags:
+- dashboard automation
+- data visualization
+- MCP server
+- AI-powered publishing
+- scheduled refresh
+source: https://github.com/Dashies-ai/dashies-plugin
 stars: 1
-language: "None"
-last_updated: "2026-09-02T02:01:32Z"
-discovered_at: "2026-09-02T02:13:31Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-02T02:01:32Z'
+discovered_at: '2026-09-02T02:13:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "antolizama931-debug/oncall-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "BM25", "FastEmbed", "DeepSeek API", "Railway", "Docker", "HTML/CSS/JS (SPA)", "GitHub Actions"]
+title: antolizama931-debug/oncall-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- BM25
+- FastEmbed
+- DeepSeek API
+- Railway
+- Docker
+- HTML/CSS/JS (SPA)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Incident Response", "Hybrid RAG", "Audit Trail", "Runbook Automation", "Safety-Gated AI"]
-source: "https://github.com/antolizama931-debug/oncall-agent"
+deployment_complexity: Medium
+tags:
+- Incident Response
+- Hybrid RAG
+- Audit Trail
+- Runbook Automation
+- Safety-Gated AI
+source: https://github.com/antolizama931-debug/oncall-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T07:37:44Z"
-discovered_at: "2026-08-04T07:39:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T07:37:44Z'
+discovered_at: '2026-08-04T07:39:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

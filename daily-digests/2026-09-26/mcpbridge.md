@@ -1,19 +1,31 @@
 ---
-title: "manulthanura/MCPBridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "PostgreSQL", "Model Context Protocol (MCP)", "Node.js", "DDD (Domain-Driven Design)", "Gherkin (Cucumber)", "Vitest (Testing)"]
+title: manulthanura/MCPBridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- PostgreSQL
+- Model Context Protocol (MCP)
+- Node.js
+- DDD (Domain-Driven Design)
+- Gherkin (Cucumber)
+- Vitest (Testing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "PostgreSQL", "AI assistant integration", "query safety", "audit logging"]
-source: "https://github.com/manulthanura/MCPBridge"
+deployment_complexity: Medium
+tags:
+- MCP server
+- PostgreSQL
+- AI assistant integration
+- query safety
+- audit logging
+source: https://github.com/manulthanura/MCPBridge
 stars: 2
-language: "TypeScript"
-last_updated: "2026-08-02T02:15:47Z"
-discovered_at: "2026-08-02T02:35:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T02:15:47Z'
+discovered_at: '2026-08-02T02:35:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

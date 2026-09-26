@@ -1,19 +1,32 @@
 ---
-title: "shandianT/bid-dog"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Tauri", "Rust", "Python", "FastAPI", "PyInstaller", "SSE (Server-Sent Events)", "HTML/CSS/JavaScript", "Word DOCX generation libraries"]
+title: shandianT/bid-dog
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Tauri
+- Rust
+- Python
+- FastAPI
+- PyInstaller
+- SSE (Server-Sent Events)
+- HTML/CSS/JavaScript
+- Word DOCX generation libraries
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["tender generation", "document automation", "AI-assisted writing", "compliance checking", "Word document assembly"]
-source: "https://github.com/shandianT/bid-dog"
+deployment_complexity: Medium
+tags:
+- tender generation
+- document automation
+- AI-assisted writing
+- compliance checking
+- Word document assembly
+source: https://github.com/shandianT/bid-dog
 stars: 1
-language: "HTML"
-last_updated: "2026-08-05T16:43:06Z"
-discovered_at: "2026-08-05T16:44:19Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-05T16:43:06Z'
+discovered_at: '2026-08-05T16:44:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "hexsecs/canarchy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "JSON/JSONL", "MCP (Model Context Protocol)", "python-can", "TUI (Terminal User Interface)", "J1939 (SAE standards)", "DBC/ARXML/KCD/SYM (database formats)", "UDS (Unified Diagnostic Services)", "DoIP (Diagnostics over IP)", "XCP (Universal Measurement and Calibration Protocol)"]
+title: hexsecs/canarchy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- CLI
+- JSON/JSONL
+- MCP (Model Context Protocol)
+- python-can
+- TUI (Terminal User Interface)
+- J1939 (SAE standards)
+- DBC/ARXML/KCD/SYM (database formats)
+- UDS (Unified Diagnostic Services)
+- DoIP (Diagnostics over IP)
+- XCP (Universal Measurement and Calibration Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CAN bus", "J1939", "MCP server", "security research", "AI agent integration"]
-source: "https://github.com/hexsecs/canarchy"
+deployment_complexity: Medium
+tags:
+- CAN bus
+- J1939
+- MCP server
+- security research
+- AI agent integration
+source: https://github.com/hexsecs/canarchy
 stars: 3
-language: "Python"
-last_updated: "2026-09-04T01:57:09Z"
-discovered_at: "2026-09-04T02:21:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-04T01:57:09Z'
+discovered_at: '2026-09-04T02:21:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "sumithr/sumo-qa"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Markdown", "JSON", "CI/CD", "TDD (Test-Driven Development)", "Mutation Testing"]
+title: sumithr/sumo-qa
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Markdown
+- JSON
+- CI/CD
+- TDD (Test-Driven Development)
+- Mutation Testing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["QA automation", "AI code review", "test planning", "TDD enforcement", "MCP server"]
-source: "https://github.com/sumithr/sumo-qa"
+deployment_complexity: Medium
+tags:
+- QA automation
+- AI code review
+- test planning
+- TDD enforcement
+- MCP server
+source: https://github.com/sumithr/sumo-qa
 stars: 4
-language: "Python"
-last_updated: "2026-08-01T23:57:21Z"
-discovered_at: "2026-08-01T23:57:30Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T23:57:21Z'
+discovered_at: '2026-08-01T23:57:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

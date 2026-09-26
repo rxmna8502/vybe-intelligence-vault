@@ -1,19 +1,30 @@
 ---
-title: "intellectuallyneutral/Real-estate-analysis-API-with-x402-micropayments-on-Base-L2"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Cloudflare Workers", "Hono Framework", "TypeScript", "@x402/hono", "USDC (Base L2)", "x402 Protocol"]
+title: intellectuallyneutral/Real-estate-analysis-API-with-x402-micropayments-on-Base-L2
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Cloudflare Workers
+- Hono Framework
+- TypeScript
+- '@x402/hono'
+- USDC (Base L2)
+- x402 Protocol
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["real estate", "micropayments", "x402 protocol", "Base L2", "autonomous agents"]
-source: "https://github.com/intellectuallyneutral/Real-estate-analysis-API-with-x402-micropayments-on-Base-L2"
+deployment_complexity: Low
+tags:
+- real estate
+- micropayments
+- x402 protocol
+- Base L2
+- autonomous agents
+source: https://github.com/intellectuallyneutral/Real-estate-analysis-API-with-x402-micropayments-on-Base-L2
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-13T20:11:17Z"
-discovered_at: "2026-07-13T20:14:14Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T20:11:17Z'
+discovered_at: '2026-07-13T20:14:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

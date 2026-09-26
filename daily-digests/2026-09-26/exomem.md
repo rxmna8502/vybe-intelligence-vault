@@ -1,19 +1,32 @@
 ---
-title: "Artexis10/exomem"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Obsidian", "Markdown", "FastAPI", "SQLite", "Docker", "GitHub Actions"]
+title: Artexis10/exomem
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Obsidian
+- Markdown
+- FastAPI
+- SQLite
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP server", "knowledge management", "local-first", "Obsidian integration", "AI agent memory"]
-source: "https://github.com/Artexis10/exomem"
+deployment_complexity: Medium
+tags:
+- MCP server
+- knowledge management
+- local-first
+- Obsidian integration
+- AI agent memory
+source: https://github.com/Artexis10/exomem
 stars: 10
-language: "Python"
-last_updated: "2026-09-01T22:15:17Z"
-discovered_at: "2026-09-01T22:19:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:15:17Z'
+discovered_at: '2026-09-01T22:19:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

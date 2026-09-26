@@ -1,19 +1,32 @@
 ---
-title: "cloudnewbie/SUBSENTRY"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Strands Agents SDK", "AWS Bedrock (Claude models)", "Ollama (local LLM)", "FastAPI", "SQLite", "Typer (CLI)", "Pytest"]
+title: cloudnewbie/SUBSENTRY
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- Strands Agents SDK
+- AWS Bedrock (Claude models)
+- Ollama (local LLM)
+- FastAPI
+- SQLite
+- Typer (CLI)
+- Pytest
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "bill management", "subscription monitoring", "human-in-the-loop", "deterministic detection"]
-source: "https://github.com/cloudnewbie/SUBSENTRY"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- bill management
+- subscription monitoring
+- human-in-the-loop
+- deterministic detection
+source: https://github.com/cloudnewbie/SUBSENTRY
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T02:10:29Z"
-discovered_at: "2026-09-03T02:16:36Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T02:10:29Z'
+discovered_at: '2026-09-03T02:16:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

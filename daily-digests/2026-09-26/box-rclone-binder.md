@@ -1,19 +1,33 @@
 ---
-title: "DaizeDong/box-rclone-binder"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "rclone", "Box API", "JWT", "OAuth", "systemd", "cron", "YAML", "JSON"]
+title: DaizeDong/box-rclone-binder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- rclone
+- Box API
+- JWT
+- OAuth
+- systemd
+- cron
+- YAML
+- JSON
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Box storage", "rclone", "multi-host sync", "authentication", "idempotent deployment"]
-source: "https://github.com/DaizeDong/box-rclone-binder"
+deployment_complexity: Medium
+tags:
+- Box storage
+- rclone
+- multi-host sync
+- authentication
+- idempotent deployment
+source: https://github.com/DaizeDong/box-rclone-binder
 stars: 0
-language: "Python"
-last_updated: "2026-07-17T08:01:32Z"
-discovered_at: "2026-07-17T08:07:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-17T08:01:32Z'
+discovered_at: '2026-07-17T08:07:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

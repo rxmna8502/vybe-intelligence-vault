@@ -1,19 +1,36 @@
 ---
-title: "oprounak34-cpu/agent-bridge-core"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Docker", "YAML", "Mermaid.js", "Telegram API", "Discord API", "Slack API", "Twilio API", "Event Sourcing", "Webhooks", "Sandboxed Shell Execution", "End-to-End Encryption"]
+title: oprounak34-cpu/agent-bridge-core
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Docker
+- YAML
+- Mermaid.js
+- Telegram API
+- Discord API
+- Slack API
+- Twilio API
+- Event Sourcing
+- Webhooks
+- Sandboxed Shell Execution
+- End-to-End Encryption
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "multi-agent collaboration", "event-driven architecture", "self-hosted", "AI workflow automation"]
-source: "https://github.com/oprounak34-cpu/agent-bridge-core"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- multi-agent collaboration
+- event-driven architecture
+- self-hosted
+- AI workflow automation
+source: https://github.com/oprounak34-cpu/agent-bridge-core
 stars: 0
-language: "HTML"
-last_updated: "2026-09-03T21:56:43Z"
-discovered_at: "2026-09-03T22:07:45Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T21:56:43Z'
+discovered_at: '2026-09-03T22:07:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

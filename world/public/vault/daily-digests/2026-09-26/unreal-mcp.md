@@ -1,19 +1,30 @@
 ---
-title: "IvanMurzak/Unreal-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++", "Unreal Engine", "Model Context Protocol (MCP)", ".NET", "Docker", "Node.js"]
+title: IvanMurzak/Unreal-MCP
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- C++
+- Unreal Engine
+- Model Context Protocol (MCP)
+- .NET
+- Docker
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Game Development", "Unreal Engine Plugin", "MCP Integration", "Agent Framework", "C++ Tooling"]
-source: "https://github.com/IvanMurzak/Unreal-MCP"
+deployment_complexity: Medium
+tags:
+- AI Game Development
+- Unreal Engine Plugin
+- MCP Integration
+- Agent Framework
+- C++ Tooling
+source: https://github.com/IvanMurzak/Unreal-MCP
 stars: 11
-language: "C++"
-last_updated: "2026-07-17T10:45:16Z"
-discovered_at: "2026-07-17T10:46:33Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-07-17T10:45:16Z'
+discovered_at: '2026-07-17T10:46:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

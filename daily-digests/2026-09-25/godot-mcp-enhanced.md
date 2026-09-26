@@ -1,19 +1,34 @@
 ---
-title: "wgt19861219/godot-mcp-enhanced"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Godot Engine", "GDScript", "MCP (Model Context Protocol)", "WebSocket", "TCP/IP", "Jest", "Vitest", "ESLint"]
+title: wgt19861219/godot-mcp-enhanced
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- Godot Engine
+- GDScript
+- MCP (Model Context Protocol)
+- WebSocket
+- TCP/IP
+- Jest
+- Vitest
+- ESLint
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Godot", "MCP Server", "Game Development", "AI-Assisted Coding", "Runtime Control"]
-source: "https://github.com/wgt19861219/godot-mcp-enhanced"
+deployment_complexity: Medium
+tags:
+- Godot
+- MCP Server
+- Game Development
+- AI-Assisted Coding
+- Runtime Control
+source: https://github.com/wgt19861219/godot-mcp-enhanced
 stars: 79
-language: "TypeScript"
-last_updated: "2026-08-07T02:52:19Z"
-discovered_at: "2026-08-07T16:01:41Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T02:52:19Z'
+discovered_at: '2026-08-07T16:01:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

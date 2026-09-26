@@ -1,19 +1,31 @@
 ---
-title: "sasuke15134321/agent-memory-api"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "x402 Payment Protocol", "USDC", "AES-256 Encryption", "JPYC"]
+title: sasuke15134321/agent-memory-api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- x402 Payment Protocol
+- USDC
+- AES-256 Encryption
+- JPYC
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agent memory", "audit logging", "x402 payments", "deterministic control", "trust layer"]
-source: "https://github.com/sasuke15134321/agent-memory-api"
+deployment_complexity: Medium
+tags:
+- AI agent memory
+- audit logging
+- x402 payments
+- deterministic control
+- trust layer
+source: https://github.com/sasuke15134321/agent-memory-api
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T01:25:54Z"
-discovered_at: "2026-08-09T01:33:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T01:25:54Z'
+discovered_at: '2026-08-09T01:33:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

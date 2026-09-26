@@ -1,19 +1,35 @@
 ---
-title: "monahand1023/corpus"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "SQLite", "sqlite-vec", "FastMCP", "Voyage API", "Gemini API", "BM25", "BGE (cross-encoder re-ranker)", "MCP (Model Context Protocol)", "PyPDF", "Trafilatura"]
+title: monahand1023/corpus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- SQLite
+- sqlite-vec
+- FastMCP
+- Voyage API
+- Gemini API
+- BM25
+- BGE (cross-encoder re-ranker)
+- MCP (Model Context Protocol)
+- PyPDF
+- Trafilatura
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Low"
-tags: ["local-first RAG", "personal knowledge system", "hybrid search", "MCP integration", "SQLite-based vector storage"]
-source: "https://github.com/monahand1023/corpus"
+deployment_complexity: Low
+tags:
+- local-first RAG
+- personal knowledge system
+- hybrid search
+- MCP integration
+- SQLite-based vector storage
+source: https://github.com/monahand1023/corpus
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T15:42:29Z"
-discovered_at: "2026-09-02T15:53:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:42:29Z'
+discovered_at: '2026-09-02T15:53:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

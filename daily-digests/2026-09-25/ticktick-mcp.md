@@ -1,19 +1,31 @@
 ---
-title: "partymola/ticktick-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python 3.13+", "MCP (Model Context Protocol)", "TickTick v2 API", "uv (package manager)", "SQLite (for completion tracking)", "OAuth 2.0", "GPL-3.0 license"]
+title: partymola/ticktick-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python 3.13+
+- MCP (Model Context Protocol)
+- TickTick v2 API
+- uv (package manager)
+- SQLite (for completion tracking)
+- OAuth 2.0
+- GPL-3.0 license
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["task management", "MCP server", "TickTick integration", "AI agent tools", "productivity"]
-source: "https://github.com/partymola/ticktick-mcp"
+deployment_complexity: Medium
+tags:
+- task management
+- MCP server
+- TickTick integration
+- AI agent tools
+- productivity
+source: https://github.com/partymola/ticktick-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T23:43:16Z"
-discovered_at: "2026-07-11T23:54:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T23:43:16Z'
+discovered_at: '2026-07-11T23:54:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

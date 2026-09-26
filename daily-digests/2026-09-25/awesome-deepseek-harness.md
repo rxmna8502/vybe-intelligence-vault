@@ -1,19 +1,30 @@
 ---
-title: "Dominic789654/awesome-deepseek-harness"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "Node.js", "Cordis", "MCP (Model Context Protocol)", "GitHub Actions"]
+title: Dominic789654/awesome-deepseek-harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- JavaScript
+- Node.js
+- Cordis
+- MCP (Model Context Protocol)
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["DeepSeek Harness", "Agent Runtime", "Plugin Ecosystem", "MCP Servers", "Orchestration"]
-source: "https://github.com/Dominic789654/awesome-deepseek-harness"
+deployment_complexity: Medium
+tags:
+- DeepSeek Harness
+- Agent Runtime
+- Plugin Ecosystem
+- MCP Servers
+- Orchestration
+source: https://github.com/Dominic789654/awesome-deepseek-harness
 stars: 213
-language: "TypeScript"
-last_updated: "2026-09-01T08:04:42Z"
-discovered_at: "2026-09-01T09:07:21Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T08:04:42Z'
+discovered_at: '2026-09-01T09:07:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

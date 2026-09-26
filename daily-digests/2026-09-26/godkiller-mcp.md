@@ -1,19 +1,31 @@
 ---
-title: "taurus42119-stack/godkiller-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Google Antigravity", "Cursor", "Claude Desktop", "Playwright", "Secrets management"]
+title: taurus42119-stack/godkiller-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Google Antigravity
+- Cursor
+- Claude Desktop
+- Playwright
+- Secrets management
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI agent governance", "disk verification", "phase gating", "MCP server", "coding agent reliability"]
-source: "https://github.com/taurus42119-stack/godkiller-mcp"
+deployment_complexity: Medium
+tags:
+- AI agent governance
+- disk verification
+- phase gating
+- MCP server
+- coding agent reliability
+source: https://github.com/taurus42119-stack/godkiller-mcp
 stars: 10
-language: "Python"
-last_updated: "2026-08-02T13:38:35Z"
-discovered_at: "2026-08-02T13:50:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T13:38:35Z'
+discovered_at: '2026-08-02T13:50:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

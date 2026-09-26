@@ -1,19 +1,33 @@
 ---
-title: "AndreasKarz/Agentic-BA-RE-Tester-Setup"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["GitHub Copilot", "Model Context Protocol (MCP)", "Azure DevOps (ADO)", "PowerShell", "Python", "Markdown", "JSON", "MongoDB", "Playwright"]
+title: AndreasKarz/Agentic-BA-RE-Tester-Setup
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- GitHub Copilot
+- Model Context Protocol (MCP)
+- Azure DevOps (ADO)
+- PowerShell
+- Python
+- Markdown
+- JSON
+- MongoDB
+- Playwright
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["requirements engineering", "automated testing", "AI agents", "hierarchical RAG", "business analysis"]
-source: "https://github.com/AndreasKarz/Agentic-BA-RE-Tester-Setup"
+deployment_complexity: Medium
+tags:
+- requirements engineering
+- automated testing
+- AI agents
+- hierarchical RAG
+- business analysis
+source: https://github.com/AndreasKarz/Agentic-BA-RE-Tester-Setup
 stars: 3
-language: "PowerShell"
-last_updated: "2026-08-10T09:15:17Z"
-discovered_at: "2026-08-10T09:25:32Z"
-evaluated_by: "mistral-small-latest"
+language: PowerShell
+last_updated: '2026-08-10T09:15:17Z'
+discovered_at: '2026-08-10T09:25:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

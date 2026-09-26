@@ -1,19 +1,31 @@
 ---
-title: "elara-labs/code-context-engine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Tree-sitter", "SQLite", "MCP (Model Context Protocol)", "BM25", "Vector search", "FastAPI"]
+title: elara-labs/code-context-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Tree-sitter
+- SQLite
+- MCP (Model Context Protocol)
+- BM25
+- Vector search
+- FastAPI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["code indexing", "token optimization", "local AI", "MCP server", "cross-editor"]
-source: "https://github.com/elara-labs/code-context-engine"
+deployment_complexity: Medium
+tags:
+- code indexing
+- token optimization
+- local AI
+- MCP server
+- cross-editor
+source: https://github.com/elara-labs/code-context-engine
 stars: 384
-language: "Python"
-last_updated: "2026-08-01T13:06:54Z"
-discovered_at: "2026-08-01T13:16:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:06:54Z'
+discovered_at: '2026-08-01T13:16:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

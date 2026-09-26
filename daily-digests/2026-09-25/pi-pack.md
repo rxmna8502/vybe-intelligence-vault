@@ -1,19 +1,27 @@
 ---
-title: "fosskar/pi-pack"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Nix", "Shell"]
+title: fosskar/pi-pack
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Nix
+- Shell
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent", "skills", "prompts", "extensions", "modular"]
-source: "https://github.com/fosskar/pi-pack"
+deployment_complexity: Medium
+tags:
+- AI agent
+- skills
+- prompts
+- extensions
+- modular
+source: https://github.com/fosskar/pi-pack
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T05:51:14Z"
-discovered_at: "2026-08-02T05:57:12Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T05:51:14Z'
+discovered_at: '2026-08-02T05:57:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

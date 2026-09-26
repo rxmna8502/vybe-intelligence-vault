@@ -1,19 +1,35 @@
 ---
-title: "hyperpolymath/hyperpolymath"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Idris2", "Zig", "Haskell", "Julia", "Lean 4", "PHP", "Guix", "Dependent types", "Theorem proving", "Property-based testing"]
+title: hyperpolymath/hyperpolymath
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- Idris2
+- Zig
+- Haskell
+- Julia
+- Lean 4
+- PHP
+- Guix
+- Dependent types
+- Theorem proving
+- Property-based testing
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "High"
-tags: ["formal methods", "structural equivalence", "type theory", "cognitive systems", "verifiable computation"]
-source: "https://github.com/hyperpolymath/hyperpolymath"
+deployment_complexity: High
+tags:
+- formal methods
+- structural equivalence
+- type theory
+- cognitive systems
+- verifiable computation
+source: https://github.com/hyperpolymath/hyperpolymath
 stars: 2
-language: "PHP"
-last_updated: "2026-07-11T14:38:42Z"
-discovered_at: "2026-07-11T14:52:12Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-07-11T14:38:42Z'
+discovered_at: '2026-07-11T14:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

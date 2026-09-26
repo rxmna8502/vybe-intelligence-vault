@@ -1,19 +1,29 @@
 ---
-title: "coasty-ai/coasty-manufacturing-spec-lookup"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "Coasty API", "Computer-use automation", "Vision models (e.g., GPT-5.2)"]
+title: coasty-ai/coasty-manufacturing-spec-lookup
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Node.js
+- Coasty API
+- Computer-use automation
+- Vision models (e.g., GPT-5.2)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent automation", "material property lookup", "browser automation", "offline testing", "cost-controlled execution"]
-source: "https://github.com/coasty-ai/coasty-manufacturing-spec-lookup"
+deployment_complexity: Medium
+tags:
+- AI agent automation
+- material property lookup
+- browser automation
+- offline testing
+- cost-controlled execution
+source: https://github.com/coasty-ai/coasty-manufacturing-spec-lookup
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:22:27Z"
-discovered_at: "2026-08-02T19:25:13Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:22:27Z'
+discovered_at: '2026-08-02T19:25:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

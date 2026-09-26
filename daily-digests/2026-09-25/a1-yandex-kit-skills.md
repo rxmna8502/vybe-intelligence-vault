@@ -1,19 +1,29 @@
 ---
-title: "ztemerbekov/a1-yandex-kit-skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Yandex KIT API", "Natural Language Processing (NLP)", "RESTful APIs"]
+title: ztemerbekov/a1-yandex-kit-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Node.js
+- Yandex KIT API
+- Natural Language Processing (NLP)
+- RESTful APIs
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI automation", "e-commerce management", "Yandex KIT", "promotion tools", "catalog management"]
-source: "https://github.com/ztemerbekov/a1-yandex-kit-skills"
+deployment_complexity: Medium
+tags:
+- AI automation
+- e-commerce management
+- Yandex KIT
+- promotion tools
+- catalog management
+source: https://github.com/ztemerbekov/a1-yandex-kit-skills
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-03T06:16:44Z"
-discovered_at: "2026-08-03T06:23:23Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-03T06:16:44Z'
+discovered_at: '2026-08-03T06:23:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

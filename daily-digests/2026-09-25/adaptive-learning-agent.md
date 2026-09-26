@@ -1,19 +1,37 @@
 ---
-title: "Zjrua/adaptive-learning-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "Vite", "Docker", "Tauri", "Reflexion", "ReAct", "BM25", "Vector DB", "Feishu API", "pytest"]
+title: Zjrua/adaptive-learning-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- Vite
+- Docker
+- Tauri
+- Reflexion
+- ReAct
+- BM25
+- Vector DB
+- Feishu API
+- pytest
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI Agent", "RAG", "Self-Validation", "Adaptive Learning", "Document Generation"]
-source: "https://github.com/Zjrua/adaptive-learning-agent"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- RAG
+- Self-Validation
+- Adaptive Learning
+- Document Generation
+source: https://github.com/Zjrua/adaptive-learning-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T05:54:28Z"
-discovered_at: "2026-07-12T05:56:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T05:54:28Z'
+discovered_at: '2026-07-12T05:56:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

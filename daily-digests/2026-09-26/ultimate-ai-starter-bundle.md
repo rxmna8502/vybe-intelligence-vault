@@ -1,19 +1,38 @@
 ---
-title: "ShugokiFable/Ultimate-AI-Starter-Bundle"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PowerShell", "Python", "MCP (Model Context Protocol)", "Claude Code", "Grok", "Kimi", "Hermes", "Codex", "Headroom", "Superpowers", "Ponytail", "houseCARL", "Spooky's AutoMod Toolkit", "codebase-memory-mcp"]
+title: ShugokiFable/Ultimate-AI-Starter-Bundle
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- PowerShell
+- Python
+- MCP (Model Context Protocol)
+- Claude Code
+- Grok
+- Kimi
+- Hermes
+- Codex
+- Headroom
+- Superpowers
+- Ponytail
+- houseCARL
+- Spooky's AutoMod Toolkit
+- codebase-memory-mcp
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI starter kit", "multi-provider", "MCP servers", "Skyrim modding", "context compression"]
-source: "https://github.com/ShugokiFable/Ultimate-AI-Starter-Bundle"
+deployment_complexity: Medium
+tags:
+- AI starter kit
+- multi-provider
+- MCP servers
+- Skyrim modding
+- context compression
+source: https://github.com/ShugokiFable/Ultimate-AI-Starter-Bundle
 stars: 1
-language: "Python"
-last_updated: "2026-08-06T23:54:18Z"
-discovered_at: "2026-08-07T00:02:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T23:54:18Z'
+discovered_at: '2026-08-07T00:02:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "smulamalla/diaguide-ai"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["LangChain", "OpenAI GPT-4o-mini", "Chroma", "Streamlit", "PyPDFLoader", "Python 3.12"]
+title: smulamalla/diaguide-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- LangChain
+- OpenAI GPT-4o-mini
+- Chroma
+- Streamlit
+- PyPDFLoader
+- Python 3.12
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "healthcare AI", "clinical guidelines", "evidence-based", "medication extraction"]
-source: "https://github.com/smulamalla/diaguide-ai"
+deployment_complexity: Medium
+tags:
+- RAG
+- healthcare AI
+- clinical guidelines
+- evidence-based
+- medication extraction
+source: https://github.com/smulamalla/diaguide-ai
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T21:47:38Z"
-discovered_at: "2026-08-07T22:37:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T21:47:38Z'
+discovered_at: '2026-08-07T22:37:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

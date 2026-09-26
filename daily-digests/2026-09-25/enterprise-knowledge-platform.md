@@ -1,19 +1,42 @@
 ---
-title: "chirags1725/Enterprise-knowledge-platform"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["FastAPI", "React", "Vite", "PostgreSQL", "Qdrant", "Elasticsearch", "Neo4j", "Redis", "Apache Kafka", "Ollama", "LangChain", "sentence-transformers", "spaCy", "Faster-Whisper", "PyTesseract", "Docker", "Python", "JavaScript"]
+title: chirags1725/Enterprise-knowledge-platform
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- FastAPI
+- React
+- Vite
+- PostgreSQL
+- Qdrant
+- Elasticsearch
+- Neo4j
+- Redis
+- Apache Kafka
+- Ollama
+- LangChain
+- sentence-transformers
+- spaCy
+- Faster-Whisper
+- PyTesseract
+- Docker
+- Python
+- JavaScript
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["RAG", "Hybrid Search", "Knowledge Graph", "Self-Hosted", "Enterprise Search"]
-source: "https://github.com/chirags1725/Enterprise-knowledge-platform"
+deployment_complexity: High
+tags:
+- RAG
+- Hybrid Search
+- Knowledge Graph
+- Self-Hosted
+- Enterprise Search
+source: https://github.com/chirags1725/Enterprise-knowledge-platform
 stars: 3
-language: "JavaScript"
-last_updated: "2026-08-07T19:40:45Z"
-discovered_at: "2026-08-07T19:58:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T19:40:45Z'
+discovered_at: '2026-08-07T19:58:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

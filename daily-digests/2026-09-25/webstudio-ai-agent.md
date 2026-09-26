@@ -1,19 +1,32 @@
 ---
-title: "R0STEFAN/webstudio-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "Webstudio SDK", "React/JSX", "Immer", "TypeScript (implicit via Webstudio SDK)", "Server-Sent Events (SSE)"]
+title: R0STEFAN/webstudio-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- Webstudio SDK
+- React/JSX
+- Immer
+- TypeScript (implicit via Webstudio SDK)
+- Server-Sent Events (SSE)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP bridge", "AI agent integration", "Webstudio local development", "offline design tools", "cloud synchronization"]
-source: "https://github.com/R0STEFAN/webstudio-ai-agent"
+deployment_complexity: Medium
+tags:
+- MCP bridge
+- AI agent integration
+- Webstudio local development
+- offline design tools
+- cloud synchronization
+source: https://github.com/R0STEFAN/webstudio-ai-agent
 stars: 0
-language: "JavaScript"
-last_updated: "2026-09-01T09:07:14Z"
-discovered_at: "2026-09-01T09:08:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T09:07:14Z'
+discovered_at: '2026-09-01T09:08:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

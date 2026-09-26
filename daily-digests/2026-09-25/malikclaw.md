@@ -1,19 +1,32 @@
 ---
-title: "AbdullahMalik17/malikclaw"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "Docker", "ADB (Android Debug Bridge)", "Gmail API", "Calendar API", "Web Search APIs (DuckDuckGo, Tavily, Brave, Perplexity, SearXNG)", "Wails (for desktop UI)", "Termux (for Android)"]
+title: AbdullahMalik17/malikclaw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Go
+- Docker
+- ADB (Android Debug Bridge)
+- Gmail API
+- Calendar API
+- Web Search APIs (DuckDuckGo, Tavily, Brave, Perplexity, SearXNG)
+- Wails (for desktop UI)
+- Termux (for Android)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["ultra-lightweight", "Go-based", "edge AI", "multi-platform", "privacy-focused"]
-source: "https://github.com/AbdullahMalik17/malikclaw"
+deployment_complexity: Medium
+tags:
+- ultra-lightweight
+- Go-based
+- edge AI
+- multi-platform
+- privacy-focused
+source: https://github.com/AbdullahMalik17/malikclaw
 stars: 15
-language: "Go"
-last_updated: "2026-08-03T13:32:33Z"
-discovered_at: "2026-08-03T13:42:34Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-03T13:32:33Z'
+discovered_at: '2026-08-03T13:42:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

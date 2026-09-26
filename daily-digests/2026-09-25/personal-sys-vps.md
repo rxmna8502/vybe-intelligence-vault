@@ -1,19 +1,38 @@
 ---
-title: "uxprojectsjok/personal-sys-vps"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Nuxt 4", "OpenResty (nginx + LuaJIT)", "Vue.js", "WebCrypto API", "AES-256-CBC", "HMAC", "WebAuthn/Passkey", "MCP (Model Context Protocol)", "Polygon (blockchain)", "Zapier (integration)", "Anthropic", "ElevenLabs", "Reown", "Pinata"]
+title: uxprojectsjok/personal-sys-vps
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Nuxt 4
+- OpenResty (nginx + LuaJIT)
+- Vue.js
+- WebCrypto API
+- AES-256-CBC
+- HMAC
+- WebAuthn/Passkey
+- MCP (Model Context Protocol)
+- Polygon (blockchain)
+- Zapier (integration)
+- Anthropic
+- ElevenLabs
+- Reown
+- Pinata
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["self-hosted", "AI identity", "context management", "decentralized", "MCP integration"]
-source: "https://github.com/uxprojectsjok/personal-sys-vps"
+deployment_complexity: High
+tags:
+- self-hosted
+- AI identity
+- context management
+- decentralized
+- MCP integration
+source: https://github.com/uxprojectsjok/personal-sys-vps
 stars: 2
-language: "Vue"
-last_updated: "2026-08-04T07:35:14Z"
-discovered_at: "2026-08-04T07:40:04Z"
-evaluated_by: "mistral-small-latest"
+language: Vue
+last_updated: '2026-08-04T07:35:14Z'
+discovered_at: '2026-08-04T07:40:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

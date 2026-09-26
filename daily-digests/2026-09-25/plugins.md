@@ -1,19 +1,30 @@
 ---
-title: "boardwalk-labs/plugins"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "JavaScript", "MCP (Model Context Protocol)", "CLI", "API Integration", "Node.js"]
+title: boardwalk-labs/plugins
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- JavaScript
+- MCP (Model Context Protocol)
+- CLI
+- API Integration
+- Node.js
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent skills", "workflow automation", "MCP server", "CLI integration", "multi-harness support"]
-source: "https://github.com/boardwalk-labs/plugins"
+deployment_complexity: Medium
+tags:
+- agent skills
+- workflow automation
+- MCP server
+- CLI integration
+- multi-harness support
+source: https://github.com/boardwalk-labs/plugins
 stars: 1
-language: "None"
-last_updated: "2026-08-01T15:00:48Z"
-discovered_at: "2026-08-01T15:01:28Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T15:00:48Z'
+discovered_at: '2026-08-01T15:01:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,39 @@
 ---
-title: "Hamidreza-Talei/persian-legal-rag-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "LanceDB", "vLLM", "RAGAS", "Hugging Face Transformers", "DeepSeek-OCR", "PyTorch", "Sentence Transformers", "pdfplumber", "Hazm", "Pydantic", "OpenPyXL", "Jupyter Notebook"]
+title: Hamidreza-Talei/persian-legal-rag-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- LanceDB
+- vLLM
+- RAGAS
+- Hugging Face Transformers
+- DeepSeek-OCR
+- PyTorch
+- Sentence Transformers
+- pdfplumber
+- Hazm
+- Pydantic
+- OpenPyXL
+- Jupyter Notebook
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Persian NLP", "Legal RAG", "OCR", "Metadata-aware retrieval", "LLM reranking"]
-source: "https://github.com/Hamidreza-Talei/persian-legal-rag-agent"
+deployment_complexity: Medium
+tags:
+- Persian NLP
+- Legal RAG
+- OCR
+- Metadata-aware retrieval
+- LLM reranking
+source: https://github.com/Hamidreza-Talei/persian-legal-rag-agent
 stars: 0
-language: "Jupyter Notebook"
-last_updated: "2026-08-07T23:19:39Z"
-discovered_at: "2026-08-07T23:36:29Z"
-evaluated_by: "mistral-small-latest"
+language: Jupyter Notebook
+last_updated: '2026-08-07T23:19:39Z'
+discovered_at: '2026-08-07T23:36:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

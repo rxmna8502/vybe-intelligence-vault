@@ -1,19 +1,31 @@
 ---
-title: "yantrikos/yantrikdb-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Rust", "SQLite", "MCP (Model Context Protocol)", "ONNX", "HTTP/REST", "SSE (Server-Sent Events)"]
+title: yantrikos/yantrikdb-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Rust
+- SQLite
+- MCP (Model Context Protocol)
+- ONNX
+- HTTP/REST
+- SSE (Server-Sent Events)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["persistent memory", "MCP server", "knowledge graph", "contradiction detection", "procedural learning"]
-source: "https://github.com/yantrikos/yantrikdb-mcp"
+deployment_complexity: Medium
+tags:
+- persistent memory
+- MCP server
+- knowledge graph
+- contradiction detection
+- procedural learning
+source: https://github.com/yantrikos/yantrikdb-mcp
 stars: 24
-language: "Python"
-last_updated: "2026-08-09T03:20:34Z"
-discovered_at: "2026-08-09T03:45:41Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T03:20:34Z'
+discovered_at: '2026-08-09T03:45:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

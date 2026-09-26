@@ -1,19 +1,32 @@
 ---
-title: "bryankthompson/mcp-server-qdrant-enhanced"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastEmbed", "CUDA 12.x", "Qdrant", "Docker", "Model Context Protocol (MCP)", "ONNX Runtime", "cuDNN"]
+title: bryankthompson/mcp-server-qdrant-enhanced
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastEmbed
+- CUDA 12.x
+- Qdrant
+- Docker
+- Model Context Protocol (MCP)
+- ONNX Runtime
+- cuDNN
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["vector database", "GPU acceleration", "MCP server", "embedding models", "production deployment"]
-source: "https://github.com/bryankthompson/mcp-server-qdrant-enhanced"
+deployment_complexity: Medium
+tags:
+- vector database
+- GPU acceleration
+- MCP server
+- embedding models
+- production deployment
+source: https://github.com/bryankthompson/mcp-server-qdrant-enhanced
 stars: 3
-language: "Python"
-last_updated: "2026-08-02T22:49:13Z"
-discovered_at: "2026-08-02T22:56:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T22:49:13Z'
+discovered_at: '2026-08-02T22:56:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

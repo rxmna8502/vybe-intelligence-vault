@@ -1,19 +1,30 @@
 ---
-title: "nifontovoleg/telegram-pinecone-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "Pinecone (Vector DB)", "OpenAI API", "AsyncIO", "pyTelegramBotAPI"]
+title: nifontovoleg/telegram-pinecone-assistant
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-09-26
+tech_stack:
+- Python
+- Telegram Bot API
+- Pinecone (Vector DB)
+- OpenAI API
+- AsyncIO
+- pyTelegramBotAPI
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Telegram bot", "vector database", "long-term memory", "RAG", "semantic search"]
-source: "https://github.com/nifontovoleg/telegram-pinecone-assistant"
+deployment_complexity: Medium
+tags:
+- Telegram bot
+- vector database
+- long-term memory
+- RAG
+- semantic search
+source: https://github.com/nifontovoleg/telegram-pinecone-assistant
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T16:06:20Z"
-discovered_at: "2026-08-08T16:36:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T16:06:20Z'
+discovered_at: '2026-08-08T16:36:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

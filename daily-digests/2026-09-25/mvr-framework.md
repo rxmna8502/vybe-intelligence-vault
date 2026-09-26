@@ -1,19 +1,31 @@
 ---
-title: "africanmarketos591/mvr-framework"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["REST API", "OpenAPI 3.1", "Model Context Protocol (MCP)", "JSON", "HTTP/MCP endpoints", "Python (inferred from SDKs)", "Machine Learning (inferred from scoring logic)"]
+title: africanmarketos591/mvr-framework
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- REST API
+- OpenAPI 3.1
+- Model Context Protocol (MCP)
+- JSON
+- HTTP/MCP endpoints
+- Python (inferred from SDKs)
+- Machine Learning (inferred from scoring logic)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["relational-readiness", "market-permission", "AI agents", "emerging markets", "trust assessment"]
-source: "https://github.com/africanmarketos591/mvr-framework"
+deployment_complexity: Medium
+tags:
+- relational-readiness
+- market-permission
+- AI agents
+- emerging markets
+- trust assessment
+source: https://github.com/africanmarketos591/mvr-framework
 stars: 0
-language: "HTML"
-last_updated: "2026-08-03T20:23:38Z"
-discovered_at: "2026-08-03T20:28:42Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-03T20:23:38Z'
+discovered_at: '2026-08-03T20:28:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

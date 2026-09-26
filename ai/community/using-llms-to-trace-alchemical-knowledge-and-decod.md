@@ -13,13 +13,14 @@ collected_at: '2026-09-25T04:48:54.972198+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:using-llms-to-trace-alchemical-knowledge-and-decod
 first_seen: '2026-09-25T01:35:08.498813+05:30'
 last_seen: '2026-09-25T04:48:54.972198+05:30'
 last_checked: '2026-09-25T04:48:54.972198+05:30'
 health_score: 100
 ---
+
 
 # Using LLMs to trace alchemical knowledge and decode 17th century letters
 

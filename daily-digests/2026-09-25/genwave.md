@@ -1,19 +1,29 @@
 ---
-title: "ofirs1988/genwave"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["PHP", "WordPress", "AES-256-CBC Encryption", "REST API", "GPL v2"]
+title: ofirs1988/genwave
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- PHP
+- WordPress
+- AES-256-CBC Encryption
+- REST API
+- GPL v2
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["WordPress", "AI Integration", "Authentication", "License Management", "Content Generation"]
-source: "https://github.com/ofirs1988/genwave"
+deployment_complexity: Low
+tags:
+- WordPress
+- AI Integration
+- Authentication
+- License Management
+- Content Generation
+source: https://github.com/ofirs1988/genwave
 stars: 1
-language: "PHP"
-last_updated: "2026-08-08T10:31:34Z"
-discovered_at: "2026-08-08T10:34:48Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-08-08T10:31:34Z'
+discovered_at: '2026-08-08T10:34:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

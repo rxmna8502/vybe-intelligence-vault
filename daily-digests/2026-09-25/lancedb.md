@@ -1,19 +1,40 @@
 ---
-title: "api-evangelist/lancedb"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Apache 2.0", "Lance columnar storage format", "OpenAPI 3.1", "Python", "TypeScript", "Rust", "Go", "C", "Java", "Spectral", "JSON Schema", "JSON-LD", "Apache Parquet", "GPU acceleration (cuVS)", "PyTorch", "Ray"]
+title: api-evangelist/lancedb
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Apache 2.0
+- Lance columnar storage format
+- OpenAPI 3.1
+- Python
+- TypeScript
+- Rust
+- Go
+- C
+- Java
+- Spectral
+- JSON Schema
+- JSON-LD
+- Apache Parquet
+- GPU acceleration (cuVS)
+- PyTorch
+- Ray
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector database", "multimodal retrieval", "hybrid search", "lakehouse", "AI-native storage"]
-source: "https://github.com/api-evangelist/lancedb"
+deployment_complexity: Medium
+tags:
+- vector database
+- multimodal retrieval
+- hybrid search
+- lakehouse
+- AI-native storage
+source: https://github.com/api-evangelist/lancedb
 stars: 0
-language: "None"
-last_updated: "2026-08-08T01:14:48Z"
-discovered_at: "2026-08-08T01:27:24Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-08T01:14:48Z'
+discovered_at: '2026-08-08T01:27:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "jabidhasan327/standardbeagle-xray"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Node.js", "OpenAI API", "Claude API", "Headless Chromium", "YAML", "Docker", "Semantic Search", "AST Parsing", "LLM Integration"]
+title: jabidhasan327/standardbeagle-xray
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Node.js
+- OpenAI API
+- Claude API
+- Headless Chromium
+- YAML
+- Docker
+- Semantic Search
+- AST Parsing
+- LLM Integration
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "browser automation", "code intelligence", "terminal tools", "LLM integration"]
-source: "https://github.com/jabidhasan327/standardbeagle-xray"
+deployment_complexity: Medium
+tags:
+- AI agents
+- browser automation
+- code intelligence
+- terminal tools
+- LLM integration
+source: https://github.com/jabidhasan327/standardbeagle-xray
 stars: 0
-language: "HTML"
-last_updated: "2026-09-03T18:59:18Z"
-discovered_at: "2026-09-03T19:11:01Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T18:59:18Z'
+discovered_at: '2026-09-03T19:11:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

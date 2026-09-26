@@ -1,19 +1,28 @@
 ---
-title: "Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Windows API", "DirectX", "Memory Reading"]
+title: Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Windows API
+- DirectX
+- Memory Reading
 quality_score: 3
 rag_relevance: 1
-deployment_complexity: "Medium"
-tags: ["game-hacking", "external-tool", "counter-strike-2", "esp", "wallhack"]
-source: "https://github.com/Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026"
+deployment_complexity: Medium
+tags:
+- game-hacking
+- external-tool
+- counter-strike-2
+- esp
+- wallhack
+source: https://github.com/Jordanaconceptional53/CS2-ESP-Wallhack-GUI-2026
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T14:38:27Z"
-discovered_at: "2026-07-11T14:52:12Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T14:38:27Z'
+discovered_at: '2026-07-11T14:52:12Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

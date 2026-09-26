@@ -1,19 +1,40 @@
 ---
-title: "Iammilansoni/MiningNiti"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Next.js", "React", "PostgreSQL", "pgvector", "Supabase", "Redis", "Groq", "Mistral", "Cerebras", "Gemini", "TypeScript", "Tailwind CSS", "Clerk Auth", "Docker"]
+title: Iammilansoni/MiningNiti
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- Next.js
+- React
+- PostgreSQL
+- pgvector
+- Supabase
+- Redis
+- Groq
+- Mistral
+- Cerebras
+- Gemini
+- TypeScript
+- Tailwind CSS
+- Clerk Auth
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "multi-agent system", "document intelligence", "mining compliance", "semantic search"]
-source: "https://github.com/Iammilansoni/MiningNiti"
+deployment_complexity: Medium
+tags:
+- RAG
+- multi-agent system
+- document intelligence
+- mining compliance
+- semantic search
+source: https://github.com/Iammilansoni/MiningNiti
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T10:59:33Z"
-discovered_at: "2026-08-07T11:05:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T10:59:33Z'
+discovered_at: '2026-08-07T11:05:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

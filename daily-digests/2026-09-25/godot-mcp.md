@@ -1,19 +1,29 @@
 ---
-title: "siadialiga/godot-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["GDScript", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "Godot Engine"]
+title: siadialiga/godot-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- GDScript
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Godot Engine
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI-driven game development", "Godot integration", "MCP server", "editor automation", "game engine tooling"]
-source: "https://github.com/siadialiga/godot-mcp"
+deployment_complexity: Medium
+tags:
+- AI-driven game development
+- Godot integration
+- MCP server
+- editor automation
+- game engine tooling
+source: https://github.com/siadialiga/godot-mcp
 stars: 0
-language: "GDScript"
-last_updated: "2026-09-03T21:57:01Z"
-discovered_at: "2026-09-03T22:11:54Z"
-evaluated_by: "mistral-small-latest"
+language: GDScript
+last_updated: '2026-09-03T21:57:01Z'
+discovered_at: '2026-09-03T22:11:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

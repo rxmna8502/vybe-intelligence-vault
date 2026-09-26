@@ -1,19 +1,38 @@
 ---
-title: "eniglio-ctrl/enterprise-rag-platform"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Java 21", "Spring Boot 3.5", "Spring AI 1.0", "PostgreSQL 16 + pgvector", "Ollama (nomic-embed-text, llama3.1, llava)", "Docker", "Docker Compose", "Prometheus", "Grafana", "Swagger UI", "Mermaid.js", "JUnit 5", "Testcontainers", "Vanilla HTML/CSS/JS"]
+title: eniglio-ctrl/enterprise-rag-platform
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Java 21
+- Spring Boot 3.5
+- Spring AI 1.0
+- PostgreSQL 16 + pgvector
+- Ollama (nomic-embed-text, llama3.1, llava)
+- Docker
+- Docker Compose
+- Prometheus
+- Grafana
+- Swagger UI
+- Mermaid.js
+- JUnit 5
+- Testcontainers
+- Vanilla HTML/CSS/JS
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Microservices", "PostgreSQL pgvector", "Ollama", "Document Ingestion"]
-source: "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+deployment_complexity: Medium
+tags:
+- RAG
+- Microservices
+- PostgreSQL pgvector
+- Ollama
+- Document Ingestion
+source: https://github.com/eniglio-ctrl/enterprise-rag-platform
 stars: 0
-language: "Java"
-last_updated: "2026-08-07T20:08:47Z"
-discovered_at: "2026-08-07T20:43:48Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T20:08:47Z'
+discovered_at: '2026-08-07T20:43:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 273, Downloads: 1274317)
+Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 274, Downloads: 1252281)
 
 ## Use Cases
 

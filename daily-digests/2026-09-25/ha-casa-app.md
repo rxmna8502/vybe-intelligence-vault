@@ -1,19 +1,33 @@
 ---
-title: "bonzanni/ha-casa-app"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Claude Agent SDK", "Home Assistant", "Telegram Bot API", "WebSocket/SSE", "Docker", "Cosign (container signing)", "Hindsight (for memory)", "1Password (for secrets)"]
+title: bonzanni/ha-casa-app
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Claude Agent SDK
+- Home Assistant
+- Telegram Bot API
+- WebSocket/SSE
+- Docker
+- Cosign (container signing)
+- Hindsight (for memory)
+- 1Password (for secrets)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Home Automation", "AI Agents", "Claude Integration", "Smart Home Control", "Voice Assistants"]
-source: "https://github.com/bonzanni/ha-casa-app"
+deployment_complexity: Medium
+tags:
+- Home Automation
+- AI Agents
+- Claude Integration
+- Smart Home Control
+- Voice Assistants
+source: https://github.com/bonzanni/ha-casa-app
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T13:12:38Z"
-discovered_at: "2026-08-01T13:16:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:12:38Z'
+discovered_at: '2026-08-01T13:16:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

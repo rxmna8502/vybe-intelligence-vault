@@ -1,19 +1,32 @@
 ---
-title: "Kong/kong"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Lua", "Go", "JavaScript", "Docker", "Kubernetes", "PostgreSQL", "RESTful APIs", "Plugin Development Kit (PDK)"]
+title: Kong/kong
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Lua
+- Go
+- JavaScript
+- Docker
+- Kubernetes
+- PostgreSQL
+- RESTful APIs
+- Plugin Development Kit (PDK)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["API Gateway", "AI Gateway", "Load Balancing", "Microservices", "Plugin System"]
-source: "https://github.com/Kong/kong"
+deployment_complexity: Medium
+tags:
+- API Gateway
+- AI Gateway
+- Load Balancing
+- Microservices
+- Plugin System
+source: https://github.com/Kong/kong
 stars: 43907
-language: "Lua"
-last_updated: "2026-08-03T10:36:01Z"
-discovered_at: "2026-08-03T10:44:10Z"
-evaluated_by: "mistral-small-latest"
+language: Lua
+last_updated: '2026-08-03T10:36:01Z'
+discovered_at: '2026-08-03T10:44:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

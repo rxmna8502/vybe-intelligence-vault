@@ -1,19 +1,35 @@
 ---
-title: "fabriziosalmi/noted"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "Vite", "React", "TypeScript", "Zustand", "TipTap", "Vitest", "ESLint", "esbuild", "Node.js", "MCP Server"]
+title: fabriziosalmi/noted
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Electron
+- Vite
+- React
+- TypeScript
+- Zustand
+- TipTap
+- Vitest
+- ESLint
+- esbuild
+- Node.js
+- MCP Server
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "note-taking", "AI integration", "MCP server", "Git sync"]
-source: "https://github.com/fabriziosalmi/noted"
+deployment_complexity: Medium
+tags:
+- local-first
+- note-taking
+- AI integration
+- MCP server
+- Git sync
+source: https://github.com/fabriziosalmi/noted
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-02T22:42:27Z"
-discovered_at: "2026-08-02T22:56:19Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T22:42:27Z'
+discovered_at: '2026-08-02T22:56:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

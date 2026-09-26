@@ -1,19 +1,29 @@
 ---
-title: "TwitterAPIs/twitterapis-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "npm"]
+title: TwitterAPIs/twitterapis-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- REST API
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["Twitter API", "MCP Server", "AI Agents", "Social Media Data", "Real-time Data"]
-source: "https://github.com/TwitterAPIs/twitterapis-mcp"
+deployment_complexity: Low
+tags:
+- Twitter API
+- MCP Server
+- AI Agents
+- Social Media Data
+- Real-time Data
+source: https://github.com/TwitterAPIs/twitterapis-mcp
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-06T09:39:30Z"
-discovered_at: "2026-08-06T09:42:20Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-06T09:39:30Z'
+discovered_at: '2026-08-06T09:42:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

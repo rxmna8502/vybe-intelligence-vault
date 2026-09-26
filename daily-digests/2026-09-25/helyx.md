@@ -1,19 +1,40 @@
 ---
-title: "MrCipherSmith/helyx"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Bun", "Model Context Protocol (MCP)", "PostgreSQL", "pgvector", "Telegram Bot API", "Ollama", "nomic-embed-text", "Groq", "Whisper", "Piper", "Kokoro-82M", "Yandex SpeechKit", "React", "Docker", "systemd"]
+title: MrCipherSmith/helyx
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Bun
+- Model Context Protocol (MCP)
+- PostgreSQL
+- pgvector
+- Telegram Bot API
+- Ollama
+- nomic-embed-text
+- Groq
+- Whisper
+- Piper
+- Kokoro-82M
+- Yandex SpeechKit
+- React
+- Docker
+- systemd
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Telegram integration", "multi-project management", "voice transcription", "real-time monitoring"]
-source: "https://github.com/MrCipherSmith/helyx"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Telegram integration
+- multi-project management
+- voice transcription
+- real-time monitoring
+source: https://github.com/MrCipherSmith/helyx
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T14:57:47Z"
-discovered_at: "2026-08-02T15:02:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T14:57:47Z'
+discovered_at: '2026-08-02T15:02:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

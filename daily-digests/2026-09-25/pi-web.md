@@ -1,19 +1,34 @@
 ---
-title: "xueshao1716/pi-web"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "HTML/CSS", "DeepSeek", "\u5c0f\u7c73 mimo", "Agnes", "OpenRouter", "OpenAI", "\u706b\u5c71\u65b9\u821f", "Brave API"]
+title: xueshao1716/pi-web
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Node.js
+- JavaScript
+- HTML/CSS
+- DeepSeek
+- 小米 mimo
+- Agnes
+- OpenRouter
+- OpenAI
+- 火山方舟
+- Brave API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI\u5de5\u4f5c\u53f0", "\u591a\u6a21\u578b\u652f\u6301", "\u8bb0\u5fc6\u7cfb\u7edf", "\u60c5\u7eea\u5f15\u64ce", "\u667a\u80fd\u6587\u4ef6\u4ea4\u4ed8"]
-source: "https://github.com/xueshao1716/pi-web"
+deployment_complexity: Medium
+tags:
+- AI工作台
+- 多模型支持
+- 记忆系统
+- 情绪引擎
+- 智能文件交付
+source: https://github.com/xueshao1716/pi-web
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-07T15:57:43Z"
-discovered_at: "2026-08-07T16:01:40Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T15:57:43Z'
+discovered_at: '2026-08-07T16:01:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "L1ch404/jolink-runtime"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "Python", "MCP (Model Context Protocol)", "JDWP (Java Debug Wire Protocol)", "Maven", "uv (Python package manager)"]
+title: L1ch404/jolink-runtime
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Java
+- Python
+- MCP (Model Context Protocol)
+- JDWP (Java Debug Wire Protocol)
+- Maven
+- uv (Python package manager)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Java debugging", "runtime feedback", "coding agents", "dynamic observation", "HotSwap"]
-source: "https://github.com/L1ch404/jolink-runtime"
+deployment_complexity: Medium
+tags:
+- Java debugging
+- runtime feedback
+- coding agents
+- dynamic observation
+- HotSwap
+source: https://github.com/L1ch404/jolink-runtime
 stars: 2
-language: "Python"
-last_updated: "2026-08-03T16:22:30Z"
-discovered_at: "2026-08-03T16:26:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T16:22:30Z'
+discovered_at: '2026-08-03T16:26:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

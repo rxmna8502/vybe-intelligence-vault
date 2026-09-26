@@ -1,19 +1,34 @@
 ---
-title: "Percedal15019/AI-Automation"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["n8n", "Docker", "OpenRouter", "Perplexity AI", "Pinecone", "Supabase", "PostgreSQL", "Google Drive API", "Firecrawl", "Brave Search API"]
+title: Percedal15019/AI-Automation
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- n8n
+- Docker
+- OpenRouter
+- Perplexity AI
+- Pinecone
+- Supabase
+- PostgreSQL
+- Google Drive API
+- Firecrawl
+- Brave Search API
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["automation", "workflow", "RAG", "AI agents", "low-code"]
-source: "https://github.com/Percedal15019/AI-Automation"
+deployment_complexity: Medium
+tags:
+- automation
+- workflow
+- RAG
+- AI agents
+- low-code
+source: https://github.com/Percedal15019/AI-Automation
 stars: 0
-language: "None"
-last_updated: "2026-07-12T14:53:48Z"
-discovered_at: "2026-07-12T14:54:45Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-12T14:53:48Z'
+discovered_at: '2026-07-12T14:54:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

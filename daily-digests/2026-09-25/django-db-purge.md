@@ -1,19 +1,29 @@
 ---
-title: "topunix/django-db-purge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Django", "SQL", "MCP Protocol", "FastMCP"]
+title: topunix/django-db-purge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Django
+- SQL
+- MCP Protocol
+- FastMCP
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["database cleanup", "retention policies", "MCP server", "Django management command", "data management"]
-source: "https://github.com/topunix/django-db-purge"
+deployment_complexity: Medium
+tags:
+- database cleanup
+- retention policies
+- MCP server
+- Django management command
+- data management
+source: https://github.com/topunix/django-db-purge
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T18:36:02Z"
-discovered_at: "2026-07-13T18:43:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T18:36:02Z'
+discovered_at: '2026-07-13T18:43:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

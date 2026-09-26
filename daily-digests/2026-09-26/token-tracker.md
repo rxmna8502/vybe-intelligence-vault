@@ -1,19 +1,32 @@
 ---
-title: "stormzhang/token-tracker"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Rich", "TOML", "JSONL", "SQLite", "CLI", "StatusLine", "Hooks"]
+title: stormzhang/token-tracker
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Rich
+- TOML
+- JSONL
+- SQLite
+- CLI
+- StatusLine
+- Hooks
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["token tracking", "cost analysis", "Claude Code", "Codex", "local agent monitoring"]
-source: "https://github.com/stormzhang/token-tracker"
+deployment_complexity: Medium
+tags:
+- token tracking
+- cost analysis
+- Claude Code
+- Codex
+- local agent monitoring
+source: https://github.com/stormzhang/token-tracker
 stars: 451
-language: "Python"
-last_updated: "2026-07-21T17:12:19Z"
-discovered_at: "2026-07-21T17:16:37Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T17:12:19Z'
+discovered_at: '2026-07-21T17:16:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

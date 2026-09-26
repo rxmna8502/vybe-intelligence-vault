@@ -1,19 +1,31 @@
 ---
-title: "axisrobo/peiravela-open"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "JavaScript", "OpenAPI", "REST API", "HTML/CSS", "PowerShell", "Apache License 2.0"]
+title: axisrobo/peiravela-open
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- JavaScript
+- OpenAPI
+- REST API
+- HTML/CSS
+- PowerShell
+- Apache License 2.0
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["simulation control", "experiment reproducibility", "provenance tracking", "autonomous systems", "evidence verification"]
-source: "https://github.com/axisrobo/peiravela-open"
+deployment_complexity: Medium
+tags:
+- simulation control
+- experiment reproducibility
+- provenance tracking
+- autonomous systems
+- evidence verification
+source: https://github.com/axisrobo/peiravela-open
 stars: 0
-language: "HTML"
-last_updated: "2026-08-09T03:36:23Z"
-discovered_at: "2026-08-09T03:45:32Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-09T03:36:23Z'
+discovered_at: '2026-08-09T03:45:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

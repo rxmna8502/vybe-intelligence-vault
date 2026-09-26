@@ -1,19 +1,29 @@
 ---
-title: "Kirky-X/pua"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "Node.js", "npm", "AI Agent Frameworks", "CLI Tools"]
+title: Kirky-X/pua
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Shell
+- Node.js
+- npm
+- AI Agent Frameworks
+- CLI Tools
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI Agent Productivity", "PUA Tactics", "Agent Skill Plugin", "Corporate Methodologies", "Debugging Automation"]
-source: "https://github.com/Kirky-X/pua"
+deployment_complexity: Low
+tags:
+- AI Agent Productivity
+- PUA Tactics
+- Agent Skill Plugin
+- Corporate Methodologies
+- Debugging Automation
+source: https://github.com/Kirky-X/pua
 stars: 0
-language: "Shell"
-last_updated: "2026-08-03T10:36:24Z"
-discovered_at: "2026-08-03T10:43:59Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-08-03T10:36:24Z'
+discovered_at: '2026-08-03T10:43:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

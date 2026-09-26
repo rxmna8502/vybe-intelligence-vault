@@ -1,19 +1,35 @@
 ---
-title: "alloevil/alloevil"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "TypeScript", "JavaScript", "HTML", "Java", "LLM", "RAG", "Agent Systems", "Playwright", "Docker", "Git"]
+title: alloevil/alloevil
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- TypeScript
+- JavaScript
+- HTML
+- Java
+- LLM
+- RAG
+- Agent Systems
+- Playwright
+- Docker
+- Git
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Agents", "LLM Engineering", "RAG", "Automation", "Tooling"]
-source: "https://github.com/alloevil/alloevil"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- LLM Engineering
+- RAG
+- Automation
+- Tooling
+source: https://github.com/alloevil/alloevil
 stars: 0
-language: "None"
-last_updated: "2026-09-03T08:28:55Z"
-discovered_at: "2026-09-03T08:29:07Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-03T08:28:55Z'
+discovered_at: '2026-09-03T08:29:07Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

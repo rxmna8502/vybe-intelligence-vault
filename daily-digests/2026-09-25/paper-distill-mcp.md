@@ -1,19 +1,29 @@
 ---
-title: "celesteblackandwhite925/paper-distill-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Windows API", "REST APIs (for integrations)", "SQLite (for local storage)"]
+title: celesteblackandwhite925/paper-distill-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Windows API
+- REST APIs (for integrations)
+- SQLite (for local storage)
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["academic paper management", "MCP integration", "research curation", "multi-platform distribution", "desktop tool"]
-source: "https://github.com/celesteblackandwhite925/paper-distill-mcp"
+deployment_complexity: Low
+tags:
+- academic paper management
+- MCP integration
+- research curation
+- multi-platform distribution
+- desktop tool
+source: https://github.com/celesteblackandwhite925/paper-distill-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T13:29:00Z"
-discovered_at: "2026-07-12T13:36:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T13:29:00Z'
+discovered_at: '2026-07-12T13:36:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

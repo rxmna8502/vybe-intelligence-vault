@@ -1,19 +1,29 @@
 ---
-title: "axiomchronicles/elips"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["C++23", "Python", "HNSW (ANN)", "GPU acceleration", "SQLite-like embedded model"]
+title: axiomchronicles/elips
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- C++23
+- Python
+- HNSW (ANN)
+- GPU acceleration
+- SQLite-like embedded model
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["embedded vector database", "ANN search", "GPU acceleration", "metadata filtering", "document retrieval"]
-source: "https://github.com/axiomchronicles/elips"
+deployment_complexity: Medium
+tags:
+- embedded vector database
+- ANN search
+- GPU acceleration
+- metadata filtering
+- document retrieval
+source: https://github.com/axiomchronicles/elips
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T09:56:48Z"
-discovered_at: "2026-08-07T10:04:47Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T09:56:48Z'
+discovered_at: '2026-08-07T10:04:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

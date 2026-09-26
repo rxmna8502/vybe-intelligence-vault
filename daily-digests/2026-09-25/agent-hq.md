@@ -1,19 +1,30 @@
 ---
-title: "tools-for-agents/agent-hq"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "Server-Sent Events (SSE)", "MCP (Model Context Protocol)", "Docker"]
+title: tools-for-agents/agent-hq
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Node.js
+- SQLite
+- Server-Sent Events (SSE)
+- MCP (Model Context Protocol)
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "kanban board", "shared memory", "MCP server", "cost tracking"]
-source: "https://github.com/tools-for-agents/agent-hq"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- kanban board
+- shared memory
+- MCP server
+- cost tracking
+source: https://github.com/tools-for-agents/agent-hq
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-12T10:10:22Z"
-discovered_at: "2026-07-12T10:26:47Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-12T10:10:22Z'
+discovered_at: '2026-07-12T10:26:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

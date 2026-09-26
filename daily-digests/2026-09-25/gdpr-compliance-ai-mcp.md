@@ -1,19 +1,32 @@
 ---
-title: "CSOAI-ORG/gdpr-compliance-ai-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "HMAC-SHA256", "PyPI", "Smithery", "Stripe", "USDC (Base L2)", "Claude Desktop"]
+title: CSOAI-ORG/gdpr-compliance-ai-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- HMAC-SHA256
+- PyPI
+- Smithery
+- Stripe
+- USDC (Base L2)
+- Claude Desktop
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["GDPR compliance", "EU AI Act", "DPIA automation", "audit-ready", "pay-per-call"]
-source: "https://github.com/CSOAI-ORG/gdpr-compliance-ai-mcp"
+deployment_complexity: Low
+tags:
+- GDPR compliance
+- EU AI Act
+- DPIA automation
+- audit-ready
+- pay-per-call
+source: https://github.com/CSOAI-ORG/gdpr-compliance-ai-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T12:53:51Z"
-discovered_at: "2026-08-04T13:05:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T12:53:51Z'
+discovered_at: '2026-08-04T13:05:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

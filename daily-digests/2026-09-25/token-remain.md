@@ -1,19 +1,32 @@
 ---
-title: "Carstin520/token-remain"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Swift", "SwiftUI", "macOS AppKit", "Cloudflare Workers", "D1 (SQLite)", "APNs (Apple Push Notifications)", "GitHub Actions (CI/CD)", "Apache License 2.0"]
+title: Carstin520/token-remain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Swift
+- SwiftUI
+- macOS AppKit
+- Cloudflare Workers
+- D1 (SQLite)
+- APNs (Apple Push Notifications)
+- GitHub Actions (CI/CD)
+- Apache License 2.0
 quality_score: 9
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["AI usage tracking", "macOS menu bar", "token quota monitoring", "privacy-first", "local data processing"]
-source: "https://github.com/Carstin520/token-remain"
+deployment_complexity: Medium
+tags:
+- AI usage tracking
+- macOS menu bar
+- token quota monitoring
+- privacy-first
+- local data processing
+source: https://github.com/Carstin520/token-remain
 stars: 15
-language: "Swift"
-last_updated: "2026-08-06T03:18:18Z"
-discovered_at: "2026-08-06T03:18:35Z"
-evaluated_by: "mistral-small-latest"
+language: Swift
+last_updated: '2026-08-06T03:18:18Z'
+discovered_at: '2026-08-06T03:18:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,35 @@
 ---
-title: "ProofOfTechOrg/anchorage"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Mastra", "Cloudflare Workers", "Durable Objects", "D1 (Cloudflare SQL)", "React", "Node.js", "npm", "Cloudflare Queues", "R2 (Cloudflare object storage)", "pnpm"]
+title: ProofOfTechOrg/anchorage
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Mastra
+- Cloudflare Workers
+- Durable Objects
+- D1 (Cloudflare SQL)
+- React
+- Node.js
+- npm
+- Cloudflare Queues
+- R2 (Cloudflare object storage)
+- pnpm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI safety", "workflow orchestration", "RBAC", "approval management", "multi-tenancy"]
-source: "https://github.com/ProofOfTechOrg/anchorage"
+deployment_complexity: Medium
+tags:
+- AI safety
+- workflow orchestration
+- RBAC
+- approval management
+- multi-tenancy
+source: https://github.com/ProofOfTechOrg/anchorage
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-14T14:48:07Z"
-discovered_at: "2026-07-14T14:48:50Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-14T14:48:07Z'
+discovered_at: '2026-07-14T14:48:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

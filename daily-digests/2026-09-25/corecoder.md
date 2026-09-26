@@ -1,19 +1,32 @@
 ---
-title: "he-yufeng/CoreCoder"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "OpenAI-compatible API", "LLM (Large Language Model) integration", "Shell/Bash execution", "File I/O operations", "Context management", "Parallel tool execution", "REPL (Read-Eval-Print Loop)"]
+title: he-yufeng/CoreCoder
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- OpenAI-compatible API
+- LLM (Large Language Model) integration
+- Shell/Bash execution
+- File I/O operations
+- Context management
+- Parallel tool execution
+- REPL (Read-Eval-Print Loop)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["minimal agent", "coding agent", "open-source", "readable code", "LLM integration"]
-source: "https://github.com/he-yufeng/CoreCoder"
+deployment_complexity: Low
+tags:
+- minimal agent
+- coding agent
+- open-source
+- readable code
+- LLM integration
+source: https://github.com/he-yufeng/CoreCoder
 stars: 1691
-language: "Python"
-last_updated: "2026-09-02T15:46:13Z"
-discovered_at: "2026-09-02T15:49:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:46:13Z'
+discovered_at: '2026-09-02T15:49:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

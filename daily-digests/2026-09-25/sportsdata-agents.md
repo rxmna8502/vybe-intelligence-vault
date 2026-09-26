@@ -1,19 +1,35 @@
 ---
-title: "DanielTomaro13/sportsdata-agents"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LLM Agents", "Model Context Protocol (MCP)", "SQLite/PostgreSQL", "FastAPI", "Pydantic", "Alembic", "Ruff", "MyPy", "GitHub Actions", "Docker"]
+title: DanielTomaro13/sportsdata-agents
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- LLM Agents
+- Model Context Protocol (MCP)
+- SQLite/PostgreSQL
+- FastAPI
+- Pydantic
+- Alembic
+- Ruff
+- MyPy
+- GitHub Actions
+- Docker
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["sports analytics", "agentic AI", "arbitrage detection", "betting automation", "data ingestion"]
-source: "https://github.com/DanielTomaro13/sportsdata-agents"
+deployment_complexity: Medium
+tags:
+- sports analytics
+- agentic AI
+- arbitrage detection
+- betting automation
+- data ingestion
+source: https://github.com/DanielTomaro13/sportsdata-agents
 stars: 6
-language: "Python"
-last_updated: "2026-09-02T02:08:16Z"
-discovered_at: "2026-09-02T02:12:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T02:08:16Z'
+discovered_at: '2026-09-02T02:12:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

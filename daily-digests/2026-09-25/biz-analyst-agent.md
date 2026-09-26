@@ -1,19 +1,38 @@
 ---
-title: "Rangooo/biz-analyst-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "React", "TypeScript", "SQLite", "Pydantic", "DeepSeek", "ReportLab", "Exa", "Tavily", "Serper", "SEC EDGAR", "Vite", "SSE"]
+title: Rangooo/biz-analyst-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- React
+- TypeScript
+- SQLite
+- Pydantic
+- DeepSeek
+- ReportLab
+- Exa
+- Tavily
+- Serper
+- SEC EDGAR
+- Vite
+- SSE
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["business analysis", "evidence-backed", "red-team falsification", "research automation", "non-commercial"]
-source: "https://github.com/Rangooo/biz-analyst-agent"
+deployment_complexity: Medium
+tags:
+- business analysis
+- evidence-backed
+- red-team falsification
+- research automation
+- non-commercial
+source: https://github.com/Rangooo/biz-analyst-agent
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T05:45:57Z"
-discovered_at: "2026-08-05T05:47:21Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:45:57Z'
+discovered_at: '2026-08-05T05:47:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

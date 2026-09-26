@@ -1,19 +1,34 @@
 ---
-title: "dinglebear-ai/rapprise"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP/HTTPS", "Apprise API", "Docker", "GitHub Actions", "SHA-256", "Sigstore", "CLI", "JSON-RPC"]
+title: dinglebear-ai/rapprise
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- HTTP/HTTPS
+- Apprise API
+- Docker
+- GitHub Actions
+- SHA-256
+- Sigstore
+- CLI
+- JSON-RPC
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["notifications", "MCP server", "Apprise integration", "Rust", "CLI"]
-source: "https://github.com/dinglebear-ai/rapprise"
+deployment_complexity: Medium
+tags:
+- notifications
+- MCP server
+- Apprise integration
+- Rust
+- CLI
+source: https://github.com/dinglebear-ai/rapprise
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T03:36:15Z"
-discovered_at: "2026-08-01T03:44:11Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:36:15Z'
+discovered_at: '2026-08-01T03:44:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

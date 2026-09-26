@@ -1,19 +1,30 @@
 ---
-title: "edgecasehuman/droidsight"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "ADB (Android Debug Bridge)", "MCP (Model Context Protocol)", "H.264 video decoding", "OCR (Tesseract)", "JSON-RPC 2.0"]
+title: edgecasehuman/droidsight
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- ADB (Android Debug Bridge)
+- MCP (Model Context Protocol)
+- H.264 video decoding
+- OCR (Tesseract)
+- JSON-RPC 2.0
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Android automation", "ADB control", "MCP server", "screen capture", "OCR"]
-source: "https://github.com/edgecasehuman/droidsight"
+deployment_complexity: Medium
+tags:
+- Android automation
+- ADB control
+- MCP server
+- screen capture
+- OCR
+source: https://github.com/edgecasehuman/droidsight
 stars: 0
-language: "Rust"
-last_updated: "2026-08-02T18:00:44Z"
-discovered_at: "2026-08-02T18:02:34Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-02T18:00:44Z'
+discovered_at: '2026-08-02T18:02:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "al7o/DocuMind-AI-Engine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "OpenAI API", "Claude API", "LLama 3", "Mistral", "Semantic Analysis", "Knowledge Graphs", "Natural Language Processing", "Computer Vision", "Docker", "Kubernetes", "GraphQL", "Elasticsearch", "SQL"]
+title: al7o/DocuMind-AI-Engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- OpenAI API
+- Claude API
+- LLama 3
+- Mistral
+- Semantic Analysis
+- Knowledge Graphs
+- Natural Language Processing
+- Computer Vision
+- Docker
+- Kubernetes
+- GraphQL
+- Elasticsearch
+- SQL
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["document intelligence", "semantic processing", "knowledge graph", "multi-model AI", "enterprise automation"]
-source: "https://github.com/al7o/DocuMind-AI-Engine"
+deployment_complexity: High
+tags:
+- document intelligence
+- semantic processing
+- knowledge graph
+- multi-model AI
+- enterprise automation
+source: https://github.com/al7o/DocuMind-AI-Engine
 stars: 1
-language: "HTML"
-last_updated: "2026-08-07T10:07:50Z"
-discovered_at: "2026-08-07T11:06:20Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T10:07:50Z'
+discovered_at: '2026-08-07T11:06:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

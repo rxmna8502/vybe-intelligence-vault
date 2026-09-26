@@ -1,19 +1,34 @@
 ---
-title: "astronaut012/Migrating-Databases-Using-ORMCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["ORMCP", "JDX (Object-Relational Mapping)", "Gilhari (REST Microservice)", "Oracle Database", "PostgreSQL", "Docker", "Java", "Batch Scripting", "Natural Language Queries", "MCP (Model Context Protocol)"]
+title: astronaut012/Migrating-Databases-Using-ORMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- ORMCP
+- JDX (Object-Relational Mapping)
+- Gilhari (REST Microservice)
+- Oracle Database
+- PostgreSQL
+- Docker
+- Java
+- Batch Scripting
+- Natural Language Queries
+- MCP (Model Context Protocol)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["database migration", "AI-driven data transfer", "ORM", "MCP server", "flight management"]
-source: "https://github.com/astronaut012/Migrating-Databases-Using-ORMCP"
+deployment_complexity: High
+tags:
+- database migration
+- AI-driven data transfer
+- ORM
+- MCP server
+- flight management
+source: https://github.com/astronaut012/Migrating-Databases-Using-ORMCP
 stars: 0
-language: "Batchfile"
-last_updated: "2026-08-02T18:00:15Z"
-discovered_at: "2026-08-02T18:02:37Z"
-evaluated_by: "mistral-small-latest"
+language: Batchfile
+last_updated: '2026-08-02T18:00:15Z'
+discovered_at: '2026-08-02T18:02:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

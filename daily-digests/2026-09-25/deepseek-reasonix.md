@@ -1,19 +1,33 @@
 ---
-title: "esengine/DeepSeek-Reasonix"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "TypeScript", "Node.js", "Wails", "MCP (Model Context Protocol)", "Extension Protocol", "TOML", "Git", "CI/CD (GitHub Actions)"]
+title: esengine/DeepSeek-Reasonix
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Go
+- TypeScript
+- Node.js
+- Wails
+- MCP (Model Context Protocol)
+- Extension Protocol
+- TOML
+- Git
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "coding assistant", "multi-model", "plugin system", "cache stability"]
-source: "https://github.com/esengine/DeepSeek-Reasonix"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- coding assistant
+- multi-model
+- plugin system
+- cache stability
+source: https://github.com/esengine/DeepSeek-Reasonix
 stars: 35317
-language: "Go"
-last_updated: "2026-09-01T15:52:14Z"
-discovered_at: "2026-09-01T15:52:58Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T15:52:14Z'
+discovered_at: '2026-09-01T15:52:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

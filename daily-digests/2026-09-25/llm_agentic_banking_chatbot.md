@@ -1,19 +1,40 @@
 ---
-title: "arthur-A-Costa/LLM_Agentic_Banking_Chatbot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangChain", "LangGraph", "FastAPI", "Ollama", "Streamlit", "PostgreSQL", "PGVector", "ChromaDB", "Docling", "Exa", "Docker", "Docker Compose", "MCP", "Pydantic", "Uvicorn"]
+title: arthur-A-Costa/LLM_Agentic_Banking_Chatbot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- LangChain
+- LangGraph
+- FastAPI
+- Ollama
+- Streamlit
+- PostgreSQL
+- PGVector
+- ChromaDB
+- Docling
+- Exa
+- Docker
+- Docker Compose
+- MCP
+- Pydantic
+- Uvicorn
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agentic chatbot", "RAG pipeline", "banking automation", "multi-agent workflows", "MCP server"]
-source: "https://github.com/arthur-A-Costa/LLM_Agentic_Banking_Chatbot"
+deployment_complexity: Medium
+tags:
+- agentic chatbot
+- RAG pipeline
+- banking automation
+- multi-agent workflows
+- MCP server
+source: https://github.com/arthur-A-Costa/LLM_Agentic_Banking_Chatbot
 stars: 0
-language: "Python"
-last_updated: "2026-09-02T15:48:57Z"
-discovered_at: "2026-09-02T15:52:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T15:48:57Z'
+discovered_at: '2026-09-02T15:52:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

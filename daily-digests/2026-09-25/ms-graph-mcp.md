@@ -1,19 +1,33 @@
 ---
-title: "nitin27may/ms-graph-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Microsoft Graph API", "httpx", "Starlette", "OAuth 2.0", "JWT", "CI/CD (GitHub Actions)", "uv (package manager)"]
+title: nitin27may/ms-graph-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Microsoft Graph API
+- httpx
+- Starlette
+- OAuth 2.0
+- JWT
+- CI/CD (GitHub Actions)
+- uv (package manager)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Microsoft Graph", "MCP Server", "AI Agents", "OAuth", "Tooling"]
-source: "https://github.com/nitin27may/ms-graph-mcp"
+deployment_complexity: Medium
+tags:
+- Microsoft Graph
+- MCP Server
+- AI Agents
+- OAuth
+- Tooling
+source: https://github.com/nitin27may/ms-graph-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-05T05:30:23Z"
-discovered_at: "2026-08-05T05:49:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T05:30:23Z'
+discovered_at: '2026-08-05T05:49:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "MassivDash/ai_tools"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Node.js", "llama.cpp", "ChromaDB", "Ollama", "SQLite", "WebSocket", "React", "TypeScript"]
+title: MassivDash/ai_tools
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- Node.js
+- llama.cpp
+- ChromaDB
+- Ollama
+- SQLite
+- WebSocket
+- React
+- TypeScript
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["LLM management", "Vector databases", "Agent framework", "Local AI infrastructure", "Model testing"]
-source: "https://github.com/MassivDash/ai_tools"
+deployment_complexity: Medium
+tags:
+- LLM management
+- Vector databases
+- Agent framework
+- Local AI infrastructure
+- Model testing
+source: https://github.com/MassivDash/ai_tools
 stars: 2
-language: "Rust"
-last_updated: "2026-08-04T07:38:54Z"
-discovered_at: "2026-08-04T07:40:01Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-04T07:38:54Z'
+discovered_at: '2026-08-04T07:40:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

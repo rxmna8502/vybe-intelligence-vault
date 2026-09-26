@@ -1,19 +1,32 @@
 ---
-title: "tlemmons/junto-memory"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "MongoDB", "ChromaDB", "Docker", "FastAPI", "Streamable HTTP", "Mermaid.js"]
+title: tlemmons/junto-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- MongoDB
+- ChromaDB
+- Docker
+- FastAPI
+- Streamable HTTP
+- Mermaid.js
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-agent coordination", "persistent memory", "MCP server", "knowledge base", "AI workflow automation"]
-source: "https://github.com/tlemmons/junto-memory"
+deployment_complexity: Medium
+tags:
+- multi-agent coordination
+- persistent memory
+- MCP server
+- knowledge base
+- AI workflow automation
+source: https://github.com/tlemmons/junto-memory
 stars: 5
-language: "Python"
-last_updated: "2026-07-12T16:59:32Z"
-discovered_at: "2026-07-12T17:03:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T16:59:32Z'
+discovered_at: '2026-07-12T17:03:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

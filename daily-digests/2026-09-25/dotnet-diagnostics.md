@@ -1,19 +1,34 @@
 ---
-title: "pedrosakuma/dotnet-diagnostics"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 10", "MCP (Model Context Protocol)", "ClrMD", "EventCounters", "Docker", "Kubernetes", "HTTP", "stdio", "BenchmarkDotNet"]
+title: pedrosakuma/dotnet-diagnostics
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- C#
+- .NET 10
+- MCP (Model Context Protocol)
+- ClrMD
+- EventCounters
+- Docker
+- Kubernetes
+- HTTP
+- stdio
+- BenchmarkDotNet
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["diagnostics", "performance monitoring", "LLM integration", "MCP server", "CLI toolkit"]
-source: "https://github.com/pedrosakuma/dotnet-diagnostics"
+deployment_complexity: Medium
+tags:
+- diagnostics
+- performance monitoring
+- LLM integration
+- MCP server
+- CLI toolkit
+source: https://github.com/pedrosakuma/dotnet-diagnostics
 stars: 3
-language: "C#"
-last_updated: "2026-07-11T21:38:58Z"
-discovered_at: "2026-07-11T21:47:11Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-07-11T21:38:58Z'
+discovered_at: '2026-07-11T21:47:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

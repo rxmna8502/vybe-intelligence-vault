@@ -1,19 +1,38 @@
 ---
-title: "loumalouomega/meshioplusplus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++20", "Python", "pybind11", "scikit-build-core", "HDF5", "netCDF", "OpenMP", "TBB", "Kokkos", "WebAssembly", "TypeScript", "Fortran", "Julia", "R"]
+title: loumalouomega/meshioplusplus
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- C++20
+- Python
+- pybind11
+- scikit-build-core
+- HDF5
+- netCDF
+- OpenMP
+- TBB
+- Kokkos
+- WebAssembly
+- TypeScript
+- Fortran
+- Julia
+- R
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["mesh I/O", "unstructured meshes", "data conversion", "scientific computing", "multi-language support"]
-source: "https://github.com/loumalouomega/meshioplusplus"
+deployment_complexity: Medium
+tags:
+- mesh I/O
+- unstructured meshes
+- data conversion
+- scientific computing
+- multi-language support
+source: https://github.com/loumalouomega/meshioplusplus
 stars: 6
-language: "C++"
-last_updated: "2026-08-02T20:49:12Z"
-discovered_at: "2026-08-02T20:54:51Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-02T20:49:12Z'
+discovered_at: '2026-08-02T20:54:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

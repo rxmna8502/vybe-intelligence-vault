@@ -1,19 +1,32 @@
 ---
-title: "WOIII-me/Discogs-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Cloudflare Workers", "Model Context Protocol (MCP)", "Discogs API", "OAuth 2.1", "KV Cache", "REST API", "Chrome Extension"]
+title: WOIII-me/Discogs-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Cloudflare Workers
+- Model Context Protocol (MCP)
+- Discogs API
+- OAuth 2.1
+- KV Cache
+- REST API
+- Chrome Extension
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Discogs", "MCP server", "music metadata", "audiophile tools", "collection analytics"]
-source: "https://github.com/WOIII-me/Discogs-MCP"
+deployment_complexity: Medium
+tags:
+- Discogs
+- MCP server
+- music metadata
+- audiophile tools
+- collection analytics
+source: https://github.com/WOIII-me/Discogs-MCP
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-07T11:52:38Z"
-discovered_at: "2026-08-07T11:56:22Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T11:52:38Z'
+discovered_at: '2026-08-07T11:56:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,39 @@
 ---
-title: "comedy1024/hermes-agent-desktop"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Docker", "Debian 12", "KDE Plasma", "noVNC", "TigerVNC", "Python", "Hermes Agent", "Hermes WebUI", "Vue.js", "Koa", "OpenAI API", "Anthropic API", "DeepSeek API", "Ollama", "Supervisord"]
+title: comedy1024/hermes-agent-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Docker
+- Debian 12
+- KDE Plasma
+- noVNC
+- TigerVNC
+- Python
+- Hermes Agent
+- Hermes WebUI
+- Vue.js
+- Koa
+- OpenAI API
+- Anthropic API
+- DeepSeek API
+- Ollama
+- Supervisord
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agent", "Linux Desktop", "Multi-Model LLM", "WebUI", "Dockerized"]
-source: "https://github.com/comedy1024/hermes-agent-desktop"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- Linux Desktop
+- Multi-Model LLM
+- WebUI
+- Dockerized
+source: https://github.com/comedy1024/hermes-agent-desktop
 stars: 12
-language: "HTML"
-last_updated: "2026-08-08T03:24:30Z"
-discovered_at: "2026-08-08T03:27:59Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-08T03:24:30Z'
+discovered_at: '2026-08-08T03:27:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

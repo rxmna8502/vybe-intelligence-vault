@@ -1,19 +1,30 @@
 ---
-title: "malkreide/sbb-opendata-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "Model Context Protocol (MCP)", "OpenDataSoft REST API", "Docker", "GitHub Actions"]
+title: malkreide/sbb-opendata-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastMCP
+- Model Context Protocol (MCP)
+- OpenDataSoft REST API
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "Swiss Railways", "open data", "real-time disruptions", "transport infrastructure"]
-source: "https://github.com/malkreide/sbb-opendata-mcp"
+deployment_complexity: Medium
+tags:
+- MCP server
+- Swiss Railways
+- open data
+- real-time disruptions
+- transport infrastructure
+source: https://github.com/malkreide/sbb-opendata-mcp
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T21:41:57Z"
-discovered_at: "2026-08-02T21:55:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T21:41:57Z'
+discovered_at: '2026-08-02T21:55:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

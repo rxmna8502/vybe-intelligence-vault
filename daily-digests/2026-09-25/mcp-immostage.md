@@ -1,19 +1,29 @@
 ---
-title: "LarryWalkerDEV/mcp-immostage"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "REST API", "AI/ML (Virtual Staging)", "Claude Desktop Integration"]
+title: LarryWalkerDEV/mcp-immostage
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- REST API
+- AI/ML (Virtual Staging)
+- Claude Desktop Integration
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["virtual staging", "real estate", "MCP server", "AI marketing", "property visualization"]
-source: "https://github.com/LarryWalkerDEV/mcp-immostage"
+deployment_complexity: Low
+tags:
+- virtual staging
+- real estate
+- MCP server
+- AI marketing
+- property visualization
+source: https://github.com/LarryWalkerDEV/mcp-immostage
 stars: 3
-language: "TypeScript"
-last_updated: "2026-08-04T17:42:45Z"
-discovered_at: "2026-08-04T17:51:01Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-04T17:42:45Z'
+discovered_at: '2026-08-04T17:51:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

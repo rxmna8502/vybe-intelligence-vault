@@ -1,19 +1,31 @@
 ---
-title: "devinwang/app-store-connect-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OpenAPI", "JWT", "REST API", "npm"]
+title: devinwang/app-store-connect-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- OpenAPI
+- JWT
+- REST API
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "App Store Connect", "Apple Developer API", "TestFlight", "Xcode Cloud"]
-source: "https://github.com/devinwang/app-store-connect-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- App Store Connect
+- Apple Developer API
+- TestFlight
+- Xcode Cloud
+source: https://github.com/devinwang/app-store-connect-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-02T22:55:50Z"
-discovered_at: "2026-08-02T22:56:10Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T22:55:50Z'
+discovered_at: '2026-08-02T22:56:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

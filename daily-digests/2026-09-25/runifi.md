@@ -1,19 +1,32 @@
 ---
-title: "dinglebear-ai/runifi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "CLI", "Docker", "Node.js (npm package)", "REST API", "TOML (configuration)"]
+title: dinglebear-ai/runifi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- HTTP
+- CLI
+- Docker
+- Node.js (npm package)
+- REST API
+- TOML (configuration)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["UniFi integration", "MCP server", "network monitoring", "Rust tooling", "REST API wrapper"]
-source: "https://github.com/dinglebear-ai/runifi"
+deployment_complexity: Medium
+tags:
+- UniFi integration
+- MCP server
+- network monitoring
+- Rust tooling
+- REST API wrapper
+source: https://github.com/dinglebear-ai/runifi
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T03:36:39Z"
-discovered_at: "2026-08-01T03:44:09Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:36:39Z'
+discovered_at: '2026-08-01T03:44:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++", "MLX", "Qwen3.5", "TurboQuant", "Windows"]
+title: CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- C++
+- MLX
+- Qwen3.5
+- TurboQuant
+- Windows
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["local LLM", "Windows optimization", "quantized inference", "prompt caching", "research tools"]
-source: "https://github.com/CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM"
+deployment_complexity: Medium
+tags:
+- local LLM
+- Windows optimization
+- quantized inference
+- prompt caching
+- research tools
+source: https://github.com/CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM
 stars: 2
-language: "C++"
-last_updated: "2026-08-01T08:57:48Z"
-discovered_at: "2026-08-01T09:06:26Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-01T08:57:48Z'
+discovered_at: '2026-08-01T09:06:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

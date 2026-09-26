@@ -1,19 +1,27 @@
 ---
-title: "IrishLaluz/DecisionTrace"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Desktop Application", "Audit Logging"]
+title: IrishLaluz/DecisionTrace
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Desktop Application
+- Audit Logging
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["audit logging", "AI transparency", "decision tracking", "accountability", "AI safety"]
-source: "https://github.com/IrishLaluz/DecisionTrace"
+deployment_complexity: Low
+tags:
+- audit logging
+- AI transparency
+- decision tracking
+- accountability
+- AI safety
+source: https://github.com/IrishLaluz/DecisionTrace
 stars: 2
-language: "Python"
-last_updated: "2026-08-06T08:54:59Z"
-discovered_at: "2026-08-06T09:43:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T08:54:59Z'
+discovered_at: '2026-08-06T09:43:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

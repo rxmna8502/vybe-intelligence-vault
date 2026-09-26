@@ -1,19 +1,32 @@
 ---
-title: "CyberSecAuto-Labs/OpenVAS-MCP"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "OpenVAS/Greenbone Vulnerability Management (GVM)", "Docker", "GitHub Actions", "Cosign (for image signing)", "Syft (for SBOM generation)", "Grype (for vulnerability scanning)"]
+title: CyberSecAuto-Labs/OpenVAS-MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- OpenVAS/Greenbone Vulnerability Management (GVM)
+- Docker
+- GitHub Actions
+- Cosign (for image signing)
+- Syft (for SBOM generation)
+- Grype (for vulnerability scanning)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["vulnerability scanning", "AI agent integration", "MCP server", "OpenVAS", "Greenbone"]
-source: "https://github.com/CyberSecAuto-Labs/OpenVAS-MCP"
+deployment_complexity: Medium
+tags:
+- vulnerability scanning
+- AI agent integration
+- MCP server
+- OpenVAS
+- Greenbone
+source: https://github.com/CyberSecAuto-Labs/OpenVAS-MCP
 stars: 3
-language: "Python"
-last_updated: "2026-08-01T13:09:25Z"
-discovered_at: "2026-08-01T13:16:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:09:25Z'
+discovered_at: '2026-08-01T13:16:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

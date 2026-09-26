@@ -1,19 +1,33 @@
 ---
-title: "TheK3nsai/ops-brain"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "PostgreSQL", "pgvector", "MCP (Model Context Protocol)", "Axum", "Tokio", "sqlx", "Ollama", "nomic-embed-text"]
+title: TheK3nsai/ops-brain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- PostgreSQL
+- pgvector
+- MCP (Model Context Protocol)
+- Axum
+- Tokio
+- sqlx
+- Ollama
+- nomic-embed-text
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP server", "AI agent coordination", "handoff management", "knowledge sharing", "multi-agent systems"]
-source: "https://github.com/TheK3nsai/ops-brain"
+deployment_complexity: Medium
+tags:
+- MCP server
+- AI agent coordination
+- handoff management
+- knowledge sharing
+- multi-agent systems
+source: https://github.com/TheK3nsai/ops-brain
 stars: 1
-language: "Rust"
-last_updated: "2026-07-17T23:47:43Z"
-discovered_at: "2026-07-17T23:52:02Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-17T23:47:43Z'
+discovered_at: '2026-07-17T23:52:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

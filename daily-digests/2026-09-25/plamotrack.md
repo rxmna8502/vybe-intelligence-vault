@@ -1,19 +1,34 @@
 ---
-title: "DeusMaximus/plamotrack"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Docker", "TypeScript", "React", "Model Context Protocol (MCP)", "Alembic (migrations)", "Vite", "Playwright (testing)"]
+title: DeusMaximus/plamotrack
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- TypeScript
+- React
+- Model Context Protocol (MCP)
+- Alembic (migrations)
+- Vite
+- Playwright (testing)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["hobby tracking", "inventory management", "Kanban board", "self-hosted", "MCP server"]
-source: "https://github.com/DeusMaximus/plamotrack"
+deployment_complexity: Medium
+tags:
+- hobby tracking
+- inventory management
+- Kanban board
+- self-hosted
+- MCP server
+source: https://github.com/DeusMaximus/plamotrack
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T12:49:20Z"
-discovered_at: "2026-08-09T12:50:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T12:49:20Z'
+discovered_at: '2026-08-09T12:50:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

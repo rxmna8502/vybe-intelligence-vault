@@ -1,19 +1,34 @@
 ---
-title: "mellivora-tech/mellivora-malatang-agent-chat"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Electron", "Node.js", "React", "OpenAI-compatible API", "Anthropic API", "SQL/NoSQL databases", "Redis", "Message queues", "Elasticsearch"]
+title: mellivora-tech/mellivora-malatang-agent-chat
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Electron
+- Node.js
+- React
+- OpenAI-compatible API
+- Anthropic API
+- SQL/NoSQL databases
+- Redis
+- Message queues
+- Elasticsearch
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["agent-based workflow", "desktop client", "project integration", "multi-environment support", "context management"]
-source: "https://github.com/mellivora-tech/mellivora-malatang-agent-chat"
+deployment_complexity: Medium
+tags:
+- agent-based workflow
+- desktop client
+- project integration
+- multi-environment support
+- context management
+source: https://github.com/mellivora-tech/mellivora-malatang-agent-chat
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-05T08:35:24Z"
-discovered_at: "2026-08-05T08:35:42Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-05T08:35:24Z'
+discovered_at: '2026-08-05T08:35:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

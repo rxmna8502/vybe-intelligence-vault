@@ -13,13 +13,14 @@ collected_at: '2026-09-25T04:48:55.942380+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:security-auditing-in-the-age-of-good-enough-ai
 first_seen: '2026-09-25T01:35:08.780315+05:30'
 last_seen: '2026-09-25T04:48:55.942380+05:30'
 last_checked: '2026-09-25T04:48:55.942380+05:30'
 health_score: 100
 ---
+
 
 # Security auditing in the age of (good enough) AI
 

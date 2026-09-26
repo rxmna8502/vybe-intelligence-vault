@@ -1,19 +1,30 @@
 ---
-title: "Cipher208/oh-my-mimocode-slim"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "MiMoCode", "AST (Abstract Syntax Tree) tools", "Bun (JavaScript runtime)", "Markdown (skills and prompts)", "JSON (prompt registry)"]
+title: Cipher208/oh-my-mimocode-slim
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- MiMoCode
+- AST (Abstract Syntax Tree) tools
+- Bun (JavaScript runtime)
+- Markdown (skills and prompts)
+- JSON (prompt registry)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["multi-agent orchestration", "MiMoCode extension", "prompt management", "AST code search", "error recovery"]
-source: "https://github.com/Cipher208/oh-my-mimocode-slim"
+deployment_complexity: Low
+tags:
+- multi-agent orchestration
+- MiMoCode extension
+- prompt management
+- AST code search
+- error recovery
+source: https://github.com/Cipher208/oh-my-mimocode-slim
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-01T03:42:28Z"
-discovered_at: "2026-08-01T03:43:36Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T03:42:28Z'
+discovered_at: '2026-08-01T03:43:36Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

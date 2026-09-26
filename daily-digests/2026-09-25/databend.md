@@ -1,19 +1,30 @@
 ---
-title: "databendlabs/databend"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "SQL", "Python", "Arrow Flight", "S3/Azure/GCS", "Docker"]
+title: databendlabs/databend
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- SQL
+- Python
+- Arrow Flight
+- S3/Azure/GCS
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["data warehouse", "vector search", "AI agents", "RAG", "sandbox UDF"]
-source: "https://github.com/databendlabs/databend"
+deployment_complexity: Medium
+tags:
+- data warehouse
+- vector search
+- AI agents
+- RAG
+- sandbox UDF
+source: https://github.com/databendlabs/databend
 stars: 9409
-language: "Rust"
-last_updated: "2026-08-07T09:33:26Z"
-discovered_at: "2026-08-07T10:05:52Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T09:33:26Z'
+discovered_at: '2026-08-07T10:05:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

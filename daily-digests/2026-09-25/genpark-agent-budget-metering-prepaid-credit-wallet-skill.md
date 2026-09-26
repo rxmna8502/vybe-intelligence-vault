@@ -1,19 +1,28 @@
 ---
-title: "alphaparkinc/genpark-agent-budget-metering-prepaid-credit-wallet-skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "JSON", "Mermaid (for diagrams)"]
+title: alphaparkinc/genpark-agent-budget-metering-prepaid-credit-wallet-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- JSON
+- Mermaid (for diagrams)
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["agent budgeting", "prepaid credits", "velocity caps", "cost control", "AI agent skills"]
-source: "https://github.com/alphaparkinc/genpark-agent-budget-metering-prepaid-credit-wallet-skill"
+deployment_complexity: Medium
+tags:
+- agent budgeting
+- prepaid credits
+- velocity caps
+- cost control
+- AI agent skills
+source: https://github.com/alphaparkinc/genpark-agent-budget-metering-prepaid-credit-wallet-skill
 stars: 8
-language: "Python"
-last_updated: "2026-09-02T08:07:29Z"
-discovered_at: "2026-09-02T08:23:39Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:07:29Z'
+discovered_at: '2026-09-02T08:23:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

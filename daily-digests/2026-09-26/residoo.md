@@ -1,19 +1,29 @@
 ---
-title: "dandovdub/residoo"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "SARIF", "Base64 decoding", "Pattern matching"]
+title: dandovdub/residoo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- JavaScript
+- Node.js
+- SARIF
+- Base64 decoding
+- Pattern matching
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["security", "secrets scanning", "AI agents", "transcript analysis", "retroactive detection"]
-source: "https://github.com/dandovdub/residoo"
+deployment_complexity: Low
+tags:
+- security
+- secrets scanning
+- AI agents
+- transcript analysis
+- retroactive detection
+source: https://github.com/dandovdub/residoo
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-03T02:15:33Z"
-discovered_at: "2026-09-03T02:15:48Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T02:15:33Z'
+discovered_at: '2026-09-03T02:15:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

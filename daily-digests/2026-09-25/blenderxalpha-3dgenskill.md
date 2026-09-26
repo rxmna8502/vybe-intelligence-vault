@@ -1,19 +1,35 @@
 ---
-title: "ig-shadow-walker/BlenderXAlpha-3DGenSkill"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Python", "Blender", "MCP (Model Context Protocol)", "Alpha3D API", "Tripo API", "Meshy API", "GLB/GLTF", "Claude Code", "Cursor", "OpenAI Codex"]
+title: ig-shadow-walker/BlenderXAlpha-3DGenSkill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Python
+- Blender
+- MCP (Model Context Protocol)
+- Alpha3D API
+- Tripo API
+- Meshy API
+- GLB/GLTF
+- Claude Code
+- Cursor
+- OpenAI Codex
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["3D generation", "Blender integration", "AI agent skill", "MCP connector", "Scene orchestration"]
-source: "https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill"
+deployment_complexity: Medium
+tags:
+- 3D generation
+- Blender integration
+- AI agent skill
+- MCP connector
+- Scene orchestration
+source: https://github.com/ig-shadow-walker/BlenderXAlpha-3DGenSkill
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-21T17:15:29Z"
-discovered_at: "2026-07-21T17:16:32Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-21T17:15:29Z'
+discovered_at: '2026-07-21T17:16:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

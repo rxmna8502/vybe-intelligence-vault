@@ -1,19 +1,35 @@
 ---
-title: "jiashuoyan0-maker/ArHub"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "FastAPI", "Python", "Node.js", "OpenAI-compatible APIs", "Markdown/LaTeX", "DOCX export", "Git", "TeX", "Draw.io", "Pandoc"]
+title: jiashuoyan0-maker/ArHub
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Electron
+- FastAPI
+- Python
+- Node.js
+- OpenAI-compatible APIs
+- Markdown/LaTeX
+- DOCX export
+- Git
+- TeX
+- Draw.io
+- Pandoc
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Agent Workspace", "Research Automation", "Multi-model Support", "Workflow Orchestration", "Desktop Application"]
-source: "https://github.com/jiashuoyan0-maker/ArHub"
+deployment_complexity: Medium
+tags:
+- Agent Workspace
+- Research Automation
+- Multi-model Support
+- Workflow Orchestration
+- Desktop Application
+source: https://github.com/jiashuoyan0-maker/ArHub
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-04T00:07:03Z"
-discovered_at: "2026-08-04T00:10:59Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T00:07:03Z'
+discovered_at: '2026-08-04T00:10:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

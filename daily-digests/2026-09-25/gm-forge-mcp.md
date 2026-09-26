@@ -1,19 +1,30 @@
 ---
-title: "nicklesimba/gm-forge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "GameMaker Studio", "ProjectTool (GameMaker's headless validator)", "Igor (GameMaker's compiler)"]
+title: nicklesimba/gm-forge-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- GameMaker Studio
+- ProjectTool (GameMaker's headless validator)
+- Igor (GameMaker's compiler)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["GameMaker", "MCP server", "project automation", "game development", "resource management"]
-source: "https://github.com/nicklesimba/gm-forge-mcp"
+deployment_complexity: Medium
+tags:
+- GameMaker
+- MCP server
+- project automation
+- game development
+- resource management
+source: https://github.com/nicklesimba/gm-forge-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-19T16:50:53Z"
-discovered_at: "2026-07-19T16:57:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-19T16:50:53Z'
+discovered_at: '2026-07-19T16:57:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

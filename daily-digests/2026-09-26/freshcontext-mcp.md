@@ -1,19 +1,32 @@
 ---
-title: "PrinceGabriel-lgtm/freshcontext-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Cloudflare Workers", "D1 (Cloudflare SQL)", "KV (Cloudflare Key-Value Store)", "Playwright (for testing)", "npm"]
+title: PrinceGabriel-lgtm/freshcontext-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Cloudflare Workers
+- D1 (Cloudflare SQL)
+- KV (Cloudflare Key-Value Store)
+- Playwright (for testing)
+- npm
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["context freshness", "temporal relevance", "RAG optimization", "decay-adjusted scoring", "source profiling"]
-source: "https://github.com/PrinceGabriel-lgtm/freshcontext-mcp"
+deployment_complexity: Medium
+tags:
+- context freshness
+- temporal relevance
+- RAG optimization
+- decay-adjusted scoring
+- source profiling
+source: https://github.com/PrinceGabriel-lgtm/freshcontext-mcp
 stars: 11
-language: "TypeScript"
-last_updated: "2026-07-17T18:02:57Z"
-discovered_at: "2026-07-17T18:05:13Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-17T18:02:57Z'
+discovered_at: '2026-07-17T18:05:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

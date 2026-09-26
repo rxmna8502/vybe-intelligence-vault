@@ -15,13 +15,14 @@ tags:
 - hackernews
 - producthunt
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:opus-5-5-is-good-at-explainer-videos
 first_seen: '2026-09-25T04:48:57.213913+05:30'
 last_seen: '2026-09-25T04:48:57.213913+05:30'
 last_checked: '2026-09-25T04:48:57.213913+05:30'
 health_score: 100
 ---
+
 
 # Opus 5.5 is good at explainer videos
 

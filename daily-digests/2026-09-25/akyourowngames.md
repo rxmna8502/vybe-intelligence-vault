@@ -1,19 +1,39 @@
 ---
-title: "akyourowngames/akyourowngames"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "JavaScript", "FastAPI", "LangChain", "OpenAI", "Docker", "Supabase", "MongoDB", "Firebase", "React", "Next.js", "TailwindCSS", "Flutter", "Kotlin", "C++"]
+title: akyourowngames/akyourowngames
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- JavaScript
+- FastAPI
+- LangChain
+- OpenAI
+- Docker
+- Supabase
+- MongoDB
+- Firebase
+- React
+- Next.js
+- TailwindCSS
+- Flutter
+- Kotlin
+- C++
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI Agents", "Automation", "Local Assistants", "Full-Stack", "Developer Profile"]
-source: "https://github.com/akyourowngames/akyourowngames"
+deployment_complexity: Medium
+tags:
+- AI Agents
+- Automation
+- Local Assistants
+- Full-Stack
+- Developer Profile
+source: https://github.com/akyourowngames/akyourowngames
 stars: 0
-language: "None"
-last_updated: "2026-08-01T03:36:21Z"
-discovered_at: "2026-08-01T03:43:49Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T03:36:21Z'
+discovered_at: '2026-08-01T03:43:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

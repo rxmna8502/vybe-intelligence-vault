@@ -1,19 +1,38 @@
 ---
-title: "Kronova-Intelligent-Systems/asset-intel-orchestration-engine"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Next.js 16", "TypeScript", "Tailwind CSS", "Shadcn-UI", "Supabase", "Qdrant", "Weaviate", "Stripe", "Rust", "rspc", "OAuth 2.1", "Canton Network", "DAML", "Post-Quantum Cryptography (FIPS 203 ML-DSA, FIPS 204 ML-KEM)"]
+title: Kronova-Intelligent-Systems/asset-intel-orchestration-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Next.js 16
+- TypeScript
+- Tailwind CSS
+- Shadcn-UI
+- Supabase
+- Qdrant
+- Weaviate
+- Stripe
+- Rust
+- rspc
+- OAuth 2.1
+- Canton Network
+- DAML
+- Post-Quantum Cryptography (FIPS 203 ML-DSA, FIPS 204 ML-KEM)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI orchestration", "RWA tokenization", "multi-agent systems", "post-quantum security", "enterprise SaaS"]
-source: "https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine"
+deployment_complexity: Medium
+tags:
+- AI orchestration
+- RWA tokenization
+- multi-agent systems
+- post-quantum security
+- enterprise SaaS
+source: https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine
 stars: 249
-language: "TypeScript"
-last_updated: "2026-08-08T14:26:08Z"
-discovered_at: "2026-08-08T14:35:16Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T14:26:08Z'
+discovered_at: '2026-08-08T14:35:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

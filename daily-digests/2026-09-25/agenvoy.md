@@ -1,19 +1,29 @@
 ---
-title: "agenvoy/Agenvoy"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Shell Scripting", "Python (for tool integration)", "React (for web dashboard)"]
+title: agenvoy/Agenvoy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Go
+- MCP (Model Context Protocol)
+- Shell Scripting
+- Python (for tool integration)
+- React (for web dashboard)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["autonomous agents", "multi-agent collaboration", "MCP server", "tool generation", "local AI"]
-source: "https://github.com/agenvoy/Agenvoy"
+deployment_complexity: Low
+tags:
+- autonomous agents
+- multi-agent collaboration
+- MCP server
+- tool generation
+- local AI
+source: https://github.com/agenvoy/Agenvoy
 stars: 235
-language: "Go"
-last_updated: "2026-07-11T02:26:40Z"
-discovered_at: "2026-07-11T02:27:43Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-11T02:26:40Z'
+discovered_at: '2026-07-11T02:27:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

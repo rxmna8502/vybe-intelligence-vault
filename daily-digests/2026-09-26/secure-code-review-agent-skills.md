@@ -1,19 +1,29 @@
 ---
-title: "ivan-sincek/secure-code-review-agent-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Markdown", "JSON", "AI Agent Skills", "CWE (Common Weakness Enumeration)", "STRIDE Threat Modeling"]
+title: ivan-sincek/secure-code-review-agent-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Markdown
+- JSON
+- AI Agent Skills
+- CWE (Common Weakness Enumeration)
+- STRIDE Threat Modeling
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["secure code review", "AI agent skills", "CWE analysis", "vulnerability detection", "zero-shot prompting"]
-source: "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+deployment_complexity: Low
+tags:
+- secure code review
+- AI agent skills
+- CWE analysis
+- vulnerability detection
+- zero-shot prompting
+source: https://github.com/ivan-sincek/secure-code-review-agent-skills
 stars: 0
-language: "None"
-last_updated: "2026-09-02T19:07:02Z"
-discovered_at: "2026-09-02T19:12:58Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-02T19:07:02Z'
+discovered_at: '2026-09-02T19:12:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

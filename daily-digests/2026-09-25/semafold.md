@@ -1,19 +1,31 @@
 ---
-title: "Ac3v3d0/semafold"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "NumPy", "PyTorch", "TurboQuant", "CUDA (optional)", "MPS (Apple GPU, optional)", "MLX (Metal, optional)"]
+title: Ac3v3d0/semafold
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- NumPy
+- PyTorch
+- TurboQuant
+- CUDA (optional)
+- MPS (Apple GPU, optional)
+- MLX (Metal, optional)
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["vector compression", "embedding optimization", "KV-cache reduction", "quantization", "Windows-native"]
-source: "https://github.com/Ac3v3d0/semafold"
+deployment_complexity: Low
+tags:
+- vector compression
+- embedding optimization
+- KV-cache reduction
+- quantization
+- Windows-native
+source: https://github.com/Ac3v3d0/semafold
 stars: 4
-language: "Python"
-last_updated: "2026-08-09T14:03:13Z"
-discovered_at: "2026-08-09T14:38:48Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T14:03:13Z'
+discovered_at: '2026-08-09T14:38:48Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

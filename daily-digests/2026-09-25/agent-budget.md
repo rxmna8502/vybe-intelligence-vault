@@ -1,19 +1,33 @@
 ---
-title: "nyx-builds/agent-budget"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "SQLite", "Pydantic", "Click", "uvloop", "Jinja2", "Pytest"]
+title: nyx-builds/agent-budget
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- FastAPI
+- SQLite
+- Pydantic
+- Click
+- uvloop
+- Jinja2
+- Pytest
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["cost management", "LLM guardrails", "autonomous agents", "budget tracking", "MCP server"]
-source: "https://github.com/nyx-builds/agent-budget"
+deployment_complexity: Medium
+tags:
+- cost management
+- LLM guardrails
+- autonomous agents
+- budget tracking
+- MCP server
+source: https://github.com/nyx-builds/agent-budget
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T21:09:52Z"
-discovered_at: "2026-08-04T21:15:09Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T21:09:52Z'
+discovered_at: '2026-08-04T21:15:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

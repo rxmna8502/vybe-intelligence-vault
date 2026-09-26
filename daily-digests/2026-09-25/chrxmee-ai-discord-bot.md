@@ -1,19 +1,29 @@
 ---
-title: "Chrxmaticc/Chrxmee-AI-Discord-Bot"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "Discord.js", "Groq API", "dotenv"]
+title: Chrxmaticc/Chrxmee-AI-Discord-Bot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Node.js
+- Discord.js
+- Groq API
+- dotenv
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Medium"
-tags: ["Discord bot", "AI chat", "Groq API", "slash commands", "modular architecture"]
-source: "https://github.com/Chrxmaticc/Chrxmee-AI-Discord-Bot"
+deployment_complexity: Medium
+tags:
+- Discord bot
+- AI chat
+- Groq API
+- slash commands
+- modular architecture
+source: https://github.com/Chrxmaticc/Chrxmee-AI-Discord-Bot
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-01T19:01:16Z"
-discovered_at: "2026-09-01T19:06:50Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T19:01:16Z'
+discovered_at: '2026-09-01T19:06:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "liuboacean/mubu-integration"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "JWT Authentication", "HTTPS API", "CLI", "pytest", "GitHub Actions", "ruff"]
+title: liuboacean/mubu-integration
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Markdown
+- JWT Authentication
+- HTTPS API
+- CLI
+- pytest
+- GitHub Actions
+- ruff
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Mubu integration", "Markdown round-trip", "AI Agent Skill", "Outliner", "Knowledge base sync"]
-source: "https://github.com/liuboacean/mubu-integration"
+deployment_complexity: Medium
+tags:
+- Mubu integration
+- Markdown round-trip
+- AI Agent Skill
+- Outliner
+- Knowledge base sync
+source: https://github.com/liuboacean/mubu-integration
 stars: 14
-language: "Python"
-last_updated: "2026-09-02T08:17:09Z"
-discovered_at: "2026-09-02T08:19:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:17:09Z'
+discovered_at: '2026-09-02T08:19:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,29 @@
 ---
-title: "Heymonth/kmp-api-lookup-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Kotlin", "TypeScript", "MCP (Model Context Protocol)", "Windows", "CLI"]
+title: Heymonth/kmp-api-lookup-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Kotlin
+- TypeScript
+- MCP (Model Context Protocol)
+- Windows
+- CLI
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Kotlin Multiplatform", "Apple API lookup", "MCP server", "symbol indexing", "local database"]
-source: "https://github.com/Heymonth/kmp-api-lookup-mcp"
+deployment_complexity: Medium
+tags:
+- Kotlin Multiplatform
+- Apple API lookup
+- MCP server
+- symbol indexing
+- local database
+source: https://github.com/Heymonth/kmp-api-lookup-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-11T11:01:06Z"
-discovered_at: "2026-07-11T11:04:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T11:01:06Z'
+discovered_at: '2026-07-11T11:04:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

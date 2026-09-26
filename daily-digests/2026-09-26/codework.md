@@ -1,19 +1,28 @@
 ---
-title: "codeworksh/codework"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "JavaScript", "LLM APIs"]
+title: codeworksh/codework
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- JavaScript
+- LLM APIs
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agents", "agentic workflows", "coding agents", "LLM integration", "tool harness"]
-source: "https://github.com/codeworksh/codework"
+deployment_complexity: Medium
+tags:
+- AI agents
+- agentic workflows
+- coding agents
+- LLM integration
+- tool harness
+source: https://github.com/codeworksh/codework
 stars: 23
-language: "TypeScript"
-last_updated: "2026-09-01T19:02:38Z"
-discovered_at: "2026-09-01T19:06:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T19:02:38Z'
+discovered_at: '2026-09-01T19:06:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

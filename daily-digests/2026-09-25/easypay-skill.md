@@ -1,19 +1,32 @@
 ---
-title: "EasyPay-Labs/easypay-skill"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "HTTP/HTTPS Transport", "FastMCP Server", "Stripe", "Mercury", "Crypto Payment Gateways", "Telegram Bots", "JSON Configuration"]
+title: EasyPay-Labs/easypay-skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- MCP (Model Context Protocol)
+- HTTP/HTTPS Transport
+- FastMCP Server
+- Stripe
+- Mercury
+- Crypto Payment Gateways
+- Telegram Bots
+- JSON Configuration
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["payment automation", "MCP integration", "natural language processing", "AI agent tooling", "multi-currency transactions"]
-source: "https://github.com/EasyPay-Labs/easypay-skill"
+deployment_complexity: Medium
+tags:
+- payment automation
+- MCP integration
+- natural language processing
+- AI agent tooling
+- multi-currency transactions
+source: https://github.com/EasyPay-Labs/easypay-skill
 stars: 0
-language: "None"
-last_updated: "2026-07-21T17:05:16Z"
-discovered_at: "2026-07-21T17:16:45Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-21T17:05:16Z'
+discovered_at: '2026-07-21T17:16:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

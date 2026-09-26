@@ -1,19 +1,30 @@
 ---
-title: "shigechika/keycloak-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Keycloak Admin REST API", "FastAPI", "uv", "pytest"]
+title: shigechika/keycloak-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Keycloak Admin REST API
+- FastAPI
+- uv
+- pytest
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["authentication", "identity management", "security auditing", "MCP server", "Keycloak"]
-source: "https://github.com/shigechika/keycloak-mcp"
+deployment_complexity: Medium
+tags:
+- authentication
+- identity management
+- security auditing
+- MCP server
+- Keycloak
+source: https://github.com/shigechika/keycloak-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T11:26:16Z"
-discovered_at: "2026-08-08T11:30:52Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T11:26:16Z'
+discovered_at: '2026-08-08T11:30:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

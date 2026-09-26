@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - workflows
-status: active
+status: inactive
 resource_id: github:parcha-ai/agentrun
 first_seen: '2026-09-25T01:35:09.897418+05:30'
 last_seen: '2026-09-25T04:48:57.369219+05:30'
 last_checked: '2026-09-25T04:48:57.369219+05:30'
 health_score: 100
 ---
+
 
 # Show HN: AgentRun: DSL to turn agents into workflows
 

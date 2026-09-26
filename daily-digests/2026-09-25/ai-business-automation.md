@@ -1,19 +1,32 @@
 ---
-title: "Andyyao12/ai-business-automation"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Pydantic", "SQLite", "OpenAI Responses API", "n8n", "Docker", "CI/CD (GitHub Actions)"]
+title: Andyyao12/ai-business-automation
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- Pydantic
+- SQLite
+- OpenAI Responses API
+- n8n
+- Docker
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI orchestration", "intent classification", "business automation", "webhook integration", "LLM tool calling"]
-source: "https://github.com/Andyyao12/ai-business-automation"
+deployment_complexity: Medium
+tags:
+- AI orchestration
+- intent classification
+- business automation
+- webhook integration
+- LLM tool calling
+source: https://github.com/Andyyao12/ai-business-automation
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T01:33:48Z"
-discovered_at: "2026-08-10T01:35:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T01:33:48Z'
+discovered_at: '2026-08-10T01:35:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

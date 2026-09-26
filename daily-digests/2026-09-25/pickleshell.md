@@ -1,19 +1,31 @@
 ---
-title: "pickleshell/pickleshell"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "OpenAI Secure MCP Tunnel", "Playwright", "OpenCode", "Linux", "MCP (Model Context Protocol)"]
+title: pickleshell/pickleshell
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Node.js
+- TypeScript
+- OpenAI Secure MCP Tunnel
+- Playwright
+- OpenCode
+- Linux
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI agent orchestration", "local development environment", "secure MCP tunnel", "ChatGPT integration", "browser automation"]
-source: "https://github.com/pickleshell/pickleshell"
+deployment_complexity: Medium
+tags:
+- AI agent orchestration
+- local development environment
+- secure MCP tunnel
+- ChatGPT integration
+- browser automation
+source: https://github.com/pickleshell/pickleshell
 stars: 5
-language: "JavaScript"
-last_updated: "2026-08-02T16:03:25Z"
-discovered_at: "2026-08-02T16:11:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T16:03:25Z'
+discovered_at: '2026-08-02T16:11:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

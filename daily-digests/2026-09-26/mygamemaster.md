@@ -1,19 +1,33 @@
 ---
-title: "tibs245/mygamemaster"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent Framework", "Podman (rootless containers)", "Ansible", "Discord API", "OpenRouter (LLM API)", "MiniMax (TTS)", "YAML/JSON (configuration)", "systemd Quadlet"]
+title: tibs245/mygamemaster
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Hermes Agent Framework
+- Podman (rootless containers)
+- Ansible
+- Discord API
+- OpenRouter (LLM API)
+- MiniMax (TTS)
+- YAML/JSON (configuration)
+- systemd Quadlet
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI Game Master", "Discord Bot", "Living World Engine", "Agent Orchestration", "Tabletop RPG"]
-source: "https://github.com/tibs245/mygamemaster"
+deployment_complexity: Medium
+tags:
+- AI Game Master
+- Discord Bot
+- Living World Engine
+- Agent Orchestration
+- Tabletop RPG
+source: https://github.com/tibs245/mygamemaster
 stars: 0
-language: "Python"
-last_updated: "2026-08-02T16:03:54Z"
-discovered_at: "2026-08-02T16:11:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T16:03:54Z'
+discovered_at: '2026-08-02T16:11:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

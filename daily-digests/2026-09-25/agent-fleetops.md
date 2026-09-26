@@ -1,19 +1,29 @@
 ---
-title: "sherifican/Agent-FleetOps"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Textual (TUI framework)", "Git", "Mermaid (diagramming)", "CI/CD (unspecified)"]
+title: sherifican/Agent-FleetOps
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Textual (TUI framework)
+- Git
+- Mermaid (diagramming)
+- CI/CD (unspecified)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "operational discipline", "mutation testing", "guardrails", "fleet monitoring"]
-source: "https://github.com/sherifican/Agent-FleetOps"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- operational discipline
+- mutation testing
+- guardrails
+- fleet monitoring
+source: https://github.com/sherifican/Agent-FleetOps
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T05:23:27Z"
-discovered_at: "2026-08-10T07:35:11Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T05:23:27Z'
+discovered_at: '2026-08-10T07:35:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

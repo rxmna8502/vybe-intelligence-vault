@@ -1,19 +1,35 @@
 ---
-title: "CR-730/MemoPilot"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python 3.12", "ReAct Framework", "Function Calling", "Redis", "SQLite", "sqlite-vec", "MCP (Model Context Protocol)", "FastAPI", "OpenAI-compatible API", "Feishu Bot", "Mermaid.js"]
+title: CR-730/MemoPilot
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python 3.12
+- ReAct Framework
+- Function Calling
+- Redis
+- SQLite
+- sqlite-vec
+- MCP (Model Context Protocol)
+- FastAPI
+- OpenAI-compatible API
+- Feishu Bot
+- Mermaid.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Agent", "ReAct", "Long-term Memory", "Proactive Wake-up", "MCP Integration"]
-source: "https://github.com/CR-730/MemoPilot"
+deployment_complexity: Medium
+tags:
+- AI Agent
+- ReAct
+- Long-term Memory
+- Proactive Wake-up
+- MCP Integration
+source: https://github.com/CR-730/MemoPilot
 stars: 0
-language: "Python"
-last_updated: "2026-07-21T04:11:38Z"
-discovered_at: "2026-07-21T04:14:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T04:11:38Z'
+discovered_at: '2026-07-21T04:14:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

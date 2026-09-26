@@ -1,19 +1,30 @@
 ---
-title: "Zensoro/pc-build-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "SQLite", "LLM Tool Calling", "OpenAI API", "JD Union API (optional)"]
+title: Zensoro/pc-build-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- SQLite
+- LLM Tool Calling
+- OpenAI API
+- JD Union API (optional)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["PC configuration", "AI agent", "budget optimization", "parts compatibility", "real-time pricing"]
-source: "https://github.com/Zensoro/pc-build-agent"
+deployment_complexity: Medium
+tags:
+- PC configuration
+- AI agent
+- budget optimization
+- parts compatibility
+- real-time pricing
+source: https://github.com/Zensoro/pc-build-agent
 stars: 0
-language: "Python"
-last_updated: "2026-08-09T03:40:26Z"
-discovered_at: "2026-08-09T03:45:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T03:40:26Z'
+discovered_at: '2026-08-09T03:45:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

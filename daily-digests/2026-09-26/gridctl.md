@@ -1,19 +1,32 @@
 ---
-title: "gridctl/gridctl"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "YAML", "MCP (Model Context Protocol)", "SSE (Server-Sent Events)", "REST API", "OpenAPI", "Docker", "CLI"]
+title: gridctl/gridctl
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Go
+- YAML
+- MCP (Model Context Protocol)
+- SSE (Server-Sent Events)
+- REST API
+- OpenAPI
+- Docker
+- CLI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP Gateway", "Agent Skills", "Orchestration", "Declarative Stacks", "Cost Optimization"]
-source: "https://github.com/gridctl/gridctl"
+deployment_complexity: Medium
+tags:
+- MCP Gateway
+- Agent Skills
+- Orchestration
+- Declarative Stacks
+- Cost Optimization
+source: https://github.com/gridctl/gridctl
 stars: 30
-language: "Go"
-last_updated: "2026-07-10T22:57:31Z"
-discovered_at: "2026-07-10T23:08:35Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-10T22:57:31Z'
+discovered_at: '2026-07-10T23:08:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "test3767/ocui"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Bun", "Cloudflare Tunnel", "SSH", "Xterm.js", "PWA", "Reverse Proxy"]
+title: test3767/ocui
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Bun
+- Cloudflare Tunnel
+- SSH
+- Xterm.js
+- PWA
+- Reverse Proxy
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI coding assistant", "single-binary deployment", "remote session management", "web dashboard", "terminal emulator"]
-source: "https://github.com/test3767/ocui"
+deployment_complexity: Low
+tags:
+- AI coding assistant
+- single-binary deployment
+- remote session management
+- web dashboard
+- terminal emulator
+source: https://github.com/test3767/ocui
 stars: 0
-language: "None"
-last_updated: "2026-08-07T02:39:15Z"
-discovered_at: "2026-08-07T02:41:34Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T02:39:15Z'
+discovered_at: '2026-08-07T02:41:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

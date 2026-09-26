@@ -1,19 +1,33 @@
 ---
-title: "chriswu727/agent-duet"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Electron", "Node.js", "JavaScript", "TypeScript", "Git", "Codex CLI", "Claude Code", "MCP (Model Context Protocol)", "pnpm"]
+title: chriswu727/agent-duet
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Electron
+- Node.js
+- JavaScript
+- TypeScript
+- Git
+- Codex CLI
+- Claude Code
+- MCP (Model Context Protocol)
+- pnpm
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI agent collaboration", "code review automation", "local development", "subscription-based AI", "safety-bound workflows"]
-source: "https://github.com/chriswu727/agent-duet"
+deployment_complexity: Medium
+tags:
+- AI agent collaboration
+- code review automation
+- local development
+- subscription-based AI
+- safety-bound workflows
+source: https://github.com/chriswu727/agent-duet
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-14T21:52:38Z"
-discovered_at: "2026-07-14T21:56:25Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-14T21:52:38Z'
+discovered_at: '2026-07-14T21:56:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

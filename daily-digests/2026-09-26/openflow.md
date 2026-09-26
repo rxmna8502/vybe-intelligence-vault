@@ -1,19 +1,33 @@
 ---
-title: "sevenaaaaaaaaa/openflow"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["PHP 8.0+", "SQLite", "JSON", "JavaScript", "Mermaid.js", "Cloudflare (recommended)", "AI Agents (OpenAI, Claude, DeepSeek, MiniMax)", "MCP Server", "GitHub Actions (CI)"]
+title: sevenaaaaaaaaa/openflow
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- PHP 8.0+
+- SQLite
+- JSON
+- JavaScript
+- Mermaid.js
+- Cloudflare (recommended)
+- AI Agents (OpenAI, Claude, DeepSeek, MiniMax)
+- MCP Server
+- GitHub Actions (CI)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Growth Automation", "AI-Powered CMS", "CDP Integration", "Marketing Orchestration", "Self-Evolving System"]
-source: "https://github.com/sevenaaaaaaaaa/openflow"
+deployment_complexity: Medium
+tags:
+- Growth Automation
+- AI-Powered CMS
+- CDP Integration
+- Marketing Orchestration
+- Self-Evolving System
+source: https://github.com/sevenaaaaaaaaa/openflow
 stars: 3
-language: "PHP"
-last_updated: "2026-09-02T15:46:49Z"
-discovered_at: "2026-09-02T15:51:29Z"
-evaluated_by: "mistral-small-latest"
+language: PHP
+last_updated: '2026-09-02T15:46:49Z'
+discovered_at: '2026-09-02T15:51:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

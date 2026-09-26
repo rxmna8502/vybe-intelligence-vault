@@ -1,19 +1,32 @@
 ---
-title: "JetXu-LLM/llama-github"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "LangChain", "Jina.ai", "GitHub API", "Asynchronous Programming", "LLM Integration", "Embedding Models", "Reranking Models"]
+title: JetXu-LLM/llama-github
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- LangChain
+- Jina.ai
+- GitHub API
+- Asynchronous Programming
+- LLM Integration
+- Embedding Models
+- Reranking Models
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["GitHub RAG", "Agentic Retrieval", "Code Context", "LLM Augmentation", "Auto-dev"]
-source: "https://github.com/JetXu-LLM/llama-github"
+deployment_complexity: Medium
+tags:
+- GitHub RAG
+- Agentic Retrieval
+- Code Context
+- LLM Augmentation
+- Auto-dev
+source: https://github.com/JetXu-LLM/llama-github
 stars: 291
-language: "Python"
-last_updated: "2026-07-15T16:16:14Z"
-discovered_at: "2026-07-15T16:20:57Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-15T16:16:14Z'
+discovered_at: '2026-07-15T16:20:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

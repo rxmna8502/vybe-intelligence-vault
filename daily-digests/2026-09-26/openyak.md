@@ -1,19 +1,34 @@
 ---
-title: "openyak/openyak"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Electron", "React", "TypeScript", "Rapid-MLX", "Ollama", "OpenAI API", "Accessibility APIs", "Browser Automation", "CI/CD (GitHub Actions)"]
+title: openyak/openyak
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Electron
+- React
+- TypeScript
+- Rapid-MLX
+- Ollama
+- OpenAI API
+- Accessibility APIs
+- Browser Automation
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["local-first", "desktop agent", "multi-modal interaction", "BYOK support", "workspace sharing"]
-source: "https://github.com/openyak/openyak"
+deployment_complexity: Medium
+tags:
+- local-first
+- desktop agent
+- multi-modal interaction
+- BYOK support
+- workspace sharing
+source: https://github.com/openyak/openyak
 stars: 703
-language: "Python"
-last_updated: "2026-08-08T22:31:08Z"
-discovered_at: "2026-08-08T22:31:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T22:31:08Z'
+discovered_at: '2026-08-08T22:31:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

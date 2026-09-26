@@ -1,19 +1,27 @@
 ---
-title: "neoneye/RainBox"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Local AI Models", "Command-line Interface"]
+title: neoneye/RainBox
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Local AI Models
+- Command-line Interface
 quality_score: 4
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["local AI", "privacy", "offline assistant", "personal agent", "Python"]
-source: "https://github.com/neoneye/RainBox"
+deployment_complexity: Low
+tags:
+- local AI
+- privacy
+- offline assistant
+- personal agent
+- Python
+source: https://github.com/neoneye/RainBox
 stars: 2
-language: "Python"
-last_updated: "2026-08-04T19:21:45Z"
-discovered_at: "2026-08-04T19:32:24Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T19:21:45Z'
+discovered_at: '2026-08-04T19:32:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

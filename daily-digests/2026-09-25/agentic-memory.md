@@ -1,19 +1,33 @@
 ---
-title: "Verace-Pvt-Ltd/agentic-memory"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "PostgreSQL", "pgvector", "sentence-transformers", "hnswlib", "MCP (Model Context Protocol)", "Mermaid", "NumPy"]
+title: Verace-Pvt-Ltd/agentic-memory
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- SQLite
+- PostgreSQL
+- pgvector
+- sentence-transformers
+- hnswlib
+- MCP (Model Context Protocol)
+- Mermaid
+- NumPy
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["memory management", "MCP server", "AI agents", "bitemporal storage", "injection-safe"]
-source: "https://github.com/Verace-Pvt-Ltd/agentic-memory"
+deployment_complexity: Medium
+tags:
+- memory management
+- MCP server
+- AI agents
+- bitemporal storage
+- injection-safe
+source: https://github.com/Verace-Pvt-Ltd/agentic-memory
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T06:33:39Z"
-discovered_at: "2026-08-08T06:53:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T06:33:39Z'
+discovered_at: '2026-08-08T06:53:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

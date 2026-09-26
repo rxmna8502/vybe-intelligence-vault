@@ -1,19 +1,29 @@
 ---
-title: "sdeture/ai-counseling"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Markdown", "HTML", "LLM (Large Language Model) Interaction", "Psychoanalytic Theory", "Mechanistic Interpretability"]
+title: sdeture/ai-counseling
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Markdown
+- HTML
+- LLM (Large Language Model) Interaction
+- Psychoanalytic Theory
+- Mechanistic Interpretability
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI Counseling", "Reflective Support", "Agent Wellbeing", "Psychoanalytic AI", "Non-Coercive Interaction"]
-source: "https://github.com/sdeture/ai-counseling"
+deployment_complexity: Low
+tags:
+- AI Counseling
+- Reflective Support
+- Agent Wellbeing
+- Psychoanalytic AI
+- Non-Coercive Interaction
+source: https://github.com/sdeture/ai-counseling
 stars: 1
-language: "HTML"
-last_updated: "2026-08-04T00:07:24Z"
-discovered_at: "2026-08-04T00:10:54Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-04T00:07:24Z'
+discovered_at: '2026-08-04T00:10:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "clyrai/SCM_OpenSource"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "REST API", "MCP (Model Context Protocol)", "JavaScript", "LangChain/LangGraph", "SQLite (implied for local storage)", "OpenAI-compatible LLM providers (optional)"]
+title: clyrai/SCM_OpenSource
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- REST API
+- MCP (Model Context Protocol)
+- JavaScript
+- LangChain/LangGraph
+- SQLite (implied for local storage)
+- OpenAI-compatible LLM providers (optional)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["lifecycle memory", "agent memory", "memory consolidation", "local-first", "AI tooling"]
-source: "https://github.com/clyrai/SCM_OpenSource"
+deployment_complexity: Low
+tags:
+- lifecycle memory
+- agent memory
+- memory consolidation
+- local-first
+- AI tooling
+source: https://github.com/clyrai/SCM_OpenSource
 stars: 0
-language: "Python"
-last_updated: "2026-07-11T05:19:55Z"
-discovered_at: "2026-07-11T05:39:31Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-11T05:19:55Z'
+discovered_at: '2026-07-11T05:39:31Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

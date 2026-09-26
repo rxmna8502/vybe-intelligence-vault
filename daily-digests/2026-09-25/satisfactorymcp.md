@@ -1,19 +1,30 @@
 ---
-title: "lukszi/SatisfactoryMCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Node.js", "Leaflet", "uv (Python package manager)", "React (for web map frontend)"]
+title: lukszi/SatisfactoryMCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Node.js
+- Leaflet
+- uv (Python package manager)
+- React (for web map frontend)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["game integration", "factory planning", "save file analysis", "local AI tools", "logistics visualization"]
-source: "https://github.com/lukszi/SatisfactoryMCP"
+deployment_complexity: Medium
+tags:
+- game integration
+- factory planning
+- save file analysis
+- local AI tools
+- logistics visualization
+source: https://github.com/lukszi/SatisfactoryMCP
 stars: 1
-language: "Python"
-last_updated: "2026-08-05T08:25:08Z"
-discovered_at: "2026-08-05T08:36:59Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-05T08:25:08Z'
+discovered_at: '2026-08-05T08:36:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

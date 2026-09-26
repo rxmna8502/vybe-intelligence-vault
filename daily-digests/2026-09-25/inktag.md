@@ -1,19 +1,33 @@
 ---
-title: "aurora7795/InkTag"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C#", ".NET 8.0/9.0/10.0", "Avalonia UI", "Model Context Protocol (MCP)", "SharpCompress", "Velopack", "XSD Schema Validation", "JSON-RPC", "GitHub Actions"]
+title: aurora7795/InkTag
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- C#
+- .NET 8.0/9.0/10.0
+- Avalonia UI
+- Model Context Protocol (MCP)
+- SharpCompress
+- Velopack
+- XSD Schema Validation
+- JSON-RPC
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["comic metadata", "MCP server", "bulk editing", "cover extraction", "cross-platform"]
-source: "https://github.com/aurora7795/InkTag"
+deployment_complexity: Medium
+tags:
+- comic metadata
+- MCP server
+- bulk editing
+- cover extraction
+- cross-platform
+source: https://github.com/aurora7795/InkTag
 stars: 1
-language: "C#"
-last_updated: "2026-08-02T21:51:35Z"
-discovered_at: "2026-08-02T21:55:50Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-02T21:51:35Z'
+discovered_at: '2026-08-02T21:55:50Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "metavolve-labs/lbrain"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "ONNX Runtime", "SQLite FTS5", "FastEmbed", "Hugging Face Transformers", "MCP (Model Context Protocol)", "Docker"]
+title: metavolve-labs/lbrain
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- ONNX Runtime
+- SQLite FTS5
+- FastEmbed
+- Hugging Face Transformers
+- MCP (Model Context Protocol)
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["retrieval-augmented generation", "source citation", "local-first", "deterministic admissibility", "hybrid search"]
-source: "https://github.com/metavolve-labs/lbrain"
+deployment_complexity: Medium
+tags:
+- retrieval-augmented generation
+- source citation
+- local-first
+- deterministic admissibility
+- hybrid search
+source: https://github.com/metavolve-labs/lbrain
 stars: 0
-language: "Python"
-last_updated: "2026-08-03T02:46:18Z"
-discovered_at: "2026-08-03T02:54:44Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T02:46:18Z'
+discovered_at: '2026-08-03T02:54:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

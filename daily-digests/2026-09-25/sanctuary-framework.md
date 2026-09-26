@@ -1,19 +1,33 @@
 ---
-title: "eriknewton/sanctuary-framework"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "macOS/Linux kernel enforcement", "Ed25519 cryptography", "seccomp", "Docker/containerization", "Electron (for dashboard)", "React (for dashboard UI)"]
+title: eriknewton/sanctuary-framework
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- macOS/Linux kernel enforcement
+- Ed25519 cryptography
+- seccomp
+- Docker/containerization
+- Electron (for dashboard)
+- React (for dashboard UI)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent security", "egress control", "tamper-evident auditing", "cryptographic identity", "data sovereignty"]
-source: "https://github.com/eriknewton/sanctuary-framework"
+deployment_complexity: Medium
+tags:
+- AI agent security
+- egress control
+- tamper-evident auditing
+- cryptographic identity
+- data sovereignty
+source: https://github.com/eriknewton/sanctuary-framework
 stars: 5
-language: "TypeScript"
-last_updated: "2026-07-13T23:48:01Z"
-discovered_at: "2026-07-13T23:53:44Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T23:48:01Z'
+discovered_at: '2026-07-13T23:53:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

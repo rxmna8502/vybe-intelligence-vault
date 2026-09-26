@@ -1,19 +1,34 @@
 ---
-title: "Solizardking/dark-clawd"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "Bun", "React", "Node.js", "Solana RPC", "FastAPI", "WebSockets", "LLM APIs (Grok, Perplexity, OpenRouter)", "Terminal UI (TUI) libraries"]
+title: Solizardking/dark-clawd
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Python
+- Bun
+- React
+- Node.js
+- Solana RPC
+- FastAPI
+- WebSockets
+- LLM APIs (Grok, Perplexity, OpenRouter)
+- Terminal UI (TUI) libraries
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Solana", "Terminal Intelligence", "Autonomous Agents", "Market Surveillance", "TUI"]
-source: "https://github.com/Solizardking/dark-clawd"
+deployment_complexity: Medium
+tags:
+- Solana
+- Terminal Intelligence
+- Autonomous Agents
+- Market Surveillance
+- TUI
+source: https://github.com/Solizardking/dark-clawd
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T19:56:21Z"
-discovered_at: "2026-08-07T19:57:59Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T19:56:21Z'
+discovered_at: '2026-08-07T19:57:59Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,34 @@
 ---
-title: "techgniouss/pdagent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Telegram Bot API", "Google Gemini AI", "OpenCV", "Tesseract OCR", "Flask", "asyncio", "Windows API", "Cloudflare Tunnel", "SQLite"]
+title: techgniouss/pdagent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Telegram Bot API
+- Google Gemini AI
+- OpenCV
+- Tesseract OCR
+- Flask
+- asyncio
+- Windows API
+- Cloudflare Tunnel
+- SQLite
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["remote desktop", "AI automation", "Telegram bot", "Windows control", "OCR automation"]
-source: "https://github.com/techgniouss/pdagent"
+deployment_complexity: Medium
+tags:
+- remote desktop
+- AI automation
+- Telegram bot
+- Windows control
+- OCR automation
+source: https://github.com/techgniouss/pdagent
 stars: 15
-language: "HTML"
-last_updated: "2026-09-03T15:34:30Z"
-discovered_at: "2026-09-03T15:35:20Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-09-03T15:34:30Z'
+discovered_at: '2026-09-03T15:35:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "luojiateng/codex-bridge-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "WebSocket", "JSON-RPC", "MCP (Model Context Protocol)", "PowerShell"]
+title: luojiateng/codex-bridge-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- WebSocket
+- JSON-RPC
+- MCP (Model Context Protocol)
+- PowerShell
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["task orchestration", "Claude-Codex integration", "stateful execution", "development workflow", "MCP server"]
-source: "https://github.com/luojiateng/codex-bridge-mcp"
+deployment_complexity: Medium
+tags:
+- task orchestration
+- Claude-Codex integration
+- stateful execution
+- development workflow
+- MCP server
+source: https://github.com/luojiateng/codex-bridge-mcp
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-13T06:10:50Z"
-discovered_at: "2026-07-13T06:15:52Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-13T06:10:50Z'
+discovered_at: '2026-07-13T06:15:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

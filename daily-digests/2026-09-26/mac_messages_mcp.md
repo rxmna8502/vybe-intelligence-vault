@@ -1,19 +1,30 @@
 ---
-title: "carterlasalle/mac_messages_mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "SQLite", "FastAPI", "uv", "PyPI"]
+title: carterlasalle/mac_messages_mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- SQLite
+- FastAPI
+- uv
+- PyPI
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["iMessage integration", "MCP server", "local AI tools", "message retrieval", "privacy-focused"]
-source: "https://github.com/carterlasalle/mac_messages_mcp"
+deployment_complexity: Medium
+tags:
+- iMessage integration
+- MCP server
+- local AI tools
+- message retrieval
+- privacy-focused
+source: https://github.com/carterlasalle/mac_messages_mcp
 stars: 322
-language: "Python"
-last_updated: "2026-09-01T18:59:18Z"
-discovered_at: "2026-09-01T19:08:42Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T18:59:18Z'
+discovered_at: '2026-09-01T19:08:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

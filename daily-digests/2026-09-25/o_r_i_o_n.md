@@ -1,19 +1,33 @@
 ---
-title: "VidulaWickramasinghe/O.R.I.O.N"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "FastAPI", "React", "Tauri", "SQLite", "TanStack Query", "React Flow", "Python", "Bash"]
+title: VidulaWickramasinghe/O.R.I.O.N
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- FastAPI
+- React
+- Tauri
+- SQLite
+- TanStack Query
+- React Flow
+- Python
+- Bash
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent", "mission control", "approval-gated autonomy", "persistent memory", "local-first"]
-source: "https://github.com/VidulaWickramasinghe/O.R.I.O.N"
+deployment_complexity: Medium
+tags:
+- AI agent
+- mission control
+- approval-gated autonomy
+- persistent memory
+- local-first
+source: https://github.com/VidulaWickramasinghe/O.R.I.O.N
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-09T22:32:12Z"
-discovered_at: "2026-08-09T22:35:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T22:32:12Z'
+discovered_at: '2026-08-09T22:35:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

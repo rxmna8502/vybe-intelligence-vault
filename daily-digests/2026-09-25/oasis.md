@@ -1,19 +1,29 @@
 ---
-title: "knowledgetrailsai/OASIS"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Markdown", "GitHub", "Documentation", "Methodology", "Enterprise Architecture"]
+title: knowledgetrailsai/OASIS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Markdown
+- GitHub
+- Documentation
+- Methodology
+- Enterprise Architecture
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI transformation", "enterprise methodology", "governance", "workflow engineering", "AI lifecycle"]
-source: "https://github.com/knowledgetrailsai/OASIS"
+deployment_complexity: Medium
+tags:
+- AI transformation
+- enterprise methodology
+- governance
+- workflow engineering
+- AI lifecycle
+source: https://github.com/knowledgetrailsai/OASIS
 stars: 1
-language: "None"
-last_updated: "2026-09-01T07:52:48Z"
-discovered_at: "2026-09-01T19:05:47Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-01T07:52:48Z'
+discovered_at: '2026-09-01T19:05:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

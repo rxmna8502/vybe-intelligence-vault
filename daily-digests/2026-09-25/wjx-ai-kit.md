@@ -1,19 +1,30 @@
 ---
-title: "wjxcom/wjx-ai-kit"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "CLI", "npm workspaces", "REST API"]
+title: wjxcom/wjx-ai-kit
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- CLI
+- npm workspaces
+- REST API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["\u95ee\u5377\u661f", "API SDK", "MCP Server", "CLI Tool", "AI Agent Integration"]
-source: "https://github.com/wjxcom/wjx-ai-kit"
+deployment_complexity: Medium
+tags:
+- 问卷星
+- API SDK
+- MCP Server
+- CLI Tool
+- AI Agent Integration
+source: https://github.com/wjxcom/wjx-ai-kit
 stars: 13
-language: "HTML"
-last_updated: "2026-08-06T06:30:05Z"
-discovered_at: "2026-08-06T06:32:05Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-06T06:30:05Z'
+discovered_at: '2026-08-06T06:32:05Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "0xfreak0/sui-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Sui Blockchain", "GraphQL", "RPC", "Move (Sui smart contract language)", "SQLite", "Rust (for optional decompiler)"]
+title: 0xfreak0/sui-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Sui Blockchain
+- GraphQL
+- RPC
+- Move (Sui smart contract language)
+- SQLite
+- Rust (for optional decompiler)
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["Sui blockchain", "fund tracing", "forensic analysis", "MCP server", "on-chain investigation"]
-source: "https://github.com/0xfreak0/sui-mcp"
+deployment_complexity: Medium
+tags:
+- Sui blockchain
+- fund tracing
+- forensic analysis
+- MCP server
+- on-chain investigation
+source: https://github.com/0xfreak0/sui-mcp
 stars: 1
-language: "TypeScript"
-last_updated: "2026-09-03T21:55:57Z"
-discovered_at: "2026-09-03T22:11:00Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T21:55:57Z'
+discovered_at: '2026-09-03T22:11:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

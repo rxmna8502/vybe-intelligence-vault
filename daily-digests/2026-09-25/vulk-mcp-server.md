@@ -1,19 +1,28 @@
 ---
-title: "Diuli4587/vulk-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "Windows OS", "AI Assistant Integration"]
+title: Diuli4587/vulk-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- Windows OS
+- AI Assistant Integration
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI-driven development", "MCP server", "app scaffolding", "full-stack automation", "AI assistant integration"]
-source: "https://github.com/Diuli4587/vulk-mcp-server"
+deployment_complexity: Low
+tags:
+- AI-driven development
+- MCP server
+- app scaffolding
+- full-stack automation
+- AI assistant integration
+source: https://github.com/Diuli4587/vulk-mcp-server
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-10T20:20:39Z"
-discovered_at: "2026-07-10T20:22:25Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-10T20:20:39Z'
+discovered_at: '2026-07-10T20:22:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "rohit311/backend"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "Spring Boot", "REST APIs", "HTTP Clients", "JSON", "Maven"]
+title: rohit311/backend
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Java
+- Spring Boot
+- REST APIs
+- HTTP Clients
+- JSON
+- Maven
 quality_score: 4
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["backend", "sample projects", "api integration", "learning resource", "java"]
-source: "https://github.com/rohit311/backend"
+deployment_complexity: Medium
+tags:
+- backend
+- sample projects
+- api integration
+- learning resource
+- java
+source: https://github.com/rohit311/backend
 stars: 2
-language: "Java"
-last_updated: "2026-08-08T08:36:42Z"
-discovered_at: "2026-08-08T08:43:21Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-08T08:36:42Z'
+discovered_at: '2026-08-08T08:43:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

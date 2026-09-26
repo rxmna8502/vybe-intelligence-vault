@@ -1,19 +1,31 @@
 ---
-title: "ucsandman/claude-harness"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Node.js", "PowerShell", "Python", "Claude Code", "JSON", "Shell Scripting", "Git Hooks"]
+title: ucsandman/claude-harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Node.js
+- PowerShell
+- Python
+- Claude Code
+- JSON
+- Shell Scripting
+- Git Hooks
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Claude Code", "Agent Orchestration", "Guardrails", "Model Routing", "Incident-Driven"]
-source: "https://github.com/ucsandman/claude-harness"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- Agent Orchestration
+- Guardrails
+- Model Routing
+- Incident-Driven
+source: https://github.com/ucsandman/claude-harness
 stars: 11
-language: "JavaScript"
-last_updated: "2026-09-03T17:44:18Z"
-discovered_at: "2026-09-03T19:14:02Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-03T17:44:18Z'
+discovered_at: '2026-09-03T19:14:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

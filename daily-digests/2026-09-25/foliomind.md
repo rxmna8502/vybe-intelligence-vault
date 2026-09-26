@@ -1,19 +1,35 @@
 ---
-title: "ax2/foliomind"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri", "Rust", "React", "TypeScript", "Pi (AI runtime)", "QVeris (financial data adapter)", "Vite", "Playwright", "GitHub Actions", "WiX (Windows installer)", "macOS DMG packaging"]
+title: ax2/foliomind
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Tauri
+- Rust
+- React
+- TypeScript
+- Pi (AI runtime)
+- QVeris (financial data adapter)
+- Vite
+- Playwright
+- GitHub Actions
+- WiX (Windows installer)
+- macOS DMG packaging
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["financial research", "AI agent", "portfolio management", "real-time monitoring", "data adapter"]
-source: "https://github.com/ax2/foliomind"
+deployment_complexity: Medium
+tags:
+- financial research
+- AI agent
+- portfolio management
+- real-time monitoring
+- data adapter
+source: https://github.com/ax2/foliomind
 stars: 1
-language: "JavaScript"
-last_updated: "2026-09-01T14:50:31Z"
-discovered_at: "2026-09-01T15:54:46Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T14:50:31Z'
+discovered_at: '2026-09-01T15:54:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

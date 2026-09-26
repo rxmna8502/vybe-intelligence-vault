@@ -1,19 +1,30 @@
 ---
-title: "Bande-a-Bonnot/Boucle-framework"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Shell", "Python", "Bash", "JSON", "Claude Code Hooks", "Git"]
+title: Bande-a-Bonnot/Boucle-framework
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Shell
+- Python
+- Bash
+- JSON
+- Claude Code Hooks
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Claude Code", "Safety Hooks", "Command Enforcement", "AI Agent Security", "Rule Validation"]
-source: "https://github.com/Bande-a-Bonnot/Boucle-framework"
+deployment_complexity: Medium
+tags:
+- Claude Code
+- Safety Hooks
+- Command Enforcement
+- AI Agent Security
+- Rule Validation
+source: https://github.com/Bande-a-Bonnot/Boucle-framework
 stars: 124
-language: "Shell"
-last_updated: "2026-09-01T02:48:34Z"
-discovered_at: "2026-09-01T02:49:06Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-09-01T02:48:34Z'
+discovered_at: '2026-09-01T02:49:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

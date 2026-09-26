@@ -1,19 +1,32 @@
 ---
-title: "resq-software/pypi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "PyPI", "Semantic Release", "Trusted Publisher OIDC", "Docker", "CI/CD", "Mermaid.js"]
+title: resq-software/pypi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastMCP
+- PyPI
+- Semantic Release
+- Trusted Publisher OIDC
+- Docker
+- CI/CD
+- Mermaid.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["disaster response", "AI agent integration", "geospatial algorithms", "MCP server", "zero-dependency"]
-source: "https://github.com/resq-software/pypi"
+deployment_complexity: Medium
+tags:
+- disaster response
+- AI agent integration
+- geospatial algorithms
+- MCP server
+- zero-dependency
+source: https://github.com/resq-software/pypi
 stars: 1
-language: "Python"
-last_updated: "2026-08-08T23:30:49Z"
-discovered_at: "2026-08-08T23:31:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T23:30:49Z'
+discovered_at: '2026-08-08T23:31:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

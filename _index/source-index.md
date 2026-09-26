@@ -27624,14 +27624,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Early rogue AI agent activity and attempts to hack found on urlquery.net](../ai/community/early-rogue-ai-agent-activity-and-attempts-to-hack.md)
-  - [Opus 5.5 is good at explainer videos](../ai/community/opus-5-5-is-good-at-explainer-videos.md)
-  - [Rails World 2026 Opening Keynote [video]](../ai/community/youtube-vdjw-drykxy.md)
-  - [Security auditing in the age of (good enough) AI](../ai/community/security-auditing-in-the-age-of-good-enough-ai.md)
-  - [Show HN: AgentRun: DSL to turn agents into workflows](../ai/community/parcha-ai-agentrun.md)
-  - [Show HN: Koi.rest – watch some fish and regain your balance](../ai/community/show-hn-koi-rest-watch-some-fish-and-regain-your-b.md)
-  - [Tutoring company tells parents to save their money and 'use AI instead'](../ai/community/tutoring-company-tells-parents-to-save-their-money.md)
-  - [Using LLMs to trace alchemical knowledge and decode 17th century letters](../ai/community/using-llms-to-trace-alchemical-knowledge-and-decod.md)
+  - [A single function Jev-like wrapper for LLMs, including vision models](../ai/community/a-single-function-jev-like-wrapper-for-llms-includ.md)
+  - [An airport cooled by natural ventilation](../ai/community/an-airport-cooled-by-natural-ventilation.md)
+  - [I wrote a ray tracer in Brainfuck](../ai/community/i-wrote-a-ray-tracer-in-brainfuck.md)
+  - [Microsoft abandons personal AI chatbot race with Copilot reboot](../ai/community/microsoft-abandons-personal-ai-chatbot-race-with-c.md)
+  - [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](../ai/community/one-piece-of-flock-camera-data-put-this-innocent-w.md)
+  - [Revealing the details of how OpenAI agents hacked Hugging Face](../ai/community/revealing-the-details-of-how-openai-agents-hacked.md)
+  - [U.S. appeals court upholds designation of Anthropic as supply chain risk](../ai/community/u-s-appeals-court-upholds-designation-of-anthropic.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31502,4 +31501,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-25T05:05:19.816491+05:30*
+*Index generated on 2026-09-26T10:55:51.138644+05:30*

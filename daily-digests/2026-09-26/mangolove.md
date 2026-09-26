@@ -1,19 +1,43 @@
 ---
-title: "SongJunSub/mangolove"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Shell", "Bash", "Claude Code", "Git", "Python", "Gradle", "Maven", "Spring Boot", "TypeScript", "React", "Next.js", "Django", "FastAPI", "Go", "Rust", "Docker", "Kubernetes", "GitHub Actions", "Terraform"]
+title: SongJunSub/mangolove
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Shell
+- Bash
+- Claude Code
+- Git
+- Python
+- Gradle
+- Maven
+- Spring Boot
+- TypeScript
+- React
+- Next.js
+- Django
+- FastAPI
+- Go
+- Rust
+- Docker
+- Kubernetes
+- GitHub Actions
+- Terraform
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI development assistant", "quality methodology", "risk mitigation", "deterministic workflows", "Claude Code integration"]
-source: "https://github.com/SongJunSub/mangolove"
+deployment_complexity: Medium
+tags:
+- AI development assistant
+- quality methodology
+- risk mitigation
+- deterministic workflows
+- Claude Code integration
+source: https://github.com/SongJunSub/mangolove
 stars: 0
-language: "Shell"
-last_updated: "2026-09-02T02:04:23Z"
-discovered_at: "2026-09-02T02:10:23Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-09-02T02:04:23Z'
+discovered_at: '2026-09-02T02:10:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "Zhu070124/puff"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "DeepSeek API", "HTML/CSS", "JavaScript", "XML", "zipfile (stdlib)", "http.server (stdlib)", "aiohttp (recommended for optimization)"]
+title: Zhu070124/puff
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- DeepSeek API
+- HTML/CSS
+- JavaScript
+- XML
+- zipfile (stdlib)
+- http.server (stdlib)
+- aiohttp (recommended for optimization)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["personality-driven AI", "function calling", "file system access", "persistent memory", "web UI"]
-source: "https://github.com/Zhu070124/puff"
+deployment_complexity: Medium
+tags:
+- personality-driven AI
+- function calling
+- file system access
+- persistent memory
+- web UI
+source: https://github.com/Zhu070124/puff
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T18:46:49Z"
-discovered_at: "2026-08-07T18:57:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T18:46:49Z'
+discovered_at: '2026-08-07T18:57:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

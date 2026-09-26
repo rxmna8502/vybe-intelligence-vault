@@ -1,19 +1,29 @@
 ---
-title: "sym804/ai-squad"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Slack API", "Claude Code CLI", "Codex CLI", "Gemini CLI"]
+title: sym804/ai-squad
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Slack API
+- Claude Code CLI
+- Codex CLI
+- Gemini CLI
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["multi-agent collaboration", "Slack automation", "AI consensus", "code generation", "research automation"]
-source: "https://github.com/sym804/ai-squad"
+deployment_complexity: Medium
+tags:
+- multi-agent collaboration
+- Slack automation
+- AI consensus
+- code generation
+- research automation
+source: https://github.com/sym804/ai-squad
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T10:18:40Z"
-discovered_at: "2026-07-13T10:24:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T10:18:40Z'
+discovered_at: '2026-07-13T10:24:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

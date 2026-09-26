@@ -1,19 +1,30 @@
 ---
-title: "slxca/opencontext"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Node.js", "Markdown", "YAML", "Git"]
+title: slxca/opencontext
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Model Context Protocol (MCP)
+- Node.js
+- Markdown
+- YAML
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP server", "project memory", "AI agent context", "markdown storage", "architectural decision records"]
-source: "https://github.com/slxca/opencontext"
+deployment_complexity: Low
+tags:
+- MCP server
+- project memory
+- AI agent context
+- markdown storage
+- architectural decision records
+source: https://github.com/slxca/opencontext
 stars: 8
-language: "TypeScript"
-last_updated: "2026-09-03T15:30:23Z"
-discovered_at: "2026-09-03T15:43:18Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T15:30:23Z'
+discovered_at: '2026-09-03T15:43:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

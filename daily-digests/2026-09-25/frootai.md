@@ -1,19 +1,37 @@
 ---
-title: "frootai/frootai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript/TypeScript", "Python", "Cloudflare Workers", "Durable Objects", "R2/KV", "MCP (Model Context Protocol)", "Node.js", "npm", "PyPI", "Docker", "VS Code Extension", "JSON Schema", "CI/CD Pipelines"]
+title: frootai/frootai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript/TypeScript
+- Python
+- Cloudflare Workers
+- Durable Objects
+- R2/KV
+- MCP (Model Context Protocol)
+- Node.js
+- npm
+- PyPI
+- Docker
+- VS Code Extension
+- JSON Schema
+- CI/CD Pipelines
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "eval-first AI", "vendor-neutral", "deterministic AI", "MCP server"]
-source: "https://github.com/frootai/frootai"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- eval-first AI
+- vendor-neutral
+- deterministic AI
+- MCP server
+source: https://github.com/frootai/frootai
 stars: 7
-language: "JavaScript"
-last_updated: "2026-07-12T08:03:54Z"
-discovered_at: "2026-07-12T08:15:46Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-12T08:03:54Z'
+discovered_at: '2026-07-12T08:15:46Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "HMAKT99/AKF"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "Git Hooks", "CLI", "GitHub Actions", "NPM", "PyPI"]
+title: HMAKT99/AKF
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Git Hooks
+- CLI
+- GitHub Actions
+- NPM
+- PyPI
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["trust metadata", "AI provenance", "file verification", "agent collaboration", "compliance auditing"]
-source: "https://github.com/HMAKT99/AKF"
+deployment_complexity: Medium
+tags:
+- trust metadata
+- AI provenance
+- file verification
+- agent collaboration
+- compliance auditing
+source: https://github.com/HMAKT99/AKF
 stars: 14
-language: "Python"
-last_updated: "2026-08-02T02:32:10Z"
-discovered_at: "2026-08-02T02:34:55Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T02:32:10Z'
+discovered_at: '2026-08-02T02:34:55Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

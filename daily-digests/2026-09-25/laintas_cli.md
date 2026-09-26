@@ -1,19 +1,30 @@
 ---
-title: "lin7c/Laintas_cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "PTY (Pseudo Terminal)", "Linux", "FastAPI (implied by backend integration)", "GitHub Actions (for CI/CD)", "Vite (for download page frontend)"]
+title: lin7c/Laintas_cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- PTY (Pseudo Terminal)
+- Linux
+- FastAPI (implied by backend integration)
+- GitHub Actions (for CI/CD)
+- Vite (for download page frontend)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["terminal automation", "autonomous agent", "PTY execution", "Linux-native", "workspace-aware"]
-source: "https://github.com/lin7c/Laintas_cli"
+deployment_complexity: Medium
+tags:
+- terminal automation
+- autonomous agent
+- PTY execution
+- Linux-native
+- workspace-aware
+source: https://github.com/lin7c/Laintas_cli
 stars: 1
-language: "Python"
-last_updated: "2026-08-01T23:52:50Z"
-discovered_at: "2026-08-01T23:57:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T23:52:50Z'
+discovered_at: '2026-08-01T23:57:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

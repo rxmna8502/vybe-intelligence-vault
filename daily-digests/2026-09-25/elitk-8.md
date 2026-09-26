@@ -1,19 +1,38 @@
 ---
-title: "mohamedosamaai/elitk-8"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "React", "Vite", "Node.js", "Express", "Google Gemini API", "Three.js", "WebGL", "TailwindCSS", "Zustand", "Pino Logger", "Docker", "GitHub Actions", "Vitest"]
+title: mohamedosamaai/elitk-8
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- React
+- Vite
+- Node.js
+- Express
+- Google Gemini API
+- Three.js
+- WebGL
+- TailwindCSS
+- Zustand
+- Pino Logger
+- Docker
+- GitHub Actions
+- Vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI orchestration", "multi-agent systems", "3D interactive UI", "enterprise workflows", "Gemini API integration"]
-source: "https://github.com/mohamedosamaai/elitk-8"
+deployment_complexity: Medium
+tags:
+- AI orchestration
+- multi-agent systems
+- 3D interactive UI
+- enterprise workflows
+- Gemini API integration
+source: https://github.com/mohamedosamaai/elitk-8
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-07T19:56:15Z"
-discovered_at: "2026-08-07T19:57:58Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-07T19:56:15Z'
+discovered_at: '2026-08-07T19:57:58Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

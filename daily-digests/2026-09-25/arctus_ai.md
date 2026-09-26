@@ -1,19 +1,35 @@
 ---
-title: "dineshkhuman8014-code/Arctus.ai"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Docker", "OpenAI API", "OpenRouter", "Ollama", "MCP (Model Context Protocol)", "HTML/CSS/JS", "SONA (Sparse Attention Optimizer)", "FastAPI", "Git"]
+title: dineshkhuman8014-code/Arctus.ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- Docker
+- OpenAI API
+- OpenRouter
+- Ollama
+- MCP (Model Context Protocol)
+- HTML/CSS/JS
+- SONA (Sparse Attention Optimizer)
+- FastAPI
+- Git
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "context management", "agent framework", "local-first", "sparse attention"]
-source: "https://github.com/dineshkhuman8014-code/Arctus.ai"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- context management
+- agent framework
+- local-first
+- sparse attention
+source: https://github.com/dineshkhuman8014-code/Arctus.ai
 stars: 1
-language: "Python"
-last_updated: "2026-07-21T07:30:47Z"
-discovered_at: "2026-07-21T07:32:04Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T07:30:47Z'
+discovered_at: '2026-07-21T07:32:04Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

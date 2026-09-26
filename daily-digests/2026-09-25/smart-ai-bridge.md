@@ -1,19 +1,33 @@
 ---
-title: "Platano78/smart-ai-bridge"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "MCP (Model Context Protocol)", "OpenAI API", "REST APIs", "WebSockets", "JSON configuration", "Express.js (for dashboard)"]
+title: Platano78/smart-ai-bridge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- MCP (Model Context Protocol)
+- OpenAI API
+- REST APIs
+- WebSockets
+- JSON configuration
+- Express.js (for dashboard)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-AI orchestration", "MCP server", "Claude Code integration", "backend routing", "token optimization"]
-source: "https://github.com/Platano78/smart-ai-bridge"
+deployment_complexity: Medium
+tags:
+- multi-AI orchestration
+- MCP server
+- Claude Code integration
+- backend routing
+- token optimization
+source: https://github.com/Platano78/smart-ai-bridge
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-04T04:04:00Z"
-discovered_at: "2026-08-04T04:14:40Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-04T04:04:00Z'
+discovered_at: '2026-08-04T04:14:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

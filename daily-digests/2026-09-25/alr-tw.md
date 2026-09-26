@@ -1,19 +1,34 @@
 ---
-title: "LucasYeh702/alr-tw"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "SQLite", "FastAPI", "TLR (Taiwan Legal RAG)", "Jinja2", "Pydantic", "Ruff", "MyPy", "Pytest"]
+title: LucasYeh702/alr-tw
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- SQLite
+- FastAPI
+- TLR (Taiwan Legal RAG)
+- Jinja2
+- Pydantic
+- Ruff
+- MyPy
+- Pytest
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["Legal RAG", "MCP Harness", "Taiwan Law", "Deterministic Validation", "Agentic Workflow"]
-source: "https://github.com/LucasYeh702/alr-tw"
+deployment_complexity: Medium
+tags:
+- Legal RAG
+- MCP Harness
+- Taiwan Law
+- Deterministic Validation
+- Agentic Workflow
+source: https://github.com/LucasYeh702/alr-tw
 stars: 5
-language: "Python"
-last_updated: "2026-07-19T10:21:23Z"
-discovered_at: "2026-07-19T10:26:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T10:21:23Z'
+discovered_at: '2026-07-19T10:26:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "ahmdd4vd/OpenClip"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python 3.12+", "LangGraph (StateGraph)", "LangChain", "FastAPI", "Celery", "Redis", "PostgreSQL", "MoviePy", "FFmpeg", "edge-tts", "Textual", "OpenTelemetry", "Prometheus", "Langfuse"]
+title: ahmdd4vd/OpenClip
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python 3.12+
+- LangGraph (StateGraph)
+- LangChain
+- FastAPI
+- Celery
+- Redis
+- PostgreSQL
+- MoviePy
+- FFmpeg
+- edge-tts
+- Textual
+- OpenTelemetry
+- Prometheus
+- Langfuse
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["AI video production", "multi-agent orchestration", "terminal UI", "cross-platform publishing", "conversational AI"]
-source: "https://github.com/ahmdd4vd/OpenClip"
+deployment_complexity: Medium
+tags:
+- AI video production
+- multi-agent orchestration
+- terminal UI
+- cross-platform publishing
+- conversational AI
+source: https://github.com/ahmdd4vd/OpenClip
 stars: 1
-language: "Python"
-last_updated: "2026-08-02T17:53:20Z"
-discovered_at: "2026-08-02T18:02:29Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-02T17:53:20Z'
+discovered_at: '2026-08-02T18:02:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

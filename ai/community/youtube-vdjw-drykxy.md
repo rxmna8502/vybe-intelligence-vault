@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:vDjW_dRyKXY
 first_seen: '2026-09-25T01:35:06.617828+05:30'
 last_seen: '2026-09-25T04:48:54.483151+05:30'
 last_checked: '2026-09-25T04:48:54.483151+05:30'
 health_score: 100
 ---
+
 
 # Rails World 2026 Opening Keynote [video]
 

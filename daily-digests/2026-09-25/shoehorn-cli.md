@@ -1,19 +1,29 @@
 ---
-title: "shoehorn-dev/shoehorn-cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "TUI (Terminal User Interface)", "GitOps", "REST API", "CLI"]
+title: shoehorn-dev/shoehorn-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Go
+- TUI (Terminal User Interface)
+- GitOps
+- REST API
+- CLI
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["CLI", "Developer Platform", "GitOps", "Forge Workflows", "Governance"]
-source: "https://github.com/shoehorn-dev/shoehorn-cli"
+deployment_complexity: Low
+tags:
+- CLI
+- Developer Platform
+- GitOps
+- Forge Workflows
+- Governance
+source: https://github.com/shoehorn-dev/shoehorn-cli
 stars: 0
-language: "Go"
-last_updated: "2026-08-07T23:33:12Z"
-discovered_at: "2026-08-07T23:36:21Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-07T23:33:12Z'
+discovered_at: '2026-08-07T23:36:21Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

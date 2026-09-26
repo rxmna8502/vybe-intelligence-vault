@@ -1,19 +1,39 @@
 ---
-title: "ChamathDilshanC/backend-DocMind-AI"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: [".NET 8", "ASP.NET Core", "Clean Architecture", "CQRS (MediatR)", "Semantic Kernel", "Microsoft OpenAI / GitHub Models", "Qdrant (Vector DB)", "PostgreSQL", "Redis", "SignalR", "Hangfire", "Docker", "JWT Authentication", "FluentValidation", "Serilog"]
+title: ChamathDilshanC/backend-DocMind-AI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- .NET 8
+- ASP.NET Core
+- Clean Architecture
+- CQRS (MediatR)
+- Semantic Kernel
+- Microsoft OpenAI / GitHub Models
+- Qdrant (Vector DB)
+- PostgreSQL
+- Redis
+- SignalR
+- Hangfire
+- Docker
+- JWT Authentication
+- FluentValidation
+- Serilog
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["RAG", "Document Processing", "Semantic Kernel", "Vector Search", "AI Orchestration"]
-source: "https://github.com/ChamathDilshanC/backend-DocMind-AI"
+deployment_complexity: Medium
+tags:
+- RAG
+- Document Processing
+- Semantic Kernel
+- Vector Search
+- AI Orchestration
+source: https://github.com/ChamathDilshanC/backend-DocMind-AI
 stars: 0
-language: "C#"
-last_updated: "2026-08-07T15:50:44Z"
-discovered_at: "2026-08-07T16:02:47Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-07T15:50:44Z'
+discovered_at: '2026-08-07T16:02:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

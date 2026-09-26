@@ -1,19 +1,32 @@
 ---
-title: "kud/mcp-youtube"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Google YouTube Data API v3", "OAuth 2.0", "Zod", "Vitest", "npm"]
+title: kud/mcp-youtube
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- Google YouTube Data API v3
+- OAuth 2.0
+- Zod
+- Vitest
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["YouTube API", "MCP server", "media management", "OAuth integration", "quota-aware"]
-source: "https://github.com/kud/mcp-youtube"
+deployment_complexity: Medium
+tags:
+- YouTube API
+- MCP server
+- media management
+- OAuth integration
+- quota-aware
+source: https://github.com/kud/mcp-youtube
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-11T23:38:45Z"
-discovered_at: "2026-07-11T23:54:03Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-11T23:38:45Z'
+discovered_at: '2026-07-11T23:54:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

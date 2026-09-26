@@ -1,19 +1,29 @@
 ---
-title: "cel-expr/skills"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "CEL (Common Expression Language)", "MCP (Model Context Protocol)", "JSON", "Protobuf"]
+title: cel-expr/skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Go
+- CEL (Common Expression Language)
+- MCP (Model Context Protocol)
+- JSON
+- Protobuf
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["CEL", "policy authoring", "MCP server", "debugging", "expression language"]
-source: "https://github.com/cel-expr/skills"
+deployment_complexity: Medium
+tags:
+- CEL
+- policy authoring
+- MCP server
+- debugging
+- expression language
+source: https://github.com/cel-expr/skills
 stars: 2
-language: "Go"
-last_updated: "2026-08-04T19:25:05Z"
-discovered_at: "2026-08-04T19:33:23Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-04T19:25:05Z'
+discovered_at: '2026-08-04T19:33:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

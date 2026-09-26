@@ -1,19 +1,37 @@
 ---
-title: "GCTRL-TECH/platform"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Python", "React", "Neo4j", "Qdrant", "PostgreSQL", "Redis", "Ollama", "Docker Compose", "Axum", "FastAPI", "GLiNER", "Qwen"]
+title: GCTRL-TECH/platform
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Rust
+- Python
+- React
+- Neo4j
+- Qdrant
+- PostgreSQL
+- Redis
+- Ollama
+- Docker Compose
+- Axum
+- FastAPI
+- GLiNER
+- Qwen
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge graph", "self-hosted", "enterprise RAG", "access control", "local inference"]
-source: "https://github.com/GCTRL-TECH/platform"
+deployment_complexity: Medium
+tags:
+- knowledge graph
+- self-hosted
+- enterprise RAG
+- access control
+- local inference
+source: https://github.com/GCTRL-TECH/platform
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-12T11:44:16Z"
-discovered_at: "2026-07-12T11:58:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T11:44:16Z'
+discovered_at: '2026-07-12T11:58:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

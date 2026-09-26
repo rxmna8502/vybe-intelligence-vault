@@ -1,19 +1,34 @@
 ---
-title: "mehmetkirkoca/budget-manager"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["React", "Fastify", "Node.js", "MongoDB", "Docker", "Nginx", "Tailwind CSS", "Vite", "Mongoose", "MCP Server"]
+title: mehmetkirkoca/budget-manager
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- React
+- Fastify
+- Node.js
+- MongoDB
+- Docker
+- Nginx
+- Tailwind CSS
+- Vite
+- Mongoose
+- MCP Server
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["personal finance", "budget tracking", "full-stack", "Docker deployment", "MCP integration"]
-source: "https://github.com/mehmetkirkoca/budget-manager"
+deployment_complexity: Medium
+tags:
+- personal finance
+- budget tracking
+- full-stack
+- Docker deployment
+- MCP integration
+source: https://github.com/mehmetkirkoca/budget-manager
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-08T04:55:58Z"
-discovered_at: "2026-08-08T04:59:00Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T04:55:58Z'
+discovered_at: '2026-08-08T04:59:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

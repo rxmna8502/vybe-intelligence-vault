@@ -1,19 +1,28 @@
 ---
-title: "Amalleheavy908/mcprobe"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "CLI", "SARIF", "Windows"]
+title: Amalleheavy908/mcprobe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Go
+- CLI
+- SARIF
+- Windows
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["MCP security", "prompt injection", "tool shadowing", "audit", "DevSecOps"]
-source: "https://github.com/Amalleheavy908/mcprobe"
+deployment_complexity: Low
+tags:
+- MCP security
+- prompt injection
+- tool shadowing
+- audit
+- DevSecOps
+source: https://github.com/Amalleheavy908/mcprobe
 stars: 0
-language: "Go"
-last_updated: "2026-07-19T07:15:30Z"
-discovered_at: "2026-07-19T07:29:49Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-19T07:15:30Z'
+discovered_at: '2026-07-19T07:29:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

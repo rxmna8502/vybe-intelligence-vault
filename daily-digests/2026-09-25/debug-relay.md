@@ -1,19 +1,32 @@
 ---
-title: "Notryag/debug-relay"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "PostgreSQL", "OpenTelemetry", "REST API", "CLI", "Docker", "Kubernetes", "Webhook"]
+title: Notryag/debug-relay
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- PostgreSQL
+- OpenTelemetry
+- REST API
+- CLI
+- Docker
+- Kubernetes
+- Webhook
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["error monitoring", "AI agent integration", "issue localization", "developer tooling", "automated debugging"]
-source: "https://github.com/Notryag/debug-relay"
+deployment_complexity: Medium
+tags:
+- error monitoring
+- AI agent integration
+- issue localization
+- developer tooling
+- automated debugging
+source: https://github.com/Notryag/debug-relay
 stars: 0
-language: "Python"
-last_updated: "2026-07-14T10:06:08Z"
-discovered_at: "2026-07-14T10:07:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-14T10:06:08Z'
+discovered_at: '2026-07-14T10:07:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

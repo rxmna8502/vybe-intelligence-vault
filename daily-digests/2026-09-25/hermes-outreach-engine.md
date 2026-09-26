@@ -1,19 +1,33 @@
 ---
-title: "dank0296/hermes-outreach-engine"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Hermes Agent", "xAI Grok", "OpenRouter", "SMTP", "Twilio", "Bland/Vapi (Voice)", "Telegram", "MIT License"]
+title: dank0296/hermes-outreach-engine
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Hermes Agent
+- xAI Grok
+- OpenRouter
+- SMTP
+- Twilio
+- Bland/Vapi (Voice)
+- Telegram
+- MIT License
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["lead scoring", "multi-channel outreach", "autonomous agent", "dry-run mode", "handoff automation"]
-source: "https://github.com/dank0296/hermes-outreach-engine"
+deployment_complexity: Medium
+tags:
+- lead scoring
+- multi-channel outreach
+- autonomous agent
+- dry-run mode
+- handoff automation
+source: https://github.com/dank0296/hermes-outreach-engine
 stars: 0
-language: "Python"
-last_updated: "2026-07-16T14:54:03Z"
-discovered_at: "2026-07-16T15:00:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-16T14:54:03Z'
+discovered_at: '2026-07-16T15:00:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

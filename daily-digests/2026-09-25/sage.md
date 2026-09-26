@@ -1,19 +1,32 @@
 ---
-title: "shariqazeem/sage"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Starknet", "Cairo (smart contracts)", "TypeScript", "GOAT Network", "STRK20 token", "Poseidon hash function", "Telegram Bot API", "Web3.js / Starknet.js"]
+title: shariqazeem/sage
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Starknet
+- Cairo (smart contracts)
+- TypeScript
+- GOAT Network
+- STRK20 token
+- Poseidon hash function
+- Telegram Bot API
+- Web3.js / Starknet.js
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "High"
-tags: ["autonomous payments", "AI agent", "on-chain budget", "privacy-preserving payouts", "smart contract escrow"]
-source: "https://github.com/shariqazeem/sage"
+deployment_complexity: High
+tags:
+- autonomous payments
+- AI agent
+- on-chain budget
+- privacy-preserving payouts
+- smart contract escrow
+source: https://github.com/shariqazeem/sage
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:50:01Z"
-discovered_at: "2026-09-01T02:50:56Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T02:50:01Z'
+discovered_at: '2026-09-01T02:50:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

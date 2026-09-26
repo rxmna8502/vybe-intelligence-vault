@@ -1,19 +1,33 @@
 ---
-title: "SpekoAI/mcp-dev-calls"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Express", "MCP Framework", "Google Places API", "Twilio", "HMAC-SHA256", "Claude Code", "npm"]
+title: SpekoAI/mcp-dev-calls
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- Express
+- MCP Framework
+- Google Places API
+- Twilio
+- HMAC-SHA256
+- Claude Code
+- npm
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["AI calling", "MCP integration", "real-time telephony", "safety rails", "business automation"]
-source: "https://github.com/SpekoAI/mcp-dev-calls"
+deployment_complexity: Medium
+tags:
+- AI calling
+- MCP integration
+- real-time telephony
+- safety rails
+- business automation
+source: https://github.com/SpekoAI/mcp-dev-calls
 stars: 1
-language: "TypeScript"
-last_updated: "2026-08-01T21:51:59Z"
-discovered_at: "2026-08-01T21:55:08Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-01T21:51:59Z'
+discovered_at: '2026-08-01T21:55:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

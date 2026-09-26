@@ -1,19 +1,33 @@
 ---
-title: "rajeshkawali/Springboot-ai-pr-reviewer"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Java", "Spring Boot", "Spring AI", "Maven", "GitHub API", "Anthropic Claude API", "SMTP", "HTML Email", "GitHub Webhooks"]
+title: rajeshkawali/Springboot-ai-pr-reviewer
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Java
+- Spring Boot
+- Spring AI
+- Maven
+- GitHub API
+- Anthropic Claude API
+- SMTP
+- HTML Email
+- GitHub Webhooks
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["PR review automation", "GitHub integration", "AI-powered code review", "email reporting", "Spring Boot"]
-source: "https://github.com/rajeshkawali/Springboot-ai-pr-reviewer"
+deployment_complexity: Medium
+tags:
+- PR review automation
+- GitHub integration
+- AI-powered code review
+- email reporting
+- Spring Boot
+source: https://github.com/rajeshkawali/Springboot-ai-pr-reviewer
 stars: 0
-language: "Java"
-last_updated: "2026-08-07T06:07:22Z"
-discovered_at: "2026-08-07T06:12:37Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T06:07:22Z'
+discovered_at: '2026-08-07T06:12:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

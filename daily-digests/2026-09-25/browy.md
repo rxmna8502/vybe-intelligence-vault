@@ -1,19 +1,32 @@
 ---
-title: "BrowyHQ/browy"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Chromium Extension API", "Chrome DevTools Protocol", "GitHub Copilot SDK", "Native Messaging Host", "React", "Vitest"]
+title: BrowyHQ/browy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- Chromium Extension API
+- Chrome DevTools Protocol
+- GitHub Copilot SDK
+- Native Messaging Host
+- React
+- Vitest
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["browser automation", "AI agent", "GitHub Copilot integration", "DevTools CLI", "accessibility tree"]
-source: "https://github.com/BrowyHQ/browy"
+deployment_complexity: Medium
+tags:
+- browser automation
+- AI agent
+- GitHub Copilot integration
+- DevTools CLI
+- accessibility tree
+source: https://github.com/BrowyHQ/browy
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-10T16:59:33Z"
-discovered_at: "2026-08-10T17:05:53Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T16:59:33Z'
+discovered_at: '2026-08-10T17:05:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

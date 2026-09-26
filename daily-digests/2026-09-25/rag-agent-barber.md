@@ -1,19 +1,29 @@
 ---
-title: "kamrankhanorakzai/Rag-Agent-Barber"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Autonomous AI Agent", "Natural Language Processing", "Node.js", "Web Framework (likely Express or similar)"]
+title: kamrankhanorakzai/Rag-Agent-Barber
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Autonomous AI Agent
+- Natural Language Processing
+- Node.js
+- Web Framework (likely Express or similar)
 quality_score: 4
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["autonomous agents", "customer service", "booking assistant", "grooming recommendations", "conversational AI"]
-source: "https://github.com/kamrankhanorakzai/Rag-Agent-Barber"
+deployment_complexity: Medium
+tags:
+- autonomous agents
+- customer service
+- booking assistant
+- grooming recommendations
+- conversational AI
+source: https://github.com/kamrankhanorakzai/Rag-Agent-Barber
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T18:44:32Z"
-discovered_at: "2026-08-10T19:02:30Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T18:44:32Z'
+discovered_at: '2026-08-10T19:02:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

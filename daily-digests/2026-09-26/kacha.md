@@ -1,19 +1,34 @@
 ---
-title: "colorcross/kacha"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "FFmpeg", "Python", "Pillow", "fontTools", "OTIO", "FCPXML", "HyperFrames", "Remotion"]
+title: colorcross/kacha
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- JavaScript
+- Node.js
+- FFmpeg
+- Python
+- Pillow
+- fontTools
+- OTIO
+- FCPXML
+- HyperFrames
+- Remotion
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["\u89c6\u9891\u5de5\u4f5c\u6d41", "AI\u8f85\u52a9\u526a\u8f91", "\u672c\u5730\u5316\u751f\u4ea7", "\u53ef\u9a8c\u8bc1\u8d28\u91cf", "\u589e\u91cf\u8fd4\u5de5"]
-source: "https://github.com/colorcross/kacha"
+deployment_complexity: Medium
+tags:
+- 视频工作流
+- AI辅助剪辑
+- 本地化生产
+- 可验证质量
+- 增量返工
+source: https://github.com/colorcross/kacha
 stars: 4
-language: "JavaScript"
-last_updated: "2026-08-09T13:51:12Z"
-discovered_at: "2026-08-09T13:53:49Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T13:51:12Z'
+discovered_at: '2026-08-09T13:53:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,33 @@
 ---
-title: "YHC-Cheng/market-intelligence-agent"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Jinja2", "trafilatura", "Gemini API", "OpenAI API", "JSON", "Markdown", "pytest"]
+title: YHC-Cheng/market-intelligence-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- FastAPI
+- Jinja2
+- trafilatura
+- Gemini API
+- OpenAI API
+- JSON
+- Markdown
+- pytest
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["market intelligence", "automation", "RSS parsing", "LLM summarization", "report generation"]
-source: "https://github.com/YHC-Cheng/market-intelligence-agent"
+deployment_complexity: Medium
+tags:
+- market intelligence
+- automation
+- RSS parsing
+- LLM summarization
+- report generation
+source: https://github.com/YHC-Cheng/market-intelligence-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-12T18:58:17Z"
-discovered_at: "2026-07-12T19:02:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-12T18:58:17Z'
+discovered_at: '2026-07-12T19:02:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

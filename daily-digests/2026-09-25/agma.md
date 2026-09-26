@@ -1,19 +1,35 @@
 ---
-title: "AGelysia/AGMA"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Java", "Node.js", "PaperMC", "Fabric", "Forge", "Gradle", "SQLite", "OpenAI API", "Anthropic API", "DeepSeek API", "Gemini API"]
+title: AGelysia/AGMA
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Java
+- Node.js
+- PaperMC
+- Fabric
+- Forge
+- Gradle
+- SQLite
+- OpenAI API
+- Anthropic API
+- DeepSeek API
+- Gemini API
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["Minecraft AI", "Secure agent framework", "Paper plugin", "Fabric/Forge mod", "Local LLM integration"]
-source: "https://github.com/AGelysia/AGMA"
+deployment_complexity: Medium
+tags:
+- Minecraft AI
+- Secure agent framework
+- Paper plugin
+- Fabric/Forge mod
+- Local LLM integration
+source: https://github.com/AGelysia/AGMA
 stars: 0
-language: "Java"
-last_updated: "2026-07-18T11:00:59Z"
-discovered_at: "2026-07-18T11:02:01Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-07-18T11:00:59Z'
+discovered_at: '2026-07-18T11:02:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

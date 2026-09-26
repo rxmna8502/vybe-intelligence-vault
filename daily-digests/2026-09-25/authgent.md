@@ -1,19 +1,36 @@
 ---
-title: "authgent/authgent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "FastAPI", "Express", "OAuth 2.1", "PKCE", "DPoP", "JWT", "SQLite", "PostgreSQL", "Docker", "GitHub Actions"]
+title: authgent/authgent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- TypeScript
+- FastAPI
+- Express
+- OAuth 2.1
+- PKCE
+- DPoP
+- JWT
+- SQLite
+- PostgreSQL
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["OAuth compliance", "MCP authorization", "PKCE scanner", "IETF RFC validation", "security auditing"]
-source: "https://github.com/authgent/authgent"
+deployment_complexity: Medium
+tags:
+- OAuth compliance
+- MCP authorization
+- PKCE scanner
+- IETF RFC validation
+- security auditing
+source: https://github.com/authgent/authgent
 stars: 4
-language: "Python"
-last_updated: "2026-08-08T06:50:53Z"
-discovered_at: "2026-08-08T06:52:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T06:50:53Z'
+discovered_at: '2026-08-08T06:52:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

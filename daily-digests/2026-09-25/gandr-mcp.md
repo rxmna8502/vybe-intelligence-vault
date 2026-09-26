@@ -1,19 +1,28 @@
 ---
-title: "Gandr-AI/gandr-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "REST API", "Text-to-Speech"]
+title: Gandr-AI/gandr-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- REST API
+- Text-to-Speech
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["text-to-speech", "MCP server", "voice synthesis", "agent integration", "API"]
-source: "https://github.com/Gandr-AI/gandr-mcp"
+deployment_complexity: Low
+tags:
+- text-to-speech
+- MCP server
+- voice synthesis
+- agent integration
+- API
+source: https://github.com/Gandr-AI/gandr-mcp
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T01:18:28Z"
-discovered_at: "2026-08-08T01:26:25Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T01:18:28Z'
+discovered_at: '2026-08-08T01:26:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

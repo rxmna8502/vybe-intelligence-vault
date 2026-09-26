@@ -1,19 +1,29 @@
 ---
-title: "akutishevsky/monobank-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "REST API", "npm"]
+title: akutishevsky/monobank-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- MCP (Model Context Protocol)
+- REST API
+- npm
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["MCP server", "Monobank API", "financial data", "currency rates", "transaction statements"]
-source: "https://github.com/akutishevsky/monobank-mcp-server"
+deployment_complexity: Low
+tags:
+- MCP server
+- Monobank API
+- financial data
+- currency rates
+- transaction statements
+source: https://github.com/akutishevsky/monobank-mcp-server
 stars: 6
-language: "TypeScript"
-last_updated: "2026-08-02T08:12:02Z"
-discovered_at: "2026-08-02T08:23:02Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T08:12:02Z'
+discovered_at: '2026-08-02T08:23:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

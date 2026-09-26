@@ -1,19 +1,34 @@
 ---
-title: "flagdizero/jenny-android-ai-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Android (Java/Kotlin)", "CPython (embedded)", "SQLite", "Markdown", "Ollama", "LM Studio", "Telegram API", "Bing Search API", "AGPL-3.0"]
+title: flagdizero/jenny-android-ai-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Android (Java/Kotlin)
+- CPython (embedded)
+- SQLite
+- Markdown
+- Ollama
+- LM Studio
+- Telegram API
+- Bing Search API
+- AGPL-3.0
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first AI", "Android agent", "on-device LLM", "autonomous scheduling", "mini-app generation"]
-source: "https://github.com/flagdizero/jenny-android-ai-agent"
+deployment_complexity: Medium
+tags:
+- local-first AI
+- Android agent
+- on-device LLM
+- autonomous scheduling
+- mini-app generation
+source: https://github.com/flagdizero/jenny-android-ai-agent
 stars: 73
-language: "Python"
-last_updated: "2026-09-02T19:07:49Z"
-discovered_at: "2026-09-02T19:11:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T19:07:49Z'
+discovered_at: '2026-09-02T19:11:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

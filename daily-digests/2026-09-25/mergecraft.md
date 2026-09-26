@@ -1,19 +1,32 @@
 ---
-title: "alexhawat/mergeCraft"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "GitHub Actions", "GitHub CLI", "Claude API", "OpenAI API", "Google Gemini API", "YAML", "uv (Python package manager)"]
+title: alexhawat/mergeCraft
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- GitHub Actions
+- GitHub CLI
+- Claude API
+- OpenAI API
+- Google Gemini API
+- YAML
+- uv (Python package manager)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["PR automation", "AI-powered review", "BYOK", "GitHub Action", "code review"]
-source: "https://github.com/alexhawat/mergeCraft"
+deployment_complexity: Medium
+tags:
+- PR automation
+- AI-powered review
+- BYOK
+- GitHub Action
+- code review
+source: https://github.com/alexhawat/mergeCraft
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T09:32:54Z"
-discovered_at: "2026-08-06T09:42:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T09:32:54Z'
+discovered_at: '2026-08-06T09:42:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

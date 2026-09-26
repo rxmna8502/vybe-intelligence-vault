@@ -1,19 +1,29 @@
 ---
-title: "itkdm/aiagentguide"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["VitePress", "Markdown", "JavaScript/TypeScript", "Node.js", "GitHub Actions"]
+title: itkdm/aiagentguide
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- VitePress
+- Markdown
+- JavaScript/TypeScript
+- Node.js
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["AI Agent Guide", "Chinese Developer Resources", "LLM Applications", "RAG", "Agent Frameworks"]
-source: "https://github.com/itkdm/aiagentguide"
+deployment_complexity: Low
+tags:
+- AI Agent Guide
+- Chinese Developer Resources
+- LLM Applications
+- RAG
+- Agent Frameworks
+source: https://github.com/itkdm/aiagentguide
 stars: 1
-language: "Python"
-last_updated: "2026-07-18T09:15:35Z"
-discovered_at: "2026-07-18T09:23:54Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T09:15:35Z'
+discovered_at: '2026-07-18T09:23:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

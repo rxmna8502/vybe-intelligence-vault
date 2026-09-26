@@ -1,19 +1,32 @@
 ---
-title: "mldsveda/PyScrappy"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Playwright", "FastAPI", "MCP (Model Context Protocol)", "ScraperAPI", "ScrapeOps", "Type hints", "PyPI"]
+title: mldsveda/PyScrappy
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Python
+- Playwright
+- FastAPI
+- MCP (Model Context Protocol)
+- ScraperAPI
+- ScrapeOps
+- Type hints
+- PyPI
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["web scraping", "MCP server", "LLM integration", "structured data extraction", "AI agent tools"]
-source: "https://github.com/mldsveda/PyScrappy"
+deployment_complexity: Medium
+tags:
+- web scraping
+- MCP server
+- LLM integration
+- structured data extraction
+- AI agent tools
+source: https://github.com/mldsveda/PyScrappy
 stars: 94
-language: "Python"
-last_updated: "2026-08-01T20:45:08Z"
-discovered_at: "2026-08-01T20:51:32Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T20:45:08Z'
+discovered_at: '2026-08-01T20:51:32Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

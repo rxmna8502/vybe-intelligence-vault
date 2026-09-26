@@ -1,19 +1,35 @@
 ---
-title: "thecoachakpan/ikor-apiconf-2026"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Tauri v2", "React 19", "TypeScript", "Tailwind 4", "Rust", "Groq Whisper Large V3 Turbo", "OpenAI GPT-OSS-120B", "Supabase", "Monnify Sandbox API", "Node.js", "Win32 API"]
+title: thecoachakpan/ikor-apiconf-2026
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Tauri v2
+- React 19
+- TypeScript
+- Tailwind 4
+- Rust
+- Groq Whisper Large V3 Turbo
+- OpenAI GPT-OSS-120B
+- Supabase
+- Monnify Sandbox API
+- Node.js
+- Win32 API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["voice-to-text", "financial automation", "desktop agent", "AI productivity", "MCP integration"]
-source: "https://github.com/thecoachakpan/ikor-apiconf-2026"
+deployment_complexity: Medium
+tags:
+- voice-to-text
+- financial automation
+- desktop agent
+- AI productivity
+- MCP integration
+source: https://github.com/thecoachakpan/ikor-apiconf-2026
 stars: 1
-language: "TypeScript"
-last_updated: "2026-07-20T17:58:55Z"
-discovered_at: "2026-07-20T18:00:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-20T17:58:55Z'
+discovered_at: '2026-07-20T18:00:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "OrygnsCode/Omnicord"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Discord.js", "Model Context Protocol (MCP)", "Docker", "REST API", "WebSocket (Gateway)", "Jest (Testing)"]
+title: OrygnsCode/Omnicord
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- TypeScript
+- Node.js
+- Discord.js
+- Model Context Protocol (MCP)
+- Docker
+- REST API
+- WebSocket (Gateway)
+- Jest (Testing)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Discord automation", "AI agent tools", "MCP server", "moderation", "server building"]
-source: "https://github.com/OrygnsCode/Omnicord"
+deployment_complexity: Medium
+tags:
+- Discord automation
+- AI agent tools
+- MCP server
+- moderation
+- server building
+source: https://github.com/OrygnsCode/Omnicord
 stars: 3
-language: "TypeScript"
-last_updated: "2026-07-12T14:45:58Z"
-discovered_at: "2026-07-12T14:54:54Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T14:45:58Z'
+discovered_at: '2026-07-12T14:54:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

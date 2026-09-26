@@ -1,19 +1,29 @@
 ---
-title: "edinetdb/ai-berkshire-jp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "Shell", "EDINET DB MCP", "API Integration", "Natural Language Processing"]
+title: edinetdb/ai-berkshire-jp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Claude Code
+- Shell
+- EDINET DB MCP
+- API Integration
+- Natural Language Processing
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Japanese stock analysis", "EDINET DB", "Claude Code skills", "financial research", "investment automation"]
-source: "https://github.com/edinetdb/ai-berkshire-jp"
+deployment_complexity: Medium
+tags:
+- Japanese stock analysis
+- EDINET DB
+- Claude Code skills
+- financial research
+- investment automation
+source: https://github.com/edinetdb/ai-berkshire-jp
 stars: 0
-language: "Shell"
-last_updated: "2026-07-11T02:18:38Z"
-discovered_at: "2026-07-11T02:27:41Z"
-evaluated_by: "mistral-small-latest"
+language: Shell
+last_updated: '2026-07-11T02:18:38Z'
+discovered_at: '2026-07-11T02:27:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

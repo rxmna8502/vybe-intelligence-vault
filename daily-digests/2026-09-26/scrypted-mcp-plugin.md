@@ -1,19 +1,32 @@
 ---
-title: "sv-tools/scrypted-mcp-plugin"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Scrypted", "OAuth 2.1", "JWT", "EC P-256", "Streamable HTTP", "REST API"]
+title: sv-tools/scrypted-mcp-plugin
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Scrypted
+- OAuth 2.1
+- JWT
+- EC P-256
+- Streamable HTTP
+- REST API
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP", "Scrypted", "AI integration", "device management", "OAuth"]
-source: "https://github.com/sv-tools/scrypted-mcp-plugin"
+deployment_complexity: Medium
+tags:
+- MCP
+- Scrypted
+- AI integration
+- device management
+- OAuth
+source: https://github.com/sv-tools/scrypted-mcp-plugin
 stars: 5
-language: "TypeScript"
-last_updated: "2026-08-09T01:18:55Z"
-discovered_at: "2026-08-09T01:34:40Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-09T01:18:55Z'
+discovered_at: '2026-08-09T01:34:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

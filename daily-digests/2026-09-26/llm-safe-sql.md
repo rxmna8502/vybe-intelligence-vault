@@ -1,19 +1,31 @@
 ---
-title: "hyuga611/llm-safe-sql"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "PostgreSQL", "MySQL", "npm", "MCP (Model Context Protocol)"]
+title: hyuga611/llm-safe-sql
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- SQLite
+- PostgreSQL
+- MySQL
+- npm
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["SQL safety", "transaction rollback", "human-in-the-loop", "database auditing", "LLM tooling"]
-source: "https://github.com/hyuga611/llm-safe-sql"
+deployment_complexity: Medium
+tags:
+- SQL safety
+- transaction rollback
+- human-in-the-loop
+- database auditing
+- LLM tooling
+source: https://github.com/hyuga611/llm-safe-sql
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-10T01:30:53Z"
-discovered_at: "2026-08-10T01:35:43Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-10T01:30:53Z'
+discovered_at: '2026-08-10T01:35:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

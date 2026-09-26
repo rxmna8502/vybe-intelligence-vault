@@ -1,19 +1,31 @@
 ---
-title: "a1964378/geo-mcp-servers"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "PostGIS", "STAC", "GIS APIs (Google Maps, Bing Maps, Mapbox)", "Electron (implied for desktop app)", "Weather APIs"]
+title: a1964378/geo-mcp-servers
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- PostGIS
+- STAC
+- GIS APIs (Google Maps, Bing Maps, Mapbox)
+- Electron (implied for desktop app)
+- Weather APIs
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: "Low"
-tags: ["geospatial", "GIS", "MCP", "desktop application", "earth observation"]
-source: "https://github.com/a1964378/geo-mcp-servers"
+deployment_complexity: Low
+tags:
+- geospatial
+- GIS
+- MCP
+- desktop application
+- earth observation
+source: https://github.com/a1964378/geo-mcp-servers
 stars: 0
-language: "Python"
-last_updated: "2026-08-06T06:29:46Z"
-discovered_at: "2026-08-06T06:34:00Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-06T06:29:46Z'
+discovered_at: '2026-08-06T06:34:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

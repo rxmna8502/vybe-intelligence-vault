@@ -1,19 +1,36 @@
 ---
-title: "meltforce/FreeReps"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "React 19", "Vite", "Tailwind CSS 4", "uPlot", "Recharts", "PostgreSQL", "TimescaleDB", "Tailscale", "Swift", "YAML", "Docker Compose"]
+title: meltforce/FreeReps
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-25
+tech_stack:
+- Go
+- React 19
+- Vite
+- Tailwind CSS 4
+- uPlot
+- Recharts
+- PostgreSQL
+- TimescaleDB
+- Tailscale
+- Swift
+- YAML
+- Docker Compose
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["health data", "self-hosted", "MCP server", "time-series database", "LLM integration"]
-source: "https://github.com/meltforce/FreeReps"
+deployment_complexity: Medium
+tags:
+- health data
+- self-hosted
+- MCP server
+- time-series database
+- LLM integration
+source: https://github.com/meltforce/FreeReps
 stars: 6
-language: "Go"
-last_updated: "2026-08-05T11:13:38Z"
-discovered_at: "2026-08-05T11:23:16Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-05T11:13:38Z'
+discovered_at: '2026-08-05T11:23:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
