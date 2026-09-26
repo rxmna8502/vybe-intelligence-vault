@@ -1,30 +1,19 @@
 ---
-title: acheAIsuiyimen/ache-life-to-comic
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- HTML/CSS
-- Node.js
-- Custom rendering engine
-- Visual verification tools
-- GitHub Actions (implied for CI/CD)
+title: "acheAIsuiyimen/ache-life-to-comic"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "HTML/CSS", "Node.js", "Custom rendering engine", "Visual verification tools", "GitHub Actions (implied for CI/CD)"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- content transformation
-- visual journaling
-- comic generation
-- personal documentation
-- multimedia storytelling
-source: https://github.com/acheAIsuiyimen/ache-life-to-comic
+deployment_complexity: "Medium"
+tags: ["content transformation", "visual journaling", "comic generation", "personal documentation", "multimedia storytelling"]
+source: "https://github.com/acheAIsuiyimen/ache-life-to-comic"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-02T13:48:27Z'
-discovered_at: '2026-08-02T13:49:10Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-02T13:48:27Z"
+discovered_at: "2026-08-02T13:49:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

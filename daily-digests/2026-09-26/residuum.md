@@ -1,32 +1,19 @@
 ---
-title: Grizzly-Endeavors/residuum
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Swift
-- WebAssembly
-- WebSocket
-- OpenTelemetry
-- Docker
-- React
-- TypeScript
+title: "Grizzly-Endeavors/residuum"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Swift", "WebAssembly", "WebSocket", "OpenTelemetry", "Docker", "React", "TypeScript"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- personal agents
-- sessionless
-- multi-agent coordination
-- context retention
-- automation
-source: https://github.com/Grizzly-Endeavors/residuum
+deployment_complexity: "Medium"
+tags: ["personal agents", "sessionless", "multi-agent coordination", "context retention", "automation"]
+source: "https://github.com/Grizzly-Endeavors/residuum"
 stars: 8
-language: Rust
-last_updated: '2026-07-20T17:54:28Z'
-discovered_at: '2026-07-20T18:00:44Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-20T17:54:28Z"
+discovered_at: "2026-07-20T18:00:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

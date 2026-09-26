@@ -1,31 +1,19 @@
 ---
-title: andyrids/venv-axi
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- TOON format
-- MCP (Model Context Protocol)
-- importlib
-- inspect
-- SQLite
-- CLI
+title: "andyrids/venv-axi"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "TOON format", "MCP (Model Context Protocol)", "importlib", "inspect", "SQLite", "CLI"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- venv introspection
-- symbol graph
-- agent tooling
-- TOON format
-- MCP server
-source: https://github.com/andyrids/venv-axi
+deployment_complexity: "Medium"
+tags: ["venv introspection", "symbol graph", "agent tooling", "TOON format", "MCP server"]
+source: "https://github.com/andyrids/venv-axi"
 stars: 0
-language: Python
-last_updated: '2026-08-09T01:28:07Z'
-discovered_at: '2026-08-09T01:35:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T01:28:07Z"
+discovered_at: "2026-08-09T01:35:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

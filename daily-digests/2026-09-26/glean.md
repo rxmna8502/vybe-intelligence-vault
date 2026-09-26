@@ -1,35 +1,19 @@
 ---
-title: jaypetez/glean
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- FastAPI
-- Docker
-- SQLite
-- LLM (Ollama, Anthropic, OpenAI)
-- YAML
-- SSE (Server-Sent Events)
-- REST API
-- GitHub Actions
-- Cosign (for signing)
-- nfpm (for packaging)
+title: "jaypetez/glean"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Docker", "SQLite", "LLM (Ollama, Anthropic, OpenAI)", "YAML", "SSE (Server-Sent Events)", "REST API", "GitHub Actions", "Cosign (for signing)", "nfpm (for packaging)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- personal agent
-- LLM pipeline
-- self-hosted
-- multi-sink
-- pluggable architecture
-source: https://github.com/jaypetez/glean
+deployment_complexity: "Medium"
+tags: ["personal agent", "LLM pipeline", "self-hosted", "multi-sink", "pluggable architecture"]
+source: "https://github.com/jaypetez/glean"
 stars: 7
-language: Python
-last_updated: '2026-09-03T21:58:00Z'
-discovered_at: '2026-09-03T22:07:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-03T21:58:00Z"
+discovered_at: "2026-09-03T22:07:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

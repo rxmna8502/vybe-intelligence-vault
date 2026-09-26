@@ -1,33 +1,19 @@
 ---
-title: jjjkkll157/agentgate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- FastAPI
-- asyncio
-- YAML
-- Prometheus
-- HTTP
-- Circuit Breaker
-- Rate Limiting
-- Caching
+title: "jjjkkll157/agentgate"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "asyncio", "YAML", "Prometheus", "HTTP", "Circuit Breaker", "Rate Limiting", "Caching"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- AI agent reliability
-- HTTP proxy
-- circuit breaker
-- rate limiting
-- local development
-source: https://github.com/jjjkkll157/agentgate
+deployment_complexity: "Low"
+tags: ["AI agent reliability", "HTTP proxy", "circuit breaker", "rate limiting", "local development"]
+source: "https://github.com/jjjkkll157/agentgate"
 stars: 1
-language: Python
-last_updated: '2026-07-12T11:50:20Z'
-discovered_at: '2026-07-12T11:58:19Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T11:50:20Z"
+discovered_at: "2026-07-12T11:58:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

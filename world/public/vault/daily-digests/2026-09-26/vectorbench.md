@@ -1,30 +1,19 @@
 ---
-title: SitanshuA091/VectorBench
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Python
-- FAISS
-- Sentence Transformers
-- BM25
-- Reciprocal Rank Fusion
-- Hugging Face Datasets
+title: "SitanshuA091/VectorBench"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FAISS", "Sentence Transformers", "BM25", "Reciprocal Rank Fusion", "Hugging Face Datasets"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- vector search
-- benchmarking
-- FAISS
-- index comparison
-- RAG evaluation
-source: https://github.com/SitanshuA091/VectorBench
+deployment_complexity: "Medium"
+tags: ["vector search", "benchmarking", "FAISS", "index comparison", "RAG evaluation"]
+source: "https://github.com/SitanshuA091/VectorBench"
 stars: 0
-language: Python
-last_updated: '2026-08-08T21:47:03Z'
-discovered_at: '2026-08-08T22:32:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T21:47:03Z"
+discovered_at: "2026-08-08T22:32:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

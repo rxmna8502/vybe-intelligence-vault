@@ -1,29 +1,19 @@
 ---
-title: marianavieeira81-tech/RUI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- HTML
-- JavaScript
-- Supabase
-- n8n
-- WhatsApp API
+title: "marianavieeira81-tech/RUI"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["HTML", "JavaScript", "Supabase", "n8n", "WhatsApp API"]
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: Medium
-tags:
-- admin dashboard
-- WhatsApp integration
-- lead tracking
-- real-time data
-- internal tool
-source: https://github.com/marianavieeira81-tech/RUI
+deployment_complexity: "Medium"
+tags: ["admin dashboard", "WhatsApp integration", "lead tracking", "real-time data", "internal tool"]
+source: "https://github.com/marianavieeira81-tech/RUI"
 stars: 0
-language: HTML
-last_updated: '2026-08-01T20:49:58Z'
-discovered_at: '2026-08-01T20:51:00Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-01T20:49:58Z"
+discovered_at: "2026-08-01T20:51:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,38 +1,19 @@
 ---
-title: xi-zhao/OpenQuantum
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- TypeScript
-- Node.js
-- Electron
-- DeepSeek Harness
-- MCP (Model Context Protocol)
-- Qiskit
-- QPanda3
-- FieldQKit
-- MQT Bench
-- Stim
-- PyMatching
-- Docker
-- CI/CD (GitHub Actions)
+title: "xi-zhao/OpenQuantum"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "TypeScript", "Node.js", "Electron", "DeepSeek Harness", "MCP (Model Context Protocol)", "Qiskit", "QPanda3", "FieldQKit", "MQT Bench", "Stim", "PyMatching", "Docker", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- quantum computing
-- agent framework
-- MCP integration
-- quantum SDKs
-- scientific validation
-source: https://github.com/xi-zhao/OpenQuantum
+deployment_complexity: "Medium"
+tags: ["quantum computing", "agent framework", "MCP integration", "quantum SDKs", "scientific validation"]
+source: "https://github.com/xi-zhao/OpenQuantum"
 stars: 48
-language: JavaScript
-last_updated: '2026-08-30T23:21:47Z'
-discovered_at: '2026-09-01T09:07:17Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-30T23:21:47Z"
+discovered_at: "2026-09-01T09:07:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

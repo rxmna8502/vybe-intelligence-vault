@@ -1,40 +1,19 @@
 ---
-title: kfuras/notipo-app
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Fastify
-- TypeScript
-- Next.js
-- Prisma
-- PostgreSQL
-- Model Context Protocol (MCP)
-- WordPress REST API
-- Notion SDK
-- Docker
-- Traefik
-- Stripe
-- Resend
-- PostHog
-- Sharp
-- Tailwind CSS
-- shadcn/ui
+title: "kfuras/notipo-app"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Fastify", "TypeScript", "Next.js", "Prisma", "PostgreSQL", "Model Context Protocol (MCP)", "WordPress REST API", "Notion SDK", "Docker", "Traefik", "Stripe", "Resend", "PostHog", "Sharp", "Tailwind CSS", "shadcn/ui"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- WordPress integration
-- AI agent publishing
-- Markdown to WordPress
-- Notion sync
-- SEO automation
-source: https://github.com/kfuras/notipo-app
+deployment_complexity: "Medium"
+tags: ["WordPress integration", "AI agent publishing", "Markdown to WordPress", "Notion sync", "SEO automation"]
+source: "https://github.com/kfuras/notipo-app"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-09T14:30:02Z'
-discovered_at: '2026-08-09T14:37:54Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T14:30:02Z"
+discovered_at: "2026-08-09T14:37:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

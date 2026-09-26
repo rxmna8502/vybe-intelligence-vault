@@ -1,28 +1,19 @@
 ---
-title: gisaf22/weather-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- FastMCP
-- Open-Meteo API
-- Databricks
+title: "gisaf22/weather-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastMCP", "Open-Meteo API", "Databricks"]
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- weather
-- FastMCP
-- Databricks
-- agent-integration
-- real-time data
-source: https://github.com/gisaf22/weather-mcp
+deployment_complexity: "Low"
+tags: ["weather", "FastMCP", "Databricks", "agent-integration", "real-time data"]
+source: "https://github.com/gisaf22/weather-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-09T18:38:50Z'
-discovered_at: '2026-08-09T18:43:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T18:38:50Z"
+discovered_at: "2026-08-09T18:43:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

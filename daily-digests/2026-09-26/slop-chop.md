@@ -1,33 +1,19 @@
 ---
-title: dcadolph/slop-chop
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- LLM APIs (Anthropic, Ollama, etc.)
-- CLI
-- GitHub Actions
-- WASM (Node.js)
-- LSP (Language Server Protocol)
-- MCP (Model Context Protocol)
-- Browser Extensions
-- JSON Profiles
+title: "dcadolph/slop-chop"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "LLM APIs (Anthropic, Ollama, etc.)", "CLI", "GitHub Actions", "WASM (Node.js)", "LSP (Language Server Protocol)", "MCP (Model Context Protocol)", "Browser Extensions", "JSON Profiles"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI text sanitization
-- deterministic cleaning
-- LLM post-processing
-- writing style normalization
-- CI/CD integration
-source: https://github.com/dcadolph/slop-chop
+deployment_complexity: "Medium"
+tags: ["AI text sanitization", "deterministic cleaning", "LLM post-processing", "writing style normalization", "CI/CD integration"]
+source: "https://github.com/dcadolph/slop-chop"
 stars: 2
-language: Go
-last_updated: '2026-09-02T22:10:01Z'
-discovered_at: '2026-09-02T22:22:55Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-02T22:10:01Z"
+discovered_at: "2026-09-02T22:22:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

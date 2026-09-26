@@ -1,32 +1,19 @@
 ---
-title: thearchitect0x-glitch/ratchet
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Fastify
-- PostgreSQL
-- Docker
-- MCP (Model Context Protocol)
-- OpenAPI
-- Stripe (optional)
+title: "thearchitect0x-glitch/ratchet"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Fastify", "PostgreSQL", "Docker", "MCP (Model Context Protocol)", "OpenAPI", "Stripe (optional)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- effect gate
-- idempotency
-- AI agent safety
-- distributed systems
-- real-world actions
-source: https://github.com/thearchitect0x-glitch/ratchet
+deployment_complexity: "Medium"
+tags: ["effect gate", "idempotency", "AI agent safety", "distributed systems", "real-world actions"]
+source: "https://github.com/thearchitect0x-glitch/ratchet"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-03T08:24:08Z'
-discovered_at: '2026-09-03T08:38:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T08:24:08Z"
+discovered_at: "2026-09-03T08:38:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

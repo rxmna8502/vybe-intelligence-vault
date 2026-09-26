@@ -1,32 +1,19 @@
 ---
-title: ivan-magda/swift-claw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Swift 6.3
-- SQLite
-- Telegram Bot API
-- OpenAI-compatible LLM endpoints
-- AES-GCM encryption
-- Markdown
-- Concurrency
-- Virtualization (macOS 26)
+title: "ivan-magda/swift-claw"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Swift 6.3", "SQLite", "Telegram Bot API", "OpenAI-compatible LLM endpoints", "AES-GCM encryption", "Markdown", "Concurrency", "Virtualization (macOS 26)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- personal AI assistant
-- local-first
-- Telegram integration
-- LLM orchestration
-- privacy-focused
-source: https://github.com/ivan-magda/swift-claw
+deployment_complexity: "Medium"
+tags: ["personal AI assistant", "local-first", "Telegram integration", "LLM orchestration", "privacy-focused"]
+source: "https://github.com/ivan-magda/swift-claw"
 stars: 10
-language: Swift
-last_updated: '2026-08-04T10:32:30Z'
-discovered_at: '2026-08-04T10:39:20Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-08-04T10:32:30Z"
+discovered_at: "2026-08-04T10:39:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

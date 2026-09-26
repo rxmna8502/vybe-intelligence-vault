@@ -1,35 +1,19 @@
 ---
-title: peter-fusek/oncofiles
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python 3.12+
-- FastMCP 3.1
-- Pydantic
-- SQLite/Turso
-- Google Drive API
-- Gmail API
-- Calendar API
-- Anthropic Files API
-- FastAPI
-- Railway
-- Docker
+title: "peter-fusek/oncofiles"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python 3.12+", "FastMCP 3.1", "Pydantic", "SQLite/Turso", "Google Drive API", "Gmail API", "Calendar API", "Anthropic Files API", "FastAPI", "Railway", "Docker"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Medical Records
-- MCP Server
-- Google Integration
-- AI-Powered Data Organization
-- Healthcare Data
-source: https://github.com/peter-fusek/oncofiles
+deployment_complexity: "Medium"
+tags: ["Medical Records", "MCP Server", "Google Integration", "AI-Powered Data Organization", "Healthcare Data"]
+source: "https://github.com/peter-fusek/oncofiles"
 stars: 5
-language: Python
-last_updated: '2026-08-05T11:13:53Z'
-discovered_at: '2026-08-05T11:23:12Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T11:13:53Z"
+discovered_at: "2026-08-05T11:23:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

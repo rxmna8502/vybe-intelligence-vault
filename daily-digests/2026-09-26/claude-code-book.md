@@ -1,29 +1,19 @@
 ---
-title: Corryrevokable963/claude-code-book
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Chinese Documentation
-- Markdown
-- PDF
-- EPUB
-- HTML
+title: "Corryrevokable963/claude-code-book"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Chinese Documentation", "Markdown", "PDF", "EPUB", "HTML"]
 quality_score: 5
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- agent harness
-- Claude Code
-- AI architecture
-- Chinese documentation
-- educational resource
-source: https://github.com/Corryrevokable963/claude-code-book
+deployment_complexity: "Low"
+tags: ["agent harness", "Claude Code", "AI architecture", "Chinese documentation", "educational resource"]
+source: "https://github.com/Corryrevokable963/claude-code-book"
 stars: 0
-language: None
-last_updated: '2026-07-10T20:19:57Z'
-discovered_at: '2026-07-10T20:22:14Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-10T20:19:57Z"
+discovered_at: "2026-07-10T20:22:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

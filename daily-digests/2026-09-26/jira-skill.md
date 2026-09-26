@@ -1,29 +1,19 @@
 ---
-title: netresearch/jira-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Bash
-- Jira API
-- Agent Skills Specification
-- CLI Tools
+title: "netresearch/jira-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Bash", "Jira API", "Agent Skills Specification", "CLI Tools"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- Jira integration
-- AI agent plugin
-- CLI automation
-- workflow automation
-- issue management
-source: https://github.com/netresearch/jira-skill
+deployment_complexity: "Low"
+tags: ["Jira integration", "AI agent plugin", "CLI automation", "workflow automation", "issue management"]
+source: "https://github.com/netresearch/jira-skill"
 stars: 73
-language: Python
-last_updated: '2026-08-07T11:54:05Z'
-discovered_at: '2026-08-07T11:56:08Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T11:54:05Z"
+discovered_at: "2026-08-07T11:56:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

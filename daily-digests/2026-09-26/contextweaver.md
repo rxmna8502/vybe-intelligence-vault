@@ -1,36 +1,19 @@
 ---
-title: edycutjong/ContextWeaver
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Next.js
-- React
-- Tailwind CSS
-- FastAPI
-- Python
-- Qwen3-4B
-- ChromaDB
-- Docker
-- TypeScript
-- Framer Motion
-- sentence-transformers
-- langchain-text-splitters
+title: "edycutjong/ContextWeaver"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Next.js", "React", "Tailwind CSS", "FastAPI", "Python", "Qwen3-4B", "ChromaDB", "Docker", "TypeScript", "Framer Motion", "sentence-transformers", "langchain-text-splitters"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- Dynamic In-Context Learning
-- RAG for Prompt Construction
-- Long-Context Annotation
-- LLM Optimization
-- Document Chunking
-source: https://github.com/edycutjong/ContextWeaver
+deployment_complexity: "Medium"
+tags: ["Dynamic In-Context Learning", "RAG for Prompt Construction", "Long-Context Annotation", "LLM Optimization", "Document Chunking"]
+source: "https://github.com/edycutjong/ContextWeaver"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-08T01:25:58Z'
-discovered_at: '2026-08-08T01:26:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T01:25:58Z"
+discovered_at: "2026-08-08T01:26:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

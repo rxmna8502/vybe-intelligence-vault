@@ -1,35 +1,19 @@
 ---
-title: mitunmanav/build-android-apps
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Android SDK
-- Gradle
-- ADB
-- Compose
-- Kotlin
-- Play Store API
-- Claude Code
-- Codex
-- .agents
+title: "mitunmanav/build-android-apps"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Android SDK", "Gradle", "ADB", "Compose", "Kotlin", "Play Store API", "Claude Code", "Codex", ".agents"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- Android development
-- AI-assisted coding
-- Automated deployment
-- MCP servers
-- Play Store publishing
-source: https://github.com/mitunmanav/build-android-apps
+deployment_complexity: "High"
+tags: ["Android development", "AI-assisted coding", "Automated deployment", "MCP servers", "Play Store publishing"]
+source: "https://github.com/mitunmanav/build-android-apps"
 stars: 0
-language: Python
-last_updated: '2026-09-01T15:17:51Z'
-discovered_at: '2026-09-01T15:53:00Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T15:17:51Z"
+discovered_at: "2026-09-01T15:53:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

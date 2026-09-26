@@ -1,31 +1,19 @@
 ---
-title: nad33mahm3d/mcp-crypto-toolkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- CoinGecko API
-- Binance P2P
-- Etherscan/BSCScan
-- Blocknative
+title: "nad33mahm3d/mcp-crypto-toolkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "CoinGecko API", "Binance P2P", "Etherscan/BSCScan", "Blocknative"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- cryptocurrency
-- MCP server
-- real-time data
-- portfolio tools
-- gas tracker
-source: https://github.com/nad33mahm3d/mcp-crypto-toolkit
+deployment_complexity: "Low"
+tags: ["cryptocurrency", "MCP server", "real-time data", "portfolio tools", "gas tracker"]
+source: "https://github.com/nad33mahm3d/mcp-crypto-toolkit"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T22:09:28Z'
-discovered_at: '2026-09-02T22:21:06Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T22:09:28Z"
+discovered_at: "2026-09-02T22:21:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

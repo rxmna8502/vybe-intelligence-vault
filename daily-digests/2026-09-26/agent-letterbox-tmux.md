@@ -1,29 +1,19 @@
 ---
-title: SimonMallas/agent-letterbox-tmux
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Shell
-- tmux
-- Bash
-- Git
-- Markdown
+title: "SimonMallas/agent-letterbox-tmux"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Shell", "tmux", "Bash", "Git", "Markdown"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- multi-agent coordination
-- tmux integration
-- durable messaging
-- agent handoffs
-- team memory
-source: https://github.com/SimonMallas/agent-letterbox-tmux
+deployment_complexity: "Low"
+tags: ["multi-agent coordination", "tmux integration", "durable messaging", "agent handoffs", "team memory"]
+source: "https://github.com/SimonMallas/agent-letterbox-tmux"
 stars: 1
-language: Shell
-last_updated: '2026-09-02T19:06:38Z'
-discovered_at: '2026-09-02T19:13:02Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-09-02T19:06:38Z"
+discovered_at: "2026-09-02T19:13:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

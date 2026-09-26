@@ -1,35 +1,19 @@
 ---
-title: weixijia/awesome-pi-setup
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Shell
-- Node.js
-- Python
-- Git
-- LSP (Language Server Protocol)
-- npm
-- Pi Coding Agent
-- Ruff
-- Biome
-- YAML Language Server
-- Bash Language Server
+title: "weixijia/awesome-pi-setup"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Shell", "Node.js", "Python", "Git", "LSP (Language Server Protocol)", "npm", "Pi Coding Agent", "Ruff", "Biome", "YAML Language Server", "Bash Language Server"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Pi Coding Agent
-- security-hardened
-- LSP integration
-- plugin management
-- workflow automation
-source: https://github.com/weixijia/awesome-pi-setup
+deployment_complexity: "Medium"
+tags: ["Pi Coding Agent", "security-hardened", "LSP integration", "plugin management", "workflow automation"]
+source: "https://github.com/weixijia/awesome-pi-setup"
 stars: 0
-language: Shell
-last_updated: '2026-08-02T20:45:45Z'
-discovered_at: '2026-08-02T20:54:44Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-08-02T20:45:45Z"
+discovered_at: "2026-08-02T20:54:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

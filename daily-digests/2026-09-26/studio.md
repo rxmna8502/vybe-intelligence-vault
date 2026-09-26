@@ -1,31 +1,19 @@
 ---
-title: aolva/studio
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Bun
-- Electron
-- OpenCode
-- MCP (Model Context Protocol)
-- IPC (Inter-Process Communication)
-- React (implied by OpenCode fork)
+title: "aolva/studio"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Bun", "Electron", "OpenCode", "MCP (Model Context Protocol)", "IPC (Inter-Process Communication)", "React (implied by OpenCode fork)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- desktop agent
-- coding assistant
-- local-first
-- multi-model routing
-- workflow integration
-source: https://github.com/aolva/studio
+deployment_complexity: "Medium"
+tags: ["desktop agent", "coding assistant", "local-first", "multi-model routing", "workflow integration"]
+source: "https://github.com/aolva/studio"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T06:28:22Z'
-discovered_at: '2026-08-01T06:28:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T06:28:22Z"
+discovered_at: "2026-08-01T06:28:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

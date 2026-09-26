@@ -1,29 +1,19 @@
 ---
-title: BuildWithAbid/mcp-testkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Vitest/Jest
-- Zod
-- '@modelcontextprotocol/sdk'
+title: "BuildWithAbid/mcp-testkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Vitest/Jest", "Zod", "@modelcontextprotocol/sdk"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP
-- testing framework
-- schema validation
-- fuzz testing
-- snapshot testing
-source: https://github.com/BuildWithAbid/mcp-testkit
+deployment_complexity: "Low"
+tags: ["MCP", "testing framework", "schema validation", "fuzz testing", "snapshot testing"]
+source: "https://github.com/BuildWithAbid/mcp-testkit"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-02T10:29:08Z'
-discovered_at: '2026-08-02T10:41:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T10:29:08Z"
+discovered_at: "2026-08-02T10:41:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

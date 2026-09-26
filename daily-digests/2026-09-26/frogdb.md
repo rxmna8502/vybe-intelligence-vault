@@ -1,36 +1,19 @@
 ---
-title: frogdb/frogdb
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Tokio
-- RocksDB
-- RESP2/RESP3
-- Raft
-- Prometheus
-- Grafana
-- OpenTelemetry
-- DTrace
-- Jepsen
-- Shuttle
-- Turmoil
+title: "frogdb/frogdb"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "Tokio", "RocksDB", "RESP2/RESP3", "Raft", "Prometheus", "Grafana", "OpenTelemetry", "DTrace", "Jepsen", "Shuttle", "Turmoil"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Redis-compatible
-- memory-first
-- vector search
-- clustering
-- Rust
-source: https://github.com/frogdb/frogdb
+deployment_complexity: "Medium"
+tags: ["Redis-compatible", "memory-first", "vector search", "clustering", "Rust"]
+source: "https://github.com/frogdb/frogdb"
 stars: 7
-language: Rust
-last_updated: '2026-08-07T16:40:17Z'
-discovered_at: '2026-08-07T16:57:20Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-07T16:40:17Z"
+discovered_at: "2026-08-07T16:57:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

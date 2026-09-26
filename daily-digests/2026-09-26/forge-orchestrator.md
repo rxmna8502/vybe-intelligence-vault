@@ -1,29 +1,19 @@
 ---
-title: nxtg-ai/forge-orchestrator
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- CLI
-- Filesystem State Management
-- Concurrency Control
+title: "nxtg-ai/forge-orchestrator"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "CLI", "Filesystem State Management", "Concurrency Control"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- file locking
-- knowledge capture
-- drift detection
-- AI tool coordination
-source: https://github.com/nxtg-ai/forge-orchestrator
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "file locking", "knowledge capture", "drift detection", "AI tool coordination"]
+source: "https://github.com/nxtg-ai/forge-orchestrator"
 stars: 135
-language: Rust
-last_updated: '2026-08-09T23:34:59Z'
-discovered_at: '2026-08-09T23:35:32Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-09T23:34:59Z"
+discovered_at: "2026-08-09T23:35:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

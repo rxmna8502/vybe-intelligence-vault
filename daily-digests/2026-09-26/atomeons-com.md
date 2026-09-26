@@ -1,28 +1,19 @@
 ---
-title: Atom-Eons/atomeons-com
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- HTML
-- CSS
-- JavaScript
-- Static Site Generation
+title: "Atom-Eons/atomeons-com"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["HTML", "CSS", "JavaScript", "Static Site Generation"]
 quality_score: 5
 rag_relevance: 3
-deployment_complexity: Low
-tags:
-- static website
-- portfolio
-- documentation
-- research hub
-- open source
-source: https://github.com/Atom-Eons/atomeons-com
+deployment_complexity: "Low"
+tags: ["static website", "portfolio", "documentation", "research hub", "open source"]
+source: "https://github.com/Atom-Eons/atomeons-com"
 stars: 0
-language: HTML
-last_updated: '2026-07-19T16:54:36Z'
-discovered_at: '2026-07-19T16:57:50Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-19T16:54:36Z"
+discovered_at: "2026-07-19T16:57:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

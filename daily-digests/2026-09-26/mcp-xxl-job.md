@@ -1,31 +1,19 @@
 ---
-title: shaguocgl/mcp-xxl-job
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Node.js
-- TypeScript
-- MCP SDK
-- '@modelcontextprotocol/sdk'
-- Zod
-- HTTP Client
-- XXL-JOB Admin
+title: "shaguocgl/mcp-xxl-job"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Node.js", "TypeScript", "MCP SDK", "@modelcontextprotocol/sdk", "Zod", "HTTP Client", "XXL-JOB Admin"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP
-- job scheduling
-- XXL-JOB
-- AI automation
-- distributed tasks
-source: https://github.com/shaguocgl/mcp-xxl-job
+deployment_complexity: "Low"
+tags: ["MCP", "job scheduling", "XXL-JOB", "AI automation", "distributed tasks"]
+source: "https://github.com/shaguocgl/mcp-xxl-job"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-04T04:05:52Z'
-discovered_at: '2026-08-04T04:14:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T04:05:52Z"
+discovered_at: "2026-08-04T04:14:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

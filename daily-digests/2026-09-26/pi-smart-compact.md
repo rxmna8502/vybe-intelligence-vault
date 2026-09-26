@@ -1,29 +1,19 @@
 ---
-title: alpertarhan/pi-smart-compact
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Pi Agent Framework
-- LLM Integration
-- CI/CD (GitHub Actions)
+title: "alpertarhan/pi-smart-compact"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Pi Agent Framework", "LLM Integration", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- context compaction
-- verification
-- deterministic extraction
-- Pi Agent
-- state preservation
-source: https://github.com/alpertarhan/pi-smart-compact
+deployment_complexity: "Medium"
+tags: ["context compaction", "verification", "deterministic extraction", "Pi Agent", "state preservation"]
+source: "https://github.com/alpertarhan/pi-smart-compact"
 stars: 14
-language: TypeScript
-last_updated: '2026-07-15T19:59:04Z'
-discovered_at: '2026-07-15T20:08:03Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T19:59:04Z"
+discovered_at: "2026-07-15T20:08:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

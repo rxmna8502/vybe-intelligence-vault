@@ -1,34 +1,19 @@
 ---
-title: Coooolfan/onlyboxes
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- Docker
-- Docker Compose
-- gRPC
-- HTTP/REST
-- MCP (Model Context Protocol)
-- SQLite
-- Python
-- systemd
-- JavaScript/TypeScript (Web UI)
+title: "Coooolfan/onlyboxes"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Docker", "Docker Compose", "gRPC", "HTTP/REST", "MCP (Model Context Protocol)", "SQLite", "Python", "systemd", "JavaScript/TypeScript (Web UI)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- code execution
-- sandbox
-- self-hosted
-- MCP tools
-- multi-language
-source: https://github.com/Coooolfan/onlyboxes
+deployment_complexity: "Medium"
+tags: ["code execution", "sandbox", "self-hosted", "MCP tools", "multi-language"]
+source: "https://github.com/Coooolfan/onlyboxes"
 stars: 42
-language: Go
-last_updated: '2026-08-08T17:29:39Z'
-discovered_at: '2026-08-08T17:33:03Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T17:29:39Z"
+discovered_at: "2026-08-08T17:33:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: Fund-z/fundzwatch-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- npm
-- Smithery
+title: "Fund-z/fundzwatch-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "npm", "Smithery"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP Server
-- Business Intelligence
-- Real-Time Data
-- AI Agents
-- Funding Intelligence
-source: https://github.com/Fund-z/fundzwatch-mcp
+deployment_complexity: "Low"
+tags: ["MCP Server", "Business Intelligence", "Real-Time Data", "AI Agents", "Funding Intelligence"]
+source: "https://github.com/Fund-z/fundzwatch-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-09-04T02:01:15Z'
-discovered_at: '2026-09-04T02:18:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-04T02:01:15Z"
+discovered_at: "2026-09-04T02:18:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

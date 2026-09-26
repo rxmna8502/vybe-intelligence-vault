@@ -1,32 +1,19 @@
 ---
-title: victorfs1234/claude-ralph-agent-bridge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- OpenAI API
-- Anthropic API
-- CLI
-- YAML
-- Flask
-- FastAPI
-- Mermaid.js
+title: "victorfs1234/claude-ralph-agent-bridge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "OpenAI API", "Anthropic API", "CLI", "YAML", "Flask", "FastAPI", "Mermaid.js"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI Code Assistant
-- Multi-Model Integration
-- Code Generation
-- Security Scanning
-- Developer Productivity
-source: https://github.com/victorfs1234/claude-ralph-agent-bridge
+deployment_complexity: "Medium"
+tags: ["AI Code Assistant", "Multi-Model Integration", "Code Generation", "Security Scanning", "Developer Productivity"]
+source: "https://github.com/victorfs1234/claude-ralph-agent-bridge"
 stars: 0
-language: HTML
-last_updated: '2026-07-10T18:22:01Z'
-discovered_at: '2026-07-10T18:22:24Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-07-10T18:22:01Z"
+discovered_at: "2026-07-10T18:22:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

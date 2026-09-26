@@ -1,29 +1,19 @@
 ---
-title: theYahia/bitrix24-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Bitrix24 API
-- Webhooks
+title: "theYahia/bitrix24-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Bitrix24 API", "Webhooks"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- CRM integration
-- MCP server
-- Bitrix24 automation
-- AI assistant
-- task management
-source: https://github.com/theYahia/bitrix24-mcp
+deployment_complexity: "Low"
+tags: ["CRM integration", "MCP server", "Bitrix24 automation", "AI assistant", "task management"]
+source: "https://github.com/theYahia/bitrix24-mcp"
 stars: 1
-language: TypeScript
-last_updated: '2026-09-02T19:13:12Z'
-discovered_at: '2026-09-02T19:14:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:13:12Z"
+discovered_at: "2026-09-02T19:14:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

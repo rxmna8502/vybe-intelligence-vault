@@ -1,31 +1,19 @@
 ---
-title: followanton/sleepwalker
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- TypeScript
-- REST API
-- MCP (Model Context Protocol)
-- CLI
-- NPM
+title: "followanton/sleepwalker"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "TypeScript", "REST API", "MCP (Model Context Protocol)", "CLI", "NPM"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI visibility
-- content intelligence
-- MCP integration
-- brand monitoring
-- prompt tracking
-source: https://github.com/followanton/sleepwalker
+deployment_complexity: "Medium"
+tags: ["AI visibility", "content intelligence", "MCP integration", "brand monitoring", "prompt tracking"]
+source: "https://github.com/followanton/sleepwalker"
 stars: 20
-language: JavaScript
-last_updated: '2026-07-13T13:17:34Z'
-discovered_at: '2026-07-13T13:22:30Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-13T13:17:34Z"
+discovered_at: "2026-07-13T13:22:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: opokumarvin/cli-agent-architects-notebook
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Claude Code
-- OpenAI API
-- YAML
-- Python
-- Mermaid.js
-- CLI Development
-- LLM Integration
-- Agent Orchestration
+title: "opokumarvin/cli-agent-architects-notebook"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Claude Code", "OpenAI API", "YAML", "Python", "Mermaid.js", "CLI Development", "LLM Integration", "Agent Orchestration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agentic CLI
-- autonomous workflows
-- Claude Code
-- LLM integration
-- terminal agents
-source: https://github.com/opokumarvin/cli-agent-architects-notebook
+deployment_complexity: "Medium"
+tags: ["agentic CLI", "autonomous workflows", "Claude Code", "LLM integration", "terminal agents"]
+source: "https://github.com/opokumarvin/cli-agent-architects-notebook"
 stars: 1
-language: HTML
-last_updated: '2026-09-01T18:55:54Z'
-discovered_at: '2026-09-01T19:06:59Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-09-01T18:55:54Z"
+discovered_at: "2026-09-01T19:06:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

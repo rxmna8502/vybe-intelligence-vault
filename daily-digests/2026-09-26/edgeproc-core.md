@@ -1,34 +1,19 @@
 ---
-title: hseshadr/edgeproc-core
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- FAISS
-- pgvector
-- hnswlib
-- pydantic
-- asyncio
-- mypy
-- pytest
-- uv
-- TypeScript (for examples)
+title: "hseshadr/edgeproc-core"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "FAISS", "pgvector", "hnswlib", "pydantic", "asyncio", "mypy", "pytest", "uv", "TypeScript (for examples)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-tenant
-- vector partitioning
-- embedding routing
-- FAISS integration
-- isolation
-source: https://github.com/hseshadr/edgeproc-core
+deployment_complexity: "Medium"
+tags: ["multi-tenant", "vector partitioning", "embedding routing", "FAISS integration", "isolation"]
+source: "https://github.com/hseshadr/edgeproc-core"
 stars: 0
-language: Python
-last_updated: '2026-08-08T13:18:28Z'
-discovered_at: '2026-08-08T13:49:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T13:18:28Z"
+discovered_at: "2026-08-08T13:49:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

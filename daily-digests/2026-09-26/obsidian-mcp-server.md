@@ -1,31 +1,19 @@
 ---
-title: Vasallo94/obsidian-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Obsidian
-- ObsidianRAG
-- YAML
-- Makefile
-- uv (package manager)
+title: "Vasallo94/obsidian-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Obsidian", "ObsidianRAG", "YAML", "Makefile", "uv (package manager)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Obsidian integration
-- AI agent tools
-- note management
-- context protocol
-source: https://github.com/Vasallo94/obsidian-mcp-server
+deployment_complexity: "Medium"
+tags: ["MCP server", "Obsidian integration", "AI agent tools", "note management", "context protocol"]
+source: "https://github.com/Vasallo94/obsidian-mcp-server"
 stars: 7
-language: Python
-last_updated: '2026-08-03T22:05:26Z'
-discovered_at: '2026-08-03T22:09:44Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T22:05:26Z"
+discovered_at: "2026-08-03T22:09:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

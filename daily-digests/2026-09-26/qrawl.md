@@ -1,28 +1,19 @@
 ---
-title: QLangstaff/qrawl
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Concurrency
-- Web Scraping
-- Data Extraction
+title: "QLangstaff/qrawl"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "Concurrency", "Web Scraping", "Data Extraction"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- web crawling
-- data extraction
-- Rust
-- concurrent processing
-- structured data
-source: https://github.com/QLangstaff/qrawl
+deployment_complexity: "Medium"
+tags: ["web crawling", "data extraction", "Rust", "concurrent processing", "structured data"]
+source: "https://github.com/QLangstaff/qrawl"
 stars: 1
-language: Rust
-last_updated: '2026-07-19T21:41:14Z'
-discovered_at: '2026-07-19T21:51:23Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-19T21:41:14Z"
+discovered_at: "2026-07-19T21:51:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,37 +1,19 @@
 ---
-title: Stuko0/lydia-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Rust
-- Node.js
-- SQLite
-- FastAPI
-- Telegram API
-- Discord API
-- Slack API
-- Whisper (speech-to-text)
-- FFmpeg
-- Docker
-- Modal
-- Daytona
+title: "Stuko0/lydia-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Rust", "Node.js", "SQLite", "FastAPI", "Telegram API", "Discord API", "Slack API", "Whisper (speech-to-text)", "FFmpeg", "Docker", "Modal", "Daytona"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- self-improving
-- multi-platform
-- memory persistence
-- autonomous skills
-source: https://github.com/Stuko0/lydia-agent
+deployment_complexity: "Medium"
+tags: ["AI agents", "self-improving", "multi-platform", "memory persistence", "autonomous skills"]
+source: "https://github.com/Stuko0/lydia-agent"
 stars: 0
-language: Python
-last_updated: '2026-07-21T07:29:20Z'
-discovered_at: '2026-07-21T07:32:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T07:29:20Z"
+discovered_at: "2026-07-21T07:32:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

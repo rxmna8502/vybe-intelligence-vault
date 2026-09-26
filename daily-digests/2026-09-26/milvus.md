@@ -1,32 +1,19 @@
 ---
-title: api-evangelist/milvus
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Vector Database
-- gRPC
-- REST API
-- Python
-- Go
-- Java
-- Node.js
-- Apache 2.0
+title: "api-evangelist/milvus"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Vector Database", "gRPC", "REST API", "Python", "Go", "Java", "Node.js", "Apache 2.0"]
 quality_score: 7
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector search
-- embeddings
-- high-dimensional data
-- scalable indexing
-- AI infrastructure
-source: https://github.com/api-evangelist/milvus
+deployment_complexity: "Medium"
+tags: ["vector search", "embeddings", "high-dimensional data", "scalable indexing", "AI infrastructure"]
+source: "https://github.com/api-evangelist/milvus"
 stars: 0
-language: None
-last_updated: '2026-08-08T01:21:19Z'
-discovered_at: '2026-08-08T01:27:17Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T01:21:19Z"
+discovered_at: "2026-08-08T01:27:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: raghavendrashivam474/aryntra-tarka
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- FastAPI
-- React
-- TypeScript
-- SQLite
-- Ollama
-- Python 3.11+
-- Vite
-- Tailwind CSS
-- Server-Sent Events (SSE)
+title: "raghavendrashivam474/aryntra-tarka"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["FastAPI", "React", "TypeScript", "SQLite", "Ollama", "Python 3.11+", "Vite", "Tailwind CSS", "Server-Sent Events (SSE)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- local-first AI
-- tool orchestration
-- planning framework
-- streaming responses
-source: https://github.com/raghavendrashivam474/aryntra-tarka
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "local-first AI", "tool orchestration", "planning framework", "streaming responses"]
+source: "https://github.com/raghavendrashivam474/aryntra-tarka"
 stars: 2
-language: Python
-last_updated: '2026-08-01T21:51:36Z'
-discovered_at: '2026-08-01T21:54:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T21:51:36Z"
+discovered_at: "2026-08-01T21:54:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

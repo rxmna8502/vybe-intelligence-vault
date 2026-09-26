@@ -1,31 +1,19 @@
 ---
-title: Twentyeight-lawnchair711/AlayaRenderer
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Windows
-- AI-based rendering
-- Neural rendering
-- Inverse rendering
-- G-buffer workflows
-- Diffusion models
-- Video generation
+title: "Twentyeight-lawnchair711/AlayaRenderer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows", "AI-based rendering", "Neural rendering", "Inverse rendering", "G-buffer workflows", "Diffusion models", "Video generation"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- AI rendering
-- game development
-- neural rendering
-- video generation
-- inverse rendering
-source: https://github.com/Twentyeight-lawnchair711/AlayaRenderer
+deployment_complexity: "Medium"
+tags: ["AI rendering", "game development", "neural rendering", "video generation", "inverse rendering"]
+source: "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
 stars: 0
-language: None
-last_updated: '2026-08-07T09:39:14Z'
-discovered_at: '2026-08-07T10:05:42Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T09:39:14Z"
+discovered_at: "2026-08-07T10:05:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

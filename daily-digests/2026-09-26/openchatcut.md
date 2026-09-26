@@ -1,33 +1,19 @@
 ---
-title: 0xsline/OpenChatCut
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- React
-- Electron
-- Remotion
-- Node.js
-- MCP (Model Context Protocol)
-- FFmpeg
-- WebGL
-- TailwindCSS
+title: "0xsline/OpenChatCut"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Electron", "Remotion", "Node.js", "MCP (Model Context Protocol)", "FFmpeg", "WebGL", "TailwindCSS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- video editing
-- AI agents
-- local-first
-- multitrack timeline
-- MCP integration
-source: https://github.com/0xsline/OpenChatCut
+deployment_complexity: "Medium"
+tags: ["video editing", "AI agents", "local-first", "multitrack timeline", "MCP integration"]
+source: "https://github.com/0xsline/OpenChatCut"
 stars: 97
-language: TypeScript
-last_updated: '2026-07-20T23:55:26Z'
-discovered_at: '2026-07-21T00:03:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-20T23:55:26Z"
+discovered_at: "2026-07-21T00:03:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

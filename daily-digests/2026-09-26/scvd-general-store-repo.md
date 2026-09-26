@@ -1,33 +1,19 @@
 ---
-title: seancrecord/scvd-general-store-repo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Cloudflare Workers
-- Hono
-- KV (Cloudflare)
-- ed25519 (signing)
-- USDC (Base/Solana)
-- x402 protocol
-- Node.js
-- Wrangler CLI
+title: "seancrecord/scvd-general-store-repo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Cloudflare Workers", "Hono", "KV (Cloudflare)", "ed25519 (signing)", "USDC (Base/Solana)", "x402 protocol", "Node.js", "Wrangler CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- micropayments
-- x402 protocol
-- AI agent services
-- verifiable artifacts
-- Cloudflare Workers
-source: https://github.com/seancrecord/scvd-general-store-repo
+deployment_complexity: "Medium"
+tags: ["micropayments", "x402 protocol", "AI agent services", "verifiable artifacts", "Cloudflare Workers"]
+source: "https://github.com/seancrecord/scvd-general-store-repo"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-05T01:59:38Z'
-discovered_at: '2026-08-05T02:18:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T01:59:38Z"
+discovered_at: "2026-08-05T02:18:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

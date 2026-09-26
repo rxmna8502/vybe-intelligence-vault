@@ -1,29 +1,19 @@
 ---
-title: prashant-cr/Clinic-front-desk-MCP-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- SQLite
-- MCP (Model Context Protocol)
-- uv (package manager)
-- Twilio (optional for SMS reminders)
+title: "prashant-cr/Clinic-front-desk-MCP-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "SQLite", "MCP (Model Context Protocol)", "uv (package manager)", "Twilio (optional for SMS reminders)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP server
-- appointment scheduling
-- patient intake
-- clinical safety
-- privacy-focused
-source: https://github.com/prashant-cr/Clinic-front-desk-MCP-server
+deployment_complexity: "Low"
+tags: ["MCP server", "appointment scheduling", "patient intake", "clinical safety", "privacy-focused"]
+source: "https://github.com/prashant-cr/Clinic-front-desk-MCP-server"
 stars: 0
-language: Python
-last_updated: '2026-08-09T07:47:34Z'
-discovered_at: '2026-08-09T07:58:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T07:47:34Z"
+discovered_at: "2026-08-09T07:58:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

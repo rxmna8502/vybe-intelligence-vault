@@ -1,29 +1,19 @@
 ---
-title: pich/ai-economics-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- npm
-- REST API
+title: "pich/ai-economics-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "npm", "REST API"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- AI economics
-- cost estimation
-- energy efficiency
-- agent autonomy
-- MCP server
-source: https://github.com/pich/ai-economics-mcp
+deployment_complexity: "Low"
+tags: ["AI economics", "cost estimation", "energy efficiency", "agent autonomy", "MCP server"]
+source: "https://github.com/pich/ai-economics-mcp"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T21:50:25Z'
-discovered_at: '2026-08-01T21:55:11Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T21:50:25Z"
+discovered_at: "2026-08-01T21:55:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: Kofiloski/app-store-review-risk
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Xcode
-- GitHub Actions
-- Static Analysis
-- CLI
-- Agent Skills Framework
+title: "Kofiloski/app-store-review-risk"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Xcode", "GitHub Actions", "Static Analysis", "CLI", "Agent Skills Framework"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- App Store compliance
-- static analysis
-- Xcode scanning
-- CI/CD integration
-- privacy checks
-source: https://github.com/Kofiloski/app-store-review-risk
+deployment_complexity: "Medium"
+tags: ["App Store compliance", "static analysis", "Xcode scanning", "CI/CD integration", "privacy checks"]
+source: "https://github.com/Kofiloski/app-store-review-risk"
 stars: 0
-language: Python
-last_updated: '2026-07-14T23:47:32Z'
-discovered_at: '2026-07-14T23:53:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T23:47:32Z"
+discovered_at: "2026-07-14T23:53:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

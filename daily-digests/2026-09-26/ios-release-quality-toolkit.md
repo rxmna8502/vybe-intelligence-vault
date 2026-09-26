@@ -1,32 +1,19 @@
 ---
-title: Kofiloski/ios-release-quality-toolkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Swift
-- XCUITest
-- GitHub Actions
-- PyPI
-- Xcode
-- CLI
-- Reusable Workflows
+title: "Kofiloski/ios-release-quality-toolkit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Swift", "XCUITest", "GitHub Actions", "PyPI", "Xcode", "CLI", "Reusable Workflows"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- iOS quality assurance
-- App Store compliance
-- XCUITest debugging
-- AI simulator checks
-- release risk detection
-source: https://github.com/Kofiloski/ios-release-quality-toolkit
+deployment_complexity: "Medium"
+tags: ["iOS quality assurance", "App Store compliance", "XCUITest debugging", "AI simulator checks", "release risk detection"]
+source: "https://github.com/Kofiloski/ios-release-quality-toolkit"
 stars: 0
-language: Python
-last_updated: '2026-07-14T23:47:31Z'
-discovered_at: '2026-07-14T23:53:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T23:47:31Z"
+discovered_at: "2026-07-14T23:53:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

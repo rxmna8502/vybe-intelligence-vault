@@ -1,32 +1,19 @@
 ---
-title: nlink-jp/pcap-analyzer-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- Podman
-- tshark
-- MCP (Model Context Protocol)
-- Docker
-- JSONL
-- SHA-256
-- TOML
+title: "nlink-jp/pcap-analyzer-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Podman", "tshark", "MCP (Model Context Protocol)", "Docker", "JSONL", "SHA-256", "TOML"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- packet analysis
-- MCP server
-- tshark integration
-- containerized security
-- forensic tooling
-source: https://github.com/nlink-jp/pcap-analyzer-mcp
+deployment_complexity: "Medium"
+tags: ["packet analysis", "MCP server", "tshark integration", "containerized security", "forensic tooling"]
+source: "https://github.com/nlink-jp/pcap-analyzer-mcp"
 stars: 0
-language: Go
-last_updated: '2026-08-08T13:40:38Z'
-discovered_at: '2026-08-08T13:48:46Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T13:40:38Z"
+discovered_at: "2026-08-08T13:48:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

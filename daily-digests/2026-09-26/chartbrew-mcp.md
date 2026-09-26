@@ -1,30 +1,19 @@
 ---
-title: Akwaalamanoftheearth21/chartbrew-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Chartbrew API
-- REST
-- Environment variables (.env)
+title: "Akwaalamanoftheearth21/chartbrew-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Chartbrew API", "REST", "Environment variables (.env)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent integration
-- data visualization
-- MCP server
-- Chartbrew connector
-- live data querying
-source: https://github.com/Akwaalamanoftheearth21/chartbrew-mcp
+deployment_complexity: "Medium"
+tags: ["AI agent integration", "data visualization", "MCP server", "Chartbrew connector", "live data querying"]
+source: "https://github.com/Akwaalamanoftheearth21/chartbrew-mcp"
 stars: 0
-language: None
-last_updated: '2026-08-07T00:01:26Z'
-discovered_at: '2026-08-07T00:01:51Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T00:01:26Z"
+discovered_at: "2026-08-07T00:01:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

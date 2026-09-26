@@ -1,32 +1,19 @@
 ---
-title: aahlijia/dekko
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- tree-sitter
-- Model Context Protocol (MCP)
-- Claude Code
-- Cline
-- CLI
-- JSON
-- Markdown
+title: "aahlijia/dekko"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "tree-sitter", "Model Context Protocol (MCP)", "Claude Code", "Cline", "CLI", "JSON", "Markdown"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- code indexing
-- call graph
-- LLM agent tools
-- static analysis
-- token efficiency
-source: https://github.com/aahlijia/dekko
+deployment_complexity: "Medium"
+tags: ["code indexing", "call graph", "LLM agent tools", "static analysis", "token efficiency"]
+source: "https://github.com/aahlijia/dekko"
 stars: 1
-language: Python
-last_updated: '2026-08-03T20:28:08Z'
-discovered_at: '2026-08-03T20:28:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T20:28:08Z"
+discovered_at: "2026-08-03T20:28:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

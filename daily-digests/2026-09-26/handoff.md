@@ -1,29 +1,19 @@
 ---
-title: Xsxdot/handoff
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- SQLite
-- WebSocket
-- CLI
-- Git
+title: "Xsxdot/handoff"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "SQLite", "WebSocket", "CLI", "Git"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI collaboration
-- task orchestration
-- remote execution
-- code review
-- agent framework
-source: https://github.com/Xsxdot/handoff
+deployment_complexity: "Medium"
+tags: ["AI collaboration", "task orchestration", "remote execution", "code review", "agent framework"]
+source: "https://github.com/Xsxdot/handoff"
 stars: 19
-language: Go
-last_updated: '2026-09-04T02:02:56Z'
-discovered_at: '2026-09-04T02:14:50Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-04T02:02:56Z"
+discovered_at: "2026-09-04T02:14:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,34 +1,19 @@
 ---
-title: Shahzain-Ali/agentive-solutions-book
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Docusaurus
-- FastAPI
-- OpenAI Agents SDK
-- Qdrant
-- React
-- Neon Postgres
-- GitHub Pages
-- Render
-- Python
-- Docker
+title: "Shahzain-Ali/agentive-solutions-book"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Docusaurus", "FastAPI", "OpenAI Agents SDK", "Qdrant", "React", "Neon Postgres", "GitHub Pages", "Render", "Python", "Docker"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- interactive learning
-- agentic RAG
-- AI tutor
-- multi-book platform
-- automation courses
-source: https://github.com/Shahzain-Ali/agentive-solutions-book
+deployment_complexity: "Medium"
+tags: ["interactive learning", "agentic RAG", "AI tutor", "multi-book platform", "automation courses"]
+source: "https://github.com/Shahzain-Ali/agentive-solutions-book"
 stars: 0
-language: Python
-last_updated: '2026-08-07T19:31:39Z'
-discovered_at: '2026-08-07T19:58:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T19:31:39Z"
+discovered_at: "2026-08-07T19:58:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

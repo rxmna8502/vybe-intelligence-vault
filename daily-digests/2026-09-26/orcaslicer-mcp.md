@@ -1,30 +1,19 @@
 ---
-title: MaxEllis/orcaslicer-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- OrcaSlicer API
-- REST
-- PNG rendering
-- Unit testing
+title: "MaxEllis/orcaslicer-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "OrcaSlicer API", "REST", "PNG rendering", "Unit testing"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- 3D printing
-- slicing automation
-- MCP server
-- OrcaSlicer
-- print analysis
-source: https://github.com/MaxEllis/orcaslicer-mcp
+deployment_complexity: "Medium"
+tags: ["3D printing", "slicing automation", "MCP server", "OrcaSlicer", "print analysis"]
+source: "https://github.com/MaxEllis/orcaslicer-mcp"
 stars: 28
-language: Python
-last_updated: '2026-08-01T05:58:16Z'
-discovered_at: '2026-08-01T06:29:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T05:58:16Z"
+discovered_at: "2026-08-01T06:29:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

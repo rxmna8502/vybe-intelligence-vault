@@ -1,37 +1,19 @@
 ---
-title: jegly/Box
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Kotlin
-- LiteRT
-- llama.cpp
-- GGUF
-- Vulkan
-- SQLCipher
-- Gemini Nano
-- SenseVoice
-- Supertonic
-- stable-diffusion.cpp
-- whisper.cpp
-- Android SDK
-- NPU (Snapdragon, MediaTek, Google Tensor)
+title: "jegly/Box"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Kotlin", "LiteRT", "llama.cpp", "GGUF", "Vulkan", "SQLCipher", "Gemini Nano", "SenseVoice", "Supertonic", "stable-diffusion.cpp", "whisper.cpp", "Android SDK", "NPU (Snapdragon, MediaTek, Google Tensor)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- on-device AI
-- multimodal
-- Android
-- NPU acceleration
-- GGUF models
-source: https://github.com/jegly/Box
+deployment_complexity: "Medium"
+tags: ["on-device AI", "multimodal", "Android", "NPU acceleration", "GGUF models"]
+source: "https://github.com/jegly/Box"
 stars: 656
-language: Kotlin
-last_updated: '2026-07-12T13:27:44Z'
-discovered_at: '2026-07-12T13:37:01Z'
-evaluated_by: mistral-small-latest
+language: "Kotlin"
+last_updated: "2026-07-12T13:27:44Z"
+discovered_at: "2026-07-12T13:37:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

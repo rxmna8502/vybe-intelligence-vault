@@ -1,30 +1,19 @@
 ---
-title: mindwear-capitian/followupboss-mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST API
-- OAuth 2.0
-- Docker (implied for deployment)
+title: "mindwear-capitian/followupboss-mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST API", "OAuth 2.0", "Docker (implied for deployment)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- CRM integration
-- AI agent interface
-- real estate tools
-- MCP server
-- API bridge
-source: https://github.com/mindwear-capitian/followupboss-mcp-server
+deployment_complexity: "Low"
+tags: ["CRM integration", "AI agent interface", "real estate tools", "MCP server", "API bridge"]
+source: "https://github.com/mindwear-capitian/followupboss-mcp-server"
 stars: 21
-language: JavaScript
-last_updated: '2026-07-19T14:41:47Z'
-discovered_at: '2026-07-19T14:54:29Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-19T14:41:47Z"
+discovered_at: "2026-07-19T14:54:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

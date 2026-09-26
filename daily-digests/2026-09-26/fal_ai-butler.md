@@ -1,31 +1,19 @@
 ---
-title: mertagralii/fal.ai-butler
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- Claude Code Plugin
-- MCP (Model Context Protocol)
-- fal.ai API
-- Playwright
-- Context7
+title: "mertagralii/fal.ai-butler"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Claude Code Plugin", "MCP (Model Context Protocol)", "fal.ai API", "Playwright", "Context7"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- video generation
-- ad campaign automation
-- Claude Code plugin
-- fal.ai workflow
-- multi-agent orchestration
-source: https://github.com/mertagralii/fal.ai-butler
+deployment_complexity: "Medium"
+tags: ["video generation", "ad campaign automation", "Claude Code plugin", "fal.ai workflow", "multi-agent orchestration"]
+source: "https://github.com/mertagralii/fal.ai-butler"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-05T13:56:51Z'
-discovered_at: '2026-08-05T14:07:19Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-05T13:56:51Z"
+discovered_at: "2026-08-05T14:07:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

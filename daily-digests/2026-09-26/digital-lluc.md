@@ -1,36 +1,19 @@
 ---
-title: Lluc24/digital-lluc
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Next.js 16
-- TypeScript
-- Python 3.13
-- Pipecat
-- Deepgram (STT)
-- OpenAI (LLM)
-- Cartesia (TTS)
-- Auth.js
-- Upstash Redis
-- Vercel
-- Pipecat Cloud
-- Docker
+title: "Lluc24/digital-lluc"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js 16", "TypeScript", "Python 3.13", "Pipecat", "Deepgram (STT)", "OpenAI (LLM)", "Cartesia (TTS)", "Auth.js", "Upstash Redis", "Vercel", "Pipecat Cloud", "Docker"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice AI
-- personal agent
-- conversational AI
-- real-time chat
-- multi-modal interaction
-source: https://github.com/Lluc24/digital-lluc
+deployment_complexity: "Medium"
+tags: ["voice AI", "personal agent", "conversational AI", "real-time chat", "multi-modal interaction"]
+source: "https://github.com/Lluc24/digital-lluc"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-16T18:01:20Z'
-discovered_at: '2026-07-16T18:05:41Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T18:01:20Z"
+discovered_at: "2026-07-16T18:05:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

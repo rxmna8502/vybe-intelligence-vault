@@ -1,31 +1,19 @@
 ---
-title: SatishY21/Chat-with-PDF-using-Gemini
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Streamlit
-- Google Gemini API
-- LangChain
-- FAISS
-- PyPDF2
-- Python Dotenv
+title: "SatishY21/Chat-with-PDF-using-Gemini"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Streamlit", "Google Gemini API", "LangChain", "FAISS", "PyPDF2", "Python Dotenv"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- PDF processing
-- Gemini
-- FAISS
-- Streamlit
-source: https://github.com/SatishY21/Chat-with-PDF-using-Gemini
+deployment_complexity: "Medium"
+tags: ["RAG", "PDF processing", "Gemini", "FAISS", "Streamlit"]
+source: "https://github.com/SatishY21/Chat-with-PDF-using-Gemini"
 stars: 0
-language: Python
-last_updated: '2026-08-07T10:17:43Z'
-discovered_at: '2026-08-07T11:06:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T10:17:43Z"
+discovered_at: "2026-08-07T11:06:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

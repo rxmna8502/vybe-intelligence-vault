@@ -1,28 +1,19 @@
 ---
-title: Jok98/kiroku-forge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Markdown
-- Agent Skills
-- CLI Tools
+title: "Jok98/kiroku-forge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "Agent Skills", "CLI Tools"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- project memory
-- agent context
-- Markdown hub
-- workstream tracking
-- context preservation
-source: https://github.com/Jok98/kiroku-forge
+deployment_complexity: "Low"
+tags: ["project memory", "agent context", "Markdown hub", "workstream tracking", "context preservation"]
+source: "https://github.com/Jok98/kiroku-forge"
 stars: 1
-language: Python
-last_updated: '2026-07-13T21:47:39Z'
-discovered_at: '2026-07-13T21:55:07Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-13T21:47:39Z"
+discovered_at: "2026-07-13T21:55:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

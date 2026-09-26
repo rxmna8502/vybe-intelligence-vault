@@ -1,31 +1,19 @@
 ---
-title: alexpilotto/splitlaunch-dev
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- JavaScript/TypeScript
-- Node.js
-- CLI
-- REST API
-- JSON
-- HTTP
-- Markdown
+title: "alexpilotto/splitlaunch-dev"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript/TypeScript", "Node.js", "CLI", "REST API", "JSON", "HTTP", "Markdown"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- A/B testing
-- experimentation
-- AI agent integration
-- conversion tracking
-- URL experiments
-source: https://github.com/alexpilotto/splitlaunch-dev
+deployment_complexity: "Low"
+tags: ["A/B testing", "experimentation", "AI agent integration", "conversion tracking", "URL experiments"]
+source: "https://github.com/alexpilotto/splitlaunch-dev"
 stars: 0
-language: None
-last_updated: '2026-07-19T23:44:51Z'
-discovered_at: '2026-07-19T23:56:16Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-19T23:44:51Z"
+discovered_at: "2026-07-19T23:56:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

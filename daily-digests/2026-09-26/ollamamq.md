@@ -1,31 +1,19 @@
 ---
-title: Chleba/ollamaMQ
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Tokio
-- Axum
-- TUI (Terminal User Interface)
-- Docker
-- HTTP/REST
-- Async I/O
+title: "Chleba/ollamaMQ"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Tokio", "Axum", "TUI (Terminal User Interface)", "Docker", "HTTP/REST", "Async I/O"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- load balancing
-- Ollama proxy
-- model routing
-- async queue
-- TUI dashboard
-source: https://github.com/Chleba/ollamaMQ
+deployment_complexity: "Medium"
+tags: ["load balancing", "Ollama proxy", "model routing", "async queue", "TUI dashboard"]
+source: "https://github.com/Chleba/ollamaMQ"
 stars: 117
-language: Rust
-last_updated: '2026-09-02T17:02:16Z'
-discovered_at: '2026-09-03T22:13:23Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-09-02T17:02:16Z"
+discovered_at: "2026-09-03T22:13:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

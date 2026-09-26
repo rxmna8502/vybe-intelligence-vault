@@ -1,28 +1,19 @@
 ---
-title: huntleeouter514/ao3-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Archive of Our Own (AO3) API
-- AI Agents
+title: "huntleeouter514/ao3-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Archive of Our Own (AO3) API", "AI Agents"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AO3
-- fanfiction
-- MCP server
-- AI search
-- text summarization
-source: https://github.com/huntleeouter514/ao3-mcp
+deployment_complexity: "Medium"
+tags: ["AO3", "fanfiction", "MCP server", "AI search", "text summarization"]
+source: "https://github.com/huntleeouter514/ao3-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-06T06:27:59Z'
-discovered_at: '2026-08-06T06:34:04Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T06:27:59Z"
+discovered_at: "2026-08-06T06:34:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: isomoes/opencode-config
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- OCX (OpenCode Extension)
-- MCP (Model Context Protocol)
-- Context7
-- GitHub Pages
+title: "isomoes/opencode-config"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "OCX (OpenCode Extension)", "MCP (Model Context Protocol)", "Context7", "GitHub Pages"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI coding agent
-- configuration management
-- MCP server
-- terminal UI
-- OCX bundle
-source: https://github.com/isomoes/opencode-config
+deployment_complexity: "Low"
+tags: ["AI coding agent", "configuration management", "MCP server", "terminal UI", "OCX bundle"]
+source: "https://github.com/isomoes/opencode-config"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-10T14:58:16Z'
-discovered_at: '2026-08-10T15:03:48Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-10T14:58:16Z"
+discovered_at: "2026-08-10T15:03:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

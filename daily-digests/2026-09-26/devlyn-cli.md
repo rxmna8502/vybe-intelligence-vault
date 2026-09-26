@@ -1,34 +1,19 @@
 ---
-title: fysoul17/devlyn-cli
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript/TypeScript
-- Node.js
-- Claude Code
-- Codex CLI
-- Grok Build CLI
-- Python
-- Shell scripting
-- Git
-- MCP (Model Context Protocol)
-- Playwright
+title: "fysoul17/devlyn-cli"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript/TypeScript", "Node.js", "Claude Code", "Codex CLI", "Grok Build CLI", "Python", "Shell scripting", "Git", "MCP (Model Context Protocol)", "Playwright"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- AI coding agents
-- agent orchestration
-- context engineering
-- automated pipelines
-- skill-based workflows
-source: https://github.com/fysoul17/devlyn-cli
+deployment_complexity: "Low"
+tags: ["AI coding agents", "agent orchestration", "context engineering", "automated pipelines", "skill-based workflows"]
+source: "https://github.com/fysoul17/devlyn-cli"
 stars: 1
-language: Python
-last_updated: '2026-07-14T05:18:35Z'
-discovered_at: '2026-07-14T05:28:55Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-14T05:18:35Z"
+discovered_at: "2026-07-14T05:28:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

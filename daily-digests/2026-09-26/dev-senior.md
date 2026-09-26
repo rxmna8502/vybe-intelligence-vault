@@ -1,39 +1,19 @@
 ---
-title: SeydinaBANE/Dev-Senior
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Pydantic AI
-- FastAPI
-- React
-- Qdrant
-- PostgreSQL
-- Redis
-- OpenRouter
-- Langfuse
-- n8n
-- MCP
-- Slack API
-- Teams API
-- Docker
-- GitHub Actions
+title: "SeydinaBANE/Dev-Senior"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Pydantic AI", "FastAPI", "React", "Qdrant", "PostgreSQL", "Redis", "OpenRouter", "Langfuse", "n8n", "MCP", "Slack API", "Teams API", "Docker", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-agent system
-- RAG
-- observability
-- automation
-- internal AI tools
-source: https://github.com/SeydinaBANE/Dev-Senior
+deployment_complexity: "Medium"
+tags: ["multi-agent system", "RAG", "observability", "automation", "internal AI tools"]
+source: "https://github.com/SeydinaBANE/Dev-Senior"
 stars: 0
-language: Python
-last_updated: '2026-07-15T16:12:55Z'
-discovered_at: '2026-07-15T16:21:00Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T16:12:55Z"
+discovered_at: "2026-07-15T16:21:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

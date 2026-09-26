@@ -1,30 +1,19 @@
 ---
-title: OlegDyukel/lse-data-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastMCP
-- uv
-- PyPI
-- GitHub Actions
+title: "OlegDyukel/lse-data-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastMCP", "uv", "PyPI", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- MCP server
-- market data
-- financial API
-- data retrieval
-- unofficial integration
-source: https://github.com/OlegDyukel/lse-data-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "market data", "financial API", "data retrieval", "unofficial integration"]
+source: "https://github.com/OlegDyukel/lse-data-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-10T17:04:50Z'
-discovered_at: '2026-08-10T17:05:56Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T17:04:50Z"
+discovered_at: "2026-08-10T17:05:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

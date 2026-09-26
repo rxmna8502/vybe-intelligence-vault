@@ -1,32 +1,19 @@
 ---
-title: fuzzybritches0/spit.py
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Python
-- llama.cpp
-- libcairo2
-- bubblewrap
-- Playwright
-- Markdown
-- LaTeX
-- AsyncIO
+title: "fuzzybritches0/spit.py"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "llama.cpp", "libcairo2", "bubblewrap", "Playwright", "Markdown", "LaTeX", "AsyncIO"]
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- LLM management
-- terminal application
-- multimodal
-- async chat
-- model orchestration
-source: https://github.com/fuzzybritches0/spit.py
+deployment_complexity: "Medium"
+tags: ["LLM management", "terminal application", "multimodal", "async chat", "model orchestration"]
+source: "https://github.com/fuzzybritches0/spit.py"
 stars: 0
-language: Python
-last_updated: '2026-08-03T22:07:20Z'
-discovered_at: '2026-08-03T22:09:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T22:07:20Z"
+discovered_at: "2026-08-03T22:09:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

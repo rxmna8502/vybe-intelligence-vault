@@ -1,28 +1,19 @@
 ---
-title: Slender-gettysburg502/itr-filing-claude-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Windows OS
-- PDF/Excel Parsing
-- JSON Schema Validation
+title: "Slender-gettysburg502/itr-filing-claude-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows OS", "PDF/Excel Parsing", "JSON Schema Validation"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- tax-automation
-- ITR-filing
-- financial-reconciliation
-- capital-gains-classification
-- Indian-tax-compliance
-source: https://github.com/Slender-gettysburg502/itr-filing-claude-skill
+deployment_complexity: "Low"
+tags: ["tax-automation", "ITR-filing", "financial-reconciliation", "capital-gains-classification", "Indian-tax-compliance"]
+source: "https://github.com/Slender-gettysburg502/itr-filing-claude-skill"
 stars: 0
-language: Python
-last_updated: '2026-08-07T02:39:18Z'
-discovered_at: '2026-08-07T02:41:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T02:39:18Z"
+discovered_at: "2026-08-07T02:41:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

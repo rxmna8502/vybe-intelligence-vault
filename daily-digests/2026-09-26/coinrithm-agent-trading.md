@@ -1,34 +1,19 @@
 ---
-title: CoinRithm/coinrithm-agent-trading
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- OpenAPI 3.1
-- Model Context Protocol (MCP)
-- Python (examples)
-- GitHub Actions (CI)
-- Ed25519 (signatures)
-- REST API
-- YAML/Markdown (OKF)
-- Docker (implied for deployment)
+title: "CoinRithm/coinrithm-agent-trading"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "OpenAPI 3.1", "Model Context Protocol (MCP)", "Python (examples)", "GitHub Actions (CI)", "Ed25519 (signatures)", "REST API", "YAML/Markdown (OKF)", "Docker (implied for deployment)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent trading
-- paper trading
-- Open Knowledge Format
-- MCP server
-- cryptocurrency simulation
-source: https://github.com/CoinRithm/coinrithm-agent-trading
+deployment_complexity: "Medium"
+tags: ["AI agent trading", "paper trading", "Open Knowledge Format", "MCP server", "cryptocurrency simulation"]
+source: "https://github.com/CoinRithm/coinrithm-agent-trading"
 stars: 2
-language: Python
-last_updated: '2026-09-02T15:44:48Z'
-discovered_at: '2026-09-02T15:50:42Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T15:44:48Z"
+discovered_at: "2026-09-02T15:50:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

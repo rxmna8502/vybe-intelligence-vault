@@ -1,34 +1,19 @@
 ---
-title: talos-kernel/talos
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Python
-- Claude Code CLI
-- Bubblewrap
-- Sandbox-exec
-- Faster-Whisper
-- Piper
-- DuckDuckGo Search (ddgs)
-- IMAP
-- Telegram API
-- FFmpeg
+title: "talos-kernel/talos"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Code CLI", "Bubblewrap", "Sandbox-exec", "Faster-Whisper", "Piper", "DuckDuckGo Search (ddgs)", "IMAP", "Telegram API", "FFmpeg"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- security-first
-- deterministic kernel
-- sandboxed execution
-- adversarial testing
-- time-bound tokens
-source: https://github.com/talos-kernel/talos
+deployment_complexity: "Medium"
+tags: ["security-first", "deterministic kernel", "sandboxed execution", "adversarial testing", "time-bound tokens"]
+source: "https://github.com/talos-kernel/talos"
 stars: 0
-language: Python
-last_updated: '2026-08-06T14:35:58Z'
-discovered_at: '2026-08-10T19:01:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T14:35:58Z"
+discovered_at: "2026-08-10T19:01:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

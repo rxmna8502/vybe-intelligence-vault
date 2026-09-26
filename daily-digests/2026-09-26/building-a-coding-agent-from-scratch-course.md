@@ -1,33 +1,19 @@
 ---
-title: decodingai-magazine/building-a-coding-agent-from-scratch-course
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Pydantic AI
-- Modal
-- OpenRouter
-- Gemini
-- Kitaru
-- Opik
-- Docker
-- GCP
+title: "decodingai-magazine/building-a-coding-agent-from-scratch-course"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Pydantic AI", "Modal", "OpenRouter", "Gemini", "Kitaru", "Opik", "Docker", "GCP"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- coding agent
-- agent harness
-- durable runtime
-- sandboxing
-- observability
-source: https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course
+deployment_complexity: "Medium"
+tags: ["coding agent", "agent harness", "durable runtime", "sandboxing", "observability"]
+source: "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
 stars: 210
-language: Python
-last_updated: '2026-08-10T14:58:46Z'
-discovered_at: '2026-08-10T15:03:44Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T14:58:46Z"
+discovered_at: "2026-08-10T15:03:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: jztan/blueclaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Strands Agents SDK
-- FastAPI
-- Typer
-- Pydantic
-- Docker
-- Telegram Bot API
-- LiteLLM
-- JUnit
-- TAP
-- YAML
+title: "jztan/blueclaw"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Strands Agents SDK", "FastAPI", "Typer", "Pydantic", "Docker", "Telegram Bot API", "LiteLLM", "JUnit", "TAP", "YAML"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent observability
-- structured tracing
-- regression testing
-- multi-model support
-- terminal-first
-source: https://github.com/jztan/blueclaw
+deployment_complexity: "Medium"
+tags: ["AI agent observability", "structured tracing", "regression testing", "multi-model support", "terminal-first"]
+source: "https://github.com/jztan/blueclaw"
 stars: 3
-language: Python
-last_updated: '2026-07-12T11:55:43Z'
-discovered_at: '2026-07-12T11:58:11Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-12T11:55:43Z"
+discovered_at: "2026-07-12T11:58:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

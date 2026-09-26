@@ -1,28 +1,19 @@
 ---
-title: alphaparkinc/genpark-ecommerce-review-veracity-bot-rating-detector-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- GenPark AI
-- MCP (Model Context Protocol)
-- JSON
+title: "alphaparkinc/genpark-ecommerce-review-veracity-bot-rating-detector-skill"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "GenPark AI", "MCP (Model Context Protocol)", "JSON"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- review-veracity
-- bot-detection
-- ecommerce
-- AI-agent-skill
-- rating-analysis
-source: https://github.com/alphaparkinc/genpark-ecommerce-review-veracity-bot-rating-detector-skill
+deployment_complexity: "Low"
+tags: ["review-veracity", "bot-detection", "ecommerce", "AI-agent-skill", "rating-analysis"]
+source: "https://github.com/alphaparkinc/genpark-ecommerce-review-veracity-bot-rating-detector-skill"
 stars: 8
-language: Python
-last_updated: '2026-09-02T08:11:24Z'
-discovered_at: '2026-09-02T08:23:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T08:11:24Z"
+discovered_at: "2026-09-02T08:23:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

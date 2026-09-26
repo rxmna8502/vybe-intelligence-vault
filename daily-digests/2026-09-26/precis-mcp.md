@@ -1,43 +1,19 @@
 ---
-title: retospect/precis-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- PostgreSQL
-- pgvector
-- Model Context Protocol (MCP)
-- FastAPI
-- SymPy
-- pint
-- matplotlib
-- Mermaid
-- RDKit
-- ASE
-- spglib
-- torch
-- sentence-transformers
-- FastAPI
-- Jinja
-- HTMX
-- discord.py
-- Kokoro
+title: "retospect/precis-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "PostgreSQL", "pgvector", "Model Context Protocol (MCP)", "FastAPI", "SymPy", "pint", "matplotlib", "Mermaid", "RDKit", "ASE", "spglib", "torch", "sentence-transformers", "FastAPI", "Jinja", "HTMX", "discord.py", "Kokoro"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- MCP server
-- PostgreSQL
-- pgvector
-- document management
-- agent tooling
-source: https://github.com/retospect/precis-mcp
+deployment_complexity: "High"
+tags: ["MCP server", "PostgreSQL", "pgvector", "document management", "agent tooling"]
+source: "https://github.com/retospect/precis-mcp"
 stars: 3
-language: Python
-last_updated: '2026-09-02T22:03:01Z'
-discovered_at: '2026-09-02T22:18:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-02T22:03:01Z"
+discovered_at: "2026-09-02T22:18:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

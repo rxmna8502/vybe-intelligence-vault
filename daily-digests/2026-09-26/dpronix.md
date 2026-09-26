@@ -1,34 +1,19 @@
 ---
-title: W117C/DPronix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- DeepSeek-V4
-- Tauri
-- React/TypeScript
-- SSE (Server-Sent Events)
-- GOAP (Goal-Oriented Action Planning)
-- Vector DB
-- CLI/TUI
-- HTTP API
-- OpenTelemetry
+title: "W117C/DPronix"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "DeepSeek-V4", "Tauri", "React/TypeScript", "SSE (Server-Sent Events)", "GOAP (Goal-Oriented Action Planning)", "Vector DB", "CLI/TUI", "HTTP API", "OpenTelemetry"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- AI agent framework
-- DeepSeek integration
-- multi-agent orchestration
-- Rust-based
-- Tauri desktop
-source: https://github.com/W117C/DPronix
+deployment_complexity: "High"
+tags: ["AI agent framework", "DeepSeek integration", "multi-agent orchestration", "Rust-based", "Tauri desktop"]
+source: "https://github.com/W117C/DPronix"
 stars: 1
-language: Rust
-last_updated: '2026-07-18T09:21:11Z'
-discovered_at: '2026-07-18T09:23:43Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-18T09:21:11Z"
+discovered_at: "2026-07-18T09:23:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

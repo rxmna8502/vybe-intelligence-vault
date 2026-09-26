@@ -1,36 +1,19 @@
 ---
-title: hairglasses-studio/mcpkit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- JWT/JWKS
-- OAuth 2.1
-- DPoP
-- OpenTelemetry
-- Circuit Breakers
-- Rate Limiting
-- Caching
-- RBAC
-- Workload Identity (GCP/AWS)
-- HTTP/WebSocket/Unix Transports
+title: "hairglasses-studio/mcpkit"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "JWT/JWKS", "OAuth 2.1", "DPoP", "OpenTelemetry", "Circuit Breakers", "Rate Limiting", "Caching", "RBAC", "Workload Identity (GCP/AWS)", "HTTP/WebSocket/Unix Transports"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP
-- Go framework
-- multi-agent orchestration
-- resilience patterns
-- enterprise AI
-source: https://github.com/hairglasses-studio/mcpkit
+deployment_complexity: "Medium"
+tags: ["MCP", "Go framework", "multi-agent orchestration", "resilience patterns", "enterprise AI"]
+source: "https://github.com/hairglasses-studio/mcpkit"
 stars: 0
-language: Go
-last_updated: '2026-08-08T16:33:28Z'
-discovered_at: '2026-08-08T16:35:52Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-08T16:33:28Z"
+discovered_at: "2026-08-08T16:35:52Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

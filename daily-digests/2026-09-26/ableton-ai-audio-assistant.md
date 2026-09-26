@@ -1,30 +1,19 @@
 ---
-title: Marlstonegarter952/ableton-ai-audio-assistant
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- TCP/IP
-- Ableton Live API
-- Windows API
-- Natural Language Processing (NLP)
+title: "Marlstonegarter952/ableton-ai-audio-assistant"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "TCP/IP", "Ableton Live API", "Windows API", "Natural Language Processing (NLP)"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- AI audio assistant
-- Ableton Live integration
-- automated mixing
-- mastering automation
-- low-latency control
-source: https://github.com/Marlstonegarter952/ableton-ai-audio-assistant
+deployment_complexity: "Medium"
+tags: ["AI audio assistant", "Ableton Live integration", "automated mixing", "mastering automation", "low-latency control"]
+source: "https://github.com/Marlstonegarter952/ableton-ai-audio-assistant"
 stars: 0
-language: HTML
-last_updated: '2026-08-06T06:27:51Z'
-discovered_at: '2026-08-06T06:34:07Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-06T06:27:51Z"
+discovered_at: "2026-08-06T06:34:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

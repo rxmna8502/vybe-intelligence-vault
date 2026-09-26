@@ -1,31 +1,19 @@
 ---
-title: persteenolsen/vue-fastapi-jwt-auth-ai-agent-three
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Vue 3
-- Pinia
-- Vite
-- JavaScript
-- ESLint
-- JWT Authentication
-- FastAPI (backend)
+title: "persteenolsen/vue-fastapi-jwt-auth-ai-agent-three"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Vue 3", "Pinia", "Vite", "JavaScript", "ESLint", "JWT Authentication", "FastAPI (backend)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI Agent Interface
-- JWT Authentication
-- Vue 3
-- Pinia State Management
-- FastAPI Integration
-source: https://github.com/persteenolsen/vue-fastapi-jwt-auth-ai-agent-three
+deployment_complexity: "Medium"
+tags: ["AI Agent Interface", "JWT Authentication", "Vue 3", "Pinia State Management", "FastAPI Integration"]
+source: "https://github.com/persteenolsen/vue-fastapi-jwt-auth-ai-agent-three"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-21T12:08:19Z'
-discovered_at: '2026-09-01T15:53:48Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-21T12:08:19Z"
+discovered_at: "2026-09-01T15:53:48Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

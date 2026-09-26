@@ -1,30 +1,19 @@
 ---
-title: Nian2026/MSP
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Shell Scripting
-- Command Runtime
-- WorkspaceFS
-- Policy Engine
-- Audit Logging
+title: "Nian2026/MSP"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["JavaScript", "Shell Scripting", "Command Runtime", "WorkspaceFS", "Policy Engine", "Audit Logging"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent runtime
-- command composition
-- workspace semantics
-- policy-controlled execution
-- app-owned OS layer
-source: https://github.com/Nian2026/MSP
+deployment_complexity: "Medium"
+tags: ["AI agent runtime", "command composition", "workspace semantics", "policy-controlled execution", "app-owned OS layer"]
+source: "https://github.com/Nian2026/MSP"
 stars: 7
-language: JavaScript
-last_updated: '2026-07-13T20:11:47Z'
-discovered_at: '2026-07-13T20:14:04Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-13T20:11:47Z"
+discovered_at: "2026-07-13T20:14:04Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

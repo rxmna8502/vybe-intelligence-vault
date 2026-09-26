@@ -1,29 +1,19 @@
 ---
-title: amyboissoneau/sigil
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- SQLite
-- HTTP Server
-- MCP (Model Context Protocol)
-- Docker
+title: "amyboissoneau/sigil"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "HTTP Server", "MCP (Model Context Protocol)", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent simulation
-- strategy game
-- persistent world
-- multi-agent environment
-- MCP server
-source: https://github.com/amyboissoneau/sigil
+deployment_complexity: "Medium"
+tags: ["AI agent simulation", "strategy game", "persistent world", "multi-agent environment", "MCP server"]
+source: "https://github.com/amyboissoneau/sigil"
 stars: 0
-language: Python
-last_updated: '2026-08-03T16:19:48Z'
-discovered_at: '2026-08-03T16:26:26Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T16:19:48Z"
+discovered_at: "2026-08-03T16:26:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

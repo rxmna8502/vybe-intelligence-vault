@@ -1,30 +1,19 @@
 ---
-title: LAA-Software-Engineering/terfyn
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- SQLite
-- YAML
-- Mermaid
-- GitHub Actions
-- MCP (Model Context Protocol)
+title: "LAA-Software-Engineering/terfyn"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "SQLite", "YAML", "Mermaid", "GitHub Actions", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agent governance
-- capability bounding
-- plan-time review
-- policy enforcement
-- static analysis
-source: https://github.com/LAA-Software-Engineering/terfyn
+deployment_complexity: "Medium"
+tags: ["agent governance", "capability bounding", "plan-time review", "policy enforcement", "static analysis"]
+source: "https://github.com/LAA-Software-Engineering/terfyn"
 stars: 4
-language: Go
-last_updated: '2026-09-01T02:46:05Z'
-discovered_at: '2026-09-01T02:49:13Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-01T02:46:05Z"
+discovered_at: "2026-09-01T02:49:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

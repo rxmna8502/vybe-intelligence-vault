@@ -1,32 +1,19 @@
 ---
-title: githxhouse/remotewp-plugin
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- PHP
-- WordPress
-- REST API
-- JSON-LD
-- HTTPS
-- SHA-256
-- CIDR
-- cURL
+title: "githxhouse/remotewp-plugin"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["PHP", "WordPress", "REST API", "JSON-LD", "HTTPS", "SHA-256", "CIDR", "cURL"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- WordPress integration
-- AI agent connector
-- REST API security
-- code editing
-- SEO optimization
-source: https://github.com/githxhouse/remotewp-plugin
+deployment_complexity: "Medium"
+tags: ["WordPress integration", "AI agent connector", "REST API security", "code editing", "SEO optimization"]
+source: "https://github.com/githxhouse/remotewp-plugin"
 stars: 0
-language: PHP
-last_updated: '2026-08-31T07:35:06Z'
-discovered_at: '2026-09-02T08:19:17Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-08-31T07:35:06Z"
+discovered_at: "2026-09-02T08:19:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

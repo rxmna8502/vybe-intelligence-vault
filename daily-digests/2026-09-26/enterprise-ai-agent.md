@@ -1,33 +1,19 @@
 ---
-title: Onlyblue02/enterprise-ai-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python 3.12
-- Streamlit
-- LangChain
-- LangGraph
-- Chroma
-- DashScope/Qwen
-- SQLite
-- PyPDF
-- python-docx
+title: "Onlyblue02/enterprise-ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.12", "Streamlit", "LangChain", "LangGraph", "Chroma", "DashScope/Qwen", "SQLite", "PyPDF", "python-docx"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Function Calling
-- LangGraph
-- Enterprise AI
-- Workflow Automation
-source: https://github.com/Onlyblue02/enterprise-ai-agent
+deployment_complexity: "Medium"
+tags: ["RAG", "Function Calling", "LangGraph", "Enterprise AI", "Workflow Automation"]
+source: "https://github.com/Onlyblue02/enterprise-ai-agent"
 stars: 0
-language: Python
-last_updated: '2026-07-15T07:59:34Z'
-discovered_at: '2026-07-15T08:05:57Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T07:59:34Z"
+discovered_at: "2026-07-15T08:05:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

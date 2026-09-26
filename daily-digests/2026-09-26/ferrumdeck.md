@@ -1,32 +1,19 @@
 ---
-title: sattyamjjain/ferrumdeck
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Python
-- TypeScript
-- Next.js
-- OpenTelemetry
-- PostgreSQL
-- Docker
-- CI/CD (GitHub Actions)
+title: "sattyamjjain/ferrumdeck"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Python", "TypeScript", "Next.js", "OpenTelemetry", "PostgreSQL", "Docker", "CI/CD (GitHub Actions)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI agent governance
-- enforcement plane
-- deny-by-default policies
-- budget enforcement
-- audit trail
-source: https://github.com/sattyamjjain/ferrumdeck
+deployment_complexity: "Medium"
+tags: ["AI agent governance", "enforcement plane", "deny-by-default policies", "budget enforcement", "audit trail"]
+source: "https://github.com/sattyamjjain/ferrumdeck"
 stars: 7
-language: TypeScript
-last_updated: '2026-08-01T05:52:39Z'
-discovered_at: '2026-08-01T06:29:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T05:52:39Z"
+discovered_at: "2026-08-01T06:29:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

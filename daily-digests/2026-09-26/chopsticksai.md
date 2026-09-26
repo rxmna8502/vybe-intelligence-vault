@@ -1,33 +1,19 @@
 ---
-title: ilikemacos/ChopsticksAI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Swift
-- SwiftUI
-- JavaScript
-- Bash
-- Supabase
-- Resend
-- OpenRouter
-- Groq
-- HMAC
+title: "ilikemacos/ChopsticksAI"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Swift", "SwiftUI", "JavaScript", "Bash", "Supabase", "Resend", "OpenRouter", "Groq", "HMAC"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent
-- macOS app
-- terminal CLI
-- offline knowledge base
-- open-source
-source: https://github.com/ilikemacos/ChopsticksAI
+deployment_complexity: "Medium"
+tags: ["AI agent", "macOS app", "terminal CLI", "offline knowledge base", "open-source"]
+source: "https://github.com/ilikemacos/ChopsticksAI"
 stars: 3
-language: Swift
-last_updated: '2026-09-01T18:55:19Z'
-discovered_at: '2026-09-01T19:06:55Z'
-evaluated_by: mistral-small-latest
+language: "Swift"
+last_updated: "2026-09-01T18:55:19Z"
+discovered_at: "2026-09-01T19:06:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

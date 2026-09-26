@@ -1,29 +1,19 @@
 ---
-title: meilisearch/meilisearch
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- RESTful API
-- SDKs (Python, JavaScript, Go, etc.)
-- Vector Search
-- Hybrid Search
+title: "meilisearch/meilisearch"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "RESTful API", "SDKs (Python, JavaScript, Go, etc.)", "Vector Search", "Hybrid Search"]
 quality_score: 10
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- search engine
-- vector database
-- hybrid search
-- semantic search
-- AI-powered
-source: https://github.com/meilisearch/meilisearch
+deployment_complexity: "Medium"
+tags: ["search engine", "vector database", "hybrid search", "semantic search", "AI-powered"]
+source: "https://github.com/meilisearch/meilisearch"
 stars: 58922
-language: Rust
-last_updated: '2026-08-10T09:05:00Z'
-discovered_at: '2026-08-10T09:25:36Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-10T09:05:00Z"
+discovered_at: "2026-08-10T09:25:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: AG064/argentum
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Tauri
-- Node.js
-- SQLite
-- WebView2
-- Docker
-- llama.cpp
-- Hugging Face GGUF
-- Telegram API
-- Discord API
-- Electron (via Tauri)
+title: "AG064/argentum"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Tauri", "Node.js", "SQLite", "WebView2", "Docker", "llama.cpp", "Hugging Face GGUF", "Telegram API", "Discord API", "Electron (via Tauri)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local-first
-- modular AI
-- multi-channel
-- privacy-focused
-- self-hosted
-source: https://github.com/AG064/argentum
+deployment_complexity: "Medium"
+tags: ["local-first", "modular AI", "multi-channel", "privacy-focused", "self-hosted"]
+source: "https://github.com/AG064/argentum"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-18T21:46:19Z'
-discovered_at: '2026-07-18T21:49:51Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-18T21:46:19Z"
+discovered_at: "2026-07-18T21:49:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

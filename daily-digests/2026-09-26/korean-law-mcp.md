@@ -1,34 +1,19 @@
 ---
-title: chrisryugj/korean-law-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- NPM
-- Zod
-- Hono
-- Axios
-- Cheerio
-- Mermaid.js
-- Jaccard similarity (for content matching)
+title: "chrisryugj/korean-law-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "NPM", "Zod", "Hono", "Axios", "Cheerio", "Mermaid.js", "Jaccard similarity (for content matching)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Korean legal data
-- MCP server
-- citation verification
-- law retrieval
-- AI hallucination prevention
-source: https://github.com/chrisryugj/korean-law-mcp
+deployment_complexity: "Medium"
+tags: ["Korean legal data", "MCP server", "citation verification", "law retrieval", "AI hallucination prevention"]
+source: "https://github.com/chrisryugj/korean-law-mcp"
 stars: 2211
-language: TypeScript
-last_updated: '2026-07-15T12:09:19Z'
-discovered_at: '2026-07-15T12:14:20Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-15T12:09:19Z"
+discovered_at: "2026-07-15T12:14:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

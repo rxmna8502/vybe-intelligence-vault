@@ -1,33 +1,19 @@
 ---
-title: shuigui-ou/software-verifier
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- Playwright
-- Electron
-- Appium
-- WebDriverIO
-- MiniProgram Automator
-- MCP Server
-- JSON-RPC
+title: "shuigui-ou/software-verifier"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Playwright", "Electron", "Appium", "WebDriverIO", "MiniProgram Automator", "MCP Server", "JSON-RPC"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- automated testing
-- functional verification
-- UI automation
-- self-evolving knowledge base
-- contribution backflow
-source: https://github.com/shuigui-ou/software-verifier
+deployment_complexity: "Medium"
+tags: ["automated testing", "functional verification", "UI automation", "self-evolving knowledge base", "contribution backflow"]
+source: "https://github.com/shuigui-ou/software-verifier"
 stars: 0
-language: JavaScript
-last_updated: '2026-09-02T02:06:55Z'
-discovered_at: '2026-09-02T02:10:19Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-02T02:06:55Z"
+discovered_at: "2026-09-02T02:10:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

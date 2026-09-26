@@ -1,34 +1,19 @@
 ---
-title: Automations-Project/VSCode-Perplexity-MCP
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- React
-- Vite
-- Tailwind CSS
-- Model Context Protocol (MCP)
-- Playwright
-- npm
-- VS Code Extension API
-- Docker
+title: "Automations-Project/VSCode-Perplexity-MCP"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Tailwind CSS", "Model Context Protocol (MCP)", "Playwright", "npm", "VS Code Extension API", "Docker"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Perplexity AI
-- MCP Server
-- IDE Integration
-- Browser Automation
-- VS Code Extension
-source: https://github.com/Automations-Project/VSCode-Perplexity-MCP
+deployment_complexity: "Medium"
+tags: ["Perplexity AI", "MCP Server", "IDE Integration", "Browser Automation", "VS Code Extension"]
+source: "https://github.com/Automations-Project/VSCode-Perplexity-MCP"
 stars: 60
-language: TypeScript
-last_updated: '2026-07-16T21:55:15Z'
-discovered_at: '2026-07-16T22:02:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T21:55:15Z"
+discovered_at: "2026-07-16T22:02:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

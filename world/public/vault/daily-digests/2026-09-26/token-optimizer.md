@@ -1,30 +1,19 @@
 ---
-title: lefos13/token-optimizer
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- MCP (Model Context Protocol)
-- OpenRouter API
-- Zod
-- npm
+title: "lefos13/token-optimizer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "OpenRouter API", "Zod", "npm"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- log optimization
-- MCP server
-- AI coding assistant
-- build validation
-- local LLM integration
-source: https://github.com/lefos13/token-optimizer
+deployment_complexity: "Medium"
+tags: ["log optimization", "MCP server", "AI coding assistant", "build validation", "local LLM integration"]
+source: "https://github.com/lefos13/token-optimizer"
 stars: 1
-language: JavaScript
-last_updated: '2026-07-10T13:08:09Z'
-discovered_at: '2026-07-10T13:11:14Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-10T13:08:09Z"
+discovered_at: "2026-07-10T13:11:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

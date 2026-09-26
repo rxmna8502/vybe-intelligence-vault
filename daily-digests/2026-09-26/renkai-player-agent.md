@@ -1,27 +1,19 @@
 ---
-title: godemodegame/renkai-player-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- CLI
+title: "godemodegame/renkai-player-agent"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "CLI"]
 quality_score: 4
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- Renkai
-- agent-tools
-- CLI
-- Hermes
-- OpenClaw
-source: https://github.com/godemodegame/renkai-player-agent
+deployment_complexity: "Low"
+tags: ["Renkai", "agent-tools", "CLI", "Hermes", "OpenClaw"]
+source: "https://github.com/godemodegame/renkai-player-agent"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-19T20:30:19Z'
-discovered_at: '2026-07-19T20:44:15Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-19T20:30:19Z"
+discovered_at: "2026-07-19T20:44:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

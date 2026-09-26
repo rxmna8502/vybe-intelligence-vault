@@ -1,29 +1,19 @@
 ---
-title: tuanductran/soulmap-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Markdown
-- Shell Scripting
-- uv (Python package manager)
-- Claude AI (local workflow layer)
+title: "tuanductran/soulmap-ai"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "Shell Scripting", "uv (Python package manager)", "Claude AI (local workflow layer)"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- reflective AI
-- personal introspection
-- content-first knowledge base
-- safety-first design
-- user autonomy
-source: https://github.com/tuanductran/soulmap-ai
+deployment_complexity: "Medium"
+tags: ["reflective AI", "personal introspection", "content-first knowledge base", "safety-first design", "user autonomy"]
+source: "https://github.com/tuanductran/soulmap-ai"
 stars: 2
-language: Python
-last_updated: '2026-08-08T21:28:52Z'
-discovered_at: '2026-08-08T21:33:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T21:28:52Z"
+discovered_at: "2026-08-08T21:33:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
