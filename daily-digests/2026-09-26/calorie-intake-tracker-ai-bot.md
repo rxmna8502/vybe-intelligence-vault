@@ -1,38 +1,19 @@
 ---
-title: DurdeuVlad/calorie-intake-tracker-ai-bot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python 3.11+
-- FastAPI
-- PostgreSQL 16+
-- OpenAI API
-- SQLAlchemy
-- Alembic
-- Docker
-- Docker Compose
-- Telegram Bot API
-- Mattermost WebSocket
-- Open Food Facts API
-- SearxNG
-- Browserless
-- Tailscale
+title: "DurdeuVlad/calorie-intake-tracker-ai-bot"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python 3.11+", "FastAPI", "PostgreSQL 16+", "OpenAI API", "SQLAlchemy", "Alembic", "Docker", "Docker Compose", "Telegram Bot API", "Mattermost WebSocket", "Open Food Facts API", "SearxNG", "Browserless", "Tailscale"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- nutrition tracking
-- AI-powered logging
-- privacy-first
-- self-hosted
-- multi-platform
-source: https://github.com/DurdeuVlad/calorie-intake-tracker-ai-bot
+deployment_complexity: "Medium"
+tags: ["nutrition tracking", "AI-powered logging", "privacy-first", "self-hosted", "multi-platform"]
+source: "https://github.com/DurdeuVlad/calorie-intake-tracker-ai-bot"
 stars: 1
-language: Python
-last_updated: '2026-09-01T18:59:43Z'
-discovered_at: '2026-09-01T19:06:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T18:59:43Z"
+discovered_at: "2026-09-01T19:06:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: jhondados/llm-router-gateway
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Redis
-- Gemini API
-- FastAPI
-- Semantic Classification
+title: "jhondados/llm-router-gateway"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Redis", "Gemini API", "FastAPI", "Semantic Classification"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- LLM optimization
-- cost reduction
-- semantic caching
-- model routing
-- rate limiting
-source: https://github.com/jhondados/llm-router-gateway
+deployment_complexity: "Medium"
+tags: ["LLM optimization", "cost reduction", "semantic caching", "model routing", "rate limiting"]
+source: "https://github.com/jhondados/llm-router-gateway"
 stars: 0
-language: HTML
-last_updated: '2026-08-05T17:01:16Z'
-discovered_at: '2026-08-05T18:24:54Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-05T17:01:16Z"
+discovered_at: "2026-08-05T18:24:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

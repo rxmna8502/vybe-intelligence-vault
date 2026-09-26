@@ -1,31 +1,19 @@
 ---
-title: cyborginc/cyborgdb-go
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- gRPC
-- Docker
-- AWS KMS
-- AWS Secrets Manager
-- DiskIVF Index
-- Context API
+title: "cyborginc/cyborgdb-go"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Go", "gRPC", "Docker", "AWS KMS", "AWS Secrets Manager", "DiskIVF Index", "Context API"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- encrypted vector search
-- client-side encryption
-- BYOK/HYOK
-- disk-backed index
-- Go SDK
-source: https://github.com/cyborginc/cyborgdb-go
+deployment_complexity: "Medium"
+tags: ["encrypted vector search", "client-side encryption", "BYOK/HYOK", "disk-backed index", "Go SDK"]
+source: "https://github.com/cyborginc/cyborgdb-go"
 stars: 9
-language: Go
-last_updated: '2026-08-07T19:13:11Z'
-discovered_at: '2026-08-07T19:59:23Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-07T19:13:11Z"
+discovered_at: "2026-08-07T19:59:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

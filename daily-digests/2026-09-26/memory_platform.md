@@ -1,35 +1,19 @@
 ---
-title: SparkHello/Memory_Platform
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- SQLite
-- React
-- Node.js
-- Docker
-- FastAPI
-- OpenAI API
-- MCP (Model Context Protocol)
-- Mermaid.js
-- FTS5 (Full-Text Search)
-- SSE (Server-Sent Events)
+title: "SparkHello/Memory_Platform"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "React", "Node.js", "Docker", "FastAPI", "OpenAI API", "MCP (Model Context Protocol)", "Mermaid.js", "FTS5 (Full-Text Search)", "SSE (Server-Sent Events)"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- long-term memory
-- AI agent orchestration
-- local-first
-- auditable
-- model routing
-source: https://github.com/SparkHello/Memory_Platform
+deployment_complexity: "Medium"
+tags: ["long-term memory", "AI agent orchestration", "local-first", "auditable", "model routing"]
+source: "https://github.com/SparkHello/Memory_Platform"
 stars: 0
-language: Python
-last_updated: '2026-08-08T05:36:40Z'
-discovered_at: '2026-08-08T05:46:01Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T05:36:40Z"
+discovered_at: "2026-08-08T05:46:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

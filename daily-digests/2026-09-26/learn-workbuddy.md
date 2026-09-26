@@ -1,35 +1,19 @@
 ---
-title: adongwanai/learn-workbuddy
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Electron
-- Sidecar Architecture
-- SQLite
-- JSONL
-- REST/ACP-like Protocols
-- DeepSeek
-- OpenAI
-- Anthropic
-- Mermaid Diagrams
-- Docker (implied for environment management)
+title: "adongwanai/learn-workbuddy"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Electron", "Sidecar Architecture", "SQLite", "JSONL", "REST/ACP-like Protocols", "DeepSeek", "OpenAI", "Anthropic", "Mermaid Diagrams", "Docker (implied for environment management)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Agent Harness
-- Desktop AI
-- Educational Blueprint
-- Memory Systems
-- Security Governance
-source: https://github.com/adongwanai/learn-workbuddy
+deployment_complexity: "Medium"
+tags: ["Agent Harness", "Desktop AI", "Educational Blueprint", "Memory Systems", "Security Governance"]
+source: "https://github.com/adongwanai/learn-workbuddy"
 stars: 66
-language: Python
-last_updated: '2026-08-02T05:45:38Z'
-discovered_at: '2026-08-02T05:57:15Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-02T05:45:38Z"
+discovered_at: "2026-08-02T05:57:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

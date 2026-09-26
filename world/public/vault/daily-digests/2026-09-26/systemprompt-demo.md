@@ -1,29 +1,19 @@
 ---
-title: acr3463/systemprompt-demo
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Rust
-- PostgreSQL
-- OAuth2
-- Model Context Protocol (MCP)
-- Desktop Application
+title: "acr3463/systemprompt-demo"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "PostgreSQL", "OAuth2", "Model Context Protocol (MCP)", "Desktop Application"]
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- AI governance
-- local mediation
-- audit logging
-- cost tracking
-- policy enforcement
-source: https://github.com/acr3463/systemprompt-demo
+deployment_complexity: "Low"
+tags: ["AI governance", "local mediation", "audit logging", "cost tracking", "policy enforcement"]
+source: "https://github.com/acr3463/systemprompt-demo"
 stars: 0
-language: None
-last_updated: '2026-08-06T06:28:37Z'
-discovered_at: '2026-08-06T06:34:03Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-06T06:28:37Z"
+discovered_at: "2026-08-06T06:34:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

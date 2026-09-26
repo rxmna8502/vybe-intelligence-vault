@@ -1,30 +1,19 @@
 ---
-title: lidless-labs/n8nctrl
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- n8n Public API
-- Model Context Protocol (MCP)
-- CLI
-- OpenClaw
+title: "lidless-labs/n8nctrl"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "n8n Public API", "Model Context Protocol (MCP)", "CLI", "OpenClaw"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- workflow automation
-- n8n operations
-- MCP adapter
-- AI agent tools
-- execution monitoring
-source: https://github.com/lidless-labs/n8nctrl
+deployment_complexity: "Medium"
+tags: ["workflow automation", "n8n operations", "MCP adapter", "AI agent tools", "execution monitoring"]
+source: "https://github.com/lidless-labs/n8nctrl"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-09T01:25:20Z'
-discovered_at: '2026-08-09T01:34:14Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T01:25:20Z"
+discovered_at: "2026-08-09T01:34:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

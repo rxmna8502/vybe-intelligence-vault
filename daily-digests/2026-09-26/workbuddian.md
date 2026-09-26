@@ -1,32 +1,19 @@
 ---
-title: jiang198012/workbuddian
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Obsidian Plugin API
-- Node.js
-- React
-- Electron
-- Markdown
-- ACL (Agent Communication Layer)
-- MCP (Model Context Protocol)
+title: "jiang198012/workbuddian"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "Obsidian Plugin API", "Node.js", "React", "Electron", "Markdown", "ACL (Agent Communication Layer)", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Obsidian plugin
-- AI agent integration
-- local LLM
-- note referencing
-- streaming chat
-source: https://github.com/jiang198012/workbuddian
+deployment_complexity: "Medium"
+tags: ["Obsidian plugin", "AI agent integration", "local LLM", "note referencing", "streaming chat"]
+source: "https://github.com/jiang198012/workbuddian"
 stars: 34
-language: TypeScript
-last_updated: '2026-08-09T07:57:52Z'
-discovered_at: '2026-08-09T07:58:39Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T07:57:52Z"
+discovered_at: "2026-08-09T07:58:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

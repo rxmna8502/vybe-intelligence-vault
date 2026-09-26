@@ -1,31 +1,19 @@
 ---
-title: api-evangelist/chroma-db
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Rust
-- JavaScript/TypeScript
-- HTTP/REST API
-- OpenAPI
-- Postman
-- Docker
+title: "api-evangelist/chroma-db"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "Rust", "JavaScript/TypeScript", "HTTP/REST API", "OpenAPI", "Postman", "Docker"]
 quality_score: 8
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- vector database
-- embeddings
-- semantic search
-- RAG
-- multi-modal retrieval
-source: https://github.com/api-evangelist/chroma-db
+deployment_complexity: "Medium"
+tags: ["vector database", "embeddings", "semantic search", "RAG", "multi-modal retrieval"]
+source: "https://github.com/api-evangelist/chroma-db"
 stars: 0
-language: None
-last_updated: '2026-08-08T00:45:57Z'
-discovered_at: '2026-08-08T01:27:59Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-08T00:45:57Z"
+discovered_at: "2026-08-08T01:27:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: leynier/exeora
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Cloudflare Workers
-- WebSocket
-- Zod
-- Tailwind CSS
-- Astro
-- React
-- Vite
-- OAuth 2.1
-- TOML
+title: "leynier/exeora"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Cloudflare Workers", "WebSocket", "Zod", "Tailwind CSS", "Astro", "React", "Vite", "OAuth 2.1", "TOML"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- secure execution
-- MCP client
-- AI agent orchestration
-- outbound connectivity
-- development environment
-source: https://github.com/leynier/exeora
+deployment_complexity: "Medium"
+tags: ["secure execution", "MCP client", "AI agent orchestration", "outbound connectivity", "development environment"]
+source: "https://github.com/leynier/exeora"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-07T19:54:17Z'
-discovered_at: '2026-08-07T19:58:14Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T19:54:17Z"
+discovered_at: "2026-08-07T19:58:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

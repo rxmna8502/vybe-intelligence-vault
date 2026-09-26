@@ -1,30 +1,19 @@
 ---
-title: jhlee-young/cosmos-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- Model Context Protocol (MCP)
-- Cosmos SDK
-- gRPC
-- REST/LCD
-- CometBFT RPC
+title: "jhlee-young/cosmos-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Model Context Protocol (MCP)", "Cosmos SDK", "gRPC", "REST/LCD", "CometBFT RPC"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Cosmos SDK
-- MCP Server
-- Blockchain Query
-- RAG Integration
-- Read-Only
-source: https://github.com/jhlee-young/cosmos-mcp
+deployment_complexity: "Medium"
+tags: ["Cosmos SDK", "MCP Server", "Blockchain Query", "RAG Integration", "Read-Only"]
+source: "https://github.com/jhlee-young/cosmos-mcp"
 stars: 0
-language: Go
-last_updated: '2026-08-01T13:09:34Z'
-discovered_at: '2026-08-01T13:16:49Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T13:09:34Z"
+discovered_at: "2026-08-01T13:16:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,30 +1,19 @@
 ---
-title: nulljosh/newsline
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Cloudflare Workers
-- JavaScript
-- RSS/Atom Feed Parsing
-- HTTP API
-- MCP Server
-- Static Site Hosting
+title: "nulljosh/newsline"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Cloudflare Workers", "JavaScript", "RSS/Atom Feed Parsing", "HTTP API", "MCP Server", "Static Site Hosting"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- news aggregation
-- bias detection
-- MCP server
-- real-time headlines
-- political spectrum analysis
-source: https://github.com/nulljosh/newsline
+deployment_complexity: "Low"
+tags: ["news aggregation", "bias detection", "MCP server", "real-time headlines", "political spectrum analysis"]
+source: "https://github.com/nulljosh/newsline"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-10T03:56:58Z'
-discovered_at: '2026-08-10T03:58:42Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T03:56:58Z"
+discovered_at: "2026-08-10T03:58:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

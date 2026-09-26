@@ -1,30 +1,19 @@
 ---
-title: davidmosiah/google-health-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- OAuth 2.0
-- Google Health API v4
-- REST API
+title: "davidmosiah/google-health-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "OAuth 2.0", "Google Health API v4", "REST API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP server
-- Google Health API
-- OAuth
-- Local-first
-- AI agent integration
-source: https://github.com/davidmosiah/google-health-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Google Health API", "OAuth", "Local-first", "AI agent integration"]
+source: "https://github.com/davidmosiah/google-health-mcp"
 stars: 36
-language: TypeScript
-last_updated: '2026-08-04T17:47:31Z'
-discovered_at: '2026-08-04T17:50:57Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-04T17:47:31Z"
+discovered_at: "2026-08-04T17:50:57Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

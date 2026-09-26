@@ -1,34 +1,19 @@
 ---
-title: zlatko-lakisic/agentic-orchestration-openclaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Python
-- CrewAI
-- Ollama
-- OpenAI
-- Anthropic
-- MCP (Model Context Protocol)
-- YAML
-- REST API
+title: "zlatko-lakisic/agentic-orchestration-openclaw"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Python", "CrewAI", "Ollama", "OpenAI", "Anthropic", "MCP (Model Context Protocol)", "YAML", "REST API"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-agent orchestration
-- task decomposition
-- local inference
-- session persistence
-- MCP integration
-source: https://github.com/zlatko-lakisic/agentic-orchestration-openclaw
+deployment_complexity: "Medium"
+tags: ["multi-agent orchestration", "task decomposition", "local inference", "session persistence", "MCP integration"]
+source: "https://github.com/zlatko-lakisic/agentic-orchestration-openclaw"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-21T15:01:32Z'
-discovered_at: '2026-07-21T15:03:24Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T15:01:32Z"
+discovered_at: "2026-07-21T15:03:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

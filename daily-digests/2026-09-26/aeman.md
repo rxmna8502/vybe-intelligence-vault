@@ -1,34 +1,19 @@
 ---
-title: aenix-io/aeman
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- React
-- TypeScript
-- Git
-- WebSocket
-- REST API
-- MCP (Model Context Protocol)
-- YAML
-- Markdown
-- Docker
+title: "aenix-io/aeman"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "React", "TypeScript", "Git", "WebSocket", "REST API", "MCP (Model Context Protocol)", "YAML", "Markdown", "Docker"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- planning
-- engineering
-- git-backed
-- AI agent integration
-- live collaboration
-source: https://github.com/aenix-io/aeman
+deployment_complexity: "Medium"
+tags: ["planning", "engineering", "git-backed", "AI agent integration", "live collaboration"]
+source: "https://github.com/aenix-io/aeman"
 stars: 30
-language: Go
-last_updated: '2026-09-03T18:59:50Z'
-discovered_at: '2026-09-03T19:10:13Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T18:59:50Z"
+discovered_at: "2026-09-03T19:10:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

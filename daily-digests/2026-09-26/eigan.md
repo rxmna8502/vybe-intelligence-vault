@@ -1,35 +1,19 @@
 ---
-title: tue3306/EIGAN
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- AI/LLM Providers (Claude, GPT, Gemini, Groq, Ollama)
-- NLP/NLU
-- Web Frameworks (FastAPI, Flask)
-- SQLite/PostgreSQL
-- Docker
-- CI/CD (GitHub Actions)
-- WebSockets
-- PDF/HTML Report Generation
-- CVSS/EPSS/CISA KEV Risk Scoring
-- MITRE ATT&CK Mapping
+title: "tue3306/EIGAN"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "AI/LLM Providers (Claude, GPT, Gemini, Groq, Ollama)", "NLP/NLU", "Web Frameworks (FastAPI, Flask)", "SQLite/PostgreSQL", "Docker", "CI/CD (GitHub Actions)", "WebSockets", "PDF/HTML Report Generation", "CVSS/EPSS/CISA KEV Risk Scoring", "MITRE ATT&CK Mapping"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI-driven security
-- autonomous pentesting
-- risk assessment
-- plugin architecture
-- adaptive cascading
-source: https://github.com/tue3306/EIGAN
+deployment_complexity: "Medium"
+tags: ["AI-driven security", "autonomous pentesting", "risk assessment", "plugin architecture", "adaptive cascading"]
+source: "https://github.com/tue3306/EIGAN"
 stars: 0
-language: Python
-last_updated: '2026-07-15T05:26:23Z'
-discovered_at: '2026-07-15T05:29:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T05:26:23Z"
+discovered_at: "2026-07-15T05:29:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

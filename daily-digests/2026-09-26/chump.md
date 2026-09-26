@@ -1,37 +1,19 @@
 ---
-title: repairman29/chump
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- SQLite
-- Ollama
-- vLLM
-- mistral.rs
-- Axum
-- Git
-- GitHub API
-- ACP (Agent Client Protocol)
-- Tauri
-- PWA (Progressive Web App)
-- Discord Bot
-- CLI
+title: "repairman29/chump"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "SQLite", "Ollama", "vLLM", "mistral.rs", "Axum", "Git", "GitHub API", "ACP (Agent Client Protocol)", "Tauri", "PWA (Progressive Web App)", "Discord Bot", "CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- multi-agent coordination
-- self-hosted AI
-- local LLM
-- code agent framework
-- persistent memory
-source: https://github.com/repairman29/chump
+deployment_complexity: "Medium"
+tags: ["multi-agent coordination", "self-hosted AI", "local LLM", "code agent framework", "persistent memory"]
+source: "https://github.com/repairman29/chump"
 stars: 0
-language: Shell
-last_updated: '2026-07-18T23:47:10Z'
-discovered_at: '2026-07-18T23:52:38Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-18T23:47:10Z"
+discovered_at: "2026-07-18T23:52:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

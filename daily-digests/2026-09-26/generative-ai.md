@@ -1,34 +1,19 @@
 ---
-title: KowshiqKatta/Generative-AI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Jupyter Notebook
-- LangChain
-- LangGraph
-- LangSmith
-- RAG (Retrieval-Augmented Generation)
-- Document Loaders
-- Guardrails
-- Citations
-- Claim Verification
+title: "KowshiqKatta/Generative-AI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Jupyter Notebook", "LangChain", "LangGraph", "LangSmith", "RAG (Retrieval-Augmented Generation)", "Document Loaders", "Guardrails", "Citations", "Claim Verification"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- RAG
-- document processing
-- research assistant
-- LangChain
-- workflow automation
-source: https://github.com/KowshiqKatta/Generative-AI
+deployment_complexity: "Medium"
+tags: ["RAG", "document processing", "research assistant", "LangChain", "workflow automation"]
+source: "https://github.com/KowshiqKatta/Generative-AI"
 stars: 0
-language: Jupyter Notebook
-last_updated: '2026-08-08T05:34:04Z'
-discovered_at: '2026-08-08T05:46:10Z'
-evaluated_by: mistral-small-latest
+language: "Jupyter Notebook"
+last_updated: "2026-08-08T05:34:04Z"
+discovered_at: "2026-08-08T05:46:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

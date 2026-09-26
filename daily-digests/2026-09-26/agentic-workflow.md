@@ -1,29 +1,19 @@
 ---
-title: gidde032/agentic-workflow
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Claude Code
-- Codex
-- GitHub CLI
-- PyYAML
+title: "gidde032/agentic-workflow"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Claude Code", "Codex", "GitHub CLI", "PyYAML"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- agentic workflows
-- human-in-the-loop
-- AI governance
-- project lifecycle
-- development automation
-source: https://github.com/gidde032/agentic-workflow
+deployment_complexity: "Medium"
+tags: ["agentic workflows", "human-in-the-loop", "AI governance", "project lifecycle", "development automation"]
+source: "https://github.com/gidde032/agentic-workflow"
 stars: 0
-language: Python
-last_updated: '2026-08-10T19:58:47Z'
-discovered_at: '2026-08-10T20:02:02Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T19:58:47Z"
+discovered_at: "2026-08-10T20:02:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

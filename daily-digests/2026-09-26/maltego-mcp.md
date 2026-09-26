@@ -1,29 +1,19 @@
 ---
-title: lidless-labs/maltego-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Maltego
-- Python (for Phase B transforms)
+title: "lidless-labs/maltego-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Maltego", "Python (for Phase B transforms)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- OSINT
-- threat intelligence
-- MCP server
-- Maltego automation
-- graph generation
-source: https://github.com/lidless-labs/maltego-mcp
+deployment_complexity: "Medium"
+tags: ["OSINT", "threat intelligence", "MCP server", "Maltego automation", "graph generation"]
+source: "https://github.com/lidless-labs/maltego-mcp"
 stars: 7
-language: TypeScript
-last_updated: '2026-08-09T01:25:22Z'
-discovered_at: '2026-08-09T01:34:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T01:25:22Z"
+discovered_at: "2026-08-09T01:34:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

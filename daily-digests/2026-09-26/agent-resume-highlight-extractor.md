@@ -1,30 +1,19 @@
 ---
-title: zhouzhihui624/agent-resume-highlight-extractor
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Shell
-- Codex Skills
-- YAML
-- JSON
-- Markdown
+title: "zhouzhihui624/agent-resume-highlight-extractor"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Shell", "Codex Skills", "YAML", "JSON", "Markdown"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- resume extraction
-- AI project analysis
-- interview preparation
-- evidence-based
-- Codex Skill
-source: https://github.com/zhouzhihui624/agent-resume-highlight-extractor
+deployment_complexity: "Low"
+tags: ["resume extraction", "AI project analysis", "interview preparation", "evidence-based", "Codex Skill"]
+source: "https://github.com/zhouzhihui624/agent-resume-highlight-extractor"
 stars: 0
-language: Shell
-last_updated: '2026-07-13T10:23:33Z'
-discovered_at: '2026-07-13T10:24:07Z'
-evaluated_by: mistral-small-latest
+language: "Shell"
+last_updated: "2026-07-13T10:23:33Z"
+discovered_at: "2026-07-13T10:24:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

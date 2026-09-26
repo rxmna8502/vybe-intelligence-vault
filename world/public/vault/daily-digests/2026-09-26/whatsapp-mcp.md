@@ -1,32 +1,19 @@
 ---
-title: rodrigopg/whatsapp-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Go
-- Python
-- SQLite
-- WhatsApp Web API (whatsmeow)
-- Model Context Protocol (MCP)
-- FFmpeg (optional)
-- Whisper.cpp (optional)
-- OpenAI Whisper API (optional)
+title: "rodrigopg/whatsapp-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "Python", "SQLite", "WhatsApp Web API (whatsmeow)", "Model Context Protocol (MCP)", "FFmpeg (optional)", "Whisper.cpp (optional)", "OpenAI Whisper API (optional)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- WhatsApp integration
-- MCP server
-- local data storage
-- contact resolution
-- group management
-source: https://github.com/rodrigopg/whatsapp-mcp
+deployment_complexity: "Medium"
+tags: ["WhatsApp integration", "MCP server", "local data storage", "contact resolution", "group management"]
+source: "https://github.com/rodrigopg/whatsapp-mcp"
 stars: 2
-language: Go
-last_updated: '2026-08-01T14:51:45Z'
-discovered_at: '2026-08-01T15:01:38Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T14:51:45Z"
+discovered_at: "2026-08-01T15:01:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

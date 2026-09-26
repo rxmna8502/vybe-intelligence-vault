@@ -1,32 +1,19 @@
 ---
-title: innocommerce/innoshop
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- PHP 8.3
-- Laravel 13
-- MySQL 5.7+/8.0+
-- Node.js 18+
-- Composer 2.x
-- Vite 6.x
-- Model Context Protocol (MCP)
-- AI Integration (various models)
+title: "innocommerce/innoshop"
+content_type: "repo"
+engine: "v2"
+category: "SaaS Template"
+tech_stack: ["PHP 8.3", "Laravel 13", "MySQL 5.7+/8.0+", "Node.js 18+", "Composer 2.x", "Vite 6.x", "Model Context Protocol (MCP)", "AI Integration (various models)"]
 quality_score: 9
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- e-commerce
-- Laravel
-- AI integration
-- multi-language
-- MCP
-source: https://github.com/innocommerce/innoshop
+deployment_complexity: "Medium"
+tags: ["e-commerce", "Laravel", "AI integration", "multi-language", "MCP"]
+source: "https://github.com/innocommerce/innoshop"
 stars: 652
-language: PHP
-last_updated: '2026-08-09T07:45:35Z'
-discovered_at: '2026-08-09T07:59:43Z'
-evaluated_by: mistral-small-latest
+language: "PHP"
+last_updated: "2026-08-09T07:45:35Z"
+discovered_at: "2026-08-09T07:59:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

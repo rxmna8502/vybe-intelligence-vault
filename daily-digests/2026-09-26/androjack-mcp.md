@@ -1,31 +1,19 @@
 ---
-title: VIKAS9793/AndroJack-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- MCP Protocol
-- Kotlin
-- Android SDK
-- Model Context Protocol (MCP)
-- npm
+title: "VIKAS9793/AndroJack-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP Protocol", "Kotlin", "Android SDK", "Model Context Protocol (MCP)", "npm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP Server
-- Android Development
-- AI Tooling
-- Real-time Documentation
-- Hallucination Prevention
-source: https://github.com/VIKAS9793/AndroJack-mcp
+deployment_complexity: "Low"
+tags: ["MCP Server", "Android Development", "AI Tooling", "Real-time Documentation", "Hallucination Prevention"]
+source: "https://github.com/VIKAS9793/AndroJack-mcp"
 stars: 21
-language: TypeScript
-last_updated: '2026-08-07T02:36:52Z'
-discovered_at: '2026-08-07T02:42:32Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-07T02:36:52Z"
+discovered_at: "2026-08-07T02:42:32Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

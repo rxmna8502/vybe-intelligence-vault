@@ -1,28 +1,19 @@
 ---
-title: skyzhao1223/media-naming-guide
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Regex
-- Cursor AI Skill
-- CLI Tools
+title: "skyzhao1223/media-naming-guide"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Regex", "Cursor AI Skill", "CLI Tools"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Low
-tags:
-- media naming
-- Chinese media
-- Plex/Emby/Jellyfin
-- file organization
-- AI automation
-source: https://github.com/skyzhao1223/media-naming-guide
+deployment_complexity: "Low"
+tags: ["media naming", "Chinese media", "Plex/Emby/Jellyfin", "file organization", "AI automation"]
+source: "https://github.com/skyzhao1223/media-naming-guide"
 stars: 0
-language: Python
-last_updated: '2026-07-15T08:01:17Z'
-discovered_at: '2026-07-15T08:05:54Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-15T08:01:17Z"
+discovered_at: "2026-07-15T08:05:54Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

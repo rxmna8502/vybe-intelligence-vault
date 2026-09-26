@@ -1,31 +1,19 @@
 ---
-title: jojoprison/mnemo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Obsidian
-- Claude Code
-- Codex
-- CLI
-- Markdown
-- Git
+title: "jojoprison/mnemo"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Obsidian", "Claude Code", "Codex", "CLI", "Markdown", "Git"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- persistent memory
-- knowledge management
-- AI agent integration
-- Obsidian automation
-- context recall
-source: https://github.com/jojoprison/mnemo
+deployment_complexity: "Medium"
+tags: ["persistent memory", "knowledge management", "AI agent integration", "Obsidian automation", "context recall"]
+source: "https://github.com/jojoprison/mnemo"
 stars: 6
-language: Python
-last_updated: '2026-07-16T18:03:23Z'
-discovered_at: '2026-07-16T18:05:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-16T18:03:23Z"
+discovered_at: "2026-07-16T18:05:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

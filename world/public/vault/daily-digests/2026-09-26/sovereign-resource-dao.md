@@ -1,46 +1,19 @@
 ---
-title: ovalentine964/sovereign-resource-dao
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Python
-- LangChain
-- LangGraph
-- FastAPI
-- PyTorch
-- PennyLane
-- Qiskit
-- Rust
-- Actix-Web
-- Solidity
-- Hardhat
-- Flutter
-- Dart
-- PostgreSQL
-- PostGIS
-- Sentinel-2
-- EfficientNet-B4
-- CLIP
-- Telegram Bot API
-- Polygon PoS
-- NVIDIA NIM (Nemotron 3 Ultra)
-- Oracle Cloud
+title: "ovalentine964/sovereign-resource-dao"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "LangChain", "LangGraph", "FastAPI", "PyTorch", "PennyLane", "Qiskit", "Rust", "Actix-Web", "Solidity", "Hardhat", "Flutter", "Dart", "PostgreSQL", "PostGIS", "Sentinel-2", "EfficientNet-B4", "CLIP", "Telegram Bot API", "Polygon PoS", "NVIDIA NIM (Nemotron 3 Ultra)", "Oracle Cloud"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- mineral governance
-- decentralized AI
-- smart contracts
-- community resource management
-- exploitation detection
-source: https://github.com/ovalentine964/sovereign-resource-dao
+deployment_complexity: "Medium"
+tags: ["mineral governance", "decentralized AI", "smart contracts", "community resource management", "exploitation detection"]
+source: "https://github.com/ovalentine964/sovereign-resource-dao"
 stars: 0
-language: Python
-last_updated: '2026-08-03T13:33:59Z'
-discovered_at: '2026-08-03T13:42:17Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T13:33:59Z"
+discovered_at: "2026-08-03T13:42:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

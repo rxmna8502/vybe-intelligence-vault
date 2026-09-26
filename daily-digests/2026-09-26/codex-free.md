@@ -1,30 +1,19 @@
 ---
-title: hypnguyen1209/codex-free
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Bun
-- '@modelcontextprotocol/sdk'
-- Node.js
-- Streamable HTTP
-- ngrok/Cloudflare Tunnel
+title: "hypnguyen1209/codex-free"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Bun", "@modelcontextprotocol/sdk", "Node.js", "Streamable HTTP", "ngrok/Cloudflare Tunnel"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP bridge
-- ChatGPT integration
-- local development
-- file operations
-- git automation
-source: https://github.com/hypnguyen1209/codex-free
+deployment_complexity: "Medium"
+tags: ["MCP bridge", "ChatGPT integration", "local development", "file operations", "git automation"]
+source: "https://github.com/hypnguyen1209/codex-free"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-06T15:11:32Z'
-discovered_at: '2026-08-06T15:20:05Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-06T15:11:32Z"
+discovered_at: "2026-08-06T15:20:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

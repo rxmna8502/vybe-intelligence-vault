@@ -1,39 +1,19 @@
 ---
-title: dkblinux98/nyxGPT
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Ollama
-- Apache Cassandra
-- FastAPI
-- Next.js
-- Docker
-- Prometheus
-- Grafana
-- OpenTelemetry
-- Jaeger
-- Loki
-- GlitchTip
-- Kubernetes
-- systemd
-- Homebrew
+title: "dkblinux98/nyxGPT"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Ollama", "Apache Cassandra", "FastAPI", "Next.js", "Docker", "Prometheus", "Grafana", "OpenTelemetry", "Jaeger", "Loki", "GlitchTip", "Kubernetes", "systemd", "Homebrew"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- local-first
-- RAG
-- LLM inference
-- observability
-- privacy
-source: https://github.com/dkblinux98/nyxGPT
+deployment_complexity: "High"
+tags: ["local-first", "RAG", "LLM inference", "observability", "privacy"]
+source: "https://github.com/dkblinux98/nyxGPT"
 stars: 0
-language: Python
-last_updated: '2026-08-05T02:13:22Z'
-discovered_at: '2026-08-05T02:17:05Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T02:13:22Z"
+discovered_at: "2026-08-05T02:17:05Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

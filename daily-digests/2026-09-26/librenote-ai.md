@@ -1,32 +1,19 @@
 ---
-title: devyanshyadav/librenote-ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Next.js
-- Supabase
-- PostgreSQL
-- pgvector
-- Drizzle
-- OpenRouter
-- Bun
-- TypeScript
+title: "devyanshyadav/librenote-ai"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Next.js", "Supabase", "PostgreSQL", "pgvector", "Drizzle", "OpenRouter", "Bun", "TypeScript"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- self-hosted
-- RAG
-- document processing
-- AI notebook
-- open-source
-source: https://github.com/devyanshyadav/librenote-ai
+deployment_complexity: "Medium"
+tags: ["self-hosted", "RAG", "document processing", "AI notebook", "open-source"]
+source: "https://github.com/devyanshyadav/librenote-ai"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-08T06:54:47Z'
-discovered_at: '2026-08-08T07:51:55Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T06:54:47Z"
+discovered_at: "2026-08-08T07:51:55Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

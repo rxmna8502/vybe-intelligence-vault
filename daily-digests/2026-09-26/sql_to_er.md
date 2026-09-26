@@ -1,31 +1,19 @@
 ---
-title: ystemsrx/sql_to_ER
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- React
-- Vite
-- AntV G6
-- Vitest
-- pnpm
-- IndexedDB
+title: "ystemsrx/sql_to_ER"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["TypeScript", "React", "Vite", "AntV G6", "Vitest", "pnpm", "IndexedDB"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- ER Diagram Generator
-- SQL to Diagram
-- DBML Converter
-- Chen Model
-- Frontend Tool
-source: https://github.com/ystemsrx/sql_to_ER
+deployment_complexity: "Low"
+tags: ["ER Diagram Generator", "SQL to Diagram", "DBML Converter", "Chen Model", "Frontend Tool"]
+source: "https://github.com/ystemsrx/sql_to_ER"
 stars: 180
-language: JavaScript
-last_updated: '2026-08-01T14:59:07Z'
-discovered_at: '2026-08-01T15:01:19Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T14:59:07Z"
+discovered_at: "2026-08-01T15:01:19Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

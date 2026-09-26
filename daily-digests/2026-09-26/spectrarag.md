@@ -1,35 +1,19 @@
 ---
-title: NorthernLightx/SpectraRAG
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Qdrant
-- BM25
-- BGE-M3
-- ColQwen2
-- Docling
-- Ollama
-- FastAPI
-- Docker
-- CUDA
-- OpenRouter
+title: "NorthernLightx/SpectraRAG"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Qdrant", "BM25", "BGE-M3", "ColQwen2", "Docling", "Ollama", "FastAPI", "Docker", "CUDA", "OpenRouter"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Multimodal RAG
-- Visual Retrieval
-- Per-Query Routing
-- PDF Processing
-- Evaluation-Driven
-source: https://github.com/NorthernLightx/SpectraRAG
+deployment_complexity: "Medium"
+tags: ["Multimodal RAG", "Visual Retrieval", "Per-Query Routing", "PDF Processing", "Evaluation-Driven"]
+source: "https://github.com/NorthernLightx/SpectraRAG"
 stars: 1
-language: Python
-last_updated: '2026-07-30T18:00:57Z'
-discovered_at: '2026-08-01T16:07:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-30T18:00:57Z"
+discovered_at: "2026-08-01T16:07:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

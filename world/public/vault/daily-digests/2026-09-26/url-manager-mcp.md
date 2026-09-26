@@ -1,31 +1,19 @@
 ---
-title: Piccolo123/url-manager-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- FastAPI
-- SQLite/PostgreSQL
-- REST API
-- UUID
-- JSON
+title: "Piccolo123/url-manager-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "FastAPI", "SQLite/PostgreSQL", "REST API", "UUID", "JSON"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- resource management
-- AI agent tooling
-- knowledge organization
-- collaborative bookmarking
-source: https://github.com/Piccolo123/url-manager-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "resource management", "AI agent tooling", "knowledge organization", "collaborative bookmarking"]
+source: "https://github.com/Piccolo123/url-manager-mcp"
 stars: 1
-language: Python
-last_updated: '2026-08-25T03:47:27Z'
-discovered_at: '2026-09-02T08:19:21Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-25T03:47:27Z"
+discovered_at: "2026-09-02T08:19:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

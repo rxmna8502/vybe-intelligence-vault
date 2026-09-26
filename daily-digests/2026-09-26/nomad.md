@@ -1,35 +1,19 @@
 ---
-title: navanil2702/nomad
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- FastAPI
-- Next.js
-- TypeScript
-- Python
-- OpenAI
-- Google Places API
-- Google Maps API
-- OpenWeather API
-- Supabase
-- Tailwind CSS
-- Framer Motion
+title: "navanil2702/nomad"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["FastAPI", "Next.js", "TypeScript", "Python", "OpenAI", "Google Places API", "Google Maps API", "OpenWeather API", "Supabase", "Tailwind CSS", "Framer Motion"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- travel planning
-- itinerary adaptation
-- AI companion
-- offline-first
-- real-time updates
-source: https://github.com/navanil2702/nomad
+deployment_complexity: "Medium"
+tags: ["travel planning", "itinerary adaptation", "AI companion", "offline-first", "real-time updates"]
+source: "https://github.com/navanil2702/nomad"
 stars: 0
-language: Python
-last_updated: '2026-08-03T18:46:56Z'
-discovered_at: '2026-08-03T18:52:37Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T18:46:56Z"
+discovered_at: "2026-08-03T18:52:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

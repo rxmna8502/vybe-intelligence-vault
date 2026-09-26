@@ -1,35 +1,19 @@
 ---
-title: ZenSystemAI/Zengram
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- PostgreSQL
-- pgvector
-- Node.js
-- Docker
-- TypeScript
-- MCP (Model Context Protocol)
-- REST API
-- Full-text search
-- Vector search
-- Entity graph retrieval
-- Cross-encoder reranking
+title: "ZenSystemAI/Zengram"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["PostgreSQL", "pgvector", "Node.js", "Docker", "TypeScript", "MCP (Model Context Protocol)", "REST API", "Full-text search", "Vector search", "Entity graph retrieval", "Cross-encoder reranking"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- multi-agent memory
-- shared context
-- vector database
-- MCP server
-- PostgreSQL
-source: https://github.com/ZenSystemAI/Zengram
+deployment_complexity: "Medium"
+tags: ["multi-agent memory", "shared context", "vector database", "MCP server", "PostgreSQL"]
+source: "https://github.com/ZenSystemAI/Zengram"
 stars: 56
-language: JavaScript
-last_updated: '2026-08-09T09:23:28Z'
-discovered_at: '2026-08-09T09:45:01Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-09T09:23:28Z"
+discovered_at: "2026-08-09T09:45:01Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

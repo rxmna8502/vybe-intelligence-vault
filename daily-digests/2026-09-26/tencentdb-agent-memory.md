@@ -1,29 +1,19 @@
 ---
-title: mohamamd991/TencentDB-Agent-Memory
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Local Database
-- Embedding
-- Vector Search
-- .NET Framework
+title: "mohamamd991/TencentDB-Agent-Memory"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Local Database", "Embedding", "Vector Search", ".NET Framework"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- local memory
-- AI agents
-- privacy-focused
-- long-term storage
-- offline processing
-source: https://github.com/mohamamd991/TencentDB-Agent-Memory
+deployment_complexity: "Low"
+tags: ["local memory", "AI agents", "privacy-focused", "long-term storage", "offline processing"]
+source: "https://github.com/mohamamd991/TencentDB-Agent-Memory"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-10T23:03:00Z'
-discovered_at: '2026-07-10T23:08:22Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-10T23:03:00Z"
+discovered_at: "2026-07-10T23:08:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
