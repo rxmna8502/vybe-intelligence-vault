@@ -1,33 +1,19 @@
 ---
-title: Toskurim/vector-unforget
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Python
-- ChromaDB
-- Qdrant
-- Pinecone
-- Pgvector
-- Weaviate
-- spaCy
-- SHA-256
-- AGPLv3
+title: "Toskurim/vector-unforget"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "ChromaDB", "Qdrant", "Pinecone", "Pgvector", "Weaviate", "spaCy", "SHA-256", "AGPLv3"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- GDPR compliance
-- Right to be Forgotten
-- Vector database
-- PII erasure
-- Audit trail
-source: https://github.com/Toskurim/vector-unforget
+deployment_complexity: "Medium"
+tags: ["GDPR compliance", "Right to be Forgotten", "Vector database", "PII erasure", "Audit trail"]
+source: "https://github.com/Toskurim/vector-unforget"
 stars: 0
-language: Python
-last_updated: '2026-08-07T15:42:38Z'
-discovered_at: '2026-08-07T16:02:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T15:42:38Z"
+discovered_at: "2026-08-07T16:02:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

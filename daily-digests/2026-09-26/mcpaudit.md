@@ -1,31 +1,19 @@
 ---
-title: saagpatel/MCPAudit
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- PyPI
-- GitHub Actions
-- SARIF
-- JSON
-- HTML
+title: "saagpatel/MCPAudit"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "PyPI", "GitHub Actions", "SARIF", "JSON", "HTML"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP security
-- prompt injection detection
-- SSRF analysis
-- risk assessment
-- CI/CD enforcement
-source: https://github.com/saagpatel/MCPAudit
+deployment_complexity: "Medium"
+tags: ["MCP security", "prompt injection detection", "SSRF analysis", "risk assessment", "CI/CD enforcement"]
+source: "https://github.com/saagpatel/MCPAudit"
 stars: 4
-language: Python
-last_updated: '2026-07-19T17:46:54Z'
-discovered_at: '2026-07-19T17:59:12Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-19T17:46:54Z"
+discovered_at: "2026-07-19T17:59:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

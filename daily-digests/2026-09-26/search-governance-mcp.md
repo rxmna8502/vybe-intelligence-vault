@@ -1,29 +1,19 @@
 ---
-title: SEOSiri-Official/search-governance-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- HTTP/HTTPS
-- XML/HTML Parsing
-- IndexNow API
+title: "SEOSiri-Official/search-governance-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "HTTP/HTTPS", "XML/HTML Parsing", "IndexNow API"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- MCP server
-- AI search governance
-- brand safety
-- canonical integrity
-- IndexNow
-source: https://github.com/SEOSiri-Official/search-governance-mcp
+deployment_complexity: "Low"
+tags: ["MCP server", "AI search governance", "brand safety", "canonical integrity", "IndexNow"]
+source: "https://github.com/SEOSiri-Official/search-governance-mcp"
 stars: 0
-language: Python
-last_updated: '2026-08-03T13:37:54Z'
-discovered_at: '2026-08-03T13:42:25Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T13:37:54Z"
+discovered_at: "2026-08-03T13:42:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,33 +1,19 @@
 ---
-title: alifanov/scopegate
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Next.js 16
-- TypeScript
-- PostgreSQL
-- Prisma 7
-- Tailwind CSS v4
-- shadcn/ui
-- Better Auth
-- '@modelcontextprotocol/sdk'
-- pnpm
+title: "alifanov/scopegate"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Next.js 16", "TypeScript", "PostgreSQL", "Prisma 7", "Tailwind CSS v4", "shadcn/ui", "Better Auth", "@modelcontextprotocol/sdk", "pnpm"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- permission management
-- AI agent integration
-- OAuth proxy
-- granular access control
-source: https://github.com/alifanov/scopegate
+deployment_complexity: "Medium"
+tags: ["MCP", "permission management", "AI agent integration", "OAuth proxy", "granular access control"]
+source: "https://github.com/alifanov/scopegate"
 stars: 15
-language: TypeScript
-last_updated: '2026-07-31T15:04:18Z'
-discovered_at: '2026-08-01T09:06:56Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-31T15:04:18Z"
+discovered_at: "2026-08-01T09:06:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

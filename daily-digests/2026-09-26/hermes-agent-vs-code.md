@@ -1,28 +1,19 @@
 ---
-title: eyan-ai/hermes-agent-vs-code
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- VS Code Extension API
-- Node.js
-- Hermes CLI
+title: "eyan-ai/hermes-agent-vs-code"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["JavaScript", "VS Code Extension API", "Node.js", "Hermes CLI"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- VS Code extension
-- AI coding assistant
-- sidebar chat
-- workspace context
-- Hermes CLI
-source: https://github.com/eyan-ai/hermes-agent-vs-code
+deployment_complexity: "Low"
+tags: ["VS Code extension", "AI coding assistant", "sidebar chat", "workspace context", "Hermes CLI"]
+source: "https://github.com/eyan-ai/hermes-agent-vs-code"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-06T09:41:10Z'
-discovered_at: '2026-08-06T09:42:07Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-06T09:41:10Z"
+discovered_at: "2026-08-06T09:42:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

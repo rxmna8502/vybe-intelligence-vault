@@ -1,32 +1,19 @@
 ---
-title: gustavomfg/Nocturne-Codex
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Electron
-- SQLite
-- Node.js
-- Codex CLI
-- JSON-RPC
-- Git
-- Pandoc
+title: "gustavomfg/Nocturne-Codex"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Electron", "SQLite", "Node.js", "Codex CLI", "JSON-RPC", "Git", "Pandoc"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI collaboration
-- codex integration
-- developer workspace
-- agent orchestration
-- project management
-source: https://github.com/gustavomfg/Nocturne-Codex
+deployment_complexity: "Medium"
+tags: ["AI collaboration", "codex integration", "developer workspace", "agent orchestration", "project management"]
+source: "https://github.com/gustavomfg/Nocturne-Codex"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-12T02:32:00Z'
-discovered_at: '2026-07-12T02:32:46Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-12T02:32:00Z"
+discovered_at: "2026-07-12T02:32:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: escoffier-labs/graphtrail
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- SQLite
-- Tree-sitter
-- MCP (Model Context Protocol)
-- CLI
-- JSON-RPC
-- Git
+title: "escoffier-labs/graphtrail"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "SQLite", "Tree-sitter", "MCP (Model Context Protocol)", "CLI", "JSON-RPC", "Git"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- code graph
-- call graph
-- static analysis
-- MCP server
-- SQLite
-source: https://github.com/escoffier-labs/graphtrail
+deployment_complexity: "Medium"
+tags: ["code graph", "call graph", "static analysis", "MCP server", "SQLite"]
+source: "https://github.com/escoffier-labs/graphtrail"
 stars: 6
-language: Rust
-last_updated: '2026-07-19T05:47:41Z'
-discovered_at: '2026-07-19T05:51:12Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-19T05:47:41Z"
+discovered_at: "2026-07-19T05:51:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

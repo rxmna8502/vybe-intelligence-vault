@@ -1,33 +1,19 @@
 ---
-title: whyy9527/ariadne
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- SQLite
-- TF-IDF
-- MCP (Model Context Protocol)
-- GraphQL
-- REST
-- Kafka
-- TypeScript
-- Spring Boot
+title: "whyy9527/ariadne"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "SQLite", "TF-IDF", "MCP (Model Context Protocol)", "GraphQL", "REST", "Kafka", "TypeScript", "Spring Boot"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- MCP server
-- API dependency graph
-- microservices
-- cross-service tracing
-- AI coding assistant
-source: https://github.com/whyy9527/ariadne
+deployment_complexity: "Medium"
+tags: ["MCP server", "API dependency graph", "microservices", "cross-service tracing", "AI coding assistant"]
+source: "https://github.com/whyy9527/ariadne"
 stars: 1
-language: Python
-last_updated: '2026-07-11T05:28:23Z'
-discovered_at: '2026-07-11T05:39:22Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T05:28:23Z"
+discovered_at: "2026-07-11T05:39:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: magneticlineofforceplaymaker9843/shi-yigong-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Windows
-- Claude Code API
-- Python (inferred)
-- Electron (inferred)
-- Installer (NSIS or similar)
+title: "magneticlineofforceplaymaker9843/shi-yigong-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Windows", "Claude Code API", "Python (inferred)", "Electron (inferred)", "Installer (NSIS or similar)"]
 quality_score: 5
 rag_relevance: 4
-deployment_complexity: Low
-tags:
-- structured thinking
-- academic frameworks
-- AI-assisted analysis
-- logical reasoning
-- desktop application
-source: https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill
+deployment_complexity: "Low"
+tags: ["structured thinking", "academic frameworks", "AI-assisted analysis", "logical reasoning", "desktop application"]
+source: "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
 stars: 0
-language: None
-last_updated: '2026-07-11T11:01:33Z'
-discovered_at: '2026-07-11T11:04:00Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-11T11:01:33Z"
+discovered_at: "2026-07-11T11:04:00Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

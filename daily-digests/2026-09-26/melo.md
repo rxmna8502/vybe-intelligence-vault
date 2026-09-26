@@ -1,32 +1,19 @@
 ---
-title: Yuan-ManX/Melo
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Speech Recognition (ASR)
-- Text-to-Speech (TTS)
-- Voice Cloning
-- Prosody Control
-- Multi-Platform UI (Web, Desktop, Mobile)
-- Agent Orchestration
-- Parallel Task Execution
+title: "Yuan-ManX/Melo"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Speech Recognition (ASR)", "Text-to-Speech (TTS)", "Voice Cloning", "Prosody Control", "Multi-Platform UI (Web, Desktop, Mobile)", "Agent Orchestration", "Parallel Task Execution"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- voice-native
-- full-duplex
-- AI companion
-- real-time interaction
-- voice agents
-source: https://github.com/Yuan-ManX/Melo
+deployment_complexity: "High"
+tags: ["voice-native", "full-duplex", "AI companion", "real-time interaction", "voice agents"]
+source: "https://github.com/Yuan-ManX/Melo"
 stars: 1
-language: Python
-last_updated: '2026-08-10T03:57:53Z'
-discovered_at: '2026-08-10T03:58:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T03:57:53Z"
+discovered_at: "2026-08-10T03:58:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

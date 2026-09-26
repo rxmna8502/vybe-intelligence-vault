@@ -1,33 +1,19 @@
 ---
-title: KB-perByte/hiveshare
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- PostgreSQL
-- pgvector
-- Redis
-- Docker
-- MCP (Model Context Protocol)
-- OpenAI/Ollama (embeddings)
-- SSE (Server-Sent Events)
-- HNSW (Hierarchical Navigable Small World) indexing
+title: "KB-perByte/hiveshare"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Go", "PostgreSQL", "pgvector", "Redis", "Docker", "MCP (Model Context Protocol)", "OpenAI/Ollama (embeddings)", "SSE (Server-Sent Events)", "HNSW (Hierarchical Navigable Small World) indexing"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- collaborative memory
-- AI context sharing
-- vector database
-- team productivity
-- MCP integration
-source: https://github.com/KB-perByte/hiveshare
+deployment_complexity: "Medium"
+tags: ["collaborative memory", "AI context sharing", "vector database", "team productivity", "MCP integration"]
+source: "https://github.com/KB-perByte/hiveshare"
 stars: 5
-language: Go
-last_updated: '2026-08-03T10:33:26Z'
-discovered_at: '2026-08-03T10:44:08Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-03T10:33:26Z"
+discovered_at: "2026-08-03T10:44:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

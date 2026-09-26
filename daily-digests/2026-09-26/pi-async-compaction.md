@@ -1,28 +1,19 @@
 ---
-title: almogdepaz/pi-async-compaction
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Pi Framework
-- Node.js
-- npm
+title: "almogdepaz/pi-async-compaction"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Pi Framework", "Node.js", "npm"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- context compaction
-- Pi coding agent
-- asynchronous processing
-- token management
-- background tasks
-source: https://github.com/almogdepaz/pi-async-compaction
+deployment_complexity: "Low"
+tags: ["context compaction", "Pi coding agent", "asynchronous processing", "token management", "background tasks"]
+source: "https://github.com/almogdepaz/pi-async-compaction"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-19T17:57:30Z'
-discovered_at: '2026-07-19T17:58:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T17:57:30Z"
+discovered_at: "2026-07-19T17:58:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

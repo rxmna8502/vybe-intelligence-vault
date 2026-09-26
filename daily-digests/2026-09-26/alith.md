@@ -1,31 +1,19 @@
 ---
-title: 0xLazAI/alith
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Python
-- Node.js
-- Web3
-- TEE (Trusted Execution Environment)
-- LazAI Gateway
-- LLMs (Llama, Grok, OpenAI, Anthropic)
+title: "0xLazAI/alith"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Rust", "Python", "Node.js", "Web3", "TEE (Trusted Execution Environment)", "LazAI Gateway", "LLMs (Llama, Grok, OpenAI, Anthropic)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Web3 AI
-- Agent Framework
-- Blockchain Integration
-- High-Performance
-- Decentralized AI
-source: https://github.com/0xLazAI/alith
+deployment_complexity: "Medium"
+tags: ["Web3 AI", "Agent Framework", "Blockchain Integration", "High-Performance", "Decentralized AI"]
+source: "https://github.com/0xLazAI/alith"
 stars: 44
-language: Rust
-last_updated: '2026-08-08T01:03:35Z'
-discovered_at: '2026-08-08T01:27:27Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-08T01:03:35Z"
+discovered_at: "2026-08-08T01:27:27Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

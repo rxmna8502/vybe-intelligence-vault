@@ -1,28 +1,19 @@
 ---
-title: paumkim/term
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- AI Agent
+title: "paumkim/term"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "CLI", "AI Agent"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI coding agent
-- terminal automation
-- CLI tool
-- TypeScript
-- developer productivity
-source: https://github.com/paumkim/term
+deployment_complexity: "Low"
+tags: ["AI coding agent", "terminal automation", "CLI tool", "TypeScript", "developer productivity"]
+source: "https://github.com/paumkim/term"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-01T03:40:08Z'
-discovered_at: '2026-08-01T03:43:43Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T03:40:08Z"
+discovered_at: "2026-08-01T03:43:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

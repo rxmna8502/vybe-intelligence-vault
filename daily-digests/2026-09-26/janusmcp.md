@@ -1,30 +1,19 @@
 ---
-title: Bayway/janusmcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- OAuth
-- CLI
-- HTTP/Streamable Transport
-- OS Keychain Integration
+title: "Bayway/janusmcp"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "OAuth", "CLI", "HTTP/Streamable Transport", "OS Keychain Integration"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- multi-account
-- credential broker
-- MCP server
-- AI agents
-- identity management
-source: https://github.com/Bayway/janusmcp
+deployment_complexity: "Medium"
+tags: ["multi-account", "credential broker", "MCP server", "AI agents", "identity management"]
+source: "https://github.com/Bayway/janusmcp"
 stars: 8
-language: Go
-last_updated: '2026-08-01T14:53:19Z'
-discovered_at: '2026-08-01T15:01:33Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-01T14:53:19Z"
+discovered_at: "2026-08-01T15:01:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

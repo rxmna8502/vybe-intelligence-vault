@@ -1,38 +1,19 @@
 ---
-title: Merluzzo93/cupcat
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- React
-- Vite
-- Tauri
-- Rust
-- Bun
-- ffmpeg
-- Whisper (GGML)
-- Piper TTS
-- sherpa-onnx
-- Claude Code/Desktop
-- MCP (Model Context Protocol)
-- WebSocket
-- Tailwind CSS
+title: "Merluzzo93/cupcat"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "Vite", "Tauri", "Rust", "Bun", "ffmpeg", "Whisper (GGML)", "Piper TTS", "sherpa-onnx", "Claude Code/Desktop", "MCP (Model Context Protocol)", "WebSocket", "Tailwind CSS"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI video editing
-- local-first
-- agentic workflow
-- MCP integration
-- open source
-source: https://github.com/Merluzzo93/cupcat
+deployment_complexity: "Medium"
+tags: ["AI video editing", "local-first", "agentic workflow", "MCP integration", "open source"]
+source: "https://github.com/Merluzzo93/cupcat"
 stars: 1
-language: TypeScript
-last_updated: '2026-07-21T14:50:54Z'
-discovered_at: '2026-07-21T15:03:25Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-21T14:50:54Z"
+discovered_at: "2026-07-21T15:03:25Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

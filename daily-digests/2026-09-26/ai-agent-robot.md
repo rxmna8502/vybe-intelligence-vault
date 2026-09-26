@@ -1,30 +1,19 @@
 ---
-title: soufianeoi/ai-agent-robot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Electron
-- JavaScript
-- Web Speech API
-- OpenAI-compatible API
-- Node.js
-- Ollama
+title: "soufianeoi/ai-agent-robot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "JavaScript", "Web Speech API", "OpenAI-compatible API", "Node.js", "Ollama"]
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- AI assistant
-- desktop agent
-- voice interaction
-- local LLM
-- system control
-source: https://github.com/soufianeoi/ai-agent-robot
+deployment_complexity: "Medium"
+tags: ["AI assistant", "desktop agent", "voice interaction", "local LLM", "system control"]
+source: "https://github.com/soufianeoi/ai-agent-robot"
 stars: 1
-language: JavaScript
-last_updated: '2026-08-10T19:55:38Z'
-discovered_at: '2026-08-10T20:02:06Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T19:55:38Z"
+discovered_at: "2026-08-10T20:02:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

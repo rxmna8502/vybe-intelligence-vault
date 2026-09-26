@@ -1,31 +1,19 @@
 ---
-title: api-evangelist/vellum
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- TypeScript
-- REST API
-- SDKs
-- Docker
-- Postman
-- OpenAPI
+title: "api-evangelist/vellum"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "TypeScript", "REST API", "SDKs", "Docker", "Postman", "OpenAPI"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- LLM Platform
-- Prompt Engineering
-- RAG
-- Workflows
-- Observability
-source: https://github.com/api-evangelist/vellum
+deployment_complexity: "Medium"
+tags: ["LLM Platform", "Prompt Engineering", "RAG", "Workflows", "Observability"]
+source: "https://github.com/api-evangelist/vellum"
 stars: 0
-language: None
-last_updated: '2026-07-30T03:46:45Z'
-discovered_at: '2026-08-01T16:07:07Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-30T03:46:45Z"
+discovered_at: "2026-08-01T16:07:07Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

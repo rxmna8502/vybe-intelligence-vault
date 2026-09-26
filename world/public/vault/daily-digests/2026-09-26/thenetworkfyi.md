@@ -1,37 +1,19 @@
 ---
-title: thenetworkfyi/thenetworkfyi
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Python
-- pydantic-ai
-- PostgreSQL
-- pgvector
-- SQLModel
-- Alembic
-- Procrastinate
-- IMAP
-- SMTP
-- NetworkX
-- OpenAI embeddings
-- Docker
-- pytest
+title: "thenetworkfyi/thenetworkfyi"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "pydantic-ai", "PostgreSQL", "pgvector", "SQLModel", "Alembic", "Procrastinate", "IMAP", "SMTP", "NetworkX", "OpenAI embeddings", "Docker", "pytest"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- email automation
-- agentic systems
-- social graph
-- memory-based reasoning
-- privacy-preserving
-source: https://github.com/thenetworkfyi/thenetworkfyi
+deployment_complexity: "Medium"
+tags: ["email automation", "agentic systems", "social graph", "memory-based reasoning", "privacy-preserving"]
+source: "https://github.com/thenetworkfyi/thenetworkfyi"
 stars: 0
-language: Python
-last_updated: '2026-08-04T23:04:20Z'
-discovered_at: '2026-08-04T23:04:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T23:04:20Z"
+discovered_at: "2026-08-04T23:04:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

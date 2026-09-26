@@ -1,34 +1,19 @@
 ---
-title: juyelhushen/sentinel
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- LangGraph
-- LangChain
-- Ollama
-- Model Context Protocol (MCP)
-- FastAPI
-- ChromaDB
-- SQLite
-- Pytest
-- Docker
+title: "juyelhushen/sentinel"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "LangChain", "Ollama", "Model Context Protocol (MCP)", "FastAPI", "ChromaDB", "SQLite", "Pytest", "Docker"]
 quality_score: 6
 rag_relevance: 8
-deployment_complexity: High
-tags:
-- autonomous agents
-- multi-agent orchestration
-- AI engineering ops
-- MCP
-- automated verification
-source: https://github.com/juyelhushen/sentinel
+deployment_complexity: "High"
+tags: ["autonomous agents", "multi-agent orchestration", "AI engineering ops", "MCP", "automated verification"]
+source: "https://github.com/juyelhushen/sentinel"
 stars: 0
-language: Python
-last_updated: '2026-08-10T16:04:08Z'
-discovered_at: '2026-08-10T16:06:53Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-10T16:04:08Z"
+discovered_at: "2026-08-10T16:06:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

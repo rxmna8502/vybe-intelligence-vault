@@ -1,28 +1,19 @@
 ---
-title: minor-maianthemumcanadense3023/llm-context-base
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Markdown
-- Windows Desktop App
-- Local Processing
+title: "minor-maianthemumcanadense3023/llm-context-base"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Markdown", "Windows Desktop App", "Local Processing"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- private knowledge base
-- local AI
-- Markdown indexing
-- personal RAG
-- offline processing
-source: https://github.com/minor-maianthemumcanadense3023/llm-context-base
+deployment_complexity: "Low"
+tags: ["private knowledge base", "local AI", "Markdown indexing", "personal RAG", "offline processing"]
+source: "https://github.com/minor-maianthemumcanadense3023/llm-context-base"
 stars: 1
-language: Python
-last_updated: '2026-07-11T11:01:01Z'
-discovered_at: '2026-07-11T11:04:06Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-11T11:01:01Z"
+discovered_at: "2026-07-11T11:04:06Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

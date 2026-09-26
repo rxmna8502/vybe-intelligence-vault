@@ -1,35 +1,19 @@
 ---
-title: slaveofcode/Eridian
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Tauri
-- React
-- SQLite
-- TypeScript
-- Vite
-- pnpm
-- FTS5 (Full-Text Search)
-- Git
-- OpenCode
-- Claude Code
+title: "slaveofcode/Eridian"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Rust", "Tauri", "React", "SQLite", "TypeScript", "Vite", "pnpm", "FTS5 (Full-Text Search)", "Git", "OpenCode", "Claude Code"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent inspector
-- local-first
-- session visualization
-- read-only
-- token usage tracking
-source: https://github.com/slaveofcode/Eridian
+deployment_complexity: "Medium"
+tags: ["AI agent inspector", "local-first", "session visualization", "read-only", "token usage tracking"]
+source: "https://github.com/slaveofcode/Eridian"
 stars: 0
-language: Rust
-last_updated: '2026-08-09T18:42:03Z'
-discovered_at: '2026-08-09T18:43:37Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-09T18:42:03Z"
+discovered_at: "2026-08-09T18:43:37Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

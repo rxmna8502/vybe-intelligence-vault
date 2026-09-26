@@ -1,36 +1,19 @@
 ---
-title: VeteranBoLuo/light-note
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Vue 3
-- TypeScript
-- Node.js
-- Express
-- MySQL
-- Pinia
-- Vite
-- TinyMCE
-- AntV
-- Nginx
-- PM2
-- OBS Object Storage
+title: "VeteranBoLuo/light-note"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Vue 3", "TypeScript", "Node.js", "Express", "MySQL", "Pinia", "Vite", "TinyMCE", "AntV", "Nginx", "PM2", "OBS Object Storage"]
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: High
-tags:
-- note-taking
-- bookmark-manager
-- cloud-storage
-- AI-assistant
-- cross-platform
-source: https://github.com/VeteranBoLuo/light-note
+deployment_complexity: "High"
+tags: ["note-taking", "bookmark-manager", "cloud-storage", "AI-assistant", "cross-platform"]
+source: "https://github.com/VeteranBoLuo/light-note"
 stars: 28
-language: Vue
-last_updated: '2026-07-21T10:21:51Z'
-discovered_at: '2026-07-21T10:24:26Z'
-evaluated_by: mistral-small-latest
+language: "Vue"
+last_updated: "2026-07-21T10:21:51Z"
+discovered_at: "2026-07-21T10:24:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

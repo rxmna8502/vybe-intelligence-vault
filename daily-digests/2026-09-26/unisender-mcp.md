@@ -1,29 +1,19 @@
 ---
-title: theYahia/unisender-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- UniSender API
-- NPM
+title: "theYahia/unisender-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "UniSender API", "NPM"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- email automation
-- MCP server
-- UniSender integration
-- AI agent tools
-- marketing API
-source: https://github.com/theYahia/unisender-mcp
+deployment_complexity: "Low"
+tags: ["email automation", "MCP server", "UniSender integration", "AI agent tools", "marketing API"]
+source: "https://github.com/theYahia/unisender-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T19:12:33Z'
-discovered_at: '2026-09-02T19:13:53Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:12:33Z"
+discovered_at: "2026-09-02T19:13:53Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

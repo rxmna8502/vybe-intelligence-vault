@@ -1,44 +1,19 @@
 ---
-title: RiceSouffle/atlas-agentic-rag
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- LangGraph
-- Langfuse
-- Redis
-- FastAPI
-- Next.js
-- Pydantic
-- PostgreSQL/pgvector
-- Qdrant
-- MCP (Model Context Protocol)
-- Claude
-- OpenAI
-- Ollama
-- vLLM
-- Bedrock
-- Docker
-- Kubernetes
-- Go
-- Ruff
-- Sentence Transformers
+title: "RiceSouffle/atlas-agentic-rag"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LangGraph", "Langfuse", "Redis", "FastAPI", "Next.js", "Pydantic", "PostgreSQL/pgvector", "Qdrant", "MCP (Model Context Protocol)", "Claude", "OpenAI", "Ollama", "vLLM", "Bedrock", "Docker", "Kubernetes", "Go", "Ruff", "Sentence Transformers"]
 quality_score: 10
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Agentic RAG
-- Hybrid Search
-- Knowledge Graph
-- Multi-Model Routing
-- Reproducible Evaluation
-source: https://github.com/RiceSouffle/atlas-agentic-rag
+deployment_complexity: "Medium"
+tags: ["Agentic RAG", "Hybrid Search", "Knowledge Graph", "Multi-Model Routing", "Reproducible Evaluation"]
+source: "https://github.com/RiceSouffle/atlas-agentic-rag"
 stars: 1
-language: Python
-last_updated: '2026-08-08T11:29:56Z'
-discovered_at: '2026-08-08T11:31:43Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T11:29:56Z"
+discovered_at: "2026-08-08T11:31:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

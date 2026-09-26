@@ -1,31 +1,19 @@
 ---
-title: Tongas/sherpa-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Ollama
-- llama.cpp
-- LM Studio
-- ripgrep
+title: "Tongas/sherpa-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ollama", "llama.cpp", "LM Studio", "ripgrep"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Claude Code
-- local LLM
-- code analysis
-- token optimization
-- batch editing
-source: https://github.com/Tongas/sherpa-mcp
+deployment_complexity: "Medium"
+tags: ["Claude Code", "local LLM", "code analysis", "token optimization", "batch editing"]
+source: "https://github.com/Tongas/sherpa-mcp"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-03T01:58:26Z'
-discovered_at: '2026-09-03T02:23:36Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T01:58:26Z"
+discovered_at: "2026-09-03T02:23:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

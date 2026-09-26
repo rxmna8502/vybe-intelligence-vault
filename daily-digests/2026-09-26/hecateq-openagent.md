@@ -1,34 +1,19 @@
 ---
-title: hecateq/hecateq-openagent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- Zod
-- Mermaid
-- npm
-- OpenCode
-- LSP (Language Server Protocol)
-- AST-grep
-- OAuth 2.0
-- JSONC
+title: "hecateq/hecateq-openagent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "Zod", "Mermaid", "npm", "OpenCode", "LSP (Language Server Protocol)", "AST-grep", "OAuth 2.0", "JSONC"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- agent orchestration
-- multi-model
-- workflow engine
-- LSP integration
-- parallel agents
-source: https://github.com/hecateq/hecateq-openagent
+deployment_complexity: "Medium"
+tags: ["agent orchestration", "multi-model", "workflow engine", "LSP integration", "parallel agents"]
+source: "https://github.com/hecateq/hecateq-openagent"
 stars: 3
-language: TypeScript
-last_updated: '2026-08-08T23:18:06Z'
-discovered_at: '2026-08-08T23:31:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-08T23:18:06Z"
+discovered_at: "2026-08-08T23:31:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

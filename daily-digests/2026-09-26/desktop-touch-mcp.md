@@ -1,35 +1,19 @@
 ---
-title: Harusame64/desktop-touch-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Rust
-- TypeScript
-- Node.js
-- UI Automation (UIA)
-- Windows API
-- PowerShell
-- napi-rs
-- Windows-rs
-- OCR (Windows OCR)
-- SSE2 SIMD
-- MCP (Model Context Protocol)
+title: "Harusame64/desktop-touch-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "TypeScript", "Node.js", "UI Automation (UIA)", "Windows API", "PowerShell", "napi-rs", "Windows-rs", "OCR (Windows OCR)", "SSE2 SIMD", "MCP (Model Context Protocol)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Windows automation
-- MCP server
-- AI agent interaction
-- UI Automation
-- Rust native engine
-source: https://github.com/Harusame64/desktop-touch-mcp
+deployment_complexity: "Medium"
+tags: ["Windows automation", "MCP server", "AI agent interaction", "UI Automation", "Rust native engine"]
+source: "https://github.com/Harusame64/desktop-touch-mcp"
 stars: 17
-language: TypeScript
-last_updated: '2026-09-02T22:06:02Z'
-discovered_at: '2026-09-02T22:22:47Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T22:06:02Z"
+discovered_at: "2026-09-02T22:22:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

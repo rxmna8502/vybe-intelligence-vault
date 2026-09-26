@@ -1,31 +1,19 @@
 ---
-title: geml-spec/geml
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript/TypeScript
-- Node.js
-- CLI tooling
-- Markdown
-- AST parsing
-- Git-based versioning
-- REST-inspired architectural principles
+title: "geml-spec/geml"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript/TypeScript", "Node.js", "CLI tooling", "Markdown", "AST parsing", "Git-based versioning", "REST-inspired architectural principles"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- structured markup
-- agent-native
-- block-level operations
-- low-token context
-- document versioning
-source: https://github.com/geml-spec/geml
+deployment_complexity: "Medium"
+tags: ["structured markup", "agent-native", "block-level operations", "low-token context", "document versioning"]
+source: "https://github.com/geml-spec/geml"
 stars: 25
-language: JavaScript
-last_updated: '2026-09-03T02:09:59Z'
-discovered_at: '2026-09-03T02:21:15Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-09-03T02:09:59Z"
+discovered_at: "2026-09-03T02:21:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,28 +1,19 @@
 ---
-title: Naveenkm007/spaceship-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Model Context Protocol (MCP)
-- Spaceship API
-- AI Integration
+title: "Naveenkm007/spaceship-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Spaceship API", "AI Integration"]
 quality_score: 7
 rag_relevance: 5
-deployment_complexity: Medium
-tags:
-- domain management
-- DNS automation
-- AI-assisted tools
-- MCP server
-- Spaceship API
-source: https://github.com/Naveenkm007/spaceship-mcp
+deployment_complexity: "Medium"
+tags: ["domain management", "DNS automation", "AI-assisted tools", "MCP server", "Spaceship API"]
+source: "https://github.com/Naveenkm007/spaceship-mcp"
 stars: 2
-language: TypeScript
-last_updated: '2026-07-17T02:49:38Z'
-discovered_at: '2026-07-17T02:52:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-17T02:49:38Z"
+discovered_at: "2026-07-17T02:52:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

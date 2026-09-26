@@ -1,34 +1,19 @@
 ---
-title: jsuzanne/stigix
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Docker
-- Scapy
-- Python
-- React
-- Node.js
-- JWT Authentication
-- WebSockets
-- VyOS API
-- Cloudflare Workers
+title: "jsuzanne/stigix"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Docker", "Scapy", "Python", "React", "Node.js", "JWT Authentication", "WebSockets", "VyOS API", "Cloudflare Workers"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- SD-WAN
-- Network Simulation
-- Security Testing
-- Traffic Generation
-- SASE
-source: https://github.com/jsuzanne/stigix
+deployment_complexity: "Medium"
+tags: ["SD-WAN", "Network Simulation", "Security Testing", "Traffic Generation", "SASE"]
+source: "https://github.com/jsuzanne/stigix"
 stars: 16
-language: TypeScript
-last_updated: '2026-09-02T15:51:03Z'
-discovered_at: '2026-09-02T15:53:09Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T15:51:03Z"
+discovered_at: "2026-09-02T15:53:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

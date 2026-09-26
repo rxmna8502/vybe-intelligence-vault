@@ -1,30 +1,19 @@
 ---
-title: kubeopencode/kubeopencode
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- Kubernetes
-- Helm
-- OpenCode
-- YAML
-- CLI
+title: "kubeopencode/kubeopencode"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "Kubernetes", "Helm", "OpenCode", "YAML", "CLI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- Kubernetes
-- AI Agents
-- Orchestration
-- Enterprise
-- Governance
-source: https://github.com/kubeopencode/kubeopencode
+deployment_complexity: "Medium"
+tags: ["Kubernetes", "AI Agents", "Orchestration", "Enterprise", "Governance"]
+source: "https://github.com/kubeopencode/kubeopencode"
 stars: 104
-language: Go
-last_updated: '2026-07-19T07:28:28Z'
-discovered_at: '2026-07-19T07:29:28Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-07-19T07:28:28Z"
+discovered_at: "2026-07-19T07:29:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

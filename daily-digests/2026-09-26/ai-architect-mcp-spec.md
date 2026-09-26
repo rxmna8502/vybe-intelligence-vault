@@ -1,31 +1,19 @@
 ---
-title: cdeust/ai-architect-mcp-spec
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- SQLite
-- pnpm
-- Vitest
-- Better SQLite3
+title: "cdeust/ai-architect-mcp-spec"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "pnpm", "Vitest", "Better SQLite3"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- PRD verification
-- deterministic validation
-- multi-judge consensus
-- closed-loop calibration
-- MCP server
-source: https://github.com/cdeust/ai-architect-mcp-spec
+deployment_complexity: "Medium"
+tags: ["PRD verification", "deterministic validation", "multi-judge consensus", "closed-loop calibration", "MCP server"]
+source: "https://github.com/cdeust/ai-architect-mcp-spec"
 stars: 2
-language: JavaScript
-last_updated: '2026-08-03T16:18:51Z'
-discovered_at: '2026-08-03T16:26:28Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-03T16:18:51Z"
+discovered_at: "2026-08-03T16:26:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

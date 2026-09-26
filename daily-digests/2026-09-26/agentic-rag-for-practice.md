@@ -1,30 +1,19 @@
 ---
-title: constancywoodsy286/agentic-rag-for-practice
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- FastAPI
-- LangGraph
-- Qdrant
-- Docker
-- RAG (Retrieval Augmented Generation)
+title: "constancywoodsy286/agentic-rag-for-practice"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "LangGraph", "Qdrant", "Docker", "RAG (Retrieval Augmented Generation)"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- document QA
-- multi-user isolation
-- hybrid retrieval
-- local processing
-- LangGraph
-source: https://github.com/constancywoodsy286/agentic-rag-for-practice
+deployment_complexity: "Medium"
+tags: ["document QA", "multi-user isolation", "hybrid retrieval", "local processing", "LangGraph"]
+source: "https://github.com/constancywoodsy286/agentic-rag-for-practice"
 stars: 1
-language: Python
-last_updated: '2026-08-09T14:05:30Z'
-discovered_at: '2026-08-09T14:38:44Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T14:05:30Z"
+discovered_at: "2026-08-09T14:38:44Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

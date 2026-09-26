@@ -1,31 +1,19 @@
 ---
-title: unknowbug/qlens
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- C++
-- Qt 6
-- Python
-- SQLite
-- LibRaw
-- LCMS2
-- MCP (Model Context Protocol)
+title: "unknowbug/qlens"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["C++", "Qt 6", "Python", "SQLite", "LibRaw", "LCMS2", "MCP (Model Context Protocol)"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- image viewer
-- tagging protocol
-- AI batch processing
-- MCP integration
-- token optimization
-source: https://github.com/unknowbug/qlens
+deployment_complexity: "Medium"
+tags: ["image viewer", "tagging protocol", "AI batch processing", "MCP integration", "token optimization"]
+source: "https://github.com/unknowbug/qlens"
 stars: 0
-language: C++
-last_updated: '2026-08-01T19:04:46Z'
-discovered_at: '2026-08-01T19:19:24Z'
-evaluated_by: mistral-small-latest
+language: "C++"
+last_updated: "2026-08-01T19:04:46Z"
+discovered_at: "2026-08-01T19:19:24Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

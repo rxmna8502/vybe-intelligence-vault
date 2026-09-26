@@ -1,35 +1,19 @@
 ---
-title: smart-mcp-proxy/mcpproxy-go
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Go
-- MCP (Model Context Protocol)
-- HTTP/HTTPS
-- Web UI (Embedded)
-- System Tray/Menu Bar Apps
-- Security Scanners (Snyk, Semgrep, Trivy, etc.)
-- SARIF
-- Homebrew
-- APT
-- DNF
-- AUR
+title: "smart-mcp-proxy/mcpproxy-go"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "MCP (Model Context Protocol)", "HTTP/HTTPS", "Web UI (Embedded)", "System Tray/Menu Bar Apps", "Security Scanners (Snyk, Semgrep, Trivy, etc.)", "SARIF", "Homebrew", "APT", "DNF", "AUR"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Low
-tags:
-- MCP server proxy
-- AI agent orchestration
-- security gateway
-- token efficiency
-- cross-platform
-source: https://github.com/smart-mcp-proxy/mcpproxy-go
+deployment_complexity: "Low"
+tags: ["MCP server proxy", "AI agent orchestration", "security gateway", "token efficiency", "cross-platform"]
+source: "https://github.com/smart-mcp-proxy/mcpproxy-go"
 stars: 333
-language: Go
-last_updated: '2026-09-03T15:31:22Z'
-discovered_at: '2026-09-03T15:41:47Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-09-03T15:31:22Z"
+discovered_at: "2026-09-03T15:41:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

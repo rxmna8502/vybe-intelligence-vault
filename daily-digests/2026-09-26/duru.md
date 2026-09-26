@@ -1,37 +1,19 @@
 ---
-title: leeryong/DURU
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Ollama
-- PyTorch
-- Qdrant
-- FastAPI
-- React
-- SQLite
-- PDF.js
-- Tailwind CSS
-- PaddleOCR
-- Tesseract OCR
-- Mem0
-- BGE-M3
+title: "leeryong/DURU"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Ollama", "PyTorch", "Qdrant", "FastAPI", "React", "SQLite", "PDF.js", "Tailwind CSS", "PaddleOCR", "Tesseract OCR", "Mem0", "BGE-M3"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- on-premise AI
-- document-based RAG
-- local LLM
-- evidence citation
-- offline operation
-source: https://github.com/leeryong/DURU
+deployment_complexity: "Medium"
+tags: ["on-premise AI", "document-based RAG", "local LLM", "evidence citation", "offline operation"]
+source: "https://github.com/leeryong/DURU"
 stars: 23
-language: None
-last_updated: '2026-09-02T00:29:23Z'
-discovered_at: '2026-09-02T08:19:21Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-09-02T00:29:23Z"
+discovered_at: "2026-09-02T08:19:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

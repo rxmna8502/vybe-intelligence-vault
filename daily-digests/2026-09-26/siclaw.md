@@ -1,36 +1,19 @@
 ---
-title: scitix/siclaw
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Node.js
-- TypeScript
-- React
-- Vite
-- Tailwind CSS
-- SQLite
-- MySQL
-- WebSocket
-- Kubernetes
-- MCP (Model Context Protocol)
-- Langfuse
-- Phoenix
+title: "scitix/siclaw"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "TypeScript", "React", "Vite", "Tailwind CSS", "SQLite", "MySQL", "WebSocket", "Kubernetes", "MCP (Model Context Protocol)", "Langfuse", "Phoenix"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI diagnostics
-- DevOps automation
-- SRE tooling
-- read-only investigation
-- infrastructure monitoring
-source: https://github.com/scitix/siclaw
+deployment_complexity: "Medium"
+tags: ["AI diagnostics", "DevOps automation", "SRE tooling", "read-only investigation", "infrastructure monitoring"]
+source: "https://github.com/scitix/siclaw"
 stars: 219
-language: TypeScript
-last_updated: '2026-07-14T12:08:13Z'
-discovered_at: '2026-07-14T12:10:21Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-14T12:08:13Z"
+discovered_at: "2026-07-14T12:10:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: humongus69/langsmith-fetch-skill
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- CLI
-- LangSmith API
-- LangChain
-- LangGraph
+title: "humongus69/langsmith-fetch-skill"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "CLI", "LangSmith API", "LangChain", "LangGraph"]
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI observability
-- agent debugging
-- LangSmith integration
-- CLI tool
-- execution traces
-source: https://github.com/humongus69/langsmith-fetch-skill
+deployment_complexity: "Low"
+tags: ["AI observability", "agent debugging", "LangSmith integration", "CLI tool", "execution traces"]
+source: "https://github.com/humongus69/langsmith-fetch-skill"
 stars: 1
-language: None
-last_updated: '2026-08-07T08:13:40Z'
-discovered_at: '2026-08-07T08:17:16Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T08:13:40Z"
+discovered_at: "2026-08-07T08:17:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

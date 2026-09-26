@@ -1,30 +1,19 @@
 ---
-title: cloggedDrain/cogwork-mcp-servers
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- JavaScript
-- Node.js
-- Model Context Protocol (MCP)
-- REST APIs
-- RapidAPI
-- JSON
+title: "cloggedDrain/cogwork-mcp-servers"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "REST APIs", "RapidAPI", "JSON"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP servers
-- AI agent tools
-- PDF generation
-- QR/barcode processing
-- accessibility scanning
-source: https://github.com/cloggedDrain/cogwork-mcp-servers
+deployment_complexity: "Medium"
+tags: ["MCP servers", "AI agent tools", "PDF generation", "QR/barcode processing", "accessibility scanning"]
+source: "https://github.com/cloggedDrain/cogwork-mcp-servers"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-10T01:21:24Z'
-discovered_at: '2026-08-10T01:35:46Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-10T01:21:24Z"
+discovered_at: "2026-08-10T01:35:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,35 +1,19 @@
 ---
-title: jeevesh2515/voxflow-voice-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Next.js 14
-- FastAPI
-- Python 3.12
-- Supabase (Postgres)
-- Tailwind CSS
-- Whisper STT
-- Groq LLM (Llama 3.1)
-- Edge-TTS
-- WebSockets
-- Docker
-- Vercel
+title: "jeevesh2515/voxflow-voice-agent"
+content_type: "repo"
+engine: "v2"
+category: "SaaS Template"
+tech_stack: ["Next.js 14", "FastAPI", "Python 3.12", "Supabase (Postgres)", "Tailwind CSS", "Whisper STT", "Groq LLM (Llama 3.1)", "Edge-TTS", "WebSockets", "Docker", "Vercel"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- voice AI
-- multi-tenant
-- enterprise SaaS
-- real-time operations
-- FMCG automation
-source: https://github.com/jeevesh2515/voxflow-voice-agent
+deployment_complexity: "Medium"
+tags: ["voice AI", "multi-tenant", "enterprise SaaS", "real-time operations", "FMCG automation"]
+source: "https://github.com/jeevesh2515/voxflow-voice-agent"
 stars: 1
-language: Python
-last_updated: '2026-08-05T18:16:07Z'
-discovered_at: '2026-08-05T18:24:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T18:16:07Z"
+discovered_at: "2026-08-05T18:24:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

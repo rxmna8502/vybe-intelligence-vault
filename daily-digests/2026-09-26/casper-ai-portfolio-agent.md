@@ -1,42 +1,19 @@
 ---
-title: thesithunyein/casper-ai-portfolio-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Next.js 14
-- React 18
-- Tailwind CSS
-- Zustand
-- GPT-4o
-- Claude 3.5
-- Casper-js-sdk v5
-- Odra (Rust)
-- Casper 2.0
-- x402 micropayments
-- CSPR.cloud
-- Treasury.gov API
-- CoinGecko API
-- Casper MCP
-- Jest
-- Playwright
-- CodeQL
-- Dependabot
+title: "thesithunyein/casper-ai-portfolio-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Next.js 14", "React 18", "Tailwind CSS", "Zustand", "GPT-4o", "Claude 3.5", "Casper-js-sdk v5", "Odra (Rust)", "Casper 2.0", "x402 micropayments", "CSPR.cloud", "Treasury.gov API", "CoinGecko API", "Casper MCP", "Jest", "Playwright", "CodeQL", "Dependabot"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- portfolio management
-- Casper blockchain
-- x402 micropayments
-- RWA intelligence
-source: https://github.com/thesithunyein/casper-ai-portfolio-agent
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "portfolio management", "Casper blockchain", "x402 micropayments", "RWA intelligence"]
+source: "https://github.com/thesithunyein/casper-ai-portfolio-agent"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-16T12:17:40Z'
-discovered_at: '2026-07-16T12:22:11Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-16T12:17:40Z"
+discovered_at: "2026-07-16T12:22:11Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

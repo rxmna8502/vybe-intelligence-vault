@@ -1,32 +1,19 @@
 ---
-title: praann07/HospiCall-AI
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- FastAPI
-- Ollama
-- Llama 3.1 8B
-- Whisper (faster-whisper)
-- OmniVoice Studio
-- SQLite
-- FreeSWITCH (planned)
+title: "praann07/HospiCall-AI"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "Ollama", "Llama 3.1 8B", "Whisper (faster-whisper)", "OmniVoice Studio", "SQLite", "FreeSWITCH (planned)"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- self-hosted
-- voice AI
-- healthcare automation
-- local LLM
-- zero-cost
-source: https://github.com/praann07/HospiCall-AI
+deployment_complexity: "Medium"
+tags: ["self-hosted", "voice AI", "healthcare automation", "local LLM", "zero-cost"]
+source: "https://github.com/praann07/HospiCall-AI"
 stars: 0
-language: Python
-last_updated: '2026-08-05T16:36:00Z'
-discovered_at: '2026-08-05T16:44:28Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-05T16:36:00Z"
+discovered_at: "2026-08-05T16:44:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

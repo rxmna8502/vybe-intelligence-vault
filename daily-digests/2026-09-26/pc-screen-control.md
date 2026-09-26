@@ -1,29 +1,19 @@
 ---
-title: desteny-dev/pc-screen-control
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Windows Accessibility API
-- MCP (Model Context Protocol)
-- PyInstaller
-- pytest
+title: "desteny-dev/pc-screen-control"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows Accessibility API", "MCP (Model Context Protocol)", "PyInstaller", "pytest"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Low
-tags:
-- Windows automation
-- MCP server
-- UI accessibility
-- AI control interface
-- screen data
-source: https://github.com/desteny-dev/pc-screen-control
+deployment_complexity: "Low"
+tags: ["Windows automation", "MCP server", "UI accessibility", "AI control interface", "screen data"]
+source: "https://github.com/desteny-dev/pc-screen-control"
 stars: 2
-language: Python
-last_updated: '2026-08-06T09:38:49Z'
-discovered_at: '2026-08-06T09:42:23Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T09:38:49Z"
+discovered_at: "2026-08-06T09:42:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

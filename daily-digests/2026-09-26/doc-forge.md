@@ -1,34 +1,19 @@
 ---
-title: aniketsoni1/doc-forge
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- VS Code Extension
-- Sanitization (HTML)
-- Content Security Policy (CSP)
-- Monorepo (path aliases)
-- Vitest
-- esbuild
-- GitHub Actions
+title: "aniketsoni1/doc-forge"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "VS Code Extension", "Sanitization (HTML)", "Content Security Policy (CSP)", "Monorepo (path aliases)", "Vitest", "esbuild", "GitHub Actions"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- document generation
-- offline fallback
-- AI integration
-- Markdown/HTML output
-- VS Code extension
-source: https://github.com/aniketsoni1/doc-forge
+deployment_complexity: "Medium"
+tags: ["document generation", "offline fallback", "AI integration", "Markdown/HTML output", "VS Code extension"]
+source: "https://github.com/aniketsoni1/doc-forge"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-03T16:20:40Z'
-discovered_at: '2026-08-03T16:25:26Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-03T16:20:40Z"
+discovered_at: "2026-08-03T16:25:26Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

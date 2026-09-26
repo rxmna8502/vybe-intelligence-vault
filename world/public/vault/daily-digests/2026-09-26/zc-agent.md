@@ -1,32 +1,19 @@
 ---
-title: Harshbhargav45/zc-agent
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Rust
-- Solana
-- WASM
-- Squads Multisig
-- SHA-256
-- Python (x402 Payment Gateway)
-- TypeScript (Squads setup scripts)
-- CLI Tools
+title: "Harshbhargav45/zc-agent"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Solana", "WASM", "Squads Multisig", "SHA-256", "Python (x402 Payment Gateway)", "TypeScript (Squads setup scripts)", "CLI Tools"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: High
-tags:
-- bug bounty
-- Solana
-- WASM plugins
-- multisig
-- escrow
-source: https://github.com/Harshbhargav45/zc-agent
+deployment_complexity: "High"
+tags: ["bug bounty", "Solana", "WASM plugins", "multisig", "escrow"]
+source: "https://github.com/Harshbhargav45/zc-agent"
 stars: 0
-language: Rust
-last_updated: '2026-08-06T15:09:34Z'
-discovered_at: '2026-08-06T15:18:35Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-06T15:09:34Z"
+discovered_at: "2026-08-06T15:18:35Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

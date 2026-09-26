@@ -1,32 +1,19 @@
 ---
-title: dogrucanemek-alt/cedulon
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- COSE (CBOR Object Signing and Encryption)
-- Ed25519
-- MCP (Model Context Protocol)
-- Docker
-- npm
-- IETF Internet-Drafts
+title: "dogrucanemek-alt/cedulon"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "COSE (CBOR Object Signing and Encryption)", "Ed25519", "MCP (Model Context Protocol)", "Docker", "npm", "IETF Internet-Drafts"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- audit layer
-- agent commerce
-- policy enforcement
-- cryptographic receipts
-- SCITT
-source: https://github.com/dogrucanemek-alt/cedulon
+deployment_complexity: "Medium"
+tags: ["audit layer", "agent commerce", "policy enforcement", "cryptographic receipts", "SCITT"]
+source: "https://github.com/dogrucanemek-alt/cedulon"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T08:13:04Z'
-discovered_at: '2026-09-02T08:22:45Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T08:13:04Z"
+discovered_at: "2026-09-02T08:22:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

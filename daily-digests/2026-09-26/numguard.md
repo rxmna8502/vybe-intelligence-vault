@@ -1,32 +1,19 @@
 ---
-title: ipezygj/numguard
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- MCP (Model Context Protocol)
-- Ed25519 (for signing receipts)
-- x402 (pay-per-call protocol)
-- Docker
-- FastAPI (for HTTP endpoints)
-- Blockchain (Base, EAS attestations)
-- ERC-8004 (for on-chain feedback)
+title: "ipezygj/numguard"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Ed25519 (for signing receipts)", "x402 (pay-per-call protocol)", "Docker", "FastAPI (for HTTP endpoints)", "Blockchain (Base, EAS attestations)", "ERC-8004 (for on-chain feedback)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- verification
-- financial metrics
-- tamper-evident receipts
-- agent economy
-- on-chain auditing
-source: https://github.com/ipezygj/numguard
+deployment_complexity: "Medium"
+tags: ["verification", "financial metrics", "tamper-evident receipts", "agent economy", "on-chain auditing"]
+source: "https://github.com/ipezygj/numguard"
 stars: 1
-language: Python
-last_updated: '2026-08-09T03:29:09Z'
-discovered_at: '2026-08-09T03:45:38Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-09T03:29:09Z"
+discovered_at: "2026-08-09T03:45:38Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

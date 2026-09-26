@@ -1,32 +1,19 @@
 ---
-title: xxccdl/Xcomputer
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-26
-tech_stack:
-- Electron
-- React
-- TypeScript
-- Python
-- DeepSeek API
-- SQLite
-- Windows MCP
-- PowerShell
+title: "xxccdl/Xcomputer"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Electron", "React", "TypeScript", "Python", "DeepSeek API", "SQLite", "Windows MCP", "PowerShell"]
 quality_score: 7
 rag_relevance: 4
-deployment_complexity: Medium
-tags:
-- desktop automation
-- AI assistant
-- Windows integration
-- natural language control
-- MCP framework
-source: https://github.com/xxccdl/Xcomputer
+deployment_complexity: "Medium"
+tags: ["desktop automation", "AI assistant", "Windows integration", "natural language control", "MCP framework"]
+source: "https://github.com/xxccdl/Xcomputer"
 stars: 1
-language: None
-last_updated: '2026-07-14T10:04:51Z'
-discovered_at: '2026-07-14T10:07:50Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-14T10:04:51Z"
+discovered_at: "2026-07-14T10:07:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

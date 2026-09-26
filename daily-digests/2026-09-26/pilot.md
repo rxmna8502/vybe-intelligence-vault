@@ -1,35 +1,19 @@
 ---
-title: sockulags/pilot
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- FastAPI
-- Ollama
-- Next.js
-- WebSocket
-- Windows UI Automation
-- Set-of-Marks
-- Embeddings (nomic-embed-text)
-- LM Studio
-- llama.cpp
-- OpenAI API (optional)
+title: "sockulags/pilot"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "Ollama", "Next.js", "WebSocket", "Windows UI Automation", "Set-of-Marks", "Embeddings (nomic-embed-text)", "LM Studio", "llama.cpp", "OpenAI API (optional)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- local-first
-- AI agent
-- grounded verification
-- Windows automation
-- multi-model routing
-source: https://github.com/sockulags/pilot
+deployment_complexity: "Medium"
+tags: ["local-first", "AI agent", "grounded verification", "Windows automation", "multi-model routing"]
+source: "https://github.com/sockulags/pilot"
 stars: 1
-language: Python
-last_updated: '2026-08-01T22:44:30Z'
-discovered_at: '2026-08-01T22:54:59Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T22:44:30Z"
+discovered_at: "2026-08-01T22:54:59Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

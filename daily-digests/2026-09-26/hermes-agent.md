@@ -1,39 +1,19 @@
 ---
-title: NousResearch/hermes-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Rust
-- Node.js
-- SQLite
-- FastAPI
-- Telegram API
-- Discord API
-- Slack API
-- Signal API
-- FFmpeg
-- Git
-- Docker
-- Modal
-- Daytona
-- Vercel Sandbox
+title: "NousResearch/hermes-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Rust", "Node.js", "SQLite", "FastAPI", "Telegram API", "Discord API", "Slack API", "Signal API", "FFmpeg", "Git", "Docker", "Modal", "Daytona", "Vercel Sandbox"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- self-improving
-- multi-platform
-- learning loop
-- RAG-ready
-source: https://github.com/NousResearch/hermes-agent
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "self-improving", "multi-platform", "learning loop", "RAG-ready"]
+source: "https://github.com/NousResearch/hermes-agent"
 stars: 239213
-language: Python
-last_updated: '2026-09-01T09:06:18Z'
-discovered_at: '2026-09-01T09:07:18Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-09-01T09:06:18Z"
+discovered_at: "2026-09-01T09:07:18Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,31 +1,19 @@
 ---
-title: sapuyou45-bit/ai-divination-skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- JSON-RPC
-- PyPI
-- GitHub Actions
-- CLI
-- MCP Server
+title: "sapuyou45-bit/ai-divination-skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "JSON-RPC", "PyPI", "GitHub Actions", "CLI", "MCP Server"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- divination
-- symbolic reasoning
-- auditable randomness
-- AI agent tools
-- MCP integration
-source: https://github.com/sapuyou45-bit/ai-divination-skills
+deployment_complexity: "Medium"
+tags: ["divination", "symbolic reasoning", "auditable randomness", "AI agent tools", "MCP integration"]
+source: "https://github.com/sapuyou45-bit/ai-divination-skills"
 stars: 3
-language: Python
-last_updated: '2026-08-07T12:56:39Z'
-discovered_at: '2026-08-07T13:02:41Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T12:56:39Z"
+discovered_at: "2026-08-07T13:02:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

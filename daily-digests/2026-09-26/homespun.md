@@ -1,31 +1,19 @@
 ---
-title: homespunapps/homespun
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-26
-tech_stack:
-- TypeScript
-- Node.js
-- CLI Development
-- MCP (Model Context Protocol)
-- Web SDK
-- HTML
-- JSON
+title: "homespunapps/homespun"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "CLI Development", "MCP (Model Context Protocol)", "Web SDK", "HTML", "JSON"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI-driven development
-- web app deployment
-- agent orchestration
-- MCP integration
-- hosting automation
-source: https://github.com/homespunapps/homespun
+deployment_complexity: "Medium"
+tags: ["AI-driven development", "web app deployment", "agent orchestration", "MCP integration", "hosting automation"]
+source: "https://github.com/homespunapps/homespun"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-01T17:47:16Z'
-discovered_at: '2026-08-01T18:00:22Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-01T17:47:16Z"
+discovered_at: "2026-08-01T18:00:22Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
