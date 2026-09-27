@@ -5958,7 +5958,6 @@ Resources organized by keyword tags.
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning](../ai/agents/arxiv-2605-29032.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
-  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
   - [Thermodynamic Limits of Physical Intelligence](../ai/agents/arxiv-2602-05463.md)
   - [Theseus in the Graph: Towards Traceable Multi-Hop Graph Navigation](../ai/rag/arxiv-2609-14528.md)
   - [They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface](../ai/agents/arxiv-2607-19267.md)
@@ -7038,9 +7037,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [Show HN: TinyAIArena watch AI agents battle it out](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md)
-  - [Show HN: Trail – new kind of logic game](../ai/community/show-hn-trail-new-kind-of-logic-game.md)
   - [The Normalization of Inexplicable Failures](../ai/community/the-normalization-of-inexplicable-failures.md)
-  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
 
 ## animation
 
@@ -31413,7 +31410,6 @@ Resources organized by keyword tags.
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show HN: TinyAIArena watch AI agents battle it out](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md)
-  - [Show HN: Trail – new kind of logic game](../ai/community/show-hn-trail-new-kind-of-logic-game.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -31761,7 +31757,6 @@ Resources organized by keyword tags.
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
-  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
@@ -32211,7 +32206,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -67359,4 +67353,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-28T01:37:21.447958+05:30*
+*Index generated on 2026-09-28T04:57:25.543804+05:30*

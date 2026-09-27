@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-09-28T01:21:44.637658+05:30'
+collected_at: '2026-09-28T04:41:43.303042+05:30'
 published_at: '2026-09-27T19:21:28Z'
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-04T08:15:30Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-09-28T01:21:44.637658+05:30'
-last_seen: '2026-09-28T01:21:44.637658+05:30'
-last_checked: '2026-09-28T01:21:44.637658+05:30'
+first_seen: '2026-09-28T04:41:43.303042+05:30'
+last_seen: '2026-09-28T04:41:43.303042+05:30'
+last_checked: '2026-09-28T04:41:43.303042+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive guide for full-stack RAG development, leveraging LangChain and LlamaIndex frameworks.
-*   Explores advanced RAG architectures integrating vector databases (Milvus) and graph databases (Neo4j) for enhanced retrieval.
-*   Covers multimodal embedding techniques and integration with diverse LLMs, including DeepSeek and Kimi-K2.
+*   Comprehensive RAG development guide covering full-stack implementation of Retrieval-Augmented Generation for LLMs.
+*   Utilizes LangChain and LlamaIndex for orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) for advanced retrieval strategies.
+*   Explores diverse LLMs (DeepSeek, Kimi-K2) and embedding models, including practical considerations for multimodal RAG architectures.
 
 ## Why It Matters
 

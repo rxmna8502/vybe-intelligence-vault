@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:there-are-no-rogue-ai-agents
 first_seen: '2026-09-28T01:21:03.611779+05:30'
 last_seen: '2026-09-28T01:21:03.611779+05:30'
 last_checked: '2026-09-28T01:21:03.611779+05:30'
 health_score: 100
 ---
+
 
 # There are no "rogue" AI agents
 

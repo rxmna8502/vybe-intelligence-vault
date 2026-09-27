@@ -303,11 +303,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| eoinhiggins.substack.com | 1 |
 | ihatethefuture.com | 1 |
 | tinyaiarena.com | 1 |
 | livescience.com | 1 |
-| trail.franzai.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

@@ -27625,9 +27625,7 @@ Resources organized by publisher feed and query sources.
 
   - [Fragment of oldest known peace treaty found in Turkey](../ai/community/fragment-of-oldest-known-peace-treaty-found-in-tur.md)
   - [Show HN: TinyAIArena watch AI agents battle it out](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md)
-  - [Show HN: Trail – new kind of logic game](../ai/community/show-hn-trail-new-kind-of-logic-game.md)
   - [The Normalization of Inexplicable Failures](../ai/community/the-normalization-of-inexplicable-failures.md)
-  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31498,4 +31496,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-28T01:37:21.789196+05:30*
+*Index generated on 2026-09-28T04:57:25.892143+05:30*
