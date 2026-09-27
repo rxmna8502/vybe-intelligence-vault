@@ -2,19 +2,11 @@
 
 | Metric               | Count |
 | -------------------- | ----: |
-<<<<<<< Updated upstream
-| Active resources     | 30442 |
-| Inactive resources   |  1063 |
-| Markdown files       | 371750 |
+| Active resources     | 30440 |
+| Inactive resources   |  1066 |
+| Markdown files       | 377484 |
 | Archive files        |  2362 |
 | Archive categories   |    26 |
-=======
-| Active resources     | 31454 |
-| Inactive resources   |  1066 |
-| Markdown files       | 495539 |
-| Archive files        | 125158 |
-| Archive categories   |    27 |
->>>>>>> Stashed changes
 | Skill files          |    19 |
 | Intelligence files   |     8 |
 | Builder maps         |     8 |
@@ -24,11 +16,7 @@
 | Examples             |     8 |
 | Search index entries | 32458 |
 
-<<<<<<< Updated upstream
-Last Generated: 2026-09-27 05:00 IST
-=======
-Last Generated: 2026-09-27 04:50 IST
->>>>>>> Stashed changes
+Last Generated: 2026-09-27 09:23 IST
 
 ## Top Categories
 - **Ai/Research**: 14605 files
@@ -40,4 +28,4 @@ Last Generated: 2026-09-27 04:50 IST
 - **Web Development/Webgpu**: 25 files
 - **Web Development/Threejs**: 24 files
 - **Web Development/React Three Fiber**: 22 files
-- **Ai/Community**: 9 files
+- **Web Development/Nextjs**: 9 files
