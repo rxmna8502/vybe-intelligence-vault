@@ -1,19 +1,30 @@
 ---
-title: "peopleupperpeninsula500/agent-inbox"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "Cloudflare Workers", "PWA (Progressive Web App)", "Browser Extensions", "REST API"]
+title: peopleupperpeninsula500/agent-inbox
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- Cloudflare Workers
+- PWA (Progressive Web App)
+- Browser Extensions
+- REST API
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["self-hosted", "AI agent integration", "link collection", "browser extension", "Cloudflare Workers"]
-source: "https://github.com/peopleupperpeninsula500/agent-inbox"
+deployment_complexity: Medium
+tags:
+- self-hosted
+- AI agent integration
+- link collection
+- browser extension
+- Cloudflare Workers
+source: https://github.com/peopleupperpeninsula500/agent-inbox
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-07T02:39:29Z"
-discovered_at: "2026-08-07T02:42:22Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T02:39:29Z'
+discovered_at: '2026-08-07T02:42:22Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

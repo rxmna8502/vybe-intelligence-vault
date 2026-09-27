@@ -1,19 +1,32 @@
 ---
-title: "michalharakal/Daily-StandAPP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Kotlin", "Gradle", "LLM Inference (SKAINET, REST_API)", "Git", "MCP (Model Context Protocol)", "JVM", "LM Studio", "Ollama"]
+title: michalharakal/Daily-StandAPP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Kotlin
+- Gradle
+- LLM Inference (SKAINET, REST_API)
+- Git
+- MCP (Model Context Protocol)
+- JVM
+- LM Studio
+- Ollama
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["standup generation", "LLM pipeline", "Git analysis", "MCP server", "benchmarking"]
-source: "https://github.com/michalharakal/Daily-StandAPP"
+deployment_complexity: Medium
+tags:
+- standup generation
+- LLM pipeline
+- Git analysis
+- MCP server
+- benchmarking
+source: https://github.com/michalharakal/Daily-StandAPP
 stars: 2
-language: "Kotlin"
-last_updated: "2026-07-18T07:43:36Z"
-discovered_at: "2026-07-18T07:47:17Z"
-evaluated_by: "mistral-small-latest"
+language: Kotlin
+last_updated: '2026-07-18T07:43:36Z'
+discovered_at: '2026-07-18T07:47:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

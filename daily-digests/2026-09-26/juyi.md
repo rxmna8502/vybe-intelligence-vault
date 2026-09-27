@@ -1,19 +1,33 @@
 ---
-title: "Eim-aa/juyi"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "Swift", "macOS Translation Framework", "Volcengine API", "Hammerspoon", "Lua", "Bash", "AppleScript"]
+title: Eim-aa/juyi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastAPI
+- Swift
+- macOS Translation Framework
+- Volcengine API
+- Hammerspoon
+- Lua
+- Bash
+- AppleScript
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["macOS", "translation", "offline", "cloud API", "text selection"]
-source: "https://github.com/Eim-aa/juyi"
+deployment_complexity: Medium
+tags:
+- macOS
+- translation
+- offline
+- cloud API
+- text selection
+source: https://github.com/Eim-aa/juyi
 stars: 0
-language: "Python"
-last_updated: "2026-07-13T02:31:35Z"
-discovered_at: "2026-07-13T02:34:17Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-13T02:31:35Z'
+discovered_at: '2026-07-13T02:34:17Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,32 @@
 ---
-title: "linora-u/AgentLoom"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "YAML", "uv (Python package manager)", "Bun (JavaScript runtime)", "OpenAI API", "MCP (Model Context Protocol)", "Shell scripting"]
+title: linora-u/AgentLoom
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- TypeScript
+- YAML
+- uv (Python package manager)
+- Bun (JavaScript runtime)
+- OpenAI API
+- MCP (Model Context Protocol)
+- Shell scripting
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-agent systems", "YAML orchestration", "TUI builder", "runtime inspection", "checkpoint resume"]
-source: "https://github.com/linora-u/AgentLoom"
+deployment_complexity: Medium
+tags:
+- multi-agent systems
+- YAML orchestration
+- TUI builder
+- runtime inspection
+- checkpoint resume
+source: https://github.com/linora-u/AgentLoom
 stars: 90
-language: "Python"
-last_updated: "2026-07-20T03:43:29Z"
-discovered_at: "2026-07-20T03:52:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-20T03:43:29Z'
+discovered_at: '2026-07-20T03:52:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

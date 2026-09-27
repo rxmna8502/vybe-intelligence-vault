@@ -1,19 +1,34 @@
 ---
-title: "davidmosiah/delx-agent-utilities"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "httpx", "asyncio", "RDAP", "DNS-over-HTTPS", "JWT", "CSV/JSON", "regex", "cron"]
+title: davidmosiah/delx-agent-utilities
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastMCP
+- httpx
+- asyncio
+- RDAP
+- DNS-over-HTTPS
+- JWT
+- CSV/JSON
+- regex
+- cron
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["AI agent utilities", "stateless tools", "MCP-native", "deterministic", "no API keys"]
-source: "https://github.com/davidmosiah/delx-agent-utilities"
+deployment_complexity: Low
+tags:
+- AI agent utilities
+- stateless tools
+- MCP-native
+- deterministic
+- no API keys
+source: https://github.com/davidmosiah/delx-agent-utilities
 stars: 0
-language: "Python"
-last_updated: "2026-08-04T15:26:09Z"
-discovered_at: "2026-08-04T15:36:14Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-04T15:26:09Z'
+discovered_at: '2026-08-04T15:36:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

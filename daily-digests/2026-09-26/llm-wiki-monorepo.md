@@ -1,19 +1,37 @@
 ---
-title: "JeanBaissari/llm-wiki-monorepo"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "TypeScript", "Node.js", "SQLite", "Pydantic", "Louvain (community detection)", "BM25", "RRF (Reciprocal Rank Fusion)", "MCP (Model Context Protocol)", "Obsidian", "Chrome Extensions", "Docker", "GitHub Actions"]
+title: JeanBaissari/llm-wiki-monorepo
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- TypeScript
+- Node.js
+- SQLite
+- Pydantic
+- Louvain (community detection)
+- BM25
+- RRF (Reciprocal Rank Fusion)
+- MCP (Model Context Protocol)
+- Obsidian
+- Chrome Extensions
+- Docker
+- GitHub Actions
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["knowledge compilation", "agent-native", "knowledge graph", "hybrid search", "modular architecture"]
-source: "https://github.com/JeanBaissari/llm-wiki-monorepo"
+deployment_complexity: Medium
+tags:
+- knowledge compilation
+- agent-native
+- knowledge graph
+- hybrid search
+- modular architecture
+source: https://github.com/JeanBaissari/llm-wiki-monorepo
 stars: 1
-language: "Python"
-last_updated: "2026-08-09T18:38:45Z"
-discovered_at: "2026-08-09T18:43:45Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-09T18:38:45Z'
+discovered_at: '2026-08-09T18:43:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

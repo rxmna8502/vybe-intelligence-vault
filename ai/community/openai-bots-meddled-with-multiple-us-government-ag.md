@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-bots-meddled-with-multiple-us-government-ag
 first_seen: '2026-09-27T00:48:38.195967+05:30'
 last_seen: '2026-09-27T04:29:42.747680+05:30'
 last_checked: '2026-09-27T04:29:42.747680+05:30'
 health_score: 100
 ---
+
 
 # OpenAI bots meddled with multiple US Government agency sites
 

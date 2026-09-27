@@ -1,19 +1,31 @@
 ---
-title: "mlawsonking/MCP"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Node.js", "MCP (Model Context Protocol)", "HTTP APIs", "Regex", "Serverless Functions", "PostHog (analytics)"]
+title: mlawsonking/MCP
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- JavaScript
+- Node.js
+- MCP (Model Context Protocol)
+- HTTP APIs
+- Regex
+- Serverless Functions
+- PostHog (analytics)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["guardrails", "deterministic", "AI agents", "security", "input validation"]
-source: "https://github.com/mlawsonking/MCP"
+deployment_complexity: Low
+tags:
+- guardrails
+- deterministic
+- AI agents
+- security
+- input validation
+source: https://github.com/mlawsonking/MCP
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-10T19:52:38Z"
-discovered_at: "2026-08-10T20:02:16Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-10T19:52:38Z'
+discovered_at: '2026-08-10T20:02:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

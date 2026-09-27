@@ -13,13 +13,14 @@ collected_at: '2026-09-27T04:29:42.454521+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:automattic-has-a-new-board-after-failed-attempt-to
 first_seen: '2026-09-27T00:48:38.488665+05:30'
 last_seen: '2026-09-27T04:29:42.454521+05:30'
 last_checked: '2026-09-27T04:29:42.454521+05:30'
 health_score: 100
 ---
+
 
 # Automattic has a new board after failed attempt to put CEO on leave
 

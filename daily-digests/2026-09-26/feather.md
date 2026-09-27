@@ -1,19 +1,32 @@
 ---
-title: "feather-store/feather"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["Rust", "Python", "HNSW (Hierarchical Navigable Small World)", "FastAPI", "NumPy", "LLM (Claude, OpenAI, Gemini, etc.)", "SQLite (for metadata)", "D3.js (for graph visualization)"]
+title: feather-store/feather
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- Python
+- HNSW (Hierarchical Navigable Small World)
+- FastAPI
+- NumPy
+- LLM (Claude, OpenAI, Gemini, etc.)
+- SQLite (for metadata)
+- D3.js (for graph visualization)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["vector database", "context engine", "HNSW", "LLM integration", "embedded"]
-source: "https://github.com/feather-store/feather"
+deployment_complexity: Medium
+tags:
+- vector database
+- context engine
+- HNSW
+- LLM integration
+- embedded
+source: https://github.com/feather-store/feather
 stars: 6
-language: "Python"
-last_updated: "2026-08-07T11:48:34Z"
-discovered_at: "2026-08-07T11:57:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:48:34Z'
+discovered_at: '2026-08-07T11:57:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

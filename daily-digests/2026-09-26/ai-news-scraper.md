@@ -1,19 +1,29 @@
 ---
-title: "Mehdi138534/ai-news-scraper"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "HTML", "Scraping Libraries (e.g., BeautifulSoup, Scrapy)", "NLP (Natural Language Processing)", "Semantic Search"]
+title: Mehdi138534/ai-news-scraper
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- HTML
+- Scraping Libraries (e.g., BeautifulSoup, Scrapy)
+- NLP (Natural Language Processing)
+- Semantic Search
 quality_score: 4
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["web scraping", "AI news", "semantic search", "data extraction", "NLP"]
-source: "https://github.com/Mehdi138534/ai-news-scraper"
+deployment_complexity: Medium
+tags:
+- web scraping
+- AI news
+- semantic search
+- data extraction
+- NLP
+source: https://github.com/Mehdi138534/ai-news-scraper
 stars: 0
-language: "HTML"
-last_updated: "2026-08-07T10:59:29Z"
-discovered_at: "2026-08-07T11:05:23Z"
-evaluated_by: "mistral-small-latest"
+language: HTML
+last_updated: '2026-08-07T10:59:29Z'
+discovered_at: '2026-08-07T11:05:23Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

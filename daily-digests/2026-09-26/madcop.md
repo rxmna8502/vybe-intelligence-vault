@@ -1,19 +1,37 @@
 ---
-title: "linmy666/madcop"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "Vue 3", "Pinia", "Tailwind CSS", "TypeScript", "Python", "FastAPI", "Uvicorn", "OpenAI Compatible API", "Model Context Protocol (MCP)", "SSE (Server-Sent Events)", "LocalStorage", "SQLite (FTS5 for retrieval)"]
+title: linmy666/madcop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Electron
+- Vue 3
+- Pinia
+- Tailwind CSS
+- TypeScript
+- Python
+- FastAPI
+- Uvicorn
+- OpenAI Compatible API
+- Model Context Protocol (MCP)
+- SSE (Server-Sent Events)
+- LocalStorage
+- SQLite (FTS5 for retrieval)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "multi-model", "agentic workflows", "MCP integration", "workspace integration"]
-source: "https://github.com/linmy666/madcop"
+deployment_complexity: Medium
+tags:
+- local-first
+- multi-model
+- agentic workflows
+- MCP integration
+- workspace integration
+source: https://github.com/linmy666/madcop
 stars: 62
-language: "TypeScript"
-last_updated: "2026-07-11T14:49:35Z"
-discovered_at: "2026-07-11T14:51:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T14:49:35Z'
+discovered_at: '2026-07-11T14:51:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

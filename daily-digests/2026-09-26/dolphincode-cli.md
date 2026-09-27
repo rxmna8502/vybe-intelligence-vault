@@ -1,19 +1,32 @@
 ---
-title: "Minomiao/dolphincode-cli"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "Large Language Models (LLM)", "CLI", "ONNX Runtime", "Rich (UI library)", "Jieba (text processing)", "Git", "PowerShell"]
+title: Minomiao/dolphincode-cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Large Language Models (LLM)
+- CLI
+- ONNX Runtime
+- Rich (UI library)
+- Jieba (text processing)
+- Git
+- PowerShell
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Code Agent", "CLI Tool", "Modular Skills", "Multi-language Support", "Tool Integration"]
-source: "https://github.com/Minomiao/dolphincode-cli"
+deployment_complexity: Medium
+tags:
+- Code Agent
+- CLI Tool
+- Modular Skills
+- Multi-language Support
+- Tool Integration
+source: https://github.com/Minomiao/dolphincode-cli
 stars: 0
-language: "Python"
-last_updated: "2026-08-10T09:20:52Z"
-discovered_at: "2026-08-10T09:24:40Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-10T09:20:52Z'
+discovered_at: '2026-08-10T09:24:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

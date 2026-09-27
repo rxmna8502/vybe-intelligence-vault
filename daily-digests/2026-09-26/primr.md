@@ -1,19 +1,32 @@
 ---
-title: "blisspixel/primr"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "CLI", "Markdown/DOCX generation", "Web scraping", "DNS reconnaissance", "AI model integration (xAI, Gemini, OpenRouter)", "CI/CD (GitHub Actions)", "Security scanning (OpenSSF Scorecard)"]
+title: blisspixel/primr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- CLI
+- Markdown/DOCX generation
+- Web scraping
+- DNS reconnaissance
+- AI model integration (xAI, Gemini, OpenRouter)
+- CI/CD (GitHub Actions)
+- Security scanning (OpenSSF Scorecard)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["strategic intelligence", "evidence-based research", "company analysis", "automated reporting", "uncertainty labeling"]
-source: "https://github.com/blisspixel/primr"
+deployment_complexity: Medium
+tags:
+- strategic intelligence
+- evidence-based research
+- company analysis
+- automated reporting
+- uncertainty labeling
+source: https://github.com/blisspixel/primr
 stars: 3
-language: "Python"
-last_updated: "2026-09-02T08:11:00Z"
-discovered_at: "2026-09-02T08:22:47Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-02T08:11:00Z'
+discovered_at: '2026-09-02T08:22:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

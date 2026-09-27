@@ -1,19 +1,33 @@
 ---
-title: "bitsky-tech/bridgic-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "TypeScript", "Electron", "FastAPI", "SQLite", "Bun", "uv", "Dulwich", "Chromium"]
+title: bitsky-tech/bridgic-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- TypeScript
+- Electron
+- FastAPI
+- SQLite
+- Bun
+- uv
+- Dulwich
+- Chromium
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["automation", "workflow builder", "multi-agent", "local-first", "desktop agent"]
-source: "https://github.com/bitsky-tech/bridgic-agent"
+deployment_complexity: Medium
+tags:
+- automation
+- workflow builder
+- multi-agent
+- local-first
+- desktop agent
+source: https://github.com/bitsky-tech/bridgic-agent
 stars: 47
-language: "TypeScript"
-last_updated: "2026-09-03T08:26:45Z"
-discovered_at: "2026-09-03T08:33:03Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-03T08:26:45Z'
+discovered_at: '2026-09-03T08:33:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

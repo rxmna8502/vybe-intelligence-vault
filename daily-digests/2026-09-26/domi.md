@@ -1,19 +1,32 @@
 ---
-title: "restflux/domi"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Electron", "TypeScript", "Bun", "React", "Git", "MCP (Model Context Protocol)", "SQLite", "Node.js"]
+title: restflux/domi
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Electron
+- TypeScript
+- Bun
+- React
+- Git
+- MCP (Model Context Protocol)
+- SQLite
+- Node.js
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "agent workflows", "multi-model chat", "coding assistant", "isolated worktree"]
-source: "https://github.com/restflux/domi"
+deployment_complexity: Medium
+tags:
+- local-first
+- agent workflows
+- multi-model chat
+- coding assistant
+- isolated worktree
+source: https://github.com/restflux/domi
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T10:20:42Z"
-discovered_at: "2026-09-02T02:10:11Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T10:20:42Z'
+discovered_at: '2026-09-02T02:10:11Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

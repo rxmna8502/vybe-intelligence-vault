@@ -1,19 +1,30 @@
 ---
-title: "coasty-ai/coasty-logistics-carrier-screen"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Node.js", "JavaScript", "Coasty API", "Vision Models", "FFmpeg", "Browser Automation"]
+title: coasty-ai/coasty-logistics-carrier-screen
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Node.js
+- JavaScript
+- Coasty API
+- Vision Models
+- FFmpeg
+- Browser Automation
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["computer-use automation", "browser automation", "SAFER register", "agentic workflow", "zero dependencies"]
-source: "https://github.com/coasty-ai/coasty-logistics-carrier-screen"
+deployment_complexity: Medium
+tags:
+- computer-use automation
+- browser automation
+- SAFER register
+- agentic workflow
+- zero dependencies
+source: https://github.com/coasty-ai/coasty-logistics-carrier-screen
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-02T19:22:15Z"
-discovered_at: "2026-08-02T19:25:24Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-02T19:22:15Z'
+discovered_at: '2026-08-02T19:25:24Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

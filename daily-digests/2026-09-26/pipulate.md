@@ -1,19 +1,32 @@
 ---
-title: "pipulate/pipulate"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Nix", "FastHTML", "HTMX", "JupyterLab", "Bash", "HTML/CSS", "Terminal-based UI"]
+title: pipulate/pipulate
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Nix
+- FastHTML
+- HTMX
+- JupyterLab
+- Bash
+- HTML/CSS
+- Terminal-based UI
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "AI workflows", "reproducible environments", "Nix", "FastHTML"]
-source: "https://github.com/pipulate/pipulate"
+deployment_complexity: Medium
+tags:
+- local-first
+- AI workflows
+- reproducible environments
+- Nix
+- FastHTML
+source: https://github.com/pipulate/pipulate
 stars: 14
-language: "Python"
-last_updated: "2026-09-03T21:57:28Z"
-discovered_at: "2026-09-03T22:10:18Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T21:57:28Z'
+discovered_at: '2026-09-03T22:10:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

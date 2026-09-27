@@ -4253,6 +4253,7 @@ Resources organized by keyword tags.
   - [Open-source DeepResearch – Freeing our search agents](../ai/agents/huggingface-blog-open-deep-research.md)
   - [Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment](../ai/agents/arxiv-2605-21401.md)
   - [Open-source LLMs as LangChain Agents](../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
+  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
@@ -7036,9 +7037,9 @@ Resources organized by keyword tags.
 ## ai
 
   - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
-  - [Automattic has a new board after failed attempt to put CEO on leave](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md)
+  - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
   - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
-  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
+  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
 
 ## animation
 
@@ -28848,7 +28849,6 @@ Resources organized by keyword tags.
   - [Automatically Evolving Prompt Guidelines for Task-Specific Optimization](../ai/rag/arxiv-2607-14105.md)
   - [Automating Attack Graph Construction for Agentic Pentesting. Towards Neuro-Symbolic Vulnerability Hunting](../ai/rag/arxiv-2609-15523.md)
   - [Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction](../ai/research/arxiv-2608-16541.md)
-  - [Automattic has a new board after failed attempt to put CEO on leave](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md)
   - [AvdLee/SwiftUI-Agent-Skill](../ai/agents/avdlee-swiftui-agent-skill.md)
   - [Azure/azure-search-vector-samples](../ai/rag/azure-azure-search-vector-samples.md)
   - [BASP: Communication-Efficient Batch-Aware Sequence Parallelism for LLM Training](../ai/rag/arxiv-2609-03151.md)
@@ -29613,6 +29613,7 @@ Resources organized by keyword tags.
   - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](../ai/research/arxiv-2603-08173.md)
   - [Evolutionary Bilevel Reward Shaping for Generalization in Reinforcement Learning](../ai/agents/arxiv-2606-16236.md)
   - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](../ai/agents/arxiv-2606-05922.md)
+  - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
   - [Exact Limits of Random Projections for Preserving Geometry: Distance Recovery, Nearest-Neighbor Rankings, and Covariance Shape in Gaussian Models](../ai/rag/arxiv-2609-02155.md)
   - [Exact Network Surgery: Functional Invariance and Gradient Plasticity in Reactive Computational Graphs](../ai/research/arxiv-2607-16568.md)
   - [Exact Recovery Thresholds for Weighted Data Selection in Vector-Valued Linear Regression](../ai/research/arxiv-2608-30254.md)
@@ -29855,6 +29856,7 @@ Resources organized by keyword tags.
   - [Generalized Fisher-Weighted SVD: Scalable Kronecker-Factored Fisher Approximation for Compressing Large Language Models](../ai/rag/arxiv-2505-17974.md)
   - [Generalized Least Squares Kernelized Tensor Factorization](../ai/research/arxiv-2412-07041.md)
   - [Generalized and Unified Equivalences between Hardness and Pseudoentropy](../ai/research/arxiv-2507-05972.md)
+  - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
   - [Generate: using k-v cache is faster but no difference to memory usage - 🤗Transformers - Hugging Face Forums](../ai/rag/generate-using-k-v-cache-is-faster-but-no-differen.md)
   - [Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems](../ai/research/arxiv-2603-20589.md)
   - [Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study](../ai/research/arxiv-2609-13494.md)
@@ -30818,7 +30820,7 @@ Resources organized by keyword tags.
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
+  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -32210,6 +32212,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -32997,6 +33000,7 @@ Resources organized by keyword tags.
 
 ## llm
 
+  - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
   - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
 
 ## mdx
@@ -40588,7 +40592,7 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
-  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
+  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAl4S: Code as Action, Science as Sessions](../ai/agents/arxiv-2609-15096.md)
@@ -67362,4 +67366,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-27T04:46:04.462702+05:30*
+*Index generated on 2026-09-27T11:14:10.684953+05:30*

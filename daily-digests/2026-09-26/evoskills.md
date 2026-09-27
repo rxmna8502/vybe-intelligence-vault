@@ -1,19 +1,30 @@
 ---
-title: "EvoScientist/EvoSkills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "Mermaid.js", "LaTeX", "DeepXiv SDK", "GitHub Actions"]
+title: EvoScientist/EvoSkills
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- MCP (Model Context Protocol)
+- Mermaid.js
+- LaTeX
+- DeepXiv SDK
+- GitHub Actions
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["research automation", "academic writing", "experiment pipeline", "AI agent skills", "literature synthesis"]
-source: "https://github.com/EvoScientist/EvoSkills"
+deployment_complexity: Medium
+tags:
+- research automation
+- academic writing
+- experiment pipeline
+- AI agent skills
+- literature synthesis
+source: https://github.com/EvoScientist/EvoSkills
 stars: 418
-language: "Python"
-last_updated: "2026-08-03T16:21:15Z"
-discovered_at: "2026-08-03T16:26:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-03T16:21:15Z'
+discovered_at: '2026-08-03T16:26:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

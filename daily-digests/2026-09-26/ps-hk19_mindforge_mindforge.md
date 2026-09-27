@@ -1,19 +1,32 @@
 ---
-title: "iqiipo-dev/PS-HK19_MindForge_MindForge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["React", "FastAPI", "ChromaDB", "Tailwind CSS", "Vite", "LangChain", "Llama3", "Sentence Transformers"]
+title: iqiipo-dev/PS-HK19_MindForge_MindForge
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- React
+- FastAPI
+- ChromaDB
+- Tailwind CSS
+- Vite
+- LangChain
+- Llama3
+- Sentence Transformers
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI assistant", "local RAG", "vector database", "edtech", "offline AI"]
-source: "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+deployment_complexity: Medium
+tags:
+- AI assistant
+- local RAG
+- vector database
+- edtech
+- offline AI
+source: https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge
 stars: 2
-language: "JavaScript"
-last_updated: "2026-08-09T20:17:49Z"
-discovered_at: "2026-08-09T20:35:41Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-09T20:17:49Z'
+discovered_at: '2026-08-09T20:35:41Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

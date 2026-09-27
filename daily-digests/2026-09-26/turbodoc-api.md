@@ -1,19 +1,32 @@
 ---
-title: "turbodoc-org/turbodoc-api"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Hono", "Cloudflare Workers", "TypeScript", "Supabase", "PostgreSQL", "JWT Authentication", "OpenAPI/Swagger", "Vite"]
+title: turbodoc-org/turbodoc-api
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Hono
+- Cloudflare Workers
+- TypeScript
+- Supabase
+- PostgreSQL
+- JWT Authentication
+- OpenAPI/Swagger
+- Vite
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["bookmark management", "edge computing", "REST API", "authentication", "OpenAPI"]
-source: "https://github.com/turbodoc-org/turbodoc-api"
+deployment_complexity: Medium
+tags:
+- bookmark management
+- edge computing
+- REST API
+- authentication
+- OpenAPI
+source: https://github.com/turbodoc-org/turbodoc-api
 stars: 0
-language: "TypeScript"
-last_updated: "2026-07-11T05:22:10Z"
-discovered_at: "2026-07-11T05:39:27Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-11T05:22:10Z'
+discovered_at: '2026-07-11T05:39:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

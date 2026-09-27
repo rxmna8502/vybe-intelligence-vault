@@ -27625,10 +27625,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
-  - [Automattic has a new board after failed attempt to put CEO on leave](../ai/community/automattic-has-a-new-board-after-failed-attempt-to.md)
+  - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
+  - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
   - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
   - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
-  - [OpenAI bots meddled with multiple US Government agency sites](../ai/community/openai-bots-meddled-with-multiple-us-government-ag.md)
+  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31499,4 +31500,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-27T04:46:04.813519+05:30*
+*Index generated on 2026-09-27T11:14:11.039827+05:30*

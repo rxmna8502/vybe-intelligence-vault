@@ -1,19 +1,33 @@
 ---
-title: "777genius/plugin-kit-ai"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Node.js", "Python", "TypeScript", "CLI", "MCP (Model Context Protocol)", "GitHub Actions", "npm", "Docker"]
+title: 777genius/plugin-kit-ai
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Go
+- Node.js
+- Python
+- TypeScript
+- CLI
+- MCP (Model Context Protocol)
+- GitHub Actions
+- npm
+- Docker
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["plugin-development", "multi-agent-deployment", "AI-integration", "standardized-workflow", "cross-platform"]
-source: "https://github.com/777genius/plugin-kit-ai"
+deployment_complexity: Medium
+tags:
+- plugin-development
+- multi-agent-deployment
+- AI-integration
+- standardized-workflow
+- cross-platform
+source: https://github.com/777genius/plugin-kit-ai
 stars: 10
-language: "Go"
-last_updated: "2026-08-08T15:29:24Z"
-discovered_at: "2026-08-08T15:32:33Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-08T15:29:24Z'
+discovered_at: '2026-08-08T15:32:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

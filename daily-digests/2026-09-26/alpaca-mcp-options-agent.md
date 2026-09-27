@@ -1,19 +1,29 @@
 ---
-title: "rahuldhangar/alpaca-mcp-options-agent"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastMCP", "alpaca-py", "Black-Scholes model", "Real-time data APIs"]
+title: rahuldhangar/alpaca-mcp-options-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- FastMCP
+- alpaca-py
+- Black-Scholes model
+- Real-time data APIs
 quality_score: 5
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["options trading", "autonomous agents", "risk management", "real-time pricing", "Alpaca API"]
-source: "https://github.com/rahuldhangar/alpaca-mcp-options-agent"
+deployment_complexity: Medium
+tags:
+- options trading
+- autonomous agents
+- risk management
+- real-time pricing
+- Alpaca API
+source: https://github.com/rahuldhangar/alpaca-mcp-options-agent
 stars: 0
-language: "Python"
-last_updated: "2026-09-03T18:59:40Z"
-discovered_at: "2026-09-03T19:09:16Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T18:59:40Z'
+discovered_at: '2026-09-03T19:09:16Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

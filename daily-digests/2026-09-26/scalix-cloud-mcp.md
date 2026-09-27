@@ -1,19 +1,34 @@
 ---
-title: "scalixworld/scalix-cloud-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Model Context Protocol (MCP)", "HTTP API", "Postgres-compatible databases", "Container services", "Serverless functions", "AI inference", "Observability tools", "Authentication", "DNS management", "Billing systems"]
+title: scalixworld/scalix-cloud-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Model Context Protocol (MCP)
+- HTTP API
+- Postgres-compatible databases
+- Container services
+- Serverless functions
+- AI inference
+- Observability tools
+- Authentication
+- DNS management
+- Billing systems
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP server", "AI-native cloud", "remote orchestration", "multi-domain tools", "agent automation"]
-source: "https://github.com/scalixworld/scalix-cloud-mcp"
+deployment_complexity: Low
+tags:
+- MCP server
+- AI-native cloud
+- remote orchestration
+- multi-domain tools
+- agent automation
+source: https://github.com/scalixworld/scalix-cloud-mcp
 stars: 2
-language: "None"
-last_updated: "2026-08-07T15:58:09Z"
-discovered_at: "2026-08-07T16:01:52Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-07T15:58:09Z'
+discovered_at: '2026-08-07T16:01:52Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

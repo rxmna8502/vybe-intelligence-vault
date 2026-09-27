@@ -1,19 +1,32 @@
 ---
-title: "StephenBickel/carl-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Rust", "SQLite", "ACP (Agent Communication Protocol)", "Codex CLI", "Grok Build", "CLI", "OAuth", "Actor Model"]
+title: StephenBickel/carl-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- SQLite
+- ACP (Agent Communication Protocol)
+- Codex CLI
+- Grok Build
+- CLI
+- OAuth
+- Actor Model
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local-first", "deterministic", "agent harness", "secure coding", "provider-neutral"]
-source: "https://github.com/StephenBickel/carl-agent"
+deployment_complexity: Medium
+tags:
+- local-first
+- deterministic
+- agent harness
+- secure coding
+- provider-neutral
+source: https://github.com/StephenBickel/carl-agent
 stars: 0
-language: "Rust"
-last_updated: "2026-08-10T18:58:54Z"
-discovered_at: "2026-08-10T19:01:20Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-10T18:58:54Z'
+discovered_at: '2026-08-10T19:01:20Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

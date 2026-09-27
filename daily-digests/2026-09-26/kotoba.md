@@ -1,19 +1,28 @@
 ---
-title: "pleme-io/kotoba"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "rmcp", "Tokio"]
+title: pleme-io/kotoba
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- rmcp
+- Tokio
 quality_score: 7
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["MCP", "Rust", "server-framework", "boilerplate-reduction", "model-context-protocol"]
-source: "https://github.com/pleme-io/kotoba"
+deployment_complexity: Medium
+tags:
+- MCP
+- Rust
+- server-framework
+- boilerplate-reduction
+- model-context-protocol
+source: https://github.com/pleme-io/kotoba
 stars: 0
-language: "Rust"
-last_updated: "2026-07-17T21:38:18Z"
-discovered_at: "2026-07-17T21:52:38Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-17T21:38:18Z'
+discovered_at: '2026-07-17T21:52:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

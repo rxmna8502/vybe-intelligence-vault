@@ -1,19 +1,34 @@
 ---
-title: "AetherAI3/agent-browser"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "TypeScript", "FastAPI", "Google Chrome", "Patchright", "Xvfb", "x11vnc", "noVNC", "Docker", "MCP (Model Context Protocol)"]
+title: AetherAI3/agent-browser
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- TypeScript
+- FastAPI
+- Google Chrome
+- Patchright
+- Xvfb
+- x11vnc
+- noVNC
+- Docker
+- MCP (Model Context Protocol)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["browser automation", "AI agent collaboration", "real-time monitoring", "self-hosted", "MCP server"]
-source: "https://github.com/AetherAI3/agent-browser"
+deployment_complexity: Medium
+tags:
+- browser automation
+- AI agent collaboration
+- real-time monitoring
+- self-hosted
+- MCP server
+source: https://github.com/AetherAI3/agent-browser
 stars: 2
-language: "Python"
-last_updated: "2026-09-03T22:04:05Z"
-discovered_at: "2026-09-03T22:09:34Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-03T22:04:05Z'
+discovered_at: '2026-09-03T22:09:34Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

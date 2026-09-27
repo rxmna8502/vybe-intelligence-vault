@@ -1,19 +1,29 @@
 ---
-title: "alexey-pelykh/lhremote"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Chrome DevTools Protocol (CDP)", "LinkedHelper (external dependency)"]
+title: alexey-pelykh/lhremote
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Chrome DevTools Protocol (CDP)
+- LinkedHelper (external dependency)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["LinkedIn automation", "MCP server", "CLI tool", "AI agent integration", "campaign management"]
-source: "https://github.com/alexey-pelykh/lhremote"
+deployment_complexity: Medium
+tags:
+- LinkedIn automation
+- MCP server
+- CLI tool
+- AI agent integration
+- campaign management
+source: https://github.com/alexey-pelykh/lhremote
 stars: 12
-language: "TypeScript"
-last_updated: "2026-09-01T15:48:31Z"
-discovered_at: "2026-09-01T15:55:37Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T15:48:31Z'
+discovered_at: '2026-09-01T15:55:37Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

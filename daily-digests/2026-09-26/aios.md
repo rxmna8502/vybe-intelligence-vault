@@ -1,19 +1,31 @@
 ---
-title: "AI-operatingsystem293/AIOS"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "CLI", "Task Scheduling", "Parallel Execution", "Plugin System", "Dynamic Library Loading (.so)", "Agent SDK"]
+title: AI-operatingsystem293/AIOS
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- CLI
+- Task Scheduling
+- Parallel Execution
+- Plugin System
+- Dynamic Library Loading (.so)
+- Agent SDK
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI Operating System", "Agent Orchestration", "Parallel Execution", "Dynamic Plugins", "Task Scheduling"]
-source: "https://github.com/AI-operatingsystem293/AIOS"
+deployment_complexity: Medium
+tags:
+- AI Operating System
+- Agent Orchestration
+- Parallel Execution
+- Dynamic Plugins
+- Task Scheduling
+source: https://github.com/AI-operatingsystem293/AIOS
 stars: 1
-language: "Makefile"
-last_updated: "2026-08-08T16:32:32Z"
-discovered_at: "2026-08-08T16:35:38Z"
-evaluated_by: "mistral-small-latest"
+language: Makefile
+last_updated: '2026-08-08T16:32:32Z'
+discovered_at: '2026-08-08T16:35:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

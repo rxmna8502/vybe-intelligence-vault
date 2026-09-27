@@ -1,19 +1,34 @@
 ---
-title: "SoySauceJYZ/NebuShell"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Electron", "React", "TypeScript", "Vite", "xterm.js", "Monaco Editor", "Docker SDK", "SFTP", "Node.js", "OpenAI-compatible API"]
+title: SoySauceJYZ/NebuShell
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Electron
+- React
+- TypeScript
+- Vite
+- xterm.js
+- Monaco Editor
+- Docker SDK
+- SFTP
+- Node.js
+- OpenAI-compatible API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["SSH client", "AI agent", "DevOps", "Terminal emulator", "File management"]
-source: "https://github.com/SoySauceJYZ/NebuShell"
+deployment_complexity: Medium
+tags:
+- SSH client
+- AI agent
+- DevOps
+- Terminal emulator
+- File management
+source: https://github.com/SoySauceJYZ/NebuShell
 stars: 6
-language: "TypeScript"
-last_updated: "2026-07-16T16:24:02Z"
-discovered_at: "2026-07-16T16:25:33Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-16T16:24:02Z'
+discovered_at: '2026-07-16T16:25:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,31 @@
 ---
-title: "zebbern/zebbern-kali-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Flask", "Docker", "Model Context Protocol (MCP)", "Kali Linux", "HTTP/REST APIs", "Shell scripting"]
+title: zebbern/zebbern-kali-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Flask
+- Docker
+- Model Context Protocol (MCP)
+- Kali Linux
+- HTTP/REST APIs
+- Shell scripting
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["penetration testing", "AI agent integration", "MCP server", "Kali Linux", "security tools"]
-source: "https://github.com/zebbern/zebbern-kali-mcp"
+deployment_complexity: Medium
+tags:
+- penetration testing
+- AI agent integration
+- MCP server
+- Kali Linux
+- security tools
+source: https://github.com/zebbern/zebbern-kali-mcp
 stars: 44
-language: "Python"
-last_updated: "2026-09-01T22:15:14Z"
-discovered_at: "2026-09-01T22:19:51Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-09-01T22:15:14Z'
+discovered_at: '2026-09-01T22:19:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

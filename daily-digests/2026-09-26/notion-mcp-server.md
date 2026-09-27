@@ -1,19 +1,29 @@
 ---
-title: "awkoy/notion-mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Notion API", "Docker"]
+title: awkoy/notion-mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- TypeScript
+- Node.js
+- Model Context Protocol (MCP)
+- Notion API
+- Docker
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["Notion integration", "MCP server", "AI agent tools", "headless automation", "token-based access"]
-source: "https://github.com/awkoy/notion-mcp-server"
+deployment_complexity: Low
+tags:
+- Notion integration
+- MCP server
+- AI agent tools
+- headless automation
+- token-based access
+source: https://github.com/awkoy/notion-mcp-server
 stars: 164
-language: "TypeScript"
-last_updated: "2026-08-02T11:57:35Z"
-discovered_at: "2026-08-02T12:02:39Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-02T11:57:35Z'
+discovered_at: '2026-08-02T12:02:39Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

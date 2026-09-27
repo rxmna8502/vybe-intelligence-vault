@@ -1,19 +1,29 @@
 ---
-title: "mario03690/ai-netcafe"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "MCP (Model Context Protocol)", "Node.js", "CLI", "API Integration"]
+title: mario03690/ai-netcafe
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- JavaScript
+- MCP (Model Context Protocol)
+- Node.js
+- CLI
+- API Integration
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["LLM cost comparison", "MCP server", "PDF translation", "agent tooling", "real-time pricing"]
-source: "https://github.com/mario03690/ai-netcafe"
+deployment_complexity: Low
+tags:
+- LLM cost comparison
+- MCP server
+- PDF translation
+- agent tooling
+- real-time pricing
+source: https://github.com/mario03690/ai-netcafe
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-08T04:51:55Z"
-discovered_at: "2026-08-08T04:59:03Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-08T04:51:55Z'
+discovered_at: '2026-08-08T04:59:03Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

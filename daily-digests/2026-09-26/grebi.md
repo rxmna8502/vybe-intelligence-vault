@@ -1,19 +1,33 @@
 ---
-title: "EBISPOT/GrEBI"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Nextflow", "Docker", "Neo4j", "PostgreSQL", "Python", "Jupyter Notebook", "LLM Embeddings", "Ontologies", "HTTP/MCP API"]
+title: EBISPOT/GrEBI
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Nextflow
+- Docker
+- Neo4j
+- PostgreSQL
+- Python
+- Jupyter Notebook
+- LLM Embeddings
+- Ontologies
+- HTTP/MCP API
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["biomedical knowledge graphs", "ontology integration", "HPC pipeline", "LLM embeddings", "data aggregation"]
-source: "https://github.com/EBISPOT/GrEBI"
+deployment_complexity: High
+tags:
+- biomedical knowledge graphs
+- ontology integration
+- HPC pipeline
+- LLM embeddings
+- data aggregation
+source: https://github.com/EBISPOT/GrEBI
 stars: 4
-language: "Jupyter Notebook"
-last_updated: "2026-07-10T13:07:20Z"
-discovered_at: "2026-07-10T13:12:40Z"
-evaluated_by: "mistral-small-latest"
+language: Jupyter Notebook
+last_updated: '2026-07-10T13:07:20Z'
+discovered_at: '2026-07-10T13:12:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

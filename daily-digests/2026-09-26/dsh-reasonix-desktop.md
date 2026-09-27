@@ -1,19 +1,30 @@
 ---
-title: "sealfly/dsh-reasonix-desktop"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Wails", "Electron (legacy)", "RPC", "JSON", "OS/Exec"]
+title: sealfly/dsh-reasonix-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Go
+- Wails
+- Electron (legacy)
+- RPC
+- JSON
+- OS/Exec
 quality_score: 8
 rag_relevance: 5
-deployment_complexity: "Medium"
-tags: ["desktop shell", "Wails", "Electron replacement", "RPC bridge", "UI stability"]
-source: "https://github.com/sealfly/dsh-reasonix-desktop"
+deployment_complexity: Medium
+tags:
+- desktop shell
+- Wails
+- Electron replacement
+- RPC bridge
+- UI stability
+source: https://github.com/sealfly/dsh-reasonix-desktop
 stars: 2
-language: "Go"
-last_updated: "2026-09-01T02:47:43Z"
-discovered_at: "2026-09-01T02:49:10Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-09-01T02:47:43Z'
+discovered_at: '2026-09-01T02:49:10Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

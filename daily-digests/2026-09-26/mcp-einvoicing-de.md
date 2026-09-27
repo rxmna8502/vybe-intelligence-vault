@@ -1,19 +1,32 @@
 ---
-title: "cmendezs/mcp-einvoicing-de"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Pydantic", "XML", "XSLT", "Schematron", "Peppol AS4", "DATEV EXTF", "Model Context Protocol (MCP)"]
+title: cmendezs/mcp-einvoicing-de
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Python
+- Pydantic
+- XML
+- XSLT
+- Schematron
+- Peppol AS4
+- DATEV EXTF
+- Model Context Protocol (MCP)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["electronic invoicing", "ZUGFeRD", "XRechnung", "EN 16931", "Peppol"]
-source: "https://github.com/cmendezs/mcp-einvoicing-de"
+deployment_complexity: Medium
+tags:
+- electronic invoicing
+- ZUGFeRD
+- XRechnung
+- EN 16931
+- Peppol
+source: https://github.com/cmendezs/mcp-einvoicing-de
 stars: 1
-language: "XSLT"
-last_updated: "2026-08-09T14:28:38Z"
-discovered_at: "2026-08-09T14:37:54Z"
-evaluated_by: "mistral-small-latest"
+language: XSLT
+last_updated: '2026-08-09T14:28:38Z'
+discovered_at: '2026-08-09T14:37:54Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

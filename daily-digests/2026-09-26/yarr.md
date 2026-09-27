@@ -1,19 +1,31 @@
 ---
-title: "dinglebear-ai/yarr"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "JavaScript", "TypeScript", "MCP (Model Context Protocol)", "CLI", "REST API", "Docker"]
+title: dinglebear-ai/yarr
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- JavaScript
+- TypeScript
+- MCP (Model Context Protocol)
+- CLI
+- REST API
+- Docker
 quality_score: 9
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["media automation", "MCP server", "self-hosted", "AI agent integration", "media fleet management"]
-source: "https://github.com/dinglebear-ai/yarr"
+deployment_complexity: Medium
+tags:
+- media automation
+- MCP server
+- self-hosted
+- AI agent integration
+- media fleet management
+source: https://github.com/dinglebear-ai/yarr
 stars: 4
-language: "Rust"
-last_updated: "2026-08-01T03:40:00Z"
-discovered_at: "2026-08-01T03:44:00Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:40:00Z'
+discovered_at: '2026-08-01T03:44:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,30 @@
 ---
-title: "majiayu000/rekey"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "SQLite", "Argon2id", "AES-256-GCM", "Unix Domain Sockets", "TLS"]
+title: majiayu000/rekey
+content_type: repo
+engine: v2
+category: daily-digests/2026-09-26
+tech_stack:
+- Rust
+- SQLite
+- Argon2id
+- AES-256-GCM
+- Unix Domain Sockets
+- TLS
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["credential management", "agent security", "capability tokens", "local vault", "AI agent infrastructure"]
-source: "https://github.com/majiayu000/rekey"
+deployment_complexity: Medium
+tags:
+- credential management
+- agent security
+- capability tokens
+- local vault
+- AI agent infrastructure
+source: https://github.com/majiayu000/rekey
 stars: 0
-language: "Rust"
-last_updated: "2026-09-02T19:07:11Z"
-discovered_at: "2026-09-02T19:12:47Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-09-02T19:07:11Z'
+discovered_at: '2026-09-02T19:12:47Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
