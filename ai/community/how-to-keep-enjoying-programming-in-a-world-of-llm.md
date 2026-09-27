@@ -13,13 +13,14 @@ collected_at: '2026-09-27T19:36:02.338686+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:how-to-keep-enjoying-programming-in-a-world-of-llm
 first_seen: '2026-09-27T00:48:37.922554+05:30'
 last_seen: '2026-09-27T19:36:02.338686+05:30'
 last_checked: '2026-09-27T19:36:02.338686+05:30'
 health_score: 100
 ---
+
 
 # How to keep enjoying programming in a world of LLMs
 

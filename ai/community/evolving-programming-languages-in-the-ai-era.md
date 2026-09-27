@@ -13,13 +13,14 @@ collected_at: '2026-09-27T19:36:01.796376+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:evolving-programming-languages-in-the-ai-era
 first_seen: '2026-09-27T10:57:40.952933+05:30'
 last_seen: '2026-09-27T19:36:01.796376+05:30'
 last_checked: '2026-09-27T19:36:01.796376+05:30'
 health_score: 100
 ---
+
 
 # Evolving programming languages in the AI era
 

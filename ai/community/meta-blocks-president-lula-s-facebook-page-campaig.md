@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:meta-blocks-president-lula-s-facebook-page-campaig
 first_seen: '2026-09-27T19:36:01.877603+05:30'
 last_seen: '2026-09-27T19:36:01.877603+05:30'
 last_checked: '2026-09-27T19:36:01.877603+05:30'
 health_score: 100
 ---
+
 
 # Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
 

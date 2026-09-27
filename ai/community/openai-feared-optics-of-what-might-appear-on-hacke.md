@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - paper
-status: active
+status: inactive
 resource_id: hackernews:openai-feared-optics-of-what-might-appear-on-hacke
 first_seen: '2026-09-27T19:35:59.365665+05:30'
 last_seen: '2026-09-27T19:35:59.365665+05:30'
 last_checked: '2026-09-27T19:35:59.365665+05:30'
 health_score: 100
 ---
+
 
 # OpenAI Feared "Optics" of what might appear on Hacker News
 

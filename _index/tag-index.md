@@ -5347,6 +5347,7 @@ Resources organized by keyword tags.
   - [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](../ai/agents/arxiv-2609-28372.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: TinyAIArena watch AI agents battle it out](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -5957,6 +5958,7 @@ Resources organized by keyword tags.
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations and Effective Algorithms for Policy-Aware Simulator Learning](../ai/agents/arxiv-2605-29032.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
+  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
   - [Thermodynamic Limits of Physical Intelligence](../ai/agents/arxiv-2602-05463.md)
   - [Theseus in the Graph: Towards Traceable Multi-Hop Graph Navigation](../ai/rag/arxiv-2609-14528.md)
   - [They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface](../ai/agents/arxiv-2607-19267.md)
@@ -7035,11 +7037,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
-  - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
-  - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
-  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
-  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
+  - [Show HN: TinyAIArena watch AI agents battle it out](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md)
+  - [Show HN: Trail – new kind of logic game](../ai/community/show-hn-trail-new-kind-of-logic-game.md)
+  - [The Normalization of Inexplicable Failures](../ai/community/the-normalization-of-inexplicable-failures.md)
+  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
 
 ## animation
 
@@ -28369,7 +28370,6 @@ Resources organized by keyword tags.
 
 ## hackernews
 
-  - ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](../ai/research/arxiv-2609-25021.md)
   - ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](../ai/research/arxiv-2606-12618.md)
   - ["MeBo Leaves a Piece of You Behind": Designing a Relational Voice-Based Memory Companion for Older Adults](../ai/agents/arxiv-2609-24706.md)
   - ["We'll Fix It Later": Education, AI, and the Deferral of Privacy in EdTech](../ai/research/arxiv-2609-28137.md)
@@ -28531,7 +28531,6 @@ Resources organized by keyword tags.
   - [A new leap in understanding nickel oxide superconductors](../ai/resources/a-new-leap-in-understanding-nickel-oxide-supercond.md)
   - [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md)
   - [A safe and modern home for JavaScript technologies | OpenJS Foundation](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md)
-  - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
   - [A solution to the Erd\H{o}s Problem #1040](../ai/rag/arxiv-2609-06050.md)
   - [A statistical approach to bias in zero-shot learning: the lens of handwriting recognition](../ai/rag/arxiv-2609-10084.md)
   - [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md)
@@ -29613,7 +29612,6 @@ Resources organized by keyword tags.
   - [Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models](../ai/research/arxiv-2603-08173.md)
   - [Evolutionary Bilevel Reward Shaping for Generalization in Reinforcement Learning](../ai/agents/arxiv-2606-16236.md)
   - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](../ai/agents/arxiv-2606-05922.md)
-  - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
   - [Exact Limits of Random Projections for Preserving Geometry: Distance Recovery, Nearest-Neighbor Rankings, and Covariance Shape in Gaussian Models](../ai/rag/arxiv-2609-02155.md)
   - [Exact Network Surgery: Functional Invariance and Gradient Plasticity in Reactive Computational Graphs](../ai/research/arxiv-2607-16568.md)
   - [Exact Recovery Thresholds for Weighted Data Selection in Vector-Valued Linear Regression](../ai/research/arxiv-2608-30254.md)
@@ -29749,6 +29747,7 @@ Resources organized by keyword tags.
   - [Foundry Models Pricing | Microsoft Azure](../ai/agents/foundry-models-pricing-microsoft-azure.md)
   - [Four Generations of Quantum Biomedical Sensors](../ai/research/arxiv-2603-29944.md)
   - [Fractured Chain-of-Thought Reasoning](../ai/research/arxiv-2505-12992.md)
+  - [Fragment of oldest known peace treaty found in Turkey](../ai/community/fragment-of-oldest-known-peace-treaty-found-in-tur.md)
   - [Framasoft](../ai/rag/framasoft.md)
   - [Framer - YouTube](../ai/resources/framer-youtube.md)
   - [Framer: AI design agent](../ai/agents/framer-ai-website-builder-for-professional-sites.md)
@@ -29856,7 +29855,6 @@ Resources organized by keyword tags.
   - [Generalized Fisher-Weighted SVD: Scalable Kronecker-Factored Fisher Approximation for Compressing Large Language Models](../ai/rag/arxiv-2505-17974.md)
   - [Generalized Least Squares Kernelized Tensor Factorization](../ai/research/arxiv-2412-07041.md)
   - [Generalized and Unified Equivalences between Hardness and Pseudoentropy](../ai/research/arxiv-2507-05972.md)
-  - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
   - [Generate: using k-v cache is faster but no difference to memory usage - 🤗Transformers - Hugging Face Forums](../ai/rag/generate-using-k-v-cache-is-faster-but-no-differen.md)
   - [Generating from Discrete Distributions Using Diffusions: Insights from Random Constraint Satisfaction Problems](../ai/research/arxiv-2603-20589.md)
   - [Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study](../ai/research/arxiv-2609-13494.md)
@@ -30085,7 +30083,6 @@ Resources organized by keyword tags.
   - [How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation](../ai/agents/arxiv-2608-26237.md)
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
-  - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
   - [How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith](../ai/agents/how-podium-optimized-agent-behavior-and-reduced-en.md)
@@ -30100,7 +30097,6 @@ Resources organized by keyword tags.
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
-  - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
@@ -30582,7 +30578,6 @@ Resources organized by keyword tags.
   - [Memory-V2V: Memory-Augmented Video-to-Video Diffusion for Consistent Multi-Turn Editing](../ai/research/arxiv-2601-16296.md)
   - [Mesh-based Super-resolution of Multiscale Detonation Flows with Graph Transformers](../ai/rag/arxiv-2511-12041.md)
   - [Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting](../ai/research/arxiv-2607-22890.md)
-  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
   - [Meta-Learning for Classifier Selection in Image Datasets: A Feature-Driven Framework for Accuracy Prediction](../ai/rag/arxiv-2609-11041.md)
   - [Meta-classification of one-class classification models using ranking correlation and nearest neighbor](../ai/research/arxiv-2606-17858.md)
   - [MetaConfigurator: AI-Assisted RDF Authoring from JSON Data](../ai/agents/arxiv-2606-07094.md)
@@ -30821,7 +30816,6 @@ Resources organized by keyword tags.
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -31418,6 +31412,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: TinyAIArena watch AI agents battle it out](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md)
+  - [Show HN: Trail – new kind of logic game](../ai/community/show-hn-trail-new-kind-of-logic-game.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -31729,6 +31725,7 @@ Resources organized by keyword tags.
   - [The Metric Slingshot: Navigational Reuse as Width-Optimal Structural Decoupling in Continual Learning](../ai/research/arxiv-2603-15412.md)
   - [The Moral Check: Strategic AI Governance for the Pacing Problem](../ai/research/arxiv-2609-22869.md)
   - [The Normalization of Deviance in AI Development](../ai/agents/arxiv-2609-05749.md)
+  - [The Normalization of Inexplicable Failures](../ai/community/the-normalization-of-inexplicable-failures.md)
   - [The PUR-1 Cyber-Physical Digital Twin](../ai/research/arxiv-2608-30186.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
   - [The Policy Deficit in AI x Social-Emotional Learning Research](../ai/research/arxiv-2608-29950.md)
@@ -31764,6 +31761,7 @@ Resources organized by keyword tags.
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
+  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
@@ -32213,6 +32211,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -32997,12 +32996,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](../ai/research/arxiv-2609-25021.md)
-  - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
-  - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
 
 ## mdx
 
@@ -40593,7 +40586,6 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
-  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAl4S: Code as Action, Science as Sessions](../ai/agents/arxiv-2609-15096.md)
@@ -44207,7 +44199,6 @@ Resources organized by keyword tags.
   - [Open-DiffLoco: Open-Source Differentiable Learning for Deployable Blind Quadruped Locomotion](../ai/research/arxiv-2608-02069.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
   - [Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair](../ai/agents/arxiv-2607-28877.md)
-  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -50169,6 +50160,7 @@ Resources organized by keyword tags.
   - [FragileFlow: Spectral Control of Correct-but-Fragile Predictions for Foundation Model Robustness](../ai/rag/arxiv-2605-08896.md)
   - [Fragility of Value under Imperfect Alignment](../ai/rag/arxiv-2607-28881.md)
   - [Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation](../ai/rag/arxiv-2609-13519.md)
+  - [Fragment of oldest known peace treaty found in Turkey](../ai/community/fragment-of-oldest-known-peace-treaty-found-in-tur.md)
   - [Fragment-Aware Vision Transformers for Fresco-Fragment Style Classification](../ai/rag/arxiv-2609-21012.md)
   - [Framasoft](../ai/rag/framasoft.md)
   - [Framasoft / PeerTube / PeerTube · GitLab](../ai/rag/framasoft-peertube-peertube-gitlab.md)
@@ -57331,7 +57323,6 @@ Resources organized by keyword tags.
   - [Medium Rules | by Medium | Medium Policy](../ai/rag/medium-rules-by-medium-medium-policy.md)
   - [Medium: Read & Write Stories - Apps on Google Play](../ai/rag/medium-apps-on-google-play.md)
   - [MemTensor/Metis](../ai/resources/memtensor-metis.md)
-  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
   - [Methods](../ai/resources/methods.md)
   - [Metrics - Ragas](../ai/rag/metrics-ragas.md)
   - [MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes](../ai/research/arxiv-2609-10016.md)
@@ -67368,4 +67359,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-27T19:52:19.041442+05:30*
+*Index generated on 2026-09-28T01:37:21.447958+05:30*

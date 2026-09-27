@@ -13,13 +13,14 @@ collected_at: '2026-09-27T19:36:01.710829+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-i-changed-teaching-after-ai-managed-to-do-all
 first_seen: '2026-09-27T04:29:41.834760+05:30'
 last_seen: '2026-09-27T19:36:01.710829+05:30'
 last_checked: '2026-09-27T19:36:01.710829+05:30'
 health_score: 100
 ---
+
 
 # How I changed teaching after AI managed to do all my homework assignments
 

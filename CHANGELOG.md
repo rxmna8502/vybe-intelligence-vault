@@ -4,9 +4,9 @@ All notable additions and changes to **Vybe Intelligence Vault** are documented 
 Updated weekly. Format: `[Week] — [Date Range]`
 
 <!-- LATEST:START -->
-* Last updated: 2026-09-27 19:55 IST
-* Resources tracked: 31455
-* Archive files: 125160
+* Last updated: 2026-09-28 01:40 IST
+* Resources tracked: 31456
+* Archive files: 125157
 * Archive categories: 27
 * Changed sections: Refreshed all active archive directories and living skill guides
 * Safety scan: Passed
@@ -49,6 +49,7 @@ Updated weekly. Format: `[Week] — [Date Range]`
 
 ### Daily Summaries
 <!-- DAILY:START -->
+* **2026-09-28**: Added 1019 resources. Rebuilt archive and search index.
 * **2026-09-27**: Added 4067 resources. Rebuilt archive and search index.
 * **2026-09-26**: Added 2039 resources. Rebuilt archive and search index.
 * **2026-09-25**: Added 2037 resources. Rebuilt archive and search index.
@@ -78,11 +79,11 @@ Updated weekly. Format: `[Week] — [Date Range]`
 * **2026-09-01**: Added 3980 resources. Rebuilt archive and search index.
 * **2026-08-31**: Added 4158 resources. Rebuilt archive and search index.
 * **2026-08-30**: Added 3978 resources. Rebuilt archive and search index.
-* **2026-08-29**: Added 2986 resources. Rebuilt archive and search index.
 <!-- DAILY:END -->
 
 ### Weekly Intelligence Reports
 <!-- WEEKLY:START -->
+* [Weekly Report — 2026 Week 40](weekly-reports/2026/week-40.md)
 * [Weekly Report — 2026 Week 39](weekly-reports/2026/week-39.md)
 * [Weekly Report — 2026 Week 38](weekly-reports/2026/week-38.md)
 * [Weekly Report — 2026 Week 37](weekly-reports/2026/week-37.md)
@@ -92,7 +93,6 @@ Updated weekly. Format: `[Week] — [Date Range]`
 * [Weekly Report — 2026 Week 33](weekly-reports/2026/week-33.md)
 * [Weekly Report — 2026 Week 32](weekly-reports/2026/week-32.md)
 * [Weekly Report — 2026 Week 31](weekly-reports/2026/week-31.md)
-* [Weekly Report — 2026 Week 30](weekly-reports/2026/week-30.md)
 <!-- WEEKLY:END -->
 
 <!-- 

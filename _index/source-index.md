@@ -27623,14 +27623,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](../ai/research/arxiv-2609-25021.md)
-  - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
-  - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
-  - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
-  - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
-  - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
-  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
-  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
+  - [Fragment of oldest known peace treaty found in Turkey](../ai/community/fragment-of-oldest-known-peace-treaty-found-in-tur.md)
+  - [Show HN: TinyAIArena watch AI agents battle it out](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md)
+  - [Show HN: Trail – new kind of logic game](../ai/community/show-hn-trail-new-kind-of-logic-game.md)
+  - [The Normalization of Inexplicable Failures](../ai/community/the-normalization-of-inexplicable-failures.md)
+  - [There are no "rogue" AI agents](../ai/community/there-are-no-rogue-ai-agents.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31501,4 +31498,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-27T19:52:19.390781+05:30*
+*Index generated on 2026-09-28T01:37:21.789196+05:30*

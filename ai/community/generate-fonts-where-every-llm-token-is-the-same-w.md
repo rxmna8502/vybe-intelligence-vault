@@ -13,13 +13,14 @@ collected_at: '2026-09-27T19:36:02.669816+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:generate-fonts-where-every-llm-token-is-the-same-w
 first_seen: '2026-09-27T10:57:43.050420+05:30'
 last_seen: '2026-09-27T19:36:02.669816+05:30'
 last_checked: '2026-09-27T19:36:02.669816+05:30'
 health_score: 100
 ---
+
 
 # Generate fonts where every LLM token is the same width
 
