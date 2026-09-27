@@ -10,7 +10,6 @@ Resources organized by publisher feed and query sources.
 
   - [!Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics](../ai/research/arxiv-2607-04146.md)
   - ["Act Like a 5th Grader" is Not Enough: Bounding Knowledge in LLM-Based User Simulators](../ai/research/arxiv-2608-30033.md)
-  - ["As a Language Model...": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It](../ai/research/arxiv-2609-25021.md)
   - ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](../ai/research/arxiv-2606-12618.md)
   - ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](../ai/rag/arxiv-2602-06547.md)
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -27624,12 +27623,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](../ai/research/arxiv-2609-25021.md)
   - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
   - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
   - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
   - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
   - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
-  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
+  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
+  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -28507,8 +28508,8 @@ Resources organized by publisher feed and query sources.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
+  - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
-  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
@@ -28517,12 +28518,12 @@ Resources organized by publisher feed and query sources.
 
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
+  - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
-  - [openai/clip-vit-base-patch32](../ai/models/huggingface-openai-clip-vit-base-patch32.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
@@ -31500,4 +31501,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-27T11:14:11.039827+05:30*
+*Index generated on 2026-09-27T19:52:19.390781+05:30*

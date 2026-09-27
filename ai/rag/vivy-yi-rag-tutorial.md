@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-09-26T18:45:04.221514+05:30'
+collected_at: '2026-09-27T19:36:56.790567+05:30'
 published_at: '2026-09-25T17:47:53Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 97
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-09-26T18:45:04.221514+05:30'
-last_seen: '2026-09-26T18:45:04.221514+05:30'
-last_checked: '2026-09-26T18:45:04.221514+05:30'
+first_seen: '2026-09-27T19:36:56.790567+05:30'
+last_seen: '2026-09-27T19:36:56.790567+05:30'
+last_checked: '2026-09-27T19:36:56.790567+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG curriculum spanning foundational concepts to production deployment, systematically structured across 4 modules and 20 chapters.
-*   Practical implementation demonstrated through 17 Jupyter Notebooks, integrating LLMs, LangChain, and vector databases for retrieval-augmented generation.
-*   Features 6 enterprise-grade case studies, providing hands-on experience in real-world RAG system development and optimization.
+*   Provides a systematic RAG curriculum spanning foundational concepts to production deployment, encompassing 4 modules and 20 chapters.
+*   Features extensive practical application with 17 Jupyter Notebooks and 6 enterprise-grade case studies for hands-on RAG system development.
+*   Focuses on key RAG technologies including LangChain, LLMs, and vector databases for retrieval-augmented generation implementations.
 
 ## Why It Matters
 
@@ -40,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vivy-yi
 - Stars: 97
-- Forks: 19
+- Forks: 20
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
 - Last Updated: 2026-09-25T17:47:53Z

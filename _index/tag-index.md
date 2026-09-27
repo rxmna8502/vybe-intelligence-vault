@@ -4253,7 +4253,6 @@ Resources organized by keyword tags.
   - [Open-source DeepResearch – Freeing our search agents](../ai/agents/huggingface-blog-open-deep-research.md)
   - [Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment](../ai/agents/arxiv-2605-21401.md)
   - [Open-source LLMs as LangChain Agents](../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
-  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
@@ -7039,7 +7038,8 @@ Resources organized by keyword tags.
   - [A searchable library of forgotten public-domain film clips from 1915 onward](../ai/community/a-searchable-library-of-forgotten-public-domain-fi.md)
   - [Evolving programming languages in the AI era](../ai/community/evolving-programming-languages-in-the-ai-era.md)
   - [How I changed teaching after AI managed to do all my homework assignments](../ai/community/how-i-changed-teaching-after-ai-managed-to-do-all.md)
-  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
+  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
+  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
 
 ## animation
 
@@ -19773,7 +19773,6 @@ Resources organized by keyword tags.
   - [onepot-Bench 0: towards lab-aware in silico chemistry benchmarks](../ai/research/arxiv-2608-02595.md)
   - [onyx-dot-app/EnterpriseRAG-Bench](../ai/rag/onyx-dot-app-enterpriserag-bench.md)
   - [openai/evals](../ai/resources/openai-evals.md)
-  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [openai/mle-bench](../ai/agents/openai-mle-bench.md)
   - [openai/preparedness](../ai/resources/openai-preparedness.md)
   - [openai/simple-evals](../ai/resources/openai-simple-evals.md)
@@ -26525,6 +26524,7 @@ Resources organized by keyword tags.
   - [msData: A Millisecond-Resolution Network Dataset for Advancing Time Series Foundation Models](../ai/research/arxiv-2603-16497.md)
   - [msPCA: An R Package for Sparse PCA with Multiple Components](../ai/research/arxiv-2607-05229.md)
   - [nASR: An End-to-End Trainable Neural Layer for Channel-Level EEG Artifact Subspace Reconstruction in Real-Time BCI](../ai/research/arxiv-2605-14941.md)
+  - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
   - [nvidia / llama-3.2-nv-embedqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-embedqa-1b-v2.md)
   - [nvidia / llama-3.2-nv-rerankqa-1b-v2](../ai/rag/nvidia-llama-3-2-nv-rerankqa-1b-v2.md)
   - [nvidia / nvidia-nemotron-nano-9b-v2](../ai/rag/nvidia-nvidia-nemotron-nano-9b-v2.md)
@@ -26532,7 +26532,6 @@ Resources organized by keyword tags.
   - [onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction](../ai/agents/arxiv-2609-24983.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [onyx-dot-app/EnterpriseRAG-Bench](../ai/rag/onyx-dot-app-enterpriserag-bench.md)
-  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting](../ai/research/arxiv-2607-07935.md)
   - [project-miracl/miracl](../ai/rag/project-miracl-miracl.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
@@ -28370,6 +28369,7 @@ Resources organized by keyword tags.
 
 ## hackernews
 
+  - ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](../ai/research/arxiv-2609-25021.md)
   - ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](../ai/research/arxiv-2606-12618.md)
   - ["MeBo Leaves a Piece of You Behind": Designing a Relational Voice-Based Memory Companion for Older Adults](../ai/agents/arxiv-2609-24706.md)
   - ["We'll Fix It Later": Education, AI, and the Deferral of Privacy in EdTech](../ai/research/arxiv-2609-28137.md)
@@ -30582,6 +30582,7 @@ Resources organized by keyword tags.
   - [Memory-V2V: Memory-Augmented Video-to-Video Diffusion for Consistent Multi-Turn Editing](../ai/research/arxiv-2601-16296.md)
   - [Mesh-based Super-resolution of Multiscale Detonation Flows with Graph Transformers](../ai/rag/arxiv-2511-12041.md)
   - [Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting](../ai/research/arxiv-2607-22890.md)
+  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
   - [Meta-Learning for Classifier Selection in Image Datasets: A Feature-Driven Framework for Accuracy Prediction](../ai/rag/arxiv-2609-11041.md)
   - [Meta-classification of one-class classification models using ranking correlation and nearest neighbor](../ai/research/arxiv-2606-17858.md)
   - [MetaConfigurator: AI-Assisted RDF Authoring from JSON Data](../ai/agents/arxiv-2606-07094.md)
@@ -30820,7 +30821,7 @@ Resources organized by keyword tags.
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
+  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -32212,7 +32213,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -32228,7 +32228,6 @@ Resources organized by keyword tags.
   - [docker image build | Docker Docs](../ai/resources/docker-image-build-docker-docs.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [electron/forge](../ai/rag/electron-forge.md)
-  - [enescingoz/awesome-n8n-templates](../ai/rag/enescingoz-awesome-n8n-templates.md)
   - [eosphoros-ai/DB-GPT](../ai/rag/eosphoros-ai-db-gpt.md)
   - [error correction - How to measure logical Y in Surface code? - Quantum Computing Stack Exchange](../ai/agents/error-correction-how-to-measure-logical-y-in-surfa.md)
   - [esbuild - API](../ai/rag/esbuild-api.md)
@@ -32388,6 +32387,7 @@ Resources organized by keyword tags.
   - [vibecon](../ai/rag/vibecon.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
@@ -32435,8 +32435,8 @@ Resources organized by keyword tags.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
+  - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
-  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
@@ -32445,12 +32445,12 @@ Resources organized by keyword tags.
 
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
+  - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
-  - [openai/clip-vit-base-patch32](../ai/models/huggingface-openai-clip-vit-base-patch32.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
@@ -32493,6 +32493,7 @@ Resources organized by keyword tags.
   - [AP123/IllusionDiffusion](../ai/models/huggingface-spaces-ap123.md)
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
+  - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
@@ -32510,10 +32511,9 @@ Resources organized by keyword tags.
   - [jbilcke-hf/ai-comic-factory](../ai/models/huggingface-spaces-jbilcke-hf.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [mteb/leaderboard](../ai/models/huggingface-spaces-mteb.md)
+  - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [open-llm-leaderboard/open_llm_leaderboard](../ai/models/huggingface-spaces-open-llm-leaderboard.md)
-  - [openai/clip-vit-base-patch32](../ai/models/huggingface-openai-clip-vit-base-patch32.md)
-  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
@@ -33000,6 +33000,7 @@ Resources organized by keyword tags.
 
 ## llm
 
+  - ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](../ai/research/arxiv-2609-25021.md)
   - [Generate fonts where every LLM token is the same width](../ai/community/generate-fonts-where-every-llm-token-is-the-same-w.md)
   - [How to keep enjoying programming in a world of LLMs](../ai/community/how-to-keep-enjoying-programming-in-a-world-of-llm.md)
 
@@ -34145,7 +34146,6 @@ Resources organized by keyword tags.
 
 ## models
 
-  - ["As a Language Model...": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It](../ai/research/arxiv-2609-25021.md)
   - ["Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness](../ai/research/arxiv-2508-13187.md)
   - [$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning](../ai/research/arxiv-2608-26053.md)
   - [$TCP_\alpha$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval](../ai/research/arxiv-2608-20326.md)
@@ -37957,6 +37957,7 @@ Resources organized by keyword tags.
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patch the Distribution Mismatch: RL Rewriting Agent for Stable Off-Policy SFT](../ai/agents/arxiv-2602-11220.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -40592,7 +40593,7 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
-  - [OpenAI agents tried to bruteforce a UN website's API fields](../ai/community/openai-agents-tried-to-bruteforce-a-un-website-s-a.md)
+  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAl4S: Code as Action, Science as Sessions](../ai/agents/arxiv-2609-15096.md)
@@ -40916,9 +40917,7 @@ Resources organized by keyword tags.
   - [olegnazarov/rag-security-scanner](../ai/rag/olegnazarov-rag-security-scanner.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md)
-  - [openai/clip-vit-base-patch32](../ai/models/huggingface-openai-clip-vit-base-patch32.md)
   - [openai/evals](../ai/resources/openai-evals.md)
-  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [openai/mle-bench](../ai/agents/openai-mle-bench.md)
   - [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md)
   - [openai/preparedness](../ai/resources/openai-preparedness.md)
@@ -44208,6 +44207,7 @@ Resources organized by keyword tags.
   - [Open-DiffLoco: Open-Source Differentiable Learning for Deployable Blind Quadruped Locomotion](../ai/research/arxiv-2608-02069.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
   - [Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair](../ai/agents/arxiv-2607-28877.md)
+  - [OpenAI Feared "Optics" of what might appear on Hacker News](../ai/community/openai-feared-optics-of-what-might-appear-on-hacke.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -57331,6 +57331,7 @@ Resources organized by keyword tags.
   - [Medium Rules | by Medium | Medium Policy](../ai/rag/medium-rules-by-medium-medium-policy.md)
   - [Medium: Read & Write Stories - Apps on Google Play](../ai/rag/medium-apps-on-google-play.md)
   - [MemTensor/Metis](../ai/resources/memtensor-metis.md)
+  - [Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election](../ai/community/meta-blocks-president-lula-s-facebook-page-campaig.md)
   - [Methods](../ai/resources/methods.md)
   - [Metrics - Ragas](../ai/rag/metrics-ragas.md)
   - [MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes](../ai/research/arxiv-2609-10016.md)
@@ -64335,7 +64336,6 @@ Resources organized by keyword tags.
   - [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
-  - [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
   - [pnpm - Open Collective](../ai/rag/pnpm-open-collective.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
@@ -64371,6 +64371,7 @@ Resources organized by keyword tags.
   - [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md)
   - [stripe-firebase-extensions/firestore-stripe-payments at master · invertase/stripe-firebase-extensions · GitHub](../ai/resources/stripe-stripe-firebase-extensions.md)
   - [supabase/supabase](../ai/rag/supabase-supabase.md)
+  - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [temporalio/temporal](../ai/resources/temporalio-temporal.md)
   - [titiler/CONTRIBUTING.md at main · developmentseed/titiler · GitHub](../ai/rag/developmentseed-titiler.md)
   - [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md)
@@ -64391,6 +64392,7 @@ Resources organized by keyword tags.
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
   - [volcengine/OpenViking](../ai/rag/volcengine-openviking.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
+  - [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
   - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
   - [yzhao062/pyod](../ai/rag/yzhao062-pyod.md)
   - [zilliztech/attu](../ai/rag/zilliztech-attu.md)
@@ -67366,4 +67368,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-27T11:14:10.684953+05:30*
+*Index generated on 2026-09-27T19:52:19.041442+05:30*

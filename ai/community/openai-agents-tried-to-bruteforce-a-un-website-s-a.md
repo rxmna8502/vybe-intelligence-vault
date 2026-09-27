@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-agents-tried-to-bruteforce-a-un-website-s-a
 first_seen: '2026-09-27T10:57:40.740996+05:30'
 last_seen: '2026-09-27T10:57:40.740996+05:30'
 last_checked: '2026-09-27T10:57:40.740996+05:30'
 health_score: 100
 ---
+
 
 # OpenAI agents tried to bruteforce a UN website's API fields
 

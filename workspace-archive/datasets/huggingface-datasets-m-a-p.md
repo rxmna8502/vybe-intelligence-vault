@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: m-a-p/FineFineWeb (Likes: 192, Downloads: 3983818)
+Trending Hugging Face dataset: m-a-p/FineFineWeb (Likes: 192, Downloads: 4009477)
 
 ## Use Cases
 

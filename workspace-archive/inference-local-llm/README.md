@@ -24,8 +24,8 @@ https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity)
+- [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-09-27 11:16 IST*
+*Last updated: 2026-09-27 19:54 IST*
