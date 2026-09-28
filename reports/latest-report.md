@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-28T09:25:55.965209+05:30`
+Generated at: `2026-09-28T11:26:19.831188+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Thinking Fast and Slow in AI: The Role of Metacognition** - Score: `36` in category `ai/community` ([Link](https://arxiv.org/abs/2110.01834)) ([File](../ai/community/arxiv-2110-01834.md))
+- **Nissan's third generation e-POWER powertrain** - Score: `33` in category `ai/community` ([Link](https://nissan-global.com/en/innovation/technology/archive/e_power_gen3)) ([File](../ai/community/nissan-s-third-generation-e-power-powertrain.md))
+- **TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14** - Score: `9` in category `ai/community` ([Link](https://efraingaray.com/en/blog/tabpfn-vs-xgboost)) ([File](../ai/community/tabpfn-and-tabicl-vs-tuned-xgboost-the-model-that.md))
+- **Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2609.29433)) ([File](../ai/research/arxiv-2609-29433.md))
+- **Rufus-Air: An Open LLM Post-Training Recipe** - Score: `0` in category `ai/agents` ([Link](https://arxiv.org/abs/2609.29421)) ([File](../ai/agents/arxiv-2609-29421.md))
+- **ArGuard Shared Task: Harmful Content Detection in Arabic Memes and LLM Prompts** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2609.29349)) ([File](../ai/research/arxiv-2609-29349.md))
+- **AI in Science: Early Insights** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2609.28504)) ([File](../ai/rag/arxiv-2609-28504.md))
+- **The Uncontrolled Variable: Vision-Language Refusal Is Conditioned on the Image-Attachment Interface, and Not Robust to Irrelevant Image Properties** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2609.26174)) ([File](../ai/research/arxiv-2609-26174.md))
+- **You've Seen Enough: Quality-Constrained Image Coding for Machines** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2609.25108)) ([File](../ai/research/arxiv-2609-25108.md))
+- **ProtoLIP: From Sentence-Level to Object-Level Evidence Disentanglement** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2609.16284)) ([File](../ai/rag/arxiv-2609-16284.md))
+- **State of Thought Enables Endogenous Reasoning** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2609.16055)) ([File](../ai/research/arxiv-2609-16055.md))
+- **Large Distant Gradients Need Not Be Reliable: reliability-weighted credit assignment for long-horizon autoregressive forecasting** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2609.12890)) ([File](../ai/research/arxiv-2609-12890.md))
+- **PolyChirp: Multi-Species Birdsong Classification Using TinyML on Low-Power Acoustic Sensors** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2608.23101)) ([File](../ai/rag/arxiv-2608-23101.md))
+- **CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2607.02222)) ([File](../ai/rag/arxiv-2607-02222.md))
+- **Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.30170)) ([File](../ai/research/arxiv-2606-30170.md))
 
 ## Top Trending Resources
 
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
-- **Polymarket/agents** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/polymarket-agents.md))
-- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **lancedb/vectordb-recipes** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1014` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/graphics-multimedia.md))
+- **Computer vision** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/computer-vision.md))
+- **Audio & acoustics** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/audio-acoustics.md))
+- **Artificial intelligence** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/artificial-intelligence.md))
+- **Code, datasets and models** - Score: `0` (0), Rank Change: `+1` ([File](../ai/companies/code-datasets-and-models.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9273`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1017`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1017`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1017`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1017`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1017`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1017`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **nmasi/era5** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-nmasi.md))
+- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
+- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-nvidia.md))
+- **tasl-lab/uniocc** - (Rank Change: `+588`) ([File](../ai/agents/huggingface-datasets-tasl-lab.md))
+- **world-igr-plum/regions** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-world-igr-plum.md))
+- **ayuo/hd_tmp** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **banned-historical-archives/banned-historical-archives** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-banned-historical-archives.md))
+- **Salesforce/wikitext** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **huggingface/documentation-images** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-huggingface.md))
+- **m-a-p/FineFineWeb** - (Rank Change: `+588`) ([File](../ai/models/huggingface-datasets-m-a-p.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +59,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **The Normalization of Inexplicable Failures** (Category: `ai/community`) ([File](../ai/community/the-normalization-of-inexplicable-failures.md))
+- **Show HN: TinyAIArena watch AI agents battle it out** (Category: `ai/community`) ([File](../ai/community/show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md))
+- **Fragment of oldest known peace treaty found in Turkey** (Category: `ai/community`) ([File](../ai/community/fragment-of-oldest-known-peace-treaty-found-in-tur.md))

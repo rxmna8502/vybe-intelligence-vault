@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-tinyaiarena-watch-ai-agents-battle-it-out
 first_seen: '2026-09-28T01:21:02.347973+05:30'
 last_seen: '2026-09-28T04:41:03.350755+05:30'
 last_checked: '2026-09-28T04:41:03.350755+05:30'
 health_score: 100
 ---
+
 
 # Show HN: TinyAIArena watch AI agents battle it out
 

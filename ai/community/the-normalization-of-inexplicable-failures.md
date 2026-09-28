@@ -13,13 +13,14 @@ collected_at: '2026-09-28T04:41:02.996069+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-normalization-of-inexplicable-failures
 first_seen: '2026-09-28T01:21:02.551569+05:30'
 last_seen: '2026-09-28T04:41:02.996069+05:30'
 last_checked: '2026-09-28T04:41:02.996069+05:30'
 health_score: 100
 ---
+
 
 # The Normalization of Inexplicable Failures
 

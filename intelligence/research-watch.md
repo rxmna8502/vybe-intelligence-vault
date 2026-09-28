@@ -9,6 +9,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Poise: Position-Aware One-Instruction Skill Injection for Silent Execution on LLM Agents](https://arxiv.org/abs/2606.07943) | `ai-coding-agents/` | 70 |
 | [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) | `ai-coding-agents/` | 70 |
 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
+| [CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430) | `ai-coding-agents/` | 70 |
 | [The Hitchhiker's Guide to Monoculture](https://arxiv.org/abs/2607.13077) | `ai-coding-agents/` | 70 |
 | [Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140) | `ai-coding-agents/` | 70 |
 | [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) | `ai-coding-agents/` | 70 |
 | [Evaluating AlphaEarth Foundations Embeddings for Wildfire Susceptibility Mapping](https://arxiv.org/abs/2608.12663) | `ai-coding-agents/` | 70 |
 | [ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916) | `ai-coding-agents/` | 70 |
-| [ASI-Bench: At the Dawn of Artificial Superintelligence](https://arxiv.org/abs/2608.17271) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.
