@@ -27908,8 +27908,10 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Nissan's third generation e-POWER powertrain](../ai/community/nissan-s-third-generation-e-power-powertrain.md)
-  - [TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14](../ai/community/tabpfn-and-tabicl-vs-tuned-xgboost-the-model-that.md)
-  - [Thinking Fast and Slow in AI: The Role of Metacognition](../ai/community/arxiv-2110-01834.md)
+  - [Parley: Federated, decentralised chat that speaks plain IRC](../ai/community/parley-federated-decentralised-chat-that-speaks-pl.md)
+  - [The problem is not the AI code, but nobody knows anything anymore](../ai/community/the-problem-is-not-the-ai-code-but-nobody-knows-an.md)
+  - [Thinking fast and slow in AI: The role of metacognition (2021)](../ai/community/arxiv-2110-01834.md)
+  - [What Would a Serious AI Product Look Like?](../ai/community/what-would-a-serious-ai-product-look-like.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -28230,6 +28232,7 @@ Resources organized by publisher feed and query sources.
   - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../ai/agents/huggingface-blog-agent-glossary.md)
   - [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../ai/agents/huggingface-blog-hcompany-holo1.md)
   - [Holo3.1: Fast & Local Computer Use Agents](../ai/agents/huggingface-blog-hcompany-holo31.md)
+  - [Holo4: powering generalist computer-use agents](../ai/agents/huggingface-blog-hcompany-holo4.md)
   - [Holotron-12B - High Throughput Computer Use Agent](../ai/agents/huggingface-blog-hcompany-holotron-12b.md)
   - [Hosting your Models and Datasets on Hugging Face Spaces using Streamlit](../ai/models/huggingface-blog-streamlit-spaces.md)
   - [How Hugging Face Accelerated Development of Witty Works Writing Assistant](../ai/models/huggingface-blog-classification-use-cases.md)
@@ -31780,4 +31783,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-28T11:22:28.025502+05:30*
+*Index generated on 2026-09-28T22:37:25.274482+05:30*

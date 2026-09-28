@@ -3050,6 +3050,7 @@ Resources organized by keyword tags.
   - [HoangNguyen0403/agent-skills-standard](../ai/agents/hoangnguyen0403-agent-skills-standard.md)
   - [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../ai/agents/huggingface-blog-hcompany-holo1.md)
   - [Holo3.1: Fast & Local Computer Use Agents](../ai/agents/huggingface-blog-hcompany-holo31.md)
+  - [Holo4: powering generalist computer-use agents](../ai/agents/huggingface-blog-hcompany-holo4.md)
   - [Holotron-12B - High Throughput Computer Use Agent](../ai/agents/huggingface-blog-hcompany-holotron-12b.md)
   - [Home](../ai/agents/home.md)
   - [Home - Coalition for Secure AI](../ai/rag/home-coalition-for-secure-ai.md)
@@ -7120,8 +7121,10 @@ Resources organized by keyword tags.
 ## ai
 
   - [Nissan's third generation e-POWER powertrain](../ai/community/nissan-s-third-generation-e-power-powertrain.md)
-  - [TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14](../ai/community/tabpfn-and-tabicl-vs-tuned-xgboost-the-model-that.md)
-  - [Thinking Fast and Slow in AI: The Role of Metacognition](../ai/community/arxiv-2110-01834.md)
+  - [Parley: Federated, decentralised chat that speaks plain IRC](../ai/community/parley-federated-decentralised-chat-that-speaks-pl.md)
+  - [The problem is not the AI code, but nobody knows anything anymore](../ai/community/the-problem-is-not-the-ai-code-but-nobody-knows-an.md)
+  - [Thinking fast and slow in AI: The role of metacognition (2021)](../ai/community/arxiv-2110-01834.md)
+  - [What Would a Serious AI Product Look Like?](../ai/community/what-would-a-serious-ai-product-look-like.md)
 
 ## animation
 
@@ -31206,6 +31209,7 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Continual Fine-Tuning: A Survey](../ai/research/arxiv-2504-13822.md)
   - [Parametric Knowledge in RAG-SFT for Domain-Specific Document Generation](../ai/rag/arxiv-2603-23047.md)
   - [Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebycheff Scalarization](../ai/research/arxiv-2604-13175.md)
+  - [Parley: Federated, decentralised chat that speaks plain IRC](../ai/community/parley-federated-decentralised-chat-that-speaks-pl.md)
   - [ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](../ai/research/arxiv-2510-10774.md)
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
@@ -31929,7 +31933,6 @@ Resources organized by keyword tags.
   - [TXYZ Launches the Writing Assistant in Its Academic AI Platform](../ai/rag/txyz-launches-the-writing-assistant-in-its-academi.md)
   - [TXYZ: How AI Tools Help Students in Academic Research](../ai/resources/txyz-how-ai-tools-help-students-in-academic-resear.md)
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
-  - [TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14](../ai/community/tabpfn-and-tabicl-vs-tuned-xgboost-the-model-that.md)
   - [TabPFN-3.5: Technical Report](../ai/research/arxiv-2609-17895.md)
   - [Tabular Deep Learning for Algorithmic Trading: Cross-Regime Bayesian Optimisation for Equity Signal Generation](../ai/research/arxiv-2608-27076.md)
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
@@ -32076,6 +32079,7 @@ Resources organized by keyword tags.
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
+  - [The problem is not the AI code, but nobody knows anything anymore](../ai/community/the-problem-is-not-the-ai-code-but-nobody-knows-an.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The shape of quark flavors](../ai/research/arxiv-2609-22812.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
@@ -32084,8 +32088,8 @@ Resources organized by keyword tags.
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
-  - [Thinking Fast and Slow in AI: The Role of Metacognition](../ai/community/arxiv-2110-01834.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
+  - [Thinking fast and slow in AI: The role of metacognition (2021)](../ai/community/arxiv-2110-01834.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
   - [Three-dimensional Conditional Diffusion Models for Cosmological 21 cm Lightcone Emulation](../ai/research/arxiv-2605-29016.md)
   - [Tight Sample Complexity Bounds for Entropic Best Policy Identification](../ai/rag/arxiv-2605-13717.md)
@@ -32374,6 +32378,7 @@ Resources organized by keyword tags.
   - [What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](../ai/rag/arxiv-2607-27966.md)
   - [What Reaches Expert Review? Representation, Structural Screening, and Candidate-Form Dependence in AI-Assisted Item Development](../ai/research/arxiv-2608-23766.md)
   - [What We Know about Responsible AI Practices in Industry: A Half Decade of Empirical Research](../ai/research/arxiv-2608-10431.md)
+  - [What Would a Serious AI Product Look Like?](../ai/community/what-would-a-serious-ai-product-look-like.md)
   - [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md)
   - [What does AUTHORIZED_FETCH actually do? | Sunny Garden Hub](../ai/rag/what-does-authorized-fetch-actually-do-sunny-garde.md)
   - [What is Retrieval-Augmented Generation (RAG)? | NVIDIA Glossary](../ai/rag/what-is-retrieval-augmented-generation-rag-nvidia.md)
@@ -32483,7 +32488,6 @@ Resources organized by keyword tags.
   - [\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating](../ai/rag/arxiv-2607-22489.md)
   - [abstract algebra - How to compute Krull dimension concretely - Mathematics Stack Exchange](../ai/resources/abstract-algebra-how-to-compute-krull-dimension-co.md)
   - [acl-org/acl-anthology](../ai/resources/acl-org-acl-anthology.md)
-  - [activepieces/activepieces](../ai/rag/activepieces-activepieces.md)
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
@@ -32509,7 +32513,6 @@ Resources organized by keyword tags.
   - [beezwax blog](../ai/resources/beezwax-blog.md)
   - [bioMoR: Biology-Guided Mixture-of-Recursions for Effective Genomic Learning](../ai/rag/arxiv-2608-06727.md)
   - [blog/train-sentence-transformers.md at main · huggingface/blog · GitHub](../ai/rag/huggingface-blog.md)
-  - [bojieli/ai-agent-book](../ai/rag/bojieli-ai-agent-book.md)
   - [brevdev/workshop-build-an-agent](../ai/agents/brevdev-workshop-build-an-agent.md)
   - [bvaughn/react-window](../ai/resources/bvaughn-react-window.md)
   - [capabilities(7) - Linux manual page](../ai/resources/capabilities-7-linux-manual-page.md)
@@ -32529,11 +32532,11 @@ Resources organized by keyword tags.
   - [cosai-oasis/ws2-defenders](../ai/resources/cosai-oasis-ws2-defenders.md)
   - [csmetrics/influencemap](../ai/rag/csmetrics-influencemap.md)
   - [daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization](../ai/agents/arxiv-2606-16497.md)
-  - [daimon111/daimon-template](../ai/agents/daimon111-daimon-template.md)
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -38312,7 +38315,6 @@ Resources organized by keyword tags.
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patch the Distribution Mismatch: RL Rewriting Agent for Stable Off-Policy SFT](../ai/agents/arxiv-2602-11220.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -40452,6 +40454,7 @@ Resources organized by keyword tags.
   - [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md)
   - [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md)
   - [p-Spin Glass Network Efficient Single-Batch Continual Learning](../ai/research/arxiv-2608-14774.md)
+  - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md)
   - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pico-type: A 1.5M-Parameter Byte-Level Multi-Head Content Classifier](../ai/rag/arxiv-2608-14658.md)
@@ -67932,4 +67935,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-28T11:22:27.675609+05:30*
+*Index generated on 2026-09-28T22:37:24.998797+05:30*

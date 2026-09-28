@@ -13,13 +13,14 @@ collected_at: '2026-09-28T11:04:33.006337+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tabpfn-and-tabicl-vs-tuned-xgboost-the-model-that
 first_seen: '2026-09-28T11:04:33.006337+05:30'
 last_seen: '2026-09-28T11:04:33.006337+05:30'
 last_checked: '2026-09-28T11:04:33.006337+05:30'
 health_score: 100
 ---
+
 
 # TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14
 

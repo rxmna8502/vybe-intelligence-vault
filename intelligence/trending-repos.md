@@ -20,7 +20,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | [labring/sealos](https://github.com/labring/sealos) | `ai-coding-agents/` | 70 |
 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | `ai-coding-agents/` | 70 |
 | [avinash201199/free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) | `ai-coding-agents/` | 70 |
 | [idosal/git-mcp](https://github.com/idosal/git-mcp) | `ai-coding-agents/` | 70 |
 | [nixopus/nixopus](https://github.com/nixopus/nixopus) | `ai-coding-agents/` | 70 |
@@ -29,5 +28,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [CS-433/ml-project-2-nlp_of_autogentext](https://github.com/CS-433/ml-project-2-nlp_of_autogentext) | `ai-coding-agents/` | 70 |
 | [AhsanAyaz/ai-agents-google-adk](https://github.com/AhsanAyaz/ai-agents-google-adk) | `ai-coding-agents/` | 70 |
 | [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) | `ai-coding-agents/` | 70 |
+| [bhancockio/crewai-updated-tutorial-hierarchical](https://github.com/bhancockio/crewai-updated-tutorial-hierarchical) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

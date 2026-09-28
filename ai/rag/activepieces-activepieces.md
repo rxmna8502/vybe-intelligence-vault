@@ -4,27 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/activepieces/activepieces
-collected_at: '2026-08-09T10:15:18.991441+05:30'
-published_at: '2026-08-09T03:56:25Z'
+collected_at: '2026-09-28T22:25:09.576244+05:30'
+published_at: '2026-09-28T16:17:16Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - scripts
 - typescript
 - workflows
-stars: 23643
+stars: 24771
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2022-12-03T02:52:46Z'
-pushed_at: '2026-08-08T20:55:19Z'
+pushed_at: '2026-09-28T16:16:53Z'
 resource_id: github:activepieces/activepieces
-first_seen: '2026-08-09T10:15:18.991441+05:30'
-last_seen: '2026-08-09T10:15:18.991441+05:30'
-last_checked: '2026-08-09T10:15:18.991441+05:30'
+first_seen: '2026-09-28T22:25:09.576244+05:30'
+last_seen: '2026-09-28T22:25:09.576244+05:30'
+last_checked: '2026-09-28T22:25:09.576244+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,7 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Open-source TypeScript framework (`activepieces/activepieces`) for AI agents, MCP servers, and workflow automation (~400 pre-built MCP servers), positioned as an alternative to n8n with no-code capabilities.
-
-- **Core Features**: Supports AI agent orchestration, MCP (Model Context Protocol) integration for AI tooling, and visual workflow automation with drag-and-drop functionality for AI-driven processes.
-
-- **Technical Metrics**: 23,643 stars, 4,011 forks, last updated 2026-08-09; targets AI agent frameworks, MCP servers/tools, and workflow automation use cases.
+*   Facilitates scalable AI agent execution and management via a distributed architecture, leveraging
 
 ## Why It Matters
 
@@ -45,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: activepieces
-- Stars: 23643
-- Forks: 4011
+- Stars: 24771
+- Forks: 4263
 - Language: TypeScript
 - Topics: ai-agent, ai-agent-tools, ai-agents, ai-agents-framework, mcp, mcp-server, mcp-tools, mcps, n8n-alternative, no-code-automation, workflow, workflow-automation, workflows
-- Last Updated: 2026-08-09T03:56:25Z
+- Last Updated: 2026-09-28T16:17:16Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2022-12-03T02:52:46Z
-- Pushed At: 2026-08-08T20:55:19Z
+- Pushed At: 2026-09-28T16:16:53Z
 
 ## Possible Use Cases
 

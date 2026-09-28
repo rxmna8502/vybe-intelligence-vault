@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9561, Downloads: 0)
+Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9562, Downloads: 0)
 
 ## Use Cases
 

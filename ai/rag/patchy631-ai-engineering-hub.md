@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-09-24T19:10:40.005588+05:30'
-published_at: '2026-09-24T13:15:11Z'
+collected_at: '2026-09-28T22:22:04.399239+05:30'
+published_at: '2026-09-28T14:33:01Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
+- models
 - rag
-stars: 37989
+stars: 38068
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-09-10T21:32:11Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-09-24T19:10:40.005588+05:30'
-last_seen: '2026-09-24T19:10:40.005588+05:30'
-last_checked: '2026-09-24T19:10:40.005588+05:30'
+first_seen: '2026-09-28T22:22:04.399239+05:30'
+last_seen: '2026-09-28T22:22:04.399239+05:30'
+last_checked: '2026-09-28T22:22:04.399239+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Offers in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI agent development.
-*   Content is delivered primarily via Jupyter Notebooks, emphasizing practical, real-world AI engineering applications.
-*   Covers advanced topics including machine learning principles and multi-agent coordination patterns (MCP).
+*   Provides in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and real-world AI agent applications.
+*   Specializes in machine learning topics including LLMs, RAG, AI agents, and Multi-Agent Collaboration/Planning (MCP).
+*   Content is delivered primarily through Jupyter Notebooks, enabling interactive exploration of advanced AI engineering concepts.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 37989
-- Forks: 6247
+- Stars: 38068
+- Forks: 6255
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-09-24T13:15:11Z
+- Last Updated: 2026-09-28T14:33:01Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z
