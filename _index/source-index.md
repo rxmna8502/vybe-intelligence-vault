@@ -28120,14 +28120,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [12,000-year-old Göbeklitepe burials explain scattered bones](../ai/community/12000-year-old-gobeklitepe-burials-explain-scatter.md)
-  - [AI companies leak data to advertisers [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
-  - [It's Time to Investigate the AI Labs](../ai/community/it-s-time-to-investigate-the-ai-labs.md)
-  - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](../ai/community/firelex-jeff.md)
-  - [MicroLLM Lab – Try 7 tiny LLM's in the browser](../ai/community/microllm-lab-try-7-tiny-llm-s-in-the-browser.md)
-  - [Nvidia wants to put a watchdog chip next to every AI agent](../ai/community/nvidia-wants-to-put-a-watchdog-chip-next-to-every.md)
+  - [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
+  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
+  - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](../ai/community/draftkings-is-using-ai-to-behaviorally-target-chro.md)
+  - [New PlayStation 5 Console Jailbreak Released](../ai/community/ntfargo-relapse-exploit.md)
   - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
-  - [Simulating Airband AM Radios](../ai/community/simulating-airband-am-radios.md)
+  - [Without the Hot Air](../ai/community/without-the-hot-air.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -28423,6 +28421,7 @@ Resources organized by publisher feed and query sources.
   - [Getting Started with Sentiment Analysis on Twitter](../ai/models/huggingface-blog-sentiment-analysis-twitter.md)
   - [Getting Started with Sentiment Analysis using Python](../ai/models/huggingface-blog-sentiment-analysis-python.md)
   - [Getting Started with Transformers on Habana Gaudi](../ai/models/huggingface-blog-getting-started-habana.md)
+  - [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](../ai/agents/huggingface-blog-multiversecomputingcai-getting-the-source-right-not-just-the-fa.md)
   - [Give Your Coding Agents a Memory You Own](../ai/agents/huggingface-blog-funes.md)
   - [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](../ai/rag/huggingface-blog-prezi-case-study.md)
   - [Goodbye cold boot - how we made LoRA Inference 300% faster](../ai/models/huggingface-blog-lora-adapters-dynamic-loading.md)
@@ -28464,7 +28463,6 @@ Resources organized by publisher feed and query sources.
   - [How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](../ai/models/huggingface-blog-nvidia-nvidia-isaac-for-healthcare.md)
   - [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md)
   - [How to Install and Use the Hugging Face Unity API](../ai/models/huggingface-blog-unity-api.md)
-  - [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](../ai/models/huggingface-blog-nvidia-how-to-use-nvidia-warp-and-mjwarp.md)
   - [How to Use Transformers.js in a Chrome Extension](../ai/models/huggingface-blog-transformersjs-chrome-extension.md)
   - [How to build scalable web apps with OpenAI's Privacy Filter](../ai/models/huggingface-blog-openai-privacy-filter-web-apps.md)
   - [How to deploy and fine-tune DeepSeek models on AWS](../ai/models/huggingface-blog-deepseek-r1-aws.md)
@@ -28673,6 +28671,7 @@ Resources organized by publisher feed and query sources.
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
   - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md)
   - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md)
+  - [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](../ai/models/huggingface-blog-nvidia-kumo-tabular.md)
   - [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md)
   - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../ai/agents/huggingface-blog-nvidia-reachy-mini.md)
   - [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../ai/models/huggingface-blog-nvidia-physical-ai.md)
@@ -28750,7 +28749,6 @@ Resources organized by publisher feed and query sources.
   - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../ai/models/huggingface-blog-torch-mlp-fusion.md)
   - [Profiling in PyTorch (Part 3): Attention is all you profile](../ai/models/huggingface-blog-torch-attention-profile.md)
   - [Proximal Policy Optimization (PPO)](../ai/models/huggingface-blog-deep-rl-ppo.md)
-  - [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](../ai/models/huggingface-blog-multiversecomputingcai-pruning-llms-like-a-physicist-block-remo.md)
   - [Public AI on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-publicai.md)
   - [Public Policy at Hugging Face](../ai/models/huggingface-blog-policy-blog.md)
   - [Putting RL back in RLHF](../ai/models/huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md)
@@ -31999,4 +31997,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-29T16:35:28.601904+05:30*
+*Index generated on 2026-09-29T23:58:18.623630+05:30*

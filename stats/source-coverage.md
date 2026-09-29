@@ -17,7 +17,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | developer.chrome.com | 20 |
 | cloud.google.com | 19 |
 | developer.android.com | 17 |
+| openai.com | 16 |
 | web.dev | 16 |
+<<<<<<< Updated upstream
+=======
+| microsoft.com | 15 |
+>>>>>>> Stashed changes
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
@@ -42,6 +47,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | help.medium.com | 7 |
 | en.wikipedia.org | 7 |
 | twilio.com | 7 |
+| eff.org | 6 |
 | blog.langchain.com | 6 |
 | aws.amazon.com | 6 |
 | deepset.ai | 6 |
@@ -67,7 +73,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | collabnix.com | 5 |
 | marketplace.visualstudio.com | 5 |
 | kubernetes.io | 5 |
-| eff.org | 5 |
 | docs.databricks.com | 5 |
 | hub.docker.com | 5 |
 | datatracker.ietf.org | 5 |
@@ -302,13 +307,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| calnewport.com | 1 |
-| stateofutopia.com | 1 |
-| cnbc.com | 1 |
-| jagi.studio | 1 |
-| archaeologymag.com | 1 |
 | jorgegarciaherrero.com | 1 |
-| bitbashing.io | 1 |
+| jagi.studio | 1 |
+| withouthotair.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

@@ -13,13 +13,14 @@ collected_at: '2026-09-29T16:18:08.798114+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:it-s-time-to-investigate-the-ai-labs
 first_seen: '2026-09-29T05:57:59.808876+05:30'
 last_seen: '2026-09-29T16:18:08.798114+05:30'
 last_checked: '2026-09-29T16:18:08.798114+05:30'
 health_score: 100
 ---
+
 
 # It's Time to Investigate the AI Labs
 

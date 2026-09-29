@@ -4,10 +4,22 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
+<<<<<<< Updated upstream
 | `Agent Framework/` | 1 |
 | `ai/agents/` | 4716 |
 | `ai/community/` | 9 |
 | `ai/rag/` | 9626 |
+=======
+| `ai/agents/` | 4780 |
+| `ai/community/` | 7 |
+| `ai/companies/` | 10 |
+| `ai/companies/anthropic/` | 10 |
+| `ai/companies/deepmind/` | 5 |
+| `ai/companies/mistral/` | 10 |
+| `ai/companies/openai/` | 5 |
+| `ai/models/` | 811 |
+| `ai/rag/` | 9660 |
+>>>>>>> Stashed changes
 | `ai/releases/` | 1 |
 | `ai/research/` | 14888 |
 | `ai/resources/` | 1537 |

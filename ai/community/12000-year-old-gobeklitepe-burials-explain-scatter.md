@@ -13,13 +13,14 @@ collected_at: '2026-09-29T16:18:06.884226+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:12000-year-old-gobeklitepe-burials-explain-scatter
 first_seen: '2026-09-29T05:57:58.620629+05:30'
 last_seen: '2026-09-29T16:18:06.884226+05:30'
 last_checked: '2026-09-29T16:18:06.884226+05:30'
 health_score: 100
 ---
+
 
 # 12,000-year-old Göbeklitepe burials explain scattered bones
 

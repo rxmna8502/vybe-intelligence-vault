@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-09-29 16:37 IST*
+*Last updated: 2026-09-30 00:00 IST*

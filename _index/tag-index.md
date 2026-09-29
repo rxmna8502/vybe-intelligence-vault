@@ -136,6 +136,7 @@ Resources organized by keyword tags.
   - [A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents](../ai/agents/arxiv-2607-26594.md)
   - [A Pinch of SFT, A Dash of RL: When Reinforcement Learning Helps Long-Horizon Advertising Agents](../ai/rag/arxiv-2609-22194.md)
   - [A Policy Algebra for Trust-Preserving Agentic AI Execution](../ai/agents/arxiv-2608-16402.md)
+  - [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
   - [A Probabilistic Framework for LLM-Based Model Discovery](../ai/agents/arxiv-2602-18266.md)
   - [A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant](../ai/rag/arxiv-2609-03402.md)
   - [A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](../ai/agents/arxiv-2606-18193.md)
@@ -2058,6 +2059,7 @@ Resources organized by keyword tags.
   - [Dont Just Teach, Explain! A Gamified 20Q Recommender for Cybersecurity Education](../ai/agents/arxiv-2604-26964.md)
   - [Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade](../ai/agents/arxiv-2607-06503.md)
   - [Doorman11991/smallcode](../ai/rag/doorman11991-smallcode.md)
+  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
   - [Download Android Studio & App Tools - Android Developers](../ai/rag/download-android-studio-app-tools-android-develope.md)
   - [Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion](../ai/rag/arxiv-2606-14885.md)
   - [Dr. AGENTONOMICS: A Didactic Experiment of AGENTONOMICS](../ai/agents/arxiv-2608-03524.md)
@@ -2810,6 +2812,7 @@ Resources organized by keyword tags.
   - [Getting Started with Roboflow](../ai/rag/getting-started-with-roboflow.md)
   - [Getting started | Gemini API | Google AI for Developers](../ai/rag/getting-started-gemini-api-google-ai-for-developer.md)
   - [Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls](../ai/rag/arxiv-2608-03071.md)
+  - [Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents](../ai/agents/huggingface-blog-multiversecomputingcai-getting-the-source-right-not-just-the-fa.md)
   - [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](../ai/research/ghost-in-the-minecraft-generally-capable-agents-fo.md)
   - [Gimitest: A Comprehensive Tool for Testing Reinforcement Learning Policies](../ai/agents/arxiv-2607-07029.md)
   - [Git : Code : snapd](../ai/agents/git-code-snapd.md)
@@ -4214,7 +4217,6 @@ Resources organized by keyword tags.
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nutrition Data Infrastructure for the AI Era: Operationalizing FAIR for Agent-Mediated Research](../ai/agents/arxiv-2608-10363.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
-  - [Nvidia wants to put a watchdog chip next to every AI agent](../ai/community/nvidia-wants-to-put-a-watchdog-chip-next-to-every.md)
   - [O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning](../ai/agents/arxiv-2607-18142.md)
   - [OBJECTION! Lawyer Agents Mitigate Guilty Bias in Legal Judgment Prediction](../ai/agents/arxiv-2609-02158.md)
   - [ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance](../ai/agents/arxiv-2608-04524.md)
@@ -7132,12 +7134,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [12,000-year-old Göbeklitepe burials explain scattered bones](../ai/community/12000-year-old-gobeklitepe-burials-explain-scatter.md)
-  - [AI companies leak data to advertisers [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
-  - [It's Time to Investigate the AI Labs](../ai/community/it-s-time-to-investigate-the-ai-labs.md)
-  - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](../ai/community/firelex-jeff.md)
-  - [Nvidia wants to put a watchdog chip next to every AI agent](../ai/community/nvidia-wants-to-put-a-watchdog-chip-next-to-every.md)
-  - [Simulating Airband AM Radios](../ai/community/simulating-airband-am-radios.md)
+  - [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
+  - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](../ai/community/draftkings-is-using-ai-to-behaviorally-target-chro.md)
+  - [New PlayStation 5 Console Jailbreak Released](../ai/community/ntfargo-relapse-exploit.md)
+  - [Without the Hot Air](../ai/community/without-the-hot-air.md)
 
 ## animation
 
@@ -15879,6 +15879,7 @@ Resources organized by keyword tags.
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -28837,7 +28838,6 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [12,000-year-old Göbeklitepe burials explain scattered bones](../ai/community/12000-year-old-gobeklitepe-burials-explain-scatter.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
@@ -28917,6 +28917,7 @@ Resources organized by keyword tags.
   - [A Physics-Informed Neural Network Approach for UAV Path Planning in Dynamic Environments](../ai/research/arxiv-2510-21874.md)
   - [A Power Law in Logarithm's Clothing: On the Scalability of Graph-Based Vector Search](../ai/rag/arxiv-2609-02143.md)
   - [A Practical Investigation of Training-free Relaxed Speculative Decoding](../ai/research/arxiv-2607-08690.md)
+  - [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
   - [A Probabilistic Framework for Learnable Optimization Algorithms](../ai/research/arxiv-2408-11629.md)
   - [A Provably Convergent Plug-and-Play Framework for Stochastic Bilevel Optimization](../ai/rag/arxiv-2505-01258.md)
   - [A Provably-Correct and Robust Convex Model for Smooth Separable NMF](../ai/rag/arxiv-2511-07109.md)
@@ -29027,7 +29028,6 @@ Resources organized by keyword tags.
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI and TCAD for Inverse Design and Defect Discovery: From Simple Machine Learning to LLM](../ai/research/arxiv-2609-07046.md)
-  - [AI companies leak data to advertisers [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
   - [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](../ai/research/arxiv-2609-08166.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
@@ -29930,9 +29930,11 @@ Resources organized by keyword tags.
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
   - [Dons des particuliers, legs - Fondation CNRS](../ai/resources/dons-des-particuliers-legs-fondation-cnrs.md)
   - [Door-in-the-Face Requests and Refusal Behaviour in Large Language Models](../ai/research/arxiv-2609-02707.md)
+  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
   - [Double-Bounded Nonlinear Optimal Transport for Size Constrained Min Cut Clusterin](../ai/research/arxiv-2501-18143.md)
   - [Dovecot | The Secure IMAP server](../ai/resources/dovecot-the-secure-imap-server.md)
   - [Dr. Axel Rauschmayer](../ai/resources/dr-axel-rauschmayer.md)
+  - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](../ai/community/draftkings-is-using-ai-to-behaviorally-target-chro.md)
   - [Dropout Neural Network Training Viewed from a Percolation Perspective](../ai/research/arxiv-2512-13853.md)
   - [Dropout and Random Gradient Masking Are Asymptotically Equivalent in Large ResNets](../ai/research/arxiv-2607-16761.md)
   - [Dual Attention Heads for Personalized Federated Learning in ECG Classification](../ai/research/arxiv-2607-06653.md)
@@ -30708,7 +30710,6 @@ Resources organized by keyword tags.
   - [Is the Hard-Label Cryptanalytic Model Extraction Really Polynomial?](../ai/research/arxiv-2510-06692.md)
   - [Iso-Riemannian Optimization on Learned Data Manifolds](../ai/research/arxiv-2510-21033.md)
   - [Isotonic Bradley-Terry Model for Paired Comparison Data](../ai/research/arxiv-2608-02081.md)
-  - [It's Time to Investigate the AI Labs](../ai/community/it-s-time-to-investigate-the-ai-labs.md)
   - [Iterative Flow Matching: Path Correction and Gradual Refinement for Enhanced Generative Modeling](../ai/research/arxiv-2502-16445.md)
   - [Iterative Refinement Diffusion for Super-Resolved Data Assimilation of Multiscale Physical Systems](../ai/research/arxiv-2608-14744.md)
   - [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md)
@@ -30720,7 +30721,6 @@ Resources organized by keyword tags.
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
   - [JavaScript Tutorial - GeeksforGeeks](../ai/rag/javascript-tutorial-geeksforgeeks.md)
   - [JavaScript data types and data structures - JavaScript | MDN](../ai/rag/javascript-data-types-and-data-structures-javascri.md)
-  - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](../ai/community/firelex-jeff.md)
   - [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md)
   - [Jira | Atlassian Community](../ai/rag/jira-atlassian-community.md)
   - [Job Application for Synack Red Team - Pentester at Synack SRT](../ai/resources/job-application-for-synack-red-team-pentester-at-s.md)
@@ -31066,7 +31066,6 @@ Resources organized by keyword tags.
   - [Mi-Memory: A Lifecycle Memory Framework for Personal AI](../ai/agents/arxiv-2607-18975.md)
   - [MiST: Mid-Training LLMs for Cybersecurity](../ai/research/arxiv-2609-18496.md)
   - [Micro-Segmentation Anomaly Detection in Zero-Trust Software-Defined Network Fabrics](../ai/research/arxiv-2608-02627.md)
-  - [MicroLLM Lab – Try 7 tiny LLM's in the browser](../ai/community/microllm-lab-try-7-tiny-llm-s-in-the-browser.md)
   - [MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference](../ai/rag/arxiv-2609-28358.md)
   - [Microsoft Academic Graph - Microsoft Research](../ai/rag/microsoft-academic-graph-microsoft-research.md)
   - [Microsoft Developer](../ai/rag/microsoft-developer.md)
@@ -31195,6 +31194,7 @@ Resources organized by keyword tags.
   - [New AI Tools for the Future of Science](../ai/rag/new-ai-tools-for-the-future-of-science.md)
   - [New AWS skills initiatives help APAC get AI-ready | AWS Training and Certification Blog](../ai/agents/new-aws-skills-initiatives-help-apac-get-ai-ready.md)
   - [New Conditions for Philosophers to Catch the Wave of Citizen Deliberation in the Age of Artificial Intelligence in advance](../ai/research/arxiv-2609-15707.md)
+  - [New PlayStation 5 Console Jailbreak Released](../ai/community/ntfargo-relapse-exploit.md)
   - [New Post - DEV Community](../ai/resources/new-post-dev-community.md)
   - [New York City](../ai/rag/new-york-city.md)
   - [New frontiers in artificial intelligence for biodiversity research and conservation with multimodal language models](../ai/research/new-frontiers-in-artificial-intelligence-for-biodi.md)
@@ -31230,7 +31230,6 @@ Resources organized by keyword tags.
   - [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](../ai/research/arxiv-2608-04030.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
-  - [Nvidia wants to put a watchdog chip next to every AI agent](../ai/community/nvidia-wants-to-put-a-watchdog-chip-next-to-every.md)
   - [ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance](../ai/agents/arxiv-2608-04524.md)
   - [OECC2026](../ai/rag/oecc2026.md)
   - [OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery](../ai/rag/arxiv-2609-26402.md)
@@ -31921,7 +31920,6 @@ Resources organized by keyword tags.
   - [Simplex-to-Euclidean Bijection for Conjugate and Calibrated Multiclass Gaussian Process Classification](../ai/research/arxiv-2603-16621.md)
   - [Simplicity Paradox: Debunking myths about prompting and datasets for LLM evaluation](../ai/research/arxiv-2607-14109.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
-  - [Simulating Airband AM Radios](../ai/community/simulating-airband-am-radios.md)
   - [Simulation-Based Evaluation of Energy-Constrained Quantum-Classical Competition](../ai/research/arxiv-2308-08025.md)
   - [SingProbe Technical Report](../ai/research/arxiv-2608-30703.md)
   - [Single State Update Predictive Coding training for Time Series Forecasting and Anomaly Detection](../ai/research/arxiv-2608-24697.md)
@@ -32588,6 +32586,7 @@ Resources organized by keyword tags.
   - [Wikimedia Projects – Wikimedia Foundation](../ai/rag/wikimedia-projects-wikimedia-foundation.md)
   - [Wikitech](../ai/resources/wikitech.md)
   - [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](../ai/research/arxiv-2608-17017.md)
+  - [Without the Hot Air](../ai/community/without-the-hot-air.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
@@ -33486,10 +33485,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [MicroLLM Lab – Try 7 tiny LLM's in the browser](../ai/community/microllm-lab-try-7-tiny-llm-s-in-the-browser.md)
 
 ## mdx
 
@@ -40949,6 +40944,7 @@ Resources organized by keyword tags.
   - [Does Reasoning Improve Psychological Depth in Large Language Models? It Depends on Who's Judging](../ai/research/arxiv-2609-13773.md)
   - [Does Splitting a Triage Decision Across Agents Hide Bias or Help Catch It? A Multi-Agent Simulation Study of LLM-Based Resource Allocation Under Audit Capacity Constraints](../ai/rag/arxiv-2608-06949.md)
   - [Door-in-the-Face Requests and Refusal Behaviour in Large Language Models](../ai/research/arxiv-2609-02707.md)
+  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
   - [DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing](../ai/rag/arxiv-2607-28750.md)
   - [Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model](../ai/rag/arxiv-2607-18958.md)
   - [Durable Execution Solutions | Temporal](../ai/agents/durable-execution-solutions-temporal.md)
@@ -64086,7 +64082,6 @@ Resources organized by keyword tags.
   - [How does downsampling affect needle electromyography signals? A generalisable workflow for understanding downsampling effects on high-frequency time series](../ai/research/arxiv-2601-10191.md)
   - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md)
   - [How to Train a Real-World Silicon Concierge? Internalizing Complex Business Workflow to Only OneModel](../ai/rag/arxiv-2608-20350.md)
-  - [How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows](../ai/models/huggingface-blog-nvidia-how-to-use-nvidia-warp-and-mjwarp.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [Human diversity fuels collective creativity that large language models cannot simulate or sustain](../ai/research/arxiv-2607-26899.md)
@@ -68271,4 +68266,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-29T16:35:28.278418+05:30*
+*Index generated on 2026-09-29T23:58:18.275878+05:30*

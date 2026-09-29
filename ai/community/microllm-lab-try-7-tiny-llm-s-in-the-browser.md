@@ -13,13 +13,14 @@ collected_at: '2026-09-29T16:18:06.437800+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:microllm-lab-try-7-tiny-llm-s-in-the-browser
 first_seen: '2026-09-29T05:57:58.761178+05:30'
 last_seen: '2026-09-29T16:18:06.437800+05:30'
 last_checked: '2026-09-29T16:18:06.437800+05:30'
 health_score: 100
 ---
+
 
 # MicroLLM Lab – Try 7 tiny LLM's in the browser
 

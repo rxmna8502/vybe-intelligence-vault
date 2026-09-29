@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nvidia-wants-to-put-a-watchdog-chip-next-to-every
 first_seen: '2026-09-29T05:58:00.287394+05:30'
 last_seen: '2026-09-29T16:18:07.180163+05:30'
 last_checked: '2026-09-29T16:18:07.180163+05:30'
 health_score: 100
 ---
+
 
 # Nvidia wants to put a watchdog chip next to every AI agent
 
