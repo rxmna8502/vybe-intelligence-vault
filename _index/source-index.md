@@ -26995,6 +26995,7 @@ Resources organized by publisher feed and query sources.
   - [Engineering](../ai/companies/openai/engineering.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
+  - [Hallo, Deutschland!](../ai/companies/mistral/hallo-deutschland.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
@@ -27003,10 +27004,8 @@ Resources organized by publisher feed and query sources.
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
   - [Mistral and Mozilla are bringing open, private and multilingual AI to your web browser](../ai/companies/mistral/mistral-and-mozilla-are-bringing-open-private-and.md)
-  - [Modernizing complex legacy code with AI agents.](../ai/companies/mistral/modernizing-complex-legacy-code-with-ai-agents.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Publications](../ai/companies/publications.md)
-  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
@@ -27014,6 +27013,7 @@ Resources organized by publisher feed and query sources.
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
+  - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
 ## Unknown Source (type: github)
@@ -27907,11 +27907,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Nissan's third generation e-POWER powertrain](../ai/community/nissan-s-third-generation-e-power-powertrain.md)
+  - [12,000-year-old Göbeklitepe burials explain scattered bones](../ai/community/12000-year-old-gobeklitepe-burials-explain-scatter.md)
+  - [3D necroprinting: Leveraging biotic material as the nozzle for 3D printing](../ai/community/3d-necroprinting-leveraging-biotic-material-as-the.md)
+  - [Anthropic's IPO prospectus shows AI vision, surging costs](../ai/community/anthropic-s-ipo-prospectus-shows-ai-vision-surging.md)
+  - [It's Time to Investigate the AI Labs](../ai/community/it-s-time-to-investigate-the-ai-labs.md)
+  - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](../ai/community/firelex-jeff.md)
+  - [MicroLLM Lab – Try 7 tiny LLM's in the browser](../ai/community/microllm-lab-try-7-tiny-llm-s-in-the-browser.md)
+  - [Nvidia wants to put a watchdog chip next to every AI agent](../ai/community/nvidia-wants-to-put-a-watchdog-chip-next-to-every.md)
   - [Parley: Federated, decentralised chat that speaks plain IRC](../ai/community/parley-federated-decentralised-chat-that-speaks-pl.md)
-  - [The problem is not the AI code, but nobody knows anything anymore](../ai/community/the-problem-is-not-the-ai-code-but-nobody-knows-an.md)
-  - [Thinking fast and slow in AI: The role of metacognition (2021)](../ai/community/arxiv-2110-01834.md)
-  - [What Would a Serious AI Product Look Like?](../ai/community/what-would-a-serious-ai-product-look-like.md)
+  - [What reversing, modernising old games tells us about the economic impact of AI](../ai/community/what-reversing-modernising-old-games-tells-us-abou.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31783,4 +31787,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-28T22:37:25.274482+05:30*
+*Index generated on 2026-09-29T06:14:42.774200+05:30*

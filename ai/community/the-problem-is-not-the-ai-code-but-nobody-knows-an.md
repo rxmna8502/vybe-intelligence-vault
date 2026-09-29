@@ -13,13 +13,14 @@ collected_at: '2026-09-28T22:20:54.234674+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-problem-is-not-the-ai-code-but-nobody-knows-an
 first_seen: '2026-09-28T22:20:54.234674+05:30'
 last_seen: '2026-09-28T22:20:54.234674+05:30'
 last_checked: '2026-09-28T22:20:54.234674+05:30'
 health_score: 100
 ---
+
 
 # The problem is not the AI code, but nobody knows anything anymore
 

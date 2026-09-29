@@ -13,13 +13,14 @@ collected_at: '2026-09-28T22:20:55.846243+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-would-a-serious-ai-product-look-like
 first_seen: '2026-09-28T22:20:55.846243+05:30'
 last_seen: '2026-09-28T22:20:55.846243+05:30'
 last_checked: '2026-09-28T22:20:55.846243+05:30'
 health_score: 100
 ---
+
 
 # What Would a Serious AI Product Look Like?
 

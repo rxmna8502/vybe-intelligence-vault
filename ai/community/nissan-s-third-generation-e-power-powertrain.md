@@ -13,13 +13,14 @@ collected_at: '2026-09-28T22:20:56.170130+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nissan-s-third-generation-e-power-powertrain
 first_seen: '2026-09-28T11:04:31.354490+05:30'
 last_seen: '2026-09-28T22:20:56.170130+05:30'
 last_checked: '2026-09-28T22:20:56.170130+05:30'
 health_score: 100
 ---
+
 
 # Nissan's third generation e-POWER powertrain
 
