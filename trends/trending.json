@@ -1,309 +1,6 @@
 {
-  "generated_at": "2026-09-29T16:38:29.019785+05:30",
+  "generated_at": "2026-09-30T00:02:15.894530+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:it-s-time-to-investigate-the-ai-labs",
-      "title": "It's Time to Investigate the AI Labs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-      "file_path": "ai/community/it-s-time-to-investigate-the-ai-labs.md",
-      "score": 514,
-      "score_change": 279,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:firelex/jeff",
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/firelex/jeff",
-      "file_path": "ai/community/firelex-jeff.md",
-      "score": 500,
-      "score_change": 278,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:microllm-lab-try-7-tiny-llm-s-in-the-browser",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://stateofutopia.com/experiments/microllmlab",
-      "file_path": "ai/community/microllm-lab-try-7-tiny-llm-s-in-the-browser.md",
-      "score": 248,
-      "score_change": 136,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:nvidia-wants-to-put-a-watchdog-chip-next-to-every",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://cnbc.com/2026/09/28/nvidia-releases.html",
-      "file_path": "ai/community/nvidia-wants-to-put-a-watchdog-chip-next-to-every.md",
-      "score": 178,
-      "score_change": 90,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:12000-year-old-gobeklitepe-burials-explain-scatter",
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones",
-      "file_path": "ai/community/12000-year-old-gobeklitepe-burials-explain-scatter.md",
-      "score": 139,
-      "score_change": 76,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:langchain-ai/retrieval-agent-template",
-      "title": "langchain-ai/retrieval-agent-template",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/langchain-ai/retrieval-agent-template",
-      "file_path": "ai/rag/langchain-ai-retrieval-agent-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7334,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1030,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:langchain-ai/retrieval-agent-template",
-      "title": "langchain-ai/retrieval-agent-template",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/langchain-ai/retrieval-agent-template",
-      "file_path": "ai/rag/langchain-ai-retrieval-agent-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7334,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1030,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:it-s-time-to-investigate-the-ai-labs",
-      "title": "It's Time to Investigate the AI Labs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-      "file_path": "ai/community/it-s-time-to-investigate-the-ai-labs.md",
-      "score": 514,
-      "score_change": 279,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:firelex/jeff",
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/firelex/jeff",
-      "file_path": "ai/community/firelex-jeff.md",
-      "score": 500,
-      "score_change": 278,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:microllm-lab-try-7-tiny-llm-s-in-the-browser",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://stateofutopia.com/experiments/microllmlab",
-      "file_path": "ai/community/microllm-lab-try-7-tiny-llm-s-in-the-browser.md",
-      "score": 248,
-      "score_change": 136,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:nvidia-wants-to-put-a-watchdog-chip-next-to-every",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://cnbc.com/2026/09/28/nvidia-releases.html",
-      "file_path": "ai/community/nvidia-wants-to-put-a-watchdog-chip-next-to-every.md",
-      "score": 178,
-      "score_change": 90,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:phyllotaxis-an-audio-reactive-led-display",
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "category": "web-development/community",
-      "source_type": "hackernews",
-      "url": "https://jagi.studio/posts/phyllotaxis",
-      "file_path": "web-development/community/phyllotaxis-an-audio-reactive-led-display.md",
-      "score": 150,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-companies-leak-data-to-advertisers-pdf",
-      "title": "AI companies leak data to advertisers [pdf]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "file_path": "ai/community/ai-companies-leak-data-to-advertisers-pdf.md",
-      "score": 55,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:simulating-airband-am-radios",
-      "title": "Simulating Airband AM Radios",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bitbashing.io/am-radio.html",
-      "file_path": "ai/community/simulating-airband-am-radios.md",
-      "score": 46,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2609.28684",
       "title": "M-plicits: Neural Implicit Surfaces via Nested Multiscale Residuals",
@@ -313,8 +10,8 @@
       "file_path": "ai/research/arxiv-2609-28684.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -326,8 +23,8 @@
       "file_path": "ai/agents/arxiv-2607-13449.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +36,8 @@
       "file_path": "ai/agents/arxiv-2607-02387.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +49,8 @@
       "file_path": "ai/rag/arxiv-2606-21372.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +62,8 @@
       "file_path": "ai/research/arxiv-2605-24981.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +75,8 @@
       "file_path": "ai/rag/arxiv-2605-19565.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +88,8 @@
       "file_path": "ai/research/arxiv-2605-08187.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +101,8 @@
       "file_path": "ai/research/arxiv-2604-09135.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,8 +114,8 @@
       "file_path": "ai/research/arxiv-2604-05904.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -430,30 +127,151 @@
       "file_path": "ai/research/arxiv-2604-01525.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 114,
+      "new_resource": false,
       "tier": "tier-3"
-    },
+    }
+  ],
+  "fastest_rising_tools": [
     {
-      "id": "arxiv:2603.26217",
-      "title": "On associative neural networks for sparse patterns with huge capacities",
+      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+      "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2603.26217",
-      "file_path": "ai/rag/arxiv-2603-26217.md",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 9274,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2603.25860",
-      "title": "On the Expressive Power of Transformers for Contextual Relations",
+      "id": "github:microsoft/rag-time",
+      "title": "microsoft/rag-time",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/rag-time",
+      "file_path": "ai/rag/microsoft-rag-time.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02392",
+      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2603.25860",
-      "file_path": "ai/research/arxiv-2603-25860.md",
+      "url": "https://arxiv.org/abs/2608.02392",
+      "file_path": "ai/research/arxiv-2608-02392.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02046",
+      "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.02046",
+      "file_path": "ai/rag/arxiv-2608-02046.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01791",
+      "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01791",
+      "file_path": "ai/rag/arxiv-2608-01791.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01207",
+      "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01207",
+      "file_path": "ai/rag/arxiv-2608-01207.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.23462",
+      "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.23462",
+      "file_path": "ai/research/arxiv-2606-23462.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.22216",
+      "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.22216",
+      "file_path": "ai/research/arxiv-2606-22216.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2605.27882",
+      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2605.27882",
+      "file_path": "ai/agents/arxiv-2605-27882.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1018,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,40 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:parley-federated-decentralised-chat-that-speaks-pl",
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://git.mills.io/prologic/parley",
-      "file_path": "ai/community/parley-federated-decentralised-chat-that-speaks-pl.md"
-    },
-    {
-      "id": "hackernews:what-reversing-modernising-old-games-tells-us-abou",
-      "title": "What reversing, modernising old games tells us about the economic impact of AI",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ",
-      "file_path": "ai/community/what-reversing-modernising-old-games-tells-us-abou.md"
-    },
-    {
-      "id": "hackernews:anthropic-s-ipo-prospectus-shows-ai-vision-surging",
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
-      "file_path": "ai/community/anthropic-s-ipo-prospectus-shows-ai-vision-surging.md"
-    },
-    {
-      "id": "hackernews:3d-necroprinting-leveraging-biotic-material-as-the",
-      "title": "3D necroprinting: Leveraging biotic material as the nozzle for 3D printing",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://science.org/doi/10.1126/sciadv.adw9953",
-      "file_path": "ai/community/3d-necroprinting-leveraging-biotic-material-as-the.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
