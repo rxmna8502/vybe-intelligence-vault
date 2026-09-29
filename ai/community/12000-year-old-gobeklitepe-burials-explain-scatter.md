@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones
 hn_url: https://news.ycombinator.com/item?id=49855059
-score: 63
+score: 139
 author: yusufaytas
-comments_count: 13
+comments_count: 36
 published_at: '2026-09-26T15:46:26+05:30'
-collected_at: '2026-09-29T05:57:58.620629+05:30'
+collected_at: '2026-09-29T16:18:06.884226+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:12000-year-old-gobeklitepe-burials-explain-scatter
 first_seen: '2026-09-29T05:57:58.620629+05:30'
-last_seen: '2026-09-29T05:57:58.620629+05:30'
-last_checked: '2026-09-29T05:57:58.620629+05:30'
+last_seen: '2026-09-29T16:18:06.884226+05:30'
+last_checked: '2026-09-29T16:18:06.884226+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by yusufaytas. Score: 63, Comments: 13.
+Hacker News story by yusufaytas. Score: 139, Comments: 36.
 Original Link: https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: yusufaytas
-- Score: 63 Upvotes
-- Comments: 13 Discussions
+- Score: 139 Upvotes
+- Comments: 36 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49855059
 - Original Article: https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones
 

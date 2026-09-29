@@ -218,8 +218,8 @@ This index groups curated resources by target developer skills.
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Broken on Arrival: Silently Defective LLM Artifacts in Public Model Registries and How to Catch Them](https://arxiv.org/abs/2609.05881) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-05881.md))
+- [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
 - [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](https://arxiv.org/abs/2608.13966) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-13966.md))
-- [${M}^2$Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2609.18259) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-18259.md))
 
 ## MCP Integrations
 
@@ -262,8 +262,8 @@ This index groups curated resources by target developer skills.
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Broken on Arrival: Silently Defective LLM Artifacts in Public Model Registries and How to Catch Them](https://arxiv.org/abs/2609.05881) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-05881.md))
+- [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
 - [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](https://arxiv.org/abs/2608.13966) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-13966.md))
-- [${M}^2$Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2609.18259) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-18259.md))
 
 ## Model Selection
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-09-29 06:16 IST*
+*Last updated: 2026-09-29 16:37 IST*

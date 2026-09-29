@@ -4,26 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/retrieval-agent-template
-collected_at: '2026-09-03T01:02:36.633384+05:30'
-published_at: '2026-08-28T21:48:17Z'
+collected_at: '2026-09-29T16:23:46.060173+05:30'
+published_at: '2026-09-29T03:00:02Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
-stars: 171
+stars: 175
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-08-21T20:47:35Z'
-pushed_at: '2026-09-02T08:46:49Z'
+pushed_at: '2026-09-25T22:05:49Z'
 resource_id: github:langchain-ai/retrieval-agent-template
-first_seen: '2026-09-03T01:02:36.633384+05:30'
-last_seen: '2026-09-03T01:02:36.633384+05:30'
-last_checked: '2026-09-03T01:02:36.633384+05:30'
+first_seen: '2026-09-29T16:23:46.060173+05:30'
+last_seen: '2026-09-29T16:23:46.060173+05:30'
+last_checked: '2026-09-29T16:23:46.060173+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter implementation for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
-
-- **Key Components**: Includes pre-configured workflows for document retrieval, state management, and agent orchestration, leveraging LangGraph's Python SDK (`langgraph-python`).
-
-- **Technical Stack**: Built on Python with dependencies on LangChain ecosystem tools (`langgraph`, `langgraph-python`) for agentic RAG pipelines and stateful computation.
+*   Python-based template for retrieval agent implementations.
+*   Leverages LangGraph for orchestrating agent workflows.
+*   Provides a foundational LangGraph template for rapid development.
 
 ## Why It Matters
 
@@ -44,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 171
+- Stars: 175
 - Forks: 54
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-08-28T21:48:17Z
+- Last Updated: 2026-09-29T03:00:02Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T20:47:35Z
-- Pushed At: 2026-09-02T08:46:49Z
+- Pushed At: 2026-09-25T22:05:49Z
 
 ## Possible Use Cases
 

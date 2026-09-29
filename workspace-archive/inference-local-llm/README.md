@@ -14,8 +14,8 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (benchmark - ESSENTIAL Tier)
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - ESSENTIAL Tier)
 - [Broken on Arrival: Silently Defective LLM Artifacts in Public Model Registries and How to Catch Them](https://arxiv.org/abs/2609.05881) (template - ESSENTIAL Tier)
+- [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (workflow - USEFUL Tier)
 - [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](https://arxiv.org/abs/2608.13966) (reference - USEFUL Tier)
-- [${M}^2$Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2609.18259) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-09-29 06:15 IST*
+*Last updated: 2026-09-29 16:37 IST*

@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-s-ipo-prospectus-shows-ai-vision-surging
 first_seen: '2026-09-29T05:57:59.289870+05:30'
 last_seen: '2026-09-29T05:57:59.289870+05:30'
 last_checked: '2026-09-29T05:57:59.289870+05:30'
 health_score: 100
 ---
+
 
 # Anthropic's IPO prospectus shows AI vision, surging costs
 

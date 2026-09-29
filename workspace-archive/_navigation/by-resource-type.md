@@ -169,17 +169,17 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 ## WORKFLOW
 
 - [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
+- [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (Tier: `useful` | [`Local File`](../../ai/agents/addyosmani-agent-skills.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 - [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
+- [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa/) (Tier: `useful` | [`Local File`](../../ai/rag/vespa-engine-vespa.md))
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
-- [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
-- [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
-- [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
+- [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
 
 ---
-*Last updated: 2026-09-29 06:16 IST*
+*Last updated: 2026-09-29 16:37 IST*

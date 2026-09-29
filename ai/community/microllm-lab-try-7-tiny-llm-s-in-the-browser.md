@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://stateofutopia.com/experiments/microllmlab
 hn_url: https://news.ycombinator.com/item?id=49882781
-score: 112
+score: 248
 author: logicallee
-comments_count: 55
+comments_count: 86
 published_at: '2026-09-29T00:28:53+05:30'
-collected_at: '2026-09-29T05:57:58.761178+05:30'
+collected_at: '2026-09-29T16:18:06.437800+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:microllm-lab-try-7-tiny-llm-s-in-the-browser
 first_seen: '2026-09-29T05:57:58.761178+05:30'
-last_seen: '2026-09-29T05:57:58.761178+05:30'
-last_checked: '2026-09-29T05:57:58.761178+05:30'
+last_seen: '2026-09-29T16:18:06.437800+05:30'
+last_checked: '2026-09-29T16:18:06.437800+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by logicallee. Score: 112, Comments: 55.
+Hacker News story by logicallee. Score: 248, Comments: 86.
 Original Link: https://stateofutopia.com/experiments/microllmlab/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: logicallee
-- Score: 112 Upvotes
-- Comments: 55 Discussions
+- Score: 248 Upvotes
+- Comments: 86 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49882781
 - Original Article: https://stateofutopia.com/experiments/microllmlab
 

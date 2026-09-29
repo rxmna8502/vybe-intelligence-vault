@@ -14,13 +14,14 @@ collected_at: '2026-09-29T05:58:00.762866+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-reversing-modernising-old-games-tells-us-abou
 first_seen: '2026-09-29T05:58:00.762866+05:30'
 last_seen: '2026-09-29T05:58:00.762866+05:30'
 last_checked: '2026-09-29T05:58:00.762866+05:30'
 health_score: 100
 ---
+
 
 # What reversing, modernising old games tells us about the economic impact of AI
 

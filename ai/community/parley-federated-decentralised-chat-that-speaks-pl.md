@@ -13,13 +13,14 @@ collected_at: '2026-09-29T05:57:59.433167+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:parley-federated-decentralised-chat-that-speaks-pl
 first_seen: '2026-09-28T22:20:54.535662+05:30'
 last_seen: '2026-09-29T05:57:59.433167+05:30'
 last_checked: '2026-09-29T05:57:59.433167+05:30'
 health_score: 100
 ---
+
 
 # Parley: Federated, decentralised chat that speaks plain IRC
 

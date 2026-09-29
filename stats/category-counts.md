@@ -4,21 +4,21 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `Tooling/` | 1 |
-| `ai/agents/` | 4770 |
-| `ai/community/` | 11 |
+| `ai/agents/` | 4779 |
+| `ai/community/` | 9 |
 | `ai/companies/` | 10 |
 | `ai/companies/anthropic/` | 10 |
 | `ai/companies/deepmind/` | 5 |
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 5 |
 | `ai/models/` | 812 |
-| `ai/rag/` | 9595 |
+| `ai/rag/` | 9660 |
 | `ai/releases/` | 1 |
-| `ai/research/` | 14746 |
+| `ai/research/` | 14885 |
 | `ai/resources/` | 1537 |
 | `ai/trending/` | 5 |
 | `web-development/` | 40 |
+| `web-development/community/` | 1 |
 | `web-development/framer-motion/` | 3 |
 | `web-development/gsap/` | 3 |
 | `web-development/nextjs/` | 77 |
@@ -28,6 +28,7 @@ Below is the file distribution across the vault categories.
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
+| `world/public/vault/daily-digests/2026-09-28/` | 1 |
 
 ## Categories Needing More Coverage
 

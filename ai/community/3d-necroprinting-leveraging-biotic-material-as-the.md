@@ -13,13 +13,14 @@ collected_at: '2026-09-29T05:58:00.008322+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:3d-necroprinting-leveraging-biotic-material-as-the
 first_seen: '2026-09-29T05:58:00.008322+05:30'
 last_seen: '2026-09-29T05:58:00.008322+05:30'
 last_checked: '2026-09-29T05:58:00.008322+05:30'
 health_score: 100
 ---
+
 
 # 3D necroprinting: Leveraging biotic material as the nozzle for 3D printing
 
