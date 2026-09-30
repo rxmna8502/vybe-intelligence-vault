@@ -28122,10 +28122,7 @@ Resources organized by publisher feed and query sources.
 
   - [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
   - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
-  - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](../ai/community/draftkings-is-using-ai-to-behaviorally-target-chro.md)
-  - [New PlayStation 5 Console Jailbreak Released](../ai/community/ntfargo-relapse-exploit.md)
   - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
-  - [Without the Hot Air](../ai/community/without-the-hot-air.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31997,4 +31994,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-29T23:58:18.623630+05:30*
+*Index generated on 2026-09-30T05:35:20.475499+05:30*

@@ -4,14 +4,9 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-<<<<<<< Updated upstream
-| `Agent Framework/` | 1 |
-| `ai/agents/` | 4716 |
-| `ai/community/` | 9 |
-| `ai/rag/` | 9626 |
-=======
+| `Tooling/` | 1 |
 | `ai/agents/` | 4780 |
-| `ai/community/` | 7 |
+| `ai/community/` | 4 |
 | `ai/companies/` | 10 |
 | `ai/companies/anthropic/` | 10 |
 | `ai/companies/deepmind/` | 5 |
@@ -19,16 +14,15 @@ Below is the file distribution across the vault categories.
 | `ai/companies/openai/` | 5 |
 | `ai/models/` | 811 |
 | `ai/rag/` | 9660 |
->>>>>>> Stashed changes
 | `ai/releases/` | 1 |
-| `ai/research/` | 14888 |
+| `ai/research/` | 14885 |
 | `ai/resources/` | 1537 |
 | `ai/trending/` | 5 |
-| `web-development/` | 39 |
+| `web-development/` | 40 |
 | `web-development/community/` | 1 |
 | `web-development/framer-motion/` | 3 |
 | `web-development/gsap/` | 3 |
-| `web-development/nextjs/` | 9 |
+| `web-development/nextjs/` | 77 |
 | `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
 | `web-development/tailwind/` | 3 |

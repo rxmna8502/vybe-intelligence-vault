@@ -7135,9 +7135,6 @@ Resources organized by keyword tags.
 ## ai
 
   - [A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]](../ai/community/ai-companies-leak-data-to-advertisers-pdf.md)
-  - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](../ai/community/draftkings-is-using-ai-to-behaviorally-target-chro.md)
-  - [New PlayStation 5 Console Jailbreak Released](../ai/community/ntfargo-relapse-exploit.md)
-  - [Without the Hot Air](../ai/community/without-the-hot-air.md)
 
 ## animation
 
@@ -29934,7 +29931,6 @@ Resources organized by keyword tags.
   - [Double-Bounded Nonlinear Optimal Transport for Size Constrained Min Cut Clusterin](../ai/research/arxiv-2501-18143.md)
   - [Dovecot | The Secure IMAP server](../ai/resources/dovecot-the-secure-imap-server.md)
   - [Dr. Axel Rauschmayer](../ai/resources/dr-axel-rauschmayer.md)
-  - [DraftKings Is Using AI to Behaviorally Target Chronic Gamblers](../ai/community/draftkings-is-using-ai-to-behaviorally-target-chro.md)
   - [Dropout Neural Network Training Viewed from a Percolation Perspective](../ai/research/arxiv-2512-13853.md)
   - [Dropout and Random Gradient Masking Are Asymptotically Equivalent in Large ResNets](../ai/research/arxiv-2607-16761.md)
   - [Dual Attention Heads for Personalized Federated Learning in ECG Classification](../ai/research/arxiv-2607-06653.md)
@@ -31194,7 +31190,6 @@ Resources organized by keyword tags.
   - [New AI Tools for the Future of Science](../ai/rag/new-ai-tools-for-the-future-of-science.md)
   - [New AWS skills initiatives help APAC get AI-ready | AWS Training and Certification Blog](../ai/agents/new-aws-skills-initiatives-help-apac-get-ai-ready.md)
   - [New Conditions for Philosophers to Catch the Wave of Citizen Deliberation in the Age of Artificial Intelligence in advance](../ai/research/arxiv-2609-15707.md)
-  - [New PlayStation 5 Console Jailbreak Released](../ai/community/ntfargo-relapse-exploit.md)
   - [New Post - DEV Community](../ai/resources/new-post-dev-community.md)
   - [New York City](../ai/rag/new-york-city.md)
   - [New frontiers in artificial intelligence for biodiversity research and conservation with multimodal language models](../ai/research/new-frontiers-in-artificial-intelligence-for-biodi.md)
@@ -32586,7 +32581,6 @@ Resources organized by keyword tags.
   - [Wikimedia Projects – Wikimedia Foundation](../ai/rag/wikimedia-projects-wikimedia-foundation.md)
   - [Wikitech](../ai/resources/wikitech.md)
   - [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](../ai/research/arxiv-2608-17017.md)
-  - [Without the Hot Air](../ai/community/without-the-hot-air.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
@@ -58880,6 +58874,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -68266,4 +68261,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-29T23:58:18.275878+05:30*
+*Index generated on 2026-09-30T05:35:20.199421+05:30*

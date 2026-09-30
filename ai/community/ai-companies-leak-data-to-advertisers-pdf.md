@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
 hn_url: https://news.ycombinator.com/item?id=49890226
-score: 381
+score: 405
 author: damaru2
-comments_count: 121
+comments_count: 128
 published_at: '2026-09-29T14:33:41+05:30'
-collected_at: '2026-09-29T23:41:43.273388+05:30'
+collected_at: '2026-09-30T05:18:57.023334+05:30'
 tags:
 - agents
 - ai
 - hackernews
 status: active
-resource_id: hackernews:ai-companies-leak-data-to-advertisers-pdf
+resource_id: hackernews:a-privacy-analysis-of-web-and-mobile-conversationa
 first_seen: '2026-09-29T16:18:04.692597+05:30'
-last_seen: '2026-09-29T23:41:43.273388+05:30'
-last_checked: '2026-09-29T23:41:43.273388+05:30'
+last_seen: '2026-09-30T05:18:57.023334+05:30'
+last_checked: '2026-09-30T05:18:57.023334+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by damaru2. Score: 381, Comments: 121.
+Hacker News story by damaru2. Score: 405, Comments: 128.
 Original Link: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: damaru2
-- Score: 381 Upvotes
-- Comments: 121 Discussions
+- Score: 405 Upvotes
+- Comments: 128 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49890226
 - Original Article: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf
 

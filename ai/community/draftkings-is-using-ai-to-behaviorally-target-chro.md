@@ -13,13 +13,14 @@ collected_at: '2026-09-29T23:41:43.146210+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:draftkings-is-using-ai-to-behaviorally-target-chro
 first_seen: '2026-09-29T23:41:43.146210+05:30'
 last_seen: '2026-09-29T23:41:43.146210+05:30'
 last_checked: '2026-09-29T23:41:43.146210+05:30'
 health_score: 100
 ---
+
 
 # DraftKings Is Using AI to Behaviorally Target Chronic Gamblers
 

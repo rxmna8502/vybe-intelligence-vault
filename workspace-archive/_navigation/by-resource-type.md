@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
 
 ---
-*Last updated: 2026-09-30 00:00 IST*
+*Last updated: 2026-09-30 05:37 IST*
