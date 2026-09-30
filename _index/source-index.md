@@ -29191,13 +29191,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
-  - [Floppy Emu Hardware Failure Analysis Results](../ai/community/floppy-emu-hardware-failure-analysis-results.md)
-  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
-  - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
-  - [Pi.dev: You Said No MCP](../ai/community/pi-dev-you-said-no-mcp.md)
-  - [Testing WebGPU data layouts with Facet](../web-development/community/testing-webgpu-data-layouts-with-facet.md)
-  - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](../ai/community/upgrade-your-desktop-ubuntu-26-04-1-lts-is-now-ava.md)
+  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
+  - [Surprisingly Complex Waves Reveal the Brain's Inner Workings](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)
+  - [You said no MCP](../ai/community/pi-dev-you-said-no-mcp.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -30274,6 +30270,7 @@ Resources organized by publisher feed and query sources.
   - [React v18.0](../web-development/react-v18-0.md)
   - [React v19](../web-development/react-v19.md)
   - [Security Advisory: CVE-2025-66478](../web-development/security-advisory-cve-2025-66478.md)
+  - [September 2026 Security Release](../web-development/nextjs/september-2026-security-release.md)
   - [Styling Next.js with Styled JSX](../web-development/nextjs/styling-next-js-with-styled-jsx.md)
   - [Sunsetting Create React App](../ai/rag/sunsetting-create-react-app.md)
   - [The Plan for React 18](../web-development/the-plan-for-react-18.md)
@@ -33070,4 +33067,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-30T20:48:51.873169+05:30*
+*Index generated on 2026-10-01T02:41:40.702791+05:30*

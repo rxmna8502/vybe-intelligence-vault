@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:testing-webgpu-data-layouts-with-facet
 first_seen: '2026-09-30T11:12:30.617326+05:30'
 last_seen: '2026-09-30T20:32:13.826837+05:30'
 last_checked: '2026-09-30T20:32:13.826837+05:30'
 health_score: 100
 ---
+
 
 # Testing WebGPU data layouts with Facet
 

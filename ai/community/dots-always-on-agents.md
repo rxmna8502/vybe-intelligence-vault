@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:dots-always-on-agents
 first_seen: '2026-09-29T23:41:42.341682+05:30'
 last_seen: '2026-09-30T20:32:12.082519+05:30'
 last_checked: '2026-09-30T20:32:12.082519+05:30'
 health_score: 100
 ---
+
 
 # Dots: Always-on agents
 

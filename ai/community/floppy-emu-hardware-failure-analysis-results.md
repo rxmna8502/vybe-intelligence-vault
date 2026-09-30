@@ -13,13 +13,14 @@ collected_at: '2026-09-30T20:32:14.700643+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:floppy-emu-hardware-failure-analysis-results
 first_seen: '2026-09-30T20:32:14.700643+05:30'
 last_seen: '2026-09-30T20:32:14.700643+05:30'
 last_checked: '2026-09-30T20:32:14.700643+05:30'
 health_score: 100
 ---
+
 
 # Floppy Emu Hardware Failure Analysis Results
 

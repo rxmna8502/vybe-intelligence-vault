@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
+source_url: https://deepmind.google/blog/introducing-synthid-bio
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -41,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory
+Original source URL: https://deepmind.google/blog/introducing-synthid-bio
 
 ## Local Vault File
 

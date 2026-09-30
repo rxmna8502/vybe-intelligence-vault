@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:phyllotaxis-an-audio-reactive-led-display
 first_seen: '2026-09-29T16:18:05.285648+05:30'
 last_seen: '2026-09-30T20:32:13.496208+05:30'
 last_checked: '2026-09-30T20:32:13.496208+05:30'
 health_score: 100
 ---
+
 
 # Phyllotaxis: An audio-reactive LED display
 

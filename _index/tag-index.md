@@ -2132,7 +2132,6 @@ Resources organized by keyword tags.
   - [Dont Just Teach, Explain! A Gamified 20Q Recommender for Cybersecurity Education](../ai/agents/arxiv-2604-26964.md)
   - [Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade](../ai/agents/arxiv-2607-06503.md)
   - [Doorman11991/smallcode](../ai/rag/doorman11991-smallcode.md)
-  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
   - [Download Android Studio & App Tools - Android Developers](../ai/rag/download-android-studio-app-tools-android-develope.md)
   - [Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion](../ai/rag/arxiv-2606-14885.md)
   - [Dr. AGENTONOMICS: A Didactic Experiment of AGENTONOMICS](../ai/agents/arxiv-2608-03524.md)
@@ -3654,6 +3653,7 @@ Resources organized by keyword tags.
   - [LatentMD: Benchmarking Markdown Boundary Failures in LLM-Generated Text](../ai/agents/arxiv-2609-06993.md)
   - [LatentSift: Policy-State Filtering for Token-Efficient Verification of Software Engineering Agents](../ai/agents/arxiv-2609-36371.md)
   - [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](../ai/rag/arxiv-2606-06087.md)
+  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](../ai/agents/arxiv-2606-01838.md)
   - [LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](../ai/agents/arxiv-2609-23058.md)
@@ -7382,9 +7382,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Floppy Emu Hardware Failure Analysis Results](../ai/community/floppy-emu-hardware-failure-analysis-results.md)
-  - [Pi.dev: You Said No MCP](../ai/community/pi-dev-you-said-no-mcp.md)
-  - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](../ai/community/upgrade-your-desktop-ubuntu-26-04-1-lts-is-now-ava.md)
+  - [Surprisingly Complex Waves Reveal the Brain's Inner Workings](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)
+  - [You said no MCP](../ai/community/pi-dev-you-said-no-mcp.md)
 
 ## animation
 
@@ -16458,7 +16457,6 @@ Resources organized by keyword tags.
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -25720,7 +25718,6 @@ Resources organized by keyword tags.
   - [ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](../ai/research/arxiv-2510-10774.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
@@ -28461,7 +28458,6 @@ Resources organized by keyword tags.
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
   - [Myopia Prevention and Control 3.0: Artificial Intelligence--Driven Risk Stratification, Proactive Monitoring, and Personalized Intervention](../ai/research/arxiv-2607-24187.md)
   - [NIST Chemistry WebBook](../ai/resources/nist-chemistry-webbook.md)
-  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
   - [Nation SkillUp](../ai/resources/nation-skillup.md)
   - [NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability](../ai/rag/arxiv-2607-28942.md)
   - [Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks](../ai/research/arxiv-2608-25327.md)
@@ -28555,7 +28551,6 @@ Resources organized by keyword tags.
   - [Persistent Tri-State Message Passing](../ai/rag/arxiv-2601-01207.md)
   - [Pharmacokinetic State Space Models for Unbiased Prediction of Haemodynamic Collapse](../ai/research/arxiv-2609-24338.md)
   - [Phase-Decoupled, Model-Calibrated Power Control for Disaggregated LLM Serving](../ai/agents/arxiv-2609-11133.md)
-  - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
   - [PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research](../ai/agents/arxiv-2512-19799.md)
   - [Physics-Informed Laplace Neural Operator for Solving Partial Differential Equations](../ai/rag/arxiv-2602-12706.md)
   - [Physics-Integrated Operator Learning via Gaussian Splatting Representations](../ai/research/arxiv-2608-24049.md)
@@ -28694,6 +28689,7 @@ Resources organized by keyword tags.
   - [Self-Driving Datasets: From 20 Million Papers to Nuanced Biomedical Knowledge at Scale](../ai/rag/arxiv-2605-07022.md)
   - [Send new RSS feed entries via email](../ai/rag/send-new-rss-feed-entries-via-email.md)
   - [Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels](../ai/agents/arxiv-2607-23438.md)
+  - [September 2026 Security Release](../web-development/nextjs/september-2026-security-release.md)
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries](../ai/research/arxiv-2608-20441.md)
   - [Shibuya](../ai/resources/shibuya.md)
@@ -30915,7 +30911,6 @@ Resources organized by keyword tags.
   - [Données & Design par LINC](../ai/resources/donnees-design-par-linc.md)
   - [Dons des particuliers, legs - Fondation CNRS](../ai/resources/dons-des-particuliers-legs-fondation-cnrs.md)
   - [Door-in-the-Face Requests and Refusal Behaviour in Large Language Models](../ai/research/arxiv-2609-02707.md)
-  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
   - [Double-Bounded Nonlinear Optimal Transport for Size Constrained Min Cut Clusterin](../ai/research/arxiv-2501-18143.md)
   - [Dovecot | The Secure IMAP server](../ai/resources/dovecot-the-secure-imap-server.md)
   - [Dr. Axel Rauschmayer](../ai/resources/dr-axel-rauschmayer.md)
@@ -31193,7 +31188,6 @@ Resources organized by keyword tags.
   - [Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education](../ai/research/arxiv-2609-06095.md)
   - [Flawed in Nature, Perfect through Evolution](../ai/research/arxiv-2609-00129.md)
   - [Flexible and Interpretable Accent Distance Measurements](../ai/rag/arxiv-2609-11458.md)
-  - [Floppy Emu Hardware Failure Analysis Results](../ai/community/floppy-emu-hardware-failure-analysis-results.md)
   - [Flow Reconstruction from Sparse Measurements in Urban Drainage Networks: An Application and Evaluation of Data-Driven Sparse Sensing](../ai/research/arxiv-2511-04556.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
   - [FoldPipe: Bounded Remote Streaming of Native Molecular Shards with Asynchronous Prefetch](../ai/rag/arxiv-2608-27029.md)
@@ -31824,6 +31818,7 @@ Resources organized by keyword tags.
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
+  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -32159,7 +32154,6 @@ Resources organized by keyword tags.
   - [NLNOG - Netherlands Network Operator Group](../ai/resources/nlnog-netherlands-network-operator-group.md)
   - [NLNOG Looking Glass](../ai/resources/nlnog-looking-glass.md)
   - [NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts](../ai/research/arxiv-2608-28608.md)
-  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
   - [NSF - U.S. National Science Foundation](../ai/agents/nsf-u-s-national-science-foundation.md)
   - [NSF Expeditions in Computing: Computational Sustainability](../ai/rag/nsf-expeditions-in-computing-computational-sustain.md)
   - [NSF SAGE: Data Management Center](../ai/resources/nsf-sage-data-management-center.md)
@@ -32400,7 +32394,6 @@ Resources organized by keyword tags.
   - [Phantom References: Hallucinated Citations That Survive Peer Review at Top-Tier Conferences](../ai/research/arxiv-2607-00738.md)
   - [Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs](../ai/research/phi-4-mini-technical-report-compact-yet-powerful-m.md)
   - [Photonic convolutional neural network with pre-trained in situ training](../ai/research/arxiv-2604-02429.md)
-  - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
   - [PhyloGFN: Phylogenetic inference with generative flow networks](../ai/research/arxiv-2310-08774.md)
   - [Physical activities enable scalable foundation modelling for broad-spectrum health prediction](../ai/rag/arxiv-2607-06954.md)
   - [Physically Based Rendering in the Latent Space](../ai/rag/arxiv-2609-21054.md)
@@ -32414,7 +32407,6 @@ Resources organized by keyword tags.
   - [Physics-Informed Sylvester Normalizing Flows for Bayesian Inference in Magnetic Resonance Spectroscopy](../ai/research/arxiv-2505-03590.md)
   - [Physics-Unrolled Neural Operator for Wireless Field Modeling](../ai/rag/arxiv-2608-18495.md)
   - [Physics-informed reduced-order modelling with equivariant spectral submanifolds](../ai/research/arxiv-2608-04239.md)
-  - [Pi.dev: You Said No MCP](../ai/community/pi-dev-you-said-no-mcp.md)
   - [PiMRef: Deducing Ever-evolving Spear-phishing Emails with Knowledge Base Invariants](../ai/rag/arxiv-2507-15393.md)
   - [PierreGode/Ragnar](../ai/rag/pierregode-ragnar.md)
   - [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](../ai/research/arxiv-2609-15919.md)
@@ -33073,6 +33065,7 @@ Resources organized by keyword tags.
   - [Supporting Autonomous Process Execution within a Multi-Perspective Constraint Frame via Numeric Planning](../ai/rag/arxiv-2607-16738.md)
   - [Surface Hub admin guide - Surface Hub | Microsoft Learn](../ai/resources/surface-hub-admin-guide-surface-hub-microsoft-lear.md)
   - [Surprising Effectiveness of Self-Demonstrations in Enhancing Schema-Ontology Mapping with LLMs](../ai/research/arxiv-2609-13776.md)
+  - [Surprisingly Complex Waves Reveal the Brain's Inner Workings](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)
   - [Surrogate Benchmarks for Model Merging Optimization](../ai/research/arxiv-2509-02555.md)
   - [Surrogate-Assisted Genetic Programming with Phenotypic Characterisation in Dynamic Multi-Mode Project Scheduling](../ai/research/arxiv-2609-14418.md)
   - [Surveillance Self-Defense](../ai/resources/surveillance-self-defense.md)
@@ -33165,7 +33158,6 @@ Resources organized by keyword tags.
   - [Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts](../ai/rag/arxiv-2608-03557.md)
   - [Test-Time Scaling in the Wild: Why Exploitation, Not Exploration, Is the Bottleneck](../ai/research/arxiv-2608-18931.md)
   - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../ai/research/arxiv-2602-13848.md)
-  - [Testing WebGPU data layouts with Facet](../web-development/community/testing-webgpu-data-layouts-with-facet.md)
   - [Texas AI](../ai/rag/texas-ai.md)
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
@@ -33451,7 +33443,6 @@ Resources organized by keyword tags.
   - [Unsupervised Evaluation of Deep Audio Embeddings for Music Structure Analysis](../ai/rag/arxiv-2603-27218.md)
   - [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](../ai/rag/arxiv-2602-21196.md)
   - [Updates to the demographic data options on the Candid profile](../ai/rag/updates-to-the-demographic-data-options-on-the-can.md)
-  - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](../ai/community/upgrade-your-desktop-ubuntu-26-04-1-lts-is-now-ava.md)
   - [Urban Heat MiniCubes: An AI-Ready dataset for urban heat research](../ai/research/arxiv-2606-11534.md)
   - [Usage Policy | Cohere](../ai/rag/usage-policy-cohere.md)
   - [Use Google Play Family Library - Google Play Help](../ai/rag/use-google-play-family-library-google-play-help.md)
@@ -33626,6 +33617,7 @@ Resources organized by keyword tags.
   - [Yazılım Geliştirme Birimi sitesine hoşgeldiniz | Yazılım Geliştirme Birimi](../ai/resources/yazilim-gelistirme-birimi-sitesine-hosgeldiniz-yaz.md)
   - [Yes, And...Laughter Lab](../ai/rag/yes-and-laughter-lab.md)
   - [You Can Learn Tokenization End-to-End with Reinforcement Learning](../ai/research/arxiv-2602-13940.md)
+  - [You said no MCP](../ai/community/pi-dev-you-said-no-mcp.md)
   - [YouTube API Services - Developer Policies | Google for Developers](../ai/rag/youtube-api-services-developer-policies-google-for.md)
   - [YouTube API Services Terms of Service | Google for Developers](../ai/rag/youtube-api-services-terms-of-service-google-for-d.md)
   - [YouTube Researcher Program Application - YouTube Help](../ai/rag/youtube-researcher-program-application-youtube-hel.md)
@@ -42223,7 +42215,6 @@ Resources organized by keyword tags.
   - [Does Reasoning Improve Psychological Depth in Large Language Models? It Depends on Who's Judging](../ai/research/arxiv-2609-13773.md)
   - [Does Splitting a Triage Decision Across Agents Hide Bias or Help Catch It? A Multi-Agent Simulation Study of LLM-Based Resource Allocation Under Audit Capacity Constraints](../ai/rag/arxiv-2608-06949.md)
   - [Door-in-the-Face Requests and Refusal Behaviour in Large Language Models](../ai/research/arxiv-2609-02707.md)
-  - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
   - [DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing](../ai/rag/arxiv-2607-28750.md)
   - [Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model](../ai/rag/arxiv-2607-18958.md)
   - [Durable Execution Solutions | Temporal](../ai/agents/durable-execution-solutions-temporal.md)
@@ -48413,6 +48404,7 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
+  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -59033,11 +59025,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## react
-
-  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
-  - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
-
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -61863,7 +61850,6 @@ Resources organized by keyword tags.
   - [TXYZ - Integrate all paths to knowledge](../ai/rag/txyz-integrate-all-paths-to-knowledge.md)
   - [Temporal Kolmogorov-Arnold Networks (T-KAN) for High-Frequency Limit Order Book Forecasting: Efficiency, Interpretability, and Alpha Decay](../ai/research/arxiv-2601-02310.md)
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
-  - [Testing WebGPU data layouts with Facet](../web-development/community/testing-webgpu-data-layouts-with-facet.md)
   - [The InfraRed 100 | Redpoint Ventures](../ai/rag/the-infrared-100-redpoint-ventures.md)
   - [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
@@ -64911,10 +64897,6 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
-
-## webgpu
-
-  - [Testing WebGPU data layouts with Facet](../web-development/community/testing-webgpu-data-layouts-with-facet.md)
 
 ## workflows
 
@@ -70166,4 +70148,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-30T20:48:51.508965+05:30*
+*Index generated on 2026-10-01T02:41:40.334058+05:30*

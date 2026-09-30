@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:nrc-issues-first-u-s-construction-permit-for-a-bwr
 first_seen: '2026-09-30T20:32:14.255330+05:30'
 last_seen: '2026-09-30T20:32:14.255330+05:30'
 last_checked: '2026-09-30T20:32:14.255330+05:30'
 health_score: 100
 ---
+
 
 # NRC issues first U.S. construction permit for a BWRX-300 small modular reactor
 
