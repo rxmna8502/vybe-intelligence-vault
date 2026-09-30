@@ -13,13 +13,14 @@ collected_at: '2026-09-30T11:12:31.934060+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:ballmer-peak
 first_seen: '2026-09-30T11:12:31.934060+05:30'
 last_seen: '2026-09-30T11:12:31.934060+05:30'
 last_checked: '2026-09-30T11:12:31.934060+05:30'
 health_score: 100
 ---
+
 
 # Ballmer Peak
 

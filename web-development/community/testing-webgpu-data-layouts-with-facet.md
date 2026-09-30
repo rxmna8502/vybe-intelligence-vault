@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://mattkeeter.com/blog/2026-08-23-wgpu-facet
 hn_url: https://news.ycombinator.com/item?id=49883913
-score: 5
+score: 67
 author: luu
-comments_count: 0
+comments_count: 6
 published_at: '2026-09-29T01:58:08+05:30'
-collected_at: '2026-09-30T11:12:30.617326+05:30'
+collected_at: '2026-09-30T20:32:13.826837+05:30'
 tags:
 - hackernews
 - threejs
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:testing-webgpu-data-layouts-with-facet
 first_seen: '2026-09-30T11:12:30.617326+05:30'
-last_seen: '2026-09-30T11:12:30.617326+05:30'
-last_checked: '2026-09-30T11:12:30.617326+05:30'
+last_seen: '2026-09-30T20:32:13.826837+05:30'
+last_checked: '2026-09-30T20:32:13.826837+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by luu. Score: 5, Comments: 0.
+Hacker News story by luu. Score: 67, Comments: 6.
 Original Link: https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: luu
-- Score: 5 Upvotes
-- Comments: 0 Discussions
+- Score: 67 Upvotes
+- Comments: 6 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49883913
 - Original Article: https://mattkeeter.com/blog/2026-08-23-wgpu-facet
 

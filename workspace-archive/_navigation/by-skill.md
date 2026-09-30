@@ -302,12 +302,12 @@ This index groups curated resources by target developer skills.
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Tier: `essential` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [Mintlify · GitHub](https://github.com/mintlify) (Tier: `essential` | [`Local File`](../../ai/resources/mintlify-github.md))
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Tier: `useful` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence](https://arxiv.org/abs/2412.17228) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2412-17228.md))
 - [chroma - Rust](https://docs.rs/chroma/latest/chroma/) (Tier: `useful` | [`Local File`](../../ai/rag/chroma-rust.md))
+- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (Tier: `useful` | [`Local File`](../../ai/rag/docker-hub-container-image-library-app-containeriz.md))
 
 ## Prompt Curation
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-09-30 11:37 IST*
+*Last updated: 2026-09-30 20:51 IST*

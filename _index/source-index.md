@@ -29191,11 +29191,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Ballmer Peak](../ai/community/ballmer-peak.md)
   - [Dots: Always-on agents](../ai/community/dots-always-on-agents.md)
+  - [Floppy Emu Hardware Failure Analysis Results](../ai/community/floppy-emu-hardware-failure-analysis-results.md)
+  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
   - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
-  - [Responsible Release of AI-Generated Mathematics](../ai/community/responsible-release-of-ai-generated-mathematics.md)
+  - [Pi.dev: You Said No MCP](../ai/community/pi-dev-you-said-no-mcp.md)
   - [Testing WebGPU data layouts with Facet](../web-development/community/testing-webgpu-data-layouts-with-facet.md)
+  - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](../ai/community/upgrade-your-desktop-ubuntu-26-04-1-lts-is-now-ava.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -29772,6 +29774,7 @@ Resources organized by publisher feed and query sources.
   - [Open R1: Update #4](../ai/models/huggingface-blog-open-r1-update-4.md)
   - [Open Responses: What you need to know](../ai/models/huggingface-blog-open-responses.md)
   - [Open Source Developers Guide to the EU AI Act](../ai/models/huggingface-blog-eu-ai-act-for-oss-developers.md)
+  - [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](../ai/models/huggingface-blog-open-tts-leaderboard.md)
   - [Open-R1: Update #1](../ai/models/huggingface-blog-open-r1-update-1.md)
   - [Open-R1: a fully open reproduction of DeepSeek-R1](../ai/models/huggingface-blog-open-r1.md)
   - [Open-Source Text Generation & LLM Ecosystem at Hugging Face](../ai/models/huggingface-blog-os-llms.md)
@@ -33067,4 +33070,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-30T11:34:50.514532+05:30*
+*Index generated on 2026-09-30T20:48:51.873169+05:30*

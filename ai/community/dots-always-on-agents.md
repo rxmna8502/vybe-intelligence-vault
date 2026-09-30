@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://openai.com/index/introducing-dots
 hn_url: https://news.ycombinator.com/item?id=49896604
-score: 524
+score: 695
 author: alvis
-comments_count: 396
+comments_count: 562
 published_at: '2026-09-29T22:37:57+05:30'
-collected_at: '2026-09-30T11:12:28.728986+05:30'
+collected_at: '2026-09-30T20:32:12.082519+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:dots-always-on-agents
 first_seen: '2026-09-29T23:41:42.341682+05:30'
-last_seen: '2026-09-30T11:12:28.728986+05:30'
-last_checked: '2026-09-30T11:12:28.728986+05:30'
+last_seen: '2026-09-30T20:32:12.082519+05:30'
+last_checked: '2026-09-30T20:32:12.082519+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by alvis. Score: 524, Comments: 396.
+Hacker News story by alvis. Score: 695, Comments: 562.
 Original Link: https://openai.com/index/introducing-dots/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: alvis
-- Score: 524 Upvotes
-- Comments: 396 Discussions
+- Score: 695 Upvotes
+- Comments: 562 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49896604
 - Original Article: https://openai.com/index/introducing-dots
 

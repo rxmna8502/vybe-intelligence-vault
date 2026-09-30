@@ -4,25 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template
-collected_at: '2026-09-04T04:13:33.302904+05:30'
-published_at: '2026-09-03T14:53:26Z'
+collected_at: '2026-09-30T20:35:22.859577+05:30'
+published_at: '2026-09-30T07:47:13Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
-- workflows
-stars: 2635
+stars: 2683
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-04-07T16:54:25Z'
-pushed_at: '2026-08-16T17:35:22Z'
+pushed_at: '2026-09-25T18:37:57Z'
 resource_id: github:wassim249/fastapi-langgraph-agent-production-ready-template
-first_seen: '2026-09-04T04:13:33.302904+05:30'
-last_seen: '2026-09-04T04:13:33.302904+05:30'
-last_checked: '2026-09-04T04:13:33.302904+05:30'
+first_seen: '2026-09-30T20:35:22.859577+05:30'
+last_seen: '2026-09-30T20:35:22.859577+05:30'
+last_checked: '2026-09-30T20:35:22.859577+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,8 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Pre-configured FastAPI project with LangGraph integration for building scalable AI agent applications, including Docker support for containerization and production deployment.
-
-- **Key Features**: Incorporates LangChain/LangGraph for agentic AI workflows, LLMs, and memory management, with built-in security and maintainability best practices.
-
-- **Technical Stack**: Python-based, optimized for AI agent services with FastAPI, LangGraph, and Docker, last updated September 2026.
+*   Integrates FastAPI with LangGraph and LangChain for orchestrating LLM-powered AI agent applications.
+*   Provides a
 
 ## Why It Matters
 
@@ -43,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: wassim249
-- Stars: 2635
-- Forks: 621
+- Stars: 2683
+- Forks: 635
 - Language: Python
 - Topics: agent, agentic-ai, docker, fastapi, fastapi-template, langchain, langchain-python, langgraph, langgraph-python, llm, memory
-- Last Updated: 2026-09-03T14:53:26Z
+- Last Updated: 2026-09-30T07:47:13Z
 - License: MIT
 - Archived: No
 - Created At: 2025-04-07T16:54:25Z
-- Pushed At: 2026-08-16T17:35:22Z
+- Pushed At: 2026-09-25T18:37:57Z
 
 ## Possible Use Cases
 

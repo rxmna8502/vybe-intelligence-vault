@@ -7382,7 +7382,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Responsible Release of AI-Generated Mathematics](../ai/community/responsible-release-of-ai-generated-mathematics.md)
+  - [Floppy Emu Hardware Failure Analysis Results](../ai/community/floppy-emu-hardware-failure-analysis-results.md)
+  - [Pi.dev: You Said No MCP](../ai/community/pi-dev-you-said-no-mcp.md)
+  - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](../ai/community/upgrade-your-desktop-ubuntu-26-04-1-lts-is-now-ava.md)
 
 ## animation
 
@@ -16135,6 +16137,7 @@ Resources organized by keyword tags.
   - [OntologyBench: Can Dense Retrieval Satisfy Structured Biomedical Constraints?](../ai/research/arxiv-2609-08174.md)
   - [Oops, Not Now: PEARL, a RAG-Based Support Agent for Gameplay and What Players Want from AI Help](../ai/rag/arxiv-2609-13718.md)
   - [OpWeave: Flexible Operator Disaggregation for Heterogeneous LLM Serving](../ai/research/arxiv-2609-14237.md)
+  - [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](../ai/models/huggingface-blog-open-tts-leaderboard.md)
   - [Open Tabular Insight Extraction: Where Do We Stand, and Where Should We Go?](../ai/rag/arxiv-2609-07629.md)
   - [Open datasets and machine learning for two-phase heat transfer: a review following a spatial-temporal taxonomy](../ai/research/arxiv-2605-23037.md)
   - [Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents](../ai/agents/arxiv-2604-00137.md)
@@ -22751,7 +22754,6 @@ Resources organized by keyword tags.
   - [DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter](../ai/rag/arxiv-2602-05513.md)
   - [DECODEM: Data Extraction from Corporate Organizational Documents via Enhanced Methods](../ai/research/arxiv-2607-15879.md)
   - [DECOWAM: Decoupled Whole-Body World-Action Model for Legged Mobile Manipulation](../ai/research/arxiv-2608-20114.md)
-  - [DEEP-PolyU/LinearRAG](../ai/rag/deep-polyu-linearrag.md)
   - [DEFT: Data-Efficient Frequency-domain Top-k Sampling via Inverse Discrete Fourier Transform for Spatiotemporal Dynamical Systems Modeling](../ai/research/arxiv-2608-11019.md)
   - [DEPT: Document Embedding Preservation Tuning for Unified Query Expansion and Retrieval](../ai/rag/arxiv-2608-17632.md)
   - [DERELAB: Probing Defeasible Reasoning and Confirmation Bias in LLMs with a Generative Benchmark](../ai/rag/arxiv-2608-30413.md)
@@ -24419,7 +24421,6 @@ Resources organized by keyword tags.
   - [Integrating Neural Encoders in Bayesian Generalized Linear Mixed Models for Multimodal Data](../ai/rag/arxiv-2607-04647.md)
   - [Integrating Persuasion Theory into the Epidemiological Modelling of Health Misinformation Spread on Social Media](../ai/research/arxiv-2608-15689.md)
   - [Integrations - Pinecone Docs](../ai/rag/integrations-pinecone-docs.md)
-  - [IntelLabs/fastRAG](../ai/rag/intellabs-fastrag.md)
   - [Intelligent Degradation Monitoring in Lithium-ion Batteries via Discharge Incremental Capacity Feature Estimation](../ai/rag/arxiv-2609-22843.md)
   - [Intelligent Edge Computing](../ai/research/arxiv-2609-00181.md)
   - [Intent-Driven Dynamic Chunking: Segmenting Documents to Reflect Predicted Information Needs](../ai/rag/arxiv-2602-14784.md)
@@ -28460,6 +28461,7 @@ Resources organized by keyword tags.
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
   - [Myopia Prevention and Control 3.0: Artificial Intelligence--Driven Risk Stratification, Proactive Monitoring, and Personalized Intervention](../ai/research/arxiv-2607-24187.md)
   - [NIST Chemistry WebBook](../ai/resources/nist-chemistry-webbook.md)
+  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
   - [Nation SkillUp](../ai/resources/nation-skillup.md)
   - [NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability](../ai/rag/arxiv-2607-28942.md)
   - [Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks](../ai/research/arxiv-2608-25327.md)
@@ -30290,7 +30292,6 @@ Resources organized by keyword tags.
   - [Badging at SLAC | Environment Safety & Health](../ai/resources/badging-at-slac-environment-safety-health.md)
   - [Bag of Tricks or Bag of Myths? Reducing Modeling Complexity with Task Knowledge in Explainable Suicide Risk Assessment](../ai/research/arxiv-2609-07766.md)
   - [Balancing multiscale similarity and cartographic constraints: A similarity-driven optimization framework for line generalization](../ai/research/arxiv-2607-25474.md)
-  - [Ballmer Peak](../ai/community/ballmer-peak.md)
   - [Bandit Submodular Maximization under Matroid Constraints: Learning Compressed Exchange Policy](../ai/research/arxiv-2608-24627.md)
   - [Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis](../ai/rag/arxiv-2608-20343.md)
   - [Barchart | All Markets](../ai/rag/barchart-all-markets.md)
@@ -30732,7 +30733,6 @@ Resources organized by keyword tags.
   - [DAIF: A Data-Driven Intermediate Fusion Framework for Multimodal Supervised Learning via Approximate Message Passing](../ai/rag/arxiv-2608-02769.md)
   - [DAOP: Data-Aware Offloading and Predictive Pre-Calculation for Efficient MoE Inference](../ai/research/arxiv-2501-10375.md)
   - [DEEP-PolyU/Awesome-GraphRAG](../ai/rag/deep-polyu-awesome-graphrag.md)
-  - [DEEP-PolyU/LinearRAG](../ai/rag/deep-polyu-linearrag.md)
   - [DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis](../ai/rag/arxiv-2604-13416.md)
   - [DGCPath: Distribution-Aware Generative Contrastive Framework for Self-supervised Path Representation Learning -- Extended Version](../ai/rag/arxiv-2609-07316.md)
   - [DIPLOMAT: Dialogue-Span-Aware Direct Preference Optimization for Polite Persuasive Workplace Negotiation Dialogues](../ai/agents/arxiv-2609-22256.md)
@@ -31193,6 +31193,7 @@ Resources organized by keyword tags.
   - [Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education](../ai/research/arxiv-2609-06095.md)
   - [Flawed in Nature, Perfect through Evolution](../ai/research/arxiv-2609-00129.md)
   - [Flexible and Interpretable Accent Distance Measurements](../ai/rag/arxiv-2609-11458.md)
+  - [Floppy Emu Hardware Failure Analysis Results](../ai/community/floppy-emu-hardware-failure-analysis-results.md)
   - [Flow Reconstruction from Sparse Measurements in Urban Drainage Networks: An Application and Evaluation of Data-Driven Sparse Sensing](../ai/research/arxiv-2511-04556.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
   - [FoldPipe: Bounded Remote Streaming of Native Molecular Shards with Asynchronous Prefetch](../ai/rag/arxiv-2608-27029.md)
@@ -31462,7 +31463,6 @@ Resources organized by keyword tags.
   - [HKUDS/AnyGraph](../ai/rag/hkuds-anygraph.md)
   - [HKUDS/LightRAG](../ai/rag/hkuds-lightrag.md)
   - [HKUDS/MiniRAG](../ai/rag/hkuds-minirag.md)
-  - [HKUDS/VideoRAG](../ai/rag/hkuds-videorag.md)
   - [HKUNLP/UnifiedSKG](../ai/rag/hkunlp-unifiedskg.md)
   - [HNSW with Accuracy Guarantees Using Graph Spanners](../ai/rag/arxiv-2607-02338.md)
   - [HOME - National Privacy CommissionNational Privacy Commission](../ai/rag/home-national-privacy-commissionnational-privacy-c.md)
@@ -31668,7 +31668,6 @@ Resources organized by keyword tags.
   - [Integrating Multi-Label Classification and Generative AI for Scalable Analysis of User Feedback](../ai/rag/arxiv-2601-23018.md)
   - [Integrating Triaxial IMU Sensors and Ensemble Learning for Effective Parkinson Disease Severity Classification](../ai/research/arxiv-2608-28602.md)
   - [Integrating attention into explanation frameworks for language and vision transformers](../ai/research/arxiv-2508-08966.md)
-  - [IntelLabs/fastRAG](../ai/rag/intellabs-fastrag.md)
   - [Intellectual Property | Electronic Frontier Foundation](../ai/rag/intellectual-property-electronic-frontier-foundati.md)
   - [Intelligent Edge Computing](../ai/research/arxiv-2609-00181.md)
   - [Intent-Driven Dynamic Chunking: Segmenting Documents to Reflect Predicted Information Needs](../ai/rag/arxiv-2602-14784.md)
@@ -31978,7 +31977,6 @@ Resources organized by keyword tags.
   - [MAGneT: Coordinated Multi-Agent Generation of Synthetic Multi-Turn Mental Health Counseling Sessions](../ai/rag/arxiv-2509-04183.md)
   - [MARC records and custom Excel title lists | Librarian Portal | Springer Nature](../ai/resources/marc-records-and-custom-excel-title-lists-libraria.md)
   - [MARCEDES: Score-based causal discovery under non-Gaussianity with continuous optimization](../ai/research/arxiv-2609-30643.md)
-  - [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md)
   - [MARS: Multi-Specialist LLM Relay System for Competitive Programming](../ai/rag/arxiv-2608-23918.md)
   - [MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation](../ai/rag/arxiv-2502-11068.md)
   - [MBDiff: Multi-view Behavior-aware Diffusion Model for Probabilistic Utility Data Imputation](../ai/rag/arxiv-2607-29177.md)
@@ -32161,6 +32159,7 @@ Resources organized by keyword tags.
   - [NLNOG - Netherlands Network Operator Group](../ai/resources/nlnog-netherlands-network-operator-group.md)
   - [NLNOG Looking Glass](../ai/resources/nlnog-looking-glass.md)
   - [NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts](../ai/research/arxiv-2608-28608.md)
+  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
   - [NSF - U.S. National Science Foundation](../ai/agents/nsf-u-s-national-science-foundation.md)
   - [NSF Expeditions in Computing: Computational Sustainability](../ai/rag/nsf-expeditions-in-computing-computational-sustain.md)
   - [NSF SAGE: Data Management Center](../ai/resources/nsf-sage-data-management-center.md)
@@ -32415,6 +32414,7 @@ Resources organized by keyword tags.
   - [Physics-Informed Sylvester Normalizing Flows for Bayesian Inference in Magnetic Resonance Spectroscopy](../ai/research/arxiv-2505-03590.md)
   - [Physics-Unrolled Neural Operator for Wireless Field Modeling](../ai/rag/arxiv-2608-18495.md)
   - [Physics-informed reduced-order modelling with equivariant spectral submanifolds](../ai/research/arxiv-2608-04239.md)
+  - [Pi.dev: You Said No MCP](../ai/community/pi-dev-you-said-no-mcp.md)
   - [PiMRef: Deducing Ever-evolving Spear-phishing Emails with Knowledge Base Invariants](../ai/rag/arxiv-2507-15393.md)
   - [PierreGode/Ragnar](../ai/rag/pierregode-ragnar.md)
   - [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](../ai/research/arxiv-2609-15919.md)
@@ -32709,7 +32709,6 @@ Resources organized by keyword tags.
   - [Resource Management for Pods and Containers | Kubernetes](../ai/rag/resource-management-for-pods-and-containers-kubern.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
   - [Resources | Zilliz](../ai/rag/resources-zilliz.md)
-  - [Responsible Release of AI-Generated Mathematics](../ai/community/responsible-release-of-ai-generated-mathematics.md)
   - [Restoring Gold Standard Science – The White House](../ai/rag/restoring-gold-standard-science-the-white-house.md)
   - [Restricted targeting in Personalized advertising - Advertising Policies Help](../ai/rag/restricted-targeting-in-personalized-advertising-a.md)
   - [Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency](../ai/research/arxiv-2608-14065.md)
@@ -33452,6 +33451,7 @@ Resources organized by keyword tags.
   - [Unsupervised Evaluation of Deep Audio Embeddings for Music Structure Analysis](../ai/rag/arxiv-2603-27218.md)
   - [Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](../ai/rag/arxiv-2602-21196.md)
   - [Updates to the demographic data options on the Candid profile](../ai/rag/updates-to-the-demographic-data-options-on-the-can.md)
+  - [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](../ai/community/upgrade-your-desktop-ubuntu-26-04-1-lts-is-now-ava.md)
   - [Urban Heat MiniCubes: An AI-Ready dataset for urban heat research](../ai/research/arxiv-2606-11534.md)
   - [Usage Policy | Cohere](../ai/rag/usage-policy-cohere.md)
   - [Use Google Play Family Library - Google Play Help](../ai/rag/use-google-play-family-library-google-play-help.md)
@@ -33892,7 +33892,6 @@ Resources organized by keyword tags.
   - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
-  - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
   - [weaviate/weaviate](../ai/rag/weaviate-weaviate.md)
   - [web.dev](../ai/resources/web-dev.md)
@@ -34392,6 +34391,7 @@ Resources organized by keyword tags.
   - [Online Safety Prize Challenge (Low-Resource Detection of Harmful Memes with Social Bias) - AI Singapore](../ai/resources/online-safety-prize-challenge-low-resource-detecti.md)
   - [Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](../ai/models/huggingface-blog-open-asr-leaderboard.md)
   - [Open LLM Leaderboard: DROP deep dive](../ai/models/huggingface-blog-open-llm-leaderboard-drop.md)
+  - [Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning](../ai/models/huggingface-blog-open-tts-leaderboard.md)
   - [Overview of FinMMEval 2026 Task 1: Multilingual Financial Multiple-Choice Question Answering](../ai/research/arxiv-2607-19856.md)
   - [Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering](../ai/rag/arxiv-2607-19867.md)
   - [PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection](../ai/research/arxiv-2607-04690.md)
@@ -34505,10 +34505,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Ballmer Peak](../ai/community/ballmer-peak.md)
 
 ## mdx
 
@@ -59039,6 +59035,7 @@ Resources organized by keyword tags.
 
 ## react
 
+  - [NRC issues first U.S. construction permit for a BWRX-300 small modular reactor](../web-development/community/nrc-issues-first-u-s-construction-permit-for-a-bwr.md)
   - [Phyllotaxis: An audio-reactive LED display](../web-development/community/phyllotaxis-an-audio-reactive-led-display.md)
 
 ## reddit
@@ -61189,6 +61186,7 @@ Resources organized by keyword tags.
   - [Lmod: A New Environment Module System — Lmod 9.2.4 documentation](../ai/resources/lmod-a-new-environment-module-system-lmod-9-2-4-do.md)
   - [Log In - Stack Apps](../ai/resources/log-in-stack-apps.md)
   - [LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting](../ai/rag/arxiv-2609-30943.md)
+  - [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md)
   - [MAS-on-the-Fly: In-Context Structural Adaptation of LLM-Based Multi-Agent Systems](../ai/rag/arxiv-2602-13671.md)
   - [MINIF2F-DAFNY: LLM-Guided Mathematical Theorem Proving via Auto-Active Verification](../ai/research/arxiv-2512-10187.md)
   - [MOSAIC: A Universal Agent-Level Interface for Cross-Paradigm Agent Mixing and Human-AI Collaboration](../ai/agents/arxiv-2603-01260.md)
@@ -61516,6 +61514,7 @@ Resources organized by keyword tags.
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
   - [platform/system/update_engine - Git at Google](../ai/rag/platform-system-update-engine-git-at-google.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
+  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -66891,7 +66890,6 @@ Resources organized by keyword tags.
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [agentuniverse-ai/agentUniverse](../ai/rag/agentuniverse-ai-agentuniverse.md)
   - [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md)
-  - [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md)
   - [alexfazio/crewAI-quickstart](../ai/agents/alexfazio-crewai-quickstart.md)
   - [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md)
   - [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md)
@@ -66934,6 +66932,7 @@ Resources organized by keyword tags.
   - [freddy-schuetz/n8n-claw](../ai/rag/freddy-schuetz-n8n-claw.md)
   - [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md)
   - [gabrielchua/RAGxplorer](../ai/rag/gabrielchua-ragxplorer.md)
+  - [ghuntley/how-to-build-a-coding-agent](../ai/agents/ghuntley-how-to-build-a-coding-agent.md)
   - [github/awesome-copilot](../ai/agents/github-awesome-copilot.md)
   - [google-gemini/gemini-cli](../ai/rag/google-gemini-gemini-cli.md)
   - [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md)
@@ -67063,7 +67062,6 @@ Resources organized by keyword tags.
   - [volcengine/OpenViking](../ai/rag/volcengine-openviking.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
-  - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
   - [yzhao062/pyod](../ai/rag/yzhao062-pyod.md)
   - [zilliztech/attu](../ai/rag/zilliztech-attu.md)
   - [zilliztech/deep-searcher](../ai/rag/zilliztech-deep-searcher.md)
@@ -70168,4 +70166,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-30T11:34:50.133672+05:30*
+*Index generated on 2026-09-30T20:48:51.508965+05:30*

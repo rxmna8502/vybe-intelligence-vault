@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-09-03T01:00:06.363400+05:30'
-published_at: '2026-08-11T13:01:58Z'
+collected_at: '2026-09-30T20:34:27.879759+05:30'
+published_at: '2026-09-29T13:47:09Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
-stars: 1785
+stars: 1787
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-09-03T01:00:06.363400+05:30'
-last_seen: '2026-09-03T01:00:06.363400+05:30'
-last_checked: '2026-09-03T01:00:06.363400+05:30'
+first_seen: '2026-09-30T20:34:27.879759+05:30'
+last_seen: '2026-09-30T20:34:27.879759+05:30'
+last_checked: '2026-09-30T20:34:27.879759+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient, Python-based framework for Retrieval-Augmented Generation (RAG) optimized for speed and scalability, supporting multi-modal, knowledge-intensive tasks like QA, summarization, and semantic search.
-
-- **Key Features**: Integrates advanced retrieval techniques (e.g., ColBERT, sentence-transformers) with generative models (e.g., LLMs, diffusion) and supports knowledge graphs, enabling hybrid retrieval and dynamic prompt augmentation.
-
-- **Performance & Benchmarking**: Designed for low-latency inference with built-in benchmarks for evaluating retrieval, generation, and end-to-end RAG pipelines across diverse NLP and multi-modal datasets.
+*   Provides an efficient Retrieval Augmented Generation (RAG) framework optimized for performance benchmarks.
+*   Integrates advanced neural retrieval models (e.g., ColBERT, Sentence Transformers) with large language models (LLMs), Transformers, and Diffusion models for generation.
+*   Supports diverse NLP and multi-modal applications including question answering, semantic search, summarization, and knowledge graph integration.
 
 ## Why It Matters
 
@@ -44,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IntelLabs
-- Stars: 1785
-- Forks: 166
+- Stars: 1787
+- Forks: 168
 - Language: Python
 - Topics: benchmark, colbert, diffusion, generative-ai, information-retrieval, knowledge-graph, llm, multi-modal, nlp, question-answering, semantic-search, sentence-transformers, summarization, transformers
-- Last Updated: 2026-08-11T13:01:58Z
+- Last Updated: 2026-09-29T13:47:09Z
 - License: Apache-2.0
 - Archived: Yes
 - Created At: 2023-01-23T16:25:35Z

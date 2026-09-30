@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 92, Downloads: 1707651)
+Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 92, Downloads: 1733800)
 
 ## Use Cases
 

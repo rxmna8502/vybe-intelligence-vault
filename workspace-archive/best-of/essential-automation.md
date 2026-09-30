@@ -63,9 +63,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`explosion-spacy.md`](../../ai/rag/explosion-spacy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+### [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`langchain-ai-langchain-skills.md`](../../ai/agents/langchain-ai-langchain-skills.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-30 11:37 IST*
+*Last updated: 2026-09-30 20:51 IST*

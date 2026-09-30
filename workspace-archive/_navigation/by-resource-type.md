@@ -162,9 +162,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [mongodb · GitHub](https://github.com/mongodb) (Tier: `essential` | [`Local File`](../../ai/rag/mongodb-github.md))
 - [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development/) (Tier: `useful` | [`Local File`](../../ai/rag/web-application-development-linux-foundation-educa.md))
 - [Add-ons for Firefox (en-US)](https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources) (Tier: `useful` | [`Local File`](../../ai/resources/add-ons-for-firefox-en-us.md))
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) (Tier: `useful` | [`Local File`](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
 - [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) (Tier: `useful` | [`Local File`](../../web-development/webgpu/hjlld-learningwebgpu.md))
 - [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md))
-- [Subscriptions and Billing - Official Apple Support](https://support.apple.com/billing) (Tier: `useful` | [`Local File`](../../ai/rag/subscriptions-and-billing-official-apple-support.md))
 
 ## WORKFLOW
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-09-30 11:37 IST*
+*Last updated: 2026-09-30 20:51 IST*

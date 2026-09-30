@@ -10,22 +10,22 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence](https://arxiv.org/abs/2412.17228) (benchmark - USEFUL Tier)
 - [chroma - Rust](https://docs.rs/chroma/latest/chroma/) (framework - USEFUL Tier)
+- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [continuedev/continue](https://github.com/continuedev/continue)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-09-30 11:37 IST*
+*Last updated: 2026-09-30 20:51 IST*
