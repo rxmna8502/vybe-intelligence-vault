@@ -13,13 +13,14 @@ collected_at: '2026-10-01T11:36:54.483421+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:responsible-release-of-ai-generated-mathematics
 first_seen: '2026-09-30T11:12:29.043891+05:30'
 last_seen: '2026-10-01T11:36:54.483421+05:30'
 last_checked: '2026-10-01T11:36:54.483421+05:30'
 health_score: 100
 ---
+
 
 # Responsible Release of AI-Generated Mathematics
 

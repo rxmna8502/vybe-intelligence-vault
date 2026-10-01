@@ -28789,7 +28789,6 @@ Resources organized by publisher feed and query sources.
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
-  - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
   - [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md)
@@ -28808,6 +28807,7 @@ Resources organized by publisher feed and query sources.
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
   - [Mistral and Mozilla are bringing open, private and multilingual AI to your web browser](../ai/companies/mistral/mistral-and-mozilla-are-bringing-open-private-and.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
+  - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Publications](../ai/companies/publications.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
@@ -29710,10 +29710,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Doing a Machine Learning PhD While Working in Japan](../ai/community/doing-a-machine-learning-phd-while-working-in-japa.md)
-  - [Is sandboxing sufficient to contain rogue agents?](../ai/community/is-sandboxing-sufficient-to-contain-rogue-agents.md)
+  - [An AI sovereign wealth fund isn't progressive – it's techno-imperialism](../ai/community/an-ai-sovereign-wealth-fund-isn-t-progressive-it-s.md)
+  - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md)
   - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
-  - [Responsible Release of AI-Generated Mathematics](../ai/community/responsible-release-of-ai-generated-mathematics.md)
+  - [OpenID Foundation: Identity Management for Agentic AI [pdf]](../ai/community/openid-foundation-identity-management-for-agentic.md)
   - [Surprisingly complex waves reveal the brain's inner workings](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)
 
 ## Unknown Source (type: huggingface)
@@ -30132,6 +30132,7 @@ Resources organized by publisher feed and query sources.
   - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](../ai/models/huggingface-blog-modular-diffusers.md)
   - [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](../ai/models/huggingface-blog-npc-gigax-cubzh.md)
   - [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../ai/agents/huggingface-blog-nvidia-nemotron-3-nano-omni-multimodal-intelligence.md)
+  - [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](../ai/models/huggingface-blog-allenai-olmocore3.md)
   - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](../ai/rag/huggingface-blog-allenai-olmoearth-embeddings.md)
   - [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](../ai/models/huggingface-blog-hardware-partners-program.md)
   - [Introducing Prodigy-HF: a direct integration with Hugging Face](../ai/models/huggingface-blog-prodigy-hf.md)
@@ -33588,4 +33589,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-01T11:56:46.534105+05:30*
+*Index generated on 2026-10-01T21:20:37.189814+05:30*

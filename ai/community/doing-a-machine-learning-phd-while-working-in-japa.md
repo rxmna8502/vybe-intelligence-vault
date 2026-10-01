@@ -13,13 +13,14 @@ collected_at: '2026-10-01T11:36:54.206173+05:30'
 tags:
 - hackernews
 - machine learning
-status: active
+status: inactive
 resource_id: hackernews:doing-a-machine-learning-phd-while-working-in-japa
 first_seen: '2026-10-01T11:36:54.206173+05:30'
 last_seen: '2026-10-01T11:36:54.206173+05:30'
 last_checked: '2026-10-01T11:36:54.206173+05:30'
 health_score: 100
 ---
+
 
 # Doing a Machine Learning PhD While Working in Japan
 

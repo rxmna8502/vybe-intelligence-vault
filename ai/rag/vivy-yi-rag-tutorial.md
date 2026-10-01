@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-09-27T19:36:56.790567+05:30'
-published_at: '2026-09-25T17:47:53Z'
+collected_at: '2026-10-01T21:05:11.195973+05:30'
+published_at: '2026-10-01T08:32:44Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
+- models
 - rag
-stars: 97
+stars: 98
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-09-27T19:36:56.790567+05:30'
-last_seen: '2026-09-27T19:36:56.790567+05:30'
-last_checked: '2026-09-27T19:36:56.790567+05:30'
+first_seen: '2026-10-01T21:05:11.195973+05:30'
+last_seen: '2026-10-01T21:05:11.195973+05:30'
+last_checked: '2026-10-01T21:05:11.195973+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a systematic RAG curriculum spanning foundational concepts to production deployment, encompassing 4 modules and 20 chapters.
-*   Features extensive practical application with 17 Jupyter Notebooks and 6 enterprise-grade case studies for hands-on RAG system development.
-*   Focuses on key RAG technologies including LangChain, LLMs, and vector databases for retrieval-augmented generation implementations.
+*   Comprehensive RAG lifecycle coverage, spanning foundational concepts to production deployment strategies.
+*   In-depth exploration of RAG architecture, emphasizing integration with LangChain, LLMs, and vector databases.
+*   Practical application through 17 Jupyter Notebooks and 6 enterprise-level case studies for hands-on RAG system development.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vivy-yi
-- Stars: 97
+- Stars: 98
 - Forks: 20
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
-- Last Updated: 2026-09-25T17:47:53Z
+- Last Updated: 2026-10-01T08:32:44Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T16:43:21Z

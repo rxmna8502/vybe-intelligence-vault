@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-10-01T11:41:05.376487+05:30'
+collected_at: '2026-10-01T21:04:56.201178+05:30'
 published_at: '2026-09-29T18:00:33Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-10-01T11:41:05.376487+05:30'
-last_seen: '2026-10-01T11:41:05.376487+05:30'
-last_checked: '2026-10-01T11:41:05.376487+05:30'
+first_seen: '2026-10-01T21:04:56.201178+05:30'
+last_seen: '2026-10-01T21:04:56.201178+05:30'
+last_checked: '2026-10-01T21:04:56.201178+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Introduces RAGTruth, a specialized corpus designed for the analysis and mitigation of factual hallucinations in Retrieval-Augmented Generation (RAG) systems.
-*   Aims to facilitate the development of trustworthy RAG models by providing a benchmark for evaluating and improving their factual consistency.
-*   Leverages Python as the primary language for corpus construction and likely for associated tooling in RAG model evaluation.
+*   Introduces RAGTruth, a specialized corpus designed to benchmark and mitigate hallucinations in Retrieval-Augmented Language Models (RAGs).
+*   Provides a dataset for developing and evaluating RAG systems, focusing on improving factual consistency and trustworthiness.
+*   Implemented as a Python-based repository, facilitating access and integration for RAG model research and development.
 
 ## Why It Matters
 

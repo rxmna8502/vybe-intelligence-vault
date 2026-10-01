@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3382, Downloads: 40767278)
+Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3382, Downloads: 40586031)
 
 ## Use Cases
 

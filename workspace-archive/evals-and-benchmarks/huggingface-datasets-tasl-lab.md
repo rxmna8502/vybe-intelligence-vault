@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: tasl-lab/uniocc (Likes: 24, Downloads: 1239410)
+Trending Hugging Face dataset: tasl-lab/uniocc (Likes: 24, Downloads: 1194968)
 
 ## Use Cases
 

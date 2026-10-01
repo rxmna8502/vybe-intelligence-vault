@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PrimeIntellect-ai/prime-agent
-collected_at: '2026-09-27T19:40:11.964815+05:30'
-published_at: '2026-09-27T14:03:42Z'
+collected_at: '2026-10-01T21:08:26.422370+05:30'
+published_at: '2026-10-01T15:15:41Z'
 tags:
 - agents
 - github-repo
-- typescript
+- rust
 - workflows
-stars: 21319
-language: TypeScript
+stars: 21446
+language: Rust
 status: active
-license: MIT
+license: NOASSERTION
 archived: false
 created_at: '2026-05-08T01:42:41Z'
-pushed_at: '2026-09-27T14:05:49Z'
+pushed_at: '2026-10-01T15:36:50Z'
 resource_id: github:primeintellect-ai/prime-agent
-first_seen: '2026-09-27T19:40:11.964815+05:30'
-last_seen: '2026-09-27T19:40:11.964815+05:30'
-last_checked: '2026-09-27T19:40:11.964815+05:30'
+first_seen: '2026-10-01T21:08:26.422370+05:30'
+last_seen: '2026-10-01T21:08:26.422370+05:30'
+last_checked: '2026-10-01T21:08:26.422370+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Self-improving RLM agent architecture.
+*   Implements a self-improving RLM agent architecture.
 *   Targets autonomous coding workflows and long-running task execution.
-*   Implemented in TypeScript.
+*   Developed in Rust, indicating a focus on performance and system-level reliability.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PrimeIntellect-ai
-- Stars: 21319
-- Forks: 2338
-- Language: TypeScript
+- Stars: 21446
+- Forks: 2365
+- Language: Rust
 - Topics: None
-- Last Updated: 2026-09-27T14:03:42Z
-- License: MIT
+- Last Updated: 2026-10-01T15:15:41Z
+- License: NOASSERTION
 - Archived: No
 - Created At: 2026-05-08T01:42:41Z
-- Pushed At: 2026-09-27T14:05:49Z
+- Pushed At: 2026-10-01T15:36:50Z
 
 ## Possible Use Cases
 
