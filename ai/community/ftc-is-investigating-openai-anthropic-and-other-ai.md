@@ -16,13 +16,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:ftc-is-investigating-openai-anthropic-and-other-ai
 first_seen: '2026-10-01T21:04:05.029610+05:30'
 last_seen: '2026-10-01T21:04:05.029610+05:30'
 last_checked: '2026-10-01T21:04:05.029610+05:30'
 health_score: 100
 ---
+
 
 # FTC is investigating OpenAI, Anthropic and other AI companies over product risks
 

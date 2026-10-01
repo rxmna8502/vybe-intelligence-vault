@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: github:magnitudedev/magnitude
 first_seen: '2026-10-01T02:25:07.693728+05:30'
 last_seen: '2026-10-01T21:04:06.214885+05:30'
 last_checked: '2026-10-01T21:04:06.214885+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents
 

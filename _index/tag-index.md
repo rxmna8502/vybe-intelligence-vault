@@ -3375,6 +3375,7 @@ Resources organized by keyword tags.
   - [Identifying AI Web Scrapers Using Canary Tokens](../ai/agents/arxiv-2605-13706.md)
   - [Identifying Confusion Trends in Concept-based XAI for Multi-Label Classification](../ai/agents/arxiv-2608-15731.md)
   - [Identity Is More Than Recall: A Benchmark for Persistent Identity in Deployed AI Agents](../ai/agents/arxiv-2609-13637.md)
+  - [Identity Management for Agentic AI [pdf] (2025)](../ai/community/openid-foundation-identity-management-for-agentic.md)
   - [Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones](../ai/agents/arxiv-2608-11225.md)
   - [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](../ai/agents/arxiv-2607-07775.md)
   - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](../ai/research/if-llm-is-the-wizard-then-code-is-the-wand-a-surve.md)
@@ -3743,7 +3744,6 @@ Resources organized by keyword tags.
   - [LatentMD: Benchmarking Markdown Boundary Failures in LLM-Generated Text](../ai/agents/arxiv-2609-06993.md)
   - [LatentSift: Policy-State Filtering for Token-Efficient Verification of Software Engineering Agents](../ai/agents/arxiv-2609-36371.md)
   - [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](../ai/rag/arxiv-2606-06087.md)
-  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](../ai/agents/arxiv-2606-01838.md)
   - [LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](../ai/agents/arxiv-2609-23058.md)
@@ -4600,7 +4600,6 @@ Resources organized by keyword tags.
   - [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](../ai/agents/huggingface-blog-openenv-turing.md)
   - [OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks](../ai/rag/arxiv-2607-19351.md)
   - [OpenForgeRL: Train Harness-native Agents in Any Environment](../ai/rag/arxiv-2607-21557.md)
-  - [OpenID Foundation: Identity Management for Agentic AI [pdf]](../ai/community/openid-foundation-identity-management-for-agentic.md)
   - [OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems](../ai/agents/arxiv-2609-21527.md)
   - [OpenProver: Agentic and Interactive Theorem Proving with Lean 4](../ai/agents/arxiv-2607-09217.md)
   - [OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis](../ai/agents/arxiv-2603-20278.md)
@@ -5775,6 +5774,7 @@ Resources organized by keyword tags.
   - [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](../ai/agents/arxiv-2609-28372.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: Open-source model routing for coding agents at Astra-level performance](../ai/community/show-hn-open-source-model-routing-for-coding-agent.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -7558,10 +7558,7 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [An AI sovereign wealth fund isn't progressive – it's techno-imperialism](../ai/community/an-ai-sovereign-wealth-fund-isn-t-progressive-it-s.md)
-  - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md)
-  - [OpenID Foundation: Identity Management for Agentic AI [pdf]](../ai/community/openid-foundation-identity-management-for-agentic.md)
-  - [Surprisingly complex waves reveal the brain's inner workings](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)
+  - [Identity Management for Agentic AI [pdf] (2025)](../ai/community/openid-foundation-identity-management-for-agentic.md)
 
 ## animation
 
@@ -7858,7 +7855,6 @@ Resources organized by keyword tags.
   - [FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration](../ai/agents/arxiv-2609-27571.md)
   - [FIFA World Cup 2026 as a Contamination-Free Benchmark for LLM Forecasting Agents: Four Models, a Bookmaker, and 104 Matches](../ai/agents/arxiv-2607-17765.md)
   - [FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents](../ai/agents/arxiv-2608-18423.md)
-  - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md)
   - [FUSE: An Evaluating Framework for Dangerous Capabilities of LLMs](../ai/rag/arxiv-2609-02168.md)
   - [Facial-Expression-Aware Prompting for Empathetic LLM Tutoring](../ai/agents/arxiv-2604-15336.md)
   - [Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences](../ai/research/arxiv-2607-09932.md)
@@ -30706,7 +30702,6 @@ Resources organized by keyword tags.
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
   - [Amortizing intractable inference in diffusion models for vision, language, and control](../ai/rag/arxiv-2405-20971.md)
-  - [An AI sovereign wealth fund isn't progressive – it's techno-imperialism](../ai/community/an-ai-sovereign-wealth-fund-isn-t-progressive-it-s.md)
   - [An Adaptive Differentially Private Federated Learning Framework](../ai/research/arxiv-2602-06838.md)
   - [An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case](../ai/rag/arxiv-2608-14587.md)
   - [An Agentic Just-in-Time Adaptive Intervention System for Personalized Sleep Support: Proof-of-Concept Study with N of 1 Data](../ai/agents/arxiv-2609-21805.md)
@@ -31674,7 +31669,6 @@ Resources organized by keyword tags.
   - [FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare](../ai/research/arxiv-2608-23643.md)
   - [FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](../ai/rag/arxiv-2607-20382.md)
   - [FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](../ai/rag/arxiv-2508-02092.md)
-  - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md)
   - [Face De-Identification: A Domain-Centric Survey from Capture to Processing](../ai/research/arxiv-2607-25926.md)
   - [Fact Grounded Attention: Eliminating Hallucination in Large Language Models Through Attention Level Knowledge Integration](../ai/research/arxiv-2509-25252.md)
   - [Fail-Aware and Explainable Test Oracle Prediction](../ai/research/arxiv-2607-11342.md)
@@ -32170,6 +32164,7 @@ Resources organized by keyword tags.
   - [IPv6 Fundamentals Training Course - RIPE NCC](../ai/resources/ipv6-fundamentals-training-course-ripe-ncc.md)
   - [Identifying AI Web Scrapers Using Canary Tokens](../ai/agents/arxiv-2605-13706.md)
   - [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](../ai/research/arxiv-2607-26062.md)
+  - [Identity Management for Agentic AI [pdf] (2025)](../ai/community/openid-foundation-identity-management-for-agentic.md)
   - [Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses](../ai/agents/arxiv-2607-07775.md)
   - [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](../ai/research/if-llm-is-the-wizard-then-code-is-the-wand-a-surve.md)
   - [Imagine Intel: Creative Purpose at the Dawn of AI - Mozilla Foundation](../ai/resources/imagine-intel-creative-purpose-at-the-dawn-of-ai-m.md)
@@ -32390,7 +32385,6 @@ Resources organized by keyword tags.
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
-  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -32875,7 +32869,6 @@ Resources organized by keyword tags.
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
-  - [OpenID Foundation: Identity Management for Agentic AI [pdf]](../ai/community/openid-foundation-identity-management-for-agentic.md)
   - [OpenJS Foundation · GitHub](../ai/resources/openjs-foundation-github.md)
   - [OpenSearchCon North America | LF Events](../ai/rag/opensearchcon-north-america-lf-events.md)
   - [OpenStamp: A Watermark for Open-Source Language Models](../ai/research/arxiv-2608-27899.md)
@@ -33480,6 +33473,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Open-source model routing for coding agents at Astra-level performance](../ai/community/show-hn-open-source-model-routing-for-coding-agent.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -33647,7 +33641,6 @@ Resources organized by keyword tags.
   - [Supporting Autonomous Process Execution within a Multi-Perspective Constraint Frame via Numeric Planning](../ai/rag/arxiv-2607-16738.md)
   - [Surface Hub admin guide - Surface Hub | Microsoft Learn](../ai/resources/surface-hub-admin-guide-surface-hub-microsoft-lear.md)
   - [Surprising Effectiveness of Self-Demonstrations in Enhancing Schema-Ontology Mapping with LLMs](../ai/research/arxiv-2609-13776.md)
-  - [Surprisingly complex waves reveal the brain's inner workings](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)
   - [Surrogate Benchmarks for Model Merging Optimization](../ai/research/arxiv-2509-02555.md)
   - [Surrogate-Assisted Genetic Programming with Phenotypic Characterisation in Dynamic Multi-Mode Project Scheduling](../ai/research/arxiv-2609-14418.md)
   - [Surveillance Self-Defense](../ai/resources/surveillance-self-defense.md)
@@ -42977,7 +42970,6 @@ Resources organized by keyword tags.
   - [FATS: A Prompt Injection Attack Utilizing Feign Security Agents with Deceptive Few-shots Learning](../ai/agents/arxiv-2410-08776.md)
   - [FENCE: A Financial and Multimodal Jailbreak Detection Dataset](../ai/research/arxiv-2602-18154.md)
   - [FIFA World Cup 2026 as a Contamination-Free Benchmark for LLM Forecasting Agents: Four Models, a Bookmaker, and 104 Matches](../ai/agents/arxiv-2607-17765.md)
-  - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md)
   - [FZ-VLM: A Two Stage Florence-Zephyr Vision Language Model Framework for Pulmonary Nodule Characterization and Clinical Decision Making](../ai/research/arxiv-2608-15004.md)
   - [Failures and Successes to Learn a Core Conceptual Distinction from the Statistics of Language](../ai/research/arxiv-2607-04523.md)
   - [Fairness Beyond Anonymization? Demographic Leakage in German LLM-Generated Resumes](../ai/research/arxiv-2609-22188.md)
@@ -49201,7 +49193,6 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
-  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -71163,4 +71154,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-01T21:20:36.810677+05:30*
+*Index generated on 2026-10-02T02:54:43.994902+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-10-01T21:04:06.116865+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:surprisingly-complex-waves-reveal-the-brain-s-inne
 first_seen: '2026-10-01T02:25:07.259165+05:30'
 last_seen: '2026-10-01T21:04:06.116865+05:30'
 last_checked: '2026-10-01T21:04:06.116865+05:30'
 health_score: 100
 ---
+
 
 # Surprisingly complex waves reveal the brain's inner workings
 

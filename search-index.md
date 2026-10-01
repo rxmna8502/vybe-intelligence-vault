@@ -28006,7 +28006,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/shanraisshan/claude-code-best-practice>
 
 * **[shanraisshan/codex-cli-best-practice](ai/agents/shanraisshan-codex-cli-best-practice.md)** (`workflow` | `useful` tier)
-  * Summary: * Implements best practices for evolving AI-assisted development from "vibe coding" to structured
+  * Summary: * Python-based `codex-cli` repository detailing best practices for transitioning from "vibe coding" to "agentic engineering." * Implements `agentic-ai` principles, `hooks`,
   * Tags: `agents`, `github-repo`, `openai`, `python`, `workflows`
   * Source URL: <https://github.com/shanraisshan/codex-cli-best-practice>
 
@@ -41613,11 +41613,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.29549>
 
-* **[An AI sovereign wealth fund isn't progressive – it's techno-imperialism](ai/community/an-ai-sovereign-wealth-fund-isn-t-progressive-it-s.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Anon84. Score: 44, Comments: 26. Original Link: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243>
-
 * **[An Approximate Graph Elicits Detonation Lattice](ai/research/arxiv-2603-16524.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.16524v2 Announce Type: replace-cross Abstract: This study presents a novel algorithm based on graph theory for the precise segmentation and measurement of detonation cells from 3D pressure traces, termed detonation lattices, addressing the
   * Tags: `dataset`, `workflows`
@@ -43448,11 +43443,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.13262>
 
-* **[FTC is investigating OpenAI, Anthropic and other AI companies over product risks](ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dgellow. Score: 95, Comments: 49. Original Link: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html
-  * Tags: `ai`, `anthropic`, `hackernews`, `openai`
-  * Source URL: <https://cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html>
-
 * **[Full-data accuracy with fewer labels for training and fine-tuning machine-learning force fields](ai/research/arxiv-2607-14486.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.14486v1 Announce Type: cross Abstract: Machine-learning force fields (MLFFs) are reliable only near their training distribution, making efficient construction of diverse training sets a major bottleneck for both train-from-scratch and foun
   * Tags: `models`, `workflows`
@@ -44053,6 +44043,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow>
 
+* **[Identity Management for Agentic AI [pdf] (2025)](ai/community/openid-foundation-identity-management-for-agentic.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by cgeier. Score: 62, Comments: 19. Original Link: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://openid.net/wp-content/uploads/2025/10/identity-management-for-agentic-ai.pdf>
+
 * **[IDP AutoOpt: Agent-Driven Optimization of Document Processing Pipeline Configurations](ai/rag/arxiv-2607-26075.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.26075v1 Announce Type: cross Abstract: We present IDP AutoOpt, an autonomous LLM agent that discovers high-performing configurations for intelligent document processing (IDP) pipelines. Tuning IDP prompts, models, OCR settings, and schemas
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
@@ -44402,11 +44397,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Inference speed optimization**: Latency is primarily driven by token processing rate (TPM/TPS), heavily influenced by model size—smaller models run faster. Techniques include using detailed prompts, few-shot examples, fine-tuning, or inference op
   * Tags: `hackernews`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
-
-* **[Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](ai/community/magnitudedev-magnitude.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by anerli. Score: 180, Comments: 88. Original Link: https://github.com/magnitudedev/magnitude
-  * Tags: `agents`, `hackernews`, `producthunt`
-  * Source URL: <https://github.com/magnitudedev/magnitude>
 
 * **[Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](ai/rag/arxiv-2606-11686.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11686v1 Announce Type: cross Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, but one aggregate number tells you that an agent regressed, not where. We present layer-isolated evaluation: a deployed ordering age
@@ -45172,11 +45162,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **OpenSSF Technical Initiatives**: Projects like **GUAC** (Graphical Understanding of Artifact Composition) provide directed insights into software supply chain security, while **SLSA** (Supply-chain Levels for Software Artifacts) enforces artifact
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://openssf.org/?hsLang=en>
-
-* **[OpenID Foundation: Identity Management for Agentic AI [pdf]](ai/community/openid-foundation-identity-management-for-agentic.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cgeier. Score: 8, Comments: 1. Original Link: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf
-  * Tags: `agents`, `ai`, `hackernews`
-  * Source URL: <https://openid.net/wp-content/uploads/2025/10/identity-management-for-agentic-ai.pdf>
 
 * **[OpenSearchCon North America | LF Events](ai/rag/opensearchcon-north-america-lf-events.md)** (`tutorial` | `useful` tier)
   * Summary: - **Event Details**: OpenSearchCon North America 2026 scheduled for **September 22-24** in **San Jose, CA**, focusing on **search, vector databases, observability, and agentic AI** with sessions on relevance tuning, plugin development, and AI-powered
@@ -46163,6 +46148,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
+* **[Show HN: Open-source model routing for coding agents at Astra-level performance](ai/community/show-hn-open-source-model-routing-for-coding-agent.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by adchurch. Score: 50, Comments: 10. Original Link: None
+  * Tags: `agents`, `hackernews`
+  * Source URL: <https://news.ycombinator.com/item?id=49911500>
+
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
   * Tags: `github-repo`, `javascript`, `scripts`, `workflows`
@@ -46431,11 +46421,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2503.10265v3 Announce Type: replace Abstract: Robotic-assisted surgery (RAS) is central to modern surgery, driving the need for intelligent systems with accurate scene understanding. Most existing surgical AI methods rely on isolated, task-spec
   * Tags: `agents`, `benchmark`, `dataset`, `rag`, `reddit`, `workflows`, `youtube`
   * Source URL: <https://arxiv.org/abs/2503.10265>
-
-* **[Surprisingly complex waves reveal the brain's inner workings](ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ibobev. Score: 227, Comments: 90. Original Link: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930>
 
 * **[Surrogate Assisted Pedestrian Protection Design via a Foundation Model Orchestrated Workflow](ai/rag/arxiv-2606-17577.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17577v1 Announce Type: new Abstract: AI-driven engineering workflows face particular challenges in crash safety design: unlike aerodynamics, crash events involve highly nonlinear contact dynamics, material nonlinearity, and discrete state
@@ -52935,7 +52920,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 500, Downloads: 22709690)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 501, Downloads: 22709690)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -58228,7 +58213,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12403>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9566, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9567, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -95095,7 +95080,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.25334>
 
 * **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7700, Downloads: 0)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7702, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/mteb>
 
@@ -105521,7 +105506,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1712, Downloads: 29423291)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1715, Downloads: 29423291)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -112200,7 +112185,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6156, Downloads: 242249202)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6158, Downloads: 242249202)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -141428,7 +141413,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tutorial` | `useful` tier)
-  * Summary: * Tutorial repository for large language model (LLM) application development. *
+  * Summary: * Provides a foundational tutorial for large language model (LLM) application development, specifically targeting novice
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -156789,7 +156774,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.03344>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`. * Leverages
+  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary content language is HTML, indicating generated web pages. * Repository metrics include 30 stars, 59 forks, and a last update timestamp of 2026-07-08T15:07:53Z.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

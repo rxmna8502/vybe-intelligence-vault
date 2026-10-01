@@ -29710,11 +29710,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [An AI sovereign wealth fund isn't progressive – it's techno-imperialism](../ai/community/an-ai-sovereign-wealth-fund-isn-t-progressive-it-s.md)
-  - [FTC is investigating OpenAI, Anthropic and other AI companies over product risks](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md)
-  - [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](../ai/community/magnitudedev-magnitude.md)
-  - [OpenID Foundation: Identity Management for Agentic AI [pdf]](../ai/community/openid-foundation-identity-management-for-agentic.md)
-  - [Surprisingly complex waves reveal the brain's inner workings](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md)
+  - [Identity Management for Agentic AI [pdf] (2025)](../ai/community/openid-foundation-identity-management-for-agentic.md)
+  - [Show HN: Open-source model routing for coding agents at Astra-level performance](../ai/community/show-hn-open-source-model-routing-for-coding-agent.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -33589,4 +33586,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-01T21:20:37.189814+05:30*
+*Index generated on 2026-10-02T02:54:44.373557+05:30*

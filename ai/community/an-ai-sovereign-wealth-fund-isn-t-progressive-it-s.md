@@ -13,13 +13,14 @@ collected_at: '2026-10-01T21:04:06.762378+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:an-ai-sovereign-wealth-fund-isn-t-progressive-it-s
 first_seen: '2026-10-01T21:04:06.762378+05:30'
 last_seen: '2026-10-01T21:04:06.762378+05:30'
 last_checked: '2026-10-01T21:04:06.762378+05:30'
 health_score: 100
 ---
+
 
 # An AI sovereign wealth fund isn't progressive – it's techno-imperialism
 

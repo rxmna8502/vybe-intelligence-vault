@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-02T00:31:02.225492+05:30`
+Generated at: `2026-10-02T02:58:51.307833+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Show HN: Open-source model routing for coding agents at Astra-level performance** - Score: `50` in category `ai/community` ([Link](https://news.ycombinator.com/item?id=49911500)) ([File](../ai/community/show-hn-open-source-model-routing-for-coding-agent.md))
 
 ## Top Trending Resources
 
-- **SEABench: Benchmarking Endogenous Misalignment In Self-Evolving Agents** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-35596.md))
-- **Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-34422.md))
-- **In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2609-32540.md))
-- **Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-29808.md))
-- **PPTBench: Can Coding Agents Reconstruct the Visual World through Structured, Editable Slides** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-29718.md))
-- **The Sequential Price of Continual Learning** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2609-29674.md))
-- **CrossSafe: Towards Cross-Embodiment Latent Safety Filters** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2609-28984.md))
-- **Reconstructing the Right Episode: Evaluating Interleaved Conversational Memory Beyond Long Context** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/rag/arxiv-2608-25655.md))
-- **Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2608-07890.md))
-- **Arm2Air: Cross-Embodiment Skeleton Transfer for 3D Relay Formation** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2607-27627.md))
+- **Identity Management for Agentic AI [pdf] (2025)** - Score: `62` (+54), Rank Change: `+4` ([File](../ai/community/openid-foundation-identity-management-for-agentic.md))
+- **shanraisshan/codex-cli-best-practice** - Score: `0` (0), Rank Change: `+5142` ([File](../ai/agents/shanraisshan-codex-cli-best-practice.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+22` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+19` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/graphics-multimedia.md))
+- **Computer vision** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/computer-vision.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9277`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1021`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1021`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1021`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1021`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1021`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **shanraisshan/codex-cli-best-practice** - (Rank Change: `+5142`) ([File](../ai/agents/shanraisshan-codex-cli-best-practice.md))
+- **amazon/chronos-2** - (Rank Change: `+895`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **google-t5/t5-small** - (Rank Change: `+895`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
+- **Qwen/Qwen3-0.6B** - (Rank Change: `+895`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **BAAI/bge-m3** - (Rank Change: `+895`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **google-bert/bert-base-uncased** - (Rank Change: `+895`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
+- **google/electra-base-discriminator** - (Rank Change: `+895`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+895`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+895`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+895`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +45,7 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Surprisingly complex waves reveal the brain's inner workings** (Category: `ai/community`) ([File](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md))
+- **Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents** (Category: `ai/community`) ([File](../ai/community/magnitudedev-magnitude.md))
+- **FTC is investigating OpenAI, Anthropic and other AI companies over product risks** (Category: `ai/community`) ([File](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md))
+- **An AI sovereign wealth fund isn't progressive – it's techno-imperialism** (Category: `ai/community`) ([File](../ai/community/an-ai-sovereign-wealth-fund-isn-t-progressive-it-s.md))
