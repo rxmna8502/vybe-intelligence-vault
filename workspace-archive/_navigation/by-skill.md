@@ -20,7 +20,7 @@ This index groups curated resources by target developer skills.
 - [Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output](https://arxiv.org/abs/2608.10279) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-10279.md))
 - [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-24650.md))
 - [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (Tier: `useful` | [`Local File`](../../ai/rag/trec-autojudge-trec-autojudge.md))
-- [actr: aligning thoughts and responses for multilingual safety in reasoning llms](https://arxiv.org/abs/2609.37054) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-37054.md))
+- [ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs](https://arxiv.org/abs/2609.37054) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-37054.md))
 - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md))
 
 ## API Design
@@ -119,7 +119,7 @@ This index groups curated resources by target developer skills.
 - [Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output](https://arxiv.org/abs/2608.10279) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-10279.md))
 - [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-24650.md))
 - [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (Tier: `useful` | [`Local File`](../../ai/rag/trec-autojudge-trec-autojudge.md))
-- [actr: aligning thoughts and responses for multilingual safety in reasoning llms](https://arxiv.org/abs/2609.37054) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-37054.md))
+- [ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs](https://arxiv.org/abs/2609.37054) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-37054.md))
 - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md))
 
 ## Distributed Tracing
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-10-01 02:44 IST*
+*Last updated: 2026-10-01 11:59 IST*

@@ -14,7 +14,7 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 - [Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output](https://arxiv.org/abs/2608.10279) (framework - USEFUL Tier)
 - [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) (framework - USEFUL Tier)
 - [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (template - USEFUL Tier)
-- [actr: aligning thoughts and responses for multilingual safety in reasoning llms](https://arxiv.org/abs/2609.37054) (framework - USEFUL Tier)
+- [ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs](https://arxiv.org/abs/2609.37054) (framework - USEFUL Tier)
 - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (dataset - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-10-01 02:43 IST*
+*Last updated: 2026-10-01 11:58 IST*

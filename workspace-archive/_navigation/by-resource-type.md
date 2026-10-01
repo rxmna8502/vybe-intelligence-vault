@@ -38,13 +38,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-27144.md))
 - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (Tier: `essential` | [`Local File`](../../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md))
 - [Building Agentic Retrieval with LlamaParse Index](https://landing.llamaindex.ai/retrieval-harness) (Tier: `essential` | [`Local File`](../../ai/rag/building-agentic-retrieval-with-llamaparse-index.md))
+- [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-39601.md))
 - [Uncertainty of Vision Medical Foundation Models](https://arxiv.org/abs/2608.30390) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2608-30390.md))
 - [Reliable Virtual Sensing: A Multi-Domain Benchmark for Robustness Under Sensor Failures](https://arxiv.org/abs/2609.18396) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-18396.md))
 - [Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles](https://arxiv.org/abs/2609.22220) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-22220.md))
 - [RoBell-RVFL: A Robust Generalized Bell Random Vector Functional Link Network](https://arxiv.org/abs/2608.16965) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-16965.md))
 - [GARLIC: Graph Attention-based Relational Learning of Multivariate Time Series in Intensive Care](https://arxiv.org/abs/2608.10969) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-10969.md))
 - [VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2601-19956.md))
-- [Dimension-Calibrated Unexplained Mass: An Interpretable Drift Statistic for Contamination Monitoring in Data Streams](https://arxiv.org/abs/2607.16811) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-16811.md))
 
 ## FRAMEWORK
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-10-01 02:44 IST*
+*Last updated: 2026-10-01 11:59 IST*

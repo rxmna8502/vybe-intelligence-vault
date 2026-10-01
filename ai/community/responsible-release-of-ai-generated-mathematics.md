@@ -5,28 +5,27 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://agmai.org/general-sep29
 hn_url: https://news.ycombinator.com/item?id=49903713
-score: 20
+score: 87
 author: aureianimus
-comments_count: 11
+comments_count: 106
 published_at: '2026-09-30T08:06:12+05:30'
-collected_at: '2026-09-30T11:12:29.043891+05:30'
+collected_at: '2026-10-01T11:36:54.483421+05:30'
 tags:
 - ai
 - hackernews
-status: inactive
+status: active
 resource_id: hackernews:responsible-release-of-ai-generated-mathematics
 first_seen: '2026-09-30T11:12:29.043891+05:30'
-last_seen: '2026-09-30T11:12:29.043891+05:30'
-last_checked: '2026-09-30T11:12:29.043891+05:30'
+last_seen: '2026-10-01T11:36:54.483421+05:30'
+last_checked: '2026-10-01T11:36:54.483421+05:30'
 health_score: 100
 ---
-
 
 # Responsible Release of AI-Generated Mathematics
 
 ## Summary
 
-Hacker News story by aureianimus. Score: 20, Comments: 11.
+Hacker News story by aureianimus. Score: 87, Comments: 106.
 Original Link: https://agmai.org/general-sep29/
 
 ## Why It Matters
@@ -36,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: aureianimus
-- Score: 20 Upvotes
-- Comments: 11 Discussions
+- Score: 87 Upvotes
+- Comments: 106 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49903713
 - Original Article: https://agmai.org/general-sep29
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/magnitudedev/magnitude
 hn_url: https://news.ycombinator.com/item?id=49911995
-score: 92
+score: 143
 author: anerli
-comments_count: 42
+comments_count: 70
 published_at: '2026-09-30T23:07:40+05:30'
-collected_at: '2026-10-01T02:25:07.693728+05:30'
+collected_at: '2026-10-01T11:36:52.886205+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:magnitudedev/magnitude
 first_seen: '2026-10-01T02:25:07.693728+05:30'
-last_seen: '2026-10-01T02:25:07.693728+05:30'
-last_checked: '2026-10-01T02:25:07.693728+05:30'
+last_seen: '2026-10-01T11:36:52.886205+05:30'
+last_checked: '2026-10-01T11:36:52.886205+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by anerli. Score: 92, Comments: 42.
+Hacker News story by anerli. Score: 143, Comments: 70.
 Original Link: https://github.com/magnitudedev/magnitude
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: anerli
-- Score: 92 Upvotes
-- Comments: 42 Discussions
+- Score: 143 Upvotes
+- Comments: 70 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49911995
 - Original Article: https://github.com/magnitudedev/magnitude
 
