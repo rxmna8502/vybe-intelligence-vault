@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-01T21:24:42.327746+05:30`
+Generated at: `2026-10-02T00:31:02.225492+05:30`
 
 ## Executive Summary
 
@@ -8,37 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **FTC is investigating OpenAI, Anthropic and other AI companies over product risks** - Score: `95` in category `ai/community` ([Link](https://cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)) ([File](../ai/community/ftc-is-investigating-openai-anthropic-and-other-ai.md))
-- **An AI sovereign wealth fund isn't progressive – it's techno-imperialism** - Score: `44` in category `ai/community` ([Link](https://ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243)) ([File](../ai/community/an-ai-sovereign-wealth-fund-isn-t-progressive-it-s.md))
-- **OpenID Foundation: Identity Management for Agentic AI [pdf]** - Score: `8` in category `ai/community` ([Link](https://openid.net/wp-content/uploads/2025/10/identity-management-for-agentic-ai.pdf)) ([File](../ai/community/openid-foundation-identity-management-for-agentic.md))
-- **Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/barclays-scales-claude)) ([File](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md))
-- **Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/allenai/olmocore3)) ([File](../ai/models/huggingface-blog-allenai-olmocore3.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Surprisingly complex waves reveal the brain's inner workings** - Score: `227` (+67), Rank Change: `0` ([File](../ai/community/surprisingly-complex-waves-reveal-the-brain-s-inne.md))
-- **Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents** - Score: `180` (+37), Rank Change: `0` ([File](../ai/community/magnitudedev-magnitude.md))
-- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+3136` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
-- **cmAIdx/headless-claude-automation-template** - Score: `0` (0), Rank Change: `+9117` ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
-- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+3148` ([File](../ai/agents/agent0ai-agent-zero.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+3136` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+2843` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+2841` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+2844` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+2844` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
+- **SEABench: Benchmarking Endogenous Misalignment In Self-Evolving Agents** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-35596.md))
+- **Coding Agent Memory Post-training: Unlocking the Memory Potential of Pre-trained File Operations for Long-Horizon Tasks via Reinforcement Learning** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-34422.md))
+- **In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2609-32540.md))
+- **Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-29808.md))
+- **PPTBench: Can Coding Agents Reconstruct the Visual World through Structured, Editable Slides** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/agents/arxiv-2609-29718.md))
+- **The Sequential Price of Continual Learning** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2609-29674.md))
+- **CrossSafe: Towards Cross-Embodiment Latent Safety Filters** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2609-28984.md))
+- **Reconstructing the Right Episode: Evaluating Interleaved Conversational Memory Beyond Long Context** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/rag/arxiv-2608-25655.md))
+- **Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2608-07890.md))
+- **Arm2Air: Cross-Embodiment Skeleton Transfer for 3D Relay Formation** - Score: `0` (0), Rank Change: `+1018` ([File](../ai/research/arxiv-2607-27627.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **cmAIdx/headless-claude-automation-template** - (Rank Change: `+9117`) ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
-- **agent0ai/agent-zero** - (Rank Change: `+3148`) ([File](../ai/agents/agent0ai-agent-zero.md))
-- **PrimeIntellect-ai/prime-agent** - (Rank Change: `+3136`) ([File](../ai/agents/primeintellect-ai-prime-agent.md))
-- **vivy-yi/rag-tutorial** - (Rank Change: `+3136`) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+3130`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+2844`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **patchy631/ai-engineering-hub** - (Rank Change: `+2844`) ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+2843`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+2841`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+2840`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9277`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1021`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1021`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1021`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1021`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1021`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1021`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -49,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Responsible Release of AI-Generated Mathematics** (Category: `ai/community`) ([File](../ai/community/responsible-release-of-ai-generated-mathematics.md))
-- **Doing a Machine Learning PhD While Working in Japan** (Category: `ai/community`) ([File](../ai/community/doing-a-machine-learning-phd-while-working-in-japa.md))
-- **Is sandboxing sufficient to contain rogue agents?** (Category: `ai/community`) ([File](../ai/community/is-sandboxing-sufficient-to-contain-rogue-agents.md))
+No recently active resources transitioned to inactive.
+
