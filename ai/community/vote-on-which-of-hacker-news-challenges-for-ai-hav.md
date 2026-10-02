@@ -13,13 +13,14 @@ collected_at: '2026-10-02T20:21:03.412633+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:vote-on-which-of-hacker-news-challenges-for-ai-hav
 first_seen: '2026-10-02T11:18:54.996033+05:30'
 last_seen: '2026-10-02T20:21:03.412633+05:30'
 last_checked: '2026-10-02T20:21:03.412633+05:30'
 health_score: 100
 ---
+
 
 # Vote on which of Hacker News' challenges for AI have been met
 

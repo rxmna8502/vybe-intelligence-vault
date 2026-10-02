@@ -29638,7 +29638,6 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
@@ -29662,6 +29661,7 @@ Resources organized by publisher feed and query sources.
   - [Mistral and Mozilla are bringing open, private and multilingual AI to your web browser](../ai/companies/mistral/mistral-and-mozilla-are-bringing-open-private-and.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
+  - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Publications](../ai/companies/publications.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
@@ -30565,7 +30565,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Vote on which of Hacker News' challenges for AI have been met](../ai/community/vote-on-which-of-hacker-news-challenges-for-ai-hav.md)
+  - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
+  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
+  - [Show HN: Giving Opus 5.5 a simulated paint canvas](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)
+  - [Show HN: Made an open-source Lego AI generator](../ai/community/anteloc-ldraw-nova.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
+  - [Venice’s failed war against Constantinople led to the first bond market](../ai/community/venices-failed-war-against-constantinople-led-to-t.md)
+  - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -30984,7 +30990,6 @@ Resources organized by publisher feed and query sources.
   - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](../ai/models/huggingface-blog-modular-diffusers.md)
   - [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](../ai/models/huggingface-blog-npc-gigax-cubzh.md)
   - [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../ai/agents/huggingface-blog-nvidia-nemotron-3-nano-omni-multimodal-intelligence.md)
-  - [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](../ai/models/huggingface-blog-allenai-olmocore3.md)
   - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](../ai/rag/huggingface-blog-allenai-olmoearth-embeddings.md)
   - [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](../ai/models/huggingface-blog-hardware-partners-program.md)
   - [Introducing Prodigy-HF: a direct integration with Hugging Face](../ai/models/huggingface-blog-prodigy-hf.md)
@@ -31150,6 +31155,7 @@ Resources organized by publisher feed and query sources.
   - [Open-Source Text Generation & LLM Ecosystem at Hugging Face](../ai/models/huggingface-blog-os-llms.md)
   - [Open-source DeepResearch – Freeing our search agents](../ai/agents/huggingface-blog-open-deep-research.md)
   - [Open-source LLMs as LangChain Agents](../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
+  - [Open-sourcing AstaBrief, the fast report-generation model in Asta](../ai/models/huggingface-blog-allenai-astabrief.md)
   - [Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny](../ai/models/huggingface-blog-sd-distillation.md)
   - [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](../ai/agents/huggingface-blog-openenv-turing.md)
   - [OpenRAIL: Towards open and responsible AI licensing frameworks](../ai/models/huggingface-blog-open-rail.md)
@@ -34441,4 +34447,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-02T20:37:35.810701+05:30*
+*Index generated on 2026-10-03T02:38:33.718076+05:30*

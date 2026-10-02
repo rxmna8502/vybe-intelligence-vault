@@ -6610,6 +6610,7 @@ Resources organized by keyword tags.
   - [Thomson: Continual Learning of Frontier Models for SovereignAI](../ai/agents/arxiv-2608-27147.md)
   - [Threat-Aware Energy-Efficient Deployment for Dynamic UAV Networks: A Multi-Agent RL Approach](../ai/agents/arxiv-2609-30690.md)
   - [Threat-guided Policy-aware Scene Perturbation for Safe Autonomous Driving with Online Reinforcement Learning](../ai/agents/arxiv-2608-10403.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
   - [Three-Way Open-Set Detection for Robust Autonomous Navigation](../ai/agents/arxiv-2511-15343.md)
   - [ThuRunel: Dynamic Decoupling for Structured Advisory Dialogue](../ai/agents/arxiv-2609-36340.md)
   - [TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents](../ai/rag/arxiv-2609-23363.md)
@@ -7744,7 +7745,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Vote on which of Hacker News' challenges for AI have been met](../ai/community/vote-on-which-of-hacker-news-challenges-for-ai-hav.md)
+  - [Show HN: Giving Opus 5.5 a simulated paint canvas](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)
+  - [Show HN: Made an open-source Lego AI generator](../ai/community/anteloc-ldraw-nova.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
+  - [Venice’s failed war against Constantinople led to the first bond market](../ai/community/venices-failed-war-against-constantinople-led-to-t.md)
+  - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
 
 ## animation
 
@@ -7858,7 +7863,6 @@ Resources organized by keyword tags.
   - [Auditing Alignment Controllability in LLMs via Political Axes](../ai/research/arxiv-2607-23519.md)
   - [Auditing Political Alignment in LLM Assistants: Engagement, Stance, and User Identity](../ai/rag/arxiv-2609-23039.md)
   - [Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline](../ai/rag/arxiv-2609-30290.md)
-  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
@@ -8249,6 +8253,7 @@ Resources organized by keyword tags.
   - [ORCA: Evaluating LLMs on Data Science Code Translation](../ai/rag/arxiv-2609-30749.md)
   - [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](../ai/agents/arxiv-2609-24890.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
+  - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [OliveGemma: A 3 Billion Visual Language Model for Recognising the Mediterranean & European Diet](../ai/research/arxiv-2608-03428.md)
   - [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](../ai/research/arxiv-2606-01476.md)
   - [OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios](../ai/agents/arxiv-2607-14989.md)
@@ -8563,12 +8568,12 @@ Resources organized by keyword tags.
 
 ## anthropic-news
 
-  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
+  - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
   - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
@@ -21966,7 +21971,6 @@ Resources organized by keyword tags.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
@@ -21990,6 +21994,7 @@ Resources organized by keyword tags.
   - [Mistral and Mozilla are bringing open, private and multilingual AI to your web browser](../ai/companies/mistral/mistral-and-mozilla-are-bringing-open-private-and.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
+  - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Publications](../ai/companies/publications.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
@@ -32572,6 +32577,7 @@ Resources organized by keyword tags.
   - [From Vessel Trajectories to Safety-Critical Encounter Scenarios: A Generative AI Framework for Autonomous Ship Digital Testing](../ai/agents/arxiv-2603-28067.md)
   - [From Visual Attribution to Clinical Reasoning: Explainable Parkinson's Disease Screening from Hand-Drawn Patterns](../ai/research/arxiv-2609-14441.md)
   - [From a River in Gilead to the Inference Distributions of Large Language Models: Covert Dialect Bias and Linguistic Profiling at Scale](../ai/research/arxiv-2609-18068.md)
+  - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
   - [Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change](../ai/agents/arxiv-2609-36739.md)
   - [Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction](../ai/research/arxiv-2608-01202.md)
   - [Fruitful Code · GitHub](../ai/resources/fruitful-code-github.md)
@@ -32773,6 +32779,7 @@ Resources organized by keyword tags.
   - [Green Screen Coalition](../ai/resources/green-screen-coalition.md)
   - [Green Screen Coalition · GitLab](../ai/rag/green-screen-coalition-gitlab.md)
   - [Green Software Foundation — Building a Sustainable Digital Future](../ai/rag/green-software-foundation-building-a-sustainable-d.md)
+  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
   - [Grep, Embeddings, or Both? Building the Retrieval Harness for Enterprise Agents](../ai/rag/grep-embeddings-or-both-building-the-retrieval-har.md)
   - [Gromov-Wasserstein Quantization and Clustering: Structure, Rates, and Algorithms](../ai/research/arxiv-2608-11016.md)
   - [Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs](../ai/rag/arxiv-2608-26069.md)
@@ -34261,6 +34268,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Giving Opus 5.5 a simulated paint canvas](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)
+  - [Show HN: Made an open-source Lego AI generator](../ai/community/anteloc-ldraw-nova.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -34624,6 +34633,7 @@ Resources organized by keyword tags.
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
   - [Three-dimensional Conditional Diffusion Models for Cosmological 21 cm Lightcone Emulation](../ai/research/arxiv-2605-29016.md)
   - [Tight Sample Complexity Bounds for Entropic Best Policy Identification](../ai/rag/arxiv-2605-13717.md)
   - [Tightening the Score Matching Gap for Diffusion Models](../ai/research/arxiv-2607-04442.md)
@@ -34850,6 +34860,7 @@ Resources organized by keyword tags.
   - [VectorizationLLM: Smart Vectorization Based AI Assistant](../ai/rag/arxiv-2607-07846.md)
   - [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](../ai/research/arxiv-2602-22647.md)
   - [VegSim: A Geospatial World Model for Scenario-Conditioned Vegetation Simulation](../ai/research/arxiv-2606-21961.md)
+  - [Venice’s failed war against Constantinople led to the first bond market](../ai/community/venices-failed-war-against-constantinople-led-to-t.md)
   - [Verba: Building an Open Source, Modular RAG Application | Weaviate](../ai/rag/verba-building-an-open-source-modular-rag-applicat.md)
   - [Verbalizable Representations Form a Global Workspace in Language Models](../ai/research/arxiv-2607-15495.md)
   - [Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines](../ai/rag/arxiv-2601-23132.md)
@@ -34870,7 +34881,6 @@ Resources organized by keyword tags.
   - [Vocabulary-size-independent Convergence of Discrete Diffusion Models: adjoint equations induce the right space](../ai/research/arxiv-2605-17232.md)
   - [VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation](../ai/rag/arxiv-2608-13613.md)
   - [Volumetric Radiology AI in the Era of Multimodal Large Language Models](../ai/agents/arxiv-2608-20549.md)
-  - [Vote on which of Hacker News' challenges for AI have been met](../ai/community/vote-on-which-of-hacker-news-challenges-for-ai-hav.md)
   - [Vulnerability Disclosure Policy | Department of Energy](../ai/rag/vulnerability-disclosure-policy-department-of-ener.md)
   - [WARA: Toward Automated Wireless Optimization Research with Closed-Loop LLM Agents](../ai/agents/arxiv-2608-14573.md)
   - [WARD: Runtime Workload-Adaptive Vision TRansformer Framework for Dependable Edge AI](../ai/agents/arxiv-2609-17556.md)
@@ -34970,6 +34980,7 @@ Resources organized by keyword tags.
   - [Wikimedia Foundation/Organizational chart - Meta-Wiki](../ai/rag/wikimedia-foundation-organizational-chart-meta-wik.md)
   - [Wikimedia Projects – Wikimedia Foundation](../ai/rag/wikimedia-projects-wikimedia-foundation.md)
   - [Wikitech](../ai/resources/wikitech.md)
+  - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
   - [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](../ai/research/arxiv-2608-17017.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
@@ -35083,7 +35094,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -35886,6 +35896,11 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
+  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
 
 ## mdx
 
@@ -62952,7 +62967,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -70687,6 +70701,7 @@ Resources organized by keyword tags.
   - [Graphics Processing Unit (GPU) - PlayStation Specifications - psx-spx](../ai/rag/graphics-processing-unit-gpu-playstation-specifica.md)
   - [Gravitee.io Community - Ask & learn on API Gateway, API Management, Event Streaming & Agent Mesh](../ai/agents/gravitee-io-community-ask-learn-on-api-gateway-api.md)
   - [Grecu Partners - Grecu Partners](../ai/rag/grecu-partners-grecu-partners.md)
+  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
   - [Grep, Embeddings, or Both? Building the Retrieval Harness for Enterprise Agents](../ai/rag/grep-embeddings-or-both-building-the-retrieval-har.md)
   - [Grid by Example](../ai/resources/grid-by-example.md)
   - [GroundShot: Visually Consistent Multi-Shot Long Video Generation via Entity-Grounded Shot Scheduling](../ai/agents/arxiv-2606-20799.md)
@@ -72655,4 +72670,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-02T20:37:35.448629+05:30*
+*Index generated on 2026-10-03T02:38:33.344866+05:30*

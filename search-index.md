@@ -31949,7 +31949,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.10402>
 
 * **[TIGER-AI-Lab/ClawBench](ai/agents/tiger-ai-lab-clawbench.md)** (`framework` | `useful` tier)
-  * Summary: * Open-source benchmark for evaluating LLM-driven browser AI agents on real-world, everyday online tasks. * Utilizes browser automation (e.g., Chrome extension) to facilitate agent interaction and performance assessment within web environments. * Pro
+  * Summary: * Open-source Python benchmark for evaluating browser AI agents on real-world, everyday online tasks. * Focuses on agentic AI performance within browser automation contexts, specifically targeting Chrome agents. * Provides a dataset and framework for
   * Tags: `agents`, `benchmark`, `dataset`, `github-repo`, `python`, `scripts`
   * Source URL: <https://github.com/TIGER-AI-Lab/ClawBench>
 
@@ -44348,6 +44348,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.14405>
 
+* **[From the creator of Redis; run LLM locally with ds4](ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by fibo. Score: 56, Comments: 5. Original Link: https://dwarfstar.sh/
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://dwarfstar.sh>
+
 * **[From Threat Intelligence to Detection: Knowledge-driven Enrichment and Template-based Rule Grounding for Automated Sigma Rule Generation](ai/rag/arxiv-2608-19011.md)** (`template` | `useful` tier)
   * Summary: arXiv:2608.19011v1 Announce Type: cross Abstract: Mechanisms for dynamically converting cyber threat intelligence (CTI) into actionable detection capabilities are necessary due to the rapid evolution of Advanced Persistent Threats (APTs). Sigma rules
   * Tags: `benchmark`, `hackernews`, `rag`, `workflows`
@@ -44702,6 +44707,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **AI-Powered Hiring Suite**: Integrates **Notetaker** (automated interview transcription/summarization), **Candidate Question Agent** (real-time Q&A for applicants), and **MCP** (modular candidate pipeline management) with existing tools via API/co
   * Tags: `agents`, `anthropic`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.greenhouse.com>
+
+* **[Greg Kroah-Hartman – Security in the LLM Age [video]](ai/community/youtube-nnv-cweoo5q.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by usernomdeguerre. Score: 100, Comments: 19. Original Link: https://www.youtube.com/watch?v=NnV_cWeoo5Q
+  * Tags: `hackernews`, `llm`, `youtube`
+  * Source URL: <https://youtube.com/watch?v=NnV_cWeoo5Q>
 
 * **[GridCodex: A RAG-Driven AI Framework for Power Grid Code Reasoning and Compliance](ai/rag/arxiv-2508-12682.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2508.12682v2 Announce Type: replace Abstract: The global shift towards renewable energy presents unprecedented challenges for the electricity industry, making regulatory reasoning and compliance increasingly vital. Grid codes, the regulations g
@@ -47098,6 +47108,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
+* **[Show HN: Giving Opus 5.5 a simulated paint canvas](ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by alstonite. Score: 154, Comments: 51. Original Link: https://stillwet.art/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://stillwet.art>
+
+* **[Show HN: Made an open-source Lego AI generator](ai/community/anteloc-ldraw-nova.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by antelocnova. Score: 24, Comments: 7. Original Link: https://github.com/anteloc/ldraw-nova
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/anteloc/ldraw-nova>
+
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
   * Tags: `github-repo`, `javascript`, `scripts`, `workflows`
@@ -47582,6 +47602,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.webmproject.org/code/#webp-repositories>
 
+* **[Three AI agents, two countries, and one uneven world wide web](ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by effects. Score: 6, Comments: 0. Original Link: https://royapakzad.substack.com/p/multilingual-ai-agents
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://royapakzad.substack.com/p/multilingual-ai-agents>
+
 * **[Three-Phase Evaluation of AI-Assisted Software Development Life Cycle](ai/research/arxiv-2607-05125.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.05125v1 Announce Type: cross Abstract: This paper presents an exploratory evaluation of how increasing levels of AI autonomy affect software development productivity, requirement adherence, and developer cognitive workload. A team of four
   * Tags: `benchmark`, `models`, `paper`, `workflows`
@@ -47987,6 +48012,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`, `openai`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.29852>
 
+* **[Venice’s failed war against Constantinople led to the first bond market](ai/community/venices-failed-war-against-constantinople-led-to-t.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by RickJWagner. Score: 39, Comments: 6. Original Link: https://bigthink.com/books/a-fabulous-debt/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://bigthink.com/books/a-fabulous-debt>
+
 * **[vercel-labs/agent-browser](ai/rag/vercel-labs-agent-browser.md)** (`workflow` | `useful` tier)
   * Summary: - **Purpose**: CLI tool for AI agents to automate browser interactions, enabling programmatic control of web pages and actions. - **Technical Stack**: Implemented in Rust for performance and safety, leveraging low-level system access for efficient au
   * Tags: `agents`, `github-repo`, `hackernews`, `rag`, `rust`, `scripts`, `workflows`
@@ -48091,11 +48121,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **File System-Based Context Management**: OpenViking implements a hierarchical context database for AI Agents using a file system paradigm, enabling structured storage and retrieval of memory, resources, and skills via familiar filesystem operation
   * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/volcengine/OpenViking>
-
-* **[Vote on which of Hacker News' challenges for AI have been met](ai/community/vote-on-which-of-hacker-news-challenges-for-ai-hav.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by stabbles. Score: 176, Comments: 215. Original Link: https://stoppels.ch/goalposts/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://stoppels.ch/goalposts>
 
 * **[vstorm-co/full-stack-ai-agent-template](ai/rag/vstorm-co-full-stack-ai-agent-template.md)** (`template` | `useful` tier)
   * Summary: * Full-stack template integrating FastAPI (Python) and Next.js (React/TypeScript) with Docker containerization and PostgreSQL persistence. * Leverages AI agent frameworks (CrewAI, LangChain, LangGraph) for complex workflows, incorporating RAG, LLM st
@@ -48211,6 +48236,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.00568v1 Announce Type: cross Abstract: Code generation aims to automatically generate source code from task requirements and has attracted significant attention with the rapid advancement of large language models (LLMs). Despite remarkable
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.00568>
+
+* **[With most information hidden, the game Stratego had stumped AI until now](ai/community/with-most-information-hidden-the-game-stratego-had.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by PaulHoule. Score: 90, Comments: 27. Original Link: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget>
 
 * **[WordPress Playground](ai/rag/wordpress-playground.md)** (`tutorial` | `useful` tier)
   * Summary: - **Instant WordPress Execution**: WordPress Playground enables zero-setup WordPress execution in any environment (browser, Node.js, mobile, VS Code) via a single-click install, leveraging WebAssembly (PHP-WASM) for client-side PHP processing without
@@ -87455,10 +87485,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs
   * Source URL: <https://huggingface.co/blog/npc-gigax-cubzh>
 
-* **[Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](ai/models/huggingface-blog-allenai-olmocore3.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs
-  * Source URL: <https://huggingface.co/blog/allenai/olmocore3>
-
 * **[Introducing Optimum: The Optimization Toolkit for Transformers at Scale](ai/models/huggingface-blog-hardware-partners-program.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Optimum: The Optimization Toolkit for Transformers at Scale
   * Source URL: <https://huggingface.co/blog/hardware-partners-program>
@@ -88274,7 +88300,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11290, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11291, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -101516,6 +101542,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Open-Source Text Generation & LLM Ecosystem at Hugging Face
   * Source URL: <https://huggingface.co/blog/os-llms>
 
+* **[Open-sourcing AstaBrief, the fast report-generation model in Asta](ai/models/huggingface-blog-allenai-astabrief.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Open-sourcing AstaBrief, the fast report-generation model in Asta
+  * Source URL: <https://huggingface.co/blog/allenai/astabrief>
+
 * **[Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny](ai/models/huggingface-blog-sd-distillation.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny
   * Tags: `models`
@@ -107973,7 +108003,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1717, Downloads: 29565215)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1719, Downloads: 29565215)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -112874,7 +112904,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 820, Downloads: 1919234)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 821, Downloads: 1919234)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -134211,11 +134241,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/research-area/audio-acoustics>
 
-* **[Aug 14, 2026AnnouncementsHow Claude’s text watermark works](ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Aug 14, 2026AnnouncementsHow Claude’s text watermark works
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/claude-text-watermark>
-
 * **[Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)** (`benchmark` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing
   * Tags: `anthropic`, `anthropic-news`, `benchmark`, `blog-post`
@@ -134375,6 +134400,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/barclays-scales-claude>
+
+* **[Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/claude-frontier-academy>
 
 * **[openai/evals](ai/resources/openai-evals.md)** (`framework` | `useful` tier)
   * Summary: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -140411,7 +140441,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3787, Downloads: 35073646)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3788, Downloads: 35073646)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -144824,8 +144854,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
 * **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide for LLM application development, spanning foundational techniques to advanced architectures. * Leverages prominent RAG frameworks (LangChain, LlamaIndex) and integrates vector/graph databases (Milvus, Neo4j) f
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`, `reddit`
+  * Summary: * Comprehensive RAG application development guide leveraging frameworks like LangChain and LlamaIndex for end
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -144833,8 +144863,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive tutorial on LLM application development. * Employs LangChain for application orchestration and RAG (Retrieval-Augmented Generation) for enhanced contextual understanding. * Content delivered through Jupyter Notebooks, facilitating int
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
+  * Summary: * Focuses on practical large language model (LLM) application development. *
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -155133,7 +155163,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.11288>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: * Python-implemented bioinformatics tool for *de novo* genome assembly and scaffolding. * Functionality centered on ordering and orienting contigs to construct larger genomic scaffolds. * Project is deprecated; development has transitioned to the suc
+  * Summary: * Python-implemented bioinformatics tool designed for *de novo* genome assembly and scaffolding. *
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
@@ -160620,7 +160650,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.03344>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site generator source for `raganwald.com`.
+  * Summary: * Jekyll source repository (`raganwald/raganwald.github.com`) for the `raganwald.com` static site. * Primary content language identified as HTML, reflecting the generated output or core markup. * Repository last updated `2026-07-08T15:07:53Z`, indica
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
