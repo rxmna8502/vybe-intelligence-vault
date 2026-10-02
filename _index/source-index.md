@@ -29852,6 +29852,7 @@ Resources organized by publisher feed and query sources.
   - [TIGER-AI-Lab/ClawBench](../ai/agents/tiger-ai-lab-clawbench.md)
   - [TIGER-AI-Lab/VLM2Vec](../ai/rag/tiger-ai-lab-vlm2vec.md)
   - [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem.md)
+  - [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md)
   - [TatarinBlack/ai-runtime-security-sandbox](../ai/rag/tatarinblack-ai-runtime-security-sandbox.md)
   - [TecharoHQ/anubis](../ai/rag/techarohq-anubis.md)
   - [Tencent/AI-Infra-Guard](../ai/agents/tencent-ai-infra-guard.md)
@@ -34440,4 +34441,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-02T11:39:13.760366+05:30*
+*Index generated on 2026-10-02T20:37:35.810701+05:30*

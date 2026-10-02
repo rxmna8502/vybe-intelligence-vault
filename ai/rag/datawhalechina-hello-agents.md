@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-09-23T19:15:24.528907+05:30'
-published_at: '2026-09-23T13:35:13Z'
+collected_at: '2026-10-02T20:22:00.746958+05:30'
+published_at: '2026-10-02T14:39:18Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 80623
+stars: 81541
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-09-07T09:50:24Z'
-pushed_at: '2026-09-22T11:42:57Z'
+pushed_at: '2026-09-29T11:53:44Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-09-23T19:15:24.528907+05:30'
-last_seen: '2026-09-23T19:15:24.528907+05:30'
-last_checked: '2026-09-23T19:15:24.528907+05:30'
+first_seen: '2026-10-02T20:22:00.746958+05:30'
+last_seen: '2026-10-02T20:22:00.746958+05:30'
+last_checked: '2026-10-02T20:22:00.746958+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-centric tutorial repository detailing the "from-scratch" construction and principles of intelligent agents.
-*   Focuses on practical applications of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) within agent frameworks.
-*   Offers a comprehensive guide to agent design and implementation, suitable for foundational understanding.
+*   Comprehensive tutorial on AI agent construction, covering foundational principles and practical implementation.
+*   Leverages Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) as core architectural components for agent capabilities.
+*   Python-centric resource providing hands-on guidance for developing intelligent agents from scratch.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 80623
-- Forks: 10028
+- Stars: 81541
+- Forks: 10139
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-09-23T13:35:13Z
+- Last Updated: 2026-10-02T14:39:18Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z
-- Pushed At: 2026-09-22T11:42:57Z
+- Pushed At: 2026-09-29T11:53:44Z
 
 ## Possible Use Cases
 

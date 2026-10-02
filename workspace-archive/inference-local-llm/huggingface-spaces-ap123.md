@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: AP123/IllusionDiffusion (Likes: 5470, Downloads: 0)
+Trending Hugging Face space: AP123/IllusionDiffusion (Likes: 5471, Downloads: 0)
 
 ## Use Cases
 

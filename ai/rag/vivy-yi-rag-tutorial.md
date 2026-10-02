@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-10-01T21:05:11.195973+05:30'
+collected_at: '2026-10-02T20:22:10.749310+05:30'
 published_at: '2026-10-01T08:32:44Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
-- models
 - rag
 stars: 98
 language: Jupyter Notebook
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-10-01T21:05:11.195973+05:30'
-last_seen: '2026-10-01T21:05:11.195973+05:30'
-last_checked: '2026-10-01T21:05:11.195973+05:30'
+first_seen: '2026-10-02T20:22:10.749310+05:30'
+last_seen: '2026-10-02T20:22:10.749310+05:30'
+last_checked: '2026-10-02T20:22:10.749310+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG lifecycle coverage, spanning foundational concepts to production deployment strategies.
-*   In-depth exploration of RAG architecture, emphasizing integration with LangChain, LLMs, and vector databases.
-*   Practical application through 17 Jupyter Notebooks and 6 enterprise-level case studies for hands-on RAG system development.
+*   **End-to-end RAG lifecycle curriculum**: Spans foundational principles to production deployment strategies.
+*   **Practical implementation focus**: Features 17 Jupyter Notebooks and 6 enterprise-grade case studies for hands-on application.
+*   **Core technology stack**: Leverages LangChain, LLMs, and vector databases for Retrieval-Augmented Generation systems.
 
 ## Why It Matters
 

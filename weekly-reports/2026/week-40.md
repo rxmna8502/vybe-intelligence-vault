@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **1874** new resources across our source networks.
+During this cycle, we discovered **1019** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -22,7 +22,7 @@ This week had strong activity around frontend tools.
 | Category | Count |
 |---|---:|
 | ai/research | 1700 |
-| ai/rag | 1054 |
+| ai/rag | 1058 |
 | ai/models | 813 |
 | ai/agents | 641 |
 | web-development/nextjs | 69 |
@@ -39,44 +39,44 @@ This week had strong activity around frontend tools.
 | Tag | Count |
 |---|---:|
 | benchmark | 1509 |
-| rag | 1057 |
-| agents | 868 |
-| models | 761 |
+| rag | 1061 |
+| agents | 870 |
+| models | 759 |
 | dataset | 640 |
 | paper | 381 |
 | youtube | 276 |
-| hackernews | 207 |
-| frontend_ui | 159 |
+| hackernews | 209 |
+| frontend_ui | 160 |
 | workflows | 142 |
 | meta-ai | 100 |
 | anthropic | 70 |
 | openai | 61 |
 | leaderboard | 53 |
-| reddit | 43 |
+| reddit | 44 |
 
 ## Weekly Community Updates
 
-1. [Vote on which of Hacker News' challenges for AI have been met](../../ai/community/vote-on-which-of-hacker-news-challenges-for-ai-hav.md) ([Source](https://stoppels.ch/goalposts)) (HN Score: 121) - `ai/community`
-2. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
-3. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
-4. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
-5. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
-6. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
-7. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
-8. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
-9. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
-10. [google-t5/t5-small](../../ai/models/huggingface-google-t5-t5-small.md) ([Source](https://huggingface.co/google-t5/t5-small)) - `ai/models`
-11. [amazon/chronos-2](../../ai/models/huggingface-amazon-chronos-2.md) ([Source](https://huggingface.co/amazon/chronos-2)) - `ai/models`
-12. [m-a-p/FineFineWeb](../../ai/models/huggingface-datasets-m-a-p.md) ([Source](https://huggingface.co/datasets/m-a-p)) - `ai/models`
-13. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
-14. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
-15. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
-16. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
-17. [world-igr-plum/regions](../../ai/models/huggingface-datasets-world-igr-plum.md) ([Source](https://huggingface.co/datasets/world-igr-plum)) - `ai/models`
-18. [nmasi/era5](../../ai/models/huggingface-datasets-nmasi.md) ([Source](https://huggingface.co/datasets/nmasi)) - `ai/models`
-19. [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../../ai/models/huggingface-datasets-nvidia.md) ([Source](https://huggingface.co/datasets/nvidia)) - `ai/models`
-20. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
-21. [tasl-lab/uniocc](../../ai/agents/huggingface-datasets-tasl-lab.md) ([Source](https://huggingface.co/datasets/tasl-lab)) - `ai/agents`
+1. [Vote on which of Hacker News' challenges for AI have been met](../../ai/community/vote-on-which-of-hacker-news-challenges-for-ai-hav.md) ([Source](https://stoppels.ch/goalposts)) (HN Score: 176) - `ai/community`
+2. [m-a-p/FineFineWeb](../../ai/models/huggingface-datasets-m-a-p.md) ([Source](https://huggingface.co/datasets/m-a-p)) - `ai/models`
+3. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
+4. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
+5. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
+6. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
+7. [world-igr-plum/regions](../../ai/models/huggingface-datasets-world-igr-plum.md) ([Source](https://huggingface.co/datasets/world-igr-plum)) - `ai/models`
+8. [nmasi/era5](../../ai/models/huggingface-datasets-nmasi.md) ([Source](https://huggingface.co/datasets/nmasi)) - `ai/models`
+9. [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../../ai/models/huggingface-datasets-nvidia.md) ([Source](https://huggingface.co/datasets/nvidia)) - `ai/models`
+10. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
+11. [tasl-lab/uniocc](../../ai/agents/huggingface-datasets-tasl-lab.md) ([Source](https://huggingface.co/datasets/tasl-lab)) - `ai/agents`
+12. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
+13. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
+14. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
+15. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
+16. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
+17. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
+18. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
+19. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
+20. [google-t5/t5-small](../../ai/models/huggingface-google-t5-t5-small.md) ([Source](https://huggingface.co/google-t5/t5-small)) - `ai/models`
+21. [amazon/chronos-2](../../ai/models/huggingface-amazon-chronos-2.md) ([Source](https://huggingface.co/amazon/chronos-2)) - `ai/models`
 22. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
 23. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
 24. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
@@ -4375,52 +4375,56 @@ No updates collected under this section this week.
 
 ## Weekly Product Launches
 
-1. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
-2. [olegnazarov/rag-security-scanner](../../ai/rag/olegnazarov-rag-security-scanner.md) ([Source](https://github.com/olegnazarov/rag-security-scanner)) (Stars: 0, Language: Unknown) - `ai/rag`
-3. [patchy631/ai-engineering-hub](../../ai/rag/patchy631-ai-engineering-hub.md) ([Source](https://github.com/patchy631/ai-engineering-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
-4. [naver/bergen](../../ai/rag/naver-bergen.md) ([Source](https://github.com/naver/bergen)) (Stars: 0, Language: Unknown) - `ai/rag`
-5. [IntelLabs/fastRAG](../../ai/rag/intellabs-fastrag.md) ([Source](https://github.com/intellabs/fastrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-6. [krishnaik06/RAG-Tutorials](../../ai/rag/krishnaik06-rag-tutorials.md) ([Source](https://github.com/krishnaik06/rag-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
-7. [pixegami/langchain-rag-tutorial](../../ai/rag/pixegami-langchain-rag-tutorial.md) ([Source](https://github.com/pixegami/langchain-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-8. [vivy-yi/rag-tutorial](../../ai/rag/vivy-yi-rag-tutorial.md) ([Source](https://github.com/vivy-yi/rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-9. [DEEP-PolyU/LinearRAG](../../ai/rag/deep-polyu-linearrag.md) ([Source](https://github.com/deep-polyu/linearrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-10. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
-11. [techwithtim/Langflow-RAG-Tutorial](../../ai/rag/techwithtim-langflow-rag-tutorial.md) ([Source](https://github.com/techwithtim/langflow-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-12. [HKUDS/VideoRAG](../../ai/rag/hkuds-videorag.md) ([Source](https://github.com/hkuds/videorag)) (Stars: 0, Language: Unknown) - `ai/rag`
-13. [ajac-zero/example-rag-app](../../ai/rag/ajac-zero-example-rag-app.md) ([Source](https://github.com/ajac-zero/example-rag-app)) (Stars: 0, Language: Unknown) - `ai/rag`
-14. [langchain-ai/retrieval-agent-template](../../ai/rag/langchain-ai-retrieval-agent-template.md) ([Source](https://github.com/langchain-ai/retrieval-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-15. [NVIDIA/workbench-example-hybrid-rag](../../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([Source](https://github.com/nvidia/workbench-example-hybrid-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-16. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-17. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-18. [NirDiamant/RAG_Techniques](../../ai/rag/nirdiamant-rag-techniques.md) ([Source](https://github.com/nirdiamant/rag_techniques)) (Stars: 0, Language: Unknown) - `ai/rag`
-19. [activepieces/activepieces](../../ai/rag/activepieces-activepieces.md) ([Source](https://github.com/activepieces/activepieces)) (Stars: 0, Language: Unknown) - `ai/rag`
-20. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
-21. [freddy-schuetz/n8n-claw](../../ai/rag/freddy-schuetz-n8n-claw.md) ([Source](https://github.com/freddy-schuetz/n8n-claw)) (Stars: 0, Language: Unknown) - `ai/rag`
-22. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-23. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-24. [bojieli/ai-agent-book](../../ai/rag/bojieli-ai-agent-book.md) ([Source](https://github.com/bojieli/ai-agent-book)) (Stars: 0, Language: Unknown) - `ai/rag`
-25. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([Source](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
-26. [ghuntley/how-to-build-a-coding-agent](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md) ([Source](https://github.com/ghuntley/how-to-build-a-coding-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-27. [cmAIdx/headless-claude-automation-template](../../ai/agents/cmaidx-headless-claude-automation-template.md) ([Source](https://github.com/cmaidx/headless-claude-automation-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-28. [daimon111/daimon-template](../../ai/agents/daimon111-daimon-template.md) ([Source](https://github.com/daimon111/daimon-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-29. [PrimeIntellect-ai/prime-agent](../../ai/agents/primeintellect-ai-prime-agent.md) ([Source](https://github.com/primeintellect-ai/prime-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-30. [Senpi-ai/senpi-skills](../../ai/agents/senpi-ai-senpi-skills.md) ([Source](https://github.com/senpi-ai/senpi-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
-31. [agent0ai/agent-zero](../../ai/agents/agent0ai-agent-zero.md) ([Source](https://github.com/agent0ai/agent-zero)) (Stars: 0, Language: Unknown) - `ai/agents`
-32. [wassim249/fastapi-langgraph-agent-production-ready-template](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([Source](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-33. [shanraisshan/codex-cli-best-practice](../../ai/agents/shanraisshan-codex-cli-best-practice.md) ([Source](https://github.com/shanraisshan/codex-cli-best-practice)) (Stars: 0, Language: Unknown) - `ai/agents`
-34. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
-35. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
+1. [olegnazarov/rag-security-scanner](../../ai/rag/olegnazarov-rag-security-scanner.md) ([Source](https://github.com/olegnazarov/rag-security-scanner)) (Stars: 0, Language: Unknown) - `ai/rag`
+2. [naver/bergen](../../ai/rag/naver-bergen.md) ([Source](https://github.com/naver/bergen)) (Stars: 0, Language: Unknown) - `ai/rag`
+3. [IntelLabs/fastRAG](../../ai/rag/intellabs-fastrag.md) ([Source](https://github.com/intellabs/fastrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+4. [DEEP-PolyU/LinearRAG](../../ai/rag/deep-polyu-linearrag.md) ([Source](https://github.com/deep-polyu/linearrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+5. [HKUDS/VideoRAG](../../ai/rag/hkuds-videorag.md) ([Source](https://github.com/hkuds/videorag)) (Stars: 0, Language: Unknown) - `ai/rag`
+6. [ajac-zero/example-rag-app](../../ai/rag/ajac-zero-example-rag-app.md) ([Source](https://github.com/ajac-zero/example-rag-app)) (Stars: 0, Language: Unknown) - `ai/rag`
+7. [langchain-ai/retrieval-agent-template](../../ai/rag/langchain-ai-retrieval-agent-template.md) ([Source](https://github.com/langchain-ai/retrieval-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+8. [NVIDIA/workbench-example-hybrid-rag](../../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([Source](https://github.com/nvidia/workbench-example-hybrid-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+9. [activepieces/activepieces](../../ai/rag/activepieces-activepieces.md) ([Source](https://github.com/activepieces/activepieces)) (Stars: 0, Language: Unknown) - `ai/rag`
+10. [freddy-schuetz/n8n-claw](../../ai/rag/freddy-schuetz-n8n-claw.md) ([Source](https://github.com/freddy-schuetz/n8n-claw)) (Stars: 0, Language: Unknown) - `ai/rag`
+11. [bojieli/ai-agent-book](../../ai/rag/bojieli-ai-agent-book.md) ([Source](https://github.com/bojieli/ai-agent-book)) (Stars: 0, Language: Unknown) - `ai/rag`
+12. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([Source](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
+13. [ghuntley/how-to-build-a-coding-agent](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md) ([Source](https://github.com/ghuntley/how-to-build-a-coding-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+14. [cmAIdx/headless-claude-automation-template](../../ai/agents/cmaidx-headless-claude-automation-template.md) ([Source](https://github.com/cmaidx/headless-claude-automation-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+15. [daimon111/daimon-template](../../ai/agents/daimon111-daimon-template.md) ([Source](https://github.com/daimon111/daimon-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+16. [PrimeIntellect-ai/prime-agent](../../ai/agents/primeintellect-ai-prime-agent.md) ([Source](https://github.com/primeintellect-ai/prime-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+17. [Senpi-ai/senpi-skills](../../ai/agents/senpi-ai-senpi-skills.md) ([Source](https://github.com/senpi-ai/senpi-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
+18. [agent0ai/agent-zero](../../ai/agents/agent0ai-agent-zero.md) ([Source](https://github.com/agent0ai/agent-zero)) (Stars: 0, Language: Unknown) - `ai/agents`
+19. [wassim249/fastapi-langgraph-agent-production-ready-template](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([Source](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+20. [shanraisshan/codex-cli-best-practice](../../ai/agents/shanraisshan-codex-cli-best-practice.md) ([Source](https://github.com/shanraisshan/codex-cli-best-practice)) (Stars: 0, Language: Unknown) - `ai/agents`
+21. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
+22. [vercel-labs/ai-sdk-preview-rag](../../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([Source](https://github.com/vercel-labs/ai-sdk-preview-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+23. [patchy631/ai-engineering-hub](../../ai/rag/patchy631-ai-engineering-hub.md) ([Source](https://github.com/patchy631/ai-engineering-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
+24. [Azure/GenAIOps-project-template](../../ai/rag/azure-genaiops-project-template.md) ([Source](https://github.com/azure/genaiops-project-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+25. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+26. [krishnaik06/RAG-Tutorials](../../ai/rag/krishnaik06-rag-tutorials.md) ([Source](https://github.com/krishnaik06/rag-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
+27. [pixegami/langchain-rag-tutorial](../../ai/rag/pixegami-langchain-rag-tutorial.md) ([Source](https://github.com/pixegami/langchain-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
+28. [vivy-yi/rag-tutorial](../../ai/rag/vivy-yi-rag-tutorial.md) ([Source](https://github.com/vivy-yi/rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
+29. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+30. [techwithtim/Langflow-RAG-Tutorial](../../ai/rag/techwithtim-langflow-rag-tutorial.md) ([Source](https://github.com/techwithtim/langflow-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
+31. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
+32. [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](../../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md) ([Source](https://github.com/tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
+33. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+34. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+35. [NirDiamant/RAG_Techniques](../../ai/rag/nirdiamant-rag-techniques.md) ([Source](https://github.com/nirdiamant/rag_techniques)) (Stars: 0, Language: Unknown) - `ai/rag`
 36. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-37. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
-38. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+37. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
+38. [datawhalechina/hello-agents](../../ai/rag/datawhalechina-hello-agents.md) ([Source](https://github.com/datawhalechina/hello-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+39. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+40. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+41. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+42. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
-- [RAG](../../skills/rag.md) (2480 updates)
-- [Vector Databases](../../skills/vector-databases.md) (1055 updates)
+- [RAG](../../skills/rag.md) (2484 updates)
+- [Vector Databases](../../skills/vector-databases.md) (1059 updates)
 - [AI Agents](../../skills/ai-agents.md) (747 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (402 updates)
-- [Workflow Automation](../../skills/automation.md) (387 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (406 updates)
+- [Workflow Automation](../../skills/automation.md) (391 updates)
 - [LLMOps](../../skills/llmops.md) (276 updates)
 - [Local LLMs & Inference](../../skills/local-llm.md) (110 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (98 updates)
@@ -4434,4 +4438,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-10-02T11:39:06.728808+05:30
+2026-10-02T20:37:26.106551+05:30
