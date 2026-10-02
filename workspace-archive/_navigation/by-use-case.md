@@ -96,9 +96,9 @@ This index groups resources by direct developer use-cases and design goals.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap](https://arxiv.org/abs/2608.26111) (Category: `learning-paths` | [`Local File`](../../ai/rag/arxiv-2608-26111.md))
 - [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](https://arxiv.org/abs/2608.28649) (Category: `learning-paths` | [`Local File`](../../ai/rag/arxiv-2608-28649.md))
+- [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Category: `learning-paths` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Category: `learning-paths` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2508-04227.md))
-- [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (Category: `learning-paths` | [`Local File`](../../ai/agents/langchain-community-connect-learn-build-ai-agents.md))
 
 ---
-*Last updated: 2026-10-02 02:57 IST*
+*Last updated: 2026-10-02 11:40 IST*

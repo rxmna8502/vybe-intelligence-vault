@@ -84,10 +84,10 @@ This index groups curated resources by target developer skills.
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (Tier: `useful` | [`Local File`](../../ai/agents/openai-model-spec.md))
 - [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (Tier: `useful` | [`Local File`](../../ai/agents/features-copilot.md))
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (Tier: `useful` | [`Local File`](../../ai/agents/muhammadusmangm-claude-code-best-practices.md))
+- [Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks](https://arxiv.org/abs/2610.00084) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-00084.md))
 - [Seven Sources of Physical AI Capability Formation](https://arxiv.org/abs/2609.09627) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-09627.md))
 - [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (Tier: `useful` | [`Local File`](../../ai/rag/introducing-langsmith-context-hub.md))
 - [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2602-11988.md))
-- [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (Tier: `useful` | [`Local File`](../../ai/rag/introduction-wordpress-playground.md))
 
 ## Data Curation
 
@@ -315,21 +315,21 @@ This index groups curated resources by target developer skills.
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (Tier: `useful` | [`Local File`](../../ai/agents/openai-model-spec.md))
 - [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (Tier: `useful` | [`Local File`](../../ai/agents/features-copilot.md))
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (Tier: `useful` | [`Local File`](../../ai/agents/muhammadusmangm-claude-code-best-practices.md))
+- [Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks](https://arxiv.org/abs/2610.00084) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-00084.md))
 - [Seven Sources of Physical AI Capability Formation](https://arxiv.org/abs/2609.09627) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-09627.md))
 - [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (Tier: `useful` | [`Local File`](../../ai/rag/introducing-langsmith-context-hub.md))
 - [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2602-11988.md))
-- [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (Tier: `useful` | [`Local File`](../../ai/rag/introduction-wordpress-playground.md))
 
 ## Prompt Engineering
 
 - [Multimodal Language Models as Text-to-Image Model Evaluators](https://arxiv.org/abs/2505.00759) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-00759.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-04077.md))
+- [LLM-Assisted Discovery of Typed Semantic Links for Ontology Network Construction](https://arxiv.org/abs/2610.01393) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01393.md))
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18308.md))
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2605-30169.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
-- [ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning](https://arxiv.org/abs/2607.28647) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-28647.md))
 
 ## REST API Integration
 
@@ -347,11 +347,11 @@ This index groups curated resources by target developer skills.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
+- [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/jnsahaj-tweakcn.md))
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md))
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-ui.md))
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md))
-- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-next-template.md))
 
 ## Regression Testing
 
@@ -381,10 +381,10 @@ This index groups curated resources by target developer skills.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap](https://arxiv.org/abs/2608.26111) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-26111.md))
 - [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](https://arxiv.org/abs/2608.28649) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-28649.md))
+- [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Tier: `useful` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2508-04227.md))
 - [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (Tier: `useful` | [`Local File`](../../ai/agents/langchain-community-connect-learn-build-ai-agents.md))
-- [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2507-16696.md))
 
 ## SaaS Architectures
 
@@ -457,22 +457,22 @@ This index groups curated resources by target developer skills.
 - [Multimodal Language Models as Text-to-Image Model Evaluators](https://arxiv.org/abs/2505.00759) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-00759.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-04077.md))
+- [LLM-Assisted Discovery of Typed Semantic Links for Ontology Network Construction](https://arxiv.org/abs/2610.01393) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01393.md))
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-18308.md))
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2605-30169.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
-- [ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning](https://arxiv.org/abs/2607.28647) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-28647.md))
 
 ## TailwindCSS
 
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
+- [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/jnsahaj-tweakcn.md))
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md))
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-ui.md))
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md))
-- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-next-template.md))
 
 ## Three.js
 
@@ -501,11 +501,11 @@ This index groups curated resources by target developer skills.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
+- [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/jnsahaj-tweakcn.md))
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md))
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-ui.md))
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md))
-- [shadcn-ui/next-template](https://github.com/shadcn-ui/next-template) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-next-template.md))
 
 ## Vector Indexes
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-10-02 02:57 IST*
+*Last updated: 2026-10-02 11:40 IST*

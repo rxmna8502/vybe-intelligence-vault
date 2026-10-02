@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:openid-foundation-identity-management-for-agentic
 first_seen: '2026-10-01T21:04:04.464789+05:30'
 last_seen: '2026-10-02T02:38:10.432149+05:30'
 last_checked: '2026-10-02T02:38:10.432149+05:30'
 health_score: 100
 ---
+
 
 # Identity Management for Agentic AI [pdf] (2025)
 

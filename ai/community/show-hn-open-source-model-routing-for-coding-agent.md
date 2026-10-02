@@ -13,13 +13,14 @@ collected_at: '2026-10-02T02:38:09.268700+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-open-source-model-routing-for-coding-agent
 first_seen: '2026-10-02T02:38:09.268700+05:30'
 last_seen: '2026-10-02T02:38:09.268700+05:30'
 last_checked: '2026-10-02T02:38:09.268700+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Open-source model routing for coding agents at Astra-level performance
 

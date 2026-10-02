@@ -12,10 +12,10 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 - [model_spec/CHANGELOG.md at main · openai/model_spec · GitHub](https://github.com/openai/model_spec/blob/main/CHANGELOG.md) (prompt - USEFUL Tier)
 - [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (mcp-server - USEFUL Tier)
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
+- [Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks](https://arxiv.org/abs/2610.00084) (prompt - USEFUL Tier)
 - [Seven Sources of Physical AI Capability Formation](https://arxiv.org/abs/2609.09627) (framework - USEFUL Tier)
 - [Introducing LangSmith Context Hub](https://www.langchain.com/blog/introducing-context-hub) (framework - USEFUL Tier)
 - [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) (framework - USEFUL Tier)
-- [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -41,4 +41,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-10-02 02:55 IST*
+*Last updated: 2026-10-02 11:39 IST*
