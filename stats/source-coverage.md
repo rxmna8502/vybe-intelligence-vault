@@ -6,10 +6,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 30047 |
 | github | 1017 |
-| huggingface | 924 |
+| huggingface | 925 |
 | nextjs.org | 80 |
 | semanticscholar.org | 68 |
-| youtube | 67 |
+| youtube | 66 |
 | support.google.com | 59 |
 | react.dev | 25 |
 | developers.google.com | 23 |
@@ -166,7 +166,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-| arstechnica.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -304,8 +303,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| dwarfstar.sh | 1 |
-| neowin.net | 1 |
+| fortune.com | 1 |
+| theguardian.com | 1 |
+| liao.gg | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -414,6 +414,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | parsintl.com | 1 |
 | cursor.com | 1 |
 | archive.org | 1 |
+| arstechnica.com | 1 |
 | httparchive.org | 1 |
 | alphaxiv.org | 1 |
 | jupyterlab.rtfd.io | 1 |

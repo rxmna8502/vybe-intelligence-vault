@@ -13,13 +13,14 @@ collected_at: '2026-10-04T00:49:01.493253+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:with-most-information-hidden-the-game-stratego-had
 first_seen: '2026-10-03T02:22:01.571353+05:30'
 last_seen: '2026-10-04T00:49:01.493253+05:30'
 last_checked: '2026-10-04T00:49:01.493253+05:30'
 health_score: 100
 ---
+
 
 # With most information hidden, the game Stratego had stumped AI until now
 

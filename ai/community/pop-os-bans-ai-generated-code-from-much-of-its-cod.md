@@ -13,13 +13,14 @@ collected_at: '2026-10-04T00:48:58.314784+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pop-os-bans-ai-generated-code-from-much-of-its-cod
 first_seen: '2026-10-04T00:48:58.314784+05:30'
 last_seen: '2026-10-04T00:48:58.314784+05:30'
 last_checked: '2026-10-04T00:48:58.314784+05:30'
 health_score: 100
 ---
+
 
 # Pop!_OS bans AI-generated code from much of its codebase
 

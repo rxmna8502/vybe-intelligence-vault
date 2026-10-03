@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - youtube
-status: active
+status: inactive
 resource_id: youtube:NnV_cWeoo5Q
 first_seen: '2026-10-03T02:22:01.424197+05:30'
 last_seen: '2026-10-04T00:49:01.210646+05:30'
 last_checked: '2026-10-04T00:49:01.210646+05:30'
 health_score: 100
 ---
+
 
 # Greg Kroah-Hartman – Security in the LLM Age [video]
 

@@ -4,9 +4,8 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `Tooling/` | 1 |
-| `ai/agents/` | 5266 |
-| `ai/community/` | 6 |
+| `ai/agents/` | 5267 |
+| `ai/community/` | 5 |
 | `ai/companies/` | 10 |
 | `ai/companies/anthropic/` | 10 |
 | `ai/companies/deepmind/` | 5 |
@@ -28,6 +27,7 @@ Below is the file distribution across the vault categories.
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
+| `world/public/vault/daily-digests/2026-10-03/` | 1 |
 
 ## Categories Needing More Coverage
 

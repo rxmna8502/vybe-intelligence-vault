@@ -720,6 +720,7 @@ Resources organized by keyword tags.
   - [Agents That Model Agents: Five Principles Toward a Theory of Mind for 6G Networks](../ai/agents/arxiv-2609-01779.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Agents Trust Tools Too Much: Measuring Reliance on Unreliable Tools](../ai/agents/arxiv-2609-05587.md)
+  - [Agents don't need memory, they need documentation](../ai/community/agents-don-t-need-memory-they-need-documentation.md)
   - [Agents in the Wild: Where Research Meets Deployment](../ai/agents/arxiv-2607-19336.md)
   - [Agents unlock new capabilities through Switching LoRA Adapters as a Tool (SLAaaT)](../ai/agents/arxiv-2608-17034.md)
   - [Agents' Last Exam](../ai/rag/arxiv-2606-05405.md)
@@ -6456,6 +6457,7 @@ Resources organized by keyword tags.
   - [The Age of AI Agents Demands A New Scientific Paradigm To Sustain Trustworthy Science](../ai/agents/arxiv-2607-26064.md)
   - [The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures](../ai/agents/arxiv-2609-11030.md)
   - [The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems](../ai/agents/arxiv-2608-03214.md)
+  - [The Agent Said It Was Done. The Database Disagreed.](../ai/agents/huggingface-blog-microsoft-thinkingbox.md)
   - [The Agent Skills Directory](../ai/agents/the-agent-skills-directory.md)
   - [The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment](../ai/agents/arxiv-2609-13334.md)
   - [The Algorithm Is Not the Behavior: Learned Priors Override Look-Ahead in a Chess-Playing Neural Network](../ai/agents/arxiv-2508-21380.md)
@@ -7780,8 +7782,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Pop!_OS bans AI-generated code from much of its codebase](../ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md)
-  - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
+  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
+  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
 
 ## animation
 
@@ -8222,6 +8224,7 @@ Resources organized by keyword tags.
   - [Langfuse](../ai/rag/langfuse.md)
   - [Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](../ai/research/arxiv-2607-06963.md)
   - [Large Language Models for Code Generation from Multilingual Prompts: A Curated Benchmark and a Study on Code Quality](../ai/research/arxiv-2607-14816.md)
+  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
   - [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../ai/rag/arxiv-2605-20244.md)
   - [Learning Path Resources - Analytics Vidhya](../ai/rag/learning-path-resources-analytics-vidhya.md)
   - [Learning to reason with LLMs | OpenAI](../ai/rag/learning-to-reason-with-llms-openai.md)
@@ -17361,7 +17364,6 @@ Resources organized by keyword tags.
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -31674,6 +31676,7 @@ Resources organized by keyword tags.
   - [AgenticData: An Agentic Data Analytics System for Heterogeneous Data](../ai/agents/arxiv-2508-05002.md)
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
+  - [Agents don't need memory, they need documentation](../ai/community/agents-don-t-need-memory-they-need-documentation.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
   - [Ajar: Measuring Open Privilege in Agent Defenses](../ai/agents/arxiv-2609-26900.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
@@ -32823,7 +32826,6 @@ Resources organized by keyword tags.
   - [From Vessel Trajectories to Safety-Critical Encounter Scenarios: A Generative AI Framework for Autonomous Ship Digital Testing](../ai/agents/arxiv-2603-28067.md)
   - [From Visual Attribution to Clinical Reasoning: Explainable Parkinson's Disease Screening from Hand-Drawn Patterns](../ai/research/arxiv-2609-14441.md)
   - [From a River in Gilead to the Inference Distributions of Large Language Models: Covert Dialect Bias and Linguistic Profiling at Scale](../ai/research/arxiv-2609-18068.md)
-  - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
   - [Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change](../ai/agents/arxiv-2609-36739.md)
   - [Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction](../ai/research/arxiv-2608-01202.md)
   - [Fruitful Code · GitHub](../ai/resources/fruitful-code-github.md)
@@ -33026,7 +33028,6 @@ Resources organized by keyword tags.
   - [Green Screen Coalition](../ai/resources/green-screen-coalition.md)
   - [Green Screen Coalition · GitLab](../ai/rag/green-screen-coalition-gitlab.md)
   - [Green Software Foundation — Building a Sustainable Digital Future](../ai/rag/green-software-foundation-building-a-sustainable-d.md)
-  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
   - [Grep, Embeddings, or Both? Building the Retrieval Harness for Enterprise Agents](../ai/rag/grep-embeddings-or-both-building-the-retrieval-har.md)
   - [Gromov-Wasserstein Quantization and Clustering: Structure, Rates, and Algorithms](../ai/research/arxiv-2608-11016.md)
   - [Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs](../ai/rag/arxiv-2608-26069.md)
@@ -33411,6 +33412,7 @@ Resources organized by keyword tags.
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
+  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
   - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius - The JetBrains Blog](../ai/agents/learn-ai-assisted-programming-with-junie-free-cour.md)
@@ -33900,6 +33902,7 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
+  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -34034,7 +34037,6 @@ Resources organized by keyword tags.
   - [PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](../ai/rag/arxiv-2607-08269.md)
   - [Polynomial-Augmented Neural Networks (PANNs) with Weak Orthogonality Constraints for Enhanced Function and PDE Approximation](../ai/research/arxiv-2406-02336.md)
   - [Polynomial-Time Mistake-Bounded Language Generation](../ai/research/arxiv-2606-16077.md)
-  - [Pop!_OS bans AI-generated code from much of its codebase](../ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md)
   - [Posit Community](../ai/resources/posit-community.md)
   - [Posit Open Source](../ai/rag/posit-open-source.md)
   - [Posit Support](../ai/rag/posit-support.md)
@@ -35241,7 +35243,6 @@ Resources organized by keyword tags.
   - [Wikimedia Foundation/Organizational chart - Meta-Wiki](../ai/rag/wikimedia-foundation-organizational-chart-meta-wik.md)
   - [Wikimedia Projects – Wikimedia Foundation](../ai/rag/wikimedia-projects-wikimedia-foundation.md)
   - [Wikitech](../ai/resources/wikitech.md)
-  - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
   - [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](../ai/research/arxiv-2608-17017.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
@@ -35311,7 +35312,6 @@ Resources organized by keyword tags.
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
-  - [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md)
   - [aiwaves-cn/agents](../ai/rag/aiwaves-cn-agents.md)
   - [akaxlh/MB-GMN](../ai/rag/akaxlh-mb-gmn.md)
   - [alexfazio/crewAI-quickstart](../ai/agents/alexfazio-crewai-quickstart.md)
@@ -35355,7 +35355,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -36159,11 +36158,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
-  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
 
 ## mdx
 
@@ -41646,7 +41640,6 @@ Resources organized by keyword tags.
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patch the Distribution Mismatch: RL Rewriting Agent for Stable Off-Policy SFT](../ai/agents/arxiv-2602-11220.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -44570,6 +44563,7 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
+  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
@@ -69790,7 +69784,6 @@ Resources organized by keyword tags.
   - [activepieces/activepieces](../ai/rag/activepieces-activepieces.md)
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [agentuniverse-ai/agentUniverse](../ai/rag/agentuniverse-ai-agentuniverse.md)
-  - [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md)
   - [alexfazio/crewAI-quickstart](../ai/agents/alexfazio-crewai-quickstart.md)
   - [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md)
   - [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md)
@@ -69864,7 +69857,6 @@ Resources organized by keyword tags.
   - [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md)
   - [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md)
   - [langchain-ai/langgraphjs](../ai/rag/langchain-ai-langgraphjs.md)
-  - [langchain-ai/new-langgraphjs-project](../ai/agents/langchain-ai-new-langgraphjs-project.md)
   - [langchain-ai/open-swe](../ai/agents/langchain-ai-open-swe.md)
   - [langchain-ai/react-agent](../ai/agents/langchain-ai-react-agent.md)
   - [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md)
@@ -71217,7 +71209,6 @@ Resources organized by keyword tags.
   - [Graphics Processing Unit (GPU) - PlayStation Specifications - psx-spx](../ai/rag/graphics-processing-unit-gpu-playstation-specifica.md)
   - [Gravitee.io Community - Ask & learn on API Gateway, API Management, Event Streaming & Agent Mesh](../ai/agents/gravitee-io-community-ask-learn-on-api-gateway-api.md)
   - [Grecu Partners - Grecu Partners](../ai/rag/grecu-partners-grecu-partners.md)
-  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
   - [Grep, Embeddings, or Both? Building the Retrieval Harness for Enterprise Agents](../ai/rag/grep-embeddings-or-both-building-the-retrieval-har.md)
   - [Grid by Example](../ai/resources/grid-by-example.md)
   - [GroundShot: Visually Consistent Multi-Shot Long Video Generation via Entity-Grounded Shot Scheduling](../ai/agents/arxiv-2606-20799.md)
@@ -73194,4 +73185,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-04T01:05:10.321804+05:30*
+*Index generated on 2026-10-04T04:56:32.487089+05:30*

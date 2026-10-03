@@ -13,13 +13,14 @@ collected_at: '2026-10-04T00:49:01.354459+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:from-the-creator-of-redis-run-llm-locally-with-ds4
 first_seen: '2026-10-03T02:22:01.780496+05:30'
 last_seen: '2026-10-04T00:49:01.354459+05:30'
 last_checked: '2026-10-04T00:49:01.354459+05:30'
 health_score: 100
 ---
+
 
 # From the creator of Redis; run LLM locally with ds4
 

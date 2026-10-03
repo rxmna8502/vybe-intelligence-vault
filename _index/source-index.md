@@ -30932,10 +30932,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
-  - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
-  - [Pop!_OS bans AI-generated code from much of its codebase](../ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md)
-  - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
+  - [Agents don't need memory, they need documentation](../ai/community/agents-don-t-need-memory-they-need-documentation.md)
+  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
+  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31662,6 +31661,7 @@ Resources organized by publisher feed and query sources.
   - [The 5 Most Under-Rated Tools on Hugging Face](../ai/models/huggingface-blog-unsung-heroes.md)
   - [The AI tools for Art Newsletter - Issue 1](../ai/models/huggingface-blog-ai-art-newsletter-jan-25.md)
   - [The Age of Machine Learning As Code Has Arrived](../ai/models/huggingface-blog-the-age-of-ml-as-code.md)
+  - [The Agent Said It Was Done. The Database Disagreed.](../ai/agents/huggingface-blog-microsoft-thinkingbox.md)
   - [The Annotated Diffusion Model](../ai/models/huggingface-blog-annotated-diffusion.md)
   - [The Falcon has landed in the Hugging Face ecosystem](../ai/models/huggingface-blog-falcon.md)
   - [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment-blog-3.md)
@@ -34811,4 +34811,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-04T01:05:10.622158+05:30*
+*Index generated on 2026-10-04T04:56:32.768163+05:30*
