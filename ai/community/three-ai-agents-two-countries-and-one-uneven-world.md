@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:three-ai-agents-two-countries-and-one-uneven-world
 first_seen: '2026-10-03T02:22:03.744023+05:30'
 last_seen: '2026-10-03T02:22:03.744023+05:30'
 last_checked: '2026-10-03T02:22:03.744023+05:30'
 health_score: 100
 ---
+
 
 # Three AI agents, two countries, and one uneven world wide web
 

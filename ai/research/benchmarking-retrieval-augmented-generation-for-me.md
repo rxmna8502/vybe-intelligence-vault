@@ -5,16 +5,16 @@ source_type: research
 source_name: Semantic Scholar AI
 source_url: https://semanticscholar.org/paper/b798cf6af813638fab09a8af6ad0f3df6c241485
 authors:
-- Guangzhi Xiong
+- Guang-Zhi Xiong
 - Qiao Jin
-- Zhiyong Lu
-- Aidong Zhang
+- Zhi-Yong Lu
+- Ai-Dong Zhang
 year: 2024
-citation_count: 631
+citation_count: 653
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-09-19T18:06:14.594164+05:30'
+collected_at: '2026-10-03T10:58:28.396551+05:30'
 tags:
 - augmented
 - benchmark
@@ -30,8 +30,8 @@ tags:
 status: active
 resource_id: blog:benchmarking-retrieval-augmented-generation-for-me
 first_seen: '2026-07-19T16:15:03.003841+05:30'
-last_seen: '2026-09-19T18:06:14.594164+05:30'
-last_checked: '2026-09-19T18:06:14.594164+05:30'
+last_seen: '2026-10-03T10:58:28.396551+05:30'
+last_checked: '2026-10-03T10:58:28.396551+05:30'
 health_score: 100
 ---
 
@@ -47,9 +47,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Guangzhi Xiong, Qiao Jin, Zhiyong Lu, Aidong Zhang
+- Authors: Guang-Zhi Xiong, Qiao Jin, Zhi-Yong Lu, Ai-Dong Zhang
 - Publication Year: 2024
-- Citation Count: 631
+- Citation Count: 653
 - Paper Link: https://semanticscholar.org/paper/b798cf6af813638fab09a8af6ad0f3df6c241485
 - Code Link: None
 - Code Stars: N/A

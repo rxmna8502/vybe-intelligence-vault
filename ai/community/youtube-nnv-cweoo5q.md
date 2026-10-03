@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://youtube.com/watch?v=NnV_cWeoo5Q
 hn_url: https://news.ycombinator.com/item?id=49929391
-score: 100
+score: 209
 author: usernomdeguerre
-comments_count: 19
+comments_count: 54
 published_at: '2026-10-02T08:21:27+05:30'
-collected_at: '2026-10-03T02:22:01.424197+05:30'
+collected_at: '2026-10-03T10:58:29.975181+05:30'
 tags:
 - hackernews
 - llm
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: youtube:NnV_cWeoo5Q
 first_seen: '2026-10-03T02:22:01.424197+05:30'
-last_seen: '2026-10-03T02:22:01.424197+05:30'
-last_checked: '2026-10-03T02:22:01.424197+05:30'
+last_seen: '2026-10-03T10:58:29.975181+05:30'
+last_checked: '2026-10-03T10:58:29.975181+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by usernomdeguerre. Score: 100, Comments: 19.
+Hacker News story by usernomdeguerre. Score: 209, Comments: 54.
 Original Link: https://www.youtube.com/watch?v=NnV_cWeoo5Q
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: usernomdeguerre
-- Score: 100 Upvotes
-- Comments: 19 Discussions
+- Score: 209 Upvotes
+- Comments: 54 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49929391
 - Original Article: https://youtube.com/watch?v=NnV_cWeoo5Q
 

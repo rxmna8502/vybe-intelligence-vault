@@ -15,11 +15,11 @@ authors:
 - Xavier Bresson
 - Bryan Hooi
 year: 2024
-citation_count: 360
+citation_count: 377
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-09-19T18:06:14.594210+05:30'
+collected_at: '2026-10-03T10:58:28.396595+05:30'
 tags:
 - augmented
 - benchmark
@@ -32,8 +32,8 @@ tags:
 status: active
 resource_id: blog:g-retriever-retrieval-augmented-generation-for-tex
 first_seen: '2026-07-19T16:15:03.003899+05:30'
-last_seen: '2026-09-19T18:06:14.594210+05:30'
-last_checked: '2026-09-19T18:06:14.594210+05:30'
+last_seen: '2026-10-03T10:58:28.396595+05:30'
+last_checked: '2026-10-03T10:58:28.396595+05:30'
 health_score: 100
 ---
 
@@ -51,7 +51,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Xiao-Xin He, Yijun Tian, Yifei Sun, N. Chawla, T. Laurent, Yann LeCun, Xavier Bresson, Bryan Hooi
 - Publication Year: 2024
-- Citation Count: 360
+- Citation Count: 377
 - Paper Link: https://semanticscholar.org/paper/a41d4a3b005c8ec4f821e6ee96672d930ca9596c
 - Code Link: None
 - Code Stars: N/A

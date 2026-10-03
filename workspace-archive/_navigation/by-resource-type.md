@@ -87,8 +87,8 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [coleam00/pydantic-ai-github-agent](https://github.com/coleam00/pydantic-ai-github-agent) (Tier: `essential` | [`Local File`](../../ai/agents/coleam00-pydantic-ai-github-agent.md))
 - [CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention](https://arxiv.org/abs/2606.27229) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-27229.md))
 - [Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models](https://arxiv.org/abs/2609.09925) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2609-09925.md))
+- [FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law](https://arxiv.org/abs/2610.00009) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-00009.md))
 - [CARVE: Content-Aware Recurrent with Value Efficiency for Chunk-Parallel Linear Attention](https://arxiv.org/abs/2606.27229) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-27229.md))
-- [A Glimpse into Long-term Physical Coexistence with Intelligent Robots](https://arxiv.org/abs/2607.11377) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-11377.md))
 - [A Glimpse into Long-term Physical Coexistence with Intelligent Robots](https://arxiv.org/abs/2607.11377) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-11377.md))
 
 ## PROMPT
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-10-03 02:41 IST*
+*Last updated: 2026-10-03 11:20 IST*

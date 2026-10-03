@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://bigthink.com/books/a-fabulous-debt
 hn_url: https://news.ycombinator.com/item?id=49933230
-score: 39
+score: 95
 author: RickJWagner
-comments_count: 6
+comments_count: 29
 published_at: '2026-10-02T18:47:47+05:30'
-collected_at: '2026-10-03T02:22:02.253919+05:30'
+collected_at: '2026-10-03T10:58:31.496045+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:venices-failed-war-against-constantinople-led-to-t
 first_seen: '2026-10-03T02:22:02.253919+05:30'
-last_seen: '2026-10-03T02:22:02.253919+05:30'
-last_checked: '2026-10-03T02:22:02.253919+05:30'
+last_seen: '2026-10-03T10:58:31.496045+05:30'
+last_checked: '2026-10-03T10:58:31.496045+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by RickJWagner. Score: 39, Comments: 6.
+Hacker News story by RickJWagner. Score: 95, Comments: 29.
 Original Link: https://bigthink.com/books/a-fabulous-debt/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: RickJWagner
-- Score: 39 Upvotes
-- Comments: 6 Discussions
+- Score: 95 Upvotes
+- Comments: 29 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49933230
 - Original Article: https://bigthink.com/books/a-fabulous-debt
 

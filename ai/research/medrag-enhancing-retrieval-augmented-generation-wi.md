@@ -9,13 +9,13 @@ authors:
 - Xuejiao Zhao
 - Siyan Liu
 - Su-Yin Yang
-- Chunyan Miao
+- Chun-Yan Miao
 year: 2025
-citation_count: 201
+citation_count: 207
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-09-19T18:06:14.594283+05:30'
+collected_at: '2026-10-03T10:58:28.396682+05:30'
 tags:
 - augmented
 - dataset
@@ -28,8 +28,8 @@ tags:
 status: active
 resource_id: blog:medrag-enhancing-retrieval-augmented-generation-wi
 first_seen: '2026-07-19T16:15:03.003926+05:30'
-last_seen: '2026-09-19T18:06:14.594283+05:30'
-last_checked: '2026-09-19T18:06:14.594283+05:30'
+last_seen: '2026-10-03T10:58:28.396682+05:30'
+last_checked: '2026-10-03T10:58:28.396682+05:30'
 health_score: 100
 ---
 
@@ -45,9 +45,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Xuejiao Zhao, Siyan Liu, Su-Yin Yang, Chunyan Miao
+- Authors: Xuejiao Zhao, Siyan Liu, Su-Yin Yang, Chun-Yan Miao
 - Publication Year: 2025
-- Citation Count: 201
+- Citation Count: 207
 - Paper Link: https://semanticscholar.org/paper/da83852315c884c73dc527a4b7bc1209fbb037c3
 - Code Link: None
 - Code Stars: N/A

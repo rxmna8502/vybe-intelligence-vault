@@ -8,11 +8,11 @@ authors:
 - Yixuan Tang
 - Yi Yang
 year: 2024
-citation_count: 326
+citation_count: 335
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-09-19T18:06:14.594222+05:30'
+collected_at: '2026-10-03T10:58:28.396608+05:30'
 tags:
 - augmented
 - benchmark
@@ -28,8 +28,8 @@ tags:
 status: active
 resource_id: blog:multihop-rag-benchmarking-retrieval-augmented-gene
 first_seen: '2026-07-19T16:15:03.003880+05:30'
-last_seen: '2026-09-19T18:06:14.594222+05:30'
-last_checked: '2026-09-19T18:06:14.594222+05:30'
+last_seen: '2026-10-03T10:58:28.396608+05:30'
+last_checked: '2026-10-03T10:58:28.396608+05:30'
 health_score: 100
 ---
 
@@ -47,7 +47,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Yixuan Tang, Yi Yang
 - Publication Year: 2024
-- Citation Count: 326
+- Citation Count: 335
 - Paper Link: https://semanticscholar.org/paper/4e71624e90960cb003e311a0fe3b8be4c2863239
 - Code Link: None
 - Code Stars: N/A

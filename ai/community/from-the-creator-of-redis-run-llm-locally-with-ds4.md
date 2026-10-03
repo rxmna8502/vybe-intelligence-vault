@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://dwarfstar.sh
 hn_url: https://news.ycombinator.com/item?id=49936575
-score: 56
+score: 197
 author: fibo
-comments_count: 5
+comments_count: 56
 published_at: '2026-10-02T23:31:16+05:30'
-collected_at: '2026-10-03T02:22:01.780496+05:30'
+collected_at: '2026-10-03T10:58:29.720420+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:from-the-creator-of-redis-run-llm-locally-with-ds4
 first_seen: '2026-10-03T02:22:01.780496+05:30'
-last_seen: '2026-10-03T02:22:01.780496+05:30'
-last_checked: '2026-10-03T02:22:01.780496+05:30'
+last_seen: '2026-10-03T10:58:29.720420+05:30'
+last_checked: '2026-10-03T10:58:29.720420+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by fibo. Score: 56, Comments: 5.
+Hacker News story by fibo. Score: 197, Comments: 56.
 Original Link: https://dwarfstar.sh/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: fibo
-- Score: 56 Upvotes
-- Comments: 5 Discussions
+- Score: 197 Upvotes
+- Comments: 56 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49936575
 - Original Article: https://dwarfstar.sh
 

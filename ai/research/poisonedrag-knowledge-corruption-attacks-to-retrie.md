@@ -9,13 +9,13 @@ authors:
 - Wei Zou
 - Runpeng Geng
 - Binghui Wang
-- Jinyuan Jia
+- Jin-Yuan Jia
 year: 2024
-citation_count: 322
+citation_count: 345
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-09-19T18:06:14.594195+05:30'
+collected_at: '2026-10-03T10:58:28.396576+05:30'
 tags:
 - augmented
 - generation
@@ -27,8 +27,8 @@ tags:
 status: active
 resource_id: blog:poisonedrag-knowledge-corruption-attacks-to-retrie
 first_seen: '2026-07-19T16:15:03.003867+05:30'
-last_seen: '2026-09-19T18:06:14.594195+05:30'
-last_checked: '2026-09-19T18:06:14.594195+05:30'
+last_seen: '2026-10-03T10:58:28.396576+05:30'
+last_checked: '2026-10-03T10:58:28.396576+05:30'
 health_score: 100
 ---
 
@@ -44,9 +44,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Wei Zou, Runpeng Geng, Binghui Wang, Jinyuan Jia
+- Authors: Wei Zou, Runpeng Geng, Binghui Wang, Jin-Yuan Jia
 - Publication Year: 2024
-- Citation Count: 322
+- Citation Count: 345
 - Paper Link: https://semanticscholar.org/paper/f4e06256ab07727ff4e0465deea83fcf45012354
 - Code Link: None
 - Code Stars: N/A

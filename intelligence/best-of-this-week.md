@@ -13,11 +13,11 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](https://firecrawl.dev/blog) (Score: 70) - Category: `ai-coding-agents/`
 *   [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) (Score: 70) - Category: `ai-coding-agents/`
 *   [CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430) (Score: 70) - Category: `ai-coding-agents/`
-*   [ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback](https://arxiv.org/abs/2607.22465) (Score: 70) - Category: `ai-coding-agents/`
 *   [Kangsan Kim - Homepage](https://kangsankim07.github.io) (Score: 70) - Category: `ai-coding-agents/`
 *   [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Score: 70) - Category: `ai-coding-agents/`
 *   [Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140) (Score: 70) - Category: `ai-coding-agents/`
 *   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
 *   [RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests](https://arxiv.org/abs/2608.27831) (Score: 70) - Category: `ai-coding-agents/`
+*   [Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs](https://arxiv.org/abs/2608.16391) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

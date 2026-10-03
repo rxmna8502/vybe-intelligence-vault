@@ -6,24 +6,24 @@ source_type: research
 source_name: Semantic Scholar AI
 source_url: https://semanticscholar.org/paper/f9aae0a851d4c58eebad0f48d4324f1bdb7232d4
 authors:
-- Haoran Luo
+- Hao-Ran Luo
 - E. Haihong
-- Guanting Chen
-- Yandan Zheng
-- Xiaobao Wu
+- Guan-Ting Chen
+- Yan-Dan Zheng
+- Xiao-Bao Wu
 - Yikai Guo
-- Qika Lin
+- Qi-Ka Lin
 - Yu Feng
 - Ze-min Kuang
 - Meina Song
 - Yifan Zhu
-- Anh Tuan Luu
+- A. Lưu
 year: 2025
-citation_count: 75
+citation_count: 80
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-09-19T18:06:14.594302+05:30'
+collected_at: '2026-10-03T10:58:28.396717+05:30'
 tags:
 - augmented
 - generation
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:hypergraphrag-retrieval-augmented-generation-via-h
 first_seen: '2026-07-19T16:15:03.004015+05:30'
-last_seen: '2026-09-19T18:06:14.594302+05:30'
-last_checked: '2026-09-19T18:06:14.594302+05:30'
+last_seen: '2026-10-03T10:58:28.396717+05:30'
+last_checked: '2026-10-03T10:58:28.396717+05:30'
 health_score: 100
 ---
 
@@ -51,9 +51,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Haoran Luo, E. Haihong, Guanting Chen, Yandan Zheng, Xiaobao Wu, Yikai Guo, Qika Lin, Yu Feng, Ze-min Kuang, Meina Song, Yifan Zhu, Anh Tuan Luu
+- Authors: Hao-Ran Luo, E. Haihong, Guan-Ting Chen, Yan-Dan Zheng, Xiao-Bao Wu, Yikai Guo, Qi-Ka Lin, Yu Feng, Ze-min Kuang, Meina Song, Yifan Zhu, A. Lưu
 - Publication Year: 2025
-- Citation Count: 75
+- Citation Count: 80
 - Paper Link: https://semanticscholar.org/paper/f9aae0a851d4c58eebad0f48d4324f1bdb7232d4
 - Code Link: None
 - Code Stars: N/A

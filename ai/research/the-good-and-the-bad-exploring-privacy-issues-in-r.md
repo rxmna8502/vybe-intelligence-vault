@@ -6,23 +6,23 @@ source_type: research
 source_name: Semantic Scholar AI
 source_url: https://semanticscholar.org/paper/ea89b058ce619ed16d4de633126b02a8179457c8
 authors:
-- Shenglai Zeng
+- Sheng-Lai Zeng
 - Jiankun Zhang
 - Peng-Fei He
 - Yue Xing
 - Yiding Liu
 - Han Xu
 - Jie Ren
-- Shuaiqiang Wang
-- Dawei Yin
+- Shuai-Qiang Wang
+- Da-Wei Yin
 - Yi Chang
-- Jiliang Tang
+- Ji-Liang Tang
 year: 2024
-citation_count: 255
+citation_count: 264
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-09-19T18:06:14.594264+05:30'
+collected_at: '2026-10-03T10:58:28.396659+05:30'
 tags:
 - augmented
 - generation
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:the-good-and-the-bad-exploring-privacy-issues-in-r
 first_seen: '2026-07-19T16:15:03.004028+05:30'
-last_seen: '2026-09-19T18:06:14.594264+05:30'
-last_checked: '2026-09-19T18:06:14.594264+05:30'
+last_seen: '2026-10-03T10:58:28.396659+05:30'
+last_checked: '2026-10-03T10:58:28.396659+05:30'
 health_score: 100
 ---
 
@@ -51,9 +51,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Shenglai Zeng, Jiankun Zhang, Peng-Fei He, Yue Xing, Yiding Liu, Han Xu, Jie Ren, Shuaiqiang Wang, Dawei Yin, Yi Chang, Jiliang Tang
+- Authors: Sheng-Lai Zeng, Jiankun Zhang, Peng-Fei He, Yue Xing, Yiding Liu, Han Xu, Jie Ren, Shuai-Qiang Wang, Da-Wei Yin, Yi Chang, Ji-Liang Tang
 - Publication Year: 2024
-- Citation Count: 255
+- Citation Count: 264
 - Paper Link: https://semanticscholar.org/paper/ea89b058ce619ed16d4de633126b02a8179457c8
 - Code Link: None
 - Code Stars: N/A
