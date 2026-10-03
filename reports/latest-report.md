@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-03T22:09:41.530735+05:30`
+Generated at: `2026-10-04T01:07:38.533809+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Pop!_OS bans AI-generated code from much of its codebase** - Score: `25` in category `ai/community` ([Link](https://neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases)) ([File](../ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md))
 
 ## Top Trending Resources
 
-- **Unbiased Top-$k$ Estimation for On-Policy Distillation** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2609-34447.md))
-- **Convergent Plug-and-Play Image Restoration with Annealed Noise Levels** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2609-32393.md))
-- **Fewer Tokens, More Self-Teaching: On-Policy Self-Distillation for Extreme Visual Token Reduction** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/rag/arxiv-2609-32353.md))
-- **When Fancy Eviction Fails: Rethinking Cache Replacement For LLM Prefix Reuse** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/agents/arxiv-2609-28870.md))
-- **Compressing History into Memory: Distilling Transformers into Recurrent Transformers** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2606-21562.md))
-- **Oblivious Learning and Collusive Pricing** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2606-05363.md))
-- **Pseudo-Formalization for Automatic Proof Verification** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2605-20531.md))
-- **Do Vision Transformers Need All-to-All Attention? Global Communication Through Elastic Learned Cores** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2605-12491.md))
-- **Augmented Equivariant Mesh Networks for Anatomical Segmentation** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2605-08172.md))
-- **HUANet: Hard-Constrained Unrolled ADMM for Constrained Convex Optimization** - Score: `0` (0), Rank Change: `+1019` ([File](../ai/research/arxiv-2604-13179.md))
+- **Greg Kroah-Hartman – Security in the LLM Age [video]** - Score: `310` (+46), Rank Change: `+1` ([File](../ai/community/youtube-nnv-cweoo5q.md))
+- **From the creator of Redis; run LLM locally with ds4** - Score: `322` (+43), Rank Change: `+1` ([File](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md))
+- **With most information hidden, the game Stratego had stumped AI until now** - Score: `272` (+34), Rank Change: `+1` ([File](../ai/community/with-most-information-hidden-the-game-stratego-had.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+23` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+23` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+23` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+23` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+23` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+23` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+23` ([File](../ai/companies/graphics-multimedia.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9278`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1022`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1022`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1022`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1022`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1022`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1022`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1022`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1022`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1022`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **Applied AI** - (Rank Change: `+893`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+893`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+893`) ([File](../ai/companies/openai/global-affairs.md))
+- **Intelligence Age** - (Rank Change: `+893`) ([File](../ai/companies/openai/intelligence-age.md))
+- **Engineering** - (Rank Change: `+893`) ([File](../ai/companies/openai/engineering.md))
+- **ryanmarten/OpenThoughts-1k-sample** - (Rank Change: `+42`) ([File](../ai/models/huggingface-datasets-ryanmarten.md))
+- **nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim** - (Rank Change: `+42`) ([File](../ai/models/huggingface-datasets-nvidia.md))
+- **world-igr-plum/regions** - (Rank Change: `+42`) ([File](../ai/models/huggingface-datasets-world-igr-plum.md))
+- **nmasi/era5** - (Rank Change: `+42`) ([File](../ai/models/huggingface-datasets-nmasi.md))
+- **transferable-samplers/many-peptides-md** - (Rank Change: `+42`) ([File](../ai/models/huggingface-datasets-transferable-samplers.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +45,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Show HN: Giving Opus 5.5 a simulated paint canvas** (Category: `ai/community`) ([File](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md))
+- **Venice’s failed war against Constantinople led to the first bond market** (Category: `ai/community`) ([File](../ai/community/venices-failed-war-against-constantinople-led-to-t.md))
+- **Show HN: Germany's new sovereign AI model Kolibri** (Category: `ai/community`) ([File](../ai/community/show-hn-germany-s-new-sovereign-ai-model-kolibri.md))

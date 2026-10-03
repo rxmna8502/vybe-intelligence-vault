@@ -7780,9 +7780,7 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Show HN: Germany's new sovereign AI model Kolibri](../ai/community/show-hn-germany-s-new-sovereign-ai-model-kolibri.md)
-  - [Show HN: Giving Opus 5.5 a simulated paint canvas](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)
-  - [Venice’s failed war against Constantinople led to the first bond market](../ai/community/venices-failed-war-against-constantinople-led-to-t.md)
+  - [Pop!_OS bans AI-generated code from much of its codebase](../ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md)
   - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
 
 ## animation
@@ -34036,6 +34034,7 @@ Resources organized by keyword tags.
   - [PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](../ai/rag/arxiv-2607-08269.md)
   - [Polynomial-Augmented Neural Networks (PANNs) with Weak Orthogonality Constraints for Enhanced Function and PDE Approximation](../ai/research/arxiv-2406-02336.md)
   - [Polynomial-Time Mistake-Bounded Language Generation](../ai/research/arxiv-2606-16077.md)
+  - [Pop!_OS bans AI-generated code from much of its codebase](../ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md)
   - [Posit Community](../ai/resources/posit-community.md)
   - [Posit Open Source](../ai/rag/posit-open-source.md)
   - [Posit Support](../ai/rag/posit-support.md)
@@ -34531,8 +34530,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Germany's new sovereign AI model Kolibri](../ai/community/show-hn-germany-s-new-sovereign-ai-model-kolibri.md)
-  - [Show HN: Giving Opus 5.5 a simulated paint canvas](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -35125,7 +35122,6 @@ Resources organized by keyword tags.
   - [VectorizationLLM: Smart Vectorization Based AI Assistant](../ai/rag/arxiv-2607-07846.md)
   - [Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](../ai/research/arxiv-2602-22647.md)
   - [VegSim: A Geospatial World Model for Scenario-Conditioned Vegetation Simulation](../ai/research/arxiv-2606-21961.md)
-  - [Venice’s failed war against Constantinople led to the first bond market](../ai/community/venices-failed-war-against-constantinople-led-to-t.md)
   - [Verba: Building an Open Source, Modular RAG Application | Weaviate](../ai/rag/verba-building-an-open-source-modular-rag-applicat.md)
   - [Verbalizable Representations Form a Global Workspace in Language Models](../ai/research/arxiv-2607-15495.md)
   - [Verifiable Manifest Signing and Transparency Enforcement for Secure MCP-Based LLM Pipelines](../ai/rag/arxiv-2601-23132.md)
@@ -73198,4 +73194,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-03T19:15:57.697887+05:30*
+*Index generated on 2026-10-04T01:05:10.321804+05:30*

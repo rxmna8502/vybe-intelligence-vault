@@ -13,13 +13,14 @@ collected_at: '2026-10-03T18:59:50.348479+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-giving-opus-5-5-a-simulated-paint-canvas
 first_seen: '2026-10-03T02:22:03.559194+05:30'
 last_seen: '2026-10-03T18:59:50.348479+05:30'
 last_checked: '2026-10-03T18:59:50.348479+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Giving Opus 5.5 a simulated paint canvas
 

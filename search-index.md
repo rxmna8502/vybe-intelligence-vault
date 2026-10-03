@@ -44575,7 +44575,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.14405>
 
 * **[From the creator of Redis; run LLM locally with ds4](ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by fibo. Score: 279, Comments: 74. Original Link: https://dwarfstar.sh/
+  * Summary: Hacker News story by fibo. Score: 322, Comments: 95. Original Link: https://dwarfstar.sh/
   * Tags: `hackernews`, `llm`
   * Source URL: <https://dwarfstar.sh>
 
@@ -44935,7 +44935,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.greenhouse.com>
 
 * **[Greg Kroah-Hartman – Security in the LLM Age [video]](ai/community/youtube-nnv-cweoo5q.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by usernomdeguerre. Score: 264, Comments: 95. Original Link: https://www.youtube.com/watch?v=NnV_cWeoo5Q
+  * Summary: Hacker News story by usernomdeguerre. Score: 310, Comments: 112. Original Link: https://www.youtube.com/watch?v=NnV_cWeoo5Q
   * Tags: `hackernews`, `llm`, `youtube`
   * Source URL: <https://youtube.com/watch?v=NnV_cWeoo5Q>
 
@@ -46574,6 +46574,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.13734>
 
+* **[Pop!_OS bans AI-generated code from much of its codebase](ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by bundie. Score: 25, Comments: 11. Original Link: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases>
+
 * **[Posit Community](ai/resources/posit-community.md)** (`tutorial` | `useful` tier)
   * Summary: - **Forum Structure**: Posit Community is a Discourse-based forum with 13 categories, including `tidyverse` (6,228 topics), `shiny` (7,459 topics), and `RStudio IDE` (7,152 topics), covering R/Python data science workflows, reactive programming, and
   * Tags: `frontend_ui`, `hackernews`, `models`, `reddit`, `web-crawled`, `workflows`
@@ -47343,16 +47348,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
-
-* **[Show HN: Germany's new sovereign AI model Kolibri](ai/community/show-hn-germany-s-new-sovereign-ai-model-kolibri.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tejaskumar__. Score: 55, Comments: 20. Original Link: https://tej.as/blog/aleph-alpha-kolibri
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://tej.as/blog/aleph-alpha-kolibri>
-
-* **[Show HN: Giving Opus 5.5 a simulated paint canvas](ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by alstonite. Score: 310, Comments: 99. Original Link: https://stillwet.art/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://stillwet.art>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -48248,11 +48243,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`, `openai`, `workflows`
   * Source URL: <https://arxiv.org/abs/2603.29852>
 
-* **[Venice’s failed war against Constantinople led to the first bond market](ai/community/venices-failed-war-against-constantinople-led-to-t.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by RickJWagner. Score: 141, Comments: 40. Original Link: https://bigthink.com/books/a-fabulous-debt/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://bigthink.com/books/a-fabulous-debt>
-
 * **[vercel-labs/agent-browser](ai/rag/vercel-labs-agent-browser.md)** (`workflow` | `useful` tier)
   * Summary: - **Purpose**: CLI tool for AI agents to automate browser interactions, enabling programmatic control of web pages and actions. - **Technical Stack**: Implemented in Rust for performance and safety, leveraging low-level system access for efficient au
   * Tags: `agents`, `github-repo`, `hackernews`, `rag`, `rust`, `scripts`, `workflows`
@@ -48474,7 +48464,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.00568>
 
 * **[With most information hidden, the game Stratego had stumped AI until now](ai/community/with-most-information-hidden-the-game-stratego-had.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by PaulHoule. Score: 238, Comments: 115. Original Link: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+  * Summary: Hacker News story by PaulHoule. Score: 272, Comments: 136. Original Link: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget>
 
@@ -63633,7 +63623,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02622>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2110, Downloads: 22960987)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2115, Downloads: 22960987)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -76230,7 +76220,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/1707.00835>
 
 * **[facebook/MusicGen](ai/models/huggingface-spaces-facebook.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: facebook/MusicGen (Likes: 5100, Downloads: 0)
+  * Summary: Trending Hugging Face space: facebook/MusicGen (Likes: 5099, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/facebook>
 
@@ -102464,7 +102454,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14128, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14129, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -109044,7 +109034,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1719, Downloads: 29665992)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1722, Downloads: 29665992)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -114023,7 +114013,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 823, Downloads: 1917076)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 824, Downloads: 1917076)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -116071,7 +116061,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6165, Downloads: 239515178)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6169, Downloads: 239515178)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -141860,7 +141850,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3791, Downloads: 34779717)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3795, Downloads: 34779717)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -146323,7 +146313,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
 * **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Comprehensive LLM application development curriculum, primarily delivered via Jupyter Notebooks. * Focus
+  * Summary: * Comprehensive LLM application development curriculum targeting foundational understanding. * Employs
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -162274,7 +162264,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.03344>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for `raganwald.com`. * Leverages GitHub
+  * Summary: * Jekyll-based static site source code for `raganwald.com`.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 

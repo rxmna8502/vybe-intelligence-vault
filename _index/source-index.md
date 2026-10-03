@@ -30934,9 +30934,7 @@ Resources organized by publisher feed and query sources.
 
   - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
   - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
-  - [Show HN: Germany's new sovereign AI model Kolibri](../ai/community/show-hn-germany-s-new-sovereign-ai-model-kolibri.md)
-  - [Show HN: Giving Opus 5.5 a simulated paint canvas](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)
-  - [Venice’s failed war against Constantinople led to the first bond market](../ai/community/venices-failed-war-against-constantinople-led-to-t.md)
+  - [Pop!_OS bans AI-generated code from much of its codebase](../ai/community/pop-os-bans-ai-generated-code-from-much-of-its-cod.md)
   - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
 
 ## Unknown Source (type: huggingface)
@@ -34813,4 +34811,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-03T19:15:57.932507+05:30*
+*Index generated on 2026-10-04T01:05:10.622158+05:30*
