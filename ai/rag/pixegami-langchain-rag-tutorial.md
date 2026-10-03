@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-10-02T20:22:05.688055+05:30'
-published_at: '2026-09-30T21:17:17Z'
+collected_at: '2026-10-03T19:00:41.844959+05:30'
+published_at: '2026-10-02T19:58:07Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 991
+stars: 990
 language: Python
 status: active
 archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-10-02T20:22:05.688055+05:30'
-last_seen: '2026-10-02T20:22:05.688055+05:30'
-last_checked: '2026-10-02T20:22:05.688055+05:30'
+first_seen: '2026-10-03T19:00:41.844959+05:30'
+last_seen: '2026-10-03T19:00:41.844959+05:30'
+last_checked: '2026-10-03T19:00:41.844959+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Demonstrates a Retrieval-Augmented Generation (RAG) application architecture utilizing the LangChain framework.
-*   Implemented in Python, serving as a foundational tutorial for RAG system development.
-*   Provides a simple example for integrating Large Language Models (LLMs) with external knowledge bases for enhanced contextual responses.
+*   Implements a Retrieval-Augmented Generation (RAG) system.
+*   Utilizes the LangChain framework for orchestration.
+*   Developed in Python, serving as a practical tutorial/example.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 991
+- Stars: 990
 - Forks: 518
 - Language: Python
 - Topics: None
-- Last Updated: 2026-09-30T21:17:17Z
+- Last Updated: 2026-10-02T19:58:07Z
 - Archived: No
 - Created At: 2023-11-13T09:14:54Z
 - Pushed At: 2024-07-31T23:46:44Z

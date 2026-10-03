@@ -3,11 +3,11 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Agentic AI Development
 
-- **[AI Coding Agents](../ai-coding-agents/README.md)** (5643 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
+- **[AI Coding Agents](../ai-coding-agents/README.md)** (5642 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
 - **[Agent Instructions](../agent-instructions/README.md)** (16 files): Repository instruction files and coding-agent rule formats such as AGENTS.md, CLAUDE.md, cursor rules, and copilot instructions.
 - **[MCP Registry](../mcp-registry/README.md)** (323 files): Public MCP server registries, MCP server metadata, MCP tool directories, and MCP integration guidance.
-- **[Agent Frameworks](../agent-frameworks/README.md)** (5746 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
-- **[AI Browser and Computer Use](../ai-browser-computer-use/README.md)** (6516 files): Browser agents, computer-use agents, Playwright automation, Selenium automation, web navigation agents, and UI automation.
+- **[Agent Frameworks](../agent-frameworks/README.md)** (5745 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
+- **[AI Browser and Computer Use](../ai-browser-computer-use/README.md)** (6515 files): Browser agents, computer-use agents, Playwright automation, Selenium automation, web navigation agents, and UI automation.
 
 ## Retrieval & Knowledge Stack (RAG)
 
@@ -17,10 +17,10 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (29971 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (29968 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1613 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (16712 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
-- **[Model Providers](../model-providers/README.md)** (3108 files): Public metadata and documentation links for model APIs and provider ecosystems.
+- **[Model Providers](../model-providers/README.md)** (3109 files): Public metadata and documentation links for model APIs and provider ecosystems.
 - **[Inference and Local LLM](../inference-local-llm/README.md)** (1572 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
@@ -32,7 +32,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Creative 3D Dev & Frontend Interfaces
 
-- **[Frontend AI UI](../frontend-ai-ui/README.md)** (239 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
+- **[Frontend AI UI](../frontend-ai-ui/README.md)** (238 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
 - **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (171 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
 - **[LLM App Templates](../llm-app-templates/README.md)** (401 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
 
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (232 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-03 11:20 IST*
+*Last updated: 2026-10-03 19:17 IST*

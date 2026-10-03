@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget
 hn_url: https://news.ycombinator.com/item?id=49933740
-score: 201
+score: 238
 author: PaulHoule
-comments_count: 95
+comments_count: 115
 published_at: '2026-10-02T19:41:24+05:30'
-collected_at: '2026-10-03T10:58:29.436257+05:30'
+collected_at: '2026-10-03T18:59:49.883607+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:with-most-information-hidden-the-game-stratego-had
 first_seen: '2026-10-03T02:22:01.571353+05:30'
-last_seen: '2026-10-03T10:58:29.436257+05:30'
-last_checked: '2026-10-03T10:58:29.436257+05:30'
+last_seen: '2026-10-03T18:59:49.883607+05:30'
+last_checked: '2026-10-03T18:59:49.883607+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by PaulHoule. Score: 201, Comments: 95.
+Hacker News story by PaulHoule. Score: 238, Comments: 115.
 Original Link: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: PaulHoule
-- Score: 201 Upvotes
-- Comments: 95 Discussions
+- Score: 238 Upvotes
+- Comments: 115 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49933740
 - Original Article: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget
 

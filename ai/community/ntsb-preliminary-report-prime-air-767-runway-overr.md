@@ -13,13 +13,14 @@ collected_at: '2026-10-03T10:58:30.403176+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ntsb-preliminary-report-prime-air-767-runway-overr
 first_seen: '2026-10-03T10:58:30.403176+05:30'
 last_seen: '2026-10-03T10:58:30.403176+05:30'
 last_checked: '2026-10-03T10:58:30.403176+05:30'
 health_score: 100
 ---
+
 
 # NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]
 

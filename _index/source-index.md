@@ -30934,9 +30934,8 @@ Resources organized by publisher feed and query sources.
 
   - [From the creator of Redis; run LLM locally with ds4](../ai/community/from-the-creator-of-redis-run-llm-locally-with-ds4.md)
   - [Greg Kroah-Hartman – Security in the LLM Age [video]](../ai/community/youtube-nnv-cweoo5q.md)
-  - [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](../ai/community/ntsb-preliminary-report-prime-air-767-runway-overr.md)
+  - [Show HN: Germany's new sovereign AI model Kolibri](../ai/community/show-hn-germany-s-new-sovereign-ai-model-kolibri.md)
   - [Show HN: Giving Opus 5.5 a simulated paint canvas](../ai/community/show-hn-giving-opus-5-5-a-simulated-paint-canvas.md)
-  - [Show HN: Made an open-source Lego AI generator](../ai/community/anteloc-ldraw-nova.md)
   - [Venice’s failed war against Constantinople led to the first bond market](../ai/community/venices-failed-war-against-constantinople-led-to-t.md)
   - [With most information hidden, the game Stratego had stumped AI until now](../ai/community/with-most-information-hidden-the-game-stratego-had.md)
 
@@ -31823,15 +31822,15 @@ Resources organized by publisher feed and query sources.
   - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
   - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
-  - [tasl-lab/uniocc](../ai/agents/huggingface-datasets-tasl-lab.md)
+  - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
 ## Unknown Source (type: huggingface_model)
 
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
+  - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
-  - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
@@ -34814,4 +34813,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-03T11:17:04.822852+05:30*
+*Index generated on 2026-10-03T19:15:57.932507+05:30*
