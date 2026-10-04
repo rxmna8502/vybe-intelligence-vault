@@ -8,7 +8,7 @@ source_url: https://semanticscholar.org/paper/f53f31b8ecc6d0eeba19cf21a40c0f205f
 authors:
 - Xi Chen
 - Huahui Yi
-- M. You
+- Mingke You
 - Weizhi Liu
 - Li Wang
 - Hairui Li
@@ -17,15 +17,15 @@ authors:
 - Lei Fan
 - Gang Chen
 - Qicheng Lao
-- W. Fu
+- Weili Fu
 - Kang Li
 - Jian Li
 year: 2025
-citation_count: 111
+citation_count: 137
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328417+05:30'
+collected_at: '2026-10-04T19:41:15.787586+05:30'
 tags:
 - agents
 - language
@@ -37,8 +37,8 @@ tags:
 status: active
 resource_id: blog:enhancing-diagnostic-capability-with-multi-agents
 first_seen: '2026-07-19T16:15:04.071769+05:30'
-last_seen: '2026-08-20T18:43:38.328417+05:30'
-last_checked: '2026-08-20T18:43:38.328417+05:30'
+last_seen: '2026-10-04T19:41:15.787586+05:30'
+last_checked: '2026-10-04T19:41:15.787586+05:30'
 health_score: 100
 ---
 
@@ -54,9 +54,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Xi Chen, Huahui Yi, M. You, Weizhi Liu, Li Wang, Hairui Li, Xue Zhang, Yingman Guo, Lei Fan, Gang Chen, Qicheng Lao, W. Fu, Kang Li, Jian Li
+- Authors: Xi Chen, Huahui Yi, Mingke You, Weizhi Liu, Li Wang, Hairui Li, Xue Zhang, Yingman Guo, Lei Fan, Gang Chen, Qicheng Lao, Weili Fu, Kang Li, Jian Li
 - Publication Year: 2025
-- Citation Count: 111
+- Citation Count: 137
 - Paper Link: https://semanticscholar.org/paper/f53f31b8ecc6d0eeba19cf21a40c0f205ff532ca
 - Code Link: None
 - Code Stars: N/A

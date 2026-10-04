@@ -5,29 +5,28 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded
 hn_url: https://news.ycombinator.com/item?id=49946228
-score: 42
+score: 218
 author: Anon84
-comments_count: 19
+comments_count: 319
 published_at: '2026-10-03T23:14:29+05:30'
-collected_at: '2026-10-04T04:40:22.083715+05:30'
+collected_at: '2026-10-04T19:41:15.790630+05:30'
 tags:
 - ai
 - anthropic
 - hackernews
-status: inactive
+status: active
 resource_id: hackernews:lecun-has-zero-concerns-about-ai-wiping-out-humani
 first_seen: '2026-10-04T04:40:22.083715+05:30'
-last_seen: '2026-10-04T04:40:22.083715+05:30'
-last_checked: '2026-10-04T04:40:22.083715+05:30'
+last_seen: '2026-10-04T19:41:15.790630+05:30'
+last_checked: '2026-10-04T19:41:15.790630+05:30'
 health_score: 100
 ---
-
 
 # LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents
 
 ## Summary
 
-Hacker News story by Anon84. Score: 42, Comments: 19.
+Hacker News story by Anon84. Score: 218, Comments: 319.
 Original Link: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/
 
 ## Why It Matters
@@ -37,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Anon84
-- Score: 42 Upvotes
-- Comments: 19 Discussions
+- Score: 218 Upvotes
+- Comments: 319 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49946228
 - Original Article: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded
 

@@ -7,17 +7,17 @@ source_name: Semantic Scholar AI
 source_url: https://semanticscholar.org/paper/8ee45aeb7c97e3346cc62f216f673b91277ac718
 authors:
 - Chan Hee Song
-- Jiaman Wu
-- Clay Washington
 - Brian M. Sadler
+- Jiaman Wu
 - Wei-Lun Chao
+- Clay Washington
 - Yu Su
 year: 2022
-citation_count: 770
+citation_count: 799
 code_url: None
 stars: N/A
 published_at: '2022-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328449+05:30'
+collected_at: '2026-10-04T19:41:15.787628+05:30'
 tags:
 - agents
 - dataset
@@ -29,8 +29,8 @@ tags:
 status: active
 resource_id: blog:llm-planner-few-shot-grounded-planning-for-embodie
 first_seen: '2026-07-19T16:15:04.071807+05:30'
-last_seen: '2026-08-20T18:43:38.328449+05:30'
-last_checked: '2026-08-20T18:43:38.328449+05:30'
+last_seen: '2026-10-04T19:41:15.787628+05:30'
+last_checked: '2026-10-04T19:41:15.787628+05:30'
 health_score: 100
 ---
 
@@ -46,9 +46,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Chan Hee Song, Jiaman Wu, Clay Washington, Brian M. Sadler, Wei-Lun Chao, Yu Su
+- Authors: Chan Hee Song, Brian M. Sadler, Jiaman Wu, Wei-Lun Chao, Clay Washington, Yu Su
 - Publication Year: 2022
-- Citation Count: 770
+- Citation Count: 799
 - Paper Link: https://semanticscholar.org/paper/8ee45aeb7c97e3346cc62f216f673b91277ac718
 - Code Link: None
 - Code Stars: N/A

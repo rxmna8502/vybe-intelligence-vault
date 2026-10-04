@@ -9,17 +9,17 @@ authors:
 - Sadia Sultana Chowa
 - Riasad Alvi
 - Subhey Sadi Rahman
-- Mohamed Abdur Rahman
+- Md. Abdur Rahman
 - Mohaimenul Azam Khan Raiaan
 - Md. Rafiqul Islam
 - Mukhtar Hussain
 - Sami Azam
 year: 2025
-citation_count: 64
+citation_count: 76
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328428+05:30'
+collected_at: '2026-10-04T19:41:15.787615+05:30'
 tags:
 - agents
 - benchmark
@@ -32,8 +32,8 @@ tags:
 status: active
 resource_id: blog:from-language-to-action-a-review-of-large-language
 first_seen: '2026-07-19T16:15:04.071795+05:30'
-last_seen: '2026-08-20T18:43:38.328428+05:30'
-last_checked: '2026-08-20T18:43:38.328428+05:30'
+last_seen: '2026-10-04T19:41:15.787615+05:30'
+last_checked: '2026-10-04T19:41:15.787615+05:30'
 health_score: 100
 ---
 
@@ -49,9 +49,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Sadia Sultana Chowa, Riasad Alvi, Subhey Sadi Rahman, Mohamed Abdur Rahman, Mohaimenul Azam Khan Raiaan, Md. Rafiqul Islam, Mukhtar Hussain, Sami Azam
+- Authors: Sadia Sultana Chowa, Riasad Alvi, Subhey Sadi Rahman, Md. Abdur Rahman, Mohaimenul Azam Khan Raiaan, Md. Rafiqul Islam, Mukhtar Hussain, Sami Azam
 - Publication Year: 2025
-- Citation Count: 64
+- Citation Count: 76
 - Paper Link: https://semanticscholar.org/paper/49e62b83556e0c8dc4a030567a65402d4b9fc7f8
 - Code Link: None
 - Code Stars: N/A

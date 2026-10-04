@@ -12,11 +12,11 @@ authors:
 - Qingyun Wang
 - Xinya Du
 year: 2024
-citation_count: 67
+citation_count: 70
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328344+05:30'
+collected_at: '2026-10-04T19:41:15.787515+05:30'
 tags:
 - agents
 - language
@@ -28,8 +28,8 @@ tags:
 status: active
 resource_id: blog:mlr-copilot-autonomous-machine-learning-research-b
 first_seen: '2026-07-19T16:15:04.071694+05:30'
-last_seen: '2026-08-20T18:43:38.328344+05:30'
-last_checked: '2026-08-20T18:43:38.328344+05:30'
+last_seen: '2026-10-04T19:41:15.787515+05:30'
+last_checked: '2026-10-04T19:41:15.787515+05:30'
 health_score: 100
 ---
 
@@ -47,7 +47,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Ruochen Li, Teerth Patel, Qingyun Wang, Qingyun Wang, Xinya Du
 - Publication Year: 2024
-- Citation Count: 67
+- Citation Count: 70
 - Paper Link: https://semanticscholar.org/paper/d0cd8b45949b959c316a3ed75a4683d0a70b1aa9
 - Code Link: None
 - Code Stars: N/A

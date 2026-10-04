@@ -9,11 +9,11 @@ authors:
 - C. Collison
 - Andrew D. White
 year: 2024
-citation_count: 247
+citation_count: 272
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328518+05:30'
+collected_at: '2026-10-04T19:41:15.787746+05:30'
 tags:
 - agents
 - benchmark
@@ -26,8 +26,8 @@ tags:
 status: active
 resource_id: blog:a-review-of-large-language-models-and-autonomous-a
 first_seen: '2026-07-19T16:15:04.071924+05:30'
-last_seen: '2026-08-20T18:43:38.328518+05:30'
-last_checked: '2026-08-20T18:43:38.328518+05:30'
+last_seen: '2026-10-04T19:41:15.787746+05:30'
+last_checked: '2026-10-04T19:41:15.787746+05:30'
 health_score: 100
 ---
 
@@ -45,7 +45,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: M. C. Ramos, C. Collison, Andrew D. White
 - Publication Year: 2024
-- Citation Count: 247
+- Citation Count: 272
 - Paper Link: https://semanticscholar.org/paper/cac8c4f79077c74aa059d1c58c021be1c89f1178
 - Code Link: None
 - Code Stars: N/A

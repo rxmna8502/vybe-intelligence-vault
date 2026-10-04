@@ -5,18 +5,18 @@ source_type: research
 source_name: Semantic Scholar AI
 source_url: https://semanticscholar.org/paper/1700ce7976bb88e90796c96c344331282ecf9208
 authors:
-- N. Mehandru
+- Nikita Mehandru
 - B. Miao
 - Eduardo Rodriguez Almaraz
 - Madhumita Sushil
 - A. Butte
 - Ahmed M. Alaa
 year: 2024
-citation_count: 164
+citation_count: 176
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328508+05:30'
+collected_at: '2026-10-04T19:41:15.787734+05:30'
 tags:
 - agents
 - benchmark
@@ -30,8 +30,8 @@ tags:
 status: active
 resource_id: blog:evaluating-large-language-models-as-agents-in-the
 first_seen: '2026-07-19T16:15:04.071880+05:30'
-last_seen: '2026-08-20T18:43:38.328508+05:30'
-last_checked: '2026-08-20T18:43:38.328508+05:30'
+last_seen: '2026-10-04T19:41:15.787734+05:30'
+last_checked: '2026-10-04T19:41:15.787734+05:30'
 health_score: 100
 ---
 
@@ -47,9 +47,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: N. Mehandru, B. Miao, Eduardo Rodriguez Almaraz, Madhumita Sushil, A. Butte, Ahmed M. Alaa
+- Authors: Nikita Mehandru, B. Miao, Eduardo Rodriguez Almaraz, Madhumita Sushil, A. Butte, Ahmed M. Alaa
 - Publication Year: 2024
-- Citation Count: 164
+- Citation Count: 176
 - Paper Link: https://semanticscholar.org/paper/1700ce7976bb88e90796c96c344331282ecf9208
 - Code Link: None
 - Code Stars: N/A

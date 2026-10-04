@@ -16,11 +16,11 @@ authors:
 - Jie Jiang
 - Bin Cui
 year: 2024
-citation_count: 729
+citation_count: 732
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-10-03T10:58:28.396621+05:30'
+collected_at: '2026-10-04T19:41:14.688292+05:30'
 tags:
 - augmented
 - benchmark
@@ -35,8 +35,8 @@ tags:
 status: active
 resource_id: blog:retrieval-augmented-generation-for-ai-generated-co
 first_seen: '2026-07-19T16:15:03.003939+05:30'
-last_seen: '2026-10-03T10:58:28.396621+05:30'
-last_checked: '2026-10-03T10:58:28.396621+05:30'
+last_seen: '2026-10-04T19:41:14.688292+05:30'
+last_checked: '2026-10-04T19:41:14.688292+05:30'
 health_score: 100
 ---
 
@@ -54,7 +54,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Penghao Zhao, Hailin Zhang, Qinhan Yu, Zheng-Ren Wang, Yunteng Geng, Fang-Cheng Fu, Ling Yang, Wen-Tao Zhang, Jie Jiang, Bin Cui
 - Publication Year: 2024
-- Citation Count: 729
+- Citation Count: 732
 - Paper Link: https://semanticscholar.org/paper/ab15463babf98fffc6f683fe2026de0725b5e1a9
 - Code Link: None
 - Code Stars: N/A

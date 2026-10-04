@@ -30934,7 +30934,9 @@ Resources organized by publisher feed and query sources.
 
   - [Agents don't need memory, they need documentation](../ai/community/agents-don-t-need-memory-they-need-documentation.md)
   - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
-  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
+  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
+  - [Religious scholars met with Anthropic](../ai/community/religious-scholars-met-with-anthropic.md)
+  - [Show HN: AI search for every photo and every frame of video on macOS](../ai/community/allenv0-scm.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31852,12 +31854,14 @@ Resources organized by publisher feed and query sources.
 
   - [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](../ai/research/a-survey-of-graph-retrieval-augmented-generation-f.md)
   - [A review of large language models and autonomous agents in chemistry](../ai/research/a-review-of-large-language-models-and-autonomous-a.md)
+  - [A survey on large language model based autonomous agents](../ai/research/a-survey-on-large-language-model-based-autonomous.md)
   - [Active Retrieval Augmented Generation](../ai/research/active-retrieval-augmented-generation.md)
   - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](../ai/research/agentic-retrieval-augmented-generation-a-survey-on.md)
   - [Benchmarking Retrieval-Augmented Generation for Medicine](../ai/research/benchmarking-retrieval-augmented-generation-for-me.md)
   - [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](../ai/research/browsecomp-zh-benchmarking-web-browsing-ability-of.md)
   - [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](../ai/research/chain-of-agents-large-language-models-collaboratin.md)
   - [Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](../ai/research/collab-overcooked-benchmarking-and-evaluating-larg.md)
+  - [Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification](../ai/research/comprehensive-verilog-design-problems-a-next-gener.md)
   - [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](../ai/research/describe-explain-plan-and-select-interactive-plann.md)
   - [DyVal 2: Dynamic Evaluation of Large Language Models by Meta Probing Agents](../ai/research/dyval-2-dynamic-evaluation-of-large-language-model.md)
   - [EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](../ai/research/embodiedbench-comprehensive-benchmarking-multi-mod.md)
@@ -34811,4 +34815,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-04T11:49:22.692446+05:30*
+*Index generated on 2026-10-04T19:57:47.252187+05:30*

@@ -11610,7 +11610,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2510.10471>
 
 * **[daimon111/daimon-template](ai/agents/daimon111-daimon-template.md)** (`template` | `useful` tier)
-  * Summary: * Autonomous agent template for agent instantiation. * Implemented in JavaScript. * Designed for direct repository forking to deploy new agent instances.
+  * Summary: * JavaScript-based template for autonomous agent development. * Facilitates rapid instantiation of custom agent deployments via repository forking. * Provides a foundational architecture for self-contained "daimon" agents.
   * Tags: `agents`, `github-repo`, `javascript`
   * Source URL: <https://github.com/daimon111/daimon-template>
 
@@ -22815,8 +22815,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2602.09222>
 
-* **[mvanhorn/clawdbot-skill-manus](ai/agents/mvanhorn-clawdbot-skill-manus.md)** (`api` | `useful` tier)
-  * Summary: * Manus AI facilitates autonomous delegation of complex tasks including web research, report generation, code building, and data scraping. * Operates as an OpenClaw skill, integrating into the OpenClaw AI agent ecosystem for enhanced automation capab
+* **[mvanhorn/clawdbot-skill-manus](ai/agents/mvanhorn-clawdbot-skill-manus.md)** (`dataset` | `useful` tier)
+  * Summary: * `clawdbot-skill-manus` implements Manus AI as an OpenClaw skill for autonomous, complex task delegation. * It supports diverse operations including web research, report generation, code building, and data scraping. * The skill incorporates task tem
   * Tags: `agents`, `github-repo`, `scripts`, `shell`
   * Source URL: <https://github.com/mvanhorn/clawdbot-skill-manus>
 
@@ -28761,7 +28761,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.30837>
 
 * **[Senpi-ai/senpi-skills](ai/agents/senpi-ai-senpi-skills.md)** (`template` | `useful` tier)
-  * Summary: * Offers open-source AI agent skills and 80+ strategy templates for autonomous trading strategy development. * Facilitates strategy deployment on Hyperliquid, supporting crypto, equities, commodities, and indices. * Integrates two-phase trailing-stop
+  * Summary: * Open-source Python repository offering AI agent skills for autonomous trading strategy development and deployment. * Facilitates automated trading on Hyperliquid, supporting diverse asset classes including crypto, equities, commodities, and indices
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/Senpi-ai/senpi-skills>
 
@@ -42570,7 +42570,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2602.02475>
 
 * **[Agents don't need memory, they need documentation](ai/community/agents-don-t-need-memory-they-need-documentation.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by kmeh. Score: 119, Comments: 64. Original Link: https://liao.gg/blog/agents-dont-need-memory
+  * Summary: Hacker News story by kmeh. Score: 245, Comments: 133. Original Link: https://liao.gg/blog/agents-dont-need-memory
   * Tags: `agents`, `hackernews`
   * Source URL: <https://liao.gg/blog/agents-dont-need-memory>
 
@@ -45175,7 +45175,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.23983>
 
 * **[I quit OpenAI because its culture is broken](ai/community/i-quit-openai-because-its-culture-is-broken.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Brajeshwar. Score: 148, Comments: 412. Original Link: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
+  * Summary: Hacker News story by Brajeshwar. Score: 316, Comments: 553. Original Link: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA>
 
@@ -45185,7 +45185,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval-Augmented Generation (RAG) workflow, likely
+  * Summary: * Python-based repository implementing a RAG (Retrieval-Augmented Generation)
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
@@ -45603,6 +45603,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2604.07520v2 Announce Type: replace-cross Abstract: These lecture notes provide a comprehensive framework for performing global statistical fits in high-energy physics using modern Machine Learning (ML) surrogates. We begin by reviewing the sta
   * Tags: `hackernews`, `workflows`
   * Source URL: <https://arxiv.org/abs/2604.07520>
+
+* **[LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Anon84. Score: 218, Comments: 319. Original Link: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/
+  * Tags: `ai`, `anthropic`, `hackernews`
+  * Source URL: <https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded>
 
 * **[LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents](ai/rag/arxiv-2608-18398.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.18398v1 Announce Type: cross Abstract: Large language model (LLM) agents can now carry out long-horizon technical workflows involving complex tool use, code execution, file edits, and generated artifacts. As agents do more work faster, the
@@ -46974,6 +46979,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `frontend_ui`, `hackernews`, `models`, `rag`, `reddit`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://github.com/qdrant/qdrant/releases>
 
+* **[Religious scholars met with Anthropic](ai/community/religious-scholars-met-with-anthropic.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by bookofjoe. Score: 119, Comments: 255. Original Link: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+  * Tags: `anthropic`, `hackernews`
+  * Source URL: <https://nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html>
+
 * **[Remote Development - Visual Studio Marketplace](ai/rag/remote-development-visual-studio-marketplace.md)** (`tutorial` | `useful` tier)
   * Summary: - **Extension Pack Functionality**: Enables remote development by opening folders in containers, remote machines (via SSH or VS Code Tunnels), or WSL, leveraging VS Code's full feature set without requiring source code on the local machine. - **Suppo
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -47338,6 +47348,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
+
+* **[Show HN: AI search for every photo and every frame of video on macOS](ai/community/allenv0-scm.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by allenleee. Score: 30, Comments: 15. Original Link: https://github.com/allenv0/SCM
+  * Tags: `ai`, `hackernews`, `youtube`
+  * Source URL: <https://github.com/allenv0/scm>
 
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
@@ -47822,11 +47837,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Core Components**: WebM Project provides open-source repositories including `libvpx` (VP8/VP9 codec SDK), `libwebm` (WebM file parser), and `webm-tools` (alpha-channel, encryption, and streaming tools), all hosted on Chromium's Gerrit for version
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.webmproject.org/code/#webp-repositories>
-
-* **[Three AI agents, two countries, and one uneven world wide web](ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by effects. Score: 21, Comments: 0. Original Link: https://royapakzad.substack.com/p/multilingual-ai-agents
-  * Tags: `agents`, `ai`, `hackernews`
-  * Source URL: <https://royapakzad.substack.com/p/multilingual-ai-agents>
 
 * **[Three-Phase Evaluation of AI-Assisted Software Development Life Cycle](ai/research/arxiv-2607-05125.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.05125v1 Announce Type: cross Abstract: This paper presents an exploratory evaluation of how increasing levels of AI autonomy affect software development productivity, requirement adherence, and developer cognitive workload. A team of four
@@ -51455,6 +51465,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2503.10677v3 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) has gained significant attention in recent years for its potential to enhance natural language understanding and generation by combining large-scale retrie
   * Tags: `benchmark`, `dataset`, `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2503.10677>
+
+* **[A survey on large language model based autonomous agents](ai/research/a-survey-on-large-language-model-based-autonomous.md)** (`framework` | `useful` tier)
+  * Summary: Autonomous agents have long been a research focus in academic and industry communities. Previous research often focuses on training agents with limited knowledge within isolated environments, which diverges significantly from human learning processes
+  * Tags: `agents`, `benchmark`, `language`, `large`, `models`, `paper`, `semantic-scholar`
+  * Source URL: <https://semanticscholar.org/paper/28c6ac721f54544162865f41c5692e70d61bccab>
 
 * **[A Survey on the Linear Representation Hypothesis](ai/research/arxiv-2609-22695.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.22695v1 Announce Type: new Abstract: The term "linear representation hypothesis" (LRH) has appeared across diverse subfields of artificial intelligence, neuroscience, and cognitive science. But previous works have not consistently treated
@@ -57321,7 +57336,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.01861>
 
 * **[ayuo/hd_tmp](ai/models/huggingface-datasets-ayuo.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 44, Downloads: 1447444)
+  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 44, Downloads: 1452165)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ayuo>
 
@@ -57558,7 +57573,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.20343>
 
 * **[banned-historical-archives/banned-historical-archives](ai/models/huggingface-datasets-banned-historical-archives.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 93, Downloads: 1498505)
+  * Summary: Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 93, Downloads: 1404811)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/banned-historical-archives>
 
@@ -63618,7 +63633,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02622>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2120, Downloads: 22960987)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2125, Downloads: 23256823)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -64152,6 +64167,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.17077v1 Announce Type: cross Abstract: Proton dissociation constants (pKa) are critical for functional molecule discovery and molecular modeling. Building on iBonD, the largest experimental pKa database established, we and other researcher
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.17077>
+
+* **[Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification](ai/research/comprehensive-verilog-design-problems-a-next-gener.md)** (`framework` | `useful` tier)
+  * Summary: We present the Comprehensive Verilog Design Problems (CVDP) benchmark, a new dataset and infrastructure to advance LLM and agent research in hardware design and verification. CVDP includes 783 problems across 13 task categories, covering RTL generati
+  * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `language`, `large`, `models`, `paper`, `scripts`, `semantic-scholar`
+  * Source URL: <https://semanticscholar.org/paper/8a92c948871a49d2e69fa1f80913207907900d72>
 
 * **[Comprendia: AI-Augmented Code Comprehension](ai/research/arxiv-2608-10290.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.10290v1 Announce Type: cross Abstract: Comprendia is an Eclipse plugin that integrates structural dependency visualization with LLM-powered code explanation on a shared interactive graph for Java program comprehension. The tool rests on fo
@@ -66382,7 +66402,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.27549>
 
 * **[cross-encoder/ms-marco-MiniLM-L6-v2](ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 354, Downloads: 85013313)
+  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 354, Downloads: 84541845)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`, `reddit`
   * Source URL: <https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2>
 
@@ -74668,7 +74688,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.21036>
 
 * **[Evaluating large language models and agents in healthcare: key challenges in clinical applications](ai/research/evaluating-large-language-models-and-agents-in-hea.md)** (`framework` | `useful` tier)
-  * Summary: Semantic Scholar paper by Xiaolan Chen, Jiayang Xiang, Shanfu Lu, Yexin Liu, M. He, Danli Shi
+  * Summary: Semantic Scholar paper by Xiao-Lan Chen, Jiayang Xiang, Shan-Fu Lu, Yexin Liu, Ming-Guang He, Dan-Li Shi
   * Tags: `agents`, `language`, `large`, `models`, `paper`, `semantic-scholar`
   * Source URL: <https://semanticscholar.org/paper/e9ce5227635988e61107c2f483e3c8ece25ff3fd>
 
@@ -82210,17 +82230,17 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3386, Downloads: 40077154)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3386, Downloads: 38930746)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
 * **[google-t5/t5-small](ai/models/huggingface-google-t5-t5-small.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-t5/t5-small (Likes: 648, Downloads: 24438225)
+  * Summary: Trending Hugging Face model: google-t5/t5-small (Likes: 648, Downloads: 24550202)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-t5/t5-small>
 
 * **[google/electra-base-discriminator](ai/models/huggingface-google-electra-base-discriminator.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 191, Downloads: 46082851)
+  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 191, Downloads: 46003086)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google/electra-base-discriminator>
 
@@ -85458,7 +85478,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/huggingface/datasets>
 
 * **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 207, Downloads: 2082697)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 207, Downloads: 2068401)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/huggingface>
 
@@ -89059,7 +89079,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11292, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11293, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -89933,7 +89953,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05061>
 
 * **[Kwai-Kolors/Kolors-Virtual-Try-On](ai/models/huggingface-spaces-kwai-kolors.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10199, Downloads: 0)
+  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10201, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/kwai-kolors>
 
@@ -94292,7 +94312,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.10611>
 
 * **[m-a-p/FineFineWeb](ai/models/huggingface-datasets-m-a-p.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: m-a-p/FineFineWeb (Likes: 194, Downloads: 4379261)
+  * Summary: Trending Hugging Face dataset: m-a-p/FineFineWeb (Likes: 194, Downloads: 4435223)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/m-a-p>
 
@@ -100108,7 +100128,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.28608>
 
 * **[nmasi/era5](ai/models/huggingface-datasets-nmasi.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: nmasi/era5 (Likes: 8, Downloads: 1278312)
+  * Summary: Trending Hugging Face dataset: nmasi/era5 (Likes: 8, Downloads: 1158562)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/nmasi>
 
@@ -100786,7 +100806,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/nvidia-physical-ai>
 
 * **[nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](ai/models/huggingface-datasets-nvidia.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 276, Downloads: 1200936)
+  * Summary: Trending Hugging Face dataset: nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim (Likes: 276, Downloads: 1182016)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/nvidia>
 
@@ -101276,7 +101296,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.23774>
 
 * **[On protecting the data privacy of Large Language Models (LLMs) and LLM agents: A literature review](ai/research/on-protecting-the-data-privacy-of-large-language-m.md)** (`framework` | `useful` tier)
-  * Summary: Semantic Scholar paper by Biwei Yan, Kun Li, Minghui Xu, Yueyan Dong, Yue Zhang, Zhaochun Ren, Xiuzhen Cheng
+  * Summary: Semantic Scholar paper by Biwei Yan, Kun Li, Ming-Hui Xu, Yueyan Dong, Yue Zhang, Zhaochun Ren, Xiu-Zhen Cheng
   * Tags: `agents`, `language`, `large`, `models`, `paper`, `semantic-scholar`
   * Source URL: <https://semanticscholar.org/paper/186b33f6f093c18dae11ad3d6aa6d9d0305992c3>
 
@@ -102454,7 +102474,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.06625>
 
 * **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14130, Downloads: 0)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14131, Downloads: 0)
   * Tags: `hf-space`, `huggingface`, `leaderboard`
   * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
 
@@ -104014,6 +104034,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.02844v1 Announce Type: cross Abstract: We develop a class of diffusion-based stochastic particle optimisation methods for loss functions with intractable gradients. Specifically, we consider problems in which the loss gradient is an integr
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2608.02844>
+
+* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
+  * Summary: * RAGTruth is a specialized corpus engineered to benchmark and mitigate hallucinations in Retrieval-Augmented Language Models (RAG). * The corpus provides a structured dataset for developing and evaluating RAG systems for enhanced factual consistency
+  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](ai/research/arxiv-2602-00511.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.00511v3 Announce Type: replace Abstract: We introduce \emph{Partition of Unity Neural Networks} (PUNNs), a neural-network architecture for multiclass classification based on the classical mathematical notion of a partition of unity. The st
@@ -109039,7 +109064,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1726, Downloads: 29665992)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1730, Downloads: 29646527)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -113683,7 +113708,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.24894>
 
 * **[ryanmarten/OpenThoughts-1k-sample](ai/models/huggingface-datasets-ryanmarten.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 60, Downloads: 1163746)
+  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 60, Downloads: 1147980)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/ryanmarten>
 
@@ -114018,7 +114043,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.05259>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 825, Downloads: 1917076)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 826, Downloads: 1913708)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -116066,7 +116091,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6175, Downloads: 239515178)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6178, Downloads: 237133386)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -126504,7 +126529,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.16888>
 
 * **[transferable-samplers/many-peptides-md](ai/models/huggingface-datasets-transferable-samplers.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: transferable-samplers/many-peptides-md (Likes: 11, Downloads: 1439781)
+  * Summary: Trending Hugging Face dataset: transferable-samplers/many-peptides-md (Likes: 11, Downloads: 1836360)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/transferable-samplers>
 
@@ -132783,7 +132808,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.38927>
 
 * **[world-igr-plum/regions](ai/models/huggingface-datasets-world-igr-plum.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: world-igr-plum/regions (Likes: 37, Downloads: 1255548)
+  * Summary: Trending Hugging Face dataset: world-igr-plum/regions (Likes: 37, Downloads: 1210407)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/world-igr-plum>
 
@@ -140572,7 +140597,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.00465>
 
 * **[airalab/autonomous_agent_template](ai/rag/airalab-autonomous-agent-template.md)** (`template` | `useful` tier)
-  * Summary: * Provides a modular autonomous agent template within the AIRA framework. * Implemented in Python, indicating a focus on scripting agent logic. * Targets robotics applications, leveraging ROS for potential integration.
+  * Summary: * Provides a modular AIRA agent reference implementation. * Developed in Python, targeting autonomous robotics applications. * Leverages ROS for agent control and integration within robotic systems.
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/airalab/autonomous_agent_template>
 
@@ -141860,7 +141885,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3807, Downloads: 34779717)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3811, Downloads: 34394329)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -141870,7 +141895,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/BAAI/bge-reranker-v2-m3>
 
 * **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 597, Downloads: 62816319)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 597, Downloads: 62671221)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
@@ -146312,18 +146337,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive RAG application development guide, leveraging frameworks like LangChain and LlamaIndex for practical implementation. * Explores diverse data indexing strategies, including vector databases (Milvus) and knowledge graphs (Neo4j), to opt
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Comprehensive guide to full-stack RAG development, emphasizing practical applications of Retrieval Augmented Generation. * Leverages `langchain` and
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
-* **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive tutorial on intelligent agent architecture and implementation, progressing from foundational principles to practical application.
+* **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
+  * Summary: * Python-centric tutorial for foundational intelligent agent construction. * Covers practical integration of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) within agent architectures. * Provides a comprehensive, hands-on curric
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Comprehensive curriculum for Large Language Model (LLM) application development. * Implemented through interactive Jupyter Notebooks for practical instruction. * Focuses on LangChain framework integration and Retrieval Augmented Generation (RAG) pa
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
+  * Summary: * Comprehensive LLM application development curriculum. * Focuses on practical LangChain
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -154767,7 +154792,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.25647>
 
 * **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (`benchmark` | `useful` tier)
-  * Summary: * Repository offers interactive tutorials on Retrieval Augmented Generation (RAG), primarily implemented in Jupyter
+  * Summary: * Implements Retrieval Augmented Generation (RAG) paradigms. * Comprises tutorial content primarily delivered via Jupyter Notebooks. * Exhibits significant community adoption with 479 stars and 417 forks.
   * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/krishnaik06/RAG-Tutorials>
 
@@ -158889,7 +158914,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/NirDiamant/GenAI_Agents>
 
 * **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (`framework` | `useful` tier)
-  * Summary: * Showcases advanced Retrieval-Augmented Generation (RAG) techniques, including agentic RAG, through detailed Jupyter Notebook tutorials. * Leverages prominent LLM orchestration frameworks (LangChain, LlamaIndex) for integrating embeddings, vector da
+  * Summary: * Showcases advanced Retrieval-Augmented Generation (RAG) methodologies, including agentic RAG, via practical Jupyter notebook tutorials. * Leverages prominent LLM orchestration frameworks (LangChain, LlamaIndex) and vector databases for enhanced sem
   * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`
   * Source URL: <https://github.com/NirDiamant/RAG_Techniques>
 
@@ -160298,11 +160323,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
-* **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * RAGTruth provides a dedicated corpus for identifying and analyzing hallucinations within Retrieval-
-  * Tags: `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/ParticleMedia/RAGTruth>
-
 * **[Partner-Specific Affective Precision in Social Active Inference](ai/rag/arxiv-2609-24876.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.24876v1 Announce Type: new Abstract: In multi-agent social settings, model reliability varies across relationships. Beyond inferring what others will do, an agent must calibrate how confidently those inferences should guide policy selectio
   * Tags: `agents`, `rag`
@@ -160349,8 +160369,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.04075>
 
 * **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI agent architectures. * Content is delivered primarily via Jupyter Notebooks, emphasizing practical, code-centric implementations for A
-  * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`
+  * Summary: * Offers in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI agent architectures. * Content is implemented primarily in Jupyter Notebooks, facilitating interactive exploration of machine learning p
+  * Tags: `agents`, `github-repo`, `jupyter notebook`, `models`, `rag`
   * Source URL: <https://github.com/patchy631/ai-engineering-hub>
 
 * **[PathGuide: Dynamic Classifier-Free Guidance via On-Policy Transport Alignment](ai/rag/arxiv-2608-29107.md)** (`framework` | `useful` tier)
@@ -160899,12 +160919,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2602.00593>
 
 * **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (`framework` | `useful` tier)
-  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system. * Utilizes the LangChain framework for orchestration. * Developed in Python, serving as a practical tutorial/example.
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) pipeline utilizing the Langchain framework. * Developed in Python, providing a programmatic interface for RAG component orchestration. * Serves as a foundational, simplified reference implementation
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/pixegami/langchain-rag-tutorial>
 
 * **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (`dataset` | `useful` tier)
-  * Summary: * Langchain RAG tutorial (v2) demonstrating local LLM integration and deployment. * Features dynamic database updates for RAG data management and persistence. * Incorporates testing methodologies for RAG pipeline validation, implemented in Python.
+  * Summary: * Provides a Langchain-based RAG tutorial (v2) implemented in Python. * Demonstrates integration with local LLMs and incorporates database update mechanisms. * Includes testing methodologies for RAG system validation.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/pixegami/rag-tutorial-v2>
 
@@ -162269,7 +162289,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.03344>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll-based static site source for `raganwald.com`. * Primary repository language identified as HTML, indicative of generated content or core templating. * Exhibits moderate community engagement (30 stars, 59 forks) with an anomalous future-dated
+  * Summary: * Jekyll source repository for `raganwald.com`, primarily HTML-based. * Repository exhibits 30 stars and 59 forks. * Last updated on 2026-07-08T15:07:53Z.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -165319,7 +165339,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.03142>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1418, Downloads: 51962747)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1418, Downloads: 51417545)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -167203,7 +167223,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Python-based Retrieval-Augmented Generation (RAG) system. * Facilitates ingestion and indexing of GitHub repository content for contextual retrieval. * Enables conversational querying against downloaded repository data.
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for knowledge retrieval. * Processes and indexes GitHub repository content as its primary data source. * Provides a conversational interface for interactive querying of downloaded repository
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

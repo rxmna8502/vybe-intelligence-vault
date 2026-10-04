@@ -7,18 +7,20 @@ source_name: Semantic Scholar AI
 source_url: https://semanticscholar.org/paper/47525c80b47569add94a07573428685103e2a961
 authors:
 - Haochen Sun
-- Shuwen Zhang
+- Shu-Wen Zhang
+- Lu-Jie Niu
 - Lei Ren
 - Hao Xu
 - Hao Fu
-- Caixia Yuan
-- Xiaojie Wang
+- Fang-Kun Zhao
+- Cai-Xia Yuan
+- Xiao-Jie Wang
 year: 2025
-citation_count: 33
+citation_count: 44
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328470+05:30'
+collected_at: '2026-10-04T19:41:15.787641+05:30'
 tags:
 - agents
 - benchmark
@@ -31,8 +33,8 @@ tags:
 status: active
 resource_id: blog:collab-overcooked-benchmarking-and-evaluating-larg
 first_seen: '2026-07-19T16:15:04.071855+05:30'
-last_seen: '2026-08-20T18:43:38.328470+05:30'
-last_checked: '2026-08-20T18:43:38.328470+05:30'
+last_seen: '2026-10-04T19:41:15.787641+05:30'
+last_checked: '2026-10-04T19:41:15.787641+05:30'
 health_score: 100
 ---
 
@@ -48,9 +50,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Haochen Sun, Shuwen Zhang, Lei Ren, Hao Xu, Hao Fu, Caixia Yuan, Xiaojie Wang
+- Authors: Haochen Sun, Shu-Wen Zhang, Lu-Jie Niu, Lei Ren, Hao Xu, Hao Fu, Fang-Kun Zhao, Cai-Xia Yuan, Xiao-Jie Wang
 - Publication Year: 2025
-- Citation Count: 33
+- Citation Count: 44
 - Paper Link: https://semanticscholar.org/paper/47525c80b47569add94a07573428685103e2a961
 - Code Link: None
 - Code Stars: N/A

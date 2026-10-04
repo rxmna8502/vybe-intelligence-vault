@@ -8,15 +8,16 @@ source_url: https://semanticscholar.org/paper/ccb1ccc4deacc4fb18000f0e1ce2432954
 authors:
 - Zihao Wang
 - Shaofei Cai
+- Guan-Zhou Chen
 - Anji Liu
-- Xiaojian Ma
+- Xiao-Jian Ma
 - Yitao Liang
 year: 2023
-citation_count: 509
+citation_count: 520
 code_url: None
 stars: N/A
 published_at: '2023-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328539+05:30'
+collected_at: '2026-10-04T19:41:15.787771+05:30'
 tags:
 - agents
 - language
@@ -27,8 +28,8 @@ tags:
 status: active
 resource_id: blog:describe-explain-plan-and-select-interactive-plann
 first_seen: '2026-07-19T16:15:04.071904+05:30'
-last_seen: '2026-08-20T18:43:38.328539+05:30'
-last_checked: '2026-08-20T18:43:38.328539+05:30'
+last_seen: '2026-10-04T19:41:15.787771+05:30'
+last_checked: '2026-10-04T19:41:15.787771+05:30'
 health_score: 100
 ---
 
@@ -44,9 +45,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Zihao Wang, Shaofei Cai, Anji Liu, Xiaojian Ma, Yitao Liang
+- Authors: Zihao Wang, Shaofei Cai, Guan-Zhou Chen, Anji Liu, Xiao-Jian Ma, Yitao Liang
 - Publication Year: 2023
-- Citation Count: 509
+- Citation Count: 520
 - Paper Link: https://semanticscholar.org/paper/ccb1ccc4deacc4fb18000f0e1ce24329548963ae
 - Code Link: None
 - Code Stars: N/A

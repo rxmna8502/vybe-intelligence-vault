@@ -7,14 +7,14 @@ source_url: https://semanticscholar.org/paper/755d79556085d841398de808d3c84e5c4f
 authors:
 - Wenzhe Li
 - Yong Lin
-- Mengzhou Xia
+- Meng-Zhou Xia
 - Chi Jin
 year: 2025
-citation_count: 52
+citation_count: 62
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-08-20T18:43:38.328439+05:30'
+collected_at: '2026-10-04T19:41:15.787600+05:30'
 tags:
 - agents
 - benchmark
@@ -28,8 +28,8 @@ tags:
 status: active
 resource_id: blog:rethinking-mixture-of-agents-is-mixing-different-l
 first_seen: '2026-07-19T16:15:04.071782+05:30'
-last_seen: '2026-08-20T18:43:38.328439+05:30'
-last_checked: '2026-08-20T18:43:38.328439+05:30'
+last_seen: '2026-10-04T19:41:15.787600+05:30'
+last_checked: '2026-10-04T19:41:15.787600+05:30'
 health_score: 100
 ---
 
@@ -45,9 +45,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Wenzhe Li, Yong Lin, Mengzhou Xia, Chi Jin
+- Authors: Wenzhe Li, Yong Lin, Meng-Zhou Xia, Chi Jin
 - Publication Year: 2025
-- Citation Count: 52
+- Citation Count: 62
 - Paper Link: https://semanticscholar.org/paper/755d79556085d841398de808d3c84e5c4f59eb4a
 - Code Link: None
 - Code Stars: N/A

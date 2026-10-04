@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-04T17:03:57.379639+05:30`
+Generated at: `2026-10-04T20:01:58.946405+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents** - Score: `218` in category `ai/community` ([Link](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded)) ([File](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md))
+- **Religious scholars met with Anthropic** - Score: `119` in category `ai/community` ([Link](https://nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)) ([File](../ai/community/religious-scholars-met-with-anthropic.md))
+- **Show HN: AI search for every photo and every frame of video on macOS** - Score: `30` in category `ai/community` ([Link](https://github.com/allenv0/scm)) ([File](../ai/community/allenv0-scm.md))
+- **A survey on large language model based autonomous agents** - Score: `0` in category `ai/research` ([Link](https://semanticscholar.org/paper/28c6ac721f54544162865f41c5692e70d61bccab)) ([File](../ai/research/a-survey-on-large-language-model-based-autonomous.md))
+- **Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification** - Score: `0` in category `ai/research` ([Link](https://semanticscholar.org/paper/8a92c948871a49d2e69fa1f80913207907900d72)) ([File](../ai/research/comprehensive-verilog-design-problems-a-next-gener.md))
 
 ## Top Trending Resources
 
-- **langchain-ai/new-langgraphjs-project** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
-- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/airweave-ai-airweave.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **vercel/ai** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/agents/vercel-ai.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **NVIDIA/workbench-example-hybrid-rag** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/nvidia-workbench-example-hybrid-rag.md))
+- **I quit OpenAI because its culture is broken** - Score: `316` (+168), Rank Change: `0` ([File](../ai/community/i-quit-openai-because-its-culture-is-broken.md))
+- **Agents don't need memory, they need documentation** - Score: `245` (+126), Rank Change: `0` ([File](../ai/community/agents-don-t-need-memory-they-need-documentation.md))
+- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+4087` ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **airalab/autonomous_agent_template** - Score: `0` (0), Rank Change: `+4384` ([File](../ai/rag/airalab-autonomous-agent-template.md))
+- **mvanhorn/clawdbot-skill-manus** - Score: `0` (0), Rank Change: `+4384` ([File](../ai/agents/mvanhorn-clawdbot-skill-manus.md))
+- **daimon111/daimon-template** - Score: `0` (0), Rank Change: `+4085` ([File](../ai/agents/daimon111-daimon-template.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
+- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1026` ([File](../ai/rag/nirdiamant-rag-techniques.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9279`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1023`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1023`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1023`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1023`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1023`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **airalab/autonomous_agent_template** - (Rank Change: `+4384`) ([File](../ai/rag/airalab-autonomous-agent-template.md))
+- **mvanhorn/clawdbot-skill-manus** - (Rank Change: `+4384`) ([File](../ai/agents/mvanhorn-clawdbot-skill-manus.md))
+- **Senpi-ai/senpi-skills** - (Rank Change: `+4087`) ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **daimon111/daimon-template** - (Rank Change: `+4085`) ([File](../ai/agents/daimon111-daimon-template.md))
+- **krishnaik06/RAG-Tutorials** - (Rank Change: `+1030`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **datawhalechina/hello-agents** - (Rank Change: `+1029`) ([File](../ai/rag/datawhalechina-hello-agents.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1029`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **pixegami/rag-tutorial-v2** - (Rank Change: `+1028`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1027`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **NirDiamant/RAG_Techniques** - (Rank Change: `+1026`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Three AI agents, two countries, and one uneven world wide web** (Category: `ai/community`) ([File](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md))

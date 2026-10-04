@@ -5,7 +5,7 @@ source_type: research
 source_name: Semantic Scholar AI
 source_url: https://semanticscholar.org/paper/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5
 authors:
-- Yunfan Gao
+- Yun-Fan Gao
 - Yun Xiong
 - Xin-Yu Gao
 - Kang-Xiang Jia
@@ -17,11 +17,11 @@ authors:
 - Meng Wang
 - Hao-Fen Wang
 year: 2023
-citation_count: 4194
+citation_count: 4208
 code_url: None
 stars: N/A
 published_at: '2023-01-01T00:00:00Z'
-collected_at: '2026-10-03T10:58:28.396475+05:30'
+collected_at: '2026-10-04T19:41:14.688188+05:30'
 tags:
 - augmented
 - benchmark
@@ -34,8 +34,8 @@ tags:
 status: active
 resource_id: blog:retrieval-augmented-generation-for-large-language
 first_seen: '2026-07-19T16:15:03.003807+05:30'
-last_seen: '2026-10-03T10:58:28.396475+05:30'
-last_checked: '2026-10-03T10:58:28.396475+05:30'
+last_seen: '2026-10-04T19:41:14.688188+05:30'
+last_checked: '2026-10-04T19:41:14.688188+05:30'
 health_score: 100
 ---
 
@@ -51,9 +51,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Yunfan Gao, Yun Xiong, Xin-Yu Gao, Kang-Xiang Jia, Jin Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Qian-Yu Guo, Meng Wang, Hao-Fen Wang
+- Authors: Yun-Fan Gao, Yun Xiong, Xin-Yu Gao, Kang-Xiang Jia, Jin Pan, Yuxi Bi, Yi Dai, Jiawei Sun, Qian-Yu Guo, Meng Wang, Hao-Fen Wang
 - Publication Year: 2023
-- Citation Count: 4194
+- Citation Count: 4208
 - Paper Link: https://semanticscholar.org/paper/46f9f7b8f88f72e12cbdb21e3311f995eb6e65c5
 - Code Link: None
 - Code Stars: N/A
