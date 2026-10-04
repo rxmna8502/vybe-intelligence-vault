@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-04T11:52:21.109883+05:30`
+Generated at: `2026-10-04T17:03:57.379639+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **I quit OpenAI because its culture is broken** - Score: `148` in category `ai/community` ([Link](https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA)) ([File](../ai/community/i-quit-openai-because-its-culture-is-broken.md))
-- **Three AI agents, two countries, and one uneven world wide web** - Score: `21` in category `ai/community` ([Link](https://royapakzad.substack.com/p/multilingual-ai-agents)) ([File](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Agents don't need memory, they need documentation** - Score: `119` (+102), Rank Change: `+1` ([File](../ai/community/agents-don-t-need-memory-they-need-documentation.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/audio-acoustics.md))
-- **Artificial intelligence** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/artificial-intelligence.md))
-- **Code, datasets and models** - Score: `0` (0), Rank Change: `+6` ([File](../ai/companies/code-datasets-and-models.md))
+- **langchain-ai/new-langgraphjs-project** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **airweave-ai/airweave** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/airweave-ai-airweave.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **vercel/ai** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/agents/vercel-ai.md))
+- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/nirdiamant-genai-agents.md))
+- **NVIDIA/workbench-example-hybrid-rag** - Score: `0` (0), Rank Change: `+1020` ([File](../ai/rag/nvidia-workbench-example-hybrid-rag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+93`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+93`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - (Rank Change: `+93`) ([File](../ai/rag/react-19-3.md))
-- **Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md))
-- **Aug 27, 2026Announcements Expanding our support for scientists** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md))
-- **Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md))
-- **Aug 31, 2026AnnouncementsImproving our alignment and security efforts** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md))
-- **Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md))
-- **Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md))
-- **Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation** - (Rank Change: `+80`) ([File](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9279`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1023`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1023`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1023`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1023`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1023`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1023`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents** (Category: `ai/community`) ([File](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md))
-- **OpenAI safety leader quits, warning AI company's culture is 'broken'** (Category: `ai/community`) ([File](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md))
+No recently active resources transitioned to inactive.
+
