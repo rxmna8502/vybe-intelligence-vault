@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:i-quit-openai-because-its-culture-is-broken
 first_seen: '2026-10-04T11:33:01.791961+05:30'
 last_seen: '2026-10-04T19:41:16.470801+05:30'
 last_checked: '2026-10-04T19:41:16.470801+05:30'
 health_score: 100
 ---
+
 
 # I quit OpenAI because its culture is broken
 

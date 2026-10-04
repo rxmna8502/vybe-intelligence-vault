@@ -7784,9 +7784,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
+  - [How to scale intent, quality, and artistry with AI [video]](../ai/community/youtube-glvftmtw4jk.md)
   - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
   - [Show HN: AI search for every photo and every frame of video on macOS](../ai/community/allenv0-scm.md)
+  - [What's the future for pure math research in the age of AI?](../ai/community/what-s-the-future-for-pure-math-research-in-the-ag.md)
 
 ## animation
 
@@ -8366,7 +8367,6 @@ Resources organized by keyword tags.
   - [Release policy - Docs by LangChain](../ai/agents/release-policy-docs-by-langchain.md)
   - [Releases · docker/compose · GitHub](../ai/agents/docker-compose.md)
   - [Releases · jgm/pandoc · GitHub](../ai/rag/jgm-pandoc.md)
-  - [Religious scholars met with Anthropic](../ai/community/religious-scholars-met-with-anthropic.md)
   - [Replicating the Geometry of Emotion Representations in a Base Open-Weights Model](../ai/rag/arxiv-2609-22208.md)
   - [ReproAgent: Contract-Guided Paper-to-Code Reproduction](../ai/agents/arxiv-2608-24291.md)
   - [Reputation, Strategy, and Emotion Effects on Generative AI Cooperation: A Comparison Across Reasoning and Non-Reasoning Models](../ai/agents/arxiv-2610-01222.md)
@@ -27120,7 +27120,6 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -31985,6 +31984,7 @@ Resources organized by keyword tags.
   - [Building Trustworthy Mental Health Benchmarks on Bluesky: A Validation-Aware Weak-Supervision Framework](../ai/research/arxiv-2609-22696.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building a Neural Network from Scratch: Implementation, Evaluation, and Optimization](../ai/research/arxiv-2607-16682.md)
+  - [Building a RAG pipeline for semantic code search](../ai/community/building-a-rag-pipeline-for-semantic-code-search.md)
   - [Building evidence-based knowledge bases from full-text literature for disease-specific biomedical reasoning](../ai/rag/arxiv-2603-28325.md)
   - [Building scalable AI agents with modular prompt transpilation - Google Developers Blog](../ai/rag/building-scalable-ai-agents-with-modular-prompt-tr.md)
   - [Business Data Responsibility](../ai/rag/business-data-responsibility.md)
@@ -33156,6 +33156,7 @@ Resources organized by keyword tags.
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
+  - [How to scale intent, quality, and artistry with AI [video]](../ai/community/youtube-glvftmtw4jk.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
@@ -33180,7 +33181,6 @@ Resources organized by keyword tags.
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
-  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
@@ -34304,7 +34304,6 @@ Resources organized by keyword tags.
   - [Reliable Federated TinyML Deployment for IoT Security](../ai/research/arxiv-2609-27202.md)
   - [Reliable Near-Field Multi-User Positioning Informed by Two-Stage MUSIC](../ai/research/arxiv-2609-09409.md)
   - [Reliable and Developer-Aligned Evaluation of Agents for Software Engineering](../ai/rag/arxiv-2607-06713.md)
-  - [Religious scholars met with Anthropic](../ai/community/religious-scholars-met-with-anthropic.md)
   - [Remix - A Web Framework for Building Anything](../ai/agents/remix-a-web-framework-for-building-anything.md)
   - [Remote Awareness of Seafloor Images Collected by AUVs over Low-Bandwidth Communication Links](../ai/rag/arxiv-2607-18013.md)
   - [Remote Development - Visual Studio Marketplace](../ai/rag/remote-development-visual-studio-marketplace.md)
@@ -35219,6 +35218,7 @@ Resources organized by keyword tags.
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
+  - [What's the future for pure math research in the age of AI?](../ai/community/what-s-the-future-for-pure-math-research-in-the-ag.md)
   - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](../ai/research/arxiv-2512-04124.md)
   - [When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor](../ai/rag/arxiv-2609-01985.md)
   - [When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents](../ai/rag/arxiv-2607-06595.md)
@@ -44444,7 +44444,6 @@ Resources organized by keyword tags.
   - [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference](../ai/rag/arxiv-2609-30270.md)
-  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
   - [I wanted it to feel more personal: Customization of social AI as AI individualism in practice](../ai/rag/arxiv-2607-17826.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO](../ai/agents/arxiv-2606-23032.md)
@@ -52734,6 +52733,7 @@ Resources organized by keyword tags.
   - [Building Trustworthy Graph-Agentic RAG for Social Good: Architectures, Failure Propagation, and Assurance by Construction](../ai/rag/arxiv-2609-06391.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building a Production Greek-English Speech Recognizer](../ai/rag/arxiv-2609-13498.md)
+  - [Building a RAG pipeline for semantic code search](../ai/community/building-a-rag-pipeline-for-semantic-code-search.md)
   - [Building a User Foundation Model for the Open Web](../ai/rag/arxiv-2607-28019.md)
   - [Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech](../ai/rag/arxiv-2609-03502.md)
   - [Building evidence-based knowledge bases from full-text literature for disease-specific biomedical reasoning](../ai/rag/arxiv-2603-28325.md)
@@ -71338,6 +71338,7 @@ Resources organized by keyword tags.
   - [How to Think About TPUs | How To Scale Your Model](../ai/rag/how-to-think-about-tpus-how-to-scale-your-model.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
   - [How to enable JavaScript in your browser and why](../ai/resources/how-to-enable-javascript-in-your-browser-and-why.md)
+  - [How to scale intent, quality, and artistry with AI [video]](../ai/community/youtube-glvftmtw4jk.md)
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [How we’re helping kids and families safely learn, grow and play online](../ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md)
   - [How your Apple Card application is evaluated - Apple Support](../ai/resources/how-your-apple-card-application-is-evaluated-apple.md)
@@ -73210,4 +73211,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-04T19:57:46.861994+05:30*
+*Index generated on 2026-10-05T01:31:22.971580+05:30*

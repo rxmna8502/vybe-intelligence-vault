@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/allenv0/scm
 hn_url: https://news.ycombinator.com/item?id=49952111
-score: 30
+score: 102
 author: allenleee
-comments_count: 15
+comments_count: 56
 published_at: '2026-10-04T14:54:52+05:30'
-collected_at: '2026-10-04T19:41:14.638190+05:30'
+collected_at: '2026-10-05T01:14:51.609934+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:allenv0/scm
 first_seen: '2026-10-04T19:41:14.638190+05:30'
-last_seen: '2026-10-04T19:41:14.638190+05:30'
-last_checked: '2026-10-04T19:41:14.638190+05:30'
+last_seen: '2026-10-05T01:14:51.609934+05:30'
+last_checked: '2026-10-05T01:14:51.609934+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by allenleee. Score: 30, Comments: 15.
+Hacker News story by allenleee. Score: 102, Comments: 56.
 Original Link: https://github.com/allenv0/SCM
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: allenleee
-- Score: 30 Upvotes
-- Comments: 15 Discussions
+- Score: 102 Upvotes
+- Comments: 56 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49952111
 - Original Article: https://github.com/allenv0/scm
 

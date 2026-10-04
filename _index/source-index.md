@@ -30933,10 +30933,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Agents don't need memory, they need documentation](../ai/community/agents-don-t-need-memory-they-need-documentation.md)
-  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
+  - [Building a RAG pipeline for semantic code search](../ai/community/building-a-rag-pipeline-for-semantic-code-search.md)
+  - [How to scale intent, quality, and artistry with AI [video]](../ai/community/youtube-glvftmtw4jk.md)
   - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
-  - [Religious scholars met with Anthropic](../ai/community/religious-scholars-met-with-anthropic.md)
   - [Show HN: AI search for every photo and every frame of video on macOS](../ai/community/allenv0-scm.md)
+  - [What's the future for pure math research in the age of AI?](../ai/community/what-s-the-future-for-pure-math-research-in-the-ag.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -34815,4 +34816,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-04T19:57:47.252187+05:30*
+*Index generated on 2026-10-05T01:31:23.283236+05:30*

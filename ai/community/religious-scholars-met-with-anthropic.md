@@ -13,13 +13,14 @@ collected_at: '2026-10-04T19:41:16.374063+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:religious-scholars-met-with-anthropic
 first_seen: '2026-10-04T19:41:16.374063+05:30'
 last_seen: '2026-10-04T19:41:16.374063+05:30'
 last_checked: '2026-10-04T19:41:16.374063+05:30'
 health_score: 100
 ---
+
 
 # Religious scholars met with Anthropic
 
