@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://liao.gg/blog/agents-dont-need-memory
 hn_url: https://news.ycombinator.com/item?id=49945933
-score: 315
+score: 338
 author: kmeh
-comments_count: 194
+comments_count: 205
 published_at: '2026-10-03T22:33:37+05:30'
-collected_at: '2026-10-05T01:14:53.220568+05:30'
+collected_at: '2026-10-05T04:49:10.222560+05:30'
 tags:
 - agents
 - hackernews
 status: active
 resource_id: hackernews:agents-don-t-need-memory-they-need-documentation
 first_seen: '2026-10-04T04:40:23.682726+05:30'
-last_seen: '2026-10-05T01:14:53.220568+05:30'
-last_checked: '2026-10-05T01:14:53.220568+05:30'
+last_seen: '2026-10-05T04:49:10.222560+05:30'
+last_checked: '2026-10-05T04:49:10.222560+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by kmeh. Score: 315, Comments: 194.
+Hacker News story by kmeh. Score: 338, Comments: 205.
 Original Link: https://liao.gg/blog/agents-dont-need-memory
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: kmeh
-- Score: 315 Upvotes
-- Comments: 194 Discussions
+- Score: 338 Upvotes
+- Comments: 205 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49945933
 - Original Article: https://liao.gg/blog/agents-dont-need-memory
 

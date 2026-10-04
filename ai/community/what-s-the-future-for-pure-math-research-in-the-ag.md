@@ -13,13 +13,14 @@ collected_at: '2026-10-05T01:14:54.240740+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-s-the-future-for-pure-math-research-in-the-ag
 first_seen: '2026-10-05T01:14:54.240740+05:30'
 last_seen: '2026-10-05T01:14:54.240740+05:30'
 last_checked: '2026-10-05T01:14:54.240740+05:30'
 health_score: 100
 ---
+
 
 # What's the future for pure math research in the age of AI?
 

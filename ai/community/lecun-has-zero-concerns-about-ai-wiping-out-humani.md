@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:lecun-has-zero-concerns-about-ai-wiping-out-humani
 first_seen: '2026-10-04T04:40:22.083715+05:30'
 last_seen: '2026-10-05T01:14:53.796523+05:30'
 last_checked: '2026-10-05T01:14:53.796523+05:30'
 health_score: 100
 ---
+
 
 # LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents
 

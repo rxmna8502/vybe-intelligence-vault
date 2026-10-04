@@ -13,13 +13,14 @@ collected_at: '2026-10-05T01:14:52.049701+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:building-a-rag-pipeline-for-semantic-code-search
 first_seen: '2026-10-05T01:14:52.049701+05:30'
 last_seen: '2026-10-05T01:14:52.049701+05:30'
 last_checked: '2026-10-05T01:14:52.049701+05:30'
 health_score: 100
 ---
+
 
 # Building a RAG pipeline for semantic code search
 

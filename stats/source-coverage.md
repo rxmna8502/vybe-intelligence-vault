@@ -7,7 +7,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | arxiv | 30047 |
 | github | 1018 |
 | semanticscholar.org | 70 |
-| youtube | 67 |
+| youtube | 68 |
 | support.google.com | 59 |
 | huggingface | 25 |
 | developers.google.com | 23 |
@@ -71,7 +71,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | docs.databricks.com | 5 |
 | hub.docker.com | 5 |
 | datatracker.ietf.org | 5 |
-| blog.jetbrains.com | 4 |
 | docs.ragas.io | 4 |
 | llamaindex.ai | 4 |
 | platform.openai.com | 4 |
@@ -129,6 +128,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | docs.cohere.com | 3 |
 | owasp.org | 3 |
 | training.linuxfoundation.org | 3 |
+| blog.jetbrains.com | 3 |
 | medium.zendesk.com | 3 |
 | resemble.ai | 3 |
 | chatgpt.com | 3 |
@@ -302,9 +302,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| fortune.com | 1 |
 | liao.gg | 1 |
-| writings.stephenwolfram.com | 1 |
+| birdshistory.com | 1 |
+| alexalejandre.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

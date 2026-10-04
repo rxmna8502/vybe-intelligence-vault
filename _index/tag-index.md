@@ -7784,10 +7784,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Declaring a bird extinct: The median wait is 36 years after the last sighting](../ai/community/declaring-a-bird-extinct-the-median-wait-is-36-yea.md)
+  - [Homa: The end of TCP for AI clusters [video]](../ai/community/youtube-ez8wwzzoar0.md)
   - [How to scale intent, quality, and artistry with AI [video]](../ai/community/youtube-glvftmtw4jk.md)
-  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
+  - [Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex](../ai/community/interview-with-chicken-scheme-maintainer-sjamaan-p.md)
   - [Show HN: AI search for every photo and every frame of video on macOS](../ai/community/allenv0-scm.md)
-  - [What's the future for pure math research in the age of AI?](../ai/community/what-s-the-future-for-pure-math-research-in-the-ag.md)
 
 ## animation
 
@@ -8228,7 +8229,6 @@ Resources organized by keyword tags.
   - [Langfuse](../ai/rag/langfuse.md)
   - [Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](../ai/research/arxiv-2607-06963.md)
   - [Large Language Models for Code Generation from Multilingual Prompts: A Curated Benchmark and a Study on Code Quality](../ai/research/arxiv-2607-14816.md)
-  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
   - [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../ai/rag/arxiv-2605-20244.md)
   - [Learning Path Resources - Analytics Vidhya](../ai/rag/learning-path-resources-analytics-vidhya.md)
   - [Learning to reason with LLMs | OpenAI](../ai/rag/learning-to-reason-with-llms-openai.md)
@@ -31984,7 +31984,6 @@ Resources organized by keyword tags.
   - [Building Trustworthy Mental Health Benchmarks on Bluesky: A Validation-Aware Weak-Supervision Framework](../ai/research/arxiv-2609-22696.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building a Neural Network from Scratch: Implementation, Evaluation, and Optimization](../ai/research/arxiv-2607-16682.md)
-  - [Building a RAG pipeline for semantic code search](../ai/community/building-a-rag-pipeline-for-semantic-code-search.md)
   - [Building evidence-based knowledge bases from full-text literature for disease-specific biomedical reasoning](../ai/rag/arxiv-2603-28325.md)
   - [Building scalable AI agents with modular prompt transpilation - Google Developers Blog](../ai/rag/building-scalable-ai-agents-with-modular-prompt-tr.md)
   - [Business Data Responsibility](../ai/rag/business-data-responsibility.md)
@@ -32357,6 +32356,7 @@ Resources organized by keyword tags.
   - [Decision-Focused Learning for Mean-Variance Portfolio Optimization via KKT-Based Reformulation](../ai/research/arxiv-2609-21427.md)
   - [Decision-oriented joint optimization of evidence fusion based on event-conditioned credibility](../ai/research/arxiv-2504-04128.md)
   - [Declarations & Communiques – Global Privacy Assembly](../ai/resources/declarations-communiques-global-privacy-assembly.md)
+  - [Declaring a bird extinct: The median wait is 36 years after the last sighting](../ai/community/declaring-a-bird-extinct-the-median-wait-is-36-yea.md)
   - [DecoVAE: a Lightweight Interpretable Trend-Seasonal VAE Framework for Efficient Probabilistic Time Series Forecasting](../ai/research/arxiv-2608-20052.md)
   - [Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection](../ai/research/arxiv-2609-24801.md)
   - [Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System](../ai/rag/arxiv-2602-18640.md)
@@ -33097,6 +33097,7 @@ Resources organized by keyword tags.
   - [High-accuracy Low-Bit KV-Cache Quantization via Local Distribution Restoration](../ai/research/arxiv-2607-16248.md)
   - [Higher-Order Certified Robustness for Regression](../ai/research/arxiv-2607-05536.md)
   - [Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning](../ai/rag/arxiv-2606-24133.md)
+  - [Homa: The end of TCP for AI clusters [video]](../ai/community/youtube-ez8wwzzoar0.md)
   - [Home - CMSA](../ai/resources/home-cmsa.md)
   - [Home - Coalition for Secure AI](../ai/rag/home-coalition-for-secure-ai.md)
   - [Home - Cornell Research & Innovation](../ai/resources/home-cornell-research-innovation.md)
@@ -33284,6 +33285,7 @@ Resources organized by keyword tags.
   - [Interpretable clustering via optimal multi-way decision trees](../ai/research/arxiv-2602-13586.md)
   - [Interpreting Language Model Hidden States at Scale](../ai/rag/arxiv-2608-10260.md)
   - [Interpreting Protein Language Model Embeddings via Orthogonal Projection for Protein Fitness Prediction](../ai/rag/arxiv-2608-25548.md)
+  - [Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex](../ai/community/interview-with-chicken-scheme-maintainer-sjamaan-p.md)
   - [Into the danger zone: stable extrapolation in high-dimensional function and operator learning](../ai/research/arxiv-2609-36709.md)
   - [Intrinsic Associative Memory on Riemannian Manifolds: Curvature, Capacity, and Emergent Modes](../ai/rag/arxiv-2609-35948.md)
   - [Introducing EmbeddingGemma: The Best-in-Class Open Model for On-Device Embeddings - Google Developers Blog](../ai/rag/introducing-embeddinggemma-the-best-in-class-open.md)
@@ -33423,7 +33425,6 @@ Resources organized by keyword tags.
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
-  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
   - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius - The JetBrains Blog](../ai/agents/learn-ai-assisted-programming-with-junie-free-cour.md)
@@ -35218,7 +35219,6 @@ Resources organized by keyword tags.
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
-  - [What's the future for pure math research in the age of AI?](../ai/community/what-s-the-future-for-pure-math-research-in-the-ag.md)
   - [When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models](../ai/research/arxiv-2512-04124.md)
   - [When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor](../ai/rag/arxiv-2609-01985.md)
   - [When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents](../ai/rag/arxiv-2607-06595.md)
@@ -35367,6 +35367,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -52733,7 +52734,6 @@ Resources organized by keyword tags.
   - [Building Trustworthy Graph-Agentic RAG for Social Good: Architectures, Failure Propagation, and Assurance by Construction](../ai/rag/arxiv-2609-06391.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building a Production Greek-English Speech Recognizer](../ai/rag/arxiv-2609-13498.md)
-  - [Building a RAG pipeline for semantic code search](../ai/community/building-a-rag-pipeline-for-semantic-code-search.md)
   - [Building a User Foundation Model for the Open Web](../ai/rag/arxiv-2607-28019.md)
   - [Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech](../ai/rag/arxiv-2609-03502.md)
   - [Building evidence-based knowledge bases from full-text literature for disease-specific biomedical reasoning](../ai/rag/arxiv-2603-28325.md)
@@ -69882,7 +69882,6 @@ Resources organized by keyword tags.
   - [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md)
   - [langchain-ai/langgraphjs](../ai/rag/langchain-ai-langgraphjs.md)
   - [langchain-ai/open-swe](../ai/agents/langchain-ai-open-swe.md)
-  - [langchain-ai/react-agent](../ai/agents/langchain-ai-react-agent.md)
   - [langchain-ai/retrieval-agent-template](../ai/rag/langchain-ai-retrieval-agent-template.md)
   - [langfuse/langfuse](../ai/agents/langfuse-langfuse.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
@@ -71302,6 +71301,7 @@ Resources organized by keyword tags.
   - [Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs](../ai/rag/arxiv-2606-12280.md)
   - [Holographic generative flows with AdS/CFT](../ai/rag/arxiv-2601-22033.md)
   - [Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis](../ai/research/arxiv-2608-19297.md)
+  - [Homa: The end of TCP for AI clusters [video]](../ai/community/youtube-ez8wwzzoar0.md)
   - [Home](../ai/agents/home.md)
   - [Home - Google Developers Blog](../ai/rag/home-google-developers-blog.md)
   - [Home - Inside Atlassian](../ai/agents/home-inside-atlassian.md)
@@ -73211,4 +73211,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-05T01:31:22.971580+05:30*
+*Index generated on 2026-10-05T05:05:38.347244+05:30*
