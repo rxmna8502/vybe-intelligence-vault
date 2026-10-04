@@ -30933,8 +30933,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Agents don't need memory, they need documentation](../ai/community/agents-don-t-need-memory-they-need-documentation.md)
-  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
-  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
+  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -34811,4 +34811,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-04T04:56:32.768163+05:30*
+*Index generated on 2026-10-04T11:49:22.692446+05:30*

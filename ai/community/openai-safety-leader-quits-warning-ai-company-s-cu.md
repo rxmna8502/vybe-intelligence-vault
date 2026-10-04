@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-safety-leader-quits-warning-ai-company-s-cu
 first_seen: '2026-10-04T04:40:22.701577+05:30'
 last_seen: '2026-10-04T04:40:22.701577+05:30'
 last_checked: '2026-10-04T04:40:22.701577+05:30'
 health_score: 100
 ---
+
 
 # OpenAI safety leader quits, warning AI company's culture is 'broken'
 

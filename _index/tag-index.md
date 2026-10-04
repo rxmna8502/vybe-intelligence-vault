@@ -6643,6 +6643,7 @@ Resources organized by keyword tags.
   - [Thomson: Continual Learning of Frontier Models for SovereignAI](../ai/agents/arxiv-2608-27147.md)
   - [Threat-Aware Energy-Efficient Deployment for Dynamic UAV Networks: A Multi-Agent RL Approach](../ai/agents/arxiv-2609-30690.md)
   - [Threat-guided Policy-aware Scene Perturbation for Safe Autonomous Driving with Online Reinforcement Learning](../ai/agents/arxiv-2608-10403.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
   - [Three-Way Open-Set Detection for Robust Autonomous Navigation](../ai/agents/arxiv-2511-15343.md)
   - [ThuRunel: Dynamic Decoupling for Structured Advisory Dialogue](../ai/agents/arxiv-2609-36340.md)
   - [TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents](../ai/rag/arxiv-2609-23363.md)
@@ -7782,8 +7783,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
-  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
+  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
 
 ## animation
 
@@ -8224,7 +8225,6 @@ Resources organized by keyword tags.
   - [Langfuse](../ai/rag/langfuse.md)
   - [Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies](../ai/research/arxiv-2607-06963.md)
   - [Large Language Models for Code Generation from Multilingual Prompts: A Curated Benchmark and a Study on Code Quality](../ai/research/arxiv-2607-14816.md)
-  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
   - [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../ai/rag/arxiv-2605-20244.md)
   - [Learning Path Resources - Analytics Vidhya](../ai/rag/learning-path-resources-analytics-vidhya.md)
   - [Learning to reason with LLMs | OpenAI](../ai/rag/learning-to-reason-with-llms-openai.md)
@@ -33170,6 +33170,7 @@ Resources organized by keyword tags.
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
+  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
@@ -33412,7 +33413,6 @@ Resources organized by keyword tags.
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
-  - [LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents](../ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
   - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius - The JetBrains Blog](../ai/agents/learn-ai-assisted-programming-with-junie-free-cour.md)
@@ -33902,7 +33902,6 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -34896,6 +34895,7 @@ Resources organized by keyword tags.
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
+  - [Three AI agents, two countries, and one uneven world wide web](../ai/community/three-ai-agents-two-countries-and-one-uneven-world.md)
   - [Three-dimensional Conditional Diffusion Models for Cosmological 21 cm Lightcone Emulation](../ai/research/arxiv-2605-29016.md)
   - [Tight Sample Complexity Bounds for Entropic Best Policy Identification](../ai/rag/arxiv-2605-13717.md)
   - [Tightening the Score Matching Gap for Diffusion Models](../ai/research/arxiv-2607-04442.md)
@@ -44425,6 +44425,7 @@ Resources organized by keyword tags.
   - [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference](../ai/rag/arxiv-2609-30270.md)
+  - [I quit OpenAI because its culture is broken](../ai/community/i-quit-openai-because-its-culture-is-broken.md)
   - [I wanted it to feel more personal: Customization of social AI as AI individualism in practice](../ai/rag/arxiv-2607-17826.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO](../ai/agents/arxiv-2606-23032.md)
@@ -44563,7 +44564,6 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
-  - [OpenAI safety leader quits, warning AI company's culture is 'broken'](../ai/community/openai-safety-leader-quits-warning-ai-company-s-cu.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
@@ -73185,4 +73185,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-04T04:56:32.487089+05:30*
+*Index generated on 2026-10-04T11:49:22.361000+05:30*
