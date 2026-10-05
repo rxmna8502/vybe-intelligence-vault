@@ -13,13 +13,14 @@ collected_at: '2026-10-05T11:22:35.994471+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:powerless-f1-drivers-frustrated-by-bahrain-f1-soft
 first_seen: '2026-10-05T11:22:35.994471+05:30'
 last_seen: '2026-10-05T11:22:35.994471+05:30'
 last_checked: '2026-10-05T11:22:35.994471+05:30'
 health_score: 100
 ---
+
 
 # Powerless F1 drivers frustrated by Bahrain F1 software glitch
 

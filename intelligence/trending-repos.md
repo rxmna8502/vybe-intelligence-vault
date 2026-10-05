@@ -5,7 +5,6 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
-| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | `ai-coding-agents/` | 70 |
 | [sanjeed5 (Sanjeed) · GitHub](https://github.com/sanjeed5) | `ai-coding-agents/` | 70 |
@@ -19,6 +18,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [wxmb01/codex-app-autonomous-runs](https://github.com/wxmb01/codex-app-autonomous-runs) | `ai-coding-agents/` | 70 |
 | [labring/sealos](https://github.com/labring/sealos) | `ai-coding-agents/` | 70 |
+| [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills) | `ai-coding-agents/` | 70 |
 | [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode) | `ai-coding-agents/` | 70 |
 | [avinash201199/free-ai-agents-resources](https://github.com/avinash201199/free-ai-agents-resources) | `ai-coding-agents/` | 70 |
 | [idosal/git-mcp](https://github.com/idosal/git-mcp) | `ai-coding-agents/` | 70 |

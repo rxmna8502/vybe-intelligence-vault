@@ -13,13 +13,14 @@ collected_at: '2026-10-05T11:22:37.641721+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:all-i-wanted-was-a-custom-domain-email
 first_seen: '2026-10-05T11:22:37.641721+05:30'
 last_seen: '2026-10-05T11:22:37.641721+05:30'
 last_checked: '2026-10-05T11:22:37.641721+05:30'
 health_score: 100
 ---
+
 
 # All I wanted was a custom domain email
 

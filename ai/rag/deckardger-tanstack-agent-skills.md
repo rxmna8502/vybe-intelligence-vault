@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-08-10T19:22:09.389629+05:30'
-published_at: '2026-08-03T07:49:22Z'
+collected_at: '2026-10-05T22:49:06.436954+05:30'
+published_at: '2026-10-02T00:00:26Z'
 tags:
 - agents
 - github-repo
 - rag
 - reddit
 - unknown
-stars: 205
+- workflows
+stars: 222
 language: Unknown
 status: active
+license: MIT
 archived: false
 created_at: '2026-01-16T07:31:33Z'
-pushed_at: '2026-04-03T05:02:53Z'
+pushed_at: '2026-09-09T15:09:46Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-08-10T19:22:09.389629+05:30'
-last_seen: '2026-08-10T19:22:09.389629+05:30'
-last_checked: '2026-08-10T19:22:09.389629+05:30'
+first_seen: '2026-10-05T22:49:06.436954+05:30'
+last_seen: '2026-10-05T22:49:06.436954+05:30'
+last_checked: '2026-10-05T22:49:06.436954+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) and background refetching strategies.
-
-- **Router-Aware State Management**: Implements dynamic route-based data loading and prefetching with TanStack Router, leveraging type-safe route matching to minimize hydration mismatches and optimize client-side navigation in AI agents.
-
-- **Start Framework Synergy**: Integrates TanStack Start (meta-framework) for SSR/SSG compatibility, showcasing hydration strategies and edge-optimized data fetching to reduce Time-to-First-Byte (TTFB) in AI-generated UIs.
+*   Defines best practices for AI coding agents utilizing the TanStack ecosystem.
+*   Focuses on optimal integration patterns for TanStack Query, Router, and Start within agentic workflows.
+*   Provides "skills" for AI agents to effectively interact with and generate code leveraging these frameworks.
 
 ## Why It Matters
 
@@ -42,14 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DeckardGer
-- Stars: 205
-- Forks: 17
+- Stars: 222
+- Forks: 19
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-03T07:49:22Z
+- Last Updated: 2026-10-02T00:00:26Z
+- License: MIT
 - Archived: No
 - Created At: 2026-01-16T07:31:33Z
-- Pushed At: 2026-04-03T05:02:53Z
+- Pushed At: 2026-09-09T15:09:46Z
 
 ## Possible Use Cases
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:GLvFTMtw4Jk
 first_seen: '2026-10-05T01:14:51.449338+05:30'
 last_seen: '2026-10-05T11:22:37.782812+05:30'
 last_checked: '2026-10-05T11:22:37.782812+05:30'
 health_score: 100
 ---
+
 
 # How to scale intent, quality, and artistry with AI [video]
 

@@ -16,6 +16,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools](https://arxiv.org/abs/2608.04719) | `mcp-registry/` | 70 |
 | [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](https://arxiv.org/abs/2607.08495) | `mcp-registry/` | 70 |
 | [T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://arxiv.org/abs/2603.22341) | `mcp-registry/` | 70 |
+| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` | 70 |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
 | [Agentic AI – Personal RAG System - Hugo Atlantic](https://subhashydv.github.io/blog/2025/09/agentic-ai-personal-rag-system/) | `mcp-registry/` | 70 |
 | [SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving](https://arxiv.org/abs/2607.23933) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Collaboration software for software, IT and business teams | Atlassian](https://www.atlassian.com) | `mcp-registry/` | 70 |
 | [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) | `mcp-registry/` | 70 |
 | [How ServiceNow uses LangSmith to get visibility into its customer success agents](https://blog.langchain.com/customers-servicenow/) | `mcp-registry/` | 70 |
-| [AI for Research | Scite](https://www.scite.ai/) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -13,13 +13,14 @@ collected_at: '2026-10-05T11:22:36.770358+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:interview-with-chicken-scheme-maintainer-sjamaan-p
 first_seen: '2026-10-05T04:49:09.137838+05:30'
 last_seen: '2026-10-05T11:22:36.770358+05:30'
 last_checked: '2026-10-05T11:22:36.770358+05:30'
 health_score: 100
 ---
+
 
 # Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex
 

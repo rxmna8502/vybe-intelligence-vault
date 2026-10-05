@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: github:allenv0/scm
 first_seen: '2026-10-04T19:41:14.638190+05:30'
 last_seen: '2026-10-05T11:22:38.367942+05:30'
 last_checked: '2026-10-05T11:22:38.367942+05:30'
 health_score: 100
 ---
+
 
 # Show HN: AI search for every photo and every frame of video on macOS
 

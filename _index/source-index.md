@@ -31541,12 +31541,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [All I wanted was a custom domain email](../ai/community/all-i-wanted-was-a-custom-domain-email.md)
-  - [Homa: The end of TCP for AI clusters [video]](../ai/community/youtube-ez8wwzzoar0.md)
-  - [How to scale intent, quality, and artistry with AI [video]](../ai/community/youtube-glvftmtw4jk.md)
-  - [Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex](../ai/community/interview-with-chicken-scheme-maintainer-sjamaan-p.md)
-  - [Powerless F1 drivers frustrated by Bahrain F1 software glitch](../ai/community/powerless-f1-drivers-frustrated-by-bahrain-f1-soft.md)
-  - [Show HN: AI search for every photo and every frame of video on macOS](../ai/community/allenv0-scm.md)
+  - [ExplainDB: A Database System Built for Understandability](../ai/community/explaindb-explaindb.md)
+  - [Martian chaos terrain](../ai/community/martian-chaos-terrain.md)
+  - [The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news](../ai/community/the-philadelphia-inquirer-built-scrape-an-ai-tool.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -32375,6 +32372,7 @@ Resources organized by publisher feed and query sources.
   - [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](../ai/models/huggingface-blog-mixtral.md)
   - [Welcome PaddlePaddle to the Hugging Face Hub](../ai/models/huggingface-blog-paddlepaddle.md)
   - [Welcome PaliGemma 2 – New vision language models by Google](../ai/models/huggingface-blog-paligemma2.md)
+  - [Welcome RL Environments to the hub](../ai/models/huggingface-blog-rl-environments.md)
   - [Welcome Stable-baselines3 to the Hugging Face Hub 🤗](../ai/models/huggingface-blog-sb3.md)
   - [Welcome aMUSEd: Efficient Text-to-Image Generation](../ai/models/huggingface-blog-amused.md)
   - [Welcome fastText to the Hugging Face Hub](../ai/models/huggingface-blog-fasttext.md)
@@ -35425,4 +35423,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-05T11:42:40.054955+05:30*
+*Index generated on 2026-10-05T23:02:12.399987+05:30*

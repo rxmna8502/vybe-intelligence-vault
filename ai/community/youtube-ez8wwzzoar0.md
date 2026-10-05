@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:eZ8WWZzoaR0
 first_seen: '2026-10-05T04:49:07.281368+05:30'
 last_seen: '2026-10-05T11:22:37.216987+05:30'
 last_checked: '2026-10-05T11:22:37.216987+05:30'
 health_score: 100
 ---
+
 
 # Homa: The end of TCP for AI clusters [video]
 
