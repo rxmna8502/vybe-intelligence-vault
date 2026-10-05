@@ -1,18 +1,9 @@
 {
-<<<<<<< Updated upstream
-  "last_successful_run": "2026-10-05T05:21:49.475899+05:30",
-=======
-  "last_successful_run": "2026-10-05T05:09:57.230830+05:30",
->>>>>>> Stashed changes
+  "last_successful_run": "2026-10-05T09:54:41.396464+05:30",
   "archive_status": "healthy",
   "validation_status": "healthy",
   "broken_links_count": 0,
-<<<<<<< Updated upstream
-  "resources_scanned": 34883,
+  "resources_scanned": 34886,
   "resources_added": 1,
-=======
-  "resources_scanned": 35906,
-  "resources_added": 3,
->>>>>>> Stashed changes
   "resources_updated": 10
 }

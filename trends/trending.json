@@ -1,7 +1,45 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-10-05T05:21:49.475899+05:30",
+  "generated_at": "2026-10-05T09:54:41.396464+05:30",
   "trending_resources": [
+    {
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1020,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:malonge/ragoo",
+      "title": "malonge/RaGOO",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/malonge/ragoo",
+      "file_path": "ai/rag/malonge-ragoo.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1020,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:datawhalechina/llm-universe",
+      "title": "datawhalechina/llm-universe",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "file_path": "ai/rag/datawhalechina-llm-universe.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1020,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "github:senpi-ai/senpi-skills",
       "title": "Senpi-ai/senpi-skills",
@@ -12,25 +50,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1020,
-=======
-  "generated_at": "2026-10-05T05:09:57.230830+05:30",
-  "trending_resources": [
-    {
-      "id": "youtube:GLvFTMtw4Jk",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://youtube.com/watch?v=GLvFTMtw4Jk",
-      "file_path": "ai/community/youtube-glvftmtw4jk.md",
-      "score": 40,
-      "score_change": 31,
-      "rank_change": 2,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:airalab/autonomous_agent_template",
       "title": "airalab/autonomous_agent_template",
       "category": "ai/rag",
@@ -40,48 +63,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1020,
-=======
-      "id": "github:allenv0/scm",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/allenv0/scm",
-      "file_path": "ai/community/allenv0-scm.md",
-      "score": 132,
-      "score_change": 30,
-      "rank_change": 1,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "hackernews:agents-don-t-need-memory-they-need-documentation",
-      "title": "Agents don't need memory, they need documentation",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "file_path": "ai/community/agents-don-t-need-memory-they-need-documentation.md",
-      "score": 338,
-      "score_change": 23,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:langchain-ai/react-agent",
-      "title": "langchain-ai/react-agent",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/langchain-ai/react-agent",
-      "file_path": "ai/agents/langchain-ai-react-agent.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10375,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
       "id": "github:mvanhorn/clawdbot-skill-manus",
       "title": "mvanhorn/clawdbot-skill-manus",
       "category": "ai/agents",
@@ -145,117 +130,10 @@
       "rank_change": 1020,
       "new_resource": false,
       "tier": "tier-3"
-    },
-    {
-      "id": "github:nirdiamant/rag_techniques",
-      "title": "NirDiamant/RAG_Techniques",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/nirdiamant/rag_techniques",
-      "file_path": "ai/rag/nirdiamant-rag-techniques.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1020,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pixegami/langchain-rag-tutorial",
-      "title": "pixegami/langchain-rag-tutorial",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/pixegami/langchain-rag-tutorial",
-      "file_path": "ai/rag/pixegami-langchain-rag-tutorial.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1020,
-=======
-      "id": "github:sylphai-inc/githubchat",
-      "title": "SylphAI-Inc/GithubChat",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/sylphai-inc/githubchat",
-      "file_path": "ai/rag/sylphai-inc-githubchat.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1033,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/hello-agents",
-      "title": "datawhalechina/hello-agents",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "file_path": "ai/rag/datawhalechina-hello-agents.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1020,
-=======
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
-<<<<<<< Updated upstream
       "id": "blog:medium-privacy-policy-by-medium-medium-policy",
       "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
@@ -265,22 +143,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 9279,
-=======
-      "id": "github:langchain-ai/react-agent",
-      "title": "langchain-ai/react-agent",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/langchain-ai/react-agent",
-      "file_path": "ai/agents/langchain-ai-react-agent.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10375,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:microsoft/rag-time",
       "title": "microsoft/rag-time",
       "category": "ai/rag",
@@ -290,22 +156,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1023,
-=======
-      "id": "github:sylphai-inc/githubchat",
-      "title": "SylphAI-Inc/GithubChat",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/sylphai-inc/githubchat",
-      "file_path": "ai/rag/sylphai-inc-githubchat.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1033,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.02392",
       "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
@@ -380,22 +234,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1023,
-=======
-      "id": "huggingface:datasets/ryanmarten",
-      "title": "ryanmarten/OpenThoughts-1k-sample",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/ryanmarten",
-      "file_path": "ai/models/huggingface-datasets-ryanmarten.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.09123",
       "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
       "category": "ai/research",
@@ -405,22 +247,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1023,
-=======
-      "id": "huggingface:datasets/nmasi",
-      "title": "nmasi/era5",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/nmasi",
-      "file_path": "ai/models/huggingface-datasets-nmasi.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2605.27882",
       "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
       "category": "ai/agents",
@@ -430,89 +260,12 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1023,
-=======
-      "id": "huggingface:datasets/nvidia",
-      "title": "nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/nvidia",
-      "file_path": "ai/models/huggingface-datasets-nvidia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/world-igr-plum",
-      "title": "world-igr-plum/regions",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/world-igr-plum",
-      "file_path": "ai/models/huggingface-datasets-world-igr-plum.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/banned-historical-archives",
-      "title": "banned-historical-archives/banned-historical-archives",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/banned-historical-archives",
-      "file_path": "ai/models/huggingface-datasets-banned-historical-archives.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/ayuo",
-      "title": "ayuo/hd_tmp",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/ayuo",
-      "file_path": "ai/models/huggingface-datasets-ayuo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/transferable-samplers",
-      "title": "transferable-samplers/many-peptides-md",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/transferable-samplers",
-      "file_path": "ai/models/huggingface-datasets-transferable-samplers.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/salesforce",
-      "title": "Salesforce/wikitext",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/salesforce",
-      "file_path": "ai/models/huggingface-datasets-salesforce.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 16,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-<<<<<<< Updated upstream
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
       "category": "Agent Framework",
@@ -520,77 +273,13 @@
       "url": "",
       "file_path": "docs/sample-digest.md",
       "score": 0,
-=======
-      "id": "youtube:eZ8WWZzoaR0",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://youtube.com/watch?v=eZ8WWZzoaR0",
-      "file_path": "ai/community/youtube-ez8wwzzoar0.md",
-      "score": 44,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:declaring-a-bird-extinct-the-median-wait-is-36-yea",
-      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct",
-      "file_path": "ai/community/declaring-a-bird-extinct-the-median-wait-is-36-yea.md",
-      "score": 16,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:interview-with-chicken-scheme-maintainer-sjamaan-p",
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://alexalejandre.com/interviews/peter-bex",
-      "file_path": "ai/community/interview-with-chicken-scheme-maintainer-sjamaan-p.md",
-      "score": 3,
->>>>>>> Stashed changes
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
     }
   ],
-<<<<<<< Updated upstream
   "recently_inactive_resources": [],
-=======
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:lecun-has-zero-concerns-about-ai-wiping-out-humani",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "file_path": "ai/community/lecun-has-zero-concerns-about-ai-wiping-out-humani.md"
-    },
-    {
-      "id": "hackernews:what-s-the-future-for-pure-math-research-in-the-ag",
-      "title": "What's the future for pure math research in the age of AI?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
-      "file_path": "ai/community/what-s-the-future-for-pure-math-research-in-the-ag.md"
-    },
-    {
-      "id": "hackernews:building-a-rag-pipeline-for-semantic-code-search",
-      "title": "Building a RAG pipeline for semantic code search",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes",
-      "file_path": "ai/community/building-a-rag-pipeline-for-semantic-code-search.md"
-    }
-  ],
->>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }
