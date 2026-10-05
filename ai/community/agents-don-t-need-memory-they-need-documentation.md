@@ -13,13 +13,14 @@ collected_at: '2026-10-05T04:49:10.222560+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:agents-don-t-need-memory-they-need-documentation
 first_seen: '2026-10-04T04:40:23.682726+05:30'
 last_seen: '2026-10-05T04:49:10.222560+05:30'
 last_checked: '2026-10-05T04:49:10.222560+05:30'
 health_score: 100
 ---
+
 
 # Agents don't need memory, they need documentation
 

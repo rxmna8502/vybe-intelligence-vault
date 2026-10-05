@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://alexalejandre.com/interviews/peter-bex
 hn_url: https://news.ycombinator.com/item?id=49939308
-score: 3
+score: 27
 author: veqq
-comments_count: 0
+comments_count: 5
 published_at: '2026-10-03T03:47:04+05:30'
-collected_at: '2026-10-05T04:49:09.137838+05:30'
+collected_at: '2026-10-05T11:22:36.770358+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:interview-with-chicken-scheme-maintainer-sjamaan-p
 first_seen: '2026-10-05T04:49:09.137838+05:30'
-last_seen: '2026-10-05T04:49:09.137838+05:30'
-last_checked: '2026-10-05T04:49:09.137838+05:30'
+last_seen: '2026-10-05T11:22:36.770358+05:30'
+last_checked: '2026-10-05T11:22:36.770358+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by veqq. Score: 3, Comments: 0.
+Hacker News story by veqq. Score: 27, Comments: 5.
 Original Link: https://alexalejandre.com/interviews/peter-bex/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: veqq
-- Score: 3 Upvotes
-- Comments: 0 Discussions
+- Score: 27 Upvotes
+- Comments: 5 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49939308
 - Original Article: https://alexalejandre.com/interviews/peter-bex
 

@@ -10,6 +10,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) | `ai-coding-agents/` | 70 |
 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
 | [CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430) | `ai-coding-agents/` | 70 |
+| [ORACLE: Agentic AI Orchestrator Routing Via Adaptive Verifier Calibration Feedback](https://arxiv.org/abs/2607.22465) | `ai-coding-agents/` | 70 |
 | [Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140) | `ai-coding-agents/` | 70 |
 | [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) | `ai-coding-agents/` | 70 |
 | [RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests](https://arxiv.org/abs/2608.27831) | `ai-coding-agents/` | 70 |
@@ -27,7 +28,6 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Land Art as a Big-Data Climate Sensor](https://arxiv.org/abs/2609.13182) | `ai-coding-agents/` | 70 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) | `ai-coding-agents/` | 70 |
 | [Evaluating AlphaEarth Foundations Embeddings for Wildfire Susceptibility Mapping](https://arxiv.org/abs/2608.12663) | `ai-coding-agents/` | 70 |
-| [ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](https://arxiv.org/abs/2607.01916) | `ai-coding-agents/` | 70 |
-| [ASI-Bench: At the Dawn of Artificial Superintelligence](https://arxiv.org/abs/2608.17271) | `ai-coding-agents/` | 70 |
+| [Counterfactual Evidence Audits Predict LLM-Agent Susceptibility to Ranked Context](https://arxiv.org/abs/2606.00914) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.
