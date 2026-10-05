@@ -1,296 +1,6 @@
 {
-  "generated_at": "2026-10-05T11:46:57.817346+05:30",
+  "generated_at": "2026-10-05T17:40:31.892961+05:30",
   "trending_resources": [
-    {
-      "id": "youtube:GLvFTMtw4Jk",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://youtube.com/watch?v=GLvFTMtw4Jk",
-      "file_path": "ai/community/youtube-glvftmtw4jk.md",
-      "score": 72,
-      "score_change": 32,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:interview-with-chicken-scheme-maintainer-sjamaan-p",
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://alexalejandre.com/interviews/peter-bex",
-      "file_path": "ai/community/interview-with-chicken-scheme-maintainer-sjamaan-p.md",
-      "score": 27,
-      "score_change": 24,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "youtube:eZ8WWZzoaR0",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://youtube.com/watch?v=eZ8WWZzoaR0",
-      "file_path": "ai/community/youtube-ez8wwzzoar0.md",
-      "score": 66,
-      "score_change": 22,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:allenv0/scm",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/allenv0/scm",
-      "file_path": "ai/community/allenv0-scm.md",
-      "score": 149,
-      "score_change": 17,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1027,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1023,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1021,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:aug-25-2026announcementsfunding-better-evaluations",
-      "title": "Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/wellbeing-research-grants",
-      "file_path": "ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:aug-27-2026announcements-expanding-our-support-for",
-      "title": "Aug 27, 2026Announcements Expanding our support for scientists",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/expanding-support-for-scientists",
-      "file_path": "ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1027,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1023,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1021,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/ryanmarten",
-      "title": "ryanmarten/OpenThoughts-1k-sample",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/ryanmarten",
-      "file_path": "ai/models/huggingface-datasets-ryanmarten.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 271,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/nmasi",
-      "title": "nmasi/era5",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/nmasi",
-      "file_path": "ai/models/huggingface-datasets-nmasi.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 271,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/nvidia",
-      "title": "nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/nvidia",
-      "file_path": "ai/models/huggingface-datasets-nvidia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 271,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/world-igr-plum",
-      "title": "world-igr-plum/regions",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/world-igr-plum",
-      "file_path": "ai/models/huggingface-datasets-world-igr-plum.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 271,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/banned-historical-archives",
-      "title": "banned-historical-archives/banned-historical-archives",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/banned-historical-archives",
-      "file_path": "ai/models/huggingface-datasets-banned-historical-archives.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 271,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/ayuo",
-      "title": "ayuo/hd_tmp",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/ayuo",
-      "file_path": "ai/models/huggingface-datasets-ayuo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 271,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:datasets/transferable-samplers",
-      "title": "transferable-samplers/many-peptides-md",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/transferable-samplers",
-      "file_path": "ai/models/huggingface-datasets-transferable-samplers.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 271,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:powerless-f1-drivers-frustrated-by-bahrain-f1-soft",
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968",
-      "file_path": "ai/community/powerless-f1-drivers-frustrated-by-bahrain-f1-soft.md",
-      "score": 162,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:all-i-wanted-was-a-custom-domain-email",
-      "title": "All I wanted was a custom domain email",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://jacobg.co/emails-at-jacobg-co",
-      "file_path": "ai/community/all-i-wanted-was-a-custom-domain-email.md",
-      "score": 48,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2609.32411",
       "title": "AECSF: Adaptive Ensemble Conditional Score Filtering for High-Dimensional Nonlinear Data Assimilation",
@@ -300,8 +10,8 @@
       "file_path": "ai/research/arxiv-2609-32411.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -313,8 +23,8 @@
       "file_path": "ai/research/arxiv-2606-30358.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -326,8 +36,8 @@
       "file_path": "ai/rag/arxiv-2606-19617.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +49,8 @@
       "file_path": "ai/rag/arxiv-2606-07235.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +62,8 @@
       "file_path": "ai/research/arxiv-2606-03493.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +75,8 @@
       "file_path": "ai/research/arxiv-2605-21324.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +88,8 @@
       "file_path": "ai/agents/arxiv-2605-13315.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +101,8 @@
       "file_path": "ai/research/arxiv-2605-00269.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +114,8 @@
       "file_path": "ai/agents/arxiv-2604-14398.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,17 +127,151 @@
       "file_path": "ai/research/arxiv-2604-13870.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 35,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+      "title": "Medium Privacy Policy | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 9279,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2604.13022",
-      "title": "Classical and Quantum Speedups for Non-Convex Optimization via Energy Conserving Descent",
+      "id": "github:microsoft/rag-time",
+      "title": "microsoft/rag-time",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/rag-time",
+      "file_path": "ai/rag/microsoft-rag-time.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02392",
+      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2604.13022",
-      "file_path": "ai/research/arxiv-2604-13022.md",
+      "url": "https://arxiv.org/abs/2608.02392",
+      "file_path": "ai/research/arxiv-2608-02392.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02046",
+      "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.02046",
+      "file_path": "ai/rag/arxiv-2608-02046.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01791",
+      "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01791",
+      "file_path": "ai/rag/arxiv-2608-01791.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01207",
+      "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01207",
+      "file_path": "ai/rag/arxiv-2608-01207.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.23462",
+      "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.23462",
+      "file_path": "ai/research/arxiv-2606-23462.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.22216",
+      "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.22216",
+      "file_path": "ai/research/arxiv-2606-22216.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2605.27882",
+      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2605.27882",
+      "file_path": "ai/agents/arxiv-2605-27882.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1023,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "arxiv:2610.02258",
+      "title": "Parameter-Free Interval-Dynamic Regret under Heavy-Tailed Noise",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2610.02258",
+      "file_path": "ai/research/arxiv-2607-27073.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -435,25 +279,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2604.05088",
-      "title": "Scalar Federated Learning for Linear Quadratic Regulator",
-      "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2604.05088",
-      "file_path": "ai/rag/arxiv-2604-05088.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2602.10273",
-      "title": "Power-SMC: Low-Latency Sequence-Level Power Sampling for Training-Free LLM Reasoning",
-      "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2602.10273",
-      "file_path": "ai/rag/arxiv-2602-10273.md",
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,24 +292,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:agents-don-t-need-memory-they-need-documentation",
-      "title": "Agents don't need memory, they need documentation",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "file_path": "ai/community/agents-don-t-need-memory-they-need-documentation.md"
-    },
-    {
-      "id": "hackernews:declaring-a-bird-extinct-the-median-wait-is-36-yea",
-      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct",
-      "file_path": "ai/community/declaring-a-bird-extinct-the-median-wait-is-36-yea.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
