@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - paper
-status: active
+status: inactive
 resource_id: hackernews:ai-tutoring-with-khanmigo-in-a-two-year-school-exp
 first_seen: '2026-10-06T06:54:07.639659+05:30'
 last_seen: '2026-10-06T06:54:07.639659+05:30'
 last_checked: '2026-10-06T06:54:07.639659+05:30'
 health_score: 100
 ---
+
 
 # AI Tutoring with Khanmigo in a Two-Year School Experiment
 

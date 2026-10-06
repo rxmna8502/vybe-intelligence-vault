@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-10-05T22:46:46.342283+05:30'
+collected_at: '2026-10-06T16:53:03.027913+05:30'
 published_at: '2026-10-04T07:30:39Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-10-05T22:46:46.342283+05:30'
-last_seen: '2026-10-05T22:46:46.342283+05:30'
-last_checked: '2026-10-05T22:46:46.342283+05:30'
+first_seen: '2026-10-06T16:53:03.027913+05:30'
+last_seen: '2026-10-06T16:53:03.027913+05:30'
+last_checked: '2026-10-06T16:53:03.027913+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a from-scratch RAG implementation tutorial emphasizing transparent understanding of core components via local LLMs.
-*   Covers fundamental RAG pipeline stages: embedding generation, vector search, document retrieval, and context-augmented generation.
-*   Utilizes JavaScript/Node.js with `node-llama-cpp` for local LLM inference, avoiding black-box abstractions.
+*   Implements a RAG pipeline from scratch, focusing on demystifying embeddings, vector search, retrieval, and context-augmented generation.
+*   Utilizes local LLMs via `node-llama-cpp` to avoid black-box components and provide a transparent understanding of the RAG process.
+*   Developed in JavaScript/Node.js, serving as an educational resource for building AI agents and RAG chatbots.
 
 ## Why It Matters
 

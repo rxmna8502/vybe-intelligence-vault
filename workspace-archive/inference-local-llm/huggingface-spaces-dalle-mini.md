@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5742, Downloads: 0)
+Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5743, Downloads: 0)
 
 ## Use Cases
 

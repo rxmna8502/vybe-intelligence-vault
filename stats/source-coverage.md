@@ -6,7 +6,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 30656 |
 | github | 1017 |
-| huggingface | 926 |
+| huggingface | 927 |
 | nextjs.org | 80 |
 | semanticscholar.org | 70 |
 | youtube | 66 |
@@ -303,12 +303,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| techspot.com | 1 |
 | vals.ai | 1 |
 | qlabs.sh | 1 |
-| blog.lizzie.io | 1 |
-| edworkingpapers.com | 1 |
 | blog.citp.princeton.edu | 1 |
+| blue-continuum.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

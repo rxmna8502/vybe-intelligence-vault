@@ -31541,12 +31541,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Tutoring with Khanmigo in a Two-Year School Experiment](../ai/community/ai-tutoring-with-khanmigo-in-a-two-year-school-exp.md)
-  - [An Algorithmic Failure Beneath the Secret Ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
-  - [Anthropic reported diary entry to police, woman faces felony charge](../ai/community/anthropic-reported-diary-entry-to-police-woman-fac.md)
+  - [An algorithmic failure beneath the secret ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
   - [Dust: Pretraining Transformers Without Backpropagation](../ai/community/dust-pretraining-transformers-without-backpropagat.md)
-  - [Linux containers in 500 lines of code (2016)](../ai/community/linux-containers-in-500-lines-of-code-2016.md)
   - [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](../ai/community/opus-5-5-agents-discover-two-room-temperature-magn.md)
+  - [Using A.I. and machine learning to decode communication of sperm whales](../ai/community/using-a-i-and-machine-learning-to-decode-communica.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -31775,6 +31773,7 @@ Resources organized by publisher feed and query sources.
   - [Falcon Perception](../ai/models/huggingface-blog-tiiuae-falcon-perception.md)
   - [Falcon-Arabic: A Breakthrough in Arabic Language Models](../ai/models/huggingface-blog-tiiuae-falcon-arabic.md)
   - [Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.](../ai/models/huggingface-blog-tiiuae-falcon-edge.md)
+  - [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](../ai/models/huggingface-blog-tiiuae-falcon-emirati.md)
   - [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](../ai/models/huggingface-blog-tiiuae-falcon-h1.md)
   - [Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator](../ai/models/huggingface-blog-habana-gaudi-2-bloom.md)
   - [Fast LoRA inference for Flux with Diffusers and PEFT](../ai/models/huggingface-blog-lora-fast.md)
@@ -35426,4 +35425,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-06T07:10:44.428858+05:30*
+*Index generated on 2026-10-06T17:08:13.061944+05:30*

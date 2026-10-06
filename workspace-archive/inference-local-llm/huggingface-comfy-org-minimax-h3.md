@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2147, Downloads: 23202661)
+Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2148, Downloads: 23415776)
 
 ## Use Cases
 

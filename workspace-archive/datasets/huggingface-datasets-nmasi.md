@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: nmasi/era5 (Likes: 8, Downloads: 1159625)
+Trending Hugging Face dataset: nmasi/era5 (Likes: 8, Downloads: 1175264)
 
 ## Use Cases
 

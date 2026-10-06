@@ -7915,10 +7915,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI Tutoring with Khanmigo in a Two-Year School Experiment](../ai/community/ai-tutoring-with-khanmigo-in-a-two-year-school-exp.md)
-  - [An Algorithmic Failure Beneath the Secret Ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
+  - [An algorithmic failure beneath the secret ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
   - [Dust: Pretraining Transformers Without Backpropagation](../ai/community/dust-pretraining-transformers-without-backpropagat.md)
-  - [Linux containers in 500 lines of code (2016)](../ai/community/linux-containers-in-500-lines-of-code-2016.md)
 
 ## animation
 
@@ -8018,7 +8016,6 @@ Resources organized by keyword tags.
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
-  - [Anthropic reported diary entry to police, woman faces felony charge](../ai/community/anthropic-reported-diary-entry-to-police-woman-fac.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -32051,7 +32048,6 @@ Resources organized by keyword tags.
   - [AI Tokenomics: The Economics of Tokens, Computation, and Pricing in Foundation Models](../ai/research/arxiv-2606-24616.md)
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
-  - [AI Tutoring with Khanmigo in a Two-Year School Experiment](../ai/community/ai-tutoring-with-khanmigo-in-a-two-year-school-exp.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
@@ -32216,7 +32212,6 @@ Resources organized by keyword tags.
   - [An Adaptive Differentially Private Federated Learning Framework](../ai/research/arxiv-2602-06838.md)
   - [An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case](../ai/rag/arxiv-2608-14587.md)
   - [An Agentic Just-in-Time Adaptive Intervention System for Personalized Sleep Support: Proof-of-Concept Study with N of 1 Data](../ai/agents/arxiv-2609-21805.md)
-  - [An Algorithmic Failure Beneath the Secret Ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
   - [An Approach to Simultaneous Acquisition of Real-Time MRI Video, EEG, and Surface EMG for Articulatory, Brain, and Muscle Activity During Speech Production](../ai/research/arxiv-2603-04840.md)
   - [An Automated Pipeline for Few-Shot Bird Call Classification: A Case Study with the Tooth-Billed Pigeon](../ai/rag/arxiv-2504-16276.md)
   - [An Efficient Black-Box Reduction from Online Learning to Multicalibration, and a New Route to $\Phi$-Regret Minimization](../ai/research/arxiv-2604-19592.md)
@@ -32235,6 +32230,7 @@ Resources organized by keyword tags.
   - [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](../ai/rag/arxiv-2607-09988.md)
   - [An Uncertainty-Guided Digital Twin Framework for Online Adaptive Proton Therapy in Head and Neck Cancer: A Feasibility Study](../ai/research/arxiv-2609-39010.md)
   - [An Unreasonably Deep Dive Into Project Euler Problem 4 - Adam Drake](../ai/rag/an-unreasonably-deep-dive-into-project-euler-probl.md)
+  - [An algorithmic failure beneath the secret ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
   - [An emancipatory vision for designing (generative) AI for learner flourishing](../ai/agents/arxiv-2609-07715.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
   - [An ontology for cross-sectoral crisis management: core and public health modules](../ai/research/arxiv-2610-01326.md)
@@ -32255,7 +32251,6 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic reported diary entry to police, woman faces felony charge](../ai/community/anthropic-reported-diary-entry-to-police-woman-fac.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -34052,7 +34047,6 @@ Resources organized by keyword tags.
   - [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](../ai/rag/arxiv-2602-05493.md)
   - [Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](../ai/agents/arxiv-2606-30555.md)
   - [LinkedIn: Log In or Sign Up](../ai/resources/linkedin-log-in-or-sign-up.md)
-  - [Linux containers in 500 lines of code (2016)](../ai/community/linux-containers-in-500-lines-of-code-2016.md)
   - [LionMuon: Alternating Spectral and Sign Descent for Efficient Training](../ai/rag/arxiv-2605-19811.md)
   - [LipCache: A Local Inference Proxy with Certified Caching for Edge Image Classification Service](../ai/research/arxiv-2608-13144.md)
   - [Lipschitz-Regularized Critics Lead to Policy Robustness Against Transition Dynamics Uncertainty](../ai/research/arxiv-2404-13879.md)
@@ -35651,6 +35645,7 @@ Resources organized by keyword tags.
   - [User types—ArcGIS Online Help | Documentation](../ai/resources/user-types-arcgis-online-help-documentation.md)
   - [UserSim - User Simulation for System Evaluation](../ai/resources/usersim-user-simulation-for-system-evaluation.md)
   - [UserWay | Web Accessibility Solutions](../ai/rag/userway-web-accessibility-solutions.md)
+  - [Using A.I. and machine learning to decode communication of sperm whales](../ai/community/using-a-i-and-machine-learning-to-decode-communica.md)
   - [Using Composition Operators to Linearize LLM Semantic Transformations](../ai/research/arxiv-2609-22143.md)
   - [Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey](../ai/research/arxiv-2605-01392.md)
   - [Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models](../ai/rag/arxiv-2503-06269.md)
@@ -35889,7 +35884,6 @@ Resources organized by keyword tags.
   - [brevdev/workshop-build-an-agent](../ai/agents/brevdev-workshop-build-an-agent.md)
   - [bvaughn/react-window](../ai/resources/bvaughn-react-window.md)
   - [capabilities(7) - Linux manual page](../ai/resources/capabilities-7-linux-manual-page.md)
-  - [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026.md)
   - [chroma-core/chroma](../ai/rag/chroma-core-chroma.md)
   - [cigh](../ai/resources/cigh.md)
   - [cli/cli](../ai/rag/cli-cli.md)
@@ -35908,6 +35902,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -36036,6 +36031,7 @@ Resources organized by keyword tags.
   - [quantization — Sentence Transformers documentation](../ai/rag/quantization-sentence-transformers-documentation.md)
   - [rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference](../ai/research/arxiv-2609-19104.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
+  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../ai/research/arxiv-2602-07832.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -36080,6 +36076,7 @@ Resources organized by keyword tags.
   - [vibecon](../ai/rag/vibecon.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
@@ -36087,6 +36084,7 @@ Resources organized by keyword tags.
   - [web.dev](../ai/resources/web-dev.md)
   - [xindoo/agentic-design-patterns](../ai/agents/xindoo-agentic-design-patterns.md)
   - [yl4579/StyleTTS2](../ai/rag/yl4579-styletts2.md)
+  - [yzfly/awesome-voice-agents](../ai/agents/yzfly-awesome-voice-agents.md)
   - [zhengxuJosh/Awesome-RAG-Vision](../ai/rag/zhengxujosh-awesome-rag-vision.md)
   - [zilliztech/attu](../ai/rag/zilliztech-attu.md)
   - [zilliztech/deep-searcher](../ai/rag/zilliztech-deep-searcher.md)
@@ -36717,6 +36715,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## machine learning
+
+  - [Using A.I. and machine learning to decode communication of sperm whales](../ai/community/using-a-i-and-machine-learning-to-decode-communica.md)
 
 ## mdx
 
@@ -44714,7 +44716,6 @@ Resources organized by keyword tags.
   - [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md)
   - [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md)
   - [p-Spin Glass Network Efficient Single-Batch Continual Learning](../ai/research/arxiv-2608-14774.md)
-  - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md)
   - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pico-type: A 1.5M-Parameter Byte-Level Multi-Head Content Classifier](../ai/rag/arxiv-2608-14658.md)
@@ -45962,7 +45963,6 @@ Resources organized by keyword tags.
   - [AI Tokenomics: The Economics of Tokens, Computation, and Pricing in Foundation Models](../ai/research/arxiv-2606-24616.md)
   - [AI Tour Meeting: Group Travel Planning by LLM Agents](../ai/agents/arxiv-2607-18806.md)
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
-  - [AI Tutoring with Khanmigo in a Two-Year School Experiment](../ai/community/ai-tutoring-with-khanmigo-in-a-two-year-school-exp.md)
   - [AI World Cup 2026: Benchmarking Large Language Models for End-to-End Football Tournament Prediction](../ai/rag/arxiv-2608-03416.md)
   - [AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion](../ai/agents/arxiv-2608-26896.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
@@ -70758,7 +70758,6 @@ Resources organized by keyword tags.
   - [Zilliz · GitHub](../ai/rag/zilliz-github.md)
   - [activepieces/activepieces](../ai/rag/activepieces-activepieces.md)
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
-  - [agentuniverse-ai/agentUniverse](../ai/rag/agentuniverse-ai-agentuniverse.md)
   - [alexfazio/crewAI-quickstart](../ai/agents/alexfazio-crewai-quickstart.md)
   - [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md)
   - [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md)
@@ -70883,7 +70882,6 @@ Resources organized by keyword tags.
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
-  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -74200,4 +74198,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-06T07:10:44.033154+05:30*
+*Index generated on 2026-10-06T17:08:12.839128+05:30*
