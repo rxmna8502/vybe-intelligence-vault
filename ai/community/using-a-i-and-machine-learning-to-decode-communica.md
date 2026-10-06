@@ -13,13 +13,14 @@ collected_at: '2026-10-06T16:52:09.613648+05:30'
 tags:
 - hackernews
 - machine learning
-status: active
+status: inactive
 resource_id: hackernews:using-a-i-and-machine-learning-to-decode-communica
 first_seen: '2026-10-06T16:52:09.613648+05:30'
 last_seen: '2026-10-06T16:52:09.613648+05:30'
 last_checked: '2026-10-06T16:52:09.613648+05:30'
 health_score: 100
 ---
+
 
 # Using A.I. and machine learning to decode communication of sperm whales
 

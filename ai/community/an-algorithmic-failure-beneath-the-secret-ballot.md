@@ -13,13 +13,14 @@ collected_at: '2026-10-06T16:52:07.908610+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:an-algorithmic-failure-beneath-the-secret-ballot
 first_seen: '2026-10-06T06:54:08.666876+05:30'
 last_seen: '2026-10-06T16:52:07.908610+05:30'
 last_checked: '2026-10-06T16:52:07.908610+05:30'
 health_score: 100
 ---
+
 
 # An algorithmic failure beneath the secret ballot
 

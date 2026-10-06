@@ -5,7 +5,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 30656 |
+<<<<<<< Updated upstream
 | github | 1017 |
+=======
+| github | 1018 |
+| huggingface | 927 |
+| nextjs.org | 80 |
+>>>>>>> Stashed changes
 | semanticscholar.org | 70 |
 | youtube | 66 |
 | support.google.com | 59 |
@@ -302,10 +308,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
+| helgilibrary.com | 1 |
 | vals.ai | 1 |
 | qlabs.sh | 1 |
-| blog.citp.princeton.edu | 1 |
-| blue-continuum.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

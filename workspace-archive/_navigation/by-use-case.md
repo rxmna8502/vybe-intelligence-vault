@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2508-04227.md))
 
 ---
-*Last updated: 2026-10-06 17:09 IST*
+*Last updated: 2026-10-07 00:20 IST*

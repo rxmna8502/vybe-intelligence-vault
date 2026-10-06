@@ -30637,7 +30637,7 @@ Resources organized by publisher feed and query sources.
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Publications](../ai/companies/publications.md)
-  - [ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-mistral-ocr-4state-of-the-art.md)
+  - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
@@ -31541,10 +31541,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [An algorithmic failure beneath the secret ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
+  - [AI is now capable of developing its own inference hardware](../ai/community/fesens-opentpu.md)
   - [Dust: Pretraining Transformers Without Backpropagation](../ai/community/dust-pretraining-transformers-without-backpropagat.md)
+  - [JetBrains reported a net financial loss first time in its tracked history](../ai/community/jetbrains-reported-a-net-financial-loss-first-time.md)
   - [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](../ai/community/opus-5-5-agents-discover-two-room-temperature-magn.md)
-  - [Using A.I. and machine learning to decode communication of sperm whales](../ai/community/using-a-i-and-machine-learning-to-decode-communica.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -35425,4 +35425,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-06T17:08:13.061944+05:30*
+*Index generated on 2026-10-07T00:17:09.829074+05:30*

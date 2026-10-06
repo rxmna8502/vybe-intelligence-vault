@@ -17,7 +17,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (30573 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (30574 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1643 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (17054 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
 - **[Model Providers](../model-providers/README.md)** (3142 files): Public metadata and documentation links for model APIs and provider ecosystems.
@@ -38,10 +38,10 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Career Track & Startup Engineering
 
-- **[Learning Paths](../learning-paths/README.md)** (134 files): Roadmaps and project-based learning paths for AI engineering, RAG, agents, frontend, 3D web, and automation.
+- **[Learning Paths](../learning-paths/README.md)** (135 files): Roadmaps and project-based learning paths for AI engineering, RAG, agents, frontend, 3D web, and automation.
 - **[Project Ideas](../project-ideas/README.md)** (115 files): Project ideas for AI apps, RAG systems, agents, automations, 3D web experiences, and full-stack AI products.
 - **[Jobs and Market](../jobs-market/README.md)** (15 files): AI job descriptions, skill frequency, salary signals, role requirements, hiring trends, and portfolio requirements.
 - **[Startup Builder](../startup-builder/README.md)** (233 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-06 17:09 IST*
+*Last updated: 2026-10-07 00:20 IST*

@@ -7915,8 +7915,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [An algorithmic failure beneath the secret ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
+  - [AI is now capable of developing its own inference hardware](../ai/community/fesens-opentpu.md)
   - [Dust: Pretraining Transformers Without Backpropagation](../ai/community/dust-pretraining-transformers-without-backpropagat.md)
+  - [JetBrains reported a net financial loss first time in its tracked history](../ai/community/jetbrains-reported-a-net-financial-loss-first-time.md)
 
 ## animation
 
@@ -22549,7 +22550,7 @@ Resources organized by keyword tags.
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Publications](../ai/companies/publications.md)
-  - [ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-mistral-ocr-4state-of-the-art.md)
+  - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
@@ -32057,6 +32058,7 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
+  - [AI is now capable of developing its own inference hardware](../ai/community/fesens-opentpu.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -32230,7 +32232,6 @@ Resources organized by keyword tags.
   - [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](../ai/rag/arxiv-2607-09988.md)
   - [An Uncertainty-Guided Digital Twin Framework for Online Adaptive Proton Therapy in Head and Neck Cancer: A Feasibility Study](../ai/research/arxiv-2609-39010.md)
   - [An Unreasonably Deep Dive Into Project Euler Problem 4 - Adam Drake](../ai/rag/an-unreasonably-deep-dive-into-project-euler-probl.md)
-  - [An algorithmic failure beneath the secret ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
   - [An emancipatory vision for designing (generative) AI for learner flourishing](../ai/agents/arxiv-2609-07715.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
   - [An ontology for cross-sectoral crisis management: core and public health modules](../ai/research/arxiv-2610-01326.md)
@@ -33844,6 +33845,7 @@ Resources organized by keyword tags.
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
   - [JavaScript Tutorial - GeeksforGeeks](../ai/rag/javascript-tutorial-geeksforgeeks.md)
   - [JavaScript data types and data structures - JavaScript | MDN](../ai/rag/javascript-data-types-and-data-structures-javascri.md)
+  - [JetBrains reported a net financial loss first time in its tracked history](../ai/community/jetbrains-reported-a-net-financial-loss-first-time.md)
   - [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md)
   - [Jira | Atlassian Community](../ai/rag/jira-atlassian-community.md)
   - [Job Application for Synack Red Team - Pentester at Synack SRT](../ai/resources/job-application-for-synack-red-team-pentester-at-s.md)
@@ -35645,7 +35647,6 @@ Resources organized by keyword tags.
   - [User types—ArcGIS Online Help | Documentation](../ai/resources/user-types-arcgis-online-help-documentation.md)
   - [UserSim - User Simulation for System Evaluation](../ai/resources/usersim-user-simulation-for-system-evaluation.md)
   - [UserWay | Web Accessibility Solutions](../ai/rag/userway-web-accessibility-solutions.md)
-  - [Using A.I. and machine learning to decode communication of sperm whales](../ai/community/using-a-i-and-machine-learning-to-decode-communica.md)
   - [Using Composition Operators to Linearize LLM Semantic Transformations](../ai/research/arxiv-2609-22143.md)
   - [Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey](../ai/research/arxiv-2605-01392.md)
   - [Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models](../ai/rag/arxiv-2503-06269.md)
@@ -35902,6 +35903,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -36715,10 +36717,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## machine learning
-
-  - [Using A.I. and machine learning to decode communication of sperm whales](../ai/community/using-a-i-and-machine-learning-to-decode-communica.md)
 
 ## mdx
 
@@ -37879,7 +37877,7 @@ Resources organized by keyword tags.
   - [RSPO: Regularized Self-Play Alignment of Large Language Models](../ai/research/arxiv-2503-00030.md)
   - [Reasoning Topology Matters: A Controlled Study of LLM-Based Cybersecurity Analysis](../ai/research/arxiv-2609-24710.md)
   - [Reference Feature Atlases for Mechanistic Auditing of Language Models](../ai/research/arxiv-2607-22570.md)
-  - [ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-mistral-ocr-4state-of-the-art.md)
+  - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation](../ai/rag/arxiv-2608-24973.md)
@@ -37960,7 +37958,7 @@ Resources organized by keyword tags.
   - [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md)
   - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Latest research](../ai/companies/mistral/latest-research.md)
-  - [ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-mistral-ocr-4state-of-the-art.md)
+  - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
@@ -42887,7 +42885,7 @@ Resources organized by keyword tags.
   - [Repurposing Pre-trained LLMs as High Fidelity Continuous Text Autoencoders](../ai/rag/arxiv-2609-27248.md)
   - [Reputation, Strategy, and Emotion Effects on Generative AI Cooperation: A Comparison Across Reasoning and Non-Reasoning Models](../ai/agents/arxiv-2610-01222.md)
   - [Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](../ai/research/arxiv-2607-11883.md)
-  - [ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-mistral-ocr-4state-of-the-art.md)
+  - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [Residual Modeling for High-Fidelity Learned Compression of Scientific Data](../ai/research/arxiv-2606-05389.md)
@@ -74198,4 +74196,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-06T17:08:12.839128+05:30*
+*Index generated on 2026-10-07T00:17:09.433216+05:30*

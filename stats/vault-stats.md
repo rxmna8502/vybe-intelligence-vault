@@ -2,11 +2,19 @@
 
 | Metric               | Count |
 | -------------------- | ----: |
+<<<<<<< Updated upstream
 | Active resources     | 34358 |
 | Inactive resources   |  1149 |
 | Markdown files       | 433118 |
 | Archive files        |  2379 |
 | Archive categories   |    26 |
+=======
+| Active resources     | 35380 |
+| Inactive resources   |  1151 |
+| Markdown files       | 567389 |
+| Archive files        | 141381 |
+| Archive categories   |    27 |
+>>>>>>> Stashed changes
 | Skill files          |    19 |
 | Intelligence files   |     8 |
 | Builder maps         |     8 |
