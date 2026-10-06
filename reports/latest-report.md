@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-06T17:10:26.050081+05:30`
+Generated at: `2026-10-07T00:21:14.465088+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Using A.I. and machine learning to decode communication of sperm whales** - Score: `31` in category `ai/community` ([Link](https://blue-continuum.com/the-man-who-listens-to-whales)) ([File](../ai/community/using-a-i-and-machine-learning-to-decode-communica.md))
-- **Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/tiiuae/falcon-emirati)) ([File](../ai/models/huggingface-blog-tiiuae-falcon-emirati.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates** - Score: `369` (+168), Rank Change: `+1` ([File](../ai/community/opus-5-5-agents-discover-two-room-temperature-magn.md))
-- **Dust: Pretraining Transformers Without Backpropagation** - Score: `209` (+113), Rank Change: `+1` ([File](../ai/community/dust-pretraining-transformers-without-backpropagat.md))
-- **An algorithmic failure beneath the secret ballot** - Score: `86` (+67), Rank Change: `+3` ([File](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md))
-- **agentuniverse-ai/agentUniverse** - Score: `0` (0), Rank Change: `+19137` ([File](../ai/rag/agentuniverse-ai-agentuniverse.md))
-- **caramaschiHG/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+10507` ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
-- **yzfly/awesome-voice-agents** - Score: `0` (0), Rank Change: `+10967` ([File](../ai/agents/yzfly-awesome-voice-agents.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1027` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **run-llama/ParseBench** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/rag/run-llama-parsebench.md))
+- **DeckardGer/tanstack-agent-skills** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/rag/deckardger-tanstack-agent-skills.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **pguso/ai-agents-from-scratch** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/agents/pguso-ai-agents-from-scratch.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **AECSF: Adaptive Ensemble Conditional Score Filtering for High-Dimensional Nonlinear Data Assimilation** - Score: `0` (0), Rank Change: `+1022` ([File](../ai/research/arxiv-2609-32411.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **agentuniverse-ai/agentUniverse** - (Rank Change: `+19137`) ([File](../ai/rag/agentuniverse-ai-agentuniverse.md))
-- **yzfly/awesome-voice-agents** - (Rank Change: `+10967`) ([File](../ai/agents/yzfly-awesome-voice-agents.md))
-- **caramaschiHG/awesome-ai-agents-2026** - (Rank Change: `+10507`) ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
-- **patchy631/ai-engineering-hub** - (Rank Change: `+1656`) ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1031`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **malonge/RaGOO** - (Rank Change: `+1031`) ([File](../ai/rag/malonge-ragoo.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+1031`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **vivy-yi/rag-tutorial** - (Rank Change: `+1030`) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **krishnaik06/RAG-Tutorials** - (Rank Change: `+1030`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+1029`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9281`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1025`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1025`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1025`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1025`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1025`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1025`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1025`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1025`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1025`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Anthropic reported diary entry to police, woman faces felony charge** (Category: `ai/community`) ([File](../ai/community/anthropic-reported-diary-entry-to-police-woman-fac.md))
-- **Linux containers in 500 lines of code (2016)** (Category: `ai/community`) ([File](../ai/community/linux-containers-in-500-lines-of-code-2016.md))
-- **AI Tutoring with Khanmigo in a Two-Year School Experiment** (Category: `ai/community`) ([File](../ai/community/ai-tutoring-with-khanmigo-in-a-two-year-school-exp.md))
+No recently active resources transitioned to inactive.
+
