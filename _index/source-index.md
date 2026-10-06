@@ -30618,27 +30618,28 @@ Resources organized by publisher feed and query sources.
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
-  - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
+  - [CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral](../ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md)
+  - [CompanyHallo, Deutschland!Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest EconomySeptember 28, 2026By Mistral](../ai/companies/mistral/companyhallo-deutschland-mistral-opens-german-hub.md)
   - [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md)
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Engineering](../ai/companies/openai/engineering.md)
+  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
-  - [Hallo, Deutschland!](../ai/companies/mistral/hallo-deutschland.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
+  - [Latest research](../ai/companies/mistral/latest-research.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
-  - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
-  - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
-  - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
-  - [Mistral and Mozilla are bringing open, private and multilingual AI to your web browser](../ai/companies/mistral/mistral-and-mozilla-are-bringing-open-private-and.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Publications](../ai/companies/publications.md)
+  - [ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-mistral-ocr-4state-of-the-art.md)
+  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
+  - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
@@ -30647,7 +30648,6 @@ Resources organized by publisher feed and query sources.
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
-  - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
 ## Unknown Source (type: github)
 
@@ -31541,9 +31541,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [ExplainDB: A Database System Built for Understandability](../ai/community/explaindb-explaindb.md)
-  - [Martian chaos terrain](../ai/community/martian-chaos-terrain.md)
-  - [The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news](../ai/community/the-philadelphia-inquirer-built-scrape-an-ai-tool.md)
+  - [AI Tutoring with Khanmigo in a Two-Year School Experiment](../ai/community/ai-tutoring-with-khanmigo-in-a-two-year-school-exp.md)
+  - [An Algorithmic Failure Beneath the Secret Ballot](../ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md)
+  - [Anthropic reported diary entry to police, woman faces felony charge](../ai/community/anthropic-reported-diary-entry-to-police-woman-fac.md)
+  - [Dust: Pretraining Transformers Without Backpropagation](../ai/community/dust-pretraining-transformers-without-backpropagat.md)
+  - [Linux containers in 500 lines of code (2016)](../ai/community/linux-containers-in-500-lines-of-code-2016.md)
+  - [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](../ai/community/opus-5-5-agents-discover-two-room-temperature-magn.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -35423,4 +35426,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-05T23:02:12.399987+05:30*
+*Index generated on 2026-10-06T07:10:44.428858+05:30*

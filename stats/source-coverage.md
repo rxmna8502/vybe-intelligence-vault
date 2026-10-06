@@ -5,7 +5,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 30656 |
-| github | 1018 |
+| github | 1017 |
 | huggingface | 926 |
 | nextjs.org | 80 |
 | semanticscholar.org | 70 |
@@ -36,7 +36,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | nist.gov | 10 |
 | cloudflare.com | 9 |
 | docs.unity3d.com | 9 |
-| en.wikipedia.org | 8 |
 | docs.langchain.com | 8 |
 | medium.com | 8 |
 | play.google.com | 8 |
@@ -46,6 +45,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | ai.google.dev | 7 |
 | creativecommons.org | 7 |
 | help.medium.com | 7 |
+| en.wikipedia.org | 7 |
 | twilio.com | 7 |
 | blog.langchain.com | 6 |
 | aws.amazon.com | 6 |
@@ -303,7 +303,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| lenfestinstitute.org | 1 |
+| techspot.com | 1 |
+| vals.ai | 1 |
+| qlabs.sh | 1 |
+| blog.lizzie.io | 1 |
+| edworkingpapers.com | 1 |
+| blog.citp.princeton.edu | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

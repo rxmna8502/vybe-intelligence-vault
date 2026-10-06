@@ -13,13 +13,14 @@ collected_at: '2026-10-05T22:45:39.414174+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-philadelphia-inquirer-built-scrape-an-ai-tool
 first_seen: '2026-10-05T22:45:39.414174+05:30'
 last_seen: '2026-10-05T22:45:39.414174+05:30'
 last_checked: '2026-10-05T22:45:39.414174+05:30'
 health_score: 100
 ---
+
 
 # The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news
 
