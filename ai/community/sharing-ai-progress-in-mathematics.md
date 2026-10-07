@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://openai.com/index/sharing-ai-progress-in-mathematics
 hn_url: https://news.ycombinator.com/item?id=49984923
-score: 714
+score: 1115
 author: OfficialTurkey
-comments_count: 647
+comments_count: 1195
 published_at: '2026-10-07T03:47:21+05:30'
-collected_at: '2026-10-07T11:41:12.316072+05:30'
+collected_at: '2026-10-07T21:09:17.186337+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:sharing-ai-progress-in-mathematics
 first_seen: '2026-10-07T05:26:27.018876+05:30'
-last_seen: '2026-10-07T11:41:12.316072+05:30'
-last_checked: '2026-10-07T11:41:12.316072+05:30'
+last_seen: '2026-10-07T21:09:17.186337+05:30'
+last_checked: '2026-10-07T21:09:17.186337+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by OfficialTurkey. Score: 714, Comments: 647.
+Hacker News story by OfficialTurkey. Score: 1115, Comments: 1195.
 Original Link: https://openai.com/index/sharing-ai-progress-in-mathematics/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: OfficialTurkey
-- Score: 714 Upvotes
-- Comments: 647 Discussions
+- Score: 1115 Upvotes
+- Comments: 1195 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49984923
 - Original Article: https://openai.com/index/sharing-ai-progress-in-mathematics
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/agentuniverse-ai/agentUniverse
-collected_at: '2026-10-06T16:56:23.170347+05:30'
-published_at: '2026-10-06T08:54:56Z'
+collected_at: '2026-10-07T21:14:16.882369+05:30'
+published_at: '2026-10-07T04:10:42Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 2375
+stars: 2376
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-04-23T11:28:18Z'
 pushed_at: '2026-09-14T07:55:21Z'
 resource_id: github:agentuniverse-ai/agentuniverse
-first_seen: '2026-10-06T16:56:23.170347+05:30'
-last_seen: '2026-10-06T16:56:23.170347+05:30'
-last_checked: '2026-10-06T16:56:23.170347+05:30'
+first_seen: '2026-10-07T21:14:16.882369+05:30'
+last_seen: '2026-10-07T21:14:16.882369+05:30'
+last_checked: '2026-10-07T21:14:16.882369+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Python-based framework for developing LLM-powered multi-agent applications.
-*   Designed to simplify the construction and orchestration of autonomous AI agents.
-*   Supports building complex multi-agent systems leveraging large language models.
+*   Python-based LLM multi-agent framework for streamlined development of multi-agent applications.
+*   Provides an architectural foundation for orchestrating autonomous AI agents.
+*   Facilitates the construction of complex multi-agent systems leveraging large language models.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: agentuniverse-ai
-- Stars: 2375
-- Forks: 459
+- Stars: 2376
+- Forks: 460
 - Language: Python
 - Topics: agent, ai, ai-agents, autonomous, awesome, awesome-list, llm, multi-agent, python
-- Last Updated: 2026-10-06T08:54:56Z
+- Last Updated: 2026-10-07T04:10:42Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-04-23T11:28:18Z

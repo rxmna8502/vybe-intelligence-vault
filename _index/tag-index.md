@@ -6202,6 +6202,7 @@ Resources organized by keyword tags.
   - [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](../ai/agents/arxiv-2609-28372.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -7432,6 +7433,7 @@ Resources organized by keyword tags.
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
   - [WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model](../ai/agents/arxiv-2609-23444.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
+  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -8098,11 +8100,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Hackers obtain counterfeit TLS certificates for Google and other large services](../ai/community/hackers-obtain-counterfeit-tls-certificates-for-go.md)
-  - [Jev-Driven SRE Diagnosis: What Worked and What Failed](../ai/community/jev-driven-sre-diagnosis-what-worked-and-what-fail.md)
-  - [OpenTPU – An open-source AI accelerator, developed by AI](../ai/community/fesens-opentpu.md)
-  - [Penguin Mail – open-source Rust email client for Linux with AI](../ai/community/penguin-mail-open-source-rust-email-client-for-lin.md)
+  - [AI-assisted proof of optimal packing for 11 squares](../ai/community/queuingtheorydotcom-11squaresformalized.md)
+  - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](../ai/community/nobel-prize-in-chemistry-2026-to-henri-b-kagan-and.md)
   - [Sharing AI progress in mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
+  - [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](../ai/community/show-hn-astrohelm-use-your-phone-camera-to-aim-a-t.md)
+  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
+  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
 
 ## animation
 
@@ -8626,7 +8629,6 @@ Resources organized by keyword tags.
   - [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](../ai/agents/arxiv-2609-24890.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
-  - [Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program](../ai/companies/anthropic/oct-6-2026announcementsexpanding-the-cyber-verific.md)
   - [OliveGemma: A 3 Billion Visual Language Model for Recognising the Mediterranean & European Diet](../ai/research/arxiv-2608-03428.md)
   - [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](../ai/research/arxiv-2606-01476.md)
   - [OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios](../ai/agents/arxiv-2607-14989.md)
@@ -8705,6 +8707,7 @@ Resources organized by keyword tags.
   - [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](../ai/rag/arxiv-2606-07591.md)
   - [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](../ai/agents/arxiv-2607-04438.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
+  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
   - [Retrieval augmented generation for 10 large language models and its generalizability in assessing medical fitness](../ai/research/retrieval-augmented-generation-for-10-large-langua.md)
   - [Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026](../ai/rag/arxiv-2608-16318.md)
@@ -8952,7 +8955,7 @@ Resources organized by keyword tags.
   - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
-  - [Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program](../ai/companies/anthropic/oct-6-2026announcementsexpanding-the-cyber-verific.md)
+  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
   - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
@@ -23049,7 +23052,7 @@ Resources organized by keyword tags.
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Engineering](../ai/companies/openai/engineering.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
+  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
@@ -23060,11 +23063,11 @@ Resources organized by keyword tags.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
-  - [Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program](../ai/companies/anthropic/oct-6-2026announcementsexpanding-the-cyber-verific.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
-  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
+  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
+  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
@@ -28197,6 +28200,7 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -30604,7 +30608,6 @@ Resources organized by keyword tags.
   - [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](../ai/research/arxiv-2607-15254.md)
   - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
-  - [virattt/dexter](../ai/rag/virattt-dexter.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
   - [xMICD: Explainable Representation of Multiple ICD Codes](../ai/research/arxiv-2608-00935.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
@@ -31401,7 +31404,6 @@ Resources organized by keyword tags.
   - [Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels](../ai/agents/arxiv-2607-23438.md)
   - [September 2026 Security Release](../web-development/nextjs/september-2026-security-release.md)
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
-  - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](../web-development/community/shader-effects-inc-shaders.md)
   - [Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries](../ai/research/arxiv-2608-20441.md)
   - [Shibuya](../ai/resources/shibuya.md)
   - [Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence](../ai/research/arxiv-2512-00418.md)
@@ -32744,6 +32746,7 @@ Resources organized by keyword tags.
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
   - [AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture](../ai/agents/arxiv-2609-21192.md)
+  - [AI-assisted proof of optimal packing for 11 squares](../ai/community/queuingtheorydotcom-11squaresformalized.md)
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
@@ -34272,7 +34275,6 @@ Resources organized by keyword tags.
   - [HTTP Archive: Tech Report](../ai/resources/http-archive-tech-report.md)
   - [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md)
   - [HXAI: Hierarchical Privacy-Preserving Explainable AI in Distributed Energy Systems](../ai/research/arxiv-2610-02504.md)
-  - [Hackers obtain counterfeit TLS certificates for Google and other large services](../ai/community/hackers-obtain-counterfeit-tls-certificates-for-go.md)
   - [Hackster.io - The community dedicated to learning hardware.](../ai/resources/hackster-io-the-community-dedicated-to-learning-ha.md)
   - [HalluPeer: A Taxonomy-driven Benchmark for Detecting Hallucinations in Scientific Peer Reviews](../ai/research/arxiv-2609-03580.md)
   - [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../ai/research/arxiv-2608-11911.md)
@@ -34542,7 +34544,6 @@ Resources organized by keyword tags.
   - [Jarvis: A Proactive Speech Agent for Multi-Party Conversations](../ai/agents/arxiv-2610-07506.md)
   - [JavaScript Tutorial - GeeksforGeeks](../ai/rag/javascript-tutorial-geeksforgeeks.md)
   - [JavaScript data types and data structures - JavaScript | MDN](../ai/rag/javascript-data-types-and-data-structures-javascri.md)
-  - [Jev-Driven SRE Diagnosis: What Worked and What Failed](../ai/community/jev-driven-sre-diagnosis-what-worked-and-what-fail.md)
   - [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md)
   - [Jira | Atlassian Community](../ai/rag/jira-atlassian-community.md)
   - [Job Application for Synack Red Team - Pentester at Synack SRT](../ai/resources/job-application-for-synack-red-team-pentester-at-s.md)
@@ -34621,7 +34622,6 @@ Resources organized by keyword tags.
   - [LLMs Can Annotate Attribution Graphs](../ai/research/arxiv-2608-02632.md)
   - [LLMs Can Better Capture Human Judgments--With the Right Prompts](../ai/research/arxiv-2606-12754.md)
   - [LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications](../ai/agents/arxiv-2607-18147.md)
-  - [LLMs may have helped my RSI](../ai/community/llms-may-have-helped-my-rsi.md)
   - [LTM: Large-scale Terrain Model for Wildfire-prone Landscapes](../ai/rag/arxiv-2607-08711.md)
   - [Label Propagation for Physics-Informed Neural Networks and Physics-Informed Gaussian Processes](../ai/research/arxiv-2404-05817.md)
   - [Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets](../ai/rag/arxiv-2512-14237.md)
@@ -35056,6 +35056,7 @@ Resources organized by keyword tags.
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
   - [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](../ai/research/arxiv-2609-10854.md)
+  - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](../ai/community/nobel-prize-in-chemistry-2026-to-henri-b-kagan-and.md)
   - [Noise Contrastive Estimation-based Matching Framework for Low-Resource Security Attack Pattern Recognition](../ai/research/arxiv-2401-10337.md)
   - [Noise-Adaptive Conformal Classification with Marginal Coverage](../ai/rag/arxiv-2501-18060.md)
   - [Noise-Aware Boundary-Enhanced Generative Learning for Ultrasound Speckle Reduction](../ai/rag/arxiv-2606-25009.md)
@@ -35154,7 +35155,6 @@ Resources organized by keyword tags.
   - [OpenJS Foundation · GitHub](../ai/resources/openjs-foundation-github.md)
   - [OpenSearchCon North America | LF Events](../ai/rag/opensearchcon-north-america-lf-events.md)
   - [OpenStamp: A Watermark for Open-Source Language Models](../ai/research/arxiv-2608-27899.md)
-  - [OpenTPU – An open-source AI accelerator, developed by AI](../ai/community/fesens-opentpu.md)
   - [Operationalising AI Regulatory Sandboxes: Activities, Requirements, and Technical Assessment under the EU AI Act](../ai/rag/arxiv-2509-25256.md)
   - [Operator-Theoretic Generalization Bounds for Multitask Deep Learning](../ai/research/arxiv-2608-15982.md)
   - [OptEMA: Adaptive Exponential Moving Average for Stochastic Optimization with Zero-Noise Optimality](../ai/rag/arxiv-2603-09923.md)
@@ -35230,13 +35230,13 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch Rebirth: Fast and Transferable Model Inversion of Vision Transformers](../ai/rag/arxiv-2509-23235.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage](../ai/rag/arxiv-2608-18438.md)
-  - [Penguin Mail – open-source Rust email client for Linux with AI](../ai/community/penguin-mail-open-source-rust-email-client-for-lin.md)
   - [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](../ai/research/perception-tokens-enhance-visual-reasoning-in-mult.md)
   - [Perception-Aligned AI Outputs: End-to-End Visual Prediction for Uncertainty Communication in Clinical Decision-Making](../ai/research/arxiv-2205-04599.md)
   - [Performance Foundations of Parallel & Distributed Reasoning Language Models](../ai/research/arxiv-2608-27046.md)
@@ -35780,7 +35780,6 @@ Resources organized by keyword tags.
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Seven Security Challenges in Cross-domain Multi-agent LLM Systems](../ai/agents/arxiv-2505-23847.md)
   - [Sexualised synthetic personas encode and amplify gendered power asymmetries through voice](../ai/research/arxiv-2606-21366.md)
-  - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](../web-development/community/shader-effects-inc-shaders.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [Sharing AI progress in mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
   - [Sharing standardized image-derived data in computational pathology using DICOM](../ai/research/arxiv-2609-14530.md)
@@ -35790,6 +35789,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](../ai/community/show-hn-astrohelm-use-your-phone-camera-to-aim-a-t.md)
+  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -36429,6 +36430,7 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
+  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -36524,6 +36526,7 @@ Resources organized by keyword tags.
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
   - [World Leader in Artificial Intelligence Computing | NVIDIA](../ai/rag/world-leader-in-artificial-intelligence-computing.md)
   - [Would this change your answer? Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments](../ai/agents/arxiv-2608-16747.md)
+  - [Write Like It's 1866: LLMs Relearn Telegraphese](../ai/community/write-like-it-s-1866-llms-relearn-telegraphese.md)
   - [Write on Paper and Get the Online Digital Trace: A New Era for Handwriting](../ai/research/arxiv-2609-12702.md)
   - [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md)
   - [Wrong-Physics Backdoors in Neural PDE Operators](../ai/research/arxiv-2608-20439.md)
@@ -36629,7 +36632,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -37450,7 +37452,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [LLMs may have helped my RSI](../ai/community/llms-may-have-helped-my-rsi.md)
+  - [Write Like It's 1866: LLMs Relearn Telegraphese](../ai/community/write-like-it-s-1866-llms-relearn-telegraphese.md)
 
 ## mdx
 
@@ -38535,7 +38537,7 @@ Resources organized by keyword tags.
   - [Efficiency vs. Alignment: Investigating Safety and Fairness Risks in Parameter-Efficient Fine-Tuning of LLMs](../ai/research/arxiv-2511-00382.md)
   - [Efficient Adaptation of LLMs for Hate Speech Detection in Low-Resource Languages: A Comparative Study on Roman Urdu](../ai/research/arxiv-2608-18142.md)
   - [Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware](../ai/research/arxiv-2608-00008.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
+  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Evaluate a simple LLM application - Ragas](../ai/rag/evaluate-a-simple-llm-application-ragas.md)
   - [Evaluating Confidence-Gated Retrieval with Matched Trajectory Replay](../ai/rag/arxiv-2608-26846.md)
   - [Evaluating LLM Trade-offs for Enterprise Automation: Lessons from Workflow Generation in a Production Enterprise Platform](../ai/research/arxiv-2608-03311.md)
@@ -38623,7 +38625,7 @@ Resources organized by keyword tags.
   - [Reasoning Topology Matters: A Controlled Study of LLM-Based Cybersecurity Analysis](../ai/research/arxiv-2609-24710.md)
   - [Reference Feature Atlases for Mechanistic Auditing of Language Models](../ai/research/arxiv-2607-22570.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
-  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
+  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation](../ai/rag/arxiv-2608-24973.md)
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
@@ -38702,10 +38704,10 @@ Resources organized by keyword tags.
   - [CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral](../ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md)
   - [CompanyHallo, Deutschland!Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest EconomySeptember 28, 2026By Mistral](../ai/companies/mistral/companyhallo-deutschland-mistral-opens-german-hub.md)
   - [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
+  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Latest research](../ai/companies/mistral/latest-research.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
-  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
+  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
@@ -40648,7 +40650,7 @@ Resources organized by keyword tags.
   - [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](../ai/rag/arxiv-2606-11257.md)
   - [Energy-guided Recursive Model](../ai/rag/arxiv-2607-10128.md)
   - [Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics](../ai/rag/arxiv-2608-19579.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
+  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training](../ai/rag/arxiv-2604-13286.md)
   - [Enhanced Feature Extraction for IoT Network Intrusion Detection Using GNNs and KAN](../ai/rag/arxiv-2607-02981.md)
   - [Enhancement of E-commerce Sponsored Search Relevancy with LLM](../ai/research/arxiv-2607-03886.md)
@@ -42959,6 +42961,7 @@ Resources organized by keyword tags.
   - [One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data](../ai/research/arxiv-2609-26097.md)
   - [One Framework for All: Cross-Modal Membership Inference for Generative Models](../ai/rag/arxiv-2607-04339.md)
   - [One Loop, Two Gains: Can Active Learning win the Lottery for Free?](../ai/research/arxiv-2609-10311.md)
+  - [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](../ai/models/huggingface-blog-nvidia-nemotron-ioi-and-imo-2026.md)
   - [One Model for All: Universal Pre-training for EEG based Emotion Recognition across Heterogeneous Datasets and Paradigms](../ai/rag/arxiv-2511-08444.md)
   - [One Model to Translate Them All? A Journey to Mount Doom for Multilingual Model Merging](../ai/rag/arxiv-2604-02881.md)
   - [One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning](../ai/agents/arxiv-2608-30952.md)
@@ -43752,7 +43755,7 @@ Resources organized by keyword tags.
   - [Reputation, Strategy, and Emotion Effects on Generative AI Cooperation: A Comparison Across Reasoning and Non-Reasoning Models](../ai/agents/arxiv-2610-01222.md)
   - [Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](../ai/research/arxiv-2607-11883.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
-  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
+  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [Residual Modeling for High-Fidelity Learned Compression of Scientific Data](../ai/research/arxiv-2606-05389.md)
   - [Residual Reward Models: Leveraging Prior Knowledge for Efficient Preference-based Reinforcement Learning in Robotics](../ai/rag/arxiv-2507-00611.md)
@@ -63200,6 +63203,7 @@ Resources organized by keyword tags.
   - [Wave Function Backpropagation with Explicit Temporal-Interval Dynamics](../ai/rag/arxiv-2609-00503.md)
   - [WaveTLM: Reliable Time-Series Language Modeling through Task Compilation](../ai/rag/arxiv-2609-18812.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
+  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeSCE: A Benchmark for Measuring Security Drift in LLM-Driven Code Editing](../ai/rag/arxiv-2608-15092.md)
   - [Weak Ties, Strong Signals: Efficient Training Data Detection in Diffusion LLMs via Independent Token Sampling](../ai/rag/arxiv-2609-22145.md)
@@ -63996,10 +64000,6 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
-
-## react
-
-  - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](../web-development/community/shader-effects-inc-shaders.md)
 
 ## reddit
 
@@ -66881,7 +66881,6 @@ Resources organized by keyword tags.
   - [ScratchSim: A Procedural Synthetic Data Pipeline for Surface Scratch Detection](../ai/research/arxiv-2607-27065.md)
   - [Select Identity Provider](../ai/rag/select-identity-provider.md)
   - [Selection Bias Correction in Retail Intelligence](../ai/research/arxiv-2608-26156.md)
-  - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](../web-development/community/shader-effects-inc-shaders.md)
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
   - [Silent Failures Beyond the 32-Bit Index Range: A Differential Characterization of Large-Tensor Matrix Multiplication in PyTorch's MPS Backend](../ai/research/arxiv-2609-22991.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
@@ -69943,10 +69942,6 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
-
-## webgpu
-
-  - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](../web-development/community/shader-effects-inc-shaders.md)
 
 ## workflows
 
@@ -75515,4 +75510,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-07T12:02:22.668175+05:30*
+*Index generated on 2026-10-07T21:26:17.277008+05:30*

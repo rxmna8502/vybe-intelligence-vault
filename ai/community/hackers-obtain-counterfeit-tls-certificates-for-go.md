@@ -13,13 +13,14 @@ collected_at: '2026-10-07T11:41:15.745018+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:hackers-obtain-counterfeit-tls-certificates-for-go
 first_seen: '2026-10-07T11:41:15.745018+05:30'
 last_seen: '2026-10-07T11:41:15.745018+05:30'
 last_checked: '2026-10-07T11:41:15.745018+05:30'
 health_score: 100
 ---
+
 
 # Hackers obtain counterfeit TLS certificates for Google and other large services
 

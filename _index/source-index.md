@@ -31371,7 +31371,7 @@ Resources organized by publisher feed and query sources.
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Engineering](../ai/companies/openai/engineering.md)
-  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral AI](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
+  - [EngineeringBringing more control over your connectorsJune 24, 2026By Mistral](../ai/companies/mistral/engineeringbringing-more-control-over-your-connect.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
@@ -31382,11 +31382,11 @@ Resources organized by publisher feed and query sources.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
-  - [Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program](../ai/companies/anthropic/oct-6-2026announcementsexpanding-the-cyber-verific.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
-  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
+  - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
+  - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
@@ -32288,13 +32288,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Hackers obtain counterfeit TLS certificates for Google and other large services](../ai/community/hackers-obtain-counterfeit-tls-certificates-for-go.md)
-  - [Jev-Driven SRE Diagnosis: What Worked and What Failed](../ai/community/jev-driven-sre-diagnosis-what-worked-and-what-fail.md)
-  - [LLMs may have helped my RSI](../ai/community/llms-may-have-helped-my-rsi.md)
-  - [OpenTPU – An open-source AI accelerator, developed by AI](../ai/community/fesens-opentpu.md)
-  - [Penguin Mail – open-source Rust email client for Linux with AI](../ai/community/penguin-mail-open-source-rust-email-client-for-lin.md)
-  - [Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer](../web-development/community/shader-effects-inc-shaders.md)
+  - [AI-assisted proof of optimal packing for 11 squares](../ai/community/queuingtheorydotcom-11squaresformalized.md)
+  - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](../ai/community/nobel-prize-in-chemistry-2026-to-henri-b-kagan-and.md)
   - [Sharing AI progress in mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
+  - [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](../ai/community/show-hn-astrohelm-use-your-phone-camera-to-aim-a-t.md)
+  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
+  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
+  - [Write Like It's 1866: LLMs Relearn Telegraphese](../ai/community/write-like-it-s-1866-llms-relearn-telegraphese.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -32523,7 +32523,6 @@ Resources organized by publisher feed and query sources.
   - [Falcon Perception](../ai/models/huggingface-blog-tiiuae-falcon-perception.md)
   - [Falcon-Arabic: A Breakthrough in Arabic Language Models](../ai/models/huggingface-blog-tiiuae-falcon-arabic.md)
   - [Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.](../ai/models/huggingface-blog-tiiuae-falcon-edge.md)
-  - [Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance](../ai/models/huggingface-blog-tiiuae-falcon-emirati.md)
   - [Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](../ai/models/huggingface-blog-tiiuae-falcon-h1.md)
   - [Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator](../ai/models/huggingface-blog-habana-gaudi-2-bloom.md)
   - [Fast LoRA inference for Flux with Diffusers and PEFT](../ai/models/huggingface-blog-lora-fast.md)
@@ -32842,7 +32841,6 @@ Resources organized by publisher feed and query sources.
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
   - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md)
   - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md)
-  - [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](../ai/models/huggingface-blog-nvidia-kumo-tabular.md)
   - [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md)
   - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../ai/agents/huggingface-blog-nvidia-reachy-mini.md)
   - [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../ai/models/huggingface-blog-nvidia-physical-ai.md)
@@ -32862,6 +32860,7 @@ Resources organized by publisher feed and query sources.
   - [Object Detection Leaderboard](../ai/models/huggingface-blog-object-detection-leaderboard.md)
   - [OlmoEarth v1.1: A more efficient family of Earth observation models](../ai/models/huggingface-blog-allenai-olmoearth-v1-1.md)
   - [On the Shifting Global Compute Landscape](../ai/models/huggingface-blog-huggingface-shifting-compute-landscape.md)
+  - [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](../ai/models/huggingface-blog-nvidia-nemotron-ioi-and-imo-2026.md)
   - [One Year Since the “DeepSeek Moment”](../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment.md)
   - [One-Shot Any Web App with Gradio's gr.HTML](../ai/models/huggingface-blog-gradio-html-one-shot-apps.md)
   - [Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](../ai/models/huggingface-blog-open-asr-leaderboard.md)
@@ -36176,4 +36175,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-07T12:02:23.081844+05:30*
+*Index generated on 2026-10-07T21:26:17.597883+05:30*

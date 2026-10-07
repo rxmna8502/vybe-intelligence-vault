@@ -16,13 +16,14 @@ tags:
 - react
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: github:shader-effects-inc/shaders
 first_seen: '2026-10-07T11:41:13.693386+05:30'
 last_seen: '2026-10-07T11:41:13.693386+05:30'
 last_checked: '2026-10-07T11:41:13.693386+05:30'
 health_score: 100
 ---
+
 
 # Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
 

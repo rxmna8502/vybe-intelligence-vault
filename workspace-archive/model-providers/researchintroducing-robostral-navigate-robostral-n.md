@@ -1,6 +1,6 @@
 ---
 title: ResearchIntroducing Robostral Navigate Robostral Navigate, our first model
-  built for embodied navigation. July 8, 2026By Mistral AI
+  built for embodied navigation. July 8, 2026By Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/robostral-navigate
@@ -21,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI
+# ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral
 
 ## Why This Is In The Archive
 
@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI
+Recent update from Mistral AI News Blog: ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral
 
 ## Use Cases
 
