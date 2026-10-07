@@ -13,13 +13,14 @@ collected_at: '2026-10-07T05:26:29.288195+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-are-there-ai-models-for-generating-sounds-b
 first_seen: '2026-10-07T05:26:29.288195+05:30'
 last_seen: '2026-10-07T05:26:29.288195+05:30'
 last_checked: '2026-10-07T05:26:29.288195+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: Are there AI models for generating sounds based on a text and reference?
 

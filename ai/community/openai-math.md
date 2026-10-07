@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - paper
-status: active
+status: inactive
 resource_id: github:openai/math
 first_seen: '2026-10-07T05:26:27.198543+05:30'
 last_seen: '2026-10-07T05:26:27.198543+05:30'
 last_checked: '2026-10-07T05:26:27.198543+05:30'
 health_score: 100
 ---
+
 
 # OpenAI just dropped 700 preprints of mathematical proofs and counterexamples
 

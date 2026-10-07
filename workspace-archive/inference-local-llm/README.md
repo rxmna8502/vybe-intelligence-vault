@@ -15,7 +15,7 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - ESSENTIAL Tier)
 - [Broken on Arrival: Silently Defective LLM Artifacts in Public Model Registries and How to Catch Them](https://arxiv.org/abs/2609.05881) (template - ESSENTIAL Tier)
 - [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (workflow - USEFUL Tier)
-- [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](https://arxiv.org/abs/2608.13966) (reference - USEFUL Tier)
+- [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](https://arxiv.org/abs/2608.13966) (benchmark - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -43,4 +43,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-10-07 05:45 IST*
+*Last updated: 2026-10-07 12:05 IST*

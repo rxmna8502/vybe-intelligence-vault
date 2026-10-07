@@ -102,13 +102,12 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure](https://arxiv.org/abs/2608.11079) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-11079.md))
 - [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-04077.md))
+- [MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory](https://arxiv.org/abs/2610.08586) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-08586.md))
 - [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-25760.md))
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
-- [UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://arxiv.org/abs/2608.15930) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-15930.md))
+- [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://arxiv.org/abs/2610.08215) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2610-08215.md))
 
 ## REFERENCE
 
-- [QUASAR: Lowering the Loss Floor of Quantization-Aware Training with Loss-Aware Reconstruction](https://arxiv.org/abs/2608.13966) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-13966.md))
 - [Hierarchical Compositionality for An Assistive AI Agent](https://arxiv.org/abs/2608.10330) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-10330.md))
 - [Beyond Point Predictions: Uncertainty-Aware Satellite Poverty Mapping for Public Policy](https://arxiv.org/abs/2608.23322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-23322.md))
 - [Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable](https://arxiv.org/abs/2608.27167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-27167.md))
@@ -120,6 +119,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Intelligence Age](https://openai.com/news/intelligence-age) (Tier: `useful` | [`Local File`](../../ai/companies/openai/intelligence-age.md))
 - [Applied AI](https://openai.com/news/applied-ai) (Tier: `useful` | [`Local File`](../../ai/companies/openai/applied-ai.md))
 - [AI Adoption](https://openai.com/news/ai-adoption) (Tier: `useful` | [`Local File`](../../ai/companies/openai/ai-adoption.md))
+- [Engineering](https://openai.com/news/engineering) (Tier: `useful` | [`Local File`](../../ai/companies/openai/engineering.md))
 
 ## TEMPLATE
 
@@ -175,11 +175,11 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
 - [Embedded Bi-Temporal Building Damage Assessment for On-Board Data Reduction](https://arxiv.org/abs/2609.37013) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-37013.md))
 - [LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant](https://arxiv.org/abs/2609.30692) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-30692.md))
-- [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics) (Tier: `useful` | [`Local File`](../../ai/community/sharing-ai-progress-in-mathematics.md))
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics) (Tier: `useful` | [`Local File`](../../ai/community/sharing-ai-progress-in-mathematics.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
-- [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics) (Tier: `useful` | [`Local File`](../../ai/community/sharing-ai-progress-in-mathematics.md))
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics) (Tier: `useful` | [`Local File`](../../ai/community/sharing-ai-progress-in-mathematics.md))
 - [Embedded Bi-Temporal Building Damage Assessment for On-Board Data Reduction](https://arxiv.org/abs/2609.37013) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-37013.md))
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa/) (Tier: `useful` | [`Local File`](../../ai/rag/vespa-engine-vespa.md))
 
 ---
-*Last updated: 2026-10-07 05:46 IST*
+*Last updated: 2026-10-07 12:05 IST*

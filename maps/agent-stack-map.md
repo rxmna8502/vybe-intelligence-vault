@@ -13,8 +13,8 @@ LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 *   [MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems](https://arxiv.org/abs/2609.21533)
 *   [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](https://arxiv.org/abs/2604.05165)
 *   [DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat](https://arxiv.org/abs/2609.11155)
+*   [Foundation Model-Aided Multi-Agent Reinforcement Learning for Wireless Random Access Network Optimization](https://arxiv.org/abs/2610.07550)
 *   [LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI](https://arxiv.org/abs/2606.18021)
-*   [Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation](https://arxiv.org/abs/2607.14256)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.
