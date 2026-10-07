@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:we-built-an-alternative-to-vector-rag-for-ai-agent
 first_seen: '2026-10-07T21:09:16.526700+05:30'
 last_seen: '2026-10-07T21:09:16.526700+05:30'
 last_checked: '2026-10-07T21:09:16.526700+05:30'
 health_score: 100
 ---
+
 
 # We Built an Alternative to Vector RAG for AI Agent Memory
 

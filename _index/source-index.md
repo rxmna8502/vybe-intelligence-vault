@@ -32289,12 +32289,13 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [AI-assisted proof of optimal packing for 11 squares](../ai/community/queuingtheorydotcom-11squaresformalized.md)
+  - [Claude Haiku 5.5](../ai/community/claude-haiku-5-5.md)
+  - [Despite what Watson said, Rosalind Franklin understood structure of DNA first](../ai/community/despite-what-watson-said-rosalind-franklin-underst.md)
+  - [ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains](../ai/community/icann-reveals-2026-round-applications-for-new-gene.md)
+  - [Meta and Microsoft take steps to reduce employee usage of Claude AI](../ai/community/meta-and-microsoft-take-steps-to-reduce-employee-u.md)
   - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](../ai/community/nobel-prize-in-chemistry-2026-to-henri-b-kagan-and.md)
   - [Sharing AI progress in mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
-  - [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](../ai/community/show-hn-astrohelm-use-your-phone-camera-to-aim-a-t.md)
-  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
-  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
-  - [Write Like It's 1866: LLMs Relearn Telegraphese](../ai/community/write-like-it-s-1866-llms-relearn-telegraphese.md)
+  - [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](../ai/community/show-hn-agent-reviews-where-ai-agents-read-and-wri.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -32353,7 +32354,6 @@ Resources organized by publisher feed and query sources.
   - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](../ai/models/huggingface-blog-nvidia-accelerating-fine-tuning-nvidia-nemo-automodel.md)
   - [Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](../ai/models/huggingface-blog-bridgetower.md)
   - [Accelerating over 130,000 Hugging Face models with ONNX Runtime](../ai/models/huggingface-blog-ort-accelerating-hf-models.md)
-  - [Accelerating vision-language models with LFM2.5-VL-DSpark](../ai/models/huggingface-blog-liquidai-lfm2-5-vl-dspark.md)
   - [Active Learning with AutoNLP and Prodigy](../ai/models/huggingface-blog-autonlp-prodigy.md)
   - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](../ai/models/huggingface-blog-open-asr-leaderboard-private-data.md)
   - [Adding MCP Tools to Reachy Mini](../ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md)
@@ -32836,6 +32836,7 @@ Resources organized by publisher feed and query sources.
   - [MosaicLeaks: Can your research agent keep a secret?](../ai/agents/huggingface-blog-servicenow-mosaicleaks.md)
   - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](../ai/models/huggingface-blog-multi-vector-encoder.md)
   - [Multimodal Embedding & Reranker Models with Sentence Transformers](../ai/models/huggingface-blog-multimodal-sentence-transformers.md)
+  - [Multimodal open d1 decision models for the edge](../ai/models/huggingface-blog-liquidai-open-d1.md)
   - [Multivariate Probabilistic Time Series Forecasting with Informer](../ai/models/huggingface-blog-informer.md)
   - [My Journey to a serverless transformers pipeline on Google Cloud](../ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md)
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
@@ -36175,4 +36176,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-07T21:26:17.597883+05:30*
+*Index generated on 2026-10-08T03:11:55.649750+05:30*

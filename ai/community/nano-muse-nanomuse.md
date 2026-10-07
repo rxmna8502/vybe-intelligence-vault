@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:nano-muse/nanomuse
 first_seen: '2026-10-07T21:09:18.603736+05:30'
 last_seen: '2026-10-07T21:09:18.603736+05:30'
 last_checked: '2026-10-07T21:09:18.603736+05:30'
 health_score: 100
 ---
+
 
 # Show HN: NanoMuse – An open-source AI agent for your phone and computer
 

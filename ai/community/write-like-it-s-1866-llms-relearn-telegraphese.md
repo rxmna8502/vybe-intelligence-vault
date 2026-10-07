@@ -13,13 +13,14 @@ collected_at: '2026-10-07T21:09:15.940868+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:write-like-it-s-1866-llms-relearn-telegraphese
 first_seen: '2026-10-07T21:09:15.940868+05:30'
 last_seen: '2026-10-07T21:09:15.940868+05:30'
 last_checked: '2026-10-07T21:09:15.940868+05:30'
 health_score: 100
 ---
+
 
 # Write Like It's 1866: LLMs Relearn Telegraphese
 

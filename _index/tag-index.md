@@ -6202,7 +6202,7 @@ Resources organized by keyword tags.
   - [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](../ai/agents/arxiv-2609-28372.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
+  - [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](../ai/community/show-hn-agent-reviews-where-ai-agents-read-and-wri.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -7433,7 +7433,6 @@ Resources organized by keyword tags.
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
   - [WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model](../ai/agents/arxiv-2609-23444.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
-  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -8101,11 +8100,13 @@ Resources organized by keyword tags.
 ## ai
 
   - [AI-assisted proof of optimal packing for 11 squares](../ai/community/queuingtheorydotcom-11squaresformalized.md)
+  - [Claude Haiku 5.5](../ai/community/claude-haiku-5-5.md)
+  - [Despite what Watson said, Rosalind Franklin understood structure of DNA first](../ai/community/despite-what-watson-said-rosalind-franklin-underst.md)
+  - [ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains](../ai/community/icann-reveals-2026-round-applications-for-new-gene.md)
+  - [Meta and Microsoft take steps to reduce employee usage of Claude AI](../ai/community/meta-and-microsoft-take-steps-to-reduce-employee-u.md)
   - [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](../ai/community/nobel-prize-in-chemistry-2026-to-henri-b-kagan-and.md)
   - [Sharing AI progress in mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
-  - [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](../ai/community/show-hn-astrohelm-use-your-phone-camera-to-aim-a-t.md)
-  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
-  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
+  - [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](../ai/community/show-hn-agent-reviews-where-ai-agents-read-and-wri.md)
 
 ## animation
 
@@ -8287,6 +8288,7 @@ Resources organized by keyword tags.
   - [Clarify Before You Draw: Proactive Agents for Robust Text-to-CAD Generation](../ai/agents/arxiv-2602-03045.md)
   - [Claude Code Plugin - Pinecone Docs](../ai/rag/claude-code-plugin-pinecone-docs.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [Claude Haiku 5.5](../ai/community/claude-haiku-5-5.md)
   - [ClawBench: Can AI Agents Complete Everyday Online Tasks?](../ai/agents/arxiv-2604-08523.md)
   - [ClawGym II: Exploring Black-Box RL on Agent Harness](../ai/agents/arxiv-2608-16798.md)
   - [ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents](../ai/agents/arxiv-2608-21101.md)
@@ -8587,6 +8589,7 @@ Resources organized by keyword tags.
   - [MemMux: Runtime Verification and Honest Resource Attribution for Fleets of Parallel Coding Agents](../ai/agents/arxiv-2610-07257.md)
   - [Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory](../ai/agents/arxiv-2606-23195.md)
   - [MemoryWalker: Stop Training Agents on Contexts They Never Saw](../ai/rag/arxiv-2609-00865.md)
+  - [Meta and Microsoft take steps to reduce employee usage of Claude AI](../ai/community/meta-and-microsoft-take-steps-to-reduce-employee-u.md)
   - [Meta-Harness 101: The Layer Above AI Agent Harnesses](../ai/rag/meta-harness-101-the-layer-above-ai-agent-harnesse.md)
   - [Metadata-Free Meta-Reweighted Direct Preference Optimization under Noisy Preference Labels](../ai/research/arxiv-2607-09796.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
@@ -18060,7 +18063,6 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -28200,7 +28202,6 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -33312,6 +33313,7 @@ Resources organized by keyword tags.
   - [Classification Based on Association Rules Algorithm for Breast Cancer](../ai/research/arxiv-2610-00174.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
   - [Claude Code for VS Code - Visual Studio Marketplace](../ai/agents/claude-code-for-vs-code-visual-studio-marketplace.md)
+  - [Claude Haiku 5.5](../ai/community/claude-haiku-5-5.md)
   - [Clearing the Underbrush: AI-Enhanced RF Interference Suppression](../ai/research/arxiv-2608-24974.md)
   - [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](../ai/agents/arxiv-2609-26779.md)
   - [Clinical Domain Classification from Medical Transcriptions](../ai/research/arxiv-2609-22734.md)
@@ -33614,6 +33616,7 @@ Resources organized by keyword tags.
   - [Designing a Boundary Negotiating Artifact for Collaborative Socio-Technical Sense-Making in AI Regulatory Sandboxes](../ai/research/arxiv-2609-37109.md)
   - [Designing for Interpretation Uncertainty: Architecture and Principles for Topological Learning Analytics Dashboards](../ai/research/arxiv-2610-01749.md)
   - [Desktop for developers | Ubuntu](../ai/rag/desktop-for-developers-ubuntu.md)
+  - [Despite what Watson said, Rosalind Franklin understood structure of DNA first](../ai/community/despite-what-watson-said-rosalind-franklin-underst.md)
   - [Detecting AI-Generated Videos with Spiking Neural Networks](../ai/research/arxiv-2605-05895.md)
   - [Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study](../ai/research/arxiv-2609-29433.md)
   - [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](../ai/agents/arxiv-2604-01151.md)
@@ -34404,6 +34407,7 @@ Resources organized by keyword tags.
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IBAN-Prüfer: Validierung der internationalen Kontonummer](../ai/resources/iban-prufer-validierung-der-internationalen-konton.md)
   - [IC3 – The Initiative for Cryptocurrencies and Contracts – Advancing the science and applications of blockchains](../ai/resources/ic3-the-initiative-for-cryptocurrencies-and-contra.md)
+  - [ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains](../ai/community/icann-reveals-2026-round-applications-for-new-gene.md)
   - [ICO website user survey 2026 | ICO](../ai/resources/ico-website-user-survey-2026-ico.md)
   - [IDSPACE: A Novel Document Generator for Reliable Evaluation of Digital Identity Verification Systems [Extended Technical Report]](../ai/research/arxiv-2609-03052.md)
   - [IEEE 802.11bx - WLAN Intelligent Networking (WIN): Toward an AI-Ready Wi-Fi 9](../ai/research/arxiv-2610-07900.md)
@@ -34892,6 +34896,7 @@ Resources organized by keyword tags.
   - [Mesh-based Super-resolution of Multiscale Detonation Flows with Graph Transformers](../ai/rag/arxiv-2511-12041.md)
   - [MeshGraphNet-Transformer: Scalable Mesh-based Learned Simulation for Solid Mechanics](../ai/research/arxiv-2601-23177.md)
   - [Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting](../ai/research/arxiv-2607-22890.md)
+  - [Meta and Microsoft take steps to reduce employee usage of Claude AI](../ai/community/meta-and-microsoft-take-steps-to-reduce-employee-u.md)
   - [Meta-Learning for Classifier Selection in Image Datasets: A Feature-Driven Framework for Accuracy Prediction](../ai/rag/arxiv-2609-11041.md)
   - [Meta-classification of one-class classification models using ranking correlation and nearest neighbor](../ai/research/arxiv-2606-17858.md)
   - [MetaConfigurator: AI-Assisted RDF Authoring from JSON Data](../ai/agents/arxiv-2606-07094.md)
@@ -35230,7 +35235,6 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch Rebirth: Fast and Transferable Model Inversion of Vision Transformers](../ai/rag/arxiv-2509-23235.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
@@ -35789,8 +35793,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens](../ai/community/show-hn-astrohelm-use-your-phone-camera-to-aim-a-t.md)
-  - [Show HN: NanoMuse – An open-source AI agent for your phone and computer](../ai/community/nano-muse-nanomuse.md)
+  - [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](../ai/community/show-hn-agent-reviews-where-ai-agents-read-and-wri.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -36430,7 +36433,6 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
-  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -36526,7 +36528,6 @@ Resources organized by keyword tags.
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
   - [World Leader in Artificial Intelligence Computing | NVIDIA](../ai/rag/world-leader-in-artificial-intelligence-computing.md)
   - [Would this change your answer? Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments](../ai/agents/arxiv-2608-16747.md)
-  - [Write Like It's 1866: LLMs Relearn Telegraphese](../ai/community/write-like-it-s-1866-llms-relearn-telegraphese.md)
   - [Write on Paper and Get the Online Digital Trace: A New Era for Handwriting](../ai/research/arxiv-2609-12702.md)
   - [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md)
   - [Wrong-Physics Backdoors in Neural PDE Operators](../ai/research/arxiv-2608-20439.md)
@@ -36632,6 +36633,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -37449,10 +37451,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Write Like It's 1866: LLMs Relearn Telegraphese](../ai/community/write-like-it-s-1866-llms-relearn-telegraphese.md)
 
 ## mdx
 
@@ -63203,7 +63201,6 @@ Resources organized by keyword tags.
   - [Wave Function Backpropagation with Explicit Temporal-Interval Dynamics](../ai/rag/arxiv-2609-00503.md)
   - [WaveTLM: Reliable Time-Series Language Modeling through Task Compilation](../ai/rag/arxiv-2609-18812.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
-  - [We Built an Alternative to Vector RAG for AI Agent Memory](../ai/community/we-built-an-alternative-to-vector-rag-for-ai-agent.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeSCE: A Benchmark for Measuring Security Drift in LLM-Driven Code Editing](../ai/rag/arxiv-2608-15092.md)
   - [Weak Ties, Strong Signals: Efficient Training Data Detection in Diffusion LLMs via Independent Token Sampling](../ai/rag/arxiv-2609-22145.md)
@@ -65638,6 +65635,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -75510,4 +75508,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-07T21:26:17.277008+05:30*
+*Index generated on 2026-10-08T03:11:55.245447+05:30*

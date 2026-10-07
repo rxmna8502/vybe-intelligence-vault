@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/queuingtheorydotcom/11squaresformalized
 hn_url: https://news.ycombinator.com/item?id=49993121
-score: 22
+score: 94
 author: bluepeter
-comments_count: 13
+comments_count: 43
 published_at: '2026-10-07T19:40:55+05:30'
-collected_at: '2026-10-07T21:09:15.801380+05:30'
+collected_at: '2026-10-08T02:55:20.718313+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:queuingtheorydotcom/11squaresformalized
 first_seen: '2026-10-07T21:09:15.801380+05:30'
-last_seen: '2026-10-07T21:09:15.801380+05:30'
-last_checked: '2026-10-07T21:09:15.801380+05:30'
+last_seen: '2026-10-08T02:55:20.718313+05:30'
+last_checked: '2026-10-08T02:55:20.718313+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by bluepeter. Score: 22, Comments: 13.
+Hacker News story by bluepeter. Score: 94, Comments: 43.
 Original Link: https://github.com/Queuingtheorydotcom/11SquaresFormalized
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: bluepeter
-- Score: 22 Upvotes
-- Comments: 13 Discussions
+- Score: 94 Upvotes
+- Comments: 43 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49993121
 - Original Article: https://github.com/queuingtheorydotcom/11squaresformalized
 
