@@ -1,32 +1,391 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-10-07T00:21:14.465088+05:30",
+  "generated_at": "2026-10-07T05:47:16.568169+05:30",
   "trending_resources": [
     {
-      "id": "github:run-llama/parsebench",
-      "title": "run-llama/ParseBench",
+      "id": "github:fesens/opentpu",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/fesens/opentpu",
+      "file_path": "ai/community/fesens-opentpu.md",
+      "score": 210,
+      "score_change": 82,
+      "rank_change": 2,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:particlemedia/ragtruth",
+      "title": "ParticleMedia/RAGTruth",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/run-llama/parsebench",
-      "file_path": "ai/rag/run-llama-parsebench.md",
+      "url": "https://github.com/particlemedia/ragtruth",
+      "file_path": "ai/rag/particlemedia-ragtruth.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1022,
-=======
-  "generated_at": "2026-10-07T00:21:36.546804+05:30",
-  "trending_resources": [
+      "rank_change": 1038,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-5-universal-webpack-css-imports-plugins-an",
+      "title": "Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/next-5",
+      "file_path": "web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-5-1-faster-page-resolution-environment-con",
+      "title": "Next.js 5.1: Faster Page Resolution, Environment Config & More",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/next-5-1",
+      "file_path": "web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-6-and-nextjs-org",
+      "title": "Next.js 6 and Nextjs.org",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/next-6",
+      "file_path": "web-development/nextjs/next-js-6-and-nextjs-org.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-6-1",
+      "title": "Next.js 6.1",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/next-6-1",
+      "file_path": "web-development/nextjs/next-js-6-1.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-7",
+      "title": "Next.js 7",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/next-7",
+      "file_path": "web-development/nextjs/next-js-7.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-8",
+      "title": "Next.js 8",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/next-8",
+      "file_path": "web-development/nextjs/next-js-8.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-8-webpack-memory-improvements",
+      "title": "Next.js 8 Webpack Memory Improvements",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/webpack-memory",
+      "file_path": "web-development/nextjs/next-js-8-webpack-memory-improvements.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:styling-next-js-with-styled-jsx",
+      "title": "Styling Next.js with Styled JSX",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/styling-next-with-styled-jsx",
+      "file_path": "web-development/nextjs/styling-next-js-with-styled-jsx.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 6,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:particlemedia/ragtruth",
+      "title": "ParticleMedia/RAGTruth",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/particlemedia/ragtruth",
+      "file_path": "ai/rag/particlemedia-ragtruth.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1038,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/facebook",
+      "title": "facebook/MusicGen",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/facebook",
+      "file_path": "ai/models/huggingface-spaces-facebook.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/ap123",
+      "title": "AP123/IllusionDiffusion",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/ap123",
+      "file_path": "ai/models/huggingface-spaces-ap123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/dalle-mini",
+      "title": "dalle-mini/dalle-mini",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/dalle-mini",
+      "file_path": "ai/models/huggingface-spaces-dalle-mini.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/mteb",
+      "title": "mteb/leaderboard",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/mteb",
+      "file_path": "ai/models/huggingface-spaces-mteb.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/black-forest-labs",
+      "title": "black-forest-labs/FLUX.1-dev",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/black-forest-labs",
+      "file_path": "ai/models/huggingface-spaces-black-forest-labs.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/kwai-kolors",
+      "title": "Kwai-Kolors/Kolors-Virtual-Try-On",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/kwai-kolors",
+      "file_path": "ai/models/huggingface-spaces-kwai-kolors.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/jbilcke-hf",
+      "title": "jbilcke-hf/ai-comic-factory",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/jbilcke-hf",
+      "file_path": "ai/models/huggingface-spaces-jbilcke-hf.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/open-llm-leaderboard",
+      "title": "open-llm-leaderboard/open_llm_leaderboard",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/open-llm-leaderboard",
+      "file_path": "ai/models/huggingface-spaces-open-llm-leaderboard.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:spaces/enzostvs",
+      "title": "enzostvs/deepsite",
+      "category": "ai/models",
+      "source_type": "huggingface_space",
+      "url": "https://huggingface.co/spaces/enzostvs",
+      "file_path": "ai/models/huggingface-spaces-enzostvs.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 227,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "hackernews:sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI Progress in Mathematics",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "file_path": "ai/community/sharing-ai-progress-in-mathematics.md",
+      "score": 233,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:erdosproblems-com-succumbs-to-the-ai-onslaught",
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://erdosproblems.com/forum/thread/blog:9",
+      "file_path": "ai/community/erdosproblems-com-succumbs-to-the-ai-onslaught.md",
+      "score": 86,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:openai/math",
+      "title": "OpenAI just dropped 700 preprints of mathematical proofs and counterexamples",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/openai/math",
+      "file_path": "ai/community/openai-math.md",
+      "score": 23,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:llms-may-have-helped-my-rsi",
+      "title": "LLMs may have helped my RSI",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "file_path": "ai/community/llms-may-have-helped-my-rsi.md",
+      "score": 21,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:penguin-mail-open-source-rust-email-client-for-lin",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://penguin-mail.com",
+      "file_path": "ai/community/penguin-mail-open-source-rust-email-client-for-lin.md",
+      "score": 21,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:ask-hn-are-there-ai-models-for-generating-sounds-b",
+      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=49972125",
+      "file_path": "ai/community/ask-hn-are-there-ai-models-for-generating-sounds-b.md",
+      "score": 14,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:oct-6-2026announcementsexpanding-the-cyber-verific",
+      "title": "Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/cyber-verification-program",
+      "file_path": "ai/companies/anthropic/oct-6-2026announcementsexpanding-the-cyber-verific.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:next-js-16-4",
+      "title": "Next.js 16.4",
+      "category": "web-development/nextjs",
+      "source_type": "rss",
+      "url": "https://nextjs.org/blog/next-16-4",
+      "file_path": "web-development/nextjs/next-js-16-4.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    }
+  ],
+  "recently_inactive_resources": [
+    {
+      "id": "hackernews:jetbrains-reported-a-net-financial-loss-first-time",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://helgilibrary.com/companies/jetbrains",
+      "file_path": "ai/community/jetbrains-reported-a-net-financial-loss-first-time.md"
+    },
     {
       "id": "hackernews:opus-5-5-agents-discover-two-room-temperature-magn",
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "file_path": "ai/community/opus-5-5-agents-discover-two-room-temperature-magn.md",
-      "score": 455,
-      "score_change": 86,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
+      "file_path": "ai/community/opus-5-5-agents-discover-two-room-temperature-magn.md"
     },
     {
       "id": "hackernews:dust-pretraining-transformers-without-backpropagat",
@@ -34,552 +393,9 @@
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://qlabs.sh/research/dust",
-      "file_path": "ai/community/dust-pretraining-transformers-without-backpropagat.md",
-      "score": 255,
-      "score_change": 46,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1051,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:deckardger/tanstack-agent-skills",
-      "title": "DeckardGer/tanstack-agent-skills",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/deckardger/tanstack-agent-skills",
-      "file_path": "ai/rag/deckardger-tanstack-agent-skills.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-=======
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:kylestratis/ai_agents_mcp_examples",
-      "title": "kylestratis/ai_agents_mcp_examples",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/kylestratis/ai_agents_mcp_examples",
-      "file_path": "ai/agents/kylestratis-ai-agents-mcp-examples.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:wenyuchiou/awesome-agentic-ai-zh",
-      "title": "WenyuChiou/awesome-agentic-ai-zh",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/wenyuchiou/awesome-agentic-ai-zh",
-      "file_path": "ai/rag/wenyuchiou-awesome-agentic-ai-zh.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-=======
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:pguso/ai-agents-from-scratch",
-      "title": "pguso/ai-agents-from-scratch",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/pguso/ai-agents-from-scratch",
-      "file_path": "ai/agents/pguso-ai-agents-from-scratch.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:vstorm-co/full-stack-ai-agent-template",
-      "title": "vstorm-co/full-stack-ai-agent-template",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
-      "file_path": "ai/rag/vstorm-co-full-stack-ai-agent-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-=======
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:techwithtim/langflow-rag-tutorial",
-      "title": "techwithtim/Langflow-RAG-Tutorial",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/techwithtim/langflow-rag-tutorial",
-      "file_path": "ai/rag/techwithtim-langflow-rag-tutorial.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-=======
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials",
-      "title": "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials",
-      "file_path": "ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-=======
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-=======
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 17,
-      "new_resource": false,
-      "tier": "tier-3"
+      "file_path": "ai/community/dust-pretraining-transformers-without-backpropagat.md"
     }
   ],
-  "fastest_rising_tools": [
-    {
->>>>>>> Stashed changes
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1022,
-=======
-      "rank_change": 1051,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2609.32411",
-      "title": "AECSF: Adaptive Ensemble Conditional Score Filtering for High-Dimensional Nonlinear Data Assimilation",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2609.32411",
-      "file_path": "ai/research/arxiv-2609-32411.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1022,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
-      "title": "Medium Privacy Policy | by Medium | Medium Policy",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
-      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 9281,
-=======
-      "id": "blog:applied-ai",
-      "title": "Applied AI",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/applied-ai",
-      "file_path": "ai/companies/openai/applied-ai.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 996,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:microsoft/rag-time",
-      "title": "microsoft/rag-time",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/microsoft/rag-time",
-      "file_path": "ai/rag/microsoft-rag-time.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "blog:ai-adoption",
-      "title": "AI Adoption",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/ai-adoption",
-      "file_path": "ai/companies/openai/ai-adoption.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 996,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2608.02392",
-      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2608.02392",
-      "file_path": "ai/research/arxiv-2608-02392.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "blog:global-affairs",
-      "title": "Global Affairs",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/global-affairs",
-      "file_path": "ai/companies/openai/global-affairs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 996,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2608.02046",
-      "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
-      "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2608.02046",
-      "file_path": "ai/rag/arxiv-2608-02046.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "blog:intelligence-age",
-      "title": "Intelligence Age",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/intelligence-age",
-      "file_path": "ai/companies/openai/intelligence-age.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 996,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2608.01791",
-      "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
-      "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2608.01791",
-      "file_path": "ai/rag/arxiv-2608-01791.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "blog:engineering",
-      "title": "Engineering",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/engineering",
-      "file_path": "ai/companies/openai/engineering.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 996,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2608.01207",
-      "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
-      "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2608.01207",
-      "file_path": "ai/rag/arxiv-2608-01207.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "huggingface:blog/how-to-train",
-      "title": "How to train a new language model from scratch using Transformers and Tokenizers",
-      "category": "ai/models",
-      "source_type": "huggingface",
-      "url": "https://huggingface.co/blog/how-to-train",
-      "file_path": "ai/models/huggingface-blog-how-to-train.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 41,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2606.23462",
-      "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.23462",
-      "file_path": "ai/research/arxiv-2606-23462.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "huggingface:blog/how-to-generate",
-      "title": "How to generate text: using different decoding methods for language generation with Transformers",
-      "category": "ai/models",
-      "source_type": "huggingface",
-      "url": "https://huggingface.co/blog/how-to-generate",
-      "file_path": "ai/models/huggingface-blog-how-to-generate.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 41,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2606.22216",
-      "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.22216",
-      "file_path": "ai/research/arxiv-2606-22216.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "huggingface:blog/reformer",
-      "title": "The Reformer - Pushing the limits of language modeling",
-      "category": "ai/models",
-      "source_type": "huggingface",
-      "url": "https://huggingface.co/blog/reformer",
-      "file_path": "ai/models/huggingface-blog-reformer.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 41,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "arxiv:2606.09123",
-      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.09123",
-      "file_path": "ai/research/arxiv-2606-09123.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2605.27882",
-      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2605.27882",
-      "file_path": "ai/agents/arxiv-2605-27882.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1025,
-=======
-      "id": "huggingface:blog/pytorch_block_sparse",
-      "title": "Block Sparse Matrices for Smaller and Faster Language Models",
-      "category": "ai/models",
-      "source_type": "huggingface",
-      "url": "https://huggingface.co/blog/pytorch_block_sparse",
-      "file_path": "ai/models/huggingface-blog-pytorch-block-sparse.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 41,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-<<<<<<< Updated upstream
-      "id": "blog:langchain-ai-langgraph",
-      "title": "langchain-ai/langgraph",
-      "category": "Agent Framework",
-      "source_type": "",
-      "url": "",
-      "file_path": "docs/sample-digest.md",
-=======
-      "id": "hackernews:jetbrains-reported-a-net-financial-loss-first-time",
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://helgilibrary.com/companies/jetbrains",
-      "file_path": "ai/community/jetbrains-reported-a-net-financial-loss-first-time.md",
-      "score": 528,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:fesens/opentpu",
-      "title": "AI is now capable of developing its own inference hardware",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/fesens/opentpu",
-      "file_path": "ai/community/fesens-opentpu.md",
-      "score": 128,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:researchintroducing-mistral-large-4october-6-2026b",
-      "title": "ResearchIntroducing Mistral Large 4October 6, 2026By Mistral",
-      "category": "ai/companies/mistral",
-      "source_type": "company_blog",
-      "url": "https://mistral.ai/news/mistral-large-4",
-      "file_path": "ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md",
->>>>>>> Stashed changes
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    }
-  ],
-<<<<<<< Updated upstream
-  "recently_inactive_resources": [],
-=======
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:an-algorithmic-failure-beneath-the-secret-ballot",
-      "title": "An algorithmic failure beneath the secret ballot",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot",
-      "file_path": "ai/community/an-algorithmic-failure-beneath-the-secret-ballot.md"
-    },
-    {
-      "id": "hackernews:using-a-i-and-machine-learning-to-decode-communica",
-      "title": "Using A.I. and machine learning to decode communication of sperm whales",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "file_path": "ai/community/using-a-i-and-machine-learning-to-decode-communica.md"
-    }
-  ],
->>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }

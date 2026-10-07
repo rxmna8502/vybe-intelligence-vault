@@ -30614,7 +30614,6 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
@@ -30636,6 +30635,7 @@ Resources organized by publisher feed and query sources.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
+  - [Oct 6, 2026AnnouncementsExpanding the Cyber Verification Program](../ai/companies/anthropic/oct-6-2026announcementsexpanding-the-cyber-verific.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
@@ -31541,10 +31541,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI is now capable of developing its own inference hardware](../ai/community/fesens-opentpu.md)
-  - [Dust: Pretraining Transformers Without Backpropagation](../ai/community/dust-pretraining-transformers-without-backpropagat.md)
-  - [JetBrains reported a net financial loss first time in its tracked history](../ai/community/jetbrains-reported-a-net-financial-loss-first-time.md)
-  - [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](../ai/community/opus-5-5-agents-discover-two-room-temperature-magn.md)
+  - [Ask HN: Are there AI models for generating sounds based on a text and reference?](../ai/community/ask-hn-are-there-ai-models-for-generating-sounds-b.md)
+  - [Erdosproblems.com Succumbs to the AI Onslaught](../ai/community/erdosproblems-com-succumbs-to-the-ai-onslaught.md)
+  - [LLMs may have helped my RSI](../ai/community/llms-may-have-helped-my-rsi.md)
+  - [OpenAI just dropped 700 preprints of mathematical proofs and counterexamples](../ai/community/openai-math.md)
+  - [OpenTPU – An open-source AI accelerator, developed by AI](../ai/community/fesens-opentpu.md)
+  - [Penguin Mail – open-source Rust email client for Linux with AI](../ai/community/penguin-mail-open-source-rust-email-client-for-lin.md)
+  - [Sharing AI Progress in Mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -32589,6 +32592,7 @@ Resources organized by publisher feed and query sources.
   - [Next.js 16.3](../ai/agents/next-js-16-3.md)
   - [Next.js 16.3: AI Improvements](../ai/agents/next-js-16-3-ai-improvements.md)
   - [Next.js 16.3: Instant Navigations](../web-development/nextjs/next-js-16-3-instant-navigations.md)
+  - [Next.js 16.4](../web-development/nextjs/next-js-16-4.md)
   - [Next.js 5.1: Faster Page Resolution, Environment Config & More](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md)
   - [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md)
   - [Next.js 6 and Nextjs.org](../web-development/nextjs/next-js-6-and-nextjs-org.md)
@@ -35425,4 +35429,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-07T00:17:09.829074+05:30*
+*Index generated on 2026-10-07T05:42:55.867746+05:30*
