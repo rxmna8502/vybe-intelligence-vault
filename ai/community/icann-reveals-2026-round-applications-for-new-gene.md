@@ -13,13 +13,14 @@ collected_at: '2026-10-08T02:55:21.015739+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:icann-reveals-2026-round-applications-for-new-gene
 first_seen: '2026-10-08T02:55:21.015739+05:30'
 last_seen: '2026-10-08T02:55:21.015739+05:30'
 last_checked: '2026-10-08T02:55:21.015739+05:30'
 health_score: 100
 ---
+
 
 # ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains
 

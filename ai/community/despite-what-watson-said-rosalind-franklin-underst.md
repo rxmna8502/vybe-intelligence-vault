@@ -13,13 +13,14 @@ collected_at: '2026-10-08T02:55:17.471520+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:despite-what-watson-said-rosalind-franklin-underst
 first_seen: '2026-10-08T02:55:17.471520+05:30'
 last_seen: '2026-10-08T02:55:17.471520+05:30'
 last_checked: '2026-10-08T02:55:17.471520+05:30'
 health_score: 100
 ---
+
 
 # Despite what Watson said, Rosalind Franklin understood structure of DNA first
 

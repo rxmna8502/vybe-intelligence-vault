@@ -13,13 +13,14 @@ collected_at: '2026-10-08T02:55:20.718313+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:queuingtheorydotcom/11squaresformalized
 first_seen: '2026-10-07T21:09:15.801380+05:30'
 last_seen: '2026-10-08T02:55:20.718313+05:30'
 last_checked: '2026-10-08T02:55:20.718313+05:30'
 health_score: 100
 ---
+
 
 # AI-assisted proof of optimal packing for 11 squares
 

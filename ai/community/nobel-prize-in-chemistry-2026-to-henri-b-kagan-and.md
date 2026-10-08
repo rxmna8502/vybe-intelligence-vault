@@ -13,13 +13,14 @@ collected_at: '2026-10-08T02:55:19.412441+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nobel-prize-in-chemistry-2026-to-henri-b-kagan-and
 first_seen: '2026-10-07T21:09:15.542303+05:30'
 last_seen: '2026-10-08T02:55:19.412441+05:30'
 last_checked: '2026-10-08T02:55:19.412441+05:30'
 health_score: 100
 ---
+
 
 # Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai
 

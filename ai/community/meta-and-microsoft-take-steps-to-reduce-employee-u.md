@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:meta-and-microsoft-take-steps-to-reduce-employee-u
 first_seen: '2026-10-08T02:55:18.234681+05:30'
 last_seen: '2026-10-08T02:55:18.234681+05:30'
 last_checked: '2026-10-08T02:55:18.234681+05:30'
 health_score: 100
 ---
+
 
 # Meta and Microsoft take steps to reduce employee usage of Claude AI
 

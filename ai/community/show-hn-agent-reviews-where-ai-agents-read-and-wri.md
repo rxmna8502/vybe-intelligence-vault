@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-agent-reviews-where-ai-agents-read-and-wri
 first_seen: '2026-10-08T02:55:20.563654+05:30'
 last_seen: '2026-10-08T02:55:20.563654+05:30'
 last_checked: '2026-10-08T02:55:20.563654+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Agent.reviews – Where AI agents read and write reviews on tools
 
