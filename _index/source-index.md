@@ -31802,8 +31802,6 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
-  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
   - [CompanyCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataSeptember 10, 2026By Mistral](../ai/companies/mistral/companycloudera-and-mistral-partner-to-bring-speci.md)
   - [CompanyHallo, Deutschland!Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest EconomySeptember 28, 2026By Mistral](../ai/companies/mistral/companyhallo-deutschland-mistral-opens-german-hub.md)
@@ -31822,7 +31820,9 @@ Resources organized by publisher feed and query sources.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
+  - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
+  - [Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
@@ -32729,10 +32729,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Claude Haiku 5.5](../ai/community/claude-haiku-5-5.md)
-  - [OpenAI Withdraws 3 Math Papers](../ai/community/openai-math.md)
-  - [Sharing AI progress in mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
-  - [Time Travel in Braid (2015)](../ai/community/time-travel-in-braid-2015.md)
+  - [AI-ready biological data: $1.8B global commitment](../ai/community/ai-ready-biological-data-1-8b-global-commitment.md)
+  - [OpenAI annualised revenues $20B less than previously signalled](../ai/community/openai-annualised-revenues-20b-less-than-previousl.md)
+  - [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](../ai/community/thesnarkitecht-rembrandt.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -33826,6 +33825,7 @@ Resources organized by publisher feed and query sources.
   - [Turbopack: What's New in Next.js 16.2](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)
   - [Turbopack: What's New in Next.js 16.3](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md)
   - [Upcoming Next.js August Security Release](../web-development/nextjs/upcoming-next-js-august-security-release.md)
+  - [Upcoming Next.js Security Update for Upstream Vulnerabilities](../web-development/nextjs/upcoming-next-js-security-update-for-upstream-vuln.md)
   - [Upcoming Next.js September Security Release](../web-development/nextjs/upcoming-next-js-september-security-release.md)
   - [Update: August Next.js Security Release](../web-development/nextjs/update-august-next-js-security-release.md)
 
@@ -36614,4 +36614,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-08T21:32:36.529949+05:30*
+*Index generated on 2026-10-09T03:13:49.212509+05:30*

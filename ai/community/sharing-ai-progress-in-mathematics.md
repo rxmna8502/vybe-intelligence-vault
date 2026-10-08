@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:sharing-ai-progress-in-mathematics
 first_seen: '2026-10-07T05:26:27.018876+05:30'
 last_seen: '2026-10-08T21:16:01.960841+05:30'
 last_checked: '2026-10-08T21:16:01.960841+05:30'
 health_score: 100
 ---
+
 
 # Sharing AI progress in mathematics
 

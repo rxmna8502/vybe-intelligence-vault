@@ -4,14 +4,9 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-<<<<<<< Updated upstream
-| `Agent Framework/` | 1 |
-| `ai/agents/` | 5481 |
-| `ai/community/` | 6 |
-| `ai/rag/` | 10974 |
-=======
+| `Tooling/` | 1 |
 | `ai/agents/` | 5547 |
-| `ai/community/` | 6 |
+| `ai/community/` | 5 |
 | `ai/companies/` | 10 |
 | `ai/companies/anthropic/` | 10 |
 | `ai/companies/deepmind/` | 5 |
@@ -19,22 +14,20 @@ Below is the file distribution across the vault categories.
 | `ai/companies/openai/` | 5 |
 | `ai/models/` | 816 |
 | `ai/rag/` | 11004 |
->>>>>>> Stashed changes
 | `ai/releases/` | 1 |
 | `ai/research/` | 17386 |
 | `ai/resources/` | 1537 |
 | `ai/trending/` | 5 |
-| `web-development/` | 39 |
+| `web-development/` | 40 |
 | `web-development/framer-motion/` | 3 |
 | `web-development/gsap/` | 3 |
-| `web-development/nextjs/` | 9 |
+| `web-development/nextjs/` | 80 |
 | `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
 | `web-development/tailwind/` | 3 |
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
-| `world/public/vault/daily-digests/2026-10-08/` | 1 |
 
 ## Categories Needing More Coverage
 

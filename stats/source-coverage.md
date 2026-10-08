@@ -5,32 +5,31 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 31844 |
-<<<<<<< Updated upstream
-| github | 1017 |
-=======
 | github | 1018 |
 | huggingface | 927 |
-| nextjs.org | 81 |
->>>>>>> Stashed changes
+| nextjs.org | 82 |
 | semanticscholar.org | 70 |
 | youtube | 66 |
 | support.google.com | 59 |
-| huggingface | 25 |
+| react.dev | 25 |
 | developers.google.com | 23 |
 | apple.com | 22 |
-| react.dev | 22 |
 | doi.org | 20 |
 | developer.chrome.com | 20 |
 | cloud.google.com | 19 |
 | developer.android.com | 17 |
 | web.dev | 16 |
+| microsoft.com | 15 |
+| openai.com | 15 |
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
-| openai.com | 11 |
+| anthropic.com | 12 |
 | developer.mozilla.org | 11 |
+| mistral.ai | 10 |
+| deepmind.google | 10 |
 | code.visualstudio.com | 10 |
 | sbert.net | 10 |
 | atlassian.com | 10 |
@@ -65,9 +64,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | github.blog | 5 |
 | w3c.github.io | 5 |
 | nodejs.org | 5 |
-| microsoft.com | 5 |
 | datacamp.com | 5 |
-| deepmind.google | 5 |
 | neo4j.com | 5 |
 | docs.aws.amazon.com | 5 |
 | collabnix.com | 5 |
@@ -113,7 +110,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | education.gainsight.com | 4 |
 | tech.cornell.edu | 4 |
 | csrc.nist.gov | 4 |
-| anthropic.com | 3 |
 | analyticsvidhya.com | 3 |
 | policies.google.com | 3 |
 | source.android.com | 3 |
@@ -170,7 +166,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-| nextjs.org | 3 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -308,7 +303,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| qntm.org | 1 |
+| cnbc.com | 1 |
+| biohub.org | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

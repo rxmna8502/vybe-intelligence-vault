@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:claude-haiku-5-5
 first_seen: '2026-10-08T02:55:16.559671+05:30'
 last_seen: '2026-10-08T21:15:59.972132+05:30'
 last_checked: '2026-10-08T21:15:59.972132+05:30'
 health_score: 100
 ---
+
 
 # Claude Haiku 5.5
 
