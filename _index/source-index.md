@@ -31802,7 +31802,6 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
   - [Aug 27, 2026AnnouncementsPreviewing the Model Hardware Standard](../ai/companies/anthropic/aug-27-2026announcementspreviewing-the-model-hardw.md)
   - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
@@ -31823,6 +31822,7 @@ Resources organized by publisher feed and query sources.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
+  - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
@@ -32729,10 +32729,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A new write and space optimized storage engine for MySQL is here](../ai/community/a-new-write-and-space-optimized-storage-engine-for.md)
   - [Claude Haiku 5.5](../ai/community/claude-haiku-5-5.md)
+  - [OpenAI Withdraws 3 Math Papers](../ai/community/openai-math.md)
   - [Sharing AI progress in mathematics](../ai/community/sharing-ai-progress-in-mathematics.md)
-  - [Terence Tao Responds to the OpenAI Math Drop](../ai/community/terence-tao-responds-to-the-openai-math-drop.md)
+  - [Time Travel in Braid (2015)](../ai/community/time-travel-in-braid-2015.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -33138,6 +33138,7 @@ Resources organized by publisher feed and query sources.
   - [Introducing DOI: the Digital Object Identifier to Datasets and Models](../ai/models/huggingface-blog-introducing-doi.md)
   - [Introducing Daggr: Chain apps programmatically, inspect visually](../ai/models/huggingface-blog-daggr.md)
   - [Introducing Decision Transformers on Hugging Face 🤗](../ai/models/huggingface-blog-decision-transformers.md)
+  - [Introducing Falcon ASR](../ai/models/huggingface-blog-tiiuae-falcon-asr.md)
   - [Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](../ai/models/huggingface-blog-tiiuae-falcon-h1-arabic.md)
   - [Introducing Gradio's new Dataframe!](../ai/models/huggingface-blog-gradio-dataframe-upgrade.md)
   - [Introducing HELMET: Holistically Evaluating Long-context Language Models](../ai/models/huggingface-blog-helmet.md)
@@ -33611,13 +33612,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: huggingface_dataset)
 
+  - [BuLei/imgbed](../ai/models/huggingface-datasets-bulei.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
-  - [nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](../ai/models/huggingface-datasets-nvidia.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
@@ -36613,4 +36614,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-08T12:06:00.025515+05:30*
+*Index generated on 2026-10-08T21:32:36.529949+05:30*

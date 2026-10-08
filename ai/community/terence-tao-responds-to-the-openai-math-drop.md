@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:terence-tao-responds-to-the-openai-math-drop
 first_seen: '2026-10-08T11:46:38.048711+05:30'
 last_seen: '2026-10-08T11:46:38.048711+05:30'
 last_checked: '2026-10-08T11:46:38.048711+05:30'
 health_score: 100
 ---
+
 
 # Terence Tao Responds to the OpenAI Math Drop
 

@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "generated_at": "2026-10-08T21:45:19.660523+05:30",
   "trending_resources": [
     {
@@ -8,6 +9,307 @@
       "source_type": "arxiv",
       "url": "https://arxiv.org/abs/2610.06401",
       "file_path": "ai/agents/arxiv-2610-06401.md",
+=======
+  "generated_at": "2026-10-08T21:37:14.116675+05:30",
+  "trending_resources": [
+    {
+      "id": "hackernews:claude-haiku-5-5",
+      "title": "Claude Haiku 5.5",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://anthropic.com/claude-haiku-5-5",
+      "file_path": "ai/community/claude-haiku-5-5.md",
+      "score": 979,
+      "score_change": 180,
+      "rank_change": 0,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:sharing-ai-progress-in-mathematics",
+      "title": "Sharing AI progress in mathematics",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "file_path": "ai/community/sharing-ai-progress-in-mathematics.md",
+      "score": 1304,
+      "score_change": 36,
+      "rank_change": 0,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:yzfly/awesome-voice-agents",
+      "title": "yzfly/awesome-voice-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/yzfly/awesome-voice-agents",
+      "file_path": "ai/agents/yzfly-awesome-voice-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2230,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ashishpatel26/500-ai-agents-projects",
+      "title": "ashishpatel26/500-AI-Agents-Projects",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/ashishpatel26/500-ai-agents-projects",
+      "file_path": "ai/agents/ashishpatel26-500-ai-agents-projects.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 11699,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ghuntley/how-to-build-a-coding-agent",
+      "title": "ghuntley/how-to-build-a-coding-agent",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/ghuntley/how-to-build-a-coding-agent",
+      "file_path": "ai/agents/ghuntley-how-to-build-a-coding-agent.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 4613,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:nirdiamant/genai_agents",
+      "title": "NirDiamant/GenAI_Agents",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/nirdiamant/genai_agents",
+      "file_path": "ai/rag/nirdiamant-genai-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2862,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:azure/genaiops-project-template",
+      "title": "Azure/GenAIOps-project-template",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/azure/genaiops-project-template",
+      "file_path": "ai/rag/azure-genaiops-project-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 3232,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:vstorm-co/full-stack-ai-agent-template",
+      "title": "vstorm-co/full-stack-ai-agent-template",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
+      "file_path": "ai/rag/vstorm-co-full-stack-ai-agent-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2237,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:techwithtim/langflow-rag-tutorial",
+      "title": "techwithtim/Langflow-RAG-Tutorial",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/techwithtim/langflow-rag-tutorial",
+      "file_path": "ai/rag/techwithtim-langflow-rag-tutorial.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2237,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:vivy-yi/rag-tutorial",
+      "title": "vivy-yi/rag-tutorial",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/vivy-yi/rag-tutorial",
+      "file_path": "ai/rag/vivy-yi-rag-tutorial.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2225,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:ashishpatel26/500-ai-agents-projects",
+      "title": "ashishpatel26/500-AI-Agents-Projects",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/ashishpatel26/500-ai-agents-projects",
+      "file_path": "ai/agents/ashishpatel26-500-ai-agents-projects.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 11699,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ghuntley/how-to-build-a-coding-agent",
+      "title": "ghuntley/how-to-build-a-coding-agent",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/ghuntley/how-to-build-a-coding-agent",
+      "file_path": "ai/agents/ghuntley-how-to-build-a-coding-agent.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 4613,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:azure/genaiops-project-template",
+      "title": "Azure/GenAIOps-project-template",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/azure/genaiops-project-template",
+      "file_path": "ai/rag/azure-genaiops-project-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 3232,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:nirdiamant/genai_agents",
+      "title": "NirDiamant/GenAI_Agents",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/nirdiamant/genai_agents",
+      "file_path": "ai/rag/nirdiamant-genai-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2862,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:vstorm-co/full-stack-ai-agent-template",
+      "title": "vstorm-co/full-stack-ai-agent-template",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/vstorm-co/full-stack-ai-agent-template",
+      "file_path": "ai/rag/vstorm-co-full-stack-ai-agent-template.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2237,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:techwithtim/langflow-rag-tutorial",
+      "title": "techwithtim/Langflow-RAG-Tutorial",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/techwithtim/langflow-rag-tutorial",
+      "file_path": "ai/rag/techwithtim-langflow-rag-tutorial.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2237,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials",
+      "title": "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials",
+      "file_path": "ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2236,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:yzfly/awesome-voice-agents",
+      "title": "yzfly/awesome-voice-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/yzfly/awesome-voice-agents",
+      "file_path": "ai/agents/yzfly-awesome-voice-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2230,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:vivy-yi/rag-tutorial",
+      "title": "vivy-yi/rag-tutorial",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/vivy-yi/rag-tutorial",
+      "file_path": "ai/rag/vivy-yi-rag-tutorial.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2225,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:krishnaik06/rag-tutorials",
+      "title": "krishnaik06/RAG-Tutorials",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/krishnaik06/rag-tutorials",
+      "file_path": "ai/rag/krishnaik06-rag-tutorials.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 2223,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "github:openai/math",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/openai/math",
+      "file_path": "ai/community/openai-math.md",
+      "score": 304,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:time-travel-in-braid-2015",
+      "title": "Time Travel in Braid (2015)",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://qntm.org/braid",
+      "file_path": "ai/community/time-travel-in-braid-2015.md",
+      "score": 52,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:oct-8-2026announcementsbuilding-on-our-commitment",
+      "title": "Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/genesis-mission-commitment",
+      "file_path": "ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md",
+>>>>>>> Stashed changes
       "score": 0,
       "score_change": 0,
       "rank_change": 38,
@@ -15,12 +317,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2610.05441",
-      "title": "The sublevel Flood bifiltration: towards scalable 2-parameter persistent homology",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2610.05441",
-      "file_path": "ai/research/arxiv-2610-05441.md",
+      "id": "huggingface:datasets/bulei",
+      "title": "BuLei/imgbed",
+      "category": "ai/models",
+      "source_type": "huggingface_dataset",
+      "url": "https://huggingface.co/datasets/bulei",
+      "file_path": "ai/models/huggingface-datasets-bulei.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 38,
@@ -28,6 +330,7 @@
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2610.04238",
       "title": "Humanoid Rickshaw Pulling: Whole-Body Locomotion under Coupled Wheeled Loads",
       "category": "ai/research",
@@ -272,6 +575,14 @@
       "source_type": "",
       "url": "",
       "file_path": "docs/sample-digest.md",
+=======
+      "id": "huggingface:blog/tiiuae/falcon-asr",
+      "title": "Introducing Falcon ASR",
+      "category": "ai/models",
+      "source_type": "huggingface",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "file_path": "ai/models/huggingface-blog-tiiuae-falcon-asr.md",
+>>>>>>> Stashed changes
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -279,7 +590,28 @@
       "tier": "tier-3"
     }
   ],
+<<<<<<< Updated upstream
   "recently_inactive_resources": [],
+=======
+  "recently_inactive_resources": [
+    {
+      "id": "hackernews:terence-tao-responds-to-the-openai-math-drop",
+      "title": "Terence Tao Responds to the OpenAI Math Drop",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "file_path": "ai/community/terence-tao-responds-to-the-openai-math-drop.md"
+    },
+    {
+      "id": "hackernews:a-new-write-and-space-optimized-storage-engine-for",
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql",
+      "file_path": "ai/community/a-new-write-and-space-optimized-storage-engine-for.md"
+    }
+  ],
+>>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }

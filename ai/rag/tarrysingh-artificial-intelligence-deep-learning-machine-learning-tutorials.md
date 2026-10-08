@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
-collected_at: '2026-10-05T22:46:46.308189+05:30'
-published_at: '2026-10-01T22:56:50Z'
+collected_at: '2026-10-08T21:17:06.463902+05:30'
+published_at: '2026-10-07T03:23:12Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 4012
+stars: 4011
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2017-07-13T19:46:01Z'
 pushed_at: '2026-10-01T22:56:41Z'
 resource_id: github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials
-first_seen: '2026-10-05T22:46:46.308189+05:30'
-last_seen: '2026-10-05T22:46:46.308189+05:30'
-last_checked: '2026-10-05T22:46:46.308189+05:30'
+first_seen: '2026-10-08T21:17:06.463902+05:30'
+last_seen: '2026-10-08T21:17:06.463902+05:30'
+last_checked: '2026-10-08T21:17:06.463902+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-*   Provides hands-on AI/ML/DL courses deployable across Jupyter-compatible environments (Colab, Kaggle, Binder, Codespaces) with integrated autograding.
-*   Covers advanced AI applications including predictive maintenance, document AI (extraction, retrieval, RAG), AI agents (MCP), and simulated humanoid robotics.
-*   Focuses on practical implementation for EU AI Act conformity evidence, model validation, and comprehensive model risk management.
+*   Provides autograded, interactive AI/ML courses deployable across cloud-native (Colab, Kaggle, Codespaces, Binder) and local Jupyter environments.
+*   Covers applied AI domains including predictive maintenance, document AI (extraction, retrieval, RAG
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TarrySingh
-- Stars: 4012
-- Forks: 1623
+- Stars: 4011
+- Forks: 1622
 - Language: Python
 - Topics: ai-agents, ai-governance, artificial-intelligence, autograding, deep-learning, document-ai, eu-ai-act, google-colab, humanoid-robotics, jupyter-notebook, machine-learning, mlops, model-risk-management, mujoco, online-course, predictive-maintenance, python, rag, responsible-ai, synapsa
-- Last Updated: 2026-10-01T22:56:50Z
+- Last Updated: 2026-10-07T03:23:12Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2017-07-13T19:46:01Z

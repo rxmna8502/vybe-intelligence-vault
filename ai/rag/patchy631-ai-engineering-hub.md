@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-10-07T21:10:51.702655+05:30'
-published_at: '2026-10-07T15:29:02Z'
+collected_at: '2026-10-08T21:17:01.395483+05:30'
+published_at: '2026-10-08T15:13:25Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-stars: 38249
+stars: 38254
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-09-10T21:32:11Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-10-07T21:10:51.702655+05:30'
-last_seen: '2026-10-07T21:10:51.702655+05:30'
-last_checked: '2026-10-07T21:10:51.702655+05:30'
+first_seen: '2026-10-08T21:17:01.395483+05:30'
+last_seen: '2026-10-08T21:17:01.395483+05:30'
+last_checked: '2026-10-08T21:17:01.395483+05:30'
 health_score: 100
 ---
 
@@ -29,7 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Provides in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation
+*   Provides in-depth tutorials on Large Language Models (LLMs) and Retrieval-Aug
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 38249
-- Forks: 6288
+- Stars: 38254
+- Forks: 6291
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-10-07T15:29:02Z
+- Last Updated: 2026-10-08T15:13:25Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

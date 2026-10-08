@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa/) (Tier: `useful` | [`Local File`](../../ai/rag/vespa-engine-vespa.md))
 
 ---
-*Last updated: 2026-10-08 12:09 IST*
+*Last updated: 2026-10-08 21:35 IST*

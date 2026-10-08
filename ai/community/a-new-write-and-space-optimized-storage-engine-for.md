@@ -13,13 +13,14 @@ collected_at: '2026-10-08T11:46:41.410804+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:a-new-write-and-space-optimized-storage-engine-for
 first_seen: '2026-10-08T11:46:41.410804+05:30'
 last_seen: '2026-10-08T11:46:41.410804+05:30'
 last_checked: '2026-10-08T11:46:41.410804+05:30'
 health_score: 100
 ---
+
 
 # A new write and space optimized storage engine for MySQL is here
 
