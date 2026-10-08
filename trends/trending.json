@@ -1,296 +1,6 @@
 {
-  "generated_at": "2026-10-08T12:10:32.226108+05:30",
+  "generated_at": "2026-10-08T21:45:19.660523+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:claude-haiku-5-5",
-      "title": "Claude Haiku 5.5",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://anthropic.com/claude-haiku-5-5",
-      "file_path": "ai/community/claude-haiku-5-5.md",
-      "score": 799,
-      "score_change": 323,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:sharing-ai-progress-in-mathematics",
-      "title": "Sharing AI progress in mathematics",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "file_path": "ai/community/sharing-ai-progress-in-mathematics.md",
-      "score": 1268,
-      "score_change": 65,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 8,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 8,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:computer-vision",
-      "title": "Computer vision",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/computer-vision",
-      "file_path": "ai/companies/computer-vision.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:audio-acoustics",
-      "title": "Audio & acoustics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/audio-acoustics",
-      "file_path": "ai/companies/audio-acoustics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:artificial-intelligence",
-      "title": "Artificial intelligence",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research",
-      "file_path": "ai/companies/artificial-intelligence.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 6,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:terence-tao-responds-to-the-openai-math-drop",
-      "title": "Terence Tao Responds to the OpenAI Math Drop",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "file_path": "ai/community/terence-tao-responds-to-the-openai-math-drop.md",
-      "score": 112,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:a-new-write-and-space-optimized-storage-engine-for",
-      "title": "A new write and space optimized storage engine for MySQL is here",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql",
-      "file_path": "ai/community/a-new-write-and-space-optimized-storage-engine-for.md",
-      "score": 54,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2610.06401",
       "title": "RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents",
@@ -300,8 +10,8 @@
       "file_path": "ai/agents/arxiv-2610-06401.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -313,8 +23,8 @@
       "file_path": "ai/research/arxiv-2610-05441.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -326,8 +36,8 @@
       "file_path": "ai/research/arxiv-2610-04238.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +49,8 @@
       "file_path": "ai/research/arxiv-2609-33895.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +62,8 @@
       "file_path": "ai/agents/arxiv-2609-32303.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +75,8 @@
       "file_path": "ai/research/arxiv-2609-30173.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +88,8 @@
       "file_path": "ai/rag/arxiv-2609-10296.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +101,8 @@
       "file_path": "ai/research/arxiv-2609-05263.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +114,8 @@
       "file_path": "ai/research/arxiv-2607-13319.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,43 +127,151 @@
       "file_path": "ai/rag/arxiv-2607-01111.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 38,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+      "title": "Medium Privacy Policy | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 9281,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2606.22108",
-      "title": "Reinforcement Learning-Based Traffic Signal Control for IoT-Enabled Intersections",
+      "id": "github:microsoft/rag-time",
+      "title": "microsoft/rag-time",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/rag-time",
+      "file_path": "ai/rag/microsoft-rag-time.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1025,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02392",
+      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.02392",
+      "file_path": "ai/research/arxiv-2608-02392.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1025,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02046",
+      "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
       "category": "ai/rag",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.22108",
-      "file_path": "ai/rag/arxiv-2606-22108.md",
+      "url": "https://arxiv.org/abs/2608.02046",
+      "file_path": "ai/rag/arxiv-2608-02046.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 1025,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2606.07399",
-      "title": "Are Good Generators Good Decision-Makers? Policy Learning for General Interventions via Retargeted Counterfactual Generation",
-      "category": "ai/research",
+      "id": "arxiv:2608.01791",
+      "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
+      "category": "ai/rag",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.07399",
-      "file_path": "ai/research/arxiv-2606-07399.md",
+      "url": "https://arxiv.org/abs/2608.01791",
+      "file_path": "ai/rag/arxiv-2608-01791.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 1025,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2606.06539",
-      "title": "Synthetic Benchmarks Overstate Forward-Forward Scaling: Real-Data Limits of Layer-Local Training",
+      "id": "arxiv:2608.01207",
+      "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01207",
+      "file_path": "ai/rag/arxiv-2608-01207.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1025,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.23462",
+      "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2606.06539",
-      "file_path": "ai/research/arxiv-2606-06539.md",
+      "url": "https://arxiv.org/abs/2606.23462",
+      "file_path": "ai/research/arxiv-2606-23462.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1025,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.22216",
+      "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.22216",
+      "file_path": "ai/research/arxiv-2606-22216.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1025,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1025,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2605.27882",
+      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2605.27882",
+      "file_path": "ai/agents/arxiv-2605-27882.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1025,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,56 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:nobel-prize-in-chemistry-2026-to-henri-b-kagan-and",
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://nobelprize.org/prizes/chemistry/2026/press-release",
-      "file_path": "ai/community/nobel-prize-in-chemistry-2026-to-henri-b-kagan-and.md"
-    },
-    {
-      "id": "hackernews:meta-and-microsoft-take-steps-to-reduce-employee-u",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-      "file_path": "ai/community/meta-and-microsoft-take-steps-to-reduce-employee-u.md"
-    },
-    {
-      "id": "github:queuingtheorydotcom/11squaresformalized",
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/queuingtheorydotcom/11squaresformalized",
-      "file_path": "ai/community/queuingtheorydotcom-11squaresformalized.md"
-    },
-    {
-      "id": "hackernews:despite-what-watson-said-rosalind-franklin-underst",
-      "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-      "file_path": "ai/community/despite-what-watson-said-rosalind-franklin-underst.md"
-    },
-    {
-      "id": "hackernews:icann-reveals-2026-round-applications-for-new-gene",
-      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
-      "file_path": "ai/community/icann-reveals-2026-round-applications-for-new-gene.md"
-    },
-    {
-      "id": "hackernews:show-hn-agent-reviews-where-ai-agents-read-and-wri",
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://agent.reviews",
-      "file_path": "ai/community/show-hn-agent-reviews-where-ai-agents-read-and-wri.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
