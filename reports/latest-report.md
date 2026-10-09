@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-09T03:17:35.581899+05:30`
+Generated at: `2026-10-09T10:31:40.724491+05:30`
 
 ## Executive Summary
 
@@ -8,38 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **OpenAI annualised revenues $20B less than previously signalled** - Score: `315` in category `ai/community` ([Link](https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html)) ([File](../ai/community/openai-annualised-revenues-20b-less-than-previousl.md))
-- **AI-ready biological data: $1.8B global commitment** - Score: `14` in category `ai/community` ([Link](https://biohub.org/news/virtual-biology-initiative-expansion)) ([File](../ai/community/ai-ready-biological-data-1-8b-global-commitment.md))
-- **Show HN: Free open source Adobe Lightroom alternative, completely local with AI** - Score: `7` in category `ai/community` ([Link](https://github.com/thesnarkitecht/rembrandt)) ([File](../ai/community/thesnarkitecht-rembrandt.md))
-- **Upcoming Next.js Security Update for Upstream Vulnerabilities** - Score: `0` in category `web-development/nextjs` ([Link](https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026)) ([File](../web-development/nextjs/upcoming-next-js-security-update-for-upstream-vuln.md))
-- **Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/anthropic-cyber-mission)) ([File](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md))
-- **Oct 8, 2026Announcements2026 Usage Policy update** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/2026-usage-policy-update)) ([File](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+21` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+22` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/audio-acoustics.md))
-- **Artificial intelligence** - Score: `0` (0), Rank Change: `+22` ([File](../ai/companies/artificial-intelligence.md))
+- **yzfly/awesome-voice-agents** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/agents/yzfly-awesome-voice-agents.md))
+- **ashishpatel26/500-AI-Agents-Projects** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
+- **ghuntley/how-to-build-a-coding-agent** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
+- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/nirdiamant-genai-agents.md))
+- **Azure/GenAIOps-project-template** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/azure-genaiops-project-template.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/pguso-rag-from-scratch.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
-- **The Reformer - Pushing the limits of language modeling** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-reformer.md))
-- **Block Sparse Matrices for Smaller and Faster Language Models** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-pytorch-block-sparse.md))
-- **Transformer-based Encoder-Decoder Models** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-encoder-decoder.md))
-- **Hyperparameter Search with Transformers and Ray Tune** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-ray-tune.md))
-- **Porting fairseq wmt19 translation system to transformers** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-porting-fsmt.md))
-- **Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models** - (Rank Change: `+36`) ([File](../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md))
-- **How we sped up transformer inference 100x for 🤗 API customers** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-accelerated-inference.md))
-- **Fit More and Train Faster With ZeRO via DeepSpeed and FairScale** - (Rank Change: `+36`) ([File](../ai/models/huggingface-blog-zero-deepspeed-fairscale.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9283`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1027`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1027`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1027`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1027`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1027`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1027`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1027`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1027`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1027`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -50,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Sharing AI progress in mathematics** (Category: `ai/community`) ([File](../ai/community/sharing-ai-progress-in-mathematics.md))
-- **Claude Haiku 5.5** (Category: `ai/community`) ([File](../ai/community/claude-haiku-5-5.md))
-- **OpenAI Withdraws 3 Math Papers** (Category: `ai/community`) ([File](../ai/community/openai-math.md))
-- **Time Travel in Braid (2015)** (Category: `ai/community`) ([File](../ai/community/time-travel-in-braid-2015.md))
+No recently active resources transitioned to inactive.
+
