@@ -1,30 +1,19 @@
 ---
-title: basitalisandhu/agentdojo-mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-10
-tech_stack:
-- Python
-- JSON-RPC
-- MCP (Model Context Protocol)
-- AgentDojo
-- YAML
-- CLI
+title: "basitalisandhu/agentdojo-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "JSON-RPC", "MCP (Model Context Protocol)", "AgentDojo", "YAML", "CLI"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- AgentDojo
-- prompt injection
-- benchmarking
-- tool mapping
-source: https://github.com/basitalisandhu/agentdojo-mcp
+deployment_complexity: "Medium"
+tags: ["MCP", "AgentDojo", "prompt injection", "benchmarking", "tool mapping"]
+source: "https://github.com/basitalisandhu/agentdojo-mcp"
 stars: 0
-language: Python
-last_updated: '2026-10-09T11:05:59Z'
-discovered_at: '2026-10-09T12:03:29Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-10-09T11:05:59Z"
+discovered_at: "2026-10-09T12:03:29Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
