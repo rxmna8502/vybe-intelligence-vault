@@ -13,13 +13,14 @@ collected_at: '2026-10-10T20:04:47.564536+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pointing-ai-at-archives-found-a-forgotten-meteorit
 first_seen: '2026-10-10T11:32:34.830378+05:30'
 last_seen: '2026-10-10T20:04:47.564536+05:30'
 last_checked: '2026-10-10T20:04:47.564536+05:30'
 health_score: 100
 ---
+
 
 # Pointing AI at archives found a forgotten meteorite, lost rhinos, and more
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/rociiu/talorys
 hn_url: https://news.ycombinator.com/item?id=50031614
-score: 95
+score: 201
 author: rociiu
-comments_count: 44
+comments_count: 103
 published_at: '2026-10-10T16:22:09+05:30'
-collected_at: '2026-10-10T20:04:44.611670+05:30'
+collected_at: '2026-10-11T01:40:25.992629+05:30'
 tags:
 - agents
 - ai
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:rociiu/talorys
 first_seen: '2026-10-10T20:04:44.611670+05:30'
-last_seen: '2026-10-10T20:04:44.611670+05:30'
-last_checked: '2026-10-10T20:04:44.611670+05:30'
+last_seen: '2026-10-11T01:40:25.992629+05:30'
+last_checked: '2026-10-11T01:40:25.992629+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by rociiu. Score: 95, Comments: 44.
+Hacker News story by rociiu. Score: 201, Comments: 103.
 Original Link: https://github.com/rociiu/talorys
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rociiu
-- Score: 95 Upvotes
-- Comments: 44 Discussions
+- Score: 201 Upvotes
+- Comments: 103 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50031614
 - Original Article: https://github.com/rociiu/talorys
 

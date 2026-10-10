@@ -32729,10 +32729,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](../ai/community/pointing-ai-at-archives-found-a-forgotten-meteorit.md)
+  - [Grieving the loss of details](../ai/community/grieving-the-loss-of-details.md)
+  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
+  - [Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'](../ai/community/nicolas-cage-refused-to-sign-amazon-ai-waiver-i-m.md)
+  - [Nvidia in talks to acquire US 'open' model startup Reflection AI](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md)
+  - [Recent AI models struggled to match a human algorithmic innovation](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md)
   - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
-  - [Typesafe AI raises $870M at $7.5B](../ai/community/typesafe-ai-raises-870m-at-7-5b.md)
-  - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](../ai/community/what-mathematicians-should-know-about-the-lean-the.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -36616,4 +36618,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-10T20:21:21.450143+05:30*
+*Index generated on 2026-10-11T01:56:54.202245+05:30*

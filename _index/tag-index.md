@@ -4701,6 +4701,7 @@ Resources organized by keyword tags.
   - [Musical Agent Systems: MACAT and MACataRT](../ai/agents/arxiv-2502-00023.md)
   - [MutMem-V2: Cryptographically Authorized Mutation in Persistent Agent Memory Portable Verification and Reproducible Evidence](../ai/agents/arxiv-2609-01235.md)
   - [MutMem: Cryptographically Authorized Mutation in Persistent Agent Memory](../ai/rag/arxiv-2608-02843.md)
+  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
   - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](../ai/agents/arxiv-2606-16748.md)
   - [NAQD Env: A benchmark for selective withdrawal in language agents](../ai/agents/arxiv-2609-38460.md)
@@ -8162,10 +8163,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](../ai/community/pointing-ai-at-archives-found-a-forgotten-meteorit.md)
+  - [Grieving the loss of details](../ai/community/grieving-the-loss-of-details.md)
+  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
+  - [Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'](../ai/community/nicolas-cage-refused-to-sign-amazon-ai-waiver-i-m.md)
+  - [Nvidia in talks to acquire US 'open' model startup Reflection AI](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md)
+  - [Recent AI models struggled to match a human algorithmic innovation](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md)
   - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
-  - [Typesafe AI raises $870M at $7.5B](../ai/community/typesafe-ai-raises-870m-at-7-5b.md)
-  - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](../ai/community/what-mathematicians-should-know-about-the-lean-the.md)
 
 ## animation
 
@@ -34571,6 +34574,7 @@ Resources organized by keyword tags.
   - [Green Screen Coalition · GitLab](../ai/rag/green-screen-coalition-gitlab.md)
   - [Green Software Foundation — Building a Sustainable Digital Future](../ai/rag/green-software-foundation-building-a-sustainable-d.md)
   - [Grep, Embeddings, or Both? Building the Retrieval Harness for Enterprise Agents](../ai/rag/grep-embeddings-or-both-building-the-retrieval-har.md)
+  - [Grieving the loss of details](../ai/community/grieving-the-loss-of-details.md)
   - [Gromov-Wasserstein Quantization and Clustering: Structure, Rates, and Algorithms](../ai/research/arxiv-2608-11016.md)
   - [Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs](../ai/rag/arxiv-2608-26069.md)
   - [Grow with Google - Training to Grow Your Business & Career.](../ai/rag/grow-with-google-training-to-grow-your-business-ca.md)
@@ -35303,6 +35307,7 @@ Resources organized by keyword tags.
   - [Multivariate quantile regression via Kolmogorov-Arnold Networks](../ai/research/arxiv-2609-23906.md)
   - [Music-Source-Separation-Training (MSST): A Unified Framework for Training and Evaluating Music Demixing Models](../ai/research/arxiv-2607-23395.md)
   - [Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study](../ai/research/arxiv-2608-20447.md)
+  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [N$^2$: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion](../ai/research/arxiv-2506-04166.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
@@ -35371,6 +35376,7 @@ Resources organized by keyword tags.
   - [News | Android Developers](../ai/resources/news-android-developers.md)
   - [Newton-Schulz Retraction-Based Inference Enables Hidden Quantum Markov Models to Outperform Classical HMMs](../ai/rag/arxiv-2608-06554.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
+  - [Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'](../ai/community/nicolas-cage-refused-to-sign-amazon-ai-waiver-i-m.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
@@ -35395,6 +35401,7 @@ Resources organized by keyword tags.
   - [NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment](../ai/research/arxiv-2609-11234.md)
   - [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](../ai/research/arxiv-2608-04030.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
+  - [Nvidia in talks to acquire US 'open' model startup Reflection AI](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance](../ai/agents/arxiv-2608-04524.md)
   - [OECC2026](../ai/rag/oecc2026.md)
@@ -35596,7 +35603,6 @@ Resources organized by keyword tags.
   - [Plausibility-Driven Prioritization of Candidate Biomedical Annotations](../ai/rag/arxiv-2607-20163.md)
   - [PlayStation Architecture | A Practical Analysis](../ai/rag/playstation-architecture-a-practical-analysis.md)
   - [Playing Games with My Heart: An Evaluation of AI Companion Apps](../ai/rag/arxiv-2605-08093.md)
-  - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](../ai/community/pointing-ai-at-archives-found-a-forgotten-meteorit.md)
   - [Poison to Detect: Detection of Targeted Overfitting in Federated Learning](../ai/research/arxiv-2509-11974.md)
   - [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](../ai/research/poisonedrag-knowledge-corruption-attacks-to-retrie.md)
   - [Poisson-Gamma Dynamical Systems with Time-varying Transition Dynamics](../ai/rag/arxiv-2609-00896.md)
@@ -35828,6 +35834,7 @@ Resources organized by keyword tags.
   - [Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline](../ai/agents/arxiv-2607-22997.md)
   - [Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning](../ai/research/arxiv-2607-19181.md)
   - [RecKAN: Kolmogorov-Arnold Networks with a Learnable Recursive Polynomial Basis](../ai/research/arxiv-2609-01729.md)
+  - [Recent AI models struggled to match a human algorithmic innovation](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md)
   - [Recent Developments in Transformer Inference Deployment on FPGA Platforms: A Survey](../ai/research/arxiv-2609-01212.md)
   - [Recent activity - Stack Overflow for Agents](../ai/agents/recent-activity-stack-overflow-for-agents.md)
   - [Recirculation](../ai/rag/arxiv-2608-17981.md)
@@ -36625,7 +36632,6 @@ Resources organized by keyword tags.
   - [Two-Sample Testing via Generative Processes](../ai/research/arxiv-2610-08277.md)
   - [Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion](../ai/research/arxiv-2411-12965.md)
   - [Type Checking Project Haystack Grids using JSON Schema and Pydantic](../ai/research/arxiv-2606-24891.md)
-  - [Typesafe AI raises $870M at $7.5B](../ai/community/typesafe-ai-raises-870m-at-7-5b.md)
   - [TypiCore: A Hybrid Active Query Strategy for Class-Incremental Learning on Time Series](../ai/research/arxiv-2607-17632.md)
   - [UAX #44: Unicode Character Database](../ai/rag/uax-44-unicode-character-database.md)
   - [UCLA General Catalog](../ai/agents/ucla-general-catalog.md)
@@ -36810,7 +36816,6 @@ Resources organized by keyword tags.
   - [What is Smoothness?](../ai/research/arxiv-2609-03246.md)
   - [What is a Container? | Docker](../ai/rag/what-is-a-container-docker.md)
   - [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md)
-  - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](../ai/community/what-mathematicians-should-know-about-the-lean-the.md)
   - [What resources are needed for optimal learning of bosonic Gaussian states?](../ai/research/arxiv-2603-18136.md)
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
@@ -36964,7 +36969,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -65551,6 +65555,7 @@ Resources organized by keyword tags.
   - [Multi-Granularity Position Embedding of Graphs via Granular-Ball for Link Prediction](../ai/research/arxiv-2607-29115.md)
   - [Multi-agent Autoformalization of Tensor Network Theory](../ai/agents/arxiv-2607-07857.md)
   - [Multimodal Graph Negative Learning](../ai/research/arxiv-2606-12863.md)
+  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
   - [NASA’s Webb Studies How Planet Survived Death of its Star - NASA Science](../ai/resources/nasas-webb-studies-how-planet-survived-death-of-it.md)
@@ -76180,4 +76185,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-10T20:21:21.038414+05:30*
+*Index generated on 2026-10-11T01:56:53.855820+05:30*

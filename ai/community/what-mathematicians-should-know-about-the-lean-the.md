@@ -14,13 +14,14 @@ collected_at: '2026-10-10T20:04:47.875347+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-mathematicians-should-know-about-the-lean-the
 first_seen: '2026-10-10T11:32:36.087954+05:30'
 last_seen: '2026-10-10T20:04:47.875347+05:30'
 last_checked: '2026-10-10T20:04:47.875347+05:30'
 health_score: 100
 ---
+
 
 # What mathematicians should know about the Lean Theorem Prover: reliability & AI
 
