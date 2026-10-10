@@ -14,13 +14,14 @@ collected_at: '2026-10-09T02:57:11.282352+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:thesnarkitecht/rembrandt
 first_seen: '2026-10-09T02:57:11.282352+05:30'
 last_seen: '2026-10-09T02:57:11.282352+05:30'
 last_checked: '2026-10-09T02:57:11.282352+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Free open source Adobe Lightroom alternative, completely local with AI
 

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: world-igr-plum/regions (Likes: 38, Downloads: 1139897)
+Trending Hugging Face dataset: world-igr-plum/regions (Likes: 39, Downloads: 1099303)
 
 ## Use Cases
 

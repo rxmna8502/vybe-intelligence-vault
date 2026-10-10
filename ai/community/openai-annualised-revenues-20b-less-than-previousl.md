@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-annualised-revenues-20b-less-than-previousl
 first_seen: '2026-10-09T02:57:11.538032+05:30'
 last_seen: '2026-10-09T02:57:11.538032+05:30'
 last_checked: '2026-10-09T02:57:11.538032+05:30'
 health_score: 100
 ---
+
 
 # OpenAI annualised revenues $20B less than previously signalled
 

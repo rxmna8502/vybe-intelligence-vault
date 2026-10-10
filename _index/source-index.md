@@ -32729,9 +32729,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI-ready biological data: $1.8B global commitment](../ai/community/ai-ready-biological-data-1-8b-global-commitment.md)
-  - [OpenAI annualised revenues $20B less than previously signalled](../ai/community/openai-annualised-revenues-20b-less-than-previousl.md)
-  - [Show HN: Free open source Adobe Lightroom alternative, completely local with AI](../ai/community/thesnarkitecht-rembrandt.md)
+  - [Anthropic AI model submits false tip on unsolved Philly murder](../ai/community/anthropic-ai-model-submits-false-tip-on-unsolved-p.md)
+  - [If AI is conscient, then we are making slaves](../ai/community/if-ai-is-conscient-then-we-are-making-slaves.md)
+  - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](../ai/community/pointing-ai-at-archives-found-a-forgotten-meteorit.md)
+  - [Typesafe AI raises $870M at $7.5B](../ai/community/typesafe-ai-raises-870m-at-7-5b.md)
+  - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](../ai/community/what-mathematicians-should-know-about-the-lean-the.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -33115,6 +33117,7 @@ Resources organized by publisher feed and query sources.
   - [Image Classification with AutoTrain](../ai/models/huggingface-blog-autotrain-image-classification.md)
   - [Image Similarity with Hugging Face Datasets and Transformers](../ai/models/huggingface-blog-image-similarity.md)
   - [Image search with 🤗 datasets](../ai/models/huggingface-blog-image-search-datasets.md)
+  - [Impactful scheduling for GPU clusters](../ai/models/huggingface-blog-allenai-impactful-scheduling.md)
   - [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](../ai/models/huggingface-blog-gradio-vton-mcp.md)
   - [Improving Hugging Face Model Access for Kaggle Users](../ai/models/huggingface-blog-kaggle-integration.md)
   - [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](../ai/models/huggingface-blog-packing-with-fa2.md)
@@ -33316,7 +33319,6 @@ Resources organized by publisher feed and query sources.
   - [Open-Source Text Generation & LLM Ecosystem at Hugging Face](../ai/models/huggingface-blog-os-llms.md)
   - [Open-source DeepResearch – Freeing our search agents](../ai/agents/huggingface-blog-open-deep-research.md)
   - [Open-source LLMs as LangChain Agents](../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
-  - [Open-sourcing AstaBrief, the fast report-generation model in Asta](../ai/models/huggingface-blog-allenai-astabrief.md)
   - [Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny](../ai/models/huggingface-blog-sd-distillation.md)
   - [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](../ai/agents/huggingface-blog-openenv-turing.md)
   - [OpenRAIL: Towards open and responsible AI licensing frameworks](../ai/models/huggingface-blog-open-rail.md)
@@ -33479,6 +33481,7 @@ Resources organized by publisher feed and query sources.
   - [The State of Computer Vision at Hugging Face 🤗](../ai/models/huggingface-blog-cv-state.md)
   - [The Technology Behind BLOOM Training](../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
   - [The Transformers Library: standardizing model definitions](../ai/models/huggingface-blog-transformers-model-definition.md)
+  - [The model that didn't exist, so you made it yourself](../ai/models/huggingface-blog-building-with-ml-intern.md)
   - [Thinking of ACE? We Can Do It with Fewer Tokens](../ai/models/huggingface-blog-ibm-research-altk-evolve-sldd.md)
   - [Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](../ai/models/huggingface-blog-infrastructure-alerting.md)
   - [TimeScope: How Long Can Your Video Large Multimodal Model Go?](../ai/models/huggingface-blog-timescope-video-lmm-benchmark.md)
@@ -33617,7 +33620,7 @@ Resources organized by publisher feed and query sources.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
-  - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
+  - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
@@ -36614,4 +36617,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-09T03:13:49.212509+05:30*
+*Index generated on 2026-10-10T11:48:51.794250+05:30*

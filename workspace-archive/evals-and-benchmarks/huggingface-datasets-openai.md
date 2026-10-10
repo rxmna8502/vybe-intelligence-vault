@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: openai/gsm8k (Likes: 1782, Downloads: 1214681)
+Trending Hugging Face dataset: openai/gsm8k (Likes: 1955, Downloads: 1035426)
 
 ## Use Cases
 
