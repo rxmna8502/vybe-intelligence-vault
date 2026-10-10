@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://typesafe.ai/blog/series-ai
 hn_url: https://news.ycombinator.com/item?id=50023450
-score: 328
+score: 404
 author: tosh
-comments_count: 237
+comments_count: 319
 published_at: '2026-10-09T22:32:31+05:30'
-collected_at: '2026-10-10T11:32:34.282547+05:30'
+collected_at: '2026-10-10T20:04:47.255530+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:typesafe-ai-raises-870m-at-7-5b
 first_seen: '2026-10-10T11:32:34.282547+05:30'
-last_seen: '2026-10-10T11:32:34.282547+05:30'
-last_checked: '2026-10-10T11:32:34.282547+05:30'
+last_seen: '2026-10-10T20:04:47.255530+05:30'
+last_checked: '2026-10-10T20:04:47.255530+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by tosh. Score: 328, Comments: 237.
+Hacker News story by tosh. Score: 404, Comments: 319.
 Original Link: https://typesafe.ai/blog/series-ai
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: tosh
-- Score: 328 Upvotes
-- Comments: 237 Discussions
+- Score: 404 Upvotes
+- Comments: 319 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50023450
 - Original Article: https://typesafe.ai/blog/series-ai
 

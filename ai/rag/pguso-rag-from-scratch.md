@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-10-08T21:17:06.459189+05:30'
-published_at: '2026-10-07T22:17:50Z'
+collected_at: '2026-10-10T20:05:50.358822+05:30'
+published_at: '2026-10-09T05:14:26Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-10-08T21:17:06.459189+05:30'
-last_seen: '2026-10-08T21:17:06.459189+05:30'
-last_checked: '2026-10-08T21:17:06.459189+05:30'
+first_seen: '2026-10-10T20:05:50.358822+05:30'
+last_seen: '2026-10-10T20:05:50.358822+05:30'
+last_checked: '2026-10-10T20:05:50.358822+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,7 @@ health_score: 100
 
 ## Summary
 
-*   Implements a complete Retrieval-Augmented Generation (RAG) pipeline from scratch, emphasizing foundational understanding over abstraction.
-*   Covers core RAG technical components: embedding generation, vector search, document retrieval, and context-augmented generation.
-*   Utilizes local LLMs via `node-llama-cpp` within a `nodejs` environment to enable transparent, black-box-free RAG system development.
+*   Provides a from-scratch implementation of a RAG pipeline, detailing the mechanics of embeddings
 
 ## Why It Matters
 
@@ -47,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 198
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-10-07T22:17:50Z
+- Last Updated: 2026-10-09T05:14:26Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

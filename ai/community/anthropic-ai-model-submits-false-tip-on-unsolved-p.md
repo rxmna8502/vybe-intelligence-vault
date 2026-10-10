@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-ai-model-submits-false-tip-on-unsolved-p
 first_seen: '2026-10-10T11:32:35.678379+05:30'
 last_seen: '2026-10-10T11:32:35.678379+05:30'
 last_checked: '2026-10-10T11:32:35.678379+05:30'
 health_score: 100
 ---
+
 
 # Anthropic AI model submits false tip on unsolved Philly murder
 

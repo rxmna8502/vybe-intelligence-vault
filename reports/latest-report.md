@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-10T16:59:57.437022+05:30`
+Generated at: `2026-10-10T20:26:00.995820+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Talorys – A self-hosted personal AI agent on Cloudflare's free tier** - Score: `95` in category `ai/community` ([Link](https://github.com/rociiu/talorys)) ([File](../ai/community/rociiu-talorys.md))
 
 ## Top Trending Resources
 
-- **yzfly/awesome-voice-agents** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/yzfly-awesome-voice-agents.md))
-- **ashishpatel26/500-AI-Agents-Projects** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
-- **ghuntley/how-to-build-a-coding-agent** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **Azure/GenAIOps-project-template** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/azure-genaiops-project-template.md))
-- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **Typesafe AI raises $870M at $7.5B** - Score: `404` (+76), Rank Change: `0` ([File](../ai/community/typesafe-ai-raises-870m-at-7-5b.md))
+- **What mathematicians should know about the Lean Theorem Prover: reliability & AI** - Score: `151` (+75), Rank Change: `+1` ([File](../ai/community/what-mathematicians-should-know-about-the-lean-the.md))
+- **Pointing AI at archives found a forgotten meteorite, lost rhinos, and more** - Score: `166` (+35), Rank Change: `+1` ([File](../ai/community/pointing-ai-at-archives-found-a-forgotten-meteorit.md))
+- **Polymarket/agents** - Score: `0` (0), Rank Change: `+1495` ([File](../ai/rag/polymarket-agents.md))
+- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+1492` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
+- **daveshap/OpenAI_Agent_Swarm** - Score: `0` (0), Rank Change: `+1494` ([File](../ai/rag/daveshap-openai-agent-swarm.md))
+- **cmAIdx/headless-claude-automation-template** - Score: `0` (0), Rank Change: `+4096` ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
+- **daimon111/daimon-template** - Score: `0` (0), Rank Change: `+2862` ([File](../ai/agents/daimon111-daimon-template.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+2242` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/rag/pguso-rag-from-scratch.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9284`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1028`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1028`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **cmAIdx/headless-claude-automation-template** - (Rank Change: `+4096`) ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
+- **daimon111/daimon-template** - (Rank Change: `+2862`) ([File](../ai/agents/daimon111-daimon-template.md))
+- **enescingoz/awesome-n8n-templates** - (Rank Change: `+2242`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **Polymarket/agents** - (Rank Change: `+1495`) ([File](../ai/rag/polymarket-agents.md))
+- **daveshap/OpenAI_Agent_Swarm** - (Rank Change: `+1494`) ([File](../ai/rag/daveshap-openai-agent-swarm.md))
+- **PrimeIntellect-ai/prime-agent** - (Rank Change: `+1492`) ([File](../ai/agents/primeintellect-ai-prime-agent.md))
+- **datawhalechina/hello-agents** - (Rank Change: `+1484`) ([File](../ai/rag/datawhalechina-hello-agents.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1484`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **pixegami/rag-tutorial-v2** - (Rank Change: `+1036`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **pguso/rag-from-scratch** - (Rank Change: `+1034`) ([File](../ai/rag/pguso-rag-from-scratch.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Anthropic AI model submits false tip on unsolved Philly murder** (Category: `ai/community`) ([File](../ai/community/anthropic-ai-model-submits-false-tip-on-unsolved-p.md))
+- **If AI is conscient, then we are making slaves** (Category: `ai/community`) ([File](../ai/community/if-ai-is-conscient-then-we-are-making-slaves.md))

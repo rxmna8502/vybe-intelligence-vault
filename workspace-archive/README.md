@@ -10,9 +10,9 @@ This repository consolidates raw web findings into premium structured Markdown f
 
 | Metric | Value |
 |--------|-------|
-| 📦 **Total Curated Resources** | **144188** |
+| 📦 **Total Curated Resources** | **144181** |
 | 🗂️ **Thematic Categories** | **24** |
-| 🕒 **Last Synchronized** | **2026-10-10 11:51 IST** |
+| 🕒 **Last Synchronized** | **2026-10-10 20:24 IST** |
 
 ---
 
@@ -43,22 +43,22 @@ Explore our specialized landing files for essential reference stacks:
 
 | Category Name | Directory | Resources | Core Focus |
 |---------------|-----------|-----------|------------|
-| [Agent Frameworks](./agent-frameworks/README.md) | `agent-frameworks/` | 6049 | Frameworks and examples for tool calling, agent orchestration, and multi-agent systems. |
+| [Agent Frameworks](./agent-frameworks/README.md) | `agent-frameworks/` | 6051 | Frameworks and examples for tool calling, agent orchestration, and multi-agent systems. |
 | [Agent Instructions](./agent-instructions/README.md) | `agent-instructions/` | 16 | Repository instruction files and coding-agent rule formats such as AGENTS.md, CLAUDE.md, cursor rules, and copilot instructions. |
 | [AI Browser and Computer Use](./ai-browser-computer-use/README.md) | `ai-browser-computer-use/` | 6874 | Browser agents, computer-use agents, Playwright automation, Selenium automation, web navigation agents, and UI automation. |
 | [AI Coding Agents](./ai-coding-agents/README.md) | `ai-coding-agents/` | 5944 | Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development. |
 | [AI Tools and Products](./ai-tools-products/README.md) | `ai-tools-products/` | 194 | AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling. |
-| [Automation Workflows](./automation-workflows/README.md) | `automation-workflows/` | 2296 | Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows. |
-| [Datasets](./datasets/README.md) | `datasets/` | 21570 | AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools. |
-| [Evals and Benchmarks](./evals-and-benchmarks/README.md) | `evals-and-benchmarks/` | 31730 | Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks. |
+| [Automation Workflows](./automation-workflows/README.md) | `automation-workflows/` | 2294 | Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows. |
+| [Datasets](./datasets/README.md) | `datasets/` | 21571 | AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools. |
+| [Evals and Benchmarks](./evals-and-benchmarks/README.md) | `evals-and-benchmarks/` | 31725 | Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks. |
 | [Frontend AI UI](./frontend-ai-ui/README.md) | `frontend-ai-ui/` | 245 | AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems. |
 | [Guardrails and Security](./guardrails-security/README.md) | `guardrails-security/` | 17741 | Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings. |
-| [Inference and Local LLM](./inference-local-llm/README.md) | `inference-local-llm/` | 1625 | Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio. |
+| [Inference and Local LLM](./inference-local-llm/README.md) | `inference-local-llm/` | 1624 | Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio. |
 | [Jobs and Market](./jobs-market/README.md) | `jobs-market/` | 15 | AI job descriptions, skill frequency, salary signals, role requirements, hiring trends, and portfolio requirements. |
 | [Learning Paths](./learning-paths/README.md) | `learning-paths/` | 139 | Roadmaps and project-based learning paths for AI engineering, RAG, agents, frontend, 3D web, and automation. |
 | [LLM App Templates](./llm-app-templates/README.md) | `llm-app-templates/` | 409 | Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates. |
 | [MCP Registry](./mcp-registry/README.md) | `mcp-registry/` | 327 | Public MCP server registries, MCP server metadata, MCP tool directories, and MCP integration guidance. |
-| [Model Providers](./model-providers/README.md) | `model-providers/` | 3189 | Public metadata and documentation links for model APIs and provider ecosystems. |
+| [Model Providers](./model-providers/README.md) | `model-providers/` | 3187 | Public metadata and documentation links for model APIs and provider ecosystems. |
 | [Observability](./observability/README.md) | `observability/` | 1706 | LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring. |
 | [Project Ideas](./project-ideas/README.md) | `project-ideas/` | 114 | Project ideas for AI apps, RAG systems, agents, automations, 3D web experiences, and full-stack AI products. |
 | [Prompt Libraries](./prompt-libraries/README.md) | `prompt-libraries/` | 262 | System prompts, agent prompts, coding prompts, prompt templates, role prompts, and prompt engineering examples. |
@@ -109,4 +109,4 @@ Original authors, source URLs, and licensing terms (where available) are preserv
 ---
 *Generated by [Local AI + Extreme Web Development Knowledge Harvester](https://github.com/sairaman436/vybe-intelligence-engine)*
 
-*Last updated: 2026-10-10 11:51 IST*
+*Last updated: 2026-10-10 20:24 IST*

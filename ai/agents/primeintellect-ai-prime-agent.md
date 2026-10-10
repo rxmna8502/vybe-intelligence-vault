@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PrimeIntellect-ai/prime-agent
-collected_at: '2026-10-07T21:14:11.920890+05:30'
-published_at: '2026-10-07T15:36:01Z'
+collected_at: '2026-10-10T20:09:05.618852+05:30'
+published_at: '2026-10-10T14:20:32Z'
 tags:
 - agents
 - github-repo
 - rust
 - workflows
-stars: 21594
+stars: 21798
 language: Rust
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2026-05-08T01:42:41Z'
-pushed_at: '2026-10-07T15:17:44Z'
+pushed_at: '2026-10-10T14:25:11Z'
 resource_id: github:primeintellect-ai/prime-agent
-first_seen: '2026-10-07T21:14:11.920890+05:30'
-last_seen: '2026-10-07T21:14:11.920890+05:30'
-last_checked: '2026-10-07T21:14:11.920890+05:30'
+first_seen: '2026-10-10T20:09:05.618852+05:30'
+last_seen: '2026-10-10T20:09:05.618852+05:30'
+last_checked: '2026-10-10T20:09:05.618852+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ health_score: 100
 
 *   Implements a self-improving RLM agent architecture.
 *   Targets autonomous execution of coding workflows and long-duration tasks.
-*   Developed in Rust, emphasizing performance and system-level reliability.
+*   Developed in Rust, emphasizing systems-level performance and safety.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PrimeIntellect-ai
-- Stars: 21594
-- Forks: 2380
+- Stars: 21798
+- Forks: 2398
 - Language: Rust
 - Topics: None
-- Last Updated: 2026-10-07T15:36:01Z
+- Last Updated: 2026-10-10T14:20:32Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-05-08T01:42:41Z
-- Pushed At: 2026-10-07T15:17:44Z
+- Pushed At: 2026-10-10T14:25:11Z
 
 ## Possible Use Cases
 

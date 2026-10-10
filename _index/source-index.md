@@ -32729,9 +32729,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic AI model submits false tip on unsolved Philly murder](../ai/community/anthropic-ai-model-submits-false-tip-on-unsolved-p.md)
-  - [If AI is conscient, then we are making slaves](../ai/community/if-ai-is-conscient-then-we-are-making-slaves.md)
   - [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](../ai/community/pointing-ai-at-archives-found-a-forgotten-meteorit.md)
+  - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
   - [Typesafe AI raises $870M at $7.5B](../ai/community/typesafe-ai-raises-870m-at-7-5b.md)
   - [What mathematicians should know about the Lean Theorem Prover: reliability & AI](../ai/community/what-mathematicians-should-know-about-the-lean-the.md)
 
@@ -36617,4 +36616,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-10T11:48:51.794250+05:30*
+*Index generated on 2026-10-10T20:21:21.450143+05:30*

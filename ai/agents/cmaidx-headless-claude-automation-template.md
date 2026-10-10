@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cmAIdx/headless-claude-automation-template
-collected_at: '2026-10-01T21:08:21.412127+05:30'
+collected_at: '2026-10-10T20:09:00.558118+05:30'
 published_at: '2026-09-16T14:40:06Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - scripts
 - shell
-- workflows
 stars: 15
 language: Shell
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-28T19:33:02Z'
 pushed_at: '2026-03-02T03:11:44Z'
 resource_id: github:cmaidx/headless-claude-automation-template
-first_seen: '2026-10-01T21:08:21.412127+05:30'
-last_seen: '2026-10-01T21:08:21.412127+05:30'
-last_checked: '2026-10-01T21:08:21.412127+05:30'
+first_seen: '2026-10-10T20:09:00.558118+05:30'
+last_seen: '2026-10-10T20:09:00.558118+05:30'
+last_checked: '2026-10-10T20:09:00.558118+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,8 @@ health_score: 100
 
 ## Summary
 
-*   Provides a reusable template for autonomous software delivery, translating requirements documents into GitHub pull requests.
-*   Orchestrates headless Claude AI agents for end-to-end code generation and project management.
-*   Integrates CI/CD via GitHub Actions, supporting multi-agent workflows for continuous automation.
+*   Automates autonomous software delivery via headless Claude AI agents.
+*   Facilitates
 
 ## Why It Matters
 

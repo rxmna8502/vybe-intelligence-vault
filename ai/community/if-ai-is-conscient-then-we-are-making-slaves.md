@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:if-ai-is-conscient-then-we-are-making-slaves
 first_seen: '2026-10-10T11:32:33.685920+05:30'
 last_seen: '2026-10-10T11:32:33.685920+05:30'
 last_checked: '2026-10-10T11:32:33.685920+05:30'
 health_score: 100
 ---
+
 
 # If AI is conscient, then we are making slaves
 
