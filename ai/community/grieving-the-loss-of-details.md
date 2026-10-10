@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://purplesyringa.moe/blog/grieving-the-loss-of-details
 hn_url: https://news.ycombinator.com/item?id=49980880
-score: 233
+score: 320
 author: signa11
-comments_count: 172
+comments_count: 259
 published_at: '2026-10-06T22:07:21+05:30'
-collected_at: '2026-10-11T01:40:26.562250+05:30'
+collected_at: '2026-10-11T05:11:10.608880+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:grieving-the-loss-of-details
 first_seen: '2026-10-11T01:40:26.562250+05:30'
-last_seen: '2026-10-11T01:40:26.562250+05:30'
-last_checked: '2026-10-11T01:40:26.562250+05:30'
+last_seen: '2026-10-11T05:11:10.608880+05:30'
+last_checked: '2026-10-11T05:11:10.608880+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by signa11. Score: 233, Comments: 172.
+Hacker News story by signa11. Score: 320, Comments: 259.
 Original Link: https://purplesyringa.moe/blog/grieving-the-loss-of-details/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: signa11
-- Score: 233 Upvotes
-- Comments: 172 Discussions
+- Score: 320 Upvotes
+- Comments: 259 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49980880
 - Original Article: https://purplesyringa.moe/blog/grieving-the-loss-of-details
 

@@ -306,8 +306,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | purplesyringa.moe | 1 |
 | blogs.windows.com | 1 |
 | ft.com | 1 |
+| news.vt.edu | 1 |
 | epoch.ai | 1 |
-| variety.com | 1 |
+| cockroachlabs.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

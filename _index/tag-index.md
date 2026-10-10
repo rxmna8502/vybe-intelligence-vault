@@ -2904,6 +2904,7 @@ Resources organized by keyword tags.
   - [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](../ai/rag/arxiv-2608-07437.md)
   - [FitText: Evolving Agent Tool Ecologies via Memetic Retrieval](../ai/agents/arxiv-2605-02411.md)
   - [Five Primitives for Governing Autonomous AI Agents at Runtime](../ai/agents/arxiv-2608-26696.md)
+  - [Five months treating bugs like patients and coding agents like a medical team](../ai/community/five-months-treating-bugs-like-patients-and-coding.md)
   - [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](../ai/agents/arxiv-2609-19124.md)
   - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](../ai/agents/arxiv-2608-12932.md)
   - [FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications](../ai/agents/arxiv-2607-18171.md)
@@ -8163,9 +8164,9 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Food processing influences metabolism and brain activity](../ai/community/food-processing-influences-metabolism-and-brain-ac.md)
   - [Grieving the loss of details](../ai/community/grieving-the-loss-of-details.md)
   - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
-  - [Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'](../ai/community/nicolas-cage-refused-to-sign-amazon-ai-waiver-i-m.md)
   - [Nvidia in talks to acquire US 'open' model startup Reflection AI](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md)
   - [Recent AI models struggled to match a human algorithmic innovation](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md)
   - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
@@ -34298,6 +34299,7 @@ Resources organized by keyword tags.
   - [First Proof Second Batch](../ai/research/arxiv-2606-18119.md)
   - [First-Order Modal Logic in HOL: Deep and Shallow Embeddings with Automated Faithfulness (Extended Preprint)](../ai/rag/arxiv-2607-10880.md)
   - [Fitting Horn DL Ontologies to ABox and Query Examples: A Tale of Simulation Quantifiers and Finite Models](../ai/research/arxiv-2604-26976.md)
+  - [Five months treating bugs like patients and coding agents like a medical team](../ai/community/five-months-treating-bugs-like-patients-and-coding.md)
   - [Fixed-Gaussian Spectral Algorithms: Minimax Optimal Rates for Misspecified Learning and Transfer](../ai/research/arxiv-2501-10870.md)
   - [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](../ai/agents/arxiv-2609-19124.md)
   - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](../ai/agents/arxiv-2608-12932.md)
@@ -34309,6 +34311,7 @@ Resources organized by keyword tags.
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
   - [Fold'EM: Direct atomic structure inference from Cryo-EM particles](../ai/research/arxiv-2610-01358.md)
   - [FoldPipe: Bounded Remote Streaming of Native Molecular Shards with Asynchronous Prefetch](../ai/rag/arxiv-2608-27029.md)
+  - [Food processing influences metabolism and brain activity](../ai/community/food-processing-influences-metabolism-and-brain-ac.md)
   - [For What Reason? Interpreting Models' Encoding of Causation and Antithesis](../ai/research/arxiv-2607-18570.md)
   - [Forbes - Apps on Google Play](../ai/resources/forbes-apps-on-google-play.md)
   - [Forbes Technology Council | Community for Technology Executives](../ai/resources/forbes-technology-council-community-for-technology.md)
@@ -35376,7 +35379,6 @@ Resources organized by keyword tags.
   - [News | Android Developers](../ai/resources/news-android-developers.md)
   - [Newton-Schulz Retraction-Based Inference Enables Hidden Quantum Markov Models to Outperform Classical HMMs](../ai/rag/arxiv-2608-06554.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
-  - [Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'](../ai/community/nicolas-cage-refused-to-sign-amazon-ai-waiver-i-m.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
@@ -76185,4 +76187,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-11T01:56:53.855820+05:30*
+*Index generated on 2026-10-11T05:27:41.905400+05:30*
