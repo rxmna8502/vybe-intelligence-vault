@@ -13,13 +13,14 @@ collected_at: '2026-10-11T11:28:43.073538+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:food-processing-influences-metabolism-and-brain-ac
 first_seen: '2026-10-11T05:11:11.829887+05:30'
 last_seen: '2026-10-11T11:28:43.073538+05:30'
 last_checked: '2026-10-11T11:28:43.073538+05:30'
 health_score: 100
 ---
+
 
 # Food processing influences metabolism and brain activity
 

@@ -31990,6 +31990,7 @@ Resources organized by publisher feed and query sources.
   - [Polymarket/agents](../ai/rag/polymarket-agents.md)
   - [Prat011/awesome-llm-skills](../ai/agents/prat011-awesome-llm-skills.md)
   - [PrimeIntellect-ai/prime-agent](../ai/agents/primeintellect-ai-prime-agent.md)
+  - [ProjectRecon/awesome-ai-agents-security](../ai/agents/projectrecon-awesome-ai-agents-security.md)
   - [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md)
   - [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md)
   - [QwenLM/Qwen3](../ai/resources/qwenlm-qwen3.md)
@@ -32729,12 +32730,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI agents in a stand-up call](../ai/community/ai-agents-in-a-stand-up-call.md)
   - [Five months treating bugs like patients and coding agents like a medical team](../ai/community/five-months-treating-bugs-like-patients-and-coding.md)
-  - [Food processing influences metabolism and brain activity](../ai/community/food-processing-influences-metabolism-and-brain-ac.md)
-  - [Grieving the loss of details](../ai/community/grieving-the-loss-of-details.md)
+  - [I paid people to try and follow my README](../ai/community/i-paid-people-to-try-and-follow-my-readme.md)
+  - [Internal files add to evidence of an ExxonMobil climate deception campaign](../ai/community/internal-files-add-to-evidence-of-an-exxonmobil-cl.md)
   - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
-  - [Nvidia in talks to acquire US 'open' model startup Reflection AI](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md)
+  - [Plumbers, chains, and famous painters: The history of the pipe operator in R](../ai/community/plumbers-chains-and-famous-painters-the-history-of.md)
   - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
 
 ## Unknown Source (type: huggingface)
@@ -33622,10 +33622,10 @@ Resources organized by publisher feed and query sources.
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
+  - [nmasi/era5](../ai/models/huggingface-datasets-nmasi.md)
   - [openai/gsm8k](../ai/models/huggingface-datasets-openai.md)
   - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
-  - [world-igr-plum/regions](../ai/models/huggingface-datasets-world-igr-plum.md)
 
 ## Unknown Source (type: huggingface_model)
 
@@ -36619,4 +36619,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-11T11:45:14.427732+05:30*
+*Index generated on 2026-10-11T20:45:47.127715+05:30*

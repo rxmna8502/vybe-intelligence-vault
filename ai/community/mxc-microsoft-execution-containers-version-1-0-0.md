@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents
 hn_url: https://news.ycombinator.com/item?id=50016956
-score: 176
+score: 211
 author: smokel
-comments_count: 40
+comments_count: 58
 published_at: '2026-10-09T12:22:49+05:30'
-collected_at: '2026-10-11T11:28:42.147579+05:30'
+collected_at: '2026-10-11T20:29:37.594259+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:mxc-microsoft-execution-containers-version-1-0-0
 first_seen: '2026-10-11T01:40:26.213327+05:30'
-last_seen: '2026-10-11T11:28:42.147579+05:30'
-last_checked: '2026-10-11T11:28:42.147579+05:30'
+last_seen: '2026-10-11T20:29:37.594259+05:30'
+last_checked: '2026-10-11T20:29:37.594259+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by smokel. Score: 176, Comments: 40.
+Hacker News story by smokel. Score: 211, Comments: 58.
 Original Link: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: smokel
-- Score: 176 Upvotes
-- Comments: 40 Discussions
+- Score: 211 Upvotes
+- Comments: 58 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50016956
 - Original Article: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents
 

@@ -4,22 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-10-08T21:18:51.523454+05:30'
-published_at: '2026-10-08T07:00:57Z'
+collected_at: '2026-10-11T20:32:17.496739+05:30'
+published_at: '2026-10-11T13:39:59Z'
 tags:
 - agents
 - github-repo
 - go
-stars: 5863
+- hackernews
+- workflows
+stars: 5871
 language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
-pushed_at: '2026-10-02T03:54:34Z'
+pushed_at: '2026-10-10T07:13:31Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-10-08T21:18:51.523454+05:30'
-last_seen: '2026-10-08T21:18:51.523454+05:30'
-last_checked: '2026-10-08T21:18:51.523454+05:30'
+first_seen: '2026-10-11T20:32:17.496739+05:30'
+last_seen: '2026-10-11T20:32:17.496739+05:30'
+last_checked: '2026-10-11T20:32:17.496739+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Go-based workshop repository detailing the practical construction of AI-driven coding agents.
-*   Focuses on implementing agent architectures analogous to Roo code, Cline, Amp, Cursor, Windsurf, and OpenCode.
-*   Provides a structured tutorial for developing autonomous code generation and modification systems.
+*   Go-based workshop for developing AI-driven coding agents, mirroring functionalities of tools like Roo code, Cline, and Cursor.
+*   Provides a practical tutorial framework for constructing custom agents capable of automated code generation and interaction.
+*   Focuses on the technical implementation of AI agents for enhancing software development workflows.
 
 ## Why It Matters
 
@@ -38,14 +40,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ghuntley
-- Stars: 5863
-- Forks: 658
+- Stars: 5871
+- Forks: 661
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
-- Last Updated: 2026-10-08T07:00:57Z
+- Last Updated: 2026-10-11T13:39:59Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
-- Pushed At: 2026-10-02T03:54:34Z
+- Pushed At: 2026-10-10T07:13:31Z
 
 ## Possible Use Cases
 

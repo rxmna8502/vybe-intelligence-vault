@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cockroachlabs.com/blog/experiment-running-hospital-code
 hn_url: https://news.ycombinator.com/item?id=50021899
-score: 102
+score: 172
 author: rafiss
-comments_count: 47
+comments_count: 74
 published_at: '2026-10-09T20:56:33+05:30'
-collected_at: '2026-10-11T11:28:44.556673+05:30'
+collected_at: '2026-10-11T20:29:37.220837+05:30'
 tags:
 - agents
 - hackernews
 status: active
 resource_id: hackernews:five-months-treating-bugs-like-patients-and-coding
 first_seen: '2026-10-11T05:11:09.975267+05:30'
-last_seen: '2026-10-11T11:28:44.556673+05:30'
-last_checked: '2026-10-11T11:28:44.556673+05:30'
+last_seen: '2026-10-11T20:29:37.220837+05:30'
+last_checked: '2026-10-11T20:29:37.220837+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by rafiss. Score: 102, Comments: 47.
+Hacker News story by rafiss. Score: 172, Comments: 74.
 Original Link: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rafiss
-- Score: 102 Upvotes
-- Comments: 47 Discussions
+- Score: 172 Upvotes
+- Comments: 74 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50021899
 - Original Article: https://cockroachlabs.com/blog/experiment-running-hospital-code
 

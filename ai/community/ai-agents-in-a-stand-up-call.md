@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-agents-in-a-stand-up-call
 first_seen: '2026-10-11T11:28:41.123549+05:30'
 last_seen: '2026-10-11T11:28:41.123549+05:30'
 last_checked: '2026-10-11T11:28:41.123549+05:30'
 health_score: 100
 ---
+
 
 # AI agents in a stand-up call
 

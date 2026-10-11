@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-09-28T22:25:09.536870+05:30'
-published_at: '2026-09-26T18:13:52Z'
+collected_at: '2026-10-11T20:33:32.528631+05:30'
+published_at: '2026-10-08T17:06:02Z'
 tags:
 - agents
 - github-repo
 - rag
-- scripts
 - shell
 - workflows
-stars: 560
+stars: 559
 language: Shell
 status: active
 archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-09-25T12:08:32Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-09-28T22:25:09.536870+05:30'
-last_seen: '2026-09-28T22:25:09.536870+05:30'
-last_checked: '2026-09-28T22:25:09.536870+05:30'
+first_seen: '2026-10-11T20:33:32.528631+05:30'
+last_seen: '2026-10-11T20:33:32.528631+05:30'
+last_checked: '2026-10-11T20:33:32.528631+05:30'
 health_score: 100
 ---
 
@@ -30,7 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Autonomous AI agent framework built entirely within n8n, leveraging its workflow automation for
+*   n8n-native autonomous AI agent framework, inspired by OpenClaw, enabling self-hosted deployment.
+*   Implements adaptive RAG-powered memory and integrates skills via Model Context Protocol (MCP) templates.
+*   Features a hierarchical agent architecture with delegated sub-agents, proactive task management, and media understanding capabilities.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: freddy-schuetz
-- Stars: 560
-- Forks: 104
+- Stars: 559
+- Forks: 105
 - Language: Shell
 - Topics: agent, ai, ai-agent, ai-agent-framework, ai-agents, ai-agents-framework, crawl4ai, crawl4ai-scraper, framework, mcp, modelcontextprotocol, n8n, openclaw, searxng, searxng-engine, skills, supabase
-- Last Updated: 2026-09-26T18:13:52Z
+- Last Updated: 2026-10-08T17:06:02Z
 - Archived: No
 - Created At: 2026-02-28T18:13:35Z
 - Pushed At: 2026-09-25T12:08:32Z

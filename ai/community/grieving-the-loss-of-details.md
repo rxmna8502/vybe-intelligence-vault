@@ -13,13 +13,14 @@ collected_at: '2026-10-11T11:28:42.767773+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:grieving-the-loss-of-details
 first_seen: '2026-10-11T01:40:26.562250+05:30'
 last_seen: '2026-10-11T11:28:42.767773+05:30'
 last_checked: '2026-10-11T11:28:42.767773+05:30'
 health_score: 100
 ---
+
 
 # Grieving the loss of details
 
