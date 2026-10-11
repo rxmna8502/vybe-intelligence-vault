@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-11T11:49:49.471934+05:30`
+Generated at: `2026-10-11T17:11:43.348465+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **AI agents in a stand-up call** - Score: `14` in category `ai/community` ([Link](https://atoll92.github.io/agent-standup)) ([File](../ai/community/ai-agents-in-a-stand-up-call.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Five months treating bugs like patients and coding agents like a medical team** - Score: `102` (+78), Rank Change: `+1` ([File](../ai/community/five-months-treating-bugs-like-patients-and-coding.md))
-- **Grieving the loss of details** - Score: `393` (+73), Rank Change: `0` ([File](../ai/community/grieving-the-loss-of-details.md))
-- **Nvidia in talks to acquire US 'open' model startup Reflection AI** - Score: `148` (+46), Rank Change: `0` ([File](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md))
-- **Talorys – A self-hosted personal AI agent on Cloudflare's free tier** - Score: `274` (+44), Rank Change: `0` ([File](../ai/community/rociiu-talorys.md))
-- **Food processing influences metabolism and brain activity** - Score: `129` (+35), Rank Change: `0` ([File](../ai/community/food-processing-influences-metabolism-and-brain-ac.md))
-- **Mxc: Microsoft Execution Containers version 1.0.0** - Score: `176` (+27), Rank Change: `0` ([File](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md))
-- **tonykipkemboi/trip_planner_agent** - Score: `0` (0), Rank Change: `+12175` ([File](../ai/rag/tonykipkemboi-trip-planner-agent.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1023` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+7` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Polymarket/agents** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/polymarket-agents.md))
+- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
+- **daveshap/OpenAI_Agent_Swarm** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/daveshap-openai-agent-swarm.md))
+- **cmAIdx/headless-claude-automation-template** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
+- **daimon111/daimon-template** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/daimon111-daimon-template.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/nirdiamant-rag-techniques.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **tonykipkemboi/trip_planner_agent** - (Rank Change: `+12175`) ([File](../ai/rag/tonykipkemboi-trip-planner-agent.md))
-- **raganwald/raganwald.github.com** - (Rank Change: `+1043`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+1023`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+7`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+7`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - (Rank Change: `+7`) ([File](../ai/rag/react-19-3.md))
-- **Welcome Llama 3 - Meta's new open LLM** - (Rank Change: `+7`) ([File](../ai/models/huggingface-blog-llama3.md))
-- **The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare** - (Rank Change: `+7`) ([File](../ai/models/huggingface-blog-leaderboard-medicalllm.md))
-- **Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent** - (Rank Change: `+7`) ([File](../ai/agents/huggingface-blog-jat.md))
-- **Introducing the Open Chain of Thought Leaderboard** - (Rank Change: `+7`) ([File](../ai/models/huggingface-blog-leaderboard-cot.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9284`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1028`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1028`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Recent AI models struggled to match a human algorithmic innovation** (Category: `ai/community`) ([File](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md))
+No recently active resources transitioned to inactive.
+
