@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-11T05:31:26.425664+05:30`
+Generated at: `2026-10-11T09:45:03.261431+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Food processing influences metabolism and brain activity** - Score: `94` in category `ai/community` ([Link](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)) ([File](../ai/community/food-processing-influences-metabolism-and-brain-ac.md))
-- **Five months treating bugs like patients and coding agents like a medical team** - Score: `24` in category `ai/community` ([Link](https://cockroachlabs.com/blog/experiment-running-hospital-code)) ([File](../ai/community/five-months-treating-bugs-like-patients-and-coding.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Grieving the loss of details** - Score: `320` (+87), Rank Change: `0` ([File](../ai/community/grieving-the-loss-of-details.md))
-- **Nvidia in talks to acquire US 'open' model startup Reflection AI** - Score: `102` (+57), Rank Change: `0` ([File](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md))
-- **Recent AI models struggled to match a human algorithmic innovation** - Score: `66` (+46), Rank Change: `-1` ([File](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md))
-- **Mxc: Microsoft Execution Containers version 1.0.0** - Score: `149` (+31), Rank Change: `0` ([File](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md))
-- **Talorys – A self-hosted personal AI agent on Cloudflare's free tier** - Score: `230` (+29), Rank Change: `0` ([File](../ai/community/rociiu-talorys.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Responsible Scaling Policy** - Score: `0` (0), Rank Change: `+110` ([File](../ai/companies/anthropic/responsible-scaling-policy.md))
-- **Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers** - Score: `0` (0), Rank Change: `+110` ([File](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md))
-- **Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program** - Score: `0` (0), Rank Change: `+110` ([File](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md))
-- **Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation** - Score: `0` (0), Rank Change: `+110` ([File](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Polymarket/agents** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/polymarket-agents.md))
+- **PrimeIntellect-ai/prime-agent** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/primeintellect-ai-prime-agent.md))
+- **daveshap/OpenAI_Agent_Swarm** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/daveshap-openai-agent-swarm.md))
+- **cmAIdx/headless-claude-automation-template** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
+- **daimon111/daimon-template** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/daimon111-daimon-template.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+1043`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Responsible Scaling Policy** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/responsible-scaling-policy.md))
-- **Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md))
-- **Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md))
-- **Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md))
-- **Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md))
-- **Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md))
-- **Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md))
-- **Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md))
-- **Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery** - (Rank Change: `+110`) ([File](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9284`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1028`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1028`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'** (Category: `ai/community`) ([File](../ai/community/nicolas-cage-refused-to-sign-amazon-ai-waiver-i-m.md))
+No recently active resources transitioned to inactive.
+
