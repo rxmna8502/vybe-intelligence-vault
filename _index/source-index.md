@@ -32729,12 +32729,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI agents in a stand-up call](../ai/community/ai-agents-in-a-stand-up-call.md)
   - [Five months treating bugs like patients and coding agents like a medical team](../ai/community/five-months-treating-bugs-like-patients-and-coding.md)
   - [Food processing influences metabolism and brain activity](../ai/community/food-processing-influences-metabolism-and-brain-ac.md)
   - [Grieving the loss of details](../ai/community/grieving-the-loss-of-details.md)
   - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Nvidia in talks to acquire US 'open' model startup Reflection AI](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md)
-  - [Recent AI models struggled to match a human algorithmic innovation](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md)
   - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
 
 ## Unknown Source (type: huggingface)
@@ -36619,4 +36619,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-11T05:27:42.278560+05:30*
+*Index generated on 2026-10-11T11:45:14.427732+05:30*

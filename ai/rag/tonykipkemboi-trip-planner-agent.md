@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tonykipkemboi/trip_planner_agent
-collected_at: '2026-09-03T01:03:01.508637+05:30'
-published_at: '2026-05-18T04:13:15Z'
+collected_at: '2026-10-11T11:33:44.612812+05:30'
+published_at: '2026-10-03T18:52:05Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
 - rag
-- scripts
-- workflows
-stars: 143
+stars: 144
 language: Python
 status: active
 license: MIT
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-01-16T09:09:17Z'
 pushed_at: '2024-06-19T15:04:05Z'
 resource_id: github:tonykipkemboi/trip_planner_agent
-first_seen: '2026-09-03T01:03:01.508637+05:30'
-last_seen: '2026-09-03T01:03:01.508637+05:30'
-last_checked: '2026-09-03T01:03:01.508637+05:30'
+first_seen: '2026-10-11T11:33:44.612812+05:30'
+last_seen: '2026-10-11T11:33:44.612812+05:30'
+last_checked: '2026-10-11T11:33:44.612812+05:30'
 health_score: 100
 ---
 
@@ -32,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **CrewAI Framework Integration**: Implements multi-agent LLM orchestration using CrewAI to automate trip planning workflows.
-- **Python-Based Automation**: Utilizes Python for agent-based trip planning, leveraging LLMs (e.g., OpenAI) for itinerary generation.
-- **Open-Source Toolkit**: Provides an open-source repository with 143 stars and 63 forks, last updated in May 2026.
+*   CrewAI-orchestrated multi-agent system implemented in Python for vacation planning.
+*   Leverages OpenAI LLMs for agentic reasoning and task execution.
+*   Open-source project demonstrating practical application of LLM agents for itinerary generation.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: tonykipkemboi
-- Stars: 143
-- Forks: 63
+- Stars: 144
+- Forks: 62
 - Language: Python
 - Topics: crewai, llm, llms, open-source, openai, python
-- Last Updated: 2026-05-18T04:13:15Z
+- Last Updated: 2026-10-03T18:52:05Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-16T09:09:17Z

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a
 hn_url: https://news.ycombinator.com/item?id=50035886
-score: 102
+score: 148
 author: arkj
-comments_count: 69
+comments_count: 97
 published_at: '2026-10-11T00:18:35+05:30'
-collected_at: '2026-10-11T05:11:10.723714+05:30'
+collected_at: '2026-10-11T11:28:44.238641+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:nvidia-in-talks-to-acquire-us-open-model-startup-r
 first_seen: '2026-10-11T01:40:26.101713+05:30'
-last_seen: '2026-10-11T05:11:10.723714+05:30'
-last_checked: '2026-10-11T05:11:10.723714+05:30'
+last_seen: '2026-10-11T11:28:44.238641+05:30'
+last_checked: '2026-10-11T11:28:44.238641+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by arkj. Score: 102, Comments: 69.
+Hacker News story by arkj. Score: 148, Comments: 97.
 Original Link: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: arkj
-- Score: 102 Upvotes
-- Comments: 69 Discussions
+- Score: 148 Upvotes
+- Comments: 97 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50035886
 - Original Article: https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a
 

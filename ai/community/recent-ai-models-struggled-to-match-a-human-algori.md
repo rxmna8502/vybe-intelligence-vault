@@ -13,13 +13,14 @@ collected_at: '2026-10-11T05:11:10.261357+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:recent-ai-models-struggled-to-match-a-human-algori
 first_seen: '2026-10-11T01:40:26.448790+05:30'
 last_seen: '2026-10-11T05:11:10.261357+05:30'
 last_checked: '2026-10-11T05:11:10.261357+05:30'
 health_score: 100
 ---
+
 
 # Recent AI models struggled to match a human algorithmic innovation
 

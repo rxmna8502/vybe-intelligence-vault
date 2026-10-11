@@ -289,6 +289,7 @@ Resources organized by keyword tags.
   - [AI Virtue: What is "Good" Knowledge in the Age of Artificial Intelligence?](../ai/agents/arxiv-2607-01776.md)
   - [AI YOU Town: Make Friends and Money with Your Digital Twin](../ai/rag/arxiv-2607-10539.md)
   - [AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion](../ai/agents/arxiv-2608-26896.md)
+  - [AI agents in a stand-up call](../ai/community/ai-agents-in-a-stand-up-call.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI as Friction for Reflection Support in Ideation](../ai/agents/arxiv-2607-26827.md)
@@ -8164,11 +8165,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI agents in a stand-up call](../ai/community/ai-agents-in-a-stand-up-call.md)
   - [Food processing influences metabolism and brain activity](../ai/community/food-processing-influences-metabolism-and-brain-ac.md)
   - [Grieving the loss of details](../ai/community/grieving-the-loss-of-details.md)
   - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Nvidia in talks to acquire US 'open' model startup Reflection AI](../ai/community/nvidia-in-talks-to-acquire-us-open-model-startup-r.md)
-  - [Recent AI models struggled to match a human algorithmic innovation](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md)
   - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
 
 ## animation
@@ -23539,7 +23540,6 @@ Resources organized by keyword tags.
   - [llms.txt directory - Find llms.txt files across the web](../ai/rag/llms-txt-directory-find-llms-txt-files-across-the.md)
   - [magicuidesign/portfolio](../web-development/shadcn-ui/magicuidesign-portfolio.md)
   - [mohitvirli/mohitvirli.github.io](../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md)
-  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [web.dev](../ai/resources/web-dev.md)
 
 ## css
@@ -33038,6 +33038,7 @@ Resources organized by keyword tags.
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
+  - [AI agents in a stand-up call](../ai/community/ai-agents-in-a-stand-up-call.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
@@ -35836,7 +35837,6 @@ Resources organized by keyword tags.
   - [Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline](../ai/agents/arxiv-2607-22997.md)
   - [Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning](../ai/research/arxiv-2607-19181.md)
   - [RecKAN: Kolmogorov-Arnold Networks with a Learnable Recursive Polynomial Basis](../ai/research/arxiv-2609-01729.md)
-  - [Recent AI models struggled to match a human algorithmic innovation](../ai/community/recent-ai-models-struggled-to-match-a-human-algori.md)
   - [Recent Developments in Transformer Inference Deployment on FPGA Platforms: A Survey](../ai/research/arxiv-2609-01212.md)
   - [Recent activity - Stack Overflow for Agents](../ai/agents/recent-activity-stack-overflow-for-agents.md)
   - [Recirculation](../ai/rag/arxiv-2608-17981.md)
@@ -67193,7 +67193,6 @@ Resources organized by keyword tags.
   - [tikz pgf - How to offset two bezier paths with specific ratio elegantly? - TeX - LaTeX Stack Exchange](../ai/rag/tikz-pgf-how-to-offset-two-bezier-paths-with-speci.md)
   - [titiler/CONTRIBUTING.md at main · developmentseed/titiler · GitHub](../ai/rag/developmentseed-titiler.md)
   - [tonykipkemboi/crewai-jobs](../ai/agents/tonykipkemboi-crewai-jobs.md)
-  - [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md)
   - [trycua/cua](../ai/agents/trycua-cua.md)
   - [typing/conformance at main · python/typing · GitHub](../ai/resources/python-typing.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
@@ -72793,7 +72792,6 @@ Resources organized by keyword tags.
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
-  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -72823,7 +72821,6 @@ Resources organized by keyword tags.
   - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [temporalio/temporal](../ai/resources/temporalio-temporal.md)
   - [titiler/CONTRIBUTING.md at main · developmentseed/titiler · GitHub](../ai/rag/developmentseed-titiler.md)
-  - [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md)
   - [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md)
   - [trpc-group/trpc-agent-go](../ai/rag/trpc-group-trpc-agent-go.md)
   - [truera/trulens](../ai/agents/truera-trulens.md)
@@ -76187,4 +76184,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-11T05:27:41.905400+05:30*
+*Index generated on 2026-10-11T11:45:14.021470+05:30*
