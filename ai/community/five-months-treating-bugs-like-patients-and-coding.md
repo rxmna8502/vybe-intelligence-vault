@@ -13,13 +13,14 @@ collected_at: '2026-10-11T20:29:37.220837+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:five-months-treating-bugs-like-patients-and-coding
 first_seen: '2026-10-11T05:11:09.975267+05:30'
 last_seen: '2026-10-11T20:29:37.220837+05:30'
 last_checked: '2026-10-11T20:29:37.220837+05:30'
 health_score: 100
 ---
+
 
 # Five months treating bugs like patients and coding agents like a medical team
 

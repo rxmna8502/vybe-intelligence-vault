@@ -32730,12 +32730,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Five months treating bugs like patients and coding agents like a medical team](../ai/community/five-months-treating-bugs-like-patients-and-coding.md)
   - [I paid people to try and follow my README](../ai/community/i-paid-people-to-try-and-follow-my-readme.md)
-  - [Internal files add to evidence of an ExxonMobil climate deception campaign](../ai/community/internal-files-add-to-evidence-of-an-exxonmobil-cl.md)
-  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Plumbers, chains, and famous painters: The history of the pipe operator in R](../ai/community/plumbers-chains-and-famous-painters-the-history-of.md)
-  - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -36619,4 +36615,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-11T20:45:47.127715+05:30*
+*Index generated on 2026-10-12T02:13:02.272409+05:30*

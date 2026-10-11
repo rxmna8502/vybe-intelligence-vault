@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:rociiu/talorys
 first_seen: '2026-10-10T20:04:44.611670+05:30'
 last_seen: '2026-10-11T20:29:37.342400+05:30'
 last_checked: '2026-10-11T20:29:37.342400+05:30'
 health_score: 100
 ---
+
 
 # Talorys – A self-hosted personal AI agent on Cloudflare's free tier
 

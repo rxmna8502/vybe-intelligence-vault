@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:mxc-microsoft-execution-containers-version-1-0-0
 first_seen: '2026-10-11T01:40:26.213327+05:30'
 last_seen: '2026-10-11T20:29:37.594259+05:30'
 last_checked: '2026-10-11T20:29:37.594259+05:30'
 health_score: 100
 ---
+
 
 # Mxc: Microsoft Execution Containers version 1.0.0
 

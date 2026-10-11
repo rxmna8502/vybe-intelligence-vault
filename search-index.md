@@ -26160,7 +26160,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.15193>
 
 * **[Plumbers, chains, and famous painters: The history of the pipe operator in R](ai/community/plumbers-chains-and-famous-painters-the-history-of.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sinnsro. Score: 20, Comments: 2. Original Link: http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/
+  * Summary: Hacker News story by sinnsro. Score: 45, Comments: 2. Original Link: http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r>
 
@@ -46198,11 +46198,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `creative_dev`, `dataset`, `hackernews`, `meta-ai`, `models`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://cloud.google.com/firestore>
 
-* **[Five months treating bugs like patients and coding agents like a medical team](ai/community/five-months-treating-bugs-like-patients-and-coding.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rafiss. Score: 172, Comments: 74. Original Link: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/
-  * Tags: `agents`, `hackernews`
-  * Source URL: <https://cockroachlabs.com/blog/experiment-running-hospital-code>
-
 * **[Flag an app or review on Google Play - Computer - Google Play Help](ai/resources/flag-an-app-or-review-on-google-play-computer-goog.md)** (`tutorial` | `useful` tier)
   * Summary: - **Flagging Mechanism:** Google Play provides a direct reporting system to flag apps, reviews, or developer replies for violations of [Developer Program Policies](https://play.google.com/about/developer-content-policy/), illegal content, or fraudule
   * Tags: `reddit`, `web-crawled`, `workflows`
@@ -47029,7 +47024,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.02954>
 
 * **[I paid people to try and follow my README](ai/community/i-paid-people-to-try-and-follow-my-readme.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by edent. Score: 157, Comments: 90. Original Link: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/
+  * Summary: Hacker News story by edent. Score: 334, Comments: 178. Original Link: https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme>
 
@@ -47152,11 +47147,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.14317v1 Announce Type: cross Abstract: This research developed a neural network-based model to extract various information from 2D floor plans. We detect lighting symbols, identify the appropriate type of light, and extract the associated
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2608.14317>
-
-* **[Internal files add to evidence of an ExxonMobil climate deception campaign](ai/community/internal-files-add-to-evidence-of-an-exxonmobil-cl.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by gumby. Score: 62, Comments: 16. Original Link: https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence>
 
 * **[Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation](ai/rag/arxiv-2610-07250.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.07250v1 Announce Type: new Abstract: Wrapping an image generation model in an agentic harness can effectively boost Text-to-Image task performance: the harness can leverage memory, skills, workflow orchestration, result verification, and i
@@ -48002,11 +47992,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.30940v1 Announce Type: cross Abstract: Generative music systems are increasingly presented as tools that democratize music creation, yet their practical suitability for musicians remains underexplored. Prior work includes openness-focused
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.30940>
-
-* **[Mxc: Microsoft Execution Containers version 1.0.0](ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by smokel. Score: 211, Comments: 58. Original Link: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
-  * Tags: `agents`, `ai`, `hackernews`, `reddit`
-  * Source URL: <https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents>
 
 * **[MyoInteract: A Framework for Fast Prototyping of Biomechanical HCI Tasks using Reinforcement Learning](ai/research/arxiv-2602-15245.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.15245v2 Announce Type: replace-cross Abstract: Reinforcement learning (RL)-based biomechanical simulations have the potential to revolutionise HCI research and interaction design, but currently lack usability and interpretability. Using th
@@ -49571,11 +49556,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.38096v1 Announce Type: new Abstract: Policies with similar mean returns can differ sharply in rare failures, yet estimating lower-tail conditional value-at-risk (CVaR) accurately can require many costly rollouts. When different conditional
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.38096>
-
-* **[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](ai/community/rociiu-talorys.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rociiu. Score: 307, Comments: 141. Original Link: https://github.com/rociiu/talorys
-  * Tags: `agents`, `ai`, `hackernews`
-  * Source URL: <https://github.com/rociiu/talorys>
 
 * **[Tanium Developer Portal](ai/rag/tanium-developer-portal.md)** (`benchmark` | `useful` tier)
   * Summary: - **Tanium APIs** provide real-time endpoint visibility and control for developing management, security, and risk solutions, accessible via [API Documentation](https://developer.tanium.com/apis/api_intro). - **Integration Methods** include SIEM/Data
@@ -66407,7 +66387,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02622>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2222, Downloads: 23580892)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2224, Downloads: 23580892)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -86160,7 +86140,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3398, Downloads: 35402796)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3399, Downloads: 35402796)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
@@ -86170,7 +86150,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/google-t5/t5-small>
 
 * **[google/electra-base-discriminator](ai/models/huggingface-google-electra-base-discriminator.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 192, Downloads: 45354903)
+  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 193, Downloads: 45354903)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google/electra-base-discriminator>
 
@@ -93345,7 +93325,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11312, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11313, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -114493,7 +114473,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1767, Downloads: 30575964)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1768, Downloads: 30575964)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -153551,8 +153531,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Provides a full-stack RAG implementation guide leveraging `LangChain` and `LlamaIndex` for LLM integration. * Utilizes `Milvus` for vector indexing and `Neo4j` for graph-based knowledge representation within retrieval pipelines. * Explores multimod
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tool` | `useful` tier)
+  * Summary: * Details full-stack RAG implementation strategies for large model application development. *
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -173642,7 +173622,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.04223>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1427, Downloads: 48432191)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1428, Downloads: 48432191)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -175625,8 +175605,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`framework` | `useful` tier)
-  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system for querying GitHub repository content. * Utilizes a GitHub repository as the primary data source for document ingestion and retrieval. * Developed in Python, providing a framework
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
+  * Summary: * Python-based Retrieval-Augmented Generation (RAG) system. * Processes and ingests GitHub repository
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

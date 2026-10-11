@@ -2904,7 +2904,6 @@ Resources organized by keyword tags.
   - [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](../ai/rag/arxiv-2608-07437.md)
   - [FitText: Evolving Agent Tool Ecologies via Memetic Retrieval](../ai/agents/arxiv-2605-02411.md)
   - [Five Primitives for Governing Autonomous AI Agents at Runtime](../ai/agents/arxiv-2608-26696.md)
-  - [Five months treating bugs like patients and coding agents like a medical team](../ai/community/five-months-treating-bugs-like-patients-and-coding.md)
   - [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](../ai/agents/arxiv-2609-19124.md)
   - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](../ai/agents/arxiv-2608-12932.md)
   - [FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications](../ai/agents/arxiv-2607-18171.md)
@@ -4702,7 +4701,6 @@ Resources organized by keyword tags.
   - [Musical Agent Systems: MACAT and MACataRT](../ai/agents/arxiv-2502-00023.md)
   - [MutMem-V2: Cryptographically Authorized Mutation in Persistent Agent Memory Portable Verification and Reproducible Evidence](../ai/agents/arxiv-2609-01235.md)
   - [MutMem: Cryptographically Authorized Mutation in Persistent Agent Memory](../ai/rag/arxiv-2608-02843.md)
-  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
   - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](../ai/agents/arxiv-2606-16748.md)
   - [NAQD Env: A benchmark for selective withdrawal in language agents](../ai/agents/arxiv-2609-38460.md)
@@ -6694,7 +6692,6 @@ Resources organized by keyword tags.
   - [Talk to Sales - SpeechifyAI API](../ai/agents/talk-to-sales-speechifyai-api.md)
   - [Talk2Agent: Benchmarking Voice Interfaces for Text Agents](../ai/agents/arxiv-2609-38867.md)
   - [Talking to Your Data: Exploring Embodied Conversation as an Interface for Personal Health Reflection](../ai/agents/arxiv-2606-17767.md)
-  - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
   - [TamilEOT: A Dataset and Model for Semantic End-of-Turn Detection in Tamil Telephone Speech](../ai/agents/arxiv-2609-05631.md)
   - [Taming the Agentic RAN: Stability-Guaranteed Arbitration of Autonomous AI Agents in O-RAN](../ai/agents/arxiv-2609-18857.md)
   - [Tangent classes of matroids and wonderful compactifications](../ai/agents/arxiv-2607-05835.md)
@@ -8166,10 +8163,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [I paid people to try and follow my README](../ai/community/i-paid-people-to-try-and-follow-my-readme.md)
-  - [Internal files add to evidence of an ExxonMobil climate deception campaign](../ai/community/internal-files-add-to-evidence-of-an-exxonmobil-cl.md)
-  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Plumbers, chains, and famous painters: The history of the pipe operator in R](../ai/community/plumbers-chains-and-famous-painters-the-history-of.md)
-  - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
 
 ## animation
 
@@ -34299,7 +34293,6 @@ Resources organized by keyword tags.
   - [First Proof Second Batch](../ai/research/arxiv-2606-18119.md)
   - [First-Order Modal Logic in HOL: Deep and Shallow Embeddings with Automated Faithfulness (Extended Preprint)](../ai/rag/arxiv-2607-10880.md)
   - [Fitting Horn DL Ontologies to ABox and Query Examples: A Tale of Simulation Quantifiers and Finite Models](../ai/research/arxiv-2604-26976.md)
-  - [Five months treating bugs like patients and coding agents like a medical team](../ai/community/five-months-treating-bugs-like-patients-and-coding.md)
   - [Fixed-Gaussian Spectral Algorithms: Minimax Optimal Rates for Misspecified Learning and Transfer](../ai/research/arxiv-2501-10870.md)
   - [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](../ai/agents/arxiv-2609-19124.md)
   - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](../ai/agents/arxiv-2608-12932.md)
@@ -34820,7 +34813,6 @@ Resources organized by keyword tags.
   - [Interleaved Noise Injection Improves Clean, Corrupted, and OOD Performance](../ai/rag/arxiv-2607-14466.md)
   - [Intern-S2-Preview: Scientific Agentic Foundation Model](../ai/rag/arxiv-2608-13505.md)
   - [Internal Pointers - Internal Pointers](../ai/resources/internal-pointers-internal-pointers.md)
-  - [Internal files add to evidence of an ExxonMobil climate deception campaign](../ai/community/internal-files-add-to-evidence-of-an-exxonmobil-cl.md)
   - [International Real-time Magnetic Observatory Network](../ai/rag/international-real-time-magnetic-observatory-netwo.md)
   - [Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine](../ai/resources/internet-archive-digital-library-of-free-borrowabl.md)
   - [Interpretability and Generalization Bounds for Learning Spatial Physics](../ai/research/arxiv-2506-15199.md)
@@ -35310,7 +35302,6 @@ Resources organized by keyword tags.
   - [Multivariate quantile regression via Kolmogorov-Arnold Networks](../ai/research/arxiv-2609-23906.md)
   - [Music-Source-Separation-Training (MSST): A Unified Framework for Training and Evaluating Music Demixing Models](../ai/research/arxiv-2607-23395.md)
   - [Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study](../ai/research/arxiv-2608-20447.md)
-  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [N$^2$: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion](../ai/research/arxiv-2506-04166.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
@@ -36342,7 +36333,6 @@ Resources organized by keyword tags.
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
   - [Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse](../ai/research/arxiv-2608-30956.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
-  - [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](../ai/community/rociiu-talorys.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
   - [Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach](../ai/research/arxiv-2607-05271.md)
@@ -65558,7 +65548,6 @@ Resources organized by keyword tags.
   - [Multi-Granularity Position Embedding of Graphs via Granular-Ball for Link Prediction](../ai/research/arxiv-2607-29115.md)
   - [Multi-agent Autoformalization of Tensor Network Theory](../ai/agents/arxiv-2607-07857.md)
   - [Multimodal Graph Negative Learning](../ai/research/arxiv-2606-12863.md)
-  - [Mxc: Microsoft Execution Containers version 1.0.0](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
   - [NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision - NASA Science](../ai/resources/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic.md)
   - [NASA’s Webb Studies How Planet Survived Death of its Star - NASA Science](../ai/resources/nasas-webb-studies-how-planet-survived-death-of-it.md)
@@ -76184,4 +76173,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-11T20:45:46.871804+05:30*
+*Index generated on 2026-10-12T02:13:01.859612+05:30*
