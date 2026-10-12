@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-12T02:17:37.463556+05:30`
+Generated at: `2026-10-12T06:02:21.128678+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **I paid people to try and follow my README** - Score: `334` (+177), Rank Change: `+3` ([File](../ai/community/i-paid-people-to-try-and-follow-my-readme.md))
-- **Plumbers, chains, and famous painters: The history of the pipe operator in R** - Score: `45` (+25), Rank Change: `+4` ([File](../ai/community/plumbers-chains-and-famous-painters-the-history-of.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+16` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+16` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+16` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+16` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+16` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+16` ([File](../ai/companies/computer-vision.md))
+- **airalab/autonomous_agent_template** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/airalab-autonomous-agent-template.md))
+- **activepieces/activepieces** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/activepieces-activepieces.md))
+- **bojieli/ai-agent-book** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/bojieli-ai-agent-book.md))
+- **freddy-schuetz/n8n-claw** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/freddy-schuetz-n8n-claw.md))
+- **ProjectRecon/awesome-ai-agents-security** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/projectrecon-awesome-ai-agents-security.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **CALLE-AI/awesome-phone-call-agents** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/calle-ai-awesome-phone-call-agents.md))
+- **ghuntley/how-to-build-a-coding-agent** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/agents/ghuntley-how-to-build-a-coding-agent.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **datawhalechina/all-in-rag** - (Rank Change: `+1043`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **facebook/MusicGen** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+36`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9284`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1028`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1028`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Talorys – A self-hosted personal AI agent on Cloudflare's free tier** (Category: `ai/community`) ([File](../ai/community/rociiu-talorys.md))
-- **Mxc: Microsoft Execution Containers version 1.0.0** (Category: `ai/community`) ([File](../ai/community/mxc-microsoft-execution-containers-version-1-0-0.md))
-- **Five months treating bugs like patients and coding agents like a medical team** (Category: `ai/community`) ([File](../ai/community/five-months-treating-bugs-like-patients-and-coding.md))
-- **Internal files add to evidence of an ExxonMobil climate deception campaign** (Category: `ai/community`) ([File](../ai/community/internal-files-add-to-evidence-of-an-exxonmobil-cl.md))
+No recently active resources transitioned to inactive.
+
