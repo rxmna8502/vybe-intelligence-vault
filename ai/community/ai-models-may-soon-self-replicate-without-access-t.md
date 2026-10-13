@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-models-may-soon-self-replicate-without-access-t
 first_seen: '2026-10-13T17:25:42.937443+05:30'
 last_seen: '2026-10-13T17:25:42.937443+05:30'
 last_checked: '2026-10-13T17:25:42.937443+05:30'
 health_score: 100
 ---
+
 
 # AI models may soon self-replicate without access to data centers
 

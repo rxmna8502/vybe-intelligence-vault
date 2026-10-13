@@ -13,13 +13,14 @@ collected_at: '2026-10-13T17:25:40.853699+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:an-hour-of-audio-transcribed-in-about-13s-on-macbo
 first_seen: '2026-10-13T17:25:40.853699+05:30'
 last_seen: '2026-10-13T17:25:40.853699+05:30'
 last_checked: '2026-10-13T17:25:40.853699+05:30'
 health_score: 100
 ---
+
 
 # An hour of audio transcribed in about 13s on MacBook Air
 

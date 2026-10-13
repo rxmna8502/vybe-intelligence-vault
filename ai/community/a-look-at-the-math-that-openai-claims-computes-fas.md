@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:a-look-at-the-math-that-openai-claims-computes-fas
 first_seen: '2026-10-13T17:25:42.625540+05:30'
 last_seen: '2026-10-13T17:25:42.625540+05:30'
 last_checked: '2026-10-13T17:25:42.625540+05:30'
 health_score: 100
 ---
+
 
 # A look at the math that OpenAI claims computes faster Fourier transforms
 

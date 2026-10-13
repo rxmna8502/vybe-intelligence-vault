@@ -32987,16 +32987,16 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A look at the math that OpenAI claims computes faster Fourier transforms](../ai/community/a-look-at-the-math-that-openai-claims-computes-fas.md)
   - [AI is a tool and using it well takes skill](../ai/community/ai-is-a-tool-and-using-it-well-takes-skill.md)
-  - [AI models can provably hide arbitrary capabilities](../ai/community/arxiv-2610-13928.md)
-  - [AI models may soon self-replicate without access to data centers](../ai/community/ai-models-may-soon-self-replicate-without-access-t.md)
-  - [An hour of audio transcribed in about 13s on MacBook Air](../ai/community/an-hour-of-audio-transcribed-in-about-13s-on-macbo.md)
-  - [Character.ai Files for Bankruptcy](../ai/community/character-ai-files-for-bankruptcy.md)
-  - [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](../ai/community/intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.md)
-  - [Janas: Run LLMs larger than RAM by streaming experts from SSD](../ai/community/prabanta-dev-janas.md)
-  - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](../ai/community/launch-hn-agent37-yc-f26-low-cost-agent-sandboxes.md)
+  - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](../ai/community/apple-s-new-switch-to-safari-campaign-details-why.md)
+  - [Character.ai has initiated voluntary Chapter 11 bankruptcy](../ai/community/character-ai-has-initiated-voluntary-chapter-11-ba.md)
+  - [How to engineer an AI harness for game development](../ai/community/how-to-engineer-an-ai-harness-for-game-development.md)
+  - [I posted to HN, and then my website was flooded with AI bot traffic](../ai/community/i-posted-to-hn-and-then-my-website-was-flooded-wit.md)
+  - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](../ai/community/launch-hn-consus-yc-f24-llm-gateway-for-companies.md)
+  - [Redesigning source control at Anthropic](../ai/community/redesigning-source-control-at-anthropic.md)
+  - [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](../ai/community/maharshi365-deslop.md)
   - [Show HN: Use your OpenAI subscription to create audiobooks](../ai/community/show-hn-use-your-openai-subscription-to-create-aud.md)
+  - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](../ai/community/zero-to-calc-in-six-days-inside-xbow-s-chrome-full.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -33539,7 +33539,6 @@ Resources organized by publisher feed and query sources.
   - [MosaicLeaks: Can your research agent keep a secret?](../ai/agents/huggingface-blog-servicenow-mosaicleaks.md)
   - [Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers](../ai/models/huggingface-blog-multi-vector-encoder.md)
   - [Multimodal Embedding & Reranker Models with Sentence Transformers](../ai/models/huggingface-blog-multimodal-sentence-transformers.md)
-  - [Multimodal open d1 decision models for the edge](../ai/models/huggingface-blog-liquidai-open-d1.md)
   - [Multivariate Probabilistic Time Series Forecasting with Informer](../ai/models/huggingface-blog-informer.md)
   - [My Journey to a serverless transformers pipeline on Google Cloud](../ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md)
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
@@ -33649,6 +33648,7 @@ Resources organized by publisher feed and query sources.
   - [Run ComfyUI workflows for free with Gradio on Hugging Face Spaces](../ai/models/huggingface-blog-run-comfyui-workflows-on-spaces.md)
   - [Run a Chatgpt-like Chatbot on a Single GPU with ROCm](../ai/models/huggingface-blog-chatbot-amd-gpu.md)
   - [Run a vLLM Server on HF Jobs in One Command](../ai/models/huggingface-blog-vllm-jobs.md)
+  - [Run fast, private agents on-device with LFM2.5-24B-A2B](../ai/agents/huggingface-blog-liquidai-lfm25-24b-a2b.md)
   - [Running IF with 🧨 diffusers on a Free Tier Google Colab](../ai/models/huggingface-blog-if.md)
   - [Running Privacy-Preserving Inferences on Hugging Face Endpoints](../ai/models/huggingface-blog-fhe-endpoints.md)
   - [Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face](../ai/models/huggingface-blog-ryght-case-study.md)
@@ -36880,4 +36880,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-13T17:43:41.287088+05:30*
+*Index generated on 2026-10-14T01:11:03.231160+05:30*

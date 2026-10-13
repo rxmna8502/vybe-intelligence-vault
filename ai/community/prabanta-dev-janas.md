@@ -13,13 +13,14 @@ collected_at: '2026-10-13T17:25:41.888841+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:prabanta-dev/janas
 first_seen: '2026-10-13T17:25:41.888841+05:30'
 last_seen: '2026-10-13T17:25:41.888841+05:30'
 last_checked: '2026-10-13T17:25:41.888841+05:30'
 health_score: 100
 ---
+
 
 # Janas: Run LLMs larger than RAM by streaming experts from SSD
 
