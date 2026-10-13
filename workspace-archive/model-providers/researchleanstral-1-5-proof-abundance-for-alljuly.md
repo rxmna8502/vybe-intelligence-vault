@@ -1,6 +1,6 @@
 ---
 title: 'ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team
-  at Mistral AI'
+  at Mistral'
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/leanstral-1-5
@@ -21,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI
+# ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral
 
 ## Why This Is In The Archive
 
@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI
+Recent update from Mistral AI News Blog: ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral
 
 ## Use Cases
 

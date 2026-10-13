@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:plumbers-chains-and-famous-painters-the-history-of
 first_seen: '2026-10-11T20:29:35.115424+05:30'
 last_seen: '2026-10-12T01:56:29.761590+05:30'
 last_checked: '2026-10-12T01:56:29.761590+05:30'
 health_score: 100
 ---
+
 
 # Plumbers, chains, and famous painters: The history of the pipe operator in R
 

@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-10-10T20:05:45.355212+05:30'
-published_at: '2026-10-10T13:22:19Z'
+collected_at: '2026-10-13T17:28:14.443290+05:30'
+published_at: '2026-10-13T07:59:53Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-stars: 38278
+stars: 38299
 language: Jupyter Notebook
 status: active
 license: MIT
 archived: false
 created_at: '2024-10-21T10:43:24Z'
-pushed_at: '2026-09-10T21:32:11Z'
+pushed_at: '2026-10-12T19:11:08Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-10-10T20:05:45.355212+05:30'
-last_seen: '2026-10-10T20:05:45.355212+05:30'
-last_checked: '2026-10-10T20:05:45.355212+05:30'
+first_seen: '2026-10-13T17:28:14.443290+05:30'
+last_seen: '2026-10-13T17:28:14.443290+05:30'
+last_checked: '2026-10-13T17:28:14.443290+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Offers in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures, and real-world AI agent implementations.
-*   Explores advanced topics such as multi-agent coordination (MCP) and core machine learning concepts.
-*   Content is presented primarily through Jupyter Notebooks, enabling interactive learning and practical application.
+*   Comprehensive Jupyter Notebook tutorials on Large Language Models (LLMs), Retrieval Augmented Generation (
 
 ## Why It Matters
 
@@ -40,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 38278
-- Forks: 6294
+- Stars: 38299
+- Forks: 6305
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-10-10T13:22:19Z
+- Last Updated: 2026-10-13T07:59:53Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z
-- Pushed At: 2026-09-10T21:32:11Z
+- Pushed At: 2026-10-12T19:11:08Z
 
 ## Possible Use Cases
 
