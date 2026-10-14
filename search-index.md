@@ -44723,6 +44723,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2605.08756>
 
+* **[AI agents aren't 'going rogue.' Frontier labs are skipping security basics](ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by latexr. Score: 679, Comments: 296. Original Link: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html>
+
 * **[AI and Cloud Computing Services | Google Cloud](ai/rag/ai-and-cloud-computing-services-google-cloud.md)** (`dataset` | `useful` tier)
   * Summary: - **Gemini Enterprise Agent Platform**: Fully-managed AI development platform for building and managing AI applications/agents, featuring Agent Studio and access to 200+ foundation models, enabling rapid deployment of multi-agent systems. - **AI Thre
   * Tags: `agents`, `creative_dev`, `dataset`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`, `youtube`
@@ -44752,11 +44757,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Program Scope**: Supports ~160 Postdoctoral Fellows and 20 Faculty Fellows annually across nine global universities to integrate AI into STEM research, addressing uneven adoption and accelerating scientific breakthroughs. - **Research Focus**: Ta
   * Tags: `hackernews`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.schmidtsciences.org/schmidt-ai-in-science-postdocs>
-
-* **[AI Laser Locking for Quantum Computers: How QuEra Automates It](ai/community/ai-laser-locking-for-quantum-computers-how-quera-a.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by EvgeniyZh. Score: 18, Comments: 3. Original Link: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers>
 
 * **[AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages](ai/research/arxiv-2505-10300.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2505.10300v2 Announce Type: replace-cross Abstract: Responsible AI (RAI) efforts increasingly emphasize the importance of addressing potential harms early in the AI development lifecycle through social-technical lenses. However, in cross-functi
@@ -46002,11 +46002,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2608.30543v1 Announce Type: new Abstract: Large Language Models (LLMs) offer new possibilities for scaling qualitative analysis, but existing applications often provide limited methodological transparency regarding how qualitative methods are t
   * Tags: `benchmark`, `dataset`, `paper`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.30543>
-
-* **[Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](ai/community/details-leak-from-meeting-where-weiss-s-handpicked.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by slowin. Score: 13, Comments: 1. Original Link: https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing>
 
 * **[Detecting Money Laundering in Rwandan Mobile Money: A Machine Learning Framework](ai/research/arxiv-2608-15447.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.15447v1 Announce Type: new Abstract: Mobile money has widened financial access across Sub-Saharan Africa and enlarged the surface for money-laundering and terrorism-financing (ML/TF) activity in ecosystems dominated by high-volume, low-val
@@ -49603,6 +49598,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
+* **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](ai/community/graphicle-ai-graphicle.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by KarLexAI. Score: 35, Comments: 10. Original Link: https://github.com/graphicle-ai/graphicle
+  * Tags: `agents`, `hackernews`
+  * Source URL: <https://github.com/graphicle-ai/graphicle>
+
+* **[Show HN: I wrote an email app that accepts only one sender per inbox](ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by edpin2000. Score: 39, Comments: 31. Original Link: https://clova.email/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://clova.email>
+
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
   * Tags: `github-repo`, `javascript`, `scripts`, `workflows`
@@ -50318,7 +50323,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://haystack.deepset.ai/tutorials>
 
 * **[TV4 postpones show after AI agent erases edited material](ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tobr. Score: 46, Comments: 26. Original Link: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage
+  * Summary: Hacker News story by tobr. Score: 128, Comments: 71. Original Link: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage>
 
@@ -66928,7 +66933,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02622>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2274, Downloads: 24139135)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2279, Downloads: 24139135)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -86812,12 +86817,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3430, Downloads: 34423988)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 3431, Downloads: 34423988)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
 * **[google-t5/t5-small](ai/models/huggingface-google-t5-t5-small.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-t5/t5-small (Likes: 682, Downloads: 23798595)
+  * Summary: Trending Hugging Face model: google-t5/t5-small (Likes: 683, Downloads: 23798595)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-t5/t5-small>
 
@@ -89148,6 +89153,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `youtube`
   * Source URL: <https://arxiv.org/abs/2609.37775>
 
+* **[HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](ai/models/huggingface-blog-allenai-hiro-acev2.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost
+  * Source URL: <https://huggingface.co/blog/allenai/hiro-acev2>
+
 * **[HISPO: Hierarchical Importance-Sampling Policy Optimization with Entropy-Derived Segments](ai/research/arxiv-2609-15471.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2609.15471v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become a central approach for improving mathematical reasoning in language models, but long-form completions introduce a difficult credit-assi
   * Tags: `benchmark`, `models`
@@ -91253,10 +91262,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16910v1 Announce Type: cross Abstract: IMPACTeen is a dataset of textual social influence scenarios spanning interpersonal, media-based, and digital settings in an adolescent context. It contains 1,021 texts, 5,100 individual annotation re
   * Tags: `benchmark`, `dataset`, `frontend_ui`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.16910>
-
-* **[Impactful scheduling for GPU clusters](ai/models/huggingface-blog-allenai-impactful-scheduling.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Impactful scheduling for GPU clusters
-  * Source URL: <https://huggingface.co/blog/allenai/impactful-scheduling>
 
 * **[ImpactMat: Continuous Material Estimation for Inverse Impact Sound Rendering](ai/research/arxiv-2610-07061.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2610.07061v2 Announce Type: replace-cross Abstract: Impact sound rendering synthesizes the sound produced when a 3D object is struck, but practical renderers often rely on fixed material presets such as wood, plastic, or steel. These presets li
@@ -94046,7 +94051,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.02825>
 
 * **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11317, Downloads: 0)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11318, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
 
@@ -97791,7 +97796,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://opensource.stackexchange.com/questions/15789/if-an-ai-is-pre-trained-no-fine-tuning-purely-and-exclusively-on-gpl-gpl-compa>
 
 * **[Lichess/standard-chess-games](ai/models/huggingface-datasets-lichess.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Lichess/standard-chess-games (Likes: 105, Downloads: 1463065)
+  * Summary: Trending Hugging Face dataset: Lichess/standard-chess-games (Likes: 108, Downloads: 1463065)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/lichess>
 
@@ -115317,7 +115322,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1813, Downloads: 30452693)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1815, Downloads: 30452693)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -122740,7 +122745,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6340, Downloads: 218138134)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 6341, Downloads: 218138134)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -142171,6 +142176,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://nextjs.org/blog/nextjs-security-update-september-22-2026>
 
+* **[Next.js Security Update for Upstream Vulnerabilities](web-development/nextjs/next-js-security-update-for-upstream-vulnerabiliti.md)** (`tutorial` | `useful` tier)
+  * Summary: The October 14, 2026 out-of-band security update for Next.js is now available
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/nextjs-security-update-october-14-2026>
+
 * **[Next.js Security Update: December 11, 2025](web-development/nextjs/next-js-security-update-december-11-2025.md)** (`tutorial` | `useful` tier)
   * Summary: Two additional vulnerabilities have been identified in React Server Components. Users should upgrade to patched versions immediately.
   * Tags: `frontend_ui`
@@ -142480,11 +142490,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Next.js is preparing a scheduled August security release for August 26, 2026.
   * Tags: `frontend_ui`
   * Source URL: <https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026>
-
-* **[Upcoming Next.js Security Update for Upstream Vulnerabilities](web-development/nextjs/upcoming-next-js-security-update-for-upstream-vuln.md)** (`tutorial` | `useful` tier)
-  * Summary: Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies.
-  * Tags: `frontend_ui`
-  * Source URL: <https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026>
 
 * **[Upcoming Next.js September Security Release](web-development/nextjs/upcoming-next-js-september-security-release.md)** (`tutorial` | `useful` tier)
   * Summary: Next.js is preparing a scheduled September security release for September 30, 2026.
@@ -143580,6 +143585,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/singapore-office-opening>
 
+* **[Oct 14, 2026PolicyPreparing for the 2026 US midterms](ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Oct 14, 2026PolicyPreparing for the 2026 US midterms
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/2026-us-midterms>
+
 * **[Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
@@ -143654,11 +143664,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/research-area/search-information-retrieval>
-
-* **[Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/life-sciences-verification-program>
 
 * **[Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)** (`benchmark` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation
@@ -145381,6 +145386,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.08725v1 Announce Type: new Abstract: In online A/B tests for real-time bidding (RTB), control and treatment models are typically trained on a shared serving log that includes data generated by the counterpart model. This shared-log trainin
   * Tags: `youtube`
   * Source URL: <https://arxiv.org/abs/2609.08725>
+
+* **[Banks are now trying to offload the AI data center debt they just underwrote](ai/community/banks-are-now-trying-to-offload-the-ai-data-center.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by smartmic. Score: 126, Comments: 93. Original Link: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote>
 
 * **[BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data](ai/agents/arxiv-2607-18241.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-e
@@ -149890,7 +149900,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3892, Downloads: 32530460)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3893, Downloads: 32530460)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -154587,8 +154597,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide for LLM application development, covering practical full-stack deployment. * Leverages LangChain and Llama-Index for RAG orchestration, integrating with LLMs like DeepSeek and Kimi-K2.
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Provides a full-stack RAG implementation guide, focusing on LLM application development. * Leverages LangChain and LlamaIndex for orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) for advanced retrieval. * Explores mu
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -176827,7 +176837,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for contextualized information retrieval. * Facilitates direct ingestion and vector indexing of GitHub repository contents (code, documentation). * Provides a conversational interface for sem
+  * Summary: * Implements a Retrieval-Augmented Generation (RAG) system for semantic querying of GitHub repository content. * Developed in Python, enabling local deployment and execution. * Facilitates interactive conversational access to downloaded codebase info
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

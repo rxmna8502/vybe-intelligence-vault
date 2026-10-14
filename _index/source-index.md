@@ -32077,6 +32077,7 @@ Resources organized by publisher feed and query sources.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
+  - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
@@ -32088,7 +32089,6 @@ Resources organized by publisher feed and query sources.
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
-  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
@@ -32987,8 +32987,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Laser Locking for Quantum Computers: How QuEra Automates It](../ai/community/ai-laser-locking-for-quantum-computers-how-quera-a.md)
-  - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](../ai/community/details-leak-from-meeting-where-weiss-s-handpicked.md)
+  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
+  - [Banks are now trying to offload the AI data center debt they just underwrote](../ai/community/banks-are-now-trying-to-offload-the-ai-data-center.md)
+  - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](../ai/community/graphicle-ai-graphicle.md)
+  - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
   - [TV4 postpones show after AI agent erases edited material](../ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)
 
 ## Unknown Source (type: huggingface)
@@ -33309,6 +33311,7 @@ Resources organized by publisher feed and query sources.
   - [Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training](../ai/models/huggingface-blog-habana.md)
   - [Happy 1st anniversary 🤗 Diffusers!](../ai/models/huggingface-blog-diffusers-turns-1.md)
   - [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../ai/agents/huggingface-blog-agent-glossary.md)
+  - [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](../ai/models/huggingface-blog-allenai-hiro-acev2.md)
   - [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../ai/agents/huggingface-blog-hcompany-holo1.md)
   - [Holo3.1: Fast & Local Computer Use Agents](../ai/agents/huggingface-blog-hcompany-holo31.md)
   - [Holo4: powering generalist computer-use agents](../ai/agents/huggingface-blog-hcompany-holo4.md)
@@ -33373,7 +33376,6 @@ Resources organized by publisher feed and query sources.
   - [Image Classification with AutoTrain](../ai/models/huggingface-blog-autotrain-image-classification.md)
   - [Image Similarity with Hugging Face Datasets and Transformers](../ai/models/huggingface-blog-image-similarity.md)
   - [Image search with 🤗 datasets](../ai/models/huggingface-blog-image-search-datasets.md)
-  - [Impactful scheduling for GPU clusters](../ai/models/huggingface-blog-allenai-impactful-scheduling.md)
   - [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](../ai/models/huggingface-blog-gradio-vton-mcp.md)
   - [Improving Hugging Face Model Access for Kaggle Users](../ai/models/huggingface-blog-kaggle-integration.md)
   - [Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](../ai/models/huggingface-blog-packing-with-fa2.md)
@@ -34056,6 +34058,7 @@ Resources organized by publisher feed and query sources.
   - [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)
   - [Next.js App Router Update](../web-development/nextjs/next-js-app-router-update.md)
   - [Next.js Security Release and Our Next Patch Release](../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md)
+  - [Next.js Security Update for Upstream Vulnerabilities](../web-development/nextjs/next-js-security-update-for-upstream-vulnerabiliti.md)
   - [Next.js Security Update for a Critical Upstream Issue](../web-development/nextjs/next-js-security-update-for-a-critical-upstream-is.md)
   - [Next.js Security Update: December 11, 2025](../web-development/nextjs/next-js-security-update-december-11-2025.md)
   - [Our Journey with Caching](../web-development/nextjs/our-journey-with-caching.md)
@@ -34084,7 +34087,6 @@ Resources organized by publisher feed and query sources.
   - [Turbopack: What's New in Next.js 16.2](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)
   - [Turbopack: What's New in Next.js 16.3](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md)
   - [Upcoming Next.js August Security Release](../web-development/nextjs/upcoming-next-js-august-security-release.md)
-  - [Upcoming Next.js Security Update for Upstream Vulnerabilities](../web-development/nextjs/upcoming-next-js-security-update-for-upstream-vuln.md)
   - [Upcoming Next.js September Security Release](../web-development/nextjs/upcoming-next-js-september-security-release.md)
   - [Update: August Next.js Security Release](../web-development/nextjs/update-august-next-js-security-release.md)
 
@@ -36873,4 +36875,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-14T19:38:08.236189+05:30*
+*Index generated on 2026-10-15T02:05:37.972904+05:30*

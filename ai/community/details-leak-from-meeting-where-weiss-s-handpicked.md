@@ -14,13 +14,14 @@ collected_at: '2026-10-14T19:21:35.174351+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:details-leak-from-meeting-where-weiss-s-handpicked
 first_seen: '2026-10-14T19:21:35.174351+05:30'
 last_seen: '2026-10-14T19:21:35.174351+05:30'
 last_checked: '2026-10-14T19:21:35.174351+05:30'
 health_score: 100
 ---
+
 
 # Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff
 

@@ -291,6 +291,7 @@ Resources organized by keyword tags.
   - [AI Tour Meeting: Group Travel Planning by LLM Agents](../ai/agents/arxiv-2607-18806.md)
   - [AI Virtue: What is "Good" Knowledge in the Age of Artificial Intelligence?](../ai/agents/arxiv-2607-01776.md)
   - [AI YOU Town: Make Friends and Money with Your Digital Twin](../ai/rag/arxiv-2607-10539.md)
+  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion](../ai/agents/arxiv-2608-26896.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
@@ -6327,6 +6328,7 @@ Resources organized by keyword tags.
   - [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](../ai/agents/arxiv-2609-28372.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](../ai/community/graphicle-ai-graphicle.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -8251,8 +8253,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI Laser Locking for Quantum Computers: How QuEra Automates It](../ai/community/ai-laser-locking-for-quantum-computers-how-quera-a.md)
-  - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](../ai/community/details-leak-from-meeting-where-weiss-s-handpicked.md)
+  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
+  - [Banks are now trying to offload the AI data center debt they just underwrote](../ai/community/banks-are-now-trying-to-offload-the-ai-data-center.md)
+  - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
   - [TV4 postpones show after AI agent erases edited material](../ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)
 
 ## animation
@@ -8781,6 +8784,7 @@ Resources organized by keyword tags.
   - [OSWorld-Pro: Process-based Evaluation for Computer Use Agents](../ai/agents/arxiv-2609-24890.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
+  - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
@@ -8907,7 +8911,6 @@ Resources organized by keyword tags.
   - [Self-host LangSmith on Kubernetes - Docs by LangChain](../ai/rag/self-host-langsmith-on-kubernetes-docs-by-langchai.md)
   - [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](../ai/agents/arxiv-2609-11180.md)
   - [SentenceTransformers Documentation — Sentence Transformers documentation](../ai/rag/sentencetransformers-documentation-sentence-transf.md)
-  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
@@ -9110,12 +9113,12 @@ Resources organized by keyword tags.
 
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
+  - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
   - [Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
-  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
 
@@ -23494,6 +23497,7 @@ Resources organized by keyword tags.
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
+  - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
@@ -23505,7 +23509,6 @@ Resources organized by keyword tags.
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
-  - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
@@ -31810,6 +31813,7 @@ Resources organized by keyword tags.
   - [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)
   - [Next.js App Router Update](../web-development/nextjs/next-js-app-router-update.md)
   - [Next.js Security Release and Our Next Patch Release](../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md)
+  - [Next.js Security Update for Upstream Vulnerabilities](../web-development/nextjs/next-js-security-update-for-upstream-vulnerabiliti.md)
   - [Next.js Security Update for a Critical Upstream Issue](../web-development/nextjs/next-js-security-update-for-a-critical-upstream-is.md)
   - [Next.js Security Update: December 11, 2025](../web-development/nextjs/next-js-security-update-december-11-2025.md)
   - [No Plan, Yet Human: A Reactive Robotics Model Predicts Human Planning Failures on a Clinical Task](../ai/rag/arxiv-2605-16514.md)
@@ -32088,7 +32092,6 @@ Resources organized by keyword tags.
   - [Unraveling the Size Determination Mechanism of Nanocrystal Synthesis via Interpretable Neural Networks](../ai/research/arxiv-2608-14734.md)
   - [Unstructured Data Platform for GenAI | Unstructured](../ai/rag/unstructured-data-platform-for-genai-unstructured.md)
   - [Upcoming Next.js August Security Release](../web-development/nextjs/upcoming-next-js-august-security-release.md)
-  - [Upcoming Next.js Security Update for Upstream Vulnerabilities](../web-development/nextjs/upcoming-next-js-security-update-for-upstream-vuln.md)
   - [Upcoming Next.js September Security Release](../web-development/nextjs/upcoming-next-js-september-security-release.md)
   - [Update: August Next.js Security Release](../web-development/nextjs/update-august-next-js-security-release.md)
   - [Use the Azure OpenAI Responses API - Microsoft Foundry | Microsoft Learn](../ai/rag/use-the-azure-openai-responses-api-microsoft-found.md)
@@ -33302,7 +33305,6 @@ Resources organized by keyword tags.
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
   - [AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems](../ai/rag/arxiv-2608-03520.md)
   - [AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages](../ai/research/arxiv-2505-10300.md)
-  - [AI Laser Locking for Quantum Computers: How QuEra Automates It](../ai/community/ai-laser-locking-for-quantum-computers-how-quera-a.md)
   - [AI Literacy for Legal Translation: Developing Digital Resilience](../ai/research/arxiv-2608-04641.md)
   - [AI Model Catalog | Microsoft Foundry Models](../ai/agents/ai-model-catalog-microsoft-foundry-models.md)
   - [AI Outperforms Law Professors in Stanford Law Study - SLS News and Announcements - Stanford Law School](../ai/rag/ai-outperforms-law-professors-in-stanford-law-stud.md)
@@ -33320,6 +33322,7 @@ Resources organized by keyword tags.
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
+  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
@@ -33634,6 +33637,7 @@ Resources organized by keyword tags.
   - [Balancing multiscale similarity and cartographic constraints: A similarity-driven optimization framework for line generalization](../ai/research/arxiv-2607-25474.md)
   - [Bandit Submodular Maximization under Matroid Constraints: Learning Compressed Exchange Policy](../ai/research/arxiv-2608-24627.md)
   - [Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis](../ai/rag/arxiv-2608-20343.md)
+  - [Banks are now trying to offload the AI data center debt they just underwrote](../ai/community/banks-are-now-trying-to-offload-the-ai-data-center.md)
   - [Barchart | All Markets](../ai/rag/barchart-all-markets.md)
   - [Base barrier cells provide compartmentalization of choroid plexus, brain and CSF | Nature Neuroscience](../ai/rag/base-barrier-cells-provide-compartmentalization-of.md)
   - [Batch Size or Negatives? A Selection Rule for Memory-Constrained Recommender Training](../ai/research/arxiv-2608-11061.md)
@@ -34216,7 +34220,6 @@ Resources organized by keyword tags.
   - [Designing a Boundary Negotiating Artifact for Collaborative Socio-Technical Sense-Making in AI Regulatory Sandboxes](../ai/research/arxiv-2609-37109.md)
   - [Designing for Interpretation Uncertainty: Architecture and Principles for Topological Learning Analytics Dashboards](../ai/research/arxiv-2610-01749.md)
   - [Desktop for developers | Ubuntu](../ai/rag/desktop-for-developers-ubuntu.md)
-  - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](../ai/community/details-leak-from-meeting-where-weiss-s-handpicked.md)
   - [Detecting AI-Generated Videos with Spiking Neural Networks](../ai/research/arxiv-2605-05895.md)
   - [Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study](../ai/research/arxiv-2609-29433.md)
   - [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](../ai/agents/arxiv-2604-01151.md)
@@ -36412,6 +36415,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](../ai/community/graphicle-ai-graphicle.md)
+  - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -76677,4 +76682,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-14T19:38:07.824263+05:30*
+*Index generated on 2026-10-15T02:05:37.560017+05:30*
