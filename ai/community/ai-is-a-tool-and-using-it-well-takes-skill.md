@@ -13,13 +13,14 @@ collected_at: '2026-10-14T00:54:29.788002+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-is-a-tool-and-using-it-well-takes-skill
 first_seen: '2026-10-13T17:25:42.546882+05:30'
 last_seen: '2026-10-14T00:54:29.788002+05:30'
 last_checked: '2026-10-14T00:54:29.788002+05:30'
 health_score: 100
 ---
+
 
 # AI is a tool and using it well takes skill
 

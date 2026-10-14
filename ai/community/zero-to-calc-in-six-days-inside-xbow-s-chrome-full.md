@@ -13,13 +13,14 @@ collected_at: '2026-10-14T00:54:28.307293+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:zero-to-calc-in-six-days-inside-xbow-s-chrome-full
 first_seen: '2026-10-14T00:54:28.307293+05:30'
 last_seen: '2026-10-14T00:54:28.307293+05:30'
 last_checked: '2026-10-14T00:54:28.307293+05:30'
 health_score: 100
 ---
+
 
 # Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain
 

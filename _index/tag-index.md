@@ -8250,14 +8250,13 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI is a tool and using it well takes skill](../ai/community/ai-is-a-tool-and-using-it-well-takes-skill.md)
   - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](../ai/community/apple-s-new-switch-to-safari-campaign-details-why.md)
   - [Character.ai has initiated voluntary Chapter 11 bankruptcy](../ai/community/character-ai-has-initiated-voluntary-chapter-11-ba.md)
   - [How to engineer an AI harness for game development](../ai/community/how-to-engineer-an-ai-harness-for-game-development.md)
   - [I posted to HN, and then my website was flooded with AI bot traffic](../ai/community/i-posted-to-hn-and-then-my-website-was-flooded-wit.md)
-  - [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](../ai/community/maharshi365-deslop.md)
-  - [Show HN: Use your OpenAI subscription to create audiobooks](../ai/community/show-hn-use-your-openai-subscription-to-create-aud.md)
-  - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](../ai/community/zero-to-calc-in-six-days-inside-xbow-s-chrome-full.md)
+  - [OpenAI engineer arrested in bugging of executive conference room](../ai/community/openai-engineer-arrested-in-bugging-of-executive-c.md)
+  - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md)
+  - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../ai/community/show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m.md)
 
 ## animation
 
@@ -20631,6 +20630,7 @@ Resources organized by keyword tags.
   - [Shot-based quantum encoding: a data-loading paradigm for quantum neural networks](../ai/research/arxiv-2604-06135.md)
   - [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](../ai/research/arxiv-2601-23232.md)
   - [Should I stay or should I show? Learning to selectively disclose information](../ai/research/arxiv-2609-39818.md)
+  - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md)
   - [ShuttleArena: Interpretable Self-Play in Physics-Based Badminton](../ai/agents/arxiv-2608-25246.md)
   - [Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](../ai/rag/arxiv-2512-18021.md)
   - [SiST-GNN: Simultaneous Spatial-Temporal Message Passing for Dynamic Graph Representation Learning](../ai/rag/arxiv-2605-25548.md)
@@ -33333,7 +33333,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI is a tool and using it well takes skill](../ai/community/ai-is-a-tool-and-using-it-well-takes-skill.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -35267,7 +35266,6 @@ Resources organized by keyword tags.
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent space bias directions in LLMs capture confidence, not fairness](../ai/research/arxiv-2610-08559.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
-  - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](../ai/community/launch-hn-consus-yc-f24-llm-gateway-for-companies.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -35769,6 +35767,7 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
+  - [OpenAI engineer arrested in bugging of executive conference room](../ai/community/openai-engineer-arrested-in-bugging-of-executive-c.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -36423,8 +36422,8 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Deslop – Oxlint rules for AI-generated TypeScript](../ai/community/maharshi365-deslop.md)
-  - [Show HN: Use your OpenAI subscription to create audiobooks](../ai/community/show-hn-use-your-openai-subscription-to-create-aud.md)
+  - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md)
+  - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../ai/community/show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -37195,7 +37194,6 @@ Resources organized by keyword tags.
   - [ZONOS2 Technical Report](../ai/research/arxiv-2606-24320.md)
   - [Zapytaj o Gry](../ai/resources/zapytaj-o-gry.md)
   - [Zendesk Academy](../ai/rag/zendesk-academy.md)
-  - [Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain](../ai/community/zero-to-calc-in-six-days-inside-xbow-s-chrome-full.md)
   - [Zeta-Lite: A Concurrent, Branchable In-Browser SQL Database for Agentic Memory](../ai/rag/arxiv-2609-01818.md)
   - [Zilliz - YouTube](../ai/rag/zilliz-youtube.md)
   - [Zilliz · GitHub](../ai/rag/zilliz-github.md)
@@ -37273,6 +37271,7 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -38101,10 +38100,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](../ai/community/launch-hn-consus-yc-f24-llm-gateway-for-companies.md)
 
 ## mdx
 
@@ -47000,6 +46995,7 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
+  - [OpenAI engineer arrested in bugging of executive conference room](../ai/community/openai-engineer-arrested-in-bugging-of-executive-c.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
@@ -47117,7 +47113,6 @@ Resources organized by keyword tags.
   - [Send a SCOUT First: Pre-hoc Reasoning for Adaptive Detector Allocation in Prompt-Injection Defense](../ai/agents/arxiv-2605-30837.md)
   - [Serve Gemma open models using GPUs on GKE with vLLM | GKE AI/ML | Google Cloud Documentation](../ai/rag/serve-gemma-open-models-using-gpus-on-gke-with-vll.md)
   - [Sharp First-Order Lower Bounds for Higher-Order Smooth Nonconvex Optimization](../ai/research/arxiv-2606-05438.md)
-  - [Show HN: Use your OpenAI subscription to create audiobooks](../ai/community/show-hn-use-your-openai-subscription-to-create-aud.md)
   - [SimGuide: Typed Multi-Context User Representations for Preference-Conditioned Agent Planning](../ai/agents/arxiv-2608-24888.md)
   - [Simon Willison: Prompt injection](../ai/rag/simon-willison-prompt-injection.md)
   - [Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs](../ai/rag/arxiv-2607-18230.md)
@@ -53418,7 +53413,6 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
-  - [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](../ai/community/launch-hn-consus-yc-f24-llm-gateway-for-companies.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -73185,6 +73179,7 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../ai/rag/langchain-ai-deepagents.md)
@@ -76695,4 +76690,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-14T01:11:02.805708+05:30*
+*Index generated on 2026-10-14T05:36:22.635791+05:30*

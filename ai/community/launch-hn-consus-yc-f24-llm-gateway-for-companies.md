@@ -15,13 +15,14 @@ tags:
 - hackernews
 - llm
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-consus-yc-f24-llm-gateway-for-companies
 first_seen: '2026-10-14T00:54:28.000871+05:30'
 last_seen: '2026-10-14T00:54:28.000871+05:30'
 last_checked: '2026-10-14T00:54:28.000871+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data
 

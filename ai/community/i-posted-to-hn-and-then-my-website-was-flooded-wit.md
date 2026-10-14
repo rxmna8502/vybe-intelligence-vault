@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://sammystraus.com
 hn_url: https://news.ycombinator.com/item?id=50073221
-score: 149
+score: 226
 author: sammy0910
-comments_count: 85
+comments_count: 140
 published_at: '2026-10-13T20:55:50+05:30'
-collected_at: '2026-10-14T00:54:26.797838+05:30'
+collected_at: '2026-10-14T05:19:45.560564+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:i-posted-to-hn-and-then-my-website-was-flooded-wit
 first_seen: '2026-10-14T00:54:26.797838+05:30'
-last_seen: '2026-10-14T00:54:26.797838+05:30'
-last_checked: '2026-10-14T00:54:26.797838+05:30'
+last_seen: '2026-10-14T05:19:45.560564+05:30'
+last_checked: '2026-10-14T05:19:45.560564+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sammy0910. Score: 149, Comments: 85.
+Hacker News story by sammy0910. Score: 226, Comments: 140.
 Original Link: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sammy0910
-- Score: 149 Upvotes
-- Comments: 85 Discussions
+- Score: 226 Upvotes
+- Comments: 140 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50073221
 - Original Article: https://sammystraus.com
 

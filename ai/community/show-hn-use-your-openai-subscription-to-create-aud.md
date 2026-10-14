@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:show-hn-use-your-openai-subscription-to-create-aud
 first_seen: '2026-10-13T17:25:40.971471+05:30'
 last_seen: '2026-10-14T00:54:28.925768+05:30'
 last_checked: '2026-10-14T00:54:28.925768+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Use your OpenAI subscription to create audiobooks
 
