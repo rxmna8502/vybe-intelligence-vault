@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-engineer-arrested-in-bugging-of-executive-c
 first_seen: '2026-10-14T05:19:45.135032+05:30'
 last_seen: '2026-10-14T10:34:09.742136+05:30'
 last_checked: '2026-10-14T10:34:09.742136+05:30'
 health_score: 100
 ---
+
 
 # OpenAI engineer arrested in bugging of executive conference room
 

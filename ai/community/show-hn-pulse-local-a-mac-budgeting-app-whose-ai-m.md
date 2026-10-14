@@ -13,13 +13,14 @@ collected_at: '2026-10-14T10:34:09.043718+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m
 first_seen: '2026-10-14T05:19:44.909102+05:30'
 last_seen: '2026-10-14T10:34:09.043718+05:30'
 last_checked: '2026-10-14T10:34:09.043718+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:i-built-a-tool-to-track-what-ai-leaders-say-and-ho
 first_seen: '2026-10-14T10:34:07.976510+05:30'
 last_seen: '2026-10-14T10:34:07.976510+05:30'
 last_checked: '2026-10-14T10:34:07.976510+05:30'
 health_score: 100
 ---
+
 
 # I built a tool to track what AI leaders say and how their views change on video
 

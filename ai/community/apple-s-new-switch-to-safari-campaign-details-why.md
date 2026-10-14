@@ -13,13 +13,14 @@ collected_at: '2026-10-14T10:34:08.951467+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:apple-s-new-switch-to-safari-campaign-details-why
 first_seen: '2026-10-14T00:54:28.105182+05:30'
 last_seen: '2026-10-14T10:34:08.951467+05:30'
 last_checked: '2026-10-14T10:34:08.951467+05:30'
 health_score: 100
 ---
+
 
 # Apple's new 'Switch to Safari' campaign details why you should ditch Chrome
 

@@ -32076,6 +32076,7 @@ Resources organized by publisher feed and query sources.
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
+  - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
@@ -32087,7 +32088,6 @@ Resources organized by publisher feed and query sources.
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
-  - [Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md)
   - [Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md)
   - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
@@ -32987,12 +32987,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](../ai/community/apple-s-new-switch-to-safari-campaign-details-why.md)
-  - [I built a tool to track what AI leaders say and how their views change on video](../ai/community/i-built-a-tool-to-track-what-ai-leaders-say-and-ho.md)
-  - [I posted to HN, and then my website was flooded with AI bot traffic](../ai/community/i-posted-to-hn-and-then-my-website-was-flooded-wit.md)
-  - [OpenAI engineer arrested in bugging of executive conference room](../ai/community/openai-engineer-arrested-in-bugging-of-executive-c.md)
-  - [Redesigning source control at Anthropic](../ai/community/redesigning-source-control-at-anthropic.md)
-  - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../ai/community/show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m.md)
+  - [AI Laser Locking for Quantum Computers: How QuEra Automates It](../ai/community/ai-laser-locking-for-quantum-computers-how-quera-a.md)
+  - [Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff](../ai/community/details-leak-from-meeting-where-weiss-s-handpicked.md)
+  - [TV4 postpones show after AI agent erases edited material](../ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -33879,9 +33876,9 @@ Resources organized by publisher feed and query sources.
   - [ThomasTheMaker/ptb-xl-ecg](../ai/models/huggingface-datasets-thomasthemaker.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
+  - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
-  - [ryanmarten/OpenThoughts-1k-sample](../ai/models/huggingface-datasets-ryanmarten.md)
   - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
 
 ## Unknown Source (type: huggingface_model)
@@ -36876,4 +36873,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-14T10:50:36.923321+05:30*
+*Index generated on 2026-10-14T19:38:08.236189+05:30*
