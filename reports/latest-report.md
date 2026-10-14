@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-14T05:41:00.002191+05:30`
+Generated at: `2026-10-14T09:32:37.642560+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **OpenAI engineer arrested in bugging of executive conference room** - Score: `340` in category `ai/community` ([Link](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room)) ([File](../ai/community/openai-engineer-arrested-in-bugging-of-executive-c.md))
-- **Show HN: Parsimony – an open-source benchmark for how much code AI models add** - Score: `32` in category `ai/community` ([Link](https://parsimony.lasu.dev)) ([File](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md))
-- **Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine** - Score: `9` in category `ai/community` ([Link](https://pulseos.finance)) ([File](../ai/community/show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Redesigning source control at Anthropic** - Score: `477` (+271), Rank Change: `+1` ([File](../ai/community/redesigning-source-control-at-anthropic.md))
-- **Apple's new 'Switch to Safari' campaign details why you should ditch Chrome** - Score: `167` (+99), Rank Change: `+1` ([File](../ai/community/apple-s-new-switch-to-safari-campaign-details-why.md))
-- **I posted to HN, and then my website was flooded with AI bot traffic** - Score: `226` (+77), Rank Change: `0` ([File](../ai/community/i-posted-to-hn-and-then-my-website-was-flooded-wit.md))
-- **Character.ai has initiated voluntary Chapter 11 bankruptcy** - Score: `273` (+68), Rank Change: `0` ([File](../ai/community/character-ai-has-initiated-voluntary-chapter-11-ba.md))
-- **How to engineer an AI harness for game development** - Score: `117` (+57), Rank Change: `+1` ([File](../ai/community/how-to-engineer-an-ai-harness-for-game-development.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+1042`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1040`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **Responsible Scaling Policy** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/responsible-scaling-policy.md))
-- **Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md))
-- **Sep 17, 2026AnnouncementsIntroducing the Life Sciences Verification Program** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/sep-17-2026announcementsintroducing-the-life-scien.md))
-- **Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md))
-- **Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md))
-- **Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md))
-- **Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md))
-- **Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission** - (Rank Change: `+83`) ([File](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9284`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1028`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1028`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1028`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1028`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,8 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **AI is a tool and using it well takes skill** (Category: `ai/community`) ([File](../ai/community/ai-is-a-tool-and-using-it-well-takes-skill.md))
-- **Show HN: Use your OpenAI subscription to create audiobooks** (Category: `ai/community`) ([File](../ai/community/show-hn-use-your-openai-subscription-to-create-aud.md))
-- **Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data** (Category: `ai/community`) ([File](../ai/community/launch-hn-consus-yc-f24-llm-gateway-for-companies.md))
-- **Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain** (Category: `ai/community`) ([File](../ai/community/zero-to-calc-in-six-days-inside-xbow-s-chrome-full.md))
-- **Show HN: Deslop – Oxlint rules for AI-generated TypeScript** (Category: `ai/community`) ([File](../ai/community/maharshi365-deslop.md))
+No recently active resources transitioned to inactive.
+
