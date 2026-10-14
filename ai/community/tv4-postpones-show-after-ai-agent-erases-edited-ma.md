@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tv4-postpones-show-after-ai-agent-erases-edited-ma
 first_seen: '2026-10-14T19:21:36.356017+05:30'
 last_seen: '2026-10-15T01:48:54.916524+05:30'
 last_checked: '2026-10-15T01:48:54.916524+05:30'
 health_score: 100
 ---
+
 
 # TV4 postpones show after AI agent erases edited material
 

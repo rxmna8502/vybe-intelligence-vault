@@ -3,7 +3,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Agentic AI Development
 
-- **[AI Coding Agents](../ai-coding-agents/README.md)** (6018 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
+- **[AI Coding Agents](../ai-coding-agents/README.md)** (6017 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
 - **[Agent Instructions](../agent-instructions/README.md)** (16 files): Repository instruction files and coding-agent rule formats such as AGENTS.md, CLAUDE.md, cursor rules, and copilot instructions.
 - **[MCP Registry](../mcp-registry/README.md)** (329 files): Public MCP server registries, MCP server metadata, MCP tool directories, and MCP integration guidance.
 - **[Agent Frameworks](../agent-frameworks/README.md)** (6128 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (241 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-15 02:09 IST*
+*Last updated: 2026-10-15 05:12 IST*

@@ -32987,11 +32987,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
+  - [Anthropic's Scion is heavily inspired by Mononoke](../ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md)
   - [Banks are now trying to offload the AI data center debt they just underwrote](../ai/community/banks-are-now-trying-to-offload-the-ai-data-center.md)
-  - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](../ai/community/graphicle-ai-graphicle.md)
+  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
+  - [Has AI tells](../ai/community/has-ai-tells.md)
   - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
-  - [TV4 postpones show after AI agent erases edited material](../ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -36875,4 +36875,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-15T02:05:37.972904+05:30*
+*Index generated on 2026-10-15T05:08:51.390652+05:30*

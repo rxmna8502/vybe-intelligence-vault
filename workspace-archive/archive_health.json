@@ -1,9 +1,9 @@
 {
   "status": "healthy",
-  "last_generated_at": "2026-10-15T02:09:01.418273+05:30",
-  "total_items": 145295,
+  "last_generated_at": "2026-10-15T05:12:12.880644+05:30",
+  "total_items": 145294,
   "category_counts": {
-    "ai-coding-agents": 6018,
+    "ai-coding-agents": 6017,
     "agent-instructions": 16,
     "mcp-registry": 329,
     "agent-frameworks": 6128,

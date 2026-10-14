@@ -291,7 +291,6 @@ Resources organized by keyword tags.
   - [AI Tour Meeting: Group Travel Planning by LLM Agents](../ai/agents/arxiv-2607-18806.md)
   - [AI Virtue: What is "Good" Knowledge in the Age of Artificial Intelligence?](../ai/agents/arxiv-2607-01776.md)
   - [AI YOU Town: Make Friends and Money with Your Digital Twin](../ai/rag/arxiv-2607-10539.md)
-  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion](../ai/agents/arxiv-2608-26896.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
@@ -1856,6 +1855,7 @@ Resources organized by keyword tags.
   - [Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions](../ai/rag/arxiv-2609-35814.md)
   - [Construting Reverse Thinking: Developing Large Language Models' Reverse Thingking Ability](../ai/rag/arxiv-2609-24760.md)
   - [ContactExplorer: Contact Coverage-Guided Exploration for General-Purpose Dexterous Manipulation](../ai/rag/arxiv-2603-10971.md)
+  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [Context Assembly as the Controlled Variable: A Control-Theoretic View of Harness Policies for Frozen LLM Agents](../ai/agents/arxiv-2607-25408.md)
   - [Context Graphs for Proactive Enterprise Agents](../ai/rag/arxiv-2607-07721.md)
   - [Context Inference Attacks Without Jailbreaks](../ai/agents/arxiv-2609-01663.md)
@@ -6328,7 +6328,6 @@ Resources organized by keyword tags.
   - [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](../ai/agents/arxiv-2609-28372.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
-  - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](../ai/community/graphicle-ai-graphicle.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -6755,7 +6754,6 @@ Resources organized by keyword tags.
   - [TTHE: Test-Time Harness Evolution](../ai/agents/arxiv-2607-08124.md)
   - [TTSE: A Two-Track Online Self-Evolution Framework](../ai/agents/arxiv-2609-24289.md)
   - [TUX: Measuring Human--AI Tacit Understanding](../ai/agents/arxiv-2605-30930.md)
-  - [TV4 postpones show after AI agent erases edited material](../ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)
   - [TXYZ - Integrate all paths to knowledge](../ai/rag/txyz-integrate-all-paths-to-knowledge.md)
   - [TXYZ Launches the Writing Assistant in Its Academic AI Platform](../ai/rag/txyz-launches-the-writing-assistant-in-its-academi.md)
   - [TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models](../ai/agents/arxiv-2609-37989.md)
@@ -8253,10 +8251,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [Banks are now trying to offload the AI data center debt they just underwrote](../ai/community/banks-are-now-trying-to-offload-the-ai-data-center.md)
+  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
+  - [Has AI tells](../ai/community/has-ai-tells.md)
   - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
-  - [TV4 postpones show after AI agent erases edited material](../ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)
 
 ## animation
 
@@ -8358,6 +8356,7 @@ Resources organized by keyword tags.
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
+  - [Anthropic's Scion is heavily inspired by Mononoke](../ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -33322,7 +33321,6 @@ Resources organized by keyword tags.
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
-  - [AI agents aren't 'going rogue.' Frontier labs are skipping security basics](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
@@ -33529,6 +33527,7 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
+  - [Anthropic's Scion is heavily inspired by Mononoke](../ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -34029,6 +34028,7 @@ Resources organized by keyword tags.
   - [Constraint-Driven Model Optimization: An Industry Framework for Selecting Compression and Acceleration Techniques in Modern Machine Learning Systems](../ai/research/arxiv-2607-13735.md)
   - [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](../ai/rag/arxiv-2608-12304.md)
   - [Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage](../ai/rag/arxiv-2606-12767.md)
+  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms](../ai/rag/arxiv-2607-02681.md)
   - [Context-Aware Error Mitigation Orchestration for Hybrid Quantum Reinforcement Learning on NISQ Systems](../ai/research/arxiv-2610-01253.md)
   - [Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech](../ai/research/arxiv-2609-24016.md)
@@ -34896,6 +34896,7 @@ Resources organized by keyword tags.
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
   - [HarvardSites Platform Information Gathering Practices Statement | Harvard Web Publishing](../ai/resources/harvardsites-platform-information-gathering-practi.md)
+  - [Has AI tells](../ai/community/has-ai-tells.md)
   - [Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](../ai/research/arxiv-2607-00143.md)
   - [Haystack Enterprise Starter](../ai/rag/haystack-enterprise-starter.md)
   - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](../ai/research/arxiv-2601-21626.md)
@@ -36415,7 +36416,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](../ai/community/graphicle-ai-graphicle.md)
   - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -36623,7 +36623,6 @@ Resources organized by keyword tags.
   - [TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization](../ai/agents/arxiv-2607-18161.md)
   - [TSP with Predictions: Heatmap to Tour with Provable Guarantees](../ai/research/arxiv-2607-03791.md)
   - [TTNet: Multi-Task Deep Learning for Table Tennis Player Analysis with Smart Racket](../ai/research/arxiv-2610-07823.md)
-  - [TV4 postpones show after AI agent erases edited material](../ai/community/tv4-postpones-show-after-ai-agent-erases-edited-ma.md)
   - [TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../ai/research/arxiv-2606-13054.md)
   - [TXYZ - Integrate all paths to knowledge](../ai/rag/txyz-integrate-all-paths-to-knowledge.md)
   - [TXYZ Launches the Writing Assistant in Its Academic AI Platform](../ai/rag/txyz-launches-the-writing-assistant-in-its-academi.md)
@@ -37264,6 +37263,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -76682,4 +76682,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-15T02:05:37.560017+05:30*
+*Index generated on 2026-10-15T05:08:50.982632+05:30*
