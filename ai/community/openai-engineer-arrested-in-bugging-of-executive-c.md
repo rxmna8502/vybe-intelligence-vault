@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room
 hn_url: https://news.ycombinator.com/item?id=50078141
-score: 340
+score: 487
 author: forthwall
-comments_count: 299
+comments_count: 422
 published_at: '2026-10-14T01:53:55+05:30'
-collected_at: '2026-10-14T05:19:45.135032+05:30'
+collected_at: '2026-10-14T10:34:09.742136+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:openai-engineer-arrested-in-bugging-of-executive-c
 first_seen: '2026-10-14T05:19:45.135032+05:30'
-last_seen: '2026-10-14T05:19:45.135032+05:30'
-last_checked: '2026-10-14T05:19:45.135032+05:30'
+last_seen: '2026-10-14T10:34:09.742136+05:30'
+last_checked: '2026-10-14T10:34:09.742136+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by forthwall. Score: 340, Comments: 299.
+Hacker News story by forthwall. Score: 487, Comments: 422.
 Original Link: https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: forthwall
-- Score: 340 Upvotes
-- Comments: 299 Discussions
+- Score: 487 Upvotes
+- Comments: 422 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50078141
 - Original Article: https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room
 

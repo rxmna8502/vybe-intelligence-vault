@@ -32988,12 +32988,10 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](../ai/community/apple-s-new-switch-to-safari-campaign-details-why.md)
-  - [Character.ai has initiated voluntary Chapter 11 bankruptcy](../ai/community/character-ai-has-initiated-voluntary-chapter-11-ba.md)
-  - [How to engineer an AI harness for game development](../ai/community/how-to-engineer-an-ai-harness-for-game-development.md)
+  - [I built a tool to track what AI leaders say and how their views change on video](../ai/community/i-built-a-tool-to-track-what-ai-leaders-say-and-ho.md)
   - [I posted to HN, and then my website was flooded with AI bot traffic](../ai/community/i-posted-to-hn-and-then-my-website-was-flooded-wit.md)
   - [OpenAI engineer arrested in bugging of executive conference room](../ai/community/openai-engineer-arrested-in-bugging-of-executive-c.md)
   - [Redesigning source control at Anthropic](../ai/community/redesigning-source-control-at-anthropic.md)
-  - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md)
   - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../ai/community/show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m.md)
 
 ## Unknown Source (type: huggingface)
@@ -36878,4 +36876,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-14T05:36:23.040944+05:30*
+*Index generated on 2026-10-14T10:50:36.923321+05:30*

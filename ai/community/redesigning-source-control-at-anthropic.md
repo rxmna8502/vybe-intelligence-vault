@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://anthropic.com/engineering/redesigning-source-control
 hn_url: https://news.ycombinator.com/item?id=50073633
-score: 477
+score: 638
 author: Philpax
-comments_count: 474
+comments_count: 612
 published_at: '2026-10-13T21:19:56+05:30'
-collected_at: '2026-10-14T05:19:44.353981+05:30'
+collected_at: '2026-10-14T10:34:08.064530+05:30'
 tags:
 - anthropic
 - hackernews
 status: active
 resource_id: hackernews:redesigning-source-control-at-anthropic
 first_seen: '2026-10-14T00:54:26.583114+05:30'
-last_seen: '2026-10-14T05:19:44.353981+05:30'
-last_checked: '2026-10-14T05:19:44.353981+05:30'
+last_seen: '2026-10-14T10:34:08.064530+05:30'
+last_checked: '2026-10-14T10:34:08.064530+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Philpax. Score: 477, Comments: 474.
+Hacker News story by Philpax. Score: 638, Comments: 612.
 Original Link: https://www.anthropic.com/engineering/redesigning-source-control
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Philpax
-- Score: 477 Upvotes
-- Comments: 474 Discussions
+- Score: 638 Upvotes
+- Comments: 612 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50073633
 - Original Article: https://anthropic.com/engineering/redesigning-source-control
 

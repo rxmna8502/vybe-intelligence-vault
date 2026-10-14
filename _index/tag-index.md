@@ -8251,11 +8251,9 @@ Resources organized by keyword tags.
 ## ai
 
   - [Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](../ai/community/apple-s-new-switch-to-safari-campaign-details-why.md)
-  - [Character.ai has initiated voluntary Chapter 11 bankruptcy](../ai/community/character-ai-has-initiated-voluntary-chapter-11-ba.md)
-  - [How to engineer an AI harness for game development](../ai/community/how-to-engineer-an-ai-harness-for-game-development.md)
+  - [I built a tool to track what AI leaders say and how their views change on video](../ai/community/i-built-a-tool-to-track-what-ai-leaders-say-and-ho.md)
   - [I posted to HN, and then my website was flooded with AI bot traffic](../ai/community/i-posted-to-hn-and-then-my-website-was-flooded-wit.md)
   - [OpenAI engineer arrested in bugging of executive conference room](../ai/community/openai-engineer-arrested-in-bugging-of-executive-c.md)
-  - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md)
   - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../ai/community/show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m.md)
 
 ## animation
@@ -8644,7 +8642,6 @@ Resources organized by keyword tags.
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How a shared state is described determines whether AI agents synchronize](../ai/agents/arxiv-2608-06968.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
-  - [How to engineer an AI harness for game development](../ai/community/how-to-engineer-an-ai-harness-for-game-development.md)
   - [HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants](../ai/rag/arxiv-2509-08494.md)
   - [HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools](../ai/research/arxiv-2605-17106.md)
   - [IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO](../ai/agents/arxiv-2606-23032.md)
@@ -20630,7 +20627,6 @@ Resources organized by keyword tags.
   - [Shot-based quantum encoding: a data-loading paradigm for quantum neural networks](../ai/research/arxiv-2604-06135.md)
   - [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](../ai/research/arxiv-2601-23232.md)
   - [Should I stay or should I show? Learning to selectively disclose information](../ai/research/arxiv-2609-39818.md)
-  - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md)
   - [ShuttleArena: Interpretable Self-Play in Physics-Based Badminton](../ai/agents/arxiv-2608-25246.md)
   - [Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](../ai/rag/arxiv-2512-18021.md)
   - [SiST-GNN: Simultaneous Spatial-Temporal Message Passing for Dynamic Graph Representation Learning](../ai/rag/arxiv-2605-25548.md)
@@ -28734,6 +28730,7 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -33893,7 +33890,6 @@ Resources organized by keyword tags.
   - [Channel-Adaptive Edge AI: Maximizing Inference Throughput by Adapting Computational Complexity to Channel States](../ai/rag/arxiv-2603-03146.md)
   - [Channel-Dependent State Space Model for Multivariate Time Series Forecasting](../ai/rag/arxiv-2609-36453.md)
   - [Chapter 1 - Circular 92 | U.S. Copyright Office](../ai/rag/chapter-1-circular-92-u-s-copyright-office.md)
-  - [Character.ai has initiated voluntary Chapter 11 bankruptcy](../ai/community/character-ai-has-initiated-voluntary-chapter-11-ba.md)
   - [Characterizing Earth’s damping mechanisms | MIT News | Massachusetts Institute of Technology](../ai/rag/characterizing-earths-damping-mechanisms-mit-news.md)
   - [Charity Navigator - GuideStar Profile](../ai/resources/charity-navigator-guidestar-profile.md)
   - [Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits](../ai/research/arxiv-2608-02955.md)
@@ -34986,7 +34982,6 @@ Resources organized by keyword tags.
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
-  - [How to engineer an AI harness for game development](../ai/community/how-to-engineer-an-ai-harness-for-game-development.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to train your model organism](../ai/agents/arxiv-2610-10203.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
@@ -35015,6 +35010,7 @@ Resources organized by keyword tags.
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
   - [Hypothesis-guided discovery of cognitive algorithms via program refinement](../ai/agents/arxiv-2610-02523.md)
+  - [I built a tool to track what AI leaders say and how their views change on video](../ai/community/i-built-a-tool-to-track-what-ai-leaders-say-and-ho.md)
   - [I posted to HN, and then my website was flooded with AI bot traffic](../ai/community/i-posted-to-hn-and-then-my-website-was-flooded-wit.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
@@ -36422,7 +36418,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Parsimony – an open-source benchmark for how much code AI models add](../ai/community/show-hn-parsimony-an-open-source-benchmark-for-how.md)
   - [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](../ai/community/show-hn-pulse-local-a-mac-budgeting-app-whose-ai-m.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -37270,7 +37265,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -73179,7 +73173,6 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../ai/rag/langchain-ai-deepagents.md)
@@ -74760,6 +74753,7 @@ Resources organized by keyword tags.
   - [HyperVAttention: Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion](../ai/rag/arxiv-2607-03012.md)
   - [Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection](../ai/agents/arxiv-2603-25255.md)
   - [I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning](../ai/rag/arxiv-2608-07417.md)
+  - [I built a tool to track what AI leaders say and how their views change on video](../ai/community/i-built-a-tool-to-track-what-ai-leaders-say-and-ho.md)
   - [I code or AI code: A comparative evaluation of AI-rated scores in classroom observations](../ai/research/arxiv-2609-18274.md)
   - [I2VShield: An Efficient Proactive Defense Framework against DiT-based Image-to-Video Models](../ai/research/arxiv-2607-25522.md)
   - [IC3 – The Initiative for Cryptocurrencies and Contracts – Advancing the science and applications of blockchains](../ai/resources/ic3-the-initiative-for-cryptocurrencies-and-contra.md)
@@ -76690,4 +76684,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-14T05:36:22.635791+05:30*
+*Index generated on 2026-10-14T10:50:36.519784+05:30*

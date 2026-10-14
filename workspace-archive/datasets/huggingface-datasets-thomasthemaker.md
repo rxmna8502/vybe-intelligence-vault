@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: ThomasTheMaker/ptb-xl-ecg (Likes: 5, Downloads: 1075764)
+Trending Hugging Face dataset: ThomasTheMaker/ptb-xl-ecg (Likes: 6, Downloads: 1075764)
 
 ## Use Cases
 

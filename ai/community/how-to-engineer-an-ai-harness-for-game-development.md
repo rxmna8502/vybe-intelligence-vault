@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-to-engineer-an-ai-harness-for-game-development
 first_seen: '2026-10-14T00:54:28.510850+05:30'
 last_seen: '2026-10-14T05:19:47.603513+05:30'
 last_checked: '2026-10-14T05:19:47.603513+05:30'
 health_score: 100
 ---
+
 
 # How to engineer an AI harness for game development
 
