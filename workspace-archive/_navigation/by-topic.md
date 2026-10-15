@@ -13,15 +13,15 @@ This index groups the workspace archive categories into high-level thematic clus
 
 - **[RAG Systems](../rag-systems/README.md)** (33961 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
 - **[Vector Databases](../vector-databases/README.md)** (11562 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
-- **[Datasets](../datasets/README.md)** (22609 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
+- **[Datasets](../datasets/README.md)** (22610 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (33480 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (33479 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1810 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (18630 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
 - **[Model Providers](../model-providers/README.md)** (3290 files): Public metadata and documentation links for model APIs and provider ecosystems.
-- **[Inference and Local LLM](../inference-local-llm/README.md)** (1669 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
+- **[Inference and Local LLM](../inference-local-llm/README.md)** (1670 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
 
@@ -38,10 +38,10 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Career Track & Startup Engineering
 
-- **[Learning Paths](../learning-paths/README.md)** (142 files): Roadmaps and project-based learning paths for AI engineering, RAG, agents, frontend, 3D web, and automation.
+- **[Learning Paths](../learning-paths/README.md)** (141 files): Roadmaps and project-based learning paths for AI engineering, RAG, agents, frontend, 3D web, and automation.
 - **[Project Ideas](../project-ideas/README.md)** (110 files): Project ideas for AI apps, RAG systems, agents, automations, 3D web experiences, and full-stack AI products.
 - **[Jobs and Market](../jobs-market/README.md)** (15 files): AI job descriptions, skill frequency, salary signals, role requirements, hiring trends, and portfolio requirements.
 - **[Startup Builder](../startup-builder/README.md)** (245 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-16 01:50 IST*
+*Last updated: 2026-10-16 04:56 IST*

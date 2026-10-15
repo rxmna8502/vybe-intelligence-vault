@@ -13,13 +13,14 @@ collected_at: '2026-10-16T01:29:51.803840+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:why-we-re-banning-ai
 first_seen: '2026-10-16T01:29:51.803840+05:30'
 last_seen: '2026-10-16T01:29:51.803840+05:30'
 last_checked: '2026-10-16T01:29:51.803840+05:30'
 health_score: 100
 ---
+
 
 # Why We're Banning AI
 

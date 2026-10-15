@@ -34538,9 +34538,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [More on Anthropic's Scion ripping off Mononoke](../ai/community/more-on-anthropic-s-scion-ripping-off-mononoke.md)
   - [Simons Foundation launches $15M effort to help mathematicians navigate AI era](../ai/community/simons-foundation-launches-15m-effort-to-help-math.md)
-  - [Why We're Banning AI](../ai/community/why-we-re-banning-ai.md)
+  - [The 8-mile hole in a Hawaii national park that no one can explain](../ai/community/the-8-mile-hole-in-a-hawaii-national-park-that-no.md)
+  - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -34853,6 +34853,7 @@ Resources organized by publisher feed and query sources.
   - [Granite 4.1 LLMs: How They’re Built](../ai/models/huggingface-blog-ibm-granite-granite-4-1.md)
   - [Granite 4.2 LLMs: How They're Built](../ai/models/huggingface-blog-ibm-granite-granite-4-2.md)
   - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md)
+  - [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](../ai/models/huggingface-blog-ibm-granite-granite-switch-4-1.md)
   - [Graph Classification with Transformers](../ai/models/huggingface-blog-graphml-classification.md)
   - [Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](../ai/models/huggingface-blog-graphcore-update.md)
   - [Groq on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-groq.md)
@@ -38427,4 +38428,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-16T01:46:40.256303+05:30*
+*Index generated on 2026-10-16T04:55:03.342652+05:30*

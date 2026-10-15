@@ -8706,7 +8706,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [Simons Foundation launches $15M effort to help mathematicians navigate AI era](../ai/community/simons-foundation-launches-15m-effort-to-help-math.md)
-  - [Why We're Banning AI](../ai/community/why-we-re-banning-ai.md)
+  - [The 8-mile hole in a Hawaii national park that no one can explain](../ai/community/the-8-mile-hole-in-a-hawaii-national-park-that-no.md)
+  - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
 
 ## animation
 
@@ -9228,7 +9229,6 @@ Resources organized by keyword tags.
   - [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)
   - [Monitor agent usage with OpenTelemetry](../ai/agents/monitor-agent-usage-with-opentelemetry.md)
   - [Moral Hazard in Multi-Agent Language Models](../ai/agents/arxiv-2607-23982.md)
-  - [More on Anthropic's Scion ripping off Mononoke](../ai/community/more-on-anthropic-s-scion-ripping-off-mononoke.md)
   - [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md)
   - [MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents](../ai/agents/arxiv-2606-16748.md)
   - [NEST: Nascent Encoded Steganographic Thoughts](../ai/agents/arxiv-2602-14095.md)
@@ -37101,7 +37101,6 @@ Resources organized by keyword tags.
   - [Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning](../ai/research/arxiv-2609-31121.md)
   - [Monsoonal imprint on late Quaternary landscapes of the Rub’ al Khali Desert | Communications Earth & Environment](../ai/rag/monsoonal-imprint-on-late-quaternary-landscapes-of.md)
   - [Moral Attitudes of Sentient ASI towards Humanity and Implications for AGI Development](../ai/research/arxiv-2607-14998.md)
-  - [More on Anthropic's Scion ripping off Mononoke](../ai/community/more-on-anthropic-s-scion-ripping-off-mononoke.md)
   - [Motion Attribution for Video Generation](../ai/research/arxiv-2601-08828.md)
   - [MotionCoach: Constructing Multimodal Guidance for Video Professional Motion Editing](../ai/agents/arxiv-2610-12963.md)
   - [Mozilla Hacks - YouTube](../ai/rag/mozilla-hacks-youtube.md)
@@ -38238,6 +38237,7 @@ Resources organized by keyword tags.
   - [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md)
   - [ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures](../ai/rag/arxiv-2607-17091.md)
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
+  - [The 8-mile hole in a Hawaii national park that no one can explain](../ai/community/the-8-mile-hole-in-a-hawaii-national-park-that-no.md)
   - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](../ai/rag/arxiv-2610-01539.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
@@ -38561,6 +38561,7 @@ Resources organized by keyword tags.
   - [User types—ArcGIS Online Help | Documentation](../ai/resources/user-types-arcgis-online-help-documentation.md)
   - [UserSim - User Simulation for System Evaluation](../ai/resources/usersim-user-simulation-for-system-evaluation.md)
   - [UserWay | Web Accessibility Solutions](../ai/rag/userway-web-accessibility-solutions.md)
+  - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
   - [Using Composition Operators to Linearize LLM Semantic Transformations](../ai/research/arxiv-2609-22143.md)
   - [Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey](../ai/research/arxiv-2605-01392.md)
   - [Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models](../ai/rag/arxiv-2503-06269.md)
@@ -38705,7 +38706,6 @@ Resources organized by keyword tags.
   - [Why Fast-Growing Teams Outgrow Spreadsheets | beezwax blog](../ai/rag/why-fast-growing-teams-outgrow-spreadsheets-beezwa.md)
   - [Why Git Is the Memory Solution for the Agentic Development Lifecycle](../ai/agents/arxiv-2607-14390.md)
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
-  - [Why We're Banning AI](../ai/community/why-we-re-banning-ai.md)
   - [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](../ai/research/arxiv-2608-26182.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
   - [Why not to use the Gaussian kernel](../ai/research/arxiv-2608-26974.md)
@@ -79563,4 +79563,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-16T01:46:39.809516+05:30*
+*Index generated on 2026-10-16T04:55:03.073668+05:30*
