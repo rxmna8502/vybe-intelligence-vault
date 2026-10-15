@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-15T19:24:33.654101+05:30`
+Generated at: `2026-10-15T22:45:52.370543+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Apertus 1.5 Release Notes** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)) ([File](../ai/models/huggingface-blog-swiss-ai-apertus-v15-release-notes.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **LFM2.5-24B-A2B: Built for fast on-device agents** - Score: `249` (+128), Rank Change: `+2` ([File](../ai/community/lfm2-5-24b-a2b-built-for-fast-on-device-agents.md))
-- **GoogleCloudPlatform/agent-starter-pack** - Score: `0` (0), Rank Change: `+14123` ([File](../ai/agents/googlecloudplatform-agent-starter-pack.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+2881` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **duanyytop/agents-radar** - Score: `0` (0), Rank Change: `+14010` ([File](../ai/agents/duanyytop-agents-radar.md))
-- **Ais1on/CTI-RAG** - Score: `0` (0), Rank Change: `+20722` ([File](../ai/rag/ais1on-cti-rag.md))
-- **raga-ai-hub/raga-llm-hub** - Score: `0` (0), Rank Change: `+14025` ([File](../ai/rag/raga-ai-hub-raga-llm-hub.md))
-- **devloperdevesh/EnterpriseRAG-AI** - Score: `0` (0), Rank Change: `+2581` ([File](../ai/rag/devloperdevesh-enterpriserag-ai.md))
-- **IntelLabs/fastRAG** - Score: `0` (0), Rank Change: `+2581` ([File](../ai/rag/intellabs-fastrag.md))
-- **onyx-dot-app/EnterpriseRAG-Bench** - Score: `0` (0), Rank Change: `+14027` ([File](../ai/rag/onyx-dot-app-enterpriserag-bench.md))
-- **bangoc123/retrieval-backend-with-rag** - Score: `0` (0), Rank Change: `+11903` ([File](../ai/rag/bangoc123-retrieval-backend-with-rag.md))
+- **Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/arxiv-2610-12445.md))
+- **Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/arxiv-2610-12355.md))
+- **HWAM: Humanoid World Action Model With Joint State--Action Generation** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/research/arxiv-2610-12026.md))
+- **Stochastic Grouping Conformal Prediction for Effective Subgroup Reliability** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/arxiv-2610-11957.md))
+- **One Skill Too Many: How Co-Installed Skills Conflict in Coding Agents** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/agents/arxiv-2610-11647.md))
+- **Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/arxiv-2610-11454.md))
+- **REMORY: Learning Residual Memory for Context Compaction** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/arxiv-2610-11287.md))
+- **Continuous Ground-Truth Construction and a Recovery Policy for Air--Water Robotic Tracking** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/rag/arxiv-2610-11096.md))
+- **AffordDrive3D: Affordance-Aware World-Action Modeling with Spatial Understanding** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/agents/arxiv-2610-11060.md))
+- **Grammar Concept Annotation at Scale: Deployed Fine-Tuned Small Language Models Outperform Prompted Frontier Models** - Score: `0` (0), Rank Change: `+1028` ([File](../ai/research/arxiv-2610-10827.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Ais1on/CTI-RAG** - (Rank Change: `+20722`) ([File](../ai/rag/ais1on-cti-rag.md))
-- **GoogleCloudPlatform/agent-starter-pack** - (Rank Change: `+14123`) ([File](../ai/agents/googlecloudplatform-agent-starter-pack.md))
-- **onyx-dot-app/EnterpriseRAG-Bench** - (Rank Change: `+14027`) ([File](../ai/rag/onyx-dot-app-enterpriserag-bench.md))
-- **raga-ai-hub/raga-llm-hub** - (Rank Change: `+14025`) ([File](../ai/rag/raga-ai-hub-raga-llm-hub.md))
-- **duanyytop/agents-radar** - (Rank Change: `+14010`) ([File](../ai/agents/duanyytop-agents-radar.md))
-- **bangoc123/retrieval-backend-with-rag** - (Rank Change: `+11903`) ([File](../ai/rag/bangoc123-retrieval-backend-with-rag.md))
-- **langchain-ai/rag-research-agent-template** - (Rank Change: `+4690`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
-- **NirDiamant/GenAI_Agents** - (Rank Change: `+2881`) ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **devloperdevesh/EnterpriseRAG-AI** - (Rank Change: `+2581`) ([File](../ai/rag/devloperdevesh-enterpriserag-ai.md))
-- **IntelLabs/fastRAG** - (Rank Change: `+2581`) ([File](../ai/rag/intellabs-fastrag.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9287`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1031`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1031`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1031`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1031`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1031`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1031`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1031`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1031`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1031`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Containment and monitoring failures are to blame for AI hacking reports: experts** (Category: `ai/community`) ([File](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md))
-- **Anthropic's Scion is heavily inspired by Mononoke** (Category: `ai/community`) ([File](../ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md))
-- **Has AI tells** (Category: `ai/community`) ([File](../ai/community/has-ai-tells.md))
-- **Show HN: I wrote an email app that accepts only one sender per inbox** (Category: `ai/community`) ([File](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md))
+No recently active resources transitioned to inactive.
+
