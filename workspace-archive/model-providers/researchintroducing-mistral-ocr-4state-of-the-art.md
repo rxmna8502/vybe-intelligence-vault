@@ -1,6 +1,6 @@
 ---
 title: ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June
-  23, 2026By Mistral AI
+  23, 2026By Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/ocr-4
@@ -21,7 +21,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI
+# ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral
 
 ## Why This Is In The Archive
 
@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral AI
+Recent update from Mistral AI News Blog: ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral
 
 ## Use Cases
 

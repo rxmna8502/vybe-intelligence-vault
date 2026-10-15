@@ -33623,24 +33623,24 @@ Resources organized by publisher feed and query sources.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
-  - [Latest research](../ai/companies/mistral/latest-research.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md)
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
   - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
+  - [Oct 15, 2026AnnouncementsAn update on independent evaluators](../ai/companies/anthropic/oct-15-2026announcementsan-update-on-independent-e.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
   - [Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
+  - [ResearchIntroducing Mistral OCR 4State of the art document intelligence model.June 23, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-ocr-4state-of-the-art.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
-  - [Sep 18, 2026Announcements Partnering with Accenture on embedded evaluation](../ai/companies/anthropic/sep-18-2026announcements-partnering-with-accenture.md)
   - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
@@ -34538,7 +34538,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [LFM2.5-24B-A2B: Built for fast on-device agents](../ai/community/lfm2-5-24b-a2b-built-for-fast-on-device-agents.md)
+  - [More on Anthropic's Scion ripping off Mononoke](../ai/community/more-on-anthropic-s-scion-ripping-off-mononoke.md)
+  - [Simons Foundation launches $15M effort to help mathematicians navigate AI era](../ai/community/simons-foundation-launches-15m-effort-to-help-math.md)
+  - [Why We're Banning AI](../ai/community/why-we-re-banning-ai.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -35358,6 +35360,7 @@ Resources organized by publisher feed and query sources.
   - [We got local models to triage the OpenClaw repo for FREE!*](../ai/models/huggingface-blog-local-models-pr-triage.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
   - [Welcome EmbeddingGemma, Google's new efficient embedding model](../ai/models/huggingface-blog-embeddinggemma.md)
+  - [Welcome FLUX.3 Image Klein in Diffusers](../ai/models/huggingface-blog-flux-3.md)
   - [Welcome Falcon Mamba: The first strong attention-free 7B model](../ai/models/huggingface-blog-falconmamba.md)
   - [Welcome Fireworks.ai on the Hub 🎆](../ai/models/huggingface-blog-fireworks-ai.md)
   - [Welcome GPT OSS, the new open-source model family from OpenAI!](../ai/models/huggingface-blog-welcome-openai-gpt-oss.md)
@@ -35368,6 +35371,7 @@ Resources organized by publisher feed and query sources.
   - [Welcome Llama 3 - Meta's new open LLM](../ai/models/huggingface-blog-llama3.md)
   - [Welcome Llama 4 Maverick & Scout on Hugging Face](../ai/models/huggingface-blog-llama4-release.md)
   - [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](../ai/models/huggingface-blog-mixtral.md)
+  - [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](../ai/models/huggingface-blog-meta-muse-spark-open.md)
   - [Welcome PaddlePaddle to the Hugging Face Hub](../ai/models/huggingface-blog-paddlepaddle.md)
   - [Welcome PaliGemma 2 – New vision language models by Google](../ai/models/huggingface-blog-paligemma2.md)
   - [Welcome RL Environments to the hub](../ai/models/huggingface-blog-rl-environments.md)
@@ -38423,4 +38427,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-15T19:20:44.213141+05:30*
+*Index generated on 2026-10-16T01:46:40.256303+05:30*

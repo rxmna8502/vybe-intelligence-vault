@@ -13,13 +13,14 @@ collected_at: '2026-10-15T19:03:55.834043+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:lfm2-5-24b-a2b-built-for-fast-on-device-agents
 first_seen: '2026-10-15T10:22:25.971728+05:30'
 last_seen: '2026-10-15T19:03:55.834043+05:30'
 last_checked: '2026-10-15T19:03:55.834043+05:30'
 health_score: 100
 ---
+
 
 # LFM2.5-24B-A2B: Built for fast on-device agents
 
