@@ -1,153 +1,6 @@
 {
-  "generated_at": "2026-10-15T10:53:45.810798+05:30",
+  "generated_at": "2026-10-15T15:27:02.828105+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:anthropic-s-scion-is-heavily-inspired-by-mononoke",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke",
-      "file_path": "ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md",
-      "score": 315,
-      "score_change": 114,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:has-ai-tells",
-      "title": "Has AI tells",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "file_path": "ai/community/has-ai-tells.md",
-      "score": 97,
-      "score_change": 36,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:show-hn-i-wrote-an-email-app-that-accepts-only-one",
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://clova.email",
-      "file_path": "ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md",
-      "score": 94,
-      "score_change": 27,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1039,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:sylphai-inc/githubchat",
-      "title": "SylphAI-Inc/GithubChat",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/sylphai-inc/githubchat",
-      "file_path": "ai/rag/sylphai-inc-githubchat.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1027,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1039,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:sylphai-inc/githubchat",
-      "title": "SylphAI-Inc/GithubChat",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/sylphai-inc/githubchat",
-      "file_path": "ai/rag/sylphai-inc-githubchat.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1027,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:anthropic-s-scion-is-heavily-inspired-by-mononoke",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke",
-      "file_path": "ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md",
-      "score": 315,
-      "score_change": 114,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:has-ai-tells",
-      "title": "Has AI tells",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "file_path": "ai/community/has-ai-tells.md",
-      "score": 97,
-      "score_change": 36,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:containment-and-monitoring-failures-are-to-blame-f",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "file_path": "ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md",
-      "score": 854,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:lfm2-5-24b-a2b-built-for-fast-on-device-agents",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://liquid.ai/blog/lfm2-5-24b-a2b",
-      "file_path": "ai/community/lfm2-5-24b-a2b-built-for-fast-on-device-agents.md",
-      "score": 121,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2610.12445",
       "title": "Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
@@ -157,8 +10,8 @@
       "file_path": "ai/rag/arxiv-2610-12445.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -170,8 +23,8 @@
       "file_path": "ai/rag/arxiv-2610-12355.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -183,8 +36,8 @@
       "file_path": "ai/research/arxiv-2610-12026.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -196,8 +49,8 @@
       "file_path": "ai/rag/arxiv-2610-11957.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -209,8 +62,8 @@
       "file_path": "ai/agents/arxiv-2610-11647.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -222,8 +75,8 @@
       "file_path": "ai/rag/arxiv-2610-11454.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -235,8 +88,8 @@
       "file_path": "ai/rag/arxiv-2610-11287.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -248,8 +101,8 @@
       "file_path": "ai/rag/arxiv-2610-11096.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -261,8 +114,8 @@
       "file_path": "ai/agents/arxiv-2610-11060.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -274,43 +127,151 @@
       "file_path": "ai/research/arxiv-2610-10827.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 20,
+      "new_resource": false,
       "tier": "tier-3"
-    },
+    }
+  ],
+  "fastest_rising_tools": [
     {
-      "id": "arxiv:2610.10787",
-      "title": "NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2610.10787",
-      "file_path": "ai/agents/arxiv-2610-10787.md",
+      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+      "title": "Medium Privacy Policy | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 9286,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2610.10226",
-      "title": "Why Software Engineering Is Indispensable in the Age of Coding Agents",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2610.10226",
-      "file_path": "ai/agents/arxiv-2610-10226.md",
+      "id": "github:microsoft/rag-time",
+      "title": "microsoft/rag-time",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/rag-time",
+      "file_path": "ai/rag/microsoft-rag-time.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 1030,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2610.09513",
-      "title": "OmniCam: Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token Learning",
+      "id": "arxiv:2608.02392",
+      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2610.09513",
-      "file_path": "ai/research/arxiv-2610-09513.md",
+      "url": "https://arxiv.org/abs/2608.02392",
+      "file_path": "ai/research/arxiv-2608-02392.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02046",
+      "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.02046",
+      "file_path": "ai/rag/arxiv-2608-02046.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01791",
+      "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01791",
+      "file_path": "ai/rag/arxiv-2608-01791.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01207",
+      "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01207",
+      "file_path": "ai/rag/arxiv-2608-01207.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.23462",
+      "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.23462",
+      "file_path": "ai/research/arxiv-2606-23462.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.22216",
+      "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.22216",
+      "file_path": "ai/research/arxiv-2606-22216.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2605.27882",
+      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2605.27882",
+      "file_path": "ai/agents/arxiv-2605-27882.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -318,16 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:banks-are-now-trying-to-offload-the-ai-data-center",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
-      "file_path": "ai/community/banks-are-now-trying-to-offload-the-ai-data-center.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
