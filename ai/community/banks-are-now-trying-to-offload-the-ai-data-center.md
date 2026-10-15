@@ -13,13 +13,14 @@ collected_at: '2026-10-15T04:52:20.117508+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:banks-are-now-trying-to-offload-the-ai-data-center
 first_seen: '2026-10-15T01:48:51.296581+05:30'
 last_seen: '2026-10-15T04:52:20.117508+05:30'
 last_checked: '2026-10-15T04:52:20.117508+05:30'
 health_score: 100
 ---
+
 
 # Banks are now trying to offload the AI data center debt they just underwrote
 
