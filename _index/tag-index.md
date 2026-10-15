@@ -1955,7 +1955,6 @@ Resources organized by keyword tags.
   - [Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions](../ai/rag/arxiv-2609-35814.md)
   - [Construting Reverse Thinking: Developing Large Language Models' Reverse Thingking Ability](../ai/rag/arxiv-2609-24760.md)
   - [ContactExplorer: Contact Coverage-Guided Exploration for General-Purpose Dexterous Manipulation](../ai/rag/arxiv-2603-10971.md)
-  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [Context Assembly as the Controlled Variable: A Control-Theoretic View of Harness Policies for Frozen LLM Agents](../ai/agents/arxiv-2607-25408.md)
   - [Context Graphs for Proactive Enterprise Agents](../ai/rag/arxiv-2607-07721.md)
   - [Context Inference Attacks Without Jailbreaks](../ai/agents/arxiv-2609-01663.md)
@@ -8705,12 +8704,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## ai
-
-  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
-  - [Has AI tells](../ai/community/has-ai-tells.md)
-  - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
-
 ## animation
 
   - ["Same-site" and "same-origin" | Articles | web.dev](../web-development/same-site-and-same-origin-articles-web-dev.md)
@@ -8814,7 +8807,6 @@ Resources organized by keyword tags.
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
-  - [Anthropic's Scion is heavily inspired by Mononoke](../ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -30098,6 +30090,7 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -35027,7 +35020,6 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic's Scion is heavily inspired by Mononoke](../ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -35533,7 +35525,6 @@ Resources organized by keyword tags.
   - [Constraint-Driven Model Optimization: An Industry Framework for Selecting Compression and Acceleration Techniques in Modern Machine Learning Systems](../ai/research/arxiv-2607-13735.md)
   - [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](../ai/rag/arxiv-2608-12304.md)
   - [Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage](../ai/rag/arxiv-2606-12767.md)
-  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
   - [Contaminated Multi-task Learning with Heterogeneity: Fundamental Limits and Optimal Algorithms](../ai/rag/arxiv-2607-02681.md)
   - [Context-Aware Error Mitigation Orchestration for Hybrid Quantum Reinforcement Learning on NISQ Systems](../ai/research/arxiv-2610-01253.md)
   - [Context-Aware Pre-Deployment Evaluation of AI Systems: A Regulatory Framework for Nigerian Fintech](../ai/research/arxiv-2609-24016.md)
@@ -36423,7 +36414,6 @@ Resources organized by keyword tags.
   - [Harvard Digital Accessibility Policy revised, expanded — Harvard Gazette](../ai/resources/harvard-digital-accessibility-policy-revised-expan.md)
   - [Harvard University Digital Accessibility Policy | Digital Accessibility​ Services](../ai/rag/harvard-university-digital-accessibility-policy-di.md)
   - [HarvardSites Platform Information Gathering Practices Statement | Harvard Web Publishing](../ai/resources/harvardsites-platform-information-gathering-practi.md)
-  - [Has AI tells](../ai/community/has-ai-tells.md)
   - [Hate Speech Detection in Turkish and Arabic: A Comprehensive Study](../ai/research/arxiv-2607-00143.md)
   - [Haystack Enterprise Starter](../ai/rag/haystack-enterprise-starter.md)
   - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](../ai/research/arxiv-2601-21626.md)
@@ -37969,7 +37959,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -38962,7 +38951,6 @@ Resources organized by keyword tags.
   - [pydata/pydata-sphinx-theme](../ai/rag/pydata-pydata-sphinx-theme.md)
   - [quantization — Sentence Transformers documentation](../ai/rag/quantization-sentence-transformers-documentation.md)
   - [rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference](../ai/research/arxiv-2609-19104.md)
-  - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
   - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../ai/research/arxiv-2602-07832.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -74715,7 +74703,6 @@ Resources organized by keyword tags.
   - [Google Research · GitHub](../ai/resources/google-research-github.md)
   - [Google Workspace Learning Center](../ai/rag/google-workspace-learning-center.md)
   - [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md)
-  - [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md)
   - [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](../ai/research/arxiv-2608-18324.md)
   - [Governing Execution Risk in Agentic AI Systems: A Trajectory-Guided Framework for Red Teaming](../ai/agents/arxiv-2608-04018.md)
   - [Governing Generative AI Across Financial Institutions: A Framework for Generative AI Risk Control](../ai/agents/arxiv-2607-04103.md)
@@ -76041,7 +76028,7 @@ Resources organized by keyword tags.
   - [python-poetry/poetry](../ai/resources/python-poetry-poetry.md)
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
-  - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
+  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -79569,4 +79556,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-15T10:48:54.475196+05:30*
+*Index generated on 2026-10-15T19:20:43.731360+05:30*

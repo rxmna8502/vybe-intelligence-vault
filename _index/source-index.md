@@ -34538,11 +34538,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic's Scion is heavily inspired by Mononoke](../ai/community/anthropic-s-scion-is-heavily-inspired-by-mononoke.md)
-  - [Containment and monitoring failures are to blame for AI hacking reports: experts](../ai/community/ai-agents-aren-t-going-rogue-frontier-labs-are-ski.md)
-  - [Has AI tells](../ai/community/has-ai-tells.md)
   - [LFM2.5-24B-A2B: Built for fast on-device agents](../ai/community/lfm2-5-24b-a2b-built-for-fast-on-device-agents.md)
-  - [Show HN: I wrote an email app that accepts only one sender per inbox](../ai/community/show-hn-i-wrote-an-email-app-that-accepts-only-one.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -34623,6 +34619,7 @@ Resources organized by publisher feed and query sources.
   - [Announcing the Open Source AI Game Jam 🎮](../ai/models/huggingface-blog-game-jam.md)
   - [Announcing the 🤗 AI Research Residency Program](../ai/models/huggingface-blog-ai-residency.md)
   - [Any Custom Frontend with Gradio's Backend](../ai/models/huggingface-blog-introducing-gradio-server.md)
+  - [Apertus 1.5 Release Notes](../ai/models/huggingface-blog-swiss-ai-apertus-v15-release-notes.md)
   - [Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models](../ai/models/huggingface-blog-servicenow-ai-apriel-h1.md)
   - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](../ai/models/huggingface-blog-servicenow-ai-aprielguard.md)
   - [Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More](../ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md)
@@ -38426,4 +38423,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-15T10:48:54.921364+05:30*
+*Index generated on 2026-10-15T19:20:44.213141+05:30*

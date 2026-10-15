@@ -13,13 +13,14 @@ collected_at: '2026-10-15T10:22:28.039549+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:has-ai-tells
 first_seen: '2026-10-15T04:52:20.598728+05:30'
 last_seen: '2026-10-15T10:22:28.039549+05:30'
 last_checked: '2026-10-15T10:22:28.039549+05:30'
 health_score: 100
 ---
+
 
 # Has AI tells
 

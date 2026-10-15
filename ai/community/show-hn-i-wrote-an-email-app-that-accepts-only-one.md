@@ -13,13 +13,14 @@ collected_at: '2026-10-15T10:22:28.640083+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-i-wrote-an-email-app-that-accepts-only-one
 first_seen: '2026-10-15T01:48:52.870574+05:30'
 last_seen: '2026-10-15T10:22:28.640083+05:30'
 last_checked: '2026-10-15T10:22:28.640083+05:30'
 health_score: 100
 ---
+
 
 # Show HN: I wrote an email app that accepts only one sender per inbox
 

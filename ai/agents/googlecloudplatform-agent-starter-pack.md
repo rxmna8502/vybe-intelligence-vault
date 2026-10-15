@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
-collected_at: '2026-09-02T18:25:52.573122+05:30'
-published_at: '2026-09-02T09:21:44Z'
+collected_at: '2026-10-15T19:08:05.631349+05:30'
+published_at: '2026-10-15T12:04:17Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
-stars: 6550
+stars: 6569
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-01-31T16:03:06Z'
 pushed_at: '2026-07-21T23:42:40Z'
 resource_id: github:googlecloudplatform/agent-starter-pack
-first_seen: '2026-09-02T18:25:52.573122+05:30'
-last_seen: '2026-09-02T18:25:52.573122+05:30'
-last_checked: '2026-09-02T18:25:52.573122+05:30'
+first_seen: '2026-10-15T19:08:05.631349+05:30'
+last_seen: '2026-10-15T19:08:05.631349+05:30'
+last_checked: '2026-10-15T19:08:05.631349+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-- **Production-ready AI agent templates** for Google Cloud with built-in CI/CD, evaluation, and observability, enabling rapid deployment (minutes vs. months).
-- **Gemini and GenAI integration** with Python-based starter kits optimized for LLMops and MLOps workflows.
-- **GitHub repository** with 6.5K+ stars, 1.5K+ forks, last updated Sep 2026, supporting GCP-native agent development.
+*   Provides production-ready Python templates for rapid AI agent deployment to Google Cloud, integrating CI/CD pipelines.
+*   Facilitates development of GenAI
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: GoogleCloudPlatform
-- Stars: 6550
-- Forks: 1503
+- Stars: 6569
+- Forks: 1499
 - Language: Python
 - Topics: agents, gcp, gemini, genai-agents, generative-ai, llmops, mlops, observability
-- Last Updated: 2026-09-02T09:21:44Z
+- Last Updated: 2026-10-15T12:04:17Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-01-31T16:03:06Z
