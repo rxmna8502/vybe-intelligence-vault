@@ -12,6 +12,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Generate Images with Claude and Hugging Face](https://huggingface.co/blog/claude-and-mcp) | `mcp-registry/` | 70 |
 | [Upskill your LLMs With Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-servers) | `mcp-registry/` | 70 |
 | [How to Build an MCP Server with Gradio](https://huggingface.co/blog/gradio-mcp) | `mcp-registry/` | 70 |
+| [PREPING: Zero-Task Agent Memory Construction via Self-Practice](https://arxiv.org/abs/2605.13880) | `mcp-registry/` | 70 |
 | [A Taxonomy of Runtime Faults in Model Context Protocol Servers](https://arxiv.org/abs/2606.05339) | `mcp-registry/` | 70 |
 | [Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools](https://arxiv.org/abs/2608.04719) | `mcp-registry/` | 70 |
 | [The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality](https://arxiv.org/abs/2607.08495) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Unstructured Data Platform for GenAI | Unstructured](https://unstructured.io/) | `mcp-registry/` | 70 |
 | [Collaboration software for software, IT and business teams | Atlassian](https://www.atlassian.com) | `mcp-registry/` | 70 |
 | [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) | `mcp-registry/` | 70 |
-| [How ServiceNow uses LangSmith to get visibility into its customer success agents](https://blog.langchain.com/customers-servicenow/) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

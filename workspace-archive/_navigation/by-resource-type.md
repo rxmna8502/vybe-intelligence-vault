@@ -38,13 +38,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-27144.md))
 - [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (Tier: `essential` | [`Local File`](../../ai/rag/how-to-build-a-voice-agent-with-rag-and-safety-gua.md))
 - [Building Agentic Retrieval with LlamaParse Index](https://landing.llamaindex.ai/retrieval-harness) (Tier: `essential` | [`Local File`](../../ai/rag/building-agentic-retrieval-with-llamaparse-index.md))
+- [Athanor: An Agent-Native System for Autonomous Post-Training Research](https://arxiv.org/abs/2610.21055) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2610-21055.md))
 - [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-39601.md))
 - [Uncertainty of Vision Medical Foundation Models](https://arxiv.org/abs/2608.30390) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2608-30390.md))
 - [Reliable Virtual Sensing: A Multi-Domain Benchmark for Robustness Under Sensor Failures](https://arxiv.org/abs/2609.18396) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2609-18396.md))
 - [Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles](https://arxiv.org/abs/2609.22220) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-22220.md))
 - [RoBell-RVFL: A Robust Generalized Bell Random Vector Functional Link Network](https://arxiv.org/abs/2608.16965) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-16965.md))
 - [GARLIC: Graph Attention-based Relational Learning of Multivariate Time Series in Intensive Care](https://arxiv.org/abs/2608.10969) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-10969.md))
-- [VoxPrivacy: A Benchmark for Evaluating Interactional Privacy of Speech Language Models](https://arxiv.org/abs/2601.19956) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2601-19956.md))
 
 ## FRAMEWORK
 
@@ -99,16 +99,17 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [LURE: a Phase-Labelled Synthetic Corpus of Online-Grooming Exchanges](https://arxiv.org/abs/2610.15908) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2610-15908.md))
 - [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-25760.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
+- [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](https://arxiv.org/abs/2610.22372) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2610-22372.md))
 - [ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation](https://arxiv.org/abs/2607.05750) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-05750.md))
 - [SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure](https://arxiv.org/abs/2608.11079) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-11079.md))
 - [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
 - [SkillForgeBench: Evaluating Agent Reliability Grounded in Agent Skill Specifications](https://arxiv.org/abs/2610.14918) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-14918.md))
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-04077.md))
-- [MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory](https://arxiv.org/abs/2610.08586) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-08586.md))
 
 ## REFERENCE
 
 - [Hierarchical Compositionality for An Assistive AI Agent](https://arxiv.org/abs/2608.10330) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-10330.md))
+- [Learning Intrinsic Dynamics in Latent World Models](https://arxiv.org/abs/2610.21612) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-21612.md))
 - [Beyond Point Predictions: Uncertainty-Aware Satellite Poverty Mapping for Public Policy](https://arxiv.org/abs/2608.23322) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-23322.md))
 - [Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable](https://arxiv.org/abs/2608.27167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-27167.md))
 - [First-Order Predictable but Pairwise Fragile: Local Task Adaptation in Trained Transformers](https://arxiv.org/abs/2607.16821) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-16821.md))
@@ -119,7 +120,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Intelligence Age](https://openai.com/news/intelligence-age) (Tier: `useful` | [`Local File`](../../ai/companies/openai/intelligence-age.md))
 - [Applied AI](https://openai.com/news/applied-ai) (Tier: `useful` | [`Local File`](../../ai/companies/openai/applied-ai.md))
 - [AI Adoption](https://openai.com/news/ai-adoption) (Tier: `useful` | [`Local File`](../../ai/companies/openai/ai-adoption.md))
-- [Engineering](https://openai.com/news/engineering) (Tier: `useful` | [`Local File`](../../ai/companies/openai/engineering.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-10-16 04:56 IST*
+*Last updated: 2026-10-16 10:35 IST*

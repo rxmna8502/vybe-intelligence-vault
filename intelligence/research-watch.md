@@ -6,7 +6,6 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | :--- | :--- | :--- |
 | [Calibrated Alzheimer's Conversion Risk in Mild Cognitive Impairment: Persistent Homology of Clinical Trajectories with Conformal Guarantees](https://arxiv.org/abs/2607.17442) | `ai-coding-agents/` | 70 |
 | [Can Coding Agents Reproduce Findings in Computational Materials Science?](https://arxiv.org/abs/2605.00803) | `ai-coding-agents/` | 70 |
-| [One Skill, Two Masters: Serving Users and Attackers through Skill Injection](https://arxiv.org/abs/2606.07943) | `ai-coding-agents/` | 70 |
 | [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) | `ai-coding-agents/` | 70 |
 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
 | [CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430) | `ai-coding-agents/` | 70 |
@@ -29,5 +28,6 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](https://arxiv.org/abs/2607.29677) | `ai-coding-agents/` | 70 |
 | [Land Art as a Big-Data Climate Sensor](https://arxiv.org/abs/2609.13182) | `ai-coding-agents/` | 70 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) | `ai-coding-agents/` | 70 |
+| [Evaluating AlphaEarth Foundations Embeddings for Wildfire Susceptibility Mapping](https://arxiv.org/abs/2608.12663) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

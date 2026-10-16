@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:simons-foundation-launches-15m-effort-to-help-math
 first_seen: '2026-10-16T01:29:51.627732+05:30'
 last_seen: '2026-10-16T04:38:33.158964+05:30'
 last_checked: '2026-10-16T04:38:33.158964+05:30'
 health_score: 100
 ---
+
 
 # Simons Foundation launches $15M effort to help mathematicians navigate AI era
 
