@@ -15,13 +15,14 @@ tags:
 - hackernews
 - reddit
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:ms-paint-adds-freeform-rotation-2026
 first_seen: '2026-10-16T18:52:07.690674+05:30'
 last_seen: '2026-10-16T18:52:07.690674+05:30'
 last_checked: '2026-10-16T18:52:07.690674+05:30'
 health_score: 100
 ---
+
 
 # MS Paint Adds Freeform Rotation (2026)
 

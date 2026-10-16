@@ -3955,6 +3955,7 @@ Resources organized by keyword tags.
   - [Improving Sample Efficiency in Multi-Agent Reinforcement Learning for Simulated Football Games via Exploration](../ai/agents/arxiv-2503-13077.md)
   - [Improving Zero-Shot Offline RL via Behavioral Task Sampling](../ai/rag/arxiv-2604-25496.md)
   - [Improving large language model applications in biomedicine with retrieval-augmented generation: a systematic review, meta-analysis, and clinical development guidelines](../ai/research/improving-large-language-model-applications-in-bio.md)
+  - [Improving navigation experience in v0 with Next.js 16.4](../ai/agents/improving-navigation-experience-in-v0-with-next-js.md)
   - [Improving the Bounds on Approximating Weighted Maximin Share for Chores](../ai/agents/arxiv-2610-15520.md)
   - [In-Context Learning for Robots: Methods and Applications](../ai/agents/arxiv-2609-36012.md)
   - [In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](../ai/rag/arxiv-2510-05592.md)
@@ -8870,9 +8871,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI-assisted PCB design for KiCad 10](../ai/community/mixelpixx-konnect.md)
-  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
-  - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
+  - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
+  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
+  - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
+  - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](../ai/community/the-nist-elliptic-curves-seeds-bounty-has-been-cla.md)
 
 ## animation
 
@@ -8978,6 +8980,7 @@ Resources organized by keyword tags.
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
+  - [Anthropic assigned highest junk credit rating in June](../ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -9861,6 +9864,7 @@ Resources organized by keyword tags.
   - [4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception](../ai/agents/arxiv-2607-09629.md)
   - [6.5% of the Neuro-Symbolic Literature Can Be Reproduced from Its Published Artifacts, a Six-Stage Audit Framework and First Instantiation](../ai/research/arxiv-2608-26236.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
+  - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
   - [</think> Doesn't Stop Reasoning: Analysis of Spurious CoT Termination](../ai/research/arxiv-2609-03633.md)
   - [A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis](../ai/research/arxiv-2609-26923.md)
   - [A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors](../ai/research/arxiv-2606-25886.md)
@@ -33667,6 +33671,7 @@ Resources organized by keyword tags.
   - [Imitation Learning from Human Motion Alone Does Not Guarantee Biomechanically Plausible Gait Kinetics](../ai/research/arxiv-2603-12408.md)
   - [ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning](../ai/research/arxiv-2512-10946.md)
   - [Improving 5G AI-RAN MCS Selection by Predicting Retransmissions](../ai/research/arxiv-2609-09324.md)
+  - [Improving navigation experience in v0 with Next.js 16.4](../ai/agents/improving-navigation-experience-in-v0-with-next-js.md)
   - [In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning](../ai/rag/arxiv-2609-09243.md)
   - [In-Context Examples Suppress Scientific Knowledge Recall in LLMs](../ai/research/arxiv-2604-27540.md)
   - [Incrementally Adopting Next.js](../web-development/nextjs/incrementally-adopting-next-js.md)
@@ -35196,6 +35201,7 @@ Resources organized by keyword tags.
   - [6G Native AI and Channel Foundation Models](../ai/rag/arxiv-2608-14591.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
+  - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
   - [<mark> HTML mark text element - HTML | MDN](../ai/resources/mark-html-mark-text-element-html-mdn.md)
   - [A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis](../ai/research/arxiv-2609-26923.md)
   - [A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks](../ai/research/arxiv-2609-39058.md)
@@ -35413,7 +35419,6 @@ Resources organized by keyword tags.
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
   - [AI-Enhanced Hyperspectral Imaging for Intraoperative Detection of Low-Grade Glioma: A Clinical Study](../ai/research/arxiv-2610-17944.md)
   - [AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture](../ai/agents/arxiv-2609-21192.md)
-  - [AI-assisted PCB design for KiCad 10](../ai/community/mixelpixx-konnect.md)
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
@@ -35605,6 +35610,7 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
+  - [Anthropic assigned highest junk credit rating in June](../ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -37096,6 +37102,7 @@ Resources organized by keyword tags.
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
+  - [How to make System 1 LLMs show System 2 competencies?](../ai/community/how-to-make-system-1-llms-show-system-2-competenci.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to train your model organism](../ai/agents/arxiv-2610-10203.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
@@ -37493,6 +37500,7 @@ Resources organized by keyword tags.
   - [LithoFormer: A Robust Framework for Stratigraphic Inference via Transformers](../ai/rag/arxiv-2607-22804.md)
   - [Litmaps - YouTube](../ai/resources/litmaps-youtube.md)
   - [Litmaps | Your Literature Review Assistant](../ai/rag/litmaps-your-literature-review-assistant.md)
+  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [LlamaIndex - YouTube](../ai/rag/llamaindex-youtube.md)
   - [LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation](../ai/research/arxiv-2610-03636.md)
   - [LoRAQuant: Mixed-Precision Quantization of LoRA to Ultra-Low Bits](../ai/research/arxiv-2510-26690.md)
@@ -37567,7 +37575,6 @@ Resources organized by keyword tags.
   - [MOONSHOT : A Framework for Multi-Objective Pruning of Vision and Large Language Models](../ai/research/arxiv-2604-13287.md)
   - [MOSAIC: Masked Outsourcing of Secure AI Computations](../ai/research/arxiv-2607-29221.md)
   - [MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification](../ai/research/arxiv-2607-28681.md)
-  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [Mach-Mind-4-Flash Technical Report](../ai/agents/arxiv-2607-09375.md)
   - [Machine Learning Data Science Courses | GeeksforGeeks](../ai/rag/machine-learning-data-science-courses-geeksforgeek.md)
   - [Machine Learning Glossary | Google for Developers](../ai/rag/machine-learning-glossary-google-for-developers.md)
@@ -38714,6 +38721,7 @@ Resources organized by keyword tags.
   - [Stochastic Resetting Accelerates Reinforcement Learning Beyond Random Search](../ai/agents/arxiv-2603-16842.md)
   - [Stochastic Saddle Avoidance Beyond Unit Excitation and Smoothness: A Pathwise Lyapunov-Perron Framework](../ai/research/arxiv-2608-03001.md)
   - [Stochastic-Dimension Frozen Sampled Neural Network for High-Dimensional Gross-Pitaevskii Equations on Unbounded Domains](../ai/research/arxiv-2604-09361.md)
+  - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
   - [Stop Indexing at Full Precision: Revisiting Clustering for Vector Embeddings](../ai/rag/arxiv-2608-14648.md)
   - [Storyset | Customize, animate and download illustration for free](../ai/rag/storyset-customize-animate-and-download-illustrati.md)
   - [Strategic Self-Consistency](../ai/research/arxiv-2609-30352.md)
@@ -38909,6 +38917,7 @@ Resources organized by keyword tags.
   - [The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms](../ai/research/arxiv-2411-12030.md)
   - [The Metric Slingshot: Navigational Reuse as Width-Optimal Structural Decoupling in Continual Learning](../ai/research/arxiv-2603-15412.md)
   - [The Moral Check: Strategic AI Governance for the Pacing Problem](../ai/research/arxiv-2609-22869.md)
+  - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](../ai/community/the-nist-elliptic-curves-seeds-bounty-has-been-cla.md)
   - [The Normalization of Deviance in AI Development](../ai/agents/arxiv-2609-05749.md)
   - [The PUR-1 Cyber-Physical Digital Twin](../ai/research/arxiv-2608-30186.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
@@ -39169,7 +39178,6 @@ Resources organized by keyword tags.
   - [User types—ArcGIS Online Help | Documentation](../ai/resources/user-types-arcgis-online-help-documentation.md)
   - [UserSim - User Simulation for System Evaluation](../ai/resources/usersim-user-simulation-for-system-evaluation.md)
   - [UserWay | Web Accessibility Solutions](../ai/rag/userway-web-accessibility-solutions.md)
-  - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
   - [Using Composition Operators to Linearize LLM Semantic Transformations](../ai/research/arxiv-2609-22143.md)
   - [Using LLMs in Software Design: An Empirical Study of GitHub and A Practitioner Survey](../ai/research/arxiv-2605-01392.md)
   - [Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models](../ai/rag/arxiv-2503-06269.md)
@@ -39435,7 +39443,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -40276,6 +40283,10 @@ Resources organized by keyword tags.
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
 
+## llm
+
+  - [How to make System 1 LLMs show System 2 competencies?](../ai/community/how-to-make-system-1-llms-show-system-2-competenci.md)
+
 ## mdx
 
   - [cloudflare/cloudflare-docs](../ai/resources/cloudflare-cloudflare-docs.md)
@@ -40812,6 +40823,7 @@ Resources organized by keyword tags.
   - [Llama Hub](../ai/rag/llama-hub.md)
   - [Llama can now see and run on your device - welcome Llama 3.2](../ai/models/huggingface-blog-llama32.md)
   - [Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs](../ai/research/arxiv-2608-21134.md)
+  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [LlamaIndex - YouTube](../ai/rag/llamaindex-youtube.md)
   - [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md)
   - [LlamaIndex · GitHub](../ai/rag/llamaindex-github.md)
@@ -45485,6 +45497,7 @@ Resources organized by keyword tags.
   - [Llama Hub](../ai/rag/llama-hub.md)
   - [Llama can now see and run on your device - welcome Llama 3.2](../ai/models/huggingface-blog-llama32.md)
   - [Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs](../ai/research/arxiv-2608-21134.md)
+  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [LlamaIndex - YouTube](../ai/rag/llamaindex-youtube.md)
   - [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md)
   - [LlamaIndex · GitHub](../ai/rag/llamaindex-github.md)
@@ -69634,7 +69647,6 @@ Resources organized by keyword tags.
   - [MLIR](../ai/rag/mlir.md)
   - [MLflow - Open Source AI Platform for Agents, LLMs & Models](../ai/agents/mlflow-open-source-ai-platform-for-agents-llms-mod.md)
   - [MOSCOPT: Mixture-of-Skills Collective Optimization for LLM Agents](../ai/agents/arxiv-2609-14399.md)
-  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [Mac - Apple](../ai/rag/mac-apple.md)
   - [Mac - Official Apple Support](../ai/rag/mac-official-apple-support.md)
   - [Machine Learning Data Science Courses | GeeksforGeeks](../ai/rag/machine-learning-data-science-courses-geeksforgeek.md)
@@ -78988,7 +79000,6 @@ Resources organized by keyword tags.
   - [MOLAR: Learning Multimodal Molecular Representations from Noisy Labels](../ai/research/arxiv-2606-18390.md)
   - [MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning](../ai/agents/arxiv-2607-08703.md)
   - [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](../ai/research/arxiv-2608-30975.md)
-  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [MUPA$^{2}$E: Multimodal Unified Perception with Asymmetric Attention for Emotion Assessment](../ai/research/arxiv-2608-15999.md)
   - [MVEB: Massive Video Embedding Benchmark](../ai/rag/arxiv-2606-14958.md)
   - [MVTrack: Ultrafast Appearance-Free Moving Object Tracking from Compressed Bitstreams](../ai/research/arxiv-2608-10790.md)
@@ -80637,4 +80648,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-16T19:08:47.234677+05:30*
+*Index generated on 2026-10-17T01:26:45.162088+05:30*

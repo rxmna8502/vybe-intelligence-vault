@@ -13,13 +13,14 @@ collected_at: '2026-10-16T18:52:09.101756+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:using-ai-to-reverse-engineer-hardware
 first_seen: '2026-10-16T04:38:33.044242+05:30'
 last_seen: '2026-10-16T18:52:09.101756+05:30'
 last_checked: '2026-10-16T18:52:09.101756+05:30'
 health_score: 100
 ---
+
 
 # Using AI to reverse engineer hardware
 

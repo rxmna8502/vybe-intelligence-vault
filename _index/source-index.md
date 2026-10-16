@@ -35179,9 +35179,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI-assisted PCB design for KiCad 10](../ai/community/mixelpixx-konnect.md)
-  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
-  - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
+  - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
+  - [Anthropic assigned highest junk credit rating in June](../ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md)
+  - [How to make System 1 LLMs show System 2 competencies?](../ai/community/how-to-make-system-1-llms-show-system-2-competenci.md)
+  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
+  - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
+  - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](../ai/community/the-nist-elliptic-curves-seeds-bounty-has-been-cla.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -36188,6 +36191,7 @@ Resources organized by publisher feed and query sources.
   - [How to Think About Security in Next.js](../web-development/nextjs/how-to-think-about-security-in-next-js.md)
   - [How to Upgrade to React 18](../web-development/how-to-upgrade-to-react-18.md)
   - [How we closed 1,500 GitHub issues in one month](../ai/agents/how-we-closed-1500-github-issues-in-one-month.md)
+  - [Improving navigation experience in v0 with Next.js 16.4](../ai/agents/improving-navigation-experience-in-v0-with-next-js.md)
   - [Incrementally Adopting Next.js](../web-development/nextjs/incrementally-adopting-next-js.md)
   - [Inside Turbopack: Building Faster by Building Less](../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)
   - [Introducing Create Next App](../web-development/nextjs/introducing-create-next-app.md)
@@ -39068,4 +39072,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-16T19:08:47.590382+05:30*
+*Index generated on 2026-10-17T01:26:45.594853+05:30*
