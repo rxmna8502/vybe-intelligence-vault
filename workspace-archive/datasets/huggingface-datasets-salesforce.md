@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: Salesforce/wikitext (Likes: 862, Downloads: 1961583)
+Trending Hugging Face dataset: Salesforce/wikitext (Likes: 862, Downloads: 1983365)
 
 ## Use Cases
 

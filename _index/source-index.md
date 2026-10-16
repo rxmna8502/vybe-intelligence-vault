@@ -35179,8 +35179,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Aidlc: Adaptive workflow steering rules for AI coding agents](../ai/community/awslabs-aidlc-workflows.md)
-  - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](../ai/community/johnrash-bebox.md)
+  - [AI-assisted PCB design for KiCad 10](../ai/community/mixelpixx-konnect.md)
+  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
 
 ## Unknown Source (type: huggingface)
@@ -36000,6 +36000,7 @@ Resources organized by publisher feed and query sources.
   - [We are hiring interns!](../ai/models/huggingface-blog-interns-2023.md)
   - [We got local models to triage the OpenClaw repo for FREE!*](../ai/models/huggingface-blog-local-models-pr-triage.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
+  - [Welcome Beam: a 501B open model you can own, customize, and scale](../ai/models/huggingface-blog-reflection-beam.md)
   - [Welcome EmbeddingGemma, Google's new efficient embedding model](../ai/models/huggingface-blog-embeddinggemma.md)
   - [Welcome FLUX.3 Image Klein in Diffusers](../ai/models/huggingface-blog-flux-3.md)
   - [Welcome Falcon Mamba: The first strong attention-free 7B model](../ai/models/huggingface-blog-falconmamba.md)
@@ -39067,4 +39068,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-16T10:32:56.542069+05:30*
+*Index generated on 2026-10-16T19:08:47.590382+05:30*

@@ -823,7 +823,6 @@ Resources organized by keyword tags.
   - [AhaBench: Do Agents Turn Experience into Reusable Insights? A Long-Horizon Benchmark for Continual Learning](../ai/agents/arxiv-2609-05435.md)
   - [AhsanAyaz/ai-agents-google-adk](../ai/agents/ahsanayaz-ai-agents-google-adk.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
-  - [Aidlc: Adaptive workflow steering rules for AI coding agents](../ai/community/awslabs-aidlc-workflows.md)
   - [Air-Ground Collaborative Vision-and-Language Navigation via Shared Bird's-Eye Maps](../ai/agents/arxiv-2609-03483.md)
   - [AirAnchor: Bridging Local and Global Spatial Information for Zero-Shot Aerial Vision-and-Language Navigation](../ai/agents/arxiv-2609-08442.md)
   - [AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air](../ai/agents/arxiv-2507-11515.md)
@@ -8871,8 +8870,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Aidlc: Adaptive workflow steering rules for AI coding agents](../ai/community/awslabs-aidlc-workflows.md)
-  - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](../ai/community/johnrash-bebox.md)
+  - [AI-assisted PCB design for KiCad 10](../ai/community/mixelpixx-konnect.md)
+  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [Using AI to reverse engineer hardware](../ai/community/using-ai-to-reverse-engineer-hardware.md)
 
 ## animation
@@ -35414,6 +35413,7 @@ Resources organized by keyword tags.
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
   - [AI-Enhanced Hyperspectral Imaging for Intraoperative Detection of Low-Grade Glioma: A Clinical Study](../ai/research/arxiv-2610-17944.md)
   - [AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture](../ai/agents/arxiv-2609-21192.md)
+  - [AI-assisted PCB design for KiCad 10](../ai/community/mixelpixx-konnect.md)
   - [AI-interpreted Optical Scattering for Robust and Focal Depth-Aware Imaging](../ai/research/arxiv-2607-22867.md)
   - [AI-powered knowledge base software](../ai/agents/ai-powered-knowledge-base-software.md)
   - [AI.Gov | President Trump's AI Strategy and Action Plan](../ai/resources/ai-gov-president-trump-s-ai-strategy-and-action-pl.md)
@@ -35546,7 +35546,6 @@ Resources organized by keyword tags.
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
-  - [Aidlc: Adaptive workflow steering rules for AI coding agents](../ai/community/awslabs-aidlc-workflows.md)
   - [Ajar: Measuring Open Privilege in Agent Defenses](../ai/agents/arxiv-2609-26900.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
@@ -35723,7 +35722,6 @@ Resources organized by keyword tags.
   - [Bayesian Tensor Decomposition with Diffusion Model Prior](../ai/research/arxiv-2606-03212.md)
   - [Bayesian methods and Markov chain Monte Carlo algorithms for curve reconstruction and point cloud data analysis](../ai/research/arxiv-2608-26490.md)
   - [Be Well Bruin | Be Well Bruin](../ai/resources/be-well-bruin-be-well-bruin.md)
-  - [BeBox is a Haiku application that emulates Be Inc.'s BeBox](../ai/community/johnrash-bebox.md)
   - [Bedside Medicine Exam Skills | Stanford Medicine 25 | Stanford Medicine](../ai/resources/bedside-medicine-exam-skills-stanford-medicine-25.md)
   - [Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report](../ai/rag/arxiv-2607-07370.md)
   - [Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning](../ai/research/arxiv-2609-00014.md)
@@ -37569,6 +37567,7 @@ Resources organized by keyword tags.
   - [MOONSHOT : A Framework for Multi-Objective Pruning of Vision and Large Language Models](../ai/research/arxiv-2604-13287.md)
   - [MOSAIC: Masked Outsourcing of Secure AI Computations](../ai/research/arxiv-2607-29221.md)
   - [MPP-GNN: Subject-Adaptive Community Detection for fMRI-Based Alzheimer's Disease Classification](../ai/research/arxiv-2607-28681.md)
+  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [Mach-Mind-4-Flash Technical Report](../ai/agents/arxiv-2607-09375.md)
   - [Machine Learning Data Science Courses | GeeksforGeeks](../ai/rag/machine-learning-data-science-courses-geeksforgeek.md)
   - [Machine Learning Glossary | Google for Developers](../ai/rag/machine-learning-glossary-google-for-developers.md)
@@ -39553,6 +39552,7 @@ Resources organized by keyword tags.
   - [paul-hammant/tbd](../ai/resources/paul-hammant-tbd.md)
   - [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md)
   - [pgf-tikz Info Page](../ai/rag/pgf-tikz-info-page.md)
+  - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
   - [pinecone-io/pinecone-claude-code-plugin](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
@@ -39612,7 +39612,6 @@ Resources organized by keyword tags.
   - [vibecon](../ai/rag/vibecon.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
-  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
@@ -47914,7 +47913,6 @@ Resources organized by keyword tags.
   - [SwinIFS: Landmark Guided Swin Transformer For Identity Preserving Face Super Resolution](../ai/research/arxiv-2601-01406.md)
   - [Swiss-Knife: A Framework for Reconfigurable Externalised Multi-Objective Alignment at Decode Time](../ai/research/arxiv-2609-22226.md)
   - [Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges](../ai/rag/arxiv-2606-16617.md)
-  - [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md)
   - [SymDrift: One-Shot Generative Modeling under Symmetries](../ai/research/arxiv-2605-06140.md)
   - [Symbolic Mechanistic Data Attribution: Tracing Training Influence to Learned Behavioral Policies](../ai/research/arxiv-2606-29171.md)
   - [Symmetry-Compatible Principle for Optimizer Design: Embeddings, LM Heads, SwiGLU MLPs, and MoE Routers](../ai/rag/arxiv-2605-18106.md)
@@ -69636,6 +69634,7 @@ Resources organized by keyword tags.
   - [MLIR](../ai/rag/mlir.md)
   - [MLflow - Open Source AI Platform for Agents, LLMs & Models](../ai/agents/mlflow-open-source-ai-platform-for-agents-llms-mod.md)
   - [MOSCOPT: Mixture-of-Skills Collective Optimization for LLM Agents](../ai/agents/arxiv-2609-14399.md)
+  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [Mac - Apple](../ai/rag/mac-apple.md)
   - [Mac - Official Apple Support](../ai/rag/mac-official-apple-support.md)
   - [Machine Learning Data Science Courses | GeeksforGeeks](../ai/rag/machine-learning-data-science-courses-geeksforgeek.md)
@@ -70421,7 +70420,6 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -74984,7 +74982,6 @@ Resources organized by keyword tags.
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents' Last Exam](../ai/rag/arxiv-2606-05405.md)
   - [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](../ai/agents/arxiv-2606-24177.md)
-  - [Aidlc: Adaptive workflow steering rules for AI coding agents](../ai/community/awslabs-aidlc-workflows.md)
   - [Akashic: A Low-Overhead LLM Inference Service with MemAttention](../ai/rag/arxiv-2607-05708.md)
   - [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md)
   - [AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery](../ai/agents/arxiv-2609-15820.md)
@@ -77121,7 +77118,6 @@ Resources organized by keyword tags.
   - [vitejs/vite](../ai/rag/vitejs-vite.md)
   - [volcengine/OpenViking](../ai/rag/volcengine-openviking.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
-  - [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
   - [yzhao062/pyod](../ai/rag/yzhao062-pyod.md)
   - [zilliztech/attu](../ai/rag/zilliztech-attu.md)
   - [zilliztech/deep-searcher](../ai/rag/zilliztech-deep-searcher.md)
@@ -78992,6 +78988,7 @@ Resources organized by keyword tags.
   - [MOLAR: Learning Multimodal Molecular Representations from Noisy Labels](../ai/research/arxiv-2606-18390.md)
   - [MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning](../ai/agents/arxiv-2607-08703.md)
   - [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](../ai/research/arxiv-2608-30975.md)
+  - [MS Paint Adds Freeform Rotation (2026)](../ai/community/ms-paint-adds-freeform-rotation-2026.md)
   - [MUPA$^{2}$E: Multimodal Unified Perception with Asymmetric Attention for Emotion Assessment](../ai/research/arxiv-2608-15999.md)
   - [MVEB: Massive Video Embedding Benchmark](../ai/rag/arxiv-2606-14958.md)
   - [MVTrack: Ultrafast Appearance-Free Moving Object Tracking from Compressed Bitstreams](../ai/research/arxiv-2608-10790.md)
@@ -80640,4 +80637,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-16T10:32:56.137539+05:30*
+*Index generated on 2026-10-16T19:08:47.234677+05:30*

@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - workflows
-status: active
+status: inactive
 resource_id: github:awslabs/aidlc-workflows
 first_seen: '2026-10-16T10:12:31.526394+05:30'
 last_seen: '2026-10-16T10:12:31.526394+05:30'
 last_checked: '2026-10-16T10:12:31.526394+05:30'
 health_score: 100
 ---
+
 
 # Aidlc: Adaptive workflow steering rules for AI coding agents
 

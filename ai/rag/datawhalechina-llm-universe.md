@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-10-16T10:17:09.681525+05:30'
-published_at: '2026-10-16T03:55:30Z'
+collected_at: '2026-10-16T18:53:09.706307+05:30'
+published_at: '2026-10-16T12:51:55Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-stars: 14148
+stars: 14153
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-08-27T03:08:26Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-10-16T10:17:09.681525+05:30'
-last_seen: '2026-10-16T10:17:09.681525+05:30'
-last_checked: '2026-10-16T10:17:09.681525+05:30'
+first_seen: '2026-10-16T18:53:09.706307+05:30'
+last_seen: '2026-10-16T18:53:09.706307+05:30'
+last_checked: '2026-10-16T18:53:09.706307+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides practical tutorials for LLM application development.
-*   Focuses on RAG architecture implementation utilizing LangChain.
-*   Leverages Jupyter Notebooks for interactive, hands-on learning modules.
+*   Comprehensive tutorial for large language model (LLM) application development.
+*   Focuses on implementing Retrieval Augmented Generation (RAG) systems using the LangChain framework.
+*   Content delivered via interactive Jupyter Notebooks for practical, hands-on learning.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 14148
-- Forks: 1430
+- Stars: 14153
+- Forks: 1432
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-10-16T03:55:30Z
+- Last Updated: 2026-10-16T12:51:55Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-08-27T03:08:26Z
