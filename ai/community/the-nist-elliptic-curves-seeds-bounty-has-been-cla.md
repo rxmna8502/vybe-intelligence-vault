@@ -13,13 +13,14 @@ collected_at: '2026-10-17T01:10:04.496342+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-nist-elliptic-curves-seeds-bounty-has-been-cla
 first_seen: '2026-10-17T01:10:04.496342+05:30'
 last_seen: '2026-10-17T01:10:04.496342+05:30'
 last_checked: '2026-10-17T01:10:04.496342+05:30'
 health_score: 100
 ---
+
 
 # The NIST Elliptic Curves Seeds Bounty Has Been Claimed
 

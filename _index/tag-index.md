@@ -8873,8 +8873,8 @@ Resources organized by keyword tags.
 
   - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
+  - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
   - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
-  - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](../ai/community/the-nist-elliptic-curves-seeds-bounty-has-been-cla.md)
 
 ## animation
 
@@ -30625,7 +30625,6 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -37102,7 +37101,6 @@ Resources organized by keyword tags.
   - [How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy](../ai/research/arxiv-2512-03238.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [How to contribute — Contributing to Godot](../ai/rag/how-to-contribute-contributing-to-godot.md)
-  - [How to make System 1 LLMs show System 2 competencies?](../ai/community/how-to-make-system-1-llms-show-system-2-competenci.md)
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to train your model organism](../ai/agents/arxiv-2610-10203.md)
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
@@ -38576,6 +38574,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -38917,7 +38916,6 @@ Resources organized by keyword tags.
   - [The Method of Gaps: Exact Expressions for the Generalization Error of Supervised Learning Algorithms](../ai/research/arxiv-2411-12030.md)
   - [The Metric Slingshot: Navigational Reuse as Width-Optimal Structural Decoupling in Continual Learning](../ai/research/arxiv-2603-15412.md)
   - [The Moral Check: Strategic AI Governance for the Pacing Problem](../ai/research/arxiv-2609-22869.md)
-  - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](../ai/community/the-nist-elliptic-curves-seeds-bounty-has-been-cla.md)
   - [The Normalization of Deviance in AI Development](../ai/agents/arxiv-2609-05749.md)
   - [The PUR-1 Cyber-Physical Digital Twin](../ai/research/arxiv-2608-30186.md)
   - [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](../ai/agents/arxiv-2607-11292.md)
@@ -40282,10 +40280,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [How to make System 1 LLMs show System 2 competencies?](../ai/community/how-to-make-system-1-llms-show-system-2-competenci.md)
 
 ## mdx
 
@@ -80648,4 +80642,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T01:26:45.162088+05:30*
+*Index generated on 2026-10-17T04:45:50.999343+05:30*

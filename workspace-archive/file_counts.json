@@ -1,13 +1,13 @@
 {
-  "total_files": 154476,
+  "total_files": 154473,
   "categories": {
     "agent-frameworks": 6603,
     "agent-instructions": 16,
     "ai-browser-computer-use": 7472,
     "ai-coding-agents": 6498,
     "ai-tools-products": 197,
-    "automation-workflows": 2397,
-    "datasets": 22997,
+    "automation-workflows": 2396,
+    "datasets": 22996,
     "evals-and-benchmarks": 34101,
     "frontend-ai-ui": 250,
     "guardrails-security": 18973,
@@ -21,10 +21,10 @@
     "project-ideas": 109,
     "prompt-libraries": 269,
     "public-apis": 50,
-    "rag-systems": 34573,
+    "rag-systems": 34572,
     "startup-builder": 250,
     "vector-databases": 11750,
     "webdev-3d-creative": 182
   },
-  "last_updated": "2026-10-17T01:30:20.809662+05:30"
+  "last_updated": "2026-10-17T04:49:27.157168+05:30"
 }

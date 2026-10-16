@@ -35181,10 +35181,9 @@ Resources organized by publisher feed and query sources.
 
   - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
   - [Anthropic assigned highest junk credit rating in June](../ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md)
-  - [How to make System 1 LLMs show System 2 competencies?](../ai/community/how-to-make-system-1-llms-show-system-2-competenci.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
+  - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
   - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
-  - [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](../ai/community/the-nist-elliptic-curves-seeds-bounty-has-been-cla.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39072,4 +39071,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T01:26:45.594853+05:30*
+*Index generated on 2026-10-17T04:45:51.438848+05:30*

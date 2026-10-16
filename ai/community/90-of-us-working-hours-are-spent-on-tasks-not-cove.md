@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://mercor.com/research/labor-index/benchmark-map
 hn_url: https://news.ycombinator.com/item?id=50121179
-score: 231
+score: 350
 author: speckx
-comments_count: 203
+comments_count: 301
 published_at: '2026-10-16T22:38:38+05:30'
-collected_at: '2026-10-17T01:10:04.774198+05:30'
+collected_at: '2026-10-17T04:29:07.840470+05:30'
 tags:
 - ai
 - benchmark
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:90-of-us-working-hours-are-spent-on-tasks-not-cove
 first_seen: '2026-10-17T01:10:04.774198+05:30'
-last_seen: '2026-10-17T01:10:04.774198+05:30'
-last_checked: '2026-10-17T01:10:04.774198+05:30'
+last_seen: '2026-10-17T04:29:07.840470+05:30'
+last_checked: '2026-10-17T04:29:07.840470+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by speckx. Score: 231, Comments: 203.
+Hacker News story by speckx. Score: 350, Comments: 301.
 Original Link: https://www.mercor.com/research/labor-index/benchmark-map/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: speckx
-- Score: 231 Upvotes
-- Comments: 203 Discussions
+- Score: 350 Upvotes
+- Comments: 301 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50121179
 - Original Article: https://mercor.com/research/labor-index/benchmark-map
 

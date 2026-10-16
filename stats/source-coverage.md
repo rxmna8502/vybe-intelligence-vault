@@ -303,10 +303,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | mercor.com | 1 |
-| cbsnews.com | 1 |
 | ft.com | 1 |
-| onlinelibrary.wiley.com | 1 |
-| words.filippo.io | 1 |
+| cbsnews.com | 1 |
+| wonderhop.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
