@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-17T18:10:59.042012+05:30`
+Generated at: `2026-10-17T21:26:43.500987+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware** - Score: `110` in category `ai/community` ([Link](https://llmspeed.dev)) ([File](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **90% of US working hours are spent on tasks not covered well by AI benchmarks** - Score: `525` (+81), Rank Change: `0` ([File](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md))
-- **Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console** - Score: `305` (+75), Rank Change: `0` ([File](../ai/community/cobanov-ps5lm.md))
-- **Nine-Inch Snails** - Score: `77` (+36), Rank Change: `+1` ([File](../ai/community/nine-inch-snails.md))
-- **transitive-bullshit/agentic** - Score: `0` (0), Rank Change: `+14160` ([File](../ai/agents/transitive-bullshit-agentic.md))
-- **coleam00/agentic-chat-application-template** - Score: `0` (0), Rank Change: `+14219` ([File](../ai/agents/coleam00-agentic-chat-application-template.md))
-- **cline/cline** - Score: `0` (0), Rank Change: `+10298` ([File](../ai/agents/cline-cline.md))
-- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+10296` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **langchain-ai/react-agent** - Score: `0` (0), Rank Change: `+5337` ([File](../ai/agents/langchain-ai-react-agent.md))
-- **odsc2015/agentic-hackathon-template** - Score: `0` (0), Rank Change: `+3974` ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1035` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **openai/mle-bench** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/openai-mle-bench.md))
+- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/agent0ai-agent-zero.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/malonge-ragoo.md))
+- **coleam00/ottomator-agents** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/coleam00-ottomator-agents.md))
+- **SPARCL: Spatially Adaptive Regional Coverage for Active Learning in Chest X-ray Analysis** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/arxiv-2610-17808.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **coleam00/agentic-chat-application-template** - (Rank Change: `+14219`) ([File](../ai/agents/coleam00-agentic-chat-application-template.md))
-- **transitive-bullshit/agentic** - (Rank Change: `+14160`) ([File](../ai/agents/transitive-bullshit-agentic.md))
-- **cline/cline** - (Rank Change: `+10298`) ([File](../ai/agents/cline-cline.md))
-- **The-Pocket/PocketFlow-Template-Python** - (Rank Change: `+10296`) ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **langchain-ai/react-agent** - (Rank Change: `+5337`) ([File](../ai/agents/langchain-ai-react-agent.md))
-- **odsc2015/agentic-hackathon-template** - (Rank Change: `+3974`) ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **datawhalechina/hello-agents** - (Rank Change: `+3519`) ([File](../ai/rag/datawhalechina-hello-agents.md))
-- **patchy631/ai-engineering-hub** - (Rank Change: `+3247`) ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **NirDiamant/RAG_Techniques** - (Rank Change: `+1693`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+1039`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9289`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1033`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1033`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Stolen Renoir paintings found hidden, and damaged, behind cinder block wall** (Category: `ai/community`) ([File](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md))
-- **Show HN: Wonderhop – A daily game: guess what most people say, or what none do** (Category: `ai/community`) ([File](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md))
+No recently active resources transitioned to inactive.
+
