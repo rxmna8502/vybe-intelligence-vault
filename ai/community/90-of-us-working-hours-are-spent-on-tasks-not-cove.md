@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:90-of-us-working-hours-are-spent-on-tasks-not-cove
 first_seen: '2026-10-17T01:10:04.774198+05:30'
 last_seen: '2026-10-17T17:49:27.124638+05:30'
 last_checked: '2026-10-17T17:49:27.124638+05:30'
 health_score: 100
 ---
+
 
 # 90% of US working hours are spent on tasks not covered well by AI benchmarks
 

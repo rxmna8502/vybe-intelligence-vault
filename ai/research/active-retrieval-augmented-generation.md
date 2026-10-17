@@ -12,14 +12,14 @@ authors:
 - Qian Liu
 - Jane Dwivedi-Yu
 - Yiming Yang
-- Jamie Callan
+- James P. Callan
 - Graham Neubig
 year: 2023
-citation_count: 821
+citation_count: 915
 code_url: None
 stars: N/A
 published_at: '2023-01-01T00:00:00Z'
-collected_at: '2026-09-09T00:59:59.540675+05:30'
+collected_at: '2026-10-17T21:17:11.072162+05:30'
 tags:
 - augmented
 - dataset
@@ -30,8 +30,8 @@ tags:
 status: active
 resource_id: blog:active-retrieval-augmented-generation
 first_seen: '2026-07-19T16:15:03.004040+05:30'
-last_seen: '2026-09-09T00:59:59.540675+05:30'
-last_checked: '2026-09-09T00:59:59.540675+05:30'
+last_seen: '2026-10-17T21:17:11.072162+05:30'
+last_checked: '2026-10-17T21:17:11.072162+05:30'
 health_score: 100
 ---
 
@@ -47,9 +47,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig
+- Authors: Zhengbao Jiang, Frank F. Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, James P. Callan, Graham Neubig
 - Publication Year: 2023
-- Citation Count: 821
+- Citation Count: 915
 - Paper Link: https://semanticscholar.org/paper/88884b8806262a4095036041e3567d450dba39f7
 - Code Link: None
 - Code Stars: N/A
