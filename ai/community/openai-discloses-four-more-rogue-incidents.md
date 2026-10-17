@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-discloses-four-more-rogue-incidents
 first_seen: '2026-10-18T00:07:59.634684+05:30'
 last_seen: '2026-10-18T00:07:59.634684+05:30'
 last_checked: '2026-10-18T00:07:59.634684+05:30'
 health_score: 100
 ---
+
 
 # OpenAI discloses four more rogue incidents
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://pele.run
 hn_url: https://news.ycombinator.com/item?id=50132193
-score: 12
+score: 150
 author: dchest
-comments_count: 3
+comments_count: 15
 published_at: '2026-10-17T21:25:09+05:30'
-collected_at: '2026-10-18T00:08:01.273730+05:30'
+collected_at: '2026-10-18T03:58:41.027762+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:pele-mermaid-diagrams-as-themeable-svg
 first_seen: '2026-10-18T00:08:01.273730+05:30'
-last_seen: '2026-10-18T00:08:01.273730+05:30'
-last_checked: '2026-10-18T00:08:01.273730+05:30'
+last_seen: '2026-10-18T03:58:41.027762+05:30'
+last_checked: '2026-10-18T03:58:41.027762+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by dchest. Score: 12, Comments: 3.
+Hacker News story by dchest. Score: 150, Comments: 15.
 Original Link: https://pele.run/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: dchest
-- Score: 12 Upvotes
-- Comments: 3 Discussions
+- Score: 150 Upvotes
+- Comments: 15 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50132193
 - Original Article: https://pele.run
 

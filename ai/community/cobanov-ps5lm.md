@@ -15,13 +15,14 @@ tags:
 - hackernews
 - meta-ai
 - models
-status: active
+status: inactive
 resource_id: github:cobanov/ps5lm
 first_seen: '2026-10-17T01:10:04.290659+05:30'
 last_seen: '2026-10-18T00:08:00.989268+05:30'
 last_checked: '2026-10-18T00:08:00.989268+05:30'
 health_score: 100
 ---
+
 
 # Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
 

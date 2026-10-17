@@ -8871,11 +8871,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Amazon uses AI to monitor union risk in UK warehouses](../ai/community/amazon-uses-ai-to-monitor-union-risk-in-uk-warehou.md)
-  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
-  - [OpenAI discloses four more rogue incidents](../ai/community/openai-discloses-four-more-rogue-incidents.md)
+  - [Microsoft and CMU Team Up to Train Early Career Software Engineers](../ai/community/microsoft-and-cmu-team-up-to-train-early-career-so.md)
   - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
-  - [Tell HN: Remember to migrate away from .name domain](../ai/community/tell-hn-remember-to-migrate-away-from-name-domain.md)
 
 ## animation
 
@@ -35562,7 +35559,6 @@ Resources organized by keyword tags.
   - [Allure of Craquelure: A Variational-Generative Approach to Crack Detection in Paintings](../ai/research/arxiv-2602-09730.md)
   - [Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise](../ai/research/arxiv-2609-12119.md)
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
-  - [Amazon uses AI to monitor union risk in UK warehouses](../ai/community/amazon-uses-ai-to-monitor-union-risk-in-uk-warehou.md)
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
   - [Amortizing intractable inference in diffusion models for vision, language, and control](../ai/rag/arxiv-2405-20971.md)
   - [An AI-assisted conditioning and geological interpretation workflow for usage in implicit geological modeling](../ai/research/arxiv-2610-09871.md)
@@ -37496,7 +37492,6 @@ Resources organized by keyword tags.
   - [LithoFormer: A Robust Framework for Stratigraphic Inference via Transformers](../ai/rag/arxiv-2607-22804.md)
   - [Litmaps - YouTube](../ai/resources/litmaps-youtube.md)
   - [Litmaps | Your Literature Review Assistant](../ai/rag/litmaps-your-literature-review-assistant.md)
-  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [LlamaIndex - YouTube](../ai/rag/llamaindex-youtube.md)
   - [LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation](../ai/research/arxiv-2610-03636.md)
   - [LoRAQuant: Mixed-Precision Quantization of LoRA to Ultra-Low Bits](../ai/research/arxiv-2510-26690.md)
@@ -37655,6 +37650,7 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
+  - [Microsoft and CMU Team Up to Train Early Career Software Engineers](../ai/community/microsoft-and-cmu-team-up-to-train-early-career-so.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -37902,7 +37898,6 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI discloses four more rogue incidents](../ai/community/openai-discloses-four-more-rogue-incidents.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -38818,7 +38813,6 @@ Resources organized by keyword tags.
   - [Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des pr](../ai/rag/technologies-emergentes-et-protection-des-mineurs.md)
   - [Technology Radar | Guide to technology landscape | Thoughtworks](../ai/rag/technology-radar-guide-to-technology-landscape-tho.md)
   - [Teknoloji Transfer Ofisi](../ai/resources/teknoloji-transfer-ofisi.md)
-  - [Tell HN: Remember to migrate away from .name domain](../ai/community/tell-hn-remember-to-migrate-away-from-name-domain.md)
   - [Tembo - Move coding agents to the cloud](../ai/rag/tembo-move-coding-agents-to-the-cloud.md)
   - [Temperon: Full-Time SAM Quality at a Third Less Wall-Clock](../ai/research/arxiv-2609-17575.md)
   - [Tempora-Fusion: Time-Lock Puzzle with Efficient Verifiable Homomorphic Linear Combination](../ai/research/arxiv-2406-15070.md)
@@ -39441,6 +39435,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -40821,7 +40816,6 @@ Resources organized by keyword tags.
   - [Llama Hub](../ai/rag/llama-hub.md)
   - [Llama can now see and run on your device - welcome Llama 3.2](../ai/models/huggingface-blog-llama32.md)
   - [Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs](../ai/research/arxiv-2608-21134.md)
-  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [LlamaIndex - YouTube](../ai/rag/llamaindex-youtube.md)
   - [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md)
   - [LlamaIndex · GitHub](../ai/rag/llamaindex-github.md)
@@ -45495,7 +45489,6 @@ Resources organized by keyword tags.
   - [Llama Hub](../ai/rag/llama-hub.md)
   - [Llama can now see and run on your device - welcome Llama 3.2](../ai/models/huggingface-blog-llama32.md)
   - [Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs](../ai/research/arxiv-2608-21134.md)
-  - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [LlamaIndex - YouTube](../ai/rag/llamaindex-youtube.md)
   - [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md)
   - [LlamaIndex · GitHub](../ai/rag/llamaindex-github.md)
@@ -49725,7 +49718,6 @@ Resources organized by keyword tags.
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [Online Tokenization with Optimal Delay in Linear Time](../ai/research/arxiv-2610-19139.md)
-  - [OpenAI discloses four more rogue incidents](../ai/community/openai-discloses-four-more-rogue-incidents.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
@@ -80647,4 +80639,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-18T00:24:32.365483+05:30*
+*Index generated on 2026-10-18T04:15:17.746837+05:30*
