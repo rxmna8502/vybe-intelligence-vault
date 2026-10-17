@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-17T21:38:51.032668+05:30`
+Generated at: `2026-10-18T00:47:34.114440+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware** - Score: `175` (+65), Rank Change: `+1` ([File](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md))
-- **Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console** - Score: `331` (+26), Rank Change: `+1` ([File](../ai/community/cobanov-ps5lm.md))
-- **Nine-Inch Snails** - Score: `101` (+24), Rank Change: `+1` ([File](../ai/community/nine-inch-snails.md))
-- **liangdabiao/easy_investment_Agent_crewai** - Score: `0` (0), Rank Change: `+14188` ([File](../ai/rag/liangdabiao-easy-investment-agent-crewai.md))
-- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+11` ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1711` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+16` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1053` ([File](../ai/rag/malonge-ragoo.md))
+- **transitive-bullshit/agentic** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/transitive-bullshit-agentic.md))
+- **coleam00/agentic-chat-application-template** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/coleam00-agentic-chat-application-template.md))
+- **cline/cline** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/cline-cline.md))
+- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
+- **langchain-ai/react-agent** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/langchain-ai-react-agent.md))
+- **odsc2015/agentic-hackathon-template** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
+- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **liangdabiao/easy_investment_Agent_crewai** - (Rank Change: `+14188`) ([File](../ai/rag/liangdabiao-easy-investment-agent-crewai.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1711`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **malonge/RaGOO** - (Rank Change: `+1053`) ([File](../ai/rag/malonge-ragoo.md))
-- **facebook/MusicGen** - (Rank Change: `+891`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+891`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+891`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+891`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+891`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+891`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+891`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9289`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1033`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1033`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **90% of US working hours are spent on tasks not covered well by AI benchmarks** (Category: `ai/community`) ([File](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md))
+No recently active resources transitioned to inactive.
+
