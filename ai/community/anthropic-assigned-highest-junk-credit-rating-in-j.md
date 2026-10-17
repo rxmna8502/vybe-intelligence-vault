@@ -13,13 +13,14 @@ collected_at: '2026-10-17T04:29:10.157931+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-assigned-highest-junk-credit-rating-in-j
 first_seen: '2026-10-17T01:10:06.549136+05:30'
 last_seen: '2026-10-17T04:29:10.157931+05:30'
 last_checked: '2026-10-17T04:29:10.157931+05:30'
 health_score: 100
 ---
+
 
 # Anthropic assigned highest junk credit rating in June
 

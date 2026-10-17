@@ -8873,6 +8873,7 @@ Resources organized by keyword tags.
 
   - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
+  - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
   - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
   - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
 
@@ -8980,7 +8981,6 @@ Resources organized by keyword tags.
   - [An Experimental Design Approach to Evaluating Agentic AI's Autonomous Model Discovery](../ai/agents/arxiv-2607-06413.md)
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
-  - [Anthropic assigned highest junk credit rating in June](../ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -30625,6 +30625,7 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -35609,7 +35610,6 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic assigned highest junk credit rating in June](../ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -37484,7 +37484,6 @@ Resources organized by keyword tags.
   - [Lightweight ML-Based Automatic Sleep Staging Framework with Constrained CNN and Mamba for Small-Sample EEG Datasets](../ai/research/arxiv-2607-04934.md)
   - [Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../ai/research/arxiv-2505-13102.md)
   - [Linear Algebra Foundations of Efficient Attention: A Phase Reversal in Rank Collapse Under SVD Compression](../ai/research/arxiv-2609-06341.md)
-  - [Linear Independence of Polynomial Compositions with Bounded Input Degree](../ai/research/arxiv-2610-20825.md)
   - [Linear-Core Surrogates: Smooth Loss Functions with Linear Rates for Classification and Structured Prediction](../ai/research/arxiv-2604-27742.md)
   - [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](../ai/agents/arxiv-2606-15079.md)
   - [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](../ai/rag/arxiv-2602-05493.md)
@@ -37808,6 +37807,7 @@ Resources organized by keyword tags.
   - [News | Android Developers](../ai/resources/news-android-developers.md)
   - [Newton-Schulz Retraction-Based Inference Enables Hidden Quantum Markov Models to Outperform Classical HMMs](../ai/rag/arxiv-2608-06554.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
+  - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
@@ -46452,6 +46452,7 @@ Resources organized by keyword tags.
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Passing Tests, Missing Semantics: Evidence of Interpretive Lock-In in Plan-Based DataFrame Code Generation](../ai/rag/arxiv-2610-15797.md)
   - [PatTransBench: an ipc-stratified, multi-dimensional benchmark for patent machine translation evaluation](../ai/rag/arxiv-2610-16538.md)
@@ -80642,4 +80643,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T04:45:50.999343+05:30*
+*Index generated on 2026-10-17T10:25:56.379236+05:30*

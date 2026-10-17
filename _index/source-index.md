@@ -17953,7 +17953,6 @@ Resources organized by publisher feed and query sources.
   - [Linear Fitness Subspace in Protein Language Models Enables Sample-Efficient Directed Evolution](../ai/research/arxiv-2610-07607.md)
   - [Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation](../ai/research/arxiv-2609-01997.md)
   - [Linear Independence of Polynomial Compositions and Identifiability of Deep Neural Networks](../ai/research/arxiv-2608-27113.md)
-  - [Linear Independence of Polynomial Compositions with Bounded Input Degree](../ai/research/arxiv-2610-20825.md)
   - [Linear Independent Component Analysis via Optimal Transport](../ai/research/arxiv-2607-14081.md)
   - [Linear Programming Representations and Strongly Polynomial Algorithms for Robust Markov Decision Processes](../ai/research/arxiv-2610-02131.md)
   - [Linear Proposal Operators and Stochastic Search Geometry in SOMA and Differential Evolution](../ai/rag/arxiv-2607-29228.md)
@@ -35180,8 +35179,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
-  - [Anthropic assigned highest junk credit rating in June](../ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
+  - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
   - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
   - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
 
@@ -39071,4 +39070,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T04:45:51.438848+05:30*
+*Index generated on 2026-10-17T10:25:56.829320+05:30*
