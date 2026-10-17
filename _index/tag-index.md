@@ -8874,8 +8874,6 @@ Resources organized by keyword tags.
   - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
-  - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
-  - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
 
 ## animation
 
@@ -19673,7 +19671,6 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -30625,7 +30622,6 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -38574,7 +38570,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
+  - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -38720,7 +38716,6 @@ Resources organized by keyword tags.
   - [Stochastic Resetting Accelerates Reinforcement Learning Beyond Random Search](../ai/agents/arxiv-2603-16842.md)
   - [Stochastic Saddle Avoidance Beyond Unit Excitation and Smoothness: A Pathwise Lyapunov-Perron Framework](../ai/research/arxiv-2608-03001.md)
   - [Stochastic-Dimension Frozen Sampled Neural Network for High-Dimensional Gross-Pitaevskii Equations on Unbounded Domains](../ai/research/arxiv-2604-09361.md)
-  - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
   - [Stop Indexing at Full Precision: Revisiting Clustering for Vector Embeddings](../ai/rag/arxiv-2608-14648.md)
   - [Storyset | Customize, animate and download illustration for free](../ai/rag/storyset-customize-animate-and-download-illustrati.md)
   - [Strategic Self-Consistency](../ai/research/arxiv-2609-30352.md)
@@ -39553,6 +39548,7 @@ Resources organized by keyword tags.
   - [p-PSO: A Penalized Particle Swarm Optimization Technique for Finding D-Optimal Designs with Mixed Factors in Generalized Linear Models](../ai/research/arxiv-2606-15962.md)
   - [pandoc • pandoc](../ai/rag/pandoc-pandoc.md)
   - [pandoc: Conversion between markup formats](../ai/rag/pandoc-conversion-between-markup-formats.md)
+  - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md)
   - [paul-hammant/tbd](../ai/resources/paul-hammant-tbd.md)
   - [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md)
@@ -40280,6 +40276,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
 
 ## mdx
 
@@ -46452,7 +46452,6 @@ Resources organized by keyword tags.
   - [Partial Fusion of Neural Networks: Efficient Tradeoffs Between Ensembles and Weight Aggregation](../ai/research/arxiv-2605-22350.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle-based Generalised Stochastic Optimisation](../ai/research/arxiv-2608-02844.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Passing Tests, Missing Semantics: Evidence of Interpretive Lock-In in Plan-Based DataFrame Code Generation](../ai/rag/arxiv-2610-15797.md)
   - [PatTransBench: an ipc-stratified, multi-dimensional benchmark for patent machine translation evaluation](../ai/rag/arxiv-2610-16538.md)
@@ -76968,7 +76967,6 @@ Resources organized by keyword tags.
   - [beezwax blog](../ai/resources/beezwax-blog.md)
   - [bigscience-workshop/promptsource](../ai/resources/bigscience-workshop-promptsource.md)
   - [cigh](../ai/resources/cigh.md)
-  - [cline/cline](../ai/agents/cline-cline.md)
   - [cloudflare/mcp](../ai/resources/cloudflare-mcp.md)
   - [community · Discussions · GitHub](../ai/rag/orgs-community.md)
   - [conda-forge | community-driven packaging for conda](../ai/rag/conda-forge-community-driven-packaging-for-conda.md)
@@ -77063,6 +77061,7 @@ Resources organized by keyword tags.
   - [natemoo-re/astro-icon](../ai/rag/natemoo-re-astro-icon.md)
   - [neuml/txtai](../ai/rag/neuml-txtai.md)
   - [nrwl/nx](../ai/agents/nrwl-nx.md)
+  - [odsc2015/agentic-hackathon-template](../ai/agents/odsc2015-agentic-hackathon-template.md)
   - [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md)
   - [panaversity/langgraph-agents-template](../ai/agents/panaversity-langgraph-agents-template.md)
   - [pandoc • pandoc](../ai/rag/pandoc-pandoc.md)
@@ -80643,4 +80642,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T10:25:56.379236+05:30*
+*Index generated on 2026-10-17T18:06:03.268597+05:30*

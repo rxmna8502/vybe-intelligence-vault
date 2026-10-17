@@ -35181,8 +35181,7 @@ Resources organized by publisher feed and query sources.
   - [90% of US working hours are spent on tasks not covered well by AI benchmarks](../ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
   - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
-  - [Show HN: Wonderhop – A daily game: guess what most people say, or what none do](../ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md)
-  - [Stolen Renoir paintings found hidden, and damaged, behind cinder block wall](../ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md)
+  - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39070,4 +39069,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T10:25:56.829320+05:30*
+*Index generated on 2026-10-17T18:06:03.705402+05:30*

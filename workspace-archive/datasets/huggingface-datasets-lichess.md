@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: Lichess/standard-chess-games (Likes: 111, Downloads: 1451696)
+Trending Hugging Face dataset: Lichess/standard-chess-games (Likes: 111, Downloads: 1486149)
 
 ## Use Cases
 

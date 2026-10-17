@@ -14,13 +14,14 @@ collected_at: '2026-10-17T10:09:25.672941+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-wonderhop-a-daily-game-guess-what-most-peo
 first_seen: '2026-10-17T04:29:09.413198+05:30'
 last_seen: '2026-10-17T10:09:25.672941+05:30'
 last_checked: '2026-10-17T10:09:25.672941+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Wonderhop – A daily game: guess what most people say, or what none do
 

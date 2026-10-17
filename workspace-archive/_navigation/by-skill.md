@@ -348,10 +348,10 @@ This index groups curated resources by target developer skills.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
+- [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template) (Tier: `useful` | [`Local File`](../../ai/agents/coleam00-agentic-chat-application-template.md))
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/jnsahaj-tweakcn.md))
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md))
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-ui.md))
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md))
 
 ## Regression Testing
 
@@ -469,10 +469,10 @@ This index groups curated resources by target developer skills.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
+- [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template) (Tier: `useful` | [`Local File`](../../ai/agents/coleam00-agentic-chat-application-template.md))
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/jnsahaj-tweakcn.md))
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md))
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-ui.md))
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md))
 
 ## Three.js
 
@@ -502,10 +502,10 @@ This index groups curated resources by target developer skills.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
+- [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template) (Tier: `useful` | [`Local File`](../../ai/agents/coleam00-agentic-chat-application-template.md))
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/jnsahaj-tweakcn.md))
 - [salimi-my/shadcn-ui-sidebar](https://github.com/salimi-my/shadcn-ui-sidebar) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md))
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/shadcn-ui-ui.md))
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) (Tier: `useful` | [`Local File`](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md))
 
 ## Vector Indexes
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-10-17 10:29 IST*
+*Last updated: 2026-10-17 18:09 IST*

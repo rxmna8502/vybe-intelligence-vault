@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cline/cline
-collected_at: '2026-09-21T20:47:01.538386+05:30'
-published_at: '2026-09-21T15:13:21Z'
+collected_at: '2026-10-17T17:53:49.727226+05:30'
+published_at: '2026-10-17T11:37:49Z'
 tags:
 - agents
 - github-repo
 - typescript
-- workflows
-stars: 68944
+stars: 70450
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-07-06T07:28:10Z'
-pushed_at: '2026-09-21T14:38:03Z'
+pushed_at: '2026-10-17T09:27:21Z'
 resource_id: github:cline/cline
-first_seen: '2026-09-21T20:47:01.538386+05:30'
-last_seen: '2026-09-21T20:47:01.538386+05:30'
-last_checked: '2026-09-21T20:47:01.538386+05:30'
+first_seen: '2026-10-17T17:53:49.727226+05:30'
+last_seen: '2026-10-17T17:53:49.727226+05:30'
+last_checked: '2026-10-17T17:53:49.727226+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Autonomous coding agent designed for automated software development workflows.
-*   Offers multi-modal integration through SDK, IDE extension, and CLI interfaces.
-*   TypeScript-based implementation with substantial community adoption (68k+ stars).
+*   Autonomous coding agent designed for multi-modal deployment as an SDK, IDE extension, or CLI assistant.
+*   Implemented in TypeScript, indicating a focus on web/Node.js ecosystem integration and type safety.
+*   Demonstrates significant community adoption with over 70,000 stars, suggesting robust functionality and developer interest.
 
 ## Why It Matters
 
@@ -40,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cline
-- Stars: 68944
-- Forks: 7471
+- Stars: 70450
+- Forks: 7689
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-09-21T15:13:21Z
+- Last Updated: 2026-10-17T11:37:49Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-07-06T07:28:10Z
-- Pushed At: 2026-09-21T14:38:03Z
+- Pushed At: 2026-10-17T09:27:21Z
 
 ## Possible Use Cases
 

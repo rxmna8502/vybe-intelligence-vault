@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
-collected_at: '2026-10-16T18:53:24.610743+05:30'
-published_at: '2026-10-14T19:29:42Z'
+collected_at: '2026-10-17T17:50:29.628713+05:30'
+published_at: '2026-10-16T20:08:48Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2017-07-13T19:46:01Z'
-pushed_at: '2026-10-14T19:29:33Z'
+pushed_at: '2026-10-16T20:16:21Z'
 resource_id: github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials
-first_seen: '2026-10-16T18:53:24.610743+05:30'
-last_seen: '2026-10-16T18:53:24.610743+05:30'
-last_checked: '2026-10-16T18:53:24.610743+05:30'
+first_seen: '2026-10-17T17:50:29.628713+05:30'
+last_seen: '2026-10-17T17:50:29.628713+05:30'
+last_checked: '2026-10-17T17:50:29.628713+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Provides autograded, platform-agnostic (Colab, Kaggle, Binder, Codespaces, Jupyter) hands-on AI courses spanning deep learning, ML, and AI agents (MCP).
-*   Covers advanced AI applications including predictive maintenance, document AI (extraction, retrieval, RAG), and simulated humanoid robotics (MuJoCo).
-*   Integrates critical aspects of AI governance, focusing on EU AI Act conformity evidence, model validation, and responsible AI practices.
+*   Provides autograded, platform-agnostic (Colab, Kaggle, Binder
 
 ## Why It Matters
 
@@ -41,14 +39,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: TarrySingh
 - Stars: 4013
-- Forks: 1625
+- Forks: 1634
 - Language: Python
 - Topics: ai-agents, ai-governance, artificial-intelligence, autograding, deep-learning, document-ai, eu-ai-act, google-colab, humanoid-robotics, jupyter-notebook, machine-learning, mlops, model-risk-management, mujoco, online-course, predictive-maintenance, python, rag, responsible-ai, synapsa
-- Last Updated: 2026-10-14T19:29:42Z
+- Last Updated: 2026-10-16T20:08:48Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2017-07-13T19:46:01Z
-- Pushed At: 2026-10-14T19:29:33Z
+- Pushed At: 2026-10-16T20:16:21Z
 
 ## Possible Use Cases
 
