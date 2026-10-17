@@ -8871,8 +8871,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Amazon uses AI to monitor union risk in UK warehouses](../ai/community/amazon-uses-ai-to-monitor-union-risk-in-uk-warehou.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
-  - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
+  - [OpenAI discloses four more rogue incidents](../ai/community/openai-discloses-four-more-rogue-incidents.md)
+  - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
+  - [Tell HN: Remember to migrate away from .name domain](../ai/community/tell-hn-remember-to-migrate-away-from-name-domain.md)
 
 ## animation
 
@@ -35559,6 +35562,7 @@ Resources organized by keyword tags.
   - [Allure of Craquelure: A Variational-Generative Approach to Crack Detection in Paintings](../ai/research/arxiv-2602-09730.md)
   - [Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise](../ai/research/arxiv-2609-12119.md)
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
+  - [Amazon uses AI to monitor union risk in UK warehouses](../ai/community/amazon-uses-ai-to-monitor-union-risk-in-uk-warehou.md)
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
   - [Amortizing intractable inference in diffusion models for vision, language, and control](../ai/rag/arxiv-2405-20971.md)
   - [An AI-assisted conditioning and geological interpretation workflow for usage in implicit geological modeling](../ai/research/arxiv-2610-09871.md)
@@ -37802,7 +37806,6 @@ Resources organized by keyword tags.
   - [News | Android Developers](../ai/resources/news-android-developers.md)
   - [Newton-Schulz Retraction-Based Inference Enables Hidden Quantum Markov Models to Outperform Classical HMMs](../ai/rag/arxiv-2608-06554.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
-  - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
@@ -37899,6 +37902,7 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
+  - [OpenAI discloses four more rogue incidents](../ai/community/openai-discloses-four-more-rogue-incidents.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -37992,6 +37996,7 @@ Resources organized by keyword tags.
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage](../ai/rag/arxiv-2608-18438.md)
+  - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](../ai/research/perception-tokens-enhance-visual-reasoning-in-mult.md)
   - [Perception-Aligned AI Outputs: End-to-End Visual Prediction for Uncertainty Communication in Clinical Decision-Making](../ai/research/arxiv-2205-04599.md)
   - [Performance Foundations of Parallel & Distributed Reasoning Language Models](../ai/research/arxiv-2608-27046.md)
@@ -38813,6 +38818,7 @@ Resources organized by keyword tags.
   - [Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des pr](../ai/rag/technologies-emergentes-et-protection-des-mineurs.md)
   - [Technology Radar | Guide to technology landscape | Thoughtworks](../ai/rag/technology-radar-guide-to-technology-landscape-tho.md)
   - [Teknoloji Transfer Ofisi](../ai/resources/teknoloji-transfer-ofisi.md)
+  - [Tell HN: Remember to migrate away from .name domain](../ai/community/tell-hn-remember-to-migrate-away-from-name-domain.md)
   - [Tembo - Move coding agents to the cloud](../ai/rag/tembo-move-coding-agents-to-the-cloud.md)
   - [Temperon: Full-Time SAM Quality at a Third Less Wall-Clock](../ai/research/arxiv-2609-17575.md)
   - [Tempora-Fusion: Time-Lock Puzzle with Efficient Verifiable Homomorphic Linear Combination](../ai/research/arxiv-2406-15070.md)
@@ -39435,7 +39441,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -49720,6 +49725,7 @@ Resources organized by keyword tags.
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [Online Tokenization with Optimal Delay in Linear Time](../ai/research/arxiv-2610-19139.md)
+  - [OpenAI discloses four more rogue incidents](../ai/community/openai-discloses-four-more-rogue-incidents.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
@@ -80641,4 +80647,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T21:33:56.658016+05:30*
+*Index generated on 2026-10-18T00:24:32.365483+05:30*

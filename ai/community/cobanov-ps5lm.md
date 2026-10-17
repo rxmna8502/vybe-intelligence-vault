@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/cobanov/ps5lm
 hn_url: https://news.ycombinator.com/item?id=50122431
-score: 331
+score: 356
 author: Anon84
-comments_count: 82
+comments_count: 83
 published_at: '2026-10-17T00:02:35+05:30'
-collected_at: '2026-10-17T21:17:11.830270+05:30'
+collected_at: '2026-10-18T00:08:00.989268+05:30'
 tags:
 - ai
 - hackernews
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: github:cobanov/ps5lm
 first_seen: '2026-10-17T01:10:04.290659+05:30'
-last_seen: '2026-10-17T21:17:11.830270+05:30'
-last_checked: '2026-10-17T21:17:11.830270+05:30'
+last_seen: '2026-10-18T00:08:00.989268+05:30'
+last_checked: '2026-10-18T00:08:00.989268+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Anon84. Score: 331, Comments: 82.
+Hacker News story by Anon84. Score: 356, Comments: 83.
 Original Link: https://github.com/cobanov/PS5LM
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Anon84
-- Score: 331 Upvotes
-- Comments: 82 Discussions
+- Score: 356 Upvotes
+- Comments: 83 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50122431
 - Original Article: https://github.com/cobanov/ps5lm
 

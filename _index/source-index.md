@@ -35178,9 +35178,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Amazon uses AI to monitor union risk in UK warehouses](../ai/community/amazon-uses-ai-to-monitor-union-risk-in-uk-warehou.md)
   - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](../ai/community/cobanov-ps5lm.md)
-  - [Nine-Inch Snails](../ai/community/nine-inch-snails.md)
+  - [OpenAI discloses four more rogue incidents](../ai/community/openai-discloses-four-more-rogue-incidents.md)
+  - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
+  - [Tell HN: Remember to migrate away from .name domain](../ai/community/tell-hn-remember-to-migrate-away-from-name-domain.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39068,4 +39071,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-17T21:33:57.090583+05:30*
+*Index generated on 2026-10-18T00:24:32.808727+05:30*

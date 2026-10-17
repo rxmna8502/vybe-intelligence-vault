@@ -303,7 +303,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | llmspeed.dev | 1 |
-| theatlantic.com | 1 |
+| opendemocracy.net | 1 |
+| news.ycombinator.com | 1 |
+| fortune.com | 1 |
+| pele.run | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
