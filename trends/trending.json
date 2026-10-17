@@ -1,7 +1,58 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-10-17T05:06:07.451342+05:30",
+  "generated_at": "2026-10-17T09:00:39.050521+05:30",
   "trending_resources": [
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1031,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:datawhalechina/llm-universe",
+      "title": "datawhalechina/llm-universe",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "file_path": "ai/rag/datawhalechina-llm-universe.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1031,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1031,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:datawhalechina/all-in-rag",
+      "title": "datawhalechina/all-in-rag",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/all-in-rag",
+      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1031,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "github:agent0ai/agent-zero",
       "title": "agent0ai/agent-zero",
@@ -25,25 +76,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1031,
-=======
-  "generated_at": "2026-10-17T04:50:47.370620+05:30",
-  "trending_resources": [
-    {
-      "id": "hackernews:90-of-us-working-hours-are-spent-on-tasks-not-cove",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://mercor.com/research/labor-index/benchmark-map",
-      "file_path": "ai/community/90-of-us-working-hours-are-spent-on-tasks-not-cove.md",
-      "score": 350,
-      "score_change": 119,
-      "rank_change": 0,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:vivy-yi/rag-tutorial",
       "title": "vivy-yi/rag-tutorial",
       "category": "ai/rag",
@@ -53,22 +89,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1031,
-=======
-      "id": "hackernews:anthropic-assigned-highest-junk-credit-rating-in-j",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "file_path": "ai/community/anthropic-assigned-highest-junk-credit-rating-in-j.md",
-      "score": 179,
-      "score_change": 109,
-      "rank_change": 1,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:enescingoz/awesome-n8n-templates",
       "title": "enescingoz/awesome-n8n-templates",
       "category": "ai/rag",
@@ -78,22 +102,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1031,
-=======
-      "id": "github:cobanov/ps5lm",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/cobanov/ps5lm",
-      "file_path": "ai/community/cobanov-ps5lm.md",
-      "score": 139,
-      "score_change": 97,
-      "rank_change": 1,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:techwithtim/langflow-rag-tutorial",
       "title": "techwithtim/Langflow-RAG-Tutorial",
       "category": "ai/rag",
@@ -103,30 +115,6 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1031,
-=======
-      "id": "hackernews:stolen-renoir-paintings-found-hidden-and-damaged-b",
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france",
-      "file_path": "ai/community/stolen-renoir-paintings-found-hidden-and-damaged-b.md",
-      "score": 94,
-      "score_change": 15,
-      "rank_change": -2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1050,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -139,113 +127,19 @@
       "file_path": "ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md",
       "score": 0,
       "score_change": 0,
-<<<<<<< Updated upstream
       "rank_change": 1031,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pguso/rag-from-scratch",
-      "title": "pguso/rag-from-scratch",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/pguso/rag-from-scratch",
-      "file_path": "ai/rag/pguso-rag-from-scratch.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1031,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:krishnaik06/rag-tutorials",
-      "title": "krishnaik06/RAG-Tutorials",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/krishnaik06/rag-tutorials",
-      "file_path": "ai/rag/krishnaik06-rag-tutorials.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1031,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pixegami/rag-tutorial-v2",
-      "title": "pixegami/rag-tutorial-v2",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/pixegami/rag-tutorial-v2",
-      "file_path": "ai/rag/pixegami-rag-tutorial-v2.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1031,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pixegami/langchain-rag-tutorial",
-      "title": "pixegami/langchain-rag-tutorial",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/pixegami/langchain-rag-tutorial",
-      "file_path": "ai/rag/pixegami-langchain-rag-tutorial.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1031,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
-<<<<<<< Updated upstream
       "id": "blog:medium-privacy-policy-by-medium-medium-policy",
       "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
       "source_type": "web",
       "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
       "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
-=======
-      "id": "github:particlemedia/ragtruth",
-      "title": "ParticleMedia/RAGTruth",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/particlemedia/ragtruth",
-      "file_path": "ai/rag/particlemedia-ragtruth.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1050,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:react-canaries-enabling-incremental-feature-rollou",
-      "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
-      "category": "web-development",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2023/05/03/react-canaries",
-      "file_path": "web-development/react-canaries-enabling-incremental-feature-rollou.md",
->>>>>>> Stashed changes
       "score": 0,
       "score_change": 0,
       "rank_change": 9290,
@@ -253,21 +147,12 @@
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:microsoft/rag-time",
       "title": "microsoft/rag-time",
       "category": "ai/rag",
       "source_type": "github",
       "url": "https://github.com/microsoft/rag-time",
       "file_path": "ai/rag/microsoft-rag-time.md",
-=======
-      "id": "blog:sunsetting-create-react-app",
-      "title": "Sunsetting Create React App",
-      "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
-      "file_path": "ai/rag/sunsetting-create-react-app.md",
->>>>>>> Stashed changes
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
@@ -275,21 +160,12 @@
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.02392",
       "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
       "source_type": "arxiv",
       "url": "https://arxiv.org/abs/2608.02392",
       "file_path": "ai/research/arxiv-2608-02392.md",
-=======
-      "id": "blog:react-19-3",
-      "title": "React 19.3",
-      "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2026/09/09/react-19-3",
-      "file_path": "ai/rag/react-19-3.md",
->>>>>>> Stashed changes
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
@@ -297,7 +173,6 @@
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.02046",
       "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
       "category": "ai/rag",
@@ -307,22 +182,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
-=======
-      "id": "huggingface:datasets/thomasthemaker",
-      "title": "ThomasTheMaker/ptb-xl-ecg",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/thomasthemaker",
-      "file_path": "ai/models/huggingface-datasets-thomasthemaker.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.01791",
       "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
       "category": "ai/rag",
@@ -332,22 +195,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
-=======
-      "id": "huggingface:datasets/banned-historical-archives",
-      "title": "banned-historical-archives/banned-historical-archives",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/banned-historical-archives",
-      "file_path": "ai/models/huggingface-datasets-banned-historical-archives.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.01207",
       "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
       "category": "ai/rag",
@@ -357,22 +208,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
-=======
-      "id": "huggingface:datasets/bulei",
-      "title": "BuLei/imgbed",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/bulei",
-      "file_path": "ai/models/huggingface-datasets-bulei.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.23462",
       "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
       "category": "ai/research",
@@ -382,22 +221,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
-=======
-      "id": "huggingface:datasets/ayuo",
-      "title": "ayuo/hd_tmp",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/ayuo",
-      "file_path": "ai/models/huggingface-datasets-ayuo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.22216",
       "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
       "category": "ai/research",
@@ -407,22 +234,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
-=======
-      "id": "huggingface:datasets/lichess",
-      "title": "Lichess/standard-chess-games",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/lichess",
-      "file_path": "ai/models/huggingface-datasets-lichess.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.09123",
       "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
       "category": "ai/research",
@@ -445,24 +260,12 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1034,
-=======
-      "id": "huggingface:datasets/salesforce",
-      "title": "Salesforce/wikitext",
-      "category": "ai/models",
-      "source_type": "huggingface_dataset",
-      "url": "https://huggingface.co/datasets/salesforce",
-      "file_path": "ai/models/huggingface-datasets-salesforce.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 10,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-<<<<<<< Updated upstream
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
       "category": "Agent Framework",
@@ -470,43 +273,13 @@
       "url": "",
       "file_path": "docs/sample-digest.md",
       "score": 0,
-=======
-      "id": "hackernews:show-hn-wonderhop-a-daily-game-guess-what-most-peo",
-      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://wonderhop.io/en",
-      "file_path": "ai/community/show-hn-wonderhop-a-daily-game-guess-what-most-peo.md",
-      "score": 49,
->>>>>>> Stashed changes
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
     }
   ],
-<<<<<<< Updated upstream
   "recently_inactive_resources": [],
-=======
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:how-to-make-system-1-llms-show-system-2-competenci",
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "file_path": "ai/community/how-to-make-system-1-llms-show-system-2-competenci.md"
-    },
-    {
-      "id": "hackernews:the-nist-elliptic-curves-seeds-bounty-has-been-cla",
-      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://words.filippo.io/seeds-solved",
-      "file_path": "ai/community/the-nist-elliptic-curves-seeds-bounty-has-been-cla.md"
-    }
-  ],
->>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }

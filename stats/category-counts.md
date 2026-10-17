@@ -4,22 +4,10 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-<<<<<<< Updated upstream
 | `Agent Framework/` | 1 |
 | `ai/agents/` | 6000 |
-| `ai/community/` | 9 |
-| `ai/rag/` | 11687 |
-=======
-| `ai/agents/` | 6068 |
 | `ai/community/` | 8 |
-| `ai/companies/` | 10 |
-| `ai/companies/anthropic/` | 10 |
-| `ai/companies/deepmind/` | 5 |
-| `ai/companies/mistral/` | 10 |
-| `ai/companies/openai/` | 5 |
-| `ai/models/` | 820 |
-| `ai/rag/` | 11719 |
->>>>>>> Stashed changes
+| `ai/rag/` | 11687 |
 | `ai/releases/` | 1 |
 | `ai/research/` | 18601 |
 | `ai/resources/` | 1537 |
@@ -34,7 +22,6 @@ Below is the file distribution across the vault categories.
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
-| `world/public/vault/daily-digests/2026-10-16/` | 1 |
 
 ## Categories Needing More Coverage
 
