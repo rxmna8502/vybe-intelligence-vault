@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-18T21:52:45.412337+05:30`
+Generated at: `2026-10-19T00:36:51.288608+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Namecheap just seized and disabled all my domains** - Score: `71` in category `ai/community` ([Link](https://reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains)) ([File](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md))
+- **The Brain Sandwich** - Score: `46` in category `ai/community` ([Link](https://terriblesoftware.org/2026/10/02/the-brain-sandwich)) ([File](../ai/community/the-brain-sandwich.md))
+- **Oct 18, 2026AnnouncementsInvesting in the public benefit** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/public-benefit-fund)) ([File](../ai/companies/anthropic/oct-18-2026announcementsinvesting-in-the-public-be.md))
 
 ## Top Trending Resources
 
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **liangdabiao/easy_investment_Agent_crewai** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/liangdabiao-easy-investment-agent-crewai.md))
-- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **transitive-bullshit/agentic** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/transitive-bullshit-agentic.md))
-- **coleam00/agentic-chat-application-template** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/coleam00-agentic-chat-application-template.md))
-- **cline/cline** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/cline-cline.md))
-- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **langchain-ai/react-agent** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/langchain-ai-react-agent.md))
-- **odsc2015/agentic-hackathon-template** - Score: `0` (0), Rank Change: `+1030` ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
+- **Pele – Mermaid diagrams as themeable SVG** - Score: `553` (+78), Rank Change: `0` ([File](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md))
+- **Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping** - Score: `219` (+52), Rank Change: `+1` ([File](../ai/community/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai.md))
+- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1054` ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+19` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/malonge-ragoo.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+9` ([File](../ai/rag/datawhalechina-llm-universe.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9289`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1033`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1033`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1033`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1033`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **NirDiamant/RAG_Techniques** - (Rank Change: `+1054`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **Oct 1, 2026AnnouncementsBarclays scales Claude to upgrade operations and improve client experience** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-1-2026announcementsbarclays-scales-claude-to-u.md))
+- **Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md))
+- **Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md))
+- **Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md))
+- **Oct 8, 2026Announcements2026 Usage Policy update** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md))
+- **Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md))
+- **Oct 14, 2026PolicyPreparing for the 2026 US midterms** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md))
+- **Oct 15, 2026AnnouncementsAn update on independent evaluators** - (Rank Change: `+127`) ([File](../ai/companies/anthropic/oct-15-2026announcementsan-update-on-independent-e.md))
+- **Responsible Scaling Policy** - (Rank Change: `+126`) ([File](../ai/companies/anthropic/responsible-scaling-policy.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +47,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware** (Category: `ai/community`) ([File](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md))
+- **Lorenz and Little: How Much Does Your Tail Cost?** (Category: `ai/community`) ([File](../ai/community/lorenz-and-little-how-much-does-your-tail-cost.md))
+- **A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]** (Category: `ai/community`) ([File](../ai/community/a-history-of-curves-and-surfaces-in-computer-aided.md))

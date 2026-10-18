@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-10-17T21:18:06.166693+05:30'
-published_at: '2026-10-17T15:17:13Z'
+collected_at: '2026-10-19T00:16:16.303112+05:30'
+published_at: '2026-10-18T17:40:07Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - models
 - openai
 - rag
-stars: 29899
+stars: 29908
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-10-17T15:16:56Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-10-17T21:18:06.166693+05:30'
-last_seen: '2026-10-17T21:18:06.166693+05:30'
-last_checked: '2026-10-17T21:18:06.166693+05:30'
+first_seen: '2026-10-19T00:16:16.303112+05:30'
+last_seen: '2026-10-19T00:16:16.303112+05:30'
+last_checked: '2026-10-19T00:16:16.303112+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,8 @@ health_score: 100
 
 ## Summary
 
-*   Showcases advanced Retrieval-Augmented Generation (RAG) techniques through detailed Jupyter Notebook tutorials.
-*   Covers core RAG components, including embeddings, vector databases, and semantic search implementations.
-*   Demonstrates integration with LLM frameworks like LangChain and LlamaIndex, featuring agentic RAG patterns.
+*   Provides comprehensive Jupyter Notebook tutorials on advanced Retrieval-Augmented Generation (RAG) techniques.
+*   Implements RAG systems utilizing
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 29899
-- Forks: 3731
+- Stars: 29908
+- Forks: 3759
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-10-17T15:17:13Z
+- Last Updated: 2026-10-18T17:40:07Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

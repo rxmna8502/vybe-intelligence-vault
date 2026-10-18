@@ -17,23 +17,23 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (34100 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (34101 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1850 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (18974 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
 - **[Model Providers](../model-providers/README.md)** (3315 files): Public metadata and documentation links for model APIs and provider ecosystems.
-- **[Inference and Local LLM](../inference-local-llm/README.md)** (1685 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
+- **[Inference and Local LLM](../inference-local-llm/README.md)** (1684 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
 
 - **[Prompt Libraries](../prompt-libraries/README.md)** (269 files): System prompts, agent prompts, coding prompts, prompt templates, role prompts, and prompt engineering examples.
-- **[Automation Workflows](../automation-workflows/README.md)** (2394 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
+- **[Automation Workflows](../automation-workflows/README.md)** (2393 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
 - **[Public APIs](../public-apis/README.md)** (50 files): Public API directories, useful APIs for AI apps, no-auth APIs, dev APIs, and API examples.
 - **[AI Tools and Products](../ai-tools-products/README.md)** (196 files): AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling.
 
 ## Creative 3D Dev & Frontend Interfaces
 
-- **[Frontend AI UI](../frontend-ai-ui/README.md)** (250 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
-- **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (183 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
+- **[Frontend AI UI](../frontend-ai-ui/README.md)** (251 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
+- **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (182 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
 - **[LLM App Templates](../llm-app-templates/README.md)** (442 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
 
 ## Career Track & Startup Engineering
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (250 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-18 18:39 IST*
+*Last updated: 2026-10-19 00:35 IST*

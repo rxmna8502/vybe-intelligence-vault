@@ -13,13 +13,14 @@ collected_at: '2026-10-18T18:20:49.284707+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:lorenz-and-little-how-much-does-your-tail-cost
 first_seen: '2026-10-18T18:20:49.284707+05:30'
 last_seen: '2026-10-18T18:20:49.284707+05:30'
 last_checked: '2026-10-18T18:20:49.284707+05:30'
 health_score: 100
 ---
+
 
 # Lorenz and Little: How Much Does Your Tail Cost?
 

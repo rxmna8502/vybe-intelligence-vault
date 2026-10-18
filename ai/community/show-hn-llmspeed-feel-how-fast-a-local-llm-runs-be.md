@@ -13,13 +13,14 @@ collected_at: '2026-10-18T18:20:50.662303+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be
 first_seen: '2026-10-17T17:49:24.290880+05:30'
 last_seen: '2026-10-18T18:20:50.662303+05:30'
 last_checked: '2026-10-18T18:20:50.662303+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
 

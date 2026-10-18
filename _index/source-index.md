@@ -34269,6 +34269,7 @@ Resources organized by publisher feed and query sources.
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
   - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 15, 2026AnnouncementsAn update on independent evaluators](../ai/companies/anthropic/oct-15-2026announcementsan-update-on-independent-e.md)
+  - [Oct 18, 2026AnnouncementsInvesting in the public benefit](../ai/companies/anthropic/oct-18-2026announcementsinvesting-in-the-public-be.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
@@ -34281,7 +34282,6 @@ Resources organized by publisher feed and query sources.
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
-  - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
 
@@ -35178,11 +35178,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]](../ai/community/a-history-of-curves-and-surfaces-in-computer-aided.md)
-  - [Lorenz and Little: How Much Does Your Tail Cost?](../ai/community/lorenz-and-little-how-much-does-your-tail-cost.md)
+  - [Namecheap just seized and disabled all my domains](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md)
   - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
-  - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
   - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](../ai/community/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai.md)
+  - [The Brain Sandwich](../ai/community/the-brain-sandwich.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39070,4 +39069,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-18T18:37:20.150793+05:30*
+*Index generated on 2026-10-19T00:31:54.430804+05:30*

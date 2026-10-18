@@ -8871,10 +8871,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]](../ai/community/a-history-of-curves-and-surfaces-in-computer-aided.md)
-  - [Lorenz and Little: How Much Does Your Tail Cost?](../ai/community/lorenz-and-little-how-much-does-your-tail-cost.md)
+  - [Namecheap just seized and disabled all my domains](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md)
   - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](../ai/community/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai.md)
+  - [The Brain Sandwich](../ai/community/the-brain-sandwich.md)
 
 ## animation
 
@@ -9430,6 +9430,7 @@ Resources organized by keyword tags.
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
   - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 15, 2026AnnouncementsAn update on independent evaluators](../ai/companies/anthropic/oct-15-2026announcementsan-update-on-independent-e.md)
+  - [Oct 18, 2026AnnouncementsInvesting in the public benefit](../ai/companies/anthropic/oct-18-2026announcementsinvesting-in-the-public-be.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
@@ -9559,7 +9560,6 @@ Resources organized by keyword tags.
   - [Self-host LangSmith on Kubernetes - Docs by LangChain](../ai/rag/self-host-langsmith-on-kubernetes-docs-by-langchai.md)
   - [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](../ai/agents/arxiv-2609-11180.md)
   - [SentenceTransformers Documentation — Sentence Transformers documentation](../ai/rag/sentencetransformers-documentation-sentence-transf.md)
-  - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [SimGuide: Typed Multi-Context User Representations for Preference-Conditioned Agent Planning](../ai/agents/arxiv-2608-24888.md)
   - [Simon Willison: Prompt injection](../ai/rag/simon-willison-prompt-injection.md)
@@ -9767,12 +9767,12 @@ Resources organized by keyword tags.
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
   - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 15, 2026AnnouncementsAn update on independent evaluators](../ai/companies/anthropic/oct-15-2026announcementsan-update-on-independent-e.md)
+  - [Oct 18, 2026AnnouncementsInvesting in the public benefit](../ai/companies/anthropic/oct-18-2026announcementsinvesting-in-the-public-be.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
   - [Oct 8, 2026AnnouncementsIntroducing the Anthropic Cyber Mission](../ai/companies/anthropic/oct-8-2026announcementsintroducing-the-anthropic-c.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
-  - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
 
 ## astro
 
@@ -25132,6 +25132,7 @@ Resources organized by keyword tags.
   - [Oct 14, 2026AnnouncementsAnthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/oct-14-2026announcementsanthropic-opens-singapore.md)
   - [Oct 14, 2026PolicyPreparing for the 2026 US midterms](../ai/companies/anthropic/oct-14-2026policypreparing-for-the-2026-us-midterm.md)
   - [Oct 15, 2026AnnouncementsAn update on independent evaluators](../ai/companies/anthropic/oct-15-2026announcementsan-update-on-independent-e.md)
+  - [Oct 18, 2026AnnouncementsInvesting in the public benefit](../ai/companies/anthropic/oct-18-2026announcementsinvesting-in-the-public-be.md)
   - [Oct 2, 2026AnnouncementsAnthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap](../ai/companies/anthropic/oct-2-2026announcementsanthropic-invests-100-milli.md)
   - [Oct 8, 2026Announcements2026 Usage Policy update](../ai/companies/anthropic/oct-8-2026announcements2026-usage-policy-update.md)
   - [Oct 8, 2026AnnouncementsBuilding on our commitment to American scientific discovery](../ai/companies/anthropic/oct-8-2026announcementsbuilding-on-our-commitment.md)
@@ -25144,7 +25145,6 @@ Resources organized by keyword tags.
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
-  - [Sep 23, 2026Science Claude discovers a novel enzyme system with CRISPR-like repeats](../ai/companies/anthropic/sep-23-2026science-claude-discovers-a-novel-enzyme.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
   - [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md)
 
@@ -35247,7 +35247,6 @@ Resources organized by keyword tags.
   - [A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding](../ai/research/arxiv-2607-05406.md)
   - [A HamNoSys-Guided Dataset and Baselines for Fine-Grained Isolated Handshape Recognition in Sign Language](../ai/research/arxiv-2608-10588.md)
   - [A Hierarchical Approach to Imitation Learning for Manipulation Tasks Requiring Time Varying Forces](../ai/rag/arxiv-2608-03103.md)
-  - [A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]](../ai/community/a-history-of-curves-and-surfaces-in-computer-aided.md)
   - [A Hybrid Agentic AI Framework for Intelligent Supply Chain Analytics](../ai/agents/arxiv-2609-13561.md)
   - [A Hybrid Iterative Deep Ritz Method for Elliptic Interface Problems](../ai/research/arxiv-2609-27325.md)
   - [A Hybrid Quantum-Classical Approach for Melt Pool Prediction in Laser Powder Bed Fusion](../ai/rag/arxiv-2606-23719.md)
@@ -37516,7 +37515,6 @@ Resources organized by keyword tags.
   - [LongCat-DeepResearch Technical Report](../ai/rag/arxiv-2609-36071.md)
   - [Longhorn Alert | Security and Emergency Management](../ai/resources/longhorn-alert-security-and-emergency-management.md)
   - [Look Before You Lift: Visual and Quantitative Diagnostics for Topological Deep Learning](../ai/rag/arxiv-2608-15388.md)
-  - [Lorenz and Little: How Much Does Your Tail Cost?](../ai/community/lorenz-and-little-how-much-does-your-tail-cost.md)
   - [Lose the Order, Keep the Hierarchy: Deordering HTN Plans](../ai/research/arxiv-2609-03912.md)
   - [Loss Landscape Geometry of Partial Differential Equation Emulators: Or, Symmetry Learning via Gradient Alignment](../ai/research/arxiv-2601-20172.md)
   - [Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits](../ai/rag/arxiv-2607-22564.md)
@@ -37754,6 +37752,7 @@ Resources organized by keyword tags.
   - [NSF SAGE: Data Services: Nodes: DMC: Software: Complete List of Software Downloads](../ai/rag/nsf-sage-data-services-nodes-dmc-software-complete.md)
   - [NVIDIA](../ai/resources/nvidia.md)
   - [NVIDIA/SkillSpector](../ai/rag/nvidia-skillspector.md)
+  - [Namecheap just seized and disabled all my domains](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md)
   - [Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead](../ai/agents/arxiv-2608-13987.md)
   - [Narrative Keyframing for Generative Creative Writing](../ai/research/arxiv-2608-10337.md)
   - [NarrativeSteward: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring](../ai/agents/arxiv-2609-39333.md)
@@ -38572,7 +38571,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
   - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](../ai/community/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
@@ -38858,6 +38856,7 @@ Resources organized by keyword tags.
   - [The BatchNorm Illusion: Diagnosing Normalization Artifacts in Machine Unlearning Evaluation](../ai/research/arxiv-2609-08901.md)
   - [The Benchmark Trap: Structures of Power and Injustice in AI Evaluations](../ai/research/arxiv-2608-15326.md)
   - [The Biggest Risk of Embodied AI is Governance Lag](../ai/research/arxiv-2604-21938.md)
+  - [The Brain Sandwich](../ai/community/the-brain-sandwich.md)
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
@@ -40276,10 +40275,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
 
 ## mdx
 
@@ -69710,6 +69705,7 @@ Resources organized by keyword tags.
   - [NSF SAGE: Data Services: Nodes: DMC: Software: Complete List of Software Downloads](../ai/rag/nsf-sage-data-services-nodes-dmc-software-complete.md)
   - [NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning](../ai/rag/arxiv-2606-13171.md)
   - [NVIDIA](../ai/resources/nvidia.md)
+  - [Namecheap just seized and disabled all my domains](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md)
   - [NanmiCoder/MediaCrawler](../ai/trending/nanmicoder-mediacrawler.md)
   - [Nathan Rooy](../ai/rag/nathan-rooy.md)
   - [Nation SkillUp](../ai/resources/nation-skillup.md)
@@ -71569,7 +71565,6 @@ Resources organized by keyword tags.
   - [2026 | CVPR Art](../ai/rag/2026-cvpr-art.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [A Comparative Analysis of MLP and Kolmogorov-Arnold Networks (KAN) for Faster-than-Nyquist (FTN) Signaling Detection](../ai/research/arxiv-2608-02062.md)
-  - [A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]](../ai/community/a-history-of-curves-and-surfaces-in-computer-aided.md)
   - [A Repeated Measurements Approach to $SoH$ Battery Modelling of Cyclic Aged Data in a Laboratory Environment](../ai/research/arxiv-2608-19879.md)
   - [A Voxel-Spacing-Aware Extension of PyRadiomics for Anisotropic Texture Analysis](../ai/rag/arxiv-2609-14103.md)
   - [A mesh-free multiresolution deep energy method with phase-field modeling of brittle fracture](../ai/research/arxiv-2608-24126.md)
@@ -80639,4 +80634,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-18T18:37:19.789327+05:30*
+*Index generated on 2026-10-19T00:31:53.990105+05:30*
