@@ -13,13 +13,14 @@ collected_at: '2026-10-19T00:15:25.649790+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-brain-sandwich
 first_seen: '2026-10-19T00:15:25.649790+05:30'
 last_seen: '2026-10-19T00:15:25.649790+05:30'
 last_checked: '2026-10-19T00:15:25.649790+05:30'
 health_score: 100
 ---
+
 
 # The Brain Sandwich
 

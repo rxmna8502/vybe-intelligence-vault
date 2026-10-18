@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://sphinx-six-theta.vercel.app
 hn_url: https://news.ycombinator.com/item?id=50137950
-score: 219
+score: 237
 author: critiquebrowser
-comments_count: 75
+comments_count: 79
 published_at: '2026-10-18T10:03:49+05:30'
-collected_at: '2026-10-19T00:15:25.473002+05:30'
+collected_at: '2026-10-19T04:02:45.756502+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai
 first_seen: '2026-10-18T18:20:47.804303+05:30'
-last_seen: '2026-10-19T00:15:25.473002+05:30'
-last_checked: '2026-10-19T00:15:25.473002+05:30'
+last_seen: '2026-10-19T04:02:45.756502+05:30'
+last_checked: '2026-10-19T04:02:45.756502+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by critiquebrowser. Score: 219, Comments: 75.
+Hacker News story by critiquebrowser. Score: 237, Comments: 79.
 Original Link: https://sphinx-six-theta.vercel.app/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: critiquebrowser
-- Score: 219 Upvotes
-- Comments: 75 Discussions
+- Score: 237 Upvotes
+- Comments: 79 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50137950
 - Original Article: https://sphinx-six-theta.vercel.app
 

@@ -15004,7 +15004,6 @@ Resources organized by publisher feed and query sources.
   - [Hybrid Quantum CNN for Cross-Sensor Spaceborne Volcanic Thermal Activity Recognition Worldwide](../ai/rag/arxiv-2608-00069.md)
   - [Hybrid Quantum Neural Networks: Theory, Implementations, and Applications](../ai/research/arxiv-2608-01194.md)
   - [Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning](../ai/rag/arxiv-2608-13914.md)
-  - [Hybrid Reasoning Agents](../ai/agents/arxiv-2610-18861.md)
   - [Hybrid Reasoning Systems That Prioritize and Enhance Human Intelligence](../ai/research/arxiv-2504-13477.md)
   - [Hybrid Reinforcement Learning and Search for Flight Trajectory Planning](../ai/agents/arxiv-2509-04100.md)
   - [Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search](../ai/rag/arxiv-2609-01617.md)
@@ -35178,10 +35177,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](../ai/agents/arxiv-2610-18861.md)
+  - [I built a programming language that LLMs can't use](../ai/community/i-built-a-programming-language-that-llms-can-t-use.md)
   - [Namecheap just seized and disabled all my domains](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md)
-  - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](../ai/community/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai.md)
-  - [The Brain Sandwich](../ai/community/the-brain-sandwich.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39069,4 +39068,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-19T00:31:54.430804+05:30*
+*Index generated on 2026-10-19T04:19:20.983045+05:30*

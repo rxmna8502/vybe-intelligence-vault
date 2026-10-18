@@ -3880,7 +3880,7 @@ Resources organized by keyword tags.
   - [Hybrid LLM-Guided Search for Quantum Reservoir Architecture Design](../ai/rag/arxiv-2607-19506.md)
   - [Hybrid Offline-Online Multi-Agent Decision Transformers for Wireless Resource Management](../ai/agents/arxiv-2608-28878.md)
   - [Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher](../ai/rag/arxiv-2606-13710.md)
-  - [Hybrid Reasoning Agents](../ai/agents/arxiv-2610-18861.md)
+  - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](../ai/agents/arxiv-2610-18861.md)
   - [Hybrid Reinforcement Learning and Search for Flight Trajectory Planning](../ai/agents/arxiv-2509-04100.md)
   - [Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search](../ai/rag/arxiv-2609-01617.md)
   - [Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation](../ai/rag/arxiv-2608-23992.md)
@@ -8872,9 +8872,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [Namecheap just seized and disabled all my domains](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md)
-  - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](../ai/community/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai.md)
-  - [The Brain Sandwich](../ai/community/the-brain-sandwich.md)
 
 ## animation
 
@@ -16498,7 +16496,6 @@ Resources organized by keyword tags.
   - [Hybrid Offline-Online Multi-Agent Decision Transformers for Wireless Resource Management](../ai/agents/arxiv-2608-28878.md)
   - [Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher](../ai/rag/arxiv-2606-13710.md)
   - [Hybrid Quantum Neural Networks: Theory, Implementations, and Applications](../ai/research/arxiv-2608-01194.md)
-  - [Hybrid Reasoning Agents](../ai/agents/arxiv-2610-18861.md)
   - [Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search](../ai/rag/arxiv-2609-01617.md)
   - [Hybrid Semantic Context-Enhanced Ensemble Learning for Wind Power Ramp-Event Forecasting and Uncertainty-Aware Evaluation](../ai/rag/arxiv-2608-29024.md)
   - [Hybrid Sequence Modeling and Reinforced Verification for Controllable Target-Conditioned Decision Making](../ai/rag/arxiv-2508-16420.md)
@@ -37119,6 +37116,7 @@ Resources organized by keyword tags.
   - [Hybrid ML for Lightweight Pre-Route Delay Estimation in Open-Source IC Design](../ai/research/arxiv-2608-17914.md)
   - [Hybrid Neural Simulation-Based Inference for Robust Applications and Limited-Budget Scenarios](../ai/research/arxiv-2609-36044.md)
   - [Hybrid Quantum Neural Networks: Theory, Implementations, and Applications](../ai/research/arxiv-2608-01194.md)
+  - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](../ai/agents/arxiv-2610-18861.md)
   - [Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search](../ai/rag/arxiv-2609-01617.md)
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
@@ -37126,6 +37124,7 @@ Resources organized by keyword tags.
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
   - [Hypothesis-guided discovery of cognitive algorithms via program refinement](../ai/agents/arxiv-2610-02523.md)
+  - [I built a programming language that LLMs can't use](../ai/community/i-built-a-programming-language-that-llms-can-t-use.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
@@ -37993,7 +37992,6 @@ Resources organized by keyword tags.
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
   - [Pattern-Aware Graph Neural Networks for Handling Missing Data](../ai/rag/arxiv-2607-08915.md)
   - [Pedagogical AI in Mental Health: A Tri-Stream Fine-Tuned LLM Framework for Automated Clinical Supervision and Risk Triage](../ai/rag/arxiv-2608-18438.md)
-  - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](../ai/research/perception-tokens-enhance-visual-reasoning-in-mult.md)
   - [Perception-Aligned AI Outputs: End-to-End Visual Prediction for Uncertainty Communication in Clinical Decision-Making](../ai/research/arxiv-2205-04599.md)
   - [Performance Foundations of Parallel & Distributed Reasoning Language Models](../ai/research/arxiv-2608-27046.md)
@@ -38856,7 +38854,6 @@ Resources organized by keyword tags.
   - [The BatchNorm Illusion: Diagnosing Normalization Artifacts in Machine Unlearning Evaluation](../ai/research/arxiv-2609-08901.md)
   - [The Benchmark Trap: Structures of Power and Injustice in AI Evaluations](../ai/research/arxiv-2608-15326.md)
   - [The Biggest Risk of Embodied AI is Governance Lag](../ai/research/arxiv-2604-21938.md)
-  - [The Brain Sandwich](../ai/community/the-brain-sandwich.md)
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
@@ -40275,6 +40272,11 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](../ai/agents/arxiv-2610-18861.md)
+  - [I built a programming language that LLMs can't use](../ai/community/i-built-a-programming-language-that-llms-can-t-use.md)
 
 ## mdx
 
@@ -69450,7 +69452,6 @@ Resources organized by keyword tags.
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [How we’re helping kids and families safely learn, grow and play online](../ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md)
   - [Hugo building slowly from release 0.128.0 - #20 by jmooring - support - HUGO](../ai/resources/hugo-building-slowly-from-release-0-128-0-20-by-jm.md)
-  - [Hybrid Reasoning Agents](../ai/agents/arxiv-2610-18861.md)
   - [I-CALM: Incentivizing Confidence-Aware Abstention for LLM Selective Answering](../ai/research/arxiv-2604-03904.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IPGP DATA CENTER](../ai/resources/ipgp-data-center.md)
@@ -70419,6 +70420,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -76970,6 +76972,7 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../ai/rag/langchain-ai-deepagents.md)
@@ -80634,4 +80637,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-19T00:31:53.990105+05:30*
+*Index generated on 2026-10-19T04:19:20.521621+05:30*

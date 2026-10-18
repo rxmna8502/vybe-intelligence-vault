@@ -303,10 +303,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| pele.run | 1 |
-| sphinx-six-theta.vercel.app | 1 |
 | reddit | 1 |
-| terriblesoftware.org | 1 |
+| sphinx-six-theta.vercel.app | 1 |
+| blog.picheta.me | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
