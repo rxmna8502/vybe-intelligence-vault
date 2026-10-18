@@ -8871,7 +8871,6 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Microsoft and CMU Team Up to Train Early Career Software Engineers](../ai/community/microsoft-and-cmu-team-up-to-train-early-career-so.md)
   - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
 
 ## animation
@@ -37650,7 +37649,6 @@ Resources organized by keyword tags.
   - [Microsoft Graph | Support](../ai/resources/microsoft-graph-support.md)
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
-  - [Microsoft and CMU Team Up to Train Early Career Software Engineers](../ai/community/microsoft-and-cmu-team-up-to-train-early-career-so.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
@@ -39435,7 +39433,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -80639,4 +80636,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-18T04:15:17.746837+05:30*
+*Index generated on 2026-10-18T10:31:59.537747+05:30*

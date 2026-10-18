@@ -35178,7 +35178,6 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Microsoft and CMU Team Up to Train Early Career Software Engineers](../ai/community/microsoft-and-cmu-team-up-to-train-early-career-so.md)
   - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
 
@@ -39068,4 +39067,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-18T04:15:18.173843+05:30*
+*Index generated on 2026-10-18T10:31:59.976107+05:30*

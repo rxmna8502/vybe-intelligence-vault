@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://llmspeed.dev
 hn_url: https://news.ycombinator.com/item?id=50127979
-score: 229
+score: 267
 author: albinstman
-comments_count: 75
+comments_count: 78
 published_at: '2026-10-17T10:06:53+05:30'
-collected_at: '2026-10-18T03:58:43.374493+05:30'
+collected_at: '2026-10-18T10:15:26.128559+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be
 first_seen: '2026-10-17T17:49:24.290880+05:30'
-last_seen: '2026-10-18T03:58:43.374493+05:30'
-last_checked: '2026-10-18T03:58:43.374493+05:30'
+last_seen: '2026-10-18T10:15:26.128559+05:30'
+last_checked: '2026-10-18T10:15:26.128559+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by albinstman. Score: 229, Comments: 75.
+Hacker News story by albinstman. Score: 267, Comments: 78.
 Original Link: https://llmspeed.dev/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: albinstman
-- Score: 229 Upvotes
-- Comments: 75 Discussions
+- Score: 267 Upvotes
+- Comments: 78 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50127979
 - Original Article: https://llmspeed.dev
 

@@ -13,13 +13,14 @@ collected_at: '2026-10-18T03:58:41.685334+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:microsoft-and-cmu-team-up-to-train-early-career-so
 first_seen: '2026-10-18T03:58:41.685334+05:30'
 last_seen: '2026-10-18T03:58:41.685334+05:30'
 last_checked: '2026-10-18T03:58:41.685334+05:30'
 health_score: 100
 ---
+
 
 # Microsoft and CMU Team Up to Train Early Career Software Engineers
 
