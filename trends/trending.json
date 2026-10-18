@@ -1,7 +1,19 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-10-18T04:36:55.766639+05:30",
+  "generated_at": "2026-10-18T08:57:18.536256+05:30",
   "trending_resources": [
+    {
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1030,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "github:liangdabiao/easy_investment_agent_crewai",
       "title": "liangdabiao/easy_investment_Agent_crewai",
@@ -12,25 +24,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1030,
-=======
-  "generated_at": "2026-10-18T04:20:09.595836+05:30",
-  "trending_resources": [
-    {
-      "id": "hackernews:pele-mermaid-diagrams-as-themeable-svg",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://pele.run",
-      "file_path": "ai/community/pele-mermaid-diagrams-as-themeable-svg.md",
-      "score": 150,
-      "score_change": 138,
-      "rank_change": 4,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:nirdiamant/rag_techniques",
       "title": "NirDiamant/RAG_Techniques",
       "category": "ai/rag",
@@ -105,22 +102,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1030,
-=======
-      "id": "hackernews:show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://llmspeed.dev",
-      "file_path": "ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md",
-      "score": 229,
-      "score_change": 19,
-      "rank_change": 1,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:coleam00/agentic-chat-application-template",
       "title": "coleam00/agentic-chat-application-template",
       "category": "ai/agents",
@@ -130,22 +115,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1030,
-=======
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:cline/cline",
       "title": "cline/cline",
       "category": "ai/agents",
@@ -155,184 +128,38 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1030,
-=======
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:the-pocket/pocketflow-template-python",
-      "title": "The-Pocket/PocketFlow-Template-Python",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/the-pocket/pocketflow-template-python",
-      "file_path": "ai/agents/the-pocket-pocketflow-template-python.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1030,
-=======
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:computer-vision",
-      "title": "Computer vision",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/computer-vision",
-      "file_path": "ai/companies/computer-vision.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
-<<<<<<< Updated upstream
       "id": "blog:medium-privacy-policy-by-medium-medium-policy",
       "title": "Medium Privacy Policy | by Medium | Medium Policy",
-=======
-      "id": "blog:react-canaries-enabling-incremental-feature-rollou",
-      "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
-      "category": "web-development",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2023/05/03/react-canaries",
-      "file_path": "web-development/react-canaries-enabling-incremental-feature-rollou.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 94,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:sunsetting-create-react-app",
-      "title": "Sunsetting Create React App",
->>>>>>> Stashed changes
       "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
-      "file_path": "ai/rag/sunsetting-create-react-app.md",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-<<<<<<< Updated upstream
       "rank_change": 9289,
-=======
-      "rank_change": 94,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:microsoft/rag-time",
       "title": "microsoft/rag-time",
-=======
-      "id": "blog:react-19-3",
-      "title": "React 19.3",
->>>>>>> Stashed changes
       "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2026/09/09/react-19-3",
-      "file_path": "ai/rag/react-19-3.md",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/rag-time",
+      "file_path": "ai/rag/microsoft-rag-time.md",
       "score": 0,
       "score_change": 0,
-<<<<<<< Updated upstream
       "rank_change": 1033,
-=======
-      "rank_change": 94,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "huggingface:spaces/facebook",
-      "title": "facebook/MusicGen",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/facebook",
-      "file_path": "ai/models/huggingface-spaces-facebook.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 14,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.02392",
       "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
@@ -342,22 +169,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1033,
-=======
-      "id": "huggingface:spaces/ap123",
-      "title": "AP123/IllusionDiffusion",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/ap123",
-      "file_path": "ai/models/huggingface-spaces-ap123.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 14,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.02046",
       "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
       "category": "ai/rag",
@@ -367,22 +182,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1033,
-=======
-      "id": "huggingface:spaces/dalle-mini",
-      "title": "dalle-mini/dalle-mini",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/dalle-mini",
-      "file_path": "ai/models/huggingface-spaces-dalle-mini.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 14,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.01791",
       "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
       "category": "ai/rag",
@@ -392,22 +195,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1033,
-=======
-      "id": "huggingface:spaces/mteb",
-      "title": "mteb/leaderboard",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/mteb",
-      "file_path": "ai/models/huggingface-spaces-mteb.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 14,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2608.01207",
       "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
       "category": "ai/rag",
@@ -417,22 +208,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1033,
-=======
-      "id": "huggingface:spaces/black-forest-labs",
-      "title": "black-forest-labs/FLUX.1-dev",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/black-forest-labs",
-      "file_path": "ai/models/huggingface-spaces-black-forest-labs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 14,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.23462",
       "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
       "category": "ai/research",
@@ -442,22 +221,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1033,
-=======
-      "id": "huggingface:spaces/kwai-kolors",
-      "title": "Kwai-Kolors/Kolors-Virtual-Try-On",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/kwai-kolors",
-      "file_path": "ai/models/huggingface-spaces-kwai-kolors.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 14,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.22216",
       "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
       "category": "ai/research",
@@ -493,24 +260,12 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1033,
-=======
-      "id": "huggingface:spaces/jbilcke-hf",
-      "title": "jbilcke-hf/ai-comic-factory",
-      "category": "ai/models",
-      "source_type": "huggingface_space",
-      "url": "https://huggingface.co/spaces/jbilcke-hf",
-      "file_path": "ai/models/huggingface-spaces-jbilcke-hf.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 14,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-<<<<<<< Updated upstream
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
       "category": "Agent Framework",
@@ -518,58 +273,13 @@
       "url": "",
       "file_path": "docs/sample-digest.md",
       "score": 0,
-=======
-      "id": "hackernews:microsoft-and-cmu-team-up-to-train-early-career-so",
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "file_path": "ai/community/microsoft-and-cmu-team-up-to-train-early-career-so.md",
-      "score": 38,
->>>>>>> Stashed changes
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
-<<<<<<< Updated upstream
-=======
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "github:cobanov/ps5lm",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/cobanov/ps5lm",
-      "file_path": "ai/community/cobanov-ps5lm.md"
-    },
-    {
-      "id": "hackernews:amazon-uses-ai-to-monitor-union-risk-in-uk-warehou",
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "file_path": "ai/community/amazon-uses-ai-to-monitor-union-risk-in-uk-warehou.md"
-    },
-    {
-      "id": "hackernews:tell-hn-remember-to-migrate-away-from-name-domain",
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=50089577",
-      "file_path": "ai/community/tell-hn-remember-to-migrate-away-from-name-domain.md"
-    },
-    {
-      "id": "hackernews:openai-discloses-four-more-rogue-incidents",
-      "title": "OpenAI discloses four more rogue incidents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "file_path": "ai/community/openai-discloses-four-more-rogue-incidents.md"
->>>>>>> Stashed changes
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
