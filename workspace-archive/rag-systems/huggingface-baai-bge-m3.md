@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: BAAI/bge-m3 (Likes: 3903, Downloads: 31866948)
+Trending Hugging Face model: BAAI/bge-m3 (Likes: 3905, Downloads: 31687693)
 
 ## Use Cases
 

@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-09-03T01:01:46.489115+05:30'
-published_at: '2026-09-02T16:03:02Z'
+collected_at: '2026-10-18T18:24:41.161995+05:30'
+published_at: '2026-10-18T07:11:45Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 2999
+stars: 3147
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-04-07T14:31:26Z'
-pushed_at: '2026-09-02T13:04:16Z'
+pushed_at: '2026-10-16T07:13:14Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-09-03T01:01:46.489115+05:30'
-last_seen: '2026-09-03T01:01:46.489115+05:30'
-last_checked: '2026-09-03T01:01:46.489115+05:30'
+first_seen: '2026-10-18T18:24:41.161995+05:30'
+last_seen: '2026-10-18T18:24:41.161995+05:30'
+last_checked: '2026-10-18T18:24:41.161995+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
-- **Key Features**: Scans for security flaws in AI-driven systems using Python, supporting MCP (Model Context Protocol) integration.
-- **Metadata**: 2,999 stars, 269 forks, last updated September 2, 2026.
+*   Python-based security scanner targeting vulnerabilities in AI agents, Model Context Protocol (MCP) servers, and agent skills.
+*   Provides security analysis for components within distributed AI agent architectures.
+*   Specializes in identifying security risks specific to AI agent ecosystems and their operational environments.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2999
-- Forks: 269
+- Stars: 3147
+- Forks: 292
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-09-02T16:03:02Z
+- Last Updated: 2026-10-18T07:11:45Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z
-- Pushed At: 2026-09-02T13:04:16Z
+- Pushed At: 2026-10-16T07:13:14Z
 
 ## Possible Use Cases
 

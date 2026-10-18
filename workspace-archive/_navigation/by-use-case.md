@@ -31,8 +31,8 @@ This index groups resources by direct developer use-cases and design goals.
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `rag-systems` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Category: `rag-systems` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `rag-systems` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
-- [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `vector-databases` | [`Local File`](../../ai/rag/weaviate-verba.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2508-04227.md))
 
 ---
-*Last updated: 2026-10-18 10:35 IST*
+*Last updated: 2026-10-18 18:39 IST*

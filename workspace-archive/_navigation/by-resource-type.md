@@ -59,7 +59,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
-- [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Tier: `essential` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 
 ## MCP-SERVER
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-10-18 10:35 IST*
+*Last updated: 2026-10-18 18:39 IST*

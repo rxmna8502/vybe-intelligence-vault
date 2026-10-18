@@ -35178,8 +35178,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]](../ai/community/a-history-of-curves-and-surfaces-in-computer-aided.md)
+  - [Lorenz and Little: How Much Does Your Tail Cost?](../ai/community/lorenz-and-little-how-much-does-your-tail-cost.md)
   - [Pele – Mermaid diagrams as themeable SVG](../ai/community/pele-mermaid-diagrams-as-themeable-svg.md)
   - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](../ai/community/show-hn-llmspeed-feel-how-fast-a-local-llm-runs-be.md)
+  - [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](../ai/community/show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -36067,10 +36070,10 @@ Resources organized by publisher feed and query sources.
   - [BuLei/imgbed](../ai/models/huggingface-datasets-bulei.md)
   - [Lichess/standard-chess-games](../ai/models/huggingface-datasets-lichess.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
-  - [ThomasTheMaker/ptb-xl-ecg](../ai/models/huggingface-datasets-thomasthemaker.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [banned-historical-archives/banned-historical-archives](../ai/models/huggingface-datasets-banned-historical-archives.md)
   - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
+  - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
@@ -39067,4 +39070,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-18T10:31:59.976107+05:30*
+*Index generated on 2026-10-18T18:37:20.150793+05:30*

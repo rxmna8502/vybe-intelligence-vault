@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-10-18T10:16:11.657536+05:30'
-published_at: '2026-10-18T04:05:25Z'
+collected_at: '2026-10-18T18:21:35.905088+05:30'
+published_at: '2026-10-18T12:35:55Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - python
 - rag
-stars: 12235
+stars: 12254
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-30T21:49:22Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-10-18T10:16:11.657536+05:30'
-last_seen: '2026-10-18T10:16:11.657536+05:30'
-last_checked: '2026-10-18T10:16:11.657536+05:30'
+first_seen: '2026-10-18T18:21:35.905088+05:30'
+last_seen: '2026-10-18T18:21:35.905088+05:30'
+last_checked: '2026-10-18T18:21:35.905088+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG development guide leveraging LangChain/LlamaIndex for orchestration and practical application.
-*   Integrates diverse LLMs (DeepSeek, Kimi-K2) and vector databases (Milvus) for scalable embedding retrieval.
-*   Explores advanced RAG architectures including multimodal processing and Neo4j-based knowledge graph integration.
+*   Comprehensive guide to RAG system development, leveraging frameworks like LangChain and LlamaIndex for end-to-end implementation.
+*   Explores diverse retrieval strategies, including vector embeddings with Milvus and knowledge graph integration via
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 12235
-- Forks: 6183
+- Stars: 12254
+- Forks: 6209
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-10-18T04:05:25Z
+- Last Updated: 2026-10-18T12:35:55Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-09-30T21:49:22Z

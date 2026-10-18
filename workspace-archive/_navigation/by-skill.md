@@ -140,9 +140,9 @@ This index groups curated resources by target developer skills.
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (Tier: `essential` | [`Local File`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md))
-- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 
 ## Full-stack AI Engineering
 
@@ -184,9 +184,9 @@ This index groups curated resources by target developer skills.
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (Tier: `essential` | [`Local File`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md))
-- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 
 ## LLM Evaluation
 
@@ -371,9 +371,9 @@ This index groups curated resources by target developer skills.
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Tier: `essential` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (Tier: `essential` | [`Local File`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md))
-- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 
 ## Roadmap Planning
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-10-18 10:35 IST*
+*Last updated: 2026-10-18 18:39 IST*

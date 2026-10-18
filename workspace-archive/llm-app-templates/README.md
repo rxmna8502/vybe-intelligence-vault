@@ -22,11 +22,11 @@ Starter kits and application templates drastically accelerate the deployment of 
 https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
 - [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-10-18 10:33 IST*
+*Last updated: 2026-10-18 18:38 IST*
