@@ -13,13 +13,14 @@ collected_at: '2026-10-19T21:16:35.332967+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-qwen3-4b-with-the-ai-writing-tics-trained
 first_seen: '2026-10-19T21:16:35.332967+05:30'
 last_seen: '2026-10-19T21:16:35.332967+05:30'
 last_checked: '2026-10-19T21:16:35.332967+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Qwen3-4B with the AI writing tics trained out
 

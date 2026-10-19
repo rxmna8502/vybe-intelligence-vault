@@ -11,11 +11,11 @@ AI coding agents represent the next leap in software engineering, moving from co
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (framework - ESSENTIAL Tier)
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (prompt - ESSENTIAL Tier)
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
+- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/addy-dcl/cline (Cline)
 https://github.com/features/claude-code (Claude Code)
 https://github.com/All-Hands-AI/OpenHands (OpenHands)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- [OpenAI · GitHub](https://github.com/openai)
+- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-10-19 21:34 IST*
+*Last updated: 2026-10-20 03:00 IST*

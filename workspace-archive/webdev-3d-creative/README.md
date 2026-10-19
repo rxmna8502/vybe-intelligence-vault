@@ -9,24 +9,24 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 ## Top Matched Resources
 
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (tool - USEFUL Tier)
-- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer) (template - USEFUL Tier)
-- [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) (tool - USEFUL Tier)
-- [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter) (template - USEFUL Tier)
-- [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (tutorial - USEFUL Tier)
-- [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite) (template - USEFUL Tier)
-- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols) (tool - USEFUL Tier)
+- [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) (tutorial - USEFUL Tier)
 - [playcanvas/engine](https://github.com/playcanvas/engine) (tool - USEFUL Tier)
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) (framework - USEFUL Tier)
+- [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (tool - USEFUL Tier)
+- [spite/Wagner](https://github.com/spite/wagner) (tool - USEFUL Tier)
+- [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (tool - USEFUL Tier)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/mrdoob/three.js (Three.js)
 https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
-- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
-- [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
-- [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter)
-- [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator)
-- [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite)
+- [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu)
+- [playcanvas/engine](https://github.com/playcanvas/engine)
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia)
+- [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
+- [spite/Wagner](https://github.com/spite/wagner)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-10-19 21:36 IST*
+*Last updated: 2026-10-20 03:02 IST*

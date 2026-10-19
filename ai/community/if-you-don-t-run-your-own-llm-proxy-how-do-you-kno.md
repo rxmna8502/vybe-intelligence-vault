@@ -13,13 +13,14 @@ collected_at: '2026-10-19T21:16:35.797165+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:if-you-don-t-run-your-own-llm-proxy-how-do-you-kno
 first_seen: '2026-10-19T10:21:13.023168+05:30'
 last_seen: '2026-10-19T21:16:35.797165+05:30'
 last_checked: '2026-10-19T21:16:35.797165+05:30'
 health_score: 100
 ---
+
 
 # If you don't run your own LLM proxy, how do you know whats going on?
 

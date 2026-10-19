@@ -9,20 +9,20 @@ Public developer APIs supply external context and utilities for LLM tools.
 ## Top Matched Resources
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
-- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
-- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
+- [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
-- [UserToolBench: A User-Profile-Hidden Benchmark for Personalized Decision Making in Tool-Use LLMs](https://arxiv.org/abs/2608.10042) (framework - USEFUL Tier)
-- [Benchmarking API Drift in LLM-Generated Quantum Code Across Successive SDK Versions](https://arxiv.org/abs/2607.04072) (framework - USEFUL Tier)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [Tune Gemini models by using supervised fine-tuning | Gemini Enterprise Agent Platform | Google Cloud Documentation](https://cloud.google.com/gemini-enterprise-agent-platform/models/gemini-use-supervised-tuning) (framework - USEFUL Tier)
+- [gainsight-px-rest-API documentation](https://px-apidocs.gainsight.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [supabase/supabase](https://github.com/supabase/supabase)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-10-19 21:36 IST*
+*Last updated: 2026-10-20 03:02 IST*
