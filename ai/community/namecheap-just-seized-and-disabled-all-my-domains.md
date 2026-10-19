@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains
 hn_url: https://news.ycombinator.com/item?id=50142866
-score: 327
+score: 506
 author: sashk
-comments_count: 158
+comments_count: 255
 published_at: '2026-10-18T22:26:56+05:30'
-collected_at: '2026-10-19T04:02:44.479200+05:30'
+collected_at: '2026-10-19T10:21:14.765145+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:namecheap-just-seized-and-disabled-all-my-domains
 first_seen: '2026-10-19T00:15:25.131052+05:30'
-last_seen: '2026-10-19T04:02:44.479200+05:30'
-last_checked: '2026-10-19T04:02:44.479200+05:30'
+last_seen: '2026-10-19T10:21:14.765145+05:30'
+last_checked: '2026-10-19T10:21:14.765145+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sashk. Score: 327, Comments: 158.
+Hacker News story by sashk. Score: 506, Comments: 255.
 Original Link: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sashk
-- Score: 327 Upvotes
-- Comments: 158 Discussions
+- Score: 506 Upvotes
+- Comments: 255 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50142866
 - Original Article: https://reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains
 

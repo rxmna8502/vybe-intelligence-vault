@@ -13,13 +13,14 @@ collected_at: '2026-10-19T04:02:45.756502+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai
 first_seen: '2026-10-18T18:20:47.804303+05:30'
 last_seen: '2026-10-19T04:02:45.756502+05:30'
 last_checked: '2026-10-19T04:02:45.756502+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping
 

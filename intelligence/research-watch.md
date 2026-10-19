@@ -15,6 +15,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs](https://arxiv.org/abs/2608.16391) | `ai-coding-agents/` | 70 |
 | [How Reliable Are Large Language Models for Soil Organic Carbon Assessment? An Australian Benchmark](https://arxiv.org/abs/2610.18201) | `ai-coding-agents/` | 70 |
 | [Alipay-PIBench: A Realistic Payment Integration Benchmark for Coding Agents](https://arxiv.org/abs/2607.14573) | `ai-coding-agents/` | 70 |
+| [Self-Evolving Coding Agents via Harness-Policy Optimization](https://arxiv.org/abs/2610.22791) | `ai-coding-agents/` | 70 |
 | [Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images](https://arxiv.org/abs/2607.10783) | `ai-coding-agents/` | 70 |
 | [Fair Cognitive Impairment Detection Through Unlearning](https://arxiv.org/abs/2606.18571) | `ai-coding-agents/` | 70 |
 | [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](https://arxiv.org/abs/2607.29677) | `ai-coding-agents/` | 70 |
 | [Land Art as a Big-Data Climate Sensor](https://arxiv.org/abs/2609.13182) | `ai-coding-agents/` | 70 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) | `ai-coding-agents/` | 70 |
-| [Evaluating AlphaEarth Foundations Embeddings for Wildfire Susceptibility Mapping](https://arxiv.org/abs/2608.12663) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

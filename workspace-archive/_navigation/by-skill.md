@@ -247,12 +247,12 @@ This index groups curated resources by target developer skills.
 
 - [JobMatchAI-An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI](https://arxiv.org/abs/2603.14558) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-14558.md))
 - [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (Tier: `useful` | [`Local File`](../../ai/resources/job-a-thon.md))
+- [Pro-AI Bias in Large Language Models](https://arxiv.org/abs/2601.13749) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-13749.md))
 - [zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting](https://arxiv.org/abs/2608.16856) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16856.md))
 - [The Eric and Wendy Schmidt AI in Science Fellowship – University of Chicago](https://aiscience.uchicago.edu) (Tier: `useful` | [`Local File`](../../ai/rag/the-eric-and-wendy-schmidt-ai-in-science-fellowshi.md))
 - [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2607-16201.md))
 - [SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum](https://arxiv.org/abs/2608.26160) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-26160.md))
 - [TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation](https://arxiv.org/abs/2608.11236) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-11236.md))
-- [Counterfactual Bias Testing for Application Tracking System](https://arxiv.org/abs/2608.26899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-26899.md))
 
 ## Model Optimization
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ---
-*Last updated: 2026-10-19 04:23 IST*
+*Last updated: 2026-10-19 10:41 IST*
