@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-10-15T19:05:20.496365+05:30'
+collected_at: '2026-10-19T21:17:53.165091+05:30'
 published_at: '2026-09-03T01:47:18Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-10-15T19:05:20.496365+05:30'
-last_seen: '2026-10-15T19:05:20.496365+05:30'
-last_checked: '2026-10-15T19:05:20.496365+05:30'
+first_seen: '2026-10-19T21:17:53.165091+05:30'
+last_seen: '2026-10-19T21:17:53.165091+05:30'
+last_checked: '2026-10-19T21:17:53.165091+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Python-based template for constructing Retrieval Augmented Generation (RAG) research agents.
-*
+*   Implements an agentic architecture for Retrieval Augmented Generation (RAG) systems.
 
 ## Why It Matters
 

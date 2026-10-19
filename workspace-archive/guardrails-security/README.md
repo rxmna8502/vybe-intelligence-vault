@@ -10,23 +10,23 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (framework - USEFUL Tier)
-- [PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://arxiv.org/abs/2607.05910) (framework - USEFUL Tier)
-- [Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output](https://arxiv.org/abs/2608.10279) (framework - USEFUL Tier)
-- [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) (framework - USEFUL Tier)
-- [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (template - USEFUL Tier)
-- [ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs](https://arxiv.org/abs/2609.37054) (framework - USEFUL Tier)
-- [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (dataset - USEFUL Tier)
+- [How User-AI Mistreatment Occurs and Matters in Conversational Systems?](https://arxiv.org/abs/2609.13579) (prompt - USEFUL Tier)
+- [Suan: Rectifying Direct Preference Safety Alignment in Large Language Models](https://arxiv.org/abs/2609.08634) (framework - USEFUL Tier)
+- [When LLM Defenses Backfire: Characterizing Safety, Performance, and Cost Trade-offs](https://arxiv.org/abs/2607.24392) (framework - USEFUL Tier)
+- [LLMs Prompted for Legal Context Object More: Overrefusal from Small On-Premises LLMs in Criminal Legal Context](https://arxiv.org/abs/2606.24585) (framework - USEFUL Tier)
+- [EXHOLD: Experience-Aware Real-Time Hold Control for Large-Scale Ride-Hailing Matching at DiDi](https://arxiv.org/abs/2607.09090) (framework - USEFUL Tier)
+- [Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines](https://arxiv.org/abs/2608.29589) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
 - [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security)
-- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
-- [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
+- [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+- [uber/ADR](https://github.com/uber/ADR)
+- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-10-19 10:41 IST*
+*Last updated: 2026-10-19 21:36 IST*

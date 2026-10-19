@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: BuLei/imgbed (Likes: 1, Downloads: 1308208)
+Trending Hugging Face dataset: BuLei/imgbed (Likes: 1, Downloads: 1366724)
 
 ## Use Cases
 

@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-10-17T17:50:24.460816+05:30'
-published_at: '2026-10-11T16:21:33Z'
+collected_at: '2026-10-19T21:17:42.994326+05:30'
+published_at: '2026-10-18T12:51:12Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 969
+stars: 968
 language: Python
 status: active
 archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-10-17T17:50:24.460816+05:30'
-last_seen: '2026-10-17T17:50:24.460816+05:30'
-last_checked: '2026-10-17T17:50:24.460816+05:30'
+first_seen: '2026-10-19T21:17:42.994326+05:30'
+last_seen: '2026-10-19T21:17:42.994326+05:30'
+last_checked: '2026-10-19T21:17:42.994326+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Langchain-based RAG tutorial (v2) demonstrating enhanced retrieval augmented generation with Python.
-*   Integrates local LLMs for on-premise inference and dynamic database update mechanisms.
-*   Employs comprehensive testing methodologies for RAG pipeline validation and reliability.
+*   Demonstrates an enhanced Langchain RAG implementation (v2) for retrieval-augmented generation.
+*   Integrates and utilizes local Large Language Models (LLMs) within the RAG pipeline.
+*   Covers database update methodologies and includes testing protocols for the RAG system.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 969
+- Stars: 968
 - Forks: 605
 - Language: Python
 - Topics: None
-- Last Updated: 2026-10-11T16:21:33Z
+- Last Updated: 2026-10-18T12:51:12Z
 - Archived: No
 - Created At: 2024-04-06T09:27:09Z
 - Pushed At: 2024-08-03T16:41:27Z

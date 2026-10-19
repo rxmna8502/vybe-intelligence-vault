@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-19T16:35:38.046312+05:30`
+Generated at: `2026-10-19T21:38:21.728816+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,38 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **Let's Encrypt is adding two additional remote perspectives for domain validation** - Score: `134` in category `ai/community` ([Link](https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166)) ([File](../ai/community/let-s-encrypt-is-adding-two-additional-remote-pers.md))
+- **How to Train Your Robot** - Score: `112` in category `ai/community` ([Link](https://construction-physics.com/p/how-to-train-your-robot)) ([File](../ai/community/how-to-train-your-robot.md))
+- **Show HN: Qwen3-4B with the AI writing tics trained out** - Score: `95` in category `ai/community` ([Link](https://100toolkit.com/blog/deslop-model)) ([File](../ai/community/show-hn-qwen3-4b-with-the-ai-writing-tics-trained.md))
+- **wegrthj/e94fjt-qi9l-raw** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/wegrthj)) ([File](../ai/models/huggingface-datasets-wegrthj.md))
+- **Apertus 1.5 Release Notes** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)) ([File](../ai/models/huggingface-blog-swiss-ai-apertus-v15-release-notes.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **VideoHarness-SRSI: Structured Recursive Self-Improvement for Video Understanding Harness** - Score: `0` (0), Rank Change: `+127` ([File](../ai/agents/arxiv-2610-19424.md))
-- **NutriVision: Ingredient-Conditioned Fusion and Prediction for Single-Image Food Nutrition Estimation** - Score: `0` (0), Rank Change: `+127` ([File](../ai/rag/arxiv-2609-33076.md))
-- **MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping** - Score: `0` (0), Rank Change: `+127` ([File](../ai/research/arxiv-2608-02014.md))
-- **Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them** - Score: `0` (0), Rank Change: `+127` ([File](../ai/rag/arxiv-2608-01402.md))
-- **An AI Approach to Verified Production Cryptographic Libraries** - Score: `0` (0), Rank Change: `+127` ([File](../ai/research/arxiv-2608-00965.md))
-- **Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks** - Score: `0` (0), Rank Change: `+127` ([File](../ai/agents/arxiv-2607-21763.md))
-- **Accounting for Purchased Artificial Intelligence Inference in Corporate Greenhouse Gas Inventories: A Token-Based Method** - Score: `0` (0), Rank Change: `+127` ([File](../ai/rag/arxiv-2606-10660.md))
-- **TimpaTeks: Automatic In-place Text Sequence Modification via Diffusion Language Model Steering** - Score: `0` (0), Rank Change: `+127` ([File](../ai/research/arxiv-2606-08408.md))
-- **SciIntBench: Measuring LLM Compliance with Research Integrity Norms Under Adversarial Framing** - Score: `0` (0), Rank Change: `+127` ([File](../ai/rag/arxiv-2605-29468.md))
-- **RaPD: Resolution-Agnostic Pixel Diffusion via Semantics-Enriched Implicit Representations** - Score: `0` (0), Rank Change: `+127` ([File](../ai/research/arxiv-2605-15908.md))
+- **Hybrid Reasoning Agents: LLM agents that think in latent space, act through text** - Score: `477` (+193), Rank Change: `+1` ([File](../ai/agents/arxiv-2610-18861.md))
+- **If you don't run your own LLM proxy, how do you know whats going on?** - Score: `260` (+177), Rank Change: `+2` ([File](../ai/community/if-you-don-t-run-your-own-llm-proxy-how-do-you-kno.md))
+- **langchain-ai/new-langgraphjs-project** - Score: `0` (0), Rank Change: `+5884` ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **sickn33/agentic-awesome-skills** - Score: `0` (0), Rank Change: `+4517` ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
+- **xindoo/agentic-design-patterns** - Score: `0` (0), Rank Change: `+14722` ([File](../ai/agents/xindoo-agentic-design-patterns.md))
+- **transitive-bullshit/agentic** - Score: `0` (0), Rank Change: `+1579` ([File](../ai/agents/transitive-bullshit-agentic.md))
+- **langchain-ai/rag-research-agent-template** - Score: `0` (0), Rank Change: `+2247` ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
+- **vercel-labs/ai-sdk-preview-rag** - Score: `0` (0), Rank Change: `+6251` ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1590` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1582` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9290`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1034`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1034`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1034`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1034`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1034`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1034`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1034`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1034`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1034`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **xindoo/agentic-design-patterns** - (Rank Change: `+14722`) ([File](../ai/agents/xindoo-agentic-design-patterns.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+8255`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **vercel-labs/ai-sdk-preview-rag** - (Rank Change: `+6251`) ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **langchain-ai/new-langgraphjs-project** - (Rank Change: `+5884`) ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **sickn33/agentic-awesome-skills** - (Rank Change: `+4517`) ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
+- **langchain-ai/rag-research-agent-template** - (Rank Change: `+2247`) ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
+- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+1590`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **enescingoz/awesome-n8n-templates** - (Rank Change: `+1588`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1588`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
+- **pguso/rag-from-scratch** - (Rank Change: `+1588`) ([File](../ai/rag/pguso-rag-from-scratch.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +50,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Namecheap just seized and disabled all my domains** (Category: `ai/community`) ([File](../ai/community/namecheap-just-seized-and-disabled-all-my-domains.md))
+- **I built a programming language that LLMs can't use** (Category: `ai/community`) ([File](../ai/community/i-built-a-programming-language-that-llms-can-t-use.md))

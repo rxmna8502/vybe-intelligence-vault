@@ -10,11 +10,11 @@ Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc
 Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
-*   [Deploy Embedding Models with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints-embeddings)
-*   [Retrieval Augmented Generation with Huggingface Transformers and Ray](https://huggingface.co/blog/ray-rag)
-*   [Train 400x faster Static Embedding Models with Sentence Transformers](https://huggingface.co/blog/static-embeddings)
-*   [Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers](https://huggingface.co/blog/asr-chunking)
-*   [Train a Sentence Embedding Model with 1B Training Pairs](https://huggingface.co/blog/1b-sentence-embeddings)
+*   [reliverse/relivator](https://github.com/reliverse/relivator)
+*   [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree)
+*   [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
+*   [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
+*   [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
 
 ## Project Ideas
 *   PDF QA script that processes papers and saves vector embeddings to pgvector.

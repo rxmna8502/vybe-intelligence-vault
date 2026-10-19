@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:namecheap-just-seized-and-disabled-all-my-domains
 first_seen: '2026-10-19T00:15:25.131052+05:30'
 last_seen: '2026-10-19T10:21:14.765145+05:30'
 last_checked: '2026-10-19T10:21:14.765145+05:30'
 health_score: 100
 ---
+
 
 # Namecheap just seized and disabled all my domains
 

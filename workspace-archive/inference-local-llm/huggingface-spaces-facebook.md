@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: facebook/MusicGen (Likes: 5109, Downloads: 0)
+Trending Hugging Face space: facebook/MusicGen (Likes: 5110, Downloads: 0)
 
 ## Use Cases
 

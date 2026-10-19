@@ -9,13 +9,13 @@ Aligning skill development with current hiring signals helps developers optimize
 ## Top Matched Resources
 
 - [JobMatchAI-An Intelligent Job Matching Platform Using Knowledge Graphs, Semantic Search and Explainable AI](https://arxiv.org/abs/2603.14558) (framework - USEFUL Tier)
-- [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (tutorial - USEFUL Tier)
 - [Pro-AI Bias in Large Language Models](https://arxiv.org/abs/2601.13749) (framework - USEFUL Tier)
-- [zLend: A Dual-Scope Cash-Flow Reconstruction Framework for On-Chain Credit Underwriting](https://arxiv.org/abs/2608.16856) (framework - USEFUL Tier)
-- [The Eric and Wendy Schmidt AI in Science Fellowship – University of Chicago](https://aiscience.uchicago.edu) (framework - USEFUL Tier)
-- [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (template - USEFUL Tier)
-- [SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum](https://arxiv.org/abs/2608.26160) (framework - USEFUL Tier)
-- [TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation](https://arxiv.org/abs/2608.11236) (framework - USEFUL Tier)
+- [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (tutorial - USEFUL Tier)
+- [PUID: A Personalized Deconfounding Framework for Recommender Systems under Hidden Confounding](https://arxiv.org/abs/2605.21066) (framework - USEFUL Tier)
+- [Semantic Candidate-Job Matching: A Comparative Evaluation of Dense Embedding Models in Hybrid Retrieval](https://arxiv.org/abs/2609.23307) (framework - USEFUL Tier)
+- [Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring](https://arxiv.org/abs/2604.19984) (framework - USEFUL Tier)
+- [Understanding AI Anxiety in the Workplace: A Multimethod Investigation Using Fear Acquisition Theory and the Technology Acceptance Model](https://arxiv.org/abs/2608.14609) (framework - USEFUL Tier)
+- [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -35,4 +35,4 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ---
 
-*Last updated: 2026-10-19 10:41 IST*
+*Last updated: 2026-10-19 21:36 IST*

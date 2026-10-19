@@ -8,24 +8,24 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (template - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
-- [PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://arxiv.org/abs/2607.05910) (framework - USEFUL Tier)
-- [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (dataset - USEFUL Tier)
-- [A Hierarchical Approach to Imitation Learning for Manipulation Tasks Requiring Time Varying Forces](https://arxiv.org/abs/2608.03103) (framework - USEFUL Tier)
-- [Null-Space Flow Matching for MIMO Channel Estimation in Latency-Constrained Systems](https://arxiv.org/abs/2604.22005) (framework - USEFUL Tier)
-- [Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986) (framework - USEFUL Tier)
+- [Multi-Level Modeling of Large Language Model Inference Latency and Energy via Hybrid Analytical--Machine-Learning Predictors](https://arxiv.org/abs/2608.06723) (framework - USEFUL Tier)
+- [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850) (framework - USEFUL Tier)
+- [nASR: An End-to-End Trainable Neural Layer for Channel-Level EEG Artifact Subspace Reconstruction in Real-Time BCI](https://arxiv.org/abs/2605.14941) (framework - USEFUL Tier)
+- [DNA: Differentially private Neural Augmentation for contact tracing](https://arxiv.org/abs/2404.13381) (framework - USEFUL Tier)
+- [Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning](https://arxiv.org/abs/2602.02355) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](https://github.com/weaviate/weaviate-io/tree/main/blog/2024-03-07-verba-open-source-rag-app/index.mdx)
+- [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-10-19 10:41 IST*
+*Last updated: 2026-10-19 21:35 IST*

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: hf-doc-build/doc-build-dev (Likes: 71, Downloads: 1403058)
+Trending Hugging Face dataset: hf-doc-build/doc-build-dev (Likes: 71, Downloads: 2251376)
 
 ## Use Cases
 

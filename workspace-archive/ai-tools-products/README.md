@@ -8,24 +8,24 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
+- [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
-- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
-- [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence](https://arxiv.org/abs/2412.17228) (benchmark - USEFUL Tier)
-- [chroma - Rust](https://docs.rs/chroma/latest/chroma/) (framework - USEFUL Tier)
-- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
+- [On a joint simultaneous learning of relevant feature subsets and subspaces in regression-like problems](https://arxiv.org/abs/2607.28080) (framework - USEFUL Tier)
+- [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
+- [Mintlify · GitHub](https://github.com/mintlify)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
-- [Mintlify · GitHub](https://github.com/mintlify)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [continuedev/continue](https://github.com/continuedev/continue)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-10-19 10:41 IST*
+*Last updated: 2026-10-19 21:36 IST*

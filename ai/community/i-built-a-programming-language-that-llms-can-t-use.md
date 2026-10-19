@@ -13,13 +13,14 @@ collected_at: '2026-10-19T10:21:13.370536+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:i-built-a-programming-language-that-llms-can-t-use
 first_seen: '2026-10-19T04:02:43.688841+05:30'
 last_seen: '2026-10-19T10:21:13.370536+05:30'
 last_checked: '2026-10-19T10:21:13.370536+05:30'
 health_score: 100
 ---
+
 
 # I built a programming language that LLMs can't use
 

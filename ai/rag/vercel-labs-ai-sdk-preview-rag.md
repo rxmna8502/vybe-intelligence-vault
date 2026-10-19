@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/ai-sdk-preview-rag
-collected_at: '2026-10-02T20:22:15.749345+05:30'
+collected_at: '2026-10-19T21:17:53.066455+05:30'
 published_at: '2026-08-24T06:34:14Z'
 tags:
 - frontend_ui
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 409
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: true
 created_at: '2024-07-10T16:28:52Z'
 pushed_at: '2026-04-19T20:34:23Z'
 resource_id: github:vercel-labs/ai-sdk-preview-rag
-first_seen: '2026-10-02T20:22:15.749345+05:30'
-last_seen: '2026-10-02T20:22:15.749345+05:30'
-last_checked: '2026-10-02T20:22:15.749345+05:30'
+first_seen: '2026-10-19T21:17:53.066455+05:30'
+last_seen: '2026-10-19T21:17:53.066455+05:30'
+last_checked: '2026-10-19T21:17:53.066455+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Retrieval-Augmented Generation (RAG) pattern utilizing the AI SDK.
-*   Developed in TypeScript, leveraging Next.js for the application framework.
-*   Functions as a Vercel Labs preview template, demonstrating practical AI SDK integration for RAG workflows.
+*   Implements a Retrieval-Augmented Generation (RAG) pattern.
+*   Built using the AI SDK, Next.js, and TypeScript.
+*   Serves as a Vercel Labs template for RAG application development.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vercel-labs
 - Stars: 409
-- Forks: 85
+- Forks: 86
 - Language: TypeScript
 - Topics: ai-sdk, nextjs, rag
 - Last Updated: 2026-08-24T06:34:14Z
