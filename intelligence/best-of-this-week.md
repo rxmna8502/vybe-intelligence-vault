@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (Score: 70) - Category: `ai-coding-agents/`
-*   [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Calibrated Alzheimer's Conversion Risk in Mild Cognitive Impairment: Persistent Homology of Clinical Trajectories with Conformal Guarantees](https://arxiv.org/abs/2607.17442) (Score: 70) - Category: `ai-coding-agents/`
-*   [Can Coding Agents Reproduce Findings in Computational Materials Science?](https://arxiv.org/abs/2605.00803) (Score: 70) - Category: `ai-coding-agents/`
-*   [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) (Score: 70) - Category: `ai-coding-agents/`
-*   [Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](https://firecrawl.dev/blog) (Score: 70) - Category: `ai-coding-agents/`
-*   [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) (Score: 70) - Category: `ai-coding-agents/`
-*   [CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430) (Score: 70) - Category: `ai-coding-agents/`
-*   [Kangsan Kim - Homepage](https://kangsankim07.github.io) (Score: 70) - Category: `ai-coding-agents/`
-*   [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140) (Score: 70) - Category: `ai-coding-agents/`
-*   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
-*   [RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests](https://arxiv.org/abs/2608.27831) (Score: 70) - Category: `ai-coding-agents/`
-*   [Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs](https://arxiv.org/abs/2608.16391) (Score: 70) - Category: `ai-coding-agents/`
-*   [How Reliable Are Large Language Models for Soil Organic Carbon Assessment? An Australian Benchmark](https://arxiv.org/abs/2610.18201) (Score: 70) - Category: `ai-coding-agents/`
+*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
+*   [Install Tailwind CSS with Astro - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides/astro) (Score: 70) - Category: `ai-coding-agents/`
+*   [The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences](https://arxiv.org/abs/2606.24104) (Score: 70) - Category: `ai-coding-agents/`
+*   [Detecting and explaining clinical-omics inconsistencies to improve patient cohort stratification: an application to Parkinson's disease](https://arxiv.org/abs/2507.03656) (Score: 70) - Category: `ai-coding-agents/`
+*   [MIRA-Math: A Benchmark for Minimal Information Requesting and Mathematical Reasoning](https://arxiv.org/abs/2607.07391) (Score: 70) - Category: `ai-coding-agents/`
+*   [Did You Forget What I Asked? Prospective Memory Failures in Large Language Models](https://arxiv.org/abs/2603.23530) (Score: 70) - Category: `ai-coding-agents/`
+*   [TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models](https://arxiv.org/abs/2607.09562) (Score: 70) - Category: `ai-coding-agents/`
+*   [CCMAN: Cognitive Instability-Aware Cross-Modal Attention Network for Interpretable Temporal Biomarkers of Verbal Fluency Speech](https://arxiv.org/abs/2609.14764) (Score: 70) - Category: `ai-coding-agents/`
+*   [Neural ODE enhanced linear mixed effect models for estimating complex association patterns of time-varying covariates with the marker trajectory](https://arxiv.org/abs/2608.29714) (Score: 70) - Category: `ai-coding-agents/`
+*   [SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding](https://arxiv.org/abs/2607.10400) (Score: 70) - Category: `ai-coding-agents/`
+*   [SegTSim: A Big Data Driven Segmented Temporal Simulation Framework for Heterogeneous Multivariate Systems](https://arxiv.org/abs/2609.22192) (Score: 70) - Category: `ai-coding-agents/`
+*   [Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations](https://arxiv.org/abs/2601.00282) (Score: 70) - Category: `ai-coding-agents/`
+*   [Task-to-Model Optimization for Enterprise LLM Coding Assistants: A Data-Driven Framework for Cost-Optimal Routing](https://arxiv.org/abs/2608.08528) (Score: 70) - Category: `ai-coding-agents/`
+*   [Hyperparameter selection for equation learning with biologically-informed neural networks](https://arxiv.org/abs/2610.02954) (Score: 70) - Category: `ai-coding-agents/`
+*   [Can LLMs Build a MaxSAT Solver from Papers? The CoreForge Experience](https://arxiv.org/abs/2607.14818) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

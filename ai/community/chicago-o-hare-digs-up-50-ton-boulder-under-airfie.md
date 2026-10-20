@@ -14,13 +14,14 @@ collected_at: '2026-10-20T02:42:25.013560+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:chicago-o-hare-digs-up-50-ton-boulder-under-airfie
 first_seen: '2026-10-20T02:42:25.013560+05:30'
 last_seen: '2026-10-20T02:42:25.013560+05:30'
 last_checked: '2026-10-20T02:42:25.013560+05:30'
 health_score: 100
 ---
+
 
 # Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas
 

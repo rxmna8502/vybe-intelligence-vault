@@ -13,13 +13,14 @@ collected_at: '2026-10-20T02:42:25.332315+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-obscure-trust-looming-over-anthropic-s-ipo
 first_seen: '2026-10-20T02:42:25.332315+05:30'
 last_seen: '2026-10-20T02:42:25.332315+05:30'
 last_checked: '2026-10-20T02:42:25.332315+05:30'
 health_score: 100
 ---
+
 
 # The obscure trust looming over Anthropic's IPO
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain
 hn_url: https://news.ycombinator.com/item?id=50134359
-score: 65
+score: 128
 author: gumby
-comments_count: 19
+comments_count: 41
 published_at: '2026-10-18T01:07:54+05:30'
-collected_at: '2026-10-20T02:42:23.843393+05:30'
+collected_at: '2026-10-20T10:30:04.293490+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:the-fire-retardant-in-the-seafood-chain
 first_seen: '2026-10-20T02:42:23.843393+05:30'
-last_seen: '2026-10-20T02:42:23.843393+05:30'
-last_checked: '2026-10-20T02:42:23.843393+05:30'
+last_seen: '2026-10-20T10:30:04.293490+05:30'
+last_checked: '2026-10-20T10:30:04.293490+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by gumby. Score: 65, Comments: 19.
+Hacker News story by gumby. Score: 128, Comments: 41.
 Original Link: https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: gumby
-- Score: 65 Upvotes
-- Comments: 19 Discussions
+- Score: 128 Upvotes
+- Comments: 41 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50134359
 - Original Article: https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain
 

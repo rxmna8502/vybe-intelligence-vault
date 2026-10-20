@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://youtube.com/watch?v=cNm4zyUtWj0
 hn_url: https://news.ycombinator.com/item?id=50136126
-score: 101
+score: 174
 author: evakhoury
-comments_count: 41
+comments_count: 66
 published_at: '2026-10-18T04:54:05+05:30'
-collected_at: '2026-10-20T02:42:23.749378+05:30'
+collected_at: '2026-10-20T10:30:02.532668+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: youtube:cNm4zyUtWj0
 first_seen: '2026-10-20T02:42:23.749378+05:30'
-last_seen: '2026-10-20T02:42:23.749378+05:30'
-last_checked: '2026-10-20T02:42:23.749378+05:30'
+last_seen: '2026-10-20T10:30:02.532668+05:30'
+last_checked: '2026-10-20T10:30:02.532668+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by evakhoury. Score: 101, Comments: 41.
+Hacker News story by evakhoury. Score: 174, Comments: 66.
 Original Link: https://www.youtube.com/watch?v=cNm4zyUtWj0
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: evakhoury
-- Score: 101 Upvotes
-- Comments: 41 Discussions
+- Score: 174 Upvotes
+- Comments: 66 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50136126
 - Original Article: https://youtube.com/watch?v=cNm4zyUtWj0
 

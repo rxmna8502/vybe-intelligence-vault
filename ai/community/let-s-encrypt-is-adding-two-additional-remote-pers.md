@@ -13,13 +13,14 @@ collected_at: '2026-10-20T02:42:24.917920+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:let-s-encrypt-is-adding-two-additional-remote-pers
 first_seen: '2026-10-19T21:16:34.613165+05:30'
 last_seen: '2026-10-20T02:42:24.917920+05:30'
 last_checked: '2026-10-20T02:42:24.917920+05:30'
 health_score: 100
 ---
+
 
 # Let's Encrypt is adding two additional remote perspectives for domain validation
 

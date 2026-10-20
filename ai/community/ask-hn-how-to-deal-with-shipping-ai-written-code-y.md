@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://news.ycombinator.com/item?id=50151036
 hn_url: https://news.ycombinator.com/item?id=50151036
-score: 120
+score: 331
 author: rzk
-comments_count: 210
+comments_count: 477
 published_at: '2026-10-19T16:54:34+05:30'
-collected_at: '2026-10-20T02:42:24.624193+05:30'
+collected_at: '2026-10-20T10:30:03.810753+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ask-hn-how-to-deal-with-shipping-ai-written-code-y
 first_seen: '2026-10-20T02:42:24.624193+05:30'
-last_seen: '2026-10-20T02:42:24.624193+05:30'
-last_checked: '2026-10-20T02:42:24.624193+05:30'
+last_seen: '2026-10-20T10:30:03.810753+05:30'
+last_checked: '2026-10-20T10:30:03.810753+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by rzk. Score: 120, Comments: 210.
+Hacker News story by rzk. Score: 331, Comments: 477.
 Original Link: None
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rzk
-- Score: 120 Upvotes
-- Comments: 210 Discussions
+- Score: 331 Upvotes
+- Comments: 477 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50151036
 - Original Article: https://news.ycombinator.com/item?id=50151036
 

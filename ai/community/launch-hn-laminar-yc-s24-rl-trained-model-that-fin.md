@@ -16,13 +16,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-laminar-yc-s24-rl-trained-model-that-fin
 first_seen: '2026-10-20T02:42:24.820715+05:30'
 last_seen: '2026-10-20T02:42:24.820715+05:30'
 last_checked: '2026-10-20T02:42:24.820715+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces
 

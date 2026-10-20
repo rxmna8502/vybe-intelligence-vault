@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:cairn-open-windows-into-ai-driven-cyber-operations
 first_seen: '2026-10-20T02:42:25.732655+05:30'
 last_seen: '2026-10-20T02:42:25.732655+05:30'
 last_checked: '2026-10-20T02:42:25.732655+05:30'
 health_score: 100
 ---
+
 
 # Cairn: Open windows into AI-driven cyber operations
 
