@@ -1,87 +1,55 @@
 ---
-title: Noveum/orbit
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-20
-tech_stack:
-- TypeScript
-- Next.js
-- React
-- Bun
-- PostgreSQL
-- Redis
-- Drizzle ORM
-- WebSockets
-- MCP (Model Context Protocol)
-- Tailwind CSS
-- Passkeys
-- OAuth
+title: "yaozoo/orbit"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["OpenSpec", "Superpowers", "YAML", "Agent Skills", "Git", "TDD", "State Machines"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- project management
-- realtime collaboration
-- AI agent integration
-- self-hosted
-- keyboard-first
-source: https://github.com/Noveum/orbit
+rag_relevance: 9
+deployment_complexity: "Low"
+tags: ["workflow automation", "AI coding pipeline", "specification-driven development", "agent orchestration", "breakpoint recovery"]
+source: "https://github.com/yaozoo/orbit"
 stars: 1
-language: TypeScript
-last_updated: '2026-08-07T08:10:12Z'
-discovered_at: '2026-08-07T08:16:22Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-21T07:27:10Z"
+discovered_at: "2026-07-21T07:32:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Orbit is a free, realtime, keyboard-first work tracker offering Linear-grade features like issues, boards, sprints, and docs without per-seat pricing. It supports self-hosting, AI agent integration via MCP, and realtime collaboration with instant updates across all connected clients.
+Orbit is an end-to-end workflow orchestrator that unifies OpenSpec and Superpowers to transform AI-driven coding from ad-hoc improvisation into a structured engineering pipeline. It acts as a bridge between requirement specification and implementation, enforcing process constraints and enabling breakpoint recovery.
 
 ## Key Features
-- Realtime updates via WebSockets with instant synchronization across clients
-- Keyboard-first navigation and command palette for efficient workflow
-- MCP server for AI agents to read and interact with the board (OAuth-based permissions)
-- Self-hostable with minimal infrastructure requirements (Postgres, Redis, S3-compatible storage)
-- Comprehensive project management features: issues, sprints, boards, docs, analytics, and standup
+- Zero-dependency installation via SKILL.md file for seamless integration with AI assistants like Codex, Claude Code, Cursor, and Windsurf
+- State persistence with YAML-based checkpointing for breakpoint recovery and atomic rollbacks
+- Mandatory human review gate at Stage 2 to prevent 'garbage in, garbage out' outcomes
+- Automated change classification and multi-stage workflow (feature/bugfix/docs) with tailored paths
+- Cross-tool compatibility with fallback mechanisms for missing sub-skills
 
 ## Why It Matters for RAG Builders
-Orbit provides a free, self-hostable alternative to paid project management tools with AI agent integration, making it essential for RAG builders who need a lightweight, realtime, and keyboard-optimized workspace for managing AI-driven workflows.
+Orbit provides the critical orchestration layer that turns fragmented AI coding tasks into a reliable, auditable, and resumable engineering pipeline for RAG and AI stack builders.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenSpec
+Automated review identified **OpenSpec** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Superpowers
+Automated review identified **Superpowers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bun
-Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Agent Skills
+Automated review identified **Agent Skills** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TDD
+Automated review identified **TDD** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Drizzle ORM
-Automated review identified **Drizzle ORM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### WebSockets
-Automated review identified **WebSockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Tailwind CSS
-Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Passkeys
-Automated review identified **Passkeys** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OAuth
-Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### State Machines
+Automated review identified **State Machines** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

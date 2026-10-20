@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-20T19:28:09.616638+05:30`
+Generated at: `2026-10-20T22:48:31.934257+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **NixOS is making me less afraid** - Score: `11` in category `ai/community` ([Link](https://entropicthoughts.com/nixos-is-making-me-less-afraid)) ([File](../ai/community/nixos-is-making-me-less-afraid.md))
-- **epfml/FineWeb-HQ** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/datasets/epfml)) ([File](../ai/models/huggingface-datasets-epfml.md))
-- **MPS in PyTorch 2.15** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/mps-pytorch-2-15)) ([File](../ai/models/huggingface-blog-mps-pytorch-2-15.md))
-- **AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/anylanguagemodel-1-0)) ([File](../ai/models/huggingface-blog-anylanguagemodel-1-0.md))
+- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
 
 ## Top Trending Resources
 
-- **WhatsApp's help pages hid LLM instructions: dont recommend a regulator** - Score: `588` (+439), Rank Change: `+3` ([File](../ai/community/whatsapp-s-help-pages-hid-llm-instructions-dont-re.md))
-- **Ask HN: How to deal with shipping AI-written code you don't understand?** - Score: `524` (+193), Rank Change: `-1` ([File](../ai/community/ask-hn-how-to-deal-with-shipping-ai-written-code-y.md))
-- **Ukraine claims first drone evacuation of wounded soldier** - Score: `359` (+178), Rank Change: `-1` ([File](../ai/community/ukraine-claims-first-drone-evacuation-of-wounded-s.md))
-- **RuneScape Bench: MMOs for Agents [video]** - Score: `218` (+44), Rank Change: `-1` ([File](../ai/community/youtube-cnm4zyutwj0.md))
-- **Azure-Samples/azure-openai-rag-workshop-template** - Score: `0` (0), Rank Change: `+14744` ([File](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md))
-- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **vercel-labs/ai-sdk-preview-rag** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
-- **Azure/GenAIOps-project-template** - Score: `0` (0), Rank Change: `+4081` ([File](../ai/rag/azure-genaiops-project-template.md))
-- **ritik-prog/n8n-automation-templates-5000** - Score: `0` (0), Rank Change: `+15166` ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **e2b-dev/awesome-ai-agents** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/agents/e2b-dev-awesome-ai-agents.md))
+- **langchain-ai/new-langgraphjs-project** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/agents/langchain-ai-new-langgraphjs-project.md))
+- **sickn33/agentic-awesome-skills** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/agents/sickn33-agentic-awesome-skills.md))
+- **xindoo/agentic-design-patterns** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/agents/xindoo-agentic-design-patterns.md))
+- **transitive-bullshit/agentic** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/agents/transitive-bullshit-agentic.md))
+- **langchain-ai/rag-research-agent-template** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/rag/langchain-ai-rag-research-agent-template.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **VideoHarness-SRSI: Structured Recursive Self-Improvement for Video Understanding Harness** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/agents/arxiv-2610-19424.md))
+- **NutriVision: Ingredient-Conditioned Fusion and Prediction for Single-Image Food Nutrition Estimation** - Score: `0` (0), Rank Change: `+1034` ([File](../ai/rag/arxiv-2609-33076.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **ritik-prog/n8n-automation-templates-5000** - (Rank Change: `+15166`) ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- **Azure-Samples/azure-openai-rag-workshop-template** - (Rank Change: `+14744`) ([File](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md))
-- **Azure/GenAIOps-project-template** - (Rank Change: `+4081`) ([File](../ai/rag/azure-genaiops-project-template.md))
-- **NirDiamant/RAG_Techniques** - (Rank Change: `+1577`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+1043`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+1042`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+1042`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1041`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+1041`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **patchy631/ai-engineering-hub** - (Rank Change: `+1041`) ([File](../ai/rag/patchy631-ai-engineering-hub.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25372`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1036`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1036`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1036`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1036`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1036`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1036`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1036`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1036`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1036`) ([File](../ai/agents/arxiv-2606-05050.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -48,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **The fire retardant in the seafood chain** (Category: `ai/community`) ([File](../ai/community/the-fire-retardant-in-the-seafood-chain.md))
-- **Go will reject certificate chains containing eight distrusted SPKIs** (Category: `ai/community`) ([File](../ai/community/golang-go.md))
+No recently active resources transitioned to inactive.
+
