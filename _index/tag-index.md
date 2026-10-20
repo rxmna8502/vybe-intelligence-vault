@@ -38667,7 +38667,6 @@ Resources organized by keyword tags.
   - [Public perceptions of AI-driven decision-making in healthcare: A structural equation modeling approach](../ai/agents/arxiv-2607-18884.md)
   - [Publications – Google Research](../ai/rag/publications-google-research.md)
   - [Publish Docker · Actions · GitHub Marketplace · GitHub](../ai/resources/marketplace-actions.md)
-  - [Publish fake stats, get cited in LLMs](../ai/community/publish-fake-stats-get-cited-in-llms.md)
   - [PulmoSight-XAI: An Explainable Multi-View Attention Ensemble with Gradient Boosting Meta-Learning for Multi-Label Chest X-Ray Classification](../ai/rag/arxiv-2607-04478.md)
   - [Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings for CLEF JOKER 2025 Task 2](../ai/rag/arxiv-2507-06506.md)
   - [PyDPF: A Python Package for Differentiable Particle Filtering](../ai/research/arxiv-2510-25693.md)
@@ -40783,10 +40782,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Publish fake stats, get cited in LLMs](../ai/community/publish-fake-stats-get-cited-in-llms.md)
 
 ## mdx
 
@@ -81535,4 +81530,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-21T01:51:28.803634+05:30*
+*Index generated on 2026-10-21T05:02:26.291470+05:30*

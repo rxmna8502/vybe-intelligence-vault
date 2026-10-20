@@ -35707,7 +35707,6 @@ Resources organized by publisher feed and query sources.
   - [Claude designed protein binders against scorpion neurotoxins](../ai/community/claude-designed-protein-binders-against-scorpion-n.md)
   - [Facebook Pages require paid subscription to post more than two links per month](../ai/community/facebook-pages-require-paid-subscription-to-post-m.md)
   - [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](../ai/community/launch-hn-respan-yc-w24-open-source-rust-ai-gatewa.md)
-  - [Publish fake stats, get cited in LLMs](../ai/community/publish-fake-stats-get-cited-in-llms.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39601,4 +39600,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-21T01:51:29.100195+05:30*
+*Index generated on 2026-10-21T05:02:26.621499+05:30*

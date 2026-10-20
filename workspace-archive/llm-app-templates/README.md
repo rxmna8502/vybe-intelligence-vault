@@ -26,7 +26,7 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [coleam00/agentic-chat-application-template](https://github.com/coleam00/agentic-chat-application-template)
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
-- [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-10-21 01:52 IST*
+*Last updated: 2026-10-21 05:03 IST*
