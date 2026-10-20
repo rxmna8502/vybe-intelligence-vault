@@ -13,13 +13,14 @@ collected_at: '2026-10-20T19:09:06.238819+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ukraine-claims-first-drone-evacuation-of-wounded-s
 first_seen: '2026-10-20T10:30:02.386643+05:30'
 last_seen: '2026-10-20T19:09:06.238819+05:30'
 last_checked: '2026-10-20T19:09:06.238819+05:30'
 health_score: 100
 ---
+
 
 # Ukraine claims first drone evacuation of wounded soldier
 

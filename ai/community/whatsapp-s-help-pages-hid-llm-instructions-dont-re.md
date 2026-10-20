@@ -13,13 +13,14 @@ collected_at: '2026-10-20T19:09:04.221053+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:whatsapp-s-help-pages-hid-llm-instructions-dont-re
 first_seen: '2026-10-20T10:30:01.171102+05:30'
 last_seen: '2026-10-20T19:09:04.221053+05:30'
 last_checked: '2026-10-20T19:09:04.221053+05:30'
 health_score: 100
 ---
+
 
 # WhatsApp's help pages hid LLM instructions: dont recommend a regulator
 

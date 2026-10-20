@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:cNm4zyUtWj0
 first_seen: '2026-10-20T02:42:23.749378+05:30'
 last_seen: '2026-10-20T19:09:07.009939+05:30'
 last_checked: '2026-10-20T19:09:07.009939+05:30'
 health_score: 100
 ---
+
 
 # RuneScape Bench: MMOs for Agents [video]
 

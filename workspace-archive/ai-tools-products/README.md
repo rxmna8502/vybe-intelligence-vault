@@ -12,10 +12,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
 - [On a joint simultaneous learning of relevant feature subsets and subspaces in regression-like problems](https://arxiv.org/abs/2607.28080) (framework - USEFUL Tier)
-- [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,8 +24,8 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [continuedev/continue](https://github.com/continuedev/continue)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-10-20 19:27 IST*
+*Last updated: 2026-10-21 01:53 IST*

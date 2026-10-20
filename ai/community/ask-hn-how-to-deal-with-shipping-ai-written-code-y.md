@@ -13,13 +13,14 @@ collected_at: '2026-10-20T19:09:07.163263+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-how-to-deal-with-shipping-ai-written-code-y
 first_seen: '2026-10-20T02:42:24.624193+05:30'
 last_seen: '2026-10-20T19:09:07.163263+05:30'
 last_checked: '2026-10-20T19:09:07.163263+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: How to deal with shipping AI-written code you don't understand?
 

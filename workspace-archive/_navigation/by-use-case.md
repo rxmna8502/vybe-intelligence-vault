@@ -40,21 +40,21 @@ This index groups resources by direct developer use-cases and design goals.
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `model-providers` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Category: `inference-local-llm` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `observability` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `observability` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Category: `model-providers` | [`Local File`](../../ai/resources/firecrawl-firecrawl-mcp-server.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Category: `model-providers` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [Mintlify · GitHub](https://github.com/mintlify) (Category: `model-providers` | [`Local File`](../../ai/resources/mintlify-github.md))
+- [OpenAI · GitHub](https://github.com/openai) (Category: `model-providers` | [`Local File`](../../ai/agents/openai-github.md))
 
 ## Production Auditing & Prompt Injection Protection
 
 - [OpenAI · GitHub](https://github.com/openai) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/openai-github.md))
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/weaviate-verba.md))
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [pypi/warehouse](https://github.com/pypi/warehouse) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/pypi-warehouse.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 
 ## Script Automations & External API Integration
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites](https://arxiv.org/abs/2610.03036) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2610-03036.md))
 
 ---
-*Last updated: 2026-10-20 19:27 IST*
+*Last updated: 2026-10-21 01:53 IST*
