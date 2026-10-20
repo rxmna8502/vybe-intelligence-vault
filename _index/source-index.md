@@ -35705,9 +35705,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Ask HN: How to deal with shipping AI-written code you don't understand?](../ai/community/ask-hn-how-to-deal-with-shipping-ai-written-code-y.md)
-  - [Go will reject certificate chains containing eight distrusted SPKIs](../ai/community/golang-go.md)
+  - [NixOS is making me less afraid](../ai/community/nixos-is-making-me-less-afraid.md)
   - [RuneScape Bench: MMOs for Agents [video]](../ai/community/youtube-cnm4zyutwj0.md)
-  - [The fire retardant in the seafood chain](../ai/community/the-fire-retardant-in-the-seafood-chain.md)
   - [Ukraine claims first drone evacuation of wounded soldier](../ai/community/ukraine-claims-first-drone-evacuation-of-wounded-s.md)
   - [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](../ai/community/whatsapp-s-help-pages-hid-llm-instructions-dont-re.md)
 
@@ -35790,6 +35789,7 @@ Resources organized by publisher feed and query sources.
   - [Announcing the Open Source AI Game Jam 🎮](../ai/models/huggingface-blog-game-jam.md)
   - [Announcing the 🤗 AI Research Residency Program](../ai/models/huggingface-blog-ai-residency.md)
   - [Any Custom Frontend with Gradio's Backend](../ai/models/huggingface-blog-introducing-gradio-server.md)
+  - [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](../ai/models/huggingface-blog-anylanguagemodel-1-0.md)
   - [Apertus 1.5 Release Notes](../ai/models/huggingface-blog-swiss-ai-apertus-v15-release-notes.md)
   - [Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models](../ai/models/huggingface-blog-servicenow-ai-apriel-h1.md)
   - [AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](../ai/models/huggingface-blog-servicenow-ai-aprielguard.md)
@@ -36222,6 +36222,7 @@ Resources organized by publisher feed and query sources.
   - [Llama can now see and run on your device - welcome Llama 3.2](../ai/models/huggingface-blog-llama32.md)
   - [LoRA training scripts of the world, unite!](../ai/models/huggingface-blog-sdxl-lora-advanced-script.md)
   - [MCP for Research: How to Connect AI to Research Tools](../ai/models/huggingface-blog-mcp-for-research.md)
+  - [MPS in PyTorch 2.15](../ai/models/huggingface-blog-mps-pytorch-2-15.md)
   - [MTEB: Massive Text Embedding Benchmark](../ai/models/huggingface-blog-mteb.md)
   - [Machine Learning Experts - Lewis Tunstall](../ai/models/huggingface-blog-lewis-tunstall-interview.md)
   - [Machine Learning Experts - Margaret Mitchell](../ai/models/huggingface-blog-meg-mitchell-interview.md)
@@ -36597,9 +36598,9 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: huggingface_dataset)
 
   - [BuLei/imgbed](../ai/models/huggingface-datasets-bulei.md)
-  - [Lichess/standard-chess-games](../ai/models/huggingface-datasets-lichess.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
+  - [epfml/FineWeb-HQ](../ai/models/huggingface-datasets-epfml.md)
   - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
@@ -39599,4 +39600,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-20T10:46:18.887776+05:30*
+*Index generated on 2026-10-20T19:25:23.869000+05:30*

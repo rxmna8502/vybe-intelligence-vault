@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: enzostvs/deepsite (Likes: 16610, Downloads: 0)
+Trending Hugging Face space: enzostvs/deepsite (Likes: 16604, Downloads: 0)
 
 ## Use Cases
 

@@ -399,6 +399,7 @@ This index groups curated resources by target developer skills.
 
 ## Scripting
 
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Tier: `essential` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Tier: `essential` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
@@ -406,7 +407,6 @@ This index groups curated resources by target developer skills.
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Tier: `essential` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
 
 ## Similarity Search
 
@@ -520,6 +520,7 @@ This index groups curated resources by target developer skills.
 
 ## Workflow Automation
 
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Tier: `essential` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Tier: `essential` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
@@ -527,7 +528,6 @@ This index groups curated resources by target developer skills.
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Tier: `essential` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
 
 ---
-*Last updated: 2026-10-20 10:48 IST*
+*Last updated: 2026-10-20 19:27 IST*

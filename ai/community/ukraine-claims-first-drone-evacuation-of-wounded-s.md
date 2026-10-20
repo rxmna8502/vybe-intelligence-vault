@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310
 hn_url: https://news.ycombinator.com/item?id=50153664
-score: 181
+score: 359
 author: yzydserd
-comments_count: 139
+comments_count: 256
 published_at: '2026-10-19T21:01:34+05:30'
-collected_at: '2026-10-20T10:30:02.386643+05:30'
+collected_at: '2026-10-20T19:09:06.238819+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ukraine-claims-first-drone-evacuation-of-wounded-s
 first_seen: '2026-10-20T10:30:02.386643+05:30'
-last_seen: '2026-10-20T10:30:02.386643+05:30'
-last_checked: '2026-10-20T10:30:02.386643+05:30'
+last_seen: '2026-10-20T19:09:06.238819+05:30'
+last_checked: '2026-10-20T19:09:06.238819+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by yzydserd. Score: 181, Comments: 139.
+Hacker News story by yzydserd. Score: 359, Comments: 256.
 Original Link: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: yzydserd
-- Score: 181 Upvotes
-- Comments: 139 Discussions
+- Score: 359 Upvotes
+- Comments: 256 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50153664
 - Original Article: https://nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310
 

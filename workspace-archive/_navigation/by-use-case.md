@@ -58,6 +58,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Script Automations & External API Integration
 
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `automation-workflows` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `automation-workflows` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Category: `automation-workflows` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `automation-workflows` | [`Local File`](../../ai/rag/elevenlabs-github.md))
@@ -65,7 +66,6 @@ This index groups resources by direct developer use-cases and design goals.
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Category: `automation-workflows` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `automation-workflows` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `automation-workflows` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Category: `automation-workflows` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites](https://arxiv.org/abs/2610.03036) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2610-03036.md))
 
 ---
-*Last updated: 2026-10-20 10:48 IST*
+*Last updated: 2026-10-20 19:27 IST*

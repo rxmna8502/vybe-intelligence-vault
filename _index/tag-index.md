@@ -8997,8 +8997,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [Ask HN: How to deal with shipping AI-written code you don't understand?](../ai/community/ask-hn-how-to-deal-with-shipping-ai-written-code-y.md)
-  - [Go will reject certificate chains containing eight distrusted SPKIs](../ai/community/golang-go.md)
-  - [The fire retardant in the seafood chain](../ai/community/the-fire-retardant-in-the-seafood-chain.md)
+  - [NixOS is making me less afraid](../ai/community/nixos-is-making-me-less-afraid.md)
   - [Ukraine claims first drone evacuation of wounded soldier](../ai/community/ukraine-claims-first-drone-evacuation-of-wounded-s.md)
 
 ## animation
@@ -19955,7 +19954,6 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -30000,7 +29998,6 @@ Resources organized by keyword tags.
   - [LiFTER: A Grounded Neuro-Symbolic Microscope for Continuous-Time Dynamic Graph Forecasting](../ai/research/arxiv-2608-06765.md)
   - [LiNC: Lightweight Noise Correction via Per-Sample Trust and Gaussian Mixture Modeling](../ai/research/arxiv-2608-04147.md)
   - [LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale](../ai/research/arxiv-2608-25204.md)
-  - [Lichess/standard-chess-games](../ai/models/huggingface-datasets-lichess.md)
   - [Lifecycle-Aware Dynamic Analysis for Secure ML Model Execution](../ai/research/arxiv-2606-19023.md)
   - [Lifelong Learning of Video Diffusion Models From a Single Video Stream](../ai/agents/arxiv-2406-04814.md)
   - [Lifted Bellman Linear Programming for Offline Reinforcement Learning](../ai/rag/arxiv-2609-24489.md)
@@ -33612,6 +33609,7 @@ Resources organized by keyword tags.
   - [e1: Learning Adaptive Control of Reasoning Effort](../ai/rag/arxiv-2510-27042.md)
   - [eCREAM-MedCorpus A Large-Scale Corpus of Clinical Notes for Italian](../ai/research/arxiv-2606-12569.md)
   - [embeddings-benchmark/mteb](../ai/rag/embeddings-benchmark-mteb.md)
+  - [epfml/FineWeb-HQ](../ai/models/huggingface-datasets-epfml.md)
   - [extensions/firestore-bigquery-export/guides/IMPORT_EXISTING_DOCUMENTS.md at master · firebase/extensions · GitHub](../ai/resources/firebase-extensions.md)
   - [fable.intermittent: benchmarking probabilistic forecasting methods for intermittent time series](../ai/research/arxiv-2609-28607.md)
   - [facebookresearch/CRAG](../ai/rag/facebookresearch-crag.md)
@@ -37393,7 +37391,6 @@ Resources organized by keyword tags.
   - [Glucose-ML: A collection of longitudinal diabetes datasets for development of robust AI solutions](../ai/research/arxiv-2507-14077.md)
   - [GnuTLS](../ai/resources/gnutls.md)
   - [Go Wiki: Go Modules - The Go Programming Language](../ai/rag/go-wiki-go-modules-the-go-programming-language.md)
-  - [Go will reject certificate chains containing eight distrusted SPKIs](../ai/community/golang-go.md)
   - [GoLand - YouTube](../ai/resources/goland-youtube.md)
   - [Goal-Driven Reasoning in DatalogMTL with Magic Sets](../ai/research/arxiv-2412-07259.md)
   - [Godot Development Fund](../ai/rag/godot-development-fund.md)
@@ -38299,6 +38296,7 @@ Resources organized by keyword tags.
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
+  - [NixOS is making me less afraid](../ai/community/nixos-is-making-me-less-afraid.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
   - [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](../ai/research/arxiv-2609-10854.md)
   - [Node-level Graph Neural Architecture Search Framework](../ai/research/arxiv-2610-09297.md)
@@ -39439,7 +39437,6 @@ Resources organized by keyword tags.
   - [The Website Obesity Crisis](../ai/rag/the-website-obesity-crisis.md)
   - [The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression](../ai/research/arxiv-2607-24041.md)
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
-  - [The fire retardant in the seafood chain](../ai/community/the-fire-retardant-in-the-seafood-chain.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
@@ -40053,6 +40050,7 @@ Resources organized by keyword tags.
   - [p-PSO: A Penalized Particle Swarm Optimization Technique for Finding D-Optimal Designs with Mixed Factors in Generalized Linear Models](../ai/research/arxiv-2606-15962.md)
   - [pandoc • pandoc](../ai/rag/pandoc-pandoc.md)
   - [pandoc: Conversion between markup formats](../ai/rag/pandoc-conversion-between-markup-formats.md)
+  - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md)
   - [paul-hammant/tbd](../ai/resources/paul-hammant-tbd.md)
   - [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md)
@@ -40116,6 +40114,7 @@ Resources organized by keyword tags.
   - [vibecon](../ai/rag/vibecon.md)
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md)
+  - [vivy-yi/rag-tutorial](../ai/rag/vivy-yi-rag-tutorial.md)
   - [voila-dashboards/voila](../ai/rag/voila-dashboards-voila.md)
   - [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
@@ -40159,9 +40158,9 @@ Resources organized by keyword tags.
 ## hf-dataset
 
   - [BuLei/imgbed](../ai/models/huggingface-datasets-bulei.md)
-  - [Lichess/standard-chess-games](../ai/models/huggingface-datasets-lichess.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
+  - [epfml/FineWeb-HQ](../ai/models/huggingface-datasets-epfml.md)
   - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
@@ -40224,7 +40223,6 @@ Resources organized by keyword tags.
   - [BuLei/imgbed](../ai/models/huggingface-datasets-bulei.md)
   - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
-  - [Lichess/standard-chess-games](../ai/models/huggingface-datasets-lichess.md)
   - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
@@ -40232,6 +40230,7 @@ Resources organized by keyword tags.
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [dalle-mini/dalle-mini](../ai/models/huggingface-spaces-dalle-mini.md)
   - [enzostvs/deepsite](../ai/models/huggingface-spaces-enzostvs.md)
+  - [epfml/FineWeb-HQ](../ai/models/huggingface-datasets-epfml.md)
   - [facebook/MusicGen](../ai/models/huggingface-spaces-facebook.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
@@ -77022,6 +77021,7 @@ Resources organized by keyword tags.
   - [Newest 'twilio' Questions - Stack Overflow](../ai/agents/newest-twilio-questions-stack-overflow.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
   - [NicholasGoh/fastapi-mcp-langgraph-template](../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md)
+  - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md)
   - [Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](../ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md)
   - [NodeGround: A Node Classification Benchmark in the Graph Foundation Model Era](../ai/research/arxiv-2609-39673.md)
@@ -77975,6 +77975,7 @@ Resources organized by keyword tags.
   - [trycua/cua](../ai/agents/trycua-cua.md)
   - [typing/conformance at main · python/typing · GitHub](../ai/resources/python-typing.md)
   - [vercel-labs/agent-browser](../ai/rag/vercel-labs-agent-browser.md)
+  - [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md)
   - [vercel-labs/coding-agent-template](../ai/rag/vercel-labs-coding-agent-template.md)
   - [vercel-labs/open-agents](../ai/rag/vercel-labs-open-agents.md)
   - [vercel-labs/workflow-builder-template](../ai/rag/vercel-labs-workflow-builder-template.md)
@@ -81534,4 +81535,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-20T10:46:18.614040+05:30*
+*Index generated on 2026-10-20T19:25:23.567771+05:30*
