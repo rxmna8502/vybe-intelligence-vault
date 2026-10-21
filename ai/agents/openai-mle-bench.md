@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-10-17T10:12:57.887335+05:30'
-published_at: '2026-10-16T06:55:45Z'
+collected_at: '2026-10-21T19:32:04.514031+05:30'
+published_at: '2026-10-21T13:14:57Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - openai
 - python
-stars: 1776
+stars: 1782
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-10-17T10:12:57.887335+05:30'
-last_seen: '2026-10-17T10:12:57.887335+05:30'
-last_checked: '2026-10-17T10:12:57.887335+05:30'
+first_seen: '2026-10-21T19:32:04.514031+05:30'
+last_seen: '2026-10-21T19:32:04.514031+05:30'
+last_checked: '2026-10-21T19:32:04.514031+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   A benchmark for quantitatively assessing AI agent performance across machine learning engineering (MLE) tasks.
-*   Designed to evaluate AI agents' practical capabilities within the MLE lifecycle, encompassing aspects like model development, deployment, and optimization.
-*   An OpenAI-developed, Python-based framework for standardized evaluation of AI in MLE contexts.
+*   OpenAI-developed benchmark for evaluating AI agent proficiency in machine learning engineering (MLE) tasks.
+*   Python-based framework designed for standardized assessment of MLE agent performance.
+*   Quantifies AI agent capabilities across various MLE challenges, providing a comparative metric.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 1776
+- Stars: 1782
 - Forks: 262
 - Language: Python
 - Topics: None
-- Last Updated: 2026-10-16T06:55:45Z
+- Last Updated: 2026-10-21T13:14:57Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-10-08T17:07:40Z

@@ -15,13 +15,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:benchmarking-bot-detection-systems-against-modern
 first_seen: '2026-10-21T10:30:16.100060+05:30'
 last_seen: '2026-10-21T10:30:16.100060+05:30'
 last_checked: '2026-10-21T10:30:16.100060+05:30'
 health_score: 100
 ---
+
 
 # Benchmarking Bot Detection Systems Against Modern AI Agents in 2026
 

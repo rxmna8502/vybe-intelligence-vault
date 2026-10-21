@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/ClawBench
-collected_at: '2026-10-03T02:25:43.304969+05:30'
-published_at: '2026-10-02T20:11:42Z'
+collected_at: '2026-10-21T19:32:04.576693+05:30'
+published_at: '2026-10-21T06:03:25Z'
 tags:
 - agents
 - benchmark
@@ -13,17 +13,17 @@ tags:
 - github-repo
 - python
 - scripts
-stars: 918
+stars: 1092
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-04-10T01:59:17Z'
-pushed_at: '2026-09-20T05:45:35Z'
+pushed_at: '2026-10-17T00:44:41Z'
 resource_id: github:tiger-ai-lab/clawbench
-first_seen: '2026-10-03T02:25:43.304969+05:30'
-last_seen: '2026-10-03T02:25:43.304969+05:30'
-last_checked: '2026-10-03T02:25:43.304969+05:30'
+first_seen: '2026-10-21T19:32:04.576693+05:30'
+last_seen: '2026-10-21T19:32:04.576693+05:30'
+last_checked: '2026-10-21T19:32:04.576693+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Open-source Python benchmark for evaluating browser AI agents on real-world, everyday online tasks.
-*   Focuses on agentic AI performance within browser automation contexts, specifically targeting Chrome agents.
-*   Provides a dataset and framework for LLM-driven agent evaluation across diverse computer-use scenarios.
+*   Open-source Python benchmark for evaluating AI agents on real-world, daily browser tasks.
+*   Focuses on web agent performance via browser automation (e.g., Chrome) across diverse online scenarios.
+*   Provides a dataset and evaluation framework specifically for LLM-powered agents interacting with web environments.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TIGER-AI-Lab
-- Stars: 918
-- Forks: 62
+- Stars: 1092
+- Forks: 66
 - Language: Python
 - Topics: agent-evaluation, agentic-ai, ai-agent-benchmark, ai-agents, benchmark, browser-agent, browser-automation, browser-use, chrome-agent, chrome-extension, computer-use, dataset, evaluation, everyday-tasks, llm, llm-evaluation, online-tasks, real-world-benchmark, web-agent, web-agents
-- Last Updated: 2026-10-02T20:11:42Z
+- Last Updated: 2026-10-21T06:03:25Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-10T01:59:17Z
-- Pushed At: 2026-09-20T05:45:35Z
+- Pushed At: 2026-10-17T00:44:41Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-10-18T18:23:01.341114+05:30'
+collected_at: '2026-10-21T19:30:34.405684+05:30'
 published_at: '2026-08-25T05:09:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-09-15T11:27:41Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-10-18T18:23:01.341114+05:30'
-last_seen: '2026-10-18T18:23:01.341114+05:30'
-last_checked: '2026-10-18T18:23:01.341114+05:30'
+first_seen: '2026-10-21T19:30:34.405684+05:30'
+last_seen: '2026-10-21T19:30:34.405684+05:30'
+last_checked: '2026-10-21T19:30:34.405684+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a Linux-native security and governance mesh leveraging eBPF for granular control.
-*   Provides observability and enforcement capabilities specifically for AI agent workloads.
-*   Designed for distributed systems in cloud-native production environments, supporting RAG architectures.
+*   Utilizes eBPF for Linux-native, kernel-level security and governance enforcement.
+*   Establishes a security and governance mesh architecture for distributed policy application.
+*   Targets AI agent workloads, providing specialized controls for their operational integrity.
 
 ## Why It Matters
 
