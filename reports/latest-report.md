@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-21T05:05:13.623705+05:30`
+Generated at: `2026-10-21T09:23:00.318348+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-No new discoveries tracked in this run.
-
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Claude designed protein binders against scorpion neurotoxins** - Score: `82` (+62), Rank Change: `+2` ([File](../ai/community/claude-designed-protein-binders-against-scorpion-n.md))
-- **Facebook Pages require paid subscription to post more than two links per month** - Score: `399` (+39), Rank Change: `0` ([File](../ai/community/facebook-pages-require-paid-subscription-to-post-m.md))
-- **Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins** - Score: `37` (+6), Rank Change: `0` ([File](../ai/community/launch-hn-respan-yc-w24-open-source-rust-ai-gatewa.md))
-- **ashishpatel26/500-AI-Agents-Projects** - Score: `0` (0), Rank Change: `+4091` ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+3` ([File](../ai/companies/human-computer-interaction.md))
+- **KruxAI/ragbuilder** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/kruxai-ragbuilder.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **Azure-Samples/azure-openai-rag-workshop-template** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **vercel-labs/ai-sdk-preview-rag** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/vercel-labs-ai-sdk-preview-rag.md))
+- **Azure/GenAIOps-project-template** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/azure-genaiops-project-template.md))
+- **ritik-prog/n8n-automation-templates-5000** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
+- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1036` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **ashishpatel26/500-AI-Agents-Projects** - (Rank Change: `+4091`) ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
-- **google-t5/t5-small** - (Rank Change: `+887`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
-- **Comfy-Org/MiniMax-H3** - (Rank Change: `+887`) ([File](../ai/models/huggingface-comfy-org-minimax-h3.md))
-- **Qwen/Qwen3-0.6B** - (Rank Change: `+887`) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
-- **google-bert/bert-base-uncased** - (Rank Change: `+887`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
-- **BAAI/bge-m3** - (Rank Change: `+887`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
-- **google/electra-base-discriminator** - (Rank Change: `+887`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
-- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+887`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
-- **BAAI/bge-small-en-v1.5** - (Rank Change: `+887`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
-- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+887`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
+- **microsoft/rag-time** - (Rank Change: `+1038`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1038`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1038`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1038`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1038`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1038`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1038`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1038`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1038`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+1038`) ([File](../ai/research/arxiv-2605-12153.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Publish fake stats, get cited in LLMs** (Category: `ai/community`) ([File](../ai/community/publish-fake-stats-get-cited-in-llms.md))
+No recently active resources transitioned to inactive.
+
