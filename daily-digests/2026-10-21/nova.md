@@ -1,75 +1,55 @@
 ---
-title: bigduu/Nova
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-21
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- ScreenCaptureKit
-- CoreGraphics
-- Accessibility APIs
-- Apple Vision (OCR)
-- Cargo
-- Homebrew
-- Streamable HTTP
-quality_score: 9
+title: "joelaniol/nova"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["C#", "Windows App SDK", "Microsoft Edge WebView2 Runtime", "MCP (Model Context Protocol)", "Chromium", "Local Storage (LCJ, ALP, PKS, OK)", "PowerShell"]
+quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- MCP server
-- macOS automation
-- computer use
-- LLM agent
-- Rust
-source: https://github.com/bigduu/Nova
-stars: 1
-language: Rust
-last_updated: '2026-07-11T14:46:04Z'
-discovered_at: '2026-07-11T14:51:57Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "browser automation", "MCP server", "local AI runtime", "Windows desktop"]
+source: "https://github.com/joelaniol/nova"
+stars: 0
+language: "None"
+last_updated: "2026-07-21T12:19:03Z"
+discovered_at: "2026-07-21T12:23:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Nova is a Model Context Protocol (MCP) server implemented in Rust that enables LLM agents to control a macOS desktop. It provides native access to screenshots, mouse/keyboard input, OCR, clipboard, and window/app introspection via Apple's ScreenCaptureKit, CoreGraphics, and Accessibility APIs.
+Nova Cognitive Browser is an autonomous AI-agent framework that provides a full Chromium desktop browser as the runtime environment for AI models. It enables fully scheduled, unattended agent execution with persistent local memory, deep web exploration, and browser-enforced safety, all running locally on Windows.
 
 ## Key Features
-- Native macOS desktop control via ScreenCaptureKit and CoreGraphics
-- Set-of-Mark targeting for precise UI element interaction
-- On-device OCR using Apple Vision for text recognition
-- MCP-compliant stdio and HTTP transport for agent integration
-- Clipboard, window/app introspection, and accessibility-driven input
+- Fully autonomous agent scheduling with persistent local memory and task execution
+- Real Chromium desktop browser runtime with tabs, sessions, and identity management
+- Deep autonomous web exploration and surface state discovery without URLs
+- Open MCP server exposing 200+ browser and knowledge tools for external clients
+- Multi-model support (Claude, Codex, Gemini) with seamless provider switching
 
 ## Why It Matters for RAG Builders
-Nova enables LLM agents to autonomously interact with macOS desktops, bridging the gap between AI reasoning and real-world computer use for tasks like automation, testing, and UI interaction.
+Nova provides a production-grade, browser-based runtime for autonomous AI agents with persistent memory and deep web exploration, enabling RAG builders to deploy agents that operate in real-world browsing environments with robust safety and integration capabilities.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### C#
+Automated review identified **C#** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows App SDK
+Automated review identified **Windows App SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ScreenCaptureKit
-Automated review identified **ScreenCaptureKit** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Microsoft Edge WebView2 Runtime
+Automated review identified **Microsoft Edge WebView2 Runtime** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CoreGraphics
-Automated review identified **CoreGraphics** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Accessibility APIs
-Automated review identified **Accessibility APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Chromium
+Automated review identified **Chromium** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Apple Vision (OCR)
-Automated review identified **Apple Vision (OCR)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Local Storage (LCJ, ALP, PKS, OK)
+Automated review identified **Local Storage (LCJ, ALP, PKS, OK)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cargo
-Automated review identified **Cargo** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Homebrew
-Automated review identified **Homebrew** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Streamable HTTP
-Automated review identified **Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PowerShell
+Automated review identified **PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

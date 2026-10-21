@@ -2,11 +2,11 @@
 
 | Metric               | Count |
 | -------------------- | ----: |
-| Active resources     | 40208 |
+| Active resources     | 39170 |
 | Inactive resources   |  1277 |
-| Markdown files       | 684278 |
-| Archive files        | 161542 |
-| Archive categories   |    27 |
+| Markdown files       | 524150 |
+| Archive files        |  2430 |
+| Archive categories   |    26 |
 | Skill files          |    19 |
 | Intelligence files   |     8 |
 | Builder maps         |     8 |
@@ -16,16 +16,16 @@
 | Examples             |     8 |
 | Search index entries | 41212 |
 
-Last Generated: 2026-10-21 19:50 IST
+Last Generated: 2026-10-21 23:04 IST
 
 ## Top Categories
 - **Ai/Research**: 19239 files
-- **Ai/Rag**: 12054 files
-- **Ai/Agents**: 6272 files
+- **Ai/Rag**: 12020 files
+- **Ai/Agents**: 6206 files
 - **Ai/Resources**: 1537 files
-- **Ai/Models**: 826 files
-- **Web Development/Nextjs**: 80 files
-- **Web Development**: 40 files
+- **Web Development**: 39 files
 - **Web Development/Shadcn Ui**: 26 files
 - **Web Development/Webgpu**: 25 files
 - **Web Development/Threejs**: 24 files
+- **Web Development/React Three Fiber**: 22 files
+- **Web Development/Nextjs**: 9 files

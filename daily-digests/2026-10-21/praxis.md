@@ -1,71 +1,46 @@
 ---
-title: Forest-Isle/Praxis
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-21
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Ink (CLI UI library)
-- ripgrep
-- Claude Code Compatibility
-- OpenAI-compatible Providers
-- Anthropic-compatible Providers
-quality_score: 9
+title: "indigokarasu/praxis"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "OCAS Architecture", "SKILL.md Frontmatter", "CHANGELOG.md"]
+quality_score: 7
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- CLI agent
-- local-first
-- MCP integration
-- session management
-- tool orchestration
-source: https://github.com/Forest-Isle/Praxis
+deployment_complexity: "Medium"
+tags: ["behavioral refinement", "drift detection", "skill execution", "journals", "OCAS"]
+source: "https://github.com/indigokarasu/praxis"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-10T03:56:36Z'
-discovered_at: '2026-08-10T03:58:39Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-21T04:04:43Z"
+discovered_at: "2026-07-21T04:14:46Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Praxis is a local-first, single-user CLI agent that reimplements production-proven agent behavior without copying existing solutions like Claude Code. It focuses on CLI agent loops, tool use, permissions, sessions, and MCP concepts while excluding enterprise features like billing or telemetry.
+Praxis is a behavioral refinement loop tool that records skill execution outcomes, measures them against baselines, and emits refinement signals when performance drifts. It generates journals for downstream analysis and improvement proposals in systems like Mentor and Corvus.
 
 ## Key Features
-- Local-first, single-user CLI agent with no telemetry or enterprise features
-- Full compatibility with Claude Code 2.1.208 sessions, tools, and transcripts
-- Advanced session management including resume, fork, background, and headless modes
-- Built-in tools for file operations, shell commands, web fetching, and notebook editing
-- Plugin system with MCP server support, secure credential handling, and LSP integration
+- Outcome recording against defined baselines for skill execution
+- Configurable drift detection with threshold-based alerts
+- Journal output for downstream pattern analysis and improvement loops
+- Integration with OCAS architecture via SKILL.md frontmatter
+- Version alignment across releases and documentation
 
 ## Why It Matters for RAG Builders
-Praxis provides a production-ready, local-first agent framework that simplifies building and deploying CLI-based AI agents while maintaining compatibility with existing workflows like Claude Code.
+Praxis enables continuous improvement of AI skills by detecting performance drift and feeding structured journals into refinement loops, critical for maintaining high-quality RAG systems.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OCAS Architecture
+Automated review identified **OCAS Architecture** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SKILL.md Frontmatter
+Automated review identified **SKILL.md Frontmatter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ink (CLI UI library)
-Automated review identified **Ink (CLI UI library)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### ripgrep
-Automated review identified **ripgrep** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Claude Code Compatibility
-Automated review identified **Claude Code Compatibility** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI-compatible Providers
-Automated review identified **OpenAI-compatible Providers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Anthropic-compatible Providers
-Automated review identified **Anthropic-compatible Providers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CHANGELOG.md
+Automated review identified **CHANGELOG.md** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

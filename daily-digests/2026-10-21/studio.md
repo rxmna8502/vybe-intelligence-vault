@@ -1,67 +1,64 @@
 ---
-title: aolva/studio
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-21
-tech_stack:
-- TypeScript
-- Bun
-- Electron
-- OpenCode
-- MCP (Model Context Protocol)
-- IPC (Inter-Process Communication)
-- React (implied by OpenCode fork)
-quality_score: 8
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- desktop agent
-- coding assistant
-- local-first
-- multi-model routing
-- workflow integration
-source: https://github.com/aolva/studio
-stars: 0
-language: TypeScript
-last_updated: '2026-08-01T06:28:22Z'
-discovered_at: '2026-08-01T06:28:47Z'
-evaluated_by: mistral-small-latest
+title: "decocms/studio"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "React 19", "Bun", "Hono", "PostgreSQL", "Model Context Protocol (MCP)", "OpenTelemetry", "Better Auth", "Tauri", "Docker"]
+quality_score: 9
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["AI orchestration", "MCP control plane", "agent management", "self-hosted AI", "enterprise AI"]
+source: "https://github.com/decocms/studio"
+stars: 403
+language: "TypeScript"
+last_updated: "2026-09-03T19:07:42Z"
+discovered_at: "2026-09-03T19:09:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Aolva Studio is a source-available desktop agent workspace designed for everyday development, offering a local-first coding agent that integrates with Aolva's models and third-party providers for heavy reasoning tasks. It provides a unified workspace optimized for software agents with reliable tool calls and long-running tasks.
+deco Studio is an open-source, TypeScript-first control plane for managing AI agents, MCP servers, and internal AI tooling. It provides a secure, self-hostable platform for organizations to configure, deploy, and govern AI workflows with SSO, RBAC, audit logs, and cost tracking.
 
 ## Key Features
-- Local-first desktop agent with macOS-first support and upcoming Windows/Web versions
-- Unified transport for Aolva's models and third-party providers with configurable channels (fast, code, reasoning)
-- Reliable tool calls and long-running task execution without drops
-- Built on OpenCode with retained MIT license for upstream components
-- Keyboard shortcut (⌘K) for quick summoning and integration into daily workflow
+- Unified MCP endpoint for all agents, tools, and models with interchangeable AI providers
+- Secure connection management with encrypted token vault and OAuth integration
+- Role-based access control (RBAC) and SSO for multi-tenant organizations
+- Built-in observability with cost attribution, audit logs, and performance tracing
+- Virtual MCPs for dynamic toolset composition and governance
 
 ## Why It Matters for RAG Builders
-Aolva Studio provides a local-first, workflow-integrated agent framework that simplifies multi-model routing and tool execution for RAG builders seeking reliable desktop coding assistants.
+It provides a critical control plane for securely deploying and governing AI agents and MCP servers at scale, ensuring centralized management of tools, models, and access policies across organizations.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### React 19
+Automated review identified **React 19** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Bun
 Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Electron
-Automated review identified **Electron** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Hono
+Automated review identified **Hono** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenCode
-Automated review identified **OpenCode** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### IPC (Inter-Process Communication)
-Automated review identified **IPC (Inter-Process Communication)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenTelemetry
+Automated review identified **OpenTelemetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React (implied by OpenCode fork)
-Automated review identified **React (implied by OpenCode fork)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Better Auth
+Automated review identified **Better Auth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Tauri
+Automated review identified **Tauri** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
