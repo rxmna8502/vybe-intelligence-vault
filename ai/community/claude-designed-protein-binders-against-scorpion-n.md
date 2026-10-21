@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:claude-designed-protein-binders-against-scorpion-n
 first_seen: '2026-10-21T01:35:15.898523+05:30'
 last_seen: '2026-10-21T04:45:58.692528+05:30'
 last_checked: '2026-10-21T04:45:58.692528+05:30'
 health_score: 100
 ---
+
 
 # Claude designed protein binders against scorpion neurotoxins
 

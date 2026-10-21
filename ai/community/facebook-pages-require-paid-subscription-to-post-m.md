@@ -13,13 +13,14 @@ collected_at: '2026-10-21T04:45:59.698359+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:facebook-pages-require-paid-subscription-to-post-m
 first_seen: '2026-10-21T01:35:15.507785+05:30'
 last_seen: '2026-10-21T04:45:59.698359+05:30'
 last_checked: '2026-10-21T04:45:59.698359+05:30'
 health_score: 100
 ---
+
 
 # Facebook Pages require paid subscription to post more than two links per month
 

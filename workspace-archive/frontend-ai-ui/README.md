@@ -9,13 +9,13 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 ## Top Matched Resources
 
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
+- [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407) (framework - USEFUL Tier)
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (framework - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [reliverse/relivator](https://github.com/reliverse/relivator) (template - USEFUL Tier)
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) (template - USEFUL Tier)
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-10-21 05:04 IST*
+*Last updated: 2026-10-21 10:53 IST*

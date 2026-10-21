@@ -18,6 +18,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407)
+- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2610-28407.md`](../../ai/research/arxiv-2610-28407.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2605-18770.md`](../../ai/rag/arxiv-2605-18770.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2608-23035.md`](../../ai/agents/arxiv-2608-23035.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
-- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-10-21 05:04 IST*
+*Last updated: 2026-10-21 10:53 IST*

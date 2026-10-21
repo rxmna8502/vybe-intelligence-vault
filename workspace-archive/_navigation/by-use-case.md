@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites](https://arxiv.org/abs/2610.03036) (Category: `learning-paths` | [`Local File`](../../ai/agents/arxiv-2610-03036.md))
 
 ---
-*Last updated: 2026-10-21 05:04 IST*
+*Last updated: 2026-10-21 10:53 IST*

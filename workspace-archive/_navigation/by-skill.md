@@ -345,13 +345,13 @@ This index groups curated resources by target developer skills.
 ## React Layouts
 
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
+- [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2610-28407.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) (Tier: `useful` | [`Local File`](../../web-development/nextjs/redpangilinan-next-entree.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Regression Testing
 
@@ -466,13 +466,13 @@ This index groups curated resources by target developer skills.
 ## TailwindCSS
 
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
+- [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2610-28407.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) (Tier: `useful` | [`Local File`](../../web-development/nextjs/redpangilinan-next-entree.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Three.js
 
@@ -499,13 +499,13 @@ This index groups curated resources by target developer skills.
 ## UI design
 
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Tier: `essential` | [`Local File`](../../ai/rag/elevenlabs-github.md))
+- [The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts](https://arxiv.org/abs/2610.28407) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2610-28407.md))
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2605-18770.md))
 - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](https://arxiv.org/abs/2610.01539) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2610-01539.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Tier: `useful` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [reliverse/relivator](https://github.com/reliverse/relivator) (Tier: `useful` | [`Local File`](../../web-development/nextjs/reliverse-relivator.md))
 - [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) (Tier: `useful` | [`Local File`](../../web-development/nextjs/redpangilinan-next-entree.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md))
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (Tier: `useful` | [`Local File`](../../web-development/nextjs/nobruf-shadcn-landing-page.md))
 
 ## Vector Indexes
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 
 ---
-*Last updated: 2026-10-21 05:04 IST*
+*Last updated: 2026-10-21 10:53 IST*
