@@ -7074,6 +7074,7 @@ Resources organized by keyword tags.
   - [Shortcut Sensitivity in Agent-Safety Evaluations](../ai/rag/arxiv-2610-22243.md)
   - [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](../ai/agents/arxiv-2610-14209.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](../ai/community/omnara-ai-omnara.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -9157,7 +9158,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [OpenAI models are coming to Google Cloud](../ai/community/openai-models-are-coming-to-google-cloud.md)
-  - [Plex laid off the whole player team](../ai/community/plex-laid-off-the-whole-player-team.md)
+  - [Railway Security Disclosure](../ai/community/railway-security-disclosure.md)
   - [Using thousands of AI agents to uncover new leads in biological data](../ai/community/using-thousands-of-ai-agents-to-uncover-new-leads.md)
 
 ## animation
@@ -9270,7 +9271,6 @@ Resources organized by keyword tags.
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Anthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/anthropic-opens-singapore-office-and-signs-mou-wit.md)
-  - [Anthropic's Public Benefit Charter](../ai/community/anthropic-s-public-benefit-charter.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -9867,6 +9867,7 @@ Resources organized by keyword tags.
   - [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](../ai/agents/arxiv-2609-11180.md)
   - [SentenceTransformers Documentation — Sentence Transformers documentation](../ai/rag/sentencetransformers-documentation-sentence-transf.md)
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
+  - [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](../ai/community/omnara-ai-omnara.md)
   - [SimGuide: Typed Multi-Context User Representations for Preference-Conditioned Agent Planning](../ai/agents/arxiv-2608-24888.md)
   - [Simon Willison: Prompt injection](../ai/rag/simon-willison-prompt-injection.md)
   - [Single Canonical Prompts Underestimate LLM Safety's Surface-Form Sensitivity](../ai/rag/arxiv-2608-02665.md)
@@ -36658,7 +36659,6 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic's Public Benefit Charter](../ai/community/anthropic-s-public-benefit-charter.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -39142,7 +39142,6 @@ Resources organized by keyword tags.
   - [Plausibility-Driven Prioritization of Candidate Biomedical Annotations](../ai/rag/arxiv-2607-20163.md)
   - [PlayStation Architecture | A Practical Analysis](../ai/rag/playstation-architecture-a-practical-analysis.md)
   - [Playing Games with My Heart: An Evaluation of AI Companion Apps](../ai/rag/arxiv-2605-08093.md)
-  - [Plex laid off the whole player team](../ai/community/plex-laid-off-the-whole-player-team.md)
   - [Poison to Detect: Detection of Targeted Overfitting in Federated Learning](../ai/research/arxiv-2509-11974.md)
   - [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](../ai/research/poisonedrag-knowledge-corruption-attacks-to-retrie.md)
   - [Poisson-Gamma Dynamical Systems with Time-varying Transition Dynamics](../ai/rag/arxiv-2609-00896.md)
@@ -39362,6 +39361,7 @@ Resources organized by keyword tags.
   - [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](../ai/rag/arxiv-2610-06923.md)
   - [Radiomics and artificial Intelligence for thyroid cancer diagnosis: Concepts, challenges, and solutions](../ai/research/arxiv-2404-07239.md)
   - [Ragas](../ai/rag/ragas.md)
+  - [Railway Security Disclosure](../ai/community/railway-security-disclosure.md)
   - [RamanBench: A Large-Scale Benchmark for Machine Learning on Raman Spectroscopy](../ai/rag/arxiv-2605-02003.md)
   - [Ramanujan Graph Rewiring with Non Negative Resistance Curvature](../ai/rag/arxiv-2606-21333.md)
   - [Random Erasing vs. Model Inversion: A Promising Defense or a False Hope?](../ai/research/arxiv-2409-01062.md)
@@ -39687,6 +39687,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](../ai/community/omnara-ai-omnara.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -40568,7 +40569,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -82696,4 +82696,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-22T02:05:18.038523+05:30*
+*Index generated on 2026-10-22T05:16:33.424907+05:30*

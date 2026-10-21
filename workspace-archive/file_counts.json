@@ -1,5 +1,5 @@
 {
-  "total_files": 159402,
+  "total_files": 159401,
   "categories": {
     "agent-frameworks": 6821,
     "agent-instructions": 17,
@@ -8,7 +8,7 @@
     "ai-tools-products": 201,
     "automation-workflows": 2443,
     "datasets": 23739,
-    "evals-and-benchmarks": 35241,
+    "evals-and-benchmarks": 35240,
     "frontend-ai-ui": 253,
     "guardrails-security": 19623,
     "inference-local-llm": 1717,
@@ -26,5 +26,5 @@
     "vector-databases": 12085,
     "webdev-3d-creative": 186
   },
-  "last_updated": "2026-10-22T02:08:58.260155+05:30"
+  "last_updated": "2026-10-22T05:19:21.928982+05:30"
 }

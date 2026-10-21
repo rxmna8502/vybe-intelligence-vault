@@ -13,13 +13,14 @@ collected_at: '2026-10-22T01:48:28.488243+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:plex-laid-off-the-whole-player-team
 first_seen: '2026-10-22T01:48:28.488243+05:30'
 last_seen: '2026-10-22T01:48:28.488243+05:30'
 last_checked: '2026-10-22T01:48:28.488243+05:30'
 health_score: 100
 ---
+
 
 # Plex laid off the whole player team
 

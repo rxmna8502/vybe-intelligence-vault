@@ -4,8 +4,15 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
+<<<<<<< Updated upstream
 | arxiv | 35468 |
 | github | 1018 |
+=======
+| arxiv | 35470 |
+| github | 1019 |
+| huggingface | 940 |
+| nextjs.org | 83 |
+>>>>>>> Stashed changes
 | semanticscholar.org | 70 |
 | youtube | 66 |
 | support.google.com | 59 |
@@ -21,9 +28,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
+<<<<<<< Updated upstream
 | openai.com | 13 |
+=======
+>>>>>>> Stashed changes
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
+| anthropic.com | 12 |
 | developer.mozilla.org | 11 |
 | code.visualstudio.com | 10 |
 | sbert.net | 10 |
@@ -303,7 +314,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | safedep.io | 1 |
-| forums.plex.tv | 1 |
+| blog.railway.com | 1 |
 | alterauth.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |

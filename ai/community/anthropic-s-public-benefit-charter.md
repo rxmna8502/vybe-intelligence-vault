@@ -13,13 +13,14 @@ collected_at: '2026-10-22T01:48:28.599306+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-s-public-benefit-charter
 first_seen: '2026-10-22T01:48:28.599306+05:30'
 last_seen: '2026-10-22T01:48:28.599306+05:30'
 last_checked: '2026-10-22T01:48:28.599306+05:30'
 health_score: 100
 ---
+
 
 # Anthropic's Public Benefit Charter
 

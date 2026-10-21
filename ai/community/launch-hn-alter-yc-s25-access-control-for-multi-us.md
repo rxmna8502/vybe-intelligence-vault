@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://alterauth.com
 hn_url: https://news.ycombinator.com/item?id=50176908
-score: 27
+score: 43
 author: simfinii
-comments_count: 16
+comments_count: 20
 published_at: '2026-10-21T12:12:12+05:30'
-collected_at: '2026-10-22T01:48:29.629847+05:30'
+collected_at: '2026-10-22T05:00:00.759458+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-alter-yc-s25-access-control-for-multi-us
 first_seen: '2026-10-22T01:48:29.629847+05:30'
-last_seen: '2026-10-22T01:48:29.629847+05:30'
-last_checked: '2026-10-22T01:48:29.629847+05:30'
+last_seen: '2026-10-22T05:00:00.759458+05:30'
+last_checked: '2026-10-22T05:00:00.759458+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by simfinii. Score: 27, Comments: 16.
+Hacker News story by simfinii. Score: 43, Comments: 20.
 Original Link: https://alterauth.com/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: simfinii
-- Score: 27 Upvotes
-- Comments: 16 Discussions
+- Score: 43 Upvotes
+- Comments: 20 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50176908
 - Original Article: https://alterauth.com
 

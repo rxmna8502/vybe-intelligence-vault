@@ -36357,12 +36357,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic's Public Benefit Charter](../ai/community/anthropic-s-public-benefit-charter.md)
   - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](../ai/community/compromised-litellm-1-107-0-on-pypi-installs-a-cre.md)
   - [Launch HN: Alter (YC S25) – Access control for multi-user agents](../ai/community/launch-hn-alter-yc-s25-access-control-for-multi-us.md)
   - [OpenAI models are coming to Google Cloud](../ai/community/openai-models-are-coming-to-google-cloud.md)
   - [Patch the Planet: global response coordination as agents uncover vulnerabilities](../ai/community/patch-the-planet-global-response-coordination-as-a.md)
-  - [Plex laid off the whole player team](../ai/community/plex-laid-off-the-whole-player-team.md)
+  - [Railway Security Disclosure](../ai/community/railway-security-disclosure.md)
+  - [Show HN: Omnara – Open-Source Alternative to Claude Managed Agents](../ai/community/omnara-ai-omnara.md)
   - [Using thousands of AI agents to uncover new leads in biological data](../ai/community/using-thousands-of-ai-agents-to-uncover-new-leads.md)
 
 ## Unknown Source (type: huggingface)
@@ -40259,4 +40259,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-22T02:05:18.497544+05:30*
+*Index generated on 2026-10-22T05:16:33.839379+05:30*

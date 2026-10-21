@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "generated_at": "2026-10-22T05:39:24.483394+05:30",
   "trending_resources": [
     {
@@ -11,10 +12,25 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1040,
+=======
+  "generated_at": "2026-10-22T05:20:27.794866+05:30",
+  "trending_resources": [
+    {
+      "id": "hackernews:compromised-litellm-1-107-0-on-pypi-installs-a-cre",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
+      "file_path": "ai/community/compromised-litellm-1-107-0-on-pypi-installs-a-cre.md",
+      "score": 404,
+      "score_change": 91,
+      "rank_change": 0,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:openai/mle-bench",
       "title": "openai/mle-bench",
       "category": "ai/agents",
@@ -24,10 +40,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1040,
+=======
+      "id": "hackernews:openai-models-are-coming-to-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "file_path": "ai/community/openai-models-are-coming-to-google-cloud.md",
+      "score": 212,
+      "score_change": 48,
+      "rank_change": 0,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:theagentcompany/theagentcompany",
       "title": "TheAgentCompany/TheAgentCompany",
       "category": "ai/agents",
@@ -37,10 +65,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1040,
+=======
+      "id": "hackernews:patch-the-planet-global-response-coordination-as-a",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "file_path": "ai/community/patch-the-planet-global-response-coordination-as-a.md",
+      "score": 221,
+      "score_change": 32,
+      "rank_change": 0,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:run-llama/parsebench",
       "title": "run-llama/ParseBench",
       "category": "ai/rag",
@@ -50,10 +90,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1040,
+=======
+      "id": "hackernews:using-thousands-of-ai-agents-to-uncover-new-leads",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "file_path": "ai/community/using-thousands-of-ai-agents-to-uncover-new-leads.md",
+      "score": 123,
+      "score_change": 19,
+      "rank_change": -1,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "github:sierra-research/tau2-bench",
       "title": "sierra-research/tau2-bench",
       "category": "ai/agents",
@@ -115,6 +167,17 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1040,
+=======
+      "id": "hackernews:launch-hn-alter-yc-s25-access-control-for-multi-us",
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://alterauth.com",
+      "file_path": "ai/community/launch-hn-alter-yc-s25-access-control-for-multi-us.md",
+      "score": 43,
+      "score_change": 16,
+      "rank_change": 1,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -127,13 +190,70 @@
       "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 1040,
+=======
+      "rank_change": 1052,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:datawhalechina/hello-agents",
+      "title": "datawhalechina/hello-agents",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "file_path": "ai/rag/datawhalechina-hello-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1722,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1723,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1721,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1050,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
+<<<<<<< Updated upstream
       "id": "blog:medium-privacy-policy-by-medium-medium-policy",
       "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
@@ -156,10 +276,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1723,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2608.02392",
       "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
@@ -182,10 +314,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "github:datawhalechina/hello-agents",
+      "title": "datawhalechina/hello-agents",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "file_path": "ai/rag/datawhalechina-hello-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1722,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2608.01791",
       "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
       "category": "ai/rag",
@@ -195,10 +339,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1721,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2608.01207",
       "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
       "category": "ai/rag",
@@ -208,10 +364,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1052,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2606.23462",
       "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
       "category": "ai/research",
@@ -221,10 +389,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "github:raganwald/raganwald.github.com",
+      "title": "raganwald/raganwald.github.com",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/raganwald/raganwald.github.com",
+      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1050,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2606.22216",
       "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
       "category": "ai/research",
@@ -234,10 +414,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "github:malonge/ragoo",
+      "title": "malonge/RaGOO",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/malonge/ragoo",
+      "file_path": "ai/rag/malonge-ragoo.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1050,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2606.09123",
       "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
       "category": "ai/research",
@@ -247,10 +439,22 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "huggingface:google-t5/t5-small",
+      "title": "google-t5/t5-small",
+      "category": "ai/models",
+      "source_type": "huggingface_model",
+      "url": "https://huggingface.co/google-t5/t5-small",
+      "file_path": "ai/models/huggingface-google-t5-t5-small.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 896,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "arxiv:2605.27882",
       "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
       "category": "ai/agents",
@@ -260,12 +464,50 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1043,
+=======
+      "id": "huggingface:comfy-org/minimax-h3",
+      "title": "Comfy-Org/MiniMax-H3",
+      "category": "ai/models",
+      "source_type": "huggingface_model",
+      "url": "https://huggingface.co/comfy-org/minimax-h3",
+      "file_path": "ai/models/huggingface-comfy-org-minimax-h3.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 896,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:qwen/qwen3-0.6b",
+      "title": "Qwen/Qwen3-0.6B",
+      "category": "ai/models",
+      "source_type": "huggingface_model",
+      "url": "https://huggingface.co/qwen/qwen3-0.6b",
+      "file_path": "ai/models/huggingface-qwen-qwen3-0-6b.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 896,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "huggingface:google-bert/bert-base-uncased",
+      "title": "google-bert/bert-base-uncased",
+      "category": "ai/models",
+      "source_type": "huggingface_model",
+      "url": "https://huggingface.co/google-bert/bert-base-uncased",
+      "file_path": "ai/models/huggingface-google-bert-bert-base-uncased.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 896,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
+<<<<<<< Updated upstream
       "id": "blog:langchain-ai-langgraph",
       "title": "langchain-ai/langgraph",
       "category": "Agent Framework",
@@ -273,13 +515,56 @@
       "url": "",
       "file_path": "docs/sample-digest.md",
       "score": 0,
+=======
+      "id": "hackernews:railway-security-disclosure",
+      "title": "Railway Security Disclosure",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "file_path": "ai/community/railway-security-disclosure.md",
+      "score": 197,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:omnara-ai/omnara",
+      "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/omnara-ai/omnara",
+      "file_path": "ai/community/omnara-ai-omnara.md",
+      "score": 13,
+>>>>>>> Stashed changes
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
     }
   ],
+<<<<<<< Updated upstream
   "recently_inactive_resources": [],
+=======
+  "recently_inactive_resources": [
+    {
+      "id": "hackernews:plex-laid-off-the-whole-player-team",
+      "title": "Plex laid off the whole player team",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
+      "file_path": "ai/community/plex-laid-off-the-whole-player-team.md"
+    },
+    {
+      "id": "hackernews:anthropic-s-public-benefit-charter",
+      "title": "Anthropic's Public Benefit Charter",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://anthropic.com/public-benefit-charter",
+      "file_path": "ai/community/anthropic-s-public-benefit-charter.md"
+    }
+  ],
+>>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }
