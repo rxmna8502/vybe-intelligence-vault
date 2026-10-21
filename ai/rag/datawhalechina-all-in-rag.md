@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-10-21T19:29:14.349786+05:30'
-published_at: '2026-10-21T13:49:19Z'
+collected_at: '2026-10-22T01:49:23.018341+05:30'
+published_at: '2026-10-21T19:23:49Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - python
 - rag
-stars: 12409
+stars: 12417
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-30T21:49:22Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-10-21T19:29:14.349786+05:30'
-last_seen: '2026-10-21T19:29:14.349786+05:30'
-last_checked: '2026-10-21T19:29:14.349786+05:30'
+first_seen: '2026-10-22T01:49:23.018341+05:30'
+last_seen: '2026-10-22T01:49:23.018341+05:30'
+last_checked: '2026-10-22T01:49:23.018341+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive full-stack RAG development guide leveraging `LangChain` and `LlamaIndex` for pipeline orchestration.
-*   Integrates with `Milvus` for vector storage and `Neo4j` for graph-based knowledge representation within RAG architectures.
-*   Explores multimodal RAG implementations and supports diverse LLMs (e.g., `DeepSeek`, `Kimi-K2`) and embedding models.
+*   Comprehensive Python-based guide for full-stack Retrieval Augmented Generation (RAG) system development.
+*   Integrates frameworks like LangChain and LlamaIndex with vector databases (Milvus) and graph databases (Neo4j).
+*   Explores diverse LLMs (e.g., DeepSeek, Kimi-K2) and multimodal embedding strategies within RAG architectures.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 12409
-- Forks: 6221
+- Stars: 12417
+- Forks: 6224
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-10-21T13:49:19Z
+- Last Updated: 2026-10-21T19:23:49Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-09-30T21:49:22Z

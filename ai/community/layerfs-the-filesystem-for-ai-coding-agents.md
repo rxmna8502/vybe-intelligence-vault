@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:layerfs-the-filesystem-for-ai-coding-agents
 first_seen: '2026-10-21T19:28:14.692617+05:30'
 last_seen: '2026-10-21T19:28:14.692617+05:30'
 last_checked: '2026-10-21T19:28:14.692617+05:30'
 health_score: 100
 ---
+
 
 # LayerFS: The filesystem for AI coding agents
 

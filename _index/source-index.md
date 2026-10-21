@@ -35450,7 +35450,7 @@ Resources organized by publisher feed and query sources.
   - [Introducing the Anthropic Cyber Mission](../ai/companies/anthropic/introducing-the-anthropic-cyber-mission.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
-  - [Partnerships](../ai/companies/anthropic/partnerships.md)
+  - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md)
   - [Preparing for the 2026 US midterms](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Mistral Large 4October 6, 2026By Mistral](../ai/companies/mistral/researchintroducing-mistral-large-4october-6-2026b.md)
@@ -36357,9 +36357,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Good type against all odds](../ai/community/good-type-against-all-odds.md)
-  - [LayerFS: The filesystem for AI coding agents](../ai/community/layerfs-the-filesystem-for-ai-coding-agents.md)
-  - [PHP2Shell: AI uncovers critical RCE in PHP](../ai/community/php2shell-ai-uncovers-critical-rce-in-php.md)
+  - [Anthropic's Public Benefit Charter](../ai/community/anthropic-s-public-benefit-charter.md)
+  - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](../ai/community/compromised-litellm-1-107-0-on-pypi-installs-a-cre.md)
+  - [Launch HN: Alter (YC S25) – Access control for multi-user agents](../ai/community/launch-hn-alter-yc-s25-access-control-for-multi-us.md)
+  - [OpenAI models are coming to Google Cloud](../ai/community/openai-models-are-coming-to-google-cloud.md)
+  - [Patch the Planet: global response coordination as agents uncover vulnerabilities](../ai/community/patch-the-planet-global-response-coordination-as-a.md)
+  - [Plex laid off the whole player team](../ai/community/plex-laid-off-the-whole-player-team.md)
+  - [Using thousands of AI agents to uncover new leads in biological data](../ai/community/using-thousands-of-ai-agents-to-uncover-new-leads.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -36675,7 +36679,7 @@ Resources organized by publisher feed and query sources.
   - [Granite 4.1 LLMs: How They’re Built](../ai/models/huggingface-blog-ibm-granite-granite-4-1.md)
   - [Granite 4.2 LLMs: How They're Built](../ai/models/huggingface-blog-ibm-granite-granite-4-2.md)
   - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md)
-  - [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](../ai/models/huggingface-blog-ibm-granite-granite-switch-4-1.md)
+  - [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](../ai/models/huggingface-blog-ibm-granite-granite-speech-5.md)
   - [Graph Classification with Transformers](../ai/models/huggingface-blog-graphml-classification.md)
   - [Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](../ai/models/huggingface-blog-graphcore-update.md)
   - [Groq on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-groq.md)
@@ -36696,6 +36700,7 @@ Resources organized by publisher feed and query sources.
   - [How Much Memory Does Your Agent Actually Need?](../ai/agents/huggingface-blog-ibm-research-altk-evolve-hmm.md)
   - [How NuminaMath Won the 1st AIMO Progress Prize](../ai/models/huggingface-blog-winning-aimo-progress-prize.md)
   - [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](../ai/rag/huggingface-blog-sempre-health-eap-case-study.md)
+  - [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](../ai/models/huggingface-blog-dharma-ai-vocabx-vocabulary-specialization.md)
   - [How UK AISI and EvalEval Are Making Benchmark Results Reproducible](../ai/models/huggingface-blog-evaleval-aisi.md)
   - [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../ai/agents/huggingface-blog-mishig-spaces-agents-md.md)
   - [How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](../ai/models/huggingface-blog-keras-chatbot-arena.md)
@@ -36913,7 +36918,7 @@ Resources organized by publisher feed and query sources.
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
   - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md)
   - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md)
-  - [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](../ai/models/huggingface-blog-nvidia-kumo-forecast.md)
+  - [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](../ai/models/huggingface-blog-nvidia-kumo-relational.md)
   - [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md)
   - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../ai/agents/huggingface-blog-nvidia-reachy-mini.md)
   - [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../ai/models/huggingface-blog-nvidia-physical-ai.md)
@@ -36988,6 +36993,7 @@ Resources organized by publisher feed and query sources.
   - [Preference Tuning LLMs with Direct Preference Optimization Methods](../ai/models/huggingface-blog-pref-tuning.md)
   - [Prefill and Decode for Concurrent Requests - Optimizing LLM Performance](../ai/models/huggingface-blog-tngtech-llm-performance-prefill-decode-concurrent-requests.md)
   - [Probabilistic Time Series Forecasting with 🤗 Transformers](../ai/models/huggingface-blog-time-series-transformers.md)
+  - [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](../ai/models/huggingface-blog-amazon-profiling-torchneuron-part-1.md)
   - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](../ai/models/huggingface-blog-torch-profiler.md)
   - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../ai/models/huggingface-blog-torch-mlp-fusion.md)
   - [Profiling in PyTorch (Part 3): Attention is all you profile](../ai/models/huggingface-blog-torch-attention-profile.md)
@@ -40253,4 +40259,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-21T19:45:05.836250+05:30*
+*Index generated on 2026-10-22T02:05:18.497544+05:30*

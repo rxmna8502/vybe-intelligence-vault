@@ -13,13 +13,14 @@ collected_at: '2026-10-21T19:28:16.976524+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:good-type-against-all-odds
 first_seen: '2026-10-21T10:30:14.058800+05:30'
 last_seen: '2026-10-21T19:28:16.976524+05:30'
 last_checked: '2026-10-21T19:28:16.976524+05:30'
 health_score: 100
 ---
+
 
 # Good type against all odds
 
