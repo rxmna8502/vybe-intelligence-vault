@@ -1,34 +1,19 @@
 ---
-title: decocms/studio
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-10-22
-tech_stack:
-- TypeScript
-- React 19
-- Bun
-- Hono
-- PostgreSQL
-- Model Context Protocol (MCP)
-- OpenTelemetry
-- Better Auth
-- Tauri
-- Docker
+title: "decocms/studio"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "React 19", "Bun", "Hono", "PostgreSQL", "Model Context Protocol (MCP)", "OpenTelemetry", "Better Auth", "Tauri", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- AI orchestration
-- MCP control plane
-- agent management
-- self-hosted AI
-- enterprise AI
-source: https://github.com/decocms/studio
+deployment_complexity: "Medium"
+tags: ["AI orchestration", "MCP control plane", "agent management", "self-hosted AI", "enterprise AI"]
+source: "https://github.com/decocms/studio"
 stars: 403
-language: TypeScript
-last_updated: '2026-09-03T19:07:42Z'
-discovered_at: '2026-09-03T19:09:16Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T19:07:42Z"
+discovered_at: "2026-09-03T19:09:16Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

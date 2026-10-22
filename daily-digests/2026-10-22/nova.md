@@ -1,31 +1,19 @@
 ---
-title: joelaniol/nova
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- C#
-- Windows App SDK
-- Microsoft Edge WebView2 Runtime
-- MCP (Model Context Protocol)
-- Chromium
-- Local Storage (LCJ, ALP, PKS, OK)
-- PowerShell
+title: "joelaniol/nova"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["C#", "Windows App SDK", "Microsoft Edge WebView2 Runtime", "MCP (Model Context Protocol)", "Chromium", "Local Storage (LCJ, ALP, PKS, OK)", "PowerShell"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- autonomous agents
-- browser automation
-- MCP server
-- local AI runtime
-- Windows desktop
-source: https://github.com/joelaniol/nova
+deployment_complexity: "Medium"
+tags: ["autonomous agents", "browser automation", "MCP server", "local AI runtime", "Windows desktop"]
+source: "https://github.com/joelaniol/nova"
 stars: 0
-language: None
-last_updated: '2026-07-21T12:19:03Z'
-discovered_at: '2026-07-21T12:23:43Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-21T12:19:03Z"
+discovered_at: "2026-07-21T12:23:43Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

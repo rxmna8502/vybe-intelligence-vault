@@ -1,32 +1,19 @@
 ---
-title: OraclePersonal/Oracle
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- TypeScript
-- Node.js
-- MCP (Model Context Protocol)
-- Ollama (for embeddings)
-- BM25 (for document retrieval)
-- Web search providers (Brave, Tavily, Firecrawl, AgentQL)
-- GitHub API
-- Docker (implied by deployment context)
+title: "OraclePersonal/Oracle"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Ollama (for embeddings)", "BM25 (for document retrieval)", "Web search providers (Brave, Tavily, Firecrawl, AgentQL)", "GitHub API", "Docker (implied by deployment context)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- MCP
-- multi-agent coordination
-- persistent memory
-- code review
-- autonomous AI
-source: https://github.com/OraclePersonal/Oracle
+deployment_complexity: "Medium"
+tags: ["MCP", "multi-agent coordination", "persistent memory", "code review", "autonomous AI"]
+source: "https://github.com/OraclePersonal/Oracle"
 stars: 0
-language: TypeScript
-last_updated: '2026-07-19T08:07:20Z'
-discovered_at: '2026-07-19T08:13:42Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-07-19T08:07:20Z"
+discovered_at: "2026-07-19T08:13:42Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

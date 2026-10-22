@@ -1,322 +1,6 @@
 {
-  "generated_at": "2026-10-22T10:56:01.982480+05:30",
+  "generated_at": "2026-10-22T15:48:58.291396+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:compromised-litellm-1-107-0-on-pypi-installs-a-cre",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
-      "file_path": "ai/community/compromised-litellm-1-107-0-on-pypi-installs-a-cre.md",
-      "score": 466,
-      "score_change": 62,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:openai-models-are-coming-to-google-cloud",
-      "title": "OpenAI models are coming to Google Cloud",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "file_path": "ai/community/openai-models-are-coming-to-google-cloud.md",
-      "score": 264,
-      "score_change": 52,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:omnara-ai/omnara",
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/omnara-ai/omnara",
-      "file_path": "ai/community/omnara-ai-omnara.md",
-      "score": 47,
-      "score_change": 34,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:patch-the-planet-global-response-coordination-as-a",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "file_path": "ai/community/patch-the-planet-global-response-coordination-as-a.md",
-      "score": 245,
-      "score_change": 24,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:launch-hn-alter-yc-s25-access-control-for-multi-us",
-      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://alterauth.com",
-      "file_path": "ai/community/launch-hn-alter-yc-s25-access-control-for-multi-us.md",
-      "score": 57,
-      "score_change": 14,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
-      "title": "Medium Privacy Policy | by Medium | Medium Policy",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
-      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 7942,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-5-universal-webpack-css-imports-plugins-an",
-      "title": "Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/next-5",
-      "file_path": "web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-5-1-faster-page-resolution-environment-con",
-      "title": "Next.js 5.1: Faster Page Resolution, Environment Config & More",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/next-5-1",
-      "file_path": "web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-6-and-nextjs-org",
-      "title": "Next.js 6 and Nextjs.org",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/next-6",
-      "file_path": "web-development/nextjs/next-js-6-and-nextjs-org.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-6-1",
-      "title": "Next.js 6.1",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/next-6-1",
-      "file_path": "web-development/nextjs/next-js-6-1.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-7",
-      "title": "Next.js 7",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/next-7",
-      "file_path": "web-development/nextjs/next-js-7.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-8",
-      "title": "Next.js 8",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/next-8",
-      "file_path": "web-development/nextjs/next-js-8.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-8-webpack-memory-improvements",
-      "title": "Next.js 8 Webpack Memory Improvements",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/webpack-memory",
-      "file_path": "web-development/nextjs/next-js-8-webpack-memory-improvements.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:styling-next-js-with-styled-jsx",
-      "title": "Styling Next.js with Styled JSX",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/styling-next-with-styled-jsx",
-      "file_path": "web-development/nextjs/styling-next-js-with-styled-jsx.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:next-js-8-0-4",
-      "title": "Next.js 8.0.4",
-      "category": "web-development/nextjs",
-      "source_type": "rss",
-      "url": "https://nextjs.org/blog/next-8-0-4",
-      "file_path": "web-development/nextjs/next-js-8-0-4.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 15,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:chain-of-thought-for-humans",
-      "title": "Chain of Thought for Humans",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://boristhebrave.com/2026/10/18/chain-of-thought-for-humans",
-      "file_path": "ai/community/chain-of-thought-for-humans.md",
-      "score": 61,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:using-llm-for-confidence-scoring-is-a-bad-idea",
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "file_path": "ai/community/using-llm-for-confidence-scoring-is-a-bad-idea.md",
-      "score": 33,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:llm-agents-play-pokemon-showdown",
-      "title": "LLM agents play Pokemon showdown",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://olivergrabner.com/research/pokemon",
-      "file_path": "ai/community/llm-agents-play-pokemon-showdown.md",
-      "score": 21,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:clockwork-mechanics-maintenance-and-metaphors-in-t",
-      "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://jhiblog.org/2026/10/19/clockwork-metaphors",
-      "file_path": "ai/community/clockwork-mechanics-maintenance-and-metaphors-in-t.md",
-      "score": 5,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2609.32755",
       "title": "SAGE: Semantic Audio Generative Encoder",
@@ -326,8 +10,8 @@
       "file_path": "ai/rag/arxiv-2609-32755.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +23,8 @@
       "file_path": "ai/research/arxiv-2609-16931.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +36,8 @@
       "file_path": "ai/research/arxiv-2608-23356.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +49,8 @@
       "file_path": "ai/research/arxiv-2606-10279.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +62,8 @@
       "file_path": "ai/research/arxiv-2605-24771.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +75,8 @@
       "file_path": "ai/research/arxiv-2605-13252.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +88,8 @@
       "file_path": "ai/research/arxiv-2605-09213.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,8 +101,8 @@
       "file_path": "ai/research/arxiv-2604-26080.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -430,8 +114,8 @@
       "file_path": "ai/research/arxiv-2604-06192.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -443,17 +127,151 @@
       "file_path": "ai/research/arxiv-2603-25535.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 128,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:ruc-nlpir/flashrag",
+      "title": "RUC-NLPIR/FlashRAG",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/ruc-nlpir/flashrag",
+      "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 25376,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2603.01092",
-      "title": "The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions",
+      "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+      "title": "Medium Terms of Service | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+      "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:promptfoo/promptfoo-action",
+      "title": "promptfoo/promptfoo-action",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/promptfoo/promptfoo-action",
+      "file_path": "ai/rag/promptfoo-promptfoo-action.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:alucek/graphrag-breakdown",
+      "title": "ALucek/GraphRAG-Breakdown",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/alucek/graphrag-breakdown",
+      "file_path": "ai/rag/alucek-graphrag-breakdown.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.29031",
+      "title": "How to Leverage Synthetic Speech for LLM-Based ASR Systems?",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.29031",
+      "file_path": "ai/rag/arxiv-2606-29031.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.26428",
+      "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2603.01092",
-      "file_path": "ai/research/arxiv-2603-01092.md",
+      "url": "https://arxiv.org/abs/2606.26428",
+      "file_path": "ai/research/arxiv-2606-26428.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.21887",
+      "title": "Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.21887",
+      "file_path": "ai/research/arxiv-2606-21887.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09677",
+      "title": "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09677",
+      "file_path": "ai/rag/arxiv-2606-09677.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.06379",
+      "title": "EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.06379",
+      "file_path": "ai/research/arxiv-2606-06379.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.05050",
+      "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.05050",
+      "file_path": "ai/agents/arxiv-2606-05050.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1041,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:broken-link",
+      "title": "[BROKEN LINK] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/broken-link.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,24 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:railway-security-disclosure",
-      "title": "Railway Security Disclosure",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "file_path": "ai/community/railway-security-disclosure.md"
-    },
-    {
-      "id": "hackernews:using-thousands-of-ai-agents-to-uncover-new-leads",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "file_path": "ai/community/using-thousands-of-ai-agents-to-uncover-new-leads.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

@@ -1,33 +1,19 @@
 ---
-title: xchang1121/pi
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- TypeScript
-- Rust
-- Linux Namespaces
-- Landlock
-- Seccomp
-- Git
-- FUSE
-- Node.js
-- npm
+title: "xchang1121/pi"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Rust", "Linux Namespaces", "Landlock", "Seccomp", "Git", "FUSE", "Node.js", "npm"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: High
-tags:
-- speculative execution
-- tool orchestration
-- isolation policies
-- AI agent framework
-- process sandboxing
-source: https://github.com/xchang1121/pi
+deployment_complexity: "High"
+tags: ["speculative execution", "tool orchestration", "isolation policies", "AI agent framework", "process sandboxing"]
+source: "https://github.com/xchang1121/pi"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-01T15:53:54Z'
-discovered_at: '2026-09-01T15:54:40Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-01T15:53:54Z"
+discovered_at: "2026-09-01T15:54:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

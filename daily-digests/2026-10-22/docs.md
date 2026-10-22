@@ -1,28 +1,19 @@
 ---
-title: mcp-auth/docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- OAuth 2.1
-- OpenID Connect
-- MDX
-- JavaScript/TypeScript
+title: "mcp-auth/docs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["OAuth 2.1", "OpenID Connect", "MDX", "JavaScript/TypeScript"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- authentication
-- MCP
-- OAuth
-- OpenID Connect
-- security
-source: https://github.com/mcp-auth/docs
+deployment_complexity: "Low"
+tags: ["authentication", "MCP", "OAuth", "OpenID Connect", "security"]
+source: "https://github.com/mcp-auth/docs"
 stars: 5
-language: MDX
-last_updated: '2026-09-01T02:45:08Z'
-discovered_at: '2026-09-01T02:53:34Z'
-evaluated_by: mistral-small-latest
+language: "MDX"
+last_updated: "2026-09-01T02:45:08Z"
+discovered_at: "2026-09-01T02:53:34Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,29 +1,19 @@
 ---
-title: Walthera781/gemini-web2api
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Go
-- OpenAPI
-- TLS Impersonation
-- Web Scraping
-- Local Proxy
+title: "Walthera781/gemini-web2api"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Go", "OpenAPI", "TLS Impersonation", "Web Scraping", "Local Proxy"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- API Bridge
-- Gemini Integration
-- OpenAI Compatibility
-- Local Proxy
-- Multimodal
-source: https://github.com/Walthera781/gemini-web2api
+deployment_complexity: "Low"
+tags: ["API Bridge", "Gemini Integration", "OpenAI Compatibility", "Local Proxy", "Multimodal"]
+source: "https://github.com/Walthera781/gemini-web2api"
 stars: 0
-language: Go
-last_updated: '2026-08-06T06:28:28Z'
-discovered_at: '2026-08-06T06:32:09Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-06T06:28:28Z"
+discovered_at: "2026-08-06T06:32:09Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

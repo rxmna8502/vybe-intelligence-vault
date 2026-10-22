@@ -1,30 +1,19 @@
 ---
-title: thomas-powers-jr/cadence
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- TypeScript
-- Node.js
-- CLI
-- MCP (Model Context Protocol)
-- Git
-- Jest (implied by test references)
+title: "thomas-powers-jr/cadence"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "Git", "Jest (implied by test references)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agent verification
-- quality gates
-- acceptance criteria
-- DRAFT→BUILD→SETTLE loop
-- MCP server
-source: https://github.com/thomas-powers-jr/cadence
+deployment_complexity: "Medium"
+tags: ["AI agent verification", "quality gates", "acceptance criteria", "DRAFT\u2192BUILD\u2192SETTLE loop", "MCP server"]
+source: "https://github.com/thomas-powers-jr/cadence"
 stars: 2
-language: TypeScript
-last_updated: '2026-08-02T22:54:26Z'
-discovered_at: '2026-08-02T22:56:13Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-02T22:54:26Z"
+discovered_at: "2026-08-02T22:56:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

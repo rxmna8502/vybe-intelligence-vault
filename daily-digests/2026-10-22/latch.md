@@ -1,32 +1,19 @@
 ---
-title: joergensentroels/Latch
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Node.js
-- PowerShell
-- Tailscale
-- TypeScript
-- GitHub API
-- MCP (Model Context Protocol)
-- Ollama
-- OpenAI-compatible APIs
+title: "joergensentroels/Latch"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Node.js", "PowerShell", "Tailscale", "TypeScript", "GitHub API", "MCP (Model Context Protocol)", "Ollama", "OpenAI-compatible APIs"]
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- AI agent orchestration
-- approval-gated operations
-- private infrastructure
-- secure task execution
-- multi-tier agent autonomy
-source: https://github.com/joergensentroels/Latch
+deployment_complexity: "Medium"
+tags: ["AI agent orchestration", "approval-gated operations", "private infrastructure", "secure task execution", "multi-tier agent autonomy"]
+source: "https://github.com/joergensentroels/Latch"
 stars: 0
-language: JavaScript
-last_updated: '2026-08-01T08:58:54Z'
-discovered_at: '2026-08-01T09:06:23Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-08-01T08:58:54Z"
+discovered_at: "2026-08-01T09:06:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

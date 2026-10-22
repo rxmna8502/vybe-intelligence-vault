@@ -1,28 +1,19 @@
 ---
-title: Noncellular-dumpiness647/pc-screen-control
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Python
-- Windows Accessibility API
-- Model Context Protocol (MCP)
-- Claude Desktop
+title: "Noncellular-dumpiness647/pc-screen-control"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows Accessibility API", "Model Context Protocol (MCP)", "Claude Desktop"]
 quality_score: 7
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Windows automation
-- AI agent control
-- UI accessibility
-- MCP server
-- desktop interaction
-source: https://github.com/Noncellular-dumpiness647/pc-screen-control
+deployment_complexity: "Low"
+tags: ["Windows automation", "AI agent control", "UI accessibility", "MCP server", "desktop interaction"]
+source: "https://github.com/Noncellular-dumpiness647/pc-screen-control"
 stars: 0
-language: Python
-last_updated: '2026-08-06T06:28:01Z'
-discovered_at: '2026-08-06T06:34:03Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-06T06:28:01Z"
+discovered_at: "2026-08-06T06:34:03Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

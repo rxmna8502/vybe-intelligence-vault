@@ -1,38 +1,19 @@
 ---
-title: manav-2812/synapse
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-10-22
-tech_stack:
-- Python 3.11
-- FastAPI
-- React 19
-- PostgreSQL 16
-- ChromaDB
-- TypeScript
-- Tesseract OCR
-- Groq API
-- Gemini API
-- Pydantic
-- SQLAlchemy
-- Alembic
-- Vercel
-- Docker
+title: "manav-2812/synapse"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python 3.11", "FastAPI", "React 19", "PostgreSQL 16", "ChromaDB", "TypeScript", "Tesseract OCR", "Groq API", "Gemini API", "Pydantic", "SQLAlchemy", "Alembic", "Vercel", "Docker"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- RAG
-- Study Assistant
-- Document Processing
-- Hybrid Retrieval
-- Flashcards
-source: https://github.com/manav-2812/synapse
+deployment_complexity: "Medium"
+tags: ["RAG", "Study Assistant", "Document Processing", "Hybrid Retrieval", "Flashcards"]
+source: "https://github.com/manav-2812/synapse"
 stars: 1
-language: Python
-last_updated: '2026-08-08T13:40:49Z'
-discovered_at: '2026-08-08T13:48:51Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-08T13:40:49Z"
+discovered_at: "2026-08-08T13:48:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

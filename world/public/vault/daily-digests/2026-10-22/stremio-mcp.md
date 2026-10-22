@@ -1,31 +1,19 @@
 ---
-title: netixc/stremio-mcp
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-10-22
-tech_stack:
-- Python
-- Model Context Protocol (MCP)
-- Android Debug Bridge (ADB)
-- TMDB API
-- Stremio
-- uv (dependency manager)
-- Async HTTP clients
+title: "netixc/stremio-mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Android Debug Bridge (ADB)", "TMDB API", "Stremio", "uv (dependency manager)", "Async HTTP clients"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- MCP server
-- Android TV control
-- Stremio integration
-- TMDB search
-- Library management
-source: https://github.com/netixc/stremio-mcp
+deployment_complexity: "Medium"
+tags: ["MCP server", "Android TV control", "Stremio integration", "TMDB search", "Library management"]
+source: "https://github.com/netixc/stremio-mcp"
 stars: 4
-language: Python
-last_updated: '2026-07-20T19:40:47Z'
-discovered_at: '2026-07-20T19:53:45Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-07-20T19:40:47Z"
+discovered_at: "2026-07-20T19:53:45Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

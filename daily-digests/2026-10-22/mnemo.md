@@ -1,32 +1,19 @@
 ---
-title: sattyamjjain/mnemo
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Rust
-- DuckDB
-- PostgreSQL
-- SHA-256
-- MCP (Model Context Protocol)
-- ONNX
-- Ollama
-- Apache-2.0
+title: "sattyamjjain/mnemo"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "DuckDB", "PostgreSQL", "SHA-256", "MCP (Model Context Protocol)", "ONNX", "Ollama", "Apache-2.0"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- auditable memory
-- MCP-native
-- on-prem
-- compliance
-- tamper-evident
-source: https://github.com/sattyamjjain/mnemo
+deployment_complexity: "Medium"
+tags: ["auditable memory", "MCP-native", "on-prem", "compliance", "tamper-evident"]
+source: "https://github.com/sattyamjjain/mnemo"
 stars: 4
-language: Rust
-last_updated: '2026-08-08T08:37:47Z'
-discovered_at: '2026-08-08T08:43:33Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-08T08:37:47Z"
+discovered_at: "2026-08-08T08:43:33Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

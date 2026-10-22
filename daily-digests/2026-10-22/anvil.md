@@ -1,33 +1,19 @@
 ---
-title: worka-ai/anvil
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Rust
-- gRPC
-- Docker
-- mTLS
-- Zanzibar
-- Erasure Coding
-- SQLite
-- JWT
-- Protobuf
+title: "worka-ai/anvil"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Rust", "gRPC", "Docker", "mTLS", "Zanzibar", "Erasure Coding", "SQLite", "JWT", "Protobuf"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- distributed storage
-- object storage
-- Zanzibar authorization
-- materialized indexes
-- atomic programs
-source: https://github.com/worka-ai/anvil
+deployment_complexity: "Medium"
+tags: ["distributed storage", "object storage", "Zanzibar authorization", "materialized indexes", "atomic programs"]
+source: "https://github.com/worka-ai/anvil"
 stars: 77
-language: Rust
-last_updated: '2026-08-09T16:16:00Z'
-discovered_at: '2026-08-09T16:38:39Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-09T16:16:00Z"
+discovered_at: "2026-08-09T16:38:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

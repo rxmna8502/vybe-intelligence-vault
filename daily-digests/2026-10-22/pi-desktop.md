@@ -1,32 +1,19 @@
 ---
-title: vastsa/PI-Desktop
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Electron
-- Rust
-- TypeScript
-- React
-- Node.js
-- SQLite
-- JSON-RPC
-- OpenAI-compatible API
+title: "vastsa/PI-Desktop"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Electron", "Rust", "TypeScript", "React", "Node.js", "SQLite", "JSON-RPC", "OpenAI-compatible API"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI coding agents
-- local-first
-- desktop app
-- plugin system
-- privacy-focused
-source: https://github.com/vastsa/PI-Desktop
+deployment_complexity: "Medium"
+tags: ["AI coding agents", "local-first", "desktop app", "plugin system", "privacy-focused"]
+source: "https://github.com/vastsa/PI-Desktop"
 stars: 39
-language: TypeScript
-last_updated: '2026-08-05T11:15:19Z'
-discovered_at: '2026-08-05T11:22:17Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T11:15:19Z"
+discovered_at: "2026-08-05T11:22:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

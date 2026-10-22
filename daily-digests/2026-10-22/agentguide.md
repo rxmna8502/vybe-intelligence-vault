@@ -1,51 +1,19 @@
 ---
-title: adongwanai/AgentGuide
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- LangGraph
-- OpenAI Agents SDK
-- MCP (Model Context Protocol)
-- RAG (Retrieval-Augmented Generation)
-- LangChain
-- AutoGen
-- CrewAI
-- Pydantic AI
-- Dify
-- n8n
-- Flowise
-- Python
-- JavaScript/TypeScript
-- Vector Databases (Milvus, Qdrant, Chroma, FAISS)
-- GraphRAG
-- Agentic RAG
-- Multimodal RAG
-- SFT (Supervised Fine-Tuning)
-- LoRA/QLoRA
-- DPO/GRPO
-- Prompt Engineering
-- Context Engineering
-- Agent Harness Engineering
-- Tool Use & MCP Skills
-- A2A/ACP Protocols
-- Observability & Tracing
-- Safety & Red Teaming
+title: "adongwanai/AgentGuide"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["LangGraph", "OpenAI Agents SDK", "MCP (Model Context Protocol)", "RAG (Retrieval-Augmented Generation)", "LangChain", "AutoGen", "CrewAI", "Pydantic AI", "Dify", "n8n", "Flowise", "Python", "JavaScript/TypeScript", "Vector Databases (Milvus, Qdrant, Chroma, FAISS)", "GraphRAG", "Agentic RAG", "Multimodal RAG", "SFT (Supervised Fine-Tuning)", "LoRA/QLoRA", "DPO/GRPO", "Prompt Engineering", "Context Engineering", "Agent Harness Engineering", "Tool Use & MCP Skills", "A2A/ACP Protocols", "Observability & Tracing", "Safety & Red Teaming"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Agent Development
-- RAG Systems
-- Job Preparation
-- LangGraph
-- Multi-Agent Systems
-source: https://github.com/adongwanai/AgentGuide
+deployment_complexity: "Medium"
+tags: ["AI Agent Development", "RAG Systems", "Job Preparation", "LangGraph", "Multi-Agent Systems"]
+source: "https://github.com/adongwanai/AgentGuide"
 stars: 7703
-language: HTML
-last_updated: '2026-08-02T13:42:33Z'
-discovered_at: '2026-08-02T13:49:17Z'
-evaluated_by: mistral-small-latest
+language: "HTML"
+last_updated: "2026-08-02T13:42:33Z"
+discovered_at: "2026-08-02T13:49:17Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

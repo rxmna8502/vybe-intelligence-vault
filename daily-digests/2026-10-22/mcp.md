@@ -1,29 +1,19 @@
 ---
-title: outagedeck/mcp
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- MCP (Model Context Protocol)
-- HTTP/Streamable Transport
-- JSON Configuration
-- RSS Feeds
-- API Integration
+title: "outagedeck/mcp"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["MCP (Model Context Protocol)", "HTTP/Streamable Transport", "JSON Configuration", "RSS Feeds", "API Integration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Low
-tags:
-- status monitoring
-- incident tracking
-- uptime history
-- MCP server
-- cloud reliability
-source: https://github.com/outagedeck/mcp
+deployment_complexity: "Low"
+tags: ["status monitoring", "incident tracking", "uptime history", "MCP server", "cloud reliability"]
+source: "https://github.com/outagedeck/mcp"
 stars: 0
-language: None
-last_updated: '2026-08-04T22:53:28Z'
-discovered_at: '2026-08-04T23:04:39Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-04T22:53:28Z"
+discovered_at: "2026-08-04T23:04:39Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

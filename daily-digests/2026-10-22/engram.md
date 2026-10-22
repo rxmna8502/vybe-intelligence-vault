@@ -1,34 +1,19 @@
 ---
-title: staticroostermedia-arch/engram
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- NVMe (Solid-State Tensor)
-- Vector Symbolic Algebra (VSA)
-- Sheaf Theory
-- BLAKE3 Merkle
-- CUDA/cuFile
-- GPUDirect
-- TOML (configuration)
-- Python (examples)
+title: "staticroostermedia-arch/engram"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Model Context Protocol (MCP)", "NVMe (Solid-State Tensor)", "Vector Symbolic Algebra (VSA)", "Sheaf Theory", "BLAKE3 Merkle", "CUDA/cuFile", "GPUDirect", "TOML (configuration)", "Python (examples)"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- geometric memory
-- long-term agent memory
-- MCP integration
-- NVMe-backed context
-- synthetic calculus
-source: https://github.com/staticroostermedia-arch/engram
+deployment_complexity: "High"
+tags: ["geometric memory", "long-term agent memory", "MCP integration", "NVMe-backed context", "synthetic calculus"]
+source: "https://github.com/staticroostermedia-arch/engram"
 stars: 17
-language: Rust
-last_updated: '2026-07-14T21:48:59Z'
-discovered_at: '2026-07-14T21:56:28Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-07-14T21:48:59Z"
+discovered_at: "2026-07-14T21:56:28Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

@@ -1,32 +1,19 @@
 ---
-title: 0pen-Sourcer/Hearth
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Python
-- llama.cpp
-- OpenAI-compatible API
-- Windows API
-- Telegram/Discord API
-- React (for web UI)
-- PowerShell
-- CUDA (for GPU acceleration)
+title: "0pen-Sourcer/Hearth"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "llama.cpp", "OpenAI-compatible API", "Windows API", "Telegram/Discord API", "React (for web UI)", "PowerShell", "CUDA (for GPU acceleration)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local AI
-- computer control
-- agent framework
-- voice assistant
-- desktop automation
-source: https://github.com/0pen-Sourcer/Hearth
+deployment_complexity: "Medium"
+tags: ["local AI", "computer control", "agent framework", "voice assistant", "desktop automation"]
+source: "https://github.com/0pen-Sourcer/Hearth"
 stars: 21
-language: Python
-last_updated: '2026-08-04T17:48:26Z'
-discovered_at: '2026-08-04T17:49:50Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-04T17:48:26Z"
+discovered_at: "2026-08-04T17:49:50Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

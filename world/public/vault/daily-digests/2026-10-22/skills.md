@@ -1,31 +1,19 @@
 ---
-title: modelstudioai/skills
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-10-22
-tech_stack:
-- Node.js
-- Python
-- Bailian CLI
-- Alibaba Cloud APIs
-- MCP (Model Context Protocol)
-- React
-- TypeScript
+title: "modelstudioai/skills"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Node.js", "Python", "Bailian CLI", "Alibaba Cloud APIs", "MCP (Model Context Protocol)", "React", "TypeScript"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI agents
-- skill management
-- curated skills
-- multimodal
-- Bailian platform
-source: https://github.com/modelstudioai/skills
+deployment_complexity: "Medium"
+tags: ["AI agents", "skill management", "curated skills", "multimodal", "Bailian platform"]
+source: "https://github.com/modelstudioai/skills"
 stars: 46
-language: Python
-last_updated: '2026-08-03T20:27:50Z'
-discovered_at: '2026-08-03T20:28:30Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T20:27:50Z"
+discovered_at: "2026-08-03T20:28:30Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

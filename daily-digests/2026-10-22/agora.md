@@ -1,33 +1,19 @@
 ---
-title: wilbur-labs/Agora
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Python
-- Docker
-- YAML
-- OpenAI API
-- Azure OpenAI API
-- Claude CLI
-- Codex CLI
-- Kiro CLI
-- FastAPI
+title: "wilbur-labs/Agora"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "Docker", "YAML", "OpenAI API", "Azure OpenAI API", "Claude CLI", "Codex CLI", "Kiro CLI", "FastAPI"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- multi-agent systems
-- agentic AI
-- self-improving skills
-- execution framework
-- model orchestration
-source: https://github.com/wilbur-labs/Agora
+deployment_complexity: "Medium"
+tags: ["multi-agent systems", "agentic AI", "self-improving skills", "execution framework", "model orchestration"]
+source: "https://github.com/wilbur-labs/Agora"
 stars: 3
-language: Python
-last_updated: '2026-08-01T03:33:45Z'
-discovered_at: '2026-08-01T03:43:58Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-01T03:33:45Z"
+discovered_at: "2026-08-01T03:43:58Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

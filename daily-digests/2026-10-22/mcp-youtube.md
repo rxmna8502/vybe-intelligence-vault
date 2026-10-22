@@ -1,31 +1,19 @@
 ---
-title: win2013/MCP-Youtube
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Python
-- Modern Context Protocol (MCP)
-- YouTube Data API v3
-- FastAPI
-- OpenAI API
-- TCP/STDIO/SSE Transport
-- Pytest
+title: "win2013/MCP-Youtube"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Python", "Modern Context Protocol (MCP)", "YouTube Data API v3", "FastAPI", "OpenAI API", "TCP/STDIO/SSE Transport", "Pytest"]
 quality_score: 7
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- YouTube integration
-- MCP server
-- video processing
-- content extraction
-- LLM orchestration
-source: https://github.com/win2013/MCP-Youtube
+deployment_complexity: "Medium"
+tags: ["YouTube integration", "MCP server", "video processing", "content extraction", "LLM orchestration"]
+source: "https://github.com/win2013/MCP-Youtube"
 stars: 0
-language: TypeScript
-last_updated: '2026-08-09T12:45:04Z'
-discovered_at: '2026-08-09T12:50:12Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-09T12:45:04Z"
+discovered_at: "2026-08-09T12:50:12Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
