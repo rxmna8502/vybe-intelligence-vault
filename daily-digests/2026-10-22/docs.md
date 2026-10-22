@@ -1,55 +1,49 @@
 ---
-title: mcp-auth/docs
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- OAuth 2.1
-- OpenID Connect
-- MDX
-- JavaScript/TypeScript
-quality_score: 7
-rag_relevance: 8
-deployment_complexity: Low
-tags:
-- authentication
-- MCP
-- OAuth
-- OpenID Connect
-- security
-source: https://github.com/mcp-auth/docs
-stars: 5
-language: MDX
-last_updated: '2026-09-01T02:45:08Z'
-discovered_at: '2026-09-01T02:53:34Z'
-evaluated_by: mistral-small-latest
+title: "superdocsapp/docs"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["REST API", "MCP (Model Context Protocol)", "MDX", "Python", "JavaScript"]
+quality_score: 8
+rag_relevance: 7
+deployment_complexity: "Low"
+tags: ["AI document editing", "document automation", "API integration", "MCP support", "real-time editing"]
+source: "https://github.com/superdocsapp/docs"
+stars: 1
+language: "MDX"
+last_updated: "2026-07-12T10:12:59Z"
+discovered_at: "2026-07-12T10:26:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-MCP Auth provides a plug-and-play authentication solution for MCP servers, eliminating the need to manually implement OAuth 2.1 or OpenID Connect compliance. It simplifies adding production-ready auth with minimal code and supports any compliant provider.
+SuperDocs provides an AI-powered document editing platform that allows users to edit documents directly via plain English instructions, with changes reflected in real time. It offers both a web editor for individuals and REST API/MCP integrations for developers to embed AI document editing into their products.
 
 ## Key Features
-- Provider-agnostic OAuth 2.1 and OpenID Connect integration
-- Reduces implementation time from weeks to hours
-- Follows MCP specification and security best practices
-- Verified provider compatibility checks
-- Minimal boilerplate code required
+- Direct AI document editing with real-time changes
+- REST API and MCP integration for developers
+- Support for multiple document types (contracts, reports, proposals, etc.)
+- Comprehensive documentation and code examples
+- Production-ready API with health monitoring
 
 ## Why It Matters for RAG Builders
-MCP Auth accelerates secure MCP server deployment by abstracting complex authentication workflows, enabling developers to focus on core functionality.
+SuperDocs enables seamless integration of AI-powered document editing into applications, reducing manual effort and improving workflow automation for users.
 
 ## Tech Stack Deep Dive
-### OAuth 2.1
-Automated review identified **OAuth 2.1** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenID Connect
-Automated review identified **OpenID Connect** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MDX
 Automated review identified **MDX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JavaScript/TypeScript
-Automated review identified **JavaScript/TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

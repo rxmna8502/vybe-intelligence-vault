@@ -1,71 +1,79 @@
 ---
-title: 0pen-Sourcer/Hearth
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Python
-- llama.cpp
-- OpenAI-compatible API
-- Windows API
-- Telegram/Discord API
-- React (for web UI)
-- PowerShell
-- CUDA (for GPU acceleration)
+title: "logan-han/hearth"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Next.js", "Neon Postgres", "Drizzle ORM", "Vercel", "Telegram Bot API", "Google OAuth", "Microsoft Graph API", "Upstash QStash", "Tavily", "OpenRouter", "Gemini API", "OpenAI-compatible LLM", "AES-256-GCM", "Langfuse"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- local AI
-- computer control
-- agent framework
-- voice assistant
-- desktop automation
-source: https://github.com/0pen-Sourcer/Hearth
-stars: 21
-language: Python
-last_updated: '2026-08-04T17:48:26Z'
-discovered_at: '2026-08-04T17:49:50Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["self-hosted", "AI assistant", "multi-service integration", "Telegram bot", "calendar management"]
+source: "https://github.com/logan-han/hearth"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-09-02T22:03:34Z"
+discovered_at: "2026-09-02T22:18:08Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Hearth is a local-first AI agent framework that enables models to interact with and control a user's computer, including file operations, browser automation, desktop control, and voice interactions. It runs entirely on the user's machine with no cloud dependency, supporting both CLI and desktop interfaces.
+Hearth is a self-hosted family assistant that integrates with Telegram, Google, and Microsoft services to manage shared calendars, reminders, email, and AI-driven tasks. It operates entirely on free tiers and provides a unified, local-first AI experience with fallback options.
 
 ## Key Features
-- Full local execution with no cloud dependency, ensuring privacy and offline functionality
-- Direct control over files, apps, browser, and desktop via native APIs and accessibility snapshots
-- Modular skills system for extending functionality with shareable workflows
-- Multiple interfaces: CLI, desktop app, headless bridge, and MCP server for integration with other tools
-- Built-in memory system that persists across sessions and self-curates based on usage
+- Unified family assistant with shared calendar, reminders, and lists in a single Telegram chat
+- Integrates with Google and Microsoft services for email, calendar, and authentication
+- Local-first AI with fallback to cloud providers (Gemini, OpenRouter)
+- One-click deployment on Vercel with Neon Postgres and Upstash QStash
+- Modular agent framework with tool-based AI interactions and ambient mode for context-aware responses
 
 ## Why It Matters for RAG Builders
-Hearth enables AI agents to perform real-world computer tasks locally, bridging the gap between chat-based AI and practical desktop automation for RAG and AI stack builders.
+Hearth demonstrates how to build a production-grade, multi-service AI agent with tool integration and local-first fallback, offering a blueprint for scalable, privacy-conscious AI assistants.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### llama.cpp
-Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Next.js
+Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI-compatible API
-Automated review identified **OpenAI-compatible API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Neon Postgres
+Automated review identified **Neon Postgres** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Windows API
-Automated review identified **Windows API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Drizzle ORM
+Automated review identified **Drizzle ORM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Telegram/Discord API
-Automated review identified **Telegram/Discord API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Vercel
+Automated review identified **Vercel** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React (for web UI)
-Automated review identified **React (for web UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Telegram Bot API
+Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PowerShell
-Automated review identified **PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Google OAuth
+Automated review identified **Google OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CUDA (for GPU acceleration)
-Automated review identified **CUDA (for GPU acceleration)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Microsoft Graph API
+Automated review identified **Microsoft Graph API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Upstash QStash
+Automated review identified **Upstash QStash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Tavily
+Automated review identified **Tavily** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenRouter
+Automated review identified **OpenRouter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Gemini API
+Automated review identified **Gemini API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI-compatible LLM
+Automated review identified **OpenAI-compatible LLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### AES-256-GCM
+Automated review identified **AES-256-GCM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Langfuse
+Automated review identified **Langfuse** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

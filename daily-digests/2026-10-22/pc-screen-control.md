@@ -1,42 +1,33 @@
 ---
-title: Noncellular-dumpiness647/pc-screen-control
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Python
-- Windows Accessibility API
-- Model Context Protocol (MCP)
-- Claude Desktop
-quality_score: 7
-rag_relevance: 8
-deployment_complexity: Low
-tags:
-- Windows automation
-- AI agent control
-- UI accessibility
-- MCP server
-- desktop interaction
-source: https://github.com/Noncellular-dumpiness647/pc-screen-control
-stars: 0
-language: Python
-last_updated: '2026-08-06T06:28:01Z'
-discovered_at: '2026-08-06T06:34:03Z'
-evaluated_by: mistral-small-latest
+title: "desteny-dev/pc-screen-control"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Windows Accessibility API", "MCP (Model Context Protocol)", "PyInstaller", "pytest"]
+quality_score: 9
+rag_relevance: 9
+deployment_complexity: "Low"
+tags: ["Windows automation", "MCP server", "UI accessibility", "AI control interface", "screen data"]
+source: "https://github.com/desteny-dev/pc-screen-control"
+stars: 2
+language: "Python"
+last_updated: "2026-08-06T09:38:49Z"
+discovered_at: "2026-08-06T09:42:23Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Windows application that enables AI agents to control a computer by reading the accessibility tree and interacting with UI elements programmatically via the Model Context Protocol (MCP).
+A Windows MCP server that exposes the accessibility tree of applications to AI agents, enabling them to interact with UI elements by name rather than pixel coordinates. It provides 34 tools for reading, controlling, and automating Windows applications without network access or screen scraping.
 
 ## Key Features
-- Reads Windows accessibility tree to provide structured UI element data to AI agents
-- Enables AI to click buttons, navigate menus, and interact with desktop apps by name
-- Operates locally without screen recording, ensuring privacy
-- Integrates with MCP-compatible clients like Claude Desktop
-- Supports common desktop tasks such as opening apps and managing system settings
+- Exposes structured UI data (accessibility tree) to AI agents instead of screenshots
+- 34 tools for reading, controlling, and automating Windows applications by name
+- No network access or telemetry, ensuring privacy and security
+- Supports one-click installation for Claude Desktop and other MCP clients
+- Includes self-test functionality to verify installation and diagnose issues
 
 ## Why It Matters for RAG Builders
-It bridges the gap between AI agents and desktop applications by providing structured UI context, enabling precise and automated interactions without manual intervention.
+It transforms raw screen data into structured, actionable UI elements, enabling AI agents to operate applications precisely and reliably without pixel-level guessing or screen scraping.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -45,11 +36,14 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### Windows Accessibility API
 Automated review identified **Windows Accessibility API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Desktop
-Automated review identified **Claude Desktop** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PyInstaller
+Automated review identified **PyInstaller** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### pytest
+Automated review identified **pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

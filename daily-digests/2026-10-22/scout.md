@@ -1,59 +1,67 @@
 ---
-title: tools-for-agents/scout
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Node.js
-- SQLite (FTS5 for search)
-- Regex-based HTML extraction
-- MCP (Model Context Protocol) server
-- CLI tools
+title: "watchcat/scout"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "teloxide", "rig", "DuckDB", "MiniMax API", "Kagi API", "Perplexity API", "eBay Browse API", "bol.com Catalog API", "Headless Chrome", "Telegram Bot API"]
 quality_score: 9
-rag_relevance: 9
-deployment_complexity: Low
-tags:
-- web scraping
-- content extraction
-- markdown conversion
-- caching
-- searchable history
-source: https://github.com/tools-for-agents/scout
+rag_relevance: 7
+deployment_complexity: "Medium"
+tags: ["price verification", "link validation", "shopping assistant", "deterministic AI", "telegram bot"]
+source: "https://github.com/watchcat/scout"
 stars: 0
-language: HTML
-last_updated: '2026-07-12T10:10:17Z'
-discovered_at: '2026-07-12T10:26:43Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-03T10:37:58Z"
+discovered_at: "2026-08-03T10:43:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Scout is a zero-dependency web reader that fetches URLs and converts raw HTML into clean, readable markdown, typically reducing content size by ~90%. It caches pages for instant re-reads, enables searchable reading history, and integrates with other tools like Cortex for knowledge management.
+Scout is a Telegram-based shopping researcher bot that verifies product prices, links, and stock availability to prevent hallucinations common in LLM outputs. It combines Rust-based deterministic tools with an LLM agent to deliver accurate, real-time product comparisons and purchase tracking.
 
 ## Key Features
-- Converts raw HTML to clean markdown with ~90% size reduction
-- Caches pages for instant re-reads and searchable history
-- CLI and MCP server for agent integration
-- Built-in SQLite FTS5 search for reading history
-- Reading room web interface for browsing cached content
+- Verifies product links and prices before sending to avoid hallucinations
+- Combines Rust-based deterministic tools with an LLM agent for accurate comparisons
+- Supports real-time API integrations (eBay, bol.com, Marktplaats) for live data
+- Tracks purchase history and provides reorder reminders
+- Streams live progress and results in a single Telegram message
 
 ## Why It Matters for RAG Builders
-Scout drastically reduces token costs for RAG pipelines by converting web content into clean, searchable markdown while caching results for reuse, making it essential for efficient web-based knowledge ingestion.
+Scout demonstrates how to integrate deterministic tools with LLMs to prevent hallucinations in real-world applications, making it a critical reference for RAG builders focused on accuracy and reliability.
 
 ## Tech Stack Deep Dive
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite (FTS5 for search)
-Automated review identified **SQLite (FTS5 for search)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### teloxide
+Automated review identified **teloxide** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Regex-based HTML extraction
-Automated review identified **Regex-based HTML extraction** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### rig
+Automated review identified **rig** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol) server
-Automated review identified **MCP (Model Context Protocol) server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### DuckDB
+Automated review identified **DuckDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI tools
-Automated review identified **CLI tools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MiniMax API
+Automated review identified **MiniMax API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Kagi API
+Automated review identified **Kagi API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Perplexity API
+Automated review identified **Perplexity API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### eBay Browse API
+Automated review identified **eBay Browse API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### bol.com Catalog API
+Automated review identified **bol.com Catalog API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Headless Chrome
+Automated review identified **Headless Chrome** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Telegram Bot API
+Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

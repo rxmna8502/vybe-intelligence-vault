@@ -1,67 +1,49 @@
 ---
-title: Rushour0/grok-build-desktop
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Tauri
-- Rust
-- React
-- TypeScript
-- Node.js
-- Agent Client Protocol (ACP)
-- JSON-RPC 2.0
-quality_score: 9
-rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- desktop app
-- coding agent
-- xAI
-- Grok Build
-- approval workflow
-source: https://github.com/Rushour0/grok-build-desktop
+title: "tomiuntreated113/grok-build-desktop"
+content_type: "repo"
+engine: "v2"
+category: "UI Component"
+tech_stack: ["Electron", "JavaScript/TypeScript", "Windows Desktop", "Grok Build System", "Local Runtime"]
+quality_score: 6
+rag_relevance: 5
+deployment_complexity: "Low"
+tags: ["desktop-ai", "grok-build", "ai-workflow", "local-ai", "windows-app"]
+source: "https://github.com/tomiuntreated113/grok-build-desktop"
 stars: 0
-language: Rust
-last_updated: '2026-07-17T21:43:37Z'
-discovered_at: '2026-07-17T21:52:26Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-08-07T00:00:38Z"
+discovered_at: "2026-08-07T00:01:40Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Grok Build Desktop is a desktop application that provides a graphical user interface for xAI's open-source Grok Build coding agent, eliminating the need for terminal usage. It simplifies the process of installing, signing in, and interacting with the agent by offering a native folder picker, real-time streaming of answers, and an approval gate for file edits.
+A Windows desktop application that provides a visual interface for managing AI agents using the Grok build system. It enables users to run AI tasks locally, manage parallel sessions, switch between models, and execute advanced coding tools without command-line interaction.
 
 ## Key Features
-- One-click installation and sign-in for Grok Build without terminal usage
-- Native folder picker for project selection with recent project history
-- Real-time streaming of agent answers and live tool activity with a monochrome UI
-- Approval gate for file edits and shell commands via a default-deny PreToolUse hook
-- Persistent sidebar with search across past sessions and per-turn token usage tracking
+- Visual interface for managing AI agents and tasks
+- Direct connection to the Grok build system for local processing
+- Support for parallel sessions and multiple models
+- Dual-language support (English and Chinese)
+- No command-line interaction required
 
 ## Why It Matters for RAG Builders
-It democratizes access to xAI's Grok Build coding agent by providing a user-friendly desktop interface, reducing friction for developers who prefer GUI-based workflows over terminal commands.
+It simplifies the management of local AI agents and workflows for developers and users who prefer a graphical interface over command-line tools.
 
 ## Tech Stack Deep Dive
-### Tauri
-Automated review identified **Tauri** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Electron
+Automated review identified **Electron** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript/TypeScript
+Automated review identified **JavaScript/TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows Desktop
+Automated review identified **Windows Desktop** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Grok Build System
+Automated review identified **Grok Build System** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Agent Client Protocol (ACP)
-Automated review identified **Agent Client Protocol (ACP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON-RPC 2.0
-Automated review identified **JSON-RPC 2.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Local Runtime
+Automated review identified **Local Runtime** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

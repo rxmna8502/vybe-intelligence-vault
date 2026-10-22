@@ -1,79 +1,61 @@
 ---
-title: staticroostermedia-arch/engram
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-22
-tech_stack:
-- Rust
-- Model Context Protocol (MCP)
-- NVMe (Solid-State Tensor)
-- Vector Symbolic Algebra (VSA)
-- Sheaf Theory
-- BLAKE3 Merkle
-- CUDA/cuFile
-- GPUDirect
-- TOML (configuration)
-- Python (examples)
+title: "TAIPANBOX/engram"
+content_type: "repo"
+engine: "v2"
+category: "Vector DB"
+tech_stack: ["Python", "SQLite", "BM25", "Vector embeddings", "MCP (Model Context Protocol)", "Asyncio", "SQLAlchemy", "FastAPI", "Pydantic"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: High
-tags:
-- geometric memory
-- long-term agent memory
-- MCP integration
-- NVMe-backed context
-- synthetic calculus
-source: https://github.com/staticroostermedia-arch/engram
-stars: 17
-language: Rust
-last_updated: '2026-07-14T21:48:59Z'
-discovered_at: '2026-07-14T21:56:28Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Low"
+tags: ["memory layer", "episodic memory", "semantic memory", "bitemporal facts", "provenance tracking"]
+source: "https://github.com/TAIPANBOX/engram"
+stars: 2
+language: "Python"
+last_updated: "2026-08-10T07:22:40Z"
+discovered_at: "2026-08-10T07:35:15Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Engram is a local, hardware-native memory substrate for AI agents that provides coherent, long-term memory with structure-preserving compression and synthetic calculus over words and numbers. It uses geometric memory models, VSA operations, and sheaf gluing to maintain meaning and relationships even after heavy compression and long-running sessions.
+Engram is an embeddable, local-first cognitive memory layer for AI agents that provides persistent, provenance-tracked memory in a single SQLite-based `.engram` file. It combines episodic observations, bitemporal semantic facts, and an entity graph with hybrid BM25+vector recall, dynamic importance decay, and GDPR-compliant forgetting.
 
 ## Key Features
-- Fixed-size holographic blocks with integrity checks for persistent memory
-- Solid-State Tensor NVMe-backed context extension for large-scale memory
-- Synthetic calculus over linguistic structures and mixed word-number operations
-- Documented rituals and governance processes for agent discipline
-- LEG Browser for local, read-only memory visualization and review
+- Single-file SQLite-based memory storage with no server or Docker required
+- Hybrid BM25+vector recall for accurate and efficient memory retrieval
+- Bitemporal semantic facts that track validity over time and provenance for explainability
+- Dynamic importance decay using Ebbinghaus forgetting curve for intelligent memory pruning
+- MCP-native integration for seamless use with LLM clients like Claude Desktop
 
 ## Why It Matters for RAG Builders
-Engram provides a breakthrough in persistent, structured memory for AI agents that goes beyond flat RAG, enabling true continuity and coherence in long-running sessions.
+Engram provides a critical memory layer for RAG systems by enabling persistent, time-aware, and explainable memory storage that goes beyond simple vector search, ensuring agents retain and recall context accurately over time.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### NVMe (Solid-State Tensor)
-Automated review identified **NVMe (Solid-State Tensor)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### BM25
+Automated review identified **BM25** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vector Symbolic Algebra (VSA)
-Automated review identified **Vector Symbolic Algebra (VSA)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Vector embeddings
+Automated review identified **Vector embeddings** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Sheaf Theory
-Automated review identified **Sheaf Theory** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### BLAKE3 Merkle
-Automated review identified **BLAKE3 Merkle** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Asyncio
+Automated review identified **Asyncio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CUDA/cuFile
-Automated review identified **CUDA/cuFile** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLAlchemy
+Automated review identified **SQLAlchemy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GPUDirect
-Automated review identified **GPUDirect** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TOML (configuration)
-Automated review identified **TOML (configuration)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Python (examples)
-Automated review identified **Python (examples)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Pydantic
+Automated review identified **Pydantic** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-22T19:47:55.767774+05:30`
+Generated at: `2026-10-22T23:04:49.419017+05:30`
 
 ## Executive Summary
 
@@ -8,38 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **WorldTUI: I trained a 360M model to pretend to be a terminal** - Score: `344` in category `ai/community` ([Link](https://simedw.com/2026/10/21/world-model-terminal)) ([File](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md))
-- **Jailbreaking the Switch 2** - Score: `293` in category `ai/community` ([Link](https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb)) ([File](../ai/community/jailbreaking-the-switch-2.md))
-- **OpenAI CLI** - Score: `175` in category `ai/community` ([Link](https://github.com/openai/openai-cli)) ([File](../ai/community/openai-openai-cli.md))
-- **Several Linux kernel vulnerabilities accidentally posted to public mailing list** - Score: `125` in category `ai/community` ([Link](https://phoronix.com/news/lkml-new-trend-vulnerabilities)) ([File](../ai/community/several-linux-kernel-vulnerabilities-accidentally.md))
-- **The painter behind Manhattan’s Gilded Age interiors** - Score: `12` in category `ai/community` ([Link](https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors)) ([File](../ai/community/the-painter-behind-manhattans-gilded-age-interiors.md))
-- **Ensemble forecasting with IBM Granite time-series models** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)) ([File](../ai/models/huggingface-blog-ibm-research-granite-timeseries-ensemble-r1.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Using LLM for confidence scoring is a bad idea** - Score: `131` (+98), Rank Change: `+1` ([File](../ai/community/using-llm-for-confidence-scoring-is-a-bad-idea.md))
-- **Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor** - Score: `557` (+91), Rank Change: `0` ([File](../ai/community/compromised-litellm-1-107-0-on-pypi-installs-a-cre.md))
-- **OpenAI models are coming to Google Cloud** - Score: `311` (+47), Rank Change: `-1` ([File](../ai/community/openai-models-are-coming-to-google-cloud.md))
-- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+5052` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+2576` ([File](../ai/agents/langchain-ai-open-swe.md))
-- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+2026` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+2031` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+2042` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+2042` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+2026` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **SAGE: Semantic Audio Generative Encoder** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/rag/arxiv-2609-32755.md))
+- **Causal Discovery via Transformed Low-Rank Quantile Surfaces** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2609-16931.md))
+- **Hierarchical Exponential-Gaussian Mixtures for Watch-Time Distribution Prediction** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2608-23356.md))
+- **Rethinking Synthetic Rationale Supervision for Disease Prediction** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2606-10279.md))
+- **From Theory to Decision Rule: Calibrating the Noisy-Label Crossover for Vision-Language Model Weak Supervision Across Three Medical-Imaging Benchmarks** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2605-24771.md))
+- **The Sample Complexity of Multiple Change Point Identification under Bandit Feedback** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2605-13252.md))
+- **Kinetic theory for Transformers and the lost-in-the-middle phenomenon** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2605-09213.md))
+- **CellTwin: Reproducible Cellular Network Emulation via High Resolution, in situ Measurement-Driven ML** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2604-26080.md))
+- **The Stepwise Informativeness Assumption: When Do Entropy Dynamics Track Reasoning Correctness in LLMs?** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2604-06192.md))
+- **Insights on back marking for the automated identification of animals** - Score: `0` (0), Rank Change: `+1039` ([File](../ai/research/arxiv-2603-25535.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **WenyuChiou/awesome-agentic-ai-zh** - (Rank Change: `+5052`) ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
-- **langchain-ai/open-swe** - (Rank Change: `+2576`) ([File](../ai/agents/langchain-ai-open-swe.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - (Rank Change: `+2042`) ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **enescingoz/awesome-n8n-templates** - (Rank Change: `+2042`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+2031`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+2029`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **NirDiamant/RAG_Techniques** - (Rank Change: `+2029`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **krishnaik06/RAG-Tutorials** - (Rank Change: `+2029`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+2026`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **vivy-yi/rag-tutorial** - (Rank Change: `+2026`) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **microsoft/rag-time** - (Rank Change: `+1041`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1041`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1041`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1041`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1041`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1041`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1041`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1041`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1041`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research** - (Rank Change: `+1041`) ([File](../ai/research/arxiv-2605-12153.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -50,9 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Patch the Planet: global response coordination as agents uncover vulnerabilities** (Category: `ai/community`) ([File](../ai/community/patch-the-planet-global-response-coordination-as-a.md))
-- **Chain of Thought for Humans** (Category: `ai/community`) ([File](../ai/community/chain-of-thought-for-humans.md))
-- **Launch HN: Alter (YC S25) – Access control for multi-user agents** (Category: `ai/community`) ([File](../ai/community/launch-hn-alter-yc-s25-access-control-for-multi-us.md))
-- **Show HN: Omnara – Open-source alternative to Claude Managed Agents** (Category: `ai/community`) ([File](../ai/community/omnara-ai-omnara.md))
-- **LLM agents play Pokemon showdown** (Category: `ai/community`) ([File](../ai/community/llm-agents-play-pokemon-showdown.md))
-- **Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages** (Category: `ai/community`) ([File](../ai/community/clockwork-mechanics-maintenance-and-metaphors-in-t.md))
+No recently active resources transitioned to inactive.
+
