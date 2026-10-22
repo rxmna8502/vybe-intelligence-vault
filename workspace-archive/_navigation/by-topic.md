@@ -3,15 +3,15 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Agentic AI Development
 
-- **[AI Coding Agents](../ai-coding-agents/README.md)** (6757 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
+- **[AI Coding Agents](../ai-coding-agents/README.md)** (6758 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
 - **[Agent Instructions](../agent-instructions/README.md)** (17 files): Repository instruction files and coding-agent rule formats such as AGENTS.md, CLAUDE.md, cursor rules, and copilot instructions.
 - **[MCP Registry](../mcp-registry/README.md)** (345 files): Public MCP server registries, MCP server metadata, MCP tool directories, and MCP integration guidance.
-- **[Agent Frameworks](../agent-frameworks/README.md)** (6862 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
-- **[AI Browser and Computer Use](../ai-browser-computer-use/README.md)** (7776 files): Browser agents, computer-use agents, Playwright automation, Selenium automation, web navigation agents, and UI automation.
+- **[Agent Frameworks](../agent-frameworks/README.md)** (6863 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
+- **[AI Browser and Computer Use](../ai-browser-computer-use/README.md)** (7777 files): Browser agents, computer-use agents, Playwright automation, Selenium automation, web navigation agents, and UI automation.
 
 ## Retrieval & Knowledge Stack (RAG)
 
-- **[RAG Systems](../rag-systems/README.md)** (36016 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
+- **[RAG Systems](../rag-systems/README.md)** (36017 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
 - **[Vector Databases](../vector-databases/README.md)** (12171 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
 - **[Datasets](../datasets/README.md)** (23953 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
 
@@ -26,7 +26,7 @@ This index groups the workspace archive categories into high-level thematic clus
 ## Prompt Libraries & Automation Workflows
 
 - **[Prompt Libraries](../prompt-libraries/README.md)** (273 files): System prompts, agent prompts, coding prompts, prompt templates, role prompts, and prompt engineering examples.
-- **[Automation Workflows](../automation-workflows/README.md)** (2447 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
+- **[Automation Workflows](../automation-workflows/README.md)** (2448 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
 - **[Public APIs](../public-apis/README.md)** (50 files): Public API directories, useful APIs for AI apps, no-auth APIs, dev APIs, and API examples.
 - **[AI Tools and Products](../ai-tools-products/README.md)** (201 files): AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling.
 
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (258 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-23 02:04 IST*
+*Last updated: 2026-10-23 05:17 IST*

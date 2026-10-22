@@ -13,13 +13,14 @@ collected_at: '2026-10-23T01:45:33.340662+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:award-winning-ai-literature
 first_seen: '2026-10-23T01:45:33.340662+05:30'
 last_seen: '2026-10-23T01:45:33.340662+05:30'
 last_checked: '2026-10-23T01:45:33.340662+05:30'
 health_score: 100
 ---
+
 
 # Award-Winning AI Literature
 

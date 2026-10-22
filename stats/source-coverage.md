@@ -5,8 +5,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 35784 |
-| github | 1019 |
-| huggingface | 940 |
+| github | 1020 |
+| huggingface | 941 |
 | nextjs.org | 83 |
 | semanticscholar.org | 70 |
 | youtube | 66 |
@@ -304,11 +304,11 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | pepsipu.com | 1 |
-| simedw.com | 1 |
+| modelcompare.ai | 1 |
 | biograph.com | 1 |
 | typeui.sh | 1 |
-| jamesyu.org | 1 |
 | frontiersin.org | 1 |
+| train.samismith.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

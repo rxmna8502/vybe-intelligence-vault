@@ -7120,6 +7120,7 @@ Resources organized by keyword tags.
   - [Shortcut Sensitivity in Agent-Safety Evaluations](../ai/rag/arxiv-2610-22243.md)
   - [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](../ai/agents/arxiv-2610-14209.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](../ai/community/coverage-cat-consumer-agent-testing-tool.md)
   - [Show-Harness: Just a VLM Agent Can Play Robots](../ai/agents/arxiv-2609-10522.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdown Sabotage Propensities in Multi-Agent Systems](../ai/agents/arxiv-2609-28274.md)
@@ -8175,6 +8176,7 @@ Resources organized by keyword tags.
   - [TurnCost: Turns, Not Observations: Cache-Aware Loop Engineering for Coding Agents](../ai/rag/arxiv-2610-15093.md)
   - [TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training](../ai/agents/arxiv-2607-05804.md)
   - [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](../ai/agents/arxiv-2608-04007.md)
+  - [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](../ai/agents/huggingface-blog-microsoft-thinkingbox-training.md)
   - [Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment](../ai/agents/arxiv-2607-04728.md)
   - [Turnitin Services Privacy Policy – Turnitin Guides](../ai/agents/turnitin-services-privacy-policy-turnitin-guides.md)
   - [Turnitin Website Privacy Policy | Turnitin](../ai/rag/turnitin-website-privacy-policy-turnitin.md)
@@ -9208,12 +9210,13 @@ Resources organized by keyword tags.
 
   - [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](../ai/community/ai-analysis-of-ct-scans-finds-42-9-of-patients-hav.md)
   - [AI and the Enclosure of the Scientific Commons](../ai/community/arxiv-2610-27251.md)
-  - [Award-Winning AI Literature](../ai/community/award-winning-ai-literature.md)
+  - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
   - [Jailbreaking the Switch 2](../ai/community/jailbreaking-the-switch-2.md)
-  - [Mini brain organoids 'reading' Braille key step towards biohybrid computing](../ai/community/mini-brain-organoids-reading-braille-key-step-towa.md)
+  - [Mini brain organoids ‘reading’ Braille key step towards biohybrid computing](../ai/community/mini-brain-organoids-reading-braille-key-step-towa.md)
   - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
+  - [Railpass](../ai/community/railpass.md)
+  - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](../ai/community/coverage-cat-consumer-agent-testing-tool.md)
   - [Show HN: UI micro interactions prompts for AI](../ai/community/show-hn-ui-micro-interactions-prompts-for-ai.md)
-  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
 
 ## animation
 
@@ -9250,7 +9253,6 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
-  - [2026 Usage Policy update](../ai/companies/anthropic/2026-usage-policy-update.md)
   - [3DCodeVerse: Exploring 3D Worlds as Code](../ai/agents/arxiv-2610-22341.md)
   - [6 ways to grow your network](../ai/agents/6-ways-to-grow-your-network.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
@@ -9802,6 +9804,7 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](../ai/research/arxiv-2607-22513.md)
+  - [Open call for guest investigators in the life sciences](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenCollab: A Multi-Agent Coding Framework with Programmable Collaboration and Controllable Runtime](../ai/agents/arxiv-2609-38345.md)
   - [OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows](../ai/agents/arxiv-2609-09203.md)
@@ -10136,12 +10139,12 @@ Resources organized by keyword tags.
 
 ## anthropic-news
 
-  - [2026 Usage Policy update](../ai/companies/anthropic/2026-usage-policy-update.md)
   - [An update on independent evaluators](../ai/companies/anthropic/an-update-on-independent-evaluators.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Anthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/anthropic-opens-singapore-office-and-signs-mou-wit.md)
   - [Donating Agent Skills to the Agentic AI Foundation](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md)
   - [Introducing the Anthropic Cyber Mission](../ai/companies/anthropic/introducing-the-anthropic-cyber-mission.md)
+  - [Open call for guest investigators in the life sciences](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md)
   - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md)
   - [Preparing for the 2026 US midterms](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md)
   - [Safeguards](../ai/companies/anthropic/safeguards.md)
@@ -26099,7 +26102,6 @@ Resources organized by keyword tags.
 
 ## blog-post
 
-  - [2026 Usage Policy update](../ai/companies/anthropic/2026-usage-policy-update.md)
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -26126,6 +26128,7 @@ Resources organized by keyword tags.
   - [Introducing the Anthropic Cyber Mission](../ai/companies/anthropic/introducing-the-anthropic-cyber-mission.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
+  - [Open call for guest investigators in the life sciences](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md)
   - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md)
   - [Preparing for the 2026 US midterms](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md)
   - [Publications](../ai/companies/publications.md)
@@ -37030,7 +37033,6 @@ Resources organized by keyword tags.
   - [Automatically Evolving Prompt Guidelines for Task-Specific Optimization](../ai/rag/arxiv-2607-14105.md)
   - [Automating Attack Graph Construction for Agentic Pentesting. Towards Neuro-Symbolic Vulnerability Hunting](../ai/rag/arxiv-2609-15523.md)
   - [Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction](../ai/research/arxiv-2608-16541.md)
-  - [Award-Winning AI Literature](../ai/community/award-winning-ai-literature.md)
   - [Azure/azure-search-vector-samples](../ai/rag/azure-azure-search-vector-samples.md)
   - [BASE: Batch-Aware Selection of Experts Using Predicted Removal Error for Efficient MoE Decoding](../ai/rag/arxiv-2609-36222.md)
   - [BASP: Communication-Efficient Batch-Aware Sequence Parallelism for LLM Training](../ai/rag/arxiv-2609-03151.md)
@@ -37901,6 +37903,7 @@ Resources organized by keyword tags.
   - [Evaluating the accuracy of KV cache reuse techniques](../ai/rag/arxiv-2609-31415.md)
   - [Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers](../ai/research/arxiv-2608-21223.md)
   - [Events | Twilio](../ai/agents/events-twilio.md)
+  - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
   - [Evidence-Grounded Retrieval for Investigation Hunt Lead Generation from CTI Reports](../ai/rag/arxiv-2609-08790.md)
   - [EvoLen: Evolution-Guided Tokenization for DNA Language Model](../ai/research/arxiv-2604-08698.md)
   - [EvoRiskBench: An Evolving Benchmark for Runtime Security Risks in Workspace Agents](../ai/rag/arxiv-2610-03153.md)
@@ -39040,7 +39043,7 @@ Resources organized by keyword tags.
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mind the Gap: Navigating Inference with Optimal Transport Maps](../ai/research/arxiv-2507-08867.md)
-  - [Mini brain organoids 'reading' Braille key step towards biohybrid computing](../ai/community/mini-brain-organoids-reading-braille-key-step-towa.md)
+  - [Mini brain organoids ‘reading’ Braille key step towards biohybrid computing](../ai/community/mini-brain-organoids-reading-braille-key-step-towa.md)
   - [Minibatch persistency, eight years later: what batch reuse costs in steps and joules, and what it saves in data](../ai/research/arxiv-2609-13922.md)
   - [Minimax Additive Regression under Unknown Dependent Designs](../ai/research/arxiv-2609-39212.md)
   - [Minimax Alternating Regret for the Experts Problem and Online Convex Optimization](../ai/research/arxiv-2608-25182.md)
@@ -39649,6 +39652,7 @@ Resources organized by keyword tags.
   - [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](../ai/rag/arxiv-2610-06923.md)
   - [Radiomics and artificial Intelligence for thyroid cancer diagnosis: Concepts, challenges, and solutions](../ai/research/arxiv-2404-07239.md)
   - [Ragas](../ai/rag/ragas.md)
+  - [Railpass](../ai/community/railpass.md)
   - [RamanBench: A Large-Scale Benchmark for Machine Learning on Raman Spectroscopy](../ai/rag/arxiv-2605-02003.md)
   - [Ramanujan Graph Rewiring with Non Negative Resistance Curvature](../ai/rag/arxiv-2606-21333.md)
   - [Random Erasing vs. Model Inversion: A Promising Defense or a False Hope?](../ai/research/arxiv-2409-01062.md)
@@ -39975,6 +39979,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](../ai/community/coverage-cat-consumer-agent-testing-tool.md)
   - [Show HN: UI micro interactions prompts for AI](../ai/community/show-hn-ui-micro-interactions-prompts-for-ai.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
@@ -40757,7 +40762,6 @@ Resources organized by keyword tags.
   - [WorkGenesis: Building the Worlds That Teach Agents to Work](../ai/rag/arxiv-2609-39325.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
   - [World Leader in Artificial Intelligence Computing | NVIDIA](../ai/rag/world-leader-in-artificial-intelligence-computing.md)
-  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
   - [Would this change your answer? Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments](../ai/agents/arxiv-2608-16747.md)
   - [Write on Paper and Get the Online Digital Trace: A New Era for Handwriting](../ai/research/arxiv-2609-12702.md)
   - [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md)
@@ -40863,7 +40867,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -68606,6 +68609,7 @@ Resources organized by keyword tags.
   - [Shortcomings and capacities of real-constrained neural networks in complex spaces](../ai/rag/arxiv-2606-04390.md)
   - [Shortcut Sensitivity in Agent-Safety Evaluations](../ai/rag/arxiv-2610-22243.md)
   - [Shortcut-Resistant CAM Distillation for Long-Tailed Recognition](../ai/rag/arxiv-2610-29508.md)
+  - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](../ai/community/coverage-cat-consumer-agent-testing-tool.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shrinkage priors for Bayesian Substitute Confounders](../ai/rag/arxiv-2606-18535.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -83232,4 +83236,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-23T02:02:11.283647+05:30*
+*Index generated on 2026-10-23T05:15:58.041382+05:30*

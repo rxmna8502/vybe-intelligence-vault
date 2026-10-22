@@ -1,31 +1,31 @@
 ---
-title: Mini brain organoids 'reading' Braille key step towards biohybrid computing
+title: Mini brain organoids ‘reading’ Braille key step towards biohybrid computing
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence
 hn_url: https://news.ycombinator.com/item?id=50197450
-score: 20
+score: 36
 author: CharlesW
-comments_count: 10
+comments_count: 38
 published_at: '2026-10-22T21:46:45+05:30'
-collected_at: '2026-10-23T01:45:34.539276+05:30'
+collected_at: '2026-10-23T04:59:41.222186+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:mini-brain-organoids-reading-braille-key-step-towa
 first_seen: '2026-10-23T01:45:34.539276+05:30'
-last_seen: '2026-10-23T01:45:34.539276+05:30'
-last_checked: '2026-10-23T01:45:34.539276+05:30'
+last_seen: '2026-10-23T04:59:41.222186+05:30'
+last_checked: '2026-10-23T04:59:41.222186+05:30'
 health_score: 100
 ---
 
-# Mini brain organoids 'reading' Braille key step towards biohybrid computing
+# Mini brain organoids ‘reading’ Braille key step towards biohybrid computing
 
 ## Summary
 
-Hacker News story by CharlesW. Score: 20, Comments: 10.
+Hacker News story by CharlesW. Score: 36, Comments: 38.
 Original Link: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: CharlesW
-- Score: 20 Upvotes
-- Comments: 10 Discussions
+- Score: 36 Upvotes
+- Comments: 38 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50197450
 - Original Article: https://frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence
 

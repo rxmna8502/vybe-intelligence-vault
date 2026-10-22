@@ -35736,7 +35736,6 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: company_blog)
 
-  - [2026 Usage Policy update](../ai/companies/anthropic/2026-usage-policy-update.md)
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
@@ -35763,6 +35762,7 @@ Resources organized by publisher feed and query sources.
   - [Introducing the Anthropic Cyber Mission](../ai/companies/anthropic/introducing-the-anthropic-cyber-mission.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
+  - [Open call for guest investigators in the life sciences](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md)
   - [Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md)
   - [Preparing for the 2026 US midterms](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md)
   - [Publications](../ai/companies/publications.md)
@@ -36672,12 +36672,13 @@ Resources organized by publisher feed and query sources.
 
   - [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](../ai/community/ai-analysis-of-ct-scans-finds-42-9-of-patients-hav.md)
   - [AI and the Enclosure of the Scientific Commons](../ai/community/arxiv-2610-27251.md)
-  - [Award-Winning AI Literature](../ai/community/award-winning-ai-literature.md)
+  - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
   - [Jailbreaking the Switch 2](../ai/community/jailbreaking-the-switch-2.md)
-  - [Mini brain organoids 'reading' Braille key step towards biohybrid computing](../ai/community/mini-brain-organoids-reading-braille-key-step-towa.md)
+  - [Mini brain organoids ‘reading’ Braille key step towards biohybrid computing](../ai/community/mini-brain-organoids-reading-braille-key-step-towa.md)
   - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
+  - [Railpass](../ai/community/railpass.md)
+  - [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](../ai/community/coverage-cat-consumer-agent-testing-tool.md)
   - [Show HN: UI micro interactions prompts for AI](../ai/community/show-hn-ui-micro-interactions-prompts-for-ai.md)
-  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -37469,6 +37470,7 @@ Resources organized by publisher feed and query sources.
   - [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/huggingface-blog-transformersjs-v3.md)
   - [Transformers.js v4: Now Available on NPM!](../ai/models/huggingface-blog-transformersjs-v4.md)
   - [Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](../ai/models/huggingface-blog-faster-transformers.md)
+  - [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](../ai/agents/huggingface-blog-microsoft-thinkingbox-training.md)
   - [Ulysses Sequence Parallelism: Training with Million-Token Contexts](../ai/models/huggingface-blog-ulysses-sp.md)
   - [Understanding BigBird's Block Sparse Attention](../ai/models/huggingface-blog-big-bird.md)
   - [Universal Assisted Generation: Faster Decoding with Any Assistant Model](../ai/models/huggingface-blog-universal-assisted-generation.md)
@@ -40573,4 +40575,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-23T02:02:11.635679+05:30*
+*Index generated on 2026-10-23T05:15:58.302561+05:30*

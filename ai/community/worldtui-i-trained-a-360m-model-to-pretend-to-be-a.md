@@ -13,13 +13,14 @@ collected_at: '2026-10-23T01:45:35.799627+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:worldtui-i-trained-a-360m-model-to-pretend-to-be-a
 first_seen: '2026-10-22T19:25:57.321732+05:30'
 last_seen: '2026-10-23T01:45:35.799627+05:30'
 last_checked: '2026-10-23T01:45:35.799627+05:30'
 health_score: 100
 ---
+
 
 # WorldTUI: I trained a 360M model to pretend to be a terminal
 
