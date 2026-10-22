@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
-collected_at: '2026-10-19T21:17:48.406397+05:30'
-published_at: '2026-10-19T13:31:50Z'
+collected_at: '2026-10-22T19:27:10.290113+05:30'
+published_at: '2026-10-22T08:25:02Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 4012
+stars: 4016
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2017-07-13T19:46:01Z'
-pushed_at: '2026-10-16T20:16:21Z'
+pushed_at: '2026-10-22T08:25:11Z'
 resource_id: github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials
-first_seen: '2026-10-19T21:17:48.406397+05:30'
-last_seen: '2026-10-19T21:17:48.406397+05:30'
-last_checked: '2026-10-19T21:17:48.406397+05:30'
+first_seen: '2026-10-22T19:27:10.290113+05:30'
+last_seen: '2026-10-22T19:27:10.290113+05:30'
+last_checked: '2026-10-22T19:27:10.290113+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,7 @@ health_score: 100
 
 ## Summary
 
-*   Provides autograded, hands-on AI/DL/ML courses deployable across Colab, Kaggle, Binder, Codespaces, and Jupyter environments.
-*   Covers advanced applications including predictive maintenance, document AI (extraction, retrieval, RAG), AI agents (MCP), and simulated humanoid robotics (MuJoCo).
-*   Focuses on practical implementation with an emphasis on EU AI Act conformity evidence, model validation, and responsible AI practices.
+* Provides platform-agnostic (Colab, Kaggle, Binder, Codespaces, Jupyter)
 
 ## Why It Matters
 
@@ -40,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TarrySingh
-- Stars: 4012
-- Forks: 1642
+- Stars: 4016
+- Forks: 1620
 - Language: Python
 - Topics: ai-agents, ai-governance, artificial-intelligence, autograding, deep-learning, document-ai, eu-ai-act, google-colab, humanoid-robotics, jupyter-notebook, machine-learning, mlops, model-risk-management, mujoco, online-course, predictive-maintenance, python, rag, responsible-ai, synapsa
-- Last Updated: 2026-10-19T13:31:50Z
+- Last Updated: 2026-10-22T08:25:02Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2017-07-13T19:46:01Z
-- Pushed At: 2026-10-16T20:16:21Z
+- Pushed At: 2026-10-22T08:25:11Z
 
 ## Possible Use Cases
 

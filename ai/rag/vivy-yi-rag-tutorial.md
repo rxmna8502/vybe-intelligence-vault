@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-10-20T19:10:05.540096+05:30'
-published_at: '2026-10-19T12:31:24Z'
+collected_at: '2026-10-22T19:27:10.249314+05:30'
+published_at: '2026-10-22T09:18:40Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-stars: 104
+stars: 106
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +18,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-10-20T19:10:05.540096+05:30'
-last_seen: '2026-10-20T19:10:05.540096+05:30'
-last_checked: '2026-10-20T19:10:05.540096+05:30'
+first_seen: '2026-10-22T19:27:10.249314+05:30'
+last_seen: '2026-10-22T19:27:10.249314+05:30'
+last_checked: '2026-10-22T19:27:10.249314+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG lifecycle tutorial spanning foundational concepts to production deployment, structured across 4 modules and 20 chapters.
-*   Technical stack includes LangChain, LLMs, and vector databases, demonstrated via 17 Jupyter Notebooks.
-*   Features 6 enterprise-grade RAG implementation case studies for practical, real-world application.
+*   Comprehensive RAG tutorial covering foundational concepts through to production deployment strategies.
+*   Practical implementation guidance utilizing LangChain, LLMs, and vector databases, demonstrated across 17 Jupyter Notebooks.
+*   Structured into 4 modules and 20 chapters, featuring 6 enterprise-grade RAG application case studies.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vivy-yi
-- Stars: 104
+- Stars: 106
 - Forks: 22
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
-- Last Updated: 2026-10-19T12:31:24Z
+- Last Updated: 2026-10-22T09:18:40Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T16:43:21Z

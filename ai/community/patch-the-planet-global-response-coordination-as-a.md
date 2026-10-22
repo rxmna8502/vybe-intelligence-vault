@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:patch-the-planet-global-response-coordination-as-a
 first_seen: '2026-10-22T01:48:27.911702+05:30'
 last_seen: '2026-10-22T10:31:53.069963+05:30'
 last_checked: '2026-10-22T10:31:53.069963+05:30'
 health_score: 100
 ---
+
 
 # Patch the Planet: global response coordination as agents uncover vulnerabilities
 

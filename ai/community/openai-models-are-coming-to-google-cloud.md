@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://openai.com/index/openai-models-google-cloud
 hn_url: https://news.ycombinator.com/item?id=50180079
-score: 264
+score: 311
 author: armcat
-comments_count: 110
+comments_count: 134
 published_at: '2026-10-21T18:23:11+05:30'
-collected_at: '2026-10-22T10:31:52.428075+05:30'
+collected_at: '2026-10-22T19:25:59.764386+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:openai-models-are-coming-to-google-cloud
 first_seen: '2026-10-22T01:48:28.327061+05:30'
-last_seen: '2026-10-22T10:31:52.428075+05:30'
-last_checked: '2026-10-22T10:31:52.428075+05:30'
+last_seen: '2026-10-22T19:25:59.764386+05:30'
+last_checked: '2026-10-22T19:25:59.764386+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by armcat. Score: 264, Comments: 110.
+Hacker News story by armcat. Score: 311, Comments: 134.
 Original Link: https://openai.com/index/openai-models-google-cloud/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: armcat
-- Score: 264 Upvotes
-- Comments: 110 Discussions
+- Score: 311 Upvotes
+- Comments: 134 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50180079
 - Original Article: https://openai.com/index/openai-models-google-cloud
 

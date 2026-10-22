@@ -36670,15 +36670,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Chain of Thought for Humans](../ai/community/chain-of-thought-for-humans.md)
-  - [Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages](../ai/community/clockwork-mechanics-maintenance-and-metaphors-in-t.md)
   - [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](../ai/community/compromised-litellm-1-107-0-on-pypi-installs-a-cre.md)
-  - [LLM agents play Pokemon showdown](../ai/community/llm-agents-play-pokemon-showdown.md)
-  - [Launch HN: Alter (YC S25) – Access control for multi-user agents](../ai/community/launch-hn-alter-yc-s25-access-control-for-multi-us.md)
+  - [Jailbreaking the Switch 2](../ai/community/jailbreaking-the-switch-2.md)
+  - [OpenAI CLI](../ai/community/openai-openai-cli.md)
   - [OpenAI models are coming to Google Cloud](../ai/community/openai-models-are-coming-to-google-cloud.md)
-  - [Patch the Planet: global response coordination as agents uncover vulnerabilities](../ai/community/patch-the-planet-global-response-coordination-as-a.md)
-  - [Show HN: Omnara – Open-source alternative to Claude Managed Agents](../ai/community/omnara-ai-omnara.md)
+  - [Several Linux kernel vulnerabilities accidentally posted to public mailing list](../ai/community/several-linux-kernel-vulnerabilities-accidentally.md)
+  - [The painter behind Manhattan’s Gilded Age interiors](../ai/community/the-painter-behind-manhattans-gilded-age-interiors.md)
   - [Using LLM for confidence scoring is a bad idea](../ai/community/using-llm-for-confidence-scoring-is-a-bad-idea.md)
+  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -36714,7 +36713,6 @@ Resources organized by publisher feed and query sources.
   - [AI for Food Allergies](../ai/models/huggingface-blog-hugging-science-ai-for-food-allergies.md)
   - [AI for Game Development: Creating a Farming Game in 5 Days. Part 1](../ai/models/huggingface-blog-ml-for-games-1.md)
   - [AI for Game Development: Creating a Farming Game in 5 Days. Part 2](../ai/models/huggingface-blog-ml-for-games-2.md)
-  - [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](../ai/models/huggingface-blog-ibm-research-altk-evolve-bc.md)
   - [AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU](../ai/models/huggingface-blog-huggingface-and-optimum-amd.md)
   - [AMD Pervasive AI Developer Contest!](../ai/models/huggingface-blog-amd-pervasive-developer-ai-contest.md)
   - [Accelerate 1.0.0](../ai/models/huggingface-blog-accelerate-v1.md)
@@ -36890,6 +36888,7 @@ Resources organized by publisher feed and query sources.
   - [Efficient MultiModal Data Pipeline](../ai/models/huggingface-blog-mmdp.md)
   - [Efficient Request Queueing – Optimizing LLM Performance](../ai/models/huggingface-blog-tngtech-llm-performance-request-queueing.md)
   - [Efficient Table Pre-training without Real Data: An Introduction to TAPEX](../ai/models/huggingface-blog-tapex.md)
+  - [Ensemble forecasting with IBM Granite time-series models](../ai/models/huggingface-blog-ibm-research-granite-timeseries-ensemble-r1.md)
   - [Ethical Guidelines for developing the Diffusers library](../ai/models/huggingface-blog-ethics-diffusers.md)
   - [Ethics and Society Newsletter #1](../ai/models/huggingface-blog-ethics-soc-1.md)
   - [Ethics and Society Newsletter #3: Ethical Openness at Hugging Face](../ai/models/huggingface-blog-ethics-soc-3.md)
@@ -40574,4 +40573,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-22T10:50:50.011622+05:30*
+*Index generated on 2026-10-22T19:42:48.196968+05:30*

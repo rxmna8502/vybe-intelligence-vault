@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-10-21T01:36:01.326825+05:30'
-published_at: '2026-10-14T02:52:29Z'
+collected_at: '2026-10-22T19:27:00.371744+05:30'
+published_at: '2026-10-22T00:33:25Z'
 tags:
 - github-repo
 - html
@@ -15,11 +15,11 @@ language: HTML
 status: active
 archived: false
 created_at: '2025-02-06T11:16:38Z'
-pushed_at: '2026-10-14T02:52:25Z'
+pushed_at: '2026-10-22T00:33:21Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-10-21T01:36:01.326825+05:30'
-last_seen: '2026-10-21T01:36:01.326825+05:30'
-last_checked: '2026-10-21T01:36:01.326825+05:30'
+first_seen: '2026-10-22T19:27:00.371744+05:30'
+last_seen: '2026-10-22T19:27:00.371744+05:30'
+last_checked: '2026-10-22T19:27:00.371744+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,8 @@ health_score: 100
 
 ## Summary
 
-*   Distributes a Ragnarok Online Pre-Renewal game pack, targeting offline play.
+*   Pre-Renewal Ragnarok Online client/server distribution pack.
+*   Targets `openkore` botting client and `r
 
 ## Why It Matters
 
@@ -40,10 +41,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 10
 - Language: HTML
 - Topics: openkore, ragnarok, ragnarokoffline, ragnarokonline, rathena
-- Last Updated: 2026-10-14T02:52:29Z
+- Last Updated: 2026-10-22T00:33:25Z
 - Archived: No
 - Created At: 2025-02-06T11:16:38Z
-- Pushed At: 2026-10-14T02:52:25Z
+- Pushed At: 2026-10-22T00:33:21Z
 
 ## Possible Use Cases
 

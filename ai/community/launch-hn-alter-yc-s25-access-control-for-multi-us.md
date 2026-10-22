@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-alter-yc-s25-access-control-for-multi-us
 first_seen: '2026-10-22T01:48:29.629847+05:30'
 last_seen: '2026-10-22T10:31:53.689713+05:30'
 last_checked: '2026-10-22T10:31:53.689713+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Alter (YC S25) – Access control for multi-user agents
 

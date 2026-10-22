@@ -14,13 +14,14 @@ tags:
 - agents
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: github:omnara-ai/omnara
 first_seen: '2026-10-22T05:00:01.933079+05:30'
 last_seen: '2026-10-22T10:31:51.637617+05:30'
 last_checked: '2026-10-22T10:31:51.637617+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Omnara – Open-source alternative to Claude Managed Agents
 

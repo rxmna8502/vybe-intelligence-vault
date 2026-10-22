@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llm-agents-play-pokemon-showdown
 first_seen: '2026-10-22T10:31:51.482796+05:30'
 last_seen: '2026-10-22T10:31:51.482796+05:30'
 last_checked: '2026-10-22T10:31:51.482796+05:30'
 health_score: 100
 ---
+
 
 # LLM agents play Pokemon showdown
 
