@@ -10,11 +10,11 @@ Streaming JSON rendering, message bubble styles, typing animations, layout state
 React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
-*   [Docker Scout | Docker Docs](https://docs.docker.com/scout/)
-*   [Troubleshoot video removals - YouTube Help](https://support.google.com/youtube/answer/6395024)
-*   [Guide to Using RASS & PI Dashboard | Documentation & Training](https://guide.rass.cornell.edu/)
-*   [Chrome Extensions | Chrome for Developers](https://developer.chrome.com/docs/extensions)
-*   [GitHub - algolia/firestore-algolia-search at 36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe · GitHub](https://github.com/algolia/firestore-algolia-search/tree/36c6ebd00e6a2b43cdc6103ee2f54a5a0d8c56fe)
+*   [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
+*   [GitHub - tailwindlabs/tailwindcss-typography: Beautiful typographic defaults for HTML you don't control. · GitHub](https://tailwindcss.com/docs/typography-plugin)
+*   [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
+*   [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui)
+*   [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

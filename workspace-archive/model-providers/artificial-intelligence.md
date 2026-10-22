@@ -2,7 +2,7 @@
 title: Artificial intelligence
 archive_category: model-providers
 source_category: ai/companies
-source_url: https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research
+source_url: https://microsoft.com/en-us/research/research-area/artificial-intelligence
 resource_id: blog:artificial-intelligence
 local_vault_path: ai/companies/artificial-intelligence.md
 quality_score: 70
@@ -39,7 +39,7 @@ Recent update from Microsoft Research Blog Blog: Artificial intelligence
 
 ## Source
 
-Original source URL: https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research
+Original source URL: https://microsoft.com/en-us/research/research-area/artificial-intelligence
 
 ## Local Vault File
 

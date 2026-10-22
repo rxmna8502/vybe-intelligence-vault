@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:using-thousands-of-ai-agents-to-uncover-new-leads
 first_seen: '2026-10-22T01:48:29.005692+05:30'
 last_seen: '2026-10-22T05:00:00.877803+05:30'
 last_checked: '2026-10-22T05:00:00.877803+05:30'
 health_score: 100
 ---
+
 
 # Using thousands of AI agents to uncover new leads in biological data
 

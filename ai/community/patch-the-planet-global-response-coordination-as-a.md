@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
 hn_url: https://news.ycombinator.com/item?id=50181175
-score: 221
+score: 245
 author: nr378
-comments_count: 144
+comments_count: 165
 published_at: '2026-10-21T19:33:43+05:30'
-collected_at: '2026-10-22T04:59:59.367574+05:30'
+collected_at: '2026-10-22T10:31:53.069963+05:30'
 tags:
 - agents
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:patch-the-planet-global-response-coordination-as-a
 first_seen: '2026-10-22T01:48:27.911702+05:30'
-last_seen: '2026-10-22T04:59:59.367574+05:30'
-last_checked: '2026-10-22T04:59:59.367574+05:30'
+last_seen: '2026-10-22T10:31:53.069963+05:30'
+last_checked: '2026-10-22T10:31:53.069963+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by nr378. Score: 221, Comments: 144.
+Hacker News story by nr378. Score: 245, Comments: 165.
 Original Link: https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: nr378
-- Score: 221 Upvotes
-- Comments: 144 Discussions
+- Score: 245 Upvotes
+- Comments: 165 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50181175
 - Original Article: https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
 
