@@ -1,46 +1,46 @@
 ---
-title: "Amalleheavy908/mcprobe"
+title: "tamish560/mcprobe"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Go", "CLI", "SARIF", "Windows"]
-quality_score: 7
+tech_stack: ["Go", "MCP (Model Context Protocol)", "JSON-RPC", "CLI"]
+quality_score: 9
 rag_relevance: 8
 deployment_complexity: "Low"
-tags: ["MCP security", "prompt injection", "tool shadowing", "audit", "DevSecOps"]
-source: "https://github.com/Amalleheavy908/mcprobe"
+tags: ["MCP security", "prompt injection detection", "tool shadowing", "drift detection", "MCP introspection"]
+source: "https://github.com/tamish560/mcprobe"
 stars: 0
 language: "Go"
-last_updated: "2026-07-19T07:15:30Z"
-discovered_at: "2026-07-19T07:29:49Z"
+last_updated: "2026-07-15T08:03:30Z"
+discovered_at: "2026-07-15T08:06:03Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-mcprobe is a security-focused CLI tool designed to audit and secure Model Context Protocol (MCP) servers by detecting injection patterns, tool shadowing, and configuration drift. It operates as a standalone executable for Windows, requiring no additional dependencies.
+mcprobe is a security scanner and introspection tool for MCP (Model Context Protocol) servers, designed to detect prompt injection patterns, tool shadowing, path traversal, and drift in server capabilities. It enables pre-integration security checks to prevent malicious or compromised MCP servers from manipulating AI agents.
 
 ## Key Features
-- Scans MCP servers for injection patterns and unauthorized command execution risks
-- Detects tool shadowing conflicts where duplicate tool names may cause system confusion
-- Creates and compares baselines to identify unauthorized configuration changes over time
-- Generates standardized reports (e.g., SARIF) for integration with security dashboards
-- Operates as a single standalone executable with no external dependencies
+- Detects 18+ prompt injection patterns in tool/prompt/resource descriptions
+- Identifies tool shadowing vulnerabilities across multiple MCP servers
+- Baseline snapshots and drift detection to catch rug-pull attacks
+- Path traversal detection in resource URIs
+- Supports multiple output formats (text, JSON, SARIF) for CI integration
 
 ## Why It Matters for RAG Builders
-mcprobe is essential for RAG builders to ensure MCP server security by proactively identifying vulnerabilities that could compromise data integrity or expose systems to injection attacks.
+It provides critical security checks for MCP servers to prevent malicious manipulation of AI agents before integration, addressing vulnerabilities like prompt injection and tool shadowing.
 
 ## Tech Stack Deep Dive
 ### Go
 Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JSON-RPC
+Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### CLI
 Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SARIF
-Automated review identified **SARIF** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Windows
-Automated review identified **Windows** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

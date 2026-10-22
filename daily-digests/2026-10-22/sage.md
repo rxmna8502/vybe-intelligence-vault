@@ -1,58 +1,64 @@
 ---
-title: "shariqazeem/sage"
+title: "avase33/sage"
 content_type: "repo"
 engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Starknet", "Cairo (smart contracts)", "TypeScript", "GOAT Network", "STRK20 token", "Poseidon hash function", "Telegram Bot API", "Web3.js / Starknet.js"]
+category: "Agent Framework"
+tech_stack: ["Python", "FastAPI", "SQLite", "Streaming SSE", "Retrieval-Augmented Generation (RAG)", "Mock LLM Provider", "Anthropic API", "OpenAI API", "Hashing Vectorizer", "HTML/CSS/JS (Single-file UI)"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: "High"
-tags: ["autonomous payments", "AI agent", "on-chain budget", "privacy-preserving payouts", "smart contract escrow"]
-source: "https://github.com/shariqazeem/sage"
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["self-hosted", "RAG", "agent framework", "tool-use", "offline-first"]
+source: "https://github.com/avase33/sage"
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T02:50:01Z"
-discovered_at: "2026-09-01T02:50:56Z"
+language: "Python"
+last_updated: "2026-07-16T18:04:51Z"
+discovered_at: "2026-07-16T18:05:34Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Sage is an autonomous AI agent that tests products with real users, designs testing missions, judges submissions, and pays participants in USDC without human intervention. It operates within a strict on-chain budget and ensures privacy by decoupling payout decisions from recipient identities.
+Sage is a self-hosted, full-stack personal AI assistant with streaming chat, tool use, long-term memory, and document RAG capabilities. It runs offline by default but can integrate with external LLM providers for enhanced functionality.
 
 ## Key Features
-- Fully autonomous testing and payout pipeline with no human approval steps after initial setup
-- Privacy-preserving payouts using Poseidon commitments and shielded notes on Starknet
-- On-chain budget enforcement via Cairo smart contracts (SageVault, SageClaims)
-- Real-time product inspection and mission generation using AI agents
-- Transparent yet unlinkable payout receipts with public transaction proofs
+- Streaming chat with Server-Sent Events (SSE) for real-time responses
+- Tool-use agent loop with pluggable tools (calculator, clock, custom tools)
+- Document RAG with source citation and cosine similarity retrieval
+- Long-term memory with SQLite persistence and automatic summarization
+- Pluggable LLM and embeddings providers (mock, Anthropic, OpenAI)
 
 ## Why It Matters for RAG Builders
-Sage demonstrates how AI agents can autonomously execute complex workflows—including financial transactions—while preserving privacy and adhering to strict on-chain constraints, setting a benchmark for trustless automation in AI systems.
+Sage provides a complete, offline-capable framework for building RAG-powered AI agents with tool-use and memory, making it essential for developers seeking self-hosted, customizable AI solutions.
 
 ## Tech Stack Deep Dive
-### Starknet
-Automated review identified **Starknet** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cairo (smart contracts)
-Automated review identified **Cairo (smart contracts)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GOAT Network
-Automated review identified **GOAT Network** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Streaming SSE
+Automated review identified **Streaming SSE** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### STRK20 token
-Automated review identified **STRK20 token** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Retrieval-Augmented Generation (RAG)
+Automated review identified **Retrieval-Augmented Generation (RAG)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Poseidon hash function
-Automated review identified **Poseidon hash function** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Mock LLM Provider
+Automated review identified **Mock LLM Provider** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Telegram Bot API
-Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Anthropic API
+Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Web3.js / Starknet.js
-Automated review identified **Web3.js / Starknet.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenAI API
+Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Hashing Vectorizer
+Automated review identified **Hashing Vectorizer** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HTML/CSS/JS (Single-file UI)
+Automated review identified **HTML/CSS/JS (Single-file UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,49 +1,61 @@
 ---
-title: "tools-for-agents/anvil"
+title: "worka-ai/anvil"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["Docker", "Node.js", "TypeScript", "MCP (Model Context Protocol)", "SQLite (for run logging)"]
+category: "Vector DB"
+tech_stack: ["Rust", "gRPC", "Docker", "mTLS", "Zanzibar", "Erasure Coding", "SQLite", "JWT", "Protobuf"]
 quality_score: 9
-rag_relevance: 9
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["sandbox", "docker", "agent-tools", "isolation", "MCP"]
-source: "https://github.com/tools-for-agents/anvil"
-stars: 0
-language: "HTML"
-last_updated: "2026-07-12T10:10:26Z"
-discovered_at: "2026-07-12T10:26:45Z"
+tags: ["distributed storage", "object storage", "Zanzibar authorization", "materialized indexes", "atomic programs"]
+source: "https://github.com/worka-ai/anvil"
+stars: 77
+language: "Rust"
+last_updated: "2026-08-09T16:16:00Z"
+discovered_at: "2026-08-09T16:38:39Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Anvil provides a secure, isolated Docker sandbox for agents to execute code or shell commands in resource-limited, network-isolated containers, returning structured results like stdout, stderr, exit codes, and execution metrics. It includes a CLI, a web dashboard for run history, and an MCP server for agent integration.
+Anvil is a distributed object storage system designed for application state management, offering stable path-based storage with advanced coordination primitives like streaming writes, compare-and-swap, Zanzibar authorization, and materialized search indexes. It supports scalable, heterogeneous clusters with weighted placement and erasure coding for durability.
 
 ## Key Features
-- Secure, ephemeral Docker containers with network isolation and resource limits
-- Structured output including stdout, stderr, exit codes, and execution metrics
-- CLI and web dashboard for run history, comparison, and management
-- MCP server for seamless agent integration
-- Zero npm dependencies, driving Docker CLI directly
+- Distributed object storage with stable paths and streaming writes
+- Zanzibar-based authorization for fine-grained access control
+- Materialized search indexes supporting vector, full-text, and hybrid queries
+- Atomic programs for deterministic multi-path state transitions without transactions
+- Heterogeneous cluster scaling with capacity-weighted rendezvous hashing and erasure coding
 
 ## Why It Matters for RAG Builders
-Anvil enables agents to safely execute untrusted code in isolated environments, reducing security risks while providing verifiable, reproducible results essential for RAG and AI workflows.
+Anvil provides a robust, scalable foundation for RAG systems requiring distributed state management, advanced indexing, and fine-grained authorization, reducing infrastructure complexity while ensuring data consistency and durability.
 
 ## Tech Stack Deep Dive
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### gRPC
+Automated review identified **gRPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### mTLS
+Automated review identified **mTLS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Zanzibar
+Automated review identified **Zanzibar** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Erasure Coding
+Automated review identified **Erasure Coding** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite (for run logging)
-Automated review identified **SQLite (for run logging)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JWT
+Automated review identified **JWT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Protobuf
+Automated review identified **Protobuf** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

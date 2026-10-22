@@ -1,33 +1,33 @@
 ---
-title: "manaplatform/mana-agent"
+title: "manadevelopment23/mana-agent"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["Python", "CLI", "SQLite", "Playwright", "FastAPI", "Git", "Docker", "TypeScript", "React"]
+tech_stack: ["Python", "CLI", "FastAPI", "Playwright", "FAISS", "Redis", "RQ", "OpenAI API", "Git", "Telegram API", "Gmail API", "Mermaid", "Markdown", "HTML", "DOT", "GraphML"]
 quality_score: 9
-rag_relevance: 8
+rag_relevance: 10
 deployment_complexity: "Medium"
-tags: ["multi-agent systems", "repository automation", "safe coding", "AI-driven development", "CLI tools"]
-source: "https://github.com/manaplatform/mana-agent"
-stars: 4
+tags: ["multi-agent orchestration", "repository intelligence", "safe coding automation", "evidence-backed RAG", "Git operations"]
+source: "https://github.com/manadevelopment23/mana-agent"
+stars: 0
 language: "Python"
-last_updated: "2026-09-03T15:31:09Z"
-discovered_at: "2026-09-03T15:37:50Z"
+last_updated: "2026-07-18T14:43:40Z"
+discovered_at: "2026-07-18T14:50:43Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Mana-Agent is a Python-based CLI and dashboard for repository intelligence, safe multi-agent automation, and repository-level AI-driven coding tasks. It enables evidence-backed chat, multi-agent planning, and secure tool integrations for software development workflows.
+Mana-Agent is a Python-based multi-agent framework that enables repository intelligence, evidence-backed answers, and safe coding automation through a CLI, web dashboard, and remote connectors like Telegram and Gmail. It orchestrates static analysis, semantic retrieval, multi-agent workflows, Git operations, document processing, and browser automation in a traceable, verifiable workflow.
 
 ## Key Features
-- Repository analysis and evidence-backed chat for AI-driven insights
-- Multi-agent planning, coding, review, and verification with safe Git operations
-- Adaptive model routing, repository-scoped memory, and cost/budget tracking
-- Durable execution supervision with checkpoints, recovery, and verified completion
-- Integrations with Gmail, Telegram, MCP, A2A, SSH, and reverse-worker protocols
+- Multi-agent runtime with planner, verifier, reviewer, and tool manager for end-to-end workflows
+- Repository intelligence via static analysis, semantic indexing, and symbol-aware retrieval
+- Safe mutation through explicit plans, constrained tools, reviewable patches, and post-change verification
+- Isolated Git worktrees per task with merge candidates and recovery support
+- Support for documents, browser automation, external search, and remote connectors (Telegram, Gmail)
 
 ## Why It Matters for RAG Builders
-Mana-Agent provides a robust framework for building and deploying multi-agent systems that safely automate repository-level tasks, making it essential for AI engineering teams focused on scalable, secure, and auditable AI-driven development workflows.
+Mana-Agent provides a robust, evidence-driven framework for RAG builders to safely automate repository analysis, coding tasks, and multi-agent workflows with built-in verification and traceability.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -36,26 +36,47 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### CLI
 Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Playwright
 Automated review identified **Playwright** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FAISS
+Automated review identified **FAISS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Redis
+Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### RQ
+Automated review identified **RQ** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI API
+Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Telegram API
+Automated review identified **Telegram API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Gmail API
+Automated review identified **Gmail API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Mermaid
+Automated review identified **Mermaid** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HTML
+Automated review identified **HTML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### DOT
+Automated review identified **DOT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### GraphML
+Automated review identified **GraphML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

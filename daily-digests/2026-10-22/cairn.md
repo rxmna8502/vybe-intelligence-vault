@@ -1,58 +1,58 @@
 ---
-title: "zilet/cairn"
+title: "Vellixia/Cairn"
 content_type: "repo"
 engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLite", "Docker", "PWA (Progressive Web App)", "MCP (Model Context Protocol) Server", "REST API", "GitHub Actions (CI/CD)"]
+category: "Orchestrator"
+tech_stack: ["Rust", "SQLite", "PostgreSQL", "Axum", "Next.js", "Docker", "Git", "MCP (Model Context Protocol)"]
 quality_score: 9
-rag_relevance: 7
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["self-hosted", "health-coach", "AI-driven", "MCP-server", "wellness-tracking"]
-source: "https://github.com/zilet/cairn"
-stars: 5
-language: "TypeScript"
-last_updated: "2026-08-08T08:36:56Z"
-discovered_at: "2026-08-08T08:42:34Z"
+tags: ["agent memory", "context persistence", "AI coding assistants", "local-first", "multi-session sync"]
+source: "https://github.com/Vellixia/Cairn"
+stars: 0
+language: "Rust"
+last_updated: "2026-08-09T08:35:05Z"
+discovered_at: "2026-08-09T08:45:20Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Cairn is a self-hosted wellness operating system that integrates health data (labs, fitness, sleep, nutrition) into a unified AI-driven coach. It provides adaptive suggestions, cross-domain directives, and a PWA with an MCP server for agent-native interactions, all while prioritizing user privacy and data ownership via SQLite.
+Cairn provides persistent, project-aware memory for AI coding agents, enabling sessions to resume work without restarting from scratch by capturing structured facts, decisions, and context from previous interactions.
 
 ## Key Features
-- Unified health data integration (labs, fitness, sleep, nutrition) with a connected AI brain
-- Adaptive coaching with plain-language suggestions and cross-domain directives
-- Agent-native architecture with a 253-tool MCP server for programmatic access
-- Privacy-first design with SQLite storage and no external scoring/nudging
-- Multi-platform deployment (Docker, local Node, Raspberry Pi, mobile PWA)
+- Project-aware memory that persists across sessions and devices
+- Structured fact capture and scoped memory (project, branch, task, session)
+- Local-first architecture with optional team sharing via PostgreSQL and web UI
+- Privacy-first design with automatic redaction of secrets and no unbounded data capture
+- Integration with AI coding agents (e.g., Claude Code) via MCP server and hooks
 
 ## Why It Matters for RAG Builders
-Cairn provides a privacy-preserving, agent-ready framework for integrating diverse health data into adaptive AI coaching, making it essential for builders of RAG systems focused on personalized wellness and longevity.
+Cairn eliminates redundant context rebuilding in AI coding sessions by preserving structured memory, significantly improving agent efficiency and continuity for long-running or multi-session tasks.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Axum
+Automated review identified **Axum** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Next.js
+Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PWA (Progressive Web App)
-Automated review identified **PWA (Progressive Web App)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol) Server
-Automated review identified **MCP (Model Context Protocol) Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### GitHub Actions (CI/CD)
-Automated review identified **GitHub Actions (CI/CD)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

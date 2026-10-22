@@ -1,70 +1,67 @@
 ---
-title: "geoffmcc/sidekick"
+title: "jaypetez/sidekick"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["JavaScript", "Node.js", "SQLite", "PostgreSQL", "Redis", "Qdrant", "InfluxDB", "Grafana", "Docker", "Systemd", "SSH", "MCP (Model Context Protocol)"]
+tech_stack: ["Python", "FastAPI", "Telegram Bot API", "Slack API", "SQLite", "APScheduler", "Ollama", "Anthropic API", "Chronary.ai", "Docker", "Playwright"]
 quality_score: 9
-rag_relevance: 9
-deployment_complexity: "High"
-tags: ["autonomous agents", "persistent memory", "MCP tools", "self-hosted", "remote execution"]
-source: "https://github.com/geoffmcc/sidekick"
-stars: 2
-language: "JavaScript"
-last_updated: "2026-07-15T20:01:47Z"
-discovered_at: "2026-07-15T20:08:00Z"
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["AI assistant", "multi-platform chat", "self-hosted", "calendar integration", "task management"]
+source: "https://github.com/jaypetez/sidekick"
+stars: 0
+language: "Python"
+last_updated: "2026-07-14T16:03:12Z"
+discovered_at: "2026-07-14T16:14:09Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Sidekick is a self-hosted autonomous AI agent platform that provides persistent memory, 96 built-in MCP tools, and a knowledge base. It enables remote execution, autonomous task planning, and self-extension capabilities, running on a user's remote machine without requiring code changes.
+Sidekick is a self-hosted AI assistant that integrates calendar management, task lists, and reminders across multiple chat platforms like Telegram, Slack, and a web UI. It supports both cloud-based LLMs (e.g., Anthropic Claude) and local models (e.g., Ollama), enabling flexible deployment options.
 
 ## Key Features
-- 96 built-in specialized MCP tools for remote execution, GitHub integration, database operations, and more
-- Persistent memory and knowledge base with SQLite-backed KV storage for cross-session recall
-- Agent Bridge for autonomous multi-step task execution and planning without manual intervention
-- Self-extension capabilities via `sidekick_evolve` to generate new tools from repeated workflows
-- Comprehensive metrics, monitoring, and security-first design with automated redaction of sensitive data
+- Multi-platform chat support (Telegram, Slack, Web UI) with a unified agent backend
+- Calendar management via Chronary.ai with local SQLite fallback for tasks
+- Local LLM support (Ollama) alongside cloud-based models (Anthropic Claude)
+- Recurring reminders, pre-event alerts, and daily morning summaries
+- Modular architecture with abstract base classes for easy provider swapping
 
 ## Why It Matters for RAG Builders
-Sidekick provides a robust, self-hosted infrastructure for building and deploying autonomous AI agents with persistent memory and extensible tooling, reducing reliance on third-party services and enabling customizable workflows.
+Sidekick provides a flexible, self-hostable AI agent framework that simplifies integrating calendar, task, and reminder systems into RAG pipelines with minimal setup overhead.
 
 ## Tech Stack Deep Dive
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Telegram Bot API
+Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Slack API
+Automated review identified **Slack API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### APScheduler
+Automated review identified **APScheduler** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Redis
-Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Qdrant
-Automated review identified **Qdrant** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Anthropic API
+Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### InfluxDB
-Automated review identified **InfluxDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Grafana
-Automated review identified **Grafana** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Chronary.ai
+Automated review identified **Chronary.ai** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Systemd
-Automated review identified **Systemd** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SSH
-Automated review identified **SSH** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Playwright
+Automated review identified **Playwright** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

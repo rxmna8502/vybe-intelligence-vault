@@ -1,49 +1,52 @@
 ---
-title: "craaft/skill"
+title: "extensiondev/skill"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "API Integration", "OpenAPI", "Bearer Authentication", "Python SDK"]
-quality_score: 8
-rag_relevance: 7
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Markdown", "npm", "Agent Skills Framework", "MCP (Model Context Protocol)", "CI/CD (GitHub Actions)"]
+quality_score: 9
+rag_relevance: 8
 deployment_complexity: "Low"
-tags: ["Claude Code", "Kanban API", "API Integration", "LLM Tooling", "Automation"]
-source: "https://github.com/craaft/skill"
-stars: 1
-language: "None"
-last_updated: "2026-07-19T07:19:28Z"
-discovered_at: "2026-07-19T07:29:35Z"
+tags: ["browser extensions", "AI agents", "cross-browser development", "MCP tools", "debugging automation"]
+source: "https://github.com/extensiondev/skill"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-07-17T18:02:09Z"
+discovered_at: "2026-07-17T18:05:09Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Claude Code Skill that enables the LLM to interact with the Craaft Kanban JSON API by providing authentication guidance, error handling, API surface knowledge, and common pitfalls, ensuring accurate API calls for tasks like card management and board operations.
+A specialized Agent Skill for AI coding agents that enables them to build, debug, and publish cross-browser extensions for Chrome, Edge, Firefox, Safari, and other Chromium- or Gecko-based browsers using the open Agent Skills format.
 
 ## Key Features
-- Provides bearer authentication guidance for the Craaft API
-- Documents error codes, rate limits, and recovery strategies
-- Covers the full `/api/v1/` surface including projects, cards, comments, and attachments
-- Includes working `curl` examples and Python SDK integration
-- Highlights common API traps and edge cases to avoid
+- Provides structured guidance for AI agents to build cross-browser extensions with a single codebase
+- Integrates with MCP servers for live browser inspection, debugging, and publishing
+- Includes progressive-disclosure references for modular learning (templates, project structure, API gotchas)
+- Enforces accuracy through verified framework facts and test suites against Extension.js
+- Supports multiple AI agents (Claude Code, Cursor, GitHub Copilot, etc.) via open Agent Skills format
 
 ## Why It Matters for RAG Builders
-It ensures LLMs like Claude can reliably and correctly interact with the Craaft Kanban API, reducing errors and improving automation for project management tasks.
+It enables AI agents to reliably build and debug cross-browser extensions, reducing manual effort and improving accuracy in extension development workflows.
 
 ## Tech Stack Deep Dive
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### API Integration
-Automated review identified **API Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAPI
-Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bearer Authentication
-Automated review identified **Bearer Authentication** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Agent Skills Framework
+Automated review identified **Agent Skills Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Python SDK
-Automated review identified **Python SDK** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CI/CD (GitHub Actions)
+Automated review identified **CI/CD (GitHub Actions)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

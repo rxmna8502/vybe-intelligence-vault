@@ -1,49 +1,49 @@
 ---
-title: "mnemodoc/homebrew-tap"
+title: "everyapi-ai/homebrew-tap"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Homebrew", "Crystal", "MCP (Model Context Protocol)", "Ollama", "Python"]
-quality_score: 5
-rag_relevance: 7
+tech_stack: ["Homebrew", "Ruby", "Go", "CLI", "MCP Server"]
+quality_score: 6
+rag_relevance: 5
 deployment_complexity: "Low"
-tags: ["Homebrew", "MCP server", "documentation indexing", "RAG tools", "CLI utilities"]
-source: "https://github.com/mnemodoc/homebrew-tap"
+tags: ["Homebrew", "CLI", "EveryAPI", "MCP", "AI Routing"]
+source: "https://github.com/everyapi-ai/homebrew-tap"
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T21:32:07Z"
-discovered_at: "2026-08-07T21:41:22Z"
+language: "Ruby"
+last_updated: "2026-07-12T08:14:12Z"
+discovered_at: "2026-07-12T08:15:38Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Homebrew tap repository providing CLI tools for mnemodoc, including a Crystal-based MCP server that indexes documentation using Ollama embeddings for RAG workflows.
+A Homebrew tap providing a CLI tool for EveryAPI, enabling users to route third-party AI tools like Claude Code, Codex, or Gemini CLI through EveryAPI's infrastructure. The repository auto-generates Homebrew formulas for cross-platform installation.
 
 ## Key Features
-- Provides a Homebrew tap for easy installation of mnemodoc tools
-- Includes a Crystal MCP server for indexing documentation via Ollama embeddings
-- Simplifies integration of documentation into RAG pipelines
-- Supports local embedding generation for offline use
-- Designed for seamless CLI-based workflows
+- Auto-generates Homebrew formulas for cross-platform installation (Linux, macOS, Windows)
+- Simplifies routing of third-party AI tools through EveryAPI with a single command
+- Includes an MCP server bundled in the same binary for seamless integration
+- Pure-Go binary with no runtime dependencies for lightweight deployment
+- Auto-updates on every release to ensure formula consistency
 
 ## Why It Matters for RAG Builders
-It streamlines the installation and integration of mnemodoc's MCP server, enabling developers to quickly set up documentation indexing for RAG applications.
+It simplifies the installation and configuration of EveryAPI's CLI and MCP server, making it easier for RAG builders to integrate EveryAPI's routing capabilities into their workflows.
 
 ## Tech Stack Deep Dive
 ### Homebrew
 Automated review identified **Homebrew** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Crystal
-Automated review identified **Crystal** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ruby
+Automated review identified **Ruby** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama
-Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP Server
+Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

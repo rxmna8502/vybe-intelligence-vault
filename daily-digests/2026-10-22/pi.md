@@ -1,88 +1,61 @@
 ---
-title: "TGYD-helige/pi"
+title: "xchang1121/pi"
 content_type: "repo"
 engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "Prisma", "MySQL", "JSON", "ESM", "npm", "Langfuse", "OpenTelemetry", "MCP", "Feishu", "WeCom", "DingTalk", "Chrome DevTools", "OpenAI", "Google Nano Banana", "Alibaba Qwen-Image", "OpenRouter"]
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent runtime", "modular extensions", "persistence adapters", "workspace integrations", "LLM tooling"]
-source: "https://github.com/TGYD-helige/pi"
-stars: 32
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Rust", "Linux Namespaces", "Landlock", "Seccomp", "Git", "FUSE", "Node.js", "npm"]
+quality_score: 8
+rag_relevance: 9
+deployment_complexity: "High"
+tags: ["speculative execution", "tool orchestration", "isolation policies", "AI agent framework", "process sandboxing"]
+source: "https://github.com/xchang1121/pi"
+stars: 0
 language: "TypeScript"
-last_updated: "2026-07-16T02:14:49Z"
-discovered_at: "2026-07-16T02:25:55Z"
+last_updated: "2026-09-01T15:53:54Z"
+discovered_at: "2026-09-01T15:54:40Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A modular TypeScript runtime framework providing shared contracts, persistence adapters, and pluggable extensions for building AI agent applications. Host applications integrate these packages to enable features like workspace integrations, automation, memory, telemetry, and security policies.
+This repository provides a standalone speculative execution layer for the Pi AI agent framework, enabling tool call prediction and safe execution routing without modifying Pi's core. It introduces Drafter and PatternAware for planning, canonicalizes actions for validation, and enforces strict isolation policies via execution worlds and effect transactions.
 
 ## Key Features
-- Shared TypeScript contracts and runtime types for consistent agent behavior
-- Pluggable extensions for browser automation, computer-use, and image generation
-- Multi-provider workspace integrations (Feishu, WeCom, DingTalk)
-- Persistent memory management with curated snapshots for context retention
-- Telemetry and security policy engines for observability and control
+- Predictive tool execution with Drafter and PatternAware for planning future actions
+- Strict isolation via layered execution worlds (runtime_sandbox, resource_snapshot, workspace_branch, Actor fallback)
+- Canonical action identity (K(a)) for validation and lossless projection of tool semantics
+- Provenance certificates for dynamic dependency validation and reuse of results
+- Platform-aware policy enforcement with automatic fallback to safer routes on unsupported systems
 
 ## Why It Matters for RAG Builders
-It provides a composable foundation for building AI agents with pre-built extensions for common tasks, reducing development time and ensuring consistency across deployments.
+It enables AI agents to safely predict and execute tool calls with rigorous isolation and provenance tracking, reducing latency and improving reliability in RAG pipelines.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Linux Namespaces
+Automated review identified **Linux Namespaces** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Landlock
+Automated review identified **Landlock** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Seccomp
+Automated review identified **Seccomp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FUSE
+Automated review identified **FUSE** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Prisma
-Automated review identified **Prisma** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MySQL
-Automated review identified **MySQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### ESM
-Automated review identified **ESM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### npm
 Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Langfuse
-Automated review identified **Langfuse** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenTelemetry
-Automated review identified **OpenTelemetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP
-Automated review identified **MCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Feishu
-Automated review identified **Feishu** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### WeCom
-Automated review identified **WeCom** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### DingTalk
-Automated review identified **DingTalk** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Chrome DevTools
-Automated review identified **Chrome DevTools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI
-Automated review identified **OpenAI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Google Nano Banana
-Automated review identified **Google Nano Banana** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Alibaba Qwen-Image
-Automated review identified **Alibaba Qwen-Image** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenRouter
-Automated review identified **OpenRouter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

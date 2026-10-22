@@ -1,55 +1,58 @@
 ---
-title: "open-latch/latch"
+title: "joergensentroels/Latch"
 content_type: "repo"
 engine: "v2"
 category: "Orchestrator"
-tech_stack: ["Python", "SQLite", "Claude Code", "Codex", "Cursor", "Git", "Bash/PowerShell"]
-quality_score: 9
-rag_relevance: 8
+tech_stack: ["Node.js", "PowerShell", "Tailscale", "TypeScript", "GitHub API", "MCP (Model Context Protocol)", "Ollama", "OpenAI-compatible APIs"]
+quality_score: 8
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["decision enforcement", "agent gatekeeping", "local-first", "knowledge base", "project continuity"]
-source: "https://github.com/open-latch/latch"
-stars: 9
-language: "Python"
-last_updated: "2026-08-01T16:02:36Z"
-discovered_at: "2026-08-01T16:06:56Z"
+tags: ["AI agent orchestration", "approval-gated operations", "private infrastructure", "secure task execution", "multi-tier agent autonomy"]
+source: "https://github.com/joergensentroels/Latch"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-08-01T08:58:54Z"
+discovered_at: "2026-08-01T09:06:23Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Latch is a local-first runtime gate that enforces ratified project decisions and rejected paths for AI agents, preventing them from revisiting or rebuilding previously dismissed solutions. It ensures decision continuity by checking agent actions against a knowledge base before any file changes occur.
+Latch is a private infrastructure layer designed to enable secure, approval-gated AI agent operations with Compass, a companion app for managing tasks, context, and approvals. It provides routing, keys, bridges, nodes, and worker trust boundaries while ensuring credentials remain on trusted hosts.
 
 ## Key Features
-- Runtime gate that checks agent actions against ratified decisions before file changes
-- Local SQLite knowledge base for storing project decisions and rejected paths
-- Cross-agent compatibility (Claude Code, Codex, Cursor) with shared decision continuity
-- Receipt-based auditing with cited evidence for every gate decision
-- Review-first seeding process to backfill existing project decisions
+- Approval-gated task execution with bounded operations to mitigate risk
+- Secure credential management with worker isolation (no credentials on workers)
+- Multi-tier product structure (Chat-only, Simple, Pro/self-hosted, and future hosted)
+- Integration with GitHub for file commits and repository creation without exposing tokens
+- Planned Latch Network for community-based compute sharing (not yet implemented)
 
 ## Why It Matters for RAG Builders
-Latch ensures AI agents adhere to project-specific decisions and constraints, reducing redundant work and preventing silent drift from ratified paths, which is critical for maintaining consistency in RAG and agent-based systems.
+Latch provides a critical security and governance layer for AI agent orchestration, ensuring safe, approval-gated operations while maintaining credential privacy and operational continuity.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PowerShell
+Automated review identified **PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tailscale
+Automated review identified **Tailscale** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Codex
-Automated review identified **Codex** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cursor
-Automated review identified **Cursor** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GitHub API
+Automated review identified **GitHub API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bash/PowerShell
-Automated review identified **Bash/PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI-compatible APIs
+Automated review identified **OpenAI-compatible APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

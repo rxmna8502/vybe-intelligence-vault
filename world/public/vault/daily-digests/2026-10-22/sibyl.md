@@ -1,55 +1,52 @@
 ---
-title: "chriswu727/sibyl"
+title: "postapsis/sibyl"
 content_type: "repo"
 engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "LLM providers (DeepSeek, OpenAI, Anthropic, Gemini, GLM)", "Web scraping (Jina Reader, browser automation)", "Search engines (DuckDuckGo, Google News, Reddit, Wikipedia)", "Ranking (lexical, FlashRank, LLM-based)", "PDF/Markdown generation"]
-quality_score: 9
-rag_relevance: 10
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "Docker", "SearXNG", "Crawl4AI", "NPM"]
+quality_score: 8
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["keyless retrieval", "web research", "evidence-based reasoning", "MCP server", "multi-LLM support"]
-source: "https://github.com/chriswu727/sibyl"
-stars: 1
-language: "Python"
-last_updated: "2026-07-14T23:51:44Z"
-discovered_at: "2026-07-14T23:53:26Z"
+tags: ["web search", "content extraction", "local-first", "AI agent integration", "extensible"]
+source: "https://github.com/postapsis/sibyl"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-08-01T13:09:49Z"
+discovered_at: "2026-08-01T13:16:27Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Sibyl is a keyless deep-research agent that retrieves, scrapes, and cleans web content to provide structured evidence for AI models. It operates as an MCP server, CLI, or Python library, enabling both retrieval-only and full research pipeline workflows with multi-LLM provider support.
+Sibyl is a lightweight, local-first toolkit that enables AI agents to perform web search and content extraction without relying on external APIs. It integrates with SearXNG for search and Crawl4AI for fetching webpages, offering extensibility for alternative providers.
 
 ## Key Features
-- Keyless web retrieval and evidence gathering without API keys
-- Structured SourceBundle output with citations, timestamps, and diagnostics
-- Multi-LLM provider support (DeepSeek, OpenAI, Anthropic, etc.)
-- Full research pipeline with claim verification and report generation
-- Offline regression testing for retrieval and ranking pipelines
+- Local-first web search and content fetching without API keys by default
+- Supports multiple search and fetch providers (Exa, Firecrawl, Brightdata, etc.)
+- Lightweight and extensible plugin architecture
+- Integrates with popular AI agents (Claude, Codex, OpenCode, Antigravity)
+- Command-line interface for easy setup and configuration
 
 ## Why It Matters for RAG Builders
-Sibyl provides high-quality, keyless web evidence retrieval and structured reasoning pipelines, enabling AI agents to ground responses in verifiable sources without relying on proprietary APIs.
+Sibyl provides a critical bridge for AI agents to perform real-time web search and content extraction while maintaining privacy and reducing dependency on third-party APIs.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM providers (DeepSeek, OpenAI, Anthropic, Gemini, GLM)
-Automated review identified **LLM providers (DeepSeek, OpenAI, Anthropic, Gemini, GLM)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Web scraping (Jina Reader, browser automation)
-Automated review identified **Web scraping (Jina Reader, browser automation)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SearXNG
+Automated review identified **SearXNG** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Search engines (DuckDuckGo, Google News, Reddit, Wikipedia)
-Automated review identified **Search engines (DuckDuckGo, Google News, Reddit, Wikipedia)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Crawl4AI
+Automated review identified **Crawl4AI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ranking (lexical, FlashRank, LLM-based)
-Automated review identified **Ranking (lexical, FlashRank, LLM-based)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PDF/Markdown generation
-Automated review identified **PDF/Markdown generation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### NPM
+Automated review identified **NPM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

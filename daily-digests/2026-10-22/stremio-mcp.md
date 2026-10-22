@@ -1,49 +1,55 @@
 ---
-title: "YoanWai/stremio-mcp"
+title: "netixc/stremio-mcp"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Python", "MCP (Model Context Protocol)", "ADB (Android Debug Bridge)", "Stremio APIs", "Environment variables"]
-quality_score: 8
+tech_stack: ["Python", "Model Context Protocol (MCP)", "Android Debug Bridge (ADB)", "TMDB API", "Stremio", "uv (dependency manager)", "Async HTTP clients"]
+quality_score: 9
 rag_relevance: 7
 deployment_complexity: "Medium"
-tags: ["MCP server", "Stremio integration", "Android TV control", "media streaming", "remote playback"]
-source: "https://github.com/YoanWai/stremio-mcp"
-stars: 0
+tags: ["MCP server", "Android TV control", "Stremio integration", "TMDB search", "Library management"]
+source: "https://github.com/netixc/stremio-mcp"
+stars: 4
 language: "Python"
-last_updated: "2026-07-18T17:50:59Z"
-discovered_at: "2026-07-18T17:56:26Z"
+last_updated: "2026-07-20T19:40:47Z"
+discovered_at: "2026-07-20T19:53:45Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A unified MCP server for Stremio that integrates two toolsets: addon tools for searching metadata, catalogs, and streams via Stremio's public APIs, and Android TV tools for playback control and remote actions over ADB.
+A Python Model Context Protocol (MCP) server that integrates with Stremio on Android TV, enabling TMDB search, library management, playback control, and device interaction via ADB. It bridges AI workflows with physical media playback and library operations.
 
 ## Key Features
-- Unified MCP server combining Stremio addon tools and Android TV control
-- Search movies/series, fetch metadata, browse catalogs, and list streams via Stremio APIs
-- Remote playback control and navigation on Android TV using ADB
-- Authentication and library management for Stremio accounts
-- Supports configuration via environment variables or .env files
+- Searches TMDB for movies and TV shows, returning IMDb IDs for Stremio playback
+- Opens Stremio content on Android TV via deep links and ADB key events
+- Controls Android TV playback, volume, navigation, and power via native ADB
+- Manages Stremio library (add/remove/list) with explicit IMDb ID validation
+- Provides playback status diagnostics from Android media-session and extractor
 
 ## Why It Matters for RAG Builders
-It enables AI agents to interact with Stremio's ecosystem for media discovery and playback control, bridging the gap between AI-driven applications and user entertainment systems.
+It enables AI systems to interact with physical media devices and user libraries, bridging digital workflows with real-world playback and content management.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### ADB (Android Debug Bridge)
-Automated review identified **ADB (Android Debug Bridge)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Android Debug Bridge (ADB)
+Automated review identified **Android Debug Bridge (ADB)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Stremio APIs
-Automated review identified **Stremio APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TMDB API
+Automated review identified **TMDB API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Environment variables
-Automated review identified **Environment variables** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Stremio
+Automated review identified **Stremio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### uv (dependency manager)
+Automated review identified **uv (dependency manager)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Async HTTP clients
+Automated review identified **Async HTTP clients** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

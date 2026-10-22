@@ -1,33 +1,33 @@
 ---
-title: "xinglun/ai-cockpit-template"
+title: "spirex-ds-dev/ai-cockpit-template"
 content_type: "repo"
 engine: "v2"
 category: "Orchestrator"
-tech_stack: ["Python", "Git", "GNU Make", "POSIX Shell", "YAML", "JSON", "CI/CD"]
+tech_stack: ["Python", "Git", "POSIX Shell", "YAML", "JSON", "CI/CD", "Makefile", "Markdown"]
 quality_score: 9
-rag_relevance: 8
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["AI governance", "evidence-based review", "agentic coding", "workflow automation", "repository integrity"]
-source: "https://github.com/xinglun/ai-cockpit-template"
+tags: ["AI governance", "code review automation", "agentic coding", "evidence-based review", "LLMOps"]
+source: "https://github.com/spirex-ds-dev/ai-cockpit-template"
 stars: 1
 language: "Python"
-last_updated: "2026-07-15T02:11:30Z"
-discovered_at: "2026-07-15T02:12:10Z"
+last_updated: "2026-07-16T12:17:52Z"
+discovered_at: "2026-07-16T12:22:10Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-AI Cockpit is a governance layer for AI-assisted software development that enforces evidence-based review, verification, and auditability of AI-generated changes. It acts as a repository governance boundary for agentic coding tools like Codex, Gemini, and Claude, ensuring calibrated trust between humans and AI agents.
+AI Cockpit is a governance layer for AI-assisted software development that enforces evidence-based review, verification, and auditability of AI-generated changes. It acts as a repository governance boundary to prevent scope drift, unauthorized modifications, and unchecked AI agent actions.
 
 ## Key Features
-- Enforces scope boundaries and verification requirements for AI-generated changes
-- Provides independent validation of changes against declared contracts
-- Generates human-readable summaries and audit trails for AI tasks
-- Supports calibrated trust through evidence governance and policy enforcement
-- Integrates with agentic coding tools (Claude, Codex, Cursor, etc.) without replacing them
+- Scope and boundary enforcement for AI-generated changes to prevent unauthorized file modifications
+- Independent verification of changes against declared contracts and intent
+- Comprehensive audit trails with change summaries, risk assessments, and verification evidence
+- Calibrated trust model enabling human oversight based on reviewable evidence rather than agent confidence
+- Integration with popular AI coding tools (Codex, Gemini, Claude, Cursor, Antigravity) for seamless adoption
 
 ## Why It Matters for RAG Builders
-AI Cockpit ensures AI-generated code changes are bounded, reviewable, and auditable, reducing risks of unchecked modifications and enabling reliable RAG pipelines for AI stack builders.
+AI Cockpit provides a critical governance layer for RAG/AI stack builders by ensuring AI-generated changes are bounded, reviewable, and auditable, reducing risks of scope drift and unauthorized modifications in production environments.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -35,9 +35,6 @@ Automated review identified **Python** as a key module contributing to infrastru
 
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### GNU Make
-Automated review identified **GNU Make** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### POSIX Shell
 Automated review identified **POSIX Shell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -50,6 +47,12 @@ Automated review identified **JSON** as a key module contributing to infrastruct
 
 ### CI/CD
 Automated review identified **CI/CD** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Makefile
+Automated review identified **Makefile** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

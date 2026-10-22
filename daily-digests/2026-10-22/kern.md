@@ -1,64 +1,55 @@
 ---
-title: "esstipi-debug/kern"
+title: "rafaelnicolett/kern"
 content_type: "repo"
 engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "Claude (LLM)", "Mermaid.js", "Pytest", "NumPy", "Pandas", "Matplotlib", "SQLite", "Docker"]
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: "High"
-tags: ["supply-chain AI", "agentic orchestration", "QA-gated automation", "knowledge graph grounding", "safety-staging writeback"]
-source: "https://github.com/esstipi-debug/kern"
-stars: 0
-language: "Python"
-last_updated: "2026-07-18T14:48:19Z"
-discovered_at: "2026-07-18T14:50:34Z"
+category: "Orchestrator"
+tech_stack: ["Rust", "LanceDB", "llama.cpp", "Ollama", "MCP (Model Context Protocol)", "Markdown", "Vector Embeddings"]
+quality_score: 8
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["local-first", "ontology-driven", "MCP-compatible", "incremental RAG", "spec-driven development"]
+source: "https://github.com/rafaelnicolett/kern"
+stars: 1
+language: "Rust"
+last_updated: "2026-08-07T04:45:32Z"
+discovered_at: "2026-08-07T16:57:18Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Kern is an agentic AI engine for supply-chain decision-making that transforms plain-language briefs into QA-gated deliverables like inventory plans, pricing strategies, and leadership profiles. It integrates 41 agent-routable capabilities grounded in a 25-source SCM knowledge graph and enforces safety through never-unprotected guarantees and safe-staging writeback mechanisms.
+kern is a local-first RAG engine designed for Spec-Driven Development, parsing Markdown frontmatter into a deterministic ontology and vector index. It synchronizes entities, relations, and embeddings incrementally without external databases or GPUs, exposing functionality via MCP for AI agents.
 
 ## Key Features
-- Registry-based orchestrator with 41 agent-routable capabilities (EOQ, safety stock, pricing, warehouse layout, etc.)
-- Never-unprotected guarantee: every result is either executed or provides a safe next step (options, handoff, or escalation)
-- Safe-staging writeback with rollback capability and risk-tier gating for production safety
-- Grounded in a 25-source SCM knowledge graph with dual citations (concept + code implementation)
-- Pluggable LLM provider (Claude) for intent classification and narrative generation, with deterministic fallback
+- Deterministic parsing of Markdown frontmatter into typed entities and relations without LLM involvement
+- Incremental synchronization of vector index and ontology via file diffs, avoiding full-corpus rebuilds
+- Local-only operation with no external dependencies (no GPU, no cloud services)
+- MCP server interface for seamless integration with AI agents like Claude Code
+- Hybrid query routing between vector search and ontology graph traversal for optimal answers
 
 ## Why It Matters for RAG Builders
-Kern provides a robust, safety-first agentic framework for supply-chain AI that ensures reliable, auditable, and human-in-the-loop decision-making, critical for enterprise RAG systems requiring grounded, executable outcomes.
+It bridges the gap between vector search and relational understanding in RAG systems by leveraging structured frontmatter to build lightweight, local ontologies that AI agents can query efficiently without external infrastructure.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LanceDB
+Automated review identified **LanceDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude (LLM)
-Automated review identified **Claude (LLM)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### llama.cpp
+Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Mermaid.js
-Automated review identified **Mermaid.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Pytest
-Automated review identified **Pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### NumPy
-Automated review identified **NumPy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Pandas
-Automated review identified **Pandas** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Matplotlib
-Automated review identified **Matplotlib** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Vector Embeddings
+Automated review identified **Vector Embeddings** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

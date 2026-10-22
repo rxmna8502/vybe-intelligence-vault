@@ -4,15 +4,8 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-<<<<<<< Updated upstream
 | arxiv | 35468 |
-| github | 1018 |
-=======
-| arxiv | 35470 |
 | github | 1019 |
-| huggingface | 940 |
-| nextjs.org | 83 |
->>>>>>> Stashed changes
 | semanticscholar.org | 70 |
 | youtube | 66 |
 | support.google.com | 59 |
@@ -28,13 +21,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
-<<<<<<< Updated upstream
 | openai.com | 13 |
-=======
->>>>>>> Stashed changes
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
-| anthropic.com | 12 |
 | developer.mozilla.org | 11 |
 | code.visualstudio.com | 10 |
 | sbert.net | 10 |
@@ -118,7 +107,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | education.gainsight.com | 4 |
 | tech.cornell.edu | 4 |
 | csrc.nist.gov | 4 |
-| anthropic.com | 3 |
 | analyticsvidhya.com | 3 |
 | policies.google.com | 3 |
 | source.android.com | 3 |
@@ -243,6 +231,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | news.cornell.edu | 2 |
 | research.cornell.edu | 2 |
 | compsust.net | 2 |
+| anthropic.com | 2 |
 | android-developers.googleblog.com | 2 |
 | linuxfoundation.org | 2 |
 | harvardbusiness.org | 2 |

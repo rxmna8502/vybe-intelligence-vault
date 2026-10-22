@@ -1,55 +1,61 @@
 ---
-title: "altamash-faraz/ai-coding-agent"
+title: "AkashBharangar/ai-coding-agent"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["Python 3.11+", "LLM APIs (OpenAI, Gemini, Anthropic)", "Node.js", "Express.js", "Mongoose", "Git", "Shell Tools"]
-quality_score: 8
-rag_relevance: 7
+tech_stack: ["Python", "LangGraph", "Groq", "LangChain", "FAISS", "Tree-sitter", "Sentence Transformers", "Docker", "AST Parsing"]
+quality_score: 9
+rag_relevance: 10
 deployment_complexity: "Medium"
-tags: ["autonomous coding", "code modification", "self-healing", "multi-model LLM", "zero-key evaluation"]
-source: "https://github.com/altamash-faraz/ai-coding-agent"
+tags: ["AI Coding Assistant", "Retrieval-Augmented Generation", "Tool Calling", "Code Understanding", "Multi-step Planning"]
+source: "https://github.com/AkashBharangar/ai-coding-agent"
 stars: 0
 language: "Python"
-last_updated: "2026-08-02T22:55:01Z"
-discovered_at: "2026-08-02T22:56:06Z"
+last_updated: "2026-07-15T05:27:09Z"
+discovered_at: "2026-07-15T05:29:41Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-An autonomous AI software engineering agent built in Python 3.11+ that analyzes codebases, generates execution plans, dynamically modifies source files, and verifies correctness using a self-healing verification loop with zero-key local evaluation support.
+An AI-powered coding assistant that leverages LangGraph, Groq, RAG, FAISS, and Tree-sitter to understand, search, edit, and debug codebases. It combines multi-step task planning, semantic code retrieval, and tool calling for comprehensive codebase interaction.
 
 ## Key Features
-- Modular Plan-Explore-Execute-Verify (PEEV) event loop architecture for robustness
-- Dynamic code generation with self-healing syntax error correction
-- Multi-model LLM support (OpenAI, Gemini, Anthropic) with zero-key fallback
-- Repository exploration and metadata extraction for framework-aware modifications
-- Git diff and static syntax validation for verification and auditability
+- LangGraph-powered agent workflow with multi-step task planning and conversation state management
+- Semantic code search using RAG with FAISS vector database and Sentence Transformers embeddings
+- Code understanding via Python AST parsing and Tree-sitter syntax analysis
+- Modular tool set for file operations, terminal execution, and runtime error debugging
+- Dockerized deployment with workspace sandboxing and environment variable configuration
 
 ## Why It Matters for RAG Builders
-It enables AI-driven autonomous code modification and enhancement, reducing manual effort for developers building RAG or AI-powered applications.
+This project provides a production-ready blueprint for building AI-powered coding assistants that integrate RAG, tool calling, and multi-step planning, essential for developers working with large codebases.
 
 ## Tech Stack Deep Dive
-### Python 3.11+
-Automated review identified **Python 3.11+** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM APIs (OpenAI, Gemini, Anthropic)
-Automated review identified **LLM APIs (OpenAI, Gemini, Anthropic)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LangGraph
+Automated review identified **LangGraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js
-Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Groq
+Automated review identified **Groq** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Express.js
-Automated review identified **Express.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LangChain
+Automated review identified **LangChain** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Mongoose
-Automated review identified **Mongoose** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FAISS
+Automated review identified **FAISS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tree-sitter
+Automated review identified **Tree-sitter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Shell Tools
-Automated review identified **Shell Tools** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Sentence Transformers
+Automated review identified **Sentence Transformers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### AST Parsing
+Automated review identified **AST Parsing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

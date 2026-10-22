@@ -1,61 +1,58 @@
 ---
-title: "dkylewillis/vera"
+title: "sufengx/vera"
 content_type: "repo"
 engine: "v2"
-category: "Vector DB"
-tech_stack: ["Python", "SQLite", "PyTorch", "Sentence Transformers", "OCR (Tesseract)", "CLI", "MCP Server", "Electron (Desktop App)", "FastAPI"]
+category: "Orchestrator"
+tech_stack: ["Go", "ClickHouse", "Docker", "Docker Compose", "HTTP Proxy", "SHA-256", "gzip", "Python (planned)"]
 quality_score: 9
-rag_relevance: 10
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["vector database", "document retrieval", "RAG", "portable archives", "local embeddings"]
-source: "https://github.com/dkylewillis/vera"
-stars: 16
-language: "Python"
-last_updated: "2026-08-08T14:45:23Z"
-discovered_at: "2026-08-08T15:32:39Z"
+tags: ["AI Observability", "Model Monitoring", "Drift Detection", "Production Reliability", "Zero-Intrusion"]
+source: "https://github.com/sufengx/vera"
+stars: 2
+language: "Go"
+last_updated: "2026-08-04T15:30:05Z"
+discovered_at: "2026-08-04T15:34:36Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-VERA provides a portable, self-contained vector database in a `.vera` SQLite file, enabling local document retrieval with embedded embeddings, keyword indexing, and metadata. It includes a Python library (`vera-doc`), CLI tools, and a desktop app for document conversion, search, and AI-powered Q&A with citations.
+Vera is an open-source observability and reliability platform for production AI systems, designed to monitor inference traffic, detect model behavior changes, analyze root causes, and enable automated responses without modifying existing applications.
 
 ## Key Features
-- Portable `.vera` archives containing embeddings, metadata, and keyword indexes for offline search
-- Hybrid retrieval combining semantic and keyword search for high-accuracy results
-- Grounded citations with page, heading, and highlighted source text for AI responses
-- Embeddable Python library (`vera-doc`) for integrating retrieval into custom applications
-- CLI and MCP server for agent integration and automation
+- Zero-code integration via HTTP reverse proxy gateway for seamless inference traffic interception
+- Privacy-first design with raw data never leaving the process by default, using SHA-256 hashes and configurable masking
+- High-throughput event pipeline with batch compressed ingestion into ClickHouse for OLAP analysis
+- Enterprise-ready architecture supporting self-hosted, Docker Compose, and planned Kubernetes deployments
+- Real-time detection and root cause analysis capabilities for AI system reliability
 
 ## Why It Matters for RAG Builders
-VERA enables RAG builders to create fully local, citation-ready document retrieval systems without relying on external vector databases or services.
+Vera provides critical observability and reliability infrastructure for production AI systems, enabling teams to detect, diagnose, and mitigate issues in complex AI workflows without disrupting existing applications.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ClickHouse
+Automated review identified **ClickHouse** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PyTorch
-Automated review identified **PyTorch** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Sentence Transformers
-Automated review identified **Sentence Transformers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker Compose
+Automated review identified **Docker Compose** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OCR (Tesseract)
-Automated review identified **OCR (Tesseract)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTTP Proxy
+Automated review identified **HTTP Proxy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SHA-256
+Automated review identified **SHA-256** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP Server
-Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### gzip
+Automated review identified **gzip** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Electron (Desktop App)
-Automated review identified **Electron (Desktop App)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python (planned)
+Automated review identified **Python (planned)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

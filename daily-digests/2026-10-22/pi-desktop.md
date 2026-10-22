@@ -1,37 +1,40 @@
 ---
-title: "FaqFirebase/pi-desktop"
+title: "vastsa/PI-Desktop"
 content_type: "repo"
 engine: "v2"
-category: "UI Component"
-tech_stack: ["Electron", "TypeScript", "React", "CodeMirror 6", "Node.js", "Pi Coding Agent", "Claude CLI", "Codex CLI"]
-quality_score: 8
-rag_relevance: 7
+category: "Agent Framework"
+tech_stack: ["Electron", "Rust", "TypeScript", "React", "Node.js", "SQLite", "JSON-RPC", "OpenAI-compatible API"]
+quality_score: 9
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["desktop application", "multi-agent planning", "file management", "terminal integration", "AI coding assistant"]
-source: "https://github.com/FaqFirebase/pi-desktop"
-stars: 15
+tags: ["AI coding agents", "local-first", "desktop app", "plugin system", "privacy-focused"]
+source: "https://github.com/vastsa/PI-Desktop"
+stars: 39
 language: "TypeScript"
-last_updated: "2026-07-11T02:22:25Z"
-discovered_at: "2026-07-11T02:27:36Z"
+last_updated: "2026-08-05T11:15:19Z"
+discovered_at: "2026-08-05T11:22:17Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Pi Desktop is an open-source Electron-based GUI for the Pi coding agent, providing a unified desktop interface for chatting, managing projects, browsing files, running commands, and reviewing changes. It integrates multi-agent planning, a terminal, and a file editor in a single window.
+PI-Desktop is a local-first desktop application that integrates AI coding agents into a native environment, enabling users to work with AI models directly on their machines without cloud dependencies. It supports custom model providers, granular permissions, and plugin extensibility for local development workflows.
 
 ## Key Features
-- Streaming chat with rich rendering, tool use, and inline previews for files, images, and SVGs
-- Multi-Agent Council Planning (Pi, Claude, Codex) for collaborative plan generation and consensus
-- Integrated terminal, file tree, code editor, and diff viewer for seamless development workflow
-- Workspace management with per-workspace Pi processes and session branching/forking
-- Review rail for tracking file changes, permissions, and session status with visual badges
+- Bring-your-own-model support for any OpenAI-compatible API (local or cloud)
+- Agent and Plan modes with granular permission controls for file edits and shell commands
+- Local-first architecture with OS keychain integration and no telemetry
+- Extensible plugin system for custom commands, tools, and panels
+- Cross-platform support (macOS, Windows, Linux) with auto-update functionality
 
 ## Why It Matters for RAG Builders
-Pi Desktop provides a unified, user-friendly interface for interacting with AI coding agents, streamlining development workflows and enabling multi-agent collaboration for complex tasks.
+PI-Desktop provides a privacy-focused, local-first environment for AI coding agents, enabling developers to integrate AI workflows directly into their desktop environment while maintaining full control over data and models.
 
 ## Tech Stack Deep Dive
 ### Electron
 Automated review identified **Electron** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -39,20 +42,17 @@ Automated review identified **TypeScript** as a key module contributing to infra
 ### React
 Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CodeMirror 6
-Automated review identified **CodeMirror 6** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Pi Coding Agent
-Automated review identified **Pi Coding Agent** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude CLI
-Automated review identified **Claude CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON-RPC
+Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Codex CLI
-Automated review identified **Codex CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenAI-compatible API
+Automated review identified **OpenAI-compatible API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -2,19 +2,11 @@
 
 | Metric               | Count |
 | -------------------- | ----: |
-<<<<<<< Updated upstream
 | Active resources     | 39174 |
-| Inactive resources   |  1280 |
-| Markdown files       | 529898 |
+| Inactive resources   |  1282 |
+| Markdown files       | 529900 |
 | Archive files        |  2435 |
 | Archive categories   |    26 |
-=======
-| Active resources     | 40214 |
-| Inactive resources   |  1282 |
-| Markdown files       | 684304 |
-| Archive files        | 161556 |
-| Archive categories   |    27 |
->>>>>>> Stashed changes
 | Skill files          |    19 |
 | Intelligence files   |     8 |
 | Builder maps         |     8 |
@@ -24,11 +16,7 @@
 | Examples             |     8 |
 | Search index entries | 41218 |
 
-<<<<<<< Updated upstream
-Last Generated: 2026-10-22 05:39 IST
-=======
-Last Generated: 2026-10-22 05:20 IST
->>>>>>> Stashed changes
+Last Generated: 2026-10-22 09:17 IST
 
 ## Top Categories
 - **Ai/Research**: 19239 files
