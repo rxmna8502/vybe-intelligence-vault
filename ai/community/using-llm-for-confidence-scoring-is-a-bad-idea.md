@@ -13,13 +13,14 @@ collected_at: '2026-10-22T19:25:58.949556+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:using-llm-for-confidence-scoring-is-a-bad-idea
 first_seen: '2026-10-22T10:31:50.551069+05:30'
 last_seen: '2026-10-22T19:25:58.949556+05:30'
 last_checked: '2026-10-22T19:25:58.949556+05:30'
 health_score: 100
 ---
+
 
 # Using LLM for confidence scoring is a bad idea
 

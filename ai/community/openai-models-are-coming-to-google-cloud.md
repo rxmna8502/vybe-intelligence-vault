@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-models-are-coming-to-google-cloud
 first_seen: '2026-10-22T01:48:28.327061+05:30'
 last_seen: '2026-10-22T19:25:59.764386+05:30'
 last_checked: '2026-10-22T19:25:59.764386+05:30'
 health_score: 100
 ---
+
 
 # OpenAI models are coming to Google Cloud
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: github:openai/openai-cli
 first_seen: '2026-10-22T19:25:59.043366+05:30'
 last_seen: '2026-10-22T19:25:59.043366+05:30'
 last_checked: '2026-10-22T19:25:59.043366+05:30'
 health_score: 100
 ---
+
 
 # OpenAI CLI
 

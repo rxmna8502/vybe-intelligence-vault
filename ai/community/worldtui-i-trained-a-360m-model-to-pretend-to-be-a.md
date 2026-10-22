@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://simedw.com/2026/10/21/world-model-terminal
 hn_url: https://news.ycombinator.com/item?id=50190363
-score: 344
+score: 458
 author: alphax314
-comments_count: 110
+comments_count: 148
 published_at: '2026-10-22T07:48:41+05:30'
-collected_at: '2026-10-22T19:25:57.321732+05:30'
+collected_at: '2026-10-23T01:45:35.799627+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:worldtui-i-trained-a-360m-model-to-pretend-to-be-a
 first_seen: '2026-10-22T19:25:57.321732+05:30'
-last_seen: '2026-10-22T19:25:57.321732+05:30'
-last_checked: '2026-10-22T19:25:57.321732+05:30'
+last_seen: '2026-10-23T01:45:35.799627+05:30'
+last_checked: '2026-10-23T01:45:35.799627+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by alphax314. Score: 344, Comments: 110.
+Hacker News story by alphax314. Score: 458, Comments: 148.
 Original Link: https://simedw.com/2026/10/21/world-model-terminal/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: alphax314
-- Score: 344 Upvotes
-- Comments: 110 Discussions
+- Score: 458 Upvotes
+- Comments: 148 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50190363
 - Original Article: https://simedw.com/2026/10/21/world-model-terminal
 

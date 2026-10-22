@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/accelerating-antimicrobial-discovery
+source_url: https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -41,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/accelerating-antimicrobial-discovery
+Original source URL: https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
 
 ## Local Vault File
 

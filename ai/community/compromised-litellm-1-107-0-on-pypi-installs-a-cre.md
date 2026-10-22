@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:compromised-litellm-1-107-0-on-pypi-installs-a-cre
 first_seen: '2026-10-22T01:48:26.730428+05:30'
 last_seen: '2026-10-22T19:25:58.470501+05:30'
 last_checked: '2026-10-22T19:25:58.470501+05:30'
 health_score: 100
 ---
+
 
 # Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor
 
