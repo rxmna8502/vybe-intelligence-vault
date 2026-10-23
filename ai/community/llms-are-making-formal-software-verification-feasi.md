@@ -14,13 +14,14 @@ tags:
 - anthropic
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llms-are-making-formal-software-verification-feasi
 first_seen: '2026-10-23T10:33:40.463406+05:30'
 last_seen: '2026-10-23T10:33:40.463406+05:30'
 last_checked: '2026-10-23T10:33:40.463406+05:30'
 health_score: 100
 ---
+
 
 # LLMs are making formal software verification feasible at a much larger scale
 

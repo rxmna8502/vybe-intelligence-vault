@@ -13,13 +13,14 @@ collected_at: '2026-10-23T10:33:44.494101+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:jailbreaking-the-switch-2
 first_seen: '2026-10-22T19:25:56.368801+05:30'
 last_seen: '2026-10-23T10:33:44.494101+05:30'
 last_checked: '2026-10-23T10:33:44.494101+05:30'
 health_score: 100
 ---
+
 
 # Jailbreaking the Switch 2
 

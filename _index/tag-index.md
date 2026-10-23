@@ -9325,12 +9325,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI and the Enclosure of the Scientific Commons](../ai/community/arxiv-2610-27251.md)
-  - [AI compute is the new oil–and needs a new market](../ai/community/ai-compute-is-the-new-oil-and-needs-a-new-market.md)
+  - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
+  - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](../ai/community/disney-raising-prices-days-after-confirming-ads-wi.md)
   - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
-  - [Jailbreaking the Switch 2](../ai/community/jailbreaking-the-switch-2.md)
   - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
-  - [Railpass](../ai/community/railpass.md)
+  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
 
 ## animation
 
@@ -9828,7 +9827,6 @@ Resources organized by keyword tags.
   - [LLM-as-a-Verifier: A General-Purpose Verification Framework](../ai/agents/arxiv-2607-05391.md)
   - [LLM-driven design of physics-constrained constitutive models: two agents are better than one](../ai/agents/arxiv-2605-23754.md)
   - [LLM: A CLI utility and Python library for interacting with Large Language Models](../ai/rag/llm-a-cli-utility-and-python-library-for-interacti.md)
-  - [LLMs are making formal software verification feasible at a much larger scale](../ai/community/llms-are-making-formal-software-verification-feasi.md)
   - [LLMs on Tabular Data with Limited Semantics: Evidence from Industrial Car Retrofit Prediction](../ai/rag/arxiv-2606-15314.md)
   - [LOCUS: Task-Aware Low-Rank Post-Training for Token-Efficient Language Generation](../ai/research/arxiv-2609-11739.md)
   - [LSC-DPO: Learning-Signal-Controlled Direct Preference Optimization](../ai/research/arxiv-2610-07592.md)
@@ -37178,8 +37176,6 @@ Resources organized by keyword tags.
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI and TCAD for Inverse Design and Defect Discovery: From Simple Machine Learning to LLM](../ai/research/arxiv-2609-07046.md)
-  - [AI and the Enclosure of the Scientific Commons](../ai/community/arxiv-2610-27251.md)
-  - [AI compute is the new oil–and needs a new market](../ai/community/ai-compute-is-the-new-oil-and-needs-a-new-market.md)
   - [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](../ai/research/arxiv-2609-08166.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
@@ -37440,6 +37436,7 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
+  - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
   - [Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG](../ai/agents/arxiv-2607-02802.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessing the impact of dimensionality reduction on clustering performance - a systematic study](../ai/research/arxiv-2604-22099.md)
@@ -38164,6 +38161,7 @@ Resources organized by keyword tags.
   - [Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey](../ai/research/arxiv-2507-22920.md)
   - [Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](../ai/research/arxiv-2606-28228.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
+  - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](../ai/community/disney-raising-prices-days-after-confirming-ads-wi.md)
   - [Dissecting Hierarchical Reasoning Models: A Mechanistic Study](../ai/research/arxiv-2609-22197.md)
   - [Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes](../ai/agents/arxiv-2606-17368.md)
   - [Distributed Learning with Selective State Space Models: Architecture-Aware Convergence Analysis](../ai/research/arxiv-2610-02659.md)
@@ -39104,7 +39102,6 @@ Resources organized by keyword tags.
   - [Jaccard index - Wikipedia](../ai/rag/jaccard-index-wikipedia.md)
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
   - [Jailbreaking Open-Weight LLMs via Random Embedding Perturbations](../ai/rag/arxiv-2610-07125.md)
-  - [Jailbreaking the Switch 2](../ai/community/jailbreaking-the-switch-2.md)
   - [Jarvis: A Proactive Speech Agent for Multi-Party Conversations](../ai/agents/arxiv-2610-07506.md)
   - [JavaScript Tutorial - GeeksforGeeks](../ai/rag/javascript-tutorial-geeksforgeeks.md)
   - [JavaScript data types and data structures - JavaScript | MDN](../ai/rag/javascript-data-types-and-data-structures-javascri.md)
@@ -39187,7 +39184,6 @@ Resources organized by keyword tags.
   - [LLMs Can Annotate Attribution Graphs](../ai/research/arxiv-2608-02632.md)
   - [LLMs Can Better Capture Human Judgments--With the Right Prompts](../ai/research/arxiv-2606-12754.md)
   - [LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications](../ai/agents/arxiv-2607-18147.md)
-  - [LLMs are making formal software verification feasible at a much larger scale](../ai/community/llms-are-making-formal-software-verification-feasi.md)
   - [LLaVA-CKD: Bottom-Up Cascaded Knowledge Distillation for Vision-Language Models](../ai/research/arxiv-2605-10641.md)
   - [LSVD: Loss-Aware Low-Rank Approximation for Efficient Low-Precision Vision-Language Models](../ai/research/arxiv-2606-00573.md)
   - [LTM: Large-scale Terrain Model for Wildfire-prone Landscapes](../ai/rag/arxiv-2607-08711.md)
@@ -40118,7 +40114,6 @@ Resources organized by keyword tags.
   - [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](../ai/rag/arxiv-2610-06923.md)
   - [Radiomics and artificial Intelligence for thyroid cancer diagnosis: Concepts, challenges, and solutions](../ai/research/arxiv-2404-07239.md)
   - [Ragas](../ai/rag/ragas.md)
-  - [Railpass](../ai/community/railpass.md)
   - [RamanBench: A Large-Scale Benchmark for Machine Learning on Raman Spectroscopy](../ai/rag/arxiv-2605-02003.md)
   - [Ramanujan Graph Rewiring with Non Negative Resistance Curvature](../ai/rag/arxiv-2606-21333.md)
   - [Random Erasing vs. Model Inversion: A Promising Defense or a False Hope?](../ai/research/arxiv-2409-01062.md)
@@ -41233,6 +41228,7 @@ Resources organized by keyword tags.
   - [WorkGenesis: Building the Worlds That Teach Agents to Work](../ai/rag/arxiv-2609-39325.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
   - [World Leader in Artificial Intelligence Computing | NVIDIA](../ai/rag/world-leader-in-artificial-intelligence-computing.md)
+  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
   - [Would this change your answer? Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments](../ai/agents/arxiv-2608-16747.md)
   - [Write on Paper and Get the Online Digital Trace: A New Era for Handwriting](../ai/research/arxiv-2609-12702.md)
   - [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md)
@@ -41339,7 +41335,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -41453,6 +41448,7 @@ Resources organized by keyword tags.
   - [paul-hammant/tbd](../ai/resources/paul-hammant-tbd.md)
   - [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md)
   - [pgf-tikz Info Page](../ai/rag/pgf-tikz-info-page.md)
+  - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
   - [pinecone-io/pinecone-claude-code-plugin](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
@@ -42196,10 +42192,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [LLMs are making formal software verification feasible at a much larger scale](../ai/community/llms-are-making-formal-software-verification-feasi.md)
 
 ## mdx
 
@@ -51688,6 +51680,7 @@ Resources organized by keyword tags.
   - [Are Attributions of Consciousness to AI Chatbots Epistemically Innocent?](../ai/research/arxiv-2607-20001.md)
   - [Are Large Language Models Reliable Reviewers? A Benchmark for Error Detection in Financial Documents](../ai/research/arxiv-2608-12342.md)
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
+  - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
   - [Assessing AI in Introductory Physics Problem Solving](../ai/research/arxiv-2607-14303.md)
   - [Assessing AI-Generated vs. Human-Authored Spear Phishing SMS Attacks: An Empirical Study](../ai/research/arxiv-2406-13049.md)
   - [Assessing mentalization in humans and large language models](../ai/agents/arxiv-2608-26291.md)
@@ -74110,7 +74103,6 @@ Resources organized by keyword tags.
   - [FlowScout: From Execution Feedback to Reliable Tool-Using Agent Workflows](../ai/agents/arxiv-2608-10039.md)
   - [FlowiseAI/Flowise](../ai/rag/flowiseai-flowise.md)
   - [Flutter - Dart API docs](../ai/resources/flutter-dart-api-docs.md)
-  - [Fosowl/agenticSeek](../ai/rag/fosowl-agenticseek.md)
   - [Framasoft](../ai/rag/framasoft.md)
   - [Framer: AI design agent](../ai/agents/framer-ai-website-builder-for-professional-sites.md)
   - [From Agentic to Autogenic Network Management for AI-Native 6G and Beyond: A Standards Perspective](../ai/agents/arxiv-2607-06786.md)
@@ -80322,6 +80314,7 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
+  - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents/libs/code/CHANGELOG.md at main · langchain-ai/deepagents · GitHub](../ai/rag/langchain-ai-deepagents.md)
@@ -84101,4 +84094,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-23T10:53:47.889528+05:30*
+*Index generated on 2026-10-23T19:21:16.490735+05:30*

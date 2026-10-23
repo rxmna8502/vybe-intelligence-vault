@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/nvidia/openshell
 hn_url: https://news.ycombinator.com/item?id=50198675
-score: 343
+score: 439
 author: niemandhier
-comments_count: 181
+comments_count: 199
 published_at: '2026-10-22T23:14:06+05:30'
-collected_at: '2026-10-23T10:33:41.516999+05:30'
+collected_at: '2026-10-23T19:04:35.318958+05:30'
 tags:
 - agents
 - ai
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:nvidia/openshell
 first_seen: '2026-10-23T01:45:32.640608+05:30'
-last_seen: '2026-10-23T10:33:41.516999+05:30'
-last_checked: '2026-10-23T10:33:41.516999+05:30'
+last_seen: '2026-10-23T19:04:35.318958+05:30'
+last_checked: '2026-10-23T19:04:35.318958+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by niemandhier. Score: 343, Comments: 181.
+Hacker News story by niemandhier. Score: 439, Comments: 199.
 Original Link: https://github.com/NVIDIA/OpenShell
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: niemandhier
-- Score: 343 Upvotes
-- Comments: 181 Discussions
+- Score: 439 Upvotes
+- Comments: 199 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50198675
 - Original Article: https://github.com/nvidia/openshell
 

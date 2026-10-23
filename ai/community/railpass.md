@@ -13,13 +13,14 @@ collected_at: '2026-10-23T10:33:43.737864+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:railpass
 first_seen: '2026-10-23T04:59:38.704569+05:30'
 last_seen: '2026-10-23T10:33:43.737864+05:30'
 last_checked: '2026-10-23T10:33:43.737864+05:30'
 health_score: 100
 ---
+
 
 # Railpass
 

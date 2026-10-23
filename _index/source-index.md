@@ -37157,13 +37157,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI and the Enclosure of the Scientific Commons](../ai/community/arxiv-2610-27251.md)
-  - [AI compute is the new oil–and needs a new market](../ai/community/ai-compute-is-the-new-oil-and-needs-a-new-market.md)
+  - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
+  - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](../ai/community/disney-raising-prices-days-after-confirming-ads-wi.md)
   - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
-  - [Jailbreaking the Switch 2](../ai/community/jailbreaking-the-switch-2.md)
-  - [LLMs are making formal software verification feasible at a much larger scale](../ai/community/llms-are-making-formal-software-verification-feasi.md)
   - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
-  - [Railpass](../ai/community/railpass.md)
+  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -37366,6 +37364,7 @@ Resources organized by publisher feed and query sources.
   - [Director of Machine Learning Insights [Part 4]](../ai/models/huggingface-blog-ml-director-insights-4.md)
   - [Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker](../ai/models/huggingface-blog-sagemaker-distributed-training-seq2seq.md)
   - [Docmatix - a huge dataset for Document Visual Question Answering](../ai/models/huggingface-blog-docmatix.md)
+  - [Does Your Model Run on AWS Trainium? Look It Up](../ai/models/huggingface-blog-torch-neuronx-model-support.md)
   - [DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub](../ai/models/huggingface-blog-hub-duckdb.md)
   - [Easily Build and Share ROCm Kernels with Hugging Face](../ai/models/huggingface-blog-build-rocm-kernels.md)
   - [Easily Train Models with H100 GPUs on NVIDIA DGX Cloud](../ai/models/huggingface-blog-train-dgx-cloud.md)
@@ -41060,4 +41059,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-23T10:53:48.341679+05:30*
+*Index generated on 2026-10-23T19:21:16.984615+05:30*
