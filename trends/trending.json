@@ -1,296 +1,6 @@
 {
-  "generated_at": "2026-10-23T10:58:58.052640+05:30",
+  "generated_at": "2026-10-23T15:50:11.084714+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:every-ai-model-has-the-same-controversial-take-on",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "file_path": "ai/community/every-ai-model-has-the-same-controversial-take-on.md",
-      "score": 304,
-      "score_change": 119,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:nvidia/openshell",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/nvidia/openshell",
-      "file_path": "ai/community/nvidia-openshell.md",
-      "score": 343,
-      "score_change": 84,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:jailbreaking-the-switch-2",
-      "title": "Jailbreaking the Switch 2",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb",
-      "file_path": "ai/community/jailbreaking-the-switch-2.md",
-      "score": 758,
-      "score_change": 76,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:railpass",
-      "title": "Railpass",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://train.samismith.com",
-      "file_path": "ai/community/railpass.md",
-      "score": 72,
-      "score_change": 47,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2610.27251",
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "file_path": "ai/community/arxiv-2610-27251.md",
-      "score": 126,
-      "score_change": 29,
-      "rank_change": -1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 5,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "huggingface:google-t5/t5-small",
-      "title": "google-t5/t5-small",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/google-t5/t5-small",
-      "file_path": "ai/models/huggingface-google-t5-t5-small.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:comfy-org/minimax-h3",
-      "title": "Comfy-Org/MiniMax-H3",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/comfy-org/minimax-h3",
-      "file_path": "ai/models/huggingface-comfy-org-minimax-h3.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:qwen/qwen3-0.6b",
-      "title": "Qwen/Qwen3-0.6B",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/qwen/qwen3-0.6b",
-      "file_path": "ai/models/huggingface-qwen-qwen3-0-6b.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:google-bert/bert-base-uncased",
-      "title": "google-bert/bert-base-uncased",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/google-bert/bert-base-uncased",
-      "file_path": "ai/models/huggingface-google-bert-bert-base-uncased.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:baai/bge-m3",
-      "title": "BAAI/bge-m3",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/baai/bge-m3",
-      "file_path": "ai/rag/huggingface-baai-bge-m3.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:google/electra-base-discriminator",
-      "title": "google/electra-base-discriminator",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/google/electra-base-discriminator",
-      "file_path": "ai/models/huggingface-google-electra-base-discriminator.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:sentence-transformers/paraphrase-multilingual-minilm-l12-v2",
-      "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2",
-      "file_path": "ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:baai/bge-small-en-v1.5",
-      "title": "BAAI/bge-small-en-v1.5",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/baai/bge-small-en-v1.5",
-      "file_path": "ai/rag/huggingface-baai-bge-small-en-v1-5.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:cross-encoder/ms-marco-minilm-l6-v2",
-      "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2",
-      "file_path": "ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "huggingface:sentence-transformers/all-minilm-l6-v2",
-      "title": "sentence-transformers/all-MiniLM-L6-v2",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/sentence-transformers/all-minilm-l6-v2",
-      "file_path": "ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 405,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:llms-are-making-formal-software-verification-feasi",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://anthropic.com/research/formal-verification",
-      "file_path": "ai/community/llms-are-making-formal-software-verification-feasi.md",
-      "score": 217,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "title": "AI compute is the new oil–and needs a new market",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "file_path": "ai/community/ai-compute-is-the-new-oil-and-needs-a-new-market.md",
-      "score": 38,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2610.26821",
       "title": "AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages",
@@ -300,8 +10,8 @@
       "file_path": "ai/research/arxiv-2610-26821.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -313,8 +23,8 @@
       "file_path": "ai/research/arxiv-2610-26496.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -326,8 +36,8 @@
       "file_path": "ai/research/arxiv-2610-25961.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +49,8 @@
       "file_path": "ai/research/arxiv-2610-25463.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +62,8 @@
       "file_path": "ai/agents/arxiv-2610-24168.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +75,8 @@
       "file_path": "ai/research/arxiv-2610-20064.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +88,8 @@
       "file_path": "ai/rag/arxiv-2610-08944.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +101,8 @@
       "file_path": "ai/research/arxiv-2610-04741.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +114,8 @@
       "file_path": "ai/agents/arxiv-2609-31713.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,43 +127,151 @@
       "file_path": "ai/agents/arxiv-2609-29166.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 118,
+      "new_resource": false,
       "tier": "tier-3"
-    },
+    }
+  ],
+  "fastest_rising_tools": [
     {
-      "id": "arxiv:2609.19814",
-      "title": "Long-horizon autoformalization of a core theorem underlying MIP* = RE",
-      "category": "ai/agents",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2609.19814",
-      "file_path": "ai/agents/arxiv-2609-19814.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "arxiv:2608.21376",
-      "title": "On the Role of Citations in Preference Data",
+      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
+      "title": "Medium Privacy Policy | by Medium | Medium Policy",
       "category": "ai/rag",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2608.21376",
-      "file_path": "ai/rag/arxiv-2608-21376.md",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
+      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 9298,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2608.00013",
-      "title": "What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs",
+      "id": "github:microsoft/rag-time",
+      "title": "microsoft/rag-time",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/microsoft/rag-time",
+      "file_path": "ai/rag/microsoft-rag-time.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02392",
+      "title": "GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2608.00013",
-      "file_path": "ai/research/arxiv-2608-00013.md",
+      "url": "https://arxiv.org/abs/2608.02392",
+      "file_path": "ai/research/arxiv-2608-02392.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.02046",
+      "title": "CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.02046",
+      "file_path": "ai/rag/arxiv-2608-02046.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01791",
+      "title": "PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01791",
+      "file_path": "ai/rag/arxiv-2608-01791.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2608.01207",
+      "title": "It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2608.01207",
+      "file_path": "ai/rag/arxiv-2608-01207.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.23462",
+      "title": "War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.23462",
+      "file_path": "ai/research/arxiv-2606-23462.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.22216",
+      "title": "Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.22216",
+      "file_path": "ai/research/arxiv-2606-22216.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09123",
+      "title": "An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09123",
+      "file_path": "ai/research/arxiv-2606-09123.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2605.27882",
+      "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2605.27882",
+      "file_path": "ai/agents/arxiv-2605-27882.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:langchain-ai-langgraph",
+      "title": "langchain-ai/langgraph",
+      "category": "Agent Framework",
+      "source_type": "",
+      "url": "",
+      "file_path": "docs/sample-digest.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,40 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:ai-analysis-of-ct-scans-finds-42-9-of-patients-hav",
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%e2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-      "file_path": "ai/community/ai-analysis-of-ct-scans-finds-42-9-of-patients-hav.md"
-    },
-    {
-      "id": "hackernews:show-hn-ui-micro-interactions-prompts-for-ai",
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://typeui.sh/micro-interactions",
-      "file_path": "ai/community/show-hn-ui-micro-interactions-prompts-for-ai.md"
-    },
-    {
-      "id": "hackernews:mini-brain-organoids-reading-braille-key-step-towa",
-      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-      "file_path": "ai/community/mini-brain-organoids-reading-braille-key-step-towa.md"
-    },
-    {
-      "id": "github:coverage-cat/consumer-agent-testing-tool",
-      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/coverage-cat/consumer-agent-testing-tool",
-      "file_path": "ai/community/coverage-cat-consumer-agent-testing-tool.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
