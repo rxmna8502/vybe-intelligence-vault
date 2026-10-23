@@ -13,13 +13,14 @@ collected_at: '2026-10-23T04:59:41.461921+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-analysis-of-ct-scans-finds-42-9-of-patients-hav
 first_seen: '2026-10-23T01:45:34.141024+05:30'
 last_seen: '2026-10-23T04:59:41.461921+05:30'
 last_checked: '2026-10-23T04:59:41.461921+05:30'
 health_score: 100
 ---
+
 
 # AI analysis of CT scans finds 42.9% of patients have coronary inflammation
 

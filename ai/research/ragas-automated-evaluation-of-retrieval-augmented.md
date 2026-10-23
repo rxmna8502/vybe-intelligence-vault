@@ -7,14 +7,14 @@ source_url: https://semanticscholar.org/paper/f5e9e5bbe22f0263be1f1ce88c66978a2b
 authors:
 - Shahul Es
 - J. James
-- Luis Espinosa Anke
+- Luis Espinosa-Anke
 - S. Schockaert
 year: 2023
-citation_count: 1202
+citation_count: 1233
 code_url: None
 stars: N/A
 published_at: '2023-01-01T00:00:00Z'
-collected_at: '2026-10-17T21:17:11.071992+05:30'
+collected_at: '2026-10-23T10:33:41.002803+05:30'
 tags:
 - augmented
 - benchmark
@@ -26,8 +26,8 @@ tags:
 status: active
 resource_id: blog:ragas-automated-evaluation-of-retrieval-augmented
 first_seen: '2026-07-19T16:15:03.003826+05:30'
-last_seen: '2026-10-17T21:17:11.071992+05:30'
-last_checked: '2026-10-17T21:17:11.071992+05:30'
+last_seen: '2026-10-23T10:33:41.002803+05:30'
+last_checked: '2026-10-23T10:33:41.002803+05:30'
 health_score: 100
 ---
 
@@ -43,9 +43,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Shahul Es, J. James, Luis Espinosa Anke, S. Schockaert
+- Authors: Shahul Es, J. James, Luis Espinosa-Anke, S. Schockaert
 - Publication Year: 2023
-- Citation Count: 1202
+- Citation Count: 1233
 - Paper Link: https://semanticscholar.org/paper/f5e9e5bbe22f0263be1f1ce88c66978a2b927772
 - Code Link: None
 - Code Stars: N/A

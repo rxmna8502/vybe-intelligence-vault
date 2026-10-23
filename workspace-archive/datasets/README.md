@@ -9,13 +9,13 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Top Matched Resources
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (framework - ESSENTIAL Tier)
+- [ReSeg: Retraining-free segmentation of abdominal organs via generalizable semantic representation learning](https://arxiv.org/abs/2610.29090) (framework - ESSENTIAL Tier)
 - [TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139) (framework - ESSENTIAL Tier)
 - [Learning Risk Scores Robust to Unobserved Confounders](https://arxiv.org/abs/2609.27144) (dataset - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
 - [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (framework - ESSENTIAL Tier)
 - [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717) (framework - ESSENTIAL Tier)
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (framework - ESSENTIAL Tier)
-- [NaviAIS: A Scenario-Level Vessel Trajectory Prediction Dataset withVectorized Lane Priors and the NaviLane Forecasting Framework](https://arxiv.org/abs/2607.18887) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-10-23 05:17 IST*
+*Last updated: 2026-10-23 10:57 IST*

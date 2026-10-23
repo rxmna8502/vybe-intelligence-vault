@@ -14,11 +14,11 @@ authors:
 - Qing-Gang Zhang
 - Xiao Huang
 year: 2025
-citation_count: 61
+citation_count: 63
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-10-17T21:17:11.072248+05:30'
+collected_at: '2026-10-23T10:33:41.002980+05:30'
 tags:
 - augmented
 - dataset
@@ -30,8 +30,8 @@ tags:
 status: active
 resource_id: blog:linearrag-linear-graph-retrieval-augmented-generat
 first_seen: '2026-09-09T00:59:59.540666+05:30'
-last_seen: '2026-10-17T21:17:11.072248+05:30'
-last_checked: '2026-10-17T21:17:11.072248+05:30'
+last_seen: '2026-10-23T10:33:41.002980+05:30'
+last_checked: '2026-10-23T10:33:41.002980+05:30'
 health_score: 100
 ---
 
@@ -49,7 +49,7 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 - Authors: Lu-Yao Zhuang, Shengyuan Chen, Yi-Lin Xiao, Hua-Chi Zhou, Yu-Jing Zhang, Hao Chen, Qing-Gang Zhang, Xiao Huang
 - Publication Year: 2025
-- Citation Count: 61
+- Citation Count: 63
 - Paper Link: https://semanticscholar.org/paper/6586f17b316a65df944e84ddbaf0e3aeab029a75
 - Code Link: None
 - Code Stars: N/A
