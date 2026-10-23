@@ -9324,9 +9324,10 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [A whirlwind tour of systemd-nspawn containers](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
   - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
-  - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
-  - [We have traits at home](../ai/community/we-have-traits-at-home.md)
+  - [Now Google says it might use your Gmail and Google Photos data to target ads](../ai/community/now-google-says-it-might-use-your-gmail-and-google.md)
+  - [Securing our frontier model training environment](../ai/community/securing-our-frontier-model-training-environment.md)
 
 ## animation
 
@@ -32237,6 +32238,7 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -37133,6 +37135,7 @@ Resources organized by keyword tags.
   - [A survey of AI-generated voices and their detection](../ai/research/arxiv-2608-15411.md)
   - [A systematic review of machine learning techniques to address diagnosis and treatment of autism: challenges and opportunities](../ai/research/arxiv-2608-18188.md)
   - [A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem](../ai/research/arxiv-2607-28733.md)
+  - [A whirlwind tour of systemd-nspawn containers](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
   - [A.X K2 Technical Report](../ai/agents/arxiv-2608-30181.md)
   - [AAAI 2024 Conference - AAAI](../ai/resources/aaai-2024-conference-aaai.md)
   - [AAS-RAIL: Improving Information Extraction for Asset Administration Shells through Retrieval-Augmented In-Context Learning](../ai/rag/arxiv-2609-07334.md)
@@ -37434,7 +37437,6 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
-  - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
   - [Assessing Rule Adherence of LLM Adjudicators in Call of Cthulhu TRPG](../ai/agents/arxiv-2607-02802.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessing the impact of dimensionality reduction on clustering performance - a systematic study](../ai/research/arxiv-2604-22099.md)
@@ -39672,6 +39674,7 @@ Resources organized by keyword tags.
   - [Nothing Personal, a new editorial platform by Mozilla Foundation - Mozilla Foundation](../ai/rag/nothing-personal-a-new-editorial-platform-by-mozil.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
   - [NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment](../ai/research/arxiv-2609-11234.md)
+  - [Now Google says it might use your Gmail and Google Photos data to target ads](../ai/community/now-google-says-it-might-use-your-gmail-and-google.md)
   - [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](../ai/research/arxiv-2608-04030.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
@@ -40381,6 +40384,7 @@ Resources organized by keyword tags.
   - [Section 1201 Study | U.S. Copyright Office](../ai/agents/section-1201-study-u-s-copyright-office.md)
   - [Secure-by-Disguise: A Systematic Evaluation of Image Disguising for Confidential Medical Image Modeling](../ai/research/arxiv-2607-08867.md)
   - [Securing AI-Generated Code: A Just-in-Time Vulnerability Detection and Remediation Pipeline](../ai/rag/arxiv-2608-16187.md)
+  - [Securing our frontier model training environment](../ai/community/securing-our-frontier-model-training-environment.md)
   - [Securing the Future of IoMT in the Post-Quantum Era: An Edge-Native Federated Learning Approach](../ai/research/arxiv-2606-14515.md)
   - [Securing the Web](../ai/rag/securing-the-web.md)
   - [Security Content Automation Protocol | CSRC](../ai/rag/security-content-automation-protocol-csrc.md)
@@ -41124,7 +41128,6 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
-  - [We have traits at home](../ai/community/we-have-traits-at-home.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -41330,6 +41333,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -51676,7 +51680,6 @@ Resources organized by keyword tags.
   - [Are Attributions of Consciousness to AI Chatbots Epistemically Innocent?](../ai/research/arxiv-2607-20001.md)
   - [Are Large Language Models Reliable Reviewers? A Benchmark for Error Detection in Financial Documents](../ai/research/arxiv-2608-12342.md)
   - [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md)
-  - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
   - [Assessing AI in Introductory Physics Problem Solving](../ai/research/arxiv-2607-14303.md)
   - [Assessing AI-Generated vs. Human-Authored Spear Phishing SMS Attacks: An Empirical Study](../ai/research/arxiv-2406-13049.md)
   - [Assessing mentalization in humans and large language models](../ai/agents/arxiv-2608-26291.md)
@@ -52232,6 +52235,7 @@ Resources organized by keyword tags.
   - [SciPy 2026](../ai/rag/scipy-2026.md)
   - [Scientific Knowledge Discovery in the Age of Large Language Models](../ai/research/arxiv-2607-26670.md)
   - [SecureCode: A Production-Grade Multi-Turn Dataset for Training Security-Aware Code Generation Models](../ai/rag/arxiv-2512-18542.md)
+  - [Securing our frontier model training environment](../ai/community/securing-our-frontier-model-training-environment.md)
   - [Security and Detectability Analysis of Unicode Text Watermarking Methods against Large Language Models](../ai/research/arxiv-2512-13325.md)
   - [Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment](../ai/research/arxiv-2606-23700.md)
   - [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](../ai/agents/arxiv-2609-11180.md)
@@ -80410,6 +80414,7 @@ Resources organized by keyword tags.
   - [python-poetry/poetry](../ai/resources/python-poetry-poetry.md)
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
+  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -84089,4 +84094,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-24T01:50:38.527855+05:30*
+*Index generated on 2026-10-24T05:03:35.002865+05:30*

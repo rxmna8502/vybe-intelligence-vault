@@ -17,7 +17,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | developer.chrome.com | 20 |
 | cloud.google.com | 19 |
 | developer.android.com | 17 |
+| openai.com | 16 |
 | web.dev | 16 |
+<<<<<<< Updated upstream
+=======
+| microsoft.com | 15 |
+>>>>>>> Stashed changes
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
@@ -302,9 +307,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| news.ycombinator.com | 1 |
-| axelmagn.com | 1 |
+| theverge.com | 1 |
 | jefftk.com | 1 |
+| quantum5.ca | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

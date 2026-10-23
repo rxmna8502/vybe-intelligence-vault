@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-if-the-models-are-so-good-why-doesn-t-opena
 first_seen: '2026-10-23T19:04:35.859855+05:30'
 last_seen: '2026-10-24T01:34:02.363893+05:30'
 last_checked: '2026-10-24T01:34:02.363893+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?
 
