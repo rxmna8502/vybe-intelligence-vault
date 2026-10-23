@@ -4,30 +4,24 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `ai/agents/` | 6313 |
+| `Agent Framework/` | 1 |
+| `ai/agents/` | 6244 |
 | `ai/community/` | 12 |
-| `ai/companies/` | 10 |
-| `ai/companies/anthropic/` | 10 |
-| `ai/companies/deepmind/` | 5 |
-| `ai/companies/mistral/` | 10 |
-| `ai/companies/openai/` | 5 |
-| `ai/models/` | 827 |
-| `ai/rag/` | 12140 |
+| `ai/rag/` | 12109 |
 | `ai/releases/` | 1 |
-| `ai/research/` | 19427 |
+| `ai/research/` | 19426 |
 | `ai/resources/` | 1537 |
 | `ai/trending/` | 5 |
-| `web-development/` | 40 |
+| `web-development/` | 39 |
 | `web-development/framer-motion/` | 3 |
 | `web-development/gsap/` | 3 |
-| `web-development/nextjs/` | 80 |
+| `web-development/nextjs/` | 9 |
 | `web-development/react-three-fiber/` | 22 |
 | `web-development/shadcn-ui/` | 26 |
 | `web-development/tailwind/` | 3 |
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |
 | `web-development/webgpu/` | 25 |
-| `world/public/vault/daily-digests/2026-10-22/` | 1 |
 
 ## Categories Needing More Coverage
 
