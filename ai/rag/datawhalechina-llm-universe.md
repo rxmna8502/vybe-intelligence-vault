@@ -4,22 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-10-23T19:05:31.251337+05:30'
-published_at: '2026-10-23T10:01:47Z'
+collected_at: '2026-10-24T01:34:48.478912+05:30'
+published_at: '2026-10-23T18:14:39Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-stars: 14199
+stars: 14196
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-08-27T03:08:26Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-10-23T19:05:31.251337+05:30'
-last_seen: '2026-10-23T19:05:31.251337+05:30'
-last_checked: '2026-10-23T19:05:31.251337+05:30'
+first_seen: '2026-10-24T01:34:48.478912+05:30'
+last_seen: '2026-10-24T01:34:48.478912+05:30'
+last_checked: '2026-10-24T01:34:48.478912+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a tutorial for large language model (LLM) application development, targeting beginner developers.
-*   Emphasizes practical implementation using LangChain for orchestration and Retrieval Augmented Generation (RAG) architectures.
-*   Content is delivered through interactive Jupyter Notebooks, facilitating hands-on learning.
+*   Offers a beginner-focused curriculum for large language model (LLM) application development.
+*   Emphasizes practical implementation using LangChain for orchestration and Retrieval Augmented Generation (RAG) techniques.
+*   Delivered through interactive Jupyter Notebooks, facilitating hands-on, code-centric learning.
 
 ## Why It Matters
 
@@ -38,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 14199
+- Stars: 14196
 - Forks: 1435
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-10-23T10:01:47Z
+- Last Updated: 2026-10-23T18:14:39Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-08-27T03:08:26Z

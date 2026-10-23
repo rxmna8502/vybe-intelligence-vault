@@ -13,13 +13,14 @@ collected_at: '2026-10-23T19:04:34.868511+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:every-ai-model-has-the-same-controversial-take-on
 first_seen: '2026-10-23T04:59:38.417626+05:30'
 last_seen: '2026-10-23T19:04:34.868511+05:30'
 last_checked: '2026-10-23T19:04:34.868511+05:30'
 health_score: 100
 ---
+
 
 # Every AI model has the same "controversial" take on humans
 

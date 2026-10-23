@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:nvidia/openshell
 first_seen: '2026-10-23T01:45:32.640608+05:30'
 last_seen: '2026-10-23T19:04:35.318958+05:30'
 last_checked: '2026-10-23T19:04:35.318958+05:30'
 health_score: 100
 ---
+
 
 # OpenShell – A safe, private runtime for fleets of autonomous AI agents
 

@@ -13,13 +13,14 @@ collected_at: '2026-10-23T19:04:34.225843+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:disney-raising-prices-days-after-confirming-ads-wi
 first_seen: '2026-10-23T19:04:34.225843+05:30'
 last_seen: '2026-10-23T19:04:34.225843+05:30'
 last_checked: '2026-10-23T19:04:34.225843+05:30'
 health_score: 100
 ---
+
 
 # Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier
 

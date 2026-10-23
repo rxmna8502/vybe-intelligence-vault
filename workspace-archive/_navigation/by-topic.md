@@ -11,24 +11,24 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Retrieval & Knowledge Stack (RAG)
 
-- **[RAG Systems](../rag-systems/README.md)** (36484 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
-- **[Vector Databases](../vector-databases/README.md)** (12304 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
-- **[Datasets](../datasets/README.md)** (24250 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
+- **[RAG Systems](../rag-systems/README.md)** (36483 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
+- **[Vector Databases](../vector-databases/README.md)** (12303 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
+- **[Datasets](../datasets/README.md)** (24251 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
 
 ## LLMOps, Evals & Model Infrastructure
 
 - **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (36015 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1923 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (20073 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
-- **[Model Providers](../model-providers/README.md)** (3439 files): Public metadata and documentation links for model APIs and provider ecosystems.
-- **[Inference and Local LLM](../inference-local-llm/README.md)** (1741 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
+- **[Model Providers](../model-providers/README.md)** (3440 files): Public metadata and documentation links for model APIs and provider ecosystems.
+- **[Inference and Local LLM](../inference-local-llm/README.md)** (1742 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
 
 - **[Prompt Libraries](../prompt-libraries/README.md)** (278 files): System prompts, agent prompts, coding prompts, prompt templates, role prompts, and prompt engineering examples.
-- **[Automation Workflows](../automation-workflows/README.md)** (2465 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
+- **[Automation Workflows](../automation-workflows/README.md)** (2463 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
 - **[Public APIs](../public-apis/README.md)** (50 files): Public API directories, useful APIs for AI apps, no-auth APIs, dev APIs, and API examples.
-- **[AI Tools and Products](../ai-tools-products/README.md)** (203 files): AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling.
+- **[AI Tools and Products](../ai-tools-products/README.md)** (204 files): AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling.
 
 ## Creative 3D Dev & Frontend Interfaces
 
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (261 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-23 19:23 IST*
+*Last updated: 2026-10-24 01:53 IST*

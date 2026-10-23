@@ -37157,11 +37157,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
   - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
-  - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](../ai/community/disney-raising-prices-days-after-confirming-ads-wi.md)
-  - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
-  - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
-  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
+  - [We have traits at home](../ai/community/we-have-traits-at-home.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -37672,6 +37670,7 @@ Resources organized by publisher feed and query sources.
   - [Liberate your OpenClaw](../ai/models/huggingface-blog-liberate-your-openclaw.md)
   - [License to Call: Introducing Transformers Agents 2.0](../ai/agents/huggingface-blog-agents.md)
   - [Liftoff! How to get started with your first ML project 🚀](../ai/models/huggingface-blog-your-first-ml-project.md)
+  - [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](../ai/models/huggingface-blog-allenai-litpivot.md)
   - [Llama 2 is here - get it on Hugging Face](../ai/models/huggingface-blog-llama2.md)
   - [Llama 2 on Amazon SageMaker a Benchmark](../ai/models/huggingface-blog-llama-sagemaker-benchmark.md)
   - [Llama 3.1 - 405B, 70B & 8B with multilinguality and long context](../ai/models/huggingface-blog-llama31.md)
@@ -37735,7 +37734,6 @@ Resources organized by publisher feed and query sources.
   - [OVHcloud on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-ovhcloud-inference-providers-ovhcloud.md)
   - [Object Detection Leaderboard](../ai/models/huggingface-blog-object-detection-leaderboard.md)
   - [OlmoEarth v1.1: A more efficient family of Earth observation models](../ai/models/huggingface-blog-allenai-olmoearth-v1-1.md)
-  - [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](../ai/rag/huggingface-blog-allenai-olmoearth-v1-3.md)
   - [On the Shifting Global Compute Landscape](../ai/models/huggingface-blog-huggingface-shifting-compute-landscape.md)
   - [One Year Since the “DeepSeek Moment”](../ai/models/huggingface-blog-huggingface-one-year-since-the-deepseek-moment.md)
   - [One-Shot Any Web App with Gradio's gr.HTML](../ai/models/huggingface-blog-gradio-html-one-shot-apps.md)
@@ -41059,4 +41057,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-23T19:21:16.984615+05:30*
+*Index generated on 2026-10-24T01:50:38.960476+05:30*

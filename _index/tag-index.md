@@ -5692,7 +5692,6 @@ Resources organized by keyword tags.
   - [OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis](../ai/agents/arxiv-2603-20278.md)
   - [OpenRouter](../ai/agents/openrouter.md)
   - [OpenSearchCon North America | LF Events](../ai/rag/opensearchcon-north-america-lf-events.md)
-  - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
   - [OpenTelemetry](../ai/agents/opentelemetry.md)
   - [OpenThoughts-Agent: Data Recipes for Agentic Models](../ai/rag/arxiv-2606-24855.md)
   - [OpenTinker: Separating Concerns in Agentic Reinforcement Learning](../ai/agents/arxiv-2601-07376.md)
@@ -9325,11 +9324,9 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
   - [Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md)
-  - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](../ai/community/disney-raising-prices-days-after-confirming-ads-wi.md)
-  - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
-  - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
-  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
+  - [We have traits at home](../ai/community/we-have-traits-at-home.md)
 
 ## animation
 
@@ -37325,6 +37322,7 @@ Resources organized by keyword tags.
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Aggregation of Published Non-Uniform Axial Power Data for Phase II of the OECD/NEA AI/ML Critical Heat Flux Benchmark](../ai/research/arxiv-2507-00034.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
+  - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
   - [Ajar: Measuring Open Privilege in Agent Defenses](../ai/agents/arxiv-2609-26900.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
@@ -38161,7 +38159,6 @@ Resources organized by keyword tags.
   - [Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey](../ai/research/arxiv-2507-22920.md)
   - [Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](../ai/research/arxiv-2606-28228.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
-  - [Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier](../ai/community/disney-raising-prices-days-after-confirming-ads-wi.md)
   - [Dissecting Hierarchical Reasoning Models: A Mechanistic Study](../ai/research/arxiv-2609-22197.md)
   - [Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes](../ai/agents/arxiv-2606-17368.md)
   - [Distributed Learning with Selective State Space Models: Architecture-Aware Convergence Analysis](../ai/research/arxiv-2610-02659.md)
@@ -38357,7 +38354,6 @@ Resources organized by keyword tags.
   - [Evaluating the accuracy of KV cache reuse techniques](../ai/rag/arxiv-2609-31415.md)
   - [Event-triggered Implicit Perturbation for Zeroth-Order Fine-Tuning of Spiking Transformers](../ai/research/arxiv-2608-21223.md)
   - [Events | Twilio](../ai/agents/events-twilio.md)
-  - [Every AI model has the same "controversial" take on humans](../ai/community/every-ai-model-has-the-same-controversial-take-on.md)
   - [Evidence-Grounded Retrieval for Investigation Hunt Lead Generation from CTI Reports](../ai/rag/arxiv-2609-08790.md)
   - [EvoLen: Evolution-Guided Tokenization for DNA Language Model](../ai/research/arxiv-2604-08698.md)
   - [EvoRiskBench: An Evolving Benchmark for Runtime Security Risks in Workspace Agents](../ai/rag/arxiv-2610-03153.md)
@@ -39760,7 +39756,6 @@ Resources organized by keyword tags.
   - [OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods](../ai/research/arxiv-2510-21859.md)
   - [OpenJS Foundation · GitHub](../ai/resources/openjs-foundation-github.md)
   - [OpenSearchCon North America | LF Events](../ai/rag/opensearchcon-north-america-lf-events.md)
-  - [OpenShell – A safe, private runtime for fleets of autonomous AI agents](../ai/community/nvidia-openshell.md)
   - [OpenStamp: A Watermark for Open-Source Language Models](../ai/research/arxiv-2608-27899.md)
   - [Operationalising AI Regulatory Sandboxes: Activities, Requirements, and Technical Assessment under the EU AI Act](../ai/rag/arxiv-2509-25256.md)
   - [Operator-Theoretic Generalization Bounds for Multitask Deep Learning](../ai/research/arxiv-2608-15982.md)
@@ -41129,6 +41124,7 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
+  - [We have traits at home](../ai/community/we-have-traits-at-home.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -41228,7 +41224,6 @@ Resources organized by keyword tags.
   - [WorkGenesis: Building the Worlds That Teach Agents to Work](../ai/rag/arxiv-2609-39325.md)
   - [Working List of Hard Problems in AI - AI2050](../ai/rag/working-list-of-hard-problems-in-ai-ai2050.md)
   - [World Leader in Artificial Intelligence Computing | NVIDIA](../ai/rag/world-leader-in-artificial-intelligence-computing.md)
-  - [WorldTUI: I trained a 360M model to pretend to be a terminal](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md)
   - [Would this change your answer? Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments](../ai/agents/arxiv-2608-16747.md)
   - [Write on Paper and Get the Online Digital Trace: A New Era for Handwriting](../ai/research/arxiv-2609-12702.md)
   - [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md)
@@ -41335,6 +41330,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -67061,7 +67057,6 @@ Resources organized by keyword tags.
   - [Offline Reinforcement Learning for Hemodynamic Management of Sepsis in the ICU: a MIMIC-IV Study with Dual Off-Policy Evaluation](../ai/rag/arxiv-2608-16482.md)
   - [Offline Reinforcement Learning for Warehouse SLAM Throughput Control](../ai/rag/arxiv-2606-23978.md)
   - [Oilbird: Training-Free Speculative Decoding with Keys the Verifier Already Computes](../ai/rag/arxiv-2608-03839.md)
-  - [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](../ai/rag/huggingface-blog-allenai-olmoearth-v1-3.md)
   - [Omanic: Towards Step-wise Evaluation of Multi-hop Reasoning in Large Language Models](../ai/rag/arxiv-2603-16654.md)
   - [OmegAMP: Targeted AMP Discovery via Biologically Informed Generation](../ai/rag/arxiv-2504-17247.md)
   - [Omega-N: Interpretable Structural Node Descriptors and Their Applicability Domain](../ai/rag/arxiv-2609-01633.md)
@@ -84094,4 +84089,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-23T19:21:16.490735+05:30*
+*Index generated on 2026-10-24T01:50:38.527855+05:30*
