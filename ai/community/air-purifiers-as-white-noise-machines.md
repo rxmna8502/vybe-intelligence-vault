@@ -13,13 +13,14 @@ collected_at: '2026-10-24T18:19:26.998002+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:air-purifiers-as-white-noise-machines
 first_seen: '2026-10-24T01:34:00.384090+05:30'
 last_seen: '2026-10-24T18:19:26.998002+05:30'
 last_checked: '2026-10-24T18:19:26.998002+05:30'
 health_score: 100
 ---
+
 
 # Air Purifiers as White Noise Machines
 

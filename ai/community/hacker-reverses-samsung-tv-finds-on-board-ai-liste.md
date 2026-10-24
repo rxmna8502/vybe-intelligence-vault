@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:hacker-reverses-samsung-tv-finds-on-board-ai-liste
 first_seen: '2026-10-24T18:19:26.048377+05:30'
 last_seen: '2026-10-24T18:19:26.048377+05:30'
 last_checked: '2026-10-24T18:19:26.048377+05:30'
 health_score: 100
 ---
+
 
 # Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended
 

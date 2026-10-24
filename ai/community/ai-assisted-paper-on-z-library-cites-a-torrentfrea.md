@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - paper
-status: active
+status: inactive
 resource_id: hackernews:ai-assisted-paper-on-z-library-cites-a-torrentfrea
 first_seen: '2026-10-24T18:19:25.605086+05:30'
 last_seen: '2026-10-24T18:19:25.605086+05:30'
 last_checked: '2026-10-24T18:19:25.605086+05:30'
 health_score: 100
 ---
+
 
 # AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist
 

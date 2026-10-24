@@ -13,13 +13,14 @@ collected_at: '2026-10-24T18:19:26.143983+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-chalk-and-the-airplane
 first_seen: '2026-10-24T18:19:26.143983+05:30'
 last_seen: '2026-10-24T18:19:26.143983+05:30'
 last_checked: '2026-10-24T18:19:26.143983+05:30'
 health_score: 100
 ---
+
 
 # The Chalk and the Airplane
 

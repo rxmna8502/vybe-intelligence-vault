@@ -9326,11 +9326,10 @@ Resources organized by keyword tags.
 ## ai
 
   - [A practical guide to AI image generation, from diffusion to agents](../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md)
-  - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](../ai/community/ai-assisted-paper-on-z-library-cites-a-torrentfrea.md)
-  - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
   - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
-  - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](../ai/community/hacker-reverses-samsung-tv-finds-on-board-ai-liste.md)
-  - [The Chalk and the Airplane](../ai/community/the-chalk-and-the-airplane.md)
+  - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](../ai/community/glymphatic-clearance-to-alleviate-traumatic-brain.md)
+  - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
+  - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../ai/community/oai-math-revised-a-community-hub-for-revising-open.md)
 
 ## animation
 
@@ -37188,7 +37187,6 @@ Resources organized by keyword tags.
   - [AI, Brain Death Detection, and Islamic Law](../ai/research/arxiv-2608-16903.md)
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
-  - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](../ai/community/ai-assisted-paper-on-z-library-cites-a-torrentfrea.md)
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
@@ -37327,7 +37325,6 @@ Resources organized by keyword tags.
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Aggregation of Published Non-Uniform Axial Power Data for Phase II of the OECD/NEA AI/ML Critical Heat Flux Benchmark](../ai/research/arxiv-2507-00034.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
-  - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
   - [Ajar: Measuring Open Privilege in Agent Defenses](../ai/agents/arxiv-2609-26900.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
@@ -38732,6 +38729,7 @@ Resources organized by keyword tags.
   - [Global drivers and barriers to the public acceptance of autonomous vehicles: Evidence from 17 countries](../ai/agents/arxiv-2607-14436.md)
   - [Glossary](../ai/rag/glossary.md)
   - [Glucose-ML: A collection of longitudinal diabetes datasets for development of robust AI solutions](../ai/research/arxiv-2507-14077.md)
+  - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](../ai/community/glymphatic-clearance-to-alleviate-traumatic-brain.md)
   - [GnuTLS](../ai/resources/gnutls.md)
   - [Go Wiki: Go Modules - The Go Programming Language](../ai/rag/go-wiki-go-modules-the-go-programming-language.md)
   - [GoLand - YouTube](../ai/resources/goland-youtube.md)
@@ -38826,7 +38824,6 @@ Resources organized by keyword tags.
   - [HTTP Archive: Tech Report](../ai/resources/http-archive-tech-report.md)
   - [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md)
   - [HXAI: Hierarchical Privacy-Preserving Explainable AI in Distributed Energy Systems](../ai/research/arxiv-2610-02504.md)
-  - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](../ai/community/hacker-reverses-samsung-tv-finds-on-board-ai-liste.md)
   - [Hackster.io - The community dedicated to learning hardware.](../ai/resources/hackster-io-the-community-dedicated-to-learning-ha.md)
   - [HalluPeer: A Taxonomy-driven Benchmark for Detecting Hallucinations in Scientific Peer Reviews](../ai/research/arxiv-2609-03580.md)
   - [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../ai/research/arxiv-2608-11911.md)
@@ -39629,6 +39626,7 @@ Resources organized by keyword tags.
   - [Neural Symbollic Regression Using Deep Learning and Sparse Modelling](../ai/research/arxiv-2609-01102.md)
   - [Neural Variational Cut Posteriors without Upstream Data](../ai/rag/arxiv-2510-10268.md)
   - [Neural Wasserstein Splines: Representation-Invariant Second-Order Priors for Trajectory Inference](../ai/research/arxiv-2610-19878.md)
+  - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
   - [Neural network (machine learning) - Wikipedia](../ai/rag/neural-network-machine-learning-wikipedia.md)
   - [Neural-Network Solutions to Real-Space Charge Density and Generalization](../ai/research/arxiv-2609-14906.md)
   - [Neural-Surrogate Co-Design of Aerodynamic Shape and Control](../ai/research/arxiv-2603-06760.md)
@@ -39691,6 +39689,7 @@ Resources organized by keyword tags.
   - [OWASP AI Maturity Assessment | OWASP Foundation](../ai/rag/owasp-ai-maturity-assessment-owasp-foundation.md)
   - [OWASP API Security Project | OWASP Foundation](../ai/rag/owasp-api-security-project-owasp-foundation.md)
   - [OWASP/API-Security](../ai/resources/owasp-api-security.md)
+  - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../ai/community/oai-math-revised-a-community-hub-for-revising-open.md)
   - [Observation-Level Watermarking and Detection for Tabular Data](../ai/research/arxiv-2607-10554.md)
   - [Observations API - Langfuse](../ai/rag/observations-api-langfuse.md)
   - [Official App - GeeksforGeeks](../ai/resources/official-app-geeksforgeeks.md)
@@ -40741,7 +40740,6 @@ Resources organized by keyword tags.
   - [The Benchmark Trap: Structures of Power and Injustice in AI Evaluations](../ai/research/arxiv-2608-15326.md)
   - [The Biggest Risk of Embodied AI is Governance Lag](../ai/research/arxiv-2604-21938.md)
   - [The Calibration Channel Determines the Bayes-Error Proxy: An Exact Law for Temperature-Induced Distortion](../ai/rag/arxiv-2607-18162.md)
-  - [The Chalk and the Airplane](../ai/community/the-chalk-and-the-airplane.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing](../ai/rag/arxiv-2606-25108.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
@@ -51945,7 +51943,6 @@ Resources organized by keyword tags.
   - [Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations](../ai/agents/arxiv-2605-14175.md)
   - [Gurukul AI: An Interactive AI-Driven Educational Platform for Indian Education System](../ai/rag/arxiv-2608-28611.md)
   - [GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents](../ai/rag/arxiv-2608-16890.md)
-  - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](../ai/community/hacker-reverses-samsung-tv-finds-on-board-ai-liste.md)
   - [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md)
   - [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md)
   - [Harm is not Universal: Community-Specific Toxicity Detection is Urgently Needed](../ai/research/arxiv-2607-24898.md)
@@ -52114,6 +52111,7 @@ Resources organized by keyword tags.
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
   - [OGX: An Open-Source, Vendor-Neutral Generative AI Application Server](../ai/rag/arxiv-2608-14580.md)
   - [ORDER: A Fictitious-World Benchmark for Domain-Adaptive Embodied AI](../ai/research/arxiv-2609-22285.md)
+  - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../ai/community/oai-math-revised-a-community-hub-for-revising-open.md)
   - [Observations API - Langfuse](../ai/rag/observations-api-langfuse.md)
   - [Olapa-MCoT: Enhancing the Chinese Mathematical Reasoning Capability of LLMs](../ai/research/arxiv-2312-17535.md)
   - [On the Impact of Anonymization on the Performance of Large Language Models](../ai/research/arxiv-2609-11335.md)
@@ -52883,7 +52881,6 @@ Resources organized by keyword tags.
   - [AI-Assisted Computational Reproducibility on the FABRIC Testbed](../ai/research/arxiv-2606-25879.md)
   - [AI-Assisted Discovery and Construction of a Counterexample to the Convergence of Three-Block ADMM with the Identity Matrix as its Third Constraint Block](../ai/research/arxiv-2608-14396.md)
   - [AI-Assisted Knowledge Access for Legacy Enterprise Asset Management in Energy Operations: A Practical Retrieval System](../ai/research/arxiv-2607-24792.md)
-  - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](../ai/community/ai-assisted-paper-on-z-library-cites-a-torrentfrea.md)
   - [AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude](../ai/research/arxiv-2606-12424.md)
   - [AI-Based End-to-End Automotive Design and Software Development for SDVs](../ai/research/arxiv-2610-29160.md)
   - [AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design](../ai/research/arxiv-2606-09831.md)
@@ -72635,7 +72632,6 @@ Resources organized by keyword tags.
   - [HALDETECT at ImageEval 2026 Shared Tasks: Answer-First Contrastive Grounding with QLoRA](../ai/research/arxiv-2609-11236.md)
   - [HOME - National Privacy CommissionNational Privacy Commission](../ai/rag/home-national-privacy-commissionnational-privacy-c.md)
   - [HOME | mlai](../ai/resources/home-mlai.md)
-  - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](../ai/community/hacker-reverses-samsung-tv-finds-on-board-ai-liste.md)
   - [HaineiFRDM: Structure-Preserving Diffusion for Film Restoration under Fast Motion and Diverse Defects](../ai/rag/arxiv-2512-24946.md)
   - [Harmful SFT Leaves a Continuous Trace in LLM Checkpoint Updates](../ai/rag/arxiv-2610-07518.md)
   - [Harvard Business Publishing](../ai/resources/harvard-business-publishing.md)
@@ -84097,4 +84093,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-24T18:36:00.691297+05:30*
+*Index generated on 2026-10-25T00:40:23.059545+05:30*

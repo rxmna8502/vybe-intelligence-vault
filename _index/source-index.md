@@ -37158,11 +37158,10 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [A practical guide to AI image generation, from diffusion to agents](../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md)
-  - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](../ai/community/ai-assisted-paper-on-z-library-cites-a-torrentfrea.md)
-  - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
   - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
-  - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](../ai/community/hacker-reverses-samsung-tv-finds-on-board-ai-liste.md)
-  - [The Chalk and the Airplane](../ai/community/the-chalk-and-the-airplane.md)
+  - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](../ai/community/glymphatic-clearance-to-alleviate-traumatic-brain.md)
+  - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
+  - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../ai/community/oai-math-revised-a-community-hub-for-revising-open.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41060,4 +41059,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-24T18:36:01.161383+05:30*
+*Index generated on 2026-10-25T00:40:23.430212+05:30*
