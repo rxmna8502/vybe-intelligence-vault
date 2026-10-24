@@ -17,21 +17,16 @@ Distribution of original signal ingestion sources across processed URLs:
 | developer.chrome.com | 20 |
 | cloud.google.com | 19 |
 | developer.android.com | 17 |
-| openai.com | 16 |
 | web.dev | 16 |
-<<<<<<< Updated upstream
-=======
-| microsoft.com | 15 |
->>>>>>> Stashed changes
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
+| openai.com | 11 |
 | developer.mozilla.org | 11 |
 | code.visualstudio.com | 10 |
 | sbert.net | 10 |
-| openai.com | 10 |
 | atlassian.com | 10 |
 | nist.gov | 10 |
 | cloudflare.com | 9 |
