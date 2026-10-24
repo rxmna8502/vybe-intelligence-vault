@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:securing-our-frontier-model-training-environment
 first_seen: '2026-10-24T04:46:55.195954+05:30'
 last_seen: '2026-10-24T10:17:09.416317+05:30'
 last_checked: '2026-10-24T10:17:09.416317+05:30'
 health_score: 100
 ---
+
 
 # Securing our frontier model training environment
 

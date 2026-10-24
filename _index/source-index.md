@@ -37157,12 +37157,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A whirlwind tour of systemd-nspawn containers (2025)](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
+  - [A practical guide to AI image generation, from diffusion to agents](../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md)
+  - [AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist](../ai/community/ai-assisted-paper-on-z-library-cites-a-torrentfrea.md)
   - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
-  - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](../ai/community/alzheimer-s-breakthrough-2-hrs-of-sleep-restored-w.md)
   - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
-  - [Rise of collagen-eating microbes may help explain gaps in the fossil record](../ai/community/rise-of-collagen-eating-microbes-may-help-explain.md)
-  - [Securing our frontier model training environment](../ai/community/securing-our-frontier-model-training-environment.md)
+  - [Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended](../ai/community/hacker-reverses-samsung-tv-finds-on-board-ai-liste.md)
+  - [The Chalk and the Airplane](../ai/community/the-chalk-and-the-airplane.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41060,4 +41060,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-24T10:33:38.668066+05:30*
+*Index generated on 2026-10-24T18:36:01.161383+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-10-24T10:17:08.532805+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:rise-of-collagen-eating-microbes-may-help-explain
 first_seen: '2026-10-24T10:17:08.532805+05:30'
 last_seen: '2026-10-24T10:17:08.532805+05:30'
 last_checked: '2026-10-24T10:17:08.532805+05:30'
 health_score: 100
 ---
+
 
 # Rise of collagen-eating microbes may help explain gaps in the fossil record
 

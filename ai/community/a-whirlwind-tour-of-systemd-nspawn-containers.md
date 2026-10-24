@@ -13,13 +13,14 @@ collected_at: '2026-10-24T10:17:09.314677+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-whirlwind-tour-of-systemd-nspawn-containers
 first_seen: '2026-10-24T04:46:55.102065+05:30'
 last_seen: '2026-10-24T10:17:09.314677+05:30'
 last_checked: '2026-10-24T10:17:09.314677+05:30'
 health_score: 100
 ---
+
 
 # A whirlwind tour of systemd-nspawn containers (2025)
 
