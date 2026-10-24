@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-24T01:54:52.944389+05:30`
+Generated at: `2026-10-24T05:30:04.407317+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **We have traits at home** - Score: `36` in category `ai/community` ([Link](https://axelmagn.com/blog/202610-zig-traits)) ([File](../ai/community/we-have-traits-at-home.md))
-- **Air Purifiers as White Noise Machines** - Score: `30` in category `ai/community` ([Link](https://jefftk.com/p/air-purifiers-as-white-noise-machines)) ([File](../ai/community/air-purifiers-as-white-noise-machines.md))
-- **LitPivot: Developing research ideas through dynamic contextualization within the literature landscape** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/allenai/litpivot)) ([File](../ai/models/huggingface-blog-allenai-litpivot.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?** - Score: `514` (+249), Rank Change: `+3` ([File](../ai/community/ask-hn-if-the-models-are-so-good-why-doesn-t-opena.md))
-- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+7358` ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/human-computer-interaction.md))
+- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/agent0ai-agent-zero.md))
+- **Fosowl/agenticSeek** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/fosowl-agenticseek.md))
+- **JCodesMore/ai-chrome-extension-template** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/jcodesmore-ai-chrome-extension-template.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Senpi-ai/senpi-skills** - (Rank Change: `+7358`) ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **facebook/MusicGen** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+25`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9299`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1043`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1043`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **WorldTUI: I trained a 360M model to pretend to be a terminal** (Category: `ai/community`) ([File](../ai/community/worldtui-i-trained-a-360m-model-to-pretend-to-be-a.md))
-- **Every AI model has the same "controversial" take on humans** (Category: `ai/community`) ([File](../ai/community/every-ai-model-has-the-same-controversial-take-on.md))
-- **OpenShell – A safe, private runtime for fleets of autonomous AI agents** (Category: `ai/community`) ([File](../ai/community/nvidia-openshell.md))
-- **Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier** (Category: `ai/community`) ([File](../ai/community/disney-raising-prices-days-after-confirming-ads-wi.md))
+No recently active resources transitioned to inactive.
+
