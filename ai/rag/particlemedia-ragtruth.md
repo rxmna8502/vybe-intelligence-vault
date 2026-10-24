@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-10-24T04:47:45.332072+05:30'
+collected_at: '2026-10-24T10:17:58.017070+05:30'
 published_at: '2026-10-23T14:36:37Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-10-24T04:47:45.332072+05:30'
-last_seen: '2026-10-24T04:47:45.332072+05:30'
-last_checked: '2026-10-24T04:47:45.332072+05:30'
+first_seen: '2026-10-24T10:17:58.017070+05:30'
+last_seen: '2026-10-24T10:17:58.017070+05:30'
+last_checked: '2026-10-24T10:17:58.017070+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Introduces `RAGTruth`, a specialized hallucination corpus designed for evaluating and mitigating factual errors in Retrieval-Augmented Language Models (RAGs).
-*   Aims to enhance the trustworthiness of RAG systems by providing a benchmark for hallucination detection and reduction.
-*   Facilitates research and development of more reliable RAG architectures through a dedicated dataset for identifying and addressing model inconsistencies.
+*   Provides RAGTruth, a specialized corpus designed for identifying and analyzing hallucinations.
+*   Facilitates the development of trustworthy Retrieval-Augmented Language Models (RAGs).
+*   Aims to mitigate factual inaccuracies and confabulations in RAG system outputs.
 
 ## Why It Matters
 

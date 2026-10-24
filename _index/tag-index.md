@@ -9324,9 +9324,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A whirlwind tour of systemd-nspawn containers](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
+  - [A whirlwind tour of systemd-nspawn containers (2025)](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
   - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
-  - [Now Google says it might use your Gmail and Google Photos data to target ads](../ai/community/now-google-says-it-might-use-your-gmail-and-google.md)
+  - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](../ai/community/alzheimer-s-breakthrough-2-hrs-of-sleep-restored-w.md)
+  - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
+  - [Rise of collagen-eating microbes may help explain gaps in the fossil record](../ai/community/rise-of-collagen-eating-microbes-may-help-explain.md)
   - [Securing our frontier model training environment](../ai/community/securing-our-frontier-model-training-environment.md)
 
 ## animation
@@ -20721,7 +20723,6 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -32238,7 +32239,6 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -37135,7 +37135,7 @@ Resources organized by keyword tags.
   - [A survey of AI-generated voices and their detection](../ai/research/arxiv-2608-15411.md)
   - [A systematic review of machine learning techniques to address diagnosis and treatment of autism: challenges and opportunities](../ai/research/arxiv-2608-18188.md)
   - [A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem](../ai/research/arxiv-2607-28733.md)
-  - [A whirlwind tour of systemd-nspawn containers](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
+  - [A whirlwind tour of systemd-nspawn containers (2025)](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
   - [A.X K2 Technical Report](../ai/agents/arxiv-2608-30181.md)
   - [AAAI 2024 Conference - AAAI](../ai/resources/aaai-2024-conference-aaai.md)
   - [AAS-RAIL: Improving Information Extraction for Asset Administration Shells through Retrieval-Augmented In-Context Learning](../ai/rag/arxiv-2609-07334.md)
@@ -37340,6 +37340,7 @@ Resources organized by keyword tags.
   - [Allure of Craquelure: A Variational-Generative Approach to Crack Detection in Paintings](../ai/research/arxiv-2602-09730.md)
   - [Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise](../ai/research/arxiv-2609-12119.md)
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
+  - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](../ai/community/alzheimer-s-breakthrough-2-hrs-of-sleep-restored-w.md)
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
   - [Amortizing intractable inference in diffusion models for vision, language, and control](../ai/rag/arxiv-2405-20971.md)
   - [An AI-assisted conditioning and geological interpretation workflow for usage in implicit geological modeling](../ai/research/arxiv-2610-09871.md)
@@ -38114,6 +38115,7 @@ Resources organized by keyword tags.
   - [Designing a Boundary Negotiating Artifact for Collaborative Socio-Technical Sense-Making in AI Regulatory Sandboxes](../ai/research/arxiv-2609-37109.md)
   - [Designing for Interpretation Uncertainty: Architecture and Principles for Topological Learning Analytics Dashboards](../ai/research/arxiv-2610-01749.md)
   - [Desktop for developers | Ubuntu](../ai/rag/desktop-for-developers-ubuntu.md)
+  - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
   - [Detecting AI-Generated Videos with Spiking Neural Networks](../ai/research/arxiv-2605-05895.md)
   - [Detecting Glaucoma Across Multi-ethnic Myopic and Non-Myopic Populations Using an Uncertainty-Aware Vision Transformer: A Multicentre Model Development and Validation Study](../ai/research/arxiv-2609-29433.md)
   - [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](../ai/agents/arxiv-2604-01151.md)
@@ -39674,7 +39676,6 @@ Resources organized by keyword tags.
   - [Nothing Personal, a new editorial platform by Mozilla Foundation - Mozilla Foundation](../ai/rag/nothing-personal-a-new-editorial-platform-by-mozil.md)
   - [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](../ai/rag/arxiv-2607-03985.md)
   - [NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment](../ai/research/arxiv-2609-11234.md)
-  - [Now Google says it might use your Gmail and Google Photos data to target ads](../ai/community/now-google-says-it-might-use-your-gmail-and-google.md)
   - [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](../ai/research/arxiv-2608-04030.md)
   - [Nuro—Autonomy for all. All roads, all rides. | Nuro](../ai/rag/nuro-autonomy-for-all-all-roads-all-rides-nuro.md)
   - [Nvidia is latest investor to back AV startup Nuro in $203M funding round | TechCrunch](../ai/rag/nvidia-is-latest-investor-to-back-av-startup-nuro.md)
@@ -40253,6 +40254,7 @@ Resources organized by keyword tags.
   - [Riemannian Optimization for Multi-Player Quantum Games on Product Unitary Manifolds](../ai/agents/arxiv-2609-07397.md)
   - [Right Answers, Costly Models: The Efficiency Gap in LLM-based Optimization Modeling](../ai/agents/arxiv-2609-38884.md)
   - [Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations](../ai/research/arxiv-2607-24773.md)
+  - [Rise of collagen-eating microbes may help explain gaps in the fossil record](../ai/community/rise-of-collagen-eating-microbes-may-help-explain.md)
   - [Risk-Aware General-Utility Markov Decision Processes](../ai/agents/arxiv-2607-09298.md)
   - [Risk-Constrained Freshness-Aware Semantic Caching for Open-Web Retrieval-Augmented LLMs](../ai/rag/arxiv-2607-04281.md)
   - [Risky Business: Measuring The Faithfulness-Safety Tension](../ai/agents/arxiv-2608-03745.md)
@@ -41333,8 +41335,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -80414,7 +80414,6 @@ Resources organized by keyword tags.
   - [python-poetry/poetry](../ai/resources/python-poetry-poetry.md)
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
-  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -84094,4 +84093,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-24T05:03:35.002865+05:30*
+*Index generated on 2026-10-24T10:33:38.275339+05:30*

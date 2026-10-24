@@ -37157,9 +37157,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A whirlwind tour of systemd-nspawn containers](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
+  - [A whirlwind tour of systemd-nspawn containers (2025)](../ai/community/a-whirlwind-tour-of-systemd-nspawn-containers.md)
   - [Air Purifiers as White Noise Machines](../ai/community/air-purifiers-as-white-noise-machines.md)
-  - [Now Google says it might use your Gmail and Google Photos data to target ads](../ai/community/now-google-says-it-might-use-your-gmail-and-google.md)
+  - [Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques](../ai/community/alzheimer-s-breakthrough-2-hrs-of-sleep-restored-w.md)
+  - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
+  - [Rise of collagen-eating microbes may help explain gaps in the fossil record](../ai/community/rise-of-collagen-eating-microbes-may-help-explain.md)
   - [Securing our frontier model training environment](../ai/community/securing-our-frontier-model-training-environment.md)
 
 ## Unknown Source (type: huggingface)
@@ -41058,4 +41060,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-24T05:03:35.450699+05:30*
+*Index generated on 2026-10-24T10:33:38.668066+05:30*

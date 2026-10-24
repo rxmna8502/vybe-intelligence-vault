@@ -13,13 +13,14 @@ collected_at: '2026-10-24T04:46:54.778814+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:now-google-says-it-might-use-your-gmail-and-google
 first_seen: '2026-10-24T04:46:54.778814+05:30'
 last_seen: '2026-10-24T04:46:54.778814+05:30'
 last_checked: '2026-10-24T04:46:54.778814+05:30'
 health_score: 100
 ---
+
 
 # Now Google says it might use your Gmail and Google Photos data to target ads
 
