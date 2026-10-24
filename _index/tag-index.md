@@ -9327,9 +9327,10 @@ Resources organized by keyword tags.
 
   - [A practical guide to AI image generation, from diffusion to agents](../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md)
   - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
-  - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](../ai/community/glymphatic-clearance-to-alleviate-traumatic-brain.md)
   - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
+  - [No signs of AI payoff outside the tech sector](../ai/community/no-signs-of-ai-payoff-outside-the-tech-sector.md)
   - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../ai/community/oai-math-revised-a-community-hub-for-revising-open.md)
+  - [Why is AI generated language so hard to understand?](../ai/research/arxiv-2610-29162.md)
 
 ## animation
 
@@ -38729,7 +38730,6 @@ Resources organized by keyword tags.
   - [Global drivers and barriers to the public acceptance of autonomous vehicles: Evidence from 17 countries](../ai/agents/arxiv-2607-14436.md)
   - [Glossary](../ai/rag/glossary.md)
   - [Glucose-ML: A collection of longitudinal diabetes datasets for development of robust AI solutions](../ai/research/arxiv-2507-14077.md)
-  - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](../ai/community/glymphatic-clearance-to-alleviate-traumatic-brain.md)
   - [GnuTLS](../ai/resources/gnutls.md)
   - [Go Wiki: Go Modules - The Go Programming Language](../ai/rag/go-wiki-go-modules-the-go-programming-language.md)
   - [GoLand - YouTube](../ai/resources/goland-youtube.md)
@@ -39656,6 +39656,7 @@ Resources organized by keyword tags.
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
+  - [No signs of AI payoff outside the tech sector](../ai/community/no-signs-of-ai-payoff-outside-the-tech-sector.md)
   - [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](../ai/research/arxiv-2609-10854.md)
   - [Node-level Graph Neural Architecture Search Framework](../ai/research/arxiv-2610-09297.md)
   - [NodeSynth: Socially Aligned Synthetic Data for AI Evaluation](../ai/rag/arxiv-2605-14381.md)
@@ -41214,6 +41215,7 @@ Resources organized by keyword tags.
   - [Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing](../ai/research/arxiv-2607-25648.md)
   - [Why did My Robot Just Change Personality? Prompting Guidelines for a Grounded Robot Persona in LLM-Based HRI](../ai/research/arxiv-2608-26182.md)
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
+  - [Why is AI generated language so hard to understand?](../ai/research/arxiv-2610-29162.md)
   - [Why not to use the Gaussian kernel](../ai/research/arxiv-2608-26974.md)
   - [WiFi-Based People Counting Using Beam-Steerable Antennas: A Test-bed Study](../ai/research/arxiv-2606-23710.md)
   - [Wikidata](../ai/rag/wikidata.md)
@@ -41334,7 +41336,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -51336,7 +51337,6 @@ Resources organized by keyword tags.
   - [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](../ai/rag/arxiv-2609-04098.md)
   - [Why Large Language Models Fail at Tabular Prediction](../ai/agents/arxiv-2608-02412.md)
   - [Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It](../ai/agents/arxiv-2606-26027.md)
-  - [Why is AI-generated language so hard to understand?](../ai/research/arxiv-2610-29162.md)
   - [Why2Speak: Faithful Reasoning for Abstaining Action Policies](../ai/agents/arxiv-2608-20670.md)
   - [WiSDoM: Wireless Sparse Decision Transformer with Mixture-of-Experts for Multi-Task Mobile Network Optimization](../ai/research/arxiv-2609-00284.md)
   - [WiSP: A Working-Set View of Mixture-of-Experts Serving on Extremely Low-Resource Hardware](../ai/agents/arxiv-2606-21868.md)
@@ -84093,4 +84093,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-25T00:40:23.059545+05:30*
+*Index generated on 2026-10-25T04:22:49.056278+05:30*

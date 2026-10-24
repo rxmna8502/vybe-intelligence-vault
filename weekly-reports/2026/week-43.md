@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **1043** new resources across our source networks.
+During this cycle, we discovered **1041** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -21,7 +21,7 @@ This week had strong activity around frontend tools.
 
 | Category | Count |
 |---|---:|
-| ai/research | 1258 |
+| ai/research | 1257 |
 | ai/models | 829 |
 | ai/rag | 703 |
 | ai/agents | 483 |
@@ -30,7 +30,7 @@ This week had strong activity around frontend tools.
 | ai/companies/anthropic | 10 |
 | ai/companies/mistral | 10 |
 | ai/companies | 10 |
-| ai/community | 5 |
+| ai/community | 6 |
 | ai/companies/openai | 5 |
 | ai/companies/deepmind | 5 |
 
@@ -41,7 +41,7 @@ This week had strong activity around frontend tools.
 | benchmark | 1016 |
 | rag | 720 |
 | agents | 643 |
-| models | 581 |
+| models | 580 |
 | dataset | 483 |
 | paper | 317 |
 | hackernews | 179 |
@@ -56,147 +56,148 @@ This week had strong activity around frontend tools.
 
 ## Weekly Community Updates
 
-1. [Dessa: Conversation Model trained only on speech](../../ai/community/dessa-conversation-model-trained-only-on-speech.md) ([Source](https://block.xyz/dessa)) (HN Score: 476) - `ai/community`
-2. [A practical guide to AI image generation, from diffusion to agents](../../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md) ([Source](https://danielball.com/notes/ai_image_generation.html)) (HN Score: 216) - `ai/community`
-3. [Neural chip decodes interactions between brain regions](../../ai/community/neural-chip-decodes-interactions-between-brain-reg.md) ([Source](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2)) (HN Score: 53) - `ai/community`
-4. [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../../ai/community/oai-math-revised-a-community-hub-for-revising-open.md) ([Source](https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups)) (HN Score: 12) - `ai/community`
-5. [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](../../ai/community/glymphatic-clearance-to-alleviate-traumatic-brain.md) ([Source](https://science.org/doi/10.1126/sciadv.aeh8870)) (HN Score: 6) - `ai/community`
-6. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
-7. [m-a-p/FineFineWeb](../../ai/models/huggingface-datasets-m-a-p.md) ([Source](https://huggingface.co/datasets/m-a-p)) - `ai/models`
-8. [hallucinations-leaderboard/results](../../ai/models/huggingface-datasets-hallucinations-leaderboard.md) ([Source](https://huggingface.co/datasets/hallucinations-leaderboard)) - `ai/models`
-9. [wegrthj/e94fjt-qi9l-raw](../../ai/models/huggingface-datasets-wegrthj.md) ([Source](https://huggingface.co/datasets/wegrthj)) - `ai/models`
-10. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
-11. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
-12. [transferable-samplers/many-peptides-md](../../ai/models/huggingface-datasets-transferable-samplers.md) ([Source](https://huggingface.co/datasets/transferable-samplers)) - `ai/models`
-13. [BuLei/imgbed](../../ai/models/huggingface-datasets-bulei.md) ([Source](https://huggingface.co/datasets/bulei)) - `ai/models`
-14. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
-15. [epfml/FineWeb-HQ](../../ai/models/huggingface-datasets-epfml.md) ([Source](https://huggingface.co/datasets/epfml)) - `ai/models`
-16. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
-17. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
-18. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
-19. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
-20. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
-21. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
-22. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
-23. [Comfy-Org/MiniMax-H3](../../ai/models/huggingface-comfy-org-minimax-h3.md) ([Source](https://huggingface.co/comfy-org/minimax-h3)) - `ai/models`
-24. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
-25. [google-t5/t5-small](../../ai/models/huggingface-google-t5-t5-small.md) ([Source](https://huggingface.co/google-t5/t5-small)) - `ai/models`
-26. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
-27. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
-28. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
-29. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
-30. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
-31. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
-32. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
-33. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
-34. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
-35. [Improving navigation experience in v0 with Next.js 16.4](../../ai/agents/improving-navigation-experience-in-v0-with-next-js.md) ([Source](https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4)) - `ai/agents`
-36. [Next.js Security Update for Upstream Vulnerabilities](../../web-development/nextjs/next-js-security-update-for-upstream-vulnerabiliti.md) ([Source](https://nextjs.org/blog/nextjs-security-update-october-14-2026)) - `web-development/nextjs`
-37. [Next.js 16.4](../../web-development/nextjs/next-js-16-4.md) ([Source](https://nextjs.org/blog/next-16-4)) - `web-development/nextjs`
-38. [September 2026 Security Release](../../web-development/nextjs/september-2026-security-release.md) ([Source](https://nextjs.org/blog/september-2026-security-release)) - `web-development/nextjs`
-39. [Upcoming Next.js September Security Release](../../web-development/nextjs/upcoming-next-js-september-security-release.md) ([Source](https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026)) - `web-development/nextjs`
-40. [Next.js Security Update for a Critical Upstream Issue](../../web-development/nextjs/next-js-security-update-for-a-critical-upstream-is.md) ([Source](https://nextjs.org/blog/nextjs-security-update-september-22-2026)) - `web-development/nextjs`
-41. [How we closed 1,500 GitHub issues in one month](../../ai/agents/how-we-closed-1500-github-issues-in-one-month.md) ([Source](https://nextjs.org/blog/how-we-closed-1500-github-issues)) - `ai/agents`
-42. [How Turbopack chunks your JavaScript](../../ai/rag/how-turbopack-chunks-your-javascript.md) ([Source](https://nextjs.org/blog/turbopack-chunking)) - `ai/rag`
-43. [August 2026 Security Release](../../web-development/nextjs/august-2026-security-release.md) ([Source](https://nextjs.org/blog/august-2026-security-release)) - `web-development/nextjs`
-44. [Update: August Next.js Security Release](../../web-development/nextjs/update-august-next-js-security-release.md) ([Source](https://nextjs.org/blog/nextjs-security-release-august-2026-update)) - `web-development/nextjs`
-45. [Upcoming Next.js August Security Release](../../web-development/nextjs/upcoming-next-js-august-security-release.md) ([Source](https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026)) - `web-development/nextjs`
-46. [Building App-like Experiences with Next.js 16.3](../../web-development/nextjs/building-app-like-experiences-with-next-js-16-3.md) ([Source](https://nextjs.org/blog/building-app-like-experiences-with-nextjs-16-3)) - `web-development/nextjs`
-47. [Making Navigations Instant in v0](../../ai/agents/making-navigations-instant-in-v0.md) ([Source](https://nextjs.org/blog/making-v0-navigations-instant)) - `ai/agents`
-48. [Next.js 16.3](../../ai/agents/next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3)) - `ai/agents`
-49. [July 2026 Security Release](../../web-development/nextjs/july-2026-security-release.md) ([Source](https://nextjs.org/blog/july-2026-security-release)) - `web-development/nextjs`
-50. [Next.js Security Release and Our Next Patch Release](../../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md) ([Source](https://nextjs.org/blog/next-security-release-program)) - `web-development/nextjs`
-51. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
-52. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
-53. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
-54. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
-55. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
-56. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
-57. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
-58. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
-59. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
-60. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
-61. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
-62. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
-63. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
-64. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
-65. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
-66. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
-67. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
-68. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
-69. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
-70. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
-71. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
-72. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
-73. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
-74. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
-75. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
-76. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
-77. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
-78. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
-79. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
-80. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
-81. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
-82. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
-83. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
-84. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
-85. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
-86. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
-87. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
-88. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
-89. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
-90. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
-91. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
-92. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
-93. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
-94. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
-95. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
-96. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
-97. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
-98. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
-99. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
-100. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
-101. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
-102. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
-103. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
-104. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
-105. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
-106. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
-107. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
-108. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
-109. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
-110. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
-111. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
-112. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
-113. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
-114. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
-115. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
-116. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
-117. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
-118. [React 19.3](../../ai/rag/react-19-3.md) ([Source](https://react.dev/blog/2026/09/09/react-19-3)) - `ai/rag`
-119. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
-120. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
-121. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
-122. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
-123. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
-124. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
-125. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
-126. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
-127. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
-128. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
-129. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
-130. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
-131. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
-132. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
-133. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../web-development/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
-134. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
-135. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
-136. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
-137. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
-138. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
-139. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
-140. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
-141. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
+1. [Dessa: Conversation Model trained only on speech](../../ai/community/dessa-conversation-model-trained-only-on-speech.md) ([Source](https://block.xyz/dessa)) (HN Score: 498) - `ai/community`
+2. [No signs of AI payoff outside the tech sector](../../ai/community/no-signs-of-ai-payoff-outside-the-tech-sector.md) ([Source](https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)) (HN Score: 379) - `ai/community`
+3. [A practical guide to AI image generation, from diffusion to agents](../../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md) ([Source](https://danielball.com/notes/ai_image_generation.html)) (HN Score: 237) - `ai/community`
+4. [Why is AI generated language so hard to understand?](../../ai/research/arxiv-2610-29162.md) ([Source](https://arxiv.org/abs/2610.29162)) (HN Score: 128) - `ai/community`
+5. [Neural chip decodes interactions between brain regions](../../ai/community/neural-chip-decodes-interactions-between-brain-reg.md) ([Source](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2)) (HN Score: 74) - `ai/community`
+6. [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../../ai/community/oai-math-revised-a-community-hub-for-revising-open.md) ([Source](https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups)) (HN Score: 25) - `ai/community`
+7. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
+8. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
+9. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
+10. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
+11. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
+12. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
+13. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
+14. [Comfy-Org/MiniMax-H3](../../ai/models/huggingface-comfy-org-minimax-h3.md) ([Source](https://huggingface.co/comfy-org/minimax-h3)) - `ai/models`
+15. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
+16. [google-t5/t5-small](../../ai/models/huggingface-google-t5-t5-small.md) ([Source](https://huggingface.co/google-t5/t5-small)) - `ai/models`
+17. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
+18. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
+19. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
+20. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
+21. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
+22. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
+23. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
+24. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
+25. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
+26. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
+27. [m-a-p/FineFineWeb](../../ai/models/huggingface-datasets-m-a-p.md) ([Source](https://huggingface.co/datasets/m-a-p)) - `ai/models`
+28. [hallucinations-leaderboard/results](../../ai/models/huggingface-datasets-hallucinations-leaderboard.md) ([Source](https://huggingface.co/datasets/hallucinations-leaderboard)) - `ai/models`
+29. [wegrthj/e94fjt-qi9l-raw](../../ai/models/huggingface-datasets-wegrthj.md) ([Source](https://huggingface.co/datasets/wegrthj)) - `ai/models`
+30. [hf-doc-build/doc-build-dev](../../ai/models/huggingface-datasets-hf-doc-build.md) ([Source](https://huggingface.co/datasets/hf-doc-build)) - `ai/models`
+31. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
+32. [transferable-samplers/many-peptides-md](../../ai/models/huggingface-datasets-transferable-samplers.md) ([Source](https://huggingface.co/datasets/transferable-samplers)) - `ai/models`
+33. [BuLei/imgbed](../../ai/models/huggingface-datasets-bulei.md) ([Source](https://huggingface.co/datasets/bulei)) - `ai/models`
+34. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
+35. [epfml/FineWeb-HQ](../../ai/models/huggingface-datasets-epfml.md) ([Source](https://huggingface.co/datasets/epfml)) - `ai/models`
+36. [Improving navigation experience in v0 with Next.js 16.4](../../ai/agents/improving-navigation-experience-in-v0-with-next-js.md) ([Source](https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4)) - `ai/agents`
+37. [Next.js Security Update for Upstream Vulnerabilities](../../web-development/nextjs/next-js-security-update-for-upstream-vulnerabiliti.md) ([Source](https://nextjs.org/blog/nextjs-security-update-october-14-2026)) - `web-development/nextjs`
+38. [Next.js 16.4](../../web-development/nextjs/next-js-16-4.md) ([Source](https://nextjs.org/blog/next-16-4)) - `web-development/nextjs`
+39. [September 2026 Security Release](../../web-development/nextjs/september-2026-security-release.md) ([Source](https://nextjs.org/blog/september-2026-security-release)) - `web-development/nextjs`
+40. [Upcoming Next.js September Security Release](../../web-development/nextjs/upcoming-next-js-september-security-release.md) ([Source](https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026)) - `web-development/nextjs`
+41. [Next.js Security Update for a Critical Upstream Issue](../../web-development/nextjs/next-js-security-update-for-a-critical-upstream-is.md) ([Source](https://nextjs.org/blog/nextjs-security-update-september-22-2026)) - `web-development/nextjs`
+42. [How we closed 1,500 GitHub issues in one month](../../ai/agents/how-we-closed-1500-github-issues-in-one-month.md) ([Source](https://nextjs.org/blog/how-we-closed-1500-github-issues)) - `ai/agents`
+43. [How Turbopack chunks your JavaScript](../../ai/rag/how-turbopack-chunks-your-javascript.md) ([Source](https://nextjs.org/blog/turbopack-chunking)) - `ai/rag`
+44. [August 2026 Security Release](../../web-development/nextjs/august-2026-security-release.md) ([Source](https://nextjs.org/blog/august-2026-security-release)) - `web-development/nextjs`
+45. [Update: August Next.js Security Release](../../web-development/nextjs/update-august-next-js-security-release.md) ([Source](https://nextjs.org/blog/nextjs-security-release-august-2026-update)) - `web-development/nextjs`
+46. [Upcoming Next.js August Security Release](../../web-development/nextjs/upcoming-next-js-august-security-release.md) ([Source](https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026)) - `web-development/nextjs`
+47. [Building App-like Experiences with Next.js 16.3](../../web-development/nextjs/building-app-like-experiences-with-next-js-16-3.md) ([Source](https://nextjs.org/blog/building-app-like-experiences-with-nextjs-16-3)) - `web-development/nextjs`
+48. [Making Navigations Instant in v0](../../ai/agents/making-navigations-instant-in-v0.md) ([Source](https://nextjs.org/blog/making-v0-navigations-instant)) - `ai/agents`
+49. [Next.js 16.3](../../ai/agents/next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3)) - `ai/agents`
+50. [July 2026 Security Release](../../web-development/nextjs/july-2026-security-release.md) ([Source](https://nextjs.org/blog/july-2026-security-release)) - `web-development/nextjs`
+51. [Next.js Security Release and Our Next Patch Release](../../web-development/nextjs/next-js-security-release-and-our-next-patch-releas.md) ([Source](https://nextjs.org/blog/next-security-release-program)) - `web-development/nextjs`
+52. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
+53. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
+54. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
+55. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
+56. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
+57. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
+58. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
+59. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
+60. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
+61. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
+62. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
+63. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
+64. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
+65. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
+66. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
+67. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
+68. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
+69. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
+70. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
+71. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
+72. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
+73. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
+74. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
+75. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
+76. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
+77. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
+78. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
+79. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
+80. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
+81. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
+82. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
+83. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
+84. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
+85. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
+86. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
+87. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
+88. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
+89. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
+90. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
+91. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
+92. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
+93. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
+94. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
+95. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
+96. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
+97. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
+98. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
+99. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
+100. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
+101. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
+102. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
+103. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
+104. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
+105. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
+106. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
+107. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
+108. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
+109. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
+110. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
+111. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
+112. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
+113. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
+114. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
+115. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
+116. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
+117. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
+118. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
+119. [React 19.3](../../ai/rag/react-19-3.md) ([Source](https://react.dev/blog/2026/09/09/react-19-3)) - `ai/rag`
+120. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
+121. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
+122. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
+123. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
+124. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
+125. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
+126. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
+127. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
+128. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
+129. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
+130. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
+131. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
+132. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
+133. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
+134. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../web-development/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
+135. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
+136. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
+137. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
+138. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
+139. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
+140. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
+141. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
+142. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
 
 ## Weekly Research Insights
 
@@ -2284,217 +2285,216 @@ This week had strong activity around frontend tools.
 2082. [Multitask learning with semiempirical orbital charges enables sample-efficient MLIPs](../../ai/research/arxiv-2605-24073.md) ([Source](https://arxiv.org/abs/2605.24073)) - `ai/research`
 2083. [Building Auditable AI Text Detectors with Sparse Autoencoders](../../ai/research/arxiv-2610-30006.md) ([Source](https://arxiv.org/abs/2610.30006)) - `ai/research`
 2084. [Consistency Is Not Validity: Self-Rewarded Moral Argumentation Makes Language Models Decisive but Pliable](../../ai/research/arxiv-2610-30349.md) ([Source](https://arxiv.org/abs/2610.30349)) - `ai/research`
-2085. [Why is AI-generated language so hard to understand?](../../ai/research/arxiv-2610-29162.md) ([Source](https://arxiv.org/abs/2610.29162)) - `ai/research`
-2086. [Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](../../ai/research/arxiv-2602-11590.md) ([Source](https://arxiv.org/abs/2602.11590)) - `ai/research`
-2087. [Multi-Objective Protein Optimization via Modular Diffusion Steering](../../ai/research/arxiv-2610-28943.md) ([Source](https://arxiv.org/abs/2610.28943)) - `ai/research`
-2088. [Rethinking the design space of Vanilla Pixel Diffusion Transformers](../../ai/research/arxiv-2610-23854.md) ([Source](https://arxiv.org/abs/2610.23854)) - `ai/research`
-2089. [OSCC: Certified Observation-Safe Coupling Optimization for Gradient-Noise Control in Imperfect-Information Learning](../../ai/research/arxiv-2609-33543.md) ([Source](https://arxiv.org/abs/2609.33543)) - `ai/research`
-2090. [World Models Under Asynchronous Sensor Observations](../../ai/research/arxiv-2609-07299.md) ([Source](https://arxiv.org/abs/2609.07299)) - `ai/research`
-2091. [From Fuzzy to Exact: The Halo Architecture for Infinite-Depth Reasoning via Rational Arithmetic](../../ai/research/arxiv-2601-18702.md) ([Source](https://arxiv.org/abs/2601.18702)) - `ai/research`
-2092. [EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion](../../ai/research/arxiv-2609-26039.md) ([Source](https://arxiv.org/abs/2609.26039)) - `ai/research`
-2093. [Distinguishability and Recovery for a Doubly Sparse Spiked Wigner Model](../../ai/research/arxiv-2610-23033.md) ([Source](https://arxiv.org/abs/2610.23033)) - `ai/research`
-2094. [A Label Noise Robust Algorithm for Graph Data using Neighborhood Label Distribution](../../ai/research/arxiv-2610-22998.md) ([Source](https://arxiv.org/abs/2610.22998)) - `ai/research`
-2095. [CARLAR Influence: A Structured Hallucination Risk in Multimodal Cheque Extraction and an Exploratory Compressed-Image Countermeasure](../../ai/research/arxiv-2610-27192.md) ([Source](https://arxiv.org/abs/2610.27192)) - `ai/research`
-2096. [LSA-PAST: Layer-Specific Adaptation and Prototype Transport for Compositional Incremental Learning](../../ai/research/arxiv-2610-27203.md) ([Source](https://arxiv.org/abs/2610.27203)) - `ai/research`
-2097. [Drift Says When, Budget Says How Much: Rate-Controlled KV Re-selection for Long-Form Multimodal Generation](../../ai/research/arxiv-2610-31433.md) ([Source](https://arxiv.org/abs/2610.31433)) - `ai/research`
-2098. [Can the Parts Fool the Test? Counterfactual Pairing Cycles for Relational OOD](../../ai/research/arxiv-2610-23248.md) ([Source](https://arxiv.org/abs/2610.23248)) - `ai/research`
-2099. [Polyscene: Scenario Planning as Diversity Planning](../../ai/research/arxiv-2610-28102.md) ([Source](https://arxiv.org/abs/2610.28102)) - `ai/research`
-2100. [Using Data-Derived Priors to Guide CNN Architecture Design for NIR Chemometrics](../../ai/research/arxiv-2607-25636.md) ([Source](https://arxiv.org/abs/2607.25636)) - `ai/research`
-2101. [On the gradient conjecture at infinity: Finite spherical length for gradient trajectories of definable potentials](../../ai/research/arxiv-2610-29211.md) ([Source](https://arxiv.org/abs/2610.29211)) - `ai/research`
-2102. [High-Value Training Data from Noisy, Diverse Sources](../../ai/research/arxiv-2610-30421.md) ([Source](https://arxiv.org/abs/2610.30421)) - `ai/research`
-2103. [The Mathematical Theory of Double Descent as Shrinkage, not Overfitting: Matching Bounds for Path-Regularized Multilayer Neural Networks](../../ai/research/arxiv-2503-02129.md) ([Source](https://arxiv.org/abs/2503.02129)) - `ai/research`
-2104. [Trail-Weighted Influence Scores for Approximate Outcome Prediction in Bayesian Networks](../../ai/research/arxiv-2610-27366.md) ([Source](https://arxiv.org/abs/2610.27366)) - `ai/research`
-2105. [Symmetries and Causality: Causal Effect Identification Beyond IID Data](../../ai/research/arxiv-2609-03697.md) ([Source](https://arxiv.org/abs/2609.03697)) - `ai/research`
-2106. [Towards optimal selection schedules for online active learning](../../ai/research/arxiv-2610-23477.md) ([Source](https://arxiv.org/abs/2610.23477)) - `ai/research`
-2107. [From POMDP Theory to Deep RL with Particle Filters](../../ai/research/arxiv-2610-27575.md) ([Source](https://arxiv.org/abs/2610.27575)) - `ai/research`
-2108. [Causal Edit Serialization](../../ai/research/arxiv-2610-22820.md) ([Source](https://arxiv.org/abs/2610.22820)) - `ai/research`
-2109. [Corpus Quality Improves, Retrieval Utility Does Not: An Ablation of Preprocessing and Refinement in a Speech-to-QA Pipeline](../../ai/research/arxiv-2610-27652.md) ([Source](https://arxiv.org/abs/2610.27652)) - `ai/research`
-2110. [The Complexity Kink: A Prompt-Side Structural Complexity Index for Code-Generation Reliability](../../ai/research/arxiv-2609-19616.md) ([Source](https://arxiv.org/abs/2609.19616)) - `ai/research`
-2111. [Huayu-Global: Skillful real-time quasi-global precipitation retrieval](../../ai/research/arxiv-2610-29213.md) ([Source](https://arxiv.org/abs/2610.29213)) - `ai/research`
-2112. [Feature Selection for Latent Factor Models](../../ai/research/arxiv-2412-10128.md) ([Source](https://arxiv.org/abs/2412.10128)) - `ai/research`
-2113. [IndicDetect: Evaluating Cross-Lingual LLM-Generated Text Detection for Hindi, Telugu, and Tamil](../../ai/research/arxiv-2608-29919.md) ([Source](https://arxiv.org/abs/2608.29919)) - `ai/research`
-2114. [Curvature-Scaled Sharpness-Aware Minimization: Convergence Beyond Smoothness](../../ai/research/arxiv-2610-29192.md) ([Source](https://arxiv.org/abs/2610.29192)) - `ai/research`
-2115. [HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second](../../ai/research/arxiv-2610-28950.md) ([Source](https://arxiv.org/abs/2610.28950)) - `ai/research`
-2116. [Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning](../../ai/research/arxiv-2610-28584.md) ([Source](https://arxiv.org/abs/2610.28584)) - `ai/research`
-2117. [Board gender diversity and emissions performance: Insights from panel regressions, machine learning, and explainable AI](../../ai/research/arxiv-2510-00244.md) ([Source](https://arxiv.org/abs/2510.00244)) - `ai/research`
-2118. [Data-driven and physics-guided hindcasting of measured wave spectra](../../ai/research/arxiv-2610-29306.md) ([Source](https://arxiv.org/abs/2610.29306)) - `ai/research`
-2119. [LEMON: Equivariant Learning over Attention Maps for Zero-Shot Misbehavior Monitoring on New LLMs](../../ai/research/arxiv-2610-22723.md) ([Source](https://arxiv.org/abs/2610.22723)) - `ai/research`
-2120. [SYNAPSE: Framework for Neuron Analysis and Perturbation in Sequence Encoding](../../ai/research/arxiv-2603-08424.md) ([Source](https://arxiv.org/abs/2603.08424)) - `ai/research`
-2121. [Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon](../../ai/research/arxiv-2610-31479.md) ([Source](https://arxiv.org/abs/2610.31479)) - `ai/research`
-2122. [Towards Hyperparameter Transfer for Differentially Private Optimization](../../ai/research/arxiv-2610-22976.md) ([Source](https://arxiv.org/abs/2610.22976)) - `ai/research`
-2123. [Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](../../ai/research/arxiv-2610-27103.md) ([Source](https://arxiv.org/abs/2610.27103)) - `ai/research`
-2124. [Bridging Number-Theoretic Primality Testing And Algorithmic Optimization: An Adaptive Cryptographic Framework](../../ai/research/arxiv-2610-30935.md) ([Source](https://arxiv.org/abs/2610.30935)) - `ai/research`
-2125. [Is the Judge Its Twin? Post-training makes a model's writing more predictable but barely moves its taste, as a judge, toward predictable writing](../../ai/research/arxiv-2609-32196.md) ([Source](https://arxiv.org/abs/2609.32196)) - `ai/research`
-2126. [Dynamic System Inspired Continuous Large Language Model for AI4Science Tasks](../../ai/research/arxiv-2610-26959.md) ([Source](https://arxiv.org/abs/2610.26959)) - `ai/research`
-2127. [Two Minds Better Than One: Collaborative Reward Modeling for LLM Alignment](../../ai/research/arxiv-2505-10597.md) ([Source](https://arxiv.org/abs/2505.10597)) - `ai/research`
-2128. [Optimized Weight Initialization on the Stiefel Manifold for Deep ReLU Neural Networks](../../ai/research/arxiv-2509-00362.md) ([Source](https://arxiv.org/abs/2509.00362)) - `ai/research`
-2129. [Transformers with CoT Discover Heavy-Ball Acceleration Through Training](../../ai/research/arxiv-2610-31089.md) ([Source](https://arxiv.org/abs/2610.31089)) - `ai/research`
-2130. [On the Complementarity of Quantum and Classical Features: Adaptive Hybrid Quantum-Classical Feature Fusion for Breast Cancer Classification](../../ai/research/arxiv-2604-22903.md) ([Source](https://arxiv.org/abs/2604.22903)) - `ai/research`
-2131. [Exploring Temporal Context-Aware Physical Grounding in Latent World Models](../../ai/research/arxiv-2610-28483.md) ([Source](https://arxiv.org/abs/2610.28483)) - `ai/research`
-2132. [MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition](../../ai/research/arxiv-2610-30914.md) ([Source](https://arxiv.org/abs/2610.30914)) - `ai/research`
-2133. [Learning smooth dynamics via Kinematic Interpolants](../../ai/research/arxiv-2610-22519.md) ([Source](https://arxiv.org/abs/2610.22519)) - `ai/research`
-2134. [Locating Failure in Multi-Page Visually Rich Document Understanding Systems: An Empirical Attribution](../../ai/research/arxiv-2608-07943.md) ([Source](https://arxiv.org/abs/2608.07943)) - `ai/research`
-2135. [Graph Serializations for Reasoning LLMs: A Study Across Knowledge Extraction and Structural Reasoning](../../ai/research/arxiv-2610-22734.md) ([Source](https://arxiv.org/abs/2610.22734)) - `ai/research`
-2136. [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](../../ai/research/arxiv-2610-25043.md) ([Source](https://arxiv.org/abs/2610.25043)) - `ai/research`
-2137. [Quantifying the Threat: A Bayesian Probabilistic Framework for Heavy Metal Health Risks among Children in the Densu Basin, Ghana](../../ai/research/arxiv-2610-28064.md) ([Source](https://arxiv.org/abs/2610.28064)) - `ai/research`
-2138. [Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data](../../ai/research/arxiv-2610-27995.md) ([Source](https://arxiv.org/abs/2610.27995)) - `ai/research`
-2139. [The Sign Code: The Hidden Binary Nature of Deep Networks](../../ai/research/arxiv-2610-23616.md) ([Source](https://arxiv.org/abs/2610.23616)) - `ai/research`
-2140. [NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction](../../ai/research/arxiv-2610-29815.md) ([Source](https://arxiv.org/abs/2610.29815)) - `ai/research`
-2141. [Estimating Great Expectations Under Autoregressive Language Models with Potentials](../../ai/research/arxiv-2610-11399.md) ([Source](https://arxiv.org/abs/2610.11399)) - `ai/research`
-2142. [Trajectory Learnability for Offline On-Policy Distillation with Imperfect Teachers](../../ai/research/arxiv-2609-18321.md) ([Source](https://arxiv.org/abs/2609.18321)) - `ai/research`
-2143. [Causal Discovery beyond Conditional Independence: Identifiability, Algorithms, and Statistical Inference for Directed Acyclic and Cyclic Graphs](../../ai/research/arxiv-2610-23543.md) ([Source](https://arxiv.org/abs/2610.23543)) - `ai/research`
-2144. [How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection](../../ai/research/arxiv-2610-27711.md) ([Source](https://arxiv.org/abs/2610.27711)) - `ai/research`
-2145. [RGH-GNN : Risk-Gated Heterogeneous Graph Neural Network for Financial Fraud Detection](../../ai/research/arxiv-2610-27107.md) ([Source](https://arxiv.org/abs/2610.27107)) - `ai/research`
-2146. [Solar System Surface Technosignatures: Searching for Signs of Artificial Design on Extraterrestrial Terrain](../../ai/research/arxiv-2610-28687.md) ([Source](https://arxiv.org/abs/2610.28687)) - `ai/research`
-2147. [The Bayesian Learning Rule Beyond KL Geometry](../../ai/research/arxiv-2610-31308.md) ([Source](https://arxiv.org/abs/2610.31308)) - `ai/research`
-2148. [AdaptLSTM: Efficient Adaptive Online Learning for Cloud Workload Forecasting under Distribution Drift](../../ai/research/arxiv-2610-12265.md) ([Source](https://arxiv.org/abs/2610.12265)) - `ai/research`
-2149. [Amplifying Latency and Cost of LLM Inference via Rowhammer Attack](../../ai/research/arxiv-2610-30798.md) ([Source](https://arxiv.org/abs/2610.30798)) - `ai/research`
-2150. [Forecasting Voltage Time Series under Anomalies Using a WGAN Model With Lipschitz Control and Progressive Kernel Critic Strategy](../../ai/research/arxiv-2610-23394.md) ([Source](https://arxiv.org/abs/2610.23394)) - `ai/research`
-2151. [What Accuracy Hides In Learned Transformer Programs](../../ai/research/arxiv-2610-22891.md) ([Source](https://arxiv.org/abs/2610.22891)) - `ai/research`
-2152. [Towards Realistic Models of Change: A Causal Perspective on Decision-Making and Dynamical Systems](../../ai/research/arxiv-2610-28803.md) ([Source](https://arxiv.org/abs/2610.28803)) - `ai/research`
-2153. [ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning](../../ai/research/arxiv-2610-28770.md) ([Source](https://arxiv.org/abs/2610.28770)) - `ai/research`
-2154. [Events, Not Pixels: Where World Models Get the Return Wrong](../../ai/research/arxiv-2610-29435.md) ([Source](https://arxiv.org/abs/2610.29435)) - `ai/research`
-2155. [Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](../../ai/research/arxiv-2610-28628.md) ([Source](https://arxiv.org/abs/2610.28628)) - `ai/research`
-2156. [CoarseSoundNet: Building a reliable model for ecological soundscape analysis](../../ai/research/arxiv-2605-21143.md) ([Source](https://arxiv.org/abs/2605.21143)) - `ai/research`
-2157. [Adapting Generalist Vehicle Models for High-Speed MPC Across Terrains](../../ai/research/arxiv-2607-13319.md) ([Source](https://arxiv.org/abs/2607.13319)) - `ai/research`
-2158. [BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing](../../ai/research/arxiv-2610-31633.md) ([Source](https://arxiv.org/abs/2610.31633)) - `ai/research`
-2159. [Interpreting Model Reasoning through Behavioral Counterfactuals](../../ai/research/arxiv-2610-30630.md) ([Source](https://arxiv.org/abs/2610.30630)) - `ai/research`
-2160. [Structural Causal Bottleneck Models](../../ai/research/arxiv-2603-08682.md) ([Source](https://arxiv.org/abs/2603.08682)) - `ai/research`
-2161. [SALTO: Solver-Anchored Lifted Transfer Operators for Nonlinear Event Inference](../../ai/research/arxiv-2610-21049.md) ([Source](https://arxiv.org/abs/2610.21049)) - `ai/research`
-2162. [Continuous-depth Deep Gaussian Processes](../../ai/research/arxiv-2610-30890.md) ([Source](https://arxiv.org/abs/2610.30890)) - `ai/research`
-2163. [Loopy: Low-Bit Quantization Framework for Looped Language Models](../../ai/research/arxiv-2610-05265.md) ([Source](https://arxiv.org/abs/2610.05265)) - `ai/research`
-2164. [It Takes a Forum: Resources & Stakeholders Sustaining the Online Synthetic Non-Consensual Intimate Image Creation Ecosystem](../../ai/research/arxiv-2604-12190.md) ([Source](https://arxiv.org/abs/2604.12190)) - `ai/research`
-2165. [Scalable long-range machine learning interatomic potentials with electrical response for atomistic material modeling](../../ai/research/arxiv-2610-23643.md) ([Source](https://arxiv.org/abs/2610.23643)) - `ai/research`
-2166. [Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](../../ai/research/arxiv-2609-20650.md) ([Source](https://arxiv.org/abs/2609.20650)) - `ai/research`
-2167. [Training-Induced Escape from Token Clustering in a Mean-Field Formulation of Transformers](../../ai/research/arxiv-2605-07772.md) ([Source](https://arxiv.org/abs/2605.07772)) - `ai/research`
-2168. [Leaner Transformers Can Easily Learn to Cluster](../../ai/research/arxiv-2610-09760.md) ([Source](https://arxiv.org/abs/2610.09760)) - `ai/research`
-2169. [Efficient CPU-GPU collaborative MoE inference via Adaptive Expert Assignment](../../ai/research/arxiv-2610-23006.md) ([Source](https://arxiv.org/abs/2610.23006)) - `ai/research`
-2170. [Learning Checklists to Reduce Lottery Effects in Scientific Peer Review](../../ai/research/arxiv-2610-28666.md) ([Source](https://arxiv.org/abs/2610.28666)) - `ai/research`
-2171. [Looped Uniform Diffusion Language Models](../../ai/research/arxiv-2610-30066.md) ([Source](https://arxiv.org/abs/2610.30066)) - `ai/research`
-2172. [How Far Can Sharpness and Complexity Jointly Explain Generalization?](../../ai/research/arxiv-2606-29043.md) ([Source](https://arxiv.org/abs/2606.29043)) - `ai/research`
-2173. [Proportionality in Ranking Compression](../../ai/research/arxiv-2610-23193.md) ([Source](https://arxiv.org/abs/2610.23193)) - `ai/research`
-2174. [Who Can Change Course? An Integrative Review of AI Sovereignty and Collective Learning Capacity](../../ai/research/arxiv-2606-00729.md) ([Source](https://arxiv.org/abs/2606.00729)) - `ai/research`
-2175. [Predictive Closure: A Set-Level Characterization of JEPA's Feature Selection](../../ai/research/arxiv-2610-27364.md) ([Source](https://arxiv.org/abs/2610.27364)) - `ai/research`
-2176. [Fixed-Size Active Statistical Inference](../../ai/research/arxiv-2610-27389.md) ([Source](https://arxiv.org/abs/2610.27389)) - `ai/research`
-2177. [The Value of System 1 Models in Medicine](../../ai/research/arxiv-2610-31315.md) ([Source](https://arxiv.org/abs/2610.31315)) - `ai/research`
-2178. [Supermodular Rank: Set Function Decomposition and Optimization](../../ai/research/arxiv-2305-14632.md) ([Source](https://arxiv.org/abs/2305.14632)) - `ai/research`
-2179. [The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls](../../ai/research/arxiv-2610-22841.md) ([Source](https://arxiv.org/abs/2610.22841)) - `ai/research`
-2180. [Trees from Marginals: Autoregressive drafting with factorized priors](../../ai/research/arxiv-2607-06763.md) ([Source](https://arxiv.org/abs/2607.06763)) - `ai/research`
-2181. [A Digital Twin to Improve Cyber-Social Impact](../../ai/research/arxiv-2610-28430.md) ([Source](https://arxiv.org/abs/2610.28430)) - `ai/research`
-2182. [M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling](../../ai/research/arxiv-2603-14360.md) ([Source](https://arxiv.org/abs/2603.14360)) - `ai/research`
-2183. [Graph-Theoretic Formulation of Hamiltonian and Ground-State Sign Structures in Heisenberg Antiferromagnets](../../ai/research/arxiv-2602-04943.md) ([Source](https://arxiv.org/abs/2602.04943)) - `ai/research`
-2184. [GARG-AML against Smurfing: A Scalable and Interpretable Graph-Based Framework for Anti-Money Laundering](../../ai/research/arxiv-2506-04292.md) ([Source](https://arxiv.org/abs/2506.04292)) - `ai/research`
-2185. [Rethinking Quality in Large Language Model Routing: Security-Conditioned Model-and-Budget Selection](../../ai/research/arxiv-2610-18566.md) ([Source](https://arxiv.org/abs/2610.18566)) - `ai/research`
-2186. [Shift-aware score transport for privacy auditing without retraining](../../ai/research/arxiv-2610-31549.md) ([Source](https://arxiv.org/abs/2610.31549)) - `ai/research`
-2187. [HyCo: Hybrid Drafting for Cost-Efficient Mobile-Cloud Speculative Decoding](../../ai/research/arxiv-2610-21436.md) ([Source](https://arxiv.org/abs/2610.21436)) - `ai/research`
-2188. [Nominate-then-Adjudicate: LLM-Assisted One-Pass and Per-Instance MIP Solver Tuning](../../ai/research/arxiv-2610-29391.md) ([Source](https://arxiv.org/abs/2610.29391)) - `ai/research`
-2189. [DiffusionRVGE: Reinforcement Learning via Regression-Based Value Gradient Estimation](../../ai/research/arxiv-2610-22973.md) ([Source](https://arxiv.org/abs/2610.22973)) - `ai/research`
-2190. [AnomalyJev: Towards Evaluating Image Anomaly Explanations via Claim-Level Verification](../../ai/research/arxiv-2610-27565.md) ([Source](https://arxiv.org/abs/2610.27565)) - `ai/research`
-2191. [UniWALM: Unified World Action Language Model for Embodied Robot Control](../../ai/research/arxiv-2610-28626.md) ([Source](https://arxiv.org/abs/2610.28626)) - `ai/research`
-2192. [Many Biases, One Circuit: Post-Training Tunes a Pretrained Cue-Routing Mechanism](../../ai/research/arxiv-2610-22937.md) ([Source](https://arxiv.org/abs/2610.22937)) - `ai/research`
-2193. [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](../../ai/research/arxiv-2610-17665.md) ([Source](https://arxiv.org/abs/2610.17665)) - `ai/research`
-2194. [AgriVLN: Vision-and-Language Navigation for Agricultural Robots](../../ai/research/arxiv-2508-07406.md) ([Source](https://arxiv.org/abs/2508.07406)) - `ai/research`
-2195. [Beyond Invariance: Factor-wise Selective Treatment of Shifts for Multimodal Learning](../../ai/research/arxiv-2610-21403.md) ([Source](https://arxiv.org/abs/2610.21403)) - `ai/research`
-2196. [DIAL: Steerable Language Models with Distilled Instruction-Adherence Levels](../../ai/research/arxiv-2610-31438.md) ([Source](https://arxiv.org/abs/2610.31438)) - `ai/research`
-2197. [Accelerating Optimization via Differentiable Stopping Time](../../ai/research/arxiv-2505-22509.md) ([Source](https://arxiv.org/abs/2505.22509)) - `ai/research`
-2198. [EHRNote-ChatQA: A Benchmark for Evidence-Grounded Multi-Turn Clinical Question Answering over Longitudinal Discharge Summaries](../../ai/research/arxiv-2606-15735.md) ([Source](https://arxiv.org/abs/2606.15735)) - `ai/research`
-2199. [Asymmetry Tunneling Beyond Adaptive Equivariance Relaxation](../../ai/research/arxiv-2610-29473.md) ([Source](https://arxiv.org/abs/2610.29473)) - `ai/research`
-2200. [Competence-Based Evaluation of Logical Reasoning in Large Language Models](../../ai/research/arxiv-2610-22894.md) ([Source](https://arxiv.org/abs/2610.22894)) - `ai/research`
-2201. [One Communicator, Three Vendors: Extending the MoA Predictive Theory to a Real NVIDIA+AMD+CPU MPI Ensemble](../../ai/research/arxiv-2610-22769.md) ([Source](https://arxiv.org/abs/2610.22769)) - `ai/research`
-2202. [EEG-Based Classification of Hypnotic Susceptibility Using Two-Dimensional Convolutional Neural Networks](../../ai/research/arxiv-2610-27738.md) ([Source](https://arxiv.org/abs/2610.27738)) - `ai/research`
-2203. [The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer](../../ai/research/arxiv-2610-03827.md) ([Source](https://arxiv.org/abs/2610.03827)) - `ai/research`
-2204. [When Does Hate Transfer? A Large-Scale Study of Cross-Lingual Hate Speech Detection](../../ai/research/arxiv-2610-27285.md) ([Source](https://arxiv.org/abs/2610.27285)) - `ai/research`
-2205. [BrainPro: Process-conditioned Pretraining with Topographic Retrieval for Large EEG Models](../../ai/research/arxiv-2509-22050.md) ([Source](https://arxiv.org/abs/2509.22050)) - `ai/research`
-2206. [SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism](../../ai/research/arxiv-2610-29111.md) ([Source](https://arxiv.org/abs/2610.29111)) - `ai/research`
-2207. [When Health Assistants Agree Too Readily: A Benchmark of Time-Critical Self-Diagnosis](../../ai/research/arxiv-2610-27518.md) ([Source](https://arxiv.org/abs/2610.27518)) - `ai/research`
-2208. [Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks](../../ai/research/arxiv-2610-28495.md) ([Source](https://arxiv.org/abs/2610.28495)) - `ai/research`
-2209. [The Shape of the DPO Hyperparameter Landscape: What to Measure, How It Moves with Scale, and When Not to Transfer It](../../ai/research/arxiv-2610-27895.md) ([Source](https://arxiv.org/abs/2610.27895)) - `ai/research`
-2210. [Cross-Modal Emotion Understanding: A Transformer-GAT Approach for Dialogue Emotion Recognition](../../ai/research/arxiv-2609-29556.md) ([Source](https://arxiv.org/abs/2609.29556)) - `ai/research`
-2211. [Language Models Give Group-Linked Fields the Wrong Weight](../../ai/research/arxiv-2608-22887.md) ([Source](https://arxiv.org/abs/2608.22887)) - `ai/research`
-2212. [When Thoughts Become Memory: Unifying In-Context Learning and Fine-Tuning](../../ai/research/arxiv-2610-29419.md) ([Source](https://arxiv.org/abs/2610.29419)) - `ai/research`
-2213. [Rethinking LLM Fine-Tuning via Weight Space Reparameterization: Preserving Safety during Downstream Adaptation](../../ai/research/arxiv-2610-26443.md) ([Source](https://arxiv.org/abs/2610.26443)) - `ai/research`
-2214. [When Retain Constraints Conflict: Mitigating Forget-Retain Interference in Tabular Data](../../ai/research/arxiv-2609-06786.md) ([Source](https://arxiv.org/abs/2609.06786)) - `ai/research`
-2215. [Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies](../../ai/research/arxiv-2610-22706.md) ([Source](https://arxiv.org/abs/2610.22706)) - `ai/research`
-2216. [HiPPT: Physiology-Grounded Wearable PPG Representation Learning via Multi-Scope Text Alignment](../../ai/research/arxiv-2610-14489.md) ([Source](https://arxiv.org/abs/2610.14489)) - `ai/research`
-2217. [Mitigating Model Merging Conflicts via Knowledge-Aware Task Vector Purification](../../ai/research/arxiv-2510-14697.md) ([Source](https://arxiv.org/abs/2510.14697)) - `ai/research`
-2218. [HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements](../../ai/research/arxiv-2610-29996.md) ([Source](https://arxiv.org/abs/2610.29996)) - `ai/research`
-2219. [How to Use Parallel Data for Multilingual Pretraining](../../ai/research/arxiv-2610-28838.md) ([Source](https://arxiv.org/abs/2610.28838)) - `ai/research`
-2220. [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](../../ai/research/arxiv-2610-28706.md) ([Source](https://arxiv.org/abs/2610.28706)) - `ai/research`
-2221. [Asymmetric Likelihood-Free Hypothesis Testing](../../ai/research/arxiv-2610-29798.md) ([Source](https://arxiv.org/abs/2610.29798)) - `ai/research`
-2222. [TRIP-Shapley: Propagation-Aware Contribution Attribution Framework for Peer-to-Peer Federated Learning](../../ai/research/arxiv-2505-23246.md) ([Source](https://arxiv.org/abs/2505.23246)) - `ai/research`
-2223. [Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](../../ai/research/arxiv-2609-04180.md) ([Source](https://arxiv.org/abs/2609.04180)) - `ai/research`
-2224. [LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines](../../ai/research/arxiv-2610-29409.md) ([Source](https://arxiv.org/abs/2610.29409)) - `ai/research`
-2225. [Steering intonational tunes in text-to-speech synthesis](../../ai/research/arxiv-2610-27403.md) ([Source](https://arxiv.org/abs/2610.27403)) - `ai/research`
-2226. [Speedrunning Relational Foundation Model Pretraining](../../ai/research/arxiv-2610-28855.md) ([Source](https://arxiv.org/abs/2610.28855)) - `ai/research`
-2227. [This is SParTA: A modular, efficient and scalable transformer architecture for jet-tagging](../../ai/research/arxiv-2610-27106.md) ([Source](https://arxiv.org/abs/2610.27106)) - `ai/research`
-2228. [Learnable Spectral Activations](../../ai/research/arxiv-2610-07419.md) ([Source](https://arxiv.org/abs/2610.07419)) - `ai/research`
-2229. [Tracing Subliminal Learning Through Pretraining](../../ai/research/arxiv-2610-30884.md) ([Source](https://arxiv.org/abs/2610.30884)) - `ai/research`
-2230. [Diffusion Language Models for Perplexity-Aware Black-Box Attacks](../../ai/research/arxiv-2610-31558.md) ([Source](https://arxiv.org/abs/2610.31558)) - `ai/research`
-2231. [Machine Unlearning in Low-Dimensional Feature Subspace](../../ai/research/arxiv-2601-22456.md) ([Source](https://arxiv.org/abs/2601.22456)) - `ai/research`
-2232. [Debiased Prior-Data Fitted Networks for Amortized Bayesian Semi-Parametric Inference](../../ai/research/arxiv-2610-28314.md) ([Source](https://arxiv.org/abs/2610.28314)) - `ai/research`
-2233. [Measuring Pretraining Contamination in Public Medical Vision-Language Benchmarks](../../ai/research/arxiv-2606-10066.md) ([Source](https://arxiv.org/abs/2606.10066)) - `ai/research`
-2234. [Noise-shaped Sampling and Annealing for Scalable On-the-edge Training of Binary and Ternary AI Models](../../ai/research/arxiv-2610-22621.md) ([Source](https://arxiv.org/abs/2610.22621)) - `ai/research`
-2235. [Auditing Safety Preference Supervision with Recorded Derivations](../../ai/research/arxiv-2610-27266.md) ([Source](https://arxiv.org/abs/2610.27266)) - `ai/research`
-2236. [BRIDGE: An Acceptance Gate to Block False Improvements in Model Updates, with a Retrospective Clinical Evaluation](../../ai/research/arxiv-2610-29515.md) ([Source](https://arxiv.org/abs/2610.29515)) - `ai/research`
-2237. [Generalization Bounds via Vector-Valued $L_p$ Correlation $V_\alpha$](../../ai/research/arxiv-2610-29425.md) ([Source](https://arxiv.org/abs/2610.29425)) - `ai/research`
-2238. [A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded Contrastive Learners](../../ai/research/arxiv-2610-28747.md) ([Source](https://arxiv.org/abs/2610.28747)) - `ai/research`
-2239. [Sampling the XY model with an attention-based neural network](../../ai/research/arxiv-2610-23783.md) ([Source](https://arxiv.org/abs/2610.23783)) - `ai/research`
-2240. [Covariance-Aware Transformers for Quadratic Programming and Decision Making](../../ai/research/arxiv-2602-14506.md) ([Source](https://arxiv.org/abs/2602.14506)) - `ai/research`
-2241. [Fast Iterative Combinatorial Auctions via Deep Reinforcement Learning](../../ai/research/arxiv-2610-30667.md) ([Source](https://arxiv.org/abs/2610.30667)) - `ai/research`
-2242. [Self-Supervised Tuning of Low-Fidelity Optimization Models via High-Fidelity Feedback](../../ai/research/arxiv-2610-28851.md) ([Source](https://arxiv.org/abs/2610.28851)) - `ai/research`
-2243. [Continual Concept Personalization in Diffusion Models via Residual-Space Adaptation](../../ai/research/arxiv-2610-28567.md) ([Source](https://arxiv.org/abs/2610.28567)) - `ai/research`
-2244. [No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses](../../ai/research/arxiv-2610-29607.md) ([Source](https://arxiv.org/abs/2610.29607)) - `ai/research`
-2245. [Same Judgment, Different Yes: Measuring Multilingual Judgment Profiles in Language Models](../../ai/research/arxiv-2610-28066.md) ([Source](https://arxiv.org/abs/2610.28066)) - `ai/research`
-2246. [Extreme Low-State Quantized Transformer for Electricity-Load Forecasting](../../ai/research/arxiv-2610-28784.md) ([Source](https://arxiv.org/abs/2610.28784)) - `ai/research`
-2247. [xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs](../../ai/research/arxiv-2610-30815.md) ([Source](https://arxiv.org/abs/2610.30815)) - `ai/research`
-2248. [Selecting the Best Few with Human Evaluators: Adaptively Combining Ratings and Pairwise Comparisons](../../ai/research/arxiv-2610-26380.md) ([Source](https://arxiv.org/abs/2610.26380)) - `ai/research`
-2249. [SAHG: Sector-Anisotropic Hyperbolic Graph Model for Social Bot Detection](../../ai/research/arxiv-2605-30166.md) ([Source](https://arxiv.org/abs/2605.30166)) - `ai/research`
-2250. [Quantum-Classical Neural Networks for Solving Lindblad Master Equations](../../ai/research/arxiv-2610-22691.md) ([Source](https://arxiv.org/abs/2610.22691)) - `ai/research`
-2251. [Local Discrimination of Binary Classifiers via Localized AUC Functional](../../ai/research/arxiv-2610-31216.md) ([Source](https://arxiv.org/abs/2610.31216)) - `ai/research`
-2252. [Dimension-free regimes for unadjusted Langevin in ridge-separable models: A subspace robust Wasserstein analysis](../../ai/research/arxiv-2610-31431.md) ([Source](https://arxiv.org/abs/2610.31431)) - `ai/research`
-2253. [Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization](../../ai/research/arxiv-2605-06145.md) ([Source](https://arxiv.org/abs/2605.06145)) - `ai/research`
-2254. [What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs](../../ai/research/arxiv-2608-00013.md) ([Source](https://arxiv.org/abs/2608.00013)) - `ai/research`
-2255. [Offline Apprenticeship Learning for Human-Centric Environments](../../ai/research/arxiv-2610-28716.md) ([Source](https://arxiv.org/abs/2610.28716)) - `ai/research`
-2256. [MICA: Multi-granularity Intertemporal Credit Assignment for Long-Horizon Emotional Support Dialogue](../../ai/research/arxiv-2603-06194.md) ([Source](https://arxiv.org/abs/2603.06194)) - `ai/research`
-2257. [Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging](../../ai/research/arxiv-2610-27470.md) ([Source](https://arxiv.org/abs/2610.27470)) - `ai/research`
-2258. [Measuring Variable Importance Using Proportional Inclusive Marginal Effects](../../ai/research/arxiv-2610-17053.md) ([Source](https://arxiv.org/abs/2610.17053)) - `ai/research`
-2259. [Nonparametric autoregressive estimation of probability distributions with parallel gradient boosting](../../ai/research/arxiv-2610-31524.md) ([Source](https://arxiv.org/abs/2610.31524)) - `ai/research`
-2260. [Robust Tangent Space Estimation via Laplacian Eigenvector Gradient Orthogonalization](../../ai/research/arxiv-2510-02308.md) ([Source](https://arxiv.org/abs/2510.02308)) - `ai/research`
-2261. [SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics](../../ai/research/arxiv-2610-27820.md) ([Source](https://arxiv.org/abs/2610.27820)) - `ai/research`
-2262. [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](../../ai/research/arxiv-2610-22400.md) ([Source](https://arxiv.org/abs/2610.22400)) - `ai/research`
-2263. [GR-OPD: Group-Relative Sequence Credit for On-Policy Distillation](../../ai/research/arxiv-2610-23042.md) ([Source](https://arxiv.org/abs/2610.23042)) - `ai/research`
-2264. [GFlowPO: Generative Flow Network as a Language Model Prompt Optimizer](../../ai/research/arxiv-2602-03358.md) ([Source](https://arxiv.org/abs/2602.03358)) - `ai/research`
-2265. [Decoupling candidate dual AGN from chance superpositions in the GOTHIC survey via a deep-learning framework](../../ai/research/arxiv-2608-24164.md) ([Source](https://arxiv.org/abs/2608.24164)) - `ai/research`
-2266. [Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision](../../ai/research/arxiv-2610-31510.md) ([Source](https://arxiv.org/abs/2610.31510)) - `ai/research`
-2267. [Beyond Action Prediction: Learning Search-Free Planning in Latent Space](../../ai/research/arxiv-2610-23615.md) ([Source](https://arxiv.org/abs/2610.23615)) - `ai/research`
-2268. [An Efficient Approach to Beetle Damage Detection of Banana Using Deep Learning](../../ai/research/arxiv-2610-23661.md) ([Source](https://arxiv.org/abs/2610.23661)) - `ai/research`
-2269. [When Weak Submodularity Meets Matroids: How Does Standard Greedy Behave?](../../ai/research/arxiv-2610-26967.md) ([Source](https://arxiv.org/abs/2610.26967)) - `ai/research`
-2270. [EDISCO: Equivariant DIScrete Diffusion for Euclidean Combinatorial Optimization](../../ai/research/arxiv-2610-04953.md) ([Source](https://arxiv.org/abs/2610.04953)) - `ai/research`
-2271. [EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding](../../ai/research/arxiv-2609-32352.md) ([Source](https://arxiv.org/abs/2609.32352)) - `ai/research`
-2272. [Uncertainty-aware AI-enabled framework for predicting hydrogen dispersion in confined spaces to enhance operator situational awareness](../../ai/research/arxiv-2610-23515.md) ([Source](https://arxiv.org/abs/2610.23515)) - `ai/research`
-2273. [Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability](../../ai/research/arxiv-2610-23722.md) ([Source](https://arxiv.org/abs/2610.23722)) - `ai/research`
-2274. [Certified Adaptive List Decoding for Error-Correcting Codes](../../ai/research/arxiv-2610-27805.md) ([Source](https://arxiv.org/abs/2610.27805)) - `ai/research`
-2275. [FSPO: Policy-Consistent Risk and Pareto-Feasible Control for Budgeted LLM RL Post-Training](../../ai/research/arxiv-2610-02828.md) ([Source](https://arxiv.org/abs/2610.02828)) - `ai/research`
-2276. [GPU-Accelerated Robust MA--RIS Pre-Optimization for Communication and Target Illumination](../../ai/research/arxiv-2610-22431.md) ([Source](https://arxiv.org/abs/2610.22431)) - `ai/research`
-2277. [The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token](../../ai/research/arxiv-2610-28576.md) ([Source](https://arxiv.org/abs/2610.28576)) - `ai/research`
-2278. [VStress: Correlation-Aware Auditing and Adaptive Budget Allocation for Repeated Verifiers](../../ai/research/arxiv-2609-36958.md) ([Source](https://arxiv.org/abs/2609.36958)) - `ai/research`
-2279. [AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation](../../ai/research/arxiv-2610-23396.md) ([Source](https://arxiv.org/abs/2610.23396)) - `ai/research`
-2280. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](../../ai/research/retrieval-augmented-generation-for-knowledge-inten.md) ([Source](https://semanticscholar.org/paper/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31)) - `ai/research`
-2281. [COSMOS: Model-Agnostic Personalized Federated Learning with Clustered Server Models and Pseudo-Label-Only Communication](../../ai/research/arxiv-2605-11165.md) ([Source](https://arxiv.org/abs/2605.11165)) - `ai/research`
-2282. [Mask-Based Deep Symbolic Regression](../../ai/research/arxiv-2505-24776.md) ([Source](https://arxiv.org/abs/2505.24776)) - `ai/research`
-2283. [Online Open-World Wafer Defect Discovery using Hyperdimensional Computing](../../ai/research/arxiv-2610-28949.md) ([Source](https://arxiv.org/abs/2610.28949)) - `ai/research`
-2284. [Progressive Subset Selection and Cascaded Consistency for Unsupervised Vision-Language Model Adaptation](../../ai/research/arxiv-2610-27515.md) ([Source](https://arxiv.org/abs/2610.27515)) - `ai/research`
-2285. [Curriculum Learning for Generative Flexible Docking](../../ai/research/arxiv-2610-28145.md) ([Source](https://arxiv.org/abs/2610.28145)) - `ai/research`
-2286. [Hierarchical Masked Diffusion Language Models](../../ai/research/arxiv-2610-29255.md) ([Source](https://arxiv.org/abs/2610.29255)) - `ai/research`
-2287. [Interaction-Gated Time-Frequency Learning for Parameter-Efficient PPG-Based Heart Rate Estimation](../../ai/research/arxiv-2610-28693.md) ([Source](https://arxiv.org/abs/2610.28693)) - `ai/research`
-2288. [Anisotropic Representation Dynamics in Transformers](../../ai/research/arxiv-2610-23242.md) ([Source](https://arxiv.org/abs/2610.23242)) - `ai/research`
-2289. [Short-to-Long: Detached Features for Long-Horizon Value Learning](../../ai/research/arxiv-2610-30461.md) ([Source](https://arxiv.org/abs/2610.30461)) - `ai/research`
-2290. [Feedback World Model Enables Precise Guidance of Diffusion Policy](../../ai/research/arxiv-2605-15705.md) ([Source](https://arxiv.org/abs/2605.15705)) - `ai/research`
-2291. [Context-Augmented, Session-Calibrated Blood Pressure Tracking from Photoplethysmography](../../ai/research/arxiv-2610-29091.md) ([Source](https://arxiv.org/abs/2610.29091)) - `ai/research`
-2292. [Steering Vision-Language Models for Visual-Contextual Privacy in Location Disclosure](../../ai/research/arxiv-2610-27323.md) ([Source](https://arxiv.org/abs/2610.27323)) - `ai/research`
-2293. [Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models](../../ai/research/arxiv-2610-28074.md) ([Source](https://arxiv.org/abs/2610.28074)) - `ai/research`
-2294. [The Ephemeral Cost of Switching Optimizers Across LLM Training Stages](../../ai/research/arxiv-2610-22650.md) ([Source](https://arxiv.org/abs/2610.22650)) - `ai/research`
-2295. [Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning](../../ai/research/arxiv-2610-15428.md) ([Source](https://arxiv.org/abs/2610.15428)) - `ai/research`
+2085. [Learn from Your Mistakes: Self-Correcting Masked Diffusion Models](../../ai/research/arxiv-2602-11590.md) ([Source](https://arxiv.org/abs/2602.11590)) - `ai/research`
+2086. [Multi-Objective Protein Optimization via Modular Diffusion Steering](../../ai/research/arxiv-2610-28943.md) ([Source](https://arxiv.org/abs/2610.28943)) - `ai/research`
+2087. [Rethinking the design space of Vanilla Pixel Diffusion Transformers](../../ai/research/arxiv-2610-23854.md) ([Source](https://arxiv.org/abs/2610.23854)) - `ai/research`
+2088. [OSCC: Certified Observation-Safe Coupling Optimization for Gradient-Noise Control in Imperfect-Information Learning](../../ai/research/arxiv-2609-33543.md) ([Source](https://arxiv.org/abs/2609.33543)) - `ai/research`
+2089. [World Models Under Asynchronous Sensor Observations](../../ai/research/arxiv-2609-07299.md) ([Source](https://arxiv.org/abs/2609.07299)) - `ai/research`
+2090. [From Fuzzy to Exact: The Halo Architecture for Infinite-Depth Reasoning via Rational Arithmetic](../../ai/research/arxiv-2601-18702.md) ([Source](https://arxiv.org/abs/2601.18702)) - `ai/research`
+2091. [EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion](../../ai/research/arxiv-2609-26039.md) ([Source](https://arxiv.org/abs/2609.26039)) - `ai/research`
+2092. [Distinguishability and Recovery for a Doubly Sparse Spiked Wigner Model](../../ai/research/arxiv-2610-23033.md) ([Source](https://arxiv.org/abs/2610.23033)) - `ai/research`
+2093. [A Label Noise Robust Algorithm for Graph Data using Neighborhood Label Distribution](../../ai/research/arxiv-2610-22998.md) ([Source](https://arxiv.org/abs/2610.22998)) - `ai/research`
+2094. [CARLAR Influence: A Structured Hallucination Risk in Multimodal Cheque Extraction and an Exploratory Compressed-Image Countermeasure](../../ai/research/arxiv-2610-27192.md) ([Source](https://arxiv.org/abs/2610.27192)) - `ai/research`
+2095. [LSA-PAST: Layer-Specific Adaptation and Prototype Transport for Compositional Incremental Learning](../../ai/research/arxiv-2610-27203.md) ([Source](https://arxiv.org/abs/2610.27203)) - `ai/research`
+2096. [Drift Says When, Budget Says How Much: Rate-Controlled KV Re-selection for Long-Form Multimodal Generation](../../ai/research/arxiv-2610-31433.md) ([Source](https://arxiv.org/abs/2610.31433)) - `ai/research`
+2097. [Can the Parts Fool the Test? Counterfactual Pairing Cycles for Relational OOD](../../ai/research/arxiv-2610-23248.md) ([Source](https://arxiv.org/abs/2610.23248)) - `ai/research`
+2098. [Polyscene: Scenario Planning as Diversity Planning](../../ai/research/arxiv-2610-28102.md) ([Source](https://arxiv.org/abs/2610.28102)) - `ai/research`
+2099. [Using Data-Derived Priors to Guide CNN Architecture Design for NIR Chemometrics](../../ai/research/arxiv-2607-25636.md) ([Source](https://arxiv.org/abs/2607.25636)) - `ai/research`
+2100. [On the gradient conjecture at infinity: Finite spherical length for gradient trajectories of definable potentials](../../ai/research/arxiv-2610-29211.md) ([Source](https://arxiv.org/abs/2610.29211)) - `ai/research`
+2101. [High-Value Training Data from Noisy, Diverse Sources](../../ai/research/arxiv-2610-30421.md) ([Source](https://arxiv.org/abs/2610.30421)) - `ai/research`
+2102. [The Mathematical Theory of Double Descent as Shrinkage, not Overfitting: Matching Bounds for Path-Regularized Multilayer Neural Networks](../../ai/research/arxiv-2503-02129.md) ([Source](https://arxiv.org/abs/2503.02129)) - `ai/research`
+2103. [Trail-Weighted Influence Scores for Approximate Outcome Prediction in Bayesian Networks](../../ai/research/arxiv-2610-27366.md) ([Source](https://arxiv.org/abs/2610.27366)) - `ai/research`
+2104. [Symmetries and Causality: Causal Effect Identification Beyond IID Data](../../ai/research/arxiv-2609-03697.md) ([Source](https://arxiv.org/abs/2609.03697)) - `ai/research`
+2105. [Towards optimal selection schedules for online active learning](../../ai/research/arxiv-2610-23477.md) ([Source](https://arxiv.org/abs/2610.23477)) - `ai/research`
+2106. [From POMDP Theory to Deep RL with Particle Filters](../../ai/research/arxiv-2610-27575.md) ([Source](https://arxiv.org/abs/2610.27575)) - `ai/research`
+2107. [Causal Edit Serialization](../../ai/research/arxiv-2610-22820.md) ([Source](https://arxiv.org/abs/2610.22820)) - `ai/research`
+2108. [Corpus Quality Improves, Retrieval Utility Does Not: An Ablation of Preprocessing and Refinement in a Speech-to-QA Pipeline](../../ai/research/arxiv-2610-27652.md) ([Source](https://arxiv.org/abs/2610.27652)) - `ai/research`
+2109. [The Complexity Kink: A Prompt-Side Structural Complexity Index for Code-Generation Reliability](../../ai/research/arxiv-2609-19616.md) ([Source](https://arxiv.org/abs/2609.19616)) - `ai/research`
+2110. [Huayu-Global: Skillful real-time quasi-global precipitation retrieval](../../ai/research/arxiv-2610-29213.md) ([Source](https://arxiv.org/abs/2610.29213)) - `ai/research`
+2111. [Feature Selection for Latent Factor Models](../../ai/research/arxiv-2412-10128.md) ([Source](https://arxiv.org/abs/2412.10128)) - `ai/research`
+2112. [IndicDetect: Evaluating Cross-Lingual LLM-Generated Text Detection for Hindi, Telugu, and Tamil](../../ai/research/arxiv-2608-29919.md) ([Source](https://arxiv.org/abs/2608.29919)) - `ai/research`
+2113. [Curvature-Scaled Sharpness-Aware Minimization: Convergence Beyond Smoothness](../../ai/research/arxiv-2610-29192.md) ([Source](https://arxiv.org/abs/2610.29192)) - `ai/research`
+2114. [HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second](../../ai/research/arxiv-2610-28950.md) ([Source](https://arxiv.org/abs/2610.28950)) - `ai/research`
+2115. [Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning](../../ai/research/arxiv-2610-28584.md) ([Source](https://arxiv.org/abs/2610.28584)) - `ai/research`
+2116. [Board gender diversity and emissions performance: Insights from panel regressions, machine learning, and explainable AI](../../ai/research/arxiv-2510-00244.md) ([Source](https://arxiv.org/abs/2510.00244)) - `ai/research`
+2117. [Data-driven and physics-guided hindcasting of measured wave spectra](../../ai/research/arxiv-2610-29306.md) ([Source](https://arxiv.org/abs/2610.29306)) - `ai/research`
+2118. [LEMON: Equivariant Learning over Attention Maps for Zero-Shot Misbehavior Monitoring on New LLMs](../../ai/research/arxiv-2610-22723.md) ([Source](https://arxiv.org/abs/2610.22723)) - `ai/research`
+2119. [SYNAPSE: Framework for Neuron Analysis and Perturbation in Sequence Encoding](../../ai/research/arxiv-2603-08424.md) ([Source](https://arxiv.org/abs/2603.08424)) - `ai/research`
+2120. [Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon](../../ai/research/arxiv-2610-31479.md) ([Source](https://arxiv.org/abs/2610.31479)) - `ai/research`
+2121. [Towards Hyperparameter Transfer for Differentially Private Optimization](../../ai/research/arxiv-2610-22976.md) ([Source](https://arxiv.org/abs/2610.22976)) - `ai/research`
+2122. [Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs](../../ai/research/arxiv-2610-27103.md) ([Source](https://arxiv.org/abs/2610.27103)) - `ai/research`
+2123. [Bridging Number-Theoretic Primality Testing And Algorithmic Optimization: An Adaptive Cryptographic Framework](../../ai/research/arxiv-2610-30935.md) ([Source](https://arxiv.org/abs/2610.30935)) - `ai/research`
+2124. [Is the Judge Its Twin? Post-training makes a model's writing more predictable but barely moves its taste, as a judge, toward predictable writing](../../ai/research/arxiv-2609-32196.md) ([Source](https://arxiv.org/abs/2609.32196)) - `ai/research`
+2125. [Dynamic System Inspired Continuous Large Language Model for AI4Science Tasks](../../ai/research/arxiv-2610-26959.md) ([Source](https://arxiv.org/abs/2610.26959)) - `ai/research`
+2126. [Two Minds Better Than One: Collaborative Reward Modeling for LLM Alignment](../../ai/research/arxiv-2505-10597.md) ([Source](https://arxiv.org/abs/2505.10597)) - `ai/research`
+2127. [Optimized Weight Initialization on the Stiefel Manifold for Deep ReLU Neural Networks](../../ai/research/arxiv-2509-00362.md) ([Source](https://arxiv.org/abs/2509.00362)) - `ai/research`
+2128. [Transformers with CoT Discover Heavy-Ball Acceleration Through Training](../../ai/research/arxiv-2610-31089.md) ([Source](https://arxiv.org/abs/2610.31089)) - `ai/research`
+2129. [On the Complementarity of Quantum and Classical Features: Adaptive Hybrid Quantum-Classical Feature Fusion for Breast Cancer Classification](../../ai/research/arxiv-2604-22903.md) ([Source](https://arxiv.org/abs/2604.22903)) - `ai/research`
+2130. [Exploring Temporal Context-Aware Physical Grounding in Latent World Models](../../ai/research/arxiv-2610-28483.md) ([Source](https://arxiv.org/abs/2610.28483)) - `ai/research`
+2131. [MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition](../../ai/research/arxiv-2610-30914.md) ([Source](https://arxiv.org/abs/2610.30914)) - `ai/research`
+2132. [Learning smooth dynamics via Kinematic Interpolants](../../ai/research/arxiv-2610-22519.md) ([Source](https://arxiv.org/abs/2610.22519)) - `ai/research`
+2133. [Locating Failure in Multi-Page Visually Rich Document Understanding Systems: An Empirical Attribution](../../ai/research/arxiv-2608-07943.md) ([Source](https://arxiv.org/abs/2608.07943)) - `ai/research`
+2134. [Graph Serializations for Reasoning LLMs: A Study Across Knowledge Extraction and Structural Reasoning](../../ai/research/arxiv-2610-22734.md) ([Source](https://arxiv.org/abs/2610.22734)) - `ai/research`
+2135. [VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse](../../ai/research/arxiv-2610-25043.md) ([Source](https://arxiv.org/abs/2610.25043)) - `ai/research`
+2136. [Quantifying the Threat: A Bayesian Probabilistic Framework for Heavy Metal Health Risks among Children in the Densu Basin, Ghana](../../ai/research/arxiv-2610-28064.md) ([Source](https://arxiv.org/abs/2610.28064)) - `ai/research`
+2137. [Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data](../../ai/research/arxiv-2610-27995.md) ([Source](https://arxiv.org/abs/2610.27995)) - `ai/research`
+2138. [The Sign Code: The Hidden Binary Nature of Deep Networks](../../ai/research/arxiv-2610-23616.md) ([Source](https://arxiv.org/abs/2610.23616)) - `ai/research`
+2139. [NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction](../../ai/research/arxiv-2610-29815.md) ([Source](https://arxiv.org/abs/2610.29815)) - `ai/research`
+2140. [Estimating Great Expectations Under Autoregressive Language Models with Potentials](../../ai/research/arxiv-2610-11399.md) ([Source](https://arxiv.org/abs/2610.11399)) - `ai/research`
+2141. [Trajectory Learnability for Offline On-Policy Distillation with Imperfect Teachers](../../ai/research/arxiv-2609-18321.md) ([Source](https://arxiv.org/abs/2609.18321)) - `ai/research`
+2142. [Causal Discovery beyond Conditional Independence: Identifiability, Algorithms, and Statistical Inference for Directed Acyclic and Cyclic Graphs](../../ai/research/arxiv-2610-23543.md) ([Source](https://arxiv.org/abs/2610.23543)) - `ai/research`
+2143. [How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection](../../ai/research/arxiv-2610-27711.md) ([Source](https://arxiv.org/abs/2610.27711)) - `ai/research`
+2144. [RGH-GNN : Risk-Gated Heterogeneous Graph Neural Network for Financial Fraud Detection](../../ai/research/arxiv-2610-27107.md) ([Source](https://arxiv.org/abs/2610.27107)) - `ai/research`
+2145. [Solar System Surface Technosignatures: Searching for Signs of Artificial Design on Extraterrestrial Terrain](../../ai/research/arxiv-2610-28687.md) ([Source](https://arxiv.org/abs/2610.28687)) - `ai/research`
+2146. [The Bayesian Learning Rule Beyond KL Geometry](../../ai/research/arxiv-2610-31308.md) ([Source](https://arxiv.org/abs/2610.31308)) - `ai/research`
+2147. [AdaptLSTM: Efficient Adaptive Online Learning for Cloud Workload Forecasting under Distribution Drift](../../ai/research/arxiv-2610-12265.md) ([Source](https://arxiv.org/abs/2610.12265)) - `ai/research`
+2148. [Amplifying Latency and Cost of LLM Inference via Rowhammer Attack](../../ai/research/arxiv-2610-30798.md) ([Source](https://arxiv.org/abs/2610.30798)) - `ai/research`
+2149. [Forecasting Voltage Time Series under Anomalies Using a WGAN Model With Lipschitz Control and Progressive Kernel Critic Strategy](../../ai/research/arxiv-2610-23394.md) ([Source](https://arxiv.org/abs/2610.23394)) - `ai/research`
+2150. [What Accuracy Hides In Learned Transformer Programs](../../ai/research/arxiv-2610-22891.md) ([Source](https://arxiv.org/abs/2610.22891)) - `ai/research`
+2151. [Towards Realistic Models of Change: A Causal Perspective on Decision-Making and Dynamical Systems](../../ai/research/arxiv-2610-28803.md) ([Source](https://arxiv.org/abs/2610.28803)) - `ai/research`
+2152. [ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning](../../ai/research/arxiv-2610-28770.md) ([Source](https://arxiv.org/abs/2610.28770)) - `ai/research`
+2153. [Events, Not Pixels: Where World Models Get the Return Wrong](../../ai/research/arxiv-2610-29435.md) ([Source](https://arxiv.org/abs/2610.29435)) - `ai/research`
+2154. [Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](../../ai/research/arxiv-2610-28628.md) ([Source](https://arxiv.org/abs/2610.28628)) - `ai/research`
+2155. [CoarseSoundNet: Building a reliable model for ecological soundscape analysis](../../ai/research/arxiv-2605-21143.md) ([Source](https://arxiv.org/abs/2605.21143)) - `ai/research`
+2156. [Adapting Generalist Vehicle Models for High-Speed MPC Across Terrains](../../ai/research/arxiv-2607-13319.md) ([Source](https://arxiv.org/abs/2607.13319)) - `ai/research`
+2157. [BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing](../../ai/research/arxiv-2610-31633.md) ([Source](https://arxiv.org/abs/2610.31633)) - `ai/research`
+2158. [Interpreting Model Reasoning through Behavioral Counterfactuals](../../ai/research/arxiv-2610-30630.md) ([Source](https://arxiv.org/abs/2610.30630)) - `ai/research`
+2159. [Structural Causal Bottleneck Models](../../ai/research/arxiv-2603-08682.md) ([Source](https://arxiv.org/abs/2603.08682)) - `ai/research`
+2160. [SALTO: Solver-Anchored Lifted Transfer Operators for Nonlinear Event Inference](../../ai/research/arxiv-2610-21049.md) ([Source](https://arxiv.org/abs/2610.21049)) - `ai/research`
+2161. [Continuous-depth Deep Gaussian Processes](../../ai/research/arxiv-2610-30890.md) ([Source](https://arxiv.org/abs/2610.30890)) - `ai/research`
+2162. [Loopy: Low-Bit Quantization Framework for Looped Language Models](../../ai/research/arxiv-2610-05265.md) ([Source](https://arxiv.org/abs/2610.05265)) - `ai/research`
+2163. [It Takes a Forum: Resources & Stakeholders Sustaining the Online Synthetic Non-Consensual Intimate Image Creation Ecosystem](../../ai/research/arxiv-2604-12190.md) ([Source](https://arxiv.org/abs/2604.12190)) - `ai/research`
+2164. [Scalable long-range machine learning interatomic potentials with electrical response for atomistic material modeling](../../ai/research/arxiv-2610-23643.md) ([Source](https://arxiv.org/abs/2610.23643)) - `ai/research`
+2165. [Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](../../ai/research/arxiv-2609-20650.md) ([Source](https://arxiv.org/abs/2609.20650)) - `ai/research`
+2166. [Training-Induced Escape from Token Clustering in a Mean-Field Formulation of Transformers](../../ai/research/arxiv-2605-07772.md) ([Source](https://arxiv.org/abs/2605.07772)) - `ai/research`
+2167. [Leaner Transformers Can Easily Learn to Cluster](../../ai/research/arxiv-2610-09760.md) ([Source](https://arxiv.org/abs/2610.09760)) - `ai/research`
+2168. [Efficient CPU-GPU collaborative MoE inference via Adaptive Expert Assignment](../../ai/research/arxiv-2610-23006.md) ([Source](https://arxiv.org/abs/2610.23006)) - `ai/research`
+2169. [Learning Checklists to Reduce Lottery Effects in Scientific Peer Review](../../ai/research/arxiv-2610-28666.md) ([Source](https://arxiv.org/abs/2610.28666)) - `ai/research`
+2170. [Looped Uniform Diffusion Language Models](../../ai/research/arxiv-2610-30066.md) ([Source](https://arxiv.org/abs/2610.30066)) - `ai/research`
+2171. [How Far Can Sharpness and Complexity Jointly Explain Generalization?](../../ai/research/arxiv-2606-29043.md) ([Source](https://arxiv.org/abs/2606.29043)) - `ai/research`
+2172. [Proportionality in Ranking Compression](../../ai/research/arxiv-2610-23193.md) ([Source](https://arxiv.org/abs/2610.23193)) - `ai/research`
+2173. [Who Can Change Course? An Integrative Review of AI Sovereignty and Collective Learning Capacity](../../ai/research/arxiv-2606-00729.md) ([Source](https://arxiv.org/abs/2606.00729)) - `ai/research`
+2174. [Predictive Closure: A Set-Level Characterization of JEPA's Feature Selection](../../ai/research/arxiv-2610-27364.md) ([Source](https://arxiv.org/abs/2610.27364)) - `ai/research`
+2175. [Fixed-Size Active Statistical Inference](../../ai/research/arxiv-2610-27389.md) ([Source](https://arxiv.org/abs/2610.27389)) - `ai/research`
+2176. [The Value of System 1 Models in Medicine](../../ai/research/arxiv-2610-31315.md) ([Source](https://arxiv.org/abs/2610.31315)) - `ai/research`
+2177. [Supermodular Rank: Set Function Decomposition and Optimization](../../ai/research/arxiv-2305-14632.md) ([Source](https://arxiv.org/abs/2305.14632)) - `ai/research`
+2178. [The Reliance Hypothesis: Chain-of-Thought Faithfulness Rises as Language Resource Level Falls](../../ai/research/arxiv-2610-22841.md) ([Source](https://arxiv.org/abs/2610.22841)) - `ai/research`
+2179. [Trees from Marginals: Autoregressive drafting with factorized priors](../../ai/research/arxiv-2607-06763.md) ([Source](https://arxiv.org/abs/2607.06763)) - `ai/research`
+2180. [A Digital Twin to Improve Cyber-Social Impact](../../ai/research/arxiv-2610-28430.md) ([Source](https://arxiv.org/abs/2610.28430)) - `ai/research`
+2181. [M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling](../../ai/research/arxiv-2603-14360.md) ([Source](https://arxiv.org/abs/2603.14360)) - `ai/research`
+2182. [Graph-Theoretic Formulation of Hamiltonian and Ground-State Sign Structures in Heisenberg Antiferromagnets](../../ai/research/arxiv-2602-04943.md) ([Source](https://arxiv.org/abs/2602.04943)) - `ai/research`
+2183. [GARG-AML against Smurfing: A Scalable and Interpretable Graph-Based Framework for Anti-Money Laundering](../../ai/research/arxiv-2506-04292.md) ([Source](https://arxiv.org/abs/2506.04292)) - `ai/research`
+2184. [Rethinking Quality in Large Language Model Routing: Security-Conditioned Model-and-Budget Selection](../../ai/research/arxiv-2610-18566.md) ([Source](https://arxiv.org/abs/2610.18566)) - `ai/research`
+2185. [Shift-aware score transport for privacy auditing without retraining](../../ai/research/arxiv-2610-31549.md) ([Source](https://arxiv.org/abs/2610.31549)) - `ai/research`
+2186. [HyCo: Hybrid Drafting for Cost-Efficient Mobile-Cloud Speculative Decoding](../../ai/research/arxiv-2610-21436.md) ([Source](https://arxiv.org/abs/2610.21436)) - `ai/research`
+2187. [Nominate-then-Adjudicate: LLM-Assisted One-Pass and Per-Instance MIP Solver Tuning](../../ai/research/arxiv-2610-29391.md) ([Source](https://arxiv.org/abs/2610.29391)) - `ai/research`
+2188. [DiffusionRVGE: Reinforcement Learning via Regression-Based Value Gradient Estimation](../../ai/research/arxiv-2610-22973.md) ([Source](https://arxiv.org/abs/2610.22973)) - `ai/research`
+2189. [AnomalyJev: Towards Evaluating Image Anomaly Explanations via Claim-Level Verification](../../ai/research/arxiv-2610-27565.md) ([Source](https://arxiv.org/abs/2610.27565)) - `ai/research`
+2190. [UniWALM: Unified World Action Language Model for Embodied Robot Control](../../ai/research/arxiv-2610-28626.md) ([Source](https://arxiv.org/abs/2610.28626)) - `ai/research`
+2191. [Many Biases, One Circuit: Post-Training Tunes a Pretrained Cue-Routing Mechanism](../../ai/research/arxiv-2610-22937.md) ([Source](https://arxiv.org/abs/2610.22937)) - `ai/research`
+2192. [RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment](../../ai/research/arxiv-2610-17665.md) ([Source](https://arxiv.org/abs/2610.17665)) - `ai/research`
+2193. [AgriVLN: Vision-and-Language Navigation for Agricultural Robots](../../ai/research/arxiv-2508-07406.md) ([Source](https://arxiv.org/abs/2508.07406)) - `ai/research`
+2194. [Beyond Invariance: Factor-wise Selective Treatment of Shifts for Multimodal Learning](../../ai/research/arxiv-2610-21403.md) ([Source](https://arxiv.org/abs/2610.21403)) - `ai/research`
+2195. [DIAL: Steerable Language Models with Distilled Instruction-Adherence Levels](../../ai/research/arxiv-2610-31438.md) ([Source](https://arxiv.org/abs/2610.31438)) - `ai/research`
+2196. [Accelerating Optimization via Differentiable Stopping Time](../../ai/research/arxiv-2505-22509.md) ([Source](https://arxiv.org/abs/2505.22509)) - `ai/research`
+2197. [EHRNote-ChatQA: A Benchmark for Evidence-Grounded Multi-Turn Clinical Question Answering over Longitudinal Discharge Summaries](../../ai/research/arxiv-2606-15735.md) ([Source](https://arxiv.org/abs/2606.15735)) - `ai/research`
+2198. [Asymmetry Tunneling Beyond Adaptive Equivariance Relaxation](../../ai/research/arxiv-2610-29473.md) ([Source](https://arxiv.org/abs/2610.29473)) - `ai/research`
+2199. [Competence-Based Evaluation of Logical Reasoning in Large Language Models](../../ai/research/arxiv-2610-22894.md) ([Source](https://arxiv.org/abs/2610.22894)) - `ai/research`
+2200. [One Communicator, Three Vendors: Extending the MoA Predictive Theory to a Real NVIDIA+AMD+CPU MPI Ensemble](../../ai/research/arxiv-2610-22769.md) ([Source](https://arxiv.org/abs/2610.22769)) - `ai/research`
+2201. [EEG-Based Classification of Hypnotic Susceptibility Using Two-Dimensional Convolutional Neural Networks](../../ai/research/arxiv-2610-27738.md) ([Source](https://arxiv.org/abs/2610.27738)) - `ai/research`
+2202. [The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer](../../ai/research/arxiv-2610-03827.md) ([Source](https://arxiv.org/abs/2610.03827)) - `ai/research`
+2203. [When Does Hate Transfer? A Large-Scale Study of Cross-Lingual Hate Speech Detection](../../ai/research/arxiv-2610-27285.md) ([Source](https://arxiv.org/abs/2610.27285)) - `ai/research`
+2204. [BrainPro: Process-conditioned Pretraining with Topographic Retrieval for Large EEG Models](../../ai/research/arxiv-2509-22050.md) ([Source](https://arxiv.org/abs/2509.22050)) - `ai/research`
+2205. [SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism](../../ai/research/arxiv-2610-29111.md) ([Source](https://arxiv.org/abs/2610.29111)) - `ai/research`
+2206. [When Health Assistants Agree Too Readily: A Benchmark of Time-Critical Self-Diagnosis](../../ai/research/arxiv-2610-27518.md) ([Source](https://arxiv.org/abs/2610.27518)) - `ai/research`
+2207. [Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks](../../ai/research/arxiv-2610-28495.md) ([Source](https://arxiv.org/abs/2610.28495)) - `ai/research`
+2208. [The Shape of the DPO Hyperparameter Landscape: What to Measure, How It Moves with Scale, and When Not to Transfer It](../../ai/research/arxiv-2610-27895.md) ([Source](https://arxiv.org/abs/2610.27895)) - `ai/research`
+2209. [Cross-Modal Emotion Understanding: A Transformer-GAT Approach for Dialogue Emotion Recognition](../../ai/research/arxiv-2609-29556.md) ([Source](https://arxiv.org/abs/2609.29556)) - `ai/research`
+2210. [Language Models Give Group-Linked Fields the Wrong Weight](../../ai/research/arxiv-2608-22887.md) ([Source](https://arxiv.org/abs/2608.22887)) - `ai/research`
+2211. [When Thoughts Become Memory: Unifying In-Context Learning and Fine-Tuning](../../ai/research/arxiv-2610-29419.md) ([Source](https://arxiv.org/abs/2610.29419)) - `ai/research`
+2212. [Rethinking LLM Fine-Tuning via Weight Space Reparameterization: Preserving Safety during Downstream Adaptation](../../ai/research/arxiv-2610-26443.md) ([Source](https://arxiv.org/abs/2610.26443)) - `ai/research`
+2213. [When Retain Constraints Conflict: Mitigating Forget-Retain Interference in Tabular Data](../../ai/research/arxiv-2609-06786.md) ([Source](https://arxiv.org/abs/2609.06786)) - `ai/research`
+2214. [Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies](../../ai/research/arxiv-2610-22706.md) ([Source](https://arxiv.org/abs/2610.22706)) - `ai/research`
+2215. [HiPPT: Physiology-Grounded Wearable PPG Representation Learning via Multi-Scope Text Alignment](../../ai/research/arxiv-2610-14489.md) ([Source](https://arxiv.org/abs/2610.14489)) - `ai/research`
+2216. [Mitigating Model Merging Conflicts via Knowledge-Aware Task Vector Purification](../../ai/research/arxiv-2510-14697.md) ([Source](https://arxiv.org/abs/2510.14697)) - `ai/research`
+2217. [HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements](../../ai/research/arxiv-2610-29996.md) ([Source](https://arxiv.org/abs/2610.29996)) - `ai/research`
+2218. [How to Use Parallel Data for Multilingual Pretraining](../../ai/research/arxiv-2610-28838.md) ([Source](https://arxiv.org/abs/2610.28838)) - `ai/research`
+2219. [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](../../ai/research/arxiv-2610-28706.md) ([Source](https://arxiv.org/abs/2610.28706)) - `ai/research`
+2220. [Asymmetric Likelihood-Free Hypothesis Testing](../../ai/research/arxiv-2610-29798.md) ([Source](https://arxiv.org/abs/2610.29798)) - `ai/research`
+2221. [TRIP-Shapley: Propagation-Aware Contribution Attribution Framework for Peer-to-Peer Federated Learning](../../ai/research/arxiv-2505-23246.md) ([Source](https://arxiv.org/abs/2505.23246)) - `ai/research`
+2222. [Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](../../ai/research/arxiv-2609-04180.md) ([Source](https://arxiv.org/abs/2609.04180)) - `ai/research`
+2223. [LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines](../../ai/research/arxiv-2610-29409.md) ([Source](https://arxiv.org/abs/2610.29409)) - `ai/research`
+2224. [Steering intonational tunes in text-to-speech synthesis](../../ai/research/arxiv-2610-27403.md) ([Source](https://arxiv.org/abs/2610.27403)) - `ai/research`
+2225. [Speedrunning Relational Foundation Model Pretraining](../../ai/research/arxiv-2610-28855.md) ([Source](https://arxiv.org/abs/2610.28855)) - `ai/research`
+2226. [This is SParTA: A modular, efficient and scalable transformer architecture for jet-tagging](../../ai/research/arxiv-2610-27106.md) ([Source](https://arxiv.org/abs/2610.27106)) - `ai/research`
+2227. [Learnable Spectral Activations](../../ai/research/arxiv-2610-07419.md) ([Source](https://arxiv.org/abs/2610.07419)) - `ai/research`
+2228. [Tracing Subliminal Learning Through Pretraining](../../ai/research/arxiv-2610-30884.md) ([Source](https://arxiv.org/abs/2610.30884)) - `ai/research`
+2229. [Diffusion Language Models for Perplexity-Aware Black-Box Attacks](../../ai/research/arxiv-2610-31558.md) ([Source](https://arxiv.org/abs/2610.31558)) - `ai/research`
+2230. [Machine Unlearning in Low-Dimensional Feature Subspace](../../ai/research/arxiv-2601-22456.md) ([Source](https://arxiv.org/abs/2601.22456)) - `ai/research`
+2231. [Debiased Prior-Data Fitted Networks for Amortized Bayesian Semi-Parametric Inference](../../ai/research/arxiv-2610-28314.md) ([Source](https://arxiv.org/abs/2610.28314)) - `ai/research`
+2232. [Measuring Pretraining Contamination in Public Medical Vision-Language Benchmarks](../../ai/research/arxiv-2606-10066.md) ([Source](https://arxiv.org/abs/2606.10066)) - `ai/research`
+2233. [Noise-shaped Sampling and Annealing for Scalable On-the-edge Training of Binary and Ternary AI Models](../../ai/research/arxiv-2610-22621.md) ([Source](https://arxiv.org/abs/2610.22621)) - `ai/research`
+2234. [Auditing Safety Preference Supervision with Recorded Derivations](../../ai/research/arxiv-2610-27266.md) ([Source](https://arxiv.org/abs/2610.27266)) - `ai/research`
+2235. [BRIDGE: An Acceptance Gate to Block False Improvements in Model Updates, with a Retrospective Clinical Evaluation](../../ai/research/arxiv-2610-29515.md) ([Source](https://arxiv.org/abs/2610.29515)) - `ai/research`
+2236. [Generalization Bounds via Vector-Valued $L_p$ Correlation $V_\alpha$](../../ai/research/arxiv-2610-29425.md) ([Source](https://arxiv.org/abs/2610.29425)) - `ai/research`
+2237. [A Reverse-Gold Theorem: Positive-Data Identification by Substrate-Bounded Contrastive Learners](../../ai/research/arxiv-2610-28747.md) ([Source](https://arxiv.org/abs/2610.28747)) - `ai/research`
+2238. [Sampling the XY model with an attention-based neural network](../../ai/research/arxiv-2610-23783.md) ([Source](https://arxiv.org/abs/2610.23783)) - `ai/research`
+2239. [Covariance-Aware Transformers for Quadratic Programming and Decision Making](../../ai/research/arxiv-2602-14506.md) ([Source](https://arxiv.org/abs/2602.14506)) - `ai/research`
+2240. [Fast Iterative Combinatorial Auctions via Deep Reinforcement Learning](../../ai/research/arxiv-2610-30667.md) ([Source](https://arxiv.org/abs/2610.30667)) - `ai/research`
+2241. [Self-Supervised Tuning of Low-Fidelity Optimization Models via High-Fidelity Feedback](../../ai/research/arxiv-2610-28851.md) ([Source](https://arxiv.org/abs/2610.28851)) - `ai/research`
+2242. [Continual Concept Personalization in Diffusion Models via Residual-Space Adaptation](../../ai/research/arxiv-2610-28567.md) ([Source](https://arxiv.org/abs/2610.28567)) - `ai/research`
+2243. [No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses](../../ai/research/arxiv-2610-29607.md) ([Source](https://arxiv.org/abs/2610.29607)) - `ai/research`
+2244. [Same Judgment, Different Yes: Measuring Multilingual Judgment Profiles in Language Models](../../ai/research/arxiv-2610-28066.md) ([Source](https://arxiv.org/abs/2610.28066)) - `ai/research`
+2245. [Extreme Low-State Quantized Transformer for Electricity-Load Forecasting](../../ai/research/arxiv-2610-28784.md) ([Source](https://arxiv.org/abs/2610.28784)) - `ai/research`
+2246. [xVGAE: A Hierarchical Variational Graph Autoencoder for Exchangeable Graphs](../../ai/research/arxiv-2610-30815.md) ([Source](https://arxiv.org/abs/2610.30815)) - `ai/research`
+2247. [Selecting the Best Few with Human Evaluators: Adaptively Combining Ratings and Pairwise Comparisons](../../ai/research/arxiv-2610-26380.md) ([Source](https://arxiv.org/abs/2610.26380)) - `ai/research`
+2248. [SAHG: Sector-Anisotropic Hyperbolic Graph Model for Social Bot Detection](../../ai/research/arxiv-2605-30166.md) ([Source](https://arxiv.org/abs/2605.30166)) - `ai/research`
+2249. [Quantum-Classical Neural Networks for Solving Lindblad Master Equations](../../ai/research/arxiv-2610-22691.md) ([Source](https://arxiv.org/abs/2610.22691)) - `ai/research`
+2250. [Local Discrimination of Binary Classifiers via Localized AUC Functional](../../ai/research/arxiv-2610-31216.md) ([Source](https://arxiv.org/abs/2610.31216)) - `ai/research`
+2251. [Dimension-free regimes for unadjusted Langevin in ridge-separable models: A subspace robust Wasserstein analysis](../../ai/research/arxiv-2610-31431.md) ([Source](https://arxiv.org/abs/2610.31431)) - `ai/research`
+2252. [Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization](../../ai/research/arxiv-2605-06145.md) ([Source](https://arxiv.org/abs/2605.06145)) - `ai/research`
+2253. [What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs](../../ai/research/arxiv-2608-00013.md) ([Source](https://arxiv.org/abs/2608.00013)) - `ai/research`
+2254. [Offline Apprenticeship Learning for Human-Centric Environments](../../ai/research/arxiv-2610-28716.md) ([Source](https://arxiv.org/abs/2610.28716)) - `ai/research`
+2255. [MICA: Multi-granularity Intertemporal Credit Assignment for Long-Horizon Emotional Support Dialogue](../../ai/research/arxiv-2603-06194.md) ([Source](https://arxiv.org/abs/2603.06194)) - `ai/research`
+2256. [Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging](../../ai/research/arxiv-2610-27470.md) ([Source](https://arxiv.org/abs/2610.27470)) - `ai/research`
+2257. [Measuring Variable Importance Using Proportional Inclusive Marginal Effects](../../ai/research/arxiv-2610-17053.md) ([Source](https://arxiv.org/abs/2610.17053)) - `ai/research`
+2258. [Nonparametric autoregressive estimation of probability distributions with parallel gradient boosting](../../ai/research/arxiv-2610-31524.md) ([Source](https://arxiv.org/abs/2610.31524)) - `ai/research`
+2259. [Robust Tangent Space Estimation via Laplacian Eigenvector Gradient Orthogonalization](../../ai/research/arxiv-2510-02308.md) ([Source](https://arxiv.org/abs/2510.02308)) - `ai/research`
+2260. [SMART: Semantic Segment Mapping and Assessment of Recognition Transcripts with Contextual Rubrics](../../ai/research/arxiv-2610-27820.md) ([Source](https://arxiv.org/abs/2610.27820)) - `ai/research`
+2261. [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](../../ai/research/arxiv-2610-22400.md) ([Source](https://arxiv.org/abs/2610.22400)) - `ai/research`
+2262. [GR-OPD: Group-Relative Sequence Credit for On-Policy Distillation](../../ai/research/arxiv-2610-23042.md) ([Source](https://arxiv.org/abs/2610.23042)) - `ai/research`
+2263. [GFlowPO: Generative Flow Network as a Language Model Prompt Optimizer](../../ai/research/arxiv-2602-03358.md) ([Source](https://arxiv.org/abs/2602.03358)) - `ai/research`
+2264. [Decoupling candidate dual AGN from chance superpositions in the GOTHIC survey via a deep-learning framework](../../ai/research/arxiv-2608-24164.md) ([Source](https://arxiv.org/abs/2608.24164)) - `ai/research`
+2265. [Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision](../../ai/research/arxiv-2610-31510.md) ([Source](https://arxiv.org/abs/2610.31510)) - `ai/research`
+2266. [Beyond Action Prediction: Learning Search-Free Planning in Latent Space](../../ai/research/arxiv-2610-23615.md) ([Source](https://arxiv.org/abs/2610.23615)) - `ai/research`
+2267. [An Efficient Approach to Beetle Damage Detection of Banana Using Deep Learning](../../ai/research/arxiv-2610-23661.md) ([Source](https://arxiv.org/abs/2610.23661)) - `ai/research`
+2268. [When Weak Submodularity Meets Matroids: How Does Standard Greedy Behave?](../../ai/research/arxiv-2610-26967.md) ([Source](https://arxiv.org/abs/2610.26967)) - `ai/research`
+2269. [EDISCO: Equivariant DIScrete Diffusion for Euclidean Combinatorial Optimization](../../ai/research/arxiv-2610-04953.md) ([Source](https://arxiv.org/abs/2610.04953)) - `ai/research`
+2270. [EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding](../../ai/research/arxiv-2609-32352.md) ([Source](https://arxiv.org/abs/2609.32352)) - `ai/research`
+2271. [Uncertainty-aware AI-enabled framework for predicting hydrogen dispersion in confined spaces to enhance operator situational awareness](../../ai/research/arxiv-2610-23515.md) ([Source](https://arxiv.org/abs/2610.23515)) - `ai/research`
+2272. [Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability](../../ai/research/arxiv-2610-23722.md) ([Source](https://arxiv.org/abs/2610.23722)) - `ai/research`
+2273. [Certified Adaptive List Decoding for Error-Correcting Codes](../../ai/research/arxiv-2610-27805.md) ([Source](https://arxiv.org/abs/2610.27805)) - `ai/research`
+2274. [FSPO: Policy-Consistent Risk and Pareto-Feasible Control for Budgeted LLM RL Post-Training](../../ai/research/arxiv-2610-02828.md) ([Source](https://arxiv.org/abs/2610.02828)) - `ai/research`
+2275. [GPU-Accelerated Robust MA--RIS Pre-Optimization for Communication and Target Illumination](../../ai/research/arxiv-2610-22431.md) ([Source](https://arxiv.org/abs/2610.22431)) - `ai/research`
+2276. [The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token](../../ai/research/arxiv-2610-28576.md) ([Source](https://arxiv.org/abs/2610.28576)) - `ai/research`
+2277. [VStress: Correlation-Aware Auditing and Adaptive Budget Allocation for Repeated Verifiers](../../ai/research/arxiv-2609-36958.md) ([Source](https://arxiv.org/abs/2609.36958)) - `ai/research`
+2278. [AWAM: Active Trajectory-Conditioned View Imagination for Robust Robot Manipulation](../../ai/research/arxiv-2610-23396.md) ([Source](https://arxiv.org/abs/2610.23396)) - `ai/research`
+2279. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](../../ai/research/retrieval-augmented-generation-for-knowledge-inten.md) ([Source](https://semanticscholar.org/paper/659bf9ce7175e1ec266ff54359e2bd76e0b7ff31)) - `ai/research`
+2280. [COSMOS: Model-Agnostic Personalized Federated Learning with Clustered Server Models and Pseudo-Label-Only Communication](../../ai/research/arxiv-2605-11165.md) ([Source](https://arxiv.org/abs/2605.11165)) - `ai/research`
+2281. [Mask-Based Deep Symbolic Regression](../../ai/research/arxiv-2505-24776.md) ([Source](https://arxiv.org/abs/2505.24776)) - `ai/research`
+2282. [Online Open-World Wafer Defect Discovery using Hyperdimensional Computing](../../ai/research/arxiv-2610-28949.md) ([Source](https://arxiv.org/abs/2610.28949)) - `ai/research`
+2283. [Progressive Subset Selection and Cascaded Consistency for Unsupervised Vision-Language Model Adaptation](../../ai/research/arxiv-2610-27515.md) ([Source](https://arxiv.org/abs/2610.27515)) - `ai/research`
+2284. [Curriculum Learning for Generative Flexible Docking](../../ai/research/arxiv-2610-28145.md) ([Source](https://arxiv.org/abs/2610.28145)) - `ai/research`
+2285. [Hierarchical Masked Diffusion Language Models](../../ai/research/arxiv-2610-29255.md) ([Source](https://arxiv.org/abs/2610.29255)) - `ai/research`
+2286. [Interaction-Gated Time-Frequency Learning for Parameter-Efficient PPG-Based Heart Rate Estimation](../../ai/research/arxiv-2610-28693.md) ([Source](https://arxiv.org/abs/2610.28693)) - `ai/research`
+2287. [Anisotropic Representation Dynamics in Transformers](../../ai/research/arxiv-2610-23242.md) ([Source](https://arxiv.org/abs/2610.23242)) - `ai/research`
+2288. [Short-to-Long: Detached Features for Long-Horizon Value Learning](../../ai/research/arxiv-2610-30461.md) ([Source](https://arxiv.org/abs/2610.30461)) - `ai/research`
+2289. [Feedback World Model Enables Precise Guidance of Diffusion Policy](../../ai/research/arxiv-2605-15705.md) ([Source](https://arxiv.org/abs/2605.15705)) - `ai/research`
+2290. [Context-Augmented, Session-Calibrated Blood Pressure Tracking from Photoplethysmography](../../ai/research/arxiv-2610-29091.md) ([Source](https://arxiv.org/abs/2610.29091)) - `ai/research`
+2291. [Steering Vision-Language Models for Visual-Contextual Privacy in Location Disclosure](../../ai/research/arxiv-2610-27323.md) ([Source](https://arxiv.org/abs/2610.27323)) - `ai/research`
+2292. [Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models](../../ai/research/arxiv-2610-28074.md) ([Source](https://arxiv.org/abs/2610.28074)) - `ai/research`
+2293. [The Ephemeral Cost of Switching Optimizers Across LLM Training Stages](../../ai/research/arxiv-2610-22650.md) ([Source](https://arxiv.org/abs/2610.22650)) - `ai/research`
+2294. [Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning](../../ai/research/arxiv-2610-15428.md) ([Source](https://arxiv.org/abs/2610.15428)) - `ai/research`
 
 ## Weekly Company Updates
 
@@ -3486,12 +3486,12 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [RAG](../../skills/rag.md) (2358 updates)
+- [RAG](../../skills/rag.md) (2357 updates)
 - [Vector Databases](../../skills/vector-databases.md) (704 updates)
 - [AI Agents](../../skills/ai-agents.md) (558 updates)
 - [Workflow Automation](../../skills/automation.md) (288 updates)
 - [AI Coding Agents](../../skills/ai-coding-agents.md) (281 updates)
-- [LLMOps](../../skills/llmops.md) (188 updates)
+- [LLMOps](../../skills/llmops.md) (187 updates)
 - [Local LLMs & Inference](../../skills/local-llm.md) (82 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (72 updates)
 - [FastAPI](../../skills/fastapi.md) (29 updates)
@@ -3504,4 +3504,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-10-25T00:40:13.458279+05:30
+2026-10-25T04:22:39.592868+05:30

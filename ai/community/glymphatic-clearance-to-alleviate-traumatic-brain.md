@@ -13,13 +13,14 @@ collected_at: '2026-10-25T00:23:37.240955+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:glymphatic-clearance-to-alleviate-traumatic-brain
 first_seen: '2026-10-25T00:23:37.240955+05:30'
 last_seen: '2026-10-25T00:23:37.240955+05:30'
 last_checked: '2026-10-25T00:23:37.240955+05:30'
 health_score: 100
 ---
+
 
 # Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology
 

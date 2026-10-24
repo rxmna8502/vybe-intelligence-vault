@@ -304,10 +304,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | block.xyz | 1 |
+| apollo.com | 1 |
 | danielball.com | 1 |
 | actu.epfl.ch | 1 |
 | terrytao.wordpress.com | 1 |
-| science.org | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

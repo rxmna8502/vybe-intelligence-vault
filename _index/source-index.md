@@ -35765,7 +35765,6 @@ Resources organized by publisher feed and query sources.
   - [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](../ai/research/arxiv-2607-05412.md)
   - [Why does Greedy Search produce Optimal Clustering Outcomes? A Fixed-Core Assignment Theory](../ai/rag/arxiv-2607-24237.md)
   - [Why don't Graph Transformers attend to the same token?](../ai/research/arxiv-2610-19324.md)
-  - [Why is AI-generated language so hard to understand?](../ai/research/arxiv-2610-29162.md)
   - [Why not to use the Gaussian kernel](../ai/research/arxiv-2608-26974.md)
   - [Why shared attention vectors fail: a case for outcome-indexed tuning](../ai/research/arxiv-2609-08615.md)
   - [Why we need an AI-resilient society- Profiling Large Language Models](../ai/research/arxiv-1912-08786.md)
@@ -37159,9 +37158,10 @@ Resources organized by publisher feed and query sources.
 
   - [A practical guide to AI image generation, from diffusion to agents](../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md)
   - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
-  - [Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology](../ai/community/glymphatic-clearance-to-alleviate-traumatic-brain.md)
   - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
+  - [No signs of AI payoff outside the tech sector](../ai/community/no-signs-of-ai-payoff-outside-the-tech-sector.md)
   - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../ai/community/oai-math-revised-a-community-hub-for-revising-open.md)
+  - [Why is AI generated language so hard to understand?](../ai/research/arxiv-2610-29162.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41059,4 +41059,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-25T00:40:23.430212+05:30*
+*Index generated on 2026-10-25T04:22:49.422938+05:30*
