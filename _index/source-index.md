@@ -37157,11 +37157,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [America has lost 200k of jobs in media, film and the arts. How much is AI?](../ai/community/america-has-lost-200k-of-jobs-in-media-film-and-th.md)
+  - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](../ai/community/a-10-year-old-cnn-outperforms-frontier-llms-for-sk.md)
+  - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](../ai/community/ai-use-leads-uc-berkeley-math-professor-to-see-no.md)
   - [Cerebras Deploys Trillion-Parameter AI Models](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md)
-  - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
   - [Nikon photography contest winner loses title after scientists spot signs of AI](../ai/community/nikon-photography-contest-winner-loses-title-after.md)
-  - [Rewriting a Commercial Engine in Jai](../ai/community/rewriting-a-commercial-engine-in-jai.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41059,4 +41058,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-25T19:05:14.963652+05:30*
+*Index generated on 2026-10-26T00:58:06.703960+05:30*

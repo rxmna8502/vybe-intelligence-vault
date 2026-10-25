@@ -13,13 +13,14 @@ collected_at: '2026-10-25T18:48:39.315705+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:america-has-lost-200k-of-jobs-in-media-film-and-th
 first_seen: '2026-10-25T10:22:36.147195+05:30'
 last_seen: '2026-10-25T18:48:39.315705+05:30'
 last_checked: '2026-10-25T18:48:39.315705+05:30'
 health_score: 100
 ---
+
 
 # America has lost 200k of jobs in media, film and the arts. How much is AI?
 

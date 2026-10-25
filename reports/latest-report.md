@@ -1,6 +1,10 @@
 # Vybe AI Intelligence Synthesis Report
 
+<<<<<<< Updated upstream
 Generated at: `2026-10-26T01:22:41.343875+05:30`
+=======
+Generated at: `2026-10-26T01:03:18.792564+05:30`
+>>>>>>> Stashed changes
 
 ## Executive Summary
 
@@ -8,33 +12,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
+- **A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis** - Score: `163` in category `ai/community` ([Link](https://lynchlab.net/llm-skin-cancer)) ([File](../ai/community/a-10-year-old-cnn-outperforms-frontier-llms-for-sk.md))
+- **AI use leads UC Berkeley math professor to see 'no point' in grading homework** - Score: `78` in category `ai/community` ([Link](https://dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html)) ([File](../ai/community/ai-use-leads-uc-berkeley-math-professor-to-see-no.md))
 
 ## Top Trending Resources
 
-- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
-- **nexu-io/open-design** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/nexu-io-open-design.md))
-- **Ais1on/CTI-RAG** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/ais1on-cti-rag.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/senpi-ai-senpi-skills.md))
-- **Fosowl/agenticSeek** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/fosowl-agenticseek.md))
-- **JCodesMore/ai-chrome-extension-template** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/jcodesmore-ai-chrome-extension-template.md))
-- **AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/research/arxiv-2610-26821.md))
-- **Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/research/arxiv-2610-26496.md))
-- **PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/research/arxiv-2610-25961.md))
+- **Cerebras Deploys Trillion-Parameter AI Models** - Score: `322` (+100), Rank Change: `+1` ([File](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md))
+- **Nikon photography contest winner loses title after scientists spot signs of AI** - Score: `112` (+77), Rank Change: `+2` ([File](../ai/community/nikon-photography-contest-winner-loses-title-after.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+19` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+19` ([File](../ai/companies/graphics-multimedia.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9299`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **microsoft/rag-time** - (Rank Change: `+1043`) ([File](../ai/rag/microsoft-rag-time.md))
-- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2608-02392.md))
-- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-02046.md))
-- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-01791.md))
-- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-01207.md))
-- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-23462.md))
-- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-22216.md))
-- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-09123.md))
-- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1043`) ([File](../ai/agents/arxiv-2605-27882.md))
+- **Applied AI** - (Rank Change: `+927`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+927`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+927`) ([File](../ai/companies/openai/global-affairs.md))
+- **Intelligence Age** - (Rank Change: `+927`) ([File](../ai/companies/openai/intelligence-age.md))
+- **Engineering** - (Rank Change: `+927`) ([File](../ai/companies/openai/engineering.md))
+- **Introducing the Anthropic Cyber Mission** - (Rank Change: `+102`) ([File](../ai/companies/anthropic/introducing-the-anthropic-cyber-mission.md))
+- **Strengthening our defenses against distillation attacks** - (Rank Change: `+102`) ([File](../ai/companies/anthropic/strengthening-our-defenses-against-distillation-at.md))
+- **Anthropic opens Singapore office and signs MOU with the Government of Singapore** - (Rank Change: `+102`) ([File](../ai/companies/anthropic/anthropic-opens-singapore-office-and-signs-mou-wit.md))
+- **Safeguards** - (Rank Change: `+102`) ([File](../ai/companies/anthropic/safeguards.md))
+- **Preparing for the 2026 US midterms** - (Rank Change: `+102`) ([File](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +50,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **America has lost 200k of jobs in media, film and the arts. How much is AI?** (Category: `ai/community`) ([File](../ai/community/america-has-lost-200k-of-jobs-in-media-film-and-th.md))
+- **Neural chip decodes interactions between brain regions** (Category: `ai/community`) ([File](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md))
+- **Rewriting a Commercial Engine in Jai** (Category: `ai/community`) ([File](../ai/community/rewriting-a-commercial-engine-in-jai.md))

@@ -13,13 +13,14 @@ collected_at: '2026-10-25T18:48:40.233144+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:neural-chip-decodes-interactions-between-brain-reg
 first_seen: '2026-10-25T00:23:36.451457+05:30'
 last_seen: '2026-10-25T18:48:40.233144+05:30'
 last_checked: '2026-10-25T18:48:40.233144+05:30'
 health_score: 100
 ---
+
 
 # Neural chip decodes interactions between brain regions
 

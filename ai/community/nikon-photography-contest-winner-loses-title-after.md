@@ -6,19 +6,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html
 hn_url: https://news.ycombinator.com/item?id=50229827
-score: 35
+score: 112
 author: thunderbong
-comments_count: 4
+comments_count: 45
 published_at: '2026-10-25T15:21:17+05:30'
-collected_at: '2026-10-25T18:48:38.722068+05:30'
+collected_at: '2026-10-26T00:41:27.246343+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:nikon-photography-contest-winner-loses-title-after
 first_seen: '2026-10-25T18:48:38.722068+05:30'
-last_seen: '2026-10-25T18:48:38.722068+05:30'
-last_checked: '2026-10-25T18:48:38.722068+05:30'
+last_seen: '2026-10-26T00:41:27.246343+05:30'
+last_checked: '2026-10-26T00:41:27.246343+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by thunderbong. Score: 35, Comments: 4.
+Hacker News story by thunderbong. Score: 112, Comments: 45.
 Original Link: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: thunderbong
-- Score: 35 Upvotes
-- Comments: 4 Discussions
+- Score: 112 Upvotes
+- Comments: 45 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50229827
 - Original Article: https://techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html
 

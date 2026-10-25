@@ -9325,11 +9325,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [America has lost 200k of jobs in media, film and the arts. How much is AI?](../ai/community/america-has-lost-200k-of-jobs-in-media-film-and-th.md)
+  - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](../ai/community/ai-use-leads-uc-berkeley-math-professor-to-see-no.md)
   - [Cerebras Deploys Trillion-Parameter AI Models](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md)
-  - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
   - [Nikon photography contest winner loses title after scientists spot signs of AI](../ai/community/nikon-photography-contest-winner-loses-title-after.md)
-  - [Rewriting a Commercial Engine in Jai](../ai/community/rewriting-a-commercial-engine-in-jai.md)
 
 ## animation
 
@@ -20724,6 +20722,7 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -32240,6 +32239,7 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -36963,6 +36963,7 @@ Resources organized by keyword tags.
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [<mark> HTML mark text element - HTML | MDN](../ai/resources/mark-html-mark-text-element-html-mdn.md)
+  - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](../ai/community/a-10-year-old-cnn-outperforms-frontier-llms-for-sk.md)
   - [A 3D Pose-Based Ensemble Framework for Cricket Shot Classification and Automated Biomechanical Analysis](../ai/research/arxiv-2609-26923.md)
   - [A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks](../ai/research/arxiv-2609-39058.md)
   - [A Baseline Assessment for the Agentic Web Technology Stack](../ai/agents/arxiv-2610-13703.md)
@@ -37182,6 +37183,7 @@ Resources organized by keyword tags.
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
+  - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](../ai/community/ai-use-leads-uc-berkeley-math-professor-to-see-no.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI+X](../ai/resources/ai-x.md)
@@ -37340,7 +37342,6 @@ Resources organized by keyword tags.
   - [Allure of Craquelure: A Variational-Generative Approach to Crack Detection in Paintings](../ai/research/arxiv-2602-09730.md)
   - [Almost Sure Convergence Analysis of Stochastic Gradient Methods with Clipping and Additive Noise](../ai/research/arxiv-2609-12119.md)
   - [Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies | Nature Climate Change](../ai/rag/alternative-pathways-to-the-1-5-degc-target-reduce.md)
-  - [America has lost 200k of jobs in media, film and the arts. How much is AI?](../ai/community/america-has-lost-200k-of-jobs-in-media-film-and-th.md)
   - [Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows](../ai/research/arxiv-2512-04954.md)
   - [Amortizing intractable inference in diffusion models for vision, language, and control](../ai/rag/arxiv-2405-20971.md)
   - [An AI-assisted conditioning and geological interpretation workflow for usage in implicit geological modeling](../ai/research/arxiv-2610-09871.md)
@@ -39627,7 +39628,6 @@ Resources organized by keyword tags.
   - [Neural Symbollic Regression Using Deep Learning and Sparse Modelling](../ai/research/arxiv-2609-01102.md)
   - [Neural Variational Cut Posteriors without Upstream Data](../ai/rag/arxiv-2510-10268.md)
   - [Neural Wasserstein Splines: Representation-Invariant Second-Order Priors for Trajectory Inference](../ai/research/arxiv-2610-19878.md)
-  - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
   - [Neural network (machine learning) - Wikipedia](../ai/rag/neural-network-machine-learning-wikipedia.md)
   - [Neural-Network Solutions to Real-Space Charge Density and Generalization](../ai/research/arxiv-2609-14906.md)
   - [Neural-Surrogate Co-Design of Aerodynamic Shape and Control](../ai/research/arxiv-2603-06760.md)
@@ -40251,7 +40251,6 @@ Resources organized by keyword tags.
   - [Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation](../ai/research/arxiv-2606-28998.md)
   - [Reward-rate Policy Gradient for Efficient Machine Learning Engineering Agents](../ai/agents/arxiv-2609-36393.md)
   - [Rewrite Once, Validate Anywhere: Producing OWL-Aware SHACL Constraints (Extended Version)](../ai/rag/arxiv-2608-14104.md)
-  - [Rewriting a Commercial Engine in Jai](../ai/community/rewriting-a-commercial-engine-in-jai.md)
   - [RhinoVLA Technical Report](../ai/research/arxiv-2606-07383.md)
   - [RiboUnmix: Learning Shared Translational Dynamics from Biased and Noisy Ribo-seq Measurements](../ai/research/arxiv-2609-39644.md)
   - [Riemannian Optimization for Multi-Player Quantum Games on Product Unitary Manifolds](../ai/agents/arxiv-2609-07397.md)
@@ -42193,6 +42192,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](../ai/community/a-10-year-old-cnn-outperforms-frontier-llms-for-sk.md)
 
 ## mdx
 
@@ -84097,4 +84100,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-25T19:05:14.499820+05:30*
+*Index generated on 2026-10-26T00:58:06.238369+05:30*
