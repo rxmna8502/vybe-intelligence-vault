@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-25T19:10:25.972002+05:30`
+Generated at: `2026-10-25T21:58:52.601433+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Rewriting a Commercial Engine in Jai** - Score: `47` in category `ai/community` ([Link](https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch)) ([File](../ai/community/rewriting-a-commercial-engine-in-jai.md))
-- **Nikon photography contest winner loses title after scientists spot signs of AI** - Score: `35` in category `ai/community` ([Link](https://techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)) ([File](../ai/community/nikon-photography-contest-winner-loses-title-after.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Cerebras Deploys Trillion-Parameter AI Models** - Score: `222` (+172), Rank Change: `+1` ([File](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md))
-- **America has lost 200k of jobs in media, film and the arts. How much is AI?** - Score: `402` (+150), Rank Change: `0` ([File](../ai/community/america-has-lost-200k-of-jobs-in-media-film-and-th.md))
-- **Neural chip decodes interactions between brain regions** - Score: `113` (+16), Rank Change: `-1` ([File](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md))
-- **agent0ai/agent-zero** - Score: `0` (0), Rank Change: `+1051` ([File](../ai/agents/agent0ai-agent-zero.md))
-- **cmAIdx/headless-claude-automation-template** - Score: `0` (0), Rank Change: `+5553` ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
-- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1554` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1554` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1049` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1553` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1048` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **The-Pocket/PocketFlow-Template-Python** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/the-pocket-pocketflow-template-python.md))
+- **nexu-io/open-design** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/nexu-io-open-design.md))
+- **Ais1on/CTI-RAG** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/ais1on-cti-rag.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **Senpi-ai/senpi-skills** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/senpi-ai-senpi-skills.md))
+- **Fosowl/agenticSeek** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/rag/fosowl-agenticseek.md))
+- **JCodesMore/ai-chrome-extension-template** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/agents/jcodesmore-ai-chrome-extension-template.md))
+- **AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/research/arxiv-2610-26821.md))
+- **Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/research/arxiv-2610-26496.md))
+- **PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models** - Score: `0` (0), Rank Change: `+1040` ([File](../ai/research/arxiv-2610-25961.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **cmAIdx/headless-claude-automation-template** - (Rank Change: `+5553`) ([File](../ai/agents/cmaidx-headless-claude-automation-template.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+1554`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **enescingoz/awesome-n8n-templates** - (Rank Change: `+1554`) ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
-- **vivy-yi/rag-tutorial** - (Rank Change: `+1553`) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **datawhalechina/hello-agents** - (Rank Change: `+1052`) ([File](../ai/rag/datawhalechina-hello-agents.md))
-- **agent0ai/agent-zero** - (Rank Change: `+1051`) ([File](../ai/agents/agent0ai-agent-zero.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1049`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **patchy631/ai-engineering-hub** - (Rank Change: `+1049`) ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - (Rank Change: `+1048`) ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+1047`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9299`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+1043`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+1043`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+1043`) ([File](../ai/research/arxiv-2606-09123.md))
+- **VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild** - (Rank Change: `+1043`) ([File](../ai/agents/arxiv-2605-27882.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,6 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Reactive Optimizers: rewrite the optimizer's source code during training** (Category: `ai/community`) ([File](../ai/community/reactive-optimizers-rewrite-the-optimizer-s-source.md))
-- **In Rainbows** (Category: `ai/community`) ([File](../ai/community/in-rainbows.md))
-- **Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions** (Category: `ai/community`) ([File](../ai/community/pragtical-v3-14-lua-based-text-editor-adds-menus-f.md))
+No recently active resources transitioned to inactive.
+
