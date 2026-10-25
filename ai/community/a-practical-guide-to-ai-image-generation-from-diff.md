@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-practical-guide-to-ai-image-generation-from-diff
 first_seen: '2026-10-24T18:19:25.795035+05:30'
 last_seen: '2026-10-25T04:06:17.264961+05:30'
 last_checked: '2026-10-25T04:06:17.264961+05:30'
 health_score: 100
 ---
+
 
 # A practical guide to AI image generation, from diffusion to agents
 

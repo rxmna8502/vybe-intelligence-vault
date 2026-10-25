@@ -13,13 +13,14 @@ collected_at: '2026-10-25T04:06:17.380663+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:dessa-conversation-model-trained-only-on-speech
 first_seen: '2026-10-24T10:17:06.641064+05:30'
 last_seen: '2026-10-25T04:06:17.380663+05:30'
 last_checked: '2026-10-25T04:06:17.380663+05:30'
 health_score: 100
 ---
+
 
 # Dessa: Conversation Model trained only on speech
 

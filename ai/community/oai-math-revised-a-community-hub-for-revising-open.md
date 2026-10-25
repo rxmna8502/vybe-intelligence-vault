@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:oai-math-revised-a-community-hub-for-revising-open
 first_seen: '2026-10-25T00:23:38.109728+05:30'
 last_seen: '2026-10-25T04:06:16.633703+05:30'
 last_checked: '2026-10-25T04:06:16.633703+05:30'
 health_score: 100
 ---
+
 
 # Oai-math-revised: a community hub for revising OpenAI's math write-ups
 

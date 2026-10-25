@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Pocket/PocketFlow-Template-Python
-collected_at: '2026-10-17T17:53:49.711351+05:30'
+collected_at: '2026-10-25T10:26:55.830925+05:30'
 published_at: '2026-10-14T07:44:35Z'
 tags:
 - agents
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-02-18T04:15:32Z'
 pushed_at: '2025-08-04T00:27:57Z'
 resource_id: github:the-pocket/pocketflow-template-python
-first_seen: '2026-10-17T17:53:49.711351+05:30'
-last_seen: '2026-10-17T17:53:49.711351+05:30'
-last_checked: '2026-10-17T17:53:49.711351+05:30'
+first_seen: '2026-10-25T10:26:55.830925+05:30'
+last_seen: '2026-10-25T10:26:55.830925+05:30'
+last_checked: '2026-10-25T10:26:55.830925+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a Python project template specifically for implementing agentic coding paradigms.
-*   Designed to facilitate development of AI agent systems within the PocketFlow methodology.
-*   Offers a structured boilerplate for autonomous system development in Python.
+*   Python project template for agentic coding paradigms.
+*   Designed for integration within the Pocket Flow framework.
+*   Provides a foundational structure for developing agent-driven applications.
 
 ## Why It Matters
 

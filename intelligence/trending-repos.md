@@ -5,6 +5,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | `ai-coding-agents/` | 70 |
 | [sanjeed5 (Sanjeed) · GitHub](https://github.com/sanjeed5) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [CS-433/ml-project-2-nlp_of_autogentext](https://github.com/CS-433/ml-project-2-nlp_of_autogentext) | `ai-coding-agents/` | 70 |
 | [AhsanAyaz/ai-agents-google-adk](https://github.com/AhsanAyaz/ai-agents-google-adk) | `ai-coding-agents/` | 70 |
 | [Nicolepcx/ai-agents-the-definitive-guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide) | `ai-coding-agents/` | 70 |
-| [bhancockio/crewai-updated-tutorial-hierarchical](https://github.com/bhancockio/crewai-updated-tutorial-hierarchical) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

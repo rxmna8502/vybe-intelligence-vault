@@ -36877,6 +36877,7 @@ Resources organized by publisher feed and query sources.
   - [networkx/networkx](../ai/resources/networkx-networkx.md)
   - [neuml/txtai](../ai/rag/neuml-txtai.md)
   - [nextjs/saas-starter](../web-development/shadcn-ui/nextjs-saas-starter.md)
+  - [nexu-io/open-design](../ai/rag/nexu-io-open-design.md)
   - [nicknochnack/Llama2RAG](../ai/rag/nicknochnack-llama2rag.md)
   - [nickscamara/open-deep-research](../ai/rag/nickscamara-open-deep-research.md)
   - [nixopus/nixopus](../ai/agents/nixopus-nixopus.md)
@@ -37156,12 +37157,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A practical guide to AI image generation, from diffusion to agents](../ai/community/a-practical-guide-to-ai-image-generation-from-diff.md)
-  - [Dessa: Conversation Model trained only on speech](../ai/community/dessa-conversation-model-trained-only-on-speech.md)
+  - [America has lost 200k of jobs in media, film and the arts. How much is AI?](../ai/community/america-has-lost-200k-of-jobs-in-media-film-and-th.md)
+  - [Cerebras Deploys Trillion-Parameter AI Models](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md)
+  - [In Rainbows](../ai/community/in-rainbows.md)
   - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
-  - [No signs of AI payoff outside the tech sector](../ai/community/no-signs-of-ai-payoff-outside-the-tech-sector.md)
-  - [Oai-math-revised: a community hub for revising OpenAI's math write-ups](../ai/community/oai-math-revised-a-community-hub-for-revising-open.md)
-  - [Why is AI generated language so hard to understand?](../ai/research/arxiv-2610-29162.md)
+  - [Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions](../ai/community/pragtical-v3-14-lua-based-text-editor-adds-menus-f.md)
+  - [Reactive Optimizers: rewrite the optimizer's source code during training](../ai/community/reactive-optimizers-rewrite-the-optimizer-s-source.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41059,4 +41060,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-25T04:22:49.422938+05:30*
+*Index generated on 2026-10-25T10:38:55.087154+05:30*

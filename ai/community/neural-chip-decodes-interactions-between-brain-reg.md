@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2
 hn_url: https://news.ycombinator.com/item?id=50222525
-score: 74
+score: 97
 author: giuliomagnifico
-comments_count: 25
+comments_count: 34
 published_at: '2026-10-24T21:27:17+05:30'
-collected_at: '2026-10-25T04:06:15.147618+05:30'
+collected_at: '2026-10-25T10:22:38.558823+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:neural-chip-decodes-interactions-between-brain-reg
 first_seen: '2026-10-25T00:23:36.451457+05:30'
-last_seen: '2026-10-25T04:06:15.147618+05:30'
-last_checked: '2026-10-25T04:06:15.147618+05:30'
+last_seen: '2026-10-25T10:22:38.558823+05:30'
+last_checked: '2026-10-25T10:22:38.558823+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by giuliomagnifico. Score: 74, Comments: 25.
+Hacker News story by giuliomagnifico. Score: 97, Comments: 34.
 Original Link: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: giuliomagnifico
-- Score: 74 Upvotes
-- Comments: 25 Discussions
+- Score: 97 Upvotes
+- Comments: 34 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50222525
 - Original Article: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2
 
