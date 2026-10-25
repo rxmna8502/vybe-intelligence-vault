@@ -37160,7 +37160,9 @@ Resources organized by publisher feed and query sources.
   - [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](../ai/community/a-10-year-old-cnn-outperforms-frontier-llms-for-sk.md)
   - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](../ai/community/ai-use-leads-uc-berkeley-math-professor-to-see-no.md)
   - [Cerebras Deploys Trillion-Parameter AI Models](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md)
-  - [Nikon photography contest winner loses title after scientists spot signs of AI](../ai/community/nikon-photography-contest-winner-loses-title-after.md)
+  - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](../ai/community/gheist-campaign-plants-secret-dumping-workflows-us.md)
+  - [JetBrains Thinkrail](../ai/community/jetbrains-thinkrail.md)
+  - [Making the Buddha Head from Merv Whole Again](../ai/community/making-the-buddha-head-from-merv-whole-again.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41058,4 +41060,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-26T00:58:06.703960+05:30*
+*Index generated on 2026-10-26T04:27:00.204207+05:30*

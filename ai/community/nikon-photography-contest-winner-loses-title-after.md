@@ -14,13 +14,14 @@ collected_at: '2026-10-26T00:41:27.246343+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:nikon-photography-contest-winner-loses-title-after
 first_seen: '2026-10-25T18:48:38.722068+05:30'
 last_seen: '2026-10-26T00:41:27.246343+05:30'
 last_checked: '2026-10-26T00:41:27.246343+05:30'
 health_score: 100
 ---
+
 
 # Nikon photography contest winner loses title after scientists spot signs of AI
 

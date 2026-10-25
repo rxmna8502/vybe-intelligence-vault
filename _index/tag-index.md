@@ -9327,7 +9327,9 @@ Resources organized by keyword tags.
 
   - [AI use leads UC Berkeley math professor to see 'no point' in grading homework](../ai/community/ai-use-leads-uc-berkeley-math-professor-to-see-no.md)
   - [Cerebras Deploys Trillion-Parameter AI Models](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md)
-  - [Nikon photography contest winner loses title after scientists spot signs of AI](../ai/community/nikon-photography-contest-winner-loses-title-after.md)
+  - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](../ai/community/gheist-campaign-plants-secret-dumping-workflows-us.md)
+  - [JetBrains Thinkrail](../ai/community/jetbrains-thinkrail.md)
+  - [Making the Buddha Head from Merv Whole Again](../ai/community/making-the-buddha-head-from-merv-whole-again.md)
 
 ## animation
 
@@ -38700,6 +38702,7 @@ Resources organized by keyword tags.
   - [Get our developer newsletter · GitHub](../ai/rag/get-our-developer-newsletter-github.md)
   - [Getting Started with Roboflow](../ai/rag/getting-started-with-roboflow.md)
   - [Getting started | CHI@Edge](../ai/resources/getting-started-chi-edge.md)
+  - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](../ai/community/gheist-campaign-plants-secret-dumping-workflows-us.md)
   - [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](../ai/research/ghost-in-the-minecraft-generally-capable-agents-fo.md)
   - [Ghost: The best open source blog & newsletter platform](../ai/rag/ghost-the-best-open-source-blog-newsletter-platfor.md)
   - [Git : Code : snapd](../ai/agents/git-code-snapd.md)
@@ -39106,6 +39109,7 @@ Resources organized by keyword tags.
   - [Jarvis: A Proactive Speech Agent for Multi-Party Conversations](../ai/agents/arxiv-2610-07506.md)
   - [JavaScript Tutorial - GeeksforGeeks](../ai/rag/javascript-tutorial-geeksforgeeks.md)
   - [JavaScript data types and data structures - JavaScript | MDN](../ai/rag/javascript-data-types-and-data-structures-javascri.md)
+  - [JetBrains Thinkrail](../ai/community/jetbrains-thinkrail.md)
   - [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md)
   - [Jira | Atlassian Community](../ai/rag/jira-atlassian-community.md)
   - [Job Application for Synack Red Team - Pentester at Synack SRT](../ai/resources/job-application-for-synack-red-team-pentester-at-s.md)
@@ -39426,6 +39430,7 @@ Resources organized by keyword tags.
   - [Main Page - Meta-Wiki](../ai/resources/main-page-meta-wiki.md)
   - [Making Mathematical Knowledge Explainable, Accessible and Interoperable Through Large Language Model Integration](../ai/rag/arxiv-2607-24512.md)
   - [Making sure you're not a bot!](../ai/resources/making-sure-you-re-not-a-bot.md)
+  - [Making the Buddha Head from Merv Whole Again](../ai/community/making-the-buddha-head-from-merv-whole-again.md)
   - [Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light](../ai/rag/arxiv-2605-22455.md)
   - [MameLoshnLM: Yiddish Language Model and Evaluation Benchmark](../ai/research/arxiv-2608-05850.md)
   - [Man, Machine, and Masterpiece: Artistic Ownership in the AI Era](../ai/research/arxiv-2607-15027.md)
@@ -39654,7 +39659,6 @@ Resources organized by keyword tags.
   - [News | Android Developers](../ai/resources/news-android-developers.md)
   - [Newton-Schulz Retraction-Based Inference Enables Hidden Quantum Markov Models to Outperform Classical HMMs](../ai/rag/arxiv-2608-06554.md)
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
-  - [Nikon photography contest winner loses title after scientists spot signs of AI](../ai/community/nikon-photography-contest-winner-loses-title-after.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
@@ -79008,6 +79012,7 @@ Resources organized by keyword tags.
   - [Getting Started with Roboflow](../ai/rag/getting-started-with-roboflow.md)
   - [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md)
   - [Getting started | Gemini API | Google AI for Developers](../ai/rag/getting-started-gemini-api-google-ai-for-developer.md)
+  - [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](../ai/community/gheist-campaign-plants-secret-dumping-workflows-us.md)
   - [Ghost: The best open source blog & newsletter platform](../ai/rag/ghost-the-best-open-source-blog-newsletter-platfor.md)
   - [Git - git-clone Documentation](../ai/rag/git-git-clone-documentation.md)
   - [Git Workflow | Atlassian Git Tutorial](../ai/rag/git-workflow-atlassian-git-tutorial.md)
@@ -84100,4 +84105,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-26T00:58:06.238369+05:30*
+*Index generated on 2026-10-26T04:26:59.853376+05:30*
