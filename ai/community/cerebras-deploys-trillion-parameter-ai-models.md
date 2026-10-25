@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
 hn_url: https://news.ycombinator.com/item?id=50227356
-score: 50
+score: 222
 author: gmays
-comments_count: 17
+comments_count: 69
 published_at: '2026-10-25T07:03:49+05:30'
-collected_at: '2026-10-25T10:22:35.646887+05:30'
+collected_at: '2026-10-25T18:48:38.113929+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:cerebras-deploys-trillion-parameter-ai-models
 first_seen: '2026-10-25T10:22:35.646887+05:30'
-last_seen: '2026-10-25T10:22:35.646887+05:30'
-last_checked: '2026-10-25T10:22:35.646887+05:30'
+last_seen: '2026-10-25T18:48:38.113929+05:30'
+last_checked: '2026-10-25T18:48:38.113929+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by gmays. Score: 50, Comments: 17.
+Hacker News story by gmays. Score: 222, Comments: 69.
 Original Link: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: gmays
-- Score: 50 Upvotes
-- Comments: 17 Discussions
+- Score: 222 Upvotes
+- Comments: 69 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50227356
 - Original Article: https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
 

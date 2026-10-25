@@ -24,9 +24,9 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse)
 - [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
+- [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-10-25 10:40 IST*
+*Last updated: 2026-10-25 19:07 IST*

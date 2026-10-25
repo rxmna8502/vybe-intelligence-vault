@@ -37159,10 +37159,9 @@ Resources organized by publisher feed and query sources.
 
   - [America has lost 200k of jobs in media, film and the arts. How much is AI?](../ai/community/america-has-lost-200k-of-jobs-in-media-film-and-th.md)
   - [Cerebras Deploys Trillion-Parameter AI Models](../ai/community/cerebras-deploys-trillion-parameter-ai-models.md)
-  - [In Rainbows](../ai/community/in-rainbows.md)
   - [Neural chip decodes interactions between brain regions](../ai/community/neural-chip-decodes-interactions-between-brain-reg.md)
-  - [Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions](../ai/community/pragtical-v3-14-lua-based-text-editor-adds-menus-f.md)
-  - [Reactive Optimizers: rewrite the optimizer's source code during training](../ai/community/reactive-optimizers-rewrite-the-optimizer-s-source.md)
+  - [Nikon photography contest winner loses title after scientists spot signs of AI](../ai/community/nikon-photography-contest-winner-loses-title-after.md)
+  - [Rewriting a Commercial Engine in Jai](../ai/community/rewriting-a-commercial-engine-in-jai.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41060,4 +41059,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-25T10:38:55.087154+05:30*
+*Index generated on 2026-10-25T19:05:14.963652+05:30*

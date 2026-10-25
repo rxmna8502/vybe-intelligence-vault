@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-10-22T19:27:10.249314+05:30'
-published_at: '2026-10-22T09:18:40Z'
+collected_at: '2026-10-25T18:49:38.687859+05:30'
+published_at: '2026-10-23T11:53:32Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-stars: 106
+stars: 108
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-10-22T19:27:10.249314+05:30'
-last_seen: '2026-10-22T19:27:10.249314+05:30'
-last_checked: '2026-10-22T19:27:10.249314+05:30'
+first_seen: '2026-10-25T18:49:38.687859+05:30'
+last_seen: '2026-10-25T18:49:38.687859+05:30'
+last_checked: '2026-10-25T18:49:38.687859+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG tutorial covering foundational concepts through to production deployment strategies.
-*   Practical implementation guidance utilizing LangChain, LLMs, and vector databases, demonstrated across 17 Jupyter Notebooks.
-*   Structured into 4 modules and 20 chapters, featuring 6 enterprise-grade RAG application case studies.
+*   Provides a comprehensive RAG lifecycle curriculum, spanning foundational concepts to production-level deployment.
+*   Utilizes LangChain, LLMs, and vector databases, demonstrated across 17 Jupyter Notebooks.
+*   Features 6 enterprise-grade RAG implementation case studies for practical application.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vivy-yi
-- Stars: 106
+- Stars: 108
 - Forks: 22
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
-- Last Updated: 2026-10-22T09:18:40Z
+- Last Updated: 2026-10-23T11:53:32Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T16:43:21Z

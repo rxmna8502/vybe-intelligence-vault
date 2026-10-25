@@ -13,13 +13,14 @@ collected_at: '2026-10-25T10:22:37.567471+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:in-rainbows
 first_seen: '2026-10-25T10:22:37.567471+05:30'
 last_seen: '2026-10-25T10:22:37.567471+05:30'
 last_checked: '2026-10-25T10:22:37.567471+05:30'
 health_score: 100
 ---
+
 
 # In Rainbows
 

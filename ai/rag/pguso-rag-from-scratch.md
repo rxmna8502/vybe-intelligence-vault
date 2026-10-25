@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-10-24T18:20:24.429760+05:30'
-published_at: '2026-10-23T19:03:03Z'
+collected_at: '2026-10-25T18:49:38.679464+05:30'
+published_at: '2026-10-25T05:42:18Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1647
+stars: 1646
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-10-24T18:20:24.429760+05:30'
-last_seen: '2026-10-24T18:20:24.429760+05:30'
-last_checked: '2026-10-24T18:20:24.429760+05:30'
+first_seen: '2026-10-25T18:49:38.679464+05:30'
+last_seen: '2026-10-25T18:49:38.679464+05:30'
+last_checked: '2026-10-25T18:49:38.679464+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a from-scratch RAG pipeline implementation focused on demystifying core components for
+*   Provides a from-scratch implementation of a RAG pipeline, demystifying core components like embeddings, vector search, retrieval, and context-augmented generation.
+*   Emphasizes local LLM execution using `node-llama-cpp` within a `nodejs` environment, avoiding reliance on external black-box APIs.
+*   Serves as an educational resource for understanding RAG architecture and its underlying mechanisms without abstraction layers.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1647
-- Forks: 198
+- Stars: 1646
+- Forks: 197
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-10-23T19:03:03Z
+- Last Updated: 2026-10-25T05:42:18Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

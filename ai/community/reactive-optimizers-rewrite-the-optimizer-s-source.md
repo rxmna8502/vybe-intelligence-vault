@@ -14,13 +14,14 @@ tags:
 - ai
 - frontend_ui
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:reactive-optimizers-rewrite-the-optimizer-s-source
 first_seen: '2026-10-25T10:22:39.284088+05:30'
 last_seen: '2026-10-25T10:22:39.284088+05:30'
 last_checked: '2026-10-25T10:22:39.284088+05:30'
 health_score: 100
 ---
+
 
 # Reactive Optimizers: rewrite the optimizer's source code during training
 
