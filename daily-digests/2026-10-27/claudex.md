@@ -1,46 +1,52 @@
 ---
-title: "Mcalesteryahoo411/Claudex"
+title: "Tanq16/claudex"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["PowerShell", "Windows API", "OpenAI API", "Claude Code"]
-quality_score: 6
-rag_relevance: 5
+tech_stack: ["Go", "CLI", "OAuth", "PKCE", "Node.js", "Shell scripting"]
+quality_score: 9
+rag_relevance: 6
 deployment_complexity: "Low"
-tags: ["Windows integration", "Codex access", "Claude Code bridge", "developer tools", "API key management"]
-source: "https://github.com/Mcalesteryahoo411/Claudex"
-stars: 0
-language: "PowerShell"
-last_updated: "2026-07-19T07:14:51Z"
-discovered_at: "2026-07-19T07:29:50Z"
+tags: ["multi-account management", "Claude Code", "CLI tool", "session switching", "usage tracking"]
+source: "https://github.com/Tanq16/claudex"
+stars: 3
+language: "Go"
+last_updated: "2026-07-15T05:21:12Z"
+discovered_at: "2026-07-15T05:29:48Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Claudex is a Windows-based bridge application that integrates Codex models with the Claude Code interface, enabling developers to access powerful language models directly within their workflow without complex installations.
+Claudex is a CLI companion for managing multiple Claude Code accounts, enabling unified setup, status monitoring, session launching, and skill management across accounts with shared global configurations.
 
 ## Key Features
-- Seamless integration of Codex models with Claude Code interface
-- Portable Windows application requiring no complex installation
-- Local API key management for security and privacy
-- Real-time session connectivity with visual indicators
-- Automatic update notifications for software maintenance
+- Unified setup and configuration for multiple Claude Code accounts via `configure` command
+- Real-time usage tracking and status monitoring across all accounts with reset countdowns
+- Guided session launching with account selection, MCP mode, and flavor-based system prompts
+- Interactive session switching between accounts to resume conversations in the right context
+- Global plugin system for shared skills and output styles applied across all accounts
 
 ## Why It Matters for RAG Builders
-Claudex simplifies access to Codex models for Windows users, reducing friction in integrating advanced AI capabilities into daily development workflows.
+Claudex simplifies multi-account Claude Code management, reducing friction for developers juggling multiple subscriptions and enabling seamless session continuity across accounts.
 
 ## Tech Stack Deep Dive
-### PowerShell
-Automated review identified **PowerShell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Windows API
-Automated review identified **Windows API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PKCE
+Automated review identified **PKCE** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Shell scripting
+Automated review identified **Shell scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

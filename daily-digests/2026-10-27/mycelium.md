@@ -1,58 +1,52 @@
 ---
-title: "yoda-digital/mycelium"
+title: "haabe/mycelium"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Bun runtime", "libsodium (XSalsa20-Poly1305, Ed25519)", "WebSocket", "Model Context Protocol (MCP)", "Zod", "Ed25519", "Curve25519"]
+category: "Orchestrator"
+tech_stack: ["Python", "Claude Code", "YAML", "Markdown", "Mermaid.js", "Git"]
 quality_score: 9
-rag_relevance: 7
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["end-to-end encryption", "zero-trust messaging", "perfect forward secrecy", "Claude Code integration", "secure relay"]
-source: "https://github.com/yoda-digital/mycelium"
-stars: 0
-language: "TypeScript"
-last_updated: "2026-07-18T09:19:34Z"
-discovered_at: "2026-07-18T09:24:01Z"
+tags: ["AI agent governance", "discovery framework", "evidence-based development", "risk mitigation", "project scaffolding"]
+source: "https://github.com/haabe/mycelium"
+stars: 39
+language: "Python"
+last_updated: "2026-07-19T15:50:09Z"
+discovered_at: "2026-07-19T15:56:43Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Mycelium is a zero-trust, end-to-end encrypted messaging layer designed for secure communication between Claude Code instances. It ensures messages remain unreadable even if the relay is compromised, using ephemeral keys, Ed25519 signatures, and Curve25519 for perfect forward secrecy.
+Mycelium is a Claude Code harness that enforces disciplined discovery and evidence-based decision-making for AI agents before they begin coding. It guides users through structured questioning to validate assumptions, assess risks, and define the smallest viable tests for ideas, ensuring alignment with stakeholder needs and reducing the risk of building unnecessary or misaligned products.
 
 ## Key Features
-- Zero-trust architecture with no plaintext exposure even if relay is compromised
-- Perfect forward secrecy via ephemeral Curve25519 keys per session
-- TOFU (Trust-on-First-Use) identity pinning with out-of-band verification
-- End-to-end delivery acknowledgements for unicast messages with 30s timeout
-- Multi-relay failover support for high availability
+- Structured discovery process with four core questions (problem, stakeholders, riskiest assumption, smallest test)
+- Evidence-based decision-making enforced via YAML-based project briefs and validation checks
+- Scalable framework with 'Scales' (Purpose to Market) and 'Diamonds' (Discover, Define, Develop, Deliver) loops
+- Brownfield-safe plugin installation with namespaced commands (e.g., `/mycelium:start`)
+- Self-auditing and continuous improvement through receipts and case studies
 
 ## Why It Matters for RAG Builders
-Mycelium provides a secure, zero-trust messaging layer critical for protecting sensitive AI workflows and Claude Code integrations from relay-based attacks.
+Mycelium ensures AI agents build the right thing by enforcing disciplined discovery and evidence checks before coding begins, reducing wasted effort and misaligned outputs in RAG and AI engineering workflows.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bun runtime
-Automated review identified **Bun runtime** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude Code
+Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### libsodium (XSalsa20-Poly1305, Ed25519)
-Automated review identified **libsodium (XSalsa20-Poly1305, Ed25519)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Mermaid.js
+Automated review identified **Mermaid.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Zod
-Automated review identified **Zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Ed25519
-Automated review identified **Ed25519** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Curve25519
-Automated review identified **Curve25519** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

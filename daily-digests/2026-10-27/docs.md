@@ -1,40 +1,46 @@
 ---
-title: "superdocsapp/docs"
+title: "weaviate/docs"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["REST API", "MCP (Model Context Protocol)", "MDX", "Python", "JavaScript"]
-quality_score: 8
-rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["AI document editing", "document automation", "API integration", "MCP support", "real-time editing"]
-source: "https://github.com/superdocsapp/docs"
-stars: 1
-language: "MDX"
-last_updated: "2026-07-12T10:12:59Z"
-discovered_at: "2026-07-12T10:26:40Z"
+tech_stack: ["Docusaurus 3", "React", "Node.js", "Yarn", "MDX", "Python", "Docker", "Netlify"]
+quality_score: 9
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["documentation", "vector-database", "weaviate", "static-site-generator", "developer-tools"]
+source: "https://github.com/weaviate/docs"
+stars: 20
+language: "Python"
+last_updated: "2026-08-07T11:22:54Z"
+discovered_at: "2026-08-07T11:57:19Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-SuperDocs provides an AI-powered document editing platform that allows users to edit documents directly via plain English instructions, with changes reflected in real time. It offers both a web editor for individuals and REST API/MCP integrations for developers to embed AI document editing into their products.
+This repository hosts the official documentation for Weaviate, including its vector database, cloud services, and query agent. It is built using Docusaurus 3, a modern static site generator for documentation, and provides comprehensive guides, API references, and deployment instructions.
 
 ## Key Features
-- Direct AI document editing with real-time changes
-- REST API and MCP integration for developers
-- Support for multiple document types (contracts, reports, proposals, etc.)
-- Comprehensive documentation and code examples
-- Production-ready API with health monitoring
+- Comprehensive documentation for Weaviate vector database, cloud services, and query agent
+- Built with Docusaurus 3 for a modern, interactive documentation experience
+- Supports reusable code snippets with validation to ensure accuracy
+- Multi-level navigation system with dynamic version management
+- Automated link validation and testing for code examples
 
 ## Why It Matters for RAG Builders
-SuperDocs enables seamless integration of AI-powered document editing into applications, reducing manual effort and improving workflow automation for users.
+This repository is essential for RAG builders as it provides the authoritative documentation for Weaviate, a leading vector database, enabling developers to integrate and optimize their RAG pipelines effectively.
 
 ## Tech Stack Deep Dive
-### REST API
-Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docusaurus 3
+Automated review identified **Docusaurus 3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Yarn
+Automated review identified **Yarn** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MDX
 Automated review identified **MDX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -42,8 +48,11 @@ Automated review identified **MDX** as a key module contributing to infrastructu
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Netlify
+Automated review identified **Netlify** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

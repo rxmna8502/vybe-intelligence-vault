@@ -1,40 +1,46 @@
 ---
-title: "Scentless-trick128/openpapers-mcp"
+title: "Kaago/openpapers-mcp"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "OpenAlex API", "CrossRef API", "Unpaywall API"]
-quality_score: 7
-rag_relevance: 8
+category: "Agent Framework"
+tech_stack: ["Python", "FastMCP", "httpx", "Pydantic", "OpenAlex API", "CrossRef API", "Unpaywall API", "uv (package manager)", "ruff (linting)", "mypy (type checking)"]
+quality_score: 9
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["scientific-papers", "open-access", "MCP-server", "Claude-Desktop", "academic-research"]
-source: "https://github.com/Scentless-trick128/openpapers-mcp"
+tags: ["MCP server", "scientific literature", "Open Access PDFs", "local-first", "privacy-focused"]
+source: "https://github.com/Kaago/openpapers-mcp"
 stars: 0
 language: "Python"
-last_updated: "2026-08-07T00:00:33Z"
-discovered_at: "2026-08-07T00:01:56Z"
+last_updated: "2026-07-19T13:16:47Z"
+discovered_at: "2026-07-19T13:17:32Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-openpapers-mcp is a local Model Context Protocol (MCP) server that enables researchers to search, retrieve metadata, and download open-access scientific papers from databases like OpenAlex, CrossRef, and Unpaywall directly within the Claude Desktop application.
+A local Model Context Protocol (MCP) server for scientific paper research that integrates OpenAlex, CrossRef, and Unpaywall APIs to provide search, metadata, abstracts, and legal Open Access PDF downloads entirely on your machine. Designed for privacy-conscious users and MCP clients like Claude Desktop or Cursor.
 
 ## Key Features
-- Searches multiple academic databases (OpenAlex, CrossRef, Unpaywall) for papers
-- Downloads legal open-access PDFs directly to the user's computer
-- Integrates seamlessly with Claude Desktop via MCP for in-chat paper discovery
-- Provides abstracts and metadata for papers before downloading
-- Ensures data privacy by operating locally on the user's machine
+- Integrates three open scholarly APIs (OpenAlex, CrossRef, Unpaywall) into five LLM-callable tools for paper research
+- Provides legal Open Access PDF downloads with SSRF-safe, magic-byte-verified, and atomic file handling
+- Reconstructs abstracts from OpenAlex's inverted index for lossless retrieval
+- Supports privacy mode via `POLITE_POOL=0` to withhold contact email from API requests
+- Offers offline testing with 69 mocked tests and optional live API smoke tests
 
 ## Why It Matters for RAG Builders
-It streamlines access to open-access scientific literature for RAG pipelines by providing a local, privacy-preserving way to fetch and integrate paper data directly into AI workflows.
+This MCP server simplifies RAG pipelines by providing a local, privacy-conscious interface to fetch and process scientific papers with legal Open Access PDFs, reducing dependency on paywalled or unethical sources.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastMCP
+Automated review identified **FastMCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### httpx
+Automated review identified **httpx** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Pydantic
+Automated review identified **Pydantic** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### OpenAlex API
 Automated review identified **OpenAlex API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -44,6 +50,15 @@ Automated review identified **CrossRef API** as a key module contributing to inf
 
 ### Unpaywall API
 Automated review identified **Unpaywall API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### uv (package manager)
+Automated review identified **uv (package manager)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### ruff (linting)
+Automated review identified **ruff (linting)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### mypy (type checking)
+Automated review identified **mypy (type checking)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

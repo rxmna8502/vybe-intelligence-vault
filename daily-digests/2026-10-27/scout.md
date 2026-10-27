@@ -1,67 +1,46 @@
 ---
-title: "watchcat/scout"
+title: "indigokarasu/scout"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Rust", "teloxide", "rig", "DuckDB", "MiniMax API", "Kagi API", "Perplexity API", "eBay Browse API", "bol.com Catalog API", "Headless Chrome", "Telegram Bot API"]
-quality_score: 9
+tech_stack: ["Python", "OSINT tools (theHarvester, Maigret, Holehe, h8mail, PhoneInfoga, Sherlock)", "MCP (Model Context Protocol)", "OCAS (Open Context Architecture System)"]
+quality_score: 8
 rag_relevance: 7
 deployment_complexity: "Medium"
-tags: ["price verification", "link validation", "shopping assistant", "deterministic AI", "telegram bot"]
-source: "https://github.com/watchcat/scout"
-stars: 0
-language: "Rust"
-last_updated: "2026-08-03T10:37:58Z"
-discovered_at: "2026-08-03T10:43:56Z"
+tags: ["OSINT", "provenance tracking", "structured research", "entity verification", "source waterfall"]
+source: "https://github.com/indigokarasu/scout"
+stars: 1
+language: "Python"
+last_updated: "2026-07-21T04:04:43Z"
+discovered_at: "2026-07-21T04:14:49Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Scout is a Telegram-based shopping researcher bot that verifies product prices, links, and stock availability to prevent hallucinations common in LLM outputs. It combines Rust-based deterministic tools with an LLM agent to deliver accurate, real-time product comparisons and purchase tracking.
+Scout is a structured OSINT research tool designed for lawful investigation of people, companies, and organizations, emphasizing full provenance tracking for every claim. It enforces tiered source collection with permission gates and integrates with Chronicle for entity management.
 
 ## Key Features
-- Verifies product links and prices before sending to avoid hallucinations
-- Combines Rust-based deterministic tools with an LLM agent for accurate comparisons
-- Supports real-time API integrations (eBay, bol.com, Marktplaats) for live data
-- Tracks purchase history and provides reorder reminders
-- Streams live progress and results in a single Telegram message
+- Tiered source waterfall with explicit permission gates for escalation to paid databases
+- Full provenance tracking: URL, retrieval timestamp, and direct quote for every claim
+- Integration with curated OSINT tools and dynamic discovery of MCP-wrapped OSINT servers
+- Identity verification gate requiring 2+ overlapping data points for profile confirmation
+- Emits confirmed entities to Chronicle for downstream processing
 
 ## Why It Matters for RAG Builders
-Scout demonstrates how to integrate deterministic tools with LLMs to prevent hallucinations in real-world applications, making it a critical reference for RAG builders focused on accuracy and reliability.
+Scout ensures lawful and traceable OSINT research, critical for building reliable RAG pipelines that require verified and sourced data.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### teloxide
-Automated review identified **teloxide** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OSINT tools (theHarvester, Maigret, Holehe, h8mail, PhoneInfoga, Sherlock)
+Automated review identified **OSINT tools (theHarvester, Maigret, Holehe, h8mail, PhoneInfoga, Sherlock)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### rig
-Automated review identified **rig** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### DuckDB
-Automated review identified **DuckDB** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MiniMax API
-Automated review identified **MiniMax API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Kagi API
-Automated review identified **Kagi API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Perplexity API
-Automated review identified **Perplexity API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### eBay Browse API
-Automated review identified **eBay Browse API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### bol.com Catalog API
-Automated review identified **bol.com Catalog API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Headless Chrome
-Automated review identified **Headless Chrome** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Telegram Bot API
-Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OCAS (Open Context Architecture System)
+Automated review identified **OCAS (Open Context Architecture System)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

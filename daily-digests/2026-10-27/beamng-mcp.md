@@ -1,33 +1,33 @@
 ---
-title: "eric-rolph/beamng-mcp"
+title: "IaroslavSheipak/beamng-mcp"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "BeamNGpy", "GELua", "WebSocket", "OpenCV", "Hugging Face SegFormer", "ONNX Runtime", "PyTorch", "CUDA", "Blender", "MessagePack", "Shared Memory"]
-quality_score: 8
+tech_stack: ["Python", "Model Context Protocol (MCP)", "BeamNG.drive (Steam)", "UDP/TCP networking", "Telemetry analysis", "Lua scripting"]
+quality_score: 9
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["autonomous driving", "simulation control", "MCP server", "BeamNG integration", "real-time perception"]
-source: "https://github.com/eric-rolph/beamng-mcp"
+deployment_complexity: "Medium"
+tags: ["race engineering", "telemetry analysis", "automated tuning", "MCP server", "BeamNG.drive"]
+source: "https://github.com/IaroslavSheipak/beamng-mcp"
 stars: 0
 language: "Python"
-last_updated: "2026-08-01T22:47:29Z"
-discovered_at: "2026-08-01T22:55:03Z"
+last_updated: "2026-07-12T14:51:10Z"
+discovered_at: "2026-07-12T14:54:51Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A local, safety-gated Model Context Protocol (MCP) server for controlling, inspecting, and testing BeamNG driving simulations. It integrates the BeamNGpy Python API with a GELua WebSocket extension for real-time perception and vehicle control, enabling AI-driven autonomous driving in a controlled simulation environment.
+beamng-mcp is an MCP server that transforms AI clients like Claude into a real-time race engineer for the BeamNG.drive racing simulator. It enables lap timing, telemetry analysis, driver coaching, and automated setup tuning without requiring a BeamNG.tech license.
 
 ## Key Features
-- 57 typed MCP tools for simulator, scenario, traffic, environment, vehicle, sensor, and autonomous-driving domains
-- Safety-gated real-time control with engine safety lease and emergency stop mechanisms
-- GPU-accelerated vision perception (OpenCV, SegFormer, ONNX Runtime) for autonomous driving
-- Confined mod workspace with atomic writes, validation, and SHA-256 optimistic concurrency
-- Peer-MCP Blender workflow for soft-body authoring with deterministic JBeam assembly
+- Real-time lap timing and analysis with validity gating to exclude invalid laps
+- AI-driven setup tuning based on natural language feedback and telemetry data
+- Overnight optimizer for empirical setup sweeps using the game's AI driver
+- In-game pit board integration for live feedback without alt-tabbing
+- Comprehensive telemetry visualization including delta-T vs distance and racing line overlays
 
 ## Why It Matters for RAG Builders
-It provides a critical bridge between AI systems and high-fidelity driving simulations, enabling safe, real-time autonomous driving research and testing with robust safety controls and GPU-accelerated perception.
+It provides a hands-free, AI-powered race engineering experience for BeamNG.drive, enabling automated tuning and coaching that would otherwise require manual effort or expensive licenses.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -36,38 +36,17 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### BeamNGpy
-Automated review identified **BeamNGpy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### BeamNG.drive (Steam)
+Automated review identified **BeamNG.drive (Steam)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GELua
-Automated review identified **GELua** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### UDP/TCP networking
+Automated review identified **UDP/TCP networking** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Telemetry analysis
+Automated review identified **Telemetry analysis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenCV
-Automated review identified **OpenCV** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Hugging Face SegFormer
-Automated review identified **Hugging Face SegFormer** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### ONNX Runtime
-Automated review identified **ONNX Runtime** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PyTorch
-Automated review identified **PyTorch** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### CUDA
-Automated review identified **CUDA** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Blender
-Automated review identified **Blender** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MessagePack
-Automated review identified **MessagePack** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Shared Memory
-Automated review identified **Shared Memory** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Lua scripting
+Automated review identified **Lua scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

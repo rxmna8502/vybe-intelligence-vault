@@ -1,33 +1,33 @@
 ---
-title: "rodrigopg/whatsapp-mcp"
+title: "verygoodplugins/whatsapp-mcp"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Python", "SQLite", "WhatsApp Web API (whatsmeow)", "Model Context Protocol (MCP)", "FFmpeg (optional)", "Whisper.cpp (optional)", "OpenAI Whisper API (optional)"]
+category: "Agent Framework"
+tech_stack: ["Go", "Python", "SQLite", "Model Context Protocol (MCP)", "WhatsApp API", "FFmpeg"]
 quality_score: 9
 rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["WhatsApp integration", "MCP server", "local data storage", "contact resolution", "group management"]
-source: "https://github.com/rodrigopg/whatsapp-mcp"
-stars: 2
+tags: ["WhatsApp integration", "MCP server", "AI agent tools", "message automation", "media handling"]
+source: "https://github.com/verygoodplugins/whatsapp-mcp"
+stars: 137
 language: "Go"
-last_updated: "2026-08-01T14:51:45Z"
-discovered_at: "2026-08-01T15:01:38Z"
+last_updated: "2026-08-05T16:40:07Z"
+discovered_at: "2026-08-05T16:45:17Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Model Context Protocol (MCP) server for WhatsApp that enables reading, searching, and sending messages via the WhatsApp web multidevice API. This community fork fixes critical upstream issues, adds group management, security hardening, and contact name resolution while storing all data locally in SQLite databases.
+A Model Context Protocol (MCP) server for WhatsApp that enables AI agents like Claude to read, send, and manage WhatsApp messages, media, and calls via a local bridge. It integrates WhatsApp's API with MCP-compatible clients for seamless communication.
 
 ## Key Features
-- Direct WhatsApp account integration via web multidevice API using whatsmeow library
-- Local SQLite storage for messages, contacts, and media with privacy-focused design
-- Security hardening including REST API binding to localhost and mandatory authentication tokens
-- Contact name resolution and LID migration fixes for accurate contact and message handling
-- Group management tools (create_group, leave_group) and audio transcription (local/API) for searchable voice messages
+- Read and send WhatsApp messages (text, images, videos, documents, audio) via MCP-compatible clients
+- Local SQLite storage for message history with optional cloud sync
+- Support for contact search, chat management, and call history capture
+- Webhook integration for forwarding messages to external services
+- Multi-transport support (stdio, HTTP, SSE) for MCP server communication
 
 ## Why It Matters for RAG Builders
-It provides a secure, local-first bridge to WhatsApp data for AI agents, enabling private, real-time access to messages and contacts while addressing critical upstream issues like contact resolution and security vulnerabilities.
+It enables AI agents to interact with WhatsApp programmatically, expanding automation capabilities for personal and business workflows.
 
 ## Tech Stack Deep Dive
 ### Go
@@ -39,20 +39,14 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WhatsApp Web API (whatsmeow)
-Automated review identified **WhatsApp Web API (whatsmeow)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FFmpeg (optional)
-Automated review identified **FFmpeg (optional)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WhatsApp API
+Automated review identified **WhatsApp API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Whisper.cpp (optional)
-Automated review identified **Whisper.cpp (optional)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI Whisper API (optional)
-Automated review identified **OpenAI Whisper API (optional)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FFmpeg
+Automated review identified **FFmpeg** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

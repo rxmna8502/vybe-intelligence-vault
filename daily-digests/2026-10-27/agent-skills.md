@@ -1,49 +1,46 @@
 ---
-title: "paradedb/agent-skills"
+title: "Jerrylu97/agent-skills"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["Shell", "PostgreSQL", "BM25", "Full-text search", "AI agent integration"]
-quality_score: 8
-rag_relevance: 7
+tech_stack: ["YAML", "Agent Frameworks (Codex, Claude Code)", "Markdown", "Python (implied for agent integration)"]
+quality_score: 7
+rag_relevance: 6
 deployment_complexity: "Low"
-tags: ["AI agent skills", "PostgreSQL search", "BM25", "documentation retrieval", "Elasticsearch alternative"]
-source: "https://github.com/paradedb/agent-skills"
-stars: 8
-language: "Shell"
-last_updated: "2026-07-20T02:29:05Z"
-discovered_at: "2026-07-20T02:45:03Z"
+tags: ["AI agent skills", "modular workflows", "logging utilities", "cross-language reasoning", "agent tooling"]
+source: "https://github.com/Jerrylu97/agent-skills"
+stars: 0
+language: "None"
+last_updated: "2026-08-01T06:15:55Z"
+discovered_at: "2026-08-01T06:29:09Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A specialized AI agent skill for ParadeDB that enables agents to fetch and utilize the latest ParadeDB documentation dynamically. It provides expertise on BM25 indexing, full-text search in PostgreSQL, and Elasticsearch alternatives.
+A curated collection of modular, reusable skills designed to enhance AI coding agents and assistant workflows, such as logging project inputs, conversations, and improving cross-language reasoning.
 
 ## Key Features
-- Dynamic documentation fetching for up-to-date ParadeDB knowledge
-- Lightweight script-based integration with AI agents
-- Supports BM25 indexing and full-text search in PostgreSQL
-- Provides curated prompt examples for agent interactions
-- Ensures agent access to latest docs without static bundling
+- Pre-built, standalone skills for AI agents with minimal dependencies
+- Supports logging project inputs and conversations to markdown files
+- Enhances reasoning for multi-language requests (Chinese, English, mixed)
+- Designed for easy integration with popular agent frameworks (Codex, Claude Code)
+- Each skill is independently installable and documented
 
 ## Why It Matters for RAG Builders
-It enables AI agents to dynamically access and leverage ParadeDB's latest documentation, enhancing their ability to provide accurate and current guidance on PostgreSQL-based search and retrieval.
+Provides reusable, lightweight skills that streamline AI agent workflows, reducing development time for logging and reasoning tasks.
 
 ## Tech Stack Deep Dive
-### Shell
-Automated review identified **Shell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Agent Frameworks (Codex, Claude Code)
+Automated review identified **Agent Frameworks (Codex, Claude Code)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### BM25
-Automated review identified **BM25** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Full-text search
-Automated review identified **Full-text search** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### AI agent integration
-Automated review identified **AI agent integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python (implied for agent integration)
+Automated review identified **Python (implied for agent integration)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

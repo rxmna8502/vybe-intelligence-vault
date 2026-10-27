@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:19:53.943859+05:30",
+  "generated_at": "2026-10-27T23:54:01.031660+05:30",
   "trending_resources": [
     {
       "id": "github:agent0ai/agent-zero",
@@ -134,19 +134,6 @@
   ],
   "fastest_rising_tools": [
     {
-      "id": "blog:medium-privacy-policy-by-medium-medium-policy",
-      "title": "Medium Privacy Policy | by Medium | Medium Policy",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
-      "file_path": "ai/rag/medium-privacy-policy-by-medium-medium-policy.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 9299,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
       "id": "github:microsoft/rag-time",
       "title": "microsoft/rag-time",
       "category": "ai/rag",
@@ -155,7 +142,7 @@
       "file_path": "ai/rag/microsoft-rag-time.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -168,7 +155,7 @@
       "file_path": "ai/research/arxiv-2608-02392.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -181,7 +168,7 @@
       "file_path": "ai/rag/arxiv-2608-02046.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -194,7 +181,7 @@
       "file_path": "ai/rag/arxiv-2608-01791.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -207,7 +194,7 @@
       "file_path": "ai/rag/arxiv-2608-01207.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -220,7 +207,7 @@
       "file_path": "ai/research/arxiv-2606-23462.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -233,7 +220,7 @@
       "file_path": "ai/research/arxiv-2606-22216.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -246,7 +233,7 @@
       "file_path": "ai/research/arxiv-2606-09123.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -259,19 +246,32 @@
       "file_path": "ai/agents/arxiv-2605-27882.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 1043,
+      "rank_change": 1042,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2605.12153",
+      "title": "CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2605.12153",
+      "file_path": "ai/research/arxiv-2605-12153.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1042,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-      "id": "blog:langchain-ai-langgraph",
-      "title": "langchain-ai/langgraph",
-      "category": "Agent Framework",
+      "id": "blog:category",
+      "title": "[CATEGORY] - ",
+      "category": "",
       "source_type": "",
       "url": "",
-      "file_path": "docs/sample-digest.md",
+      "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

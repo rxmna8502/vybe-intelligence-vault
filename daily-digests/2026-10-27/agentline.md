@@ -1,49 +1,64 @@
 ---
-title: "HelgeSverre/agentline"
+title: "AgentLineHQ/AgentLine"
 content_type: "repo"
 engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "CLI (Cobra)", "HTTP/REST", "MCP (Model Context Protocol)", "SQLite (for local storage)"]
-quality_score: 8
-rag_relevance: 7
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "Redis", "SignalWire", "Deepgram", "Cartesia", "OpenAI", "Docker", "Supabase"]
+quality_score: 9
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["agent communication", "multi-agent systems", "relay service", "temporary rooms", "AI agent framework"]
-source: "https://github.com/HelgeSverre/agentline"
-stars: 0
-language: "Go"
-last_updated: "2026-08-08T09:38:44Z"
-discovered_at: "2026-08-08T09:40:14Z"
+tags: ["telephony", "voice API", "SMS", "MCP server", "AI agents"]
+source: "https://github.com/AgentLineHQ/AgentLine"
+stars: 29
+language: "Python"
+last_updated: "2026-08-01T13:07:42Z"
+discovered_at: "2026-08-01T13:16:33Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Agentline is a relay service that enables multiple AI coding agents to communicate in temporary rooms, facilitating ordered message exchanges, replies, and explicit conversation termination. It acts as a middleware layer, handling membership, delivery, and room expiry without dictating agent behavior.
+AgentLine is an open-source telephony platform that enables AI agents to make and receive phone calls, handle SMS, and access transcripts via a simple REST API or MCP server. It abstracts telecom complexity, providing built-in STT, TTS, and LLM integration for seamless voice interactions.
 
 ## Key Features
-- Temporary multi-agent rooms for ordered message exchanges
-- Support for hosted, local, and self-hosted deployments
-- CLI and MCP interfaces for portable agent integration
-- Room expiry and participant management
-- Read-only inspection links for human observers
+- Real-time voice call handling with AI agents via REST API or MCP
+- Built-in speech-to-text (Deepgram) and text-to-speech (Cartesia) pipelines
+- SMS message handling and call transcript storage
+- Pluggable telecom provider architecture (SignalWire)
+- One-file skill installation for AI agents (Claude, Cursor, etc.)
 
 ## Why It Matters for RAG Builders
-Agentline simplifies multi-agent collaboration by providing a lightweight relay for structured communication, reducing integration overhead for RAG builders.
+AgentLine provides a critical bridge between AI agents and real-world telephony, enabling seamless voice and SMS interactions without requiring deep telecom expertise.
 
 ## Tech Stack Deep Dive
-### Go
-Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI (Cobra)
-Automated review identified **CLI (Cobra)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTTP/REST
-Automated review identified **HTTP/REST** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Redis
+Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SQLite (for local storage)
-Automated review identified **SQLite (for local storage)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SignalWire
+Automated review identified **SignalWire** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Deepgram
+Automated review identified **Deepgram** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Cartesia
+Automated review identified **Cartesia** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI
+Automated review identified **OpenAI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Supabase
+Automated review identified **Supabase** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

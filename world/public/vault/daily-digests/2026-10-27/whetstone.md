@@ -1,58 +1,70 @@
 ---
-title: "iliaal/whetstone"
+title: "CarlSR9001/whetstone"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["Claude Code", "TypeScript", "Python", "Bash", "MCP (Model Context Protocol)", "Shell scripting", "Symlinks", "Git"]
+category: "Orchestrator"
+tech_stack: ["Python", "QLoRA", "PyTorch", "Monte-Carlo Simulation", "Stockfish", "KataGo", "FastAPI", "MCP (Model Context Protocol)", "Ed25519 SSHSIG", "JSONL", "Git", "Ollama"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI workflow automation", "code discipline", "multi-agent orchestration", "verification gates", "engineering best practices"]
-source: "https://github.com/iliaal/whetstone"
-stars: 28
+rag_relevance: 10
+deployment_complexity: "High"
+tags: ["continual learning", "verifier-gated training", "data leakage prevention", "self-improving AI", "benchmark saturation"]
+source: "https://github.com/CarlSR9001/whetstone"
+stars: 0
 language: "Python"
-last_updated: "2026-08-04T19:26:02Z"
-discovered_at: "2026-08-04T19:33:17Z"
+last_updated: "2026-08-08T13:45:57Z"
+discovered_at: "2026-08-08T13:48:43Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Whetstone is a Claude Code plugin that enforces engineering discipline in AI coding agents by providing structured workflows, skills, and verification gates for PHP, Python, TypeScript, React, and infrastructure workflows. It ensures agents plan, verify, debug, and review systematically rather than producing polished but undisciplined output.
+Whetstone is a self-improving research harness for AI systems that enforces verifier-gated continual learning through exposure audits, paired PASS/HOLD/BLOCK receipts, and disposable public report cards. It combines QLoRA adapters, exact combinatorial verifiers, and Monte-Carlo oracles to train and grade models while preventing data leakage and benchmark saturation.
 
 ## Key Features
-- Enforces structured workflows with commands like /ia-brainstorm, /ia-plan, /ia-work, /ia-review, and /ia-compound to guide AI agents through disciplined development cycles.
-- Provides 32+ skills tailored to languages/frameworks (PHP, Python, TypeScript, React, Rust, C, C++, etc.) that activate automatically based on file types and task signals.
-- Integrates with 19+ AI coding agents (Claude Code, Cursor, Codex, etc.) via plugin or standalone skills, ensuring cross-platform compatibility.
-- Includes a skill distillery for generating new skills from community sources and a verification system to ensure tasks are completed thoroughly before marking them done.
-- Offers MCP server integration for code review and research, enhancing AI agents' ability to analyze and improve codebases systematically.
+- Verifier-gated student-examiner loop with exact combinatorial oracles (e.g., graph enumeration, Stockfish, KataGo)
+- Exposure audits and leakage detection via SHA-256 commitments and provenance tracking
+- PASS/HOLD/BLOCK promotion gates with McNemar p-value validation and exact ledgering
+- Disposable public report cards and Open Promotion Bench for transparent, challenge-bound evaluation
+- MCP-compliant HTTP endpoint and stateless toolbox for agent-native integration
 
 ## Why It Matters for RAG Builders
-It ensures AI agents follow disciplined engineering practices, reducing errors and improving code quality in AI-driven development workflows.
+Whetstone provides a rigorous framework to prevent data leakage and benchmark saturation in AI training loops, ensuring reliable self-improvement and verifiable performance gains for RAG and agent systems.
 
 ## Tech Stack Deep Dive
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bash
-Automated review identified **Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### QLoRA
+Automated review identified **QLoRA** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PyTorch
+Automated review identified **PyTorch** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Monte-Carlo Simulation
+Automated review identified **Monte-Carlo Simulation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Stockfish
+Automated review identified **Stockfish** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### KataGo
+Automated review identified **KataGo** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Shell scripting
-Automated review identified **Shell scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ed25519 SSHSIG
+Automated review identified **Ed25519 SSHSIG** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Symlinks
-Automated review identified **Symlinks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSONL
+Automated review identified **JSONL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -4,7 +4,7 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `Agent Framework/` | 1 |
+| `/` | 1 |
 | `ai/agents/` | 6336 |
 | `ai/community/` | 9 |
 | `ai/rag/` | 12247 |
