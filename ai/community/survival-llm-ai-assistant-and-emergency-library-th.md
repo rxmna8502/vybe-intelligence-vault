@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:survival-llm-ai-assistant-and-emergency-library-th
 first_seen: '2026-10-28T11:23:26.399802+05:30'
 last_seen: '2026-10-28T20:47:40.237972+05:30'
 last_checked: '2026-10-28T20:47:40.237972+05:30'
 health_score: 100
 ---
+
 
 # Survival LLM: AI assistant and emergency library that runs on your own computer
 

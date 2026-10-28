@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:two-high-speed-trains-collide-near-toledo-spain
 first_seen: '2026-10-28T20:47:41.447392+05:30'
 last_seen: '2026-10-28T20:47:41.447392+05:30'
 last_checked: '2026-10-28T20:47:41.447392+05:30'
 health_score: 100
 ---
+
 
 # Two high-speed trains collide near Toledo, Spain
 

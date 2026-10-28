@@ -1,19 +1,34 @@
 ---
-title: "fowoco/server"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Java", "Spring Boot", "PostgreSQL", "JPA", "Flyway", "JWT", "Swagger/OpenAPI", "H2 Database", "Gradle", "Transactional Outbox Pattern"]
+title: fowoco/server
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Java
+- Spring Boot
+- PostgreSQL
+- JPA
+- Flyway
+- JWT
+- Swagger/OpenAPI
+- H2 Database
+- Gradle
+- Transactional Outbox Pattern
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["HR Workflow", "AI Integration", "Data Isolation", "Audit Logging", "Modular Monolith"]
-source: "https://github.com/fowoco/server"
+deployment_complexity: Medium
+tags:
+- HR Workflow
+- AI Integration
+- Data Isolation
+- Audit Logging
+- Modular Monolith
+source: https://github.com/fowoco/server
 stars: 0
-language: "Java"
-last_updated: "2026-08-07T06:06:27Z"
-discovered_at: "2026-08-07T06:12:40Z"
-evaluated_by: "mistral-small-latest"
+language: Java
+last_updated: '2026-08-07T06:06:27Z'
+discovered_at: '2026-08-07T06:12:40Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

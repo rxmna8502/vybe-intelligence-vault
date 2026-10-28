@@ -1,19 +1,32 @@
 ---
-title: "qFermions/Aegis"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Claude Code", "Mermaid.js", "Jira REST API", "PowerShell", "Git", "Markdown"]
+title: qFermions/Aegis
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- JavaScript
+- Node.js
+- Claude Code
+- Mermaid.js
+- Jira REST API
+- PowerShell
+- Git
+- Markdown
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["IT operations automation", "AI orchestration", "deterministic replay", "safety-gated execution", "adaptive problem-solving"]
-source: "https://github.com/qFermions/Aegis"
+deployment_complexity: Medium
+tags:
+- IT operations automation
+- AI orchestration
+- deterministic replay
+- safety-gated execution
+- adaptive problem-solving
+source: https://github.com/qFermions/Aegis
 stars: 1
-language: "JavaScript"
-last_updated: "2026-08-07T23:30:24Z"
-discovered_at: "2026-08-07T23:36:25Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-07T23:30:24Z'
+discovered_at: '2026-08-07T23:36:25Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

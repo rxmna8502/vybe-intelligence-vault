@@ -1,19 +1,30 @@
 ---
-title: "kitepon/aiterm-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "tmux", "psmux", "TypeScript (implied by modern JS practices)"]
+title: kitepon/aiterm-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- JavaScript
+- Node.js
+- Model Context Protocol (MCP)
+- tmux
+- psmux
+- TypeScript (implied by modern JS practices)
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["agent orchestration", "MCP terminal", "multi-agent systems", "persistent sessions", "AI tool harness"]
-source: "https://github.com/kitepon/aiterm-mcp"
+deployment_complexity: Medium
+tags:
+- agent orchestration
+- MCP terminal
+- multi-agent systems
+- persistent sessions
+- AI tool harness
+source: https://github.com/kitepon/aiterm-mcp
 stars: 4
-language: "JavaScript"
-last_updated: "2026-09-01T08:37:56Z"
-discovered_at: "2026-09-01T09:07:26Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-09-01T08:37:56Z'
+discovered_at: '2026-09-01T09:07:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -1,19 +1,38 @@
 ---
-title: "demi-hl/oracle"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["JavaScript", "Node.js", "TypeScript", "EVM (Ethereum Virtual Machine)", "Solana", "Bitcoin", "Hyperliquid", "REST APIs", "JSON-RPC", "PSBT (Partially Signed Bitcoin Transactions)", "EIP-712", "DexScreener", "GeckoTerminal", "DeFiLlama"]
+title: demi-hl/oracle
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- JavaScript
+- Node.js
+- TypeScript
+- EVM (Ethereum Virtual Machine)
+- Solana
+- Bitcoin
+- Hyperliquid
+- REST APIs
+- JSON-RPC
+- PSBT (Partially Signed Bitcoin Transactions)
+- EIP-712
+- DexScreener
+- GeckoTerminal
+- DeFiLlama
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multichain", "agent-control", "self-custody", "policy-bounded", "transaction-preparation"]
-source: "https://github.com/demi-hl/oracle"
+deployment_complexity: Medium
+tags:
+- multichain
+- agent-control
+- self-custody
+- policy-bounded
+- transaction-preparation
+source: https://github.com/demi-hl/oracle
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T20:48:00Z"
-discovered_at: "2026-08-01T20:50:53Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T20:48:00Z'
+discovered_at: '2026-08-01T20:50:53Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

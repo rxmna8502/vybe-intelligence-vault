@@ -2420,6 +2420,7 @@ Resources organized by keyword tags.
   - [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md)
   - [Davinci-Tool: Scaling Agentic Tool-Use Supervision with Verifiable Executable Environments](../ai/rag/arxiv-2610-16867.md)
   - [Daydreaming: Stealing Hidden Agent Skills through Black-Box Task Interaction](../ai/agents/arxiv-2608-26733.md)
+  - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md)
   - [DeAR: Decentralized Agentic Reasoning via Capability Grounding and Collaborative Thought Navigation](../ai/agents/arxiv-2608-17282.md)
   - [DeFA: Dependency-Guided Failure Attribution for LLM Agents](../ai/agents/arxiv-2610-01256.md)
   - [DeFiFusion: Combining Transaction Events with Smart Contracts to Detect Price Manipulation Attacks](../ai/agents/arxiv-2609-11008.md)
@@ -4722,6 +4723,7 @@ Resources organized by keyword tags.
   - [LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension](../ai/rag/arxiv-2609-37426.md)
   - [LeCuration: A Tiny World Model as a Data Curation Multi-Tool](../ai/rag/arxiv-2610-09285.md)
   - [Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams](../ai/agents/arxiv-2606-19111.md)
+  - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md)
   - [Lean Finder V2: Semantic Search for Mathlib That Disambiguates User Queries](../ai/agents/arxiv-2610-30843.md)
   - [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../ai/rag/arxiv-2605-20244.md)
   - [Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory](../ai/agents/arxiv-2607-09632.md)
@@ -7377,6 +7379,7 @@ Resources organized by keyword tags.
   - [SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning](../ai/agents/arxiv-2608-14452.md)
   - [Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces](../ai/agents/arxiv-2605-10913.md)
   - [Shift & Drift: A Zero-Shot Benchmark for Generalizable and Robust Autonomous Driving Motion Planning](../ai/rag/arxiv-2607-07844.md)
+  - [Ship less JavaScript in Next.js with your AI agent](../ai/agents/ship-less-javascript-in-next-js-with-your-ai-agent.md)
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer](../ai/agents/arxiv-2609-28372.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
@@ -9537,11 +9540,10 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md)
+  - [Google AI gets cagey when asked who won the 2020 elections](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md)
   - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
-  - [Survival LLM: AI assistant and emergency library that runs on your own computer](../ai/community/survival-llm-ai-assistant-and-emergency-library-th.md)
   - [Tailscale SSH: Investigation and remediation update](../ai/community/tailscale-ssh-investigation-and-remediation-update.md)
-  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
-  - [Valve Responds to Developers Fearing AI Slop and Clones](../ai/community/valve-responds-to-developers-fearing-ai-slop-and-c.md)
 
 ## animation
 
@@ -9597,6 +9599,7 @@ Resources organized by keyword tags.
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
   - [AI World Cup 2026: Benchmarking Large Language Models for End-to-End Football Tournament Prediction](../ai/rag/arxiv-2608-03416.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
+  - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AIFS-TC: A simple correction competitive with the operational frontier for tropical cyclone intensity forecasting](../ai/agents/arxiv-2608-09959.md)
   - [AIP: A Graph Representation for Learning and Governing Agent Skills](../ai/rag/arxiv-2606-04781.md)
@@ -9653,7 +9656,6 @@ Resources organized by keyword tags.
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
-  - [Anthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/anthropic-opens-singapore-office-and-signs-mou-wit.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -10497,9 +10499,9 @@ Resources organized by keyword tags.
 
 ## anthropic-news
 
+  - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
   - [An update on independent evaluators](../ai/companies/anthropic/an-update-on-independent-evaluators.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
-  - [Anthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/anthropic-opens-singapore-office-and-signs-mou-wit.md)
   - [Donating Agent Skills to the Agentic AI Foundation](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md)
   - [Expanding our partnership with GSA to bring Claude to all levels of government](../ai/companies/anthropic/expanding-our-partnership-with-gsa-to-bring-claude.md)
   - [Open call for guest investigators in the life sciences](../ai/companies/anthropic/open-call-for-guest-investigators-in-the-life-scie.md)
@@ -27066,11 +27068,11 @@ Resources organized by keyword tags.
 ## blog-post
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
   - [An update on independent evaluators](../ai/companies/anthropic/an-update-on-independent-evaluators.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
-  - [Anthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/anthropic-opens-singapore-office-and-signs-mou-wit.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
@@ -32993,7 +32995,6 @@ Resources organized by keyword tags.
   - [Partial AUC Maximization from Positive-unlabeled Data](../ai/research/arxiv-2610-00284.md)
   - [Partial GFlowNet: Accelerating Convergence in Large State Spaces via Strategic Partitioning](../ai/research/arxiv-2602-11498.md)
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [PassGPT+: Leveraging Linguistic Priors for Password Modeling](../ai/rag/arxiv-2609-39880.md)
@@ -36638,6 +36639,7 @@ Resources organized by keyword tags.
   - [Shape-Aware Neural Time Fields for Rigid-Body Motion and Manipulation Planning](../ai/research/arxiv-2610-22762.md)
   - [Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries](../ai/research/arxiv-2608-20441.md)
   - [Shibuya](../ai/resources/shibuya.md)
+  - [Ship less JavaScript in Next.js with your AI agent](../ai/agents/ship-less-javascript-in-next-js-with-your-ai-agent.md)
   - [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](../ai/agents/arxiv-2610-14209.md)
   - [Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence](../ai/research/arxiv-2512-00418.md)
   - [Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation](../ai/agents/arxiv-2607-19793.md)
@@ -38895,6 +38897,7 @@ Resources organized by keyword tags.
   - [Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks](../ai/rag/arxiv-2603-14830.md)
   - [Datenschutzrichtlinie - Shure Germany](../ai/rag/datenschutzrichtlinie-shure-germany.md)
   - [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md)
+  - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md)
   - [DeGLIF for Label Noise Robust Node Classification using GNNs](../ai/research/arxiv-2506-00244.md)
   - [DeMMO: Longitudinal and Cross-Disease Modelling of Digital Mobility Outcomes via Multi-Task Learning](../ai/research/arxiv-2608-25073.md)
   - [DePICT: Decision-Preserving Interface for Constrained Downstream Tasks](../ai/agents/arxiv-2610-03945.md)
@@ -39606,6 +39609,7 @@ Resources organized by keyword tags.
   - [Good Practice Guide for quantifying uncertainties for machine learning models applied to photoplethysmography signals](../ai/research/arxiv-2607-19999.md)
   - [Google - YouTube](../ai/resources/google-youtube.md)
   - [Google AI Studio news from Google I/O 2026](../ai/rag/google-ai-studio-news-from-google-i-o-2026.md)
+  - [Google AI gets cagey when asked who won the 2020 elections](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md)
   - [Google Account](../ai/resources/google-account.md)
   - [Google Cloud Privacy Notice](../ai/rag/google-cloud-privacy-notice.md)
   - [Google DeepMind - YouTube](../ai/resources/google-deepmind-youtube.md)
@@ -40088,6 +40092,7 @@ Resources organized by keyword tags.
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
+  - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
   - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius - The JetBrains Blog](../ai/agents/learn-ai-assisted-programming-with-junie-free-cour.md)
   - [Learn C the Hard Way](../ai/resources/learn-c-the-hard-way.md)
@@ -40667,6 +40672,7 @@ Resources organized by keyword tags.
   - [Org mode for GNU Emacs](../ai/resources/org-mode-for-gnu-emacs.md)
   - [Organizational Memory for Agentic Business Process Execution](../ai/rag/arxiv-2607-03228.md)
   - [Orion-Real-Time Validation Infrastructure | Commercial UAV Expo](../ai/resources/orion-real-time-validation-infrastructure-commerci.md)
+  - [Oseberg Tapestry Fragments](../ai/community/oseberg-tapestry-fragments.md)
   - [OsteoCAD: A Human-in-the-Loop Cloud-Edge Framework for Bone Tumor Segmentation](../ai/research/arxiv-2607-29266.md)
   - [Our Opportunities - University of California-Los Angeles Scholarship Application](../ai/resources/our-opportunities-university-of-california-los-ang.md)
   - [Out of Sync, Out of Sight: Phantom State Attacks against IIoT Intrusion Detection](../ai/research/arxiv-2610-02552.md)
@@ -41516,7 +41522,6 @@ Resources organized by keyword tags.
   - [Surrogate-Assisted Genetic Programming with Phenotypic Characterisation in Dynamic Multi-Mode Project Scheduling](../ai/research/arxiv-2609-14418.md)
   - [Surveillance Self-Defense](../ai/resources/surveillance-self-defense.md)
   - [Surveying GenAI-based Automation in Printed Circuit Board Design and Test](../ai/research/arxiv-2606-17074.md)
-  - [Survival LLM: AI assistant and emergency library that runs on your own computer](../ai/community/survival-llm-ai-assistant-and-emergency-library-th.md)
   - [Sustainable Materials Discovery in the Era of Artificial Intelligence](../ai/research/arxiv-2601-21527.md)
   - [SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery](../ai/agents/arxiv-2607-02807.md)
   - [SwiftExplorer: Training-free Diffusion Model Alignment with Swift Diversity Exploration](../ai/research/arxiv-2609-06651.md)
@@ -41721,6 +41726,7 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The shape of quark flavors](../ai/research/arxiv-2609-22812.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
+  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
@@ -41865,7 +41871,6 @@ Resources organized by keyword tags.
   - [Twisted Schr\"odinger Bridge Matching](../ai/research/arxiv-2607-16987.md)
   - [Two Black Boxes, One Solver: Encoder Probing and Decoder Attribution for Neural Multi-Attribute VRP under Hard-Mask and Recourse Decoders](../ai/research/arxiv-2607-04487.md)
   - [Two Sides of the Same Coin: Learning the Backdoor to Remove the Backdoor](../ai/rag/arxiv-2607-05748.md)
-  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
   - [Two-Sample Testing via Generative Processes](../ai/research/arxiv-2610-08277.md)
   - [Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion](../ai/research/arxiv-2411-12965.md)
   - [Type Checking Project Haystack Grids using JSON Schema and Pydantic](../ai/research/arxiv-2606-24891.md)
@@ -41970,7 +41975,6 @@ Resources organized by keyword tags.
   - [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](../ai/research/arxiv-2507-05116.md)
   - [Valid Inference with Synthetic Data via Task Exchangeability](../ai/research/arxiv-2606-13629.md)
   - [Value-Preserving Architectures for Agentic AI Systems](../ai/agents/arxiv-2609-03920.md)
-  - [Valve Responds to Developers Fearing AI Slop and Clones](../ai/community/valve-responds-to-developers-fearing-ai-slop-and-c.md)
   - [Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](../ai/research/arxiv-2606-25997.md)
   - [Variance Reduction for Non-Log-Concave Sampling with Applications to Inverse Problems](../ai/research/arxiv-2606-16257.md)
   - [Variance Reduction with Delayed Feedback for Non-Convex Optimization](../ai/rag/arxiv-2610-28510.md)
@@ -42227,6 +42231,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -43090,10 +43095,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Survival LLM: AI assistant and emergency library that runs on your own computer](../ai/community/survival-llm-ai-assistant-and-emergency-library-th.md)
 
 ## mdx
 
@@ -68721,6 +68722,7 @@ Resources organized by keyword tags.
   - [Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials](../ai/rag/arxiv-2610-09837.md)
   - [Orthogonal Dendritic Intrinsic Networks: An Architecture for Significance-Ordered, Orthogonal Latent Spaces](../ai/rag/arxiv-2607-05653.md)
   - [Orthogonal JEPA: Factorized Predictive States for Latent World Models](../ai/rag/arxiv-2608-20065.md)
+  - [Oseberg Tapestry Fragments](../ai/community/oseberg-tapestry-fragments.md)
   - [Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer](../ai/rag/arxiv-2606-13016.md)
   - [Out-Of-The-Loop Multi-Fidelity Bayesian Optimization](../ai/rag/arxiv-2608-04113.md)
   - [Out-of-Distribution Detection using Counterfactual Distance](../ai/rag/arxiv-2508-10148.md)
@@ -71836,6 +71838,7 @@ Resources organized by keyword tags.
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
   - [The persuasive power of large language models does not depend on their perceived national origin](../ai/rag/arxiv-2607-29334.md)
   - [The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer](../ai/rag/arxiv-2502-15631.md)
+  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment](../ai/rag/arxiv-2607-05552.md)
   - [The zbMATH Open Knowledge Graph: Tracing Centuries of Mathematical Research](../ai/rag/arxiv-2609-00969.md)
   - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
@@ -85312,7 +85315,6 @@ Resources organized by keyword tags.
   - [Twilio Segment Customer Data Platform | Twilio](../ai/resources/twilio-segment-customer-data-platform-twilio.md)
   - [Twilio Status](../ai/rag/twilio-status.md)
   - [Twilio Status - API](../ai/rag/twilio-status-api.md)
-  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
   - [Two-Layer Linear Auto-Regressive Models Estimate Latent States](../ai/research/arxiv-2606-12691.md)
   - [U.S. Copyright Office | U.S. Copyright Office](../ai/resources/u-s-copyright-office-u-s-copyright-office.md)
   - [UA-Bench: Benchmarking Large Audio-Language Models on Underwater Acoustic Recognition](../ai/research/arxiv-2610-16942.md)
@@ -85742,4 +85744,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-28T21:04:39.694267+05:30*
+*Index generated on 2026-10-29T03:01:35.133584+05:30*

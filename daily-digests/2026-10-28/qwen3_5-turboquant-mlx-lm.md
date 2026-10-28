@@ -1,19 +1,30 @@
 ---
-title: "seriedes7322/Qwen3.5-TurboQuant-MLX-LM"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["C++", "Qwen3.5", "MLX", "Quantization", "Prompt Caching", "Windows API"]
+title: seriedes7322/Qwen3.5-TurboQuant-MLX-LM
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- C++
+- Qwen3.5
+- MLX
+- Quantization
+- Prompt Caching
+- Windows API
 quality_score: 6
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["local AI", "quantization", "Qwen3.5", "Windows optimization", "offline inference"]
-source: "https://github.com/seriedes7322/Qwen3.5-TurboQuant-MLX-LM"
+deployment_complexity: Medium
+tags:
+- local AI
+- quantization
+- Qwen3.5
+- Windows optimization
+- offline inference
+source: https://github.com/seriedes7322/Qwen3.5-TurboQuant-MLX-LM
 stars: 0
-language: "C++"
-last_updated: "2026-08-06T06:27:50Z"
-discovered_at: "2026-08-06T06:32:19Z"
-evaluated_by: "mistral-small-latest"
+language: C++
+last_updated: '2026-08-06T06:27:50Z'
+discovered_at: '2026-08-06T06:32:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

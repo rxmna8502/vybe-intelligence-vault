@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-29T00:32:37.276799+05:30`
+Generated at: `2026-10-29T03:07:02.985999+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,39 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
+- **Dayjob: Tax – evaluating AI agents on 50 professional tax assignments** - Score: `151` in category `ai/community` ([Link](https://surgehq.ai/blog/dayjob-tax)) ([File](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md))
+- **Google AI gets cagey when asked who won the 2020 elections** - Score: `21` in category `ai/community` ([Link](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections)) ([File](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md))
+- **Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents** - Score: `11` in category `ai/community` ([Link](https://wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents)) ([File](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md))
+- **The tragedy of losing your Wikipedia page** - Score: `8` in category `ai/community` ([Link](https://wired.com/story/the-tragedy-of-losing-your-wikipedia-page)) ([File](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md))
+- **Oseberg Tapestry Fragments** - Score: `7` in category `ai/community` ([Link](https://en.wikipedia.org/wiki/oseberg_tapestry_fragments)) ([File](../ai/community/oseberg-tapestry-fragments.md))
+- **Ship less JavaScript in Next.js with your AI agent** - Score: `0` in category `ai/agents` ([Link](https://nextjs.org/blog/ship-less-javascript-with-ai)) ([File](../ai/agents/ship-less-javascript-in-next-js-with-your-ai-agent.md))
+- **AI for Science expands to foundations and research institutions** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/ai-for-science-expands-foundations-research-institutions)) ([File](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md))
 
 ## Top Trending Resources
 
-- **Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/research/arxiv-2610-32215.md))
-- **Supervised Learning with Quantum Hamiltonian Embeddings** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/rag/arxiv-2610-26833.md))
-- **DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/research/arxiv-2610-04933.md))
-- **Representation-Aligned Auxiliary Supervision for Language Model Adaptation** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/research/arxiv-2610-04098.md))
-- **Geometry-Dependent Approximation for Non-Monotone $k$-Submodular Maximization** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/research/arxiv-2610-04049.md))
-- **SRHarness: A Harness for Agentic Symbolic Regression** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/agents/arxiv-2609-35501.md))
-- **A Large-Scale Benchmark and Risk Assessment of Traffic Analysis Attacks on Cloud LLM Services** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/rag/arxiv-2609-31877.md))
-- **A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/agents/arxiv-2609-29528.md))
-- **Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/agents/arxiv-2609-28876.md))
-- **VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots** - Score: `0` (0), Rank Change: `+1042` ([File](../ai/rag/arxiv-2609-20191.md))
+- **Kentucky man becomes the first humanist granted religious exemption from AI** - Score: `363` (+237), Rank Change: `+1` ([File](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md))
+- **Tailscale SSH: Investigation and remediation update** - Score: `368` (+35), Rank Change: `+1` ([File](../ai/community/tailscale-ssh-investigation-and-remediation-update.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+13` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+9` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/graphics-multimedia.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+28077`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1044`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+1044`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1044`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1044`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1044`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1044`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1044`) ([File](../ai/rag/arxiv-2606-09677.md))
-- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1044`) ([File](../ai/research/arxiv-2606-06379.md))
-- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1044`) ([File](../ai/agents/arxiv-2606-05050.md))
+- **roisincrtai/ptb-xl-1.0.3** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-roisincrtai.md))
+- **ayuo/hd_tmp** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-ayuo.md))
+- **epfml/FineWeb-HQ** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-epfml.md))
+- **transferable-samplers/many-peptides-md** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-transferable-samplers.md))
+- **Salesforce/wikitext** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-salesforce.md))
+- **hf-doc-build/doc-build-dev** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-hf-doc-build.md))
+- **wegrthj/e94fjt-qi9l-raw** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-wegrthj.md))
+- **hallucinations-leaderboard/results** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-hallucinations-leaderboard.md))
+- **m-a-p/FineFineWeb** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-m-a-p.md))
+- **huggingface/documentation-images** - (Rank Change: `+906`) ([File](../ai/models/huggingface-datasets-huggingface.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +51,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Survival LLM: AI assistant and emergency library that runs on your own computer** (Category: `ai/community`) ([File](../ai/community/survival-llm-ai-assistant-and-emergency-library-th.md))
+- **Two high-speed trains collide near Toledo, Spain** (Category: `ai/community`) ([File](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md))
+- **Valve Responds to Developers Fearing AI Slop and Clones** (Category: `ai/community`) ([File](../ai/community/valve-responds-to-developers-fearing-ai-slop-and-c.md))

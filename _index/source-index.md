@@ -37155,11 +37155,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: company_blog)
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
+  - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
   - [An update on independent evaluators](../ai/companies/anthropic/an-update-on-independent-evaluators.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
-  - [Anthropic opens Singapore office and signs MOU with the Government of Singapore](../ai/companies/anthropic/anthropic-opens-singapore-office-and-signs-mou-wit.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
@@ -38089,11 +38089,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md)
+  - [Google AI gets cagey when asked who won the 2020 elections](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md)
   - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
-  - [Survival LLM: AI assistant and emergency library that runs on your own computer](../ai/community/survival-llm-ai-assistant-and-emergency-library-th.md)
+  - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md)
+  - [Oseberg Tapestry Fragments](../ai/community/oseberg-tapestry-fragments.md)
   - [Tailscale SSH: Investigation and remediation update](../ai/community/tailscale-ssh-investigation-and-remediation-update.md)
-  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
-  - [Valve Responds to Developers Fearing AI Slop and Clones](../ai/community/valve-responds-to-developers-fearing-ai-slop-and-c.md)
+  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39197,6 +39199,7 @@ Resources organized by publisher feed and query sources.
   - [React v19](../web-development/react-v19.md)
   - [Security Advisory: CVE-2025-66478](../web-development/security-advisory-cve-2025-66478.md)
   - [September 2026 Security Release](../web-development/nextjs/september-2026-security-release.md)
+  - [Ship less JavaScript in Next.js with your AI agent](../ai/agents/ship-less-javascript-in-next-js-with-your-ai-agent.md)
   - [Styling Next.js with Styled JSX](../web-development/nextjs/styling-next-js-with-styled-jsx.md)
   - [Sunsetting Create React App](../ai/rag/sunsetting-create-react-app.md)
   - [The Plan for React 18](../web-development/the-plan-for-react-18.md)
@@ -41993,4 +41996,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-28T21:04:40.232770+05:30*
+*Index generated on 2026-10-29T03:01:35.655089+05:30*

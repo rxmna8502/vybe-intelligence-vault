@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tailscale.com/ssh-investigation-update
 hn_url: https://news.ycombinator.com/item?id=50264857
-score: 333
+score: 368
 author: figmert
-comments_count: 175
+comments_count: 187
 published_at: '2026-10-28T01:25:21+05:30'
-collected_at: '2026-10-28T20:47:40.544742+05:30'
+collected_at: '2026-10-29T02:44:43.777214+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tailscale-ssh-investigation-and-remediation-update
 first_seen: '2026-10-28T11:23:26.512650+05:30'
-last_seen: '2026-10-28T20:47:40.544742+05:30'
-last_checked: '2026-10-28T20:47:40.544742+05:30'
+last_seen: '2026-10-29T02:44:43.777214+05:30'
+last_checked: '2026-10-29T02:44:43.777214+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by figmert. Score: 333, Comments: 175.
+Hacker News story by figmert. Score: 368, Comments: 187.
 Original Link: https://tailscale.com/ssh-investigation-update
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: figmert
-- Score: 333 Upvotes
-- Comments: 175 Discussions
+- Score: 368 Upvotes
+- Comments: 187 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50264857
 - Original Article: https://tailscale.com/ssh-investigation-update
 
