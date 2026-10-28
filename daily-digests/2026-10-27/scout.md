@@ -1,19 +1,28 @@
 ---
-title: "indigokarasu/scout"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "OSINT tools (theHarvester, Maigret, Holehe, h8mail, PhoneInfoga, Sherlock)", "MCP (Model Context Protocol)", "OCAS (Open Context Architecture System)"]
+title: indigokarasu/scout
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Python
+- OSINT tools (theHarvester, Maigret, Holehe, h8mail, PhoneInfoga, Sherlock)
+- MCP (Model Context Protocol)
+- OCAS (Open Context Architecture System)
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["OSINT", "provenance tracking", "structured research", "entity verification", "source waterfall"]
-source: "https://github.com/indigokarasu/scout"
+deployment_complexity: Medium
+tags:
+- OSINT
+- provenance tracking
+- structured research
+- entity verification
+- source waterfall
+source: https://github.com/indigokarasu/scout
 stars: 1
-language: "Python"
-last_updated: "2026-07-21T04:04:43Z"
-discovered_at: "2026-07-21T04:14:49Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-21T04:04:43Z'
+discovered_at: '2026-07-21T04:14:49Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

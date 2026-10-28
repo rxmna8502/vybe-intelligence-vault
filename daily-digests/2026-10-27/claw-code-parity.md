@@ -1,19 +1,28 @@
 ---
-title: "tabbypyrotechnic519/claw-code-parity"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "Windows", "CLI", "Rust-based executable"]
+title: tabbypyrotechnic519/claw-code-parity
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Rust
+- Windows
+- CLI
+- Rust-based executable
 quality_score: 6
 rag_relevance: 4
-deployment_complexity: "Low"
-tags: ["Rust", "Windows app", "parity build", "Claude", "Claw Code"]
-source: "https://github.com/tabbypyrotechnic519/claw-code-parity"
+deployment_complexity: Low
+tags:
+- Rust
+- Windows app
+- parity build
+- Claude
+- Claw Code
+source: https://github.com/tabbypyrotechnic519/claw-code-parity
 stars: 1
-language: "Rust"
-last_updated: "2026-07-10T20:21:00Z"
-discovered_at: "2026-07-10T20:21:44Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-10T20:21:00Z'
+discovered_at: '2026-07-10T20:21:44Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

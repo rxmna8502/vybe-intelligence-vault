@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
+source_url: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -41,7 +41,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types
+Original source URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation
 
 ## Local Vault File
 

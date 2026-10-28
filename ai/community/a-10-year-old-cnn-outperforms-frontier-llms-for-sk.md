@@ -13,13 +13,14 @@ collected_at: '2026-10-26T04:10:41.114874+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:a-10-year-old-cnn-outperforms-frontier-llms-for-sk
 first_seen: '2026-10-26T00:41:23.198753+05:30'
 last_seen: '2026-10-26T04:10:41.114874+05:30'
 last_checked: '2026-10-26T04:10:41.114874+05:30'
 health_score: 100
 ---
+
 
 # A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
 

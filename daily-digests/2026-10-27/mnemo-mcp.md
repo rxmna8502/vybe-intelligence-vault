@@ -1,19 +1,36 @@
 ---
-title: "n24q02m/mnemo-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "SQLite", "SQLite-vec", "FTS5", "MCP (Model Context Protocol)", "ONNX Runtime", "Qwen3", "AES-256-GCM", "Argon2id", "S3/R2/B2/MinIO", "Google Drive API", "Docker"]
+title: n24q02m/mnemo-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Python
+- SQLite
+- SQLite-vec
+- FTS5
+- MCP (Model Context Protocol)
+- ONNX Runtime
+- Qwen3
+- AES-256-GCM
+- Argon2id
+- S3/R2/B2/MinIO
+- Google Drive API
+- Docker
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["AI memory", "hybrid search", "knowledge graph", "persistent storage", "MCP server"]
-source: "https://github.com/n24q02m/mnemo-mcp"
+deployment_complexity: Medium
+tags:
+- AI memory
+- hybrid search
+- knowledge graph
+- persistent storage
+- MCP server
+source: https://github.com/n24q02m/mnemo-mcp
 stars: 8
-language: "Python"
-last_updated: "2026-07-18T09:15:45Z"
-discovered_at: "2026-07-18T09:24:06Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T09:15:45Z'
+discovered_at: '2026-07-18T09:24:06Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

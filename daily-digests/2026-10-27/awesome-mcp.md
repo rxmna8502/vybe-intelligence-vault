@@ -1,19 +1,35 @@
 ---
-title: "eon01/awesome-mcp"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["MCP (Model Context Protocol)", "Python", "TypeScript", "Go", "Java", "C#", "Rust", "Docker", "Kubernetes", "OAuth", "OpenTelemetry"]
+title: eon01/awesome-mcp
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- MCP (Model Context Protocol)
+- Python
+- TypeScript
+- Go
+- Java
+- C#
+- Rust
+- Docker
+- Kubernetes
+- OAuth
+- OpenTelemetry
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP", "agentic AI", "SDKs", "gateways", "developer tools"]
-source: "https://github.com/eon01/awesome-mcp"
+deployment_complexity: Medium
+tags:
+- MCP
+- agentic AI
+- SDKs
+- gateways
+- developer tools
+source: https://github.com/eon01/awesome-mcp
 stars: 0
-language: "None"
-last_updated: "2026-07-15T07:57:46Z"
-discovered_at: "2026-07-15T08:06:09Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-07-15T07:57:46Z'
+discovered_at: '2026-07-15T08:06:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

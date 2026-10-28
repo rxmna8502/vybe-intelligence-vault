@@ -9,23 +9,23 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 ## Top Matched Resources
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (framework - ESSENTIAL Tier)
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (template - ESSENTIAL Tier)
-- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
-- [neuml/txtai](https://github.com/neuml/txtai) (framework - ESSENTIAL Tier)
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
+- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
+- [explosion/spaCy](https://github.com/explosion/spaCy) (framework - ESSENTIAL Tier)
+- [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
+- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
+- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy)
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
-- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-- [neuml/txtai](https://github.com/neuml/txtai)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- [explosion/spaCy](https://github.com/explosion/spaCy)
+- [ElevenLabs · GitHub](https://github.com/elevenlabs)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-10-26 04:28 IST*
+*Last updated: 2026-10-28 11:49 IST*

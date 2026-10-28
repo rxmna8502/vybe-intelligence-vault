@@ -10,12 +10,12 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (framework - USEFUL Tier)
-- [PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://arxiv.org/abs/2607.05910) (framework - USEFUL Tier)
-- [Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output](https://arxiv.org/abs/2608.10279) (framework - USEFUL Tier)
 - [Simthesizer: An Agent-Driven Simulation Framework for LLM Serving Systems](https://arxiv.org/abs/2608.24650) (framework - USEFUL Tier)
+- [xMIx: High-Performance Serving-Time Platform for Mechanistic Interpretability Apps](https://arxiv.org/abs/2607.22595) (framework - USEFUL Tier)
+- [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (framework - USEFUL Tier)
+- [Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output](https://arxiv.org/abs/2608.10279) (framework - USEFUL Tier)
 - [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (template - USEFUL Tier)
-- [ACTR: Aligning Thoughts and Responses for Multilingual Safety in Reasoning LLMs](https://arxiv.org/abs/2609.37054) (framework - USEFUL Tier)
-- [How to Build a Voice Agent with RAG and Safety Guardrails | NVIDIA Technical Blog](https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/) (dataset - USEFUL Tier)
+- [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](https://arxiv.org/abs/2607.28685) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
 - [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security)
-- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 - [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
-- [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
+- [uber/ADR](https://github.com/uber/ADR)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-10-26 04:28 IST*
+*Last updated: 2026-10-28 11:49 IST*

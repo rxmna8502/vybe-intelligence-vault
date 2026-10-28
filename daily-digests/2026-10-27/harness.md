@@ -1,19 +1,31 @@
 ---
-title: "dommaker/harness"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "CLI", "YAML", "JSON", "Git", "Sandboxing"]
+title: dommaker/harness
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- TypeScript
+- Node.js
+- CLI
+- YAML
+- JSON
+- Git
+- Sandboxing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent constraints", "runtime enforcement", "knowledge preservation", "constraint lifecycle", "sandboxing"]
-source: "https://github.com/dommaker/harness"
+deployment_complexity: Medium
+tags:
+- AI agent constraints
+- runtime enforcement
+- knowledge preservation
+- constraint lifecycle
+- sandboxing
+source: https://github.com/dommaker/harness
 stars: 0
-language: "TypeScript"
-last_updated: "2026-08-08T08:40:22Z"
-discovered_at: "2026-08-08T08:42:30Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-08-08T08:40:22Z'
+discovered_at: '2026-08-08T08:42:30Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

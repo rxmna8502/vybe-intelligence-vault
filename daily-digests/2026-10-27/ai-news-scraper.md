@@ -1,19 +1,36 @@
 ---
-title: "AleksNeStu/ai-news-scraper"
-content_type: "repo"
-engine: "v2"
-category: "Vector DB"
-tech_stack: ["FastAPI", "Next.js 15", "ChromaDB", "Postgres", "Redis", "OpenAI (gpt-4o-mini, text-embedding-3-small)", "TypeScript", "Python 3.12", "JWT Authentication", "Docker", "Tailwind CSS", "shadcn/ui"]
+title: AleksNeStu/ai-news-scraper
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- FastAPI
+- Next.js 15
+- ChromaDB
+- Postgres
+- Redis
+- OpenAI (gpt-4o-mini, text-embedding-3-small)
+- TypeScript
+- Python 3.12
+- JWT Authentication
+- Docker
+- Tailwind CSS
+- shadcn/ui
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["semantic search", "news aggregation", "vector database", "AI summarization", "RSS processing"]
-source: "https://github.com/AleksNeStu/ai-news-scraper"
+deployment_complexity: Medium
+tags:
+- semantic search
+- news aggregation
+- vector database
+- AI summarization
+- RSS processing
+source: https://github.com/AleksNeStu/ai-news-scraper
 stars: 3
-language: "Python"
-last_updated: "2026-08-08T12:58:59Z"
-discovered_at: "2026-08-08T13:49:35Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T12:58:59Z'
+discovered_at: '2026-08-08T13:49:35Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

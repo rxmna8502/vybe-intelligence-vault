@@ -10,11 +10,11 @@ Scene graphs, camera constraints, shaders, layout grids, animations.
 Three.js, React Three Fiber (R3F), GSAP, WebGPU, Spline.
 
 ## Recommended Resources from the Vault
-*   [Static Asset Handling | Vite](https://vite.dev/guide/assets.html#importing-asset-as-url)
-*   [Listen to WasmAssembly podcast | Deezer](https://www.deezer.com/show/1000884501)
-*   [brendan-duncan/wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect)
-*   [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu)
-*   [doodlewind/beam](https://github.com/doodlewind/beam)
+*   [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
+*   [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
+*   [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter)
+*   [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon)
+*   [emmelleppi/r3f-cheers](https://github.com/emmelleppi/r3f-cheers)
 
 ## Project Ideas
 *   Interactive 3D landing landing page using React Three Fiber and GSAP.

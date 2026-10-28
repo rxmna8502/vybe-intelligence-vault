@@ -1,19 +1,31 @@
 ---
-title: "Rushour0/grok-build-desktop"
-content_type: "repo"
-engine: "v2"
-category: "UI Component"
-tech_stack: ["Tauri", "Rust", "React", "TypeScript", "Node.js", "Agent Client Protocol (ACP)", "JSON-RPC 2.0"]
+title: Rushour0/grok-build-desktop
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Tauri
+- Rust
+- React
+- TypeScript
+- Node.js
+- Agent Client Protocol (ACP)
+- JSON-RPC 2.0
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["desktop app", "coding agent", "xAI", "Grok Build", "approval workflow"]
-source: "https://github.com/Rushour0/grok-build-desktop"
+deployment_complexity: Medium
+tags:
+- desktop app
+- coding agent
+- xAI
+- Grok Build
+- approval workflow
+source: https://github.com/Rushour0/grok-build-desktop
 stars: 0
-language: "Rust"
-last_updated: "2026-07-17T21:43:37Z"
-discovered_at: "2026-07-17T21:52:26Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-17T21:43:37Z'
+discovered_at: '2026-07-17T21:52:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

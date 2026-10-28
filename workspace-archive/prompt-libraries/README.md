@@ -9,24 +9,24 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 ## Top Matched Resources
 
 - [Multimodal Language Models as Text-to-Image Model Evaluators](https://arxiv.org/abs/2505.00759) (framework - USEFUL Tier)
-- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (prompt - USEFUL Tier)
 - [LLM-Assisted Discovery of Typed Semantic Links for Ontology Network Construction](https://arxiv.org/abs/2610.01393) (framework - USEFUL Tier)
-- [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (framework - USEFUL Tier)
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 - [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (prompt - USEFUL Tier)
-- [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (framework - USEFUL Tier)
 - [PRISM: Prompt-Refined In-Context System Modelling for Financial Retrieval](https://arxiv.org/abs/2511.14130) (framework - USEFUL Tier)
+- [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (framework - USEFUL Tier)
+- [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/danielmiessler/fabric (Fabric)
 https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
-- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 - [ali-bahrainian/RAG_best_practices](https://github.com/ali-bahrainian/RAG_best_practices)
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [langfuse/langfuse](https://github.com/langfuse/langfuse)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-10-26 04:28 IST*
+*Last updated: 2026-10-28 11:49 IST*

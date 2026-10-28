@@ -8,22 +8,22 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
-- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [MatchMiner-AI: Open-source, Privacy-preserving Cancer Clinical Trial Matching using Artificial Intelligence](https://arxiv.org/abs/2412.17228) (benchmark - USEFUL Tier)
-- [chroma - Rust](https://docs.rs/chroma/latest/chroma/) (framework - USEFUL Tier)
-- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
+- [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development/) (tutorial - USEFUL Tier)
+- [Haystack Enterprise Platform Trial | Sign Up](https://www.deepset.ai/deepset-studio) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
-- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [Mintlify · GitHub](https://github.com/mintlify)
+- [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [continuedev/continue](https://github.com/continuedev/continue)
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-10-26 04:28 IST*
+*Last updated: 2026-10-28 11:49 IST*

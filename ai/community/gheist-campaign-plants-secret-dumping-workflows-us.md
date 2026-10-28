@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - workflows
-status: active
+status: inactive
 resource_id: hackernews:gheist-campaign-plants-secret-dumping-workflows-us
 first_seen: '2026-10-26T04:10:41.628565+05:30'
 last_seen: '2026-10-26T04:10:41.628565+05:30'
 last_checked: '2026-10-26T04:10:41.628565+05:30'
 health_score: 100
 ---
+
 
 # Gheist campaign plants secret-dumping workflows using stolen GitHub tokens
 

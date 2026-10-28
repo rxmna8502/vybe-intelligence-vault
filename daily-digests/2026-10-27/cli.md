@@ -1,19 +1,29 @@
 ---
-title: "makethisbetter/cli"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Go", "Git", "JSON", "CLI", "REST API"]
+title: makethisbetter/cli
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Go
+- Git
+- JSON
+- CLI
+- REST API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Low"
-tags: ["feedback management", "AI agent workflow", "terminal integration", "user feedback triage", "Git integration"]
-source: "https://github.com/makethisbetter/cli"
+deployment_complexity: Low
+tags:
+- feedback management
+- AI agent workflow
+- terminal integration
+- user feedback triage
+- Git integration
+source: https://github.com/makethisbetter/cli
 stars: 1
-language: "Go"
-last_updated: "2026-08-02T08:15:56Z"
-discovered_at: "2026-08-02T08:22:45Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-08-02T08:15:56Z'
+discovered_at: '2026-08-02T08:22:45Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

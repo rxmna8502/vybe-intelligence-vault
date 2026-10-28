@@ -10,11 +10,11 @@ ReAct loops, human-in-the-loop, multi-agent coordination, agent memory persisten
 LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
-*   [MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems](https://arxiv.org/abs/2609.21533)
-*   [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](https://arxiv.org/abs/2604.05165)
-*   [DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat](https://arxiv.org/abs/2609.11155)
-*   [Foundation Model-Aided Multi-Agent Reinforcement Learning for Wireless Random Access Network Optimization](https://arxiv.org/abs/2610.07550)
-*   [LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI](https://arxiv.org/abs/2606.18021)
+*   [The Sovereign AI Platform for Agents](https://www.deepset.ai/)
+*   [Decentralized Multi-Agent Swarms for Autonomous Grid Security in Industrial IoT: A Consensus-based Approach](https://arxiv.org/abs/2601.17303)
+*   [Where Reasoning Diverges: Localized Multi-Agent Debate for Multi-Hop Question Answering](https://arxiv.org/abs/2608.01463)
+*   [PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces](https://arxiv.org/abs/2610.15208)
+*   [MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems](https://arxiv.org/abs/2610.28397)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

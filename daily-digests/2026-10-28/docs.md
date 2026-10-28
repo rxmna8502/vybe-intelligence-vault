@@ -1,19 +1,32 @@
 ---
-title: "weaviate/docs"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Docusaurus 3", "React", "Node.js", "Yarn", "MDX", "Python", "Docker", "Netlify"]
+title: weaviate/docs
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Docusaurus 3
+- React
+- Node.js
+- Yarn
+- MDX
+- Python
+- Docker
+- Netlify
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["documentation", "vector-database", "weaviate", "static-site-generator", "developer-tools"]
-source: "https://github.com/weaviate/docs"
+deployment_complexity: Medium
+tags:
+- documentation
+- vector-database
+- weaviate
+- static-site-generator
+- developer-tools
+source: https://github.com/weaviate/docs
 stars: 20
-language: "Python"
-last_updated: "2026-08-07T11:22:54Z"
-discovered_at: "2026-08-07T11:57:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T11:22:54Z'
+discovered_at: '2026-08-07T11:57:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

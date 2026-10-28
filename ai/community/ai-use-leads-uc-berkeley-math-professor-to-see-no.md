@@ -13,13 +13,14 @@ collected_at: '2026-10-26T04:10:43.275446+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-use-leads-uc-berkeley-math-professor-to-see-no
 first_seen: '2026-10-26T00:41:24.044561+05:30'
 last_seen: '2026-10-26T04:10:43.275446+05:30'
 last_checked: '2026-10-26T04:10:43.275446+05:30'
 health_score: 100
 ---
+
 
 # AI use leads UC Berkeley math professor to see 'no point' in grading homework
 

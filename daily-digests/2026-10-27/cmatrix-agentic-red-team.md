@@ -1,19 +1,35 @@
 ---
-title: "nishan-paul-2022/cmatrix-agentic-red-team"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["LangGraph", "LangChain", "FastAPI", "Next.js", "Qdrant", "PostgreSQL", "Redis", "Celery", "Docker", "Python", "Node.js"]
+title: nishan-paul-2022/cmatrix-agentic-red-team
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- LangGraph
+- LangChain
+- FastAPI
+- Next.js
+- Qdrant
+- PostgreSQL
+- Redis
+- Celery
+- Docker
+- Python
+- Node.js
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Security Automation", "Multi-Agent Systems", "Vulnerability Assessment", "Penetration Testing", "AI Orchestration"]
-source: "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+deployment_complexity: Medium
+tags:
+- Security Automation
+- Multi-Agent Systems
+- Vulnerability Assessment
+- Penetration Testing
+- AI Orchestration
+source: https://github.com/nishan-paul-2022/cmatrix-agentic-red-team
 stars: 0
-language: "Python"
-last_updated: "2026-08-07T22:34:50Z"
-discovered_at: "2026-08-07T22:37:15Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-07T22:34:50Z'
+discovered_at: '2026-08-07T22:37:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

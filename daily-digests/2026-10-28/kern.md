@@ -1,19 +1,31 @@
 ---
-title: "rafaelnicolett/kern"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "LanceDB", "llama.cpp", "Ollama", "MCP (Model Context Protocol)", "Markdown", "Vector Embeddings"]
+title: rafaelnicolett/kern
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Rust
+- LanceDB
+- llama.cpp
+- Ollama
+- MCP (Model Context Protocol)
+- Markdown
+- Vector Embeddings
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["local-first", "ontology-driven", "MCP-compatible", "incremental RAG", "spec-driven development"]
-source: "https://github.com/rafaelnicolett/kern"
+deployment_complexity: Medium
+tags:
+- local-first
+- ontology-driven
+- MCP-compatible
+- incremental RAG
+- spec-driven development
+source: https://github.com/rafaelnicolett/kern
 stars: 1
-language: "Rust"
-last_updated: "2026-08-07T04:45:32Z"
-discovered_at: "2026-08-07T16:57:18Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-07T04:45:32Z'
+discovered_at: '2026-08-07T16:57:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

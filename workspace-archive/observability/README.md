@@ -10,12 +10,12 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
-- [PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails](https://arxiv.org/abs/2607.05910) (framework - USEFUL Tier)
-- [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (dataset - USEFUL Tier)
-- [A Hierarchical Approach to Imitation Learning for Manipulation Tasks Requiring Time Varying Forces](https://arxiv.org/abs/2608.03103) (framework - USEFUL Tier)
-- [Null-Space Flow Matching for MIMO Channel Estimation in Latency-Constrained Systems](https://arxiv.org/abs/2604.22005) (framework - USEFUL Tier)
 - [Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents](https://arxiv.org/abs/2609.23986) (framework - USEFUL Tier)
-- [TTM-Bench: A Framework for Text-to-Music System Performance Benchmarking](https://arxiv.org/abs/2609.18585) (framework - USEFUL Tier)
+- [CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation](https://arxiv.org/abs/2607.03803) (framework - USEFUL Tier)
+- [MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems](https://arxiv.org/abs/2605.28732) (framework - USEFUL Tier)
+- [SkillMarker: A KGW-Based Watermarking Method for Agent Skill Ownership Verification](https://arxiv.org/abs/2610.15725) (framework - USEFUL Tier)
+- [Training-Free Model Selection and Domain-Aware Score Calibration for First-Shot Anomalous Sound Detection](https://arxiv.org/abs/2607.04526) (benchmark - USEFUL Tier)
+- [Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving](https://arxiv.org/abs/2609.38862) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,8 +24,8 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
-- [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](https://github.com/weaviate/weaviate-io/tree/main/blog/2024-03-07-verba-open-source-rag-app/index.mdx)
-- [michaelfeil/infinity](https://github.com/michaelfeil/infinity)
+- [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
+- [Better Stack · GitHub](https://github.com/BetterStackHQ/)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-10-26 04:28 IST*
+*Last updated: 2026-10-28 11:49 IST*

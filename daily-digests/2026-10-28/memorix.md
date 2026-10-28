@@ -1,19 +1,33 @@
 ---
-title: "AVIDS2/memorix"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "SQLite", "Orama", "MCP (Model Context Protocol)", "Node.js", "CLI", "Web UI", "Git", "FastEmbed"]
+title: AVIDS2/memorix
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- TypeScript
+- SQLite
+- Orama
+- MCP (Model Context Protocol)
+- Node.js
+- CLI
+- Web UI
+- Git
+- FastEmbed
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["project memory", "multi-agent coordination", "MCP integration", "local-first", "Git memory"]
-source: "https://github.com/AVIDS2/memorix"
+deployment_complexity: Medium
+tags:
+- project memory
+- multi-agent coordination
+- MCP integration
+- local-first
+- Git memory
+source: https://github.com/AVIDS2/memorix
 stars: 541
-language: "TypeScript"
-last_updated: "2026-07-12T14:48:22Z"
-discovered_at: "2026-07-12T14:54:51Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-07-12T14:48:22Z'
+discovered_at: '2026-07-12T14:54:51Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

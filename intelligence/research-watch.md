@@ -4,30 +4,30 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
-| [Calibrated Alzheimer's Conversion Risk in Mild Cognitive Impairment: Persistent Homology of Clinical Trajectories with Conformal Guarantees](https://arxiv.org/abs/2607.17442) | `ai-coding-agents/` | 70 |
-| [Can Coding Agents Reproduce Findings in Computational Materials Science?](https://arxiv.org/abs/2605.00803) | `ai-coding-agents/` | 70 |
-| [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) | `ai-coding-agents/` | 70 |
-| [Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents](https://arxiv.org/abs/2607.24882) | `ai-coding-agents/` | 70 |
-| [CODESKILL: Learning Self-Evolving Skills for Coding Agents](https://arxiv.org/abs/2605.25430) | `ai-coding-agents/` | 70 |
-| [ChemBART: Pre-training a Reaction Language Model for Comprehensive Synthesis Planning](https://arxiv.org/abs/2601.02915) | `ai-coding-agents/` | 70 |
-| [Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140) | `ai-coding-agents/` | 70 |
-| [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) | `ai-coding-agents/` | 70 |
-| [RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests](https://arxiv.org/abs/2608.27831) | `ai-coding-agents/` | 70 |
-| [Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs](https://arxiv.org/abs/2608.16391) | `ai-coding-agents/` | 70 |
-| [How Reliable Are Large Language Models for Soil Organic Carbon Assessment? An Australian Benchmark](https://arxiv.org/abs/2610.18201) | `ai-coding-agents/` | 70 |
-| [Alipay-PIBench: A Realistic Payment Integration Benchmark for Coding Agents](https://arxiv.org/abs/2607.14573) | `ai-coding-agents/` | 70 |
-| [Self-Evolving Coding Agents via Harness-Policy Optimization](https://arxiv.org/abs/2610.22791) | `ai-coding-agents/` | 70 |
-| [Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images](https://arxiv.org/abs/2607.10783) | `ai-coding-agents/` | 70 |
-| [Fair Cognitive Impairment Detection Through Unlearning](https://arxiv.org/abs/2606.18571) | `ai-coding-agents/` | 70 |
-| [From Retrieval to Customer Context: Evaluating Frontier-Model Systems for Voice-of-Customer Analysis](https://arxiv.org/abs/2610.09375) | `ai-coding-agents/` | 70 |
-| [Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs](https://arxiv.org/abs/2608.11232) | `ai-coding-agents/` | 70 |
-| [Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening](https://arxiv.org/abs/2607.15047) | `ai-coding-agents/` | 70 |
-| [Lost in Implicit Routing: How LLM Agents Fail to Load Relevant Skills at Scale](https://arxiv.org/abs/2610.18522) | `ai-coding-agents/` | 70 |
-| [HenTwin: A Multimodal Digital Twin Framework for Longitudinal Biological State Monitoring in Laying Hens](https://arxiv.org/abs/2607.28652) | `ai-coding-agents/` | 70 |
-| [SDAD: Spec-Driven Agentic Development for the AI-Native SDLC](https://arxiv.org/abs/2608.20341) | `ai-coding-agents/` | 70 |
-| [CaresAI at SMM4H-HeaRD 2026: Predicting TNM Staging](https://arxiv.org/abs/2607.03466) | `ai-coding-agents/` | 70 |
-| [TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents](https://arxiv.org/abs/2609.23363) | `ai-coding-agents/` | 70 |
-| [ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](https://arxiv.org/abs/2607.29677) | `ai-coding-agents/` | 70 |
-| [Land Art as a Big-Data Climate Sensor](https://arxiv.org/abs/2609.13182) | `ai-coding-agents/` | 70 |
+| [Prompt-to-Paper: Agentic AI System for Bioinformatics](https://arxiv.org/abs/2607.05456) | `ai-coding-agents/` | 70 |
+| [A Few Words Go a Long Way: Language Guided Robot Policy Synthesis](https://arxiv.org/abs/2607.23784) | `ai-coding-agents/` | 70 |
+| [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460) | `ai-coding-agents/` | 70 |
+| [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064) | `ai-coding-agents/` | 70 |
+| [Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration](https://arxiv.org/abs/2608.21208) | `ai-coding-agents/` | 70 |
+| [SC-JEPA: Stabilizing Latent Predictive Learning for Time-Series Anomaly Prediction](https://arxiv.org/abs/2602.04643) | `ai-coding-agents/` | 70 |
+| [Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents](https://arxiv.org/abs/2605.21347) | `ai-coding-agents/` | 70 |
+| [Evaluating the Retrieval Robustness of Large Language Models](https://arxiv.org/abs/2505.21870) | `ai-coding-agents/` | 70 |
+| [ReproBAIT: Can coding agents build their own biological AI tools?](https://arxiv.org/abs/2610.19810) | `ai-coding-agents/` | 70 |
+| [Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations](https://arxiv.org/abs/2609.30345) | `ai-coding-agents/` | 70 |
+| [DeepSurvey: Agent-Oriented Automated Survey Generation with Analytical Depth and Citation Reliability](https://arxiv.org/abs/2605.29522) | `ai-coding-agents/` | 70 |
+| [RefactorPlatform: An Open-Source Harness for Controlled Evaluation of Repository-Scale Refactoring Agents](https://arxiv.org/abs/2609.04898) | `ai-coding-agents/` | 70 |
+| [Do Theorem Provers Need Theorem-Proving Agents? mini-Lean-agent: A Coding-Agent Baseline for Lean](https://arxiv.org/abs/2610.17331) | `ai-coding-agents/` | 70 |
+| [CONTRA: Discovering and Qualifying Behavior-Changing Questions for Selective Clarification in LLM Code Generation](https://arxiv.org/abs/2610.01769) | `ai-coding-agents/` | 70 |
+| [Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation: A Case Study in Decision Support for Rice Cultivation in Japan](https://arxiv.org/abs/2512.21066) | `ai-coding-agents/` | 70 |
+| [SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779) | `ai-coding-agents/` | 70 |
+| [HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs](https://arxiv.org/abs/2610.26770) | `ai-coding-agents/` | 70 |
+| [Cost-Effective Repository Exploration for Agentic Issue Localization](https://arxiv.org/abs/2608.29675) | `ai-coding-agents/` | 70 |
+| [DIANOIA: Diagnostic Decomposition and Joint Optimization for Multi-Agent Reasoning](https://arxiv.org/abs/2602.08586) | `ai-coding-agents/` | 70 |
+| [WiseSpec: Requirements-Driven Agents for Code Generation](https://arxiv.org/abs/2609.00568) | `ai-coding-agents/` | 70 |
+| [Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings](https://arxiv.org/abs/2602.07294) | `ai-coding-agents/` | 70 |
+| [FORALL-LEAN-AGENT for Auditable Reasoning in Formal Mathematics and Software Verification](https://arxiv.org/abs/2610.00885) | `ai-coding-agents/` | 70 |
+| [Loading history and window geometry bound compact-state slip ranking during granular shear startup](https://arxiv.org/abs/2610.00124) | `ai-coding-agents/` | 70 |
+| [Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481) | `ai-coding-agents/` | 70 |
+| [How Do Small Coding Agents Use Code Graphs and Embeddings?](https://arxiv.org/abs/2610.33958) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

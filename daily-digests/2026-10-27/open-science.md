@@ -1,19 +1,34 @@
 ---
-title: "ai4s-research/open-science"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Tauri", "React", "TypeScript", "Vite", "MCP (Model Context Protocol)", "OpenCode", "Python", "Agent Skills", "Tiling Window Manager", "WebAssembly"]
+title: ai4s-research/open-science
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Tauri
+- React
+- TypeScript
+- Vite
+- MCP (Model Context Protocol)
+- OpenCode
+- Python
+- Agent Skills
+- Tiling Window Manager
+- WebAssembly
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI research workbench", "local-first", "model-agnostic", "reproducible artifacts", "agent orchestration"]
-source: "https://github.com/ai4s-research/open-science"
+deployment_complexity: Medium
+tags:
+- AI research workbench
+- local-first
+- model-agnostic
+- reproducible artifacts
+- agent orchestration
+source: https://github.com/ai4s-research/open-science
 stars: 1580
-language: "TypeScript"
-last_updated: "2026-09-04T02:08:25Z"
-discovered_at: "2026-09-04T02:11:38Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-04T02:08:25Z'
+discovered_at: '2026-09-04T02:11:38Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

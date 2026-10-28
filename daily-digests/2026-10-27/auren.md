@@ -1,19 +1,32 @@
 ---
-title: "sourabhJainR/AUREN"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Graph-based Agent Orchestration", "SQLite", "CLI", "CI/CD Pipelines", "JSON/TOML", "Subprocess Management", "Fault Injection Testing"]
+title: sourabhJainR/AUREN
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Python
+- Graph-based Agent Orchestration
+- SQLite
+- CLI
+- CI/CD Pipelines
+- JSON/TOML
+- Subprocess Management
+- Fault Injection Testing
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "High"
-tags: ["AI engineering", "agent orchestration", "durable execution", "evidence-based learning", "graph-based workflows"]
-source: "https://github.com/sourabhJainR/AUREN"
+deployment_complexity: High
+tags:
+- AI engineering
+- agent orchestration
+- durable execution
+- evidence-based learning
+- graph-based workflows
+source: https://github.com/sourabhJainR/AUREN
 stars: 0
-language: "Python"
-last_updated: "2026-10-27T17:38:39Z"
-discovered_at: "2026-10-27T17:42:19Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-10-27T17:38:39Z'
+discovered_at: '2026-10-27T17:42:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

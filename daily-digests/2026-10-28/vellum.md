@@ -1,19 +1,31 @@
 ---
-title: "freema/vellum"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Go", "React", "Docker", "MCP (Model Context Protocol)", "OAuth 2.1", "Markdown", "Git"]
+title: freema/vellum
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Go
+- React
+- Docker
+- MCP (Model Context Protocol)
+- OAuth 2.1
+- Markdown
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "markdown vault", "self-hosted", "knowledge management", "agent integration"]
-source: "https://github.com/freema/vellum"
+deployment_complexity: Medium
+tags:
+- MCP server
+- markdown vault
+- self-hosted
+- knowledge management
+- agent integration
+source: https://github.com/freema/vellum
 stars: 2
-language: "Go"
-last_updated: "2026-07-14T15:53:59Z"
-discovered_at: "2026-07-14T16:14:29Z"
-evaluated_by: "mistral-small-latest"
+language: Go
+last_updated: '2026-07-14T15:53:59Z'
+discovered_at: '2026-07-14T16:14:29Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

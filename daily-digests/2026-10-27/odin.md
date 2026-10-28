@@ -1,19 +1,34 @@
 ---
-title: "kessler-frost/odin"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "OpenTofu", "Terraform", "Rust", "Docker", "Lima", "Colima", "Nebula Network", "React", "TypeScript"]
+title: kessler-frost/odin
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Python
+- OpenTofu
+- Terraform
+- Rust
+- Docker
+- Lima
+- Colima
+- Nebula Network
+- React
+- TypeScript
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["Infrastructure as Code", "Visual Orchestration", "Local Cloud", "IAM Enforcement", "Terraform Compilation"]
-source: "https://github.com/kessler-frost/odin"
+deployment_complexity: Medium
+tags:
+- Infrastructure as Code
+- Visual Orchestration
+- Local Cloud
+- IAM Enforcement
+- Terraform Compilation
+source: https://github.com/kessler-frost/odin
 stars: 2
-language: "Python"
-last_updated: "2026-08-01T03:33:50Z"
-discovered_at: "2026-08-01T03:43:56Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T03:33:50Z'
+discovered_at: '2026-08-01T03:43:56Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

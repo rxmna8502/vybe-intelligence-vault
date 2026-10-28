@@ -1,19 +1,29 @@
 ---
-title: "vibhorxpandey/Aurelius"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "Tavily API", "FastAPI (implicit via MCP)", "CLI tools"]
+title: vibhorxpandey/Aurelius
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Python
+- Model Context Protocol (MCP)
+- Tavily API
+- FastAPI (implicit via MCP)
+- CLI tools
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["MCP server", "fact-checking", "research automation", "citation verification", "AI tooling"]
-source: "https://github.com/vibhorxpandey/Aurelius"
+deployment_complexity: Medium
+tags:
+- MCP server
+- fact-checking
+- research automation
+- citation verification
+- AI tooling
+source: https://github.com/vibhorxpandey/Aurelius
 stars: 0
-language: "Python"
-last_updated: "2026-07-10T21:56:38Z"
-discovered_at: "2026-07-10T22:00:27Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-10T21:56:38Z'
+discovered_at: '2026-07-10T22:00:27Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

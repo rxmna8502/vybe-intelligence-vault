@@ -1,19 +1,34 @@
 ---
-title: "AgentLineHQ/AgentLine"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "Redis", "SignalWire", "Deepgram", "Cartesia", "OpenAI", "Docker", "Supabase"]
+title: AgentLineHQ/AgentLine
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-27
+tech_stack:
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- SignalWire
+- Deepgram
+- Cartesia
+- OpenAI
+- Docker
+- Supabase
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["telephony", "voice API", "SMS", "MCP server", "AI agents"]
-source: "https://github.com/AgentLineHQ/AgentLine"
+deployment_complexity: Medium
+tags:
+- telephony
+- voice API
+- SMS
+- MCP server
+- AI agents
+source: https://github.com/AgentLineHQ/AgentLine
 stars: 29
-language: "Python"
-last_updated: "2026-08-01T13:07:42Z"
-discovered_at: "2026-08-01T13:16:33Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-01T13:07:42Z'
+discovered_at: '2026-08-01T13:16:33Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
