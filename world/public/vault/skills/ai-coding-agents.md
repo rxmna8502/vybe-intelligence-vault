@@ -18,13 +18,13 @@ AI coding agents significantly accelerate software development, automate repetit
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 5514 resources matched in the intelligence vault.
+Active signals: 5619 resources matched in the intelligence vault.
 Recently detected signals:
-- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-10-26
-- [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) (Source: Unknown Source) - Collected 2026-10-26
-- [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) (Source: Unknown Source) - Collected 2026-10-26
-- [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) (Source: Unknown Source) - Collected 2026-10-26
-- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-10-26
+- [Introducing react.dev](../web-development/introducing-react-dev.md) (Source: Unknown Source) - Collected 2026-10-28
+- [A Sentinel-2 benchmark dataset for deep-learning active-fire segmentation across 25 California wildfires, July 2020-August 2026](../ai/research/arxiv-2609-16199.md) (Source: Unknown Source) - Collected 2026-10-28
+- [FUSION: a skill-based research agent for publicly obtainable nuclear-physics codes](../ai/agents/arxiv-2609-04742.md) (Source: Unknown Source) - Collected 2026-10-28
+- [Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](../ai/rag/arxiv-2607-28591.md) (Source: Unknown Source) - Collected 2026-10-28
+- [LUMA: Benchmarking Segmentation via a Lightweight Universal Mask Adapter](../ai/research/arxiv-2607-00687.md) (Source: Unknown Source) - Collected 2026-10-28
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -45,15 +45,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Agentic RAG Implementation**: Demonstrates an agentic RAG system leveraging NVIDIA AI Workbench, integrating retrieval and generative AI workflows for dynamic, multi-step reasoning.
 
-### 4. [fetchai/innovation-lab-examples](../ai/rag/fetchai-innovation-lab-examples.md) ([GitHub](https://github.com/fetchai/innovation-lab-examples))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive AI Agent Examples**: Repository contains 80+ production-ready Python examples demonstrating autonomous agents, multi-agent systems, and agentic AI workflows using frameworks like ...
-
-### 5. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
+### 4. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
 - Stars: 0
 - Language: Unknown
 - Description: *   Full-stack architecture featuring FastAPI (Python) backend and Next.js (React/TypeScript) frontend, with PostgreSQL for data persistence.
+
+### 5. [fetchai/innovation-lab-examples](../ai/rag/fetchai-innovation-lab-examples.md) ([GitHub](https://github.com/fetchai/innovation-lab-examples))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive AI Agent Examples**: Repository contains 80+ production-ready Python examples demonstrating autonomous agents, multi-agent systems, and agentic AI workflows using frameworks like ...
 
 ### 6. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
 - Stars: 0
@@ -65,220 +65,220 @@ Recently detected signals:
 - Language: Unknown
 - Description: *   Provides Python-based examples for AI agent implementations.
 
-### 8. [enescingoz/awesome-n8n-templates](../ai/rag/enescingoz-awesome-n8n-templates.md) ([GitHub](https://github.com/enescingoz/awesome-n8n-templates))
-- Stars: 0
-- Language: Unknown
-- Description: *   Offers 280+ open-source n8n automation templates, facilitating low-code/no-code workflow integration across diverse platforms (e.g., Gmail, Telegram, OpenAI).
-
-### 9. [mongodb-developer/GenAI-Showcase](../ai/rag/mongodb-developer-genai-showcase.md) ([GitHub](https://github.com/mongodb-developer/genai-showcase))
-- Stars: 0
-- Language: Unknown
-- Description: *   Comprehensive GenAI showcase demonstrating Retrieval-Augmented Generation (RAG) and AI agent architectures.
-
-### 10. [airalab/autonomous_agent_template](../ai/rag/airalab-autonomous-agent-template.md) ([GitHub](https://github.com/airalab/autonomous_agent_template))
-- Stars: 0
-- Language: Unknown
-- Description: *   Python-based template for modular AIRA autonomous agent development.
-
-### 11. [freddy-schuetz/n8n-claw](../ai/rag/freddy-schuetz-n8n-claw.md) ([GitHub](https://github.com/freddy-schuetz/n8n-claw))
-- Stars: 0
-- Language: Unknown
-- Description: *   n8n-native autonomous AI agent framework, inspired by OpenClaw, enabling self-hosted deployment.
-
-### 12. [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md) ([GitHub](https://github.com/the-swarm-corporation/multi-agent-rag-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (using CrewAI, AutoGen, LangChain) to process, analyze, and extract insights from documents via Retrieval-Augmented G...
-
-### 13. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
+### 8. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
 - Stars: 0
 - Language: Unknown
 - Description: *   Explores multi-agent system architectures, detailing core components such as memory, planning, and iterative reasoning loops.
 
-### 14. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+### 9. [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md) ([GitHub](https://github.com/the-swarm-corporation/multi-agent-rag-template))
 - Stars: 0
 - Language: Unknown
-- Description: *   Offers in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI agent architectures.
+- Description: - **Multi-Agent RAG Framework**: Implements a collaborative system of AI agents (using CrewAI, AutoGen, LangChain) to process, analyze, and extract insights from documents via Retrieval-Augmented G...
 
-### 15. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 10. [enescingoz/awesome-n8n-templates](../ai/rag/enescingoz-awesome-n8n-templates.md) ([GitHub](https://github.com/enescingoz/awesome-n8n-templates))
 - Stars: 0
 - Language: Unknown
-- Description: *   Comprehensive AI Agent curriculum covering LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering for enterprise-grade deployment and fine-tuning.
+- Description: *   Offers 280+ open-source n8n automation templates, facilitating low-code/no-code workflow integration across diverse platforms (e.g., Gmail, Telegram, OpenAI).
 
-### 16. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
+### 11. [airalab/autonomous_agent_template](../ai/rag/airalab-autonomous-agent-template.md) ([GitHub](https://github.com/airalab/autonomous_agent_template))
+- Stars: 0
+- Language: Unknown
+- Description: *   Python-based template for modular AIRA autonomous agent development.
+
+### 12. [mongodb-developer/GenAI-Showcase](../ai/rag/mongodb-developer-genai-showcase.md) ([GitHub](https://github.com/mongodb-developer/genai-showcase))
+- Stars: 0
+- Language: Unknown
+- Description: *   Comprehensive GenAI showcase demonstrating Retrieval-Augmented Generation (RAG) and AI agent architectures.
+
+### 13. [freddy-schuetz/n8n-claw](../ai/rag/freddy-schuetz-n8n-claw.md) ([GitHub](https://github.com/freddy-schuetz/n8n-claw))
+- Stars: 0
+- Language: Unknown
+- Description: *   n8n-native autonomous AI agent framework, inspired by OpenClaw, enabling self-hosted deployment.
+
+### 14. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
 - Stars: 0
 - Language: Unknown
 - Description: *   Showcases advanced Retrieval-Augmented Generation (RAG) techniques via detailed Jupyter Notebook tutorials.
 
-### 17. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([GitHub](https://github.com/deepset-ai/haystack-cookbook))
+### 15. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([GitHub](https://github.com/deepset-ai/haystack-cookbook))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Repository of Jupyter Notebooks demonstrating practical applications of [Haystack](https://haystack.deepset.ai/) (a Python framework for building LLM-powered search and RAG pipelines).
+
+### 16. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+- Stars: 0
+- Language: Unknown
+- Description: *   Comprehensive AI Agent curriculum covering LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering for enterprise-grade deployment and fine-tuning.
+
+### 17. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+- Stars: 0
+- Language: Unknown
+- Description: *   Offers in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI agent architectures.
 
 ### 18. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` – A starter template for CrewAI, a Python-based framework for multi-agent AI systems.
 
-### 19. [run-llama/ParseBench](../ai/rag/run-llama-parsebench.md) ([GitHub](https://github.com/run-llama/parsebench))
-- Stars: 0
-- Language: Unknown
-- Description: *   `ParseBench` is a Python-based benchmark suite designed for evaluating AI agent performance in document parsing.
-
-### 20. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
-- Stars: 0
-- Language: Unknown
-- Description: *   Offers Jupyter Notebook-based recipes for implementing multimodal AI, RAG, and agent systems leveraging vector search.
-
-### 21. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
-- Stars: 0
-- Language: Unknown
-- Description: *   A trilingual (/EN/) learning roadmap for agentic AI, spanning foundational LLM concepts to advanced multi-agent system architectures.
-
-### 22. [scotthavird/crewai-template](../ai/rag/scotthavird-crewai-template.md) ([GitHub](https://github.com/scotthavird/crewai-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Dockerized Scaffolding**: Provides a minimal, pre-configured Docker Compose setup for rapid CrewAI project deployment, including essential services and networking.
-
-### 23. [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) ([GitHub](https://github.com/datarobot-community/datarobot-agent-templates))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: Provides reusable templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
-
-### 24. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+### 19. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
 - Stars: 0
 - Language: Unknown
 - Description: - **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scal...
 
-### 25. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
+### 20. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
 - Stars: 0
 - Language: Unknown
 - Description: *   TypeScript-based platform for AI agent orchestration and workflow automation.
+
+### 21. [vercel-labs/knowledge-agent-template](../ai/rag/vercel-labs-knowledge-agent-template.md) ([GitHub](https://github.com/vercel-labs/knowledge-agent-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Template Overview**: Open-source TypeScript-based template for building AI agents with file-system and knowledge base integration, enabling real-time updates and contextual awareness.
+
+### 22. [run-llama/ParseBench](../ai/rag/run-llama-parsebench.md) ([GitHub](https://github.com/run-llama/parsebench))
+- Stars: 0
+- Language: Unknown
+- Description: *   `ParseBench` is a Python-based benchmark suite designed for evaluating AI agent performance in document parsing.
+
+### 23. [scotthavird/crewai-template](../ai/rag/scotthavird-crewai-template.md) ([GitHub](https://github.com/scotthavird/crewai-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Dockerized Scaffolding**: Provides a minimal, pre-configured Docker Compose setup for rapid CrewAI project deployment, including essential services and networking.
+
+### 24. [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) ([GitHub](https://github.com/datarobot-community/datarobot-agent-templates))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Provides reusable templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+
+### 25. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+- Stars: 0
+- Language: Unknown
+- Description: *   A trilingual (/EN/) learning roadmap for agentic AI, spanning foundational LLM concepts to advanced multi-agent system architectures.
 
 ### 26. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a LangGraph-based template for integrating Model Context Protocol (MCP) in Python applications.
 
-### 27. [vercel-labs/knowledge-agent-template](../ai/rag/vercel-labs-knowledge-agent-template.md) ([GitHub](https://github.com/vercel-labs/knowledge-agent-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Template Overview**: Open-source TypeScript-based template for building AI agents with file-system and knowledge base integration, enabling real-time updates and contextual awareness.
-
-### 28. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
+### 27. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
 - Stars: 0
 - Language: Unknown
 - Description: *   Provides production-ready Python templates for rapid AI agent deployment to Google Cloud, integrating CI/CD pipelines.
 
-### 29. [rohitg00/agentmemory](../ai/rag/rohitg00-agentmemory.md) ([GitHub](https://github.com/rohitg00/agentmemory))
+### 28. [rohitg00/agentmemory](../ai/rag/rohitg00-agentmemory.md) ([GitHub](https://github.com/rohitg00/agentmemory))
 - Stars: 0
 - Language: Unknown
 - Description: - **Persistent Memory System**: Provides long-term storage and retrieval for AI coding agents, enabling context retention across sessions based on real-world benchmarks.
 
-### 30. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 29. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: *   Provides a from-scratch implementation of a RAG pipeline, demystifying core components like embeddings, vector search, retrieval, and context-augmented generation.
+
+### 30. [DeckardGer/tanstack-agent-skills](../ai/rag/deckardger-tanstack-agent-skills.md) ([GitHub](https://github.com/deckardger/tanstack-agent-skills))
+- Stars: 0
+- Language: Unknown
+- Description: *   Defines best practices for AI coding agents utilizing the TanStack ecosystem.
 
 ### 31. [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md) ([GitHub](https://github.com/nirdiamant/genai_agents))
 - Stars: 0
 - Language: Unknown
 - Description: *   **Comprehensive GenAI Agent Implementations**: Provides 50+ tutorials spanning foundational conversational bots to complex multi-agent systems.
 
-### 32. [DeckardGer/tanstack-agent-skills](../ai/rag/deckardger-tanstack-agent-skills.md) ([GitHub](https://github.com/deckardger/tanstack-agent-skills))
-- Stars: 0
-- Language: Unknown
-- Description: *   Defines best practices for AI coding agents utilizing the TanStack ecosystem.
-
-### 33. [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) ([GitHub](https://github.com/datawhalechina/hello-agents))
+### 32. [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) ([GitHub](https://github.com/datawhalechina/hello-agents))
 - Stars: 0
 - Language: Unknown
 - Description: *   Python-based tutorial for foundational intelligent agent construction.
 
-### 34. [microsoft/promptflow-rag-project-template](../ai/rag/microsoft-promptflow-rag-project-template.md) ([GitHub](https://github.com/microsoft/promptflow-rag-project-template))
+### 33. [microsoft/promptflow-rag-project-template](../ai/rag/microsoft-promptflow-rag-project-template.md) ([GitHub](https://github.com/microsoft/promptflow-rag-project-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **End-to-end RAG pipeline**: Demonstrates Retrieval-Augmented Generation (RAG) workflow integrating development, evaluation, experimentation, and deployment using **Promptflow**.
 
-### 35. [nexu-io/open-design](../ai/rag/nexu-io-open-design.md) ([GitHub](https://github.com/nexu-io/open-design))
+### 34. [trpc-group/trpc-agent-go](../ai/rag/trpc-group-trpc-agent-go.md) ([GitHub](https://github.com/trpc-group/trpc-agent-go))
 - Stars: 0
 - Language: Unknown
-- Description: *   Local-first, open-source collaborative workspace leveraging AI agents for multi-modal design generation (e.g., UI/UX, motion, media).
+- Description: A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.
 
-### 36. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
-- Stars: 0
-- Language: Unknown
-- Description: *   Implements RAG best practices for retrieval backend architectures.
-
-### 37. [Azure/GenAIOps-project-template](../ai/rag/azure-genaiops-project-template.md) ([GitHub](https://github.com/azure/genaiops-project-template))
-- Stars: 0
-- Language: Unknown
-- Description: *   Provides a foundational template for Generative AI Operations (GenAIOps) projects, specifically targeting Retrieval Augmented Generation (RAG) architectures.
-
-### 38. [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md) ([GitHub](https://github.com/sjseo298/spring-ai-template))
-- Stars: 0
-- Language: Unknown
-- Description: A modern starter template for building AI agents and applications using Java 21, Spring Boot 4, and Spring AI 2.0.0-M1. Pre-configured with OpenAI support, Maven Wrapper, and best practices for cre...
-
-### 39. [Phala-Network/ai-agent-template-openai](../ai/rag/phala-network-ai-agent-template-openai.md) ([GitHub](https://github.com/phala-network/ai-agent-template-openai))
-- Stars: 0
-- Language: Unknown
-- Description: - **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI agent deployment and interaction.
-
-### 40. [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([GitHub](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart))
-- Stars: 0
-- Language: Unknown
-- Description: - **Framework Integration**: Demonstrates full-stack agent development using **Gemini 2.5** and **LangGraph**, enabling structured multi-agent workflows with stateful graph-based orchestration.
-
-### 41. [vercel-labs/coding-agent-template](../ai/rag/vercel-labs-coding-agent-template.md) ([GitHub](https://github.com/vercel-labs/coding-agent-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution environments and AI Gateway for optimized AI model interactions.
-
-### 42. [devloperdevesh/EnterpriseRAG-AI](../ai/rag/devloperdevesh-enterpriserag-ai.md) ([GitHub](https://github.com/devloperdevesh/enterpriserag-ai))
-- Stars: 0
-- Language: Unknown
-- Description: *   Utilizes eBPF for Linux-native, kernel-level security and governance enforcement.
-
-### 43. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
-- Stars: 0
-- Language: Unknown
-- Description: *   Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (RAG).
-
-### 44. [vercel-labs/workflow-builder-template](../ai/rag/vercel-labs-workflow-builder-template.md) ([GitHub](https://github.com/vercel-labs/workflow-builder-template))
-- Stars: 0
-- Language: Unknown
-- Description: - **TypeScript-based Visual AI Workflow Automation**: A platform enabling drag-and-drop construction of AI-driven workflows with TypeScript for custom logic and Vercel integration for deployment.
-
-### 45. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops.md) ([GitHub](https://github.com/wagneragent/awesome-mcp-servers-devops))
-- Stars: 0
-- Language: Unknown
-- Description: A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintain...
-
-### 46. [deepset-ai/haystack](../ai/rag/deepset-ai-haystack.md) ([GitHub](https://github.com/deepset-ai/haystack))
-- Stars: 0
-- Language: Unknown
-- Description: - **Modular AI Orchestration**: Python-based framework enabling construction of scalable, production-ready LLM applications via customizable pipelines and agent workflows with explicit control over...
-
-### 47. [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md) ([GitHub](https://github.com/tonykipkemboi/trip_planner_agent))
+### 35. [tonykipkemboi/trip_planner_agent](../ai/rag/tonykipkemboi-trip-planner-agent.md) ([GitHub](https://github.com/tonykipkemboi/trip_planner_agent))
 - Stars: 0
 - Language: Unknown
 - Description: *   CrewAI-orchestrated multi-agent system implemented in Python for vacation planning.
 
-### 48. [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md) ([GitHub](https://github.com/tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials))
+### 36. [devloperdevesh/EnterpriseRAG-AI](../ai/rag/devloperdevesh-enterpriserag-ai.md) ([GitHub](https://github.com/devloperdevesh/enterpriserag-ai))
 - Stars: 0
 - Language: Unknown
-- Description: *   Provides portable, hands-on AI/ML/DL curricula deployable across Colab, Kaggle, Binder, Codespaces, and Jupyter environments.
+- Description: *   Utilizes eBPF for Linux-native, kernel-level security and governance enforcement.
 
-### 49. [Pinecone · GitHub](../ai/rag/pinecone-github.md) ([GitHub](https://github.com/pinecone-io))
+### 37. [NVIDIA/workbench-example-hybrid-rag](../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-hybrid-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Vector Database Specialization**: Pinecone is a purpose-built vector database designed to enable AI applications with long-term memory and contextual data retrieval, leveraging approximate near...
+- Description: *   Implements a hybrid Retrieval Augmented Generation (RAG) architecture.
 
-### 50. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
+### 38. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
+- Stars: 0
+- Language: Unknown
+- Description: *   Implements RAG best practices for retrieval backend architectures.
+
+### 39. [deepset-ai/haystack](../ai/rag/deepset-ai-haystack.md) ([GitHub](https://github.com/deepset-ai/haystack))
+- Stars: 0
+- Language: Unknown
+- Description: - **Modular AI Orchestration**: Python-based framework enabling construction of scalable, production-ready LLM applications via customizable pipelines and agent workflows with explicit control over...
+
+### 40. [Phala-Network/ai-agent-template-openai](../ai/rag/phala-network-ai-agent-template-openai.md) ([GitHub](https://github.com/phala-network/ai-agent-template-openai))
+- Stars: 0
+- Language: Unknown
+- Description: - **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI agent deployment and interaction.
+
+### 41. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
+- Stars: 0
+- Language: Unknown
+- Description: *   Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (RAG).
+
+### 42. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-agent knowledge engine**: Enables grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI), leveraging RAG and knowledge graphs for codebase-specific res...
+
+### 43. [agentuniverse-ai/agentUniverse](../ai/rag/agentuniverse-ai-agentuniverse.md) ([GitHub](https://github.com/agentuniverse-ai/agentuniverse))
+- Stars: 0
+- Language: Unknown
+- Description: *   Python-based LLM multi-agent framework for streamlined development of multi-agent applications.
+
+### 44. [nexu-io/open-design](../ai/rag/nexu-io-open-design.md) ([GitHub](https://github.com/nexu-io/open-design))
+- Stars: 0
+- Language: Unknown
+- Description: *   Local-first, open-source collaborative workspace leveraging AI agents for multi-modal design generation (e.g., UI/UX, motion, media).
+
+### 45. [Azure/GenAIOps-project-template](../ai/rag/azure-genaiops-project-template.md) ([GitHub](https://github.com/azure/genaiops-project-template))
+- Stars: 0
+- Language: Unknown
+- Description: *   Provides a foundational template for Generative AI Operations (GenAIOps) projects, specifically targeting Retrieval Augmented Generation (RAG) architectures.
+
+### 46. [bojieli/ai-agent-book](../ai/rag/bojieli-ai-agent-book.md) ([GitHub](https://github.com/bojieli/ai-agent-book))
+- Stars: 0
+- Language: Unknown
+- Description: *   Open-source repository for a comprehensive book on AI Agent design principles and engineering
+
+### 47. [vercel-labs/workflow-builder-template](../ai/rag/vercel-labs-workflow-builder-template.md) ([GitHub](https://github.com/vercel-labs/workflow-builder-template))
+- Stars: 0
+- Language: Unknown
+- Description: - **TypeScript-based Visual AI Workflow Automation**: A platform enabling drag-and-drop construction of AI-driven workflows with TypeScript for custom logic and Vercel integration for deployment.
+
+### 48. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
 - Stars: 0
 - Language: Unknown
 - Description: *   TypeScript-based RAG application featuring integrated Langfuse for LLM observability.
+
+### 49. [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md) ([GitHub](https://github.com/airweave-ai/airweave))
+- Stars: 0
+- Language: Unknown
+- Description: *   Python-based open-source context retrieval layer for AI agents, specializing in RAG and semantic search.
+
+### 50. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops.md) ([GitHub](https://github.com/wagneragent/awesome-mcp-servers-devops))
+- Stars: 0
+- Language: Unknown
+- Description: A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintain...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-10-26T04:26:35.118545+05:30.542074+05:30.962460+05:30.665814+05:30.051796+05:30.984535+05:30.172237+05:30.064721+05:30.703383+05:30.438133+05:30.168292+05:30.308995+05:30.913558+05:30.638480+05:30.472672+05:30.130378+05:30.199425+05:30.435851+05:30.685362+05:30.670754+05:30.101474+05:30.862046+05:30.446143+05:30.623891+05:30.884137+05:30.302943+05:30.931456+05:30.542944+05:30.998719+05:30.767502+05:30.212114+05:30.542137+05:30.882160+05:30.732456+05:30.737374+05:30.722030+05:30.359288+05:30.549043+05:30.124901+05:30.076292+05:30.336216+05:30.525134+05:30.401081+05:30.360362+05:30.894302+05:30.768597+05:30.456989+05:30.150463+05:30.686701+05:30.842020+05:30.420398+05:30.512281+05:30.807382+05:30.249866+05:30.873830+05:30.406026+05:30.595036+05:30.263771+05:30.496457+05:30.145644+05:30.829184+05:30.805450+05:30.036401+05:30.470683+05:30.174453+05:30.879907+05:30.315340+05:30.424631+05:30.011009+05:30.949960+05:30.657213+05:30.787139+05:30.134787+05:30.832303+05:30.266758+05:30.327248+05:30.181673+05:30.435392+05:30.702188+05:30.250425+05:30.237547+05:30.934549+05:30.835994+05:30.403166+05:30.248253+05:30.844445+05:30.869345+05:30.856596+05:30.233865+05:30.712796+05:30.940488+05:30.564304+05:30.413230+05:30.008020+05:30.032305+05:30.286283+05:30.923953+05:30.065938+05:30.200046+05:30.024952+05:30.921249+05:30.917804+05:30.086301+05:30.571015+05:30.843032+05:30.335245+05:30.134402+05:30.962374+05:30.410091+05:30.242226+05:30.039945+05:30.324780+05:30.973157+05:30.197708+05:30.114036+05:30.029541+05:30.438568+05:30.677587+05:30.612603+05:30.238746+05:30.285237+05:30.303219+05:30.720169+05:30.815765+05:30.052793+05:30.610533+05:30.450708+05:30.474430+05:30.884787+05:30.241294+05:30.290048+05:30.902350+05:30.526152+05:30.612511+05:30.915595+05:30.558669+05:30.638822+05:30.327690+05:30.517133+05:30.600050+05:30.961022+05:30.279256+05:30.225505+05:30.204493+05:30.363407+05:30.696198+05:30.545924+05:30.262721+05:30.034979+05:30.461679+05:30.812916+05:30.213285+05:30.348904+05:30.171885+05:30.800029+05:30.307334+05:30.266839+05:30.884153+05:30.162327+05:30.886734+05:30.605424+05:30.490067+05:30.518126+05:30.792415+05:30.566167+05:30.641313+05:30.849774+05:30.682511+05:30.990665+05:30.892229+05:30.614019+05:30.186030+05:30.892350+05:30.562440+05:30.644597+05:30.194871+05:30.904791+05:30.600131+05:30.942165+05:30.066054+05:30.409911+05:30.172871+05:30.754928+05:30.973608+05:30.784026+05:30.416136+05:30.802148+05:30.429749+05:30.355267+05:30.633246+05:30.157305+05:30.899623+05:30.723541+05:30.353509+05:30.516007+05:30.116672+05:30.921253+05:30.912120+05:30.753323+05:30.249066+05:30.599790+05:30.579001+05:30.194719+05:30.156360+05:30.651718+05:30.960904+05:30.684374+05:30.196000+05:30.713356+05:30.816207+05:30.522680+05:30.120788+05:30.312844+05:30.751707+05:30.298131+05:30.407451+05:30.582678+05:30.040628+05:30.700520+05:30.925216+05:30.451686+05:30.649865+05:30.085129+05:30.882936+05:30.637874+05:30.585759+05:30.294846+05:30.512060+05:30.980941+05:30.350935+05:30.782652+05:30.167251+05:30.711080+05:30.726559+05:30.712379+05:30.548310+05:30.253267+05:30.887686+05:30.557760+05:30.162837+05:30.780105+05:30.584822+05:30.173134+05:30.448027+05:30.619657+05:30.804424+05:30.172568+05:30.967430+05:30.226846+05:30.946242+05:30.242800+05:30.295406+05:30.399006+05:30.262436+05:30.345872+05:30.724120+05:30.225088+05:30.932011+05:30.633129+05:30.273607+05:30.016898+05:30.427141+05:30.292786+05:30.876041+05:30.511222+05:30.755089+05:30.877643+05:30.472838+05:30.972940+05:30.282143+05:30.860860+05:30.216710+05:30.584907+05:30.392591+05:30.969338+05:30.662348+05:30.121675+05:30.463001+05:30.038752+05:30.335975+05:30.527311+05:30.647580+05:30.176538+05:30.675949+05:30.814766+05:30.467674+05:30.542727+05:30.832679+05:30.608457+05:30.896878+05:30.214818+05:30.517652+05:30.327589+05:30.679164+05:30.381444+05:30.661615+05:30.420661+05:30.251957+05:30.897232+05:30.501325+05:30.889453+05:30.221282+05:30.064320+05:30.968806+05:30.075846+05:30.202740+05:30.957536+05:30.717627+05:30.438561+05:30.570207+05:30.326507+05:30.683467+05:30.188797+05:30.954788+05:30.182883+05:30.421995+05:30.113794+05:30.043842+05:30.767521+05:30.817824+05:30.908117+05:30.960387+05:30.033628+05:30.072141+05:30.920067+05:30.192285+05:30.722116+05:30.103486+05:30.613969+05:30.656238+05:30.445623+05:30.066026+05:30.504262+05:30.164390+05:30.488502+05:30.672434+05:30.012498+05:30.619441+05:30.514324+05:30.619861+05:30.307998+05:30.912206+05:30.688289+05:30.889456+05:30.740709+05:30.481915+05:30.413274+05:30.345936+05:30.150979+05:30.362309+05:30.718004+05:30.785223+05:30.342397+05:30.993544+05:30.450703+05:30.661819+05:30.709053+05:30.975521+05:30.024826+05:30.183216+05:30.908212+05:30.384735+05:30.471316+05:30.038884+05:30.671787+05:30.986586+05:30.198718+05:30.698894+05:30.013870+05:30.299237+05:30.398183+05:30.962039+05:30.161182+05:30.714843+05:30.740598+05:30.724199+05:30.080369+05:30.832024+05:30.473051+05:30.062451+05:30.530687+05:30.859564+05:30.759842+05:30.427153+05:30.750850+05:30.203704+05:30.369973+05:30.847757+05:30.326684+05:30.974464+05:30.506640+05:30.055680+05:30.193657+05:30.488131+05:30.273766+05:30.188970+05:30.865834+05:30.330302+05:30.654625+05:30.136975+05:30.226915+05:30.813995+05:30.920803+05:30.530935+05:30.678308+05:30.205298+05:30.909448+05:30.831038+05:30.674648+05:30.896853+05:30.443897+05:30.655870+05:30.335246+05:30.568236+05:30.373790+05:30.948485+05:30.089418+05:30.171361+05:30.986541+05:30.557631+05:30.775969+05:30.938757+05:30.938246+05:30.513065+05:30.660160+05:30.572503+05:30.039137+05:30.789149+05:30.019152+05:30.347958+05:30.741001+05:30.239547+05:30.747176+05:30.414057+05:30.904400+05:30.323405+05:30.107706+05:30.170669+05:30.068585+05:30.280129+05:30.162593+05:30.940263+05:30.995068+05:30.573544+05:30.482556+05:30.643800+05:30.871812+05:30.299298+05:30.157873+05:30.563683+05:30.715782+05:30.770701+05:30.621226+05:30.511112+05:30.573098+05:30.345637+05:30.505232+05:30.175469+05:30.305821+05:30.680986+05:30.021592+05:30.018335+05:30.331226+05:30.315116+05:30.824967+05:30.766293+05:30.903732+05:30.380272+05:30.392506+05:30.462736+05:30.808132+05:30.328060+05:30.633954+05:30.456034+05:30.807694+05:30.009886+05:30.700572+05:30.962828+05:30.444093+05:30.493168+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-10-28T11:46:40.039324+05:30.118545+05:30.542074+05:30.962460+05:30.665814+05:30.051796+05:30.984535+05:30.172237+05:30.064721+05:30.703383+05:30.438133+05:30.168292+05:30.308995+05:30.913558+05:30.638480+05:30.472672+05:30.130378+05:30.199425+05:30.435851+05:30.685362+05:30.670754+05:30.101474+05:30.862046+05:30.446143+05:30.623891+05:30.884137+05:30.302943+05:30.931456+05:30.542944+05:30.998719+05:30.767502+05:30.212114+05:30.542137+05:30.882160+05:30.732456+05:30.737374+05:30.722030+05:30.359288+05:30.549043+05:30.124901+05:30.076292+05:30.336216+05:30.525134+05:30.401081+05:30.360362+05:30.894302+05:30.768597+05:30.456989+05:30.150463+05:30.686701+05:30.842020+05:30.420398+05:30.512281+05:30.807382+05:30.249866+05:30.873830+05:30.406026+05:30.595036+05:30.263771+05:30.496457+05:30.145644+05:30.829184+05:30.805450+05:30.036401+05:30.470683+05:30.174453+05:30.879907+05:30.315340+05:30.424631+05:30.011009+05:30.949960+05:30.657213+05:30.787139+05:30.134787+05:30.832303+05:30.266758+05:30.327248+05:30.181673+05:30.435392+05:30.702188+05:30.250425+05:30.237547+05:30.934549+05:30.835994+05:30.403166+05:30.248253+05:30.844445+05:30.869345+05:30.856596+05:30.233865+05:30.712796+05:30.940488+05:30.564304+05:30.413230+05:30.008020+05:30.032305+05:30.286283+05:30.923953+05:30.065938+05:30.200046+05:30.024952+05:30.921249+05:30.917804+05:30.086301+05:30.571015+05:30.843032+05:30.335245+05:30.134402+05:30.962374+05:30.410091+05:30.242226+05:30.039945+05:30.324780+05:30.973157+05:30.197708+05:30.114036+05:30.029541+05:30.438568+05:30.677587+05:30.612603+05:30.238746+05:30.285237+05:30.303219+05:30.720169+05:30.815765+05:30.052793+05:30.610533+05:30.450708+05:30.474430+05:30.884787+05:30.241294+05:30.290048+05:30.902350+05:30.526152+05:30.612511+05:30.915595+05:30.558669+05:30.638822+05:30.327690+05:30.517133+05:30.600050+05:30.961022+05:30.279256+05:30.225505+05:30.204493+05:30.363407+05:30.696198+05:30.545924+05:30.262721+05:30.034979+05:30.461679+05:30.812916+05:30.213285+05:30.348904+05:30.171885+05:30.800029+05:30.307334+05:30.266839+05:30.884153+05:30.162327+05:30.886734+05:30.605424+05:30.490067+05:30.518126+05:30.792415+05:30.566167+05:30.641313+05:30.849774+05:30.682511+05:30.990665+05:30.892229+05:30.614019+05:30.186030+05:30.892350+05:30.562440+05:30.644597+05:30.194871+05:30.904791+05:30.600131+05:30.942165+05:30.066054+05:30.409911+05:30.172871+05:30.754928+05:30.973608+05:30.784026+05:30.416136+05:30.802148+05:30.429749+05:30.355267+05:30.633246+05:30.157305+05:30.899623+05:30.723541+05:30.353509+05:30.516007+05:30.116672+05:30.921253+05:30.912120+05:30.753323+05:30.249066+05:30.599790+05:30.579001+05:30.194719+05:30.156360+05:30.651718+05:30.960904+05:30.684374+05:30.196000+05:30.713356+05:30.816207+05:30.522680+05:30.120788+05:30.312844+05:30.751707+05:30.298131+05:30.407451+05:30.582678+05:30.040628+05:30.700520+05:30.925216+05:30.451686+05:30.649865+05:30.085129+05:30.882936+05:30.637874+05:30.585759+05:30.294846+05:30.512060+05:30.980941+05:30.350935+05:30.782652+05:30.167251+05:30.711080+05:30.726559+05:30.712379+05:30.548310+05:30.253267+05:30.887686+05:30.557760+05:30.162837+05:30.780105+05:30.584822+05:30.173134+05:30.448027+05:30.619657+05:30.804424+05:30.172568+05:30.967430+05:30.226846+05:30.946242+05:30.242800+05:30.295406+05:30.399006+05:30.262436+05:30.345872+05:30.724120+05:30.225088+05:30.932011+05:30.633129+05:30.273607+05:30.016898+05:30.427141+05:30.292786+05:30.876041+05:30.511222+05:30.755089+05:30.877643+05:30.472838+05:30.972940+05:30.282143+05:30.860860+05:30.216710+05:30.584907+05:30.392591+05:30.969338+05:30.662348+05:30.121675+05:30.463001+05:30.038752+05:30.335975+05:30.527311+05:30.647580+05:30.176538+05:30.675949+05:30.814766+05:30.467674+05:30.542727+05:30.832679+05:30.608457+05:30.896878+05:30.214818+05:30.517652+05:30.327589+05:30.679164+05:30.381444+05:30.661615+05:30.420661+05:30.251957+05:30.897232+05:30.501325+05:30.889453+05:30.221282+05:30.064320+05:30.968806+05:30.075846+05:30.202740+05:30.957536+05:30.717627+05:30.438561+05:30.570207+05:30.326507+05:30.683467+05:30.188797+05:30.954788+05:30.182883+05:30.421995+05:30.113794+05:30.043842+05:30.767521+05:30.817824+05:30.908117+05:30.960387+05:30.033628+05:30.072141+05:30.920067+05:30.192285+05:30.722116+05:30.103486+05:30.613969+05:30.656238+05:30.445623+05:30.066026+05:30.504262+05:30.164390+05:30.488502+05:30.672434+05:30.012498+05:30.619441+05:30.514324+05:30.619861+05:30.307998+05:30.912206+05:30.688289+05:30.889456+05:30.740709+05:30.481915+05:30.413274+05:30.345936+05:30.150979+05:30.362309+05:30.718004+05:30.785223+05:30.342397+05:30.993544+05:30.450703+05:30.661819+05:30.709053+05:30.975521+05:30.024826+05:30.183216+05:30.908212+05:30.384735+05:30.471316+05:30.038884+05:30.671787+05:30.986586+05:30.198718+05:30.698894+05:30.013870+05:30.299237+05:30.398183+05:30.962039+05:30.161182+05:30.714843+05:30.740598+05:30.724199+05:30.080369+05:30.832024+05:30.473051+05:30.062451+05:30.530687+05:30.859564+05:30.759842+05:30.427153+05:30.750850+05:30.203704+05:30.369973+05:30.847757+05:30.326684+05:30.974464+05:30.506640+05:30.055680+05:30.193657+05:30.488131+05:30.273766+05:30.188970+05:30.865834+05:30.330302+05:30.654625+05:30.136975+05:30.226915+05:30.813995+05:30.920803+05:30.530935+05:30.678308+05:30.205298+05:30.909448+05:30.831038+05:30.674648+05:30.896853+05:30.443897+05:30.655870+05:30.335246+05:30.568236+05:30.373790+05:30.948485+05:30.089418+05:30.171361+05:30.986541+05:30.557631+05:30.775969+05:30.938757+05:30.938246+05:30.513065+05:30.660160+05:30.572503+05:30.039137+05:30.789149+05:30.019152+05:30.347958+05:30.741001+05:30.239547+05:30.747176+05:30.414057+05:30.904400+05:30.323405+05:30.107706+05:30.170669+05:30.068585+05:30.280129+05:30.162593+05:30.940263+05:30.995068+05:30.573544+05:30.482556+05:30.643800+05:30.871812+05:30.299298+05:30.157873+05:30.563683+05:30.715782+05:30.770701+05:30.621226+05:30.511112+05:30.573098+05:30.345637+05:30.505232+05:30.175469+05:30.305821+05:30.680986+05:30.021592+05:30.018335+05:30.331226+05:30.315116+05:30.824967+05:30.766293+05:30.903732+05:30.380272+05:30.392506+05:30.462736+05:30.808132+05:30.328060+05:30.633954+05:30.456034+05:30.807694+05:30.009886+05:30.700572+05:30.962828+05:30.444093+05:30.493168+05:30.
