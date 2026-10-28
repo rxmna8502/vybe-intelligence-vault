@@ -1,58 +1,49 @@
 ---
-title: "kud/mcp-youtube"
+title: "pipeworx-io/mcp-youtube"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "Google YouTube Data API v3", "OAuth 2.0", "Zod", "Vitest", "npm"]
-quality_score: 9
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "YouTube Data API v3", "REST", "Node.js"]
+quality_score: 7
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["YouTube API", "MCP server", "media management", "OAuth integration", "quota-aware"]
-source: "https://github.com/kud/mcp-youtube"
+deployment_complexity: "Low"
+tags: ["YouTube", "MCP", "API wrapper", "data retrieval", "AI agents"]
+source: "https://github.com/pipeworx-io/mcp-youtube"
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-11T23:38:45Z"
-discovered_at: "2026-07-11T23:54:03Z"
+language: "TypeScript"
+last_updated: "2026-08-04T07:31:59Z"
+discovered_at: "2026-08-04T07:41:48Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A TypeScript-based MCP server providing full YouTube Data API v3 integration, enabling conversational access to playlists, videos, channels, comments, captions, and media management through any MCP-compatible client.
+mcp-youtube is a Model Context Protocol (MCP) server that wraps the YouTube Data API v3, enabling AI agents to search, retrieve video details, channel information, and comments from YouTube. It is part of the Pipeworx gateway, which connects AI agents to over 1,394 live data sources.
 
 ## Key Features
-- Full YouTube Data API v3 coverage with 52 tools for playlists, videos, channels, comments, captions, and media
-- Quota-aware design with documented costs for every tool to prevent API abuse
-- Guarded destructive actions requiring explicit confirmation to prevent accidental data loss
-- Safe bulk cleanup with dry-run support for playlists (e.g., removing tombstones and duplicates)
-- One-time OAuth setup with refresh token support for long-term access
+- Provides MCP-compatible tools for YouTube data access (search, video details, channel info, comments)
+- Integrates with Pipeworx gateway for unified access to 1,394+ data sources
+- Supports plain English queries via ask_pipeworx for simplified agent interactions
+- Returns structured metadata including titles, descriptions, statistics, and thumbnails
+- Requires BYO YouTube API key for authentication
 
 ## Why It Matters for RAG Builders
-It provides essential YouTube API integration for AI agents and RAG systems, enabling automated media management, content retrieval, and playlist cleanup with built-in safeguards against API quota exhaustion.
+It enables AI agents to seamlessly integrate YouTube data into RAG pipelines, enhancing context with real-time video, channel, and comment information.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### YouTube Data API v3
+Automated review identified **YouTube Data API v3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### REST
+Automated review identified **REST** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Google YouTube Data API v3
-Automated review identified **Google YouTube Data API v3** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OAuth 2.0
-Automated review identified **OAuth 2.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Zod
-Automated review identified **Zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Vitest
-Automated review identified **Vitest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### npm
-Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

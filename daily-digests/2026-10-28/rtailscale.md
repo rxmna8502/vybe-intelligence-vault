@@ -1,33 +1,33 @@
 ---
-title: "jmagar/rtailscale"
+title: "dinglebear-ai/rtailscale"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "Tailscale REST API", "HTTP", "CLI", "Docker"]
+tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "CLI", "Docker", "npm"]
 quality_score: 9
-rag_relevance: 7
+rag_relevance: 8
 deployment_complexity: "Medium"
 tags: ["Tailscale", "MCP server", "tailnet management", "device automation", "Rust tooling"]
-source: "https://github.com/jmagar/rtailscale"
+source: "https://github.com/dinglebear-ai/rtailscale"
 stars: 4
 language: "Rust"
-last_updated: "2026-07-19T23:47:30Z"
-discovered_at: "2026-07-19T23:56:03Z"
+last_updated: "2026-08-01T03:35:54Z"
+discovered_at: "2026-08-01T03:44:14Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A Rust-based MCP server and CLI for managing Tailscale tailnets via the Tailscale REST API. It provides read/write access to devices, routes, keys, policies, and users, with explicit safety gates for destructive operations.
+A Rust-based MCP server and CLI for Tailscale that enables programmatic inspection and management of tailnet devices, routes, users, keys, DNS, and ACL policies via stdio or HTTP. It provides secure, agent-friendly automation for Tailscale operations without replacing the official admin console.
 
 ## Key Features
-- Exposes a single MCP tool (`tailscale`) for tailnet operations including listing devices, routes, keys, policies, and users
-- Supports both MCP stdio and HTTP modes for local and shared deployments
-- Implements explicit safety gates for destructive actions (e.g., device deletion requires confirmation and opt-in)
-- Provides a CLI (`rtailscale`) for parity and debugging with JSON output
-- Supports authentication via static bearer tokens, OAuth, or trusted gateways
+- Exposes a single MCP tool (`tailscale`) for read/write operations on tailnet resources
+- Supports both stdio and HTTP MCP runtime surfaces for local and shared deployments
+- Implements strict safety gates for destructive actions (e.g., device deletion requires explicit confirmation)
+- Provides a CLI (`rtailscale`) for parity with MCP operations and debugging
+- Offers OAuth and static bearer token authentication for HTTP MCP deployments
 
 ## Why It Matters for RAG Builders
-It enables AI agents to programmatically manage Tailscale tailnets, automating device authorization and monitoring without exposing raw API keys to agents.
+It enables AI agents and automation tools to securely interact with Tailscale tailnets for device management, reducing manual admin overhead and integrating tailnet operations into AI-driven workflows.
 
 ## Tech Stack Deep Dive
 ### Rust
@@ -35,9 +35,6 @@ Automated review identified **Rust** as a key module contributing to infrastruct
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Tailscale REST API
-Automated review identified **Tailscale REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### HTTP
 Automated review identified **HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -47,6 +44,9 @@ Automated review identified **CLI** as a key module contributing to infrastructu
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

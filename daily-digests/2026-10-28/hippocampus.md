@@ -1,49 +1,70 @@
 ---
-title: "z10-labs/hippocampus"
+title: "karrolcia/hippocampus"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Markdown", "Embedding models", "MCP (Model Context Protocol)", "Git"]
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "SQLite", "SQLCipher", "Docker", "Caddy", "Cloudflare Tunnel", "Fly.io", "Embedding models (all-MiniLM-L6-v2)", "OAuth", "JWT"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["decision memory", "MCP server", "AI coding agents", "architectural decisions", "documentation"]
-source: "https://github.com/z10-labs/hippocampus"
-stars: 0
-language: "Python"
-last_updated: "2026-08-03T16:24:42Z"
-discovered_at: "2026-08-03T16:25:37Z"
+rag_relevance: 10
+deployment_complexity: "Medium"
+tags: ["MCP server", "memory persistence", "cross-platform AI", "knowledge graph", "semantic search"]
+source: "https://github.com/karrolcia/hippocampus"
+stars: 13
+language: "TypeScript"
+last_updated: "2026-07-17T12:04:07Z"
+discovered_at: "2026-07-17T12:08:49Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Hippocampus is an MCP server that provides decision memory for AI coding agents by recording, querying, and reasoning about architectural decisions in a repository. It enables agents to recall past decisions, dependencies, and trade-offs before making new choices.
+Hippocampus is an open-source, self-hosted MCP memory server that provides universal memory for AI across all platforms. It enables persistent context sharing between different AI tools (Claude, ChatGPT, Gemini, etc.) via a centralized knowledge graph with semantic search and encryption.
 
 ## Key Features
-- Records decisions as plain markdown files in `.decisions/records/` for version control and readability
-- Provides five MCP tools (`query`, `log`, `classify`, `list`, `chain`) for decision retrieval and logging
-- Supports decision graph traversal (inbound/outbound relationships) to understand dependencies and blast radius
-- Offline-first with local embeddings and no external dependencies
-- Validated against autonomous agents in a real-world TypeScript job processor scenario
+- Centralized memory server for AI tools via MCP protocol
+- Knowledge graph with entities, observations, and relationships
+- Semantic search with local embeddings and encryption (SQLCipher)
+- Multi-platform support (Claude, ChatGPT, Gemini, Cursor, etc.)
+- Advanced memory lifecycle management (novelty scoring, sleep mode, consolidation)
 
 ## Why It Matters for RAG Builders
-It ensures AI agents make informed decisions by preserving institutional knowledge and reasoning about past architectural choices, reducing redundant debates and errors.
+Hippocampus eliminates context silos between AI platforms, enabling seamless memory persistence and continuity for RAG builders and AI-powered applications.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Embedding models
-Automated review identified **Embedding models** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SQLCipher
+Automated review identified **SQLCipher** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Caddy
+Automated review identified **Caddy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Cloudflare Tunnel
+Automated review identified **Cloudflare Tunnel** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Fly.io
+Automated review identified **Fly.io** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Embedding models (all-MiniLM-L6-v2)
+Automated review identified **Embedding models (all-MiniLM-L6-v2)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JWT
+Automated review identified **JWT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

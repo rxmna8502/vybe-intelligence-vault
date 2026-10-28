@@ -1,64 +1,55 @@
 ---
-title: "majiayu000/harness"
+title: "dommaker/harness"
 content_type: "repo"
 engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "Starlark", "PostgreSQL", "OpenTelemetry", "JSON-RPC", "Claude Code CLI", "Codex CLI", "Anthropic API", "GitHub Webhooks", "MCP Server"]
+category: "Tooling"
+tech_stack: ["TypeScript", "Node.js", "CLI", "YAML", "JSON", "Git", "Sandboxing"]
 quality_score: 9
-rag_relevance: 10
-deployment_complexity: "High"
-tags: ["multi-agent orchestration", "policy engine", "observability", "AI governance", "autonomous agents"]
-source: "https://github.com/majiayu000/harness"
-stars: 41
-language: "Rust"
-last_updated: "2026-07-11T16:53:10Z"
-discovered_at: "2026-07-11T16:55:51Z"
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["AI agent constraints", "runtime enforcement", "knowledge preservation", "constraint lifecycle", "sandboxing"]
+source: "https://github.com/dommaker/harness"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-08-08T08:40:22Z"
+discovered_at: "2026-08-08T08:42:30Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Harness is a Rust-native control plane for orchestrating fleets of AI coding agents (e.g., Claude Code, Codex) with governance, policy enforcement, and observability. It standardizes agent lifecycle management, cross-agent review, and automated remediation for scalable AI-driven development workflows.
+A universal AI agent engineering constraint framework that enforces runtime checks, automates constraint degradation based on interception rates, and preserves knowledge in a retrievable KnowledgeStore for RAG systems.
 
 ## Key Features
-- Parallel fleet orchestration with unified lifecycle management for AI coding agents
-- Starlark-based policy engine for sandboxed rule evaluation and governance
-- Automated cross-agent code review to prevent self-review and ensure quality
-- OpenTelemetry-native observability with async-safe trace and metric export
-- GitHub webhook automation for triggering tasks from issue comments and PR reviews
+- Three-tier constraint system (Iron Law, Guideline, Tip) with automatic degradation based on interception rates
+- Runtime pre-execution checks for agent actions with code-level enforcement
+- KnowledgeStore for preserving retired constraints with historical interception data
+- Eight built-in gate systems (testing, security, performance, etc.) for CI/CD integration
+- CLI-driven workflows for initialization, validation, reporting, and knowledge management
 
 ## Why It Matters for RAG Builders
-Harness provides the critical infrastructure for scaling AI agent fleets with governance, ensuring reliability, security, and observability in production RAG and AI workflows.
+It provides a robust mechanism to enforce and evolve AI agent constraints dynamically, ensuring reliability while preserving historical knowledge for RAG systems to learn from past agent behaviors.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Starlark
-Automated review identified **Starlark** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenTelemetry
-Automated review identified **OpenTelemetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON-RPC
-Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON
+Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code CLI
-Automated review identified **Claude Code CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Git
+Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Codex CLI
-Automated review identified **Codex CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Anthropic API
-Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### GitHub Webhooks
-Automated review identified **GitHub Webhooks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP Server
-Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Sandboxing
+Automated review identified **Sandboxing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

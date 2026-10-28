@@ -1,58 +1,61 @@
 ---
-title: "bio-apple/ai"
+title: "formio/ai"
 content_type: "repo"
 engine: "v2"
-category: "UI Component"
-tech_stack: ["JavaScript", "Node.js", "Python", "GitHub Actions", "Cloudflare Workers", "KV Storage", "HTML/CSS", "CI/CD Pipelines"]
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Claude Code", "Docker", "REST API", "JSON Schema", "Angular", "@formio/js"]
 quality_score: 9
-rag_relevance: 7
+rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["AI tool navigation", "curated resources", "daily updates", "workflow integration", "open-source"]
-source: "https://github.com/bio-apple/ai"
-stars: 2
-language: "JavaScript"
-last_updated: "2026-09-01T09:00:27Z"
-discovered_at: "2026-09-01T09:10:15Z"
+tags: ["agentic coding", "form builder", "MCP server", "enterprise applications", "REST API integration"]
+source: "https://github.com/formio/ai"
+stars: 6
+language: "TypeScript"
+last_updated: "2026-08-05T14:05:02Z"
+discovered_at: "2026-08-05T14:07:10Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Bio AI Lab is a curated AI tool navigation platform offering open-source selections, practical case studies, courses, news, and videos. It aggregates top AI tools, frameworks, and resources with daily updates and a focus on workflow integration.
+The Form.io Agentic Coding Toolset enables AI agents to interact with the Form.io platform, providing tools for building, managing, and embedding forms, applications, and workflows. It includes an MCP server, a Claude Code plugin, and a skill library for agentic coding environments.
 
 ## Key Features
-- Aggregates top AI tools and frameworks with daily updates and rankings (e.g., AICPB, LMSYS, AA)
-- Supports video link synchronization via Cloudflare Workers and KV storage for persistent previews
-- Provides structured documentation for setup, architecture, and content operations
-- Includes a live website with Hero sections, AI briefings, and domain maps for quick access
-- Features automated CI/CD pipelines for deployment and content validation
+- MCP server for Form.io operations (forms, roles, actions, projects)
+- Claude Code plugin for seamless integration with AI agents
+- Orchestration skills for building complete applications or forms from plain-language prompts
+- Embedding capabilities for forms in existing applications
+- Comprehensive skill library covering authentication, schema authoring, and API interactions
 
 ## Why It Matters for RAG Builders
-It serves as a centralized hub for discovering and integrating high-quality AI tools and resources, reducing discovery time for RAG builders.
+It enables AI agents to standardize and automate the creation of enterprise-grade applications and forms on the Form.io platform, reducing development time and ensuring consistency.
 
 ## Tech Stack Deep Dive
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GitHub Actions
-Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude Code
+Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cloudflare Workers
-Automated review identified **Cloudflare Workers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### KV Storage
-Automated review identified **KV Storage** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTML/CSS
-Automated review identified **HTML/CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON Schema
+Automated review identified **JSON Schema** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CI/CD Pipelines
-Automated review identified **CI/CD Pipelines** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Angular
+Automated review identified **Angular** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### @formio/js
+Automated review identified **@formio/js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

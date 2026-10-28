@@ -1,49 +1,64 @@
 ---
-title: "valtors/relay"
+title: "awictor/relay"
 content_type: "repo"
 engine: "v2"
 category: "Agent Framework"
-tech_stack: ["Go", "MCP (Model Context Protocol)", "Node.js (npm package wrapper)", "CLI/TUI", "HTTP/Streamable Transport"]
+tech_stack: ["TypeScript", "Node.js", "Telegram Bot API", "Gemini API", "Puppeteer", "Docker", "Vitest", "REST APIs", "Web Scraping", "LLM Integration"]
 quality_score: 9
-rag_relevance: 9
-deployment_complexity: "Low"
-tags: ["MCP server", "multi-tool integration", "local file processing", "AI agent toolkit", "workflow automation"]
-source: "https://github.com/valtors/relay"
-stars: 4
-language: "Go"
-last_updated: "2026-07-11T09:12:17Z"
-discovered_at: "2026-07-11T09:27:33Z"
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["autonomous agent", "self-hosted browser", "web scraping", "Telegram bot", "LLM integration"]
+source: "https://github.com/awictor/relay"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-09-02T19:07:32Z"
+discovered_at: "2026-09-02T19:11:20Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Relay is a local MCP (Model Context Protocol) server that consolidates 40 tools across 7 categories into a single binary, enabling unified file, image, PDF, web, and workflow management for AI agents and MCP clients.
+Relay is a self-hosted autonomous agent that processes data from any web application via a real Chrome browser and communicates results back via Telegram. It leverages a custom browser engine (anvil-engine) to avoid third-party browser vendors, enabling free-tier infrastructure and sub-second latency for web tasks.
 
 ## Key Features
-- Single binary with 40 built-in tools across file, image, PDF, text, data, web, and workflow categories
-- Supports both stdio and HTTP transport modes for MCP clients like Claude, Cursor, and VS Code
-- Interactive TUI for setup, configuration, and tool exploration without manual JSON editing
-- Security-hardened with protections against path traversal, SSRF, XSS, and prompt injection
-- Enables advanced workflow tools (planning, research, branding) when paired with an Anthropic API key
+- Self-hosted Chrome browser (anvil-engine) for unlimited, vendor-free web access
+- Natural language task processing via Telegram or terminal
+- Proactive scheduling, reminders, and alerts with persistent state
+- Robust error handling and fault injection testing for reliability
+- Transport-agnostic agent core with modular tooling (scrape, extract, compare, fetch_json, etc.)
 
 ## Why It Matters for RAG Builders
-Relay eliminates the need to stitch together multiple single-purpose MCP servers, providing a unified, low-overhead toolkit that accelerates RAG and AI agent development with built-in file, image, and PDF processing capabilities.
+Relay provides a critical open-source alternative for building autonomous agents that require real browser access without vendor lock-in, enabling cost-effective and privacy-preserving RAG pipelines.
 
 ## Tech Stack Deep Dive
-### Go
-Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Node.js (npm package wrapper)
-Automated review identified **Node.js (npm package wrapper)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Telegram Bot API
+Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI/TUI
-Automated review identified **CLI/TUI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Gemini API
+Automated review identified **Gemini API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTTP/Streamable Transport
-Automated review identified **HTTP/Streamable Transport** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Puppeteer
+Automated review identified **Puppeteer** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Vitest
+Automated review identified **Vitest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### REST APIs
+Automated review identified **REST APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Web Scraping
+Automated review identified **Web Scraping** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LLM Integration
+Automated review identified **LLM Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,67 +1,61 @@
 ---
-title: "SidCorp-co/forge"
+title: "Efs-O/Forge"
 content_type: "repo"
 engine: "v2"
-category: "Orchestrator"
-tech_stack: ["TypeScript", "Rust", "Hono", "Drizzle ORM", "PostgreSQL", "Next.js", "WebSocket", "Claude Code", "Docker", "pg-boss", "MCP"]
+category: "Agent Framework"
+tech_stack: ["TypeScript", "VS Code Extension API", "llama.cpp", "GGUF", "Ollama", "OpenAI-compatible APIs", "Telegram Bot API", "Node.js", "Python (for backend tools)"]
 quality_score: 9
-rag_relevance: 9
+rag_relevance: 7
 deployment_complexity: "Medium"
-tags: ["AI-powered workflows", "self-hosted orchestration", "Claude Code integration", "pipeline management", "multi-device coordination"]
-source: "https://github.com/SidCorp-co/forge"
-stars: 5
-language: "None"
-last_updated: "2026-09-02T02:06:35Z"
-discovered_at: "2026-09-02T02:12:32Z"
+tags: ["VS Code extension", "local LLM agent", "code intelligence", "reversible actions", "no telemetry"]
+source: "https://github.com/Efs-O/Forge"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-09-02T08:15:14Z"
+discovered_at: "2026-09-02T08:20:57Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Forge is an open-source AI-powered software lifecycle platform that orchestrates Claude Code on user-controlled devices. It provides a web dashboard for managing projects from build to maintenance, a configurable pipeline for issue routing, and real-time job auditing without holding user credentials.
+Forge LLM is a VS Code extension that acts as a local coding agent, enabling developers to run and manage their own LLM models (e.g., GGUF via llama.cpp) directly within the editor. It provides a suite of 60+ strict-schema tools for code intelligence, file operations, and agent workflows with reversible actions and no telemetry.
 
 ## Key Features
-- Configurable AI-driven pipeline with stages like triage, plan, code, and review
-- Real-time job streaming and auditing with full event logs retained for 30 days
-- Multi-project and multi-device coordination with device-specific credential management
-- Extensible architecture supporting custom skills, pipeline stages, and runners
-- Organizational role-based access control and shared integration connections
+- Direct GGUF model management via llama.cpp with shared model lifecycle across VS Code windows
+- 60+ strict-schema tools for file operations, code intelligence, git, terminal, and vision (via ffmpeg)
+- Reversible agent workflows with inline diffs, Keep/Undo checkpoints, and confirmation gates
+- Optional Telegram remote control with session locking and audit logging
+- LSP-backed code intelligence and durable memory across sessions
 
 ## Why It Matters for RAG Builders
-Forge provides a critical orchestration layer for AI-driven software development workflows, enabling secure, self-hosted, and extensible automation of Claude Code-powered tasks while maintaining full control over credentials and compute.
+Forge LLM provides a privacy-focused, locally controlled agent framework with reversible actions and deep VS Code integration, making it ideal for developers who prioritize autonomy and control over their AI coding workflows.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### VS Code Extension API
+Automated review identified **VS Code Extension API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Hono
-Automated review identified **Hono** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### llama.cpp
+Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Drizzle ORM
-Automated review identified **Drizzle ORM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GGUF
+Automated review identified **GGUF** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Ollama
+Automated review identified **Ollama** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenAI-compatible APIs
+Automated review identified **OpenAI-compatible APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Telegram Bot API
+Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### pg-boss
-Automated review identified **pg-boss** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP
-Automated review identified **MCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python (for backend tools)
+Automated review identified **Python (for backend tools)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

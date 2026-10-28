@@ -1,33 +1,33 @@
 ---
-title: "Alpha-Park/genpark-vector-svg-brand-geometry-normalizer-skill"
+title: "alphaparkinc/genpark-vector-svg-brand-geometry-normalizer-skill"
 content_type: "repo"
 engine: "v2"
 category: "Tooling"
-tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "SVG Path Optimization"]
+tech_stack: ["Python 3.9+", "Model Context Protocol (MCP)", "JSON-RPC", "SVG Processing", "Standard Library Only"]
 quality_score: 9
 rag_relevance: 7
 deployment_complexity: "Low"
-tags: ["SVG normalization", "vector optimization", "MCP server", "zero dependencies", "multimodal UI"]
-source: "https://github.com/Alpha-Park/genpark-vector-svg-brand-geometry-normalizer-skill"
+tags: ["SVG normalization", "vector geometry", "MCP integration", "zero-dependency", "multimodal UI"]
+source: "https://github.com/alphaparkinc/genpark-vector-svg-brand-geometry-normalizer-skill"
 stars: 8
 language: "Python"
-last_updated: "2026-09-03T15:34:42Z"
-discovered_at: "2026-09-03T15:40:13Z"
+last_updated: "2026-09-03T15:33:57Z"
+discovered_at: "2026-09-03T15:40:15Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A zero-dependency Python skill designed for normalizing and optimizing SVG brand geometry vectors, enabling deterministic spatial canvas reasoning for AI agents and multimodal UI generation pipelines.
+A zero-dependency Python skill designed to normalize and optimize SVG brand geometry vectors for multimodal UI generation and spatial canvas reasoning in autonomous design agents. It integrates natively with the Model Context Protocol (MCP) for seamless agent integration.
 
 ## Key Features
 - Zero external dependencies (pure Python standard library)
-- Native Model Context Protocol (MCP) integration for seamless AI agent integration
-- Deterministic input/output contracts with JSON Schema validation
-- Sub-millisecond execution latency for high-concurrency production environments
-- Production-grade path optimization for brand icon vectors
+- Native Model Context Protocol (MCP) support for agent integration
+- Deterministic and reliable input/output contracts with JSON Schema validation
+- Sub-millisecond execution latency for high-concurrency environments
+- Production-grade tooling for brand icon vector optimization
 
 ## Why It Matters for RAG Builders
-It provides a lightweight, dependency-free solution for normalizing SVG vectors, critical for AI-driven design and UI generation pipelines.
+It provides a lightweight, dependency-free solution for normalizing SVG brand geometries, critical for ensuring consistency and performance in multimodal UI generation pipelines for AI agents.
 
 ## Tech Stack Deep Dive
 ### Python 3.9+
@@ -39,8 +39,11 @@ Automated review identified **Model Context Protocol (MCP)** as a key module con
 ### JSON-RPC
 Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### SVG Path Optimization
-Automated review identified **SVG Path Optimization** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SVG Processing
+Automated review identified **SVG Processing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Standard Library Only
+Automated review identified **Standard Library Only** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

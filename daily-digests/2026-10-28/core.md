@@ -1,58 +1,70 @@
 ---
-title: "dappql/core"
+title: "RedPlanetHQ/core"
 content_type: "repo"
 engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "React", "wagmi", "viem", "React Query", "ABI Codegen", "Model Context Protocol (MCP)", "Node.js"]
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Docker", "Node.js", "React", "PostgreSQL", "Redis", "Claude Code", "Claude API", "OpenAI API", "MCP (Model Context Protocol)", "WebSockets", "Natural Language Processing"]
 quality_score: 9
-rag_relevance: 9
+rag_relevance: 8
 deployment_complexity: "Medium"
-tags: ["smart contracts", "agent-native", "multicall", "typed SDK", "blockchain"]
-source: "https://github.com/dappql/core"
-stars: 2
+tags: ["AI OS", "Task Automation", "Self-hosted", "Multi-interface", "Context-aware"]
+source: "https://github.com/RedPlanetHQ/core"
+stars: 1918
 language: "TypeScript"
-last_updated: "2026-09-03T21:55:15Z"
-discovered_at: "2026-09-03T22:11:49Z"
+last_updated: "2026-07-19T17:52:05Z"
+discovered_at: "2026-07-19T17:59:03Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-DappQL is an agent-native data layer for smart contracts that enhances wagmi and viem with typed codegen, automatic multicall batching, per-block reactivity, and AI-agent-friendly SDK generation. It bridges human-readable dApp development with AI agent workflows.
+CORE is a self-hosted, open-source AI operating system designed to act as a persistent, context-aware assistant that monitors and automates tasks across multiple applications and interfaces. It integrates with over 50 apps, supports custom personalities, and delegates to coding agents like Claude Code or Codex.
 
 ## Key Features
-- Typed codegen from ABIs with TypeScript support for ABI changes
-- Automatic multicall batching across components and the entire app
-- Per-block reactivity and iterator queries for on-chain data
-- AI-agent ready with AGENTS.md and MCP server integration
-- Non-React runtime for scripts, servers, and bots
+- Persistent memory and knowledge graph for contextual task execution across sessions
+- Multi-interface support (voice, scratchpad, chat, messaging) for seamless interaction
+- 50+ app connectors (GitHub, Linear, Slack, Gmail, etc.) via MCP and webhooks
+- Customizable personalities, rules, and autonomy levels for task delegation
+- Gateway for delegating to coding agents (Claude Code, Codex) and browser automation
 
 ## Why It Matters for RAG Builders
-DappQL streamlines smart contract interactions for both developers and AI agents by providing typed, batch-optimized, and reactive data access layers, reducing boilerplate and improving reliability in RAG and AI-driven workflows.
+CORE provides a unified, persistent AI assistant that automates workflows across tools while maintaining deep contextual awareness, making it essential for building scalable, human-in-the-loop RAG systems.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### wagmi
-Automated review identified **wagmi** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### viem
-Automated review identified **viem** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### React Query
-Automated review identified **React Query** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### ABI Codegen
-Automated review identified **ABI Codegen** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Model Context Protocol (MCP)
-Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Redis
+Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Claude Code
+Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Claude API
+Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI API
+Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### WebSockets
+Automated review identified **WebSockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Natural Language Processing
+Automated review identified **Natural Language Processing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,52 +1,49 @@
 ---
-title: "keboola/mcp-server"
+title: "voyagehacks-com/mcp-server"
 content_type: "repo"
 engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Model Context Protocol (MCP)", "HTTP/Streamable HTTP", "OAuth", "Keboola Storage API", "FastAPI"]
-quality_score: 9
+category: "Tooling"
+tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Cloudflare Pages Functions", "JSON-RPC 2.0", "Hugo (for content generation)"]
+quality_score: 8
 rag_relevance: 9
 deployment_complexity: "Medium"
-tags: ["MCP Server", "AI Agent Integration", "Data Orchestration", "Keboola Platform", "RAG Tooling"]
-source: "https://github.com/keboola/mcp-server"
-stars: 84
-language: "Python"
-last_updated: "2026-07-14T05:15:17Z"
-discovered_at: "2026-07-14T05:29:13Z"
+tags: ["MCP server", "travel data", "affiliate links", "multilingual content", "AI agent tools"]
+source: "https://github.com/voyagehacks-com/mcp-server"
+stars: 0
+language: "JavaScript"
+last_updated: "2026-08-01T17:48:24Z"
+discovered_at: "2026-08-01T18:00:19Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-The Keboola MCP Server is an open-source bridge that connects Keboola data projects to AI agents and MCP clients (e.g., Cursor, Claude, Windsurf) via the Model Context Protocol. It exposes Keboola features like storage access, SQL transformations, job triggers, and data apps as callable tools for AI workflows.
+The VoyageHacks MCP Server provides an official Model Context Protocol (MCP) interface for accessing multilingual travel content, including articles, travel gear, flight/hotel links, and affiliate booking resources. It enables AI agents to dynamically fetch structured travel data via HTTP transport.
 
 ## Key Features
-- Exposes Keboola features (storage, SQL, jobs, flows) as MCP tools for AI agents
-- Supports remote and local deployment with OAuth authentication
-- Enables natural language SQL transformation creation
-- Provides tool authorization and access control via HTTP headers
-- Integrates with development branches for safe testing
+- Provides stateless HTTP transport for MCP clients with no authentication required
+- Offers 14 specialized tools for travel content retrieval (articles, gear, flights, hotels, etc.)
+- Returns structured Markdown content and affiliate booking links for AI agents
+- Supports self-hosting via Cloudflare Pages Functions with configurable affiliate IDs
+- Includes transparency disclosures for affiliate tracking and content attribution
 
 ## Why It Matters for RAG Builders
-It enables seamless integration of Keboola's data platform with AI agents, allowing RAG systems to dynamically fetch, transform, and trigger data workflows without custom glue code.
+This MCP server enables AI agents to dynamically access real-time travel data, affiliate links, and structured content, making it essential for building travel-focused RAG applications.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Model Context Protocol (MCP)
 Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HTTP/Streamable HTTP
-Automated review identified **HTTP/Streamable HTTP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Cloudflare Pages Functions
+Automated review identified **Cloudflare Pages Functions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OAuth
-Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JSON-RPC 2.0
+Automated review identified **JSON-RPC 2.0** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Keboola Storage API
-Automated review identified **Keboola Storage API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Hugo (for content generation)
+Automated review identified **Hugo (for content generation)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

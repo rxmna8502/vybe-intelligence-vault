@@ -1,55 +1,52 @@
 ---
-title: "kitepon-rgb/aiterm-mcp"
+title: "kitepon/aiterm-mcp"
 content_type: "repo"
 engine: "v2"
 category: "Orchestrator"
-tech_stack: ["Node.js", "TypeScript", "MCP (Model Context Protocol)", "Tmux", "PTY (Pseudo Terminal)", "NPM", "CI/CD (GitHub Actions)"]
+tech_stack: ["JavaScript", "Node.js", "Model Context Protocol (MCP)", "tmux", "psmux", "TypeScript (implied by modern JS practices)"]
 quality_score: 9
 rag_relevance: 10
 deployment_complexity: "Medium"
-tags: ["MCP server", "AI orchestration", "terminal automation", "agent delegation", "tmux integration"]
-source: "https://github.com/kitepon-rgb/aiterm-mcp"
-stars: 1
+tags: ["agent orchestration", "MCP terminal", "multi-agent systems", "persistent sessions", "AI tool harness"]
+source: "https://github.com/kitepon/aiterm-mcp"
+stars: 4
 language: "JavaScript"
-last_updated: "2026-07-11T05:31:46Z"
-discovered_at: "2026-07-11T05:39:19Z"
+last_updated: "2026-09-01T08:37:56Z"
+discovered_at: "2026-09-01T09:07:26Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-aiterm-mcp is an MCP (Model Context Protocol) server that provides a persistent terminal interface for AI-driven orchestration. It enables AI agents to spawn and control other coding agents (e.g., Codex, Grok, Composer) within a tmux-backed terminal, allowing seamless delegation and steering of tasks programmatically.
+Aiterm-MCP provides a persistent MCP-native terminal that enables AI agents to programmatically launch and orchestrate other coding agents (e.g., Claude Code, Codex CLI, Grok CLI) within a unified, multiplexed environment. It acts as a harness API for driving multiple AI tools through a single TUI, reducing context window overhead and enabling headless orchestration.
 
 ## Key Features
-- Persistent terminal sessions over MCP for AI-driven control
-- Launch and steer coding agents (Codex, Grok, Composer) within tmux sessions
-- Token-reduced output reading for efficient context management
-- Agent launchers with vendor-specific configurations and isolation
-- Cross-platform support (Linux, macOS, WSL2, Windows core PTY tools)
+- Persistent MCP-native terminal for driving multiple AI agents (Claude, Codex, Grok, Cursor) in a single session
+- Programmatic agent launching and steering via `agent_launch` and `agent_steer` tools
+- Token-efficient PTY reads (~7.1x fewer tokens than raw logs) for reduced context window usage
+- Cross-platform support (tmux on POSIX, psmux on native Windows) with session persistence
+- In-place agent configuration (model/effort changes) without restarting sessions
 
 ## Why It Matters for RAG Builders
-aiterm-mcp enables AI agents to programmatically spawn and control other agents within persistent terminals, reducing context overhead and enabling seamless multi-agent orchestration for complex tasks.
+Aiterm-MCP enables AI orchestrators to programmatically spawn and steer multiple coding agents within a single persistent terminal, eliminating the need for manual terminal management and reducing context window overhead for RAG systems.
 
 ## Tech Stack Deep Dive
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### tmux
+Automated review identified **tmux** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tmux
-Automated review identified **Tmux** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### psmux
+Automated review identified **psmux** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PTY (Pseudo Terminal)
-Automated review identified **PTY (Pseudo Terminal)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### NPM
-Automated review identified **NPM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### CI/CD (GitHub Actions)
-Automated review identified **CI/CD (GitHub Actions)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript (implied by modern JS practices)
+Automated review identified **TypeScript (implied by modern JS practices)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
