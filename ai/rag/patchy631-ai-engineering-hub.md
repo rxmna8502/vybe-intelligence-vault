@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-10-25T18:49:33.658205+05:30'
-published_at: '2026-10-25T12:51:44Z'
+collected_at: '2026-10-28T20:48:53.983912+05:30'
+published_at: '2026-10-28T13:47:23Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - models
 - rag
-stars: 38426
+stars: 38457
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-10-12T19:11:08Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-10-25T18:49:33.658205+05:30'
-last_seen: '2026-10-25T18:49:33.658205+05:30'
-last_checked: '2026-10-25T18:49:33.658205+05:30'
+first_seen: '2026-10-28T20:48:53.983912+05:30'
+last_seen: '2026-10-28T20:48:53.983912+05:30'
+last_checked: '2026-10-28T20:48:53.983912+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Offers in-depth tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, and AI agent architectures.
-*   Covers real-world AI agent applications, including multi-component pipelines (MCP), with a focus on practical implementation.
-*   Content is delivered via Jupyter Notebooks, facilitating interactive exploration of machine learning and advanced AI concepts.
+*   Offers in-depth tutorials on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures.
+*   Focuses on practical, real-world AI agent application development.
+*   Content is primarily delivered through Jupyter Notebooks, enabling interactive exploration and implementation.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 38426
-- Forks: 6329
+- Stars: 38457
+- Forks: 6335
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-10-25T12:51:44Z
+- Last Updated: 2026-10-28T13:47:23Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

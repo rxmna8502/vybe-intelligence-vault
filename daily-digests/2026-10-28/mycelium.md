@@ -1,19 +1,30 @@
 ---
-title: "haabe/mycelium"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "Claude Code", "YAML", "Markdown", "Mermaid.js", "Git"]
+title: haabe/mycelium
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Python
+- Claude Code
+- YAML
+- Markdown
+- Mermaid.js
+- Git
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["AI agent governance", "discovery framework", "evidence-based development", "risk mitigation", "project scaffolding"]
-source: "https://github.com/haabe/mycelium"
+deployment_complexity: Medium
+tags:
+- AI agent governance
+- discovery framework
+- evidence-based development
+- risk mitigation
+- project scaffolding
+source: https://github.com/haabe/mycelium
 stars: 39
-language: "Python"
-last_updated: "2026-07-19T15:50:09Z"
-discovered_at: "2026-07-19T15:56:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T15:50:09Z'
+discovered_at: '2026-07-19T15:56:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

@@ -38089,8 +38089,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
   - [Survival LLM: AI assistant and emergency library that runs on your own computer](../ai/community/survival-llm-ai-assistant-and-emergency-library-th.md)
   - [Tailscale SSH: Investigation and remediation update](../ai/community/tailscale-ssh-investigation-and-remediation-update.md)
+  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
+  - [Valve Responds to Developers Fearing AI Slop and Clones](../ai/community/valve-responds-to-developers-fearing-ai-slop-and-c.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -38647,7 +38650,7 @@ Resources organized by publisher feed and query sources.
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
   - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md)
   - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md)
-  - [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](../ai/models/huggingface-blog-nvidia-kumo-relational.md)
+  - [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](../ai/models/huggingface-blog-nvidia-nemotron-transcribe-granary.md)
   - [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md)
   - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../ai/agents/huggingface-blog-nvidia-reachy-mini.md)
   - [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../ai/models/huggingface-blog-nvidia-physical-ai.md)
@@ -41990,4 +41993,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-28T11:47:13.033556+05:30*
+*Index generated on 2026-10-28T21:04:40.232770+05:30*

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-09-03T01:00:31.382558+05:30'
-published_at: '2026-07-21T05:58:28Z'
+collected_at: '2026-10-28T20:50:24.146230+05:30'
+published_at: '2026-09-22T06:16:46Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 174
+- youtube
+stars: 177
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-09-03T01:00:31.382558+05:30'
-last_seen: '2026-09-03T01:00:31.382558+05:30'
-last_checked: '2026-09-03T01:00:31.382558+05:30'
+first_seen: '2026-10-28T20:50:24.146230+05:30'
+last_seen: '2026-10-28T20:50:24.146230+05:30'
+last_checked: '2026-10-28T20:50:24.146230+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence-level), leveraging modality-specific encoders and fusion mechanisms.
-
-- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, emphasizing its novelty in handling heterogeneous corpora with a unified architecture, integrating cross-modal retrieval and generation.
-
-- **Python-Based Implementation**: The repository provides a Python-based implementation with modular components for modality-specific processing, retrieval, and generation, optimized for scalability and extensibility.
+*   Implements Retrieval-Augmented Generation (RAG) across heterogeneous corpora.
+*   Supports diverse input modalities (e.g., text, image, audio, video) for unified retrieval.
+*   Enables fine-grained information retrieval and generation over varying data granularities.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: wgcyeo
-- Stars: 174
-- Forks: 14
+- Stars: 177
+- Forks: 15
 - Language: Python
 - Topics: ai, llm, multimodal, rag
-- Last Updated: 2026-07-21T05:58:28Z
+- Last Updated: 2026-09-22T06:16:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-30T02:55:32Z

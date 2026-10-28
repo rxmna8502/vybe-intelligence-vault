@@ -1,19 +1,33 @@
 ---
-title: "KrishOjha1810/voicebridge"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "whisper.cpp", "macOS CoreAudio", "sox", "ffmpeg", "Claude Code", "Claude MCP", "Telegram API", "Vapi API"]
+title: KrishOjha1810/voicebridge
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-10-28
+tech_stack:
+- Python
+- whisper.cpp
+- macOS CoreAudio
+- sox
+- ffmpeg
+- Claude Code
+- Claude MCP
+- Telegram API
+- Vapi API
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["voice interface", "local STT/TTS", "Claude Code integration", "hands-free coding", "real-time narration"]
-source: "https://github.com/KrishOjha1810/voicebridge"
+deployment_complexity: Medium
+tags:
+- voice interface
+- local STT/TTS
+- Claude Code integration
+- hands-free coding
+- real-time narration
+source: https://github.com/KrishOjha1810/voicebridge
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T20:36:22Z"
-discovered_at: "2026-07-18T20:44:01Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T20:36:22Z'
+discovered_at: '2026-07-18T20:44:01Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

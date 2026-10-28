@@ -1,19 +1,33 @@
 ---
-title: "benwold-lgtm/MCP-Gateway"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "FastAPI", "Redis", "Model Context Protocol (MCP)", "OpenAPI", "Docker", "SQLite", "HTTP/SSE", "Streamable HTTP"]
+title: benwold-lgtm/MCP-Gateway
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Python
+- FastAPI
+- Redis
+- Model Context Protocol (MCP)
+- OpenAPI
+- Docker
+- SQLite
+- HTTP/SSE
+- Streamable HTTP
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["MCP gateway", "fleet management", "REST to MCP translation", "federated tools", "AI orchestration"]
-source: "https://github.com/benwold-lgtm/MCP-Gateway"
+deployment_complexity: Medium
+tags:
+- MCP gateway
+- fleet management
+- REST to MCP translation
+- federated tools
+- AI orchestration
+source: https://github.com/benwold-lgtm/MCP-Gateway
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T19:29:26Z"
-discovered_at: "2026-08-08T19:33:13Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T19:29:26Z'
+discovered_at: '2026-08-08T19:33:13Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

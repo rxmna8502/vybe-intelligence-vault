@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: epfml/FineWeb-HQ (Likes: 30, Downloads: 1423779)
+Trending Hugging Face dataset: epfml/FineWeb-HQ (Likes: 30, Downloads: 1446937)
 
 ## Use Cases
 

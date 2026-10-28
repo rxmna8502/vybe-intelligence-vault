@@ -1,19 +1,34 @@
 ---
-title: "culpur/anvil"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Go", "Rust", "Matrix Protocol", "AES-256-GCM", "Argon2id", "Ollama", "TypeScript", "React", "WebAssembly", "gRPC"]
+title: culpur/anvil
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Go
+- Rust
+- Matrix Protocol
+- AES-256-GCM
+- Argon2id
+- Ollama
+- TypeScript
+- React
+- WebAssembly
+- gRPC
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["multi-model orchestration", "cost transparency", "credential vaulting", "team collaboration", "local-first AI"]
-source: "https://github.com/culpur/anvil"
+deployment_complexity: Medium
+tags:
+- multi-model orchestration
+- cost transparency
+- credential vaulting
+- team collaboration
+- local-first AI
+source: https://github.com/culpur/anvil
 stars: 0
-language: "None"
-last_updated: "2026-09-03T08:28:29Z"
-discovered_at: "2026-09-03T08:31:18Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-09-03T08:28:29Z'
+discovered_at: '2026-09-03T08:31:18Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

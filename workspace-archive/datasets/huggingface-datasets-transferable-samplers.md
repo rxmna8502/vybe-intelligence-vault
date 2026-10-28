@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: transferable-samplers/many-peptides-md (Likes: 46, Downloads: 1956435)
+Trending Hugging Face dataset: transferable-samplers/many-peptides-md (Likes: 46, Downloads: 1954402)
 
 ## Use Cases
 

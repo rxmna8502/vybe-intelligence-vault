@@ -1,19 +1,32 @@
 ---
-title: "industrix-com-br/tia-portal-code-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["C#", ".NET 8", ".NET Framework 4.8", "Siemens TIA Portal Openness", "Model Context Protocol (MCP)", "WPF", "Mermaid.js", "Windows x64"]
+title: industrix-com-br/tia-portal-code-agent
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-10-28
+tech_stack:
+- C#
+- .NET 8
+- .NET Framework 4.8
+- Siemens TIA Portal Openness
+- Model Context Protocol (MCP)
+- WPF
+- Mermaid.js
+- Windows x64
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: "High"
-tags: ["PLC engineering", "Siemens TIA Portal", "AI-assisted coding", "Model Context Protocol", "Add-In integration"]
-source: "https://github.com/industrix-com-br/tia-portal-code-agent"
+deployment_complexity: High
+tags:
+- PLC engineering
+- Siemens TIA Portal
+- AI-assisted coding
+- Model Context Protocol
+- Add-In integration
+source: https://github.com/industrix-com-br/tia-portal-code-agent
 stars: 4
-language: "C#"
-last_updated: "2026-08-02T16:07:39Z"
-discovered_at: "2026-08-02T16:11:08Z"
-evaluated_by: "mistral-small-latest"
+language: C#
+last_updated: '2026-08-02T16:07:39Z'
+discovered_at: '2026-08-02T16:11:08Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

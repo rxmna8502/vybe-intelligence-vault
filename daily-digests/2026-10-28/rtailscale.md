@@ -1,19 +1,30 @@
 ---
-title: "dinglebear-ai/rtailscale"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "HTTP", "CLI", "Docker", "npm"]
+title: dinglebear-ai/rtailscale
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-28
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- HTTP
+- CLI
+- Docker
+- npm
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["Tailscale", "MCP server", "tailnet management", "device automation", "Rust tooling"]
-source: "https://github.com/dinglebear-ai/rtailscale"
+deployment_complexity: Medium
+tags:
+- Tailscale
+- MCP server
+- tailnet management
+- device automation
+- Rust tooling
+source: https://github.com/dinglebear-ai/rtailscale
 stars: 4
-language: "Rust"
-last_updated: "2026-08-01T03:35:54Z"
-discovered_at: "2026-08-01T03:44:14Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:35:54Z'
+discovered_at: '2026-08-01T03:44:14Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

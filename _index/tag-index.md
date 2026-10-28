@@ -9537,8 +9537,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
   - [Survival LLM: AI assistant and emergency library that runs on your own computer](../ai/community/survival-llm-ai-assistant-and-emergency-library-th.md)
   - [Tailscale SSH: Investigation and remediation update](../ai/community/tailscale-ssh-investigation-and-remediation-update.md)
+  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
+  - [Valve Responds to Developers Fearing AI Slop and Clones](../ai/community/valve-responds-to-developers-fearing-ai-slop-and-c.md)
 
 ## animation
 
@@ -27760,7 +27763,6 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI tools in Arab University English classrooms: Looking back and forward](../ai/research/arxiv-2607-05403.md)
-  - [AI-Application-and-Integration-Lab/MegaRAG](../ai/rag/ai-application-and-integration-lab-megarag.md)
   - [AI-Assisted Peer Review Across Research Communities: From Reviewer AI Policies to LLM Review Quality](../ai/research/arxiv-2608-03581.md)
   - [AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware](../ai/research/arxiv-2610-12182.md)
   - [AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice](../ai/rag/arxiv-2606-18617.md)
@@ -39999,6 +40001,7 @@ Resources organized by keyword tags.
   - [KadiAssistant: A conversational AI Agent for information retrieval in Kadi4Mat](../ai/rag/arxiv-2605-18850.md)
   - [Kangsan Kim - Homepage](../ai/rag/kangsan-kim-homepage.md)
   - [KangsanKim07/VideoICL](../ai/rag/kangsankim07-videoicl.md)
+  - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
   - [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md)
   - [Kernel Singular Value Decomposition with Extension to Multiple Data Sources](../ai/research/arxiv-2610-03216.md)
   - [Kimi K2.5: Visual Agentic Intelligence](../ai/agents/arxiv-2602-02276.md)
@@ -41862,6 +41865,7 @@ Resources organized by keyword tags.
   - [Twisted Schr\"odinger Bridge Matching](../ai/research/arxiv-2607-16987.md)
   - [Two Black Boxes, One Solver: Encoder Probing and Decoder Attribution for Neural Multi-Attribute VRP under Hard-Mask and Recourse Decoders](../ai/research/arxiv-2607-04487.md)
   - [Two Sides of the Same Coin: Learning the Backdoor to Remove the Backdoor](../ai/rag/arxiv-2607-05748.md)
+  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
   - [Two-Sample Testing via Generative Processes](../ai/research/arxiv-2610-08277.md)
   - [Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion](../ai/research/arxiv-2411-12965.md)
   - [Type Checking Project Haystack Grids using JSON Schema and Pydantic](../ai/research/arxiv-2606-24891.md)
@@ -41966,6 +41970,7 @@ Resources organized by keyword tags.
   - [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](../ai/research/arxiv-2507-05116.md)
   - [Valid Inference with Synthetic Data via Task Exchangeability](../ai/research/arxiv-2606-13629.md)
   - [Value-Preserving Architectures for Agentic AI Systems](../ai/agents/arxiv-2609-03920.md)
+  - [Valve Responds to Developers Fearing AI Slop and Clones](../ai/community/valve-responds-to-developers-fearing-ai-slop-and-c.md)
   - [Variable Bound Tightening for Nash Equilibrium Computation in Multiplayer Imperfect-Information Games](../ai/research/arxiv-2606-25997.md)
   - [Variance Reduction for Non-Log-Concave Sampling with Applications to Inverse Problems](../ai/research/arxiv-2606-16257.md)
   - [Variance Reduction with Delayed Feedback for Non-Convex Optimization](../ai/rag/arxiv-2610-28510.md)
@@ -42350,7 +42355,6 @@ Resources organized by keyword tags.
   - [pydata/pydata-sphinx-theme](../ai/rag/pydata-pydata-sphinx-theme.md)
   - [quantization — Sentence Transformers documentation](../ai/rag/quantization-sentence-transformers-documentation.md)
   - [rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference](../ai/research/arxiv-2609-19104.md)
-  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../ai/research/arxiv-2602-07832.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
@@ -44799,7 +44803,6 @@ Resources organized by keyword tags.
   - [AI+X](../ai/resources/ai-x.md)
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
-  - [AI-Application-and-Integration-Lab/MegaRAG](../ai/rag/ai-application-and-integration-lab-megarag.md)
   - [AI-Assisted Causal Inference and Mediation Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties in the All of Us Research Program](../ai/research/arxiv-2607-22640.md)
   - [AI-Assisted Discovery of CNOT Decompositions for Quantum Permutations on Constrained Topologies](../ai/research/arxiv-2610-37045.md)
   - [AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice](../ai/rag/arxiv-2606-18617.md)
@@ -75794,7 +75797,6 @@ Resources organized by keyword tags.
   - [LocalIntent: Outcome-Specific Structured Generation for Backend-Compatible Smart Building Automation with Local LLMs](../ai/research/arxiv-2610-23511.md)
   - [Log In - Stack Apps](../ai/resources/log-in-stack-apps.md)
   - [LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting](../ai/rag/arxiv-2609-30943.md)
-  - [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md)
   - [MAS-on-the-Fly: In-Context Structural Adaptation of LLM-Based Multi-Agent Systems](../ai/rag/arxiv-2602-13671.md)
   - [MINIF2F-DAFNY: LLM-Guided Mathematical Theorem Proving via Auto-Active Verification](../ai/research/arxiv-2512-10187.md)
   - [MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents](../ai/rag/arxiv-2606-20717.md)
@@ -81868,7 +81870,6 @@ Resources organized by keyword tags.
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [alexfazio/crewAI-quickstart](../ai/agents/alexfazio-crewai-quickstart.md)
   - [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md)
-  - [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md)
   - [astro/CONTRIBUTING.md at main · withastro/astro · GitHub](../ai/rag/withastro-astro.md)
   - [atticus98/codex-turbo](../ai/rag/atticus98-codex-turbo.md)
   - [beezwax blog](../ai/resources/beezwax-blog.md)
@@ -85311,6 +85312,7 @@ Resources organized by keyword tags.
   - [Twilio Segment Customer Data Platform | Twilio](../ai/resources/twilio-segment-customer-data-platform-twilio.md)
   - [Twilio Status](../ai/rag/twilio-status.md)
   - [Twilio Status - API](../ai/rag/twilio-status-api.md)
+  - [Two high-speed trains collide near Toledo, Spain](../ai/community/two-high-speed-trains-collide-near-toledo-spain.md)
   - [Two-Layer Linear Auto-Regressive Models Estimate Latent States](../ai/research/arxiv-2606-12691.md)
   - [U.S. Copyright Office | U.S. Copyright Office](../ai/resources/u-s-copyright-office-u-s-copyright-office.md)
   - [UA-Bench: Benchmarking Large Audio-Language Models on Underwater Acoustic Recognition](../ai/research/arxiv-2610-16942.md)
@@ -85721,6 +85723,7 @@ Resources organized by keyword tags.
   - [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md)
   - [vllm-project/vllm-omni](../ai/rag/vllm-project-vllm-omni.md)
   - [weaviate-io/blog/2024-03-07-verba-open-source-rag-app/index.mdx at main · weaviate/weaviate-io · GitHub](../ai/rag/weaviate-weaviate-io.md)
+  - [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md)
   - [woma: a real-time foundation model and its fine-tuned models for endoscopy](../ai/research/arxiv-2609-15130.md)
   - [youtube/api-samples](../ai/resources/youtube-api-samples.md)
   - [| Linc](../ai/resources/linc.md)
@@ -85739,4 +85742,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-28T11:47:12.616406+05:30*
+*Index generated on 2026-10-28T21:04:39.694267+05:30*
