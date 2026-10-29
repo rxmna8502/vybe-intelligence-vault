@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-29T21:13:58.663479+05:30`
+Generated at: `2026-10-30T00:35:02.133118+05:30`
 
 ## Executive Summary
 
@@ -8,44 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **The US added a record 20.2 GWh of battery storage in just 3 months** - Score: `197` in category `ai/community` ([Link](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months)) ([File](../ai/community/the-us-added-a-record-20-2-gwh-of-battery-storage.md))
-- **Forging a Microsoft Edge Full Chain with Logic Bugs Only** - Score: `179` in category `ai/community` ([Link](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain)) ([File](../ai/community/forging-a-microsoft-edge-full-chain-with-logic-bug.md))
-- **Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers** - Score: `99` in category `ai/community` ([Link](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)) ([File](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md))
-- **Southern Africa's first known stenciled rock art found hiding in plain sight** - Score: `27` in category `ai/community` ([Link](https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html)) ([File](../ai/community/southern-africa-s-first-known-stenciled-rock-art-f.md))
-- **React.lazy, Suspense and the Hidden 300 ms Delay** - Score: `12` in category `web-development/community` ([Link](https://tabwidgets.com/blog/react-lazy-suspense-delay)) ([File](../web-development/community/react-lazy-suspense-and-the-hidden-300-ms-delay.md))
-- **scaleapi/rsi-benchmark** - Score: `0` in category `ai/agents` ([Link](https://github.com/scaleapi/rsi-benchmark)) ([File](../ai/agents/scaleapi-rsi-benchmark.md))
-- **SIMAAn agent that plays, reasons, and learns with you** - Score: `0` in category `ai/companies/deepmind` ([Link](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds)) ([File](../ai/companies/deepmind/simaan-agent-that-plays-reasons-and-learns-with-yo.md))
-- **Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/anydecisionmodel)) ([File](../ai/models/huggingface-blog-anydecisionmodel.md))
-- **Welcome Le Chonk: Mistral Large 4 on Hugging Face** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/mistral-large4)) ([File](../ai/models/huggingface-blog-mistral-large4.md))
-- **Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/announcing-project-protostar)) ([File](../ai/models/huggingface-blog-announcing-project-protostar.md))
-- **Granite Switch 4.1.1 — Update models like you update software** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)) ([File](../ai/models/huggingface-blog-ibm-granite-granite-switch-4-1-1.md))
-- **openai-community/gpt2** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/openai-community/gpt2)) ([File](../ai/models/huggingface-openai-community-gpt2.md))
+- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
 
 ## Top Trending Resources
 
-- **OpenAI's agents talked to each other through the CPU Cache** - Score: `305` (+270), Rank Change: `+2` ([File](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md))
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+4017` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+6481` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **KruxAI/ragbuilder** - Score: `0` (0), Rank Change: `+2491` ([File](../ai/rag/kruxai-ragbuilder.md))
-- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1989` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **Azure/GenAIOps-project-template** - Score: `0` (0), Rank Change: `+3470` ([File](../ai/rag/azure-genaiops-project-template.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1991` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1989` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1987` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1041` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **EvanThomasLuke/Awesome-AI-Hacking-Agents** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md))
+- **MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md))
+- **AI-Application-and-Integration-Lab/MegaRAG** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/ai-application-and-integration-lab-megarag.md))
+- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/wgcyeo-universalrag.md))
+- **apecloud/ApeRAG** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/apecloud-aperag.md))
+- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/nirdiamant-rag-techniques.md))
+- **Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/research/arxiv-2610-32215.md))
+- **Supervised Learning with Quantum Hamiltonian Embeddings** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/arxiv-2610-26833.md))
+- **DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/research/arxiv-2610-04933.md))
+- **Representation-Aligned Auxiliary Supervision for Language Model Adaptation** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/research/arxiv-2610-04098.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **huangjia2019/ai-agents** - (Rank Change: `+6481`) ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **kylestratis/ai_agents_mcp_examples** - (Rank Change: `+4017`) ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **Azure/GenAIOps-project-template** - (Rank Change: `+3470`) ([File](../ai/rag/azure-genaiops-project-template.md))
-- **KruxAI/ragbuilder** - (Rank Change: `+2491`) ([File](../ai/rag/kruxai-ragbuilder.md))
-- **pguso/rag-from-scratch** - (Rank Change: `+1991`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **vstorm-co/full-stack-ai-agent-template** - (Rank Change: `+1989`) ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
-- **vivy-yi/rag-tutorial** - (Rank Change: `+1989`) ([File](../ai/rag/vivy-yi-rag-tutorial.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+1988`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1987`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1986`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **infiniflow/ragflow** - (Rank Change: `+28081`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1048`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1048`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1048`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1048`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1048`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1048`) ([File](../ai/agents/arxiv-2606-05050.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -56,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Dayjob: Tax – evaluating AI agents on 50 professional tax assignments** (Category: `ai/community`) ([File](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md))
-- **Nixpkgs for the Front End Impaired** (Category: `ai/community`) ([File](../ai/community/nixpkgs-for-the-front-end-impaired.md))
+No recently active resources transitioned to inactive.
+
