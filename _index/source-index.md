@@ -37189,7 +37189,7 @@ Resources organized by publisher feed and query sources.
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
   - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [ResearchVoxtral 3Build agents that can listen, reason, speak, and act, with Voxtral 3.October 20, 2026By Mistral](../ai/companies/mistral/researchvoxtral-3build-agents-that-can-listen-reas.md)
-  - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
+  - [SIMAAn agent that plays, reasons, and learns with you](../ai/companies/deepmind/simaan-agent-that-plays-reasons-and-learns-with-yo.md)
   - [Safeguards](../ai/companies/anthropic/safeguards.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [SolutionsIntroducing Shieldstral.August 4, 2026By Mistral](../ai/companies/mistral/solutionsintroducing-shieldstral-august-4-2026by-m.md)
@@ -37938,6 +37938,7 @@ Resources organized by publisher feed and query sources.
   - [satnaing/shadcn-admin](../web-development/shadcn-ui/satnaing-shadcn-admin.md)
   - [sbalnojan/ai-chaos-awesome](../ai/rag/sbalnojan-ai-chaos-awesome.md)
   - [scadastrangelove/awesome-ai-security-tools](../ai/rag/scadastrangelove-awesome-ai-security-tools.md)
+  - [scaleapi/rsi-benchmark](../ai/agents/scaleapi-rsi-benchmark.md)
   - [scotthavird/crewai-template](../ai/rag/scotthavird-crewai-template.md)
   - [secret-mars/loop-starter-kit](../ai/agents/secret-mars-loop-starter-kit.md)
   - [secureagentics/Adrian](../ai/agents/secureagentics-adrian.md)
@@ -38089,9 +38090,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md)
-  - [Nixpkgs for the Front End Impaired](../ai/community/nixpkgs-for-the-front-end-impaired.md)
+  - [Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
+  - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](../ai/community/forging-a-microsoft-edge-full-chain-with-logic-bug.md)
   - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
+  - [React.lazy, Suspense and the Hidden 300 ms Delay](../web-development/community/react-lazy-suspense-and-the-hidden-300-ms-delay.md)
+  - [Southern Africa's first known stenciled rock art found hiding in plain sight](../ai/community/southern-africa-s-first-known-stenciled-rock-art-f.md)
+  - [The US added a record 20.2 GWh of battery storage in just 3 months](../ai/community/the-us-added-a-record-20-2-gwh-of-battery-storage.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -38167,6 +38171,7 @@ Resources organized by publisher feed and query sources.
   - [Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models](../ai/models/huggingface-blog-tiiuae-e2lm-competition.md)
   - [Announcing New Dataset Search Features](../ai/models/huggingface-blog-datasets-filters.md)
   - [Announcing New Hugging Face and KerasHub integration](../ai/models/huggingface-blog-keras-hub-integration.md)
+  - [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](../ai/models/huggingface-blog-announcing-project-protostar.md)
   - [Announcing our new Content Guidelines and Policy](../ai/models/huggingface-blog-content-guidelines-update.md)
   - [Announcing the Hugging Face Fellowship Program](../ai/models/huggingface-blog-fellowship.md)
   - [Announcing the Open Source AI Game Jam 🎮](../ai/models/huggingface-blog-game-jam.md)
@@ -38409,7 +38414,7 @@ Resources organized by publisher feed and query sources.
   - [Granite 4.1 LLMs: How They’re Built](../ai/models/huggingface-blog-ibm-granite-granite-4-1.md)
   - [Granite 4.2 LLMs: How They're Built](../ai/models/huggingface-blog-ibm-granite-granite-4-2.md)
   - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/huggingface-blog-ibm-granite-granite-embedding-multilingual-r2.md)
-  - [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](../ai/models/huggingface-blog-ibm-granite-granite-speech-5.md)
+  - [Granite Switch 4.1.1 — Update models like you update software](../ai/models/huggingface-blog-ibm-granite-granite-switch-4-1-1.md)
   - [Graph Classification with Transformers](../ai/models/huggingface-blog-graphml-classification.md)
   - [Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](../ai/models/huggingface-blog-graphcore-update.md)
   - [Groq on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-groq.md)
@@ -38499,6 +38504,7 @@ Resources organized by publisher feed and query sources.
   - [Introducing AI Sheets: a tool to work with datasets using open AI models!](../ai/models/huggingface-blog-aisheets.md)
   - [Introducing Agents.js: Give tools to your LLMs using JavaScript](../ai/agents/huggingface-blog-agents-js.md)
   - [Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](../ai/models/huggingface-blog-anylanguagemodel.md)
+  - [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](../ai/models/huggingface-blog-anydecisionmodel.md)
   - [Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs](../ai/models/huggingface-blog-autoround.md)
   - [Introducing BERTopic Integration with the Hugging Face Hub](../ai/models/huggingface-blog-bertopic.md)
   - [Introducing Community Tools on HuggingChat](../ai/models/huggingface-blog-community-tools.md)
@@ -38931,6 +38937,7 @@ Resources organized by publisher feed and query sources.
   - [Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM](../ai/models/huggingface-blog-gemma3.md)
   - [Welcome Gemma 4: Frontier multimodal intelligence on device](../ai/models/huggingface-blog-gemma4.md)
   - [Welcome Inkling by Thinking Machines](../ai/models/huggingface-blog-thinkingmachines-inkling.md)
+  - [Welcome Le Chonk: Mistral Large 4 on Hugging Face](../ai/models/huggingface-blog-mistral-large4.md)
   - [Welcome Llama 3 - Meta's new open LLM](../ai/models/huggingface-blog-llama3.md)
   - [Welcome Llama 4 Maverick & Scout on Hugging Face](../ai/models/huggingface-blog-llama4-release.md)
   - [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](../ai/models/huggingface-blog-mixtral.md)
@@ -39003,11 +39010,11 @@ Resources organized by publisher feed and query sources.
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
-  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
+  - [openai-community/gpt2](../ai/models/huggingface-openai-community-gpt2.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
 
@@ -41992,4 +41999,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-29T11:44:33.746947+05:30*
+*Index generated on 2026-10-29T21:08:38.542369+05:30*

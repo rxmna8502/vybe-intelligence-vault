@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:dayjob-tax-evaluating-ai-agents-on-50-professional
 first_seen: '2026-10-29T02:44:39.599393+05:30'
 last_seen: '2026-10-29T11:28:16.294694+05:30'
 last_checked: '2026-10-29T11:28:16.294694+05:30'
 health_score: 100
 ---
+
 
 # Dayjob: Tax – evaluating AI agents on 50 professional tax assignments
 

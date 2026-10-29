@@ -5,6 +5,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | Date | Resource | Category |
 | :--- | :--- | :--- |
 | 2026-08-04 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | `ai-coding-agents/` |
+| 2026-07-30 | [scaleapi/rsi-benchmark](https://github.com/scaleapi/rsi-benchmark) | `ai-coding-agents/` |
 | 2026-07-28 | [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA) | `rag-systems/` |
 | 2026-07-24 | [zju3dv/InfiniSplat](https://github.com/zju3dv/InfiniSplat) | `rag-systems/` |
 | 2026-07-15 | [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault) | `rag-systems/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-05-08 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | `ai-coding-agents/` |
 | 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` |
-| 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` |

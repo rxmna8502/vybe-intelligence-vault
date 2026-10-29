@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-10-28T20:48:48.866543+05:30'
-published_at: '2026-10-26T12:25:13Z'
+collected_at: '2026-10-29T20:52:48.687928+05:30'
+published_at: '2026-10-29T14:11:29Z'
 tags:
 - github-repo
 - html
 - rag
-stars: 23
+stars: 25
 language: HTML
 status: active
 archived: false
 created_at: '2025-02-06T11:16:38Z'
 pushed_at: '2026-10-26T12:25:09Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-10-28T20:48:48.866543+05:30'
-last_seen: '2026-10-28T20:48:48.866543+05:30'
-last_checked: '2026-10-28T20:48:48.866543+05:30'
+first_seen: '2026-10-29T20:52:48.687928+05:30'
+last_seen: '2026-10-29T20:52:48.687928+05:30'
+last_checked: '2026-10-29T20:52:48.687928+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Hosts a Ragnarok Online Pre-Renewal client distribution pack, leveraging GitHub Pages for delivery.
-*   Integrates with the `openkore` botting framework and `rAthena` server emulation ecosystem.
-*   Primarily implemented in HTML, with a last recorded update timestamp of `20
+*   Distributes a Ragnarok Online Pre-Renewal client/server pack.
+*   Integrates with `rAthena` server emulation and `OpenKore` botting frameworks.
+*   Hosted as a static site via GitHub Pages (`.github.io`) primarily utilizing HTML.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ragnarokoffline
-- Stars: 23
+- Stars: 25
 - Forks: 10
 - Language: HTML
 - Topics: openkore, ragnarok, ragnarokoffline, ragnarokonline, rathena
-- Last Updated: 2026-10-26T12:25:13Z
+- Last Updated: 2026-10-29T14:11:29Z
 - Archived: No
 - Created At: 2025-02-06T11:16:38Z
 - Pushed At: 2026-10-26T12:25:09Z
