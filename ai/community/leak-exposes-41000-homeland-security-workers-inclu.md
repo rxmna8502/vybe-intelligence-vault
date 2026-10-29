@@ -13,13 +13,14 @@ collected_at: '2026-10-29T02:44:42.411694+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:leak-exposes-41000-homeland-security-workers-inclu
 first_seen: '2026-10-29T02:44:42.411694+05:30'
 last_seen: '2026-10-29T02:44:42.411694+05:30'
 last_checked: '2026-10-29T02:44:42.411694+05:30'
 health_score: 100
 ---
+
 
 # Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents
 

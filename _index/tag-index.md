@@ -4723,7 +4723,6 @@ Resources organized by keyword tags.
   - [LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension](../ai/rag/arxiv-2609-37426.md)
   - [LeCuration: A Tiny World Model as a Data Curation Multi-Tool](../ai/rag/arxiv-2610-09285.md)
   - [Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams](../ai/agents/arxiv-2606-19111.md)
-  - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md)
   - [Lean Finder V2: Semantic Search for Mathlib That Disambiguates User Queries](../ai/agents/arxiv-2610-30843.md)
   - [Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search](../ai/rag/arxiv-2605-20244.md)
   - [Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory](../ai/agents/arxiv-2607-09632.md)
@@ -5804,6 +5803,7 @@ Resources organized by keyword tags.
   - [Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment](../ai/agents/arxiv-2605-21401.md)
   - [Open-source LLMs as LangChain Agents](../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
+  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
@@ -9541,9 +9541,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md)
-  - [Google AI gets cagey when asked who won the 2020 elections](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md)
-  - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
-  - [Tailscale SSH: Investigation and remediation update](../ai/community/tailscale-ssh-investigation-and-remediation-update.md)
+  - [Nixpkgs for the Front End Impaired](../ai/community/nixpkgs-for-the-front-end-impaired.md)
+  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
 
 ## animation
 
@@ -39609,7 +39608,6 @@ Resources organized by keyword tags.
   - [Good Practice Guide for quantifying uncertainties for machine learning models applied to photoplethysmography signals](../ai/research/arxiv-2607-19999.md)
   - [Google - YouTube](../ai/resources/google-youtube.md)
   - [Google AI Studio news from Google I/O 2026](../ai/rag/google-ai-studio-news-from-google-i-o-2026.md)
-  - [Google AI gets cagey when asked who won the 2020 elections](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md)
   - [Google Account](../ai/resources/google-account.md)
   - [Google Cloud Privacy Notice](../ai/rag/google-cloud-privacy-notice.md)
   - [Google DeepMind - YouTube](../ai/resources/google-deepmind-youtube.md)
@@ -40005,7 +40003,6 @@ Resources organized by keyword tags.
   - [KadiAssistant: A conversational AI Agent for information retrieval in Kadi4Mat](../ai/rag/arxiv-2605-18850.md)
   - [Kangsan Kim - Homepage](../ai/rag/kangsan-kim-homepage.md)
   - [KangsanKim07/VideoICL](../ai/rag/kangsankim07-videoicl.md)
-  - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
   - [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md)
   - [Kernel Singular Value Decomposition with Extension to Multiple Data Sources](../ai/research/arxiv-2610-03216.md)
   - [Kimi K2.5: Visual Agentic Intelligence](../ai/agents/arxiv-2602-02276.md)
@@ -40092,7 +40089,6 @@ Resources organized by keyword tags.
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
-  - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
   - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius - The JetBrains Blog](../ai/agents/learn-ai-assisted-programming-with-junie-free-cour.md)
   - [Learn C the Hard Way](../ai/resources/learn-c-the-hard-way.md)
@@ -40533,6 +40529,7 @@ Resources organized by keyword tags.
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
+  - [Nixpkgs for the Front End Impaired](../ai/community/nixpkgs-for-the-front-end-impaired.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
   - [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](../ai/research/arxiv-2609-10854.md)
   - [Node-level Graph Neural Architecture Search Framework](../ai/research/arxiv-2610-09297.md)
@@ -40631,6 +40628,7 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
+  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -40672,7 +40670,6 @@ Resources organized by keyword tags.
   - [Org mode for GNU Emacs](../ai/resources/org-mode-for-gnu-emacs.md)
   - [Organizational Memory for Agentic Business Process Execution](../ai/rag/arxiv-2607-03228.md)
   - [Orion-Real-Time Validation Infrastructure | Commercial UAV Expo](../ai/resources/orion-real-time-validation-infrastructure-commerci.md)
-  - [Oseberg Tapestry Fragments](../ai/community/oseberg-tapestry-fragments.md)
   - [OsteoCAD: A Human-in-the-Loop Cloud-Edge Framework for Bone Tumor Segmentation](../ai/research/arxiv-2607-29266.md)
   - [Our Opportunities - University of California-Los Angeles Scholarship Application](../ai/resources/our-opportunities-university-of-california-los-ang.md)
   - [Out of Sync, Out of Sight: Phantom State Attacks against IIoT Intrusion Detection](../ai/research/arxiv-2610-02552.md)
@@ -41561,7 +41558,6 @@ Resources organized by keyword tags.
   - [TabPFN-3.5: Technical Report](../ai/research/arxiv-2609-17895.md)
   - [Tabular Deep Learning for Algorithmic Trading: Cross-Regime Bayesian Optimisation for Equity Signal Generation](../ai/research/arxiv-2608-27076.md)
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
-  - [Tailscale SSH: Investigation and remediation update](../ai/community/tailscale-ssh-investigation-and-remediation-update.md)
   - [Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse](../ai/research/arxiv-2608-30956.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
@@ -41726,7 +41722,6 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The shape of quark flavors](../ai/research/arxiv-2609-22812.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
-  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
@@ -53255,6 +53250,7 @@ Resources organized by keyword tags.
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [Online Tokenization with Optimal Delay in Linear Time](../ai/research/arxiv-2610-19139.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
+  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAl4S: Code as Action, Science as Sessions](../ai/agents/arxiv-2609-15096.md)
@@ -68722,7 +68718,6 @@ Resources organized by keyword tags.
   - [Origins of Universal Machine Learning Force-Field Errors in Multicomponent Materials](../ai/rag/arxiv-2610-09837.md)
   - [Orthogonal Dendritic Intrinsic Networks: An Architecture for Significance-Ordered, Orthogonal Latent Spaces](../ai/rag/arxiv-2607-05653.md)
   - [Orthogonal JEPA: Factorized Predictive States for Latent World Models](../ai/rag/arxiv-2608-20065.md)
-  - [Oseberg Tapestry Fragments](../ai/community/oseberg-tapestry-fragments.md)
   - [Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer](../ai/rag/arxiv-2606-13016.md)
   - [Out-Of-The-Loop Multi-Fidelity Bayesian Optimization](../ai/rag/arxiv-2608-04113.md)
   - [Out-of-Distribution Detection using Counterfactual Distance](../ai/rag/arxiv-2508-10148.md)
@@ -71838,7 +71833,6 @@ Resources organized by keyword tags.
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
   - [The persuasive power of large language models does not depend on their perceived national origin](../ai/rag/arxiv-2607-29334.md)
   - [The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer](../ai/rag/arxiv-2502-15631.md)
-  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment](../ai/rag/arxiv-2607-05552.md)
   - [The zbMATH Open Knowledge Graph: Tracing Centuries of Mathematical Research](../ai/rag/arxiv-2609-00969.md)
   - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
@@ -85744,4 +85738,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-29T03:01:35.133584+05:30*
+*Index generated on 2026-10-29T11:44:33.410046+05:30*

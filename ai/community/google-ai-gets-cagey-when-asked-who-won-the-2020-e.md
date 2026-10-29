@@ -13,13 +13,14 @@ collected_at: '2026-10-29T02:44:43.484163+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-ai-gets-cagey-when-asked-who-won-the-2020-e
 first_seen: '2026-10-29T02:44:43.484163+05:30'
 last_seen: '2026-10-29T02:44:43.484163+05:30'
 last_checked: '2026-10-29T02:44:43.484163+05:30'
 health_score: 100
 ---
+
 
 # Google AI gets cagey when asked who won the 2020 elections
 

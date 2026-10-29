@@ -38090,12 +38090,8 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md)
-  - [Google AI gets cagey when asked who won the 2020 elections](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md)
-  - [Kentucky man becomes the first humanist granted religious exemption from AI](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md)
-  - [Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md)
-  - [Oseberg Tapestry Fragments](../ai/community/oseberg-tapestry-fragments.md)
-  - [Tailscale SSH: Investigation and remediation update](../ai/community/tailscale-ssh-investigation-and-remediation-update.md)
-  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
+  - [Nixpkgs for the Front End Impaired](../ai/community/nixpkgs-for-the-front-end-impaired.md)
+  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41996,4 +41992,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-29T03:01:35.655089+05:30*
+*Index generated on 2026-10-29T11:44:33.746947+05:30*

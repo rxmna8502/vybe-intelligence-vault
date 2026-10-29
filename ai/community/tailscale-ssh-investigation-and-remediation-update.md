@@ -13,13 +13,14 @@ collected_at: '2026-10-29T02:44:43.777214+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tailscale-ssh-investigation-and-remediation-update
 first_seen: '2026-10-28T11:23:26.512650+05:30'
 last_seen: '2026-10-29T02:44:43.777214+05:30'
 last_checked: '2026-10-29T02:44:43.777214+05:30'
 health_score: 100
 ---
+
 
 # Tailscale SSH: Investigation and remediation update
 
