@@ -38090,12 +38090,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
-  - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](../ai/community/forging-a-microsoft-edge-full-chain-with-logic-bug.md)
-  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
-  - [React.lazy, Suspense and the Hidden 300 ms Delay](../web-development/community/react-lazy-suspense-and-the-hidden-300-ms-delay.md)
-  - [Southern Africa's first known stenciled rock art found hiding in plain sight](../ai/community/southern-africa-s-first-known-stenciled-rock-art-f.md)
-  - [The US added a record 20.2 GWh of battery storage in just 3 months](../ai/community/the-us-added-a-record-20-2-gwh-of-battery-storage.md)
+  - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
+  - [LLM Voice](../ai/community/llm-voice.md)
+  - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
+  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
+  - [What we know so far about Spain train crash](../ai/community/what-we-know-so-far-about-spain-train-crash.md)
+  - [Zombie stats: Where the numbers AI quotes come from](../ai/community/zombie-stats-where-the-numbers-ai-quotes-come-from.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41999,4 +41999,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-29T21:08:38.542369+05:30*
+*Index generated on 2026-10-30T03:03:56.144970+05:30*

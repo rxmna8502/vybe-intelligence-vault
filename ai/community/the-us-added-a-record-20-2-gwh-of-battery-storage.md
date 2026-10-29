@@ -13,13 +13,14 @@ collected_at: '2026-10-29T20:51:51.285610+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:the-us-added-a-record-20-2-gwh-of-battery-storage
 first_seen: '2026-10-29T20:51:51.285610+05:30'
 last_seen: '2026-10-29T20:51:51.285610+05:30'
 last_checked: '2026-10-29T20:51:51.285610+05:30'
 health_score: 100
 ---
+
 
 # The US added a record 20.2 GWh of battery storage in just 3 months
 

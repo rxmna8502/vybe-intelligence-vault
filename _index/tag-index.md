@@ -4715,6 +4715,7 @@ Resources organized by keyword tags.
   - [LatentSift: Policy-State Filtering for Token-Efficient Verification of Software Engineering Agents](../ai/agents/arxiv-2609-36371.md)
   - [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](../ai/rag/arxiv-2606-06087.md)
   - [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](../ai/agents/arxiv-2610-26869.md)
+  - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](../ai/agents/arxiv-2606-01838.md)
   - [LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](../ai/agents/arxiv-2609-23058.md)
@@ -5802,7 +5803,6 @@ Resources organized by keyword tags.
   - [Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment](../ai/agents/arxiv-2605-21401.md)
   - [Open-source LLMs as LangChain Agents](../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
-  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
@@ -9540,10 +9540,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
-  - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](../ai/community/forging-a-microsoft-edge-full-chain-with-logic-bug.md)
-  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
-  - [Southern Africa's first known stenciled rock art found hiding in plain sight](../ai/community/southern-africa-s-first-known-stenciled-rock-art-f.md)
+  - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
+  - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
+  - [What we know so far about Spain train crash](../ai/community/what-we-know-so-far-about-spain-train-crash.md)
+  - [Zombie stats: Where the numbers AI quotes come from](../ai/community/zombie-stats-where-the-numbers-ai-quotes-come-from.md)
 
 ## animation
 
@@ -21209,6 +21209,7 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -36545,7 +36546,6 @@ Resources organized by keyword tags.
   - [React Labs: What We've Been Working On – March 2023](../web-development/react-labs-what-we-ve-been-working-on-march-2023.md)
   - [React v18.0](../web-development/react-v18-0.md)
   - [React v19](../web-development/react-v19.md)
-  - [React.lazy, Suspense and the Hidden 300 ms Delay](../web-development/community/react-lazy-suspense-and-the-hidden-300-ms-delay.md)
   - [ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams](../ai/research/arxiv-2604-15994.md)
   - [ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs](../ai/agents/arxiv-2609-10895.md)
   - [Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation](../ai/rag/arxiv-2608-14076.md)
@@ -38607,7 +38607,7 @@ Resources organized by keyword tags.
   - [Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](../ai/research/arxiv-2510-03520.md)
   - [Certified Approximation for Interpretable Representer Landmarks](../ai/rag/arxiv-2609-38901.md)
   - [Chaelsoo/Zetsu](../ai/rag/chaelsoo-zetsu.md)
-  - [Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
+  - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
   - [Chainlink Fundamentals Course - Cyfrin Updraft](../ai/resources/chainlink-fundamentals-course-cyfrin-updraft.md)
   - [Chainlink Labs](../ai/resources/chainlink-labs.md)
   - [Chainlink: The Industry-Standard Oracle Platform](../ai/rag/chainlink-the-industry-standard-oracle-platform.md)
@@ -39389,7 +39389,6 @@ Resources organized by keyword tags.
   - [Forecasting with an N-dimensional Langevin Equation and a Neural-Ordinary Differential Equation](../ai/research/arxiv-2405-07359.md)
   - [Forensic-Aware Continual Adaptation for Image Forgery Localization](../ai/research/arxiv-2609-38251.md)
   - [Foreword: Pre-Generation Prediction and Characterisation of LLM Test Failures using the Jacobian Lens](../ai/rag/arxiv-2610-28187.md)
-  - [Forging a Microsoft Edge Full Chain with Logic Bugs Only](../ai/community/forging-a-microsoft-edge-full-chain-with-logic-bug.md)
   - [Former Google CEO plans to singlehandedly fund a Hubble telescope replacement - Ars Technica](../ai/rag/former-google-ceo-plans-to-singlehandedly-fund-a-h.md)
   - [Formulation and Learning Of The Forecasting Problem](../ai/research/arxiv-2603-20359.md)
   - [Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym](../ai/agents/arxiv-2609-37267.md)
@@ -40045,6 +40044,7 @@ Resources organized by keyword tags.
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
   - [LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs](../ai/research/arxiv-2608-03036.md)
   - [LLM University (LLMU)](../ai/resources/llm-university-llmu.md)
+  - [LLM Voice](../ai/community/llm-voice.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review](../ai/research/arxiv-2607-05031.md)
   - [LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark](../ai/agents/arxiv-2609-00192.md)
@@ -40091,6 +40091,7 @@ Resources organized by keyword tags.
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent space bias directions in LLMs capture confidence, not fairness](../ai/research/arxiv-2610-08559.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
+  - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -40631,7 +40632,6 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -41016,7 +41016,6 @@ Resources organized by keyword tags.
   - [ReRAM-aware Model Finetuning addressing I-V Non-linearity and Retention Errors](../ai/research/arxiv-2606-17471.md)
   - [ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](../ai/rag/arxiv-2606-13316.md)
   - [React](../ai/resources/react.md)
-  - [React.lazy, Suspense and the Hidden 300 ms Delay](../web-development/community/react-lazy-suspense-and-the-hidden-300-ms-delay.md)
   - [Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment](../ai/research/arxiv-2606-24851.md)
   - [Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval](../ai/rag/arxiv-2607-00448.md)
   - [Real-Time Monitoring of MHD Liquid Metal Flows with Shallow Recurrent Decoders](../ai/research/arxiv-2608-28366.md)
@@ -41407,7 +41406,6 @@ Resources organized by keyword tags.
   - [Sound Probabilistic Safety Bounds for Large Language Models](../ai/rag/arxiv-2607-20286.md)
   - [Soundwaves settle debate about elusive quantum particle | Cornell Chronicle](../ai/rag/soundwaves-settle-debate-about-elusive-quantum-par.md)
   - [Source-Free Controlled Adaptation of Teachers for Continual Test-Time Adaptation](../ai/rag/arxiv-2607-23735.md)
-  - [Southern Africa's first known stenciled rock art found hiding in plain sight](../ai/community/southern-africa-s-first-known-stenciled-rock-art-f.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Soyeong Jeong](../ai/rag/soyeong-jeong.md)
   - [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](../ai/rag/arxiv-2601-16294.md)
@@ -41713,7 +41711,6 @@ Resources organized by keyword tags.
   - [The Tamed Subgradient Unadjusted Langevin Algorithm beyond Convexity](../ai/research/arxiv-2608-06283.md)
   - [The Technology Behind BLOOM Training](../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
   - [The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence](../ai/agents/arxiv-2604-06621.md)
-  - [The US added a record 20.2 GWh of battery storage in just 3 months](../ai/community/the-us-added-a-record-20-2-gwh-of-battery-storage.md)
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Urysohn Ladder: Recursive Metric Contraction for Scalable Continual Learning](../ai/research/arxiv-2512-18471.md)
   - [The Utility and Complexity of in- and out-of-Distribution Machine Unlearning](../ai/research/arxiv-2412-09119.md)
@@ -41728,6 +41725,7 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The shape of quark flavors](../ai/research/arxiv-2609-22812.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
+  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
@@ -42075,6 +42073,7 @@ Resources organized by keyword tags.
   - [What is a Container? | Docker](../ai/rag/what-is-a-container-docker.md)
   - [What is artificial intelligence? | web.dev](../ai/rag/what-is-artificial-intelligence-web-dev.md)
   - [What resources are needed for optimal learning of bosonic Gaussian states?](../ai/research/arxiv-2603-18136.md)
+  - [What we know so far about Spain train crash](../ai/community/what-we-know-so-far-about-spain-train-crash.md)
   - [What's Different About This Book? - The Rust Programming Language](../ai/rag/what-s-different-about-this-book-the-rust-programm.md)
   - [What's in a Smoothness Constant? Tighter Rates for Local SGD with Bounded Second-order Heterogeneity](../ai/rag/arxiv-2607-14731.md)
   - [What's new in Aspire 13.1 | Aspire](../ai/agents/what-s-new-in-aspire-13-1-aspire.md)
@@ -42160,6 +42159,7 @@ Resources organized by keyword tags.
   - [Zilliz - YouTube](../ai/rag/zilliz-youtube.md)
   - [Zilliz · GitHub](../ai/rag/zilliz-github.md)
   - [Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](../ai/research/arxiv-2609-17909.md)
+  - [Zombie stats: Where the numbers AI quotes come from](../ai/community/zombie-stats-where-the-numbers-ai-quotes-come-from.md)
   - [ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models](../ai/agents/arxiv-2609-34457.md)
   - [Zoom Privacy Statement | Zoom](../ai/resources/zoom-privacy-statement-zoom.md)
   - [[1503.03832] FaceNet: A Unified Embedding for Face Recognition and Clustering](../ai/rag/arxiv-1503-03832.md)
@@ -43095,6 +43095,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [LLM Voice](../ai/community/llm-voice.md)
 
 ## mdx
 
@@ -53256,7 +53260,6 @@ Resources organized by keyword tags.
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [Online Tokenization with Optimal Delay in Linear Time](../ai/research/arxiv-2610-19139.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
-  - [OpenAI's agents talked to each other through the CPU Cache](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAl4S: Code as Action, Science as Sessions](../ai/agents/arxiv-2609-15096.md)
@@ -60335,6 +60338,7 @@ Resources organized by keyword tags.
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
   - [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](../ai/agents/arxiv-2610-26869.md)
+  - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -71818,7 +71822,6 @@ Resources organized by keyword tags.
   - [The Three Regimes of Offline-to-Online Reinforcement Learning](../ai/rag/arxiv-2510-01460.md)
   - [The Token Games: Evaluating Language Model Reasoning with Puzzle Duels](../ai/rag/arxiv-2602-17831.md)
   - [The Tokenizer Tax: Quantifying and Explaining the Cross-Lingual Cost of Subword Tokenization for Indian Languages](../ai/rag/arxiv-2607-24276.md)
-  - [The US added a record 20.2 GWh of battery storage in just 3 months](../ai/community/the-us-added-a-record-20-2-gwh-of-battery-storage.md)
   - [The Undetected Damage of Quantization on Retrieval and How to Fix It](../ai/rag/arxiv-2609-24322.md)
   - [The Universal Classifier for Graph Learning](../ai/rag/arxiv-2609-36302.md)
   - [The Universal Language of CSI:Unifying Wireless Sensing Across Devices and Environments](../ai/rag/arxiv-2607-09727.md)
@@ -71842,6 +71845,7 @@ Resources organized by keyword tags.
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
   - [The persuasive power of large language models does not depend on their perceived national origin](../ai/rag/arxiv-2607-29334.md)
   - [The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer](../ai/rag/arxiv-2502-15631.md)
+  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment](../ai/rag/arxiv-2607-05552.md)
   - [The zbMATH Open Knowledge Graph: Tracing Centuries of Mathematical Research](../ai/rag/arxiv-2609-00969.md)
   - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
@@ -73507,10 +73511,6 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
-
-## react
-
-  - [React.lazy, Suspense and the Hidden 300 ms Delay](../web-development/community/react-lazy-suspense-and-the-hidden-300-ms-delay.md)
 
 ## reddit
 
@@ -76517,7 +76517,6 @@ Resources organized by keyword tags.
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
   - [Silent Failures Beyond the 32-Bit Index Range: A Differential Characterization of Large-Tensor Matrix Multiplication in PyTorch's MPS Backend](../ai/research/arxiv-2609-22991.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
-  - [Southern Africa's first known stenciled rock art found hiding in plain sight](../ai/community/southern-africa-s-first-known-stenciled-rock-art-f.md)
   - [SparseKAN: Compressing Kolmogorov--Arnold Networks Across Basis Functions, Neurons, and Bits](../ai/research/arxiv-2608-00859.md)
   - [SplineNet: An Isogeometric Deep Learning Method for Complex Shells](../ai/research/arxiv-2607-06026.md)
   - [Stability-Constrained Approximation in Spline KANs: Exact Layer Balancing and Budget-Compatible Saturation](../ai/research/arxiv-2609-17619.md)
@@ -85754,4 +85753,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-29T21:08:38.020978+05:30*
+*Index generated on 2026-10-30T03:03:55.620762+05:30*

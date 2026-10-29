@@ -5,28 +5,27 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://wired.com/story/the-tragedy-of-losing-your-wikipedia-page
 hn_url: https://news.ycombinator.com/item?id=50247342
-score: 8
+score: 44
 author: tptacek
-comments_count: 7
+comments_count: 66
 published_at: '2026-10-26T22:45:58+05:30'
-collected_at: '2026-10-29T02:44:41.130369+05:30'
+collected_at: '2026-10-30T02:47:15.396629+05:30'
 tags:
 - hackernews
 - rag
-status: inactive
+status: active
 resource_id: hackernews:the-tragedy-of-losing-your-wikipedia-page
 first_seen: '2026-10-29T02:44:41.130369+05:30'
-last_seen: '2026-10-29T02:44:41.130369+05:30'
-last_checked: '2026-10-29T02:44:41.130369+05:30'
+last_seen: '2026-10-30T02:47:15.396629+05:30'
+last_checked: '2026-10-30T02:47:15.396629+05:30'
 health_score: 100
 ---
-
 
 # The tragedy of losing your Wikipedia page
 
 ## Summary
 
-Hacker News story by tptacek. Score: 8, Comments: 7.
+Hacker News story by tptacek. Score: 44, Comments: 66.
 Original Link: https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/
 
 ## Why It Matters
@@ -36,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: tptacek
-- Score: 8 Upvotes
-- Comments: 7 Discussions
+- Score: 44 Upvotes
+- Comments: 66 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50247342
 - Original Article: https://wired.com/story/the-tragedy-of-losing-your-wikipedia-page
 

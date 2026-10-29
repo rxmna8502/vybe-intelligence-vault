@@ -1,5 +1,5 @@
 {
-  "total_files": 166647,
+  "total_files": 166644,
   "categories": {
     "agent-frameworks": 7124,
     "agent-instructions": 17,
@@ -13,10 +13,10 @@
     "guardrails-security": 20580,
     "inference-local-llm": 1773,
     "jobs-market": 16,
-    "learning-paths": 145,
+    "learning-paths": 144,
     "llm-app-templates": 476,
     "mcp-registry": 353,
-    "model-providers": 3486,
+    "model-providers": 3485,
     "observability": 1976,
     "project-ideas": 111,
     "prompt-libraries": 283,
@@ -24,7 +24,7 @@
     "rag-systems": 37387,
     "startup-builder": 263,
     "vector-databases": 12579,
-    "webdev-3d-creative": 194
+    "webdev-3d-creative": 193
   },
-  "last_updated": "2026-10-29T21:12:30.116464+05:30"
+  "last_updated": "2026-10-30T03:07:47.139040+05:30"
 }

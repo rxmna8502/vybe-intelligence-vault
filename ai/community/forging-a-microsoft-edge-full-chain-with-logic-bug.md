@@ -13,13 +13,14 @@ collected_at: '2026-10-29T20:51:51.541872+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:forging-a-microsoft-edge-full-chain-with-logic-bug
 first_seen: '2026-10-29T20:51:51.541872+05:30'
 last_seen: '2026-10-29T20:51:51.541872+05:30'
 last_checked: '2026-10-29T20:51:51.541872+05:30'
 health_score: 100
 ---
+
 
 # Forging a Microsoft Edge Full Chain with Logic Bugs Only
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - threejs
-status: active
+status: inactive
 resource_id: hackernews:southern-africa-s-first-known-stenciled-rock-art-f
 first_seen: '2026-10-29T20:51:51.649881+05:30'
 last_seen: '2026-10-29T20:51:51.649881+05:30'
 last_checked: '2026-10-29T20:51:51.649881+05:30'
 health_score: 100
 ---
+
 
 # Southern Africa's first known stenciled rock art found hiding in plain sight
 

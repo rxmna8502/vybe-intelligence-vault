@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:react-lazy-suspense-and-the-hidden-300-ms-delay
 first_seen: '2026-10-29T20:51:50.434622+05:30'
 last_seen: '2026-10-29T20:51:50.434622+05:30'
 last_checked: '2026-10-29T20:51:50.434622+05:30'
 health_score: 100
 ---
+
 
 # React.lazy, Suspense and the Hidden 300 ms Delay
 

@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-s-agents-talked-to-each-other-through-the-c
 first_seen: '2026-10-29T11:28:14.944381+05:30'
 last_seen: '2026-10-29T20:51:52.111087+05:30'
 last_checked: '2026-10-29T20:51:52.111087+05:30'
 health_score: 100
 ---
+
 
 # OpenAI's agents talked to each other through the CPU Cache
 
