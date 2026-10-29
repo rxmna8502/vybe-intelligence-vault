@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-29T11:47:23.387876+05:30`
+Generated at: `2026-10-29T17:21:39.674442+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Nixpkgs for the Front End Impaired** - Score: `35` in category `ai/community` ([Link](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired)) ([File](../ai/community/nixpkgs-for-the-front-end-impaired.md))
-- **OpenAI's agents talked to each other through the CPU Cache** - Score: `35` in category `ai/community` ([Link](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache)) ([File](../ai/community/openai-s-agents-talked-to-each-other-through-the-c.md))
+- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
 
 ## Top Trending Resources
 
-- **Dayjob: Tax – evaluating AI agents on 50 professional tax assignments** - Score: `221` (+70), Rank Change: `+2` ([File](../ai/community/dayjob-tax-evaluating-ai-agents-on-50-professional.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1064` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+2005` ([File](../ai/rag/malonge-ragoo.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+4` ([File](../ai/companies/computer-vision.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **EvanThomasLuke/Awesome-AI-Hacking-Agents** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md))
+- **MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md))
+- **AI-Application-and-Integration-Lab/MegaRAG** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/ai-application-and-integration-lab-megarag.md))
+- **wgcyeo/UniversalRAG** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/wgcyeo-universalrag.md))
+- **apecloud/ApeRAG** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/apecloud-aperag.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+1043` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **malonge/RaGOO** - (Rank Change: `+2005`) ([File](../ai/rag/malonge-ragoo.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+1064`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+86`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+86`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - (Rank Change: `+86`) ([File](../ai/rag/react-19-3.md))
-- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+33`) ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+33`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
-- **The Reformer - Pushing the limits of language modeling** - (Rank Change: `+33`) ([File](../ai/models/huggingface-blog-reformer.md))
-- **Block Sparse Matrices for Smaller and Faster Language Models** - (Rank Change: `+33`) ([File](../ai/models/huggingface-blog-pytorch-block-sparse.md))
-- **Transformer-based Encoder-Decoder Models** - (Rank Change: `+33`) ([File](../ai/models/huggingface-blog-encoder-decoder.md))
+- **infiniflow/ragflow** - (Rank Change: `+28078`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1045`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1045`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1045`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1045`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1045`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1045`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1045`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1045`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1045`) ([File](../ai/agents/arxiv-2606-05050.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,9 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Tailscale SSH: Investigation and remediation update** (Category: `ai/community`) ([File](../ai/community/tailscale-ssh-investigation-and-remediation-update.md))
-- **Kentucky man becomes the first humanist granted religious exemption from AI** (Category: `ai/community`) ([File](../ai/community/kentucky-man-becomes-the-first-humanist-granted-re.md))
-- **Google AI gets cagey when asked who won the 2020 elections** (Category: `ai/community`) ([File](../ai/community/google-ai-gets-cagey-when-asked-who-won-the-2020-e.md))
-- **Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents** (Category: `ai/community`) ([File](../ai/community/leak-exposes-41000-homeland-security-workers-inclu.md))
-- **The tragedy of losing your Wikipedia page** (Category: `ai/community`) ([File](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md))
-- **Oseberg Tapestry Fragments** (Category: `ai/community`) ([File](../ai/community/oseberg-tapestry-fragments.md))
+No recently active resources transitioned to inactive.
+
