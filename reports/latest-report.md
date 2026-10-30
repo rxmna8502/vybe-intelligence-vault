@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-30T21:04:18.255996+05:30`
+Generated at: `2026-10-31T00:15:16.053062+05:30`
 
 ## Executive Summary
 
@@ -8,37 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech** - Score: `310` in category `ai/community` ([Link](https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead)) ([File](../ai/community/us-reps-lead-democratic-resolution-opposing-a-i-bu.md))
-- **Anthropic Cracking Down on Video Game Rewrites** - Score: `18` in category `ai/community` ([Link](https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968)) ([File](../ai/community/anthropic-cracking-down-on-video-game-rewrites.md))
-- **Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code** - Score: `13` in category `ai/community` ([Link](https://tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts)) ([File](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md))
-- **ludo-technologies/python-best-practices** - Score: `0` in category `ai/agents` ([Link](https://github.com/ludo-technologies/python-best-practices)) ([File](../ai/agents/ludo-technologies-python-best-practices.md))
-- **Qwen/Qwen3-0.6B** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/qwen/qwen3-0.6b)) ([File](../ai/models/huggingface-qwen-qwen3-0-6b.md))
+- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
 
 ## Top Trending Resources
 
-- **LLM Voice** - Score: `540` (+133), Rank Change: `0` ([File](../ai/community/llm-voice.md))
-- **We ran AI agent swarms in Minecraft and Mindustry** - Score: `353` (+113), Rank Change: `0` ([File](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md))
-- **odsc2015/agentic-hackathon-template** - Score: `0` (0), Rank Change: `+4032` ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **caramaschiHG/awesome-ai-agents-2026** - Score: `0` (0), Rank Change: `+7689` ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
-- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+1050` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
-- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+1050` ([File](../ai/agents/huangjia2019-ai-agents.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+1055` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1052` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1054` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+1054` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **scaleapi/rsi-benchmark** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/agents/scaleapi-rsi-benchmark.md))
+- **KruxAI/ragbuilder** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/kruxai-ragbuilder.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **Azure/GenAIOps-project-template** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/azure-genaiops-project-template.md))
+- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **EvanThomasLuke/Awesome-AI-Hacking-Agents** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md))
+- **MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md))
+- **AI-Application-and-Integration-Lab/MegaRAG** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/ai-application-and-integration-lab-megarag.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **caramaschiHG/awesome-ai-agents-2026** - (Rank Change: `+7689`) ([File](../ai/agents/caramaschihg-awesome-ai-agents-2026.md))
-- **odsc2015/agentic-hackathon-template** - (Rank Change: `+4032`) ([File](../ai/agents/odsc2015-agentic-hackathon-template.md))
-- **datawhalechina/hello-agents** - (Rank Change: `+1999`) ([File](../ai/rag/datawhalechina-hello-agents.md))
-- **NirDiamant/RAG_Techniques** - (Rank Change: `+1064`) ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+1055`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **patchy631/ai-engineering-hub** - (Rank Change: `+1055`) ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+1055`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - (Rank Change: `+1054`) ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
-- **pixegami/rag-tutorial-v2** - (Rank Change: `+1054`) ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1054`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **infiniflow/ragflow** - (Rank Change: `+28081`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1048`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1048`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1048`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1048`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1048`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1048`) ([File](../ai/agents/arxiv-2606-05050.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -49,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **What we know so far about Spain train crash** (Category: `ai/community`) ([File](../ai/community/what-we-know-so-far-about-spain-train-crash.md))
-- **Pico CSS is no longer maintained** (Category: `ai/community`) ([File](../ai/community/picocss-pico.md))
-- **A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)** (Category: `ai/community`) ([File](../ai/community/a-pig-the-state-and-war-porco-rosso-kurenai-no-but.md))
-- **Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents** (Category: `ai/community`) ([File](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md))
+No recently active resources transitioned to inactive.
+

@@ -21,11 +21,11 @@ AI agents represent the transition from passive text generation to active, goal-
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 7868 resources matched in the intelligence vault.
 Recently detected signals:
-- [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md) (Source: Unknown Source) - Collected 2026-10-30
-- [SolutionsModernizing complex legacy code with AI agents.Lessons from 40,000 lines of Fortran.September 9, 2026By Carlo Antonio Patti & Rasul Alakbarli](../ai/companies/mistral/solutionsmodernizing-complex-legacy-code-with-ai-a.md) (Source: Unknown Source) - Collected 2026-10-30
-- [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md) (Source: Unknown Source) - Collected 2026-10-30
-- [Donating Agent Skills to the Agentic AI Foundation](../ai/companies/anthropic/donating-agent-skills-to-the-agentic-ai-foundation.md) (Source: Unknown Source) - Collected 2026-10-30
-- [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md) (Source: Unknown Source) - Collected 2026-10-30
+- [odsc2015/agentic-hackathon-template](../ai/agents/odsc2015-agentic-hackathon-template.md) (Source: Unknown Source) - Collected 2026-10-30
+- [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026.md) (Source: Unknown Source) - Collected 2026-10-30
+- [ludo-technologies/python-best-practices](../ai/agents/ludo-technologies-python-best-practices.md) (Source: Unknown Source) - Collected 2026-10-30
+- [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md) (Source: Unknown Source) - Collected 2026-10-30
+- [huangjia2019/ai-agents](../ai/agents/huangjia2019-ai-agents.md) (Source: Unknown Source) - Collected 2026-10-30
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -76,75 +76,75 @@ Recently detected signals:
 - Language: Unknown
 - Description: *   Python-based template for identifying frameworks analogous to CrewAI.
 
-### 10. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
-- Stars: 0
-- Language: Unknown
-- Description: *   Integrates FastAPI with LangGraph and LangChain for orchestrating LLM-powered AI agent applications.
-
-### 11. [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([GitHub](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart))
+### 10. [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([GitHub](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Integration**: Demonstrates full-stack agent development using **Gemini 2.5** and **LangGraph**, enabling structured multi-agent workflows with stateful graph-based orchestration.
 
-### 12. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
+### 11. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
 - Stars: 0
 - Language: Unknown
 - Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
 
-### 13. [crewAIInc/awesome-crewai](../ai/rag/crewaiinc-awesome-crewai.md) ([GitHub](https://github.com/crewaiinc/awesome-crewai))
+### 12. [crewAIInc/awesome-crewai](../ai/rag/crewaiinc-awesome-crewai.md) ([GitHub](https://github.com/crewaiinc/awesome-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Curated Open-Source Projects**: Repository listing community-built projects leveraging CrewAI, an AI agent framework, to enable discovery, contribution, and extension of AI agent capabilities.
 
-### 14. [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
+### 13. [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Role-based agent orchestration framework** enabling autonomous AI agents to collaborate via structured role-playing and task delegation in Python.
 
-### 15. [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md) ([GitHub](https://github.com/langchain-ai/langgraph))
+### 14. [langchain-ai/langgraph](../ai/rag/langchain-ai-langgraph.md) ([GitHub](https://github.com/langchain-ai/langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Purpose**: LangGraph is a Python-based open-source framework designed for building resilient, multi-agent AI systems with support for LLMs (OpenAI, Gemini), enterprise integrations, a...
 
-### 16. [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md) ([GitHub](https://github.com/krishnaik06/agentic-langgraphcrash-course))
+### 15. [krishnaik06/Agentic-LanggraphCrash-course](../ai/agents/krishnaik06-agentic-langgraphcrash-course.md) ([GitHub](https://github.com/krishnaik06/agentic-langgraphcrash-course))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: GitHub repository `krishnaik06/Agentic-LanggraphCrash-course` contains Jupyter Notebooks focused on agentic workflows using LangGraph, last updated on 2026-08-29.
 
-### 17. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
+### 16. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
 - Stars: 0
 - Language: Unknown
 - Description: A travel agent python app built with CrewAI framework using GPT model from OpenAI to be run locally or on CI/CD with Github Actions.
 
-### 18. [coleam00/agentic-chat-application-template](../ai/agents/coleam00-agentic-chat-application-template.md) ([GitHub](https://github.com/coleam00/agentic-chat-application-template))
+### 17. [coleam00/agentic-chat-application-template](../ai/agents/coleam00-agentic-chat-application-template.md) ([GitHub](https://github.com/coleam00/agentic-chat-application-template))
 - Stars: 0
 - Language: Unknown
 - Description: *   TypeScript-based agentic chat application template utilizing Next.js, TailwindCSS, and Shadcn UI components.
 
-### 19. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
+### 18. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
 - Stars: 0
 - Language: Unknown
 - Description: *   Full-stack architecture leverages FastAPI (Python) for the backend and Next.js/React/TypeScript for the frontend, supporting real-time communication via WebSockets.
 
-### 20. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
+### 19. [muhammad-uzair-yasin/CrewAi_starter_template](../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([GitHub](https://github.com/muhammad-uzair-yasin/crewai_starter_template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository**: `muhammad-uzair-yasin/CrewAi_starter_template` – A starter template for CrewAI, a Python-based framework for multi-agent AI systems.
 
-### 21. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([GitHub](https://github.com/ksm26/multi-ai-agent-systems-with-crewai))
+### 20. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([GitHub](https://github.com/ksm26/multi-ai-agent-systems-with-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent System Framework**: Demonstrates specialized AI agent teams using the open-source `crewAI` library to automate complex, multi-step business processes (e.g., financial analysis, even...
 
-### 22. [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md) ([GitHub](https://github.com/langchain-ai/langgraph-swarm-py))
+### 21. [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md) ([GitHub](https://github.com/langchain-ai/langgraph-swarm-py))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent Orchestration Framework**: Implements a swarm-based architecture for coordinating multiple LLM-driven agents in Python, leveraging LangGraph for stateful workflows and dynamic agent...
 
-### 23. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
+### 22. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
 - Stars: 0
 - Language: Unknown
 - Description: *   AAS Core provides a local, agent-first control plane for discovery, agent-owned selection, stack validation, and planning across 2,600+ agentic skills.
+
+### 23. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+- Stars: 0
+- Language: Unknown
+- Description: *   Integrates FastAPI with LangGraph and LangChain for orchestrating LLM-powered AI agent applications.
 
 ### 24. [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md) ([GitHub](https://github.com/nirdiamant/genai_agents))
 - Stars: 0
@@ -279,7 +279,7 @@ Recently detected signals:
 ### 50. [kylestratis/ai_agents_mcp_examples](../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([GitHub](https://github.com/kylestratis/ai_agents_mcp_examples))
 - Stars: 0
 - Language: Unknown
-- Description: *   Repository for AI agent and Multi-Agent Coordination Protocol (MCP) example implementations.
+- Description: *   Python-based repository providing examples for AI agents, inferring Multi-Agent Collaboration
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-10-30T11:44:32.814358+05:30.478935+05:30.394123+05:30.359880+05:30.921642+05:30.436300+05:30.083279+05:30.366522+05:30.288583+05:30.748734+05:30.961303+05:30.157580+05:30.024120+05:30.941793+05:30.161767+05:30.494483+05:30.198525+05:30.273869+05:30.106179+05:30.266396+05:30.601112+05:30.293326+05:30.879948+05:30.903057+05:30.271976+05:30.462475+05:30.788571+05:30.374255+05:30.210840+05:30.745540+05:30.045483+05:30.767721+05:30.159762+05:30.333098+05:30.381160+05:30.887895+05:30.937070+05:30.101825+05:30.455466+05:30.769330+05:30.604994+05:30.622199+05:30.599667+05:30.220882+05:30.431899+05:30.313080+05:30.822549+05:30.713636+05:30.424443+05:30.135820+05:30.304546+05:30.894534+05:30.751678+05:30.441524+05:30.131761+05:30.520383+05:30.651757+05:30.707538+05:30.533479+05:30.292324+05:30.268411+05:30.848437+05:30.709056+05:30.584500+05:30.399900+05:30.490606+05:30.951985+05:30.739386+05:30.773877+05:30.269816+05:30.499297+05:30.186708+05:30.970550+05:30.918546+05:30.433186+05:30.841051+05:30.948552+05:30.649353+05:30.085427+05:30.160878+05:30.145292+05:30.774054+05:30.796173+05:30.790909+05:30.458423+05:30.772222+05:30.146245+05:30.744711+05:30.043748+05:30.941740+05:30.392821+05:30.371115+05:30.802103+05:30.983964+05:30.302552+05:30.241977+05:30.797350+05:30.547691+05:30.006168+05:30.608125+05:30.227084+05:30.263201+05:30.485512+05:30.137477+05:30.282413+05:30.420404+05:30.249823+05:30.152782+05:30.955842+05:30.312996+05:30.606870+05:30.311384+05:30.570501+05:30.366974+05:30.366338+05:30.665463+05:30.529754+05:30.153179+05:30.578414+05:30.251760+05:30.517673+05:30.410297+05:30.733323+05:30.734202+05:30.002461+05:30.941919+05:30.576457+05:30.618837+05:30.102326+05:30.062268+05:30.137342+05:30.219400+05:30.358383+05:30.621113+05:30.820707+05:30.234965+05:30.587001+05:30.615575+05:30.256005+05:30.905606+05:30.012307+05:30.317794+05:30.786921+05:30.263036+05:30.747153+05:30.906450+05:30.997941+05:30.255259+05:30.694381+05:30.850342+05:30.602262+05:30.780123+05:30.345971+05:30.032382+05:30.783282+05:30.481336+05:30.866712+05:30.179749+05:30.566614+05:30.174754+05:30.658475+05:30.500561+05:30.004174+05:30.611703+05:30.381515+05:30.499061+05:30.380009+05:30.091137+05:30.986629+05:30.013314+05:30.149047+05:30.044021+05:30.527548+05:30.192890+05:30.022778+05:30.495285+05:30.382146+05:30.107109+05:30.912658+05:30.278254+05:30.936062+05:30.010580+05:30.600879+05:30.311670+05:30.998283+05:30.331595+05:30.637590+05:30.996688+05:30.943543+05:30.335231+05:30.714181+05:30.427179+05:30.905343+05:30.632632+05:30.065189+05:30.983951+05:30.274652+05:30.803036+05:30.520668+05:30.364711+05:30.996446+05:30.158007+05:30.761359+05:30.474327+05:30.586904+05:30.415568+05:30.847918+05:30.275447+05:30.111078+05:30.871767+05:30.806597+05:30.356390+05:30.536494+05:30.389018+05:30.904657+05:30.418487+05:30.547164+05:30.236731+05:30.842491+05:30.211737+05:30.360375+05:30.026501+05:30.132211+05:30.310581+05:30.657813+05:30.424543+05:30.640529+05:30.034798+05:30.659451+05:30.095307+05:30.487773+05:30.258217+05:30.347094+05:30.917760+05:30.148232+05:30.613005+05:30.081468+05:30.532798+05:30.913091+05:30.459465+05:30.496446+05:30.479624+05:30.304138+05:30.924485+05:30.619652+05:30.324756+05:30.860515+05:30.447899+05:30.380642+05:30.863540+05:30.128577+05:30.421044+05:30.721369+05:30.057217+05:30.749144+05:30.007395+05:30.900640+05:30.102826+05:30.048115+05:30.249530+05:30.110464+05:30.186561+05:30.567085+05:30.966203+05:30.814515+05:30.418952+05:30.140686+05:30.863621+05:30.589699+05:30.165123+05:30.740885+05:30.377287+05:30.776024+05:30.744836+05:30.342838+05:30.721711+05:30.055333+05:30.725095+05:30.368605+05:30.474325+05:30.261470+05:30.847396+05:30.536295+05:30.894925+05:30.332557+05:30.815617+05:30.369142+05:30.386099+05:30.527978+05:30.958565+05:30.616243+05:30.691651+05:30.361368+05:30.590544+05:30.718791+05:30.503365+05:30.934362+05:30.040410+05:30.402269+05:30.230294+05:30.596719+05:30.231593+05:30.671428+05:30.344342+05:30.204361+05:30.736488+05:30.410728+05:30.683848+05:30.074778+05:30.916382+05:30.068440+05:30.013427+05:30.158805+05:30.916846+05:30.684640+05:30.316425+05:30.513533+05:30.304215+05:30.802023+05:30.151012+05:30.816672+05:30.159613+05:30.298017+05:30.997624+05:30.013593+05:30.748356+05:30.715314+05:30.794976+05:30.844419+05:30.932998+05:30.994056+05:30.806164+05:30.206127+05:30.638234+05:30.008233+05:30.617626+05:30.654993+05:30.491200+05:30.111071+05:30.556956+05:30.237489+05:30.568106+05:30.747322+05:30.996005+05:30.688904+05:30.592131+05:30.708429+05:30.317786+05:30.975626+05:30.670784+05:30.983791+05:30.764889+05:30.578419+05:30.640743+05:30.434780+05:30.451416+05:30.462750+05:30.815063+05:30.875446+05:30.439875+05:30.102679+05:30.568853+05:30.687453+05:30.821342+05:30.013414+05:30.090778+05:30.555477+05:30.109047+05:30.524750+05:30.534451+05:30.101528+05:30.952023+05:30.140302+05:30.353804+05:30.837497+05:30.078042+05:30.442039+05:30.550253+05:30.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-10-30T20:58:18.462907+05:30.814358+05:30.478935+05:30.394123+05:30.359880+05:30.921642+05:30.436300+05:30.083279+05:30.366522+05:30.288583+05:30.748734+05:30.961303+05:30.157580+05:30.024120+05:30.941793+05:30.161767+05:30.494483+05:30.198525+05:30.273869+05:30.106179+05:30.266396+05:30.601112+05:30.293326+05:30.879948+05:30.903057+05:30.271976+05:30.462475+05:30.788571+05:30.374255+05:30.210840+05:30.745540+05:30.045483+05:30.767721+05:30.159762+05:30.333098+05:30.381160+05:30.887895+05:30.937070+05:30.101825+05:30.455466+05:30.769330+05:30.604994+05:30.622199+05:30.599667+05:30.220882+05:30.431899+05:30.313080+05:30.822549+05:30.713636+05:30.424443+05:30.135820+05:30.304546+05:30.894534+05:30.751678+05:30.441524+05:30.131761+05:30.520383+05:30.651757+05:30.707538+05:30.533479+05:30.292324+05:30.268411+05:30.848437+05:30.709056+05:30.584500+05:30.399900+05:30.490606+05:30.951985+05:30.739386+05:30.773877+05:30.269816+05:30.499297+05:30.186708+05:30.970550+05:30.918546+05:30.433186+05:30.841051+05:30.948552+05:30.649353+05:30.085427+05:30.160878+05:30.145292+05:30.774054+05:30.796173+05:30.790909+05:30.458423+05:30.772222+05:30.146245+05:30.744711+05:30.043748+05:30.941740+05:30.392821+05:30.371115+05:30.802103+05:30.983964+05:30.302552+05:30.241977+05:30.797350+05:30.547691+05:30.006168+05:30.608125+05:30.227084+05:30.263201+05:30.485512+05:30.137477+05:30.282413+05:30.420404+05:30.249823+05:30.152782+05:30.955842+05:30.312996+05:30.606870+05:30.311384+05:30.570501+05:30.366974+05:30.366338+05:30.665463+05:30.529754+05:30.153179+05:30.578414+05:30.251760+05:30.517673+05:30.410297+05:30.733323+05:30.734202+05:30.002461+05:30.941919+05:30.576457+05:30.618837+05:30.102326+05:30.062268+05:30.137342+05:30.219400+05:30.358383+05:30.621113+05:30.820707+05:30.234965+05:30.587001+05:30.615575+05:30.256005+05:30.905606+05:30.012307+05:30.317794+05:30.786921+05:30.263036+05:30.747153+05:30.906450+05:30.997941+05:30.255259+05:30.694381+05:30.850342+05:30.602262+05:30.780123+05:30.345971+05:30.032382+05:30.783282+05:30.481336+05:30.866712+05:30.179749+05:30.566614+05:30.174754+05:30.658475+05:30.500561+05:30.004174+05:30.611703+05:30.381515+05:30.499061+05:30.380009+05:30.091137+05:30.986629+05:30.013314+05:30.149047+05:30.044021+05:30.527548+05:30.192890+05:30.022778+05:30.495285+05:30.382146+05:30.107109+05:30.912658+05:30.278254+05:30.936062+05:30.010580+05:30.600879+05:30.311670+05:30.998283+05:30.331595+05:30.637590+05:30.996688+05:30.943543+05:30.335231+05:30.714181+05:30.427179+05:30.905343+05:30.632632+05:30.065189+05:30.983951+05:30.274652+05:30.803036+05:30.520668+05:30.364711+05:30.996446+05:30.158007+05:30.761359+05:30.474327+05:30.586904+05:30.415568+05:30.847918+05:30.275447+05:30.111078+05:30.871767+05:30.806597+05:30.356390+05:30.536494+05:30.389018+05:30.904657+05:30.418487+05:30.547164+05:30.236731+05:30.842491+05:30.211737+05:30.360375+05:30.026501+05:30.132211+05:30.310581+05:30.657813+05:30.424543+05:30.640529+05:30.034798+05:30.659451+05:30.095307+05:30.487773+05:30.258217+05:30.347094+05:30.917760+05:30.148232+05:30.613005+05:30.081468+05:30.532798+05:30.913091+05:30.459465+05:30.496446+05:30.479624+05:30.304138+05:30.924485+05:30.619652+05:30.324756+05:30.860515+05:30.447899+05:30.380642+05:30.863540+05:30.128577+05:30.421044+05:30.721369+05:30.057217+05:30.749144+05:30.007395+05:30.900640+05:30.102826+05:30.048115+05:30.249530+05:30.110464+05:30.186561+05:30.567085+05:30.966203+05:30.814515+05:30.418952+05:30.140686+05:30.863621+05:30.589699+05:30.165123+05:30.740885+05:30.377287+05:30.776024+05:30.744836+05:30.342838+05:30.721711+05:30.055333+05:30.725095+05:30.368605+05:30.474325+05:30.261470+05:30.847396+05:30.536295+05:30.894925+05:30.332557+05:30.815617+05:30.369142+05:30.386099+05:30.527978+05:30.958565+05:30.616243+05:30.691651+05:30.361368+05:30.590544+05:30.718791+05:30.503365+05:30.934362+05:30.040410+05:30.402269+05:30.230294+05:30.596719+05:30.231593+05:30.671428+05:30.344342+05:30.204361+05:30.736488+05:30.410728+05:30.683848+05:30.074778+05:30.916382+05:30.068440+05:30.013427+05:30.158805+05:30.916846+05:30.684640+05:30.316425+05:30.513533+05:30.304215+05:30.802023+05:30.151012+05:30.816672+05:30.159613+05:30.298017+05:30.997624+05:30.013593+05:30.748356+05:30.715314+05:30.794976+05:30.844419+05:30.932998+05:30.994056+05:30.806164+05:30.206127+05:30.638234+05:30.008233+05:30.617626+05:30.654993+05:30.491200+05:30.111071+05:30.556956+05:30.237489+05:30.568106+05:30.747322+05:30.996005+05:30.688904+05:30.592131+05:30.708429+05:30.317786+05:30.975626+05:30.670784+05:30.983791+05:30.764889+05:30.578419+05:30.640743+05:30.434780+05:30.451416+05:30.462750+05:30.815063+05:30.875446+05:30.439875+05:30.102679+05:30.568853+05:30.687453+05:30.821342+05:30.013414+05:30.090778+05:30.555477+05:30.109047+05:30.524750+05:30.534451+05:30.101528+05:30.952023+05:30.140302+05:30.353804+05:30.837497+05:30.078042+05:30.442039+05:30.550253+05:30.137633+05:30.328714+05:30.885826+05:30.908692+05:30.809380+05:30.254588+05:30.231841+05:30.681111+05:30.265574+05:30.741435+05:30.071974+05:30.958778+05:30.571180+05:30.968153+05:30.349753+05:30.593913+05:30.053579+05:30.546756+05:30.179395+05:30.664302+05:30.398113+05:30.398835+05:30.637475+05:30.425064+05:30.405301+05:30.015168+05:30.490354+05:30.001973+05:30.362547+05:30.457431+05:30.044321+05:30.133141+05:30.672940+05:30.821454+05:30.388358+05:30.170332+05:30.067216+05:30.927352+05:30.137404+05:30.685701+05:30.902370+05:30.537173+05:30.037633+05:30.582118+05:30.130674+05:30.465456+05:30.435485+05:30.193452+05:30.955670+05:30.028864+05:30.219364+05:30.246109+05:30.808195+05:30.971840+05:30.835174+05:30.366310+05:30.118104+05:30.336855+05:30.686234+05:30.067346+05:30.577287+05:30.144563+05:30.714592+05:30.314389+05:30.637845+05:30.380885+05:30.546486+05:30.391871+05:30.649315+05:30.554674+05:30.354708+05:30.360708+05:30.005714+05:30.919156+05:30.030888+05:30.345874+05:30.707482+05:30.628117+05:30.034303+05:30.156000+05:30.319449+05:30.110089+05:30.782260+05:30.106382+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
