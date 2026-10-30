@@ -13,13 +13,14 @@ collected_at: '2026-10-30T02:47:15.396629+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:the-tragedy-of-losing-your-wikipedia-page
 first_seen: '2026-10-29T02:44:41.130369+05:30'
 last_seen: '2026-10-30T02:47:15.396629+05:30'
 last_checked: '2026-10-30T02:47:15.396629+05:30'
 health_score: 100
 ---
+
 
 # The tragedy of losing your Wikipedia page
 

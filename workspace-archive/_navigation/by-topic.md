@@ -11,7 +11,7 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Retrieval & Knowledge Stack (RAG)
 
-- **[RAG Systems](../rag-systems/README.md)** (37387 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
+- **[RAG Systems](../rag-systems/README.md)** (37386 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
 - **[Vector Databases](../vector-databases/README.md)** (12579 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
 - **[Datasets](../datasets/README.md)** (24854 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
 
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (263 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-10-30 03:07 IST*
+*Last updated: 2026-10-30 11:46 IST*

@@ -1,5 +1,5 @@
 {
-  "total_files": 166644,
+  "total_files": 166643,
   "categories": {
     "agent-frameworks": 7124,
     "agent-instructions": 17,
@@ -21,10 +21,10 @@
     "project-ideas": 111,
     "prompt-libraries": 283,
     "public-apis": 50,
-    "rag-systems": 37387,
+    "rag-systems": 37386,
     "startup-builder": 263,
     "vector-databases": 12579,
     "webdev-3d-creative": 193
   },
-  "last_updated": "2026-10-30T03:07:47.139040+05:30"
+  "last_updated": "2026-10-30T11:47:00.745358+05:30"
 }

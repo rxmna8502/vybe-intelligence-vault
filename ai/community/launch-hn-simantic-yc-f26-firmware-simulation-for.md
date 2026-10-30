@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://news.ycombinator.com/item?id=50291116
 hn_url: https://news.ycombinator.com/item?id=50291116
-score: 38
+score: 59
 author: shong0504
-comments_count: 12
+comments_count: 16
 published_at: '2026-10-29T21:26:32+05:30'
-collected_at: '2026-10-30T02:47:14.023374+05:30'
+collected_at: '2026-10-30T11:28:42.380791+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-simantic-yc-f26-firmware-simulation-for
 first_seen: '2026-10-30T02:47:14.023374+05:30'
-last_seen: '2026-10-30T02:47:14.023374+05:30'
-last_checked: '2026-10-30T02:47:14.023374+05:30'
+last_seen: '2026-10-30T11:28:42.380791+05:30'
+last_checked: '2026-10-30T11:28:42.380791+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by shong0504. Score: 38, Comments: 12.
+Hacker News story by shong0504. Score: 59, Comments: 16.
 Original Link: None
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: shong0504
-- Score: 38 Upvotes
-- Comments: 12 Discussions
+- Score: 59 Upvotes
+- Comments: 16 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50291116
 - Original Article: https://news.ycombinator.com/item?id=50291116
 

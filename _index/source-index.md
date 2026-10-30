@@ -38090,12 +38090,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
+  - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](../ai/community/a-pig-the-state-and-war-porco-rosso-kurenai-no-but.md)
   - [LLM Voice](../ai/community/llm-voice.md)
   - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
-  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
+  - [Pico CSS is no longer maintained](../ai/community/picocss-pico.md)
+  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
   - [What we know so far about Spain train crash](../ai/community/what-we-know-so-far-about-spain-train-crash.md)
-  - [Zombie stats: Where the numbers AI quotes come from](../ai/community/zombie-stats-where-the-numbers-ai-quotes-come-from.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -41999,4 +41999,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-30T03:03:56.144970+05:30*
+*Index generated on 2026-10-30T11:45:01.303274+05:30*

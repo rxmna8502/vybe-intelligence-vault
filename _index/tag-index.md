@@ -8794,6 +8794,7 @@ Resources organized by keyword tags.
   - [WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model](../ai/agents/arxiv-2609-23444.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
+  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
   - [WeAct: Dynamic Weight Switching as Agent Actions](../ai/rag/arxiv-2610-26847.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -9540,10 +9541,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
+  - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](../ai/community/a-pig-the-state-and-war-porco-rosso-kurenai-no-but.md)
   - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
+  - [Pico CSS is no longer maintained](../ai/community/picocss-pico.md)
+  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
   - [What we know so far about Spain train crash](../ai/community/what-we-know-so-far-about-spain-train-crash.md)
-  - [Zombie stats: Where the numbers AI quotes come from](../ai/community/zombie-stats-where-the-numbers-ai-quotes-come-from.md)
 
 ## animation
 
@@ -37883,6 +37885,7 @@ Resources organized by keyword tags.
   - [A Penalty Approach for Differentiation Through Black-Box Quadratic Programming Solvers](../ai/rag/arxiv-2602-14154.md)
   - [A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics](../ai/research/arxiv-2608-02965.md)
   - [A Physics-Informed Neural Network Approach for UAV Path Planning in Dynamic Environments](../ai/research/arxiv-2510-21874.md)
+  - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](../ai/community/a-pig-the-state-and-war-porco-rosso-kurenai-no-but.md)
   - [A Power Law in Logarithm's Clothing: On the Scalability of Graph-Based Vector Search](../ai/rag/arxiv-2609-02143.md)
   - [A Practical Investigation of Training-free Relaxed Speculative Decoding](../ai/research/arxiv-2607-08690.md)
   - [A Probabilistic Framework for Learnable Optimization Algorithms](../ai/research/arxiv-2408-11629.md)
@@ -38607,7 +38610,6 @@ Resources organized by keyword tags.
   - [Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](../ai/research/arxiv-2510-03520.md)
   - [Certified Approximation for Interpretable Representer Landmarks](../ai/rag/arxiv-2609-38901.md)
   - [Chaelsoo/Zetsu](../ai/rag/chaelsoo-zetsu.md)
-  - [Chained PHP2Shell exploit roots 25 servers, including US Government servers](../ai/community/chained-php2shell-exploit-roots-25-servers-includi.md)
   - [Chainlink Fundamentals Course - Cyfrin Updraft](../ai/resources/chainlink-fundamentals-course-cyfrin-updraft.md)
   - [Chainlink Labs](../ai/resources/chainlink-labs.md)
   - [Chainlink: The Industry-Standard Oracle Platform](../ai/rag/chainlink-the-industry-standard-oracle-platform.md)
@@ -40764,6 +40766,7 @@ Resources organized by keyword tags.
   - [Physics-informed reduced-order modelling with equivariant spectral submanifolds](../ai/research/arxiv-2608-04239.md)
   - [Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation](../ai/research/arxiv-2610-35910.md)
   - [PiMRef: Deducing Ever-evolving Spear-phishing Emails with Knowledge Base Invariants](../ai/rag/arxiv-2507-15393.md)
+  - [Pico CSS is no longer maintained](../ai/community/picocss-pico.md)
   - [PierreGode/Ragnar](../ai/rag/pierregode-ragnar.md)
   - [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](../ai/research/arxiv-2609-15919.md)
   - [Pinecone - YouTube](../ai/resources/pinecone-youtube.md)
@@ -41725,7 +41728,6 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The shape of quark flavors](../ai/research/arxiv-2609-22812.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
-  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
@@ -42025,6 +42027,7 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
+  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -42159,7 +42162,6 @@ Resources organized by keyword tags.
   - [Zilliz - YouTube](../ai/rag/zilliz-youtube.md)
   - [Zilliz · GitHub](../ai/rag/zilliz-github.md)
   - [Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](../ai/research/arxiv-2609-17909.md)
-  - [Zombie stats: Where the numbers AI quotes come from](../ai/community/zombie-stats-where-the-numbers-ai-quotes-come-from.md)
   - [ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models](../ai/agents/arxiv-2609-34457.md)
   - [Zoom Privacy Statement | Zoom](../ai/resources/zoom-privacy-statement-zoom.md)
   - [[1503.03832] FaceNet: A Unified Embedding for Face Recognition and Clustering](../ai/rag/arxiv-1503-03832.md)
@@ -71845,7 +71847,6 @@ Resources organized by keyword tags.
   - [The observational partial order of causal structures with latent variables](../ai/rag/arxiv-2502-07891.md)
   - [The persuasive power of large language models does not depend on their perceived national origin](../ai/rag/arxiv-2607-29334.md)
   - [The relationship between reasoning and performance in large language models--o3 (mini) thinks harder, not longer](../ai/rag/arxiv-2502-15631.md)
-  - [The tragedy of losing your Wikipedia page](../ai/community/the-tragedy-of-losing-your-wikipedia-page.md)
   - [The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment](../ai/rag/arxiv-2607-05552.md)
   - [The zbMATH Open Knowledge Graph: Tracing Centuries of Mathematical Research](../ai/rag/arxiv-2609-00969.md)
   - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
@@ -85753,4 +85754,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-30T03:03:55.620762+05:30*
+*Index generated on 2026-10-30T11:45:01.000721+05:30*

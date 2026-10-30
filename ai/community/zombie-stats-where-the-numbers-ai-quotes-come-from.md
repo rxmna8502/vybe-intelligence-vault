@@ -13,13 +13,14 @@ collected_at: '2026-10-30T02:47:14.331119+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:zombie-stats-where-the-numbers-ai-quotes-come-from
 first_seen: '2026-10-30T02:47:14.331119+05:30'
 last_seen: '2026-10-30T02:47:14.331119+05:30'
 last_checked: '2026-10-30T02:47:14.331119+05:30'
 health_score: 100
 ---
+
 
 # Zombie stats: Where the numbers AI quotes come from
 
