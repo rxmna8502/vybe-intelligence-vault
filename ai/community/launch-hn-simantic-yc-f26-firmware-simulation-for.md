@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-simantic-yc-f26-firmware-simulation-for
 first_seen: '2026-10-30T02:47:14.023374+05:30'
 last_seen: '2026-10-30T11:28:42.380791+05:30'
 last_checked: '2026-10-30T11:28:42.380791+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents
 

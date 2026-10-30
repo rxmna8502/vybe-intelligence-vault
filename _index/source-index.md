@@ -37743,6 +37743,7 @@ Resources organized by publisher feed and query sources.
   - [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md)
   - [ln-dev7/square-ui](../web-development/shadcn-ui/ln-dev7-square-ui.md)
   - [lszshu/DeepLoop](../ai/resources/lszshu-deeploop.md)
+  - [ludo-technologies/python-best-practices](../ai/agents/ludo-technologies-python-best-practices.md)
   - [luosijie/threejs-examples](../web-development/threejs/luosijie-threejs-examples.md)
   - [magicuidesign/portfolio](../web-development/shadcn-ui/magicuidesign-portfolio.md)
   - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
@@ -38090,12 +38091,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](../ai/community/a-pig-the-state-and-war-porco-rosso-kurenai-no-but.md)
+  - [Anthropic Cracking Down on Video Game Rewrites](../ai/community/anthropic-cracking-down-on-video-game-rewrites.md)
+  - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
   - [LLM Voice](../ai/community/llm-voice.md)
-  - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](../ai/community/launch-hn-simantic-yc-f26-firmware-simulation-for.md)
-  - [Pico CSS is no longer maintained](../ai/community/picocss-pico.md)
+  - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](../ai/community/us-reps-lead-democratic-resolution-opposing-a-i-bu.md)
   - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
-  - [What we know so far about Spain train crash](../ai/community/what-we-know-so-far-about-spain-train-crash.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39010,10 +39010,10 @@ Resources organized by publisher feed and query sources.
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
+  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
-  - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
   - [openai-community/gpt2](../ai/models/huggingface-openai-community-gpt2.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
@@ -41999,4 +41999,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-30T11:45:01.303274+05:30*
+*Index generated on 2026-10-30T20:59:00.822973+05:30*

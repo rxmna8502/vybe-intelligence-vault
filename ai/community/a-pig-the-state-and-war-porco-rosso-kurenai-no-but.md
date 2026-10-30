@@ -13,13 +13,14 @@ collected_at: '2026-10-30T11:28:42.175281+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-pig-the-state-and-war-porco-rosso-kurenai-no-but
 first_seen: '2026-10-30T11:28:42.175281+05:30'
 last_seen: '2026-10-30T11:28:42.175281+05:30'
 last_checked: '2026-10-30T11:28:42.175281+05:30'
 health_score: 100
 ---
+
 
 # A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)
 

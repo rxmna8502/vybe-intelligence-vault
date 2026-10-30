@@ -13,13 +13,14 @@ collected_at: '2026-10-30T11:28:43.934542+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-we-know-so-far-about-spain-train-crash
 first_seen: '2026-10-30T02:47:14.877639+05:30'
 last_seen: '2026-10-30T11:28:43.934542+05:30'
 last_checked: '2026-10-30T11:28:43.934542+05:30'
 health_score: 100
 ---
+
 
 # What we know so far about Spain train crash
 

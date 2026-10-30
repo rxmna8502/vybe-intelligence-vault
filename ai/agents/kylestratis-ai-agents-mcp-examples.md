@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kylestratis/ai_agents_mcp_examples
-collected_at: '2026-10-29T20:55:08.785616+05:30'
+collected_at: '2026-10-30T20:45:31.982655+05:30'
 published_at: '2026-10-21T20:53:33Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-04-26T13:16:14Z'
 pushed_at: '2026-09-18T03:01:46Z'
 resource_id: github:kylestratis/ai_agents_mcp_examples
-first_seen: '2026-10-29T20:55:08.785616+05:30'
-last_seen: '2026-10-29T20:55:08.785616+05:30'
-last_checked: '2026-10-29T20:55:08.785616+05:30'
+first_seen: '2026-10-30T20:45:31.982655+05:30'
+last_seen: '2026-10-30T20:45:31.982655+05:30'
+last_checked: '2026-10-30T20:45:31.982655+05:30'
 health_score: 100
 ---
 
@@ -28,7 +28,7 @@ health_score: 100
 
 ## Summary
 
-*   Repository for AI agent and Multi-Agent Coordination Protocol (MCP) example implementations.
+*   Python-based repository providing examples for AI agents, inferring Multi-Agent Collaboration
 
 ## Why It Matters
 

@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-10-17T17:53:49.637290+05:30'
+collected_at: '2026-10-30T20:46:42.032852+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
 - github-repo
 - unknown
-- workflows
 stars: 19
 language: Unknown
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-10-17T17:53:49.637290+05:30'
-last_seen: '2026-10-17T17:53:49.637290+05:30'
-last_checked: '2026-10-17T17:53:49.637290+05:30'
+first_seen: '2026-10-30T20:46:42.032852+05:30'
+last_seen: '2026-10-30T20:46:42.032852+05:30'
+last_checked: '2026-10-30T20:46:42.032852+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Standardized starter template for Agentic AI App Hackathons.
-*   Includes a pre-defined folder structure and reproducible environment specification.
-*   Facilitates streamlined submission and judging workflows for agentic AI projects.
+*   Provides a standardized project template for Agentic AI application development.
+*   Includes a pre-defined folder structure to streamline hackathon submissions.
+*   Ensures environment reproducibility through a specified dependency manifest.
 
 ## Why It Matters
 

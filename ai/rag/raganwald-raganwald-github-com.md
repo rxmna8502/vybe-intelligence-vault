@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-10-30T11:29:25.758904+05:30'
+collected_at: '2026-10-30T20:43:06.766250+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-10-30T11:29:25.758904+05:30'
-last_seen: '2026-10-30T11:29:25.758904+05:30'
-last_checked: '2026-10-30T11:29:25.758904+05:30'
+first_seen: '2026-10-30T20:43:06.766250+05:30'
+last_seen: '2026-10-30T20:43:06.766250+05:30'
+last_checked: '2026-10-30T20:43:06.766250+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-*   `raganwald.github.com` functions as the Jekyll source for a
+*   `raganwald.github.com` serves as the Jekyll source for a
 
 ## Why It Matters
 
