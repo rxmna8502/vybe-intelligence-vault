@@ -8793,7 +8793,6 @@ Resources organized by keyword tags.
   - [WaveletECO: A Closed-Loop Physical ECO Platform and a Specialized Local Language Model](../ai/agents/arxiv-2609-23444.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
-  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
   - [WeAct: Dynamic Weight Switching as Agent Actions](../ai/rag/arxiv-2610-26847.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -9541,9 +9540,12 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
-  - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](../ai/community/us-reps-lead-democratic-resolution-opposing-a-i-bu.md)
-  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
+  - [AI isn't replacing SREs, it's deskilling them](../ai/community/ai-isn-t-replacing-sres-it-s-deskilling-them.md)
+  - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](../ai/community/blockchain-intelligence-firms-link-north-korea-to.md)
+  - [Building an AI-native engineering org](../ai/community/building-an-ai-native-engineering-org.md)
+  - [Embraer's Atech aims to double in size by 2030 with drone traffic control](../ai/community/embraer-s-atech-aims-to-double-in-size-by-2030-wit.md)
+  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
+  - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](../ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md)
 
 ## animation
 
@@ -9656,7 +9658,7 @@ Resources organized by keyword tags.
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
-  - [Anthropic Cracking Down on Video Game Rewrites](../ai/community/anthropic-cracking-down-on-video-game-rewrites.md)
+  - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](../ai/community/anthropic-may-not-secure-investment-grade-rating-a.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -38023,6 +38025,7 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
+  - [AI isn't replacing SREs, it's deskilling them](../ai/community/ai-isn-t-replacing-sres-it-s-deskilling-them.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
@@ -38236,7 +38239,7 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
-  - [Anthropic Cracking Down on Video Game Rewrites](../ai/community/anthropic-cracking-down-on-video-game-rewrites.md)
+  - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](../ai/community/anthropic-may-not-secure-investment-grade-rating-a.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -38451,6 +38454,7 @@ Resources organized by keyword tags.
   - [Blacklight – The Markup](../ai/resources/blacklight-the-markup.md)
   - [Blending data and physics for reduced-order modeling of systems with spatiotemporal chaotic dynamics](../ai/rag/arxiv-2507-21299.md)
   - [Blockchain and Smart Contract Development Courses - Cyfrin Updraft](../ai/resources/blockchain-and-smart-contract-development-courses.md)
+  - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](../ai/community/blockchain-intelligence-firms-link-north-korea-to.md)
   - [Blocks – WordPress.org](../ai/rag/blocks-wordpress-org.md)
   - [Blog](../ai/rag/blog.md)
   - [Blog Tool, Publishing Platform, and CMS – WordPress.org](../ai/resources/blog-tool-publishing-platform-and-cms-wordpress-or.md)
@@ -38502,6 +38506,7 @@ Resources organized by keyword tags.
   - [Building Trustworthy Mental Health Benchmarks on Bluesky: A Validation-Aware Weak-Supervision Framework](../ai/research/arxiv-2609-22696.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building a Neural Network from Scratch: Implementation, Evaluation, and Optimization](../ai/research/arxiv-2607-16682.md)
+  - [Building an AI-native engineering org](../ai/community/building-an-ai-native-engineering-org.md)
   - [Building evidence-based knowledge bases from full-text literature for disease-specific biomedical reasoning](../ai/rag/arxiv-2603-28325.md)
   - [Building scalable AI agents with modular prompt transpilation - Google Developers Blog](../ai/rag/building-scalable-ai-agents-with-modular-prompt-tr.md)
   - [Business Data Responsibility](../ai/rag/business-data-responsibility.md)
@@ -38640,7 +38645,6 @@ Resources organized by keyword tags.
   - [ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Cross-Modal Alignment Dataset](../ai/rag/arxiv-2505-10083.md)
   - [Chronos: The AI Co-Historian](../ai/research/arxiv-2604-03553.md)
   - [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md)
-  - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
   - [ClassVision: AI-Powered Classroom Attendance System](../ai/research/arxiv-2608-26173.md)
   - [Classification Based on Association Rules Algorithm for Breast Cancer](../ai/research/arxiv-2610-00174.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
@@ -39143,6 +39147,7 @@ Resources organized by keyword tags.
   - [EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems](../ai/research/arxiv-2505-00986.md)
   - [Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems](../ai/research/arxiv-2607-03283.md)
   - [Embodied Semantic Communication for Collective Autonomous Agents: A Tutorial on Representation, Wireless Delivery, and Closed-Loop Coordination](../ai/agents/arxiv-2609-35936.md)
+  - [Embraer's Atech aims to double in size by 2030 with drone traffic control](../ai/community/embraer-s-atech-aims-to-double-in-size-by-2030-wit.md)
   - [Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions](../ai/agents/arxiv-2608-18110.md)
   - [Emergent Abilities in Large Language Models: A Survey](../ai/rag/arxiv-2503-05788.md)
   - [Emerging climate impact on carbon sinks in a consolidated carbon budget | Nature](../ai/rag/emerging-climate-impact-on-carbon-sinks-in-a-conso.md)
@@ -40047,7 +40052,6 @@ Resources organized by keyword tags.
   - [LLM Powered Autonomous Agents | Lil'Log](../ai/rag/llm-powered-autonomous-agents-lil-log.md)
   - [LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs](../ai/research/arxiv-2608-03036.md)
   - [LLM University (LLMU)](../ai/resources/llm-university-llmu.md)
-  - [LLM Voice](../ai/community/llm-voice.md)
   - [LLM for EDA in Front-End Design: Challenges and Opportunities](../ai/rag/arxiv-2607-09616.md)
   - [LLM-Based Test Oracles: Source-of-Authority Taxonomy -- A Systematic Literature Review](../ai/research/arxiv-2607-05031.md)
   - [LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark](../ai/agents/arxiv-2609-00192.md)
@@ -41372,6 +41376,7 @@ Resources organized by keyword tags.
   - [SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills](../ai/rag/arxiv-2604-06550.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [SkipCat: Rank-Maximized Low-Rank Compression of Large Language Models via Shared Projection and Block Skipping](../ai/research/arxiv-2512-13494.md)
+  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
   - [Sliding-Window Reordering with Overlap Averaging: A Simple Time-Domain Augmentation for Multivariate Forecasting](../ai/rag/arxiv-2604-09067.md)
   - [Small Data Explainer -- The impact of small data methods in everyday life](../ai/rag/arxiv-2507-11773.md)
   - [Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis](../ai/agents/arxiv-2607-20216.md)
@@ -41734,6 +41739,7 @@ Resources organized by keyword tags.
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
   - [Three-dimensional Conditional Diffusion Models for Cosmological 21 cm Lightcone Emulation](../ai/research/arxiv-2605-29016.md)
+  - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](../ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md)
   - [Tight Sample Complexity Bounds for Entropic Best Policy Identification](../ai/rag/arxiv-2605-13717.md)
   - [Tightening the Score Matching Gap for Diffusion Models](../ai/research/arxiv-2607-04442.md)
   - [Tim Kadlec](../ai/rag/tim-kadlec.md)
@@ -41884,7 +41890,6 @@ Resources organized by keyword tags.
   - [UNVaMP: Neural Knowledge Tracing with Variational Regularization of Latent Knowledge Dynamics](../ai/research/arxiv-2608-03811.md)
   - [URL Pattern Standard](../ai/rag/url-pattern-standard.md)
   - [URL Standard](../ai/rag/url-standard.md)
-  - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](../ai/community/us-reps-lead-democratic-resolution-opposing-a-i-bu.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [UT Austin Computer Science](../ai/rag/ut-austin-computer-science.md)
   - [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md)
@@ -42027,7 +42032,6 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
-  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -42234,7 +42238,6 @@ Resources organized by keyword tags.
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
@@ -43102,7 +43105,7 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - [LLM Voice](../ai/community/llm-voice.md)
+  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
 
 ## mdx
 
@@ -73983,6 +73986,7 @@ Resources organized by keyword tags.
   - [Editing Python in Visual Studio Code](../ai/rag/editing-python-in-visual-studio-code.md)
   - [EgoExoMoCap: Distributed Ego-Exo Human Motion Capture](../ai/rag/arxiv-2607-15868.md)
   - [Electron Ring Current Forecast - Horizon 2020 PAGER](../ai/resources/electron-ring-current-forecast-horizon-2020-pager.md)
+  - [Embraer's Atech aims to double in size by 2030 with drone traffic control](../ai/community/embraer-s-atech-aims-to-double-in-size-by-2030-wit.md)
   - [Enable HTTPS on your servers | Articles | web.dev](../ai/agents/enable-https-on-your-servers-articles-web-dev.md)
   - [Engineering Library](../ai/resources/engineering-library.md)
   - [EntangleCodec: A Unified Discrete Audio Tokenizer via Semantic-Acoustic Entanglement](../ai/research/arxiv-2606-02739.md)
@@ -82369,7 +82373,6 @@ Resources organized by keyword tags.
   - [Annotation-Free Furniture Codes: What They Encode, and How Far They Transfer](../ai/research/arxiv-2607-10461.md)
   - [Anomalies in Multivariate Time Series Benchmarks Are Mostly Univariate](../ai/research/arxiv-2606-02670.md)
   - [Anomaly Detection and Localization for the Pantograph-Catenary System](../ai/research/arxiv-2610-01721.md)
-  - [Anthropic Cracking Down on Video Game Rewrites](../ai/community/anthropic-cracking-down-on-video-game-rewrites.md)
   - [Antora](../ai/resources/antora.md)
   - [AoiZora: Topology-Aware Auto-Parallel Optimization for Inference of Diffusion Transformers](../ai/research/arxiv-2606-17566.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -85755,4 +85758,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-30T20:59:00.303725+05:30*
+*Index generated on 2026-10-31T02:42:54.912464+05:30*

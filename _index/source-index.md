@@ -38091,11 +38091,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Anthropic Cracking Down on Video Game Rewrites](../ai/community/anthropic-cracking-down-on-video-game-rewrites.md)
-  - [Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
-  - [LLM Voice](../ai/community/llm-voice.md)
-  - [US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech](../ai/community/us-reps-lead-democratic-resolution-opposing-a-i-bu.md)
-  - [We ran AI agent swarms in Minecraft and Mindustry](../ai/community/we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md)
+  - [AI isn't replacing SREs, it's deskilling them](../ai/community/ai-isn-t-replacing-sres-it-s-deskilling-them.md)
+  - [Anthropic may not secure investment-grade rating after IPO, Blackstone says](../ai/community/anthropic-may-not-secure-investment-grade-rating-a.md)
+  - [Blockchain intelligence firms link North Korea to $6.3B hack on Binance](../ai/community/blockchain-intelligence-firms-link-north-korea-to.md)
+  - [Building an AI-native engineering org](../ai/community/building-an-ai-native-engineering-org.md)
+  - [Embraer's Atech aims to double in size by 2030 with drone traffic control](../ai/community/embraer-s-atech-aims-to-double-in-size-by-2030-wit.md)
+  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
+  - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](../ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -38654,7 +38656,6 @@ Resources organized by publisher feed and query sources.
   - [NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](../ai/models/huggingface-blog-leaderboard-nphardeval.md)
   - [NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](../ai/models/huggingface-blog-nvidia-nvidia-cosmos-reason-2-brings-advanced-reasoning.md)
   - [NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics](../ai/models/huggingface-blog-nvidia-cosmos-h-dreams.md)
-  - [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](../ai/models/huggingface-blog-nvidia-nemotron-transcribe-granary.md)
   - [NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](../ai/models/huggingface-blog-nvidia-multilingual-reasoning-v1.md)
   - [NVIDIA brings agents to life with DGX Spark and Reachy Mini](../ai/agents/huggingface-blog-nvidia-reachy-mini.md)
   - [NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](../ai/models/huggingface-blog-nvidia-physical-ai.md)
@@ -38975,6 +38976,7 @@ Resources organized by publisher feed and query sources.
   - [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](../ai/models/huggingface-blog-huggingface-hub-v1.md)
   - [mmBERT: ModernBERT goes Multilingual](../ai/models/huggingface-blog-mmbert.md)
   - [nanoVLM: The simplest repository to train your VLM in pure PyTorch](../ai/models/huggingface-blog-nanovlm.md)
+  - [nemotron-halloween](../ai/models/huggingface-blog-nvidia-nemotron-halloween.md)
   - [tokenizers v1: encode, decode and scaling, measured](../ai/models/huggingface-blog-tokenizers-v1.md)
   - [vLLM V0 to V1: Correctness Before Corrections in RL](../ai/models/huggingface-blog-servicenow-ai-correctness-before-corrections.md)
   - [~Don't~ Repeat Yourself](../ai/models/huggingface-blog-transformers-design-philosophy.md)
@@ -41999,4 +42001,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-30T20:59:00.822973+05:30*
+*Index generated on 2026-10-31T02:42:55.424834+05:30*

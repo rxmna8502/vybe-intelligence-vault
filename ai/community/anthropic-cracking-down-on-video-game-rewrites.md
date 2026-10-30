@@ -14,13 +14,14 @@ tags:
 - anthropic
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:anthropic-cracking-down-on-video-game-rewrites
 first_seen: '2026-10-30T20:42:12.273868+05:30'
 last_seen: '2026-10-30T20:42:12.273868+05:30'
 last_checked: '2026-10-30T20:42:12.273868+05:30'
 health_score: 100
 ---
+
 
 # Anthropic Cracking Down on Video Game Rewrites
 

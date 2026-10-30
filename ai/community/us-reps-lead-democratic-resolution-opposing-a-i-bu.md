@@ -13,13 +13,14 @@ collected_at: '2026-10-30T20:42:08.478474+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:us-reps-lead-democratic-resolution-opposing-a-i-bu
 first_seen: '2026-10-30T20:42:08.478474+05:30'
 last_seen: '2026-10-30T20:42:08.478474+05:30'
 last_checked: '2026-10-30T20:42:08.478474+05:30'
 health_score: 100
 ---
+
 
 # US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech
 

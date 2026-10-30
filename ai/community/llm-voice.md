@@ -13,13 +13,14 @@ collected_at: '2026-10-30T20:42:12.128811+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:llm-voice
 first_seen: '2026-10-30T02:47:13.187360+05:30'
 last_seen: '2026-10-30T20:42:12.128811+05:30'
 last_checked: '2026-10-30T20:42:12.128811+05:30'
 health_score: 100
 ---
+
 
 # LLM Voice
 

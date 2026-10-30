@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:we-ran-ai-agent-swarms-in-minecraft-and-mindustry
 first_seen: '2026-10-30T11:28:41.155602+05:30'
 last_seen: '2026-10-30T20:42:10.386690+05:30'
 last_checked: '2026-10-30T20:42:10.386690+05:30'
 health_score: 100
 ---
+
 
 # We ran AI agent swarms in Minecraft and Mindustry
 

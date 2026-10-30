@@ -13,13 +13,14 @@ collected_at: '2026-10-30T20:42:10.536989+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:cisco-gives-engineer-unlimited-ai-tokens-to-rewrit
 first_seen: '2026-10-30T20:42:10.536989+05:30'
 last_seen: '2026-10-30T20:42:10.536989+05:30'
 last_checked: '2026-10-30T20:42:10.536989+05:30'
 health_score: 100
 ---
+
 
 # Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code
 
