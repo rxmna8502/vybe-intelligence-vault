@@ -1,29 +1,19 @@
 ---
-title: regressive-topos551/claude-code
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-31
-tech_stack:
-- Bun
-- JavaScript/TypeScript
-- Windows OS
-- Node.js (via Bun)
-- CLI
+title: "regressive-topos551/claude-code"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Bun", "JavaScript/TypeScript", "Windows OS", "Node.js (via Bun)", "CLI"]
 quality_score: 6
 rag_relevance: 5
-deployment_complexity: Low
-tags:
-- local AI app
-- Claude Code snapshot
-- Bun runtime
-- Windows compatibility
-- source distribution
-source: https://github.com/regressive-topos551/claude-code
+deployment_complexity: "Low"
+tags: ["local AI app", "Claude Code snapshot", "Bun runtime", "Windows compatibility", "source distribution"]
+source: "https://github.com/regressive-topos551/claude-code"
 stars: 0
-language: None
-last_updated: '2026-07-10T20:19:50Z'
-discovered_at: '2026-07-10T20:22:14Z'
-evaluated_by: mistral-small-latest
+language: "None"
+last_updated: "2026-07-10T20:19:50Z"
+discovered_at: "2026-07-10T20:22:14Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

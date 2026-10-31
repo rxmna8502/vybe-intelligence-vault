@@ -1,34 +1,19 @@
 ---
-title: awictor/relay
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-31
-tech_stack:
-- TypeScript
-- Node.js
-- Telegram Bot API
-- Gemini API
-- Puppeteer
-- Docker
-- Vitest
-- REST APIs
-- Web Scraping
-- LLM Integration
+title: "awictor/relay"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Telegram Bot API", "Gemini API", "Puppeteer", "Docker", "Vitest", "REST APIs", "Web Scraping", "LLM Integration"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- autonomous agent
-- self-hosted browser
-- web scraping
-- Telegram bot
-- LLM integration
-source: https://github.com/awictor/relay
+deployment_complexity: "Medium"
+tags: ["autonomous agent", "self-hosted browser", "web scraping", "Telegram bot", "LLM integration"]
+source: "https://github.com/awictor/relay"
 stars: 0
-language: TypeScript
-last_updated: '2026-09-02T19:07:32Z'
-discovered_at: '2026-09-02T19:11:20Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-02T19:07:32Z"
+discovered_at: "2026-09-02T19:11:20Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

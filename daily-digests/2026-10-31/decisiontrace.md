@@ -1,29 +1,19 @@
 ---
-title: Tarunjit45/DecisionTrace
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-31
-tech_stack:
-- Python
-- Clean Architecture
-- SOLID Principles
-- CI/CD
-- pytest
+title: "Tarunjit45/DecisionTrace"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Python", "Clean Architecture", "SOLID Principles", "CI/CD", "pytest"]
 quality_score: 8
 rag_relevance: 7
-deployment_complexity: Low
-tags:
-- AI auditing
-- decision tracking
-- clean architecture
-- Python
-- audit trail
-source: https://github.com/Tarunjit45/DecisionTrace
+deployment_complexity: "Low"
+tags: ["AI auditing", "decision tracking", "clean architecture", "Python", "audit trail"]
+source: "https://github.com/Tarunjit45/DecisionTrace"
 stars: 1
-language: Python
-last_updated: '2026-08-07T07:49:22Z'
-discovered_at: '2026-08-07T08:17:47Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-07T07:49:22Z"
+discovered_at: "2026-08-07T08:17:47Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
