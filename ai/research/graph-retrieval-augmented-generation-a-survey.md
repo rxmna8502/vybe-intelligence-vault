@@ -7,18 +7,18 @@ source_url: https://semanticscholar.org/paper/9ab45aa875b56335303398e84a59a3756c
 authors:
 - Boci Peng
 - Yun Zhu
-- Yongchao Liu
+- Yong-Chao Liu
 - Xiaohe Bo
 - Hai-Zhou Shi
 - Chun-Tao Hong
 - Yan Zhang
 - Siliang Tang
 year: 2024
-citation_count: 669
+citation_count: 695
 code_url: None
 stars: N/A
 published_at: '2024-01-01T00:00:00Z'
-collected_at: '2026-10-23T10:33:41.002920+05:30'
+collected_at: '2026-11-01T05:01:39.532080+05:30'
 tags:
 - augmented
 - benchmark
@@ -32,8 +32,8 @@ tags:
 status: active
 resource_id: blog:graph-retrieval-augmented-generation-a-survey
 first_seen: '2026-08-01T14:04:53.282180+05:30'
-last_seen: '2026-10-23T10:33:41.002920+05:30'
-last_checked: '2026-10-23T10:33:41.002920+05:30'
+last_seen: '2026-11-01T05:01:39.532080+05:30'
+last_checked: '2026-11-01T05:01:39.532080+05:30'
 health_score: 100
 ---
 
@@ -49,9 +49,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Boci Peng, Yun Zhu, Yongchao Liu, Xiaohe Bo, Hai-Zhou Shi, Chun-Tao Hong, Yan Zhang, Siliang Tang
+- Authors: Boci Peng, Yun Zhu, Yong-Chao Liu, Xiaohe Bo, Hai-Zhou Shi, Chun-Tao Hong, Yan Zhang, Siliang Tang
 - Publication Year: 2024
-- Citation Count: 669
+- Citation Count: 695
 - Paper Link: https://semanticscholar.org/paper/9ab45aa875b56335303398e84a59a3756cd9d530
 - Code Link: None
 - Code Stars: N/A

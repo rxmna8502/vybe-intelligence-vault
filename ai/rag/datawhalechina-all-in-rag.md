@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-11-01T01:37:51.205061+05:30'
+collected_at: '2026-11-01T05:02:33.153488+05:30'
 published_at: '2026-10-31T14:35:40Z'
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-30T21:49:22Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-11-01T01:37:51.205061+05:30'
-last_seen: '2026-11-01T01:37:51.205061+05:30'
-last_checked: '2026-11-01T01:37:51.205061+05:30'
+first_seen: '2026-11-01T05:02:33.153488+05:30'
+last_seen: '2026-11-01T05:02:33.153488+05:30'
+last_checked: '2026-11-01T05:02:33.153488+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG application development guide utilizing LangChain and LlamaIndex frameworks.
-*   Integrates vector databases (Milvus) and graph databases (Neo4j) for advanced retrieval mechanisms.
-*   Explores multimodal RAG, leveraging various LLMs (DeepSeek, Kimi-K2) and embedding models within a Python ecosystem.
+*   Comprehensive RAG (Retrieval Augmented Generation) full-stack development guide implemented in Python.
+*   Integrates LLM frameworks (LangChain, LlamaIndex) with specific models (DeepSeek, Kimi-K2) and embedding techniques.
+*   Utilizes diverse data stores, including Milvus for vector embeddings and Neo4j for graph-based knowledge, supporting multimodal RAG applications.
 
 ## Why It Matters
 

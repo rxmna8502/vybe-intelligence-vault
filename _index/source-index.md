@@ -38598,11 +38598,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
-  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
-  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
+  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
+  - [Anthropic blocks users for anything touching training larger models](../ai/community/anthropic-blocks-users-for-anything-touching-train.md)
   - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
-  - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](../ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42506,4 +42504,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-01T01:53:46.629452+05:30*
+*Index generated on 2026-11-01T05:18:28.200006+05:30*

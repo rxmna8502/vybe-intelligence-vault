@@ -9706,10 +9706,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
-  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
+  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
+  - [Anthropic blocks users for anything touching training larger models](../ai/community/anthropic-blocks-users-for-anything-touching-train.md)
   - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
-  - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](../ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md)
 
 ## animation
 
@@ -9823,6 +9822,7 @@ Resources organized by keyword tags.
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
+  - [Anthropic blocks users for anything touching training larger models](../ai/community/anthropic-blocks-users-for-anything-touching-train.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -38328,6 +38328,7 @@ Resources organized by keyword tags.
   - [2026 | CVPR Art](../ai/rag/2026-cvpr-art.md)
   - [24*I:cset_awesome*](../ai/agents/24-i-cset-awesome.md)
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
+  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
   - [6G Native AI and Channel Foundation Models](../ai/rag/arxiv-2608-14591.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
@@ -38563,7 +38564,6 @@ Resources organized by keyword tags.
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI+X](../ai/resources/ai-x.md)
   - [AI, Brain Death Detection, and Islamic Law](../ai/research/arxiv-2608-16903.md)
-  - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
@@ -38773,6 +38773,7 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
+  - [Anthropic blocks users for anything touching training larger models](../ai/community/anthropic-blocks-users-for-anything-touching-train.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -40370,7 +40371,6 @@ Resources organized by keyword tags.
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
   - [Hypothesis-guided discovery of cognitive algorithms via program refinement](../ai/agents/arxiv-2610-02523.md)
-  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
@@ -40856,7 +40856,6 @@ Resources organized by keyword tags.
   - [Making Smart Homes Fit for Autistic Children: Family Work and Monitored Independence](../ai/research/arxiv-2610-38008.md)
   - [Making sure you're not a bot!](../ai/resources/making-sure-you-re-not-a-bot.md)
   - [Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light](../ai/rag/arxiv-2605-22455.md)
-  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
   - [MameLoshnLM: Yiddish Language Model and Evaluation Benchmark](../ai/research/arxiv-2608-05850.md)
   - [Man, Machine, and Masterpiece: Artistic Ownership in the AI Era](../ai/research/arxiv-2607-15027.md)
   - [Manage your Apple Account](../ai/resources/manage-your-apple-account.md)
@@ -42235,7 +42234,6 @@ Resources organized by keyword tags.
   - [The Hour of AI](../ai/resources/the-hour-of-ai.md)
   - [The Hugo CMS for visual page building | CloudCannon](../ai/rag/the-hugo-cms-for-visual-page-building-cloudcannon.md)
   - [The Identifiability and Observability of Deep Normalized Attention](../ai/research/arxiv-2610-09620.md)
-  - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](../ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md)
   - [The Imperishable Record, Forgiveness, and the Future of Criminal Justice](../ai/research/arxiv-2610-15499.md)
   - [The Implications of Linguistic Illegibility for LLM Security](../ai/research/arxiv-2609-02852.md)
   - [The InfraRed 100 | Redpoint Ventures](../ai/rag/the-infrared-100-redpoint-ventures.md)
@@ -42803,6 +42801,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -43668,10 +43667,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
 
 ## mdx
 
@@ -74447,6 +74442,7 @@ Resources organized by keyword tags.
   - [2027 Conference](../ai/resources/2027-conference.md)
   - [3100 Opinions on Code Review in an AI World: Building Causal Theory from Practitioner Discourse](../ai/agents/arxiv-2607-07980.md)
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
+  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
   - [6 ways to grow your network](../ai/agents/6-ways-to-grow-your-network.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
@@ -75150,7 +75146,6 @@ Resources organized by keyword tags.
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [How we’re helping kids and families safely learn, grow and play online](../ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md)
   - [Hugo building slowly from release 0.128.0 - #20 by jmooring - support - HUGO](../ai/resources/hugo-building-slowly-from-release-0-128-0-20-by-jm.md)
-  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
   - [I-CALM: Incentivizing Confidence-Aware Abstention for LLM Selective Answering](../ai/research/arxiv-2604-03904.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IPGP DATA CENTER](../ai/resources/ipgp-data-center.md)
@@ -75348,7 +75343,6 @@ Resources organized by keyword tags.
   - [Main Page - Meta-Wiki](../ai/resources/main-page-meta-wiki.md)
   - [Main classes · Hugging Face](../ai/rag/huggingface-docs-datasets.md)
   - [Make WordPress.tv – WordPress.tv team, moderating videos and improving the site](../ai/rag/make-wordpress-tv-wordpress-tv-team-moderating-vid.md)
-  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
   - [Manage renewal for NFL Sunday Ticket on YouTube Primetime Channels - Computer - YouTube Help](../ai/resources/manage-renewal-for-nfl-sunday-ticket-on-youtube-pr.md)
   - [Manage renewal for NFL Sunday Ticket on YouTube TV - Computer - YouTube TV Help](../ai/rag/manage-renewal-for-nfl-sunday-ticket-on-youtube-tv.md)
   - [Manage your home area or current location for YouTube TV - Computer - YouTube TV Help](../ai/resources/manage-your-home-area-or-current-location-for-yout.md)
@@ -86739,4 +86733,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-01T01:53:46.110835+05:30*
+*Index generated on 2026-11-01T05:18:27.671038+05:30*

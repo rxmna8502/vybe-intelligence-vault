@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
 hn_url: https://news.ycombinator.com/item?id=50314654
-score: 729
+score: 793
 author: input_sh
-comments_count: 419
+comments_count: 456
 published_at: '2026-10-31T15:51:30+05:30'
-collected_at: '2026-11-01T01:37:01.792137+05:30'
+collected_at: '2026-11-01T05:01:43.187805+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:serbia-just-elected-the-world-s-brainiest-parliame
 first_seen: '2026-10-31T20:07:44.209772+05:30'
-last_seen: '2026-11-01T01:37:01.792137+05:30'
-last_checked: '2026-11-01T01:37:01.792137+05:30'
+last_seen: '2026-11-01T05:01:43.187805+05:30'
+last_checked: '2026-11-01T05:01:43.187805+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by input_sh. Score: 729, Comments: 419.
+Hacker News story by input_sh. Score: 793, Comments: 456.
 Original Link: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: input_sh
-- Score: 729 Upvotes
-- Comments: 419 Discussions
+- Score: 793 Upvotes
+- Comments: 456 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50314654
 - Original Article: https://science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
 

@@ -13,13 +13,14 @@ collected_at: '2026-11-01T01:37:02.257697+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-lean-and-the-future-of-formal-verification-with
 first_seen: '2026-10-31T20:07:44.771039+05:30'
 last_seen: '2026-11-01T01:37:02.257697+05:30'
 last_checked: '2026-11-01T01:37:02.257697+05:30'
 health_score: 100
 ---
+
 
 # AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura
 

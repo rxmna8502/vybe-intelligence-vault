@@ -303,10 +303,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | science.org | 1 |
-| blog.talosintelligence.com | 1 |
-| thedataexchange.media | 1 |
-| dl.acm.org | 1 |
-| datavorous.com | 1 |
+| twitter.com | 1 |
+| oqtadrive.org | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

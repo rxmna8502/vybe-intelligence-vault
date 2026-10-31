@@ -8,14 +8,14 @@ authors:
 - Aditi Singh
 - Abul Ehtesham
 - Saket Kumar
-- T. T. Khoei
+- Tala Talaei Khoei
 - Athanasios V. Vasilakos
 year: 2025
-citation_count: 463
+citation_count: 470
 code_url: None
 stars: N/A
 published_at: '2025-01-01T00:00:00Z'
-collected_at: '2026-10-23T10:33:41.002850+05:30'
+collected_at: '2026-11-01T05:01:39.532005+05:30'
 tags:
 - agents
 - augmented
@@ -29,8 +29,8 @@ tags:
 status: active
 resource_id: blog:agentic-retrieval-augmented-generation-a-survey-on
 first_seen: '2026-07-19T16:15:03.003913+05:30'
-last_seen: '2026-10-23T10:33:41.002850+05:30'
-last_checked: '2026-10-23T10:33:41.002850+05:30'
+last_seen: '2026-11-01T05:01:39.532005+05:30'
+last_checked: '2026-11-01T05:01:39.532005+05:30'
 health_score: 100
 ---
 
@@ -46,9 +46,9 @@ Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluati
 
 ## Paper Metadata
 
-- Authors: Aditi Singh, Abul Ehtesham, Saket Kumar, T. T. Khoei, Athanasios V. Vasilakos
+- Authors: Aditi Singh, Abul Ehtesham, Saket Kumar, Tala Talaei Khoei, Athanasios V. Vasilakos
 - Publication Year: 2025
-- Citation Count: 463
+- Citation Count: 470
 - Paper Link: https://semanticscholar.org/paper/ba7952e7c4fb891c36980ca19f94251257da6eb7
 - Code Link: None
 - Code Stars: N/A
