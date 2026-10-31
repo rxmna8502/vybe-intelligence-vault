@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:sleep-framework-a-new-way-for-llms-to-retain-knowl
 first_seen: '2026-10-31T02:26:07.343219+05:30'
 last_seen: '2026-10-31T11:27:12.778957+05:30'
 last_checked: '2026-10-31T11:27:12.778957+05:30'
 health_score: 100
 ---
+
 
 # Sleep framework: A new way for LLMs to retain knowledge in continual learning
 

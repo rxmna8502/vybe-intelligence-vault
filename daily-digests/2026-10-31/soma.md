@@ -1,19 +1,37 @@
 ---
-title: "dinglebear-ai/soma"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "MCP (Model Context Protocol)", "REST API", "HTTP/Streamable MCP", "CLI", "Python", "WASM", "Docker", "OpenAPI", "OAuth", "JWT", "Axum", "GitHub Actions"]
+title: dinglebear-ai/soma
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- Rust
+- MCP (Model Context Protocol)
+- REST API
+- HTTP/Streamable MCP
+- CLI
+- Python
+- WASM
+- Docker
+- OpenAPI
+- OAuth
+- JWT
+- Axum
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["agent runtime", "provider-backed", "RMCP", "multi-surface", "scaffold automation"]
-source: "https://github.com/dinglebear-ai/soma"
+deployment_complexity: Medium
+tags:
+- agent runtime
+- provider-backed
+- RMCP
+- multi-surface
+- scaffold automation
+source: https://github.com/dinglebear-ai/soma
 stars: 1
-language: "Rust"
-last_updated: "2026-08-01T03:22:40Z"
-discovered_at: "2026-08-01T03:44:26Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-08-01T03:22:40Z'
+discovered_at: '2026-08-01T03:44:26Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

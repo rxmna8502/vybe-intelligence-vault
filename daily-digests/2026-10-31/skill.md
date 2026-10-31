@@ -1,19 +1,30 @@
 ---
-title: "extensiondev/skill"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["JavaScript", "Markdown", "npm", "Agent Skills Framework", "MCP (Model Context Protocol)", "CI/CD (GitHub Actions)"]
+title: extensiondev/skill
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- JavaScript
+- Markdown
+- npm
+- Agent Skills Framework
+- MCP (Model Context Protocol)
+- CI/CD (GitHub Actions)
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Low"
-tags: ["browser extensions", "AI agents", "cross-browser development", "MCP tools", "debugging automation"]
-source: "https://github.com/extensiondev/skill"
+deployment_complexity: Low
+tags:
+- browser extensions
+- AI agents
+- cross-browser development
+- MCP tools
+- debugging automation
+source: https://github.com/extensiondev/skill
 stars: 0
-language: "JavaScript"
-last_updated: "2026-07-17T18:02:09Z"
-discovered_at: "2026-07-17T18:05:09Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-17T18:02:09Z'
+discovered_at: '2026-07-17T18:05:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

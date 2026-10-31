@@ -4,19 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-09-03T01:00:06.372277+05:30'
-published_at: '2026-08-24T11:57:44Z'
+collected_at: '2026-10-31T20:09:46.631227+05:30'
+published_at: '2026-10-24T16:42:58Z'
 tags:
-- benchmark
-- dataset
 - github-repo
-- hackernews
-- meta-ai
-- models
 - python
 - rag
 - reddit
-stars: 298
+stars: 306
 language: Python
 status: active
 license: MIT
@@ -24,9 +19,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-09-03T01:00:06.372277+05:30'
-last_seen: '2026-09-03T01:00:06.372277+05:30'
-last_checked: '2026-09-03T01:00:06.372277+05:30'
+first_seen: '2026-10-31T20:09:46.631227+05:30'
+last_seen: '2026-10-31T20:09:46.631227+05:30'
+last_checked: '2026-10-31T20:09:46.631227+05:30'
 health_score: 100
 ---
 
@@ -34,11 +29,7 @@ health_score: 100
 
 ## Summary
 
-- **Attack Methodology**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval database, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance.
-
-- **Technical Implementation**: Demonstrates a two-phase attack—*document poisoning* (embedding adversarial content) and *exploitation* (triggering targeted responses)—leveraging gradient-based optimization to craft imperceptible perturbations in embeddings.
-
-- **Evaluation & Impact**: Validates effectiveness across multiple RAG frameworks (e.g., LangChain, LlamaIndex) and datasets, showing up to **92% attack success rate** while evading detection via semantic similarity preservation.
+*   Introduces "PoisonedRAG," a framework for knowledge corruption attacks targeting Retrieval
 
 ## Why It Matters
 
@@ -47,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sleeepeer
-- Stars: 298
-- Forks: 56
+- Stars: 306
+- Forks: 59
 - Language: Python
 - Topics: ai, machine-learning, rag, retrieval-augmented-generation, security, trustworthy-ai
-- Last Updated: 2026-08-24T11:57:44Z
+- Last Updated: 2026-10-24T16:42:58Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-09T04:25:56Z

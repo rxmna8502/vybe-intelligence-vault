@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: roisincrtai/ptb-xl-1.0.3 (Likes: 1, Downloads: 1396008)
+Trending Hugging Face dataset: roisincrtai/ptb-xl-1.0.3 (Likes: 2, Downloads: 1424568)
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/RAG-Tutorials
-collected_at: '2026-10-30T20:43:16.835183+05:30'
+collected_at: '2026-10-31T20:08:41.677038+05:30'
 published_at: '2026-10-30T08:20:57Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-03T03:41:25Z'
 pushed_at: '2026-04-03T17:43:05Z'
 resource_id: github:krishnaik06/rag-tutorials
-first_seen: '2026-10-30T20:43:16.835183+05:30'
-last_seen: '2026-10-30T20:43:16.835183+05:30'
-last_checked: '2026-10-30T20:43:16.835183+05:30'
+first_seen: '2026-10-31T20:08:41.677038+05:30'
+last_seen: '2026-10-31T20:08:41.677038+05:30'
+last_checked: '2026-10-31T20:08:41.677038+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 
 ## Summary
 
-*   Focuses on Retrieval-Augmented Generation (RAG) methodologies.
-*   Im
+*   Provides practical tutorials on Retrieval Augmented Generation (RAG) architectures.
+*   Content is
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: krishnaik06
 - Stars: 504
-- Forks: 442
+- Forks: 443
 - Language: Jupyter Notebook
 - Topics: None
 - Last Updated: 2026-10-30T08:20:57Z

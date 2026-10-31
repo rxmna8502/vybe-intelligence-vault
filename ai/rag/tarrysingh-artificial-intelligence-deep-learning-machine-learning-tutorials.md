@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
-collected_at: '2026-10-30T20:43:22.031291+05:30'
+collected_at: '2026-10-31T20:08:46.559824+05:30'
 published_at: '2026-10-30T09:06:43Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2017-07-13T19:46:01Z'
 pushed_at: '2026-10-29T17:45:40Z'
 resource_id: github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials
-first_seen: '2026-10-30T20:43:22.031291+05:30'
-last_seen: '2026-10-30T20:43:22.031291+05:30'
-last_checked: '2026-10-30T20:43:22.031291+05:30'
+first_seen: '2026-10-31T20:08:46.559824+05:30'
+last_seen: '2026-10-31T20:08:46.559824+05:30'
+last_checked: '2026-10-31T20:08:46.559824+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides cloud-agnostic, interactive Jupyter-based AI/ML/DL curricula with automated grading, deployable across Colab, Kaggle, Binder, and Codespaces.
-*   Focuses on advanced AI applications including predictive maintenance, document AI (extraction, retrieval, RAG), and multi-agent systems (MCP) for simulated humanoid robotics.
-*   Integrates modules for EU AI Act conformity evidence, model validation, and comprehensive model risk management.
+*   Offers platform-agnostic (Colab, Kaggle, Binder, Codespaces, Jupyter) hands-on tutorials covering AI, DL, and ML fundamentals.
+*   Addresses advanced applications including predictive maintenance, document AI (extraction, RAG), AI agents (MCP), and simulated humanoid robotics (MuJoCo).
+*   Integrates EU AI Act conformity evidence, model validation/risk management, and features autograded lesson progression.
 
 ## Why It Matters
 

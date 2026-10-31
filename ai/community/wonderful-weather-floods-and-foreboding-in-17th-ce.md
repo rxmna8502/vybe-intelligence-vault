@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:wonderful-weather-floods-and-foreboding-in-17th-ce
 first_seen: '2026-10-31T11:27:12.978578+05:30'
 last_seen: '2026-10-31T11:27:12.978578+05:30'
 last_checked: '2026-10-31T11:27:12.978578+05:30'
 health_score: 100
 ---
+
 
 # Wonderful Weather: Floods and Foreboding in 17th-Century Britain
 

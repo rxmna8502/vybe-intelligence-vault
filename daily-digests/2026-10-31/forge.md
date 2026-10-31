@@ -1,19 +1,33 @@
 ---
-title: "Efs-O/Forge"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "VS Code Extension API", "llama.cpp", "GGUF", "Ollama", "OpenAI-compatible APIs", "Telegram Bot API", "Node.js", "Python (for backend tools)"]
+title: Efs-O/Forge
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- TypeScript
+- VS Code Extension API
+- llama.cpp
+- GGUF
+- Ollama
+- OpenAI-compatible APIs
+- Telegram Bot API
+- Node.js
+- Python (for backend tools)
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: "Medium"
-tags: ["VS Code extension", "local LLM agent", "code intelligence", "reversible actions", "no telemetry"]
-source: "https://github.com/Efs-O/Forge"
+deployment_complexity: Medium
+tags:
+- VS Code extension
+- local LLM agent
+- code intelligence
+- reversible actions
+- no telemetry
+source: https://github.com/Efs-O/Forge
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-02T08:15:14Z"
-discovered_at: "2026-09-02T08:20:57Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-02T08:15:14Z'
+discovered_at: '2026-09-02T08:20:57Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

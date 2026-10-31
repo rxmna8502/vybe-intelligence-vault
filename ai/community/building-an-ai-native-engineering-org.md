@@ -13,13 +13,14 @@ collected_at: '2026-10-31T11:27:12.572311+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:building-an-ai-native-engineering-org
 first_seen: '2026-10-31T02:26:05.652624+05:30'
 last_seen: '2026-10-31T11:27:12.572311+05:30'
 last_checked: '2026-10-31T11:27:12.572311+05:30'
 health_score: 100
 ---
+
 
 # Building an AI-native engineering org
 

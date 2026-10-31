@@ -1,19 +1,30 @@
 ---
-title: "juyelhushen/enterprise-knowledge-assistant"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "LangGraph", "FastAPI", "ChromaDB", "Ollama", "LangChain"]
+title: juyelhushen/enterprise-knowledge-assistant
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- Python
+- LangGraph
+- FastAPI
+- ChromaDB
+- Ollama
+- LangChain
 quality_score: 6
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["multi-agent", "enterprise-knowledge", "RAG", "vector-search", "production-ready"]
-source: "https://github.com/juyelhushen/enterprise-knowledge-assistant"
+deployment_complexity: Medium
+tags:
+- multi-agent
+- enterprise-knowledge
+- RAG
+- vector-search
+- production-ready
+source: https://github.com/juyelhushen/enterprise-knowledge-assistant
 stars: 0
-language: "Python"
-last_updated: "2026-07-19T11:50:05Z"
-discovered_at: "2026-07-19T11:57:02Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-19T11:50:05Z'
+discovered_at: '2026-07-19T11:57:02Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

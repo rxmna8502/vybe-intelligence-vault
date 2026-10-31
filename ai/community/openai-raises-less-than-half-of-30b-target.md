@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-raises-less-than-half-of-30b-target
 first_seen: '2026-10-31T11:27:10.576570+05:30'
 last_seen: '2026-10-31T11:27:10.576570+05:30'
 last_checked: '2026-10-31T11:27:10.576570+05:30'
 health_score: 100
 ---
+
 
 # OpenAI raises less than half of $30B target
 

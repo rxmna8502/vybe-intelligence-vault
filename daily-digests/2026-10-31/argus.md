@@ -1,19 +1,34 @@
 ---
-title: "ironclawdevs27/Argus"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "TypeScript", "Chrome DevTools Protocol", "MCP (Model Context Protocol)", "Node.js", "npm", "axe-core", "Lighthouse", "pixelmatch", "GitHub Actions"]
+title: ironclawdevs27/Argus
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- JavaScript
+- TypeScript
+- Chrome DevTools Protocol
+- MCP (Model Context Protocol)
+- Node.js
+- npm
+- axe-core
+- Lighthouse
+- pixelmatch
+- GitHub Actions
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["AI QA", "automated testing", "Chrome DevTools", "MCP integration", "security auditing"]
-source: "https://github.com/ironclawdevs27/Argus"
+deployment_complexity: Medium
+tags:
+- AI QA
+- automated testing
+- Chrome DevTools
+- MCP integration
+- security auditing
+source: https://github.com/ironclawdevs27/Argus
 stars: 4
-language: "JavaScript"
-last_updated: "2026-07-18T21:42:27Z"
-discovered_at: "2026-07-18T21:50:00Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-07-18T21:42:27Z'
+discovered_at: '2026-07-18T21:50:00Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

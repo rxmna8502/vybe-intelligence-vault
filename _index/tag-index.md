@@ -9706,13 +9706,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI isn't replacing SREs, it's deskilling them](../ai/community/ai-isn-t-replacing-sres-it-s-deskilling-them.md)
-  - [Building an AI-native engineering org](../ai/community/building-an-ai-native-engineering-org.md)
+  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
+  - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
   - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
-  - [OpenAI raises less than half of $30B target](../ai/community/openai-raises-less-than-half-of-30b-target.md)
-  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
-  - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](../ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md)
-  - [Wonderful Weather: Floods and Foreboding in 17th-Century Britain](../ai/community/wonderful-weather-floods-and-foreboding-in-17th-ce.md)
+  - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
 
 ## animation
 
@@ -9769,6 +9766,7 @@ Resources organized by keyword tags.
   - [AI World Cup 2026: Benchmarking Large Language Models for End-to-End Football Tournament Prediction](../ai/rag/arxiv-2608-03416.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
+  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AIFS-TC: A simple correction competitive with the operational frontier for tropical cyclone intensity forecasting](../ai/agents/arxiv-2608-09959.md)
   - [AIP: A Graph Representation for Learning and Governing Agent Skills](../ai/rag/arxiv-2606-04781.md)
@@ -27459,7 +27457,6 @@ Resources organized by keyword tags.
   - [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../ai/rag/huggingface-sentence-transformers.md)
   - [sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub](../ai/resources/ukplab-sentence-transformers.md)
   - [sierra-research/tau2-bench](../ai/agents/sierra-research-tau2-bench.md)
-  - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [spaCy · Industrial-strength Natural Language Processing in Python](../ai/agents/spacy-industrial-strength-natural-language-process.md)
   - [std::ops - Rust](../ai/resources/std-ops-rust.md)
   - [steel-dev/awesome-web-agents](../ai/agents/steel-dev-awesome-web-agents.md)
@@ -36289,7 +36286,6 @@ Resources organized by keyword tags.
   - [sentence-transformers/docs/sentence_transformer/pretrained_models.md at main · huggingface/sentence-transformers · GitHu](../ai/rag/huggingface-sentence-transformers.md)
   - [sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub](../ai/resources/ukplab-sentence-transformers.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
-  - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](../ai/research/arxiv-2607-15254.md)
   - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
@@ -38563,12 +38559,13 @@ Resources organized by keyword tags.
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
-  - [AI isn't replacing SREs, it's deskilling them](../ai/community/ai-isn-t-replacing-sres-it-s-deskilling-them.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
+  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI+X](../ai/resources/ai-x.md)
   - [AI, Brain Death Detection, and Islamic Law](../ai/research/arxiv-2608-16903.md)
+  - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
   - [AI, ML and Data Science Tutorial - GeeksforGeeks](../ai/agents/ai-ml-and-data-science-tutorial-geeksforgeeks.md)
   - [AI, Machine Learning, and Data-Driven Decisions | Cornell Duffield Engineering](../ai/agents/ai-machine-learning-and-data-driven-decisions-corn.md)
   - [AI-Augmented Human Resource Management? Insights from German companies](../ai/research/arxiv-2607-13839.md)
@@ -39045,7 +39042,6 @@ Resources organized by keyword tags.
   - [Building Trustworthy Mental Health Benchmarks on Bluesky: A Validation-Aware Weak-Supervision Framework](../ai/research/arxiv-2609-22696.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building a Neural Network from Scratch: Implementation, Evaluation, and Optimization](../ai/research/arxiv-2607-16682.md)
-  - [Building an AI-native engineering org](../ai/community/building-an-ai-native-engineering-org.md)
   - [Building evidence-based knowledge bases from full-text literature for disease-specific biomedical reasoning](../ai/rag/arxiv-2603-28325.md)
   - [Building scalable AI agents with modular prompt transpilation - Google Developers Blog](../ai/rag/building-scalable-ai-agents-with-modular-prompt-tr.md)
   - [Business Data Responsibility](../ai/rag/business-data-responsibility.md)
@@ -41193,7 +41189,6 @@ Resources organized by keyword tags.
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open Vocabulary Word Recognition From Transcribed Bangla Texts](../ai/research/arxiv-2610-01134.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
-  - [OpenAI raises less than half of $30B target](../ai/community/openai-raises-less-than-half-of-30b-target.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -41882,6 +41877,7 @@ Resources organized by keyword tags.
   - [SentenceTransformers Documentation — Sentence Transformers documentation](../ai/rag/sentencetransformers-documentation-sentence-transf.md)
   - [Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels](../ai/agents/arxiv-2607-23438.md)
   - [Sequential LLM Release Facilitates Manipulation in Regulated Markets](../ai/agents/arxiv-2601-11496.md)
+  - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
   - [Serge Belongie](../ai/resources/serge-belongie.md)
   - [Serve Gemma open models using GPUs on GKE with vLLM | GKE AI/ML | Google Cloud Documentation](../ai/rag/serve-gemma-open-models-using-gpus-on-gke-with-vll.md)
   - [Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning](../ai/research/arxiv-2607-04336.md)
@@ -41937,7 +41933,6 @@ Resources organized by keyword tags.
   - [SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills](../ai/rag/arxiv-2604-06550.md)
   - [Skilljar Academy](../ai/rag/skilljar-academy.md)
   - [SkipCat: Rank-Maximized Low-Rank Compression of Large Language Models via Shared Projection and Block Skipping](../ai/research/arxiv-2512-13494.md)
-  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
   - [Sliding-Window Reordering with Overlap Averaging: A Simple Time-Domain Augmentation for Multivariate Forecasting](../ai/rag/arxiv-2604-09067.md)
   - [Small Data Explainer -- The impact of small data methods in everyday life](../ai/rag/arxiv-2507-11773.md)
   - [Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis](../ai/agents/arxiv-2607-20216.md)
@@ -42306,7 +42301,6 @@ Resources organized by keyword tags.
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Thompson Sampling for Non-Monotone Convex Ridge Bandits: Monotonicity Is Not Needed for Polynomial Regret](../ai/research/arxiv-2609-10981.md)
   - [Three-dimensional Conditional Diffusion Models for Cosmological 21 cm Lightcone Emulation](../ai/research/arxiv-2605-29016.md)
-  - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](../ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md)
   - [Tight Sample Complexity Bounds for Entropic Best Policy Identification](../ai/rag/arxiv-2605-13717.md)
   - [Tightening the Score Matching Gap for Diffusion Models](../ai/research/arxiv-2607-04442.md)
   - [Tim Kadlec](../ai/rag/tim-kadlec.md)
@@ -42698,7 +42692,6 @@ Resources organized by keyword tags.
   - [Wikimedia Projects – Wikimedia Foundation](../ai/rag/wikimedia-projects-wikimedia-foundation.md)
   - [Wikitech](../ai/resources/wikitech.md)
   - [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](../ai/research/arxiv-2608-17017.md)
-  - [Wonderful Weather: Floods and Foreboding in 17th-Century Britain](../ai/community/wonderful-weather-floods-and-foreboding-in-17th-ce.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
   - [WorkGenesis: Building the Worlds That Teach Agents to Work](../ai/rag/arxiv-2609-39325.md)
@@ -42957,7 +42950,6 @@ Resources organized by keyword tags.
   - [search.lib.utexas.edu](../ai/resources/search-lib-utexas-edu.md)
   - [semantic-mediawiki.org](../ai/rag/semantic-mediawiki-org.md)
   - [slavakurilyak/awesome-ai-agents](../ai/agents/slavakurilyak-awesome-ai-agents.md)
-  - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [spaceweather.gfz.de - Space Weather](../ai/resources/spaceweather-gfz-de-space-weather.md)
   - [spacing - Fraction bar crashes into superscript exponent in manually-drawn TikZ fraction - TeX - LaTeX Stack Exchange](../ai/agents/spacing-fraction-bar-crashes-into-superscript-expo.md)
   - [sqlworkshops | SQL Server Workshops](../ai/resources/sqlworkshops-sql-server-workshops.md)
@@ -43676,10 +43668,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
 
 ## mdx
 
@@ -44816,7 +44804,6 @@ Resources organized by keyword tags.
   - [run-llama/llama_index](../ai/rag/run-llama-llama-index.md)
   - [run-locally-ollama.md](../ai/agents/run-locally-ollama-md.md)
   - [seehiong/seehiong.github.io](../ai/agents/seehiong-seehiong-github-io.md)
-  - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md)
   - [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md)
   - [vLLM](../ai/rag/vllm.md)
@@ -53354,6 +53341,7 @@ Resources organized by keyword tags.
   - [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md)
   - [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md)
   - [p-Spin Glass Network Efficient Single-Batch Continual Learning](../ai/research/arxiv-2608-14774.md)
+  - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md)
   - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pico-type: A 1.5M-Parameter Byte-Level Multi-Head Content Classifier](../ai/rag/arxiv-2608-14658.md)
@@ -53385,7 +53373,6 @@ Resources organized by keyword tags.
   - [seehiong/seehiong.github.io](../ai/agents/seehiong-seehiong-github-io.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
   - [sentry-python 2.63.0 documentation](../ai/resources/sentry-python-2-63-0-documentation.md)
-  - [sleeepeer/PoisonedRAG](../ai/rag/sleeepeer-poisonedrag.md)
   - [specs/specs/serving/knative-api-specification-1.0.md at main · knative/specs · GitHub](../ai/resources/knative-specs.md)
   - [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md)
   - [stratum: A System Infrastructure for Massive Agent-Centric ML Workloads](../ai/agents/arxiv-2603-03589.md)
@@ -53958,7 +53945,6 @@ Resources organized by keyword tags.
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
   - [Online Tokenization with Optimal Delay in Linear Time](../ai/research/arxiv-2610-19139.md)
-  - [OpenAI raises less than half of $30B target](../ai/community/openai-raises-less-than-half-of-30b-target.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](../ai/agents/arxiv-2609-35799.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
@@ -76034,7 +76020,6 @@ Resources organized by keyword tags.
   - [Why Billionaire Wendy Schmidt Is ‘Doubling Down’ On Climate Science In The Age Of Trump](../ai/rag/why-billionaire-wendy-schmidt-is-doubling-down-on.md)
   - [Why Fast-Growing Teams Outgrow Spreadsheets | beezwax blog](../ai/rag/why-fast-growing-teams-outgrow-spreadsheets-beezwa.md)
   - [Why Low-Precision Transformer Training Fails: An Analysis on Flash Attention](../ai/research/arxiv-2510-04212.md)
-  - [Wonderful Weather: Floods and Foreboding in 17th-Century Britain](../ai/community/wonderful-weather-floods-and-foreboding-in-17th-ce.md)
   - [Woongyeong Yeo](../ai/rag/woongyeong-yeo.md)
   - [WordPress Developer Resources | Developer.WordPress.org](../ai/resources/wordpress-developer-resources-developer-wordpress.md)
   - [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md)
@@ -86748,4 +86733,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-31T11:47:29.591415+05:30*
+*Index generated on 2026-10-31T20:24:08.754601+05:30*

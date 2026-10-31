@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vivy-yi/rag-tutorial
-collected_at: '2026-10-29T20:52:58.884691+05:30'
-published_at: '2026-10-28T06:15:31Z'
+collected_at: '2026-10-31T20:08:46.556118+05:30'
+published_at: '2026-10-30T02:46:42Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-stars: 111
+stars: 113
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-10T16:43:21Z'
 pushed_at: '2026-02-11T01:29:17Z'
 resource_id: github:vivy-yi/rag-tutorial
-first_seen: '2026-10-29T20:52:58.884691+05:30'
-last_seen: '2026-10-29T20:52:58.884691+05:30'
-last_checked: '2026-10-29T20:52:58.884691+05:30'
+first_seen: '2026-10-31T20:08:46.556118+05:30'
+last_seen: '2026-10-31T20:08:46.556118+05:30'
+last_checked: '2026-10-31T20:08:46.556118+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG curriculum spanning foundational theory to production deployment, structured across 4 modules and 20 chapters.
-*   Practical implementation demonstrated through 17 Jupyter Notebooks, leveraging LangChain, LLMs, and vector databases.
-*   Includes 6 enterprise-grade RAG application case studies for real-world system mastery.
+*   Comprehensive RAG curriculum spanning foundational concepts to production deployment, structured across 4 modules and 20 chapters.
+*   Emphasizes practical application through 17 Jupyter Notebooks and 6 enterprise-level case studies.
+*   Integrates key RAG components including LLMs, vector databases, and LangChain for system implementation.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vivy-yi
-- Stars: 111
+- Stars: 113
 - Forks: 22
 - Language: Jupyter Notebook
 - Topics: chinese, langchain, llm, rag, retrieval-augmented-generation, tutorial, vector-database
-- Last Updated: 2026-10-28T06:15:31Z
+- Last Updated: 2026-10-30T02:46:42Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T16:43:21Z

@@ -38598,13 +38598,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI isn't replacing SREs, it's deskilling them](../ai/community/ai-isn-t-replacing-sres-it-s-deskilling-them.md)
-  - [Building an AI-native engineering org](../ai/community/building-an-ai-native-engineering-org.md)
+  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
+  - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
   - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
-  - [OpenAI raises less than half of $30B target](../ai/community/openai-raises-less-than-half-of-30b-target.md)
-  - [Sleep framework: A new way for LLMs to retain knowledge in continual learning](../ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md)
-  - [Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man](../ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md)
-  - [Wonderful Weather: Floods and Foreboding in 17th-Century Britain](../ai/community/wonderful-weather-floods-and-foreboding-in-17th-ce.md)
+  - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42508,4 +42505,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-31T11:47:30.101035+05:30*
+*Index generated on 2026-10-31T20:24:09.161469+05:30*

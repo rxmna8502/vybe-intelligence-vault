@@ -13,13 +13,14 @@ collected_at: '2026-10-31T11:27:12.883914+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-isn-t-replacing-sres-it-s-deskilling-them
 first_seen: '2026-10-31T02:26:06.916290+05:30'
 last_seen: '2026-10-31T11:27:12.883914+05:30'
 last_checked: '2026-10-31T11:27:12.883914+05:30'
 health_score: 100
 ---
+
 
 # AI isn't replacing SREs, it's deskilling them
 
