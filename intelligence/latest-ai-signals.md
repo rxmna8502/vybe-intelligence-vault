@@ -6,6 +6,7 @@ Update cycle: Refreshed every 3 hours.
 
 | Date | Resource | Category | Quality Score |
 | :--- | :--- | :--- | :--- |
+| 2026-08-12 | [vercel-labs/eve-software-factory-template](https://github.com/vercel-labs/eve-software-factory-template) | `rag-systems/` | 70 |
 | 2026-08-04 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | `ai-coding-agents/` | 70 |
 | 2026-07-30 | [scaleapi/rsi-benchmark](https://github.com/scaleapi/rsi-benchmark) | `ai-coding-agents/` | 70 |
 | 2026-07-28 | [H-EmbodVis/TurboVLA](https://github.com/H-EmbodVis/TurboVLA) | `rag-systems/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-05-08 | [CALLE-AI/awesome-phone-call-agents](https://github.com/CALLE-AI/awesome-phone-call-agents) | `ai-coding-agents/` | 70 |
 | 2026-05-08 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | `ai-coding-agents/` | 70 |
 | 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` | 70 |
-| 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -1,19 +1,40 @@
 ---
-title: "manadevelopment23/mana-agent"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["Python", "CLI", "FastAPI", "Playwright", "FAISS", "Redis", "RQ", "OpenAI API", "Git", "Telegram API", "Gmail API", "Mermaid", "Markdown", "HTML", "DOT", "GraphML"]
+title: manadevelopment23/mana-agent
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- Python
+- CLI
+- FastAPI
+- Playwright
+- FAISS
+- Redis
+- RQ
+- OpenAI API
+- Git
+- Telegram API
+- Gmail API
+- Mermaid
+- Markdown
+- HTML
+- DOT
+- GraphML
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "Medium"
-tags: ["multi-agent orchestration", "repository intelligence", "safe coding automation", "evidence-backed RAG", "Git operations"]
-source: "https://github.com/manadevelopment23/mana-agent"
+deployment_complexity: Medium
+tags:
+- multi-agent orchestration
+- repository intelligence
+- safe coding automation
+- evidence-backed RAG
+- Git operations
+source: https://github.com/manadevelopment23/mana-agent
 stars: 0
-language: "Python"
-last_updated: "2026-07-18T14:43:40Z"
-discovered_at: "2026-07-18T14:50:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-07-18T14:43:40Z'
+discovered_at: '2026-07-18T14:50:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

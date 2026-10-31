@@ -1,19 +1,28 @@
 ---
-title: "Jerrylu97/agent-skills"
-content_type: "repo"
-engine: "v2"
-category: "Agent Framework"
-tech_stack: ["YAML", "Agent Frameworks (Codex, Claude Code)", "Markdown", "Python (implied for agent integration)"]
+title: Jerrylu97/agent-skills
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- YAML
+- Agent Frameworks (Codex, Claude Code)
+- Markdown
+- Python (implied for agent integration)
 quality_score: 7
 rag_relevance: 6
-deployment_complexity: "Low"
-tags: ["AI agent skills", "modular workflows", "logging utilities", "cross-language reasoning", "agent tooling"]
-source: "https://github.com/Jerrylu97/agent-skills"
+deployment_complexity: Low
+tags:
+- AI agent skills
+- modular workflows
+- logging utilities
+- cross-language reasoning
+- agent tooling
+source: https://github.com/Jerrylu97/agent-skills
 stars: 0
-language: "None"
-last_updated: "2026-08-01T06:15:55Z"
-discovered_at: "2026-08-01T06:29:09Z"
-evaluated_by: "mistral-small-latest"
+language: None
+last_updated: '2026-08-01T06:15:55Z'
+discovered_at: '2026-08-01T06:29:09Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

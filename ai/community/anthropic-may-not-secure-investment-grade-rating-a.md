@@ -13,13 +13,14 @@ collected_at: '2026-10-31T02:26:05.862245+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-may-not-secure-investment-grade-rating-a
 first_seen: '2026-10-31T02:26:05.862245+05:30'
 last_seen: '2026-10-31T02:26:05.862245+05:30'
 last_checked: '2026-10-31T02:26:05.862245+05:30'
 health_score: 100
 ---
+
 
 # Anthropic may not secure investment-grade rating after IPO, Blackstone says
 

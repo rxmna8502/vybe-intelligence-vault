@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:embraer-s-atech-aims-to-double-in-size-by-2030-wit
 first_seen: '2026-10-31T02:26:06.180319+05:30'
 last_seen: '2026-10-31T02:26:06.180319+05:30'
 last_checked: '2026-10-31T02:26:06.180319+05:30'
 health_score: 100
 ---
+
 
 # Embraer's Atech aims to double in size by 2030 with drone traffic control
 

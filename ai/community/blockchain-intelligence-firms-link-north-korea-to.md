@@ -13,13 +13,14 @@ collected_at: '2026-10-31T02:26:07.451956+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:blockchain-intelligence-firms-link-north-korea-to
 first_seen: '2026-10-31T02:26:07.451956+05:30'
 last_seen: '2026-10-31T02:26:07.451956+05:30'
 last_checked: '2026-10-31T02:26:07.451956+05:30'
 health_score: 100
 ---
+
 
 # Blockchain intelligence firms link North Korea to $6.3B hack on Binance
 

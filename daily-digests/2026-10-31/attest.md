@@ -1,19 +1,32 @@
 ---
-title: "Yachiyo-5i/Attest"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["TypeScript", "Python", "FastAPI", "React", "SQLite", "Docker", "Bootstrapping", "Statistical Testing"]
+title: Yachiyo-5i/Attest
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- TypeScript
+- Python
+- FastAPI
+- React
+- SQLite
+- Docker
+- Bootstrapping
+- Statistical Testing
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["LLM verification", "model consistency", "behavioral fingerprinting", "black-box testing", "API integrity"]
-source: "https://github.com/Yachiyo-5i/Attest"
+deployment_complexity: Medium
+tags:
+- LLM verification
+- model consistency
+- behavioral fingerprinting
+- black-box testing
+- API integrity
+source: https://github.com/Yachiyo-5i/Attest
 stars: 0
-language: "TypeScript"
-last_updated: "2026-09-01T14:50:33Z"
-discovered_at: "2026-09-04T02:19:15Z"
-evaluated_by: "mistral-small-latest"
+language: TypeScript
+last_updated: '2026-09-01T14:50:33Z'
+discovered_at: '2026-09-04T02:19:15Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

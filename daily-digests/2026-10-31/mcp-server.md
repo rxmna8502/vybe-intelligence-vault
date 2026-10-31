@@ -1,19 +1,29 @@
 ---
-title: "voyagehacks-com/mcp-server"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["JavaScript", "Model Context Protocol (MCP)", "Cloudflare Pages Functions", "JSON-RPC 2.0", "Hugo (for content generation)"]
+title: voyagehacks-com/mcp-server
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- JavaScript
+- Model Context Protocol (MCP)
+- Cloudflare Pages Functions
+- JSON-RPC 2.0
+- Hugo (for content generation)
 quality_score: 8
 rag_relevance: 9
-deployment_complexity: "Medium"
-tags: ["MCP server", "travel data", "affiliate links", "multilingual content", "AI agent tools"]
-source: "https://github.com/voyagehacks-com/mcp-server"
+deployment_complexity: Medium
+tags:
+- MCP server
+- travel data
+- affiliate links
+- multilingual content
+- AI agent tools
+source: https://github.com/voyagehacks-com/mcp-server
 stars: 0
-language: "JavaScript"
-last_updated: "2026-08-01T17:48:24Z"
-discovered_at: "2026-08-01T18:00:19Z"
-evaluated_by: "mistral-small-latest"
+language: JavaScript
+last_updated: '2026-08-01T17:48:24Z'
+discovered_at: '2026-08-01T18:00:19Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
