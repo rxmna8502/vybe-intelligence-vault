@@ -38598,10 +38598,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
   - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
-  - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
+  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
+  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
   - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
+  - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](../ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42505,4 +42506,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-31T20:24:09.161469+05:30*
+*Index generated on 2026-11-01T01:53:46.629452+05:30*

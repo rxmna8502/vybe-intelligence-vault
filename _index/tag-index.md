@@ -9706,10 +9706,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
   - [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md)
-  - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
+  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
   - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
+  - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](../ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md)
 
 ## animation
 
@@ -9766,7 +9766,6 @@ Resources organized by keyword tags.
   - [AI World Cup 2026: Benchmarking Large Language Models for End-to-End Football Tournament Prediction](../ai/rag/arxiv-2608-03416.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI for Science expands to foundations and research institutions](../ai/companies/anthropic/ai-for-science-expands-to-foundations-and-research.md)
-  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AIFS-TC: A simple correction competitive with the operational frontier for tropical cyclone intensity forecasting](../ai/agents/arxiv-2608-09959.md)
   - [AIP: A Graph Representation for Learning and Governing Agent Skills](../ai/rag/arxiv-2606-04781.md)
@@ -38560,7 +38559,6 @@ Resources organized by keyword tags.
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
-  - [AI startup hacks Anthropic, gains access to employee details, internal messages](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI+X](../ai/resources/ai-x.md)
@@ -39181,7 +39179,6 @@ Resources organized by keyword tags.
   - [ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Cross-Modal Alignment Dataset](../ai/rag/arxiv-2505-10083.md)
   - [Chronos: The AI Co-Historian](../ai/research/arxiv-2604-03553.md)
   - [Chunking Strategies for LLM Applications | Pinecone](../ai/rag/chunking-strategies-for-llm-applications-pinecone.md)
-  - [Cisco gives engineer unlimited AI tokens to rewrite legacy code](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)
   - [ClassVision: AI-Powered Classroom Attendance System](../ai/research/arxiv-2608-26173.md)
   - [Classification Based on Association Rules Algorithm for Breast Cancer](../ai/research/arxiv-2610-00174.md)
   - [Classifier Chain-based Pathological Test Recommendation](../ai/research/arxiv-2607-08299.md)
@@ -40373,6 +40370,7 @@ Resources organized by keyword tags.
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling](../ai/rag/arxiv-2609-35845.md)
   - [Hypothesis-guided discovery of cognitive algorithms via program refinement](../ai/agents/arxiv-2610-02523.md)
+  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-SplineFlow: Learning Monotone Spline Stochastic Interpolant Schedulers for Few-Step Generation](../ai/research/arxiv-2609-27963.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
@@ -40858,6 +40856,7 @@ Resources organized by keyword tags.
   - [Making Smart Homes Fit for Autistic Children: Family Work and Monitored Independence](../ai/research/arxiv-2610-38008.md)
   - [Making sure you're not a bot!](../ai/resources/making-sure-you-re-not-a-bot.md)
   - [Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light](../ai/rag/arxiv-2605-22455.md)
+  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
   - [MameLoshnLM: Yiddish Language Model and Evaluation Benchmark](../ai/research/arxiv-2608-05850.md)
   - [Man, Machine, and Masterpiece: Artistic Ownership in the AI Era](../ai/research/arxiv-2607-15027.md)
   - [Manage your Apple Account](../ai/resources/manage-your-apple-account.md)
@@ -42236,6 +42235,7 @@ Resources organized by keyword tags.
   - [The Hour of AI](../ai/resources/the-hour-of-ai.md)
   - [The Hugo CMS for visual page building | CloudCannon](../ai/rag/the-hugo-cms-for-visual-page-building-cloudcannon.md)
   - [The Identifiability and Observability of Deep Normalized Attention](../ai/research/arxiv-2610-09620.md)
+  - [The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](../ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md)
   - [The Imperishable Record, Forgiveness, and the Future of Criminal Justice](../ai/research/arxiv-2610-15499.md)
   - [The Implications of Linguistic Illegibility for LLM Security](../ai/research/arxiv-2609-02852.md)
   - [The InfraRed 100 | Redpoint Ventures](../ai/rag/the-infrared-100-redpoint-ventures.md)
@@ -43668,6 +43668,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
 
 ## mdx
 
@@ -75146,6 +75150,7 @@ Resources organized by keyword tags.
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
   - [How we’re helping kids and families safely learn, grow and play online](../ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md)
   - [Hugo building slowly from release 0.128.0 - #20 by jmooring - support - HUGO](../ai/resources/hugo-building-slowly-from-release-0-128-0-20-by-jm.md)
+  - [I post trained a model on Demoscenes](../ai/community/i-post-trained-a-model-on-demoscenes.md)
   - [I-CALM: Incentivizing Confidence-Aware Abstention for LLM Selective Answering](../ai/research/arxiv-2604-03904.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
   - [IPGP DATA CENTER](../ai/resources/ipgp-data-center.md)
@@ -75343,6 +75348,7 @@ Resources organized by keyword tags.
   - [Main Page - Meta-Wiki](../ai/resources/main-page-meta-wiki.md)
   - [Main classes · Hugging Face](../ai/rag/huggingface-docs-datasets.md)
   - [Make WordPress.tv – WordPress.tv team, moderating videos and improving the site](../ai/rag/make-wordpress-tv-wordpress-tv-team-moderating-vid.md)
+  - [Malware uses LLMs to rank victims by how much they're worth](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)
   - [Manage renewal for NFL Sunday Ticket on YouTube Primetime Channels - Computer - YouTube Help](../ai/resources/manage-renewal-for-nfl-sunday-ticket-on-youtube-pr.md)
   - [Manage renewal for NFL Sunday Ticket on YouTube TV - Computer - YouTube TV Help](../ai/rag/manage-renewal-for-nfl-sunday-ticket-on-youtube-tv.md)
   - [Manage your home area or current location for YouTube TV - Computer - YouTube TV Help](../ai/resources/manage-your-home-area-or-current-location-for-yout.md)
@@ -86733,4 +86739,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-10-31T20:24:08.754601+05:30*
+*Index generated on 2026-11-01T01:53:46.110835+05:30*

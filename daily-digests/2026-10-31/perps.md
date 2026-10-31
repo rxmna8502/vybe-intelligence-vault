@@ -1,19 +1,35 @@
 ---
-title: "BadmonLano/perps"
-content_type: "repo"
-engine: "v2"
-category: "Tooling"
-tech_stack: ["Python", "Solana", "Jupiter Perps", "Pyth Oracle", "FastAPI (implied by HTTPX)", "Telegram Bot API", "Ollama (optional)", "Grok (optional)", "dotenv", "Solders", "AnchorPy"]
+title: BadmonLano/perps
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- Python
+- Solana
+- Jupiter Perps
+- Pyth Oracle
+- FastAPI (implied by HTTPX)
+- Telegram Bot API
+- Ollama (optional)
+- Grok (optional)
+- dotenv
+- Solders
+- AnchorPy
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: "Medium"
-tags: ["perpetuals trading", "Solana", "AI agent integration", "risk management", "paper trading"]
-source: "https://github.com/BadmonLano/perps"
+deployment_complexity: Medium
+tags:
+- perpetuals trading
+- Solana
+- AI agent integration
+- risk management
+- paper trading
+source: https://github.com/BadmonLano/perps
 stars: 1
-language: "Python"
-last_updated: "2026-10-27T23:22:25Z"
-discovered_at: "2026-10-28T00:02:28Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-10-27T23:22:25Z'
+discovered_at: '2026-10-28T00:02:28Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

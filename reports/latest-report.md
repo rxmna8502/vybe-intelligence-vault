@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-10-31T23:19:32.799185+05:30`
+Generated at: `2026-11-01T01:59:13.166775+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
+- **Malware uses LLMs to rank victims by how much they're worth** - Score: `204` in category `ai/community` ([Link](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer)) ([File](../ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md))
+- **The Impact of Generative AI on Critical Thinking: Self-Reported (2025)** - Score: `58` in category `ai/community` ([Link](https://dl.acm.org/doi/full/10.1145/3706598.3713778)) ([File](../ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md))
+- **I post trained a model on Demoscenes** - Score: `28` in category `ai/community` ([Link](https://datavorous.com/writing/demoscener)) ([File](../ai/community/i-post-trained-a-model-on-demoscenes.md))
 
 ## Top Trending Resources
 
-- **vercel-labs/eve-software-factory-template** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/rag/vercel-labs-eve-software-factory-template.md))
-- **Joint Latent Reasoning and Observation for Agentic Video Understanding** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/agents/arxiv-2610-35229.md))
-- **The Price of Scale in Proactive Memory Recall** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/research/arxiv-2610-34507.md))
-- **POD-RoPE: Rotary Position Encoding over Physical Observation Distributions for Embodied AI** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/research/arxiv-2610-33745.md))
-- **MarineLife-16K: An Attribute-Rich Video-Text Dataset for Motion-Aware Marine Video Understanding** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/research/arxiv-2610-33478.md))
-- **Anti-coherence Regularized Absolute Scaling for Out-of-Distribution Detection** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/research/arxiv-2610-32255.md))
-- **Compact-Bench: Measuring What Context Compaction Costs Long-Horizon Coding Agents** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/agents/arxiv-2610-31710.md))
-- **Protegrity-PII Technical Report** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/research/arxiv-2610-30518.md))
-- **PACE: Pareto-Adaptive Compression for Efficient Native MLLMs** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/rag/arxiv-2610-24005.md))
-- **SituHOI: Scalable Capture of Scene-Situated Full-Body Human-Object Interaction** - Score: `0` (0), Rank Change: `+1047` ([File](../ai/research/arxiv-2610-23980.md))
+- **Serbia just elected the world's brainiest parliament** - Score: `729` (+239), Rank Change: `0` ([File](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md))
+- **AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura** - Score: `168` (+68), Rank Change: `0` ([File](../ai/community/ai-lean-and-the-future-of-formal-verification-with.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1583` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+16` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+11` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+11` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+8` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+13` ([File](../ai/companies/human-language-technologies.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+28081`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1049`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
-- **promptfoo/promptfoo-action** - (Rank Change: `+1049`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
-- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1049`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
-- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1049`) ([File](../ai/rag/arxiv-2606-29031.md))
-- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1049`) ([File](../ai/research/arxiv-2606-26428.md))
-- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1049`) ([File](../ai/research/arxiv-2606-21887.md))
-- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1049`) ([File](../ai/rag/arxiv-2606-09677.md))
-- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1049`) ([File](../ai/research/arxiv-2606-06379.md))
-- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1049`) ([File](../ai/agents/arxiv-2606-05050.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1583`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **Applied AI** - (Rank Change: `+935`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+935`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+935`) ([File](../ai/companies/openai/global-affairs.md))
+- **Intelligence Age** - (Rank Change: `+935`) ([File](../ai/companies/openai/intelligence-age.md))
+- **Engineering** - (Rank Change: `+935`) ([File](../ai/companies/openai/engineering.md))
+- **Safeguards** - (Rank Change: `+107`) ([File](../ai/companies/anthropic/safeguards.md))
+- **Preparing for the 2026 US midterms** - (Rank Change: `+107`) ([File](../ai/companies/anthropic/preparing-for-the-2026-us-midterms.md))
+- **An update on independent evaluators** - (Rank Change: `+107`) ([File](../ai/companies/anthropic/an-update-on-independent-evaluators.md))
+- **Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust** - (Rank Change: `+107`) ([File](../ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +47,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Cisco gives engineer unlimited AI tokens to rewrite legacy code** (Category: `ai/community`) ([File](../ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md))
+- **AI startup hacks Anthropic, gains access to employee details, internal messages** (Category: `ai/community`) ([File](../ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md))

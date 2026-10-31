@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-startup-hacks-anthropic-gains-access-to-employe
 first_seen: '2026-10-31T20:07:44.932776+05:30'
 last_seen: '2026-10-31T20:07:44.932776+05:30'
 last_checked: '2026-10-31T20:07:44.932776+05:30'
 health_score: 100
 ---
+
 
 # AI startup hacks Anthropic, gains access to employee details, internal messages
 

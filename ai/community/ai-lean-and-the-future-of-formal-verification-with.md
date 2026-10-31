@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://thedataexchange.media/leo-de-moura-lean-aws
 hn_url: https://news.ycombinator.com/item?id=50290652
-score: 100
+score: 168
 author: datascientist
-comments_count: 25
+comments_count: 38
 published_at: '2026-10-29T20:59:48+05:30'
-collected_at: '2026-10-31T20:07:44.771039+05:30'
+collected_at: '2026-11-01T01:37:02.257697+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-lean-and-the-future-of-formal-verification-with
 first_seen: '2026-10-31T20:07:44.771039+05:30'
-last_seen: '2026-10-31T20:07:44.771039+05:30'
-last_checked: '2026-10-31T20:07:44.771039+05:30'
+last_seen: '2026-11-01T01:37:02.257697+05:30'
+last_checked: '2026-11-01T01:37:02.257697+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by datascientist. Score: 100, Comments: 25.
+Hacker News story by datascientist. Score: 168, Comments: 38.
 Original Link: https://thedataexchange.media/leo-de-moura-lean-aws/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: datascientist
-- Score: 100 Upvotes
-- Comments: 25 Discussions
+- Score: 168 Upvotes
+- Comments: 38 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50290652
 - Original Article: https://thedataexchange.media/leo-de-moura-lean-aws
 

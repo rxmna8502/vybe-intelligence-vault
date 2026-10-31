@@ -1,19 +1,36 @@
 ---
-title: "CarlSR9001/whetstone"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Python", "QLoRA", "PyTorch", "Monte-Carlo Simulation", "Stockfish", "KataGo", "FastAPI", "MCP (Model Context Protocol)", "Ed25519 SSHSIG", "JSONL", "Git", "Ollama"]
+title: CarlSR9001/whetstone
+content_type: repo
+engine: v2
+category: world/public/vault/daily-digests/2026-10-31
+tech_stack:
+- Python
+- QLoRA
+- PyTorch
+- Monte-Carlo Simulation
+- Stockfish
+- KataGo
+- FastAPI
+- MCP (Model Context Protocol)
+- Ed25519 SSHSIG
+- JSONL
+- Git
+- Ollama
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: "High"
-tags: ["continual learning", "verifier-gated training", "data leakage prevention", "self-improving AI", "benchmark saturation"]
-source: "https://github.com/CarlSR9001/whetstone"
+deployment_complexity: High
+tags:
+- continual learning
+- verifier-gated training
+- data leakage prevention
+- self-improving AI
+- benchmark saturation
+source: https://github.com/CarlSR9001/whetstone
 stars: 0
-language: "Python"
-last_updated: "2026-08-08T13:45:57Z"
-discovered_at: "2026-08-08T13:48:43Z"
-evaluated_by: "mistral-small-latest"
+language: Python
+last_updated: '2026-08-08T13:45:57Z'
+discovered_at: '2026-08-08T13:48:43Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary

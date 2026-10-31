@@ -51007,7 +51007,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.11224>
 
 * **[AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](ai/community/ai-lean-and-the-future-of-formal-verification-with.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by datascientist. Score: 100, Comments: 25. Original Link: https://thedataexchange.media/leo-de-moura-lean-aws/
+  * Summary: Hacker News story by datascientist. Score: 168, Comments: 38. Original Link: https://thedataexchange.media/leo-de-moura-lean-aws/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://thedataexchange.media/leo-de-moura-lean-aws>
 
@@ -51820,11 +51820,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2609.08254v1 Announce Type: new Abstract: Learning direct current circuit concepts requires learners to connect invisible physical quantities, such as current, voltage, resistance, and power, with observable outcomes such as bulb brightness. Co
   * Tags: `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2609.08254>
-
-* **[Cisco gives engineer unlimited AI tokens to rewrite legacy code](ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by taubek. Score: 233, Comments: 282. Original Link: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs>
 
 * **[Claris Marketplace](ai/rag/claris-marketplace.md)** (`template` | `useful` tier)
   * Summary: - **Claris Platform Suite**: Includes **Claris FileMaker** (custom app development), **Claris Studio** (web-based data sharing), and **Claris Connect** (cross-platform integrations), with hosting options via **FileMaker Cloud** and **FileMaker Server
@@ -53826,6 +53821,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2610.02954>
 
+* **[I post trained a model on Demoscenes](ai/community/i-post-trained-a-model-on-demoscenes.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by datavorous_. Score: 28, Comments: 17. Original Link: https://datavorous.com/writing/demoscener/
+  * Tags: `ai`, `hackernews`, `reddit`
+  * Source URL: <https://datavorous.com/writing/demoscener>
+
 * **[ICA Lens: Interpreting Language Models Without Training Another Dictionary](ai/research/arxiv-2606-11722.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11722v1 Announce Type: new Abstract: Finding interpretable directions in language-model representations is critical for understanding and controlling model behavior. Sparse autoencoders (SAEs) have become the standard tool for this purpose
   * Tags: `models`, `workflows`
@@ -53837,7 +53837,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-centric implementation of a Retrieval Augmented Generation (RAG) workflow. * Designated `hw02_workflow` within an academic RAG-2 curriculum. * Developed via GitHub Classroom, indicating a practical, educational RAG pipeline assignment.
+  * Summary: * Python-based GitHub Classroom assignment for Retrieval Augmented Generation (RAG) workflow implementation. * Repository `icensraghomework-classroom01-rag2-hw02_workflow` focuses
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow>
 
@@ -54565,6 +54565,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2610.36761v1 Announce Type: cross Abstract: Self-driving laboratories (SDLs) are laboratory systems that couple experimental planning, automated execution, and measurement feedback in a closed loop. Integrating flexible robot control with the t
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2610.36761>
+
+* **[Malware uses LLMs to rank victims by how much they're worth](ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by khalidkhair. Score: 204, Comments: 108. Original Link: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/
+  * Tags: `hackernews`, `llm`, `reddit`
+  * Source URL: <https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer>
 
 * **[Man, Machine, and Masterpiece: Artistic Ownership in the AI Era](ai/research/arxiv-2607-15027.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.15027v1 Announce Type: new Abstract: The integration of AI-driven systems in creative work has sparked debates among artists and legal communities about notions of ownership. Yet there remains little consensus on how ownership should be de
@@ -56147,7 +56152,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.14882>
 
 * **[Serbia just elected the world's brainiest parliament](ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by input_sh. Score: 490, Comments: 296. Original Link: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
+  * Summary: Hacker News story by input_sh. Score: 729, Comments: 419. Original Link: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament
   * Tags: `ai`, `hackernews`
   * Source URL: <https://science.org/content/article/serbia-just-elected-world-s-brainiest-parliament>
 
@@ -56654,6 +56659,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Git-Integrated Visual CMS**: CloudCannon integrates with Hugo’s Git workflow, enabling non-technical editors to modify content via a visual interface while preserving full developer control over themes, layouts, and shortcodes through branch-base
   * Tags: `agents`, `hackernews`, `paper`, `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://cloudcannon.com/hugo-cms/?utm_campaign=HugoSponsorship&utm_content=gohugo&utm_medium=banner&utm_source=sponsor>
+
+* **[The Impact of Generative AI on Critical Thinking: Self-Reported (2025)](ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by the-mitr. Score: 58, Comments: 38. Original Link: https://dl.acm.org/doi/full/10.1145/3706598.3713778
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://dl.acm.org/doi/full/10.1145/3706598.3713778>
 
 * **[The InfraRed 100 | Redpoint Ventures](ai/rag/the-infrared-100-redpoint-ventures.md)** (`benchmark` | `useful` tier)
   * Summary: - **Redpoint Ventures** is a venture capital firm specializing in cloud infrastructure, backing transformative companies that redefine reliability, scalability, security, and innovation in cloud solutions. - **InfraRed 100** is an annual list curated
@@ -76057,7 +76067,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.22907>
 
 * **[Comfy-Org/MiniMax-H3](ai/models/huggingface-comfy-org-minimax-h3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2462, Downloads: 29589269)
+  * Summary: Trending Hugging Face model: Comfy-Org/MiniMax-H3 (Likes: 2463, Downloads: 29589269)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/comfy-org/minimax-h3>
 
@@ -108512,7 +108522,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.18654>
 
 * **[Kwai-Kolors/Kolors-Virtual-Try-On](ai/models/huggingface-spaces-kwai-kolors.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10210, Downloads: 0)
+  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10211, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/kwai-kolors>
 
@@ -132076,7 +132086,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
 * **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1863, Downloads: 23843302)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1865, Downloads: 23843302)
   * Tags: `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
 
@@ -166616,11 +166626,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.14769>
 
-* **[AI startup hacks Anthropic, gains access to employee details, internal messages](ai/community/ai-startup-hacks-anthropic-gains-access-to-employe.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by healsdata. Score: 52, Comments: 11. Original Link: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26
-  * Tags: `ai`, `anthropic`, `hackernews`
-  * Source URL: <https://indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26>
-
 * **[AI Strategy: How to Choose What AI Product to Implement](ai/rag/arxiv-2607-23733.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.23733v1 Announce Type: cross Abstract: Firms struggle to choose AI projects that pay off: two projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At the residential real-estate brokerage
   * Tags: `creative_dev`, `rag`
@@ -177243,8 +177248,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Provides a full-stack guide for RAG application development, leveraging `LangChain` and `LlamaIndex
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive RAG application development guide utilizing LangChain and LlamaIndex frameworks. * Integrates vector databases (Milvus) and graph databases (Neo4j) for advanced retrieval mechanisms. * Explores multimodal RAG, leveraging various LLMs
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -177253,8 +177258,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: * Educational resource for large language model (LLM) application development. * Covers LangChain framework and Retrieval-Augmented Generation (RAG) architectures. * Implemented using Jupyter Notebooks.
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
+  * Summary: * LLM application development curriculum for foundational skill acquisition. * Focuses on Lang
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -194470,7 +194475,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2604.20711>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`dataset` | `useful` tier)
-  * Summary: * **RAGTruth** is a specialized corpus for identifying and mitigating hallucinations in Retrieval-Augmented Language Models (RAG). * It serves as a benchmark for developing **trustworthy RAG systems** by enabling robust hallucination detection. * The
+  * Summary: * Introduces RAGTruth, a specialized hallucination corpus. * Aids in the development and evaluation of trustworthy Retrieval-Augmented Language Models (RAG LMs). * Specifically targets the mitigation of generative AI hallucinations within RAG archite
   * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
@@ -200854,7 +200859,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2610.23388>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1495, Downloads: 31592858)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1496, Downloads: 31592858)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 
@@ -203203,7 +203208,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system. * Facilitates conversational interaction with downloaded GitHub repository content. * Developed using Python as the primary programming language.
+  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system. * Facilitates conversational querying of downloaded GitHub repository content. * Developed in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

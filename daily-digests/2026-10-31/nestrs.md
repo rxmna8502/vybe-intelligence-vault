@@ -1,19 +1,34 @@
 ---
-title: "NestRS/NestRS"
-content_type: "repo"
-engine: "v2"
-category: "Orchestrator"
-tech_stack: ["Rust", "PostgreSQL", "Redis", "SeaORM", "Docker", "Justfile", "GraphQL", "WebSockets", "Model Context Protocol (MCP)", "CLI Tools"]
+title: NestRS/NestRS
+content_type: repo
+engine: v2
+category: daily-digests/2026-10-31
+tech_stack:
+- Rust
+- PostgreSQL
+- Redis
+- SeaORM
+- Docker
+- Justfile
+- GraphQL
+- WebSockets
+- Model Context Protocol (MCP)
+- CLI Tools
 quality_score: 8
 rag_relevance: 6
-deployment_complexity: "Medium"
-tags: ["backend framework", "dependency injection", "scalable architecture", "Rust", "modular design"]
-source: "https://github.com/NestRS/NestRS"
+deployment_complexity: Medium
+tags:
+- backend framework
+- dependency injection
+- scalable architecture
+- Rust
+- modular design
+source: https://github.com/NestRS/NestRS
 stars: 4
-language: "Rust"
-last_updated: "2026-07-16T14:56:32Z"
-discovered_at: "2026-07-16T15:00:42Z"
-evaluated_by: "mistral-small-latest"
+language: Rust
+last_updated: '2026-07-16T14:56:32Z'
+discovered_at: '2026-07-16T15:00:42Z'
+evaluated_by: mistral-small-latest
 ---
 
 ## Summary
