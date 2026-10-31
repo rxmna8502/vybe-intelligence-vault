@@ -1,33 +1,19 @@
 ---
-title: dinglebear-ai/cortex
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-31
-tech_stack:
-- Rust
-- SQLite
-- FTS5
-- MCP (Model Context Protocol)
-- REST API
-- Docker
-- OpenTelemetry (OTLP)
-- CLI
-- JavaScript/Node.js (npm package)
+title: "dinglebear-ai/cortex"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Rust", "SQLite", "FTS5", "MCP (Model Context Protocol)", "REST API", "Docker", "OpenTelemetry (OTLP)", "CLI", "JavaScript/Node.js (npm package)"]
 quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- log aggregation
-- homelab monitoring
-- SQLite FTS
-- MCP integration
-- AI transcript indexing
-source: https://github.com/dinglebear-ai/cortex
+deployment_complexity: "Medium"
+tags: ["log aggregation", "homelab monitoring", "SQLite FTS", "MCP integration", "AI transcript indexing"]
+source: "https://github.com/dinglebear-ai/cortex"
 stars: 2
-language: Rust
-last_updated: '2026-08-01T03:36:07Z'
-discovered_at: '2026-08-01T03:44:13Z'
-evaluated_by: mistral-small-latest
+language: "Rust"
+last_updated: "2026-08-01T03:36:07Z"
+discovered_at: "2026-08-01T03:44:13Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

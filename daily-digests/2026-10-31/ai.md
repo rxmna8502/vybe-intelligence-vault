@@ -1,33 +1,19 @@
 ---
-title: formio/ai
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-31
-tech_stack:
-- TypeScript
-- Node.js
-- Model Context Protocol (MCP)
-- Claude Code
-- Docker
-- REST API
-- JSON Schema
-- Angular
-- '@formio/js'
+title: "formio/ai"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "Model Context Protocol (MCP)", "Claude Code", "Docker", "REST API", "JSON Schema", "Angular", "@formio/js"]
 quality_score: 9
 rag_relevance: 9
-deployment_complexity: Medium
-tags:
-- agentic coding
-- form builder
-- MCP server
-- enterprise applications
-- REST API integration
-source: https://github.com/formio/ai
+deployment_complexity: "Medium"
+tags: ["agentic coding", "form builder", "MCP server", "enterprise applications", "REST API integration"]
+source: "https://github.com/formio/ai"
 stars: 6
-language: TypeScript
-last_updated: '2026-08-05T14:05:02Z'
-discovered_at: '2026-08-05T14:07:10Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-08-05T14:05:02Z"
+discovered_at: "2026-08-05T14:07:10Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

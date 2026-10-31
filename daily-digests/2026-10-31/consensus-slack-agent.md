@@ -1,33 +1,19 @@
 ---
-title: vinayaksonthalia/consensus-slack-agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-10-31
-tech_stack:
-- JavaScript
-- Slack API
-- Slack AI / Agent & Assistant
-- Slack MCP Server
-- Real-Time Search API
-- SQLite
-- LLM (Claude, Cerebras zai-glm-4.7, gemma-4-31b)
-- Node.js
-- Socket Mode
+title: "vinayaksonthalia/consensus-slack-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["JavaScript", "Slack API", "Slack AI / Agent & Assistant", "Slack MCP Server", "Real-Time Search API", "SQLite", "LLM (Claude, Cerebras zai-glm-4.7, gemma-4-31b)", "Node.js", "Socket Mode"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- Slack agent
-- decision tracking
-- contradiction detection
-- provenance
-- workspace consistency
-source: https://github.com/vinayaksonthalia/consensus-slack-agent
+deployment_complexity: "Medium"
+tags: ["Slack agent", "decision tracking", "contradiction detection", "provenance", "workspace consistency"]
+source: "https://github.com/vinayaksonthalia/consensus-slack-agent"
 stars: 0
-language: JavaScript
-last_updated: '2026-07-10T21:57:26Z'
-discovered_at: '2026-07-10T22:00:21Z'
-evaluated_by: mistral-small-latest
+language: "JavaScript"
+last_updated: "2026-07-10T21:57:26Z"
+discovered_at: "2026-07-10T22:00:21Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary

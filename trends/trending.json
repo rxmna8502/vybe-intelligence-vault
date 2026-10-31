@@ -1,322 +1,6 @@
 {
-  "generated_at": "2026-10-31T11:52:53.153600+05:30",
+  "generated_at": "2026-10-31T16:50:05.128760+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:through-captain-jean-luc-picard-patrick-stewart-ta",
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation",
-      "file_path": "ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md",
-      "score": 270,
-      "score_change": 249,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-isn-t-replacing-sres-it-s-deskilling-them",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "file_path": "ai/community/ai-isn-t-replacing-sres-it-s-deskilling-them.md",
-      "score": 549,
-      "score_change": 157,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:sleep-framework-a-new-way-for-llms-to-retain-knowl",
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-      "file_path": "ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md",
-      "score": 198,
-      "score_change": 84,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:building-an-ai-native-engineering-org",
-      "title": "Building an AI-native engineering org",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "file_path": "ai/community/building-an-ai-native-engineering-org.md",
-      "score": 131,
-      "score_change": 64,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:computer-vision",
-      "title": "Computer vision",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/computer-vision",
-      "file_path": "ai/companies/computer-vision.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "hackernews:through-captain-jean-luc-picard-patrick-stewart-ta",
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation",
-      "file_path": "ai/community/through-captain-jean-luc-picard-patrick-stewart-ta.md",
-      "score": 270,
-      "score_change": 249,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:sleep-framework-a-new-way-for-llms-to-retain-knowl",
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-      "file_path": "ai/community/sleep-framework-a-new-way-for-llms-to-retain-knowl.md",
-      "score": 198,
-      "score_change": 84,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:data-platforms-and-analytics",
-      "title": "Data platforms and analytics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "file_path": "ai/companies/data-platforms-and-analytics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:search-information-retrieval",
-      "title": "Search & information retrieval",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "file_path": "ai/companies/search-information-retrieval.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-language-technologies",
-      "title": "Human language technologies",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
-      "file_path": "ai/companies/human-language-technologies.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:computer-vision",
-      "title": "Computer vision",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/computer-vision",
-      "file_path": "ai/companies/computer-vision.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:audio-acoustics",
-      "title": "Audio & acoustics",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/audio-acoustics",
-      "file_path": "ai/companies/audio-acoustics.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:artificial-intelligence",
-      "title": "Artificial intelligence",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/artificial-intelligence",
-      "file_path": "ai/companies/artificial-intelligence.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:cisco-gives-engineer-unlimited-ai-tokens-to-rewrit",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-      "file_path": "ai/community/cisco-gives-engineer-unlimited-ai-tokens-to-rewrit.md",
-      "score": 142,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:openai-raises-less-than-half-of-30b-target",
-      "title": "OpenAI raises less than half of $30B target",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-      "file_path": "ai/community/openai-raises-less-than-half-of-30b-target.md",
-      "score": 108,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:wonderful-weather-floods-and-foreboding-in-17th-ce",
-      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://publicdomainreview.org/essay/wonderful-weather",
-      "file_path": "ai/community/wonderful-weather-floods-and-foreboding-in-17th-ce.md",
-      "score": 16,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:vercel-labs/eve-software-factory-template",
-      "title": "vercel-labs/eve-software-factory-template",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/vercel-labs/eve-software-factory-template",
-      "file_path": "ai/rag/vercel-labs-eve-software-factory-template.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2610.35229",
       "title": "Joint Latent Reasoning and Observation for Agentic Video Understanding",
@@ -326,8 +10,8 @@
       "file_path": "ai/agents/arxiv-2610-35229.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +23,8 @@
       "file_path": "ai/research/arxiv-2610-34507.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +36,8 @@
       "file_path": "ai/research/arxiv-2610-33745.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +49,8 @@
       "file_path": "ai/research/arxiv-2610-33478.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +62,8 @@
       "file_path": "ai/research/arxiv-2610-32255.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +75,8 @@
       "file_path": "ai/agents/arxiv-2610-31710.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +88,8 @@
       "file_path": "ai/research/arxiv-2610-30518.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,8 +101,8 @@
       "file_path": "ai/rag/arxiv-2610-24005.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -430,8 +114,8 @@
       "file_path": "ai/research/arxiv-2610-23980.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -443,17 +127,151 @@
       "file_path": "ai/rag/arxiv-2610-12113.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/infiniflow/ragflow",
+      "file_path": "ai/rag/infiniflow-ragflow-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 28082,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2609.26480",
-      "title": "FeatLens: Feature-Guided Dependency Retrieval for Repository-Level Code Generation",
+      "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+      "title": "Medium Terms of Service | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+      "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:promptfoo/promptfoo-action",
+      "title": "promptfoo/promptfoo-action",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/promptfoo/promptfoo-action",
+      "file_path": "ai/rag/promptfoo-promptfoo-action.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:alucek/graphrag-breakdown",
+      "title": "ALucek/GraphRAG-Breakdown",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/alucek/graphrag-breakdown",
+      "file_path": "ai/rag/alucek-graphrag-breakdown.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.29031",
+      "title": "How to Leverage Synthetic Speech for LLM-Based ASR Systems?",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.29031",
+      "file_path": "ai/rag/arxiv-2606-29031.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.26428",
+      "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2609.26480",
-      "file_path": "ai/research/arxiv-2609-26480.md",
+      "url": "https://arxiv.org/abs/2606.26428",
+      "file_path": "ai/research/arxiv-2606-26428.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.21887",
+      "title": "Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.21887",
+      "file_path": "ai/research/arxiv-2606-21887.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09677",
+      "title": "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09677",
+      "file_path": "ai/rag/arxiv-2606-09677.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.06379",
+      "title": "EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.06379",
+      "file_path": "ai/research/arxiv-2606-06379.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.05050",
+      "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.05050",
+      "file_path": "ai/agents/arxiv-2606-05050.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1049,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:category",
+      "title": "[CATEGORY] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,32 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:anthropic-may-not-secure-investment-grade-rating-a",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "file_path": "ai/community/anthropic-may-not-secure-investment-grade-rating-a.md"
-    },
-    {
-      "id": "hackernews:blockchain-intelligence-firms-link-north-korea-to",
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "file_path": "ai/community/blockchain-intelligence-firms-link-north-korea-to.md"
-    },
-    {
-      "id": "hackernews:embraer-s-atech-aims-to-double-in-size-by-2030-wit",
-      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones",
-      "file_path": "ai/community/embraer-s-atech-aims-to-double-in-size-by-2030-wit.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

@@ -1,32 +1,19 @@
 ---
-title: sufengx/vera
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-10-31
-tech_stack:
-- Go
-- ClickHouse
-- Docker
-- Docker Compose
-- HTTP Proxy
-- SHA-256
-- gzip
-- Python (planned)
+title: "sufengx/vera"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Go", "ClickHouse", "Docker", "Docker Compose", "HTTP Proxy", "SHA-256", "gzip", "Python (planned)"]
 quality_score: 9
 rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- AI Observability
-- Model Monitoring
-- Drift Detection
-- Production Reliability
-- Zero-Intrusion
-source: https://github.com/sufengx/vera
+deployment_complexity: "Medium"
+tags: ["AI Observability", "Model Monitoring", "Drift Detection", "Production Reliability", "Zero-Intrusion"]
+source: "https://github.com/sufengx/vera"
 stars: 2
-language: Go
-last_updated: '2026-08-04T15:30:05Z'
-discovered_at: '2026-08-04T15:34:36Z'
-evaluated_by: mistral-small-latest
+language: "Go"
+last_updated: "2026-08-04T15:30:05Z"
+discovered_at: "2026-08-04T15:34:36Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
