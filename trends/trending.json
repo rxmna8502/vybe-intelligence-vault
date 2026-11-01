@@ -1,7 +1,58 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-11-01T05:42:47.686843+05:30",
+  "generated_at": "2026-11-01T10:10:23.753666+05:30",
   "trending_resources": [
+    {
+      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
+      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1047,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:sylphai-inc/githubchat",
+      "title": "SylphAI-Inc/GithubChat",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/sylphai-inc/githubchat",
+      "file_path": "ai/rag/sylphai-inc-githubchat.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1047,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:particlemedia/ragtruth",
+      "title": "ParticleMedia/RAGTruth",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/particlemedia/ragtruth",
+      "file_path": "ai/rag/particlemedia-ragtruth.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1047,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:datawhalechina/llm-universe",
+      "title": "datawhalechina/llm-universe",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "file_path": "ai/rag/datawhalechina-llm-universe.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1047,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "github:nirdiamant/genai_agents",
       "title": "NirDiamant/GenAI_Agents",
@@ -12,47 +63,23 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1047,
-=======
-  "generated_at": "2026-11-01T05:23:56.934877+05:30",
-  "trending_resources": [
-    {
-      "id": "hackernews:serbia-just-elected-the-world-s-brainiest-parliame",
-      "title": "Serbia just elected the world's brainiest parliament",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "file_path": "ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md",
-      "score": 793,
-      "score_change": 64,
-      "rank_change": 0,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:sleeepeer/poisonedrag",
       "title": "sleeepeer/PoisonedRAG",
-=======
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
->>>>>>> Stashed changes
       "category": "ai/rag",
       "source_type": "github",
       "url": "https://github.com/sleeepeer/poisonedrag",
       "file_path": "ai/rag/sleeepeer-poisonedrag.md",
       "score": 0,
       "score_change": 0,
-<<<<<<< Updated upstream
       "rank_change": 1047,
-=======
-      "rank_change": 3,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:langchain-ai/rag-research-agent-template",
       "title": "langchain-ai/rag-research-agent-template",
       "category": "ai/rag",
@@ -62,22 +89,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1047,
-=======
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1067,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials",
       "title": "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
       "category": "ai/rag",
@@ -100,17 +115,6 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1047,
-=======
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1065,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -123,115 +127,13 @@
       "file_path": "ai/rag/pguso-rag-from-scratch.md",
       "score": 0,
       "score_change": 0,
-<<<<<<< Updated upstream
       "rank_change": 1047,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:nirdiamant/rag_techniques",
-      "title": "NirDiamant/RAG_Techniques",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/nirdiamant/rag_techniques",
-      "file_path": "ai/rag/nirdiamant-rag-techniques.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1047,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:pixegami/langchain-rag-tutorial",
-      "title": "pixegami/langchain-rag-tutorial",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/pixegami/langchain-rag-tutorial",
-      "file_path": "ai/rag/pixegami-langchain-rag-tutorial.md",
-      "score": 0,
-      "score_change": 0,
-<<<<<<< Updated upstream
-      "rank_change": 1047,
-=======
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:pixegami/rag-tutorial-v2",
-      "title": "pixegami/rag-tutorial-v2",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/pixegami/rag-tutorial-v2",
-      "file_path": "ai/rag/pixegami-rag-tutorial-v2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1047,
-=======
-      "id": "blog:human-computer-interaction",
-      "title": "Human-computer interaction",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
-      "file_path": "ai/companies/human-computer-interaction.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
->>>>>>> Stashed changes
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-<<<<<<< Updated upstream
-      "id": "github:patchy631/ai-engineering-hub",
-      "title": "patchy631/ai-engineering-hub",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "file_path": "ai/rag/patchy631-ai-engineering-hub.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1047,
-=======
-      "id": "blog:graphics-multimedia",
-      "title": "Graphics & multimedia",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "file_path": "ai/companies/graphics-multimedia.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:computer-vision",
-      "title": "Computer vision",
-      "category": "ai/companies",
-      "source_type": "company_blog",
-      "url": "https://microsoft.com/en-us/research/research-area/computer-vision",
-      "file_path": "ai/companies/computer-vision.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 4,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
     {
-<<<<<<< Updated upstream
       "id": "github:infiniflow/ragflow",
       "title": "infiniflow/ragflow",
       "category": "ai/rag",
@@ -241,22 +143,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 28081,
-=======
-      "id": "github:malonge/ragoo",
-      "title": "malonge/RaGOO",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/malonge/ragoo",
-      "file_path": "ai/rag/malonge-ragoo.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1067,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "blog:medium-terms-of-service-by-medium-medium-policy",
       "title": "Medium Terms of Service | by Medium | Medium Policy",
       "category": "ai/rag",
@@ -266,22 +156,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1065,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:promptfoo/promptfoo-action",
       "title": "promptfoo/promptfoo-action",
       "category": "ai/rag",
@@ -291,22 +169,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:qwen/qwen3-0.6b",
-      "title": "Qwen/Qwen3-0.6B",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/qwen/qwen3-0.6b",
-      "file_path": "ai/models/huggingface-qwen-qwen3-0-6b.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "github:alucek/graphrag-breakdown",
       "title": "ALucek/GraphRAG-Breakdown",
       "category": "ai/rag",
@@ -316,22 +182,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:google-t5/t5-small",
-      "title": "google-t5/t5-small",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/google-t5/t5-small",
-      "file_path": "ai/models/huggingface-google-t5-t5-small.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.29031",
       "title": "How to Leverage Synthetic Speech for LLM-Based ASR Systems?",
       "category": "ai/rag",
@@ -341,22 +195,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:openai-community/gpt2",
-      "title": "openai-community/gpt2",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/openai-community/gpt2",
-      "file_path": "ai/models/huggingface-openai-community-gpt2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.26428",
       "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
       "category": "ai/research",
@@ -366,22 +208,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:comfy-org/minimax-h3",
-      "title": "Comfy-Org/MiniMax-H3",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/comfy-org/minimax-h3",
-      "file_path": "ai/models/huggingface-comfy-org-minimax-h3.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.21887",
       "title": "Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method",
       "category": "ai/research",
@@ -391,22 +221,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:google-bert/bert-base-uncased",
-      "title": "google-bert/bert-base-uncased",
-      "category": "ai/models",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/google-bert/bert-base-uncased",
-      "file_path": "ai/models/huggingface-google-bert-bert-base-uncased.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.09677",
       "title": "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation",
       "category": "ai/rag",
@@ -416,22 +234,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:baai/bge-m3",
-      "title": "BAAI/bge-m3",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/baai/bge-m3",
-      "file_path": "ai/rag/huggingface-baai-bge-m3.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.06379",
       "title": "EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models",
       "category": "ai/research",
@@ -441,22 +247,10 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:sentence-transformers/paraphrase-multilingual-minilm-l12-v2",
-      "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2",
-      "file_path": "ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-<<<<<<< Updated upstream
       "id": "arxiv:2606.05050",
       "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
       "category": "ai/agents",
@@ -466,24 +260,12 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1049,
-=======
-      "id": "huggingface:baai/bge-small-en-v1.5",
-      "title": "BAAI/bge-small-en-v1.5",
-      "category": "ai/rag",
-      "source_type": "huggingface_model",
-      "url": "https://huggingface.co/baai/bge-small-en-v1.5",
-      "file_path": "ai/rag/huggingface-baai-bge-small-en-v1-5.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 901,
->>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
-<<<<<<< Updated upstream
       "id": "blog:category",
       "title": "[CATEGORY] - ",
       "category": "",
@@ -491,72 +273,13 @@
       "url": "",
       "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
       "score": 0,
-=======
-      "id": "hackernews:anthropic-blocks-users-for-anything-touching-train",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "file_path": "ai/community/anthropic-blocks-users-for-anything-touching-train.md",
-      "score": 137,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:5-years-of-oqtadrive-microdrive-emulation-to-sincl",
-      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://oqtadrive.org/10.other/5-years",
-      "file_path": "ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md",
-      "score": 13,
->>>>>>> Stashed changes
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
     }
   ],
-<<<<<<< Updated upstream
   "recently_inactive_resources": [],
-=======
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:malware-uses-llms-to-rank-victims-by-how-much-they",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "file_path": "ai/community/malware-uses-llms-to-rank-victims-by-how-much-they.md"
-    },
-    {
-      "id": "hackernews:ai-lean-and-the-future-of-formal-verification-with",
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws",
-      "file_path": "ai/community/ai-lean-and-the-future-of-formal-verification-with.md"
-    },
-    {
-      "id": "hackernews:the-impact-of-generative-ai-on-critical-thinking-s",
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "file_path": "ai/community/the-impact-of-generative-ai-on-critical-thinking-s.md"
-    },
-    {
-      "id": "hackernews:i-post-trained-a-model-on-demoscenes",
-      "title": "I post trained a model on Demoscenes",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://datavorous.com/writing/demoscener",
-      "file_path": "ai/community/i-post-trained-a-model-on-demoscenes.md"
-    }
-  ],
->>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }
