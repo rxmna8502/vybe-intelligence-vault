@@ -13,13 +13,14 @@ collected_at: '2026-11-01T11:50:50.840580+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-text-watermarking-and-quality-loss
 first_seen: '2026-11-01T11:50:50.840580+05:30'
 last_seen: '2026-11-01T11:50:50.840580+05:30'
 last_checked: '2026-11-01T11:50:50.840580+05:30'
 health_score: 100
 ---
+
 
 # AI text watermarking and quality loss
 

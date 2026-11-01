@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-10-31T20:08:41.679219+05:30'
+collected_at: '2026-11-01T20:49:30.778963+05:30'
 published_at: '2026-10-31T13:59:38Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-10-31T20:08:41.679219+05:30'
-last_seen: '2026-10-31T20:08:41.679219+05:30'
-last_checked: '2026-10-31T20:08:41.679219+05:30'
+first_seen: '2026-11-01T20:49:30.778963+05:30'
+last_seen: '2026-11-01T20:49:30.778963+05:30'
+last_checked: '2026-11-01T20:49:30.778963+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Langchain RAG (v2) implementation featuring local LLM integration.
+*   Implements an improved Langchain RAG pipeline (v2) utilizing local LLMs for inference.
+*   Incorporates database update functionalities and comprehensive testing methodologies within the RAG framework.
+*   Developed entirely in Python, serving as a practical tutorial for advanced RAG system construction.
 
 ## Why It Matters
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-blocks-users-for-anything-touching-train
 first_seen: '2026-11-01T05:01:41.727080+05:30'
 last_seen: '2026-11-01T11:50:50.116559+05:30'
 last_checked: '2026-11-01T11:50:50.116559+05:30'
 health_score: 100
 ---
+
 
 # Anthropic blocks users for anything touching training larger models
 

@@ -38597,9 +38597,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI text watermarking and quality loss](../ai/community/ai-text-watermarking-and-quality-loss.md)
-  - [Anthropic blocks users for anything touching training larger models](../ai/community/anthropic-blocks-users-for-anything-touching-train.md)
+  - [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](../ai/community/ai-agent-swarms-in-minecraft-fail-to-build-civiliz.md)
+  - [Domain hacks with unusual Unicode characters (2018)](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md)
   - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](../ai/community/arxiv-2409-02292.md)
+  - [No AI, 52 min. Build all Linux Files utils in C by Hand [video]](../ai/community/youtube-gqrmslctq9c.md)
+  - [Norway makes shithouses great again](../ai/community/norway-makes-shithouses-great-again.md)
+  - [Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](../web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md)
+  - [The AI cost of JavaScript frameworks](../ai/community/the-ai-cost-of-javascript-frameworks.md)
+  - [Understanding Email Encryption](../ai/community/understanding-email-encryption.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39514,7 +39519,7 @@ Resources organized by publisher feed and query sources.
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
-  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
+  - [argmaxinc/whisperkit-coreml](../ai/models/huggingface-argmaxinc-whisperkit-coreml.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
   - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
@@ -42503,4 +42508,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-01T12:07:35.730157+05:30*
+*Index generated on 2026-11-01T21:04:56.921348+05:30*
