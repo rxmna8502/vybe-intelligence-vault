@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-agent-swarms-in-minecraft-fail-to-build-civiliz
 first_seen: '2026-11-01T20:48:31.644032+05:30'
 last_seen: '2026-11-01T20:48:31.644032+05:30'
 last_checked: '2026-11-01T20:48:31.644032+05:30'
 health_score: 100
 ---
+
 
 # AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy
 

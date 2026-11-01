@@ -38597,13 +38597,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](../ai/community/ai-agent-swarms-in-minecraft-fail-to-build-civiliz.md)
-  - [Domain hacks with unusual Unicode characters (2018)](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md)
-  - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](../ai/community/arxiv-2409-02292.md)
-  - [No AI, 52 min. Build all Linux Files utils in C by Hand [video]](../ai/community/youtube-gqrmslctq9c.md)
-  - [Norway makes shithouses great again](../ai/community/norway-makes-shithouses-great-again.md)
+  - [Frontier Airlines Likely Breached](../ai/community/frontier-airlines-likely-breached.md)
+  - [It wasn't AI that flipped Proton's charge](../ai/community/it-wasn-t-ai-that-flipped-proton-s-charge.md)
   - [Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](../web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md)
   - [The AI cost of JavaScript frameworks](../ai/community/the-ai-cost-of-javascript-frameworks.md)
+  - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](../ai/community/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates.md)
   - [Understanding Email Encryption](../ai/community/understanding-email-encryption.md)
 
 ## Unknown Source (type: huggingface)
@@ -42508,4 +42506,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-01T21:04:56.921348+05:30*
+*Index generated on 2026-11-02T02:24:59.316335+05:30*

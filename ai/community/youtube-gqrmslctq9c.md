@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:gQRmSlcTq9c
 first_seen: '2026-11-01T20:48:34.266467+05:30'
 last_seen: '2026-11-01T20:48:34.266467+05:30'
 last_checked: '2026-11-01T20:48:34.266467+05:30'
 health_score: 100
 ---
+
 
 # No AI, 52 min. Build all Linux Files utils in C by Hand [video]
 

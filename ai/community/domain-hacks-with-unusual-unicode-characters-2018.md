@@ -13,13 +13,14 @@ collected_at: '2026-11-01T20:48:31.296956+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:domain-hacks-with-unusual-unicode-characters-2018
 first_seen: '2026-11-01T20:48:31.296956+05:30'
 last_seen: '2026-11-01T20:48:31.296956+05:30'
 last_checked: '2026-11-01T20:48:31.296956+05:30'
 health_score: 100
 ---
+
 
 # Domain hacks with unusual Unicode characters (2018)
 

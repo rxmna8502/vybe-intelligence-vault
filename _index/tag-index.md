@@ -326,7 +326,6 @@ Resources organized by keyword tags.
   - [AI Tour Meeting: Group Travel Planning by LLM Agents](../ai/agents/arxiv-2607-18806.md)
   - [AI Virtue: What is "Good" Knowledge in the Age of Artificial Intelligence?](../ai/agents/arxiv-2607-01776.md)
   - [AI YOU Town: Make Friends and Money with Your Digital Twin](../ai/rag/arxiv-2607-10539.md)
-  - [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](../ai/community/ai-agent-swarms-in-minecraft-fail-to-build-civiliz.md)
   - [AI agents in Algorithmic Electricity Markets: On the Emergence of Tacit Collusion](../ai/agents/arxiv-2608-26896.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
@@ -9707,12 +9706,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](../ai/community/ai-agent-swarms-in-minecraft-fail-to-build-civiliz.md)
-  - [Domain hacks with unusual Unicode characters (2018)](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md)
-  - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](../ai/community/arxiv-2409-02292.md)
-  - [No AI, 52 min. Build all Linux Files utils in C by Hand [video]](../ai/community/youtube-gqrmslctq9c.md)
-  - [Norway makes shithouses great again](../ai/community/norway-makes-shithouses-great-again.md)
+  - [Frontier Airlines Likely Breached](../ai/community/frontier-airlines-likely-breached.md)
+  - [It wasn't AI that flipped Proton's charge](../ai/community/it-wasn-t-ai-that-flipped-proton-s-charge.md)
   - [The AI cost of JavaScript frameworks](../ai/community/the-ai-cost-of-javascript-frameworks.md)
+  - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](../ai/community/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates.md)
   - [Understanding Email Encryption](../ai/community/understanding-email-encryption.md)
 
 ## animation
@@ -38554,7 +38551,6 @@ Resources organized by keyword tags.
   - [AI Tools for Business | Google Workspace](../ai/rag/ai-tools-for-business-google-workspace.md)
   - [AI Trading: Evaluating Large Language Models for Technical Market Analysis](../ai/research/arxiv-2607-15414.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/huggingface-blog-watermarking.md)
-  - [AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy](../ai/community/ai-agent-swarms-in-minecraft-fail-to-build-civiliz.md)
   - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md)
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
@@ -39598,7 +39594,6 @@ Resources organized by keyword tags.
   - [Does Notation Matter? MusicXML Tokenisation for Symbolic Music Generation and Understanding](../ai/research/arxiv-2610-34247.md)
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
   - [Domain adaptation for handwriting trajectory reconstruction from IMU sensors](../ai/rag/arxiv-2607-26736.md)
-  - [Domain hacks with unusual Unicode characters (2018)](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md)
   - [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../ai/research/arxiv-2608-12227.md)
   - [Domain-Specific Jargon in Large Language Models: A Comparative Analysis between General-Purpose and Specialist Models](../ai/research/arxiv-2609-13556.md)
   - [Domain-Specific Self-Supervised Representation Learning for Retinal Fundus Classification](../ai/research/arxiv-2608-26686.md)
@@ -39999,6 +39994,7 @@ Resources organized by keyword tags.
   - [From Vessel Trajectories to Safety-Critical Encounter Scenarios: A Generative AI Framework for Autonomous Ship Digital Testing](../ai/agents/arxiv-2603-28067.md)
   - [From Visual Attribution to Clinical Reasoning: Explainable Parkinson's Disease Screening from Hand-Drawn Patterns](../ai/research/arxiv-2609-14441.md)
   - [From a River in Gilead to the Inference Distributions of Large Language Models: Covert Dialect Bias and Linguistic Profiling at Scale](../ai/research/arxiv-2609-18068.md)
+  - [Frontier Airlines Likely Breached](../ai/community/frontier-airlines-likely-breached.md)
   - [Frontier Autolab: Organizational Memory, Adversarial Dissent and Temporal Leakage in Multi-Agent LLM Firms Across Fifty Years of Technological Change](../ai/agents/arxiv-2609-36739.md)
   - [Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction](../ai/research/arxiv-2608-01202.md)
   - [Fruitful Code · GitHub](../ai/resources/fruitful-code-github.md)
@@ -40516,6 +40512,7 @@ Resources organized by keyword tags.
   - [Iso-Riemannian Optimization on Learned Data Manifolds](../ai/research/arxiv-2510-21033.md)
   - [Isotonic Bradley-Terry Model for Paired Comparison Data](../ai/research/arxiv-2608-02081.md)
   - [It Takes a Forum: Resources & Stakeholders Sustaining the Online Synthetic Non-Consensual Intimate Image Creation Ecosystem](../ai/research/arxiv-2604-12190.md)
+  - [It wasn't AI that flipped Proton's charge](../ai/community/it-wasn-t-ai-that-flipped-proton-s-charge.md)
   - [Iterative Flow Matching: Path Correction and Gradual Refinement for Enhanced Generative Modeling](../ai/research/arxiv-2502-16445.md)
   - [Iterative Refinement Diffusion for Super-Resolved Data Assimilation of Multiscale Physical Systems](../ai/research/arxiv-2608-14744.md)
   - [JAMS: Mediation, Arbitration and ADR Services](../ai/resources/jams-mediation-arbitration-and-adr-services.md)
@@ -40647,7 +40644,6 @@ Resources organized by keyword tags.
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
-  - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](../ai/community/arxiv-2409-02292.md)
   - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius - The JetBrains Blog](../ai/agents/learn-ai-assisted-programming-with-junie-free-cour.md)
   - [Learn C the Hard Way](../ai/resources/learn-c-the-hard-way.md)
   - [Learn Databricks - Training & Resources | Databricks](../ai/rag/learn-databricks-training-resources-databricks.md)
@@ -41093,7 +41089,6 @@ Resources organized by keyword tags.
   - [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](../ai/rag/next-generation-medical-image-interpretation-with.md)
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
-  - [No AI, 52 min. Build all Linux Files utils in C by Hand [video]](../ai/community/youtube-gqrmslctq9c.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
   - [No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers](../ai/research/arxiv-2609-10854.md)
   - [Node-level Graph Neural Architecture Search Framework](../ai/research/arxiv-2610-09297.md)
@@ -41111,7 +41106,6 @@ Resources organized by keyword tags.
   - [Nonparametric Control Koopman Operators](../ai/research/arxiv-2405-07312.md)
   - [Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and Local Geometry-Adaptivity of Transformers](../ai/research/arxiv-2609-31458.md)
   - [Nonparametric Variance-Penalized Actor-Critic: Statistical Inference for Risk-Sensitive Reinforcement Learning](../ai/research/arxiv-2609-14327.md)
-  - [Norway makes shithouses great again](../ai/community/norway-makes-shithouses-great-again.md)
   - [NostrAgent: A Decentralized Identity and Delegation Architecture for Sovereign Agentic Systems](../ai/rag/arxiv-2609-22944.md)
   - [Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines](../ai/research/arxiv-2603-06952.md)
   - [Nothing Personal, a new editorial platform by Mozilla Foundation - Mozilla Foundation](../ai/rag/nothing-personal-a-new-editorial-platform-by-mozil.md)
@@ -42459,6 +42453,7 @@ Resources organized by keyword tags.
   - [UPPAAi: Towards LLM-Assisted Modeling, Verification, Analysis and Synthesis](../ai/research/arxiv-2610-40042.md)
   - [URL Pattern Standard](../ai/rag/url-pattern-standard.md)
   - [URL Standard](../ai/rag/url-standard.md)
+  - [US Jobs Pickup May Keep Fed on Track to Hike Rates Again](../ai/community/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates.md)
   - [US privacy policy | OpenAI](../ai/agents/us-privacy-policy-openai.md)
   - [UT Austin Computer Science](../ai/rag/ut-austin-computer-science.md)
   - [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md)
@@ -74977,6 +74972,7 @@ Resources organized by keyword tags.
   - [From Surfaces to Volumes: Registered Geometry for Protein Representation Learning](../ai/research/arxiv-2609-36277.md)
   - [From Vessel Trajectories to Safety-Critical Encounter Scenarios: A Generative AI Framework for Autonomous Ship Digital Testing](../ai/agents/arxiv-2603-28067.md)
   - [Front Page — Free Software Foundation — working together for free software](../ai/resources/front-page-free-software-foundation-working-togeth.md)
+  - [Frontier Airlines Likely Breached](../ai/community/frontier-airlines-likely-breached.md)
   - [Frozen archives in the heart of Antarctica | CNRS Images](../ai/resources/frozen-archives-in-the-heart-of-antarctica-cnrs-im.md)
   - [Functional linear regression from sparse to dense designs: a pooling-ridge method and minimax optimality](../ai/research/arxiv-2608-25468.md)
   - [Functional programming - Wikipedia](../ai/rag/functional-programming-wikipedia.md)
@@ -85232,7 +85228,6 @@ Resources organized by keyword tags.
   - [Newest 'twilio' Questions - Stack Overflow](../ai/agents/newest-twilio-questions-stack-overflow.md)
   - [Next.js 9.1.7](../web-development/nextjs/next-js-9-1-7.md)
   - [NextMe-800: Anticipating Personal Behavior from Months of Egocentric Video](../ai/research/arxiv-2610-01461.md)
-  - [No AI, 52 min. Build all Linux Files utils in C by Hand [video]](../ai/community/youtube-gqrmslctq9c.md)
   - [No Task Vector Is an Island: A Comprehensive Study on the Composability of Task Vectors from On-Policy Distillation](../ai/rag/arxiv-2609-39405.md)
   - [NoRA: Evaluating Grounded Reasonableness in Visual First-person Normative Action Reasoning](../ai/agents/arxiv-2606-04806.md)
   - [Node4All: Learning Node Representation Beyond Datasets](../ai/research/arxiv-2607-17272.md)
@@ -86743,4 +86738,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-01T21:04:56.572697+05:30*
+*Index generated on 2026-11-02T02:24:58.781834+05:30*
