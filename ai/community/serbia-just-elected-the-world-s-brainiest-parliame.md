@@ -13,13 +13,14 @@ collected_at: '2026-11-01T05:01:43.187805+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:serbia-just-elected-the-world-s-brainiest-parliame
 first_seen: '2026-10-31T20:07:44.209772+05:30'
 last_seen: '2026-11-01T05:01:43.187805+05:30'
 last_checked: '2026-11-01T05:01:43.187805+05:30'
 health_score: 100
 ---
+
 
 # Serbia just elected the world's brainiest parliament
 

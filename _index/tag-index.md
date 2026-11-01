@@ -9706,9 +9706,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
+  - [AI text watermarking and quality loss](../ai/community/ai-text-watermarking-and-quality-loss.md)
   - [Anthropic blocks users for anything touching training larger models](../ai/community/anthropic-blocks-users-for-anything-touching-train.md)
-  - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
+  - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](../ai/community/arxiv-2409-02292.md)
 
 ## animation
 
@@ -38328,7 +38328,6 @@ Resources organized by keyword tags.
   - [2026 | CVPR Art](../ai/rag/2026-cvpr-art.md)
   - [24*I:cset_awesome*](../ai/agents/24-i-cset-awesome.md)
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
-  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
   - [6G Native AI and Channel Foundation Models](../ai/rag/arxiv-2608-14591.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
@@ -38560,6 +38559,7 @@ Resources organized by keyword tags.
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
   - [AI in Science Fellowship - Schmidt Sciences](../ai/resources/ai-in-science-fellowship-schmidt-sciences.md)
   - [AI software reliability platform | incident.io](../ai/agents/ai-software-reliability-platform-incident-io.md)
+  - [AI text watermarking and quality loss](../ai/community/ai-text-watermarking-and-quality-loss.md)
   - [AI vs Human Expert Reasoning: Assessing Agreements in Building Typology Predictions based on Street View Imagery](../ai/rag/arxiv-2607-14756.md)
   - [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](../ai/research/arxiv-2506-16898.md)
   - [AI+X](../ai/resources/ai-x.md)
@@ -40643,6 +40643,7 @@ Resources organized by keyword tags.
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
+  - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](../ai/community/arxiv-2409-02292.md)
   - [Learn AI-Assisted Programming With Junie: Free Courses From JetBrains Academy and Nebius - The JetBrains Blog](../ai/agents/learn-ai-assisted-programming-with-junie-free-cour.md)
   - [Learn C the Hard Way](../ai/resources/learn-c-the-hard-way.md)
   - [Learn Databricks - Training & Resources | Databricks](../ai/rag/learn-databricks-training-resources-databricks.md)
@@ -41875,7 +41876,6 @@ Resources organized by keyword tags.
   - [SentenceTransformers Documentation — Sentence Transformers documentation](../ai/rag/sentencetransformers-documentation-sentence-transf.md)
   - [Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels](../ai/agents/arxiv-2607-23438.md)
   - [Sequential LLM Release Facilitates Manipulation in Regulated Markets](../ai/agents/arxiv-2601-11496.md)
-  - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
   - [Serge Belongie](../ai/resources/serge-belongie.md)
   - [Serve Gemma open models using GPUs on GKE with vLLM | GKE AI/ML | Google Cloud Documentation](../ai/rag/serve-gemma-open-models-using-gpus-on-gke-with-vll.md)
   - [Server-side Anti-cheat in FPS games for Aimbot detection using Deep learning and Machine learning](../ai/research/arxiv-2607-04336.md)
@@ -42801,7 +42801,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -74442,7 +74441,6 @@ Resources organized by keyword tags.
   - [2027 Conference](../ai/resources/2027-conference.md)
   - [3100 Opinions on Code Review in an AI World: Building Causal Theory from Practitioner Discourse](../ai/agents/arxiv-2607-07980.md)
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
-  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
   - [6 ways to grow your network](../ai/agents/6-ways-to-grow-your-network.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
@@ -75876,7 +75874,6 @@ Resources organized by keyword tags.
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
   - [Tor Blog | The Tor Project](../ai/resources/tor-blog-the-tor-project.md)
   - [Tor Project | Download](../ai/resources/tor-project-download.md)
-  - [TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU](../ai/research/arxiv-2610-24161.md)
   - [Toward Agents That Reason About Their Computation](../ai/rag/arxiv-2510-22833.md)
   - [Towards Agentic Agent-based Models: Feasibility, Performance, and Statistical Model Checking](../ai/agents/arxiv-2607-17948.md)
   - [Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments - ACL Anthol](../ai/rag/towards-better-understanding-of-program-of-thought.md)
@@ -86733,4 +86730,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-01T05:18:27.671038+05:30*
+*Index generated on 2026-11-01T12:07:35.196847+05:30*

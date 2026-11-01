@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://twitter.com/jiahaoshao1/status/2116475922190922088
 hn_url: https://news.ycombinator.com/item?id=50319358
-score: 137
+score: 297
 author: pretext
-comments_count: 42
+comments_count: 164
 published_at: '2026-11-01T01:09:19+05:30'
-collected_at: '2026-11-01T05:01:41.727080+05:30'
+collected_at: '2026-11-01T11:50:50.116559+05:30'
 tags:
 - ai
 - anthropic
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:anthropic-blocks-users-for-anything-touching-train
 first_seen: '2026-11-01T05:01:41.727080+05:30'
-last_seen: '2026-11-01T05:01:41.727080+05:30'
-last_checked: '2026-11-01T05:01:41.727080+05:30'
+last_seen: '2026-11-01T11:50:50.116559+05:30'
+last_checked: '2026-11-01T11:50:50.116559+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pretext. Score: 137, Comments: 42.
+Hacker News story by pretext. Score: 297, Comments: 164.
 Original Link: https://twitter.com/jiahaoshao1/status/2116475922190922088
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pretext
-- Score: 137 Upvotes
-- Comments: 42 Discussions
+- Score: 297 Upvotes
+- Comments: 164 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=50319358
 - Original Article: https://twitter.com/jiahaoshao1/status/2116475922190922088
 

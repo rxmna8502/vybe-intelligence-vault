@@ -33995,7 +33995,6 @@ Resources organized by publisher feed and query sources.
   - [Topology-induced Operators Reveal Complementary Graph Representations without Training](../ai/rag/arxiv-2609-08152.md)
   - [TorchDCM: A Unified PyTorch-Native Package for Discrete Choice Modeling](../ai/rag/arxiv-2608-19231.md)
   - [TorchSpin: Differentiable Electron Paramagnetic Resonance Simulation in PyTorch](../ai/research/arxiv-2610-18924.md)
-  - [TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU](../ai/research/arxiv-2610-24161.md)
   - [Toscani-Fourier Distance on Probability Measures: Wasserstein Control, Topological Equivalence on Model Classes, and Duality](../ai/research/arxiv-2609-23163.md)
   - [Total Cost of Agency: Exact Attribution of Memory Injection Cost in Multi-Agent LLM Workflows](../ai/agents/arxiv-2609-23790.md)
   - [Total Variation Distance Estimation in Autoregressive Models](../ai/research/arxiv-2607-19510.md)
@@ -38598,9 +38597,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet](../ai/community/5-years-of-oqtadrive-microdrive-emulation-to-sincl.md)
+  - [AI text watermarking and quality loss](../ai/community/ai-text-watermarking-and-quality-loss.md)
   - [Anthropic blocks users for anything touching training larger models](../ai/community/anthropic-blocks-users-for-anything-touching-train.md)
-  - [Serbia just elected the world's brainiest parliament](../ai/community/serbia-just-elected-the-world-s-brainiest-parliame.md)
+  - [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)](../ai/community/arxiv-2409-02292.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -42504,4 +42503,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-01T05:18:28.200006+05:30*
+*Index generated on 2026-11-01T12:07:35.730157+05:30*
