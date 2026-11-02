@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgl
-status: active
+status: inactive
 resource_id: hackernews:show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm
 first_seen: '2026-11-01T20:48:30.567979+05:30'
 last_seen: '2026-11-02T11:49:23.673046+05:30'
 last_checked: '2026-11-02T11:49:23.673046+05:30'
 health_score: 100
 ---
+
 
 # Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2
 

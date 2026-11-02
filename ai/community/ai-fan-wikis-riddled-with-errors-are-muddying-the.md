@@ -13,13 +13,14 @@ collected_at: '2026-11-02T11:49:23.386834+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-fan-wikis-riddled-with-errors-are-muddying-the
 first_seen: '2026-11-02T11:49:23.386834+05:30'
 last_seen: '2026-11-02T11:49:23.386834+05:30'
 last_checked: '2026-11-02T11:49:23.386834+05:30'
 health_score: 100
 ---
+
 
 # AI fan wikis riddled with errors are muddying the waters of games culture
 

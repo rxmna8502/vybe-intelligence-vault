@@ -38887,10 +38887,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI fan wikis riddled with errors are muddying the waters of games culture](../ai/community/ai-fan-wikis-riddled-with-errors-are-muddying-the.md)
-  - [Domain hacks with unusual Unicode characters (2018)](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md)
-  - [Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](../web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md)
-  - [The AI cost of JavaScript frameworks](../ai/community/the-ai-cost-of-javascript-frameworks.md)
+  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
+  - [C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](../ai/community/c64-basic-dungeon-crawler-stairs-levels-and-levell.md)
+  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
+  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
+  - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](../ai/community/launch-hn-momentic-yc-w24-agents-that-catch-bugs-b.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -39797,8 +39798,8 @@ Resources organized by publisher feed and query sources.
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [roisincrtai/ptb-xl-1.0.3](../ai/models/huggingface-datasets-roisincrtai.md)
-  - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [wegrthj/e94fjt-qi9l-raw](../ai/models/huggingface-datasets-wegrthj.md)
+  - [wei82/precancer-omics-data](../ai/models/huggingface-datasets-wei82.md)
 
 ## Unknown Source (type: huggingface_model)
 
@@ -39806,9 +39807,9 @@ Resources organized by publisher feed and query sources.
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [argmaxinc/whisperkit-coreml](../ai/models/huggingface-argmaxinc-whisperkit-coreml.md)
+  - [autogluon/chronos-2](../ai/models/huggingface-autogluon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
-  - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [openai-community/gpt2](../ai/models/huggingface-openai-community-gpt2.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
@@ -42794,4 +42795,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-02T12:07:17.419271+05:30*
+*Index generated on 2026-11-03T00:17:46.690242+05:30*

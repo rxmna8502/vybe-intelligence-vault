@@ -4799,6 +4799,7 @@ Resources organized by keyword tags.
   - [LargeMonitor: Monitoring Online Task-Free Continual Learning via Large Pretrained Models](../ai/rag/arxiv-2606-09430.md)
   - [Last Secure Code Benchmark: Is the Code You Vibe Secure?](../ai/agents/arxiv-2610-14766.md)
   - [Last Step Matters: Early Uncertainty Cannot Predict Failure in Long-Horizon Agents](../ai/agents/arxiv-2608-29685.md)
+  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
   - [LatBridge: Efficient and Stable Model Replacement in Latent-Communication Multi-Agent Systems](../ai/agents/arxiv-2610-27813.md)
   - [Latent Actions from Factorized Transition Effects under Agent Ambiguity](../ai/agents/arxiv-2606-30544.md)
   - [Latent Collaboration in Multi-Agent Systems](../ai/rag/arxiv-2511-20639.md)
@@ -4817,6 +4818,7 @@ Resources organized by keyword tags.
   - [LatentSift: Policy-State Filtering for Token-Efficient Verification of Software Engineering Agents](../ai/agents/arxiv-2609-36371.md)
   - [LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](../ai/rag/arxiv-2606-06087.md)
   - [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](../ai/agents/arxiv-2610-26869.md)
+  - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](../ai/community/launch-hn-momentic-yc-w24-agents-that-catch-bugs-b.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models](../ai/agents/arxiv-2606-01838.md)
   - [LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](../ai/agents/arxiv-2609-23058.md)
@@ -9756,9 +9758,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AI fan wikis riddled with errors are muddying the waters of games culture](../ai/community/ai-fan-wikis-riddled-with-errors-are-muddying-the.md)
-  - [Domain hacks with unusual Unicode characters (2018)](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md)
-  - [The AI cost of JavaScript frameworks](../ai/community/the-ai-cost-of-javascript-frameworks.md)
+  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
+  - [C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](../ai/community/c64-basic-dungeon-crawler-stairs-levels-and-levell.md)
+  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
+  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
 
 ## animation
 
@@ -9872,6 +9875,7 @@ Resources organized by keyword tags.
   - [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](../ai/agents/arxiv-2609-30725.md)
   - [Announcements](../ai/companies/anthropic/announcements.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
+  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
   - [AnyPoC: Universal Proof-of-Concept Test Generation for Scalable LLM-Based Bug Detection](../ai/agents/arxiv-2604-11950.md)
   - [Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work](../ai/agents/arxiv-2608-20622.md)
   - [Approval Laundering: Systematizing Approval--Execution Binding Failures in AI Coding-Agent Harnesses](../ai/agents/arxiv-2609-38983.md)
@@ -10246,6 +10250,7 @@ Resources organized by keyword tags.
   - [JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution](../ai/agents/arxiv-2608-25593.md)
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
   - [JetBrains AI - The JetBrains Blog](../ai/rag/jetbrains-ai-the-jetbrains-blog.md)
+  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
   - [Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs](../ai/research/arxiv-2607-18086.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
@@ -21669,7 +21674,6 @@ Resources organized by keyword tags.
   - [Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise](../ai/rag/arxiv-2609-22053.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
   - [Particle Monte Carlo Tree Search](../ai/research/arxiv-2605-08982.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](../ai/research/arxiv-2609-13785.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
@@ -36429,6 +36433,7 @@ Resources organized by keyword tags.
   - [[2412.02186] VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding](../ai/resources/2412-02186-videoicl-confidence-based-iterative-in.md)
   - [[2510.08847] What Is Your Agent's GPA? A Framework for Evaluating Agent Goal-Plan-Action Alignment](../ai/rag/arxiv-2510-08847.md)
   - [`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](../ai/models/huggingface-blog-lerobot-datasets-v3.md)
+  - [autogluon/chronos-2](../ai/models/huggingface-autogluon-chronos-2.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [beezwax blog](../ai/resources/beezwax-blog.md)
   - [bigscience-workshop/promptsource](../ai/resources/bigscience-workshop-promptsource.md)
@@ -36454,7 +36459,6 @@ Resources organized by keyword tags.
   - [gemma3](../ai/resources/gemma3.md)
   - [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
-  - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [gp2Scale: A Class of Compactly Supported Non-Stationary Kernels and Distributed Computing for Exact Gaussian Processes on 10 Million Data Points](../ai/rag/arxiv-2512-06143.md)
   - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
@@ -36511,9 +36515,9 @@ Resources organized by keyword tags.
   - [sentence-transformers/examples/cross_encoder/training/ms_marco at main · huggingface/sentence-transformers · GitHub](../ai/resources/ukplab-sentence-transformers.md)
   - [sentence-transformers/msmarco-bert-base-dot-v5 · Hugging Face](../ai/rag/huggingface-sentence-transformers-msmarco-bert-base-dot-v5.md)
   - [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](../ai/research/arxiv-2607-15254.md)
-  - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | vLLM Blog](../ai/rag/vllm-easy-fast-and-cheap-llm-serving-with-pagedatt.md)
   - [wegrthj/e94fjt-qi9l-raw](../ai/models/huggingface-datasets-wegrthj.md)
+  - [wei82/precancer-omics-data](../ai/models/huggingface-datasets-wei82.md)
   - [xMICD: Explainable Representation of Multiple ICD Codes](../ai/research/arxiv-2608-00935.md)
   - [zPocket: Better Pocket Finding with Frozen Co-Folding Features](../ai/rag/arxiv-2610-17696.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
@@ -38784,7 +38788,6 @@ Resources organized by keyword tags.
   - [AI and Consumer Rights in India Working Paper](../ai/research/arxiv-2608-12863.md)
   - [AI and ML | Google Cloud Documentation](../ai/rag/ai-and-ml-google-cloud-documentation.md)
   - [AI and TCAD for Inverse Design and Defect Discovery: From Simple Machine Learning to LLM](../ai/research/arxiv-2609-07046.md)
-  - [AI fan wikis riddled with errors are muddying the waters of games culture](../ai/community/ai-fan-wikis-riddled-with-errors-are-muddying-the.md)
   - [AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers](../ai/research/arxiv-2609-08166.md)
   - [AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis](../ai/research/arxiv-2607-06590.md)
   - [AI for Research | Scite](../ai/rag/scite-ai-for-research.md)
@@ -39003,6 +39006,7 @@ Resources organized by keyword tags.
   - [Anomaly Detection and Root Cause Analysis for Microservice Systems](../ai/research/arxiv-2606-09942.md)
   - [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](../ai/research/arxiv-2609-14803.md)
   - [Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations](../ai/agents/arxiv-2608-20390.md)
+  - [Anthropic's internal AI use, at retail prices, now exceeds its employee pay](../ai/community/anthropic-s-internal-ai-use-at-retail-prices-now-e.md)
   - [Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture](../ai/research/arxiv-2506-19935.md)
   - [AnyJev Technical Report](../ai/rag/arxiv-2610-00831.md)
   - [Apache BeamÂ®](../ai/rag/apache-beama-r.md)
@@ -39278,6 +39282,7 @@ Resources organized by keyword tags.
   - [C-Score: Beyond Accuracy for Robustness Assessment in Semi-Supervised Learning under Open-World Unlabeled Contamination](../ai/research/arxiv-2608-20667.md)
   - [C/C++ - Visual Studio Marketplace](../ai/resources/c-c-visual-studio-marketplace.md)
   - [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md)
+  - [C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)](../ai/community/c64-basic-dungeon-crawler-stairs-levels-and-levell.md)
   - [CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer](../ai/rag/arxiv-2602-11410.md)
   - [CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design](../ai/rag/arxiv-2609-16251.md)
   - [CAF-Gen: A Multi-Agent System for Enriching Argumentation Structures](../ai/agents/arxiv-2606-06646.md)
@@ -39825,7 +39830,6 @@ Resources organized by keyword tags.
   - [Does Notation Matter? MusicXML Tokenisation for Symbolic Music Generation and Understanding](../ai/research/arxiv-2610-34247.md)
   - [Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study](../ai/agents/arxiv-2608-13568.md)
   - [Domain adaptation for handwriting trajectory reconstruction from IMU sensors](../ai/rag/arxiv-2607-26736.md)
-  - [Domain hacks with unusual Unicode characters (2018)](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md)
   - [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](../ai/research/arxiv-2608-12227.md)
   - [Domain-Specific Jargon in Large Language Models: A Comparative Analysis between General-Purpose and Specialist Models](../ai/research/arxiv-2609-13556.md)
   - [Domain-Specific Self-Supervised Representation Learning for Retinal Fundus Classification](../ai/research/arxiv-2608-26686.md)
@@ -40763,6 +40767,7 @@ Resources organized by keyword tags.
   - [Jira Cloud support | Jira Cloud | Atlassian Support](../ai/resources/jira-cloud-support-jira-cloud-atlassian-support.md)
   - [Jira | Atlassian Community](../ai/rag/jira-atlassian-community.md)
   - [Job Application for Synack Red Team - Pentester at Synack SRT](../ai/resources/job-application-for-synack-red-team-pentester-at-s.md)
+  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
   - [Join | Mozilla Data Collective](../ai/resources/join-mozilla-data-collective.md)
   - [Joint Detection of Fraud and Concept Drift inOnline Conversations with LLM-Assisted Judgment](../ai/research/arxiv-2505-07852.md)
   - [Joint Development Foundation](../ai/resources/joint-development-foundation.md)
@@ -40869,12 +40874,14 @@ Resources organized by keyword tags.
   - [Large Transformer Model Inference Optimization | Lil'Log](../ai/rag/large-transformer-model-inference-optimization-lil.md)
   - [Large language models can effectively convince people to believe conspiracies](../ai/rag/arxiv-2601-05050.md)
   - [Large-scale factor analysis shows machine intelligence is only partially interpretable](../ai/research/arxiv-2609-36515.md)
+  - [Last night an AI agent performed brain surgery on a mouse](../ai/community/last-night-an-ai-agent-performed-brain-surgery-on.md)
   - [Latency optimization | OpenAI API](../ai/rag/latency-optimization-openai-api.md)
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
   - [Latent space bias directions in LLMs capture confidence, not fairness](../ai/research/arxiv-2610-08559.md)
   - [Latent-to-Latent Flow for Volumetric Stochastic Segmentation](../ai/research/arxiv-2609-07460.md)
+  - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](../ai/community/launch-hn-momentic-yc-w24-agents-that-catch-bugs-b.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -42132,7 +42139,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](../web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Showing versus Doing: Teaching by Demonstration](../ai/research/arxiv-2610-14004.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -42427,7 +42433,6 @@ Resources organized by keyword tags.
   - [The /llms.txt file – llms-txt](../ai/rag/the-llms-txt-file-llms-txt.md)
   - [The AI Assessment Sandbox Configurator: A Framework to Support Technical Assessment in AI Regulatory Sandboxes](../ai/rag/arxiv-2610-01539.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
-  - [The AI cost of JavaScript frameworks](../ai/community/the-ai-cost-of-javascript-frameworks.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems](../ai/agents/arxiv-2608-03214.md)
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
@@ -43270,8 +43275,8 @@ Resources organized by keyword tags.
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
   - [m-a-p/FineFineWeb](../ai/models/huggingface-datasets-m-a-p.md)
   - [roisincrtai/ptb-xl-1.0.3](../ai/models/huggingface-datasets-roisincrtai.md)
-  - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [wegrthj/e94fjt-qi9l-raw](../ai/models/huggingface-datasets-wegrthj.md)
+  - [wei82/precancer-omics-data](../ai/models/huggingface-datasets-wei82.md)
 
 ## hf-model
 
@@ -43279,9 +43284,9 @@ Resources organized by keyword tags.
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
   - [Comfy-Org/MiniMax-H3](../ai/models/huggingface-comfy-org-minimax-h3.md)
   - [argmaxinc/whisperkit-coreml](../ai/models/huggingface-argmaxinc-whisperkit-coreml.md)
+  - [autogluon/chronos-2](../ai/models/huggingface-autogluon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
-  - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [openai-community/gpt2](../ai/models/huggingface-openai-community-gpt2.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
@@ -43329,6 +43334,7 @@ Resources organized by keyword tags.
   - [Kwai-Kolors/Kolors-Virtual-Try-On](../ai/models/huggingface-spaces-kwai-kolors.md)
   - [Salesforce/wikitext](../ai/models/huggingface-datasets-salesforce.md)
   - [argmaxinc/whisperkit-coreml](../ai/models/huggingface-argmaxinc-whisperkit-coreml.md)
+  - [autogluon/chronos-2](../ai/models/huggingface-autogluon-chronos-2.md)
   - [ayuo/hd_tmp](../ai/models/huggingface-datasets-ayuo.md)
   - [black-forest-labs/FLUX.1-dev](../ai/models/huggingface-spaces-black-forest-labs.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
@@ -43337,7 +43343,6 @@ Resources organized by keyword tags.
   - [epfml/FineWeb-HQ](../ai/models/huggingface-datasets-epfml.md)
   - [facebook/MusicGen](../ai/models/huggingface-spaces-facebook.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
-  - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [hallucinations-leaderboard/results](../ai/models/huggingface-datasets-hallucinations-leaderboard.md)
   - [hf-doc-build/doc-build-dev](../ai/models/huggingface-datasets-hf-doc-build.md)
   - [huggingface/documentation-images](../ai/models/huggingface-datasets-huggingface.md)
@@ -43349,8 +43354,8 @@ Resources organized by keyword tags.
   - [roisincrtai/ptb-xl-1.0.3](../ai/models/huggingface-datasets-roisincrtai.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)
-  - [transferable-samplers/many-peptides-md](../ai/models/huggingface-datasets-transferable-samplers.md)
   - [wegrthj/e94fjt-qi9l-raw](../ai/models/huggingface-datasets-wegrthj.md)
+  - [wei82/precancer-omics-data](../ai/models/huggingface-datasets-wei82.md)
 
 ## java
 
@@ -54137,6 +54142,7 @@ Resources organized by keyword tags.
   - [Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](../ai/rag/arxiv-2604-27724.md)
   - [Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking](../ai/rag/arxiv-2602-24009.md)
   - [JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode](../ai/research/arxiv-2607-02825.md)
+  - [Jobless tech workers are being left out of San Francisco's AI boom](../ai/community/jobless-tech-workers-are-being-left-out-of-san-fra.md)
   - [Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines](../ai/research/arxiv-2604-23178.md)
   - [Jupyter AI](../ai/rag/jupyter-ai.md)
   - [Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs](../ai/research/arxiv-2607-14099.md)
@@ -61455,6 +61461,7 @@ Resources organized by keyword tags.
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
   - [LatticeMind: A Validation-Gated Agentic Framework for Density Functional Theory Workflows](../ai/agents/arxiv-2610-26869.md)
+  - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](../ai/community/launch-hn-momentic-yc-w24-agents-that-catch-bugs-b.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -77880,7 +77887,6 @@ Resources organized by keyword tags.
   - [Semi-Linear Gaussian Bayesian Networks: Enhancing Flexibility in Node Dependencies via penalized B-Splines](../ai/research/arxiv-2610-30838.md)
   - [Shallow neural network approximation in mixed Sobolev spaces](../ai/research/arxiv-2609-05263.md)
   - [Shift-Invariant Attribute Scoring for Kolmogorov-Arnold Networks via Shapley Value](../ai/research/arxiv-2510-01663.md)
-  - [Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](../web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md)
   - [Silent Failures Beyond the 32-Bit Index Range: A Differential Characterization of Large-Tensor Matrix Multiplication in PyTorch's MPS Backend](../ai/research/arxiv-2609-22991.md)
   - [Snowflake Status](../ai/rag/snowflake-status.md)
   - [SparseKAN: Compressing Kolmogorov--Arnold Networks Across Basis Functions, Neurons, and Bits](../ai/research/arxiv-2608-00859.md)
@@ -80947,10 +80953,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## webgl
-
-  - [Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](../web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md)
-
 ## workflows
 
   - ["Skill Issues'': Data-Centric Optimization of Lakehouse Agents](../ai/agents/arxiv-2606-01185.md)
@@ -83387,6 +83389,7 @@ Resources organized by keyword tags.
   - [pathwaycom/pathway](../ai/rag/pathwaycom-pathway.md)
   - [pgvector/pgvector](../ai/rag/pgvector-pgvector.md)
   - [pinecone-io/examples](../ai/rag/pinecone-io-examples.md)
+  - [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
   - [pnpm - Open Collective](../ai/rag/pnpm-open-collective.md)
   - [prometheus-eval/BiGGen-Bench at main · prometheus-eval/prometheus-eval · GitHub](../ai/rag/prometheus-eval-prometheus-eval.md)
@@ -87205,4 +87208,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-11-02T12:07:17.113500+05:30*
+*Index generated on 2026-11-03T00:17:46.389157+05:30*

@@ -13,13 +13,14 @@ collected_at: '2026-11-02T11:49:23.035880+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-ai-cost-of-javascript-frameworks
 first_seen: '2026-11-01T20:48:32.100856+05:30'
 last_seen: '2026-11-02T11:49:23.035880+05:30'
 last_checked: '2026-11-02T11:49:23.035880+05:30'
 health_score: 100
 ---
+
 
 # The AI cost of JavaScript frameworks
 
