@@ -13,13 +13,14 @@ collected_at: '2026-11-02T02:08:12.557824+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:us-jobs-pickup-may-keep-fed-on-track-to-hike-rates
 first_seen: '2026-11-02T02:08:12.557824+05:30'
 last_seen: '2026-11-02T02:08:12.557824+05:30'
 last_checked: '2026-11-02T02:08:12.557824+05:30'
 health_score: 100
 ---
+
 
 # US Jobs Pickup May Keep Fed on Track to Hike Rates Again
 

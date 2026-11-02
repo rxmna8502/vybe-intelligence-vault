@@ -13,13 +13,14 @@ collected_at: '2026-11-02T02:08:12.776832+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:understanding-email-encryption
 first_seen: '2026-11-01T20:48:31.983899+05:30'
 last_seen: '2026-11-02T02:08:12.776832+05:30'
 last_checked: '2026-11-02T02:08:12.776832+05:30'
 health_score: 100
 ---
+
 
 # Understanding Email Encryption
 
