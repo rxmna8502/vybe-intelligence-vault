@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-11-02T02:29:44.119675+05:30`
+Generated at: `2026-11-02T06:00:10.517375+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Frontier Airlines Likely Breached** - Score: `123` in category `ai/community` ([Link](https://reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam)) ([File](../ai/community/frontier-airlines-likely-breached.md))
-- **It wasn't AI that flipped Proton's charge** - Score: `75` in category `ai/community` ([Link](https://blog.raed.dev/posts/proton-loser-thinking)) ([File](../ai/community/it-wasn-t-ai-that-flipped-proton-s-charge.md))
-- **US Jobs Pickup May Keep Fed on Track to Hike Rates Again** - Score: `20` in category `ai/community` ([Link](https://bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again)) ([File](../ai/community/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates.md))
+- **[CATEGORY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/category-request.md))
 
 ## Top Trending Resources
 
-- **The AI cost of JavaScript frameworks** - Score: `250` (+78), Rank Change: `+1` ([File](../ai/community/the-ai-cost-of-javascript-frameworks.md))
-- **Understanding Email Encryption** - Score: `106` (+43), Rank Change: `+2` ([File](../ai/community/understanding-email-encryption.md))
-- **Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2** - Score: `56` (+41), Rank Change: `+3` ([File](../web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+21` ([File](../ai/companies/graphics-multimedia.md))
+- **kylestratis/ai_agents_mcp_examples** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/agents/kylestratis-ai-agents-mcp-examples.md))
+- **ashishpatel26/500-AI-Agents-Projects** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
+- **jamwithai/production-agentic-rag-course** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/jamwithai-production-agentic-rag-course.md))
+- **vstorm-co/full-stack-ai-agent-template** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/vstorm-co-full-stack-ai-agent-template.md))
+- **vivy-yi/rag-tutorial** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/vivy-yi-rag-tutorial.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **enescingoz/awesome-n8n-templates** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/enescingoz-awesome-n8n-templates.md))
+- **TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/tarrysingh-artificial-intelligence-deep-learning-machine-learning-tutorials.md))
+- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+1046` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
-- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
-- **Next.js 6 and Nextjs.org** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
-- **Next.js 6.1** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-6-1.md))
-- **Next.js 7** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-7.md))
-- **Next.js 8** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-8.md))
-- **Next.js 8 Webpack Memory Improvements** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-8-webpack-memory-improvements.md))
-- **Styling Next.js with Styled JSX** - (Rank Change: `+24`) ([File](../web-development/nextjs/styling-next-js-with-styled-jsx.md))
-- **Next.js 8.0.4** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-8-0-4.md))
-- **Next.js 8.1** - (Rank Change: `+24`) ([File](../web-development/nextjs/next-js-8-1.md))
+- **infiniflow/ragflow** - (Rank Change: `+28079`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **Medium Terms of Service | by Medium | Medium Policy** - (Rank Change: `+1048`) ([File](../ai/rag/medium-terms-of-service-by-medium-medium-policy.md))
+- **promptfoo/promptfoo-action** - (Rank Change: `+1048`) ([File](../ai/rag/promptfoo-promptfoo-action.md))
+- **ALucek/GraphRAG-Breakdown** - (Rank Change: `+1048`) ([File](../ai/rag/alucek-graphrag-breakdown.md))
+- **How to Leverage Synthetic Speech for LLM-Based ASR Systems?** - (Rank Change: `+1048`) ([File](../ai/rag/arxiv-2606-29031.md))
+- **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-26428.md))
+- **Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-21887.md))
+- **MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation** - (Rank Change: `+1048`) ([File](../ai/rag/arxiv-2606-09677.md))
+- **EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models** - (Rank Change: `+1048`) ([File](../ai/research/arxiv-2606-06379.md))
+- **Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin** - (Rank Change: `+1048`) ([File](../ai/agents/arxiv-2606-05050.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,8 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Norway makes shithouses great again** (Category: `ai/community`) ([File](../ai/community/norway-makes-shithouses-great-again.md))
-- **Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)** (Category: `ai/community`) ([File](../ai/community/arxiv-2409-02292.md))
-- **No AI, 52 min. Build all Linux Files utils in C by Hand [video]** (Category: `ai/community`) ([File](../ai/community/youtube-gqrmslctq9c.md))
-- **AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy** (Category: `ai/community`) ([File](../ai/community/ai-agent-swarms-in-minecraft-fail-to-build-civiliz.md))
-- **Domain hacks with unusual Unicode characters (2018)** (Category: `ai/community`) ([File](../ai/community/domain-hacks-with-unusual-unicode-characters-2018.md))
+No recently active resources transitioned to inactive.
+
