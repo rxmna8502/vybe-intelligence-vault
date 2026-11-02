@@ -1,309 +1,6 @@
 {
-  "generated_at": "2026-11-02T12:10:08.535252+05:30",
+  "generated_at": "2026-11-02T18:35:55.247164+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:the-ai-cost-of-javascript-frameworks",
-      "title": "The AI cost of JavaScript frameworks",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
-      "file_path": "ai/community/the-ai-cost-of-javascript-frameworks.md",
-      "score": 340,
-      "score_change": 90,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm",
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "category": "web-development/community",
-      "source_type": "hackernews",
-      "url": "https://kevs3d.co.uk/phoria2",
-      "file_path": "web-development/community/show-hn-i-rebuilt-my-old-canvas-3d-library-as-a-sm.md",
-      "score": 84,
-      "score_change": 28,
-      "rank_change": 3,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:viktoriasemaan/multi-agent",
-      "title": "viktoriasemaan/multi-agent",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/viktoriasemaan/multi-agent",
-      "file_path": "ai/agents/viktoriasemaan-multi-agent.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 12138,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:react-canaries-enabling-incremental-feature-rollou",
-      "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
-      "category": "web-development",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2023/05/03/react-canaries",
-      "file_path": "web-development/react-canaries-enabling-incremental-feature-rollou.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 82,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:sunsetting-create-react-app",
-      "title": "Sunsetting Create React App",
-      "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
-      "file_path": "ai/rag/sunsetting-create-react-app.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 82,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:react-19-3",
-      "title": "React 19.3",
-      "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2026/09/09/react-19-3",
-      "file_path": "ai/rag/react-19-3.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 82,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:safeguards",
-      "title": "Safeguards",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/safeguards",
-      "file_path": "ai/companies/anthropic/safeguards.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 29,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:preparing-for-the-2026-us-midterms",
-      "title": "Preparing for the 2026 US midterms",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/2026-us-midterms",
-      "file_path": "ai/companies/anthropic/preparing-for-the-2026-us-midterms.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 29,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:an-update-on-independent-evaluators",
-      "title": "An update on independent evaluators",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/an-update-on-independent-evaluators",
-      "file_path": "ai/companies/anthropic/an-update-on-independent-evaluators.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 29,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:physicist-christopher-stubbs-joins-anthropic-s-lon",
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "file_path": "ai/companies/anthropic/physicist-christopher-stubbs-joins-anthropic-s-lon.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 29,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:viktoriasemaan/multi-agent",
-      "title": "viktoriasemaan/multi-agent",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/viktoriasemaan/multi-agent",
-      "file_path": "ai/agents/viktoriasemaan-multi-agent.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 12138,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:applied-ai",
-      "title": "Applied AI",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/applied-ai",
-      "file_path": "ai/companies/openai/applied-ai.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 603,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:ai-adoption",
-      "title": "AI Adoption",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/ai-adoption",
-      "file_path": "ai/companies/openai/ai-adoption.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 603,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:global-affairs",
-      "title": "Global Affairs",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/global-affairs",
-      "file_path": "ai/companies/openai/global-affairs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 603,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:intelligence-age",
-      "title": "Intelligence Age",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/intelligence-age",
-      "file_path": "ai/companies/openai/intelligence-age.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 603,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:engineering",
-      "title": "Engineering",
-      "category": "ai/companies/openai",
-      "source_type": "company_blog",
-      "url": "https://openai.com/news/engineering",
-      "file_path": "ai/companies/openai/engineering.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 603,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:react-canaries-enabling-incremental-feature-rollou",
-      "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
-      "category": "web-development",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2023/05/03/react-canaries",
-      "file_path": "web-development/react-canaries-enabling-incremental-feature-rollou.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 82,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:sunsetting-create-react-app",
-      "title": "Sunsetting Create React App",
-      "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
-      "file_path": "ai/rag/sunsetting-create-react-app.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 82,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:react-19-3",
-      "title": "React 19.3",
-      "category": "ai/rag",
-      "source_type": "rss",
-      "url": "https://react.dev/blog/2026/09/09/react-19-3",
-      "file_path": "ai/rag/react-19-3.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 82,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:safeguards",
-      "title": "Safeguards",
-      "category": "ai/companies/anthropic",
-      "source_type": "company_blog",
-      "url": "https://anthropic.com/news/safeguards",
-      "file_path": "ai/companies/anthropic/safeguards.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 29,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:domain-hacks-with-unusual-unicode-characters-2018",
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters",
-      "file_path": "ai/community/domain-hacks-with-unusual-unicode-characters-2018.md",
-      "score": 69,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:ai-fan-wikis-riddled-with-errors-are-muddying-the",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "file_path": "ai/community/ai-fan-wikis-riddled-with-errors-are-muddying-the.md",
-      "score": 60,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:whobot-ai/awesome-voice-agents",
-      "title": "whobot-ai/awesome-voice-agents",
-      "category": "ai/agents",
-      "source_type": "github",
-      "url": "https://github.com/whobot-ai/awesome-voice-agents",
-      "file_path": "ai/agents/whobot-ai-awesome-voice-agents.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2610.39812",
       "title": "GROME: GROunding Factorized MEmory into Video World Models",
@@ -313,8 +10,8 @@
       "file_path": "ai/research/arxiv-2610-39812.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -326,8 +23,8 @@
       "file_path": "ai/research/arxiv-2610-38378.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -339,8 +36,8 @@
       "file_path": "ai/research/arxiv-2610-37381.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -352,8 +49,8 @@
       "file_path": "ai/agents/arxiv-2610-22731.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -365,8 +62,8 @@
       "file_path": "ai/rag/arxiv-2610-17117.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -378,8 +75,8 @@
       "file_path": "ai/research/arxiv-2610-13808.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -391,8 +88,8 @@
       "file_path": "ai/research/arxiv-2610-11748.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -404,8 +101,8 @@
       "file_path": "ai/rag/arxiv-2610-06063.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -417,8 +114,8 @@
       "file_path": "ai/rag/arxiv-2610-04337.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -430,30 +127,151 @@
       "file_path": "ai/research/arxiv-2609-30215.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 149,
+      "new_resource": false,
       "tier": "tier-3"
-    },
+    }
+  ],
+  "fastest_rising_tools": [
     {
-      "id": "arxiv:2608.05595",
-      "title": "How Much Reconstruction Does Quantum Machine Learning Need? Late Fusion of Uncoupled Quantum Subcircuits",
-      "category": "ai/research",
-      "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2608.05595",
-      "file_path": "ai/research/arxiv-2608-05595.md",
+      "id": "github:infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/infiniflow/ragflow",
+      "file_path": "ai/rag/infiniflow-ragflow-2.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 28079,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2607.00774",
-      "title": "Soft Mixture-of-Recursions: Going Deeper with Recursive Vision Transformers",
+      "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+      "title": "Medium Terms of Service | by Medium | Medium Policy",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+      "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:promptfoo/promptfoo-action",
+      "title": "promptfoo/promptfoo-action",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/promptfoo/promptfoo-action",
+      "file_path": "ai/rag/promptfoo-promptfoo-action.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:alucek/graphrag-breakdown",
+      "title": "ALucek/GraphRAG-Breakdown",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/alucek/graphrag-breakdown",
+      "file_path": "ai/rag/alucek-graphrag-breakdown.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.29031",
+      "title": "How to Leverage Synthetic Speech for LLM-Based ASR Systems?",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.29031",
+      "file_path": "ai/rag/arxiv-2606-29031.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.26428",
+      "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
       "category": "ai/research",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2607.00774",
-      "file_path": "ai/research/arxiv-2607-00774.md",
+      "url": "https://arxiv.org/abs/2606.26428",
+      "file_path": "ai/research/arxiv-2606-26428.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.21887",
+      "title": "Improving Engine Sound Analysis in Hot-Test Environments via a RAB-U-Net (Residual Attention Block U-Net) Noise Removal Method",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.21887",
+      "file_path": "ai/research/arxiv-2606-21887.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.09677",
+      "title": "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation",
+      "category": "ai/rag",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.09677",
+      "file_path": "ai/rag/arxiv-2606-09677.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.06379",
+      "title": "EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models",
+      "category": "ai/research",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.06379",
+      "file_path": "ai/research/arxiv-2606-06379.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2606.05050",
+      "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
+      "category": "ai/agents",
+      "source_type": "arxiv",
+      "url": "https://arxiv.org/abs/2606.05050",
+      "file_path": "ai/agents/arxiv-2606-05050.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1048,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:category",
+      "title": "[CATEGORY] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -461,40 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:frontier-airlines-likely-breached",
-      "title": "Frontier Airlines Likely Breached",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam",
-      "file_path": "ai/community/frontier-airlines-likely-breached.md"
-    },
-    {
-      "id": "hackernews:understanding-email-encryption",
-      "title": "Understanding Email Encryption",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://fastmail.com/blog/email-encryption",
-      "file_path": "ai/community/understanding-email-encryption.md"
-    },
-    {
-      "id": "hackernews:it-wasn-t-ai-that-flipped-proton-s-charge",
-      "title": "It wasn't AI that flipped Proton's charge",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://blog.raed.dev/posts/proton-loser-thinking",
-      "file_path": "ai/community/it-wasn-t-ai-that-flipped-proton-s-charge.md"
-    },
-    {
-      "id": "hackernews:us-jobs-pickup-may-keep-fed-on-track-to-hike-rates",
-      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
-      "file_path": "ai/community/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
